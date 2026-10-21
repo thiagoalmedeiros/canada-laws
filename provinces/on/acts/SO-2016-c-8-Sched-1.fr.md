@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2021-10-19"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16o08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # sentiers de l'Ontario (Loi de 2016 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16o08) before relying on it.
 
 L.O. 2016, chap. 8, Annexe 1
 
@@ -21,9 +21,13 @@ L.O. 2016, chap. 8, Annexe 1
 ### Objets
 
 1 Les objets de la présente loi sont les suivants :
+
 1. Sensibiliser davantage la population aux sentiers et en encourager l’utilisation.
+
 2. Améliorer les sentiers ainsi que l’expérience de leurs usagers.
+
 3. Protéger les sentiers pour les générations actuelles et futures.
+
 4. Reconnaître la contribution des sentiers à la qualité de vie en Ontario.
 
 ### Droits ancestraux ou issus de traités
@@ -33,6 +37,7 @@ L.O. 2016, chap. 8, Annexe 1
 ### Définition
 
 3 La définition qui suit s’applique à la présente loi.
+
 «ministre» Le ministre du Tourisme, de la Culture et du Sport ou l’autre membre du Conseil exécutif chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif.
 
 ### Sentiers en Ontario
@@ -68,7 +73,9 @@ L.O. 2016, chap. 8, Annexe 1
 ### Stratégie ontarienne pour l’aménagement des sentiers
 
 8 (1) Le ministre poursuit une stratégie ontarienne pour l’aménagement des sentiers qui :
+
 a) d’une part, établit des orientations stratégiques en vue de la création, de la gestion, de la promotion et de l’utilisation des sentiers en Ontario;
+
 b) d’autre part, s’inspire de la vision d’une province dotée d’un réseau hors pair de sentiers variés, planifié et utilisé dans le respect de l’environnement, qui contribue à la santé et à la prospérité de tous les Ontariens.
 
 ### Examen périodique de la stratégie
@@ -90,9 +97,13 @@ b) d’autre part, s’inspire de la vision d’une province dotée d’un rése
 ### Consultation
 
 10 (1) Lorsqu’il élabore un processus de reconnaissance des sentiers d’exception de l’Ontario, qu’il établit un système de classification des sentiers et les meilleures pratiques, qu’il procède à l’examen de la stratégie ontarienne pour l’aménagement des sentiers ou qu’il fixe des objectifs, le ministre :
+
 a) consulte les personnes et entités qu’il juge appropriées;
+
 b) tient compte des politiques et programmes gouvernementaux qui ont une incidence sur les sentiers en Ontario ou qui s’y rapportent et qui, selon le cas :
+
 (i) méritent, de l’avis du ministre, qu’il en tienne compte,
+
 (ii) sont pertinents dans le cadre de l’examen, d’après un autre ministre qui l’en informe.
 
 ### Législation et politiques de l’Ontario
@@ -102,10 +113,15 @@ b) tient compte des politiques et programmes gouvernementaux qui ont une inciden
 ### Accès public aux renseignements
 
 11 Le ministre publie ce qui suit sur un site Web du gouvernement :
+
 1. Le nom de chaque sentier reconnu comme sentier d’exception de l’Ontario en vertu de l’article 5.
+
 2. Le système de classification des sentiers établi en vertu de l’article 6, le cas échéant.
+
 3. Les meilleures pratiques établies en vertu de l’article 7, le cas échéant.
+
 4. La stratégie ontarienne pour l’aménagement des sentiers et chaque rapport d’étape exigé en application de l’article 8.
+
 5. Les objectifs fixés en vertu de l’article 9, le cas échéant.
 
 ### Servitudes
@@ -115,20 +131,35 @@ b) tient compte des politiques et programmes gouvernementaux qui ont une inciden
 ### Définitions
 
 12 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «organisme admissible» S’entend de ce qui suit :
+
 a) la Couronne du chef du Canada ou du chef de l’Ontario;
+
 b) un organisme, un conseil ou une commission de la Couronne du chef du Canada ou du chef de l’Ontario qui a le pouvoir de détenir un droit sur une terre;
+
 c) une bande au sens de la Loi sur les Indiens (Canada);
+
 d) une collectivité ou une organisation autochtone prescrite par les règlements pris en vertu de la présente loi;
+
 e) une municipalité;
+
 f) un office de protection de la nature créé en vertu de la Loi sur les offices de protection de la nature ;
+
 g) un conseil ou un conseil scolaire au sens de la Loi sur l’éducation ;
+
 h) une organisation constituée en vertu de la Loi de 2010 sur les organisations sans but lucratif ou d’une loi qu’elle remplace, ou une organisation constituée en vertu de la Loi canadienne sur les organisations à but non lucratif ou d’une loi qu’elle remplace, qui est un organisme de bienfaisance enregistré en vertu de la Loi de l’impôt sur le revenu (Canada);
+
 i) un fiduciaire d’une fondation de bienfaisance qui est un organisme de bienfaisance enregistré en vertu de la Loi de l’impôt sur le revenu (Canada);
+
 j) un donataire visé par règlement pris en vertu de la Loi de l’impôt sur le revenu (Canada);
+
 k) un organisme qualifié au sens que l’alinéa 170 h) du Internal Revenue Code (États-Unis) et le Treasury Reg. 1.170A-14 (États-Unis) donnent à l’expression «qualified organization»;
+
 l) une personne morale créée en vertu d’une loi qui est un organisme de bienfaisance enregistré en vertu de la Loi de l’impôt sur le revenu (Canada);
+
 m) une autre personne ou un autre organisme prescrit par les règlements pris en vertu de la présente loi. («eligible body»)
+
 «propriétaire» S’entend d’un propriétaire enregistré en vertu de la Loi sur l’enregistrement des actes ou de la Loi sur l’enregistrement des droits immobiliers. («owner») 2016, chap. 8, annexe 1, par. 12 (1)
 
 ### Personne désignée par un organisme admissible
@@ -138,8 +169,11 @@ m) une autre personne ou un autre organisme prescrit par les règlements pris en
 ### Concession de servitudes
 
 (3) Le propriétaire d’une terre peut, à l’une ou l’autre des fins suivantes, concéder une servitude, en y stipulant des engagements, à un ou plusieurs organismes admissibles :
+
 a) la préservation, l’amélioration ou la gestion de l’utilisation de tout ou partie de cette terre ou de l’accès à celle-ci à des fins liées aux sentiers ou aux activités qui s’y rapportent;
+
 b) la création, l’entretien ou la gestion des sentiers pour l’usage public;
+
 c) les fins prescrites, le cas échéant, par les règlements pris en vertu de la présente loi.
 
 ### Concession volontaire de servitudes
@@ -177,8 +211,11 @@ c) les fins prescrites, le cas échéant, par les règlements pris en vertu de l
 ### Idem
 
 (12) L’organisme admissible ne peut céder la servitude qu’à un autre organisme admissible et seulement si les conditions suivantes sont réunies :
+
 1. L’organisme admissible donne au propriétaire de la terre un préavis raisonnable de la cession.
+
 2. La cession est faite par écrit.
+
 3. La cession est faite conformément aux engagements visés au paragraphe (11).
 
 ### Idem : enregistrement
@@ -212,7 +249,9 @@ c) les fins prescrites, le cas échéant, par les règlements pris en vertu de l
 ### Aucune fusion de servitudes enregistrées
 
 (20) Si un organisme admissible devient propriétaire de la terre à l’égard de laquelle elle bénéficie d’une servitude enregistrée :
+
 a) d’une part, la servitude et le droit de propriété sur la terre ne fusionnent pas sous un seul titre;
+
 b) d’autre part, en cas de cession de cette terre par l’organisme admissible, la servitude et les engagements continuent de s’y rattacher.
 
 ### Droits conservés
@@ -228,8 +267,13 @@ b) d’autre part, en cas de cession de cette terre par l’organisme admissible
 ### Règlements
 
 14 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des collectivités ou organisations autochtones pour l’application de l’alinéa d) de la définition de «organisme admissible» au paragraphe 12 (1);
+
 b) prescrire des personnes ou des organismes pour l’application de l’alinéa m) de la définition de «organisme admissible» au paragraphe 12 (1);
+
 c) prescrire des fins pour l’application de l’alinéa 12 (3) c).
+
 15 Omis (entrée en vigueur de dispositions de la présente loi).
+
 16 Omis (édiction du titre abrégé de la présente loi).

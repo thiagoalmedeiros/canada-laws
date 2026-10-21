@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06p35"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # fonction publique de l'Ontario (Loi de 2006 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06p35) before relying on it.
 
 L.O. 2006, chap. 35, annexe A
 
@@ -23,37 +23,61 @@ L.O. 2006, chap. 35, annexe A
 ### Objets de la présente loi
 
 1 Les objets de la présente loi sont les suivants :
+
 1. Faire en sorte que la fonction publique de l’Ontario serve efficacement le public, le gouvernement et la Législature.
+
 2. Veiller à l’impartialité, au professionnalisme, au respect de l’éthique et à la compétence au sein de la fonction publique de l’Ontario.
+
 3. Énoncer des rôles et des responsabilités en ce qui a trait à l’administration de la fonction publique de l’Ontario.
+
 4. Prévoir un cadre juridique pour la direction et la gestion de la fonction publique de l’Ontario.
+
 5. Énoncer des droits et des obligations en matière de respect de l’éthique applicables aux fonctionnaires.
+
 6. Énoncer des droits et des obligations en matière d’activités politiques applicables aux fonctionnaires.
+
 7. Établir la procédure de divulgation et d’enquête en matière d’actes répréhensibles au sein de la fonction publique de l’Ontario et protéger des représailles les fonctionnaires qui font des divulgations.
 
 ### Interprétation
 
 2 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «cabinet d’un ministre» S’entend en outre du cabinet de l’adjoint parlementaire du ministre, le cas échéant. («minister’s office»)
+
 «commissaire à l’intégrité» Le commissaire à l’intégrité nommé en application de la Loi de 1994 sur l’intégrité des députés. («Integrity Commissioner»)
+
 «commissaire aux conflits d’intérêts» Le commissaire aux conflits d’intérêts visé à l’article 14 dans sa version antérieure au jour de l’entrée en vigueur de l’article 2 de l’annexe 35 de la Loi de 2018 visant à rétablir la confiance, la transparence et la responsabilité. («Conflict of Interest Commissioner»)
+
 «fonction publique de l’Ontario» S’entend de ce qui suit :
+
 a) les ministères, y compris les cabinets des ministres;
+
 b) les organismes publics. («public service of Ontario»)
+
 «ministre» Membre du Conseil exécutif. («minister»)
+
 «organisme public» Organisme prescrit comme tel en vertu de l’alinéa 8 (1.1) a). («public body»)
+
 «organisme public rattaché à la Commission» Organisme public prescrit comme tel en vertu de l’alinéa 8 (1.1) b). («Commission public body»)
+
 «personne nommée par le gouvernement» Personne qui est fonctionnaire par l’effet de la disposition 5 du paragraphe (2). («government appointee»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «règlement» Règlement pris en application de la présente loi. («regulation») 2006, chap. 35, annexe A, par. 2 (1)
 
 ### Fonctionnaires
 
 (2) Les personnes suivantes sont des fonctionnaires pour l’application de la présente loi :
+
 1. Les personnes employées aux termes de la partie III.
+
 2. Le secrétaire du Conseil des ministres.
+
 3. Les sous-ministres.
+
 4. Les employés d’un organisme public.
+
 5. Les personnes nommées à un organisme public par le lieutenant-gouverneur en conseil, le lieutenant-gouverneur ou un ministre.
 
 ### Certaines personnes nommées ne sont pas fonctionnaires
@@ -91,17 +115,25 @@ b) les organismes publics. («public service of Ontario»)
 ### Règlements, partie I
 
 8 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) et b) Abrogés : 2009, chap. 33, annexe 17, par. 10 (3).
+
 c) traiter de la formulation des serments et des affirmations solennelles exigés en application des articles 5 et 6 et de la manière de les prêter ou de les faire;
+
 d) prescrire les circonstances dans lesquelles un fonctionnaire est soustrait à l’exigence de jurer ou d’affirmer solennellement son allégeance à la Couronne en application du paragraphe 5 (1);
+
 e) prescrire les personnes qui sont habilitées à faire prêter serment ou à recevoir des affirmations solennelles pour l’application des articles 5 et 6.
 
 ### Idem : ministre
 
 (1.1) Le ministre chargé de l’application de la présente loi peut, par règlement :
+
 a) prescrire les organismes qui sont des organismes publics pour l’application de la définition de «organisme public» au paragraphe 2 (1);
+
 b) prescrire en tant qu’organismes publics rattachés à la Commission pour l’application de la définition de «organisme public rattaché à la Commission» au paragraphe 2 (1) les organismes publics :
+
 (i) soit pour lesquels la Commission de la fonction publique peut, en vertu de la présente loi ou de toute autre loi, nommer des fonctionnaires aux termes de la partie III,
+
 (ii) soit à l’égard desquels il n’existe pas de pouvoir, prévu par une loi, d’employer des personnes.
 
 ### Portée des règlements
@@ -143,8 +175,11 @@ b) prescrire en tant qu’organismes publics rattachés à la Commission pour l�
 ### Idem
 
 (2) La Commission de la fonction publique se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le présenter au ministre;
+
 c) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -208,6 +243,7 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Immunité
 
 19 Les articles 25 et 26 de la Loi de 1994 sur l’intégrité des députés s’appliquent au commissaire à l’intégrité et aux employés du bureau du commissaire à l’égard des fonctions que leur attribue la présente loi.
+
 19.1 Abrogé : 2018, chap. 17, annexe 35, art. 2.
 
 ### Immunité
@@ -221,6 +257,7 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Rejet d’instances
 
 (3) Les instances visées au paragraphe (1) qui sont introduites avant le jour de l’entrée en vigueur de ce paragraphe sont réputées avoir été rejetées, sans dépens, ce jour-là.
+
 20.1 Abrogé : 2018, chap. 17, annexe 35, par. 3 (2).
 
 ### Commission des griefs de la fonction publique
@@ -244,7 +281,9 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Procédure
 
 23 (1) Les instances devant la Commission des griefs de la fonction publique sont régies conformément aux dispositions suivantes :
+
 1. Sous réserve de la disposition 2, la Loi sur l’exercice des compétences légales et toute règle adoptée par la Commission en vertu de cette loi s’appliquent aux instances devant la Commission.
+
 2. À l’entrée en vigueur d’un règlement pris en application du paragraphe (2) qui établit des règles de procédure pour les instances devant la Commission, la Loi sur l’exercice des compétences légales et toute règle adoptée en vertu de cette loi cessent de s’appliquer aux instances devant la Commission dans la mesure où elles sont incompatibles avec le règlement.
 
 ### Idem
@@ -262,7 +301,9 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Restriction : décision à la suite d’un grief
 
 24 (1) Lorsqu’elle rend une décision à la suite d’un grief, la Commission des griefs de la fonction publique ne doit pas prévoir qu’un fonctionnaire soit employé à un poste qui lui attribue la responsabilité directe d’une personne vulnérable précisée dans un règlement pris en application de l’alinéa 31 (1) a) ou qui lui permet d’avoir des contacts avec celle-ci si la Commission a conclu que le fonctionnaire, selon le cas :
+
 a) a usé de la force contre une personne vulnérable, sauf s’il a eu recours à la force minimale nécessaire à sa légitime défense, à la défense d’une autre personne ou à la maîtrise de la personne vulnérable pour la protection de celle-ci;
+
 b) a commis un attentat à la pudeur sur une personne vulnérable.
 
 ### Idem
@@ -272,7 +313,9 @@ b) a commis un attentat à la pudeur sur une personne vulnérable.
 ### Condamnation au criminel ou absolution
 
 25 (1) Si un fonctionnaire est déclaré coupable ou absous d’une infraction au Code criminel (Canada) à l’égard d’un acte ou d’une omission qui donne lieu à une mesure disciplinaire ou à un congédiement et que la mesure disciplinaire ou le congédiement fait l’objet d’un grief devant la Commission des griefs de la fonction publique, la preuve de la déclaration de culpabilité ou de l’absolution est tenue pour preuve concluante que le fonctionnaire a commis l’acte ou l’omission :
+
 a) après l’expiration du délai d’appel;
+
 b) s’il y a eu un appel, après qu’il a été rejeté et qu’il n’y a plus d’appel possible.
 
 ### Ajournement en attendant l’appel
@@ -330,13 +373,21 @@ b) s’il y a eu un appel, après qu’il a été rejeté et qu’il n’y a plu
 ### Règlements, partie II
 
 31 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) préciser qui est une personne vulnérable pour l’application de l’article 24;
+
 b) prescrire des pouvoirs et fonctions de la Commission des griefs de la fonction publique, outre ceux que prévoit la présente loi;
+
 c) prescrire les circonstances autres que celles énoncées dans la présente loi dans lesquelles un fonctionnaire peut déposer un grief auprès de la Commission des griefs de la fonction publique;
+
 d) prescrire les questions qui ne peuvent pas faire l’objet d’un grief devant la Commission des griefs de la fonction publique;
+
 e) prescrire les catégories de fonctionnaires qui n’ont pas le droit de déposer un grief auprès de la Commission des griefs de la fonction publique;
+
 f) prescrire les pouvoirs de recours dont dispose la Commission des griefs de la fonction publique en ce qui concerne les circonstances prescrites en vertu de l’alinéa c);
+
 g) prescrire des pouvoirs et fonctions de la Commission de la fonction publique et du commissaire à l’intégrité qu’attribue la présente loi, outre ceux déjà prévus;
+
 h) prévoir la délégation et la subdélégation des pouvoirs et fonctions prescrits en vertu de l’alinéa g), de la façon et aux personnes ou organismes que précisent les règlements, sous réserve des restrictions ou conditions prescrites.
 
 ### Idem
@@ -396,7 +447,9 @@ h) prévoir la délégation et la subdélégation des pouvoirs et fonctions pres
 ### Discipline et congédiement
 
 34 La Commission de la fonction publique peut, pour un motif valable :
+
 a) imposer à un fonctionnaire nommé par elle les mesures disciplinaires qu’elle juge appropriées, y compris la suspension;
+
 b) congédier un fonctionnaire nommé par elle si elle le juge approprié.
 
 ### Suspension : période maximale
@@ -434,9 +487,13 @@ b) congédier un fonctionnaire nommé par elle si elle le juge approprié.
 ### Congédiement pour certains motifs
 
 39 La Commission de la fonction publique peut congédier un fonctionnaire nommé par elle pour les motifs suivants :
+
 1. Une pénurie de travail.
+
 2. Un manque de fonds.
+
 3. La suppression du poste du fonctionnaire.
+
 4. Un changement important au sein du ministère ou de l’organisme public rattaché à la Commission dans lequel travaille le fonctionnaire.
 
 ### Effet du congédiement
@@ -450,7 +507,9 @@ b) congédier un fonctionnaire nommé par elle si elle le juge approprié.
 ### Retrait
 
 (2) Le fonctionnaire peut, par avis écrit à la Commission de la fonction publique, retirer son préavis d’intention de démissionner préalablement à la date de sa prise d’effet si :
+
 a) d’une part, personne n’a encore été nommé ou retenu aux fins de nomination par la Commission au poste qu’il occupe;
+
 b) d’autre part, la Commission approuve le retrait.
 
 ### Effet de la démission
@@ -510,7 +569,9 @@ b) d’autre part, la Commission approuve le retrait.
 ### Délégation : travail dans un organisme public rattaché à la Commission
 
 (4) Sous réserve du paragraphe (5), la Commission de la fonction publique peut déléguer à un sous-ministre ou à l’une ou l’autre des personnes suivantes les pouvoirs et fonctions que lui attribuent le paragraphe 32 (2) et les articles 34 à 42 à l’égard des fonctionnaires nommés par la Commission pour travailler dans un organisme public qui lui est rattaché :
+
 a) un particulier prescrit en vertu du paragraphe 55 (1.1) pour l’organisme;
+
 b) le président de l’organisme, si aucun particulier n’est prescrit en vertu du paragraphe 55 (1.1) pour l’organisme.
 
 ### Restriction
@@ -586,7 +647,9 @@ b) le président de l’organisme, si aucun particulier n’est prescrit en vert
 ### Mesures disciplinaires
 
 49 Les articles 34 à 36 et les articles 39 à 42 s’appliquent, avec les adaptations nécessaires, à l’égard des fonctionnaires nommés aux termes de l’article 47 et, à cette fin :
+
 a) la mention d’un fonctionnaire nommé par la Commission de la fonction publique vaut mention d’un fonctionnaire nommé aux termes de l’article 47;
+
 b) la mention de la Commission de la fonction publique vaut mention du particulier désigné par le premier ministre à l’égard du cabinet d’un ministre pour l’application de l’article 47 ou, si aucun particulier n’est désigné, du ministre.
 
 ### Congédiement sans motif valable
@@ -638,8 +701,11 @@ b) la mention de la Commission de la fonction publique vaut mention du particuli
 ### Règlements, partie III
 
 55 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire la durée maximale d’une suspension pendant une enquête pour l’application du paragraphe 36 (2);
+
 b) prescrire des catégories de postes pour l’application du paragraphe 38 (1).
+
 c) Abrogé : 2009, chap. 33, annexe 17, par. 10 (9).
 
 ### Idem : ministre
@@ -671,10 +737,15 @@ c) Abrogé : 2009, chap. 33, annexe 17, par. 10 (9).
 ### Règles pour les organismes publics
 
 58 (1) Les fonctionnaires et anciens fonctionnaires qui travaillent dans un organisme public ou y travaillaient juste avant de cesser d’être fonctionnaires se conforment aux règles relatives aux conflits d’intérêts qui s’appliquent à leur égard, déterminées comme suit :
+
 1. Les règles relatives aux conflits d’intérêts qui s’appliquent aux fonctionnaires ou anciens fonctionnaires sont celles, le cas échéant, qui sont approuvées et publiées par le commissaire à l’intégrité aux termes de l’article 59 ou 60 pour l’organisme public.
+
 2. Au cours de l’année qui débute le jour de l’entrée en vigueur du présent article, si aucune règle n’est approuvée et publiée par le commissaire aux conflits d’intérêts aux termes de l’article 59 ou 60 pour un organisme public rattaché à la Commission, les règles relatives aux conflits d’intérêts prescrites en vertu de l’alinéa 71 (1) a) s’appliquent aux fonctionnaires ou anciens fonctionnaire avec les adaptations nécessaires.
+
 3. Au cours de l’année qui débute le jour de l’entrée en vigueur du présent article, si aucune règle n’est approuvée et publiée par le commissaire aux conflits d’intérêts aux termes de l’article 59 ou 60 pour un organisme public qui n’est pas un organisme public rattaché à la Commission, les règles relatives aux conflits d’intérêts qui s’appliquent aux fonctionnaires ou anciens fonctionnaires sont celles qui s’appliquaient à ceux-ci juste avant l’entrée en vigueur du présent article.
+
 4. À compter du 21 août 2008, mais avant le jour de l’entrée en vigueur de l’article 2 de l’annexe 35 de la Loi de 2018 visant à rétablir la confiance, la transparence et la responsabilité, si aucune règle n’est approuvée et publiée par le commissaire aux conflits d’intérêts pour un organisme public, les règles relatives aux conflits d’intérêts prescrites en vertu de l’alinéa 71 (1) a) de la présente loi s’appliquent aux fonctionnaires ou anciens fonctionnaires, avec les adaptations nécessaires.
+
 5. À compter du jour de l’entrée en vigueur de l’article 2 de l’annexe 35 de la Loi de 2018 visant à rétablir la confiance, la transparence et la responsabilité, si aucune règle n’est approuvée et publiée par le commissaire à l’intégrité pour un organisme public, les règles relatives aux conflits d’intérêts prescrites en vertu de l’alinéa 71 (1) a) de la présente loi s’appliquent aux fonctionnaires ou anciens fonctionnaires, avec les adaptations nécessaires.
 
 ### Disposition transitoire
@@ -720,8 +791,11 @@ c) Abrogé : 2009, chap. 33, annexe 17, par. 10 (9).
 ### Modification des règles
 
 61 (1) Les paragraphes (2) et (3) s’appliquent si, selon le cas :
+
 a) l’organisme public ne soumet pas les règles modifiées dans le délai précisé en application du paragraphe 60 (1) ou (2);
+
 b) le commissaire à l’intégrité avise l’organisme public que les règles modifiées que ce dernier soumet en application du paragraphe 60 (1) ne satisfont pas au critère énoncé au paragraphe 59 (2);
+
 c) l’organisme public annule les règles qu’il a établies en application de l’article 59 ou 60 et en avise le commissaire à l’intégrité par écrit.
 
 ### Idem
@@ -735,10 +809,15 @@ c) l’organisme public annule les règles qu’il a établies en application de
 ### Responsable de l’éthique des fonctionnaires
 
 62 (1) Le responsable de l’éthique d’un fonctionnaire est déterminé de la façon suivante :
+
 1. Le responsable de l’éthique des fonctionnaires employés aux termes de la partie III qui travaillent dans un ministère, à l’exclusion du cabinet d’un ministre, est le sous-ministre.
+
 2. Le responsable de l’éthique d’un sous-ministre est le secrétaire du Conseil des ministres.
+
 3. Le responsable de l’éthique des fonctionnaires qui travaillent dans un organisme public, en tant que personnes nommées par le gouvernement, employés aux termes de la partie III ou employés de l’organisme public, est le particulier prescrit en vertu du paragraphe 71 (1.1) pour le fonctionnaire ou, si aucun particulier n’est prescrit pour le fonctionnaire en vertu de cet alinéa, le président de l’organisme.
+
 4. Le responsable de l’éthique du secrétaire du Conseil des ministres, des présidents des organismes publics et des particuliers prescrits en vertu des paragraphes 55 (1.1) et 71 (1.1) est le commissaire à l’intégrité.
+
 5. Abrogée : 2018, chap. 17, annexe 35, art. 7.
 
 ### Délégation : Police provinciale de l’Ontario
@@ -748,14 +827,19 @@ c) l’organisme public annule les règles qu’il a établies en application de
 ### Responsable de l’éthique des anciens fonctionnaires
 
 63 Le responsable de l’éthique d’un ancien fonctionnaire est déterminé de la façon suivante :
+
 1. Le responsable de l’éthique des anciens fonctionnaires qui, juste avant de cesser d’être fonctionnaires, étaient des fonctionnaires employés aux termes de la partie III qui travaillaient dans un ministère, à l’exclusion du cabinet d’un ministre, est la Commission de la fonction publique.
+
 2. Le responsable de l’éthique des anciens fonctionnaires qui, juste avant de cesser d’être fonctionnaires, travaillaient dans un organisme public, en tant que personnes nommées par le gouvernement, employés aux termes de la partie III ou employés de l’organisme public, est le commissaire à l’intégrité.
+
 3. Le responsable de l’éthique d’un ancien sous-ministre ou d’un ancien secrétaire du Conseil des ministres est le commissaire à l’intégrité.
 
 ### Sensibilisation au respect de l’éthique
 
 64 Le responsable de l’éthique d’un fonctionnaire qui travaille dans un ministère, à l’exclusion du cabinet d’un ministre, ou qui travaille dans un organisme public fait ce qui suit :
+
 a) il veille à ce que les fonctionnaires qui travaillent dans le ministère ou l’organisme public connaissent bien les règles relatives aux conflits d’intérêts qui s’appliquent à l’égard du ministère ou de l’organisme;
+
 b) il sensibilise les fonctionnaires qui travaillent dans le ministère ou l’organisme public au respect de l’éthique.
 
 ### Rôle du responsable de l’éthique
@@ -779,7 +863,9 @@ b) il sensibilise les fonctionnaires qui travaillent dans le ministère ou l’o
 ### Décisions et directives
 
 (5) Le responsable de l’éthique fait ce qui suit :
+
 a) il décide des questions qui lui sont soumises aux termes des paragraphes (1) à (3) ou qui font l’objet d’une demande de renseignements prévue au paragraphe (4);
+
 b) dans le cas où il détermine qu’il y a conflit d’intérêts ou conflit d’intérêts possible, il donne au fonctionnaire ou à l’ancien fonctionnaire les directives, le cas échéant, qu’il estime appropriées en vue d’y remédier.
 
 ### Idem
@@ -811,7 +897,9 @@ b) dans le cas où il détermine qu’il y a conflit d’intérêts ou conflit d
 ### Sensibilisation au respect de l’éthique
 
 67 Le ministre fait ce qui suit :
+
 a) il veille à ce que les fonctionnaires qui travaillent dans le cabinet du ministre connaissent bien les règles relatives aux conflits d’intérêts qui s’appliquent à l’égard du cabinet;
+
 b) il sensibilise les fonctionnaires qui travaillent dans le cabinet du ministre au respect de l’éthique.
 
 ### Responsable de l’éthique
@@ -839,7 +927,9 @@ b) il sensibilise les fonctionnaires qui travaillent dans le cabinet du ministre
 ### Décisions et directives
 
 (5) Le responsable de l’éthique fait ce qui suit :
+
 a) il décide des questions qui lui sont soumises aux termes des paragraphes (1) à (3) ou qui font l’objet d’une demande de renseignements prévue au paragraphe (4);
+
 b) dans le cas où il détermine qu’il y a conflit d’intérêts ou conflit d’intérêts possible, il donne au fonctionnaire ou à l’ancien fonctionnaire qui travaille dans le cabinet d’un ministre ou y travaillait juste avant de cesser d’être fonctionnaire les directives, le cas échéant, qu’il estime appropriées en vue d’y remédier.
 
 ### Observation des directives
@@ -849,7 +939,9 @@ b) dans le cas où il détermine qu’il y a conflit d’intérêts ou conflit d
 ### Avis au ministre
 
 (7) Le responsable de l’éthique avise le ministre si, selon le cas :
+
 a) il détermine aux termes du paragraphe (5) qu’un fonctionnaire ou ancien fonctionnaire qui travaille dans le cabinet du ministre ou y travaillait juste avant de cesser d’être fonctionnaire a un conflit d’intérêts ou un conflit d’intérêts possible;
+
 b) il donne des directives aux termes du paragraphe (5) à un fonctionnaire ou ancien fonctionnaire qui travaille dans le cabinet du ministre ou y travaillait juste avant de cesser d’être fonctionnaire.
 
 ### Sanctions
@@ -863,10 +955,15 @@ b) il donne des directives aux termes du paragraphe (5) à un fonctionnaire ou a
 ### Règlements, partie IV
 
 71 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) établir les règles relatives aux conflits d’intérêts pour les fonctionnaires et anciens fonctionnaires qui travaillent dans un ministère ou y travaillaient juste avant de cesser d’être fonctionnaires, à l’exclusion de ceux qui travaillent ou travaillaient dans le cabinet d’un ministre, pour l’application de l’article 57;
+
 b) Abrogé : 2009, chap. 33, annexe 17, par. 10 (12).
+
 c) établir les règles relatives aux conflits d’intérêts pour les fonctionnaires et anciens fonctionnaires qui travaillent dans le cabinet d’un ministre ou y travaillaient juste avant de cesser d’être fonctionnaires, pour l’application de l’article 66;
+
 d) prescrire des pouvoirs et fonctions du responsable de l’éthique en ce qui concerne les questions de conflits d’intérêts, outre ceux que prévoit la présente loi;
+
 e) traiter des modalités à suivre en ce qui concerne la présente partie.
 
 ### Idem : ministre
@@ -884,15 +981,21 @@ e) traiter des modalités à suivre en ce qui concerne la présente partie.
 ### Activités politiques
 
 72 Pour l’application de la présente partie, un fonctionnaire prend part à des activités politiques lorsque, selon le cas :
+
 a) il fait quoi que ce soit pour appuyer un parti politique fédéral ou provincial ou pour s’opposer à celui-ci;
+
 b) il fait quoi que ce soit pour appuyer un candidat à des élections fédérales, provinciales ou municipales ou pour s’opposer à celui-ci;
+
 c) il est candidat ou cherche à devenir candidat à des élections fédérales, provinciales ou municipales;
+
 d) il fait des commentaires en public et hors du cadre des fonctions de son poste sur des questions qui sont directement liées à ces fonctions et dont il est traité dans les positions ou les politiques d’un parti politique fédéral ou provincial ou dans les positions ou politiques exprimées publiquement par un candidat à des élections fédérales, provinciales ou municipales.
 
 ### Responsable de l’éthique
 
 73 (1) Pour l’application de la présente partie, le responsable de l’éthique d’un fonctionnaire est :
+
 a) dans le cas d’un fonctionnaire qui travaille dans le cabinet d’un ministre, le commissaire à l’intégrité;
+
 b) dans le cas de tout autre fonctionnaire, le responsable de l’éthique de celui-ci déterminé en application du paragraphe 62 (1).
 
 ### Idem
@@ -904,7 +1007,9 @@ b) dans le cas de tout autre fonctionnaire, le responsable de l’éthique de ce
 ### Application
 
 74 Les articles 75 à 84 s’appliquent aux fonctionnaires autres que :
+
 a) les fonctionnaires faisant l’objet de restrictions particulières au sens du paragraphe 85 (2);
+
 b) les fonctionnaires qui travaillent dans le cabinet d’un ministre.
 
 ### Droit aux activités politiques
@@ -918,29 +1023,45 @@ b) les fonctionnaires qui travaillent dans le cabinet d’un ministre.
 ### Activités politiques interdites
 
 77 Un fonctionnaire ne doit pas faire ce qui suit :
+
 a) prendre part à des activités politiques lorsqu’il est sur le lieu de travail;
+
 b) prendre part à des activités politiques lorsqu’il porte un uniforme associé à un poste dans la fonction publique de l’Ontario;
+
 c) utiliser les locaux, le matériel ou les fournitures du gouvernement lorsqu’il prend part à des activités politiques;
+
 d) associer son poste à des activités politiques, sauf s’il est candidat ou cherche à devenir candidat à des élections fédérales, provinciales ou municipales mais alors seulement dans la mesure nécessaire pour identifier son poste et son expérience de travail.
 
 ### Définition : «période électorale»
 
 78 La définition qui suit s’applique aux articles 79 à 82.
+
 «période électorale» S’entend de ce qui suit :
+
 a) à l’égard d’une activité politique qui se rapporte à des élections fédérales ou provinciales, la période qui commence le jour où le décret de convocation des électeurs est émis et se termine le jour du scrutin des élections;
+
 b) à l’égard d’une activité politique qui se rapporte à des élections municipales, la période qui commence 60 jours avant le jour du scrutin et se termine le jour du scrutin des élections.
 
 ### Activités politiques restreintes
 
 79 (1) Sous réserve du paragraphe (2), à moins qu’un congé non payé n’ait été accordé à un fonctionnaire aux termes de l’article 80, celui-ci ne doit pas faire ce qui suit :
+
 a) être candidat à des élections fédérales ou provinciales ou chercher à le devenir;
+
 b) solliciter des fonds pour le compte d’un parti fédéral ou provincial ou d’un candidat à des élections fédérales, provinciales ou municipales, s’il a notamment pour fonctions, selon le cas :
+
 (i) de superviser d’autres fonctionnaires,
+
 (ii) de traiter directement avec des membres du public si ceux-ci peuvent le considérer comme une personne pouvant exercer une autorité sur eux;
+
 c) faire des commentaires en public et hors du cadre de ses fonctions de fonctionnaire sur des questions qui sont directement liées à ces fonctions et dont il est traité dans les politiques d’un parti fédéral ou provincial ou dans les politiques d’un candidat à des élections fédérales, provinciales ou municipales;
+
 d) prendre part à des activités politiques dans le cas où cela pourrait entraver l’exercice de ses fonctions de fonctionnaire;
+
 e) prendre part à des activités politiques dans le cas où cela pourrait être incompatible avec ce qui suit :
+
 (i) dans le cas d’un fonctionnaire qui travaille dans un ministère, les intérêts de la Couronne,
+
 (ii) dans le cas d’un fonctionnaire qui travaille dans un organisme public, les intérêts de ce dernier.
 
 ### Exception
@@ -954,7 +1075,9 @@ e) prendre part à des activités politiques dans le cas où cela pourrait être
 ### Idem
 
 (2) Sous réserve du paragraphe (3), sur réception de la demande, le responsable de l’éthique :
+
 a) accorde un congé non payé au fonctionnaire, dans le cas d’une demande en vue de prendre part à des activités politiques pendant une période électorale;
+
 b) peut accorder un congé non payé au fonctionnaire s’il l’estime approprié, dans le cas d’une demande en vue de prendre part à des activités politiques en dehors d’une période électorale.
 
 ### Idem
@@ -968,13 +1091,17 @@ b) peut accorder un congé non payé au fonctionnaire s’il l’estime appropri
 ### Idem
 
 (2) Sur réception de la demande, le responsable de l’éthique :
+
 a) accorde un congé non payé au fonctionnaire, dans le cas d’une demande en vue de prendre part à des activités politiques pendant une période électorale;
+
 b) peut accorder un congé non payé au fonctionnaire s’il l’estime approprié, dans le cas d’une demande en vue de prendre part à des activités politiques en dehors d’une période électorale.
 
 ### Durée du congé
 
 82 Si un congé non payé est accordé aux termes de l’article 80 ou 81, les règles suivantes s’appliquent à sa durée :
+
 1. Un congé non payé accordé à un fonctionnaire pour lui permettre de prendre part à des activités politiques pendant une période électorale ne doit pas commencer avant le début de la période électorale ni se terminer après la fin de la période électorale.
+
 2. Un congé non payé accordé à un fonctionnaire pour lui permettre de prendre part à des activités politiques en dehors d’une période électorale commence et se termine conformément aux règlements pris en application de l’alinéa 107 (1) a) ou, si aucun règlement ne s’applique à l’égard du congé, aux dates que le responsable de l’éthique détermine comme étant appropriées dans les circonstances.
 
 ### Service ininterrompu
@@ -990,7 +1117,9 @@ b) peut accorder un congé non payé au fonctionnaire s’il l’estime appropri
 ### Obligation d’aviser
 
 (2) Le fonctionnaire avise son responsable de l’éthique dans le cas où ses activités politiques pourraient être incompatibles avec ce qui suit :
+
 a) dans le cas d’un fonctionnaire qui travaille dans un ministère, les intérêts de la Couronne;
+
 b) dans le cas d’un fonctionnaire qui travaille dans un organisme public, les intérêt de ce dernier.
 
 ### Demandes de renseignements
@@ -1000,7 +1129,9 @@ b) dans le cas d’un fonctionnaire qui travaille dans un organisme public, les 
 ### Décisions et directives
 
 (4) Le responsable de l’éthique fait ce qui suit :
+
 a) il décide des questions qui lui sont soumises aux termes du paragraphe (1) ou (2) ou qui font l’objet d’une demande de renseignements prévue au paragraphe (3);
+
 b) dans le cas où il détermine qu’un fonctionnaire a pris part à des activités politiques en contravention à la présente partie ou à un règlement pris ou une directive donnée en application de celle-ci, ou est sur le point de le faire, il donne au fonctionnaire les directives, le cas échéant, qu’il estime appropriées en vue de remédier à la situation.
 
 ### Idem
@@ -1028,15 +1159,25 @@ b) dans le cas où il détermine qu’un fonctionnaire a pris part à des activi
 ### Fonctionnaires faisant l’objet de restrictions particulières
 
 (2) Sont des fonctionnaires faisant l’objet de restrictions particulières :
+
 1. Abrogée : 2018, chap. 17, annexe 35, art. 10.
+
 2. Le secrétaire du Conseil des ministres.
+
 3. Les sous-ministres et les sous-ministres associés des ministères.
+
 4. Les sous-ministres adjoints des ministères.
+
 5. Les directeurs au sein des ministères.
+
 6. Les sous-directeurs des services juridiques des ministères.
+
 7. Les procureurs de la Couronne.
+
 8. Les officiers et les commandants de détachement de la Police provinciale de l’Ontario.
+
 9. Les personnes nommées par le gouvernement qui sont membres d’un tribunal administratif ou quasi judiciaire prescrit en vertu de l’alinéa 107 (1) b).
+
 10. Les fonctionnaires qui font partie d’une catégorie prescrite en vertu de l’alinéa 107 (1) c).
 
 ### Activités politiques interdites sauf permission
@@ -1050,18 +1191,27 @@ b) dans le cas où il détermine qu’un fonctionnaire a pris part à des activi
 ### Activités politiques interdites
 
 88 Lorsqu’il prend part à des activités politiques permises aux termes de l’article 89, 90 ou 92, le fonctionnaire faisant l’objet de restrictions particulières ne doit pas faire ce qui suit :
+
 a) prendre part à des activités politiques lorsqu’il est sur le lieu de travail;
+
 b) prendre part à des activités politiques lorsqu’il porte un uniforme associé à un poste dans la fonction publique de l’Ontario;
+
 c) utiliser les locaux, le matériel ou les fournitures du gouvernement lorsqu’il prend part à des activités politiques;
+
 d) associer son poste à des activités politiques, sauf s’il est candidat ou cherche à devenir candidat à des élections fédérales, provinciales ou municipales mais alors seulement dans la mesure nécessaire pour identifier son poste et son expérience de travail;
+
 e) prendre part à des activités politiques dans le cas où cela pourrait entraver l’exercice de ses fonctions de fonctionnaire.
 
 ### Activités politiques permises
 
 89 (1) Le fonctionnaire faisant l’objet de restrictions particulières peut faire ce qui suit :
+
 a) voter à des élections fédérales, provinciales ou municipales;
+
 b) faire des contributions en argent à un parti fédéral ou provincial ou à un candidat fédéral, provincial ou municipal;
+
 c) être membre d’un parti fédéral ou provincial;
+
 d) assister aux réunions rassemblant tous les candidats.
 
 ### Restrictions
@@ -1071,7 +1221,9 @@ d) assister aux réunions rassemblant tous les candidats.
 ### Activités politiques permises si autorisées
 
 90 (1) S’il y est autorisé aux termes du paragraphe (4), le fonctionnaire faisant l’objet de restrictions particulières peut faire ce qui suit :
+
 a) être candidat ou chercher à devenir candidat à des élections municipales;
+
 b) faire campagne pour le compte d’un candidat à des élections municipales.
 
 ### Autorisation
@@ -1085,7 +1237,9 @@ b) faire campagne pour le compte d’un candidat à des élections municipales.
 ### Idem
 
 (4) Sur réception de la demande, le responsable de l’éthique fait les demandes de renseignements qu’il juge appropriées et autorise le fonctionnaire faisant l’objet de restrictions particulières à prendre part à tout ou partie des activités politiques que précise la demande s’il est d’avis qu’elles n’entraveraient pas l’exercice des fonctions du fonctionnaire ni :
+
 a) dans le cas d’un fonctionnaire qui travaille dans un ministère, ne seraient incompatibles avec les intérêts de la Couronne;
+
 b) dans le cas d’un fonctionnaire qui travaille dans un organisme public, ne seraient incompatibles avec les intérêts de ce dernier.
 
 ### Idem
@@ -1107,7 +1261,9 @@ b) dans le cas d’un fonctionnaire qui travaille dans un organisme public, ne s
 ### Autorisation
 
 (2) Le fonctionnaire visé au paragraphe (1) peut présenter une demande d’autorisation en vertu du présent article en vue de prendre part à des activités politiques autres que celles permises aux termes de l’article 89, à l’exception cependant :
+
 a) des activités politiques interdites aux termes de l’article 88;
+
 b) des activités politiques pour lesquelles il peut demander une autorisation en vertu de l’article 90.
 
 ### Idem
@@ -1117,15 +1273,21 @@ b) des activités politiques pour lesquelles il peut demander une autorisation e
 ### Idem
 
 (4) Sur réception de la demande, le commissaire à l’intégrité fait les demandes de renseignements qu’il juge appropriées et autorise le fonctionnaire à prendre part à tout ou partie des activités politiques que précise la demande s’il est d’avis :
+
 a) qu’elles n’entraveraient pas l’exercice des fonctions du fonctionnaire;
+
 b) qu’elles ne seraient pas incompatibles avec les intérêts de l’organisme public auquel il est nommé.
 
 ### Idem
 
 (5) En vue de pouvoir se faire une opinion en application du paragraphe (4), le commissaire à l’intégrité tient compte de ce qui suit :
+
 1. La nature des activités politiques que précise la demande.
+
 2. La portée du pouvoir discrétionnaire qu’exerce le fonctionnaire dans son travail, dans le cas où l’exercice de ce pouvoir pourrait raisonnablement être perçu comme étant influencé par des considérations politiques.
+
 3. La visibilité du poste du fonctionnaire.
+
 4. Les autres facteurs que le commissaire juge appropriés.
 
 ### Idem
@@ -1135,7 +1297,9 @@ b) qu’elles ne seraient pas incompatibles avec les intérêts de l’organisme
 ### Idem
 
 (7) Si, lorsqu’il accorde une autorisation, le commissaire à l’intégrité exige que le fonctionnaire soit en congé non payé, celui-ci commence et se termine, selon le cas :
+
 a) conformément aux règlements pris en application de l’alinéa 107 (1) a);
+
 b) si aucun règlement ne s’applique à l’égard du congé, aux dates que le commissaire à l’intégrité détermine comme étant appropriées dans les circonstances.
 
 ### Rôle du responsable de l’éthique
@@ -1147,7 +1311,9 @@ b) si aucun règlement ne s’applique à l’égard du congé, aux dates que le
 ### Obligation d’aviser
 
 (2) Le fonctionnaire faisant l’objet de restrictions particulières avise son responsable de l’éthique dans le cas où ses activités politiques pourraient être incompatibles avec ce qui suit :
+
 a) dans le cas d’un fonctionnaire qui travaille dans un ministère, les intérêts de la Couronne;
+
 b) dans le cas d’un fonctionnaire qui travaille dans un organisme public, les intérêts de ce dernier.
 
 ### Demandes de renseignements
@@ -1157,7 +1323,9 @@ b) dans le cas d’un fonctionnaire qui travaille dans un organisme public, les 
 ### Décisions et directives
 
 (4) Le responsable de l’éthique fait ce qui suit :
+
 a) il décide des questions qui lui sont soumises aux termes du paragraphe (1) ou (2) ou qui font l’objet d’une demande de renseignements prévue au paragraphe (3);
+
 b) dans le cas où il détermine qu’un fonctionnaire a pris part à des activités politiques en contravention à la présente partie ou à un règlement pris ou une directive donnée en application de celle-ci, ou est sur le point de le faire, il donne au fonctionnaire les directives, le cas échéant, qu’il estime appropriées en vue de remédier à la situation.
 
 ### Idem
@@ -1193,8 +1361,11 @@ b) dans le cas où il détermine qu’un fonctionnaire a pris part à des activi
 ### Activités politiques interdites
 
 97 Le fonctionnaire qui travaille dans le cabinet d’un ministre ne doit pas faire ce qui suit :
+
 a) prendre part à des activités politiques qui ne sont pas liées à l’exercice de pouvoirs ou fonctions ministériels lorsqu’il est sur le lieu de travail;
+
 b) utiliser les locaux, le matériel ou les fournitures du gouvernement lorsqu’il prend part à des activités politiques qui ne sont pas liées à l’exercice de pouvoirs ou fonctions ministériels;
+
 c) prendre part à des activités politiques qui pourraient être incompatibles avec les intérêts de la Couronne.
 
 ### Rôle du responsable de l’éthique
@@ -1214,7 +1385,9 @@ c) prendre part à des activités politiques qui pourraient être incompatibles 
 ### Décisions et directives
 
 (4) Le responsable de l’éthique fait ce qui suit :
+
 a) il décide des questions qui lui sont soumises aux termes du paragraphe (1) ou (2) ou qui font l’objet d’une demande de renseignements prévue au paragraphe (3);
+
 b) dans le cas où il détermine qu’un fonctionnaire qui travaille dans le cabinet d’un ministre a pris part à des activités politiques en contravention à la présente partie ou à un règlement pris ou une directive donnée en application de celle-ci, ou est sur le point de le faire, il donne au fonctionnaire les directives, le cas échéant, qu’il estime appropriées en vue de remédier à la situation.
 
 ### Observation des directives
@@ -1248,9 +1421,13 @@ b) dans le cas où il détermine qu’un fonctionnaire qui travaille dans le cab
 ### Détermination par le responsable de l’éthique
 
 (3) Le responsable de l’éthique détermine qu’il est justifié que l’emploi ou la nomination prenne fin s’il est d’avis que les responsabilités du fonctionnaire afférentes à la charge municipale :
+
 a) soit entraveraient l’exercice de ses fonctions de fonctionnaire;
+
 b) soit :
+
 (i) dans le cas d’un fonctionnaire qui travaille dans un ministère, seraient incompatibles avec les intérêts de la Couronne,
+
 (ii) dans le cas d’un fonctionnaire qui travaille dans un organisme public, seraient incompatibles avec les intérêts de ce dernier.
 
 ### Renvoi par le responsable de l’éthique
@@ -1268,7 +1445,9 @@ b) soit :
 ### Réintégration
 
 102 (1) Le présent article ne s’applique pas aux personnes suivantes :
+
 1. Un ancien fonctionnaire dont l’emploi a pris fin en application de l’article 100 ou 101 et dont l’emploi juste avant de prendre fin était d’une durée déterminée.
+
 2. Une ancienne personne nommée par le gouvernement dont la nomination a pris fin en application de l’article 100 ou 101.
 
 ### Idem
@@ -1312,21 +1491,29 @@ b) soit :
 ### Aucunes représailles
 
 103 (1) Nul ne doit exercer de représailles contre un fonctionnaire parce qu’il a :
+
 a) soit pris part à des activités politiques conformément à la présente partie ou aux règlements;
+
 b) soit exercé son droit prévu par la présente partie de refuser de prendre part à des activités politiques.
 
 ### Idem
 
 (2) Pour l’application du paragraphe (1), constituent des représailles toute mesure prise contre un fonctionnaire qui nuit à son emploi ou sa nomination, et notamment :
+
 a) mettre fin à l’emploi ou à la nomination d’un fonctionnaire ou menacer de le faire;
+
 b) imposer une mesure disciplinaire à un fonctionnaire ou le suspendre ou menacer de le faire;
+
 c) prendre des sanctions liées à l’emploi ou à la nomination d’un fonctionnaire ou menacer de le faire;
+
 d) intimider ou contraindre un fonctionnaire à l’égard de son emploi ou de sa nomination.
 
 ### Plainte contre des représailles ou des mesures disciplinaires
 
 104 (1) Le fonctionnaire visé au paragraphe (2), (3) ou (4) peut, en application du présent article, se plaindre qu’il, selon le cas :
+
 a) a subi des représailles interdites par l’article 103;
+
 b) fait l’objet d’une mesure disciplinaire pour une contravention à la présente partie ou à un règlement pris ou à une directive donnée en application de celle-ci.
 
 ### Fonctionnaire visé par une convention collective
@@ -1360,9 +1547,13 @@ b) fait l’objet d’une mesure disciplinaire pour une contravention à la pré
 ### Idem
 
 (9) Sans préjudice de la portée générale du paragraphe (8), l’ordonnance rendue en vertu de ce paragraphe peut enjoindre au ministère ou à l’organisme public, ou à la personne qui agit au nom de celui-ci, de faire une ou plusieurs des choses suivantes :
+
 1. Cesser tout acte faisant l’objet de la plainte visée au paragraphe (1).
+
 2. Prendre des mesures afin de remédier au préjudice lié à la plainte visée au paragraphe (1).
+
 3. Réintégrer le fonctionnaire dans son emploi lorsqu’il y a été mis fin.
+
 4. Indemniser le fonctionnaire pour sa perte de rémunération, y compris les avantages sociaux.
 
 ### Idem
@@ -1372,14 +1563,19 @@ b) fait l’objet d’une mesure disciplinaire pour une contravention à la pré
 ### Règlements déposés auprès d’une commission
 
 105 (1) Si une des parties au règlement écrit et signé d’une plainte portée en vertu du paragraphe 104 (1) est d’avis que celui-ci a été enfreint, le règlement peut être déposé :
+
 a) auprès de la Commission de règlement des griefs, dans le cas du règlement d’une plainte portée par un fonctionnaire visé au paragraphe 104 (2), si la convention collective est régie par la Loi de 1993 sur la négociation collective des employés de la Couronne ;
+
 b) auprès de la Commission des griefs de la fonction publique, dans le cas du règlement d’une plainte portée par un fonctionnaire visé au paragraphe 104 (3);
+
 c) auprès de la Commission des relations de travail de l’Ontario, dans le cas du règlement d’une plainte portée par un fonctionnaire visé au paragraphe 104 (4).
 
 ### Idem
 
 (2) Si le règlement d’une plainte est déposé auprès d’une commission en vertu du présent article, celle-ci enquête sur la question et, si elle conclut que le règlement a été enfreint, elle peut :
+
 a) rendre une ordonnance exigeant l’observation du règlement;
+
 b) rendre une ordonnance à l’égard de la plainte qui aurait pu être rendue à l’égard de celle-ci en vertu du paragraphe 104 (8).
 
 ### Idem
@@ -1403,11 +1599,17 @@ b) rendre une ordonnance à l’égard de la plainte qui aurait pu être rendue 
 ### Règlements, partie V
 
 107 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) traiter de la durée des congés non payés accordés aux termes de l’article 82, du paragraphe 90 (6) ou de l’alinéa 92 (7) a), y compris préciser les dates auxquelles un congé peut commencer et se terminer et fixer des durées maximales pour les congés;
+
 b) prescrire des tribunaux administratifs ou quasi judiciaires pour l’application de la disposition 9 du paragraphe 85 (2);
+
 c) sur recommandation de la Commission de la fonction publique, prescrire des catégories de fonctionnaires pour l’application de la disposition 10 du paragraphe 85 (2);
+
 d) régir les activités politiques des fonctionnaires qui travaillent dans le cabinet d’un ministre;
+
 e) prescrire des pouvoirs et fonctions du responsable de l’éthique en ce qui concerne les questions relatives aux activités politiques, outre ceux que prévoit la présente loi;
+
 f) traiter des modalités à suivre en ce qui concerne la présente partie.
 
 ### Délégation
@@ -1417,9 +1619,13 @@ f) traiter des modalités à suivre en ce qui concerne la présente partie.
 ### Idem
 
 (3) Lorsqu’il prescrit des catégories en application de l’alinéa (1) c), le lieutenant-gouverneur en conseil tient compte de ce qui suit :
+
 a) la mesure dans laquelle les fonctionnaires d’une catégorie prescrite participeront vraisemblablement à la fourniture de conseils en matière de politiques directement à un ministre;
+
 b) la portée du pouvoir discrétionnaire qu’exerceront vraisemblablement les fonctionnaires d’une catégorie prescrite, dans le cas où l’exercice de ce pouvoir pourrait raisonnablement être perçu comme étant influencé par des considérations politiques;
+
 c) la visibilité des fonctionnaires d’une catégorie prescrite;
+
 d) toute autre question qu’il juge appropriée.
 
 ### Portée des règlements
@@ -1433,23 +1639,33 @@ d) toute autre question qu’il juge appropriée.
 ### Définition
 
 108 (1) La définition qui suit s’applique à la présente partie.
+
 «acte répréhensible» S’entend de ce qui suit :
+
 a) une contravention commise par un fonctionnaire, un ministre ou un adjoint parlementaire à une loi de l’Assemblée ou du Parlement du Canada ou à un de ses règlements d’application;
+
 b) un acte ou une omission de la part d’un fonctionnaire, d’un ministre ou d’un adjoint parlementaire qui pose un grave danger pour la vie, la santé ou la sécurité de quiconque ou un grave danger pour l’environnement lorsque le danger est déraisonnable compte tenu de ses pouvoirs et fonctions et de toute autre circonstance pertinente;
+
 c) un cas grave de mauvaise gestion de la part d’un fonctionnaire, d’un ministre ou d’un adjoint parlementaire dans les activités de la fonction publique de l’Ontario;
+
 d) le fait pour un fonctionnaire, un ministre ou un adjoint parlementaire d’ordonner ou de conseiller la commission d’un acte répréhensible au sens des alinéas a) à c).
 
 ### Idem
 
 (2) La mention aux alinéas a) à d) de la définition de «acte répréhensible» au paragraphe (1) :
+
 a) d’un acte ou d’une omission de la part d’un fonctionnaire vaut mention d’un acte ou d’une omission de la part d’un ancien fonctionnaire si l’acte ou l’omission s’est produit lorsque le particulier était fonctionnaire;
+
 b) d’un acte ou d’une omission de la part d’un ministre ou d’un adjoint parlementaire vaut mention d’un acte ou d’une omission de la part d’un ancien ministre ou d’un ancien adjoint parlementaire si l’acte ou l’omission s’est produit lorsque le particulier était ministre ou adjoint parlementaire.
 
 ### Interprétation, anciens fonctionnaires
 
 109 Malgré l’article 3, la mention dans la présente partie d’un ancien fonctionnaire vaut mention d’une personne qui a cessé, avant le jour de l’entrée en vigueur du présent article, d’être :
+
 a) un fonctionnaire au sens de la Loi sur la fonction publique ;
+
 b) un employé d’un organisme public au sens de la présente loi;
+
 c) une personne nommée par le gouvernement au sens de la présente loi.
 
 ### Application de la partie
@@ -1469,7 +1685,9 @@ c) une personne nommée par le gouvernement au sens de la présente loi.
 ### Façon juste et expéditive
 
 112 Le commissaire à l’intégrité et toutes les personnes et tous les organismes à qui sont renvoyées des questions en application du paragraphe 118 (2), 122 (2) ou 123 (1) remplissent les fonctions que leur attribue la présente partie d’une façon qui :
+
 a) d’une part, est juste et aussi informelle et expéditive que possible;
+
 b) d’autre part, protège l’identité des personnes en cause dans le processus de divulgation, y compris les auteurs des divulgations, les témoins et les auteurs présumés d’actes répréhensibles sauf lorsque l’identité d’une personne doit être divulguée à une ou plusieurs personnes pour des raisons d’équité.
 
 ### Divulgation malgré l’incompatibilité avec d’autres lois
@@ -1479,8 +1697,11 @@ b) d’autre part, protège l’identité des personnes en cause dans le process
 ### Restrictions : divulgation
 
 (2) La présente partie n’a pas pour effet d’autoriser un fonctionnaire ou un ancien fonctionnaire à faire une divulgation au commissaire à l’intégrité de quoi que ce soit qui, selon le cas :
+
 a) révèlerait sans permission la teneur des délibérations du Conseil exécutif ou d’un de ses comités;
+
 b) est protégé par le secret professionnel de l’avocat;
+
 c) est préparé par l’avocat-conseil d’un ministère ou d’un organisme public, ou pour le compte de cet avocat-conseil, en vue de son utilisation dans la communication de conseils juridiques, en prévision d’un litige ou en vue de son utilisation dans un litige.
 
 ### Idem
@@ -1496,20 +1717,27 @@ c) est préparé par l’avocat-conseil d’un ministère ou d’un organisme pu
 ### Directives : Commission de la fonction publique
 
 115 (1) La Commission de la fonction publique peut, par directive, établir une procédure pour traiter des divulgations d’actes répréhensibles par les personnes suivantes :
+
 a) les fonctionnaires qui travaillent dans un ministère;
+
 b) les anciens fonctionnaires qui travaillaient dans un ministère juste avant de cesser d’être fonctionnaires.
 
 ### Directives : Conseil de gestion du gouvernement
 
 (2) Le Conseil de gestion du gouvernement peut, par directive, établir une procédure pour traiter des divulgations d’actes répréhensibles par les personnes suivantes :
+
 a) les fonctionnaires qui travaillent dans un organisme public;
+
 b) les anciens fonctionnaires qui travaillaient dans un organisme public juste avant de cesser d’être fonctionnaires.
 
 ### Idem
 
 (3) Sans porter atteinte à la portée générale des paragraphes (1) et (2), les directives données en application de ceux-ci peuvent faire ce qui suit :
+
 a) établir la procédure qu’un fonctionnaire ou un ancien fonctionnaire doit suivre pour divulguer des actes répréhensibles, y compris indiquer les personnes auxquelles la divulgation peut être faite;
+
 b) établir la procédure de protection de l’identité des personnes en cause dans le processus de divulgation, y compris les auteurs des divulgations, les témoins et les auteurs présumés d’actes répréhensibles;
+
 c) prévoir des exceptions à la procédure visée à l’alinéa b) lorsque l’identité d’une personne doit être divulguée à une ou plusieurs personnes pour des raisons d’équité.
 
 ### Idem
@@ -1533,23 +1761,37 @@ c) prévoir des exceptions à la procédure visée à l’alinéa b) lorsque l�
 ### Divulgation au commissaire à l’intégrité
 
 116 Le fonctionnaire ou l’ancien fonctionnaire peut divulguer des actes répréhensibles au commissaire à l’intégrité si, selon le cas :
+
 a) il a des motifs de croire qu’une divulgation des actes répréhensibles conformément aux directives données en application de l’article 115 ne serait pas appropriée;
+
 b) il a déjà divulgué les actes répréhensibles conformément aux directives données en application de l’article 115 et craint que la question ne soit pas traitée de façon appropriée;
+
 c) aucune directive qui s’applique à lui n’a été donnée en application de l’article 115.
 
 ### Évaluation initiale par le commissaire à l’intégrité
 
 117 S’il reçoit une divulgation d’actes répréhensibles en application de l’article 116, le commissaire à l’intégrité refuse d’y donner suite si une ou plusieurs des circonstances suivantes s’appliquent :
+
 1. L’objet de la divulgation est traité par une autre personne ou un organisme dans le cadre de l’exécution de la loi ou conformément à la procédure établie en vertu de la présente loi ou d’une autre loi.
+
 2. L’objet de la divulgation a trait à une question d’emploi ou de relations de travail qui pourrait être traitée par un mécanisme de règlement des différends, notamment une procédure de règlement des griefs, établi en vertu de la présente loi ou d’une autre loi ou aux termes d’une convention collective ou de tout autre accord quelconque.
+
 3. L’objet de la divulgation a trait à une question qui pourrait être traitée dans le cadre de la partie XII de la Loi de 2019 sur la sécurité communautaire et les services policiers.
+
 4. L’objet de la divulgation fait l’objet :
+
 i. soit d’une décision rendue dans l’exercice d’une fonction d’adjudication d’un tribunal judiciaire ou autre en application de la présente loi ou d’une autre loi,
+
 ii. soit de délibérations qui ont conduit ou peuvent conduire à une décision rendue dans l’exercice d’une fonction d’adjudication d’un tribunal judiciaire ou autre en application de la présente loi ou d’une autre loi.
+
 5. L’objet de la divulgation est lié à l’exercice d’un pouvoir discrétionnaire d’un poursuivant à l’égard de la poursuite d’une infraction.
+
 6. L’objet de la divulgation n’est pas assez important ou la divulgation est frivole, vexatoire ou faite de mauvaise foi.
+
 7. Une période de temps importante s’est écoulée entre la divulgation et l’incident qui en est l’objet et, de ce fait, une instance serait inutile.
+
 8. L’objet de la divulgation se rapporte uniquement à une décision de politique publique.
+
 9. Il existe une raison valable, autre qu’une circonstance visée aux dispositions 1 à 8, de ne pas donner suite à la divulgation.
 
 ### Renvoi par le commissaire à l’intégrité
@@ -1559,17 +1801,25 @@ ii. soit de délibérations qui ont conduit ou peuvent conduire à une décision
 ### Idem
 
 (2) Le commissaire à l’intégrité choisit, parmi les personnes visées au paragraphe (3), celle qui, à son avis, est le mieux placée pour enquêter sur la divulgation. En outre, le commissaire fait ce qui suit :
+
 a) il fournit à la personne un résumé écrit de la divulgation et tout autre renseignement qu’il a reçu en ce qui concerne la question et qui, selon lui, peut l’aider à la traiter;
+
 b) il ordonne à la personne de faire mener une enquête sur l’objet de la divulgation;
+
 c) il ordonne à la personne de lui remettre un rapport sur les résultats de l’enquête.
 
 ### Idem
 
 (3) Les personnes à qui le commissaire à l’intégrité peut renvoyer une question en application du paragraphe (2) sont les suivantes :
+
 1. Un sous-ministre.
+
 2. Un particulier prescrit en vertu du paragraphe 71 (1.1).
+
 3. Le président d’un organisme public.
+
 4. Le secrétaire du Conseil des ministres.
+
 5. Un particulier que désigne le premier ministre pour l’application du présent article.
 
 ### Idem
@@ -1595,10 +1845,15 @@ c) il ordonne à la personne de lui remettre un rapport sur les résultats de l�
 ### Rapport après renvoi
 
 120 (1) Le rapport de la personne à qui un renvoi est fait en application du paragraphe 118 (2) est fait par écrit et comprend ce qui suit :
+
 1. Un résumé de l’objet de la divulgation.
+
 2. Une description des étapes suivies lors de l’enquête menée par la personne à qui le renvoi est fait.
+
 3. Un résumé des preuves obtenues au cours de l’enquête.
+
 4. Une déclaration des constatations résultant de l’enquête sur la divulgation, y compris une déclaration concernant tout acte répréhensible dévoilé.
+
 5. Une description des mesures correctives qui ont été prises ou qui sont proposées à l’issue de l’enquête.
 
 ### Idem
@@ -1608,8 +1863,11 @@ c) il ordonne à la personne de lui remettre un rapport sur les résultats de l�
 ### Réception du rapport par le commissaire à l’intégrité
 
 121 (1) Sur réception du rapport de la personne à qui un renvoi est fait en application du paragraphe 118 (2), le commissaire à l’intégrité peut faire ce qui suit :
+
 a) exiger de la personne qu’elle lui fournisse un rapport écrit comprenant les renseignements supplémentaires qu’il précise;
+
 b) faire des recommandations à la personne;
+
 c) exiger de la personne qu’elle lui fournisse un rapport écrit en ce qui concerne l’application des recommandations faites en vertu de l’alinéa b) et, si une recommandation n’a pas été suivie, exiger qu’elle en explique la raison.
 
 ### Délais
@@ -1629,8 +1887,11 @@ c) exiger de la personne qu’elle lui fournisse un rapport écrit en ce qui con
 ### Enquête par le commissaire à l’intégrité
 
 122 (1) Le commissaire à l’intégrité ne peut ouvrir une enquête sur une divulgation d’actes répréhensibles que dans l’un ou l’autre des cas suivants :
+
 a) il n’est pas satisfait d’un rapport sur la divulgation reçu en application de l’article 118 ou 121;
+
 b) la personne à qui un renvoi est fait en application du paragraphe 118 (2) lui a renvoyé la divulgation en application de l’article 119;
+
 c) la personne à qui un renvoi est fait en application du paragraphe 118 (2) n’a pas remis de rapport sur la divulgation dans le délai requis en application de l’article 118 ou 121.
 
 ### Renvoi au lieu d’enquête
@@ -1644,8 +1905,11 @@ c) la personne à qui un renvoi est fait en application du paragraphe 118 (2) n�
 ### Idem
 
 (4) Lorsqu’il renvoie une question à une personne ou à un organisme en vertu du paragraphe (2), le commissaire à l’intégrité ne doit pas ouvrir une enquête à moins que la personne ou l’organisme ne l’ait informé, selon le cas :
+
 a) qu’il ne procédera pas à une enquête sur la question;
+
 b) qu’il a terminé son enquête sur la question;
+
 c) qu’il ne fournira pas les renseignements visés au paragraphe (6).
 
 ### Exception
@@ -1671,8 +1935,11 @@ c) qu’il ne fournira pas les renseignements visés au paragraphe (6).
 ### Idem
 
 (3) S’il renvoie une question à une personne ou à un organisme en vertu du paragraphe (1), le commissaire à l’intégrité suspend l’enquête en cours et ne peut la continuer que si la personne ou l’organisme l’a informé, selon le cas :
+
 a) qu’il ne procédera pas à une enquête sur la question;
+
 b) qu’il a terminé son enquête sur la question;
+
 c) qu’il ne fournira pas les renseignements visés au paragraphe (5).
 
 ### Idem
@@ -1706,7 +1973,9 @@ c) qu’il ne fournira pas les renseignements visés au paragraphe (5).
 ### Pouvoirs lors d’une d’enquête
 
 126 (1) Le commissaire à l’intégrité peut exiger d’un fonctionnaire ou d’un ancien fonctionnaire qu’il fasse ce qui suit :
+
 a) fournir les renseignements qu’il détient si le commissaire est d’avis que ceux-ci peuvent être pertinents dans le cadre de l’enquête;
+
 b) produire les documents ou choses pertinents qu’il peut avoir en sa possession ou sous son contrôle si le commissaire est d’avis que ceux-ci peuvent être pertinents dans le cadre de l’enquête.
 
 ### Témoignage oral
@@ -1724,7 +1993,9 @@ b) produire les documents ou choses pertinents qu’il peut avoir en sa possessi
 ### Limite des pouvoirs
 
 127 (1) Le commissaire à l’intégrité ne peut pas exiger la fourniture de renseignements, la production de documents ou de choses ou la remise d’une réponse si le sous-procureur général certifie que cela, selon le cas :
+
 a) est susceptible de gêner la détection ou la poursuite d’une infraction ou l’enquête sur celle-ci;
+
 b) est susceptible de révéler sans permission la teneur des délibérations du Conseil exécutif ou d’un de ses comités.
 
 ### Idem
@@ -1734,7 +2005,9 @@ b) est susceptible de révéler sans permission la teneur des délibérations du
 ### Idem
 
 (3) Le commissaire à l’intégrité ne peut pas exiger la fourniture de renseignements, la production de documents ou de choses ou la remise d’une réponse si cela est susceptible de divulguer, selon le cas :
+
 a) des renseignements protégés par le secret professionnel de l’avocat;
+
 b) des renseignements élaborés par l’avocat-conseil d’un ministère ou d’un organisme public, ou pour le compte de cet avocat-conseil, en vue de leur utilisation dans la communication de conseils juridiques, en prévision d’un litige ou en vue de leur utilisation dans un litige.
 
 ### Idem
@@ -1774,20 +2047,27 @@ b) des renseignements élaborés par l’avocat-conseil d’un ministère ou d�
 ### Idem
 
 (4) Le rapport qu’exige le paragraphe (1) est fait par écrit et comprend :
+
 a) les constatations d’actes répréhensibles, le cas échéant;
+
 b) les motifs à l’appui des constatations;
+
 c) les recommandations que le commissaire à l’intégrité juge appropriées.
 
 ### Copie au ministre
 
 (5) Le commissaire à l’intégrité remet une copie du rapport à un ministre lorsque la divulgation alléguait des actes répréhensibles :
+
 a) soit au sein du ministère du ministre;
+
 b) soit dans un organisme public dont le ministre est responsable.
 
 ### Rapport supplémentaire
 
 (6) Si le rapport comprend des recommandations visées à l’alinéa (4) c), le commissaire à l’intégrité peut exiger de la personne à qui il a fait le rapport aux termes du paragraphe (1) ou (2), selon le cas, qu’elle lui remette un rapport supplémentaire, par écrit et dans le délai que précise le commissaire :
+
 a) décrivant toute mesure prise ou proposée en réponse aux recommandations;
+
 b) expliquant pourquoi une recommandation n’a pas été suivie ou pourquoi il n’est pas proposé de la suivre.
 
 ### Idem
@@ -1811,7 +2091,9 @@ b) expliquant pourquoi une recommandation n’a pas été suivie ou pourquoi il 
 ### Idem
 
 (3) S’il a exigé un rapport supplémentaire en vertu du paragraphe 129 (6), le commissaire à l’intégrité ne doit pas faire de rapport public avant que :
+
 a) soit le rapport supplémentaire lui ait été remis;
+
 b) soit le délai visé au paragraphe 129 (6) ou, si le commissaire a prorogé le délai en vertu du paragraphe 129 (7), le délai prorogé, ait expiré sans qu’aucun rapport supplémentaire ne lui ait été remis.
 
 ### Idem
@@ -1825,20 +2107,27 @@ b) soit le délai visé au paragraphe 129 (6) ou, si le commissaire a prorogé l
 ### Contenu du rapport public
 
 131 (1) Sous réserve des paragraphes (2) et (3), le commissaire à l’intégrité ne doit pas inclure ce qui suit dans le rapport public prévu à l’article 130 :
+
 a) des renseignements qui feraient l’objet d’une exception aux termes des articles 12 à 21.1 de la Loi sur l’accès à l’information et la protection de la vie privée ;
+
 b) des renseignements qui seraient exclus aux termes de l’article 65 de la Loi sur l’accès à l’information et la protection de la vie privée ;
+
 c) des renseignements auxquels s’appliquerait le paragraphe 67 (2) de la Loi sur l’accès à l’information et la protection de la vie privée.
 
 ### Idem
 
 (2) Avec le consentement de la personne qui a reçu le rapport du commissaire à l’intégrité en application du paragraphe 129 (1) ou (2), le commissaire peut divulguer, dans un rapport public prévu à l’article 130 :
+
 a) des renseignements qui feraient l’objet d’une exception aux termes de l’article 13, 14, 18, 19, 20 ou 21.1 de la Loi sur l’accès à l’information et la protection de la vie privée ;
+
 b) des renseignements qui seraient exclus aux termes du paragraphe 65 (6) de la Loi sur l’accès à l’information et la protection de la vie privée.
 
 ### Idem
 
 (3) Le commissaire peut divulguer, dans un rapport public prévu à l’article 130, des renseignements qui feraient l’objet d’une exception aux termes de l’article 13, 17, 18, 20, 21 ou 21.1 de la Loi sur l’accès à l’information et la protection de la vie privée ou qui seraient exclus aux termes du paragraphe 65 (6) de cette loi s’il est d’avis que :
+
 a) d’une part, la divulgation est nécessaire pour établir les motifs à l’appui de ses constatations d’actes répréhensibles ou de ses recommandations;
+
 b) d’autre part, la nécessité manifeste de la divulgation dans l’intérêt public l’emporte sur le préjudice qu’elle pourrait causer.
 
 ### Idem
@@ -1852,7 +2141,9 @@ b) d’autre part, la nécessité manifeste de la divulgation dans l’intérêt
 ### Avant de faire un rapport public
 
 132 (1) Avant de faire la détermination visée au paragraphe 131 (4), le commissaire à l’intégrité :
+
 a) d’une part, demande à la personne à qui le rapport a été fait en application du paragraphe 129 (1) ou (2) de présenter des observations en ce qui concerne la détermination à faire;
+
 b) d’autre part, s’il le juge approprié pour des raisons d’équité, fournit des renseignements contenus dans le rapport à une personne à laquelle ils se rapportent et demande à celle-ci de présenter des observations en ce qui concerne la détermination à faire.
 
 ### Idem
@@ -1870,13 +2161,21 @@ b) d’autre part, s’il le juge approprié pour des raisons d’équité, four
 ### Rapport annuel : activités dans le cadre de la présente partie
 
 133 (1) Le rapport annuel du commissaire à l’intégrité qu’exige l’article 24 de la Loi de 1994 sur l’intégrité des députés comprend ce qui suit :
+
 a) le nombre de divulgations reçues par le commissaire en application de l’article 116 au cours de l’année;
+
 b) le nombre de fois où le commissaire a opposé un refus en application de l’article 117 au cours de l’année;
+
 c) le nombre de renvois faits par le commissaire en application du paragraphe 118 (2) au cours de l’année;
+
 d) le nombre de rapports dans lesquels le commissaire fait des recommandations en vertu de l’article 121 au cours de l’année;
+
 e) un résumé de ce que le commissaire sait au sujet de la suite donnée aux recommandations visées à l’article 121 au cours de l’année;
+
 f) le nombre d’enquêtes que le commissaire a ouvertes en vertu de l’article 122 au cours de l’année;
+
 g) un résumé de ce que le commissaire sait au sujet de la suite donnée au cours de l’année aux constatations de représailles visées à la présente partie;
+
 h) tout autre renseignement que le commissaire estime pertinent en ce qui concerne ses activités dans le cadre de la présente partie au cours de l’année.
 
 ### Idem
@@ -1912,8 +2211,11 @@ h) tout autre renseignement que le commissaire estime pertinent en ce qui concer
 ### Restriction : devoir d’informer
 
 137 (1) Le commissaire à l’intégrité ne doit pas donner ce qui suit à l’auteur de la divulgation :
+
 a) des renseignements qui feraient l’objet d’une exception aux termes des articles 12 à 21.1 de la Loi sur l’accès à l’information et la protection de la vie privée ;
+
 b) des renseignements qui seraient exclus aux termes de l’article 65 de la Loi sur l’accès à l’information et la protection de la vie privée ;
+
 c) des renseignements auxquels s’applique le paragraphe 67 (2) de la Loi sur l’accès à l’information et la protection de la vie privée.
 
 ### Idem
@@ -1933,18 +2235,27 @@ c) des renseignements auxquels s’applique le paragraphe 67 (2) de la Loi sur l
 ### Interdiction d’exercer des représailles
 
 139 (1) Nul ne doit exercer de représailles contre un fonctionnaire parce qu’il a, selon le cas :
+
 a) demandé des conseils quant à la divulgation d’actes répréhensibles conformément à la présente partie;
+
 b) divulgué des actes répréhensibles conformément à la présente partie;
+
 c) collaboré à une enquête ou autre procédure liée à la divulgation d’actes répréhensibles faite conformément à la présente partie;
+
 d) agi conformément à la présente partie;
+
 e) cherché à faire respecter la présente partie.
 
 ### Idem
 
 (2) Pour l’application du paragraphe (1), constituent des représailles toutes mesures prises contre un fonctionnaire qui nuisent à son emploi ou sa nomination et notamment :
+
 a) mettre fin à l’emploi ou à la nomination d’un fonctionnaire ou menacer de le faire;
+
 b) imposer une mesure disciplinaire à un fonctionnaire ou le suspendre ou menacer de le faire;
+
 c) prendre des sanctions à l’égard de l’emploi ou de la nomination d’un fonctionnaire ou menacer de le faire;
+
 d) intimider ou contraindre un fonctionnaire à l’égard de son emploi ou de sa nomination.
 
 ### Plainte contre des représailles
@@ -1982,9 +2293,13 @@ d) intimider ou contraindre un fonctionnaire à l’égard de son emploi ou de s
 ### Idem
 
 (9) Sans préjudice de la portée générale du paragraphe (8), l’ordonnance rendue en vertu de ce paragraphe peut enjoindre au ministère ou à l’organisme public, ou à la personne qui agit au nom de celui-ci, de faire une ou plusieurs des choses suivantes :
+
 1. Cesser tout acte faisant l’objet de la plainte visée au paragraphe (1).
+
 2. Prendre des mesures afin de remédier au préjudice lié à la plainte visée au paragraphe (1).
+
 3. Réintégrer le fonctionnaire dans son emploi lorsqu’il y a été mis fin.
+
 4. Indemniser le fonctionnaire pour sa perte de rémunération, y compris les avantages sociaux.
 
 ### Idem
@@ -2006,15 +2321,21 @@ d) intimider ou contraindre un fonctionnaire à l’égard de son emploi ou de s
 ### Règlements déposés auprès d’une commission
 
 141 (1) Si une des parties au règlement écrit et signé d’une plainte portée en vertu du paragraphe 140 (1) est d’avis que celui-ci a été enfreint, le règlement peut être déposé :
+
 a) auprès de la Commission des relations de travail de l’Ontario, dans le cas du règlement d’une plainte portée par un fonctionnaire visé au paragraphe 140 (2) et déposée auprès de cette commission en vertu de ce paragraphe;
+
 b) auprès de la Commission de règlement des griefs, dans le cas d’une plainte portée par un fonctionnaire visé au paragraphe 140 (2) qui n’est pas déposée auprès de la Commission des relations de travail de l’Ontario en vertu de ce paragraphe et qui a été réglée par les parties à une convention collective régie par la Loi de 1993 sur la négociation collective des employés de la Couronne ;
+
 c) auprès de la Commission des griefs de la fonction publique, dans le cas du règlement d’une plainte portée par un fonctionnaire visé au paragraphe 140 (3);
+
 d) auprès de la Commission des relations de travail de l’Ontario, dans le cas du règlement d’une plainte portée par un fonctionnaire visé au paragraphe 140 (4).
 
 ### Idem
 
 (2) Si un règlement est déposé auprès d’une commission en vertu du présent article, la commission enquête sur la question et, si elle conclut que le règlement a été enfreint, elle peut :
+
 a) rendre une ordonnance exigeant l’observation du règlement;
+
 b) rendre une ordonnance à l’égard de la plainte qui aurait pu être rendue à l’égard de celle-ci en vertu du paragraphe 140 (8).
 
 ### Idem
@@ -2050,8 +2371,11 @@ b) rendre une ordonnance à l’égard de la plainte qui aurait pu être rendue 
 ### Idem
 
 (3) Nul ne doit, sachant qu’un document ou une autre chose est susceptible d’être pertinent dans le cadre d’une enquête ou autre instance prévue par la présente partie, faire ce qui suit :
+
 a) détruire ou altérer le document ou la chose;
+
 b) falsifier le document ou la chose ou en faire un faux;
+
 c) dissimuler le document ou la chose.
 
 ### Idem
@@ -2123,11 +2447,17 @@ c) dissimuler le document ou la chose.
 ### Règlements de nature générale
 
 154 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prévoir la collecte, l’utilisation et la divulgation de renseignements personnels concernant les fonctionnaires et anciens fonctionnaires :
+
 (i) pour l’application de la présente loi,
+
 (ii) en vue de gérer et d’administrer les ressources humaines dans la fonction publique de l’Ontario, notamment fournir des programmes de ressources humaines intégrés pour celle-ci;
+
 b) traiter des questions transitoires qu’il estime nécessaires ou souhaitables pour la mise en application efficace de la présente loi ou des règlements pris ou des directives données en application de celle-ci;
+
 b.1) prévoir les questions transitoires découlant de l’édiction de l’annexe 35 de la Loi de 2018 visant à rétablir la confiance, la transparence et la responsabilité ;
+
 c) traiter de toute question nécessaire ou souhaitable pour réaliser efficacement l’objet de la présente loi.
 
 ### Idem
@@ -2151,6 +2481,9 @@ c) traiter de toute question nécessaire ou souhaitable pour réaliser efficacem
 ### Idem
 
 (3) Les personnes qui, juste avant l’entrée en vigueur du présent article, étaient nommées aux termes de la Loi sur la fonction publique, telle qu’elle existait juste avant son abrogation par l’article 1 de l’annexe C de la Loi de 2006 modifiant des lois ayant trait à la fonction publique de l’Ontario, pour travailler dans un organisme public rattaché à la Commission, sont, au jour de l’entrée en vigueur du présent article, des fonctionnaires nommés par la Commission de la fonction publique aux termes de la partie III de la présente loi à un emploi dans un organisme public rattaché à la Commission.
+
 156 et 157 Omis (prévoient des modifications à la présente loi).
+
 158 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 159 Omis (édicte le titre abrégé de la présente loi).

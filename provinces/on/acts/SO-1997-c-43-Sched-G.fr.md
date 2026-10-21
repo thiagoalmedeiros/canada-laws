@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2021-12-09"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o43"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Société d'évaluation foncière des municipalités (Loi de 1997 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o43) before relying on it.
 
 L.O. 1997, chap. 43, annexe G
 
@@ -21,7 +21,9 @@ L.O. 1997, chap. 43, annexe G
 ### Définition
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «ministre» Le ministre des Finances. («Minister»)
+
 «Société» Société d’évaluation foncière des municipalités. («Corporation») 1997, chap. 43, annexe G, art. 1
 
 ### Création et régie de la Société
@@ -45,8 +47,11 @@ L.O. 1997, chap. 43, annexe G
 ### Composition
 
 (2) Le conseil d’administration, dont les membres sont nommés par le ministre, se compose des personnes suivantes :
+
 1. Sept personnes qui sont des élus ou anciens élus municipaux ou des fonctionnaires ou anciens fonctionnaires ou des employés ou anciens employés municipaux («représentants des municipalités»).
+
 2. Quatre personnes qui représentent les intérêts des contribuables fonciers («représentants des contribuables»).
+
 3. Deux personnes qui représentent les intérêts de la Province («représentants de la Province»).
 
 ### Idem
@@ -64,6 +69,7 @@ L.O. 1997, chap. 43, annexe G
 ### Nomination des représentants des municipalités
 
 (3.3) Le ministre nomme représentants des municipalités des personnes dont le nom figure sur la liste s’il la reçoit au moins 30 jours avant l’expiration du mandat des représentants des municipalités en poste.
+
 (3.4) Abrogé : 2017, chap. 8, annexe 21, par. 1 (4).
 
 ### Représentants des contribuables
@@ -73,6 +79,7 @@ L.O. 1997, chap. 43, annexe G
 ### Mandat
 
 (4) Les administrateurs occupent leur poste à titre amovible pour un mandat maximal de trois ans, renouvelable au plus deux fois.
+
 (5) Abrogé : 2015, chap. 20, annexe 29, art. 1.
 
 ### Vacance : représentant des municipalités
@@ -82,7 +89,9 @@ L.O. 1997, chap. 43, annexe G
 ### Conseil réputé dûment constitué
 
 (6.1) S’il y a moins de 13 administrateurs en fonction, le conseil est réputé dûment constitué si les conditions suivantes sont remplies :
+
 a) il y a au moins neuf administrateurs en fonction;
+
 b) la majorité des administrateurs en fonction sont des représentants des municipalités.
 
 ### Idem
@@ -132,7 +141,9 @@ b) la majorité des administrateurs en fonction sont des représentants des muni
 ### Transition
 
 (17) Malgré le paragraphe (2), quiconque est membre du conseil d’administration la veille du jour où la Loi de 2017 pour un Ontario plus fort et en meilleure santé (mesures budgétaires) reçoit la sanction royale peut continuer d’y siéger à titre amovible jusqu’à la fin de son mandat, même si le nombre de représentants des municipalités et des contribuables dépasse le nombre maximal précisé aux dispositions 1 et 2 du paragraphe (2).
+
 (18) à (22) Abrogé s : 1997, chap. 43, annexe G, par. 3 (23).
+
 (23) Périmé : 2001, chap. 8, par. 197 (5).
 
 ### Directeur général
@@ -154,7 +165,9 @@ b) la majorité des administrateurs en fonction sont des représentants des muni
 ### Fonctions
 
 (2) Le commissaire à la qualité du service est chargé de ce qui suit :
+
 1. Élaborer et mettre en oeuvre des normes de qualité du service que doit respecter la Société dans l’exercice des fonctions que lui attribue le paragraphe 9 (1).
+
 2. Veiller au respect des règles, des méthodes et des normes que le ministre établit en vertu du paragraphe 10 (1) concernant la prestation de services d’évaluation par la Société.
 
 ### Règlement
@@ -270,7 +283,9 @@ b) la majorité des administrateurs en fonction sont des représentants des muni
 ### Directives
 
 10.1 (1) Le ministre peut donner à la Société des directives par écrit sur des questions portant :
+
 a) sur sa gouvernance;
+
 b) sur les activités visées au paragraphe 9 (2).
 
 ### Portée générale ou particulière
@@ -308,17 +323,25 @@ b) sur les activités visées au paragraphe 9 (2).
 ### Somme
 
 (2) Sous réserve du paragraphe (3), la somme à verser pour une année d’imposition se calcule selon la formule suivante :
+
 (A + B) / 2 × C
+
 où :
+
 «A» représente le rapport qui existe entre l’évaluation totale de tous les biens situés dans la municipalité et l’évaluation totale de tous les biens situés en Ontario;
+
 «B» représente le rapport qui existe entre, d’une part, le nombre total de biens figurant aux rôles d’évaluation déposés auprès de la municipalité et, d’autre part, le nombre total de biens figurant à tous les rôles d’évaluation déposés auprès de toutes les municipalités de l’Ontario, auquel s’ajoute le nombre total de biens figurant au rôle d’évaluation déposé auprès du ministre pour le territoire non érigé en municipalité;
+
 «C» représente la somme que la Société estime nécessaire pour assurer son fonctionnement pendant l’année d’imposition.
 
 ### Méthode différente de calcul
 
 (3) La Société peut, par règlement administratif, établir une méthode différente pour calculer la somme à verser pour une année d’imposition si les conditions suivantes sont réunies :
+
 a) le règlement administratif est approuvé par au moins les deux tiers des administrateurs;
+
 b) le ministre approuve la méthode différente de calcul.
+
 (4) Abrogé : 2001, chap. 23, art. 170.
 
 ### Droits imposés à d’autres personnes
@@ -340,14 +363,19 @@ b) le ministre approuve la méthode différente de calcul.
 ### Intérêts et pénalités
 
 (8) La Société peut exiger des intérêts et infliger des pénalités en cas de non-paiement ou de paiement en retard des sommes payables aux termes du présent article.
+
 (9) Abrogé : 2002, chap. 17, annexe F, tableau.
+
 13 Abrogé : 2001, chap. 8, art. 201.
+
 14 Abrogé : 2001, chap. 8, art. 201.
 
 ### Divulgation de renseignements
 
 15 (1) La Société fournit sans frais aux personnes suivantes les renseignements et documents que demande le ministre :
+
 1. L’employé du gouvernement de l’Ontario que désigne le ministre.
+
 2. La personne que désigne le ministre et qui fournit un service au gouvernement de l’Ontario ou pour le compte de celui-ci.
 
 ### Idem
@@ -365,8 +393,13 @@ b) le ministre approuve la méthode différente de calcul.
 ### Divulgation à la Société
 
 (5) Les ministres de la Couronne peuvent fournir à la Société les renseignements et documents qu’ils estiment nécessaires pour lui permettre d’exercer les fonctions que lui attribue la présente loi ou une autre loi. Ce faisant, ils peuvent imposer les conditions qu’ils estiment appropriées.
+
 16 Abrogé : 2001, chap. 8, art. 201.
+
 17 Abrogé : 2001, chap. 8, art. 201.
+
 18 à 24 Omis (modifient ou abrogent d’autres lois).
+
 25 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 26 Omis (édicte le titre abrégé de la présente loi).

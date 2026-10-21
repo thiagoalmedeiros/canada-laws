@@ -6,27 +6,36 @@ language: en
 type: act
 document_date: "2025-11-27"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/94o23"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Planning and Development Act, 1994
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/94o23) before relying on it.
 
 S.O. 1994, c. 23, Sched. A
 
 ### Definitions
 
 1 In this Act,
+
 “development plan” means a plan approved by the Lieutenant Governor in Council under section 4; (“plan d’aménagement”)
+
 “development planning area” means an area of land in respect of which an order is made under section 2; (“zone de planification de l’aménagement”)
+
 “First Nation” means a band as defined in the Indian Act (Canada); (“Première Nation”)
+
 “Minister” means the Minister of Municipal Affairs and Housing; (“ministre”)
+
 “ministry” means any ministry of the Government of Ontario and includes a board, commission or agency of the Government; (“ministère”)
+
 “official plan” means an official plan as defined in section 1 of the Planning Act; (“plan officiel”)
+
 “planning board” means a planning board established under section 9 or 10 of the Planning Act; (“conseil d’aménagement”)
+
 “public body” means a municipality, a local board as defined in the Municipal Affairs Act, a ministry, department, board, commission, agency or official of a provincial or federal government or a First Nation; (“organisme public”)
+
 “zoning by-law” means a by-law passed under section 34 of the Planning Act or a predecessor of it. (“règlement municipal de zonage”)
 
 ### Development planning area
@@ -40,24 +49,39 @@ S.O. 1994, c. 23, Sched. A
 ### Development plan
 
 (3) If a development planning area has been established, the Minister shall,
+
 (a) cause to be carried out an investigation and survey of the environmental, physical, social and economic conditions affecting the development planning area or any part of it; and
+
 (b) cause a proposed development plan for the planning area or part of it to be prepared, within a period of two years or such other period of time as the Minister considers appropriate.
 
 ### Contents of plan
 
 3 A development plan may contain,
+
 (a) policies for the economic, social and physical development of the area covered by the plan in respect of,
+
 (i) the distribution and density of population,
+
 (ii) the location of industry and commerce,
+
 (iii) the identification of land use areas and the provision of parks and open space and the policies in regard to the acquisition of lands,
+
 (iv) the management of land and water resources,
+
 (v) the control of all forms of pollution of the natural environment,
+
 (vi) the location and development of servicing, communication and transportation systems,
+
 (vii) the development and maintenance of educational, cultural, recreational, health and other social facilities,
+
 (viii) the adequate provision of a full range of housing, and
+
 (ix) such other matters as are, in the opinion of the Minister, advisable;
+
 (b) policies relating to the financing and programming of public development projects and capital works;
+
 (c) policies to co-ordinate planning and development among municipalities or planning boards within an area or within separate areas, as defined by the Minister; and
+
 (d) such other policies that the Minister considers advisable.
 
 ### Public participation
@@ -67,7 +91,9 @@ S.O. 1994, c. 23, Sched. A
 ### Notice
 
 (2) When a proposed development plan has been prepared, the Minister shall ensure that,
+
 (a) notice is given informing the public of the proposed development plan, indicating where a copy of the plan together with a summary of the background studies used in the preparation of the plan can be examined and inviting written submissions on it within such period of time as is specified by the Minister; and
+
 (b) each municipality or planning board having jurisdiction over the development planning area and any municipality or planning board for a planning area which abuts the area is consulted with respect to the contents of the proposed development plan and is invited to make written submissions within such period of time as is specified by the Minister.
 
 ### Confer
@@ -77,8 +103,11 @@ S.O. 1994, c. 23, Sched. A
 ### Modifications
 
 (4) If, after considering the submissions received, modifications to the proposed development plan appear desirable to the Minister, the Minister may,
+
 (a) cause notice to be given informing the public of the proposed modifications;
+
 (b) provide an opportunity to the public to make written submissions in respect of the proposed modifications; and
+
 (c) provide municipalities or planning boards having jurisdiction over the development planning area and municipalities or planning boards for a planning area abutting the area with a copy of the proposed modifications, and an opportunity to make written submissions in respect of them.
 
 ### Modifications
@@ -124,7 +153,9 @@ S.O. 1994, c. 23, Sched. A
 ### Refusal of application
 
 (4) The Minister may propose to refuse an application under subsection (1) because he or she is of the opinion that the requested amendment is not in the provincial interest, and if the Minister proposes to refuse an application for this reason, the Minister shall give written notice to the applicant together with reasons for the refusal and advising the applicant,
+
 (a) that the applicant may make written submissions within 30 days after the day the notice is given or such longer time as the Minister specifies in the notice; and
+
 (b) that the requested amendment shall be deemed to be refused if submissions are not received within the time period set out in the notice.
 
 ### Deemed refusal
@@ -138,11 +169,17 @@ S.O. 1994, c. 23, Sched. A
 ### Action by Minister
 
 (7) If the Minister initiates an amendment to a development plan or receives an application to amend a development plan that has not been refused under subsection (5) or (6), the Minister shall,
+
 (a) ensure that a notice is given that,
+
 (i) informs the public of the proposed amendment,
+
 (ii) indicates where a copy of the proposed amendment together with a summary of the background studies used in the preparation of the amendment, if any, can be examined,
+
 (iii) invites written submissions on the amendment within such period of time as is specified by the Minister, and
+
 (iv) sets out a summary of the provisions of sections 7 and 8; and
+
 (b) ensure that each municipality or planning board having jurisdiction over the area covered by the proposed amendment and any municipality or planning board for a planning area which abuts the area is consulted with respect to the proposed amendment, provided with a copy of the provisions of sections 7 and 8 and invited to make written submissions on the proposed amendment within such period of time as is specified by the Minister.
 
 ### Confer
@@ -160,7 +197,9 @@ S.O. 1994, c. 23, Sched. A
 ### Refusal of request
 
 (2) If no submissions are received by the Minister within the time specified by the Minister under clause 6 (7) (a) or (b) and the Minister proposes to refuse all or part of a requested amendment, the Minister shall give written notice to the applicant together with reasons for the refusal and advising the applicant,
+
 (a) that the applicant may make written submissions within 30 days after the day the notice is given or such longer time as the Minister specifies in the notice; and
+
 (b) that the requested amendment shall be deemed to be refused if submissions are not received within the time period set out in the notice.
 
 ### Deemed refusal
@@ -170,16 +209,23 @@ S.O. 1994, c. 23, Sched. A
 ### Options
 
 (4) If submissions are received by the Minister under subsection (2), the Minister may,
+
 (a) appoint a hearing officer to conduct a hearing with respect to the proposed amendment and make a written recommendation on it;
+
 (b) refer the matter to the Ontario Land Tribunal to conduct a hearing with respect to the proposed amendment and make a written recommendation on it; or
+
 (c) after considering the submissions, approve the proposed amendment in whole or in part or make modifications to it and approve the amendment as modified or refuse the proposed amendment in whole or in part.
 
 ### Submissions received
 
 8 (1) If submissions are received by the Minister within the time specified by the Minister under clause 6 (7) (a) or (b), the Minister may,
+
 (a) appoint a hearing officer to conduct a hearing with respect to the proposed amendment and make a written recommendation on it;
+
 (b) refer the matter to the Ontario Land Tribunal to conduct a hearing with respect to the proposed amendment and make a written recommendation on it;
+
 (c) after considering the submissions, approve the proposed amendment in whole or in part or make modifications to it and approve the amendment as modified; or
+
 (d) after considering the submissions, propose to refuse the proposed amendment in whole or in part.
 
 ### Proposed refusal
@@ -205,7 +251,9 @@ S.O. 1994, c. 23, Sched. A
 ### Presentation at hearing
 
 (5) At any hearing, the proposed amendment and the reasons for it shall be presented by,
+
 (a) the Minister, if the Minister initiated the proposed amendment; or
+
 (b) the applicant, if the applicant initiated the proposed amendment.
 
 ### Report
@@ -235,7 +283,9 @@ S.O. 1994, c. 23, Sched. A
 ### By-laws, etc., to conform to plan
 
 13 Despite any other Act, if a development plan is in effect,
+
 (a) no municipality or local board as defined in the Municipal Affairs Act having jurisdiction over the area covered by the plan or in any part of it and no ministry shall undertake any public work, any improvement of a structural nature or any other undertaking within the area covered by the development plan that conflicts with the plan; and
+
 (b) no municipality or planning board having jurisdiction in such area shall pass a by-law for any purpose that conflicts with the plan.
 
 ### Conflicts
@@ -297,7 +347,9 @@ S.O. 1994, c. 23, Sched. A
 ### Designated minister
 
 (2) The Lieutenant Governor in Council may designate any minister of the Crown to have responsibility over any land acquired under subsection (1) and the minister so designated may, for the purpose of developing any feature of the development plan,
+
 (a) clear, grade or otherwise prepare the land for development or construct, repair or improve buildings, works and facilities on it; or
+
 (b) sell, lease or otherwise dispose of any of the land or interest in it.
 
 ### Financial assistance
@@ -335,10 +387,13 @@ S.O. 1994, c. 23, Sched. A
 ### Amendments to the Parkway Belt Plan
 
 22.1 (1) On the day section 27 of the Greenbelt Act, 2005 comes into force,
+
 (a) the Parkway Belt Plan, also known as the Parkway Belt West Plan, referred to in section 22 shall cease to apply to the lands that are part of the Niagara Escarpment Planning Area and described in paragraphs 26, 30, 31 and 33 of the Schedule to Regulation 684 of the Revised Regulations of Ontario, 1980 (as the Schedule read on December 31, 1990); and
+
 (b) the provisions of the Parkway Belt Plan, also known as the Parkway Belt West Plan, that describe the lands to which the Plan applies shall be deemed not to refer to the lands referred to in clause (a).
 
 ### Non-application
 
 (2) For greater certainty, the requirements of sections 6, 7, 8, 9, 10 and 11 relating to amendments to plans made under this Act do not apply to the amendment referred to in clause (1) (b).
+
 23 Omitted (enacts short title of this Act).

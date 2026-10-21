@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17o26"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Cannabis Retail Corporation Act, 2017
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17o26) before relying on it.
 
 S.O. 2017, c. 26, Sched. 2
 
@@ -21,18 +21,27 @@ S.O. 2017, c. 26, Sched. 2
 ### Interpretation
 
 1 In this Act,
+
 “cannabis” has the same meaning as in the Cannabis Control Act, 2017; (“cannabis”)
+
 “Corporation” means the Ontario Cannabis Retail Corporation established under section 3; (“Société”)
+
 “LCBO” means the Liquor Control Board of Ontario continued under section 2 of the Liquor Control Board of Ontario Act, 2019; (“Régie des alcools”)
+
 “Minister” means the Minister of Finance or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means the regulations under this Act; (“règlements”)
+
 “sell” includes offer for sale, expose for sale and have in possession for sale. (“vente”)
 
 ### Exclusive rights, cannabis sales
 
 2 Except as provided by the regulations, the Corporation has the exclusive right in Ontario to sell cannabis,
+
 (a) online, without doing so through a cannabis retail store under the Cannabis Licence Act, 2018; and
+
 (b) to a holder of a retail store authorization under the Cannabis Licence Act, 2018 for the purpose of resale through a cannabis retail store.
 
 ### Establishment, Objects, Powers, etc.
@@ -56,11 +65,17 @@ S.O. 2017, c. 26, Sched. 2
 ### Objects
 
 4 The Corporation’s objects are,
+
 (a) to buy, possess and sell cannabis and related products;
+
 (b) to determine,
+
 (i) the varieties, forms or types of cannabis and related products it sells, subject to the regulations, and
+
 (ii) the prices at which it sells them, subject to subsection 5 (5) and the regulations;
+
 (c) to promote social responsibility in connection with cannabis; and
+
 (d) to engage in such other activities as may be prescribed by regulation or assigned to the Corporation under this or any other Act.
 
 ### Powers
@@ -94,6 +109,7 @@ S.O. 2017, c. 26, Sched. 2
 ### Crown agent
 
 6 The Corporation is an agent of the Crown in right of Ontario for all purposes.
+
 7 Repealed: 2018, c. 12, Sched. 3, s. 3.
 
 ### Board of directors
@@ -103,11 +119,17 @@ S.O. 2017, c. 26, Sched. 2
 ### Delegation
 
 (2) The board of directors may delegate to a committee of the board or to an officer or employee of the Corporation any of the board’s powers other than the power to,
+
 (a) approve the Corporation’s budget, including the budget for capital expenditures and staffing;
+
 (b) approve the Corporation’s business plan, annual report and financial statements;
+
 (c) appoint, remove and set the remuneration of the president and chief executive officer;
+
 (d) establish committees of the board of directors and fill vacancies on those committees;
+
 (e) make, amend or repeal by-laws; or
+
 (f) do any other thing that may be prescribed.
 
 ### Further delegation
@@ -145,18 +167,27 @@ S.O. 2017, c. 26, Sched. 2
 ### Transition
 
 (8) The chair, vice-chair and members of the board of directors who are in office on the day before the Cannabis Statute Law Amendment Act, 2018 receives Royal Assent shall each continue in office as the chair, vice-chair and members of the board of directors until the earliest of the following:
+
 1. The date on which the member’s term of office expires.
+
 2. The date on which the member dies.
+
 3. The date on which the member resigns.
+
 4. The date on which the member is removed by the Lieutenant Governor in Council.
+
 5. The date on which the member becomes bankrupt or unable to act.
 
 ### Same
 
 (9) The following rules apply to each individual described in subsection (8):
+
 1. The individual is deemed to be a public servant for the purposes of Parts IV, V and VI of the Public Service of Ontario Act, 2006.
+
 2. Until such time as the Lieutenant Governor in Council determines remuneration and reimbursement under subsection (7), the individual shall continue to be paid at the rates of remuneration that are in effect for that individual on the day before the Cannabis Statute Law Amendment Act, 2018 receives Royal Assent.
+
 3. If the individual is also a member of the LCBO, the individual is deemed not to have a conflict of interest by virtue only of that fact.
+
 10 Repealed: 2018, c. 12, Sched. 3, s. 6.
 
 ### By-laws
@@ -170,6 +201,7 @@ S.O. 2017, c. 26, Sched. 2
 ### Same, financial by-laws
 
 (3) If the Minister is not the Minister of Finance, a by-law relating to borrowing, investing or managing financial risks, including a by-law that amends or repeals such a by-law, does not take effect until it is approved by, in addition to the Minister, the Minister of Finance.
+
 (4) Repealed: 2018, c. 12, Sched. 3, s. 7.
 
 ### President and chief executive officer
@@ -179,9 +211,13 @@ S.O. 2017, c. 26, Sched. 2
 ### Transition
 
 (2) The individual who is the Corporation’s president and chief operating officer on the day before the Cannabis Statute Law Amendment Act, 2018 receives Royal Assent shall continue as the Corporation’s president and chief executive officer until the earliest of the following:
+
 1. The date on which the individual’s term of office expires.
+
 2. The date on which the individual dies.
+
 3. The date on which the individual resigns.
+
 4. The date on which the individual is removed by the Corporation.
 
 ### References to president and chief operating officer
@@ -239,21 +275,29 @@ S.O. 2017, c. 26, Sched. 2
 ### Interpretation, “personal information”
 
 (5) In this section,
+
 “personal information” has the same meaning as in the Freedom of Information and Protection of Privacy Act.
+
 16 Repealed: 2018, c. 12, Sched. 3, s. 9.
 
 ### Immunity of employees and others
 
 17 (1) No cause of action arises against,
+
 (a) a director, officer or employee of the Corporation as a result of any act done in good faith in the performance or intended performance of his or her duties or any alleged neglect or default in the performance in good faith of his or her duties;
+
 (b) the Crown, a minister of the Crown or an employee of the Crown as a result of any act or omission of a person who is not a minister of the Crown or a Crown employee, if the act or omission is related, directly or indirectly, to the Corporation’s affairs or to the administration of this Act; or
+
 (c) the LCBO or a member, officer or employee of the LCBO as a result of any act or omission of a person who is not a member, officer or employee of the LCBO, if the act or omission is related, directly or indirectly, to the Corporation’s affairs or to the administration of this Act.
 
 ### No proceeding
 
 (2) No proceeding, including but not limited to a proceeding for a remedy in contract, restitution, tort or trust, shall be instituted against,
+
 (a) a director, officer or employee of the Corporation by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (a);
+
 (b) the Crown, a minister of the Crown or an employee of the Crown by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (b); or
+
 (c) the LCBO or a member, officer or employee of the LCBO by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (c).
 
 ### Liability of Corporation preserved
@@ -305,7 +349,9 @@ S.O. 2017, c. 26, Sched. 2
 ### Same
 
 (2) An expenditure is a major capital expenditure for the purposes of this section in either of the following circumstances:
+
 1. It satisfies the criteria prescribed by regulation.
+
 2. If the Minister notifies the Corporation in writing that the expenditure is a major capital expenditure for the purposes of this section.
 
 ### Loans, etc., to the Corporation
@@ -335,8 +381,11 @@ S.O. 2017, c. 26, Sched. 2
 ### Same
 
 (2) The Corporation shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -356,9 +405,13 @@ S.O. 2017, c. 26, Sched. 2
 ### Restrictions on corporate operations, applicable federal law
 
 27 The Corporation,
+
 (a) shall not sell cannabis unless the cannabis has been produced by a person or entity that is authorized under the Cannabis Act (Canada) to produce cannabis for commercial purposes;
+
 (b) shall not sell cannabis to an individual under 19 years of age;
+
 (c) shall keep appropriate records, in accordance with the regulations, respecting its activities in relation to cannabis that it possesses;
+
 (d) shall take adequate measures, in accordance with the regulations, to reduce the risk of cannabis it possesses being diverted to an illicit market or activity.
 
 ### Compliance with Cannabis Licence Act, 2018
@@ -368,8 +421,11 @@ S.O. 2017, c. 26, Sched. 2
 ### Agreement with council of the band
 
 28 (1) In this section and section 28.1,
+
 “council of the band” has the same meaning as in subsection 2 (1) of the Indian Act (Canada); (“conseil de la bande”)
+
 “Indian” has the same meaning as in subsection 2 (1) of the Indian Act (Canada); (“Indien”)
+
 “reserve” means a reserve as defined in subsection 2 (1) of the Indian Act (Canada) or an Indian settlement located on Crown land, the Indian inhabitants of which are treated by Indigenous and Northern Affairs Canada in the same manner as Indians residing on a reserve. (“réserve”)
 
 ### Same
@@ -379,8 +435,11 @@ S.O. 2017, c. 26, Sched. 2
 ### Same, requirement for agreement with other ministers
 
 (3) The Minister may only enter into an arrangement or agreement jointly with,
+
 (a) the Minister of Finance, if the Minister is not the Minister of Finance;
+
 (b) the Minister responsible for the administration of the Cannabis Control Act, 2017; and
+
 (c) the Minister responsible for the administration of the Cannabis Licence Act, 2018.
 
 ### No delivery to reserve on request
@@ -410,18 +469,33 @@ S.O. 2017, c. 26, Sched. 2
 ### Regulations
 
 29 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) respecting anything that, under this Act, may or must be prescribed, done or provided for by regulation;
+
 (b) governing the sale of cannabis and related products;
+
 (c) respecting varieties, forms and types of cannabis and related products that may and may not be sold by the Corporation;
+
 (d) providing for exceptions to the application of section 2, and making such exceptions subject to conditions;
+
 (e) subject to subsection 5 (5), respecting the Corporation’s determination of prices at which it sells cannabis and related products;
+
 (f) governing packaging to be used for containing cannabis and related products sold by the Corporation;
+
 (g) governing information to be provided or disseminated by the Corporation and the manner of providing or disseminating it;
+
 (h) governing records to be kept by the Corporation;
+
 (i) requiring the Corporation to take measures to reduce the risk that cannabis under its control is diverted to an illicit market or activity, and prescribing those measures;
+
 (j) governing such transitional matters as the Lieutenant Governor in Council considers necessary or advisable to facilitate the implementation of this Act or to respond to changes in applicable federal law.
+
 (2) Repealed: 2018, c. 12, Sched. 3, s. 17 (4).
+
 30 Omitted (provides for amendments to this Act).
+
 31 Omitted (amends, repeals or revokes other legislation).
+
 32 Omitted (provides for coming into force of provisions of this Act).
+
 33 Omitted (enacts short title of this Act).

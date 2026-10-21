@@ -6,36 +6,50 @@ language: fr
 type: act
 document_date: "2024-05-16"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98e34"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # impôt sur l'administration des successions (Loi de 1998 de l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98e34) before relying on it.
 
 L.O. 1998, chap. 34, annexe
 
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «certificat successoral» S’entend de ce qui suit :
+
 a) les lettres d’homologation, d’administration ou de tutelle testamentaire délivrées par la Cour de l’Ontario (Division générale) ou par le tribunal appelé «Surrogate Court» avant le 1 er janvier 1995, à l’exclusion des lettres d’homologation supplémentaires, des lettres postérieures ou des lettres d’administration complétives délivrées par l’un ou l’autre de ces tribunaux avant cette date;
+
 b) un certificat de nomination à titre de fiduciaire de la succession délivré par la Cour de l’Ontario (Division générale) ou la Cour supérieure de justice après le 31 décembre 1994, y compris un certificat de petite succession ou un certificat de petite succession modifié à l’exclusion d’un certificat de nouveau fiduciaire de la succession ou d’un certificat de fiduciaire de la succession pour la durée du litige délivré par ce tribunal après cette date. («estate certificate»)
+
 «représentant successoral» S’entend en outre, à l’égard de la succession d’un défunt, des personnes suivantes :
+
 a) l’exécuteur ou l’administrateur de la succession;
+
 b) la personne habilitée à agir en qualité d’exécuteur ou d’administrateur de la succession;
+
 c) la personne nommée tuteur ou tuteur aux biens d’un bénéficiaire de la succession du défunt;
+
 d) le fiduciaire de la succession;
+
 e) le fiduciaire de la succession testamentaire;
+
 f) le fiduciaire de la succession non testamentaire. («estate representative»)
+
 «valeur de la succession» La valeur de tous les biens qui appartenaient au défunt au moment de son décès, déduction faite de la valeur réelle de toute charge qui grève les biens immeubles inclus dans ces biens, qui doit être divulguée aux termes de l’article 32 de la Loi sur les successions (ou d’une loi qu’elle remplace). («value of the estate») 1998, chap. 34, annexe, art. 1
 
 ### Interprétation : Loi sur la taxe de vente au détail
 
 (2) Toute disposition de la Loi sur la taxe de vente au détail qui s’applique dans le cadre de la présente loi s’interprète comme si :
+
 a) la taxe payable par un acheteur dans le cadre de cette loi correspondait à l’impôt payable par une succession dans le cadre de la présente loi;
+
 b) un montant que doit verser un vendeur dans le cadre de cette loi correspondait à un montant payable par un représentant successoral dans le cadre de la présente loi;
+
 c) toute mention de «personne» dans cette loi valait également mention d’une succession.
 
 ### Impôt sur les successions
@@ -45,7 +59,9 @@ c) toute mention de «personne» dans cette loi valait également mention d’un
 ### Exonération
 
 (2) La succession est exonérée de l’impôt prévu par la présente loi si :
+
 a) sa valeur ne dépasse pas 1 000 $ et la demande de certificat successoral par requête à l’égard de la succession est présentée avant le 1 er janvier 2020;
+
 b) sa valeur ne dépasse pas 50 000 $ et la demande de certificat successoral par requête à l’égard de la succession est présentée le 1 er janvier 2020 ou par la suite.
 
 ### Montant de l’impôt : certificats demandés avant le 12 mai 1960
@@ -63,7 +79,9 @@ b) sa valeur ne dépasse pas 50 000 $ et la demande de certificat successoral pa
 ### Montant de l’impôt : certificats demandés après le 7 juin 1992
 
 (6) L’impôt payable sur délivrance d’un certificat successoral demandé par requête présentée après le 7 juin 1992 mais avant le 1 er janvier 2020 est :
+
 a) d’une part, de 5 $ par tranche complète ou partielle de 1 000 $ de la première tranche de 50 000 $ de la valeur de la succession;
+
 b) d’autre part, de 15 $ par tranche complète ou partielle de 1 000 $ de l’excédent de la valeur de la succession sur 50 000 $. 1998, chap. 34, annexe, par. 2 (6)
 
 ### Montant de l’impôt : certificats demandés le 1 er janvier 2020 ou par la suite
@@ -113,14 +131,19 @@ b) d’autre part, de 15 $ par tranche complète ou partielle de 1 000 $ de l’
 ### Idem
 
 (2) Aucun certificat successoral ne doit être délivré avant le paiement du dépôt exigé par l’article 3, sauf si un juge est convaincu, en se fondant sur un affidavit du requérant et sur tout autre document qu’il exige, de ce qui suit :
+
 a) le certificat fait l’objet d’un besoin pressant;
+
 b) des difficultés financières importantes résulteraient de la non-délivrance du certificat avant le paiement du dépôt;
+
 c) une garantie suffisante de paiement de l’impôt prévu par la présente loi a été fournie au tribunal.
 
 ### Restriction : dépôt fondé sur une estimation
 
 (3) Si le montant du dépôt est fondé sur une valeur estimative, le certificat successoral ne doit pas être délivré tant que le requérant ne remet pas au tribunal un engagement signé portant que, dans les six mois qui suivent :
+
 a) d’une part, il déposera une déclaration sous serment de la valeur totale et réelle de la succession;
+
 b) d’autre part, il paiera tout impôt supplémentaire payable aux termes de la présente loi si la valeur réelle est supérieure à la valeur estimative.
 
 ### Inexécution de l’engagement
@@ -164,20 +187,27 @@ b) d’autre part, il paiera tout impôt supplémentaire payable aux termes de l
 ### Exceptions
 
 (2) Le ministre peut, à tout moment qu’il juge raisonnable, établir une cotisation ou une nouvelle cotisation à l’égard de l’impôt payable par une succession s’il détermine :
+
 a) soit qu’une personne ne s’est pas conformée à l’article 4.1;
+
 b) soit qu’une personne a fait une présentation inexacte des faits par négligence, manque d’attention ou omission volontaire ou a commis une fraude en communiquant ou en omettant de divulguer des renseignements concernant la succession.
 
 ### Remboursements
 
 4.5.1 (1) Le ministre du Revenu rembourse tout paiement en trop d’impôt payé par une succession sous le régime de la présente loi si les conditions suivantes sont réunies :
+
 a) le représentant successoral a remis les renseignements exigés par l’article 4.1 au ministre dans les quatre ans suivant la délivrance du certificat successoral;
+
 b) le ministre a confirmé qu’il y a eu un paiement en trop d’impôt payé sous le régime de la présente loi;
+
 c) le ministre a reçu une demande de remboursement par écrit au cours d’une des périodes se rapportant à la succession qui sont énoncées au paragraphe (2).
 
 ### Périodes
 
 (2) Les périodes se rapportant à une succession qui sont visées à l’alinéa (1) c) sont les suivantes :
+
 1. La période qui commence le jour où le certificat successoral de la succession est délivré et qui se termine 12 ans après ce jour.
+
 2. La période qui commence à la date de l’avis de cotisation établie à l’égard de la succession en vertu de l’article 4.2 ou de la nouvelle cotisation établie à l’égard de la succession en vertu de l’article 4.4 et qui se termine deux ans après ce jour.
 
 ### Oppositions et appels
@@ -207,8 +237,11 @@ c) le ministre a reçu une demande de remboursement par écrit au cours d’une 
 ### Exception
 
 (2) Le ministre du Revenu et toute personne employée par la Couronne qui participe, directement ou indirectement, à l’application et à l’exécution de la présente loi ou à l’élaboration et à l’évaluation de la politique fiscale pour le compte de la Couronne peuvent communiquer des renseignements et des documents obtenus dans l’exercice de leurs fonctions, ou en autoriser la communication, à une autre personne employée par la Couronne en vue de leur utilisation à l’une ou l’autre des fins suivantes, ou recevoir aux mêmes fins de tels renseignements et documents d’une autre personne employée par la Couronne :
+
 1. L’élaboration ou l’évaluation de la politique fiscale pour le compte de la Couronne.
+
 2. L’élaboration ou l’évaluation d’un programme qui accorde un avantage.
+
 3. L’application ou l’exécution d’une loi qui fixe un impôt ou accorde un avantage.
 
 ### Registres
@@ -248,8 +281,11 @@ c) le ministre a reçu une demande de remboursement par écrit au cours d’une 
 ### Pénalité
 
 (4) Toute personne coupable d’une infraction prévue au paragraphe (1) ou (2) est passible, sur déclaration de culpabilité :
+
 a) soit d’une amende d’au moins 1 000 $ qui ne doit toutefois pas excéder le double de l’impôt payable par la succession, si celui-ci est plus élevé que 1 000 $;
+
 b) soit d’un emprisonnement d’au plus deux ans;
+
 c) soit des peines énoncées aux alinéas a) et b).
 
 ### Infraction : confidentialité
@@ -259,9 +295,13 @@ c) soit des peines énoncées aux alinéas a) et b).
 ### Règlements
 
 6 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) exonérer une succession du paiement de tout ou partie de l’impôt prévu par la présente loi en fonction de la valeur de la succession ou d’un autre facteur qu’il estime indiqué;
+
 b) prévoir le remboursement de tout ou partie de l’impôt que doit payer une succession aux termes de la présente loi et prévoir les modalités de demande d’un tel remboursement;
+
 c) prescrire ce que le requérant qui demande un certificat successoral doit faire, et les renseignements ou preuves qu’il doit fournir ou donner à toute personne, pour établir la valeur de la succession;
+
 d) prévoir les questions administratives et de procédure jugées utiles ou nécessaires pour réaliser l’objet de la présente loi.
 
 ### Portée des règlements
@@ -287,5 +327,7 @@ d) prévoir les questions administratives et de procédure jugées utiles ou né
 ### Droits
 
 (3) Les sommes payées avant que la Loi de 1998 sur les crédits d’impôt et la protection des recettes ne reçoive la sanction royale à titre de droits pour la délivrance d’un certificat successoral aux termes de la Loi sur l’administration de la justice ou de la loi intitulée Surrogate Courts Act à l’égard d’une succession sont affectées à l’acquittement de l’impôt auquel la succession est assujettie aux termes de la présente loi.
+
 8 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 9 Omis (édicte le titre abrégé de la présente loi).

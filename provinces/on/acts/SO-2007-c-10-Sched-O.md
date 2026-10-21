@@ -6,23 +6,28 @@ language: en
 type: act
 document_date: "2021-06-03"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07k10"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Kinesiology Act, 2007
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07k10) before relying on it.
 
 S.O. 2007, c. 10, Sched. O
 
 ### Definitions
 
 1 In this Act,
+
 “College” means the College of Kinesiologists of Ontario; (“Ordre”)
+
 “Health Professions Procedural Code” means the Health Professions Procedural Code set out in Schedule 2 to the Regulated Health Professions Act, 1991; (“Code des professions de la santé”)
+
 “member” means a member of the College; (“membre”)
+
 “profession” means the profession of kinesiology; (“profession”)
+
 “this Act” includes the Health Professions Procedural Code. (“la présente loi”)
 
 ### Health Professions Procedural Code
@@ -32,9 +37,13 @@ S.O. 2007, c. 10, Sched. O
 ### Same, interpretation
 
 (2) In the Health Professions Procedural Code, as it applies in respect of this Act,
+
 “College” means the College of Kinesiologists of Ontario; (“ordre”)
+
 “health profession Act” means this Act; (“loi sur une profession de la santé”)
+
 “profession” means the profession of kinesiology; (“profession”)
+
 “regulations” means the regulations under this Act. (“règlements”)
 
 ### Definitions in Code
@@ -52,11 +61,17 @@ S.O. 2007, c. 10, Sched. O
 ### Council
 
 5 (1) The Council shall be composed of,
+
 (a) at least seven and no more than nine persons who are members elected in accordance with the by-laws;
+
 (b) at least six and no more than eight persons appointed by the Lieutenant Governor in Council who are not,
+
 (i) members,
+
 (ii) members of a College as defined in the Regulated Health Professions Act, 1991, or
+
 (iii) members of a Council as defined in the Regulated Health Professions Act, 1991;
+
 (c) one person selected, in accordance with a by-law made under section 10, from among members who are members of a faculty or department of kinesiology of a university in Ontario.
 
 ### Who can vote in elections
@@ -78,7 +93,9 @@ S.O. 2007, c. 10, Sched. O
 ### Definition
 
 (3) In this section,
+
 “abbreviation” includes an abbreviation of a variation.
+
 8 Repealed: 2021, c. 25, Sched. 25, s. 15.
 
 ### Offence
@@ -104,8 +121,11 @@ S.O. 2007, c. 10, Sched. O
 ### Powers of the Minister
 
 (4) The Minister may,
+
 (a) review the transitional Council’s activities and require the transitional Council to provide reports and information;
+
 (b) require the transitional Council to make, amend or revoke a regulation under this Act;
+
 (c) require the transitional Council to do anything that, in the opinion of the Minister, is necessary or advisable to carry out the intent of this Act and the Regulated Health Professions Act, 1991.
 
 ### Transitional Council to comply with Minister’s request
@@ -127,6 +147,9 @@ S.O. 2007, c. 10, Sched. O
 ### Transition after certain provisions in force
 
 12 After section 5 comes into force, the transitional Council shall be the Council of the College if it is constituted in accordance with subsection 5 (1) or, if it is not, it shall be deemed to be the Council of the College until a new Council is constituted in accordance with subsection 5 (1).
+
 13., 14 Omitted (amends or repeals other Acts).
+
 15 Omitted (provides for coming into force of provisions of this Act).
+
 16 Omitted (enacts short title of this Act).

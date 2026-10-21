@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2016-12-08"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06p33"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Provincial Land Tax Act, 2006
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06p33) before relying on it.
 
 S.O. 2006, c. 33, Sched. Z.2
 
@@ -21,12 +21,19 @@ S.O. 2006, c. 33, Sched. Z.2
 ### Interpretation
 
 1 (1) In this Act,
+
 “assessed owner” means, with respect to land, a person whose name appears on the tax roll as owner of the land; (“propriétaire inscrit”)
+
 “Board” means the Assessment Review Board; (“Commission”)
+
 “Minister” means the Minister of Finance; (“ministre”)
+
 “non-municipal territory” means territory without municipal organization; (“territoire non municipalisé”)
+
 “prescribed” means prescribed by regulations made under this Act; (“prescrit”)
+
 “property class” means a class of real property prescribed under the Assessment Act; (“catégorie de biens”)
+
 “property tax” means, with respect to land for a taxation year, the amount of tax determined under section 5 and includes any amount payable under another Act in respect of the land that may be collected as if it were a tax imposed by this Act. (“impôt foncier”)
 
 ### Interpretation
@@ -70,12 +77,15 @@ S.O. 2006, c. 33, Sched. Z.2
 ### Mining lands
 
 4. Land that is liable to tax under Part XIII of the Mining Act, other than,
+
 i. land that is used for a purpose other than mining or that is used for both mining and one or more other purposes, or
+
 ii. land on which there is timber that has an average value of more than $2 per acre, other than timber in a Crown forest as defined in the Crown Forest Sustainability Act, 1994 or timber that is reserved to the Crown.
 
 ### Definition
 
 (2) In this section,
+
 “non-profit hospital service corporation” means a corporation without share capital that provides laundry or food services to one or more public hospitals, as defined in the Public Hospitals Act.
 
 ### Tax rates
@@ -91,21 +101,29 @@ ii. land on which there is timber that has an average value of more than $2 per 
 ### Calculation of tax
 
 5 (1) Subject to any regulation that may be made under subsection (3), the amount of tax that is payable under section 2 on land for a taxation year is calculated using the formula,
+
 A × B
+
 in which,
+
 “A” is the prescribed tax rate for the taxation year for the property class in which the land is classified, and
+
 “B” is the assessed value of the land for the taxation year according to the last revised assessment roll for the year.
 
 ### Same, railway companies and power utilities
 
 (2) Despite subsection (1) and subject to any regulation that may be made under subsection (3), the amount of tax that is payable on the following land is calculated in accordance with the regulations:
+
 1. The roadway or right-of-way of a railway company, other than the structures, substructures and superstructures, rails, ties, poles and other property on the roadway or right-of-way, not including land leased by the railway company to another person for rent or other valuable consideration.
+
 2. Land owned by a prescribed power utility and used as a transmission or distribution corridor, not including land leased by the power utility to another person for rent or other valuable consideration.
 
 ### Regulations
 
 (3) The Minister may make regulations,
+
 (a) governing the minimum amount of tax payable on land for a taxation year and prescribing the manner for determining that amount;
+
 (b) limiting the change in the amount of tax payable under section 2 for a taxation year from the amount of tax payable for the previous taxation year under section 2 or the provisions of the Provincial Land Tax Act, as the case may be, and may prescribe rules for calculating the amount of tax payable under section 2 for the taxation year.
 
 ### Tax bill
@@ -155,24 +173,39 @@ in which,
 ### Cancellation, etc., of tax
 
 8 (1) Upon application, the Minister may cancel or refund all or part of the tax levied under this Act or the Education Act on land for a specified taxation year, including interest and penalties, if,
+
 (a) as a result of a change event, as defined in clause (a) of the definition of “change event” in subsection 34 (2.2) of the Assessment Act, during the taxation year, the property or portion of the property is eligible to be reclassified in a different class of real property, as defined in regulations made under that Act, and that class has a lower tax rate for the taxation year than the class the property or portion of the property is in before the change event, and no supplementary assessment is made in respect of the change event under subsection 34 (2) of the Assessment Act;
+
 (b) the land has become vacant land or excess land during the year or during the preceding year after the return of the assessment roll for the preceding year;
+
 (c) the land has become exempt from taxation during the year or during the preceding year after the return of the assessment roll for the preceding year;
+
 (d) during the year or during the preceding year after the return of the assessment roll for the preceding year, a building on the land,
+
 (i) was razed by fire, demolition or otherwise, or
+
 (ii) was damaged by fire, demolition or otherwise so as to render it substantially unusable for the purposes for which it was used immediately before the damage;
+
 (e) the applicant is unable to pay property tax because of sickness, financial hardship or extreme poverty;
+
 (f) the Minister believes that the property tax constitutes an undue financial burden on the applicant in accordance with such criteria as may be prescribed;
+
 (g) a mobile unit on the land was removed during the year or during the preceding year after the return of the assessment roll for the preceding year;
+
 (h) a person was overcharged in the year due to a gross or manifest error in the assessment roll that is clerical or factual in nature, including the transposition of figures, a typographical error or a similar error, but not an error in judgment in assessing the property;
+
 (i) repairs or renovations to the land prevented the normal use of the land for a period of at least three months during the year; or
+
 (j) the conditions prescribed by the regulations are satisfied.
 
 ### Application
 
 (2) An application may be made under this section only by the owner of the land or by another person who,
+
 (a) has an interest in the land as shown on the records of the appropriate land registry office and the sheriff’s office;
+
 (b) is a tenant, occupant or other person in possession of the land; or
+
 (c) is a spouse of the owner or a person described in clause (a) or (b).
 
 ### Decision
@@ -262,12 +295,15 @@ in which,
 ### Collection
 
 (6) The amount of an increase in property taxes under this section is collectible as if it had been levied and included on the original tax bill, except,
+
 (a) the amount is not payable until the time for appealing has expired or, if an appeal is made, the Board has made its decision; and
+
 (b) the amount is not subject to late-payment charges until the 22nd day after the amount becomes payable.
 
 ### Definition
 
 (7) In this section,
+
 “taxpayer” means a person who is liable to pay property tax.
 
 ### Apportionment of tax, etc.
@@ -337,10 +373,15 @@ in which,
 ### Garnishment, loans and advances
 
 (1.1) If the Minister has knowledge or suspects that within 365 days,
+
 (a) a bank, credit union, trust corporation or other similar person (in this section referred to as the “institution”) will loan or advance money to, or make a payment on behalf of, or make a payment in respect of a negotiable instrument issued by an assessed owner who is indebted to the institution and who has granted security in respect of the indebtedness; or
+
 (b) a person other than an institution will loan or advance money to or make a payment on behalf of an assessed owner who the Minister knows or suspects,
+
 (i) is employed by or engaged in providing services or property to that person or who was or will within 365 days be so employed or engaged, or
+
 (ii) is not dealing at arm’s length with that person,
+
 the Minister may, by registered letter, or by letter served personally, require the institution or person, as the case may be, to pay forthwith to the Minister on account of the liability of the assessed owner all or part of the money that would otherwise have been loaned, advanced or paid, and any money paid to the Minister shall be deemed to have been loaned, advanced or paid, as the case may be, to the assessed owner.
 
 ### Same
@@ -366,7 +407,9 @@ the Minister may, by registered letter, or by letter served personally, require 
 ### Same
 
 (6.1) Every institution or person who fails to comply with a requirement under subsection (1.1) with respect to money to be loaned, advanced or paid is liable to pay the Crown in right of Ontario an amount equal to the lesser of,
+
 (a) the aggregate of money so loaned, advanced or paid; or
+
 (b) the amount that the institution or person was required under subsection (1.1) to pay to the Minister.
 
 ### Garnishment of wages
@@ -390,7 +433,9 @@ the Minister may, by registered letter, or by letter served personally, require 
 ### Notice of possible forfeiture
 
 (3) The Minister shall notify the following persons that the land and every interest in it is liable to be forfeited to the Crown unless the total amount owing under this Act is paid before December 1 of the year following the year in which the related notice required by subsection (5) is published in The Ontario Gazette:
+
 1. The owner of the land, as indicated in the records of the land registry office or, if there are no such records, as indicated on the last revised assessment roll.
+
 2. Every other person who according to the records, if any, in the land registry office has an interest in the land.
 
 ### Same
@@ -458,18 +503,27 @@ the Minister may, by registered letter, or by letter served personally, require 
 ### Contents
 
 (2) The tax roll must set out the following information for separately assessed land in non-municipal territory:
+
 1. The assessment roll number for the land.
+
 2. A description of the land sufficient to identify it.
+
 3. The name of every person against whom the land is assessed, including a tenant assessed under section 18 of the Assessment Act.
+
 4. The assessed value of the land and, if the land is assessed in more than one property class, the assessed value in each property class.
+
 5. The total amount payable under this or any other Act and, if the land is assessed in more than one property class, the total amount payable in respect of each property class.
+
 6. In the case of land described in subsection 5 (2), the area of the land and the amount of tax calculated under that subsection.
+
 7. The amount of taxes payable under this Act, including any penalties and interest, and any amounts payable under another Act, including any penalties and interest and, if the land is assessed in more than one property class, the amounts payable in respect of each property class.
 
 ### Effect of change of assessment
 
 18 If the assessment of land for a year changes as a result of a request under section 39.1 of the Assessment Act, an appeal under section 40 of that Act or an application under section 46 of that Act,
+
 (a) any tax relief provided under section 8 or any tax increase provided under section 9 shall be redetermined using the new tax on property for the year based on the new assessment; and
+
 (b) the tax roll for the year shall be altered to reflect the redetermination.
 
 ### Statement of amounts owing for taxes
@@ -547,19 +601,33 @@ the Minister may, by registered letter, or by letter served personally, require 
 ### Regulations
 
 25 (1) The Minister may make regulations,
+
 (a) governing and clarifying the application of this Act;
+
 (b) prescribing those matters which are required or permitted to be prescribed;
+
 (c) governing those matters which are required or permitted to be done in accordance with the regulations;
+
 (d) defining any word or expression in this Act that is not already defined;
+
 (e) providing for the deferral or cancellation of, or other relief in respect of, all or part of a tax increase on property in the residential property class for persons assessed as owners who are, or whose spouses are,
+
 (i) low-income seniors, as defined in the regulations, or
+
 (ii) low-income persons with disabilities, as defined in the regulations;
+
 (f) providing for tax rebates in whole or in part for eligible charities for the purpose of giving them relief from taxes or amounts paid on account of taxes on property they occupy and prescribing circumstances in which the tax rebate is available, the classes of property to which it applies and any conditions that must be satisfied;
+
 (g) providing for tax rebates in whole or in part to owners of property that have vacant portions, other than property in the residential property class, the multi-residential property class, the farm property class, the pipe line property class or the managed forests property class, and prescribing the circumstances in which the tax rebate is available and any conditions that must be satisfied;
+
 (h) providing for the cancellation of all or a portion of the taxes levied on property for the purposes of providing an incentive for the environmental remediation of the property and prescribing circumstances in which the cancellation is available, the classes of property to which a cancellation applies and any conditions that must be satisfied;
+
 (i) providing for reductions or refunds of tax in respect of heritage properties and prescribing circumstances in which the tax reduction or refund is available, the classes of property to which it applies and any conditions that must be satisfied;
+
 (j) governing the allocation and application of amounts collected under this Act in respect of amounts payable under this Act and amounts payable under one or more prescribed Acts;
+
 (k) providing for the payment of interest on any refund, rebate, deferral or cancellation of property tax that is authorized by this Act and prescribing the rate thereof;
+
 (l) prescribing the manner in which property tax payable is billed and paid for the purposes of subsection 6 (1.1).
 
 ### Classes
@@ -579,5 +647,7 @@ the Minister may, by registered letter, or by letter served personally, require 
 ### Adjustments for amounts under predecessor Act
 
 26 Adjustments made after 2008 that relate to amounts payable but not paid before 2009 under the Provincial Land Tax Act or that relate to overpayments made before 2009 under that Act shall be charged or credited under this Act to the owner of the land as if the amounts had been payable or the overpayments made under this Act.
+
 27 Omitted (provides for coming into force of provisions of this Act).
+
 28 Omitted (enacts short title of this Act).

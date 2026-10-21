@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c07b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Combative Sports Act, 2019
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c07b) before relying on it.
 
 S.O. 2019, c. 7, Sched. 9
 
@@ -21,24 +21,39 @@ S.O. 2019, c. 7, Sched. 9
 ### Definitions
 
 1 (1) In this Act,
+
 “Advisory Council” means the Ontario Combative Sport Advisory Council established under section 3; (“Conseil consultatif”)
+
 “amateur combative sport contest or exhibition” has the meaning set out in the regulations; (“compétition ou exhibition de sports de combat amateurs”)
+
 “combative sport” has the meaning set out in subsection (2); (“sport de combat”)
+
 “Commissioner” means the Commissioner appointed under section 2; (“commissaire”)
+
 “designated senior employee” means a person employed in the Ministry as an assistant deputy minister or in a position prescribed by the regulations; (“titulaire d’un poste supérieur désigné”)
+
 “matchmaker” means a person who arranges a professional combative sport contest or exhibition; (“promoteur de match”)
+
 “Minister” means the member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre”)
+
 “Ministry” means the ministry of the Minister; (“ministère”)
+
 “official” means a person who participates in a professional combative sport contest or exhibition as a referee, judge or in any other prescribed capacity; (“officiel”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “professional combative sport contest or exhibition” has the meaning set out in the regulations; (“compétition ou exhibition de sports de combat professionnels”)
+
 “regulations” means the regulations made under this Act. (“règlements”)
 
 ### Combative sport
 
 (2) A reference to “combative sport” in this Act and the regulations, including within the definitions of “amateur combative sport contest or exhibition” and “professional combative sport contest or exhibition” in subsection (1), means a sport in which contestants meet by previous arrangement for the purpose of an encounter or fight and,
+
 (a) strike their opponents using their hands, fists, feet or any other body part or any combination of them;
+
 (b) use throwing, grappling or submission techniques; or
+
 (c) engage in any other prescribed technique.
 
 ### Same
@@ -88,7 +103,9 @@ S.O. 2019, c. 7, Sched. 9
 ### Functions of Advisory Council
 
 4 The Advisory Council shall,
+
 (a) advise the Minister regarding regulations under section 49; and
+
 (b) perform any other duties as may be prescribed.
 
 ### Meetings
@@ -108,37 +125,57 @@ S.O. 2019, c. 7, Sched. 9
 ### Licence required
 
 6 No person shall do any of the following unless the person holds a valid licence authorizing the activity:
+
 1. Promote, conduct or hold a professional combative sport contest or exhibition.
+
 2. Participate as a contestant in a professional combative sport contest or exhibition.
+
 3. Provide services as a manager, matchmaker, second or official with respect to a professional combative sport contest or exhibition.
+
 4. Engage in any other prescribed activity.
 
 ### Application for licence
 
 7 A person may apply to the Commissioner for a licence by,
+
 (a) submitting to the Commissioner,
+
 (i) the prescribed information, authorizations and records,
+
 (ii) any information, application form and other records required by the Commissioner, and
+
 (iii) the prescribed fees; and
+
 (b) complying with any additional prescribed requirements.
 
 ### Issuance of licence
 
 8 The Commissioner shall issue a licence to an applicant, if the Commissioner,
+
 (a) receives an application under section 7; and
+
 (b) is satisfied that the applicant has complied with this Act and the regulations.
 
 ### Refusal to issue a licence
 
 9 Subject to section 28, on receipt of an application under section 7, the Commissioner may refuse to issue a licence if,
+
 (a) the applicant, or any of the officers, directors or representatives of the applicant,
+
 (i) has contravened this Act, the regulations or the terms and conditions of a licence, or
+
 (ii) fails to meet the requirements for the licence;
+
 (b) the Commissioner has reasonable grounds to believe that,
+
 (i) based on the past conduct of the applicant, or any officers, directors or representatives of the applicant, the applicant will not carry on business with honesty and integrity and in accordance with this Act, the regulations or any term or condition of the licence,
+
 (ii) the applicant has made a false or misleading statement, with respect to any matter that the Commissioner considers material, in an application under section 7 or 17 or in any of the information or material submitted to the Commissioner in support of an application,
+
 (iii) the issuance of the licence is not in the interest of the health and safety of the contestant, or
+
 (iv) it is not in the public interest to issue the licence; or
+
 (c) any other prescribed circumstances exist.
 
 ### Suspension or cancellation of a licence
@@ -172,17 +209,25 @@ S.O. 2019, c. 7, Sched. 9
 ### Powers after receipt of information
 
 (2) Subject to section 28, after receiving information that there has been a change in circumstances in accordance with subsection (1), the Commissioner may,
+
 (a) in the case of an applicant for a licence, refuse to issue a licence; or
+
 (b) in the case of a licensee,
+
 (i) suspend or cancel the licence, or
+
 (ii) amend the terms and conditions imposed by the Commissioner under subsection 11 (1) or impose new terms and conditions.
 
 ### Failure to comply with subs. (1)
 
 (3) Subject to section 28, if an applicant for a licence or licensee fails to comply with subsection (1), the Commissioner may,
+
 (a) in the case of an applicant for a licence, refuse to issue a licence; or
+
 (b) in the case of a licensee,
+
 (i) suspend or cancel the licence, or
+
 (ii) amend the terms and conditions imposed by the Commissioner under subsection 11 (1) or impose new terms and conditions.
 
 ### Event Permit
@@ -198,16 +243,23 @@ S.O. 2019, c. 7, Sched. 9
 ### Application for event permit
 
 17 A person may apply to the Commissioner for an event permit by,
+
 (a) submitting to the Commissioner,
+
 (i) the prescribed information, authorizations and records,
+
 (ii) any information, application form and other records required by the Commissioner, and
+
 (iii) the prescribed fees; and
+
 (b) complying with any additional prescribed requirements.
 
 ### Issuance of event permit
 
 18 (1) The Commissioner shall issue an event permit to an applicant if the Commissioner,
+
 (a) receives an application under section 17; and
+
 (b) is satisfied that the applicant has complied with this Act and the regulations.
 
 ### Event permit re professional combative sport contest or exhibition
@@ -225,19 +277,29 @@ S.O. 2019, c. 7, Sched. 9
 ### Event permit not required for certain amateur combative sport contests or exhibitions
 
 19 An amateur combative sport contest or exhibition may be held without an event permit if,
+
 (a) the contest or exhibition is held with the permission of a prescribed person or entity or is held under any of the prescribed circumstances; or
+
 (b) the contest or exhibition satisfies the prescribed criteria.
 
 ### Refusal to issue event permit
 
 20 Subject to section 28, on receipt of an application under section 17, the Commissioner may refuse to issue an event permit if,
+
 (a) the applicant, or any of the officers, directors or representatives of the applicant,
+
 (i) has contravened this Act, the regulations or the terms and conditions of an event permit, or
+
 (ii) fails to meet the requirements for the event permit; or
+
 (b) the Commissioner has reasonable grounds to believe that,
+
 (i) based on the past conduct of the applicant, or any officers, directors or representatives of the applicant, the applicant will not carry on business with honesty and integrity and in accordance with this Act, the regulations or any term or condition of the event permit,
+
 (ii) the applicant has made a false or misleading statement, with respect to any matter that the Commissioner considers material, in an application under section 7 or 17 or in any of the information or material submitted to the Commissioner in support of an application, or
+
 (iii) it is not in the public interest to issue the event permit; or
+
 (c) any other prescribed circumstances exist.
 
 ### Suspension or cancellation of event permit
@@ -267,17 +329,25 @@ S.O. 2019, c. 7, Sched. 9
 ### Powers after receipt of information
 
 (2) Subject to section 28, after receiving information that there has been a change in circumstances in accordance with subsection (1), the Commissioner may,
+
 (a) in the case of an applicant for an event permit, refuse to issue an event permit; or
+
 (b) in the case of a holder of an event permit,
+
 (i) suspend or cancel the event permit, or
+
 (ii) amend the terms and conditions imposed by the Commissioner under subsection 22 (1) or impose new terms and conditions.
 
 ### Failure to comply with subs. (1)
 
 (3) Subject to section 28, if an applicant for an event permit or holder of an event permit fails to comply with subsection (1), the Commissioner may,
+
 (a) in the case of an applicant for an event permit, refuse to issue an event permit; or
+
 (b) in the case of a holder of an event permit,
+
 (i) suspend or cancel the event permit, or
+
 (ii) amend the terms and conditions imposed by the Commissioner under subsection 22 (1) or impose new terms and conditions.
 
 ### Security for professional combative sport contest or exhibition
@@ -287,8 +357,11 @@ S.O. 2019, c. 7, Sched. 9
 ### Amount of security
 
 (2) The security referred to in subsection (1) shall be in an amount sufficient to cover,
+
 (a) the fees and eligible expenses payable to officials appointed by the Commissioner under subsection 18 (4);
+
 (b) the event administration fee payable under section 27; and
+
 (c) any other amounts prescribed by regulation.
 
 ### Form of security
@@ -308,9 +381,13 @@ S.O. 2019, c. 7, Sched. 9
 ### Notice of intention to refuse, etc.
 
 28 (1) The Commissioner shall notify the applicant, licensee or event permit holder, as the case may be, in writing if the Commissioner intends to,
+
 (a) refuse to issue a licence;
+
 (b) refuse to issue an event permit;
+
 (c) suspend or cancel a licence or event permit; or
+
 (d) amend the terms and conditions of a licence or event permit or impose new terms and conditions on a licence or event permit.
 
 ### Contents of notice
@@ -336,7 +413,9 @@ S.O. 2019, c. 7, Sched. 9
 ### Powers of Tribunal
 
 (7) After holding the hearing, the Licence Appeal Tribunal may,
+
 (a) by order, direct the Commissioner to carry out the action set out in the notice, with or without amendments, or substitute its opinion for that of the Commissioner; and
+
 (b) by order, direct the Commissioner to take such action as the Tribunal considers he or she should take in accordance with this Act and the regulations.
 
 ### Appeals from orders of the Tribunal
@@ -372,7 +451,9 @@ S.O. 2019, c. 7, Sched. 9
 ### Inspections without warrant
 
 31 (1) An inspector may, at any reasonable time and without a warrant, enter and inspect,
+
 (a) a premises where an amateur combative sport contest or exhibition or professional combative sport contest or exhibition is being held or is scheduled to be held or where the inspector suspects on reasonable grounds that such a contest or exhibition is being held or is scheduled to be held; or
+
 (b) a premises where the inspector suspects on reasonable grounds that a person has not complied with or is not complying with this Act or the regulations.
 
 ### Dwellings
@@ -382,11 +463,17 @@ S.O. 2019, c. 7, Sched. 9
 ### Powers on inspection
 
 32 (1) An inspector conducting an inspection may,
+
 (a) examine a record or other thing that is relevant to the inspection;
+
 (b) demand the production for inspection of a document or other thing that is relevant to the inspection;
+
 (c) on issuing a written receipt, remove for review and copying a record or other thing that is relevant to the inspection;
+
 (d) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business on the premises;
+
 (e) take photographs, video recordings or other visual or audio recordings that are relevant to the inspection; and
+
 (f) question a person on matters relevant to the inspection.
 
 ### Limitation re photographs and recordings
@@ -396,13 +483,17 @@ S.O. 2019, c. 7, Sched. 9
 ### Written demand
 
 (3) A demand that a record or other thing be produced for inspection must be in writing and must state,
+
 (a) the nature of the record or thing required; and
+
 (b) when the record or thing is to be produced.
 
 ### Obligation to produce and assist
 
 (4) If an inspector demands that a record or other thing be produced for inspection, the person having custody of the record or other thing shall produce it for the inspector within the time provided for in the demand, and shall, upon the inspector’s demand,
+
 (a) provide whatever assistance is reasonably necessary to produce a record in a readable form, including using a data storage, processing or retrieval device or system; and
+
 (b) provide whatever assistance is reasonably necessary to interpret a record for the inspector.
 
 ### Power to exclude persons
@@ -412,12 +503,15 @@ S.O. 2019, c. 7, Sched. 9
 ### Return of things
 
 (6) A record or other thing that has been removed for review and copying,
+
 (a) shall be made available to the person from whom it was removed on request and at a time and place that are convenient for the person and for the inspector; and
+
 (b) shall be returned to the person within a reasonable time.
 
 ### Definition of record
 
 (7) In this section,
+
 “record” means any document or record of information, in any form, including a record of personal information.
 
 ### Warrants
@@ -427,17 +521,25 @@ S.O. 2019, c. 7, Sched. 9
 ### Issuance of warrant
 
 (2) A justice may issue a warrant authorizing an inspector named in the warrant to enter the premises specified in the warrant, and to exercise any of the powers mentioned in section 32, if the justice is satisfied on information under oath or affirmation,
+
 (a) that,
+
 (i) an amateur combative sport contest or exhibition or professional combative sport contest or exhibition is being held or is scheduled to be held at the premises or where the inspector suspects on reasonable grounds that such a contest or exhibition is being held or is scheduled to be held, or
+
 (ii) the inspector suspects on reasonable grounds that a person has not complied with or is not complying with this Act or the regulations; and
+
 (b) that,
+
 (i) the inspector has been prevented from exercising a right of entry to the premises under section 31 or a power under subsection 32 (1), or
+
 (ii) there are reasonable grounds to believe that the inspector will be prevented from exercising a right of entry to the premises under section 31 or a power under subsection 32 (1).
 
 ### Dwellings
 
 (3) The power to enter a premises described in subsection (2) with a warrant shall not be exercised to enter a premises that is used as a dwelling, except where,
+
 (a) the justice is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice authorizes the entry into the dwelling.
 
 ### Expert help
@@ -463,6 +565,7 @@ S.O. 2019, c. 7, Sched. 9
 ### Definition
 
 (9) In this section,
+
 “justice” means a provincial judge or a justice of the peace.
 
 ### Inspection report
@@ -478,8 +581,11 @@ S.O. 2019, c. 7, Sched. 9
 ### Compliance order
 
 36 (1) If the Commissioner or an inspector believes on reasonable grounds that a person is not in compliance with a provision of this Act or the regulations, the Commissioner or inspector may make a compliance order,
+
 (a) ordering the person to comply with the provision;
+
 (b) ordering the person to do or refrain from doing anything specified in the order; and
+
 (c) specifying dates by which the person is required to do or refrain from doing the things specified.
 
 ### Content of order
@@ -505,14 +611,19 @@ S.O. 2019, c. 7, Sched. 9
 ### Purpose of administrative penalty
 
 (2) A notice of administrative penalty may be issued under this section for the purpose of,
+
 (a) encouraging compliance with this Act and the regulations; or
+
 (b) preventing a person from deriving, directly or indirectly, any economic benefit as a result of a contravention of this Act or the regulations.
 
 ### Amount of administrative penalty
 
 (3) Subject to subsection (4), the amount of an administrative penalty in respect of a contravention,
+
 (a) shall not exceed $10,000, except as otherwise prescribed;
+
 (b) shall be determined by the Commissioner in accordance with the regulations; and
+
 (c) shall reflect the purpose referred to in subsection (2).
 
 ### One-year limitation
@@ -522,14 +633,19 @@ S.O. 2019, c. 7, Sched. 9
 ### Content of notice of administrative penalty
 
 (5) A notice of administrative penalty shall,
+
 (a) contain or be accompanied by information setting out the nature of the contravention including, if relevant, the date on which and location where the contravention occurred;
+
 (b) set out the amount of the penalty to be paid and specify the time and manner of the payment; and
+
 (c) inform the person of his, her or its right to request a review of the notice by a designated senior employee.
 
 ### Right to review
 
 (6) A person who receives a notice of administrative penalty may request a designated senior employee to review the notice by applying to the designated senior employee for a review in a form approved by the Minister,
+
 (a) within 15 days after the notice is served; or
+
 (b) within a longer period specified by the designated senior employee, if he or she considers it appropriate in the circumstances to extend the time for applying.
 
 ### If no review requested
@@ -543,8 +659,11 @@ S.O. 2019, c. 7, Sched. 9
 ### Designated senior employee’s decision
 
 (9) Upon a review, the designated senior employee may,
+
 (a) find that the person did not contravene the provision of this Act or regulations specified in the notice of administrative penalty, and rescind the notice;
+
 (b) find that the person did contravene the provision of this Act or regulations specified in the notice of administrative penalty and affirm the notice; or
+
 (c) find that the person did contravene the provision but that the penalty is excessive in the circumstances or is, by its magnitude, punitive in nature having regard to all the circumstances, and in that case the employee shall amend the notice by reducing the amount of the penalty.
 
 ### Decision final
@@ -596,7 +715,9 @@ S.O. 2019, c. 7, Sched. 9
 ### Penalties
 
 (3) A person that is convicted of an offence under this Act is liable to,
+
 (a) a fine of not more than $10,000 or to imprisonment for a term of not more than two years, or both, if the person is an individual; or
+
 (b) a fine of not more than $100,000, if the person is not an individual.
 
 ### Penalty re monetary benefit
@@ -610,7 +731,9 @@ S.O. 2019, c. 7, Sched. 9
 ### Special deeming rules re Criminal Code (Canada)
 
 43 For the purposes of paragraph 83 (2) (c) of the Criminal Code (Canada),
+
 (a) an event permit for an amateur combative sport contest or exhibition issued under section 18 is deemed to be permission to hold the contest or exhibition by the Lieutenant Governor in Council; and
+
 (b) an amateur combative sport contest or exhibition that satisfies any of the criteria set out in section 19 is deemed to be held with the permission of the Lieutenant Governor in Council.
 
 ### Protection from personal liability
@@ -632,13 +755,21 @@ S.O. 2019, c. 7, Sched. 9
 ### Confidentiality
 
 46 (1) A person who obtains information in the course of exercising a power or carrying out a duty related to the administration of this Act or the regulations shall preserve secrecy with respect to the information and shall not communicate the information to any person except,
+
 (a) as may be required in connection with a proceeding under this Act or in connection with the administration of this Act or the regulations;
+
 (b) to a ministry, department or agency of a government engaged in the administration of legislation similar to this Act or to any other entity to which the administration of legislation similar to this Act has been assigned;
+
 (c) as authorized under the Regulatory Modernization Act, 2007;
+
 (d) to an entity or organization prescribed by the regulations, if the purpose of the communication is to assist in the supervision of a professional combative sport contest or exhibition;
+
 (e) to a law enforcement agency;
+
 (f) to his, her or its counsel;
+
 (g) as required by law; or
+
 (h) with the consent of the person to whom the information relates.
 
 ### Testimony
@@ -666,10 +797,15 @@ S.O. 2019, c. 7, Sched. 9
 ### Regulations — Minister
 
 49 (1) The Minister may make regulations,
+
 (a) setting out sports as combative sports for the purposes of subsection 1 (3);
+
 (b) governing the conduct of an amateur combative sport contest or exhibition and the conduct of a professional combative sport contest or exhibition, including prescribing rules relating to such contests and exhibitions;
+
 (c) governing fees and eligible expenses under subsection 18 (4), including,
+
 (i) prescribing the amount of fees and expenses or the manner of determining fees and expenses, and
+
 (ii) prescribing the manner in which and the period within which fees and expenses must be paid.
 
 ### Restriction on Minister’s regulations
@@ -691,17 +827,29 @@ S.O. 2019, c. 7, Sched. 9
 ### Regulations — Lieutenant Governor in Council
 
 50 (1) The Lieutenant Governor in Council may make regulations providing for any matters which, in the opinion of the Lieutenant Governor in Council, are necessary or advisable for the purposes of this Act, including,
+
 (a) governing licences and event permits required under this Act;
+
 (b) prescribing or otherwise providing for anything required or permitted under this Act, except anything referred to in subsection 49 (1), to be prescribed or otherwise provided for in the regulations, including governing anything required or permitted to be done in accordance with the regulations;
+
 (c) defining “professional combative sport contest or exhibition” and “amateur combative sport contest or exhibition” for the purposes of subsection 1 (1), including prescribing criteria for determining whether a person is a professional contestant or an amateur contestant in a particular combative sport;
+
 (d) governing fees under this Act, other than for the purposes of subsection 18 (4), including,
+
 (i) requiring the payment of fees in relation to any matter under this Act, including any services provided by or through the Ministry or the Commissioner,
+
 (ii) prescribing the amount of fees or the manner of determining fees, and
+
 (iii) prescribing the manner in which and the period within which fees must be paid;
+
 (e) requiring licensees to have written contracts and prescribing the terms and conditions that must be included in the contracts;
+
 (f) governing administrative penalties and all matters necessary and incidental to the administration of a system of administrative penalties under this Act;
+
 (g) governing inspections conducted under this Act;
+
 (h) defining any term that is used in this Act and that is not defined in this Act;
+
 (i) governing transitional matters that may arise due to the enactment of this Act or the repeal of the Athletics Control Act.
 
 ### Classes of persons, etc.
@@ -711,7 +859,9 @@ S.O. 2019, c. 7, Sched. 9
 ### Regulation may set out different requirements
 
 (3) A regulation made under subsection (1) may establish,
+
 (a) different requirements that apply to an amateur combative sport contest or exhibition and that apply to a professional combative sport contest or exhibition; and
+
 (b) different requirements for different combative sports.
 
 ### Exemptions, etc.
@@ -721,6 +871,9 @@ S.O. 2019, c. 7, Sched. 9
 ### Rolling incorporation by reference
 
 50.1 A regulation made under section 49 or 50 that incorporates another document by reference may provide that the reference to the document includes amendments made to the document from time to time after the regulation is made.
+
 51, 52 Omitted (amends, repeals or revokes other legislation).
+
 53 Omitted (provides for coming into force of provisions of this Act).
+
 54 Omitted (enacts short title of this Act).

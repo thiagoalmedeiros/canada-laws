@@ -6,23 +6,28 @@ language: fr
 type: regulation
 document_date: "2018-02-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/regulation/180006"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario regulations, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # DISPOSITIONS GÉNÉRALES
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/regulation/180006) before relying on it.
 
 Règl. de l'Ont. 6/18
 
 ### Renseignements relatifs aux cliniques
 
 1 À titre indicatif :
+
 a) les noms et emplacements des cliniques en Ontario sont énoncés au tableau 1;
+
 b) la zone d’accès créée aux termes de l’article 6 de la Loi pour chaque clinique est l’unité foncière sur laquelle est située la clinique et l’aire entourant l’unité, comme elle est décrite au tableau 1, sous réserve du paragraphe 6 (5) de la Loi;
+
 c) pour chaque unité foncière visée à l’alinéa b) sur laquelle est située une clinique, le tableau 1 énonce la cote foncière de l’unité et le numéro du bureau d’enregistrement immobilier de la division d’enregistrement des droits immobiliers ou de la division d’enregistrement des actes dans laquelle est située l’unité.
+
 2 Omis (entrée en vigueur de dispositions du présent règlement).
+
 Tableau 1 Noms et emplacements des cliniques en Ontario
 
 | Point | Nom et adresse de la clinique | Municipalité | Étendue de la zone d’accès | Cote foncière et numéro du bureau d’enregistrement immobilier |

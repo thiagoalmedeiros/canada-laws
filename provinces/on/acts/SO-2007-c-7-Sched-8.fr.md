@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2023-06-08"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07e07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # éducatrices et les éducateurs de la petite enfance (Loi de 2007 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07e07) before relying on it.
 
 L.O. 2007, chap. 7, annexe 8
 
@@ -21,34 +21,63 @@ L.O. 2007, chap. 7, annexe 8
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «acte interdit impliquant de la pornographie juvénile» S’entend de tout acte interdit par l’article 163.1 du Code criminel (Canada). («prohibited act involving child pornography»)
+
 «acte sexuel prescrit» S’entend d’un acte d’ordre sexuel qui est interdit en application du Code criminel (Canada) et est prescrit par un règlement pris en vertu de l’alinéa 45 (1) c.2) de la présente loi; («prescribed sexual act»)
+
 «conseil» Le conseil de l’Ordre créé conformément à l’article 8. («Council»)
+
 «enfant» Personne âgée de moins de 18 ans. («child»)
+
 «faute professionnelle» S’entend :
+
 a) des mauvais traitements d’ordre sexuel infligés à un enfant;
+
 b) de l’inconduite sexuelle;
+
 c) de la commission d’actes interdits impliquant de la pornographie juvénile;
+
 c.1) de la commission d’un acte sexuel prescrit;
+
 d) d’une conduite qui contrevient à la présente loi, aux règlements ou aux règlements administratifs;
+
 e) d’une conduite qui contrevient à un ordre ou une ordonnance du comité de discipline, du comité des plaintes, du conseil ou du registrateur;
+
 f) de tout autre acte ou de toute autre conduite prescrit par les règlements. («professional misconduct»)
+
 «inconduite sexuelle» Comportements ou remarques inappropriés d’ordre sexuel de la part du membre, à l’exclusion des mauvais traitements d’ordre sexuel infligés à un enfant, qui présentent les caractéristiques suivantes :
+
 a) un ou plusieurs enfants y sont exposés ou le membre sait ou devrait savoir qu’ils le seront vraisemblablement;
+
 b) une personne raisonnable s’attendrait à ce qu’ils aient pour effet :
+
 (i) soit de causer de la détresse à un enfant qui y est exposé,
+
 (ii) soit de nuire au bien-être physique ou mental d’un enfant,
+
 (iii) soit de créer un climat négatif pour un enfant qui y est exposé. («sexual misconduct»)
+
 «mauvais traitements d’ordre sexuel» Dans le cas de tels traitements infligés à un enfant par un membre, s’entend, selon le cas :
+
 a) des rapports sexuels ou autres formes de rapports physiques d’ordre sexuel entre le membre et l’enfant;
+
 b) des attouchements d’ordre sexuel de l’enfant par le membre;
+
 c) des comportements ou des remarques d’ordre sexuel du membre à l’endroit de l’enfant. («sexual abuse»)
+
 «ministre» Le ministre de l’Éducation ou l’autre membre du Conseil exécutif chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «Ordre» L’Ordre des éducatrices et des éducateurs de la petite enfance créé en application de l’article 6. («College»)
+
 «processus de règlement des plaintes» Processus qui inclut la médiation, la conciliation, la négociation ou tout autre moyen facilitant le règlement des questions en litige. («complaint resolution process»)
+
 «professionnel de la santé» Membre d’une profession de la santé au sens de la Loi de 1991 sur les professions de la santé réglementées. («health professional»)
+
 «règlements» Les règlements pris en application de la présente loi. («regulations»)
+
 «règlements administratifs» Les règlements administratifs pris en application de la présente loi. («by-laws»)
+
 «renseignements personnels sur la santé» S’entend au sens de la Loi de 2004 sur la protection des renseignements personnels sur la santé. («personal health information») 2007, chap. 7, annexe 8, art. 1
 
 ### Idem : moyens électroniques
@@ -58,16 +87,23 @@ c) des comportements ou des remarques d’ordre sexuel du membre à l’endroit 
 ### Exception
 
 (3) La définition qui suit s’applique dans le cadre des alinéas a), b) et c) de la définition de «mauvais traitements d’ordre sexuel» au paragraphe (1).
+
 «d’ordre sexuel» Ne comprend pas :
+
 a) les attouchements ou les comportements qui sont nécessaires pour le changement de couches, la toilette, le lavage ou l’habillage d’un enfant dans le cadre des responsabilités professionnelles d’une éducatrice ou d’un éducateur de la petite enfance;
+
 b) les remarques qui sont appropriées dans un cadre pédagogique.
 
 ### Exercice de la profession d’éducateur de la petite enfance
 
 2 L’exercice de la profession d’éducateur de la petite enfance consiste à mettre en place et à fournir aux enfants des programmes intégrateurs d’apprentissage et de garde axés sur le jeu afin de promouvoir leur bien-être et leur développement global. Il comprend notamment ce qui suit :
+
 a) la prestation de programmes aux enfants de 12 ans ou moins;
+
 b) l’évaluation des programmes et des progrès réalisés par les enfants qui participent à ces programmes;
+
 c) la communication avec les parents ou les personnes qui ont la garde légitime des enfants qui participent à ces programmes en vue d’améliorer le développement de ces derniers;
+
 d) les autres services ou activités que prescrivent les règlements.
 
 ## PARTIE II interdictionS
@@ -79,13 +115,21 @@ d) les autres services ou activités que prescrivent les règlements.
 ### Application
 
 (2) Le paragraphe (1) ne s’applique pas aux personnes suivantes :
+
 1. La personne employée comme enseignant ou aide-enseignant dans un établissement qui est une école au sens du paragraphe 1 (1) de la Loi sur l’éducation.
+
 1.1 La personne qu’un conseil, au sens du paragraphe 1 (1) de la Loi sur l’éducation, nomme en vertu d’une permission intérimaire à un poste qu’il a désigné comme exigeant un éducateur de la petite enfance.
+
 2. La personne qui est employée dans un centre de garde ou par une agence de services de garde en milieu familial, la personne qui fournit des services de garde en milieu familial ou des services à domicile ou toute autre personne prescrite pour l’application de la Loi de 2014 sur la garde d’enfants et la petite enfance si, conformément à cette loi et à ses règlements, elle n’est pas tenue :
+
 i. soit d’être titulaire d’un certificat d’inscription,
+
 ii. soit de satisfaire aux exigences prescrites par les règlements pris en vertu de la présente loi pour obtenir un certificat.
+
 3. La personne qui, conformément au paragraphe 6 (3) ou (4) de la Loi de 2014 sur la garde d’enfants et la petite enfance, n’est pas tenue d’être titulaire d’un permis l’autorisant à exploiter un centre de garde et qui fournit des services de garde dans les circonstances prévues à la disposition 2 ou 3 du paragraphe 6 (3) de cette loi, ou, s’il y a lieu, au paragraphe 6 (4) de cette loi.
+
 4.-6. Abrogées : 2014, chap. 11, annexe 3, par. 3 (5).
+
 7. Toute autre personne ou catégorie de personnes prescrite par un règlement pris en application du paragraphe 45 (1).
 
 ### Idem
@@ -127,15 +171,25 @@ ii. soit de satisfaire aux exigences prescrites par les règlements pris en vert
 ### Objets
 
 (2) Les objets de l’Ordre sont les suivants :
+
 1. Réglementer l’exercice de la profession d’éducateur de la petite enfance et régir ses membres.
+
 2. Élaborer, établir et maintenir des normes d’admissibilité à l’Ordre.
+
 3. Agréer les programmes d’éducation de la petite enfance offerts par les établissements d’enseignement postsecondaire et d’autres organismes.
+
 3.1 Prévoir la formation permanente des membres de l’Ordre et agréer les programmes d’éducation permanente.
+
 4. Délivrer, renouveler, modifier, suspendre, annuler, révoquer et remettre en vigueur des certificats d’inscription.
+
 5. Mettre en place un mécanisme d’appel des décisions en matière d’inscription.
+
 6. Établir et faire respecter des normes professionnelles et des normes de déontologie qui sont applicables aux membres et qui démontrent un respect de la diversité et sont sensibles à l’aspect multiculturel de la province.
+
 7. Recevoir les plaintes déposées contre les membres, faire enquête sur ces plaintes et traiter des questions de discipline, de faute professionnelle, d’incompétence et d’incapacité.
+
 8. Promouvoir des normes élevées et des programmes d’assurance de la qualité en ce qui concerne les éducateurs de la petite enfance et communiquer avec le public au nom des membres.
+
 9. S’acquitter des autres fonctions prescrites par un règlement pris en application du paragraphe 45 (1).
 
 ### Conseil : rôle du registrateur, rémunération
@@ -147,7 +201,9 @@ ii. soit de satisfaire aux exigences prescrites par les règlements pris en vert
 ### Composition du conseil
 
 (2) Le conseil se compose des personnes suivantes :
+
 a) 14 éducateurs de la petite enfance qui sont membres de l’Ordre et qui sont élus par les membres conformément aux règlements administratifs pour représenter les régions géographiques de la province que précisent les règlements;
+
 b) 10 personnes qui ne sont pas membres de l’Ordre et qui sont nommées par le lieutenant-gouverneur en conseil pour représenter les secteurs de la société ontarienne prescrits par un règlement pris en application du paragraphe 45 (1).
 
 ### Rôle du registrateur
@@ -173,7 +229,9 @@ b) 10 personnes qui ne sont pas membres de l’Ordre et qui sont nommées par le
 ### Membre en règle
 
 (2) Pour l’application du présent article, un membre de l’Ordre est en règle s’il remplit les conditions suivantes :
+
 a) il n’est pas en défaut de paiement des droits prescrits par les règlements administratifs;
+
 b) son certificat d’inscription n’est pas suspendu.
 
 ### Quorum
@@ -191,10 +249,15 @@ b) son certificat d’inscription n’est pas suspendu.
 ### Exceptions
 
 (2) Le conseil peut exclure le public, y compris les membres de l’Ordre, d’une réunion ou d’une partie de réunion s’il est convaincu que, selon le cas :
+
 a) risquent d’être divulguées des questions financières, personnelles ou autres de nature telle qu’il vaut mieux éviter leur divulgation dans l’intérêt de toute personne concernée ou dans l’intérêt public qu’adhérer au principe selon lequel les réunions doivent être publiques;
+
 b) une personne engagée dans une instance civile ou criminelle pourrait être lésée;
+
 c) la sécurité de quiconque risque d’être compromise;
+
 d) des questions de personnel ou des opérations portant sur des biens feront l’objet de discussions;
+
 e) des litiges impliquant l’Ordre feront l’objet de discussions, des instructions seront données aux procureurs représentant l’Ordre ou des avis seront reçus de ces derniers.
 
 ### Idem
@@ -228,8 +291,11 @@ e) des litiges impliquant l’Ordre feront l’objet de discussions, des instruc
 ### Pouvoirs et fonctions du ministre
 
 16 (1) Le ministre peut :
+
 a) examiner les activités du conseil et exiger de ce dernier qu’il fournisse des rapports et des renseignements;
+
 b) exiger du conseil qu’il fasse tout ce que le ministre croit nécessaire ou souhaitable pour réaliser les objets de l’Ordre;
+
 c) exiger du conseil qu’il prenne, modifie ou abroge un règlement en vertu de l’article 43.
 
 ### Obligation du conseil
@@ -263,18 +329,27 @@ c) exiger du conseil qu’il prenne, modifie ou abroge un règlement en vertu de
 ### Comités du conseil
 
 19 (1) Le conseil crée les comités suivants :
+
 1. Le bureau.
+
 2. Le comité d’appel des inscriptions.
+
 3. Le comité des plaintes.
+
 4. Le comité de discipline.
+
 5. Le comité d’aptitude professionnelle.
 
 ### Idem
 
 (2) Lorsqu’il nomme des personnes aux comités mentionnés au paragraphe (1), le conseil veille à ce qui suit :
+
 a) chaque comité comprend au moins un membre qui est un membre élu du conseil visé à l’alinéa 8 (2) a);
+
 b) au moins un tiers des membres de chaque comité sont des membres nommés du conseil visés à l’alinéa 8 (2) b);
+
 c) quiconque est membre du comité des plaintes n’est aussi membre du comité de discipline ou du comité d’aptitude professionnelle;
+
 d) les nominations sont faites conformément aux règlements administratifs.
 
 ### Président
@@ -288,9 +363,13 @@ d) les nominations sont faites conformément aux règlements administratifs.
 ### Idem
 
 (5) La composition de chaque sous-comité constitué en vertu du paragraphe (4) est conforme aux règles suivantes :
+
 1. Le sous-comité se compose d’au moins trois personnes.
+
 2. La majorité des membres du sous-comité sont membres du comité.
+
 3. Le sous-comité comprend au moins un membre du comité qui a été élu au conseil en application de l’alinéa 8 (2) a) et au moins un autre qui y a été nommé en application de l’alinéa 8 (2) b).
+
 4. Tout membre du sous-comité qui n’est pas membre du comité doit être inscrit au tableau des membres suppléants du comité dressé en application du paragraphe (5.1).
 
 ### Tableau des membres suppléants
@@ -340,14 +419,19 @@ d) les nominations sont faites conformément aux règlements administratifs.
 ### Approbation d’une demande d’inscription
 
 25 (1) Le registrateur délivre un certificat d’inscription à l’auteur d’une demande qui remplit les conditions suivantes :
+
 a) il présente sa demande conformément aux règlements et aux règlements administratifs;
+
 b) il satisfait aux autres exigences d’inscription que prescrivent les règlements;
+
 c) il acquitte les droits qu’exigent les règlements administratifs.
 
 ### Motifs de refus
 
 (2) Le registrateur peut refuser de délivrer un certificat d’inscription s’il a des motifs raisonnables de croire :
+
 a) soit que la conduite ou les actes antérieurs de l’auteur de la demande offrent des motifs de croire qu’il ne s’acquittera pas de ses fonctions d’éducateur de la petite enfance conformément à la loi, notamment la présente loi, les règlements et les règlements administratifs;
+
 b) soit que l’auteur de la demande ne satisfait pas aux exigences fixées en application de la présente loi pour la délivrance du certificat.
 
 ### Idem
@@ -373,8 +457,11 @@ b) soit que l’auteur de la demande ne satisfait pas aux exigences fixées en a
 ### Avis d’intention de refuser un certificat
 
 27 (1) Le registrateur signifie d’abord un avis de son intention, accompagné des motifs écrits, à l’auteur de la demande s’il a l’intention de faire une des choses suivantes :
+
 1. Refuser de délivrer un certificat d’inscription.
+
 2. Assortir de conditions ou de restrictions auxquelles n’a pas consenti l’auteur de la demande un certificat d’inscription qui doit être délivré.
+
 3. Abrogée : 2016, chap. 24, annexe 1, par. 4 (1).
 
 ### Exception
@@ -428,9 +515,13 @@ b) soit que l’auteur de la demande ne satisfait pas aux exigences fixées en a
 ### Ordonnance
 
 (7) Après étude de la demande d’examen, des observations et de tout document qu’il estime pertinent, le comité peut, par ordonnance :
+
 1. Enjoindre au registrateur de délivrer le certificat d’inscription.
+
 2. Enjoindre au registrateur de délivrer le certificat d’inscription et de l’assortir des conditions ou des restrictions précisées.
+
 3. Enjoindre au registrateur de modifier ou de supprimer les conditions ou restrictions figurant dans son avis d’intention que le comité précise.
+
 4. Enjoindre au registrateur de refuser de délivrer un certificat d’inscription.
 
 ### Idem
@@ -448,13 +539,17 @@ b) soit que l’auteur de la demande ne satisfait pas aux exigences fixées en a
 ### Idem
 
 (2) La demande doit remplir les conditions suivantes :
+
 a) elle est présentée par écrit;
+
 b) elle est accompagnée des droits prescrits à cette fin par les règlements administratifs.
 
 ### Restrictions
 
 (3) Le droit de présenter une demande en vertu du paragraphe (1) est assujetti :
+
 a) d’une part, à toute restriction imposée par le registrateur ou le comité d’appel des inscriptions en vertu de l’article 25, 27 ou 28;
+
 b) d’autre part, à toute restriction imposée en vertu du paragraphe (8) lorsqu’il est statué sur une demande antérieure présentée en vertu du présent article.
 
 ### Observations
@@ -472,8 +567,11 @@ b) d’autre part, à toute restriction imposée en vertu du paragraphe (8) lors
 ### Ordonnances
 
 (7) Après étude de la demande, des observations et de tout document qu’il estime pertinent, le comité d’appel des inscriptions peut, par ordonnance :
+
 1. Refuser la demande.
+
 2. Enjoindre au registrateur de supprimer toute condition ou restriction dont est assorti le certificat d’inscription.
+
 3. Enjoindre au registrateur d’assortir de conditions ou de restrictions précisées le certificat d’inscription.
 
 ### Restrictions relatives aux demandes
@@ -495,17 +593,29 @@ b) d’autre part, à toute restriction imposée en vertu du paragraphe (8) lors
 ### Contenu du tableau
 
 (2) Le tableau contient ce qui suit :
+
 a) le nom de chaque membre et, s’il y a lieu, la catégorie de certificat d’inscription dont il est titulaire et toute qualification additionnelle inscrite sur ce certificat ou tout certificat de qualifications additionnelles dont il est titulaire;
+
 b) les conditions et les restrictions dont est assorti chaque certificat d’inscription, y compris celles qui découlent d’un engagement écrit ou d’une autre entente entre l’Ordre et le membre;
+
 b.1) toute restriction au droit d’exercer du membre qui est imposée par une ordonnance d’un tribunal ou d’une autre autorité légalement compétente, y compris le nom et l’emplacement du tribunal ou de l’autorité et la date à laquelle l’ordonnance a été rendue;
+
 b.2) l’indication de toute question renvoyée au comité de discipline dans le cadre de l’article 31, 32 ou 36;
+
 b.3) pour chaque audience du comité de discipline, un avis d’audience et un avis de la date et de l’heure de l’audience, accompagné d’un lien vers les avis tels qu’ils ont été publiés sur le site Web de l’Ordre;
+
 b.4) si un règlement adopté par le comité des plaintes en vertu de l’article 31.1 prévoit l’inscription d’une indication au tableau, l’indication du règlement et, si le règlement prévoit la publication du règlement ou d’un résumé ou d’une partie de celui-ci sur le site Web de l’Ordre, un lien vers cette publication;
+
 b.5) l’indication de chaque décision prise par le comité de discipline à la suite d’une instance, accompagnée d’un lien vers la décision telle qu’elle a été publiée sur le site Web de l’Ordre;
+
 b.6) l’indication de chaque règlement adopté par le comité de discipline en vertu de l’article 33.1, accompagnée d’un lien vers le règlement tel qu’il a été publié sur le site Web de l’Ordre;
+
 c) l’indication de chaque révocation, annulation et suspension du certificat d’inscription d’un membre;
+
 d) les renseignements qu’ordonne d’y consigner un comité qui est exigé par le paragraphe 19 (1) ou créé en vertu de l’article 20;
+
 d.1) sous réserve des règlements, des renseignements à l’égard de toute instance criminelle en cours ou antérieure qui met en cause un membre et qui se rapporte à son adhésion, y compris les engagements pris par le membre dans le cadre de l’instance;
+
 e) tout autre renseignement que les règlements administratifs prescrivent comme devant y figurer.
 
 ### Renseignements personnels
@@ -515,13 +625,17 @@ e) tout autre renseignement que les règlements administratifs prescrivent comme
 ### Renseignements personnels sur la santé
 
 (2.1.1) Le registrateur ne doit pas inscrire au tableau, divulguer à un particulier, ni publier sur le site Web de l’Ordre ou dans toute autre publication, plus de renseignements personnels sur la santé d’un membre que nécessaire pour servir et protéger l’intérêt public.
+
 (2.1.2) Abrogé : 2018, chap. 8, annexe 8, art. 2.
 
 ### Suppression de renseignements déterminés
 
 (2.2) Le registrateur supprime du tableau en temps opportun :
+
 a) toute condition ou restriction dont est assorti un certificat d’inscription, visée à l’alinéa (2) b), qui n’est plus applicable autre que les conditions ou restrictions imposées par une décision rendue ou un règlement adopté par le comité de discipline;
+
 b) toute restriction au droit d’exercer du membre, visée à l’alinéa (2) b.1), qui n’est plus applicable;
+
 c) les renseignements à l’égard de toute instance criminelle en cours ou antérieure visée à l’alinéa (2) d.1) qui n’est plus applicable à l’adhésion du membre ou qui ne s’y rapporte plus, selon ce que prévoient les règlements.
 
 ### Date et heure d’une audience
@@ -535,7 +649,9 @@ c) les renseignements à l’égard de toute instance criminelle en cours ou ant
 ### Idem
 
 (2.5) Le conseil peut, par règlement administratif, autoriser la suppression des renseignements indiqués aux alinéas (2) b.2), b.3), b.4), b.5) et b.6), mais il peut uniquement le faire conformément à ce qui suit :
+
 1. Les renseignements ne doivent pas être une indication d’une décision rendue ou d’un règlement adopté par le comité de discipline qui a entraîné une réprimande, une admonestation, des conseils, une amende ou l’assujettissement d’un certificat d’inscription à une condition ou restriction, ou un lien vers la décision ou le règlement.
+
 2. Les renseignements ne doivent pas se rapporter à une question ayant donné lieu à une ordonnance de révocation ou de suspension d’un certificat.
 
 ### Aucune publication de renseignements déterminés
@@ -553,7 +669,9 @@ c) les renseignements à l’égard de toute instance criminelle en cours ou ant
 ### Suspension : défaut de paiement de droits, défaut de fournir des renseignements
 
 30 (1) Le registrateur peut suspendre le certificat d’inscription d’un membre de l’Ordre pour l’un ou l’autre des motifs suivants :
+
 a) défaut de paiement de droits ou de pénalités prescrits par les règlements administratifs;
+
 b) défaut de fournir des renseignements exigés par les règlements administratifs.
 
 ### Idem
@@ -573,15 +691,21 @@ b) défaut de fournir des renseignements exigés par les règlements administrat
 ### Fonctions du comité des plaintes
 
 31 (1) Le comité des plaintes étudie les plaintes se rapportant à la conduite ou aux actes des membres de l’Ordre, notamment une plainte déposée par l’une ou l’autre des personnes suivantes, et fait enquête sur elles :
+
 a) un membre du public;
+
 b) un membre de l’Ordre;
+
 c) le registrateur;
+
 d) le ministre.
 
 ### Idem
 
 (1.1) Dès que raisonnablement possible après avoir reçu une plainte, le registrateur :
+
 a) confirme au plaignant qu’il l’a bien reçue;
+
 b) avise le membre qu’une plainte relative à ses actes a été déposée et lui en fournit une copie ou, s’il le juge approprié dans les circonstances, un résumé.
 
 ### Idem
@@ -603,24 +727,35 @@ b) avise le membre qu’une plainte relative à ses actes a été déposée et l
 ### Idem
 
 (2) Malgré les paragraphes (1) et (1.2.2), le comité des plaintes refuse d’étudier une plainte et de faire enquête sur elle s’il est d’avis que, selon le cas :
+
 a) la plainte ne porte pas sur une faute professionnelle de la part d’un membre de l’Ordre ou sur l’incompétence ou l’incapacité d’un tel membre;
+
 b) la plainte est frivole ou vexatoire, constitue un abus de procédure, est manifestement dénuée de fondement ou est déposée dans un but illégitime;
+
 c) la plainte ne nécessite pas d’examen plus poussé ou il n’est pas dans l’intérêt public de poursuivre l’enquête, et cette décision a été prise conformément aux règlements.
 
 ### Idem
 
 (3) Le comité des plaintes ne doit prendre aucune des mesures prévues au paragraphe (5) à moins que les conditions suivantes ne soient réunies :
+
 a) une plainte a été déposée auprès du registrateur par écrit ou sous une autre forme permettant sa reproduction, tel qu’un disque ou une bande;
+
 b) le membre dont la conduite ou les actes font l’objet de l’enquête a bénéficié de 60 jours ou du délai différent précisé, le cas échéant, en vertu du paragraphe (4) pour présenter par écrit au comité des explications ou des observations sur la question;
+
 c) le comité a examiné ou fait tous les efforts raisonnables pour examiner les renseignements et documents pertinents en la possession de l’Ordre, notamment :
+
 (i) toute décision antérieure d’un comité créé aux termes de la présente loi qui se rapporte au membre,
+
 (ii) tout renseignement concernant des instances concomitantes introduites devant un comité créé aux termes de la présente loi ou obtenu dans le cadre de telles instances et qui se rapporte au membre,
+
 (iii) tout règlement adopté par un comité créé aux termes de la présente loi qui a été atteint au moyen d’un processus de règlement des plaintes et qui se rapporte au membre.
 
 ### Idem
 
 (4) Le comité des plaintes peut préciser un délai différent pour l’application de l’alinéa (3) b) conformément à ce qui suit :
+
 1. Le comité peut préciser un délai de moins de 60 jours s’il est d’avis, en se fondant sur des motifs raisonnables et probables, que la conduite du membre expose ou exposera vraisemblablement un ou plusieurs enfants à un préjudice ou à des blessures.
+
 2. Le comité peut préciser un délai de plus de 60 jours conformément aux règlements.
 
 ### Idem
@@ -650,26 +785,35 @@ c) le comité a examiné ou fait tous les efforts raisonnables pour examiner les
 ### Motifs de croire que le membre est frappé d’incapacité
 
 (4.7) Si, au terme de ses enquêtes, le comité des plaintes a des motifs raisonnables et probables de croire que le membre est frappé d’incapacité, il peut :
+
 a) d’une part, exiger de lui qu’il subisse des examens physiques ou mentaux pratiqués ou ordonnés par un professionnel de la santé que précise le comité;
+
 b) d’autre part, rendre une ordonnance, sous réserve du paragraphe (4.10), enjoignant au registrateur de suspendre le certificat d’inscription du membre jusqu’à ce qu’il ait subi ces examens.
 
 ### Rapport
 
 (4.8) Le professionnel de la santé qui pratique l’examen d’un membre exigé en application de l’alinéa (4.7) a) fournit au comité des plaintes, à l’issue de l’examen, un rapport contenant ce qui suit :
+
 a) une évaluation indiquant si le membre est ou a été frappé d’incapacité;
+
 b) une évaluation de l’importance de toute incapacité et des chances de rétablissement;
+
 c) les autres considérations d’ordre physique ou mental qui se rapportent à la question dont est saisi le comité.
 
 ### Copies du rapport
 
 (4.9) Le comité des plaintes remet une copie de tout rapport visé au paragraphe (4.8) au membre et peut en remettre une copie aux entités suivantes :
+
 a) le bureau, aux fins d’établir si une ordonnance provisoire devrait être rendue en vertu du paragraphe 32 (3) ou 32.2 (1);
+
 b) le comité d’aptitude professionnelle, si la question est renvoyée à ce comité en vertu de l’alinéa (5) a).
 
 ### Ordonnance de suspension
 
 (4.10) Aucune ordonnance ne peut être rendue en vertu de l’alinéa (4.7) b) sans que le membre :
+
 a) ait été avisé de l’intention du comité des plaintes de rendre l’ordonnance;
+
 b) ait bénéficié au moins du délai prescrit pour présenter des observations par écrit à l’égard de l’ordonnance au comité des plaintes.
 
 ### Idem
@@ -679,12 +823,19 @@ b) ait bénéficié au moins du délai prescrit pour présenter des observations
 ### Idem
 
 (5) À la lumière des renseignements qu’il reçoit, le comité des plaintes, selon le cas :
+
 a) ordonne que la question soit renvoyée, en tout ou en partie, au comité de discipline ou au comité d’aptitude professionnelle;
+
 b) ordonne que la question ne soit pas renvoyée en application de l’alinéa a);
+
 c) exige de la personne qui fait l’objet de la plainte qu’elle se présente devant lui pour recevoir un avertissement ou une admonestation;
+
 d) Abrogé : 2014, chap. 11, annexe 3, par. 12 (6).
+
 e) prend les mesures qu’il juge appropriées dans les circonstances et qui ne sont pas incompatibles avec la présente loi, les règlements ou les règlements administratifs, notamment :
+
 (i) donner un avertissement, un rappel, un avis ou une admonestation à la personne qui fait l’objet de la plainte,
+
 (ii) exiger que le membre termine un programme d’éducation permanente ou de recyclage précisé.
 
 ### Décision et motifs
@@ -710,8 +861,11 @@ e) prend les mesures qu’il juge appropriées dans les circonstances et qui ne 
 ### Processus de règlement des plaintes
 
 31.1 (1) Le registrateur peut renvoyer l’Ordre et le membre qui fait l’objet d’une plainte à un processus de règlement des plaintes auquel l’Ordre et le membre ont consenti si les conditions suivantes sont réunies :
+
 a) il décide, sur la foi de motifs raisonnables et probables et conformément aux règlements, qu’à l’issue de la plainte, si elle s’avérait fondée, le membre recevrait vraisemblablement un avertissement, un rappel, un avis ou une admonestation du comité des plaintes en vertu de l’alinéa 31 (5) c) ou e);
+
 b) le comité des plaintes n’a pas encore pris de mesure dans le cadre du paragraphe 31 (5);
+
 c) la question ne porte pas sur une allégation de mauvais traitements d’ordre sexuel infligés à un enfant, d’inconduite sexuelle, d’acte interdit impliquant de la pornographie juvénile ou d’acte sexuel prescrit.
 
 ### Idem
@@ -721,21 +875,29 @@ c) la question ne porte pas sur une allégation de mauvais traitements d’ordre
 ### Idem
 
 (3) Avant qu’un règlement qui sera proposé au comité des plaintes en application du paragraphe (4) soit atteint :
+
 a) le registrateur consulte ou fait des efforts raisonnables pour consulter le plaignant;
+
 b) si le plaignant n’est pas l’employeur du membre et qu’il le juge approprié dans les circonstances, le registrateur peut demander à l’employeur de lui fournir des renseignements concernant la plainte.
 
 ### Idem
 
 (4) S’ils parviennent à régler la question qui a été renvoyée au processus de règlement des plaintes en vertu du paragraphe (1), l’Ordre et le membre proposent le règlement au comité des plaintes qui peut, selon le cas :
+
 a) adopter le règlement proposé;
+
 b) modifier le règlement proposé;
+
 c) rejeter le règlement proposé.
 
 ### Idem
 
 (5) Avant de prendre une mesure en vertu du paragraphe (4), le comité des plaintes tient compte de ce qui suit :
+
 a) toute décision antérieure d’un comité créé aux termes de la présente loi qui se rapporte au membre;
+
 b) tout renseignement concernant des instances concomitantes introduites devant un comité créé aux termes de la présente loi ou obtenu dans le cadre de telles instances et qui se rapporte au membre;
+
 c) tout règlement adopté par un comité créé aux termes de la présente loi qui a été atteint au moyen d’un processus de règlement des plaintes et qui se rapporte au membre. 2014, chap. 11, annexe 3. art. 13
 
 ### Idem
@@ -745,7 +907,9 @@ c) tout règlement adopté par un comité créé aux termes de la présente loi 
 ### Idem
 
 (6) S’il modifie le règlement proposé, le comité des plaintes avise l’Ordre et le membre des modifications et :
+
 a) si l’Ordre et le membre approuvent les modifications, le règlement proposé est considéré comme adopté par le comité dans sa forme modifiée;
+
 b) si l’Ordre ou le membre n’approuve pas les modifications, le règlement proposé est considéré comme rejeté par le comité.
 
 ### Idem
@@ -783,7 +947,9 @@ b) si l’Ordre ou le membre n’approuve pas les modifications, le règlement p
 ### Processus de règlement des plaintes
 
 (2) Si le registrateur renvoie une question à un processus de règlement des plaintes en vertu du paragraphe 31.1 (1) :
+
 a) ce processus doit se dérouler dans les délais prescrits par les règlements;
+
 b) il ne doit pas être tenu compte, pour l’application du paragraphe (1), de la période qui commence le jour où la question est renvoyée au processus et qui se termine le jour où elle est renvoyée de nouveau au comité en application du paragraphe 31.1 (7) ou (8).
 
 ### Cas où il n’est pas statué sur la plainte
@@ -807,13 +973,17 @@ b) il ne doit pas être tenu compte, pour l’application du paragraphe (1), de 
 ### Suspension provisoire
 
 (3) Le conseil ou le bureau peut rendre une ordonnance provisoire enjoignant au registrateur de suspendre le certificat d’inscription d’un membre de l’Ordre ou d’assortir son certificat de conditions ou de restrictions si :
+
 a) d’une part, une allégation concernant le membre a été renvoyée au comité de discipline ou au comité d’aptitude professionnelle;
+
 b) d’autre part, le conseil ou le bureau croit que les actes ou la conduite du membre exposent ou exposeront vraisemblablement, directement ou indirectement, un enfant à un préjudice ou à des blessures.
 
 ### Restriction
 
 (4) Aucune ordonnance ne peut être rendue en vertu du paragraphe (3) à moins que le membre :
+
 a) d’une part, n’ait été avisé de l’intention du conseil ou du bureau de rendre l’ordonnance;
+
 b) d’autre part, n’ait bénéficié d’un délai d’au moins 14 jours pour présenter des observations par écrit au conseil ou au bureau.
 
 ### Idem
@@ -827,7 +997,9 @@ b) d’autre part, n’ait bénéficié d’un délai d’au moins 14 jours pour
 ### Procédure suivant l’ordonnance
 
 (7) Si une ordonnance est rendue en vertu du paragraphe (3) à l’égard d’une question renvoyée au comité de discipline ou au comité d’aptitude professionnelle :
+
 a) d’une part, le conseil ou le bureau veille à ce que le comité traite la question avec célérité;
+
 b) d’autre part, le comité donne priorité à la question.
 
 ### Effet de l’ordonnance
@@ -837,6 +1009,7 @@ b) d’autre part, le comité donne priorité à la question.
 ### Plainte : rapport sur un enfant ayant besoin de protection
 
 32.1 (1) Le présent article s’applique à l’égard d’une plainte si le registrateur a des motifs raisonnables de croire que le plaignant ou toute autre personne devait vraisemblablement faire un rapport en application de l’article 125 de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille relativement à la conduite ou aux actes du membre qui font l’objet de la plainte.
+
 (2) Abrogé : 2016, chap. 24, annexe 1, art. 10.
 
 ### Renvoi au bureau
@@ -850,13 +1023,17 @@ b) d’autre part, le comité donne priorité à la question.
 ### Suspension provisoire
 
 32.2 (1) Le conseil ou le bureau peut rendre une ordonnance provisoire enjoignant au registrateur de suspendre le certificat d’inscription d’un membre ou d’assortir son certificat de conditions ou de restrictions si :
+
 a) d’une part, une plainte est renvoyée au conseil ou au bureau par le comité des plaintes en vertu du paragraphe 31 (1.2.1) ou à la suite de la nomination d’un enquêteur en vertu de l’article 39;
+
 b) d’autre part, le conseil ou le bureau est d’avis que les actes ou la conduite du membre exposent ou exposeront vraisemblablement un enfant à un préjudice ou à des blessures.
 
 ### Restriction
 
 (2) Aucune ordonnance ne peut être rendue en vertu du paragraphe (1) sans que le membre :
+
 a) ait été avisé de l’intention du bureau ou du conseil de rendre l’ordonnance;
+
 b) ait bénéficié d’un délai d’au moins 14 jours pour présenter des observations par écrit au bureau ou au conseil.
 
 ### Idem
@@ -874,7 +1051,9 @@ b) ait bénéficié d’un délai d’au moins 14 jours pour présenter des obse
 ### Idem
 
 (6) Si le comité des plaintes ordonne en vertu de l’alinéa 31 (5) a) que la question soit renvoyée, en tout ou en partie, au comité de discipline ou au comité d’aptitude professionnelle :
+
 a) l’Ordre traite la question avec célérité;
+
 b) le comité de discipline ou le comité d’aptitude professionnelle donne priorité à la question.
 
 ### Effet de l’ordonnance
@@ -884,7 +1063,9 @@ b) le comité de discipline ou le comité d’aptitude professionnelle donne pri
 ### Comité de discipline
 
 33 (1) Le comité de discipline fait ce qui suit :
+
 a) il entend et tranche les questions qui lui sont renvoyées en application de l’article 31, 32 ou 36;
+
 b) il s’acquitte des autres fonctions que lui attribue le conseil.
 
 ### Idem : processus de règlement des plaintes
@@ -898,25 +1079,37 @@ b) il s’acquitte des autres fonctions que lui attribue le conseil.
 ### Incompétence
 
 (3) À la suite d’une audience, le comité de discipline peut conclure qu’un membre de l’Ordre est incompétent s’il est d’avis que ce dernier a fait preuve, dans l’exercice de ses fonctions, d’un manque de connaissances, de compétence ou de jugement ou encore d’indifférence pour le bien-être d’un enfant d’un ordre ou dans une mesure qui révèle que, selon le cas :
+
 a) le membre est inapte à s’acquitter de ses responsabilités professionnelles;
+
 b) le certificat d’inscription du membre devrait être assorti de conditions ou de restrictions.
 
 ### Pouvoirs du comité de discipline
 
 (4) Si le comité de discipline conclut qu’un membre a commis une faute professionnelle ou est incompétent, il rend une ordonnance visant une ou plusieurs des fins suivantes :
+
 1. Enjoindre au registrateur de révoquer le certificat d’inscription du membre.
+
 2. Enjoindre au registrateur de suspendre le certificat d’inscription du membre pendant une période précisée qui ne dépasse pas 24 mois.
+
 3. Enjoindre au registrateur d’assortir le certificat d’inscription du membre de conditions ou de restrictions précisées.
+
 4. Ordonner que le registrateur n’exécute pas une directive visée à la disposition 1, 2 ou 3 pendant une période précisée et que la directive ne soit pas du tout exécutée si les conditions précisées sont remplies au cours de cette période.
+
 5. Si la faute professionnelle consiste en des mauvais traitements d’ordre sexuel, des actes sexuels prescrits ou des actes interdits impliquant de la pornographie juvénile, ou en comprend, exiger du membre qu’il rembourse à l’Ordre les fonds alloués à une personne dans le cadre du programme exigé en application de l’article 59.2.
+
 6. Si le sous-comité rend une ordonnance en vertu de la disposition 5, exiger du membre qu’il fournisse une sûreté jugée acceptable par l’Ordre pour garantir le paiement des sommes d’argent qu’il peut être tenu de rembourser à l’Ordre en application de l’ordonnance visée à la disposition 5.
 
 ### Idem
 
 (5) Si le comité de discipline conclut qu’un membre a commis une faute professionnelle, outre qu’il exerce les pouvoirs que lui confère le paragraphe (4), il peut, par ordonnance :
+
 1. Exiger que le membre reçoive une réprimande, une admonestation ou des conseils de la part du comité ou de son délégué.
+
 2. Infliger une amende selon le montant que le comité juge approprié, lequel ne peut dépasser 2 000 $, et que le membre doit payer au ministre des Finances qui la verse au Trésor.
+
 3. Abrogée : 2014, chap. 11, annexe 3, par. 15 (4).
+
 4. Fixer les frais que le membre doit payer.
 
 ### Idem
@@ -926,6 +1119,7 @@ b) le certificat d’inscription du membre devrait être assorti de conditions o
 ### Idem
 
 (7) Lorsqu’il rend une ordonnance visant à révoquer ou à suspendre un certificat d’inscription ou à assortir un tel certificat de conditions ou de restrictions, le comité peut fixer un délai dans lequel le membre ne peut présenter de demande en vertu de l’article 36.
+
 (8) Abrogé : 2014, chap. 11, annexe 3, par. 15 (5).
 
 ### Frais
@@ -935,21 +1129,29 @@ b) le certificat d’inscription du membre devrait être assorti de conditions o
 ### Processus de règlement des plaintes
 
 33.1 (1) Le comité de discipline peut renvoyer l’Ordre et le membre visé par la question à un processus de règlement des plaintes auquel l’Ordre et le membre ont consenti si les conditions suivantes sont réunies :
+
 a) il estime que cela est approprié;
+
 b) il n’a pas encore tranché la question en vertu de l’article 33;
+
 c) la question ne porte pas sur une allégation de mauvais traitements d’ordre sexuel infligés à un enfant, d’inconduite sexuelle, d’acte interdit impliquant de la pornographie juvénile ou d’acte sexuel prescrit.
 
 ### Idem
 
 (2) S’ils parviennent à régler la question qui a été renvoyée au processus de règlement des plaintes en vertu du paragraphe (1), l’Ordre et le membre proposent le règlement au comité de discipline qui peut, selon le cas :
+
 a) adopter le règlement proposé;
+
 b) modifier le règlement proposé;
+
 c) rejeter le règlement proposé.
 
 ### Idem
 
 (3) S’il modifie le règlement proposé, le comité de discipline avise l’Ordre et le membre des modifications et :
+
 a) si l’Ordre et le membre approuvent les modifications, le règlement proposé est considéré comme adopté par le comité dans sa forme modifiée;
+
 b) si l’Ordre ou le membre n’approuve pas les modifications, le règlement proposé est considéré comme rejeté par le comité.
 
 ### Idem
@@ -979,7 +1181,9 @@ b) si l’Ordre ou le membre n’approuve pas les modifications, le règlement p
 ### Membres inaptes à siéger au sous-comité qui entend la question
 
 (10) Les personnes suivantes ne peuvent pas faire partie d’un sous-comité du comité de discipline qui entend et tranche une question conformément à l’article 33 :
+
 1. Les membres du sous-comité du comité de discipline qui a renvoyé la question en vertu du paragraphe (1) ou qui a envisagé de le faire.
+
 2. Les membres du sous-comité du comité de discipline qui a rejeté un règlement proposé.
 
 ### Pas de demande de remise en vigueur ou de modification
@@ -993,25 +1197,37 @@ b) si l’Ordre ou le membre n’approuve pas les modifications, le règlement p
 ### Registrateur autorisé à renvoyer une question
 
 (13) Le comité de discipline peut autoriser le registrateur à effectuer des renvois en vertu du paragraphe (1) au nom du comité, auquel cas les dispositions suivantes s’appliquent lorsque le registrateur agit conformément à une telle autorisation :
+
 1. La mention du comité à l’alinéa (1) a) vaut mention du registrateur.
+
 2. Le registrateur est assujetti :
+
 i. aux restrictions auxquelles le comité de discipline est assujetti en application du présent article,
+
 ii. aux restrictions mentionnées dans l’autorisation,
+
 iii. aux restrictions prescrites par les règlements.
+
 3. Le registrateur ne doit pas renvoyer une question en vertu du paragraphe (1) s’il avait renvoyé la question à un processus de règlement des plaintes en vertu du paragraphe 31.1 (1).
 
 ### Ordonnances : mauvais traitements d’ordre sexuel, pornographie juvénile et autres actes
 
 33.2 (1) S’il conclut, en vertu de l’article 33, qu’un membre a commis une faute professionnelle qui consiste en un acte énoncé au paragraphe (2) du présent article ou comprend un tel acte, outre ce que lui permet de faire le paragraphe 33 (5), le comité de discipline fait ce qui suit :
+
 a) il rend une ordonnance exigeant que le membre reçoive une réprimande de la part du comité;
+
 b) il rend une ordonnance provisoire enjoignant au registrateur de suspendre le certificat d’inscription du membre jusqu’à ce que le comité rende une ordonnance visée à l’alinéa c);
+
 c) il rend une ordonnance enjoignant au registrateur de révoquer le certificat d’inscription du membre.
 
 ### Idem
 
 (2) Les actes suivants constituent des fautes professionnelles pour l’application du paragraphe (1) :
+
 1. Les mauvais traitements d’ordre sexuel infligés à un enfant.
+
 2. Un acte interdit impliquant de la pornographie juvénile.
+
 3. Un acte sexuel prescrit.
 
 ### Interprétation
@@ -1037,9 +1253,13 @@ c) il rend une ordonnance enjoignant au registrateur de révoquer le certificat 
 ### Aucune audience
 
 (8) Malgré l’alinéa 33 (1) a), le comité de discipline n’est pas obligé de tenir d’audience ni d’accorder à qui que ce soit l’occasion d’être entendu à une audience ou de présenter des observations orales ou écrites avant de rendre une décision ou de donner une directive en application de l’article 33, si les conditions suivantes sont réunies :
+
 a) la question a été renvoyée au comité en vertu du paragraphe 31 (5) ou (9) et implique un acte visé au paragraphe (2) du présent article;
+
 b) le membre a été condamné pour une infraction au Code criminel (Canada), ou déclaré coupable d’une infraction à ce code, pour la même conduite ou les mêmes actes que ceux qui sont visés par la question et, selon le cas :
+
 (i) le délai d’appel est expiré,
+
 (ii) un appel a été rejeté ou abandonné et il n’y a pas d’autre appel possible.
 
 ### Idem
@@ -1049,27 +1269,37 @@ b) le membre a été condamné pour une infraction au Code criminel (Canada), ou
 ### Révocation rétroactive
 
 33.3 Le certificat d’inscription d’un membre est réputé révoqué à compter du jour de l’entrée en vigueur du présent article si, avant ce jour, une ordonnance a été rendue en vertu du paragraphe 33 (4) ou (5) par le comité de discipline dans laquelle le membre a été déclaré coupable d’une faute professionnelle qui consiste en des mauvais traitements d’ordre sexuel infligés à un enfant ou des actes interdits impliquant de la pornographie juvénile, ou en comprend, et que, selon le cas :
+
 a) le comité de discipline n’a pas ordonné une révocation du certificat d’inscription du membre;
+
 b) le comité de discipline a ordonné une révocation, mais le certificat d’inscription du membre a été remis en vigueur par la suite en vertu du paragraphe 36 (6) ou 37 (1).
 
 ### Comité d’aptitude professionnelle
 
 34 (1) Le comité d’aptitude professionnelle fait ce qui suit :
+
 a) il entend et tranche les questions qui lui sont renvoyées en application de l’article 31, 32 ou 36;
+
 b) il s’acquitte des autres fonctions que lui attribue le conseil.
 
 ### Incapacité
 
 (2) À la suite d’une audience, le comité d’aptitude professionnelle peut conclure qu’un membre de l’Ordre est frappé d’incapacité s’il est d’avis que ce dernier est atteint d’une affection physique ou mentale ou de troubles physiques ou mentaux qui sont tels que, selon le cas :
+
 a) le membre est inapte à s’acquitter de ses responsabilités professionnelles;
+
 b) le certificat d’inscription du membre devrait être assorti de conditions ou de restrictions.
 
 ### Pouvoirs du comité d’aptitude professionnelle
 
 (3) Si le comité d’aptitude professionnelle conclut qu’un membre est frappé d’incapacité, il rend une ordonnance visant une ou plusieurs des fins suivantes :
+
 1. Enjoindre au registrateur de révoquer le certificat d’inscription du membre.
+
 2. Enjoindre au registrateur de suspendre, pendant une période précisée qui ne dépasse pas 24 mois, le certificat d’inscription du membre.
+
 3. Enjoindre au registrateur d’assortir de conditions ou de restrictions précisées le certificat d’inscription du membre.
+
 4. Ordonner que le registrateur n’exécute pas une directive visée à la disposition 1, 2 ou 3 pendant une période précisée et que la directive ne soit pas du tout exécutée si les conditions précisées sont remplies au cours de cette période.
 
 ### Idem
@@ -1079,6 +1309,7 @@ b) le certificat d’inscription du membre devrait être assorti de conditions o
 ### Idem
 
 (5) Lorsqu’il rend une ordonnance visant à révoquer ou à suspendre un certificat d’inscription ou à assortir un tel certificat de conditions ou de restrictions, le comité peut fixer un délai dans lequel le membre ne peut présenter de demande en vertu de l’article 36.
+
 (6) Abrogé : 2014, chap. 11, annexe 3, art. 17.
 
 ### Frais
@@ -1140,9 +1371,13 @@ b) le certificat d’inscription du membre devrait être assorti de conditions o
 ### Audience publique sur demande dans certains cas
 
 (10) Une audience du comité d’aptitude professionnelle est publique, et les membres de l’Ordre peuvent y assister, si la personne qui fait l’objet de l’allégation d’incapacité en fait la demande par avis écrit, lequel doit parvenir au registrateur avant le jour où débute l’audience. Toutefois, le public sera exclu de l’audience si le comité est convaincu que, selon le cas :
+
 a) des questions touchant à la sécurité publique risquent d’être divulguées;
+
 b) risquent d’être divulguées des questions financières, personnelles ou autres de nature telle qu’il vaut mieux éviter leur divulgation dans l’intérêt de toute personne concernée ou dans l’intérêt public qu’accéder à la demande de la personne qui fait l’objet de l’allégation d’incapacité;
+
 c) une personne engagée dans une instance civile ou criminelle pourrait être lésée;
+
 d) la sécurité de quiconque risque d’être compromise.
 
 ### Idem
@@ -1164,9 +1399,13 @@ d) la sécurité de quiconque risque d’être compromise.
 ### Signification de la décision et motifs
 
 (15) Sous réserve du paragraphe (16), le comité de discipline ou le comité d’aptitude professionnelle signifie sa décision, accompagnée des motifs :
+
 a) aux parties;
+
 b) au plaignant si, selon le cas :
+
 (i) la question a été renvoyée au comité de discipline ou au comité d’aptitude professionnelle par suite d’une plainte visée au paragraphe 31 (1),
+
 (ii) le conseil ou le bureau a enjoint au comité de discipline ou au comité d’aptitude professionnelle de tenir une audience sur cette question en vertu du paragraphe 32 (1) ou (2).
 
 ### Idem
@@ -1184,8 +1423,11 @@ b) au plaignant si, selon le cas :
 ### Témoins de moins de 18 ans
 
 (3) Le comité de discipline rend une ordonnance portant que nul ne doit publier l’identité d’une personne de moins de 18 ans, ni aucun renseignement susceptible de révéler son identité, si la personne, selon le cas :
+
 a) témoigne à une audience;
+
 b) fait l’objet d’éléments de preuve à une audience;
+
 c) est visée, directement ou indirectement, par une question renvoyée à un processus de règlement des plaintes en vertu du paragraphe 33.1 (1).
 
 ### Idem : mauvais traitements d’ordre sexuel, inconduite sexuelle ou pornographie juvénile
@@ -1203,8 +1445,11 @@ c) est visée, directement ou indirectement, par une question renvoyée à un pr
 ### Aucune demande de remise en vigueur
 
 (1.1) Sous réserve des paragraphes (4.2) et (4.3), le paragraphe (1) ne s’applique pas à une personne dont le certificat a été révoqué, conformément à une ordonnance rendue en application de l’article 33 ou est réputé révoqué conformément à l’article 33.3, pour avoir commis une faute professionnelle consistant en l’un des actes suivants ou comprenant un tel acte :
+
 1. Les mauvais traitements d’ordre sexuel infligés à un enfant énoncés à l’alinéa a) ou b) de la définition de «mauvais traitements d’ordre sexuel» au paragraphe 1 (1).
+
 2. Un acte interdit impliquant de la pornographie juvénile.
+
 3. Un acte sexuel prescrit impliquant un enfant.
 
 ### Demande de modification
@@ -1222,9 +1467,13 @@ c) est visée, directement ou indirectement, par une question renvoyée à un pr
 ### Idem
 
 (4.1) Malgré les paragraphes (3) et (4), si le certificat d’une personne a été révoqué, conformément à une ordonnance rendue en application de l’article 33 ou est réputé révoqué conformément à l’article 33.3, pour cause de faute professionnelle consistant en l’un des actes suivants ou comprenant un tel acte, la demande prévue au paragraphe (1) en vue d’obtenir la délivrance d’un nouveau certificat ne peut être présentée moins de cinq ans après la date de l’ordonnance :
+
 1. Les mauvais traitements d’ordre sexuel infligés à un enfant, énoncés à l’alinéa c) de la définition de «mauvais traitements d’ordre sexuel» au paragraphe 1 (1).
+
 2. Une inconduite sexuelle.
+
 3. Un acte sexuel prescrit n’impliquant pas un enfant.
+
 4. Abrogée : 2020, chap. 36, annexe 9, par. 4 (4).
 
 ### Remise en vigueur après une déclaration de culpabilité ou une réhabilitation
@@ -1234,7 +1483,9 @@ c) est visée, directement ou indirectement, par une question renvoyée à un pr
 ### Idem
 
 (4.3) Dans le cas d’une personne visée au paragraphe (4.2) dont le certificat d’inscription était réputé révoqué conformément à l’article 33.3, si la déclaration de culpabilité a été infirmée en appel ou une réhabilitation a été octroyée à la personne en vertu du Code criminel (Canada) avant le jour de l’entrée en vigueur du présent article et qu’elle présente une demande en vertu du paragraphe (1) du présent article dans les 60 jours qui suivent la révocation prévue à l’article 33.3 et fournit une preuve établissant que la déclaration de culpabilité a été infirmée ou que la réhabilitation a été octroyée :
+
 a) le registrateur délivre un certificat à l’auteur de la demande dès qu’il reçoit la demande et la preuve;
+
 b) le membre peut être titulaire du certificat jusqu’à ce que le comité de discipline rende une ordonnance à l’égard de la demande en vertu du paragraphe (6) du présent article.
 
 ### Renvoi au comité de discipline
@@ -1244,12 +1495,19 @@ b) le membre peut être titulaire du certificat jusqu’à ce que le comité de 
 ### Ordonnance
 
 (6) À la suite d’une audience, le comité de discipline peut, par ordonnance :
+
 1. Refuser la demande.
+
 2. Enjoindre au registrateur de délivrer un certificat d’inscription à l’auteur de la demande.
+
 3. Enjoindre au registrateur d’annuler la suspension du certificat d’inscription de l’auteur de la demande.
+
 4. Enjoindre au registrateur d’assortir de conditions et de restrictions précisées le certificat d’inscription de l’auteur de la demande.
+
 5. Enjoindre au registrateur de supprimer toute condition ou restriction dont est assorti le certificat d’inscription de l’auteur de la demande.
+
 6. Fixer un délai dans lequel l’auteur de la demande ne peut présenter de demande en vertu du présent article.
+
 7. Enjoindre au directeur de maintenir en vigueur un certificat délivré en application de l’alinéa (4.3) a) ou de le révoquer.
 
 ### Parties
@@ -1263,7 +1521,9 @@ b) le membre peut être titulaire du certificat jusqu’à ce que le comité de 
 ### Audiences publiques ou à huis clos
 
 (9) L’audience que tient le comité de discipline en application du présent article est ouverte au public sauf dans l’un ou l’autre des cas suivants :
+
 a) l’instance visée au paragraphe (1) ou (2) à la suite de laquelle le certificat de la personne a été révoqué, suspendu ou assorti de conditions ou de restrictions était à huis clos;
+
 b) le comité rend une ordonnance en vertu du paragraphe (9.1).
 
 ### Exclusion du public
@@ -1293,8 +1553,11 @@ b) le comité rend une ordonnance en vertu du paragraphe (9.1).
 ### Comité d’aptitude professionnelle
 
 (14) Les paragraphes (1) à (8) et (10) à (13) s’appliquent, avec les adaptations nécessaires, au comité d’aptitude professionnelle et, à cet égard :
+
 a) la mention du comité de discipline est réputée une mention du comité d’aptitude professionnelle;
+
 b) la mention du paragraphe 33 (7) est réputée une mention du paragraphe 34 (5);
+
 c) la mention de l’article 33 est réputée une mention de l’article 34.
 
 ### Idem : huis clos
@@ -1304,27 +1567,37 @@ c) la mention de l’article 33 est réputée une mention de l’article 34.
 ### Remise en vigueur : aucune audience
 
 37 (1) Dans le cas d’une personne dont le certificat d’inscription a été suspendu ou révoqué pour quelque motif que ce soit en vertu de la présente loi, le conseil ou le bureau peut, par ordonnance et sans tenir d’audience :
+
 1. Enjoindre au registrateur de délivrer un certificat d’inscription à la personne.
+
 2. Enjoindre au registrateur d’annuler la suspension du certificat d’inscription de la personne.
 
 ### Idem : mauvais traitements d’ordre sexuel et autres actes
 
 (2) Sous réserve des paragraphes (3) et (4), si le certificat d’une personne a été révoqué pour cause de faute professionnelle consistant en l’un des actes suivants ou comprenant un tel acte, l’ordonnance prévue à la disposition 1 du paragraphe (1) ne peut être rendue moins de cinq ans après la date de celle rendue en vertu de l’article 33 qui a révoqué le certificat :
+
 1. Les mauvais traitements d’ordre sexuel infligés à un enfant.
+
 2. Une inconduite sexuelle.
+
 3. Un acte interdit impliquant de la pornographie juvénile.
+
 4. Un acte sexuel prescrit.
 
 ### Idem
 
 (3) L’ordonnance prévue au paragraphe (1) ne peut être rendue si les conditions suivantes sont réunies :
+
 a) le certificat de la personne a été suspendu ou révoqué par suite d’une plainte déposée en vertu du paragraphe 31 (1) concernant une faute professionnelle visée à la disposition 1, 2 ou 3 du paragraphe (2) du présent article;
+
 b) la plainte a été déposée le 5 décembre 2016 ou après cette date.
 
 ### Idem
 
 (4) L’ordonnance prévue au paragraphe (1) ne peut être rendue si les conditions suivantes sont réunies :
+
 a) le certificat de la personne a été suspendu ou révoqué par suite d’une plainte déposée en vertu du paragraphe 31 (1) concernant un acte sexuel prescrit;
+
 b) la plainte a été déposée le jour où l’infraction a été prescrite en tant qu’acte sexuel prescrit en vertu de l’alinéa 45 (1) c.2) ou après ce jour.
 
 ## PARTIE VII APPELS portés devant la cour
@@ -1336,7 +1609,9 @@ b) la plainte a été déposée le jour où l’infraction a été prescrite en 
 ### Idem
 
 (2) Pour l’application du présent article :
+
 a) d’une part, la personne qui sollicite un examen en vertu de l’article 27 est partie à l’examen ainsi prévu que doit effectuer le comité d’appel des inscriptions;
+
 b) d’autre part, la personne qui demande que soit rendue une ordonnance en vertu de l’article 28.1 est partie à l’instance prévue à cet article que doit conduire le comité d’appel des inscriptions.
 
 ### Copie conforme du dossier
@@ -1356,9 +1631,13 @@ b) d’autre part, la personne qui demande que soit rendue une ordonnance en ver
 ### Enquête du registrateur
 
 39 (1) Le registrateur peut nommer un ou plusieurs enquêteurs chargés d’établir le bien-fondé de ses prétentions s’il croit, en se fondant sur des motifs raisonnables et probables :
+
 a) soit qu’un membre de l’Ordre a commis une faute professionnelle ou est incompétent ou frappé d’incapacité;
+
 b) soit qu’il y a lieu de refuser de délivrer un certificat demandé en vertu de la présente loi;
+
 c) soit qu’il y a lieu de suspendre ou de révoquer un certificat délivré en vertu de la présente loi;
+
 d) soit qu’il y a lieu d’assortir de conditions ou de restrictions un certificat demandé ou délivré en vertu de la présente loi.
 
 ### Approbation du bureau
@@ -1368,7 +1647,9 @@ d) soit qu’il y a lieu d’assortir de conditions ou de restrictions un certif
 ### Situations d’urgence
 
 (2.1) Le registrateur peut nommer un enquêteur si :
+
 a) d’une part, il a des motifs raisonnables et probables de croire que la conduite du membre expose ou exposera vraisemblablement un ou plusieurs enfants à un préjudice ou à des blessures et que l’enquêteur devrait être nommé immédiatement;
+
 b) d’autre part, il n’a pas le temps d’obtenir l’approbation du bureau.
 
 ### Rapport
@@ -1394,7 +1675,9 @@ b) d’autre part, il n’a pas le temps d’obtenir l’approbation du bureau.
 ### Perquisitions
 
 40 (1) Un juge de paix peut décerner à l’enquêteur qui en fait la demande un mandat l’autorisant à pénétrer dans un lieu et à y perquisitionner, ainsi qu’à examiner tout ce qui est pertinent, s’il est convaincu que l’enquêteur a été nommé de façon régulière et qu’il existe des motifs raisonnables et probables de croire que :
+
 a) d’une part, le membre qui fait l’objet de l’enquête a commis une faute professionnelle ou est incompétent ou frappé d’incapacité;
+
 b) d’autre part, il se trouve quelque chose de pertinent dans ce lieu.
 
 ### Perquisition de jour sauf indication contraire
@@ -1418,7 +1701,9 @@ b) d’autre part, il se trouve quelque chose de pertinent dans ce lieu.
 ### Enlèvement de documents et d’objets
 
 (2) L’enquêteur peut enlever les documents ou objets visés au paragraphe (1) si, selon le cas :
+
 a) il n’est pas possible d’en faire une copie sur les lieux mêmes;
+
 b) une copie ne suffit pas pour les besoins de l’enquête.
 
 ### Utilisation de dispositifs
@@ -1428,7 +1713,9 @@ b) une copie ne suffit pas pour les besoins de l’enquête.
 ### Restitution des documents et objets ou des copies
 
 (4) S’il est possible de faire une copie des documents, dossiers ou choses enlevés en vertu du paragraphe (2), l’enquêteur :
+
 a) s’ils ont été enlevés en vertu de l’alinéa (2) a), restitue les documents, dossiers ou choses dans un délai raisonnable;
+
 b) s’ils ont été enlevés en vertu de l’alinéa (2) b), fournit à la personne qui était en possession des documents, dossiers ou choses une copie de ceux-ci, dans un délai raisonnable.
 
 ### Copies à titre de preuve
@@ -1444,63 +1731,121 @@ b) s’ils ont été enlevés en vertu de l’alinéa (2) b), fournit à la pers
 ### Règlements de l’Ordre sous réserve d’approbation
 
 43 (1) Sous réserve de l’approbation du lieutenant-gouverneur en conseil et après examen par le ministre, le conseil peut, par règlement :
+
 0.1 prescrire des actes et des conduites pour l’application de la définition de «faute professionnelle» à l’article 1;
+
 1. traiter du champ d’application de l’exercice de la profession d’éducateur de la petite enfance et prescrire les services et les activités qu’elle englobe pour l’application de l’alinéa 2 d);
+
 1.1 régir l’agrément des programmes d’éducation de la petite enfance offerts par les établissements d’enseignement postsecondaire et d’autres organismes;
+
 2. désigner des régions géographiques pour l’application de l’alinéa 8 (2) a) et prescrire le nombre de représentants pour chacune d’elles;
+
 2.1 traiter des qualifications des membres du conseil qui sont élus;
+
 2.2 prescrire les conditions qui rendent les membres élus du conseil inhabiles à y siéger et régir la destitution des membres du conseil jugés inhabiles;
+
 2.3 régir les conflits d’intérêts dans le cas des membres du conseil et des membres des comités, ainsi que des personnes inscrites aux tableaux des comités, notamment prescrire les règles ou lignes directrices en la matière et énoncer la marche à suivre pour établir s’il y a eu transgression;
+
 2.4 traiter de la composition et des règles de pratique et de procédure des comités exigés par le paragraphe 19 (1), notamment :
+
 i. le nombre de membres qui doivent être nommés à chaque comité,
+
 ii. le mandat de ces membres,
+
 iii. les conditions qui rendent les membres de l’Ordre inhabiles à siéger à ces comités,
+
 iv. la destitution des membres d’un comité jugés inhabiles,
+
 v. le quorum de ces comités;
+
 2.5 traiter de la composition, des pouvoirs et fonctions et des règles de pratique et de procédure des comités autres que ceux exigés par le paragraphe 19 (1), notamment :
+
 i. le nombre de membres qui doivent être nommés à chaque comité,
+
 ii. le mandat de ces membres,
+
 iii. les conditions qui rendent les membres de l’Ordre inhabiles à siéger à ces comités,
+
 iv. la destitution des membres d’un comité jugés inhabiles,
+
 v. le quorum de ces comités;
+
 2.6 traiter de l’établissement du tableau prévu au paragraphe 19 (5.1), notamment prescrire les exigences et les restrictions qui s’appliquent à l’inscription de personnes au tableau, y compris :
+
 i. prescrire les qualités requises des membres suppléants,
+
 ii. exiger des personnes inscrites qu’elles prêtent serment et prescrire la forme du serment ainsi que la manière et le délai prévus pour ce faire;
+
 2.7 régir, pour l’application des alinéas 29 (2) d.1) et 29 (2.2) c), la question de savoir si les renseignements à l’égard de toute instance criminelle en cours ou antérieure qui met en cause un membre devraient être inscrits au tableau ou supprimés de celui-ci;
+
 3. prescrire les catégories de certificats d’inscription et fixer les conditions et les restrictions dont sont assortis les certificats d’inscription d’une catégorie donnée;
+
 4. traiter des demandes de certificats d’inscription ou de catégories de ceux-ci et de la délivrance, de la suspension, de la révocation, de l’expiration et de la remise en vigueur des certificats ou des catégories de ceux-ci;
+
 5. prescrire les normes, les qualités requises et les autres conditions de délivrance des certificats d’inscription, notamment prescrire les études et l’expérience pratique qui sont exigées pour devenir membre et prévoir des exemptions à ces exigences;
+
 6. prévoir que l’Ordre ou un comité de l’Ordre peut déterminer si certaines études et expériences pratiques sont équivalentes à celles prescrites aux fins de la délivrance de certificats d’inscription;
+
 7. définir les spécialités de la profession, prévoir les certificats relatifs à ces spécialités et les qualités nécessaires à leur obtention, prévoir la suspension et la révocation de ces certificats, et régir l’emploi par les membres de l’Ordre des termes, désignations ou titres prescrits qui indiquent une spécialisation dans cette profession;
+
 8. régir l’agrément des programmes d’éducation permanente, régir les exigences relatives aux plans de perfectionnement des membres, à l’éducation permanente et au perfectionnement professionnel continu, et prévoir l’établissement par l’Ordre d’exigences à l’égard du perfectionnement professionnel continu;
+
 8.1 régir la procédure permettant de déterminer si les membres satisfont aux exigences visées à la disposition 8, notamment exiger que les membres fournissent des renseignements et des documents au registrateur à cette fin;
+
 8.2 prescrire les circonstances dans lesquelles un membre est exempté des exigences relatives au perfectionnement professionnel continu;
+
 8.3 traiter de la diffusion de renseignements sur les exigences relatives aux plans de perfectionnement des membres, à l’éducation permanente et au perfectionnement professionnel continu;
+
 8.4 traiter de l’élaboration, de la prestation et de l’agrément de programmes de formation permettant aux membres d’obtenir des qualifications additionnelles à celles exigées pour un certificat d’inscription, et prévoir que ces qualifications additionnelles soient inscrites sur un certificat d’inscription ou que des certificats soient délivrés pour ces qualifications additionnelles;
+
 8.5 régir les exigences relatives au perfectionnement professionnel des membres au sujet de leur devoir de faire rapport prévu par la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille et régir la façon dont la conformité des membres à ces exigences est établie;
+
 9. fixer des modalités et des critères pour la suspension ou la révocation des certificats des membres qui ne satisfont pas aux exigences en matière de formation permanente;
+
 10. prescrire ce qui constitue un conflit d’intérêts dans l’exercice de la profession d’éducateur de la petite enfance et réglementer ou interdire l’exercice de cette profession en cas de conflit d’intérêts;
+
 11. régir la décision prise par le comité des plaintes en application de l’alinéa 31 (2) c) selon laquelle une plainte ne nécessite pas d’examen plus poussé ou qu’il n’est pas dans l’intérêt public de poursuivre l’enquête, notamment prescrire les circonstances ou les conditions dans lesquelles une telle décision peut être prise;
+
 11.1 régir les circonstances dans lesquelles le comité des plaintes peut proroger le délai accordé à un membre et prescrire le nombre de jours maximal dont il peut être prorogé, pour l’application du paragraphe 31 (4);
+
 11.2 établir des exigences concernant les processus de règlement des plaintes mentionnés aux paragraphes 31.1 (1) et 33.1 (1) et régir autrement ces processus, notamment :
+
 i. régir la décision prise par le registrateur en vertu de l’alinéa 31.1 (1) a) ou en vertu d’une autorisation visée au paragraphe 33.1 (13), notamment prescrire les facteurs dont il doit ou non tenir compte pour prendre une telle décision,
+
 ii. prescrire les délais applicables aux processus,
+
 iii. prescrire les circonstances dans lesquelles le règlement d’une question qui a été renvoyée à un processus de règlement des plaintes doit être considéré comme ayant échoué pour l’application des paragraphes 31.1 (8) et 33.1 (5),
+
 iv. régir les circonstances dans lesquelles une personne qui a pris une décision ou effectué un renvoi pour l’application du paragraphe 31.1 (4) ou 33.1 (1) ou (2), ou qui y a participé, peut faire partie d’un sous-comité qui prend une décision à l’égard de la question dans le cadre de l’article 31 ou du paragraphe 33.1 (2) ou entend et tranche la question dans le cadre de l’article 33, selon le cas,
+
 v. prescrire des restrictions pour l’application de la sous-disposition 2 iii du paragraphe 33.1 (13);
+
 11.3 exiger que le sous-comité d’un comité constitué pour entendre ou examiner une question relative à un membre de l’Ordre employé comme superviseur comprenne un membre employé à ce même poste;
+
 11.4 prescrire les restrictions dont les fonctions d’un membre sont assorties pour l’application de l’alinéa 49.1 (8) c);
+
 11.5 régir la suppression de décisions et de règlements que l’Ordre a publiés sur un site Web en vertu du paragraphe 49 (4), pour l’application de l’alinéa 49 (7) b);
+
 11.6 prescrire des employeurs pour l’application du paragraphe 49.4 (2);
+
 11.7 désigner des personnes ou des organismes pour l’application du paragraphe 51.1 (3);
+
 12. traiter de la promotion de l’exercice de la profession ou de la publicité à cet égard;
+
 13. traiter du compte rendu et de la publication des décisions des comités;
+
 14. réglementer ou interdire l’emploi par les membres de l’Ordre de certains termes, titres et désignations;
+
 15. traiter de la remise des avis des réunions et audiences publiques;
+
 16. prévoir l’exemption de tout membre ou toute catégorie de membres de l’Ordre de l’application de tout règlement pris en application du présent article;
+
 16.1 prescrire les autres exigences d’admissibilité à des fonds visés à l’alinéa 59.2 (3) b);
+
 16.2 prescrire les circonstances à l’égard desquelles l’admissibilité d’une personne à des fonds cesse pour l’application du paragraphe 59.2 (6);
+
 17. Abrogée : 2014, chap. 11, annexe 3, par. 23 (5).
+
 18. prescrire tout ce qui est indiqué dans la présente loi comme étant prescrit par les règlements.
 
 ### Examens autorisés
@@ -1510,55 +1855,105 @@ v. prescrire des restrictions pour l’application de la sous-disposition 2 iii 
 ### Règlements administratifs
 
 44 (1) Le conseil peut, par règlement administratif, traiter des affaires administratives et internes de l’Ordre, notamment :
+
 1. adopter le sceau de l’Ordre;
+
 2. prévoir la passation des documents par l’Ordre;
+
 3. traiter des affaires bancaires et financières de l’Ordre;
+
 4. fixer l’exercice de l’Ordre et prévoir la vérification de ses comptes et de ses opérations;
+
 5. traiter de l’élection des membres du conseil, notamment les exigences auxquelles les membres de l’Ordre doivent satisfaire pour pouvoir voter, les circonscriptions électorales et les nouveaux dépouillements;
+
 6. traiter des qualités requises des membres du conseil qui sont élus;
+
 7. prescrire les conditions qui rendent les membres élus du conseil inhabiles à y siéger et régir la destitution des membres du conseil jugés inhabiles;
+
 8. prescrire les postes des dirigeants de l’Ordre, prévoir leur élection ou leur nomination, et prescrire leurs fonctions;
+
 9. traiter de la convocation, de la tenue et du déroulement des réunions du conseil, ainsi que des fonctions de ses membres;
+
 10. traiter de la convocation, de la tenue et du déroulement des assemblées des membres de l’Ordre;
+
 11. autoriser les membres à voter sur les affaires de l’Ordre, et prescrire les modalités du scrutin;
+
 12. traiter des règles applicables aux dirigeants et employés de l’Ordre en ce qui concerne les conflits d’intérêts;
+
 13. prévoir la rémunération des membres du conseil et des comités, à l’exclusion des personnes nommées par le lieutenant-gouverneur en conseil, ainsi que le paiement des dépenses du conseil et des comités dans l’exercice de leurs activités;
+
 14. traiter de la façon de combler les vacances au sein du conseil ou des comités;
+
 15. traiter des règles qui régissent les membres et des règles de pratique et de procédure des comités qu’exige le paragraphe 19 (1), notamment :
+
 i. le nombre de membres qui doivent être nommés au sein de chaque comité,
+
 ii. le mandat de ces membres,
+
 iii. les conditions qui rendent les membres de l’Ordre inhabiles à siéger à ces comités,
+
 iv. la destitution des membres d’un comité jugés inhabiles,
+
 v. le quorum de ces comités;
+
 16. traiter des règles qui régissent les membres, des pouvoirs, des fonctions et des règles de pratique et de procédure des comités autres que ceux qu’exige le paragraphe 19 (1), notamment :
+
 i. le nombre de membres qui doivent être nommés au sein de chaque comité,
+
 ii. le mandat de ces membres,
+
 iii. les conditions qui rendent les membres de l’Ordre inhabiles à siéger à ces comités,
+
 iv. la destitution des membres d’un comité jugés inhabiles,
+
 v. le quorum de ces comités;
+
 17. traiter de la composition, des règles de pratique et de procédure et du quorum des sous-comités des comités;
+
 17.1 traiter de l’établissement du tableau des membres suppléants d’un comité créé aux termes de la présente loi, ainsi que du choix, des qualités requises et de la formation de ces membres;
+
 18. déléguer au bureau les pouvoirs et fonctions du conseil, sauf le pouvoir de prendre, de modifier ou d’abroger des règlements ou des règlements administratifs;
+
 19. prescrire un code de déontologie et des normes d’exercice de la profession pour les membres ou catégories de membres de l’Ordre;
+
 20. prévoir la nomination des enquêteurs;
+
 21. traiter de la tenue d’un tableau des membres de l’Ordre, notamment prescrire les renseignements qui doivent y figurer;
+
 21.1 sous réserve du paragraphe 29 (2.5), autoriser la suppression du tableau des renseignements indiqués aux alinéas 29 (2) b.2), b.3), b.4), b.5) et b.6) et des renseignements sur la suppression de la suspension du certificat d’inscription visée au paragraphe 30 (3);
+
 22. exiger des membres de l’Ordre qu’ils lui fournissent les renseignements nécessaires pour dresser le tableau et le tenir à jour et pour constituer et tenir à jour les dossiers nécessaires à la bonne marche de l’Ordre;
+
 23. traiter des fonctions et du poste de registrateur et des pouvoirs et fonctions des registrateurs adjoints;
+
 24. prescrire la procédure pour prendre, modifier et abroger des règlements administratifs;
+
 25. prescrire des formules et en prévoir l’utilisation;
+
 26. traiter de la gestion des biens de l’Ordre;
+
 27. traiter de l’affiliation de l’Ordre à un organisme chargé de fonctions analogues, du paiement des cotisations annuelles et de la représentation aux réunions;
+
 28. autoriser l’octroi de subventions en vue de faire avancer les connaissances ou de promouvoir l’éducation des personnes qui désirent exercer la profession d’éducateur de la petite enfance, de maintenir ou de rehausser les normes d’exercice de cette profession, ou encore de renseigner le public sur le rôle présent et passé de cette profession au sein de la société et d’encourager le public à s’y intéresser;
+
 29. exiger des membres de l’Ordre qu’ils acquittent les cotisations annuelles, les droits d’inscription, les droits applicables aux nouveaux dépouillements et aux programmes d’éducation permanente et les droits relatifs à tout ce que le registrateur ou un comité de l’Ordre doit ou peut faire à l’égard des membres, exiger des membres qu’ils paient des pénalités en cas d’acquittement tardif de ces droits, et préciser le montant de ces droits ou de ces pénalités;
+
 30. exiger l’acquittement des droits que fixe le registrateur ou un règlement administratif à l’égard d’une demande de certificat et pour tout ce que le registrateur doit ou peut faire à l’égard des personnes qui ne sont pas membres;
+
 31. traiter de la désignation des membres à vie ou des membres honoraires de l’Ordre et prescrire leurs droits et privilèges;
+
 32. exempter tout membre ou toute catégorie de membres de l’Ordre de l’application d’un règlement administratif pris en application du présent article;
+
 33. traiter de l’indemnisation, par l’Ordre, des membres du conseil, des membres des comités ainsi que des dirigeants et employés de l’Ordre;
+
 34. traiter de la signification et de la remise des documents.
+
 35. exiger des membres qu’ils acquittent des sommes d’argent précisées pour couvrir le coût du programme exigé en application de l’article 59.2, y compris des sommes d’argent qui sont, selon le cas :
+
 i. précisées dans le règlement administratif,
+
 ii. calculées selon une méthode indiquée dans le règlement administratif;
+
 36. autoriser l’Ordre à exiger que les thérapeutes et les conseillers qui fournissent la thérapie ou donnent des consultations financées grâce au programme exigé en application de l’article 59.2 et que les personnes qui bénéficient de cette thérapie ou de ces consultations présentent une déclaration écrite, signée dans chaque cas par le thérapeute ou le conseiller et par la personne, qui donne le détail de la formation et de l’expérience du thérapeute ou du conseiller et qui confirme que la thérapie ou les consultations sont effectivement fournies et que les fonds reçus servent uniquement à cette fin.
 
 ### Réunions ou assemblées à l’aide des télécommunications
@@ -1584,26 +1979,47 @@ ii. calculées selon une méthode indiquée dans le règlement administratif;
 ### Règlements pris par le lieutenant-gouverneur en conseil
 
 45 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des personnes ou des catégories de personnes pour l’application de la disposition 7 du paragraphe 3 (2);
+
 b) prescrire les autres fonctions de l’Ordre pour l’application de la disposition 9 du paragraphe 7 (2);
+
 c) traiter de la nomination de personnes au conseil aux termes de l’alinéa 8 (2) b) et prescrire les secteurs de la société ontarienne pour l’application de cet alinéa;
+
 c.1) traiter de l’inscription de personnes à un tableau de membres suppléants aux termes du paragraphe 19 (5.2), notamment prescrire les exigences et les restrictions qui s’appliquent à cette fin, y compris :
+
 (i) prescrire les qualités requises des membres suppléants,
+
 (ii) exiger des personnes inscrites qu’elles prêtent serment et prescrire la forme du serment ainsi que la manière et le délai prévus pour ce faire;
+
 c.1.1) prescrire un délai pour l’application de l’alinéa 31 (4.10) b);
+
 c.2) prescrire des dispositions du Code criminel (Canada) qui constituent des actes sexuels prescrits;
+
 c.3) exiger qu’un membre fasse un rapport au registrateur s’il a fait l’objet, selon le cas :
+
 (i) d’une conclusion de négligence professionnelle,
+
 (ii) d’une conclusion de faute professionnelle ou d’incompétence de la part d’un autre organisme qui régit une profession en Ontario ou ailleurs,
+
 (iii) de toute autre conclusion ou décision se rapportant à son aptitude à exercer la profession;
+
 c.4) régir les rapports qui doivent être faits au registrateur pour l’application de la présente loi;
+
 d) désigner des personnes ou des organismes pour l’application de l’article 50.1;
+
 d.1) prévoir les questions transitoires qu’il estime nécessaires ou souhaitables pour la mise en application des modifications apportées à la présente loi par la Loi de 2014 sur la modernisation des services de garde d’enfants;
+
 d.1.1) régir le programme de prévention des mauvais traitements d’ordre sexuel exigé aux termes l’article 50.2, y compris prescrire d’autres mesures relevant du programme pour l’application de l’alinéa 50.2 (3) e);
+
 d.2) régir les fonds prévus par le programme exigé en application de l’article 59.2, notamment :
+
 (i) prescrire le montant maximum des fonds qui peuvent être alloués à une personne dans chaque cas de mauvais traitements d’ordre sexuel, d’actes sexuels prescrits ou d’actes interdits impliquant de la pornographie juvénile, ou la façon d’établir ce montant,
+
 (ii) prescrire la période durant laquelle des fonds peuvent être alloués à une personne dans chaque cas de mauvais traitements d’ordre sexuel, d’actes sexuels prescrits ou d’actes interdits impliquant de la pornographie juvénile;
+
 d.3) prescrire des fins supplémentaires pour lesquelles des fonds peuvent être alloués dans le cadre du programme que l’Ordre est tenu de maintenir en application de l’article 59.2 et prescrire des personnes ou des catégories de personnes supplémentaires à qui des fonds peuvent être versés pour l’application du paragraphe 59.2 (9);
+
 e) traiter de toute autre question que le lieutenant-gouverneur en conseil juge nécessaire ou souhaitable en ce qui concerne l’Ordre.
 
 ### Incompatibilité
@@ -1639,6 +2055,7 @@ e) traiter de toute autre question que le lieutenant-gouverneur en conseil juge 
 ### Définition
 
 (2) La définition qui suit s’applique au présent article.
+
 «rapports» S’entend de toute pratique ou procédure concernant le public ou les membres de l’Ordre. S’entend en outre du fait de donner ou de recevoir des communications, des renseignements ou des avis, de présenter des demandes, de passer des examens ou des tests et de prendre part à des programmes, à des audiences ou à des examens.
 
 ### Publication officielle
@@ -1650,16 +2067,23 @@ e) traiter de toute autre question que le lieutenant-gouverneur en conseil juge 
 ### Publication sur le site Web
 
 49 (1) L’Ordre publie ce qui suit sur son site Web :
+
 1. Chaque décision du comité de discipline, accompagnée de ses motifs.
+
 2. Chaque règlement adopté par le comité de discipline en vertu de l’article 33.1.
+
 3. Si un règlement adopté par le comité des plaintes en vertu de l’article 31.1 prévoit la publication du règlement ou d’un résumé ou d’une partie de celui-ci sur le site Web de l’Ordre, le règlement, le résumé ou la partie.
 
 ### Publication dans une publication officielle de l’Ordre
 
 (2) L’Ordre publie ce qui suit dans sa publication officielle :
+
 1. Un résumé de chaque décision du comité de discipline ainsi que des motifs de la décision.
+
 2. Un résumé de chaque règlement adopté par le comité de discipline en vertu de l’article 33.1.
+
 3. Si un règlement adopté par le comité des plaintes en vertu de l’article 31.1 prévoit la publication du règlement ou d’un résumé ou d’une partie de celui-ci dans la publication officielle de l’Ordre, le règlement, le résumé ou la partie.
+
 4. Une décision du comité d’aptitude professionnelle selon laquelle une allégation d’incapacité n’était pas fondée, sur demande du membre en cause.
 
 ### Exception : allégations non fondées
@@ -1681,7 +2105,9 @@ e) traiter de toute autre question que le lieutenant-gouverneur en conseil juge 
 ### Suppression de renseignements
 
 (7) Si l’indication d’une décision ou d’un règlement est supprimée du tableau, ou encore si un autre renseignement précisé est supprimé du tableau en application du paragraphe 29 (2.2), l’Ordre peut supprimer la décision, le règlement ou l’autre renseignement précisé :
+
 a) de son site Web;
+
 b) de tout autre site Web sur lequel il a publié les renseignements en vertu du paragraphe (4), conformément aux règlements, le cas échéant.
 
 ### Rapports de l’employeur : cessation d’emploi ou autre
@@ -1699,7 +2125,9 @@ b) de tout autre site Web sur lequel il a publié les renseignements en vertu du
 ### Idem
 
 (4) S’il dépose un rapport auprès du registrateur en application du paragraphe (1), (2) ou (3), l’employeur :
+
 a) en remet simultanément une copie au membre;
+
 b) dans les 30 jours du dépôt du rapport, remet au registrateur tout autre renseignement en sa possession concernant la faute professionnelle commise par le membre.
 
 ### Idem
@@ -1717,14 +2145,19 @@ b) dans les 30 jours du dépôt du rapport, remet au registrateur tout autre ren
 ### Idem
 
 (7) Les employeurs qui doivent recevoir le rapport visé au paragraphe (6) sont les suivants :
+
 1. Un employeur qui emploie le membre au moment où le rapport visé au paragraphe (6) est fait.
+
 2. L’employeur qui a fait le rapport à l’égard du membre en application du paragraphe (1), (2) ou (3).
 
 ### Restrictions
 
 (8) Pour l’application du présent article, les restrictions dont les fonctions d’un membre sont assorties sont notamment :
+
 a) des restrictions quant à son droit d’exercer sans supervision;
+
 b) des restrictions quant aux services ou activités visés à l’article 2 auxquels il peut participer;
+
 c) toute autre restriction prescrite par les règlements.
 
 ### Interprétation
@@ -1738,8 +2171,11 @@ c) toute autre restriction prescrite par les règlements.
 ### Rapport de l’employeur sur certaines infractions et conduites
 
 49.2 (1) L’employeur fait un rapport écrit au registrateur lorsqu’il apprend qu’un membre de l’Ordre qui est ou a été employé par lui à titre d’éducateur de la petite enfance :
+
 a) soit a été accusé ou déclaré coupable d’une infraction au Code criminel (Canada) liée à un comportement d’ordre sexuel et à des mineurs;
+
 b) soit a été accusé ou déclaré coupable d’une infraction au Code criminel (Canada) qui, de l’avis de l’employeur, donne à penser qu’un enfant pourrait être exposé à un préjudice ou à des blessures;
+
 c) soit s’est conduit ou a agi d’une façon qui, de l’avis de l’employeur, devrait être examinée par un comité de l’Ordre.
 
 ### Délai de dépôt du rapport
@@ -1749,7 +2185,9 @@ c) soit s’est conduit ou a agi d’une façon qui, de l’avis de l’employeu
 ### Idem
 
 (3) S’il fait un rapport au registrateur en application du paragraphe (1), l’employeur :
+
 a) en remet simultanément une copie au membre;
+
 b) dans les 30 jours du dépôt du rapport, remet au registrateur tout autre renseignement en sa possession concernant l’accusation, la déclaration de culpabilité, la conduite ou l’acte.
 
 ### Idem
@@ -1779,7 +2217,9 @@ b) dans les 30 jours du dépôt du rapport, remet au registrateur tout autre ren
 ### Idem
 
 (8) Les employeurs qui doivent recevoir le rapport visé au paragraphe (7) sont les suivants :
+
 1. Un employeur qui emploie le membre au moment où le rapport visé au paragraphe (7) est fait.
+
 2. L’employeur qui a fait le rapport à l’égard du membre en application du paragraphe (1).
 
 ### Rapport de l’employeur réputé une plainte
@@ -1789,20 +2229,31 @@ b) dans les 30 jours du dépôt du rapport, remet au registrateur tout autre ren
 ### Rapport de l’Ordre aux employeurs
 
 49.3 (1) L’Ordre fournit aux employeurs énumérés au paragraphe (2) les renseignements concernant certaines décisions et ordonnances rendues dans le cadre de la présente loi, conformément aux règles suivantes :
+
 1. Lorsqu’une décision concernant un membre de l’Ordre est rendue en application du paragraphe 31 (5), le registrateur remet à l’employeur les documents visés au paragraphe 31 (7).
+
 1.1 Lorsqu’une question concernant un membre est renvoyée en vertu du paragraphe 31 (9), le registrateur en avise l’employeur.
+
 1.2 Lorsqu’un ordre est donné à l’égard d’un membre en vertu du paragraphe 32 (1), le registrateur en avise l’employeur.
+
 2. Lorsqu’une ordonnance concernant un membre est rendue en vertu du paragraphe 32 (3), le registrateur en remet une copie à l’employeur.
+
 2.1 Lorsqu’une ordonnance provisoire concernant un membre est rendue en vertu du paragraphe 32.2 (1), le registrateur en remet une copie à l’employeur du membre.
+
 3. Lorsqu’une ordonnance concernant un membre est rendue en application de l’article 33 ou 34, le comité de discipline ou le comité d’aptitude professionnelle, selon le cas, remet à l’employeur les mêmes documents que ceux signifiés aux parties en application du paragraphe 35 (15).
+
 4. Lorsqu’une décision concernant un membre est rendue en vertu de l’article 36, le comité de discipline ou le comité d’aptitude professionnelle, selon le cas, remet à l’employeur les mêmes documents que ceux signifiés aux parties en application du paragraphe 36 (13) ou (14).
+
 5. Lorsqu’une ordonnance concernant un membre est rendue en vertu de l’article 37, le registrateur en remet une copie à l’employeur du membre.
+
 6. Lorsqu’une ordonnance judiciaire concernant un membre est rendue en vertu de l’article 38, le registrateur en remet une copie, accompagnée des motifs, s’il en est, à l’employeur du membre.
 
 ### Employeurs
 
 (2) Les employeurs suivants sont ceux qui doivent recevoir les renseignements visés au paragraphe (1) :
+
 1. L’employeur qui employait le membre au moment où la décision ou l’ordonnance pertinente visée au paragraphe (1) a été rendue, si l’Ordre a connaissance de cet emploi.
+
 2. L’employeur qui a fait un rapport concernant le membre en application de l’article 49.1 ou 49.2, si l’objet du rapport est lié à la décision ou à l’ordonnance visée au paragraphe (1).
 
 ### Plainte refusée
@@ -1816,7 +2267,9 @@ b) dans les 30 jours du dépôt du rapport, remet au registrateur tout autre ren
 ### Parents comme employeurs
 
 (2) Les articles 49.1, 49.2 et 49.3 ne s’appliquent pas :
+
 a) à un employeur à l’égard d’un membre qui assure la garde ou la surveillance temporaire d’un enfant, si l’employeur est le parent de l’enfant;
+
 b) à un employeur prescrit.
 
 ### Définitions
@@ -1846,22 +2299,35 @@ b) à un employeur prescrit.
 ### Idem
 
 (3) Les mesures visant à prévenir les mauvais traitements d’ordre sexuel infligés à des enfants et à traiter de ceux-ci doivent comprendre ce qui suit :
+
 a) les exigences en matière d’études auxquelles doivent satisfaire les membres;
+
 b) les principes directeurs régissant la conduite des membres avec les enfants;
+
 c) la formation à donner au personnel de l’Ordre;
+
 d) la communication de renseignements au public;
+
 e) les autres mesures prescrites par règlement.
 
 ### Secret professionnel
 
 51 (1) Quiconque est employé ou nommé pour appliquer la présente loi ou dont les services sont retenus à cette fin, ainsi que les membres d’un conseil ou d’un comité de l’Ordre, préservent le caractère confidentiel des renseignements venant à leur connaissance dans l’exercice de leurs fonctions et ne doivent rien en divulguer à qui que ce soit, sauf :
+
 a) dans le cadre de l’application de la présente loi, de la Loi sur l’éducation ou de la Loi de 2014 sur la garde d’enfants et la petite enfance, notamment de tout ce qui se rapporte à l’inscription des membres, aux plaintes concernant les membres, aux allégations d’incapacité, d’incompétence ou de faute professionnelle de la part des membres ou à la régie de la profession;
+
 b) à leur avocat;
+
 c) avec le consentement de la personne à laquelle se rapportent les renseignements;
+
 d) dans la mesure où les renseignements sont accessibles au public en vertu de la présente loi;
+
 e) à un agent de la paix ou à un organisme d’exécution de la loi, afin de faciliter une enquête menée en vue d’une procédure d’application de la loi ou qui aboutira vraisemblablement à une telle procédure;
+
 f) à un organisme qui régit une profession en Ontario ou ailleurs;
+
 g) si la loi l’exige par ailleurs.
+
 (2) Abrogé : 2014, chap. 11, annexe 3, par. 30 (5).
 
 ### Restriction
@@ -1883,6 +2349,7 @@ g) si la loi l’exige par ailleurs.
 ### Définition
 
 (7) La définition qui suit s’applique au présent article.
+
 «exécution de la loi» S’entend au sens de la Loi sur l’accès à l’information et la protection de la vie privée.
 
 ### Renseignements et divulgation
@@ -1906,6 +2373,7 @@ g) si la loi l’exige par ailleurs.
 ### Définition
 
 (5) La définition qui suit s’applique au présent article.
+
 «renseignements personnels» S’entend au sens de l’article 38 de la Loi sur l’accès à l’information et la protection de la vie privée et de l’article 28 de la Loi sur l’accès à l’information municipale et la protection de la vie privée.
 
 ### Garantie de prêts
@@ -1919,8 +2387,11 @@ g) si la loi l’exige par ailleurs.
 ### Signification
 
 53 (1) L’avis ou le document qui doit être donné, remis ou signifié en application de la présente loi l’est suffisamment s’il est :
+
 a) soit remis à personne;
+
 b) soit envoyé par la poste;
+
 c) soit donné, remis ou signifié conformément aux règlements administratifs portant sur la signification.
 
 ### Idem
@@ -1972,10 +2443,15 @@ c) soit donné, remis ou signifié conformément aux règlements administratifs 
 ### Contenu du rapport
 
 (3) Le rapport doit contenir :
+
 a) le nom du membre qui dépose le rapport;
+
 b) la nature de l’infraction et une description de celle-ci;
+
 c) la date à laquelle le membre a été déclaré coupable de l’infraction;
+
 d) le nom et l’emplacement du tribunal qui a déclaré le membre coupable de l’infraction;
+
 e) l’état de tout appel interjeté à l’égard de la déclaration de culpabilité.
 
 ### Publication interdite
@@ -2001,12 +2477,19 @@ e) l’état de tout appel interjeté à l’égard de la déclaration de culpab
 ### Contenu du rapport
 
 (3) Le rapport doit contenir :
+
 a) le nom du membre qui dépose le rapport;
+
 b) la nature de l’accusation et une description de celle-ci;
+
 c) la date à laquelle l’accusation a été portée contre le membre;
+
 d) le nom et l’emplacement du tribunal où l’accusation a été portée contre le membre ou où la condition de mise en liberté sous caution ou la restriction lui a été imposée ou dont il a convenu;
+
 e) chaque condition de mise en liberté sous caution imposée au membre par suite de l’accusation;
+
 f) toute autre restriction imposée au membre ou dont il a convenu relativement à l’accusation;
+
 g) l’état de toute instance relative à l’accusation.
 
 ### Publication interdite
@@ -2026,6 +2509,7 @@ g) l’état de toute instance relative à l’accusation.
 ### Définition
 
 58 (1) La définition qui suit s’applique au présent article.
+
 «date de référence» Jour de l’entrée en vigueur de l’article 33 de l’annexe 3 de la Loi de 2014 sur la modernisation des services de garde d’enfants.
 
 ### Dispense de l’obligation d’être titulaire d’un certificat d’inscription
@@ -2039,21 +2523,33 @@ g) l’état de toute instance relative à l’accusation.
 ### Questions introduites avant la date de référence
 
 (4) Si, avant la date de référence, une plainte a été déposée aux termes du paragraphe 31 (1) ou une demande présentée en vertu du paragraphe 36 (1) ou (2), les règles suivantes s’appliquent :
+
 1. La plainte ne doit pas être refusée du fait qu’elle est manifestement dénuée de fondement ou est déposée dans un but illégitime ou pour un motif énoncé à l’alinéa 31 (2) c).
+
 2. Les modifications apportées par l’annexe 3 de la Loi de 2014 sur la modernisation des services de garde d’enfants aux paragraphes 29 (2) et (2.5) de la présente loi, s’appliquent à la question, sauf si une ordonnance a été rendue à l’égard de la question en vertu du paragraphe 33 (4), 34 (3) ou 36 (6) avant la date de référence.
+
 3. Sauf si une ordonnance a été rendue à l’égard de la question en vertu du paragraphe 33 (4), 34 (3) ou 36 (6) avant la date de référence, lorsqu’il traite la question, le registrateur ou un comité, selon le cas, applique dans la mesure du possible les modifications apportées par l’annexe 3 de la Loi de 2014 sur la modernisation des services de garde d’enfants aux parties IV, V et VI de la présente loi sans toutefois être obligé :
+
 i. soit de revenir à un stade antérieur ou de répéter des étapes antérieures pour traiter la question,
+
 ii. soit de modifier une décision prise avant la date de référence.
+
 4. La disposition 3 ne s’applique pas dans le cadre de l’article 33.2 et des paragraphes 36 (4.1) et 37 (2).
+
 5. Malgré la disposition 3, le paragraphe 31 (4.1) ne s’applique pas dans le cas des explications ou des observations qui ont été présentées aux termes de l’alinéa 31 (3) b) avant la date de référence.
+
 6. Malgré la disposition 3, l’article 31.2 ne s’applique pas à la question.
+
 7. L’article 49 s’applique à la question sauf si une ordonnance a été rendue à l’égard de la question en vertu du paragraphe 33 (4), 34 (3) ou 36 (6) avant la date de référence.
 
 ### Tableau
 
 (5) Pour l’application des alinéas 29 (2) b), b.1) et d.1), le tableau n’a pas à contenir les renseignements suivants sauf ceux qu’il devait contenir avant la date de référence :
+
 1. Les conditions ou les restrictions dont un certificat a été assorti avant la date de référence.
+
 2. Les restrictions au droit d’exercer du membre qui ont été imposées avant la date de référence.
+
 3. Les renseignements concernant des instances criminelles qui ont été fournis au registrateur avant la date de référence.
 
 ### Idem
@@ -2091,6 +2587,7 @@ ii. soit de modifier une décision prise avant la date de référence.
 ### Disposition transitoire : Loi de 2023 sur l’amélioration des écoles et du rendement des élèves
 
 59.1.2 (1) La définition qui suit s’applique au présent article.
+
 «date de transition» Le jour de l’entrée en vigueur du paragraphe 1 (1) de l’annexe 1 de la Loi de 2023 sur l’amélioration des écoles et du rendement des élèves.
 
 ### Disposition transitoire : par. 31 (5)
@@ -2110,7 +2607,9 @@ ii. soit de modifier une décision prise avant la date de référence.
 ### Fonds alloués par l’Ordre
 
 59.2 (1) L’Ordre crée et administre un programme afin d’allouer des fonds aux fins suivantes relativement à des allégations de mauvais traitements d’ordre sexuel, d’actes sexuels prescrits ou d’actes interdits impliquant de la pornographie juvénile de la part de membres :
+
 1. La thérapie et les consultations destinées à l’enfant qui fait l’objet de mauvais traitements d’ordre sexuel, d’actes sexuels prescrits ou d’actes interdits impliquant de la pornographie juvénile au sujet desquels une allégation a été faite contre un membre.
+
 2. Les autres fins que prescrivent les règlements pris en vertu de l’alinéa 45 (1) d.3).
 
 ### Fonds régis par les règlements
@@ -2120,7 +2619,9 @@ ii. soit de modifier une décision prise avant la date de référence.
 ### Admissibilité
 
 (3) Une personne est admissible à des fonds, si, selon le cas :
+
 a) il est allégué, dans une plainte ou un rapport contre un membre que l’Ordre a reçu, que l’enfant a fait l’objet de mauvais traitements d’ordre sexuel, d’actes sexuels prescrits ou d’actes interdits impliquant de la pornographie juvénile et, de l’avis de l’Ordre, les activités professionnelles du membre facilitaient la relation entre l’élève et le membre, ou l’accès du membre à l’élève;
+
 b) il est satisfait aux autres exigences que prescrivent les règlements pris par le conseil.
 
 ### Délai
@@ -2142,8 +2643,11 @@ b) il est satisfait aux autres exigences que prescrivent les règlements pris pa
 ### Choix d’un thérapeute ou d’un conseiller
 
 (8) La personne qui est admissible à des fonds en application du paragraphe (3) a le droit de choisir un thérapeute ou un conseiller, sous réserve des restrictions suivantes :
+
 1. Le thérapeute ou le conseiller ne doit pas être une personne avec laquelle la personne admissible a des liens de parenté.
+
 2. Le thérapeute ou le conseiller ne doit pas être une personne qui, à la connaissance de l’Ordre, a été déclarée, à quelque moment ou dans quelque ressort que ce soit, coupable d’une faute professionnelle d’ordre sexuel ou civilement ou criminellement responsable d’un acte de nature semblable.
+
 3. Si le thérapeute ou le conseiller n’est pas un professionnel de la santé, l’Ordre peut exiger de la personne qu’elle signe un document indiquant qu’elle comprend que le thérapeute ou le conseiller n’est pas soumis à la discipline d’une profession.
 
 ### Versement
@@ -2165,13 +2669,19 @@ b) il est satisfait aux autres exigences que prescrivent les règlements pris pa
 ### Droit de recouvrement
 
 (13) L’Ordre a le droit de recouvrer auprès du membre, dans le cadre d’une instance introduite devant un tribunal compétent, toute somme d’argent versée conformément au présent article à l’égard d’une personne admissible si le comité de discipline a conclu ce qui suit :
+
 a) le membre a commis une faute professionnelle qui consistait en des mauvais traitements d’ordre sexuel, des actes sexuels prescrits ou des actes interdits impliquant de la pornographie juvénile, ou en comprenait;
+
 b) la personne admissible a fait l’objet des mauvais traitements d’ordre sexuel,, des actes sexuels prescrits ou des actes interdits impliquant de la pornographie juvénile.
 
 ### Personne non tenue de témoigner
 
 (14) La personne admissible n’est pas tenue de comparaître ni de témoigner dans l’instance visée au paragraphe (13).
+
 60 -68 Abrogée : 2014, chap. 11, annexe 3, art. 34.
+
 69 Omis (modifie ou abroge d’autres lois).
+
 70 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 71 Omis (édicte le titre abrégé de la présente loi).

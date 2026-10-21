@@ -6,29 +6,40 @@ language: en
 type: act
 document_date: "2022-03-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21i08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Invest Ontario Act, 2021
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21i08) before relying on it.
 
 S.O. 2021, c. 8, Sched. 6
 
 ### Interpretation
 
 1 In this Act,
+
 “Corporation” means Invest Ontario; (“Société”)
+
 “Minister” means the Minister of Economic Development, Job Creation and Trade or the minister of the Crown to whom the powers and duties under this Act are assigned or transferred under the Executive Council Act; (“ministre”)
+
 “regional partner” includes,
+
 (a) a municipal or regional economic development organization,
+
 (b) an innovation organization,
+
 (c) a post-secondary institution,
+
 (d) a workforce development organization,
+
 (e) an industry or trade association,
+
 (f) a federal government organization, and
+
 (g) any other organization or entity prescribed by the regulations; (“partenaire régional”)
+
 “subsidiary” means a corporation that is a subsidiary of the Corporation. (“filiale”)
 
 ### Corporation continued
@@ -54,19 +65,33 @@ S.O. 2021, c. 8, Sched. 6
 ### Objects
 
 3 The Corporation’s objects are,
+
 (a) to secure private sector strategic business and capital investments that support economic development, resiliency and job creation in Ontario by,
+
 (i) proactively identifying and cultivating potential investors or investments (generating leads), and implementing a sales-driven approach,
+
 (ii) pursuing an investment strategy that includes sector-specific strategies to attract investment opportunities that support the growth of firms in Ontario,
+
 (iii) identifying and developing relationships with potential investors within key sectors identified by the Minister for the purposes of encouraging and securing investment in Ontario,
+
 (iv) providing customized services to assist investors with selecting a physical location for a potential investment (site selection) and navigating the province’s regulatory environment and permitting requirements,
+
 (v) providing a co-ordinated and streamlined investment experience that gives companies access to business development teams and a set of tools, services, credits, incentives and supports customized to address investor needs, whether provided by the Crown, the government, a ministry, a Crown agency or board, commission, authority or unincorporated body of the Crown, or a regional partner,
+
 (vi) leveraging the expertise of the business community, regional partners and other levels of government to inform the Corporation and the Minister on investment priorities and to enhance co-ordination with regional partners on investment opportunities in Ontario,
+
 (vii) providing financial assistance and incentives to promote Ontario’s overall economic competitiveness and to promote growth in Ontario,
+
 (viii) focusing efforts on attracting investments to Ontario that offer the greatest sustained benefits and that are aligned with government priorities,
+
 (ix) ensuring that the results and benefits of Invest Ontario’s activities are publicly reported in a transparent manner, and
+
 (x) co-operating with the domestic and international business community, other levels of government, ministries, Crown agencies and boards, commissions, authorities and unincorporated bodies of the Crown, and regional partners in order to benefit Ontario;
+
 (b) to conduct such further activities, consistent with its objects, as are described in any policies or directives issued by the Minister or as set out in any agreement with the Minister;
+
 (c) to receive, hold, sell, invest and otherwise deal with its assets in carrying out its objects; and
+
 (d) to carry out such other objects as are prescribed by the regulations.
 
 ### Crown agent
@@ -116,9 +141,13 @@ S.O. 2021, c. 8, Sched. 6
 ### Same
 
 (2) Without limiting the generality of subsection (1), the board of directors may pass by-laws and resolutions to,
+
 (a) appoint officers and assign to them such powers and duties as the board of directors considers appropriate;
+
 (b) establish committees of the board of directors and delegate powers and duties to such committees;
+
 (c) govern the remuneration and benefits of employees of the Corporation; and
+
 (d) effect the orderly transaction of the business of the Corporation.
 
 ### Minister’s approval
@@ -164,24 +193,35 @@ S.O. 2021, c. 8, Sched. 6
 ### Limit on powers, approval of Lieutenant Governor in Council
 
 11 The Corporation or a subsidiary shall not, except with the approval of the Lieutenant Governor in Council,
+
 (a) acquire, hold or dispose of any interest in real property; or
+
 (b) incorporate a subsidiary.
 
 ### Limit on powers re borrowing
 
 12 (1) The Corporation or a subsidiary shall not borrow or manage financial risks unless,
+
 (a) a by-law of the Corporation or subsidiary, as the case may be, authorizes the activity and the Minister and the Minister of Finance have approved the by-law; and
+
 (b) subject to subsection (3), the Ontario Financing Authority co-ordinates and arranges the activity.
 
 ### Temporary investments
 
 (2) The Corporation may temporarily invest money not immediately required to carry out its objects, but only if,
+
 (a) a by-law of the Corporation authorizes the investments, which shall be selected from the following:
+
 (i) securities issued or guaranteed as to principal and interest by Ontario, Canada, or another province or territory of Canada,
+
 (ii) guaranteed investment certificates of a trust corporation that is registered under the Loan and Trust Corporations Act,
+
 (iii) deposit receipts, term deposits, deposit notes, certificates of deposit or investment, banker’s acceptances or other similar instruments issued, guaranteed or endorsed by a bank listed in Schedule I or II to the Bank Act (Canada), or
+
 (iv) guaranteed investment certificates, deposit receipts, term deposits, deposit notes, certificates of deposit or investment or other similar instruments that are issued, guaranteed or endorsed by a credit union within the meaning of the Credit Unions and Caisses Populaires Act, 2020;
+
 (b) the Minister and the Minister of Finance have approved the by-law mentioned in clause (a); and
+
 (c) subject to subsection (3), the Ontario Financing Authority co-ordinates and arranges the investments.
 
 ### Direction of Minister of Finance
@@ -215,13 +255,17 @@ S.O. 2021, c. 8, Sched. 6
 ### Immunity of employees and others
 
 15 (1) No cause of action arises against,
+
 (a) a director, officer or employee of the Corporation or a subsidiary as a result of any act done in good faith in the performance or intended performance of his or her duties or any alleged neglect or default in the performance in good faith of his or her duties; or
+
 (b) the Crown, a minister of the Crown or an employee or officer of the Crown as a result of any act or omission of a person who is not a minister of the Crown or a Crown employee or officer, if the act or omission is related, directly or indirectly, to the Corporation’s or subsidiary’s affairs or to the administration of this Act.
 
 ### No proceeding
 
 (2) No proceeding, including but not limited to a proceeding for a remedy in contract, restitution, tort or trust, shall be instituted against,
+
 (a) a director, officer or employee of the Corporation or a subsidiary by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (a); or
+
 (b) the Crown, a minister of the Crown or an employee or officer of the Crown by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (b).
 
 ### Liability of Corporation preserved
@@ -251,7 +295,9 @@ S.O. 2021, c. 8, Sched. 6
 ### Directives re annual report
 
 (3) The Corporation shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report; and
+
 (b) when and how to make it available to the public.
 
 ### Additional content
@@ -269,9 +315,13 @@ S.O. 2021, c. 8, Sched. 6
 ### Same
 
 (2) The business plan must be based on a five-year cycle and contain,
+
 (a) the Corporation’s proposed operating budget for the fiscal year and the next two fiscal years;
+
 (b) the Corporation’s projected revenues and their sources;
+
 (c) the Corporation’s performance targets for the next fiscal year; and
+
 (d) any other information required by the Minister.
 
 ### Other reports
@@ -305,15 +355,23 @@ S.O. 2021, c. 8, Sched. 6
 ### Winding up
 
 24 If the Lieutenant Governor in Council considers it to be in the public interest to wind up the affairs of the Corporation, he or she may do all things necessary to accomplish that, including dealing with the assets of the Corporation by,
+
 (a) liquidating or selling the assets and paying the proceeds into the Consolidated Revenue Fund; or
+
 (b) transferring the assets to the Crown or another agency of the Crown.
 
 ### Regulations
 
 25 The Lieutenant Governor in Council may make regulations respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act and, without limiting the generality of the foregoing, may make regulations,
+
 (a) prescribing anything referred to in this Act as being prescribed by the regulations;
+
 (b) governing the manner in which the Corporation carries out its objects.
+
 26 Omitted (provides for amendments to this Act).
+
 27 Omitted (amends, repeals or revokes other legislation).
+
 28 Omitted (provides for coming into force of provisions of this Act).
+
 29 Omitted (enacts short title of this Act).

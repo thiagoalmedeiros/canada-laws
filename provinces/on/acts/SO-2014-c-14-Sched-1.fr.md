@@ -6,42 +6,58 @@ language: fr
 type: act
 document_date: "2014-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14v14"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # don de sang volontaire (Loi de 2014 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14v14) before relying on it.
 
 L.O. 2014, chap. 14, annexe 1
 
 ### Objet
 
 1 La présente loi a pour objet de prévoir la reconnaissance des principes suivants :
+
 1. Le don de sang est considéré comme une ressource publique au sein du système de soins de santé de l’Ontario.
+
 ‎ 2. Les donneurs de sang ne devraient recevoir aucun paiement, sauf circonstances exceptionnelles.
+
 3. ‎L’intégrité du système public de dons de sang volontaires en Ontario doit être protégée.
 
 ### Définitions
 
 2 Les définitions qui suivent s’appliquent à la présente loi.
+
 «arrêté de conformité» Arrêté pris en vertu de l’article 5. («compliance order»)
+
 «dossier» S’entend notamment d’un dossier qui comprend des renseignements personnels. («record»)
+
 «établissement de collecte de sang» Lieu où du sang est recueilli ou prélevé sur le corps humain. («blood collection facility»)
+
 «inspecteur» Inspecteur nommé en vertu de l’article 4. («inspector»)
+
 «ministre» Le ministre de la Santé et des Soins de longue durée ou, si la responsabilité de l’application de la présente loi a été assignée à un autre ministre en vertu de la Loi sur le Conseil exécutif, cet autre ministre. («Minister»)
+
 «offrir de fournir» Sans que soit restreint le sens courant de l’expression, s’entend notamment d’une offre par le biais de publicités dans tout média. («offer to provide»)
+
 «ordonnance de ne pas faire» Ordonnance rendue en vertu de l’article 6. («restraining order»)
+
 «paiement» Sous réserve des règlements, une rémunération, une indemnité ou une contrepartie de quelque valeur et de quelque nature que ce soit, y compris un remboursement au titre du temps consacré au don de sang ou de composants sanguins, des déplacements effectués à cette fin, de l’engagement pris dans ce but ou des dépenses de toute sorte engagées à cette fin. («payment»)
+
 «règlements» Règlements pris en vertu de la présente loi. («regulations»)
+
 «renseignements personnels» S’entend notamment de renseignements personnels au sens de la Loi sur l’accès à l’information et la protection de la vie privée et de renseignements personnels sur la santé au sens de la Loi de 2004 sur la protection des renseignements personnels sur la santé. («personal information»)
+
 «sang» S’entend du sang humain et, en outre, du sang total et de composants sanguins. («blood»)
 
 ### Paiement interdit : don de sang
 
 3 (1) Nul ne doit :
+
 a) fournir, directement ou indirectement, un paiement à tout particulier en échange du don de son sang;
+
 b) offrir de fournir, directement ou indirectement, un paiement à tout particulier en échange du don de son sang.
 
 ### Idem : donneur
@@ -67,8 +83,11 @@ b) offrir de fournir, directement ou indirectement, un paiement à tout particul
 ### Inspection
 
 (2) Pour déterminer si la présente loi est observée, un inspecteur peut, sans mandat, pénétrer dans les endroits énumérés ci-dessous et en faire l’inspection :
+
 a) un établissement de collecte de sang;
+
 b) les locaux commerciaux d’une entreprise qui est propriétaire ou exploitante d’un ou de plusieurs établissements de collecte de sang ou qui franchise ou concède de tels établissements;
+
 c) tout lieu qu’il croit, en se fondant sur des motifs raisonnables, être utilisé comme établissement de collecte de sang.
 
 ### Heure d’entrée
@@ -90,12 +109,19 @@ c) tout lieu qu’il croit, en se fondant sur des motifs raisonnables, être uti
 ### Pouvoirs de l’inspecteur
 
 (7) L’inspecteur qui fait une inspection peut :
+
 a) examiner des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 b) demander formellement la production de dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 c) enlever, pour procéder à des examens, des analyses ou des tests, des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 d) enlever, pour en tirer des copies, des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 e) afin de produire un dossier sous une forme lisible, recourir aux dispositifs ou systèmes de stockage, de traitement ou de récupération des données qui sont utilisés habituellement dans le cadre des activités du lieu;
+
 f) prendre des photographies ou procéder à tout autre genre d’enregistrement;
+
 g) interroger des personnes sur des questions qui se rapportent à l’inspection.
 
 ### Demande formelle par écrit
@@ -109,7 +135,9 @@ g) interroger des personnes sur des questions qui se rapportent à l’inspectio
 ### Enlèvement de dossiers et de choses
 
 (10) Les dossiers ou autres choses enlevés pour examen, analyse, test ou copie sont :
+
 a) mis à la disposition de la personne à qui ils ont été enlevés, à la demande de celle-ci et aux date, heure et lieu qui conviennent à cette personne et à l’inspecteur;
+
 b) restitués à cette personne dans un délai raisonnable, sauf si, dans le cas d’une chose qui a fait l’objet de tests, la restitution de la chose est inappropriée à la suite de ces tests.
 
 ### Copie admissible en preuve
@@ -143,8 +171,11 @@ b) restitués à cette personne dans un délai raisonnable, sauf si, dans le cas
 ### Preuve de la signification
 
 (6) L’attestation de signification donnée par la personne qui a signifié un document en application du présent article constitue la preuve de la signification du document au destinataire et de sa réception par ce dernier si, dans l’attestation, la personne qui a signifié le document prend les mesures suivantes :
+
 a) elle atteste que la copie du document en est une copie conforme;
+
 b) elle atteste que le document a été signifié au destinataire;
+
 c) elle indique le mode de signification utilisé.
 
 ### Copie de l’arrêté
@@ -186,11 +217,17 @@ c) elle indique le mode de signification utilisé.
 ### Infractions
 
 8 (1) Quiconque contrevient à une disposition de la présente loi est coupable d’une infraction et passible, sur déclaration de culpabilité :
+
 a) dans le cas d’un particulier :
+
 (i) pour une première infraction, d’une amende maximale de 10 000 $ pour chaque jour ou fraction de jour où l’infraction se commet ou se poursuit,
+
 (ii) pour une infraction subséquente, d’une amende maximale de 50 000 $ pour chaque jour ou fraction de jour où l’infraction se commet ou se poursuit;
+
 b) dans le cas d’une personne morale :
+
 (i) pour une première infraction, d’une amende maximale de 100 000 $ pour chaque jour ou fraction de jour où l’infraction se commet ou se poursuit,
+
 (ii) pour une infraction subséquente, d’une amende maximale de 500 000 $ pour chaque jour ou fraction de jour où l’infraction se commet ou se poursuit.
 
 ### Aucune restriction
@@ -224,11 +261,19 @@ b) dans le cas d’une personne morale :
 ### Règlements : lieutenant-gouverneur en conseil
 
 11 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) définir des termes qui sont utilisés dans la présente loi, mais qui n’y sont pas définis;
+
 b) clarifier la définition de «paiement» à l’article 2 et préciser ce qui constitue ou non un paiement pour l’application de la Loi;
+
 c) clarifier davantage le sens de l’expression «uniquement à des fins de recherche» utilisée à l’article 3;
+
 d) préciser des exigences ou des conditions à l’égard de la collecte, de l’utilisation ou de la divulgation de renseignements personnels par le ministre ou un inspecteur en application de la présente loi;
+
 e) traiter de la réalisation de l’objet de la présente loi et de l’application de ses dispositions.
+
 12. à 15 Omis (modification de dispositions de la présente loi).
+
 16 Omis (entrée en vigueur de dispositions de la présente loi).
+
 17 Omis (édiction du titre abrégé de la présente loi).

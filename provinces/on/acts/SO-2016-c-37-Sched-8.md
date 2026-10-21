@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16f37"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Financial Services Regulatory Authority of Ontario Act, 2016
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16f37) before relying on it.
 
 S.O. 2016, c. 37, Sched. 8
 
@@ -21,30 +21,51 @@ S.O. 2016, c. 37, Sched. 8
 ### Definitions
 
 1 (1) In this Act,
+
 “Authority” means the Financial Services Regulatory Authority of Ontario continued under subsection 2 (1); (“Autorité”)
+
 “Chief Executive Officer” means the Chief Executive Officer appointed under subsection 10 (2); (“directeur général”)
+
 “credit union” and “deposit” have the same meanings as in the Credit Unions and Caisses Populaires Act, 2020; (“caisse”, “caisse populaire”, “dépôt”)
+
 “DICO” means the Deposit Insurance Corporation of Ontario continued under section 249 of the Credit Unions and Caisses Populaires Act, 1994 as it read before its repeal; (“SOAD”)
+
 “Financial Services Tribunal” means the Financial Services Tribunal continued under the Financial Services Tribunal Act, 2017; (“Tribunal des services financiers”)
+
 “FSCO” means the former Financial Services Commission of Ontario that was established under the repealed Financial Services Commission of Ontario Act, 1997; (“CSFO”)
+
 “Minister” means the Minister of Finance or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “predecessor Authority” means the Financial Services Regulatory Authority of Ontario continued under subsection 2 (1) as that subsection read immediately before section 2 of Schedule 17 to the Restoring Trust, Transparency and Accountability Act, 2018 comes into force; (“ancienne Autorité”)
+
 “regulated sector” means a sector that is subject to,
+
 (a) the Credit Unions and Caisses Populaires Act, 2020,
+
 (a.1) the Financial Professionals Title Protection Act, 2019,
+
 (b) the Insurance Act,
+
 (c) the Loan and Trust Corporations Act,
+
 (d) the Mortgage Brokerages, Lenders and Administrators Act, 2006,
+
 (e) the Pension Benefits Act,
+
 (f) the Pooled Registered Pension Plans Act, 2015, or
+
 (g) such other legislation as may be prescribed; (“secteur réglementé”)
+
 “Superintendent of Financial Services” means the former position of Superintendent of Financial Services under the repealed Financial Services Commission of Ontario Act, 1997. (“surintendent des services financiers”)
 
 ### Pension sector
 
 (2) For the purposes of clause (e) of the definition of “regulated sector” in subsection (1), the following persons are included in the sector that is subject to the Pension Benefits Act:
+
 1. All persons who establish or administer a pension plan within the meaning of the Pension Benefits Act and all employers or other persons on their behalf who are required to contribute to any such pension plan.
+
 2. Any agent of a person who administers a pension plan within the meaning of the Pension Benefits Act.
+
 3. Persons prescribed for the purposes of subsection 22 (6) of the Pension Benefits Act.
 
 ### Establishment, Objects, Powers, etc.
@@ -64,33 +85,49 @@ S.O. 2016, c. 37, Sched. 8
 ### Objects of the Authority
 
 3 (1) The objects of the Authority are,
+
 (a) to regulate and generally supervise the regulated sectors;
+
 (b) to contribute to public confidence in the regulated sectors;
+
 (c) to monitor and evaluate developments and trends in the regulated sectors;
+
 (d) to cooperate and collaborate with other regulators where appropriate;
+
 (e) to promote public education and knowledge about the regulated sectors;
+
 (f) to promote transparency and disclosure of information by the regulated sectors;
+
 (g) to deter deceptive or fraudulent conduct, practices and activities by the regulated sectors; and
+
 (h) to carry out such other objects as may be prescribed.
 
 ### Same, financial services sectors
 
 (2) In addition to the objects set out in subsection (1), the objects of the Authority in respect of the financial services sectors are,
+
 (a) to promote high standards of business conduct;
+
 (b) to protect the rights and interests of consumers; and
+
 (c) to foster strong, sustainable, competitive and innovative financial services sectors.
 
 ### Same, pension plans
 
 (3) In addition to the objects set out in subsection (1), the objects of the Authority in respect of pension plans are,
+
 (a) to promote good administration of pension plans; and
+
 (b) to protect and safeguard the pension benefits and rights of pension plan beneficiaries.
 
 ### Same, credit unions
 
 (4) In addition to the objects set out in subsections (1) and (2), the objects of the Authority in respect of credit unions are,
+
 (a) to provide insurance against the loss of part or all of deposits with credit unions;
+
 (b) to promote and otherwise contribute to the stability of the credit union sector in Ontario with due regard to the need to allow credit unions to compete effectively while taking reasonable risks; and
+
 (c) to pursue the objects set out in clauses (a) and (b) for the benefit of persons having deposits with credit unions and in such manner as will minimize the exposure of the Deposit Insurance Reserve Fund to loss.
 
 ### Objects of the Authority, Financial Professionals Title Protection Act, 2019
@@ -100,6 +137,7 @@ S.O. 2016, c. 37, Sched. 8
 ### Preparation to carry out function
 
 4 The Authority shall work with the Minister to prepare for the Authority to carry out the regulatory function described in section 3.
+
 5 Repealed: 2020, c. 36, Sched. 15, s. 2.
 
 ### Powers and duties of the Authority
@@ -109,7 +147,9 @@ S.O. 2016, c. 37, Sched. 8
 ### Same
 
 (2) The Authority shall,
+
 (a) exercise the powers and duties conferred on or assigned to the Authority; and
+
 (b) administer and enforce this Act and every other Act that confers powers on or assigns duties to the Authority, except to the extent that the powers or duties are assigned to or conferred on the Chief Executive Officer.
 
 ### Same, no subsidiaries
@@ -169,13 +209,21 @@ S.O. 2016, c. 37, Sched. 8
 ### By-laws
 
 9 (1) Subject to the approval of the Minister, the board of directors may make by-laws,
+
 (a) governing the administration, management and conduct of the affairs of the Authority;
+
 (b) governing the appointment of an auditor;
+
 (c) setting out the powers, functions and duties of the chair and the officers employed by the Authority;
+
 (d) delegating to employees of the Authority the exercise or performance of any power or duty conferred or imposed on an officer of the Authority under this Act and fixing the terms or conditions of the delegation;
+
 (e) governing the remuneration and benefits of the employees;
+
 (f) governing the time, place and method for holding meetings of the board of directors and the procedure at such meetings;
+
 (g) governing the appointment, operation or dissolution of committees of the board of directors and delegating duties of the board to the committees; and
+
 (h) governing the refund of amounts paid to the Authority under this or any other Act and authorizing employees of the Authority to approve refunds subject to such conditions and in such circumstances as the Authority considers appropriate.
 
 ### Notice to Minister
@@ -205,8 +253,11 @@ S.O. 2016, c. 37, Sched. 8
 ### Financial by-laws
 
 (8) The following apply with respect to a by-law relating to borrowing, investing or managing financial risks:
+
 1. Subsections (3) to (7) do not apply.
+
 2. The by-law does not take effect unless it is approved by the Minister and, if the Minister is not the Minister of Finance, the Minister of Finance.
+
 3. The by-law becomes effective upon being approved under paragraph 2 or on such later date as the by-law provides.
 
 ### Publication
@@ -224,7 +275,9 @@ S.O. 2016, c. 37, Sched. 8
 ### Chief Executive Officer
 
 (2) The board of directors shall appoint a Chief Executive Officer who shall, subject to the supervision and direction of the board of directors,
+
 (a) be responsible for the management and administration of the Authority; and
+
 (b) exercise the powers and duties conferred on or assigned to the Chief Executive Officer under this Act or any other Act.
 
 ### Delegation of powers and duties
@@ -284,7 +337,9 @@ S.O. 2016, c. 37, Sched. 8
 ### Exceptions
 
 (3) Despite subsection (2), and subject to the regulations made under this Act, the Authority shall pay into the Consolidated Revenue Fund all money received by the Authority,
+
 (a) pursuant to the terms of an order or settlement in respect of enforcement proceedings commenced by the Authority, other than an order for costs; and
+
 (b) from administrative penalties.
 
 ### Same, regulation
@@ -318,8 +373,11 @@ S.O. 2016, c. 37, Sched. 8
 ### Restriction on certain financial activities
 
 12 (1) The Authority shall not borrow, invest funds or manage financial risks unless,
+
 (a) the activity is authorized by a by-law of the Authority;
+
 (b) the by-law is approved in accordance with paragraph 2 of subsection 9 (8); and
+
 (c) it complies with such additional requirements as may be prescribed.
 
 ### Co-ordination of certain financial activities
@@ -367,6 +425,7 @@ S.O. 2016, c. 37, Sched. 8
 ### Assessment of the Authority
 
 15 (1) The Minister may assess the Authority from time to time with respect to all expenses and expenditures that the Ministry has incurred and made in respect of preparing the Authority to carry out its regulatory function and in respect of the regulated sectors.
+
 (2) Repealed: 2019, c. 7, Sched. 27, s. 3.
 
 ### Payment of assessment
@@ -396,8 +455,11 @@ S.O. 2016, c. 37, Sched. 8
 ### Same
 
 (2) The Authority shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the business plan;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -451,19 +513,33 @@ S.O. 2016, c. 37, Sched. 8
 ### Certificates issued by Chief Executive Officer
 
 20.1 The Chief Executive Officer may issue a certificate,
+
 (a) stating that, as of a given day,
+
 (i) a person or entity was or was not licensed under an Act that confers powers on or assigns duties to the Chief Executive Officer, or
+
 (ii) the licence was renewed, suspended, revived, revoked or cancelled;
+
 (b) stating that, as of a given day,
+
 (i) a person or a plan was or was not registered under an Act that confers powers on or assigns duties to the Chief Executive Officer,
+
 (ii) the registration was subject to terms or restrictions, or
+
 (iii) the registration was revoked;
+
 (c) stating that a copy of, or extract from, a document or thing in the custody of the Chief Executive Officer is a true copy of, or extract from, the document or thing;
+
 (d) stating that a copy of, or extract from, a document or information in the custody of the Chief Executive Officer that is not in a written format is a print-out from the document or information on record with the Chief Executive Officer and is a true copy of, or extract from, the document or information;
+
 (e) stating the date when a document was served on, delivered to or filed with the Chief Executive Officer;
+
 (f) stating the non-filing of any document or material required or permitted to be filed with the Chief Executive Officer;
+
 (g) stating the date when the Chief Executive Officer received or issued a document or notification;
+
 (h) stating when the facts on which a proceeding for an offence is based first came to the knowledge of the Chief Executive Officer; or
+
 (i) stating the day on which the Chief Executive Officer became aware of a contravention or failure to comply for which an administrative penalty may be imposed under any Act that confers powers on or assigns duties to the Chief Executive Officer.
 
 ### Admissibility as evidence
@@ -473,6 +549,7 @@ S.O. 2016, c. 37, Sched. 8
 ### Definition
 
 (2) In subsection (1),
+
 “official document” means a certificate, order, decision, licence, direction, inquiry or notice of the Chief Executive Officer under this Act and every other Act that confers powers on or assigns duties to the Chief Executive Officer.
 
 ### True copies
@@ -510,8 +587,11 @@ S.O. 2016, c. 37, Sched. 8
 ### Whistle-blower, interpretation
 
 20.5 For the purposes of sections 20.6 to 20.8, a person or entity is a whistle-blower if,
+
 (a) the person or entity discloses to the Chief Executive Officer, in good faith, an alleged or intended contravention of an Act listed in or prescribed under the definition of “regulated sector” in subsection 1 (1);
+
 (b) the person or entity requests that their identity as a whistle-blower be kept confidential; and
+
 (c) the Chief Executive Officer provides the person or entity with an assurance of confidentiality, subject to section 20.8.
 
 ### Whistle-blowing protection in the regulated sectors
@@ -519,24 +599,35 @@ S.O. 2016, c. 37, Sched. 8
 ### No reprisal
 
 20.6 (1) No person or entity shall take a reprisal against a whistle-blower, whether directly or indirectly, for making a disclosure described in clause 20.5 (a) including, without limitation, a reprisal consisting of,
+
 (a) terminating or threatening to terminate the whistle-blower’s employment, contract, position or office;
+
 (b) demoting, disciplining or suspending, or threatening to demote, discipline or suspend, a whistle-blower from their employment, position or office;
+
 (c) imposing or threatening to impose a penalty, or withholding or threatening to withhold a benefit, related to the whistle-blower’s employment, contract, position or office;
+
 (d) intimidating or coercing a whistle-blower in relation to their employment, contract, position or office; or
+
 (e) otherwise detrimentally affecting the whistle-blower by any act or failure to act, regardless of whether the act or failure to act is related to the whistle-blower’s employment, contract, position or office, if any.
 
 ### Prohibition re agreements
 
 (2) A provision in an agreement, including a confidentiality agreement, is void to the extent that it precludes or purports to preclude a person or entity from,
+
 (a) making a disclosure described in clause 20.5 (a);
+
 (b) co-operating with a regulatory, civil or criminal investigation, examination or inspection in respect of a disclosure described in clause 20.5 (a);
+
 (c) giving evidence in a proceeding in respect of a disclosure described in clause 20.5 (a), or
+
 (d) providing information, documents or things to the Chief Executive Officer in respect of a disclosure described in clause 20.5 (a).
 
 ### Actions relating to reprisal
 
 (3) If a person or entity has taken a reprisal or is alleged to have taken a reprisal against a whistle-blower in contravention of subsection (1), without limiting the actions the whistle-blower may otherwise take, the whistle-blower may,
+
 (a) make a complaint to be dealt with by final and binding settlement by arbitration under a collective agreement or any other agreement which provides for such a resolution; or
+
 (b) bring a civil proceeding in the Superior Court of Justice.
 
 ### Burden of proof
@@ -546,14 +637,19 @@ S.O. 2016, c. 37, Sched. 8
 ### Remedies
 
 (5) The arbitrator or court may, in addition to any other remedy, order one or more of the following:
+
 1. Reinstatement of the whistle-blower to their employment, contract, position or office, with the same seniority status that the whistle-blower would have had if the reprisal had not been taken.
+
 2. Payment to the whistle-blower of two times the amount of compensation the whistle-blower would have been paid in connection with their employment, contract, position or office between the date of the reprisal and the date of the order if the reprisal had not taken place, with interest.
+
 3. Payment to the whistle-blower of compensation, in the amount the arbitrator or court considers just, having regard to the reprisal to which the complaint or proceeding relates and any loss attributable to it.
 
 ### Same
 
 (6) For the purpose of paragraph 3 of subsection (5), loss attributable to a reprisal is deemed to include,
+
 (a) any expenses reasonably incurred by the whistle-blower as a result of the reprisal; and
+
 (b) the loss of any benefit the whistle-blower might reasonably have expected to have had if not for the reprisal.
 
 ### No civil liability
@@ -567,7 +663,9 @@ S.O. 2016, c. 37, Sched. 8
 ### Exception
 
 (2) Despite subsection (1), the Chief Executive Officer may disclose a whistle-blower’s identity if,
+
 (a) the whistle-blower consents to the disclosure; or
+
 (b) the disclosure is made to a law enforcement agency because the Chief Executive Officer has reasonable grounds to believe that the whistle-blower has committed an offence under the Criminal Code (Canada) or under an Act listed in or prescribed under the definition of “regulated sector” in subsection 1 (1) that is related to the whistle-blower’s disclosure under clause 20.5 (a).
 
 ### Confidentiality in proceedings
@@ -589,7 +687,9 @@ S.O. 2016, c. 37, Sched. 8
 ### Examinations, investigations and inquiries
 
 20.9 (1) The Chief Executive Officer or a person designated by the Chief Executive Officer may conduct examinations or investigations and make inquiries for the purpose of enforcing subsection 20.6 (1) and may require any person or entity to,
+
 (a) provide any information that the Chief Executive Officer or designated person considers relevant to the examination, investigation or inquiry; and
+
 (b) produce any document or thing that may be in the person’s or entity’s possession or under the person’s or entity’s control that the Chief Executive Officer or designated person considers relevant to the examination, investigation or inquiry.
 
 ### Entrance to business premises
@@ -655,9 +755,13 @@ S.O. 2016, c. 37, Sched. 8
 ### Rules re charges
 
 (2) The Authority may make rules governing fees, levies, sector assessments and other charges that the Authority may impose, including, but not limited to,
+
 (a) for filing;
+
 (b) for applications for approvals, licences or registration;
+
 (c) in respect of compliance reviews and audits made by the Authority; and
+
 (d) in connection with the work described in sections 4 and 6, and other work that relates to the objects of the Authority under sections 3 and 3.1, including any assessment that the Authority is required to pay under this Act or any other Act.
 
 ### Exception
@@ -683,13 +787,21 @@ S.O. 2016, c. 37, Sched. 8
 ### Notice
 
 (2) The notice must include the following:
+
 1. The proposed rule.
+
 1.1 A reference to the authority under which the rule is proposed.
+
 2. A statement of the substance and purpose of the proposed rule.
+
 3. A summary of the proposed rule.
+
 4. A discussion of all alternatives to the proposed rule that were considered by the Authority and the reasons for not proposing the adoption of the alternatives considered.
+
 5. A reference to any significant unpublished study, report or other written materials on which the Authority relies in proposing the rule.
+
 6. A qualitative and quantitative analysis of the anticipated costs and benefits of the proposed rule.
+
 7. A description of any recommendations that the Authority proposes to make to the Minister with respect to the amendment or revocation of a regulation or provision in a regulation that relates to the implementation of the proposed rule.
 
 ### Exception
@@ -703,11 +815,17 @@ S.O. 2016, c. 37, Sched. 8
 ### Exceptions to notice requirement
 
 (5) Publication of a notice is not required if,
+
 (a) all persons who would be subject to the proposed rule are named, the information set out in subsection (2) is sent to each of them and they and any other person whose interests are likely to be substantially affected by the proposed rule are given an opportunity to make written representations with respect to it;
+
 (b) the proposed rule grants an exemption or removes a restriction and is not likely to have a substantial effect on the interests of persons other than those who benefit under it;
+
 (c) what is proposed is only an amendment that does not materially change an existing rule; or
+
 (d) the Authority,
+
 (i) believes that there is an urgent need for the proposed rule and that, without it, there is a substantial risk of material harm to consumers, investors, pension plan beneficiaries, persons who establish pension plans or the integrity of a regulated sector, and
+
 (ii) has the approval of the Minister to make the rule without publication of notice.
 
 ### Publication
@@ -721,8 +839,11 @@ S.O. 2016, c. 37, Sched. 8
 ### Notice of changes
 
 (8) The notice must include the following:
+
 1. The proposed rule with the changes incorporated.
+
 2. A concise statement of the purpose of the changes.
+
 3. The reasons for the changes.
 
 ### Representations re changes
@@ -744,29 +865,41 @@ S.O. 2016, c. 37, Sched. 8
 ### Interpretation
 
 (13) In this section and in section 23,
+
 “rule” includes an amendment to and a revocation of a rule.
 
 ### Delivery of rules to Minister
 
 23 (1) The Authority must deliver to the Minister a copy of every rule made by it together with the following:
+
 1. A copy of the notices published under section 22, unless publication of the notice was not required, and copies of all documents referred to in the notices.
+
 2. A summary of the representations made and other documents submitted in respect of the rule as proposed.
+
 3. All other information that was considered by the Authority in connection with the making of the rule.
 
 ### Publication
 
 (2) The Authority shall publish every rule made by it on the website of the Authority as soon as practicable after the rule is made together with the following:
+
 1. The date on which the rule and the material required under subsection (1) were delivered to the Minister.
+
 2. The date the rule is to come into force if an action is not taken by the Minister under subsection (3).
+
 3. A statement of the substance and purpose of the rule.
+
 4. A summary of the written comments received during the comment periods if notice and comment were required.
+
 5. A statement of the Authority setting out its response to the significant issues and concerns brought to the attention of the Authority during the comment periods.
 
 ### Action by Minister
 
 (3) Within 60 days, or if the rule is a rule under subsection 21 (2), 90 days, after a rule is delivered to the Minister, the Minister may,
+
 (a) approve the rule;
+
 (b) reject the rule; or
+
 (c) return it to the Authority for further consideration.
 
 ### When rules effective
@@ -776,8 +909,11 @@ S.O. 2016, c. 37, Sched. 8
 ### Same
 
 (2) If the Minister does not approve a rule, reject it or return it to the Authority for further consideration and a coming into force day,
+
 (a) that is at least 75 days, or if the rule is a rule under subsection 21 (2), 105 days, after the rule is delivered to the Minister, is specified in the rule, the rule comes into force on the specified day;
+
 (b) is not specified in the rule, the rule comes into force on the 75th day, or if the rule is a rule under subsection 21 (2), the 105th day, after the rule is delivered to the Minister; or
+
 (c) that is within 75 days, or if the rule is a rule under subsection 21 (2), 105 days, after the rule is delivered to the Minister, is specified in the rule, the rule comes into force on the 75th day, or if the rule is a rule under subsection 21 (2), the 105th day, after the rule is delivered to the Minister.
 
 ### Same
@@ -815,13 +951,17 @@ S.O. 2016, c. 37, Sched. 8
 ### Publication
 
 26 The Authority shall publish on its website notice of,
+
 (a) any action taken by the Minister under subsection 23 (3) in respect of every rule that the Authority has delivered to the Minister; and
+
 (b) any matter specified by the Minister under subsection 25 (1) to be considered.
 
 ### Studies
 
 27 (1) The Minister may in writing require the Authority,
+
 (a) to study and make recommendations in respect of any matter of a general nature under or affecting a statute, regulation or rule that governs a regulated sector; and
+
 (b) to consider making a rule in respect of a matter specified by the Minister.
 
 ### Publication
@@ -831,7 +971,9 @@ S.O. 2016, c. 37, Sched. 8
 ### Notice
 
 (3) The notice must include the following:
+
 1. A statement of the substance of the requirement.
+
 2. A reference to every unpublished study, report or other written materials provided to the Authority by the Minister other than materials that the Minister has asked the Authority to treat as confidential.
 
 ### Regulations
@@ -845,17 +987,25 @@ S.O. 2016, c. 37, Sched. 8
 ### Transfer orders
 
 29 (1) Despite anything in the Financial Services Commission of Ontario Act, 1997 or any other Act, but subject to the processes and requirements set out in this Act and the regulations, the Minister may make orders,
+
 (a) transferring any or all of the operations, activities and affairs of FSCO to the Authority;
+
 (b) transferring any or all of the assets, liabilities, rights and obligations of FSCO to the Authority;
+
 (c) transferring any or all of the liabilities, rights and obligations of the Superintendent of Financial Services to the Chief Executive Officer or to the Authority; and
+
 (d) requiring the Superintendent of Financial Services, the Authority or the Chief Executive Officer to enter into any written agreement, execute any document or instrument or do such other acts or things as are specified in the order to effect a transfer described in clause (a), (b) or (c).
 
 ### Contents of order
 
 (2) An order made under subsection (1),
+
 (a) shall specify a date on which the transfer of operations, activities, affairs, assets, liabilities, rights or obligations, as the case may be, takes effect;
+
 (b) may specify such terms and conditions as the Minister considers necessary or advisable;
+
 (c) may describe assets, liabilities, rights or obligations by reference to specific assets, liabilities, rights or obligations or by reference to classes of assets, liabilities, rights or obligations, or a combination thereof; and
+
 (d) may specify that issues arising out of the interpretation of the order be resolved by the method specified in the order.
 
 ### Amendment
@@ -873,9 +1023,13 @@ S.O. 2016, c. 37, Sched. 8
 ### Assumption of rights, obligations etc.
 
 30 (1) If the Minister makes an order under subsection 29 (1),
+
 (a) the Authority assumes the operations, activities and affairs of FSCO described in the order as of the date of the transfer;
+
 (b) all assets, liabilities, rights and obligations of FSCO described in the order continue as the assets, liabilities, rights and obligations of the Authority and are transferred to the Authority, without compensation or with such compensation provided for in the order;
+
 (c) all liabilities, rights and obligations of the Superintendent of Financial Services specified in the order continue as the liabilities, rights and obligations of the Chief Executive Officer or the Authority, as the case may be, and are transferred to the Chief Executive Officer or the Authority, as the case may be, without compensation or with such compensation provided for in the order; and
+
 (d) proceedings and other activities specified in the order that are commenced or conducted by FSCO or the Superintendent of Financial Services or to which FSCO or the Superintendent of Financial Services is a party are deemed to be proceedings and other activities commenced or conducted by the Authority or the Chief Executive Officer, or to which the Authority or the Chief Executive Officer is a party, as provided for in the order, and shall be continued as such.
 
 ### Release from liability or obligation
@@ -913,11 +1067,17 @@ S.O. 2016, c. 37, Sched. 8
 ### No breach, etc.
 
 (9) A transfer under this Act is deemed not to,
+
 (a) constitute a breach, termination, repudiation or frustration of any agreement, including an insurance contract;
+
 (b) constitute a breach of any Act, regulation or municipal by-law;
+
 (c) constitute an event of default or force majeure;
+
 (d) give rise to a breach, termination, repudiation or frustration of any licence, permit or other right;
+
 (e) give rise to any right to terminate or repudiate a licence, permit or other right; or
+
 (f) give rise to any estoppel.
 
 ### No new cause of action
@@ -939,10 +1099,15 @@ S.O. 2016, c. 37, Sched. 8
 ### Immunity re transfer
 
 (14) No proceeding for damages or otherwise in respect of a claim arising in connection with a transfer under this Act shall be commenced against,
+
 (a) The Crown in right of Ontario;
+
 (b) the Authority;
+
 (c) the Superintendent of Financial Services;
+
 (d) the Chief Executive Officer; or
+
 (e) any employee, agent or appointee of the Crown in right of Ontario or the Authority.
 
 ### Transfer agreements
@@ -952,7 +1117,9 @@ S.O. 2016, c. 37, Sched. 8
 ### Regulations
 
 32 The Lieutenant Governor in Council may make regulations,
+
 (a) supplementing sections 29 and 30 and governing transfers under this Act;
+
 (b) prescribing Acts or provisions of Acts that do not apply to a transfer for the purpose of subsection 30 (12), subject to such conditions or restrictions as may be prescribed by the regulations.
 
 ### Matters Relating to the Former Financial Services Commission of Ontario

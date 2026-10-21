@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2023-12-04"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02o08e"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario College of Art and Design University Act, 2002
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02o08e) before relying on it.
 
 S.O. 2002, c. 8, Sched. E
 
@@ -21,9 +21,13 @@ S.O. 2002, c. 8, Sched. E
 ### Definitions
 
 1 In this Act,
+
 “board” means the board of governors of the University; (“conseil”)
+
 “property” includes real and personal property; (“biens”)
+
 “senate” means the senate of the University; (“sénat”)
+
 “University” means the Ontario College of Art & Design University continued under section 2. (“Université”)
 
 ### Continuation of corporation
@@ -59,8 +63,11 @@ S.O. 2002, c. 8, Sched. E
 ### Board of governors
 
 5 (1) There shall be a board of the University, consisting of,
+
 (a) the president of the University, by virtue of office;
+
 (b) six members, appointed by the Lieutenant Governor in Council, who are neither students nor employees of the University; and
+
 (c) such other members as may be set out in the by-laws of the University so long as at least a majority of the members of the board are persons who are neither students nor employees of the University.
 
 ### By-law respecting elections
@@ -86,9 +93,13 @@ S.O. 2002, c. 8, Sched. E
 ### Vacancies
 
 (5) A vacancy on the board occurs if,
+
 (a) a member resigns or ceases to be eligible for appointment or election to the board;
+
 (b) a member is incapable of continuing to act as a member and the board by resolution declares the membership to be vacated;
+
 (c) the board by resolution declares a membership to be vacated for failure to attend sufficient meetings, as provided in the by-laws of the University; or
+
 (d) a majority of the persons entitled under the by-laws of the University to vote for the election of a member vote or sign a petition in favour of removing the member from office.
 
 ### Same
@@ -98,7 +109,9 @@ S.O. 2002, c. 8, Sched. E
 ### Quorum
 
 (7) A quorum of the board consists of a majority of its members and that majority must include,
+
 (a) at least half of the members who are students or employees of the University; and
+
 (b) at least half of the members who are not students or employees of the University.
 
 ### Chair, vice-chair
@@ -112,21 +125,37 @@ S.O. 2002, c. 8, Sched. E
 ### Powers and duties of board
 
 6 (1) The board is responsible for governing and managing the affairs of the University and has the necessary powers to do so, including the power,
+
 (a) to determine the mission, vision and values of the University in a manner that is consistent with the objects of the University set out in section 3;
+
 (a.1) to appoint and remove a chancellor;
+
 (b) to appoint and remove the president;
+
 (b.1) to appoint, promote, suspend and remove members of the teaching faculty, academic staff and non-teaching employees of the University, subject to subsection (1.1);
+
 (b.2) to fix the number, duties and salaries and other benefits of the teaching faculty, academic staff and non-teaching employees of the University;
+
 (b.3) to approve the annual budget of the University and to monitor its implementation;
+
 (c) to appoint committees and assign or delegate to them such duties and responsibilities as may be provided in the by-laws of the University, including authorizing them to act on behalf of the board in the matters specified in the by-law;
+
 (d) to establish advisory bodies;
+
 (e) to establish administrative and operational policies and procedures, including organizational structures, staffing requirements, qualifications and duties of staff and conditions of employment;
+
 (f) to establish and collect fees and charges for tuition and other services that may be offered by the University or that may be approved by the board on behalf of any organization or group of the University;
+
 (g) to regulate the conduct of students, staff and all persons who use the property of the University, including denying any person access to the property;
+
 (h) to define, for the purposes of this Act and the by-laws, the following terms: student, staff, employee, manager, teaching faculty and academic staff;
+
 (i) to conclusively determine which body within the University has jurisdiction over any matter;
+
 (j) to consider, co-ordinate and implement long-range administrative and operational plans, including the physical development of the University;
+
 (k) to determine the manner and procedure for electing members described in clause 5 (1) (c) to the board, including establishing constituencies and voting practices; and
+
 (l) to make by-laws, resolutions and rules for the conduct of its affairs.
 
 ### Limitation
@@ -154,25 +183,41 @@ S.O. 2002, c. 8, Sched. E
 ### Senate composition
 
 7 (1) There shall be a senate of the University, consisting of not more than 60 members, including the following members:
+
 1. The following persons who are members by virtue of their office:
+
 i. the president of the University,
+
 ii. the vice-president, academic of the University,
+
 iii. the vice president, research and graduate studies of the University,
+
 iv. the chancellor of the University,
+
 v. the dean of each faculty or, if a program is not part of a faculty, the associate dean or chair of the program,
+
 vi. the University registrar, and
+
 vii. the University director of library services or chief librarian.
+
 2. Such number of students elected by the students of the University from among themselves as set out in the senate by-laws.
+
 3. Such number of persons on the teaching faculty, elected by the teaching faculty from among themselves, as set out in senate by-laws, which number shall be at least twice the total number of all other members of the senate.
+
 4. One person, other than the president of the University, appointed by the board from among the board members.
+
 5. Such other persons as may be determined by senate by-law.
 
 ### By-laws respecting elections
 
 (2) The senate shall by by-law determine,
+
 (a) the procedures to be followed in the election of members of the senate;
+
 (b) the eligibility requirements for the election or appointment, as the case may be, to the senate of members described in paragraphs 2, 3, 4 and 5 of subsection (1);
+
 (c) the number of persons to be elected or appointed, as the case may be, to the senate under paragraphs 2, 3 and 5 of subsection (1); and
+
 (d) the constituencies for each of the groups referred to in paragraphs 2, 3 and 4 of subsection (1).
 
 ### Senate election
@@ -182,7 +227,9 @@ vii. the University director of library services or chief librarian.
 ### Term of office
 
 7.2 The term of office for an elected or appointed member of the senate shall be,
+
 (a) not more than three years, as determined by the by-laws of the senate; or
+
 (b) if a by-law referred to in clause (a) is not made, one year.
 
 ### Loss of eligibility
@@ -204,14 +251,19 @@ vii. the University director of library services or chief librarian.
 ### Vacancies
 
 7.5 (1) A vacancy on the senate occurs if,
+
 (a) a member resigns or ceases to be eligible for appointment or election to the senate before the end of his or her term;
+
 (b) a member is incapable to continue to act as a member and the senate by resolution declares the membership to be vacated; or
+
 (c) such circumstances as may be specified in a by-law of the senate exist.
 
 ### Same
 
 (2) If a vacancy occurs on the senate, the senate shall,
+
 (a) determine, in accordance with its by-laws, whether or not to fill the vacancy; and
+
 (b) if the vacancy is to be filled, fill the vacancy within the time period, and according to the procedures, provided in the by-laws of the senate.
 
 ### Completion of term
@@ -225,16 +277,27 @@ vii. the University director of library services or chief librarian.
 ### Powers of senate
 
 7.6 The senate has, subject to the approval of the board with respect to the expenditure of funds, the power to determine and regulate the educational policy of the University and, without limiting the generality of the foregoing, has the power,
+
 (a) to make recommendations to the board with respect to the establishment, change or termination of programs and courses of study, schools, faculties, divisions and departments;
+
 (b) to make recommendations to the board on the allocation or use of University resources for academic purposes;
+
 (c) to advise the president of the University on the staffing needs of the academic departments;
+
 (d) to appoint the faculty deans, associate deans and the program chairs as may be required from time to time;
+
 (e) to determine the curricula of all programs and courses of study, the standards of admission to the University and continued registration therein, and the qualifications for degrees, diplomas and certificates of the University;
+
 (f) to conduct examinations, appoint examiners and decide all matters relating thereto;
+
 (g) to hear and determine appeals from the decisions of the faculty councils on examinations and on applications for admission;
+
 (h) to award fellowships, scholarships, bursaries, medals, prizes and other marks of academic achievement;
+
 (i) to authorize the chancellor, the vice-chancellor or such other person as may be determined by the senate, to confer degrees, honorary degrees, diplomas and certificates on behalf of the University in accordance with section 4;
+
 (j) to create councils and committees to exercise its powers;
+
 (k) to make by-laws for the conduct of its affairs, including by-laws respecting the conduct of the election of its members.
 
 ### Chancellor and President
@@ -324,6 +387,7 @@ vii. the University director of library services or chief librarian.
 ### Use of property
 
 (6) The property and the revenue of the University shall be applied solely to achieving the objects of the University.
+
 (7) Repealed: 2009, c. 33, Sched. 2, s. 50.
 
 ### Investments
@@ -333,7 +397,9 @@ vii. the University director of library services or chief librarian.
 ### Borrowing
 
 (9) The University, if authorized by its by-laws, may, on such terms and in such amounts as the board may approve,
+
 (a) borrow money and give security on money borrowed; and
+
 (b) issue or give bonds, debentures and obligations as security.
 
 ### Audits and reports
@@ -379,6 +445,9 @@ vii. the University director of library services or chief librarian.
 ### First senate by-laws
 
 (7) The by-laws made by the board that relate to the academic council immediately before section 31 of the Post-secondary Education Statute Law Amendment Act, 2010 comes into force shall, in so far as they are not inconsistent with this Act, be deemed to be the by-laws of the senate until re-enacted, amended or repealed by the senate.
+
 14 Omitted (amends or repeals other Acts).
+
 15 Omitted (provides for coming into force of provisions of this Act).
+
 16 Omitted (enacts short title of this Act).

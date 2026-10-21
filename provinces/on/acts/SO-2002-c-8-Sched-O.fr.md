@@ -6,22 +6,26 @@ language: fr
 type: act
 document_date: "2023-12-04"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02u08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Institut universitaire de technologie de l'Ontario (Loi de 2002 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02u08) before relying on it.
 
 L.O. 2002, chap. 8, annexe O
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «collège» Le collège d’arts appliqués et de technologie appelé Durham College of Applied Arts and Technology. («college»)
+
 «conseil» Le conseil d’administration de l’université. («board»)
+
 «corps professoral» S’entend notamment des professeurs, des professeurs agrégés, des professeurs adjoints, des chargés d’enseignement, des associés, des instructeurs, des tuteurs et des autres personnes qui enseignent ou font de la recherche à l’université. («teaching staff»)
+
 «université» L’Institut universitaire de technologie de l’Ontario constitué par la présente loi. («university») 2002, chap. 8, annexe O, art. 1.
 
 ### Constitution de l’université
@@ -43,9 +47,13 @@ L.O. 2002, chap. 8, annexe O
 ### Mission
 
 4 L’université a pour mission :
+
 a) d’offrir des programmes universitaires de premier cycle et des cycles supérieurs et principalement des programmes qui soient innovateurs et qui répondent aux besoins individuels des étudiants et aux besoins des employeurs qui sont déterminés par le marché;
+
 b) de favoriser un apprentissage, un enseignement, une recherche et un exercice professionnel qui soient de la plus haute qualité possible;
+
 c) de contribuer à l’avancement de l’Ontario sur les scènes nationale et internationale en mettant particulièrement l’accent sur la région de Durham et le comté de Northumberland;
+
 d) de faciliter le passage des étudiants des programmes de niveau collégial à ceux de niveau universitaire.
 
 ### Pouvoirs
@@ -63,10 +71,15 @@ d) de faciliter le passage des étudiants des programmes de niveau collégial à
 ### Conseil d’administration
 
 8 (1) L’université a un conseil d’administration constitué d’au plus 25 membres répartis comme suit :
+
 1. Le président de l’université, d’office.
+
 2. Le chancelier de l’université, d’office.
+
 3. Trois membres nommés par le lieutenant-gouverneur en conseil.
+
 4. De 12 à 16 membres, selon ce que prévoient les règlements administratifs de l’université, nommés par le conseil, dont au moins six sont membres du conseil d’administration du collège mais ne sont ni des employés ni des étudiants de celui-ci.
+
 5. Quatre membres qui sont des étudiants ou des employés de l’université et qui sont élus par les circonscriptions pertinentes de celle-ci.
 
 ### Règlement électoral
@@ -100,8 +113,11 @@ d) de faciliter le passage des étudiants des programmes de niveau collégial à
 ### Vacances
 
 (7) Les faits suivants créent une vacance au sein du conseil :
+
 a) un membre démissionne ou ne peut plus y être nommé ou élu;
+
 b) un membre est dans l’incapacité de continuer à occuper sa charge et le conseil déclare celle-ci vacante par résolution;
+
 c) le conseil déclare vacante, par résolution, la charge du titulaire qui omet d’assister à un nombre suffisant de réunions, selon ce que prévoient les règlements administratifs de l’université.
 
 ### Idem
@@ -135,21 +151,37 @@ c) le conseil déclare vacante, par résolution, la charge du titulaire qui omet
 ### Pouvoirs et fonctions du conseil
 
 9 (1) Le conseil est chargé d’administrer et de gérer les affaires de l’université et possède les pouvoirs nécessaires à cette fin, notamment le pouvoir de faire ce qui suit :
+
 a) sous réserve de l’article 3, fixer la mission, la vision et les valeurs de l’université;
+
 b) établir les politiques et les plans relatifs aux études, à la recherche, aux services et à l’établissement et contrôler leur mise en oeuvre;
+
 c) nommer le chancelier et le destituer;
+
 d) nommer le président et le destituer;
+
 e) nommer, promouvoir, suspendre et destituer les membres du corps professoral et du personnel administratif de l’université;
+
 f) ouvrir des facultés, des écoles, des instituts et des départements et y mettre en place des présidents et des conseils;
+
 g) régir les conditions d’admission des étudiants à l’université et les exigences de la sanction des études;
+
 h) régir les questions relatives aux récompenses, notamment les bourses, médailles et prix, qui sont attribuées aux étudiants au mérite;
+
 i) constituer des comités et leur attribuer ou leur déléguer les fonctions et les responsabilités que prévoient les règlements administratifs de l’université, y compris les autoriser à agir au nom du conseil en ce qui concerne les questions qu’ils précisent;
+
 j) approuver le budget annuel de l’université et surveiller son exécution;
+
 k) fixer et percevoir des frais de scolarité et des frais pour les autres services qu’offre l’université ou qu’approuve le conseil au nom d’une organisation ou d’un groupe de l’université;
+
 l) réglementer le comportement des étudiants, du personnel et des autres personnes qui se trouvent sur les lieux de l’université, y compris en interdire l’accès à qui que ce soit;
+
 m) définir les termes «associé», «chargé d’enseignement», «employé», «étudiant», «gestionnaire», «instructeur», «personnel», «professeur», «professeur adjoint», «professeur agrégé» et «tuteur» pour l’application des règlements administratifs;
+
 n) déterminer de façon irréfragable quelle entité au sein de l’université a compétence sur une question;
+
 o) fixer les modalités d’élection au conseil des membres visés à la disposition 5 du paragraphe 8 (1), y compris définir les groupes électoraux et fixer les modalités de vote;
+
 p) régir la conduite de ses affaires par voie de règlement administratif, de résolution et de règle.
 
 ### Restriction
@@ -255,6 +287,7 @@ p) régir la conduite de ses affaires par voie de règlement administratif, de r
 ### Utilisation des biens
 
 (5) Les biens et les recettes de l’université sont affectés uniquement à la réalisation de sa mission.
+
 (6) Abrogé : 2009, chap. 33, annexe 2, art. 78.
 
 ### Placements
@@ -264,7 +297,9 @@ p) régir la conduite de ses affaires par voie de règlement administratif, de r
 ### Emprunts
 
 (8) Si ses règlements administratifs l’y autorisent, l’université peut, aux conditions et selon les montants qu’approuve le conseil :
+
 a) contracter des emprunts et les garantir;
+
 b) émettre des obligations et des débentures ou les donner en garantie.
 
 ### Vérification et rapports
@@ -298,5 +333,7 @@ b) émettre des obligations et des débentures ou les donner en garantie.
 ### Rotation des membres
 
 (3) Le mandat des membres du premier conseil constitué après l’entrée en vigueur de la présente loi est d’un an, de deux ans ou de trois ans, selon ce que décide le conseil d’administration du collège.
+
 19 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 20 Omis (édicte le titre abrégé de la présente loi).

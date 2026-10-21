@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-05-16"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24p09"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Protecting Against Carbon Taxes Act, 2024
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24p09) before relying on it.
 
 S.O. 2024, c. 9, Sched. 5
 
@@ -21,10 +21,15 @@ S.O. 2024, c. 9, Sched. 5
 ### Definitions
 
 1 In this Act,
+
 “campaign organizer” means a person or entity who is required by section 9 to apply for registration with the Chief Electoral Officer; (“organisateur de campagne”)
+
 “carbon pricing program” means a program intended to reduce greenhouse gas emissions by imposing a tax, fee, charge or other levy on those emissions; (“programme de tarification du carbone”)
+
 “Chief Electoral Officer” means the Chief Electoral Officer appointed under the Election Act; (“directeur général des élections”)
+
 “greenhouse gas” means greenhouse gas within the meaning of the Environmental Protection Act; (“gaz à effet de serre”)
+
 “person” includes a trade union. (“personne”)
 
 ### Carbon Pricing Protection
@@ -32,13 +37,17 @@ S.O. 2024, c. 9, Sched. 5
 ### Restriction on establishment of carbon pricing program
 
 2 (1) A member of the Executive Council shall not include in a bill a provision that establishes a carbon pricing program unless,
+
 (a) a referendum concerning the carbon pricing program is held under this Act before the bill is introduced in the Assembly; and
+
 (b) the referendum authorizes the carbon pricing program.
 
 ### Same, regulation
 
 (2) A person or entity with the power to make a regulation shall not make a regulation that establishes a carbon pricing program unless,
+
 (a) a referendum concerning the carbon pricing program is held under this Act before the regulation is made; and
+
 (b) the referendum authorizes the carbon pricing program.
 
 ### Same
@@ -48,7 +57,9 @@ S.O. 2024, c. 9, Sched. 5
 ### Restriction on authority re carbon pricing program
 
 3 A member of the Executive Council shall not include in a bill a provision that gives a person or body (other than the Crown) the authority to establish a carbon pricing program unless,
+
 (a) a referendum concerning the authority that is given to the person or body is held under this Act before the bill is introduced in the Assembly; and
+
 (b) the referendum authorizes the authority to be given to the person or body.
 
 ### The Referendum Question and the Effect of the Referendum
@@ -80,8 +91,11 @@ S.O. 2024, c. 9, Sched. 5
 ### Public notice
 
 (3) Before issuing a writ of referendum, the Lieutenant Governor in Council shall give the following documents to the Clerk of the Assembly and shall make them available to the public:
+
 1. A copy of the referendum question.
+
 2. A copy of the proposed question given to the Chief Electoral Officer and the advice received from the Chief Electoral Officer about the proposed question.
+
 3. A statement setting out the increase in annual revenues that the Government of Ontario expects to result from any proposed carbon pricing program described in the referendum question.
 
 ### Effect of the referendum
@@ -113,7 +127,9 @@ S.O. 2024, c. 9, Sched. 5
 ### Exception
 
 (3) A person or entity is not required to apply for registration if the following requirements are met:
+
 1. The person or entity must not spend more than $1,000 on the campaign to solicit votes or promote a particular result.
+
 2. The person or entity must not combine the person or entity’s money with that of another person or entity and then spend it on the campaign to solicit votes or promote a particular result.
 
 ### Same
@@ -171,6 +187,7 @@ S.O. 2024, c. 9, Sched. 5
 ### Campaign advertising as contribution
 
 12 (1) In this section,
+
 “campaign advertising” includes printing documents but does not include news reporting.
 
 ### Threshold
@@ -188,15 +205,21 @@ S.O. 2024, c. 9, Sched. 5
 ### Records
 
 (5) The broadcaster or publisher shall keep the following information for at least two years and shall make it available for inspection by the public on request:
+
 1. A copy of the campaign advertising.
+
 2. The dates and, if applicable, the times when the advertising was broadcast or published.
+
 3. The names given to the broadcaster or publisher under subsection (4).
+
 4. The amount charged to broadcast or publish the advertising.
+
 5. The amount that the broadcaster or publisher would ordinarily have charged to broadcast or publish the advertising, if the amount is different from the amount actually charged.
 
 ### Period for campaign advertising
 
 13 (1) In this section,
+
 “blackout period” means the day on which the referendum is held, and the preceding day.
 
 ### Same
@@ -210,17 +233,25 @@ S.O. 2024, c. 9, Sched. 5
 ### Exceptions
 
 (4) Subsections (2) and (3) do not prohibit the following:
+
 1. The publication of campaign advertising on the day on which the referendum is held or the preceding day in a newspaper that is published once a week or less often and whose regular day of publication falls on that day.
+
 2. A campaign advertisement on the Internet or in a similar electronic medium, if it is posted before and not altered during the blackout period.
+
 3. A campaign advertisement in the form of a poster or billboard, if it is posted before and not altered during the blackout period.
 
 ### Exceptions subject to guidelines
 
 (5) Subsections (2) and (3) do not apply with respect to the following activities if they are done in accordance with the guidelines of the Chief Electoral Officer:
+
 1. Advertising public meetings.
+
 2. Announcing the location of a registered campaign organizer’s headquarters.
+
 3. Advertising for volunteer campaign workers.
+
 4. Announcing services to be provided by a registered campaign organizer in connection with enumeration and the revision of lists of voters.
+
 5. Announcing services to be provided by a registered campaign organizer on the day the referendum is held.
 
 ### Limit on campaign expenses
@@ -242,8 +273,11 @@ S.O. 2024, c. 9, Sched. 5
 ### Financial Report
 
 15 The chief financial officer for a registered campaign organizer shall file the following documents with the Chief Electoral Officer within six months after the referendum is held:
+
 1. The campaign organizer’s financial statements with respect to the referendum campaign.
+
 2. The information required by subsection 11 (3) in connection with the campaign.
+
 3. The auditor’s report on the financial statements and on the information required by subsection 11 (3).
 
 ### Application of the Election Finances Act
@@ -253,6 +287,7 @@ S.O. 2024, c. 9, Sched. 5
 ### Definition
 
 (2) For the purposes of this Act,
+
 “person”, in the Election Finances Act, shall be deemed to include a corporation and a trade union.
 
 ### Application of Election Act
@@ -268,11 +303,17 @@ S.O. 2024, c. 9, Sched. 5
 ### Offences
 
 19 (1) Every person or entity who contravenes or fails to comply with any of the following provisions is guilty of an offence:
+
 1. Subsection 9 (1) or (2) (registration, campaign organizer).
+
 2. Subsection 10 (1) or (2) (receiving campaign contributions).
+
 3. Subsection 11 (1) (limit on campaign contributions).
+
 4. Subsection 12 (4) (restriction on campaign advertising).
+
 5. Subsection 13 (2) or (3) (period for campaign advertising).
+
 6. Section 15 (financial report re campaign).
 
 ### Same
@@ -286,6 +327,9 @@ S.O. 2024, c. 9, Sched. 5
 ### Same
 
 (4) Upon conviction of an offence, a corporation, trade union or other entity is liable to a fine of not more than $100,000.
+
 20-22 Omitted (amends, repeals or revokes other legislation).
+
 23 O mitted (provides for coming into force of provisions of this Act).
+
 24 O mitted (enacts short title of this Act).

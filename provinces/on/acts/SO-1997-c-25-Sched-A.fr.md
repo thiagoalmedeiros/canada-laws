@@ -6,47 +6,72 @@ language: fr
 type: act
 document_date: "2025-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o25a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # programme Ontario au travail (Loi de 1997 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o25a) before relying on it.
 
 L.O. 1997, chap. 25, annexe A
 
 ### Objet de la Loi
 
 1 La présente loi a pour objet de créer un programme qui :
+
 a) reconnaît la responsabilité individuelle et favorise l’autonomie par l’emploi;
+
 b) fournit une aide financière provisoire à ceux qui sont le plus dans le besoin pendant qu’ils satisfont des obligations en vue de se faire employer et de le rester;
+
 c) sert efficacement les personnes qui ont besoin d’aide;
+
 d) comprend l’obligation de rendre compte aux contribuables de l’Ontario.
 
 ### Définitions
 
 2 Les définitions qui suivent s’appliquent à la présente loi.
+
 «administrateur» L’administrateur d’une zone géographique nommé aux termes de l’article 43. («administrator»)
+
 «agent de prestation des services» Pour une zone géographique, l’agent de prestation des services désigné par le ministre pour appliquer la présente loi et fournir l’aide dans cette zone. («delivery agent»)
+
 «aide» L’aide à l’emploi et l’aide financière de base. («assistance»)
+
 «aide à l’emploi» L’aide prévue à l’article 4. («employment assistance»)
+
 «aide au revenu» Aide fournie au titre des besoins essentiels et du logement. («income assistance»)
+
 «aide en cas d’urgence» Aide fournie pour aider à pourvoir aux besoins essentiels et au logement en situation d’urgence. («emergency assistance»)
+
 «aide financière de base» L’aide prévue à l’article 5. («basic financial assistance»)
+
 «auteur de demande» La personne qui présente une demande d’aide financière de base ou au nom de laquelle une telle demande est présentée. («applicant»)
+
 «bénéficiaire» La personne qui reçoit l’aide financière de base. («recipient»)
+
 «conseil d’administration de district des services sociaux» Conseil créé en vertu de la Loi sur les conseils d’administration de district des services sociaux. («district social services administration board»)
+
 «directeur» Le directeur du programme Ontario au travail nommé par le ministre. («Director»)
+
 «groupe de prestataires» Une personne et toutes les personnes à sa charge au nom desquelles elle présente une demande d’aide financière de base ou reçoit cette aide. («benefit unit»)
+
 «mesures d’emploi» S’entend notamment de la recherche d’emploi, des services de soutien à la recherche d’emploi, de l’orientation vers l’éducation de base et vers la formation professionnelle liée à un emploi particulier et du placement dans un emploi. («employment measures»)
+
 «ministre» et «ministère» Le ministre et le ministère des Services sociaux et communautaires. («Minister», «Ministry»)
+
 «participation communautaire» S’entend notamment de la participation aux activités communautaires qui contribuent au bien de la collectivité. («community participation»)
+
 «prescrit» Prescrit par les règlements pris en application de la présente loi. («prescribed»)
+
 «prestations» Les articles, services ou versements prescrits. («benefits»)
+
 «règlements» Les règlements pris en application de la présente loi. («regulations»)
+
 «renseignements biométriques» Renseignements dérivés de caractéristiques uniques d’un particulier, à l’exclusion toutefois d’une image photographique et de l’image d’une signature. («biometric information»)
+
 «renseignements personnels» Renseignements personnels au sens de la Loi sur l’accès à l’information et la protection de la vie privée. («personal information»)
+
 «Tribunal» Le Tribunal de l’aide sociale créé aux termes de l’article 60. («Tribunal») 1997, chap. 25, annexe A, art. 2
 
 ## PARTIE I AIDE : ADMISSIBILITÉ ET PRESTATION
@@ -58,21 +83,29 @@ d) comprend l’obligation de rendre compte aux contribuables de l’Ontario.
 ### Aide à l’emploi
 
 4 L’aide à l’emploi est une aide fournie pour aider une personne à se faire employer et à le rester, et comprend ce qui suit :
+
 a) la participation communautaire;
+
 b) d’autres mesures d’emploi, selon ce qui est prescrit.
 
 ### Aide financière de base
 
 5 L’aide financière de base comprend ce qui suit :
+
 a) l’aide au revenu fournie au titre des besoins essentiels et du logement;
+
 b) des prestations;
+
 c) l’aide en cas d’urgence.
 
 ### Bénéficiaires de l’aide à l’emploi
 
 6 L’aide à l’emploi peut être fournie au profit des personnes suivantes :
+
 a) les bénéficiaires ou les personnes à charge;
+
 b) les personnes qui sont admissibles au soutien du revenu aux termes de la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées ou les personnes à charge;
+
 c) les membres d’une catégorie prescrite de personnes.
 
 ### Bénéficiaires de l’aide au revenu
@@ -86,27 +119,41 @@ c) les membres d’une catégorie prescrite de personnes.
 ### Admissibilité à l’aide au revenu
 
 (3) Nul n’est admissible à l’aide au revenu, à moins de satisfaire aux conditions suivantes :
+
 a) la personne réside en Ontario;
+
 b) les besoins matériels de la personne et de toute personne à charge dépassent leur revenu et leur avoir ne dépasse pas le plafond prescrit, selon ce que prévoient les règlements;
+
 c) la personne et les personnes à charge prescrites fournissent les renseignements et l’attestation de ceux-ci qui sont exigés pour déterminer s’ils sont admissibles, notamment :
+
 (i) les renseignements concernant l’identité, selon ce qui est prescrit,
+
 (ii) les renseignements financiers, selon ce qui est prescrit,
+
 (iii) les autres renseignements prescrits;
+
 d) la personne et les personnes à sa charge satisfont aux autres conditions prescrites relatives à l’admissibilité.
 
 ### Idem
 
 (4) Le bénéficiaire et les personnes à charge prescrites peuvent être tenus de faire ce qui suit comme condition d’admissibilité à l’aide financière de base :
+
 a) satisfaire aux exigences en matière de participation communautaire;
+
 b) participer à des mesures d’emploi;
+
 c) accepter de suivre un programme d’éducation de base et un programme de formation professionnelle liée à un emploi particulier et les suivre;
+
 d) accepter un emploi et le conserver.
 
 ### Bénéficiaires des prestations
 
 8 Des prestations peuvent être fournies au profit des personnes suivantes :
+
 a) les bénéficiaires ou les personnes à charge;
+
 b) les personnes qui sont admissibles au soutien du revenu aux termes de la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées ou les personnes à charge;
+
 c) les membres des catégories prescrites de personnes.
 
 ### Bénéficiaires de l’aide en cas d’urgence
@@ -116,16 +163,23 @@ c) les membres des catégories prescrites de personnes.
 ### Aide pour soins temporaires
 
 10 L’administrateur fournit à un adulte au profit d’un enfant une aide au revenu et des prestations conformément aux règlements si les conditions suivantes sont réunies :
+
 a) l’enfant est confié aux soins temporaires de l’adulte;
+
 b) l’enfant est dans le besoin;
+
 c) l’enfant n’est pas une personne à charge visée par la présente loi ou la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées ;
+
 d) l’adulte n’a pas une obligation légale de fournir des aliments à l’enfant, selon ce qui est prescrit;
+
 e) l’enfant ne reçoit pas de soins en établissement de la part d’une personne qui reçoit une indemnité au titre des soins fournis à l’enfant aux termes de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille ;
+
 f) l’adulte et l’enfant satisfont aux autres conditions d’admissibilité prescrites.
 
 ### Aide en cas de circonstances exceptionnelles
 
 11 Dans les cas qui sont exceptionnels et dans lesquels une enquête révèle qu’il serait souhaitable de fournir une aide à une personne qui n’y est pas admissible, le lieutenant-gouverneur en conseil peut, par décret, ordonner qu’une aide soit fournie à la personne conformément aux conditions du décret.
+
 12 Abrogé : 2009, chap. 33, annexe 8, par. 5 (1).
 
 ### Entente de remboursement et cession
@@ -139,15 +193,21 @@ f) l’adulte et l’enfant satisfont aux autres conditions d’admissibilité p
 ### Idem
 
 (3) Le présent article ne s’applique pas à ce qui suit :
+
 a) un versement qui ne serait pas un revenu ou un élément d’actif aux termes de la présente loi ou des règlements;
+
 b) la portion des gains tirés d’un emploi, du revenu de pension ou d’un autre revenu prescrit qui est versée à l’égard d’une période après celle au cours de laquelle la personne reçoit l’aide.
 
 ### Inobservation
 
 14 (1) Si l’auteur d’une demande, un bénéficiaire ou une personne à charge ne se conforme pas aux conditions ou ne satisfait pas à une condition d’admissibilité prévue par la présente loi ou les règlements, l’administrateur prend, selon ce qui est prescrit, l’une ou l’autre des mesures suivantes :
+
 1. Il refuse d’accorder l’aide.
+
 2. Il déclare cette personne non admissible à l’aide pour la période prescrite.
+
 3. Il réduit ou annule l’aide ou la fraction de celle-ci qui est fournie au profit de cette personne.
+
 4. Il suspend l’aide ou la fraction de celle-ci qui est fournie au profit de cette personne.
 
 ### Rétablissement
@@ -213,8 +273,11 @@ b) la portion des gains tirés d’un emploi, du revenu de pension ou d’un aut
 ### Recouvrement de paiements excédentaires versés dans le cadre d’autres programmes
 
 (3) Un paiement excédentaire pouvant faire l’objet d’une exécution forcée à l’égard d’un bénéficiaire ou de son conjoint aux termes de la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées, de la Loi sur les prestations familiales ou de la Loi sur l’aide sociale générale peut être recouvré aux termes de la présente loi même s’il a été versé, selon le cas :
+
 a) par le directeur aux termes de la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées ;
+
 b) par un administrateur de l’aide sociale aux termes de la Loi sur l’aide sociale générale ;
+
 c) par le directeur aux termes de la Loi sur les prestations familiales.
 
 ### Modes de recouvrement
@@ -236,8 +299,11 @@ c) par le directeur aux termes de la Loi sur les prestations familiales.
 ### Effet de l’avis
 
 (2) La décision selon laquelle un paiement excédentaire a été versé est définitive et exécutoire à l’égard du bénéficiaire comme s’il s’agissait d’une ordonnance de la Cour supérieure de justice si les conditions suivantes sont réunies :
+
 a) un avis de la décision a été donné en vertu du paragraphe (1);
+
 b) le délai prévu pour interjeter appel devant le Tribunal a expiré;
+
 c) aucun appel n’a été interjeté.
 
 ### Effet de l’appel
@@ -259,19 +325,25 @@ c) aucun appel n’a été interjeté.
 ### Modes de recouvrement : créance de la Couronne
 
 22.1 La Couronne du chef de l’Ontario peut recouvrer un paiement excédentaire qui est une créance de la Couronne ou qui est réputé ou déclaré une créance de la Couronne au moyen de tout recours ou de toute procédure dont elle peut se prévaloir en droit si l’administrateur a donné au bénéficiaire un avis écrit en vertu de l’article 21 et que, selon le cas :
+
 a) le délai prévu pour interjeter appel devant le Tribunal a expiré et aucun appel n’a été interjeté;
+
 b) il a été interjeté appel de la décision et le Tribunal a déterminé qu’un paiement excédentaire avait été versé.
 
 ### Insaisissabilité de l’aide financière de base
 
 23 (1) L’aide financière de base ne peut faire l’objet :
+
 a) ni d’une aliénation ou d’un transfert par le bénéficiaire;
+
 b) ni d’une saisie-arrêt, d’une saisie, d’une saisie-exécution ou d’une mise sous séquestre aux termes d’une autre loi.
 
 ### Déduction relative à une somme due au titre des obligations alimentaires envers la famille
 
 (2) Malgré le paragraphe (1), un administrateur peut déduire une fraction de l’aide financière de base pour recouvrer, selon le cas :
+
 a) le montant d’une ordonnance de retenue des aliments qui est exécutoire à l’égard d’un membre du groupe de prestataires aux termes de l’article 20 de la Loi de 1996 sur les obligations familiales et l’exécution des arriérés d’aliments ;
+
 b) les dettes prescrites d’un membre du groupe de prestataires à l’endroit du gouvernement.
 
 ### Montant maximal déduit
@@ -303,7 +375,9 @@ b) les dettes prescrites d’un membre du groupe de prestataires à l’endroit 
 ### Idem
 
 (3) La décision de l’administrateur qui est susceptible d’appel est définitive :
+
 a) à l’expiration du délai prescrit pour demander une révision interne, si aucune révision interne n’est demandée entre temps;
+
 b) le premier en date du jour de l’expiration du délai prescrit pour mener à terme la révision interne, du jour où sont reçus les résultats de la révision interne et du jour où les résultats de la révision interne sont réputés avoir été reçus aux termes de l’article 68, si une révision interne a été demandée.
 
 ### Décisions susceptibles d’appel
@@ -313,13 +387,21 @@ b) le premier en date du jour de l’expiration du délai prescrit pour mener à
 ### Exceptions
 
 (2) Il ne peut être interjeté appel des questions suivantes devant le Tribunal :
+
 1. Une décision concernant l’aide à l’emploi qui n’a aucune incidence sur l’admissibilité à l’aide au revenu ou à une prestation obligatoire ou sur son montant.
+
 2. Une décision concernant des prestations discrétionnaires.
+
 3. Une décision du lieutenant-gouverneur en conseil concernant l’aide fournie dans des circonstances exceptionnelles.
+
 4. La décision de fournir une fraction de l’aide financière de base directement à un tiers.
+
 5. La décision de nommer une personne pour agir au nom d’un bénéficiaire, prise aux termes du paragraphe 17 (2).
+
 6. La modification, le refus ou l’annulation de l’aide en raison d’une modification apportée à la présente loi ou aux règlements.
+
 7. Une décision concernant l’aide en cas d’urgence.
+
 8. Une décision prescrite.
 
 ### Révision interne avant un appel
@@ -401,9 +483,13 @@ b) le premier en date du jour de l’expiration du délai prescrit pour mener à
 ### Ordonnance du Tribunal
 
 31 (1) Dans un appel interjeté devant lui, le Tribunal peut :
+
 a) rejeter l’appel;
+
 b) admettre l’appel;
+
 c) admettre une partie de l’appel;
+
 d) renvoyer la question à l’administrateur pour réexamen conformément aux directives que le Tribunal juge indiquées.
 
 ### Motifs
@@ -429,8 +515,11 @@ d) renvoyer la question à l’administrateur pour réexamen conformément aux d
 ### Appel rejeté
 
 34 (1) Un appel interjeté devant le Tribunal est rejeté si :
+
 a) l’appelant ne dépose pas les renseignements exigés à l’égard de l’appel dans le délai prévu sans avoir de motif raisonnable;
+
 b) dans le cas d’une audience exigeant la comparution en personne, l’appelant ne s’y présente pas aux date, heure et lieu fixés sans avoir de motif raisonnable;
+
 c) dans le cas d’une audience tenue par téléphone, vidéoconférence ou un autre moyen, l’appelant n’est pas disponible aux fins de l’audience sans avoir de motif raisonnable.
 
 ### Restriction relative à un appel subséquent
@@ -460,9 +549,13 @@ c) dans le cas d’une audience tenue par téléphone, vidéoconférence ou un a
 ### Pouvoir de la Cour divisionnaire
 
 (5) Dans un appel d’une décision du Tribunal interjeté devant elle, la Cour divisionnaire peut :
+
 a) rejeter l’appel;
+
 b) admettre l’appel;
+
 c) admettre une partie de l’appel;
+
 d) renvoyer la question au Tribunal ou à l’administrateur pour réexamen conformément aux directives que la Cour divisionnaire juge indiquées.
 
 ### Idem
@@ -530,10 +623,15 @@ d) renvoyer la question au Tribunal ou à l’administrateur pour réexamen conf
 ### Pouvoirs et fonctions de l’administrateur
 
 44 Chaque administrateur exerce les fonctions suivantes :
+
 1. Il reçoit les demandes d’aide financière de base présentées par des personnes qui résident dans sa zone géographique.
+
 2. Il détermine l’admissibilité de chaque auteur de demande à l’aide financière de base.
+
 3. Si l’auteur de la demande est déclaré admissible à l’aide financière de base, il en détermine le montant et en ordonne le versement.
+
 4. Il détermine l’admissibilité à l’aide à l’emploi et en ordonne la fourniture.
+
 5. Il exerce les fonctions prescrites.
 
 ### Pouvoir de conclure des ententes : agent de prestation des services
@@ -571,10 +669,15 @@ d) renvoyer la question au Tribunal ou à l’administrateur pour réexamen conf
 ### Pouvoirs et fonctions du directeur
 
 48 (1) Le directeur :
+
 a) supervise l’application de la présente loi et la fourniture de l’aide par les agents de prestation des services, y compris l’établissement des normes de prestation et leur surveillance;
+
 b) vérifie les coûts engagés par chaque agent de prestation des services aux fins de l’application de la présente loi et de la fourniture de l’aide;
+
 c) détermine la façon de répartir le paiement des coûts de l’application de la présente loi et de la fourniture de l’aide;
+
 d) veille à ce que les versements appropriés soient effectués ou retenus, selon le cas;
+
 e) exerce les pouvoirs et fonctions prescrits.
 
 ### Pouvoir de conclure des ententes : directeur
@@ -608,8 +711,11 @@ e) exerce les pouvoirs et fonctions prescrits.
 ### Supervision par le directeur
 
 (7) Si une entente a été conclue en vertu du présent article, le directeur :
+
 a) supervise l’application de la présente loi et la fourniture de l’aide par la bande ou la personne et vérifie les coûts que celle-ci a engagés à ces fins;
+
 b) veille à ce que les versements appropriés soient faits à la bande ou à la personne ou retenus, selon le cas, conformément à la présente loi et aux règlements;
+
 c) supervise l’observation des exigences en matière de collecte, d’utilisation et de divulgation des renseignements personnels et de protection de leur caractère confidentiel.
 
 ### Désignation des partenaires en prestation des services
@@ -651,13 +757,17 @@ c) supervise l’observation des exigences en matière de collecte, d’utilisat
 ### Versements aux agents de prestation des services
 
 52 (1) En ce qui concerne les zones géographiques dans lesquelles le ministère n’est pas l’agent de prestation des services, le ministre verse à chaque agent de prestation des services les sommes suivantes :
+
 a) la somme déterminée conformément aux règlements au titre de la part de l’Ontario à l’égard des coûts engagés par l’agent de prestation des services aux termes de la présente loi;
+
 b) si la zone géographique de l’agent de prestation des services comprend un territoire non érigé en municipalité, la somme déterminée conformément aux règlements au titre de la part de ce territoire à l’égard des coûts engagés par l’agent de prestation des services aux termes de la présente loi.
 
 ### Versements aux partenaires en prestation des services
 
 (1.1) En ce qui concerne les zones géographiques dans lesquelles le ministère est l’agent de prestation des services, le ministre verse à chaque partenaire en prestation des services :
+
 a) la somme établie conformément aux règlements au titre de la part de l’Ontario à l’égard des coûts engagés par le partenaire en prestation des services aux termes de la présente loi;
+
 b) si la zone géographique du partenaire en prestation des services comprend un territoire non érigé en municipalité, la somme déterminée conformément aux règlements au titre de la part du territoire à l’égard des coûts engagés par le partenaire en prestation des services aux termes de la présente loi.
 
 ### Versements aux bandes et aux personnes
@@ -801,12 +911,15 @@ b) si la zone géographique du partenaire en prestation des services comprend un
 ### Examen préalable et communication
 
 (2) Sous réserve du paragraphe (3), les membres du Tribunal qui tiennent l’audience ne peuvent :
+
 a) ni avoir pris part, avant l’audience, à une enquête ou à un examen portant sur l’objet de l’audience;
+
 b) ni communiquer directement ou indirectement avec quiconque au sujet de l’objet de l’audience, si ce n’est après en avoir avisé les parties et leur avoir fourni l’occasion de participer à la communication.
 
 ### Conseils fournis au Tribunal
 
 (3) Le Tribunal peut solliciter les conseils juridiques d’un conseiller indépendant des parties et les membres du Tribunal peuvent se consulter entre eux.
+
 (4) abrogé : 2024, chap. 28, annexe 25, art. 8.
 
 ### Difficultés financières
@@ -820,7 +933,9 @@ b) ni communiquer directement ou indirectement avec quiconque au sujet de l’ob
 ### Idem
 
 (2) Le Tribunal ne doit pas examiner les questions suivantes ni rendre de décisions à leur sujet :
+
 a) la constitutionnalité d’une disposition d’une loi ou d’un règlement;
+
 b) l’autorisation législative en vertu de laquelle un règlement a été pris en application d’une loi.
 
 ## PARTIE V DISPOSITIONS GÉNÉRALES
@@ -848,9 +963,13 @@ b) l’autorisation législative en vertu de laquelle un règlement a été pris
 ### Idem
 
 (3) Une demande visée au présent article ne doit pas dépasser le total des coûts suivants :
+
 a) les coûts engagés, par suite de la perte, pour l’aide qui a déjà été fournie à la personne;
+
 b) les coûts qui seront vraisemblablement engagés, par suite de cette perte, pour l’aide future;
+
 c) les coûts engagés, par suite de cette perte, pour l’aide sociale fournie aux termes de la Loi sur l’aide sociale générale, de la Loi sur les prestations familiales ou de la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées ou pour l’aide fournie aux termes de la Loi sur les services de réadaptation professionnelle, par la personne chargée dans chaque cas de l’application de la loi en question;
+
 d) les coûts engagés, par suite de cette perte, aux termes d’une loi prescrite.
 
 ### Idem
@@ -860,18 +979,27 @@ d) les coûts engagés, par suite de cette perte, aux termes d’une loi prescri
 ### Ententes conclues avec d’autres compétences
 
 71 (1) Le ministre peut conclure avec l’un ou l’autre des gouvernements ou entités suivants une entente à l’égard de la collecte, de l’utilisation et de la divulgation de renseignements :
+
 1. Le gouvernement du Canada ou un de ses ministères ou organismes.
+
 2. Le gouvernement d’une province ou d’un territoire du Canada, ou un de ses ministères ou organismes.
+
 3. Le gouvernement des États-Unis ou le gouvernement d’un État des États-Unis ou un des ministères ou organismes de l’un ou l’autre de ces gouvernements.
+
 4. Une entité qui est une institution au sens de la Loi sur l’accès à l’information et la protection de la vie privée ou de la Loi sur l’accès à l’information municipale et la protection de la vie privée.
+
 5. Le gouvernement d’un autre pays ou un de ses ministères ou organismes.
+
 6. Les autres entités prescrites.
 
 ### Divulgation de renseignements personnels
 
 (2) Le ministre peut divulguer à un gouvernement ou à une entité visés au paragraphe (1) les renseignements personnels visés au paragraphe (4) si les conditions suivantes sont réunies :
+
 a) la divulgation est faite conformément à l’entente;
+
 b) le gouvernement ou l’entité administre ou exécute un régime de prestations sociales ou effectue une recherche à l’égard d’un tel régime, ou les renseignements ont trait à l’application ou à l’exécution de la Loi de l’impôt sur le revenu, de la Loi de 2007 sur les impôts, de la Loi de l’impôt sur le revenu (Canada), de la Loi sur l’immigration et la protection des réfugiés (Canada) ou des lois prescrites, ou à une recherche à l’égard de ces lois;
+
 c) le gouvernement ou l’entité convient de n’utiliser les renseignements qu’aux fins de l’administration ou de l’exécution d’un régime de prestations sociales ou qu’à des fins de recherche à l’égard d’un tel régime, de la Loi de l’impôt sur le revenu, de la Loi de 2007 sur les impôts, de la Loi de l’impôt sur le revenu (Canada), de la Loi sur l’immigration et la protection des réfugiés (Canada) ou des lois prescrites.
 
 ### Caractère confidentiel
@@ -885,8 +1013,11 @@ c) le gouvernement ou l’entité convient de n’utiliser les renseignements qu
 ### Aucun avis au particulier
 
 (5) Le paragraphe 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée et le paragraphe 29 (2) de la Loi sur l’accès à l’information municipale et la protection de la vie privée ne s’appliquent pas à l’égard des renseignements recueillis aux termes d’une entente conclue en vertu du paragraphe (1) ou du paragraphe 72 (1) si, selon le cas :
+
 a) les renseignements ont été recueillis par comparaison de données;
+
 b) la remise d’un avis au particulier aurait pour effet de contrecarrer une enquête;
+
 c) la remise d’un avis au particulier n’est pas possible.
 
 ### Collecte de renseignements personnels
@@ -928,8 +1059,11 @@ c) la remise d’un avis au particulier n’est pas possible.
 ### Divulgation de renseignements
 
 (2) L’agent de prestation des services ou le partenaire en prestation des services peut divulguer des renseignements personnels recueillis pour l’application ou l’exécution de la présente loi à tout gouvernement ou à toute entité avec qui l’agent ou le partenaire, selon le cas, a conclu l’entente visée au paragraphe (1) si les conditions suivantes sont réunies :
+
 a) la divulgation est faite conformément à l’entente;
+
 b) le gouvernement ou l’entité administre ou exécute un régime de prestations sociales ou effectue une recherche à l’égard d’un tel régime, ou les renseignements ont trait à l’application ou à l’exécution de la Loi de l’impôt sur le revenu, de la Loi de 2007 sur les impôts, de la Loi de l’impôt sur le revenu (Canada), de la Loi sur l’immigration et la protection des réfugiés (Canada) ou des lois prescrites, ou à une recherche à l’égard de ces lois;
+
 c) le gouvernement ou l’entité convient de n’utiliser les renseignements qu’aux fins de l’administration ou de l’exécution d’un régime de prestations sociales ou qu’à des fins de recherche à l’égard d’un tel régime, de la Loi de l’impôt sur le revenu, de la Loi de 2007 sur les impôts, de la Loi de l’impôt sur le revenu (Canada), de la Loi sur l’immigration et la protection des réfugiés (Canada) ou des lois prescrites.
 
 ### Caractère confidentiel
@@ -975,87 +1109,157 @@ c) le gouvernement ou l’entité convient de n’utiliser les renseignements qu
 ### Interdiction concernant la syndicalisation
 
 (2) Sans préjudice de la portée générale du paragraphe (1), nul ne doit, en ce qui concerne sa participation à une activité de participation communautaire, faire l’un ou l’autre des actes suivants sous le régime de la Loi de 1995 sur les relations de travail :
+
 1. Adhérer à un syndicat.
+
 2. Faire fixer, par voie de négociation collective, les conditions de sa participation.
+
 3. Se mettre en grève.
 
 ### Règlements
 
 74 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 1. prescrire les personnes à inclure dans un groupe de prestataires;
+
 2. traiter de la détermination des besoins matériels, du revenu et de l’avoir ainsi que de la valeur maximale permise de l’avoir;
+
 3. traiter de la détermination du montant de l’aide à fournir ainsi que des dates et du mode de sa fourniture, y compris les personnes qui y sont admissibles et la façon de déterminer quelle fraction de l’aide est fournie à l’égard de chaque personne;
+
 4. traiter de l’aide à l’emploi et des normes que les agents de prestation des services doivent respecter lorsqu’ils fournissent l’aide à l’emploi;
+
 5. traiter des normes et des conditions relatives aux activités de participation communautaire;
+
 6. traiter de l’aide au revenu et déterminer les personnes qui peuvent y être admissibles;
+
 7. traiter des articles, services et versements qui peuvent être inclus à titre de prestations et déterminer les personnes qui peuvent être admissibles à des prestations;
+
 8. traiter de l’aide en cas d’urgence et déterminer les personnes qui peuvent y être admissibles;
+
 9. traiter des conditions d’admissibilité à l’aide, notamment :
+
 (i) les conditions supplémentaires relatives à l’admissibilité à l’aide,
+
 (ii) les renseignements à fournir, y compris les dates auxquelles ils sont fournis et la façon de les fournir, leur attestation et les visites à domicile,
+
 (iii) les changements de circonstances,
+
 (iv) la disposition des biens,
+
 (v) l’obligation de satisfaire aux exigences en matière de participation ayant trait aux mesures d’emploi et à la participation communautaire,
+
 (vi) l’obligation d’obtenir une rémunération ou de réaliser une ressource financière,
+
 (vii) l’obligation de convenir de rembourser les agents de prestation des services et de faire des cessions en leur faveur,
+
 (viii) le statut d’une personne au pays;
+
 10. traiter de la détermination de la résidence en Ontario;
+
 11. prescrire les catégories de personnes qui ne sont pas admissibles à l’aide;
+
 12. traiter de la fourniture et de la prestation des services d’hébergement d’urgence, y compris le financement, le pouvoir des agents de prestation des services de conclure des ententes avec des tiers pour fournir ces services, les normes minimales et les conditions à inclure dans ces ententes et les montants quotidiens maximaux auxquels s’applique le partage des coûts;
+
 13. traiter de ce qui constitue être dans le besoin pour l’application de l’article 10;
+
 14. Abrogée : 2009, chap. 33, annexe 8, par. 5 (3).
+
 15. traiter des demandes d’aide financière de base et des renseignements qu’elles doivent comprendre;
+
 16. exiger que les demandes et autres documents soient préparés selon une forme et de la façon approuvées par le directeur;
+
 17. traiter des conséquences de l’inobservation d’une condition d’admissibilité, y compris établir des périodes de non-admissibilité;
+
 18. traiter du rétablissement de l’aide financière de base ou de son rajustement pour le porter à son niveau antérieur et de la procédure qui s’applique;
+
 19. prescrire la procédure à suivre pour déterminer s’il est nécessaire de nommer une personne pour qu’elle agisse au nom d’un bénéficiaire et la nommer aux termes de l’article 17, prévoir des mesures à l’égard de la responsabilité de la personne de rendre des comptes et prescrire des exigences en matière de présentation de rapports;
+
 20. prévoir des règles pour le versement d’une fraction de l’aide financière de base directement à un tiers pour l’application de l’article 18;
+
 21. traiter du rapprochement des paiements excédentaires entre les agents de prestation des services dans les cas où ils sont dus à un agent de prestation des services et recouvrés par un autre, et traiter du rapprochement des paiements excédentaires recouvrés aux termes du paragraphe 19 (3);
+
 22. traiter des renseignements qui doivent figurer dans un avis de décision concernant un paiement excédentaire, et traiter du calcul et du recouvrement des paiements excédentaires et des montants maximaux qui peuvent être déduits de l’aide financière de base lors du recouvrement d’un paiement excédentaire;
+
 23. prescrire les dettes pour l’application du paragraphe 23 (2) et l’ordre de priorité de leur recouvrement;
+
 24. prescrire les questions supplémentaires dont il peut être interjeté appel en vertu de la présente loi;
+
 25. traiter de l’obligation d’effectuer la révision interne et de la procédure à suivre pour le faire;
+
 26. prescrire le délai dans lequel une révision interne peut être demandée et, le cas échéant, celui dans lequel elle doit être menée à terme;
+
 27. prescrire le délai dans lequel un appel peut être interjeté devant le Tribunal;
+
 28. traiter de l’interjection des appels devant le Tribunal, de leur conduite et de la procédure d’appel ainsi que du délai dans lequel les décisions doivent être rendues;
+
 29. traiter de l’obligation d’enregistrer des témoignages, que ce soit par transcription ou au moyen de notes prises par les membres lors d’une audience;
+
 30. traiter du dossier de l’instance aux fins des instances introduites devant un tribunal;
+
 31. prescrire les catégories d’appels dont les agents de prestation des services doivent aviser le directeur;
+
 32. traiter de la détermination de l’aide provisoire pour l’application de l’article 30;
+
 33. prescrire la période au cours de laquelle un nouvel appel n’est pas permis pour l’application du paragraphe 34 (2);
+
 33.1 régir les appels interjetés en vertu de la présente loi devant la Cour divisionnaire pour l’application du paragraphe 36 (1);
+
 34. traiter des pouvoirs et des fonctions d’un agent de prestation des services pour l’application de la présente loi;
+
 34.1 prescrire et imputer des coûts à un partenaire en prestation des services;
+
 35. traiter des coûts engagés aux termes de la présente loi auxquels devrait s’appliquer le partage des coûts et en prévoir le mode de partage, y compris leur répartition entre l’Ontario, les municipalités et les habitants du territoire non érigé en municipalité, et prescrire les municipalités auxquelles s’applique le partage des coûts;
+
 36. traiter de l’établissement des coûts estimatifs et des coûts réellement engagés ainsi que du rapprochement de ceux-ci et traiter des réserves pour fonds de caisse;
+
 37. traiter de la détermination des sommes que l’Ontario verse aux agents de prestation des services et aux partenaires en prestation des services et que les agents et les partenaires versent à l’Ontario ainsi que de la façon de les déterminer, prévoir leur mode de versement et la fréquence des versements, la suspension ou la retenue de tout ou partie des sommes payables par l’Ontario, et les déductions qui sont effectuées sur ces sommes;
+
 38. traiter de la répartition entre les municipalités situées dans une zone géographique de leur part des coûts engagés par l’agent de prestation des services et le partenaire en prestation des services aux termes de la présente loi et, à cette fin, prescrire les municipalités qui sont visées par cette répartition et le mode selon lequel le recouvrement de cette part doit être effectué;
+
 39. prévoir le recouvrement par l’Ontario auprès d’un agent de prestation des services et d’un partenaire en prestation des services des sommes que l’Ontario a versées aux termes de la présente loi mais dont le paiement incombe à l’agent et au partenaire, ou le recouvrement par l’Ontario ou un agent de prestation des services auprès d’un bénéficiaire de l’aide ou de sa succession des sommes que l’Ontario ou l’agent de prestation des services a versées aux termes de la présente loi, et prescrire les circonstances dans lesquelles ce recouvrement peut être effectué et le mode selon lequel il peut l’être;
+
 40. prescrire des pouvoirs et des fonctions supplémentaires des administrateurs et du directeur et prévoir la façon dont les administrateurs exercent leurs pouvoirs et leurs fonctions;
+
 41. traiter des ententes conclues entre le directeur et les agents de prestation des services et entre les agents de prestation des services et des tiers;
+
 42. prescrire les pouvoirs et les fonctions des agents de révision de l’admissibilité et des agents d’aide au recouvrement et prévoir la façon dont ils exercent leurs pouvoirs et leurs fonctions;
+
 43. prévoir des règles qui s’appliquent aux membres de bandes qui vivent sur une réserve à l’égard de l’application de la présente loi, y compris la fourniture, la prestation, l’administration et le financement de l’aide, et prescrire les réserves ou les zones géographiques auxquelles s’appliquent ces règles;
+
 44. traiter de la remise d’avis pour l’application de la présente loi;
+
 45. traiter des droits de subrogation prévus à l’article 70;
+
 46. prescrire les pouvoirs et les fonctions auxquels peut s’appliquer la pénalité prévue à l’article 78 et les règles à suivre pour déterminer la pénalité à imposer à l’égard de chaque pouvoir ou fonction ainsi que du mode de recouvrement de celle-ci;
+
 47. définir tout terme utilisé mais non défini dans la présente loi;
+
 48. prescrire toute question que la présente loi mentionne comme étant prescrite;
+
 49. prévoir la collecte, la conservation, l’utilisation et la divulgation des renseignements personnels visés à l’alinéa (3) a) ainsi que la protection du caractère confidentiel de ceux-ci.
 
 ### Règlements : ministre
 
 (2) Le ministre peut, par règlement :
+
 1. désigner, pour l’application de la présente loi, des zones géographiques et des agents de prestation des services et des partenaires en prestation des services à l’égard de ces zones;
+
 2. prescrire les pouvoirs et les fonctions d’un partenaire en prestation des services pour l’application de la présente loi, les normes qu’un tel partenaire doit respecter dans l’exercice de ses fonctions et la procédure et les pratiques qu’il doit suivre;
+
 3. prescrire les normes que doit respecter un agent de prestation des services dans l’exercice de ses fonctions et la procédure et les pratiques qu’il doit suivre;
+
 4. prescrire les déclarations de principes qui s’appliquent dans l’interprétation et l’application de la présente loi et des règlements;
+
 5. traiter des ententes conclues entre le ministère et les partenaires en prestation des services et entre les partenaires en prestation des services et des tiers;
+
 6. prescrire toute question que la présente loi mentionne comme étant prescrite par le ministre.
 
 ### Renseignements
 
 (3) Un règlement pris en application de la disposition 9 du paragraphe (1) peut comprendre une exigence voulant qu’une personne :
+
 a) d’une part, fournisse une preuve qui permet de l’identifier au moyen d’images photographiques ou de renseignements biométriques codés;
+
 b) d’autre part, fournisse des renseignements personnels sur un tiers qui sont pertinents pour déterminer l’admissibilité de la personne.
 
 ### Prestations discrétionnaires
@@ -1073,15 +1277,21 @@ b) d’autre part, fournisse des renseignements personnels sur un tiers qui sont
 ### Répartition des coûts
 
 (7) Les règlements pris en application de la disposition 38 du paragraphe (1) peuvent :
+
 1. Autoriser les municipalités situées dans une zone géographique à déterminer, au moyen d’une entente, le mode de répartition de leurs coûts, sous réserve des conditions prescrites.
+
 2. Prévoir une procédure d’arbitrage pour déterminer le mode de répartition des coûts de ces municipalités.
+
 3. Énoncer le mode de répartition des coûts de ces municipalités.
 
 ### Idem
 
 (8) Les règlements visés à la disposition 1 ou 2 du paragraphe (7) peuvent :
+
 a) prévoir, provisoirement, le mode de répartition des coûts ainsi que le délai dans lequel ils doivent être payés et leur mode de paiement;
+
 b) permettre qu’une entente ou qu’une décision arbitrale s’applique aux coûts engagés et payés avant que l’entente ne soit conclue ou que la décision ne soit rendue;
+
 c) prévoir le rapprochement des versements effectués provisoirement.
 
 ### Idem
@@ -1095,6 +1305,7 @@ c) prévoir le rapprochement des versements effectués provisoirement.
 ### Idem
 
 (11) La définition qui suit s’applique à la présente loi et aux règlements.
+
 «bandes», «membres de bandes» et «réserves» S’entendent au sens de la Loi sur les Indiens (Canada).
 
 ### Primauté du règlement
@@ -1116,11 +1327,17 @@ c) prévoir le rapprochement des versements effectués provisoirement.
 ### Renseignements biométriques
 
 75 (1) Si la présente loi ou les règlements autorisent quiconque à recueillir ou à utiliser des renseignements personnels, des renseignements biométriques ne peuvent être recueillis ou utilisés qu’aux fins suivantes :
+
 1. Veiller à ce qu’un particulier ne soit inscrit qu’une seule fois à titre d’auteur de demande, de bénéficiaire, de conjoint ou d’adulte à charge.
+
 2. Authentifier l’identité d’un particulier qui prétend avoir droit à une aide.
+
 3. Permettre à un particulier de recevoir une aide fournie par l’intermédiaire d’une institution financière ou d’un autre fournisseur autorisé et d’en accuser réception.
+
 4. Permettre à un auteur de demande, à un bénéficiaire, à un conjoint ou à un adulte à charge d’obtenir l’accès à des renseignements personnels.
+
 5. Permettre à un particulier de faire une déclaration par un moyen électronique, notamment vocal, à toute fin autorisée aux termes de la présente loi.
+
 6. Comparer des données conformément à une entente conclue en vertu de l’article 71 ou 72 afin de vérifier l’admissibilité à une aide ou à des prestations.
 
 ### Idem
@@ -1130,8 +1347,11 @@ c) prévoir le rapprochement des versements effectués provisoirement.
 ### Idem
 
 (3) Les renseignements biométriques ne doivent pas être divulgués à un tiers sauf si la divulgation est faite conformément :
+
 a) soit à une ordonnance d’un tribunal ou à un mandat;
+
 b) soit à une entente conclue en vertu de l’article 71 ou 72 afin de vérifier l’admissibilité à un régime de prestations sociales, y compris un régime de prestations sociales visé par la Loi de l’impôt sur le revenu, la Loi de 2007 sur les impôts ou la Loi de l’impôt sur le revenu (Canada);
+
 c) soit à l’article 73.
 
 ### Idem
@@ -1197,6 +1417,7 @@ c) soit à l’article 73.
 ### Peine
 
 (4) Quiconque contrevient au paragraphe (1), (2) ou (3) est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende d’au plus 5 000 $ et d’un emprisonnement d’au plus six mois, ou d’une seule de ces peines.
+
 80 Omis (édicte le titre abrégé de la présente loi).
 
 ### Annexe D abrogée : 2021, chap. 25, annexe 21, art. 21.

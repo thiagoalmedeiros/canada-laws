@@ -6,20 +6,22 @@ language: en
 type: act
 document_date: "2024-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18f03"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Forensic Laboratories Act, 2018
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18f03) before relying on it.
 
 S.O. 2018, c. 3, Sched. 8
 
 ### Definitions
 
 1 In this Act,
+
 “Minister” means such member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “prescribed” means prescribed by the regulations made under this Act. (“prescrit”)
 
 ### Forensic laboratory accreditation
@@ -27,14 +29,19 @@ S.O. 2018, c. 3, Sched. 8
 ### Application
 
 2 (1) This section applies to a test in a prescribed category of test that is requested,
+
 (a) for the purpose of legal proceedings;
+
 (b) for some other legal purpose; or
+
 (c) pursuant to an order of a court or other lawful authority.
 
 ### Accreditation requirement
 
 (2) No person shall, in a laboratory, conduct a test to which this section applies, unless,
+
 (a) the laboratory is accredited, by an accrediting body prescribed by the regulations, to a prescribed general standard; and
+
 (b) if the test is a prescribed test, the laboratory is accredited, by an accrediting body prescribed by the regulations, to a prescribed standard for that test.
 
 ### Same
@@ -46,36 +53,55 @@ S.O. 2018, c. 3, Sched. 8
 ### Application
 
 3 (1) This section applies to a person who operates a laboratory,
+
 (a) in which a test is conducted to which section 2 applies; or
+
 (b) from which test results are provided that,
+
 (i) are the results of a test that was conducted in the laboratory for the purpose of diagnosis, prevention or treatment, and
+
 (ii) are requested,
+
 (A) for the purpose of legal proceedings,
+
 (B) for some other legal purpose, or
+
 (C) pursuant to an order of a court or other lawful authority.
 
 ### Information to provide and form
 
 (2) The person to whom this section applies shall ensure that the prescribed information in the prescribed form is provided whenever,
+
 (a) test results in respect of a test referred to in clause (1) (a) are provided from their laboratory; or
+
 (b) test results referred to in clause (1) (b) are provided from their laboratory.
 
 ### Centralized information
 
 4 The Minister may make available to the public the following information concerning laboratories that are accredited to a prescribed general standard referred to in clause 2 (2) (a), and about any other laboratories in which the Minister believes a test to which section 2 applies may have been conducted:
+
 1. The name, location and contact information of the laboratory.
+
 2. The laboratory’s accrediting body.
+
 3. The type of tests that the laboratory is accredited for and the tests performed at the laboratory.
+
 4. The history of compliance with the requirements of the accrediting body, including the laboratory’s current status with respect to those requirements.
+
 5. Information about convictions and sentences under this Act.
+
 6. Information about how to access other information about the laboratory, including how to access that information online.
+
 7. Prescribed information.
 
 ### Advisory committee
 
 5 The Minister may,
+
 (a) establish an advisory committee to advise the Minister on the exercise of his or her powers and the performance of his or her duties, functions and responsibilities under this Act;
+
 (b) appoint the members of the committee, and designate one member as chair and one or more members as vice-chair; and
+
 (c) determine the terms of reference of the committee.
 
 ### Inspections
@@ -107,12 +133,19 @@ S.O. 2018, c. 3, Sched. 8
 ### Powers of inspector
 
 (7) An inspector conducting an inspection may,
+
 (a) examine records or anything else that is relevant to the inspection;
+
 (b) demand the production of a record or any other thing that is relevant to the inspection;
+
 (c) remove a record or any other thing that is relevant to the inspection for review;
+
 (d) remove a record or any other thing that is relevant to the inspection for copying;
+
 (e) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the laboratory;
+
 (f) take photographs or make any other kind of recording; and
+
 (g) question a person on matters relevant to the inspection.
 
 ### Written demand
@@ -126,7 +159,9 @@ S.O. 2018, c. 3, Sched. 8
 ### Records and things removed from laboratory
 
 (10) A record or other thing that has been removed for review or copying,
+
 (a) shall be made available to the person from whom it was removed on request and at a time and place that are convenient for the person and for the inspector; and
+
 (b) shall be returned to the person within a reasonable time.
 
 ### Copy admissible in evidence
@@ -144,7 +179,9 @@ S.O. 2018, c. 3, Sched. 8
 ### Warrant
 
 7 (1) A justice of the peace may issue a warrant authorizing an inspector named in the warrant to enter a laboratory specified in the warrant and to exercise any of the powers mentioned in subsection 6 (7), if the justice of the peace is satisfied on information under oath that,
+
 (a) the inspector has been prevented from exercising a right of entry to the premises under subsection 6 (3) or has been prevented from exercising a power under subsection 6 (7); or
+
 (b) there are reasonable grounds to believe that the inspector will be prevented from exercising a right of entry to the premises under subsection 6 (3) or will be prevented from exercising a power under subsection 6 (7).
 
 ### Expiry of warrant
@@ -172,7 +209,9 @@ S.O. 2018, c. 3, Sched. 8
 ### Unaccredited testing
 
 8 (1) Every person who contravenes subsection 2 (2) is guilty of an offence and on conviction is liable,
+
 (a) in the case of a first offence, to a fine of not more than $25,000; or
+
 (b) in the case of a second or subsequent offence, to a fine of not more than $50,000.
 
 ### Fail to comply with information requirements
@@ -182,7 +221,9 @@ S.O. 2018, c. 3, Sched. 8
 ### Obstruct or disobey inspector
 
 (3) Every person who fails to comply with subsection 6 (9) or (12) is guilty of an offence and on conviction is liable,
+
 (a) in the case of a first offence, to a fine of not more than $25,000; or
+
 (b) in the case of a second or subsequent offence, to a fine of not more than $50,000.
 
 ### Evidence
@@ -198,19 +239,27 @@ S.O. 2018, c. 3, Sched. 8
 ### LG in C
 
 11 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) specifying laboratories, legal proceedings, legal purposes, orders, persons or entities with respect to which section 2 or 3 applies or does not apply;
+
 (b) requiring a person who operates a laboratory to provide information that relates to the accreditation of the laboratory to the Minister;
+
 (c) providing for such other matters as the Lieutenant Governor in Council considers advisable to carry out the purpose of this Act.
 
 ### Minister
 
 (2) The Minister may make regulations,
+
 (a) prescribing categories of tests, accrediting bodies, general standards, tests and standards for prescribed tests, for the purpose of section 2;
+
 (b) prescribing information for the purpose of section 3 and prescribing requirements for the form in which that information must be presented;
+
 (c) prescribing information for the purpose of paragraph 7 of section 4.
 
 ### Incorporation by reference
 
 (3) A regulation made under clause (2) (a) may incorporate a standard, in whole or in part, and with such changes as the Minister considers necessary, as the standard may be amended or remade.
+
 12 Omitted (provides for coming into force of provisions of this Act).
+
 13 Omitted (enacts short title of this Act).

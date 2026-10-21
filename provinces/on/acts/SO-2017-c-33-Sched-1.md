@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-06-06"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17n33"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # New Home Construction Licensing Act, 2017
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17n33) before relying on it.
 
 S.O. 2017, c. 33, Sched. 1
 
@@ -21,58 +21,103 @@ S.O. 2017, c. 33, Sched. 1
 ### Definitions
 
 1 (1) In this Act,
+
 “administrative agreement” means the agreement described in subsection 3 (1); (“accord d’application”)
+
 “administrative penalty” means an administrative penalty imposed under section 76; (“pénalité administrative”)
+
 “assessor” means an assessor appointed under subsection 75 (2) who is authorized to impose an administrative penalty or the registrar acting as an assessor; (“évaluateur”)
+
 “builder” has the same meaning as “builder” as defined in section 1 of the Ontario New Home Warranties Plan Act; (“constructeur”)
+
 “common elements” means all the condominium property except the condominium units; (“parties communes”)
+
 “common elements condominium corporation”, “common expenses” and “common interest” have the same meaning as in the Condominium Act, 1998; (“association condominiale de parties communes”, “dépenses communes”, “intérêt commun”)
+
 “condominium corporation” means a corporation as defined in subsection 1 (1) of the Condominium Act, 1998; (“association condominiale”)
+
 “condominium declaration” means a declaration as defined in subsection 1 (1) of the Condominium Act, 1998; (“déclaration de condominium”)
+
 “condominium property” means property as defined in subsection 1 (1) of the Condominium Act, 1998; (“propriété condominiale”)
+
 “condominium unit” means a unit as defined in subsection 1 (1) of the Condominium Act, 1998; (“partie privative de condominium”)
+
 “delegated provisions” means the provisions of this Act and the regulations that the Lieutenant Governor in Council has designated as such under subsection 2 (2); (“dispositions déléguées”)
+
 “Director” means the Director appointed under subsection 36 (1); (“directeur”)
+
 “employ” means to employ, appoint, authorize or otherwise arrange to have another person act on one’s behalf, including as an independent contractor; (“employer”)
+
 “equity share” means, in respect of a corporation, a share of a class or series of shares of a corporation that carries a voting right either under all circumstances or under circumstances that have occurred and are continuing; (“action participante”)
+
 “information sharing agreement” means any of the agreements described in subsection 4 (3); (“accord d’échange de renseignements”)
+
 “inspector” means an inspector appointed under subsection 58 (2) or the registrar acting as an inspector; (“inspecteur”)
+
 “investigator” means an investigator appointed under subsection 60 (1); (“enquêteur”)
+
 “licensee” means the holder of a licence issued under this Act; (“titulaire de permis”, see also “agréé”)
+
 “Minister” means the Minister of Government and Consumer Services or any other member of the Executive Council to whom the responsibility for the administration of this Act is assigned under the Executive Council Act; (“ministre”)
+
 “new home” has the same meaning as “home” as defined in section 1 of the Ontario New Home Warranties Plan Act; (“logement neuf”)
+
 “officer” includes,
+
 (a) the chair and any vice-chair of the board of directors, the president and any vice-president, the secretary and assistant secretary, the treasurer and assistant treasurer and the general manager and assistant general manager of a corporation or the regulatory authority,
+
 (b) a partner or general manager and assistant general manager of a partnership,
+
 (c) any other individual designated as an officer by by-law or resolution of an organization,
+
 (d) any other individual who performs functions normally performed by an individual occupying an office described in clause (a), (b) or (c), and
+
 (e) any other prescribed individual; (“dirigeant”)
+
 “owner” has the same meaning as “owner” as defined in section 1 of the Ontario New Home Warranties Plan Act; (“propriétaire”)
+
 “owner-builder” means, subject to the prescribed requirements or restrictions, if any, an individual who constructs or manages the construction of a residential dwelling for the individual’s personal use and occupation and who meets the prescribed requirements, if any; (“constructeur-propriétaire”)
+
 “person” means a natural person, corporation, partnership, sole proprietorship, association or other prescribed person or entity; (“personne”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means regulations made under this Act; (“règlements”)
+
 “regulatory authority” means the corporation that the Lieutenant Governor in Council has designated as such under subsection 2 (1); (“organisme de réglementation”)
+
 “Tribunal” means the Licence Appeal Tribunal established under the Licence Appeal Tribunal Act, 1999 or whatever other tribunal is prescribed; (“Tribunal”)
+
 “vendor” has the same meaning as “vendor” as defined in section 1 of the Ontario New Home Warranties Plan Act; (“vendeur”)
+
 “warranty authority” has the same meaning as “Corporation” as defined in section 1 of the Ontario New Home Warranties Plan Act. (“organisme de garantie”)
 
 ### Interested person
 
 (2) For the purposes of this Act, a person shall be deemed to be an interested person in respect of another person if the person is associated with the other person or if, in the opinion of the registrar,
+
 (a) the person has or may have a beneficial interest in the other person’s activities;
+
 (b) the person exercises or may exercise control either directly or indirectly over the other person; or
+
 (c) the person has provided or may have provided financing either directly or indirectly for the other person’s activities.
 
 ### Associated persons
 
 (3) For the purposes of this Act, one person is associated with another person in any of the following circumstances:
+
 1. One person is a corporation of which the other person is an officer or director.
+
 2. One person is a partnership of which the other person is a partner.
+
 3. Both persons are partners of the same partnership.
+
 4. One person is a corporation that is controlled directly or indirectly by the other person.
+
 5. Both persons are corporations and one corporation is controlled directly or indirectly by the same person who controls directly or indirectly the other corporation.
+
 6. Both persons are members of the same voting trust relating to shares of a corporation.
+
 7. Both persons are associated within the meaning of paragraphs 1 to 6 with the same person.
 
 ## PART II ADMINISTRATION
@@ -98,15 +143,21 @@ S.O. 2017, c. 33, Sched. 1
 ### Contents
 
 (2) The administrative agreement shall include, at a minimum, terms related to the following matters:
+
 1. The governance of the regulatory authority.
+
 2. All matters that the Minister considers necessary for the regulatory authority to carry out the administration of the delegated provisions.
+
 3. The maintenance by the regulatory authority of adequate insurance against liability arising out of the carrying out of its powers and duties under this Act or the regulations.
+
 4. The financial terms of the delegation of the administration of the delegated provisions, including payments to the Crown, licence fees, royalties and reimbursements for transfer of assets.
 
 ### Compliance with operating principles
 
 (3) In addition to the terms required under subsection (2), the administrative agreement shall require the regulatory authority to comply with the principles of,
+
 (a) maintaining a fair, safe and informed marketplace; and
+
 (b) promoting the protection of the public interest.
 
 ### Information sharing
@@ -124,19 +175,33 @@ S.O. 2017, c. 33, Sched. 1
 ### Content of agreements
 
 (4) The information sharing agreements mentioned in subsection (3) shall include, at a minimum, terms relating to the prescribed matters, which may include,
+
 (a) licence and licence renewal applications;
+
 (b) licence conditions;
+
 (c) licence suspensions;
+
 (d) licence revocations;
+
 (e) complaints made under section 56;
+
 (f) breaches of the code of ethics established under clause 84 (1) (f);
+
 (g) orders made under section 64;
+
 (h) freeze orders made under section 65 or 66;
+
 (i) compliance orders made under section 67 or immediate compliance orders made under section 68;
+
 (j) restraining orders made under section 70;
+
 (k) administrative penalties;
+
 (l) offences;
+
 (m) other enforcement actions taken by the regulatory authority; and
+
 (n) all other content that is prescribed.
 
 ### Sharing of enforcement information
@@ -150,11 +215,17 @@ S.O. 2017, c. 33, Sched. 1
 ### Review
 
 6 (1) The Minister may,
+
 (a) require that policy, legislative or regulatory reviews related to the powers and duties of the regulatory authority under this Act, the regulations, the administrative agreement or the information sharing agreements be carried out,
+
 (i) by or on behalf of the authority, or
+
 (ii) by a person or entity specified by the Minister; or
+
 (b) require that reviews of the regulatory authority, of its operations, or of both, including, without limitation, performance, governance, accountability and financial reviews, be carried out,
+
 (i) by or on behalf of the authority, or
+
 (ii) by a person or entity specified by the Minister.
 
 ### Access to records
@@ -164,8 +235,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Conflict
 
 7 In the event of conflict, this Act and the regulations prevail over,
+
 (a) the administrative agreement and the information sharing agreements;
+
 (b) the Corporations Information Act and the regulations made under it; and
+
 (c) the constating documents, by-laws and resolutions of the regulatory authority.
 
 ### Revocation of designation
@@ -175,8 +249,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Revocation for non-compliance
 
 (2) The Lieutenant Governor in Council may, by regulation, revoke the designation of the regulatory authority if,
+
 (a) the authority has failed to comply with this Act, the regulations, the administrative agreement, any of the information sharing agreements or other applicable law;
+
 (b) the Minister has allowed the authority the opportunity of remedying its default within a specified time period that the Minister considers reasonable in the circumstances; and
+
 (c) the authority has not remedied its default to the Minister’s satisfaction within the specified time period mentioned in clause (b) and the Minister has so advised the Lieutenant Governor in Council.
 
 ### Same, no restriction on subs. (1)
@@ -194,7 +271,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Transition
 
 (6) If the Lieutenant Governor in Council revokes the designation of the regulatory authority under this section, the Lieutenant Governor in Council may, by regulation, provide for any transitional matter necessary for the effective implementation of the revocation, including,
+
 (a) the transfer, without compensation, of any property, including assets, liabilities, rights, obligations, records, databases, bank accounts and money, that the authority holds in respect of carrying out its activities; and
+
 (b) the assignment, without compensation, of any contracts that the authority has entered into before the revocation.
 
 ### No Crown liability
@@ -208,9 +287,13 @@ S.O. 2017, c. 33, Sched. 1
 ### Condition precedent for exercise of certain powers
 
 9 The Minister may exercise a power under subsection 24 (1) or any other prescribed provision only if the Minister is of the opinion that it is advisable to exercise the power in the public interest because at least one of the following conditions is satisfied:
+
 1. The exercise of the power is necessary to prevent serious harm to the interests of the public, purchasers of new homes or owners.
+
 2. An event of force majeure has occurred.
+
 3. The regulatory authority is facing a risk of insolvency.
+
 4. The number of members of the board of the regulatory authority is insufficient for a quorum.
 
 ### Regulatory Authority
@@ -246,7 +329,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Representation
 
 (3) The members appointed by the Minister may include,
+
 (a) representatives of the public, consumer groups, businesses or government organizations; and
+
 (b) representatives of other interests as the Minister determines.
 
 ### Appointment of chair
@@ -256,8 +341,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Public access to corporate information
 
 14 (1) The regulatory authority shall make available to the public, on its website and by any other means that the authority determines, the following information within the prescribed time:
+
 1. Prescribed information relating to the compensation of board members, officers and employees and relating to any other payments that the authority makes or is required to make to them.
+
 2. Corporate by-laws of the authority.
+
 3. Any other information that is prescribed.
 
 ### Compensation information
@@ -267,7 +355,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Effect of compliance
 
 (3) If the regulatory authority makes available to the public information relating to compensation in accordance with subsection (1), or in the reasonable belief that action is required by that subsection, no court or person shall find that the authority,
+
 (a) has contravened any Act enacted or regulation made before or after February 1, 2021; or
+
 (b) is in breach of or has contravened any agreement that purports to restrict or prohibit that action, regardless of whether the agreement is made before or after February 1, 2021.
 
 ### Processes and procedures
@@ -281,8 +371,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Not Crown employees
 
 (2) The following persons are not employees of the Crown and shall not hold themselves out as such:
+
 1. Persons who are employed or whose services are retained under subsection (1).
+
 2. Members, officers and agents of the regulatory authority.
+
 3. Members of the board of the regulatory authority, including those appointed by the Minister.
 
 ### Not Crown agency
@@ -292,8 +385,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Same
 
 (2) The following persons are not agents of the Crown and shall not hold themselves out as such:
+
 1. Persons who are employed or whose services are retained by the regulatory authority under subsection 15 (1).
+
 2. Members, officers and agents of the regulatory authority.
+
 3. Members of the board of the regulatory authority, including those appointed by the Minister.
 
 ### Limits on liability
@@ -301,7 +397,9 @@ S.O. 2017, c. 33, Sched. 1
 ### No personal liability, employee of the Crown
 
 17 (1) No action or other proceeding shall be instituted against a current or former employee of the Crown for,
+
 (a) any act done in good faith in the exercise or performance or intended exercise or performance of a duty or power under this Act, the regulations or a Minister’s order; or
+
 (b) any neglect or default in the exercise or performance in good faith of such a duty or power.
 
 ### Tort by employee of the Crown
@@ -335,22 +433,35 @@ S.O. 2017, c. 33, Sched. 1
 ### Application
 
 (2) Subsection (1) applies to the following persons:
+
 1. The registrar.
+
 2. A deputy registrar.
+
 3. The Director.
+
 4. A Deputy Director.
+
 5. An inspector.
+
 6. An investigator.
+
 7. An assessor.
+
 8. A director or officer of the regulatory authority.
+
 9. A person whom the regulatory authority employs or whose services the regulatory authority retains.
+
 10. An agent of the regulatory authority.
+
 11. A member of the discipline committee under subsection 57 (1), of the appeals committee under subsection 57 (2) or of a committee or an advisory body of the regulatory authority.
+
 12. The person, if any, prescribed by the Minister for the purpose of the definition of “appeal body” in subsection 77 (1).
 
 ### Liability of regulatory authority
 
 (3) Subsection (1) does not relieve the regulatory authority of liability to which it would otherwise be subject in respect of the acts or omissions of a person mentioned in subsection (2).
+
 20 Repealed: 2020, c. 14, Sched. 4, s. 9.
 
 ### Not public money
@@ -474,8 +585,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Definition
 
 (2) In subsection (1),
+
 “service” means any service or procedure that is provided to the public by the regulatory authority in carrying out its powers and duties under this Act or the regulations and includes,
+
 (a) responding to inquiries from members of the public, and
+
 (b) any other communications for the purpose of providing the service or procedure.
 
 ### Board’s duty
@@ -489,8 +603,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Forms and fees
 
 29 (1) The regulatory authority may,
+
 (a) establish forms related to the administration of the delegated provisions and provide for their content;
+
 (b) in accordance with processes and criteria established by the authority and approved by the Minister, set and collect fees, costs or other charges related to the administration of the delegated provisions; and
+
 (c) make rules governing the payment of the fees, costs and charges described in clause (b).
 
 ### Setting fees
@@ -500,20 +617,27 @@ S.O. 2017, c. 33, Sched. 1
 ### Publication of fee schedule
 
 (3) The regulatory authority,
+
 (a) shall publish the fees, costs and charges, processes, criteria and rules on its website or by any other electronic means required under the administrative agreement; and
+
 (b) may publish that information in any other format that the authority considers advisable.
 
 ### Advisory councils, advisory process
 
 30 The Minister may require the regulatory authority to,
+
 (a) establish one or more advisory councils;
+
 (b) include, as members of an advisory council, representatives of the public, consumer groups, businesses or government organizations and other persons as the Minister determines; or
+
 (c) undertake an advisory process in which it seeks advice from one or both of the public and persons with experience or knowledge relating to this Act.
 
 ### Duty to inform Minister
 
 31 The regulatory authority shall advise the Minister with respect to,
+
 (a) any material fact that could affect the authority’s ability to perform its duties under this Act or the regulations; or
+
 (b) any urgent or critical matter that is likely to require action by the Minister to ensure that the administration of the delegated provisions is carried out properly.
 
 ### Advice to the Minister
@@ -523,13 +647,17 @@ S.O. 2017, c. 33, Sched. 1
 ### Suggestions for legislative amendments
 
 (2) The regulatory authority may suggest to the Minister amendments to Ontario legislation that it considers would,
+
 (a) further the purpose of this Act; or
+
 (b) assist the authority in carrying out its powers and duties under this Act or the regulations.
 
 ### Research and public education
 
 33 (1) The regulatory authority shall participate, in accordance with the administrative agreement and the regulations, if any, in,
+
 (a) doing research into cost-effective building techniques, processes and materials; and
+
 (b) identifying, in co-operation with other organizations, best practices for new home construction.
 
 ### Consumer education
@@ -539,7 +667,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Information for registrar
 
 34 (1) The registrar may require vendors, builders and other prescribed persons to disclose to the registrar, in accordance with the regulations,
+
 (a) information that is related to the administration of this Act; and
+
 (b) any information that is prescribed.
 
 ### Information provision
@@ -551,7 +681,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Registrar
 
 35 (1) The following person or body shall appoint a registrar for the purposes of this Act and may appoint one or more deputy registrars:
+
 1. The board of the regulatory authority.
+
 2. The Minister, if there is no regulatory authority.
 
 ### Deputy registrars
@@ -565,7 +697,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Director
 
 36 (1) Subject to subsection (2), the following person or body shall appoint a Director for the purposes of this Act and may appoint one or more Deputy Directors:
+
 1. The board of the regulatory authority.
+
 2. The Minister, if there is no regulatory authority.
 
 ### Restriction
@@ -597,34 +731,55 @@ S.O. 2017, c. 33, Sched. 1
 ### Application for licence
 
 38 (1) An applicant is entitled to a licence or a renewal of a licence by the registrar if, in the registrar’s opinion,
+
 (a) the applicant is not a corporation and,
+
 (i) having regard to the past and present financial position of the applicant, all interested persons in respect of the applicant and all other prescribed persons, the applicant can reasonably be expected to be financially responsible in the conduct of business,
+
 (ii) the past and present conduct of the applicant, of all interested persons in respect of the applicant and of all other prescribed persons affords reasonable grounds to believe that the applicant will carry on business in accordance with the law and with integrity and honesty, and
+
 (iii) neither the applicant, nor any employee or agent of the applicant, nor any other prescribed person has made any false statement with respect to the conduct of the applicant’s business;
+
 (b) the applicant is a corporation and,
+
 (i) having regard to its past and present financial position and the past and present financial position of all interested persons in respect of the corporation, the applicant can reasonably be expected to be financially responsible in the conduct of its business,
+
 (ii) having regard to the past and present financial position of its officers and directors and of all interested persons in respect of its officers and directors, the applicant can reasonably be expected to be financially responsible in the conduct of its business,
+
 (iii) the past and present conduct of its officers and directors, of all interested persons in respect of its officers and directors and of all interested persons in respect of the corporation affords reasonable grounds for belief that its business will be carried on in accordance with the law and with integrity and honesty, and
+
 (iv) no officer or director of the corporation has made any false statement with respect to the conduct of the applicant’s business;
+
 (c) neither the applicant, nor any interested person in respect of the applicant, has carried on or is carrying on activities,
+
 (i) that are in contravention of this Act or the regulations, or that will be in contravention of this Act or the regulations if the applicant is issued a licence, or
+
 (ii) that are in contravention of prescribed legislation, or that will be in contravention of prescribed legislation if the applicant is issued a licence;
+
 (d) the applicant is not in breach of a condition of the licence, if the applicant is applying for a renewal of a licence;
+
 (e) the applicant meets the prescribed requirements, if any, including requirements for competency;
+
 (f) the applicant or, if the applicant is a corporation, its directors, officers and other prescribed persons, have complied with all tax laws and regulations that are prescribed; and
+
 (g) granting the licence or the renewal, as the case may be, would not be contrary to the public interest.
 
 ### Notice of prescribed material change
 
 (2) An applicant for a licence or a renewal of a licence who experiences a material change, as prescribed, at any time shall,
+
 (a) promptly inform the registrar of the change;
+
 (b) promptly answer any inquiries that the registrar has with respect to the change; and
+
 (c) produce any documents or information that the registrar requests with respect to the change within the time that the registrar specifies.
 
 ### Information from warranty authority
 
 (3) The registrar may request, from the warranty authority,
+
 (a) information about the financial position of an applicant for a licence or a renewal of a licence or a licensee; or
+
 (b) information about any of the other criteria set out in subsection (1) with respect to the person described in clause (a).
 
 ### Same
@@ -638,15 +793,21 @@ S.O. 2017, c. 33, Sched. 1
 ### Conditions of licence
 
 39 A licence is subject to the conditions,
+
 (a) to which the applicant or licensee consents;
+
 (b) that the registrar applies under subsection 40 (3), (4) or (6);
+
 (c) that the Tribunal orders; or
+
 (d) that are prescribed.
 
 ### Registrar’s powers with hearing
 
 40 (1) Subject to section 43, the registrar may refuse to license an applicant or renew the licence of a licensee if,
+
 (a) in the registrar’s opinion, the applicant or licensee is not entitled to a licence under subsection 38 (1); or
+
 (b) the applicant or licensee fails or refuses to comply with subsection 38 (2).
 
 ### Suspension or revocation of licence
@@ -656,7 +817,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Conditions
 
 (3) Subject to section 43, the registrar may,
+
 (a) approve the licence or the renewal of a licence on the conditions that the registrar considers appropriate; and
+
 (b) at any time, apply to a licence the conditions that the registrar considers appropriate.
 
 ### Same
@@ -666,7 +829,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Request for information
 
 (5) The registrar may request an applicant for a licence or a licensee to provide to the registrar, in the form and within the time period specified by the registrar,
+
 (a) information specified by the registrar that allows the registrar to determine whether the applicant for a licence or the licensee has become disentitled to the licence; and
+
 (b) verification, by affidavit or otherwise, of any information described in clause (a) that the applicant for a licence or the licensee is providing or has provided to the registrar.
 
 ### Consequence for non-compliance
@@ -688,9 +853,13 @@ S.O. 2017, c. 33, Sched. 1
 ### Notice of conditions or proposal
 
 43 (1) The registrar shall notify an applicant or licensee in writing if the registrar proposes to,
+
 (a) refuse, under subsection 40 (1), to grant or renew a licence;
+
 (b) suspend or revoke a licence under subsection 40 (2) or 45 (1);
+
 (c) apply conditions to a licence under subsection 40 (3) to which the licensee has not consented; or
+
 (d) apply conditions to a licence under subsection 40 (4) or (6).
 
 ### Content of notice
@@ -720,7 +889,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Hearing
 
 (8) If the applicant or licensee requests a hearing in accordance with subsection (2), the Tribunal shall hold the hearing and may, by order,
+
 (a) direct the registrar to carry out the registrar’s proposed action; or
+
 (b) substitute its opinion for that of the registrar.
 
 ### Powers of Tribunal
@@ -738,9 +909,13 @@ S.O. 2017, c. 33, Sched. 1
 ### Continuation pending renewal
 
 44 If, within the time prescribed or, if no time is prescribed, before the expiry of the licensee’s licence, the licensee has applied for a renewal of a licence and paid the required fee, the licence shall be deemed to continue until,
+
 (a) the renewal is granted;
+
 (b) the registrar gives the licensee written notice of the registrar’s refusal under section 40 to grant the renewal;
+
 (c) the time for requesting a hearing under section 43 has expired, if the licensee receives a notice of a proposal under that section and does not request such a hearing; or
+
 (d) the Tribunal makes its order, if the licensee receives a notice of a proposal under section 43 and does request such a hearing.
 
 ### Immediate suspension
@@ -758,13 +933,17 @@ S.O. 2017, c. 33, Sched. 1
 ### Extension of expiry of order
 
 (4) Despite subsection (3), if the Tribunal is satisfied that the conduct of the licensee has delayed the commencement of the hearing, it may extend the time of the expiration for the order,
+
 (a) until the hearing commences; and
+
 (b) once the hearing commences, until the hearing is concluded.
 
 ### Further application
 
 46 Once a decision of the registrar to refuse a person a licence or a renewal of a licence or to revoke a licence of a person has become final, the person may reapply for a licence only if,
+
 (a) the time prescribed to reapply has passed since the refusal or revocation; and
+
 (b) the person satisfies the registrar that new or other evidence is available or that material circumstances have changed.
 
 ### Licence not transferable
@@ -800,13 +979,17 @@ S.O. 2017, c. 33, Sched. 1
 ### Review
 
 (2) When the registrar learns of a change of control occurring with respect to a licensee, the registrar may review the licensee’s licence and request the licensee to provide to the registrar, in the form and within the time period specified by the registrar,
+
 (a) information specified by the registrar that allows the registrar to determine whether the licensee has become disentitled to the licence; and
+
 (b) verification, by affidavit or otherwise, of any information described in clause (a) that the applicant is providing or has provided to the registrar.
 
 ### Notice of issue or transfer of shares
 
 51 (1) Every applicant for a licence or renewal of a licence that is a corporation and every licensee that is a corporation shall notify the registrar in writing within 30 days after the issue or transfer of any equity shares of the corporation, if the issue or transfer results in,
+
 (a) any person, or any persons that are associated with each other, acquiring or accumulating beneficial ownership or control of 10 per cent or more of the total number of all issued and outstanding equity shares of the corporation; or
+
 (b) an increase in the percentage of issued and outstanding equity shares of the corporation beneficially owned or controlled by any person, or any persons who are associated with each other, where the person or the associated persons already beneficially owned or controlled 10 per cent or more of the total number of all issued and outstanding equity shares of the corporation before the issue or transfer.
 
 ### Same
@@ -820,8 +1003,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Notice of prescribed material change
 
 52 Every licensee who experiences a material change, as prescribed, at any time shall,
+
 (a) promptly inform the registrar of the change;
+
 (b) promptly answer any inquiries that the registrar has with respect to the change; and
+
 (c) produce any documents or information that the registrar requests with respect to the change within the time that the registrar specifies.
 
 ### Disclosures by licensees
@@ -855,8 +1041,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Complaints
 
 56 (1) The registrar may,
+
 (a) receive complaints concerning conduct that may be in contravention of this Act, the regulations or prescribed legislation;
+
 (b) make written requests to licensees for information regarding complaints; and
+
 (c) attempt to mediate or resolve complaints, as appropriate, concerning any conduct that comes to the registrar’s attention that may be in contravention of this Act, the regulations or prescribed legislation.
 
 ### Request for information
@@ -870,11 +1059,17 @@ S.O. 2017, c. 33, Sched. 1
 ### Registrar’s powers
 
 56.1 If the registrar is of the opinion, whether as a result of a complaint or otherwise, that a licensee has contravened any provision of this Act, the regulations or prescribed legislation, the registrar may do any of the following, as the registrar considers appropriate:
+
 1. Give the licensee a written warning, stating that if the licensee continues with the activity that led to the alleged contravention, action may be taken against the licensee.
+
 2. Require the licensee to take further educational courses.
+
 3. Require the licensee, in accordance with the terms, if any, that the registrar specifies, to fund educational courses for persons that the licensee employs or to arrange and fund the courses.
+
 4. Refer the matter, in whole or in part, to the discipline committee.
+
 5. Take an action under section 40, subject to section 43.
+
 6. Take further action as is appropriate in accordance with this Act, including, for greater certainty, make an order under section 76 imposing an administrative penalty or refer the matter, in whole or in part, to another assessor to consider whether such an order should be made.
 
 ### Discipline proceedings
@@ -892,16 +1087,23 @@ S.O. 2017, c. 33, Sched. 1
 ### Result of a determination
 
 (4) If the discipline committee makes a determination under subsection (1) that a licensee has failed to comply with the code of ethics, it may order any of the following, as appropriate:
+
 1. Require the licensee to take further educational courses.
+
 2. Require the licensee, in accordance with the terms, if any, that the committee specifies, to fund educational courses for persons that the licensee employs or to arrange and fund the courses.
+
 3. Impose such fine as the committee considers appropriate, subject to subsections (4.1), (4.2) and (4.3), to be paid by the licensee to the regulatory authority or, if there is no regulatory authority, to the Minister of Finance.
+
 4. Suspend or postpone the taking of further educational courses, the funding or the funding and arranging of educational courses or the imposition of the fine for the period and upon the terms that the committee designates.
+
 5. Fix and impose costs that the licensee is required to pay to the regulatory authority.
 
 ### Maximum fines
 
 (4.1) Subject to subsection (4.2), the maximum amount of the fine mentioned in paragraph 3 of subsection (4) is,
+
 (a) $50,000, or such lesser amount as may be prescribed, if the licensee is an individual; or
+
 (b) $100,000, or such lesser amount as may be prescribed, if the licensee is not an individual.
 
 ### Same, monetary benefit
@@ -923,22 +1125,31 @@ S.O. 2017, c. 33, Sched. 1
 ### Taking of educational course
 
 (7) A licensee that is required under subsection (4) to take an educational course or to arrange for others to take an educational course under that subsection shall do so,
+
 (a) within the time period specified in the order of the discipline committee, if the requirement is not the subject of an appeal;
+
 (b) within the time period specified in the order of the appeals committee, if the requirement is the subject of an appeal; or
+
 (c) at the first reasonable opportunity after the last order made in respect of the educational course, if no time period is specified in that order.
 
 ### Arranging and funding educational courses
 
 (8) A licensee that is required under subsection (4) to fund educational courses shall do so,
+
 (a) within the time period specified in the order of the discipline committee, if the requirement is not the subject of an appeal;
+
 (b) within the time period specified in the order of the appeals committee, if the requirement is the subject of an appeal; or
+
 (c) at the first reasonable opportunity after the last order made in respect of the educational course, if no time period is specified in that order.
 
 ### Payment of fine
 
 (9) The licensee shall pay any fine imposed under subsection (4) on or before,
+
 (a) the day specified in the order of the discipline committee, if the fine is not the subject of an appeal;
+
 (b) the day specified in the order of the appeals committee, if the fine is the subject of an appeal; or
+
 (c) the 60th day after the date of the last order made in respect of the fine, if no day is specified in that order.
 
 ### Inspections and Investigations
@@ -962,8 +1173,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Inspections without warrant
 
 59 (1) An inspector may, without a warrant or court order, conduct an inspection in accordance with this section for the purpose of,
+
 (a) ensuring compliance with this Act and the regulations;
+
 (b) dealing with a complaint under section 56; or
+
 (c) ensuring a licensee remains entitled to a licence.
 
 ### Power to enter premises
@@ -977,11 +1191,17 @@ S.O. 2017, c. 33, Sched. 1
 ### Powers on inspection
 
 (4) While carrying out an inspection, an inspector,
+
 (a) is entitled to free access to all money, valuables, documents and records of the person being inspected that are relevant to the inspection;
+
 (b) may make reasonable inquiries of any person, orally or in writing, with respect to anything relevant to the inspection;
+
 (c) may require a person to produce any document or record relevant to the inspection and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the document or record;
+
 (d) may use any data storage, processing or retrieval device or system used to engage in activities of a licensee in order to produce information that is relevant to the inspection and that is in any form;
+
 (e) may, upon giving a receipt for them, remove for examination and copy anything relevant to the inspection, including any data storage disk or other retrieval device in order to produce information, but shall promptly return to the person being inspected the thing that was removed; and
+
 (f) may, alone or in conjunction with the other persons described in subsection (3), make examinations or inquiries or take tests, as are necessary for the purposes of the inspection.
 
 ### No use of force
@@ -1015,24 +1235,35 @@ S.O. 2017, c. 33, Sched. 1
 ### Investigations with warrant
 
 61 (1) Upon application made without notice by an investigator, a justice of the peace may issue a warrant, if satisfied on information under oath that there is reasonable ground for believing that,
+
 (a) a person has contravened or is contravening this Act or the regulations or has committed an offence under the law of any jurisdiction that is relevant to the person’s fitness for a licence; and
+
 (b) there is,
+
 (i) in any building, dwelling, receptacle or place anything relating to the contravention of this Act or the regulations or to the person’s fitness for a licence, or
+
 (ii) information or evidence relating to the contravention of this Act or the regulations or the person’s fitness for a licence that may be obtained through the use of an investigative technique or procedure or the doing of anything described in the warrant.
 
 ### Powers under warrant
 
 (2) Subject to any conditions contained in it, a warrant obtained under subsection (1) authorizes an investigator,
+
 (a) to enter or access the building, dwelling, receptacle or place specified in the warrant and examine and seize anything described in the warrant;
+
 (b) to make reasonable inquiries of any person, orally or in writing, with respect to anything relevant to the investigation;
+
 (c) to require a person to produce the information or evidence described in the warrant and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the information or evidence described in the warrant;
+
 (d) to use any data storage, processing or retrieval device or system used to engage in the activities of a licensee in order to produce information or evidence described in the warrant, in any form; and
+
 (e) to use any investigative technique or procedure or do anything described in the warrant.
 
 ### Entry of dwelling
 
 (3) Despite subsection (2), an investigator shall not exercise the power under a warrant to enter a place, or part of a place, used as a dwelling, unless,
+
 (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice of the peace authorizes the entry into the dwelling.
 
 ### Conditions on warrant
@@ -1104,7 +1335,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Order re false advertising
 
 64 (1) If the registrar believes on reasonable grounds that any licensee is making a false, misleading or deceptive representation in an advertisement, circular, pamphlet or material published by any means with respect to an existing or proposed new home, the registrar may,
+
 (a) order the licensee to cease making the representation; and
+
 (b) order the licensee to retract the representation or publish a correction of equal prominence to the original publication.
 
 ### Order effective
@@ -1134,7 +1367,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Powers of Tribunal
 
 (8) After holding the hearing, the Tribunal may,
+
 (a) confirm the order with the amendments, if any, that the Tribunal considers proper to give effect to the purposes of the Act; or
+
 (b) set aside the order.
 
 ### Same
@@ -1148,14 +1383,19 @@ S.O. 2017, c. 33, Sched. 1
 ### Freeze order, licensees and former licensees
 
 65 (1) If the conditions in subsection (2) are met, the Director may, in writing,
+
 (a) order any person having on deposit or controlling any assets or trust funds of a licensee or former licensee to hold those assets or funds;
+
 (b) order a licensee or former licensee to refrain from withdrawing any asset or trust fund from a person having them on deposit or controlling them; or
+
 (c) order a licensee or former licensee to hold any asset or trust fund of a purchaser or other person in trust for the person entitled to it.
 
 ### Conditions
 
 (2) The Director may make an order under subsection (1) if the Director believes that it is advisable for the protection of purchasers, owners or the guarantee fund under the Ontario New Home Warranties Plan Act or the Protection for Owners and Purchasers of New Homes Act, 2017 and,
+
 (a) a search warrant has been issued under section 61; or
+
 (b) an order has been made under section 64, 67 or 68.
 
 ### Limitation
@@ -1169,15 +1409,21 @@ S.O. 2017, c. 33, Sched. 1
 ### Exception
 
 (5) Subsection (1) does not apply if the person files with the Director, in the manner and amount that the Director determines,
+
 (a) a personal bond accompanied by collateral security;
+
 (b) a bond of an insurer licensed under the Insurance Act to write surety and fidelity insurance;
+
 (c) a bond of a guarantor accompanied by collateral security; or
+
 (d) another prescribed form of security.
 
 ### Application to court
 
 (6) An application may be made to the Superior Court of Justice for a determination in respect of the disposition of an asset or trust fund,
+
 (a) by a person in receipt of an order under subsection (1), if that person is in doubt as to whether the order applies to the asset or trust fund; or
+
 (b) by a person who claims an interest in the asset or trust fund subject to the order.
 
 ### Notice
@@ -1195,7 +1441,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Disposition by Tribunal
 
 (10) The Tribunal shall dispose of the application after a hearing and may cancel the order or discharge the registration in whole or in part, if the Tribunal finds,
+
 (a) that the order or registration is not required in whole or in part for the protection of owners or of other persons having an interest in the land; or
+
 (b) that the interests of other persons are unduly prejudiced by the order or registration.
 
 ### Parties
@@ -1213,19 +1461,29 @@ S.O. 2017, c. 33, Sched. 1
 ### Freeze orders, non-licensees
 
 66 (1) The Director may make an order described in subsection (2) in respect of the money or assets of a person who is not licensed and who is alleged to have engaged in activities for which licensing is required at a time when the person was not licensed to do so if,
+
 (a) the Director receives an affidavit in which it is alleged, and in which facts are set out supporting the allegation, that the person who is not licensed,
+
 (i) is subject to criminal proceedings or proceedings in relation to a contravention under this Act or any other Act that are about to be or have been instituted against the person in connection with or arising out of activities for which licensing is required, or
+
 (ii) owns a building, dwelling, receptacle or place, or carries on activities in a building, dwelling, receptacle or place, in respect of which a search warrant has been issued under section 61; and
+
 (b) the Director, based on the affidavit mentioned in clause (a), finds reasonable grounds to believe that,
+
 (i) in the course of activities for which licensing is required under this Act, the person who is the subject of the allegation mentioned in clause (a) has received money or assets from purchasers or owners, and
+
 (ii) the interests of those purchasers or owners require protection or the guarantee fund under the Ontario New Home Warranties Plan Act or the Protection for Owners and Purchasers of New Homes Act, 2017 requires protection.
 
 ### Order
 
 (2) In the circumstances described in subsection (1), the Director may, in writing,
+
 (a) order any person having on deposit or controlling any money or asset of the person who is the subject of the allegation mentioned in clause (1) (a) to hold the money or asset; or
+
 (b) order the person who is the subject of the allegation mentioned in clause (1) (a),
+
 (i) to refrain from withdrawing any money or asset from a person having it on deposit or controlling it, or
+
 (ii) to hold any money or asset of a purchaser or other person in trust for the person who is entitled to it.
 
 ### Application
@@ -1287,13 +1545,17 @@ S.O. 2017, c. 33, Sched. 1
 ### Expiration of order
 
 (6) If, in accordance with the right described in subsection (3), the person named in the order requests a hearing,
+
 (a) the order expires 15 days after the Tribunal receives the written request for a hearing; or
+
 (b) the Tribunal may extend the time of expiration until the hearing is concluded, if a hearing is commenced within the 15-day period mentioned in clause (a).
 
 ### Same
 
 (7) Despite subsection (6), if the Tribunal is satisfied that the conduct of the person named in the order has delayed the commencement of the hearing, the Tribunal may extend the time of the expiration for the order,
+
 (a) until the hearing commences; and
+
 (b) once the hearing commences, until the hearing is concluded.
 
 ### Parties
@@ -1319,9 +1581,13 @@ S.O. 2017, c. 33, Sched. 1
 ### Offences
 
 71 (1) A person or entity, other than the regulatory authority, is guilty of an offence if the person or entity,
+
 (a) furnishes false information to the regulatory authority in any application under section 38, in any statement required under this Act or in any circumstance that is prescribed;
+
 (b) fails to comply with any condition of a licence that the person or entity holds;
+
 (c) fails to comply with any order or other requirement under this Act, other than an order made under section 57; or
+
 (d) contravenes or fails to comply with any section of this Act or the regulations made under the Act, other than the code of ethics established under clause 84 (1) (f).
 
 ### Officer or director of corporation
@@ -1331,18 +1597,27 @@ S.O. 2017, c. 33, Sched. 1
 ### Other individuals
 
 (3) Any of the following individuals who act on behalf of an entity and who fail to take reasonable care to prevent the entity from committing an offence mentioned in subsection (1) are guilty of an offence, whether or not the entity has been prosecuted or convicted:
+
 1. A partner or general manager and assistant general manager of the entity, if the entity is a partnership.
+
 2. Any other individual designated for the purpose of this subsection by a by-law or resolution of the entity.
+
 3. Any other individual who performs functions normally performed by an individual described in paragraph 2.
 
 ### Penalties
 
 (4) A person or entity that is convicted of an offence under this Act is liable to,
+
 (a) in the case of an individual,
+
 (i) on the first conviction, a fine of not more than $50,000 or imprisonment for a term of not more than two years less a day, or both, and
+
 (ii) on each subsequent conviction, a fine of not more than $100,000 or imprisonment for a term of not more than two years less a day, or both; or
+
 (b) in the case of a person or entity that is not an individual,
+
 (i) on the first conviction, a fine of not more than $250,000, and
+
 (ii) on each subsequent conviction, a fine of not more than $500,000.
 
 ### Same, determining subsequent conviction
@@ -1384,8 +1659,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Liens on personal property
 
 (2) If the lien created by the Director under subsection (1) relates to personal property,
+
 (a) the Personal Property Security Act, except Part V, applies with necessary modifications to the lien, despite clause 4 (1) (a) of that Act;
+
 (b) the lien shall be deemed to be a security interest that has attached for the purposes of the Personal Property Security Act; and
+
 (c) the Director may perfect the security interest mentioned in clause (b) for the purposes of the Personal Property Security Act by the registration of a financing statement under that Act.
 
 ### Liens and charges on real property
@@ -1403,7 +1681,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Discharge of lien
 
 (6) Within 10 days after the Director has knowledge of the payment in full of the fine, the Director shall,
+
 (a) discharge the registration of any financing statement registered under clause (2) (c); and
+
 (b) register a discharge of a charge created on registration of a lien under subsection (3).
 
 ### Administrative Penalties
@@ -1419,9 +1699,13 @@ S.O. 2017, c. 33, Sched. 1
 ### Order
 
 76 (1) An assessor may, by order, impose an administrative penalty against a person in accordance with this section and the regulations made by the Minister if the assessor is satisfied that the person has contravened or is contravening,
+
 (a) a prescribed provision of this Act or the regulations;
+
 (b) a condition of a licence, if the person is the licensee;
+
 (c) a prescribed provision of the Ontario New Home Warranties Plan Act or the regulations or the by-laws of the warranty authority made under it; or
+
 (d) a prescribed provision of the Protection for Owners and Purchasers of New Homes Act, 2017 or the regulations made under it.
 
 ### Clarification re code of ethics
@@ -1435,7 +1719,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Purpose
 
 (4) An administrative penalty may be imposed under this section for one or more of the following purposes:
+
 1. To ensure compliance with the Acts, regulations and by-laws referred to in subsection (1) and the conditions of a licence.
+
 2. To prevent a person from deriving, directly or indirectly, any economic benefit as a result of contravening the Acts, regulations or by-laws referred to in subsection (1) or the conditions of a licence.
 
 ### Amount
@@ -1457,7 +1743,9 @@ S.O. 2017, c. 33, Sched. 1
 ### Absolute liability
 
 (9) An order made under subsection (1) imposing an administrative penalty against a person applies even if,
+
 (a) the person took all reasonable steps to prevent the contravention on which the order is based; or
+
 (b) at the time of the contravention, the person had an honest and reasonable belief in a mistaken set of facts that, if true, would have rendered the contravention innocent.
 
 ### No effect on offences
@@ -1487,11 +1775,13 @@ S.O. 2017, c. 33, Sched. 1
 ### Same
 
 (16) In subsection (15),
+
 “pre-commencement transition period” means the period starting on April 14, 2022 and ending on the day before section 7 of Schedule 5 to the More Homes Built Faster Act, 2022 comes into force.
 
 ### Appeal
 
 77 (1) In this section,
+
 “appeal body” means the person prescribed by the Minister or, if no person is prescribed by the Minister, the Tribunal.
 
 ### Same
@@ -1543,12 +1833,19 @@ S.O. 2017, c. 33, Sched. 1
 ### Confidentiality
 
 80 (1) A person who obtains information in the course of exercising a power or carrying out a duty related to the administration of this Act or the regulations shall preserve secrecy with respect to the information and shall not communicate the information to any person except,
+
 (a) as is required in connection with a proceeding under this Act or in connection with the administration of this Act or the regulations;
+
 (b) to a ministry, department or agency of a government engaged in the administration of legislation similar to this Act or legislation that protects consumers or to any other entity to which the administration of legislation similar to this Act or legislation that protects consumers has been assigned;
+
 (c) as authorized under the Regulatory Modernization Act, 2007;
+
 (d) to a prescribed entity or organization, if the purpose of the communication is consumer protection;
+
 (e) to a law enforcement agency;
+
 (f) to the counsel of the person communicating the information; or
+
 (g) with the consent of the person to whom the information relates.
 
 ### Testimony
@@ -1558,8 +1855,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Service
 
 81 (1) Any notice, order or request is sufficiently given or served if it is,
+
 (a) delivered personally;
+
 (b) sent by registered mail; or
+
 (c) sent by another manner if the sender can prove receipt of the notice, order or request.
 
 ### Deemed service
@@ -1573,16 +1873,27 @@ S.O. 2017, c. 33, Sched. 1
 ### Public information
 
 82 (1) Subject to the regulations, the registrar shall make available publicly on the website of the regulatory authority and by any other means that the registrar determines,
+
 (a) information about the business activities of any class of licensees or prescribed persons, including their business name, business address, phone number and electronic mail address;
+
 (b) licensing information about a licensee, including the licensee’s licence number, the date that the licence expires and the current status of the licence;
+
 (c) information about what persons are directors, officers or prescribed persons of a licensee, contact information for them and how they are interested in the licensee or associated with the licensee;
+
 (d) information about persons who are subject to a notice of proposal under section 43;
+
 (e) information about persons whose licence has been suspended, immediately suspended or revoked;
+
 (f) information about determinations and orders made by the discipline committee or appeals committee under section 57;
+
 (g) information about persons who have been subject to an order under any of sections 64, 65, 66, 70 and 72, including the terms of the order;
+
 (h) information about persons who have been convicted of an offence under this Act;
+
 (i) information about persons in respect of whom an assessor has imposed an administrative penalty, including the amount of the penalty;
+
 (j) information that the registrar receives under section 5.6 of the Ontario New Home Warranties Plan Act or under subsection 67 (1) of the Protection for Owners and Purchasers of New Homes Act, 2017; and
+
 (k) any other prescribed information.
 
 ### Searchable information
@@ -1592,35 +1903,65 @@ S.O. 2017, c. 33, Sched. 1
 ### Lieutenant Governor in Council regulations
 
 83 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) specifying any matter that is described in this Act as prescribed or dealt with in the regulations, except for any matter that this Act describes as being prescribed by the Minister or dealt with in regulations made by the Minister;
+
 (b) governing the revocation of the designation of the regulatory authority;
+
 (c) respecting classes of licences;
+
 (d) specifying the responsibilities of any former licensee or any class of former licensees, in connection with or arising out of the business in respect of which the former licensee was licensed or the class of former licensees was licensed or in respect of which licensing was required under this Act;
+
 (e) governing agreements that a vendor or builder enters into with the regulatory authority, including,
+
 (i) deeming certain terms or conditions to be included in the agreements,
+
 (ii) prohibiting the agreements from including certain terms or conditions specified in the regulations, and
+
 (iii) specifying remedies for the parties to the agreements resulting from non-compliance;
+
 (f) governing the information that section 53 requires a vendor to deliver to a purchaser or a builder to deliver to an owner;
+
 (g) governing agreements that a vendor enters into with a purchaser, including,
+
 (i) deeming certain terms or conditions to be included in the agreements,
+
 (ii) requiring the parties to each agreement to include certain specified terms or conditions,
+
 (iii) prohibiting the agreements from including certain terms or conditions specified in the regulations, and
+
 (iv) specifying remedies for the purchaser resulting from non-compliance;
+
 (h) governing contracts for the construction of a new home that a builder enters into with an owner, including,
+
 (i) deeming certain terms or conditions to be included in the contracts,
+
 (ii) requiring the parties to each contract to include certain specified terms or conditions,
+
 (iii) prohibiting the contracts from including certain terms or conditions specified in the regulations, and
+
 (iv) specifying remedies for the owner resulting from non-compliance;
+
 (i) governing what constitutes a false, misleading or deceptive representation for the purpose of section 54;
+
 (j) governing the activities of licensees and prohibiting licensees from engaging in practices specified in the regulations, in addition to practices prohibited by this Act;
+
 (k) specifying procedures and other matters for handling complaints under section 56;
+
 (l) governing the documents and records that licensees must keep, including the manner in which licensees must keep them and the time periods for which they must be kept and authorizing the registrar to specify the location at which licensees must keep them;
+
 (m) defining any word or expression used in this Act that has not already been expressly defined in this Act;
+
 (n) exempting any person or entity or any class of persons or entities from any provision of this Act or the regulations and attaching conditions to an exemption;
+
 (o) delegating to the Minister or to the regulatory authority any power to make a regulation under this subsection;
+
 (p) respecting any matter necessary or advisable to carry out the intent or purpose of this Act;
+
 (q) providing for any transitional matter necessary for the effective implementation of this Act or the regulations or related to the repeal of the Ontario New Home Warranties Plan Act, including,
+
 (i) deeming information provided under that Act to have been provided under this Act, and
+
 (ii) governing fees and other amounts paid under that Act and deeming them to have been paid under this Act.
 
 ### Approval required
@@ -1646,26 +1987,47 @@ S.O. 2017, c. 33, Sched. 1
 ### Minister’s regulations
 
 84 (1) The Minister may make regulations,
+
 (0.a) specifying any matter that is described in this Act as prescribed by the Minister or dealt with in the regulations made by the Minister;
+
 (a) requiring the registrar to share with the Minister the information that the registrar collects under subsection 34 (1);
+
 (b) requiring the regulatory authority to provide the Minister, the warranty authority or any other person prescribed by the Minister with the information specified in the regulation and governing the providing of the information, including the form, manner and time for providing the information;
+
 (c) respecting applications for a licence and for renewal of a licence;
+
 (d) requiring an applicant for a licence or a renewal of a licence to provide information to the registrar concerning persons other than the applicant in order to assist the registrar in determining whether the persons are or may be interested persons;
+
 (e) specifying information that licensees must provide to the registrar and requiring that specified information be verified by affidavit;
+
 (f) establishing a code of ethics for licensees;
+
 (g) governing the composition of the discipline committee and the appeals committee under section 57 and, subject to subsection 57 (3), governing matters relating to the appointment of the members of those committees;
+
 (g.1) governing fines that the discipline committee or the appeals committee may impose, including the criteria to be considered in determining the amount, the procedure for making an order for a fine and the rights of the parties affected by the procedure;
+
 (h) governing administrative penalties that an assessor may order and all matters necessary and incidental to the administration of a system of administrative penalties, including,
+
 (0.i) prescribing provisions for the purpose of subsection 76 (1),
+
 (i) specifying the amount of an administrative penalty or providing for the determination of the amount of an administrative penalty by specifying the method of calculating the amount and the criteria to be considered in determining the amount,
+
 (ii) providing for different amounts to be paid, or different calculations or criteria to be used, depending on the circumstances that gave rise to the administrative penalty or the time at which the penalty is paid,
+
 (iii) specifying information that must be included in an order for payment of an administrative penalty,
+
 (iv) governing the procedure for making an order under section 76 for an administrative penalty and the rights of the parties affected by the procedure, including the time at which the order is deemed to be served on the licensee against whom the order is made, and
+
 (v) governing the appeal of an order for payment of an administrative penalty;
+
 (i) specifying the purposes for which the regulatory authority may use the funds that it collects as fines and administrative penalties;
+
 (i.1) requiring the regulatory authority to establish, maintain and comply with a policy, in accordance with any requirements in the regulations, to govern payments the regulatory authority makes, if any, from the funds the regulatory authority collects as fines and administrative penalties, to persons who have been adversely affected by contraventions in respect of which fines or administrative penalties can be imposed;
+
 (i.2) requiring the regulatory authority to make specified documents available to the public and prescribing the means for doing so;
+
 (j) respecting any matter for which the power to make regulations is delegated by the Lieutenant Governor in Council to the Minister under clause 83 (1) (o);
+
 (k) delegating to the regulatory authority any power to make a regulation under this subsection.
 
 ### Approval required
@@ -1723,9 +2085,11 @@ S.O. 2017, c. 33, Sched. 1
 ### Part VIII (OMITTED)
 
 88 - 89 Omitted (amend, repeal or revoke other legislation).
+
 90 Repealed: 2024, c. 18, Sched. 1, s. 7.
 
 ### Part IX (OMITTED)
 
 91 Omitted (provides for coming into force of provisions of this Act).
+
 92 Omitted (enacts short title of this Act).

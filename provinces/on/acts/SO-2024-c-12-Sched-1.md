@@ -6,21 +6,24 @@ language: en
 type: act
 document_date: "2026-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24b12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Building Ontario Fund Act, 2024
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24b12) before relying on it.
 
 S.O. 2024, c. 12, Sched. 1
 
 ### Definitions
 
 1 In this Act,
+
 “Corporation” means the Building Ontario Fund; (“Société”)
+
 “Minister” means the Minister of Finance or the minister of the Crown to whom the power and duties under this Act are assigned or transferred under the Executive Council Act; (“ministre”)
+
 “qualified institutional investor” means a financial institution, pension fund, investment fund or any other entity prescribed by the regulations. (“investisseur institutionnel admissible”)
 
 ### Corporation continued
@@ -46,12 +49,19 @@ S.O. 2024, c. 12, Sched. 1
 ### Objects
 
 3 The Corporation’s objects are,
+
 (a) to invest and seek to attract investment from qualified institutional investors, public sector entities, governments and Indigenous communities, with priority given to Canadian investors, in Ontario infrastructure projects that will generate revenue and that will be in the public interest by,
+
 (i) investing in infrastructure and appropriately allocating risks amongst the Corporation and other investors,
+
 (ii) structuring proposals and negotiating agreements with investors in infrastructure projects,
+
 (iii) receiving and assessing unsolicited ideas and proposals for infrastructure projects that come from qualified institutional investors, public sector entities, governments or Indigenous communities, and
+
 (iv) providing advisory services with respect to financing infrastructure projects, including loan structures and areas of investment opportunity;
+
 (b) to conduct such further activities, consistent with its objects, as are described in any policies or directives issued by the Minister or as set out in any agreement with the Minister; and
+
 (c) to receive, hold, sell, invest and otherwise deal with its assets in carrying out its objects.
 
 ### Crown agent
@@ -125,9 +135,13 @@ S.O. 2024, c. 12, Sched. 1
 ### Same
 
 (2) Without limiting the generality of subsection (1), the board of directors may pass by-laws and resolutions to,
+
 (a) appoint officers and assign to them such powers and duties as the board of directors considers appropriate;
+
 (b) establish committees of the board of directors and delegate powers and duties to such committees;
+
 (c) govern the remuneration and benefits of employees of the Corporation; and
+
 (d) effect the orderly transaction of the business of the Corporation.
 
 ### Continuation of by-laws
@@ -169,7 +183,9 @@ S.O. 2024, c. 12, Sched. 1
 ### Investments, etc.
 
 11 Without limiting the generality of the Corporation’s powers under section 10, the Corporation may,
+
 (a) make investments to carry out its objects, including by way of equity investment, loan, acquiring a derivative or giving a guarantee; and
+
 (b) acquire and hold, realize on or otherwise dispose of security or a security interest of any kind, including any interest or rights in real property or personal property as security for the due performance of any arrangement or agreement with the Corporation, and retain and use the proceeds of disposition.
 
 ### Limit on powers, approval of Minister
@@ -195,7 +211,9 @@ S.O. 2024, c. 12, Sched. 1
 ### Limit on powers re borrowing and managing financial risks
 
 15 (1) The Corporation shall not borrow or manage financial risks unless,
+
 (a) a by-law of the Corporation authorizes the activity and the Minister has approved the by-law; and
+
 (b) subject to subsection (2), the Ontario Financing Authority co-ordinates and arranges the activity.
 
 ### Direction of Minister of Finance
@@ -289,8 +307,11 @@ S.O. 2024, c. 12, Sched. 1
 ### Proceedings barred
 
 23 (1) No proceeding shall be commenced,
+
 (a) against any person specified in subsection 21 (1) in respect of a matter referred to in that subsection;
+
 (b) against the Crown or any person specified in subsection 21 (1) in respect of a matter referred to in subsection 21 (3); or
+
 (c) against any person specified in subsection 22 (1) in respect of a matter referred to in that subsection.
 
 ### Same
@@ -324,7 +345,9 @@ S.O. 2024, c. 12, Sched. 1
 ### Directives re annual report
 
 (3) The Corporation shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report; and
+
 (b) when and how to make it available to the public.
 
 ### Additional content
@@ -342,9 +365,13 @@ S.O. 2024, c. 12, Sched. 1
 ### Same
 
 (2) The business plan must be based on a five-year cycle and contain,
+
 (a) the Corporation’s proposed operating budget for the fiscal year and the next two fiscal years;
+
 (b) the Corporation’s projected revenues and their sources;
+
 (c) the Corporation’s performance targets for the next fiscal year; and
+
 (d) any other information required by the Minister.
 
 ### Other reports
@@ -374,18 +401,25 @@ S.O. 2024, c. 12, Sched. 1
 ### Winding up
 
 32 If the Lieutenant Governor in Council considers it to be in the public interest to wind up the affairs of the Corporation, the Minister may do all things necessary to accomplish that, including dealing with the assets of the Corporation by,
+
 (a) liquidating or selling the assets and paying the proceeds into the Consolidated Revenue Fund; or
+
 (b) transferring the assets to the Crown or another agency of the Crown.
 
 ### Regulations
 
 33 (1) The Lieutenant Governor in Council may make regulations respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act and without limiting the generality of the foregoing, may make regulations,
+
 (a) prescribing anything referred to in this Act as being prescribed by the regulations;
+
 (b) governing the manner in which the Corporation carries out its objects.
 
 ### Same, Minister
 
 (2) The Minister may make regulations with respect to any matter that, in this Act, is described as being done by a regulation made by the Minister.
+
 34 Omitted (amends, repeals or revokes other legislation).
+
 35 O mitted (provides for coming into force of provisions of this Act).
+
 36 O mitted (enacts short title of this Act).

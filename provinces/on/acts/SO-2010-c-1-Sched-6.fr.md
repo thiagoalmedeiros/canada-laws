@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2019-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10e01"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # services d'enregistrement immobilier électronique (Loi de 2010 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10e01) before relying on it.
 
 L.O. 2010, chap. 1, annexe 6
 
@@ -21,9 +21,13 @@ Période de codification : du 1 er juillet 2019 à la date à laquelle Lois-en-l
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «accord de services» Accord conclu en vertu du paragraphe 2 (1). («service provider agreement»)
+
 «commissaire» Le commissaire aux services d’enregistrement immobilier électronique nommé en vertu de l’article 3. («Commissioner»)
+
 «fournisseur de services» Personne ayant conclu un accord de services avec la Couronne du chef de l’Ontario. («service provider»)
+
 «ministre» Le ministre de la Couronne qui conclut un accord de services pour le compte de la Couronne du chef de l’Ontario. («minister») 2010, chap. 1, annexe 6, art. 1.
 
 ### Accords de services
@@ -31,24 +35,35 @@ Période de codification : du 1 er juillet 2019 à la date à laquelle Lois-en-l
 ### Accords de services autorisés
 
 2 (1) Le ministre des Services gouvernementaux, le procureur général ou tout autre ministre de la Couronne désigné par décret du lieutenant-gouverneur en conseil peut, pour le compte de la Couronne du chef de l’Ontario, conclure un ou plusieurs accords en vue de faire ce qui suit :
+
 a) rendre des services d’enregistrement immobilier et des services connexes précisés dans l’accord;
+
 b) rendre des services relatifs aux brefs d’exécution précisés dans l’accord;
+
 c) octroyer à des fournisseurs de services des licences leur permettant, notamment, de consulter, d’utiliser, de copier et de vendre les données relatives à l’enregistrement immobilier et aux brefs précisées dans l’accord conclu avec eux;
+
 d) autoriser ou obliger des fournisseurs de services à octroyer à des tiers des sous-licences permettant à ces derniers, notamment, de consulter, d’utiliser, de copier et de vendre les données relatives à l’enregistrement immobilier et aux brefs précisées dans l’accord conclu avec les fournisseurs.
 
 ### Conditions
 
 (2) Le ministre peut fixer les conditions d’un accord de services, notamment des conditions qui :
+
 a) prévoient le caractère exclusif ou non de l’accord ou de la licence;
+
 b) fixent la durée — même à perpétuité — du ou des accords;
+
 c) fixent les sommes dont est redevable le fournisseur de services, notamment celles destinées à couvrir les coûts permanents engagés par la Province de l’Ontario dans l’administration des systèmes d’enregistrement immobilier et d’information sur les brefs;
+
 d) traitent de l’octroi de sous-licences;
+
 e) traitent des modalités de règlement et d’arbitrage concernant les différends qui surviennent entre le fournisseur de services et soit la Province de l’Ontario, soit un tiers.
 
 ### Droits ou frais
 
 (3) Le ministre peut, dans un accord de services :
+
 a) autoriser le fournisseur de services à percevoir, pour son propre compte ou pour celui de la Province de l’Ontario, les droits ou frais fixés en vertu de la Loi sur l’enregistrement des droits immobiliers, de la Loi portant réforme de l’enregistrement immobilier, de la Loi sur l’enregistrement des actes, de la Loi sur l’administration de la justice et des autres lois désignées par règlement pris en vertu du présent article;
+
 b) fixer des droits ou frais en sus de ceux visés à l’alinéa a) et autoriser le fournisseur de services à les percevoir et à les conserver pour son propre compte.
 
 ### Droits ou frais précisés par arrêté
@@ -96,7 +111,9 @@ b) fixer des droits ou frais en sus de ceux visés à l’alinéa a) et autorise
 ### Fonctions
 
 (6) Le commissaire exerce les fonctions suivantes, sous réserve de l’accord de services applicable :
+
 a) il enquête sur les différends dont son bureau est saisi relativement à la prestation de services d’enregistrement immobilier ou de services relatifs aux brefs par le fournisseur de services dans le cadre de l’accord de services et il tente de les régler;
+
 b) il exerce les autres fonctions que lui attribue le sous-ministre des Services gouvernementaux ou toute autre loi.
 
 ### Rapport annuel
@@ -146,7 +163,9 @@ b) il exerce les autres fonctions que lui attribue le sous-ministre des Services
 ### Divulgation permise
 
 (3) Malgré le paragraphe (1), le commissaire peut :
+
 a) divulguer à quiconque toute recommandation écrite qu’il fait à un fournisseur de services, notamment tout renseignement y figurant qu’il juge raisonnablement nécessaire pour en expliquer les motifs;
+
 b) divulguer, dans le rapport annuel qu’il remet au ministre des Services gouvernementaux et au procureur général, tout renseignement qu’il juge raisonnablement nécessaire pour rendre compte de ses activités.
 
 ### Non-contraignabilité
@@ -162,6 +181,9 @@ b) divulguer, dans le rapport annuel qu’il remet au ministre des Services gouv
 ### Pouvoirs de l’arbitre
 
 (2) L’arbitre nommé conformément à une convention d’arbitrage visée au paragraphe (1) a le pouvoir de régler les différends visés dans la convention et, notamment, d’imposer les conditions d’accords conclus entre le fournisseur de services et le tiers conformément aux termes de la convention d’arbitrage.
+
 8 à 11 Omis (modification ou abrogation d’autres textes législatifs).
+
 12 Omis (entrée en vigueur de dispositions de la présente loi).
+
 13 Omis (édiction du titre abrégé de la présente loi).

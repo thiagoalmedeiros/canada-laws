@@ -6,22 +6,26 @@ language: en
 type: act
 document_date: "2026-05-07"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/05h28"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Higher Education Quality Council of Ontario Act, 2005
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/05h28) before relying on it.
 
 S.O. 2005, c. 28, Sched. G
 
 ### Definitions
 
 1 In this Act,
+
 “Council” means the Higher Education Quality Council of Ontario established under section 2; (“Conseil”)
+
 “Minister” means the Minister of Advanced Education and Skills Development or the minister of the Crown to whom the powers and duties under this Act are assigned or transferred under the Executive Council Act; (“ministre”)
+
 “post-secondary educational institution” means a college of applied arts and technology established under the Ontario Colleges of Applied Arts and Technology Act, 2002, a university that receives regular and ongoing operating funding from the province for purposes of post-secondary education and any other institution prescribed by regulation; (“établissement d’enseignement postsecondaire”)
+
 “post-secondary education sector” includes all post-secondary educational institutions in Ontario. (“secteur postsecondaire”)
 
 ### Council
@@ -47,11 +51,13 @@ S.O. 2005, c. 28, Sched. G
 ### Ministry representative
 
 (5) The board of directors may include one or more employees of the Government of Ontario.
+
 (6) Repealed: 2026, c. 4, Sched. 3, s. 1 (2).
 
 ### Management of board
 
 (7) The affairs of the corporation shall be managed by the Council’s board of directors.
+
 3 Repealed: 2026, c. 4, Sched. 3, s. 2.
 
 ### Crown agency
@@ -65,15 +71,25 @@ S.O. 2005, c. 28, Sched. G
 ### Functions
 
 6 The functions of the Council are,
+
 (a) to develop and make recommendations to the Minister,
+
 (i) on targets to be achieved in improving the quality of post-secondary education, on the methods of achieving those targets and on the time frame for doing so, and
+
 (ii) on performance measures to be used to evaluate the post-secondary education sector;
+
 (b) to evaluate the post-secondary education sector, report to the Minister on the results of the evaluation and make the report available to the public;
+
 (b.1) to evaluate anything else specified by the Minister, including programs and services provided by the Ministry or other programs and services related to post-secondary education that are provided or funded by the Government of Ontario, in whole or in part, and to report to the Minister on the results of the evaluation;
+
 (c) to conduct research on all aspects of post-secondary education with a view to helping the Council achieve its object, including research,
+
 (i) on the development and design of various models of post-secondary education,
+
 (ii) on the means of encouraging collaboration between various post-secondary educational institutions in general and in particular in matters relating to the recognition by such institutions of courses and programs of study provided at other such institutions, and
+
 (iii) on other matters specified by the Minister; and
+
 (d) to do such other things as may be prescribed by regulation.
 
 ### Access to information
@@ -87,9 +103,13 @@ S.O. 2005, c. 28, Sched. G
 ### Minister’s directives
 
 (2) The minister may issue written directives to the Council’s board setting out,
+
 (a) matters the Council’s board is required to address in the plan before it is adopted;
+
 (b) processes the Council’s board must follow in preparing and adopting the plan;
+
 (c) specified amendments to the plan once adopted; and
+
 (d) processes the Council must follow in implementing the plan.
 
 ### Board to amend plan
@@ -99,30 +119,47 @@ S.O. 2005, c. 28, Sched. G
 ### Implementation
 
 (4) The Council shall wind up the affairs of the Council, and transfer its assets, liabilities, rights and obligations, in accordance with,
+
 (a) the plan, or if amendments are made to the plan, the amended plan; and
+
 (b) any directives issued by the Minister under clause (2) (d).
 
 ### Power to transfer assets, etc.
 
 (5) The following provisions apply for the purposes of implementing a plan adopted or amended under this section:
+
 1. The Council may transfer to the Crown in right of Ontario or to an agency of the Crown any of its assets, liabilities, rights and obligations, without consideration.
+
 2. If an agreement is the subject of a transfer under this section, it is deemed to be assignable by the Council without consent of any party to the agreement.
+
 3. The Council may enter into such other agreements, execute such documents and instruments, and do such other acts and things as the Council considers necessary or advisable to effect a transfer referred to in this section.
 
 ### Provisions regarding a transfer of assets, etc.
 
 (6) The following provisions apply to transfers of assets, liabilities, rights and obligations of the Council that are made pursuant to a plan adopted or amended under this section:
+
 1. The transferred asset, liability, right or obligation of the Council continues as the asset, liability, right or obligation of the recipient of the transfer.
+
 2. A transfer of an asset, liability, right or obligation of the Council to the recipient of the transfer shall not constitute a change of control of the Council in respect of the asset, liability, right or obligation.
+
 3. A transfer is deemed not to,
+
 i. constitute a breach, termination, repudiation or frustration of any agreement,
+
 ii. constitute a breach of any Act, regulation or municipal by-law,
+
 iii. constitute an event of default or force majeure,
+
 iv. give rise to a breach, termination, repudiation or frustration of any licence, permit or other right,
+
 v. give rise to any right to terminate or repudiate an agreement, licence, permit or other right, or
+
 vi. give rise to any estoppel.
+
 4. Despite any other Act that requires notice or registration of a transfer, a transfer is binding on the recipient of the transfer and all other persons.
+
 5. A conviction against, or ruling, order or judgment in favour of or against the Council may be enforced by or against the recipient of the transferred conviction, ruling, order or judgment.
+
 6. The recipient of a transferred action is deemed to be the party plaintiff or the party defendant, as the case may be, in any civil action commenced by or against the Council before the date of the transfer.
 
 ### Notices
@@ -136,7 +173,9 @@ vi. give rise to any estoppel.
 ### Same
 
 (2) The Council shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report; and
+
 (b) when and how to make it available to the public.
 
 ### Same
@@ -198,8 +237,11 @@ vi. give rise to any estoppel.
 ### Proceedings barred
 
 8.5 (1) No proceeding shall be commenced,
+
 (a) against any person specified in subsection 8.3 (1) in respect of a matter referred to in that subsection;
+
 (b) against the Crown or any person specified in subsection 8.3 (1) in respect of a matter referred to in subsection 8.3 (3); or
+
 (c) against any person specified in subsection 8.4 (1) in respect of a matter referred to in that subsection.
 
 ### Same
@@ -213,24 +255,43 @@ vi. give rise to any estoppel.
 ### Regulations
 
 9 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing institutions as post-secondary educational institutions for the purposes of this Act;
+
 (b) governing the Council’s constitution, management and structure, including the number of members of the board;
+
 (c) prescribing objects of the Council in addition to the object described in section 5;
+
 (d) prescribing functions of the Council in addition to those set out in section 6;
+
 (e) respecting specific powers and duties of the Council and its members;
+
 (f) respecting factors to be considered in appointing members;
+
 (g) providing for the term of appointment and reappointment of Council members;
+
 (h) respecting compensation for Council members;
+
 (i) providing for a vice-chair of the Council;
+
 (j) Repealed: 2017, c. 34, Sched. 46, s. 19 (4).
+
 (k) respecting the frequency, nature and scope of reporting in addition to the yearly report required by section 8;
+
 (l) respecting staff for the Council, including the status of Council staff, and their compensation;
+
 (m) respecting funding for the Council;
+
 (n) respecting audits of the statements and records of the Council;
+
 (o) providing whether or not the Business Corporations Act, the Corporations Information Act or the Not-for-Profit Corporations Act, 2010 or any provisions of those Acts apply to the Council;
+
 (p) governing the procedures and administration of the Council;
+
 (q) authorizing personal information to be collected by or on behalf of the Council other than directly from the individual to whom the information relates, and regulating the manner in which the information is collected;
+
 (r) providing for anything necessary or advisable to facilitate the carrying out of the functions of the Council;
+
 (s) respecting any other matter that the Lieutenant Governor in Council considers necessary or advisable for carrying out the purposes and provisions of this Act.
 
 ### Same
@@ -240,5 +301,7 @@ vi. give rise to any estoppel.
 ### Same
 
 (3) A regulation authorized by clause (1) (m) may provide that the prescribed assets and revenues of the Council do not form part of the Consolidated Revenue Fund, despite Part I of the Financial Administration Act.
+
 10 Omitted (provides for coming into force of provisions of this Act).
+
 11 Omitted (enacts short title of this Act).

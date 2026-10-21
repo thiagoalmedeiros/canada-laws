@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19f07c"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Fiscal Sustainability, Transparency and Accountability Act, 2019
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19f07c) before relying on it.
 
 S.O. 2019, c. 7, Sched. 30
 
@@ -21,9 +21,13 @@ S.O. 2019, c. 7, Sched. 30
 ### Definitions
 
 1 (1) In this Act,
+
 “balanced budget” means, for a fiscal year, a budget in which the sum of expenses and a reserve does not exceed revenues; (“budget équilibré”)
+
 “fiscal year” has the same meaning as in the Financial Administration Act; (“exercice”)
+
 “Minister” means the Minister of Finance; (“ministre”)
+
 “provincial net financial liabilities” means net financial liabilities calculated on the same basis as the net financial liabilities presented in the consolidated financial statements of the Province as set out in the most recent Public Accounts. (“passif financier net de la province”)
 
 ### Transition, 2026-2027 and 2027-2028 budgets
@@ -35,10 +39,15 @@ S.O. 2019, c. 7, Sched. 30
 ### Principles governing fiscal policy
 
 2 The following principles govern Ontario’s fiscal policy:
+
 1. Sustainability: Ontario’s fiscal policy should consider the government’s financial position, including the burden of the provincial net financial liabilities, over the long term.
+
 2. Transparency: it should be clearly articulated and information about it should be readily available to the public without charge.
+
 3. Responsibility: it should be based on cautious assumptions.
+
 4. Flexibility: it should recognize the need to respond to changing circumstances.
+
 5. Equity: its impact on different groups within the population and on future generations should be considered.
 
 ### Budget Rules and Requirements
@@ -50,7 +59,9 @@ S.O. 2019, c. 7, Sched. 30
 ### Exception, extraordinary circumstances
 
 (2) Despite subsection (1), if, as a result of extraordinary circumstances, the Executive Council determines that it is consistent with the principles governing Ontario’s fiscal policy for the Province to have a deficit for one or more fiscal years, the Executive Council may plan accordingly, in which case the following requirements must be met:
+
 1. The introductory summary of the budget must include the rationale for the Executive Council’s determination.
+
 2. If the multi-year fiscal plan included in the budget does not project a balanced budget for the last fiscal year in the plan period, the budget must include a recovery plan that meets the requirements of section 8.
 
 ### Same, 2020-2021 fiscal year
@@ -74,11 +85,17 @@ S.O. 2019, c. 7, Sched. 30
 ### Contents of the budget
 
 5 The budget required by section 4 must include the following information:
+
 1. An introductory summary of the key fiscal, economic and debt information contained in the budget.
+
 2. The macroeconomic forecasts and assumptions used to prepare the budget.
+
 3. A multi-year fiscal plan that meets the requirements of section 6.
+
 4. Ontario’s fiscal policy objectives for the period of the multi-year fiscal plan.
+
 5. A debt burden reduction strategy that meets the requirements of section 7.
+
 6. If it is required under subsection 3 (2), a recovery plan that meets the requirements of section 8.
 
 ### Multi-year fiscal plan
@@ -92,11 +109,17 @@ S.O. 2019, c. 7, Sched. 30
 ### Contents of the fiscal plan
 
 (3) The fiscal plan must include the following information:
+
 1. An estimate of Ontario’s revenues and expenses for the period of the plan, including estimates of the major components of the revenues and expenses.
+
 2. The forecasts and assumptions used to prepare the revenue and expense estimates for the period of the plan.
+
 3. A reserve to provide for unexpected adverse changes in revenues and expenses, in whole or in part, and the details of the reserve.
+
 4. A comprehensive discussion of the risks that, in the Minister’s opinion, may have a material impact on the economy or the public sector during the period of the plan.
+
 5. A description of the intended effects of the plan on the Province.
+
 6. Information about the projected ratio of provincial net financial liabilities to Ontario’s gross domestic product for the period of the plan.
 
 ### Debt burden reduction strategy
@@ -106,7 +129,9 @@ S.O. 2019, c. 7, Sched. 30
 ### Contents of the strategy
 
 (2) The debt burden reduction strategy must include the following information:
+
 1. Ontario’s specific objectives for the projected ratio of provincial net financial liabilities to Ontario’s gross domestic product.
+
 2. A progress update, including metrics, respecting the debt burden reduction strategy that was included in the previous budget.
 
 ### Recovery plan
@@ -120,20 +145,31 @@ S.O. 2019, c. 7, Sched. 30
 ### Contents of the recovery plan
 
 (3) The recovery plan must be consistent with the principles governing Ontario’s fiscal policy and must include the following information:
+
 1. The projected fiscal year in which the budget will be balanced.
+
 2. An estimate of Ontario’s revenues and expenses for the period of the plan, including estimates of the major components of the revenues and expenses.
+
 3. The forecasts and assumptions used to prepare the revenue and expense estimates for the period of the plan.
+
 4. A reserve to provide for unexpected adverse changes in revenues and expenses, in whole or in part, and the details of the reserve.
+
 5. Information about the projected ratio of provincial net financial liabilities to Ontario’s gross domestic product for the period of the plan.
 
 ### Mid-year review
 
 9 On or before November 15 of each fiscal year, the Minister shall release a mid-year review that includes the following information:
+
 1. An introductory summary of the key fiscal, economic and debt information contained in the review.
+
 2. Updated information about Ontario’s revenues and expenses for the current fiscal year or a longer period, including updated information about the major components of the revenues and expenses.
+
 3. Information about the estimated cost of expenditures that are made through the tax system.
+
 4. For the purpose of pre-budget consultations with the public:
+
 i. A description of the key issues that, in the Minister’s opinion, should be addressed in the next budget.
+
 ii. Details about how to participate in the pre-budget consultations.
 
 ### Interim updates about revenues and expenses
@@ -151,8 +187,11 @@ ii. Details about how to participate in the pre-budget consultations.
 ### Contents of assessment
 
 (2) The long-range assessment must include the following information:
+
 1. A description of anticipated changes in the economy and in population demographics during the following 20 years.
+
 2. A description of the potential impact of these changes on the public sector and on Ontario’s fiscal policy during that period.
+
 3. An analysis of key issues of fiscal policy that, in the Minister’s opinion, are likely to affect the long-term sustainability of the economy and of the public sector.
 
 ### Oversight by Auditor General
@@ -172,7 +211,9 @@ ii. Details about how to participate in the pre-budget consultations.
 ### Financial penalty for missed deadline
 
 16 (1) If the Minister does not meet a deadline under this Act, the following rules apply:
+
 1. The Minister shall pay into the Consolidated Revenue Fund a penalty equal to 10 per cent of the annual salary payable to the Minister under subsection 3 (1) of the Executive Council Act.
+
 2. The Premier shall pay into the Consolidated Revenue Fund a penalty equal to 10 per cent of the annual salary payable to the Premier under subsections 3 (1) and (2) of the Executive Council Act.
 
 ### Timing of payment
@@ -200,6 +241,9 @@ ii. Details about how to participate in the pre-budget consultations.
 ### Immunity
 
 19 Apart from a claim by the Crown against the Minister or the Premier in respect of an amount payable under section 16, no cause of action arises and no action or other proceeding may be brought in respect of a requirement of this Act.
+
 20 , 21 Omitted (amends, repeals or revokes other legislation).
+
 22 Omitted (provides for coming into force of provisions of this Act).
+
 23 Omitted (enacts short title of this Act).

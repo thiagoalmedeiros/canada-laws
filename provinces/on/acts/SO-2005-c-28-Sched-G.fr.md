@@ -6,22 +6,26 @@ language: fr
 type: act
 document_date: "2026-05-07"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/05h28"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Conseil ontarien de la qualité de l'enseignement supérieur (Loi de 2005 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/05h28) before relying on it.
 
 L.O. 2005, chap. 28, Annexe G
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Conseil» Le Conseil ontarien de la qualité de l’enseignement supérieur créé en application de l’article 2. («Council»)
+
 «établissement d’enseignement postsecondaire» Collège d’arts appliqués et de technologie ouvert en vertu de la Loi de 2002 sur les collèges d’arts appliqués et de technologie de l’Ontario, université qui reçoit des fonds de fonctionnement permanents de la Province aux fins de l’enseignement postsecondaire et tout autre établissement que prescrivent les règlements. («post-secondary educational institution»)
+
 «ministre» Le ministre de l’Enseignement supérieur et de la Formation professionnelle ou le ministre de la Couronne à qui les pouvoirs et fonctions prévus par la présente loi sont assignés ou transférés en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «secteur postsecondaire» S’entend notamment de tous les établissements d’enseignement postsecondaire de l’Ontario. («post-secondary education sector») 2005, chap. 28, annexe G, art. 1
 
 ### Conseil
@@ -47,11 +51,13 @@ L.O. 2005, chap. 28, Annexe G
 ### Représentant du ministère
 
 (5) Le conseil d’administration peut comprendre un ou plusieurs employés du gouvernement de l’Ontario.
+
 (6) Abrogé : 2026, chap. 4, annexe 3, par. 1 (2).
 
 ### Gestion du conseil d’administration
 
 (7) Le conseil d’administration du Conseil en gère les affaires.
+
 3 Abrogé : 2026, chap. 4, annexe 3, art. 2.
 
 ### Organisme de la Couronne
@@ -65,15 +71,25 @@ L.O. 2005, chap. 28, Annexe G
 ### Fonctions
 
 6 Les fonctions du Conseil sont les suivantes :
+
 a) formuler des recommandations sur les questions suivantes et les présenter au ministre :
+
 (i) les objectifs à atteindre pour améliorer la qualité de l’enseignement postsecondaire, les moyens d’y parvenir et les délais impartis,
+
 (ii) les mesures de performance à utiliser pour évaluer le secteur postsecondaire;
+
 b) évaluer le secteur postsecondaire, présenter le rapport de l’évaluation au ministre et mettre ce rapport à la disposition du public;
+
 b.1) évaluer toute autre chose que précise le ministre, y compris les programmes et services fournis par le ministère ou les autres programmes et services liés à l’enseignement postsecondaire qui sont fournis ou financés, en tout ou en partie, par le gouvernement de l’Ontario, et présenter le rapport de l’évaluation au ministre;
+
 c) effectuer des recherches sur tous les aspects de l’enseignement postsecondaire afin d’aider le Conseil à réaliser sa mission, notamment dans les domaines suivants :
+
 (i) la conception et la mise au point de divers modèles d’enseignement postsecondaire,
+
 (ii) les moyens de renforcer la collaboration entre divers établissements d’enseignement postsecondaire en général et en particulier en ce qui concerne la reconnaissance mutuelle de cours et de programmes d’études,
+
 (iii) toute autre question que précise le ministre;
+
 d) faire toute autre chose prescrite par les règlements.
 
 ### Accès à l’information
@@ -87,9 +103,13 @@ d) faire toute autre chose prescrite par les règlements.
 ### Directives du ministre
 
 (2) Le ministre peut donner au conseil d’administration du Conseil des directives écrites énonçant ce qui suit :
+
 a) les questions que le conseil d’administration du Conseil doit aborder dans le plan avant son adoption;
+
 b) le processus que le conseil d’administration du Conseil doit suivre pour préparer et adopter le plan;
+
 c) les modifications indiquées à apporter au plan après son adoption;
+
 d) le processus que le Conseil doit suivre pour mettre en œuvre le plan.
 
 ### Modification du plan par le conseil d’administration
@@ -99,30 +119,47 @@ d) le processus que le Conseil doit suivre pour mettre en œuvre le plan.
 ### Mise en œuvre
 
 (4) Le Conseil liquide ses affaires et transfère ses éléments d’actif et de passif ainsi que ses droits et obligations conformément à ce qui suit :
+
 a) au plan ou, si des modifications y sont apportées, au plan modifié;
+
 b) aux directives données par le ministre en vertu de l’alinéa (2) d).
 
 ### Pouvoir de transfert
 
 (5) Les dispositions suivantes s’appliquent aux fins de la mise en œuvre d’un plan adopté ou modifié en vertu du présent article :
+
 1. Le Conseil peut transférer à la Couronne du chef de l’Ontario ou à un organisme de la Couronne ses éléments d’actif et de passif ainsi que ses droits et obligations sans contrepartie.
+
 2. L’entente qui fait l’objet d’un transfert prévu au présent article est réputée cessible par le Conseil sans le consentement des parties à l’entente.
+
 3. Le Conseil peut conclure les autres ententes, souscrire les documents et effets, et faire toutes autres choses selon ce qu’il estime nécessaire ou souhaitable pour effectuer un transfert visé au présent article.
 
 ### Dispositions relatives aux transferts
 
 (6) Les dispositions suivantes s’appliquent aux transferts d’éléments d’actif et de passif et des droits et obligations du Conseil effectués conformément à un plan adopté ou modifié en vertu du présent article :
+
 1. L’élément d’actif ou de passif, le droit ou l’obligation du Conseil qui est transféré devient l’élément d’actif ou de passif, le droit ou l’obligation du destinataire du transfert.
+
 2. Le transfert d’un élément d’actif ou de passif, d’un droit ou d’une obligation du Conseil au destinataire du transfert ne constitue pas un changement de contrôle du Conseil relativement à l’élément d’actif ou de passif, au droit ou à l’obligation.
+
 3. Un transfert est réputé ne pas :
+
 i. constituer une violation, résiliation, répudiation ou impossibilité d’exécution d’une entente,
+
 ii. constituer une violation d’une loi, d’un règlement ou d’un règlement municipal,
+
 iii. constituer un cas de défaut ou une force majeure,
+
 iv. donner lieu à une violation, révocation, répudiation ou impossibilité d’exécution d’un permis, d’une autorisation ou d’un autre droit,
+
 v. donner le droit de résilier une entente ou de révoquer un droit, notamment un permis ou une autorisation, ni le droit de les répudier,
+
 vi. donner lieu à une préclusion.
+
 4. Malgré toute autre loi qui exige la remise d’un avis en cas d’un transfert ou son enregistrement, le transfert lie le destinataire du transfert et les autres personnes.
+
 5. Toute décision judiciaire ou quasi judiciaire rendue en faveur du Conseil ou contre lui peut être exécutée par le destinataire du transfert de la décision judiciaire ou quasi judiciaire ou à son encontre.
+
 6. Le destinataire d’une action transférée est réputé partie demanderesse ou partie défenderesse, selon le cas, dans toute action civile intentée avant la date du transfert, soit par le Conseil, soit contre lui.
 
 ### Avis
@@ -136,7 +173,9 @@ vi. donner lieu à une préclusion.
 ### Idem
 
 (2) Le Conseil se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -198,8 +237,11 @@ b) le moment où il faut le mettre à la disposition du public et la manière de
 ### Irrecevabilité de certaines instances
 
 8.5 (1) Sont irrecevables les instances introduites contre les personnes ou entités suivantes :
+
 a) une personne visée au paragraphe 8.3 (1) en ce qui concerne une question visée à ce paragraphe;
+
 b) la Couronne ou une personne visée au paragraphe 8.3 (1) en ce qui concerne une question visée au paragraphe 8.3 (3);
+
 c) une personne visée au paragraphe 8.4 (1) en ce qui concerne une question visée à ce paragraphe.
 
 ### Idem
@@ -213,24 +255,43 @@ c) une personne visée au paragraphe 8.4 (1) en ce qui concerne une question vis
 ### Règlements
 
 9 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des établissements comme étant des établissements d’enseignement postsecondaire pour l’application de la présente loi;
+
 b) régir la constitution, la gestion et la structure du Conseil, y compris le nombre de membres du conseil d’administration;
+
 c) prescrire toute chose susceptible d’élargir la mission du Conseil décrite à l’article 5;
+
 d) prescrire des fonctions du Conseil qui s’ajoutent à celles qui sont énoncées à l’article 6;
+
 e) traiter de pouvoirs et fonctions particuliers du Conseil et de ses membres;
+
 f) traiter des facteurs à prendre en considération dans la nomination des membres;
+
 g) prévoir la durée et le renouvellement du mandat des membres du Conseil;
+
 h) traiter de la rémunération des membres du Conseil;
+
 i) prévoir la nomination d’un vice-président du Conseil;
+
 j) Abrogé : 2017, chap. 34, annexe 46, par. 19 (4).
+
 k) traiter de la fréquence, de la nature et de la portée des rapports autres que le rapport annuel qu’exige l’article 8;
+
 l) traiter des membres du personnel du Conseil, y compris de leur statut et de leur rémunération;
+
 m) traiter du financement du Conseil;
+
 n) traiter de la vérification des états financiers et des documents comptables du Conseil;
+
 o) prévoir si la Loi sur les sociétés par actions, la Loi sur les renseignements exigés des personnes morales ou la Loi de 2010 sur les organisations sans but lucratif s’applique ou non, en tout ou en partie, au Conseil;
+
 p) régir les règles de fonctionnement et l’administration du Conseil;
+
 q) autoriser la collecte de renseignements personnels par le Conseil ou en son nom d’une manière autre que directement du particulier concerné par ces renseignements, et réglementer la manière de recueillir ces mêmes renseignements;
+
 r) prévoir tout ce qui est nécessaire ou souhaitable pour faciliter l’exercice des fonctions du Conseil;
+
 s) traiter de toute autre question qu’il estime nécessaire ou souhaitable à la réalisation de l’objet et à l’application des dispositions de la présente loi.
 
 ### Idem
@@ -240,5 +301,7 @@ s) traiter de toute autre question qu’il estime nécessaire ou souhaitable à 
 ### Idem
 
 (3) Les règlements autorisés par l’alinéa (1) m) peuvent prévoir que les actifs et produits prescrits du Conseil ne font pas partie du Trésor, malgré la partie I de la Loi sur l’administration financière.
+
 10 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 11 Omis (édicte le titre abrégé de la présente loi).

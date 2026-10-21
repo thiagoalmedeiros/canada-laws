@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-06-06"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17n33"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # agrément en matière de construction de logements neufs (Loi de 2017 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17n33) before relying on it.
 
 L.O. 2017, chap. 33, annexe 1
 
@@ -21,59 +21,105 @@ L.O. 2017, chap. 33, annexe 1
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «accord d’application» L’accord visé au paragraphe 3 (1). («administrative agreement»)
+
 «accord d’échange de renseignements» L’un ou l’autre des accords visés au paragraphe 4 (3). («information sharing agreement»)
+
 «action participante» Relativement à une société, s’entend d’une action d’une de ses catégories ou séries d’actions qui sont assorties d’un droit de vote en toutes circonstances ou dans certaines circonstances qui se sont produites et qui se poursuivent. («equity share»)
+
 «agréé» Agréé en vertu d’un permis délivré sous le régime de la présente loi. Le terme «agrément» a un sens correspondant. (French version only)
+
 «association condominiale» Association au sens du paragraphe 1 (1) de la Loi de 1998 sur les condominiums. («condominium corporation»)
+
 «association condominiale de parties communes», «dépenses communes», «intérêt commun» S’entendent au sens de la Loi de 1998 sur les condominiums. («common elements condominium corporation», «common expenses», «common interest»)
+
 «constructeur» S’entend au sens de l’article 1 de la Loi sur le Régime de garanties des logements neufs de l’Ontario. («builder»)
+
 «constructeur-propriétaire» Sous réserve des exigences ou restrictions prescrites, le cas échéant, s’entend du particulier qui construit ou gère la construction d’un logement destiné à son usage personnel et qui satisfait aux exigences éventuellement prescrites. («owner-builder»)
+
 «déclaration de condominium» Déclaration au sens du paragraphe 1 (1) de la Loi de 1998 sur les condominiums. («condominium declaration»)
+
 «directeur» Le directeur nommé en application du paragraphe 36 (1). («Director»)
+
 «dirigeant» S’entend notamment des personnes suivantes :
+
 a) dans le cas d’une société ou de l’organisme de réglementation, le président et les vice-présidents de son conseil d’administration, son président, ses vice-présidents, son secrétaire, son secrétaire adjoint, son trésorier, son trésorier adjoint, son directeur général et son directeur général adjoint;
+
 b) dans le cas d’une société de personnes, ses associés, son directeur général et son directeur général adjoint;
+
 c) les autres particuliers désignés à titre de dirigeants par règlement administratif ou résolution d’une organisation;
+
 d) les autres particuliers qui exercent des fonctions normalement exercées par le titulaire d’un poste visé à l’alinéa a), b) ou c);
+
 e) les autres particuliers prescrits. («officer»)
+
 «dispositions déléguées» Dispositions de la présente loi et des règlements que le lieutenant-gouverneur en conseil a désignées comme telles en vertu du paragraphe 2 (2). («delegated provisions»)
+
 «employer» Employer ou nommer une autre personne pour agir pour son compte, y compris en qualité d’entrepreneur indépendant, l’autoriser à ce faire ou prendre d’autres dispositions pour qu’elle le fasse. («employ»)
+
 «enquêteur» Enquêteur nommé en application du paragraphe 60 (1). («investigator»)
+
 «évaluateur» L’évaluateur nommé en application du paragraphe 75 (2) qui est autorisé à imposer une pénalité administrative, ou le registrateur lorsqu’il agit à titre d’évaluateur. («assessor»)
+
 «inspecteur» L’inspecteur nommé en application du paragraphe 58 (2), ou le registrateur lorsqu’il agit à titre d’inspecteur. («inspector»)
+
 «logement neuf» S’entend au sens de «logement» à l’article 1 de la Loi sur le Régime de garanties des logements neufs de l’Ontario. («new home»)
+
 «ministre» Le ministre des Services gouvernementaux et des Services aux consommateurs ou l’autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «organisme de garantie» S’entend au sens de «Société» à l’article 1 de la Loi sur le Régime de garanties des logements neufs de l’Ontario. («warranty authority»)
+
 «organisme de réglementation» La personne morale que le lieutenant-gouverneur en conseil a désignée comme tel en vertu du paragraphe 2 (1). («regulatory authority»)
+
 «partie privative de condominium» Partie privative au sens du paragraphe 1 (1) de la Loi de 1998 sur les condominiums. («condominium unit»)
+
 «parties communes» L’ensemble de la propriété condominiale, à l’exception de ses parties privatives. («common elements»)
+
 «pénalité administrative» Pénalité administrative imposée en vertu de l’article 76. («administrative penalty»)
+
 «personne» Personne physique, personne morale, société de personnes, entreprise à propriétaire unique, association ou autre personne ou entité prescrite. («person»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «propriétaire» S’entend au sens de l’article 1 de la Loi sur le Régime de garanties des logements neufs de l’Ontario. («owner»)
+
 «propriété condominiale» Propriété au sens du paragraphe 1 (1) de la Loi de 1998 sur les condominiums. («condominium property»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «titulaire de permis» Titulaire d’un permis délivré sous le régime de la présente loi. («licensee»)
+
 «Tribunal» Le Tribunal d’appel en matière de permis créé en application de la Loi de 1999 sur le Tribunal d’appel en matière de permis ou un autre tribunal prescrit. («Tribunal»)
+
 «vendeur» S’entend au sens de l’article 1 de la Loi sur le Régime de garanties des logements neufs de l’Ontario. («vendor») 2017, chap. 33, annexe 1, par. 1 (1)
 
 ### Personne intéressée
 
 (2) Pour l’application de la présente loi, une personne est réputée intéressée à l’égard d’une autre si elle est associée avec elle ou que, de l’avis du registrateur :
+
 a) soit elle a ou peut avoir un intérêt bénéficiaire dans les activités de l’autre personne;
+
 b) soit elle contrôle ou peut contrôler l’autre personne, directement ou indirectement;
+
 c) soit elle a ou peut avoir fourni un financement pour les activités de l’autre personne, directement ou indirectement.
 
 ### Personnes associées
 
 (3) Pour l’application de la présente loi, une personne est associée avec une autre dans l’un ou l’autre des cas suivants :
+
 1. L’une d’elles est une personne morale dont l’autre est un dirigeant ou un administrateur.
+
 2. L’une d’elles est une société de personnes dont l’autre est un associé.
+
 3. Les deux sont des associés de la même société de personnes.
+
 4. L’une d’elles est une personne morale que l’autre contrôle directement ou indirectement.
+
 5. Les deux sont des personne morales que la même personne contrôle directement ou indirectement.
+
 6. Les deux sont parties à la même convention de vote fiduciaire afférente aux actions d’une société.
+
 7. Les deux sont associées, au sens des dispositions 1 à 6, avec la même personne.
 
 ## PARTIE II APPLICATION
@@ -99,15 +145,21 @@ c) soit elle a ou peut avoir fourni un financement pour les activités de l’au
 ### Contenu
 
 (2) L’accord d’application traite au moins des conditions liées aux questions suivantes :
+
 1. La gouvernance de l’organisme de réglementation.
+
 2. Toutes les questions que le ministre estime nécessaires pour l’application des dispositions déléguées par l’organisme de réglementation.
+
 3. Le maintien par l’organisme de réglementation d’une assurance suffisante de la responsabilité découlant de l’exercice de ses pouvoirs et fonctions dans le cadre de la présente loi ou des règlements.
+
 4. Les conditions financières de la délégation de l’application des dispositions déléguées, y compris les paiements à la Couronne, les droits à acquitter pour l’obtention d’un permis, les redevances et les remboursements pour les transferts d’éléments d’actif.
 
 ### Conformité aux principes directeurs
 
 (3) En plus des conditions qu’exige le paragraphe (2), l’accord d’application exige que l’organisme de réglementation se conforme aux principes suivants :
+
 a) le maintien d’un marché loyal, sûr et renseigné;
+
 b) la promotion de la protection de l’intérêt public.
 
 ### Échange de renseignements
@@ -125,19 +177,33 @@ b) la promotion de la protection de l’intérêt public.
 ### Contenu des accords
 
 (4) Les accords d’échange de renseignements mentionnés au paragraphe (3) traitent notamment, au moins, des conditions relatives aux questions prescrites, qui peuvent notamment porter sur :
+
 a) les demandes de permis et de renouvellement de permis;
+
 b) les conditions du permis;
+
 c) les suspensions de permis;
+
 d) les révocations de permis;
+
 e) les plaintes visées à l’article 56;
+
 f) les infractions au code de déontologie établi en vertu de l’alinéa 84 (1) f);
+
 g) les ordonnances prises ou rendues en vertu de l’article 64;
+
 h) les ordonnances de blocage prises ou rendues en vertu de l’article 65 ou 66;
+
 i) les ordonnances d’observation prises ou rendues en vertu de l’article 67 ou les ordonnances d’observation immédiate prises ou rendues en vertu de l’article 68;
+
 j) les ordonnances restrictives rendues en vertu de l’article 70;
+
 k) les pénalités administratives;
+
 l) les infractions;
+
 m) les autres mesures d’exécution prises par l’organisme de réglementation;
+
 n) tout autre contenu prescrit.
 
 ### Échange de renseignements concernant l’exécution de la loi
@@ -151,11 +217,17 @@ n) tout autre contenu prescrit.
 ### Examen
 
 6 (1) Le ministre peut :
+
 a) exiger que des examens des politiques, de la législation ou de la réglementation liés aux pouvoirs et fonctions que la présente loi, les règlements, l’accord d’application et les accords d’échange de renseignements attribuent à l’organisme de réglementation soient effectués :
+
 (i) soit par l’organisme ou pour son compte,
+
 (ii) soit par une personne ou une entité précisée par le ministre;
+
 b) exiger que des examens de l’organisme de réglementation, de ses activités ou des deux, sur le plan notamment du rendement, de la gouvernance, de la responsabilisation et des finances, soient effectués :
+
 (i) soit par l’organisme ou pour son compte,
+
 (ii) soit par une personne ou une entité précisée par le ministre.
 
 ### Accès aux dossiers
@@ -165,8 +237,11 @@ b) exiger que des examens de l’organisme de réglementation, de ses activités
 ### Incompatibilité
 
 7 En cas d’incompatibilité, la présente loi et les règlements l’emportent sur :
+
 a) l’accord d’application et les accords d’échange de renseignements;
+
 b) la Loi sur les renseignements exigés des personnes morales et ses règlements;
+
 c) les documents constitutifs, les règlements administratifs et les résolutions de l’organisme de réglementation.
 
 ### Révocation d’une désignation
@@ -176,8 +251,11 @@ c) les documents constitutifs, les règlements administratifs et les résolution
 ### Révocation pour non-conformité
 
 (2) Le lieutenant-gouverneur en conseil peut, par règlement, révoquer la désignation de l’organisme de réglementation si les conditions suivantes sont remplies :
+
 a) l’organisme ne s’est pas conformé à la présente loi, aux règlements, à l’accord d’application, aux accords d’échange de renseignements ou à une autre règle de droit applicable;
+
 b) le ministre a donné à l’organisme l’occasion de remédier à la situation dans un délai déterminé qu’il estime raisonnable dans les circonstances;
+
 c) l’organisme n’a pas remédié à la situation à la satisfaction du ministre dans le délai imparti à l’alinéa b) et le ministre en a avisé le lieutenant-gouverneur en conseil.
 
 ### Idem : effet sur le par. (1)
@@ -195,7 +273,9 @@ c) l’organisme n’a pas remédié à la situation à la satisfaction du minis
 ### Dispositions transitoires
 
 (6) Si le lieutenant-gouverneur en conseil révoque la désignation de l’organisme de réglementation en vertu du présent article, il peut, par règlement, prévoir les questions transitoires nécessaires à la mise en application efficace de la révocation, notamment :
+
 a) le transfert de toute propriété, sans versement d’indemnité, notamment des biens, du passif, des droits, des obligations, des dossiers, des bases de données, des comptes bancaires et de l’argent que l’organisme détient pour l’exercice de ses activités;
+
 b) la cession, sans versement d’indemnité, des contrats que l’organisme a conclus avant sa révocation.
 
 ### Immunité de la Couronne
@@ -209,9 +289,13 @@ b) la cession, sans versement d’indemnité, des contrats que l’organisme a c
 ### Condition préalable à l’exercice de certains pouvoirs
 
 9 Le ministre ne peut exercer un pouvoir prévu au paragraphe 24 (1) ou à toute autre disposition prescrite que s’il le juge souhaitable dans l’intérêt public parce qu’au moins une des conditions suivantes est remplie :
+
 1. L’exercice du pouvoir est nécessaire pour empêcher qu’un préjudice grave soit causé aux intérêts du public, aux acquéreurs de logements neufs ou aux propriétaires.
+
 2. Un cas de force majeure est survenu.
+
 3. L’organisme de réglementation risque l’insolvabilité.
+
 4. Le conseil d’administration de l’organisme de réglementation ne compte pas suffisamment de membres pour former le quorum.
 
 ### Organisme de réglementation
@@ -247,7 +331,9 @@ b) la cession, sans versement d’indemnité, des contrats que l’organisme a c
 ### Représentation
 
 (3) Les membres nommés par le ministre peuvent comprendre :
+
 a) des représentants du public, de groupes de consommateurs, du monde des affaires ou d’organismes gouvernementaux;
+
 b) des représentants d’autres intérêts qu’il précise.
 
 ### Nomination du président
@@ -257,8 +343,11 @@ b) des représentants d’autres intérêts qu’il précise.
 ### Renseignements sur l’organisme à la disposition du public
 
 14 (1) L’organisme de réglementation met les renseignements suivants à la disposition du public sur son site Web et par les autres moyens qu’il précise, dans le délai prescrit :
+
 1. Les renseignements prescrits concernant la rémunération des membres de son conseil d’administration, de ses dirigeants et de ses employés et ceux concernant les autres paiements qu’il leur fait ou est tenu de leur faire.
+
 2. Ses règlements administratifs.
+
 3. Les autres renseignements prescrits.
 
 ### Renseignements concernant la rémunération
@@ -268,7 +357,9 @@ b) des représentants d’autres intérêts qu’il précise.
 ### Effet de la conformité
 
 (3) Si l’organisme de réglementation met à la disposition du public des renseignements concernant la rémunération conformément au paragraphe (1), ou pour des motifs qui permettent raisonnablement de croire que des mesures sont exigées par ce paragraphe, nul tribunal ou nulle personne ne doit conclure que l’organisme :
+
 a) soit a contrevenu à une loi adoptée ou à un règlement pris avant ou après le 1 er février 2021;
+
 b) soit ne s’est pas conformé ou a contrevenu à une entente visant à limiter ou à interdire ces mesures, que l’entente soit conclue avant ou après le 1 er février 2021.
 
 ### Procédés et méthodes
@@ -282,8 +373,11 @@ b) soit ne s’est pas conformé ou a contrevenu à une entente visant à limite
 ### Non des employés de la Couronne
 
 (2) Les personnes suivantes ne sont pas des employés de la Couronne et ne doivent pas se faire passer pour tels :
+
 1. Les personnes qui sont employées ou dont les services sont retenus en vertu du paragraphe (1).
+
 2. Les membres, les dirigeants et les mandataires de l’organisme de réglementation.
+
 3. Les membres du conseil d’administration de l’organisme de réglementation, y compris ceux qui sont nommés par le ministre.
 
 ### Non un organisme de la Couronne
@@ -293,8 +387,11 @@ b) soit ne s’est pas conformé ou a contrevenu à une entente visant à limite
 ### Idem
 
 (2) Les personnes suivantes ne sont pas des mandataires de la Couronne et ne doivent pas se faire passer pour tels :
+
 1. Les personnes qui sont employées ou dont les services sont retenus par l’organisme de réglementation en vertu du paragraphe 15 (1).
+
 2. Les membres, les dirigeants et les mandataires de l’organisme de réglementation.
+
 3. Les membres du conseil d’administration de l’organisme de réglementation, y compris ceux qui sont nommés par le ministre.
 
 ### Limites de la responsabilité
@@ -302,7 +399,9 @@ b) soit ne s’est pas conformé ou a contrevenu à une entente visant à limite
 ### Immunité : employé de la Couronne
 
 17 (1) Sont irrecevables les actions ou autres instances introduites contre un employé actuel ou ancien de la Couronne :
+
 a) pour tout acte accompli de bonne foi dans l’exercice effectif ou censé tel des fonctions ou des pouvoirs que lui confèrent la présente loi, les règlements ou un arrêté du ministre;
+
 b) pour toute négligence ou tout manquement commis dans l’exercice de bonne foi de ces fonctions ou de ces pouvoirs.
 
 ### Délit civil commis par un employé de la Couronne
@@ -336,22 +435,35 @@ b) pour toute négligence ou tout manquement commis dans l’exercice de bonne f
 ### Champ d’application
 
 (2) Le paragraphe (1) s’applique aux personnes suivantes :
+
 1. Le registrateur.
+
 2. Les registrateurs adjoints.
+
 3. Le directeur.
+
 4. Les directeurs adjoints.
+
 5. Les inspecteurs.
+
 6. Les enquêteurs.
+
 7. Les évaluateurs.
+
 8. Les administrateurs ou les dirigeants de l’organisme de réglementation.
+
 9. Les personnes que l’organisme de réglementation emploie ou dont il retient les services.
+
 10. Les mandataires de l’organisme de réglementation.
+
 11. Les membres du comité de discipline prévu au paragraphe 57 (1), du comité d’appel prévu au paragraphe 57 (2) ou d’un comité ou d’un organisme consultatif de l’organisme de réglementation.
+
 12. La personne que prescrit le ministre, le cas échéant, pour l’application de la définition de «organisme d’appel» au paragraphe 77 (1).
 
 ### Responsabilité de l’organisme de réglementation
 
 (3) Le paragraphe (1) n’a pas pour effet de dégager l’organisme de réglementation de la responsabilité qu’il serait autrement tenu d’assumer à l’égard des actes ou des omissions d’une personne visée au paragraphe (2).
+
 20 Abrogé : 2020, chap. 14, annexe 4, art. 9.
 
 ### Non des deniers publics
@@ -475,8 +587,11 @@ b) pour toute négligence ou tout manquement commis dans l’exercice de bonne f
 ### Définition
 
 (2) La définition qui suit s’applique au paragraphe (1).
+
 «service» Service ou procédure que l’organisme de réglementation fournit au public dans l’exercice de ses pouvoirs et fonctions dans le cadre de la présente loi ou des règlements, y compris :
+
 a) répondre aux demandes de renseignements du public;
+
 b) effectuer toutes les autres communications utiles pour fournir le service ou la procédure.
 
 ### Obligation du conseil
@@ -490,8 +605,11 @@ b) effectuer toutes les autres communications utiles pour fournir le service ou 
 ### Formulaires et droits
 
 29 (1) L’organisme de réglementation peut :
+
 a) créer des formulaires relatifs à l’application des dispositions déléguées et prévoir leur contenu;
+
 b) fixer et percevoir, conformément aux procédures et aux critères qu’il établit et qu’approuve le ministre, des droits, coûts ou autres frais relativement à l’application des dispositions déléguées;
+
 c) établir des règles régissant le paiement des droits, coûts et frais visés à l’alinéa b).
 
 ### Fixation des droits
@@ -501,20 +619,27 @@ c) établir des règles régissant le paiement des droits, coûts et frais visé
 ### Publication du barème de droits
 
 (3) L’organisme de réglementation :
+
 a) doit publier les droits, coûts et frais, les procédures et les critères ainsi que les règles sur son site Web ou par tout autre moyen électronique exigé aux termes de l’accord d’application;
+
 b) peut publier ces renseignements sur tout autre support qu’il estime indiqué.
 
 ### Conseils consultatifs et consultations
 
 30 Le ministre peut exiger que l’organisme de réglementation :
+
 a) forme un ou plusieurs conseils consultatifs;
+
 b) comprenne, en tant que membres d’un conseil consultatif, des représentants du public, de groupes de consommateurs, du monde des affaires ou d’organismes gouvernementaux et les autres personnes que précise le ministre;
+
 c) entreprenne des consultations au cours desquelles il demande l’avis du public, de personnes possédant de l’expérience ou des connaissances relativement à la présente loi ou des deux.
 
 ### Obligation d’informer le ministre
 
 31 L’organisme de réglementation conseille le ministre en ce qui concerne :
+
 a) tout fait important qui pourrait avoir une incidence sur la capacité de l’organisme à exercer les fonctions que lui attribuent la présente loi ou les règlements;
+
 b) toute question urgente ou cruciale qui exigera vraisemblablement l’intervention du ministre pour assurer la bonne application des dispositions déléguées.
 
 ### Conseils au ministre
@@ -524,13 +649,17 @@ b) toute question urgente ou cruciale qui exigera vraisemblablement l’interven
 ### Suggestions de modifications législatives
 
 (2) L’organisme de réglementation peut suggérer au ministre les modifications qui, à son avis, devraient être apportées à la législation de l’Ontario pour, selon le cas :
+
 a) mieux réaliser l’objet de la présente loi;
+
 b) aider l’organisme dans l’exercice de ses pouvoirs et fonctions dans le cadre de la présente loi ou des règlements.
 
 ### Recherche et éducation du public
 
 33 (1) L’organisme de réglementation prend part, conformément à l’accord d’application et aux règlements, le cas échéant :
+
 a) à la recherche de techniques, de procédés et de matériaux de construction efficaces par rapport au coût;
+
 b) à la détermination, en collaboration avec d’autres organismes, des meilleures pratiques pour la construction de logements neufs.
 
 ### Éducation du consommateur
@@ -540,7 +669,9 @@ b) à la détermination, en collaboration avec d’autres organismes, des meille
 ### Renseignements pour le registrateur
 
 34 (1) Le registrateur peut exiger que les vendeurs, les constructeurs et les autres personnes prescrites lui communiquent, conformément aux règlements :
+
 a) les renseignements qui se rapportent à l’application de la présente loi;
+
 b) les renseignements qui sont prescrits.
 
 ### Fourniture des renseignements
@@ -552,7 +683,9 @@ b) les renseignements qui sont prescrits.
 ### Registrateur
 
 35 (1) La personne ou l’organe suivant doit nommer un registrateur pour l’application de la présente loi et peut nommer un ou plusieurs registrateurs adjoints :
+
 1. Le conseil d’administration de l’organisme de réglementation.
+
 2. Le ministre, en l’absence d’organisme de réglementation.
 
 ### Registrateurs adjoints
@@ -566,7 +699,9 @@ b) les renseignements qui sont prescrits.
 ### Directeur
 
 36 (1) Sous réserve du paragraphe (2), la personne ou l’organe suivant doit nommer un directeur pour l’application de la présente loi et peut nommer un ou plusieurs directeurs adjoints :
+
 1. Le conseil d’administration de l’organisme de réglementation.
+
 2. Le ministre, en l’absence d’organisme de réglementation.
 
 ### Restriction
@@ -598,34 +733,55 @@ b) les renseignements qui sont prescrits.
 ### Demande de permis
 
 38 (1) Le demandeur a le droit de se voir délivrer un permis ou un renouvellement de permis par le registrateur si, de l’avis de ce dernier, il est satisfait aux exigences suivantes :
+
 a) le demandeur n’est pas une personne morale et les conditions suivantes sont remplies :
+
 (i) compte tenu de sa situation financière antérieure et actuelle, de celle de toutes les personnes intéressées à son égard et de celle de toutes les autres personnes prescrites, il y a raisonnablement lieu de s’attendre à ce qu’il pratique une saine gestion financière dans l’exercice de ses activités,
+
 (ii) sa conduite antérieure et actuelle, celle de toutes les personnes intéressées à son égard et celle de toutes les autres personnes prescrites offre des motifs raisonnables de croire qu’il exercera ses activités conformément à la loi et avec intégrité et honnêteté,
+
 (iii) ni lui-même, ni l’un de ses employés ou mandataires, ni une autre personne prescrite n’a fait de fausse déclaration concernant l’exercice des activités du demandeur;
+
 b) le demandeur est une personne morale et les conditions suivantes sont remplies :
+
 (i) compte tenu de sa situation financière antérieure et actuelle et de celle de toutes les personnes intéressées à son égard, il y a raisonnablement lieu de s’attendre à ce qu’il pratique une saine gestion financière dans l’exercice de ses activités,
+
 (ii) compte tenu de la situation financière antérieure et actuelle de ses dirigeants, de ses administrateurs et de toutes les personnes intéressées à leur égard, il y a raisonnablement lieu de s’attendre à ce qu’il pratique une saine gestion financière dans l’exercice de ses activités,
+
 (iii) la conduite antérieure et actuelle de ses dirigeants et administrateurs et celle de toutes les personnes intéressées à leur égard et à l’égard de la personne morale offre des motifs raisonnables de croire que ses activités seront exercées conformément à la loi et avec intégrité et honnêteté,
+
 (iv) aucun des dirigeants ou administrateurs de la personne morale n’a fait de fausse déclaration concernant l’exercice de ses activités;
+
 c) ni le demandeur ni une personne intéressée à son égard n’a exercé ni n’exerce des activités qui :
+
 (i) contreviennent à la présente loi ou aux règlements ou contreviendront, si un permis lui est délivré, à la présente loi ou aux règlements,
+
 (ii) contreviennent à un texte législatif prescrit ou contreviendront, si un permis lui est délivré, à un texte législatif prescrit;
+
 d) le demandeur n’enfreint pas une condition du permis, s’il en demande le renouvellement;
+
 e) le demandeur satisfait aux exigences prescrites éventuelles, y compris celles en matière de compétence;
+
 f) le demandeur ou, si le demandeur est une personne morale, ses administrateurs, ses dirigeants et les autres personnes prescrites, se sont conformés à toutes les lois fiscales et à tous les règlements fiscaux qui sont prescrits;
+
 g) l’octroi du permis ou du renouvellement du permis, selon le cas, ne serait pas contraire à l’intérêt public.
 
 ### Avis de changement important prescrit
 
 (2) Le demandeur de permis ou de renouvellement de permis qui, à quelque moment que ce soit, connaît un changement important, selon ce qui est prescrit, prend les mesures suivantes :
+
 a) il informe promptement le registrateur du changement;
+
 b) il répond promptement aux questions du registrateur à l’égard du changement;
+
 c) il fournit les documents ou les renseignements que demande le registrateur à l’égard du changement, dans le délai que celui-ci précise.
 
 ### Renseignements de l’organisme de garantie
 
 (3) Le registrateur peut demander à l’organisme de garantie :
+
 a) des renseignements concernant la situation financière d’un demandeur de permis ou de renouvellement de permis ou celle d’un titulaire de permis;
+
 b) des renseignements concernant toute autre condition énoncée au paragraphe (1) à l’égard de la personne visée à l’alinéa a).
 
 ### Idem
@@ -639,15 +795,21 @@ b) des renseignements concernant toute autre condition énoncée au paragraphe (
 ### Conditions du permis
 
 39 Le permis est assujetti aux conditions, selon le cas :
+
 a) qu’accepte le demandeur ou le titulaire de permis;
+
 b) dont le registrateur l’assortit en vertu du paragraphe 40 (3), (4) ou (6);
+
 c) que le Tribunal impose par ordonnance;
+
 d) qui sont prescrites.
 
 ### Pouvoirs du registrateur sous réserve d’une audience
 
 40 (1) Sous réserve de l’article 43, le registrateur peut refuser d’accorder un permis au demandeur ou de renouveler le permis du titulaire de permis si, selon le cas :
+
 a) il est d’avis que le demandeur ou le titulaire de permis n’a pas le droit de se voir délivrer un permis aux termes du paragraphe 38 (1);
+
 b) le demandeur ou le titulaire de permis omet de se conformer au paragraphe 38 (2) ou refuse de le faire.
 
 ### Suspension ou révocation du permis
@@ -657,7 +819,9 @@ b) le demandeur ou le titulaire de permis omet de se conformer au paragraphe 38 
 ### Conditions
 
 (3) Sous réserve de l’article 43, le registrateur peut :
+
 a) accorder le permis ou le renouvellement du permis aux conditions qu’il estime appropriées;
+
 b) assortir à tout moment le permis des conditions qu’il estime appropriées.
 
 ### Idem
@@ -667,7 +831,9 @@ b) assortir à tout moment le permis des conditions qu’il estime appropriées.
 ### Demande de renseignements
 
 (5) Le registrateur peut demander au demandeur de permis ou au titulaire de permis de lui fournir ce qui suit, sous la forme et dans le délai qu’il précise :
+
 a) les renseignements qu’il précise et qui lui permettront de décider si le demandeur ou le titulaire n’a plus droit au permis;
+
 b) l’attestation, notamment par affidavit, de tout renseignement visé à l’alinéa a) que le demandeur ou le titulaire lui fournit ou lui a fourni.
 
 ### Conséquence de l’inobservation
@@ -689,9 +855,13 @@ b) l’attestation, notamment par affidavit, de tout renseignement visé à l’
 ### Avis de conditions ou d’intention
 
 43 (1) Le registrateur avise par écrit le demandeur ou le titulaire de permis s’il a l’intention, selon le cas :
+
 a) de refuser, en vertu du paragraphe 40 (1), d’accorder ou de renouveler le permis;
+
 b) de suspendre ou de révoquer le permis en vertu du paragraphe 40 (2) ou 45 (1);
+
 c) d’assortir le permis, en vertu du paragraphe 40 (3), de conditions que le titulaire de permis n’a pas acceptées;
+
 d) d’assortir le permis de conditions en vertu du paragraphe 40 (4) ou (6).
 
 ### Contenu de l’avis
@@ -721,7 +891,9 @@ d) d’assortir le permis de conditions en vertu du paragraphe 40 (4) ou (6).
 ### Audience
 
 (8) Si le demandeur ou le titulaire de permis demande une audience conformément au paragraphe (2), le Tribunal doit en tenir une et peut, par ordonnance :
+
 a) soit enjoindre au registrateur de donner suite à la mesure envisagée;
+
 b) soit substituer son opinion à celle du registrateur.
 
 ### Pouvoirs du Tribunal
@@ -739,9 +911,13 @@ b) soit substituer son opinion à celle du registrateur.
 ### Maintien jusqu’au renouvellement
 
 44 Si, dans le délai prescrit ou, à défaut, avant l’expiration de son permis, le titulaire de permis en demande le renouvellement et acquitte les droits exigés, son permis est réputé rester en vigueur, selon le cas :
+
 a) jusqu’à ce que le renouvellement soit accordé;
+
 b) jusqu’à ce que le registrateur l’avise par écrit qu’il refuse, en vertu de l’article 40, d’accorder le renouvellement;
+
 c) jusqu’à l’expiration du délai imparti pour demander une audience en vertu de l’article 43, s’il reçoit un avis d’intention en vertu de cet article et qu’il ne demande pas une audience;
+
 d) jusqu’à ce que le Tribunal rende son ordonnance, s’il reçoit un avis d’intention en vertu de l’article 43 et qu’il demande une audience.
 
 ### Suspension immédiate
@@ -759,13 +935,17 @@ d) jusqu’à ce que le Tribunal rende son ordonnance, s’il reçoit un avis d�
 ### Prorogation du délai d’expiration de l’ordonnance
 
 (4) Malgré le paragraphe (3), s’il est convaincu que la conduite du titulaire de permis a retardé le début de l’audience, le Tribunal peut proroger la date d’expiration de l’ordonnance :
+
 a) jusqu’au début de l’audience;
+
 b) une fois l’audience commencée, jusqu’à sa conclusion.
 
 ### Demande ultérieure
 
 46 Lorsque la décision du registrateur de refuser d’accorder un permis ou le renouvellement d’un permis à une personne ou de révoquer son permis est devenue définitive, la personne ne peut présenter une nouvelle demande de permis que si les conditions suivantes sont réunies :
+
 a) le délai prescrit pour présenter une nouvelle demande s’est écoulé depuis le refus ou la révocation;
+
 b) la personne convainc le registrateur qu’il existe de nouvelles preuves ou des preuves supplémentaires ou que des circonstances importantes ont changé.
 
 ### Non-transférabilité
@@ -801,13 +981,17 @@ b) la personne convainc le registrateur qu’il existe de nouvelles preuves ou d
 ### Examen
 
 (2) Lorsqu’il apprend qu’un changement de contrôle à l’égard d’un titulaire de permis a eu lieu, le registrateur peut examiner le permis du titulaire et demander à ce dernier de lui fournir ce qui suit, sous la forme et dans le délai qu’il précise :
+
 a) les renseignements qu’il précise et qui lui permettront de décider si le titulaire de permis n’a plus droit au permis;
+
 b) l’attestation, notamment par affidavit, de tout renseignement visé à l’alinéa a) que le demandeur lui fournit ou lui a fourni.
 
 ### Avis d’émission ou de transfert d’actions
 
 51 (1) Le demandeur de permis ou de renouvellement de permis qui est une société et le titulaire de permis qui est une société avise le registrateur par écrit dans les 30 jours qui suivent l’émission ou le transfert d’actions participantes de la société, si cette émission ou ce transfert a pour résultat :
+
 a) soit qu’une personne ou des personnes associées les unes avec les autres acquièrent, d’un seul coup ou progressivement, la propriété bénéficiaire ou le contrôle d’au moins 10 % du total de ses actions participantes émises et en circulation;
+
 b) soit une augmentation du pourcentage de ses actions participantes émises et en circulation qu’une personne ou des personnes associées les unes avec les autres détiennent à titre bénéficiaire ou sur lesquelles elles exercent un contrôle, si elles détenaient déjà à titre bénéficiaire au moins 10 % du total de ces actions avant l’émission ou le transfert ou qu’elles exerçaient alors un contrôle sur une telle tranche.
 
 ### Idem
@@ -821,8 +1005,11 @@ b) soit une augmentation du pourcentage de ses actions participantes émises et 
 ### Avis de changement important prescrit
 
 52 Le titulaire de permis qui, à quelque moment que ce soit, connaît un changement important, selon ce qui est prescrit, prend les mesures suivantes :
+
 a) il informe promptement le registrateur du changement;
+
 b) il répond promptement aux questions du registrateur à l’égard du changement;
+
 c) il fournit les documents ou les renseignements que demande le registrateur à l’égard du changement, dans le délai que celui-ci précise.
 
 ### Divulgations par les titulaires de permis
@@ -856,8 +1043,11 @@ c) il fournit les documents ou les renseignements que demande le registrateur à
 ### Plaintes
 
 56 (1) Le registrateur peut faire ce qui suit :
+
 a) recevoir les plaintes relatives à une conduite susceptible de contrevenir à la présente loi, aux règlements ou à un texte législatif prescrit;
+
 b) présenter aux titulaires de permis des demandes écrites de renseignements concernant les plaintes;
+
 c) tenter de régler les plaintes ou de les résoudre par médiation, selon ce qui est approprié, relativement à toute conduite portée à son attention qui est susceptible de contrevenir à la présente loi, aux règlements ou à un texte législatif prescrit.
 
 ### Demande de renseignements
@@ -871,11 +1061,17 @@ c) tenter de régler les plaintes ou de les résoudre par médiation, selon ce q
 ### Pouvoirs du registrateur
 
 56.1 S’il est d’avis, par suite d’une plainte ou autrement, qu’un titulaire de permis a contrevenu à une disposition de la présente loi, des règlements ou d’un texte législatif prescrit, le registrateur peut prendre n’importe laquelle des mesures suivantes, selon ce qu’il estime approprié :
+
 1. Donner au titulaire de permis un avertissement écrit portant que des mesures pourront être prises à son égard s’il poursuit l’activité qui a donné lieu à la contravention alléguée.
+
 2. Exiger que le titulaire de permis suive d’autres cours de formation.
+
 3. Exiger que le titulaire de permis, conformément aux conditions que précise le registrateur, le cas échéant, finance les cours de formation suivis par les personnes qu’il emploie ou qu’il prenne des dispositions pour offrir de tels cours et les finance.
+
 4. Renvoyer l’affaire, en totalité ou en partie, au comité de discipline.
+
 5. Prendre une mesure prévue à l’article 40, sous réserve de l’article 43.
+
 6. Prendre les autres mesures appropriées conformément à la présente loi, notamment prendre une ordonnance en vertu de l’article 76 qui impose une pénalité administrative ou renvoyer l’affaire, en totalité ou en partie, à un autre évaluateur pour déterminer si une telle ordonnance devrait être prise.
 
 ### Instances disciplinaires
@@ -893,16 +1089,23 @@ c) tenter de régler les plaintes ou de les résoudre par médiation, selon ce q
 ### Décision
 
 (4) S’il décide, en application du paragraphe (1), qu’un titulaire de permis n’a pas observé le code de déontologie, le comité de discipline peut, par ordonnance, prendre une ou plusieurs des mesures suivantes, selon ce qui est approprié :
+
 1. Exiger que le titulaire de permis suive d’autres cours de formation.
+
 2. Exiger que le titulaire de permis, conformément aux conditions que le comité précise, le cas échéant, finance les cours de formation suivis par les personnes qu’il emploie ou qu’il prenne des dispositions pour offrir de tels cours et les finance.
+
 3. Imposer l’amende qu’il estime appropriée, sous réserve des paragraphes (4.1), (4.2) et (4.3), et que le titulaire de permis doit payer à l’organisme de réglementation ou, en l’absence d’un tel organisme, au ministre des Finances.
+
 4. Suspendre ou différer, pour la durée et aux conditions qu’il fixe, l’obligation de suivre d’autres cours de formation, leur financement, la prise de dispositions pour les offrir et leur financement, ou l’imposition de l’amende.
+
 5. Fixer et imposer les dépens que le titulaire de permis doit payer à l’organisme de réglementation.
 
 ### Amendes maximales
 
 (4.1) Sous réserve du paragraphe (4.2), le montant maximal de l’amende mentionnée à la disposition 3 du paragraphe (4) est :
+
 a) de 50 000 $, ou la somme inférieure prescrite, si le titulaire de permis est un particulier;
+
 b) de 100 000 $, ou la somme inférieure prescrite, si le titulaire de permis n’est pas un particulier.
 
 ### Idem : bénéfice pécuniaire
@@ -924,22 +1127,31 @@ b) de 100 000 $, ou la somme inférieure prescrite, si le titulaire de permis n�
 ### Cours de formation
 
 (7) Le titulaire de permis qui est tenu, en application du paragraphe (4), de suivre un cours de formation ou de prendre des dispositions pour que d’autres personnes suivent un cours de formation en application de ce paragraphe le fait :
+
 a) dans le délai précisé dans l’ordonnance du comité de discipline, si l’exigence n’est pas portée en appel;
+
 b) dans le délai précisé dans l’ordonnance du comité d’appel, si l’exigence est portée en appel;
+
 c) dès que cela est raisonnablement possible après la dernière ordonnance prise à l’égard du cours de formation, si aucun délai n’est précisé dans cette ordonnance.
 
 ### Prise de dispositions pour offrir des cours de formation et financement de ceux-ci
 
 (8) Le titulaire de permis qui est tenu, en application du paragraphe (4), de financer les cours de formation le fait :
+
 a) dans le délai précisé dans l’ordonnance du comité de discipline, si l’exigence n’est pas portée en appel;
+
 b) dans le délai précisé dans l’ordonnance du comité d’appel, si l’exigence est portée en appel;
+
 c) dès que cela est raisonnablement possible après la dernière ordonnance prise à l’égard du cours de formation, si aucun délai n’est précisé dans cette ordonnance.
 
 ### Paiement de l’amende
 
 (9) Le titulaire de permis paie toute amende imposée en vertu du paragraphe (4) au plus tard :
+
 a) le jour précisé dans l’ordonnance du comité de discipline, si l’amende n’est pas portée en appel;
+
 b) le jour précisé dans l’ordonnance du comité d’appel, si l’amende est portée en appel;
+
 c) le 60 e jour qui suit la date de la dernière ordonnance prise à l’égard de l’amende, si aucun jour n’est précisé dans cette ordonnance.
 
 ### Inspections et enquêtes
@@ -963,8 +1175,11 @@ c) le 60 e jour qui suit la date de la dernière ordonnance prise à l’égard 
 ### Inspections sans mandat
 
 59 (1) L’inspecteur peut, sans mandat ou ordonnance du tribunal, effectuer une inspection conformément au présent article pour, selon le cas :
+
 a) vérifier que la présente loi et les règlements sont observés;
+
 b) traiter une plainte visée à l’article 56;
+
 c) vérifier que le titulaire de permis a toujours le droit de l’être.
 
 ### Pouvoir de pénétrer dans des locaux
@@ -978,11 +1193,17 @@ c) vérifier que le titulaire de permis a toujours le droit de l’être.
 ### Pouvoirs de l’inspecteur
 
 (4) Dans le cadre d’une inspection, l’inspecteur :
+
 a) a le droit d’avoir libre accès à l’argent, aux objets de valeur et aux documents et aux dossiers de la personne en cause qui se rapportent à l’inspection;
+
 b) peut présenter des demandes raisonnables de renseignements, verbalement ou par écrit, relativement à toute chose qui se rapporte à l’inspection;
+
 c) peut exiger d’une personne qu’elle produise un document ou un dossier qui se rapporte à l’inspection et qu’elle fournisse l’aide qui est raisonnablement nécessaire, notamment en recourant à un dispositif ou système d’archivage, de traitement ou d’extraction des données pour produire le document ou le dossier sous quelque forme que ce soit;
+
 d) peut recourir, en vue de produire des renseignements qui se rapportent à l’inspection et sous quelque forme que ce soit, à tout dispositif ou système d’archivage, de traitement ou d’extraction des données utilisé pour exercer les activités d’un titulaire de permis;
+
 e) peut, après avoir donné un récépissé à cet effet, et afin de les examiner et d’en faire des copies, prendre des choses qui se rapportent à l’inspection, y compris tout disque d’archivage des données ou autre dispositif d’extraction des données, en vue de produire des renseignements, mais doit ensuite les rendre promptement à la personne en cause;
+
 f) peut, seul ou en collaboration avec les autres personnes mentionnées au paragraphe (3), poser les questions ou procéder aux examens ou aux essais qui sont nécessaires à l’inspection.
 
 ### Interdiction de recourir à la force
@@ -1016,24 +1237,35 @@ f) peut, seul ou en collaboration avec les autres personnes mentionnées au para
 ### Enquêtes avec mandat
 
 61 (1) Sur demande sans préavis d’un enquêteur, un juge de paix peut délivrer un mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il existe des motifs raisonnables de croire :
+
 a) d’une part, qu’une personne a contrevenu ou contrevient à la présente loi ou aux règlements ou a commis une infraction à une loi de toute autorité législative qui touche son aptitude à être titulaire d’un permis;
+
 b) d’autre part :
+
 (i) soit qu’une chose quelconque se rapportant à la contravention à la présente loi ou aux règlements ou à l’aptitude de la personne à être titulaire d’un permis se trouve dans un bâtiment, un logement, un contenant ou un lieu,
+
 (ii) soit que des renseignements ou des éléments de preuve se rapportant à la contravention à la présente loi ou aux règlements ou à l’aptitude de la personne à être titulaire d’un permis pourront être obtenus au moyen d’une technique ou méthode d’enquête ou d’un acte qui est mentionné dans le mandat.
 
 ### Pouvoirs conférés par le mandat
 
 (2) Sous réserve des conditions qu’il précise, le mandat obtenu en vertu du paragraphe (1) autorise l’enquêteur à faire ce qui suit :
+
 a) pénétrer dans le bâtiment, le logement, le contenant ou le lieu précisé dans le mandat ou y avoir accès, et examiner et saisir toute chose mentionnée dans le mandat;
+
 b) présenter des demandes raisonnables de renseignements, verbalement ou par écrit, relativement à toute chose qui se rapporte à l’enquête;
+
 c) exiger d’une personne qu’elle produise les renseignements ou les éléments de preuve mentionnés dans le mandat et qu’elle fournisse l’aide qui est raisonnablement nécessaire, notamment en recourant à un dispositif ou système d’archivage, de traitement ou d’extraction des données pour produire, sous quelque forme que ce soit, les renseignements ou les éléments de preuve mentionnés dans le mandat;
+
 d) recourir, en vue de produire, sous quelque forme que ce soit, des renseignements ou des éléments de preuve mentionnés dans le mandat, à tout dispositif ou système d’archivage, de traitement ou d’extraction des données utilisé pour exercer les activités d’un titulaire de permis;
+
 e) employer toute technique ou méthode d’enquête ou accomplir tout acte mentionné dans le mandat.
 
 ### Entrée dans un logement
 
 (3) Malgré le paragraphe (2), l’enquêteur ne doit exercer le pouvoir, conféré par un mandat, de pénétrer dans un lieu ou une partie d’un lieu utilisé comme logement que si le juge de paix, à la fois :
+
 a) est informé du fait que le mandat est demandé afin d’autoriser l’entrée dans un logement;
+
 b) autorise l’entrée.
 
 ### Conditions du mandat
@@ -1105,7 +1337,9 @@ b) autorise l’entrée.
 ### Ordonnance : publicité trompeuse
 
 64 (1) Si le registrateur croit, en se fondant sur des motifs raisonnables, qu’un titulaire de permis fait, à l’égard d’un logement neuf existant ou projeté, une assertion fausse, mensongère ou trompeuse dans une annonce, une circulaire, une brochure ou un document publié de quelque façon que ce soit, il peut faire ce qui suit :
+
 a) lui ordonner de cesser de faire l’assertion;
+
 b) lui ordonner de rétracter l’assertion ou de publier une correction de même importance que l’original.
 
 ### Ordonnance exécutoire
@@ -1135,7 +1369,9 @@ b) lui ordonner de rétracter l’assertion ou de publier une correction de mêm
 ### Pouvoirs du Tribunal
 
 (8) Après avoir tenu l’audience, le Tribunal peut, selon le cas :
+
 a) confirmer l’ordonnance et l’assortir des modifications, le cas échéant, qu’il estime propres à la réalisation de l’objet de la présente loi;
+
 b) annuler l’ordonnance.
 
 ### Idem
@@ -1149,14 +1385,19 @@ b) annuler l’ordonnance.
 ### Ordonnance de blocage : titulaires de permis et anciens titulaires de permis
 
 65 (1) Si les conditions énoncées au paragraphe (2) sont réunies, le directeur peut, par écrit :
+
 a) soit ordonner à la personne qui est le dépositaire ou qui a le contrôle de fonds en fiducie ou de biens d’un titulaire de permis ou d’un ancien titulaire de permis de les retenir;
+
 b) soit ordonner au titulaire de permis ou à l’ancien titulaire de permis de s’abstenir de retirer des fonds en fiducie ou des biens des mains de la personne qui en est le dépositaire ou qui en a le contrôle;
+
 c) soit ordonner au titulaire de permis ou à l’ancien titulaire de permis de détenir en fiducie pour la personne qui y a droit des fonds en fiducie ou des biens d’un acquéreur ou d’une autre personne.
 
 ### Conditions
 
 (2) Le directeur peut prendre une ordonnance en vertu du paragraphe (1) s’il l’estime souhaitable pour la protection des acquéreurs, des propriétaires ou du fonds de garantie prévu par la Loi sur le Régime de garanties des logements neufs de l’Ontario ou la Loi de 2017 sur la protection des propriétaires et des acquéreurs de logements neufs et que l’une des conditions suivantes est remplie :
+
 a) un mandat de perquisition a été délivré en vertu de l’article 61;
+
 b) une ordonnance a été prise ou rendue en vertu de l’article 64, 67 ou 68.
 
 ### Restriction
@@ -1170,15 +1411,21 @@ b) une ordonnance a été prise ou rendue en vertu de l’article 64, 67 ou 68.
 ### Exception
 
 (5) Le paragraphe (1) ne s’applique pas si la personne dépose auprès du directeur, de la manière et selon le montant qu’il établit, une des garanties suivantes :
+
 a) un cautionnement personnel accompagné d’une garantie accessoire;
+
 b) le cautionnement d’un assureur titulaire d’un permis délivré en vertu de la Loi sur les assurances qui l’autorise à faire souscrire de l’assurance de cautionnement et de l’assurance contre les détournements;
+
 c) le cautionnement d’un garant accompagné d’une garantie accessoire;
+
 d) l’autre forme de garantie qui est prescrite.
 
 ### Présentation d’une requête au tribunal
 
 (6) L’une ou l’autre des personnes suivantes peut présenter une requête à la Cour supérieure de justice pour qu’il soit statué sur la disposition d’un fonds en fiducie ou d’un bien :
+
 a) quiconque a reçu une ordonnance prise en vertu du paragraphe (1), s’il a un doute quant à son application au fonds en fiducie ou au bien;
+
 b) quiconque revendique un intérêt sur le fonds en fiducie ou le bien visé par l’ordonnance.
 
 ### Avis
@@ -1196,7 +1443,9 @@ b) quiconque revendique un intérêt sur le fonds en fiducie ou le bien visé pa
 ### Décision du Tribunal
 
 (10) Le Tribunal doit décider de la requête après la tenue d’une audience et peut annuler l’ordonnance ou radier l’enregistrement, en totalité ou en partie, s’il conclut :
+
 a) soit que l’ordonnance ou l’enregistrement n’est pas en totalité ou en partie nécessaire pour protéger les propriétaires ou les autres titulaires d’intérêts sur le bien-fonds;
+
 b) soit que l’ordonnance ou l’enregistrement porte indûment atteinte aux intérêts d’autres personnes.
 
 ### Parties
@@ -1214,19 +1463,29 @@ b) soit que l’ordonnance ou l’enregistrement porte indûment atteinte aux in
 ### Ordonnance de blocage : personnes non agréées
 
 66 (1) Le directeur peut prendre l’ordonnance visée au paragraphe (2) à l’égard des sommes d’argent ou des biens d’une personne qui n’est pas agréée et qui aurait exercé, sans être agréée, des activités pour lesquelles l’agrément est exigé si les conditions suivantes sont réunies :
+
 a) le directeur reçoit un affidavit dans lequel il est allégué, avec faits à l’appui, que cette personne :
+
 (i) soit fait l’objet de poursuites criminelles ou de poursuites pour une contravention à la présente loi ou à une autre loi qui ont été ou qui sont sur le point d’être intentées contre elle et qui se rapportent ou sont consécutives à l’exercice d’activités pour lesquelles l’agrément est exigé,
+
 (ii) soit est propriétaire d’un bâtiment, d’un logement, d’un contenant ou d’un lieu à l’égard duquel un mandat de perquisition a été délivré en vertu de l’article 61, ou y exerce des activités;
+
 b) le directeur a, sur la foi de l’affidavit mentionné à l’alinéa a), des motifs raisonnables de croire ce qui suit :
+
 (i) la personne qui fait l’objet de l’allégation visée à l’alinéa a) a reçu des sommes d’argent ou des biens d’acquéreurs ou de propriétaires dans l’exercice d’activités pour lesquelles l’agrément est exigé par la présente loi,
+
 (ii) les intérêts de ces acquéreurs ou propriétaires ou le fonds de garantie prévu par la Loi sur le Régime de garanties des logements neufs de l’Ontario ou la Loi de 2017 sur la protection des propriétaires et des acquéreurs de logements neufs doivent être protégés.
 
 ### Ordonnance
 
 (2) Dans les circonstances visées au paragraphe (1), le directeur peut, par écrit :
+
 a) ordonner à quiconque est le dépositaire ou a le contrôle de sommes d’argent ou de biens de la personne qui fait l’objet de l’allégation visée à l’alinéa (1) a) de les retenir;
+
 b) ordonner à la personne qui fait l’objet de l’allégation visée à l’alinéa (1) a) :
+
 (i) ou bien de s’abstenir de retirer des sommes d’argent ou des biens des mains de quiconque en est le dépositaire ou en a le contrôle,
+
 (ii) ou bien de détenir en fiducie pour quiconque y a droit les sommes d’argent ou les biens d’un acquéreur ou d’une autre personne.
 
 ### Application
@@ -1288,13 +1547,17 @@ b) ordonner à la personne qui fait l’objet de l’allégation visée à l’a
 ### Expiration de l’ordonnance
 
 (6) Si, conformément au droit visé au paragraphe (3), la personne désignée dans l’ordonnance demande une audience :
+
 a) l’ordonnance expire 15 jours après que le Tribunal reçoit la demande écrite d’audience;
+
 b) le Tribunal peut proroger l’expiration jusqu’à la conclusion de l’audience, si elle débute dans le délai de 15 jours visé à l’alinéa a).
 
 ### Idem
 
 (7) Malgré le paragraphe (6), s’il est convaincu que la conduite de la personne désignée dans l’ordonnance a retardé le début de l’audience, le Tribunal peut proroger la date d’expiration de l’ordonnance :
+
 a) jusqu’au début de l’audience;
+
 b) une fois l’audience commencée, jusqu’à sa conclusion.
 
 ### Parties
@@ -1320,9 +1583,13 @@ b) une fois l’audience commencée, jusqu’à sa conclusion.
 ### Infractions
 
 71 (1) Est coupable d’une infraction la personne ou l’entité, à l’exclusion de l’organisme de réglementation, qui, selon le cas :
+
 a) fournit de faux renseignements à l’organisme de réglementation dans une demande présentée au titre de l’article 38, dans une déclaration qu’exige la présente loi ou dans les circonstances prescrites;
+
 b) n’observe pas une condition du permis dont elle est titulaire;
+
 c) n’observe pas une ordonnance prise ou rendue ou une autre exigence imposée en vertu de la présente loi, à l’exclusion d’une ordonnance prise en vertu de l’article 57;
+
 d) contrevient à un article de la présente loi ou de ses règlements, à l’exclusion du code de déontologie établi en vertu de l’alinéa 84 (1) f), ou ne l’observe pas.
 
 ### Dirigeant ou administrateur de la personne morale
@@ -1332,18 +1599,27 @@ d) contrevient à un article de la présente loi ou de ses règlements, à l’e
 ### Autres particuliers
 
 (3) Sont coupables d’une infraction les particuliers suivants qui agissent pour le compte d’une entité et qui n’exercent pas la diligence raisonnable pour l’empêcher de commettre une infraction prévue au paragraphe (1), que l’entité ait été ou non poursuivie ou déclarée coupable :
+
 1. Si l’entité est une société de personnes, ses associés, son directeur général et son directeur général adjoint.
+
 2. Les autres particuliers désignés pour l’application du présent paragraphe par règlement administratif ou résolution de l’entité.
+
 3. Les autres particuliers qui exercent des fonctions normalement exercées par un particulier visé à la disposition 2.
 
 ### Peines
 
 (4) La personne ou l’entité qui est déclarée coupable d’une infraction prévue par la présente loi est passible :
+
 a) s’il s’agit d’un particulier :
+
 (i) d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de deux ans moins un jour, ou d’une seule de ces peines, dans le cas d’une première déclaration de culpabilité,
+
 (ii) d’une amende maximale de 100 000 $ et d’un emprisonnement maximal de deux ans moins un jour, ou d’une seule de ces peines, pour chaque déclaration de culpabilité subséquente;
+
 b) s’il ne s’agit pas d’un particulier :
+
 (i) d’une amende maximale de 250 000 $, dans le cas d’une première déclaration de culpabilité,
+
 (ii) d’une amende maximale de 500 000 $, pour chaque déclaration de culpabilité subséquente.
 
 ### Idem : déclaration de culpabilité subséquente
@@ -1385,8 +1661,11 @@ b) s’il ne s’agit pas d’un particulier :
 ### Privilèges sur des biens meubles
 
 (2) Si le privilège créé par le directeur en vertu du paragraphe (1) concerne des biens meubles :
+
 a) la Loi sur les sûretés mobilières, à l’exclusion de la partie V, s’applique avec les adaptations nécessaires au privilège, malgré l’alinéa 4 (1) a) de cette loi;
+
 b) le privilège est réputé être une sûreté qui grève les biens meubles pour l’application de la Loi sur les sûretés mobilières ;
+
 c) le directeur peut rendre la sûreté visée à l’alinéa b) opposable pour l’application de la Loi sur les sûretés mobilières en enregistrant un état de financement en application de cette loi.
 
 ### Privilèges et charges sur des biens immeubles
@@ -1404,7 +1683,9 @@ c) le directeur peut rendre la sûreté visée à l’alinéa b) opposable pour 
 ### Mainlevée du privilège
 
 (6) Dans les 10 jours qui suivent la date à laquelle il a connaissance du paiement intégral de l’amende, le directeur :
+
 a) d’une part, donne mainlevée de l’enregistrement de l’état de financement enregistré en vertu de l’alinéa (2) c);
+
 b) d’autre part, enregistre une mainlevée de la charge créée au moment de l’enregistrement d’un privilège en vertu du paragraphe (3).
 
 ### Pénalités administratives
@@ -1420,9 +1701,13 @@ b) d’autre part, enregistre une mainlevée de la charge créée au moment de l
 ### Ordonnance
 
 76 (1) L’évaluateur peut, par ordonnance, imposer une pénalité administrative à une personne conformément au présent article et aux règlements pris par le ministre s’il est convaincu qu’elle a contrevenu ou contrevient :
+
 a) à une disposition prescrite de la présente loi ou des règlements;
+
 b) à une condition du permis, si la personne est titulaire de permis;
+
 c) à une disposition prescrite de la Loi sur le Régime de garanties des logements neufs de l’Ontario, de ses règlements ou des règlements administratifs de l’organisme de garantie adoptés en vertu de cette loi;
+
 d) à une disposition prescrite de la Loi de 2017 sur la protection des propriétaires et des acquéreurs de logements neufs ou de ses règlements.
 
 ### Clarification : code de déontologie
@@ -1436,7 +1721,9 @@ d) à une disposition prescrite de la Loi de 2017 sur la protection des proprié
 ### Fins
 
 (4) Une pénalité administrative peut être imposée en vertu du présent article à une ou plusieurs des fins suivantes :
+
 1. Veiller à ce que les lois, les règlements et les règlements administratifs visés au paragraphe (1) ainsi que les conditions du permis soient observés.
+
 2. Empêcher qu’une personne tire, directement ou indirectement, des avantages économiques de la contravention aux lois, aux règlements et aux règlements administratifs visés au paragraphe (1) ou aux conditions du permis.
 
 ### Montant
@@ -1458,7 +1745,9 @@ d) à une disposition prescrite de la Loi de 2017 sur la protection des proprié
 ### Responsabilité absolue
 
 (9) L’ordonnance prise en vertu du paragraphe (1) qui impose une pénalité administrative à une personne s’applique même si, selon le cas :
+
 a) la personne a pris toutes les mesures raisonnables pour empêcher la contravention sur laquelle se fonde l’ordonnance;
+
 b) au moment de la contravention, la personne croyait raisonnablement et en toute honnêteté à des faits erronés qui, avérés, auraient rendu la contravention non blâmable.
 
 ### Aucun effet sur les infractions
@@ -1488,11 +1777,13 @@ b) au moment de la contravention, la personne croyait raisonnablement et en tout
 ### Idem
 
 (16) La définition qui suit s’applique au paragraphe (15).
+
 «période de transition antérieure à l’entrée en vigueur» Période qui commence le 14 avril 2022 et qui se termine le jour avant l’entrée en vigueur de l’article 7 de l’annexe 5 de la Loi de 2022 visant à accélérer la construction de plus de logements.
 
 ### Appel
 
 77 (1) La définition qui suit s’applique au présent article.
+
 «organisme d’appel» La personne que prescrit le ministre ou, en l’absence de personne prescrite par le ministre, le Tribunal.
 
 ### Idem
@@ -1544,12 +1835,19 @@ b) au moment de la contravention, la personne croyait raisonnablement et en tout
 ### Confidentialité
 
 80 (1) Quiconque obtient des renseignements dans l’exercice de pouvoirs ou de fonctions qui se rapportent à l’application de la présente loi ou des règlements est tenu au secret à leur égard et ne doit rien en divulguer à qui que ce soit, sauf, selon le cas :
+
 a) dans la mesure où l’exige toute instance introduite en vertu de la présente loi ou l’application de celle-ci ou des règlements;
+
 b) à un ministère ou à un organisme d’un gouvernement chargé de l’application de textes législatifs qui sont semblables à la présente loi ou qui protègent les consommateurs, ou à une autre entité à laquelle est confiée l’application de tels textes;
+
 c) dans la mesure où l’autorise la Loi de 2007 sur la modernisation de la réglementation ;
+
 d) à une entité prescrite ou à une organisation prescrite, si la divulgation a pour objet la protection des consommateurs;
+
 e) à un organisme chargé de l’exécution de la loi;
+
 f) à l’avocat de la personne qui communique les renseignements;
+
 g) avec le consentement de la personne à laquelle se rapportent les renseignements.
 
 ### Témoignage
@@ -1559,8 +1857,11 @@ g) avec le consentement de la personne à laquelle se rapportent les renseigneme
 ### Signification
 
 81 (1) Les avis, ordonnances et demandes sont suffisamment remis ou signifiés s’ils sont :
+
 a) soit remis à personne;
+
 b) soit envoyés par courrier recommandé;
+
 c) soit envoyés d’une autre manière qui permet à l’expéditeur d’en prouver la réception.
 
 ### Signification réputée faite
@@ -1574,16 +1875,27 @@ c) soit envoyés d’une autre manière qui permet à l’expéditeur d’en pro
 ### Renseignements à la disposition du public
 
 82 (1) Sous réserve des règlements, le registrateur met à la disposition du public, sur le site Web de l’organisme de réglementation et par tout autre moyen qu’il précise :
+
 a) des renseignements sur les activités commerciales de toute catégorie de titulaires de permis ou de personnes prescrites, y compris leur nom commercial, leur adresse d’affaires, leur numéro de téléphone et leur adresse électronique;
+
 b) des renseignements qui se rapportent au permis du titulaire de permis, y compris le numéro de permis, la date d’expiration et le statut actuel du permis;
+
 c) des renseignements sur les personnes qui sont les administrateurs, les dirigeants ou les personnes prescrites du titulaire de permis, leurs coordonnées et la nature de leur intérêt dans le titulaire de permis ou de leur association avec celui-ci;
+
 d) des renseignements sur les personnes qui font l’objet d’un avis d’intention prévu à l’article 43;
+
 e) des renseignements sur les personnes dont le permis a été suspendu, suspendu immédiatement ou révoqué;
+
 f) des renseignements sur les décisions et les ordonnances prises par le comité de discipline ou le comité d’appel en vertu de l’article 57;
+
 g) des renseignements sur les personnes qui ont fait l’objet d’une ordonnance en vertu de l’un ou l’autre des articles 64, 65, 66, 70 et 72, y compris les conditions de l’ordonnance;
+
 h) des renseignements sur les personnes qui ont été déclarées coupables d’une infraction prévue par la présente loi;
+
 i) des renseignements sur les personnes à qui un évaluateur a imposé une pénalité administrative, y compris le montant de la pénalité;
+
 j) les renseignements que le registrateur reçoit en application de l’article 5.6 de la Loi sur le Régime de garanties des logements neufs de l’Ontario ou du paragraphe 67 (1) de la Loi de 2017 sur la protection des propriétaires et des acquéreurs de logements neufs ;
+
 k) les autres renseignements prescrits.
 
 ### Renseignements pouvant être consultés
@@ -1593,35 +1905,65 @@ k) les autres renseignements prescrits.
 ### Règlements du lieutenant-gouverneur en conseil
 
 83 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) préciser toute question que la présente loi mentionne comme étant prescrite ou traitée par les règlements, à l’exclusion d’une question que la présente loi mentionne comme étant prescrite par le ministre ou traitée par les règlements pris par le ministre;
+
 b) régir la révocation de la désignation de l’organisme de réglementation;
+
 c) traiter des catégories de permis;
+
 d) préciser les responsabilités des anciens titulaires de permis, ou de toute catégorie d’anciens titulaires de permis, qui se rapportent ou sont consécutives aux activités à l’égard desquelles l’ancien titulaire de permis ou la catégorie des anciens titulaires de permis était agréé ou pour lesquelles l’agrément est exigé par la présente loi;
+
 e) régir les conventions qu’un vendeur ou un constructeur conclut avec l’organisme de réglementation, notamment :
+
 (i) déclarer que certaines conditions sont réputées faire partie des conventions,
+
 (ii) interdire que certaines conditions précisées dans les règlements fassent partie des conventions,
+
 (iii) préciser les recours, pour les parties aux conventions, qui découlent de la non-conformité;
+
 f) régir les renseignements qu’un vendeur doit remettre à un acquéreur ou qu’un constructeur doit remettre à un propriétaire selon les exigences de l’article 53;
+
 g) régir les conventions qu’un vendeur conclut avec un acquéreur, notamment :
+
 (i) déclarer que certaines conditions sont réputées faire partie des conventions,
+
 (ii) exiger des parties à chaque convention que certaines conditions précisées en fassent partie,
+
 (iii) interdire que certaines conditions précisées dans les règlements fassent partie des conventions,
+
 (iv) préciser les recours, pour l’acquéreur, qui découlent de la non-conformité;
+
 h) régir les contrats pour la construction d’un logement neuf qu’un constructeur conclut avec un propriétaire, notamment :
+
 (i) déclarer que certaines conditions sont réputées faire partie des contrats,
+
 (ii) exiger des parties à chaque contrat que certaines conditions précisées en fassent partie,
+
 (iii) interdire que certaines conditions précisées dans les règlements fassent partie des contrats,
+
 (iv) préciser les recours, pour le propriétaire, qui découlent de la non-conformité;
+
 i) régir ce qui constitue une assertion fausse, mensongère ou trompeuse pour l’application de l’article 54;
+
 j) régir les activités des titulaires de permis et leur interdire de se livrer aux pratiques précisées dans les règlements, outre celles auxquelles la présente loi leur interdit de se livrer;
+
 k) préciser la marche à suivre et les autres questions relatives au traitement des plaintes visées à l’article 56;
+
 l) régir les documents et les dossiers que doivent conserver les titulaires de permis, y compris la manière dont ils sont conservés et leur délai de conservation, et autoriser le registrateur à préciser l’endroit où ils doivent être conservés;
+
 m) définir les mots ou expressions utilisés dans la présente loi mais qui n’y sont pas expressément définis;
+
 n) soustraire une personne, une entité ou une catégorie de personnes ou d’entités à l’application d’une disposition de la présente loi ou des règlements et assortir toute dispense de conditions;
+
 o) déléguer au ministre ou à l’organisme de réglementation le pouvoir de prendre un règlement en vertu du présent paragraphe;
+
 p) traiter de toute question nécessaire ou souhaitable pour réaliser efficacement l’objet de la présente loi;
+
 q) prévoir toute mesure de transition nécessaire pour la mise en application efficace de la présente loi ou des règlements ou qui se rapporte à l’abrogation de la Loi sur le Régime de garanties des logements neufs de l’Ontario, y compris :
+
 (i) déclarer que les renseignements fournis sous le régime de cette loi sont réputés fournis sous le régime de la présente loi,
+
 (ii) régir les droits acquittés et les autres montants versés en application de cette loi et déclarer qu’ils sont réputés acquittés ou versés en application de la présente loi.
 
 ### Approbation requise
@@ -1647,26 +1989,47 @@ q) prévoir toute mesure de transition nécessaire pour la mise en application e
 ### Règlements du ministre
 
 84 (1) Le ministre peut, par règlement :
+
 0.a) préciser toute question que la présente loi mentionne comme étant prescrite par le ministre ou traitée dans les règlements pris par le ministre;
+
 a) exiger que le registrateur partage avec lui les renseignements que celui-ci recueille en vertu du paragraphe 34 (1);
+
 b) exiger que l’organisme de réglementation fournisse au ministre, à l’organisme de garantie ou à toute autre personne que prescrit le ministre les renseignements précisés dans le règlement et régir la communication des renseignements, notamment la forme sous laquelle ils doivent être communiqués ainsi que la manière et le moment de les communiquer;
+
 c) traiter des demandes de permis et de renouvellement de permis;
+
 d) exiger que le demandeur de permis ou de renouvellement de permis fournisse des renseignements au registrateur au sujet d’autres personnes pour l’aider à déterminer si ces personnes sont ou peuvent être des personnes intéressées;
+
 e) préciser les renseignements que les titulaires de permis doivent fournir au registrateur et exiger que ces renseignements soient appuyés d’un affidavit;
+
 f) établir un code de déontologie pour les titulaires de permis;
+
 g) régir la composition du comité de discipline et du comité d’appel prévus à l’article 57 et, sous réserve du paragraphe 57 (3), régir les questions relatives à la nomination de leurs membres;
+
 g.1) régir les amendes que le comité de discipline ou le comité d’appel peut imposer, y compris les critères à prendre en compte pour fixer le montant, la marche à suivre pour la prise d’une ordonnance qui impose une amende ainsi que les droits des parties visées par la marche à suivre ;
+
 h) régir les pénalités administratives que l’évaluateur peut imposer et toutes les questions nécessaires et accessoires à l’administration d’un régime de pénalités administratives, notamment :
+
 (0.i) prescrire des dispositions pour l’application du paragraphe 76 (1),
+
 (i) préciser le montant d’une pénalité administrative ou prévoir la fixation de ce montant en précisant son mode de calcul ainsi que les critères à prendre en compte pour le fixer,
+
 (ii) prévoir le paiement de montants différents ou l’utilisation de modes de calcul ou de critères différents selon les circonstances qui ont donné lieu à la pénalité administrative ou selon le moment où elle est payée,
+
 (iii) préciser les renseignements qui doivent figurer dans l’ordonnance de paiement d’une pénalité administrative,
+
 (iv) régir la marche à suivre pour la prise, en vertu de l’article 76, d’une ordonnance qui impose une pénalité administrative ainsi que les droits des parties visées par la marche à suivre, y compris le moment où l’ordonnance est réputée signifiée au titulaire de permis qu’elle vise,
+
 (v) régir l’appel de l’ordonnance de paiement d’une pénalité administrative;
+
 i) préciser les fins auxquelles l’organisme de réglementation peut utiliser les fonds qu’il perçoit à titre d’amendes et de pénalités administratives;
+
 i.1) exiger que l’organisme de réglementation établisse et maintienne une politique, conformément aux exigences que prévoient les règlements, pour régir les paiements qu’il effectue, le cas échéant, par prélèvement sur les fonds qu’il perçoit à titre d’amendes et de pénalités administratives, aux personnes qui ont subi des conséquences préjudiciables des contraventions à l’égard desquelles des amendes ou des pénalités administratives peuvent être imposées, et qu’il se conforme à cette politique;
+
 i.2) exiger que l’organisme de réglementation mette certains documents à la disposition du public et prescrire les moyens de le faire;
+
 j) traiter des questions pour lesquelles le pouvoir de prendre des règlements lui est délégué par le lieutenant-gouverneur en conseil en vertu de l’alinéa 83 (1) o);
+
 k) déléguer à l’organisme de réglementation le pouvoir de prendre des règlements en vertu du présent paragraphe.
 
 ### Approbation requise
@@ -1724,9 +2087,11 @@ k) déléguer à l’organisme de réglementation le pouvoir de prendre des règ
 ### Partie VIII (OMISE)
 
 88 à 89 Omis (modification ou abrogation d’autres textes législatifs).
+
 90 Abrogé : 2024, chap. 18, annexe 1, art. 7.
 
 ### Partie IX (OMISE)
 
 91 Omis (entrée en vigueur de dispositions de la présente loi).
+
 92 Omis (édiction du titre abrégé de la présente loi).

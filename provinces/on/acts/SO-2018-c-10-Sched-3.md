@@ -6,26 +6,34 @@ language: en
 type: act
 document_date: "2018-07-25"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18b10"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Back to Class Act (York University), 2018
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18b10) before relying on it.
 
 S.O. 2018, c. 10, Sched. 3
 
 ### Preamble
 
 York University and the Canadian Union of Public Employees, Local 3903 were parties to collective agreements that have expired.
+
 The parties have engaged in collective bargaining for approximately nine months for new collective agreements, including conciliation and mediation with the assistance of Ministry of Labour staff, but have failed to resolve their disputes. A vote of the members of three bargaining units represented by the Union in respect of the University’s last offer was conducted. That offer was rejected by all of the bargaining units.
+
 Approximately six weeks after the strike began, the Minister of Labour took the extraordinary step of appointing an Industrial Inquiry Commission to inquire into the dispute to help facilitate a resolution and to provide a report.
+
 Subsequently, one of the bargaining units was able to reach an agreement with the University. However, negotiations in respect of the other two bargaining units remain at an impasse and the parties are clearly deadlocked.
+
 The strike has been ongoing for more than 100 days. It is the longest post-secondary strike in Canadian history. The impacts of the labour disruption on students are significant and numerous. Approximately 37,100 students are enrolled in at least one course that is unable to progress while the strike continues. Approximately 45,000 students are missing grades that would be available but for the ongoing strike.
+
 Alternate course completion options are not available or feasible for many of these students and full access to their courses is necessary for successful completion of their academic year. Students in programs subject to external regulatory, accreditation or licensing standards, such as Engineering, Law, Nursing and Teaching, are particularly at risk. Students in programs subject to accreditation may not have any alternate course completion options available to them. This jeopardizes the completion of the academic year for students in those programs and may also jeopardize their eligibility to write licensure exams. The acceptances to higher degree or professional school for students who are able to graduate based on alternate degree completion options offered by the University may be at risk due to unfulfilled requirements. In addition, the strike has required the University to greatly reduce its summer course offerings, impeding students’ ability to obtain critical academic prerequisites for advanced areas of study and completion of their final degree requirements.
+
 Post-secondary education serves a critical public function. A lengthy extension or loss of an academic year has significant personal, educational, social and financial implications for students and their families as well as serious organizational and economic impacts on employers, the University and the broader public. These negative consequences may be long term in nature and the repercussions could extend beyond the parties, the students and their families. The continuation of these disputes and the resulting disruption in education and its corresponding effects give rise to serious public interest concerns. The interests of students, families and the broader community require that these disputes be resolved.
+
 Having regard to these serious circumstances, the considerable, though unfortunately unsuccessful, efforts that have been made to help the parties reach agreement and the clear deadlock in negotiations, the public interest requires an exceptional and temporary solution to address the matters in dispute so that new collective agreements may be concluded through a fair process of dispute resolution, affected staff and students can return to class and the normal post-secondary operation of the University can resume.
+
 Therefore, Her Majesty, by and with the advice and consent of the Legislative Assembly of the Province of Ontario, enacts as follows:
 
 ### Interpretation and Application
@@ -33,22 +41,35 @@ Therefore, Her Majesty, by and with the advice and consent of the Legislative As
 ### Definitions
 
 1 (1) In this Act,
+
 “bargaining agent” means the Canadian Union of Public Employees, Local 3903; (“agent négociateur”)
+
 “employees” means the employees of the employer who are represented by the bargaining agent; (“employés”)
+
 “employer” means York University; (“employeur”)
+
 “listed bargaining unit” means either of the following:
+
 1. The bargaining unit referred to as Unit 1 in the collective agreement between the employer and the bargaining agent effective from March 31, 2015 to August 31, 2017 as described in Article 3 of that agreement which unit is composed of all part-time employees registered at York University as full-time graduate students and employed in teaching, demonstrating, tutoring or marking.
+
 2. The bargaining unit referred to as Unit 3 in the collective agreement between the employer and the bargaining agent effective from March 31, 2015 to August 31, 2017 as described in Article 3 of that agreement which unit is composed of all graduate students registered as full-time at York University who are receiving financial assistance from or through the University and in connection with such assistance are employed in administrative, clerical and research work, save and except research assistants, supervisors, persons above the rank of supervisor, and persons for whom a trade union held bargaining rights at the date of application; (“unité de négociation désignée”)
+
 “Minister” means the Minister of Labour; (“ministre”)
+
 “new collective agreement”, when used with respect to a listed bargaining unit, means a collective agreement that,
+
 (a) applies to the employees in that unit, and
+
 (b) is executed after the day this Act receives Royal Assent or comes into force under subsection 21 (5); (“nouvelle convention collective”)
+
 “parties”, when used in relation to a dispute, a dispute resolution proceeding dealing with the dispute or a new collective agreement, means the employer and the bargaining agent. (“parties”)
 
 ### Unit 3
 
 (2) For the bargaining unit referred to as Unit 3 and described in paragraph 2 of the definition of “listed bargaining unit” in subsection (1),
+
 (a) for greater certainty, and as set out in the collective agreement between the employer and the bargaining agent effective from March 31, 2015 to August 31, 2017, graduate students registered as full-time at York University who receive financial assistance from or through York University for research or academic activities which are predominantly for the purposes of advancing the students’ progress towards fulfilment of their program and degree requirements are not in that bargaining unit; and
+
 (b) the reference to “date of application” in paragraph 2 of the definition of “listed bargaining unit” in subsection (1) has the same meaning as in Article 3 of the collective agreement between the employer and the bargaining agent effective from March 31, 2015 to August 31, 2017 in respect of that unit.
 
 ### Interpretation
@@ -114,7 +135,9 @@ Therefore, Her Majesty, by and with the advice and consent of the Legislative As
 ### Offence
 
 7 (1) A person, including the employer, or a trade union who contravenes or fails to comply with section 3, 4 or 5 is guilty of an offence and on conviction is liable,
+
 (a) in the case of an individual, to a fine of not more than $2,000; and
+
 (b) in any other case, to a fine of not more than $25,000.
 
 ### Continuing offence
@@ -238,11 +261,17 @@ Therefore, Her Majesty, by and with the advice and consent of the Legislative As
 ### Criteria
 
 (2) In making an award, the mediator-arbitrator shall take into consideration all factors that he or she considers relevant, including the following criteria:
+
 1. The employer’s ability to pay in light of its fiscal situation.
+
 2. The extent to which services may have to be reduced, in light of the award, if current funding and taxation levels are not increased.
+
 3. The economic situation in Ontario and in the Greater Toronto Area.
+
 4. A comparison, as between the employees and comparable employees in the public and private sectors, of the nature of the work performed and of the terms and conditions of employment.
+
 5. The employer’s ability to attract and retain qualified employees.
+
 6. The purposes of the Public Sector Dispute Resolution Act, 1997.
 
 ### Restriction - discipline and discharge
@@ -294,6 +323,9 @@ Therefore, Her Majesty, by and with the advice and consent of the Legislative As
 ### Failure to execute
 
 (5) If either party fails to execute the documents prepared by the mediator-arbitrator within seven days after receiving them, the documents come into force as though they had been executed by the parties and those documents constitute the new collective agreement between the parties.
+
 22 This Act is repealed on a day to be named by proclamation of the Lieutenant Governor.
+
 23 Omitted (provides for coming into force of provisions of this Act).
+
 24 Omitted (enacts short title of this Act).

@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-06-02"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/26f08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # harmonisation des tarifs et l'intégration des transports en commun (Loi de 2026 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/26f08) before relying on it.
 
 L.O. 2026, chap. 8, annexe 4
 
@@ -21,35 +21,61 @@ L.O. 2026, chap. 8, annexe 4
 ### Objet
 
 1 Les objets de la présente loi sont les suivants :
+
 a) améliorer le réseau de transport afin de renforcer l’économie de l’Ontario;
+
 b) améliorer l’expérience des usagers grâce à une meilleure intégration des tarifs et des services de transport en commun, notamment pour les personnes handicapées et celles qui comptent sur les transports en commun;
+
 c) permettre aux personnes d’utiliser les transports en commun pour se déplacer d’une municipalité à l’autre et accéder à l’emploi, à l’éducation et aux services essentiels;
+
 d) améliorer la commodité, la cohérence et l’accessibilité des services de transport en commun municipaux grâce à l’établissement de normes provinciales.
 
 ### Définitions
 
 2 Les définitions qui suivent s’appliquent à la présente loi.
+
 «handicap» S’entend au sens de la Loi de 2005 sur l’accessibilité pour les personnes handicapées de l’Ontario. («disability»)
+
 «ministre» Le ministre des Transports ou l’autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «organisme municipal» S’entend de ce qui suit :
+
 a) un conseil local au sens de la définition donnée à ce terme au paragraphe 1 (1) de la Loi de 2001 sur les municipalités ;
+
 b) un conseil local au sens de la définition donnée à ce terme au paragraphe 3 (1) de la Loi de 2006 sur la cité de Toronto, notamment la Commission de transport de Toronto;
+
 c) une personne morale créée par une municipalité en vertu de l’article 203 de la Loi de 2001 sur les municipalités ou une personne morale secondaire au sens de la définition donnée à ce terme au paragraphe 203 (3.1) de cette loi;
+
 d) une personne morale créée par la cité de Toronto en vertu de l’article 148 de la Loi de 2006 sur la cité de Toronto et chaque personne morale secondaire au sens de la définition donnée à ce terme au paragraphe 148 (4) de cette loi. («municipal agency»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «réseau de transport en commun prescrit» Réseau municipal de transport en commun prescrit ou réseau spécialisé de transport en commun prescrit. («prescribed transit sytem»)
+
 «réseau local de transport en commun» Réseau de transport de passagers exploité principalement dans une municipalité. Y sont assimilés les services de transport à l’intention des personnes handicapées, mais non les services de transport par véhicules destinés à une fin particulière comme les autobus scolaires ou les ambulances ou les réseaux exploités par Metrolinx ou pour son compte. («local transit system»)
+
 «réseau municipal de transport en commun prescrit» Réseau local de transport en commun prescrit par le ministre, ou réseau de transport de passagers prescrit par le lieutenant-gouverneur en conseil, qui est exploité dans une zone municipale de transport en commun. («prescribed municipal transit system»)
+
 «réseau spécialisé de transport en commun prescrit» Réseau local de transport en commun prescrit par le ministre ou réseau de transport de passagers prescrit par le lieutenant-gouverneur en conseil qui est exploité dans une zone municipale de transport en commun et qui fournit des services conçus pour assurer le transport des personnes handicapées. («prescribed specialized transit system»)
+
 «zone municipale de transport en commun» La zone composée de ce qui suit :
+
 a) la cité de Toronto;
+
 b) la cité de Hamilton;
+
 c) la municipalité régionale de Durham;
+
 d) la municipalité régionale de Halton;
+
 e) la municipalité régionale de Peel;
+
 f) la municipalité régionale de York;
+
 g) toute autre zone prescrite par le lieutenant-gouverneur en conseil. («municipal transit area»)
+
 «zone principale de desserte» La municipalité ou la zone dans laquelle un réseau de transport de passagers est principalement exploité. («primary service area»)
 
 ## Partie II Exigences applicables au transport en commun
@@ -69,9 +95,13 @@ g) toute autre zone prescrite par le lieutenant-gouverneur en conseil. («munici
 ### Structure tarifaire
 
 4 Le ministre peut, par règlement, établir une structure tarifaire à l’égard des réseaux de transport en commun prescrits; il peut notamment :
+
 a) fixer des tarifs;
+
 b) définir des catégories et types de tarifs ainsi que les conditions d’admissibilité à ces tarifs;
+
 c) établir des politiques en matière de tarifs réduits.
+
 d) établir des politiques en matière de correspondance applicables aux déplacements entre un réseau de transport en commun prescrit et tout autre réseau de transport de passagers.
 
 ### Participation au système tarifaire unifié
@@ -97,24 +127,35 @@ d) établir des politiques en matière de correspondance applicables aux déplac
 ### Idem
 
 (5) Les règlements pris en vertu du paragraphe (4) peuvent :
+
 1. Autoriser les réseaux de transport en commun prescrits qui sont désignés à l’égard d’une zone géographique à définir, par voie d’entente, un mode de répartition des tarifs, sous réserve des conditions énoncées dans les règlements.
+
 2. Décrire le mode de répartition des tarifs.
+
 3. Prévoir un processus d’arbitrage pour établir le mode de répartition des tarifs ou résoudre tout différend connexe.
 
 ### Idem
 
 (6) Tout règlement traitant des points prévus au paragraphe (5) peut :
+
 a) prévoir, provisoirement, le mode de répartition des tarifs ainsi que le délai et le mode de versement des paiements;
+
 b) permettre qu’une entente ou une décision arbitrale s’applique aux tarifs perçus ou aux paiements effectués avant la conclusion de l’entente ou le prononcé de la décision arbitrale;
+
 c) prévoir le rapprochement des paiements effectués de façon provisoire.
 
 ### Intégration des services sur les itinéraires prioritaires
 
 7 Le ministre peut, par règlement :
+
 a) désigner de nouveaux itinéraires et des itinéraires existants comme itinéraires prioritaires, lesquels peuvent s’étendre au-delà des limites d’une municipalité;
+
 b) prescrire les normes de service applicables aux itinéraires prioritaires, notamment :
+
 (i) fixer les périodes pendant lesquelles les normes de service doivent être respectées,
+
 (ii) fixer la fréquence du service sur les itinéraires prioritaires, notamment la fréquence à différents points d’arrêt sur ces itinéraires;
+
 c) prescrire des exigences en matière d’intégration des services entre différents réseaux de transport en commun prescrits sur les itinéraires prioritaires, notamment exiger que des services soient offerts par un tel réseau à l’extérieur de sa zone principale de desserte.
 
 ### Réseaux spécialisés de transport en commun prescrits
@@ -144,7 +185,9 @@ c) prescrire des exigences en matière d’intégration des services entre diff�
 ### Forme du rapport
 
 (2) Le rapport visé au paragraphe (1) est rédigé sous la forme qu’exige le ministre et il comprend ce qui suit :
+
 a) des renseignements prouvant que le réseau de transport en commun prescrit a satisfait aux exigences établies en vertu de la présente loi;
+
 b) les autres données ou documents prescrits.
 
 ### Publication
@@ -176,17 +219,25 @@ b) les autres données ou documents prescrits.
 ### Extinction des causes d’action
 
 13 (1) Aucune cause d’action découlant directement ou indirectement de ce qui suit ne prend naissance contre toute personne visée au paragraphe (2) :
+
 a) l’édiction, la modification ou l’abrogation d’une disposition de la présente loi;
+
 b) la prise, la modification ou l’abrogation de toute disposition d’un règlement, d’une demande ou d’une directive en vertu de la présente loi;
+
 c) l’octroi ou l’annulation d’une approbation en vertu de la présente loi;
+
 d) quoi que ce soit qui est fait ou n’est pas fait conformément à la présente loi ou à un règlement, à une demande, à une directive ou à une approbation prévue par la présente loi, notamment la collecte, l’utilisation ou la divulgation autorisées de renseignements en vertu de la présente loi.
 
 ### Personnes visées
 
 (2) Les personnes visées au paragraphe (1) sont les suivantes :
+
 a) la Couronne ou un membre, actuel ou ancien, du Conseil exécutif ou un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, de la Couronne;
+
 b) une municipalité ou un organisme municipal, ou un membre, actuel ou ancien, du conseil de la municipalité ou de l’organisme municipal, ou un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, de la municipalité ou de l’organisme municipal;
+
 c) Metrolinx ou une de ses filiales, ou un administrateur, employé, dirigeant, mandataire ou conseiller, actuel ou ancien, de Metrolinx ou d’une de ses filiales;
+
 d) toute personne prescrite par le lieutenant-gouverneur en conseil.
 
 ### Aucun recours
@@ -216,13 +267,17 @@ d) toute personne prescrite par le lieutenant-gouverneur en conseil.
 ### Aucun empêchement à certaines instances introduites par les municipalités
 
 (9) Le présent article ne s’applique pas à l’égard des instances introduites par une municipalité contre l’une ou l’autre des personnes suivantes :
+
 a) un membre, actuel ou ancien, du conseil de la municipalité ou d’un organisme municipal de la municipalité;
+
 b) un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, de la municipalité ou d’un organisme municipal de la municipalité.
 
 ### Aucun empêchement à certaines instances introduites par les organismes municipaux
 
 (10) Le présent article ne s’applique pas à l’égard des instances introduites par un organisme municipal contre l’une ou l’autre des personnes suivantes :
+
 a) un membre, actuel ou ancien, de l’organisme municipal;
+
 b) un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, de l’organisme municipal.
 
 ### Aucun empêchement à certaines instances introduites par Metrolinx
@@ -244,20 +299,31 @@ b) un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, de l�
 ### Ministre
 
 16 (1) Le ministre peut, par règlement :
+
 a) prescrire toute question ou traiter de toute question à laquelle la présente loi fait référence en tant que question qui peut être prescrite, précisée, désignée, énoncée ou autrement traitée par règlement;
+
 b) prescrire des réseaux locaux de transport en commun comme réseaux municipaux ou spécialisés de transport en commun prescrits pour l’application de la présente loi;
+
 c) préciser le sens du terme «zone principale de desserte» pour l’application de la présente loi;
+
 d) prescrire une zone géographique pour l’application du paragraphe 6 (1) et désigner des réseaux de transport en commun prescrits à l’égard de cette zone;
+
 e) définir un terme utilisé mais non défini dans la présente loi, ou en préciser le sens;
+
 f) exempter une entité de l’application d’une disposition de la présente loi ou des règlements et assortir l’exemption de conditions;
+
 g) traiter de toute question nécessaire ou accessoire à l’exécution et à l’application de la présente loi et des règlements;
+
 h) traiter des questions transitoires nécessaires à la mise en application efficace de la présente loi et des règlements.
 
 ### Lieutenant-gouverneur en conseil
 
 (2) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des réseaux de transport de passagers qui ne sont pas des réseaux locaux de transport en commun comme réseaux municipaux ou spécialisés de transport en commun prescrits pour l’application de la présente loi;
+
 b) prescrire d’autres zones municipales de transport en commun pour l’application de la définition de «zone municipale de transport en commun» à l’article 2;
+
 c) prescrire des personnes pour l’application de l’alinéa 13 (2) d), ainsi que les conditions ou circonstances dans lesquelles l’article 13 ne s’applique pas à ces personnes, notamment en ce qui concerne les instances introduites par une personne précisée ou une catégorie précisée de personnes.
 
 ### Règlements rétroactifs
@@ -271,4 +337,5 @@ c) prescrire des personnes pour l’application de l’alinéa 13 (2) d), ainsi 
 ### Partie V (OMISE)
 
 17 Omis (entrée en vigueur de dispositions de la présente loi).
+
 18 Omis (édiction du titre abrégé de la présente loi).

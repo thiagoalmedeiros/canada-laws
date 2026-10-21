@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-12-04"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02l24"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # prescription des actions (Loi de 2002 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02l24) before relying on it.
 
 L.O. 2002, chap. 24, annexe B
 
@@ -21,23 +21,37 @@ L.O. 2002, chap. 24, annexe B
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «conséquence préjudiciable» S’entend au sens de la Loi sur la protection de l’environnement. («adverse effect»)
+
 «contaminant» S’entend au sens de la Loi sur la protection de l’environnement. («contaminant»)
+
 «environnement naturel» S’entend au sens de la Loi sur la protection de l’environnement. («natural environment»)
+
 «réclamation» Réclamation pour obtenir réparation de préjudices, de pertes ou de dommages survenus par suite d’un acte ou d’une omission et, en outre, droit de réclamation qui peut être exercé à cette fin. («claim»)
+
 «réclamation relative à l’environnement» Réclamation fondée sur un acte ou une omission qui a causé le rejet dans l’environnement naturel, y a contribué ou l’a permis, d’un contaminant qui a ou aura vraisemblablement une conséquence préjudiciable. («environmental claim»)
+
 «rejet, rejeter» S’entend au sens de la Loi sur la protection de l’environnement. («discharge»)
+
 «voies de fait» S’entend en outre de coups. («assault») 2002, chap. 24, annexe B, art. 1.
 
 ### Champ d’application
 
 2 (1) La présente loi s’applique aux réclamations formées dans des instances judiciaires autres que les instances suivantes :
+
 a) les instances auxquelles s’applique la Loi sur la prescription des actions relatives aux biens immeubles ;
+
 b) les instances telles qu’un appel, si le délai d’introduction des instances est régi par une loi ou une règle de pratique;
+
 c) les instances introduites en vertu de la Loi sur la procédure de révision judiciaire ;
+
 d) les instances auxquelles s’applique la Loi sur les infractions provinciales ;
+
 e) les instances fondées sur les droits existants – ancestraux ou issus de traités – des peuples autochtones du Canada que reconnaît et confirme l’article 35 de la Loi constitutionnelle de 1982 ;
+
 f) les instances fondées sur les réclamations en equity faites par les peuples autochtones contre la Couronne;
+
 g) les instances auxquelles s’applique la Convention sur la prescription ou la Convention modifiée sur la prescription, au sens de la Loi sur les conventions de vente internationale.
 
 ### Exception : droits des peuples autochtones
@@ -57,11 +71,17 @@ g) les instances auxquelles s’applique la Convention sur la prescription ou la
 ### Découverte des faits
 
 5 (1) Les faits qui ont donné naissance à la réclamation sont découverts celui des jours suivants qui est antérieur aux autres :
+
 a) le jour où le titulaire du droit de réclamation a appris les faits suivants :
+
 (i) les préjudices, les pertes ou les dommages sont survenus,
+
 (ii) les préjudices, les pertes ou les dommages ont été causés entièrement ou en partie par un acte ou une omission,
+
 (iii) l’acte ou l’omission est le fait de la personne contre laquelle est faite la réclamation,
+
 (iv) étant donné la nature des préjudices, des pertes ou des dommages, l’introduction d’une instance serait un moyen approprié de tenter d’obtenir réparation;
+
 b) le jour où toute personne raisonnable possédant les mêmes capacités et se trouvant dans la même situation que le titulaire du droit de réclamation aurait dû apprendre les faits visés à l’alinéa a).
 
 ### Présomption
@@ -79,13 +99,17 @@ b) le jour où toute personne raisonnable possédant les mêmes capacités et se
 ### Mineurs
 
 6 Le délai de prescription créé par l’article 4 ne court pas pendant toute période au cours de laquelle le titulaire du droit de réclamation :
+
 a) d’une part, est mineur;
+
 b) d’autre part, n’est pas représenté par un tuteur à l’instance à l’égard de la réclamation.
 
 ### Incapacité
 
 7 (1) Le délai de prescription créé par l’article 4 ne court pas pendant toute période au cours de laquelle le titulaire du droit de réclamation :
+
 a) d’une part, est dans l’incapacité d’introduire une instance relative à la réclamation en raison de son état physique, mental ou psychologique;
+
 b) d’autre part, n’est pas représenté par un tuteur à l’instance à l’égard de la réclamation.
 
 ### Présomption
@@ -95,6 +119,7 @@ b) d’autre part, n’est pas représenté par un tuteur à l’instance à l�
 ### Prorogation ou suspension du délai
 
 (3) Si la prescription est reportée ou suspendue en application du présent article et qu’il reste moins de six mois à courir sur le délai au moment où cesse le report ou la suspension, le délai est prorogé de façon à inclure le jour qui arrive six mois après le jour où cesse le report ou la suspension.
+
 (4) Abrogé : 2016, chap. 2, annexe 2, art. 1.
 
 ### Tuteurs à l’instance
@@ -106,7 +131,9 @@ b) d’autre part, n’est pas représenté par un tuteur à l’instance à l�
 ### Définitions
 
 9 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «défendeur éventuel» Personne contre laquelle une autre personne peut être fondée à faire une réclamation mais contre laquelle l’autre personne n’a pas introduit d’instance à l’égard de la réclamation. («potential defendant»)
+
 «demandeur éventuel» Personne qui peut être fondée à faire une réclamation contre une autre personne mais qui n’a pas introduit d’instance contre cette personne à l’égard de la réclamation. («potential plaintiff») 2002, chap. 24, annexe B, par. 9 (1).
 
 ### Nomination d’un tuteur à l’instance sur requête ou motion d’un défendeur éventuel
@@ -116,35 +143,53 @@ b) d’autre part, n’est pas représenté par un tuteur à l’instance à l�
 ### Effet de la nomination
 
 (3) Sous réserve du paragraphe (4), la nomination d’un tuteur à l’instance met fin au report ou à la suspension de la prescription si les conditions suivantes sont réunies :
+
 1. La nomination est faite par un juge sur requête ou motion d’un défendeur éventuel.
+
 2. Le juge est convaincu que le tuteur à l’instance :
+
 i. a reçu signification de la motion,
+
 ii. a consenti à la nomination par écrit, ou en personne devant le juge,
+
 iii. a connaissance, relativement à la réclamation, des faits visés à l’alinéa 5 (1) a),
+
 iv. n’a pas d’intérêt opposé à celui du demandeur éventuel,
+
 v. accepte de s’occuper des intérêts du demandeur éventuel avec diligence et de prendre toutes les mesures nécessaires pour les protéger, y compris l’introduction d’une instance à l’égard de la réclamation s’il y a lieu.
 
 ### Non-expiration
 
 (4) Le délai de prescription est réputé ne pas expirer à l’égard du demandeur éventuel jusqu’à celle des dates suivantes qui est postérieure à l’autre :
+
 a) la date qui tombe six mois après que le défendeur éventuel dépose, avec la preuve de la signification au tuteur à l’instance, les documents suivants :
+
 (i) un avis conforme au paragraphe (5),
+
 (ii) une déclaration selon laquelle, à la date du dépôt, le défendeur éventuel n’a connaissance d’aucune instance que ce soit qui ait été introduite contre lui par le tuteur à l’instance à l’égard de la réclamation;
+
 b) la date à laquelle le délai de prescription expirerait par ailleurs après la reprise de la prescription en application du paragraphe (3).
 
 ### Avis
 
 (5) L’avis :
+
 a) ne doit pas être signifié avant le premier anniversaire de la nomination;
+
 b) désigne le demandeur éventuel et le défendeur éventuel, et indique l’objet de la réclamation;
+
 c) indique que la réclamation pourrait s’éteindre si une instance n’est pas introduite promptement.
+
 10 Abrogé : 2016, chap. 2, annexe 2, art. 2.
 
 ### Tentative de règlement
 
 11 (1) Si le titulaire d’un droit de réclamation et une personne contre laquelle est faite la réclamation se sont entendus pour qu’un tiers indépendant statue sur celle-ci ou les aide à parvenir à un règlement, les délais de prescription créés par les articles 4 et 15 ne courent pas de la date de l’entente à, selon le cas :
+
 a) la date à laquelle il est statué sur la réclamation;
+
 b) la date à laquelle il est mis fin à la procédure de tentative de règlement;
+
 c) la date à laquelle l’une ou l’autre partie met fin à l’entente ou se retire de celle-ci.
 
 ### Idem
@@ -154,13 +199,17 @@ c) la date à laquelle l’une ou l’autre partie met fin à l’entente ou se 
 ### Ayants droit
 
 12 (1) Pour l’application de l’alinéa 5 (1) a), dans le cas d’une instance introduite par un ayant droit d’un prédécesseur titulaire du droit, du titre ou de l’intérêt, l’ayant droit est réputé avoir connaissance des faits visés à cet alinéa le premier en date des jours suivants :
+
 1. Le jour où le prédécesseur a appris ces faits ou aurait dû les apprendre.
+
 2. Le jour où l’ayant droit a appris ces faits ou aurait dû les apprendre.
 
 ### Mandants et mandataires
 
 (2) Pour l’application de l’alinéa 5 (1) a), dans le cas d’une instance introduite par un mandant, si le mandataire avait l’obligation de lui communiquer les faits visés à cet alinéa, le mandant est réputé avoir connaissance des faits visés à cet alinéa le premier en date des jours suivants :
+
 1. Le jour où le mandataire a appris ces faits ou aurait dû les apprendre.
+
 2. Le jour où le mandant a appris ces faits ou aurait dû les apprendre.
 
 ### Idem
@@ -218,10 +267,15 @@ c) la date à laquelle l’une ou l’autre partie met fin à l’entente ou se 
 ### Contenu
 
 (2) L’avis de réclamation éventuelle est présenté par écrit et signé par la personne qui le délivre ou par son avocat. Cet avis renferme les précisions suivantes :
+
 a) une description des préjudices, des pertes ou des dommages que la personne qui délivre l’avis soupçonne être survenus;
+
 b) en quoi consiste l’acte ou l’omission ayant donné lieu aux préjudices, aux pertes ou aux dommages;
+
 c) la mesure dans laquelle la personne qui délivre l’avis soupçonne avoir pu causer les préjudices, les pertes ou les dommages en question;
+
 d) le fait que toute réclamation que l’autre personne peut faire puisse s’éteindre en raison de l’expiration d’un délai de prescription;
+
 e) les nom et adresse aux fins de signification de la personne qui délivre l’avis.
 
 ### Effet
@@ -231,7 +285,9 @@ e) les nom et adresse aux fins de signification de la personne qui délivre l’
 ### Exception
 
 (4) Le paragraphe (3) ne s’applique pas à la personne qui n’est pas représentée par un tuteur à l’instance à l’égard de la réclamation et qui, au moment où l’avis lui est signifié :
+
 a) soit est mineure;
+
 b) soit est dans l’incapacité d’introduire une instance en raison de son état physique, mental ou psychologique.
 
 ### Reconnaissance
@@ -259,12 +315,19 @@ b) soit est dans l’incapacité d’introduire une instance en raison de son é
 ### Interruption du délai
 
 (4) Le délai de prescription créé par le paragraphe (2) ne court pas pendant toute période au cours de laquelle, selon le cas :
+
 a) le titulaire du droit de réclamation :
+
 (i) d’une part, est dans l’incapacité d’introduire une instance relative à la réclamation en raison de son état physique, mental ou psychologique,
+
 (ii) d’autre part, n’est pas représenté par un tuteur à l’instance à l’égard de la réclamation;
+
 b) le titulaire du droit de réclamation est mineur et n’est pas représenté par un tuteur à l’instance à l’égard de la réclamation;
+
 c) la personne contre laquelle est faite la réclamation :
+
 (i) soit dissimule sciemment au titulaire du droit de réclamation le fait que les préjudices, les pertes ou les dommages se sont produits, qu’ils ont été causés entièrement ou en partie par un acte ou une omission ou que l’acte ou l’omission était le fait de la personne contre laquelle est faite la réclamation,
+
 (ii) soit induit sciemment en erreur le titulaire du droit de réclamation quant à l’opportunité d’une instance comme moyen d’obtenir réparation des préjudices, des pertes ou des dommages subis.
 
 ### Fardeau de la preuve
@@ -274,8 +337,11 @@ c) la personne contre laquelle est faite la réclamation :
 ### Détermination du jour où a lieu l’acte ou l’omission
 
 (6) Pour l’application du présent article, le jour où a lieu un acte ou une omission sur lequel est fondée une réclamation est :
+
 a) dans le cas d’un acte ou d’une omission continus, le jour où cesse l’acte ou l’omission;
+
 b) dans le cas d’une série d’actes ou d’omissions à l’égard de la même obligation, le jour où a lieu le dernier acte ou la dernière omission de la série;
+
 c) dans le cas d’un acte ou d’une omission à l’égard d’un engagement à vue, le premier jour où il y a défaut d’exécution de l’engagement à vue, une fois qu’une demande formelle d’exécution est présentée.
 
 ### Application : engagements à vue
@@ -287,28 +353,51 @@ c) dans le cas d’un acte ou d’une omission à l’égard d’un engagement �
 ### Absence de délai de prescription
 
 16 (1) Aucun délai de prescription n’est prévu dans les cas suivants :
+
 a) les instances en déclaration judiciaire s’il n’est demandé aucun redressement indirect;
+
 b) les instances en vue de faire exécuter des ordonnances judiciaires ou toute autre ordonnance qui peut être exécutée de la même façon que les ordonnances judiciaires;
+
 c) les instances en vue d’obtenir des aliments prévus par la Loi sur le droit de la famille ou de faire exécuter les dispositions alimentaires qui figurent dans des contrats ou des accords qui pourraient être déposés en vertu de l’article 35 de cette loi;
+
 d) Abrogé : 2017, chap. 2, annexe 5, par. 14 (1);
+
 e) les instances visées à l’article 8 ou 11.2 de la Loi de 2001 sur les recours civils ;
+
 f) les instances introduites par les débiteurs en possession de biens donnés en garantie en vue de les racheter;
+
 g) les instances introduites par les créanciers en possession de biens donnés en garantie en vue de les réaliser;
+
 h) les instances fondées sur une agression sexuelle;
+
 h.1) les instances fondées sur toute autre inconduite d’ordre sexuel si, au moment où elle a été commise, le titulaire du droit de réclamation était mineur ou l’un ou l’autre des critères suivants s’appliquait à l’égard de la relation entre le titulaire du droit de réclamation et la personne qui a commis l’inconduite :
+
 (i) le titulaire du droit de réclamation était confié aux soins de l’autre personne,
+
 (ii) l’autre personne se trouvait dans une position de confiance ou d’autorité par rapport au titulaire du droit de réclamation,
+
 (iii) le titulaire du droit de réclamation dépendait de l’autre personne financièrement, émotivement, physiquement ou autrement;
+
 h.2) les instances fondées sur des voies de fait si, au moment où elles ont été commises, le titulaire du droit de réclamation était mineur ou l’un ou l’autre des critères suivants s’appliquait à l’égard de la relation entre le titulaire du droit de réclamation et la personne qui a commis les voies de fait :
+
 (i) ils avaient une relation intime,
+
 (ii) le titulaire du droit de réclamation dépendait de l’autre personne financièrement, émotivement, physiquement ou autrement;
+
 i) les instances en recouvrement des créances de la Couronne à l’égard :
+
 (i) soit d’amendes, d’impôts et de pénalités,
+
 (ii) soit d’intérêts qui peuvent s’ajouter à un impôt ou à une pénalité en vertu d’une loi;
+
 j) les instances visées au paragraphe (2) qui sont introduites :
+
 (i) soit par la Couronne,
+
 (ii) soit par un agent de prestation des services au sens de la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées ou de la Loi de 1997 sur le programme Ontario au travail ;
+
 k) les instances en recouvrement de créances à l’égard de prêts d’études, de prêts aux médecins résidents, de l’aide financière aux étudiants ou de bourses d’études accordés en vertu de la Loi sur le ministère de la Formation et des Collèges et Universités, de la Loi fédérale sur l’aide financière aux étudiants ou de la Loi fédérale sur les prêts aux étudiants.
+
 l) les instances visées au paragraphe 4 (1) de la Loi sur la justice pour les victimes d’actes de terrorisme (Canada).
 
 ### Idem
@@ -318,7 +407,9 @@ l) les instances visées au paragraphe 4 (1) de la Loi sur la justice pour les v
 ### Idem
 
 (1.2) Le paragraphe (1.1) ne s’applique pas dans le cas d’une instance qui, selon le cas :
+
 a) a été rejetée par un tribunal sans qu’aucun autre recours ne soit possible;
+
 b) a fait l’objet d’une transaction entre les parties et cette transaction est juridiquement contraignante.
 
 ### Idem
@@ -328,13 +419,17 @@ b) a fait l’objet d’une transaction entre les parties et cette transaction e
 ### Idem
 
 (2) L’alinéa (1) j) s’applique aux instances à l’égard des réclamations relatives :
+
 a) soit à l’administration des programmes sociaux ou économiques ou des programmes de santé;
+
 b) soit à la fourniture d’un soutien direct ou indirect aux membres du public relativement aux politiques sociales, aux politiques économiques ou aux politiques en matière de santé.
 
 ### Idem
 
 (3) Sans préjudice de la portée générale du paragraphe (2), l’alinéa (1) j) s’applique aux instances à l’égard de ce qui suit :
+
 a) les réclamations en recouvrement de versements d’aide sociale, de prêts aux étudiants, de prix, de subventions, de contributions et de prêts de développement économique;
+
 b) les réclamations en remboursement des sommes versées relativement aux programmes ou aux politiques dans les domaines sociaux ou économiques ou celui de la santé par suite d’une fraude, d’une présentation inexacte des faits, d’une erreur ou d’une méprise.
 
 ### Incompatibilité avec l’art. 15
@@ -358,9 +453,13 @@ b) les réclamations en remboursement des sommes versées relativement aux progr
 ### Autres lois
 
 19 (1) Tout délai de prescription qui est fixé dans une autre loi ou en application de celle-ci et qui s’applique à une réclamation à laquelle s’applique la présente loi est sans effet à moins que, selon le cas :
+
 a) la disposition le créant ne soit énumérée à l’annexe de la présente loi;
+
 b) la disposition le créant ne réunisse les conditions suivantes :
+
 (i) elle existe le 1 er janvier 2004,
+
 (ii) elle incorpore, par renvoi, une disposition énumérée à l’annexe de la présente loi.
 
 ### Primauté de la Loi
@@ -410,13 +509,17 @@ b) la disposition le créant ne réunisse les conditions suivantes :
 ### Idem
 
 (5) Les exceptions suivantes ne s’appliquent qu’à l’égard des accords commerciaux :
+
 1. Le délai de prescription prévu par la présente loi, à l’exclusion de celui créé par l’article 15, peut être modifié ou exclu par un accord conclu le 19 octobre 2006 ou par la suite.
+
 2. Le délai de prescription créé par l’article 15 peut être modifié par un accord conclu le 19 octobre 2006 ou par la suite, sauf qu’il ne peut être suspendu ou prorogé que conformément au paragraphe (4).
 
 ### Définitions
 
 (6) Les définitions qui suivent s’appliquent au présent article.
+
 «accord commercial» S’entend d’un accord conclu entre des parties dont aucune n’est un consommateur au sens de la Loi de 2002 sur la protection du consommateur. («business agreement»)
+
 «modifier» S’entend notamment de proroger, d’abréger et de suspendre. («vary») 2006, chap. 21, annexe D, art. 2
 
 ### Conflit de lois
@@ -428,6 +531,7 @@ b) la disposition le créant ne réunisse les conditions suivantes :
 ### Définition
 
 24 (1) La définition qui suit s’applique au présent article.
+
 «ancien délai de prescription» Le délai de prescription qui s’appliquait à la réclamation avant le 1 er janvier 2004.
 
 ### Champ d’application
@@ -449,14 +553,19 @@ b) la disposition le créant ne réunisse les conditions suivantes :
 ### Idem
 
 (5) Si l’ancien délai de prescription n’a pas expiré avant le 1 er janvier 2004 et qu’un délai de prescription prévu par la présente loi s’appliquerait si la réclamation était fondée sur un acte ou une omission ayant eu lieu à cette date ou par la suite, les règles suivantes s’appliquent :
+
 1. Si les faits qui ont donné naissance à la réclamation n’ont pas été découverts avant le 1 er janvier 2004, la présente loi s’applique comme si l’acte ou l’omission avait eu lieu à cette date.
+
 2. Si les faits qui ont donné naissance à la réclamation ont été découverts avant le 1 er janvier 2004, l’ancien délai de prescription s’applique.
 
 ### Absence d’ancien délai de prescription
 
 (6) S’il n’y avait aucun ancien délai de prescription et qu’un délai de prescription prévu par la présente loi s’appliquerait si la réclamation était fondée sur un acte ou une omission ayant eu lieu le 1 er janvier 2004 ou par la suite, les règles suivantes s’appliquent :
+
 1. Si les faits qui ont donné naissance à la réclamation n’ont pas été découverts avant le 1 er janvier 2004, la présente loi s’applique comme si l’acte ou l’omission avait eu lieu à cette date.
+
 2. Si les faits qui ont donné naissance à la réclamation ont été découverts avant le 1 er janvier 2004, il n’y a pas de délai de prescription.
+
 (7) Abrogé : 2016, chap. 2, annexe 2, par. 5 (3).
 
 ### Réclamations relatives à des paiements allégués comme étant non autorisés
@@ -466,9 +575,13 @@ b) la disposition le créant ne réunisse les conditions suivantes :
 ### Accords
 
 (8) Le présent article est assujetti à tout accord qui modifie ou exclut un délai de prescription et qui a été conclu avant le 1 er janvier 2004.
+
 25 à 49 Omis (modifient ou abrogent d’autres lois).
+
 50 Omis (modifie l’annexe de la présente loi).
+
 51 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 52 Omis (édicte le titre abrégé de la présente loi).
 
 ## ANNEXE (Article 19)

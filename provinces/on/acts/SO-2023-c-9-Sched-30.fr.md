@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23p09"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # agriculteurs contre les défauts de paiement (réglementation des activités des marchands de produits agricoles et des exploitants de services d'entreposage) (Loi de 2023 visant à protéger les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23p09) before relying on it.
 
 L.O. 2023, chap. 9, annexe 30
 
@@ -21,30 +21,55 @@ L.O. 2023, chap. 9, annexe 30
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «commission» Commission créée ou prorogée en application de la présente loi. («board»)
+
 «directeur» Directeur nommé en application de l’article 3 ou 4. («Director»)
+
 «entente d’achat ou de vente d’un produit désigné» Entente d’achat ou de vente d’un produit désigné visée à l’article 6. («agreement to purchase or sell a designated product»)
+
 «entente d’entreposage d’un produit désigné» Entente d’entreposage d’un produit désigné visée à l’article 11. («agreement to store a designated product»)
+
 «exploitant de services d’entreposage» Personne qui, titulaire ou non d’un permis, fait profession d’entreposer un produit désigné. («storage operator»)
+
 «exploitant de services d’entreposage titulaire d’un permis» Personne à qui a été délivré un permis d’exploitant de services d’entreposage. («licenced storage operator»)
+
 «fonds» Fonds créé ou prorogé en application de la présente loi. («fund»)
+
 «marchand» Personne qui, titulaire ou non d’un permis, fait profession d’acheter ou de vendre un produit désigné en tant que mandant ou mandataire, à l’exclusion toutefois d’une personne ou d’un producteur qui achète un produit désigné pour son usage personnel. («dealer»)
+
 «marchand titulaire d’un permis» Marchand à qui a été délivré un permis de marchand. («licensed dealer»)
+
 «ministre» Le ministre de l’Agriculture, de l’Alimentation et des Affaires rurales ou l’autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée ou transférée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «organisme délégataire» Entité désignée en application de l’article 79. («delegated authority»)
+
 «permis» Permis visé par la présente loi. («licence»)
+
 «permis de marchand» Permis pour faire profession de marchand d’un produit désigné par la partie IV qui est délivré par le directeur en application de la partie VIII. («dealer’s licence»)
+
 «permis d’exploitant de services d’entreposage» Permis d’entreposage de produits désignés visé par la partie V qui est délivré par le directeur en application de la partie VIII. («storage operator’s licence»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «producteur» Personne qui se livre à la production d’un produit désigné. («producer»)
+
 «produit agricole» Bétail, porcs, volaille ou autre animal d’élevage, oeufs, produits laitiers, laine, grains, semences, fruits, légumes, produits de l’érable, miel, tabac ou toute catégorie ou partie de ces produits, ou tout autre produit désigné par règlement comme produit agricole. («agricultural product»)
+
 «produit désigné» Produit agricole désigné par règlement en vertu de l’alinéa 2 (1) a), b), c), d) ou e). («designated product»)
+
 «produit désigné par la partie IV» Produit agricole désigné par règlement en vertu de l’alinéa 2 (1) a). («Part IV designated product»)
+
 «produit désigné par la partie V» Produit agricole désigné par règlement en vertu de l’alinéa 2 (1) b). («Part V designated product»)
+
 «produit désigné par la partie VI» Produit agricole désigné par règlement en vertu de l’alinéa 2 (1) c). («Part VI designated product»)
+
 «produit désigné par la partie VII» Produit agricole désigné par règlement en vertu de l’alinéa 2 (1) d). («Part VII designated product»)
+
 «propriétaire» Personne qui possède le titre en common law sur un produit désigné. («owner»)
+
 «règlement» Règlement pris en vertu de la présente loi. («regulation»)
+
 «Tribunal» Le Tribunal d’appel de l’agriculture, de l’alimentation et des affaires rurales maintenu aux termes de la Loi sur le ministère de l’Agriculture, de l’Alimentation et des Affaires rurales. («Tribunal»)
 
 ### Droits ancestraux ou issus de traités
@@ -56,10 +81,15 @@ L.O. 2023, chap. 9, annexe 30
 ### Désignation
 
 2 (1) Le ministre peut, par règlement, désigner un produit agricole comme ce qui suit :
+
 a) un produit désigné par la partie IV, à savoir un produit désigné à l’égard duquel la partie IV s’applique;
+
 b) un produit désigné par la partie V, à savoir un produit désigné à l’égard duquel la partie V s’applique;
+
 c) un produit désigné par la partie VI, à savoir un produit désigné à l’égard duquel la partie VI s’applique;
+
 d) un produit désigné par la partie VII, à savoir un produit désigné à l’égard duquel la partie VII s’applique;
+
 e) un produit désigné à l’égard duquel s’appliquent deux parties de la présente loi ou plus mentionnées aux alinéas a) à d).
 
 ### Application restreinte
@@ -91,7 +121,9 @@ e) un produit désigné à l’égard duquel s’appliquent deux parties de la p
 ### Organisme délégataire
 
 4 (1) Tout organisme délégataire qui est désigné par règlement en vertu de la partie X pour appliquer tout ou partie de la présente loi et des règlements en ce qui concerne un produit désigné :
+
 a) nomme un directeur chargé d’exercer les pouvoirs et fonctions relatifs au produit désigné que la présente loi confère au directeur;
+
 b) peut nommer un ou plusieurs directeurs adjoints chargés d’exercer les fonctions qu’assigne le directeur et de remplacer ce dernier en son absence à l’égard du produit désigné.
 
 ### Restriction
@@ -143,7 +175,9 @@ b) peut nommer un ou plusieurs directeurs adjoints chargés d’exercer les fonc
 ### Idem
 
 (2) Le ministre ne prescrit une organisation non-gouvernementale pour l’application du présent article que si, à la fois :
+
 a) l’organisation non-gouvernementale est une personne morale sans but lucratif constituée sous le régime des lois de l’Ontario ou du Canada;
+
 b) le ministre a conclu une entente avec l’organisation non-gouvernementale.
 
 ### Idem
@@ -167,8 +201,11 @@ b) le ministre a conclu une entente avec l’organisation non-gouvernementale.
 ### Exception
 
 (2) Malgré le paragraphe (1), un exploitant de services d’entreposage peut entreposer un produit désigné par la partie V au nom de son producteur ou propriétaire sans être titulaire d’un permis d’exploitant de services d’entreposage si, à la fois :
+
 a) l’exploitant possède les qualités requises prescrites;
+
 b) le produit est entreposé de la manière prescrite;
+
 c) l’entreposage est effectué dans les circonstances ou les conditions prescrites.
 
 ### Aucune cession du permis
@@ -194,7 +231,9 @@ c) l’entreposage est effectué dans les circonstances ou les conditions prescr
 ### Idem
 
 (2) Le ministre ne prescrit une organisation non-gouvernementale pour l’application du présent article que si, à la fois :
+
 a) l’organisation non-gouvernementale est une personne morale sans but lucratif constituée sous le régime des lois de l’Ontario ou du Canada;
+
 b) le ministre a conclu une entente avec l’organisation non-gouvernementale.
 
 ### Idem
@@ -228,8 +267,11 @@ b) le ministre a conclu une entente avec l’organisation non-gouvernementale.
 ### Preuve de la quantité entreposée
 
 16 (1) Dès la livraison d’un produit désigné par la partie V aux fins d’entreposage par le producteur ou propriétaire, l’exploitant de services d’entreposage :
+
 a) crée un récépissé pour le produit désigné qui en précise la quantité livrée aux fins d’entreposage;
+
 b) remet le récépissé au producteur ou au propriétaire;
+
 c) conserve une copie du récépissé pour ses dossiers.
 
 ### Récépissé
@@ -255,25 +297,33 @@ c) conserve une copie du récépissé pour ses dossiers.
 ### Exploitant de services d’entreposage qui est un marchand
 
 17 (1) Le présent article s’applique si, à la fois :
+
 a) un produit désigné est désigné à la fois comme produit désigné par la partie IV et comme produit désigné par la partie V;
+
 b) un exploitant de services d’entreposage titulaire d’un permis relatif au produit désigné est également titulaire d’un permis qui l’autorise à agir comme marchand de ce produit;
 
 ### Entente obligatoire
 
 (2) L’exploitant de services d’entreposage titulaire d’un permis mentionné à l’alinéa (1) b) doit conclure une entente d’achat ou de vente d’un produit désigné avec le producteur ou propriétaire du produit :
+
 a) soit avant d’acheter un produit désigné mentionné à l’alinéa (1) a) qui est entreposé à son installation d’entreposage;
+
 b) soit avant d’accepter de vendre un produit désigné mentionné à l’alinéa (1) a) au nom du producteur ou du propriétaire du produit.
 
 ### Contenu de l’entente
 
 (3) L’entente visée au paragraphe (2) :
+
 a) autorise l’exploitant à agir comme marchand en ce qui concerne la vente de toute quantité du produit désigné que le producteur ou propriétaire entrepose auprès de l’exploitant;
+
 b) répond aux exigences énoncées au paragraphe 6 (2).
 
 ### Exploitant de services d’entreposage qui achète le produit
 
 (4) Si l’entente d’achat ou de vente d’un produit désigné mentionnée au paragraphe (2) prévoit que le marchand titulaire d’un permis doit acheter le produit désigné en vue de le revendre :
+
 a) le paragraphe 14 (1) ne s’applique pas au produit désigné qui est livré à l’exploitant de services d’entreposage par son producteur ou propriétaire;
+
 b) sauf disposition contraire des règlements, la propriété et le titre relatifs au produit désigné restent acquis au producteur ou au propriétaire du produit désigné jusqu’à ce que l’un ou l’autre reçoive le paiement pour le produit conformément aux modalités de l’entente d’achat ou de vente d’un produit désigné.
 
 ### Champ d’application de l’art. 7
@@ -333,11 +383,17 @@ b) sauf disposition contraire des règlements, la propriété et le titre relati
 ### Devoirs du fiduciaire
 
 (3) Le fiduciaire doit satisfaire aux exigences suivantes en ce qui concerne le fonds en fiducie :
+
 1. Les fonds que reçoit le fiduciaire sont déposés dans un compte à son nom et, s’il y a plus d’un fiduciaire des fonds en fiducie, sont déposés dans un compte au nom de tous les fiduciaires.
+
 2. Le compte mentionné à la disposition 1 est tenu auprès de l’un des établissements suivants :
+
 i. une banque figurant à l’annexe I ou II de la Loi sur les banques (Canada),
+
 ii. une caisse populaire au sens de la Loi de 2020 sur les caisses populaires et les credit unions,
+
 iii. une société de fiducie inscrite aux termes de la Loi sur les sociétés de prêt et de fiducie.
+
 3. Si un fiduciaire gère plus d’une fiducie aux termes du présent article, les fonds en fiducie peuvent être déposés ensemble dans un unique compte, pourvu que le fiduciaire tienne, séparément à l’égard de chaque fiducie, les dossiers exigés au paragraphe (6).
 
 ### Pluralité de fonds en fiducie dans un compte unique
@@ -351,14 +407,23 @@ iii. une société de fiducie inscrite aux termes de la Loi sur les sociétés d
 ### Dossiers
 
 (6) Le fiduciaire veille à ce que soient maintenus des dossiers écrits des transactions concernant le fonds en fiducie mentionné au paragraphe (1) qui font état de ce qui suit :
+
 a) les sommes déposées dans le fonds et :
+
 (i) le nom de la personne de qui provient chaque rentrée,
+
 (ii) le nom du producteur au nom de qui chaque rentrée est détenue en fiducie;
+
 b) les sommes dues à la fiducie et :
+
 (i) le nom de chaque débiteur,
+
 (ii) le nom de chaque producteur au nom de qui les sommes sont dues;
+
 c) les sommes prélevées de la fiducie et le nom de chaque personne à qui chaque somme est versée;
+
 d) les transferts effectués pour les besoins de la fiducie;
+
 e) les autres renseignements prescrits.
 
 ### Interdiction de déposer d’autres sommes
@@ -390,7 +455,9 @@ e) les autres renseignements prescrits.
 ### Responsabilité d’une personne morale
 
 24 (1) Si le marchand est une personne morale et qu’il ne se conforme pas à l’article 22 ou 23 en ce qui concerne les produits désignés par la partie VI qu’il a reçus, les personnes suivantes peuvent être tenues responsables du manquement aux obligations du fiduciaire dans une action intentée par le producteur de ces produits :
+
 1. La personne morale.
+
 2. Chaque dirigeant ou administrateur et tout employé ou mandataire de la personne morale, ou toute autre personne qui en a la gouverne réelle, si, en toute connaissance ou selon ce qu’il aurait dû raisonnablement savoir, il a souscrit ou s’est livré à des actes qui constituait un manquement aux obligations de fiduciaire de la personne morale.
 
 ### Gouverne réelle
@@ -408,7 +475,9 @@ e) les autres renseignements prescrits.
 ### Partage de la responsabilité
 
 (5) Dans une action ou une instance en contribution intentée ou introduite en vertu du paragraphe (4), le tribunal peut départager la responsabilité et ordonner, selon le cas :
+
 a) une contribution d’une somme qui aboutit à la répartition égale de la responsabilité entre toutes les parties tenues responsables pour manquement aux obligations du fiduciaire;
+
 b) s’il estime qu’une répartition égale de la responsabilité entre toutes les parties serait injuste, une contribution d’une somme qu’il juge appropriée dans les circonstances.
 
 ### Renonciation nulle
@@ -422,13 +491,17 @@ b) s’il estime qu’une répartition égale de la responsabilité entre toutes
 ### Création des fonds
 
 26 (1) Lorsqu’un produit agricole est désigné en application de la partie II comme produit désigné par la partie VII, le ministre crée un fonds au bénéfice des personnes suivantes :
+
 a) tous les producteurs du produit désigné par la partie VII en Ontario;
+
 b) les autres personnes qui, en vertu d’un règlement ou de l’article 46, ont le droit de présenter une réclamation contre le fonds.
 
 ### Fonds pour plus d’un produit désigné
 
 (2) En vertu du présent article, le ministre peut créer, au bénéfice des personnes suivantes, un fonds à l’égard de deux types ou plus de produits désignés par la partie VII :
+
 a) tous les producteurs de n’importe quel des deux types ou plus de produits désignés par la partie VII en Ontario;
+
 b) les autres personnes qui, en vertu d’un règlement ou de l’article 46, ont le droit de présenter une réclamation contre le fonds.
 
 ### Comptabilisation distincte
@@ -438,14 +511,19 @@ b) les autres personnes qui, en vertu d’un règlement ou de l’article 46, on
 ### Objet du fonds
 
 (4) Tout fonds créé en application de la présente partie à l’égard d’un produit désigné par la partie VII a pour objet de faire ce qui suit :
+
 a) indemniser un producteur du produit désigné par la partie VII conformément à la présente partie et aux règlements pour toute perte découlant d’un défaut de paiement de la part d’un marchand titulaire d’un permis à l’égard du producteur pour la vente du produit;
+
 b) indemniser un producteur ou propriétaire du produit désigné par la partie VII conformément à la présente partie et aux règlements pour toute perte découlant du fait qu’un exploitant de services d’entreposage titulaire d’un permis ne lui a pas fourni le produit sur demande;
+
 c) indemniser les personnes qui, en vertu du règlement ou de l’article 46, ont le droit de présenter une demande d’indemnisation auprès du fonds.
 
 ### Création des commissions
 
 27 (1) Lorsqu’un produit agricole est désigné en application de la partie II comme produit désigné par la partie VII, le ministre prend une des mesures suivantes pour administrer le fonds créé à l’égard du produit désigné en application de l’article 26 :
+
 a) il crée, par règlement, une commission;
+
 b) il désigne, par règlement, un organisme délégataire pour qu’il agisse comme commission.
 
 ### Règlement
@@ -487,10 +565,15 @@ b) il désigne, par règlement, un organisme délégataire pour qu’il agisse c
 ### Fonctions et pouvoirs
 
 29 Toute commission a les fonctions et pouvoirs suivants :
+
 1. Gérer et administrer son ou ses fonds.
+
 2. Enquêter sur les réclamations qui lui sont présentées en vertu de la présente loi et en déterminer la validité.
+
 3. Accepter ou refuser de payer tout ou partie des réclamations et fixer les montants et le mode de paiement.
+
 4. Recouvrer les sommes auxquelles elle a droit en vertu de la présente loi, notamment au moyen d’une poursuite devant un tribunal compétent.
+
 5. Exercer les fonctions et pouvoirs que lui confère la présente loi ou qui sont prescrits par règlement.
 
 ### Conseil d’administration
@@ -516,10 +599,15 @@ b) il désigne, par règlement, un organisme délégataire pour qu’il agisse c
 ### Délégation
 
 (6) Le conseil d’administration peut déléguer ses pouvoirs à un des comités, dirigeants ou employés de la commission, à l’exception des pouvoirs suivants :
+
 a) adopter, modifier ou abroger les règlements administratifs de la commission;
+
 b) approuver le budget de fonctionnement de la commission;
+
 c) approuver le plan d’activités, le rapport annuel et les états financiers de la commission;
+
 d) juger les réclamations présentées en vertu de l’article 46;
+
 e) faire quoi que ce soit d’autre qui est prescrit.
 
 ### Conditions
@@ -553,12 +641,15 @@ e) faire quoi que ce soit d’autre qui est prescrit.
 ### Catégories d’emploi
 
 (2) Une commission peut créer des catégories d’emploi, des grilles de salaires et des conditions d’emploi pour ses dirigeants et employés, sous réserve de l’approbation :
+
 a) du lieutenant-gouverneur en conseil, dans le cas de dirigeants et d’employés qui sont membres d’une unité de négociation;
+
 b) du ministre, dans le cas de dirigeants et d’employés qui ne sont pas membres d’une unité de négociation.
 
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «unité de négociation» S’entend au sens de la Loi de 1995 sur les relations de travail.
 
 ### Experts
@@ -584,8 +675,11 @@ b) du ministre, dans le cas de dirigeants et d’employés qui ne sont pas membr
 ### Contenu du rapport annuel
 
 (2) Une commission se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le présenter au ministre;
+
 c) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -599,8 +693,11 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Immunité
 
 37 (1) Sont irrecevables les actions ou autres instances introduites contre les personnes suivantes et aucune cause d’action ne prend naissance contre elles pour un acte accompli de bonne foi dans l’exercice effectif ou censé tel des fonctions que leur confère la présente loi ou pour une négligence ou un manquement qu’elles auraient commis dans l’exercice de bonne foi de leurs fonctions :
+
 1. Un employé actuel ou ancien de la Couronne.
+
 2. Un membre actuel ou ancien ou un dirigeant actuel ou ancien d’une commission.
+
 3. Un employé actuel ou ancien d’une commission.
 
 ### Responsabilité de la Couronne
@@ -614,10 +711,15 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Dissolution des fonds et des commissions
 
 38 (1) Le ministre peut, par règlement :
+
 a) dissoudre une commission créée ou constituée en application de l’alinéa 27 (1) a) de la présente loi ou en vertu du paragraphe 2 (1) de la Loi sur le recouvrement du prix des produits agricoles et prévoir la liquidation du fonds auquel elle se rapporte;
+
 b) prévoir toute question transitoire nécessaire à la dissolution effective d’une commission, notamment :
+
 (i) le transfert de toute propriété, sans versement d’indemnité, y compris de l’actif, du passif, des droits, des obligations, des dossiers, des bases de données, des comptes et de l’argent que détiennent les commissions visées,
+
 (ii) la cession, sans versement d’indemnité, des contrats qu’une commission a conclus avant d’être dissoute;
+
 c) prévoir la disposition des sommes qui restent dans un fonds ainsi que les autres mesures nécessaires à la liquidation effective d’un tel fonds.
 
 ### Immunité de la Couronne
@@ -669,8 +771,11 @@ c) prévoir la disposition des sommes qui restent dans un fonds ainsi que les au
 ### Prêts
 
 43 (1) Si les sommes portées au crédit d’un fonds sont insuffisantes pour assurer le paiement d’une réclamation présentée contre le fonds :
+
 a) sur recommandation du ministre, le lieutenant-gouverneur en conseil peut, par décret, autoriser le ministre des Finances à consentir des prêts d’au plus 250 000 $ à la commission qui administre le fonds;
+
 b) la commission peut emprunter à une banque mentionnée à l’annexe I ou II de la Loi sur le banques (Canada), à une société de prêt ou une société de fiducie inscrite aux termes de la Loi sur les sociétés de prêt et de fiducie, à une caisse populaire au sens de la Loi de 2020 sur les caisses populaires et les credit unions ou à une autre personne les sommes requises pour acquitter toute réclamation;
+
 c) si elle administre plus d’un fonds, la commission peut emprunter des sommes à un autre des fonds qu’elle administre, sous réserve des conditions et des exigences prescrites.
 
 ### Idem
@@ -684,8 +789,11 @@ c) si elle administre plus d’un fonds, la commission peut emprunter des sommes
 ### Garanties
 
 (4) En plus de garantir le remboursement du capital du prêt, la garantie donnée en vertu du paragraphe (3) peut garantir le remboursement des sommes suivantes à l’égard du prêt :
+
 1. Les intérêts exigibles sur le prêt.
+
 2. Les honoraires, débours, indemnités ou frais que la commission doit à son avocat pour les questions dont les dépens peuvent être liquidés selon les règles de pratique.
+
 3. Toute autre dépense nécessaire et raisonnable qui a été engagée en vue du recouvrement ou d’une tentative de recouvrement de sommes payables.
 
 ### Forme de la garantie
@@ -703,9 +811,13 @@ c) si elle administre plus d’un fonds, la commission peut emprunter des sommes
 ### Prélèvements sur un fonds
 
 44 Une commission ne peut prélever des sommes sur un fonds qu’aux fins suivantes :
+
 1. Le paiement des réclamations présentées contre le fonds et permises par la présente loi.
+
 2. Le paiement des dépenses prescrites qui sont engagées dans l’administration de la présente loi.
+
 3. Le remboursement des prêts consentis à la commission en vertu de l’alinéa 43 (1) a) ou b).
+
 4. Le remboursement de tout paiement fait par la province de l’Ontario à titre de garant d’un prêt aux termes d’une garantie donnée en vertu du paragraphe 43 (3).
 
 ### Fonds supplémentaires
@@ -727,14 +839,19 @@ c) si elle administre plus d’un fonds, la commission peut emprunter des sommes
 ### Demande de paiement sur un fonds
 
 46 (1) Le producteur d’un produit désigné par la partie VII qui est vendu par le producteur ou au nom de celui-ci peut présenter une réclamation en paiement sur le fonds à l’égard de ce produit désigné si, selon le cas :
+
 a) le marchand n’a pas payé au producteur le prix à payer aux termes de l’entente d’achat ou de vente d’un produit désigné dans le délai prescrit;
+
 b) une procédure a été intentée contre le marchand sous le régime de la Loi sur la faillite et l’insolvabilité (Canada) ou de la Loi sur les arrangements avec les créanciers des compagnies (Canada).
 
 ### Idem
 
 (2) Le producteur ou le propriétaire d’un produit désigné par la partie VII qui a été entreposé auprès d’un exploitant de services d’entreposage peut présenter une réclamation en paiement sur le fonds créé à l’égard de ce produit désigné si l’un des événements suivants s’est produit :
+
 1. L’exploitant de services d’entreposage n’a pas livré, sur demande du producteur ou du propriétaire, tout ou partie du produit désigné par la partie VII qu’il entrepose.
+
 2. Une procédure a été intentée contre l’exploitant de services d’entreposage sous le régime de la Loi sur la faillite et l’insolvabilité (Canada) ou de la Loi sur les arrangements avec les créanciers des compagnies (Canada).
+
 3. Tout ou partie de l’actif de l’exploitant de services d’entreposage a été confié à un syndic pour être distribué en vertu de la Loi sur la faillite et l’insolvabilité (Canada) ou à un séquestre pour être distribué conformément à une débenture ou à un autre acte similaire, et le syndic ou le séquestre fait défaut de livrer au producteur ou au propriétaire, sur demande de ce dernier, tout ou partie du produit désigné par la partie VII.
 
 ### Réclamations présentées par les personnes prescrites
@@ -812,33 +929,45 @@ b) une procédure a été intentée contre le marchand sous le régime de la Loi
 ### Remboursement
 
 51 Si l’auteur d’une réclamation reçoit un paiement prélevé sur un fonds de même qu’un paiement d’un marchand, d’un exploitant de services d’entreposage ou d’une autre personne, ou un paiement au nom de celui-ci, en règlement total ou partiel de la dette pour laquelle un paiement a été prélevé sur le fonds, l’auteur de la réclamation paie à la commission qui administre le fonds la moindre des sommes suivantes :
+
 a) la somme qu’il a reçue du marchand, de l’exploitant de services d’entreposage ou d’une autre personne, ou au nom de celui-ci;
+
 b) la somme qu’elle a reçue du fonds.
 
 ### Ordonnance de la commission
 
 52 (1) Si une commission paie une réclamation par prélèvement sur un fonds parce qu’un marchand, un exploitant de services d’entreposage ou une personne prescrite n’a pas payé la somme due de la personne présentant la réclamation, le président de la commission peut prendre les ordonnances suivantes s’adressant au marchand, à l’exploitant de services d’entreposage ou à la personne prescrite :
+
 a) une ordonnance de remboursement à la commission du montant de la réclamation que cette dernière a payée à la personne présentant la réclamation;
+
 b) une ordonnance de paiement des frais de la commission associés à la tenue de l’instance liée à la réclamation.
 
 ### Contenu de l’ordonnance de remboursement
 
 (2) L’ordonnance de remboursement prise en vertu de l’alinéa (1) a) énonce :
+
 a) la somme à rembourser;
+
 b) le délai du remboursement;
+
 c) tout autre renseignement prescrit.
 
 ### Ordonnance de paiement des frais
 
 (3) Le président d’une commission peut, par ordonnance, ordonner à la personne présentant une réclamation de payer les frais de la commission associés à la tenue d’une audience ou d’une autre instance se rapportant à la réclamation si, à la fois :
+
 a) la réclamation a été rejetée par la commission ou le comité de celle-ci qui l’a entendue;
+
 b) la commission ou le comité de celle-ci qui a entendu la réclamation a conclu qu’elle était frivole, vexatoire ou faite de mauvaise foi.
 
 ### Contenu de l’ordonnance de paiement des frais
 
 (4) L’ordonnance de paiement des coûts prise en vertu de l’alinéa (1) b) ou du paragraphe (3) énonce :
+
 a) le montant des frais à rembourser, ainsi qu’une description de chaque frais et des reçus pour ceux-ci;
+
 b) le droit de la personne à laquelle s’adresse l’ordonnance à en interjeter appel devant le Tribunal en vertu de l’article 53;
+
 c) tout autre renseignement prescrit.
 
 ### Appel devant le Tribunal
@@ -864,7 +993,9 @@ c) tout autre renseignement prescrit.
 ### Pouvoirs en cas d’appel
 
 (6) Après l’audience de révision de la décision du président de la commission de prendre l’ordonnance, le Tribunal :
+
 a) s’il conclut que la décision était raisonnable, confirme la décision;
+
 b) s’il conclut que la décision était déraisonnable, détermine pour l’appelant une somme raisonnable à payer et ordonne à celui-ci de le payer.
 
 ### Fardeau de la preuve
@@ -878,7 +1009,9 @@ b) s’il conclut que la décision était déraisonnable, détermine pour l’ap
 ### Paiement
 
 54 (1) La personne à qui il est ordonné de rembourser une réclamation ou de payer les frais d’une instance liée à la réclamation en vertu de l’article 52 paie la somme qui lui a été ordonnée :
+
 a) s’il a été ordonné à la personne de rembourser une réclamation, dans le délai que précise l’ordonnance;
+
 b) si la personne donne un avis d’appel en vertu de l’article 53, dans les 30 jours après que le Tribunal rend une décision à l’égard de l’appel qui confirme tout ou partie de l’ordonnance de paiement des frais d’une instance associée à la réclamation.
 
 ### Exécution de l’ordonnance
@@ -892,10 +1025,15 @@ b) si la personne donne un avis d’appel en vertu de l’article 53, dans les 3
 ### Idem
 
 (4) Lorsque le directeur est informé par le président de la commission en vertu du paragraphe (3) :
+
 a) si plus de 30 jours se sont écoulés depuis la fin du délai imparti pour le paiement prévu au paragraphe (1) et qu’aucun appel de l’ordonnance n’a été interjeté au Tribunal, le directeur :
+
 (i) paie la somme due aux termes de l’ordonnance à la commission par prélèvement sur toute sécurité qu’il détient du marchand titulaire d’un permis ou de l’exploitant de services d’entreposage titulaire d’un permis;
+
 (ii) exige que le marchand titulaire d’un permis ou l’exploitant de services d’entreposage titulaire d’un permis dépose en sûreté auprès du directeur la somme que ce dernier a payée en application du sous-alinéa (i) pour rétablir la sûreté à son montant précédent;
+
 b) si plus de 30 jours se sont écoulés depuis la fin du délai imparti pour le paiement prévu au paragraphe (1) et qu’aucun appel de l’ordonnance n’a été interjeté au Tribunal, le directeur suspend le permis délivré au marchand ou à l’exploitant de services d’entreposage ou refuse de le renouveler jusqu’à ce que le marchand ou l’exploitant de services d’entreposage, selon le cas, paie la somme due ou conclue avec la commission un plan de paiement de la somme due que le président juge satisfaisant;
+
 c) si le marchand ou l’exploitant de services d’entreposage a conclu un plan de paiement avec la commission en application de l’alinéa b) et qu’il viole l’une des conditions du plan, le directeur suspend le permis délivré au marchand ou à l’exploitant de services d’entreposage ou refuse de le renouveler jusqu’à ce que le marchand ou l’exploitant de services d’entreposage, selon le cas, paie la somme due ou remédie à la violation du plan auprès de la commission.
 
 ### Aucun appel
@@ -905,7 +1043,9 @@ c) si le marchand ou l’exploitant de services d’entreposage a conclu un plan
 ### Défaut de paiement après 45 jours
 
 (6) Si plus de 45 jours se sont écoulés depuis la fin du délai imparti pour le paiement précisé dans l’ordonnance visée au paragraphe (1) et que la personne visée par l’ordonnance n’a pas encore payé la somme due, le président de la commission qui a pris l’ordonnance peut :
+
 a) soit divulguer à une agence de renseignements sur le consommateur le nom de la personne en défaut de paiement aux termes de l’ordonnance, la somme due aux termes de l’ordonnance et la date d’échéance du paiement;
+
 b) soit ordonner la création d’un privilège sur un bien de la personne en défaut de paiement.
 
 ### Renseignements à divulguer à l’agence
@@ -915,7 +1055,9 @@ b) soit ordonner la création d’un privilège sur un bien de la personne en d�
 ### Privilège sur un bien meuble
 
 (8) Si un privilège est créé sur un bien meuble en vertu de l’alinéa (6) b), la Loi sur les sûretés mobilières, sauf sa partie V, s’applique au privilège avec les adaptations nécessaires, malgré l’alinéa 4 (1) a) de cette loi, et :
+
 a) le privilège est réputé une sûreté qui grève le bien pour l’application de la Loi sur les sûretés mobilières ;
+
 b) le président de la commission qui a créé le privilège peut rendre la sûreté opposable pour l’application de la Loi sur les sûretés mobilières par enregistrement d’un état de financement.
 
 ### Privilège sur un bien immeuble
@@ -929,7 +1071,9 @@ b) le président de la commission qui a créé le privilège peut rendre la sûr
 ### Paiement exigé
 
 (11) Si un privilège est créé en vertu du paragraphe (8) ou (9) et que la personne paie la somme due en entier aux termes de l’ordonnance prise en vertu de l’article 52 qui a mené à la création du privilège ainsi que les frais d’enregistrement de celui-ci, le président de la commission qui a créé le privilège doit, dans les 10 jours suivant le jour où il apprend que la somme a été payée :
+
 a) dans le cas d’un privilège sur un bien meuble, donner mainlevée de l’enregistrement de tout état de financement;
+
 b) dans le cas d’un privilège sur un bien immeuble, enregistrer la mainlevée du privilège au bureau d’enregistrement immobilier compétent.
 
 ### Intérêts
@@ -949,11 +1093,17 @@ b) dans le cas d’un privilège sur un bien immeuble, enregistrer la mainlevée
 ### Délivrance d’un permis
 
 56 (1) Le directeur délivre un permis à tout auteur de demande qui satisfait aux exigences prescrites, sauf s’il a des motifs raisonnables de croire que, selon le cas :
+
 a) compte tenu de la conduite antérieure de l’auteur de la demande ou de celle de l’un de ses dirigeants, administrateurs ou représentants ou d’une autre personne ayant la gouverne réelle de ses activités, les activités que le permis autoriserait ne seront pas exercées conformément à la présente loi, aux règlements ou aux conditions dont le directeur assortit le permis;
+
 b) l’auteur de la demande, l’un de ses dirigeants, administrateurs ou représentants ou une autre personne ayant la gouverne réelle de ses activités n’a pas les qualités requises pour exercer les activités commerciales auxquelles se rapporte le permis;
+
 c) l’auteur de la demande n’aura pas à son établissement les installations ni l’équipement nécessaires pour exercer les activités commerciales qu’autorise le permis conformément à la présente loi ou aux règlements;
+
 d) l’auteur de la demande, l’un de ses dirigeants, administrateurs ou représentants ou une autre personne ayant la gouverne réelle de ses activités doit de l’argent à un fonds créé en application de l’article 26, à moins que celui-ci dispose d’un plan de remboursement et soit en règle en ce qui concerne le versement de paiements dans le cadre de ce plan;
+
 e) l’auteur de la demande, l’un de ses dirigeants, administrateurs ou représentants ou une autre personne ayant la gouverne réelle de ses activités n’est pas apte à être titulaire de permis, compte tenu des circonstances prescrites;
+
 f) il existe des motifs prescrits qui privent l’auteur de la demande du droit à la délivrance d’un permis.
 
 ### Intention de refuser la demande
@@ -967,7 +1117,9 @@ f) il existe des motifs prescrits qui privent l’auteur de la demande du droit 
 ### Demande de renouvellement
 
 (2) L’auteur de la demande de renouvellement présente celle-ci au directeur conformément à la présente loi et aux règlements et :
+
 a) verse les droits prescrits;
+
 b) satisfait aux autres exigences prescrites.
 
 ### Date limite
@@ -977,11 +1129,17 @@ b) satisfait aux autres exigences prescrites.
 ### Renouvellement
 
 (4) Le directeur renouvelle le permis de tout auteur de demande qui satisfait aux exigences prescrites, sauf s’il a des motifs raisonnables de croire que, selon le cas :
+
 a) il existe des motifs ou des circonstances susceptibles de priver l’auteur de la demande du droit à la délivrance d’un permis en application du paragraphe 56 (1);
+
 b) les locaux, les installations et l’équipement utilisés dans le cadre des activités qu’autorise le permis ne sont pas conformes à la présente loi ou aux règlements;
+
 c) l’auteur de la demande, l’un de ses dirigeants, administrateurs ou représentants ou une autre personne ayant la gouverne réelle de ses activités a contrevenu à une disposition de la présente loi, des règlements ou des conditions dont le permis est assorti, et la contravention justifie le refus de renouveler le permis;
+
 d) l’auteur de la demande a permis à une personne qui relève de lui en ce qui a trait aux activités qu’autorise le permis de contrevenir à une disposition de la présente loi ou des règlements ou à des conditions dont le permis est assorti, et cette contravention justifie le refus de renouveler le permis;
+
 e) l’auteur de la demande, l’un de ses dirigeants, administrateurs ou représentants ou une autre personne ayant la gouverne réelle de ses activités n’est pas apte ou ne sont pas aptes à être titulaires d’un permis compte tenu des circonstances prescrites;
+
 f) il existe des motifs prescrits qui privent l’auteur de la demande du droit au renouvellement d’un permis.
 
 ### Conditions
@@ -995,10 +1153,15 @@ f) il existe des motifs prescrits qui privent l’auteur de la demande du droit 
 ### Prorogation en attendant le renouvellement
 
 (7) Si la demande de renouvellement est présentée dans le délai visé au paragraphe (3) et qu’elle satisfait aux exigences du paragraphe (2), le permis demeure en vigueur après la date d’expiration :
+
 a) soit jusqu’à ce que le directeur avise l’auteur de la demande que le permis a été renouvelé;
+
 b) soit jusqu’à la première en date des éventualités suivantes, si le directeur entend refuser de renouveler le permis :
+
 (i) le jour de clôture du processus d’appel prévu à la présente partie,
+
 (ii) l’expiration du délai imparti pour demander une audience sur l’intention, si aucune demande à cet effet n’est présentée en application du paragraphe 61 (4);
+
 (iii) le jour où l’auteur de la demande fait savoir au directeur qu’il ne demande pas d’audience.
 
 ### Exception
@@ -1008,13 +1171,17 @@ b) soit jusqu’à la première en date des éventualités suivantes, si le dire
 ### Conditions et modifications
 
 58 (1) Le directeur peut à tout moment, par ordonnance et sans tenir d’audience préalable :
+
 a) assortir un permis des conditions qu’il juge appropriées;
+
 b) modifier un permis de la manière qu’il juge appropriée.
 
 ### Conditions du permis
 
 (2) Le permis est assorti des conditions propres à réaliser l’objet de la présente loi :
+
 a) qui sont imposées par l’effet de la présente partie;
+
 b) qui sont imposées en application de la présente loi ou qui doivent l’être en application des règlements.
 
 ### Entrée en vigueur
@@ -1032,11 +1199,17 @@ b) qui sont imposées en application de la présente loi ou qui doivent l’êtr
 ### Ordonnance provisoire de suspension sans audience
 
 59 (1) Le directeur suspend un permis par ordonnance provisoire et sans tenir d’audience préalable si, selon le cas :
+
 a) il a des motifs raisonnables de croire que la suspension est nécessaire pour protéger immédiatement :
+
 (i) la santé ou la sécurité d’une personne ou du public,
+
 (ii) les intérêts des personnes qui vendent des produits désignés,
+
 (iii) les intérêts des personnes qui entreposent des produits désignés,
+
 (iv) tout fonds créé en application de l’article 26;
+
 b) une des conditions prescrites pour que l’ordonnance soit prise a été remplie.
 
 ### Processus
@@ -1068,12 +1241,19 @@ b) une des conditions prescrites pour que l’ordonnance soit prise a été remp
 ### Champ d’application
 
 61 (1) Le présent article s’applique si le directeur prend l’une ou l’autre des mesures suivantes :
+
 1. Il entend refuser de délivrer un permis.
+
 2. Il entend refuser de renouveler un permis.
+
 3. Il entend suspendre ou d’annuler un permis.
+
 4. Il entend refuser de supprimer une condition dont un permis est assorti.
+
 5. Il prend une ordonnance qui assortit un permis de conditions.
+
 6. Il prend une ordonnance qui modifie un permis.
+
 7. Il prend une ordonnance provisoire de suspension d’un permis.
 
 ### Avis
@@ -1083,8 +1263,11 @@ b) une des conditions prescrites pour que l’ordonnance soit prise a été remp
 ### Contenu de l’avis d’intention ou de l’ordonnance
 
 (3) L’avis remis en application du paragraphe (2) et l’ordonnance prise en vertu de la présente partie comprennent les renseignements suivants :
+
 1. Les motifs de l’intention ou de l’ordonnance, selon le cas.
+
 2. La mention du droit de l’auteur de la demande ou du titulaire d’un permis de demander une audience devant le directeur concernant l’ordonnance et une explication à l’intention de l’auteur ou du titulaire des modalités de demande d’audience.
+
 3. Les autres renseignements prescrits à l’égard de l’intention ou de l’ordonnance.
 
 ### Droit à une audience
@@ -1102,14 +1285,19 @@ b) une des conditions prescrites pour que l’ordonnance soit prise a été remp
 ### Pouvoirs du directeur
 
 (7) S’il reçoit la demande écrite visée au paragraphe (4), le directeur peut prendre les décisions suivantes :
+
 1. Avant de tenir l’audience, le directeur peut décider de modifier ou de retirer l’intention ou l’ordonnance, selon le cas, si une telle décision ne serait pas contraire aux intérêts de l’auteur de la demande, du titulaire d’un permis ou d’une personne qui a un intérêt dans le permis.
+
 2. Après la tenue de l’audience, le directeur peut prendre toute décision qu’il estime raisonnable.
 
 ### Avis de la décision
 
 (8) Le directeur remet à l’auteur de la demande ou au titulaire d’un permis un avis écrit de la décision qui comprend les renseignements suivants :
+
 1. Les motifs de la décision.
+
 2. La mention du droit de l’auteur de la demande ou du titulaire d’un permis de demander une audience devant le Tribunal concernant l’ordonnance et une explication à l’intention de l’auteur ou du titulaire des modalités de demande d’audience.
+
 3. Les renseignements prescrits.
 
 ### Aucune demande d’audience
@@ -1149,9 +1337,13 @@ b) une des conditions prescrites pour que l’ordonnance soit prise a été remp
 ### Pouvoirs du Tribunal
 
 (7) Après l’audience en révision de la décision du directeur, le Tribunal :
+
 a) s’il conclut que la décision du directeur était raisonnable, confirme celle-ci;
+
 b) s’il conclut que la décision du directeur était déraisonnable, selon le cas :
+
 (i) substitue son opinion à celle du directeur et impose les conditions qu’il estime appropriées,
+
 (ii) enjoint au directeur de modifier la décision.
 
 ### Appel devant la Cour divisionnaire
@@ -1177,17 +1369,25 @@ b) s’il conclut que la décision du directeur était déraisonnable, selon le 
 ### Pouvoirs de la Cour
 
 (6) Après avoir entendu l’appel de la décision du Tribunal, la Cour :
+
 a) si elle conclut que la décision du Tribunal était raisonnable, confirme celle-ci;
+
 b) si elle conclut que la décision du Tribunal était déraisonnable, selon le cas :
+
 (i) substitue son opinion à celle du Tribunal et impose les conditions qu’elle estime appropriées,
+
 (ii) enjoint au directeur de modifier la décision,
+
 (iii) enjoint au Tribunal de réexaminer la décision.
 
 ### Registre de permis
 
 64 Le ministre peut, par règlement :
+
 a) exiger que le directeur crée un registre de permis qui est accessible au public et qui peut comprendre les noms de personnes qui ne sont pas tenues d’être titulaires d’un permis;
+
 b) prescrire le mode de création du registre ainsi que sa forme et son emplacement;
+
 c) prescrire les renseignements que le registre doit comprendre.
 
 ## Partie IX Inspections et exécution
@@ -1197,7 +1397,9 @@ c) prescrire les renseignements que le registre doit comprendre.
 ### Inspecteurs
 
 65 (1) Afin d’assurer le respect de la présente loi et des règlements, le directeur peut désigner des personnes comme inspecteurs conformément à ce qui suit :
+
 1. S’il est nommé par le ministre, le directeur ne peut désigner que des personnes employées par le ministère.
+
 2. S’il est nommé par l’organisme délégataire, le directeur ne peut désigner que des personnes employées par cet organisme.
 
 ### Désignation d’inspecteurs désignés en vertu d’autres lois
@@ -1227,14 +1429,23 @@ c) prescrire les renseignements que le registre doit comprendre.
 ### Pouvoirs de l’inspecteur
 
 (3) L’inspecteur qui effectue une inspection peut :
+
 a) examiner des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 b) demander la production de dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 c) sur remise d’un récépissé écrit à cet effet, enlever, pour procéder à des examens, des analyses ou des tests, des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 d) sur remise d’un récépissé écrit à cet effet, obtenir et enlever un produit désigné aux frais de son propriétaire;
+
 e) sur remise d’un récépissé écrit à cet effet, enlever, pour en tirer des copies, des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 f) afin de produire un dossier sous une forme lisible, recourir aux dispositifs ou systèmes de stockage, de traitement ou d’extraction des données qui sont utilisés habituellement pour exercer des activités commerciales dans le lieu;
+
 g) prendre des photographies ou procéder à tout autre genre d’enregistrement;
+
 h) se renseigner sur les activités financières, les dossiers et les autres questions qui se rapportent à l’inspection;
+
 i) exercer toute autre activité prescrite.
 
 ### Production de dossiers et aide obligatoires
@@ -1244,7 +1455,9 @@ i) exercer toute autre activité prescrite.
 ### Enlèvement de dossiers et de choses
 
 (5) Les dossiers ou autres choses enlevés pour examen, analyse, test ou copie sont :
+
 a) mis à la disposition de la personne à qui ils ont été enlevés, à la demande de celle-ci et aux date, heure et lieu qui conviennent à cette personne et à l’inspecteur;
+
 b) restitués à cette personne dans un délai raisonnable, sauf si, dans le cas d’une chose qui a fait l’objet de tests, la restitution de la chose est inappropriée à la suite de ces tests.
 
 ### Exécution
@@ -1252,8 +1465,11 @@ b) restitués à cette personne dans un délai raisonnable, sauf si, dans le cas
 ### Ordonnances de mise en conformité
 
 67 (1) Le présent article s’applique si le directeur ou un inspecteur que les règlements autorisent à prendre des ordonnances de mise en conformité est d’avis :
+
 a) soit qu’une personne commet un acte ou suit une ligne de conduite qui contrevient ou n’est pas conforme à une exigence établie en vertu de la présente loi, des règlements, d’un permis ou d’une condition dont un permis est assorti;
+
 b) soit qu’une personne commet un acte ou suit une ligne de conduite qui, selon toute attente raisonnable, risque de créer une situation qui contreviendrait ou ne serait pas conforme à une exigence établie en vertu de la présente loi, des règlements, d’un permis ou d’une condition dont un permis est assorti;
+
 c) soit qu’une personne a commis un acte ou a suivi une ligne de conduite qui contrevient ou n’est pas conforme à une exigence établie en vertu de la présente loi, des règlements, d’un permis ou d’une condition dont un permis est assorti.
 
 ### Ordonnance
@@ -1263,9 +1479,13 @@ c) soit qu’une personne a commis un acte ou a suivi une ligne de conduite qui 
 ### Contenu de l’ordonnance
 
 (3) L’ordonnance prise en vertu du paragraphe (2) comprend les renseignements suivants :
+
 1. Les délais dans lesquels la personne visée par l’ordonnance doit s’y conformer.
+
 2. Les motifs de l’ordonnance.
+
 3. La mention du droit de la personne de demander une audience devant le Tribunal concernant l’ordonnance et une explication à l’intention de la personne des modalités de demande d’audience.
+
 4. Les autres renseignements prescrits.
 
 ### Droit à une audience
@@ -1295,7 +1515,9 @@ c) soit qu’une personne a commis un acte ou a suivi une ligne de conduite qui 
 ### Pouvoirs du Tribunal
 
 (10) Après l’audience en révision de la décision du directeur ou de l’inspecteur de prendre l’ordonnance de mise en conformité, le Tribunal :
+
 a) s’il conclut que la décision était raisonnable, confirme celle-ci;
+
 b) s’il conclut que la décision était déraisonnable, annule celle-ci.
 
 ### Fardeau de la preuve
@@ -1309,21 +1531,33 @@ b) s’il conclut que la décision était déraisonnable, annule celle-ci.
 ### Exécution : produits désignés entreposés
 
 68 (1) Le directeur peut, par ordonnance, prendre les mesures suivantes s’il a des motifs raisonnables de croire qu’elles sont nécessaires pour protéger les intérêts d’un producteur ou d’un propriétaire d’un produit désigné qu’entrepose un exploitant de services d’entreposage :
+
 1. Exiger que l’exploitant cesse ses activités et, au besoin, scelle les conteneurs d’entreposage jusqu’à ce que la quantité du produit désigné entreposé puisse être établie.
+
 2. Saisir de l’exploitant tout ou partie du produit désigné.
+
 3. Placer tout ou partie du produit désigné sous le contrôle d’un autre exploitant de services d’entreposage.
+
 4. Distribuer le produit désigné à ses producteurs ou propriétaires de façon proportionnelle.
+
 5. Vendre tout ou partie du produit désigné et distribuer le produit de la vente aux producteurs ou aux propriétaires du produit désigné de façon proportionnelle.
+
 6. Souscrire un contrat d’assurance pour le produit désigné auprès d’un assureur titulaire d’un permis délivré en vertu de la Loi sur les assurances.
+
 7. Les mesures prescrites.
 
 ### Ordonnance du directeur
 
 (2) L’ordonnance prise en vertu du paragraphe (1) comprend les renseignements suivants :
+
 1. S’il y a lieu, les mesures que le directeur prendra ou qu’il exige que l’exploitant de services d’entreposage prenne, selon le cas.
+
 2. Les délais dans lesquels l’exploitant de services d’entreposage doit se conformer à l’ordonnance.
+
 3. Les motifs de l’ordonnance.
+
 4. La mention du droit de l’exploitant de services d’entreposage de demander une audience devant le Tribunal concernant l’ordonnance et une explication à l’intention de l’exploitant des modalités de demande d’audience.
+
 5. Les renseignements prescrits.
 
 ### Ordonnance relative aux frais
@@ -1333,15 +1567,21 @@ b) s’il conclut que la décision était déraisonnable, annule celle-ci.
 ### Contenu d’une l’ordonnance relative aux frais
 
 (4) L’ordonnance rendue en vertu du paragraphe (3) comprend ce qui suit :
+
 a) la somme que l’exploitant de services d’entreposage est tenu de verser;
+
 b) une description des frais exigés;
+
 c) des copies de récépissés pour les frais exigés;
+
 d) les autres renseignements prescrits.
 
 ### Paiement
 
 (5) La somme due prévue par une ordonnance relative aux frais est payable :
+
 a) à Sa Majesté le Roi du chef de l’Ontario, si le ministre a nommé le directeur;
+
 b) à l’organisme délégataire, si celui-ci a nommé le directeur.
 
 ### Aucun appel
@@ -1357,6 +1597,7 @@ b) à l’organisme délégataire, si celui-ci a nommé le directeur.
 ### Interprétation
 
 (2) La définition qui suit s’applique aux articles 71 à 78.
+
 «organisme d’appel» L’organisme d’appel prescrit ou, à défaut, le Tribunal.
 
 ### Loi sur l’exercice des compétences légales
@@ -1366,7 +1607,9 @@ b) à l’organisme délégataire, si celui-ci a nommé le directeur.
 ### Objets
 
 71 (1) Une pénalité administrative peut être imposée en application de l’article 70 aux fins suivantes :
+
 1. Encourager l’observation des exigences établies par la présente loi et les règlements.
+
 2. Empêcher qu’une personne ou une entité tire, directement ou indirectement, des avantages économiques d’une contravention à une exigence établie par la présente loi ou de l’inobservation d’une telle exigence.
 
 ### Autres mesures réglementaires
@@ -1380,15 +1623,21 @@ b) à l’organisme délégataire, si celui-ci a nommé le directeur.
 ### Paiement
 
 (4) La somme due prévue par une pénalité administrative est payable :
+
 a) à Sa Majesté le Roi du chef de l’Ontario, si le ministre a nommé le directeur;
+
 b) à l’organisme délégataire, si celui-ci a nommé le directeur;
 
 ### Contenu de l’ordonnance
 
 (5) L’ordonnance prise en vertu du paragraphe (3) comprend les renseignements suivants :
+
 1. Le montant de la pénalité et les modalités de paiement.
+
 2. Les motifs de l’ordonnance.
+
 3. La mention du droit de la personne ou de l’entité de demander une audience devant l’organisme d’appel concernant l’ordonnance et une explication à l’intention de la personne des modalités de demande d’audience.
+
 4. Les renseignements prescrits.
 
 ### Date limite
@@ -1398,7 +1647,9 @@ b) à l’organisme délégataire, si celui-ci a nommé le directeur;
 ### Responsabilité absolue
 
 (7) L’ordonnance rendue en vertu du paragraphe (3) imposant une pénalité administrative à une personne s’applique même si, selon le cas :
+
 a) la personne a pris toutes les mesures raisonnables pour empêcher la contravention sur laquelle l’ordonnance se fonde;
+
 b) au moment de la contravention, la personne croyait raisonnablement et en toute honnêteté à l’existence de faits erronés qui, avérés, auraient rendu la contravention non blâmable.
 
 ### Audience non obligatoire
@@ -1428,7 +1679,9 @@ b) au moment de la contravention, la personne croyait raisonnablement et en tout
 ### Pouvoirs de l’organisme d’appel
 
 (5) Après l’audience en révision de la décision du directeur de prendre l’ordonnance, l’organisme d’appel :
+
 a) confirme l’ordonnance, s’il conclut que la décision du directeur était raisonnable;
+
 b) révoque l’ordonnance, s’il conclut que la décision du directeur était déraisonnable.
 
 ### Fardeau de la preuve
@@ -1450,7 +1703,9 @@ b) révoque l’ordonnance, s’il conclut que la décision du directeur était 
 ### Délai de paiement
 
 74 Une personne est tenue de payer la pénalité administrative :
+
 a) au moment précisé dans l’ordonnance prise en vertu du paragraphe 71 (3), si aucune demande d’audience n’est présentée;
+
 b) 30 jours après le jour où l’organisme d’appel rend une décision, si la décision consiste à enjoindre au directeur d’imposer la pénalité administrative proposée.
 
 ### Effet du paiement
@@ -1468,32 +1723,51 @@ b) 30 jours après le jour où l’organisme d’appel rend une décision, si la
 ### Autres recours
 
 (3) Sans préjudice des autres recours dont il peut se prévaloir, le directeur peut prendre une ou plusieurs des mesures suivantes si une personne ne paie pas une pénalité administrative imposée en vertu de la présente partie conformément aux conditions de l’ordonnance qui l’impose :
+
 1. Faire acquitter la pénalité administrative par prélèvement sur toute sûreté que le directeur détient au nom du marchand titulaire d’un permis ou de l’exploitant de services d’entreposage titulaire d’un permis, et exiger que le marchand ou l’exploitant de services d’entreposage dépose auprès du directeur toute sûreté additionnelle qui est nécessaire pour rétablir la sûreté à son montant précédent.
+
 2. Si aucun paiement n’est fait conformément aux conditions de l’ordonnance dans les 30 jours suivant la date limite pour acquitter une pénalité administrative, suspendre tout permis dont la personne est titulaire conformément à la présente loi jusqu’à l’acquittement de la pénalité administrative. Une telle suspension ne peut faire l’objet d’un appel devant le Tribunal.
+
 3. Si aucun paiement n’est fait conformément aux conditions de l’ordonnance dans les 30 jours suivant la date limite pour acquitter une pénalité administrative, refuser de renouveler le permis de la personne jusqu’à l’acquittement de la pénalité administrative. Une telle suspension ne peut faire l’objet d’un appel devant le Tribunal.
+
 4. Si aucun paiement n’est fait conformément aux conditions de l’ordonnance dans les 45 jours suivant la date limite pour acquitter une pénalité administrative, divulguer à une agence de renseignements sur le consommateur le nom de la personne en défaut de paiement aux termes de l’ordonnance, la somme due aux termes de l’ordonnance et la date limite pour acquitter la pénalité administrative. Lorsque le directeur prend une telle mesure, il avise l’agence dans les 10 jours suivant la réception d’un avis d’acquittement de la pénalité administrative.
+
 5. Si aucun paiement n’est fait dans les 60 jours suivant la date limite pour acquitter une pénalité administrative, le directeur peut, par ordonnance, créer un privilège sur les biens de la personne.
 
 ### Idem : privilège
 
 (4) Si le directeur crée, par ordonnance, un privilège en vertu de la disposition 5 du paragraphe (3), les règlements suivants s’appliquent :
+
 1. Si le privilège concerne des biens meubles :
+
 i. la Loi sur les sûretés mobilières, à l’exclusion de la partie V, s’applique avec les adaptations nécessaires au privilège, malgré l’alinéa 4 (1) a) de cette loi,
+
 ii. le privilège est réputé être une sûreté qui grève les biens meubles pour l’application de la Loi sur les sûretés mobilières,
+
 iii. le directeur peut rendre la sûreté opposable pour l’application de la Loi sur les sûretés mobilières en enregistrant un état de financement en application de cette loi.
+
 2. Si le privilège concerne un bien immeuble :
+
 i. le directeur peut enregistrer le privilège à l’égard du bien immeuble de la personne tenue d’acquitter la pénalité administrative au bureau d’enregistrement immobilier compétent et l’obligation qui découle du privilège devient une charge sur le bien,
+
 ii. aucune instance ne peut être introduite à l’égard du privilège,
+
 iii. dans les 10 jours suivant le jour où il apprend que la somme due liée à la pénalité administrative a été acquittée, le directeur donne mainlevée de l’enregistrement de l’état de financement ou enregistre une mainlevée de la charge créée sur le titre.
 
 ### Produit
 
 77 Les règles suivantes s’appliquent à l’égard du produit de l’acquittement d’une pénalité administrative :
+
 1. Si la pénalité administrative a été imposée par un directeur nommé par le ministre ou par un organisme délégataire qui est un mandataire de la Couronne, le produit est versé :
+
 i. dans un fonds créé à l’égard du produit désigné auquel se rapporte la pénalité,
+
 ii. si aucun fonds n’a été créé, au Trésor.
+
 2. Si la pénalité administrative a été imposée par un directeur nommé par un organisme délégataire qui n’est pas un mandataire de la Couronne, le produit est placé :
+
 i. dans un fonds créé à l’égard du produit désigné auquel se rapporte la pénalité,
+
 ii. si aucun fonds n’a été créé, dans le compte de l’organisme délégataire.
 
 ### Disposition transitoire
@@ -1511,34 +1785,55 @@ ii. si aucun fonds n’a été créé, dans le compte de l’organisme délégat
 ### Organisme délégataire
 
 79 (1) S’il est satisfait aux exigences des articles 80 et 81, le ministre peut, par règlement :
+
 a) désigner une personne morale comme organisme délégataire pour l’application de la présente loi afin d’appliquer les dispositions déléguées;
+
 b) sous réserve du paragraphe (3), prescrire les dispositions déléguées de la présente loi et des règlements qu’un organisme délégataire est chargé d’appliquer.
 
 ### Restrictions
 
 (2) La délégation visée à l’alinéa (1) b) peut être restreinte à ce qui suit :
+
 a) les aspects ou objets déterminés des dispositions précisées;
+
 b) les personnes ou catégories de personnes déterminées auxquelles s’appliquent les dispositions déterminées;
+
 c) les programmes ou parties de programmes déterminés;
+
 d) les parties déterminées de l’Ontario;
+
 e) les périodes déterminées.
+
 Dispositions exemptées
+
 (3) Les dispositions suivantes de la présente loi ne sont pas prescrites comme dispositions déléguées :
+
 1. Les dispositions de la présente partie.
+
 2. Les articles 116 et 117.
+
 3. Si l’organisme délégataire est un organisme de la Couronne, les dispositions suivantes :
+
 i. l’article 118,
+
 ii. les dispositions de la partie XIII.
 
 ### Plus d’un organisme délégataire
 
 (4) Deux personnes morales ou plus peuvent être prescrites aux fins suivantes :
+
 a) l’application de diverses dispositions déterminées de la présente loi;
+
 b) l’application des mêmes dispositions déterminées, mais à l’égard, selon le cas :
+
 (i) d’aspects ou objets déterminés différents,
+
 (ii) de personnes ou catégories de personnes déterminées différentes,
+
 (iii) de programmes ou parties de programmes déterminés différents,
+
 (iv) de parties déterminées de l’Ontario différentes,
+
 (v) de périodes déterminées différentes.
 
 ### Plus d’un produit désigné ou fonds
@@ -1548,8 +1843,11 @@ b) l’application des mêmes dispositions déterminées, mais à l’égard, se
 ### Rétroactivité
 
 (6) La délégation de dispositions n’a pas pour effet :
+
 a) d’entraîner la nullité de ce qui a été fait en vertu des dispositions déléguées avant le jour de l’entrée en vigueur du règlement qui délègue les dispositions, notamment les règlements, les nominations et les inscriptions;
+
 b) d’entraîner la nullité de ce qui a été fait dans le cadre de la Loi sur le recouvrement du prix des produits agricoles, de la Loi sur le grain ou de la Loi sur le bétail et les produits du bétail, ni dans le cadre de leurs règlements respectifs, avant le jour de l’entrée en vigueur du règlement qui délègue les dispositions;
+
 c) de porter atteinte aux inspections, aux enquêtes ou aux instances commencées dans le cadre des dispositions déléguées avant le jour de l’entrée en vigueur du règlement qui délègue les dispositions.
 
 ### Personnes liées
@@ -1559,7 +1857,9 @@ c) de porter atteinte aux inspections, aux enquêtes ou aux instances commencée
 ### Admissibilité à être prescrite comme organisme délégataire
 
 80 Peut être prescrite comme organisme délégataire toute personne morale qui est :
+
 a) soit un organisme de la Couronne;
+
 b) soit une personne morale sans but lucratif et sans capital-actions qui n’est pas un organisme de la Couronne et qui est constituée aux termes des lois de l’Ontario.
 
 ### Accord d’application obligatoire
@@ -1569,8 +1869,11 @@ b) soit une personne morale sans but lucratif et sans capital-actions qui n’es
 ### Contenu
 
 (2) L’accord d’application traite de toutes les questions que le ministre estime nécessaires pour déléguer l’application des dispositions déléguées à l’organisme délégataire, y compris, au minimum :
+
 a) les exigences relatives à la gouvernance de l’organisme délégataire, sauf s’il s’agit d’un organisme de la Couronne;
+
 b) les exigences que doit respecter l’organisme délégataire relativement à l’application des dispositions déléguées, notamment une exigence l’obligeant à avoir une assurance suffisante de la responsabilité découlant de l’application de ces dispositions;
+
 c) les conditions financières de la délégation, y compris les paiements à la Couronne, les droits à acquitter pour l’obtention d’un permis, les redevances et les remboursements pour les transferts d’éléments d’actif.
 
 ### Modification apportée par le ministre
@@ -1592,7 +1895,9 @@ c) les conditions financières de la délégation, y compris les paiements à la
 ### Obligation d’informer le ministre
 
 84 (1) L’organisme délégataire informe et conseille promptement le ministre en ce qui concerne :
+
 a) tout fait important qui pourrait avoir une incidence sur la capacité de l’organisme à exercer les fonctions que lui confèrent la présente loi ou les règlements;
+
 b) toute question urgente ou cruciale qui exigera vraisemblablement l’intervention du ministre pour assurer la bonne application des dispositions déléguées.
 
 ### Idem
@@ -1602,8 +1907,11 @@ b) toute question urgente ou cruciale qui exigera vraisemblablement l’interven
 ### Incompatibilité
 
 85 En cas d’incompatibilité, la présente loi et les règlements l’emportent sur ce qui suit :
+
 a) l’accord d’application;
+
 b) les documents constitutifs, les règlements administratifs et les résolutions de l’organisme délégataire;
+
 c) la Loi de 2010 sur les organisations sans but lucratif, la Loi sur les renseignements exigés des personnes morales ou un règlement pris en vertu de l’une ou l’autre de ces lois.
 
 ### Responsabilité et indemnisation
@@ -1639,9 +1947,13 @@ c) la Loi de 2010 sur les organisations sans but lucratif, la Loi sur les rensei
 ### Immunité : membres du conseil d’administration et autres personnes
 
 (8) Sont irrecevables les actions ou autres instances introduites contre les personnes suivantes, ou quiconque était antérieurement une des personnes suivantes, pour un acte accompli de bonne foi dans l’exercice effectif ou censé tel d’un pouvoir ou d’une fonction que lui confèrent la présente loi ou les règlements ou pour une négligence ou un manquement qu’elle aurait commis dans l’exercice de bonne foi du pouvoir ou de la fonction :
+
 1. Les membres du conseil d’administration de l’organisme délégataire.
+
 2. Les personnes qui exercent des fonctions que leur confèrent la présente loi ou les règlements à titre d’employés ou de dirigeants de l’organisme délégataire.
+
 3. Le directeur ou un directeur adjoint.
+
 4. Les inspecteurs.
 
 ### Responsabilité de l’organisme délégataire
@@ -1679,11 +1991,17 @@ c) la Loi de 2010 sur les organisations sans but lucratif, la Loi sur les rensei
 ### Pouvoir ministériel d’exiger des examens
 
 89 (1) Le ministre peut, par arrêté :
+
 a) exiger que des examens des politiques, de la législation ou de la réglementation liés aux dispositions déléguées, aux pouvoirs et fonctions de l’organisme délégataire et à l’accord d’application soient effectués :
+
 (i) soit par l’organisme délégataire ou pour son compte,
+
 (ii) soit par une personne ou une entité précisée par le ministre;
+
 b) exiger que des examens de l’organisme délégataire, de ses activités ou des deux, notamment du rendement, de la gouvernance, de la responsabilisation et des finances, soient effectués :
+
 (i) soit par l’organisme délégataire ou pour son compte,
+
 (ii) soit par une personne précisée par le ministre.
 
 ### Accès aux dossiers et aux renseignements
@@ -1699,8 +2017,11 @@ b) exiger que des examens de l’organisme délégataire, de ses activités ou d
 ### Non-conformité
 
 (2) Le ministre peut, par règlement, révoquer la désignation de l’organisme délégataire faite en vertu de l’alinéa 79 (1) a) ou restreindre la délégation faite en vertu de l’alinéa 79 (1) b) si, à la fois :
+
 a) l’organisme délégataire ne s’est pas conformé à la présente loi, aux règlements, à une autre règle de droit applicable ou à l’accord d’application;
+
 b) le ministre a donné à l’organisme délégataire l’occasion de remédier à la situation dans le délai que le ministre estime raisonnable dans les circonstances;
+
 c) l’organisme délégataire n’a pas remédié à la situation dans le délai imparti pour ce faire.
 
 ### Aucun effet sur le par. (1)
@@ -1718,7 +2039,9 @@ c) l’organisme délégataire n’a pas remédié à la situation dans le déla
 ### Disposition transitoire
 
 (6) S’il révoque la désignation de l’organisme délégataire ou en restreint la portée en vertu du présent article, le ministre peut, par règlement, prévoir les questions transitoires nécessaires à la mise en application efficace de la révocation ou de la restriction, notamment :
+
 a) le transfert de toute propriété, sans versement d’indemnité, y compris de l’actif, du passif, des droits, des obligations, des dossiers, des bases de données, des comptes et de l’argent que l’organisme délégataire détient pour l’exercice de ses activités;
+
 b) la cession, sans versement d’indemnité, des contrats que l’organisme délégataire a conclus avant la révocation.
 
 ### Pouvoirs et fonctions
@@ -1754,6 +2077,7 @@ b) la cession, sans versement d’indemnité, des contrats que l’organisme dé
 ### Définition
 
 (4) La définition qui suit s’applique au présent article.
+
 «service» Service ou procédure qu’un organisme délégataire fournit au public dans le cadre de l’application des dispositions déléguées, y compris répondre aux demandes de renseignements du public et effectuer toutes les autres communications utiles pour fournir le service ou la procédure.
 
 ### Loi de 2005 sur l’accessibilité pour les personnes handicapées de l’Ontario
@@ -1763,8 +2087,11 @@ b) la cession, sans versement d’indemnité, des contrats que l’organisme dé
 ### Formulaires et droits
 
 94 (1) L’organisme délégataire peut :
+
 a) créer des formulaires relatifs à l’application des dispositions déléguées dont il est chargé et en prévoir le contenu;
+
 b) fixer et percevoir des droits, coûts ou autres frais relativement à l’application des dispositions déléguées dont il est chargé conformément aux procédures et aux critères qu’il établit et qu’approuve le ministre;
+
 c) établir des règles régissant le paiement des droits, coûts et frais visés à l’alinéa b).
 
 ### Fixation des droits
@@ -1774,21 +2101,29 @@ c) établir des règles régissant le paiement des droits, coûts et frais visé
 ### Publication du barème des droits
 
 (3) L’organisme délégataire :
+
 a) doit publier les droits, coûts et frais, les procédures et les critères ainsi que les règles sur son site Web et de toute autre manière indiquée dans l’accord d’application;
+
 b) peut publier ces renseignements sur tout autre support qu’il estime indiqué.
 
 ### Conseils consultatifs et consultations obligatoires
 
 95 Le ministre peut exiger que l’organisme délégataire :
+
 a) forme un ou plusieurs conseils consultatifs;
+
 b) inclue, en tant que membres d’un conseil consultatif, des représentants du public, des producteurs, des marchands, des groupements de production agricole, des organismes gouvernementaux et les autres personnes que le ministre juge appropriées;
+
 c) entreprenne des consultations au cours desquelles il veille à ce que le conseil consultatif demande l’avis du public, de personnes possédant de l’expérience ou des connaissances relativement à la présente loi et aux dispositions déléguées ou des deux.
 
 ### Renseignements à la disposition du public
 
 96 (1) L’organisme délégataire met les renseignements suivants sur son site Web dans le délai prescrit :
+
 a) les renseignements prescrits concernant la rémunération des membres de son conseil d’administration, de ses dirigeants et de ses employés et ceux concernant les autres paiements qu’il leur fait ou est tenu de leur faire;
+
 b) ses règlements administratifs;
+
 c) les autres renseignements prescrits.
 
 ### Idem : disposition transitoire
@@ -1802,7 +2137,9 @@ c) les autres renseignements prescrits.
 ### Effet de la divulgation
 
 (4) La divulgation de renseignements concernant la rémunération conformément au présent article, ou pour des motifs qui permettent raisonnablement de croire que la divulgation est exigée par le présent article, ne doit pas être considérée par un tribunal ou une personne :
+
 a) soit comme contrevenant à une loi adoptée ou à un règlement pris avant ou après l’entrée en vigueur du présent article;
+
 b) soit comme contrevenant ou étant contraire à une entente visant à limiter ou à interdire la divulgation, que l’entente soit conclue avant ou après l’entrée en vigueur du présent article.
 
 ### Questions générales
@@ -1818,7 +2155,9 @@ b) soit comme contrevenant ou étant contraire à une entente visant à limiter 
 ### Pouvoir ministériel : conseil d’administration, admissibilité et mise en candidature
 
 98 (1) Le ministre peut :
+
 a) par arrêté, établir des critères de compétence pour les membres du conseil d’administration de l’organisme délégataire;
+
 b) par règlement, relativement au conseil d’administration de l’organisme délégataire, établir des règles concernant la mise en candidature des membres, le processus à suivre pour leur nomination ou leur élection, la durée de leur mandat et la possibilité de les nommer ou de les élire de nouveau.
 
 ### Qualités requises
@@ -1856,8 +2195,11 @@ b) par règlement, relativement au conseil d’administration de l’organisme d
 ### Non des employés de la Couronne
 
 (2) Les personnes suivantes ne sont pas des employés de la Couronne et ne doivent pas se faire passer pour tels :
+
 1. Les personnes qui sont employées ou dont les services sont retenus en vertu du paragraphe (1).
+
 2. Les membres, dirigeants et mandataires de l’organisme délégataire.
+
 3. Les membres du conseil d’administration de l’organisme délégataire, y compris ceux nommés par le ministre.
 
 ### Non un organisme de la Couronne
@@ -1867,8 +2209,11 @@ b) par règlement, relativement au conseil d’administration de l’organisme d
 ### Idem
 
 (2) Les personnes suivantes ne sont pas des mandataires de la Couronne et ne doivent pas se faire passer pour tels :
+
 1. Les personnes qui sont employées ou dont les services sont retenus en vertu du paragraphe 99 (1).
+
 2. Les membres, dirigeants et administrateurs de l’organisme délégataire.
+
 3. Les membres du conseil d’administration de l’organisme délégataire, y compris ceux nommés par le ministre.
 
 ### Non des deniers publics
@@ -1878,7 +2223,9 @@ b) par règlement, relativement au conseil d’administration de l’organisme d
 ### Idem
 
 (2) L’organisme délégataire peut utiliser les sommes visées au paragraphe (1) pour exercer des activités conformément à ses objets, sous réserve :
+
 a) du paragraphe 42 (1) (versements dans le fonds);
+
 b) de l’accord d’application.
 
 ### Vérification par le vérificateur général
@@ -1904,9 +2251,13 @@ b) de l’accord d’application.
 ### Pouvoir ministériel de nommer un administrateur général
 
 104 (1) Le ministre peut, par arrêté, nommer un particulier au poste d’administrateur général de l’organisme délégataire pour qu’il assume la direction de l’organisme et la responsabilité de ses activités conformément aux dispositions déléguées s’il est d’avis que cela est souhaitable dans l’intérêt public parce qu’au moins une des conditions suivantes est remplie :
+
 1. L’exercice du pouvoir est nécessaire pour empêcher qu’un préjudice grave soit causé aux intérêts des producteurs ou propriétaires d’un produit désigné ou à un fonds que l’organisme délégataire est chargé d’administrer.
+
 2. Un cas de force majeure est survenu.
+
 3. L’organisme délégataire risque l’insolvabilité.
+
 4. Le conseil d’administration de l’organisme délégataire ne compte pas suffisamment de membres pour former le quorum.
 
 ### Préavis de nomination
@@ -1928,7 +2279,9 @@ b) de l’accord d’application.
 ### Idem
 
 (6) Il est entendu que les pouvoirs de l’administrateur général visés au paragraphe (5) comprennent le pouvoir de faire ce qui suit :
+
 a) régler les réclamations présentées à un fonds dont l’organisme délégataire était responsable;
+
 b) nommer une ou plusieurs personnes pour régler ces réclamations.
 
 ### Idem
@@ -1992,19 +2345,29 @@ b) nommer une ou plusieurs personnes pour régler ces réclamations.
 ### Interdiction : entrave
 
 107 Nul ne doit gêner ou entraver, ni tenter de gêner ou d’entraver :
+
 a) le directeur ou un directeur adjoint qui exerce les fonctions que lui confère la présente loi;
+
 b) le travail d’un inspecteur qui fait une inspection.
 
 ### Infractions de type A
 
 108 (1) Est coupable d’une infraction de type A quiconque contrevient ou ne se conforme pas aux dispositions suivantes :
+
 1. Le paragraphe 5 (1).
+
 2. L’article 7.
+
 3. Le paragraphe 10 (1).
+
 4. L’article 12.
+
 5. Les paragraphes 41 (1), (2) et (3).
+
 6. L’article 106.
+
 7. L’article 107.
+
 8. Toute autre disposition de la présente loi ou des règlements qui est prescrite comme infraction de type A.
 
 ### Idem : conditions du permis
@@ -2022,24 +2385,39 @@ b) le travail d’un inspecteur qui fait une inspection.
 ### Infractions de type B
 
 109 Est coupable d’une infraction de type B chaque marchand ou, si le marchand est une personne morale, chaque administrateur, dirigeant, employé ou mandataire de la personne morale ou autre personne qui en a la gouverne réelle, qui contrevient ou ne se conforme pas aux dispositions suivantes :
+
 1. Les paragraphes 22 (2), (3), (5), (6) et (7).
+
 2. Les paragraphes 23 (3), (4) et (5).
+
 3. Toute autre disposition de la présente loi ou des règlements qui est prescrite comme infraction de type B.
 
 ### Infractions de type C
 
 110 Est coupable d’une infraction de type C quiconque contrevient ou ne se conforme pas aux dispositions suivantes :
+
 1. Les paragraphes 5 (2) et (3).
+
 2. L’article 6.
+
 3. L’article 9.
+
 4. Les paragraphes 10 (2) et (3).
+
 5. L’article 11.
+
 6. Les paragraphes 15 (1) et (3).
+
 7. Les paragraphes 16 (1) à (4) et, à moins que le directeur n’ait délivré une autorisation écrite de niveau déficitaire, le paragraphe (5).
+
 8. Le paragraphe 17 (2) et l’alinéa 17 (3) b).
+
 9. L’article 18.
+
 10. Le paragraphe 19 (1).
+
 11. L’article 114.
+
 12. Toute autre disposition de la présente loi ou des règlements qui est prescrite comme infraction de type C.
 
 ### Pénalités
@@ -2047,19 +2425,25 @@ b) le travail d’un inspecteur qui fait une inspection.
 ### Infractions de type A
 
 111 (1) Quiconque est déclaré coupable d’une infraction de type A prévue par la présente loi est passible d’une amende :
+
 a) d’au plus 10 000 $ pour la première infraction;
+
 b) d’au plus 25 000 $ pour les infractions subséquentes.
 
 ### Infractions de type B
 
 (2) Quiconque est déclaré coupable d’une infraction de type B prévue par la présente loi est passible d’une amende :
+
 a) d’au plus 25 000 $ pour la première infraction;
+
 b) d’au plus 50 000 $ pour les infractions subséquentes.
 
 ### Infractions de type C
 
 (3) Quiconque est déclaré coupable d’une infraction de type C prévue par la présente loi est passible d’une amende :
+
 a) d’au plus 2 000 $ pour la première infraction;
+
 b) d’au plus 5 000 $ pour les infractions subséquentes.
 
 ### Augmentation de la pénalité
@@ -2081,8 +2465,11 @@ b) d’au plus 5 000 $ pour les infractions subséquentes.
 ### Ordonnance de dédommagement : restrictions
 
 (3) Le tribunal ne peut rendre une ordonnance de dédommagement en vertu du paragraphe (1) que si les conditions suivantes sont remplies :
+
 a) le poursuivant a demandé l’ordonnance;
+
 b) la personne qui a subi des dommages consent à ce que soit rendue l’ordonnance;
+
 c) les dommages faisant l’objet de l’ordonnance sont facilement vérifiables.
 
 ### Plus d’une personne déclarée coupable
@@ -2092,7 +2479,9 @@ c) les dommages faisant l’objet de l’ordonnance sont facilement vérifiables
 ### Action civile
 
 (5) L’ordonnance de dédommagement rendue en vertu du paragraphe (1) éteint le droit de la personne qui a subi les dommages d’intenter une action civile en dommages-intérêts contre la personne qui a été déclarée coupable de l’infraction sur la base des mêmes faits que ceux qui ont mené à la déclaration de culpabilité pour l’infraction, à moins que les conditions suivantes ne soient réunies :
+
 a) le montant des dommages-intérêts fixé par le tribunal dans l’ordonnance est inférieur à la valeur des dommages effectivement subis;
+
 b) au moment où l’ordonnance a été rendue, le tribunal ne pouvait raisonnablement connaître l’étendue des dommages.
 
 ### Idem
@@ -2106,7 +2495,9 @@ b) au moment où l’ordonnance a été rendue, le tribunal ne pouvait raisonnab
 ### Aucun recouvrement en double
 
 (8) Si une commission ou un organisme délégataire a versé une réclamation par rapport à un produit désigné par la partie VII ou a engagé des frais afin de régler une telle réclamation :
+
 a) l’ordonnance de dédommagement rendue en vertu du paragraphe (1) n’inclut pas toute somme que la commission ou l’organisme délégataire a versée par rapport à un produit désigné par la partie VII ou qui a déjà été recouvrée;
+
 b) dès que possible après que l’ordonnance de dédommagement est rendue en vertu du paragraphe (1), le président de la commission ou le président du conseil d’administration de l’organisme délégataire, selon le cas, annule les ordonnances prises en vertu de l’article 52.
 
 ### Exécution de l’ordonnance de dédommagement
@@ -2120,13 +2511,21 @@ b) dès que possible après que l’ordonnance de dédommagement est rendue en v
 ### Confidentialité
 
 114 Toute personne qui travaille pour un organisme délégataire et qui obtient des renseignements dans l’exercice de pouvoirs ou de fonctions qui se rapportent à l’application des dispositions déléguées est tenu au secret à leur égard, sauf, selon le cas :
+
 a) dans la mesure où l’exige toute instance introduite en vertu de la présente loi ou l’application de la présente loi ou des règlements;
+
 b) si le ministre demande à la personne de lui fournir les renseignements;
+
 c) dans la mesure où l’autorise la Loi de 2007 sur la modernisation de la réglementation ;
+
 d) si la loi exige que les renseignements soient fournis à un organisme chargé de l’exécution de la loi;
+
 e) si la personne fournit les renseignements à son avocat;
+
 f) avec le consentement de la personne ou de l’entité à laquelle se rapportent les renseignements;
+
 g) pour fournir les renseignements à une entité prescrite ou à une organisation prescrite qui est autorisée par la loi à les recueillir et à les utiliser;
+
 h) dans toute autre situation prescrite ou à toute autre fin prescrite.
 
 ### Témoignage
@@ -2144,8 +2543,11 @@ h) dans toute autre situation prescrite ou à toute autre fin prescrite.
 ### Preuve
 
 117 (1) Aux fins des instances, toute attestation de signification qui semble avoir signée par le ministre, le directeur ou un inspecteur constitue une preuve de signification sans qu’il soit nécessaire d’établir l’authenticité de la signature si le ministre, le directeur or inspecteur, selon le cas, prend les mesures suivantes :
+
 a) il atteste que la copie du document en est une copie conforme;
+
 b) il atteste que le document a été signifié au destinataire;
+
 c) il indique dans l’attestation le mode de signification utilisé.
 
 ### Idem
@@ -2161,15 +2563,25 @@ c) il indique dans l’attestation le mode de signification utilisé.
 ### Règlements
 
 118 (1) Pour l’application de la présente loi, le ministre peut, par règlement :
+
 a) prescrire tout ce qui est indiqué dans la présente loi comme étant prescrit;
+
 b) définir des mots ou expressions employés mais non définis dans la présente loi;
+
 c) exempter une personne ou une catégorie de personnes de l’application de la totalité ou d’une partie de la présente loi ou des règlements et énoncer les conditions de l’exemption;
+
 d) régir le prélèvement d’échantillons d’un produit désigné, notamment prescrire les produits désignés dont un échantillon peut être prélevé et régir les activités d’échantillonnage;
+
 e) prescrire des formulaires et en prévoir l’utilisation;
+
 f) prescrire les droits à verser en application de la présente loi à l’égard de la délivrance d’un permis, des dépôts tardifs et d’autres questions d’ordre administratif;
+
 g) régir les ententes et contrats prévus par la présente loi, notamment prescrire les exigences auxquelles ceux-ci doivent satisfaire et les conditions dont ils doivent être assortis;
+
 h) régir les arrêtés, ordres, ordonnances et avis prévus par la présente loi, notamment prescrire les renseignements qu’ils doivent comprendre;
+
 i) régir la signification des avis, ordres, ordonnances, arrêtés ou autres documents, y compris déclarer que la signification est réputée avoir été effectuée à une date fixée conformément aux règlements, et autoriser la signification à l’extérieur de l’Ontario;
+
 j) traiter des questions nécessaires ou souhaitables aux fins de l’application effective de la présente loi.
 
 ### Règlements : partie II (désignation des produits agricoles)
@@ -2179,109 +2591,177 @@ j) traiter des questions nécessaires ou souhaitables aux fins de l’applicatio
 ### Règlements : partie IV (marchands)
 
 (3) Pour l’application de la partie IV, le ministre peut, par règlement :
+
 a) régir l’échéancier, les modalités et les conditions selon lesquels un marchand est tenu de payer les produits désignés achetés des producteurs;
+
 b) prévoir qu’un marchand et un producteur peuvent conclure une entente d’achat ou de vente d’un produit désigné pour l’application du paragraphe 7 (3), et énoncer les conditions préalables selon lesquelles de telles ententes peuvent être conclues et régir ceux-ci;
+
 c) exiger que les producteurs ou les marchands soient membres d’organismes non gouvernementaux pour l’application de l’article 8;
+
 d) prescrire les livres et dossiers que les marchands doivent tenir et la façon de les conserver pour l’application du paragraphe 9 (1).
 
 ### Règlements : partie V (exploitants de services d’entreposage)
 
 (4) Pour l’application de la partie V, le ministre peut, par règlement :
+
 a) régir les normes d’établissement et d’exploitation des locaux, des installations et de l’équipement qui servent à l’entreposage de produits désignés par la partie V;
+
 b) prescrire les qualités requises qu’un exploitant de services d’entreposage doit posséder, la manière d’entreposer le produit désigné et les circonstances et conditions dans lesquelles l’entreposage est effectué pour l’application du paragraphe 10 (2);
+
 c) exiger que les producteurs, les propriétaires ou les exploitants de services d’entreposage soient membres d’organismes non gouvernementaux pour l’application de l’article 13;
+
 d) prescrire les exigences et conditions en matière d’entreposage d’un produit désigné pour l’application du paragraphe 15 (4);
+
 e) prescrire les renseignements qu’un récépissé doit comprendre et régir les exigences applicables à celui-ci pour l’application du paragraphe 16 (2);
+
 f) régir les dossiers consignant la quantité d’un produit désigné que l’exploitant de services d’entreposage doit tenir pour l’application du paragraphe 16 (3);
+
 g) prescrire les conditions à remplir pour que le directeur délivre une autorisation écrite de niveau déficitaire pour l’application du paragraphe 16 (6);
+
 h) régir la propriété et le titre relatifs à un produit désigné pour l’application de l’alinéa 17 (4) b);
+
 i) prescrire les pertes, dommages et risques pour l’application du paragraphe 18 (1);
+
 j) prescrire les renseignements qu’un exploitant de services d’entreposage est tenu de remettre pour l’application du paragraphe 18 (5) ainsi que le mode et le délai de leur remise.
 
 ### Règlements : partie VI (fiducies)
 
 (5) Pour l’application de la partie VI, le ministre peut, par règlement :
+
 a) prescrire les sommes qui doivent être déposées dans une fiducie pour l’application du paragraphe 22 (1);
+
 b) prévoir qu’un marchand peut s’approprier ou affecter une partie d’un fonds en fiducie à son usage personnel ou à des fins incompatibles avec la fiducie avant que soient versées aux producteurs toutes les sommes qui leur sont dues et prescrire les circonstances dans lesquelles le marchand peut le faire pour l’application du paragraphe 22 (2);
+
 c) régir les dossiers des transactions pour l’application du paragraphe 22 (6), y compris prescrire les renseignements qui doivent figurer dans ces dossiers;
+
 d) régir les sommes prélevées sur un fonds en fiducie pour l’application du paragraphe 23 (2);
+
 e) régir les différends et prescrire les questions qui peuvent faire l’objet d’un différend pour l’application du paragraphe 23 (4).
 
 ### Règlements : partie VII (fonds et commissions)
 
 (6) Pour l’application de la partie VII, le ministre peut, par règlement :
+
 a) régir la création de fonds et prescrire les personnes ayant le droit de présenter des réclamations contre ces fonds;
+
 b) régir l’indemnisation de producteurs et de propriétaires pour l’application du paragraphe 26 (4);
+
 c) créer des commissions et désigner des organismes délégataires pour l’application du paragraphe 27 (1);
+
 d) prescrire les groupes de l’industrie agricole qui doivent être représentés au sein d’une commission;
+
 e) prescrire les pouvoirs et fonctions d’une commission pour l’application de la disposition 5 de l’article 29;
+
 f) régir les règlements administratifs du conseil d’administration d’une commission pour l’application du paragraphe 30 (4);
+
 g) prévoir les pouvoirs que le conseil d’administration d’une commission ne peut pas déléguer pour l’application de l’alinéa 30 (6) e);
+
 h) régir la dissolution de commissions, notamment les questions transitoires ayant trait à ce sujet, pour l’application de l’article 38;
+
 i) régir des droits pour l’application de l’article 41;
+
 j) régir la perception et remise des droits pour l’application du paragraphe 41 (4);
+
 k) prescrire les conditions et les exigences selon lesquelles une commission peut emprunter des sommes à un autre fonds qu’il administre pour l’application de l’alinéa 43 (1) c);
+
 l) régir la présentation de réclamations à une commission pour l’application de l’article 47;
+
 m) régir le paiement de réclamations valides pour l’application du paragraphe 50 (1), notamment prescrire les motifs pour lesquels une commission ou un comité de celle-ci peut effectuer le paiement d’une réclamation si l’un ou l’autre conclut qu’elle est valide;
+
 n) régir le refus des réclamations pour l’application du paragraphe 50 (3), notamment prescrire les circonstances dans lesquelles une commission ou un comité de celle-ci doit ou peut refuser une réclamation;
+
 o) régir l’établissement de la somme à prélever sur un fonds pour l’application du paragraphe 50 (4).
 
 ### Règlements : partie VIII (permis)
 
 (7) Pour l’application de la partie VIII, le ministre peut, par règlement :
+
 a) régir les demandes de permis de marchand et de permis d’exploitant de services d’entreposage et les conditions de ces permis;
+
 b) régir les exigences auxquelles doit satisfaire l’auteur d’une demande afin d’obtenir ou de faire renouveler un permis, notamment à l’égard de la sûreté financière de l’auteur de la demande et de la sûreté que doit fournir ce dernier;
+
 c) régir l’administration, la confiscation et la disposition de toute sûreté fournie par l’auteur d’une demande;
+
 d) régir les motifs dont le directeur tient compte pour décider s’il doit refuser de délivrer ou de renouveler un permis;
+
 e) régir la présentation de demandes de renouvellement d’un permis pour l’application du paragraphe 57 (2) et prescrire les renseignements que les demandes doivent comprendre;
+
 f) prescrire la date limite pour présenter une demande de renouvellement d’un permis pour l’application du paragraphe 57 (3);
+
 g) régir les conditions à imposer à l’égard de permis individuels ou de l’ensemble des permis, prescrire les circonstances de leur imposition et régir les appels intentés à l’égard des conditions imposées à l’égard de l’ensemble des permis;
+
 h) prescrire les conditions de délivrance d’une ordonnance provisoire de suspension d’un permis pour l’application de l’alinéa 59 (1) b);
+
 i) exiger que le directeur crée un registre de permis que le public peut consulter pour l’application de l’article 64 et prescrire le mode de création du registre, sa forme et son emplacement ainsi que les renseignements qu’il doit comprendre.
 
 ### Règlements : partie IX (inspections et exécution)
 
 (8) Pour l’application de la partie IX, le ministre peut, par règlement :
+
 a) régir la désignation d’inspecteurs;
+
 b) prévoir les pouvoirs supplémentaires d’un inspecteur;
+
 c) régir les circonstances dans lesquelles un inspecteur est autorisé à prendre des ordonnances de mise en conformité pour l’application de l’article 67;
+
 d) prescrire les mesures que le directeur peut prendre pour l’application de la disposition 7 du paragraphe 68 (1);
+
 f) désigner les produits à l’égard desquels une pénalité administrative peut être imposée pour l’application de l’article 70;
+
 g) prescrire un organisme d’appel pour l’application de la définition de «organisme d’appel» au paragraphe 70 (2);
+
 h) régir le processus d’imposition d’une pénalité administrative par le directeur pour l’application du paragraphe 71 (3).
 
 ### Règlements : partie X (organisme délégataire)
 
 (9) Pour l’application de la partie X, le ministre peut, par règlement :
+
 a) régir la révocation de la désignation d’un organisme délégataire et régir les questions transitoires pouvant résulter de cette révocation ou de la restriction de la portée de la délégation;
+
 b) établir et régir des règles concernant la mise en candidature des membres, le processus à suivre pour leur nomination ou élection, la durée de leur mandat et la possibilité de les nommer ou de les élire de nouveau pour l’application de l’alinéa 98 (1) b);
+
 c) augmenter ou réduire le nombre des membres du conseil d’administration d’un organisme délégataire pour l’application du paragraphe 98 (5);
+
 d) prescrire des personnes ou des catégories de personnes pour l’application du paragraphe 98 (6) et prévoir le pourcentage fixe maximal de membres du conseil d’administration de l’organisme délégataire qui est choisi parmi ces personnes ou catégories de personnes.
 
 ### Règlements : partie XI (interdictions et infractions)
 
 (10) Pour l’application de la partie XI, le ministre peut, par règlement :
+
 a) prescrire des infractions de type A pour l’application du paragraphe 108 (1);
+
 b) prescrire des infractions de type B pour l’application de l’article 109;
+
 c) prescrire des infractions de type C pour l’application de l’article 110;
+
 d) régir l’augmentation des pénalités pour l’application du paragraphe 111 (4).
 
 ### Règlements : classement
 
 (11) Le ministre peut, par règlement :
+
 a) fixer et préciser les normes de classement des produits agricoles;
+
 b) prévoir la délivrance de certificats de classement et prescrire les formules de ces certificats;
+
 c) prescrire la manière de prélever des échantillons d’un produit agricole pour inspection;
+
 d) prévoir et prescrire la manière et les conditions d’établir le classement, d’exécuter l’inspection, l’emballage, l’estampillage et le marquage de produits agricoles;
+
 e) prescrire les modalités régissant l’entreposage, le transport, la livraison, l’expédition, la publicité, l’achat, la vente, l’offre à la vente ou l’exposition pour la vente de produits agricoles ainsi que les types, les dimensions, l’estampillage, le marquage et l’étiquetage des emballages ou des contenants destinés à contenir un produit agricole;
+
 f) prescrire la manière dont le vendeur ou l’expéditeur de produits agricoles non classés doivent identifier, aux fins de classement, le lot de chaque producteur d’une expédition;
+
 g) prescrire la manière dont le réceptionnaire dresse des rapports et préparer, pour les présenter au vendeur ou à l’expéditeur, les relevés de compte relatifs à l’achat de produits agricoles ainsi que pourvoir à la vérification du contenu de ces relevés et des transactions qui y sont représentées;
+
 h) prescrire la manière dont les réceptions, les classements, les poids et les prix d’achat sont consignés sur les lieux de rassemblement et aux abattoirs et mis à la disposition du ministre.
 
 ### Incorporation continuelle
 
 (12) Un règlement pris en vertu du présent article qui incorpore un autre document par renvoi peut prévoir que le renvoi à celui-ci vise également les modifications qui y sont apportées après la prise du règlement si, à la fois :
+
 a) le règlement, par renvoi au document, établit un nom de qualité, une norme ou une qualité;
+
 b) le document est incorporé par renvoi dans un règlement pris en vertu d’une loi du Canada qui prévoit aussi que le renvoi au document vise également les modifications qui y sont apportées après la prise du règlement.
 
 ## Partie XIII Dispositions transitoires
@@ -2289,15 +2769,21 @@ b) le document est incorporé par renvoi dans un règlement pris en vertu d’un
 ### Règlements de transition
 
 119 (1) Le ministre peut, par règlement, prévoir les questions transitoires qu’il estime nécessaires ou souhaitables :
+
 a) pour faciliter la mise en oeuvre de la présente loi;
+
 b) pour traiter des questions transitoires auxquelles donne lieu l’abrogation de la Loi sur le recouvrement du prix des produits agricoles, de la Loi sur le grain ou de la Loi sur le bétail et les produits du bétail.
 
 ### Idem
 
 (2) Tout règlement pris en vertu du présent article peut :
+
 a) établir une période transitoire avant l’abrogation de la Loi sur le recouvrement du prix des produits agricoles, de la Loi sur le grain et de la Loi sur le bétail et les produits du bétail durant laquelle ces lois cesseront graduellement de s’appliquer;
+
 b) prévoir qu’une disposition ou une exigence de la Loi sur le recouvrement du prix des produits agricoles, de la Loi sur le grain ou de la Loi sur le bétail et les produits du bétail cesse de s’appliquer, s’applique d’une manière adaptée ou uniquement, telle qu’elle est rédigée ou sous une forme adaptée, à des zones géographiques précisées ou à des personnes précisées ou pour une durée précisée pendant la période de transition;
+
 c) régir la poursuite ou la conclusion des audiences introduites conformément à la Loi sur le recouvrement du prix des produits agricoles, à la Loi sur le grain et à la Loi sur le bétail et les produits du bétail avant leur abrogation;
+
 d) régir les autres questions transitoires pouvant découler de l’abrogation anticipée de la Loi sur le recouvrement du prix des produits agricoles, de la Loi sur le grain et de la Loi sur le bétail et les produits du bétail.
 
 ### Incompatibilité
@@ -2307,5 +2793,7 @@ d) régir les autres questions transitoires pouvant découler de l’abrogation 
 ### Partie XIV (OMISE)
 
 120 à 122 Omis (modification ou abrogation d’autres textes législatifs).
+
 123 Omis (entrée en vigueur de dispositions de la présente loi).
+
 124 Omis (édiction du titre abrégé de la présente loi).

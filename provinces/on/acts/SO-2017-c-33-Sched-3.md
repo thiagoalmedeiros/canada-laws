@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-06-10"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17t33"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ticket Sales Act, 2017
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17t33) before relying on it.
 
 S.O. 2017, c. 33, Sched. 3
 
@@ -21,20 +21,35 @@ S.O. 2017, c. 33, Sched. 3
 ### Definitions
 
 1 In this Act,
+
 “Director” means the person designated as the Director under the Ministry of Consumer and Business Services Act; (“directeur”)
+
 “Minister” means the member of the Executive Council to whom the administration of this Act or part of this Act is assigned under the Executive Council Act; (“ministre”)
+
 “Ministry” means the ministry of the Minister; (“ministère”)
+
 “operator of a secondary ticketing platform” means a person who owns or controls a secondary ticketing platform; (“exploitant de plateforme de revente de billets”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “primary seller” means a person, other than a secondary seller, who is engaged in the business of making tickets available for sale, and includes the owner of the place to which a ticket provides admission, the promoter of the event occurring at that place and any agent of those persons; (“vendeur”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “season ticket subscription” is a subscription that entitles the subscriber to receive tickets to several different events; (“abonnement”)
+
 “secondary seller” means a person who is engaged in the business of making available for sale tickets that were originally made available for sale by a primary seller; (“revendeur”)
+
 “secondary ticketing platform” means a website, online service, electronic application, print publication or physical location that facilitates the sale of tickets by providing ticket sellers, other than primary sellers, with a venue to make their tickets available for sale; (“plateforme de revente de billets”)
+
 “ticket” means any card, pass, paper, document or thing, whether in electronic form or otherwise, that, on presentation, entitles the holder to admission to a recreational, sporting or cultural event or other prescribed event in Ontario; (“billet”)
+
 “ticket business” means a primary seller, a secondary seller or an operator of a secondary ticketing platform; (“billetterie”)
+
 “ticket purchaser” means a person who participates as a purchaser in a transaction involving the sale of a ticket; (“acheteur de billet”)
+
 “total price”, in respect of a ticket, means the base price plus any applicable fees, service charges and taxes; (“prix total”)
+
 “Tribunal” means the Licence Appeal Tribunal established under the Licence Appeal Tribunal Act, 1999. (“Tribunal”)
 
 ### Meaning of secondary market
@@ -52,12 +67,19 @@ S.O. 2017, c. 33, Sched. 3
 ### Ticket sale on secondary market
 
 2 (1) Every person who makes a ticket available for sale on the secondary market or who facilitates the sale of a ticket on the secondary market shall provide one of the following guarantees or confirmations when the ticket is made available for sale:
+
 1. A guarantee in writing issued by a secondary seller or operator of a secondary ticketing platform of a full refund for the ticket purchaser if,
+
 i. the event that the ticket provides admission to is cancelled before the ticket can be used,
+
 ii. the ticket does not grant the ticket purchaser admission to the event for which it was issued, unless this failure is due to an action taken by the primary seller or venue after the ticket is sold,
+
 iii. the ticket is counterfeit, or
+
 iv. the ticket does not match its description as advertised or as represented to the ticket purchaser.
+
 2. A confirmation in writing from the primary seller that the ticket is valid, provided directly or indirectly through a service that offers to confirm for any person in Ontario, for free or for a single, standard fee, whether or not a ticket that was originally made available for sale by the primary seller is valid.
+
 3. Any other prescribed guarantee or confirmation.
 
 ### Exception
@@ -85,16 +107,23 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Prohibition, use or sale of certain software
 
 4 (1) No person shall use or sell software, including automated ticket purchasing software, intended to circumvent any of the following on a website, online service or electronic application of a ticket business:
+
 1. A security measure that is used to ensure an equitable ticket buying process.
+
 2. An access control system that is used to ensure an equitable ticket buying process.
+
 3. Any other control or measure that is used to ensure an equitable ticket buying process.
+
 4. A prescribed control, measure or system.
 
 ### Exception
 
 (2) Subsection (1) does not apply to the use or sale of software that is intended,
+
 (a) to investigate a contravention of this or any other Act or law;
+
 (b) to engage in research to identify and analyse flaws and vulnerabilities of measures, systems, or controls referred to in subsection (1) for the purpose of advancing the state of knowledge in the field of computer system security or assisting in the development of a computer security product; or
+
 (c) for a prescribed research or educational purpose.
 
 ### Prohibition, sale of tickets acquired using certain software
@@ -108,7 +137,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Disclosure before sale
 
 5 (1) Before making any tickets to an event available for sale, a primary seller shall publicly disclose, on its website or otherwise, the following information:
+
 1. The distribution method of all of the tickets to the event that will be made available for sale by the primary seller, including any sale that will occur before tickets are made available for sale to the general public.
+
 2. The maximum capacity for the event.
 
 ### Exception
@@ -118,7 +149,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Disclosure of face value and total price
 
 6 (1) Every primary seller that makes a ticket available for sale shall ensure,
+
 (a) that the offer discloses the total price of the ticket and includes a separately itemized list of any applicable fees, service charges and taxes; and
+
 (b) that the total price paid for the ticket by the ticket purchaser is printed on or is otherwise displayed on the ticket when it is issued to the ticket purchaser.
 
 ### Provision of ticket without payment
@@ -128,17 +161,25 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Secondary sale
 
 (3) Every person who makes a ticket available for sale on the secondary market shall ensure that the offer discloses,
+
 (a) the total price of the ticket when it was purchased from the primary seller;
+
 (b) the total price charged on the secondary sale of the ticket;
+
 (c) any fees, service charges and taxes applicable to the secondary sale, in the form of a separately itemized list; and
+
 (d) any other information prescribed by the Minister.
 
 ### Secondary ticketing platform
 
 (4) Every operator of a secondary ticketing platform that facilitates the sale of a ticket shall ensure that the offer discloses,
+
 (a) the total price of the ticket when it was purchased from the primary seller;
+
 (b) the total price charged on the secondary sale of the ticket;
+
 (c) any fees, service charges and taxes applicable to the secondary sale, in the form of a separately itemized list; and
+
 (d) any other information prescribed by the Minister.
 
 ### Disclosure of price to operator
@@ -156,7 +197,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Canadian currency to be used
 
 (2) The ticket business shall ensure that,
+
 (a) any dollar amounts listed in the offer are listed in Canadian currency; and
+
 (b) the ticket purchaser is charged in Canadian currency.
 
 ### Location of seat or standing area to be disclosed
@@ -170,7 +213,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Disclosure of identity of resellers
 
 8 (1) A person who makes a ticket available for sale on the secondary market shall,
+
 (a) disclose their name, location and contact information in the offer when making the ticket available for sale; or
+
 (b) if the ticket is to be made available for sale through a secondary ticketing platform, provide the operator of the secondary ticketing platform, when seeking to make the ticket available for sale, their name, location and contact information and any other information that may be prescribed by the Minister.
 
 ### Same
@@ -182,10 +227,15 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Records
 
 8.1 (1) An operator of a secondary ticketing platform shall,
+
 (a) prepare a record of each ticket offered for sale through the secondary ticketing platform that must include,
+
 (i) the name, location and contact information of the person making the ticket available for sale,
+
 (ii) details of the offer and any subsequent sale of the ticket, and
+
 (iii) any other information or documentation that may be prescribed by the Minister; and
+
 (b) retain the record for at least three years following the date on which the event for which the ticket was issued took place or concluded.
 
 ### Availability
@@ -209,7 +259,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Incorporation or address
 
 10 No ticket business shall make a ticket available for sale or facilitate the sale of a ticket unless,
+
 (a) it is incorporated under the laws of Canada or Ontario; or
+
 (b) he, she or it maintains an address in Ontario.
 
 ## Part IV Right of Action
@@ -225,10 +277,15 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Court order
 
 (3) If the court finds that the defendant has contravened the provision, the court may,
+
 (a) order restitution of any money or other consideration given or furnished by the plaintiff;
+
 (b) award the plaintiff damages in the amount of any loss suffered because of the contravention, including exemplary or punitive damages;
+
 (c) grant an injunction restraining the person from continuing to contravene the provision;
+
 (d) make an order of specific performance against the person; or
+
 (e) make any other order the court considers appropriate.
 
 ### Exemplary or punitive damages
@@ -242,7 +299,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Ministry receives complaints and makes inquiries
 
 12 (1) The Ministry may,
+
 (a) receive complaints concerning conduct that may be in contravention of this Act, whether the conduct constitutes an offence or not; and
+
 (b) make inquiries, gather information and attempt to mediate or resolve complaints, as appropriate, concerning any matter that comes to its attention that may be in contravention of this Act, whether the matter constitutes an offence or not.
 
 ### Mediation
@@ -278,7 +337,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Inspectors
 
 13 The Director may, in writing,
+
 (a) appoint persons as inspectors for the purposes of this Act; and
+
 (b) designate persons, including persons engaged as inspectors for the purposes of any other Act, as inspectors for the purposes of this Act or for any specific purposes under this Act provided for in the designation.
 
 ### Inspection powers
@@ -304,10 +365,15 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Powers of inspector
 
 (6) An inspector conducting an inspection may,
+
 (a) examine a record or other thing that the inspector thinks may be relevant to the inspection;
+
 (b) require the production of a record or other thing that the inspector thinks may be relevant to the inspection;
+
 (c) remove for review and copying a record or other thing that the inspector thinks may be relevant to the inspection;
+
 (d) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place; and
+
 (e) question any person on matters the inspector thinks may be relevant to the inspection.
 
 ### Written demand
@@ -329,7 +395,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Additional contact
 
 (11) In addition to the power to enter a place under this section, an inspector may, by any means, contact any person who is in control of the operations of a ticket business and may exercise the powers that he or she has to conduct an inspection under this section with respect to the ticket business or person, without entering any place, if the inspector establishes that,
+
 (a) the ticket business is subject to this Act; and
+
 (b) the person is in control of the operations of the ticket business.
 
 ### Identification
@@ -347,19 +415,29 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Obstruction
 
 (15) No person shall,
+
 (a) hinder, obstruct or interfere with or attempt to hinder, obstruct or interfere with an inspector conducting an inspection;
+
 (b) refuse to answer questions on matters that an inspector thinks may be relevant to an inspection;
+
 (c) provide an inspector with information on matters the inspector thinks may be relevant to an inspection that the person knows to be false or misleading; or
+
 (d) prevent or attempt to prevent an inspector from making inquiries of any person separate and apart from another person under clause (6) (e).
 
 ### Delegation of order-making powers
 
 15 (1) The Director may delegate to an inspector, subject to any conditions set out in the delegation, the power to make any proposal or order that the Director may make under the following sections and a proposal or order made by an inspector pursuant to such a delegation is, for all purposes, as effective as if it were made by the Director:
+
 1. Section 20.
+
 2. Section 21.
+
 3. Section 22.
+
 4. Section 23.
+
 5. Section 25.
+
 6. Section 26.
 
 ### In writing
@@ -387,24 +465,35 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Search warrant
 
 17 (1) Upon application made without notice by an investigator, a justice of the peace may issue a warrant, if he or she is satisfied on information under oath that there are reasonable grounds for believing that,
+
 (a) an inspector is being prevented from doing anything the inspector is entitled to do under section 14; or
+
 (b) a person has contravened or is contravening a provision of this Act or the regulations, and there is,
+
 (i) in any building, dwelling, receptacle or place, anything relating to the contravention, or
+
 (ii) information or evidence relating to the contravention that may be obtained through the use of an investigative technique or procedure or the doing of anything described in the warrant.
 
 ### Powers under warrant
 
 (2) Subject to any conditions contained in it, a warrant obtained under subsection (1) authorizes an investigator,
+
 (a) to enter or access the building, dwelling, receptacle or place specified in the warrant and examine and seize anything described in the warrant;
+
 (b) to make reasonable inquiries of any person, orally or in writing, with respect to anything relevant to the investigation;
+
 (c) to require a person to produce the information or evidence described in the warrant and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the information or evidence described in the warrant;
+
 (d) to use any data storage, processing or retrieval device or system used in carrying on business in order to produce information or evidence described in the warrant, in any form; and
+
 (e) to use any investigative technique or procedure or do anything described in the warrant.
 
 ### Entry of dwelling
 
 (3) Despite subsection (2), an investigator shall not exercise the power under a warrant to enter a place, or part of a place, used as a dwelling, unless,
+
 (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice of the peace authorizes the entry into the dwelling.
 
 ### Conditions on warrant
@@ -476,12 +565,15 @@ iv. the ticket does not match its description as advertised or as represented to
 ### False, misleading or deceptive representation in offer
 
 20 (1) If the Director believes on reasonable grounds that a person is making a false, misleading or deceptive representation in a ticket offer, the Director may,
+
 (a) order the person to cease making the representation; and
+
 (b) order the person to retract the representation or publish a correction of equal prominence to the original publication.
 
 ### Definition
 
 (2) In subsection (1),
+
 “false, misleading or deceptive representation” has the meaning set out in subsection 14 (2) of the Consumer Protection Act, 2002.
 
 ### Order effective
@@ -511,7 +603,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Powers of Tribunal
 
 (9) After holding the hearing, the Tribunal may,
+
 (a) confirm the order with the amendments, if any, that the Tribunal considers proper to give effect to the purposes of the Act; or
+
 (b) set aside the order.
 
 ### Same
@@ -525,15 +619,21 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Freeze order
 
 21 (1) If the conditions in subsection (2) are met, the Director may, in writing,
+
 (a) order any person having on deposit or controlling any assets or trust funds of a ticket business or former ticket business to hold those funds or assets;
+
 (b) order a ticket business or former ticket business to refrain from withdrawing any asset or trust fund from a person having them on deposit or controlling them; or
+
 (c) order a ticket business or former ticket business to hold any asset or trust fund of a ticket purchaser or other person in trust for the person entitled to it.
 
 ### Conditions
 
 (2) The Director may make an order under subsection (1) if he or she believes that it is advisable for the protection of ticket purchasers and,
+
 (a) a search warrant has been issued under this Act;
+
 (b) an order has been made under section 22 or 23; or
+
 (c) there has been an undertaking of voluntary compliance under section 25.
 
 ### Release of assets
@@ -543,15 +643,21 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Exception
 
 (4) Subsection (1) does not apply if the person files with the Director, in such manner and amount as the Director determines,
+
 (a) a personal bond accompanied by collateral security;
+
 (b) a bond of an insurer licensed under the Insurance Act to write surety and fidelity insurance;
+
 (c) a bond of a guarantor accompanied by collateral security; or
+
 (d) another prescribed form of security.
 
 ### Application to court
 
 (5) An application may be made to the Superior Court of Justice for a determination in respect of the disposition of an asset or trust fund,
+
 (a) by a person in receipt of an order under subsection (1), if that person is in doubt as to whether the order applies to the asset or trust fund; or
+
 (b) by a person who claims an interest in the asset or trust fund subject to the order.
 
 ### Notice
@@ -565,7 +671,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Disposition by Tribunal
 
 (8) The Tribunal shall dispose of the application after a hearing and may cancel the order or discharge the registration in whole or in part, if the Tribunal finds,
+
 (a) that the order or registration is not required in whole or in part for the protection of ticket purchasers or of other persons having an interest in the land; or
+
 (b) that the interests of other persons are unduly prejudiced by the order or registration.
 
 ### Parties
@@ -623,13 +731,17 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Expiration of order
 
 (4) If a hearing by the Tribunal is required,
+
 (a) the order expires 15 days after the written request for a hearing is received by the Tribunal; or
+
 (b) the Tribunal may extend the time of expiration until the hearing is concluded, if a hearing is commenced within the 15-day period referred to in clause (a).
 
 ### Same
 
 (5) Despite subsection (4), if it is satisfied that the conduct of the person named in the order has delayed the commencement of the hearing, the Tribunal may extend the time of the expiration for the order,
+
 (a) until the hearing commences; and
+
 (b) once the hearing commences, until the hearing is concluded.
 
 ### Parties
@@ -643,10 +755,15 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Undertaking of voluntary compliance
 
 25 (1) At any time before all rights of appeal are exhausted or the time for appeals has expired without an appeal being commenced, any person against whom the Director has made or is considering making an order to comply under section 22 or 23 may enter into a written undertaking of voluntary compliance,
+
 (a) to not engage in the specified act after the date of the undertaking;
+
 (b) to provide compensation to any ticket purchaser who has suffered a loss;
+
 (c) to publicize the undertaking or the actions being undertaken as a result of the undertaking;
+
 (d) to pay any cost incurred in investigating the person’s activities, any legal costs incurred in relation to the person’s activities and any cost associated with the undertakings; and
+
 (e) to take any such action as the Director considers appropriate in the circumstances.
 
 ### Undertaking deemed order
@@ -656,9 +773,13 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Security for any undertaking
 
 (3) The Director may require any person who is giving an undertaking of voluntary compliance to provide, in such manner and amount as the Director determines, security in the form of,
+
 (a) a personal bond accompanied by collateral security;
+
 (b) a bond of an insurer licensed under the Insurance Act to write surety and fidelity insurance;
+
 (c) a bond of a guarantor accompanied by collateral security; or
+
 (d) another prescribed form of security.
 
 ### Release of security
@@ -682,9 +803,13 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Service by the Director of notice or order
 
 27 (1) Any notice or order required to be given or served by the Director under this Act is sufficiently given or served if,
+
 (a) delivered personally;
+
 (b) sent by registered mail;
+
 (c) sent by a prescribed method; or
+
 (d) sent by another manner if the Director can prove receipt of the notice or order.
 
 ### Deemed service
@@ -698,7 +823,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Certificate as evidence
 
 28 (1) For all purposes in any proceeding, a statement purporting to be certified by the Director is, without proof of the office or signature of the Director, admissible in evidence as proof in the absence of evidence to the contrary, of the facts stated in it in relation to,
+
 (a) the filing or non-filing of any document or material required or permitted to be filed under this Act; or
+
 (b) the time when the facts upon which the proceedings are based first came to the knowledge of the Director.
 
 ### Same
@@ -712,12 +839,19 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Confidentiality
 
 29 (1) A person who obtains information in the course of exercising a power or carrying out a duty related to the administration of this Act or the regulations shall preserve secrecy with respect to the information and shall not communicate the information to any person except,
+
 (a) as may be required in connection with a proceeding under this Act or in connection with the administration of this Act or the regulations;
+
 (b) to a ministry, department or agency of a government engaged in the administration of legislation that protects consumers or to any other entity to which the administration of legislation that protects consumers has been assigned;
+
 (c) as authorized under the Regulatory Modernization Act, 2007;
+
 (d) to a prescribed entity or organization, if the purpose of the communication is consumer protection;
+
 (e) to a law enforcement agency;
+
 (f) to his, her or its counsel; or
+
 (g) with the consent of the person to whom the information relates.
 
 ### Testimony
@@ -745,7 +879,9 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Absolute liability
 
 (5) An order made under subsection (1) imposing an administrative penalty against a ticket business applies even if,
+
 (a) the ticket business took all reasonable steps to prevent the contravention on which the order is based; or
+
 (b) at the time of the contravention, the ticket business had an honest and reasonable belief in a mistaken set of facts that, if true, would have rendered the contravention innocent.
 
 ### No effect on offences
@@ -829,10 +965,15 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Offences
 
 35 (1) A person is guilty of an offence if the person,
+
 (a) fails to comply with any order, direction or other requirement under this Act; or
+
 (b) contravenes or fails to comply with,
+
 (i) in respect of Part II, section 2, 3 or 4,
+
 (ii) in respect of Part III, section 5, 6, 7, 8, 9 or 10, or
+
 (iii) in respect of Part V, subsection 14 (15) or 17 (9).
 
 ### Same
@@ -860,21 +1001,33 @@ iv. the ticket does not match its description as advertised or as represented to
 ### Lieutenant Governor in Council regulations
 
 36 The Lieutenant Governor in Council may make regulations,
+
 (a) governing any matter that this Act describes as being prescribed, done in accordance with the regulations or provided for in the regulations, other than a matter that this Act describes as being prescribed by the Minister or provided for in regulations made by the Minister;
+
 (b) defining any word or expression used in this Act that has not already been expressly defined in this Act with the exception of the expression “contact information”;
+
 (c) exempting any person, class of persons, events or tickets from any provision of this Act and attaching conditions to the exemption.
+
 (f) governing the fees or service charges applicable to the sale or facilitation of the sale of a ticket, including limiting the amount of fees or service charges.
 
 ### Minister regulations
 
 37 The Minister may make regulations,
+
 (a) governing any matter that this Act describes as being prescribed by the Minister or provided for in regulations made by the Minister;
+
 (a.1) defining “contact information” for the purposes of this Act or specifying its meaning for the purposes of particular provisions of this Act;
+
 (a.2) specifying what constitutes proof of the total price of a ticket for the purposes of subsections 6 (5) and (6);
+
 (a.3) specifying, for the purposes of subclause 8.1 (1) (a) (ii), the details of any offer and subsequent sale of a ticket that must be included in a record prepared by the operator of a secondary ticketing platform;
+
 (a.4) prescribing information or documentation for the purposes of subclause 8.1 (1) (a) (iii), which may include documentation of, or in respect of, the proof provided under subsection 6 (5) of the total price of a ticket when it was purchased from the primary seller;
+
 (b) specifying a different administrative penalty for a contravention of different prescribed provisions of this Act or the regulations, different portions of those prescribed provisions or different prescribed requirements in those prescribed provisions;
+
 (c) providing that the prescribed amount of an administrative penalty mentioned in subsection 30 (3) shall be calculated on the basis specified in the regulation, including an amount reflecting the number of transactions involved in the contravention on which an order for the administrative penalty is based;
+
 (d) governing the procedure for making an order under section 30 for an administrative penalty and the rights of the parties affected by the procedure, including the time at which the order is deemed to be served on the ticket business against whom the order is made.
 
 ## PART X NON-ENTITLEMENT TO COMPENSATION
@@ -890,9 +1043,11 @@ iv. the ticket does not match its description as advertised or as represented to
 ### No expropriation or injurious affection
 
 (3) Nothing done or omitted to be done in accordance with this Act or the regulations constitutes an expropriation or injurious affection for the purposes of the Expropriations Act or otherwise at law.
+
 39-40 Omitted (amends, repeals or revokes other legislation).
 
 ### Part XI (OMITTED)
 
 41 Omitted (provides for coming into force of provisions of this Act).
+
 42 Omitted (enacts short title of this Act).

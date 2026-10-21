@@ -6,22 +6,26 @@ language: en
 type: act
 document_date: "2023-12-04"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02u08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # University of Ontario Institute of Technology Act, 2002
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02u08) before relying on it.
 
 S.O. 2002, c. 8, Sched. O
 
 ### Definitions
 
 1 In this Act,
+
 “board” means the board of governors of the university; (“conseil”)
+
 “college” means the Durham College of Applied Arts and Technology; (“collège”)
+
 “teaching staff” includes professors, associate professors, assistant professors, lecturers, associates, instructors, tutors and all others engaged in the work of teaching or giving instruction or in research at the university; (“corps professoral”)
+
 “university” means the University of Ontario Institute of Technology as established by this Act. (“ université ”)
 
 ### University established
@@ -43,9 +47,13 @@ S.O. 2002, c. 8, Sched. O
 ### Objects
 
 4 The objects of the university are,
+
 (a) to provide undergraduate and postgraduate university programs with a primary focus on those programs that are innovative and responsive to the individual needs of students and to the market-driven needs of employers;
+
 (b) to advance the highest quality of learning, teaching, research and professional practice;
+
 (c) to contribute to the advancement of Ontario in the Canadian and global contexts with particular focus on the Durham region and Northumberland County; and
+
 (d) to facilitate student transition between college-level programs and university-level programs.
 
 ### Powers
@@ -63,10 +71,15 @@ S.O. 2002, c. 8, Sched. O
 ### Board of governors
 
 8 (1) There shall be a board of governors of the university, consisting of not more than 25 members, as follows:
+
 1. The president of the university, by virtue of office.
+
 2. The chancellor of the university, by virtue of office.
+
 3. Three members appointed by the Lieutenant Governor in Council.
+
 4. At least 12 and not more than 16 members, as may be set out in the by-laws of the university, appointed by the board, at least six of whom shall be members of the board of governors of the college but who are not employees or students of the college.
+
 5. Four members who are students or employees of the university and who are elected by the relevant constituencies of the university.
 
 ### By-law respecting elections
@@ -100,8 +113,11 @@ S.O. 2002, c. 8, Sched. O
 ### Vacancies
 
 (7) A vacancy on the board occurs if,
+
 (a) a member resigns or ceases to be eligible for appointment or election to the board;
+
 (b) a member is incapable of continuing to act as a member and the board by resolution declares the membership to be vacated; or
+
 (c) the board by resolution declares a membership to be vacated for failure to attend sufficient meetings, as provided in the by-laws of the university.
 
 ### Same
@@ -135,21 +151,37 @@ S.O. 2002, c. 8, Sched. O
 ### Powers and duties of board
 
 9 (1) The board is responsible for governing and managing the affairs of the university and has the necessary powers to do so, including the power,
+
 (a) subject to section 3, to determine the mission, vision and values of the university;
+
 (b) to establish academic, research, service and institutional policies and plans and to control the manner in which they are implemented;
+
 (c) to appoint and remove the chancellor;
+
 (d) to appoint and remove the president;
+
 (e) to appoint, promote, suspend and remove members of the teaching staff and of the administrative staff of the university;
+
 (f) to establish faculties, schools, institutes and departments and to establish chairs and councils in any faculty, school, institute or department of the university;
+
 (g) to govern standards for the admission of students to the university and for graduation;
+
 (h) to govern matters arising in connection with the award of fellowships, scholarships, medals, prizes and other awards for academic achievement;
+
 (i) to appoint committees and assign or delegate to them such duties and responsibilities as may be provided in the by-laws of the university, including authorizing them to act on behalf of the board in the matters specified in the by-laws;
+
 (j) to approve the annual budget of the university and to monitor its implementation;
+
 (k) to establish and collect fees and charges for tuition and other services that may be offered by the university or that may be approved by the board on behalf of any organization or group of the university;
+
 (l) to regulate the conduct of students, staff and all persons who use the property of the university, including denying any person access to the property;
+
 (m) to define, for the purposes of the by-laws, the following terms: student, staff, employee, manager, professor, associate professor, assistant professor, lecturer, associate, instructor and tutor;
+
 (n) to conclusively determine which body within the university has jurisdiction over any matter;
+
 (o) to determine the manner and procedure for electing members described in paragraph 5 of subsection 8 (1) to the board, including establishing constituencies and voting practices; and
+
 (p) to make by-laws, resolutions and rules for the conduct of its affairs.
 
 ### Limitation
@@ -255,6 +287,7 @@ S.O. 2002, c. 8, Sched. O
 ### Use of property
 
 (5) The property and the revenue of the university shall be applied solely to achieving the objects of the university.
+
 (6) Repealed: 2009, c. 33, Sched. 2, s. 78.
 
 ### Investments
@@ -264,7 +297,9 @@ S.O. 2002, c. 8, Sched. O
 ### Borrowing
 
 (8) The university, if authorized by its by-laws, may, on such terms and in such amounts as the board may approve,
+
 (a) borrow money and give security for money borrowed; and
+
 (b) issue or give bonds, debentures and obligations as security.
 
 ### Audits and reports
@@ -298,5 +333,7 @@ S.O. 2002, c. 8, Sched. O
 ### Rotating membership
 
 (3) The term of office of the members of the first board appointed after the coming into force of this Act shall be one year, two years or three years, as determined by the board of governors of the college.
+
 19 Omitted (provides for coming into force of provisions of this Act).
+
 20 Omitted (enacts short title of this Act).

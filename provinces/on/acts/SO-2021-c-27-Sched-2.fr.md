@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-12-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21h27"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Office de surveillance des fournisseurs de soins de santé et de soutien (Loi de 2021 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21h27) before relying on it.
 
 L.O. 2021, chap. 27, annexe 2
 
@@ -21,30 +21,47 @@ L.O. 2021, chap. 27, annexe 2
 ### Interprétation
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «conseil» Le conseil d’administration de l’Office. («board»)
+
 «directeur général» Le directeur général de l’Office nommé en vertu du paragraphe 10 (1). («Chief Executive Officer»)
+
 «ministre» Le ministre de la Santé ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «Office» Personne morale sans capital-actions constituée en vertu de l’article 2. («Authority»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «protocole d’entente» Le protocole d’entente visé au paragraphe 14 (1). («memorandum of understanding»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «renseignements personnels» S’entend au sens de la Loi sur l’accès à l’information et la protection de la vie privée. («personal information»)
+
 «renseignements personnels sur la santé» S’entend au sens de la définition donnée à l’article 4 de la Loi de 2004 sur la protection des renseignements personnels sur la santé. («personal health information»)
+
 «titulaire d’une inscription» Personne ou particulier inscrit auprès de l’Office en vertu de la présente loi. («registrant»)
 
 ### Mauvais traitements d’ordre sexuel
 
 (2) La définition qui suit s’applique à la présente loi.
+
 «mauvais traitements d’ordre sexuel» infligés à une personne qui reçoit des services de santé ou des services de soins de soutien de la part du titulaire d’une inscription s’entend de ce qui suit, selon le cas :
+
 a) les rapports sexuels ou autres formes de rapports physiques d’ordre sexuel entre le titulaire d’une inscription et la personne;
+
 b) les attouchements d’ordre sexuel sur la personne par le titulaire d’une inscription;
+
 c) les comportements ou les remarques d’ordre sexuel du titulaire d’une inscription à l’endroit de la personne.
 
 ### Idem : exceptions
 
 (3) La définition qui suit s’applique au paragraphe (2).
+
 «d’ordre sexuel» Ne s’entend pas de ce qui suit :
+
 a) les palpations, les comportements ou les remarques qui sont appropriés au service que fournit le titulaire d’une inscription;
+
 b) les autres conduites, comportements ou remarques prescrits.
 
 ## PartIE II Office
@@ -86,16 +103,23 @@ b) les autres conduites, comportements ou remarques prescrits.
 ### Éligibilité
 
 (6) Une personne peut être élue ou nommée administrateur de l’Office si elle réunit les conditions suivantes :
+
 a) elle n’est pas titulaire d’une inscription;
+
 b) elle possède les qualités requises prescrites;
+
 c) dans le cas des membres du conseil élus visés au paragraphe (5), elle possède les qualités requises énoncées dans les règlements administratifs de l’Office.
 
 ### Règles concernant les administrateurs de l’Office
 
 (7) Les règlements peuvent établir des règles concernant les personnes pouvant être administrateurs de l’Office. Ces règles peuvent notamment :
+
 a) exiger qu’au plus un pourcentage fixe d’administrateurs soient choisis parmi les personnes ou catégories de personnes précisées;
+
 b) préciser les qualités requises qu’une personne doit posséder pour être administrateur de l’Office;
+
 c) préciser la durée du mandat d’un administrateur;
+
 d) préciser le nombre de mandats qu’un administrateur peut remplir.
 
 ### Rémunération et indemnités
@@ -133,8 +157,11 @@ d) préciser le nombre de mandats qu’un administrateur peut remplir.
 ### Règlements administratifs
 
 6 (1) Le conseil peut, par règlement administratif, traiter de la gestion de l’Office et de la conduite et de l’administration des activités de l’Office, notamment pour faire ce qui suit :
+
 a) déléguer des pouvoirs et des fonctions attribués au conseil ou au directeur général dans le cadre de la présente loi à toute personne, sous réserve des conditions qu’il précise;
+
 b) établir et régir l’expiration des inscriptions délivrées sous le régime de la présente loi;
+
 c) exiger l’inclusion de renseignements dans le tableau qu’exige l’article 32.
 
 ### Administrateurs élus
@@ -186,8 +213,11 @@ c) exiger l’inclusion de renseignements dans le tableau qu’exige l’article
 ### Composition
 
 (2) En plus de toute autre exigence prévue par les règlements, chaque comité consultatif constitué pour une catégorie de titulaires d’une inscription comprend :
+
 a) un ou plusieurs particuliers qui représentent les intérêts soit de personnes recevant des services de santé ou des services de soins de soutien de la part de membres de cette catégorie de titulaires d’une inscription, soit de fournisseurs de soins de ces particuliers;
+
 b) un ou plusieurs particuliers titulaires d’une inscription appartenant à cette catégorie d’inscription;
+
 c) un ou plusieurs particuliers qui sont des éducateurs de titulaires d’une inscription appartenant à cette catégorie d’inscription.
 
 ### Mission, pouvoirs et fonctions
@@ -195,17 +225,29 @@ c) un ou plusieurs particuliers qui sont des éducateurs de titulaires d’une i
 ### Mission
 
 12 La mission de l’Office est la suivante :
+
 a) appliquer la présente loi et les règlements, notamment en superviser l’exécution;
+
 b) définir et maintenir des qualités requises fondées sur la formation et les compétences pour chaque catégorie de titulaires d’une inscription;
+
 c) établir et maintenir une ou plusieurs marques visuelles ou un ou plusieurs identificateurs que peuvent utiliser les titulaires d’une inscription pour établir leur identité auprès des membres du public;
+
 d) encourager la prestation aux membres du public, par les titulaires d’une inscription, de services de santé et de services de soins de soutien à la fois sûrs, compétents, déontologiques et de haute qualité;
+
 e) établir et maintenir des codes de déontologie applicables à chaque catégorie de titulaires d’une inscription relativement aux services de santé ou aux services de soins de soutien qu’ils fournissent aux membres du public;
+
 f) sensibiliser les titulaires d’une inscription, les employeurs et les membres du public à l’égard de questions liées à la présente loi et aux règlements;
+
 g) conseiller le ministre, à sa demande, sur les questions qu’il précise, notamment :
+
 (i) la question de savoir si d’autres catégories d’inscription devraient être prescrites,
+
 (ii) la question de savoir si des catégories d’inscription actuelles devraient cesser d’être prescrites,
+
 (iii) des suggestions de modifications à la Loi ou aux règlements afin d’appuyer les activités de l’Office,
+
 (iv) les autres questions en matière de politiques concernant la mission de l’Office que le ministre estime souhaitables;
+
 h) exercer les autres fonctions ou pouvoirs que lui attribue la présente loi.
 
 ### Capacité, droits, pouvoirs et privilèges
@@ -215,8 +257,11 @@ h) exercer les autres fonctions ou pouvoirs que lui attribue la présente loi.
 ### Protocole d’entente
 
 14 (1) Le ministre et l’Office concluent un protocole d’entente qui doit, à tout le moins :
+
 a) énoncer les exigences relatives à la gouvernance de l’Office;
+
 b) énoncer les exigences auxquelles l’Office doit se conformer dans le cadre de l’application de la présente loi et des règlements, notamment une exigence l’obligeant à maintenir en vigueur une assurance suffisante à l’égard de la responsabilité découlant de l’application de la présente loi et des règlements;
+
 c) énoncer les exigences auxquelles l’Office doit se conformer dans le cadre de la réalisation des autres éléments de sa mission.
 
 ### Incompatibilité
@@ -284,7 +329,9 @@ c) énoncer les exigences auxquelles l’Office doit se conformer dans le cadre 
 ### Examens par le ministre
 
 18 (1) Le ministre peut exiger que les examens de l’Office ou de ses activités, ou des deux, sur le plan notamment du rendement, de la gouvernance, de la responsabilisation et des finances, soient effectués :
+
 a) soit par l’Office ou pour son compte,
+
 b) soit par une personne ou une entité qu’il précise.
 
 ### Accès aux dossiers
@@ -302,7 +349,9 @@ b) soit par une personne ou une entité qu’il précise.
 ### Obligation de conseiller le ministre
 
 19 (1) L’Office informe et conseille promptement le ministre en ce qui concerne :
+
 a) les renseignements qui pourraient avoir une incidence sur sa capacité à exercer les pouvoirs ou les fonctions que lui attribue la présente loi;
+
 b) toute question urgente ou cruciale qui exigera vraisemblablement l’intervention du ministre.
 
 ### Idem
@@ -324,7 +373,9 @@ b) toute question urgente ou cruciale qui exigera vraisemblablement l’interven
 ### Divulgation des renseignements sur la rémunération et les autres paiements
 
 22 (1) L’Office, conformément aux règlements, met à la disposition du public les renseignements que précise le ministre concernant :
+
 a) la rémunération qu’il verse aux membres de son conseil d’administration, à ses dirigeants et à ses employés;
+
 b) les autres paiements qu’il fait ou est tenu de faire aux personnes mentionnées à l’alinéa a).
 
 ### Site Web et autres moyens
@@ -334,14 +385,19 @@ b) les autres paiements qu’il fait ou est tenu de faire aux personnes mentionn
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «rémunération» Tout ce qui est versé ou accordé, directement ou indirectement, à une personne, ou au profit d’une personne, qui exerce des fonctions lui donnant droit à un paiement. Sont compris le traitement, les avantages et avantages accessoires, ainsi que tous les paiements, discrétionnaires ou non.
 
 ### Facteurs touchant l’intérêt public
 
 23 Dans l’exercice du pouvoir prévu au paragraphe 14 (3), 15 (1) ou 17 (1), le ministre peut tenir compte de tout facteur touchant l’intérêt public qu’il estime pertinent, notamment tout facteur qui se rapporte à la question de savoir si, selon le cas :
+
 a) l’exercice du pouvoir est nécessaire pour empêcher qu’un préjudice grave soit causé à la sécurité publique ou aux intérêts des particuliers qui reçoivent des services de santé ou des services de soins de soutien de la part de titulaires d’une inscription;
+
 b) un cas de force majeure est survenu;
+
 c) l’Office risque l’insolvabilité;
+
 d) la composition du conseil n’est plus conforme aux exigences énoncées dans la présente loi ou le nombre d’administrateurs est insuffisant pour constituer le quorum.
 
 ### Dispositions diverses
@@ -369,7 +425,9 @@ d) la composition du conseil n’est plus conforme aux exigences énoncées dans
 ### Catégories
 
 (2) Les catégories d’inscription dans lesquelles l’auteur d’une demande peut présenter sa demande sont :
+
 a) la catégorie de préposé aux services de soutien personnel;
+
 b) toute autre catégorie prescrite.
 
 ### Forme et manière
@@ -383,13 +441,17 @@ b) toute autre catégorie prescrite.
 ### Demande de renseignements
 
 (2) Le directeur général peut demander à l’auteur d’une demande d’inscription ou de renouvellement d’une inscription de lui fournir ce qui suit, sous la forme et dans le délai qu’il précise :
+
 a) les renseignements qu’il précise et qui se rapportent à sa décision d’accéder ou non à la demande d’inscription ou de renouvellement d’une inscription;
+
 b) l’attestation, notamment par affidavit, de tout renseignement visé à l’alinéa a) que l’auteur de la demande lui fournit ou lui a fourni.
 
 ### Approbation et conditions
 
 (3) Sous réserve du paragraphe (4), le directeur général peut :
+
 a) approuver l’inscription ou le renouvellement d’une inscription aux conditions qu’il estime appropriées;
+
 b) en tout temps, assortir une inscription des conditions qu’il estime appropriées.
 
 ### Préavis exigé en cas de non-consentement aux conditions
@@ -399,7 +461,9 @@ b) en tout temps, assortir une inscription des conditions qu’il estime appropr
 ### Refus d’inscription
 
 28 (1) Si l’auteur d’une demande ou le titulaire d’une inscription répond aux motifs illicites prescrits pour son inscription, le directeur général, selon le cas :
+
 a) refuse d’inscrire l’auteur de la demande ou de renouveler l’inscription du titulaire;
+
 b) révoque l’inscription du titulaire.
 
 ### Non-satisfaction des critères prescrits
@@ -409,14 +473,19 @@ b) révoque l’inscription du titulaire.
 ### Préavis
 
 (3) Le directeur général avise par écrit l’auteur d’une demande ou le titulaire d’une inscription de son intention, selon le cas :
+
 a) soit de refuser d’accorder ou de renouveler une inscription conformément au paragraphe (1) ou (2);
+
 b) soit de révoquer son inscription conformément au paragraphe (1);
+
 c) soit d’assortir une inscription ou son renouvellement de conditions auxquelles l’auteur de la demande n’a pas consenti.
 
 ### Contenu du préavis
 
 (4) Le préavis visé au paragraphe (3) :
+
 a) énonce les motifs de la mesure envisagée;
+
 b) indique que l’auteur de la demande a le droit de faire réviser par écrit sa demande et les éléments de preuve documentaire qui l’appuient par la Commission d’appel et de révision des professions de la santé s’il envoie par courrier ou remet une demande écrite à cet effet au directeur général et à la Commission dans les 15 jours suivant la signification du préavis.
 
 ### Aucune demande de révision
@@ -430,7 +499,9 @@ b) indique que l’auteur de la demande a le droit de faire réviser par écrit 
 ### Maintien jusqu’au renouvellement
 
 (7) Si dans le délai prescrit ou, à défaut, avant l’expiration de son inscription, l’auteur de la demande a demandé le renouvellement de son inscription et acquitté les droits exigés le cas échéant, son inscription est réputée en vigueur :
+
 a) soit jusqu’à ce que le renouvellement soit accordé;
+
 b) soit, si le directeur général lui signifie un préavis de son intention de refuser d’accorder le renouvellement, jusqu’à l’expiration du délai imparti pour demander une révision ou, si une révision est demandée, jusqu’à ce que la Commission d’appel et de révision des professions de la santé rende son ordonnance.
 
 ### Radiation volontaire
@@ -448,7 +519,9 @@ b) soit, si le directeur général lui signifie un préavis de son intention de 
 ### Pouvoirs
 
 (3) Après la révision par écrit d’une décision, la Commission d’appel et de révision des professions de la santé peut, par ordonnance :
+
 a) soit enjoindre au directeur général de donner suite à son intention;
+
 b) soit substituer son opinion à celle du directeur général et notamment accorder ou refuser une inscription ou assortir une inscription de conditions.
 
 ### Conformité du directeur général
@@ -478,8 +551,11 @@ b) soit substituer son opinion à celle du directeur général et notamment acco
 ### Tableau
 
 32 (1) Le directeur général, conformément aux règlements, établit et tient un tableau des titulaires d’une inscription et met à la disposition du public :
+
 a) le nom des titulaires;
+
 b) les autres renseignements éventuellement prescrits concernant les titulaires;
+
 c) les autres renseignements que peuvent exiger les règlements administratifs de l’Office.
 
 ### Forme et manière
@@ -499,10 +575,15 @@ c) les autres renseignements que peuvent exiger les règlements administratifs d
 ### Contenu du rapport
 
 (3) Sous réserve du paragraphe (4), le rapport doit comprendre les renseignements suivants :
+
 a) le nom du titulaire d’une inscription qui dépose le rapport;
+
 b) la nature et une description de l’infraction;
+
 c) la date à laquelle le titulaire d’une inscription a été déclaré coupable de l’infraction;
+
 d) le nom et l’emplacement du tribunal qui a déclaré le titulaire d’une inscription coupable de l’infraction;
+
 e) l’état de tout appel interjeté à l’égard de la déclaration de culpabilité.
 
 ### Publication interdite
@@ -524,18 +605,27 @@ e) l’état de tout appel interjeté à l’égard de la déclaration de culpab
 ### Délai de dépôt du rapport
 
 (2) Le rapport doit être déposé dès qu’il est raisonnablement possible de le faire après que :
+
 a) soit le titulaire d’une inscription est avisé qu’il a été accusé de l’infraction;
+
 b) soit les conditions de mise en liberté sous caution ou les autres restrictions ont été imposées ou le titulaire d’une inscription en a convenu.
 
 ### Contenu du rapport
 
 (3) Sous réserve du paragraphe (4), le rapport doit comprendre les renseignements suivants :
+
 a) le nom du titulaire d’une inscription qui dépose le rapport;
+
 b) la nature et une description de l’accusation;
+
 c) la date à laquelle l’accusation a été portée contre le titulaire d’une inscription;
+
 d) le nom et l’emplacement du tribunal où l’accusation a été portée contre le titulaire d’une inscription ou où la condition de mise en liberté sous caution ou la restriction a été imposée au titulaire d’une inscription ou dont il a convenu;
+
 e) chaque condition de mise en liberté sous caution imposée au titulaire d’une inscription par suite de l’accusation;
+
 f) toute autre restriction imposée au titulaire d’une inscription ou dont il a convenu relativement à l’accusation;
+
 g) l’état de toute instance relative à l’accusation.
 
 ### Publication interdite
@@ -569,9 +659,13 @@ g) l’état de toute instance relative à l’accusation.
 ### Contenu du rapport
 
 (5) Le rapport exigé en application du paragraphe (1) ou (2) doit comprendre les renseignements suivants, dans la mesure où le titulaire d’une inscription les connaît :
+
 1. Le nom du titulaire d’une inscription qui dépose le rapport.
+
 2. Le nom du titulaire d’une inscription ou du membre qui fait l’objet du rapport.
+
 3. Une explication des mauvais traitements d’ordre sexuel allégués.
+
 4. Sous réserve du paragraphe (6), le nom de la personne qui pourrait avoir été victime de mauvais traitements d’ordre sexuel.
 
 ### Consentement obligatoire
@@ -601,16 +695,23 @@ g) l’état de toute instance relative à l’accusation.
 ### Utilisation, collecte, divulgation et publication
 
 (6) Les règles suivantes s’appliquent aux renseignements recueillis en application du paragraphe (1) :
+
 1. Les renseignements peuvent être utilisés uniquement aux fins énoncées au paragraphe (1).
+
 2. Le ministre ne doit pas recueillir de renseignements personnels aux fins énoncées au paragraphe (1) que d’autres renseignements permettent de réaliser.
+
 3. Le ministre ne doit pas recueillir plus de renseignements personnels qu’il n’est nécessaire pour réaliser les fins énoncées au paragraphe (1).
+
 4. Le ministre peut divulguer les renseignements uniquement aux fins énoncées au paragraphe (1).
+
 5. Les rapports et autres documents utilisant les renseignements recueillis en application du présent article peuvent être publiés aux fins énoncées au paragraphe (1) et à ces fins uniquement. Aucun renseignement personnel concernant le titulaire d’une inscription ne doit être inclus dans ces rapports ou documents.
 
 ### Avis exigé par le par. 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée
 
 (7) Si le ministre exige que l’Office recueille, en application du paragraphe (1), des renseignements personnels auprès de titulaires d’une inscription, l’avis exigé par le paragraphe 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée est donné, selon le cas :
+
 a) au moyen d’un avis public affiché sur un site Web du gouvernement de l’Ontario;
+
 b) de toute autre façon publique prescrite.
 
 ### Idem
@@ -620,8 +721,11 @@ b) de toute autre façon publique prescrite.
 ### Définitions
 
 (9) Les définitions qui suivent s’appliquent au présent article.
+
 «planification des ressources humaines» Le fait de veiller à ce que les titulaires d’une inscription soient en nombre suffisant et répartis de façon appropriée en Ontario. («human resources planning»)
+
 «recherche» Étude de données et de renseignements à l’égard de la planification des ressources humaines. («research»)
+
 «renseignements» S’entend notamment de renseignements personnels concernant les titulaires d’une inscription, à l’exclusion des renseignements personnels sur la santé. («information»)
 
 ### Interdictions : personnes non titulaires d’une inscription
@@ -655,7 +759,9 @@ b) de toute autre façon publique prescrite.
 ### Nomination d’enquêteurs
 
 39 (1) Le directeur général peut nommer des enquêteurs pour faire des enquêtes sur, selon le cas :
+
 a) les plaintes qu’il a reçues;
+
 b) s’il a des motifs de croire que le titulaire d’une inscription peut avoir agi d’une façon qui enfreint la Loi, les règlements ou le code de déontologie prescrit qui s’applique à lui.
 
 ### Attestation de nomination
@@ -681,13 +787,17 @@ b) s’il a des motifs de croire que le titulaire d’une inscription peut avoir
 ### Accès à un logement
 
 40 Dans le cadre d’une enquête, l’enquêteur ne doit pénétrer dans aucun logement, sauf :
+
 a) soit avec le consentement de l’occupant;
+
 b) soit en vertu d’un mandat décerné en vertu de l’article 41.
 
 ### Perquisitions
 
 41 (1) Un juge de paix peut décerner à l’enquêteur qui en fait la demande sans préavis un mandat l’autorisant, d’une part, à pénétrer dans un lieu et à y faire une perquisition et, d’autre part, à examiner tous les documents ou toutes les choses précisés dans le mandat, s’il est convaincu que l’enquêteur a été nommé de façon régulière et qu’il existe des motifs raisonnables et probables de croire ce qui suit :
+
 a) le titulaire d’une inscription qui fait l’objet de l’enquête a contrevenu au code de déontologie prescrit qui s’applique à lui;
+
 b) des choses se rapportant à l’enquête se trouvent dans ce lieu.
 
 ### Heures d’exécution du mandat
@@ -701,10 +811,15 @@ b) des choses se rapportant à l’enquête se trouvent dans ce lieu.
 ### Pouvoirs conférés par le mandat
 
 (4) Sous réserve des conditions qu’il précise, le mandat décerné en vertu du paragraphe (1) autorise l’enquêteur à faire ce qui suit :
+
 a) pénétrer dans le bâtiment, le logement, le contenant ou le lieu précisé dans le mandat ou y avoir accès, et saisir, examiner et enlever toute chose mentionnée dans le mandat;
+
 b) présenter des demandes raisonnables de renseignements à quiconque, verbalement ou par écrit, relativement à toute chose qui se rapporte à l’enquête;
+
 c) exiger d’une personne qu’elle produise les renseignements ou les éléments de preuve mentionnés dans le mandat et qu’elle fournisse l’aide qui est raisonnablement nécessaire, notamment en recourant à un dispositif ou système de stockage, de traitement ou d’extraction des données pour produire, sous quelque forme que ce soit, les renseignements ou éléments de preuve mentionnés dans le mandat;
+
 d) recourir, en vue de produire, sous quelque forme que ce soit, les renseignements ou éléments de preuve mentionnés dans le mandat, à tout dispositif ou système de stockage, de traitement ou d’extraction des données qu’utilise le titulaire d’une inscription pour exercer ses activités;
+
 e) employer toute technique ou méthode d’enquête ou accomplir tout acte mentionné dans le mandat.
 
 ### Aide et recours à la force
@@ -722,13 +837,17 @@ e) employer toute technique ou méthode d’enquête ou accomplir tout acte ment
 ### Enlèvement de documents et d’objets
 
 (2) L’enquêteur peut enlever les documents ou objets visés au paragraphe (1) si, selon le cas :
+
 a) il n’est pas possible d’en faire une copie sur les lieux mêmes de l’examen;
+
 b) une copie de ces documents ou objets ne suffit pas aux fins de l’enquête.
 
 ### Restitution des documents et objets ou des copies
 
 (3) S’il est possible de faire une copie des documents ou objets enlevés en vertu du paragraphe (2), l’enquêteur :
+
 a) les restitue dans un délai raisonnable si les documents ou objets ont été enlevés en vertu de l’alinéa (2) a);
+
 b) fournit à la personne qui était en possession de ces documents ou objets une copie de ceux-ci, dans un délai raisonnable, si les documents ou objets ont été enlevés en vertu de l’alinéa (2) b).
 
 ### Copies à titre de preuve
@@ -738,19 +857,25 @@ b) fournit à la personne qui était en possession de ces documents ou objets un
 ### Définition
 
 (5) La définition qui suit s’applique au présent article.
+
 «document» S’entend de tout dossier de renseignements, en tout ou en partie, sous quelque forme que ce soit.
 
 ### Interdiction d’entraver, etc.
 
 43 (1) Nul ne doit :
+
 a) gêner ou entraver le travail d’un enquêteur dans l’exercice de ses fonctions;
+
 b) retenir ou dissimuler à l’enquêteur ou détruire quoi que ce soit qui se rapporte à l’enquête;
+
 c) fournir sciemment de faux renseignements à l’enquêteur dans l’exercice de ses fonctions.
 
 ### Collaboration
 
 (2) Le titulaire d’une inscription collabore pleinement avec :
+
 a) l’enquêteur nommé en vertu de la présente loi;
+
 b) le directeur général, en cas de demande de renseignements présentée en vertu du paragraphe 38 (1).
 
 ### Règlement des plaintes ou enquêtes et Appels
@@ -758,11 +883,17 @@ b) le directeur général, en cas de demande de renseignements présentée en ve
 ### Mesures prises par le directeur général
 
 44 Après la réception d’une plainte ou la nomination d’un enquêteur, le directeur général peut prendre l’une des mesures suivantes, selon ce qui est approprié, sous réserve de toute autre marche à suivre éventuelle que prévoient les règlements :
+
 1. Tenter de régler la plainte par la médiation ou de la résoudre.
+
 2. Donner au titulaire d’une inscription un avertissement écrit selon lequel des mesures peuvent être prises contre lui s’il poursuit une activité précisée.
+
 3. Exiger que le titulaire d’une inscription suive d’autres cours ou une autre formation.
+
 4. Assortir l’inscription de conditions en vertu de l’alinéa 27 (3) b), sous réserve des exigences prévues à l’article 28.
+
 5. Renvoyer au comité de discipline de l’Office toute contravention au code de déontologie prescrit qui s’applique au titulaire d’une inscription, en totalité ou en partie.
+
 6. Prendre les autres mesures éventuellement prescrites que le directeur général estime appropriées.
 
 ### Mesure provisoire urgente
@@ -776,10 +907,15 @@ b) le directeur général, en cas de demande de renseignements présentée en ve
 ### Durée
 
 (3) La mesure provisoire prise en vertu du paragraphe (1) demeure en vigueur jusqu’à ce que le directeur général prenne l’une des mesures suivantes :
+
 a) il la modifie ou la révoque;
+
 b) il choisit de prendre une mesure prévue à la disposition 1, 2, 3, 4 ou 6 de l’article 44 à l’égard de la question;
+
 c) s’il renvoie la question au comité de discipline en vertu de la disposition 5 de l’article 44 :
+
 (i) soit le comité de discipline règle la question et les délais applicables pour interjeter appel de la décision devant le comité d’appel expirent,
+
 (ii) soit le comité d’appel règle la question de façon définitive.
 
 ### Marche à suivre à la suite d’une mesure provisoire
@@ -803,9 +939,13 @@ c) s’il renvoie la question au comité de discipline en vertu de la dispositio
 ### Décision
 
 (4) S’il établit, en application du paragraphe (1), que le titulaire d’une inscription ne s’est pas conformé au code de déontologie prescrit qui s’applique à lui, le comité de discipline peut rendre toute ordonnance qu’il estime appropriée pour, selon le cas :
+
 a) enjoindre au directeur général de révoquer l’inscription du titulaire;
+
 b) enjoindre au directeur général de suspendre l’inscription du titulaire pendant une période précisée;
+
 c) enjoindre au directeur général d’assortir l’inscription du titulaire de conditions précisées pendant une période précisée ou indéfinie;
+
 d) prendre toute autre mesure prescrite.
 
 ### Conformité : directeur général
@@ -881,7 +1021,9 @@ d) prendre toute autre mesure prescrite.
 ### Perception
 
 (4) L’Office peut :
+
 a) indiquer le délai et le mode de paiement des droits, coûts et frais dont il exige le paiement en vertu du paragraphe (1);
+
 b) exiger le versement d’intérêts et d’autres pénalités, y compris le paiement de frais de perception, en cas de non-paiement ou de paiement tardif des droits, coûts et frais dont il exige le paiement en vertu du paragraphe (1).
 
 ### Publication
@@ -895,16 +1037,27 @@ b) exiger le versement d’intérêts et d’autres pénalités, y compris le pa
 ### Confidentialité
 
 51 (1) Quiconque obtient des renseignements dans l’exercice de pouvoirs ou de fonctions qui se rapportent à l’application de la présente loi, des règlements ou du protocole d’entente est tenu au secret à leur égard et ne doit pas les divulguer à qui que ce soit, sauf, selon le cas :
+
 a) dans la mesure où l’exige toute instance introduite en vertu de la présente loi ou dans le cadre de l’application de la présente loi ou des règlements;
+
 b) pour l’application d’une autre loi prescrite de l’Ontario ou du Canada;
+
 c) à un ordre qui régit une profession de la santé au sens de la Loi de 1991 sur les professions de la santé réglementées ou à un organisme similaire qui régit une profession de la santé à l’extérieur de l’Ontario;
+
 d) à une autre personne ou entité à l’extérieur de l’Ontario qui régit les activités de particuliers fournissant des services de santé ou des services de soins de soutien essentiellement semblables à ceux que fournissent les titulaires d’une inscription;
+
 e) à un agent de police afin de faciliter une enquête qui risque d’entraîner une instance en exécution de la loi, sous réserve des restrictions énoncées dans les règlements;
+
 f) à l’avocat de la personne tenue de préserver le caractère confidentiel des renseignements en application du présent article;
+
 g) afin de confirmer, que l’Office ait reçu ou non une plainte ou fait ou non enquête sur le titulaire d’une inscription, s’il existe une nécessité manifeste de divulguer les renseignements dans l’intérêt public;
+
 h) si la divulgation est exigée par une loi de l’Ontario ou du Canada;
+
 i) s’il existe des motifs raisonnables de croire que la divulgation est nécessaire pour éliminer ou réduire un risque considérable de préjudice corporel grave à une personne ou à un groupe de personnes;
+
 j) avec le consentement de la personne à laquelle se rapportent les renseignements;
+
 k) à une entité ou organisation prescrite.
 
 ### Témoignage
@@ -918,19 +1071,29 @@ k) à une entité ou organisation prescrite.
 ### Signification
 
 53 (1) Les avis ou préavis, les ordonnances et les demandes qui sont remis, rendues ou présentées dans le cadre de la présente loi sont suffisamment remis, rendues ou signifiés s’ils sont, selon le cas :
+
 a) remis à personne;
+
 b) envoyés par messagerie;
+
 c) envoyés par courrier recommandé;
+
 d) envoyés par courrier électronique;
+
 e) envoyés par télécopieur.
 
 ### Signification réputée faite
 
 (2) Sous réserve du paragraphe (3), la signification de l’avis, du préavis, de l’ordonnance ou de la demande est réputée faite, selon le cas :
+
 a) le jour de la remise à personne;
+
 b) le cinquième jour suivant son envoi par messagerie;
+
 c) le cinquième jour suivant son envoi par la poste;
+
 d) le jour suivant son envoi par courrier électronique;
+
 e) le jour suivant son envoi par télécopieur.
 
 ### Jours fériés
@@ -958,9 +1121,13 @@ e) le jour suivant son envoi par télécopieur.
 ### Infractions
 
 55 Est coupable d’une infraction quiconque, selon le cas :
+
 a) fournit de faux renseignements dans une demande d’inscription ou de renouvellement d’une inscription en vertu de la présente loi;
+
 b) contrevient au paragraphe 35 (1) ou (2) (Rapports sur les mauvais traitements d’ordre sexuel);
+
 c) contrevient à l’article 37 (Interdiction de se présenter comme titulaire d’une inscription);
+
 d) contrevient à l’article 43 (Interdiction d’entraver, etc.).
 
 ### Peine
@@ -980,9 +1147,13 @@ d) contrevient à l’article 43 (Interdiction d’entraver, etc.).
 ### Protection des renseignements personnels sur la santé
 
 57 Si des documents sont déposés auprès d’un tribunal en ce qui concerne une enquête sur une infraction à la présente loi ou dans le cadre d’une poursuite intentée relativement à une infraction prévue par présente loi, y compris en application des articles 158 à 160 de la Loi sur les infractions provinciales, le tribunal peut, à tout moment, prendre des précautions pour éviter qu’une personne ou lui-même ne divulgue des renseignements personnels sur la santé concernant un particulier. Il peut notamment, lorsque cela est approprié :
+
 a) retirer les renseignements identificatoires concernant une personne dont les renseignements personnels sur la santé sont mentionnés dans un document;
+
 b) recevoir des observations sans préavis;
+
 c) tenir des audiences, en tout ou en partie, à huis clos;
+
 d) mettre sous scellé la totalité ou une partie des dossiers du greffe.
 
 ## PartIE VIII Responsabilité de l’Office et de la couronne
@@ -990,12 +1161,19 @@ d) mettre sous scellé la totalité ou une partie des dossiers du greffe.
 ### Immunité : agents de l’Office
 
 58 (1) Aucune cause d’action contre l’une ou l’autre des personnes suivantes ne résulte d’un acte accompli de bonne foi dans l’exercice effectif ou censé tel des fonctions ou pouvoirs que confère à cette personne la présente loi ou d’une négligence ou d’un manquement que cette personne aurait commis dans l’exercice de bonne foi de ces fonctions ou pouvoirs :
+
 1. Le directeur général.
+
 2. Les enquêteurs nommés en vertu de la présente loi.
+
 3. Les administrateurs ou dirigeants de l’Office.
+
 4. Toute autre personne que l’Office emploie ou dont elle retient les services conformément à la présente loi.
+
 5. Les mandataires de l’Office.
+
 6. Les membres du comité de discipline, du comité d’appel ou de tout autre comité prévu par les règlements.
+
 7. Les superviseurs nommés en vertu de la présente loi.
 
 ### Immunité pendant le mandat du superviseur : administrateur
@@ -1013,7 +1191,9 @@ d) mettre sous scellé la totalité ou une partie des dossiers du greffe.
 ### Immunité : fonctionnaires de la Couronne
 
 59 (1) Aucune cause d’action contre l’une ou l’autre des personnes suivantes ne résulte d’un acte accompli de bonne foi dans l’exercice effectif ou censé tel des fonctions ou pouvoirs que confère à cette personne la présente loi ou d’une négligence ou d’un manquement que cette personne aurait commis dans l’exercice de bonne foi de ces fonctions ou pouvoirs :
+
 1. Un membre du Conseil exécutif, y compris le ministre.
+
 2. Un employé, un dirigeant ou mandataire de la Couronne.
 
 ### Responsabilité de la Couronne : fonctionnaires de la Couronne
@@ -1035,9 +1215,13 @@ d) mettre sous scellé la totalité ou une partie des dossiers du greffe.
 ### Irrecevabilité de certaines instances
 
 61 (1) Sont irrecevables les instances, notamment les instances en responsabilité contractuelle ou délictuelle, celles fondées sur une fiducie ou celles en restitution, qui sont introduites contre :
+
 a) une personne visée au paragraphe 58 (1) à l’égard d’une question visée à ce paragraphe;
+
 b) un administrateur de l’Office visé au paragraphe 58 (2) à l’égard d’une question visée à ce paragraphe;
+
 c) une personne visée au paragraphe 59 (1) à l’égard d’une question visée à ce paragraphe;
+
 d) une personne, notamment la Couronne, visée au paragraphe 60 (1) à l’égard d’une question visée à ce paragraphe.
 
 ### Champ d’application
@@ -1057,38 +1241,65 @@ d) une personne, notamment la Couronne, visée au paragraphe 60 (1) à l’égar
 ### Règlements
 
 63 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire tout ce qui, aux termes de la présente loi, peut ou doit être prescrit, prévu ou fait par ailleurs par règlement;
+
 b) exempter une personne ou une catégorie de personnes de toute partie de la présente loi et assortir cette exemption de conditions;
+
 c) prescrire des catégories de titulaires d’une inscription en plus de la catégorie de préposé aux services de soutien personnel;
+
 d) régir les règles qui s’appliquent à différentes catégories de titulaires d’une inscription;
+
 e) prescrire le code de déontologie applicable aux catégories de titulaires d’une inscription, notamment l’établissement de codes de déontologie différents pour différentes catégories de titulaires d’une inscription;
+
 f) exiger la constitution de tout comité de l’Office qui n’est pas déjà constitué dans la présente loi;
+
 g) régir la composition, le mode de fonctionnement, la marche à suivre et les fonctions de tout comité de l’Office;
+
 h) traiter des demandes d’inscription ou de renouvellement d’inscriptions, notamment :
+
 (i) prescrire des exigences relativement aux inscriptions et au renouvellement d’inscriptions;
+
 (ii) exiger que l’auteur d’une demande ou le titulaire d’une inscription satisfasse aux exigences en matière de formation ou de compétences précisées, notamment terminer un programme d’études ou suivre un ou plusieurs cours désignés;
+
 (iii) désigner des organismes autorisés à dispenser les programmes et cours visés au sous-alinéa (ii);
+
 (iv) prescrire des exemptions de ces exigences et assortir ces exemptions de conditions;
+
 i) traiter de la délivrance des marques visuelles et des autres identificateurs qu’établit et que tient l’Office et autoriser leur utilisation par les titulaires d’une inscription;
+
 j) exiger et régir la divulgation des renseignements sur la rémunération et les autres paiements en application de l’article 22;
+
 k) régir le tableau qui doit être établi et tenu en application de l’article 32 de la présente loi, notamment prescrire les renseignements qui doivent y figurer de même que la forme et la manière dont il doit être tenu;
+
 l) traiter des questions liées aux plaintes que reçoit l’Office et des enquêtes impliquant des allégations de mauvais traitements d’ordre sexuel par des titulaires d’une inscription, notamment :
+
 (i) exiger que l’Office constitue un fonds pour fournir une thérapie et du counseling aux personnes qui allèguent que des mauvais traitements d’ordre sexuel ont été commis par des titulaires d’une inscription,
+
 (ii) exiger que l’Office fournisse d’autres types de soutien liés aux allégations de mauvais traitements d’ordre sexuel par des titulaires d’une inscription;
+
 m) traiter des enquêtes prévues par la présente loi;
+
 n) traiter de la manière dont les décisions du comité de discipline et du comité d’appel sont mises à la disposition du public et de la fréquence à laquelle elles le sont;
+
 o) exiger que le directeur général ou le conseil mène des activités d’amélioration continue de la qualité à l’intention des titulaires d’une inscription, lesquelles peuvent comprendre l’exigence de participer à ces activités comme condition pour l’inscription, ou autoriser le directeur ou le conseil à ce faire;
+
 p) prévoir toute mesure de transition nécessaire pour la mise en oeuvre efficace de la présente loi;
+
 q) définir, pour l’application de la présente loi, tout terme utilisé, mais non défini dans la présente loi;
+
 r) traiter de toutes les questions concernant la liquidation et la dissolution de l’Office et le transfert de ses éléments d’actif, éléments de passif, droits et obligations;
+
 s) traiter de toute question que le lieutenant-gouverneur en conseil estime souhaitable pour réaliser efficacement l’objet de la présente loi.
 
 ## PARTIE x (OMISE)
 
 64 Omis (modification de la présente loi).
+
 65 à 70 Omis (modification ou abrogation d’autres textes législatifs / modification de la présente loi).
 
 ## PARTIE xI (OMISE)
 
 71 Omis (entrée en vigueur de dispositions de la présente loi).
+
 72 Omis (édiction du titre abrégé de la présente loi).

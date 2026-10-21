@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98e15"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # électricité (Loi de 1998 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98e15) before relying on it.
 
 L.O. 1998, chap. 15, annexe A
 
@@ -21,84 +21,159 @@ L.O. 1998, chap. 15, annexe A
 ### Objets
 
 1 Les objets de la présente loi sont notamment les suivants :
+
 a) assurer la suffisance, la sécurité, la durabilité et la fiabilité de l’approvisionnement en électricité en Ontario grâce à la planification et la gestion responsables des ressources et de l’approvisionnement en électricité ainsi que la demande d’électricité;
+
 a.1) créer un mécanisme de planification énergétique;
+
 a.1.1) soutenir la croissance économique d’une manière compatible avec les politiques du gouvernement de l’Ontario;
+
 a.2) promouvoir l’électrification et faciliter la mise en œuvre de mesures d’efficacité énergétique visant à utiliser l’électricité pour réduire l’ensemble des émissions en Ontario;
+
 b) encourager l’économie et l’utilisation efficace de l’électricité d’une manière compatible avec les politiques du gouvernement de l’Ontario;
+
 c) faciliter la gestion de la consommation d’une manière compatible avec les politiques du gouvernement de l’Ontario;
+
 d) promouvoir l’utilisation de sources d’énergie et de technologies propres, y compris des sources d’énergie de remplacement et des sources d’énergie renouvelable, d’une manière compatible avec les politiques du gouvernement de l’Ontario;
+
 d.1) faciliter le développement en Ontario d’un marché et d’une économie de l’hydrogène afin d’encourager les utilisations et les mises en application potentielles de l’hydrogène à faible teneur en carbone, notamment à des fins liées, directement ou indirectement, au réseau électrique ou au secteur de l’électricité, d’une manière compatible avec les politiques du gouvernement de l’Ontario;
+
 e) sous réserve de l’article 28.1, assurer aux producteurs, aux détaillants, aux intervenants du marché et aux consommateurs un accès non discriminatoire aux réseaux de transport et de distribution situés en Ontario;
+
 f) protéger les intérêts des consommateurs en ce qui concerne les prix ainsi que la suffisance, la fiabilité et la qualité du service d’électricité;
+
 g) promouvoir l’efficacité économique et la durabilité au niveau de la production, du transport, de la distribution et de la vente d’électricité;
+
 g.1) faciliter la modification de la structure de propriété des sociétés publiques qui transportent, distribuent ou vendent au détail de l’électricité;
+
 g.2) faciliter la disposition de la totalité ou d’une partie des intérêts de la Couronne dans des sociétés qui transportent, distribuent ou vendent au détail de l’électricité et faire en sorte que le produit d’une telle disposition puisse être affecté à une fin du gouvernement de l’Ontario;
+
 h) faire en sorte que la dette d’Ontario Hydro soit remboursée de manière prudente et que le fardeau du remboursement soit réparti équitablement;
+
 i) faciliter le maintien d’une industrie de l’électricité qui soit financièrement viable;
+
 j) protéger les biens-fonds réservés aux couloirs pour qu’ils demeurent disponibles pour des usages qui profitent au public, tout en reconnaissant la primauté de leur utilisation aux fins du transport.
 
 ### Dispositions interprétatives
 
 2 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «activités liées aux compteurs individuels» S’entend au sens de la partie III de la Loi de 2010 sur la protection des consommateurs d’énergie. («suite metering»)
+
 «biens-fonds réservés aux couloirs» Les biens immeubles transférés à Sa Majesté du chef de l’Ontario par l’article 114.2. («corridor land»)
+
 «comité de surveillance du marché» Le comité de surveillance du marché maintenu aux termes de la partie II de la Loi de 1998 sur la Commission de l’énergie de l’Ontario. («Market Surveillance Panel»)
+
 «Commission» La Commission de l’énergie de l’Ontario. («Board»)
+
 «compteur individuel» S’entend au sens de la partie III de la Loi de 2010 sur la protection des consommateurs d’énergie. («suite meter»)
+
 «consommateur» Personne qui utilise, pour sa propre consommation, de l’électricité qu’elle n’a pas produite. («consumer»)
+
 «contrat d’acquisition» Contrat conclu par la SIERE conformément à l’article 25.32. («procurement contract»)
+
 «détaillant» Personne qui vend de l’électricité au détail. («retailer»)
+
 «distribuer» Relativement à l’électricité, action de l’acheminer à des tensions de 50 kilovolts ou moins. («distribute»)
+
 «distributeur» Propriétaire ou exploitant d’un réseau de distribution. («distributor»)
+
 «données des compteurs intelligents» Données provenant des compteurs intelligents, y compris celles relatives à la consommation d’électricité des consommateurs. («smart metering data»)
+
 «droits» Relativement à la SIERE, sommes exigées par la SIERE ou une entité remplacée, au sens de l’article 4, en recouvrement de ses frais d’exploitation. («fees»)
+
 «Entité responsable des compteurs intelligents» La personne morale constituée, la société en commandite ou la société en nom collectif formée ou l’entité désignée conformément à l’article 53.7 en vue de réaliser l’initiative des compteurs intelligents du gouvernement. («Smart Metering Entity»)
+
 «filiale» Relativement à une personne morale, s’entend au sens de la Loi sur les sociétés par actions. («subsidiary»)
+
 «fournisseur de compteurs individuels» S’entend au sens de la partie III de la Loi de 2010 sur la protection des consommateurs d’énergie. («suite meter provider»)
+
 «frais» Relativement à la SIERE, sommes exigées par la SIERE ou une entité remplacée, au sens de l’article 4, en recouvrement des sommes que la SIERE ou l’entité remplacée a versées ou doit verser à une autre personne à l’égard de l’électricité. («charges»)
+
 «Hydro One Inc.» La personne morale constituée sous le nom de Ontario Hydro Services Company Inc. sous le régime de la Loi sur les sociétés par actions le 1 er décembre 1998. («Hydro One Inc.»)
+
 «initiative des compteurs intelligents» Politiques du gouvernement de l’Ontario relatives à sa décision de faire en sorte que les consommateurs d’électricité de l’Ontario soient équipés un jour de compteurs intelligents. («smart metering initiative»)
+
 «installation de production» Installation servant à produire de l’électricité ou à fournir des services accessoires, à l’exception de ceux que fournit un transporteur ou un distributeur par l’exploitation d’un réseau de transport ou de distribution, y compris les constructions, le matériel et les autres choses utilisés à cette fin. («generation facility»)
+
 «installation de production d’énergie renouvelable» Installation de production qui produit de l’électricité à partir d’une source d’énergie renouvelable et qui remplit les critères prescrits par règlement. S’entend en outre du matériel, des systèmes et des technologies connexes ou auxiliaires également prescrits par règlement, à l’exclusion toutefois d’un lieu d’élimination des déchets connexe, sauf s’il est prescrit par règlement pour l’application de la présente définition. («renewable energy generation facility»)
+
 «installation d’évaluation du potentiel en énergie renouvelable» Dispositifs ou structures qui servent à recueillir des renseignements sur les conditions naturelles présentes à l’emplacement de ces dispositifs ou structures et de leur infrastructure connexe et qui remplissent les critères prescrits par règlement. («renewable energy testing facility»)
+
 «intervenant du marché» Personne que les règles du marché autorisent à participer aux marchés administrés par la SIERE ou à permettre ou à faire en sorte que de l’électricité soit acheminée à partir ou au moyen du réseau dirigé par la SIERE ou jusqu’à celui-ci. («market participant»)
+
 «lieu d’élimination des déchets» S’entend au sens de l’article 25 de la Loi sur la protection de l’environnement. («waste disposal site»)
+
 «marchés administrés par la SIERE» Les marchés créés par les règles du marché. («IESO-administered markets»)
+
 «membre du même groupe» Relativement à une personne morale, s’entend au sens de la Loi sur les sociétés par actions. («affiliate»)
+
 «ministre» Le ministre de l’Énergie ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «norme de fiabilité» Norme ou critère, y compris toute modification qui y est apportée, qui a trait au fonctionnement fiable du réseau d’électricité intégré et qui est approuvé par un organisme de normalisation. («reliability standard»)
+
 «Office de la sécurité des installations électriques» La personne ou l’organisme désigné comme tel par les règlements. («Electrical Safety Authority»)
+
 «Ontario Power Generation Inc.» La personne morale constituée sous le nom de Ontario Power Generation Inc. sous le régime de la Loi sur les sociétés par actions le 1 er décembre 1998. («Ontario Power Generation Inc.»)
+
 «organisme de normalisation» La société appelée North American Electric Reliability Corporation ou tout organisme qui la remplace, ou tout autre organisme désigné par règlement qui approuve des normes ou des critères de fiabilité applicables en Ontario et ailleurs à l’égard des réseaux de transport. («standards authority»)
+
 «permis» Permis délivré en vertu de la partie V de la Loi de 1998 sur la Commission de l’énergie de l’Ontario. («licence»)
+
 «producteur» Propriétaire ou exploitant d’une installation de production. («generator»)
+
 «produire» Relativement à l’électricité, action de produire de l’électricité ou de fournir des services accessoires, à l’exception de ceux que fournit un transporteur ou un distributeur par l’exploitation d’un réseau de transport ou de distribution. («generate»)
+
 «projet d’énergie renouvelable» Construction, installation, utilisation, exploitation, modification ou mise hors service d’une installation de production d’énergie renouvelable. («renewable energy project»)
+
 «projet d’évaluation du potentiel en énergie renouvelable» Construction, installation, utilisation, exploitation, modification ou mise hors service d’une installation d’évaluation du potentiel en énergie renouvelable. («renewable energy testing project»)
+
 «règlement de régie» Le règlement administratif tenu à jour en application du paragraphe 22 (2). («Governance and Structure By-law»)
+
 «règlements» Les règlements pris en application de la présente loi. («regulations»)
+
 «règles du marché» Les règles établies en vertu de l’article 32. («market rules»)
+
 «réseau de distribution» Ensemble des installations servant à distribuer de l’électricité, y compris les constructions, le matériel et les autres choses utilisés à cette fin. («distribution system»)
+
 «réseau d’électricité intégré» S’entend du réseau dirigé par la SIERE et des constructions, du matériel et des autres choses qui le relient aux réseaux de transport et aux réseaux de distribution situés en Ontario et aux réseaux de transport situés à l’extérieur de l’Ontario. («integrated power system»)
+
 «réseau de transport» Ensemble des installations servant à transporter de l’électricité, y compris les constructions, le matériel et les autres choses utilisés à cette fin. («transmission system»)
+
 «réseau dirigé par la SIERE» Ensemble des réseaux de transport dont la SIERE a, aux termes d’accords, le pouvoir de diriger les activités. («IESO-controlled grid»)
+
 «réseau intelligent» Les systèmes et le matériel perfectionnés d’échange de renseignements décrits au paragraphe (1.3). («smart grid»)
+
 «secteur de service» Relativement à un distributeur, secteur dans lequel son permis l’autorise à distribuer de l’électricité. («service area»)
+
 «services accessoires» Services nécessaires au maintien de la fiabilité du réseau dirigé par la SIERE, notamment la régulation de la fréquence, la régulation de la tension, la puissance réactive et les réserves d’exploitation. («ancillary services»)
+
 «SIERE» La Société indépendante d’exploitation du réseau d’électricité maintenue aux termes de la partie II. («IESO»)
+
 «Société financière» La Société financière Ontario Hydro, telle qu’elle est maintenue aux termes de la partie V. («Financial Corporation»)
+
 «source d’énergie de remplacement» Source d’énergie qui :
+
 a) d’une part, est prescrite par les règlements ou satisfait aux critères qui y sont prescrits;
+
 b) d’autre part, peut servir à la production d’électricité au moyen de méthodes plus propres que certaines autres technologies de production utilisées en Ontario avant le 1 er juin 2004. («alternative energy source»)
+
 «source d’énergie renouvelable» Source d’énergie qui se renouvelle naturellement et qui satisfait aux critères la concernant qui sont prescrits par les règlements. S’entend notamment de l’énergie éolienne, de l’énergie hydraulique, de la biomasse, des biogaz, des biocarburants, de l’énergie solaire, de l’énergie géothermique, de l’énergie marémotrice et des autres sources d’énergie prescrites par les règlements. («renewable energy source»)
+
 «transporter» Relativement à l’électricité, action de l’acheminer à des tensions de plus de 50 kilovolts. («transmit»)
+
 «transporteur» Propriétaire ou exploitant d’un réseau de transport. («transmitter»)
+
 «valeur mobilière» S’entend au sens de la Loi sur les valeurs mobilières. («security»)
+
 «valeur mobilière avec droit de vote» S’entend au sens de la Loi sur les sociétés par actions. («voting security»)
+
 «vendre au détail» Relativement à l’électricité, s’entend de l’action :
+
 a) soit de vendre de l’électricité à un consommateur ou de la mettre en vente à son intention;
+
 b) soit d’agir en qualité de mandataire ou de courtier d’un détaillant relativement à la vente ou à la mise en vente d’électricité;
+
 c) soit d’agir ou d’offrir d’agir en qualité de mandataire ou de courtier d’un consommateur relativement à la vente ou à la mise en vente d’électricité. («retail») 1998, chap. 15, annexe A, par. 2 (1)
 
 ### Source d’énergie de remplacement, exception
@@ -112,15 +187,21 @@ c) soit d’agir ou d’offrir d’agir en qualité de mandataire ou de courtier
 ### Réseau intelligent
 
 (1.3) Pour l’application de la présente loi, le réseau intelligent désigne les systèmes et le matériel perfectionnés d’échange de renseignements qui, utilisés ensemble, ont pour effet d’améliorer la flexibilité, la sûreté, la fiabilité, l’efficacité et la sécurité du réseau d’électricité intégré et des réseaux de distribution, particulièrement aux fins suivantes :
+
 a) permettre l’utilisation accrue de sources et de technologies d’énergie renouvelable, y compris des installations de production raccordées au réseau de distribution;
+
 b) accroître les possibilités d’offrir à la clientèle des solutions de réponse à la demande et de contrôle de la consommation de même que des renseignements sur les prix;
+
 c) permettre l’utilisation d’applications de contrôle des systèmes et de technologies émergentes, innovatrices et éconergétiques;
+
 d) soutenir les autres objectifs prescrits par règlement.
 
 ### Contrats d’acquisition : disposition transitoire
 
 (1.5) Pour l’application de la présente loi, est réputé considéré comme un contrat d’acquisition :
+
 a) tout contrat conclu ou pris en charge conformément à l’article 25.32 avant le jour de l’entrée en vigueur de l’article 7 de l’annexe 2 de la Loi de 2016 modifiant des lois sur l’énergie ;
+
 b) tout contrat conclu conformément à l’article 25.35 avant l’abrogation de cet article par l’article 8 de l’annexe 2 de la Loi de 2016 modifiant des lois sur l’énergie.
 
 ### Contrats d’acquisition : exceptions
@@ -150,9 +231,13 @@ b) tout contrat conclu conformément à l’article 25.35 avant l’abrogation d
 ### Mention de la SIGMÉ
 
 (7) Dans les déclarations visées à l’article 124 et dans les règlements, les ordonnances, les décrets, les arrêtés ou les ordres pris, rendus ou donnés en application de la présente loi ou d’une autre loi :
+
 a) la mention de la Société indépendante de gestion du marché de l’électricité est réputée une mention de la Société indépendante d’exploitation du réseau d’électricité, sauf si le contexte exige une autre interprétation, et la mention de la SIGMÉ est réputée une mention de la SIERE, sauf si le contexte exige une autre interprétation;
+
 b) la mention des marchés administrés par la SIGMÉ est réputée une mention des marchés administrés par la SIERE;
+
 c) la mention du réseau dirigé par la SIGMÉ est réputée une mention du réseau dirigé par la SIERE;
+
 d) la mention de l’Office de l’électricité de l’Ontario ou de l’OEO vaut mention de la Société indépendante d’exploitation du réseau d’électricité, telle qu’elle est prorogée par la présente loi, sauf si le contexte exige une autre interprétation.
 
 ### Mentions de la Loi sur l’imposition des sociétés
@@ -178,16 +263,23 @@ d) la mention de l’Office de l’électricité de l’Ontario ou de l’OEO va
 ### Extinction des causes d’action : restrictions en matière d’acquisitions
 
 3.2 (1) Aucune cause d’action découlant directement ou indirectement de ce qui suit ne prend naissance contre la Couronne, un membre, actuel ou ancien, du Conseil exécutif ou un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, de la Couronne, ni contre la SIERE ou ses administrateurs, dirigeants, employés, mandataires ou conseillers, actuels ou anciens :
+
 a) l’édiction des modifications apportées à la présente loi par l’annexe 1 de la Loi de 2025 pour protéger l’Ontario en libérant son économie, ou la modification ou l’abrogation de toute disposition ajoutée à la présente loi par cette annexe;
+
 b) la remise, la modification ou l’abrogation de toute disposition d’une directive donnée en vertu du paragraphe 25.32 (5) qui comprend une exigence visée au paragraphe 25.32 (6.1);
+
 c) la prise, la modification ou l’abrogation de toute disposition d’un règlement pour l’application du paragraphe 25.32 (12) ou de l’article 25.32.1;
+
 d) quoi que ce soit qui est fait ou n’est pas fait conformément aux dispositions ajoutées à la présente loi par l’annexe 1 de la Loi de 2025 pour protéger l’Ontario en libérant son économie ou conformément à une directive visée à l’alinéa b) ou à un règlement visé à l’alinéa c).
 
 ### Idem
 
 (2) Aucune cause d’action découlant directement ou indirectement de ce qui suit ne prend naissance contre la Couronne, un membre ou ancien membre du Conseil exécutif ou un employé, fonctionnaire, mandataire ou conseiller de la Couronne, actuel ou ancien, ni contre Ontario Power Generation Inc. ou ses administrateurs, dirigeants, employés, mandataires ou conseillers, actuels ou anciens:
+
 a) l’édiction des modifications apportées à la présente loi par l’annexe 1 de la Loi de 2025 pour protéger l’Ontario en libérant son économie, ou la modification ou l’abrogation de toute disposition ajoutée à la présente loi par cette annexe;
+
 b) la prise, la modification ou l’abrogation de toute disposition d’un règlement pour l’application de l’article 53.6.1;
+
 c) quoi que ce soit qui est fait ou n’est pas fait conformément aux dispositions ajoutées à la présente loi par l’annexe 1 de la Loi de 2025 pour protéger l’Ontario en libérant son économie ou conformément à un règlement visé à l’alinéa b).
 
 ### Aucun recours
@@ -219,9 +311,13 @@ c) quoi que ce soit qui est fait ou n’est pas fait conformément aux dispositi
 ### Définitions
 
 4 Les définitions qui suivent s’appliquent à la présente partie.
+
 «ancienne Société indépendante d’exploitation du réseau d’électricité» La Société indépendante d’exploitation du réseau d’électricité prorogée par le paragraphe 4 (1), dans sa version antérieure à l’entrée en vigueur du paragraphe 3 (1) de l’annexe 7 de la Loi de 2014 ouvrant des perspectives et assurant notre avenir (mesures budgétaires). («predecessor Independent Electricity System Operator»)
+
 «entité remplacée» Soit l’ancienne Société indépendante d’exploitation du réseau d’électricité, soit l’Office de l’électricité de l’Ontario. («predecessor»)
+
 «Office de l’électricité de l’Ontario» La personne morale créée par le paragraphe 25.1 (1), dans sa version antérieure à l’entrée en vigueur du paragraphe 3 (1) de l’annexe 7 de la Loi de 2014 ouvrant des perspectives et assurant notre avenir (mesures budgétaires). «OEO» a un sens correspondant. («Ontario Power Authority», «OPA»)
+
 «Société indépendante d’exploitation du réseau d’électricité» Sauf si le contexte exige une autre interprétation, s’entend de la personne morale prorogée par le paragraphe 5 (1). («Independent Electricity System Operator») 2014, chap. 7, annexe 7, par. 3 (1).
 
 ### Fusion de la SIERE et de l’OEO
@@ -239,13 +335,17 @@ c) quoi que ce soit qui est fait ou n’est pas fait conformément aux dispositi
 ### Séparation des fonctions
 
 (4) Le conseil d’administration prend les mesures qu’il juge souhaitables et appropriées pour assurer une séparation effective des fonctions et des activités de la SIERE qui se rapportent :
+
 a) au fonctionnement des marchés;
+
 b) aux activités d’acquisition et de gestion des contrats.
 
 ### Interdiction
 
 (5) La SIERE ne doit pas exploiter les marchés administrés par la SIERE d’une manière qui :
+
 a) soit avantage ou désavantage injustement un intervenant du marché ou une catégorie d’intervenants du marché;
+
 b) soit est incompatible avec la présente loi.
 
 ### Renseignements liés au transport
@@ -259,30 +359,55 @@ b) soit est incompatible avec la présente loi.
 ### Objets
 
 6 (1) Les objets de la SIERE sont les suivants :
+
 a) exercer les pouvoirs et les fonctions que lui attribuent la présente loi, les règlements, les directives, les règles du marché et son permis;
+
 b) conclure avec les transporteurs des accords lui donnant le pouvoir de diriger les activités de leurs réseaux de transport;
+
 c) diriger les activités et maintenir la fiabilité du réseau dirigé par la SIERE de manière à promouvoir les objets de la présente loi;
+
 d) participer à l’établissement, par tout organisme de normalisation, de critères et de normes de fiabilité pour le réseau d’électricité intégré;
+
 e) établir et faire respecter des critères et des normes de fiabilité pour le réseau d’électricité intégré;
+
 f) travailler avec les autorités responsables de l’extérieur de l’Ontario pour coordonner les activités de la SIERE avec les leurs;
+
 g) exploiter les marchés administrés par la SIERE de manière à promouvoir les objets de la présente loi;
+
 h) exercer des activités se rapportant à la conclusion de contrats pour l’obtention d’un approvisionnement en électricité, d’une capacité de production d’électricité, d’une capacité de stockage d’électricité, de réseaux de transport ou de toute partie de tels réseaux et de ressources en matière de conservation;
+
 i) exercer des activités se rapportant aux règlements des différends, aux paiements effectués aux termes d’un contrat conclu en vertu de la présente loi et aux paiements prévus par la présente loi ou la Loi de 1998 sur la Commission de l’énergie de l’Ontario ;
+
 j) exercer des activités favorisant la réalisation des objectifs fixés de suffisance, de fiabilité et de sécurité de l’approvisionnement et des ressources en électricité en Ontario;
+
 k) prévoir la demande d’électricité ainsi que la suffisance et la fiabilité des ressources en électricité de l’Ontario à court, à moyen et à long terme;
+
 l) planifier en toute indépendance la production, la gestion de la demande, la conservation et le transport de l’électricité;
+
 l.1) soutenir la croissance économique d’une manière qui protège les intérêts des consommateurs;
+
 m) exercer des activités facilitant la diversification des sources d’approvisionnement en électricité en encourageant l’utilisation de sources d’énergie et de technologies propres, y compris des sources d’énergie de remplacement et des sources d’énergie renouvelable;
+
 n) exercer des activités favorisant la réalisation des objectifs pour l’ensemble du réseau en ce qui concerne la quantité d’électricité devant être produite à partir de différentes sources d’énergie;
+
 o) exercer des activités facilitant la gestion de la consommation;
+
 p) exercer des activités encourageant la conservation et l’utilisation efficace de l’électricité;
+
 p.1) exercer des activités qui font la promotion de l’électrification et qui facilitent la mise en œuvre de mesures d’efficacité énergétique visant à utiliser l’électricité pour réduire l’ensemble des émissions en Ontario;
+
 q) appuyer la Commission en facilitant la stabilité des tarifs à l’intention de certains types de consommateurs;
+
 q.1) exercer les pouvoirs, droits et fonctions et s’acquitter des obligations que lui confère la Loi de 2017 sur le Plan ontarien pour des frais d’électricité équitables et exercer des activités facilitant la mise en oeuvre de cette loi, notamment :
+
 (i) conclure des accords ou des arrangements avec toute personne pour l’application de la Loi de 2017 sur le Plan ontarien pour des frais d’électricité équitables,
+
 (ii) exercer des activités se rapportant aux paiements à effectuer ou à recevoir conformément à la Loi de 2017 sur le Plan ontarien pour des frais d’électricité équitables, ainsi que les activités connexes de règlement des différends;
+
 (iii) Abrogé : 2019, chap. 6, annexe 3, par. 11 (1).
+
 r) recueillir et rendre public des renseignements sur les besoins en électricité de l’Ontario à court, à moyen et à long terme et sur la suffisance et la fiabilité du réseau d’électricité intégré eu égard à ces besoins;
+
 s) réaliser les autres objets que prescrivent les règlements.
 
 ### But non lucratif
@@ -320,25 +445,37 @@ s) réaliser les autres objets que prescrivent les règlements.
 ### Exception : règles, manuels et autres communications
 
 (4) L’obligation de la SIERE de mettre des renseignements à disposition en français ne s’applique pas à ce qui suit :
+
 1. Les règles, les manuels, les normes, les procédures ou les communications se rapportant à l’exploitation des marchés administrés par la SIERE ou du réseau dirigé par la SIERE.
+
 2. Les règles, les contrats ou les autres renseignements sur les programmes se rapportant à l’obtention, selon le cas :
+
 i. d’un approvisionnement en électricité ou d’une capacité de production ou de stockage d’électricité,
+
 ii. de changements de la demande d’électricité,
+
 iii. de mesures concernant la conservation de l’électricité,
+
 iv. de mesures concernant la gestion de la demande d’électricité.
+
 v. de réseaux de transport ou de toute partie de tels réseaux.
+
 3. Les règles du registre établies en vertu de la partie II.1.
 
 ### Programme de TRG pour les micro-projets
 
 (5) L’exception prévue à la disposition 2 du paragraphe (4) ne s’applique pas aux renseignements concernant ce qui suit :
+
 a) le Programme de TRG pour les micro-projets;
+
 b) les droits et les obligations des petits consommateurs dans le cadre d’un programme de conservation ou de gestion de la demande.
 
 ### Définitions
 
 (6) Les définitions qui suivent s’appliquent au présent article.
+
 «petit consommateur» S’entend au sens qu’a ce terme à l’article 56 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario le jour de l’entrée en vigueur du paragraphe 3 (1) de l’annexe 7 de la Loi de 2014 ouvrant des perspectives et assurant notre avenir (mesures budgétaires). («low-volume consumer»)
+
 «Programme de TRG pour les micro-projets» S’entend du Programme de tarifs de rachat garantis pour les micro-projets qui est prorogé en application du paragraphe 25.32 (10) et qui permet à certains consommateurs d’électricité d’élaborer de très petits projets d’énergie renouvelable. («microFIT Program») 2014, chap. 7, annexe 7, par. 3 (1)
 
 ### Conseil d’administration
@@ -348,7 +485,9 @@ b) les droits et les obligations des petits consommateurs dans le cadre d’un p
 ### Composition
 
 (2) Le conseil d’administration se compose des personnes suivantes :
+
 a) le chef de la direction de la SIERE;
+
 b) huit à dix autres particuliers nommés par le ministre.
 
 ### Indépendance des administrateurs
@@ -386,12 +525,15 @@ b) huit à dix autres particuliers nommés par le ministre.
 ### Fonctions des administrateurs
 
 12 Dans l’exercice de ses pouvoirs et fonctions d’administrateur, chaque administrateur de la SIERE agit à la fois :
+
 a) avec intégrité et de bonne foi au mieux des intérêts de la SIERE;
+
 b) avec le soin, la diligence et la compétence dont ferait preuve, dans des circonstances analogues, une personne raisonnablement prudente.
 
 ### Conflits d’intérêts
 
 13 Les administrateurs, dirigeants, employés et mandataires de la SIERE se conforment aux dispositions qui se rapportent aux conflits d’intérêts et qui sont comprises dans le règlement de régie ou les modalités, les règles ou les codes établis conformément à ce règlement.
+
 13.1-13.2 Abrogés : 2014, chap. 7, annexe 7, par. 3 (1).
 
 ### Établissement de politiques, règles par le conseil
@@ -401,12 +543,15 @@ b) avec le soin, la diligence et la compétence dont ferait preuve, dans des cir
 ### Incompatibilité
 
 (2) Est nulle la disposition d’une politique, d’une règle, d’une ligne de conduite ou d’un code qui est incompatible avec la présente loi, les règlements ou les règlements administratifs de la SIERE. 2014, chap. 7, annexe 7, par. 3 (1).
+
 14.1 Abrogé : 2014, chap. 7, annexe 7, par. 3 (1).
 
 ### Délégation des pouvoirs du conseil
 
 15 (1) Le conseil d’administration peut faire ce qui suit, conformément au règlement de régie :
+
 a) déléguer n’importe lequel de ses pouvoirs ou fonctions à un de ses comités, à un comité qu’il a créé ou à un ou plusieurs administrateurs;
+
 b) déléguer n’importe lequel de ses pouvoirs en matière de gestion des activités et des affaires de la SIERE à un ou plusieurs dirigeants de cette dernière.
 
 ### Conditions et restrictions
@@ -432,7 +577,9 @@ b) déléguer n’importe lequel de ses pouvoirs en matière de gestion des acti
 ### Personnel et experts à la disposition des comités
 
 17 Sous réserve des règlements administratifs de la SIERE, les comités créés par le conseil d’administration peuvent utiliser les services des personnes suivantes :
+
 a) les employés de la SIERE, sur consentement de celle-ci;
+
 b) les autres personnes qui possèdent les compétences techniques ou professionnelles jugées nécessaires.
 
 ### Observations des intervenants
@@ -450,6 +597,7 @@ b) les autres personnes qui possèdent les compétences techniques ou profession
 ### Idem
 
 (2) Le paragraphe (1) n’a pas pour effet de dégager la SIERE de la responsabilité qu’elle serait autrement tenue d’assumer à l’égard d’une cause d’action découlant d’un acte, d’une négligence ou d’un manquement visé au paragraphe (1).
+
 19.1 Abrogé : 2014, chap. 7, annexe 7, par. 3 (1).
 
 ### Renseignements confidentiels concernant les intervenants du marché
@@ -459,7 +607,9 @@ b) les autres personnes qui possèdent les compétences techniques ou profession
 ### Définition
 
 (2) La définition qui suit s’applique au présent article.
+
 «personne responsable» La personne désignée comme personne responsable de la SIERE dans les règlements pris en vertu de la Loi sur l’accès à l’information et la protection de la vie privée.
+
 20.1 Abrogé : 2014, chap. 7, annexe 7, par. 3 (1).
 
 ### Responsabilité des administrateurs aux termes de la Loi de 2000 sur les normes d’emploi
@@ -473,12 +623,19 @@ b) les autres personnes qui possèdent les compétences techniques ou profession
 ### Règlement de régie
 
 (2) Le conseil d’administration veille à tenir à jour un règlement administratif qui traite des questions de régie interne, notamment :
+
 a) la nomination du chef de la direction de la SIERE;
+
 b) les circonstances dans lesquelles un administrateur cesse d’occuper son poste;
+
 c) la rémunération et les avantages sociaux du président et des autres membres du conseil;
+
 d) les conflits d’intérêts;
+
 e) la délégation des pouvoirs et fonctions de la SIERE;
+
 f) la création, la composition et les fonctions des comités;
+
 g) les autres questions qui sont prescrites par règlement ou qui se rapportent à la régie de la personne morale.
 
 ### Modification ou abrogation du règlement de régie
@@ -496,7 +653,9 @@ g) les autres questions qui sont prescrites par règlement ou qui se rapportent 
 ### Idem
 
 (6) Sous réserve des paragraphes (4) et (7), le règlement administratif auquel s’applique le paragraphe (3) entre en vigueur à la première des dates suivantes :
+
 1. La date d’expiration du délai de 60 jours visé au paragraphe (4).
+
 2. La date à laquelle le ministre avise par écrit le conseil d’administration qu’il ne rejettera pas le règlement administratif.
 
 ### Idem
@@ -522,10 +681,15 @@ g) les autres questions qui sont prescrites par règlement ou qui se rapportent 
 ### Délégation
 
 (3) Dans le décret qu’il prend en vertu du paragraphe (1), le lieutenant-gouverneur en conseil peut déléguer tout ou partie des pouvoirs que le présent article confère au ministre des Finances :
+
 a) à un fonctionnaire qui est employé aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario et qui travaille dans le ministère des Finances, mais non dans le cabinet du ministre des Finances;
+
 b) au chef de la direction de l’Office ontarien de financement;
+
 c) à un fonctionnaire qui est employé aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario et qui travaille dans l’Office ontarien de financement;
+
 d) à un avocat engagé pour représenter le ministre des Finances;
+
 e) à un avocat engagé pour représenter l’Office ontarien de financement.
 
 ### Droits payables au ministre des Finances
@@ -571,7 +735,9 @@ e) à un avocat engagé pour représenter l’Office ontarien de financement.
 ### Modification des droits
 
 (6) La SIERE ne doit pas prendre les mesures suivantes sans l’approbation de la Commission :
+
 a) fixer, éliminer ou modifier des droits qu’elle a fixés;
+
 b) éliminer ou modifier des droits fixés par une entité remplacée qui sont toujours en vigueur.
 
 ### Audience
@@ -593,8 +759,11 @@ b) éliminer ou modifier des droits fixés par une entité remplacée qui sont t
 ### Droits
 
 25.1 (1) La SIERE peut fixer et exiger des droits pour recouvrer ce qui suit :
+
 a) les coûts occasionnés par tout ce qui est fait relativement au réseau dirigé par la SIERE ou aux marchés administrés par la SIERE;
+
 b) les coûts occasionnés par tout ce que la présente loi ou une autre loi oblige ou autorise la SIERE à faire;
+
 c) tous les autres types de dépenses dont les règlements autorisent le recouvrement, sous réserve des restrictions qui y sont énoncées.
 
 ### Recouvrement des coûts, contrats d’acquisition
@@ -662,29 +831,45 @@ c) tous les autres types de dépenses dont les règlements autorisent le recouvr
 ### Dispositions transitoires : questions générales
 
 25.8 (1) L’entrée en vigueur du paragraphe 3 (1) de l’annexe 7 de la Loi de 2014 ouvrant des perspectives et assurant notre avenir (mesures budgétaires) a les conséquences suivantes :
+
 1. L’ancienne Société indépendante d’exploitation du réseau d’électricité et l’Office de l’électricité de l’Ontario cessent d’exister en tant qu’entités distinctes de la SIERE.
+
 2. Les droits, biens et actifs qui appartiennent à l’ancienne Société indépendante d’exploitation du réseau d’électricité et à l’Office de l’électricité de l’Ontario immédiatement avant l’entrée en vigueur de ce paragraphe passent à la SIERE.
+
 3. Les dettes, obligations financières et engagements impayés dont l’ancienne Société indépendante d’exploitation du réseau d’électricité et l’Office de l’électricité de l’Ontario sont responsables immédiatement avant l’entrée en vigueur de ce paragraphe deviennent la responsabilité de la SIERE.
+
 4. Les membres des conseils d’administration de l’ancienne Société indépendante d’exploitation du réseau d’électricité et de l’Office de l’électricité de l’Ontario qui sont en fonction immédiatement avant l’entrée en vigueur de ce paragraphe cessent d’être membres de leur conseil respectif à l’entrée en vigueur de ce paragraphe. Toutefois, la présente disposition n’a pas pour effet d’empêcher leur nomination au conseil d’administration de la SIERE.
+
 5. Le particulier dont le mandat d’administrateur prend fin par l’effet de la disposition 4 n’a aucun droit de recours contre la Couronne ou toute personne.
+
 6. Les règlements administratifs de l’ancienne Société indépendante d’exploitation du réseau d’électricité qui sont en vigueur immédiatement avant l’entrée en vigueur de ce paragraphe deviennent ceux de la SIERE.
+
 7. Tout permis délivré par la Commission à l’ancienne Société indépendante d’exploitation du réseau d’électricité ou à l’Office de l’électricité de l’Ontario qui est en vigueur immédiatement avant l’entrée en vigueur de ce paragraphe est réputé un permis délivré par la Commission à la SIERE et demeure en vigueur jusqu’à ce qu’il soit modifié ou révoqué.
+
 8. Tout accord, toute valeur mobilière, licence ou approbation, tout permis ou tout autre instrument auquel est partie l’ancienne Société indépendante d’exploitation du réseau d’électricité ou l’Office de l’électricité de l’Ontario immédiatement avant l’entrée en vigueur de ce paragraphe a effet après l’entrée en vigueur de ce paragraphe comme si :
+
 i. la SIERE remplaçait l’ancienne Société indépendante d’exploitation du réseau d’électricité ou l’Office de l’électricité de l’Ontario, selon le cas, comme partie à l’accord, à la valeur mobilière, à la licence, à l’approbation, au permis ou à l’autre instrument,
+
 ii. toute mention de l’ancienne Société indépendante d’exploitation du réseau d’électricité ou de l’Office de l’électricité de l’Ontario dans l’accord, la valeur mobilière, la licence, l’approbation, le permis ou l’autre instrument valait mention de la SIERE.
+
 9. La SIERE est partie à chaque instance en cours à laquelle l’ancienne Société indépendante d’exploitation du réseau d’électricité ou l’Office de l’électricité de l’Ontario est partie immédiatement avant l’entrée en vigueur de ce paragraphe et elle remplace l’entité ou l’Office, selon le cas.
+
 10. Toute directive donnée par le ministre en vertu de l’article 25.32 ou 25.35, dans leur version antérieure à l’entrée en vigueur de ce paragraphe, conserve son plein effet à l’égard de la SIERE. 2014, chap. 7, annexe 7, par. 3 (1).
 
 ### Idem : disp. 3 du par. (1)
 
 (2) L’application de la disposition 3 du paragraphe (1) :
+
 a) ne constitue pas une violation, une résiliation ou une répudiation de la dette, de l’obligation financière ou de l’engagement ou une impossibilité d’exécution d’un accord lié à la dette, à l’obligation financière ou à l’engagement ni un cas de défaut ou de force majeure;
+
 b) ne constitue pas une préclusion ou le droit de résilier ou de répudier un accord lié à la dette, à l’obligation financière ou à l’engagement ni ne donne lieu à une préclusion ou à un tel droit.
 
 ### Idem : disp. 8 du par. (1)
 
 (3) L’application de la disposition 8 du paragraphe (1) :
+
 a) ne constitue pas une violation, une résiliation ou une répudiation de l’accord, de la valeur mobilière, de la licence, de l’approbation, du permis ou de l’autre instrument ou une impossibilité d’exécution de l’accord ni un cas de défaut ou de force majeure;
+
 b) ne constitue pas une préclusion ou le droit de résilier ou de répudier un accord, une valeur mobilière, une licence, une approbation, un permis ou un autre instrument ni ne donne lieu à une préclusion ou à un tel droit.
 
 ### Idem : mentions
@@ -732,22 +917,35 @@ b) ne constitue pas une préclusion ou le droit de résilier ou de répudier un 
 ### Interprétation
 
 25.11 Les définitions qui suivent s’appliquent à la présente partie.
+
 «attributs environnementaux» Attributs ou caractéristiques se rapportant aux avantages environnementaux associés à l’électricité produite en Ontario à partir d’une source d’énergie précisée par les règlements, qui :
+
 a) sauf indication contraire des règlements, sont transférés seuls sans l’électricité à laquelle ils sont associés;
+
 b) satisfont aux exigences que précisent les règlements. («environmental attributes»)
+
 «auteur du transfert» Personne ou entité qui rend des attributs environnementaux disponibles aux fins de transfert. («transferor»)
+
 «crédit pour l’énergie propre» Attributs environnementaux associées à la production d’un mégawattheure d’électricité qui sont reconnus dans le registre des crédits pour l’énergie propre en tant que crédit pour l’énergie propre, après la soumission des renseignements au registre conformément à l’article 25.15. («clean energy credit»)
+
 «destinataire du transfert» Personne ou entité qui envisage d’acheter ou d’acquérir un crédit pour l’énergie propre. («transferee»)
+
 «registre des crédits pour l’énergie propre» Le registre créé ou désigné, selon le cas, en application de l’article 25.22. («clean energy credit registry»)
+
 «règlements» Les règlements pris en vertu de la présente partie, malgré la définition de «règlements» au paragraphe 2 (1). («regulations»)
+
 «règles du registre» Les règles établies en vertu de l’article 25.23. («registry rules»)
+
 «transfert» S’entend entre autres d’un transfert de propriété, avec ou sans contrepartie. («transfer») 2022, chap. 23, annexe 1, art. 3.
 
 ### Obligation de rendre les attributs environnementaux disponibles aux fins de transfert
 
 25.12 Les personnes et entités suivantes veillent à ce que les attributs environnementaux que précisent les règlements soient disponibles aux fins de transfert au moment et selon les modalités que précisent les règlements :
+
 1. La SIERE.
+
 2. Ontario Power Generation Inc.
+
 3. Les producteurs ou autres personnes ou entités que précisent les règlements.
 
 ### Restrictions : mise à disposition des attributs environnementaux aux fins de transfert
@@ -783,12 +981,19 @@ b) satisfont aux exigences que précisent les règlements. («environmental attr
 ### Restrictions : transfert
 
 25.16 (1) L’auteur du transfert ne transfère des attributs environnementaux que si :
+
 a) d’une part, les attributs environnementaux sont reconnus dans le registre des crédits pour l’énergie propre en tant que crédit pour l’énergie propre, après la soumission des renseignements au registre conformément à l’article 25.15;
+
 b) d’autre part, les conditions suivantes sont remplies :
+
 (i) les attributs environnementaux associés au crédit pour l’énergie propre ont été générés au cours de la période que précisent les règlements,
+
 (ii) le crédit pour l’énergie propre sera transféré au destinataire du transfert qui, d’une part, a un compte auprès de la SIERE ou d’un distributeur à l’égard de sa consommation d’électricité et qui, d’autre part, satisfait aux autres exigences que précisent les règlements,
+
 (iii) le crédit pour l’énergie propre sera appliqué à la quantité d’électricité qui a été consommée par le destinataire du transfert en Ontario pendant la période que précisent les règlements,
+
 (iv) le crédit pour l’énergie propre n’a pas déjà été transféré ou retiré,
+
 (v) les autres conditions que prévoient les règlements.
 
 ### Idem
@@ -838,10 +1043,15 @@ b) d’autre part, les conditions suivantes sont remplies :
 ### Registre
 
 25.22 (1) La SIERE doit, conformément aux règlements éventuels, créer et tenir ou désigner, pour l’application de la présente partie, un registre qui satisfait aux exigences que précisent les règlements et qui peut :
+
 a) accepter et afficher l’inscription des auteurs et des destinataires du transfert;
+
 b) accepter et afficher les renseignements concernant les attributs environnementaux, et reconnaître les attributs environnementaux en tant que crédits pour l’énergie propre;
+
 c) accepter et afficher les renseignements concernant le transfert de crédits pour l’énergie propre, y compris les renseignements concernant les crédits qui sont disponibles aux fins de transfert;
+
 d) accepter et afficher les renseignements concernant le retrait des crédits pour l’énergie propre;
+
 e) remplir les autres fonctions que précisent les règlements.
 
 ### Directive : registre
@@ -855,10 +1065,15 @@ e) remplir les autres fonctions que précisent les règlements.
 ### Règles du registre
 
 25.23 (1) La SIERE peut, sous réserve des règlements pris en vertu de l’alinéa 25.25 (1) b), par règle :
+
 a) régir le fonctionnement de tout registre des crédits pour l’énergie propre qu’elle crée;
+
 b) régir la participation des auteurs et des destinataires du transfert au registre des crédits pour l’énergie propre pour l’application de la présente partie, y compris exiger la soumission de renseignements précisés au registre et préciser le moment et les modalités pour satisfaire à ces exigences;
+
 c) exiger le paiement de droits liés à l’utilisation du registre des crédits pour l’énergie propre, en préciser le montant ainsi que le moment et les modalités pour les acquitter;
+
 d) régir les autres questions qui, dans la présente partie ou dans les règlements pris en vertu du paragraphe 25.25 (1), doivent ou peuvent être prévues par les règles du registre;
+
 e) traiter des questions que la SIERE estime nécessaires ou souhaitables en ce qui concerne le registre des crédits pour l’énergie propre.
 
 ### Sous-délégation
@@ -880,8 +1095,11 @@ e) traiter des questions que la SIERE estime nécessaires ou souhaitables en ce 
 ### Exigences en matière de rapports
 
 25.24 (1) Dans le délai que précise les règlements après la fin de chaque année civile, la SIERE présente au ministre un rapport qui contient les renseignements suivants au sujet de l’année en question :
+
 1. Le volume total d’électricité produite au cours de l’année par tous les producteurs directement raccordés au réseau dirigé par la SIERE ou au réseau de distribution d’un distributeur, ventilé par source d’énergie.
+
 2. Le nombre total de crédits pour l’énergie propre transférés au cours de l’année conformément à l’article 25.16, ventilé par source d’énergie.
+
 3. Les autres renseignements que précisent les règlements.
 
 ### Publication
@@ -897,11 +1115,17 @@ e) traiter des questions que la SIERE estime nécessaires ou souhaitables en ce 
 ### Ministre
 
 25.25 (1) Le ministre peut, par règlement :
+
 a) régir les questions qui, dans la présente partie, doivent ou peuvent être prévues par les règlements, à l’exception de ce qui est visé au paragraphe (7);
+
 b) régir l’établissement des règles du registre, y compris préciser les délais, les critères et les modalités qui doivent être compris dans les règles ou appliqués aux termes de celles-ci, ou préciser les autres questions qui doivent être comprises dans les règles;
+
 c) soustraire toute personne ou entité à l’application du sous-alinéa 25.16 (1) b) (i), (iv) ou (v), sous réserve des conditions ou restrictions que précisent les règlements;
+
 d) préciser ou prévoir des modes de calcul de la somme qui constitue la totalité ou une partie du produit que la SIERE tire du transfert de ses crédits pour l’énergie propre pour l’application des alinéas 25.33 (1) c) et (2) c);
+
 e) définir, pour l’application de la présente partie, tout terme utilisé dans la présente partie mais non défini dans la présente loi ou par un règlement pris en vertu de l’alinéa 114 (1) n);
+
 f) traiter des autres questions que le ministre estime nécessaires ou souhaitables en ce qui concerne la présente partie.
 
 ### Idem
@@ -911,7 +1135,9 @@ f) traiter des autres questions que le ministre estime nécessaires ou souhaitab
 ### Idem
 
 (3) Les règlements pris pour l’application du paragraphe 25.19 (1) :
+
 a) peuvent exiger que la SIERE transfère le montant du produit précisé par les règlements ou calculé conformément à ceux-ci à la Couronne ou à toute autre personne ou entité,
+
 b) ne comprennent pas le montant précisé ou prévu aux termes de l’alinéa (1) d).
 
 ### Idem
@@ -933,6 +1159,7 @@ b) ne comprennent pas le montant précisé ou prévu aux termes de l’alinéa (
 ### Portée
 
 (8) Les règlements pris en vertu du présent article peuvent avoir une portée générale ou particulière.
+
 25.26-25.28 Abrogés : 2014, chap. 7, annexe 7, par. 3 (1).
 
 ## partie II.2 planification, acquisition et établissement du prix
@@ -944,15 +1171,25 @@ b) ne comprennent pas le montant précisé ou prévu aux termes de l’alinéa (
 ### Idem
 
 (2) Pour l’application du paragraphe (1), le plan énergétique intégré peut comprendre des buts et des objectifs concernant ce qui suit :
+
 a) l’abordabilité de l’énergie pour les consommateurs et la rentabilité des ressources énergétiques envisagées;
+
 b) la disponibilité et la fiabilité de l’approvisionnement en énergie, de son transport et de sa distribution auprès des consommateurs;
+
 c) l’amélioration et le développement de l’infrastructure et des ressources énergétiques pour soutenir la croissance économique et le commerce;
+
 d) le rôle de l’électricité, du gaz naturel, de l’hydrogène et d’autres ressources énergétiques ainsi que de l’efficacité énergétique, du stockage d’énergie et de la gestion de la demande d’énergie dans l’édification d’une économie basée sur l’énergie propre;
+
 e) la priorisation de la production d’énergie nucléaire pour faire face à de futures augmentations de la demande d’électricité d’une manière compatible avec les politiques du gouvernement de l’Ontario;
+
 f) la modernisation des systèmes d’infrastructure énergétique et la promotion d’innovations qui profitent aux consommateurs;
+
 g) l’acquisition rentable de ressources en électricité;
+
 h) l’avancement de la réconciliation avec les collectivités autochtones, notamment en permettant une mobilisation précoce dans la planification des projets, en tenant des consultations et en appuyant le leadership et la participation des Autochtones dans le secteur de l’énergie;
+
 i) la participation des personnes, des groupes et des collectivités intéressés par le secteur de l’énergie;
+
 j) toute question connexe qui, de l’avis du ministre, doit être traitée.
 
 ### Consultation obligatoire
@@ -992,6 +1229,7 @@ j) toute question connexe qui, de l’avis du ministre, doit être traitée.
 ### Commission
 
 (2) Sous réserve de l’approbation du lieutenant-gouverneur en conseil, le ministre peut donner à la Commission une directive énonçant les exigences du gouvernement de l’Ontario pour la mise en œuvre du plan énergétique intégré relativement aux questions relevant de la Commission.
+
 25.31 Abrogé : 2024, chap. 26, annexe 1, art. 3.
 
 ### Contrats d’acquisition
@@ -1001,10 +1239,15 @@ j) toute question connexe qui, de l’avis du ministre, doit être traitée.
 ### Conclusion de contrats
 
 (2) La SIERE doit, si elle y est tenue par une directive donnée en vertu du paragraphe (5) ou par une directive maintenue en application du paragraphe (9) ou (10), telle que modifiée, conclure des contrats d’acquisition visant l’obtention, selon le cas :
+
 a) d’un approvisionnement en électricité ou d’une capacité de production ou de stockage d’électricité;
+
 b) de changements de la demande d’électricité;
+
 c) de mesures concernant la conservation de l’électri­cité ou la gestion de la demande d’électricité;
+
 d) de réseaux de transport ou de toute partie de tels réseaux, y compris l’aménagement de tout ou partie de tels réseaux;
+
 e) de mesures visant à promouvoir l’électrification ou à utiliser l’électricité de façon à réduire l’ensemble des émissions en Ontario.
 
 ### Transporteurs
@@ -1026,7 +1269,9 @@ e) de mesures visant à promouvoir l’électrification ou à utiliser l’élec
 ### Directives pouvant préciser des exigences ou des restrictions relatives à l’origine
 
 (6.1) Sans préjudice de la portée générale du paragraphe (5), les directives données en vertu de ce paragraphe peuvent préciser des exigences ou des restrictions relatives au pays, à la région ou au territoire d’origine, établi dans la directive, de l’un ou l’autre des éléments suivants :
+
 a) tout bien ou service utilisé en lien avec le domaine indiqué au paragraphe (2) auquel se rapporte la directive;
+
 b) toute personne ou entité qui est ou qui contrôle ou détient à titre bénéficiaire un participant éventuel à la demande de propositions, à toute autre invitation à soumissionner ou à toute autre initiative ou activité à laquelle se rapporte la directive.
 
 ### Directives : consultations
@@ -1052,13 +1297,17 @@ b) toute personne ou entité qui est ou qui contrôle ou détient à titre bén�
 ### Restrictions prescrites
 
 (12) Dans les circonstances prescrites par les règlements, la SIERE ne doit pas conclure de contrat d’acquisition à l’égard d’un domaine indiqué au paragraphe (2). Ces circonstances peuvent notamment comprendre des circonstances relatives au pays, à la région ou au territoire d’origine, établi dans les règlements, de l’un ou l’autre des éléments suivants :
+
 a) tout bien ou service utilisé en lien avec le domaine indiqué au paragraphe (2) auquel se rapporte le règlement;
+
 b) toute personne ou entité qui est ou qui contrôle ou détient à titre bénéficiaire une partie éventuelle à un contrat d’acquisition relatif au domaine indiqué au paragraphe (2) auquel se rapporte le règlement.
 
 ### Application
 
 (13) Le paragraphe (12) ne s’applique à l’égard d’une acquisition que si, le jour où un règlement pris pour l’application de ce paragraphe commence à s’appliquer, l’une ou l’autre des conditions suivantes est remplie :
+
 a) dans le cas d’une acquisition concurrentielle, la version définitive de la demande de propositions ou de tout autre document donnant lieu à l’acquisition n’a pas encore été délivrée;
+
 b) dans le cas d’une acquisition qui n’est pas une acquisition concurrentielle, les parties n’ont pas conclu de contrat définitif à l’égard de l’acquisition.
 
 ### Incompatibilité avec les directives
@@ -1072,37 +1321,57 @@ b) dans le cas d’une acquisition qui n’est pas une acquisition concurrentiel
 ### Établissement du pays, de la région ou du territoire d’origine
 
 (16) Pour l’application des paragraphes (6.1) et (12) :
+
 a) le pays, la région ou le territoire d’origine d’une personne ou entité peut être établi par renvoi à tout facteur pertinent, notamment, selon le cas, aux facteurs suivants :
+
 (i) le lieu où la personne réside ordinairement,
+
 (ii) le lieu où se trouvent le siège social ou d’autres bureaux,
+
 (iii) le ressort de constitution en personne morale,
+
 (iv) le nombre ou la proportion d’employés de la personne ou de l’entité qui se trouvent dans un pays, une région ou un territoire donné,
+
 (v) le ressort des règles de droit auxquelles la personne ou l’entité est assujettie,
+
 (vi) le lieu où s’exercent les activités commerciales de la personne ou de l’entité, tel que ces activités se rapportent au domaine indiqué au paragraphe (2);
+
 b) une directive ou un règlement peut prévoir, à ses propres fins, la manière d’établir la propriété bénéficiaire ou le contrôle.
 
 ### Autres acquisitions
 
 25.32.1 (1) La SIERE ne doit pas faire l’acquisition de biens ou de services à l’égard d’un domaine qui n’est pas visé au paragraphe 25.32 (2) si les biens ou services remplissent les conditions prescrites par les règlements à l’égard de l’un ou l’autre des éléments suivants :
+
 a) leur pays, leur région ou leur territoire d’origine, établi dans les règlements;
+
 b) le pays, la région ou le territoire d’origine, établi dans les règlements, de la personne ou de l’entité qui est ou qui contrôle ou détient à titre bénéficiaire un fournisseur de biens ou de services.
 
 ### Idem
 
 (2) Pour l’application de l’alinéa (1) b) :
+
 a) le pays, la région ou le territoire d’origine d’une personne ou entité peut être établi par renvoi à tout facteur pertinent, notamment, selon le cas, aux facteurs suivants :
+
 (i) le lieu où la personne réside ordinairement,
+
 (ii) le lieu où se trouvent le siège social ou d’autres bureaux,
+
 (iii) le ressort de constitution en personne morale,
+
 (iv) le nombre ou la proportion d’employés de la personne ou de l’entité qui se trouvent dans un pays, une région ou un territoire,
+
 (v) le ressort des règles de droit auxquelles la personne ou l’entité est assujettie,
+
 (vi) le lieu où s’exercent les activités commerciales de la personne ou de l’entité, tel que ces activités se rapportent à la fourniture de biens ou de services;
+
 b) un règlement peut prévoir, à ses propres fins, la manière d’établir la propriété bénéficiaire ou le contrôle.
 
 ### Application
 
 (3) Le paragraphe (1) ne s’applique à l’égard d’une acquisition que si, le jour où un règlement pris pour l’application de ce paragraphe commence à s’appliquer, l’une ou l’autre des conditions suivantes est remplie :
+
 a) dans le cas d’une acquisition concurrentielle, la version définitive de la demande de propositions ou de tout autre document donnant lieu à l’acquisition n’a pas encore été délivrée;
+
 b) dans le cas d’une acquisition qui n’est pas une acquisition concurrentielle, les parties n’ont pas conclu de contrat définitif à l’égard de l’acquisition.
 
 ### Non-application de la Loi sur les pratiques de commerce discriminatoires
@@ -1114,34 +1383,47 @@ b) dans le cas d’une acquisition qui n’est pas une acquisition concurrentiel
 ### Ajustements de la SIERE
 
 25.33 (1) La SIERE effectue des ajustements, par le biais de son système de facturation et de règlement et conformément aux règlements, afin que les paiements que font les catégories d’intervenants ontariens du marché prescrites par règlement correspondent progressivement à ce qui suit :
+
 a) les sommes versées aux producteurs, à la Société financière et aux distributeurs, qu’elles soient calculées en fonction des règles du marché ou en application de l’article 78.1, 78.2 ou 78.5 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario, à l’exclusion de celles financées en application de l’article 25.34;
+
 b) les sommes versées aux entités avec lesquelles elle a ou avait conclu un contrat d’acquisition, calculées aux termes du contrat, à l’exclusion de celles indiquées au paragraphe (2.1);
+
 c) le montant du produit que la SIERE tire du transfert de ses crédits pour l’énergie propre que fixent les règlements pris par le ministre en vertu de l’alinéa 25.25 (1) d).
 
 ### Ajustements : distributeurs et détaillants
 
 (2) Les distributeurs et les détaillants effectuent des ajustements, par le biais de leur système de facturation et conformément aux règlements, afin que les paiements que font les catégories de consommateurs ontariens prescrites par règlement correspondent progressivement à ce qui suit :
+
 a) les sommes versées aux producteurs, à la Société financière et aux distributeurs, qu’elles soient calculées en fonction des règles du marché ou en application de l’article 78.1, 78.2 ou 78.5 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario, à l’exclusion de celles financées en application de l’article 25.34;
+
 b) les sommes versées aux entités avec lesquelles la SIERE a ou avait conclu un contrat d’acquisition, calculées aux termes du contrat, à l’exclusion de celles indiquées au paragraphe (2.1);
+
 c) le montant du produit que la SIERE tire du transfert de ses crédits pour l’énergie propre que fixent les règlements pris par le ministre en vertu de l’alinéa 25.25 (1) d).
 
 ### Sommes exclues
 
 (2.1) Les sommes suivantes sont exclues des alinéas (1) b) et (2) b) :
+
 1. Les sommes financées en application de l’article 25.34.
+
 2. Les sommes versées aux termes de contrats d’acquisition conclus en application de l’alinéa 25.32 (2) d).
 
 ### Exception
 
 (3) Les ajustements en rapport avec l’électricité consommée par les types de consommateurs suivants qui seraient normalement effectués en application du paragraphe (1) ou (2) sont au lieu de cela portés, conformément aux règlements, à un ou plusieurs comptes d’écart créés et tenus par la SIERE :
+
 1. Abrogée : 2009, chap. 12, annexe B, par. 6 (2).
+
 2. Les consommateurs dont les tarifs sont établis par la Commission en application de l’article 79.16 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario.
+
 3. Les consommateurs qui appartiennent à une catégorie prescrite par les règlements.
 
 ### Ajustements, paiements, déductions compensatoires et crédits
 
 (4) La SIERE, les distributeurs et les détaillants :
+
 a) d’une part, procèdent aux ajustements de comptes qu’exigent ou permettent les règlements afin de consigner les ajustements visés aux paragraphes (1), (2) et (3);
+
 b) d’autre part, font et reçoivent les paiements, les déductions compensatoires et les crédits qu’exigent ou permettent les règlements à l’égard des consommateurs visés au paragraphe (3) ou qu’exige un règlement pris en vertu de la présente loi ou de la Loi de 1998 sur la Commission de l’énergie de l’Ontario.
 
 ### Comptes d’écart
@@ -1171,8 +1453,11 @@ b) d’autre part, font et reçoivent les paiements, les déductions compensatoi
 ### Idem
 
 (2) Le paragraphe (1) s’applique à l’égard des sommes suivantes :
+
 0.1 Les sommes visées à l’alinéa 25.33 (1) a) ou (2) a) et prescrites par les règlements.
+
 1. Sous réserve des règlements, les sommes que la SIERE doit verser à une entité en raison de la résiliation, conformément au décret n o 1003/2018 pris le 5 juillet 2018, d’un contrat d’acquisition auquel l’entité était partie.
+
 2. Les sommes prescrites par les règlements que la SIERE verse à des entités aux termes de contrats d’acquisition conclus en application de l’alinéa 25.32 (2) a), b), c) ou e) et prescrits par les règlements.
 
 ### Comptes d’écart
@@ -1192,6 +1477,7 @@ b) d’autre part, font et reçoivent les paiements, les déductions compensatoi
 ### Définition
 
 25.34.1 La définition qui suit s’applique à la présente partie.
+
 «ministère» Le ministère du ministre.
 
 ### Désignation de biens, services et technologies
@@ -1213,7 +1499,9 @@ b) d’autre part, font et reçoivent les paiements, les déductions compensatoi
 ### Désignation de projets d’énergie renouvelable
 
 25.35.1 (1) Le lieutenant-gouverneur en conseil peut, par règlement, désigner des projets d’énergie renouvelable, des sources d’énergie renouvelable ou des projets d’évaluation du potentiel en énergie renouvelable aux fins suivantes :
+
 1. Aider à supprimer les obstacles à l’utilisation de sources d’énergie renouvelable et promouvoir les possibilités d’en utiliser.
+
 2. Faciliter aux promoteurs de projets d’énergie renouvelable l’accès aux réseaux de transport et de distribution.
 
 ### Effet de la désignation
@@ -1227,7 +1515,9 @@ b) d’autre part, font et reçoivent les paiements, les déductions compensatoi
 ### Exception
 
 (4) Les paragraphes (2) et (3) ne s’appliquent pas :
+
 a) aux restrictions imposées par une loi ou un règlement;
+
 b) aux règlements municipaux ou administratifs, actes ou autres restrictions prescrits par règlement ou aux catégories prescrites par règlement de règlements municipaux ou administratifs, d’actes ou d’autres restrictions.
 
 ### Organisme public : plan de conservation de l’énergie et de gestion de la demande
@@ -1235,6 +1525,7 @@ b) aux règlements municipaux ou administratifs, actes ou autres restrictions pr
 ### Définition
 
 25.35.2 (1) La définition qui suit s’applique au présent article et à l’article 25.35.3.
+
 «organisme public» Ministère du gouvernement de l’Ontario ou entité, y compris une municipalité, ou catégorie d’entités, qui est prescrite par règlement comme organisme public.
 
 ### Plan
@@ -1244,9 +1535,13 @@ b) aux règlements municipaux ou administratifs, actes ou autres restrictions pr
 ### Exigences
 
 (3) Le plan de conservation de l’énergie et de gestion de la demande doit être conforme aux exigences prescrites par règlement et comprendre les renseignements suivants :
+
 1. Un résumé de la consommation annuelle d’énergie de chacune des activités prescrites de l’organisme public.
+
 2. Une description, y compris des prévisions, des résultats attendus des activités et des mesures actuelles et proposées entreprises en vue de conserver l’énergie que consomment les activités prescrites de l’organisme public et de réduire de quelque autre façon la quantité d’énergie qu’il consomme, en faisant notamment appel aux méthodes prescrites de conservation de l’énergie et de gestion de la demande.
+
 3. Un résumé de l’état d’avancement de la conservation de l’énergie et des autres réductions visées à la disposition 2 ainsi que des réalisations dans ce domaine depuis le dernier plan.
+
 4. Les autres renseignements prescrits par règlement.
 
 ### Normes et objectifs prescrits : organisme public
@@ -1256,7 +1551,9 @@ b) aux règlements municipaux ou administratifs, actes ou autres restrictions pr
 ### Mise en oeuvre et publication
 
 (5) L’organisme public fait ce qui suit :
+
 a) il met en oeuvre le plan de conservation de l’énergie et de gestion de la demande et se conforme aux exigences prescrites par règlement concernant la mise en oeuvre du plan;
+
 b) il publie le plan conformément aux exigences prescrites par règlement.
 
 ### Plans conjoints
@@ -1270,8 +1567,11 @@ b) il publie le plan conformément aux exigences prescrites par règlement.
 ### Personne prescrite : rapports sur la consommation d’énergie et l’utilisation de l’eau
 
 25.35.3 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) exiger qu’une personne prescrite par règlement, autre qu’un organisme public, présente au ministère, de la manière prescrite par règlement, des rapports sur la consommation d’énergie, l’utilisation de l’eau, les cotes ou les autres mesures de rendement concernant la consommation d’énergie et l’utilisation de l’eau et les autres renseignements prescrits par règlement à l’égard de chacun de ses biens prescrits par règlement;
+
 b) prescrire les circonstances dans lesquelles le ministre peut demander à une personne visée à l’alinéa a) de faire réaliser une vérification, de la manière prescrite par règlement, des renseignements devant faire l’objet de rapports en application d’un règlement pris en vertu de l’alinéa a) ou aux termes d’un avis publié en application du paragraphe (4);
+
 c) exiger qu’une personne visée à l’alinéa a) se conforme à une demande du ministre visée à l’alinéa b).
 
 ### Présentation des rapports
@@ -1297,13 +1597,17 @@ c) exiger qu’une personne visée à l’alinéa a) se conforme à une demande 
 ### Idem
 
 (2) Le règlement pris en vertu du paragraphe (1) peut exiger que la personne fasse ce qui suit :
+
 a) préparer le plan dans les circonstances prescrites par règlement et conformément aux exigences prescrites par règlement;
+
 b) mettre le plan à la disposition du public conformément aux exigences prescrites par règlement.
 
 ### Renseignements publiés par le ministre
 
 25.35.5 (1) Malgré toute autre loi, le ministre peut :
+
 a) mettre à la disposition du public des renseignements devant faire l’objet de rapports ou devant être présentés au ministère en application des articles 25.35.3 et 25.35.4;
+
 b) partager des renseignements devant faire l’objet de rapports ou devant être présentés au ministère en application des articles 25.35.3 et 25.35.4 avec un autre ministère ou organisme du gouvernement de l’Ontario, ou avec les autres personnes ou entités prescrites par règlement pour l’application du présent article.
 
 ### Caractère confidentiel des renseignements
@@ -1315,9 +1619,13 @@ b) partager des renseignements devant faire l’objet de rapports ou devant êtr
 ### Définition
 
 25.35.6 (1) La définition qui suit s’applique au présent article.
+
 «distributeur»
+
 a) soit un distributeur au sens de l’article 3 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario ;
+
 b) soit un distributeur de gaz au sens de l’article 3 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario ;
+
 c) soit un propriétaire d’une station de purification de l’eau au sens du paragraphe 1 (1) de la Loi sur les ressources en eau de l’Ontario ou une personne qui exploite une telle station.
 
 ### Renseignements à fournir
@@ -1333,12 +1641,15 @@ c) soit un propriétaire d’une station de purification de l’eau au sens du p
 ### Définition
 
 25.35.7 (1) La définition qui suit s’applique au présent article.
+
 «appareil ou produit prescrit» Appareil ou produit prescrit par règlement.
 
 ### Normes d’efficacité énergétique : appareils et produits
 
 (2) Nul ne doit mettre en vente, vendre ni louer un appareil ou un produit prescrit sans que les conditions suivantes soient réunies :
+
 a) l’appareil ou le produit respecte les normes ou exigences relatives à l’efficacité énergétique prescrites par règlement à son égard;
+
 b) une étiquette ou une autre marque prescrite par règlement qui atteste de la conformité aux normes ou exigences relatives à l’efficacité énergétique prescrites par règlement à l’égard de l’appareil ou du produit est apposée sur celui-ci, ou y est jointe, de la manière et dans les circonstances prescrites par règlement.
 
 ### Étiquettes
@@ -1348,7 +1659,9 @@ b) une étiquette ou une autre marque prescrite par règlement qui atteste de la
 ### Application du par. (2)
 
 (4) Le paragraphe (2) ne s’applique pas :
+
 a) aux appareils ou produits fabriqués au plus tard à une date prescrite par règlement et vendus ou loués au plus tard à une telle date;
+
 b) aux personnes qui n’exercent pas des activités de mise en vente, de vente ou de location d’appareils ou de produits prescrits.
 
 ### Données énergétiques
@@ -1356,9 +1669,13 @@ b) aux personnes qui n’exercent pas des activités de mise en vente, de vente 
 ### Définitions
 
 25.35.8 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «détenteur de compte» Personne ou entité qui a un compte auprès d’un fournisseur d’énergie. («account holder»)
+
 «données énergétiques» Types ou catégories de données prescrits par règlement qui se rapportent à la consommation d’énergie et autres données prescrites par règlement. («energy data»)
+
 «énergie» L’électricité et les autres types d’énergie prescrits par règlement pour l’application du présent article. («energy»)
+
 «fournisseur d’énergie» Personne ou entité prescrite par règlement pour l’application du présent article. («energy provider») 2018, chap. 16, art. 2.
 
 ### Mise à disposition obligatoire des données énergétiques
@@ -1388,34 +1705,63 @@ b) aux personnes qui n’exercent pas des activités de mise en vente, de vente 
 ### Idem
 
 (2) Outre les règlements visés au paragraphe (1), le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) régir les installations d’évaluation du potentiel en énergie renouvelable en ce qui a trait aux points suivants :
+
 (i) la planification, la conception, le choix de l’emplacement, les zones tampons, la consultation et les avis, la création, les assurances, les installations, la dotation en personnel, l’exploitation, le maintien en service, la surveillance, la tenue des dossiers et l’amélioration,
+
 (ii) l’abandon de l’exploitation de toute partie de telles installations;
+
 b) régir l’emplacement des installations d’évaluation du potentiel en énergie renouvelable, y compris interdire ou réglementer la construction, l’installation, l’utilisation, l’exploitation ou la modification de telles installations dans certaines parties de l’Ontario;
+
 c) régir tout ce qui est exigé, prévu ou prescrit en vertu des articles 25.35.2, 25.35.3 et 25.35.4, notamment ce qui suit :
+
 (i) les périodes visées par les plans et les rapports exigés en application de ces articles et les intervalles auxquels ils sont exigés,
+
 (ii) la présentation des plans, des rapports et d’autres documents au ministère,
+
 (iii) les circonstances dans lesquelles deux bâtiments ou structures ou plus peuvent être considérés comme un seul bien pour l’application de l’alinéa 25.35.3 (1) a),
+
 (iv) régir la façon dont ces articles doivent être observés;
+
 d) régir les circonstances dans lesquelles deux bâtiments ou structures ou plus peuvent être considérés comme un seul bien pour l’application de l’article 25.35.6;
+
 e) en ce qui concerne les appareils ou produits prescrits au sens de l’article 25.35.7 :
+
 (i) prescrire des normes ou des exigences relatives à l’efficacité énergétique pour les appareils et les produits,
+
 (ii) prescrire des normes ou des exigences relatives à l’économie de l’eau pour les appareils et les produits qui consomment de l’énergie,
+
 (iii) réglementer l’installation, l’entretien et la réparation des appareils et des produits ainsi que les tests auxquels ils sont soumis,
+
 (iv) désigner les personnes ou les organismes chargés d’effectuer des tests sur les appareils et les produits,
+
 (v) prévoir l’apposition d’une étiquette ou d’une marque prescrite sur les appareils et les produits, ou que l’étiquette ou la marque soit jointe à ceux-ci,
+
 (vi) prescrire la teneur des étiquettes ou des marques qui peuvent être apposées sur les appareils et les produits ou y être jointes,
+
 (vii) prescrire les honoraires des personnes et des organismes désignés pour effectuer les tests ou apposer les étiquettes sur les appareils et les produits, et prescrire par qui ces honoraires sont payés,
+
 (viii) prévoir la communication de renseignements par les personnes qui fabriquent, mettent en vente, vendent ou louent les appareils ou les produits, y compris la fréquence de communication de ces renseignements, le moment où les communiquer et la façon de le faire,
+
 (ix) régir la consignation de renseignements et la tenue de dossiers et de documents par les personnes qui fabriquent, mettent en vente, vendent ou louent les appareils ou les produits;
+
 f) régir tout ce qui est exigé ou prescrit en application de l’article 25.35.8 et la façon dont cet article doit être observé, y compris :
+
 (i) prescrire des types ou catégories de données énergétiques, notamment différents types ou catégories de données énergétiques pour différents types ou catégories d’énergie ou pour différents fournisseurs d’énergie ou différentes catégories de fournisseurs d’énergie,
+
 (ii) préciser ou clarifier le sens de «détenteur de compte» à l’article 25.35.8,
+
 (iii) régir la façon dont les données énergétiques doivent être mises à disposition par les fournisseurs d’énergie,
+
 (iv) prescrire les exigences relatives à la façon dont un détenteur de compte peut autoriser une autre personne ou entité à recevoir des données énergétiques,
+
 (v) prescrire les critères ou les exigences auxquels doit satisfaire le processus d’acquisition, le contrat ou l’arrangement pour l’application du paragraphe 25.35.8 (3),
+
 (vi) régir les exigences en matière de certification relatives à la mise en oeuvre des exigences prévues au paragraphe 25.35.8 (2), notamment exiger que les fournisseurs d’énergie obtiennent une certification, et prescrire la façon de l’obtenir, les personnes ou entités autorisées à l’accorder et les droits à verser à ces personnes ou entités pour l’obtenir,
+
 (vii) régir les prorogations de délai que la Commission peut accorder aux fournisseurs d’énergie en vertu du paragraphe 25.35.8 (5), notamment prescrire la période de prorogation maximale et les circonstances dans lesquelles une prorogation peut être accordée,
+
 (viii) exiger et régir les rapports et les renseignements que les fournisseurs d’énergie ou d’autres personnes ou entités doivent fournir au ministre, à la Commission ou à d’autres personnes ou entités, notamment prescrire la manière et la forme selon laquelle ils doivent être fournis.
 
 ### Incorporation de documents
@@ -1441,7 +1787,9 @@ f) régir tout ce qui est exigé ou prescrit en application de l’article 25.35
 ### Raccordement obligatoire au réseau de transport ou de distribution
 
 25.36 (1) Le transporteur ou le distributeur raccorde une installation de production d’énergie renouvelable à son réseau de transport ou de distribution conformément aux règlements, aux règles du marché et à tout permis délivré par la Commission si les conditions suivantes sont réunies :
+
 a) le producteur le lui demande par écrit;
+
 b) il est satisfait, à l’égard du raccordement, aux exigences techniques, économiques et autres que prescrivent les règlements ou qu’exigent les règles du marché, une ordonnance rendue par la Commission ou un code publié par celle-ci.
 
 ### Incompatibilité
@@ -1451,11 +1799,13 @@ b) il est satisfait, à l’égard du raccordement, aux exigences techniques, é
 ### Règlements
 
 (3) Les règlements visés au paragraphe (1) peuvent préciser les exigences auxquelles il doit être satisfait en ce qui concerne le raccordement d’installations de production d’énergie renouvelable au réseau de transport d’un transporteur ou au réseau de distribution d’un distributeur.
+
 25.37 Abrogé : 2021, chap. 25, annexe 5, art. 1.
 
 ### Accès non discriminatoire
 
 26 (1) Sous réserve de l’article 28.1, chaque transporteur ou distributeur assure aux producteurs, aux détaillants, aux intervenants du marché et aux consommateurs un accès non discriminatoire à ses réseaux de transport ou de distribution situés en Ontario conformément à son permis.
+
 (1.1) à (1.3) Abrogés : 2021, chap. 25, annexe 5, art. 2.
 
 ### Idem
@@ -1493,6 +1843,7 @@ b) il est satisfait, à l’égard du raccordement, aux exigences techniques, é
 ### Définition
 
 (10) La définition qui suit s’applique au présent article.
+
 «petit consommateur» Personne qui utilise annuellement une quantité d’électricité inférieure à celle que prescrivent les règlements.
 
 ### Utilisation du réseau dirigé par la SIERE
@@ -1502,28 +1853,43 @@ b) il est satisfait, à l’égard du raccordement, aux exigences techniques, é
 ### Obligation du distributeur de procéder au branchement
 
 28 Sous réserve de l’article 28.1, le distributeur branche un bâtiment à son réseau de distribution si les conditions suivantes sont réunies :
+
 a) le bâtiment est situé le long d’une ligne du réseau de distribution du distributeur;
+
 b) le propriétaire ou l’occupant du bâtiment ou la personne qui en est responsable demande le branchement par écrit.
+
 2025, chap. 22, annexe 1, art. 6 - 11/12/2025
 
 ### Exceptions pour des installations de charge
 
 28.1 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «exigences précisées en matière de raccordement» S’entend à l’égard d’une installation de charge précisée :
+
 a) des conditions, exigences ou restrictions que précisent les règlements et auxquelles il doit être satisfait pour raccorder ou raccorder de nouveau l’installation de charge précisée au réseau de transport ou de distribution, selon le cas;
+
 b) des approbations que précisent les règlements et qui doivent être obtenues pour raccorder ou raccorder de nouveau l’installation de charge précisée au réseau de transport ou de distribution, selon le cas;
+
 c) des conditions, exigences ou restrictions d’une approbation visée à l’alinéa b). («specified connection requirements»)
+
 «installation de charge précisée» Installation ou catégorie d’installations, selon le cas
+
 a) qui est un centre de traitement de données et qui satisfait à tout critère que peuvent fixer les règlements,
+
 b) qui, à la fois :
+
 (i) prélève ou, si elle était raccordée à un réseau de transport ou de distribution, devrait prélever de l’électricité sur le réseau dirigé par la SIERE ou sur le réseau de distribution d’un distributeur détenteur d’un permis en application de la partie V de la Loi de 1998 sur la Commission de l’énergie de l’Ontario,
+
 (ii) a ou, si elle était raccordée à un réseau de transport ou de distribution, devrait avoir une demande d’électricité au point de raccordement sur le réseau de transport ou de distribution, selon le cas, qui dépasse la quantité prescrite par les règlements,
+
 (iii) satisfait à tout autre critère que peuvent fixer les règlements. («specified load facility») 2025, chap. 22, annexe 1, art. 7.
 
 ### Raccordement initial ou subséquent des installations de charge précisées
 
 (2) À moins qu’il soit convaincu de la conformité aux exigences précisées en matière de raccordement, le transporteur ou le distributeur ne doit :
+
 a) ni raccorder une installation de charge précisée à son réseau de transport ou de distribution, selon le cas;
+
 b) ni raccorder de nouveau une installation de charge précisée au réseau de transport ou de distribution après qu’elle en a été débranchée conformément aux règlements, par suite d’un manquement à l’une ou l’autre des exigences précisées en matière de raccordement ou d’une violation de l’une d’entre elles.
 
 ### En cas de non-satisfaction ou de violation des conditions, des exigences ou des restrictions
@@ -1569,8 +1935,11 @@ b) ni raccorder de nouveau une installation de charge précisée au réseau de t
 ### Mesures d’économies d’énergie
 
 29.1 (1) Sous réserve de l’article 71 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario et des limites et des critères prescrits par les règlements, le transporteur, le distributeur ou la SIERE peut fournir des services visant à aider le gouvernement de l’Ontario à atteindre les objectifs qu’il s’est fixés en matière d’économie de l’électricité, notamment dans les domaines suivants :
+
 a) la promotion de l’économie et de l’utilisation efficace de l’électricité;
+
 b) la gestion de la consommation d’électricité;
+
 c) la promotion de sources d’énergie propres, y compris des sources d’énergie renouvelable et de sources d’énergie de remplacement.
 
 ### Idem
@@ -1584,6 +1953,7 @@ c) la promotion de sources d’énergie propres, y compris des sources d’éner
 ### Aucune violation de contrat
 
 (2) La répartition d’électricité prévue au paragraphe (1) est réputée ne pas constituer une violation de contrat.
+
 30.1
 
 ### Coupure de la distribution
@@ -1605,19 +1975,25 @@ c) la promotion de sources d’énergie propres, y compris des sources d’éner
 ### Rétablissement de l’électricité
 
 (5) S’il coupe la distribution d’électricité à un bien en vertu du paragraphe (1) après le 11 novembre 2002, mais avant le 1 er avril 2003, ou pendant une période prescrite par les règlements, le distributeur, dès que possible :
+
 a) d’une part, rétablit sans frais la distribution d’électricité au bien;
+
 b) d’autre part, dédommage quiconque a subi une perte par suite de la coupure de l’électricité.
 
 ### Coupure d’urgence de la distribution
 
 31.1 (1) Le distributeur peut, sans préavis, couper la distribution d’électricité à un bien s’il a des motifs de croire qu’il existe une circonstance à l’égard du bien qui menace ou est susceptible de menacer :
+
 a) soit la sécurité de toute personne;
+
 b) soit la fiabilité de tout ou partie du réseau de distribution.
 
 ### Avis
 
 (2) Le distributeur :
+
 a) d’une part, avise par écrit l’Office de la sécurité des installations électriques de la coupure visée au paragraphe (1) dès que possible après qu’elle a été effectuée;
+
 b) d’autre part, affiche un avis de la coupure visée au paragraphe (1) à un endroit bien en vue sur le bien au plus tard 10 jours après qu’elle a été effectuée.
 
 ### Idem
@@ -1653,22 +2029,35 @@ b) d’autre part, affiche un avis de la coupure visée au paragraphe (1) à un 
 ### Règles du marché
 
 32 (1) La SIERE peut établir des règles visant à faire ce qui suit :
+
 a) régir le réseau dirigé par la SIERE;
+
 b) créer des marchés liés à l’électricité et aux services accessoires et les régir;
+
 c) établir et faire respecter des normes et critères applicables à la fiabilité du service d’électricité ou du réseau dirigé par la SIERE, y compris des normes et critères applicables à l’approvisionnement en électricité produite à partir de sources raccordées à un réseau de distribution qui, isolément ou collectivement, pourraient influer sur cette fiabilité.
 
 ### Exemples
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les règles du marché peuvent comprendre des dispositions faisant ce qui suit :
+
 a) régissant l’établissement des règles du marché et leur publication;
+
 b) régissant l’acheminement d’électricité à partir ou au moyen du réseau dirigé par la SIERE ou jusqu’à celui-ci, ainsi que la fourniture de services accessoires;
+
 c) régissant les normes à respecter et la marche à suivre dans les situations d’urgence sur un réseau;
+
 d) autorisant et régissant l’établissement de directives par la SIERE, y compris les directives suivantes :
+
 (i) pour maintenir la fiabilité du service d’électricité ou du réseau dirigé par la SIERE, des directives exigeant de personnes (y compris des personnes fournissant de l’électricité produite à partir de sources raccordées à un réseau de distribution), dans les délais qui y sont précisés, qu’elles synchronisent, désynchronisent, augmentent, réduisent ou maintiennent l’énergie électrique produite, qu’elles prennent les autres mesures qui y sont précisées ou qu’elles s’abstiennent de prendre les mesures qui y sont précisées,
+
 (ii) d’autres directives exigeant des intervenants du marché, dans les délais qui y sont précisés, qu’ils prennent ou s’abstiennent de prendre les mesures qui y sont précisées, notamment en cas de situation d’urgence sur un réseau;
+
 e) autorisant et régissant la prise d’ordonnances par la SIERE, y compris une ordonnance, selon le cas :
+
 (i) imposant des peines pécuniaires aux intervenants du marché,
+
 (ii) autorisant une personne à participer aux marchés administrés par la SIERE ou à permettre ou à faire en sorte que de l’électricité soit acheminée à partir ou au moyen du réseau dirigé par la SIERE ou jusqu’à celui-ci,
+
 (iii) révoquant, suspendant ou restreignant les droits qu’a une personne de participer aux marchés administrés par la SIERE ou de permettre ou de faire en sorte que de l’électricité soit acheminée à partir ou au moyen du réseau dirigé par la SIERE ou jusqu’à celui-ci.
 
 ### Portée des règles
@@ -1690,6 +2079,7 @@ e) autorisant et régissant la prise d’ordonnances par la SIERE, y compris une
 ### Disposition transitoire
 
 (7) Toutes les règles établies avant l’entrée en vigueur du paragraphe 4 (1) de l’annexe A de la Loi de 2004 sur la restructuration du secteur de l’électricité demeurent en vigueur tant qu’elles ne sont pas modifiées ou abrogées conformément à la présente loi.
+
 (8) et (9) Abrogés : 2004, chap. 23, annexe A, par. 41 (8).
 
 ### Modification des règles du marché
@@ -1723,25 +2113,37 @@ e) autorisant et régissant la prise d’ordonnances par la SIERE, y compris une
 ### Idem
 
 (8) Lorsqu’elle décide si elle doit suspendre l’effet d’une modification, la Commission tient compte des éléments suivants :
+
 a) l’intérêt public;
+
 b) le bien-fondé de la requête;
+
 c) la possibilité qu’une personne subisse un tort irréparable;
+
 d) l’impact sur les consommateurs;
+
 e) la prépondérance des inconvénients.
 
 ### Ordonnance
 
 (9) Si elle conclut, à l’issue de son examen, que la modification est incompatible avec les objets de la présente loi ou qu’elle avantage ou désavantage injustement un intervenant du marché ou une catégorie d’intervenants du marché, la Commission rend une ordonnance :
+
 a) révoquant la modification à la date qu’elle précise;
+
 b) renvoyant la modification à la SIERE pour étude plus approfondie.
 
 ### Modification urgente
 
 34 (1) L’article 33 ne s’applique pas si la SIERE dépose, auprès de la Commission, une déclaration indiquant qu’à son avis il est urgent de modifier les règles du marché pour une ou plusieurs des raisons suivantes :
+
 1. Éviter une situation qui nuise à la capacité du réseau d’électricité intégré de fonctionner normalement, réduire les risques d’une telle éventualité ou en atténuer les effets.
+
 2. Éviter l’abus du pouvoir sur le marché, réduire les risques d’une telle éventualité ou en atténuer les effets.
+
 3. Mettre en oeuvre les normes ou critères d’un organisme de normalisation.
+
 4. Éviter qu’une règle du marché ait une conséquence défavorable non voulue, réduire les risques d’une telle éventualité ou en atténuer les effets.
+
 5. Une raison prescrite par les règlements.
 
 ### Publication d’une modification urgente
@@ -1767,7 +2169,9 @@ b) renvoyant la modification à la SIERE pour étude plus approfondie.
 ### Effet de la révocation de la Commission
 
 (4.1) Si la Commission révoque la modification en vertu du paragraphe (2.2) :
+
 a) d’une part, le paragraphe (3) cesse de s’y appliquer;
+
 b) d’autre part, la Commission ne doit procéder à aucun examen par suite d’une requête présentée en vertu du paragraphe (3) avant la révocation.
 
 ### Suspension d’effet de la modification
@@ -1777,7 +2181,9 @@ b) d’autre part, la Commission ne doit procéder à aucun examen par suite d�
 ### Renvoi à la SIERE
 
 (6) Si elle conclut, à l’issue de son examen, que la modification est incompatible avec les objets de la présente loi ou qu’elle avantage ou désavantage injustement un intervenant du marché ou une catégorie d’intervenants du marché, la Commission :
+
 a) rend une ordonnance renvoyant la modification à la SIERE pour étude plus approfondie;
+
 b) peut rendre une ordonnance révoquant la modification à la date qu’elle précise.
 
 ### Autres examens des règles du marché
@@ -1819,8 +2225,11 @@ b) peut rendre une ordonnance révoquant la modification à la date qu’elle pr
 ### Appel d’une ordonnance
 
 36 (1) La personne que vise une ordonnance prise aux termes des règles du marché peut interjeter appel de celle-ci devant la Commission si l’ordonnance, selon le cas :
+
 a) exige qu’elle paie une peine pécuniaire ou une somme supérieure à celle que prescrivent les règlements;
+
 b) refuse de lui accorder l’autorisation de participer aux marchés administrés par la SIERE ou de permettre ou de faire en sorte que de l’électricité soit acheminée à partir ou au moyen du réseau dirigé par la SIERE ou jusqu’à celui-ci;
+
 c) révoque, suspend ou restreint les droits qu’elle a de participer aux marchés administrés par la SIERE ou de permettre ou de faire en sorte que de l’électricité soit acheminée à partir ou au moyen du réseau dirigé par la SIERE ou jusqu’à celui-ci.
 
 ### Autres méthodes de règlement
@@ -1838,21 +2247,29 @@ c) révoque, suspend ou restreint les droits qu’elle a de participer aux march
 ### Idem
 
 (5) Lorsqu’elle décide si elle doit suspendre l’effet d’une ordonnance, la Commission tient compte des éléments suivants :
+
 a) l’intérêt public;
+
 b) le bien-fondé de l’appel;
+
 c) la possibilité qu’une personne subisse un tort irréparable;
+
 d) la prépondérance des inconvénients.
 
 ### Pouvoirs de la Commission
 
 (6) Après avoir examiné l’appel, la Commission peut, par ordonnance :
+
 a) soit rejeter l’appel;
+
 b) soit révoquer ou modifier l’ordonnance portée en appel;
+
 c) soit rendre toute autre ordonnance ou toute autre décision que la SIERE aurait pu prendre.
 
 ### Idem
 
 (7) Outre les pouvoirs visés au paragraphe (6), la Commission peut également rendre une ordonnance révoquant ou suspendant le permis de l’appelant ou y ajoutant ou en modifiant une condition.
+
 (8) Abrogé : 2000, chap. 26, annexe D, par. 1 (2).
 
 ### Dispense d’application des règles du marché
@@ -1878,13 +2295,17 @@ c) soit rendre toute autre ordonnance ou toute autre décision que la SIERE aura
 ### Conditions de la dispense
 
 (6) Une dispense peut :
+
 a) être totale ou partielle;
+
 b) être assujettie à des conditions ou à des restrictions.
 
 ### Fin de la dispense
 
 (7) La dispense accordée précise qu’elle prend fin :
+
 a) soit à la date que fixe le comité;
+
 b) soit à la survenance d’un événement que précise le comité.
 
 ### Idem
@@ -1914,10 +2335,15 @@ b) soit à la survenance d’un événement que précise le comité.
 ### Pouvoirs de la Commission
 
 (14) Après avoir examiné l’appel, la Commission peut, par ordonnance :
+
 a) soit rejeter l’appel;
+
 b) si elle conclut que la décision du comité est incompatible avec les objets de la présente loi :
+
 (i) soit renvoyer la demande de dispense au comité pour étude plus approfondie,
+
 (ii) soit révoquer ou modifier la décision du comité,
+
 (iii) soit rendre toute autre décision que le comité aurait pu prendre.
 
 ### Retrait d’une dispense
@@ -1965,9 +2391,13 @@ b) si elle conclut que la décision du comité est incompatible avec les objets 
 ### Date applicable
 
 (4) Pour l’application du paragraphe (1), la date applicable correspond, à l’égard du règlement d’un paiement, d’un ajustement ou d’une somme qui se rapporte à un droit ou à des frais précisés, et sous réserve des règlements, le cas échéant :
+
 a) soit à la première des dates suivantes :
+
 (i) la date initiale à laquelle la SIERE aurait le droit ou l’obligation de régler une transaction,
+
 (ii) la date à laquelle la SIERE émet une facture;
+
 b) soit à l’autre date applicable que prévoient les règlements ou qui est fixée selon les modalités que prévoient les règlements.
 
 ### Découverte du paiement, de l’ajustement ou de la somme
@@ -1977,27 +2407,45 @@ b) soit à l’autre date applicable que prévoient les règlements ou qui est f
 ### Aucune incidence sur les pouvoirs de la SIERE, règles du marché et autres
 
 (6) Sous réserve du paragraphe (8), le présent article ne doit pas être interprété comme supprimant, éliminant ou restreignant les pouvoirs de la SIERE qui ne se rapportent pas aux questions prévues au paragraphe (1) ou qui sont incompatibles avec celles-ci, ou comme ayant une incidence sur ces pouvoirs, notamment son pouvoir de verser ou de recevoir des paiements des ajustements qui découlent des règles du marché, de participer à des transactions ou règlements qui découlent des règles du marché, ou d’entreprendre d’autres activités qui découlent des règles du marché, y compris son pouvoir de faire ce qui suit :
+
 a) établir ou modifier les règles du marché en ce qui a trait aux règlements, aux paiements, aux ajustements ou aux frais, y compris le délai et le mode de calcul de ceux-ci, ou aux questions connexes;
+
 b) commencer ou exercer des activités liées à la conformité ou à l’exécution découlant des règles du marché, y compris toute vérification, toute recherche, toute enquête, tout contrôle ou toute autre activité de supervision ou tout examen se rapportant aux pénalités financières ou autres sanctions imposées ou potentielles prévues dans les règles du marché ou se rapportant aux règlements, paiements, ajustements ou frais prévus par les règles du marché;
+
 c) payer des sommes ou ajuster les sommes versées ou à verser aux termes des règles du marché, y compris les sommes visées à l’alinéa f);
+
 d) suspendre ou révoquer l’autorisation d’un participant du marché de participer aux marchés administrés par la SIERE conformément aux règles du marché;
+
 e) faire ou recevoir un paiement ou verser ou recevoir une somme attribuable :
+
 (i) soit à une décision ou à une ordonnance que rend la Commission, à un permis qu’elle délivre ou à un code qu’elle publie, à toute forme d’activité liée à la conformité ou à l’exécution, à une décision que rend la Commission ou à une directive qu’elle donne ou à une garantie d’observation volontaire fournie à la Commission en vertu de l’article 112.7 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario,
+
 (ii) soit à une sentence, à une ordonnance, à une décision ou à une instance d’un arbitre, d’un tribunal judiciaire, de la SIERE ou d’un tribunal administratif autre que la Commission ou à un accord de conformité ou à un autre accord prévoyant le règlement d’une question découlant d’une activité liée à la conformité ou à l’exécution,
+
 (iii) soit à une sentence, à une ordonnance ou à une décision d’un arbitre, d’un tribunal judiciaire ou administratif concernant un règlement,
+
 (iv) soit à un contrat conclu par la SIERE;
+
 f) verser ou ajuster les sommes versées ou à verser découlant des règles du marché, y compris régler ou régler à nouveau ces sommes au moment et de la manière exigés ou appropriés conformément aux règles du marché;
+
 g) publie, publie à nouveau ou modifie les déclarations de règlement ou les autres documents qui reflètent les règlements qui découlent des règles du marché;
+
 h) verser, recevoir ou prévoir un paiement, un ajustement ou une somme, ou participer à une transaction que prévoient les règlements, ou faire l’une ou l’autre de ces choses de la manière que fixent les règlements avec une personne ou une catégorie de personnes que prescrivent les règlements.
 
 ### Non-application du par. (1)
 
 (7) Malgré le paragraphe (1), rien n’empêche la SIERE de faire le paiement ou l’ajustement d’une somme quelconque à un intervenant du marché, à un consommateur, à une personne ou à une entité, ou de recevoir un tel paiement ou ajustement de l’intervenant, du consommateur, de la personne ou de l’entité, à l’égard d’un droit ou de frais précisés auxquels ce paragraphe s’applique, si le paiement ou l’ajustement découle, selon le cas :
+
 a) de toute forme d’activité liée à la conformité ou à l’exécution, d’une décision découlant des règles du marché, y compris l’imposition de pénalités financières ou d’autres sanctions aux termes des règles du marché ou le versement ou l’ajustement de sommes versées ou à verser aux termes des règles du marché ou qui se fondent sur un paiement ou un droit visé au paragraphe (1);
+
 b) d’une décision, d’une ordonnance ou d’une directive de la Commission à l’égard d’un compte d’écart;
+
 c) de toute forme d’activité liée à la conformité ou à l’exécution, d’une décision, d’une directive ou d’une ordonnance de la Commission ou d’une garantie d’observation volontaire fournie à la Commission en vertu de l’article 112.7 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario ;
+
 d) d’une décision ou d’une ordonnance d’un tribunal judiciaire découlant d’une question visée à l’alinéa b) ou c);
+
 e) d’une sentence, d’une ordonnance ou d’une décision d’un tribunal judiciaire, de la Commission, d’un tribunal administratif ou d’un arbitre concernant une activité liée à la conformité ou l’exécution entreprise par la SIERE, y compris un accord prévoyant le règlement d’une question conclu dans le contexte de ces instances;
+
 f) à l’égard de toute question qui n’est pas visée aux alinéas b), c), d) et e), d’une sentence, d’une ordonnance ou d’une décision de la Commission, d’un tribunal judiciaire, d’un tribunal administratif autre que la Commission ou d’un arbitre, si les instances ont été introduites de la manière que prévoient les règlements, et avant le délai de prescription que prévoient les règlements, le cas échéant.
 
 ### Aucune incidence sur les pouvoirs de la Commission
@@ -2019,7 +2467,9 @@ f) à l’égard de toute question qui n’est pas visée aux alinéas b), c), d
 ### Immunité de la Couronne
 
 (12) Aucune cause d’action ne prend naissance contre la Couronne, un membre ou ancien membre du Conseil exécutif ou un employé, mandataire ou conseiller ou ancien employé, mandataire ou conseiller de la Couronne, ni contre la SIERE ou la Commission ou ses administrateurs, dirigeants, employés ou mandataires ou anciens administrateurs, dirigeants, employés ou mandataires, et dans le cas de la Commission, ses présidents, vice-présidents, membres ou commissaires ou anciens présidents, vice-présidents, membres ou commissaires par suite directe ou indirecte de ce qui suit :
+
 a) l’édiction, l’effet, l’application ou l’abrogation d’une disposition du présent article ou des règlements pris en vertu de celui-ci ou l’édiction, l’effet, l’application ou l’abrogation qui en découle;
+
 b) quoi que ce soit qui est fait ou n’est pas fait pour assurer la conformité au présent article ou aux règlements pris en vertu de celui-ci.
 
 ### Effet rétrospectif
@@ -2029,14 +2479,23 @@ b) quoi que ce soit qui est fait ou n’est pas fait pour assurer la conformité
 ### Règlements
 
 (14) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prévoir et régir les situations auxquelles le paragraphe (1) s’applique ou ne s’applique pas, y compris prescrire les lois, les règlements ou les dispositions des lois ou des règlements auxquels le paragraphe (1) s’applique ou ne s’applique pas;
+
 b) prévoir un autre délai de prescription pour l’application du paragraphe (1), et prévoir et régir les situations où des délais de prescription différents s’appliquent, y compris prévoir le ou les modes de fixation de ces délais de prescription;
+
 c) prescrire les paiements, les ajustements, les sommes, les droits et les frais précisés auxquels le paragraphe (1) s’applique ou ne s’applique pas;
+
 d) traiter de ce qui constitue la date applicable pour l’application du paragraphe (1), y compris prévoir l’autre date applicable visée à l’alinéa (4) b), ou un mode de fixation de la date applicable ou de l’autre date applicable, y compris prévoir l’application ou la fixation de dates applicables différentes dans des circonstances différentes;
+
 e) définir les termes «ajustement», «compte d’écart», «droit», «facture», «paiement», «frais précisés» et «somme» pour l’application du présent article, et prévoir les critères qu’ils doivent remplir;
+
 f) prévoir les critères qui doivent être remplis concernant la manière dont sont introduites les instances visées à l’alinéa (7) f) et prévoir des critères différents qui doivent être remplis dans des circonstances différentes;
+
 g) prévoir le délai de prescription visé à l’alinéa (7) f);
+
 h) régir de façon générale l’application du présent article et prévoir tout ce que le présent article mentionne comme étant prescrit, établi ou prévu par les règlements;
+
 i) régir les questions transitoires que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables pour faciliter la mise en oeuvre du présent article.
 
 ### Effet rétroactif
@@ -2046,6 +2505,7 @@ i) régir les questions transitoires que le lieutenant-gouverneur en conseil est
 ### Définitions
 
 (16) Les définitions qui suivent s’appliquent au présent article.
+
 «ajustement», «compte d’écart», «droit», «facture», «paiement», «frais précisés» et «somme» s’entendent au sens des règlements.
 
 ### Normes de fiabilité
@@ -2075,19 +2535,29 @@ i) régir les questions transitoires que le lieutenant-gouverneur en conseil est
 ### Idem
 
 (6) Lorsqu’elle décide si elle doit suspendre l’application d’une norme de fiabilité, la Commission tient compte des éléments suivants :
+
 a) l’intérêt public;
+
 b) le bien-fondé de la requête;
+
 c) la possibilité qu’une personne subisse un tort irréparable;
+
 d) l’impact sur les consommateurs;
+
 e) la prépondérance des inconvénients;
+
 f) la nécessité de coordonner la mise en oeuvre de la norme en Ontario avec d’autres autorités législatives;
+
 g) la nécessité de coordonner l’examen de la norme en Ontario avec des organismes de réglementation d’autres autorités législatives qui l’ont examinée, l’examinent ou pourraient l’examiner et qui ont le pouvoir de la renvoyer à l’organisme de normalisation pour étude plus approfondie;
+
 h) tout autre élément prescrit par règlement.
 
 ### Ordonnance : incompatibilité ou traitement injuste
 
 (7) Si elle conclut, à l’issue de son examen, que la norme est incompatible avec les objets de la présente loi ou qu’elle avantage ou désavantage injustement un intervenant du marché ou une catégorie d’intervenants du marché, la Commission rend une ordonnance :
+
 a) annulant l’application de la norme en Ontario, si elle s’y applique déjà, ou interdisant qu’elle s’y applique à l’avenir, à la date que la Commission précise;
+
 b) renvoyant la norme à l’organisme de normalisation pour étude plus approfondie.
 
 ### Ordonnance : coordination avec d’autres autorités législatives
@@ -2121,23 +2591,33 @@ b) renvoyant la norme à l’organisme de normalisation pour étude plus approfo
 ### Idem
 
 (5) Lorsqu’elle décide si elle doit suspendre l’effet d’une ordonnance, d’une conclusion ou d’une mesure corrective, la Commission tient compte des éléments suivants :
+
 a) l’intérêt public;
+
 b) le bien-fondé de l’appel;
+
 c) la possibilité qu’une personne subisse un tort irréparable;
+
 d) la prépondérance des inconvénients.
 
 ### Pouvoirs de la Commission
 
 (6) Après avoir examiné l’appel, la Commission peut, par ordonnance :
+
 a) rejeter l’appel;
+
 b) révoquer ou modifier l’ordonnance, la conclusion ou la mesure corrective portée en appel;
+
 c) rendre toute autre ordonnance ou décision, tirer toute autre conclusion ou prendre toute autre mesure corrective que l’organisme de normalisation aurait pu rendre, tirer ou prendre.
 
 ### Idem
 
 (7) Outre les pouvoirs visés au paragraphe (6), la Commission peut, par ordonnance :
+
 a) révoquer ou suspendre une condition du permis de la SIERE;
+
 b) modifier une condition du permis de la SIERE;
+
 c) ajouter une condition au permis de la SIERE. 2008, chap. 7, annexe G, art. 4.
 
 ### Compétences légales de décision
@@ -2197,6 +2677,7 @@ c) ajouter une condition au permis de la SIERE. 2008, chap. 7, annexe G, art. 4.
 ### Logement
 
 (13) La définition qui suit s’applique aux paragraphes (9), (10) et (11).
+
 «bâtiment, contenant ou lieu» La présente définition exclut les locaux utilisés comme logement.
 
 ### Application
@@ -2238,8 +2719,11 @@ c) ajouter une condition au permis de la SIERE. 2008, chap. 7, annexe G, art. 4.
 ### Renseignements confidentiels
 
 37.3 (1) Sont confidentiels tous les renseignements et les documents qui ne sont pas par ailleurs publics et qui sont fournis au comité ou à quiconque agit en son nom, ou que ceux-ci reçoivent ou obtiennent, conformément à l’article 37 ou 37.1. Sauf dans le cadre normal de ses fonctions, nul ne doit communiquer ces renseignements, ni permettre l’accès à ces documents ou leur examen, sauf si, selon le cas :
+
 a) le comité a pris une ordonnance en application du paragraphe (3);
+
 b) le comité a pris en considération ces renseignements ou ces documents dans la préparation du rapport prévu au paragraphe 37 (15) et la communication de ces renseignements ou l’accès à ces documents ou leur examen est exigé par sommation ou directive de la Commission;
+
 c) ces renseignements sont communiqués ou l’accès à ces documents ou leur examen est permis à un service de police ou autre organisme d’enquête ou à un organisme de réglementation.
 
 ### Non-admissibilité
@@ -2267,7 +2751,9 @@ c) ces renseignements sont communiqués ou l’accès à ces documents ou leur e
 ### Pouvoirs de la Commission
 
 (4) À l’issue de l’examen prévu au paragraphe (2) ou (3), la Commission peut, afin d’éviter l’abus du pouvoir sur le marché, de réduire les risques d’une telle éventualité ou d’en atténuer les effets :
+
 a) soit modifier le permis d’un intervenant du marché;
+
 b) soit rendre une ordonnance enjoignant à la SIERE de modifier les règles du marché de la façon et dans les délais qu’elle précise.
 
 ### Publication
@@ -2299,6 +2785,7 @@ b) soit rendre une ordonnance enjoignant à la SIERE de modifier les règles du 
 ### Installations de production nucléaire
 
 (5) Chaque producteur qui est propriétaire ou exploitant d’une installation de production nucléaire dépose auprès du ministre une copie des plans d’urgence se rapportant à l’installation qu’il a déposés auprès de la Commission canadienne de sûreté nucléaire.
+
 (6) Abrogé : 2004, chap. 23, annexe A, par. 49 (2).
 
 ### Pouvoirs d’entrée
@@ -2306,7 +2793,9 @@ b) soit rendre une ordonnance enjoignant à la SIERE de modifier les règles du 
 ### Pouvoir d’entrée
 
 40 (1) Le transporteur ou le distributeur peut, à toute heure raisonnable, entrer dans un bien-fonds sur lequel est situé son réseau de transport ou de distribution pour :
+
 a) soit inspecter, entretenir, réparer, modifier, enlever, remplacer ou débrancher des fils ou d’autres installations utilisés pour transporter ou distribuer de l’électricité;
+
 b) soit installer, inspecter, étalonner, entretenir, réparer, modifier, enlever ou remplacer un compteur ou en faire le relevé.
 
 ### Idem : bâtiments à unités multiples
@@ -2336,8 +2825,11 @@ b) soit installer, inspecter, étalonner, entretenir, réparer, modifier, enleve
 ### Avis et indemnité
 
 (8) La personne qui exerce un pouvoir d’entrée conféré par le présent article fait ce qui suit :
+
 a) elle donne un avis raisonnable de son entrée à l’occupant du bien;
+
 b) dans la mesure du possible, elle remet le bien dans son état initial;
+
 c) elle offre une indemnité pour tous dommages causés par l’entrée.
 
 ### Intérêts de propriété
@@ -2369,8 +2861,11 @@ c) elle offre une indemnité pour tous dommages causés par l’entrée.
 ### Avis et indemnité
 
 (7) Le transporteur ou le distributeur qui exerce un pouvoir d’entrée conféré par le présent article fait ce qui suit :
+
 a) il donne un avis raisonnable de son entrée au propriétaire de la rue ou de la voie publique ou à l’autre personne dont relève son exploitation;
+
 b) dans la mesure du possible, il remet la rue ou la voie publique dans son état initial;
+
 c) il offre une indemnité pour tous dommages causés par l’entrée.
 
 ### Aucune indemnité
@@ -2380,12 +2875,15 @@ c) il offre une indemnité pour tous dommages causés par l’entrée.
 ### Emplacement
 
 (9) L’emplacement des constructions, du matériel ou des installations construits ou installés en vertu du paragraphe (1) est choisi d’un commun accord par le transporteur ou le distributeur et le propriétaire de la rue ou de la voie publique. À défaut d’accord, la Commission en décide.
+
 (10) Abrogé : 2016, chap. 10, annexe 2, art. 9.
 
 ### Services de télécommunication
 
 42 (1) Si une partie de son réseau de transport ou de distribution est située sur un bien-fonds sur lequel il a une servitude ou un autre droit d’usage, le transporteur ou le distributeur peut :
+
 a) soit utiliser le bien-fonds qui est assujetti à la servitude ou à l’autre droit pour fournir un service de télécommunication;
+
 b) soit conclure avec d’autres personnes, y compris des membres du même groupe, des accords les autorisant à utiliser le bien-fonds qui est assujetti à la servitude ou à l’autre droit pour fournir un service de télécommunication.
 
 ### Idem
@@ -2411,6 +2909,7 @@ b) soit conclure avec d’autres personnes, y compris des membres du même group
 ### Définition
 
 (6) La définition qui suit s’applique au présent article.
+
 «service de télécommunication» S’entend au sens de la Loi sur les télécommunications (Canada).
 
 ### Servitudes : producteurs, transporteurs et distributeurs
@@ -2438,7 +2937,9 @@ b) soit conclure avec d’autres personnes, y compris des membres du même group
 ### Biens insaisissables
 
 45 Les biens meubles d’un transporteur ou d’un distributeur qui servent au transport ou à la distribution d’électricité à un bien-fonds ou qui sont rattachés à une telle activité ne peuvent faire l’objet d’une saisie :
+
 a) à l’encontre du propriétaire ou de l’occupant du bien-fonds sous le régime de la Loi sur l’exécution forcée ;
+
 b) pour cause d’arriérés de loyer, à l’encontre d’une personne qui a un intérêt à bail sur le bien-fonds.
 
 ### Droits non enregistrés
@@ -2448,11 +2949,17 @@ b) pour cause d’arriérés de loyer, à l’encontre d’une personne qui a un
 ### Transfert de droits
 
 (2) Un droit visé au paragraphe (1) peut être transféré à l’une ou l’autre des entités suivantes :
+
 a) Hydro One Inc.;
+
 b) Ontario Power Generation Inc.;
+
 c) une filiale de Hydro One Inc. qui est autorisée à transporter ou à distribuer de l’électricité;
+
 c.1) une filiale d’Ontario Power Generation Inc. qui est autorisée à produire de l’électricité;
+
 d) une personne morale constituée conformément à l’article 142 qui est autorisée à transporter ou à distribuer de l’électricité;
+
 e) une filiale d’une personne morale constituée conformément à l’article 142 si elle est autorisée à transporter ou à distribuer de l’électricité.
 
 ### Renseignements
@@ -2466,7 +2973,9 @@ e) une filiale d’une personne morale constituée conformément à l’article 
 ### Application de la Loi sur l’expropriation
 
 (5) La Loi sur l’expropriation s’applique, avec les adaptations nécessaires, aux demandes d’indemnisation présentées aux termes du paragraphe (4) comme s’il s’agissait d’un effet préjudiciable et, à cette fin :
+
 a) la mention de l’autorité légalement compétente est réputée une mention du titulaire du droit;
+
 b) la mention du propriétaire est réputée une mention de la personne visée au paragraphe (4).
 
 ### Disposition transitoire
@@ -2474,9 +2983,13 @@ b) la mention du propriétaire est réputée une mention de la personne visée a
 ### Utilisation de biens-fonds pour la production
 
 46.1 (1) Si, le 31 mars 1999, l’occupant d’un bien-fonds utilisait ou aurait pu légalement utiliser celui-ci pour la production d’électricité, tout occupant du bien-fonds peut :
+
 a) d’une part, utiliser le bien-fonds pour la production d’électricité :
+
 (i) soit aux fins auxquelles le bien-fonds était utilisé le 31 mars 1999,
+
 (ii) soit à toute fin à laquelle le bien-fonds aurait pu légalement être utilisé le 31 mars 1999;
+
 b) d’autre part, utiliser ou ériger sur le bien-fonds un bâtiment ou une construction pour une utilisation du bien-fonds qui est autorisée par l’alinéa a).
 
 ### Idem
@@ -2486,9 +2999,13 @@ b) d’autre part, utiliser ou ériger sur le bien-fonds un bâtiment ou une con
 ### Disposition transitoire : utilisation de biens-fonds pour le transport ou la distribution
 
 (3) Si, le 31 mars 1999, l’occupant d’un bien-fonds utilisait ou aurait pu légalement utiliser celui-ci pour le transport ou la distribution d’électricité, tout occupant du bien-fonds peut :
+
 a) d’une part, utiliser le bien-fonds pour le transport ou la distribution d’électricité :
+
 (i) soit aux fins auxquelles le bien-fonds était utilisé le 31 mars 1999,
+
 (ii) soit à toute fin à laquelle le bien-fonds aurait pu légalement être utilisé le 31 mars 1999;
+
 b) d’autre part, utiliser ou ériger sur le bien-fonds un bâtiment ou une construction pour une utilisation du bien-fonds qui est autorisée par l’alinéa a).
 
 ### Loi sur l’aménagement du territoire
@@ -2498,7 +3015,9 @@ b) d’autre part, utiliser ou ériger sur le bien-fonds un bâtiment ou une con
 ### Utilisation de biens-fonds de Toronto par Ontario Hydro
 
 46.2 (1) Malgré l’article 46.1, si, avant le 31 mars 1999, Ontario Hydro occupait et utilisait un bien-fonds de la cité de Toronto pour la production d’électricité au moyen de combustibles fossiles et pour toute utilisation auxiliaire, tout occupant du bien-fonds peut :
+
 a) d’une part, utiliser le bien-fonds pour une ou plusieurs activités telles que la production d’électricité au moyen d’un type de combustible prescrit par les règlements, le transport et la distribution d’électricité et pour toute utilisation auxiliaire;
+
 b) d’autre part, utiliser ou ériger sur le bien-fonds un bâtiment ou une construction pour une utilisation du bien-fonds qui est autorisée par l’alinéa a).
 
 ### Incompatibilité
@@ -2514,6 +3033,7 @@ b) d’autre part, utiliser ou ériger sur le bien-fonds un bâtiment ou une con
 ### Définitions
 
 47.1 Les définitions qui suivent s’appliquent à la présente partie.
+
 «véhicule électrique», «recharge des véhicules électriques» et «station de recharge pour véhicules électriques» S’entendent au sens de la Loi de 1998 sur la Commission de l’énergie de l’Ontario. («electric vehicle», «electric vehicle charging» and «electric vehicle charging station») 2024, chap. 26, annexe 3, art. 1.
 
 ### Champ d’application de la Loi
@@ -2531,7 +3051,9 @@ b) d’autre part, utiliser ou ériger sur le bien-fonds un bâtiment ou une con
 ### Règlements
 
 47.3 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) préciser l’application de l’article 47.2;
+
 b) prévoir et régir l’application de la présente loi, à l’exception de la partie VIII, à la distribution ou à la vente au détail d’électricité pour la recharge des véhicules électriques, sous réserve des adaptations que précisent les règlements.
 
 ### Idem
@@ -2559,20 +3081,27 @@ b) prévoir et régir l’application de la présente loi, à l’exception de l
 ### Sens de «maintient en Ontario»
 
 (3) Pour l’application du paragraphe (2), Hydro One Inc. maintient son siège social en Ontario si les conditions suivantes sont réunies :
+
 a) le bureau principal de la direction de Hydro One Inc. et de ses filiales est situé en Ontario;
+
 b) le chef de la direction et la quasi-totalité des dirigeants détenant des pouvoirs de prise de décisions stratégiques ou de gestion à l’égard de Hydro One Inc. et de ses filiales exercent principalement leurs fonctions au bureau principal de la direction ou ailleurs en Ontario et résident en Ontario;
+
 c) la quasi-totalité des fonctions liées à la prise de décisions stratégiques, à la planification générale, à la gestion financière et aux autres fonctions de direction de Hydro One Inc. et de ses filiales sont exercées au bureau principal de la direction ou ailleurs en Ontario.
 
 ### Ressources et matériel essentiels maintenus en Ontario
 
 (4) Hydro One Inc. maintient en tout temps en Ontario, directement ou par l’intermédiaire de ses filiales, ses centres d’exploitation et de contrôle qui sont nécessaires pour :
+
 a) le contrôle, la surveillance et la coordination de son réseau de transport qui est réglementé par la Commission;
+
 b) le contrôle, la surveillance et la coordination de son réseau de distribution qui est réglementé par la Commission.
 
 ### Exception
 
 (5) Le paragraphe (4) n’a pas pour effet d’empêcher Hydro One Inc., directement ou par l’intermédiaire de ses filiales, de disposer, notamment par vente, location à bail ou dessaisissement, de ce qui suit si la disposition n’est pas interdite au titre du paragraphe (6) ou (7) :
+
 1. Toute partie de son réseau de transport qui est réglementé par la Commission ou les activités, les biens ou les actifs liés à ce réseau.
+
 2. Toute partie de son réseau de distribution qui est réglementé par la Commission ou les activités, les biens ou les actifs liés à ce réseau.
 
 ### Dessaisissement quasi-total : réseau de transport
@@ -2606,10 +3135,15 @@ b) le contrôle, la surveillance et la coordination de son réseau de distributi
 ### Mesures de redressement
 
 (4) Les statuts constitutifs de Hydro One Inc. doivent comprendre la restriction prévue au paragraphe (1) ainsi que des dispositions à l’égard de son application, lesquelles peuvent notamment prévoir :
+
 a) la production de déclarations;
+
 b) la suspension de droits de vote;
+
 c) l’annulation de dividendes;
+
 d) le refus d’émettre ou d’inscrire des valeurs mobilières avec droit de vote;
+
 e) la vente ou le rachat des valeurs mobilières avec droit de vote détenues contrairement à la restriction et le versement du produit net à la personne ou à l’entité qui y a droit.
 
 ### Restrictions : vente par la province
@@ -2623,7 +3157,9 @@ e) la vente ou le rachat des valeurs mobilières avec droit de vote détenues co
 ### Modalités d’acquisition de valeurs mobilières avec droit de vote
 
 (7) Le ministre ne peut acquérir des valeurs mobilières avec droit de vote conformément au paragraphe (6) que si les conditions suivantes sont réunies :
+
 a) le lieutenant-gouverneur en conseil a établi le mode et le délai d’acquisition des valeurs mobilières avec droit de vote, auquel cas le ministre en fait l’acquisition conformément à ce qui a été établi;
+
 b) les actes du ministre et l’acquisition sont conformes à la Loi sur les valeurs mobilières et aux autres lois ou règlements applicables.
 
 ### Financement
@@ -2673,12 +3209,15 @@ b) les actes du ministre et l’acquisition sont conformes à la Loi sur les val
 ### Mandataire de la Couronne
 
 (4) Les personnes morales constituées conformément au paragraphe (1) sont des mandataires de la Couronne à toutes fins.
+
 (5) Abrogé : 2021, chap. 8, annexe 3, art. 1.
 
 ### Personnes morales et autres entités et arrangements
 
 50.1 (1) Le lieutenant-gouverneur en conseil peut faire constituer des personnes morales ou d’autres entités ou faire prendre des arrangements aux fins de la prise de toute mesure, soit directement ou indirectement, à l’égard de ce qui suit, notamment leur acquisition, leur détention et leur disposition :
+
 a) les valeurs mobilières, les éléments d’actif, les éléments de passif, les droits, les obligations et les revenus de Hydro One Inc. ou de ses filiales;
+
 b) les intérêts sur ces valeurs mobilières, éléments d’actif, éléments de passif, droits, obligations et les revenus, ou les droits à ceux-ci.
 
 ### Statut
@@ -2692,9 +3231,13 @@ b) les intérêts sur ces valeurs mobilières, éléments d’actif, éléments 
 ### Directive du ministre
 
 (4) Si la Couronne du chef de l’Ontario ou son mandataire est le seul détenteur des valeurs mobilières avec droit de vote de Hydro One Inc., le ministre peut lui ordonner :
+
 a) soit de transférer ses valeurs mobilières, ses éléments d’actif, ses éléments de passif, ses droits, ses obligations et ses revenus à une personne ou entité;
+
 b) soit de transférer un intérêt sur ses valeurs mobilières, ses éléments d’actif, ses éléments de passif, ses droits, ses obligations et ses revenus, ou un droit à ceux-ci, à une personne ou entité;
+
 c) soit de transférer à une personne ou entité les valeurs mobilières, les éléments d’actif, les éléments de passif, les droits, les obligations et les revenus d’une filiale dont Hydro One Inc. est le seul détenteur, soit directement ou indirectement, des valeurs mobilières avec droit de vote;
+
 d) soit de transférer à une personne ou entité un intérêt sur les valeurs mobilières, les éléments d’actif, les éléments de passif, les droits, les obligations et les revenus d’une filiale dont Hydro One Inc. est le seul détenteur, soit directement ou indirectement, des valeurs mobilières avec droit de vote, ou un droit à ceux-ci.
 
 ### Idem
@@ -2720,7 +3263,9 @@ d) soit de transférer à une personne ou entité un intérêt sur les valeurs m
 ### Société de portefeuille
 
 50.2.1 (1) Malgré le paragraphe 48.2 (5), si la Couronne du chef de l’Ontario est l’unique détenteur des valeurs mobilières avec droit de vote de Hydro One Inc., le ministre peut en transférer la totalité à une personne morale constituée en vertu de l’article 50.1, auquel cas les règles suivantes s’appliquent à partir de la conclusion du transfert malgré toute autre disposition de la présente loi, mais sous réserve des règlements pris en vertu du paragraphe (2) :
+
 1. Les mentions de Hydro One Inc. dans la présente partie et les règlements pris en vertu de celle-ci sont réputées s’entendre de cette personne morale constituée en vertu de l’article 50.1.
+
 2. Les autres mentions de Hydro One Inc. dans la présente loi et les règlements ainsi que dans toute autre loi ou tout autre règlement sont réputées s’entendre en outre de cette personne morale constituée en vertu de l’article 50.1.
 
 ### Règlements
@@ -2730,13 +3275,17 @@ d) soit de transférer à une personne ou entité un intérêt sur les valeurs m
 ### Produit de disposition
 
 50.3 (1) Le présent article s’applique si une somme est payable au Trésor à l’égard de ce qui suit :
+
 a) la disposition de valeurs mobilières ou de titres de créance de Hydro One Inc. ou d’une de ses filiales, d’une personne morale constituée en vertu de l’article 50, d’une personne morale ou autre entité constituée en vertu de l’article 50.1 ou d’un arrangement pris en vertu de l’article 50.1, ou d’autres intérêts sur ceux-ci;
+
 b) le capital correspondant aux actions de Hydro One Inc.
 
 ### Paiements à la Société financière
 
 (2) Le ministre des Finances verse à la Société financière une somme égale au produit payable à la Couronne à l’égard de la disposition de valeurs mobilières, titres de créance ou autres intérêts visés à l’alinéa (1) a), déduction faite des sommes suivantes :
+
 a) la somme que le ministre estime souhaitable relativement à l’acquisition des valeurs mobilières, titres de créance ou intérêts, y compris le prix d’achat, les obligations que la Couronne a prises en charge et les autres coûts qu’elle a engagés, et les sommes affectées par la Couronne à la Société financière à l’égard des valeurs mobilières;
+
 b) les coûts engagés par la Couronne relativement à la disposition des valeurs mobilières, titres de créance ou intérêts.
 
 ### Idem
@@ -2758,6 +3307,7 @@ b) les coûts engagés par la Couronne relativement à la disposition des valeur
 ### Abrogation
 
 (7) Le présent article est abrogé le jour de l’abrogation de la partie V en application de l’article 84.1.
+
 50.4 Abrogé : 2015, chap. 20, annexe 9, art. 8.
 
 ### Non-application de l’art. 28 de la Loi sur l’administration financière
@@ -2771,18 +3321,27 @@ b) les coûts engagés par la Couronne relativement à la disposition des valeur
 ### Règlements
 
 53 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des collectivités pour l’application du paragraphe 48.1 (1);
+
 b) prescrire des conditions et des restrictions à l’égard des obligations d’origine législative que le paragraphe 48.1 (1) attribue à Hydro One Inc.
+
 c) et d) Abrogés : 2015, chap. 20, annexe 9, par. 9 (1).
+
 (2) à (5) Abrogés : 2015, chap. 20, annexe 9, par. 9 (2).
+
 (6) et (7) Abrogés : Voir : Table des dispositions de lois d’intérêt public abrogées aux termes de l’article 10.1 de la Loi de 2006 sur la législation – 31 décembre 2012.
+
 (8) Périmé. Voir : Table des dispositions de lois d’intérêt public abrogées aux termes de l’article 10.1 de la Loi de 2006 sur la législation – 31 décembre 2012.
 
 ### Règlements : réseau intelligent
 
 53.0.1 Le lieutenant-gouverneur en conseil peut, par règlement, régir le réseau intelligent et sa mise en place, et notamment :
+
 a) traiter des délais d’aménagement du réseau;
+
 b) assigner des rôles et des responsabilités en ce qui concerne l’aménagement, la mise en place et la normalisation du réseau;
+
 c) prescrire les normes régissant les communications et tout autre aspect de l’exploitation du réseau.
 
 ## PARTIE IV.1 ONTARIO POWER GENERATION INC.
@@ -2802,18 +3361,23 @@ c) prescrire les normes régissant les communications et tout autre aspect de l�
 ### Actifs et passifs : cas où Fair Hydro Trust n’est pas une filiale
 
 (1.3) Malgré toute autre disposition de la présente loi, de la Loi sur les sociétés par actions ou d’une autre loi et sous réserve de l’article 8 de la Loi de 2017 sur le Plan ontarien pour des frais d’électricité équitables, si Fair Hydro Trust n’est pas une filiale d’Ontario Power Generation Inc. :
+
 a) les actifs et les passifs de Fair Hydro Trust ne font pas partie de ceux d’Ontario Power Generation Inc. ou de ses filiales;
+
 b) les actifs et les passifs d’Ontario Power Generation Inc. ou de ses filiales ne font pas partie de ceux de Fair Hydro Trust.
 
 ### Actifs et passifs : cas où Fair Hydro Trust est une filiale
 
 (1.4) Malgré toute autre disposition de la présente loi, de la Loi sur les sociétés par actions ou d’une autre loi et sous réserve de l’article 8 de la Loi de 2017 sur le Plan ontarien pour des frais d’électricité équitables, si Fair Hydro Trust est une filiale d’Ontario Power Generation Inc. :
+
 a) les actifs et les passifs de Fair Hydro Trust ne font pas partie de ceux d’Ontario Power Generation Inc. ou de ses filiales;
+
 b) les actifs et les passifs d’Ontario Power Generation Inc. ou de ses filiales ne font pas partie de ceux de Fair Hydro Trust.
 
 ### Définition
 
 (1.5) La définition qui suit s’applique au présent article.
+
 «Fair Hydro Trust» S’entend au sens de la Loi de 2017 sur le Plan ontarien pour des frais d'électricité équitables.
 
 ### Statut
@@ -2867,10 +3431,15 @@ b) les actifs et les passifs d’Ontario Power Generation Inc. ou de ses filiale
 ### Idem
 
 (2) Le paragraphe (1) s’applique malgré ce qui suit :
+
 a) toute autre disposition de la présente loi ou d’une autre loi;
+
 b) l’affectation réelle ou réputée du bien-fonds ou du bien à un usage municipal ou un autre usage public;
+
 c) le pouvoir d’appropriation forcée d’un bien-fonds qu’a le propriétaire du bien-fonds ou du bien;
+
 d) l’origine, la nature ou les sources du titre du propriétaire du bien-fonds ou du bien ou de son intérêt sur ceux-ci;
+
 e) la manière dont le propriétaire du titre ou ses prédécesseurs ont fait l’acquisition du bien-fonds ou du bien.
 
 ### Maintien des servitudes jusqu’à leur mainlevée
@@ -2892,40 +3461,59 @@ e) la manière dont le propriétaire du titre ou ses prédécesseurs ont fait l�
 ### Définitions
 
 (7) Les définitions qui suivent s’appliquent au présent article.
+
 «bien» Bien de toute nature, à l’exception d’un bien-fonds. S’entend en outre d’un intérêt sur un bien. («property»)
+
 «bien-fonds» Bien immeuble, y compris tout domaine, terme, servitude, droit ou intérêt foncier. («land»)
+
 «ouvrages» S’entend en outre de tous les biens, usines, machines, bâtiments, constructions, installations, matériel, dispositifs, accessoires, instruments, appareils et autre équipement servant à la production, à la transformation, au transport, à la distribution ou à l’utilisation de l’électricité ou à l’approvisionnement en électricité. («works»)
+
 «propriétaire» S’entend en outre de tout créancier hypothécaire, preneur à bail, locataire, occupant ou personne ayant droit à un domaine ou intérêt foncier limités, ainsi que de tout tuteur, curateur, exécuteur testamentaire, administrateur successoral ou fiduciaire à qui un bien-fonds ou autre bien est acquis. («owner»)
+
 «servitude» Héritage incorporel, y compris une servitude, un droit de passage, un droit ou une permission de la nature d’une servitude ou le droit au profit à prendre. («easement») 2004, chap. 23, annexe A, art. 51.
 
 ### Restrictions en matière d’acquisition
 
 53.6.1 (1) Ontario Power Generation Inc. ne doit pas acquérir de biens ou de services qui remplissent les conditions prescrites par les règlements à l’égard de l’un ou l’autre des éléments suivants :
+
 a) leur pays, leur région ou leur territoire d’origine, établi dans les règlements;
+
 b) le pays, la région ou le territoire d’origine, établi dans les règlements, de la personne ou de l’entité qui est ou qui contrôle ou détient à titre bénéficiaire un fournisseur de biens ou de services.
 
 ### Idem : filiales
 
 (2) Nulle filiale d’Ontario Power Generation Inc. qui est prescrite par les règlements ne doit acquérir de biens ou de services qui remplissent les conditions prescrites par les règlements à l’égard de l’un ou l’autre des éléments suivants :
+
 a) leur pays, leur région ou leur territoire d’origine, établi dans les règlements;
+
 b) le pays, la région ou le territoire d’origine, établi dans les règlements, de la personne ou de l’entité qui est ou qui contrôle ou détient à titre bénéficiaire un fournisseur de biens ou de services.
 
 ### Origine
 
 (3) Pour l’application des paragraphes (1) et (2) :
+
 a) le pays, la région ou le territoire d’origine d’une personne ou entité peut être établi par renvoi à tout facteur pertinent, notamment, selon le cas, aux facteurs suivants :
+
 (i) le lieu où la personne réside ordinairement,
+
 (ii) le lieu où se trouvent le siège social ou d’autres bureaux,
+
 (iii) le ressort de constitution en personne morale,
+
 (iv) le nombre ou la proportion d’employés de la personne ou de l’entité qui se trouvent dans un pays, une région ou un territoire,
+
 (v) le ressort des règles de droit auxquelles la personne ou l’entité est assujettie,
+
 (vi) le lieu où s’exercent les activités commerciales de la personne ou de l’entité, tel que ces activités se rapportent à la fourniture de biens ou de services;
+
 b) un règlement peut établir, à ses propres fins, la manière dont la propriété bénéficiaire ou le contrôle doivent être établis.
 
 ### Application
 
 (4) Le paragraphe (1) ou (2) ne s’applique à l’égard d’une acquisition que si, le jour où un règlement pris pour l’application de ce paragraphe commence à s’appliquer, l’une ou l’autre des conditions suivantes est remplie :
+
 a) dans le cas d’une acquisition concurrentielle, la version définitive de la demande de propositions ou de tout autre document donnant lieu à l’acquisition n’a pas encore été délivrée;
+
 b) dans le cas d’une acquisition qui n’est pas une acquisition concurrentielle, les parties n’ont pas conclu de contrat définitif à l’égard de l’acquisition.
 
 ### Non-application de la Loi sur les pratiques de commerce discriminatoires
@@ -2937,9 +3525,13 @@ b) dans le cas d’une acquisition qui n’est pas une acquisition concurrentiel
 ### Entité responsable des compteurs intelligents
 
 53.7 (1) A fin de réaliser les politiques du gouvernement de l’Ontario liées à son initiative des compteurs intelligents, le ministre peut, selon le cas :
+
 a) faire constituer l’Entité responsable des compteurs intelligents en tant que personne morale sous le régime de la Loi sur les sociétés par actions ;
+
 b) faire former l’Entité responsable des compteurs intelligents en tant que société en commandite sous le régime de la Loi sur les sociétés en commandite ;
+
 c) faire former l’Entité responsable des compteurs intelligents en tant que société en nom collectif;
+
 d) désigner par règlement une entité en tant que l’Entité responsable des compteurs intelligents.
 
 ### Nom de l’Entité responsable des compteurs intelligents
@@ -2949,16 +3541,27 @@ d) désigner par règlement une entité en tant que l’Entité responsable des 
 ### Objets de l’Entité responsable des compteurs intelligents ou nature de ses activités
 
 53.8 Les objets de l’Entité responsable des compteurs intelligents, si elle est une personne morale, ou la nature de ses activités commerciales, si elle est une société en commandite ou une société en nom collectif, consistent entre autres à faire ce qui suit :
+
 1. Planifier et mettre en oeuvre et, de façon continue, superviser, administrer et livrer tout élément de l’initiative des compteurs intelligents selon ce qu’exigent les règlements pris en application de la présente loi ou d’une autre loi ou une directive donnée en vertu des articles 28.3 ou 28.4 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario et, si elle y est autorisée, avoir le pouvoir exclusif d’exercer ces activités.
+
 2. Recueillir, gérer et stocker les renseignements et les données relatifs à la mesure de la consommation d’électricité des consommateurs en Ontario ou de leur utilisation de l’électricité, y compris les données recueillies auprès des distributeurs, faciliter la cueillette et la gestion de ces renseignements et données et, si elle y est autorisée, avoir le pouvoir exclusif de recueillir, de gérer et de stocker ces données.
+
 3. Créer et exploiter une ou plusieurs bases de données, en tant que propriétaire ou preneur à bail, en vue de faciliter la cueillette, la gestion, le stockage et l’extraction des données des compteurs intelligents.
+
 4. Aux termes des conditions appropriées et sous réserve des conditions de son permis relatives à la protection de la vie privée, fournir et promouvoir l’accès non discriminatoire des distributeurs, des détaillants, de la SIERE et d’autres personnes à ce qui suit :
+
 i. les renseignements et les données visés à la disposition 2,
+
 ii. le système de télécommunications qui permet à l’Entité responsable des compteurs intelligents de transférer les données relatives à la consommation d’électricité ou à son utilisation à ses bases de données et d’effectuer des transferts inverses, y compris l’accès à son matériel, ses systèmes et ses technologies de télécommunications et au matériel, aux systèmes et aux technologies connexes.
+
 5. Exploiter, en tant que propriétaire ou preneur à bail, soit directement ou indirectement, y compris par l’intermédiaire d’une ou de plusieurs filiales si l’Entité responsable des compteurs intelligents est une personne morale, du matériel, des systèmes et des technologies, notamment du matériel, des systèmes et des technologies de télécommunications qui lui permettent de transférer les données relatives à la consommation d’électricité ou à son utilisation à ses bases de données et d’effectuer des transferts inverses, ainsi que du matériel, des systèmes et des technologies connexes.
+
 6. Exercer les activités d’acquisition concurrentielle nécessaires pour réaliser ses objets ou exercer ses activités commerciales.
+
 7. Obtenir au besoin, pour le compte des distributeurs, en tant que mandataire ou dans une autre capacité, des compteurs, du matériel, des systèmes et des technologies de mesure et du matériel, des systèmes et des technologies connexes, soit directement ou indirectement, y compris par l’intermédiaire d’une ou de plusieurs filiales si l’Entité responsable des compteurs intelligents est une personne morale.
+
 8. Recouvrer, par des tarifs justes et raisonnables, les frais et un rendement approprié liés à l’exercice de ses activités qui sont approuvés par la Commission.
+
 9. Réaliser les autres objets que prescrivent les règlements.
 
 ### Statut
@@ -2992,7 +3595,9 @@ ii. le système de télécommunications qui permet à l’Entité responsable de
 ### Renseignements sur les consommateurs
 
 53.14 Pour réaliser ses objets ou exercer ses activités commerciales, l’Entité responsable des compteurs intelligents peut faire ce qui suit :
+
 a) soit directement ou indirectement, recueillir auprès des consommateurs, des distributeurs ou d’autres personnes des renseignements ou des données relatives à la consommation d’électricité ou à son utilisation;
+
 b) gérer et compiler des données relatives à la consommation d’électricité des consommateurs ou à leur utilisation de l’électricité.
 
 ### Obligations réciproques en matière des renseignements
@@ -3002,7 +3607,9 @@ b) gérer et compiler des données relatives à la consommation d’électricit�
 ### Restrictions : Entité responsable des compteurs intelligents
 
 (2) Si elle a donné accès aux renseignements à un distributeur, un détaillant ou une autre personne en application de la présente partie, l’Entité responsable des compteurs intelligents ne doit pas exercer une activité commerciale prescrite par règlement si :
+
 a) d’une part, la personne a qui l’accès a été donné exerce la même activité commerciale;
+
 b) d’autre part, l’accès a été donné afin de permettre à la personne d’exercer l’activité commerciale.
 
 ### Obligations des distributeurs en matière d’installation des compteurs
@@ -3020,6 +3627,7 @@ b) d’autre part, l’accès a été donné afin de permettre à la personne d�
 ### Obligations des distributeurs et autres en matière d’acquisitions, de contrats ou d’arrangements
 
 (4) Lorsqu’un distributeur ou une autre personne qui est titulaire d’un permis délivré par la Commission pour exercer les activités visées au paragraphe (1) entreprend un processus d’acquisition ou conclut un contrat ou un arrangement qui est lié à l’initiative des compteurs intelligents, le processus, le contrat ou l’arrangement doit satisfaire aux critères ou exigences prescrits par règlement ou exigés par un code publié par la Commission ou par une ordonnance qu’elle a rendue.
+
 53.17 Abrogé : 2010, chap. 8, par. 37 (7).
 
 ### Activités de mesure discrétionnaires interdites
@@ -3029,12 +3637,15 @@ b) d’autre part, l’accès a été donné afin de permettre à la personne d�
 ### Définition
 
 (2) La définition qui suit s’applique au présent article.
+
 «activité de mesure discrétionnaire» L’installation, l’enlèvement, le remplacement ou la réparation des compteurs, du matériel, des systèmes et des technologies de mesure et du matériel, des systèmes et des technologies connexes que n’exige ni la Loi sur l’inspection de l’électricité et du gaz (Canada), ni un règlement, ni une ordonnance de la Commission, ni un code publié par celle-ci ou autorisé par un règlement pris en application de la présente loi.
 
 ### Contrats d’acquisition : disposition transitoire
 
 53.19 (1) Le ministre peut ordonner à l’Entité responsable des compteurs intelligents de prendre en charge, à la date qu’il estime appropriée, tous les pouvoirs et fonctions de la Couronne, y compris ceux qui seraient autrement exercés par l’entremise de ses organismes, à l’égard de ce qui suit :
+
 a) les demandes de propositions, les projets de demande de propositions, les autres invitations à soumissionner ou toute autre initiative que la Couronne ou un de ses organismes a présentés ou pris concernant l’initiative des compteurs intelligents du gouvernement après le 3 novembre 2005 et avant le 1 er janvier 2008;
+
 b) les contrats d’acquisition conclus par la Couronne ou un de ses organismes aux termes d’une demande de propositions, d’un projet de demande de propositions ou d’une autre invitation à soumissionner visé à l’alinéa a).
 
 ### Libération de la Couronne
@@ -3044,7 +3655,9 @@ b) les contrats d’acquisition conclus par la Couronne ou un de ses organismes 
 ### Remboursement des coûts engagés par la Couronne
 
 53.20 (1) L’Entité responsable des compteurs intelligents rembourse à la Couronne ou, sur directive du ministre, à un organisme de la Couronne, les coûts liés à l’Entité, aux contrats d’acquisition ou aux questions liées aux objets de l’Entité dans l’un ou l’autre des cas suivants :
+
 a) la Couronne ou son organisme a engagé ces coûts après le 3 novembre 2005 et avant le 1 er janvier 2008;
+
 b) la responsabilité de la Couronne ou de son organisme à l’égard de ces coûts a été engagée au cours de la période décrite à l’alinéa a).
 
 ### Remboursement en un ou plusieurs versements
@@ -3058,24 +3671,43 @@ b) la responsabilité de la Couronne ou de son organisme à l’égard de ces co
 ### Règlements
 
 53.21 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) désigner une entité en tant que l’Entité responsable des compteurs intelligents;
+
 b) prescrire le nom de l’Entité responsable des compteurs intelligents;
+
 c) traiter de l’initiative des compteurs intelligents;
+
 d) autoriser l’Entité responsable des compteurs intelligents à avoir le pouvoir exclusif d’exercer les activités de mesure prévues à l’article 53.8;
+
 e) prescrire des objets pour l’application de l’article 53.8;
+
 f) régir la cueillette, l’utilisation et la divulgation des renseignements relatifs à la consommation d’électricité des consommateurs ou à leur utilisation de l’électricité, y compris les renseignements personnels;
+
 g) prescrire, pour l’application du paragraphe 53.11 (1), les conditions, restrictions, critères ou exigences que doivent contenir les statuts constitutifs de l’Entité responsable des compteurs intelligents et ceux de ses filiales prescrites;
+
 h) prescrire des filiales de l’Entité responsable des compteurs intelligents pour l’application du paragraphe 53.11 (1);
+
 i) prescrire les dispositions de la Loi sur les sociétés par actions qui ne s’appliquent pas à l’Entité responsable des compteurs intelligents ni à aucune de ses filiales prescrites;
+
 j) prescrire des transactions ou arrangements pour l’application du paragraphe 53.12 (1) et les conditions ou restrictions qui s’y appliquent;
+
 k) traiter des compteurs intelligents et de l’installation et l’entretien de compteurs intelligents, de matériel, systèmes et technologies de mesure et de matériel, systèmes et technologies connexes;
+
 l) déterminer les mesures que doivent prendre l’Entité responsable des compteurs intelligents, les distributeurs et les autres personnes titulaires d’un permis délivré par la Commission concernant l’installation des compteurs prescrits, du matériel, des systèmes et des technologies de mesure prescrits et du matériel, des systèmes et des technologies connexes prescrits aux endroits prescrits en Ontario ou pour des catégories prescrites de biens et des catégories prescrites de consommateurs par préférence à d’autres endroits ou catégories, et prescrire le délai dans lequel ces mesures doivent être prises;
+
 m) prescrire la date pour l’application du paragraphe 53.16 (3);
+
 n) prescrire les critères ou exigences auxquels doit satisfaire le processus d’acquisition, le contrat ou l’arrangement pour l’application du paragraphe 53.16 (4);
+
 o) et p) Abrogés : 2010, chap. 8, par. 37 (10).
+
 q) autoriser une activité en tant qu’activité de mesure discrétionnaire pour l’application de l’article 53.18;
+
 r) prescrire les mesures que doit prendre l’Entité responsable des compteurs intelligents pour faciliter l’atteinte des objectifs associés à l’initiative des compteurs intelligents;
+
 s) déterminer les objectifs ou critères précis qui s’appliquent aux technologies de mesure et de télécommunication de l’Entité responsable des compteurs intelligents;
+
 t) approuver, pour une catégorie de consommateurs, les compteurs ou une catégorie de compteurs, le matériel, les systèmes et les technologies de mesure et le matériel, les systèmes et les technologies connexes que doit installer un distributeur ou une autre personne titulaire d’un permis délivré à cet effet par la Commission, y compris approuver ou fixer les coûts maximaux de ce matériel et de ces compteurs, systèmes et technologies, et préciser les critères auxquels ils doivent répondre.
 
 ### Portée
@@ -3107,19 +3739,29 @@ t) approuver, pour une catégorie de consommateurs, les compteurs ou une catégo
 ### Objets et nature
 
 55 (1) Les objets de la Société financière sont entre autres les suivants :
+
 a) gérer sa dette;
+
 b) recevoir les sommes qui lui sont versées aux termes de la présente loi ou conformément à toute autre autorisation;
+
 c) administrer ses éléments d’actif, ses éléments de passif, ses droits et ses obligations et prendre toute mesure à leur égard, notamment en disposer, selon ce qu’elle estime approprié ou selon les directives que donne le ministre des Finances en vertu de l’article 74;
+
 d) exercer les pouvoirs et fonctions qu’attribue la partie VII;
+
 e) effectuer un financement, y compris constituer à cette fin des fiducies, des personnes morales, des sociétés en nom collectif ou en commandite ou d’autres entités;
+
 f) poursuivre les autres objets que précise le lieutenant-gouverneur en conseil.
 
 ### Gestion de la dette
 
 (2) Pour l’application du présent article, la gestion de la dette de la Société financière comprend ce qui suit :
+
 a) le service de la dette et sa liquidation;
+
 b) l’endettement, y compris le refinancement, le renouvellement ou le remplacement de dettes;
+
 c) le placement de sommes;
+
 d) la gestion des éléments d’actif, éléments de passif et risques financiers.
 
 ### Capacité
@@ -3129,6 +3771,7 @@ d) la gestion des éléments d’actif, éléments de passif et risques financie
 ### Mandataire de la Couronne
 
 56 La Société financière est un mandataire de la Couronne à toutes fins.
+
 57 Abrogé. Voir : Table des dispositions de lois d’intérêt public abrogées aux termes de l’article 10.1 de la Loi de 2006 sur la législation – 31 décembre 2011.
 
 ### Conseil d’administration
@@ -3206,6 +3849,7 @@ d) la gestion des éléments d’actif, éléments de passif et risques financie
 ### Fermeture du compte
 
 (4) Avant l’abrogation de la présente partie aux termes de l’article 84.1, le compte spécial est fermé et son solde éventuel est versé à la Société financière.
+
 64 Abrogé : 2002, chap. 1, annexe A, art. 14.
 
 ### Restriction : emprunts
@@ -3227,7 +3871,9 @@ d) la gestion des éléments d’actif, éléments de passif et risques financie
 ### Valeurs mobilières à court terme
 
 (4) Si le décret que prend le lieutenant-gouverneur en conseil en vertu du paragraphe (1) mentionne expressément le présent paragraphe et autorise la Société financière à emprunter une somme maximale de capital par l’émission et la vente de valeurs mobilières à court terme pendant une période précisée d’au plus 25 ans, les conditions suivantes s’appliquent :
+
 1. Pendant toute la période en question, la Société financière peut émettre des valeurs mobilières en vertu du décret et réémettre, renouveler ou remplacer les valeurs émises en vertu du décret pendant la période si le capital total maximal des valeurs émises en vertu du décret et encore en circulation ne dépasse à aucun moment le capital maximal que précise le décret.
+
 2. Chaque valeur mobilière émise en vertu du décret porte une date d’échéance qui tombe au plus cinq ans après sa date d’émission.
 
 ### Emprunts
@@ -3241,7 +3887,9 @@ d) la gestion des éléments d’actif, éléments de passif et risques financie
 ### Achat de valeurs mobilières par la province
 
 67 (1) Le lieutenant-gouverneur en conseil peut, par décret, autoriser le ministre des Finances à acheter des valeurs mobilières de la Société financière ou à lui consentir des prêts aux moments et aux conditions que fixe le ministre, sous réserve de ce qui suit :
+
 a) le capital maximal, selon ce que précise le lieutenant-gouverneur en conseil, qui peut être acheté ou prêté ou qui peut être impayé à un moment donné;
+
 b) les autres conditions que précise le lieutenant-gouverneur en conseil.
 
 ### Prélèvement sur le Trésor
@@ -3255,7 +3903,9 @@ b) les autres conditions que précise le lieutenant-gouverneur en conseil.
 ### Garantie ou remboursement
 
 69 (1) Le lieutenant-gouverneur en conseil peut, par décret, autoriser le ministre des Finances à accepter, au nom de l’Ontario, de garantir ou de rembourser :
+
 a) soit les dettes, obligations, valeurs mobilières ou engagements de la Société financière ou de ses filiales;
+
 b) soit les dettes, obligations, charges ou engagements d’une autre personne qui découlent d’une garantie ou d’un remboursement consenti aux termes de l’alinéa a).
 
 ### Conditions
@@ -3269,8 +3919,11 @@ b) soit les dettes, obligations, charges ou engagements d’une autre personne q
 ### Frais payables au ministre des Finances
 
 71 (1) La Société financière verse au ministre des Finances les frais que prescrivent les règlements à l’égard de ce qui suit :
+
 a) les valeurs mobilières achetées et les sommes prêtées aux termes de l’article 67;
+
 b) les sommes avancées ou les valeurs mobilières achetées aux termes de l’article 68;
+
 c) les garanties et remboursements consentis aux termes de l’article 69.
 
 ### Application
@@ -3324,6 +3977,7 @@ c) les garanties et remboursements consentis aux termes de l’article 69.
 ### Employés
 
 76 (1) Sans restreindre le pouvoir qu’a la Société financière d’engager des employés, les employés nécessaires au bon fonctionnement de la Société peuvent être nommés aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario.
+
 (2) Abrogé : 2006, chap. 35, annexe C, par. 31 (1).
 
 ### Accords de prestation de services
@@ -3353,6 +4007,7 @@ c) les garanties et remboursements consentis aux termes de l’article 69.
 ### Définition
 
 (6) La définition qui suit s’applique au présent article.
+
 «employé» S’entend en outre d’un employé qui est employé aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario.
 
 ### Renonciation
@@ -3382,7 +4037,9 @@ c) les garanties et remboursements consentis aux termes de l’article 69.
 ### Idem
 
 (2) La Société financière se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -3460,6 +4117,7 @@ b) le moment où il faut le mettre à la disposition du public et la manière de
 ### Exceptions
 
 (14) Sont exclus des évaluations effectuées aux termes du paragraphe (8) les machines, qu’elles soient fixes ou non, la fondation sur laquelle elles reposent, les ouvrages et les constructions autres que les bâtiments et les constructions visés au paragraphe (2) ou (3), les infrastructures, les superstructures, les rails, les traverses, les poteaux, les pylônes, les lignes, les choses qui sont exclues de l’exonération d’impôt par la disposition 17 de l’article 3 de la Loi sur l’évaluation foncière, les autres biens, ouvrages ou aménagements non visés au paragraphe (2) ou (3), ainsi qu’une servitude, un droit d’usage ou d’occupation ou un autre intérêt sur un bien-fonds qui n’appartient pas à la Société financière.
+
 (15) A brogé : 2001, chap. 8, par 205 (2).
 
 ### Abrogation : partie V
@@ -3485,15 +4143,25 @@ b) le moment où il faut le mettre à la disposition du public et la manière de
 ### Redevances en vue de liquider la dette
 
 85 (1) Les définitions qui suivent s’appliquent à la présente partie.
+
 «inspecteur» Personne nommée inspecteur en vertu du paragraphe 85.28 (1). («inspector»)
+
 «percepteur» Personne nommée percepteur aux termes du paragraphe 85.3 (1). («collector»)
+
 «personne» S’entend en outre de la Couronne du chef de l’Ontario, d’une société en nom collectif ou en commandite, d’une municipalité, d’un conseil local au sens de la Loi sur les affaires municipales, d’un village partiellement autonome ou d’un conseil, d’une commission ou d’un office constitué aux termes d’une loi de l’Assemblée. («person»)
+
 «redevance de liquidation de la dette» Relativement à un usager, s’entend de la redevance de liquidation de la dette qu’il est tenu de payer aux termes du paragraphe 85 (4). («debt retirement charge»)
+
 «usager» S’entend des personnes suivantes :
+
 a) la personne qui achète ou acquiert de l’électricité pour sa propre consommation ou pour celle d’une autre personne à ses frais;
+
 b) la personne qui achète ou acquiert de l’électricité pour le compte ou à titre de mandataire d’un mandant qui souhaite en acquérir pour sa consommation ou pour celle d’autres personnes à ses frais;
+
 c) un usager autoproducteur. («user»)
+
 «usager autoproducteur» Personne qui produit de l’électricité pour sa propre consommation ou pour celle d’une autre personne à ses frais. («self-generating user») 1998, chap. 15, annexe A, par. 85 (1)
+
 (2) et (3) Abrogés : 2015, chap. 38, annexe 3, par. 1 (3).
 
 ### Obligation de payer une redevance de liquidation de la dette
@@ -3515,6 +4183,7 @@ c) un usager autoproducteur. («user»)
 ### Idem : exonérations prévues par d’autres lois
 
 (5.2) Quiconque est assujetti par ailleurs à la redevance de liquidation de la dette n’en est exonéré, en raison d’une exonération qui lui est accordée ou est accordée à l’égard de ses biens meubles ou immeubles sous le régime d’une autre loi, que si celle-ci mentionne expressément la présente loi.
+
 (6) à (8) Abrogés : 2015, chap. 38, annexe 3, par. 1 (5).
 
 ### Obligation de compter la consommation
@@ -3538,9 +4207,13 @@ c) un usager autoproducteur. («user»)
 ### Obligations des percepteurs
 
 (3) Les percepteurs font ce qui suit :
+
 1. Ils perçoivent la redevance de liquidation de la dette conformément aux règlements.
+
 2. Ils remettent, conformément aux règlements, la redevance de liquidation de la dette qu’ils sont tenus de percevoir et de payer.
+
 3. Ils tiennent les dossiers prescrits conformément aux exigences prescrites.
+
 4. Ils présentent des déclarations au ministre des Finances conformément aux exigences prescrites.
 
 ### Statut
@@ -3554,8 +4227,11 @@ c) un usager autoproducteur. («user»)
 ### Obligations
 
 (2) Les usagers autoproducteurs font ce qui suit :
+
 1. Ils remettent, conformément aux règlements, la redevance de liquidation de la dette qu’ils sont tenus de payer.
+
 2. Ils tiennent les dossiers prescrits conformément aux exigences prescrites.
+
 3. Ils présentent des déclarations au ministre des Finances conformément aux exigences prescrites.
 
 ### Cotisation et nouvelle cotisation à l’égard des sommes dues
@@ -3563,7 +4239,9 @@ c) un usager autoproducteur. («user»)
 ### Cotisation : percepteur
 
 85.5 (1) Quand il l’estime raisonnable, le ministre des Finances peut établir une cotisation ou une nouvelle cotisation à l’égard de la redevance de liquidation de la dette qu’a perçue un percepteur et dont il n’a pas rendu compte si, selon le cas :
+
 a) le percepteur omet de présenter une déclaration ou de faire une remise comme l’exige la présente partie;
+
 b) les déclarations du percepteur ne correspondent pas à ses dossiers.
 
 ### Cotisation suite à l’inspection
@@ -3589,7 +4267,9 @@ b) les déclarations du percepteur ne correspondent pas à ses dossiers.
 ### Idem : inobservation volontaire
 
 (3) S’il établit une cotisation ou une nouvelle cotisation en vertu du paragraphe 85.5 (1) ou (2) et qu’il est convaincu que l’inobservation dont découle la cotisation ou la nouvelle cotisation est attribuable à une négligence, à un manque d’attention, à une omission volontaire ou à une fraude, le ministre des Finances peut imposer par cotisation au percepteur une pénalité égale au plus élevé des montants suivants :
+
 a) 100 $;
+
 b) 25 pour cent de la cotisation ou de la nouvelle cotisation établie en vertu du paragraphe 85.5 (1) ou (2), selon le cas.
 
 ### Idem : non-perception
@@ -3611,7 +4291,9 @@ b) 25 pour cent de la cotisation ou de la nouvelle cotisation établie en vertu 
 ### Pénalité administrative : non-perception volontaire
 
 (8) Si un percepteur ne perçoit pas une redevance de liquidation de la dette qu’il est tenu de percevoir aux termes de la présente partie et que le ministre des Finances est convaincu que l’omission est attribuable à une négligence, à un manque d’attention, à une omission volontaire ou à une fraude, le ministre des Finances peut lui imposer par cotisation une pénalité égale :
+
 a) à 25 $ ou, si cette somme est plus élevée, à 25 pour cent de la somme qu’il aurait dû percevoir, si une pénalité lui a été imposée en raison de cette omission en vertu du paragraphe (4);
+
 b) à 25 $ ou, si cette somme est plus élevée, à 125 pour cent de la somme qu’il aurait dû percevoir, si aucune pénalité ne lui a été imposée en raison de cette omission en vertu du paragraphe (4).
 
 ### Cotisations : usagers
@@ -3621,7 +4303,9 @@ b) à 25 $ ou, si cette somme est plus élevée, à 125 pour cent de la somme qu
 ### Délai
 
 (2) La cotisation ou la nouvelle cotisation visée au paragraphe (1) doit être établie :
+
 a) dans les quatre ans de la date où la redevance de liquidation de la dette est devenue payable, dans le cas d’un usager qui n’est pas un usager autoproducteur;
+
 b) dans les quatre ans de la fin de l’année civile au cours de laquelle la redevance de liquidation de la dette est devenue payable, dans le cas d’un usager autoproducteur.
 
 ### Exception : présentation inexacte des faits
@@ -3639,7 +4323,9 @@ b) dans les quatre ans de la fin de l’année civile au cours de laquelle la re
 ### Pénalités administratives : usagers
 
 85.8 S’il établit une cotisation ou une nouvelle cotisation en vertu de l’article 85.7 et qu’il est convaincu que l’inobservation dont découle la cotisation ou la nouvelle cotisation est attribuable à une négligence, à un manque d’attention, à une omission volontaire ou à une fraude, le ministre des Finances peut imposer par cotisation à l’usager une pénalité égale au plus élevé des montants suivants :
+
 a) 100 $;
+
 b) 25 pour cent de la cotisation ou de la nouvelle cotisation établie en vertu de l’article 85.7.
 
 ### Pénalité administrative : usager autoproducteur
@@ -3681,13 +4367,21 @@ b) 25 pour cent de la cotisation ou de la nouvelle cotisation établie en vertu 
 ### Calcul de la créance
 
 (4) Pour l’application du paragraphe (1), la somme qu’une personne doit à la Société financière à une date donnée correspond à l’excédent de «A» sur «B», où :
+
 «A» représente le total des sommes suivantes :
+
 a) la redevance de liquidation de la dette que la personne doit percevoir à titre de percepteur ou payer à titre d’usager aux termes de la présente partie avant cette date,
+
 b) les sommes ou les pénalités, ou les deux, à l’égard desquelles la personne fait l’objet d’une cotisation établie en vertu de la présente partie avant cette date,
+
 c) tous les intérêts visés par une cotisation établie en vertu du présent article et payables par la personne en application du présent article à l’égard d’une période antérieure à cette date;
+
 «B» représente le total des sommes suivantes :
+
 a) la redevance de liquidation de la dette que la personne a remise ou payée aux termes de la présente partie avant cette date,
+
 b) les sommes ou les pénalités, ou les deux, à l’égard desquelles une cotisation est établie en vertu de la présente partie et que la personne a payées avant cette date,
+
 c) tous les intérêts portés au crédit de la personne à l’égard d’une période antérieure à cette date.
 
 ### Avis de cotisation
@@ -3777,8 +4471,11 @@ c) tous les intérêts portés au crédit de la personne à l’égard d’une p
 ### Oppositions et appels
 
 85.17 (1) Les personnes suivantes peuvent présenter une opposition ou interjeter appel à l’égard d’une cotisation ou d’une nouvelle cotisation établie, d’une déclaration de refus donnée ou d’une pénalité imposée dans le cadre de la présente partie :
+
 1. Les percepteurs.
+
 2. Les usagers.
+
 3. Les particuliers à l’égard desquels une cotisation est établie en vertu de l’article 85.10.
 
 ### Idem
@@ -3790,8 +4487,11 @@ c) tous les intérêts portés au crédit de la personne à l’égard d’une p
 ### Fiducie
 
 85.18 (1) Toute somme perçue ou percevable par le percepteur au titre de la redevance de liquidation de la dette est réputée, malgré toute sûreté la grevant :
+
 a) détenue en fiducie pour la Société financière;
+
 b) détenue séparée des biens du percepteur;
+
 c) détenue séparée des biens que détient un créancier garanti et qui, en l’absence d’une sûreté, seraient ceux du percepteur.
 
 ### Idem
@@ -3807,15 +4507,21 @@ c) détenue séparée des biens que détient un créancier garanti et qui, en l�
 ### Infractions
 
 85.20 (1) Quiconque contrevient à l’une ou l’autre des dispositions suivantes ou ne l’observe pas est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende minimale de 100 $ pour chaque jour où l’infraction se poursuit :
+
 1. L’article 85.1 (obligation de compter la consommation).
+
 2. Le paragraphe 85.3 (2) (inscription des percepteurs) ou la disposition 4 du paragraphe 85.3 (3) (obligation de présenter des déclarations : percepteurs).
+
 3. Le paragraphe 85.4 (1) (inscription des usagers autoproducteurs) ou la disposition 3 du paragraphe 85.4 (2) (obligation de présenter des déclarations : usagers autoproducteurs).
+
 4. Le paragraphe 85.28 (3) (interdiction relative à l’inspection).
 
 ### Idem : non-perception
 
 (2) Le percepteur qui est tenu par la disposition 1 du paragraphe 85.3 (3) de percevoir une redevance de liquidation de la dette et qui ne le fait pas est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende égale au total des sommes suivantes :
+
 a) la redevance de liquidation de la dette, déterminée aux termes du paragraphe (3), qui aurait dû être perçue;
+
 b) une somme d’au moins 50 $ et d’au plus 2 000 $. 2000, chap. 42, art. 27.
 
 ### Détermination de la redevance
@@ -3833,9 +4539,13 @@ b) une somme d’au moins 50 $ et d’au plus 2 000 $. 2000, chap. 42, art. 27.
 ### Infraction : non-remise
 
 (6) Le percepteur qui ne remet pas une somme perçue au titre d’une redevance de liquidation de la dette comme l’exige la disposition 2 du paragraphe 85.3 (3) est coupable d’une infraction et passible, sur déclaration de culpabilité, des peines suivantes, ou d’une seule de ces peines, outre les pénalités imposées en vertu de la présente partie :
+
 1. Une amende qui :
+
 i. n’est pas inférieure à 100 $ ou, si cette somme est plus élevée, à 25 pour cent de la somme perçue et non remise,
+
 ii. n’est pas supérieure à 100 $ ou, si cette somme est plus élevée, au double de la somme perçue et non remise.
+
 2. Un emprisonnement maximal de deux ans.
 
 ### Infraction : dossiers
@@ -3861,25 +4571,37 @@ ii. n’est pas supérieure à 100 $ ou, si cette somme est plus élevée, au do
 ### Infractions : déclarations fausses et fraude
 
 85.23 (1) Est coupable d’une infraction toute personne qui commet l’une des omissions ou l’un des actes suivants :
+
 1. Faire une déclaration fausse ou trompeuse dans un document, notamment une déclaration ou un état, ou dans une réponse exigés ou présentés aux termes de la présente partie, y participer, y consentir ou y acquiescer.
+
 2. Détruire, altérer, mutiler, cacher les renseignements ou les dossiers d’un usager ou d’un percepteur, ou en disposer autrement, dans le but d’éluder le paiement d’une somme en application de la présente partie.
+
 3. Faire, dans un dossier d’un usager ou d’un percepteur, une inscription fausse ou trompeuse concernant un détail substantiel, y consentir ou y acquiescer.
+
 4. Omettre de faire, dans un dossier d’un usager ou d’un percepteur, une inscription concernant un détail substantiel, y consentir ou y acquiescer.
+
 5. Afin d’éluder un paiement prévu par la présente partie, faire en sorte, notamment en le détruisant ou en l’altérant, qu’un compteur mesure incorrectement la consommation d’électricité ou cesse de la mesurer, ou remplacer un compteur par un autre dans le but d’induire en erreur.
+
 6. Délibérément et par quelque moyen que ce soit, éluder ou tenter d’éluder le paiement d’une somme en application de la présente partie ou se soustraire ou tenter de se soustraire au respect d’une obligation prévue par celle-ci.
 
 ### Peine suivant une déclaration de culpabilité
 
 (2) Toute personne déclarée coupable d’une infraction prévue au paragraphe (1) est passible des peines suivantes, ou d’une seule de ces peines, outre les autres pénalités imposées en vertu de la présente partie :
+
 1. Une amende qui :
+
 i. n’est pas inférieure à 1 000 $ ou, si cette somme est plus élevée, à 50 pour cent de la somme qui aurait dû être remise ou dont elle a tenté d’éluder le paiement,
+
 ii. n’est pas supérieure à 1 000 $ ou, si cette somme est plus élevée, au double de la somme qui aurait dû être remise ou dont elle a tenté d’éluder le paiement.
+
 2. Un emprisonnement maximal de deux ans.
 
 ### Infraction : remboursement ou remise obtenu par fraude
 
 (3) Toute personne qui obtient ou tente d’obtenir, par un moyen trompeur ou mensonger ou une autre manoeuvre frauduleuse, un remboursement ou une remise prévu par la présente partie alors qu’elle n’y a pas droit est coupable d’une infraction et passible, sur déclaration de culpabilité, des peines suivantes ou d’une seule de ces peines :
+
 1. Une amende d’au moins 500 $ et d’au plus le double du remboursement ou de la remise demandé.
+
 2. Un emprisonnement maximal de deux ans.
 
 ### Infraction générale
@@ -3919,26 +4641,35 @@ ii. n’est pas supérieure à 1 000 $ ou, si cette somme est plus élevée, au 
 ### Renseignements confidentiels
 
 85.29 (1) Sauf si elle y est autorisée par le présent article, une personne employée par le gouvernement de l’Ontario ne doit :
+
 a) ni sciemment communiquer ou sciemment permettre la communication à quiconque des renseignements obtenus par le ministre des Finances ou pour son compte pour l’application de la présente partie;
+
 b) ni sciemment permettre à quiconque d’examiner des dossiers ou des objets obtenus par le ministre des Finances ou pour son compte pour l’application de la présente partie, ou d’y avoir accès.
 
 ### Témoignage
 
 (2) Une personne employée par le gouvernement de l’Ontario ne peut être tenue, dans le cadre d’une instance judiciaire :
+
 a) ni de témoigner au sujet de renseignements obtenus par le ministre des Finances ou pour son compte pour l’application de la présente partie;
+
 b) ni de produire des dossiers ou des objets obtenus par le ministre des Finances ou pour son compte pour l’application de la présente partie.
 
 ### Exceptions
 
 (3) Les paragraphes (1) et (2) ne s’appliquent pas à l’égard des instances suivantes :
+
 a) les poursuites criminelles introduites aux termes d’une loi du Parlement du Canada;
+
 b) les instances rattachées au procès d’une personne pour infraction à une loi de la Législature;
+
 c) les instances rattachées à la perception de la redevance de liquidation de la dette prévue par la présente partie.
 
 ### Communication
 
 (4) Une personne employée par le gouvernement de l’Ontario peut, dans l’exercice de ses fonctions relatives à l’application ou à l’exécution de la présente partie :
+
 a) communiquer ou permettre la communication, à une autre personne employée par le gouvernement de l’Ontario qui est affectée à l’application ou à l’exécution d’une loi, des renseignements obtenus par le ministre des Finances ou pour son compte pour l’application de la présente partie;
+
 b) permettre à une autre personne employée par le gouvernement de l’Ontario qui est affectée à l’application ou à l’exécution d’une loi d’examiner des dossiers ou des objets obtenus par le ministre des Finances ou pour son compte pour l’application de la présente partie, ou d’y avoir accès.
 
 ### Réciprocité
@@ -4004,7 +4735,9 @@ b) permettre à une autre personne employée par le gouvernement de l’Ontario 
 ### Affidavits
 
 85.34 (1) Toute personne qui est habilitée à faire prêter serment ou qui est autorisée par le lieutenant-gouverneur en conseil pour l’application du présent article peut recevoir sous serment les documents suivants :
+
 1. Les déclarations solennelles ou les affidavits portant sur les déclarations présentées aux termes de la présente partie.
+
 2. Les énoncés de renseignements présentés aux termes de l’article 85.28 (inspection).
 
 ### Idem
@@ -4018,33 +4751,57 @@ b) permettre à une autre personne employée par le gouvernement de l’Ontario 
 ### Règlements : parties V et V.1
 
 86 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) traiter du calcul des frais visés au paragraphe 71 (1), de la façon dont ils doivent être payés et du moment auquel ils doivent l’être;
+
 b) prescrire les dispositions de la Loi sur les sociétés par actions, de la Loi de 2010 sur les organisations sans but lucratif ou de la Loi sur les renseignements exigés des personnes morales qui s’appliquent à la Société financière avec les adaptations nécessaires;
+
 c) et d) Abrogés : 2015, chap. 38, annexe 3, art. 2.
+
 e) prescrire un ou plusieurs taux pour l’application des paragraphes 85 (4) et (4.1), y compris les taux applicables à des usagers donnés, des catégories données d’usagers ou des utilisations données de l’électricité, prescrire la quantité d’électricité à l’égard de laquelle un taux est appliqué et prescrire une ou plusieurs méthodes de calcul de la quantité d’électricité consommée;
+
 f) exonérer des usagers donnés ou des catégories données d’usagers d’une redevance de liquidation de la dette, préciser les circonstances dans lesquelles l’exonération s’applique et assortir l’exonération de conditions ou de restrictions;
+
 g) prévoir la remise complète ou partielle de la redevance de liquidation de la dette et prescrire les circonstances dans lesquelles elle peut être accordée, les conditions auxquelles elle peut l’être et son mode de calcul;
+
 h) traiter des autres questions que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables en ce qui concerne la présente partie.
+
 i) à l) Abrogés : 2000, chap. 42, par. 28 (1).
 
 ### Règlements : ministre des Finances
 
 (1.1) Le ministre des Finances peut, par règlement :
+
 a) déterminer ou calculer tout ce que la présente partie lui permet ou l’oblige de déterminer ou de calculer;
+
 b) définir, pour l’application de la présente partie, tout terme utilisé dans celle-ci;
+
 c) exempter des usagers donnés ou des catégories données d’usagers d’une ou de plusieurs obligations prévues par la présente partie, à l’exclusion de l’obligation de payer une redevance de liquidation de la dette, préciser les circonstances dans lesquelles l’exemption s’applique et assortir l’exemption de conditions ou de restrictions;
+
 d) prescrire le ou les moments auxquels un usager donné ou une catégorie donnée d’usagers doit payer une redevance de liquidation de la dette;
+
 e) prescrire, pour l’application de l’article 85.1, les usagers ou les catégories d’usagers qui sont tenus de compter leur consommation d’électricité et prescrire les méthodes, les modalités et les exigences à respecter à cet égard;
+
 f) régir la nomination, l’inscription et les obligations des percepteurs;
+
 g) régir l’inscription et les obligations des usagers autoproducteurs;
+
 h) prescrire des méthodes de perception et de remise d’une redevance de liquidation de la dette et établir des exigences relatives à sa perception et à sa remise, y compris des exigences concernant la facturation;
+
 i) exiger que la redevance de liquidation de la dette soit payée ou remise par versements échelonnés, préciser le moment où ces versements échelonnés doivent être faits et exiger le paiement d’intérêts ou de pénalités administratives, ou les deux, pour paiement en retard;
+
 j) prescrire les frais additionnels visés au paragraphe 85.14 (4);
+
 k) régir les remboursements que doivent effectuer les percepteurs;
+
 l) prescrire les modalités que les percepteurs et les usagers doivent suivre relativement aux remboursements et aux remises prévus par la présente partie;
+
 m) prescrire le délai de présentation d’une demande de remboursement pour l’application du paragraphe 85.15 (4);
+
 n) régir les paiements faits à un percepteur dans les cas où il paie une redevance de liquidation de la dette pour le compte d’un usager et que ce dernier ne la lui paie pas par la suite;
+
 o) prescrire un taux d’intérêt ou une méthode permettant de fixer un taux d’intérêt à l’égard des créances de la Société financière visées par la présente partie et à l’égard des sommes dues à une personne à titre de remboursement ou de remise prévu par celle-ci;
+
 p) prescrire les dossiers qu’un percepteur ou un usager autoproducteur doit tenir pour l’application de la présente partie.
 
 ### Portée
@@ -4058,8 +4815,11 @@ p) prescrire les dossiers qu’un percepteur ou un usager autoproducteur doit te
 ### Abrogation
 
 87 (1) La présente partie est abrogée le jour que le lieutenant-gouverneur fixe par proclamation.
+
 (2) Abrogé : 2000, chap. 42, art. 29.
+
 (3) Abrogé : 2000, chap. 42, art. 29.
+
 (4) Abrogé : 2000, chap. 42, art. 29.
 
 ## PARTIE VI PAIEMENTS SPÉCIAUX
@@ -4067,19 +4827,33 @@ p) prescrire les dossiers qu’un percepteur ou un usager autoproducteur doit te
 ### Définitions : partie VI
 
 88 Les définitions qui suivent s’appliquent à la présente partie.
+
 «année d’imposition» S’entend au sens de la Loi de l’impôt sur le revenu (Canada). («taxation year»)
+
 «service municipal d’électricité» S’entend, selon le cas :
+
 a) d’une municipalité qui produit, transporte, distribue ou vend au détail de l’électricité directement;
+
 b) d’une commission créée aux termes de la Loi sur les services publics ou d’une autre loi générale ou spéciale par l’intermédiaire de laquelle une municipalité produit, transporte, distribue ou vend au détail de l’électricité;
+
 c) d’un autre organisme, quel qu’en soit le mode de création, par l’intermédiaire duquel une municipalité produit, transporte, distribue ou vend au détail de l’électricité;
+
 d) d’une personne morale constituée conformément à l’article 142 ou d’une filiale d’une telle personne morale, si une municipalité détient un intérêt direct ou indirect sur une ou plusieurs actions de cette personne morale ou filiale;
+
 d.1) d’une personne morale constituée après le 1 er mai 2003 en vertu des articles 9, 10 et 11 de la Loi de 2001 sur les municipalités conformément à l’article 203 de cette loi ou constituée en vertu des articles 7 et 8 de la Loi de 2006 sur la cité de Toronto conformément aux articles 148 et 154 de cette loi, ou de dispositions que remplacent ces articles de l’une ou l’autre loi, en vue de prendre toute mesure à l’égard des actions d’une personne morale constituée par une municipalité en vertu de l’article 142 de la présente loi, notamment les acquérir, les détenir et en disposer, directement ou indirectement;
+
 d.2) de toute personne morale ou autre entité par l’intermédiaire de laquelle, conformément au paragraphe 144 (2), une municipalité, une commission de services municipaux, une commission municipale ou une société de services municipaux produit de l’électricité;
+
 e) d’un village partiellement autonome qui produit, transporte, distribue ou vend au détail de l’électricité directement ou indirectement ou d’une personne morale ou autre entité qui est la propriété des membres d’un village partiellement autonome aux fins de la production, du transport, de la distribution ou de la vente au détail d’électricité;
+
 e.1) de toute personne morale ou autre entité qui est exonérée en vertu de l’alinéa 149 (1) c), d), d.1), d.2), d.3), d.4), d.5) ou d.6) de la Loi de l’impôt sur le revenu (Canada) du paiement de l’impôt prévu par cette loi, et qui produit, transporte, distribue ou vend au détail de l’électricité en Ontario, à l’exclusion :
+
 (i) d’une bande au sens de la Loi sur les Indiens (Canada),
+
 (ii) d’une personne morale ou autre entité qui est exonérée en vertu de l’alinéa 149 (1) d.5) de la Loi de l’impôt sur le revenu (Canada) du paiement de l’impôt prévu par cette loi parce qu’au moins 90 % de son capital appartient à une bande au sens de la Loi sur les Indiens (Canada),
+
 (iii) d’une personne morale qui est exonérée en vertu de l’alinéa 149 (1) d.6) de la Loi de l’impôt sur le revenu (Canada) du paiement de l’impôt prévu par cette loi parce que la totalité de ses actions ou de son capital appartient à une personne morale ou à une entité visée au sous-alinéa (ii).
+
 f) d’une personne ou entité que prescrivent les règlements. («municipal electricity utility») 1998, chap. 15, annexe A, art. 88
 
 ### Paiements tenant lieu d’impôt fédéral sur les sociétés
@@ -4133,22 +4907,31 @@ f) d’une personne ou entité que prescrivent les règlements. («municipal ele
 ### Imputation de l’impôt fédéral
 
 91.1 (1) Le présent article s’applique à l’une ou l’autre des personnes morales suivantes si elle cesse à un moment quelconque d’être exonérée, en application du paragraphe 149 (1) de la Loi de l’impôt sur le revenu (Canada), du paiement d’un impôt prévu par cette loi :
+
 1. Hydro One Inc.
+
 2. Une filiale de Hydro One Inc.
+
 3. Un service municipal d’électricité.
+
 4. Un successeur de l’une ou l’autre de ces personnes morales.
 
 ### Paiement
 
 (2) La Couronne du chef de l’Ontario paie à la Société financière, par prélèvement sur le Trésor, le montant éventuel qui remplit les deux conditions suivantes :
+
 1. La personne morale est tenue de payer le montant en application de la Loi de l’impôt sur le revenu (Canada) une fois qu’elle cesse d’être exonérée en application du paragraphe 149 (1) de cette loi.
+
 2. La Couronne du chef de l’Ontario reçoit le montant de la Couronne du chef du Canada, ou celle-ci le porte à son crédit, au titre de l’obligation visée à la disposition 1.
 
 ### Idem : par la personne morale
 
 (3) La personne morale précisée paie à la Société financière le montant éventuel qui remplit toutes les conditions suivantes :
+
 1. La personne morale est tenue de payer le montant en application de la Loi de l’impôt sur le revenu (Canada) une fois qu’elle cesse d’être exonérée en application du paragraphe 149 (1) de cette loi.
+
 2. La personne morale reçoit le montant de la Couronne du chef du Canada, ou celle-ci le porte à son crédit, au titre de l’obligation visée à la disposition 1.
+
 3. La Couronne du chef du Canada envisage que la personne morale verse le montant à la Société financière pour le remboursement de la dette de celle-ci.
 
 ### Versement à la Société financière
@@ -4166,7 +4949,9 @@ f) d’une personne ou entité que prescrivent les règlements. («municipal ele
 ### Règlements
 
 (4) Le ministre des Finances peut, par règlement :
+
 a) prescrire des filiales d’Hydro One Inc. pour l’application du paragraphe (2);
+
 b) prescrire des années d’imposition pour l’application du paragraphe (2).
 
 ### Abrogation
@@ -4176,7 +4961,9 @@ b) prescrire des années d’imposition pour l’application du paragraphe (2).
 ### Paiements tenant lieu d’impôts municipaux et scolaires supplémentaires
 
 92 (1) Hydro One Inc., Ontario Power Generation Inc., leurs filiales et les services municipaux d’électricité versent chaque année à la Société financière la différence entre les montants suivants :
+
 a) le montant des impôts qu’ils seraient tenus de payer au cours de l’année aux fins municipales et scolaires si la valeur imposable des biens-fonds qui leur appartiennent et sur lesquels sont situés des bâtiments ou des constructions qui abritent une centrale électrique ou un poste de transformation était calculée à raison de la somme prescrite par les règlements pour chaque mètre carré de surface de plancher intérieur au sol des bâtiments ou des constructions qui abritent effectivement le matériel et les machines de production ou de transformation d’électricité ainsi que l’équipement accessoire;
+
 b) le montant des impôts qu’ils sont effectivement tenus de payer au cours de l’année aux fins municipales et scolaires à l’égard des biens-fonds qui leur appartiennent et sur lesquels sont situés des bâtiments ou des constructions qui abritent une centrale électrique ou un poste de transformation.
 
 ### Propriétaires subséquents
@@ -4190,21 +4977,29 @@ b) le montant des impôts qu’ils sont effectivement tenus de payer au cours de
 ### Paiements après l’abrogation de la partie V
 
 (3) Après l’abrogation de la partie V aux termes de l’article 84.1, les paiements qui doivent être faits à la Société financière aux termes du présent article sont plutôt faits :
+
 a) à une ou à des municipalités, de la façon que précise le ministre des Finances, dans le cas des biens-fonds qui y sont situés;
+
 b) à la Couronne du chef de l’Ontario, dans le cas des biens-fonds situés en territoire non érigé en municipalité.
+
 (4) Abrogé : 2015, chap. 38, annexe 3, par. 5 (2).
+
 (5) Abrogé : 2004, chap. 31, annexe 11, par. 2 (1).
 
 ### Paiements prévus par la Loi sur l’évaluation foncière et la Loi de 2006 sur l’impôt foncier provincial
 
 (6) Les mentions des impôts aux fins municipales et scolaires au paragraphe (1) sont réputées comprendre les paiements prévus par l’article 27 de la Loi sur l’évaluation foncière et l’impôt prévu par la Loi de 2006 sur l’impôt foncier provincial.
+
 (7) Abrogé : 2001, chap. 8, par 205 (4).
+
 (8) Abrogé : 2004, chap. 31, annexe 11, par. 2 (2).
 
 ### Non-application
 
 (9) Le présent article, à l’exclusion du présent paragraphe, ne s’applique pas à ce qui suit :
+
 1. Une centrale hydro-électrique, au sens du paragraphe 92.1 (24), après le 31 décembre 2000.
+
 2. Une tour d’éolienne, au sens que le paragraphe 45.4 (5) du Règlement de l’Ontario 282/98 (Dispositions générales) pris en application de la Loi sur l’évaluation foncière donne à l’expression «wind turbine tower», après le 31 décembre 2004.
 
 ### Impôt et redevance sur les centrales hydro-électriques
@@ -4214,6 +5009,7 @@ b) à la Couronne du chef de l’Ontario, dans le cas des biens-fonds situés en
 ### Versement à la Société financière
 
 (2) Malgré le paragraphe (1), le propriétaire d’une centrale hydro-électrique verse à la Société financière une redevance calculée selon les taux précisés au paragraphe (4) sur le revenu brut tiré de la production annuelle de la centrale si celle-ci appartient à une personne visée au paragraphe 92 (1) ou appartenait, à un moment quelconque après le 31 mars 1999, à une telle personne.
+
 (2.1) Abrogé : 2006, chap. 33, annexe Z.3, par. 9 (3).
 
 ### Redevance payable à l’Ontario
@@ -4223,9 +5019,13 @@ b) à la Couronne du chef de l’Ontario, dans le cas des biens-fonds situés en
 ### Taux
 
 (4) Pour l’application des paragraphes (1) et (2), les taux sont calculés comme suit :
+
 1. 2,5 pour cent du revenu brut tiré des 50 premiers gigawattheures de la production annuelle de la centrale.
+
 2. 4,5 pour cent du revenu brut tiré de la tranche de la production annuelle de la centrale qui dépasse 50 gigawattheures, sans toutefois dépasser 400.
+
 3. 6,0 pour cent du revenu brut tiré de la tranche de la production annuelle de la centrale qui dépasse 400 gigawattheures, sans toutefois dépasser 700.
+
 4. 26,5 pour cent du revenu brut tiré de la production annuelle de la centrale qui dépasse 700 gigawattheures.
 
 ### Redevance supplémentaire
@@ -4239,13 +5039,17 @@ b) à la Couronne du chef de l’Ontario, dans le cas des biens-fonds situés en
 ### Exception
 
 (6) Peut être déduit, lors du calcul du revenu brut visé aux paragraphes (4) et (5), le revenu brut tiré de la production d’électricité à partir de la puissance admissible, telle qu’elle est déterminée selon les règlements, pour la plus longue des périodes suivantes :
+
 a) les 120 premiers mois suivant sa mise en service, telle qu’elle est déterminée selon les règlements;
+
 b) la période suivant sa mise en service initiale que prescrit le ministre des Finances dans les règlements.
+
 (7) Abrogé : 2009, chap. 33, annexe 16, art. 4.
 
 ### Paiement des impôts et des redevances
 
 (8) Les impôts et les redevances payables aux termes du présent article sont payés aux moments et de la façon que prescrivent les règlements.
+
 (9) Abrogé : 2004, chap. 31, annexe 11, par. 3 (3).
 
 ### Demande de renseignements
@@ -4263,26 +5067,35 @@ b) la période suivant sa mise en service initiale que prescrit le ministre des 
 ### Renseignements confidentiels
 
 (12) Sauf si elle y est autorisée par le présent article, une personne employée par le gouvernement de l’Ontario ne doit :
+
 a) ni sciemment communiquer ou sciemment permettre la communication à quiconque des renseignements obtenus par le ministre des Finances ou pour son compte pour l’application du présent article;
+
 b) ni sciemment permettre à quiconque d’examiner des dossiers ou des objets obtenus par le ministre des Finances ou pour son compte pour l’application du présent article, ou d’y avoir accès.
 
 ### Témoignage
 
 (13) Une personne employée par le gouvernement de l’Ontario ne peut être tenue, dans le cadre d’une instance judiciaire :
+
 a) ni de témoigner au sujet de renseignements obtenus par le ministre des Finances ou pour son compte pour l’application du présent article;
+
 b) ni de produire des dossiers ou des objets obtenus par le ministre des Finances ou pour son compte pour l’application du présent article.
 
 ### Exceptions
 
 (14) Les paragraphes (12) et (13) ne s’appliquent pas à l’égard des instances suivantes :
+
 a) les poursuites criminelles introduites aux termes d’une loi du Parlement du Canada;
+
 b) les instances rattachées au procès d’une personne pour infraction à une loi de la Législature;
+
 c) les instances rattachées à la perception des impôts ou des redevances prévus au présent article.
 
 ### Communication
 
 (15) Une personne employée par le gouvernement de l’Ontario peut, dans l’exercice de ses fonctions relatives à l’application ou à l’exécution du présent article :
+
 a) communiquer ou permettre la communication, à une autre personne employée par le gouvernement de l’Ontario qui est affectée à l’application ou à l’exécution d’une loi, des renseignements obtenus par le ministre des Finances ou pour son compte pour l’application du présent article;
+
 b) permettre à une autre personne employée par le gouvernement de l’Ontario qui est affectée à l’application ou à l’exécution d’une loi d’examiner des dossiers ou des objets obtenus par le ministre des Finances ou pour son compte pour l’application du présent article, ou d’y avoir accès.
 
 ### Réciprocité
@@ -4308,15 +5121,25 @@ b) permettre à une autre personne employée par le gouvernement de l’Ontario 
 ### Règlements
 
 (21) Le ministre des Finances peut, par règlement :
+
 a) déterminer l’admissibilité à la déduction prévue au paragraphe (6);
+
 b) prescrire un ou plusieurs modes de calcul du revenu brut pour l’application du présent article;
+
 c) Abrogé : 2004, chap. 31, annexe 11, par. 3 (4).
+
 d) pour l’application des paragraphes (4) et (5), prévoir des taux moindres à appliquer aux centrales hydro-électriques précisées;
+
 e) pour l’application des paragraphes (4) et (5), déterminer la production annuelle découlant de transferts d’énergie ou de transferts d’eau entre une centrale hydro-électrique située en Ontario et une centrale hydro-électrique située en Ontario ou dans une autre autorité législative;
+
 e.1) prescrire une période de plus de 120 mois qui s’applique à une ou à plusieurs centrales hydro-électriques pour l’application du paragraphe (6);
+
 f) exonérer une centrale hydro-électrique de tout ou partie des impôts ou redevances prévus au paragraphe (1), (2) ou (5);
+
 f.1) prescrire des titulaires d’un bail pour l’exploitation de ressources hydro-électriques pour l’application du paragraphe (5.1) et préciser le montant des paiements qui doivent être faits en application de ce paragraphe ainsi que le moment où les paiements doivent être faits et les modalités selon lesquelles ils doivent l’être;
+
 g) définir les termes utilisés dans le présent article mais non définis;
+
 h) prévoir le versement d’une indemnité aux municipalités dans lesquelles se trouve une centrale hydro-électrique à l’égard du manque à gagner qu’entraîne l’édiction de la disposition 28 du paragraphe 3 (1) de la Loi sur l’évaluation foncière.
 
 ### Portée
@@ -4330,8 +5153,11 @@ h) prévoir le versement d’une indemnité aux municipalités dans lesquelles s
 ### Définitions
 
 (24) Les définitions qui suivent s’appliquent au présent article.
+
 «centrale hydro-électrique» S’entend notamment des bâtiments ou constructions dans lesquels de l’électricité est produite au moyen de l’énergie hydraulique ou du mouvement de l’eau. («hydro-electric generating station»)
+
 «propriétaire» S’entend en outre du locataire d’un bien-fonds qui appartient à la Couronne ou à une municipalité et sur lequel se trouve une centrale hydro-électrique ainsi que du locataire d’un bien-fonds qui appartient à une autre personne s’il est la personne qui produit de l’électricité à partir de la centrale. («owner»)
+
 «titulaire d’un bail pour l’exploitation de ressources hydro-électriques» Personne qui est munie d’une entente, d’un bail ou d’un autre document traitant de l’utilisation d’eau visé au paragraphe 42 (2) de la Loi sur les terres publiques, par la Loi sur les parcs du Niagara ou par la loi intitulée The St. Lawrence Development Act, 1952 (No. 2) ou qui est tenue de l’être, pour avoir le droit d’occuper des terres publiques. («holder of a water power lease») 2000, chap. 25, par. 46 (2).
 
 ### Services municipaux d’électricité
@@ -4371,29 +5197,45 @@ h) prévoir le versement d’une indemnité aux municipalités dans lesquelles s
 ### Déductions
 
 (3) Sous réserve du paragraphe (5), la somme que doit verser le service municipal d’électricité aux termes du paragraphe (1) au cours d’une année d’imposition peut être diminuée des sommes suivantes :
+
 1. Toute somme que le service municipal d’électricité doit verser et a versée aux termes de l’article 93 à l’égard de la partie de l’année d’imposition qui précède et comprend la date du transfert ou à l’égard d’une année d’imposition antérieure.
+
 2. Toute somme que le service municipal d’électricité doit verser et a versée aux termes de la partie II, II.1 ou III de la Loi sur l’imposition des sociétés ou de la partie III de la Loi de 2007 sur les impôts à l’égard de la partie de l’année d’imposition qui précède et comprend la date du transfert ou à l’égard d’une année d’imposition antérieure.
+
 3. Toute somme que le service municipal d’électricité serait tenu de verser au titre de l’impôt prévu par la partie I de la Loi de l’impôt sur le revenu (Canada) à l’égard de l’année d’imposition si cet impôt était calculé comme si le service n’avait aucun revenu pendant l’année d’imposition à l’exception du gain en capital réalisé lors du transfert de son intérêt sur le bien.
+
 4. Toute somme que le service municipal d’électricité serait tenu de verser au titre de l’impôt prévu par la partie I de la Loi de l’impôt sur le revenu (Canada) à l’égard de l’année d’imposition si cet impôt était calculé comme si le service n’avait aucun revenu pendant l’année d’imposition à l’exception d’un montant inclus dans le calcul du revenu aux termes de l’alinéa 14 (1) b) de cette loi à l’égard du transfert de son intérêt sur le bien.
 
 ### Déductions : intérêt sur un service municipal d’électricité
 
 (4) Sous réserve du paragraphe (5), une municipalité ou un service municipal d’électricité peut réduire, conformément aux règles suivantes, la somme à verser en application du paragraphe (1) au cours d’une année d’imposition à l’égard de chaque service municipal d’électricité (appelé «service municipal d’électricité concerné») dans lequel ils détiennent un intérêt direct ou indirect immédiatement avant le transfert :
+
 1. Sous réserve de la disposition 2, le montant de la réduction est calculé selon la formule suivante :
+
 A × B/C
+
 où :
+
 «A» représente le total des sommes que le service municipal d’électricité concerné doit verser et a versées, à la fois :
+
 a) aux termes de l’article 93 à l’égard de la partie de l’année d’imposition qui précède et comprend la date du transfert ou à l’égard d’une année d’imposition antérieure,
+
 b) aux termes de la partie II, II.1 ou III de la Loi sur l’imposition des sociétés ou de la partie III de la Loi de 2007 sur les impôts à l’égard de la partie de l’année d’imposition qui précède et comprend la date du transfert ou à l’égard d’une année d’imposition antérieure,
+
 «B» représente la juste valeur marchande de l’intérêt direct ou indirect qu’a la municipalité ou le service municipal d’électricité sur les actions du service municipal d’électricité concerné immédiatement avant le transfert,
+
 «C» représente la juste valeur marchande totale des actions émises et en circulation du service municipal d’électricité concerné immédiatement avant le transfert.
+
 2. Une municipalité peut calculer sa réduction en application de la disposition 1 comme si elle détenait toutes les actions émises et en circulation du service municipal d’électricité concerné si, immédiatement avant le transfert, les conditions suivantes sont réunies :
+
 i. la municipalité et le service municipal d’électricité concerné sont des personnes liées au sens de l’article 251 de la Loi de l’impôt sur le revenu (Canada),
+
 ii. aucune autre municipalité ni aucun autre service municipal d’électricité ne détiennent un intérêt direct ou indirect sur le service municipal d’électricité concerné.
 
 ### Restriction s’appliquant aux réductions
 
 (5) Les sommes visées au paragraphe (3) ou (4) ne peuvent être utilisées, aux termes de ces paragraphes, pour réduire la somme qu’une municipalité ou un service municipal d’électricité doit verser aux termes du paragraphe (1) que dans la mesure où elles n’ont pas déjà été utilisées pour réduire une somme qu’une municipalité ou un service municipal d’électricité doit verser aux termes de ce même paragraphe.
+
 (6) et 6.1) Abrogés : 2017, chap. 8, annexe 8, par. 2 (2).
 
 ### Remboursement
@@ -4407,7 +5249,9 @@ ii. aucune autre municipalité ni aucun autre service municipal d’électricit�
 ### Idem
 
 (8) Le paragraphe (1) ne s’applique pas aux transferts que prescrivent les règlements.
+
 (9) Abrogé : 2005, chap. 31, annexe 6, par. 2 (2).
+
 (9.1) Abrogé : 2005, chap. 31, annexe 6, par. 2 (3).
 
 ### Remise au ministre des Finances
@@ -4417,20 +5261,27 @@ ii. aucune autre municipalité ni aucun autre service municipal d’électricit�
 ### Statut des villages partiellement autonomes
 
 (10.1) Les villages partiellement autonomes sont réputés des municipalités pour l’application du présent article.
+
 (11) Périmé : 1998, chap. 15, annexe A, par. 94 (11).
 
 ### Application de la Loi sur l’imposition des sociétés
 
 95 (1) Sauf prescription contraire des règlements, le ministre des Finances est chargé de l’exécution forcée du paiement des sommes payables aux termes de la présente partie, y compris les sommes payables aux termes des règlements pris en application de celle-ci, et, pour l’application de la présente partie :
+
 a) les parties V et VI de la Loi sur l’imposition des sociétés s’appliquent, avec les adaptations nécessaires et les modifications que prescrivent les règlements, aux sommes payables aux termes de la présente partie après le 6 novembre 1998, à l’exclusion de celles payables aux termes de l’article 92 ou 92.1;
+
 b) les sections C, D, E et F de la partie V et la partie VI de la Loi sur l’imposition des sociétés s’appliquent, avec les adaptations nécessaires et les modifications que prescrivent les règlements, aux sommes payables aux termes de l’article 92 ou 92.1 après le 6 novembre 1998, y compris les pénalités et les intérêts pour paiement en retard;
+
 c) les sommes payables aux termes de la présente partie, à l’exclusion de l’article 94, après le 6 novembre 1998, qui sont impayées après leur échéance, y compris les pénalités et les intérêts pour paiement en retard, peuvent être recouvrées comme s’il s’agissait d’impôts payables aux termes de la Loi sur l’imposition des sociétés.
 
 ### Perception des sommes payables aux termes de l’art. 94
 
 (2) Pour l’application des parties V et VI de la Loi sur l’imposition des sociétés aux fins de l’exécution forcée du paiement de toute somme visée à l’article 94 :
+
 a) la mention d’«une année d’imposition» ou de «l’année d’imposition» vaut mention d’un transfert ou d’un transfert donné, selon le cas;
+
 b) la mention d’une déclaration vaut mention d’un avis donné au ministre pour l’application de l’article 94;
+
 c) la mention d’un avis de cotisation ou de nouvelle cotisation inclut la mention de tout document prescrit par les règlements qui est délivré par le ministre pour l’application de l’article 94.
 
 ### Décret de remise : Société financière
@@ -4440,17 +5291,25 @@ c) la mention d’un avis de cotisation ou de nouvelle cotisation inclut la ment
 ### Étendue de la remise
 
 (2) La remise décrétée en vertu du paragraphe (1) peut être totale ou partielle, conditionnelle ou absolue, et accordée :
+
 a) avant, pendant ou après toute action ou instance en recouvrement de la somme qui fait l’objet de la remise;
+
 b) avant ou après le paiement volontaire ou par voie d’exécution forcée de la somme payable aux termes de la partie V.1 ou VI ou aux termes de l’article 83.1 de la Loi sur l’imposition des sociétés ;
+
 c) dans des cas ou catégories de cas déterminés avant que naisse l’obligation de payer.
 
 ### Forme de la remise
 
 (3) La remise décrétée en vertu du paragraphe (1) peut être accordée sur :
+
 a) abstention de toute action ou instance en recouvrement de la somme qui fait l’objet de la remise;
+
 b) ajournement, suspension ou abandon de l’action ou de l’instance;
+
 c) abstention, suspension ou abandon de toute voie d’exécution forcée;
+
 d) constat judiciaire d’acquittement de l’obligation;
+
 e) remboursement de sommes payées à la Société financière ou recouvrées par elle.
 
 ### Remise conditionnelle
@@ -4464,23 +5323,41 @@ e) remboursement de sommes payées à la Société financière ou recouvrées pa
 ### Règlements : partie VI
 
 96 (1) Le ministre des Finances peut, par règlement :
+
 0.a) prescrire des personnes et des entités pour l’application de l’alinéa f) de la définition de «service municipal d’électricité» à l’article 88;
+
 a) prescrire les modifications à apporter au mode de calcul des paiements exigés par l’article 89, 90 ou 93;
+
 b) prescrire des sommes pour l’application de l’alinéa 92 (1) a);
+
 c) prescrire des pourcentages pour l’application du paragraphe 94 (1) ainsi que les modifications à apporter au mode de calcul du paiement exigé par l’article 94;
+
 d) assimiler une opération ou une série d’opérations, pour l’application de l’article 94, à un transfert à une personne d’un intérêt sur un bien meuble ou immeuble qui a servi à la production, au transport, à la distribution ou à la vente au détail d’électricité;
+
 e) prescrire les transferts auxquels le paragraphe 94 (1) ne s’applique pas, sous réserve des conditions ou restrictions que précisent les règlements;
+
 e.1) prescrire les exigences relatives aux sûretés pour l’application du paragraphe 94 (1);
+
 e.2) régir les remboursements autorisés par le paragraphe 94 (7);
+
 e.3) prescrire des circonstances pour l’application du paragraphe 94 (7.1);
+
 e.4) Abrogé : 2005, chap. 31, annexe 6, art. 3.
+
 f) exiger que les paiements prévus par la présente partie soient effectués par versements échelonnés, prescrire les moments auxquels les paiements ou les versements échelonnés doivent être effectués et exiger des intérêts ou des pénalités en cas de paiement en retard;
+
 f.1) prescrire une ou plusieurs dispositions de la partie V ou VI de la Loi sur l’imposition des sociétés qui ne s’appliquent pas à l’égard d’une somme payable aux termes d’un ou de plusieurs articles de la présente partie que prescrivent les règlements;
+
 f.2) prescrire les modifications à apporter aux dispositions de la partie V ou VI de la Loi sur l’imposition des sociétés qui s’appliquent à l’égard d’une somme payable aux termes d’un ou de plusieurs articles de la présente partie que prescrivent les règlements, notamment :
+
 (i) prescrire la modification du délai de délivrance d’une cotisation ou nouvelle cotisation à l’égard d’une somme payable aux termes de la présente partie après le 6 novembre 1998,
+
 (ii) prescrire la modification du délai de paiement d’un remboursement de paiement en trop à l’égard d’une période postérieure au 6 novembre 1998;
+
 f.3) prescrire des règles régissant l’application d’une ou de plusieurs dispositions de la partie VIII de la Loi de 2007 sur les impôts à l’égard d’une somme payable aux termes d’une ou de plusieurs dispositions de la présente partie que prescrivent les règles;
+
 g) prescrire les modalités à suivre relativement aux paiements exigés par la présente partie;
+
 h) traiter des autres questions que le ministre des Finances estime nécessaires ou souhaitables en ce qui concerne la présente partie.
 
 ### Portée
@@ -4500,11 +5377,17 @@ h) traiter des autres questions que le ministre des Finances estime nécessaires
 ### Dispositions interprétatives : partie VII
 
 97 (1) Les définitions qui suivent s’appliquent à la présente partie.
+
 «ancien participant» La personne qui est un ancien participant à un régime de retraite au sens de la Loi sur les régimes de retraite. S’entend en outre de toute autre personne qui a le droit de recevoir ou qui reçoit une somme prélevée sur la caisse de retraite en raison de ses liens avec l’ancien participant. («former member»)
+
 «date d’effet» Relativement à un régime de retraite subséquent, s’entend de la date prescrite en vertu du paragraphe 102 (6). («commencement date»)
+
 «date du changement» La date prescrite en vertu du paragraphe (3). («changeover date»)
+
 «employeur subséquent» Personne que le paragraphe 102 (1) oblige à établir un régime de retraite. («successor employer»)
+
 «régime de retraite subséquent» Régime de retraite établi conformément à l’article 102 («successor pension plan»)
+
 «RRSF» Le Régime de retraite de la Société financière Ontario Hydro. («FCPP») 1998, chap. 15, annexe A, par. 97 (1).
 
 ### Régimes de retraite
@@ -4534,17 +5417,21 @@ h) traiter des autres questions que le ministre des Finances estime nécessaires
 ### Administrateur
 
 (5) La Société financière est l’administrateur du RRSF. 1998, chap. 15, annexe A, par. 98 (5).
+
 (6) Abrogé : 1998, chap. 15, annexe A, par. 98 (9).
 
 ### Certaines prestations
 
 (7) Le jour de l’entrée en vigueur du présent article, le RRSF cesse de prévoir :
+
 a) d’une part, les prestations d’invalidité qui sont procurées, immédiatement avant l’entrée en vigueur du présent article, aux termes d’un contrat conclu entre la Société financière et un assureur ou une filiale de celui-ci;
+
 b) d’autre part, une protection d’assurance-vie qui est procurée, immédiatement avant l’entrée en vigueur du présent article, aux termes d’un contrat d’assurance conclu entre la Société financière et un assureur ou une filiale de celui-ci.
 
 ### Idem
 
 (8) La somme que détient la Caisse de retraite et d’assurance d’Ontario Hydro immédiatement avant l’entrée en vigueur du présent article et qui servait à procurer les prestations et la protection d’assurance visées au paragraphe (7) est payable à la Société financière en fiducie pour être affectée aux mêmes fins.
+
 (9) P érimé : 1998, chap. 15, annexe A, par. 98 (9).
 
 ### Cotisations patronales au RRSF
@@ -4562,17 +5449,25 @@ b) d’autre part, une protection d’assurance-vie qui est procurée, immédiat
 ### Passif non capitalisé ou déficit de solvabilité
 
 (4) Si un rapport sur le RRSF qui est déposé auprès du directeur général nommé aux termes du paragraphe 10 (2) de la Loi de 2016 sur l’Autorité ontarienne de réglementation des services financiers fait état d’un passif à long terme non capitalisé ou d’un déficit de solvabilité, ou des deux, chaque employeur subséquent verse à la caisse de retraite du RRSF, comme quote-part de chaque paiement spécial total à effectuer chaque mois par suite du rapport, la somme calculée selon la formule suivante par l’actuaire du régime :
+
 (A/B) × C
+
 où :
+
 «A» représente le total des éléments de passif actuariel du RRSF à l’égard des prestations de retraite et des prestations accessoires de ses participants et anciens participants qui deviendront des participants ou anciens participants au régime subséquent établi par l’employeur subséquent;
+
 «B» représente le total des éléments de passif actuariel du RRSF à l’égard des prestations de retraite et des prestations accessoires de ses participants et anciens participants;
+
 «C» représente le paiement spécial total à effectuer chaque mois par suite du rapport.
 
 ### Définition
 
 (5) La définition qui suit s’applique au paragraphe (4).
+
 «passif actuariel» S’entend de ce qui suit :
+
 a) le passif à long terme, dans le cas d’une évaluation à long terme;
+
 b) le passif de solvabilité, dans le cas d’une évaluation de solvabilité.
 
 ### Frais d’administration du RRSF
@@ -4594,16 +5489,23 @@ b) le passif de solvabilité, dans le cas d’une évaluation de solvabilité.
 ### Régimes de retraite subséquents
 
 102 (1) La SIERE, Hydro One Inc., Ontario Power Generation Inc. et l’Office de la sécurité des installations électriques établissent chacun un régime de retraite en vue de procurer des prestations de retraite et des prestations accessoires aux personnes suivantes :
+
 1. Les employés de chacun qui lui sont mutés aux termes d’un décret pris en vertu de l’article 116 et qui participent ou ont le droit de participer au RRSF avant leur mutation.
+
 2. Les autres employés qu’ils estiment indiqués.
+
 3. Les anciens participants au RRSF que la Société financière, à son entière discrétion en sa qualité d’employeur, désigne en vue de leur transfert au régime de retraite.
+
 4. Les autres personnes qu’exige la présente partie.
 
 ### Anciens participants
 
 (2) La Société financière observe les règles suivantes lorsqu’elle décide quels anciens participants au RRSF doivent être transférés à un régime de retraite subséquent :
+
 1. Tous les anciens participants au RRSF sont transférés aux régimes de retraite subséquents.
+
 2. La Société financière tient compte de quel employeur subséquent, le cas échéant, aurait été le plus susceptible de devenir l’employeur de chacun des anciens employés d’Ontario Hydro (en supposant, pour les seuls besoins de la présente règle, que les anciens employés étaient à l’emploi d’Ontario Hydro immédiatement avant la date à laquelle des employés d’Ontario Hydro sont mutés aux employeurs subséquents aux termes de décrets pris en vertu de l’article 116).
+
 3. Si elle conclut qu’un ancien employé aurait été le plus susceptible de demeurer à son emploi ou à celui d’une de ses filiales, la Société financière le transfère au régime de retraite subséquent établi par Ontario Power Generation Inc.
 
 ### Statut du régime
@@ -4625,18 +5527,31 @@ b) le passif de solvabilité, dans le cas d’une évaluation de solvabilité.
 ### Participants aux régimes subséquents
 
 103 (1) Un employé d’un employeur subséquent qui a établi un régime de retraite subséquent commence à participer à celui-ci à la date suivante :
+
 1. Si l’employé participait au RRSF immédiatement avant de devenir un employé de l’employeur subséquent, la dernière des dates suivantes :
+
 i. la date à laquelle il devient un employé de l’employeur subséquent,
+
 ii. la date d’effet du régime.
+
 2. Si l’employé est tenu de participer au régime de retraite subséquent aux termes de celui-ci, la dernière des dates suivantes :
+
 i. la date à laquelle il devient un employé de l’employeur subséquent,
+
 ii. la date à laquelle il est tenu de commencer à participer au régime de retraite subséquent aux termes de celui-ci,
+
 iii. la date d’effet du régime.
+
 3. Si, aux termes du régime de retraite subséquent, l’employé est tenu de commencer à participer à celui-ci après avoir satisfait à certaines conditions, la dernière des dates suivantes :
+
 i. la date à laquelle il satisfait à ces conditions,
+
 ii. la date d’effet du régime.
+
 4. Si, aux termes du régime de retraite subséquent, l’employé a le droit, sans y être tenu, de commencer à participer à celui-ci après avoir satisfait à certaines conditions, la dernière des dates suivantes :
+
 i. la date à laquelle il commence à participer au régime,
+
 ii. la date d’effet du régime.
 
 ### Anciens participants
@@ -4678,15 +5593,21 @@ ii. la date d’effet du régime.
 ### Définitions
 
 (7) Les définitions qui suivent s’appliquent au présent article.
+
 «membre du même groupe» Relativement à un employeur subséquent, s’entend, selon le cas :
+
 a) d’une personne morale qui est une filiale de l’employeur subséquent au sens de la Loi sur les sociétés par actions ;
+
 b) d’une personne morale ou d’une société en nom collectif ou en commandite qui est sous le contrôle de l’employeur subséquent, de la personne qui a le contrôle de l’employeur subséquent ou d’une personne dont l’employeur subséquent a le contrôle, conformément au paragraphe (8). («affiliate»)
+
 «membre du même groupe participant» Relativement à un employeur subséquent et à un régime de retraite subséquent, s’entend du membre du même groupe qui est autorisé aux termes du paragraphe (1) à être un employeur participant dans le cadre du régime. («participating affiliate») 2000, chap. 42, art. 39.
 
 ### Interprétation : contrôle
 
 (8) Pour l’application de l’alinéa b) de la définition de «membre du même groupe» au paragraphe (7), une personne morale ou une société en nom collectif ou en commandite est sous le contrôle d’une autre personne ou de l’employeur subséquent si l’un ou l’autre détient, directement ou indirectement, autrement qu’à titre de sûreté, ce qui suit :
+
 1. Des valeurs mobilières avec droit de vote qui représentent plus de 50 pour cent des voix nécessaires à l’élection des administrateurs de la personne morale.
+
 2. Un droit de propriété ou autre intérêt qui confère au détenteur plus de 50 pour cent des intérêts avec droit de vote ou des autres droits de régie de la société en nom collectif ou en commandite ou plus de 50 pour cent de son revenu.
 
 ### Frais d’administration des régimes subséquents
@@ -4724,7 +5645,9 @@ b) d’une personne morale ou d’une société en nom collectif ou en commandit
 ### Règlements
 
 (5) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire, pour l’application du paragraphe (4), les dates applicables aux régimes de retraite que précisent les règlements;
+
 b) régir le règlement des questions faisant toujours l’objet d’un différend après la date prescrite entre les administrateurs de régimes de retraite précisés.
 
 ### Frais
@@ -4734,9 +5657,13 @@ b) régir le règlement des questions faisant toujours l’objet d’un différe
 ### Maintien temporaire de la participation au RRSF
 
 108 (1) Dans l’une ou l’autre des circonstances suivantes, un employé d’un employeur subséquent participe au RRSF jusqu’à la date d’effet du régime de retraite subséquent applicable :
+
 1. L’employé participait au RRSF immédiatement avant de devenir un employé de l’employeur subséquent.
+
 2. L’employé serait tenu de participer au RRSF s’il était un employé de la Société financière.
+
 3. L’employé serait tenu de participer au RRSF après avoir satisfait à certaines conditions s’il était un employé de la Société financière. Il satisfait à ces conditions avant la date d’effet.
+
 4. L’employé aurait le droit, sans y être tenu, de commencer à participer au RRSF après avoir satisfait à certaines conditions s’il était un employé de la Société financière. Il commence à participer au RRSF avant la date d’effet.
 
 ### Cotisations salariales
@@ -4786,16 +5713,23 @@ b) régir le règlement des questions faisant toujours l’objet d’un différe
 ### Participation au RRSF
 
 (5) Les règles suivantes s’appliquent jusqu’à la date d’effet du régime de retraite subséquent établi par la Société de production :
+
 1. Les employés de la filiale participent, ou ont le droit de participer, au RRSF au même titre que les employés de la Société financière.
+
 2. La filiale est un employeur qui est tenu de verser des cotisations à la caisse de retraite du RRSF.
+
 3. L’article 109 s’applique, avec les adaptations nécessaires, à l’égard des droits et obligations de la Société financière et de la filiale.
 
 ### Participation au régime de retraite subséquent
 
 (6) Les règles suivantes s’appliquent à partir de la date d’effet du régime de retraite subséquent établi par Ontario Power Generation Inc. :
+
 1. Les employés de la filiale participent, ou ont le droit de participer, au régime de retraite subséquent établi par Ontario Power Generation Inc.
+
 2. L’article 103 s’applique, avec les adaptations nécessaires, à l’égard des employés de la filiale.
+
 3. La filiale est un employeur qui est tenu de verser des cotisations à la caisse de retraite du régime de retraite subséquent.
+
 4. L’article 109 s’applique, avec les adaptations nécessaires, à l’égard des droits et obligations d’Ontario Power Generation Inc. et de la filiale.
 
 ### Accords de transfert
@@ -4809,11 +5743,17 @@ b) régir le règlement des questions faisant toujours l’objet d’un différe
 ### Valeur des éléments d’actif
 
 (3) Sous réserve du paragraphe (4), la valeur des éléments d’actif à transférer à un régime de retraite subséquent est établie à la date du changement et calculée selon la formule suivante :
+
 [(A + B)/C] × D
+
 où :
+
 «A» représente le total des éléments de passif actuariel du RRSF à l’égard des prestations de retraite et des prestations accessoires de ses participants qui, à la date d’effet ou après cette date, mais avant la date du changement, commencent à participer au régime de retraite subséquent et qui, à la date du changement, acquièrent le droit à des prestations de retraite accumulées prévues par ce régime à l’égard de leur emploi antérieur au moment où ils commencent à participer à ce régime;
+
 «B» représente le total des éléments de passif actuariel du RRSF à l’égard des prestations de retraite et des prestations accessoires des anciens participants au RRSF qui, à la date du changement, deviennent des anciens participants au régime de retraite subséquent;
+
 «C» représente le total des éléments de passif actuariel du RRSF à l’égard des prestations de retraite et des prestations accessoires des personnes qui, immédiatement avant la date du changement, sont des participants ou des anciens participants au RRSF;
+
 «D» représente la valeur des éléments d’actif détenus dans la caisse de retraite du RRSF.
 
 ### Idem
@@ -4835,7 +5775,9 @@ où :
 ### Règlements
 
 (7) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire, pour l’application du paragraphe (6), les dates applicables aux régimes de retraite que précisent les règlements;
+
 b) régir le règlement des questions faisant toujours l’objet d’un différend après la date prescrite.
 
 ### Frais
@@ -4849,9 +5791,13 @@ b) régir le règlement des questions faisant toujours l’objet d’un différe
 ### Idem
 
 (2) Les changements suivants se produisent à la date du changement :
+
 1. Les participants au RRSF qui commencent à participer au régime de retraite subséquent à la date d’effet ou après cette date, mais avant la date du changement, acquièrent le droit à des prestations de retraite prévues par ce régime à l’égard de leur emploi antérieur au moment où ils commencent à participer à ce régime et ils cessent d’avoir droit à ces prestations prévues par le RRSF.
+
 2. Les anciens participants au RRSF qui deviennent des anciens participants au régime de retraite subséquent à la date du changement acquièrent le droit à des prestations de retraite prévues par le régime de retraite subséquent à l’égard de l’emploi de la personne concernée avant la date du changement.
+
 3. Ces anciens participants cessent d’être des anciens participants au RRSF.
+
 4. Ces participants et anciens participants acquièrent le droit à un crédit dans le régime de retraite subséquent pour la période de participation au RRSF du participant ou de l’ancien participant concerné, aux fins de l’établissement du droit aux prestations accessoires prévues par le régime de retraite subséquent.
 
 ### Transfert de responsabilité
@@ -4863,13 +5809,21 @@ b) régir le règlement des questions faisant toujours l’objet d’un différe
 ### Définitions
 
 112.1 Les définitions qui suivent s’appliquent à la présente partie.
+
 «autorisation» Licence, permis, certificat ou inscription délivré en vertu de la présente partie, malgré la définition de «permis» au paragraphe 2 (1). («authorization»)
+
 «directeur» Personne nommée directeur en vertu de la présente partie. («Director»)
+
 «enquêteur» Enquêteur nommé en application de la présente partie. («investigator»)
+
 «inspecteur» Inspecteur nommé en vertu de la présente partie. («inspector»)
+
 «Office» L’Office de la sécurité des installations électriques. («Authority»)
+
 «pénalité administrative» Pénalité administrative imposée en vertu du paragraphe 113.18.1 (1). («administrative penalty»)
+
 «personne» Particulier, personne morale, association, société en nom collectif ou en commandite ou toute autre entité. («person»)
+
 «règlements» Les règlements pris en application de la présente partie, malgré la définition de ce terme au paragraphe 2 (1). («regulations») 2004, chap. 19, par. 12 (2)
 
 ### Sécurité des installations électriques
@@ -4877,16 +5831,23 @@ b) régir le règlement des questions faisant toujours l’objet d’un différe
 ### Règlements : lieutenant-gouverneur en conseil
 
 113 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire la conception, la construction, l’installation, la protection, l’utilisation, l’entretien, la réparation, l’extension, la modification, le branchement et le débranchement de tous ouvrages, objets et choses qui servent ou qui sont destinés à servir à la production, au transport, à la distribution, à la vente au détail ou à l’utilisation de l’électricité en Ontario;
+
 b) interdire l’utilisation, la publicité, l’exposition, l’offre de disposition, notamment par mise en vente, et la disposition, notamment par vente, publiques ou privées, en Ontario, de tels ouvrages, objets et choses avant qu’ils n’aient été inspectés et approuvés ou qu’ils soient réputés approuvés;
+
 c) prescrire les précautions à prendre en cas de disposition, notamment par vente, de tels ouvrages, objets et choses, ainsi que les avertissements et instructions à donner aux acheteurs et autres dans les annonces et par d’autres moyens, y compris des circulaires ou l’étiquetage, notamment au moyen d’étiquettes et de sceaux, afin de prévenir leur utilisation d’une façon ou dans des conditions susceptibles de présenter un risque indu pour les personnes ou les biens;
+
 d) prévoir l’inspection, l’essai et l’approbation de tels ouvrages, objets et choses avant qu’ils ne servent à la production, au transport, à la distribution, à la vente au détail ou à l’utilisation de l’électricité en Ontario, ainsi qu’un processus permettant d’accorder, de renouveler, de suspendre, de révoquer et de rétablir l’approbation des ouvrages, objets et choses avant qu’ils ne servent à ces fins;
+
 e) exiger l’observation d’un code, d’une norme, d’une ligne directrice ou d’une procédure que prévoit une règle établie par une personne qui vend de l’électricité au détail à de tels ouvrages, objets et choses.
 
 ### Règlements : ministre
 
 (2) Le ministre peut, par règlement :
+
 a) adopter par renvoi, avec les modifications qu’il juge nécessaires ou souhaitables, tout ou partie d’un code ou d’une norme régissant une question énoncée au paragraphe (1), et en exiger l’observation;
+
 b) établir un code de déontologie et un comité chargé de régir la conduite des titulaires d’une autorisation.
 
 ### Incorporation continuelle
@@ -4900,8 +5861,11 @@ b) établir un code de déontologie et un comité chargé de régir la conduite 
 ### Codes provisoires, organismes de mise à l’essai, dérogations
 
 (5) Un directeur peut, par écrit :
+
 a) autoriser, pour une période donnée et sous réserve des conditions qu’il précise, l’application de codes, de normes, de lignes directrices, de plans, de devis ou de procédures ou de leur modification pour tenir compte de faits nouveaux ou d’innovations technologiques et en exiger l’observation, et permettre des dérogations à ceux-ci, sous réserve des conditions qu’il précise;
+
 b) désigner des organismes chargés de mettre à l’essai toute chose pour laquelle des normes, des plans ou des devis sont établis aux termes de la présente partie et prévoir et exiger que la marque de ces organismes soit apposée sur la chose ou toute partie de la chose jugée conforme aux normes, aux plans ou aux devis;
+
 c) sous réserve des conditions qu’il précise, permettre une dérogation à tout règlement que prend le ministre en application de l’alinéa (2) a) si, à son avis, cette dérogation ne serait pas préjudiciable à l’utilisation sans danger de la chose à laquelle s’applique le règlement ni à la santé ou à la sécurité des personnes.
 
 ### Loi de 2006 sur la législation, partie III
@@ -4931,8 +5895,11 @@ c) sous réserve des conditions qu’il précise, permettre une dérogation à t
 ### Infractions
 
 (12) Quiconque :
+
 a) dérange ou entrave un inspecteur ou un autre agent dans l’exercice des fonctions que lui attribue le présent article est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 b) refuse ou néglige de se conformer au présent article ou à un règlement pris ou à un plan ou devis établi en vertu de celui-ci est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 c) refuse ou néglige de se conformer à un ordre donné par l’Office en vertu du paragraphe (11) est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines, à quoi s’ajoute une amende maximale de 5 000 $ pour chaque jour où le refus ou la négligence se poursuit ou se reproduit.
 
 ### Idem : personnes morales
@@ -4968,7 +5935,9 @@ c) refuse ou néglige de se conformer à un ordre donné par l’Office en vertu
 ### Pouvoirs
 
 (3) Sauf disposition contraire de sa nomination, un directeur :
+
 a) d’une part, peut surveiller et diriger les inspecteurs et autres personnes chargés de l’application ou de l’exécution de la présente partie, des règlements ou des ordres de l’Office;
+
 b) d’autre part, est un inspecteur et il peut en exercer les pouvoirs et fonctions.
 
 ### Délégation
@@ -4990,20 +5959,31 @@ b) d’autre part, est un inspecteur et il peut en exercer les pouvoirs et fonct
 ### Refus et suspension
 
 (2) Un directeur peut refuser de délivrer à l’auteur d’une demande l’autorisation d’exercer des activités ou il peut refuser de renouveler, suspendre ou révoquer l’autorisation du titulaire d’une telle autorisation s’il a des motifs de croire que, selon le cas :
+
 a) l’auteur de la demande ou le titulaire de l’autorisation n’exercera pas les activités conformément à la loi;
+
 b) l’auteur de la demande ou le titulaire de l’autorisation n’exercera pas les activités en toute sécurité;
+
 c) l’auteur de la demande ou le titulaire de l’autorisation ne possède pas les ressources fondamentales nécessaires pour exercer les activités;
+
 d) l’auteur de la demande ou le titulaire de l’autorisation ne se conduira pas avec honnêteté et intégrité ni conformément au principe de la protection des consommateurs;
+
 e) l’auteur de la demande ou le titulaire de l’autorisation n’a pas la formation, l’expérience, les qualités ou les aptitudes que prescrivent les règlements;
+
 f) l’auteur de la demande ou le titulaire de l’autorisation ne s’est pas conformé à la présente partie, aux règlements ou à un ordre de l’Office ou n’a pas satisfait à une de leurs exigences;
+
 g) le titulaire de l’autorisation ne s’est pas conformé à une restriction ou à une condition à laquelle elle est assujettie;
+
 h) le titulaire de l’autorisation l’a obtenue en faisant une fausse déclaration ou par fraude;
+
 i) le titulaire de l’autorisation a permis à une personne non autorisée d’exercer les activités.
 
 ### Conditions
 
 (3) L’autorisation est assujettie :
+
 a) d’une part, aux restrictions et aux conditions que prescrivent les règlements;
+
 b) d’autre part, aux restrictions et aux conditions dont l’assortit un directeur.
 
 ### Conformité
@@ -5013,17 +5993,25 @@ b) d’autre part, aux restrictions et aux conditions dont l’assortit un direc
 ### Avis d’intention
 
 113.3 (1) Sous réserve du paragraphe (2), le directeur qui a l’intention de prendre l’une des mesures suivantes signifie un avis écrit motivé de son intention à l’auteur de la demande ou au titulaire de l’autorisation :
+
 1. Délivrer une autorisation en l’assortissant de restrictions ou de conditions.
+
 2. Renouveler une autorisation en l’assortissant de restrictions ou de conditions.
+
 3. Refuser de délivrer une autorisation.
+
 4. Refuser de renouveler une autorisation.
+
 5. Suspendre une autorisation.
+
 6. Annuler une autorisation.
 
 ### Exceptions
 
 (2) Aucun avis d’intention n’est nécessaire si, selon le cas :
+
 a) l’autorisation est provisoirement suspendue ou son renouvellement provisoirement refusé en vertu de l’article 113.5;
+
 b) la délivrance ou le renouvellement de l’autorisation est refusé ou elle est suspendue en vertu de l’article 113.6.
 
 ### Signification de l’avis
@@ -5045,7 +6033,9 @@ b) la délivrance ou le renouvellement de l’autorisation est refusé ou elle e
 ### Prorogation du délai
 
 (2) Le directeur peut proroger le délai de présentation de la demande d’audience, que la période de 15 jours soit déjà expirée ou non, s’il est convaincu de ce qui suit :
+
 a) il y a des motifs raisonnables d’accorder la prorogation;
+
 b) il existe à première vue des motifs d’accorder le redressement demandé à l’audience à l’auteur de la demande ou au titulaire de l’autorisation.
 
 ### Directives
@@ -5067,7 +6057,9 @@ b) il existe à première vue des motifs d’accorder le redressement demandé �
 ### Décision
 
 (7) À l’issue de l’audience, le directeur peut donner suite à l’intention exprimée dans son avis si :
+
 a) dans le cas d’une intention visée à la disposition 3, 4, 5 ou 6 du paragraphe 113.3 (1), il est convaincu de l’existence de n’importe lequel des motifs énoncés au paragraphe 113.2 (2);
+
 b) dans le cas d’une intention visée à la disposition 1 ou 2 du paragraphe 113.3 (1), il est convaincu que le fait d’assortir l’autorisation de restrictions et de conditions est conforme aux règles visées au paragraphe 113.2 (4).
 
 ### Suspension ou refus de renouveler provisoire en cas de menace pour la sécurité
@@ -5085,15 +6077,21 @@ b) dans le cas d’une intention visée à la disposition 1 ou 2 du paragraphe 1
 ### Décision
 
 (4) À l’issue de l’audience :
+
 a) s’il est convaincu de l’existence de n’importe lequel des motifs énoncés au paragraphe 113.2 (2), le directeur peut suspendre ou annuler l’autorisation ou refuser de la renouveler;
+
 b) s’il est convaincu de l’absence de tous les motifs énoncés au paragraphe 113.2 (2), le directeur :
+
 (i) soit doit rétablir l’autorisation suspendue,
+
 (ii) soit doit renouveler l’autorisation et peut l’assortir de restrictions ou de conditions conformément au paragraphe 113.2 (4).
 
 ### Défaut de paiement
 
 113.6 (1) Un directeur peut refuser de délivrer ou de renouveler une autorisation ou peut en suspendre une si l’auteur de la demande ou le titulaire de l’autorisation, selon le cas :
+
 a) n’a pas payé des droits, une pénalité administrative, des frais ou d’autres redevances dus à l’Office;
+
 b) n’a pas payé une amende imposée, sur déclaration de culpabilité, pour une infraction prévue par la présente partie.
 
 ### Avis et audience non obligatoires
@@ -5131,11 +6129,17 @@ b) n’a pas payé une amende imposée, sur déclaration de culpabilité, pour u
 ### Appel à la suite de l’audience
 
 113.10 (1) L’auteur d’une demande ou le titulaire d’une autorisation peut interjeter appel devant la Cour divisionnaire si, à la suite d’une audience, un directeur prend l’une ou l’autre des mesures suivantes :
+
 1. Il délivre l’autorisation en l’assortissant de restrictions ou de conditions.
+
 2. Il renouvelle l’autorisation en l’assortissant de restrictions ou de conditions.
+
 3. Il refuse de délivrer l’autorisation.
+
 4. Il refuse de renouveler l’autorisation.
+
 5. Il suspend l’autorisation.
+
 6. Il annule l’autorisation.
 
 ### Comment interjeter appel
@@ -5155,27 +6159,41 @@ b) n’a pas payé une amende imposée, sur déclaration de culpabilité, pour u
 ### Maintien sur demande de renouvellement
 
 113.11 (1) Si, dans le délai que prescrivent les règlements ou, à défaut, avant l’expiration de son autorisation, le titulaire en demande le renouvellement à un directeur, l’autorisation continue à être valide :
+
 a) jusqu’à ce que le directeur la renouvelle, sauf si l’alinéa b), c) ou d) s’applique;
+
 b) jusqu’à ce que le directeur refuse provisoirement de la renouveler en vertu du paragraphe 113.5 (1);
+
 c) jusqu’à ce que le directeur refuse de la renouveler en vertu du paragraphe 113.6 (1);
+
 d) sous réserve du paragraphe (3), s’il est signifié à son titulaire un avis prévu à l’article 113.3 selon lequel le directeur a l’intention de refuser de la renouveler ou que celui-ci refuse de la renouveler en vertu du paragraphe 113.5 (4) :
+
 (i) jusqu’à l’expiration du délai imparti pour demander une audience devant le directeur en vertu de l’article 113.4 ou 113.5, sauf si le sous-alinéa (ii) s’applique,
+
 (ii) si le titulaire demande une audience conformément à l’article 113.4 ou 113.5 :
+
 (A) jusqu’à ce que le directeur la renouvelle à la suite de l’audience,
+
 (B) si le directeur refuse de la renouveler à la suite de l’audience :
+
 (1) jusqu’à l’expiration du délai imparti pour déposer un avis d’appel auprès de la Cour divisionnaire en vertu de l’article 113.10, sauf si le sous-sous-sous-alinéa 2 s’applique,
+
 (2) jusqu’à ce qu’il soit statué de façon définitive sur l’appel, si le titulaire dépose un avis d’appel auprès de la Cour divisionnaire conformément à l’article 113.10.
 
 ### Maintien après la suspension ou l’annulation
 
 (2) Sous réserve du paragraphe (3), si un directeur suspend ou annule une autorisation en vertu du paragraphe 113.4 (7) ou 113.5 (4), la suspension ou l’annulation ne prend pas effet :
+
 a) avant l’expiration du délai imparti pour déposer un avis d’appel auprès de la Cour divisionnaire en vertu de l’article 113.10, sauf si l’alinéa b) s’applique;
+
 b) avant qu’il soit statué de façon définitive sur l’appel, si un avis d’appel est déposé auprès de la Cour divisionnaire conformément à l’article 113.10.
 
 ### Menace pour la sécurité
 
 (3) S’il est d’avis que la sécurité du public ou d’une personne est ou peut être menacée, le directeur peut préciser que, selon le cas :
+
 a) l’autorisation à l’égard de laquelle une demande de renouvellement a été présentée cesse d’être valide plus tôt qu’au moment précisé à l’alinéa (1) d);
+
 b) la suspension ou l’annulation prévue au paragraphe (2) prend effet plus tôt qu’au moment précisé à ce paragraphe.
 
 ### Ordonnance de se conformer
@@ -5197,18 +6215,23 @@ b) la suspension ou l’annulation prévue au paragraphe (2) prend effet plus t�
 ### Définition
 
 113.12.1 La définition qui suit s’applique aux articles 113.13 à 113.14.3.
+
 «produit ou dispositif électrique» Chose qui sert ou qui est destinée à servir à la production, au transport, à la distribution, à la vente au détail ou à l’utilisation de l’électricité.
 
 ### Inspections
 
 113.13 (1) L’Office ou la personne qu’il nomme inspecteur par écrit peut mener une inspection et peut, dans ce cadre et à toute heure raisonnable, pénétrer sur des biens-fonds ou dans des locaux, notamment les locaux commerciaux du titulaire d’une autorisation, et les inspecter pour, selon le cas :
+
 a) s’assurer que la présente loi et les règlements sont observés;
+
 b) établir que le titulaire d’une autorisation a toujours droit à celle-ci.
 
 ### Restriction du droit d’entrée
 
 (2) L’inspecteur ne doit :
+
 a) ni recourir à la force pour pénétrer sur des biens-fonds et dans des locaux et les inspecter en vertu du présent article;
+
 b) ni pénétrer dans toute partie des locaux qui est utilisée comme logement, sauf si le propriétaire ou l’occupant y consent.
 
 ### Identification
@@ -5218,9 +6241,13 @@ b) ni pénétrer dans toute partie des locaux qui est utilisée comme logement, 
 ### Pouvoirs de l’inspecteur
 
 (4) L’inspecteur qui procède à une inspection sur des biens-fonds ou dans des locaux, notamment les locaux du titulaire d’une autorisation, peut :
+
 a) examiner toutes choses pertinentes, notamment des documents, des dossiers et des produits ou dispositifs électriques;
+
 b) exiger de quiconque se trouvant dans les locaux inspectés qu’il présente une chose pertinente, notamment un document ou un dossier;
+
 c) recourir aux dispositifs ou systèmes de stockage, de traitement ou d’extraction des données utilisés pour exploiter une entreprise en vue de produire des renseignements ou un dossier pertinents sous quelque forme que ce soit;
+
 d) sous réserve du paragraphe (5), après remise d’un récépissé à cet effet, enlever les choses pertinentes, y compris des documents, des dossiers, des disques de stockage des données ou d’autres dispositifs d’extraction des données, en vue de produire des renseignements.
 
 ### Exclusion des produits ou de dispositifs électriques
@@ -5246,7 +6273,9 @@ d) sous réserve du paragraphe (5), après remise d’un récépissé à cet eff
 ### Ordre de remettre ou de conserver les produits ou les dispositifs électriques
 
 113.13.1 (1) L’inspecteur qui est légitimement présent dans un lieu et qui a des motifs raisonnables de croire qu’un produit ou un dispositif électrique qui s’y trouve est vendu ou mis en vente en contravention à la présente partie ou aux règlements peut, verbalement ou par écrit, ordonner à la personne qui se trouve dans le même lieu :
+
 a) soit de lui remettre le produit ou le dispositif électrique;
+
 b) soit de conserver et préserver le produit ou le dispositif électrique conformément aux règlements.
 
 ### Obligation de conserver les produits ou les dispositifs électriques
@@ -5260,15 +6289,21 @@ b) soit de conserver et préserver le produit ou le dispositif électrique confo
 ### Mandat de saisie
 
 113.13.2 (1) Sur demande sans préavis d’un inspecteur nommé en application du paragraphe 113.13 (1), un juge de paix peut délivrer un mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il existe des motifs raisonnables de croire ce qui suit :
+
 a) un inspecteur a donné l’ordre de lui remettre un produit ou un dispositif électrique ou de le conserver et de le préserver en vertu du paragraphe 113.13.1 (1);
+
 b) le destinataire de l’ordre ne l’a pas observé;
+
 c) la vente ou la mise en vente du produit ou du dispositif électrique contrevient à la présente partie ou aux règlements.
 
 ### Pouvoirs
 
 (2) Sous réserve des conditions qui y figurent, le mandat décerné en vertu du paragraphe (1) autorise l’inspecteur nommé en application du paragraphe 113.13 (1) à faire ce qui suit :
+
 a) pénétrer dans le lieu où la personne est tenue de conserver et préserver le produit ou le dispositif électrique en vertu de l’alinéa 113.13.1 (1) b) et du paragraphe 113.13.1 (2) ou y avoir accès;
+
 b) exiger la production du produit ou du dispositif électrique en question;
+
 c) saisir le produit ou le dispositif électrique en question.
 
 ### Obligation d’aider et de produire
@@ -5278,7 +6313,9 @@ c) saisir le produit ou le dispositif électrique en question.
 ### Entrée dans un logement
 
 (4) Malgré le paragraphe (2), un inspecteur ne doit exercer le pouvoir, conféré par un mandat, de pénétrer dans un lieu ou une partie d’un lieu utilisé comme logement que s’il est satisfait aux conditions suivantes :
+
 a) le juge de paix est informé du fait que le mandat est demandé afin d’autoriser l’entrée dans un logement;
+
 b) le juge de paix autorise l’entrée dans le logement.
 
 ### Conditions du mandat
@@ -5312,8 +6349,11 @@ b) le juge de paix autorise l’entrée dans le logement.
 ### Restitution ou confiscation des produits ou des dispositifs électriques
 
 113.13.3 (1) Le présent article s’applique à l’égard d’un produit ou d’un dispositif électrique dans les cas suivants :
+
 a) il a été remis à l’inspecteur à la suite d’un ordre donné en vertu du paragraphe 113.13.1 (1);
+
 b) il a été conservé et préservé à la suite d’un ordre donné en vertu du paragraphe 113.13.1 (1) ou conformément au paragraphe 113.13.1 (2);
+
 c) l’inspecteur l’a saisi conformément aux règlements, sous l’autorité d’un mandat décerné en vertu du paragraphe 113.13.2 (1).
 
 ### Demande de restitution du produit ou du dispositif électrique
@@ -5331,14 +6371,19 @@ c) l’inspecteur l’a saisi conformément aux règlements, sous l’autorité 
 ### Décision du directeur
 
 (5) À l’issue de l’audience, le directeur peut, selon le cas :
+
 a) restituer le produit ou le dispositif électrique s’il décide que sa vente ou sa mise en vente ne contrevient pas à la présente partie ou aux règlements;
+
 b) ordonner la confiscation du produit ou du dispositif électrique au profit de la Couronne s’il décide que sa vente ou sa mise en vente contrevient à la présente partie ou aux règlements.
 
 ### Confiscation dans d’autres circonstances
 
 (6) Le directeur peut ordonner la confiscation du produit ou du dispositif électrique au profit de la Couronne si, selon le cas :
+
 a) personne n’en a demandé la restitution dans le délai prévu au paragraphe (2);
+
 b) il refuse de tenir une audience en vertu du paragraphe (4);
+
 c) l’auteur de la demande de restitution du produit ou du dispositif électrique ne s’est pas présenté à l’audience.
 
 ### Décisions définitives
@@ -5356,18 +6401,27 @@ c) l’auteur de la demande de restitution du produit ou du dispositif électriq
 ### Mandat de perquisition
 
 113.14.1 (1) Sur demande sans préavis d’un enquêteur, un juge de paix peut délivrer un mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il existe des motifs raisonnables de croire :
+
 a) d’une part, qu’une personne a contrevenu ou contrevient à la présente partie ou aux règlements ou qu’elle a commis une infraction qui touche son aptitude à être titulaire d’une autorisation prévue par la présente partie;
+
 b) d’autre part :
+
 (i) soit qu’une chose quelconque se rapportant à la contravention à la présente partie ou aux règlements, ou à l’aptitude de la personne à être titulaire d’une autorisation, se trouve sur un bien-fonds ou dans un bâtiment, un logement, un contenant ou un lieu,
+
 (ii) soit que des renseignements ou des éléments de preuve se rapportant à la contravention à la présente partie ou aux règlements, ou à l’aptitude de la personne à être titulaire d’une autorisation, pourront être obtenus au moyen d’une technique ou méthode d’enquête ou d’un acte qui est mentionné dans le mandat.
 
 ### Pouvoirs
 
 (2) Sous réserve des conditions qui y figurent, le mandat décerné en vertu du paragraphe (1) autorise un enquêteur à faire ce qui suit :
+
 a) pénétrer sur le bien-fonds ou dans le bâtiment, le logement, le contenant ou le lieu précisé dans le mandat ou y avoir accès et examiner et saisir toute chose mentionnée dans le mandat;
+
 a.1) présenter des demandes raisonnables de renseignements, verbalement ou par écrit, relativement à toute chose pertinente dans le cadre de l’enquête;
+
 b) recourir aux dispositifs ou systèmes de stockage, de traitement ou d’extraction des données utilisés pour exploiter une entreprise en vue de produire, sous quelque forme que ce soit, des renseignements ou des éléments de preuve mentionnés dans le mandat;
+
 c) exiger d’une personne qu’elle produise les renseignements ou les éléments de preuve mentionnés dans le mandat et qu’elle fournisse l’aide qui est raisonnablement nécessaire, notamment en recourant à un dispositif ou système de stockage, de traitement ou d’extraction des données en vue de les produire sous quelque forme que ce soit;
+
 d) utiliser toute technique ou méthode d’enquête ou accomplir tout acte qui est mentionné dans le mandat.
 
 ### Obligation d’aider et de produire des documents
@@ -5377,7 +6431,9 @@ d) utiliser toute technique ou méthode d’enquête ou accomplir tout acte qui 
 ### Entrée dans un logement
 
 (4) Malgré le paragraphe (2), un enquêteur ne doit exercer le pouvoir, conféré par un mandat, de pénétrer dans un lieu ou une partie d’un lieu utilisé comme logement que s’il est satisfait aux conditions suivantes :
+
 a) le juge de paix est informé du fait que le mandat est demandé afin d’autoriser l’entrée dans un logement;
+
 b) le juge de paix autorise l’entrée dans le logement.
 
 ### Conditions du mandat
@@ -5407,6 +6463,7 @@ b) le juge de paix autorise l’entrée dans le logement.
 ### Copies des choses saisies
 
 (11) L’enquêteur qui saisit quoi que ce soit en vertu du présent article ou de l’article 113.14.3 peut en faire une copie.
+
 (12) Abrogé : 2019, chap. 14, annexe 10, par. 6 (2).
 
 ### Admissibilité des copies
@@ -5432,6 +6489,7 @@ b) le juge de paix autorise l’entrée dans le logement.
 ### Saisie de choses en évidence
 
 113.14.3 (1) L’enquêteur qui se trouve légitimement dans un lieu conformément à un mandat peut saisir toute chose qui est en évidence et dont il a des motifs raisonnables de croire qu’elle fournira des preuves relatives à une contravention à la présente loi ou aux règlements.
+
 (2) Abrogé : 2019, chap. 14, annexe 10, par. 6 (5).
 
 ### Rapport lors de la saisie de choses
@@ -5453,7 +6511,9 @@ b) le juge de paix autorise l’entrée dans le logement.
 ### Divulgation interdite
 
 (2) Sous réserve du paragraphe (3), aucun inspecteur ne doit divulguer des documents ou renseignements qu’il a obtenus dans le cadre d’une inspection sauf :
+
 a) soit afin d’exercer les fonctions que lui attribue la présente loi;
+
 b) soit dans la mesure où l’autorise la Loi de 2007 sur la modernisation de la réglementation.
 
 ### Contraignabilité lors d’une instance civile
@@ -5463,14 +6523,19 @@ b) soit dans la mesure où l’autorise la Loi de 2007 sur la modernisation de l
 ### Refus ou permission conditionnelle
 
 (4) Un directeur peut :
+
 a) s’il a des motifs raisonnables, refuser de permettre à un inspecteur de comparaître comme témoin;
+
 b) exiger que la comparution d’un inspecteur comme témoin soit assujettie aux conditions raisonnables et nécessaires à la bonne application de la présente partie et des règlements.
 
 ### Restriction
 
 (5) Le paragraphe (4) ne s’applique pas si, selon le cas :
+
 a) le tribunal ordonne à l’inspecteur de comparaître comme témoin;
+
 b) l’instance est assujettie à la Loi sur les infractions provinciales ;
+
 c) l’Office est partie à l’instance.
 
 ### Décision écrite
@@ -5484,9 +6549,13 @@ c) l’Office est partie à l’instance.
 ### Délivrance d’une confirmation par le directeur
 
 113.16 (1) Un directeur peut délivrer une confirmation écrite au sujet, selon le cas :
+
 a) de la délivrance, de la non-délivrance, du renouvellement, du non-renouvellement, de l’annulation ou de la suspension d’une autorisation;
+
 b) des restrictions et des conditions auxquelles est assujettie une autorisation;
+
 c) du dépôt ou du non-dépôt d’une pièce ou d’un document dont le dépôt auprès du directeur est exigé ou permis;
+
 d) de toute autre question que prescrivent les règlements.
 
 ### Effet de la confirmation
@@ -5508,8 +6577,11 @@ d) de toute autre question que prescrivent les règlements.
 ### Pénalité administrative
 
 113.18.1 (1) Un directeur peut, par ordonnance, imposer une pénalité administrative à une personne conformément au présent article et aux règlements pris par le ministre s’il est convaincu que cette personne a contrevenu ou contrevient, selon le ca s :
+
 a) à une disposition prescrite de la présente partie ou des règlements;
+
 b) à une restriction ou à une condition dont un directeur a assorti une autorisation prescrite;
+
 c) à un ordre prescrit de l’Office.
 
 ### Bénéficiaire du paiement
@@ -5519,7 +6591,9 @@ c) à un ordre prescrit de l’Office.
 ### Fins
 
 (3) Une pénalité administrative peut être imposée en vertu du présent article à une ou plusieurs des fins suivantes :
+
 1. Veiller au respect des dispositions de la présente partie ou des règlements.
+
 2. Empêcher qu’une personne tire, directement ou indirectement, des avantages économiques d’une contravention visée au paragraphe (1).
 
 ### Montant
@@ -5537,7 +6611,9 @@ c) à un ordre prescrit de l’Office.
 ### Responsabilité absolue
 
 (7) L’ordonnance prise en vertu du paragraphe (1) qui impose une pénalité administrative à une personne s’applique même si, selon le cas :
+
 a) la personne a pris toutes les mesures raisonnables pour empêcher la contravention sur laquelle se fonde l’ordonnance;
+
 b) au moment de la contravention, la personne croyait raisonnablement et en toute honnêteté à l’existence de faits erronés qui, avérés, auraient rendu la contravention non blâmable.
 
 ### Aucun effet sur les infractions
@@ -5591,15 +6667,25 @@ b) au moment de la contravention, la personne croyait raisonnablement et en tout
 ### Infractions
 
 113.20 (1) Quiconque :
+
 a) refuse ou néglige de se conformer à l’article 113 ou à un règlement pris ou à un plan ou devis établi en vertu de celui-ci est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 b) refuse ou néglige de se conformer à un ordre donné par l’Office en vertu du paragraphe 113 (11) est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines, à quoi s’ajoute une amende maximale de 5 000 $ pour chaque jour où le refus ou la négligence se poursuit ou se reproduit;
+
 c) refuse ou néglige de se conformer au paragraphe 113.13 (6), 113.13.1 (2), 113.13.2 (3) ou 113.14.1 (3) ou (10) ou dérange ou entrave un inspecteur, un enquêteur ou un autre agent dans l’exercice des fonctions qui lui ont été confiées en vertu de la présente partie est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 c.1) qui contrevient ou ne se conforme pas à l’article 113.0.1 est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 d) contrevient ou ne se conforme pas au paragraphe 113.2 (1) est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines, à quoi s’ajoute une amende maximale de 5 000 $ pour chaque jour où l’infraction se poursuit ou se reproduit;
+
 e) contrevient ou ne se conforme pas à un règlement pris en application de l’alinéa 113.22 (1) a), e), e.1) ou j) est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines, à quoi s’ajoute une amende maximale de 5 000 $ pour chaque jour où l’infraction se poursuit ou se reproduit;
+
 f) contrevient ou ne se conforme pas à une restriction ou à une condition à laquelle est assujettie une autorisation est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines, à quoi s’ajoute une amende maximale de 5 000 $ pour chaque jour où l’infraction se poursuit ou se reproduit;
+
 g) fait sciemment une fausse déclaration ou fournit sciemment de faux renseignements à un directeur dans le cadre de la présente partie est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 h) fait sciemment passer pour authentique un document, un certificat ou une carte d’identité ou tout autre document délivré en vertu de la présente partie ou des règlements, est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 i) se fait passer pour le titulaire d’une autorisation ou un responsable, notamment un inspecteur ou un enquêteur, visé par la présente partie est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines.
 
 ### Idem : personnes morales
@@ -5617,6 +6703,7 @@ i) se fait passer pour le titulaire d’une autorisation ou un responsable, nota
 ### Infraction distincte
 
 (5) Toute contravention à une disposition de la présente partie, des règlements, de même qu’à un avis ou à un ordre donné ou à une ordonnance rendue en vertu de ceux-ci, est réputée constituer une infraction distincte pour chacun des jours au cours desquels se commet la contravention.
+
 (6) Abrogé : 2021, chap. 34, annexe 9, art. 7.
 
 ### Prescription
@@ -5630,30 +6717,51 @@ i) se fait passer pour le titulaire d’une autorisation ou un responsable, nota
 ### Règlements
 
 113.22 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire les activités qui exigent une autorisation, classer les activités, les personnes qui les exercent et les autorisations, et prescrire les catégories d’autorisations qui sont exigées pour différentes catégories d’activités ou différentes catégories de personnes;
+
 b) prescrire la formation, l’expérience, les qualités ou les aptitudes que des personnes doivent avoir et les autres exigences auxquelles elles doivent satisfaire pour obtenir et conserver une catégorie d’autorisation;
+
 c) prescrire la période de validité d’une catégorie d’autorisation ou le mode de fixation d’une telle période;
+
 d) régir les demandes d’autorisation et de renouvellement d’autorisation, notamment prescrire les modalités à suivre et les délais à respecter pour les présenter;
+
 e) prescrire les fonctions, pouvoirs et interdictions qui s’appliquent aux titulaires d’une autorisation;
+
 e.1) régir les documents et les dossiers que doivent conserver les titulaires d’une autorisation, notamment le mode, le lieu et les délais de leur conservation, et autoriser le directeur à préciser le lieu où ils doivent être conservés;
+
 f) prescrire les règles que doit respecter un directeur lorsqu’il assortit une autorisation d’une restriction ou d’une condition;
+
 g) prescrire toute chose qui, en application de la présente partie, doit ou peut être faite conformément aux règlements ou que cette partie mentionne comme étant prescrite, exigée, prévue ou visée par ceux-ci;
+
 h) soustraire une personne, un ouvrage, un objet ou une chose à l’application d’une disposition de la présente partie ou des règlements;
+
 i) définir les incidents ou les accidents électriques et les catégories de ceux-ci;
+
 j) prévoir la présentation à l’Office de rapports sur les incidents ou les accidents électriques visés à l’alinéa i), y compris le mode et les moments de leur présentation, et prescrire les catégories de personnes qui doivent présenter ces rapports;
+
 k) traiter de toute question jugée utile ou nécessaire pour réaliser efficacement l’objet de la présente loi.
 
 ### Règlements du ministre
 
 (2) Le ministre peut, par règlement :
+
 a) régir les pénalités administratives qu’un directeur peut imposer en vertu de la présente partie et toutes les questions nécessaires et accessoires à l’administration d’un régime de pénalités administratives, notamment :
+
 (i) prescrire des dispositions, autorisations et ordres pour l’application du paragraphe 113.18.1 (1),
+
 (ii) préciser le montant d’une pénalité administrative ou prévoir la fixation de ce montant, en précisant son mode de calcul ainsi que les critères à prendre en compte pour le fixer,
+
 (iii) prévoir le paiement de montants différents ou l’utilisation de modes de calcul ou de critères différents selon les circonstances qui ont donné lieu à la pénalité administrative ou selon le moment où elle est payée,
+
 (iv) préciser les renseignements qui doivent figurer dans l’ordonnance de paiement d’une pénalité administrative,
+
 (v) régir les règles de signification d’une ordonnance qui impose une pénalité administrative ainsi que les droits des parties concernées par ces règles, y compris le moment où l’ordonnance est réputée signifiée à la personne qu’elle vise,
+
 (vi) traiter des audiences pour l’application du paragraphe 113.18.1 (11),
+
 (vii) traiter des mesures pour l’application du paragraphe 113.18.1 (16);
+
 b) préciser les fins auxquelles l’Office peut utiliser les fonds qu’il perçoit à titre de pénalités administratives.
 
 ## PARTIE IX RÈGLEMENTS
@@ -5661,132 +6769,239 @@ b) préciser les fins auxquelles l’Office peut utiliser les fonds qu’il per�
 ### Règlements
 
 114 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire d’autres objets pour l’application de l’alinéa 6 (1) s);
+
 a.1) Abrogé : 2014, chap. 7, annexe 7, par. 15 (1).
+
 b) régir les emprunts que peut contracter la SIERE, ses placements et la gestion de ses actifs, passifs et risques financiers, notamment :
+
 (i) prescrire les règles et les restrictions qui s’y appliquent,
+
 (ii) prescrire les fins auxquelles la SIERE peut contracter des emprunts, faire des placements ou gérer ses actifs, passifs et risques financiers,
+
 (iii) prescrire les types de titres d’emprunt et d’obligations financières que la SIERE peut émettre ou contracter à l’égard d’emprunts,
+
 (iv) prescrire les catégories de valeurs mobilières et d’instruments de placement dans lesquelles la SIERE est autorisée ou non à placer des fonds ainsi que les catégories d’accords financiers qu’elle est autorisée ou non à conclure;
+
 c) régir l’obligation de la SIERE de mettre des renseignements à disposition en français;
+
 c.1) prescrire des catégories de personnes pour l’application du paragraphe 10 (4);
+
 c.2) prescrire les autres questions dont doit traiter le règlement de régie;
+
 c.3) traiter du calcul des droits visés au paragraphe 23 (4), y compris le mode et les délais de paiement;
+
 c.4) prescrire la nature des dépenses que la SIERE peut recouvrer par l’imposition de droits et de frais, ainsi que les restrictions et limites applicables;
+
 c.5) traiter du calcul des droits et des frais visés à l’article 25.1, de la façon dont la SIERE les perçoit, ainsi que des délais applicables;
+
 c.6) prescrire les dispositions de la Loi sur les sociétés par actions, de la Loi de 2010 sur les organisations sans but lucratif ou de la Loi sur les renseignements exigés des personnes morales qui s’appliquent, avec les adaptations nécessaires, à la SIERE;
+
 d) prescrire des transporteurs, distributeurs, producteurs, détaillants et consommateurs, ou des catégories de ceux-ci, pour l’application du paragraphe 26 (2);
+
 d.1) régir les installations de production d’énergie renouvelable, notamment :
+
 (i) leur emplacement,
+
 (ii) leur capacité de production,
+
 (iii) leur raccordement aux réseaux de transport et de distribution, y compris les spécifications techniques relatives à un tel raccordement,
+
 (iv) le moment où leur exploitation doit avoir commencé pour qu’elles puissent être considérées comme étant des installations de production d’énergie renouvelable au sens de la présente loi;
+
 e) prescrire les contrats ou catégories de contrats auxquels le paragraphe 26 (3), (4) ou (6) ne s’applique pas, sous réserve des conditions ou restrictions que précisent les règlements;
+
 f) prescrire la quantité d’électricité visée à la définition de «petit consommateur» au paragraphe 26 (10);
+
 f.0.1) définir «centre de traitement de données» pour l’application de l’article 28.1;
+
 f.0.2) prescrire des critères pour l’application de la définition de «installation de charge précisée» à l’article 28.1, lesquels peuvent notamment comprendre l’un ou l’autre des éléments suivants :
+
 (i) la zone géographique dans laquelle l’installation de charge précisée est ou pourrait être située,
+
 (ii) le volume maximal d’électricité qu’une installation de charge précisée pourrait prélever au point de raccordement sur le réseau de transport ou se faire distribuer au point de raccordement sur le réseau de transport, selon le cas,
+
 (iii) la demande maximale d’électricité qu’une installation de charge précisée pourrait avoir au point de raccordement sur le réseau de transport ou de distribution, selon le cas;
+
 f.0.3) prescrire des exigences précisées en matière de raccordement auxquelles il doit être satisfait afin qu’une installation de charge précisée soit raccordée ou raccordée de nouveau au réseau de transport ou de distribution, selon le cas, lesquelles peuvent notamment comprendre :
+
 (i) des conditions, exigences ou restrictions précisées par les règlements auxquelles il doit être satisfait pour raccorder ou raccorder de nouveau l’installation de charge au réseau de transport ou de distribution, selon le cas,
+
 (ii) des approbations que précisent les règlements et qui doivent être obtenues pour raccorder ou raccorder de nouveau l’installation de charge au réseau de transport ou de distribution, selon le cas,
+
 (iii) les procédures qui doivent être suivies pour demander les approbations ou pour qu’il soit satisfait aux conditions ou exigences ou se conformer aux restrictions des exigences précisées en matière de raccordement,
+
 (iv) les personnes ou catégories de personnes qui peuvent demander les approbations pour le compte d’une installation de charge précisée,
+
 (v) les documents ou renseignements qui doivent être soumis dans le cadre des processus d’approbation,
+
 (vi) les personnes ou catégories de personnes autorisées à accorder ou à refuser d’accorder les approbations, et les critères dont ces personnes ou catégories de personnes doivent ou peuvent tenir compte lorsqu’elles décident d’accorder ou de refuser d’accorder des approbations,
+
 (vii) les conditions ou exigences ou restrictions dont doivent ou peuvent être assorties les approbations accordées,
+
 (viii) les obligations que les personnes ou catégories de personnes visées au sous-alinéa (iv) ont par rapport à ce qui suit :
+
 (A) remettre un avis écrit de la décision,
+
 (B) énoncer dans cet avis les raisons de la décision et les conditions, exigences ou restrictions dont est assortie l’approbation;
+
 (f.0.4) prescrire les procédures qu’un transporteur ou un distributeur mentionné au paragraphe 28.1 (3) est tenu de suivre ou peut suivre et les mesures qu’il doit ou peut prendre en cas de manquement à l’une des exigences précisées en matière de raccordement applicables ou en cas de violation de l’une d’entre elles, lesquelles peuvent notamment comprendre des exigences liées aux éléments suivants :
+
 (i) la remise d’un avis concernant le manquement à l’une des exigences précisées en matière de raccordement ou la violation de l’une d’entre elles, notamment les personnes ou catégories de personnes auxquelles l’avis doit être remis,
+
 (ii) la forme et le contenu de tout tel avis,
+
 (iii) l’occasion donnée à l’installation de charge précisée de remédier à la violation des exigences précisées en matière de raccordement, et de démontrer qu’il a été remédié à la violation,
+
 (iv) le débranchement de l’installation de charge précisée du réseau de transport ou de distribution du transporteur ou du distributeur, selon le cas;
+
 f.1) prescrire des périodes pour l’application des paragraphes 31 (4) et (5);
+
 g) traiter des limites et des critères pour l’application de l’article 29.1;
+
 g.1) prescrire des renseignements pour l’application des paragraphes 33 (2) et 34 (2.1);
+
 g.2) prescrire des raisons pour l’application de la disposition 5 du paragraphe 34 (1);
+
 h) prescrire une somme pour l’application de l’alinéa 36 (1) a);
+
 h.0.1) traiter des normes de fiabilité;
+
 h.1) pour l’application du paragraphe 46.1 (2), prescrire des types de combustible et, relativement à chacun d’eux, prescrire un ou plusieurs autres types de combustible comme combustibles de remplacement;
+
 h.2) pour l’application de l’alinéa 46.2 (1) a), prescrire des types de combustible;
+
 i) désigner une personne ou un organisme comme Office de la sécurité des installations électriques pour l’application de la présente loi;
+
 j) prescrire les personnes ou les organismes, ou les catégories de personnes ou d’organismes, avec lesquels l’Office de la sécurité des installations électriques peut conclure des accords en vertu de l’article 113.18;
+
 k) prescrire les exigences en matière de protection des consommateurs qui s’appliquent aux intervenants du marché;
+
 l) régir les normes applicables aux compteurs d’électricité et leur utilisation;
+
 l.1) exiger de personnes qu’elles offrent, installent ou utilisent des compteurs d’électricité ou d’autres dispositifs d’un genre précisé par les règlements afin de promouvoir la conservation de l’énergie, l’efficacité énergétique ou la gestion de la consommation;
+
 m) soustraire des personnes ou des catégories de personnes à l’application d’une disposition de la présente loi, sous réserve des conditions ou restrictions que prescrivent les règlements;
+
 n) définir les termes utilisés mais non définis dans la présente loi;
+
 o) assimiler la mention d’Ontario Hydro dans une loi à une mention de la personne ou de l’autre entité que précisent les règlements, sous réserve des conditions qui y sont prescrites;
+
 o.1) prescrire toute chose que la présente loi mentionne comme étant prescrite par les règlements ou comme étant prescrite;
+
 p) prévoir les questions transitoires que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables en ce qui concerne l’application de la présente loi;
+
 q) traiter des questions que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables pour réaliser efficacement les objets de la présente loi.
 
 ### Règlements : partie I
 
 (1.1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des sources d’énergie et des critères pour l’application de la définition de «source d’énergie de remplacement» au paragraphe 2 (1) et prescrire les critères applicables à la production d’électricité à partir de sources d’énergie pour l’application du paragraphe 2 (1.1);
+
 a.1) prescrire des critères et du matériel, des systèmes et des technologies connexes ou auxiliaires pour l’application de la définition de «installation de production d’énergie renouvelable» au paragraphe 2 (1), et prescrire des ouvrages pour l’application de cette définition;
+
 b) prescrire des sources d’énergie et des critères pour l’application de la définition de «source d’énergie renouvelable» au paragraphe 2 (1) et prescrire les critères applicables à la production d’électricité à partir de sources d’énergie pour l’application du paragraphe 2 (1.2);
+
 c) désigner un organisme comme organisme de normalisation pour l’application de la définition de «organisme de normalisation» au paragraphe 2 (1).
+
 (1.2) Abrogé : 2014, chap. 7, annexe 7, par. 15 (4).
 
 ### Règlements : partie II.2
 
 (1.3) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) Abrogé : 2016, chap. 10, annexe 2, par. 10 (1);
+
 b) pour l’application du paragraphe 25.29 (7) :
+
 (i) exiger du ministre qu’il tienne compte de rapports techniques ou d’autres rapports, documents ou renseignements,
+
 (ii) prescrire des rapports techniques ou d’autres rapports, documents et renseignements;
+
 c) prescrire les principes qui doivent être appliqués lors de l’élaboration de processus d’acquisition et de l’évaluation de propositions visant à réduire ou à gérer la demande d’électricité ou à accroître l’approvisionnement ou la capacité de production;
+
 d) Abrogé : 2016, chap. 10, annexe 2, par. 10 (3);
+
 e) régir les contrats d’acquisition;
+
 f) régir les ajustements, les paiements, les déductions compensatoires et les crédits pour l’application de l’article 25.33 et notamment :
+
 (i) prescrire le mode de calcul des ajustements prévus au paragraphe 25.33 (1), les catégories d’intervenants du marché et de consommateurs auxquelles ils s’appliquent, les périodes visées par ces ajustements, les délais dans lesquels ils doivent ou peuvent être effectués et la façon dont les sommes sont versées aux producteurs, à la Société financière, aux distributeurs et aux autres entités,
+
 (ii) prescrire les ajustements que les distributeurs ou les détaillants doivent ou peuvent effectuer à l’égard de catégories de consommateurs ou d’autres distributeurs ou détaillants, leur mode de calcul, les périodes visées par ces ajustements, les délais dans lesquels ils doivent ou peuvent être effectués et la façon dont les sommes sont versées aux producteurs, à la Société financière, aux distributeurs et aux autres entités,
+
 (iii) prescrire des catégories de consommateurs pour l’application de la disposition 3 du paragraphe 25.33 (3),
+
 (iv) régir la présentation des ajustements sur les factures des consommateurs,
+
 (v) exiger de la SIERE qu’elle fasse des paiements aux distributeurs ou aux détaillants et prescrire leur mode de calcul,
+
 (vi) exiger des distributeurs qu’ils fassent des paiements à la SIERE, aux autres distributeurs ou aux détaillants et prescrire leur mode de calcul,
+
 (vii) exiger des détaillants qu’ils fassent des paiements à la SIERE ou aux distributeurs et prescrire leur mode de calcul,
+
 (viii) Abrogé : 2014, chap. 7, annexe 7, par. 15 (6).
+
 (ix) régir le calcul du montant des paiements qu’exigent les règlements pris en application du présent alinéa, les méthodes de paiement et les délais dans lesquels ils doivent ou peuvent être faits,
+
 (x) autoriser que les paiements visés au sous-alinéa (ix) soient faits sous forme de déductions compensatoires et de crédits et prescrire les conditions dans lesquelles des sommes peuvent ou doivent être ainsi déduites ou créditées,
+
 (xi) régir les méthodes à utiliser pour calculer les déductions compensatoires ou les crédits, ainsi que les délais dans lesquels les sommes peuvent ou doivent être ainsi déduites ou créditées,
+
 (xii) exiger des distributeurs, des détaillants ou des producteurs qu’ils communiquent des renseignements à la SIERE, aux distributeurs ou à la Commission pour l’application de l’article 25.33 ou des règlements pris en vertu du présent alinéa,
+
 (xiii) exiger de la SIERE qu’elle communique des renseignements à la Commission pour l’application de l’article 25.33 ou des règlements pris en vertu du présent alinéa,
+
 (xiv) exiger de la Société financière qu’elle communique des renseignements à la SIERE ou à la Commission pour l’application de l’article 25.33 ou des règlements pris en vertu du présent alinéa,
+
 (xv) exiger d’un intervenant du marché ou d’un consommateur, ou d’une catégorie d’intervenants du marché ou de consommateurs, qu’ils satisfassent aux exigences précisées et qu’ils communiquent des renseignements à la SIERE, à un distributeur ou à un détaillant pour l’application de l’article 25.33 ou des règlements pris en application du présent alinéa;
+
 g) régir la création et la tenue des comptes d’écart visés au paragraphe 25.33 (5);
+
 g.0.1) prévoir et régir le délai de prescription pour l’application du paragraphe 25.33 (9);
+
 g.1) prescrire les lieux ou biens-fonds ou les catégories de lieux ou de biens-fonds à l’égard desquels la SIERE ne doit pas prévoir de processus d’acquisition ni conclure de contrat pour l’énergie provenant d’une installation prescrite de production d’énergie renouvelable ou d’une catégorie prescrite d’installations de production d’énergie renouvelable;
+
 h) pour l’application du paragraphe 25.34 (2) :
+
 (0.i) préciser des sommes versées aux producteurs, aux distributeurs ou à la Société financière, comme le précisent les règlements, pour l’application de la disposition 0.1 de ce paragraphe, ou les modes de calcul de ces sommes,
+
 (i) prévoir que certaines sommes ou parties de sommes ne font pas partie de celles visées à la disposition 1 de ce paragraphe et préciser les sommes ou parties de sommes exclues ou les méthodes employées pour déterminer celles-ci,
+
 (ii) préciser des sommes et des contrats d’acquisition pour l’application de la disposition 2 de ce paragraphe.
 
 ### Règlements : partie III
 
 (1.4) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 0.a) régir le raccordement d’installations de production aux réseaux de transport ou de distribution pour l’application de l’article 25.36;
+
 0.a.1) Abrogé : 2021, chap. 25, annexe 5, art. 3.
+
 a) prescrire les autres renseignements ou documents dont le paragraphe 36.2 (1) exige l’affichage;
+
 b) exiger un avis supplémentaire pour l’application du paragraphe 36.2 (2) et prescrire les autres renseignements ou documents qui doivent l’accompagner, ainsi que la manière et les moments de le donner;
+
 c) prescrire le délai dans lequel la Commission peut entreprendre l’examen d’une norme de fiabilité en vertu du paragraphe 36.2 (4);
+
 d) prescrire les autres éléments dont la Commission doit tenir compte pour l’application du paragraphe 36.2 (6);
+
 e) prescrire des restrictions pour l’application du paragraphe 36.3 (1).
 
 ### Portée
 
 (2) Les règlements pris en application du paragraphe (1) ou (1.3) peuvent avoir une portée générale ou particulière.
+
 (3) Abrogé : 2004, chap. 23, annexe A, par. 53 (10).
 
 ### Règlements de transition
 
 (4) Les règlements pris en application de l’alinéa (1) p) peuvent prévoir ce qui suit :
+
 a) ils ont un effet rétroactif à une date qui n’est pas antérieure au jour de l’entrée en vigueur du présent article;
+
 b) ils s’appliquent malgré la présente loi ou toute autre loi générale ou spéciale.
 
 ### Sous-délégation
@@ -5808,15 +7023,21 @@ b) ils s’appliquent malgré la présente loi ou toute autre loi générale ou 
 ### Disposition transitoire : SIERE
 
 (9) Le lieutenant-gouverneur en conseil peut, par règlement, régir les questions transitoires qui, à son avis, sont nécessaires ou souhaitables pour faciliter :
+
 a) la fusion de l’ancienne Société indépendante d’exploitation du réseau d’électricité et de l’Office de l’électricité de l’Ontario;
+
 b) la fusion ou la séparation au sein de la SIERE de toute obligation, fonction ou activité de l’ancienne Société indépendante d’exploitation du réseau d’électricité et de l’Office de l’électricité de l’Ontario.
 
 ### Idem : pensions
 
 (10) Sans préjudice de la portée générale du paragraphe (9), le lieutenant-gouverneur en conseil peut, par règlement, régir les questions transitoires relatives aux pensions découlant de la fusion de l’ancienne Société indépendante d’exploitation du réseau d’électricité et de l’Office de l’électricité de l’Ontario, et notamment :
+
 a) traiter du droit de maintenir un régime de retraite prescrit comme régime de retraite des employés actuels et futurs de la SIERE;
+
 b) régir le droit de la SIERE de créer un nouveau régime de retraite pour ses employés;
+
 c) traiter du droit du conseil d’administration de la SIERE de décider quels employés seront membres d’un régime de retraite prescrit ou d’un nouveau régime de retraite créé aux termes des règlements pris en vertu du présent paragraphe;
+
 d) régir les questions relatives à un régime de retraite prescrit ou aux nouveaux régimes de retraite créés aux termes des règlements pris en vertu du présent paragraphe.
 
 ## PARTIE IX.1 PROPRIÉTÉ ET UTILISATION DES BIENS-FONDS réservés aux couloirs
@@ -5826,8 +7047,11 @@ d) régir les questions relatives à un régime de retraite prescrit ou aux nouv
 ### Définitions
 
 114.1 Les définitions qui suivent s’appliquent à la présente partie.
+
 «date d’effet» La date d’entrée en vigueur de l’article 23 de l’annexe A de la Loi de 2002 sur la fiabilité de l’énergie et la protection des consommateurs. («effective date»)
+
 «droit légal d’utiliser des biens-fonds réservés aux couloirs» ou «droit légal d’utiliser les biens-fonds» Relativement à des biens-fonds réservés aux couloirs, s’entend du droit créé par l’article 114.5 de les utiliser à une fin visée à cet article. («statutory right to use corridor land», «statutory right to use the land»)
+
 «ministre de l’Infrastructure» Le ministre de l’Infrastructure ou l’autre membre du Conseil exécutif à qui sont attribués, en vertu de la Loi sur le Conseil exécutif, les pouvoirs et fonctions que la présente partie attribue au ministre de l’Infrastructure. («Minister of Infrastructure») 2002, chap. 1, annexe A, art. 23
 
 ### Propriété et utilisation
@@ -5835,7 +7059,9 @@ d) régir les questions relatives à un régime de retraite prescrit ou aux nouv
 ### Transfert des biens-fonds réservés aux couloirs à la Couronne
 
 114.2 (1) L’intérêt en fief simple sur les biens immeubles suivants est transféré à Sa Majesté du chef de l’Ontario :
+
 1. Tous les biens immeubles situés en Ontario qui, directement ou indirectement, appartenaient en fief simple à Hydro One Inc. ou à une de ses filiales à la date d’effet et qui étaient utilisés aux fins d’un réseau de transport à cette date ou qui ont été acquis avant cette date à de telles fins.
+
 2. Tous les biens immeubles situés en Ontario qui, directement ou indirectement, appartenaient en fief simple à Hydro One Inc. ou à une de ses filiales à la date d’effet et qui sont attenants aux biens immeubles visés à la disposition 1.
 
 ### Exceptions
@@ -5857,16 +7083,23 @@ d) régir les questions relatives à un régime de retraite prescrit ou aux nouv
 ### Effet du transfert à la Couronne
 
 114.3 (1) Le transfert effectué par l’article 114.2 lie toutes les personnes et entités et :
+
 a) est réputé ne pas constituer une violation, résiliation, répudiation ou impossibilité d’exécution d’un contrat, y compris un contrat d’assurance;
+
 b) est réputé ne pas constituer un cas de défaut ou une force majeure ni un motif pour lequel une partie à un contrat peut refuser de fournir des services aux termes de celui-ci;
+
 c) est réputé ne pas donner lieu à une violation, révocation, répudiation ou impossibilité d’exécution d’un permis, d’une autorisation ou d’un autre droit;
+
 d) est réputé ne pas donner le droit de résilier un contrat ou de révoquer un droit, notamment un permis ou une autorisation, ni le droit de les répudier;
+
 e) est réputé ne pas donner lieu à une préclusion.
 
 ### Idem
 
 (2) Le transfert effectué par l’article 114.2 n’a pas pour effet de créer une nouvelle cause d’action en faveur :
+
 a) soit du détenteur d’un titre d’emprunt émis par Hydro One Inc. avant le transfert;
+
 b) soit d’une partie à un contrat conclu avec Hydro One Inc. ou une de ses filiales avant le transfert.
 
 ### Effet du transfert sur un bail ou autre
@@ -6082,32 +7315,47 @@ b) soit d’une partie à un contrat conclu avec Hydro One Inc. ou une de ses fi
 ### Indemnisation : biens-fonds réservés aux couloirs
 
 114.16 (1) Hydro One Inc. indemnise la Couronne du chef de l’Ontario des pertes, dommages ou frais que cette dernière subit ou engage et qui :
+
 a) d’une part, découlent d’un décret, d’une ordonnance, d’un arrêté, d’un ordre, d’une directive ou d’une sentence pris, donné ou rendu en vertu d’une loi de l’Ontario ou du Canada à l’égard de biens-fonds réservés aux couloirs ou qui se rapportent à une instance portant sur de tels biens-fonds;
+
 b) d’autre part, résultent directement ou indirectement d’un acte ou d’une omission commis par une personne avant la date d’effet.
 
 ### Idem
 
 (2) Hydro One Inc. indemnise une personne ou entité à qui la Couronne du chef de l’Ontario transfère des biens-fonds réservés aux couloirs des pertes, dommages ou frais que la personne ou l’entité subit ou engage et qui :
+
 a) d’une part, découlent d’un décret, d’une ordonnance, d’un arrêté, d’un ordre, d’une directive ou d’une sentence pris, donné ou rendu en vertu d’une loi de l’Ontario ou du Canada à l’égard des biens-fonds ou qui se rapportent à une instance portant sur ces biens-fonds;
+
 b) d’autre part, résultent directement ou indirectement d’un acte ou d’une omission commis par une personne avant la date d’effet.
 
 ### Idem : titulaire du droit légal
 
 (3) La personne ou l’entité qui a le droit légal d’utiliser des biens-fonds réservés aux couloirs indemnise leur propriétaire des pertes, dommages ou frais qu’il subit ou engage et qui :
+
 a) d’une part, découlent d’un décret, d’une ordonnance, d’un arrêté, d’un ordre, d’une directive ou d’une sentence pris, donné ou rendu en vertu d’une loi de l’Ontario ou du Canada à l’égard des biens-fonds ou qui se rapportent à une instance portant sur ces biens-fonds;
+
 b) d’autre part, résultent directement ou indirectement d’un acte ou d’une omission commis, selon le cas :
+
 (i) par la personne ou l’entité,
+
 (ii) par un employé ou mandataire de la personne ou de l’entité,
+
 (iii) par une personne ou une entité qui était auparavant titulaire du droit légal d’utiliser les biens-fonds,
+
 (iv) par une autre personne ou entité que la personne ou l’entité qui est ou était auparavant titulaire du droit légal d’utiliser les biens-fonds a invitée ou autorisée à utiliser ceux-ci.
 
 ### Délégation de pouvoirs et fonctions
 
 114.17 (1) Le ministre de l’Infrastructure peut déléguer à toute personne ou entité les pouvoirs et fonctions que lui attribue l’une ou l’autre des dispositions suivantes, sous réserve des conditions qu’il impose :
+
 1. Le paragraphe 114.5 (3).
+
 2. Le paragraphe 114.8 (1) ou (6).
+
 3. Le paragraphe 114.9 (1) ou (5).
+
 4. Le paragraphe 114.13 (1).
+
 5. L’article 114.14.
 
 ### Assignation de pouvoirs et fonctions
@@ -6121,9 +7369,13 @@ b) d’autre part, résultent directement ou indirectement d’un acte ou d’un
 ### Règlements
 
 114.18 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire une ou plusieurs lois ou dispositions de loi ou de règlement pour l’application du paragraphe 114.5 (5), 114.10 (6) ou 114.13 (7);
+
 b) prescrire les coûts additionnels pour l’application du paragraphe 114.5 (9);
+
 c) prescrire les renseignements que doit comprendre l’avis donné en application du paragraphe 114.10 (3) et la manière de le donner;
+
 d) prescrire les renseignements que doit comprendre l’avis donné en application de l’article 114.11.
 
 ### Portée
@@ -6135,7 +7387,9 @@ d) prescrire les renseignements que doit comprendre l’avis donné en applicati
 ### Définitions : partie X
 
 115 Les définitions qui suivent s’appliquent à la présente partie.
+
 «décret de transfert ou de mutation» Décret pris en vertu de l’article 116. («transfer order»)
+
 «destinataire» Personne à qui des dirigeants, des employés, des éléments d’actif, des éléments de passif, des droits ou des obligations sont transférés ou mutés, selon le cas, par un décret de transfert ou de mutation. («transferee») 1998, chap. 15, annexe A, art. 115.
 
 ### Décrets de transfert ou de mutation
@@ -6157,12 +7411,19 @@ d) prescrire les renseignements que doit comprendre l’avis donné en applicati
 ### Idem
 
 (5) Malgré le paragraphe (4), le consentement du destinataire est exigé s’il s’agit d’une autre entité que celles-ci :
+
 a) Hydro One Inc. ou une de ses filiales;
+
 b) Ontario Power Generation Inc. ou une de ses filiales;
+
 c) la SIERE;
+
 d) la Commission;
+
 e) l’Office de la sécurité des installations électriques;
+
 f) la filiale de la Société financière créée aux termes de l’article 110;
+
 g) Sa Majesté du chef de l’Ontario.
 
 ### Loi de 2006 sur la législation, partie III
@@ -6184,8 +7445,11 @@ g) Sa Majesté du chef de l’Ontario.
 ### Description des personnes mutées ou des choses transférées
 
 118 Le décret de transfert ou de mutation peut décrire de l’une ou l’autre des façons suivantes les dirigeants, les employés, les éléments d’actif, les éléments de passif, les droits ou les obligations qui doivent être transférés ou mutés, selon le cas :
+
 a) par renvoi direct aux personnes qui sont mutées ou aux choses qui sont transférées;
+
 b) par renvoi aux catégories de personnes qui sont mutées ou de choses qui sont transférées;
+
 c) en partie conformément à l’alinéa a) et en partie conformément à l’alinéa b).
 
 ### Approbations prévues par la Loi sur la Société de l’électricité
@@ -6207,7 +7471,9 @@ c) en partie conformément à l’alinéa a) et en partie conformément à l’a
 ### Changements ultérieurs
 
 (4) Si un dirigeant ou un employé est muté aux termes d’un décret de transfert ou de mutation, la présente loi n’a pas pour effet :
+
 a) ni d’empêcher qu’il soit légalement mis fin à sa charge ou à son emploi après la mutation;
+
 b) ni d’empêcher une condition de la charge ou de l’emploi d’être modifiée légalement après la mutation.
 
 ### Contrepartie
@@ -6217,8 +7483,11 @@ b) ni d’empêcher une condition de la charge ou de l’emploi d’être modifi
 ### Montant de la contrepartie
 
 (2) Le décret de transfert ou de mutation peut, selon le cas :
+
 a) fixer le montant de la contrepartie;
+
 b) préciser le mode de calcul de la contrepartie;
+
 c) prévoir que le montant de la contrepartie est calculé par le ministre de Finances ou la personne qu’il désigne.
 
 ### Modalités de la contrepartie
@@ -6232,14 +7501,19 @@ c) prévoir que le montant de la contrepartie est calculé par le ministre de Fi
 ### Évaluations
 
 (5) Un décret de transfert ou de mutation peut, selon le cas :
+
 a) fixer la valeur de ce qui est visé par les transferts ou les mutations effectués aux termes du décret;
+
 b) préciser le mode de fixation de la valeur de ce qui est visé par les transferts ou les mutations effectués aux termes du décret;
+
 c) prévoir que la valeur de ce qui est visé par les transferts ou les mutations effectués aux termes du décret est fixée par le ministre des Finances ou la personne qu’il désigne.
 
 ### Prise en charge des obligations par la province
 
 122 (1) Si, aux termes d’un décret de transfert ou de mutation, Hydro One Inc. ou Ontario Power Generation Inc. émet des valeurs mobilières en faveur d’Ontario Hydro, le lieutenant-gouverneur en conseil peut, par décret :
+
 a) autoriser Sa Majesté du chef de l’Ontario ou son mandataire à prendre en charge les obligations que ces valeurs imposent à Hydro One Inc. ou à Ontario Power Generation Inc.;
+
 b) exiger de Hydro One Inc. ou d’Ontario Power Generation Inc. qu’elle émette des valeurs mobilières additionnelles selon le montant que précise le lieutenant-gouverneur en conseil et autoriser Sa Majesté du chef de l’Ontario ou son mandataire à acquérir ces valeurs.
 
 ### Échange de valeurs mobilières
@@ -6285,13 +7559,21 @@ b) exiger de Hydro One Inc. ou d’Ontario Power Generation Inc. qu’elle émet
 ### Personnes visées au par. (1)
 
 (2) Les personnes visées au paragraphe (1) sont les suivantes :
+
 1. Hydro One Inc. ou une de ses filiales.
+
 2. Ontario Power Generation Inc. ou une de ses filiales.
+
 3. La SIERE.
+
 4. La Commission.
+
 5. La filiale de la Société financière créée aux termes de l’article 110.
+
 6. Sa Majesté du chef de l’Ontario.
+
 7. L’Office de la sécurité des installations électriques.
+
 8. Les autres personnes que prescrivent les règlements.
 
 ### Aucun nouvel intérêt
@@ -6305,13 +7587,17 @@ b) exiger de Hydro One Inc. ou d’Ontario Power Generation Inc. qu’elle émet
 ### Définitions
 
 (5) Les définitions qui suivent s’appliquent au présent article.
+
 «bien-fonds» Bien-fonds, y compris les tènements, les héritages et les dépendances, ou tout domaine ou intérêt qui s’y rattache. («land»)
+
 «document enregistré» Document enregistré ou déposé en vertu de la Loi sur l’enregistrement des actes ou enregistré en vertu de la Loi sur l’enregistrement des droits immobiliers. («registered document») 1998, chap. 15, annexe A, par. 124 (5).
 
 ### Accords
 
 125 (1) Le décret de transfert ou de mutation peut exiger d’Ontario Hydro ou d’un destinataire ce qui suit :
+
 a) la conclusion de l’accord écrit ou la passation de l’instrument que précise le décret, le cas échéant;
+
 b) l’enregistrement, conformément au décret, de tout accord conclu ou instrument passé aux termes de l’alinéa a).
 
 ### Exception
@@ -6321,9 +7607,13 @@ b) l’enregistrement, conformément au décret, de tout accord conclu ou instru
 ### Exécution
 
 126 (1) Le décret de transfert ou de mutation peut prévoir ce qui suit :
+
 a) toute obligation transférée par le décret peut être exécutée à l’encontre d’Ontario Hydro ou du destinataire, ou des deux;
+
 b) Ontario Hydro ou le destinataire, ou les deux, peuvent faire valoir tout droit transféré par le décret;
+
 c) toute obligation transférée par le décret peut l’être à un ou à plusieurs destinataires à titre conjoint et individuel, selon ce que précise le décret;
+
 d) toute obligation transférée par le décret peut être répartie entre deux destinataires ou plus de la manière précisée dans le décret.
 
 ### Décharge d’Ontario Hydro
@@ -6341,12 +7631,19 @@ d) toute obligation transférée par le décret peut être répartie entre deux 
 ### Exclusion de certains droits
 
 129 (1) Les transferts ou les mutations effectués aux termes d’un décret de transfert ou de mutation :
+
 a) sont réputés ne pas constituer :
+
 (i) une violation, résiliation, répudiation ou impossibilité d’exécution d’un contrat, y compris un contrat de travail ou d’assurance,
+
 (ii) une violation de quelque loi, règlement ou règlement municipal que ce soit,
+
 (iii) un cas de défaut ou une force majeure;
+
 b) sont réputés ne pas donner lieu à une violation, révocation, répudiation ou impossibilité d’exécution d’un permis, d’une autorisation ou d’un autre droit;
+
 c) sont réputés ne pas donner le droit de résilier un contrat ou de révoquer un droit, notamment un permis ou une autorisation, ni le droit de les répudier;
+
 d) sont réputés ne pas donner lieu à une préclusion.
 
 ### Exclusions
@@ -6356,7 +7653,9 @@ d) sont réputés ne pas donner lieu à une préclusion.
 ### Aucun nouveau droit d’action
 
 130 Sous réserve du paragraphe 129 (2), ni la présente loi ni quoi que ce soit qui est fait aux termes d’un décret de transfert ou de mutation n’a pour effet de créer une nouvelle cause d’action en faveur :
+
 a) soit du détenteur d’un titre d’emprunt émis par Ontario Hydro et garanti par la province de l’Ontario avant l’entrée en vigueur du présent article;
+
 b) soit d’une partie à un contrat conclu avec Ontario Hydro avant l’entrée en vigueur du présent article.
 
 ### Conditions d’exercice des pouvoirs
@@ -6390,13 +7689,17 @@ b) soit d’une partie à un contrat conclu avec Ontario Hydro avant l’entrée
 ### Pensions
 
 137 (1) Les décrets de transfert ou de mutation ne doivent contenir aucune disposition se rapportant :
+
 a) soit au Régime de retraite et d’assurance d’Ontario Hydro ou à la Caisse de retraite et d’assurance d’Ontario Hydro, visés à l’article 24 de la Loi sur la Société de l’électricité, tels qu’ils sont maintenus par la partie VII de la présente loi;
+
 b) soit aux prestations de retraite et aux prestations accessoires au sens de la Loi sur les régimes de retraite qui sont prévues par un régime de retraite à l’égard des dirigeants ou des employés qui sont mutés aux termes de tels décrets.
 
 ### Exception
 
 (2) Malgré l’alinéa (1) a), les décrets de transfert ou de mutation peuvent contenir des dispositions se rapportant aux questions suivantes :
+
 1. Les prestations d’invalidité et la protection d’assurance-vie visées au paragraphe 98 (7) et la somme visée au paragraphe 98 (8).
+
 2. Les obligations liées à une instance, même éventuelle, se rapportant au Régime de retraite et d’assurance d’Ontario Hydro et à la Caisse de retraite et d’assurance d’Ontario Hydro ou se rapportant au Régime de retraite de la Société financière Ontario Hydro et à sa caisse de retraite.
 
 ### Autres décrets de transfert ou de mutation
@@ -6408,8 +7711,11 @@ b) soit aux prestations de retraite et aux prestations accessoires au sens de la
 ### Éléments d’actif et de passif de la société financière
 
 (1.1) Le lieutenant-gouverneur en conseil peut, par décret, transférer les éléments d’actif, les éléments de passif, les droits et les obligations suivants à Hydro One Inc., à Ontario Power Generation Inc., à la SIERE, à l’Office de la sécurité des installations électriques ou à toute autre personne :
+
 1. Les éléments d’actif, les éléments de passif, les droits et les obligations du Régime de retraite et d’assurance d’Ontario Hydro et de la Caisse de retraite et d’assurance d’Ontario Hydro ou y afférents.
+
 2. Les éléments d’actif, les éléments de passif, les droits et les obligations du Régime de retraite de la Société financière Ontario Hydro et de la Caisse de retraite de la Société financière Ontario Hydro ou y afférents.
+
 3. Les éléments d’actif, les éléments de passif, les droits et les obligations de la Société financière liés à un acte ou à une omission qu’elle commet relativement à ses droits ou obligations prévus par la partie VII ou qu’une autre personne commet relativement à ses droits ou obligations prévus par cette partie.
 
 ### Restriction de la portée du décret
@@ -6419,8 +7725,11 @@ b) soit aux prestations de retraite et aux prestations accessoires au sens de la
 ### Application de la présente partie
 
 (2) La présente partie, à l’exception de l’article 137, s’applique, avec les adaptations nécessaires, aux décrets pris en vertu du paragraphe (1) ou (1.1) et, à cette fin :
+
 a) la mention dans la présente partie d’un décret de transfert ou de mutation est réputée une mention d’un décret pris en vertu du paragraphe (1) ou (1.1), selon le cas;
+
 b) la mention dans la présente partie d’Ontario Hydro relativement à un décret pris en vertu du paragraphe (1) est réputée une mention de la filiale de la Société financière créée aux termes de l’article 110;
+
 c) la mention dans la présente partie d’Ontario Hydro relativement à un décret pris en vertu du paragraphe (1.1) est réputée une mention de la Société financière.
 
 ### Responsabilité de la province
@@ -6430,10 +7739,15 @@ c) la mention dans la présente partie d’Ontario Hydro relativement à un déc
 ### Règlements : partie X
 
 140 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) compléter les dispositions de la présente partie et régir le transfert ou la mutation, selon le cas, de dirigeants, d’employés, d’éléments d’actif, d’éléments de passif, de droits et d’obligations aux termes de la présente partie;
+
 a.1) prescrire une date pour l’application du paragraphe 122 (6);
+
 b) prescrire des personnes pour l’application de la disposition 8 du paragraphe 124 (2);
+
 c) prescrire les contrats ou catégories de contrats auxquels ne s’applique pas le paragraphe 129 (1), sous réserve des conditions ou restrictions que prescrivent les règlements;
+
 d) prescrire les lois ou dispositions de lois qui ne s’appliquent pas à un transfert ou à une mutation pour l’application de l’article 135, sous réserve des conditions ou restrictions que prescrivent les règlements.
 
 ### Portée
@@ -6445,14 +7759,19 @@ d) prescrire les lois ou dispositions de lois qui ne s’appliquent pas à un tr
 ### Dispositions interprétatives : partie XI
 
 141 (1) Les définitions qui suivent s’appliquent à la présente partie.
+
 «auteur» La municipalité, la commission ou l’autre organisme dont des employés, des éléments d’actif, des éléments de passif, des droits ou des obligations sont transférés ou mutés conformément à un règlement municipal de transfert ou de mutation. («transferor»)
+
 «destinataire» La personne morale constituée en vertu de la Loi sur les sociétés par actions conformément à l’article 142. («transferee»)
+
 «règlement municipal de transfert ou de mutation» Règlement municipal adopté en vertu de l’article 145. («transfer by-law») 1998, chap. 15, annexe A, par. 141 (1).
 
 ### Idem
 
 (2) Pour l’application de la présente partie, une municipalité produit, transporte, distribue ou vend au détail de l’électricité indirectement si elle exerce l’une ou l’autre de ces activités par l’intermédiaire :
+
 a) soit d’une commission créée en vertu de la Loi sur les services publics ou d’une autre loi générale ou spéciale;
+
 b) soit d’un autre organisme, quel qu’en soit le mode de création.
 
 ### Constitution d’entreprises d’électricité par les municipalités
@@ -6482,12 +7801,15 @@ b) soit d’un autre organisme, quel qu’en soit le mode de création.
 ### Non un conseil local
 
 (6) La personne morale constituée conformément au présent article est réputée ne pas être un conseil local, une commission de services publics ou une commission hydroélectrique pour l’application de quelque loi que ce soit.
+
 (7) Abrogé : 2004, chap. 23, annexe A, art. 57.
 
 ### Pas de nouvelles commissions
 
 143 Sous réserve de l’article 142, aucune municipalité ne doit, après l’entrée en vigueur de cet article, selon le cas :
+
 a) créer une commission ou un autre organisme pour produire, transporter, distribuer ou vendre au détail de l’électricité;
+
 b) autoriser une commission ou un autre organisme qui a été créé avant l’entrée en vigueur de cet article à produire, transporter, distribuer ou vendre au détail de l’électricité, si cette commission ou cet autre organisme n’était pas autorisé à exercer cette activité immédiatement avant l’entrée en vigueur de cet article.
 
 ### Restriction
@@ -6497,12 +7819,15 @@ b) autoriser une commission ou un autre organisme qui a été créé avant l’e
 ### Exception : installations de production d’énergie renouvelable
 
 (2) Malgré le paragraphe (1) et l’article 143, une municipalité, une commission de services municipaux, une commission municipale ou une société de services municipaux peut, sous réserve des règles prescrites, produire de l’électricité autrement que par l’intermédiaire d’une société constituée en vertu de la Loi sur les sociétés par actions si, selon le cas :
+
 a) l’installation de production est une installation de production d’énergie renouvelable dont la capacité ne dépasse pas 10 mégawatts ou l’autre capacité prescrite par les règlements;
+
 b) l’installation de production remplit les critères prescrits.
 
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «société de services municipaux» Personne morale créée par une municipalité en vertu de l’article 203 de la Loi de 2001 sur les municipalités ou de l’article 148 de la Loi de 2006 sur la cité de Toronto.
 
 ### Règlements municipaux de transfert ou de mutation
@@ -6528,8 +7853,11 @@ b) l’installation de production remplit les critères prescrits.
 ### Description des personnes mutées ou des choses transférées
 
 146 Le règlement municipal de transfert ou de mutation peut décrire de l’une ou l’autre des façons suivantes les employés, les éléments d’actif, les éléments de passif, les droits ou les obligations qui doivent être transférés ou mutés, selon le cas :
+
 a) par renvoi direct aux personnes qui sont mutées ou aux choses qui sont transférées;
+
 b) par renvoi aux catégories de personnes qui sont mutées ou de choses qui sont transférées;
+
 c) en partie conformément à l’alinéa a) et en partie conformément à l’alinéa b).
 
 ### Employés
@@ -6547,13 +7875,17 @@ c) en partie conformément à l’alinéa a) et en partie conformément à l’a
 ### Changements ultérieurs
 
 (4) Si un employé est muté aux termes d’un règlement municipal de transfert ou de mutation, la présente loi n’a pas pour effet :
+
 a) ni d’empêcher qu’il soit légalement mis fin à son emploi après la mutation;
+
 b) ni d’empêcher une condition de l’emploi d’être modifiée légalement après la mutation.
 
 ### Fonds de réserve
 
 148 (1) Si des employés ou des éléments d’actif sont transférés ou mutés, selon le cas, aux termes d’un règlement municipal de transfert ou de mutation, celui-ci ou un autre règlement municipal de transfert ou de mutation transfère au destinataire :
+
 a) la partie de tout fonds de réserve créé aux termes de l’article 33 de la Loi de 1997 sur les redevances d’aménagement qui se rapporte aux redevances d’aménagement perçues à l’égard des services d’électricité;
+
 b) la partie de tout fonds de réserve visé à l’article 63 de la Loi de 1997 sur les redevances d’aménagement qui se rapporte aux redevances d’aménagement perçues à l’égard des services d’électricité.
 
 ### Affectation des sommes transférées
@@ -6571,8 +7903,11 @@ b) la partie de tout fonds de réserve visé à l’article 63 de la Loi de 1997
 ### Montant de la contrepartie
 
 (2) Le règlement municipal de transfert ou de mutation peut, selon le cas :
+
 a) fixer le montant de la contrepartie;
+
 b) préciser le mode de calcul de la contrepartie;
+
 c) prévoir que le montant de la contrepartie est calculé par la personne que désigne le règlement municipal.
 
 ### Modalités de la contrepartie
@@ -6586,8 +7921,11 @@ c) prévoir que le montant de la contrepartie est calculé par la personne que d
 ### Évaluations
 
 (5) Un règlement municipal de transfert ou de mutation peut, selon le cas :
+
 a) fixer la valeur de ce qui est visé par les transferts ou les mutations effectués aux termes du règlement municipal;
+
 b) préciser le mode de fixation de la valeur de ce qui est visé par les transferts ou les mutations effectués aux termes du règlement municipal;
+
 c) prévoir que la valeur de ce qui est visé par les transferts ou les mutations effectués aux termes du règlement municipal est fixée par la personne qui y est désignée.
 
 ### Date d’effet
@@ -6621,19 +7959,25 @@ c) prévoir que la valeur de ce qui est visé par les transferts ou les mutation
 ### Définitions
 
 (4) Les définitions qui suivent s’appliquent au présent article.
+
 «bien-fonds» Bien-fonds, y compris les tènements, les héritages et les dépendances, ou tout domaine ou intérêt qui s’y rattache. («land»)
+
 «document enregistré» Document enregistré ou déposé en vertu de la Loi sur l’enregistrement des actes ou enregistré en vertu de la Loi sur l’enregistrement des droits immobiliers. («registered document») 1998, chap. 15, annexe A, par. 151 (4).
 
 ### Accords
 
 152 Le règlement municipal de transfert ou de mutation peut exiger de l’auteur ou du destinataire ce qui suit :
+
 a) la conclusion de l’accord écrit ou la passation de l’instrument que précise le règlement municipal, le cas échéant;
+
 b) l’enregistrement, conformément au règlement municipal, de tout accord conclu ou instrument passé aux termes de l’alinéa a).
 
 ### Exécution
 
 153 (1) Le règlement municipal de transfert ou de mutation peut prévoir ce qui suit :
+
 a) toute obligation qui est transférée par le règlement municipal peut être exécutée à l’encontre de l’auteur ou du destinataire, ou des deux;
+
 b) l’auteur ou le destinataire, ou les deux, peuvent faire valoir tout droit qui est transféré par le règlement municipal.
 
 ### Décharge de l’auteur
@@ -6651,12 +7995,19 @@ b) l’auteur ou le destinataire, ou les deux, peuvent faire valoir tout droit q
 ### Exclusion de certains droits
 
 156 (1) Les transferts ou les mutations effectués aux termes d’un règlement municipal de transfert ou de mutation :
+
 a) sont réputés ne pas constituer :
+
 (i) une violation, résiliation, répudiation ou impossibilité d’exécution d’un contrat, y compris un contrat de travail ou d’assurance,
+
 (ii) une violation de quelque loi, règlement ou règlement municipal que ce soit,
+
 (iii) un cas de défaut ou une force majeure;
+
 b) sont réputés ne pas donner lieu à une violation, révocation, répudiation ou impossibilité d’exécution d’un permis, d’une autorisation ou d’un autre droit;
+
 c) sont réputés ne pas donner le droit de résilier un contrat ou de révoquer un droit, notamment un permis ou une autorisation, ni le droit de les répudier;
+
 d) sont réputés ne pas donner lieu à une préclusion.
 
 ### Exclusions
@@ -6674,15 +8025,21 @@ d) sont réputés ne pas donner lieu à une préclusion.
 ### Exemption de l’application de certaines lois
 
 159 La Loi sur les droits de cession immobilière, la Loi sur la taxe de vente au détail et toute autre loi ou disposition que prescrivent les règlements ne s’appliquent pas au transfert ou à la mutation d’employés, d’éléments d’actif, d’éléments de passif, de droits ou d’obligations aux termes d’un règlement municipal de transfert ou de mutation.
+
 159.1 Abrogé : 2004, chap. 23, annexe A, art. 58.
+
 159.2 Abrogé : 2004, chap. 23, annexe A, art. 59.
+
 159.3 Abrogé : 2004, chap. 23, annexe A, art. 60.
 
 ### Règlements : partie XI
 
 160 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) compléter les dispositions de la présente partie et régir le transfert ou la mutation, selon le cas, d’employés, d’éléments d’actif, d’éléments de passif, de droits et d’obligations aux termes de la présente partie;
+
 b) prescrire les contrats ou catégories de contrats auxquels ne s’applique pas le paragraphe 156 (1), sous réserve des conditions ou restrictions que prescrivent les règlements;
+
 c) prescrire les lois ou dispositions de lois qui ne s’appliquent pas à un transfert ou à une mutation pour l’application de l’article 159, sous réserve des conditions ou restrictions que prescrivent les règlements.
 
 ### Portée
@@ -6702,14 +8059,19 @@ c) prescrire les lois ou dispositions de lois qui ne s’appliquent pas à un tr
 ### Définitions : partie XI.1
 
 161.1 Les définitions qui suivent s’appliquent à la présente partie.
+
 «auteur» La personne dont des éléments d’actif ou de passif, des droits ou des obligations sont transférés par un décret de transfert. («transferor»)
+
 «décret de transfert» Décret pris en vertu de l’article 161.2. («transfer order»)
+
 «destinataire» Personne à qui des éléments d’actif ou de passif, des droits ou des obligations sont transférés par un décret de transfert. («transferee») 2004, chap. 23, annexe A, art. 61.
 
 ### Décrets de transfert
 
 161.2 (1) Le lieutenant-gouverneur en conseil peut, par décret, transférer ce qui suit :
+
 1. Des éléments d’actif ou de passif, des droits et des obligations de la SIERE à la Commission en ce qui concerne la surveillance du marché et le comité de surveillance du marché.
+
 2. Des éléments d’actif ou de passif, des droits et des obligations de la SIERE à l’OEO en ce qui concerne les prévisions à moyen et à long terme de la demande d’électricité ainsi que de la suffisance et de la fiabilité des ressources en électricité.
 
 ### Obligation des parties
@@ -6731,15 +8093,23 @@ c) prescrire les lois ou dispositions de lois qui ne s’appliquent pas à un tr
 ### Règlements
 
 161.4 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) compléter les dispositions de la présente partie et régir le transfert d’éléments d’actif ou de passif, de droits et d’obligations aux termes de la présente partie;
+
 b) prescrire les contrats ou catégories de contrats auxquels ne s’applique pas le paragraphe 129 (1), tel qu’il s’applique aux termes de l’article 161.3, sous réserve des conditions ou restrictions que prescrivent les règlements;
+
 c) prescrire les lois ou dispositions de lois qui ne s’appliquent pas à un transfert ou à une mutation pour l’application de l’article 135, tel qu’il s’applique aux termes de l’article 161.3, sous réserve des conditions ou restrictions que prescrivent les règlements;
+
 d) exiger de la SIERE, de l’OEO et de la Commission qu’ils concluent des contrats à l’égard de la fourniture de services et de toute autre question que le lieutenant-gouverneur en conseil estime nécessaire ou souhaitable afin d’aider :
+
 (i) la Commission et le comité de surveillance du marché en ce qui concerne la surveillance des marchés administrés par la SIERE,
+
 (ii) l’OEO en ce qui concerne les prévisions à moyen et à long terme de la demande d’électricité ainsi que de la suffisance et de la fiabilité des ressources en électricité.
 
 ### Portée
 
 (2) Les règlements pris en application du présent article peuvent avoir une portée générale ou particulière.
+
 162 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 163 Omis (édicte le titre abrégé de la présente loi).

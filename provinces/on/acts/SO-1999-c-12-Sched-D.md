@@ -6,20 +6,22 @@ language: en
 type: act
 document_date: "2011-12-31"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99s12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Settlement of International Investment Disputes Act, 1999
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99s12) before relying on it.
 
 S.O. 1999, c. 12, Sched. D
 
 ### Definitions
 
 1 (1) In this Act,
+
 “award” means an award rendered by the Arbitral Tribunal, established by Article 37 of the Convention, and includes an interpretation, revision or annulment of the award under the Convention; (“sentence”)
+
 “Convention” means the Convention on the Settlement of Investment Disputes between States and Nationals of other States, opened for signature in Washington on March 18, 1965. (“Convention”)
 
 ### Meaning of words and expressions
@@ -73,13 +75,17 @@ S.O. 1999, c. 12, Sched. D
 ### Conciliation
 
 11 Except as the parties otherwise agree, neither party to conciliation proceedings is entitled in any other proceedings, whether before a court of law, an administrative tribunal or arbitrators or otherwise, to use,
+
 (a) any views expressed or statements, admissions or offers of settlement made by the other party in the conciliation proceedings; or
+
 (b) the report or any recommendations made by the Conciliation Commission.
 
 ### Regulations
 
 12 The Lieutenant Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including,
+
 (a) prescribing the terms and conditions under which the Crown in right of Ontario may enter into an agreement recording consent to arbitration proceedings under the Convention;
+
 (b) exempting any person or class of persons from the application of an enactment or any of its provisions, on such conditions as may be specified in the regulations, to permit them to act in a professional capacity in an arbitration or conciliation proceeding.
 
 ### Application of Convention
@@ -89,5 +95,7 @@ S.O. 1999, c. 12, Sched. D
 ### Regulation
 
 (2) The Lieutenant Governor in Council may make a regulation to state when the Convention applies in Ontario (in which case the text of the Convention shall be set out in the regulation).
+
 14 Omitted (provides for coming into force of provisions of this Act).
+
 15 Omitted (enacts short title of this Act).

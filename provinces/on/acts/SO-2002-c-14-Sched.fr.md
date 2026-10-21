@@ -6,32 +6,46 @@ language: fr
 type: act
 document_date: "2005-03-09"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02d14"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # déclarations de décès (Loi de 2002 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02d14) before relying on it.
 
 L.O. 2002, chap. 14, annexe
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «conjoint» S’entend :
+
 a) soit d’un conjoint au sens de l’article 1 de la Loi sur le droit de la famille ;
+
 b) soit de l’une ou l’autre de deux personnes qui vivent ensemble dans une union conjugale hors du mariage. («spouse»)
+
 «personne intéressée» Quiconque est ou serait touché par une ordonnance déclarant qu’un particulier est décédé, notamment :
+
 a) une personne désignée comme exécuteur testamentaire ou fiduciaire de la succession dans le testament du particulier;
+
 b) une personne qui peut avoir le droit de présenter une requête pour se faire nommer administrateur de la succession non testamentaire du particulier;
+
 c) le conjoint du particulier;
+
 d) le plus proche parent du particulier;
+
 e) le tuteur du particulier ou son procureur au soin ou aux biens nommé en vertu de la Loi de 1992 sur la prise de décisions au nom d’autrui ;
+
 f) une personne qui a en sa possession des biens qui appartiennent au particulier;
+
 g) s’il existe un contrat d’assurance-vie ou d’assurance collective qui assure la vie du particulier :
+
 (i) l’assureur,
+
 (ii) tout auteur éventuel d’une demande de règlement désigné dans le contrat;
+
 h) si le particulier a été déclaré absent en vertu de la Loi sur les absents, son curateur aux biens. («interested person») 2002, chap. 14, annexe, art. 1
 
 ### Ordonnance : déclaration de décès
@@ -41,7 +55,9 @@ h) si le particulier a été déclaré absent en vertu de la Loi sur les absents
 ### Avis
 
 (2) L’avis visé au paragraphe (1) :
+
 a) est donné au moins 30 jours avant la présentation de la requête au tribunal, si un assureur le donne ou le reçoit;
+
 b) est donné selon ce que prévoient les règles de pratique, si un assureur ne le donne pas ni ne le reçoit.
 
 ### Pouvoir du tribunal
@@ -51,25 +67,37 @@ b) est donné selon ce que prévoient les règles de pratique, si un assureur ne
 ### Disparition lors d’un péril
 
 (4) Le présent paragraphe s’applique si les conditions suivantes sont réunies :
+
 a) le particulier a disparu lors d’un péril;
+
 b) le requérant n’a reçu, directement ou indirectement, aucune nouvelle du particulier depuis sa disparition;
+
 c) le requérant s’étant enquis raisonnablement, aucune autre personne, à sa connaissance, n’a reçu, directement ou indirectement, des nouvelles du particulier depuis sa disparition;
+
 d) le requérant n’a aucune raison de croire que le particulier est vivant;
+
 e) il existe des preuves suffisantes pour conclure que le particulier est décédé.
 
 ### Absence de sept ans
 
 (5) Le présent paragraphe s’applique si les conditions suivantes sont réunies :
+
 a) le particulier est absent depuis au moins sept ans;
+
 b) le requérant n’a reçu, directement ou indirectement, aucune nouvelle du particulier pendant cette période de sept ans;
+
 c) le requérant s’étant enquis raisonnablement, aucune autre personne, à sa connaissance, n’a reçu, directement ou indirectement, des nouvelles du particulier pendant cette période de sept ans;
+
 d) le requérant n’a aucune raison de croire que le particulier est vivant;
+
 e) il existe des preuves suffisantes pour conclure que le particulier est décédé.
 
 ### Portée de l’ordonnance
 
 (6) La déclaration de décès s’applique à toutes fins, à moins que le tribunal :
+
 a) d’une part, ne décide qu’elle devrait s’appliquer à certaines fins seulement;
+
 b) d’autre part, ne précise ces fins dans l’ordonnance.
 
 ### Idem
@@ -79,7 +107,9 @@ b) d’autre part, ne précise ces fins dans l’ordonnance.
 ### Date du décès
 
 (8) L’ordonnance indique la date du décès, qui est :
+
 a) la date à laquelle la personne est décédée selon les preuves, si le paragraphe (4) s’applique;
+
 b) la date de la requête, si le paragraphe (5) s’applique.
 
 ### Idem
@@ -113,7 +143,9 @@ b) la date de la requête, si le paragraphe (5) s’applique.
 ### Avis
 
 (5) L’avis visé au paragraphe (1), (2) ou (3) :
+
 a) est donné au moins 30 jours avant la présentation de la motion, si un assureur le donne ou le reçoit;
+
 b) est donné selon ce que prévoient les règles de pratique, si un assureur ne le donne pas ni ne le reçoit.
 
 ### Pouvoir du tribunal
@@ -159,8 +191,11 @@ b) est donné selon ce que prévoient les règles de pratique, si un assureur ne
 ### Biens non distribués
 
 (7) Les biens qui n’ont pas été distribués lorsqu’il est découvert que le particulier est vivant, à la fois :
+
 a) demeurent les biens du particulier;
+
 b) sont détenus en fiducie en application de la Loi sur les fiduciaires ;
+
 c) sont rendus selon ce qu’ordonne le tribunal.
 
 ### Obligation éteinte par paiement ou distribution
@@ -170,6 +205,9 @@ c) sont rendus selon ce qu’ordonne le tribunal.
 ### Appels
 
 8 Toute personne intéressée peut interjeter appel devant la Cour divisionnaire d’une ordonnance rendue en vertu de la présente loi.
+
 9 à 12 Omis (modifie ou abroge d’autres lois).
+
 13 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 14 Omis (édicte le titre abrégé de la présente loi).

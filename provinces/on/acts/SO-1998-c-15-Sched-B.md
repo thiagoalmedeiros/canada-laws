@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98o15"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Energy Board Act, 1998
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98o15) before relying on it.
 
 S.O. 1998, c. 15, Sched. B
 
@@ -21,24 +21,39 @@ S.O. 1998, c. 15, Sched. B
 ### Board objectives, electricity
 
 1 (1) The Board, in carrying out its responsibilities under this or any other Act in relation to electricity, shall be guided by the following objectives:
+
 1. To inform consumers and protect their interests with respect to prices and the adequacy, reliability and quality of electricity service.
+
 1.1 Repealed: 2019, c. 6, Sched. 2, s. 1.
+
 2. To promote economic efficiency and cost effectiveness in the generation, transmission, distribution, sale and demand management of electricity and to facilitate the maintenance of a financially viable electricity industry.
+
 2.1 To regulate the electricity sector in a manner that supports economic growth, consistent with the policies of the Government of Ontario.
+
 3. To promote electricity conservation and demand management in a manner consistent with the policies of the Government of Ontario, including having regard to the consumer’s economic circumstances.
+
 4. To facilitate innovation in the electricity sector.
+
 5. Repealed: 2020, c. 36, Sched. 34, s. 1.
+
 (2) Repealed: 2016, c. 10, Sched. 2, s. 11.
 
 ### Board objectives, gas
 
 2 The Board, in carrying out its responsibilities under this or any other Act in relation to gas, shall be guided by the following objectives:
+
 1. To facilitate competition in the sale of gas to users.
+
 2. To inform consumers and protect their interests with respect to prices and the reliability and quality of gas service.
+
 3. To facilitate rational expansion of transmission and distribution systems.
+
 4. To facilitate rational development and safe operation of gas storage.
+
 5. To promote energy conservation and energy efficiency in accordance with the policies of the Government of Ontario, including having regard to the consumer’s economic circumstances.
+
 5.1 To facilitate the maintenance of a financially viable gas industry for the transmission, distribution and storage of gas.
+
 6. To promote communication within the gas industry.
 
 ### Board objectives
@@ -48,71 +63,137 @@ S.O. 1998, c. 15, Sched. B
 ### Definitions
 
 3 (1) In this Act,
+
 “affiliate”, with respect to a corporation, has the same meaning as in the Business Corporations Act; (“membre du même groupe”)
+
 “associate”, where used to indicate a relationship with any person, means,
+
 (a) any body corporate of which the person owns, directly or indirectly, voting securities carrying more than 50 per cent of the voting rights attached to all voting securities of the body corporate for the time being outstanding,
+
 (b) any partner of that person,
+
 (c) any trust or estate in which the person has a substantial beneficial interest or as to which the person serves as trustee or in a similar capacity,
+
 (d) any relative of the person, including the person’s spouse as defined in the Business Corporations Act, where the relative has the same home as the person, or
+
 (e) any relative of the spouse, as defined in the Business Corporations Act, of the person, where the relative has the same home as the person; (“personne qui a un lien”)
+
 “Board” means the Ontario Energy Board; (“Commission”)
+
 “board of directors” means the board of directors of the Board set out under section 4.1; (“conseil d’administration”)
+
 “chief commissioner” means the commissioner who is chief commissioner under section 4.3; (“commissaire en chef”)
+
 “chief executive officer” means the chief executive officer under section 4.2; (“chef de la direction”)
+
 “commissioner” means a commissioner under section 4.3; (“commissaire”)
+
 “construct” means construct, reconstruct, relocate, enlarge or extend; (“construire”)
+
 “distribute”, with respect to electricity, means to convey electricity at voltages of 50 kilovolts or less; (“distribuer”)
+
 “distribution system” means a system for distributing electricity, and includes any structures, equipment or other things used for that purpose; (“réseau de distribution”)
+
 “distributor” means a person who owns or operates a distribution system; (“distributeur”)
+
 “enforceable provision” means,
+
 (a) a provision of this Act or the regulations,
+
 (b) a provision of Part II of the Energy Consumer Protection Act, 2010 or of the regulations made under it,
+
 (c) a provision of Part III of the Energy Consumer Protection Act, 2010 or of the regulations made under it,
+
 (c.1) a provision of a regulation made under Part III.1 of the Energy Consumer Protection Act, 2010,
+
 (c.2) a provision of the Ontario Rebate for Electricity Consumers Act, 2016 or the regulations made under it,
+
 (c.2.1) section 28.1 of the Electricity Act, 1998 or a provision of a regulation made under that section,
+
 (c.3) section 25.35.8 of the Electricity Act, 1998 or a provision of a regulation made under that section,
+
 (d) subsection 5 (4), (5), (6) or (7) or section 25.33, 25.36, 25.37, 26, 27, 28, 28.1, 29, 30.1, 31, 53.11, 53.13, 53.15, 53.16 or 53.18 of the Electricity Act, 1998, or any other provision of that Act that is prescribed by the regulations,
+
 (e) regulations made under clause 114 (1.3) (f) or (h) of the Electricity Act, 1998,
+
 (f) a condition of a licence issued under Part IV, V or V.1,
+
 (g) a provision of the rules made under section 44 or a code issued under section 70.1,
+
 (h) a provision of an order of the Board,
+
 (i) a provision of an assurance of voluntary compliance that is given to the Board under section 112.7 or that was entered into under section 88.8 before that section was repealed, or
+
 (j) a provision of any other Act or the regulations made under an Act, as may be prescribed by regulation; (“disposition exécutoire”)
+
 “fuel oil” means any liquid hydrocarbon within the meaning from time to time of the Canadian General Standards Board specification CAN/CGSB-3.2-M89 entitled FUEL OIL HEATING, CAN/CGSB-3.3-M89 entitled KEROSENE, CAN/CGSB-3.6-M90 entitled AUTOMOTIVE DIESEL FUEL or, when used for heating, cooking or lighting, within the meaning from time to time of CAN/CGSB-3.27-M89 entitled NAPHTHA FUEL; (“mazout”)
+
 “gas” means natural gas, substitute natural gas, synthetic gas, manufactured gas, propane-air gas or any mixture of any of them; (“gaz”)
+
 “gas distributor” means a person who delivers gas to a consumer and “distribute” and “distribution” have corresponding meanings; (“distributeur de gaz”, “distribuer”, “distribution”)
+
 “gas transmitter” means a person who carries gas by hydrocarbon transmission line, and “transmit” and “transmission” have corresponding meanings; (“transporteur de gaz”, “transporter”, “transport”)
+
 “generic hearing” means a hearing held under subsection 19 (4) to determine one or more matters pertaining to multiple persons or entities whose activities are regulated by the Board under this Act; (“audience générique”)
+
 “IESO” means the Independent Electricity System Operator established under the Electricity Act, 1998; (“SIERE”)
+
 “land” includes any interest in land; (“bien-fonds”)
+
 “manufactured gas” means any artificially produced fuel gas, except acetylene and any other gas used principally in welding or cutting metals; (“gaz manufacturé”)
+
 “members of the Board” means the individuals who compose the Board under subsection 4 (5); (“membres de la Commission”)
+
 “Minister” means the Minister of Energy or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “oil” means crude oil, and includes any hydrocarbon that can be recovered in liquid form from a pool through a well; (“pétrole”)
+
 “pipe line” means a pipe that carries a hydrocarbon and includes every part of the pipe and adjunct thereto; (“pipeline”)
+
 “pool” means an underground accumulation of oil or natural gas or both, separated or appearing to be separated from any other such underground accumulation; (“gisement”)
+
 “producer” means a person who has the right to remove gas or oil from a well, and “produce” and “production” have corresponding meanings except when referring to documents or records; (“producteur”, “produire”, “production”)
+
 “propane” means a hydrocarbon consisting of 95 per cent or more of propane, propylene, butane or butylene, or any blend thereof; (“propane”)
+
 “rate” means a rate, charge or other consideration and includes a penalty for late payment; (“tarif”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “renewable energy generation facility” has the same meaning as in the Electricity Act, 1998; (“installation de production d’énergie renouvelable”)
+
 “renewable energy source” has the same meaning as in the Electricity Act, 1998; (“source d’énergie renouvelable”)
+
 “smart grid” has the same meaning as in the Electricity Act, 1998; (“réseau intelligent”)
+
 “Smart Metering Entity” means the corporation incorporated, the limited partnership or the partnership formed or the entity designated pursuant to section 53.7 of the Electricity Act, 1998; (“Entité responsable des compteurs intelligents”)
+
 “smart metering initiative” means those policies of the Government of Ontario related to its decision to ensure Ontario electricity consumers are provided, over time, with smart meters; (“initiative des compteurs intelligents”)
+
 “station” means a compressor station, a metering station, an odorizing station or a regulating station; (“station”)
+
 “storage company” means a person engaged in the business of storing gas; (“compagnie de stockage”)
+
 “suite meter” has the same meaning as in Part III of the Energy Consumer Protection Act, 2010; (“compteur individuel”)
+
 “transmission system” means a system for transmitting electricity, and includes any structures, equipment or other things used for that purpose; (“réseau de transport”)
+
 “transmit”, with respect to electricity, means to convey electricity at voltages of more than 50 kilovolts; (“transporter”)
+
 “transmitter” means a person who owns or operates a transmission system; (“transporteur”)
+
 “unit smart metering” has the same meaning as in Part III of the Energy Consumer Protection Act, 2010; (“activités liées aux compteurs intelligents d’unité”)
+
 “unit smart meter provider” has the same meaning as in Part III of the Energy Consumer Protection Act, 2010; (“fournisseur de compteurs intelligents d’unité”)
+
 “unit sub-metering” has the same meaning as in Part III of the Energy Consumer Protection Act, 2010; (“activités liées aux compteurs divisionnaires d’unité”)
+
 “unit sub-meter provider” has the same meaning as in Part III of the Energy Consumer Protection Act, 2010; (“fournisseur de compteurs divisionnaires d’unité”)
+
 “utility line” means a pipe line, a telephone, telegraph, electric power or water line, or any other line that supplies a service or commodity to the public; (“ligne de service public”)
+
 “voting security” has the same meaning as in the Business Corporations Act; (“valeur mobilière avec droit de vote”)
+
 “well” means a hole drilled into a geological formation of Cambrian or more recent age, except a hole where no gas or oil is encountered that is drilled for the production of fresh water or salt. (“puits”)
 
 ### Deemed code amendments
@@ -142,9 +223,13 @@ S.O. 1998, c. 15, Sched. B
 ### Composition of the Board
 
 (5) The Board shall be composed of,
+
 (a) a board of directors;
+
 (b) a chief executive officer;
+
 (c) commissioners, including a chief commissioner; and
+
 (d) any other person or class of persons prescribed by the regulations, appointed in accordance with the regulations.
 
 ### Board of directors
@@ -174,7 +259,9 @@ S.O. 1998, c. 15, Sched. B
 ### Director’s duties
 
 (7) Every director shall, in exercising his or her powers and performing his or her duties as a director,
+
 (a) act honestly and in good faith in the best interests of the Board; and
+
 (b) exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances.
 
 ### Chair, vice-chair
@@ -184,10 +271,15 @@ S.O. 1998, c. 15, Sched. B
 ### Duties of chair
 
 (9) The chair shall,
+
 (a) oversee the efficient administration of the business of the board of directors;
+
 (b) preside over meetings of the board of directors;
+
 (c) be accountable to the Minister for the effective delivery of the Board’s objectives;
+
 (d) be accountable to the Minister for the independence of persons and entities hearing and determining matters within the Board’s jurisdiction in their decision-making;
+
 (e) perform such other duties as are assigned to the chair under this or any other Act.
 
 ### Term, chair and vice-chair
@@ -229,7 +321,9 @@ S.O. 1998, c. 15, Sched. B
 ### Delegation
 
 (19) The board of directors may, subject to any conditions or restrictions the board of directors specifies and in accordance with the by-laws made under section 4.10,
+
 (a) delegate any of its powers or duties to a committee of the board of directors or to one or more directors; and
+
 (b) delegate any of its powers to manage the Board’s business and affairs to one or more officers employed by the Board.
 
 ### Same, exception
@@ -239,6 +333,7 @@ S.O. 1998, c. 15, Sched. B
 ### Same, limitation
 
 (21) Despite subsection (19), the board of directors may only delegate its powers or duties under subsection 26 (1) or section 26.1 to the chief executive officer.
+
 (22) Repealed: 2025, c. 22, Sched. 3, s. 3.
 
 ### Chief executive officer
@@ -268,6 +363,7 @@ S.O. 1998, c. 15, Sched. B
 ### No interference
 
 (7) For greater certainty, no power given to the chief executive officer under this or any other Act permits the chief executive officer to interfere with or influence the hearing or determination of a matter over which the Board has jurisdiction.
+
 (8), (9) Repealed: 2025, c. 22, Sched. 3, s. 4.
 
 ### Commissioners and panels
@@ -279,15 +375,25 @@ S.O. 1998, c. 15, Sched. B
 ### Restriction on appointment
 
 (2) The following persons are not eligible to be appointed as a commissioner:
+
 1. A person who has any material interest in or is a director, officer, employee or agent of,
+
 i. a market participant,
+
 ii. a generator, distributor, gas distributor, transmitter, gas transmitter, storage company, gas marketer or retailer,
+
 iii. a unit sub-meter provider,
+
 iv. the Smart Metering Entity,
+
 v. a person who sells electricity or ancillary services through the IESO-administered markets or directly to another person who is not a consumer,
+
 vi. an industry association that represents a person referred to in subparagraph i, ii, iii, iv or v,
+
 vii. the IESO, or
+
 viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
+
 2. Any person or class of persons prescribed by the regulations.
 
 ### Chief commissioner
@@ -329,9 +435,13 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Duties of chief commissioner
 
 (11) The chief commissioner shall,
+
 (a) ensure the efficiency, timeliness and dependability of the hearing and determination of matters over which the Board has jurisdiction, including by directing and supervising commissioners with respect to efficiency, timeliness and dependability;
+
 (b) report to the chief executive officer with respect to the efficiency, timeliness and dependability of the hearing and determination of matters over which the Board has jurisdiction;
+
 (c) be responsible for the training of commissioners;
+
 (d) perform such other duties as are assigned to the chief commissioner under this or any other Act.
 
 ### Deputy chief commissioner
@@ -341,6 +451,7 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Rules of practice and procedure
 
 (13) The Board’s authority to make rules under section 25.1 of the Statutory Powers Procedure Act governing practice and procedure respecting the hearing and determination of matters over which the Board has jurisdiction shall be exercised by the chief commissioner on behalf of the Board.
+
 (14) - (18) Repealed: 2025, c. 22, Sched. 3, s. 5.
 
 ### Market Surveillance Panel
@@ -354,12 +465,19 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Membership
 
 (3) No person shall be appointed as a member of the Market Surveillance Panel if he or she has any material interest in a market participant or is a director, officer, employee or agent of,
+
 (a) a generator, distributor, transmitter or retailer;
+
 (b) a person who sells electricity or ancillary services through the IESO-administered markets or directly to another person who is not a consumer;
+
 (c) a market participant;
+
 (d) an industry association that represents a person referred to in clause (a), (b) or (c);
+
 (e) Repealed: 2014, c. 7, Sched. 23, s. 2 (1).
+
 (f) the IESO; or
+
 (g) an affiliate of a person listed in clause (a), (b), (c) or (f).
 
 ### Same
@@ -385,7 +503,9 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Regulations
 
 (9) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing a day on which the Market Surveillance Panel is dissolved and the Board commences to exercise the powers and perform the duties of the Panel under this or any other Act;
+
 (b) governing the application, after the dissolution of the Panel, of any provision of this or any other Act that relates to the Market Surveillance Panel or its powers or duties.
 
 ### Processes, stakeholder input
@@ -401,7 +521,9 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Specified persons
 
 (3) If the regulations so provide,
+
 (a) a process under subsection (1) shall include such electricity consumers, distributors, generators, transmitters, other persons who have an interest in the electricity industry or prescribed persons as the regulations specify;
+
 (b) a process under subsection (2) shall include such gas consumers, gas distributors, gas transmitters, storage companies, other persons who have an interest in the gas industry or prescribed persons as the regulations specify.
 
 ### Processes, representation of consumer and other interests
@@ -419,12 +541,19 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Memorandum of understanding
 
 4.6 (1) Every three years beginning with the Board’s fiscal year in which subsection 7 (1) of Schedule 2 to the Fixing the Hydro Mess Act, 2019 came into force, the chair of the board of directors, on behalf of the Board, and the Minister shall, in accordance with such directives as may be issued by the Management Board of Cabinet, enter into a memorandum of understanding setting out,
+
 (a) the respective roles and responsibilities of the Minister, the chair and the board of directors;
+
 (b) the accountability relationships between the chair, the board of directors and the Minister;
+
 (c) limitations on the Board’s powers to borrow and invest;
+
 (d) the responsibility of the chair and the board of directors to provide the Minister with business plans, operational budgets and plans for proposed significant changes in the operations or activities of the Board;
+
 (e) details of any obligations that require the board of directors to establish performance standards for the Board;
+
 (f) any other matter required by a directive issued by the Management Board of Cabinet; and
+
 (g) any other matter the parties consider necessary or appropriate.
 
 ### Same
@@ -470,13 +599,17 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Same
 
 (2) The Board shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report; and
+
 (b) when and how to make it available to the public.
 
 ### Same
 
 (3) In addition to any content specified under clause (2) (a), the annual report shall include,
+
 (a) details of steps taken by the board of directors to simplify or streamline practices and procedures in relation to the Board’s regulatory functions; and
+
 (b) any other content the Minister requires.
 
 ### Tabling of annual report
@@ -490,22 +623,35 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Governance and structure by-laws
 
 (2) Without limiting the generality of subsection (1), the board of directors shall ensure that the by-laws deal with matters of corporate governance and structure, including,
+
 (a) the powers, duties and functions of the members of the Board and of the officers employed by the Board, including specifying the accountability relationship of the chief commissioner to the chief executive officer and other accountability relationships;
+
 (b) the remuneration and benefits for the positions of commissioner and chief commissioner appointed by the board of directors;
+
 (c) the circumstances in which a member of the Board ceases to hold office;
+
 (d) procedures for the appointment and reappointment of the chief executive officer, the chief commissioner and other commissioners;
+
 (e) the delegation of the board of directors’ powers and duties under subsection 4.1 (19) and of the Board’s powers and duties under section 6;
+
 (f) the emergency circumstances in which the quorum of the board of directors is one member;
+
 (g) the appointment of an auditor;
+
 (h) the establishment, composition and functions of the adjudication committee and other committees of the board of directors;
+
 (i) the establishment, composition and functions of panels of commissioners;
+
 (j) the composition and functions of the Market Surveillance Panel and the appointment, removal and remuneration of members of the Market Surveillance Panel; and
+
 (k) any other matter prescribed by the regulations.
+
 (3) Repealed: 2021, c. 34, Sched. 18, s. 2 (1).
 
 ### Notice to Minister
 
 (4) The board of directors shall deliver to the Minister a copy of every by-law passed by it.
+
 (5)-(7) Repealed: 2021, c. 34, Sched. 18, s. 2 (1).
 
 ### Minister’s review of certain by-laws
@@ -539,10 +685,15 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Restrictions on Board powers
 
 4.11 The Board shall not, without the approval of the Lieutenant Governor in Council,
+
 (a) create a subsidiary;
+
 (b) purchase or sell real property;
+
 (c) borrow money, pledge, mortgage or hypothecate any of its property, or create or grant a security interest in any of its property;
+
 (d) enter into a contract of a class prescribed by the regulations; or
+
 (e) exercise other rights, powers or privileges under subsection 4 (2) that are prescribed by the regulations.
 
 ### Purchases and loans by Province
@@ -560,9 +711,13 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Same
 
 (2) The revenue referred to in subsection (1) includes the following:
+
 1. Fees payable under section 12.1.
+
 2. Assessments payable under section 26.
+
 3. Costs payable to the Board under section 30.
+
 4. Administrative penalties payable under section 112.5.
 
 ### Collection of personal information
@@ -600,8 +755,11 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Exceptions
 
 (2) Subsection (1) does not apply to the following powers and duties:
+
 1. Hearing and determining an appeal under section 7 or a review under section 8.
+
 2. The power to make an order against a person under section 112.3, 112.4 or 112.5, if the person gives notice requiring the Board to hold a hearing under section 112.2.
+
 3. A power or duty prescribed by the regulations.
 
 ### Conditions and restrictions
@@ -639,15 +797,21 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Exception
 
 (2) Subsection (1) does not apply to,
+
 (a) a person who did not make submissions to the employee after being given notice of the opportunity to do so; or
+
 (b) a person who did not give notice requiring the Board to hold a hearing under section 112.2, in the case of an order made by the employee under section 112.3, 112.4 or 112.5.
 
 ### Parties
 
 (3) The parties to the appeal are:
+
 1. The appellant.
+
 2. The applicant, if the order is made in a proceeding commenced by an application.
+
 3. The employee who made the order.
+
 4. Any other person added as a party by the Board.
 
 ### Powers of Board
@@ -665,8 +829,11 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Parties
 
 (2) The parties to the review are:
+
 1. Every person directly affected by the order, including, if the order is made in a proceeding commenced by an application, the applicant.
+
 2. The employee who made the order.
+
 3. Any other person added as a party by the Board.
 
 ### Exception
@@ -688,9 +855,13 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Liability
 
 11 (1) No action or other civil proceeding shall be commenced against any of the following persons for any act done in good faith in the exercise or performance or the intended exercise or performance of a power or duty under any Act or regulation or for any neglect or default in the exercise or performance in good faith of such a power or duty:
+
 1. A member of the Board.
+
 2. An officer, employee or agent of the Board.
+
 3. A member of the Market Surveillance Panel.
+
 4. An officer, employee or agent of the IESO acting on behalf of the Market Surveillance Panel.
 
 ### Same
@@ -728,15 +899,21 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Forms
 
 13 The chief executive officer may,
+
 (a) establish forms and require their use in connection with any matter relating to the Board; or
+
 (b) approve forms or the content of the forms and require that any application, appeal or information submitted to the Board be in the approved form.
 
 ### Policies re certain Board processes
 
 13.1 (1) The chief executive officer may issue policies to commissioners and employees of the Board respecting any of the following matters:
+
 1. Timelines for conducting a hearing.
+
 2. Timelines for making a determination, if it is being made by an employee exercising a power or performing a duty delegated to the employee under section 6.
+
 3. Requirements respecting information or documents to be considered in conducting a hearing or making a determination.
+
 4. Any other matter prescribed by the regulations.
 
 ### Limitation
@@ -766,7 +943,9 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Legislation Act, 2006, Part III
 
 (4) Part III (Regulations) of the Legislation Act, 2006 does not apply to the orders made or licences issued by the Board.
+
 16 Repealed: 2003, c. 3, s. 19.
+
 17 Repealed: 2003, c. 3, s. 19.
 
 ### Transfer of authority or licence
@@ -818,13 +997,17 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Hearing upon notice
 
 (2) Subject to any provision to the contrary under this or any other Act, the Board shall not make an order under this or any other Act until it has held a hearing after giving notice in such manner and to such persons as the Board may direct.
+
 (3) Repealed: 2000, c. 26, Sched. D, s. 2 (2).
 
 ### No hearing
 
 (4) Despite section 4.1 of the Statutory Powers Procedure Act, the Board may, in addition to its power under that section, dispose of a proceeding without a hearing if,
+
 (a) no person requests a hearing within a reasonable time set by the Board after the Board gives notice of the right to request a hearing; or
+
 (b) the Board determines that no person, other than the applicant, appellant or licence holder will be adversely affected in a material way by the outcome of the proceeding and the applicant, appellant or licence holder has consented to disposing of a proceeding without a hearing.
+
 (c) Repealed: 2003, c. 3, s. 20 (1).
 
 ### Consolidation of proceedings
@@ -846,17 +1029,25 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Liquidators, etc.
 
 21.1 (1) None of the following prevent the exercise by the Board of any jurisdiction conferred by this or any other Act with respect to a regulated utility:
+
 1. The fact that a liquidator, receiver, manager or other official of the regulated utility has been appointed by a court in Ontario.
+
 2. The fact that a writ of sequestration has been issued in Ontario with respect to the regulated utility.
+
 3. The fact that a person is managing or operating the regulated utility under the authority of a court in Ontario.
 
 ### Obligations of liquidators, etc.
 
 (2) A regulated utility interim official shall manage and operate the regulated utility in accordance with,
+
 (a) this Act;
+
 (b) any other Act, to the extent that it confers jurisdiction on the Board;
+
 (c) any applicable licence, order or direction issued by the Board under this Act or an Act referred to in clause (b);
+
 (d) any applicable rule made under section 44 or code issued under section 70.1; and
+
 (e) any applicable assurance of voluntary compliance given to the Board under section 112.7.
 
 ### Must obey Board
@@ -866,13 +1057,21 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Definitions
 
 (4) In this section,
+
 “regulated utility” means,
+
 (a) a gas distributor, gas transmitter or storage company whose rates are approved or fixed by the Board under section 36, and
+
 (b) a distributor or transmitter whose rates are approved or fixed by the Board under section 78; (“service public réglementé”)
+
 “regulated utility interim official” means,
+
 (a) a liquidator, receiver, manager or other official of a regulated utility who has been appointed by a court in Ontario,
+
 (b) a person acting in respect of a regulated utility under the authority of a writ of sequestration that has been issued in Ontario, or
+
 (c) a person who is managing or operating a regulated utility under the authority of a court in Ontario. (“agent intérimaire d’un service public réglementé”)
+
 22 Repealed: 2021, c. 4, Sched. 6, s. 73 (1).
 
 ### Final decision
@@ -886,6 +1085,7 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Conditions of orders
 
 23 (1) The Board in making an order may impose such conditions as it considers proper, and an order may be general or particular in its application.
+
 (2) Repealed: 2003, c. 3, s. 22.
 
 ### Written reasons to be made available
@@ -919,11 +1119,17 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Regulations
 
 (6) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing persons or classes of persons liable to pay an assessment under subsection (1);
+
 (b) prescribing the frequency of the assessments;
+
 (c) respecting the manner in which an assessment under this section is carried out;
+
 (d) prescribing the amount of the assessment or the method of calculating the amount;
+
 (e) prescribing the proportion of the assessment for which each person or class of persons is liable or a method of determining the proportion;
+
 (f) prescribing such other matters relating to the carrying out of an assessment as the Lieutenant Governor in Council considers appropriate.
 
 ### Scope
@@ -933,8 +1139,11 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Assessment, Ministry conservation programs, etc.
 
 26.1 (1) Subject to the regulations, the Board shall assess the following persons or classes of persons, as prescribed by regulation, with respect to the expenses incurred and expenditures made by the Ministry of Energy in respect of its energy conservation programs or renewable energy programs provided under this Act, the Ministry of Energy Act, 2011 or any other Act:
+
 1. In respect of consumers in their service areas, gas distributors and licensed distributors.
+
 2. The IESO.
+
 3. Any other person prescribed by regulation.
 
 ### Assessments, collection by gas distributors and licensed distributors
@@ -964,14 +1173,23 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Regulations
 
 (8) The Lieutenant Governor in Council may make regulations,
+
 (a) governing assessments under this section, including,
+
 (i) prescribing the amount to be assessed or the amounts to be assessed against each person, or class of person liable to pay an assessment or the method of calculating the amount or amounts, and
+
 (ii) prescribing the time within which the assessments must occur;
+
 (b) prescribing persons or classes of persons liable to pay an assessment under subsection (1);
+
 (c) prescribing the frequency of the assessments;
+
 (d) respecting the manner by which an assessment under this section is carried out;
+
 (e) prescribing the proportion of the assessment for which each person or class of persons is liable or a method of determining the proportion;
+
 (f) with respect to subsection (7), prescribing the time at which such reports must be made or submitted, the manner by which such reports must be made or submitted, and governing the information to be provided, including the manner in which such information is presented or provided;
+
 (g) prescribing such other matters relating to the carrying out of an assessment as the Lieutenant Governor in Council considers appropriate.
 
 ### Special purposes
@@ -981,17 +1199,29 @@ viii. an affiliate of a person listed in subparagraph i, ii, iii, iv, v or vii.
 ### Same
 
 (2) The following are the special purposes for which amounts collected under section 26.1 relating to assessments are paid to Ontario:
+
 1. To fund conservation or renewable energy programs aimed at decreasing the consumption of two or more of the following fuels:
+
 i. natural gas,
+
 ii. electricity,
+
 iii. propane,
+
 iv. oil,
+
 v. coal, and
+
 vi. wood.
+
 2. To fund conservation or renewable energy programs aimed at causing consumers of fuel to change from one or more of the fuels listed in paragraph 1 to any other fuel or fuels listed in that paragraph.
+
 3. To fund conservation or renewable energy programs aimed at decreasing peak electricity demand, while increasing or decreasing the consumption of another type of fuel.
+
 4. To fund research and development or other engineering or scientific activities aimed at furthering the conservation or the efficient use of fuels.
+
 5. To fund conservation or renewable energy programs aimed at a specific geographical, social, income or other sector of Ontario.
+
 6. To reimburse the Province for expenditures it incurs for any of the above purposes.
 
 ### Special Purpose Conservation and Renewable Energy Fund
@@ -1081,13 +1311,21 @@ vi. wood.
 ### Directives re licence conditions
 
 (2) The directives may require the Board, in the manner specified in the directives, to amend conditions in licences issued by the Board that relate to the Smart Metering Entity, distributors, retailers and transmitters or licences issued pursuant to section 57, including the following:
+
 1. Conditions granting the exclusive right to the Smart Metering Entity to carry out any or all of its objects set out in section 53.8 of the Electricity Act, 1998.
+
 2. Conditions granting the exclusive right to store information and data derived from smart meters to the Smart Metering Entity, including conditions in respect of the manner in which the information and data is stored.
+
 3. Conditions providing for performance standards to be achieved by the Smart Metering Entity.
+
 4. Conditions identifying arrangements and agreements, including procurement, service or operating arrangements or agreements, to be entered into by the Smart Metering Entity, distributors, transmitters, retailers or other persons and providing that the arrangements or agreements must contain specific conditions, restrictions, criteria or requirements relating to the arrangements or agreements.
+
 5. Conditions providing for circumstances in which the Smart Metering Entity shall provide a person with access to information and data relating to consumers’ consumption or use of electricity collected pursuant to paragraph 2 of section 53.8 of the Electricity Act, 1998, including conditions relating to the protection of privacy.
+
 6. Conditions providing the Smart Metering Entity with the authority to conduct its metering activities in relation to the distribution of gas.
+
 7. Conditions providing the Minister with exclusive authority to approve the base design, requirements, specifications and performance standards for smart meters, metering equipment, systems and technology and associated equipment, systems and technologies or classes of smart meters, equipment, systems and technology to be installed for prescribed classes of property and prescribed classes of consumers.
+
 8. After a date prescribed by regulation made under the Electricity Act, 1998, conditions providing the Board with exclusive authority to approve the base design, requirements, specifications and performance standards for smart meters, metering equipment, systems and technology and associated equipment, systems and technologies or classes of smart meters, equipment, systems and technology to be installed for prescribed classes of property and prescribed classes of consumers.
 
 ### Directives re amending conditions in licences
@@ -1129,6 +1367,7 @@ vi. wood.
 ### Hearings
 
 (3) A directive may specify whether the Board is to hold a hearing and the circumstances under which a hearing may or may not be held.
+
 (4) Repealed: 2020, c. 36, Sched. 34, s. 5.
 
 ### Directives, transmission systems
@@ -1154,46 +1393,79 @@ vi. wood.
 ### Licence conditions
 
 (4) The directives may require the Board, in the manner specified in the directives, to amend conditions in licences issued by the Board that relate to gas marketers or retailers of electricity, including the following:
+
 1. Conditions regarding the operations and management and business practices of a gas marketer or retailer of electricity, including but not limited to the conduct of employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity.
+
 2. Activities, conduct or practices that must, may or may not be undertaken by a gas marketer or retailer of electricity, its employees, agents or third parties acting on behalf of the gas marketer or the retailer of electricity.
+
 3. Conditions requiring or imposing standards that are required to be met by a gas marketer or retailer of electricity or its employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity, including standards related to,
+
 i. education, training, certification and communications,
+
 ii. business practices,
+
 iii. performance standards,
+
 iv. background verifications and assessments as required under paragraph 6,
+
 v. record keeping,
+
 vi. contracting, including standards related to contracting with certain specified classes of vulnerable consumers, and
+
 vii. such other matters as may be specified in the directive.
+
 4. Conditions requiring a gas marketer or retailer of electricity or its employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity to provide such information orally or in writing to a consumer or a member of a class of consumers specified in the directive, the Board or the Ministry or to such other person or entity as may be specified in the directive, in the circumstances specified in the directive and within such time or times as may be specified in the directive.
+
 5. Conditions requiring a gas marketer or retailer of electricity to meet criteria or requirements related to identification as specified in the directive, including criteria or requirements related to the identification credentials or badges or other forms of identification provided to its employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity as may be specified in the directive.
+
 6. Conditions requiring a gas marketer or retailer of electricity to meet specific criteria and requirements related to background verification and assessment of its employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity, including the requirement to establish a process or processes to conduct the verifications and assessments, and the criteria and requirements may include the time or times at which the verifications and assessments must be performed.
+
 7. Conditions requiring a gas marketer or retailer of electricity to take the following steps or do the following things in respect of its employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity:
+
 i. To establish a process or to follow or adhere to a process or processes as are prescribed by regulation or are approved by an order of the Board, for the following activities in respect of its employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity:
+
 A. licensing, including renewal, suspension and cancellation of licences,
+
 B. bonding and insurance,
+
 C. examination for credentials, certificates, accreditations or designations,
+
 D. the creation of codes of conduct, best practices and policies,
+
 E. requirements in relation to independence from or permissible investment in or association with the gas marketer or retailer of electricity or another licensee, and
+
 F. such other matters as may be specified in the directive.
+
 ii. To conduct, at such times as may be specified in the directive, the activities referred to in this section in relation to each of its employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity.
+
 iii. To ensure that its employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity adhere to the process or processes referred to in this section and, in particular, obtain any specified credentials, accreditations or designations referred to in this section by such time or times as may be specified in the directive.
+
 8. Conditions identifying provisions which must be included in any arrangements or agreements, including arrangements or agreements relating to the marketing of gas or the retailing of electricity with specified classes of consumers, entered into by the gas marketer or retailer of electricity or third parties acting on behalf of the gas marketer or retailer of electricity and such conditions may specify or provide that the arrangements or agreements must contain specific conditions, restrictions, criteria or requirements relating to the arrangements or agreements.
 
 ### Verification
 
 (5) For the purposes of the verification of a contract required under Part II of the Energy Consumer Protection Act, 2010, a directive,
+
 (a) may require the Board to prepare specified information, including preparing the information in languages specified in the directive, and to do so within the time specified in the directive; and
+
 (b) may require that the Board require that gas marketers or retailers of electricity or specified classes of them,
+
 (i) use the information in the manner specified in the directive, and
+
 (ii) take such steps as may be specified in the directive to ensure that persons engaged by them in activities related to verification use the information in the manner specified in the directive.
 
 ### Audit and investigation
 
 (6) A directive issued under this section may require the Board to,
+
 (a) exercise its authority under Part V.1 to audit the records and information of the gas marketer or retailer of electricity specified in the directive, in such manner as is specified in the directive;
+
 (b) exercise its authority under Part VII to inspect the activities or conduct of the gas marketers or retailers of electricity or the classes of gas marketers or retailers of electricity, as are specified in the directive, in relation to compliance with this Act or its regulations;
+
 (c) exercise its authority under Part VII to undertake random inspections of the activities or conduct, as are specified in the directive, of the gas marketers or retailers of electricity specified in the directive, in relation to compliance with this Act or its regulations;
+
 (d) exercise its authority under Part VII.0.1 to investigate the activities or conduct or the classes of activities or conduct, as are specified in the directive, of gas marketers or retailers of electricity generally or of the classes of gas marketers or retailers of electricity as are specified in the directive, in relation to compliance with this Act or its regulations;
+
 (e) exercise its authority under Part VII.0.1 to investigate the number or percentage, as is specified in the directive, of complaints received by the Board against gas marketers or retailers of electricity and reasonably considered by the Board to have merit, in relation to compliance with this Act or its regulations.
 
 ### Publication
@@ -1207,6 +1479,7 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Directives, requirement to hold generic hearing (natural gas, electricity)
 
 28.8 (1) In this section,
+
 “ongoing proceeding” means, in respect of a proceeding before the Board, a proceeding in which the Board has not yet made a final order.
 
 ### Same
@@ -1216,9 +1489,13 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Same
 
 (3) A directive issued under subsection (2) may specify,
+
 (a) timelines for conducting the hearing;
+
 (b) the manner in which the hearing may or must be conducted;
+
 (c) matters, information or documents, including documents written or issued by the Government or by a minister or ministry of the Crown, that the Board must consider in conducting the hearing and making its determination; and
+
 (d) any other matter respecting the hearing or its conduct that the Minister considers appropriate.
 
 ### Exception
@@ -1232,7 +1509,9 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Same, effect
 
 (6) If a directive is issued respecting a matter that is the subject of an ongoing proceeding before the Board,
+
 (a) the Board shall not make any order in the ongoing proceeding with respect to the matter, and shall sever the matter from the ongoing proceeding to the extent possible; and
+
 (b) except as provided under clause (a), the ongoing proceeding shall continue to the extent possible.
 
 ### Procedural fairness does not apply
@@ -1262,10 +1541,15 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Scope
 
 (2) Subsection (1) applies to the exercise of any power or the performance of any duty of the Board in relation to,
+
 (a) any matter before the Board;
+
 (b) any licensee;
+
 (c) any person who is subject to this Act;
+
 (d) any person selling, transmitting, distributing or storing gas; or
+
 (e) any product or class of products supplied or service or class of services rendered within the province by a licensee or a person who is subject to this Act.
 
 ### Where determination made
@@ -1283,8 +1567,11 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Same
 
 (2) The Board may make an interim or final order that provides,
+
 (a) by whom and to whom any costs are to be paid;
+
 (b) the amount of any costs to be paid or by whom any costs are to be assessed and allowed; and
+
 (c) when any costs are to be paid.
 
 ### Rules
@@ -1302,7 +1589,9 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Application
 
 (6) This section applies despite section 17.1 of the Statutory Powers Procedure Act.
+
 31 (1) Repealed: 2002, c. 1, Sched. B, s. 5.
+
 (2) Repealed: 2003, c. 3, s. 26.
 
 ### Stated case
@@ -1316,8 +1605,11 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Appeal to Divisional Court
 
 33 (1) An appeal lies to the Divisional Court from,
+
 (a) an order of the Board;
+
 (b) the making of a rule under section 44; or
+
 (c) the issuance of a code under section 70.1.
 
 ### Nature of appeal, timing
@@ -1343,7 +1635,9 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Court may stay the order
 
 (7) The Divisional Court may, on an appeal of an order made by the Board,
+
 (a) stay the operation of the order; or
+
 (b) set aside a stay of the operation of the order that was ordered by the Board under subsection (6).
 
 ### No petition to Lieutenant Governor in Council
@@ -1351,6 +1645,7 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Definition
 
 34 (1) In this section,
+
 “old section 34” means this section as it read immediately before the day the Good Government Act, 2009 received Royal Assent.
 
 ### Not subject to petition
@@ -1390,7 +1685,9 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Limitation
 
 (3.1) In approving or fixing just and reasonable rates for the sale, transmission or distribution of gas, the Board shall not include any of the following amounts:
+
 1. Any penalties or fines a gas transmitter or gas distributor is required to pay under an Act, except as otherwise provided by the regulations.
+
 2. Any other amounts or classes of amounts a gas transmitter or gas distributor is required to pay that are prescribed by the regulations made by the Minister under subsection 127 (8).
 
 ### Contents of order
@@ -1436,12 +1733,19 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Revenue horizon (natural gas)
 
 36.0.1 (1) In this section,
+
 “consumer” means a person who uses natural gas in Ontario for the person’s own consumption; (“consommateur”)
+
 “natural gas distribution system” means a system for distributing natural gas in Ontario by hydrocarbon line, as defined in Part VI, and includes any structures, equipment or other things used for that purpose; (“réseau de distribution de gaz naturel”)
+
 “revenue horizon” means the number of years of presumed revenue that is used for the purposes of section 36 in determining,
+
 (a) the economic feasibility of,
+
 (i) a new consumer connection to the natural gas distribution system, or
+
 (ii) an increase in the capacity of the natural gas distribution system, and
+
 (b) the amount, if any, of a contribution in aid of construction required from a consumer in relation to a connection or increase described in clause (a). (“horizon de revenu”)
 
 ### Mandated revenue horizon
@@ -1455,9 +1759,13 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Same
 
 (4) Regulations made for the purposes of subsection (3) may provide for,
+
 (a) timelines for conducting the hearing;
+
 (b) the manner in which the hearing may or must be conducted, including requiring that it be conducted as a generic hearing;
+
 (c) matters, information or documents, including documents written or issued by the Government or by a minister or ministry of the Crown, that the Board must consider in conducting the hearing and making its determination; and
+
 (d) any other matter respecting the hearing or its conduct that the Lieutenant Governor in Council considers appropriate.
 
 ### Board determination prevails
@@ -1495,13 +1803,17 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Regulations
 
 (13) The Lieutenant Governor in Council may make regulations for the purposes of this section,
+
 (a) specifying numbers of years for the purposes of subsection (2), including, for greater certainty, specifying different numbers with respect to different classes of consumers;
+
 (b) requiring and governing a hearing under subsection (3).
 
 ### Gas storage areas
 
 36.1 (1) The Board may by order,
+
 (a) designate an area as a gas storage area for the purposes of this Act; or
+
 (b) amend or revoke a designation made under clause (a).
 
 ### Transition
@@ -1513,6 +1825,7 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Definition
 
 36.2 (1) In this section,
+
 “qualifying investment” means an investment that satisfies the prescribed criteria.
 
 ### Board to provide rate protection
@@ -1534,28 +1847,51 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Regulations
 
 (6) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing criteria for the purposes of the definition of “qualifying investment” in subsection (1);
+
 (b) prescribing the consumers or classes of consumers eligible for rate protection under this section;
+
 (c) prescribing rules for the calculation of the amount of the rate reduction;
+
 (d) prescribing maximum amounts of the total annual value of rate protection that may be provided under this section;
+
 (e) prescribing classes of consumers for the purposes of subsection (4);
+
 (f) providing that certain classes of consumers are required to contribute towards the amount of compensation only in respect of certain gas distributors;
+
 (g) prescribing rules respecting the amounts that must be collected to compensate gas distributors, including rules,
+
 (i) respecting the calculation of those amounts,
+
 (ii) establishing the time and manner of collection,
+
 (iii) requiring the amounts to be paid in instalments and requiring the payment of interest or penalties on late payments,
+
 (iv) prescribing methods of ensuring that the amounts required cannot be bypassed, and
+
 (v) respecting the distribution of the amounts collected;
+
 (h) respecting the use of money collected in excess of the amount required to compensate gas distributors;
+
 (i) prescribing the powers and duties of the Board in relation to the calculation of amounts to be collected and the time and manner of collection and distribution;
+
 (j) providing for and governing the provision of information and reports under subsection (5);
+
 (k) prescribing persons or entities for the purposes of subsection (5);
+
 (l) requiring a gas distributor, the Board or other persons or entities to make or receive payments in respect of rate protection under this section, including prescribing the circumstances in which such payments are to be made and received;
+
 (m) governing invoices issued to consumers who are members of a class of consumers prescribed for the purposes of subsection (2) or (4) in respect of rate protection under this section, including,
+
 (i) prescribing information that must or may be included on or with the invoices,
+
 (ii) prescribing requirements that the invoices must meet,
+
 (iii) prescribing the form of the invoice, including prescribing different requirements and forms, and
+
 (iv) respecting the manner in which the invoices are to be provided to consumers;
+
 (n) respecting any other matter that the Lieutenant Governor in Council considers necessary in relation to the rate protection.
 
 ### Retroactivity
@@ -1577,7 +1913,9 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Right to compensation
 
 (2) Subject to any agreement with respect thereto, the person authorized by an order under subsection (1),
+
 (a) shall make to the owners of any gas or oil rights or of any right to store gas in the area just and equitable compensation in respect of the gas or oil rights or the right to store gas; and
+
 (b) shall make to the owner of any land in the area just and equitable compensation for any damage necessarily resulting from the exercise of the authority given by the order.
 
 ### Determination of amount of compensation
@@ -1597,8 +1935,11 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Gas storage agreements to be approved
 
 (2) No storage company shall enter into an agreement or renew an agreement with any person for the storage of gas unless the Board, with or without a hearing has approved,
+
 (a) the parties to the agreement or renewal;
+
 (b) the period for which the agreement or renewal is to be in operation; and
+
 (c) the storage that is the subject of the agreement or renewal.
 
 ### Referral to Board of application for well licence
@@ -1644,8 +1985,11 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Disposal
 
 43 (1) No gas transmitter, gas distributor or storage company, without first obtaining from the Board an order granting leave, shall,
+
 (a) sell, lease or otherwise dispose of its gas transmission, gas distribution or gas storage system as an entirety or substantially as an entirety;
+
 (b) sell, lease or otherwise dispose of that part of a system described in paragraph (a) that is necessary in serving the public; or
+
 (c) amalgamate with any other corporation.
 
 ### Same
@@ -1655,26 +1999,35 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Acquisition of share control
 
 (2) No person, without first obtaining an order from the Board granting leave, shall,
+
 (a) acquire such number of voting securities of a gas transmitter, gas distributor or storage company that together with voting securities already held by such person and one or more affiliates or associates of that person, will in the aggregate exceed 20 per cent of the voting securities of a gas transmitter, gas distributor or storage company; or
+
 (b) acquire control of any corporation that holds, directly or indirectly, more than 20 per cent of the voting securities of a gas transmitter, gas distributor or storage company if such voting securities constitute a significant asset of that corporation.
 
 ### Same
 
 (2.1) Subsection (2) does not apply to,
+
 (a) an underwriter (within the meaning of the Securities Act) who holds the voting securities solely for the purpose of distributing them to the public;
+
 (b) any person or entity who is acting in relation to the voting securities solely in the capacity of an intermediary in the payment of funds or the delivery of securities or both in connection with trades in securities and who provides centralized facilities for the clearing of trades in securities; or
+
 (c) any person or entity who holds the voting securities by way of security only.
 
 ### Significant asset
 
 (3) For the purpose of subsection (2),
+
 (a) an asset is a significant asset if its value is 20 per cent or more of the aggregate book value of the total assets of a person, determined on a consolidated basis in accordance with generally accepted accounting principles; and
+
 (b) “control”, with respect to a corporation, has the same meaning as in the Business Corporations Act.
 
 ### Valuation of voting securities
 
 (4) For the purpose of determining whether voting securities constitute a significant asset, the value of the voting securities shall be deemed to be,
+
 (a) the market value of the securities if more than 20 per cent of the voting securities are publicly traded; and
+
 (b) 115 per cent of the book value of the voting securities, as determined by the equity method of accounting, in all other cases.
 
 ### Mortgages
@@ -1696,31 +2049,45 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Procurement restrictions
 
 43.1 (1) No gas transmitter, gas distributor or storage company that is prescribed by the regulations shall procure a good or service that meets the conditions prescribed by the regulations respecting,
+
 (a) its country, region or territory of origin, as determined in the regulations; or
+
 (b) the country, region or territory of origin of the person or entity that is, or that beneficially owns or controls, a supplier of the good or service, as determined in the regulations.
 
 ### Same, subsidiaries
 
 (2) No gas transmitter, gas distributor or storage company subsidiary that is prescribed by the regulations shall procure a good or service that meets the conditions prescribed by the regulations respecting,
+
 (a) its country, region or territory of origin, as determined in the regulations; or
+
 (b) the country, region or territory of origin of the person or entity that is, or that beneficially owns or controls, a supplier of the good or service, as determined in the regulations.
 
 ### Origin
 
 (2.1) For the purposes of subsections (1) and (2),
+
 (a) country, region or territory of origin of a person or entity may be determined by reference to any relevant factor including, as applicable,
+
 (i) where a person is ordinarily resident,
+
 (ii) where a head office or other office is located,
+
 (iii) jurisdiction of incorporation,
+
 (iv) the number or proportion of employees of the person or entity that are located in a country, region or territory,
+
 (v) the jurisdiction of the laws to which the person or entity is subject, or
+
 (vi) where the person or entity’s business activities, as they relate to the provision of the good or service, are carried on; and
+
 (b) a regulation may set out, for its own purposes, how beneficial ownership or control is to be determined.
 
 ### Application
 
 (3) Subsection (1) or (2) applies with respect to a procurement only if, on the day a regulation made for the purposes of that subsection begins to apply,
+
 (a) the final version of the request for proposal or any other document that would give rise to the procurement has not yet been issued, in the case of a competitive procurement; or
+
 (b) in the case of a procurement that is not a competitive procurement, the parties have not entered into a final contract in respect of the procurement.
 
 ### Non-application, Discriminatory Business Practices Act
@@ -1730,7 +2097,9 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Deferral or variance accounts
 
 (5) A gas distributor, gas transmitter or storage company that is prescribed for the purposes of subsection (1) and for which rates are approved or fixed by the Board under section 36 may establish a deferral or variance account that records,
+
 (a) the costs incurred by the gas distributor, gas transmitter or storage company as a result of complying with the subsection; and
+
 (b) the interest costs incurred on the principal balance of the account, as the Board may direct.
 
 ### Same
@@ -1740,29 +2109,53 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Rules
 
 44 (1) The chief executive officer may make rules,
+
 (a) governing the conduct of a gas transmitter, gas distributor or storage company as such conduct relates to its affiliates;
+
 (b) governing the conduct of a gas distributor as such conduct relates to any person,
+
 (i) selling or offering to sell gas to a consumer,
+
 (ii) acting as agent or broker for a seller of gas to a consumer, or
+
 (iii) acting or offering to act as the agent or broker of a consumer in the purchase of gas;
+
 (b.1) subject to subsections 42 (5) to (14), governing the conduct of a gas distributor as the conduct relates to,
+
 (i) stopping the distribution of gas to a property, including the manner in which and the time within which the distribution stops or is to stop, and, with respect to a low-volume consumer as defined in section 47, periods during which the distribution may not be stopped,
+
 (ii) the manner, timing and form in which the notice under subsection 42 (6) is to be provided to the person, and
+
 (iii) the information to be included in the notice to the person;
+
 (b.2) subject to the regulations, governing the manner and circumstances in which security is to be provided, including where security is to be provided or not to be provided by a gas consumer to a gas distributor and,
+
 (i) the interest rate to be applied to amounts held on deposit and payable by the gas distributor to the consumer for the amounts,
+
 (ii) the manner and time or times by which the amounts held on deposit may or must be paid or set-off against amounts otherwise due or payable by the consumer,
+
 (iii) the circumstances in which security need not be provided or in which specific arrangements in respect of security may or must be provided by the gas distributor to the consumer, and
+
 (iv) such other matters as the chief executive officer may determine in respect of security;
+
 (b.3) relating to any matter in respect of invoices issued in respect of gas to consumers, including meeting such requirements as may be provided for by the chief executive officer or being in a form approved by the chief executive officer;
+
 (c) governing the conduct of persons holding a licence issued under Part IV;
+
 (c.1) relating to any matter, prescribed by regulation, in respect of gas marketers in relation to gas marketing, subject to any regulations made under this Act or under the Energy Consumer Protection Act, 2010;
+
 (d) establishing conditions of access to transmission, distribution and storage services provided by a gas transmitter, gas distributor or storage company;
+
 (e) establishing classes of gas transmitters, gas distributors and storage companies;
+
 (f) requiring and providing for the making of returns, statements or reports by any class of gas transmitters, gas distributors or storage companies relating to the transmission, distribution, storage or sale of gas, in such form and containing such matters and verified in such manner as the rule may provide;
+
 (g) requiring and providing for an affiliate of a gas transmitter, gas distributor or storage company to make returns, statements or reports relating to the transmission, distribution, storage or sale of gas by the gas transmitter, gas distributor or storage company of which it is the affiliate, in such form and containing such matters and verified in such manner as the rule may provide;
+
 (h) establishing a uniform system of accounts applicable to any class of gas transmitters, gas distributors or storage companies;
+
 (i) respecting any other matter prescribed by regulation.
+
 (1.1) Repealed: 2019, c. 6, Sched. 2, s. 18 (4).
 
 ### Approval, etc., of Board
@@ -1788,7 +2181,9 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Same
 
 (6) An exemption or a removal of an exemption,
+
 (a) may be granted or made in whole or in part; and
+
 (b) may be granted or made subject to conditions or restrictions.
 
 ### Non-application
@@ -1802,11 +2197,17 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Content of notice
 
 (2) The notice must include,
+
 (a) the proposed rule or a summary of the proposed rule;
+
 (b) a concise statement of the purpose of the proposed rule;
+
 (c) an invitation to make written representations with respect to the proposed rule;
+
 (d) the time limit for making written representations;
+
 (e) if a summary is provided, information about how the entire text of the proposed rule may be obtained; and
+
 (f) a description of the anticipated costs and benefits of the proposed rule.
 
 ### Opportunity for comment
@@ -1824,11 +2225,17 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Content of notice
 
 (6) The notice must include,
+
 (a) the proposed rule with the changes incorporated or a summary of the proposed changes;
+
 (b) a concise statement of the purpose of the changes;
+
 (c) an invitation to make written representations with respect to the proposed rule;
+
 (d) the time limit for making written representations;
+
 (e) if a summary is provided, information about how the entire text of the proposed rule may be obtained; and
+
 (f) a description of the anticipated costs and benefits of the proposed rule.
 
 ### Representations re changes
@@ -1866,7 +2273,9 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Effect of publication
 
 (4) Publication of a rule in The Ontario Gazette,
+
 (a) is, in the absence of evidence to the contrary, proof of its text and of its making; and
+
 (b) shall be deemed to be notice of its contents to every person subject to it or affected by it.
 
 ### Judicial notice
@@ -1878,11 +2287,17 @@ iii. To ensure that its employees, agents or third parties acting on behalf of t
 ### Definitions, Part IV
 
 47 In this Part,
+
 “gas marketer” means a person who,
+
 (a) sells or offers to sell gas to a low-volume consumer,
+
 (b) acts as the agent or broker for a seller of gas to a low-volume consumer, or
+
 (c) acts or offers to act as the agent or broker of a low-volume consumer in the purchase of gas,
+
 and “gas marketing” has a corresponding meaning; (“agent de commercialisation de gaz”, “commercialisation de gaz”)
+
 “low-volume consumer” means a person who annually uses less than the amount of gas prescribed by regulation. (“petit consommateur”)
 
 ### Requirement to hold licence
@@ -1896,7 +2311,9 @@ and “gas marketing” has a corresponding meaning; (“agent de commercialisat
 ### Exclusion
 
 (3) This section does not apply to,
+
 (a) a gas distributor acting in accordance with an order of the Board including an order made under section 57.1; or
+
 (b) a gas distributor to whom section 36 does not apply pursuant to an exemption set out in the regulations.
 
 ### Where not in compliance
@@ -1928,13 +2345,17 @@ and “gas marketing” has a corresponding meaning; (“agent de commercialisat
 ### Amendment of licence
 
 52 The Board may, on the application of any person, amend a licence if it considers the amendment to be,
+
 (a) necessary to implement a directive issued under section 27, 27.1 or 28.7; or
+
 (b) in the public interest, having regard to the objectives of the Board.
 
 ### Cancellation on request
 
 53 The Board may cancel a licence on the request in writing of the licence holder.
+
 54 Repealed: 2003, c. 3, s. 39.
+
 55 Repealed: 2003, c. 3, s. 39.
 
 ## PART V REGULATION OF ELECTRICITY
@@ -1942,38 +2363,67 @@ and “gas marketing” has a corresponding meaning; (“agent de commercialisat
 ### Definitions, Part V
 
 56 In this Part,
+
 “alternative energy source” means an energy source that is an alternative energy source for the purposes of the Electricity Act, 1998; (“source d’énergie de remplacement”)
+
 “ancillary services” means services necessary to maintain the reliability of the IESO-controlled grid, including frequency control, voltage control, reactive power and operating reserve services; (“services accessoires”)
+
 “consumer” means a person who uses, for the person’s own consumption, electricity that the person did not generate; (“consommateur”)
+
 “Financial Corporation” has the same meaning as in the Electricity Act, 1998; (“Société financière”)
+
 “generate”, with respect to electricity, means to produce electricity or provide ancillary services, other than ancillary services provided by a transmitter or distributor through the operation of a transmission or distribution system; (“produire”)
+
 “generation facility” means a facility for generating electricity or providing ancillary services, other than ancillary services provided by a transmitter or distributor through the operation of a transmission or distribution system, and includes any structures, equipment or other things used for that purpose; (“installation de production”)
+
 “generator” means a person who owns or operates a generation facility; (“producteur”)
+
 “IESO-administered markets” means the markets established by the market rules under the Electricity Act, 1998; (“marchés administrés par la SIERE”)
+
 “IESO-controlled grid” means the transmission systems with respect to which, pursuant to agreements, the IESO has authority to direct operations; (“réseau dirigé par la SIERE”)
+
 “low-volume consumer” means a consumer who annually uses less than 150,000 kilowatt hours of electricity or such other amount of electricity as is prescribed by the regulations; (“petit consommateur”)
+
 “market participant” means a person who is authorized by the market rules to participate in the IESO-administered markets or to cause or permit electricity to be conveyed into, through or out of the IESO-controlled grid; (“intervenant du marché”)
+
 “market rules” means the rules made under section 32 of the Electricity Act, 1998; (“règles du marché”)
+
 “renewable energy source” means an energy source that is a renewable energy source for the purposes of the Electricity Act, 1998; (“source d’énergie renouvelable”)
+
 “retail”, with respect to electricity, means,
+
 (a) to sell or offer to sell electricity to a consumer,
+
 (b) to act as agent or broker for a retailer with respect to the sale or offering for sale of electricity, or
+
 (c) to act or offer to act as an agent or broker for a consumer with respect to the sale or offering for sale of electricity; (“vendre au détail”)
+
 “Retail Settlement Code” means the Retail Settlement Code issued by the Board, as amended from time to time; (“code appelé Retail Settlement Code”)
+
 “retailer” means a person who retails electricity. (“détaillant”)
 
 ### Requirement to hold licence
 
 57 Neither the IESO nor the Smart Metering Entity shall exercise their powers or perform their duties under the Electricity Act, 1998 unless licensed to do so under this Part and, except as otherwise provided under this Act, no other person shall, unless licensed to do so under this Part,
+
 (a) own or operate a distribution system;
+
 (b) own or operate a transmission system;
+
 (c) generate electricity or provide ancillary services for sale through the IESO-administered markets or directly to another person;
+
 (c.1) engage in unit sub-metering;
+
 (d) retail electricity;
+
 (e) purchase electricity or ancillary services in the IESO-administered markets or directly from a generator;
+
 (f) sell electricity or ancillary services through the IESO-administered markets or directly to another person, other than a consumer;
+
 (g) direct the operation of transmission systems in Ontario;
+
 (h) operate the market established by the market rules; or
+
 (i) engage in an activity prescribed by the regulations that relates to electricity.
 
 ### Pilot or demonstration projects to facilitate innovation
@@ -1981,7 +2431,9 @@ and “gas marketing” has a corresponding meaning; (“agent de commercialisat
 ### Exemption from licence requirement
 
 57.1 (1) The Board may by order exempt a person from the requirement to be licensed under this Part in respect of any activity referred to in clause 57 (a), (c.1), (d), (e) or (f) for a period of no more than five years, in order to permit the person to participate in a pilot or demonstration project,
+
 (a) that meets any criteria prescribed by the regulations; and
+
 (b) that the Board determines is in furtherance of its objective to facilitate innovation in the electricity sector under paragraph 4 of subsection 1 (1).
 
 ### Same, gas marketing
@@ -2015,13 +2467,17 @@ and “gas marketing” has a corresponding meaning; (“agent de commercialisat
 ### What constitutes “maintained in Ontario”
 
 (2) For the purposes of subsection (1), a distributor maintains its head office in Ontario if,
+
 (a) the principal executive office for the distributor and its subsidiaries is located in Ontario;
+
 (b) the chief executive officer and substantially all of the officers with strategic decision-making or management authority for the distributor and its subsidiaries principally perform their duties at that principal executive office or elsewhere in Ontario and are resident in Ontario; and
+
 (c) substantially all of the strategic decision-making, corporate planning, corporate finance and other executive functions of the distributor and its subsidiaries are carried out at that principal executive office or elsewhere in Ontario.
 
 ### Definition, “subsidiary”
 
 (3) In this section,
+
 “subsidiary”, with respect to a corporation, has the same meaning as in the Business Corporations Act.
 
 ### Interim licences
@@ -2033,27 +2489,41 @@ and “gas marketing” has a corresponding meaning; (“agent de commercialisat
 ### Failure to meet obligations or reliability standards
 
 (1.1) Subsection (2) applies if the Board has determined that,
+
 (a) a distributor has failed or is likely to fail to meet its obligations under section 29 of the Electricity Act, 1998; or
+
 (b) a transmitter has failed or is likely to fail to meet,
+
 (i) a reliability standard as defined in subsection 2 (1) of the Electricity Act, 1998,
+
 (ii) a reliability standard provided for in an order, licence or code issued by the Board, or in the market rules established under section 32 of the Electricity Act, 1998, or
+
 (iii) a standard prescribed by regulation under this Act.
 
 ### Powers of Board
 
 (2) The Board may,
+
 (a) require the licensee, as a condition of an interim licence, to take possession and control of the business of the transmitter or distributor;
+
 (b) order the transmitter or distributor to surrender possession and control of its business to the person licensed under subsection (1); and
+
 (c) without a hearing, amend or suspend the licence of the transmitter or distributor.
 
 ### Conduct under cl. (2) (a)
 
 (3) A person who is required under clause (2) (a) to take possession and control of the business of a transmitter or distributor may, subject to the conditions of the interim licence, carry on, manage and conduct the operations of the business in the name of the transmitter or distributor, including,
+
 (a) preserving, maintaining and adding to the property of the business;
+
 (b) receiving the income and revenue of the business;
+
 (c) issuing cheques from, withdrawing money from and otherwise dealing with the accounts of the business;
+
 (d) retaining or dismissing employees, consultants, counsel and other assistance for the business;
+
 (e) directing the employees of the business; and
+
 (f) conducting, settling and commencing litigation relating to the business.
 
 ### Liability
@@ -2097,16 +2567,23 @@ and “gas marketing” has a corresponding meaning; (“agent de commercialisat
 ### Failure to meet financial obligations, reliability standards, etc.
 
 59.1 (1) Subsection (2) applies if the Board has determined that a transmitter or distributor,
+
 (a) has failed or is likely to fail to meet its financial obligations as they become due, or that the financial condition of the transmitter or distributor has otherwise significantly deteriorated; or
+
 (b) may not be able to meet,
+
 (i) a reliability standard as defined in subsection 2 (1) of the Electricity Act, 1998,
+
 (ii) a reliability standard provided for in an order, licence or code issued by the Board, or in the market rules established under section 32 of the Electricity Act, 1998, or
+
 (iii) a standard prescribed by regulation under this Act.
 
 ### Appointment
 
 (2) Where any of the circumstances in subsection (1) apply, the Board may appoint a supervisor to,
+
 (a) supervise the management of the business of the transmitter or distributor; and
+
 (b) prepare such reports and information, including any recommendations, as may be required by the Board, and file them with the Board.
 
 ### Provision of information to supervisor
@@ -2140,18 +2617,27 @@ and “gas marketing” has a corresponding meaning; (“agent de commercialisat
 ### Application for licence
 
 60 (1) A person may apply to the Board for the issuance or renewal of a licence authorizing one or more of the activities referred to in section 57 as specified in the application.
+
 (2) Repealed: 2003, c. 3, s. 43 (2).
+
 61 Repealed: 2003, c. 3, s. 44.
+
 62 Repealed: 2003, c. 3, s. 44.
+
 63 Repealed: 2003, c. 3, s. 44.
+
 64 Repealed: 2003, c. 3, s. 44.
+
 65 Repealed: 2003, c. 3, s. 44.
 
 ### Mutual access, electricity generated outside Ontario
 
 66 If an application for a licence relates to electricity generated from facilities located in a jurisdiction outside of Ontario, the Board may, in determining whether or not to issue a licence, have regard to whether that jurisdiction allows for equivalent access to its electricity markets for electricity generated from facilities located in Ontario.
+
 67 Repealed: 2003, c. 3, s. 46.
+
 68 Repealed: 2003, c. 3, s. 46.
+
 69 Repealed: 2003, c. 3, s. 46.
 
 ### Licence conditions
@@ -2165,49 +2651,85 @@ and “gas marketing” has a corresponding meaning; (“agent de commercialisat
 ### Examples of conditions
 
 (2) The conditions of a licence may include provisions,
+
 (a) specifying the period of time during which the licence will be in effect;
+
 (b) requiring the licensee to provide, in the manner and form determined by the Board, such information as the Board may require;
+
 (c) requiring the licensee to enter into agreements with other persons on specified terms (including terms for a specified duration) approved by the Board relating to its trading or operations or for the connection to or use of any lines or plant owned or operated by the licensee or the other party to the agreement;
+
 (d) governing the conduct of the licensee, including the conduct of,
+
 (i) a transmitter or distributor as that conduct relates to its affiliates,
+
 (ii) a distributor as that conduct relates to a retailer,
+
 (ii.1) a distributor or suite meter provider as such conduct relates to,
+
 (A) the disconnection of the supply of electricity to a consumer, including the manner in which and the time within which the disconnection takes place or is to take place, and with respect to a low-volume consumer, periods during which the disconnection may not take place,
+
 (B) the manner, timing and form in which the notice under subsection 31 (2) of the Electricity Act, 1998 is to be provided to the consumer, and
+
 (C) subject to the regulations, the manner and circumstances in which security is to be provided or not to be provided by a consumer to a distributor or suite meter provider, including,
+
 (1) the interest rate to be applied to amounts held on deposit and payable by the distributor or suite meter provider to the consumer for the amounts,
+
 (2) the manner and time or times by which the amounts held on deposit may or must be paid or set-off against amounts otherwise due or payable by the consumer,
+
 (3) the circumstances in which security need not be provided or in which specific arrangements in respect of security may or must be provided by the distributor or suite meter provider to the consumer, and
+
 (4) such other matters as the Board may determine in respect of security deposits,
+
 (iii) a retailer, and
+
 (iv) a generator, retailer or person licensed to engage in an activity described in clause 57 (f) or an affiliate of that person as that conduct relates to the abuse or possible abuse of market power;
+
 (d.1) governing conditions relating to any matter prescribed by regulation in respect of retailers of electricity in relation to the retailing of electricity, subject to any regulations made under this Act;
+
 (e) specifying methods or techniques to be applied in determining the licensee’s rates;
+
 (f) requiring the licensee to maintain specified accounting records, prepare accounts according to specified principles and maintain organizational units or separate accounts for separate businesses in order to prohibit subsidies between separate businesses;
+
 (g) specifying performance standards, targets and criteria;
+
 (h) specifying connection or retailing obligations to enable reasonable demands for electricity to be met;
+
 (i) specifying information reporting requirements relating to the source of electricity and emissions caused by the generation of electricity;
+
 (j) requiring the licensee to expand or reinforce its transmission or distribution system in accordance with market rules in such a manner as the IESO or the Board may determine;
+
 (k) requiring the licensee to enter into an agreement with the IESO that gives the IESO the authority to direct operations of the licensee’s transmission system;
+
 (l) Repealed: 2016, c. 10, Sched. 2, s. 15.
+
 (m) requiring licensees, where a directive has been issued under section 28.2, to implement such steps or such processes as the Board or the directive requires in order to address risks or liabilities associated with customer billing and payment cycles in respect of the cost of electricity at the retail and at the wholesale levels and risks or liabilities associated with non-payment or default by a consumer or retailer.
 
 ### Deemed conditions of licences, transmitters and distributors
 
 (2.1) Every licence issued to a transmitter or distributor shall be deemed to contain the following conditions:
+
 1. Repealed: 2021, c. 25, Sched. 19, s. 1.
+
 2. The licensee is required to prepare plans, in the manner and at the times mandated by the Board or as prescribed by regulation and to file them with the Board for approval for,
+
 i. the expansion or reinforcement of the licensee’s transmission system or distribution system to accommodate the connection of renewable energy generation facilities, and
+
 ii. the development and implementation of the smart grid in relation to the licensee’s transmission system or distribution system.
+
 3. The licensee is required, in accordance with a plan referred to in paragraph 2 that has been approved by the Board or in such other manner and at such other times as mandated by the Board or prescribed by regulation,
+
 i. to expand or reinforce its transmission system or distribution system to accommodate the connection of renewable energy generation facilities, and
+
 ii. to make investments for the development and implementation of the smart grid in relation to the licensee’s transmission system or distribution system.
+
 4. Repealed: 2019, c. 6, Sched. 3, s. 12 (1).
+
 (2.2) Repealed: 2020, c. 34, Sched. 14, s. 2.
 
 ### Deemed condition of licences, unit sub-meter provider, Ontario Rebate for Electricity Consumers Act, 2016
 
 (2.3) Every licence issued to a unit sub-meter provider is deemed to contain the condition that the unit sub-meter provider is required to comply with the Ontario Rebate for Electricity Consumers Act, 2016 and the regulations made under it.
+
 (2.4) Repealed: 2019, c. 6, Sched. 3, s. 12 (2).
 
 ### Where no agreement
@@ -2225,8 +2747,11 @@ ii. to make investments for the development and implementation of the smart grid
 ### Abuse of market power
 
 (5) Without limiting the generality of subsection (1), a licence to engage in an activity described in clause 57 (c), (d) or (f) may contain conditions to address the abuse or possible abuse of market power, including conditions,
+
 (a) establishing minimum and maximum prices or a range of prices at which electricity may be offered for sale or sold through the IESO-administered markets or directly to another person or class of persons;
+
 (b) restricting the duration of contracts between licensees and any other person; and
+
 (c) restricting significant investment in or acquisition of generation facilities located in Ontario.
 
 ### Non-exclusive
@@ -2248,9 +2773,13 @@ ii. to make investments for the development and implementation of the smart grid
 ### Affiliates
 
 (9) The licence of a distributor shall specify whether the distributor will comply with section 29 of the Electricity Act, 1998,
+
 (a) directly;
+
 (b) through an affiliate;
+
 (c) through another person with whom the distributor or an affiliate of the distributor has a contract; or
+
 (d) through a combination of methods described in clauses (a), (b) and (c), as specified.
 
 ### Exception
@@ -2288,6 +2817,7 @@ ii. to make investments for the development and implementation of the smart grid
 ### Codes that may be incorporated as licence conditions
 
 70.1 (1) The chief executive officer may issue codes that, with such modifications or exemptions as may be specified by the Board under section 70, may be incorporated by reference as conditions of a licence under that section.
+
 (2) Repealed: 2019, c. 6, Sched. 2, s. 20 (2).
 
 ### Approval, etc., of Board
@@ -2309,11 +2839,17 @@ ii. to make investments for the development and implementation of the smart grid
 ### Transition
 
 (7) The following documents issued by the Board, as they read immediately before this section came into force, shall be deemed to be codes issued under this section and the chief executive officer may change or amend the codes in accordance with this section and sections 70.2 and 70.3:
+
 1. The Affiliate Relationships Code for Electricity Transmitters and Distributors.
+
 2. The Distribution System Code.
+
 3. The Electricity Retailer Code of Conduct.
+
 4. The Retail Settlement Code.
+
 5. The Transmission System Code.
+
 6. Such other documents as are prescribed by the regulations.
 
 ### Proposed codes, notice and content
@@ -2323,11 +2859,17 @@ ii. to make investments for the development and implementation of the smart grid
 ### Content of notice
 
 (2) The notice must include,
+
 (a) the proposed code or a summary of the proposed code;
+
 (b) a concise statement of the purpose of the proposed code;
+
 (c) an invitation to make written representations with respect to the proposed code;
+
 (d) the time limit for making written representations;
+
 (e) if a summary is provided, information about how the entire text of the proposed code may be obtained; and
+
 (f) a description of the anticipated costs and benefits of the proposed code.
 
 ### Opportunity for comment
@@ -2345,11 +2887,17 @@ ii. to make investments for the development and implementation of the smart grid
 ### Content of notice
 
 (6) The notice must include,
+
 (a) the proposed code with the changes incorporated or a summary of the proposed changes;
+
 (b) a concise statement of the purpose of the changes;
+
 (c) an invitation to make written representations with respect to the proposed code;
+
 (d) the time limit for making written representations;
+
 (e) if a summary is provided, information about how the entire text of the proposed code may be obtained; and
+
 (f) a description of the anticipated costs and benefits of the proposed code.
 
 ### Representations re changes
@@ -2383,7 +2931,9 @@ ii. to make investments for the development and implementation of the smart grid
 ### Effect of publication
 
 (4) Publication of a code in The Ontario Gazette,
+
 (a) is, in the absence of evidence to the contrary, proof of its text and of its issuance; and
+
 (b) shall be deemed to be notice of its contents to every person subject to it or affected by it.
 
 ### Judicial notice
@@ -2393,8 +2943,11 @@ ii. to make investments for the development and implementation of the smart grid
 ### Regulations, deemed amendments to certain codes
 
 70.4 (1) The Lieutenant Governor in Council may make regulations specifying amendments to the Distribution System Code and the Transmission System Code for the purposes of this section with respect to any of the following matters:
+
 1. Obligations between distributors or transmitters and their customers in respect of cost allocation and cost recovery relating to the construction, expansion or reinforcement of distribution systems or transmission systems, or of connections to those systems.
+
 2. Provisions that must be included in an agreement that is entered into by a distributor or transmitter and a customer that pertains to cost allocation and cost recovery relating to the connection of a customer to the distributor’s distribution system or the transmitter’s transmission system, as the case may be.
+
 3. Any matter ancillary or consequential to a matter referred to in paragraph 1 or 2.
 
 ### Same
@@ -2436,10 +2989,15 @@ ii. to make investments for the development and implementation of the smart grid
 ### Regulations, exemptions from certain codes
 
 70.5 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) exempting any person or thing, or any class of person or thing, from the application of any provision of the Distribution System Code or the Transmission System Code that,
+
 (i) pertains to cost allocation or cost recovery, or
+
 (ii) is ancillary or consequential to a provision of the Code that pertains to cost allocation or cost recovery;
+
 (b) providing for conditions or restrictions of an exemption under clause (a);
+
 (c) in respect of a person or thing that is the subject of an exemption under clause (a), establishing and governing the cost allocation or cost recovery that applies with respect to the person or thing instead of the provision that has been exempted from.
 
 ### Same
@@ -2457,15 +3015,21 @@ ii. to make investments for the development and implementation of the smart grid
 ### Exception
 
 (2) Subject to section 80 and such rules as may be prescribed by the regulations, a transmitter or distributor may provide services in accordance with section 29.1 of the Electricity Act, 1998 that would assist the Government of Ontario in achieving its goals in electricity conservation, including services related to,
+
 (a) the promotion of electricity conservation and the efficient use of electricity;
+
 (b) electricity load management; or
+
 (c) the promotion of cleaner energy sources, including alternative energy sources and renewable energy sources.
 
 ### Exception
 
 (3) A distributor may own and operate,
+
 (a) a renewable energy generation facility that does not exceed 10 megawatts or such other capacity as may be prescribed by regulation and that meets any criteria that may be prescribed by the regulations;
+
 (b) a generation facility that uses technology that produces power and thermal energy from a single source and that meets any criteria that may be prescribed by the regulations; or
+
 (c) a facility that is an energy storage facility and that meets any criteria that may be prescribed by the regulations.
 
 ### Exception in special circumstances
@@ -2479,36 +3043,51 @@ ii. to make investments for the development and implementation of the smart grid
 ### Procurement restrictions
 
 73 (1) In this section,
+
 “licensee” means the holder of a licence under this Part, other than the IESO or Ontario Power Generation Inc.
 
 ### Same
 
 (2) No licensee that is prescribed by the regulations shall procure a good or service that meets the conditions prescribed by the regulations respecting,
+
 (a) its country, region or territory of origin, as determined in the regulations; or
+
 (b) the country, region or territory of origin of the person or entity that is, or that beneficially owns or controls, a supplier of the good or service, as determined in the regulations.
 
 ### Same, subsidiaries
 
 (3) No licensee subsidiary that is prescribed by the regulations shall procure a good or service that meets the conditions prescribed by the regulations respecting,
+
 (a) its country, region or territory of origin, as determined in the regulations; or
+
 (b) the country, region or territory of origin of the person or entity that is, or that beneficially owns or controls, a supplier of the good or service, as determined in the regulations.
 
 ### Origin
 
 (3.1) For the purposes of subsections (2) and (3),
+
 (a) country, region or territory of origin of a person or entity may be determined by reference to any relevant factor including, as applicable,
+
 (i) where a person is ordinarily resident,
+
 (ii) where a head office or other office is located,
+
 (iii) jurisdiction of incorporation,
+
 (iv) the number or proportion of employees of the person or entity that are located in a country, region or territory,
+
 (v) the jurisdiction of the laws to which the person or entity is subject, or
+
 (vi) where the person or entity’s business activities, as they relate to the provision of the good or service, are carried on; and
+
 (b) a regulation may set out, for its own purposes, how beneficial ownership or control is to be determined.
 
 ### Application
 
 (4) Subsection (2) or (3) applies with respect to a procurement only if, on the day a regulation made for the purposes of that subsection begins to apply,
+
 (a) the final version of the request for proposal or any other document that would give rise to the procurement has not yet been issued, in the case of a competitive procurement; or
+
 (b) in the case of a procurement that is not a competitive procurement, the parties have not entered into a final contract in respect of the procurement.
 
 ### Non-application, Discriminatory Business Practices Act
@@ -2518,7 +3097,9 @@ ii. to make investments for the development and implementation of the smart grid
 ### Deferral or variance accounts
 
 (6) A licensee that is prescribed for the purposes of subsection (2) and for which rates are approved or fixed by the Board under section 78 may establish a deferral or variance account that records,
+
 (a) the costs incurred by the licensee as a result of complying with the subsection; and
+
 (b) the interest costs incurred on the principal balance of the account, as the Board may direct.
 
 ### Same
@@ -2528,13 +3109,17 @@ ii. to make investments for the development and implementation of the smart grid
 ### Amendment of licence
 
 74 (1) The Board may, on the application of any person, amend a licence if it considers the amendment to be,
+
 (a) necessary to implement a directive issued under this Act; or
+
 (b) in the public interest, having regard to the objectives of the Board and the purposes of the Electricity Act, 1998.
 
 ### Further power to amend
 
 (2) In addition to its power to amend a licence under subsection (1), the Board may amend a licence under section 38 of the Electricity Act, 1998.
+
 75 Repealed: 2003, c. 3, s. 49.
+
 76 Repealed: 2003, c. 3, s. 50.
 
 ### Suspension or revocation, Board consideration
@@ -2544,6 +3129,7 @@ ii. to make investments for the development and implementation of the smart grid
 ### Cancellation of licence
 
 (5) The Board may cancel a licence upon the request in writing of the licence holder.
+
 (6) Repealed: 2000, c. 26, Sched. D, s. 2 (6).
 
 ### Orders by Board, electricity rates
@@ -2559,6 +3145,7 @@ ii. to make investments for the development and implementation of the smart grid
 ### Order re the Smart Metering Entity
 
 (2.1) The Smart Metering Entity shall not charge for meeting its obligations under Part IV.2 of the Electricity Act, 1998 except in accordance with an order of the Board, which is not bound by the terms of any contract.
+
 (2.3) Repealed: 2019, c. 4, Sched. 4, s. 1 (1).
 
 ### Rates
@@ -2584,13 +3171,17 @@ ii. to make investments for the development and implementation of the smart grid
 ### Methods re incentives or recovery of costs
 
 (3.0.5) The Board may, in approving or fixing just and reasonable rates or in exercising the power set out in clause 70 (2) (e), adopt methods that provide,
+
 (a) incentives to a transmitter or a distributor in relation to the siting, design and construction of an expansion, reinforcement or other upgrade to the transmitter’s transmission system or the distributor’s distribution system; or
+
 (b) for the recovery of costs incurred or to be incurred by a transmitter or distributor in relation to the activities referred to in clause (a).
 
 ### Annual rate plan and separate rates for situations prescribed by regulation
 
 (3.1) The Board shall, in accordance with rules prescribed by the regulations, approve or fix separate rates for the retailing of electricity,
+
 (a) to such different classes of consumers as may be prescribed by the regulations; and
+
 (b) for such different situations as may be prescribed by the regulations.
 
 ### Same
@@ -2600,7 +3191,9 @@ ii. to make investments for the development and implementation of the smart grid
 ### Rates to reflect cost of electricity
 
 (3.3) In approving or fixing rates under subsection (3.1),
+
 (a) the Board shall forecast the cost of electricity to be consumed by the consumers to whom the rates apply, taking into consideration the adjustments required under section 25.33 of the Electricity Act, 1998 and shall ensure that the rates reflect these costs; and
+
 (b) the Board shall take into account balances in the IESO’s variance accounts established under section 25.33 of the Electricity Act, 1998 and shall make adjustments with a view to eliminating those balances within 12 months or such shorter time periods as the Minister may direct.
 
 ### Forecasting cost of electricity
@@ -2618,8 +3211,11 @@ ii. to make investments for the development and implementation of the smart grid
 ### Same, certain payments of transmitters and distributors
 
 (5) In approving or fixing just and reasonable rates for the transmission or distribution of electricity, the Board shall not include any of the following amounts:
+
 1. Any penalties or fines a transmitter or distributor is required to pay under an Act, except as otherwise provided by the regulations.
+
 2. Any other amounts or classes of amounts a transmitter or distributor is required to pay that are prescribed by the regulations made by the Minister under subsection 88 (2.3).
+
 (5.0.0.1) Repealed: 2023, c. 9, Sched. 24, s. 5.
 
 ### Same, obligations under s. 29 of Electricity Act, 1998
@@ -2653,8 +3249,11 @@ ii. to make investments for the development and implementation of the smart grid
 ### Conditions, etc.
 
 (6) An order under this section may include conditions, classifications or practices, including rules respecting the calculation of rates, applicable,
+
 (a) to the Smart Metering Entity in respect of meeting its obligations;
+
 (b) to an activity prescribed for the purposes of subsection (3); and
+
 (c) to the transmission, distribution or retailing of electricity or unit smart metering.
 
 ### Deferral or variance accounts
@@ -2676,6 +3275,7 @@ ii. to make investments for the development and implementation of the smart grid
 ### Same
 
 (6.5) If an amount recorded in a deferral or variance account of a distributor is reflected in rates, the Board shall consider the appropriate number of billing periods over which the amount shall be divided in order to mitigate the impact on consumers.
+
 (6.6) Repealed: 2021, c. 2, Sched. 2, s. 5 (2).
 
 ### Fixing other rates
@@ -2705,9 +3305,13 @@ ii. to make investments for the development and implementation of the smart grid
 ### Same
 
 (3.1) The amounts referred to in subsection (3) include, without limitation, the following:
+
 1. Amounts related to the appointment of Ontario Power Generation Inc. as the Financial Services Manager under the Ontario Fair Hydro Plan Act, 2017.
+
 2. Amounts related to the charging of fees for performing duties as the Financial Services Manager.
+
 3. Amounts related to exercising the powers and performing the duties of the Financial Services Manager.
+
 4. Amounts related to the consolidation of the assets and liabilities for accounting purposes of the Fair Hydro Trust within the meaning of the Ontario Fair Hydro Plan Act, 2017.
 
 ### Same
@@ -2721,7 +3325,9 @@ ii. to make investments for the development and implementation of the smart grid
 ### Fixing other prices
 
 (5) The Board may fix such other payment amounts as it finds to be just and reasonable,
+
 (a) on an application for an order under this section, if the Board is not satisfied that the amount applied for is just and reasonable; or
+
 (b) at any other time, if the Board is not satisfied that the current payment amount is just and reasonable.
 
 ### Burden of proof
@@ -2731,7 +3337,9 @@ ii. to make investments for the development and implementation of the smart grid
 ### Order
 
 (7) If the Board on its own motion or at the request of the Minister commences a proceeding to determine whether an amount that the Board may approve or fix under this section is just and reasonable,
+
 (a) the burden of establishing that the amount is just and reasonable is on the generator; and
+
 (b) the Board shall make an order approving or fixing an amount that is just and reasonable.
 
 ### Application
@@ -2745,6 +3353,7 @@ ii. to make investments for the development and implementation of the smart grid
 ### Payment amounts
 
 (2) The payments to the Financial Corporation in respect of a contract referred to in subsection (1) shall equal the amounts required to reimburse the Financial Corporation for its indirect costs, as determined under the regulations, and its direct costs under the contract.
+
 (3) Repealed: 2014, c. 7, Sched. 23, s. 8.
 
 ### Payments to transmitters from public funds
@@ -2754,6 +3363,7 @@ ii. to make investments for the development and implementation of the smart grid
 ### Rate reduction
 
 (2) The Board shall, in approving or fixing just and reasonable rates under section 78 for a transmitter, reduce the rates to reflect amounts paid to the transmitter under subsection (1).
+
 78.4 Repealed: 2014, c. 7, Sched. 23, s. 9.
 
 ### Payments to distributors under conservation and demand management programs
@@ -2767,6 +3377,7 @@ ii. to make investments for the development and implementation of the smart grid
 ### Regulations review
 
 (3) A regulation made under subsection (2) may require the Board to undertake its review of the amounts referred to in this section at the time or times prescribed by the regulation.
+
 (4) Repealed: 2014, c. 7, Sched. 23, s. 10 (2).
 
 ### Conflict with market rules
@@ -2780,7 +3391,9 @@ ii. to make investments for the development and implementation of the smart grid
 ### Special case
 
 (2) In setting rates under subsection (1), the Board shall ensure that the class of rural or remote consumers receiving assistance under section 108 of the Power Corporation Act on the day before this section comes into force shall receive rate protection while they continue to,
+
 (a) occupy the same rural residential premises, as defined in section 108 of the Power Corporation Act, as they were occupying on that day; and
+
 (b) live in a part of Ontario designated by regulation as a rural or remote area.
 
 ### Compensation
@@ -2810,21 +3423,37 @@ ii. to make investments for the development and implementation of the smart grid
 ### Regulations
 
 (5) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing the consumers or classes of consumers eligible for rate protection under this section in addition to those described under subsection (2);
+
 (b) designating areas in Ontario as rural or remote areas;
+
 (c) prescribing rules for the calculation of the amount of the rate reduction;
+
 (d) prescribing maximum amounts of the total annual value of rate protection that may be provided under this section;
+
 (e) prescribing rules respecting the amounts that must be collected to compensate distributors, taking into account any compensation provided under subsection (4.1), including rules,
+
 (i) respecting the calculation of those amounts,
+
 (ii) respecting the calculation of any off-set to the liability of consumers under subsection (3) having regard to those amounts,
+
 (iii) establishing the time and manner of collection,
+
 (iv) requiring the amounts to be paid in instalments and requiring the payment of interest or penalties on late payments,
+
 (v) prescribing methods of ensuring that the amounts required cannot be bypassed, and
+
 (vi) respecting the distribution of those amounts to consumers;
+
 (e.1) prescribing classes of consumers for the purposes of subsection (4.1), and governing how and when the compensation is to be provided with respect to the rate protection provided to them, including, without restricting the generality of the foregoing, requiring the IESO to receive payments or amounts from the Minister of Energy and to make payments to licensed distributors or to prescribed persons and prescribing how and when payments are to be made;
+
 (f) respecting the use of money collected in excess of the amount required to compensate distributors;
+
 (g) prescribing the powers and duties of the Board in relation to the calculation of amounts to be collected and the time and manner of collection and distribution;
+
 (g.1) providing for and governing the limitation period for the purposes of subsection (4.4);
+
 (h) respecting any other matter that the Lieutenant Governor in Council considers necessary in relation to the rate protection.
 
 ### General or particular
@@ -2850,25 +3479,41 @@ ii. to make investments for the development and implementation of the smart grid
 ### Regulations
 
 (4) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing consumers or classes of consumers eligible for rate protection under this section;
+
 (b) prescribing criteria to be met by a qualifying generation facility;
+
 (c) prescribing the criteria to be satisfied for an investment to be an eligible investment;
+
 (d) prescribing rules for the calculation of the amount of the rate reduction;
+
 (e) prescribing maximum amounts of the total annual value of rate protection that may be provided under this section;
+
 (f) prescribing rules respecting the amounts that must be collected to compensate distributors, including rules,
+
 (i) respecting the calculation of those amounts,
+
 (ii) establishing the time and manner of collection,
+
 (iii) requiring the amounts to be paid in instalments and requiring the payment of interest or penalties on late payments,
+
 (iv) prescribing methods of ensuring that the amounts required cannot be bypassed, and
+
 (v) respecting the distribution of the amounts collected;
+
 (g) prescribing the powers and duties of the Board in relation to the calculation of amounts to be collected and the time and manner of collection and distribution;
+
 (g.1) providing for and governing the limitation period for the purposes of subsection (3.1);
+
 (h) respecting any other matter that the Lieutenant Governor in Council considers necessary for the purposes of this section.
 
 ### Definitions
 
 (5) In this section,
+
 “eligible investment” means an investment in the construction, expansion or reinforcement of a distribution line, transformer, plant or equipment used for conveying electricity at voltages of 50 kilovolts or less that meets the criteria prescribed by regulation; (“investissement admissible”)
+
 “qualifying generation facility” means a generation facility that meets the criteria prescribed by regulation. (“installation de production admissible”)
 
 ### Rate assistance
@@ -2918,11 +3563,17 @@ ii. to make investments for the development and implementation of the smart grid
 ### Deemed licence conditions, IESO, settlements, payments, etc.
 
 (11) Every licence issued to the IESO, a distributor or unit sub-meter provider or a retailer of electricity shall be deemed to contain conditions requiring the licensee to do anything necessary to implement and administer the provision of rate assistance under this section as may be required by the regulations or the Board, including requirements with respect to,
+
 (a) making payments to the IESO, distributors, unit sub-meter providers and other persons and entities identified by the regulations;
+
 (b) receiving payments or other amounts from the IESO, distributors, unit sub-meter providers and other persons and entities identified by the Minister;
+
 (c) requiring licensees to pass any rate assistance provided for under this section through to rate-assisted consumers in the manner provided for in the regulations;
+
 (d) engaging in settlement activities;
+
 (e) providing information to and receiving information from the Ministry of Energy, the Board, the IESO, distributors, unit sub-meter providers, retailers of electricity and any other prescribed persons and entities in the time and in the manner provided for by the Board or as may be prescribed; and
+
 (f) entering into agreements or arrangements with licensees and other persons.
 
 ### Information, etc.
@@ -2936,17 +3587,29 @@ ii. to make investments for the development and implementation of the smart grid
 ### Regulations
 
 (14) The Lieutenant Governor in Council may make regulations governing anything dealt with in this section and without limiting the generality of the foregoing, may make regulations,
+
 (a) governing anything that is described in this section as being prescribed or as being provided for in the regulations or that is required to be done in accordance with the regulations;
+
 (b) governing the time or times at which rate assistance shall be paid or become payable to rate-assisted consumers;
+
 (c) governing the determination of classes of consumers who are rate-assisted consumers, including providing for different classes of rate-assisted consumers;
+
 (d) requiring that certain costs and expenditures related to the Ontario Electricity Support Program be only incurred with the prior approval of the Minister, and governing those costs and expenditures;
+
 (e) establishing rules for the calculation of the amount of the rate assistance to be provided;
+
 (f) governing payments under this section, including determining the method or methods of calculating the amount of rate assistance to be provided;
+
 (g) setting maximum amounts of the total annual value of rate assistance that may be provided;
+
 (h) requiring a distributor, the IESO or a unit sub-meter provider or other prescribed person or entity to make or receive payments in respect of rate assistance, including requiring them to make or receive payments directly to or from the Ministry of Energy or to receive overpayments directly or indirectly from consumers or other persons entitled to receive the rate assistance and prescribing the circumstances in which such payments are to be made and received and such overpayments are to be received as well as methods for determining the amounts payable or to be received;
+
 (i) requiring the IESO to receive payments from the Minister and requiring the IESO to make payments to the Board, to licensed distributors, to unit sub-meter providers or to prescribed persons, in respect of the rate assistance provided under this section and governing methods for determining the amounts payable;
+
 (j) governing the Board’s or other prescribed entity’s administration and program-related costs in administering the Ontario Electricity Support Program;
+
 (j.1) providing for and governing the limitation period for the purposes of subsection (10.1);
+
 (k) governing transitional matters arising from the changes made to the Ontario Electricity Support Program as a result of the enactment of the Fair Hydro Act, 2017.
 
 ### Retroactivity
@@ -2964,7 +3627,9 @@ ii. to make investments for the development and implementation of the smart grid
 ### Definitions
 
 (18) In this section,
+
 “Government assistance program” has the meaning provided for in subsection 11 (2) of the Ministry of Revenue Act; (“programme d’aide gouvernementale”)
+
 “rate-assisted consumer” means a consumer referred to in subsection (7). (“consommateur admissible à l’aide tarifaire”)
 
 ### Confidentiality, information sharing, etc.
@@ -2974,7 +3639,9 @@ ii. to make investments for the development and implementation of the smart grid
 ### Agreement, etc.
 
 (2) The services that may be included in an agreement referred to in subsection (1) are the following:
+
 1. Providing documents and information about the Ontario Electricity Support Program.
+
 2. Processing applications for the Ontario Electricity Support Program.
 
 ### Arrangements with others
@@ -3016,8 +3683,11 @@ ii. to make investments for the development and implementation of the smart grid
 ### Notification about the management of personal information
 
 (12) The Minister of Community and Social Services shall ensure that a notice is published on a website describing,
+
 (a) the purpose for which that Minister collects, uses, discloses and retains personal information in connection with the Ontario Electricity Support Program;
+
 (b) the types of personal information that may be collected, used, disclosed and retained in connection with the Ontario Electricity Support Program, and the circumstances in which the personal information may be collected, used, disclosed and retained in connection with that Program; and
+
 (c) the title, and contact information, including an email address, of an employee who can answer an individual’s questions about the use of the personal information under this section.
 
 ### Distribution rate-protected residential consumers
@@ -3031,7 +3701,9 @@ ii. to make investments for the development and implementation of the smart grid
 ### Maximum charge
 
 (3) Despite any order of the Board, or anything else under this Act, where the regulations so provide, a prescribed distributor who distributes electricity to distribution rate-protected residential consumers shall not charge those consumers, or a prescribed class of those consumers, any amount for monthly base distribution charges more than,
+
 (a) the maximum amount for the charge that is provided for in the regulations; or
+
 (b) the amount determined by the Board after applying any calculations, processes or methods provided for in the regulations.
 
 ### Distributors
@@ -3053,23 +3725,33 @@ ii. to make investments for the development and implementation of the smart grid
 ### Transitional
 
 (8) If, for technical or operational reasons, a distributor referred to in subsection (3) is unable to adapt its invoices to comply with this section and the regulations by the time it issues its first invoice for electricity consumed after the prescribed date in respect of an account of a consumer who is eligible for distribution rate protection under this section,
+
 (a) the distributor shall adapt its invoices as soon as possible and, in any event, no later than a date prescribed in the regulations; and
+
 (b) consumers continue to be entitled to receive the distribution rate protection to which they are entitled under this Act and may receive it as a lump sum credit on the invoice for the first billing period after the invoices have been adapted or by such other means as may be prescribed by the regulations.
 
 ### Regulations
 
 (9) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing consumers or classes of consumers as distribution rate-protected residential consumers for the purposes of this section;
+
 (b) prescribing dates for the purposes of subsections (1) and (8);
+
 (c) prescribing distributors for the purposes of this section;
+
 (d) governing anything that is described in this section as being prescribed or as being provided for in the regulations or that is required to be done in accordance with the regulations;
+
 (e) governing the provision of distribution rate protection by the Minister in respect of distribution rate-protected residential consumers under this section including determining the method or methods of calculating the amount of rate protection to be provided;
+
 (f) requiring the IESO to receive payments from the Minister and to make payments to licensed distributors, or to persons prescribed by the regulations, in respect of the distribution rate protection provided for under this section and prescribing methods for determining the amounts payable to distributors or distribution rate-protected residential consumers in respect of that protection.
 
 ### Interpretation
 
 (10) In this section,
+
 “distribution rate-protected residential consumer” has the meaning provided for in the regulations; (“consommateur résidentiel protégé contre les frais de distribution”)
+
 “monthly base distribution charges” has the meaning provided for in the regulations. (“frais de distribution mensuels de base”)
 
 ### Delivery credit for on-reserve consumers
@@ -3083,12 +3765,19 @@ ii. to make investments for the development and implementation of the smart grid
 ### Eligible costs
 
 (3) The eligible costs for the delivery credit referred to in subsection (1) are,
+
 (a) the sum of the following charges for which the consumer would otherwise be liable,
+
 (i) all variable and fixed distribution charges,
+
 (ii) all charges based on the retail transmission network service rate,
+
 (iii) all charges based on the retail transmission connection service rate,
+
 (iv) all charges related to losses incurred in the distribution of electricity, except for such amounts that are included in regulatory charges provided for in the regulations, and
+
 (v) any other charges that may be prescribed in the regulations; or
+
 (b) where no separate charges for delivery are provided for by the distributor or other person or entity that may be prescribed in the regulations, the monthly service charge or such other amount as may be prescribed for or in respect of a prescribed distributor.
 
 ### Delivery credit
@@ -3118,21 +3807,29 @@ ii. to make investments for the development and implementation of the smart grid
 ### Transitional
 
 (10) If, for technical or operational reasons, a distributor referred to in subsection (4) is unable to adapt its invoices to comply with this section and the regulations by the time it issues its first invoice for electricity consumed after the prescribed date in respect of an eligible account,
+
 (a) the distributor shall adapt its invoices as soon as possible and, in any event, no later than a date prescribed in the regulations; and
+
 (b) on-reserve consumers continue to be entitled to receive the delivery credit to which they are entitled under this Act and may receive it as a lump sum credit on the invoice for the first billing period after the invoices have been adapted or by such other means as may be prescribed by the regulations.
 
 ### Regulations
 
 (11) The Lieutenant Governor in Council may make regulations,
+
 (a) governing who is an on-reserve consumer for the purposes of this section and, without limiting the generality of the foregoing, may provide that consumers who occupy certain areas are on-reserve consumers, and may do so without regard to whether those areas constitute a “reserve” under any other Act or law;
+
 (b) prescribing dates for the purposes of subsections (1) and (10);
+
 (c) governing provision of the delivery credits provided to on-reserve consumers under this section and, without restricting the generality of the foregoing, governing anything that under this section is to be prescribed or provided for in the regulations, or that is to be done in accordance with the regulations;
+
 (d) determining the method or methods of calculating the amount of the delivery credits to be provided by the Minister in respect of on-reserve consumers under this section;
+
 (e) requiring the IESO to make and receive payments to and from the Minister and to make payments to licensed distributors, or to persons prescribed by the regulations, in respect of the delivery credits provided for under this section and prescribing methods for determining the amounts payable to distributors or on-reserve consumers in respect of the credits provided.
 
 ### Interpretation
 
 (12) In this section,
+
 “on-reserve consumer” has the meaning provided for in the regulations.
 
 ### Application
@@ -3142,6 +3839,7 @@ ii. to make investments for the development and implementation of the smart grid
 ### Definition
 
 79.6 In sections 79.7 to 79.11,
+
 “Finance Minister” means the Minister of Finance or such other member of the Executive Council to whom the administration of those sections is assigned under the Executive Council Act.
 
 ### Records
@@ -3151,7 +3849,9 @@ ii. to make investments for the development and implementation of the smart grid
 ### Electronic records
 
 (2) If a person keeps records in an electronic form, the person shall ensure that, from the time the records are first made and for as long as they are required to be retained,
+
 (a) they remain complete and unaltered, apart from any changes or additions made in the normal course of communication, storage or display; and
+
 (b) they are capable of being printed and of being produced in electronically readable format for inspection, examination or audit.
 
 ### Retention of records
@@ -3203,16 +3903,23 @@ ii. to make investments for the development and implementation of the smart grid
 ### Definitions
 
 79.9 (1) In this section,
+
 “inspector” means an inspector referred to in section 79.8; (“inspecteur”)
+
 “overpayment” means an amount received by a person in excess of that to which the person is entitled under sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them. (“trop-perçu”)
 
 ### Notice of overpayment
 
 (2) If it appears to an inspector that a person has received an overpayment, the Finance Minister may send a written notice to the person advising the person of the following:
+
 1. That the person has received an overpayment.
+
 2. The amount of the overpayment and how it was calculated.
+
 3. The required steps to be taken by the person with respect to the overpayment.
+
 4. The date, not more than six months after the date of the notice, by which these steps must be completed.
+
 5. That the Finance Minister has the authority to assess the person for the amount of the overpayment, plus interest, if the person fails to complete the required steps by the specified date.
 
 ### Calculation of amount of overpayment
@@ -3238,9 +3945,13 @@ ii. to make investments for the development and implementation of the smart grid
 ### Deeming
 
 (8) An amount assessed or reassessed by the Finance Minister under this section is deemed, for the purposes of the administration and enforcement of this Act, to be a debt retirement charge owing and payable, as defined in subsection 85 (1) of the Electricity Act, 1998, that has been collected, on the last day of the month in which the person received the overpayment, by the person as a collector appointed under subsection 85.3 (1) of the Electricity Act, 1998 and, for those purposes,
+
 (a) sections 85.11, 85.12, 85.14, 85.17 and 85.30 of that Act apply with necessary modifications;
+
 (b) in the application of sections 85.11 and 85.14 of that Act and without limiting the generality of clause (a) of this subsection, references to the Financial Corporation are read as references to the Minister of Finance and references to the Minister of Finance are read as references to the Finance Minister as defined in section 79.6 of this Act;
+
 (c) the regulations made under that Act for the purposes of calculating the rate or rates of interest payable under section 85.11 of that Act and the manner of calculating the amount of interest apply with necessary modifications; and
+
 (d) sections 23 and 36, subsections 37 (1), (1.1) and (2) and sections 37.1, 38 and 39 of the Retail Sales Tax Act apply with necessary modifications.
 
 ### Disposition of repaid amounts
@@ -3250,26 +3961,35 @@ ii. to make investments for the development and implementation of the smart grid
 ### Confidentiality
 
 79.10 (1) Except as authorized by this section, no person employed by the Government of Ontario shall,
+
 (a) knowingly communicate or knowingly allow to be communicated to any person any information obtained by or on behalf of the Minister of Energy or the Finance Minister for the purposes of sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them; or
+
 (b) knowingly allow any person to inspect or to have access to any record or thing obtained by or on behalf of either Minister for the purposes of this Act.
 
 ### Testimony
 
 (2) No person employed by the Government of Ontario shall be required, in connection with any legal proceedings,
+
 (a) to give evidence relating to any information obtained by or on behalf of the Minister of Energy or Finance Minister for the purposes of this Act; or
+
 (b) to produce any record or thing obtained by or on behalf of either Minister for the purposes of this Act.
 
 ### Exception
 
 (3) Subsections (1) and (2) do not apply in respect of,
+
 (a) criminal proceedings under any Act of the Parliament of Canada;
+
 (b) proceedings in respect of the trial of any person for an offence under an Act of the Legislature; or
+
 (c) proceedings relating to the administration or enforcement of this Act or Part V.1 or VI of the Electricity Act, 1998.
 
 ### Communication
 
 (4) A person employed by the Government of Ontario may, in the course of duties in connection with the administration or enforcement of sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them,
+
 (a) communicate or allow to be communicated to another person employed by the Government of Ontario in the administration or enforcement of any law or to an employee of the Board information obtained by or on behalf of either Minister for the purposes of sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them; and
+
 (b) allow another person employed by the Government of Ontario in the administration or enforcement of any law or an employee of the Board to inspect or have access to any record or thing obtained by or on behalf of either Minister for the purposes of sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them.
 
 ### Reciprocal communication
@@ -3283,14 +4003,19 @@ ii. to make investments for the development and implementation of the smart grid
 ### Same
 
 (7) The Finance Minister may permit information or a copy of any record or thing obtained by or on behalf of the Finance Minister for the purposes of sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them to be given to,
+
 (a) the person from whom the information, record or thing was obtained;
+
 (b) any person by whom an amount is payable or has been paid under sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them; or
+
 (c) the legal representative of a person mentioned in clause (a) or (b) or the agent of the person authorized in writing in that behalf.
 
 ### Information
 
 (8) The Finance Minister may permit information or a copy of any record or thing obtained by or on behalf of the Finance Minister for the purposes of sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them to be given to any person employed by any government if,
+
 (a) the information, record or thing obtained by that government for the purpose of any Act that imposes a tax or duty are communicated or furnished on a reciprocal basis to the Minister; and
+
 (b) the information, record or thing will not be used for any purpose other than the administration or enforcement of a law that provides for the imposition of a tax or duty.
 
 ### Offence
@@ -3302,16 +4027,23 @@ ii. to make investments for the development and implementation of the smart grid
 ### False statements, etc., and fraud
 
 79.11 (1) Every person who engages in any of the following acts or omissions is guilty of an offence:
+
 1. Making, participating in, assenting to or acquiescing in the making of a false or deceptive statement in any document or answer required or submitted under sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them.
+
 2. Destroying, altering, mutilating, hiding or otherwise disposing of information or records of any person, for the purpose of evading compliance with sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them.
+
 3. Making, assenting to or acquiescing in the making of a false or deceptive entry of a material particular in a record of any person required to maintain records for the purposes of sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them.
+
 4. Omitting to make or assenting to or acquiescing in the omission of an entry of a material particular in a record of any person required to maintain records for the purposes of sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them.
+
 5. Wilfully evading or attempting to evade, in any manner, compliance with an obligation under sections 79, 79.2, 79.3 and 79.4 or the regulations made in association with them.
 
 ### Penalty upon conviction
 
 (2) A person convicted of an offence under subsection (1) is liable to either or both of the following penalties in addition to any other penalty assessed under this Act:
+
 1. A fine in an amount that is not less than $1,000 and not more than $10,000.
+
 2. Imprisonment for a term of not more than two years.
 
 ### General offence
@@ -3325,28 +4057,39 @@ ii. to make investments for the development and implementation of the smart grid
 ### Payment of fines
 
 (5) Fines imposed on conviction of an offence provided for in this section are payable to the Finance Minister on behalf of the Crown in right of Ontario.
+
 79.12 Repealed: 1998, c. 15, Sched. B, s. 79.11.
+
 79.13 Repealed: 1998, c. 15, Sched. B, s. 79.11.
+
 79.14 Repealed: 1998, c. 15, Sched. B, s. 79.11.
+
 79.15 Repealed: 1998, c. 15, Sched. B, s. 79.11.
 
 ### Commodity price for electricity: low volume consumers, etc.
 
 79.16 (1) Despite any order under section 78 and, subject to subsection (7), despite any agreement to the contrary entered into or renewed on or before December 9, 2002, the rates for electricity payable by a consumer who is a member of a class of consumers prescribed by the regulations for the purposes of this section are,
+
 (a) with respect to electricity used on or after the day this subsection comes into force and before the day prescribed by the regulations for the purposes of this subsection, the price determined in accordance with the regulations; and
+
 (b) with respect to electricity used on or after the day prescribed by the regulations for the purposes of this subsection, the rates determined by the Board in accordance with the regulations.
 
 ### Same
 
 (2) The Board shall not make any rate determinations for the purposes of clause (1) (b) unless a regulation has been made under clause 88 (1) (z.8).
+
 (3) Repealed: 2017, c. 16, Sched. 1, s. 44 (4).
 
 ### Exception: consumers who file statement
 
 (4) Subsection (1) does not apply to a consumer if,
+
 (a) the consumer indicates in a written statement that the consumer does not wish to have subsection (1) apply and the consumer files the written statement with,
+
 (i) the distributor with whom the consumer has an account, if the consumer is not a market participant, or
+
 (ii) the IESO, if the consumer is a market participant; and
+
 (b) at the time the statement is filed under clause (a), a regulation prescribing criteria for the purpose of this clause is in force and those criteria are met.
 
 ### Application of subs. (1)
@@ -3384,13 +4127,17 @@ ii. to make investments for the development and implementation of the smart grid
 ### Prohibition, generation by transmitters or distributors
 
 80 No transmitter or distributor or affiliate of a transmitter or distributor shall acquire an interest in a generation facility in Ontario, construct a generation facility in Ontario or purchase shares of a corporation that owns a generation facility in Ontario unless it has first given notice of its proposal to do so to the Board and the Board,
+
 (a) has not issued a notice of review of the proposal within 60 days of the filing of the notice; or
+
 (b) has approved the proposal under section 82.
 
 ### Prohibition, transmission or distribution by generators
 
 81 No generator or affiliate of a generator shall acquire an interest in a transmission or distribution system in Ontario, construct a transmission or distribution system in Ontario or purchase shares of a corporation that owns a transmission or distribution system in Ontario unless it has first given notice of its proposal to do so to the Board and the Board,
+
 (a) has not issued a notice of review of the proposal within 60 days of the filing of the notice; or
+
 (b) has approved the proposal under section 82.
 
 ### Review of acquisition
@@ -3400,13 +4147,17 @@ ii. to make investments for the development and implementation of the smart grid
 ### Order
 
 (2) The Board shall make an order approving a proposal described in section 80 if it determines that,
+
 (a) the impact of the proposal would not adversely affect the development and maintenance of a competitive market and the proposal is not inconsistent with the objectives of the Board or the purposes of the Electricity Act, 1998; or
+
 (b) the proposal is required to maintain the reliability of the transmission or distribution system of the relevant transmitter or distributor.
 
 ### Same
 
 (3) The Board shall make an order approving a proposal described in section 81 if it determines that,
+
 (a) the impact of the proposal would not adversely affect the development and maintenance of a competitive market; and
+
 (b) the proposal is not inconsistent with the objectives of the Board or the purposes of the Electricity Act, 1998.
 
 ### Condition for making order
@@ -3432,15 +4183,21 @@ ii. to make investments for the development and implementation of the smart grid
 ### Distinction between transmission and distribution, determination
 
 84 In making a decision in any proceeding under this Part or under the Electricity Act, 1998, the Board may determine that,
+
 (a) a system or part of a system that forms part of a transmission system is a distribution system or part of a distribution system; and
+
 (b) a system or part of a system that forms part of a distribution system is a transmission system or part of a transmission system.
+
 85 Repealed: 2003, c. 3, s. 54.
 
 ### Change in ownership or control of systems
 
 86 (1) No transmitter or distributor, without first obtaining from the Board an order granting leave, shall,
+
 (a) sell, lease or otherwise dispose of its transmission or distribution system as an entirety or substantially as an entirety;
+
 (b) sell, lease or otherwise dispose of that part of its transmission or distribution system that is necessary in serving the public; or
+
 (c) amalgamate with any other corporation.
 
 ### Same
@@ -3450,27 +4207,37 @@ ii. to make investments for the development and implementation of the smart grid
 ### Acquisition of share control
 
 (2) No person, without first obtaining an order from the Board granting leave, shall,
+
 (a) acquire such number of voting securities of a transmitter or distributor that together with voting securities already held by such person and one or more affiliates or associates of that person, will in the aggregate exceed 10 per cent of the voting securities of the transmitter or distributor; or
+
 (b) acquire control of any corporation that holds, directly or indirectly, more than 10 per cent of the voting securities of a transmitter or distributor if such voting securities constitute a significant asset of that corporation.
 
 ### Same
 
 (2.1) Subsection (2) does not apply to,
+
 (a) the Crown in right of Ontario;
+
 (b) an underwriter (within the meaning of the Securities Act) who holds the voting securities solely for the purpose of distributing them to the public;
+
 (c) any person or entity who is acting in relation to the voting securities solely in the capacity of an intermediary in the payment of funds or the delivery of securities or both in connection with trades in securities and who provides centralized facilities for the clearing of trades in securities; or
+
 (d) any person or entity who holds the voting securities by way of security only.
 
 ### Significant asset
 
 (3) For the purposes of subsection (2),
+
 (a) an asset is a significant asset if its value is 10 per cent or more of the aggregate book value of the total assets of a person, determined on a consolidated basis in accordance with generally accepted accounting principles; and
+
 (b) “control”, with respect to a corporation, has the same meaning as in the Business Corporations Act.
 
 ### Valuation of voting securities
 
 (4) For the purpose of determining whether voting securities constitute a significant asset, the value of the voting securities shall be deemed to be,
+
 (a) the market value of the securities if more than 10 per cent of the voting securities are publicly traded; and
+
 (b) 115 per cent of the book value of the voting securities, as determined by the equity method of accounting, in all other cases.
 
 ### Mortgages
@@ -3504,96 +4271,179 @@ ii. to make investments for the development and implementation of the smart grid
 ### Board to advise Minister
 
 (2) The Board shall advise the Minister with respect to any of the following matters if requested by the Minister to do so or if the Board considers it advisable to do so:
+
 1. Any abuse or potential abuse of market power in the electricity sector.
+
 2. The circumstances giving rise to or that is capable of giving rise to unintended outcomes or effects that operate contrary to the interests of competition.
 
 ### Regulations, electricity licences
 
 88 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing requirements for a licence which allows for the retailing of electricity to residential or small business consumers, as defined in the regulations, which, if not met, will result in the refusal to issue or renew a licence;
+
 (a.0.1) for the purposes of section 57.1,
+
 (i) providing for conditions or restrictions on the Board’s power to make orders under that section, including limiting the number of times an exemption may be extended under subsection 57.1 (3), and
+
 (ii) governing criteria for pilot and demonstration projects, which may include criteria respecting the manner in which a project is funded;
+
 (a.0.2) prescribing classes of consumers for the purposes of section 58;
+
 (a.1) providing for the establishment, administration and operation of a tracking system to associate electricity with the processes and fuel types used by generation facilities and with the types and quantities of contaminants emitted by generation facilities, including,
+
 (i) designating the administrator of the tracking system and prescribing the administrator’s powers and duties,
+
 (ii) designating a person or body to audit the tracking system and the information used by the tracking system and prescribing the auditor’s powers and duties, including powers to enter business premises and inspect documents and records,
+
 (iii) requiring persons prescribed by the regulations to submit information prescribed by the regulations or by the administrator or auditor of the tracking system to the administrator or auditor in a form and at times specified by the regulations or by the administrator or auditor,
+
 (iv) protecting the administrator of the tracking system from liability arising from incorrect information provided by other persons,
+
 (v) requiring the administrator or auditor of the tracking system or the Minister to make determinations for the purposes of the tracking system,
+
 (vi) requiring information from the tracking system to be made available to the public,
+
 (vii) requiring persons prescribed by the regulations to provide other persons prescribed by the regulations with information from the tracking system in a form and at times specified by the regulations or by the administrator or auditor of the tracking system,
+
 (viii) authorizing and governing the issuance of certificates related to determinations made for the purposes of the tracking system, and
+
 (ix) authorizing the administrator of the tracking system, subject to the approval of the Board, to establish and charge fees in connection with the tracking system, and governing the establishment and charging of those fees;
+
 (b) requiring retailers or generators or persons engaged in an activity described in clause 57 (f) to make timely disclosure to the Minister of the Environment, or the IESO in the manner and at the times prescribed, of the nature and quantity of the prescribed contaminants emitted by the generation facility from which the electricity being sold or offered for sale is produced or deemed to be produced, the nature of the fuel and the process of generation used at the facility;
+
 (c) authorizing the Minister of the Environment to determine from which generation facility or facilities electricity is deemed to be produced in accordance with such rules as may be prescribed in the regulation;
+
 (d) requiring retailers or generators or persons engaged in an activity described in clause 57 (f) to file with the Board, in such form and at such times as the Board may determine, evidence that the generation facility from which the electricity is produced or is deemed to be produced meets standards for emission of prescribed contaminants from a source or class of sources set out under the Environmental Protection Act;
+
 (e) respecting the manner in which reductions, credits or allowances acquired by a retailer, generator or a person engaged in an activity described in clause 57 (f) under the Environmental Protection Act may be used in determining whether there has been compliance with the standards referred to in clause (d);
+
 (f) requiring retailers to make timely disclosure to consumers, in the manner and at the times prescribed, of the nature and quantity of the prescribed contaminants emitted by the generation facility from which the electricity being sold or offered for sale is produced or is deemed to be produced, the nature of the fuel and the process of generation used at the facility and such other information as is prescribed;
+
 (g) delegating to a body the power to establish the manner and time requirements described in clause (f) and requiring retailers to disclose the information described in that clause in that manner and within those time periods;
+
 (g.1) requiring a distributor, in the circumstances and in the manner prescribed by the regulations, to subtract the amount of electricity conveyed into the distribution system by a generator from the amount consumed from the system by the generator, for billing purposes, if the generator generates electricity primarily for the generator’s own use;
+
 (g.2) for the purposes of clause 70 (2) (d.1), prescribing matters which may be included as a licence condition in a licence of a retailer of electricity in relation to the retailing of electricity;
+
 (g.3) for the purposes of subsection 71 (1), providing for circumstances in which a transmitter or distributor may carry on a business activity other than transmitting or distributing electricity other than through one or more affiliates, subject to any conditions or restrictions specified by the regulations;
+
 (g.3.1) prescribing rules for the purposes of subsection 71 (2);
+
 (g.3.2) governing,
+
 (i) the capacity of a renewable energy generation facility referred to in clause 71 (3) (a) and criteria for a renewable energy generation facility for the purposes of clause 71 (3) (a),
+
 (ii) criteria for a generation facility that uses technology that produces power and thermal energy from a single source for the purposes of clause 71 (3) (b), and
+
 (iii) criteria for an energy storage facility for the purposes of clause 71 (3) (c);
+
 (g.4) prescribing different situations for which separate rates must be approved or fixed under section 78, with those situations being defined with reference to amounts of electricity used and times when electricity is used;
+
 (g.5) governing the approving or fixing under section 78 of just and reasonable rates for the retailing of electricity in order to meet a distributor’s obligations under section 29 of the Electricity Act, 1998, including prescribing methods of and procedures for approving or fixing rates, including requiring persons licensed under this Part to participate in those methods and procedures and to enter into contracts or other arrangements as part of those methods and procedures;
+
 (g.6) prescribing different classes of consumers for the purposes of section 78 and the date or method of determining the date on which rates approved or fixed for a class of consumers take effect;
+
 (g.6.0.1) prescribing circumstances under which a transmitter or distributor shall bear the costs of construction, expansion or reinforcement associated with the connection of a renewable energy generation facility to the transmitter’s transmission system or the distributor’s distribution system;
+
 (g.6.0.2) for the purposes of subsection 78 (3.0.0.1), prescribing rules in relation to the approving or fixing of just and reasonable rates for unit smart metering that the Board must follow, prescribing classes of consumers for the purposes of clause 78 (3.0.0.1) (a) and prescribing circumstances for the purposes of clause 78 (3.0.0.1) (b);
+
 (g.6.1) prescribing the circumstances in which the Board may make orders permitting the Smart Metering Entity or distributors to establish deferral or variance accounts for the purposes of subsection 78 (3.0.2);
+
 (g.6.2) in respect of orders relating to the ability of the Smart Metering Entity, distributors, retailers and other persons to recover costs associated with the smart metering initiative for the purposes of subsection 78 (3.0.3);
+
 (g.7) governing the approving or fixing under subsection 78 (3.1) of rates for the retailing of electricity, including,
+
 (i) prescribing rules for the purposes of subsection 78 (3.1), and
+
 (ii) prescribing matters for the purposes of subsection 78 (3.4) to be taken into consideration in forecasting the cost of electricity and the methods of and procedures for forecasting the cost of electricity, including the treatment of any outstanding balances in variance accounts held by the IESO;
+
 (g.8) prescribing conditions for the purposes of subsection 78 (3.5);
+
 (g.9) providing for penalties and fines a transmitter or distributor is required to pay under an Act that the Board may include in approving or fixing rates for the transmission or distribution of electricity, for the purposes of paragraph 1 of subsection 78 (5);
+
 (g.10) Repealed: 2023, c. 9, Sched. 24, s. 6 (2).
+
 (h) prescribing, for the purposes of subsection 78 (5.1), methods and techniques for the calculation and treatment of transfers made by Hydro One Inc. or its subsidiary, as the case may be, that are authorized by section 50.1 of the Electricity Act, 1998;
+
 (i) prescribing, for the purposes of subsection 78 (5.2), methods and techniques for the treatment of the statutory right to use corridor land;
+
 (i.1) prescribing generators and generation facilities and units for the purposes of section 78.1;
+
 (i.2) prescribing generators or generation facilities and units at generation facilities whose generators may apply to the Board for an order that section 78.1 applies to the facility or unit and rules governing the procedure for applying, the criteria to be satisfied and any terms and limitations that must or may be included in the order;
+
 (i.3) governing circumstances in which payments shall not be made under section 78.1;
+
 (i.4) for the purposes of subsection 78.1 (3.2), specifying amounts relating to Ontario Power Generation Inc.’s activities under Part II.1 of the Electricity Act, 1998 that shall not be included in a payment to it under section 78.1, including providing for methods for determining the amounts;
+
 (i.5) Repealed: 2014, c. 7, Sched. 23, s. 12 (2).
+
 (i.6) governing the determination of payment amounts by the Board under section 78.1, including rules prescribing,
+
 (i) methods of and procedures for determining payment amounts,
+
 (ii) financial factors which the Board may take into consideration in determining payment amounts, and
+
 (iii) different payment amounts or different methods of and procedures for determining payment amounts for different situations, including situations defined with respect to energy sources, time of generation and amounts of electricity generated;
+
 (i.7) authorizing or requiring generators to establish one or more variance or deferral accounts in connection with section 78.1;
+
 (i.8) prescribing generation facilities for the purposes of section 78.2;
+
 (i.9) prescribing rules for determining the amount of the Financial Corporation’s indirect costs in respect of a contract for the purposes of section 78.2;
+
 (i.10), (i.11) Repealed: 2014, c. 7, Sched. 23, s. 12 (3).
+
 (j) governing all matters relating to payment amounts under section 78.5;
+
 (k)-(o) Repealed: 1998, c. 15, Sched. B, s. 79.1 (24).
+
 (p), (q) Repealed: 1998, c. 15, Sched. B, s. 79.2 (5).
+
 (r) Repealed: 1998, c. 15, Sched. B, s. 79.11.
+
 (r.1) Repealed: 1998, c. 15, Sched. B, s. 79.11.
+
 (r.2) Repealed: 1998, c. 15, Sched. B, s. 79.11.
+
 (s)-(y) Repealed: 1998, c. 15, Sched. B, s. 79.11.
+
 (z) Repealed: 2004, c. 23, Sched. B, s. 29 (9).
+
 (z.1) - (z.5) Repealed: 1998, c. 15, Sched. B, s. 79.11.
+
 (z.6) prescribing classes of consumers for the purposes of section 79.16;
+
 (z.7) prescribing prices or methods for determining prices for the purpose of clause 79.16 (1) (a), including prescribing separate prices or methods for different situations, including situations defined with respect to types of consumers and amounts of electricity used;
+
 (z.8) governing the determination of rates by the Board under clause 79.16 (1) (b), including,
+
 (i) prescribing methods of and procedures for determining rates, including requiring persons licensed under this Part to participate in those methods and procedures and to enter into contracts or other arrangements as part of those methods and procedures, and
+
 (ii) prescribing different situations for which separate rates must be determined, including situations defined with respect to types of consumers, amounts of electricity used and times when electricity is used;
+
 (z.9) prescribing a date for the purpose of subsection 79.16 (1);
+
 (z.10) prescribing criteria for the purposes of clause 79.16 (4) (b);
+
 (z.11) for the purposes of section 79.17, prescribing,
+
 (i) classes of consumers,
+
 (ii) information that must or may be included on invoices issued in respect of electricity to consumers in one or more of the prescribed classes,
+
 (iii) the requirements that the invoices must meet, and
+
 (iv) the form of the invoice, including prescribing different requirements and forms for the purposes of that section;
+
 (z.12) respecting the manner in which invoices issued in respect of electricity to consumers who are members of a class of consumers prescribed for the purposes of section 79.17 are to be provided to those consumers.
 
 ### Net metering, single generator
 
 (1.1) The Lieutenant Governor in Council may make regulations,
+
 (a) requiring a distributor mentioned in clause (1) (g.1) to apply any credit resulting from the application of a regulation made under that clause in accordance with such methods or criteria as may be prescribed;
+
 (b) prescribing the methods or criteria mentioned in clause (a), which may include limiting or prohibiting the application or recognition of any credit in a manner which results in the reduction of fixed charges on an invoice.
 
 ### Subdelegation
@@ -3615,10 +4465,15 @@ ii. to make investments for the development and implementation of the smart grid
 ### Net metering, other arrangements
 
 (2.1) The Lieutenant Governor in Council may make regulations,
+
 (a) requiring a distributor, in prescribed circumstances and in the prescribed manner, to subtract the amount of electricity conveyed into the distribution system by a generator from the amount consumed from the system by a consumer, for billing purposes, if the generator and the consumer have entered into an agreement that meets the prescribed criteria;
+
 (b) authorizing distributors and other persons to implement, in prescribed circumstances and in the prescribed manner, prescribed pilot or demonstration projects for the purpose of subtracting some or all of the electricity conveyed into a distribution system by one or more generators within one or more distributors’ service areas from the amount consumed from a distribution system by one or more consumers, for billing purposes, where the distributor, generator and other person, if any, and consumers to be billed as part of the project have entered into an agreement that meets prescribed criteria;
+
 (c) governing agreements mentioned in clauses (a) and (b);
+
 (d) requiring distributors to apply any credit to consumers resulting from a regulation made under clause (a) or (b) in accordance with such methods or criteria as may be prescribed;
+
 (e) prescribing the methods or criteria mentioned in clause (d), which may include limiting or prohibiting the application or recognition of any credit in a manner which results in the reduction of fixed charges on a consumer’s invoice.
 
 ### Agreements
@@ -3632,6 +4487,7 @@ ii. to make investments for the development and implementation of the smart grid
 ### General or particular
 
 (3) A regulation under this section may be general or particular in its application.
+
 88.0.1 Repealed: 2014, c. 7, Sched. 23, s. 13.
 
 ## part v.1 Gas Marketers and Retailers of Electricity — Standards and Audits
@@ -3639,44 +4495,75 @@ ii. to make investments for the development and implementation of the smart grid
 ### Licences
 
 88.1 (1) A licence issued under Part IV or V,
+
 (a) shall contain such conditions as may be prescribed by regulation; and
+
 (b) may contain such other conditions provided by an order of the Board or any rule or code issued by the Board.
 
 ### Same
 
 (2) For the purposes of subsection (1), a regulation may specify criteria, conditions or requirements that must or that may be included as a condition of licence in any licence issued to a gas marketer or a retailer of electricity, including criteria, conditions or requirements relating to the following:
+
 1. The operations, management and business practices of a gas marketer or retailer of electricity, including but not limited to the conduct of employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity.
+
 2. The activities, conduct or practices that must, may or may not be undertaken by the gas marketer or retailer of electricity, its employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity.
+
 3. The establishment of an assurance fund within each gas marketer or retailer of electricity, including,
+
 i. criteria and requirements as to the amount that the gas marketer or retailer of electricity is required to maintain in the fund or a method for determining the amount, and
+
 ii. the circumstances governing how the amount is to be contributed to the fund by the gas marketer or retailer of electricity and the times at which and the circumstances under which contributions are to be made and the amount is to be maintained.
+
 4. Standards that are required to be met by a gas marketer or a retailer of electricity or its employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity, including standards related to,
+
 i. education, training, certifications and communications,
+
 ii. business practices,
+
 iii. performance standards,
+
 iv. background verifications and assessments as required under paragraph 7,
+
 v. record keeping,
+
 vi. contracting, including standards related to contracting with prescribed consumers or prescribed classes of consumers, and
+
 vii. such other matters as may be prescribed by regulation.
+
 5. Information that is to be provided orally or in writing by a gas marketer or retailer of electricity or its employees, agents or third parties acting on its behalf to a consumer or a member of a class of consumers prescribed by regulation, the Board, the Ministry or to such other person or entity as may be prescribed by regulation and the circumstances in which the information must be provided and the time or times within which such information must be provided.
+
 6. Identification, including criteria or requirements related to the identification credentials or badges or other forms of identification provided to the employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity.
+
 7. Background verification and assessment of the employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity, including the requirement to establish a process or processes to conduct the verifications and assessments and the criteria and requirements for the time or times at which the verification and assessments must be performed.
+
 8. The establishment of processes related to employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity, including the prescribing of conditions, requirements or criteria to be met by such processes, for the following activities:
+
 i. Business related activities, including,
+
 A. licensing, including renewal, suspension and cancellation of licences,
+
 B. bonding and insurance,
+
 C. examination for prescribed credentials, certificates, accreditations or designations,
+
 D. creation of codes of conduct, best practices and policies,
+
 E. requirements in relation to independence from or permissible investment in or association with a gas marketer or retailer of electricity or another licensee, and
+
 F. such other matters as may be prescribed by regulation.
+
 ii. The conduct of activities referred to in this section in relation to each of the employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity at such times as may be prescribed by regulation.
+
 iii. Ensuring that the employees, agents or third parties acting on behalf of the gas marketer or retailer of electricity adhere to the processes referred to in this section and, in particular, obtain any prescribed credentials.
+
 9. Requirements or provisions that must be included in any arrangements or agreements relating to retailing of electricity or gas marketing in Ontario, including arrangements or agreements relating to retailing of electricity or gas marketing to consumers or to classes of consumers prescribed by regulation. Such requirements or provisions may be general or specific in nature.
 
 ### Licensing employees, etc.
 
 88.2 (1) Where a regulation made under this Act so requires, the Board shall license the following persons and the regulation may specify conditions, criteria or requirements that must or may be included in a licence issued to the person:
+
 1. Employees of a gas marketer or retailer of electricity or members of classes of such employees prescribed by regulation.
+
 2. Employees of third parties acting on behalf of gas marketers or retailers of electricity or members of classes of such employees prescribed by regulation.
 
 ### Processes, etc.
@@ -3686,7 +4573,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Powers of audit
 
 88.3 (1) The Board may appoint a person who meets the criteria as may be prescribed by regulation to audit the compliance of a gas marketer or retailer of electricity or its agents or employees with the requirements of,
+
 (a) any condition of a licence referred to in section 48 or 57; or
+
 (b) an enforceable provision.
 
 ### Time for audit
@@ -3704,10 +4593,15 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Examination of records, etc.
 
 (5) For the purposes of subsection (1), the person appointed may do or cause to be done any one or more of the following:
+
 1. Examining any record or copying any document or record, in any form, by any method.
+
 2. Requiring any document or record that is required to be kept under this Act to be provided, in any form, and requiring any other document or record related to the purposes of the audit to be provided, in any form.
+
 3. Examining documents relating to the training, education or professional credentials, certificates, accreditations or other designations of the employees, agents or third parties for the gas marketer or retailer of electricity, including determining which credentials, certificates, accreditations or other designations the employee, agent or third party has or has not received.
+
 4. Removing from a place documents or records, in any form, that are provided under paragraph 2 for the purpose of making copies.
+
 5. Making reasonable inquiries of any person, orally or in writing.
 
 ### Regulations
@@ -3719,8 +4613,11 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Definitions
 
 88.5 In this Part,
+
 “electric vehicle” means, subject to the regulations, a vehicle that has its motive power wholly or partly provided by electricity stored in a battery or other electricity storage device in the vehicle that is capable of being charged from an electricity source external to the vehicle; (“véhicule électrique”)
+
 “electric vehicle charging” means, subject to the regulations, the supply of electricity from an electric vehicle charging station to an electric vehicle in order to charge the vehicle; (“recharge des véhicules électriques”)
+
 “electric vehicle charging station” means, subject to the regulations, an electricity supply device, including any associated equipment, technologies and components, that is used to supply electricity to charge an electric vehicle. (“station de recharge pour véhicules électriques”)
 
 ### Application of Act
@@ -3738,20 +4635,31 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Regulations
 
 88.7 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) clarifying or modifying, including expanding or restricting, the definition of “electric vehicle”, “electric vehicle charging” or “electric vehicle charging station” in section 88.5;
+
 (b) clarifying the application of section 88.6;
+
 (c) providing for and governing the application of this Act to the distribution or retail of electricity for electric vehicle charging, subject to such modifications in application as the regulations may specify.
 
 ### Same
 
 (2) A regulation made under this section may be general or particular in its application.
+
 88.8 Repealed: 2003, c. 3, s. 58.
+
 88.9 Repealed: 2010, c. 8, s. 38 (21).
+
 88.9.1 Repealed: 2010, c. 8, s. 38 (21).
+
 88.10 Repealed: 2010, c. 8, s. 38 (21).
+
 88.11 Repealed: 2010, c. 8, s. 38 (21).
+
 88.12 Repealed: 2010, c. 8, s. 38 (21).
+
 88.13 Repealed: 2003, c. 3, s. 61.
+
 88.14 Repealed: 2003, c. 3, s. 61.
 
 ## PART VI TRANSMISSION AND DISTRIBUTION LINES
@@ -3759,20 +4667,31 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Definitions, Part VI
 
 89 In this Part,
+
 “electricity distribution line” means a line, transformers, plant or equipment used for conveying electricity at voltages of 50 kilovolts or less; (“ligne de distribution d’électricité”)
+
 “electricity transmission line” means a line, transformers, plant or equipment used for conveying electricity at voltages higher than 50 kilovolts; (“ligne de transport d’électricité”)
+
 “hydrocarbon line” means a pipe line carrying any hydrocarbon, other than a pipe line within an oil refinery, oil or petroleum storage depot, chemical processing plant or pipe line terminal or station; (“ligne pour hydrocarbures”)
+
 “interconnection” means the plant, equipment and apparatus linking adjacent transmission or distribution systems as defined in Part V; (“interconnexion”)
+
 “work” means a hydrocarbon line, electricity distribution line, electricity transmission line, interconnection or station. (“ouvrage”)
 
 ### Leave to construct hydrocarbon line
 
 90 (1) No person shall construct a hydrocarbon line without first obtaining from the Board an order granting leave to construct the hydrocarbon line if,
+
 (a) the proposed hydrocarbon line is more than 20 kilometres in length;
+
 (b) the proposed hydrocarbon line is projected to cost more than the amount prescribed by the regulations;
+
 (c) any part of the proposed hydrocarbon line,
+
 (i) uses pipe that has a nominal pipe size of 12 inches or more, and
+
 (ii) has an operating pressure of 2,000 kilopascals or more; or
+
 (d) criteria prescribed by the regulations are met.
 
 ### Exception
@@ -3794,6 +4713,7 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Exception
 
 (2) Subsection (1) applies to the relocation or reconstruction of an existing electricity transmission line or electricity distribution line or interconnection where no expansion or reinforcement is involved only if the acquisition of additional land or authority to use additional land is necessary.
+
 93 Repealed: 2003, c. 3, s. 65.
 
 ### Route map
@@ -3815,7 +4735,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Applications under s. 92
 
 (2) In an application under section 92, the Board shall only consider the following when, under subsection (1), it considers whether the construction, expansion or reinforcement of the electricity transmission line or electricity distribution line, or the making of the interconnection, is in the public interest:
+
 1. The interests of consumers with respect to prices and the reliability and quality of electricity service.
+
 2. Supporting economic growth in a manner consistent with the policies of the Government of Ontario.
 
 ### Same
@@ -3837,7 +4759,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Directives, applications re certain natural gas lines
 
 96.2 (1) The Minister may issue, and the Board shall implement, directives that have been approved by the Lieutenant Governor in Council providing that if the construction of a proposed natural gas transmission or dual-purpose transmission and distribution line specified by the directive is the subject of an application under section 90,
+
 (a) the Board shall accept that it is in the public interest for such natural gas consumers as are specified in the directive to bear the full cost of the line; and
+
 (b) the Board may not require a contribution in aid of construction or surcharge to be paid by a natural gas consumer who will be connected to or served by the line.
 
 ### Same
@@ -3851,7 +4775,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Directives re certain Board orders
 
 (4) If, during the period referred to in subsection (5), the Board makes an order refusing to grant leave to construct a proposed natural gas transmission or dual-purpose transmission and distribution line or an order granting leave to construct such a line subject to a condition that a contribution in aid of construction by natural gas consumers is required, the Minister may issue, and the Board shall implement, a directive that has been approved by the Lieutenant Governor in Council,
+
 (a) requiring the Board to rescind the order and hold a new hearing of the application, in the manner specified in the directive; and
+
 (b) providing that clauses (1) (a) and (b) apply with respect to the new hearing.
 
 ### Limitation
@@ -3885,14 +4811,19 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### No leave if covered by licence
 
 97.1 (1) In an application under section 92, leave shall not be granted to a person if a licence issued under Part V that is held by another person includes an obligation to develop, construct, expand or reinforce the line, or make the interconnection, that is the subject of the application.
+
 (2) Repealed: 2025, c. 22, Sched. 3, s. 10.
 
 ### Leave in the procurement, selection context
 
 97.2 (1) In an application under section 92, leave to construct, expand or reinforce an electricity transmission line or to make an interconnection shall not be granted to a person if,
+
 (a) the IESO has commenced, been directed to commence, or announced a future procurement process for the development, construction, expansion or reinforcement of that line or for the making of that interconnection, and the procurement process has not yet been completed or otherwise terminated;
+
 (b) the IESO has commenced, been directed to commence, or announced a future process to select a transmitter for the development, construction, expansion or reinforcement of that line or for the making of that interconnection, and the process has not yet been completed or otherwise terminated;
+
 (c) the IESO has completed a procurement process for the development, construction, expansion or reinforcement of that line or for the making of that interconnection, and the person is someone other than the person with whom the IESO has entered into a procurement contract respecting the development, construction, expansion, reinforcement or interconnection; or
+
 (d) the IESO has completed a process to select a transmitter for the development, construction, expansion or reinforcement of that line or for the making of that interconnection, and the person is someone other than the selected transmitter.
 
 ### No hearing required
@@ -3902,13 +4833,17 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Procurement contract
 
 (3) For the purposes of subsections (1) and (2),
+
 “procurement contract” has the same meaning as in the Electricity Act, 1998.
+
 (4) Repealed: 2025, c. 22, Sched. 3, s. 11.
 
 ### Procurement contracts re transmission systems
 
 97.3 (1) In an application under section 92, the Board shall accept as valid and not inquire into the basis of,
+
 (a) amounts payable under a procurement contract entered into under clause 25.32 (2) (d) of the Electricity Act, 1998, including the prices and costs provided for by the procurement contract, and any costs associated with the procurement contract; or
+
 (b) any procurement process relating to a procurement contract referred to in clause (a).
 
 ### Same
@@ -3918,36 +4853,51 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Right to enter land
 
 98 (1) The following persons may enter on land at the intended location of any part of a proposed work and may make such surveys and examinations as are necessary for fixing the site of the work:
+
 1. Any person who has leave under this Part or a predecessor of this Part to construct the work.
+
 2. Any person who is exempted under section 95 from the requirement to obtain leave to construct the work.
+
 3. Where the proposed work is the expansion or reinforcement of a transmission or distribution system, any person who is required by the Board, pursuant to a condition of the person’s licence, to expand or reinforce the transmission or distribution system.
+
 4. The officers, employees and agents of a person described in paragraph 1, 2 or 3.
+
 (1.1) Repealed: 2020, c. 36, Sched. 34, s. 6 (1).
 
 ### Order, hydrocarbon line
 
 (2) The Board may, on application, issue an order authorizing a person and the officers, employees and agents of that person to enter on land at the intended location of any part of a proposed hydrocarbon line and to make such surveys and examinations as are necessary for fixing the site of the hydrocarbon line and as are specified in the order if,
+
 (a) the person has applied for leave under section 90 and has complied with section 94; or
+
 (b) the person has applied to the Board for an exemption from the requirements of subsection 90 (1) under section 95.
 
 ### Order, other works
 
 (3) Subject to subsection (4), the Board may, on application, issue an order authorizing a person and the officers, employees and agents of that person to enter on land intended for the proposed construction, expansion or reinforcement of an electricity distribution line or electricity transmission line or making of an interconnection, or for the development of any such proposed work, for any of the following purposes:
+
 1. To gather field data and conduct tests to facilitate the preparation of an environmental assessment under the Environmental Assessment Act in relation to the proposed work, or to facilitate the preparation of an application for any other permit or approval required for the proposed work.
+
 2. To determine the land required for the proposed construction, expansion, reinforcement or making of the work.
 
 ### Same
 
 (4) Subsection (3) applies if,
+
 (a) either of the following applies with respect to the proposed work:
+
 (i) proposed terms of reference for the preparation of an environmental assessment for the proposed work have been approved under subsection 17.4 (10) of the Environmental Assessment Act, or
+
 (ii) the applicant has issued an initial notification respecting the proposed work in accordance with the requirements of the document titled “Class Environmental Assessment for Minor Transmission Facilities”, as it is amended from time to time, that is published by and available from Hydro One Inc.; and
+
 (b) any other requirements that are prescribed by the regulations have been met.
 
 ### Factors
 
 (5) In an application under subsection (3), the Board shall consider,
+
 (a) whether, before applying, the applicant made reasonable efforts to obtain consent for entry onto the land from the owner of the land; and
+
 (b) whether entry onto the land is needed for a purpose listed in subsection (3).
 
 ### Damages
@@ -3957,7 +4907,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Expropriation
 
 99 (1) The following persons may apply to the Board for authority to expropriate land for a work:
+
 1. Any person who has leave under this Part or a predecessor of this Part.
+
 2. Any person who intends to construct, expand or reinforce an electricity transmission line or an electricity distribution line or make an interconnection and who is exempted under this Act from the requirement to obtain leave.
 
 ### Hearing
@@ -3967,6 +4919,7 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Information to be filed
 
 (3) The applicant shall file with the Board a plan and description of the land required, together with the names of all persons having an apparent interest in the land.
+
 (4) Repealed: 2003, c. 3, s. 67.
 
 ### Power to make order
@@ -3980,9 +4933,13 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Crossings with leave
 
 101 (1) The following persons may apply to the Board for authority to construct a work upon, under or over a highway, utility line or ditch:
+
 1. Any person who has leave to construct the work under this Part.
+
 2. Any person who intends to construct the work and who is exempted under this Act from the requirement to obtain leave.
+
 3. Where the proposed work is the expansion or reinforcement of a transmission or distribution system, any person who is required by the Board, pursuant to a condition of the person’s licence, to expand or reinforce the transmission or distribution system.
+
 4. The officers, employees and agents of a person described in paragraph 1, 2 or 3.
 
 ### Procedure
@@ -4014,42 +4971,71 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Definitions
 
 104.1 In this Part,
+
 “development” includes the expansion or reinforcement of existing electricity infrastructure; (“aménagement”)
+
 “electricity infrastructure” means a distribution system, a transmission system and any related structure, system, equipment, facility or other thing that may be prescribed by the regulations. (“infrastructure de l’électricité”)
 
 ### Application
 
 104.2 This Part applies with respect to,
+
 (a) prescribed uses of or access to electricity infrastructure that are wholly or partly for a purpose other than the generation, transmission, distribution, consumption, sale or demand management of electricity, by persons or entities prescribed by the regulations; and
+
 (b) prescribed development of electricity infrastructure that is wholly or partly for the purpose of providing for or otherwise enabling electricity infrastructure use or access that is wholly or partly for a purpose other than the generation, transmission, distribution, consumption, sale or demand management of electricity.
 
 ### Regulations
 
 104.3 (1) The Lieutenant Governor in Council may make regulations governing the development of, use of or access to electricity infrastructure for the purposes of this Part, including,
+
 (a) for the purposes of section 104.2 and the application of this Part,
+
 (i) specifying or otherwise determining uses of and access to electricity infrastructure that are wholly or partly for a purpose other than the generation, transmission, distribution, consumption, sale or demand management of electricity, including, for greater certainty, anticipated or otherwise prospective uses and access,
+
 (ii) specifying or otherwise determining development of electricity infrastructure that is wholly or partly for the purpose of providing for or otherwise enabling electricity infrastructure use or access that is wholly or partly for a purpose other than the generation, transmission, distribution, consumption, sale or demand management of electricity, including, for greater certainty, in relation to anticipated or otherwise prospective uses or access, and
+
 (iii) prescribing persons and entities;
+
 (b) prescribing powers and duties of the Board in relation to the development of, use of and access to electricity infrastructure to which this Part applies, and governing the exercise of those powers and performance of those duties;
+
 (c) requiring the Board to amend conditions in licences issued under Part V to a transmitter, distributor or other prescribed person respecting the development of, use of or access to electricity infrastructure to which this Part applies, and specifying and governing the conditions;
+
 (d) governing charges or costs for the development of, use of or access to electricity infrastructure to which this Part applies and governing the amounts of the charges or costs, including fixing the amounts, setting maximum or minimum amounts or prescribing methods or techniques for determining amounts or maximum or minimum amounts;
+
 (e) requiring a transmitter, distributor or other prescribed person licensed under Part V to make arrangements with other parties or take any other steps, including entering into contracts, in relation to charges or costs referred to in clause (d) or otherwise in relation to the development of, use of or access to electricity infrastructure to which this Part applies;
+
 (f) specifying provisions that must be included in contracts or other arrangements entered into by a transmitter, distributor or other prescribed person licensed under Part V in relation to the development of, use of or access to electricity infrastructure to which this Part applies, whether those contracts or other arrangements are required by regulations made under clause (e) or otherwise;
+
 (g) specifying, with respect to a matter relating to the development of, use of or access to electricity infrastructure to which this Part applies, whether the Board is to hold a hearing, the circumstances under which a hearing may or may not be held and, if a hearing is to be held, the type of hearing to be held;
+
 (h) requiring or directing the Board to require a transmitter, distributor or other prescribed person licensed under Part V to develop any specified aspect of its electricity infrastructure to which this Part applies, in a specified time and manner;
+
 (i) governing the preparation or implementation of capital plans respecting the development of, use of or access to electricity infrastructure to which this Part applies by a transmitter, distributor or other prescribed person licensed under Part V, including,
+
 (i) requiring or directing the Board to require the preparation or implementation of such capital plans, and
+
 (ii) determining or directing the Board to determine requirements that the capital plans must meet, including that they contain specified information or be prepared or implemented by a specified time or in a specified manner;
+
 (j) governing performance standards relating to the development of, use of or access to electricity infrastructure to which this Part applies, including establishing or directing the Board to establish such performance standards;
+
 (k) governing the provision of information or reports respecting the development of, use of or access to electricity infrastructure to which this Part applies by a licensed transmitter or distributor or any other prescribed person, including,
+
 (i) requiring or directing the Board to require the provision of such information or reports, and
+
 (ii) determining or directing the Board to determine the information or reports that must be provided and the time and manner of the provision;
+
 (l) for the purposes of the payment of compensation under section 104.4,
+
 (i) governing amounts payable to a transmitter, distributor or other prescribed person licensed under Part V under that section, including prescribing methods or techniques for calculating or determining the amounts,
+
 (ii) requiring the IESO to receive payments made by the Minister under that section and to make payments to a transmitter, distributor or other prescribed person licensed under Part V, and
+
 (iii) requiring a transmitter, distributor or other prescribed person licensed under Part V to receive payments referred to in subclause (ii) or to participate in prescribed methods for receiving such payments;
+
 (m) respecting anything that, in this Part, is described as being prescribed or that may or must be done by the regulations;
+
 (n) providing that a provision of any other Part of this Act does not apply with respect to a matter to which this Part applies, or otherwise modifying the application of a provision of any other Part of the Act that applies with respect to a matter to which this Part applies;
+
 (o) governing transitional matters arising from the enactment or application of this Part, including in relation to contracts or agreements respecting the development of, use of or access to electricity infrastructure that exist when this Part begins to apply to the development, use or access.
 
 ### Licence conditions
@@ -4091,7 +5077,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Board objectives, electricity infrastructure
 
 104.5 The Board, in exercising powers and performing duties for the purposes of this Part, shall be guided by the following objectives, in addition to the other Board objectives set out in this Act:
+
 1. To facilitate the efficient development of, use of and access to electricity infrastructure to which this Part applies.
+
 2. Any other objective that may be prescribed by the regulations in relation to the development of, use of and access to electricity infrastructure to which this Part applies or any specified class of such development, use or access.
 
 ## PART VII inspectors and inspections
@@ -4099,7 +5087,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Board receives complaints and makes inquiries
 
 105 The Board may,
+
 (a) receive complaints concerning conduct that may be in contravention of an enforceable provision whether the conduct constitutes an offence or not; and
+
 (b) make inquiries, gather information and attempt to mediate or resolve complaints, as appropriate, concerning any matter that comes to its attention that may be in contravention of an enforceable provision whether the matter constitutes an offence or not.
 
 ### Inspectors
@@ -4113,43 +5103,69 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Power to require documents, etc.
 
 107 (1) An inspector may, for the purposes of this Act and any other Act that gives powers or duties to the Board, require any of the following persons to provide documents, records or information:
+
 1. A person required to have a licence under section 48 or 57.
+
 1.1 An affiliate, agent or employee of a gas marketer or retailer of electricity.
+
 2. A gas distributor, gas transmitter or gas storage company or an affiliate of a gas transmitter, gas distributor or gas storage company.
+
 3. An affiliate of a person required to have a licence under clause 57 (a) or (b).
+
 4. A person exempted from the requirements of clause 57 (a) by regulation.
+
 5. A person exempted from the requirements of clause 57 (b) by regulation.
+
 6. A person exempted from the requirements of section 48 by regulation.
+
 7. An affiliate, agent or employee of a person referred to in paragraph 4.
+
 8. A person who is subject to an exemption under section 57.1.
+
 9. An affiliate, agent or employee of a person referred to in paragraph 8.
 
 ### Application of subs. (1)
 
 (2) Subsection (1) only applies to documents, records and information that relate to the following:
+
 1. Activities for which a licence is required under section 48 or 57.
+
 1.1 The persons who are required to have a licence under section 48 or 57 and their affiliates, agents and employees.
+
 1.2 Activities for which a licence is required under subsection 88.2 (1).
+
 1.3 The persons who are required to have a licence under subsection 88.2 (1).
+
 2. Gas distribution, gas transmission or gas storage, including the sale of gas by a gas distributor.
+
 3. Transactions between a gas distributor, gas transmitter or gas storage company and its affiliates.
+
 4. Transactions between a person required to have a licence under clause 57 (a) or (b) and its affiliates.
+
 5. Adjustments, payments, set-offs and credits under section 25.33 of the Electricity Act, 1998 and under the regulations made under clause 114 (1.3) (f) of that Act.
+
 6. Payments under sections 78.1, 78.2 and 78.5.
 
 ### Inspections
 
 108 (1) An inspector may, for the purposes of this Act and any other Act that gives powers or duties to the Board, without a warrant or court order, at any reasonable time and with any reasonable assistance, conduct inspections and, for that purpose, the inspector may,
+
 (a) enter any place that the inspector reasonably believes is likely to contain documents or records related to any of the activities referred to in subsection 107 (2); or
+
 (b) enter any place where anything is being done that requires an order of the Board granting leave under Part VI.
 
 ### Same
 
 (2) During an inspection under subsection (1), an inspector may,
+
 (a) examine, record or copy any document or record, in any form, by any method;
+
 (b) require any document or record that is required to be kept under this Act to be provided, in any form, and require any other document or record related to the purposes of the inspection to be provided, in any form;
+
 (c) remove from a place documents or records, in any form, that are provided under clause (b) for the purpose of making copies;
+
 (d) examine anything that is being done that requires an order of the Board granting leave under Part VI;
+
 (e) make reasonable inquiries of any person, orally or in writing.
 
 ### Identification
@@ -4179,15 +5195,21 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Warrant
 
 (9) A justice of the peace may issue a warrant authorizing a person named in the warrant to enter a place identified in the warrant and exercise the powers given under this section if the justice of the peace is satisfied by information on oath that,
+
 (a) there is reasonable ground to believe that,
+
 (i) there are documents or records located in the place that are relevant to the carrying out of an inspection, or
+
 (ii) anything is being done in the place that requires an order of the Board granting leave under Part VI; and
+
 (b) entry to the place has been or will be denied.
 
 ### Same
 
 (10) A warrant issued under this section shall,
+
 (a) specify the hours and days during which it may be executed; and
+
 (b) name a date on which it expires, which date shall not be later than 15 days after its issue.
 
 ### Extension
@@ -4211,16 +5233,23 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Notice
 
 (3) No document, record or copy thereof obtained by an inspector under section 107 or 108, and no information obtained by an inspector under section 107, that is not otherwise public, including being made public by reason of publication under section 111.1, shall be introduced in evidence in a Board proceeding unless,
+
 (a) the Board gives the owner of the document or record or the person who provided the information notice that the inspector intends to introduce the evidence; and
+
 (b) the Board gives the owner of the document or record or the person who provided the information an opportunity to make representations with respect to the intended introduction of that evidence.
+
 (4) Repealed: 2003, c. 3, s. 73 (3).
 
 ### Confidentiality
 
 111 (1) All documents and records obtained by an inspector under section 107 or 108, and information obtained by an inspector under section 107, are confidential and shall not be disclosed to any person other than a member of the Board or an employee of the Board except,
+
 (a) as may be required in connection with the administration of this Act or any other Act that gives powers or duties to the Board or in any proceeding under this or any other Act that gives powers or duties to the Board;
+
 (b) to counsel for the Board or an employee of the Board;
+
 (c) with the consent of the owner of the document or record or the person who provided the information; or
+
 (d) in accordance with an agreement described in subsection (3).
 
 ### Same
@@ -4260,23 +5289,33 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Search warrant
 
 112.0.2 (1) Upon application made without notice by an investigator, a justice of the peace may issue a warrant if he or she is satisfied on information under oath that there is reasonable ground for believing that,
+
 (a) a person has contravened or is contravening an enforceable provision; and
+
 (b) there is,
+
 (i) in any building, dwelling, receptacle or place anything relating to the contravention of an enforceable provision, or
+
 (ii) information or evidence relating to the contravention of an enforceable provision that may be obtained through the use of an investigative technique or procedure or the doing of anything described in the warrant.
 
 ### Powers under warrant
 
 (2) Subject to any conditions contained in it, a warrant obtained under subsection (1) authorizes an investigator,
+
 (a) to enter or access the building, dwelling, receptacle or place specified in the warrant and examine and seize anything described in the warrant;
+
 (b) to use any data storage, processing or retrieval device or system used in carrying on business in order to produce information or evidence described in the warrant, in any form;
+
 (c) to exercise any of the powers specified in subsection (10); and
+
 (d) to use any investigative technique or procedure or do anything described in the warrant.
 
 ### Entry of dwelling
 
 (3) Despite subsection (2), an investigator shall not exercise the power under a warrant to enter a place, or part of a place, used as a dwelling, unless,
+
 (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice of the peace authorizes the entry into the dwelling.
 
 ### Conditions on a warrant
@@ -4342,20 +5381,27 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Notice
 
 (2) No document, record or copy of one obtained by an investigator under a warrant obtained under section 112.0.2 or obtained without a warrant under the circumstances referred to in section 112.0.4 and no information obtained by an investigator under such a warrant or under the circumstances referred to in section 112.0.4 shall be introduced in evidence in a Board proceeding unless,
+
 (a) the Board gives the owner of the document or record or the person who provided the information notice that the investigator intends to introduce the evidence; and
+
 (b) the Board gives the owner of the document or record or the person who provided the information an opportunity to make representations with respect to the intended introduction of that evidence.
 
 ### Same
 
 (3) No thing seized under section 112.0.3 and no information obtained by an investigator under such a seizure shall be introduced in evidence in a Board proceeding unless,
+
 (a) the Board gives the owner of the thing or the person who provided the thing notice that the investigator intends to introduce the evidence; and
+
 (b) the Board gives the owner of the thing or the person who provided the thing an opportunity to make representations with respect to the intended introduction of that evidence.
 
 ### Confidentiality
 
 112.0.6 (1) All documents and records obtained by an investigator under this Part or Part IX are confidential and shall not be disclosed to any person other than a member of the Board or an employee of the Board except,
+
 (a) as may be required in connection with the administration of this Act or any other Act that gives powers or duties to the Board or in any proceeding under this or any other Act that gives powers or duties to the Board;
+
 (b) to counsel for the Board or an employee of the Board; or
+
 (c) with the consent of the owner of the document or record or the person who provided the information.
 
 ### Same
@@ -4381,8 +5427,11 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Service of notice or order
 
 (3.1) Any notice or order required to be given or served by the Board under this Part or Part VII.2 is sufficiently given or served if,
+
 (a) delivered personally;
+
 (b) sent by registered mail; or
+
 (c) sent by another manner, if the Board can prove receipt of the notice or order.
 
 ### Deemed service
@@ -4408,7 +5457,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Action required to comply, etc.
 
 112.3 (1) If the Board is satisfied that a person has contravened or is likely to contravene an enforceable provision, the Board may make an order requiring the person to comply with the enforceable provision and to take such action as the Board may specify to,
+
 (a) remedy a contravention that has occurred; or
+
 (b) prevent a contravention or further contravention of the enforceable provision.
 
 ### Application
@@ -4434,7 +5485,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Limitation
 
 (2) The Board shall not make an order under subsection (1) in respect of a contravention later than two years after the later of,
+
 (a) the day the contravention occurred; and
+
 (b) the day on which the evidence of the contravention first came to the attention of the Board.
 
 ### Amount of penalty, limited
@@ -4456,8 +5509,11 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Regulations
 
 (5) The Lieutenant Governor in Council may make regulations,
+
 (a) specifying types of contraventions in respect of which an order may not be made under this section and circumstances when the Board shall not make an order under this section;
+
 (b) governing the determination of the amounts of administrative penalties, including the criteria to be considered and including providing for different amounts depending on when an administrative penalty is paid;
+
 (c) respecting any other matter necessary for the administration of the system of administrative penalties provided for by this section.
 
 ### General or particular
@@ -4479,21 +5535,29 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Voluntary compliance
 
 112.7 (1) A person may give the Board a written assurance of voluntary compliance,
+
 (a) to refrain from contravening an enforceable provision specified in the assurance;
+
 (b) to take such action as is specified in the assurance to remedy a contravention of an enforceable provision; or
+
 (c) to take such action as is specified in the assurance to prevent a contravention of an enforceable provision.
 
 ### Force and effect
 
 (2) An assurance of voluntary compliance has the same force and effect as an order of the Board.
+
 (3) Repealed: 2010, c. 8, s. 38 (32).
 
 ### Public record
 
 112.8 (1) The Board shall maintain a public record of,
+
 (a) assurances of voluntary compliance given under this Act;
+
 (b) compliance orders issued under this Act;
+
 (c) orders made under section 112.10;
+
 (d) any other prescribed document or information.
 
 ### Orders
@@ -4521,21 +5585,29 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Definitions
 
 (3) For the purposes of this Part,
+
 “consumer” has the same meaning as in Part II of the Energy Consumer Protection Act, 2010; (“consommateur”)
+
 “supplier” has the same meaning as in Part II of the Energy Consumer Protection Act, 2010. (“fournisseur”)
 
 ### Freeze order
 
 112.10 (1) If the conditions in subsection (2) are met, the Board may make an application to the Superior Court of Justice for,
+
 (a) an order requiring any person having on deposit or controlling any assets or trust funds of a supplier or former supplier to hold those funds or assets;
+
 (b) an order requiring a supplier or former supplier to refrain from withdrawing any asset or trust fund from a person having them on deposit or controlling them; or
+
 (c) an order requiring a supplier or former supplier to hold any asset or trust fund of an energy consumer or other person in trust for the person entitled to it.
 
 ### Conditions
 
 (2) The Board may make an application under subsection (1) if it believes that it is advisable for the protection of consumers and,
+
 (a) a search warrant has been issued under this Act;
+
 (b) an order has been made under section 112.3 or 112.11; or
+
 (c) there has been an assurance of voluntary compliance under section 112.7 or 112.12.
 
 ### Person engaged in unfair practice
@@ -4553,15 +5625,21 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Exception
 
 (6) Subsection (1) does not apply if, prior to the Board obtaining an order under that subsection, the person files with the Board, in such manner and amount as the Board determines,
+
 (a) a personal bond accompanied by collateral security;
+
 (b) a bond of an insurer licensed under the Insurance Act to write surety and fidelity insurance;
+
 (c) a bond of a guarantor accompanied by collateral security; or
+
 (d) another form of security prescribed by regulation.
 
 ### Application to court
 
 (7) An application may be made to the Superior Court of Justice for a determination in respect of the disposition of an asset or trust fund,
+
 (a) by a person in receipt of an order under subsection (1), if that person is in doubt as to whether the order applies to the asset or trust fund; or
+
 (b) by a person who claims an interest in the asset or trust fund subject to the order.
 
 ### Notice
@@ -4575,7 +5653,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Disposition by court
 
 (10) The Superior Court of Justice shall dispose of the application after a hearing and may cancel the order or discharge the registration in whole or in part, if the court finds,
+
 (a) that the order or registration is not required in whole or in part for the protection of consumers or of other persons having an interest in the land; or
+
 (b) that the interests of other persons are unduly prejudiced by the order or registration.
 
 ### Court application
@@ -4593,8 +5673,11 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Notice of order
 
 (2) If the Board makes an order for immediate compliance, it shall serve on the person named in the order a notice that includes,
+
 (a) the order;
+
 (b) the written reasons for making the order; and
+
 (c) a statement that the person is entitled to a hearing by the Board if the person mails or delivers to the Board, within 15 days after the notice is served, notice in writing requiring a hearing.
 
 ### Hearing
@@ -4604,13 +5687,17 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Expiration of order
 
 (4) If a hearing by the Board is required,
+
 (a) the order expires 15 days after the written request for a hearing is received by the Board; or
+
 (b) the Board may extend the time of expiration until the hearing is concluded, if a hearing is commenced within the 15-day period referred to in clause (a).
 
 ### Same
 
 (5) Despite subsection (4), if it is satisfied that the conduct of the person named in the order has delayed the commencement of the hearing, the Board may extend the time of the expiration for the order,
+
 (a) until the hearing commences; and
+
 (b) once the hearing commences, until the hearing is concluded.
 
 ### Parties
@@ -4620,28 +5707,43 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Voluntary compliance
 
 112.12 (1) Without limiting the generality of section 112.7, a person may give the Board a written assurance of voluntary compliance,
+
 (a) to publicize the assurance or the actions being undertaken as a result of the assurance;
+
 (b) to pay any cost incurred in investigating the person’s activities, any legal costs incurred in relation to the person’s activities and any cost associated with the assurances;
+
 (c) to take any such action as the Board considers appropriate in the circumstances.
 
 ### Security for any assurance of voluntary compliance
 
 (2) The Board may require any person who is giving an assurance of voluntary compliance to provide, in such manner and amount as the Board determines, security in the form of,
+
 (a) a personal bond accompanied by collateral security;
+
 (b) a bond of an insurer licensed under the Insurance Act to write surety and fidelity insurance;
+
 (c) a bond of a guarantor accompanied by collateral security; or
+
 (d) another form of security prescribed by regulation.
 
 ### Release of security
 
 (3) The bond and any collateral security required under subsection (2) shall not be released until the Board is satisfied that the person has fulfilled the assurance.
+
 113 Repealed. See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 – December 31, 2011.
+
 114 Repealed. See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 – December 31, 2011.
+
 115 Repealed. See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 – December 31, 2011.
+
 116 Repealed. See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 – December 31, 2011.
+
 117 Repealed. See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 – December 31, 2011.
+
 118 Repealed. See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 – December 31, 2011.
+
 119 Repealed. See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 – December 31, 2011.
+
 120 Repealed. See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 – December 31, 2011.
 
 ## PART IX MISCELLANEOUS
@@ -4649,13 +5751,17 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Rules
 
 121 The board of directors may make rules,
+
 (a) governing the practices of employees to whom powers and duties are delegated under section 6;
+
 (b) governing the making of rules under section 44 and the issuance of codes under section 70.1.
 
 ### Provincial offences officers
 
 122 Despite subsection 1 (3) of the Provincial Offences Act, the board of directors may, for the purposes of that Act, designate in writing any person or class of persons as a provincial offences officer, but the designation only applies in respect of offences under this Act.
+
 123 Repealed: 2003, c. 3, s. 79.
+
 124 Repealed: 2003, c. 3, s. 80.
 
 ### Obstruction
@@ -4669,18 +5775,27 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Duties of directors and officers of a corporation
 
 125.2 Where a transmitter, distributor, retailer of electricity, gas marketer or unit sub-meter provider is a corporation, every director and officer of the corporation shall,
+
 (a) exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances; and
+
 (b) take such measures as necessary to ensure that the corporation complies with all applicable requirements under this Act, the Electricity Act, 1998 and the Energy Consumer Protection Act, 2010.
 
 ### Offences
 
 126 (1) A person is guilty of an offence who,
+
 (a) undertakes an activity without a licence for which a licence is required under this Act and for which a person has not been granted an exemption from the requirement to hold a licence;
+
 (b) knowingly furnishes false or misleading information in any application, statement or return made under this Act or in any circumstances where information is required or authorized to be provided under this Act;
+
 (c) fails to comply with a condition of a licence or an order of the Board made under this or any other Act;
+
 (c.1) fails to comply with an assurance of voluntary compliance given under section 112.7;
+
 (c.2) fails to comply with an assurance of voluntary compliance entered into under section 88.8 before that section was repealed;
+
 (d) contravenes this Act, the regulations or a rule made under section 44; or
+
 (e) contravenes the Energy Consumer Protection Act, 2010 or the regulations made under it.
 
 ### Officers, etc.
@@ -4706,7 +5821,9 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Same, retailers of electricity and gas marketers
 
 (6) Despite subsection (5), no proceeding under this section shall be commenced against the following persons more than two years after the facts upon which the proceeding is based first came to the knowledge of the Board:
+
 1. A retailer of electricity or a gas marketer.
+
 2. A director or officer of a corporation, where the person referred to in paragraph 1 is a corporation.
 
 ### Order for compensation, restitution
@@ -4728,8 +5845,11 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Liens on personal property
 
 (2) If the lien created by the Board under subsection (1) relates to personal property,
+
 (a) the Personal Property Security Act, except Part V, applies with necessary modifications to the lien, despite clause 4 (1) (a) of that Act;
+
 (b) the lien shall be deemed to be a security interest that has attached for the purposes of the Personal Property Security Act; and
+
 (c) the Board may perfect the security interest referred to in clause (b) for the purposes of the Personal Property Security Act by the registration of a financing statement under that Act.
 
 ### Liens and charges on real property
@@ -4747,15 +5867,21 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Discharge of lien
 
 (6) Within 10 days after the Board has knowledge of the payment in full of the fine, the Board shall,
+
 (a) discharge the registration of any financing statement registered under clause (2) (c); and
+
 (b) register a discharge of a charge created on registration of a lien under subsection (3).
 
 ### Admissibility in evidence of certified statements
 
 126.1 (1) A statement as to,
+
 (a) the licensing or non-licensing of any person;
+
 (b) the filing or non-filing of any document, material or information with the Board;
+
 (c) the date the facts upon which a proceeding is based first came to the knowledge of the Board; or
+
 (d) any other matter pertaining to such licensing, non-licensing, filing or non-filing, purporting to be certified by the registrar of the Board, is, without proof of the office or signature of the registrar, admissible in evidence in any prosecution or other proceeding as proof, in the absence of evidence to the contrary, of the facts stated.
 
 ### Certificate of assurance of voluntary compliance
@@ -4765,48 +5891,91 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Regulations, general
 
 127 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) limiting, restricting or taking away any rights to use or consume gas without charge or at a reduced rate;
+
 (b) requiring the Board to approve or fix rates under section 36;
+
 (b.1) providing for penalties and fines a gas transmitter or gas distributor is required to pay under an Act that the Board may include in approving or fixing rates for the sale, transmission or distribution of gas, for the purposes of paragraph 1 of subsection 36 (3.1);
+
 (c) providing for compensation procedure for the owners of gas or oil rights and the rights to store gas and for the owners of land who are referred to in subsection 38 (2);
+
 (d) Repealed: 2003, c. 3, s. 86 (1).
+
 (e) Repealed: 2001, c. 9, Sched. F, s. 2 (6).
+
 (f) exempting any person from any provision of this Act, subject to such conditions or restrictions as may be prescribed by the regulations;
+
 (g) defining any word or expression used in this Act that is not defined in this Act;
+
 (g.1) Repealed: 2019, c. 6, Sched. 2, s. 24 (1).
+
 (h) delegating all or part of the powers or duties of the Board with respect to the issuance or renewal of licences under Part IV or V to a self-regulatory organization on such conditions as the Lieutenant Governor in Council considers appropriate;
+
 (i) delegating all or part of the powers or duties of the Board under Part IV or V to a tribunal on such conditions as the Lieutenant Governor in Council considers appropriate;
+
 (j) prescribing a date or dates for the purposes of subsection 70 (10), which dates may be different for different classes of distributors;
+
 (j.1) Repealed: 2021, c. 2, Sched. 2, s. 8 (1).
+
 (j.2) Repealed: 2010, c. 8, s. 38 (43).
+
 (j.3) Repealed: 2003, c. 3, s. 86 (3).
+
 (j.4) Repealed: 2010, c. 8, s. 38 (43).
+
 (j.5) Repealed: 2003, c. 3, s. 86 (4).
+
 (j.6), (j.7) Repealed: 2010, c. 8, s. 38 (43).
+
 (j.8) providing for the appointment of prescribed individuals as members of the Board for the purposes of clause 4 (5) (d), and setting out their powers, duties and functions;
+
 (j.9) specifying matters that, for greater certainty, are not matters that may be heard or determined by a panel of commissioners under subsection 4.3 (8);
+
 (j.10) for the purposes of subsections 4.1 (17) and 4.3 (8), providing for and governing the exercise or performance of a power or duty of the Board by another person or entity;
+
 (j.11) prescribing rights, powers or privileges under subsection 4 (2) for the purpose of clause 4.11 (e);
+
 (j.12) governing processes under section 4.4, including,
+
 (i) prescribing other persons for the purposes of subsection 4.4 (1) or (2), and
+
 (ii) requiring that specified persons be included in a process for the purposes of subsection 4.4 (3);
+
 (j.12.1) governing processes under section 4.4.1, including,
+
 (i) prescribing other persons for the purposes of subsection 4.4.1 (1), and
+
 (ii) requiring that specified persons be included in a process for the purposes of subsection 4.4.1 (2);
+
 (j.13) prescribing classes of contracts for the purpose of clause 4.11 (d);
+
 (j.14) Repealed: 2019, c. 6, Sched. 2, s. 24 (3);
+
 (j.15) prescribing an amount of money for the purpose of clause 90 (1) (b);
+
 (j.16) prescribing criteria for the purpose of clause 90 (1) (d);
+
 (j.16.1) governing exemptions ordered by the Board under subsection 95 (2);
+
 (j.16.2) establishing and governing procedural requirements that apply to determinations of the Board under subsection 95 (2);
+
 (j.17) prescribing provisions of the Electricity Act, 1998 for the purpose of clause (d) of the definition of “enforceable provision” in section 3;
+
 (j.18) prescribing deferral or variance accounts as deferral or variance accounts that relate to the commodity of gas for the purpose of subsections 36 (4.1) and (4.2) or to the commodity of electricity for the purpose of subsections 78 (6.1) and (6.2), or prescribing rules for determining if a deferral or variance account relates to the commodity of gas for the purpose of subsections 36 (4.1) and (4.2) or to the commodity of electricity for the purpose of subsections 78 (6.1) and (6.2);
+
 (j.19) prescribing periods of time for the purpose of subsections 36 (4.1) and (4.2) and 78 (6.1) and (6.2);
+
 (j.20) governing the making of orders that determine whether and how amounts recorded in deferral or variance accounts shall be reflected in rates for the purpose of sections 36 and 78;
+
 (j.21) governing the awarding of costs under section 30 when section 22.1 is not complied with;
+
 (k) respecting anything that, in this Act, may or must be prescribed or done by regulation;
+
 (l) providing for such transitional matters as the Lieutenant Governor in Council considers necessary or advisable in connection with the implementation of this Act;
+
 (m) respecting any matter that the Lieutenant Governor in Council considers necessary or advisable to carry out effectively the purposes of this Act.
+
 (2) Repealed: 2001, c. 9, Sched. F, s. 2 (7).
 
 ### General or particular
@@ -4852,6 +6021,7 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### Tabling
 
 (2) The Minister shall submit the report to the Lieutenant Governor in Council and shall then table the report in the Assembly.
+
 129 Repealed 2003, c. 3, s. 88.
 
 ### Transition, uniform system of accounts
@@ -4877,8 +6047,11 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### No cause of action, Fixing the Hydro Mess Act, 2019
 
 133 (1) No cause of action arises against the Crown, any current or former member of the Executive Council, any current or former employee or agent of or adviser to the Crown, the Board, or any current or former member, employee or agent of the Board, as a direct or indirect result of,
+
 (a) the enactment, operation or administration of any amendment to this Act by Schedule 2 to the Fixing the Hydro Mess Act, 2019;
+
 (b) anything done or not done under the amendments to this Act by Schedule 2 to the Fixing the Hydro Mess Act, 2019; or
+
 (c) anything related in any way to the involvement of the Government of Ontario in compensation matters, or other aspects of corporate governance, of the Board.
 
 ### Proceedings barred
@@ -4900,8 +6073,11 @@ iii. Ensuring that the employees, agents or third parties acting on behalf of th
 ### No cause of action, procurement restrictions
 
 134 (1) No cause of action arises against the Crown or any current or former member of the Executive Council or employee, officer or agent of or adviser to the Crown, as a direct or indirect result of,
+
 (a) the enactment, amendment or repeal of section 43.1, 73 or this section;
+
 (b) the making, amendment or revocation of any provision of a regulation for the purposes of section 43.1 or 73; or
+
 (c) anything done or not done in accordance with a provision referred to in clause (a) or a regulation referred to in clause (b).
 
 ### No remedy

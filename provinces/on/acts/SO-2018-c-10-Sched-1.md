@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2018-08-15"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18h10"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Hydro One Accountability Act, 2018
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18h10) before relying on it.
 
 S.O. 2018, c. 10, Sched. 1
 
@@ -21,10 +21,15 @@ S.O. 2018, c. 10, Sched. 1
 ### Definitions
 
 1 In this Act,
+
 “Chief Executive Officer” means the person holding the position of President and Chief Executive Officer of Hydro One Limited; (“chef de la direction”)
+
 “compensation” means anything paid or provided, directly or indirectly, to or for the benefit of a person who performs duties and functions that entitle the person to be paid, and includes salary, benefits, perquisites and all forms of non-discretionary and discretionary payments; (“rémunération”)
+
 “executive” means any person who holds the office of executive vice-president, vice-president, chief administrative officer, chief operating officer, chief financial officer, chief information officer, chief legal officer, chief human resources officer or chief corporate development officer, or holds any other executive position or office, regardless of the title of the position or office; (“cadre supérieur”)
+
 “Minister” means the Minister of Energy, Northern Development and Mines or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “subsidiary” has the same meaning as in the Business Corporations Act, but does not include a subsidiary incorporated in a jurisdiction outside Canada. (“filiale”)
 
 ### Executive and Director Compensation
@@ -44,7 +49,9 @@ S.O. 2018, c. 10, Sched. 1
 ### Directives
 
 3 (1) The Management Board of Cabinet may issue directives,
+
 (a) governing the compensation of the directors and the Chief Executive Officer and other executives of Hydro One Limited, including, without being limited to, directives restricting the total annual compensation payable to such persons; and
+
 (b) governing the development, form, manner and timing of the compensation framework provided for in subsection 2 (1) and any amendments to that framework.
 
 ### Compliance
@@ -54,7 +61,9 @@ S.O. 2018, c. 10, Sched. 1
 ### Publication
 
 (3) Every directive made under subsection (1),
+
 (a) shall be made available to the public on request; and
+
 (b) shall be publicly posted on at least one Government of Ontario website.
 
 ### Status
@@ -74,10 +83,15 @@ S.O. 2018, c. 10, Sched. 1
 ### No cause of action
 
 6 (1) No cause of action arises against the Crown or any current or former member of the Executive Council or any current or former employee or agent of or adviser to the Crown, or against Hydro One Limited or any of its subsidiaries, or any of their current or former officers, directors, employees or agents, as a direct or indirect result of,
+
 (a) the enactment, operation, administration or repeal of any provision of this Act;
+
 (b) anything done or not done under this Act;
+
 (c) anything related in any way to the involvement of the Government of Ontario in compensation matters, or other aspects of the corporate governance, of Hydro One Limited or any of its subsidiaries;
+
 (d) any alleged misrepresentation within the meaning of applicable securities laws in any prospectus, document or other public statement related in any way to the involvement of the Government of Ontario in compensation matters at Hydro One Limited or any of its subsidiaries; or
+
 (e) any adverse market consequences or diminishment in the value of any securities in Hydro One Limited, or any of its subsidiaries, or any other investment, resulting from the enactment of this Act, anything done or not done in order to comply with this Act or the involvement of the Government of Ontario in the corporate governance of Hydro One Limited or any of its subsidiaries.
 
 ### Proceedings barred
@@ -109,15 +123,21 @@ S.O. 2018, c. 10, Sched. 1
 ### Regulations
 
 (3) The Lieutenant Governor in Council may make regulations governing the application of this section, including, without being limited to,
+
 (a) providing for executives or categories of executives whose compensation must be published under subsection (1);
+
 (b) requiring and specifying additional information to be published;
+
 (c) providing for the contents of the notice required under subsection (2);
+
 (d) requiring and governing the application of this section, with necessary modification, to executives of subsidiaries of Hydro One Limited.
 
 ### Information and reports
 
 8 (1) The Minister may request Hydro One Limited and such other persons and entities as the Minister considers appropriate to give the Minister information the Minister considers necessary for the purpose of administering the provisions of this Act, including information that,
+
 (a) discloses the financial or other details of any employment agreement or other contract with any director, Chief Executive Officer or other executive in respect of their employment by Hydro One Limited or any of its subsidiaries; or
+
 (b) discloses anything related to the compensation paid, payable or available to a director, Chief Executive Officer or other executive of Hydro One Limited or any of its subsidiaries.
 
 ### Compliance
@@ -139,11 +159,15 @@ S.O. 2018, c. 10, Sched. 1
 ### Same
 
 (2) Without limiting the generality of subsection (1), the Lieutenant Governor in Council may make regulations defining or clarifying the meaning of any word or expression used in this Act but not otherwise defined.
+
 10 Omitted (amends, repeals or revokes other legislation).
 
 ### Repeal
 
 11 (1) Subject to subsection (2), this Act is repealed on a day to be named by proclamation of the Lieutenant Governor.
+
 (2) A proclamation may provide for the repeal of different provisions of this Act on different dates.
+
 12 Omitted (provides for coming into force of provisions of this Act).
+
 13 Omitted (enacts short title of this Act).

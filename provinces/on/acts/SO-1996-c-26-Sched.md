@@ -6,39 +6,60 @@ language: en
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96a26"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Liquor Tax Act, 1996
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96a26) before relying on it.
 
 S.O. 1996, c. 26, Sched.
 
 ### PART I (s. 1-16) repealed: 2019, c. 15, Sched. 1, s. 18.
 
 1 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 1.1 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 2 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 3 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 4 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 4.1, 4.2 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 5 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 6 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 6.1 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 7 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 7.1 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 8 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 8.1 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 9 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 10 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 11 Repealed: 2011, c. 1, Sched. 1, s. 1 (3).
+
 12 Repealed: 2011, c. 1, Sched. 1, s. 1 (3).
+
 13 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 14 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 14.1 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 15 Repealed: 2019, c. 15, Sched. 1, s. 18.
+
 16 Repealed: 2019, c. 15, Sched. 1, s. 18.
 
 ## Part II Tax on beer, wine and spirits
@@ -48,67 +69,117 @@ S.O. 1996, c. 26, Sched.
 ### Definitions
 
 17 (1) In this Act,
+
 “adjustment date” means a date in a year prescribed for the purposes of section 26; (“date de rajustement”)
+
 “agency store” means a retail store operated by an agent of the LCBO pursuant to paragraph 1 of section 3 of the Liquor Control Board of Ontario Act, 2019; (“magasin-agence”)
+
 “beer” means a beverage that is beer for the purposes of the Liquor Licence and Control Act, 2019; (“bière”)
+
 “beer manufacturer” means the holder of a manufacturer’s licence to sell that authorizes the sale of beer; (“fabricant de bière”)
+
 “brew pub” means premises for which the licensee holds a licence with a brew pub endorsement; (“bistrot-brasserie”)
+
 “collector” means a licensee that is permitted to sell liquor, an agency store, an operator of a secondary location of a brew pub or, if it remits taxes to the Minister, an affiliate of a winery; (“percepteur”)
+
 “Commission” means the Alcohol and Gaming Commission of Ontario continued under the Alcohol and Gaming Commission of Ontario Act, 2019; (“Commission”)
+
 “distillery retail store” means a store in Ontario owned and operated by a spirits manufacturer from which the manufacturer is licensed under the Liquor Licence and Control Act, 2019 to sell spirits to purchasers; (“magasin de détail de distillerie”)
+
 “draft beer” means,
+
 (a) beer other than non-draft beer, or
+
 (b) beer made at a brew pub; (“bière pression”)
+
 “LCBO” means the Liquor Control Board of Ontario continued under the Liquor Control Board of Ontario Act, 2019; (“Régie des alcools”)
+
 “licence” means a licence issued under the Liquor Licence and Control Act, 2019; (“permis”)
+
 “licensee” means a person who holds a licence or who holds a permit issued under the Liquor Licence and Control Act, 2019; (“titulaire de permis”)
+
 “liquor” has the same meaning as in the Liquor Licence and Control Act, 2019; (“boisson alcoolisée”)
+
 “Minister” means the Minister of Finance or such other member of the Executive Council as may be designated under the Executive Council Act to administer this Act; (“ministre”)
+
 “non-draft beer” means beer for sale in containers each of which has a capacity of less than 18 litres; (“bière non pression”)
+
 “offsite winery retail store” means a winery retail store that is not located on the licensee’s production site; (“magasin de détail d’établissement vinicole hors site”)
+
 “onsite winery retail store” means a winery retail store that is located on the licensee’s production site; (“magasin de détail d’établissement vinicole sur les lieux”)
+
 “Ontario wine” means wine that is Ontario wine for the purposes of the Liquor Licence and Control Act, 2019; (“vin de l’Ontario”)
+
 “Ontario wine cooler” means, except as prescribed by the regulations, Ontario wine or a beverage containing Ontario wine that contains not more than 7 per cent alcohol by volume; (“vin panaché de l’Ontario”)
+
 “production year” means, in relation to a sales year for beer, the 12-month period that ends on the December 31 immediately before the beginning of the sales year; (“année de production”)
+
 “purchaser” means a person, including the Crown in right of Ontario, who purchases or receives delivery of liquor in Ontario,
+
 (a) for use or consumption by the person or by someone else at the person’s expense, or
+
 (b) on behalf of or as agent for a principal who desires to acquire the liquor for use or consumption by the principal or by someone else at the principal’s expense; (“acheteur”)
+
 “regulations” means the regulations made under this Act, unless the context requires otherwise; (“règlements”)
+
 “sales year” means, with respect to beer, a period of approximately 12 months,
+
 (a) that begins on March 1 in a year or, if March 1 is a Saturday or Sunday, that begins on the following Monday, and
+
 (b) that ends on the last day of February in the following year or, if the last day of February is a Friday or Saturday, that ends on the following Sunday; (“année de ventes”)
+
 “spirits” means a beverage that is spirits for the purposes of the Liquor Licence and Control Act, 2019; (“spiritueux”)
+
 “spirits manufacturer” means a manufacturer licensed under the Liquor Licence and Control Act, 2019 to sell its spirits to the LCBO or to sell its spirits in stores that it owns and operates; (“fabricant de spiritueux”)
+
 “wine” means a beverage that is wine for the purposes of the Liquor Licence and Control Act, 2019; (“vin”)
+
 “wine cooler” means, except as prescribed by the regulations, wine or a beverage containing wine that contains not more than 7 per cent alcohol by volume; (“vin panaché”)
+
 “winery” means a manufacturer licensed under the Liquor Licence and Control Act, 2019 to sell wine or wine cooler to the LCBO or in stores that it owns and operates; (“établissement vinicole”)
+
 “winery retail store” means a store in Ontario owned and operated by a winery from which the winery is licensed under the Liquor Licence and Control Act, 2019 to sell wine and wine cooler to purchasers; (“magasin de détail d’établissement vinicole”)
 
 ### Persons deemed to be purchasers
 
 (2) If a collector distributes liquor in Ontario without charge or purchases liquor that is not sold to another person, the collector is deemed to be a purchaser that is liable to pay tax under this Act in respect of the liquor that is distributed without charge or purchased and not sold.
+
 (2.1) Repealed: 2016, c. 37, Sched. 1, s. 2 (10).
 
 ### When purchaser is not subject to tax
 
 (3) A purchaser is not subject to tax under this Act in respect of the purchase of liquor,
+
 (a) if the purchase is by or from the LCBO or if the liquor was, at any time, purchased from the LCBO;
+
 (b) if the purchase is from a duty-free store within the meaning of subsection 2 (1) of the Customs Act (Canada);
+
 (c) if the purchase is of beer or wine made by the purchaser at a location that is a ferment on premises facility for the purposes of the Liquor Licence and Control Act, 2019;
+
 (d) if the purchaser is an Indian and the purchase of the liquor,
+
 (i) is made on a reserve,
+
 (ii) is from a collector located on the reserve, and
+
 (iii) is for the exclusive use of an Indian;
+
 (e) if the purchaser is a person serving in or employed by a diplomatic or consular mission, high commission or trade commission, as authorized by Foreign Affairs and International Trade Canada, or his or her spouse or a family member,
+
 (i) if that person is not a Canadian citizen or “permanent resident” of Canada as defined in the Immigration and Refugee Protection Act (Canada), and
+
 (ii) if that person is assigned to duty from the state he or she represents and is not engaged locally by the mission or commission;
+
 (f) Repealed: 2019, c. 15, Sched. 2, s. 5 (35).
+
 (g) if the purchaser is the Government of Canada and the liquor will be warehoused in Ontario and afterwards will be exported for use by Canadian diplomatic or consular offices abroad.
 
 ### Interpretation, cl. (3) (d)
 
 (4) For the purposes of clause (3) (d),
+
 “Indian” has the meaning assigned by subsection 2 (1) of the Indian Act (Canada); (“Indien”)
+
 “reserve” means a reserve within the meaning of the Indian Act (Canada) or an Indian settlement located on Crown land, the Indian inhabitants of which are treated by the Government of Canada in the same manner as Indians residing on a reserve. (“réserve”)
 
 ### Affiliates
@@ -118,18 +189,31 @@ S.O. 1996, c. 26, Sched.
 ### Rules, re affiliates
 
 (6) The following rules apply for the purposes of determining if corporations are affiliates for the purposes of this Act:
+
 1. A corporation is a subsidiary of a particular corporation if,
+
 i. it is controlled,
+
 A. by the particular corporation,
+
 B. by the particular corporation and one or more other corporations each of which is controlled by the particular corporation, or
+
 C. by two or more corporations each of which is controlled by the particular corporation, or
+
 ii. it is a subsidiary of a corporation that is the particular corporation’s subsidiary under subparagraph i.
+
 2. A particular corporation is controlled by another person or corporation or by two or more corporations if,
+
 i. voting securities of the particular corporation carrying more than 50 per cent of the votes for the election of directors are held, otherwise than by way of security only, by or for the benefit of the other person or corporation or by or for the benefit of the other corporations, and
+
 ii. the votes carried by the voting securities described in subparagraph i are entitled, if exercised, to elect a majority of the board of directors of the particular corporation.
+
 3. For the purposes of paragraph 2,
+
 i. a person is deemed to own beneficially securities that are beneficially owned by a corporation controlled by the person or by an affiliate of that corporation, and
+
 ii. a corporation is deemed to own beneficially securities that are beneficially owned by its affiliates.
+
 4. Unless the regulations provide otherwise, references in paragraphs 2 and 3 to securities are references to securities within the meaning of the Securities Act.
 
 ### Purchaser subject to tax
@@ -141,11 +225,13 @@ ii. a corporation is deemed to own beneficially securities that are beneficially
 ### Beer manufacturer
 
 18.1 (1) A beer manufacturer and its affiliates are not subject to tax under this Act on a maximum of 10,000 litres of beer that is distributed by any of them in Ontario without charge during a sales year.
+
 (2) Repealed: 2016, c. 37, Sched. 1, s. 4 (1).
 
 ### Licensee of a brew pub
 
 (3) A licensee of a brew pub and its affiliates are not subject to tax under this Act on a maximum of 10,000 litres of beer made at the brew pub that is distributed by any of them in Ontario without charge during a sales year.
+
 (4) Repealed: 2016, c. 37, Sched. 1, s. 4 (2).
 
 ### Winery
@@ -163,6 +249,7 @@ ii. a corporation is deemed to own beneficially securities that are beneficially
 ### Same
 
 (7) If a beer manufacturer or a licensee of a brew pub carries on business in Ontario for only part of a sales year, the amount of the beer manufacturer’s or licensee’s exemption from taxation under this section during that sales year is reduced proportionately.
+
 (8) Repealed: 2016, c. 37, Sched. 1, s. 4 (4).
 
 ### Apportionment of exemption, wine and wine cooler
@@ -198,8 +285,11 @@ ii. a corporation is deemed to own beneficially securities that are beneficially
 ### Basic tax rate
 
 (2) The basic tax rate for the purposes of subsection (1) is,
+
 (a) 90 cents per litre for draft beer or, if that rate has been adjusted under section 26, the rate most recently calculated under that section; or
+
 (b) $1.18 per litre for non-draft beer or, if that rate has been adjusted under section 26, the rate most recently calculated under that section.
+
 (3) Repealed: 2019, c. 15, Sched. 2, s. 9 (3).
 
 ### Transition, after change in tax rate
@@ -211,30 +301,43 @@ ii. a corporation is deemed to own beneficially securities that are beneficially
 ### Definition
 
 22 (0.1) In this section,
+
 “brewer” means any person that manufactures beer.
 
 ### Exception, beer made by microbrewer
 
 (1) Despite section 21, the following is the basic tax rate in respect of the purchase of beer manufactured by a brewer that is a microbrewer for the sales year in which the beer is sold, other than in respect of the purchase of beer manufactured for a brewer that is not a microbrewer:
+
 1. For draft beer, the rate determined by subtracting 54 cents from the basic tax rate per litre for draft beer under section 21 that is in effect at the time of the purchase.
+
 2. For non-draft beer, the rate determined by subtracting 72 cents from the basic tax rate per litre for non-draft beer under section 21 that is in effect at the time of the purchase.
 
 ### Same
 
 (2) For the purposes of subsection (1), beer is deemed to be made by a brewer that is a microbrewer if the beer is made for a microbrewer pursuant to an agreement or other arrangement described in subsection (3.2).
+
 (2.1) Repealed: 2026, c. 2, Sched. 9, s. 3 (3).
 
 ### Microbrewers
 
 (3) For the purposes of this section, a brewer is a microbrewer for a sales year if all of the following circumstances exist:
+
 1. For a sales year beginning before March 2, 2026, the brewer’s worldwide production of beer in the preceding production year was not more than 49,000 hectolitres or, if this is the first production year in which it manufactures beer, its worldwide production of beer for the production year is expected to be not more than 49,000 hectolitres.
+
 1.1 For a sales year beginning on or after March 2, 2026,
+
 i. the brewer’s average annual worldwide production of beer,
+
 A. in the preceding production year was not more than 49,000 hectolitres, or
+
 B. in the five preceding production years, excluding any production years in which the brewer’s worldwide production was zero, was not more than 49,000 hectolitres, or
+
 ii. if this is the first production year in which it manufactures beer, its worldwide production of beer for the production year is expected to be not more than 49,000 hectolitres.
+
 2. In the preceding production year, the brewer was not a party to any agreement or other arrangement pursuant to which any other brewer that is not a microbrewer agreed to manufacture beer for it.
+
 3. Repealed: 2017, c. 8, Sched. 1, s. 1 (2).
+
 4. Every affiliate that the brewer had that manufactured beer in the preceding production year was a microbrewer.
 
 ### Exception, agreement for final bottling or other packaging
@@ -244,26 +347,39 @@ ii. if this is the first production year in which it manufactures beer, its worl
 ### Exception
 
 (3.2) Despite paragraph 2 of subsection (3), a brewer may be a party to an agreement or other arrangement with another brewer that is not a microbrewer without affecting the first brewer’s status as a microbrewer under subsection (3) if,
+
 (a) the other brewer was a microbrewer at any point in the production year referred to in paragraph 2 of subsection (3); or
+
 (b) for a sales year beginning on or after March 2, 2026,
+
 (i) the first brewer operates a brewery in Ontario where, in the production year referred to in paragraph 2 of subsection (3), it manufactured commercial quantities of beer, or
+
 (ii) such other circumstances, as may be prescribed by the regulations, exist.
+
 (3.3) Repealed: 2019, c. 15, Sched. 2, s. 10 (6).
 
 ### Worldwide beer production
 
 (4) The following shall be included in determining the amount of a brewer’s worldwide production of beer for a particular production year for the purposes of this section:
+
 1. All beer manufactured during the production year by the brewer, including beer that is manufactured under contract for another brewer.
+
 2. All beer manufactured during the production year by an affiliate of the brewer, including beer manufactured by the affiliate under contract for another brewer.
+
 3. All beer manufactured during the production year by another brewer under contract for the brewer or for an affiliate of the brewer.
+
 (5) Repealed: 2015, c. 20, Sched. 1, s. 3 (3).
 
 ### List of microbrewers
 
 (6) The Minister shall compile annually and make available to the public for each sales year a list containing,
+
 (a) the names of microbrewers that sell beer in Ontario that is subject to tax under this Act for the sales year; and
+
 (b) the names of the brands of beer they manufacture.
+
 23 Repealed: 2026, c. 2, Sched. 9, s. 4.
+
 24 Repealed: 2026, c. 2, Sched. 9, s. 4.
 
 ### Beer made at brew pub
@@ -277,9 +393,13 @@ ii. if this is the first production year in which it manufactures beer, its worl
 ### Secondary location related to brew pub
 
 (3) A place is a secondary location related to a brew pub for the purposes of this Act if the following conditions are satisfied:
+
 1. Draft beer made at the brew pub is sold to a purchaser at the place.
+
 2. The place is not part of the brew pub.
+
 3. There is a valid licence for the place or the sale of the draft beer at that place is made in accordance with a caterer’s endorsement attached to the licence for the brew pub.
+
 4. If a separate licence for the place is in effect, the holder of the licence for the brew pub has a direct or indirect ownership interest of at least 51 per cent in the business that sells beer at the place.
 
 ### Transition, after change in tax rate
@@ -293,30 +413,43 @@ ii. if this is the first production year in which it manufactures beer, its worl
 ### Same
 
 (2) If, on or after April 1, 2026 and before the day on which the Plan to Protect Ontario Act (Budget Measures), 2026 receives Royal Assent, a collector collects an amount on account of tax under section 30 in respect of beer or a purchaser pays tax imposed under this Act in respect of the purchase of beer and if subsection (1) does not apply to the beer in respect of which the tax is collected or paid, the following rules apply:
+
 1. The amount by which the amount collected or paid under this Act as it read immediately before being amended by Schedule 9 to the Plan to Protect Ontario Act (Budget Measures), 2026 exceeds the amount of tax that the collector or purchaser would have had to collect or pay under this Act, as amended by that Schedule, is deemed not to have been collected on account of tax or paid as a tax.
+
 2. The amount referred to in paragraph 1 is deemed to have been collected or paid as part of the purchase price otherwise owing in respect of the beer.
 
 ### Adjustment to basic tax rate
 
 26 (1) The Minister may, by regulation, prescribe a date in a year as of which the basic tax rates for the purposes of sections 21 and 25 shall be adjusted in accordance with this section.
+
 (1.1), (1.2) Repealed: 2019, c. 15, Sched. 2, s. 14 (2).
 
 ### Calculation of basic tax rates
 
 (2) The basic tax rates, expressed in cents per litre, effective as of the date prescribed by the Minister under subsection (1) shall be calculated using the formula,
+
 A + (A × B)
+
 in which,
+
 “A” is the basic tax rate in effect immediately before the date prescribed by the Minister, and
+
 “B” is the index factor calculated under subsection (2.1).
 
 ### Index factor
 
 (2.1) For the purposes of subsection (2), the index factor is the greater of zero and the value calculated using the following formula, rounded to the nearest one-thousandth:
+
 [(C/D + D/E + E/F) / 3] − 1
+
 in which,
+
 “C” is the Consumer Price Index for the 12-month period ending on the previous November 30,
+
 “D” is the Consumer Price Index for the 12-month period preceding the 12-month period referred to in the definition of “C”,
+
 “E” is the Consumer Price Index for the 12-month period preceding the 12-month period referred to in the definition of “D”, and
+
 “F” is the Consumer Price Index for the 12-month period preceding the 12-month period referred to in the definition of “E”.
 
 ### Same
@@ -330,8 +463,11 @@ in which,
 ### Consumer Price Index
 
 (5) In this section, the Consumer Price Index for a 12-month period is the result arrived at by,
+
 (a) determining the sum of the Consumer Price Index for Ontario (All Items) as published by Statistics Canada under the authority of the Statistics Act (Canada) for each month in that period;
+
 (b) dividing the sum obtained under clause (a) by 12; and
+
 (c) rounding the result obtained under clause (b) to the nearest one-tenth.
 
 ### wine and wine cooler
@@ -339,6 +475,7 @@ in which,
 ### Basic tax
 
 27 (1) Repealed: 2024, c. 12, Sched. 6, s. 1 (1).
+
 (1.1) Repealed: 2023, c. 8, Sched. 6, s. 4 (2).
 
 ### Other wine or wine cooler
@@ -348,25 +485,37 @@ in which,
 ### Same, purchases from offsite winery retail stores
 
 (2.1) A purchaser who purchases from an offsite winery retail store wine or wine cooler manufactured by the owner of the offsite winery retail store shall pay a basic tax in respect of the purchase at the basic tax rate of 12 per cent of the retail price of the wine or wine cooler.
+
 (2.2) Repealed: 2026, c. 2, Sched. 9, s. 6 (1).
 
 ### Retail price of wine or wine cooler, etc.
 
 (3) The retail price of wine or wine cooler sold to a purchaser from a winery retail store is the amount calculated using the formula,
+
 (A – B – C) ÷ (1 + D)
+
 in which,
+
 “A” is the amount charged to the purchaser,
+
 “B” is the amount of any deposit on the container containing the wine or wine cooler that is required to be collected or remitted under any deposit return program established under the Liquor Licence and Control Act, 2019,
+
 “C” is the amount of tax imposed under Part IX of the Excise Tax Act (Canada) in respect of the purchase of the wine or wine cooler determined by,
+
 i. dividing the amount that remains after subtracting B from A by the sum of the tax rate under Part IX of the Excise Tax Act (Canada) plus 1,
+
 ii. multiplying the result by the tax rate under Part IX of the Excise Tax Act (Canada), and
+
 iii. rounding the result to the nearest cent, and
+
 “D” is the basic tax rate that applies to the wine or wine cooler under this section.
 
 ### Samples
 
 (4) If a winery sells a sample of wine or wine cooler to a purchaser and the amount of tax paid by the purchaser under this Act in respect of the sample is less than the amount of tax, based on the retail price of the wine or wine cooler, that is reasonably allocable by volume to the sample, the winery, as a purchaser, shall pay tax under this Act in an amount equal to the difference.
+
 28 Repealed: 2026, c. 2, Sched. 9, s. 7.
+
 29 Repealed: 2026, c. 2, Sched. 9, s. 7.
 
 ### spirits
@@ -376,21 +525,33 @@ iii. rounding the result to the nearest cent, and
 ### Spirits, general
 
 29.1 (1) A purchaser who purchases spirits from a distillery retail store shall pay a basic tax in respect of the purchase at the basic tax rate of,
+
 (a) 20 per cent of the retail price of the spirits, if the spirits contain 7.1 per cent alcohol by volume or less;
+
 (b) 25 per cent of the retail price of the spirits, if the spirits contain more than 7.1 per cent alcohol by volume but not more than 18 per cent alcohol by volume; or
+
 (c) 30.75 per cent of the retail price of the spirits, if the spirits contain more than 18 per cent alcohol by volume.
 
 ### Retail price of spirits
 
 (2) The retail price of spirits sold to a purchaser from a distillery retail store is the amount calculated using the formula,
+
 (A – B – C) ÷ (1 + D)
+
 in which,
+
 “A” is the amount charged to the purchaser,
+
 “B” is the amount of any deposit on the container containing the spirits that is required to be collected or remitted under any deposit return program established under the Liquor Licence and Control Act, 2019,
+
 “C” is the amount of tax imposed under Part IX of the Excise Tax Act (Canada) in respect of the purchase of the spirits determined by,
+
 i. dividing the amount that remains after subtracting B from A by the sum of the tax rate under Part IX of the Excise Tax Act (Canada) plus 1,
+
 ii. multiplying the result by the tax rate under Part IX of the Excise Tax Act (Canada), and
+
 iii. rounding the result to the nearest cent, and
+
 “D” is the basic tax rate that applies to the spirits under this section.
 
 ### Samples
@@ -402,6 +563,7 @@ iii. rounding the result to the nearest cent, and
 ### Transition, rates implemented by the Plan to Protect Ontario Act (Budget Measures), 2026
 
 29.2 If, on or after April 1, 2026 and before the day on which the Plan to Protect Ontario Act (Budget Measures), 2026 receives Royal Assent, a purchaser pays tax imposed under this Act in respect of the purchase of wine, wine cooler or spirits, the amount by which the amount paid under this Act, as it read immediately before being amended by Schedule 9 to the Plan to Protect Ontario Act (Budget Measures), 2026, exceeds the amount of tax that the purchaser would have had to pay under this Act, as amended by that Schedule, is deemed not to have been paid as a tax but rather to have been paid as part of the purchase price otherwise owing in respect of the wine, wine cooler or spirits.
+
 29.3 Repealed: 2026, c. 2, Sched. 9, s. 10.
 
 ### alcohol refreshment beverages
@@ -413,7 +575,9 @@ iii. rounding the result to the nearest cent, and
 ### Interpretation
 
 (2) For the purposes of subsection (1) and clause 71 (2) (f.1), a reference to “alcohol refreshment beverage” refers to any liquor that contains no more than 7.1 per cent alcohol by volume and is,
+
 (a) except as may be prescribed by the regulations, a ready-to-consume cooler, hard seltzer or other premixed cocktail made from spirits, wine, beer or fermented sugar, or from any combination of the four; or
+
 (b) a specified type or combination or mixture of liquor as may be prescribed by the regulations.
 
 ### Division C — Tax Collection and Remittance
@@ -445,7 +609,9 @@ iii. rounding the result to the nearest cent, and
 ### Remittance through affiliate
 
 (6) Despite subsection (4), a winery that is a corporation may remit the taxes or amounts on account of taxes to a corporation that is an affiliate of the winery, and the affiliate shall,
+
 (a) collect the taxes or amounts on account of taxes as agent for the Minister; and
+
 (b) remit the taxes or amounts on account of taxes to the Minister in accordance with the regulations.
 
 ### Remittance by licensee of brew pub
@@ -455,25 +621,33 @@ iii. rounding the result to the nearest cent, and
 ### Collection and remittance after change in beer tax rate
 
 (8) The following rule applies if a collector receives delivery of beer before an adjustment date or is otherwise liable to pay tax at the rate in effect immediately before an adjustment date and then sells or delivers the beer to a purchaser or another collector on or after the adjustment date:
+
 1. Despite subsections (1), (2) and (3), the collector and any subsequent collector who receives delivery of the beer shall collect or pay taxes or amounts on account of taxes in respect of that beer as if the taxes were being imposed on the purchaser immediately before the adjustment date.
 
 ### Same, beer manufacturer
 
 (9) The following rule applies if beer is available for sale before an adjustment date at a store owned and operated by a beer manufacturer and then the beer is sold or delivered to a purchaser on or after the adjustment date:
+
 1. Despite subsection (1), the taxes to be collected by the beer manufacturer in respect of the beer shall be determined as if the beer were sold or delivered to the purchaser immediately before the adjustment date.
 
 ### Same, licensee of brew pub
 
 (10) The following rules apply if draft beer is made at a brew pub before an adjustment date and then the licensee of the brew pub sells or delivers the draft beer to a purchaser on or after the adjustment date or sells or delivers the draft beer on or after the adjustment date to an operator of a place that is a secondary location related to the brew pub:
+
 1. Despite subsection (1), the taxes to be collected by the licensee of the brew pub in respect of the draft beer sold or delivered to a purchaser shall be determined as if the draft beer were sold to the purchaser immediately before the adjustment date.
+
 2. Despite subsections (2) and (3), the amount to be collected by the licensee of the brew pub from the operator of the secondary location on account of taxes imposed on a purchaser in respect of the purchase of the draft beer shall be determined as if the draft beer were sold immediately before the adjustment date.
 
 ### Same, operator of secondary location
 
 (11) The following rule applies if draft beer is made at a brew pub before an adjustment date and then an operator of a place that is a secondary location related to the brew pub sells or delivers the draft beer to a purchaser on or after the adjustment date:
+
 1. Despite subsection (1), the taxes to be collected by the operator of the secondary location in respect of the draft beer shall be determined as if the draft beer were sold or delivered to the purchaser immediately before the adjustment date.
+
 30.1 Repealed: 2019, c. 15, Sched. 2, s. 19.
+
 30.2 Repealed: 2019, c. 15, Sched. 2, s. 19.
+
 31 Repealed: 2019, c. 15, Sched. 2, s. 19.
 
 ### payments in lieu of tax
@@ -481,9 +655,13 @@ iii. rounding the result to the nearest cent, and
 ### Amounts in lieu of tax
 
 31.1 The following rules apply if a person sells liquor and receives any payment made as or on account of the tax payable under this Act:
+
 1. The person must deal with and account for the payment as tax under this Act.
+
 2. If the person fails to deal with and account for the payment in accordance with this Act and the regulations, the person is liable to the same penalties and fines, and is guilty of the same offences, as would apply if the payment were the tax payable under this Act.
+
 3. The Minister may collect and receive the payment using the same remedies and procedures that are provided by this Act and the regulations for the collection and enforcement of the tax payable under this Act.
+
 4. For the purposes of the assessment and collection of the payment, the person receiving the payment is deemed to be a collector for the purposes of Division D.
 
 ### Division D — Administration
@@ -495,7 +673,9 @@ iii. rounding the result to the nearest cent, and
 ### Definitions
 
 33 (1) In this section,
+
 “secured creditor” means a person who has a security interest in the property of another person or who acts for or on behalf of that person with respect to the security interest, and includes a trustee appointed under a trust deed relating to a security interest, a receiver or receiver-manager appointed by a secured creditor or by a court on the application of a secured creditor and any other person performing a similar function; (“créancier garanti”)
+
 “security interest” means any interest in property that secures payment or performance of an obligation, and includes an interest created by or arising out of a debenture, mortgage, lien, pledge, charge, deemed or actual trust, assignment or encumbrance of any kind whenever arising, created or deemed to arise or otherwise provided for, but does not include a security interest prescribed by the Minister as one to which this section does not apply. (“sûreté”)
 
 ### Deemed trust
@@ -505,7 +685,9 @@ iii. rounding the result to the nearest cent, and
 ### Extension of trust
 
 (3) Despite any provision of this or any other Act, if at any time an amount deemed by subsection (2) to be held in trust is not paid as required under Division C or the regulations by the collector, property of the collector and property held by any secured creditor that but for a security interest would be property of the collector, equal in value to the amount deemed to be held in trust is deemed,
+
 (a) to be held, from the time the amount was collected or became collectable by the collector, separate and apart from the property of the collector, in trust for the Crown in right of Ontario, whether or not the property is subject to a security interest; and
+
 (b) to form no part of the estate or property of the collector from the time the amount was collected or became collectable, whether or not the property has in fact been kept separate and apart from the estate or property of the collector and whether or not the property is subject to a security interest.
 
 ### Same
@@ -543,7 +725,9 @@ iii. rounding the result to the nearest cent, and
 ### Minister may apply security
 
 (2) If a collector that has deposited security with the Minister under subsection (1) fails to collect or remit an amount as or on account of tax as required under this Act,
+
 (a) the Minister may apply the security in whole or in part to the amount that should have been collected or remitted; and
+
 (b) if the Minister takes the action described in clause (a), the Minister shall forthwith give written notice of the action to the collector by registered mail or personal service.
 
 ### Assignment of book debts
@@ -565,7 +749,9 @@ iii. rounding the result to the nearest cent, and
 ### Location of records and books of account
 
 (2) Records and books of account required to be kept under subsection (1) must be kept,
+
 (a) at the collector’s place of business or residence in Ontario; or
+
 (b) at a place in Ontario or elsewhere approved in writing by the Minister, under any terms and conditions the Minister may impose.
 
 ### Requirement by Minister to keep records
@@ -579,8 +765,11 @@ iii. rounding the result to the nearest cent, and
 ### Audit and examination
 
 38 (1) A person authorized by the Minister for any purpose related to the administration or enforcement of this Act may at all reasonable times enter any premises or place where a collector carries on business or keeps records or books of account, including electronic records, and may,
+
 (a) audit or examine the records and books of account and any account, voucher, letter, telegram or other document that relates to or may relate to the tax imposed by this Act or any return required under this Act;
+
 (b) examine the property described by an inventory or any property, process or matter, an examination of which may, in his or her opinion, assist in determining the accuracy of an inventory or in ascertaining the information that is or should be in the books or the amount of any tax imposed by this Act;
+
 (c) require a collector or his, her or its employees or agents to give all reasonable assistance with the audit or examination and to answer all proper questions relating to the audit or examination either orally or, if so required in writing, on oath or by statutory declaration and for that purpose may require the person to attend at the premises or place.
 
 ### Obstruction
@@ -606,8 +795,11 @@ iii. rounding the result to the nearest cent, and
 ### Assessment of tax collected
 
 40 (1) The Minister may, at any time, assess or reassess an amount collected by a collector under this Act,
+
 (a) if the collector has failed to submit a return in accordance with this Act or the regulations;
+
 (b) if the collector has failed to remit an amount collected under this Act in accordance with this Act or the regulations; or
+
 (c) if a return submitted by the collector under this Act is not substantiated by the collector’s records.
 
 ### Deemed to have been collected
@@ -629,14 +821,19 @@ iii. rounding the result to the nearest cent, and
 ### Amount of penalty
 
 (2) The amount of the penalty that may be assessed against a collector under subsection (1) is determined as follows:
+
 1. If the Minister reasonably believes that the collector’s failure to collect the amount is attributable to neglect, carelessness, wilful default or fraud, the penalty is the sum of,
+
 i. the amount that the collector failed to collect, and
+
 ii. the greater of $100 and 25 per cent of the amount the collector failed to collect.
+
 2. If paragraph 1 does not apply, the penalty is equal to the amount that the collector failed to collect.
 
 ### Penalty, failure to submit a return
 
 (3) The Minister may assess a penalty against a collector that fails to submit a return in accordance with this Act and the regulations equal to 10 per cent of the tax collectable or 5 per cent of the tax payable by the collector, as the case may be, for the period covered by the return.
+
 (4) Repealed: 2010, c. 26, Sched. 1, s. 11.
 
 ### Penalty, failure to remit tax with return
@@ -666,8 +863,11 @@ ii. the greater of $100 and 25 per cent of the amount the collector failed to co
 ### Assessing purchasers and collectors
 
 42 (1) Subject to subsections (2) to (5), the Minister may assess or reassess,
+
 (a) tax payable by a purchaser, within four years after the day on which the tax becomes payable;
+
 (b) a penalty under subsection 41 (1) for failing to collect an amount under this Act, within four years after the day the amount was required to be collected; and
+
 (c) a penalty under subsection 41 (3) for failing to submit a return within four years after the day on which the return was required to be submitted.
 
 ### No time limit if neglect, carelessness, etc.
@@ -697,14 +897,23 @@ ii. the greater of $100 and 25 per cent of the amount the collector failed to co
 ### Amount of debt calculation
 
 (2) In this section, the amount of the debt payable by a person under this Act at a particular day is the amount by which “A” exceeds “B” where,
+
 “A” is the sum of,
+
 (a) all amounts of or on account of tax under this Act that were payable or collectable by the person before that day,
+
 (b) all penalties assessed under this Act against the person at any time before that day,
+
 (c) all refunds taken under this Act that are disallowed in respect of a period of time ending before that day, and
+
 (d) all interest payable by the person under this section before that day, and
+
 “B” is the sum of,
+
 (a) all amounts of or on account of tax that were paid or remitted by the person under this Act before that day and the amount of any refund owing under any other Act that was applied by the Minister to the person’s liabilities under this Act before that day,
+
 (b) the amount of all refunds taken under this Act before that day, and
+
 (c) all interest credited to the person before that day.
 
 ### Compounding
@@ -734,19 +943,25 @@ ii. the greater of $100 and 25 per cent of the amount the collector failed to co
 ### Overpayments
 
 46 (1) If a collector remits or pays to the Minister more money for a period than was required to be remitted or paid under this Act, the Minister shall,
+
 (a) subject to subsection (2), refund the overpayment to the collector; or
+
 (b) at the option of the Minister, apply the overpayment to the collector’s liability with respect to another period and notify the collector of that action.
 
 ### Limitation
 
 (2) The Minister shall not make a refund under subsection (1),
+
 (a) unless an application for the refund is made to the Minister within four years after the day the remittance or payment was made in respect of which the collector is seeking a refund; and
+
 (b) unless evidence satisfactory to the Minister is provided to establish the entitlement of the collector to the refund.
 
 ### Saving
 
 (3) If the result of an assessment or reassessment or the final decision of a court in a proceeding commenced under section 56 is that a collector has made an overpayment under this Act, the Minister shall,
+
 (a) refund the overpayment to the collector without requiring the collector to comply with subsection (2); or
+
 (b) at the option of the Minister, apply the overpayment to the collector’s liability with respect to another period and notify the collector of that action.
 
 ### Interest on overpayments
@@ -800,7 +1015,9 @@ ii. the greater of $100 and 25 per cent of the amount the collector failed to co
 ### Recovery of amounts payable under this Act
 
 50 (1) On default of payment of an amount assessed under this Act,
+
 (a) the Minister may bring an action for the recovery of the amount in any court in which a debt or money demand of a similar amount may be collected, and every such action shall be brought and executed in and by the name of the Minister or his or her name of office and may be continued by his or her successor in office as if no change had occurred and shall be tried without a jury; and
+
 (b) the Minister may issue a warrant directed to the sheriff for an area in which any property of a person or entity liable to make a payment or remittance under this Act is located or situate for the amount owing by the person or entity, for interest on that amount from the day of the issue of the warrant and for the costs and expenses of the sheriff, and the warrant has the same force and effect as a writ of execution issued out of the Superior Court of Justice.
 
 ### Application of subrule 60.07 (2), Rules of Civil Procedure
@@ -826,10 +1043,15 @@ ii. the greater of $100 and 25 per cent of the amount the collector failed to co
 ### Recovery of costs
 
 50.1 The Minister is entitled to recover from a person the reasonable costs and charges incurred by or on behalf of the Minister in the course of obtaining payment of any amount required to be paid under this Act by the person, if the costs and charges relate to any of the following things:
+
 1. Service of a notice or other document.
+
 2. Registration of a notice of lien and charge, including any charges for related searches and for enforcement activities.
+
 3. An action under clause 50 (1) (a) for the recovery of an amount owing under this Act.
+
 4. Issuance and execution of a warrant referred to in clause 50 (1) (b), to the extent that the costs and charges are not recovered by the sheriff upon execution of the warrant.
+
 5. Other prescribed payments made by or on behalf of the Minister to a third party.
 
 ### Lien on real property
@@ -843,8 +1065,11 @@ ii. the greater of $100 and 25 per cent of the amount the collector failed to co
 ### Amounts included and priority
 
 (3) The lien and charge conferred by subsection (1) or (2) is in respect of all amounts the person or entity is required to pay or remit under this Act at the time of registration of the notice or any renewal of it and all amounts that the person or entity is required to pay or remit afterwards while the notice remains registered and, upon registration of a notice of lien and charge, the lien and charge has priority over,
+
 (a) any perfected security interest registered after the notice is registered;
+
 (b) any security interest perfected by possession after the notice is registered; and
+
 (c) any encumbrance or other claim that is registered against or that otherwise arises and affects the property of the person or entity after the notice is registered.
 
 ### Exception
@@ -862,14 +1087,19 @@ ii. the greater of $100 and 25 per cent of the amount the collector failed to co
 ### If person or entity is not the registered owner
 
 (7) If a person or entity has an interest in real property but is not shown as its registered owner in the proper land registry office,
+
 (a) the notice to be registered under subsection (1) shall recite the interest of the person or entity in the real property; and
+
 (b) a copy of the notice shall be sent to the registered owner at the owner’s address to which the latest notice of assessment under the Assessment Act has been sent.
 
 ### Secured party
 
 (8) In addition to any other rights and remedies, if any amount owed by the person or entity remains outstanding and unpaid, the Minister has, in respect of a lien and charge under subsection (2),
+
 (a) all the rights, remedies and duties of a secured party under sections 17, 59, 61, 62, 63 and 64, subsections 65 (4), (5), (6) and (7) and section 66 of the Personal Property Security Act;
+
 (b) a security interest in the collateral for the purpose of clause 63 (4) (c) of that Act; and
+
 (c) a security interest in the personal property for the purposes of sections 15 and 16 of the Repair and Storage Liens Act, if it is an article as defined in that Act.
 
 ### Registration of documents
@@ -903,8 +1133,11 @@ ii. the greater of $100 and 25 per cent of the amount the collector failed to co
 ### Same
 
 (3) Despite any provision of this or any other Act, if the Minister has knowledge or suspects that a person or entity is, or within 365 days will become, indebted or liable to make any payment,
+
 (a) to a person or entity whose property is subject to a deemed trust created by section 33; or
+
 (b) to a secured creditor who has a right to receive the payment that, but for a security interest in favour of the secured creditor, would be payable to the person or entity referred to in clause (a),
+
 the Minister may by ordinary mail or by demand served personally, require the first-named person to pay forthwith to the Minister on account of the liability of the person or entity referred to in clause (a) all or part of the money that would otherwise be paid, and the payment shall become the property of the Crown in right of Ontario despite any security interest in it and shall be paid to the Minister in priority to the security interest.
 
 ### Liability of debtor
@@ -930,7 +1163,9 @@ the Minister may by ordinary mail or by demand served personally, require the fi
 ### Assessment, non-arm’s length transfers
 
 53 (1) In this section,
+
 “member of his or her family” means, in relation to a transferor, the parent, spouse, grandparent, child, grandchild, son-in-law, daughter-in-law, father-in-law or mother-in-law of the transferor; (“membre de sa famille”)
+
 “spouse” means spouse as defined in section 29 of the Family Law Act. (“conjoint”)
 
 ### Liability to pay
@@ -944,10 +1179,15 @@ the Minister may by ordinary mail or by demand served personally, require the fi
 ### Amount payable
 
 (4) The amount referred to in subsection (2) is the lesser of “A” and “B” where,
+
 “A” is the amount, if any, by which the fair market value of the property transferred, at the time of the transfer, exceeds the fair market value, at the time of the transfer, of the consideration given by the transferee for the transfer, and
+
 “B” is the sum of all amounts, each of which is,
+
 (a) any amount payable by the transferor under this Act at or before the time of the transfer that has not been paid,
+
 (b) any amount collected or collectable by the transferor that has not been remitted as required under this Act, or
+
 (c) any penalty or interest for which the transferor is liable under this Act at the time of the transfer.
 
 ### Same
@@ -961,13 +1201,17 @@ the Minister may by ordinary mail or by demand served personally, require the fi
 ### Effect of payment
 
 (7) If a transferor and transferee are jointly and severally liable to pay an amount under this section,
+
 (a) a payment by the transferee on account of the transferee’s liability discharges the joint liability, to the extent of the payment; and
+
 (b) a payment by the transferor on account of the transferor’s liability under this Act discharges the transferee’s liability under this section to the extent that the payment reduces the balance of the transferor’s liability under this Act to an amount less than the amount of the transferee’s liability under this section.
 
 ### Exception
 
 (8) Subsection (2) does not apply with respect to a transfer of property, including money, between spouses,
+
 (a) under a decree, order or judgment of a competent tribunal; or
+
 (b) under a written separation agreement if, at the time of the transfer, the transferor and transferee were living separate and apart as a result of a breakdown of their relationship.
 
 ### Liability of corporate directors
@@ -977,9 +1221,13 @@ the Minister may by ordinary mail or by demand served personally, require the fi
 ### Exception
 
 (2) A director of a corporation is not liable under subsection (1) unless,
+
 (a) a warrant of execution for the amount of the corporation’s liability as described in subsection (1) has been issued under section 50 and the warrant has been returned by the sheriff unsatisfied in whole or in part;
+
 (a.1) the corporation has commenced proceedings under the Companies’ Creditors Arrangement Act (Canada);
+
 (b) the corporation has become bankrupt due to an assignment or receiving order or it has filed a notice of intention to file or a proposal under the Bankruptcy and Insolvency Act (Canada), and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proven within six months after the date of the assignment, receiving order or filing of the proposal; or
+
 (c) the corporation becomes subject to a proceeding to which section 33 applies and a claim is made by the Minister during the period beginning on the day on which the Minister should have been advised of the commencement of those proceedings and ending on the day that is six months after the remaining property of the collector has been finally disposed of.
 
 ### Prudent director
@@ -1009,7 +1257,9 @@ the Minister may by ordinary mail or by demand served personally, require the fi
 ### Fees under s. 8.1 of the Financial Administration Act
 
 54.1 (1) A fee that the Minister of Finance requires a person to pay under section 8.1 of the Financial Administration Ac t for failing to make full and unconditional payment or settlement of an amount payable under this Act,
+
 (a) is deemed to be tax assessed and payable under this Act; and
+
 (b) may be collected and enforced as tax under this Act.
 
 ### Notice
@@ -1029,7 +1279,9 @@ the Minister may by ordinary mail or by demand served personally, require the fi
 ### Facts and reasons to be given
 
 (2) The notice of objection must,
+
 (a) clearly describe each issue raised by way of objection; and
+
 (b) fully set out the facts and reasons relied on by the person in respect of each issue.
 
 ### Same
@@ -1059,8 +1311,11 @@ the Minister may by ordinary mail or by demand served personally, require the fi
 ### Appeal, how instituted
 
 (2) An appeal to the Superior Court of Justice is instituted by,
+
 (a) filing with the court a notice of appeal in the form approved by the Minister;
+
 (b) paying a fee to the court in the same amount and manner as the fee payable under regulations made under the Administration of Justice Act on the issue of a statement of claim; and
+
 (c) serving on the Minister a copy of the notice of appeal as filed.
 
 ### Limitation
@@ -1086,7 +1341,9 @@ the Minister may by ordinary mail or by demand served personally, require the fi
 ### Reply to notice of appeal
 
 (8) The Minister shall with all due dispatch serve on the person appealing and file in the court a reply to the notice of appeal admitting or denying the facts alleged and containing a statement of such further allegations of fact and all statutory provisions and reasons that the Minister intends to rely on and, if the Minister fails to serve the reply within 180 days after the day of service on him or her of the notice of appeal,
+
 (a) the appellant may, on 21 days notice to the Minister, bring a motion before a judge of the Superior Court of Justice for an order requiring the reply to be served within such time as the judge shall order;
+
 (b) the judge may, if he or she considers it proper in the circumstances, also order that, upon failure by the Minister to serve the reply in the time specified in the order, the assessment with respect to which the appeal is taken shall be vacated and any amount paid pursuant to the assessment or any disallowed refund that is the subject of the appeal shall be repaid or refunded to the appellant.
 
 ### Appeal procedure
@@ -1100,12 +1357,19 @@ the Minister may by ordinary mail or by demand served personally, require the fi
 ### Disposal of appeal
 
 (11) The court may dispose of the appeal by,
+
 (a) dismissing it;
+
 (b) allowing it; or
+
 (c) allowing it and,
+
 (i) vacating the assessment,
+
 (ii) varying the assessment,
+
 (iii) restoring the assessment, or
+
 (iv) referring the assessment back to the Minister for reconsideration and reassessment.
 
 ### Court may order payment or refund
@@ -1127,11 +1391,17 @@ the Minister may by ordinary mail or by demand served personally, require the fi
 ### Application under subrule 14.05 (2), Rules of Civil Procedure
 
 58 (1) If the following conditions are satisfied, a person may make an application under subrule 14.05 (2) of the Rules of Civil Procedure to a judge of the Superior Court of Justice:
+
 1. The application is to determine one or more issues of law that depend solely on the interpretation of,
+
 i. this Act or the regulations, or
+
 ii. this Act or the regulations and another Ontario statute or regulation.
+
 2. The Minister has indicated in writing that the Minister is satisfied that it is in the public interest for the applicant to make the application.
+
 3. The Minister and the applicant have executed a statement of agreed facts on which they both intend to rely and the applicant files the statement as part of the applicant’s application record.
+
 4. No facts remain in dispute between the Minister and the applicant that either of them believes may be relevant to the determination of any issue of law that is a subject of the application.
 
 ### Application of rule 38.10, Rules of Civil Procedure
@@ -1141,14 +1411,19 @@ ii. this Act or the regulations and another Ontario statute or regulation.
 ### Disposition of application
 
 (3) The court may dispose of an application that is authorized under this section by,
+
 (a) making a declaration of law in respect of one or more issues of law forming the subject of the application;
+
 (b) declining to make a declaration of law in respect of any of the issues of law forming the subject of the application; or
+
 (c) dismissing the application.
 
 ### Effect of declaration of law
 
 (4) No declaration of law made on an application under this section,
+
 (a) is binding on the Minister and the applicant except in relation to the facts agreed to by them in the proceeding; or
+
 (b) otherwise affects the rights of the Minister or the applicant in any appeal instituted under this Act.
 
 ### No applications under subrule 14.05 (3)
@@ -1162,9 +1437,13 @@ ii. this Act or the regulations and another Ontario statute or regulation.
 ### Extension of time to object or appeal
 
 59 The time within which a notice of objection is to be served or an appeal is to be instituted may be extended by the Minister if application for the extension is made,
+
 (a) in respect of a notice of objection,
+
 (i) before the expiry of the time limit under subsection 55 (1), or
+
 (ii) within one year from the day of mailing or delivery by personal service of the notice of assessment that is the subject of the objection if the person wishing to object furnishes to the Minister an explanation satisfactory to the Minister of why the notice of objection could not be served in accordance with subsection 55 (1); or
+
 (b) with respect to an appeal, before the expiry of the time limit under subsection 56 (1).
 
 ### Objection and appeal of refund disallowance
@@ -1186,30 +1465,43 @@ ii. this Act or the regulations and another Ontario statute or regulation.
 ### Failure to submit return or remit tax
 
 60 (1) Every collector that fails to submit a return or remit an amount on account of tax to the Minister in accordance with this Act and the regulations is guilty of an offence and, in addition to any penalty that may be assessed under this Act, is liable on conviction to a fine of,
+
 (a) not less than $500; and
+
 (b) not more than the sum of $10,000 plus twice the amount on account of tax collected or required to be collected during the period to which the return relates.
 
 ### False statements, etc.
 
 (2) Every person is guilty of an offence who has,
+
 (a) made, or participated in, assented to or acquiesced in the making of false or deceptive statements in a return, statement or answer, delivered or made as required under this Act or the regulations;
+
 (b) to evade collection or remittance of a tax imposed by this Act, destroyed, altered, mutilated, secreted or otherwise disposed of records or books of account;
+
 (c) made, assented to or acquiesced in the making of false or deceptive entries or omitted, or assented to or acquiesced in the omission to enter a material particular in records or books of account; or
+
 (d) wilfully, in any manner, evaded or attempted to evade compliance with this Act.
 
 ### Same, amount of fine, imprisonment, etc.
 
 (3) A person who is guilty of an offence under subsection (2) is liable on conviction, in addition to any penalty that may be assessed under this Act,
+
 (a) to a fine of,
+
 (i) not less than the greater of $500 and 25 per cent of the amount on account of tax collected or required to be collected during the period to which the return relates, and
+
 (ii) not more than the sum of $10,000 plus twice the amount on account of tax collected or required to be collected during the period to which the return relates;
+
 (b) to imprisonment for a term of not more than two years; or
+
 (c) to both a fine under clause (a) and imprisonment under clause (b).
 
 ### Failure to collect tax
 
 (4) Every collector that fails to collect an amount on account of tax as required under this Act is guilty of an offence and, in addition to any penalty that may be assessed under this Act, is liable on conviction to a fine equal to the sum of,
+
 (a) the amount that should have been collected, as determined under subsection (5); and
+
 (b) an amount not less than $500 and not more than the sum of $10,000 and twice the amount referred to in clause (a).
 
 ### Determination of amount that should have been collected
@@ -1223,18 +1515,27 @@ ii. this Act or the regulations and another Ontario statute or regulation.
 ### Obtaining refund by deceit, falsehood, etc.
 
 (7) Every person who, by deceit, falsehood or any other fraudulent means, obtains or attempts to obtain a refund under this Act to which the person is not entitled is guilty of an offence and is liable on conviction,
+
 (a) to,
+
 (i) a fine of not less than $500 and not more than $10,000, and
+
 (ii) an additional fine of not more than twice the amount of the refund the person obtained or sought to obtain;
+
 (b) to imprisonment for a term of not more than two years; or
+
 (c) to both the fines under clause (a) and imprisonment under clause (b).
 
 ### Offence
 
 (8) Every person who contravenes or fails to comply with any of the following provisions is guilty of an offence and is liable on conviction to a fine of $50 multiplied by the number of days the person contravened the provision or failed to comply with the provision:
+
 1. Section 37.
+
 2. Clause 38 (1) (c).
+
 3. Subsection 38 (2).
+
 4. Subsection 39 (1).
 
 ### General offence
@@ -1268,43 +1569,61 @@ ii. this Act or the regulations and another Ontario statute or regulation.
 ### Confidentiality
 
 62 (1) Except as authorized by this section, no person employed by the Government of Ontario, the LCBO or the Commission shall,
+
 (a) knowingly communicate or knowingly allow to be communicated to any person any information obtained by or on behalf of the Minister for the purposes of this Act; or
+
 (b) knowingly allow any person to inspect or to have access to any record or thing obtained by or on behalf of the Minister for the purposes of this Act.
 
 ### Non-disclosure
 
 (2) Despite any other Act, but subject to subsection (3), no person employed by the Government of Ontario, the LCBO or the Commission shall be required, in connection with any legal proceedings,
+
 (a) to give evidence relating to any information obtained by or on behalf of the Minister for the purposes of this Act; or
+
 (b) to produce any record or thing obtained by or on behalf of the Minister for the purposes of this Act.
 
 ### Exceptions
 
 (3) Subsections (1) and (2) do not apply in respect of,
+
 (a) criminal proceedings under any Act of the Parliament of Canada;
+
 (b) proceedings in respect of the trial of any person for an offence under an Act of the Legislature; or
+
 (c) proceedings relating to the administration or enforcement of this Act or the collection or assessment of an amount under this Act.
 
 ### Same
 
 (4) A person employed by the Government of Ontario, the LCBO or the Commission may, in the course of his or her duties in connection with the administration or enforcement of this Act,
+
 (a) communicate or allow to be communicated to an official or authorized person employed by the Government of Ontario, the LCBO or the Commission in the administration and enforcement of any law any information obtained by or on behalf of the Minister for the purposes of this Act; and
+
 (b) allow an official or authorized person employed by the Government of Ontario, the LCBO or the Commission in the administration or enforcement of any law to inspect or have access to any record or thing obtained by or on behalf of the Minister for the purposes of this Act.
 
 ### Copies
 
 (5) Despite anything in this Act, the Minister may permit a copy of any record or thing obtained by the Minister or on the Minister’s behalf for the purposes of this Act to be given to,
+
 (a) the person from whom the record or thing was obtained;
+
 (b) any person,
+
 (i) for the purposes of any objection or appeal that has been or may be taken by that person under this Act arising out of any assessment of tax, interest or penalties under this Act in connection with which the record or thing was obtained, or
+
 (ii) by whom any amount payable under this Act is payable or has been paid;
+
 (c) the legal representative of a person mentioned in clause (a) or (b); or
+
 (d) an agent authorized in writing by a person mentioned in clause (a) or (b) to act as their agent.
 
 ### Disclosure to other jurisdictions
 
 (6) Despite anything in this or any other Act, the Minister may permit information or a copy of any record or thing obtained by the Minister or on the Minister’s behalf for the purposes of this Act to be given to,
+
 (a) a minister of the Government of Canada or any officer or employee employed under a minister of the Government of Canada for the purposes of administering or enforcing an Act of the Parliament of Canada imposing any tax or duty; or
+
 (b) a minister of the government of any province or territory of Canada or officer or employee employed under that minister, for the purposes of administering or enforcing an Act or ordinance of the Legislature of that province or territory imposing any tax or duty,
+
 if the minister of the Government of Canada or the minister of the government of the province or territory, as the case may be, is permitted to give to the Minister information or copies of any record or thing obtained by or on behalf of the minister of the Government of Canada, or the minister of the government of that province or territory, as the case may be, in the administration or enforcement of that Act for the purposes of the administration or enforcement of this Act.
 
 ### Communication with the Commission
@@ -1314,8 +1633,11 @@ if the minister of the Government of Canada or the minister of the government of
 ### Offence
 
 (8) Every person,
+
 (a) who contravenes subsection (1); or
+
 (b) to whom information has been provided under the authority of subsection (4), (5), (6) or (7) who uses, communicates or allows to be communicated such information for any purposes other than that for which it was provided,
+
 is guilty of an offence and is liable on conviction to a fine of not more than $2,000.
 
 ### Information required to administer this Act
@@ -1335,7 +1657,9 @@ is guilty of an offence and is liable on conviction to a fine of not more than $
 ### Commission may collect and use information
 
 (3) The Commission may, for the purposes of carrying out its functions under subsection (1), collect and use information,
+
 (a) obtained in the course of carrying out its functions under this Act; or
+
 (b) disclosed to it by the Minister.
 
 ### Commission and LCBO may disclose information
@@ -1349,6 +1673,7 @@ is guilty of an offence and is liable on conviction to a fine of not more than $
 ### Deemed collection
 
 (6) Despite any other Act, all information collected by the Minister from the Commission or the LCBO under this Act is deemed to be information collected directly by the Minister from the person or entity from whom the Commission or LCBO collected the information.
+
 64 Repealed: 2019, c. 15, Sched. 2, s. 26.
 
 ### tax-included pricing
@@ -1360,9 +1685,13 @@ is guilty of an offence and is liable on conviction to a fine of not more than $
 ### Obligation to make information on taxes available to purchaser
 
 (2) Collectors shall make available to purchasers such information with respect to the amount of taxes included in the price as the Minister specifies and shall make the information available by a method approved by the Minister.
+
 66 Repealed: 2019, c. 15, Sched. 2, s. 28.
+
 67 Repealed: 2019, c. 15, Sched. 2, s. 28.
+
 68 Repealed: 2019, c. 15, Sched. 2, s. 28.
+
 69 Repealed: 2019, c. 15, Sched. 2, s. 28.
 
 ### Division F — Forms and Regulations
@@ -1376,19 +1705,29 @@ is guilty of an offence and is liable on conviction to a fine of not more than $
 ### Lieutenant Governor in Council
 
 71 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) defining terms or expressions used in this Act that are not defined in this Act;
+
 (b) excluding an Ontario wine or a beverage containing Ontario wine from the definition of “Ontario wine cooler” or a wine or beverage from the definition of “wine cooler” for the purposes of those definitions in subsection 17 (1).
 
 ### Minister of Finance
 
 (2) The Minister of Finance may make regulations,
+
 (a) prescribing anything referred to in this Act as prescribed by the regulations;
+
 (b) prescribing rules relating to records and books of account to be maintained by collectors, including rules relating to their content and when they may be destroyed;
+
 (c) prescribing rules for the payment of tax and for the collection and remittance of amounts on account of tax;
+
 (d) prescribing rules relating to returns and the submission of returns by collectors;
+
 (e) providing for the calculation and payment of interest on amounts paid in excess of amounts payable under this Act and prescribing the rate of interest or the manner of determining the rate of interest;
+
 (f) providing for the refund of tax or amounts on account of tax, in whole or in part, owing to special circumstances and prescribing the terms and conditions under which the refund may be made;
+
 (f.1) providing that a tax otherwise payable under this Act on one or more classes of alcohol refreshment beverages does not apply and prescribing an alternate rate or rates of tax that must be paid on them instead, and providing for any other matter that the Minister considers advisable in connection with the administration of the tax, including providing for transitional matters that may arise due to the alternate rate;
+
 (g) governing the procedures to be followed for a person or class of persons to obtain the benefit of an exemption from tax under subsection 17 (3) or to obtain a refund under this Act.
 
 ### Retroactive

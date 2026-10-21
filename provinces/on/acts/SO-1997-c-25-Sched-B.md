@@ -6,43 +6,64 @@ language: en
 type: act
 document_date: "2023-10-26"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o25b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Disability Support Program Act, 1997
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o25b) before relying on it.
 
 S.O. 1997, c. 25, Sched. B
 
 ### Purpose of Act
 
 1 The purpose of this Act is to establish a program that,
+
 (a) provides income and employment supports to eligible persons with disabilities;
+
 (b) recognizes that government, communities, families and individuals share responsibility for providing such supports;
+
 (c) effectively serves persons with disabilities who need assistance; and
+
 (d) is accountable to the taxpayers of Ontario.
 
 ### Definitions
 
 2 In this Act,
+
 “applicant” means a person who applies for income support or on whose behalf such an application is made; (“auteur de demande”)
+
 “benefit unit” means a person and all of his or her dependants on behalf of whom the person receives or applies for income support; (“groupe de prestataires”)
+
 “benefits” means the prescribed items, services or payments, but does not include extended health benefits; (“prestations”)
+
 “biometric information” means information derived from an individual’s unique characteristics but does not include a photographic or signature image; (“renseignements biométriques”)
+
 “Director” means the Director of the Ontario Disability Support Program appointed by the Minister; (“directeur”)
+
 “district social services administration board” means a board established under the District Social Services Administration Boards Act; (“conseil d’administration de district des services sociaux”)
+
 “employment supports” means the prescribed goods or services provided to a person in order to remove barriers to the person’s competitive employment and assist the person in attaining his or her competitive employment goal; (“soutien de l’emploi”)
+
 “extended health benefits” means the prescribed items, services or payments that are provided under section 49.1; (“prestations prolongées pour services de santé”)
+
 “income support” means assistance for the provision of basic needs, shelter, costs related to a person’s disability and other prescribed needs, and includes benefits; (“soutien du revenu”)
+
 “Minister” and “Ministry” mean the Minister and Ministry of Community and Social Services; (“ministre”, “ministère”)
+
 “person with a disability” means a person determined under section 4 to be a person with a disability; (“personne handicapée”)
+
 “personal information” means personal information as defined in the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
 “prescribed” means prescribed by the regulations made under this Act; (“prescrit”)
+
 “recipient” means a person to whom income support is provided; (“bénéficiaire”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “service co-ordinator” means an organization or person approved by the Director under section 48 to provide or purchase employment supports; (“coordonnateur des services”)
+
 “Tribunal” means the Social Benefits Tribunal established under the Ontario Works Act, 1997. (“Tribunal”)
 
 ## PART I ELIGIBILITY FOR AND PAYMENT OF INCOME SUPPORT
@@ -58,8 +79,11 @@ S.O. 1997, c. 25, Sched. B
 ### Person with a disability
 
 4 (1) A person is a person with a disability for the purposes of this Part if,
+
 (a) the person has a substantial physical or mental impairment that is continuous or recurrent and expected to last one year or more;
+
 (b) the direct and cumulative effect of the impairment on the person’s ability to attend to his or her personal care, function in the community and function in a workplace, results in a substantial restriction in one or more of these activities of daily living; and
+
 (c) the impairment and its likely duration and the restriction in the person’s activities of daily living have been verified by a person with the prescribed qualifications.
 
 ### Determination
@@ -69,19 +93,29 @@ S.O. 1997, c. 25, Sched. B
 ### Eligibility for income support
 
 5 (1) No person is eligible for income support unless,
+
 (a) the person qualifies under subsection 3 (1);
+
 (b) the person is resident in Ontario;
+
 (c) the budgetary requirements of the person and any dependants exceed their income and their assets do not exceed the prescribed limits, as provided for in the regulations;
+
 (d) the person and the prescribed dependants provide the information and the verification of information required to determine eligibility including,
+
 (i) information regarding personal identification, as prescribed,
+
 (ii) financial information, as prescribed, and
+
 (iii) any other prescribed information; and
+
 (e) the person and any dependants meet any other prescribed conditions relating to eligibility.
+
 (2), (3) Repealed: 2021, c. 25, Sched. 21, s. 25 (1).
 
 ### Income support in exceptional circumstances
 
 6 In cases presenting exceptional circumstances and in which investigation shows the advisability of income support being provided to a person who is not eligible for it, the Lieutenant Governor in Council may by order direct that income support be provided to the person in accordance with the terms of the order.
+
 7 Repealed: 2009, c. 33, Sched. 8, s. 4 (3).
 
 ### Agreement to reimburse and assignment
@@ -95,15 +129,21 @@ S.O. 1997, c. 25, Sched. B
 ### Same
 
 (3) This section does not apply to,
+
 (a) a payment that would be exempt as income or assets under this Act or the regulations; or
+
 (b) that portion of employment earnings, pension income or other prescribed income that is paid with respect to a period after the period during which the person receives income support.
 
 ### Failure to comply
 
 9 (1) If an applicant, recipient or dependant fails to comply with or meet a condition of eligibility for income support, the Director shall, as prescribed, do one of the following:
+
 1. Refuse to grant income support.
+
 2. Declare the person ineligible for income support for the prescribed period.
+
 3. Reduce or cancel the income support or that part of it provided for the benefit of the person who has failed to comply.
+
 4. Suspend the income support or suspend that part of it provided for the benefit of the person who has failed to comply.
 
 ### Re-instatement
@@ -157,8 +197,11 @@ S.O. 1997, c. 25, Sched. B
 ### Recovery of overpayments from other programs
 
 (3) An overpayment enforceable against a recipient or the recipient’s spouse under the Ontario Works Act, 1997, the Family Benefits Act or the General Welfare Assistance Act is recoverable under this Act even though the overpayment was made by,
+
 (a) a delivery agent under the Ontario Works Act, 1997;
+
 (b) a welfare administrator under the General Welfare Assistance Act; or
+
 (c) the Director under the Family Benefits Act.
 
 ### Methods of recovery
@@ -184,8 +227,11 @@ S.O. 1997, c. 25, Sched. B
 ### Effect of notice
 
 (2) A decision determining that an overpayment exists shall be final and enforceable against the recipient as if it were an order of the Superior Court of Justice if,
+
 (a) notice of it has been given under subsection (1);
+
 (b) the time for commencing an appeal to the Tribunal has expired; and
+
 (c) no appeal has been commenced.
 
 ### Effect of appeal
@@ -207,13 +253,17 @@ S.O. 1997, c. 25, Sched. B
 ### No attachment, etc., of income support
 
 18 (1) Income support under this Act,
+
 (a) is not subject to alienation or transfer by the recipient; and
+
 (b) is not subject to garnishment, attachment, execution, seizure or receivership under any other Act.
 
 ### Deduction re money owed for family support, etc.
 
 (2) Despite subsection (1), the Director may deduct a portion of income support to recover,
+
 (a) the amount of a support deduction order that is enforceable against a member of the benefit unit under section 20 of the Family Responsibility and Support Arrears Enforcement Act, 1996; or
+
 (b) the prescribed government debts owed by a member of the benefit unit.
 
 ### Maximum amount deducted
@@ -245,7 +295,9 @@ S.O. 1997, c. 25, Sched. B
 ### Same
 
 (3) A Director’s decision that may be appealed is final,
+
 (a) when the prescribed time for requesting internal review expires, if no internal review is requested within that time; or
+
 (b) on the earliest of the day the prescribed time for completing the internal review expires, the day the results of the completed internal review are received and the day the results of the completed internal review are deemed to be received under section 50, if an internal review has been requested.
 
 ### Decisions that may be appealed
@@ -255,10 +307,15 @@ S.O. 1997, c. 25, Sched. B
 ### Exceptions
 
 (2) No appeal lies to the Tribunal with respect to the following matters:
+
 1. A decision respecting discretionary income support.
+
 2. A decision of the Lieutenant Governor in Council respecting income support in exceptional circumstances.
+
 3. A decision to provide a portion of income support directly to a third party.
+
 4. A variation, refusal or cancellation of income support caused by an amendment to this Act or the regulations.
+
 5. A prescribed decision.
 
 ### Employment supports, no appeal
@@ -340,9 +397,13 @@ S.O. 1997, c. 25, Sched. B
 ### Order of Tribunal
 
 26 (1) In an appeal to the Tribunal, the Tribunal may,
+
 (a) deny the appeal;
+
 (b) grant the appeal;
+
 (c) grant the appeal in part; or
+
 (d) refer the matter back to the Director for reconsideration in accordance with any directions the Tribunal considers proper.
 
 ### Reasons
@@ -370,8 +431,11 @@ S.O. 1997, c. 25, Sched. B
 ### Appeal denied
 
 29 (1) An appeal to the Tribunal shall be denied if,
+
 (a) the person appealing fails, without reasonable cause, to file the information required for the appeal within the required time;
+
 (b) in the case of a hearing held in person, the person appealing fails, without reasonable cause, to attend the hearing at the time and place fixed for it;
+
 (c) in the case of a hearing held by telephone, video conference or some other means, the person appealing fails, without reasonable cause, to be available to be contacted for the purpose of the hearing.
 
 ### Limitation on subsequent appeal
@@ -405,9 +469,13 @@ S.O. 1997, c. 25, Sched. B
 ### Powers of court on appeal
 
 (5) In an appeal to the Court of a decision of the Tribunal, the Court may,
+
 (a) deny the appeal;
+
 (b) grant the appeal;
+
 (c) grant the appeal in part; or
+
 (d) refer the matter back to the Tribunal or the Director for reconsideration in accordance with any directions the Court considers proper.
 
 ### Same
@@ -423,15 +491,21 @@ S.O. 1997, c. 25, Sched. B
 ### Who receives employment supports
 
 (2) Employment supports may be provided to a person if the person is eligible for income support under Part I or if,
+
 (a) the person has a physical or mental impairment that is continuous or recurrent and expected to last one year or more and that presents a substantial barrier to competitive employment; and
+
 (b) the fact that clause (a) applies to the person has been verified by a person with the prescribed qualifications.
 
 ### Eligibility for employment supports
 
 33 No person is eligible for employment supports under this Act unless he or she is qualified for them under section 32 and,
+
 (a) the person is resident in Ontario;
+
 (b) the person intends to and is able to prepare for, accept or maintain competitive employment;
+
 (c) the person is not a member of a class of persons prescribed to be ineligible for employment supports; and
+
 (d) the person enters into a funding agreement with a service co-ordinator based on a competitive employment plan.
 
 ### Application for employment supports
@@ -441,7 +515,9 @@ S.O. 1997, c. 25, Sched. B
 ### Determination of eligibility
 
 35 (1) A service co-ordinator who receives an application shall determine, in accordance with this Act and the regulations,
+
 (a) whether the person applying is eligible for employment supports; and
+
 (b) the amount of financial contribution, if any, to be made by the person applying toward the cost of providing employment supports.
 
 ### Same
@@ -451,10 +527,15 @@ S.O. 1997, c. 25, Sched. B
 ### Supports suspended or cancelled
 
 36 (1) Subject to subsection (2), a service co-ordinator may suspend or cancel employment supports provided to a person,
+
 (a) if the person ceases to be eligible for those supports;
+
 (b) if the person fails to use those supports;
+
 (c) if, while using those supports, the person is not making satisfactory progress towards competitive employment in accordance with the funding agreement entered into under subsection 35 (2);
+
 (d) if the person fails to provide the service co-ordinator with information required to determine continuing eligibility for those supports; or
+
 (e) under the prescribed circumstances.
 
 ### Same
@@ -486,12 +567,19 @@ S.O. 1997, c. 25, Sched. B
 ### Director’s powers and duties
 
 38 The Director shall,
+
 (a) receive applications for income support;
+
 (b) determine the eligibility of each applicant for income support;
+
 (c) if an applicant is found eligible for income support, determine the amount of the income support and direct its provision;
+
 (d) administer the provisions of this Act and the regulations;
+
 (e) determine how the payment of the costs of administering this Act and providing income support is to be allocated;
+
 (f) ensure that the appropriate payments are made or withheld, as the case may be; and
+
 (g) exercise the prescribed powers and duties.
 
 ### Agreement for delivery of income support
@@ -525,14 +613,19 @@ S.O. 1997, c. 25, Sched. B
 ### Deemed reference
 
 (8) A reference to the Director in this Act or the regulations shall be deemed to be a reference to an administrator in a geographic area if,
+
 (a) there is an agreement under this section with the municipality, band, board or person with respect to the geographic area; and
+
 (b) the reference to the Director in this Act or the regulations is made with regard to a matter that the municipality, band, board or person is to be responsible for under the agreement.
 
 ### Director to supervise
 
 (9) If there is an agreement under this section, the Director shall,
+
 (a) supervise the delivery agent’s administration of the Act and of the provision of assistance and shall audit its costs in administering this Act and providing income support or financial assistance under section 49;
+
 (b) ensure that the appropriate payments are made to the delivery agent or withheld from it, as the case may be, in accordance with this Act and the regulations; and
+
 (c) supervise compliance with any requirements regarding the collection, use, disclosure and the safeguarding of the privacy of personal information.
 
 ### Standards
@@ -656,9 +749,13 @@ S.O. 1997, c. 25, Sched. B
 ### Same
 
 (3) A claim under this section shall not exceed the total of,
+
 (a) the costs incurred as a result of the loss for past income support or employment support provided to the person;
+
 (b) the costs likely to be incurred as a result of that loss for future income support or employment support;
+
 (c) the costs incurred as a result of that loss for social assistance provided under the General Welfare Assistance Act, the Family Benefits Act or the Ontario Works Act, 1997, or assistance under the Vocational Rehabilitation Services Act by the person responsible in each case for administering that Act; and
+
 (d) the costs incurred as a result of that loss under a prescribed statute.
 
 ### Same
@@ -668,18 +765,27 @@ S.O. 1997, c. 25, Sched. B
 ### Agreement with other jurisdiction
 
 53 (1) The Minister may enter into an agreement with respect to the collection, use and disclosure of information with the following:
+
 1. The Government of Canada or a department, ministry or agency of it.
+
 2. The government of a province or territory in Canada or any department, ministry or agency of it.
+
 3. The government of the United States or the government of a state of the United States or any department or agency of either.
+
 4. A body that is an institution under the Freedom of Information and Protection of Privacy Act or under the Municipal Freedom of Information and Protection of Privacy Act.
+
 5. The government of another country or a department or agency of it.
+
 6. Other prescribed bodies.
 
 ### Disclosure of personal information
 
 (2) The Minister may disclose to a government or body referred to in subsection (1) personal information referred to in subsection (4) if,
+
 (a) the disclosure is made in accordance with the agreement;
+
 (b) the government or body administers or enforces a social benefit program or is conducting research related to a social benefit program or the information relates to the administration or enforcement of or research relating to the Income Tax Act, the Taxation Act, 2007, the Income Tax Act (Canada), the Immigration and Refugee Protection Act (Canada) or the prescribed Acts; and
+
 (c) the government or body agrees to use the information only for the purpose of administering or enforcing a social benefit program or conducting research related to a social benefit program, the Income Tax Act, the Taxation Act, 2007, the Income Tax Act (Canada), the Immigration and Refugee Protection Act (Canada) or the prescribed Acts.
 
 ### Confidentiality
@@ -693,8 +799,11 @@ S.O. 1997, c. 25, Sched. B
 ### No notice to individual required
 
 (5) Subsections 39 (2) of the Freedom of Information and Protection of Privacy Act and subsection 29 (2) of the Municipal Freedom of Information and Protection of Privacy Act do not apply with respect to information collected under an agreement under subsection (1) if,
+
 (a) the information has been collected by data matching;
+
 (b) notification to the individual would frustrate an investigation; or
+
 (c) notification to the individual is not feasible.
 
 ### Collection of personal information
@@ -748,71 +857,133 @@ S.O. 1997, c. 25, Sched. B
 ### Regulations
 
 55 (1) The Lieutenant Governor in Council may make regulations,
+
 1. prescribing the persons to be included in a benefit unit;
+
 2. respecting the items, services and payments that may be included as benefits and determining who may be eligible for benefits;
+
 3. respecting the determination of budgetary requirements, income and assets and the maximum value of assets permitted;
+
 4. respecting the determination of the amount of income support to be provided and the time and manner of providing it, including who is eligible to receive the income support and how to determine what portion of income support is provided with respect to each person;
+
 5. prescribing classes of persons eligible for income support for the purposes of subsection 3 (1);
+
 6. prescribing the qualifications required of a person who may verify that a person is a person with a disability for the purposes of section 4;
+
 7. prescribing what shall be considered to be authorized by prescription for the purposes of subsection 5 (2);
+
 8. prescribing matters to be considered in determining what a substantial restriction in activities of daily living is attributable to for the purposes of subsection 5 (2);
+
 9. respecting the conditions of eligibility for income support including, without limiting the generality of the foregoing,
+
 (i) additional conditions relating to eligibility for income support,
+
 (ii) information to be provided, including the time and manner of providing that information, verification of that information and home visits,
+
 (iii) changes in circumstances,
+
 (iv) the disposition of property,
+
 (v) the obligation to obtain compensation or to realize a financial resource,
+
 (vi) requirements to agree to reimburse the Ministry and to give assignments to the Director, and
+
 (vii) a person’s status in the country;
+
 10. respecting the determination of residence in Ontario;
+
 11. prescribing classes of persons who are not eligible for income support or employment supports;
+
 12. Repealed: 2009, c. 33, Sched. 8, s. 4 (7).
+
 13. respecting applications for income support and the information to be included in an application;
+
 14. requiring applications and other documents to be prepared in a form and manner approved by the Director;
+
 15. respecting the consequences of failing to satisfy a condition of eligibility, including fixing periods of ineligibility;
+
 16. respecting re-instating income support or returning it to its former level and the procedures that apply;
+
 17. prescribing the procedures to be followed in determining the need for and appointing a person to act for a recipient under section 12 and providing measures with respect to the person’s accountability and reporting requirements;
+
 18. prescribing rules for the payment of a portion of income support for the purposes of section 13 directly to a third party;
+
 19. respecting the information to be included in a notice of decision regarding an overpayment, the calculation and recovery of overpayments and the maximum amounts which may be deducted from income support when recovering an overpayment;
+
 20. respecting the reconciliation of overpayments among delivery agents where overpayments are owed to one delivery agent and recovered by another, and respecting overpayments recovered by reason of subsection 14 (3);
+
 21. prescribing debts for the purposes of subsection 18 (2) and the priority of recovery;
+
 22. prescribing additional matters that may be appealed under this Act;
+
 23. respecting the requirement for and the procedures to be followed in conducting an internal review;
+
 24. prescribing the time within which an internal review may be requested and, if requested, is to be completed;
+
 25. prescribing the time within which an appeal to the Tribunal may be filed;
+
 26. respecting the commencement, conduct and procedures for appeals to the Tribunal and the time within which decisions are to be rendered;
+
 27. respecting the requirement to record evidence, whether by transcript or notes of members taken at a hearing;
+
 28. respecting the record of proceedings for the purposes of proceedings before a court;
+
 29. respecting the determination of interim assistance for the purposes of section 25;
+
 30. prescribing the period within which a new appeal is not permitted for the purposes of subsection 29 (2);
+
 30.1 governing appeals under this Act to the Divisional Court for the purposes of subsection 31 (1);
+
 31. prescribing employment supports for the purposes of subsection 32 (1);
+
 32. prescribing classes of goods or services not provided by the employment supports program;
+
 33. prescribing the qualifications required of a person who may verify that a person is eligible for employment supports for the purposes of subsection 32 (2);
+
 34. prescribing the elements of a competitive employment plan for the purposes of clause 33 (d);
+
 35. respecting the determination of eligibility for employment supports and contributions toward the costs of those supports for the purposes of section 35;
+
 36. prescribing circumstances under which employment supports may be suspended or cancelled for the purposes of subsection 36 (1);
+
 37. prescribing standards for the dispute resolution process in subsection 36 (3);
+
 38. respecting the provision of capital and operating grants to organizations for workshops and of operating grants to organizations for supported employment programs and their terms and conditions;
+
 39. prescribing terms and conditions for the continuation or renegotiation of agreements for specialized services made under the Vocational Rehabilitation Services Act;
+
 40. respecting agreements for delivery of income support, terms and conditions of those agreements, and payments to delivery agents for the purposes of section 39;
+
 41. respecting the costs incurred under this Act to which cost sharing should apply and providing for how they are to be shared, including the apportioning of those costs among Ontario, municipalities and persons living in territory without municipal organization, and prescribing the municipalities to which cost sharing applies;
+
 42. respecting the apportionment among municipalities in a geographic area of their share of the costs incurred under this Act and, for the purpose, prescribing the municipalities that must share in that apportionment and the manner in which that share shall be recovered;
+
 43. providing for the recovery by Ontario from a delivery agent of any amounts paid by Ontario under this Act for which the delivery agent is liable or for the recovery by Ontario or a delivery agent from a recipient of income support or from his or her estate of amounts paid by Ontario or the delivery agent under this Act, and prescribing the circumstances and manner in which any such recovery may be made;
+
 44. prescribing the powers and duties of eligibility review officers, family support workers and service co-ordinators and providing for the manner in which they shall exercise their powers and duties;
+
 45. respecting the provision of assistance with respect to children who have severe disabilities for the purposes of section 49, including, without limiting the generality of the foregoing, issues related to eligibility, applications, determinations, reduction or cancellation of financial assistance and appeals;
+
 45.1 respecting the items, services and payments that may be included as extended health benefits;
+
 45.2 prescribing classes of persons who may be provided with extended health benefits;
+
 46. respecting the giving of notice for purposes of this Act;
+
 47. respecting subrogation rights under section 52;
+
 48. defining any word or expression used in this Act that has not been defined in this Act;
+
 49. prescribing any matter referred to in this Act as prescribed;
+
 50. providing for the collection, retention, use, disclosure and safeguarding of privacy of personal information referred to in clause (4) (a).
 
 ### Regulations, Minister
 
 (2) The Minister may make regulations,
+
 1. prescribing standards a delivery agent is to meet in carrying out its functions and the procedures and practices to be followed by the delivery agent;
+
 2. prescribing policy statements which shall be applied in the interpretation and application of this Act and the regulations.
 
 ### Classes of income support
@@ -822,7 +993,9 @@ S.O. 1997, c. 25, Sched. B
 ### Information
 
 (4) A regulation made under paragraph 9 of subsection (1) may include a requirement that a person,
+
 (a) provide evidence permitting identification of the person by means of photographic images or encrypted biometric information; and
+
 (b) provide personal information about a third party that is relevant to determining the person’s eligibility.
 
 ### Periods of ineligibility
@@ -840,15 +1013,21 @@ S.O. 1997, c. 25, Sched. B
 ### Apportionment of costs
 
 (8) A regulation made under paragraph 42 of subsection (1) may do one or more of the following:
+
 1. Authorize municipalities in a geographic area to determine by agreement how their costs are to be apportioned, subject to the prescribed conditions.
+
 2. Provide for an arbitration process for determining how the costs of those municipalities are to be apportioned.
+
 3. Set out the manner in which the costs of those municipalities are to be apportioned.
 
 ### Same
 
 (9) A regulation under paragraph 1 or 2 of subsection (8) may,
+
 (a) provide, on an interim basis, for the manner in which costs are to be apportioned and for the time and manner in which they are to be paid;
+
 (b) permit an agreement or an arbitration decision to apply to costs incurred and paid before the agreement or decision is reached; and
+
 (c) provide for the reconciliation of amounts paid on an interim basis.
 
 ### Same
@@ -870,11 +1049,17 @@ S.O. 1997, c. 25, Sched. B
 ### Biometric information
 
 56 (1) Where this Act or the regulations authorize a person to collect or use personal information, biometric information may be collected or used only for the following purposes:
+
 1. To ensure that an individual is registered only once as an applicant, recipient, spouse or dependent adult.
+
 2. To authenticate the identity of an individual who claims to be entitled to income support.
+
 3. To enable an individual to receive and give receipt for income support provided through a financial institution or other authorized provider.
+
 4. To enable an applicant, recipient, spouse or dependent adult to access personal information.
+
 5. To enable an individual to make a declaration electronically by voice or other means for any purposes authorized under this Act.
+
 6. To match data in accordance with an agreement made under section 53 for the purpose of ensuring eligibility for income support.
 
 ### Same
@@ -884,8 +1069,11 @@ S.O. 1997, c. 25, Sched. B
 ### Same
 
 (3) Biometric information shall not be disclosed to a third party except in accordance with,
+
 (a) a court order or a warrant;
+
 (b) an agreement under section 53 that is made for the purpose of ensuring eligibility for a social benefit program, including a social benefit program under the Income Tax Act, the Taxation Act, 2007 or the Income Tax Act (Canada); or
+
 (c) section 54.
 
 ### Same
@@ -943,4 +1131,5 @@ S.O. 1997, c. 25, Sched. B
 ### Penalty
 
 (4) A person convicted of an offence under subsection (1), (2) or (3) is liable to a fine of not more than $5,000 or to imprisonment for a term of not more than six months or to both.
+
 60 Omitted (enacts short title of this Act).

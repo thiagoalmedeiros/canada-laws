@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21t26"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # sécurité et l'encadrement du remorquage et de l'entreposage de véhicules (Loi de 2021 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21t26) before relying on it.
 
 L.O. 2021, chap. 26, annexe 3
 
@@ -21,40 +21,75 @@ L.O. 2021, chap. 26, annexe 3
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «certificat» Certificat de remorquage, certificat de conducteur de dépanneuse ou certificat d’entreposage de véhicules, selon le cas, délivré en vertu de l’article 5. («certificate»)
+
 «certificat de conducteur de dépanneuse» Certificat délivré à un conducteur de dépanneuse en vertu de l’article 5. («tow driver’s certificate»)
+
 «certificat d’entreposage de véhicules» Certificat délivré à un exploitant de services d’entreposage de véhicules en vertu de l’article 5. («vehicle storage certificate»)
+
 «certificat de remorquage» Certificat délivré à un exploitant de services de remorquage en vertu de l’article 5. («tow certificate»)
+
 «certificat d’immatriculation de véhicule» Certificat d’immatriculation au sens du paragraphe 6 (1) du Code de la route. («vehicle permit»)
+
 «condition» Relativement à un certificat, s’entend notamment d’une limite, d’une restriction ou d’une inscription. Est comprise la condition réputée. («condition»)
+
 «conducteur de dépanneuse» Personne qui conduit une dépanneuse en vue de la prestation de services de remorquage. («tow truck driver»)
+
 «conduire» Relativement à une dépanneuse, s’entend du fait de la conduire, de l’utiliser ou de la faire fonctionner d’une autre façon. («drive»)
+
 «dépanneuse» S’entend de ce qui suit :
+
 a) un véhicule automobile communément appelé dépanneuse;
+
 b) un véhicule utilitaire, au sens du paragraphe 1 (1) du Code de la route, qui est doté d’un plateau pouvant basculer afin de charger un véhicule et qui sert à remorquer ou à transporter d’autres véhicules automobiles;
+
 c) sous réserve des exceptions éventuellement prescrites, un véhicule automobile qui est conçu, modifié, configuré ou équipé de façon à pouvoir remorquer d’autres véhicules automobiles. («tow truck»)
+
 «directeur» Le directeur des normes relatives au remorquage et à l’entreposage des véhicules nommé en vertu de l’article 49. («Director»)
+
 «exploitant de services d’entreposage de véhicules» Personne qui, directement ou indirectement, seule ou avec d’autres, exploite, gère, supervise ou dirige l’offre ou la prestation de services d’entreposage de véhicules. («vehicle storage operator»)
+
 «exploitant de services de remorquage» Personne qui, directement ou indirectement, seule ou avec d’autres, exploite, gère, supervise ou dirige l’offre ou la prestation de services de remorquage. Sont compris :
+
 a) l’utilisateur, au sens du paragraphe 16 (1) du Code de la route, d’une dépanneuse;
+
 b) toute autre personne prescrite. («tow operator»)
+
 «inspecteur» Inspecteur nommé en vertu de l’article 53. («inspector»)
+
 «installation d’entreposage de véhicules» S’entend, sous réserve des règlements, d’un lot, d’une cour ou d’un autre local utilisé en vue de la prestation de services d’entreposage de véhicules. («vehicle storage yard facility»)
+
 «ministère» Le ministère du ministre. («Ministry»)
+
 «ministre» Le ministre des Transports ou l’autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée ou transférée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «permis de conduire» S’entend au sens du paragraphe 1 (1) du Code de la route. («driver’s licence»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «remorquage» Sous réserve des règlements, s’entend notamment de ce suit :
+
 a) le transport de véhicules automobiles au moyen d’une dépanneuse;
+
 b) les activités accessoires comme le soulèvement d’un véhicule automobile afin de le charger, de le remorquer ou de le transporter, ou de le placer sur un camion ou une remorque en vue de son remorquage ou de son transport;
+
 c) toute autre activité prescrite. («towing»)
+
 «services d’entreposage de véhicules» Réception et détention de véhicules automobiles remorqués. Sont compris les autres services prescrits. («vehicle storage services»)
+
 «services de remorquage» Sous réserve des règlements, s’entend notamment de ce qui suit :
+
 a) le remorquage, la récupération ou le transport à l’égard de véhicules automobiles qui sont en panne, abandonnés, mis en fourrière, saisis, endommagés, incomplets ou inutilisables, ou qui doivent être enlevés d’un lieu pour toute autre raison;
+
 b) toute autre activité prescrite. («towing services»)
+
 «véhicule automobile» S’entend au sens du paragraphe 1 (1) du Code de la route. («motor véhicule»)
+
 «voie publique» S’entend au sens du paragraphe 1 (1) du Code de la route. («highway»)
+
 «zone restreinte de dépannage» Voie publique ou section de voie publique désignée en application de l’article 41 comme zone restreinte de dépannage. («restricted towing zone») 2021, chap. 26, annexe 3, art. 1
 
 ### Délivrance de certificats
@@ -62,7 +97,9 @@ b) toute autre activité prescrite. («towing services»)
 ### Exploitants de services de remorquage
 
 2 (1) Nul ne doit, si ce n’est en vertu d’un certificat de remorquage et conformément à la présente loi et aux règlements :
+
 a) fournir ou offrir de fournir des services de remorquage;
+
 b) se présenter comme exploitant de services de remorquage.
 
 ### Prestation de services de remorquage
@@ -76,13 +113,17 @@ b) se présenter comme exploitant de services de remorquage.
 ### Conducteurs de dépanneuse
 
 3 Nul ne doit, si ce n’est en vertu d’un certificat de conducteur de dépanneuse et conformément à la présente loi et aux règlements :
+
 a) conduire une dépanneuse afin de fournir des services de remorquage;
+
 b) se présenter comme conducteur de dépanneuse.
 
 ### Exploitants de services d’entreposage de véhicules
 
 4 Nul ne doit, si ce n’est en vertu d’un certificat d’entreposage de véhicules et conformément à la présente loi et aux règlements :
+
 a) fournir ou offrir de fournir des services d’entreposage de véhicules;
+
 b) se présenter comme exploitant de services d’entreposage de véhicules.
 
 ### Certificats
@@ -98,17 +139,25 @@ b) se présenter comme exploitant de services d’entreposage de véhicules.
 ### Refus de délivrer ou de renouveler un certificat : possession des qualités requises prescrites
 
 (3) Même si l’auteur de la demande d’un certificat ou le titulaire d’un certificat possède les qualités prescrites et satisfait aux exigences prescrites à l’égard d’un certificat, le directeur :
+
 a) doit refuser de délivrer ou de renouveler un certificat dans les circonstances prescrites;
+
 b) peut refuser de délivrer ou de renouveler un certificat si, selon le cas :
+
 (i) l’auteur de la demande ou le titulaire est redevable de droits, d’une amende ou d’une pénalité administrative non payés, ou d’intérêts ou d’une pénalité s’y rapportant, en application de la présente loi, du Code de la route ou de la Loi sur les infractions provinciales,
+
 (ii) il établit qu’une circonstance prescrite s’applique,
+
 (iii) pour tout motif prescrit.
 
 ### Un seul certificat
 
 (4) Nul ne peut être titulaire, selon le cas :
+
 a) de plus d’un certificat de remorquage;
+
 b) de plus d’un certificat de conducteur de dépanneuse;
+
 c) de plus d’un certificat d’entreposage de véhicules.
 
 ### Certificat non transférable
@@ -122,14 +171,19 @@ c) de plus d’un certificat d’entreposage de véhicules.
 ### Conditions réputées
 
 (2) Chaque certificat est réputé être assorti des conditions suivantes :
+
 1. Le titulaire du certificat doit prendre toutes les précautions raisonnables pour éviter soit la perte ou l’endommagement de tout véhicule automobile remorqué, détenu dans une installation d’entreposage de véhicules ou sous son contrôle d’une autre façon, soit la perte de quoi que ce soit dans le véhicule.
+
 2. Toute autre condition prescrite.
 
 ### Modification des conditions
 
 (3) Le directeur peut, à tout moment et selon ce qu’il estime approprié, modifier un certificat d’une des façons suivantes :
+
 a) il peut modifier une condition dont le certificat est assorti, sauf une condition visée au paragraphe (2);
+
 b) il peut assortir le certificat d’une condition prescrite pour l’application du présent paragraphe;
+
 c) il peut supprimer une condition dont le certificat est assorti, sauf une condition visée au paragraphe (2).
 
 ### Conformité aux conditions
@@ -139,11 +193,17 @@ c) il peut supprimer une condition dont le certificat est assorti, sauf une cond
 ### Suspension, annulation
 
 7 (1) Le directeur peut suspendre ou annuler un certificat pour un des motifs suivants :
+
 a) s’il est convaincu que le titulaire ne possède plus les qualités requises prescrites et ne satisfait plus aux exigences prescrites à l’égard du certificat;
+
 b) si le titulaire a contrevenu ou ne s’est pas conformé à la présente loi ou aux règlements;
+
 c) si le paiement des droits de délivrance ou de renouvellement du certificat a été refusé;
+
 d) s’il est convaincu qu’il existe des motifs raisonnables de croire que le titulaire n’exerce pas les activités prévues par le certificat avec honnêteté et intégrité;
+
 e) pour tout motif prescrit;
+
 f) pour tout autre motif suffisant.
 
 ### Suspension automatique du certificat de conducteur de dépanneuse
@@ -161,11 +221,17 @@ f) pour tout autre motif suffisant.
 ### Appel
 
 9 (1) Si les règlements le prévoient, l’auteur de la demande d’un certificat ou le titulaire d’un certificat peut, conformément aux règlements, interjeter appel d’une ou de plusieurs des décisions suivantes, comme le précisent les règlements et sous réserve des exceptions éventuellement prescrites, auprès de toute personne ou entité prescrite :
+
 1. La décision de refuser de délivrer un certificat.
+
 2. La décision de refuser de renouveler un certificat.
+
 3. La décision de suspendre un certificat.
+
 4. La décision d’annuler un certificat.
+
 5. La décision de modifier un certificat en vertu du paragraphe 6 (3).
+
 6. Toute autre décision du directeur que précisent les règlements.
 
 ### Absence de suspension
@@ -181,7 +247,9 @@ f) pour tout autre motif suffisant.
 ### Exigences : exploitants de services de remorquage
 
 11 (1) Lorsqu’il fournit ou offre de fournir des services de remorquage, l’exploitant de services de remorquage :
+
 a) se conforme aux exigences et normes prescrites à l’égard de la prestation de services de remorquage qui s’appliquent à lui;
+
 b) veille à ce que chaque personne qu’il emploie ou engage et toute autre personne prescrite se conforment à la présente loi et aux règlements, notamment les exigences et normes prescrites à l’égard de la prestation de services de remorquage.
 
 ### Emploi et engagement de conducteurs de dépanneuse
@@ -203,13 +271,17 @@ b) veille à ce que chaque personne qu’il emploie ou engage et toute autre per
 ### Mise en fourrière : aucun certificat ou suspension du certificat
 
 14 (1) Un agent de police ou un inspecteur peut détenir une dépanneuse s’il est convaincu qu’une personne la conduisait sur une voie publique alors que, selon le cas :
+
 a) cette personne n’était pas titulaire d’un certificat de conducteur de dépanneuse valide;
+
 b) l’exploitant de services de remorquage de la dépanneuse n’était pas titulaire d’un certificat de remorquage valide.
 
 ### Idem
 
 (2) La dépanneuse détenue en application du paragraphe (1), aux frais et risques de l’exploitant de services de remorquage :
+
 a) est envoyée à une installation d’entreposage de véhicules comme l’ordonne l’agent de police ou l’inspecteur;
+
 b) demeure en fourrière pendant sept jours à compter du moment de sa détention.
 
 ### Application des règles de mise en fourrière
@@ -223,7 +295,9 @@ b) demeure en fourrière pendant sept jours à compter du moment de sa détentio
 ### Exigences : exploitant de services d’entreposage de véhicules
 
 15 (1) Lorsqu’il fournit ou offre de fournir des services d’entreposage de véhicules, l’exploitant de services d’entreposage de véhicules :
+
 a) se conforme aux exigences et normes prescrites à l’égard de la prestation de services d’entreposage de véhicules qui s’appliquent à lui;
+
 b) veille à ce que chaque personne qu’il emploie ou engage et toute autre personne prescrite se conforment à la présente loi et aux règlements, notamment les exigences et normes prescrites à l’égard de la prestation de services d’entreposage de véhicules.
 
 ### Exigences : installation d’entreposage de véhicules
@@ -263,7 +337,9 @@ b) veille à ce que chaque personne qu’il emploie ou engage et toute autre per
 ### Exigences : obtention du consentement aux services de remorquage
 
 20 (1) Sauf si le conducteur de dépanneuse ou l’exploitant de services de remorquage obtient préalablement le consentement de la personne que précisent les règlements en ce qui concerne un véhicule automobile :
+
 a) le conducteur de dépanneuse ne doit pas fournir ou tenter de fournir des services de remorquage à l’égard du véhicule automobile;
+
 b) ni le conducteur de dépanneuse ni l’exploitant de services de remorquage ne doit facturer des services de remorquage à l’égard du véhicule automobile ni demander le paiement de tels services.
 
 ### Idem
@@ -299,7 +375,9 @@ b) ni le conducteur de dépanneuse ni l’exploitant de services de remorquage n
 ### Avis
 
 (2) L’exploitant de services d’entreposage de véhicules fait ce qui suit dans le délai et de la manière que précisent les règlements :
+
 a) il avise la personne prescrite de l’endroit où se trouve un véhicule automobile qui a été remorqué jusqu’à son installation d’entreposage de véhicules;
+
 b) il fournit à la personne les autres renseignements prescrits.
 
 ### Obligation d’obtenir le consentement aux services d’entreposage de véhicules
@@ -317,7 +395,9 @@ b) il fournit à la personne les autres renseignements prescrits.
 ### Exigences : consentement
 
 (4) L’exploitant de services d’entreposage de véhicules, conformément aux règlements :
+
 a) documente le consentement devant être fourni en application du paragraphe (1);
+
 b) fournit une copie de la documentation à la personne qui donne le consentement.
 
 ### Interdiction de modifier
@@ -383,15 +463,25 @@ b) fournit une copie de la documentation à la personne qui donne le consentemen
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les règlements peuvent :
+
 a) prescrire les montants maximaux qui peuvent être facturés, notamment des montants maximaux différents en ce qui concerne :
+
 (i) des services distincts,
+
 (ii) des catégories distinctes de véhicules automobiles,
+
 (iii) des régions géographiques distinctes,
+
 (iv) les autres critères que le ministre juge appropriés;
+
 b) établir et régir la marche à suivre en ce qui concerne la facturation de montants à l’égard de services de remorquage, de services d’entreposage de véhicules et de tout service connexe ou accessoire lié à l’un ou l’autre de ces types de services, et exiger la conformité avec cette marche à suivre;
+
 c) régir le paiement de montants à l’égard de services de remorquage, de services d’entreposage de véhicules et de tout service connexe ou accessoire lié à l’un ou l’autre de ces types de services, notamment les modes de paiement;
+
 d) prévoir qu’un service précisé ne peut pas être facturé;
+
 e) prescrire les critères que le directeur doit prendre en considération pour décider si un montant est déraisonnablement élevé en application du paragraphe (7);
+
 f) établir et régir le processus que le directeur doit suivre pour donner l’avis visé au paragraphe (7).
 
 ### Communication des montants
@@ -417,7 +507,9 @@ f) établir et régir le processus que le directeur doit suivre pour donner l’
 ### Montant déraisonnable
 
 (7) Si aucun montant maximal applicable n’est prescrit à l’égard d’un service fourni par l’exploitant et que le directeur est d’avis que le montant communiqué le plus récemment par l’exploitant à l’égard de ce service est déraisonnablement élevé, le directeur peut, au moyen d’un avis écrit donné à l’exploitant :
+
 a) exiger que l’exploitant communique un montant moins élevé à l’égard du service dans le délai que précise l’avis;
+
 b) préciser le montant maximal que l’exploitant peut facturer à l’égard du service à compter du jour où l’avis lui est donné jusqu’au jour où le montant communiqué en application de l’alinéa a) est publié par le directeur en application du paragraphe (6).
 
 ### Conformité
@@ -443,16 +535,23 @@ b) préciser le montant maximal que l’exploitant peut facturer à l’égard d
 ### Restriction : incitatifs
 
 29 (1) Nul ne doit, directement ou indirectement, donner ou recevoir, ou offrir de donner ou de recevoir, quoi que ce soit en contrepartie de la fourniture de renseignements ou de conseils à l’égard d’une collision ou de la présence d’un véhicule automobile devant être remorqué :
+
 a) soit pour obtenir un travail consistant à fournir des services de remorquage ou des services d’entreposage de véhicules;
+
 b) soit pour permettre à une autre personne d’obtenir un travail consistant à fournir des services de remorquage ou des services d’entreposage de véhicules.
 
 ### Idem
 
 (2) Nul ne doit, directement ou indirectement, donner ou recevoir, ou offrir de donner ou de recevoir, quoi que ce soit en contrepartie de la fourniture de renseignements ou de conseils à l’égard :
+
 a) soit de la réparation, de l’estimation ou de la mise à la ferraille d’un véhicule automobile;
+
 b) soit du renvoi d’une personne dont le véhicule automobile a besoin de services de remorquage ou de services d’entreposage de véhicules :
+
 (i) à un service de remorquage,
+
 (ii) à un service d’entreposage de véhicules,
+
 (iii) à tout autre service prescrit.
 
 ### Restriction : renvois
@@ -466,8 +565,11 @@ b) soit du renvoi d’une personne dont le véhicule automobile a besoin de serv
 ### Divulgation d’un intérêt
 
 31 (1) Le conducteur de dépanneuse, l’exploitant de services de remorquage ou l’exploitant de services d’entreposage de véhicules qui, directement ou indirectement, a un intérêt dans les installations, lieux, personnes ou entités suivants divulgue, conformément aux règlements et au paragraphe (2), la nature et l’étendue de cet intérêt à toute personne à qui il fournit des services de remorquage ou des services d’entreposage de véhicules, selon le cas, et à toute autre personne prescrite :
+
 1. Une installation d’entreposage de véhicules où le véhicule automobile peut être remorqué.
+
 2. Un autre lieu où le véhicule automobile peut être remorqué pour réparation, entreposage ou estimation ou pour une fin similaire.
+
 3. Toute personne ou entité à qui le conducteur ou l’exploitant renvoie la personne à qui il fournit les services.
 
 ### Aucune demande de paiement avant la divulgation de l’intérêt
@@ -503,7 +605,9 @@ b) soit du renvoi d’une personne dont le véhicule automobile a besoin de serv
 ### Comportements connexes
 
 (2) Nul ne doit contraindre, intimider ou menacer une autre personne dans le but :
+
 a) soit d’obtenir un travail consistant à fournir des services de remorquage ou des services d’entreposage de véhicules;
+
 b) soit d’empêcher cette autre personne d’obtenir un travail consistant à fournir des services de remorquage ou des services d’entreposage de véhicules.
 
 ### Renseignements à fournir
@@ -525,9 +629,13 @@ b) soit d’empêcher cette autre personne d’obtenir un travail consistant à 
 ### Plaintes
 
 37 (1) Le directeur peut :
+
 a) recevoir des plaintes relatives à une conduite qui pourrait contrevenir à la présente loi ou aux règlements ou ne pas y être conforme;
+
 b) présenter à des personnes des demandes écrites de renseignements concernant des plaintes;
+
 c) tenter de régler les plaintes relatives à toute conduite portée à son attention qui pourrait contrevenir à la présente loi ou aux règlements ou ne pas y être conforme, ou renvoyer de telles plaintes au processus de règlement des plaintes prescrit afin qu’elles soient traitées conformément aux règlements;
+
 d) s’il est d’avis qu’une personne a contrevenu à la présente loi ou aux règlements ou ne s’y est pas conformé imposer une sanction prescrite ou prendre toute autre mesure prescrite, selon ce qu’il estime approprié, conformément aux règlements.
 
 ### Demande de renseignements
@@ -547,7 +655,9 @@ d) s’il est d’avis qu’une personne a contrevenu à la présente loi ou aux
 ### Restriction : prestation de services de dépannage sur les lieux d’une collision
 
 38 (1) Le conducteur de dépanneuse ou l’exploitant de services de remorquage ne doit, sur une voie publique, ni offrir ou offrir de fournir des services de remorquage, ni stationner ou arrêter une dépanneuse dans les 200 mètres :
+
 a) soit des lieux d’une collision ou de ce qui paraît être une collision;
+
 b) soit d’un véhicule automobile impliqué dans une collision.
 
 ### Exception
@@ -565,7 +675,9 @@ b) soit d’un véhicule automobile impliqué dans une collision.
 ### Idem
 
 (2) Le conducteur de dépanneuse se conforme à la directive que lui donne un agent de police ou un inspecteur qui se trouve sur les lieux d’une collision :
+
 a) soit de quitter les lieux de la collision;
+
 b) soit de se tenir à au moins 200 mètres des lieux de la collision pendant la période qu’ordonne l’agent de police ou l’inspecteur.
 
 ### Zones restreintes de dépannage
@@ -573,8 +685,11 @@ b) soit de se tenir à au moins 200 mètres des lieux de la collision pendant la
 ### Définitions
 
 39.1 Les définitions qui suivent s’appliquent aux articles 40 à 43.1.
+
 «services d’assistance routière» Services fournis afin de réparer ou de rendre utilisable un véhicule automobile en panne ou inutilisable sur la voie publique. («roadside assistance services»)
+
 «services de remorquage» S’entend notamment de services d’assistance routière. («towing services»)
+
 «véhicule d’assistance routière» Véhicule qu’utilise une personne qui offre ou fournit des services d’assistance routière. («roadside assistance vehicle») 2024, chap. 25, annexe 5, art. 1.
 
 ### Zones restreintes de dépannage
@@ -584,6 +699,7 @@ b) soit de se tenir à au moins 200 mètres des lieux de la collision pendant la
 ### Désignation des zones restreintes de dépannage
 
 41 (1) Une route principale ou section de route principale peut être désignée comme zone restreinte de dépannage dans les règlements. Le directeur peut autoriser le titulaire d’un certificat de remorquage à fournir des services de remorquage dans cette zone.
+
 (2) Abrogé : 2024, chap. 25, annexe 5, par. 2 (1).
 
 ### Interdiction
@@ -601,7 +717,9 @@ b) soit de se tenir à au moins 200 mètres des lieux de la collision pendant la
 ### Nom de l’exploitant sur les dépanneuses
 
 42 (1) Le titulaire d’un certificat de remorquage qui, en vertu de l’article 41, est autorisé à fournir des services de remorquage dans une zone restreinte de dépannage veille à ce que chaque dépanneuse ou véhicule d’assistance routière qu’il utilise pour fournir ces services dans cette zone :
+
 a) indique son nom;
+
 b) comporte à un endroit bien visible sur chaque côté une inscription précisant qu’il est autorisé à fournir des services de remorquage dans la zone.
 
 ### Idem
@@ -615,8 +733,11 @@ b) comporte à un endroit bien visible sur chaque côté une inscription précis
 ### Règlements
 
 43.1 Pour l’application des articles 39.1 à 43, le ministre peut, par règlement :
+
 a) désigner des zones restreintes de dépannage;
+
 b) régir la mise en place de panneaux et la pose de marques pour indiquer de telles zones, et régir ces panneaux et marques;
+
 c) prévoir des dispenses de l’application de toute disposition des articles 39.1 à 43 ou la non-application d’une telle disposition et prescrire les circonstances et les conditions applicables à une telle dispense ou non-application.
 
 ### Pénalités et infractions
@@ -658,7 +779,9 @@ c) prévoir des dispenses de l’application de toute disposition des articles 3
 ### Parties à une révision judiciaire
 
 (9) Sont parties à une révision judiciaire demandée à l’égard du présent article :
+
 a) la personne visée par l’ordonnance imposant une pénalité administrative;
+
 b) la personne prescrite visée au paragraphe (2).
 
 ### Pénalité administrative maximale
@@ -684,13 +807,17 @@ b) la personne prescrite visée au paragraphe (2).
 ### Peines
 
 (2) Sous réserve du paragraphe (3), quiconque est déclaré coupable d’une infraction en application du paragraphe (1) est passible :
+
 a) d’une amende d’au moins 250 $ et d’au plus 1 000 $, dans le cas d’une première infraction;
+
 b) d’une amende d’au moins 1 000 $ et d’au plus 5 000 $, dans le cas de chaque infraction subséquente.
 
 ### Idem
 
 (3) Quiconque est déclaré coupable d’une infraction en application du paragraphe (1) à l’égard d’une disposition énumérée au paragraphe (4) ou d’une infraction prévue au paragraphe (7), (8) ou (10) est passible :
+
 a) d’une amende d’au moins 2 000 $ et d’au plus 10 000 $ et d’un emprisonnement d’au plus six mois, ou d’une seule de ces peines, dans le cas d’une première infraction;
+
 b) d’une amende d’au moins 5 000 $ et d’au plus 50 000 $ et d’un emprisonnement d’au plus six mois, ou d’une seule de ces peines, dans le cas de chaque infraction subséquente.
 
 ### Idem
@@ -754,11 +881,17 @@ b) d’une amende d’au moins 5 000 $ et d’au plus 50 000 $ et d’un empriso
 ### Exigence : tenue des dossiers
 
 50 (1) Le directeur tient des dossiers, dans la forme qu’il estime appropriée, qui renferment les renseignements suivants :
+
 1. Tous les certificats délivrés, renouvelés, suspendus ou annulés en vertu de la présente loi.
+
 2. Toutes les pénalités administratives imposées en vertu de la présente loi.
+
 3. Toutes les déclarations de culpabilité en cas d’infraction à la présente loi.
+
 4. Toutes les déclarations de culpabilité prononcées contre un titulaire de certificat en vertu d’une autre loi prescrite ou d’une disposition prescrite d’une autre loi.
+
 5. Toutes les collisions et tous les incidents visés au paragraphe 18 (3) qui lui sont signalés en application de ce paragraphe ou qui sont portés à son attention d’une autre façon.
+
 6. Tous les renseignements prescrits.
 
 ### Idem
@@ -798,13 +931,21 @@ b) d’une amende d’au moins 5 000 $ et d’au plus 50 000 $ et d’un empriso
 ### Définitions
 
 (7) Les définitions qui suivent s’appliquent au présent article.
+
 «gouvernement lié» S’entend de ce qui suit :
+
 a) le gouvernement du Canada et la Couronne du chef du Canada ainsi que les ministères, organismes, conseils, commissions, régies ou fonctionnaires qui relèvent de leur compétence;
+
 b) le gouvernement d’une autre province ou d’un territoire du Canada ainsi que les ministères, organismes, conseils, commissions, régies ou fonctionnaires qui relèvent de leur compétence. («related government»)
+
 «organisme public» S’entend de ce qui suit :
+
 a) les ministères, organismes, conseils, commissions, régies, fonctionnaires ou autres entités du gouvernement de l’Ontario;
+
 b) les municipalités de l’Ontario;
+
 c) les conseils locaux, au sens du paragraphe 1 (1) la Loi de 2001 sur les municipalités.
+
 d) les personnes ou entités prescrites. («public body»)
 
 ### Inspecteurs et inspections
@@ -824,6 +965,7 @@ d) les personnes ou entités prescrites. («public body»)
 ### Inspections
 
 54 (1) La définition qui suit s’applique au présent article.
+
 «véhicule» S’entend au sens du paragraphe 1 (1) du Code de la route.
 
 ### Pouvoir d’examiner les dépanneuses
@@ -837,14 +979,23 @@ d) les personnes ou entités prescrites. («public body»)
 ### Pouvoir d’inspecter des locaux
 
 (4) Afin d’assurer la conformité à la présente loi et aux règlements, l’inspecteur peut, sans mandat :
+
 a) pénétrer dans les locaux commerciaux d’une personne;
+
 b) pénétrer dans des locaux commerciaux où une personne conserve des dossiers, des véhicules, du matériel ou d’autres choses qui se rapportent à l’inspection;
+
 c) examiner les véhicules, le matériel, les documents, les dossiers ou les autres choses qui se rapportent à l’inspection;
+
 d) exiger la production, pour inspection, des véhicules, du matériel, des documents, des dossiers ou des autres choses qui se rapportent à l’inspection;
+
 e) enlever, pour examen, analyse ou test, des véhicules, du matériel ou d’autres choses qui se rapportent à l’inspection;
+
 f) enlever, pour examen et copie, des documents ou des dossiers qui se rapportent à l’inspection;
+
 g) afin de produire des renseignements, des documents ou des dossiers sous une forme lisible, recourir aux dispositifs ou systèmes de stockage, de traitement ou de récupération des données qui sont habituellement utilisés pour exercer des activités commerciales dans les locaux;
+
 h) effectuer les examens, tests, vérifications ou enquêtes qui se rapportent à l’inspection;
+
 i) interroger des personnes sur les questions qui se rapportent à l’inspection.
 
 ### Logements
@@ -908,6 +1059,7 @@ i) interroger des personnes sur les questions qui se rapportent à l’inspectio
 ### Définition : «documents»
 
 (4) La définition qui suit s’applique dans le cadre du paragraphe (3).
+
 «documents» S’entend en outre d’une photographie.
 
 ### Avis
@@ -917,7 +1069,9 @@ i) interroger des personnes sur les questions qui se rapportent à l’inspectio
 ### Preuve
 
 58 (1) La copie d’un document, au sens du paragraphe 56 (4), qui est déposée ou conservée en application de la présente loi, ou une déclaration contenant des renseignements provenant des dossiers dont la tenue est exigée ou autorisée en vertu de la présente loi, qui se présente comme certifiée conforme à l’original par le directeur sous le sceau du ministère :
+
 a) est reçue en preuve devant tous les tribunaux sans qu’il soit nécessaire de prouver l’authenticité du sceau, de la signature du directeur ou des modalités de préparation de la copie ou de la déclaration;
+
 b) constitue la preuve, en l’absence de preuve contraire, des faits que contient l’une ou l’autre.
 
 ### Signature du directeur
@@ -973,70 +1127,127 @@ b) constitue la preuve, en l’absence de preuve contraire, des faits que contie
 ### Règlements
 
 64 (1) Le lieutenant-gouverneur en conseil peut, par règlement, traiter de toute question nécessaire ou souhaitable pour réaliser efficacement l’objet de la présente loi. Il peut notamment prendre des règlements pour :
+
 a) régir tout ce qui est mentionné comme étant prescrit ou tout ce qui doit ou peut être accompli conformément aux règlements ou selon ce que prévoient les règlements par ailleurs;
+
 b) préciser davantage la définition de «remorquage», de «services de remorquage» et de «installation d’entreposage de véhicules» à l’article 1;
+
 c) définir tout terme ou toute expression utilisé dans la présente loi, mais qui n’y est pas expressément défini;
+
 d) régir les certificats et leur délivrance, renouvellement, suspension et annulation, notamment :
+
 (i) régir les demandes de délivrance ou de renouvellement d’un certificat,
+
 (ii) établir et régir des catégories de certificat en ce qui concerne les certificats de dépanneuse, les certificats de conducteur de dépanneuse ou les certificats d’entreposage de véhicules,
+
 (iii) régir les qualités requises et les exigences en ce qui concerne un certificat,
+
 (iv) régir les conditions dont peut être assorti un certificat, sous réserve du paragraphe 6 (2),
+
 (v) si le directeur établit que les titulaires de deux ou plusieurs certificats d’exploitant de services de remorquage, de certificats de conducteur de dépanneuse ou de certificats d’entreposage de véhicules, selon le cas, sont des personnes liées, selon ce qu’établissent les règlements, prévoir les mesures que le directeur peut ou doit prendre, et préciser les autres conséquences en ce qui concerne les certificats que détiennent ces personnes,
+
 (vi) établir et régir la marche à suivre pour l’application de l’article 8,
+
 (vii) prévoir qu’un appel d’une décision visé au paragraphe 9 (1) soit interjeté auprès de la personne ou entité que précisent les règlements, notamment préciser les circonstances dans lesquelles il ne peut être interjeté appel d’une décision, et régir ces appels, notamment préciser les parties à un appel, les pouvoirs de la personne ou entité prescrite dans le cadre de l’appel, et les circonstances dans lesquelles un appel n’a pas pour effet de surseoir à la décision ;
+
 e) prescrire et régir des exigences et normes pour l’application de l’article 11, de l’article 12 et de l’article 15, notamment, selon le cas, des exigences et normes concernant :
+
 (i) la façon dont les services de remorquage ou les services d’entreposage de véhicules doivent être fournis ou offerts,
+
 (ii) l’équipement ou l’utilisation de tout équipement ou de toute chose sur ou dans une dépanneuse ou une installation d’entreposage de véhicules,
+
 (iii) les exigences en matière de sécurité à l’égard des dépanneuses, des véhicules remorqués ou des installations d’entreposage de véhicules,
+
 (iv) les termes, phrases, images, marques et autres renseignements devant être affichés sur une dépanneuse ou dans une installation d’entreposage de véhicules de même que le délai d’affichage et la manière de les afficher,
+
 (v) l’entreposage, l’affichage et la fourniture de copies d’un certificat,
+
 (vi) les changements apportés au nom du titulaire d’un certificat ou à tout autre renseignement à son sujet que précisent les règlements,
+
 f) pour l’application de l’article 14, exiger que les agents de police et les inspecteurs conservent des dossiers à l’égard des mises en fourrière pour une période précisée et indiquent dans un rapport au directeur les renseignements précisés à leur égard, et régir ces relevés et rapports;
+
 g) régir les consentements aux services de remorquage et aux services d’entreposage de véhicules;
+
 h) régir les devis applicables aux services de remorquage et aux services d’entreposage de véhicules et la facturation de ces services, notamment énoncer et régir les exigences concernant les factures et les reçus;
+
 i) Abrogé : 2023, chap. 9, annexe 36, par. 28 (4).
+
 j) régir le remboursement de montants en application du paragraphe 32 (2);
+
 k) régir la fourniture de renseignements aux personnes qui demandent ou reçoivent des services de remorquage ou des services d’entreposage de véhicules;
+
 l) pour l’application de l’article 37 :
+
 (i) établir et régir un protocole de présentation, d’examen et de traitement des plaintes,
+
 (ii) prévoir le renvoi de plaintes à un processus précisé de résolution des plaintes et régir ce processus,
+
 (iii) traiter des sanctions que le directeur peut imposer et des mesures qu’il peut prendre en application de l’alinéa 37 (1) d),
+
 (iv) prévoir l’interjection d’un appel d’une sanction que le directeur a imposée ou d’une mesure qu’il a prise auprès de la personne ou entité que précisent les règlements et régir un tel appel, notamment préciser les parties à l’appel, les pouvoirs de la personne ou entité prescrite pendant l’appel et si l’appel sursoit à la sanction ou à la mesure;
+
 m) établir un formulaire type d’accord applicable aux services de remorquage ou aux services d’entreposage de véhicules, et exiger et régir son emploi;
+
 n) Abrogé : 2024, chap. 25, annexe 5, par. 5 (1).
+
 o) régir la désignation de services de répartition pour l’application de l’article 44 et régir leur utilisation, notamment exiger l’enregistrement auprès d’un service de répartition ou exiger que des documents ou renseignements précisés soient fournis à une personne ou entité précisée pour les besoins d’un service de répartition;
+
 p) régir les pénalités administratives pour l’application de l’article 45;
+
 q) prescrire les pouvoirs et fonctions supplémentaires du directeur;
+
 r) régir la mise à disposition au public, par le directeur, de renseignements en vertu de l’article 51;
+
 s) prescrire des droits à l’égard de tout ce qui peut ou doit être fait en vertu de la présente loi et exiger et régir leur paiement;
+
 t) régir l’utilisation de documents électroniques pour l’application de la présente loi, notamment :
+
 (i) l’utilisation, la délivrance, la création, l’enregistrement, le stockage, la transmission, la copie, l’affichage, la présentation, la forme ou le contenu de documents électroniques,
+
 (ii) régir l’envoi et la réception de documents et renseignements par courrier électronique, notamment exiger que le titulaire du certificat ou toute autre personne que précisent les règlements conserve une adresse électronique, et préciser les exigences ayant trait à la tenue d’une telle adresse électronique;
+
 t.1) prévoir que toute partie ou disposition de la présente loi, tout règlement ou toute disposition d’un règlement s’applique à une catégorie prescrite de véhicules qui s’ajoute aux véhicules automobiles auxquels s’applique par ailleurs la partie, la disposition ou le règlement, prescrire les modifications devant être apportées à cette partie ou disposition ou à ce règlement à cette fin et prescrire des conditions et des circonstances à cette fin;
+
 u) sous réserve du paragraphe (4.1), prévoir des dispenses de l’application de la présente loi ou de l’une quelconque de ses dispositions, prévoir la non-application d’une disposition de la présente loi et prescrire les circonstances et les conditions applicables à une telle dispense ou non-application;
+
 v) régir les questions transitoires que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables pour faciliter la mise en oeuvre de la présente loi ou pour traiter des problèmes ou questions qui découlent de l’édiction ou de l’exécution de la présente loi.
 
 ### Idem : pénalités administratives
 
 (2) L’alinéa (1) p) peut comprendre des règlements visant à faire ce qui suit :
+
 a) traiter de la fixation des pénalités pouvant être imposées en vertu de l’article 45, notamment :
+
 (i) prescrire le montant d’une pénalité ou son mode de calcul et prescrire différentes pénalités ou fourchettes de pénalités selon différents types de contraventions ou de non-conformité ainsi que différentes pénalités ou fourchettes de pénalités selon les critères précisés,
+
 (ii) autoriser une personne prescrite à fixer le montant d’une pénalité si ni ce montant ni son mode de calcul n’est prescrit, et prescrire les critères pouvant ou devant être pris en compte lorsqu’une ordonnance est rendue en vertu du paragraphe 45 (2),
+
 (iii) autoriser l’imposition d’une pénalité pour chaque jour ou fraction de jour où la contravention ou la non-conformité se poursuit,
+
 (iv) prescrire, pour l’application du paragraphe 45 (10), une pénalité maximale d’un montant inférieur et les dispositions de la présente loi ou des règlements auxquelles cette pénalité moindre s’applique,
+
 (v) autoriser des pénalités plus élevées, ne dépassant pas le maximum fixé en application du paragraphe 45 (10) ou prescrit en vertu du sous-alinéa (iv), dans le cas d’une deuxième contravention ou non-conformité ou d’une contravention ou non-conformité subséquente;
+
 b) régir le paiement des pénalités, notamment exiger qu’une pénalité soit payée avant une date limite précisée, et autoriser le directeur à approuver un système de paiements périodiques se prolongeant au-delà de la date limite précisée;
+
 c) autoriser l’imposition de frais de retard de paiement à l’égard des pénalités qui ne sont pas payées avant la date limite précisée, y compris l’imposition de frais de retard de paiement progressifs, et prévoir l’inclusion de ces frais dans la pénalité aux fins d’exécution;
+
 d) prescrire et régir la marche à suivre pour rendre et signifier une ordonnance en vertu de l’article 45, notamment prescrire les règles en matière de signification d’une ordonnance de même que le jour où une ordonnance est réputée avoir été reçue;
+
 e) régir l’appel d’une ordonnance interjeté en vertu du paragraphe 45 (7);
+
 f) prévoir tout ce qui est utile ou nécessaire pour réaliser l’objet de l’article 45.
 
 ### Idem : règlements régissant les appels
 
 (3) Il est entendu que les règlements pris en vertu du paragraphe (1) pour régir des appels peuvent comprendre des règlements visant à faire ce qui suit :
+
 a) établir la procédure d’appel;
+
 b) fixer les délais applicables à chaque étape d’un appel et autoriser la personne ou entité saisie de l’appel à proroger un délai;
+
 c) prescrire qu’un appel doit ou peut se dérouler oralement, électroniquement ou par écrit, ou autoriser la personne ou entité saisie de l’appel à prendre une décision à ce sujet;
+
 d) établir les critères dont la personne ou entité saisie de l’appel doit et ne doit pas tenir compte lorsqu’elle prend une décision relative à l’appel.
 
 ### Idem : catégories
@@ -1050,6 +1261,9 @@ d) établir les critères dont la personne ou entité saisie de l’appel doit e
 ### Idem : règlements transitoires
 
 (5) En cas d’incompatibilité entre un règlement pris en vertu de l’alinéa (1) (v) et la présente loi, le règlement l’emporte.
+
 65 à 68 Omis (modification ou abrogation d’autres textes législatifs).
+
 69 Omis (entrée en vigueur de dispositions de la présente loi).
+
 70 Omis (édiction du titre abrégé de la présente loi).

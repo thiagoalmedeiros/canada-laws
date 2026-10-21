@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/26b02"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Bremner Boulevard Act, 2026
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/26b02) before relying on it.
 
 S.O. 2026, c. 2, Sched. 1
 
@@ -23,14 +23,19 @@ S.O. 2026, c. 2, Sched. 1
 ### Extinguishment of causes of action
 
 2 (1) No cause of action arises against a person set out in subsection (2) as a direct or indirect result of,
+
 (a) the enactment, amendment or repeal of any provision of this Act or the Skydome Act (Bus Parking) 2002;
+
 (b) the making, amendment or revocation of any provision of a regulation under this Act; or
+
 (c) anything done or not done in accordance with this Act, the Skydome Act (Bus Parking), 2002 or a regulation under this Act.
 
 ### Persons referred to
 
 (2) The persons referred to in subsection (1) are,
+
 (a) the Crown or any current or former member of the Executive Council or employee, officer or agent of or advisor to the Crown; or
+
 (b) a municipality or local board, or any current or former member of the council of the municipality or of the local board, or employee, officer or agent of or advisor to the municipality or local board.
 
 ### No remedy
@@ -64,13 +69,17 @@ S.O. 2026, c. 2, Sched. 1
 ### Certain proceedings by municipalities not prevented
 
 (10) This section does not apply with respect to proceedings brought by a municipality against,
+
 (a) any current or former member of the council of the municipality or of a local board of the municipality; or
+
 (b) any current or former employee, officer or agent of or advisor to the municipality or a local board of the municipality.
 
 ### Certain proceedings by local boards not prevented
 
 (11) This section does not apply with respect to proceedings brought by a local board against,
+
 (a) any current or former member of the local board; or
+
 (b) any current or former employee, officer or agent of or advisor to the local board.
 
 ### Regulations, contracts and agreements
@@ -80,8 +89,11 @@ S.O. 2026, c. 2, Sched. 1
 ### What regulation may contain
 
 (2) A regulation made under subsection (1) may,
+
 (a) terminate the prescribed contract or agreement on a date provided for in the regulation;
+
 (b) suspend all or part of the prescribed contract or agreement on the dates provided for in the regulation; and
+
 (c) amend all or part of the prescribed contract or agreement as specified in the regulation.
 
 ### Deemed termination, suspension, amendment
@@ -91,6 +103,9 @@ S.O. 2026, c. 2, Sched. 1
 ### No compensation
 
 (4) Unless provided for in the regulations, no compensation shall be paid to any person in connection with a termination, amendment or suspension under this section.
+
 4 Omitted (amends, repeals or revokes other legislation).
+
 5 Omitted (provides for coming into force of provisions of this Act).
+
 6 Omitted (enacts short title of this Act).

@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20c36"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Credit Unions and Caisses Populaires Act, 2020
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20c36) before relying on it.
 
 S.O. 2020, c. 36, Sched. 7
 
@@ -21,52 +21,99 @@ S.O. 2020, c. 36, Sched. 7
 ### Definitions
 
 1 In this Act,
+
 “affiliate” means an affiliated body corporate within the meaning of section 5; (“membre du même groupe”)
+
 “articles of incorporation” or “articles” means the original or restated articles of incorporation, articles of amalgamation, articles of amendment, memorandum of association, a special Act or other instrument by which a credit union is incorporated and includes any amendment thereto; (“statuts constitutifs” ou “statuts”)
+
 “Authority” means the Financial Services Regulatory Authority of Ontario continued under subsection 2 (1) of the Financial Services Regulatory Authority of Ontario Act, 2016; (“Autorité”)
+
 “Authority rule” means a rule made under subsection 285 (1) of this Act or under subsection 21 (2) of the Financial Services Regulatory Authority of Ontario Act, 2016; (“règle de l’Autorité”)
+
 “board” means, with respect to a credit union, its board of directors; (“conseil”)
+
 “body corporate” means any body corporate with or without share capital and whether or not it is a corporation to which this Act applies; (“personne morale”)
+
 “borrow” does not include the taking of deposits; (“emprunter”)
+
 “central” means a corporation incorporated as a credit union central or federation under this Act; (“fédération”)
+
 “Chief Executive Officer” means the Chief Executive Officer appointed under subsection 10 (2) of the Financial Services Regulatory Authority of Ontario Act, 2016; (“directeur général”)
+
 “court”, except where the context indicates otherwise, means the Superior Court of Justice; (“tribunal”)
+
 “credit union” means a corporation incorporated or continued as a credit union or caisse populaire under this Act or a predecessor of this Act; (“caisse”, “caisse populaire”)
+
 “debt obligation” means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured; (“titre de créance”)
+
 “deposit” includes money deposited with a credit union under a federal or provincial registered savings plan or fund; (“dépôt”)
+
 “depositor” means a person with funds on deposit with a credit union; (“déposant”)
+
 “entity” means a body corporate, trust, partnership, fund, an unincorporated organization, the Crown in right of Canada or of a province, an agency of the Crown in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof; (“entité”)
+
 “financial institution” means,
+
 (a) a bank or authorized foreign bank within the meaning of section 2 of the Bank Act (Canada),
+
 (b) an insurer licensed under the Insurance Act,
+
 (c) a corporation registered under the Loan and Trust Corporations Act,
+
 (d) an entity that is,
+
 (i) incorporated or formed by or under an Act of the Parliament of Canada or of the legislature of a province, and
+
 (ii) primarily engaged in dealing in securities, including portfolio management and investment counselling,
+
 (e) a credit union,
+
 (f) a central,
+
 (g) a retail association as defined under the Cooperative Credit Associations Act (Canada), and
+
 (h) such other entities or classes of entities as may be prescribed by regulation; (“institution financière”)
+
 “financial statement” means a financial statement referred to in section 177; (“état financier”)
+
 “incorporator” means an individual who signs articles of incorporation; (“fondateur”)
+
 “member” means a person who is a member of a credit union under this Act, the articles and the by-laws of the credit union governing membership; (“sociétaire”)
+
 “membership share” means an interest in the equity of a credit union that confers the rights referred to in subsection 44 (1); (“part sociale”)
+
 “Minister” means the Minister of Finance or any other member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre”)
+
 “patronage share” means a share of a class provided for by the articles of a credit union in accordance with section 45; (“part de ristourne”)
+
 “personal representative” means a person who stands in place of and represents another person and includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a curator, an assignee, a receiver, an agent or an attorney of any person, but does not include a delegate; (“représentant personnel”)
+
 “regulations” means the regulations made under this Act; (“règlement”)
+
 “regulatory capital” in respect of a credit union, has the meaning given to that expression by the Authority rules; (“capital réglementaire”)
+
 “related person”, when used to indicate a relationship with any natural person, means,
+
 (a) a spouse of the person,
+
 (b) any son or daughter of the person, or
+
 (c) any relative by blood, marriage or adoption, of the person or of any person mentioned in clause (a) or (b); (“personne liée”)
+
 “requirement under this Act” means a requirement imposed by this Act or by a regulation or an Authority rule, or a requirement imposed by order; (“exigence prévue par la présente loi”)
+
 “security” means a security as defined under the Securities Act but does not include a deposit with a financial institution or any instrument evidencing the deposit; (“valeur mobilière”)
+
 “share” includes a membership share unless specifically excluded by this Act; (“action”)
+
 “shareholder” means a shareholder as defined in subsection 8 (1); (“actionnaire”)
+
 “special resolution” means a resolution passed by two-thirds or more of the votes cast by or on behalf of the persons who voted in respect of that resolution; (“résolution extraordinaire”)
+
 “spouse” means a spouse as defined under Part III of the Family Law Act; (“conjoint”)
+
 “subordinated indebtedness” means an instrument evidencing an indebtedness of a credit union that, by its terms, provides that the indebtedness will, in the event of the insolvency or winding up of the credit union, be subordinate in right of payment to all deposit liabilities of the credit union and all other liabilities of the credit union except those that, by their terms, rank equally with or are subordinate to the indebtedness; (“titre secondaire”)
+
 “Tribunal” means the Financial Services Tribunal continued under the Financial Services Tribunal Act, 2017. (“Tribunal”).
 
 ### Joint shareholders
@@ -80,10 +127,15 @@ S.O. 2020, c. 36, Sched. 7
 ### Subsidiary
 
 3 For the purposes of this Act, a body corporate is a subsidiary of another body corporate if,
+
 (a) it is controlled by,
+
 (i) that other,
+
 (ii) that other and one or more bodies corporate each of which is controlled by that other, or
+
 (iii) two or more bodies corporate that are that other’s subsidiary; or
+
 (b) it is a subsidiary of a body corporate that is that other’s subsidiary.
 
 ### Holding body corporate
@@ -109,7 +161,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Controlling body corporate
 
 6 For the purposes of this Act, a body corporate is controlled by another person or by two or more bodies corporate if,
+
 (a) voting securities of the first mentioned body corporate carrying more than 50 per cent of the votes for the election of directors are held, other than by way of security only, by or for the benefit of the other person or by or for the benefit of the other bodies corporate; and
+
 (b) the votes carried by the securities are sufficient, if exercised, to elect a majority of the board of directors of the first-mentioned body corporate.
 
 ### Member
@@ -147,8 +201,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Restriction
 
 (2) An individual is disqualified from being an incorporator if the individual,
+
 (a) is less than 18 years of age;
+
 (b) has been found under the Substitute Decisions Act, 1992 or under the Mental Health Act to be incapable of managing property or has been found to be incapable by a court in Canada or elsewhere; or
+
 (c) is an undischarged bankrupt or has been discharged as a bankrupt in the five years preceding the date the application to incorporate the credit union is made under subsection 12 (1).
 
 ### Contents of articles
@@ -170,7 +227,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Affidavit
 
 (5) An affidavit verifying the following matters must accompany the articles:
+
 1. The signature of each incorporator and each first director.
+
 2. The fact that each first director meets the criteria for eligibility under section 83, and that each incorporator and first director is not disqualified under subsection 10 (2) or section 84, as applicable.
 
 ### Where consent required
@@ -188,8 +247,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Inquiry before incorporation
 
 (2) The Chief Executive Officer shall inquire into the circumstances, sufficiency and regularity of the articles and by-laws and may do any of the following before issuing a certificate of incorporation:
+
 1. Require the incorporators to provide such additional information as the Chief Executive Officer considers relevant to the application.
+
 2. Require any matter set out in the articles or by-laws or in the additional information provided to the Chief Executive Officer to be verified under oath.
+
 3. Require the articles or by-laws to be amended if the Chief Executive Officer considers that they are inconsistent with this Act, the regulations or the Authority rules.
 
 ### Certificate of incorporation
@@ -199,10 +261,15 @@ S.O. 2020, c. 36, Sched. 7
 ### Grounds for refusing certificate
 
 (2) The Chief Executive Officer shall not issue a certificate of incorporation if the articles do not meet the requirements of section 11 or 12 or if the incorporators do not satisfy the Chief Executive Officer of the following matters:
+
 1. The plans for the conduct and development of the business of the credit union are feasible and sound.
+
 2. The credit union will be operated on a co-operative basis in accordance with subsection 23 (2).
+
 3. The credit union will be operated in such a way that deposits will be safeguarded without the likelihood of a claim against the Authority.
+
 4. The credit union will be operated responsibly by individuals who, by virtue of their character, competence and experience, are suited to operating a financial institution.
+
 5. The incorporation of the credit union will serve the best interests of the co-operative financial system in Ontario.
 
 ### Effect of certificate
@@ -240,7 +307,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Restriction on approval
 
 (2) The Chief Executive Officer shall not approve a name under subsection (1),
+
 (a) if the name includes “credit union”, “caisse populaire” or “caisse”, unless the name is derived from the credit union’s corporate name; or
+
 (b) if the name would be precluded as a corporate name under section 19.
 
 ### Corporate name to be used in all documents
@@ -254,18 +323,27 @@ S.O. 2020, c. 36, Sched. 7
 ### Restrictions re corporate names
 
 19 (1) A credit union may not be incorporated under this Act with a corporate name that,
+
 (a) is prohibited under an Act of the Parliament of Canada or a province or territory of Canada;
+
 (b) does not meet the requirements prescribed by regulation;
+
 (c) is reserved under section 20 for another credit union;
+
 (d) is the same as or confusingly similar to any existing trade-mark or trade name or corporate name of a body corporate;
+
 (e) is the same as or confusingly similar to the known name under or by which another entity carries on business or is identified;
+
 (f) contains a word or phrase that indicates or suggests that it is incorporated for any object other than one set out in its articles; or
+
 (g) is deceptively misdescriptive.
 
 ### Exception re trade-marks, etc.
 
 (2) Clause (1) (d) does not apply if the Chief Executive Officer is satisfied that,
+
 (a) the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name; and
+
 (b) in the case of a corporate name, there is consent to the use of the corporate name.
 
 ### Exception for affiliate
@@ -313,14 +391,23 @@ S.O. 2020, c. 36, Sched. 7
 ### Co-operative basis
 
 (2) A credit union shall operate on a co-operative basis such that,
+
 (a) membership is voluntary and is open to those that fall within its bond of association, if the credit union’s by-laws so provide;
+
 (b) its business is carried on primarily for the benefit of its members;
+
 (c) the net income that accrues from its business is,
+
 (i) used to provide services for its members,
+
 (ii) used to develop its business,
+
 (iii) used to increase its reserves or retained earnings,
+
 (iv) distributed to its members and shareholders, or
+
 (v) used for another purpose approved by the members; and
+
 (d) each member has only one vote at its general meetings of the members or in respect of elections of its directors.
 
 ### Exception
@@ -342,8 +429,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Acting outside powers
 
 25 (1) No act of a credit union and no transfer of real or personal property to or by a credit union before or after this section comes into force, that is otherwise lawful, is invalid because the credit union was without capacity or power to do the act or make or receive the transfer, but a lack of capacity or power may be asserted,
+
 (a) in a proceeding against the credit union by a member under subsection (2);
+
 (b) in a proceeding by the credit union, whether acting directly or through a receiver, liquidator, trustee or their legal representative or through members in a representative capacity, against a director or officer or former director or officer of the credit union; or
+
 (c) as a cause for the cancellation of the certificate of incorporation of the credit union.
 
 ### Restraining order
@@ -357,9 +447,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Where contract
 
 (4) If the act or transfer that the member seeks to restrain is to be done under a contract to which the credit union is a party,
+
 (a) all the parties to the contract are parties to the proceedings;
+
 (b) the court may,
+
 (i) grant the order and set aside the contract, and
+
 (ii) award compensation to the credit union or other parties to the contract for any damages or loss, other than anticipated profits from the contract, sustained by them because the order is granted and the contract is set aside.
 
 ### Miscellaneous
@@ -367,12 +461,19 @@ S.O. 2020, c. 36, Sched. 7
 ### Indoor management rule
 
 26 (1) A credit union or a guarantor of an obligation of one shall not assert against a person dealing with the credit union or with a person who has acquired rights from the credit union any of the following matters:
+
 1. The articles or by-laws have not been complied with.
+
 2. The individuals named in the most recent notice filed under the Corporations Information Act or named in the articles, whichever is more current, are not the directors of the credit union.
+
 3. The location of its head office indicated in a notice filed under the Corporations Information Act, as named in the by-laws, or named in the articles, whichever is more current, is not the head office of the credit union.
+
 4. A person held out by the credit union as a director, officer or agent has not been duly appointed or does not have authority to exercise the powers and perform the duties that are customary in the business of the credit union or usual for the director, officer or agent.
+
 5. A document issued by a director, officer or agent of the credit union with actual or usual authority to issue the document is not valid or not genuine.
+
 6. Financial assistance was not authorized.
+
 7. The sale, lease, exchange or disposition of property of the credit union was not authorized under section 174.
 
 ### Exception
@@ -430,7 +531,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Record, information relating to membership
 
 33 (1) Every person or entity whose name is registered in the register under section 202 is entitled to,
+
 (a) a record specifying the amount paid upon membership shares, deposits and loans by the person or entity; and
+
 (b) such other information as may be specified by the by-laws of the credit union.
 
 ### Same
@@ -462,7 +565,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Exercise of rights of membership shares held in trust
 
 (3) The following apply with respect to membership shares held by a member in trust for a beneficiary:
+
 1. The member shall exercise the rights attached to the shares, subject to paragraph 2.
+
 2. At a meeting of members, the member does not have an additional vote as a result of holding the membership shares in trust.
 
 ### Disclosure of beneficiary
@@ -490,13 +595,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Type of payments
 
 (2) The payment referred to in subsection (1) is a payment of the following:
+
 1. An amount not exceeding the amount prescribed by regulation payable from the amount on deposit in the name of the deceased or in consideration for the membership shares of the deceased.
+
 2. An amount not exceeding the amount prescribed by regulation payable from any money that is received by the credit union under any policy of insurance on the life of the deceased.
 
 ### Restrictions
 
 (3) Subsection (1) applies only if the credit union pays the amount in good faith and the credit union receives, before the payment,
+
 (a) a statutory declaration attesting to the person’s entitlement to receive the amount; or
+
 (b) such other evidence of the person’s entitlement to the amount as the credit union considers to be appropriate in the circumstances.
 
 ### Credit union can require more
@@ -514,7 +623,9 @@ S.O. 2020, c. 36, Sched. 7
 ### If deceased member was trustee
 
 (7) If a member of a credit union dies holding membership shares or money on deposit in trust for a named beneficiary, the credit union may pay the amount of, or transfer, the membership shares or deposit and any interest or dividends on them,
+
 (a) to the executor or administrator of the estate of the deceased member; or
+
 (b) to the beneficiary if there is no executor or administrator of the estate of the deceased member or, if the beneficiary is a minor, to the beneficiary’s parent or guardian.
 
 ### Liens
@@ -566,8 +677,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Court order
 
 (4) The court may make the order upon such conditions as the court thinks fit if the court is satisfied that,
+
 (a) the member was a member of the credit union at the time of the transaction or other event giving rise to the cause of action;
+
 (b) the member has made reasonable efforts to cause the credit union to commence or prosecute diligently the action on its own behalf; and
+
 (c) the member is acting in good faith and it is apparently in the interests of the credit union or its members that the action be commenced.
 
 ### Costs
@@ -633,9 +747,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Rights of classes
 
 46 (1) For each class of shares, the articles must set out,
+
 (a) the rights, privileges, restrictions and conditions attaching to the shares of the class, including,
+
 (i) whether the class of shares may be issued to non-members, and
+
 (ii) in the case of a class of shares other than membership shares and patronage shares, whether the class of shares includes the right to receive the remaining property of the credit union upon dissolution; and
+
 (b) the maximum number, if any, of shares of the class that the credit union is authorized to issue.
 
 ### Restrictions
@@ -681,15 +799,21 @@ S.O. 2020, c. 36, Sched. 7
 ### Exception
 
 (3) A shareholder has no pre-emptive right in respect of shares that are to be issued,
+
 (a) as a share dividend;
+
 (b) pursuant to the exercise of conversion privileges, options or rights previously granted by the credit union;
+
 (c) if the issuance of shares to the shareholder is prohibited under this Act; or
+
 (d) if, to the knowledge of the board, the offer of shares to a shareholder whose recorded address is outside Ontario ought not to be made unless the appropriate authority in that jurisdiction is provided with information in addition to that submitted to the shareholders at the most recent annual meeting.
 
 ### Conversion privileges
 
 49 (1) A credit union may issue conversion privileges, options or rights to acquire its securities, other than membership shares or patronage shares, and shall set out the applicable conditions,
+
 (a) in the documents that evidence the conversion privileges, options or rights; or
+
 (b) in the securities to which the conversion privileges, options or rights are attached.
 
 ### Transferable rights
@@ -731,8 +855,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Holding own shares
 
 53 (1) Except as permitted under this Act or prescribed by regulation, a credit union shall not,
+
 (a) hold shares of the credit union;
+
 (b) permit a subsidiary to hold a greater number of membership shares than the minimum number required for membership in the credit union; or
+
 (c) permit a subsidiary to hold any other shares of the credit union.
 
 ### Holding as personal representative
@@ -788,10 +915,15 @@ S.O. 2020, c. 36, Sched. 7
 ### Form of dividend
 
 (2) A dividend may be paid,
+
 (a) in cash;
+
 (b) by issuing patronage shares;
+
 (c) by issuing fully paid shares, other than membership shares, or options or rights to acquire fully paid shares, other than membership shares, in any class or series of shares;
+
 (d) in a combination of two or more forms of dividends described in clauses (a), (b) and (c); or
+
 (e) in property, with the approval of the Chief Executive Officer.
 
 ### Declaration of patronage return
@@ -801,9 +933,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Form of patronage return
 
 (2) A patronage return may be paid,
+
 (a) in cash;
+
 (b) by issuing patronage shares;
+
 (c) by issuing fully paid shares, other than membership shares, or options or rights to acquire fully paid shares, other than membership shares, in any class or series of shares; or
+
 (d) in a combination of two or more forms of patronage returns described in clauses (a), (b) and (c).
 
 ### Rebate of interest
@@ -827,7 +963,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Adjustment due to conversion
 
 61 (1) On a conversion of outstanding shares, other than membership shares or patronage shares, of a credit union into shares of another class or series, the credit union shall,
+
 (a) deduct from the stated capital account maintained for the class or series of shares converted an amount equal to the result obtained by multiplying the stated capital of the shares of that class or series by the number of shares of that class or series converted, and dividing by the number of outstanding shares of that class or series immediately before the conversion; and
+
 (b) record the result obtained under clause (a) and any additional consideration received on the conversion in the stated capital account maintained for the class or series of shares into which the shares have been converted.
 
 ### Stated capital of convertible shares
@@ -841,12 +979,15 @@ S.O. 2020, c. 36, Sched. 7
 ### Definition
 
 (4) In this section,
+
 “conversion” of a share includes a change made under subsection 253 (1) into another class or series.
 
 ### Addition due to debt conversion
 
 62 On conversion of a debt obligation of a credit union into shares, the credit union shall,
+
 (a) deduct from the liabilities of the credit union the nominal value of the debt obligation; and
+
 (b) record the result obtained under clause (a) and any additional consideration received for the conversion in the stated capital account maintained for the class or series of shares into which the debt obligation has been converted.
 
 ### Reduction due to purchase, etc.
@@ -920,11 +1061,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Selling securities
 
 68 (1) A credit union may sell its securities or accept, directly or indirectly, consideration for its securities if,
+
 (a) the sale of the securities or acceptance of consideration for the securities is to or from a member, and the credit union has obtained a receipt under section 71 for an offering statement respecting the securities and the receipt has not been revoked or expired;
+
 (b) the credit union has provided the Chief Executive Officer with a copy of receipts from the Ontario Securities Commission under the Securities Act for,
+
 (i) a preliminary prospectus, if any, and
+
 (ii) a prospectus respecting the offering of the securities;
+
 (c) the sale is exempt from the prospectus requirements of the Securities Act under an exemption provided for in that Act, the regulations or the rules made under it; or
+
 (d) an order has been made in respect of the sale under section 74 or subsection 143.11 (2) of the Securities Act.
 
 ### When Securities Act does not apply
@@ -934,8 +1081,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Exception
 
 (3) Subsection (1) and the Securities Act do not apply with respect to the issuance of,
+
 (a) membership shares;
+
 (b) patronage shares; or
+
 (c) shares under section 57 or 58.
 
 ### Interpretation
@@ -949,8 +1099,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Permitted sellers
 
 69 Securities sold under the circumstances described in clause 68 (1) (a) may be sold by,
+
 (a) the directors, officers and employees of the issuing credit union;
+
 (b) in the case of an issuing central, the directors, officers and employees of the central or of a credit union that is a member of the central; or
+
 (c) a person registered under the Securities Act as an investment dealer.
 
 ### Offering statement
@@ -972,7 +1125,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Additional material
 
 (5) The Chief Executive Officer may require,
+
 (a) the credit union to provide additional documents, reports and other material; and
+
 (b) that the information contained in the material referred to in clause (a) form part of the offering statement.
 
 ### Examination
@@ -982,18 +1137,27 @@ S.O. 2020, c. 36, Sched. 7
 ### Receipt for offering statement
 
 71 (1) The Chief Executive Officer shall issue a receipt for an offering statement unless it appears to the Chief Executive Officer that,
+
 (a) the statement or any document accompanying it,
+
 (i) fails to comply in any substantial respect with this Act or the regulations,
+
 (ii) contains any statement, promise, estimate or forecast that is misleading, false or deceptive,
+
 (iii) contains an extract from an opinion or statement of an expert that does not fairly represent the opinion or statement, or
+
 (iv) conceals or omits to state any material facts necessary in order to make any statement contained in the offering statement not misleading in light of the circumstances in which it was made;
+
 (b) the proceeds from the sale of the securities are insufficient, together with the other resources of the credit union, to accomplish the purpose of the issue that is stated in the offering statement; or
+
 (c) it would not be in the public interest to issue a receipt for the offering statement.
 
 ### Refusal to issue, revocation
 
 (2) The Chief Executive Officer may refuse to issue or may revoke a receipt for an offering statement in any of the following circumstances:
+
 1. The credit union is in contravention of section 77.
+
 2. The credit union is subject to the supervision of the Chief Executive Officer or under the administration of the Chief Executive Officer.
 
 ### Same
@@ -1007,7 +1171,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Expiry of receipt
 
 (5) A receipt for an offering statement expires on the earlier of,
+
 (a) the date that is six months after the day it is issued; and
+
 (b) the date on which the offering of securities contemplated by the offering statement for which the receipt is granted is closed in accordance with the offering statement.
 
 ### Renewal of receipt
@@ -1025,7 +1191,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Material change
 
 73 (1) If there is a material change in the facts set out in an offering statement, the credit union shall file with the Chief Executive Officer,
+
 (a) an amendment to the offering statement, if no receipt has been issued for the statement; or
+
 (b) a statement of material change, if a receipt has been issued for the offering statement and the receipt has not been revoked or expired.
 
 ### Time
@@ -1043,6 +1211,7 @@ S.O. 2020, c. 36, Sched. 7
 ### Contents
 
 (5) Sections 70 and 71 apply with respect to a statement of material change as if it were an offering statement.
+
 (6) Repealed: 2021, c. 40, Sched. 5, s. 5.
 
 ### Distribution of statements
@@ -1064,8 +1233,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Business day
 
 (5) In subsection (3),
+
 “business day” means a day that is not,
+
 (a) Saturday, or
+
 (b) Sunday or any other holiday, other than Easter Monday and Remembrance Day.
 
 ### Effect of misrepresentation
@@ -1079,10 +1251,15 @@ S.O. 2020, c. 36, Sched. 7
 ### Right of action
 
 (3) The purchaser has a right of action for damages against,
+
 (a) the credit union;
+
 (b) every person, other than an employee of a credit union, who sells the security on behalf of the credit union;
+
 (c) every director of the credit union at the time the offering statement or statement of material change was filed with the Chief Executive Officer;
+
 (d) every person whose consent has been filed pursuant to a requirement of the regulations but only with respect to reports, opinions or statements that have been made by them; and
+
 (e) every person who signed the offering statement or statement of material change other than the persons included in clauses (a) to (d).
 
 ### Same
@@ -1092,15 +1269,21 @@ S.O. 2020, c. 36, Sched. 7
 ### Defence
 
 (5) A person who signed the disclosure certificate required under subsection 70 (4) or a director is not liable under this section if the person proves one of the following:
+
 1. The offering statement or statement of material change was filed with the Chief Executive Officer without the person’s knowledge or consent. As soon as the person became aware that it had been filed with the Chief Executive Officer, the person advised the Chief Executive Officer that it was filed with the Chief Executive Officer without the person’s knowledge or consent.
+
 2. The person was not aware of the misrepresentation when the offering statement or material change statement was filed with the Chief Executive Officer. After the receipt for the statement was issued but before the purchaser bought the security, the person immediately after the person became aware of the misrepresentation advised the Chief Executive Officer that the person withdrew consent to the filing of the statement with the Chief Executive Officer.
+
 3. The person had no reasonable grounds to believe, and did not believe, that there had been a misrepresentation.
 
 ### Interpretation
 
 (6) In this section,
+
 “misrepresentation” means,
+
 (a) an untrue statement of material fact, or
+
 (b) an omission to state a material fact that is required to be stated or that is necessary to make a statement not misleading in light of the circumstances in which it was made.
 
 ### Restriction on Commission for Purchase or Sale
@@ -1108,8 +1291,11 @@ S.O. 2020, c. 36, Sched. 7
 ### No commission by directors, officers, employees
 
 76 None of the following persons shall charge or accept payment of a commission on the purchase or sale of a security of a credit union:
+
 1. The directors, officers and employees of the credit union.
+
 2. The related persons of a director, officer or employee of the credit union.
+
 3. If the credit union is a member of a central, the directors, officers and employees of the central.
 
 ### No Waiver
@@ -1155,14 +1341,19 @@ S.O. 2020, c. 36, Sched. 7
 ### Additional requirements
 
 79 (1) The Chief Executive Officer may order a credit union,
+
 (a) to increase its capital; or
+
 (b) to provide additional liquidity in such forms and amounts as the Chief Executive Officer may require.
 
 ### Circumstances
 
 (2) Despite a credit union’s compliance with the Authority rules governing adequate capital and liquidity, the Chief Executive Officer may impose the requirements set out in subsection (1),
+
 (a) if there are reasonable grounds to believe that the credit union is not complying with the requirements of this Act, the regulations and the Authority rules concerning the management of risk in making loans and investments and in the general management of credit union business;
+
 (b) if the Chief Executive Officer considers that imposing the requirement is necessary to protect the interests of members, shareholders or depositors; or
+
 (c) if the Chief Executive Officer considers that imposing the requirement is necessary to ensure the financial security and integrity of the credit union.
 
 ### Compliance
@@ -1216,8 +1407,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Qualifications of directors
 
 83 Only an individual who meets the following criteria is eligible to be a director of a credit union:
+
 1. The person is a member of the credit union.
+
 2. The person is at least 18 years of age.
+
 3. The person is a Canadian citizen or a person lawfully admitted to Canada for permanent residency who is ordinarily resident in Canada.
 
 ### Disqualified individuals
@@ -1255,7 +1449,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Election by non-member shareholders
 
 (2) Despite subsection (1) and subject to the by-laws of a credit union, if the holders of a class or series of class of shares of the credit union, other than membership shares or patronage shares, have an exclusive right to elect one or more directors and a vacancy occurs among those directors,
+
 (a) subject to subsection (3), the remaining directors elected by holders of that class or series may fill the vacancy except a vacancy resulting from an increase in the number of directors for that class or series or from a failure to elect the number of directors for that class or series; or
+
 (b) if there are no such remaining directors, any holder of shares of that class or series may call a meeting of the holders of that class or series for the purpose of filling the vacancy.
 
 ### Same
@@ -1281,7 +1477,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Removal by Chief Executive Officer
 
 94 (1) The Chief Executive Officer may, by order, remove a director of a credit union if the Chief Executive Officer is of the opinion,
+
 (a) that the director is not suitable to hold office as a director on the basis of the character or competence of the director; or
+
 (b) that it is in the best interests of the credit union that the director be removed.
 
 ### Risk of prejudice
@@ -1345,9 +1543,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Required matters
 
 (2) The by-laws of a credit union shall provide for the following matters:
+
 1. The appointment of officers of the credit union and the establishment of their duties.
+
 2. The calling of meetings of the board, including the minimum number of times the board must meet each financial year if the minimum number of times exceeds the minimum number of times prescribed by regulation, the place or places where meetings of the board may be held and the manner in which notice of the meetings must be given.
+
 3. Such other matters as may be prescribed by regulation.
+
 (3) Repealed: 2021, c. 40, Sched. 5, s. 10 (2).
 
 ### Limitation
@@ -1451,12 +1653,19 @@ S.O. 2020, c. 36, Sched. 7
 ### Exceptions
 
 (3) Despite subsection (1), a director, officer or member of a committee or an employee authorized by the board may disclose information,
+
 (a) to a person acting in a confidential or professional relationship to the credit union, including an employee of a central in which the credit union is a member;
+
 (b) to a financial institution with which the credit union has transactions that may involve confidential matters;
+
 (c) to another credit union with which the credit union of the director, officer, committee member or employee proposes to amalgamate, for the purposes of the amalgamation, if the credit unions have signed letters of intent to enter into an agreement for the amalgamation;
+
 (d) to a person to whom the credit union proposes to sell assets, for the purposes of the sale, if the credit union and the person have signed letters of intent to enter into an agreement of purchase and sale for the sale;
+
 (e) to a credit grantor or to a reporting agency, if the disclosure is for the purpose of determining the creditworthiness of the member;
+
 (f) to the Chief Executive Officer and the Authority; and
+
 (g) to any other person entitled to the information by law.
 
 ### Duty of care
@@ -1480,9 +1689,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Disclosure of interest
 
 111 (1) This section applies to every director, officer, member of a committee or employee of a credit union who,
+
 (a) is a party to a material contract or proposed material contract with the credit union;
+
 (b) is a director or an officer of an entity that is a party to a material contract or proposed material contract with the credit union;
+
 (c) has a material interest in a person who is a party to a material contract or proposed material contract with the credit union; or
+
 (d) is a spouse, parent or child of an individual who is a party to a material contract or proposed material contract with the credit union.
 
 ### Same
@@ -1492,16 +1705,23 @@ S.O. 2020, c. 36, Sched. 7
 ### Time of disclosure, director
 
 (3) A director shall make the disclosure,
+
 (a) at the board meeting at which a proposed contract is first considered;
+
 (b) if the director was not then interested in a proposed contract, at the first meeting after the director becomes so interested;
+
 (c) if the director becomes interested after a contract is made, at the first meeting after the director becomes so interested; or
+
 (d) if a person who is interested in a contract later becomes a director, at the first meeting after that person becomes a director.
 
 ### Same, officer or committee member
 
 (4) An officer, committee member or employee shall make the disclosure,
+
 (a) promptly after the officer, committee member or employee becomes aware that a proposed contract is to be considered or a contract has been considered at a board meeting;
+
 (b) if the officer, committee member or employee becomes interested after a contract is made, promptly after becoming so interested; or
+
 (c) if a person who is interested in a contract later becomes an officer, committee member or employee, promptly after becoming an officer, committee member or employee.
 
 ### Same, no board approval
@@ -1519,9 +1739,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Exception
 
 (2) Subsection (1) does not apply if the contract is,
+
 (a) an arrangement by way of security for money lent to or obligations undertaken by the director for the benefit of the credit union or a subsidiary of it;
+
 (b) a contract relating primarily to the director’s remuneration as a director or as a member of a committee or an officer, employee or agent of the credit union or a subsidiary of it or an entity controlled by it;
+
 (c) a contract for indemnity under section 123 or for insurance under section 122; or
+
 (d) a contract with a subsidiary of the credit union.
 
 ### Ineligibility
@@ -1531,7 +1755,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Avoidance standards
 
 113 (1) If a director, officer, committee member or employee made a required disclosure in respect of a contract referred to in subsection 111 (1), the contract was approved by the board or by the members of the credit union and the contract was reasonable and fair to the credit union at the time it was approved, the contract is neither void nor voidable by reason only,
+
 (a) of the relationship between the person or entity and the director, officer, committee member or employee; or
+
 (b) that an interested director is present at or is counted to determine the presence of a quorum at the board meeting that authorized the contract.
 
 ### Application to court
@@ -1579,10 +1805,15 @@ S.O. 2020, c. 36, Sched. 7
 ### Same
 
 (3) The following are the distributions and payments referred to in subsection (2):
+
 1. A redemption or purchase of shares contrary to this Act.
+
 2. A reduction of capital contrary to this Act.
+
 3. A payment of a dividend contrary to this Act.
+
 4. The payment of an indemnity contrary to this Act.
+
 5. Any transaction with a restricted party contrary to this Act.
 
 ### Contribution
@@ -1592,32 +1823,43 @@ S.O. 2020, c. 36, Sched. 7
 ### Recovery
 
 (2) A director who is liable under section 119 is entitled to apply to a court for an order compelling a member, shareholder or other person to pay or deliver to the director,
+
 (a) any money or property that was paid or distributed to the member, shareholder or other person contrary to this Act; or
+
 (b) an amount equal to the value of the loss suffered by the credit union as a result of any transaction contrary to Part IX or the regulations made for the purposes of that Part.
 
 ### Court order
 
 (3) Where an application is made to a court under subsection (2), the court may, where it is satisfied that it is equitable to do so,
+
 (a) order a member, shareholder, or other person to pay or deliver to a director any money or property that was paid or distributed to the member, shareholder or other person contrary to this Act or any amount referred to in clause (2) (b);
+
 (b) order a credit union to return or issue membership shares or shares to a member or shareholder from whom the credit union has purchased, redeemed or otherwise acquired membership shares or shares; or
+
 (c) make any further order it thinks fit.
 
 ### Due diligence, reliance on statement, etc.
 
 121 (1) A director, officer, member of a committee or an employee of a credit union is not liable under section 119 or 196 and has fulfilled their duty under section 110 if they exercised the degree of care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances, including reliance in good faith on,
+
 (a) financial statements of the credit union represented to them by an officer of the credit union or in a written report of the auditor of the credit union fairly to reflect the financial condition of the credit union; or
+
 (b) a report of an accountant, lawyer or other professional person whose profession lends credibility to a statement made by the person.
 
 ### Same
 
 (2) A director, officer or member of a committee of a credit union has fulfilled their duty under section 109 if they relied in good faith on,
+
 (a) financial statements of the credit union represented to them by an officer of the credit union or in a written report of the auditor of the credit union fairly to reflect the financial condition of the credit union; or
+
 (b) a report of an accountant, lawyer or other professional person whose profession lends credibility to a statement made by the person.
 
 ### Insurance for directors and officers
 
 122 (1) A credit union may purchase and maintain insurance for the benefit of an eligible person as defined in section 123 against any liability incurred by the person in the person’s capacity as,
+
 (a) a director, officer or member of a committee; or
+
 (b) a director or officer of another entity if the person acts or acted in that capacity at the credit union’s request.
 
 ### Exception
@@ -1627,9 +1869,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Indemnity for directors, etc.
 
 123 (1) In this section,
+
 “eligible person” means, with respect to a credit union,
+
 (a) a director, officer or member of a committee,
+
 (b) a former director, officer or member of such a committee, or
+
 (c) a person who acts or acted at the request of the credit union as a director or an officer of an entity of which the credit union is or was a member, shareholder or creditor.
 
 ### Indemnification
@@ -1655,13 +1901,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Restriction
 
 (7) The credit union may indemnify an eligible person under this section only if,
+
 (a) the person acted honestly and in good faith with a view to the best interests of the credit union; and
+
 (b) in the case of a proceeding enforced by a monetary penalty, the person had reasonable grounds for believing that the impugned conduct was lawful.
 
 ### Right to indemnity
 
 (8) An eligible person is entitled to indemnity from the credit union in connection with the defence of a proceeding to which the person is made a party by reason of serving or having served in a qualifying capacity if the eligible person,
+
 (a) was substantially successful on the merits in the defence of the proceeding; and
+
 (b) fulfils the conditions set out in clauses (7) (a) and (b).
 
 ### Extent of indemnity
@@ -1675,7 +1925,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Interpretation
 
 (11) In this section, to serve in a qualifying capacity means,
+
 (a) acting or having acted as a director, officer or member of a committee; or
+
 (b) acting or having acted at the request of the credit union as a director or an officer of an entity of which the credit union is or was a member, shareholder or creditor.
 
 ### Application for indemnification
@@ -1761,8 +2013,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Right to attend meetings
 
 133 (1) The auditor is entitled,
+
 (a) to attend any meeting of members or shareholders of the credit union;
+
 (b) to receive all notices and other communications relating to a meeting that a member or shareholder is entitled to receive; and
+
 (c) to be heard at a meeting on any part of the business of the meeting that concerns the auditor.
 
 ### Required attendance
@@ -1820,8 +2075,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Extended examination required by Chief Executive Officer
 
 136 (1) The Chief Executive Officer may, in writing, require that the auditor of a credit union,
+
 (a) report to the Chief Executive Officer on the extent of the auditor’s procedures in the examination of the credit union’s financial statements;
+
 (b) enlarge or extend the scope of that examination; or
+
 (c) perform any other specific procedure.
 
 ### Same
@@ -1859,11 +2117,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Permitted activities
 
 138 Subject to this Act, a credit union shall not engage in or carry on a business or business activity other than the following businesses and business activities:
+
 1. Provide financial services primarily to its members, depositors, subsidiaries and affiliates.
+
 2. Hold and deal with real property.
+
 3. Act as a custodian of property on behalf of its members, depositors, subsidiaries and affiliates.
+
 4. Provide administrative, educational, promotional, technical, research and consultative services to its members, depositors, subsidiaries and affiliates.
+
 5. Make loans to officers and employees of the credit union.
+
 6. Such other businesses and business activities as may be authorized by this Act or prescribed by the Authority rules.
 
 ### Restrictions on Powers
@@ -1903,7 +2167,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Savings
 
 (2) Nothing in this section precludes a credit union from,
+
 (a) requiring insurance to be placed by a member for the security of the credit union; or
+
 (b) obtaining group insurance for its employees, its members or the employees of a subsidiary.
 
 ### Same
@@ -1933,7 +2199,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Guarantees
 
 143 (1) A credit union may not guarantee the payment of money on behalf of another person unless,
+
 (a) it is a fixed sum of money, with or without interest thereon; and
+
 (b) the person has an unqualified obligation to reimburse the credit union for the full amount being guaranteed.
 
 ### Authorization by the Chief Executive Officer
@@ -1969,29 +2237,45 @@ S.O. 2020, c. 36, Sched. 7
 ### Deposits accepted from members, etc.
 
 145 (1) A credit union may accept deposits only from,
+
 (a) its members;
+
 (b) the Authority;
+
 (c) the Crown in right of Canada or of a province;
+
 (d) an agency of the Crown in right of either Canada or of a province;
+
 (e) the government of a foreign country;
+
 (f) a political subdivision or an agency of a government of a foreign country;
+
 (g) municipalities;
+
 (h) crown agencies;
+
 (i) entities directly funded by the federal government, a provincial government or a municipality;
+
 (j) centrals;
+
 (k) subject to any restrictions in the by-laws of the credit union, persons who have not become members of the credit union but whose deposit accounts were acquired by the credit union as a result of the purchase of all or part of the business of another financial institution that is not a credit union; and
+
 (l) other persons or entities approved by the Chief Executive Officer.
 
 ### Authority to accept deposits
 
 (2) A credit union may, without the intervention of another person,
+
 (a) accept a deposit from a person referred to in subsection (1) whether or not the person is qualified by law to enter into contracts; and
+
 (b) pay all or part of the principal of the deposit and all or part of the interest earned on the deposit to or to the order of that person.
 
 ### Exception
 
 (3) Clause (2) (b) does not apply if, before the payment is made, the money deposited with the credit union is claimed by another person,
+
 (a) in an action or proceeding to which the credit union is a party and in respect of which service of a claim or other process originating that action or proceeding has been made on the credit union; or
+
 (b) in an action or proceeding pursuant to which an injunction or order made by the court requiring the credit union not to make payment of that money or to make payment of it to some person other than the depositor has been served on the credit union.
 
 ### Same
@@ -2009,6 +2293,7 @@ S.O. 2020, c. 36, Sched. 7
 ### Definition
 
 (7) In subsection (5),
+
 “RRSPs” means registered retirement savings plans within the meaning of subsection 146 (1) of the Income Tax Act (Canada).
 
 ### Not bound by trust
@@ -2102,8 +2387,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Lending
 
 154 (1) A credit union may loan money,
+
 (a) to its members;
+
 (b) to non-members; and
+
 (c) subject to the requirements prescribed by regulation, by participating in a syndicated loan.
 
 ### Exception — loans acquired by purchase
@@ -2133,9 +2421,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Loan workouts
 
 156 (1) Despite anything in this Part, if a credit union has made a loan and a default has occurred, the credit union may, subject to the agreement between the credit union and entity governing the loan, acquire,
+
 (a) if the entity is a body corporate, all or any of the shares of the body corporate;
+
 (b) if the entity is an unincorporated entity, all or any of the ownership interests in the entity;
+
 (c) all or any of the shares or all or any of the ownership interests in any entity that is an affiliate of the entity; or
+
 (d) all or any of the shares of a body corporate that is primarily engaged in holding shares of, ownership interests in, or assets acquired from, the entity or any of its affiliates.
 
 ### Divestment if not in compliance with investment and lending policies
@@ -2163,10 +2455,15 @@ S.O. 2020, c. 36, Sched. 7
 ### Definition of “cost of borrowing”
 
 158 (1) Subject to subsection (2), in sections 159 to 166,
+
 “cost of borrowing”, for a loan made by a credit union, means,
+
 (a) the interest or discount applicable to the loan,
+
 (b) any amount charged in connection with the loan that is payable by the borrower to the credit union,
+
 (c) any amount charged in connection with the loan that is payable by the borrower to a person other than the credit union, where the amount is chargeable, directly or indirectly, by the person to the credit union, and
+
 (d) any charge prescribed by regulation as included in the cost of borrowing.
 
 ### Same
@@ -2176,9 +2473,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Rebate of borrowing costs
 
 159 (1) This section applies where,
+
 (a) a credit union makes a loan to a natural person;
+
 (b) the loan is not secured by a mortgage on real property;
+
 (c) the loan is required to be repaid either on a fixed future date or by instalments; and
+
 (d) the loan is prepaid in full.
 
 ### Same
@@ -2196,21 +2497,33 @@ S.O. 2020, c. 36, Sched. 7
 ### Same
 
 (2) For the purposes of disclosure required by subsection (1), the cost of borrowing,
+
 (a) shall be calculated on the basis that all obligations of the borrower are duly fulfilled;
+
 (b) shall be calculated in accordance with the regulations;
+
 (c) shall be expressed as a rate per annum; and
+
 (d) where required by the regulations, shall be expressed as an amount in dollars and cents.
 
 ### Additional disclosure — term loans
 
 161 Where a credit union makes a loan to a natural person and the loan is required to be repaid either on a fixed future date or by instalments, the credit union shall disclose the following to the borrower:
+
 1. Whether the borrower has the right to repay the amount borrowed before the maturity of the loan.
+
 2. Any terms and conditions relating to a right described in paragraph 1, including particulars of the circumstances in which the borrower may exercise the right.
+
 3. Whether any portion of the cost of borrowing for the loan is to be rebated to the borrower or any charge or penalty is to be imposed on the borrower, if the borrower exercises a right described in paragraph 1.
+
 4. The manner in which any rebate, charge or penalty referred to in paragraph 3 is to be calculated.
+
 5. Particulars of any charges or penalties to be imposed on the borrower if the borrower fails to repay the amount of the loan at maturity or fails to pay an instalment on the day the instalment is due to be paid.
+
 6. Particulars of any change prescribed by the regulations relating to the loan agreement or the cost of borrowing for the loan.
+
 7. Particulars of any rights or obligations of the borrower prescribed by the regulations for the purposes of this section.
+
 8. Any other information prescribed by the regulations for the purposes of this section.
 
 ### Disclosure in applications for credit cards, etc.
@@ -2220,19 +2533,29 @@ S.O. 2020, c. 36, Sched. 7
 ### Disclosure where credit cards, etc., issued
 
 163 Where a credit union issues a credit card, payment card or charge card to a natural person, the credit union shall disclose the following to the person:
+
 1. Particulars of any charges or penalties to be imposed on the person if the person fails to pay an amount in accordance with the agreement governing the card.
+
 2. Particulars of any charges for which the person becomes responsible by accepting or using the card.
+
 3. Particulars of any change prescribed by the regulations relating to the loan agreement or the cost of borrowing for any loan obtained through the use of the card.
+
 4. Particulars of any rights or obligations of the person prescribed by the regulations for the purposes of this section.
+
 5. Any other information prescribed by the regulations for the purposes of this section.
 
 ### Additional disclosure: loans to which ss. 161 and 163 do not apply
 
 164 (1) Where a credit union enters into an arrangement for the making of a loan to a natural person and neither section 161 nor section 163 apply in respect of the arrangement, the credit union shall disclose the following to the person:
+
 1. Particulars of any charges or penalties to be imposed on the person if the person fails to pay an amount in accordance with the arrangement.
+
 2. Particulars of any charges for which the person becomes responsible by entering the arrangement.
+
 3. Particulars of any change prescribed by the regulations relating to the arrangement or the cost of borrowing under the arrangement.
+
 4. Particulars of any rights or obligations of the person prescribed by the regulations for the purposes of this section.
+
 5. Any other information prescribed by the regulations for the purposes of this section.
 
 ### Interpretation
@@ -2246,7 +2569,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Disclosure in advertising
 
 166 (1) This section applies to an advertisement that,
+
 (a) relates to loans, credit cards, payment cards or charge cards that are offered by a credit union to a natural person or to arrangements to which section 164 applies that are offered by a credit union to a natural person; and
+
 (b) purports to contain information relating to the cost of borrowing or any other matter prescribed by regulation.
 
 ### Same
@@ -2274,7 +2599,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Revocation of approval
 
 (4) The Chief Executive Officer may, by order, revoke its approval if,
+
 (a) the credit union has failed to comply with the conditions and restrictions applicable to the investment; or
+
 (b) Repealed: 2021, c. 40, Sched. 5, s. 14.
 
 ### Effect of revocation
@@ -2324,11 +2651,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Status of investments upon amalgamation, etc.
 
 171 (1) The Chief Executive Officer may authorize the acceptance by a credit union of securities or other assets not fulfilling the requirements of this Act,
+
 (a) obtained under an arrangement made in good faith for the reorganization of a body corporate whose securities were previously owned by the credit union;
+
 (b) obtained under an amalgamation with another body corporate of the body corporate whose securities were previously owned by the credit union;
+
 (c) obtained in good faith for the purpose of protecting investments of the credit union;
+
 (d) obtained by virtue of the purchase by the credit union of the assets of another credit union;
+
 (e) obtained by virtue of realizing on the security for a loan where the security is shares in a body corporate; or
+
 (f) obtained in payment or part payment for securities sold by the credit union.
 
 ### Divestment
@@ -2362,13 +2695,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Objection to investment
 
 (6) A director who is present at a directors’ meeting at which an investment to which the director objects is authorized may,
+
 (a) immediately deliver or send to the credit union a protest against the investment; and
+
 (b) within 30 days after delivering or sending the protest referred to in clause (a), send a copy of the protest to the Chief Executive Officer.
 
 ### Same
 
 (7) A director who is absent from a meeting at which an investment to which the director objects is authorized may,
+
 (a) within 14 days after the director becomes aware of the investment and is able to do so, deliver or send to the credit union a protest against the investment; and
+
 (b) within 30 days after delivering or sending the protest referred to in clause (a), send a copy of the protest to the Chief Executive Officer.
 
 ### Exoneration
@@ -2384,7 +2721,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Purchase or sale of substantial assets
 
 174 (1) A credit union shall not do any of the following unless authorized to do so by special resolution of the members of the credit union:
+
 1. Sell assets if the market value of the assets is 15 per cent or more of the value of the credit union’s total assets.
+
 2. Purchase assets of a financial institution if the market value of the assets is 15 per cent or more of the value of the credit union’s total assets.
 
 ### Alternative for certain sales
@@ -2422,9 +2761,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Purchase price if transaction is between credit unions
 
 (10) In a purchase or sale described in subsection (1) in which both the purchaser and the seller are credit unions, the purchaser may pay the purchase price only in one or more of the following ways:
+
 1. By assuming liabilities of the seller.
+
 2. By paying cash.
+
 3. By issuing shares.
+
 4. By issuing promissory notes.
 
 ### No splitting to avoid requirements
@@ -2492,7 +2835,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Proposals
 
 179 (1) Any member may,
+
 (a) submit notice of any matter that the member proposes to raise at the annual meeting; and
+
 (b) discuss at the annual meeting any matter in respect of which the member would have been entitled to submit a proposal.
 
 ### Same, form and other requirements
@@ -2568,7 +2913,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Dissent of absent director
 
 (3) A director who is not present at a meeting at which a resolution is passed or action is taken shall be deemed to have consented to the resolution or action unless, within seven days after the director becomes aware of the resolution or action, the director,
+
 (a) has the dissent placed in the minutes of the meeting; or
+
 (b) sends the dissent to the credit union.
 
 ### Meeting required by Chief Executive Officer
@@ -2616,7 +2963,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Financial statements of subsidiaries
 
 192 (1) Copies of the latest financial statements of each subsidiary of a credit union,
+
 (a) shall be kept by the credit union at such place in Ontario as is specified in the by-laws; and
+
 (b) shall be open to examination by the members and shareholders of the credit union and their agents.
 
 ### Extracts
@@ -2650,9 +2999,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Branch meeting procedures
 
 (6) If a by-law of a credit union provides for branch or member group meetings, the by-laws of the credit union shall specify,
+
 (a) the number of delegates and votes allowed to each branch and member group at a general meeting of the members of the credit union, as determined on a basis that is reasonable given the number of members in each branch or member group;
+
 (b) the time, place and manner of calling branch and member group meetings;
+
 (c) the number of members of a branch or member group that constitute a quorum; and
+
 (d) the procedure to be followed in the conduct of branch and member group meetings.
 
 ### Majority
@@ -2680,7 +3033,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Setting aside transactions
 
 196 (1) If a transaction with a restricted person that is prohibited or restricted by this Act, the regulations or the Authority rules takes place, any interested person, including the Chief Executive Officer, may apply to the court for an order,
+
 (a) setting aside the transaction and directing that the restricted party account to a credit union for any profit or gain realized; and
+
 (b) that each person who participated in or facilitated the transaction pay to the credit union on a joint and several basis the damages suffered, the face value of the transaction or the amount expended by the credit union in the transaction.
 
 ### Order
@@ -2698,6 +3053,7 @@ S.O. 2020, c. 36, Sched. 7
 ### Interpretation
 
 197 In this Part,
+
 “restricted party” and “transaction” have the meaning given to those expressions in the regulations.
 
 ## Part X Returns, examinations and records
@@ -2751,7 +3107,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Materials to be furnished on examination
 
 (5) For the purposes of an examination,
+
 (a) a credit union or a subsidiary of the credit union shall prepare and submit to the person conducting the examination such statements with respect to its business, finances or other affairs as the person requires; and
+
 (b) the person conducting the examination may require the directors, officers and auditor of a credit union or a subsidiary of the credit union to provide information and explanations, to the extent that they are reasonably able to do so, in respect of the condition and affairs of the credit union or subsidiary and any entity in which the credit union or subsidiary has made an investment.
 
 ### Copies
@@ -2769,15 +3127,21 @@ S.O. 2020, c. 36, Sched. 7
 ### Order to enter and examine premises
 
 (2) A justice of the peace may make an order under this subsection authorizing the Chief Executive Officer or designate, as named in the order, to enter premises, other than a part of a premises that is being used as a dwelling, specified in the order and to exercise any of the powers mentioned in section 201, subject to such restrictions on their exercise as the justice of the peace considers appropriate in the circumstances, if the justice of the peace is satisfied by information under oath that,
+
 (a) the Chief Executive Officer or designate has been prevented from exercising a right of entry to the premises under section 201 or has been prevented from exercising a power described in section 201; or
+
 (b) there are reasonable grounds to believe that the Chief Executive Officer or designate will be prevented from exercising a right of entry to the premises under section 201 or will be prevented from exercising a power described in section 201.
 
 ### Same — dwelling
 
 (3) A justice of the peace may make an order under this subsection authorizing the Chief Executive Officer or designate, as named in the order, to enter a part of a premises that is being used as a dwelling and that is specified in the order and to exercise any of the powers mentioned in section 201, subject to such restrictions on their exercise as the justice of the peace considers appropriate in the circumstances, if the justice of the peace is satisfied by information under oath,
+
 (a) that it is necessary for the Chief Executive Officer or designate to enter that part of the premises in order to carry out an inquiry or examination under section 201; and
+
 (b) that,
+
 (i) the Chief Executive Officer or designate has been prevented from entering that part of the premises under section 201 or has been prevented from exercising a power described in section 201, or
+
 (ii) there are reasonable grounds to believe that the Chief Executive Officer or designate will be prevented from entering that part of the premises under section 201 or will be prevented from exercising a power described in section 201.
 
 ### Use of force
@@ -2807,13 +3171,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Power to summon persons, etc.
 
 201.2 (1) The Chief Executive Officer may issue a summons where the Chief Executive Officer believes that,
+
 (a) it is necessary in order to determine whether a person is complying with this Act or a requirement established under this Act; and
+
 (b) it is, in the circumstances, in the public interest.
 
 ### Same
 
 (2) A summons issued under subsection (1) may require a person,
+
 (a) to produce such documents and things as are specified by the Chief Executive Officer; and
+
 (b) to give such information on oath as the Chief Executive Officer or a person designated by the Chief Executive Officer considers relevant to determining whether a person or entity is complying with a requirement established under this Act.
 
 ### Identification
@@ -2841,9 +3209,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Contents of register
 
 (2) The register shall contain,
+
 (a) the name and address of each member, shareholder or other security holder;
+
 (b) the number of shares of each class held by each member or shareholder and the number and type of the securities held by each of the other security holders;
+
 (c) the date on which the name of any person or entity was entered in the register as a member, shareholder or other security holder; and
+
 (d) the date on which any person or entity ceased to be a member.
 
 ### Certificate as evidence
@@ -2857,7 +3229,9 @@ S.O. 2020, c. 36, Sched. 7
 ### When records or registers are kept outside Ontario
 
 (2) Despite subsection (1), but subject to federal and Ontario tax statutes or any other Act, a credit union may keep all or any of its records at a place outside of Ontario if,
+
 (a) the records are available for inspection, by means of any technology, during regular office hours at the credit union’s head office; and
+
 (b) the credit union provides the technical assistance to facilitate an inspection of the records.
 
 ### Chief Executive Officer’s order re location
@@ -2895,13 +3269,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Chief Executive Officer’s order — general
 
 206 (1) The Chief Executive Officer may make an order under this section against,
+
 (a) any person if, in the Chief Executive Officer’s opinion, the person is doing anything that contravenes this Act, the regulations or the Authority rules or might reasonably be expected, if continued, to result in a contravention of this Act, the regulations or the Authority rules; or
+
 (b) a credit union or a director, officer or employee of a credit union if, in the Chief Executive Officer’s opinion, the credit union, director, officer or employee is doing anything that constitutes a practice that might prejudice or adversely affect the interest of a member, depositor or shareholder of the credit union.
 
 ### What order may require
 
 (2) An order under this section may require a person,
+
 (a) to stop doing any act or pursuing any course of conduct; or
+
 (b) to do any act or pursue any course of conduct.
 
 ### Procedural rules
@@ -2977,8 +3355,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Special procedures if no opportunity to make submissions
 
 (9) The following apply with respect to an order under subsection (8):
+
 1. The person who is subject to the order or any other person affected by the order may request an opportunity to make written submissions by giving written notice to the Chief Executive Officer, within 15 days after the person who is subject to the order received it.
+
 2. If the person who is subject to the order or any other person affected by the order requests an opportunity to make written submissions, the Chief Executive Officer may defer compliance with the order until the submissions have been considered or any appeal is concluded and the order is confirmed, varied or revoked.
+
 3. After considering the submissions, the Chief Executive Officer may confirm, vary or revoke the order.
 
 ### Variation of orders
@@ -3020,8 +3401,11 @@ S.O. 2020, c. 36, Sched. 7
 ### Parties
 
 (7) The parties to the appeal are,
+
 (a) the person appealing the order;
+
 (b) the Chief Executive Officer; and
+
 (c) such other persons as the Tribunal specifies.
 
 ### Power of the Tribunal
@@ -3045,9 +3429,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Objects
 
 (2) The objects of a central are to,
+
 (a) provide services primarily to members;
+
 (b) provide and manage a liquidity system for credit unions;
+
 (c) manage those investments that are held by the central for its members; and
+
 (d) carry out such other objects as may be prescribed by regulation.
 
 ### General restriction
@@ -3089,7 +3477,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Members
 
 217 Subject to any restrictions as may be prescribed by regulation, the following may be members of a central:
+
 1. Credit unions.
+
 2. Entities prescribed by regulation.
 
 ## Part XIII Deposit Insurance
@@ -3103,7 +3493,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Exceptions
 
 (2) The following are not insured:
+
 1. A deposit that is not payable in Canada or not in Canadian currency.
+
 2. The amount of an insurable deposit that exceeds the amount prescribed by regulation.
 
 ### Conditions on deposit insurance
@@ -3129,9 +3521,13 @@ S.O. 2020, c. 36, Sched. 7
 ### Payment for insured deposits
 
 219 (1) The Authority has an obligation to make payment from the Deposit Insurance Reserve Fund in respect of any deposit insured by the Authority if,
+
 (a) the members of the credit union that holds the deposit pass a resolution for the voluntary liquidation and dissolution of the credit union;
+
 (b) the credit union becomes a bankrupt under the Bankruptcy and Insolvency Act (Canada) or a liquidator is appointed for the credit union under this Act or the Winding-Up and Restructuring Act (Canada);
+
 (c) the Authority is satisfied that the credit union will be unable to make payment in full, without delay, in respect of any deposits insured by deposit insurance; or
+
 (d) the Chief Executive Officer, as administrator, requires the credit union to be wound up under subparagraph 6 iii of subsection 234 (1).
 
 ### Payment to person apparently entitled
@@ -3141,7 +3537,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Amount of payment
 
 (3) The Authority may pay,
+
 (a) the amount of the deposit according to the terms of the deposit; or
+
 (b) before maturity of the deposit, an amount equal to the principal of the deposit and the accrued and unpaid interest on the deposit on the day it is paid.
 
 ### Withholding to cover lien
@@ -3187,7 +3585,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Preparatory examination
 
 221 (1) If the Authority believes that a payment by the Authority under this Act in respect of a deposit held by a credit union is imminent and that it is in the best interest of both the depositors with the credit union and the Authority to make early preparations for the payment, the Authority may examine the records and documents of,
+
 (a) the credit union and any of its subsidiaries; and
+
 (b) current and former directors, officers and employees of the credit union and of any of its subsidiaries.
 
 ### Same
@@ -3205,10 +3605,15 @@ S.O. 2020, c. 36, Sched. 7
 ### Cancellation of deposit insurance
 
 222 (1) The deposit insurance of a credit union may be cancelled on not less than 30 days notice to the credit union by the Authority when,
+
 (a) the credit union is in breach of the standards of business and financial practices established by the Authority or any conditions of its deposit insurance;
+
 (b) the credit union ceases to accept deposits;
+
 (c) an order has been made appointing the Chief Executive Officer or another person as the liquidator of the credit union;
+
 (d) the credit union fails to pay its deposit insurance premiums; or
+
 (e) the Authority determines, on reasonable grounds, that the credit union is unable to meet its obligations as they come due.
 
 ### Effect of cancellation
@@ -3244,11 +3649,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Use of the Fund
 
 (2) The Deposit Insurance Reserve Fund may be used to pay only for the following:
+
 1. Deposit insurance claims.
+
 2. The costs associated with the orderly winding up of credit unions in financial difficulty.
+
 3. Financial assistance provided under clause 228 (1) (a).
+
 4. Payments made under clause 228 (1) (b).
+
 5. Assets acquired or liabilities assumed under clause 228 (1) (c).
+
 6. Fees in respect of credit agreements entered into by the Authority to provide financial assistance to the credit union sector.
 
 ### Same
@@ -3270,7 +3681,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Annual premiums
 
 225 (1) Within 120 days after the start of a credit union’s financial year, the Authority shall do the following:
+
 1. Determine the credit union’s annual premium for that financial year in accordance with the regulations.
+
 2. Collect the annual premium determined under paragraph 1.
 
 ### Deposit of premiums
@@ -3292,22 +3705,35 @@ S.O. 2020, c. 36, Sched. 7
 ### Powers of Authority
 
 228 (1) The Authority may, in furtherance of its objects in respect of credit unions, as set out in section 3 of the Financial Services Regulatory Authority of Ontario Act, 2016,
+
 (a) provide, in its discretion, financial assistance for the purpose of,
+
 (i) assisting a credit union under administration in its continued operation, or
+
 (ii) assisting in the orderly winding up of the operations of a credit union;
+
 (b) make an advance or grant for the purpose of paying lawful claims against a credit union in respect of any claims of its members for withdrawal of deposits;
+
 (c) acquire assets or assume the liabilities of credit unions;
+
 (d) with the approval of the Minister, require the payment of special levies by credit unions;
+
 (e) accept powers conferred on it under the Canada Deposit Insurance Corporation Act;
+
 (f) declare and pay premium rebates to credit unions; and
+
 (g) collect or disclose information concerning a credit union.
 
 ### Same
 
 (2) The Authority may attach conditions to financial assistance provided under clause (1) (a) and, without limiting the form in which such financial assistance may be provided, the Authority may provide such financial assistance by,
+
 (a) purchasing securities of a credit union;
+
 (b) making or guaranteeing loans, with or without security, or advances to or deposits with a credit union;
+
 (c) taking security for loans or advances to a credit union; or
+
 (d) guaranteeing the payment of the fees of, and the costs incurred by, a liquidator of a credit union.
 
 ### Subrogation
@@ -3327,10 +3753,15 @@ S.O. 2020, c. 36, Sched. 7
 ### Supervision by Chief Executive Officer
 
 230 (1) The Chief Executive Officer may order that a credit union is subject to the supervision of the Chief Executive Officer in any of the following circumstances:
+
 1. The credit union requests, in writing, that it be subject to supervision.
+
 2. The credit union is in contravention of section 77.
+
 3. The Chief Executive Officer, on reasonable grounds, believes that the credit union is conducting its affairs in a way that might be expected to harm the interests of members or depositors or that tends to increase the risk of claims by depositors against the Authority.
+
 4. The credit union or an officer or director of it does not file, submit or deliver a report or document required to be filed, submitted or delivered under this Act within the time limited under this Act.
+
 5. The credit union has failed to comply with an order of the Chief Executive Officer.
 
 ### Interpretation
@@ -3340,7 +3771,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Release
 
 (3) The credit union remains subject to supervision until,
+
 (a) the credit union is being wound up or placed under administration; or
+
 (b) the Chief Executive Officer rescinds the order that the credit union be subject to supervision.
 
 ### Same
@@ -3362,11 +3795,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Powers when credit union supervised
 
 231 (1) If a credit union is subject to the supervision of the Chief Executive Officer, the Chief Executive Officer may,
+
 (a) order the credit union to correct any practices that the Chief Executive Officer believes are contributing to the problem or situation that caused the credit union to be ordered subject to its supervision;
+
 (b) order the credit union and its directors, committee members, officers and employees to not exercise any powers of the credit union or of its directors, committee members, officers and employees;
+
 (c) establish guidelines for the operation of the credit union;
+
 (d) order the credit union not to declare or pay a dividend or to restrict the amount of a dividend to be paid to a rate or amount set by the Chief Executive Officer;
+
 (e) attend meetings of the credit union’s board and its audit committee; and
+
 (f) propose by-laws for the credit union and amendments to its articles of incorporation.
 
 ### Approval of by-laws, etc.
@@ -3376,7 +3815,9 @@ S.O. 2020, c. 36, Sched. 7
 ### Enforcement
 
 (3) If a credit union fails to comply with an order of the Chief Executive Officer under this section, the Chief Executive Officer may apply to the court for,
+
 (a) an order directing compliance with the Chief Executive Officer’s order; or
+
 (b) such other order as the court considers appropriate.
 
 ### Expenses of Chief Executive Officer
@@ -3388,11 +3829,17 @@ S.O. 2020, c. 36, Sched. 7
 ### Administration by Chief Executive Officer
 
 233 (1) The Chief Executive Officer may order that a credit union is subject to administration by the Chief Executive Officer in any of the following circumstances:
+
 1. The Chief Executive Officer, on reasonable grounds, believes that the credit union is conducting its affairs in a way that might be expected to harm the interests of members, depositors or shareholders or that tends to increase the risk of claims by depositors against the Chief Executive Officer, but that supervision would, in the circumstances, not be appropriate.
+
 2. The credit union has failed to comply with an order of the Chief Executive Officer made while the credit union was subject to the supervision of the Chief Executive Officer.
+
 3. The Chief Executive Officer is of the opinion that the assets of the credit union are not sufficient to give adequate protection to its depositors.
+
 4. The credit union has failed to pay any liability that is due or, in the opinion of the Chief Executive Officer, will not be able to pay its liabilities as they become due.
+
 5. After a general meeting and any adjournment of no more than two weeks, the members of the credit union have failed to elect the minimum number of directors required under section 86.
+
 6. The Chief Executive Officer has made an order under section 207.
 
 ### Procedural rules
@@ -3406,18 +3853,31 @@ S.O. 2020, c. 36, Sched. 7
 ### Administrator’s powers
 
 234 (1) As an administrator, the Chief Executive Officer may exercise the following powers:
+
 1. Carry on, manage and conduct the operations of a credit union.
+
 2. Preserve, maintain, realize, dispose of and add to the property of a credit union.
+
 3. Receive the income and revenues of the credit union.
+
 4. Exercise the powers of the credit union and of the directors, officers and committees.
+
 5. Exclude the directors of the credit union and its officers, committee members, employees and agents from the property and business of the credit union.
+
 6. Require the credit union to,
+
 i. amalgamate, by requiring the credit union to enter into an amalgamation agreement under section 251,
+
 ii. dispose of its assets and liabilities, or
+
 iii. be wound up.
+
 7. Order the credit union to correct any practices that the Chief Executive Officer believes are contributing to the problem or situation that caused the credit union to be ordered subject to administration.
+
 8. Order the credit union and its directors, committee members, officers and employees to not exercise any powers of the credit union or of its directors, committee members, officers and employees.
+
 9. Order the credit union not to declare or pay a dividend or to restrict the amount of a dividend to be paid to a rate or amount set by the Chief Executive Officer.
+
 10. Make a resolution order under section 234.1.
 
 ### Same
@@ -3435,27 +3895,41 @@ iii. be wound up.
 ### Resolution orders
 
 234.1 (1) The Chief Executive Officer may make a resolution order in respect of a credit union that is subject to an order under section 233 if the following conditions are met:
+
 1. The Chief Executive Officer, on reasonable grounds, believes that the risk of failure of the credit union could result in any of the following in Ontario:
+
 i. Risks to the credit union or financial services systems or a part thereof.
+
 ii. Financial risks to credit union members, financial institutions or other financial intermediaries arising from the credit union’s activities as a financial intermediary.
+
 iii. Other adverse consequences to the credit union or financial services sector or a part thereof.
+
 2. The Chief Executive Officer provides the Minister with a copy of the resolution order that the Chief Executive Officer intends to make and the Minister does not object to the order within one business day of receiving it.
 
 ### Types of resolution orders
 
 (2) The following types of resolution orders may be made under this section:
+
 1. A resolution order in respect of contractual and membership matters, as described in subsection (3).
+
 2. A resolution order in respect of proceedings and enforcement, as described in subsection (5).
+
 3. A resolution order in respect of the credit union’s director and executive compensation, as described in subsection (6).
 
 ### Order re contractual and membership matters
 
 (3) If a resolution order described in paragraph 1 of subsection (2) is made, no person may terminate or amend any agreement with the credit union or claim an accelerated payment, or forfeiture of the term, under such an agreement, and no person may terminate the credit union’s membership in an organization for any of the following reasons:
+
 1. The making of an order under section 233.
+
 2. The deteriorated financial position of the credit union.
+
 3. A non-monetary default, before the resolution order was made, under the agreement by the credit union or any of its affiliates that is remedied within 60 days after the day on which the order is made.
+
 4. A monetary default, before the resolution order was made, under the agreement by the credit union or any of its affiliates that is remedied within 60 days after the day on which the order is made.
+
 5. The making of a resolution order under this section or any change of control or ownership of the credit union, or any of its affiliates, that is related to the making of the resolution order.
+
 6. The transfer to or acquisition by a third party of all or part of the assets or liabilities of the credit union or any of its affiliates.
 
 ### Agreements overridden
@@ -3465,17 +3939,25 @@ iii. Other adverse consequences to the credit union or financial services sector
 ### Order re proceedings, enforcement
 
 (5) If a resolution order described in paragraph 2 of subsection (2) is made,
+
 (a) no action or other civil proceeding before a judicial or quasi-judicial body and no arbitration may be commenced or continued against the credit union;
+
 (b) no attachment, execution or enforcement by other methods of a judgment or order against the credit union or its assets may take place or continue;
+
 (c) no creditor of the credit union has any remedy against the credit union or its assets; and
+
 (d) except in the normal course of clearing and settlement processes, including the consolidation of accounts in respect of those processes, no creditor has any right of set-off or compensation against the credit union.
 
 ### Order re executive compensation
 
 (6) If a resolution order described in paragraph 3 of subsection (2) is made, the credit union shall not make the following payments to the credit union’s directors or executives:
+
 1. Any sum paid as a gift or bonus that,
+
 i. was approved by the board before the day the Chief Executive Officer made an administration order under section 233 in respect of the credit union but had not been paid before the day the resolution order was made, and
+
 ii. is dependent on the discretion of the board and is not related to hours, production or efficiency.
+
 2. A payment upon the ending of a director or executive’s employment that is not a standard term in the employment contracts of the credit union’s employees but is a term specifically approved by the board for the employment contract of the director or executive.
 
 ### Non-application, Authority rules
@@ -3493,19 +3975,29 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Eligible financial contracts
 
 (10) Nothing in this section prevents the following actions from being taken in accordance with the provisions of an eligible financial contract:
+
 1. The termination or amendment of the contract.
+
 2. The accelerated payment or forfeiture of the term under the contract.
+
 3. The exercise of remedies for a failure to satisfy an obligation under or in connection with the contract, including the payment of an amount payable or delivery of property deliverable, under or in connection with the contract.
+
 4. The netting or setting off or compensation of an amount payable under or in connection with the contract.
+
 5. Any dealing with financial collateral.
 
 ### Stay — eligible financial contracts
 
 (11) If a resolution order is made under this section, the actions referred to in paragraphs 1, 2 and 5 of subsection (10) shall not be taken by reason only of any of the following:
+
 1. The making of an order under section 233.
+
 2. The deteriorated financial position of the credit union.
+
 3. A non-monetary default, before the resolution order was made, under the agreement by the credit union or any of its affiliates that is remedied within 60 days after the day on which the order is made.
+
 4. The making of a resolution order under this section or any change of control or ownership of the credit union, or any of its affiliates, that is related to the making of the resolution order.
+
 5. The transfer to or acquisition by a third party of all or part of the assets or liabilities of the credit union or any of its affiliates.
 
 ### Stay terminated — notice
@@ -3519,9 +4011,13 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Exception
 
 (14) Subsection (11) does not apply in respect of an eligible financial contract between the credit union and,
+
 (a) the Crown;
+
 (b) a central bank;
+
 (c) a clearing agent, unless the Authority has given the undertaking referred to in subsection (16) in respect of the credit union; or
+
 (d) a clearing house, unless the Authority has given the undertaking referred to in subsection (18) in respect of the credit union.
 
 ### Clearing arrangements
@@ -3535,7 +4031,9 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Clearing house
 
 (17) Subsections (3) to (5) do not apply so as to prevent a clearing house from,
+
 (a) acting or ceasing to act in that capacity for a credit union; or
+
 (b) exercising its rights under its settlement rules, as defined in subsection 8 (5) of the Payment Clearing and Settlement Act (Canada).
 
 ### Exception
@@ -3549,7 +4047,9 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Leave of court
 
 (20) A superior court may, on any terms that it considers proper, grant leave to a person to do anything that the person would otherwise be prevented from doing by this section or lift, or reduce the length of, a stay under this section if the court is satisfied,
+
 (a) the person is likely to be materially prejudiced if leave is not granted; or
+
 (b) that it is equitable on other grounds to grant leave.
 
 ### Authority to be made party
@@ -3567,11 +4067,17 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Definitions
 
 (24) In this section,
+
 “clearing agent” has the same meaning as in subsection 39.15 (9) of the Canada Deposit Insurance Corporation Act; (“agent de compensation”)
+
 “clearing house” means,
+
 (a) a clearing house, as defined in section 2 of the Payment Clearing and Settlement Act (Canada), that provides clearing, settlement or payment message exchange services for a clearing and settlement system designated under section 4 of that Act, or
+
 (b) a securities and derivatives clearing house, as defined in subsection 13.1 (3) of the Payment Clearing and Settlement Act (Canada); (“chambre de compensation”)
+
 “eligible financial contract” has the meaning given to that expression by the Authority rules; (“contrat financier admissible”)
+
 “executive” means any person who holds the office of chief executive officer, president, chief administrative officer, chief operating officer, chief financial officer, chief information officer, chief legal officer, chief human resources officer or chief corporate development officer, or holds any other chief executive position. (“cadre supérieur”)
 
 ### Expenses of the Chief Executive Officer
@@ -3583,6 +4089,7 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Definition
 
 236 In this Part,
+
 “contributory” means a person who is liable to contribute to the property of a credit union being wound up under this Act.
 
 ### Dissolution
@@ -3614,13 +4121,17 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Same
 
 (4) Only the following may be appointed as a liquidator under this section:
+
 1. The Chief Executive Officer.
+
 2. A licensed trustee in bankruptcy.
 
 ### Remuneration and expenses of liquidator
 
 (5) The remuneration of the liquidator and the costs, charges and expenses of the winding up shall be determined in accordance with the following:
+
 1. If the liquidator is the Chief Executive Officer, the remuneration and costs, charges and expenses shall be as set by the Chief Executive Officer as of the day the resolution is passed.
+
 2. If the liquidator is a licensed trustee in bankruptcy, the remuneration and costs, charges and expenses shall be as set out in the appointment of the liquidator.
 
 ### Filing with Chief Executive Officer
@@ -3634,7 +4145,9 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Vacancy in office of liquidator
 
 (8) The following apply if a vacancy occurs, by death, resignation or otherwise, in the office of a liquidator appointed under this section:
+
 1. The members of the credit union, by a majority of the votes cast at a general meeting called for that purpose, may appoint a person to fill the vacancy.
+
 2. If the members fail to appoint a person under paragraph 1, the Chief Executive Officer shall appoint a person to fill the vacancy.
 
 ### Removal of liquidator
@@ -3664,7 +4177,9 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### List of contributories and calls
 
 (15) Upon a voluntary winding-up, the liquidator,
+
 (a) shall settle the list of contributories; and
+
 (b) may, before having ascertained the sufficiency of the property of the credit union, call on any of the contributories for the time being settled on the list of contributories, to the extent of their liability, to pay any sum that the liquidator considers necessary to satisfy the liabilities of the credit union, and the costs, charges and expenses of winding up and for the adjustment of the rights of the contributories among themselves.
 
 ### Same
@@ -3726,9 +4241,13 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Winding up by court order
 
 240 (1) A credit union may be wound up by order of the court if,
+
 (a) the members, by a special resolution passed at a general meeting called for that purpose, authorize an application to be made to the court to wind up the credit union;
+
 (b) proceedings have been started to wind up the credit union voluntarily and it appears to the court that it is in the interest of contributories and creditors that the proceedings should be continued under the supervision of the court;
+
 (c) it is proved to the satisfaction of the court that the credit union, though it may be solvent, cannot by reason of its liabilities continue its business and that it is advisable to wind it up; or
+
 (d) in the opinion of the court it is just and equitable for some reason other than the bankruptcy or insolvency of the credit union that it should be wound up.
 
 ### If more than one class of shares
@@ -3738,8 +4257,11 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Applicants
 
 (3) A winding-up order may be made upon the application of,
+
 (a) the credit union;
+
 (b) if the credit union is being wound up voluntarily, the liquidator or a contributor; or
+
 (c) the Chief Executive Officer.
 
 ### Notice to credit union
@@ -3753,10 +4275,15 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Power of court
 
 (6) The court may,
+
 (a) make the order applied for;
+
 (b) dismiss the application with or without costs;
+
 (c) adjourn the hearing conditionally or unconditionally;
+
 (d) make an interim or such other order as it considers appropriate; or
+
 (e) refer the proceedings for the winding-up to an officer of the court for inquiry and report and authorize the officer to exercise such powers of the court as are necessary for the reference.
 
 ### Appointment of liquidator
@@ -3786,7 +4313,9 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Proceedings in winding-up after order
 
 (13) If a winding-up order has been made by the court, proceedings for the winding up of the credit union must be taken in the same manner and with the like consequences as are provided for a voluntary winding-up, except that,
+
 (a) the list of contributories shall be settled by the court unless it has been settled by the liquidator before the winding-up order; and
+
 (b) all proceedings in the winding-up are subject to the order and direction of the court.
 
 ### Review by court
@@ -3828,10 +4357,15 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Dissolution by Chief Executive Officer
 
 241 (1) The Chief Executive Officer may, by order, dissolve a credit union if the Chief Executive Officer is satisfied that,
+
 (a) its incorporation was obtained by fraud or mistake;
+
 (b) it exists for an illegal purpose;
+
 (c) the number of its members is reduced to fewer than the minimum number of members prescribed by Authority rule;
+
 (d) it is not carrying on business or is not in operation; or
+
 (e) it has contravened this Act, the regulations or the Authority rules.
 
 ### Procedural rules
@@ -3869,8 +4403,11 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Responsibilities of liquidator
 
 244 Upon a winding-up of a credit union,
+
 (a) the liquidator shall apply the property of the credit union in satisfaction of all its debts, obligations and liabilities, and, subject thereto, shall distribute any remaining property rateably among the members or shareholders according to their rights and interests in the credit union;
+
 (b) in distributing the property of the credit union, debts due to the employees of the credit union for services performed due at the commencement of the winding-up or within one month before, not exceeding three months wages and accumulated sickness benefits or vacation pay accrued for not more than twelve months, shall be paid in priority to the claims of the ordinary creditors, and such persons shall rank as ordinary creditors for any additional amount of their claims for wages; and
+
 (c) all the powers of the board of a credit union being wound up cease upon the appointment of a liquidator except to the extent that the liquidator may permit the continuance of these powers for the purpose of assisting the winding-up proceedings.
 
 ### Distribution of property
@@ -3884,19 +4421,33 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Powers of liquidator
 
 247 (1) A liquidator may,
+
 (a) bring or defend any action, suit or prosecution, or other legal proceedings, civil or criminal, in the name and on behalf of the credit union;
+
 (b) carry on the business of the credit union so far as may be necessary for the beneficial winding up of the credit union;
+
 (c) sell the real and personal property of the credit union by public auction or private sale;
+
 (d) borrow money on behalf of the credit union as may be necessary for the winding up of the credit union;
+
 (e) draw, accept, make and endorse any bill of exchange or promissory note in the name and on behalf of the credit union;
+
 (f) raise upon the security of the property of the credit union such money as may be required;
+
 (g) take out in the liquidator’s official name, letters of administration of the estate of any deceased contributory and in that official name, do any other act that may be necessary for obtaining payment of any money due from a contributory or from a contributory’s estate that cannot conveniently be done in the name of the credit union;
+
 (h) do and perform all acts and other things and execute under the corporate seal or otherwise all documents in the name and on behalf of the credit union as may be necessary for winding up the affairs of the credit union and distributing its property;
+
 (i) engage the services of a solicitor to assist in the performance of the liquidator’s duty;
+
 (j) employ an agent to do any business that the liquidator is unable to do directly;
+
 (k) claim and, where necessary, prove any claim against the estate of a contributory for any debt or liability to the credit union;
+
 (l) receive dividends in the distribution of an estate of a contributory in respect of any debt or liability mentioned in clause (k);
+
 (m) compromise all calls, and liabilities to call, debts and liabilities capable of or resulting in debts, and all claims, whether present or future, certain or contingent, liquidated or unliquidated, subsisting or alleged as subsisting between the credit union and any other person; and
+
 (n) do and execute all such other things as are necessary for winding up the affairs of the credit union and distributing its property.
 
 ### Bills of exchange deemed drawn in the course of business
@@ -3906,7 +4457,9 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Where approval required
 
 (3) The liquidator shall not exercise power granted under clause (1) (a), (d), (f), (m) or (n),
+
 (a) in the case of a voluntary winding-up or a liquidator appointed by the Chief Executive Officer under section 241, unless the liquidator has obtained the approval in writing of the Chief Executive Officer; or
+
 (b) in the case of a winding-up by order of the court, unless the liquidator has obtained the approval of the court.
 
 ### Exception
@@ -3932,7 +4485,9 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Disposal of records
 
 (9) If a credit union has been wound up under this Act and is about to be dissolved, the records and documents of the credit union and of the liquidator may be disposed of in such manner as,
+
 (a) the Chief Executive Officer may specify, in the case of voluntary winding up or a liquidator appointed by the Chief Executive Officer under section 241; or
+
 (b) the court may order in the case of winding up under court order.
 
 ### Retention of records by custodian
@@ -3964,15 +4519,25 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Amalgamation agreement
 
 (2) The credit unions proposing to amalgamate must enter into an agreement for the amalgamation prescribing the conditions of the amalgamation, the mode of carrying the amalgamation into effect, and, in particular, the agreement must set out the following:
+
 1. The corporate name of the amalgamated credit union.
+
 2. The limitation on membership in the amalgamated credit union.
+
 3. The name in full, callings and places of residence of the first directors of the amalgamated credit union.
+
 4. The time and manner of election of subsequent directors of the amalgamated credit union.
+
 5. The manner of converting the share capital of each of the amalgamating credit unions into that of the amalgamated credit union.
+
 6. If any membership shares of one of the credit unions are not to be converted into membership shares of the amalgamated credit union, the amount of money or securities that the members are to receive in addition or instead of membership shares of the amalgamated credit union.
+
 7. If any shares of one of the credit unions are not to be converted into shares or other securities of the amalgamated credit union, the amount of money or securities that the holders of the shares are to receive in addition or instead of shares or other securities of the amalgamated credit union.
+
 8. The manner of payment of money instead of the issue of fractional shares of the amalgamated credit union or of any other body corporate that are to be issued in the amalgamation.
+
 9. Such other details as are necessary to perfect the amalgamation and to provide for the subsequent management and operation of the amalgamated credit union.
+
 10. The proposed effective date of the amalgamation.
 
 ### Filing of agreement
@@ -4030,8 +4595,11 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Amalgamation and effects
 
 (16) On and after the effective date of the amalgamation,
+
 (a) the amalgamating credit unions are amalgamated and are continued as one credit union under the corporate name set out in the certificate;
+
 (b) the amalgamated credit union possesses all the property, rights, privileges and franchises and is subject to all the liabilities, contracts, disabilities and debts of each of the amalgamating credit unions; and
+
 (c) the articles of amalgamation shall be deemed to be the articles of incorporation of the amalgamated credit union and the certificate of amalgamation shall be deemed to be the certificate of incorporation of the amalgamated credit union.
 
 ### Notice
@@ -4049,9 +4617,13 @@ ii. is dependent on the discretion of the board and is not related to hours, pro
 ### Application of s. 250
 
 (2) If the Chief Executive Officer requires a credit union under the administration of the Chief Executive Officer to enter into an amalgamation agreement under section 250, the following apply with respect to the application of section 250:
+
 1. The adoption, under subsection 250 (4), of the amalgamation agreement by the members and shareholders of the credit union under administration is not required.
+
 2. The Chief Executive Officer shall not issue a certificate of amalgamation under subsection 250 (14) unless the amalgamation would,
+
 i. protect the interests of the depositors or members of the credit unions being amalgamated, and
+
 ii. promote the financial security and integrity of the amalgamated credit union.
 
 ### Reorganization
@@ -4059,10 +4631,15 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Articles of amendment
 
 252 (1) A credit union may from time to time amend its articles of incorporation to,
+
 (a) limit its business or powers or otherwise vary its business or powers;
+
 (b) change its corporate name; or
+
 (c) add, change or remove any provision that,
+
 (i) is authorized by this Act to be set out in the articles, or
+
 (ii) could be subject to a by-law of the credit union.
 
 ### Authorization
@@ -4072,16 +4649,27 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Class vote
 
 253 (1) The holders of shares of a class or of a series are entitled to vote separately as a class or series on a proposal to amend the articles to,
+
 (a) increase or decrease any maximum number of authorized shares of that class, or increase any maximum number of authorized shares of a class having rights or privileges equal or superior to the shares of that class;
+
 (b) effect an exchange, reclassification or cancellation of all or part of the shares of that class;
+
 (c) add, change or remove the rights, privileges, restrictions or conditions attached to the shares of that class and, without limiting the generality of the foregoing,
+
 (i) prejudicially remove or change rights to accrued dividends or rights to cumulative dividends,
+
 (ii) prejudicially add, remove, or change redemption rights,
+
 (iii) reduce or remove a dividend preference or a liquidation preference, or
+
 (iv) prejudicially add, remove or change conversion privileges, options, voting, transfer or pre-emptive rights, or rights to acquire securities of the credit union;
+
 (d) increase the rights or privileges of any class of shares having rights or privileges equal or superior to the shares of that class;
+
 (e) create a new class of shares equal or superior to the shares of that class;
+
 (f) make any class of shares having rights or privileges inferior to the shares of that class equal or superior to the shares of that class; or
+
 (g) effect an exchange or create a right of exchange of all or part of the shares of another class into the shares of that class.
 
 ### Exception
@@ -4103,16 +4691,23 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Required documentation
 
 254 The credit union must deliver to the Chief Executive Officer, within 60 days after the special resolution has been confirmed by its members and affected shareholders, articles of amendment, signed by two officers, or by one director and one officer, of the credit union and verified by affidavit of one of the officers or directors signing the articles of amendment, setting out,
+
 (a) the corporate name of the credit union;
+
 (b) a certified copy of the special resolution;
+
 (c) that the amendment has been duly confirmed and authorized; and
+
 (d) the date of the confirmation of the special resolution by the members and affected shareholders.
 
 ### Certificate of amendment
 
 255 (1) If the articles of amendment conform to law, the Chief Executive Officer shall, when all fees established by Authority rule have been paid,
+
 (a) endorse on the articles of amendment the word “Filed/Déposé” and the day, month and year of the filing thereof;
+
 (b) file an electronic copy with the Chief Executive Officer’s office; and
+
 (c) issue to the credit union or its agent a certificate of amendment to which the Chief Executive Officer shall affix the original.
 
 ### Effect of certificate
@@ -4126,14 +4721,19 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Filing of restatement
 
 (2) The credit union shall deliver to the Chief Executive Officer the restated articles, signed by two officers, or by one director and one officer, of the credit union and verified by affidavit of one of the officers or directors signing the restated articles, setting out,
+
 (a) all the provisions that are then set out in the original articles of incorporation as amended; and
+
 (b) a statement that the restated articles correctly set out, without change, the corresponding provisions of the original articles as amended.
 
 ### Certificate of restatement
 
 (3) If the restated articles of incorporation conform to law, the Chief Executive Officer shall, when all fees established by Authority rule have been paid,
+
 (a) endorse on the restated articles the word “Filed/Déposé” and the day, month and year of the filing thereof;
+
 (b) file an electronic copy with the Chief Executive Officer’s office; and
+
 (c) issue to the credit union or its agent a restated certificate of incorporation to which the Chief Executive Officer shall affix the original.
 
 ### Effect of certificate
@@ -4169,21 +4769,29 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Effect of certificate
 
 (7) The articles of continuance become effective on the date set out in the certificate of continuance and, as of that date,
+
 (a) the body corporate is continued as a credit union under this Act as though it had been incorporated under this Act;
+
 (b) the articles of continuance are deemed to be the articles of incorporation of the continued credit union; and
+
 (c) the certificate of continuance is deemed to be the certificate of incorporation of the credit union.
 
 ### Copy of certificate to other jurisdiction, etc.
 
 (8) The Chief Executive Officer shall send a copy of the certificate of continuance,
+
 (a) to the appropriate official or public body for the jurisdiction in which the body corporate was incorporated; or
+
 (b) if the body corporate was incorporated under another Ontario Act, to the appropriate official or public body for the other Ontario Act.
 
 ### Rights, liabilities, etc., preserved
 
 (9) If a body corporate is continued as a credit union under this Act,
+
 (a) the credit union possesses all the property, rights, privileges and franchises and is subject to all the liabilities, including civil, criminal and quasi-criminal, and all contracts, disabilities and debts of the body corporate;
+
 (b) a conviction against, or ruling, order or judgment in favour of or against, the body corporate may be enforced by or against the credit union; and
+
 (c) the credit union shall be deemed to be the party plaintiff or the party defendant, as the case may be, in any civil action commenced by or against the body corporate.
 
 ### Notice
@@ -4193,14 +4801,19 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Transition — outstanding debt and assets, etc.
 
 (11) The Chief Executive Officer may, by order, allow a continued credit union to,
+
 (a) have outstanding debt obligations which are not authorized by this Act if the debt obligations were outstanding at the time the application for the certificate of continuance was made, for such period and under such conditions as the Chief Executive Officer may order;
+
 (b) hold assets, including loans, that a credit union is not otherwise permitted by this Act to hold if the assets were held at the time the application for the certificate of continuance was made, for such period and under such conditions as the Chief Executive Officer may order; and
+
 (c) acquire and hold assets, including loans, that a credit union is not otherwise permitted by this Act to acquire or hold if the body corporate continued as the credit union was obliged, at the time the application for the certificate of continuance was made, to acquire those assets, for such period and under such conditions as the Chief Executive Officer may order.
 
 ### Limits on transition period
 
 (12) The following apply with respect to a period mentioned in clause (11) (a), (b) or (c):
+
 1. The period may not exceed the maximum period prescribed by regulation.
+
 2. The Chief Executive Officer may extend the period but only for a further period that does not exceed the maximum extension period prescribed by regulation.
 
 ### Transfer to another jurisdiction
@@ -4222,7 +4835,9 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Issue of certificate of approval
 
 (5) The Chief Executive Officer may, subject to any conditions prescribed by regulation, issue a certificate of approval of continuance if the Chief Executive Officer is satisfied as to the following:
+
 1. If the credit union is to be continued as a deposit-taking institution, the deposits held by the institution will be insured or guaranteed by the Authority or similar entity for the jurisdiction under whose laws the credit union is to be continued.
+
 2. If the credit union is to be continued as a body corporate other than a deposit-taking institution, the body corporate will not hold any deposits when it is continued.
 
 ### Copy of certificate to other jurisdiction
@@ -4284,7 +4899,9 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Penalty
 
 (3) A person who is guilty of an offence referred to in this section is liable,
+
 (a) in the case of an entity, to a fine of not more than $1,000,000; and
+
 (b) in the case of an individual, to a fine of not more than $500,000 or to imprisonment for not more than two years or to both.
 
 ### Order to comply
@@ -4328,7 +4945,9 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Administrative penalties
 
 268 (1) An administrative penalty may be imposed under section 269 for either of the following purposes:
+
 1. To promote compliance with the requirements established under this Act.
+
 2. To prevent a person or entity from deriving, directly or indirectly, any economic benefit as a result of contravening a provision of this Act, the regulations or the Authority rules.
 
 ### Same
@@ -4358,6 +4977,7 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Hearing not requested
 
 (6) If the person or entity does not request a hearing or does not make the request in accordance with subsection (4), the Chief Executive Officer may carry out the proposal.
+
 (7) Repealed: 2024, c. 20, Sched. 5, s. 12.
 
 ### Effect of paying penalty
@@ -4367,7 +4987,9 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Maximum administrative penalties
 
 271 An administrative penalty imposed under section 269 shall not exceed the following amounts:
+
 1. In the case of an entity, $500,000.
+
 2. In the case of an individual, $100,000.
 
 ### Enforcement of administrative penalties
@@ -4407,14 +5029,19 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Registration of credit unions to participate in syndicated loans
 
 (6) The Chief Executive Officer may, subject to any conditions prescribed by regulation,
+
 (a) register a credit union in the Extra-Provincial Credit Unions Register for the purpose of allowing the credit union to participate in syndicated loans under this Act, even if no agreement under subsection (1) applies to the credit union; or
+
 (b) cancel the registration.
 
 ### Special rules for credit unions registered under subs. (4) or (6) (a)
 
 (7) The following apply with respect to a credit union registered under subsection (4) or clause (6) (a):
+
 1. References to a credit union in the Loan and Trust Corporations Act and such other statutes and regulations as may be prescribed by regulation shall be deemed to include a credit union registered under subsection (4) or clause (6) (a).
+
 2. The credit union shall comply with any regulations governing the conduct of credit unions registered under this section.
+
 3. This Act shall not apply with respect to the credit union, except as provided in the regulations.
 
 ### Review
@@ -4460,10 +5087,15 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Delivery of certain documents
 
 (2) Delivery of any written notice or document for any purpose of this Act may be made by mail,
+
 (a) in the case of a credit union, addressed to it at its principal place of business;
+
 (b) in the case of a director, addressed to the director at the director’s address as shown on the records of the Authority;
+
 (c) in the case of the Chief Executive Officer, addressed to the Chief Executive Officer at the Chief Executive Officer’s office;
+
 (d) in the case of the Authority, addressed to the Authority at its office; or
+
 (e) in the case of a member, addressed to the member at the member’s address as shown in the records of the credit union or by personal delivery to the member at the member’s place of employment.
 
 ## Part xviii Regulations, rules, forms and fees
@@ -4473,42 +5105,79 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Regulations, general
 
 277 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) respecting any matter in respect of which the Authority may make Authority rules under section 285, with necessary modifications;
+
 (b) governing credit unions and centrals of credit unions;
+
 (c) governing the operations and powers of branches of credit unions;
+
 (d) defining, for the purposes of this Act and the regulations, any word or expression used in this Act that is not defined in this Act;
+
 (e) prescribing any matter that, under this Act, is permitted or required to be prescribed or to be otherwise done by regulation or in accordance with the regulations;
+
 (e.1) authorizing the Chief Executive Officer to require a credit union, a director of a credit union or the board of a credit union to provide information or do a specified thing;
+
 (e.2) authorizing the Chief Executive Officer to provide approvals or authorizations;
+
 (f) defining the interests of a credit union in real property and determining the method of valuing those interests;
+
 (g) respecting the relations between credit unions and,
+
 (i) entities that undertake the business of insurance, and
+
 (ii) insurance agents or insurance brokers;
+
 (h) respecting networking arrangements between credit unions and other persons providing products or services to credit unions or its members;
+
 (h.1) governing the limit on the number of membership shares that may be issued to a member of the credit union;
+
 (i) prohibiting or restricting networking arrangements;
+
 (j) governing the conduct of credit unions in networking arrangements;
+
 (k) respecting the management of risk in making loans and investments and in the general management of a credit union’s business;
+
 (l) prohibiting or restricting the sale by credit unions of a product or service on condition that another product or service is acquired from any person;
+
 (m) respecting the protection of members of credit unions and of the public in their dealings with credit unions including the regulating of representations that may be made by credit unions;
+
 (n) prescribing procedures to be followed by credit unions in dealing with consumer complaints by members or depositors;
+
 (o) setting out limits or restrictions, for the purposes of section 85, respecting the chief executive officer of a credit union acting as a director of the credit union;
+
 (o.1) providing for the removal of directors by the members of a credit union;
+
 (o.2) prescribing matters that shall or may be provided for in the by-laws of a credit union;
+
 (p) prescribing requirements for gender diversity reports under section 103;
+
 (p.1) governing information to be provided by auditors to the Chief Executive Officer;
+
 (q) respecting the retention, in Canada, of assets of a credit union;
+
 (r) requiring the disclosure to depositors of the rate of interest on their accounts and the manner of calculating and paying the interest;
+
 (s) requiring the bonding of and insurance coverage for directors, officers, agents and employees of the credit union and of property of or held by the credit union;
+
 (s.1) prescribing persons who are not eligible to be appointed as a receiver, a receiver and manager or a liquidator of a credit union;
+
 (s.2) governing the duties of auditors present at meetings of members or shareholders;
+
 (t) prescribing and regulating aggregate and individual lending limits for credit unions and methods of calculating limits for the purposes of subsection 155 (1);
+
 (u) prescribing the type and value of security that a credit union must have before making a loan and the method for valuing such security;
+
 (v) prescribing matters to be shown in financial statements under subsection 177 (1) and the periods to which those matters relate;
+
 (w) prescribing the discretionary authorities that may be conferred in proxies and excluding the application of similar provisions in regulations made under Part VIII of the Business Corporations Act;
+
 (x) governing transactions between a credit union or subsidiary and a restricted party for the purposes of Part IX;
+
 (y) respecting the books, registers and other records and documents to be kept and maintained by credit unions for the purposes of subsection 203 (1) and the length of time they are to be retained;
+
 (z) authorizing the Authority to provide services prescribed by the regulations that are ancillary, complementary or similar to services it performs to persons, bodies or classes of persons or bodies prescribed by the regulations, and governing the provision of those services;
+
 (z.1) governing credit unions registered under section 273, including providing for provisions of this Act to apply to such credit unions with such modifications as may be specified in the regulations.
 
 ### Same
@@ -4518,39 +5187,65 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Regulations, offering statements
 
 278 The Lieutenant Governor in Council may make regulations,
+
 (a) specifying the financial statements, reports and other documents that are to be included with an offering statement;
+
 (b) respecting the disclosure of material facts in relation to securities to be distributed;
+
 (c) respecting the distribution of an offering statement;
+
 (d) exempting any class of distributions from the application of sections 68 to 75;
+
 (e) generally, for carrying out the purposes of sections 67 to 75.
 
 ### Regulations, capital adequacy
 
 279 The Lieutenant Governor may make regulations,
+
 (a) adopting by reference any code, standard or guideline in respect of capital adequacy requirements;
+
 (b) requiring compliance with any regulation, administrative directive, or prescribed requirement, code standard or guideline in respect of capital adequacy.
 
 ### Regulations, cost of borrowing
 
 280 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing, for the purposes of section 158, charges that are included in the cost of borrowing and charges that are excluded;
+
 (b) governing rebates to be made under section 159;
+
 (c) prescribing information other than the cost of borrowing that must be disclosed under section 160;
+
 (d) prescribing the manner of calculating the cost of borrowing for the purposes of section 160;
+
 (e) prescribing the circumstances in which the cost of borrowing must be expressed as an amount in dollars and cents for the purposes of section 160;
+
 (f) prescribing the manner of calculating any rebate referred to in paragraph 4 of section 161;
+
 (g) prescribing changes for the purposes of paragraph 6 of section 161, paragraph 3 of section 163 and paragraph 3 of subsection 164 (1);
+
 (h) prescribing rights and obligations of borrowers for the purposes of paragraph 7 of section 161, paragraph 4 of section 163 and paragraph 4 of subsection 164 (1);
+
 (i) prescribing information that must be disclosed under paragraph 8 of section 161, paragraph 5 of section 163 and paragraph 5 of subsection 164 (1);
+
 (j) prescribing information for the purposes of section 162;
+
 (k) prescribing information for the purposes of section 165;
+
 (l) prescribing matters for the purposes of clause 166 (1) (b) and respecting the form, manner and content of advertisements for the purposes of subsection 166 (2);
+
 (m) prescribing the time, manner and form of any disclosure required under sections 160 to 166;
+
 (n) prescribing classes of loans in respect of which some or all of the requirements of sections 159 to 166 do not apply;
+
 (o) prohibiting the imposition of any charge or penalty referred to in section 161, 163 or 164;
+
 (p) governing the nature and amount of any charge or penalty referred to in section 161, 163 or 164 that may be imposed by a credit union, including but not limited to,
+
 (i) regulations providing that such a charge or penalty shall not exceed an amount prescribed in the regulation, and
+
 (ii) regulations respecting the costs of the credit union that may be included or must be excluded in the determination of the charge or penalty;
+
 (q) respecting any other matter or thing that is necessary to carry out the purposes of sections 159 to 166.
 
 ### Same
@@ -4580,13 +5275,21 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Same
 
 (2) Without limiting the generality of subsection (1), a regulation governing administrative penalties may,
+
 (a) prescribe criteria the Chief Executive Officer is required or permitted to consider when imposing a penalty under section 269;
+
 (b) authorize the Chief Executive Officer to determine the amount of a penalty, if the amount of the penalty is not prescribed, and prescribe criteria the Chief Executive Officer is required or permitted to consider when determining the amount of the penalty;
+
 (c) establish different penalties or ranges of penalties for different types of contraventions and for different classes of persons and entities;
+
 (d) authorize a penalty to be imposed for each day or part of a day on which a contravention continues;
+
 (e) authorize higher penalties for a second or subsequent contravention by a person or entity;
+
 (f) require that the penalty be paid before a specified deadline or before a deadline specified by the Chief Executive Officer;
+
 (g) authorize the imposition of late payment fees respecting penalties that are not paid before the deadline, including graduated late payment fees;
+
 (h) establish a maximum cumulative penalty payable in respect of a contravention or in respect of contraventions during a specified period.
 
 ### Incorporation by reference
@@ -4608,66 +5311,127 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Authority rules
 
 285 (1) The Authority may make rules in respect of the following matters:
+
 1. Establishing standards of sound business and financial practices for credit unions.
+
 2. Establishing any fee described in this Act as being established by Authority rule.
+
 3. Respecting the holding of first meetings, the notice calling the meeting, the quorum, and the business to be transacted.
+
 4. Prescribing the number of individuals required to incorporate a credit union under section 10.
+
 5. Prescribing information for the purposes of subsection 12 (1).
+
 6. Specifying the date on which the financial year of a credit union ends for the purposes of section 27.
+
 7. Governing membership in a credit union for the purposes of Part III.
+
 8. Governing the withdrawal of members from credit unions for the purposes of section 40.
+
 9. Governing the expulsion of members from credit unions for the purposes of section 41.
+
 10. Regulating the maintenance, by credit unions, of adequate and appropriate forms of capital and liquidity.
+
 11. Respecting regulatory capital and the total assets of a credit union.
+
 12. Prescribing phase-in periods for capital adequacy requirements based on a graduated scale.
+
 13. Prescribing classes of subsidiaries whose shares may be included in a credit union’s regulatory capital.
+
 14. Governing transactions between a credit union or a subsidiary and a restricted party.
+
 14.1 Governing, for the purposes of section 82.1, the monthly provision for doubtful loans and the establishment of reserves.
+
 15. Prescribing individuals who are disqualified from being directors of credit unions for the purposes of section 84.
+
 16. Prescribing the minimum number of directors that a credit union must have for the purposes of section 86.
+
 17. Governing the election of directors for the purposes of section 87.
+
 18. Governing the composition of boards for the purposes of section 88.
+
 19. Governing the terms of office of directors for the purposes of section 89.
+
 20. Governing quorum for the purposes of section 90.
+
 21. Governing the filling of board vacancies for the purposes of section 91.
+
 22. Prescribing circumstances for the purposes of section 92.
+
 23. Governing the removal of directors for the purposes of section 93.
+
 24. Governing the resignation of directors for the purposes of section 95.
+
 25. Governing the remuneration of directors for the purposes of section 99.
+
 26. Governing the establishment of committees and the delegation of powers and assignment of duties to committees for the purposes of section 101.
+
 27. Prescribing the powers and duties of audit committees for the purposes of subsection 104 (2).
+
 28. Governing the officers of credit unions and the power and duties of those officers for the purposes of section 105.
+
 29. Establishing the procedures for setting, paying and disclosing the remuneration and expenses of officers for the purposes of section 106.
+
 30. Governing bonds for the purposes of subsection 117 (2).
+
 31. Governing the appointment of auditors and prescribing the required qualifications of auditors for the purposes of section 125.
+
 32. Governing the removal of auditors for the purposes of section 126.
+
 33. Governing the resignation of auditors for the purposes of section 128.
+
 34. Governing the replacement of auditors for the purposes of section 129.
+
 35. Establishing the procedures for setting, paying and disclosing the remuneration of auditors for the purposes of section 130.
+
 36. Prescribing information for the purposes of subsection 137 (2).
+
 37. Governing the transmission of auditors’ reports for the purposes of subsection 137 (2).
+
 38. Prescribing businesses and business activities for the purposes of section 138.
+
 39. Authorizing the dealing in goods or engaging in trade or business for the purposes of subsection 139 (1).
+
 40. Governing requests for approvals and approvals for the purposes of subsection 139 (3).
+
 41. Prescribing services as prohibited for the purposes of subsection 139 (4).
+
 42. Prescribing persons and entities for the purposes of subsection 139 (5).
+
 43. Governing the extent to which a credit union may undertake the business of insurance or act as an agent for any person in placing insurance for the purposes of section 141.
+
 44. Permitting credit unions to undertake fiduciary activities for the purposes of section 142.
+
 46. Governing the restrictions on borrowing for the purposes of subsection 148 (2).
+
 47. Prescribing the meaning of “borrow” for the purposes of subsection 148 (3).
+
 48. Governing security interests in property for the purposes of section 149.
+
 49. Prescribing types of securities or property and prescribing conditions for the purposes of section 167.
+
 50. Governing meeting notices for the purposes of section 175.
+
 51. Governing annual meetings of credit unions for the purposes of section 176.
+
 52. Governing proposals for the purposes of section 179.
+
 53. Prescribing manners of voting for the purposes of section 182.
+
 54. Prescribing requirements for remote members’ meetings by-laws under section 185.
+
 55. Prescribing requirements for remote directors’ meetings by-laws under section 186.
+
 56. Prescribing information for the purposes of section 191 and establishing limitations or restrictions with respect to the use of that information.
+
 57. Prescribing conditions for the purposes of subsection 218 (3).
+
 57.1 Defining “eligible financial contract” for the purposes of section 234.1.
+
 58. Authorizing, controlling and requiring the use by credit unions of marks, signs, advertisements or devices indicating that deposits with credit unions are insured by the Authority.
+
 59. Prescribing a minimum number of members for the purposes of clause 241 (1) (c).
+
 60. Respecting the procedure to be followed in a winding-up for the purposes of subsection 247 (11).
 
 ### Legislation Act, 2006
@@ -4713,12 +5477,17 @@ ii. promote the financial security and integrity of the amalgamated credit union
 ### Fees
 
 290 The Minister may make regulations governing fees under this Act, including,
+
 (a) requiring the payment of fees in relation to any matter under this Act, including any services provided by or through the Ministry of Finance;
+
 (b) prescribing the amount of fees or the manner of determining fees;
+
 (c) prescribing the manner in which and the period within which fees must be paid.
 
 ### Part XIX (OMITTED)
 
 291-339 Omitted (amends, repeals or revokes other legislation).
+
 340 Omitted (provides for coming into force of provisions of this Act).
+
 341 Omitted (enacts short title of this Act).

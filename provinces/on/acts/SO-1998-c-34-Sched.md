@@ -6,36 +6,50 @@ language: en
 type: act
 document_date: "2024-05-16"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98e34"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Estate Administration Tax Act, 1998
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98e34) before relying on it.
 
 S.O. 1998, c. 34, Sched.
 
 ### Definitions
 
 1 (1) In this Act,
+
 “estate certificate” means,
+
 (a) a grant of probate, administration or testamentary guardianship by the Ontario Court (General Division) or the Surrogate Court made before January 1, 1995, but not a grant of double probate, a cessate grant or a grant of administration de bonis non administratis by either of those courts before that date,
+
 (b) a certificate of appointment of estate trustee issued by the Ontario Court (General Division) or the Superior Court of Justice after December 31, 1994, including a small estate certificate or an amended small estate certificate but not a certificate of succeeding estate trustee or a certificate of estate trustee during litigation issued by that court after that date; (“certificat successoral”)
+
 “estate representative” includes, with respect to the estate of a deceased person,
+
 (a) an executor or administrator of the estate,
+
 (b) a person entitled to act in the capacity of executor or administrator of the estate,
+
 (c) a person appointed as guardian of a person who is a beneficiary of the estate of the deceased person or as guardian of the beneficiary’s property,
+
 (d) an estate trustee,
+
 (e) an estate trustee with a will, and
+
 (f) an estate trustee without a will; (“représentant successoral”)
+
 “value of the estate” means the value which is required to be disclosed under section 32 of the Estates Act (or a predecessor thereof) of all the property that belonged to the deceased person at the time of his or her death less the actual value of any encumbrance on real property that is included in the property of the deceased person. (“valeur de la succession”)
 
 ### Interpretation re Retail Sales Tax Act
 
 (2) Any provision of the Retail Sales Tax Act that applies for the purposes of this Act shall be read as though,
+
 (a) the tax payable by a purchaser under that Act is the tax payable by an estate under this Act;
+
 (b) an amount to be remitted by a vendor under that Act is an amount payable by an estate representative under this Act; and
+
 (c) references to a “person” in that Act were read as including an estate.
 
 ### Tax on estate
@@ -45,7 +59,9 @@ S.O. 1998, c. 34, Sched.
 ### Exemption
 
 (2) An estate is exempt from tax under this Act if,
+
 (a) the value of the estate does not exceed $1,000 and the application for an estate certificate in respect of the estate is made before January 1, 2020; or
+
 (b) the value of the estate does not exceed $50,000 and the application for an estate certificate in respect of the estate is made on or after January 1, 2020.
 
 ### Amount, certificate sought before May 12, 1960
@@ -63,7 +79,9 @@ S.O. 1998, c. 34, Sched.
 ### Amount, certificate sought after June 7, 1992
 
 (6) The amount of tax payable upon the issuance of an estate certificate for which application is made after June 7, 1992 and before January 1, 2020 is,
+
 (a) five dollars for each $1,000 or part thereof of the first $50,000 of the value of the estate; and
+
 (b) fifteen dollars for each $1,000 or part thereof by which the value of the estate exceeds $50,000.
 
 ### Amount, certificate sought on or after January 1, 2020
@@ -113,14 +131,19 @@ S.O. 1998, c. 34, Sched.
 ### Same
 
 (2) The estate certificate shall not be issued before the deposit required by section 3 is made unless a judge is satisfied, based upon the applicant’s affidavit and upon such other material as the judge may require,
+
 (a) that the estate certificate is urgently required;
+
 (b) that financial hardship would result from not issuing the estate certificate before the deposit is made; and
+
 (c) that sufficient security for the payment of the tax under this Act has been furnished to the court.
 
 ### Restriction, deposit based on estimate
 
 (3) If the amount of the deposit is based upon an estimated value, the estate certificate shall not be issued until the applicant for the certificate gives the court a signed undertaking that the applicant will, within six months after giving the undertaking,
+
 (a) file a sworn statement of the actual total value of the estate; and
+
 (b) pay any additional tax payable under this Act if the actual value is higher than the estimated value.
 
 ### Undertaking not fulfilled
@@ -164,20 +187,27 @@ S.O. 1998, c. 34, Sched.
 ### Exceptions
 
 (2) The Minister may, at any time he or she considers reasonable, assess or reassess an estate’s tax payable if the Minister establishes,
+
 (a) that any person failed to comply with section 4.1; or
+
 (b) that any person made a misrepresentation that is attributable to neglect, carelessness or wilful default, or has committed any fraud in supplying any information regarding an estate or in omitting to disclose any information regarding the estate.
 
 ### Refunds
 
 4.5.1 (1) The Minister of Revenue shall refund any overpayment of tax paid by an estate under this Act if,
+
 (a) the estate representative has given the information required by section 4.1 to the Minister within four years after the issuance of the estate certificate;
+
 (b) the Minister has confirmed that there has been an overpayment of tax paid under this Act; and
+
 (c) the Minister has received a written request for the refund during any of the time periods that relate to the estate as described in subsection (2).
 
 ### Time periods
 
 (2) The following are the time periods that relate to an estate referred to in clause (1) (c):
+
 1. The time period that begins on the day that the estate certificate for the estate is issued and ends 12 years after that day.
+
 2. The time period that begins on the date of any notice of assessment of the estate under section 4.2 or reassessment of the estate under section 4.4 and ends two years after that day.
 
 ### Objections and appeals
@@ -207,8 +237,11 @@ S.O. 1998, c. 34, Sched.
 ### Exception
 
 (2) For any of the following purposes, the Minister of Revenue and any person employed by the Crown who is engaged in, directly or indirectly, the administration or enforcement of this Act or in the development and evaluation of tax policy for the Crown may communicate information or material obtained in the course of his or her duties, or allow it to be communicated, to another person employed by the Crown or may receive information and material in the course of his or her duties from another person employed by the Crown:
+
 1. For use in developing or evaluating tax policy for the Crown.
+
 2. For use in developing or evaluating a program that confers a benefit.
+
 3. For use in the administration or enforcement of an Act that imposes a tax or confers a benefit.
 
 ### Records
@@ -248,8 +281,11 @@ S.O. 1998, c. 34, Sched.
 ### Penalty
 
 (4) Every person who is guilty of an offence under subsection (1) or (2) is liable on conviction,
+
 (a) to a fine equal to an amount that is at least $1,000, but does not exceed twice the amount of tax payable by the estate if that amount is greater than $1,000;
+
 (b) to imprisonment for a term of not more than two years; or
+
 (c) to both clauses (a) and (b).
 
 ### Offence, confidentiality
@@ -259,9 +295,13 @@ S.O. 1998, c. 34, Sched.
 ### Regulations
 
 6 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) exempting an estate from the payment of all or part of the tax under this Act on the basis of the value of the estate or on such other basis as the Lieutenant Governor in Council considers appropriate;
+
 (b) providing for the refund of all or part of the tax payable by an estate under this Act and providing for the manner of applying for a refund;
+
 (c) prescribing procedures to be followed and information or evidence to be given to any person by a person applying for an estate certificate, for the purpose of establishing the value of the estate; and
+
 (d) providing for such administrative and procedural matters as are considered necessary or advisable to carry out the intent and purpose of this Act.
 
 ### Scope of regulations
@@ -287,5 +327,7 @@ S.O. 1998, c. 34, Sched.
 ### Fees
 
 (3) Amounts paid before the Tax Credits and Revenue Protection Act, 1998 receives Royal Assent as fees for the issuance of an estate certificate under the Administration of Justice Act or under the Surrogate Courts Act for an estate shall be applied to discharge the estate’s liability for tax under this Act.
+
 8 Omitted (provides for coming into force of provisions of this Act).
+
 9 Omitted (enacts short title of this Act).

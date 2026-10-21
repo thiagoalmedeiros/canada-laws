@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-12-04"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02l24"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Limitations Act, 2002
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02l24) before relying on it.
 
 S.O. 2002, c. 24, Sched. B
 
@@ -21,23 +21,37 @@ S.O. 2002, c. 24, Sched. B
 ### Definitions
 
 1 In this Act,
+
 “adverse effect” has the same meaning as in the Environmental Protection Act; (“conséquence préjudiciable”)
+
 “assault” includes a battery; (“voies de fait”)
+
 “claim” means a claim to remedy an injury, loss or damage that occurred as a result of an act or omission; (“réclamation”)
+
 “contaminant” has the same meaning as in the Environmental Protection Act; (“contaminant”)
+
 “discharge” has the same meaning as in the Environmental Protection Act; (“rejet”, “rejeter”)
+
 “environmental claim” means a claim based on an act or omission that caused, contributed to, or permitted the discharge of a contaminant into the natural environment that has caused or is likely to cause an adverse effect; (“réclamation relative à l’environnement”)
+
 “natural environment” has the same meaning as in the Environmental Protection Act. (“environnement naturel”)
 
 ### Application
 
 2 (1) This Act applies to claims pursued in court proceedings other than,
+
 (a) proceedings to which the Real Property Limitations Act applies;
+
 (b) proceedings in the nature of an appeal, if the time for commencing them is governed by an Act or rule of court;
+
 (c) proceedings under the Judicial Review Procedure Act;
+
 (d) proceedings to which the Provincial Offences Act applies;
+
 (e) proceedings based on the existing aboriginal and treaty rights of the aboriginal peoples of Canada which are recognized and affirmed in section 35 of the Constitution Act, 1982;
+
 (f) proceedings based on equitable claims by aboriginal peoples against the Crown; and
+
 (g) proceedings to which the Limitation Convention or the Amended Limitation Convention, as defined in the International Sales Conventions Act, applies.
 
 ### Exception, aboriginal rights
@@ -57,11 +71,17 @@ S.O. 2002, c. 24, Sched. B
 ### Discovery
 
 5 (1) A claim is discovered on the earlier of,
+
 (a) the day on which the person with the claim first knew,
+
 (i) that the injury, loss or damage had occurred,
+
 (ii) that the injury, loss or damage was caused by or contributed to by an act or omission,
+
 (iii) that the act or omission was that of the person against whom the claim is made, and
+
 (iv) that, having regard to the nature of the injury, loss or damage, a proceeding would be an appropriate means to seek to remedy it; and
+
 (b) the day on which a reasonable person with the abilities and in the circumstances of the person with the claim first ought to have known of the matters referred to in clause (a).
 
 ### Presumption
@@ -79,13 +99,17 @@ S.O. 2002, c. 24, Sched. B
 ### Minors
 
 6 The limitation period established by section 4 does not run during any time in which the person with the claim,
+
 (a) is a minor; and
+
 (b) is not represented by a litigation guardian in relation to the claim.
 
 ### Incapable persons
 
 7 (1) The limitation period established by section 4 does not run during any time in which the person with the claim,
+
 (a) is incapable of commencing a proceeding in respect of the claim because of his or her physical, mental or psychological condition; and
+
 (b) is not represented by a litigation guardian in relation to the claim.
 
 ### Presumption
@@ -95,6 +119,7 @@ S.O. 2002, c. 24, Sched. B
 ### Extension
 
 (3) If the running of a limitation period is postponed or suspended under this section and the period has less than six months to run when the postponement or suspension ends, the period is extended to include the day that is six months after the day on which the postponement or suspension ends.
+
 (4) Repealed: 2016, c. 2, Sched. 2, s. 1.
 
 ### Litigation guardians
@@ -106,7 +131,9 @@ S.O. 2002, c. 24, Sched. B
 ### Definitions
 
 9 (1) In this section,
+
 “potential defendant” means a person against whom another person may have a claim but against whom the other person has not commenced a proceeding in respect of the claim; (“défendeur éventuel”)
+
 “potential plaintiff” means a person who may have a claim against another person but has not commenced a proceeding against that person in respect of the claim. (“demandeur éventuel”)
 
 ### Appointment of litigation guardian on application or motion by potential defendant
@@ -116,35 +143,53 @@ S.O. 2002, c. 24, Sched. B
 ### Effect of appointment
 
 (3) Subject to subsection (4), the appointment of a litigation guardian ends the postponement or suspension of the running of the limitation period if the following conditions are met:
+
 1. The appointment is made by a judge on the application or motion of a potential defendant.
+
 2. The judge is satisfied that the litigation guardian,
+
 i. has been served with the motion,
+
 ii. has consented to the appointment in writing, or in person before the judge,
+
 iii. in connection with the claim, knows of the matters referred to in clause 5 (1) (a),
+
 iv. does not have an interest adverse to that of the potential plaintiff, and
+
 v. agrees to attend to the potential plaintiff’s interests diligently and to take all necessary steps for their protection, including the commencement of a claim if appropriate.
 
 ### Non-expiry
 
 (4) The limitation period shall be deemed not to expire against the potential plaintiff until the later of,
+
 (a) the date that is six months after the potential defendant files, with proof of service on the litigation guardian,
+
 (i) a notice that complies with subsection (5), and
+
 (ii) a declaration that, on the filing date, the potential defendant is not aware of any proceeding by the litigation guardian against the potential defendant in respect of the claim; and
+
 (b) the date on which the limitation period would otherwise expire after it resumes running under subsection (3).
 
 ### Notice
 
 (5) The notice,
+
 (a) shall not be served before the first anniversary of the appointment;
+
 (b) shall identify the potential plaintiff, the potential defendant and the claim; and
+
 (c) shall indicate that the claim could be extinguished if a proceeding is not promptly commenced.
+
 10 Repealed: 2016, c. 2, Sched. 2, s. 2.
 
 ### Attempted resolution
 
 11 (1) If a person with a claim and a person against whom the claim is made have agreed to have an independent third party resolve the claim or assist them in resolving it, the limitation periods established by sections 4 and 15 do not run from the date the agreement is made until,
+
 (a) the date the claim is resolved;
+
 (b) the date the attempted resolution process is terminated; or
+
 (c) the date a party terminates or withdraws from the agreement.
 
 ### Same
@@ -154,13 +199,17 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Successors
 
 12 (1) For the purpose of clause 5 (1) (a), in the case of a proceeding commenced by a person claiming through a predecessor in right, title or interest, the person shall be deemed to have knowledge of the matters referred to in that clause on the earlier of the following:
+
 1. The day the predecessor first knew or ought to have known of those matters.
+
 2. The day the person claiming first knew or ought to have known of them.
 
 ### Principals and agents
 
 (2) For the purpose of clause 5 (1) (a), in the case of a proceeding commenced by a principal, if the agent had a duty to communicate knowledge of the matters referred to in that clause to the principal, the principal shall be deemed to have knowledge of the matters referred to in that clause on the earlier of the following:
+
 1. The day the agent first knew or ought to have known of those matters.
+
 2. The day the principal first knew or ought to have known of them.
 
 ### Same
@@ -218,10 +267,15 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Contents
 
 (2) A notice of possible claim shall be in writing and signed by the person issuing it or that person’s lawyer, and shall,
+
 (a) describe the injury, loss or damage that the issuing person suspects may have occurred;
+
 (b) identify the act or omission giving rise to the injury, loss or damage;
+
 (c) indicate the extent to which the issuing person suspects that the injury, loss or damage may have been caused by the issuing person;
+
 (d) state that any claim that the other person has could be extinguished because of the expiry of a limitation period; and
+
 (e) state the issuing person’s name and address for service.
 
 ### Effect
@@ -231,7 +285,9 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Exception
 
 (4) Subsection (3) does not apply to a person who is not represented by a litigation guardian in relation to the claim and who, when served with the notice,
+
 (a) is a minor; or
+
 (b) is incapable of commencing a proceeding because of his or her physical, mental or psychological condition.
 
 ### Acknowledgment
@@ -259,12 +315,19 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Period not to run
 
 (4) The limitation period established by subsection (2) does not run during any time in which,
+
 (a) the person with the claim,
+
 (i) is incapable of commencing a proceeding in respect of the claim because of his or her physical, mental or psychological condition, and
+
 (ii) is not represented by a litigation guardian in relation to the claim;
+
 (b) the person with the claim is a minor and is not represented by a litigation guardian in relation to the claim; or
+
 (c) the person against whom the claim is made,
+
 (i) wilfully conceals from the person with the claim the fact that injury, loss or damage has occurred, that it was caused by or contributed to by an act or omission or that the act or omission was that of the person against whom the claim is made, or
+
 (ii) wilfully misleads the person with the claim as to the appropriateness of a proceeding as a means of remedying the injury, loss or damage.
 
 ### Burden
@@ -274,8 +337,11 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Day of occurrence
 
 (6) For the purposes of this section, the day an act or omission on which a claim is based takes place is,
+
 (a) in the case of a continuous act or omission, the day on which the act or omission ceases;
+
 (b) in the case of a series of acts or omissions in respect of the same obligation, the day on which the last act or omission in the series occurs;
+
 (c) in the case of an act or omission in respect of a demand obligation, the first day on which there is a failure to perform the obligation, once a demand for the performance is made.
 
 ### Application, demand obligations
@@ -287,28 +353,51 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### No limitation period
 
 16 (1) There is no limitation period in respect of,
+
 (a) a proceeding for a declaration if no consequential relief is sought;
+
 (b) a proceeding to enforce an order of a court, or any other order that may be enforced in the same way as an order of a court;
+
 (c) a proceeding to obtain support under the Family Law Act or to enforce a provision for support or maintenance contained in a contract or agreement that could be filed under section 35 of that Act;
+
 (d) Revoked: 2017, c. 2, Sched. 5, s. 14 (1);
+
 (e) a proceeding under section 8 or 11.2 of the Civil Remedies Act, 2001;
+
 (f) a proceeding by a debtor in possession of collateral to redeem it;
+
 (g) a proceeding by a creditor in possession of collateral to realize on it;
+
 (h) a proceeding based on a sexual assault;
+
 (h.1) a proceeding based on any other misconduct of a sexual nature if, at the time of the misconduct, the person with the claim was a minor or any of the following applied with respect to the relationship between the person with the claim and the person who committed the misconduct:
+
 (i) the other person had charge of the person with the claim,
+
 (ii) the other person was in a position of trust or authority in relation to the person with the claim,
+
 (iii) the person with the claim was financially, emotionally, physically or otherwise dependent on the other person;
+
 (h.2) a proceeding based on an assault if, at the time of the assault, the person with the claim was a minor or any of the following applied with respect to the relationship between the person with the claim and the person who committed the assault:
+
 (i) they had an intimate relationship,
+
 (ii) the person with the claim was financially, emotionally, physically or otherwise dependent on the other person;
+
 (i) a proceeding to recover money owing to the Crown in respect of,
+
 (i) fines, taxes and penalties, or
+
 (ii) interest that may be added to a tax or penalty under an Act;
+
 (j) a proceeding described in subsection (2) that is brought by,
+
 (i) the Crown, or
+
 (ii) a delivery agent under the Ontario Disability Support Program Act, 1997 or the Ontario Works Act, 1997;
+
 (k) a proceeding to recover money owing in respect of student loans, medical resident loans, awards or grants made under the Ministry of Training, Colleges and Universities Act, the Canada Student Financial Assistance Act or the Canada Student Loans Act; or
+
 (l) a proceeding under subsection 4 (1) of the Justice for Victims of Terrorism Act (Canada).
 
 ### Same
@@ -318,7 +407,9 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Same
 
 (1.2) Subsection (1.1) does not apply in the case of a proceeding that,
+
 (a) has been dismissed by a court and no further appeal is available; or
+
 (b) has been settled by the parties and the settlement is legally binding.
 
 ### Same
@@ -328,13 +419,17 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Same
 
 (2) Clause (1) (j) applies to proceedings in respect of claims relating to,
+
 (a) the administration of social, health or economic programs; or
+
 (b) the provision of direct or indirect support to members of the public in connection with social, health or economic policy.
 
 ### Same
 
 (3) Without limiting the generality of subsection (2), clause (1) (j) applies to proceedings in respect of claims for,
+
 (a) the recovery of social assistance payments, student loans, awards, grants, contributions and economic development loans; and
+
 (b) the reimbursement of money paid in connection with social, health or economic programs or policies as a result of fraud, misrepresentation, error or inadvertence.
 
 ### Conflict with s. 15
@@ -358,9 +453,13 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Other Acts, etc.
 
 19 (1) A limitation period set out in or under another Act that applies to a claim to which this Act applies is of no effect unless,
+
 (a) the provision establishing it is listed in the Schedule to this Act; or
+
 (b) the provision establishing it,
+
 (i) is in existence on January 1, 2004, and
+
 (ii) incorporates by reference a provision listed in the Schedule to this Act.
 
 ### Act prevails
@@ -410,13 +509,17 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Same
 
 (5) The following exceptions apply only in respect of business agreements:
+
 1. A limitation period under this Act, other than one established by section 15, may be varied or excluded by an agreement made on or after October 19, 2006.
+
 2. A limitation period established by section 15 may be varied by an agreement made on or after October 19, 2006, except that it may be suspended or extended only in accordance with subsection (4).
 
 ### Definitions
 
 (6) In this section,
+
 “business agreement” means an agreement made by parties none of whom is a consumer as defined in the Consumer Protection Act, 2002; (“accord commercial”)
+
 “vary” includes extend, shorten and suspend. (“modifier”)
 
 ### Conflict of laws
@@ -428,6 +531,7 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Definition
 
 24 (1) In this section,
+
 “former limitation period” means the limitation period that applied in respect of the claim before January 1, 2004.
 
 ### Application
@@ -449,14 +553,19 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Same
 
 (5) If the former limitation period did not expire before January 1, 2004 and if a limitation period under this Act would apply were the claim based on an act or omission that took place on or after that date, the following rules apply:
+
 1. If the claim was not discovered before January 1, 2004, this Act applies as if the act or omission had taken place on that date.
+
 2. If the claim was discovered before January 1, 2004, the former limitation period applies.
 
 ### No former limitation period
 
 (6) If there was no former limitation period and if a limitation period under this Act would apply were the claim based on an act or omission that took place on or after January 1, 2004, the following rules apply:
+
 1. If the claim was not discovered before January 1, 2004, this Act applies as if the act or omission had taken place on that date.
+
 2. If the claim was discovered before January 1, 2004, there is no limitation period.
+
 (7) Repealed: 2016, c. 2, Sched. 2, s. 5 (3).
 
 ### Claims re payments alleged to be ultra vires
@@ -466,9 +575,13 @@ v. agrees to attend to the potential plaintiff’s interests diligently and to t
 ### Agreements
 
 (8) This section is subject to any agreement to vary or exclude a limitation period that was made before January 1, 2004.
+
 25-49 Omitted (amends or repeals other Acts).
+
 50 Omitted (amends the schedule to this Act).
+
 51 Omitted (provides for coming into force of provisions of this Act).
+
 52 Omitted (enacts short title of this Act).
 
 ## Schedule (Section 19)

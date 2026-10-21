@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2023-12-06"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23d22"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Réserve agricole de Duffins-Rouge (Loi de 2023 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23d22) before relying on it.
 
 L.O. 2023, chap. 22, annexe 1
 
@@ -21,7 +21,9 @@ L.O. 2023, chap. 22, annexe 1
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «engagement visé par la Loi sur la Réserve agricole de Duffins-Rouge » Tout engagement conclu par le propriétaire d’une terre, ou qui se présente comme étant conclu par lui, avec un organisme de protection de la nature en vertu de la Loi sur les terres protégées le 28 février 2005 ou avant cette date, à l’égard de terres situées dans la zone visée à l’annexe 1. («DRAPA covenant»)
+
 «servitude visée par la Loi sur la Réserve agricole de Duffins-Rouge » Toute servitude concédée par le propriétaire d’une terre, ou qui se présente comme étant concédée par lui, à un organisme de protection de la nature en vertu de la Loi sur les terres protégées le 28 février 2005 ou avant cette date, à l’égard de terres situées dans la zone visée à l’annexe 1. («DRAPA easement»)
 
 ### Réserve agricole de Duffins-Rouge
@@ -37,7 +39,9 @@ L.O. 2023, chap. 22, annexe 1
 ### Loi sur l’enregistrement des droits immobiliers
 
 (3) Malgré la Loi sur l’enregistrement des droits immobiliers, les servitudes et engagements qui sont réputés valides aux termes du paragraphe (1) lient toute personne qui a un intérêt sur une terre visée à l’annexe 1, peu importe si :
+
 a) la personne a acquis l’intérêt le jour de l’entrée en vigueur du paragraphe (1) ou avant ou après ce jour;
+
 b) un avis du présent article était enregistré sur la terre visée au moment où la personne a acquis l’intérêt.
 
 ### Avis réputé valide
@@ -47,11 +51,17 @@ b) un avis du présent article était enregistré sur la terre visée au moment 
 ### Restrictions quant au recours
 
 3 (1) Aucune cause d’action ne prend naissance, directement ou indirectement, par suite :
+
 a) soit de l’édiction, de la modification ou de l’abrogation d’une disposition de la présente loi, de la Loi de 2005 sur la Réserve agricole de Duffins-Rouge ou de la Loi de 2022 abrogeant la Loi sur la Réserve agricole de Duffins-Rouge ;
+
 b) soit de quoi que ce soit qui est fait ou n’est pas fait conformément à la présente loi, à la Loi de 2005 sur la Réserve agricole de Duffins-Rouge ou à la Loi de 2022 abrogeant la Loi sur la Réserve agricole de Duffins-Rouge ;
+
 c) soit de toute assertion ou autre conduite de la part d’employés, de dirigeants ou de mandataires, actuels ou anciens, de la Couronne du chef de l’Ontario, ou de membres actuels ou anciens du Conseil exécutif, qui se rapporte, directement ou indirectement, à l’une ou l’autre des choses suivantes :
+
 (i) la validité ou l’effet juridique de tout engagement visé par la Loi sur la Réserve agricole de Duffins-Rouge, de toute servitude visée par la Loi sur la Réserve agricole de Duffins-Rouge ou de tout avis enregistré en vertu de la présente loi ou de la Loi de 2005 sur la Réserve agricole de Duffins-Rouge,
+
 (ii) l’édiction réelle ou éventuelle de toute loi ou la prise réelle ou éventuelle de tout règlement ou autre acte concernant la validité ou l’effet juridique de tout engagement visé par la Loi sur la Réserve agricole de Duffins-Rouge, de toute servitude visée par la Loi sur la Réserve agricole de Duffins-Rouge ou de tout avis enregistré en vertu de la présente loi ou de la Loi de 2005 sur la Réserve agricole de Duffins-Rouge,
+
 (iii) l’acquisition, la disposition, l’utilisation ou l’aménagement réels ou éventuels de toute terre visée à l’annexe 1.
 
 ### Aucun recours
@@ -85,9 +95,13 @@ c) soit de toute assertion ou autre conduite de la part d’employés, de dirige
 ### Définition de «personne»
 
 (9) La définition qui suit s’applique au présent article.
+
 «personne» S’entend en outre de la Couronne du chef de l’Ontario et de ses employés, dirigeants et mandataires actuels et anciens, des membres actuels et anciens du Conseil exécutif et des organismes de protection de la nature au sens de la définition donnée à ce terme au paragraphe 3 (1) de la Loi sur les terres protégées et de leurs employés, dirigeants et mandataires actuels et anciens.
+
 4 Omis (abrogation d’autres textes législatifs).
+
 5 Omis (entrée en vigueur de dispositions de la présente loi).
+
 6 Omis (édiction du titre abrégé de la présente loi).
 
 ### ANNEXE 1

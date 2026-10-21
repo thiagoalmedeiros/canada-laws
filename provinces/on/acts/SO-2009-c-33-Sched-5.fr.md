@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2019-05-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/09a33"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # responsabilisation et la gouvernance des tribunaux décisionnels et les nominations à ces tribunaux (Loi de 2009 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/09a33) before relying on it.
 
 L.O. 2009, chap. 33, annexe 5
 
@@ -25,10 +25,15 @@ L.O. 2009, chap. 33, annexe 5
 ### Définitions
 
 2 Les définitions qui suivent s’appliquent à la présente loi.
+
 «documents de responsabilisation à l’égard du public» L’énoncé de mandat et de mission, la politique en matière de consultation, la politique relative aux normes de service, le plan d’éthique et le cadre de responsabilisation des membres exigés aux articles 3, 4, 5, 6 et 7, respectivement. («public accountability documents»)
+
 «documents de responsabilisation en matière de gouvernance» Le protocole d’entente, le plan d’activités et le rapport annuel exigés aux articles 11, 12 et 13, respectivement. («governance accountability documents»)
+
 «ministre responsable» Relativement à un tribunal décisionnel, le ministre de la Couronne responsable du tribunal devant l’Assemblée. («responsible minister»)
+
 «prescrit» Prescrit par les règlements pris en vertu de la présente loi. («prescribed»)
+
 «tribunal décisionnel» Organisme, conseil, commission, personne morale ou autre entité qui est prescrit. («adjudicative tribunal») 2009, chap. 33, annexe 5, art. 2.
 
 ### Documents de responsabilisation à l’égard du public
@@ -40,8 +45,11 @@ L.O. 2009, chap. 33, annexe 5
 ### Contenu
 
 (2) L’énoncé de mandat et de mission du tribunal comprend les éléments suivants :
+
 a) l’énoncé de mandat que lui confèrent une ou plusieurs lois, avec un renvoi à la loi qui crée son mandat et à toute loi qui l’élargit;
+
 b) l’énoncé de mission;
+
 c) toute autre question précisée dans les règlements ou dans une directive du Conseil de gestion du gouvernement.
 
 ### Approbation
@@ -71,8 +79,11 @@ c) toute autre question précisée dans les règlements ou dans une directive du
 ### Contenu
 
 (2) La politique relative aux normes de service comprend les éléments suivants :
+
 a) un énoncé des normes relatives au service que le tribunal entend offrir;
+
 b) un processus à suivre pour la présentation et l’examen des plaintes portant sur le service offert par le tribunal, et pour la suite à donner à celles-ci;
+
 c) toute autre question précisée dans les règlements ou dans une directive du Conseil de gestion du gouvernement.
 
 ### Approbation
@@ -82,8 +93,11 @@ c) toute autre question précisée dans les règlements ou dans une directive du
 ### Aucune incidence sur d’autres voies de recours
 
 (4) La politique relative aux normes de service n’a pas pour effet de porter atteinte à l’une ou l’autre des voies de recours suivantes :
+
 a) un processus ou un recours prévu par la Loi sur l’ombudsman ;
+
 b) le droit de faire appel d’une décision du tribunal prévu par toute loi;
+
 c) le droit de déposer une requête en révision judiciaire.
 
 ### Plan d’éthique
@@ -109,9 +123,13 @@ c) le droit de déposer une requête en révision judiciaire.
 ### Contenu
 
 (2) Le cadre de responsabilisation des membres comprend les éléments suivants :
+
 a) une description des fonctions des membres, du président et, s’il y a lieu, des vice-présidents du tribunal;
+
 b) une description des compétences, des connaissances, de l’expérience, des autres attributs et des qualités requises particulières qu’est tenue de posséder une personne nommée membre du tribunal;
+
 c) un code de déontologie à l’intention des membres du tribunal;
+
 d) toute autre question précisée dans les règlements ou dans une directive du Conseil de gestion du gouvernement.
 
 ### Approbation
@@ -141,11 +159,17 @@ d) toute autre question précisée dans les règlements ou dans une directive du
 ### Contenu
 
 (2) Le protocole d’entente doit traiter des questions suivantes :
+
 a) les arrangements financiers, administratifs et de dotation en personnel du tribunal;
+
 b) les rapports de responsabilisation du tribunal, y compris son obligation de rendre des comptes à son ministre responsable;
+
 c) le recrutement, l’orientation et la formation des membres du tribunal;
+
 d) la structure des comités du tribunal, s’il y a lieu;
+
 e) les exigences en matière de planification et de rapports à fournir par le tribunal;
+
 f) toute autre question précisée dans les règlements ou dans une directive du Conseil de gestion du gouvernement.
 
 ### Expiration
@@ -191,7 +215,9 @@ f) toute autre question précisée dans les règlements ou dans une directive du
 ### Idem
 
 (2) Le tribunal se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -211,8 +237,11 @@ b) le moment où il faut le mettre à la disposition du public et la manière de
 ### Sélection des membres d’un tribunal décisionnel par processus concurrentiel fondé sur le mérite
 
 14 (1) Le processus de sélection pour la nomination des membres d’un tribunal décisionnel est un processus concurrentiel fondé sur le mérite et les critères utilisés pour évaluer les candidats comprennent ce qui suit :
+
 1. L’expérience, les connaissances ou la formation en ce qui concerne le sujet et les questions de droit dont traite le tribunal.
+
 2. Les aptitudes en matière d’impartialité de jugement.
+
 3. L’aptitude à mettre en oeuvre les pratiques et procédures juridictionnelles de rechange qui peuvent être énoncées dans les règles du tribunal.
 
 ### Qualités requises particulières à un tribunal
@@ -222,7 +251,9 @@ b) le moment où il faut le mettre à la disposition du public et la manière de
 ### Publication
 
 (3) Le ministre responsable d’un tribunal décisionnel rend public le processus de recrutement visant à sélectionner une ou plusieurs personnes qui seront nommées au tribunal et, ce faisant, précise ce qui suit :
+
 a) les mesures envisagées dans le cadre du processus de recrutement;
+
 b) les compétences, les connaissances, l’expérience, les autres attributs et les qualités requises particulières qu’est tenue de posséder une personne pour être nommée au tribunal.
 
 ### Recommandation du président
@@ -318,14 +349,23 @@ b) les compétences, les connaissances, l’expérience, les autres attributs et
 ### Questions à examiner
 
 (2) L’examen exigé par le paragraphe (1) doit porter sur les questions suivantes :
+
 a) le mandat du tribunal et la question de savoir s’il est toujours pertinent;
+
 b) les fonctions exercées par le tribunal et la question de savoir si elles sont exercées au mieux par celui-ci ou si elles seraient mieux exercées par une autre entité;
+
 c) la structure de gouvernance et les systèmes de gestion du tribunal, ainsi que la question de savoir s’ils sont toujours appropriés en regard de son mandat et de ses fonctions;
+
 d) les ressources financières et humaines du tribunal et ses systèmes financiers et d’information;
+
 e) les pratiques du tribunal en matière de planification des activités, de mesure du rendement et de rapports à fournir;
+
 f) la question de savoir si le tribunal a en place des processus efficaces afin de veiller à ce qu’il se conforme à toute loi, à tout règlement ou à toute directive du Conseil de gestion du gouvernement qui s’y applique;
+
 g) la question de savoir si le tribunal remplit son mandat et sert le public de manière efficace;
+
 h) la question de savoir si le tribunal devrait faire l’objet de changements ou s’il devrait être aboli;
+
 i) toute autre question précisée dans les règlements ou dans une directive du Conseil de gestion du gouvernement.
 
 ### Examens supplémentaires
@@ -345,16 +385,29 @@ i) toute autre question précisée dans les règlements ou dans une directive du
 ### Règlements
 
 23 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des organismes, des conseils, des commissions, des personnes morales ou d’autres entités pour l’application de la définition de «tribunal décisionnel» à l’article 2;
+
 b) prescrire le contenu du plan d’éthique exigé par l’article 6;
+
 c) prescrire une durée pour l’application du paragraphe 12 (1) ainsi que le contenu du plan d’activités exigé par l’article 12;
+
 d) régir la publication du processus de recrutement exigée au paragraphe 14 (3);
+
 e) traiter de la renonciation à l’une quelconque des exigences indiquées à l’article 14, y compris renoncer à l’une quelconque d’entre elles;
+
 f) prescrire les mentions, dans la présente loi ou toute autre loi ou dans un règlement, du président d’un tribunal décisionnel qui doivent être interprétées autrement que de la manière visée au paragraphe 17 (6) et prescrire comment ces mentions doivent être interprétées relativement au tribunal décisionnel compris dans un groupe;
+
 g) prescrire les autres questions sur lesquelles doit porter l’examen d’un tribunal décisionnel exigé par l’article 21;
+
 h) prescrire les autres questions dont doit traiter ou que doit comprendre tout document de responsabilisation à l’égard du public ou document de responsabilisation en matière de gouvernance;
+
 i) prescrire la date limite à laquelle ou le délai dans lequel un tribunal décisionnel doit se conformer à l’une quelconque des dispositions ou des exigences de la présente loi ou d’un règlement pris en vertu de la présente loi relativement à un document de responsabilisation à l’égard du public ou à un document de responsabilisation en matière de gouvernance;
+
 j) prescrire la forme et le format de tout document de responsabilisation à l’égard du public ou document de responsabilisation en matière de gouvernance;
+
 k) régir la publication des documents de responsabilisation à l’égard du public ou des documents de responsabilisation en matière de gouvernance ou de l’examen exigé par l’article 21.
+
 24 Omis (entrée en vigueur de dispositions de la présente loi).
+
 25 Omis (édiction du titre abrégé de la présente loi).

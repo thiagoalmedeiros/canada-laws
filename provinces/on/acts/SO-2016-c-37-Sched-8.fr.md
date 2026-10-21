@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16f37"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Autorité ontarienne de réglementation des services financiers (Loi de 2016 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16f37) before relying on it.
 
 L.O. 2016, chap. 37, annexe 8
 
@@ -23,30 +23,51 @@ Période de codification : du 1 er avril 2024 à la date à laquelle Lois-en-lig
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «ancienne Autorité» L’Autorité ontarienne de réglementation des services financiers maintenue aux termes du paragraphe 2 (1), dans sa version antérieure à l’entrée en vigueur de l’article 2 de l’annexe 17 de la Loi de 2018 visant à rétablir la confiance, la transparence et la responsabilité. («predecessor Authority»)
+
 «Autorité» L’Autorité ontarienne de réglementation des services financiers maintenue aux termes du paragraphe 2 (1). («Authority»)
+
 «caisse» ou «caisse populaire» et «dépôt» S’entendent au sens de la Loi de 2020 sur les caisses populaires et les credit unions. («credit union», «deposit»)
+
 «CSFO» L’ancienne Commission des services financiers de l’Ontario créée aux termes de la Loi de 1997 sur la Commission des services financiers de l’Ontario qui est abrogée. («FSCO»)
+
 «directeur général» Directeur général nommé aux termes du paragraphe 10 (2). («Chief Executive Officer»)
+
 «ministre» Le ministre des Finances ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «secteur réglementé» Secteur qui est assujetti à l’une des lois suivantes :
+
 a) la Loi de 2020 sur les caisses populaires et les credit unions ;
+
 a.1) la Loi de 2019 sur la protection du titre des professionnels des finances ;
+
 b) la Loi sur les assurances ;
+
 c) la Loi sur les sociétés de prêt et de fiducie ;
+
 d) la Loi de 2006 sur les maisons de courtage d’hypothèques, les prêteurs hypothécaires et les administrateurs d’hypothèques ;
+
 e) la Loi sur les régimes de retraite ;
+
 f) la Loi de 2015 sur les régimes de pension agréés collectifs ;
+
 g) toute loi prescrite. («regulated sector»)
+
 «SOAD» La Société ontarienne d’assurance-dépôts maintenue aux termes de l’article 249 de la Loi de 1994 sur les caisses populaires et les credit unions, dans sa version antérieure à son abrogation. («DICO»)
+
 «surintendant des services financiers» L’ancien poste de surintendant des services financiers prévu par la Loi de 1997 sur la Commission des services financiers de l’Ontario qui est abrogée. («Superintendent of Financial Services»)
+
 «Tribunal des services financiers» Le Tribunal des services financiers prorogé aux termes de la Loi de 2017 sur le Tribunal des services financiers. («Financial Services Tribunal») 2016, chap. 37, annexe 8, art. 1; 2017, chap. 34, annexe 16, apr. 1 (1)
 
 ### Secteur des régimes de retraite
 
 (2) Pour l’application de l’alinéa e) de la définition de «secteur réglementé» au paragraphe (1), les personnes suivantes appartiennent au secteur assujetti à la Loi sur les régimes de retraite :
+
 1. Les personnes qui mettent sur pied ou administrent un régime de retraite au sens de la Loi sur les régimes de retraite et les employeurs qui sont tenus de cotiser à ce régime de retraite ou les personnes tenues de le faire au nom de ceux-ci.
+
 2. Tout mandataire d’une personne qui administre un régime de retraite au sens de la Loi sur les régimes de retraite.
+
 3. Les personnes prescrites pour l’application du paragraphe 22 (6) de la Loi sur les régimes de retraite.
 
 ### Création, mission, pouvoirs et autres questions
@@ -66,33 +87,49 @@ g) toute loi prescrite. («regulated sector»)
 ### Objets de l’Autorité
 
 3 (1) Les objets de l’Autorité sont les suivants :
+
 a) réglementer les secteurs réglementés et les superviser de façon générale;
+
 b) contribuer à la confiance du public dans les secteurs réglementés;
+
 c) surveiller et évaluer les progrès et les tendances dans les secteurs réglementés;
+
 d) collaborer avec d’autres organismes de réglementation, lorsque cela est approprié;
+
 e) promouvoir l’éducation du public sur les secteurs réglementés et sa connaissance de ceux-ci;
+
 f) promouvoir la transparence et la divulgation de renseignements par les secteurs réglementés;
+
 g) prévenir toute conduite, pratique et activité trompeuse ou frauduleuse de la part des secteurs réglementés;
+
 h) réaliser tout autre objet prescrit.
 
 ### Idem : secteurs des services financiers
 
 (2) Outre ceux énoncés au paragraphe (1), les objets de l’Autorité à l’égard des secteurs des services financiers sont les suivants :
+
 a) promouvoir des normes de conduite professionnelle élevées;
+
 b) protéger les droits et intérêts des consommateurs;
+
 c) favoriser le développement de secteurs des services financiers solides, durables, concurrentiels et novateurs.
 
 ### Idem : régimes de retraite
 
 (3) Outre ceux énoncés au paragraphe (1), les objets de l’Autorité à l’égard des régimes de retraite sont les suivants :
+
 a) promouvoir la bonne administration des régimes de retraite;
+
 b) protéger les prestations de retraite et les droits des bénéficiaires des régimes de retraite.
 
 ### Idem : caisses populaires
 
 (4) Outre ceux énoncés aux paragraphes (1) et (2), les objets de l’Autorité en ce qui concerne les caisses populaires sont les suivants :
+
 a) fournir une assurance contre les risques de perte totale ou partielle des dépôts confiés aux caisses;
+
 b) promouvoir la stabilité du secteur des caisses en Ontario et y contribuer, en tenant compte de la nécessité de permettre aux caisses d’être concurrentielles tout en prenant des risques raisonnables;
+
 c) poursuivre les objets visés aux alinéas a) et b) à l’avantage des déposants des caisses et de manière à minimiser les risques de perte que court le Fonds de réserve d’assurance-dépôts.
 
 ### Objets de l’Autorité : Loi de 2019 sur la protection du titre des professionnels des finances
@@ -102,6 +139,7 @@ c) poursuivre les objets visés aux alinéas a) et b) à l’avantage des dépos
 ### Préparation de la prise en charge de la mission
 
 4 L’Autorité collabore avec le ministre pour se préparer à prendre en charge la mission de réglementation prévue à l’article 3.
+
 5 Abrogé : 2020, chap. 36, annexe 15, art. 2.
 
 ### Pouvoirs et fonctions de l’Autorité
@@ -111,7 +149,9 @@ c) poursuivre les objets visés aux alinéas a) et b) à l’avantage des dépos
 ### Idem
 
 (2) L’Autorité :
+
 a) exerce les pouvoirs qui lui sont conférés et les fonctions qui lui sont attribuées;
+
 b) applique et exécute la présente loi et toute autre loi qui lui confère des pouvoirs ou lui attribue des fonctions, sauf dans la mesure où ces pouvoirs sont conférés ou ces fonctions sont attribuées au directeur général.
 
 ### Idem : filiales interdites
@@ -171,13 +211,21 @@ b) applique et exécute la présente loi et toute autre loi qui lui confère des
 ### Règlements administratifs
 
 9 (1) Sous réserve de l’approbation du ministre, le conseil d’administration peut, par règlement administratif :
+
 a) régir l’administration, la gestion et la conduite des affaires de l’Autorité;
+
 b) régir la nomination d’un vérificateur;
+
 c) énoncer les pouvoirs et fonctions du président et des dirigeants qu’emploie l’Autorité;
+
 d) déléguer à des employés de l’Autorité l’exercice des pouvoirs et fonctions que la présente loi attribue à ses dirigeants, et fixer les conditions de la délégation;
+
 e) régir la rémunération et les avantages des employés;
+
 f) régir la date, l’heure et le lieu où se tiennent ses réunions, la façon dont elles se tiennent et leurs règles de procédure;
+
 g) régir la constitution, le fonctionnement ou la dissolution de ses comités et leur déléguer certaines de ses fonctions.
+
 h) régir le remboursement des sommes qui sont versées à l’Autorité aux termes de la présente loi ou d’une autre loi et autoriser des employés de l’Autorité à approuver des remboursements, sous réserve des conditions et dans les circonstances qu’il estime appropriées.
 
 ### Avis au ministre
@@ -207,8 +255,11 @@ h) régir le remboursement des sommes qui sont versées à l’Autorité aux ter
 ### Règlements administratifs en matière de finances
 
 (8) Les règles suivantes s’appliquent à l’égard des règlements administratifs qui traitent des questions d’emprunt, de placement ou de gestion des risques financiers :
+
 1. Les paragraphes (3) à (7) ne s’appliquent pas.
+
 2. Les règlements administratifs n’entrent pas en vigueur à moins d’être approuvés par le ministre et, si ce dernier n’est pas le ministre des Finances, par le ministre des Finances.
+
 3. Les règlements administratifs entrent en vigueur dès qu’ils sont approuvés aux termes de la disposition 2 ou à la date ultérieure qu’ils précisent.
 
 ### Publication
@@ -226,7 +277,9 @@ h) régir le remboursement des sommes qui sont versées à l’Autorité aux ter
 ### Directeur général
 
 (2) Le conseil d’administration nomme un directeur général qui, sous la supervision et la direction du conseil d’administration :
+
 a) est chargé de la gestion et de l’administration de l’Autorité;
+
 b) exerce les pouvoirs que lui confère et les fonctions que lui attribue la présente loi ou toute autre loi.
 
 ### Délégation de pouvoirs et de fonctions
@@ -286,7 +339,9 @@ b) exerce les pouvoirs que lui confère et les fonctions que lui attribue la pr�
 ### Exceptions
 
 (3) Malgré le paragraphe (2) et sous réserve des règlements pris en vertu de la présente loi, l’Autorité verse au Trésor :
+
 a) les sommes qu’elle reçoit selon les termes d’une ordonnance ou d’un règlement à l’égard de procédures d’exécution commencées par l’Autorité, à l’exclusion d’une ordonnance relative aux dépens;
+
 b) les sommes provenant des pénalités administratives.
 
 ### Idem : règlement
@@ -320,8 +375,11 @@ b) les sommes provenant des pénalités administratives.
 ### Restriction : certaines activités financières
 
 12 (1) L’Autorité ne peut contracter des emprunts, effectuer des placements ou gérer des risques financiers, que si :
+
 a) un de ses règlements administratifs l’y autorise;
+
 b) le règlement administratif est approuvé conformément à la disposition 2 du paragraphe 9 (8).
+
 c) elle se conforme aux exigences supplémentaires prescrites.
 
 ### Coordination des activités financières
@@ -369,6 +427,7 @@ c) elle se conforme aux exigences supplémentaires prescrites.
 ### Cotisation de l’Autorité
 
 15 (1) Le ministre peut imposer à l’Autorité une cotisation à l’égard des frais et dépenses que le ministère a engagés pour préparer l’Autorité à prendre en charge sa mission de réglementation et pour les secteurs règlementés.
+
 (2) Abrogé : 2019, chap. 7, annexe 27, art. 3.
 
 ### Paiement de la cotisation
@@ -398,8 +457,11 @@ c) elle se conforme aux exigences supplémentaires prescrites.
 ### Idem
 
 (2) L’Autorité respecte les directives que le Conseil de gestion du gouvernement donne à l’égard de ce qui suit :
+
 a) la forme et le contenu du plan d’activités;
+
 b) le moment où il faut le présenter au ministre;
+
 c) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -453,19 +515,33 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Certificats délivrés par le directeur général
 
 20.1 Le directeur général peut délivrer un certificat qui, selon le cas :
+
 a) indique qu’à une date donnée, selon le cas :
+
 (i) une personne ou une entité était ou n’était pas titulaire d’un permis délivré en vertu d’une loi qui confère des pouvoirs ou attribue des fonctions au directeur général,
+
 (ii) le permis a été renouvelé, suspendu, remis en vigueur, révoqué ou annulé;
+
 b) indique qu’à une date donnée, selon le cas :
+
 (i) une personne ou un régime était ou n’était pas inscrit aux termes d’une loi qui confère des pouvoirs ou attribue des fonctions au directeur général,
+
 (ii) l’inscription était assortie de conditions ou de restrictions,
+
 (iii) l’inscription a été révoquée;
+
 c) indique qu’une copie ou un extrait d’un document ou d’une chose dont le directeur général a la garde est une copie ou un extrait certifiés conformes de l’original;
+
 d) indique qu’une copie ou un extrait d’un document ou de renseignements dont le directeur général a la garde et qui ne sont pas sous forme écrite est un imprimé du document ou des renseignements qui se trouvent dans les dossiers du directeur général et est une copie ou un extrait certifiés conformes de l’original;
+
 e) indique la date à laquelle un document a été signifié ou remis au directeur général ou déposé auprès de lui;
+
 f) indique qu’un document ou une chose qui doit ou qui peut être déposé auprès du directeur général ne l’a pas été;
+
 g) indique la date à laquelle le directeur général a reçu ou a délivré un document ou un avis;
+
 h) indique à quel moment le directeur général a appris les faits sur lesquels est fondée une instance relative à une infraction;
+
 i) indique le jour où le directeur général a eu connaissance d’une contravention ou d’une inobservation pour laquelle une pénalité administrative peut être imposée en vertu de toute loi qui lui confère des pouvoirs ou lui attribue des fonctions.
 
 ### Admissibilité en preuve
@@ -475,6 +551,7 @@ i) indique le jour où le directeur général a eu connaissance d’une contrave
 ### Définition
 
 (2) La définition qui suit s’applique au paragraphe (1).
+
 «document officiel» Certificat, ordonnance, décision, permis, directive, enquête ou avis émanant du directeur général aux termes de la présente loi et d’une autre loi qui confère des pouvoirs ou attribue des fonctions au directeur général.
 
 ### Copies conformes
@@ -512,8 +589,11 @@ i) indique le jour où le directeur général a eu connaissance d’une contrave
 ### Définition de dénonciateur
 
 20.5 Pour l’application des articles 20.6 à 20.8, est un dénonciateur une personne ou une entité qui, à la fois :
+
 a) informe de bonne foi le directeur général d’une prétendue contravention ou une intention de contrevenir à une loi énumérée à la définition de «secteur réglementé» au paragraphe 1 (1) ou prescrite dans le cadre de cette définition;
+
 b) demande que son identité en tant que dénonciateur demeure confidentielle;
+
 c) s’est vu donner une assurance d’anonymat par le directeur général, sous réserve de l’article 20.8.
 
 ### Protection des dénonciateurs dans les secteurs réglementés
@@ -521,24 +601,35 @@ c) s’est vu donner une assurance d’anonymat par le directeur général, sous
 ### Interdiction d’exercer des représailles
 
 20.6 (1) Aucune personne ni aucune entité ne doit, directement ou indirectement, exercer de représailles contre un dénonciateur qui fait une dénonciation visée à l’alinéa 20.5 a). Il est notamment interdit de :
+
 a) licencier le dénonciateur, résilier son contrat, abolir son poste ou mettre fin à sa charge, ou menacer de faire l’une ou l’autre de ces choses;
+
 b) rétrograder le dénonciateur, le suspendre ou lui imposer toute mesure disciplinaire dans le cadre de son emploi, de son poste ou de sa charge, ou menacer de faire l’une ou l’autre de ces choses;
+
 c) imposer une sanction au dénonciateur ou le priver d’un avantage lié à son emploi, à son contrat, à son poste ou à sa charge, ou menacer de faire l’une ou l’autre de ces choses;
+
 d) intimider le dénonciateur ou le contraindre à faire quelque chose dans le cadre de son emploi, de son contrat, de son poste ou de sa charge;
+
 e) nuire au dénonciateur d’une autre manière en accomplissant un acte ou en omettant d’accomplir un acte, que l’accomplissement de cet acte ou son omission soit lié ou non à l’emploi, au contrat, au poste ou à la charge du dénonciateur.
 
 ### Interdiction : ententes
 
 (2) Toute disposition d’une entente, y compris une entente de confidentialité, est nulle dans la mesure où elle empêche ou vise à empêcher une personne ou une entité :
+
 a) de faire une dénonciation visée à l’alinéa 20.5 a);
+
 b) de collaborer à une enquête, à un examen ou à une inspection en matière réglementaire, civile ou criminelle par suite d’une dénonciation visée à l’alinéa 20.5 a);
+
 c) de témoigner dans une instance portant sur une dénonciation visée à l’alinéa 20.5 a);
+
 d) de fournir des renseignements, des documents ou des choses au directeur général relativement à une dénonciation visée à l’alinéa 20.5 a).
 
 ### Mesures permises en cas de représailles
 
 (3) Le dénonciateur contre lequel une personne ou une entité a ou aurait exercé des représailles en contravention du paragraphe (1) peut, sans préjudice des mesures qu’il peut prendre par ailleurs :
+
 a) soit déposer une plainte qui sera résolue par voie de décision arbitrale définitive aux termes d’une convention collective ou de toute autre convention prévoyant un tel règlement;
+
 b) soit intenter une action civile devant la Cour supérieure de justice.
 
 ### Fardeau de la preuve
@@ -548,14 +639,19 @@ b) soit intenter une action civile devant la Cour supérieure de justice.
 ### Mesures de redressement
 
 (5) L’arbitre ou le tribunal peut, en plus de toute autre mesure de redressement, ordonner une ou plusieurs des mesures de redressement suivantes :
+
 1. La réintégration du dénonciateur dans son emploi, son poste ou sa charge, ou la remise en vigueur de son contrat, avec l’ancienneté qu’il aurait eue, n’eussent été les représailles.
+
 2. Le paiement au dénonciateur du double de la rémunération qui lui aurait été versée dans le cadre de son emploi, son poste ou sa charge, ou aux termes de son contrat, n’eussent été les représailles, à compter de la date de celles-ci jusqu’à la date de l’ordonnance, majorée des intérêts.
+
 3. Le paiement au dénonciateur du montant de l’indemnité que l’arbitre ou le tribunal estime juste, compte tenu des représailles auxquelles se rapporte la plainte ou l’action et de toute perte imputable aux représailles.
 
 ### Idem
 
 (6) Pour l’application de la disposition 3 du paragraphe (5), une perte imputable à des représailles est réputée comprendre :
+
 a) toute dépense raisonnable engagée par le dénonciateur en raison des représailles;
+
 b) la perte d’un avantage que le dénonciateur aurait pu raisonnablement s’attendre à recevoir, n’eussent été les représailles.
 
 ### Absence de responsabilité civile
@@ -569,7 +665,9 @@ b) la perte d’un avantage que le dénonciateur aurait pu raisonnablement s’a
 ### Exception
 
 (2) Malgré le paragraphe (1), le directeur général peut divulguer l’identité d’un dénonciateur si l’une ou l’autre des conditions suivantes s’applique :
+
 a) le dénonciateur y consent;
+
 b) la divulgation est faite à un organisme chargé de l’exécution de la loi du fait que le directeur général a des motifs raisonnables de croire que le dénonciateur a commis une infraction au Code criminel (Canada) ou à une loi énumérée à la définition de «secteur réglementé» au paragraphe 1 (1) ou prescrite dans le cadre de cette définition qui se rapporte à une dénonciation visée à l’alinéa 20.5 a).
 
 ### Confidentialité dans le cadre d’une instance
@@ -591,7 +689,9 @@ b) la divulgation est faite à un organisme chargé de l’exécution de la loi 
 ### Examens et enquêtes
 
 20.9 (1) Le directeur général ou la personne qu’il désigne peut faire des examens ou des enquêtes pour faire respecter le paragraphe 20.6 (1) et peut exiger qu’une personne ou une entité :
+
 a) fournisse les renseignements que le directeur général ou la personne qu’il désigne estime utiles à l’examen ou à l’enquête;
+
 b) produise tout document ou toute chose qui peut être en la possession de la personne ou de l’entité ou encore sous son contrôle que le directeur général ou la personne qu’il désigne estime utile à l’examen ou à l’enquête.
 
 ### Accès à des locaux commerciaux
@@ -657,9 +757,13 @@ b) produise tout document ou toute chose qui peut être en la possession de la p
 ### Règles relatives aux frais
 
 (2) L’Autorité peut, par règle, régir les droits, contributions, cotisations de secteur et autres frais que l’Autorité peut imposer, notamment :
+
 a) les droits de dépôt;
+
 b) les droits de demande d’approbation, de permis ou d’inscription;
+
 c) les droits relatifs aux examens de conformité et aux vérifications effectuées par l’Autorité;
+
 d) les droits relatifs aux travaux visés aux articles 4 et 6 et aux autres travaux qui se rapportent à la mission de l’Autorité prévue aux articles 3 et 3.1, y compris la cotisation que l’Autorité est tenue de payer aux termes de la présente loi ou de toute autre loi.
 
 ### Exception
@@ -685,13 +789,21 @@ d) les droits relatifs aux travaux visés aux articles 4 et 6 et aux autres trav
 ### Avis
 
 (2) L’avis doit comprendre ce qui suit :
+
 1. La règle proposée.
+
 1.1 Une mention du pouvoir en vertu duquel la règle est proposée.
+
 2. L’énoncé de la substance et de l’objet de la règle proposée.
+
 3. Un résumé de la règle proposée.
+
 4. L’exposé de toutes les solutions de rechange à la règle proposée que l’Autorité a examinées et les raisons de ne pas proposer leur adoption.
+
 5. Une mention des études, rapports ou autres pièces écrites d’importance, mais non publiés, sur lesquels l’Autorité se fonde pour proposer la règle.
+
 6. Une analyse qualitative et quantitative des coûts et avantages prévus de la règle proposée.
+
 7. La description des recommandations que l’Autorité propose de présenter au ministre à l’égard de la modification ou de l’abrogation d’un règlement ou d’une disposition d’un règlement qui se rapporte à la mise en oeuvre de la règle proposée.
 
 ### Exception
@@ -705,11 +817,17 @@ d) les droits relatifs aux travaux visés aux articles 4 et 6 et aux autres trav
 ### Exceptions à l’obligation de publier un avis
 
 (5) La publication d’un avis n’est pas exigée dans les cas suivants :
+
 a) toutes les personnes qui seraient assujetties à la règle proposée sont nommées, les renseignements énoncés au paragraphe (2) sont envoyés à chacune d’elles et celles-ci, ainsi que toute autre personne dont les intérêts seront vraisemblablement touchés considérablement par la règle proposée, ont l’occasion de présenter des observations écrites;
+
 b) la règle proposée accorde une dispense ou supprime une restriction et n’aura vraisemblablement pas un effet considérable sur les intérêts de personnes autres que celles qui en retirent un avantage;
+
 c) la proposition ne fait qu’apporter une modification qui ne change pas de façon importante une règle existante;
+
 d) l’Autorité :
+
 (i) d’une part, croit que la règle proposée répond à un besoin urgent et que, sans celle-ci, les consommateurs, les investisseurs, les bénéficiaires de régime de retraite, les personnes qui établissent des régimes de retraite ou l’intégrité d’un secteur réglementé risqueraient fortement de subir un préjudice important,
+
 (ii) d’autre part, a reçu l’approbation du ministre pour établir la règle sans publier d’avis.
 
 ### Publication
@@ -723,8 +841,11 @@ d) l’Autorité :
 ### Avis de changements
 
 (8) L’avis doit comprendre ce qui suit :
+
 1. La règle proposée, à laquelle ont été intégrés les changements.
+
 2. Un bref énoncé de l’objet des changements.
+
 3. Les motifs des changements.
 
 ### Observations sur les changements
@@ -746,29 +867,41 @@ d) l’Autorité :
 ### Interprétation
 
 (13) La définition qui suit s’applique au présent article et à l’article 23.
+
 «règle» S’entend en outre d’une modification apportée à une règle ou de son abrogation.
 
 ### Remise des règles au ministre
 
 23 (1) L’Autorité remet au ministre une copie de toutes les règles qu’elle établit ainsi que ce qui suit :
+
 1. Une copie des avis publiés aux termes de l’article 22, sauf si leur publication n’était pas exigée, ainsi que de tous les documents mentionnés dans les avis.
+
 2. Un résumé des observations présentées et les autres documents soumis à l’égard de la règle proposée.
+
 3. Tous les autres renseignements importants que l’Autorité a examinés dans le cadre de l’établissement de la règle.
 
 ### Publication
 
 (2) Aussitôt que possible après avoir établi une règle, l’Autorité la publie sur son site Web avec ce qui suit :
+
 1. La date à laquelle la règle et les pièces exigées aux termes du paragraphe (1) ont été remises au ministre.
+
 2. La date à laquelle la règle entrera en vigueur si le ministre ne prend aucune des mesures prévues au paragraphe (3).
+
 3. L’énoncé de la substance et de l’objet de la règle.
+
 4. Un résumé des commentaires écrits reçus au cours des périodes prévues à cette fin si la procédure de publication d’un avis et de sollicitation de commentaires devait être suivie.
+
 5. Une déclaration de l’Autorité exposant sa réponse aux questions et aux inquiétudes importantes qui ont été portées à son attention au cours des périodes prévues pour les commentaires.
 
 ### Mesures prises par le ministre
 
 (3) Dans les 60 jours, ou 90 jours s’il s’agit d’une règle établie en vertu du paragraphe 21 (2), qui suivent la remise d’une règle au ministre, celui-ci peut :
+
 a) soit approuver la règle;
+
 b) soit rejeter la règle;
+
 c) soit retourner la règle à l’Autorité pour réexamen.
 
 ### Entrée en vigueur des règles
@@ -778,8 +911,11 @@ c) soit retourner la règle à l’Autorité pour réexamen.
 ### Idem
 
 (2) Si le ministre n’approuve pas la règle, ne la rejette pas ou ne la retourne pas à l’Autorité pour réexamen, la règle entre en vigueur, selon le cas :
+
 a) à la date d’entrée en vigueur précisée dans la règle, si cette date tombe au moins 75 jours, ou 105 jours dans le cas d’une règle établie en vertu du paragraphe 21 (2), après la remise de la règle au ministre;
+
 b) le 75 e jour, ou le 105 e jour dans le cas d’une règle établie en vertu du paragraphe 21 (2), qui suit la remise de la règle au ministre, si aucune date d’entrée en vigueur n’est précisée dans la règle;
+
 c) le 75 e jour, ou le 105 e jour dans le cas d’une règle établie en vertu du paragraphe 21 (2), qui suit la remise de la règle au ministre, si la date d’entrée en vigueur précisée dans la règle est antérieure à ce jour.
 
 ### Idem
@@ -817,13 +953,17 @@ c) le 75 e jour, ou le 105 e jour dans le cas d’une règle établie en vertu d
 ### Publication
 
 26 L’Autorité publie sur son site Web un avis :
+
 a) des mesures prises par le ministre en vertu du paragraphe 23 (3) à l’égard de toute règle que lui a remise l’Autorité;
+
 b) de toute question précisée par le ministre en vertu du paragraphe 25 (1) comme devant être réexaminée.
 
 ### Études
 
 27 (1) Le ministre peut exiger par écrit que l’Autorité :
+
 a) d’une part, étudie des questions de nature générale qui sont visées par les lois, les règlements ou les règles qui régissent un secteur réglementé, ou qui ont une incidence sur ceux-ci, et fasse des recommandations à leur égard;
+
 b) d’autre part, examine la possibilité d’établir une règle sur une question qu’il précise.
 
 ### Publication
@@ -833,7 +973,9 @@ b) d’autre part, examine la possibilité d’établir une règle sur une quest
 ### Avis
 
 (3) L’avis doit comprendre ce qui suit :
+
 1. L’énoncé de la substance de l’exigence.
+
 2. Une mention des études, rapports ou autres pièces écrites non publiés que le ministre a fournis à l’Autorité, à l’exclusion des pièces dont il a demandé à l’Autorité de protéger le caractère confidentiel.
 
 ### Règlements
@@ -847,17 +989,25 @@ b) d’autre part, examine la possibilité d’établir une règle sur une quest
 ### Arrêtés de transfert
 
 29 (1) Malgré la Loi de 1997 sur la Commission des services financiers de l’Ontario ou toute autre loi, mais sous réserve des procédures et exigences énoncées dans la présente loi et les règlements, le ministre peut, par arrêté :
+
 a) transférer tout ou partie des activités et des affaires de la CSFO à l’Autorité;
+
 b) transférer tout ou partie des actifs, passifs, droits et obligations de la CSFO à l’Autorité;
+
 c) transférer tout ou partie des passifs, droits et obligations du surintendant des services financiers au directeur général ou à l’Autorité;
+
 d) exiger que le surintendant des services financiers, l’Autorité ou le directeur général conclue un accord écrit, exécute un document ou un instrument ou accomplisse les autres actes ou choses précisés dans l’arrêté afin d’effectuer le transfert visé à l’alinéa a), b) ou c).
 
 ### Contenu de l’arrêté
 
 (2) L’arrêté pris en vertu du paragraphe (1) :
+
 a) doit préciser la date à laquelle prend effet le transfert des activités, des affaires et des actifs, passifs, droits ou obligations, selon le cas;
+
 b) peut préciser les conditions que le ministre estime nécessaires ou utiles;
+
 c) peut décrire les actifs, passifs, droits ou obligations en fonction d’actifs, de passifs, de droits ou d’obligations donnés ou en fonction de catégories d’actifs, de passifs, de droits ou d’obligations, ou des deux;
+
 d) peut préciser que les questions soulevées par l’interprétation de l’arrêté doivent être réglées de la façon que précise celui-ci.
 
 ### Modification
@@ -875,9 +1025,13 @@ d) peut préciser que les questions soulevées par l’interprétation de l’ar
 ### Prise en charge des droits et des obligations
 
 30 (1) Si le ministre prend un arrêté en vertu du paragraphe 29 (1) :
+
 a) l’Autorité prend en charge, à la date du transfert, les activités et affaires de la CSFO indiquées dans l’arrêté;
+
 b) tous les actifs, passifs, droits et obligations de la CSFO indiqués dans l’arrêté deviennent les actifs, passifs, droits et obligations de l’Autorité et lui sont transférés, sans indemnisation ou avec l’indemnisation prévue dans l’arrêté;
+
 c) tous les passifs, droits et obligations du surintendant des services financiers indiqués dans l’arrêté deviennent les passifs, droits et obligations du directeur général ou de l’Autorité, selon le cas, et lui sont transférés, sans indemnisation ou avec l’indemnisation prévue dans l’arrêté;
+
 d) les instances et autres activités indiquées dans l’arrêté qui sont introduites ou tenues par la CSFO ou le surintendant des services financiers, ou auxquelles l’un ou l’autre est partie, sont réputées être des instances et autres activités introduites ou tenues par l’Autorité ou le directeur général, ou auxquelles l’un ou l’autre est partie, comme le prévoit l’arrêté, et sont poursuivies comme telles.
 
 ### Décharge de responsabilité ou d’obligation
@@ -915,11 +1069,17 @@ d) les instances et autres activités indiquées dans l’arrêté qui sont intr
 ### Non-assimilation à une violation
 
 (9) Le transfert effectué en vertu de la présente loi est réputé :
+
 a) ne pas constituer une violation, résiliation, répudiation ou impossibilité d’exécution d’un accord, y compris un contrat d’assurance;
+
 b) ne pas constituer une violation d’une loi ou d’un règlement ou d’un règlement municipal;
+
 c) ne pas constituer un cas de défaut ou une force majeure;
+
 d) ne pas donner lieu à une violation, révocation, répudiation ou impossibilité d’exécution d’un permis, d’une autorisation ou d’un autre droit;
+
 e) ne pas donner le droit de révoquer un permis ou une autorisation, ni le droit de les répudier ou de mettre fin à un autre droit;
+
 f) ne pas donner lieu à une préclusion.
 
 ### Aucune nouvelle cause d’action
@@ -941,10 +1101,15 @@ f) ne pas donner lieu à une préclusion.
 ### Immunité en ce qui concerne le transfert
 
 (14) Sont irrecevables les instances en dommages-intérêts ou autres redressements relatives à une réclamation faite à la suite d’un transfert effectué en vertu de la présente loi, introduites contre l’une ou l’autre des personnes ou entités suivantes :
+
 a) la Couronne du chef de l’Ontario;
+
 b) l’Autorité;
+
 c) le surintendant des services financiers;
+
 d) le directeur général;
+
 e) les employés et mandataires de la Couronne du chef de l’Ontario ou de l’Autorité ou les personnes nommées par l’une ou l’autre.
 
 ### Ententes de transfert
@@ -954,7 +1119,9 @@ e) les employés et mandataires de la Couronne du chef de l’Ontario ou de l’
 ### Règlements
 
 32 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) compléter les articles 29 et 30 et régir les transferts effectués en vertu de la présente loi;
+
 b) prescrire les lois ou dispositions de lois qui ne s’appliquent pas à un transfert pour l’application du paragraphe 30 (12), sous réserve des conditions ou restrictions prescrites par règlement.
 
 ### Questions relatives à l’ancienne Commission des services financiers de l’Ontario

@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2019-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06a34"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Archives and Recordkeeping Act, 2006
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06a34) before relying on it.
 
 S.O. 2006, c. 34, Sched. A
 
@@ -21,41 +21,69 @@ S.O. 2006, c. 34, Sched. A
 ### Purposes of the Act
 
 1 The purposes of this Act are,
+
 (a) to ensure that the public records of Ontario are managed, kept and preserved in a useable form for the benefit of present and future generations;
+
 (b) to foster government accountability and transparency and to support effective government administration by promoting and facilitating good recordkeeping by public bodies; and
+
 (c) to encourage the public use of Ontario’s archival records as a vital resource for studying and interpreting the history of the province.
 
 ### Interpretation
 
 2 (1) In this Act,
+
 “Archivist” means the Archivist of Ontario appointed under section 8; (“archiviste”)
+
 “Deputy Minister” means the deputy minister to the Minister; (“sous-ministre”)
+
 “legislative body” means,
+
 (a) the Legislative Assembly or a committee of the Legislative Assembly,
+
 (b) an officer of the Legislative Assembly or of the Legislature, or
+
 (c) an officer or servant of the House; (“organisme législatif”)
+
 “Minister” means the member of the Executive Council who is assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “prescribed” means prescribed by regulation; (“prescrit”)
+
 “private record” means a record that is not a public record; (“document privé”)
+
 “public body” means,
+
 (a) the Executive Council or a committee of the Executive Council,
+
 (b) a minister of the Crown,
+
 (c) a ministry of the Government of Ontario,
+
 (d) a commission under the Public Inquiries Act, 2009, or
+
 (e) an agency, board, commission, corporation or other entity designated as a public body by regulation; (“organisme public”)
+
 “public record” means a record made or received by a public body in carrying out the public body’s activities, but does not include constituency records of a minister of the Crown or published works; (“document public”)
+
 “record” means a record of information, including data, in any form, including a record made, recorded, transmitted or stored in digital form or in other intangible form by electronic, magnetic, optical or any other means, but does not include a mechanism or system for making, sending, receiving, storing or otherwise processing information; (“document”)
+
 “regulation” means a regulation made under this Act. (“règlement”)
 
 ### Record of archival value
 
 (2) For the purposes of this Act, a record is a record of archival value if,
+
 (a) it relates to,
+
 (i) the origin, development, organization or activities of a public body, a legislative body, a court or any other person or entity,
+
 (ii) the development or implementation of a law or of a policy or decision of a public body, a legislative body or any other person or entity, or
+
 (iii) the history of Ontario or of any part of Ontario;
+
 (b) it has the characteristics of a record of archival value that are prescribed;
+
 (c) it is designated as a record of archival value by regulation; or
+
 (d) it belongs to a class of records prescribed as being a class of records of archival value.
 
 ### Laws re privacy and access, privileges
@@ -83,9 +111,13 @@ S.O. 2006, c. 34, Sched. A
 ### Objects of the Archives of Ontario
 
 7 The objects of the Archives of Ontario are,
+
 (a) to preserve records of archival value;
+
 (b) to provide access to the public to records in the custody or control of the Archives of Ontario;
+
 (c) to promote good recordkeeping by public bodies to facilitate the preservation of records of archival value and to support effective government administration;
+
 (d) to assist historical research and encourage archival activities in Ontario.
 
 ### Archivist of Ontario
@@ -119,7 +151,9 @@ S.O. 2006, c. 34, Sched. A
 ### Acting Archivist
 
 (8) The Deputy Minister may at any time appoint an acting Archivist with the powers and duties of the Archivist if,
+
 (a) the Archivist is absent or unable to act; or
+
 (b) the office of Archivist is vacant.
 
 ### Protection from personal liability
@@ -149,11 +183,17 @@ S.O. 2006, c. 34, Sched. A
 ### Contents
 
 (2) A records schedule shall,
+
 (a) identify and describe the records or classes of records to which it applies;
+
 (b) specify how long the records are to be retained by the public body;
+
 (c) Repealed:
+
 (d) identify the records or classes of records that are records of archival value;
+
 (e) specify the transfer of records of archival value at the end of their retention period to the Archives of Ontario or the continued retention of such records in accordance with an agreement entered into under clause 18 (1) (a); and
+
 (f) contain any other information that may be required by the Archivist.
 
 ### Archivist’s approval of records schedule
@@ -207,18 +247,27 @@ S.O. 2006, c. 34, Sched. A
 ### Prohibition against destroying, etc., public records
 
 15 (1) A public record shall not be,
+
 (a) destroyed or damaged;
+
 (b) altered so as to delete information from it;
+
 (c) made illegible;
+
 (d) removed from the custody or control of a public body or the Archives of Ontario; or
+
 (e) concealed from a public body or the Archivist.
 
 ### Exception
 
 (2) Subsection (1) does not apply to anything done,
+
 (a) in accordance with an approved records schedule;
+
 (b) in accordance with a direction of the Archivist under subclause 20 (4) (b) (i);
+
 (c) in accordance with an agreement with the Archivist required by subclause 20 (4) (b) (ii); or
+
 (d) with the written consent of the Archivist.
 
 ### Records of Legislative Bodies and the Lieutenant Governor
@@ -242,9 +291,13 @@ S.O. 2006, c. 34, Sched. A
 ### Agreement
 
 (2) An agreement under subsection (1) may provide,
+
 (a) that the Archivist will give the person or entity recordkeeping advice;
+
 (b) that the Archivist will assist the person or entity in determining which of their private records are records of archival value and in protecting and preserving those records;
+
 (c) that the Archives of Ontario will acquire some or all of the person’s or entity’s records of archival value by gift, bequest, purchase or otherwise;
+
 (d) for the protection and preservation of and access to the person’s or entity’s records of archival value.
 
 ## Part iv Records of Archival Value
@@ -254,7 +307,9 @@ S.O. 2006, c. 34, Sched. A
 ### Public records of archival value
 
 18 (1) The Archivist may enter into an agreement,
+
 (a) with a public body providing that the public body will retain custody of all or some of the public body’s records of archival value at the end of their retention period, and will retain and preserve them and make them accessible to the public in accordance with the Archivist’s directions; or
+
 (b) with any other person or entity providing that that person or entity will take custody of all or some of a public body’s records of archival value at the end of their retention period, and will retain and preserve them and make them accessible to the public in accordance with the Archivist’s directions.
 
 ### Agreement to be reflected in records schedule
@@ -268,7 +323,9 @@ S.O. 2006, c. 34, Sched. A
 ### Agreement
 
 (2) The Archivist may enter into an agreement,
+
 (a) with a legislative body providing that the legislative body will retain custody of all or some of the legislative body’s records of archival value at the end of their retention period, and will retain and preserve them and make them accessible to the public in accordance with the Archivist’s directions; or
+
 (b) with any other person or entity providing that that person or entity will take custody of all or some of a legislative body’s records of archival value at the end of their retention period, and will retain and preserve them and make them accessible to the public in accordance with the Archivist’s directions.
 
 ### Archivist’s Designation of Records of Archival Value
@@ -276,7 +333,9 @@ S.O. 2006, c. 34, Sched. A
 ### Designation of public records of archival value
 
 20 (1) Despite sections 13 and 14 or an agreement entered into under section 18, the Archivist may at any time designate any public record or class of public records that is in the custody or control of a public body if, in the Archivist’s opinion, the record or class of records,
+
 (a) may be of archival value; and
+
 (b) is at imminent risk of being damaged or destroyed or otherwise disposed of.
 
 ### Notice
@@ -290,9 +349,13 @@ S.O. 2006, c. 34, Sched. A
 ### Archivist’s powers
 
 (4) The Archivist may, before the expiry of the 45-day period,
+
 (a) review the designated record or records to determine if they are records of archival value; and
+
 (b) if the Archivist determines that they are records of archival value, direct the public body to,
+
 (i) transfer the record or records to the custody and control of the Archives of Ontario by a specified date, or
+
 (ii) enter into an agreement with the Archivist under clause 18 (1) (a) or amend an existing such agreement.
 
 ### Direction, agreement prevail over approved records schedule
@@ -310,14 +373,19 @@ S.O. 2006, c. 34, Sched. A
 ### Offence
 
 (8) Every person is guilty of an offence who,
+
 (a) damages, destroys or otherwise disposes of a public record that is designated by the Archivist under this section within 45 days after the designation is made, except pursuant to a direction of the Archivist under subclause (4) (b) (i) or an agreement entered into or amended pursuant to a direction of the Archivist under subclause (4) (b) (ii) or with the Archivist’s written consent;
+
 (b) refuses the Archivist access to any records designated under this section; or
+
 (c) fails to transfer a designated record to the custody and control of the Archives of Ontario in accordance with the Archivist’s direction under subclause (4) (b) (i).
 
 ### Designation of private records of archival value
 
 21 (1) The Archivist may designate any private record of archival value or class of private records of archival value if, in the Archivist’s opinion, the record or class of records,
+
 (a) is of provincial significance; and
+
 (b) is at risk of being damaged or destroyed.
 
 ### Notice to owner
@@ -359,9 +427,13 @@ S.O. 2006, c. 34, Sched. A
 ### Refusal of access
 
 (4) Despite subsections (1) and (2), the Archivist,
+
 (a) shall refuse to produce for examination any record of archival value, or a copy of any record of archival value, if the refusal is required by the Freedom of Information and Protection of Privacy Act or any other Act;
+
 (b) may refuse to produce for examination any record of archival value, or a copy of any record of archival value, if,
+
 (i) the refusal is permitted by the Freedom of Information and Protection of Privacy Act or any other Act, or
+
 (ii) the record is excluded from the application of the Freedom of Information and Protection of Privacy Act by section 65 of that Act.
 
 ### Preservation of records
@@ -375,7 +447,9 @@ S.O. 2006, c. 34, Sched. A
 ### Certified copy of record
 
 23 A copy of a record from the Archives of Ontario certified by the Archivist or the Archivist’s delegate to be a true copy of the original record,
+
 (a) is proof, in the absence of evidence to the contrary, of the authenticity and correctness of the copy, without proof of the appointment or signature of the Archivist or the Archivist’s delegate; and
+
 (b) is admissible in evidence to the same extent as the original record and has the same evidentiary value.
 
 ### Archivist’s Disposition of Records
@@ -405,15 +479,27 @@ S.O. 2006, c. 34, Sched. A
 ### Regulations
 
 26 The Lieutenant Governor in Council may make regulations,
+
 (a) designating an agency, board, commission, corporation or other entity as a public body;
+
 (b) prescribing characteristics of a record of archival value;
+
 (c) designating any record to be a record of archival value;
+
 (d) prescribing a class of records to be records of archival value;
+
 (e) defining “provincial significance” for the purpose of section 21;
+
 (f) exempting any public body, or any class of public body, from any provision of this Act and prescribing conditions and circumstances for such exemption;
+
 (g) assigning additional powers and duties to the Archivist.
+
 27 , 28 Omitted (amends or repeals other Acts).
+
 29 Omitted (provides for amendments to this Act)
+
 30 Omitted (amends or repeals other Acts).
+
 31 Omitted (provides for coming into force of provisions of this Act)
+
 32 Omitted (enacts short title of this Act).

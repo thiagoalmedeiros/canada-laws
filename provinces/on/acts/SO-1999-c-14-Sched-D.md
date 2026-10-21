@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2021-11-29"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99t14d"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Town of Norfolk Act, 1999
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99t14d) before relying on it.
 
 S.O. 1999, c. 14, Sched. D
 
@@ -21,23 +21,41 @@ S.O. 1999, c. 14, Sched. D
 ### Interpretation
 
 1 (1) In this Act,
+
 “collective agreement” means,
+
 (a) a collective agreement within the meaning of the Labour Relations Act, 1995,
+
 (b) a collective agreement within the meaning of Part IX of the Fire Protection and Prevention Act, 1997, or
+
 (c) an agreement under Part VIII of the Police Services Act; (“convention collective”)
+
 “divided municipality” means either The Regional Municipality of Haldimand-Norfolk or the City of Nanticoke as they exist on December 31, 2000; (“municipalité démembrée”)
+
 “local board” means a public utility commission, municipal service board, transportation commission, public library board, board of park management, board of health, police services board or other body established or exercising power under any general or special Act with respect to any of the affairs of an old municipality or of the town, but does not include,
+
 (a) the transition board,
+
 (b) a children’s aid society,
+
 (c) a conservation authority, or
+
 (d) a school board; (“conseil local”)
+
 “merged area” means all of an old municipality that forms part of the town or all of that portion of a divided municipality that forms part of the town; (“secteur fusionné”)
+
 “Minister” means the Minister of Municipal Affairs and Housing; (“ministre”)
+
 “municipal area” means the area that comprises the geographic area of jurisdiction of the old municipalities on December 31, 2000 and the area that comprises the geographic area of jurisdiction described in Schedule A to this Act of the City of Nanticoke as it exists on December 31, 2000, with such adjustments as may be prescribed under subsection (2); (“secteur municipal”)
+
 “municipal benefit” includes a direct or indirect benefit which is available immediately after an expenditure of money on a service or activity and a benefit which will be available only after an additional expenditure of money on the service or activity; (“avantage municipal”)
+
 “old municipality” means the Township of Norfolk, the Township of Delhi or the Town of Simcoe, as they exist on December 31, 2000; (“ancienne municipalité”)
+
 “special service” means a service or activity of the town that is not being provided or undertaken generally throughout the town or that is being provided or undertaken at different levels or in a different manner in different parts of the town; (“service spécial”)
+
 “town” means the Town of Norfolk incorporated by this Act; (“ville”)
+
 “transition board” means the transition board referred to in subsection 21 (1) of the Town of Haldimand Act, 1999. (“conseil de transition”)
 
 ### Adjustments to the municipal area
@@ -53,6 +71,7 @@ S.O. 1999, c. 14, Sched. D
 ### Status
 
 (2) The body corporate has the status of a city and a local municipality for all purposes.
+
 (3) Repealed: 2002, c. 17, Sched. F, Table.
 
 ### Wards
@@ -70,7 +89,9 @@ S.O. 1999, c. 14, Sched. D
 ### Transition, first council
 
 (3) The following special rules apply to the members of the council elected in the 2000 regular election:
+
 1. Despite section 6 of the Municipal Elections Act, 1996, the members’ terms of office begin on January 1, 2001.
+
 2. Despite subsection 49 (1) of the Municipal Act, the first meeting of the council shall be held on or before January 9, 2001.
 
 ### Dissolution of old municipalities
@@ -84,7 +105,9 @@ S.O. 1999, c. 14, Sched. D
 ### Same
 
 (3) Without limiting the generality of subsection (2),
+
 (a) the town has every power and duty of an old municipality or a divided municipality under any general or special Act, in respect of the part of the municipal area to which the power or duty applied on December 31, 2000; and
+
 (b) all the assets and liabilities of the old municipalities on December 31, 2000, including all rights, interests, approvals, status, registrations, entitlements and contractual benefits and obligations, become assets and liabilities of the town on January 1, 2001, without compensation.
 
 ### Exception, emergency powers
@@ -118,7 +141,9 @@ S.O. 1999, c. 14, Sched. D
 ### Same
 
 (2) Without limiting the generality of subsection (1),
+
 (a) the town has every power and duty of a divided municipality under any general or special Act, in respect of the part of the municipal area to which the power or duty applied on December 31, 2000; and
+
 (b) all the assets and liabilities of the divided municipalities on December 31, 2000 that are allocated to the town under section 34 of the Town of Haldimand Act, 1999, including all rights, interests, approvals, status, registrations, entitlements and contractual benefits and obligations, become assets and liabilities of the town on January 1, 2001, without compensation.
 
 ### Exception, emergency powers
@@ -260,6 +285,7 @@ S.O. 1999, c. 14, Sched. D
 ### Management of landfill site
 
 13 Jointly with the Town of Haldimand, the town shall operate and maintain the Tom Howe landfill site referred to in subsection 6 (6) of the Town of Haldimand Act, 1999, unless they agree otherwise.
+
 13.1 Repealed: 2002, c. 17, Sched. F, Table.
 
 ### Powers re: supported group living residences
@@ -269,7 +295,9 @@ S.O. 1999, c. 14, Sched. D
 ### Same
 
 (2) Subsection (1) applies to a corporation without share capital having objects of a charitable nature,
+
 (a) to which the Not-for-Profit Corporations Act, 2010 applies; or
+
 (b) that is incorporated under a general or special Act of the Parliament of Canada.
 
 ### Powers re parks, etc.
@@ -323,6 +351,7 @@ S.O. 1999, c. 14, Sched. D
 ### Same
 
 (6) The decision of the Ontario Land Tribunal is final.
+
 (7) Repealed: 2009, c. 33, Sched. 2, s. 76.
 
 ### Fluoridation of water
@@ -346,34 +375,47 @@ S.O. 1999, c. 14, Sched. D
 ### By-law re special services
 
 15 (1) Subject to the restrictions set out in this section, the town may do the following things by by-law:
+
 1. Identify a special service.
+
 2. Determine the amount of the town’s costs (including capital costs, debenture charges and charges for depreciation or for a reserve fund) that are related to that special service.
+
 3. Subject to a regulation made under subsection (5), designate one or more merged areas of the town as an area in which the residents and property owners receive or will receive an additional municipal benefit from the special service that is not or will not be received in the other merged areas of the town.
+
 4. Determine the portion of the amount determined under paragraph 2 that represents the additional cost of providing the additional municipal benefit in each area designated under paragraph 3 and set out the method it used for making that determination.
+
 5. Determine the amount, if any, of the additional cost referred to in paragraph 4 that is to be raised under subsection (8).
 
 ### Restriction
 
 (2) A by-law may be made with respect to a special service,
+
 (a) that was being provided in a merged area of the town by or on behalf of an old municipality or divided municipality or a local board of an old municipality or divided municipality; and
+
 (b) that continued to be provided in the merged area by or on behalf of the town or a local board of the town at any time during 2001.
 
 ### Same
 
 (3) A by-law cannot designate a merged area under paragraph 3 of subsection (1) as one in which residents and property owners do not currently receive but will receive an additional municipal benefit from the special service in future unless,
+
 (a) the expenditures necessary to make the additional benefit available in the merged area appear in the town’s budget for the year (as adopted under section 290 of the Municipal Act, 2001); or
+
 (b) the town has established a reserve fund to finance those expenditures over a period of years.
 
 ### Same
 
 (4) The town cannot pass a by-law for a particular year (the “applicable year”) after 2002 with respect to a particular special service unless the following conditions are met:
+
 1. The town passed a by-law with respect to the special service in 2002.
+
 2. The town passed a by-law with respect to the special service for every year after 2002 and before the applicable year.
 
 ### Regulation, designated areas
 
 (5) For the purposes of paragraph 3 of subsection (1), the Minister may, by regulation,
+
 (a) specify an area that may be designated under that paragraph even though it is not composed of one or more merged areas;
+
 (b) prescribe circumstances in which an area may be designated under that paragraph even though it is not composed of one or more merged areas.
 
 ### Same
@@ -399,19 +441,25 @@ S.O. 1999, c. 14, Sched. D
 ### Interpretation
 
 (2) A reference in this section to the assets or liabilities of a merged area is a reference to,
+
 (a) in the case of a merged area comprised of an old municipality, the assets or liabilities on December 31, 2000 of the municipality and its local boards; and
+
 (b) in the case of a merged area comprised of part of a divided municipality, the assets or liabilities on December 31, 2000 of the municipality and its local boards that are allocated to the town under section 34 of the Town of Haldimand Act, 1999.
 
 ### Decrease in tax rates
 
 (3) Subject to the restrictions set out in this section, the town may, by by-law, decrease the tax rates that would otherwise apply on the assessment within a merged area,
+
 (a) if the town council considers that it would be unfair that the taxpayers in the merged area not receive direct benefit from the assets or any class of assets of the merged area; and
+
 (b) if the amount of taxes lost by decreasing the tax rates does not exceed the value of the assets referred to in clause (a).
 
 ### Increase in tax rates
 
 (4) Subject to the restrictions set out in this section, the town may, by by-law, increase the tax rates that would otherwise apply on the assessment within a merged area,
+
 (a) if the town council considers that it would be unfair that the taxpayers outside the merged area be responsible for the liabilities or any class of liabilities of the merged area; and
+
 (b) if the amount of taxes gained by increasing the tax rates does not exceed the value of the liabilities referred to in clause (a).
 
 ### Restriction
@@ -421,7 +469,9 @@ S.O. 1999, c. 14, Sched. D
 ### Same
 
 (6) The town cannot pass a by-law under this section for a particular year (the “applicable year”) after 2002 with respect to a merged area unless the following conditions are met:
+
 1. The town passed a by-law under this section in 2002 with respect to the merged area.
+
 2. The town passed a by-law under this section with respect to the merged area for every year after 2002 and before the applicable year.
 
 ### Same
@@ -451,7 +501,9 @@ S.O. 1999, c. 14, Sched. D
 ### Definitions
 
 (13) In this section,
+
 “assets” means reserves, reserve funds and such other assets as may be prescribed; (“éléments d’actif”)
+
 “liabilities” means debts and such other liabilities as may be prescribed. (“éléments de passif”)
 
 ### Fees or charges re: sewage
@@ -461,10 +513,15 @@ S.O. 1999, c. 14, Sched. D
 ### Levies for various services
 
 18 (1) The town may establish one or more municipal service areas and levy one or more special local municipality levies under section 312 of the Municipal Act, 2001 in the municipal service areas for the purpose of raising all or part of its costs for the following services, including the costs of establishing, constructing, maintaining, operating, improving, extending and financing those services:
+
 1. The supply and distribution of water.
+
 2. Fire protection and prevention.
+
 3. Public transportation, other than highways.
+
 4. Street lighting.
+
 5. The collection and disposal of sewage.
 
 ### Same
@@ -474,6 +531,7 @@ S.O. 1999, c. 14, Sched. D
 ### Area taxing power
 
 19 (1) In this section,
+
 “area taxing power” means a power under section 15 or 18 of this Act or under any other provision of an Act, regulation or order that authorizes the town to raise costs related to services by imposing taxes on less than all the rateable property in the town.
 
 ### Duty
@@ -491,15 +549,21 @@ S.O. 1999, c. 14, Sched. D
 ### Borrowing limit for 2001
 
 19.1 For the purpose of subsection 187 (4) of the Municipal Act, the estimated revenue of the town for 2000 is the sum of,
+
 (a) the estimated revenues of the old municipalities as shown in the estimates adopted for 2000; and
+
 (b) the estimated revenues of each of the divided municipalities as shown in the estimates adopted for 2000, multiplied by the percentage prescribed for each municipality.
 
 ### Surplus or operating deficit for 2001
 
 19.2 For the purpose of subsection 367 (3) of the Municipal Act, the surplus for which allowance is to be made by the town for 2001 or the operating deficit to be provided for by the town for 2001, as the case may be, shall be determined as follows:
+
 1. Subtract the total of the audited operating deficits of the old municipalities as of December 31, 2000 from the total of the audited surpluses of the old municipalities as of December 31, 2000.
+
 2. For each divided municipality, multiply the audited operating deficit or audited surplus, as the case may be, as of December 31, 2000 by the percentage prescribed for each municipality.
+
 3. Add the results obtained for each divided municipality under paragraph 2 to get a total amount for all divided municipalities.
+
 4. Add the total amounts obtained under paragraphs 1 and 3.
 
 ### Payment of damages to employees
@@ -539,7 +603,9 @@ S.O. 1999, c. 14, Sched. D
 ### Same
 
 (2) The contract must be one of the following:
+
 1. A contract entered into after October 8, 1999, containing a provision described in subsection (3).
+
 2. A contract amended after October 8, 1999 to include a provision described in subsection (3).
 
 ### Provision
@@ -549,6 +615,7 @@ S.O. 1999, c. 14, Sched. D
 ### Definition
 
 (4) In this section,
+
 “compensation” includes severance payments and payments during a period of notice of termination or payments in lieu of such notice.
 
 ### Power to hire certain town employees
@@ -558,29 +625,49 @@ S.O. 1999, c. 14, Sched. D
 ### Same
 
 (2) When the transition board hires a person under subsection (1), the following rules apply:
+
 1. The transition board has the authority to negotiate the terms of the employment contract with the person.
+
 2. The town is bound by the employment contract.
+
 3. The employment contract may take effect on or before January 1, 2001.
+
 4. If the contract takes effect before January 1, 2001, the person is the employee of the transition board before January 1, 2001 and the employee of the town beginning on January 1, 2001. If the contract takes effect on January 1, 2001, the person is the employee of the town.
+
 5. While the person is an employee of the transition board, the person shall be deemed to be an employee under the Ontario Municipal Employees Retirement System Act, and the transition board shall be deemed, in respect of the person, to be an employer under that Act.
+
 6. On January 1, 2001, the town council shall be deemed to have taken all the steps that may be required to make the person the effective holder of his or her office.
 
 ### Power re information, etc.
 
 23 (1) The transition board has the following powers to obtain information, records and documents from an old municipality, a divided municipality and a local board of either of them:
+
 1. To require the old municipality, divided municipality or local board to submit a report to the transition board,
+
 i. identifying the assets and liabilities of the old municipality, divided municipality or local board, or specified categories of those assets and liabilities, and
+
 ii. naming the members and employees of the old municipality, divided municipality or local board and stating their position, terms of employment, remuneration and employment benefits.
+
 2. To require the old municipality or divided municipality to submit a report to the transition board listing the entities, including local boards,
+
 i. that were established by or for the old municipality or divided municipality and that exist when the report is made, or
+
 ii. that received funding from the old municipality or divided municipality in 1999.
+
 3. To require the old municipality or divided municipality to submit a report to the transition board,
+
 i. listing the entities, including local boards, to which the old municipality or divided municipality has the power to make appointments, and
+
 ii. for each entity, identifying the source of the power to make the appointments, naming each current appointee and stating when his or her term expires.
+
 4. To require the old municipality, divided municipality or local board to give the transition board information, records or documents that are in the possession or control of the municipality or local board and are relevant to the functions of the transition board.
+
 5. To require the old municipality, divided municipality or local board to create a new document or record that is relevant to the functions of the transition board by compiling existing information, and to give the document or record to the transition board.
+
 6. To require the old municipality, divided municipality or local board to give the transition board a report concerning any matter the transition board specifies that is relevant to the functions of the transition board.
+
 7. To require the old municipality, divided municipality or local board to update information previously given to the transition board under any of the preceding paragraphs.
+
 8. To impose a deadline for complying with a requirement imposed under any of the preceding paragraphs.
 
 ### Conflict
@@ -602,7 +689,9 @@ ii. for each entity, identifying the source of the power to make the appointment
 ### Duty to co-operate, etc.
 
 24 (1) The members of the council of each old municipality and divided municipality, the employees and agents of either and the members, employees and agents of each local board of either shall,
+
 (a) co-operate with the members, employees and agents of the transition board, assist them in the performance of their duties and comply with their requests under this Act; and
+
 (b) on request, allow any person described in clause (a) to examine and copy any document, record or other information in the possession or control of the old municipality, divided municipality or local board, as the case may be, that is relevant to the functions of the transition board.
 
 ### Conflict
@@ -616,7 +705,9 @@ ii. for each entity, identifying the source of the power to make the appointment
 ### Same
 
 (2) Without limiting the generality of subsection (1), the personal information referred to in that subsection includes information relating to,
+
 (a) a financial transaction or proposed financial transaction of an old municipality, a divided municipality or a local board of either;
+
 (b) anything done or proposed to be done in connection with the finances of an old municipality, a divided municipality or a local board of either by a member of the council of the municipality or local board or by an employee or agent of the municipality or local board.
 
 ### Offence
@@ -634,8 +725,11 @@ ii. for each entity, identifying the source of the power to make the appointment
 ### Same
 
 (2) Subsection (1) also applies in respect of an employee or agent of an old municipality, a divided municipality or a local board of either who acts under the direction of,
+
 (a) the transition board or a member of it;
+
 (b) the council of the old municipality or divided municipality; or
+
 (c) the local board.
 
 ### Vicarious liability
@@ -659,9 +753,13 @@ ii. for each entity, identifying the source of the power to make the appointment
 ### Regulations re powers and duties
 
 28 (1) The Minister may make regulations providing that an old municipality or a local board of an old municipality,
+
 (a) shall not exercise a specified power under a particular Act;
+
 (b) shall not exercise a specified power under a particular Act unless it is exercised in the manner specified in the regulation;
+
 (c) shall not exercise a specified power under a particular Act without the approval of the transition board or of such other person or body as is specified in the regulation;
+
 (d) shall not exercise a specified power under a particular Act unless it is exercised in accordance with the guidelines, if any, issued by the transition board under this Act or the Town of Haldimand Act, 1999.
 
 ### Same
@@ -671,13 +769,21 @@ ii. for each entity, identifying the source of the power to make the appointment
 ### Same
 
 (3) The following rules apply with respect to regulations under subsection (1):
+
 1. A regulation cannot prevent an old municipality or local board from doing anything that it is otherwise required by law to do.
+
 2. A regulation cannot prevent an old municipality or local board from taking action in an emergency.
+
 3. A regulation cannot prevent the performance of a contract entered into before the day this subsection comes into force.
+
 4. A regulation cannot prevent an action that is approved by, or done in accordance with, guidelines of the transition board issued under this Act or the Town of Haldimand Act, 1999.
+
 5. A regulation cannot prevent an action that is provided for by a by-law or resolution that also contains provisions to the effect that the by-law or resolution does not come into force until,
+
 i. the approval of the transition board or other person or body specified by a regulation made under clause (1) (c) has been obtained, or
+
 ii. guidelines authorizing the action are issued by the transition board under this Act or the Town of Haldimand Act, 1999.
+
 6. If the transition board or another person or body is authorized to give an approval under this Act or the Town of Haldimand Act, 1999, it may approve an action in advance or retroactively and may impose conditions that apply to the approval.
 
 ### Collective Bargaining before January 1, 2001
@@ -729,7 +835,9 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Agreement re change in bargaining units
 
 (2) The agreement does not come into effect until the later of,
+
 (a) the day on which the conditions described in subsections 20 (7) and (8) of the Public Sector Labour Relations Transition Act, 1997 are satisfied; and
+
 (b) January 1, 2001.
 
 ### Restrictions
@@ -751,7 +859,9 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Agreement re change of bargaining agents
 
 (7) If an agreement described in subsection (1) is made, any agreement made by the bargaining agents concerned under section 21 of the Public Sector Labour Relations Transition Act, 1997 does not come into effect until the later of,
+
 (a) the day on which the conditions described in subsection 21 (2) of that Act are satisfied; and
+
 (b) January 1, 2001.
 
 ### Notice of agreement
@@ -811,7 +921,9 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Terms extended
 
 34 (1) The following persons, if in office on November 30, 2000, shall continue in office until the first council of the town is organized:
+
 1. The members of the councils of the old municipalities.
+
 2. The members of the local boards of the old municipalities.
 
 ### Same
@@ -825,12 +937,19 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Rules for the regular election
 
 35 The following rules apply to the regular election in 2000 in the municipal area:
+
 1. The election shall be conducted as if sections 2, 3, 4, 5 and 9 of this Act and section 6 of the Town of Haldimand Act, 1999 were already in force.
+
 2. The transition board shall designate a person to conduct the regular election in 2000 under the Municipal Elections Act, 1996.
+
 3. The clerks of the old municipalities and the divided municipalities and the clerk of the town, if appointed, shall assist the person designated under paragraph 2 and act under his or her direction.
+
 4. The transition board acts as council for the purpose of making the decisions that council is required to make under the Municipal Elections Act, 1996 for the regular election. The town council shall make those decisions once the council is organized.
+
 5. The costs of the election in the municipal area that are payable in 2000 shall be included in the operating budget of The Regional Municipality of Haldimand-Norfolk for 2000. The regional municipality shall pay those costs as directed by the person designated under paragraph 2. The costs of the election in the municipal area that are payable in 2001 shall be paid by the town.
+
 6. Each area municipality under the Regional Municipality of Haldimand-Norfolk Act shall include in its operating budget for 2000 an amount equal to the amount it would have budgeted for the costs of the regular election in 2000 if this Act had not been passed, and shall pay that amount to The Regional Municipality of Haldimand-Norfolk on or before July 1, 2000.
+
 7. The amount referred to in paragraph 6 shall be paid, first, from any reserve or reserve fund previously established by the area municipality for the costs of the regular election in 2000.
 
 ### General
@@ -850,15 +969,21 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Same, Minister
 
 (2) The Minister may make regulations,
+
 (a) prescribing anything that is required or permitted by this Act to be done or prescribed by a regulation under this Act;
+
 (b) defining any word or expression used in this Act that is not expressly defined in this Act;
+
 (c) providing for any transitional matter that, in the opinion of the Minister, is necessary or desirable for the effective implementation of this Act;
+
 (d) establishing wards for the purposes of section 3.
 
 ### Examples
 
 (3) A regulation under clause (2) (c) may provide, for example,
+
 (a) that the town may undertake long-term borrowing to pay for operational expenditures on transitional costs, as defined in the regulation, subject to such conditions and restrictions as may be prescribed;
+
 (b) that, for the purposes of section 8 of the Municipal Elections Act, 1996, the Minister may require a question to be submitted to the electors of all or any part of the municipal area set out in the regulation.
 
 ### General or specific
@@ -876,7 +1001,9 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Same
 
 (2) In the event of a conflict between a regulation made under this Act and a provision of this Act or of another Act or a regulation made under another Act, the regulation made under this Act prevails.
+
 39 Omitted (provides for coming into force of provisions of this Act).
+
 40 Omitted (enacts short title of this Act).
 
 ## Schedule A
@@ -890,14 +1017,25 @@ All of that part of the City of Nanticoke as it exists on December 31, 2000, tha
 ### DESCRIPTION:
 
 BEGINNING at the intersection of the centreline of Regional Road 74 with the southwesterly limit of the County of Brant;
+
 THENCE southerly along the centreline of Regional Road 74 to its intersection with the prolongation of the centreline of the road allowance between Concessions 11 and 12 of the geographic Township of Townsend;
+
 THENCE westerly to and along the centreline of the road allowance to its intersection with the prolongation of the limit between Lots 20 and 21, Concession 12 of the geographic Township of Townsend;
+
 THENCE southerly to and along the limit between Lots 20 and 21 through Concessions 12 and 13 of the geographic Township of Townsend, to the dividing line between the north and south halves of Concession 13;
+
 THENCE westerly along the dividing line to the dividing line between the east and west halves of Lot 20, Concession 13;
+
 THENCE southerly along the dividing line between the east and west halves of Lot 20 through Concessions 13 and 14 of the geographic Township of Townsend to the southerly limit of railway right-of-way running east to west through Lot 20, Concession 14;
+
 THENCE easterly along the southerly limit of the railway right-of-way to its intersection with the limit between Lots 20 and 21, Concession 14;
+
 THENCE southerly along the limit between Lots 20 and 21, and its southerly prolongation, to the centreline of Highway No. 3;
+
 THENCE easterly along the centreline of Highway No. 3 to its intersection with the prolongation of the centreline of Regional Road 70;
+
 THENCE southerly to and along the centreline of Regional Road 70, and its southerly prolongation, to its intersection with the centreline of Highway No. 6;
+
 THENCE southwesterly along the centreline of Highway No. 6 to its intersection with the prolongation of the limit between Lots 20 and 21, Concession 3 of the geographic Township of Woodhouse;
+
 THENCE southerly to and along the limit between Lots 20 and 21 through Concessions 3, 2 and 1 of the geographic Township of Woodhouse to the limit of Lake Erie.

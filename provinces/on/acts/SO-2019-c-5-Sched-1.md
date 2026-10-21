@@ -6,27 +6,36 @@ language: en
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c05"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Connecting Care Act, 2019
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c05) before relying on it.
 
 S.O. 2019, c. 5, Sched. 1
 
 ### Preamble
 
 The people of Ontario and their government,
+
 Believe that their health care system should be centred around people, patients, their families, and their caregivers;
+
 Believe that public funding should be directed to frontline services to continuously improve patient experience, constantly promote better value, ensure best outcomes for every dollar spent, and improve the overall physical health, mental health and well-being of Ontarians;
+
 Are committed to a sustainable, digitally-enabled, publicly funded health care system built to last;
+
 Are establishing a new model of integrated public health care delivery which will put each patient at the centre of a connected care system anchored in the community, and where possible, at home, all across Ontario and respecting regional differences;
+
 Will empower providers to work directly with one another to offer the highest quality, co-ordinated care, protecting patients from disruptive transitions through the system;
+
 Are creating a single provincial agency that will remove duplication while replicating and amplifying best-in-class clinical guidance and approaches to care;
+
 Believe that the public health care system should be guided by a commitment to equity and to the promotion of equitable health outcomes;
+
 Acknowledge that the public health care system should recognize the diversity within all of Ontario’s communities and respect the requirements of the French Language Services Act in the planning, design, delivery and evaluation of health care services for Ontario’s French-speaking communities; and
+
 Recognize the role of Indigenous peoples in the planning, design, delivery and evaluation of health services in their communities.
 
 ## PART I Interpretation and OTHER
@@ -34,57 +43,101 @@ Recognize the role of Indigenous peoples in the planning, design, delivery and e
 ### Interpretation
 
 1 (1) In this Act,
+
 “accountability agreement” means the accountability agreement that the Minister and the Agency are required to enter into under subsection 19 (1); (“entente de responsabilisation”)
+
 “Agency” means the corporation continued by section 3; (“Agence”)
+
 “Appeal Board” means the Health Services Appeal and Review Board under the Ministry of Health and Long-Term Care Appeal and Review Boards Act, 1998; (“Commission d’appel”)
+
 “client provider” means a health service provider or an Ontario Health Team that is funded by the Agency under section 21 to provide home and community care services to the provider’s or Team’s patients and to which the Service Organization provides operational supports; (“client-fournisseur”)
+
 “compliance order” means an order made under section 43.5; (“arrêté de conformité”)
+
 “de-identify” has the same meaning as in section 2 of the Personal Health Information Protection Act, 2004; (“anonymiser”)
+
 “health service provider” has the meaning set out in subsection (2); (“fournisseur de services de santé”)
+
 “integrate” includes,
+
 (a) to co-ordinate services and interactions between different persons and entities,
+
 (b) to partner with another person or entity in providing services or in operating,
+
 (c) to transfer, merge or amalgamate services, operations, persons or entities,
+
 (d) to start or cease providing services, and
+
 (e) to cease to operate or to dissolve or wind up the operations of a person or entity,
+
 and “integration” has a similar meaning; (“intégrer”, “intégration”)
+
 “Minister” means the Minister of Health or such other member of the Executive Council to whom the administration of this Act is assigned under the Executive Council Act; (“ministre”)
+
 “Ministry” means the Ministry of the Minister; (“ministère”)
+
 “Ontario Health Team” or “Team” means a person or entity, or a group of persons or entities, designated under section 29; (“équipe Santé Ontario”, “équipe”)
+
 “personal health information” has the same meaning as in section 4 of the Personal Health Information Protection Act, 2004; (“renseignements personnels sur la santé”)
+
 “personal information” has the same meaning as in the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “service accountability agreement” means the service accountability agreement that the Agency is required to enter into under section 22. (“entente de responsabilisation en matière de services”)
+
 “Service Organization” means the corporation continued under section 27.2. (“Organisme de services”)
 
 ### Health service provider
 
 (2) In this Act,
+
 “health service provider” means the following persons and entities:
+
 0.1 The Service Organization.
+
 1. A person or entity that operates a hospital within the meaning of the Public Hospitals Act or a private hospital within the meaning of the Private Hospitals Act.
+
 2. A person or entity that operates a psychiatric facility within the meaning of the Mental Health Act except if the facility is,
+
 i. a correctional institution operated or maintained by a member of the Executive Council, other than the Minister, or
+
 ii. a prison or penitentiary operated or maintained by the Government of Canada.
+
 3. The University of Ottawa Heart Institute/Institut de cardiologie de l’Université d’Ottawa.
+
 4. A licensee within the meaning of the Fixing Long-Term Care Act, 2021, other than a municipality or board of management described in paragraph 5.
+
 5. A municipality or board of management that maintains a long-term care home under Part IX of the Fixing Long-Term Care Act, 2021.
+
 6. A not-for-profit entity that provides home and community care services.
+
 7. A not-for-profit entity that operates a community health centre.
+
 8. A not-for-profit entity that provides community mental health and addiction services.
+
 9. A not-for-profit entity that operates a family health team.
+
 10. A not-for-profit entity that operates a nurse practitioner-led clinic.
+
 11. A not-for-profit entity that operates an Aboriginal health access centre.
+
 12. A person or entity that provides primary care nursing services, maternal care or inter-professional primary care programs and services.
+
 13. A not-for-profit entity that provides palliative care services, including a hospice.
+
 14. A person or entity that provides physiotherapy services in a clinic setting that is not otherwise a health service provider.
+
 15. An integrated community health services centre within the meaning of the Integrated Community Health Services Centres Act, 2023.
+
 16. Any other person or entity or class of persons or entities that is prescribed.
 
 ### Regulations re: Service Organization being health service provider
 
 (3) The regulations may provide that the Service Organization is deemed not to be a health service provider or to have been funded by the Agency under section 21 for the purposes of any provision of this Act or its regulations or any other Act or regulations.
+
 (4) Repealed: 2020, c. 13, Sched. 1, s. 1 (8).
 
 ### Delegation
@@ -134,25 +187,45 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Objects of the Agency.
 
 6 The objects of the Agency are,
+
 (a) to implement the health system strategies developed by the Ministry;
+
 (b) to manage health service needs across Ontario consistent with the Ministry’s health system strategies to ensure the quality and sustainability of the Ontario health system through,
+
 (i) health system operational management and co-ordination,
+
 (ii) health system performance measurement and management, evaluation, monitoring and reporting,
+
 (iii) health system quality improvement,
+
 (iv) clinical and quality standards development for patient care and safety,
+
 (v) knowledge dissemination,
+
 (vi) patient engagement and patient relations,
+
 (vii) digital health, information technology and data management services, and
+
 (viii) support of health care practitioner recruitment and retention;
+
 (b.0.1) to provide oversight of the Service Organization in a manner consistent with the health system strategies set by the Ministry;
+
 (b.1) to support, through its Mental Health and Addictions Centre of Excellence, the mental health and addictions strategy provided for under the Mental Health and Addictions Centre of Excellence Act, 2019;
+
 (b.2) to support or undertake any functions, powers or duties that may be conferred on the Agency, or an employee of the Agency, under the Integrated Community Health Services Centres Act, 2023;
+
 (c) to plan, co-ordinate, undertake and support activities related to tissue donation and transplantation in accordance with the Gift of Life Act;
+
 (d) to support the patient ombudsman in carrying out their functions in accordance with the Excellent Care for All Act, 2010;
+
 (e) to support or provide supply chain management services to health service providers and related organizations;
+
 (f) to provide advice, recommendations and information to the Minister and other participants in the Ontario health care system in respect of issues related to health care that the Minister may specify;
+
 (g) to promote health service integration to enable appropriate, co-ordinated and effective health service delivery;
+
 (h) to respect the diversity of communities and the requirements of the French Language Services Act in carrying out its objects; and
+
 (i) any other prescribed objects.
 
 ### General powers
@@ -162,8 +235,11 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Assets and revenue
 
 (1.1) Despite Part I of the Financial Administration Act, the following assets and revenues of the Agency do not form part of the Consolidated Revenue Fund:
+
 1. Funding that the Agency receives from the Crown in right of Ontario, except for any funding that is specified in the accountability agreement by the Minister as forming part of the Consolidated Revenue Fund.
+
 2. Any revenue generated, or money or assets received, from a person or entity other than the Crown in right of Ontario in compliance with the Agency’s power in paragraph 6 of subsection (3).
+
 3. Any other prescribed assets or revenues.
 
 ### Use of revenue
@@ -173,21 +249,33 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Cabinet approval
 
 (3) The Agency shall not exercise the following powers without the approval of the Lieutenant Governor in Council:
+
 1. Acquiring, disposing, leasing, mortgaging, charging, hypothecating or otherwise transferring or encumbering any interest in real property, except for leasing space that is reasonably necessary for the purposes of the Agency.
+
 2., 3. Repealed: 2025, c. 15, Sched. 2, s. 1 (2).
+
 4. Pledging, charging or encumbering any of its personal property.
+
 5. Creating a subsidiary.
+
 6. Generating revenue or otherwise receiving money or assets from any person or entity except the Crown in right of Ontario, with the exception of money or assets that are received pursuant to a transfer order under this Act.
+
 7. Repealed: 2023, c. 19, s. 4 (1).
+
 8. Doing anything else that is prescribed as being a power that the Agency may not exercise without such approval.
 
 ### Approval of Minister
 
 (4) The Agency shall not exercise the following powers without the approval of the Minister:
+
 1. Making charitable donations except as authorized by this Act.
+
 2. Applying for or obtaining registration as a registered charity under the Income Tax Act (Canada).
+
 3. Conducting fundraising activities or acting in association with a person or entity that conducts any fundraising activities or programs, directly or indirectly, for the Agency or the Service Organization.
+
 4. Entering into an agreement with any person, entity or government for the provision of services outside Ontario.
+
 5. Entering into an agreement with any government or government agency outside Ontario, including the Government of Canada or the government of a province or territory of Canada.
 
 ### No political donations
@@ -215,14 +303,19 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Term
 
 (2) Subject to subsection (3), the following provisions apply respecting the term of members of the board of directors of the Agency:
+
 1. Each member shall hold office for a term of up to three years at the pleasure of the Lieutenant Governor in Council and may be reappointed for any number of terms of up to three years.
+
 2. Despite paragraph 1, no person may be a member for more than six years in total.
+
 3. Despite paragraph 2, a member who is designated as chair under subsection (6) after serving at least three years as a member may be appointed for one further term of up to three years while designated as chair.
 
 ### Termination
 
 (3) A member ceases to be a member of the Agency if, before the term of the member expires,
+
 (a) the Lieutenant Governor in Council revokes the member’s appointment; or
+
 (b) the member dies, resigns as a member of the board of directors or becomes a bankrupt.
 
 ### Successor’s term
@@ -302,7 +395,9 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Restrictions
 
 (3) The board shall not delegate,
+
 (a) the power to appoint investigators under section 26; or
+
 (b) any other power or duty that may be prescribed.
 
 ### By-laws and resolutions
@@ -316,8 +411,11 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Committees
 
 (3) The board of directors of the Agency shall,
+
 (a) establish, by by-law, the committees of the board that the Minister, by regulation, specifies;
+
 (b) appoint as members of those committees the persons who meet the qualifications, if any, that the Minister specifies in the regulation; and
+
 (c) ensure that those committees operate in accordance with the other requirements, if any, that the Minister specifies in the regulation.
 
 ### Minister’s approval
@@ -327,8 +425,11 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Same, after making
 
 (5) The Minister may require the board of directors to submit a by-law to the Minister for approval and if so,
+
 (a) the by-law concerned ceases to be effective from the time that the Minister imposes the requirement until the Minister approves the by-law;
+
 (b) anything that the board has done in compliance with the by-law concerned before the Minister imposes the requirement is valid; and
+
 (c) the board may do anything that, before the Minister imposes the requirement, it has agreed to do.
 
 ### Liability, Indemnification and Judgments
@@ -358,7 +459,9 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Other audits
 
 (2) In addition to the requirement for an annual audit,
+
 (a) the Minister may, at any time, review or audit any aspect of the operations of the Agency; and
+
 (b) the Auditor General may, at any time, audit any aspect of the operations of the Agency.
 
 ## PART iii Funding and Accountability
@@ -378,12 +481,19 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Accountability agreement
 
 (2) The accountability agreement shall be for more than one fiscal year and shall include,
+
 (a) performance goals and objectives for the Agency;
+
 (b) performance standards, targets and measures for the Agency;
+
 (c) requirements for the Agency to report on the performance of the Agency;
+
 (d) a plan for spending the funding that the Agency receives under section 18, which spending shall be in accordance with the appropriation from which the Minister has provided the funding to the Agency;
+
 (e) a progressive performance management process for the Agency;
+
 (f) subject to the regulations, a specification by the Minister of any funding that the Agency receives from the Crown in right of Ontario that is to form part of the Consolidated Revenue Fund; and
+
 (g) all other prescribed matters, if any.
 
 ### If no agreement
@@ -401,7 +511,9 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Directives by Minister
 
 20 (1) Where the Minister considers it to be in the public interest to do so, the Minister may issue directives to any or all of the following:
+
 1. The Agency.
+
 2. A person or entity that receives funding from the Agency under section 21.
 
 ### Restriction
@@ -447,15 +559,21 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Assignment of agreements
 
 (4) The Minister may assign to the Agency or another person or entity the Minister’s rights and obligations under all or part of an agreement between the Minister and any of the persons and entities described in paragraph 1, 2, or 3, including an agreement to which a person or entity that is not described in those paragraphs is a party:
+
 1. A health service provider.
+
 2. An Ontario Health Team.
+
 3. A person or entity that supports the provision of health care.
 
 ### Termination date
 
 (5) In an assignment under subsection (4), the Minister may provide that the agreement, or the part of it assigned, terminates on the earliest of,
+
 (a) the date set out in the agreement;
+
 (b) the date that the Agency and the health service provider, Ontario Health Team or person or entity that supports the provision of health care enter into a service accountability agreement; and
+
 (c) the date, as the Minister specifies, that the Agency and the health service provider, Ontario Health Team or person or entity that supports the provision of health care have to enter into a service accountability agreement.
 
 ### Service accountability agreement
@@ -497,14 +615,19 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Definition
 
 (10) In this section,
+
 “delivery organization” means a health service provider, Ontario Health Team or other person or entity that may be funded by the Agency under section 21.
 
 ### No restriction on patient mobility
 
 23 (1) None of the following shall enter into any agreement or other arrangement that restricts or prevents an individual from receiving services based on the geographic area in Ontario in which the individual resides:
+
 1. The Agency.
+
 2. A health service provider.
+
 3. An Ontario Health Team.
+
 4. Any other person or entity that receives funding under section 21.
 
 ### Geographic restrictions for home and community care services
@@ -526,7 +649,9 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Audits, reviews, etc.
 
 24 The Agency may at any time direct that any person or entity that receives funding from the Agency under section 21,
+
 (a) engage or permit one or more auditors licensed under the Public Accounting Act, 2004 to audit the accounts and financial transactions of the person or entity; or
+
 (b) engage in or permit an operational review or peer review of the activities of the person or entity.
 
 ### Information and reports
@@ -544,8 +669,11 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Investigators
 
 26 (1) The Agency may, where the Agency considers it in the public interest to do so, appoint one or more investigators to investigate and report on,
+
 (a) the quality of the management of a health service provider or Ontario Health Team;
+
 (b) the quality of the care and treatment of persons by a health service provider or an Ontario Health Team; or
+
 (c) any other matter relating to a health service provider or Ontario Health Team.
 
 ### Application
@@ -567,8 +695,11 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Powers
 
 (6) An investigator may, without a warrant and at reasonable times,
+
 (a) enter the premises of a health service provider or Ontario Health Team that may be investigated under this section;
+
 (b) subject to subsections (7) and (7.1), enter any premises where a health service provider or Ontario Health Team that may be investigated under this section provides services; and
+
 (c) inspect the premises, the services provided on the premises and the records that the investigator determines are relevant to the investigation.
 
 ### Dwellings
@@ -578,8 +709,11 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Exception
 
 (7.1) Subsection (7) does not apply if,
+
 (a) the consent of the occupier cannot be obtained, after making reasonable efforts;
+
 (b) the dwelling is a premises owned or operated by health service provider or Ontario Health Team funded under section 21 to provide prescribed home and community care services that include residential accommodation at the premises; and
+
 (c) written notice has been given to each occupier of the dwelling at least 24 hours before the entry.
 
 ### Identification
@@ -589,17 +723,25 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Powers of investigator conducting investigation
 
 (9) An investigator conducting an investigation may,
+
 (a) require the production of records or anything else that the investigator determines is relevant to the investigation, including books of account, documents, bank accounts, vouchers, correspondence and payroll records, records of staff hours worked and records of personal health information;
+
 (b) examine and copy any record or thing required under clause (a);
+
 (c) upon giving a receipt and showing the evidence of appointment, remove a record or anything else that the investigator determines is relevant to the investigation for review or copying, as long as the review or copying is carried out with reasonable dispatch and the record or thing is promptly returned;
+
 (d) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place; and
+
 (e) question a person on matters the investigator determines are relevant to the investigation.
 
 ### Obligation to produce and assist
 
 (10) If an investigator requires the production of a record or anything else that the investigator determines is relevant to the investigation under this section, any of the following who has custody of the record or thing shall produce it and, in the case of a record, shall on request provide any assistance that is reasonably necessary to interpret the record or to produce it in a readable form:
+
 1. The health service provider or Ontario Health Team that may be investigated under this section.
+
 2. Any person employed by the provider or Team.
+
 3. Any person performing services for the provider or Team.
 
 ### Obligation to comply with questioning
@@ -609,8 +751,11 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Same
 
 (12) If an investigator accesses personal health information under subsection (9), the investigator,
+
 (a) shall not collect, use or disclose the personal health information if other information will serve the purpose of the investigation;
+
 (b) shall not collect, use or disclose more personal health information than is reasonably necessary for the purpose of the investigation; and
+
 (c) shall comply with any conditions or requirements that may be prescribed.
 
 ### Confidentiality
@@ -700,7 +845,9 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Related employers
 
 (7.3) If a supervisor is appointed under this section,
+
 (a) no person is entitled to make an application under subsection 1 (4) of the Labour Relations Act, 1995; and
+
 (b) the supervisor and the health service provider or Ontario Health Team funded under section 21 to provide prescribed home and community care services that include residential accommodation shall not be treated as one employer under section 4 of the Employment Standards Act, 2000.
 
 ### Term of office
@@ -726,14 +873,19 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Restriction
 
 (13) A supervisor,
+
 (a) shall not collect, use or disclose personal health information if other information will serve the purposes of the supervisor;
+
 (b) shall not collect, use or disclose more personal health information than is reasonably necessary for the purposes of the supervisor; and
+
 (c) shall comply with any conditions or requirements relating to the collection, use or disclosure of personal health information that may be prescribed.
 
 ### Powers re: Service Organization
 
 (13.1) If the Minister appoints a person as a supervisor of the Service Organization under this section,
+
 (a) the Agency’s power to require proposed by-laws to be submitted for approval does not apply to any by-laws that are made by the supervisor; and
+
 (b) the supervisor is not required to comply with any directive issued to the Service Organization by the Agency.
 
 ### Minister’s directions
@@ -759,20 +911,35 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Definition
 
 27.1 In this Part,
+
 “predecessor corporations” means the following corporations:
+
 1. Central East Local Health Integration Network.
+
 2. Central Local Health Integration Network.
+
 3. Central West Local Health Integration Network.
+
 4. Champlain Local Health Integration Network.
+
 5. Erie St. Clair Local Health Integration Network.
+
 6. Hamilton Niagara Haldimand Brant Local Health Integration Network.
+
 7. Mississauga Halton Local Health Integration Network.
+
 8. North East Local Health Integration Network.
+
 9. North Simcoe Muskoka Local Health Integration Network.
+
 10. North West Local Health Integration Network.
+
 11. South East Local Health Integration Network.
+
 12. South West Local Health Integration Network.
+
 13. Toronto Central Local Health Integration Network.
+
 14. Waterloo Wellington Local Health Integration Network.
 
 ### Amalgamation and Application
@@ -784,26 +951,47 @@ ii. a prison or penitentiary operated or maintained by the Government of Canada.
 ### Rules
 
 (2) The following rules apply to the amalgamation:
+
 1. All rights, obligations, assets and liabilities of the predecessor corporations that existed immediately before the amalgamation become the rights, obligations, assets and liabilities of the Service Organization, and the Service Organization shall stand in the place of the predecessor corporations for all purposes.
+
 2. The predecessor corporations cease to exist upon being amalgamated into the Service Organization.
+
 3. A conviction against, or ruling, order or judgment in favour of or against one of the predecessor corporations may be enforced by or against the Service Organization.
+
 4. The Service Organization shall be deemed to be the party plaintiff or the party defendant, as the case may be, in any civil action commenced by or against one of the predecessor corporations before the amalgamation.
+
 5. Persons who are employees of the predecessor corporations immediately before the amalgamation become employees of the Service Organization as of the date of the amalgamation and, for all purposes, the employment of the employees immediately before and after the amalgamation is continuous.
+
 6. For all purposes, including the provisions of an employment contract, a collective agreement and the Employment Standards Act, 2000, the employment of the employees referred to in paragraph 5 is not terminated or severed and those employees are not constructively dismissed because of the amalgamation.
+
 7. All rights, duties and liabilities relating to all employees and former employees of the predecessor corporations that are vested in or bind the predecessor corporations immediately before amalgamation are vested in or bind the Service Organization instead of the predecessor corporations immediately on and after the amalgamation.
+
 8. An agreement to which one of the predecessor corporations was a party immediately before the amalgamation has effect after the amalgamation as if,
+
 i. the Service Organization was substituted for the predecessor corporation as a party to the agreement, and
+
 ii. any reference in the agreement to the predecessor corporation were a reference to the Service Organization.
+
 9. The amalgamation shall not constitute a change of control of any of the predecessor corporations in respect of any asset, liability, right or obligation of the predecessor corporations.
+
 10. Despite any other Act that requires notice or registration in respect of the amalgamation, the amalgamation is binding on the Service Organization and all other persons.
+
 11. The amalgamation is deemed not to,
+
 i. constitute a breach, termination, repudiation or frustration of any agreement, including a contract of employment or insurance or a collective agreement,
+
 ii. create any cause of action in favour of a party to an agreement with one of the predecessor corporations that was entered into before the amalgamation,
+
 iii. constitute a breach of any Act, regulation or municipal by-law,
+
 iv. constitute an event of default or force majeure,
+
 v. give rise to a breach, termination, repudiation or frustration of any licence, permit or other right,
+
 vi. give rise to any right to terminate or repudiate an agreement, licence, permit or other right, or
+
 vii. give rise to any estoppel.
+
 12. The Land Transfer Tax Act and the Retail Sales Tax Act do not apply to the amalgamation.
 
 ### Regulations
@@ -845,17 +1033,29 @@ vii. give rise to any estoppel.
 ### Objects
 
 27.6 The following are the objects of the Service Organization:
+
 1. Providing home and community care services to patients of the Service Organization.
+
 2. Providing the following operational supports to client providers to enable them to deliver home and community care services to their patients:
+
 i. Care co-ordination services.
+
 ii. The assignment of employees of the Service Organization to work under the direction of a client provider to deliver care co-ordination services.
+
 iii. Any of the following shared services:
+
 A. Administrative or business support services that facilitate the management of service contracts with providers of home and community care services.
+
 B. Enablement and support of patient care technology platforms.
+
 C. Any other shared services that may be prescribed.
+
 iv. Any other operational supports that may be prescribed.
+
 3. Providing information to the public about, and referrals to, health and social services.
+
 4. Providing placement management services to patients of the Service Organization or to patients of other health service providers or Ontario Health Teams.
+
 5. Any other objects that may be prescribed.
 
 ### Rules re: assignment of employees to provide care co-ordination services
@@ -877,22 +1077,35 @@ iv. Any other operational supports that may be prescribed.
 ### Cabinet approval
 
 (3) The Service Organization shall not exercise the following powers without the approval of the Lieutenant Governor in Council:
+
 1. Acquiring, disposing, leasing, mortgaging, charging, hypothecating or otherwise transferring or encumbering any interest in real property, except for leasing space that is reasonably necessary for the purposes of the Service Organization.
+
 2., 3. Repealed: 2025, c. 15, Sched. 2, s. 3 (2).
+
 4. Pledging, charging or encumbering any of its personal property.
+
 5. Creating a subsidiary.
+
 6. Doing anything else that is prescribed as being a power that the Service Organization may not exercise without such approval.
 
 ### Approval of Minister
 
 (4) The Service Organization shall not exercise the following powers without the approval of the Minister:
+
 1. Making charitable donations.
+
 2. Applying for or obtaining registration as a registered charity under the Income Tax Act (Canada).
+
 3. Conducting fundraising activities or acting in association with a person or entity that conducts any fundraising activities or programs, directly or indirectly, for the Agency or the Service Organization.
+
 4. Entering into an agreement with any person, entity or government for the provision of services outside Ontario.
+
 5. Entering into an agreement with any government or government agency outside Ontario, including the Government of Canada or the government of a province or territory of Canada.
+
 6. Generating revenue or otherwise receiving money or assets from any person or entity except the Crown in right of Ontario or the Agency, with the exception of the following:
+
 i. Money or assets that are received pursuant to a transfer order under this Act.
+
 ii. Money or assets paid to the Service Organization by a client provider in consideration of operational supports that are provided by the Service Organization to that client provider under a service contract.
 
 ### No political donations
@@ -916,7 +1129,9 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Appointment
 
 (2) The board shall consist of,
+
 (a) no more than six members appointed by the Minister; and
+
 (b) no more than three members appointed by the Minister on the recommendation of the Agency.
 
 ### Eligibility
@@ -1004,8 +1219,11 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Committees
 
 (3) The board of directors of the Service Organization shall,
+
 (a) establish, by by-law, the committees of the board that the Agency specifies;
+
 (b) appoint as members of those committees the persons who meet the qualifications, if any, that the Agency specifies; and
+
 (c) ensure that those committees operate in accordance with the other requirements, if any, that the Agency specifies.
 
 ### Agency’s approval
@@ -1015,8 +1233,11 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Same, after making
 
 (5) The Agency may require the board of directors of the Service Organization to submit a by-law to the Agency for approval and if so,
+
 (a) the by-law concerned ceases to be effective from the time that the Agency imposes the requirement until the Agency approves the by-law;
+
 (b) anything that the board has done in compliance with the by-law concerned before the Agency imposes the requirement is valid; and
+
 (c) the board may do anything that, before the Agency imposes the requirement, it has agreed to do.
 
 ### Directives by Agency
@@ -1108,8 +1329,11 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Proceedings barred
 
 27.19 (1) No proceeding shall be commenced,
+
 (a) against any person specified in subsection 27.18 (1) in respect of a matter referred to in that subsection;
+
 (b) against any person specified in subsection 27.18 (2) in respect of a matter referred to in that subsection; or
+
 (c) against any person specified in subsection 27.18 (5) in respect of a matter referred to in that subsection.
 
 ### Same
@@ -1141,7 +1365,9 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Other audits
 
 (2) In addition to the requirement for an annual audit,
+
 (a) the Minister may, at any time, review or audit any aspect of the operations of the Service Organization; and
+
 (b) the Auditor General may, at any time, audit any aspect of the operations of the Service Organization.
 
 ## PART iV Integration
@@ -1151,10 +1377,15 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Definitions
 
 28 In this Part,
+
 “facilitation decision” means a decision of the Agency under section 32; (“décision de facilitation”)
+
 “integration decision” means,
+
 (a) a facilitation decision,
+
 (b) an integration order by the Minister under section 33, or
+
 (c) a decision by the Minister under subsection 35 (8) that orders a health service provider or Ontario Health Team not to proceed with the integration described in the decision. (“décision d’intégration”)
 
 ### Ontario Health Teams
@@ -1162,12 +1393,19 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Ontario Health Team
 
 29 (1) The Minister may, subject to any terms and conditions that the Minister determines, designate as an Ontario Health Team a person or entity, or a group of persons or entities, that has the ability to deliver, in an integrated and co-ordinated manner, at least three of the following types of services, or such higher number of types of services as may be prescribed:
+
 1. Hospital services.
+
 2. Primary care services.
+
 3. Mental health or addictions services.
+
 4. Home and community care services.
+
 5. Long-term care home services.
+
 6. Palliative care services.
+
 7. Any other prescribed health care service or non-health service that supports the provision of health care services.
 
 ### Restriction
@@ -1195,51 +1433,81 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Integration by Agency
 
 31 The Agency may integrate the health system by,
+
 (a) providing or changing funding to a health service provider or Ontario Health Team under section 21; or
+
 (b) facilitating and negotiating,
+
 (i) the integration of persons or entities where at least one of the persons or entities is a health service provider or Ontario Health Team, or
+
 (ii) the integration of services between health service providers or Ontario Health Teams or between a provider or a Team and a person or entity that is not a provider or a Team, but which supports the provision of health care.
 
 ### Facilitation decision
 
 32 The Agency shall issue a facilitation decision when,
+
 (a) the Agency facilitates or negotiates,
+
 (i) the integration of persons or entities where at least one of the persons or entities is a health service provider or an Ontario Health Team, or
+
 (ii) the integration of services between health service providers or Ontario Health Teams or between a health service provider or Ontario Health Team and a person or entity that is neither a health service provider nor an Ontario Health Team but which supports the provision of health care; and
+
 (b) the parties reach an agreement with respect to the integration.
 
 ### Required integration
 
 33 (1) The Minister may, if the Minister considers it in the public interest to do so and subject to the other provisions of this section, order one or more health service providers or Ontario Health Teams that receive funding from the Agency to do anything to integrate the health system on or after the date set out in the order, including any or all of the following:
+
 1. To provide all or part of a service or to cease to provide all or part of a service.
+
 2. To provide a service to a certain level, quantity or extent.
+
 3. To transfer all or part of a service from one location to another.
+
 4. To transfer all or part of a service to or to receive all or part of a service from another person or entity.
+
 5. To cease operating, to dissolve or to wind up its operations.
+
 6. To amalgamate with one or more persons or entities that receive funding from the Agency under section 21.
+
 7. To co-ordinate services with or partner with another person or entity that receives funding from the Agency under section 21.
+
 8. To transfer all or substantially all of its operations to one or more persons or entities.
+
 9. To carry out another type of integration of services that is prescribed.
+
 10. To do anything or refrain from doing anything necessary for them to achieve anything under any of paragraphs 1 to 9, including to transfer property to or to receive property from another person or entity in respect of the services or operations affected by the decision.
 
 ### Restrictions
 
 (2) Despite subsection (1), the Minister shall not,
+
 (a) issue an order under subsection (1) that unjustifiably, as determined under section 1 of the Canadian Charter of Rights and Freedoms, requires a religious organization to provide a service that is contrary to the religion related to the organization;
+
 (b) issue an order under subsection (1) that requires the transfer of property held for a charitable purpose to a person or entity that is not a charity;
+
 (c) issue an order under subsection (1) that requires a person or entity that is not a charity to receive property from a person or entity that is a charity and to hold the property for a charitable purpose;
+
 (d) issue an order under paragraph 5, 6 or 8 of subsection (1) to a board of management described in paragraph 5 of the definition of “health service provider” in subsection 1 (2) or a municipality;
+
 (e) issue an order under paragraph 5, 6 or 8 of subsection (1) to a health service provider described in paragraph 4 of the definition of “health service provider” in subsection 1 (2), if the service provider is not also described in another paragraph of that definition;
+
 (f) issue an order under paragraph 5 of subsection (1), in respect of the operation of a long-term care home, to a health service provider described in paragraph 4 of the definition of “health service provider” in subsection 1 (2), if the service provider is also described in another paragraph of that definition;
+
 (g) issue an order under paragraph 6 of subsection (1) to a health service provider or Ontario Health Team that carries on operations on a not-for-profit basis to amalgamate with one or more health service providers or Ontario Health Teams that carry on operations on a for-profit basis;
+
 (h) issue an order under paragraph 8 of subsection (1) to a health service provider or Ontario Health Team that carries on operations on a not-for-profit basis to transfer all or substantially all of its operations to one or more persons or entities that carries on operations on a for-profit basis; or
+
 (i) issue an order under subsection (1) that requires a health service provider or Ontario Health Team to do anything else that is prescribed.
 
 ### Notice of proposed order
 
 (3) At least 30 days before issuing an order under subsection (1), the Minister shall,
+
 (a) notify a health service provider or Ontario Health Team that the Minister intends to issue the order;
+
 (b) provide a copy of the proposed order to the provider or Team; and
+
 (c) publish the proposed order on a website.
 
 ### Submissions
@@ -1263,11 +1531,17 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Form of decision
 
 (2) An integration decision shall set out,
+
 (a) the purpose and nature of the integration or proposed integration;
+
 (b) the parties to the decision;
+
 (c) the actions that the parties to the decision are required to take or not to take, including any time period for doing so;
+
 (d) a requirement that the parties to the decision develop a human resources adjustment plan in respect of the integration;
+
 (e) the effective date of all transfers of services involved in the integration, if any; and
+
 (f) any other matter that the Agency or the Minister, as the case may be, considers relevant.
 
 ### Notice of decision
@@ -1285,13 +1559,17 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Amendment and revocation, Agency
 
 (6) The Agency may amend or revoke a facilitation decision and,
+
 (a) subsections (1) to (5) apply to an amendment, with necessary modifications; and
+
 (b) subsections (2) to (5) apply to a revocation, with necessary modifications.
 
 ### Amendment and revocation, Minister
 
 (7) The Minister may amend or revoke an integration order under section 33 and,
+
 (a) section 33 and subsections (1) to (5) of this section apply to an amendment, with necessary modifications; and
+
 (b) subsections (2) to (5) of this section apply to a revocation, with necessary modifications.
 
 ### Integration by providers and systems
@@ -1305,14 +1583,23 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Notice
 
 (3) If the integration mentioned in subsection (1) relates to services that are funded, in whole or in part, by the Agency, the health service provider or Ontario Health Team,
+
 (a) shall give notice of the proposed integration to the Minister, unless the regulations provide otherwise;
+
 (b) may proceed with the proposed integration if the provider or Team is not required to give the notice mentioned in clause (a);
+
 (c) shall not proceed with the proposed integration until 90 days have passed since giving the notice mentioned in clause (a), if the provider or Team is required to give the notice and the Minister does not give notice under subsection (6);
+
 (d) shall not proceed with the proposed integration until 90 days have passed since the Minister gives notice under subsection (6), if,
+
 (i) the provider or Team is required to give notice under clause (a),
+
 (ii) the Minister gives notice under subsection (6), and
+
 (iii) the Minister does not issue a decision under subsection (8);
+
 (e) despite clauses (c) and (d), may proceed with the proposed integration at any time if the Minister notifies the provider or Team that the Minister does not intend to give notice of a proposed decision under subsection (6) or issue a decision under subsection (8); and
+
 (f) shall not proceed with the proposed integration that is the subject of a decision under subsection (8), if the Minister issues such a decision.
 
 ### Exceptions
@@ -1322,20 +1609,31 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Required contents
 
 (5) A notice under clause (3) (a) must include,
+
 (a) a description of the proposed integration, including the identity of the parties involved with the integration;
+
 (b) the health service provider’s or Ontario Health Team’s analysis of any financial implications, service delivery implications, health system implications or human resource implications of the proposed integration, where applicable;
+
 (c) where applicable, a description of any community engagement processes that the provider or Team used to consider the proposed integration, and a description of any issues that were raised in those consultation processes and the provider’s or Team’s analysis, if any, of those issues;
+
 (d) a description of the proposed timing or staging of the implementation of the proposed integration; and
+
 (e) a description of the level of approval received by the provider or Team within its organization.
 
 ### Notice of proposed decision
 
 (6) No later than 90 days after the health service provider or Ontario Health Team gives the notice required under subsection (3), the Minister may,
+
 (a) request more information about the proposed integration from the provider or Team and where such a request has been made,
+
 (i) the provider or Team shall provide the information within 30 days of the request by the Minister, and
+
 (ii) the time limit for the Minister to take the steps set out in this clause and clauses (b) and (c) shall be extended, once only, by an additional 60 days;
+
 (b) notify the provider or Team that the Minister proposes to issue a decision under subsection (8);
+
 (c) provide a copy of the proposed decision to the provider or Team; and
+
 (d) publish the proposed decision on a website.
 
 ### Submissions
@@ -1377,6 +1675,7 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Application
 
 (3) Subsections (1) and (2) apply whether the will, deed or document by which the gift, trust, bequest, devise or grant is made, is made before or after this section comes into force.
+
 38 Repealed: 2019, c. 7, Sched. 53, s. 9 (3).
 
 ## PART V Transfers
@@ -1384,28 +1683,43 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Definitions
 
 39 In this Part,
+
 “transfer” means a transfer pursuant to an order under subsection 40 (1); (“transfert”)
+
 “transfer recipient” means the Agency, the Service Organization, health service provider or Ontario Health Team to which assets, liabilities, rights, obligations or employees are being transferred pursuant to an order under subsection 40 (1); (“destinataire du transfert”)
+
 “transferor” means an organization from which assets, liabilities, rights, obligations or employees are being transferred pursuant to an order under subsection 40 (1). (“auteur du transfert”)
 
 ### Transfer order
 
 40 (1) Despite anything in any other Act, but subject to subsection (3), the processes and requirements set out in this Part and any regulations made under this Part, the Minister may make an order,
+
 (a) transferring all or part of the assets, liabilities, rights and obligations, including, for greater certainty, any rights or obligations under a funding agreement or accountability agreement of an organization listed in subsection (2), to the Agency, the Service Organization, a health service provider or an Ontario Health Team; and
+
 (b) transferring all or some of the employees of an organization listed in subsection (2) to the Agency, the Service Organization, a health service provider or an Ontario Health Team.
 
 ### Organizations
 
 (2) The following are the organizations for the purposes of subsection (1):
+
 0.1 The Agency.
+
 0.2 The Service Organization.
+
 1. Cancer Care Ontario.
+
 2. eHealth Ontario.
+
 3. HealthForceOntario Marketing and Recruitment Agency.
+
 4. Health Shared Services Ontario.
+
 5. Ontario Health Quality Council.
+
 6. Trillium Gift of Life Network.
+
 7. Repealed: 2023, c. 19, s. 12 (3).
+
 8. Any other prescribed organization that receives funding from the Ministry or the Agency and that provides programs or services that are consistent with the objects of the Agency.
 
 ### Notification requirement
@@ -1415,13 +1729,17 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Regulations may limit transfers
 
 (3.1) The regulations may prescribe a program or division within an organization described in subsection (2), and in such a case a transfer order under subsection (1) may only be made in respect of,
+
 (a) assets, liabilities, rights or obligations that are associated with the program or division; or
+
 (b) employees that work within the program or division.
 
 ### Information for preparation, etc.
 
 (4) For the purpose of preparing for and determining the content of an order or potential order under subsection (1),
+
 (a) the Minister may require an organization to provide to the Minister information, including personal information, relating to its operations, employees, assets, liabilities, rights and obligations; and
+
 (b) the Minister may collect personal information from the organization.
 
 ### Format
@@ -1447,8 +1765,11 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Contents of order
 
 (10) An order made under subsection (1),
+
 (a) shall provide for the assets, liabilities, rights, obligations or employees that are to be transferred;
+
 (b) shall specify a date on which the transfer of assets, liabilities, rights, obligations or employees, as the case may be, takes effect; and
+
 (c) may specify that issues arising out of the interpretation of the order be resolved by the method specified in the order.
 
 ### Non-application of Legislation Act, 2006
@@ -1462,13 +1783,17 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Same
 
 (13) The transferor and transfer recipient that receives a copy of an order provided under subsection (12) shall,
+
 (a) provide notice of the order and make copies available to affected employees and their bargaining agents and to other persons or entities whose contracts are affected by the order; and
+
 (b) publish the order on a website.
 
 ### Assumption of rights, obligations, etc.
 
 41 (1) If the Minister makes an order under section 40,
+
 (a) the transfer recipient assumes the operations, activities and affairs of the transferor, as of the date of the transfer; and
+
 (b) the assets, liabilities, rights and obligations of the transferor that are provided for in the order, including contractual rights, interests, approvals, registrations and entitlements, that exist immediately before the transfer date continue as the assets, liabilities, rights and obligations of the transfer recipient and are transferred to the transfer recipient.
 
 ### Convictions, rulings etc.
@@ -1486,17 +1811,25 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### No breach, etc.
 
 (5) A transfer is deemed not to,
+
 (a) constitute a breach, termination, repudiation or frustration of any agreement, including a contract of employment or insurance or a collective agreement;
+
 (b) constitute a breach of any Act, regulation or municipal by-law;
+
 (c) constitute an event of default or force majeure;
+
 (d) give rise to a breach, termination, repudiation or frustration of any licence, permit or other right;
+
 (e) give rise to any right to terminate or repudiate an agreement, licence, permit or other right; or
+
 (f) give rise to any estoppel.
 
 ### No new cause of action
 
 (6) A transfer does not create any new cause of action in favour of,
+
 (a) a holder of a debt instrument that was issued by a transferor before the transfer; or
+
 (b) a party to an agreement with a transferor that was entered into before the transfer.
 
 ### Transfer binding
@@ -1518,7 +1851,9 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Regulations
 
 (11) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing agreements to which subsections (5) and (6) do not apply;
+
 (b) prescribing Acts, in addition to those listed in subsection (8), that do not apply to the transfer.
 
 ### Employees continued
@@ -1582,13 +1917,17 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Refusal to provide information
 
 43.3 No person or entity shall refuse to provide,
+
 (a) information to an investigator who is conducting an investigation under this Act; or
+
 (b) anything that the Agency has required to be provided under section 25.
 
 ### Misuse of terms
 
 43.4 No person or entity shall use or represent themselves as being entitled to use the title “Ontario Health Team” or an abbreviation of that title, an equivalent in another language or a title that could reasonably be confused with that title unless,
+
 (a) they have been designated as an Ontario Health Team under section 29; or
+
 (b) they have received a written authorization from the Minister authorizing the use of the title “Ontario Health Team”.
 
 ### Compliance orders
@@ -1610,15 +1949,21 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Service
 
 (5) Any notice, order or other document under this section is sufficiently served on a person or entity if it is,
+
 (a) served personally on the person or entity or on a person who appears to be engaged in the administration, operation or control of the place of business of the person or entity;
+
 (b) sent by registered mail to the last known address for the place of business of the person or entity; or
+
 (c) delivered in another manner that may be prescribed.
 
 ### When service deemed made
 
 (6) A notice, order or other document shall be deemed to be served,
+
 (a) on the day of delivery where service is made personally;
+
 (b) on the third day after the day of mailing where service is made by registered mail; and
+
 (c) as provided for in the regulations if it is delivered in another manner that may be prescribed.
 
 ### Non-application of SPPA
@@ -1648,7 +1993,9 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### General penalty, individual
 
 43.8 (1) An individual convicted of an offence under this Act is liable to,
+
 (a) for a first offence, to a fine of not more than $50,000 or to imprisonment for a term of not more than 12 months, or to both; and
+
 (b) for a subsequent offence, to a fine of not more than $100,000 or to imprisonment for a term of not more than 12 months, or to both.
 
 ### Same, corporation
@@ -1678,20 +2025,31 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Publication of enforcement information
 
 43.9 (1) The Minister may publish on a website, or otherwise make available to the public,
+
 (a) with respect to a compliance order issued under section 43.5 or a court order issued under section 43.6,
+
 (i) the name of the person or entity to whom the order is directed,
+
 (ii) the date of the order, and
+
 (iii) a description of the non-compliance that gave rise to the order; and
+
 (b) with respect to a person who is convicted of an offence under this Act,
+
 (i) the name of the person,
+
 (ii) a description of the offence,
+
 (iii) the date of the conviction, and
+
 (iv) the person’s sentence.
 
 ### Limitation
 
 (2) The Minister shall not act under subsection (1) with respect to a compliance order unless,
+
 (a) at least 14 days have elapsed since the Minister served the order and the person to whom the order is directed has not provided submissions under subsection 43.5 (2), or
+
 (b) the Minister has confirmed the order under subsection 43.5 (3).
 
 ### Compliance with FIPPA
@@ -1719,8 +2077,11 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Decision of Appeal Board
 
 43.14 After a hearing by the Appeal Board under this Part the Appeal Board may,
+
 (a) affirm the decision of the health service provider or Ontario Health Team;
+
 (b) rescind the decision of the health service provider or Ontario Health Team and refer the matter back to the provider or Team for a new decision in accordance with such directions as the Appeal Board considers appropriate; or
+
 (c) rescind the decision of the health service provider or Ontario Health Team, substitute its opinion for that of the provider or Team and direct the provider or Team to implement the decision of the Appeal Board in accordance with such directions as the Appeal Board considers appropriate.
 
 ### Decision final
@@ -1736,9 +2097,13 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Duties
 
 (2) In fulfilling its duties under subsection (1), the Agency shall,
+
 (a) engage the Indigenous health planning entities that the Minister, by regulation, specifies, in a manner that recognizes the role of Indigenous peoples in the planning and delivery of health services in their communities;
+
 (b) engage the French language health planning entities that the Minister, by regulation, specifies;
+
 (c) engage the Minister’s Patient and Family Advisory Council established under the Ministry of Health and Long-Term Care Act; and
+
 (d) meet any additional engagement requirements that the Minister, by regulation, specifies.
 
 ### Engagement
@@ -1748,11 +2113,17 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Public interest
 
 45 In making a decision in the public interest under this Act, the Lieutenant Governor in Council, the Minister or the Agency, as the case may be, may consider any matter they regard as relevant, including, without limiting the generality of the foregoing,
+
 (a) the quality of the management and administration of the Agency, the health service provider, the Ontario Health Team or the other person or entity that receives funding from the Agency under section 21, as the case may be;
+
 (b) the proper management of the health care system in general;
+
 (c) the availability of financial resources for the management of the health care system and for the delivery of health care services;
+
 (d) accessibility to health services;
+
 (e) the quality of the care and treatment of patients; and
+
 (f) the accessibility of health services in French.
 
 ### Permitted disclosure and collection of personal health information
@@ -1762,7 +2133,9 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Minister
 
 (2) The Minister may collect, directly or indirectly, personal information for the following purposes:
+
 1. Monitoring and evaluating home and community care services provided by a health service provider or an Ontario Health Team that is funded under section 21 to provide those services and their provider of home and community care services.
+
 2. Monitoring and assessing the health, safety and well-being of persons applying for or receiving home and community care services.
 
 ### Head authorized to disclose
@@ -1772,11 +2145,17 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Extinguishment of causes of action
 
 46 (1) Subject to subsections (5) and (8), no cause of action arises against any of the following with respect to any act done or omitted to be done or any decision, directive, standard, regulation or order made or issued under this Act, the Mental Health and Addictions Centre of Excellence Act, 2019, the Gift of Life Act, the Integrated Community Health Services Centres Act, 2023 or the Excellent Care for All Act, 2010 or under any provisions of the Personal Health Information Protection Act, 2004 or the regulations made under that Act that are prescribed for the purposes of this section that is done in good faith in the execution or intended execution of a power or duty under any of those Acts:
+
 1. The Crown.
+
 2. Any current or former member of the Executive Council, including the Minister.
+
 3. The Agency.
+
 4. Any current or former member, director or officer of the Agency or a volunteer of the Agency.
+
 5. Any current or former employee, agent or adviser of the Crown or the Agency.
+
 6. Any current or former investigator or supervisor appointed under this Act, or any current or former member of their staffs.
 
 ### Same, transfer orders
@@ -1814,8 +2193,11 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Agency or Service Organization dissolution
 
 47 If the Minister considers it to be in the public interest to wind up the affairs of the Agency or the Service Organization, the Minister may do all things necessary to accomplish that, including dealing with the assets and liabilities of the Agency or Service Organization by,
+
 (a) liquidating or selling the assets and paying the proceeds into the Consolidated Revenue Fund;
+
 (b) transferring the assets and liabilities to the Crown, including another agency of the Crown; or
+
 (c) transferring the Agency’s or Service Organization’s employees to the Crown or to another agency of the Crown.
 
 ## PART VII Regulations
@@ -1823,32 +2205,59 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Regulations
 
 48 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) specifying persons or entities that are included in or excluded from the definition of “health service provider” in subsection 1 (2);
+
 (b) exempting the Agency, the Service Organization, a health service provider, an Ontario Health Team or any other person or entity from any provision of this Act or the regulations, and specifying circumstances in which the exemption applies;
+
 (c) prescribing provisions of the Not-for-Profit Corporations Act, 2010 and the Corporations Information Act, or any successor to those Acts, that apply to the Agency or the Service Organization and the modifications with which those provisions are to so apply;
+
 (d) specifying persons who may not be appointed as members of the Agency or the Service Organization;
+
 (d.1) prescribing assets or revenues of the Agency that do not form part of the Consolidated Revenue Fund;
+
 (d.2) prescribing assets or revenues of any subsidiary of the Agency or the Service Organization, other than the Service Organization itself, that do not form part of the Consolidated Revenue Fund;
+
 (d.3) prescribing limitations on the ability of the Minister to, in the accountability agreement, specify types of funding that form part of the Consolidated Revenue Fund;
+
 (e) governing funding that the Agency provides to a health service provider, to an Ontario Health Team or to any other person or entity to which the Agency may provide funding under section 21;
+
 (e.1) respecting and governing the provision and funding of home and community care services for the purposes of this Act, including governing standards and requirements with respect to home and community care services and defining or clarifying the meaning of “home and community care service”, “care co-ordination services” or related expressions for the purposes of this Act or the regulations or any provision of this Act or the regulations;
+
 (e.2) governing the board of directors of the Service Organization, including establishing eligibility requirements, term limits and the filling of vacancies on the board;
+
 (e.3) governing the provision of operational supports and placement management services by the Service Organization, including,
+
 (i) governing the content or terms and conditions of a service contract between the Service Organization and a client provider or another health service provider or an Ontario Health Team, and
+
 (ii) governing the assignment of employees of the Service Organization to provide operational supports or placement management services;
+
 (f) requiring a health service provider, Ontario Health Team, or other person or entity that receives funding from the Agency under section 21 to institute a system for reconciling the funding that it receives from the Agency on the basis set out in the regulation, including,
+
 (i) requiring the provider, Team, person or entity to pay the Agency for any excess payment of funding, and
+
 (ii) allowing the Agency to recover any excess payment of funding by deducting the excess from subsequent payments to the provider, Team, person or entity;
+
 (g) governing the content or terms and conditions of a service accountability agreement and respecting the process for making a service accountability agreement;
+
 (h) governing designations of Ontario Health Teams under section 29, and prescribing requirements that must be met before a designation may be made under that section;
+
 (i) governing and respecting matters that relate to or arise as a result of a transfer of property under an integration decision under Part IV, including matters related to present and future rights, privileges and liabilities;
+
 (j) governing and respecting matters that relate to or arise as a result of transfer orders issued under Part V;
+
 (k) governing compensation payable under subsection 46 (8), including who pays the compensation, the amount payable, how the loss for which compensation is payable is to be determined and how the portion of the value of the property that was not acquired with money from the Government of Ontario, the Agency or any other agency of the Government is to be determined;
+
 (l) defining, for the purposes of this Act, any word or expression used in this Act that has not already been expressly defined in this Act;
+
 (m) respecting any matter that this Act describes as being prescribed or provided for in the regulations;
+
 (n) governing transitional or similar matters that may arise due to the enactment of this Act or any amendments, repeals or revocations made by The People’s Health Care Act, 2019, the Connecting People to Home and Community Care Act, 2020, the Convenient Care at Home Act, 2023 or Schedule 2 to the Plan to Protect Ontario Act (Budget Measures), 2025 (No. 2) including, without in any way limiting the generality of the foregoing,
+
 (i) clarifying the application of any provisions and governing situations where a provision has been repealed or revoked and a related provision has not, and
+
 (ii) governing any transitional or similar matters that may arise as a result of the creation of the Service Organization, including governing the transition of the chief executive officers and the members of the boards of directors from the predecessor corporations;
+
 (o) respecting any other matter that the Lieutenant Governor in Council consider necessary or desirable for carrying out the purposes and provisions of this Act.
 
 ### Minister’s regulations
@@ -1866,4 +2275,5 @@ ii. Money or assets paid to the Service Organization by a client provider in con
 ### Part IX (OMITTED)
 
 50 Omitted (provides for coming into force of provisions of this Act).
+
 51 Omitted (enacts short title of this Act).

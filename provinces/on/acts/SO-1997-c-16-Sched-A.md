@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97w16"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Workplace Safety and Insurance Act, 1997
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97w16) before relying on it.
 
 S.O. 1997, c. 16, Sched. A
 
@@ -21,77 +21,145 @@ S.O. 1997, c. 16, Sched. A
 ### Purpose
 
 1 The purpose of this Act is to accomplish the following in a financially responsible and accountable manner:
+
 1. To promote health and safety in workplaces.
+
 2. To facilitate the return to work and recovery of workers who sustain personal injury arising out of and in the course of employment or who suffer from an occupational disease.
+
 3. To facilitate the re-entry into the labour market of workers and spouses of deceased workers.
+
 4. To provide compensation and other benefits to workers and to the survivors of deceased workers.
 
 ### Definitions
 
 2 (1) In this Act,
+
 “accident” includes,
+
 (a) a wilful and intentional act, not being the act of the worker,
+
 (b) a chance event occasioned by a physical or natural cause, and
+
 (c) disablement arising out of and in the course of employment; (“accident”)
+
 “Appeals Tribunal” means the Workplace Safety and Insurance Appeals Tribunal; (“Tribunal d’appel”)
+
 “attorney” means a person authorized under a power of attorney for property given under the Substitute Decisions Act, 1992; (“procureur”)
+
 “Board” means the Workplace Safety and Insurance Board; (“Commission”)
+
 “child” means a child within the meaning of subsection 1 (1) of the Family Law Act; (“enfant”)
+
 “construction” means any of the industries listed in Class G of Schedule 1; (“construction”)
+
 “dependants” means such of the following persons as were wholly or partly dependent upon the worker’s earnings at the time of his or her death or who, but for the incapacity due to the accident, would have been so dependent:
+
 1. Parent, stepparent or person who stood in the role of parent to the worker.
+
 2. Sibling or half-sibling.
+
 3. Grandparent.
+
 4. Grandchild; (“personnes à charge”)
+
 “earnings” or “wages” include any remuneration capable of being estimated in terms of money but does not include contributions made under section 25 for employment benefits; (“gains” ou “salaire”)
+
 “emergency worker” means a person described in paragraph 6, 7 or 8 of the definition of worker who is injured while engaged in the activity described in that paragraph; (“travailleur dans une situation d’urgence”)
+
 “employer” means every person having in his, her or its service under a contract of service or apprenticeship another person engaged in work in or about an industry and includes,
+
 (a) a trustee, receiver, liquidator, executor or administrator who carries on an industry,
+
 (b) a person who authorizes or permits a learner to be in or about an industry for the purpose of undergoing training or probationary work, or
+
 (c) a deemed employer; (“employeur”)
+
 “guardian”, except in subsections 30 (7) and 60 (4), means a guardian of property appointed under the Substitute Decisions Act, 1992 or a statutory guardian of property designated by or appointed under that Act; (“tuteur”)
+
 “health care practitioner” means a health professional or a social worker; (“praticien de la santé”)
+
 “health professional” means a member of the College of a health profession as defined in the Regulated Health Professions Act, 1991; (“professionnel de la santé”)
+
 “impairment” means a physical or functional abnormality or loss (including disfigurement) which results from an injury and any psychological damage arising from the abnormality or loss; (“déficience”)
+
 “independent operator”, subject to section 12.1, means a person who carries on an industry included in Schedule 1 or Schedule 2 and who does not employ any workers for that purpose; (“exploitant indépendant”)
+
 “industry” includes an establishment, undertaking, trade, business or service and, if domestics are employed, includes a household; (“secteur d’activité”)
+
 “insurance fund” means the fund described in section 96; (“caisse d’assurance”)
+
 “insurance plan” means the benefits and obligations set out in Parts III to IX; (“régime d’assurance”)
+
 “learner” means a person who, although not under a contract of service or apprenticeship, becomes subject to the hazards of an industry for the purpose of undergoing training or probationary work; (“stagiaire”)
+
 “medical assistance in dying” means medical assistance in dying within the meaning of section 241.1 of the Criminal Code (Canada); (“aide médicale à mourir”)
+
 “Minister” means the Minister of Labour; (“ministre”)
+
 “occupational disease” includes,
+
 (a) a disease resulting from exposure to a substance relating to a particular process, trade or occupation in an industry,
+
 (b) a disease peculiar to or characteristic of a particular industrial process, trade or occupation,
+
 (c) a medical condition that in the opinion of the Board requires a worker to be removed either temporarily or permanently from exposure to a substance because the condition may be a precursor to an occupational disease,
+
 (d) a disease mentioned in Schedule 3 or 4, or
+
 (e) a disease prescribed under clause 15.1 (8) (d); (“maladie professionnelle”)
+
 “permanent impairment” means impairment that continues to exist after the worker reaches maximum medical recovery; (“déficience permanente”)
+
 “personal representative” means a personal representative as defined in subsection 1 (1) of the Succession Law Reform Act; (“représentant successoral”)
+
 “prescribed” means prescribed by the regulations made under this Act; (“prescrit”)
+
 “Schedule 1 employer” means an employer in a class or group of industries included in Schedule 1 but does not include an employer who is a Schedule 2 employer (other than a Schedule 2 employer declared by the Board under section 74 to be deemed to be a Schedule 1 employer); (“employeur mentionné à l’annexe 1”)
+
 “Schedule 2 employer” means an employer in a class of industries included in Schedule 2; (“employeur mentionné à l’annexe 2”)
+
 “silicosis” means a fibrotic condition of the lungs caused by the inhalation of silica dust that is sufficient to produce a lessened capacity for work; (“silicose”)
+
 “spouse” means a person,
+
 (a) to whom the person is married, or
+
 (b) with whom the person is living in a conjugal relationship outside marriage, if the two persons,
+
 (i) have cohabited for at least one year,
+
 (ii) are together the parents of a child, or
+
 (iii) have together entered into a cohabitation agreement under section 53 of the Family Law Act; (“conjoint”)
+
 “student” means a person who is pursuing formal education as a full-time or part-time student and is employed by an employer for the purposes of the employer’s industry, although not as a learner or an apprentice; (“étudiant”)
+
 “survivor” means a spouse, child or dependant of a deceased worker; (“survivant”)
+
 “temporary help agency” means an employer referred to in section 72 who primarily engages in the business of lending or hiring out the services of its workers to other employers on a temporary basis for a fee; (“agence de placement temporaire”)
+
 “worker” means a person who has entered into or is employed under a contract of service or apprenticeship and includes the following:
+
 1. A learner.
+
 2. A student.
+
 3. An auxiliary member of a police service.
+
 4. A member of a volunteer ambulance brigade.
+
 5. A member of a municipal volunteer fire brigade whose membership has been approved by the chief of the fire department or by a person authorized to do so by the entity responsible for the brigade.
+
 6. A person summoned to assist in controlling or extinguishing a fire by an authority empowered to do so.
+
 7. A person who assists in a search and rescue operation at the request of and under the direction of a member of the Ontario Provincial Police.
+
 8. A person who assists in connection with an emergency that has been declared by the Lieutenant Governor in Council or the Premier under section 7.0.1 of the Emergency Management and Civil Protection Act or by the head of council of a municipality under section 4 of that Act.
+
 9. A person deemed to be a worker of an employer by a direction or order of the Board.
+
 10. A person deemed to be a worker under section 12 or 12.2.
+
 11. A pupil deemed to be a worker under the Education Act. (“travailleur”)
 
 ### Schedules
@@ -117,10 +185,15 @@ S.O. 1997, c. 16, Sched. A
 ### Part II (ss. 3-10) Repealed: 2011, c. 11, s. 20.
 
 3 Repealed: 2011, c. 11, s. 20.
+
 4 Repealed: 2011, c. 11, s. 20.
+
 5-7 Repealed: 2011, c. 11, s. 20.
+
 8 Repealed: 2011, c. 11, s. 20.
+
 9 Repealed: 2011, c. 11, s. 20.
+
 10 Repealed: 2011, c. 11, s. 20.
 
 ## PART III INSURANCE PLAN
@@ -130,7 +203,9 @@ S.O. 1997, c. 16, Sched. A
 ### Insured workers
 
 11 (1) The insurance plan applies to every worker who is employed by a Schedule 1 employer or a Schedule 2 employer However, it does not apply to workers who are,
+
 (a) persons whose employment by an employer is of a casual nature and who are employed otherwise than for the purposes of the employer’s industry; or
+
 (b) persons to whom articles or materials are given out to be made up, cleaned, washed, altered, ornamented, finished, repaired or adapted for sale in the person’s own home or on other premises not under the control or management of the person who gave out the articles or materials.
 
 ### Exception
@@ -142,8 +217,11 @@ S.O. 1997, c. 16, Sched. A
 ### Deemed workers
 
 12 (1) Any of the following persons may apply to the Board for a declaration that he or she is deemed to be a worker to whom the insurance plan applies:
+
 1. An independent operator who carries on business in an industry included in Schedule 1 or Schedule 2, other than construction.
+
 2. A sole proprietor who carries on business in an industry included in Schedule 1 or Schedule 2, other than construction.
+
 3. A partner in a partnership that carries on business in an industry included in Schedule 1 or Schedule 2, other than construction.
 
 ### Exception, construction
@@ -185,19 +263,29 @@ S.O. 1997, c. 16, Sched. A
 ### Exempt home renovation work
 
 (11) Despite anything else in this section, subsections (1) to (10) apply, with necessary modifications, in respect of,
+
 (a) independent operators and sole proprietors described in clause 12.2 (8) (a); and
+
 (b) partners and executive officers described in clause 12.2 (8) (b).
 
 ### Meaning of “independent operator” in ss. 12.2, 12.3 and 182.1
 
 12.1 In sections 12.2, 12.3 and 182.1,
+
 “independent operator” means,
+
 (a) an individual who,
+
 (i) does not employ any workers,
+
 (ii) reports himself or herself as self-employed for the purposes of an Act or regulation of Ontario, Canada or another province or territory of Canada, and
+
 (iii) is retained as a contractor or subcontractor by more than one person during the time period set out in a Board policy, or
+
 (b) an individual who is an executive officer of a corporation that,
+
 (i) does not employ any workers other than the individual, and
+
 (ii) is retained as a contractor or subcontractor by more than one person during the time period set out in a Board policy.
 
 ### Compulsory insurance — construction
@@ -205,9 +293,13 @@ S.O. 1997, c. 16, Sched. A
 ### Deemed workers
 
 12.2 (1) The following persons are deemed to be workers to whom the insurance plan applies:
+
 1. Every independent operator carrying on business in construction.
+
 2. Every sole proprietor carrying on business in construction.
+
 3. Except as otherwise provided by the regulations, every partner in a partnership carrying on business in construction.
+
 4. Except as otherwise provided by the regulations, every executive officer of a corporation carrying on business in construction.
 
 ### Deemed employer
@@ -225,27 +317,37 @@ S.O. 1997, c. 16, Sched. A
 ### Regulations, partners and executive officers
 
 (5) The Lieutenant Governor in Council may make regulations,
+
 (a) exempting a partner or executive officer from the application of subsections (1) to (4);
+
 (b) prescribing the conditions that must be satisfied by the partner, partnership, executive officer or corporation, as the case may be, for the exemption to apply.
 
 ### Same
 
 (6) A regulation made under subsection (5) may prescribe conditions relating to, but not limited to,
+
 (a) the minimum number of executive officers of the corporation;
+
 (b) the nature of the work performed by a partner or executive officer;
+
 (c) the size of the partnership or corporation and the manner of determining the size of each;
+
 (d) the number or the manner of determining the number of partners of a partnership or executive officers of a corporation that are exempt.
 
 ### Same
 
 (7) A regulation made under subsection (5) may,
+
 (a) prescribe different conditions relating to partners and executive officers and to partnerships and corporations;
+
 (b) prescribe such requirements as may be necessary to enable the Board to administer the regulation and to determine if, at any particular time, a partner or executive officer is exempt from the application of subsections (1) to (4).
 
 ### Exempt home renovation work
 
 (8) Subsections (1) to (4) do not apply in respect of,
+
 (a) independent operators and sole proprietors who perform no construction work other than exempt home renovation work; and
+
 (b) partners in partnerships and executive officers of corporations who perform no construction work other than exempt home renovation work.
 
 ### Material change in circumstances
@@ -255,20 +357,35 @@ S.O. 1997, c. 16, Sched. A
 ### Definitions
 
 (10) In this section,
+
 “exempt home renovation work” means construction work that is performed,
+
 (a) by an independent operator, a sole proprietor, a partner in a partnership or an executive officer of a corporation, and
+
 (b) on an existing private residence that is occupied or to be occupied by the person who directly retains the independent operator, sole proprietor, partnership or corporation, or by a member of the person’s family; (“travaux de rénovation domiciliaire exemptés”)
+
 “member of the person’s family” means,
+
 (a) the person’s spouse,
+
 (b) the person’s child or grandchild,
+
 (c) the person’s parent, grandparent, father-in-law or mother-in-law,
+
 (d) the person’s sibling, or
+
 (e) anyone whose relationship to the person is a “step” relationship corresponding to one mentioned in clause (b), (c) or (d); (“membre de sa famille”)
+
 “private residence” includes,
+
 (a) a private residence that is used seasonally or for recreational purposes, and
+
 (b) structures that are,
+
 (i) normally incidental or subordinate to the private residence,
+
 (ii) situated on the same site, and
+
 (iii) used exclusively for non-commercial purposes. (“résidence privée”)
 
 ### Registration
@@ -290,7 +407,9 @@ S.O. 1997, c. 16, Sched. A
 ### Exempt home renovation work
 
 (5) Subsections (1) to (4) do not apply in respect of,
+
 (a) independent operators and sole proprietors described in clause 12.2 (8) (a); and
+
 (b) partners described in clause 12.2 (8) (b).
 
 ### Material change in circumstances
@@ -352,7 +471,9 @@ S.O. 1997, c. 16, Sched. A
 ### Same
 
 (7) For the purposes of subsection (6), a claim is pending on January 1, 2018 if,
+
 (a) the Board had not yet made a decision in respect of the claim by that day; or
+
 (b) the Board had not yet made a final decision in respect of the claim by that day.
 
 ### Pending appeal
@@ -368,94 +489,171 @@ S.O. 1997, c. 16, Sched. A
 ### Definitions
 
 14 (1) In this section,
+
 “ambulance service” has the same meaning as in subsection 1 (1) of the Ambulance Act; (“service d’ambulance”)
+
 “ambulance service manager” means a worker employed in an ambulance service who manages or supervises one or more paramedics and whose duties include providing direct support to paramedics dispatched by a communications officer on a request for ambulance services; (“chef de service d’ambulance”)
+
 “band council” means a council of the band as defined in subsection 2 (1) of the Indian Act (Canada); (“conseil de bande”)
+
 “communications officer” means a communications officer for the purposes of the Ambulance Act; (“agent de répartition”)
+
 “correctional institution” means a correctional institution as defined in section 1 of the Ministry of Correctional Services Act or a similar institution operated for the custody of inmates; (“établissement correctionnel”)
+
 “correctional services officer” means a worker who is directly involved in the care, health, discipline, safety and custody of an inmate confined to a correctional institution, but does not include a bailiff, probation officer or parole officer; (“agent des services correctionnels”)
+
 “emergency medical attendant” has the same meaning as in subsection 1 (1) of the Ambulance Act; (“ambulancier”)
+
 “firefighter” means,
+
 (a) a firefighter as defined in subsection 1 (1) of the Fire Protection and Prevention Act, 1997, or
+
 (b) a worker who,
+
 (i) is employed by a band council and assigned to undertake fire protection services on a reserve, or
+
 (ii) provides fire protection services on a reserve, either as a volunteer or for a nominal consideration, honorarium, training or activity allowance; (“pompier”)
+
 “fire investigator” means,
+
 (a) a worker to whom the Fire Marshal appointed under subsection 8 (1) of the Fire Protection and Prevention Act, 1997 has delegated the duty to investigate the cause, origin and circumstances of a fire,
+
 (b) a worker who was an inspector appointed under subsection 2 (4) of the Fire Marshals Act before that Act was repealed by the Fire Protection and Prevention Act, 1997, or
+
 (c) a worker who is employed by a band council and assigned to investigate the cause, origin and circumstances of a fire on a reserve; (“enquêteur sur les incendies”)
+
 “full-time firefighter” means a worker who is a firefighter, is regularly employed on a salaried basis and is scheduled to work an average of 35 hours or more per week; (“pompier à temps plein”)
+
 “member of an emergency response team” means a person who provides first aid or medical assistance in an emergency, either as a volunteer or for a nominal consideration, honorarium or training or activity allowance, and who is dispatched by a communications officer to provide the assistance, but does not include an emergency medical attendant, a firefighter, a paramedic or a police officer; (“membre d’une équipe d’intervention d’urgence”)
+
 “operational manager” means a worker who directly supervises one or more correctional services officers; (“chef des opérations”)
+
 “paramedic” has the same meaning as in subsection 1 (1) of the Ambulance Act; (“auxiliaire médical”)
+
 “part-time firefighter” means a worker who is a firefighter and is not a volunteer firefighter or full-time firefighter; (“pompier à temps partiel”)
+
 “place of secure custody” has the same meaning as in subsection 2 (1) of the Child, Youth and Family Services Act, 2017; (“lieu de garde en milieu fermé”)
+
 “place of secure temporary detention” has the same meaning as in subsection 2 (1) of the Child, Youth and Family Services Act, 2017; (“lieu de détention provisoire en milieu fermé”)
+
 “police officer” means a chief of police, any other police officer or a First Nation Officer, but does not include a person who is appointed as a police officer under the Interprovincial Policing Act, 2009, a special constable, a municipal law enforcement officer or an auxiliary member of a police service; (“agent de police”)
+
 “posttraumatic stress disorder” means, subject to subsection (19), posttraumatic stress disorder, as described in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5), published by the American Psychiatric Association; (“état de stress post-traumatique”)
+
 “psychiatrist” has the same meaning as in subsection 1 (1) of the Mental Health Act; (“psychiatre”)
+
 “psychologist” means a member of the College of Psychologists of Ontario who holds a certificate of registration for a psychologist authorizing autonomous practice, or an individual who has a similar status in another province or territory of Canada; (“psychologue”)
+
 “reserve” means a reserve as defined in subsection 2 (1) of the Indian Act (Canada); (“réserve”)
+
 “wildland firefighter” means a person who provides one or more of the following fire protection services for or on behalf of the Ministry of Natural Resources, either as an employee of the Ministry or pursuant to the person’s employer’s contract for services with the Ministry:
+
 1. Fire suppression.
+
 2. Fire prevention, fire mitigation or fire safety activities.
+
 3. Rescue and emergency services, including evacuation services.
+
 4. Piloting of aircraft for the purposes of providing the services described in paragraphs 1 to 3.
+
 5. Communication in respect of anything described in paragraphs 1 to 4.
+
 6. Training or evaluation of persons involved in providing anything described in paragraphs 1 to 5; (“pompier luttant contre les incendies de végétation”)
+
 “wildland fire investigator” means a person who is an employee of the Ministry of Natural Resources and is either appointed as an officer under the Wildland Fire Management Act or duly appointed as a conservation officer by the Ministry and who enters land or premises for the purposes of inspecting the site of a fire or determining the cause and circumstances of a fire; (“enquêteur sur les incendies de végétation”)
+
 “worker in a correctional institution” means a correctional services officer, an operational manager, or a worker who is employed at a correctional institution to provide direct health care services by assessing, treating, monitoring, evaluating and administering medication to an inmate confined to a correctional institution; (“travailleur d’un établissement correctionnel”)
+
 “worker in a place of secure custody or place of secure temporary detention” means a youth services worker, a youth services manager, or a worker who is employed at a place of secure custody or place of secure temporary detention to provide direct health care services by assessing, treating, monitoring, evaluating and administering medication to a young person in custody or detention at the place of secure custody or secure temporary detention; (“travailleur d’un lieu de garde en milieu fermé ou d’un lieu de détention provisoire en milieu fermé”)
+
 “worker involved in dispatch” means a communications officer, a worker whose duties include the dispatch of firefighters and police officers, or a worker who receives emergency calls that initiate the dispatch of ambulance services, firefighters and police officers; (“travailleur s’occupant de répartition”)
+
 “young person” has the same meaning as in subsection 2 (1) of the Child, Youth and Family Services Act, 2017; (“adolescent”)
+
 “youth services manager” means a worker who is employed in a management position at a place of secure custody or secure temporary detention, and who directly supervises youth services workers, but does not include an administrator of a place of secure custody or secure temporary detention or a manager who only supervises educational, health-related or counselling services to young persons at the facility; (“chef des services aux jeunes”)
+
 “youth services worker” means a worker who is employed at a place of secure custody or secure temporary detention, and who directly supervises young persons who are in custody or detention at the place of secure custody or secure temporary detention, including supervising daily routines and programs, but does not include a worker who provides only educational, health-related or counselling services to young persons at the facility. (“travailleur des services aux jeunes”)
 
 ### Application
 
 (2) This section applies with respect to the following workers:
+
 1. Full-time firefighters.
+
 2. Part-time firefighters.
+
 3. Volunteer firefighters.
+
 4. Fire investigators.
+
 5. Police officers.
+
 6. Members of an emergency response team.
+
 7. Paramedics.
+
 8. Emergency medical attendants.
+
 9. Ambulance service managers.
+
 10. Workers in a correctional institution.
+
 11. Workers in a place of secure custody or place of secure temporary detention.
+
 12. Workers involved in dispatch.
+
 13. Members of the College of Nurses of Ontario who directly provide patient care and who are not workers described in paragraph 10 or 11.
+
 14. Provincial bailiffs appointed under the Ministry of Correctional Services Act.
+
 15. Probation officers appointed under or in accordance with the Ministry of Correctional Services Act or the Child and Family Services Act.
+
 16. Workers who directly supervise workers described in paragraph 15.
+
 17. Special constables appointed under the Community Safety and Policing Act, 2019.
+
 18. Members of a police service, as defined in subsection 2 (1) of the Community Safety and Policing Act, 2019, other than those described in paragraph 5, who perform work in a forensic identification unit or a Violent Crime Linkage Analysis System unit of the police service.
+
 19. Wildland firefighters.
+
 20. Wildland fire investigators.
 
 ### Entitlement to benefits
 
 (3) Subject to subsection (7), a worker is entitled to benefits under the insurance plan for posttraumatic stress disorder arising out of and in the course of the worker’s employment if,
+
 (a) the worker,
+
 (i) is a worker listed in subsection (2),
+
 (ii) was a worker listed in paragraphs 1 to 12 of subsection (2) for at least one day on or after April 6, 2014,
+
 (iii) was a worker listed in paragraphs 13 to 18 of subsection (2) for at least one day on or after the day the Plan for Care and Opportunity Act (Budget Measures), 2018 receives Royal Assent, or
+
 (iv) was a worker listed in paragraph 19 or 20 of subsection (2) for at least one day on or after transition day;
+
 (b) the worker is or was diagnosed with posttraumatic stress disorder by a psychiatrist or psychologist; and
+
 (c) for a worker who,
+
 (i) is a worker listed in paragraphs 1 to 12 of subsection (2) at the time of filing a claim, the diagnosis is made on or after April 6, 2014,
+
 (ii) ceases to be a worker listed in paragraphs 1 to 12 of subsection (2) on or after April 6, 2016, the diagnosis is made on or after April 6, 2014 but no later than 24 months after the day on which the worker ceases to be a listed worker,
+
 (iii) ceased to be a worker listed in paragraphs 1 to 12 of subsection (2) after April 6, 2014 but before April 6, 2016, the diagnosis is made on or after April 6, 2014 but no later than April 6, 2018,
+
 (iv) ceases to be a worker listed in paragraphs 13 to 18 of subsection (2) on or after the day the Plan for Care and Opportunity Act (Budget Measures), 2018 receives Royal Assent, the diagnosis is made no later than 24 months after the day on which the worker ceases to be a listed worker,
+
 (v) is a worker listed in paragraph 19 or 20 of subsection (2) at the time of filing a claim, the diagnosis is made on or after transition day,
+
 (vi) ceases to be a worker listed in paragraph 19 or 20 of subsection (2) on or after the day on which the Working for Workers Five Act, 2024 receives Royal Assent, the diagnosis is made on or after transition day but no later than 24 months after the day on which the worker ceases to be a listed worker, or
+
 (vii) ceased to be a worker listed in paragraph 19 or 20 of subsection (2) on or after transition day but before the day on which the Working for Workers Five Act, 2024 receives Royal Assent, the diagnosis is made on or after transition day but no later than 24 months after the day on which the Working for Workers Five Act, 2024 receives Royal Assent.
 
 ### Interpretation
 
 (4) In subsection (3),
+
 “transition day” means the day that is 24 months before the day the Working for Workers Five Act, 2024 receives Royal Assent.
 
 ### Same
@@ -537,10 +735,15 @@ S.O. 1997, c. 16, Sched. A
 ### Transition, prior diagnosis
 
 (19) For the purposes of the following claims, posttraumatic stress disorder includes posttraumatic stress disorder as described in the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV), published by the American Psychiatric Association:
+
 1. Claims and appeals in respect of workers listed in paragraphs 1 to 12 of subsection (2) that were pending on April 6, 2016.
+
 2. New claims made under this section by workers listed in paragraphs 1 to 12 of subsection (2) on or before October 6, 2016.
+
 3. Claims and appeals in respect of workers listed in paragraphs 13 to 18 of subsection (2) that are pending on the day the Plan for Care and Opportunity Act (Budget Measures), 2018 receives Royal Assent.
+
 3.1 Claims and appeals in respect of workers listed in paragraphs 19 and 20 of subsection (2) that are pending on the day on which the Working for Workers Five Act, 2024 receives Royal Assent.
+
 4. Claims described in subsections (17), (18) and (18.1).
 
 ### Occupational diseases
@@ -636,19 +839,29 @@ S.O. 1997, c. 16, Sched. A
 ### Regulations
 
 (8) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing firefighters, fire investigators, or classes of firefighters or fire investigators, as workers to whom subsection (1), (4), (4.1), (4.3), (4.5) or (4.7) applies;
+
 (b) defining “firefighter”, “fire investigator”, “full-time firefighter” and “part-time firefighter” for the purposes of this section and the regulations under this section;
+
 (c) prescribing circumstances in which an injury to the heart is sustained for the purposes of subsection (1);
+
 (d) prescribing diseases for the purposes of subsection (4);
+
 (e) prescribing conditions and restrictions relating to the presumptions established by subsections (1), (4), (4.1), (4.3), (4.5) and (4.7), including, but not limited to, conditions and restrictions related to nature of employment, length of employment, time during which the worker was employed or age of the worker;
+
 (f) providing that section 15.2, in whole or in part, does not apply in circumstances specified in the regulation;
+
 (g) if a regulation is made under clause (f), providing for alternative rules to govern claims to which section 15.2, in whole or in part, would have applied;
+
 (h) providing for such transitional matters as the Lieutenant Governor in Council considers necessary or advisable in relation to this section, the regulations under this section and section 15.2.
 
 ### Same
 
 (9) A regulation made under clause (8) (b) may define firefighter to include,
+
 (a) volunteer firefighters; and
+
 (b) workers who are not included in the definition of “firefighter” in the Fire Protection and Prevention Act, 1997.
 
 ### Same
@@ -658,7 +871,9 @@ S.O. 1997, c. 16, Sched. A
 ### Claims based on presumptions
 
 15.2 (1) This section applies if,
+
 (a) a regulation under section 15.1 is made or amended and, as a result, a presumption established under section 15.1 applies to an injury sustained by a worker or to a disease with which a worker is diagnosed; or
+
 (b) a presumption established under subsection 15.1 (4.1), (4.3), (4.5) or (4.7) applies to a disease with which a worker is diagnosed.
 
 ### New claims
@@ -712,7 +927,9 @@ S.O. 1997, c. 16, Sched. A
 ### Same, on a vessel
 
 (3) If the accident happens outside of Ontario on a vessel, the worker is entitled to benefits under the insurance plan if the worker resides in Ontario and,
+
 (a) if the vessel is registered in Canada; or
+
 (b) if the chief place of business of its owner or of the person who offers it for charter is in Ontario.
 
 ### Same, certain vehicles, etc.
@@ -790,15 +1007,21 @@ S.O. 1997, c. 16, Sched. A
 ### Prohibition, claim suppression
 
 22.1 (1) No employer shall take any action, including but not limited to the prohibited actions set out in subsection (2), in respect of a worker with the intent of,
+
 (a) discouraging or preventing the worker from filing a claim for benefits under section 22; or
+
 (b) influencing or inducing the worker to withdraw or abandon a claim for benefits made under section 22.
 
 ### Same
 
 (2) For the purposes of subsection (1), the following actions are prohibited:
+
 1. Dismissing or threatening to dismiss a worker.
+
 2. Disciplining or suspending, or threatening to discipline or suspend a worker.
+
 3. Imposing a penalty upon a worker.
+
 4. Directly or indirectly intimidating or coercing a worker with threats, promises, persuasion or other means.
 
 ### Administrative penalty
@@ -842,13 +1065,17 @@ S.O. 1997, c. 16, Sched. A
 ### Employment benefits
 
 25 (1) Throughout the first year after a worker is injured, the employer shall make contributions for employment benefits in respect of the worker when the worker is absent from work because of the injury However, the contributions are required only if,
+
 (a) the employer was making contributions for employment benefits in respect of the worker when the injury occurred; and
+
 (b) the worker continues to pay his or her contributions, if any, for the employment benefits while the worker is absent from work.
 
 ### Failure to comply
 
 (2) If the employer fails to comply with subsection (1),
+
 (a) the employer is liable to the worker for any loss the worker suffers as a result of the failure to comply; and
+
 (b) the Board may levy a penalty on the employer not exceeding the amount of one year’s contributions for employment benefits in respect of the worker.
 
 ### Contributions re emergency workers
@@ -862,13 +1089,17 @@ S.O. 1997, c. 16, Sched. A
 ### Multi-employer benefit plans
 
 (4) Subsection (1) does not apply to an employer who participates in a multi-employer benefit plan in respect of the worker if, when the worker is absent from work because of the injury during the first year after it occurs,
+
 (a) the plan continues to provide the worker with the benefits to which he or she would otherwise be entitled; and
+
 (b) the plan does not require the employer to make contributions during the worker’s absence and does not require the worker to draw upon his or her benefit credits, if any, under the plan during the absence.
 
 ### Same
 
 (5) Every multi-employer benefit plan shall contain or be deemed to contain provisions that are,
+
 (a) sufficient to enable all employers who participate in the plan to be exempted under subsection (4) from the requirement to make contributions; and
+
 (b) sufficient to provide each worker with the benefits described in subsection (4) in the circumstances described in that subsection.
 
 ### Entitlement under benefit plans
@@ -878,6 +1109,7 @@ S.O. 1997, c. 16, Sched. A
 ### Definition
 
 (7) In this section,
+
 “contributions for employment benefits” means amounts paid in whole or in part by an employer on behalf of a worker or the worker’s spouse, child or dependant for health care, life insurance and pension benefits.
 
 ### Rights of Action
@@ -901,13 +1133,17 @@ S.O. 1997, c. 16, Sched. A
 ### Certain rights of action extinguished
 
 28 (1) A worker employed by a Schedule 1 employer, the worker’s survivors and a Schedule 1 employer are not entitled to commence an action against the following persons in respect of the worker’s injury or disease:
+
 1. Any Schedule 1 employer.
+
 2. A director, executive officer or worker employed by any Schedule 1 employer.
 
 ### Same, Schedule 2 employer
 
 (2) A worker employed by a Schedule 2 employer and the worker’s survivors are not entitled to commence an action against the following persons in respect of the worker’s injury or disease:
+
 1. The worker’s Schedule 2 employer.
+
 2. A director, executive officer or worker employed by the worker’s Schedule 2 employer.
 
 ### Restriction
@@ -921,7 +1157,9 @@ S.O. 1997, c. 16, Sched. A
 ### Liability where negligence, fault
 
 29 (1) This section applies in the following circumstances:
+
 1. In an action by or on behalf of a worker employed by a Schedule 1 employer or a survivor of such a worker, any Schedule 1 employer or a director, executive officer or another worker employed by a Schedule 1 employer is determined to be at fault or negligent in respect of the accident or the disease that gives rise to the worker’s entitlement to benefits under the insurance plan.
+
 2. In an action by or on behalf of a worker employed by a Schedule 2 employer or a survivor of such a worker, the worker’s Schedule 2 employer or a director, executive officer or another worker employed by the employer is determined to be at fault or negligent in respect of the accident or the disease that gives rise to the worker’s entitlement to benefits under the insurance plan.
 
 ### Same
@@ -967,14 +1205,19 @@ S.O. 1997, c. 16, Sched. A
 ### Same, incapable person
 
 (8) If a worker is mentally incapable of making the election or is unconscious as a result of the injury,
+
 (a) the worker’s guardian or attorney may make the election on behalf of the worker;
+
 (b) if there is no guardian or attorney, the worker’s spouse may make the election on behalf of the worker; or
+
 (c) if there is no guardian or attorney and if no election is made within 60 days after the date of the injury, the Public Guardian and Trustee shall make the election on behalf of the worker.
 
 ### Same
 
 (9) If a survivor is mentally incapable of making the election,
+
 (a) the survivor’s guardian or attorney may make the election on behalf of the survivor; or
+
 (b) if there is no guardian or attorney and if no election is made within 60 days after the death of the worker, the Public Guardian and Trustee shall make the election on behalf of the survivor.
 
 ### Subrogation, Schedule 1 employer
@@ -996,21 +1239,29 @@ S.O. 1997, c. 16, Sched. A
 ### If worker elects to commence action
 
 (14) The following rules apply if the worker or survivor elects to commence the action instead of claiming benefits under the insurance plan:
+
 1. The worker or survivor is entitled to receive benefits under the insurance plan to the extent that, in a judgment in the action, the worker or survivor is awarded less than the amount described in paragraph 3.
+
 2. If the worker or survivor settles the action and the Board approves the settlement before it is made, the worker or survivor is entitled to receive benefits under the insurance plan to the extent that the amount of the settlement is less than the amount described in paragraph 3.
+
 3. For the purposes of paragraphs 1 and 2, the amount is the cost to the Board of the benefits that would have been provided under the plan to the worker or survivor, if the worker or survivor had elected to claim benefits under the plan instead of commencing the action.
 
 ### Determining amount
 
 (15) For the purpose of determining the amount of benefits a worker or survivor is entitled to under subsection (14), the amount of a judgment in an action or the amount of a settlement shall be calculated as including the amount of any benefits that have been or will be received by the worker or survivor from any other source if those benefits,
+
 (a) have reduced the amount for which the defendant is liable to the worker or survivor in the action; or
+
 (b) would have been payable by the defendant but for an immunity granted to the defendant under any law.
 
 ### Decisions re rights of action and liability
 
 31 (1) A party to an action or an insurer from whom statutory accident benefits are claimed under section 268 of the Insurance Act may apply to the Appeals Tribunal to determine,
+
 (a) whether, because of this Act, the right to commence an action is taken away;
+
 (b) whether the amount that a person may be liable to pay in an action is limited by this Act; or
+
 (c) whether the plaintiff is entitled to claim benefits under the insurance plan.
 
 ### Same
@@ -1034,14 +1285,23 @@ S.O. 1997, c. 16, Sched. A
 ### Definition
 
 32 In this Part,
+
 “health care” means,
+
 (a) professional services provided by a health care practitioner,
+
 (b) services provided by or at hospitals and health facilities,
+
 (c) drugs,
+
 (d) the services of an attendant,
+
 (e) modifications to a person’s home and vehicle and other measures to facilitate independent living as in the Board’s opinion are appropriate,
+
 (f) assistive devices and prostheses,
+
 (g) extraordinary transportation costs to obtain health care,
+
 (h) such measures to improve the quality of life of severely impaired workers as, in the Board’s opinion, are appropriate.
 
 ### Entitlement to health care
@@ -1071,7 +1331,9 @@ S.O. 1997, c. 16, Sched. A
 ### Questions re health care
 
 (7) The Board shall determine all questions concerning,
+
 (a) the necessity, appropriateness and sufficiency of health care provided to a worker or that may be provided to a worker; and
+
 (b) payment for health care provided to a worker.
 
 ### Duty to co-operate
@@ -1157,17 +1419,25 @@ S.O. 1997, c. 16, Sched. A
 ### Duty to co-operate in return to work
 
 40 (1) The employer of an injured worker shall co-operate in the early and safe return to work of the worker by,
+
 (a) contacting the worker as soon as possible after the injury occurs and maintaining communication throughout the period of the worker’s recovery and impairment;
+
 (b) attempting to provide suitable employment that is available and consistent with the worker’s functional abilities and that, when possible, restores the worker’s pre-injury earnings;
+
 (c) giving the Board such information as the Board may request concerning the worker’s return to work; and
+
 (d) doing such other things as may be prescribed.
 
 ### Same, worker
 
 (2) The worker shall co-operate in his or her early and safe return to work by,
+
 (a) contacting his or her employer as soon as possible after the injury occurs and maintaining communication throughout the period of the worker’s recovery and impairment;
+
 (b) assisting the employer, as may be required or requested, to identify suitable employment that is available and consistent with the worker’s functional abilities and that, when possible, restores his or her pre-injury earnings;
+
 (c) giving the Board such information as the Board may request concerning the worker’s return to work; and
+
 (d) doing such other things as may be prescribed.
 
 ### Same, construction industry
@@ -1209,13 +1479,17 @@ S.O. 1997, c. 16, Sched. A
 ### Determinations re return to work
 
 (3) The Board may determine the following matters on its own initiative or shall determine them if the worker and the employer disagree about the fitness of the worker to return to work:
+
 1. If the worker has not returned to work with the employer, the Board shall determine whether the worker is medically able to perform the essential duties of his or her pre-injury employment or to perform suitable work.
+
 2. If the Board has previously determined that the worker is medically able to perform suitable work, the Board shall determine whether the worker is medically able to perform the essential duties of the worker’s pre-injury employment.
 
 ### Obligation to re-employ
 
 (4) When the worker is medically able to perform the essential duties of his or her pre-injury employment, the employer shall,
+
 (a) offer to re-employ the worker in the position that the worker held on the date of injury; or
+
 (b) offer to provide the worker with alternative employment of a nature and at earnings comparable to the worker’s employment on the date of injury.
 
 ### Same
@@ -1229,8 +1503,11 @@ S.O. 1997, c. 16, Sched. A
 ### Duration of obligation
 
 (7) The employer is obligated under this section until the earliest of,
+
 (a) the second anniversary of the date of injury;
+
 (b) one year after the worker is medically able to perform the essential duties of his or her pre-injury employment; and
+
 (c) the date on which the worker reaches 65 years of age.
 
 ### Construction industry requirements
@@ -1256,7 +1533,9 @@ S.O. 1997, c. 16, Sched. A
 ### Failure to comply
 
 (13) If the Board decides that the employer has not fulfilled the employer’s obligations to the worker, the Board may,
+
 (a) levy a penalty on the employer not exceeding the amount of the worker’s net average earnings for the year preceding the injury; and
+
 (b) make payments to the worker for a maximum of one year as if the worker were entitled to payments under section 43 (loss of earnings).
 
 ### Same
@@ -1280,8 +1559,11 @@ S.O. 1997, c. 16, Sched. A
 ### Labour market re-entry assessment
 
 42 (1) The Board shall provide a worker with a labour market re-entry assessment if any of the following circumstances exist:
+
 1. If it is unlikely that the worker will be re-employed by his or her employer because of the nature of the injury.
+
 2. If the worker’s employer has been unable to arrange work for the worker that is consistent with the worker’s functional abilities and that restores the worker’s pre-injury earnings.
+
 3. If the worker’s employer is not co-operating in the early and safe return to work of the worker.
 
 ### Labour market re-entry plan
@@ -1299,7 +1581,9 @@ S.O. 1997, c. 16, Sched. A
 ### Consultation required
 
 (5) The labour market re-entry plan shall be prepared in consultation with,
+
 (a) the worker and, unless the Board considers it inappropriate to do so, the worker’s employer; and
+
 (b) the worker’s health practitioners if the Board considers it necessary to do so.
 
 ### Contents of plan
@@ -1321,15 +1605,21 @@ S.O. 1997, c. 16, Sched. A
 ### Payments for loss of earnings
 
 43 (1) A worker who has a loss of earnings as a result of the injury is entitled to payments under this section beginning when the loss of earnings begins. The payments continue until the earliest of,
+
 (a) the day on which the worker’s loss of earnings ceases;
+
 (b) the day on which the worker reaches 65 years of age, if the worker was less than 63 years of age on the date of the injury;
+
 (c) two years after the date of the injury, if the worker was 63 years of age or older on the date of the injury;
+
 (d) the day on which the worker is no longer impaired as a result of the injury.
 
 ### Amount
 
 (2) Subject to subsections (2.1), (2.2), (3) and (4), the amount of the payments is 85 per cent of the difference between,
+
 (a) the worker’s net average earnings before the injury; and
+
 (b) the net average earnings that the worker earns or is able to earn in suitable and available employment or business after the injury.
 
 ### Minimum amount, full loss of earnings
@@ -1339,47 +1629,65 @@ S.O. 1997, c. 16, Sched. A
 ### Minimum amount, partial loss of earnings
 
 (2.2) The minimum amount of the payments for partial loss of earnings is,
+
 (a) if the worker’s net average earnings before the injury is less than $17,559.88, the difference between the worker’s net average earnings before the injury and the net average earnings that the worker earns or is able to earn in suitable and available employment or business after the injury; or
+
 (b) if the worker’s net average earnings before the injury is greater than or equal to $17,559.88, but 85 per cent of the worker’s net average earnings before the injury is less than $17,559.88, the higher of,
+
 (i) the difference between $17,559.88 and the net average earnings that the worker earns or is able to earn in suitable and available employment or business after the injury, and
+
 (ii) 85 per cent of the difference between the worker’s net average earnings before the injury and the net average earnings that the worker earns or is able to earn in suitable and available employment or business after the injury.
 
 ### Payments where co-operating
 
 (3) The amount of the payment is 85 per cent of the difference between his or her net average earnings before the injury and any net average earnings the worker earns after the injury, if the worker is co-operating in health care measures and,
+
 (a) his or her early and safe return to work; or
+
 (b) all aspects of a labour market re-entry assessment or plan.
 
 ### Earnings after injury
 
 (4) The Board shall determine the worker’s earnings after the injury to be the earnings that the worker is able to earn from the employment or business that is suitable for the worker under section 42 and is available and,
+
 (a) if the worker is provided with a labour market re-entry plan, the earnings shall be determined as of the date the worker completes the plan; or
+
 (b) if the Board decides that the worker does not require a labour market re-entry plan, the earnings shall be determined as of the date the Board makes the decision.
 
 ### Calculation of amount
 
 (5) The calculation of the amount of the payments is subject to the following rules:
+
 1. The amount of the payment must be adjusted by the indexing factor for each January 1, beginning January 1, 2018.
+
 2. The amount described in clause (2) (b) must reflect any disability payments paid to the worker under the Canada Pension Plan or the Quebec Pension Plan in respect of the injury.
+
 (6) Repealed: 2015, c. 38, Sched. 23, s. 1.
 
 ### Failure to co-operate
 
 (7) The Board may reduce or suspend payments to the worker during any period when the worker is not co-operating,
+
 (a) in health care measures;
+
 (b) in his or her early and safe return to work; or
+
 (c) in all aspects of a labour market re-entry assessment or plan provided to the worker.
 
 ### Transition, full loss of earnings
 
 (8) The following rules apply for the purpose of calculating amounts payable for full loss of earnings under this section for any period before January 1, 2017, regardless of when the Board determines that the worker is entitled to the amount:
+
 1. The minimum amount for full loss of earnings set out in subsection (2) as it read on December 30, 2017, and as adjusted in accordance with section 51, as it read on December 31, 2017, continues to apply for the purpose of calculating amounts payable for full loss of earnings under this section for the calendar year in which the injury was sustained.
+
 2. The minimum amount for full loss of earnings set out in subsection (2) as it read on December 30, 2017, and as adjusted in accordance with the alternate indexing factor described in subsection 50 (1), as it read on December 31, 2017, continues to apply for the purpose of calculating amounts payable for full loss of earnings under this section for subsequent years.
 
 ### Same, 2017 injury
 
 (9) The following rules apply for the purpose of calculating amounts payable for full loss of earnings under this section for injuries sustained between January 1, 2017 and December 31, 2017, regardless of when the Board determines that the worker is entitled to the amount:
+
 1. The minimum amount for full loss of earnings set out in subsection (2) as it read on December 30, 2017, and as adjusted in accordance with section 51, as it read on December 31, 2017, continues to apply for the purpose of calculating amounts payable for full loss of earnings under this section for the 2017 calendar year.
+
 2. For the purpose of calculating the January 1, 2018 annual adjustment to amounts payable required under section 52, the Board shall calculate the amount payable using the minimum amount for full loss of earnings set out in subsection (2.1).
 
 ### Transition, partial loss of earnings
@@ -1389,7 +1697,9 @@ S.O. 1997, c. 16, Sched. A
 ### Same
 
 (11) The amounts payable were calculated in accordance with the rules respecting the determination of the minimum amount of payments for partial loss of earnings, as set out in subsection (2.2), with the following modifications:
+
 1. The calculations were based on a dollar amount of $15,312.51, as of January 1, 1998.
+
 2. The dollar amount set out in paragraph 1 was adjusted annually in accordance with section 51, as it read on December 31, 2017.
 
 ### Review re loss of earnings
@@ -1403,14 +1713,23 @@ S.O. 1997, c. 16, Sched. A
 ### Exception
 
 (2.1) The Board may review the payments more than 72 months after the date of the worker’s injury if,
+
 (a) before the 72-month period expires, the worker fails to notify the Board of a material change in circumstances or engages in fraud or misrepresentation in connection with his or her claim for benefits under the insurance plan;
+
 (b) the worker was provided with a labour market re-entry plan and the plan is not completed when the 72-month period expires;
+
 (c) after the 72-month period expires, the worker suffers a significant deterioration in his or her condition that results in a redetermination of the degree of the permanent impairment under section 47;
+
 (d) after the 72-month period expires, the worker suffers a significant deterioration in his or her condition that results in a determination of a permanent impairment under section 47;
+
 (e) after the 72-month period expires, the worker suffers a significant deterioration in his or her condition that is likely, in the Board’s opinion, to result in a redetermination of the degree of permanent impairment under section 47;
+
 (f) after the 72-month period expires, the worker suffers a significant temporary deterioration in his or her condition that is related to the injury; or
+
 (g) when the 72-month period expires,
+
 (i) the worker and the employer are co-operating in the worker’s early and safe return to work in accordance with section 40, or
+
 (ii) the worker is co-operating in health care measures in accordance with section 34.
 
 ### Time for review when clause (2.1) (a) applies
@@ -1420,20 +1739,27 @@ S.O. 1997, c. 16, Sched. A
 ### Time for review when clause (2.1) (b) applies
 
 (2.3) If clause (2.1) (b) applies, the Board may review the payments,
+
 (a) within the 30 days after the date on which the plan is completed; and
+
 (b) at any time, if the worker, at any time on or before the day that is 30 days after the date on which the plan is completed, fails to notify the Board of a material change in circumstances, or engages in fraud or misrepresentation in connection with his or her claim for benefits under the insurance plan.
 
 ### Time for review when clause (2.1) (c) applies
 
 (2.4) If clause (2.1) (c) applies, the Board may review the payments,
+
 (a) within the 24 months after the date on which it redetermines the degree of permanent impairment;
+
 (a.1) within 30 days after the date on which the labour market re-entry plan is completed, where the Board redetermines the degree of permanent impairment of a worker who was provided with a labour market re-entry plan that is not completed when the 24-month period in clause (a) expires; and
+
 (b) at any time, if the worker, at any time on or before the day on which the Board reviews the payments under clause (a), fails to notify the Board of a material change in circumstances, or engages in fraud or misrepresentation in connection with his or her claim for benefits under the insurance plan.
 
 ### Time for review when clause (2.1) (d) applies
 
 (2.4.1) If clause (2.1) (d) applies, the Board may review the payments,
+
 (a) within 24 months after the date on which the Board determines the degree of permanent impairment under section 47; and
+
 (b) within 30 days after the date on which the labour market re-entry plan is completed, where the Board determines the degree of permanent impairment of a worker who was provided with a labour market re-entry plan that is not completed when the 24-month period in clause (a) expires.
 
 ### Time for review when clause (2.1) (e) applies
@@ -1443,7 +1769,9 @@ S.O. 1997, c. 16, Sched. A
 ### Time for review when clause (2.1) (f) applies
 
 (2.4.3) If clause (2.1) (f) applies, the Board may review the payments,
+
 (a) at any time it considers appropriate in the period during which the worker is suffering a significant temporary deterioration in his or her condition; and
+
 (b) when it determines that the worker has recovered from the significant temporary deterioration in his or her condition.
 
 ### Time for review when clause (2.1) (g) applies
@@ -1453,13 +1781,17 @@ S.O. 1997, c. 16, Sched. A
 ### Additional review
 
 (2.4.5) The Board may review the payments at any time,
+
 (a) in a case to which clause (2.4) (a.1) or (2.4.1) (b) applies, if the worker, at any time on or before the day that is 30 days after the date on which the labour market re-entry plan is completed, fails to notify the Board of a material change in circumstances, or engages in fraud or misrepresentation in connection with his or her claim for benefits under the insurance plan;
+
 (b) in a case to which clause (2.4.1) (a) or subsection (2.4.2), (2.4.3) or (2.4.4) applies, if the worker, at any time on or before the day on which the Board reviews the payments under that clause or subsection, fails to notify the Board of a material change in circumstances, or engages in fraud or misrepresentation in connection with his or her claim for benefits under the insurance plan.
 
 ### Transition
 
 (2.5) Clause (2.1) (b) and subsection (2.3) apply with respect to,
+
 (a) a worker who has been provided with a labour market re-entry plan that is not completed before November 26, 2002;
+
 (b) a worker who is provided with a labour market re-entry plan on or after November 26, 2002.
 
 ### Same
@@ -1473,10 +1805,15 @@ S.O. 1997, c. 16, Sched. A
 ### Same
 
 (2.8) Clauses (2.1) (d) and (e) and subsections (2.4.1) and (2.4.2) apply with respect to,
+
 (a) a worker who, on or after July 1, 2007, is suffering a significant deterioration in his or her condition that began after the 72-month period expired and that,
+
 (i) results in a determination of the degree of permanent impairment under section 47, or
+
 (ii) in the Board’s opinion, is likely to result in a redetermination of the degree of permanent impairment under section 47;
+
 (b) a worker who is provided with a labour market re-entry plan that is not completed before July 1, 2007; and
+
 (c) a worker who is provided with a labour market re-entry plan on or after July 1, 2007.
 
 ### Same
@@ -1498,14 +1835,19 @@ S.O. 1997, c. 16, Sched. A
 ### Same, certain older workers
 
 (3) A worker may direct the Board not to review the payments for loss of earnings,
+
 (a) if the worker is 55 years old or more when the Board determines that he or she is entitled to payments for loss of earnings;
+
 (b) if he or she has reached maximum medical recovery; and
+
 (c) if a labour market re-entry plan for the worker has been completed.
 
 ### Same
 
 (4) The direction must be given within 30 days after the later of,
+
 (a) the date on which the worker reaches maximum medical recovery; and
+
 (b) the date on which the worker’s labour market re-entry plan is completed.
 
 ### Effect of direction
@@ -1543,7 +1885,9 @@ S.O. 1997, c. 16, Sched. A
 ### Lump sum
 
 (6.1) Despite subsection (6), the Board shall pay the benefit as a lump sum if,
+
 (a) in the case of a worker who reaches the age of 65 before the specified date, the amount of the benefit is less than $3,000 per year;
+
 (b) in the case of a worker who reaches the age of 65 on or after the specified date, the amount of the benefit is less than or equal to the maximum amount of average earnings determined under section 54 for the year in which the worker reaches the age of 65.
 
 ### Specified date
@@ -1561,7 +1905,9 @@ S.O. 1997, c. 16, Sched. A
 ### No entitlement to prescribed benefits
 
 (7.2) If there is no entitlement to the prescribed benefits under subsection (7) or (7.1), the Board shall remove from the fund maintained under subsection (12) the amounts set aside for the worker and the accumulated investment income on the amounts, and shall transfer the total,
+
 (a) to the worker’s employer, if it is a Schedule 2 employer that is individually liable to pay benefits with respect to the worker under the insurance plan; or
+
 (b) in any other case, to the insurance fund.
 
 ### Application
@@ -1583,11 +1929,17 @@ S.O. 1997, c. 16, Sched. A
 ### Annual statements
 
 (11) The Board shall provide the worker with an annual statement setting out,
+
 (a) the amounts set aside by the Board in the worker’s name in the year;
+
 (b) the amounts contributed by the worker in the year, if any;
+
 (c) the accumulated investment income earned on the amounts referred to in clauses (a) and (b) in the year;
+
 (d) the date when the worker will become entitled to a benefit;
+
 (e) the name of any designated beneficiary; and
+
 (f) such other information as the Board considers appropriate.
 
 ### Benefit fund
@@ -1605,20 +1957,27 @@ S.O. 1997, c. 16, Sched. A
 ### Amount
 
 (2) The amount of the compensation is calculated by multiplying the percentage of the worker’s permanent impairment from the injury (as determined by the Board) and,
+
 (a) $59,095.26 plus $1,313.71 for each year by which the worker’s age at the time of the injury was less than 45; or
+
 (b) $59,095.26 less $1,313.71 for each year by which the worker’s age at the time of the injury was greater than 45.
+
 However, the maximum amount to be multiplied by the percentage of the worker’s impairment is $85,359.27 and the minimum amount is $32,831.21.
 
 ### Lump sum or monthly payment
 
 (3) If the worker becomes entitled to compensation under this section before the specified date, the following rules apply to the payment of the compensation:
+
 1. If the amount of the compensation is greater than $13,132.01, it is payable as a monthly payment for the life of the worker. If it is $13,132.01 or less, it is payable as a lump sum.
+
 2. Despite paragraph 1, the worker may elect to receive as a lump sum an amount that would otherwise be payable monthly if he or she does so within 30 days after receiving notice of the amount from the Board.
 
 ### Same
 
 (4) If the worker becomes entitled to compensation under this section on or after the specified date, the compensation is payable as a lump sum unless the following conditions are satisfied:
+
 1. The amount of compensation is greater than $13,132.01.
+
 2. The worker elects, within 30 days after receiving notice of the amount from the Board, to receive it as a monthly payment for his or her life.
 
 ### Specified date
@@ -1640,7 +1999,9 @@ However, the maximum amount to be multiplied by the percentage of the worker’s
 ### Same
 
 (2) The determination must be made in accordance with the prescribed rating schedule (or, if the schedule does not provide for the impairment, the prescribed criteria) and,
+
 (a) having regard to medical assessments, if any, conducted under this section; and
+
 (b) having regard to the health information about the worker on file with the Board.
 
 ### Medical assessment
@@ -1698,15 +2059,21 @@ However, the maximum amount to be multiplied by the percentage of the worker’s
 ### Spouse lump sum payment
 
 (2) A surviving spouse who was cohabiting with the worker at the time of the worker’s death is entitled to payment of a lump sum of $80,673.30,
+
 (a) plus $2,016.83 for each year by which the spouse’s age on the date of the worker’s death is less than 40; or
+
 (b) minus $2,016.83 for each year by which the spouse’s age at the date of the worker’s death is greater than 40.
+
 However, the maximum amount payable under this subsection is $121,009.87 and the minimum amount is $40,336.60.
 
 ### Periodic payment to spouse, no children
 
 (3) If the deceased worker is survived by a spouse who was cohabiting with the worker at the time of the worker’s death, but no children, the spouse is entitled to be paid, by periodic payments, 40 per cent of the deceased worker’s net average earnings,
+
 (a) plus 1 per cent of the net average earnings for each year by which the spouse’s age on the date of the worker’s death is greater than 40; or
+
 (b) minus 1 per cent of the net average earnings for each year by which the spouse’s age on the date of the worker’s death is less than 40.
+
 However, the maximum percentage payable under this subsection is 60 per cent and the minimum percentage is 20 per cent. If the deceased worker’s net average earnings are less than $22,904.44, they shall be deemed to be $22,904.44.
 
 ### Periodic payment to spouse with children
@@ -1728,11 +2095,17 @@ However, the maximum percentage payable under this subsection is 60 per cent and
 ### Apportionment among spouses
 
 (8) If there is more than one person entitled to payments under this section as a spouse of the deceased worker, the following rules apply:
+
 1. The total lump sum payments to the spouses must not exceed $121,009.87.
+
 2. The total periodic payments to the spouses must not exceed 85 per cent of the deceased worker’s net average earnings.
+
 3. The Board shall apportion the payments among the spouses in accordance with,
+
 i. the relative degree of financial and emotional dependance of each spouse on the deceased worker at the time of death,
+
 ii. the period of separation, if any, of each spouse from the deceased worker at the time of death, and
+
 iii. the size of the relative entitlements of those so entitled without reference to this subsection.
 
 ### Labour market re-entry plan for spouse
@@ -1782,16 +2155,23 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Parent (not spouse)
 
 (20) Despite subsections (14) and (15), the following rules apply if one or more children who are entitled to payments under this section are being maintained by a parent who is not the spouse of the deceased worker or by another person who is acting in the role of parent:
+
 1. The parent or other person is entitled to receive the periodic payments to which a spouse of the deceased worker would be entitled under subsection (4).
+
 2. In the circumstances described in paragraph 1, the payments to the parent or other person with respect to the children are in lieu of the periodic payments to which the children would otherwise be entitled under this section.
+
 3. If there is more than one individual who is a parent or other person and if there is more than one child, the Board shall apportion the payments.
+
 4. The total periodic payments under this subsection must not exceed 85 per cent of the deceased worker’s net average earnings.
 
 ### Dependants, no spouse or children
 
 (21) If the deceased worker has no spouse or children but is survived by other dependants, the dependants are entitled to reasonable compensation proportionate to the loss occasioned to each of them. The following rules apply with respect to that compensation:
+
 1. The Board shall determine the amount of the compensation.
+
 2. The total periodic payments to the dependants must not exceed 50 per cent of the deceased worker’s net average earnings.
+
 3. The periodic payments to a dependant are payable only as long as the worker could have been reasonably expected to continue to support the dependant if the deceased worker had not suffered injury.
 
 ### Burial expenses
@@ -1853,11 +2233,13 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Application
 
 (3) The indexing factor applies with respect to the calculation of all amounts payable under this Part.
+
 50 Repealed: 2015, c. 38, Sched. 23, s. 3.
 
 ### Indexation of amounts in the Act
 
 51 (1) On January 1 every year, the amounts set out in this Act (as adjusted on the preceding January 1) shall be adjusted by the amount of the indexing factor described in subsection 49 (1).
+
 (1.1) Repealed: 2015, c. 38, Sched. 23, s. 4 (2).
 
 ### Exceptions
@@ -1867,6 +2249,7 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Payments made prior to 2018
 
 (2.1) Any payments made before January 1, 2018 that were calculated using an amount set out in this Act that was required to be adjusted in accordance with this section, as it read on December 31, 2017, but that was instead adjusted in accordance with the alternate indexing factor described in subsection 50 (1), as it read on December 31, 2017, are not invalid solely on the ground that the amount used to calculate the payment was not adjusted as required in accordance with this section, as it read on December 31, 2017, and there is no right to object to or appeal a decision, or to commence an action or other legal proceeding on that ground alone.
+
 (3)-(7) Repealed: 2015, c. 38, Sched. 23, s. 4 (2).
 
 ### Annual adjustment of amounts payable
@@ -1876,7 +2259,9 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Additional indexing factor
 
 52.0.1 (1) If an additional indexing factor is prescribed for the purposes of this section, on the prescribed date, the Board shall,
+
 (a) adjust the amounts that were adjusted under subsection 51 (1) and section 52 by the prescribed additional indexing factor; or
+
 (b) if the amounts that were adjusted under subsection 51 (1) and section 52 were previously adjusted by a prescribed additional indexing factor in the same calendar year, adjust the amounts previously adjusted by the most recently prescribed additional indexing factor.
 
 ### Same, January 1
@@ -1886,7 +2271,9 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Same, new claims
 
 (3) If the date prescribed for the purposes of subsection (1) is a date other than January 1, on the prescribed date, the Board shall,
+
 (a) adjust amounts that first became payable between January 1 and the prescribed date by the prescribed additional indexing factor; and
+
 (b) if more than one additional indexing factor is prescribed in the same calendar year, adjust amounts previously adjusted by the most recently prescribed additional indexing factor.
 
 ### Increases prospective
@@ -1906,8 +2293,11 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Average earnings
 
 53 (1) The Board shall determine the amount of a worker’s average earnings for the purposes of the insurance plan and in doing so shall take into account,
+
 (a) the rate per week at which the worker was remunerated by each of the employers for whom he or she worked at the time of the injury;
+
 (b) any pattern of employment that results in a variation in the worker’s earnings; and
+
 (c) such other information as it considers appropriate.
 
 ### Exception
@@ -1925,7 +2315,9 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Apprentice
 
 (4.1) Despite anything in this section, the Board shall determine the average earnings of a worker who is an apprentice as follows:
+
 1. The average earnings are an amount equal to the average earnings of a journeyperson employed by the employer in the same trade as that in which the worker was working at the time of the injury.
+
 2. If the worker’s employer did not employ a journeyperson in the same trade as that in which the worker was working at the time of the injury, the average earnings are an amount equal to the average earnings of a journeyperson employed in the employer’s locality in the same trade at the time of the injury.
 
 ### Emergency workers
@@ -1935,7 +2327,9 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Average earnings, recurrence of loss of earnings
 
 (6) When a worker becomes entitled to payments for a loss of earnings arising out of an accident in respect of which he or she previously received benefits under the insurance plan, the worker’s average earnings (for the purpose of calculating the amount payable for the loss of earnings) are the greater of,
+
 (a) his or her average earnings at the date of the accident; or
+
 (b) his or her average earnings when he or she was most recently employed.
 
 ### Maximum amount of average earnings
@@ -1961,9 +2355,13 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Net average earnings
 
 55 (1) The Board shall determine the amount of a worker’s net average earnings by deducting from his or her earnings,
+
 (a) the probable income tax payable by the worker on his or her earnings;
+
 (b) the probable Canada Pension Plan or Quebec Pension Plan premiums payable by the worker; and
+
 (c) the probable employment insurance premiums payable by the worker.
+
 (2) Repealed: 2015, c. 38, Sched. 23, s. 7.
 
 ### Schedule of net average earnings
@@ -2019,7 +2417,9 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Notice of decision
 
 (3) The Board shall notify the worker, claimant and employer of its decision in the matter but shall not, in any event, disclose the report or opinion until after the later of,
+
 (a) the expiry of 21 days after giving notice of its decision; or
+
 (b) if the decision is appealed, the day on which the Appeals Tribunal finally disposes of the matter.
 
 ### Appeal
@@ -2053,7 +2453,9 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Payments owing to deceased workers
 
 61 (1) If benefits owing under the insurance plan are payable to an estate and there is no personal representative of the estate to whom the Board may make the payment, the Board,
+
 (a) shall make reasonable inquiries to determine to whom the money owing to the estate shall be paid; or
+
 (b) may apply, without notice, to the court for an order for payment of money into court.
 
 ### Court order
@@ -2067,7 +2469,9 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Court costs
 
 (4) If the Board makes a payment into court under a court order, the court may,
+
 (a) fix, without assessment, the costs incurred upon or in conjunction with any application or order; and
+
 (b) order any costs to be paid out of the benefits.
 
 ### Discharge from liability
@@ -2085,7 +2489,9 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Commutation of payments
 
 (2) Subject to subsection (3), the Board may commute payments to a worker under section 43 (loss of earnings) and pay him or her a lump sum instead,
+
 (a) if the amount of the payments is 10 per cent or less of the worker’s full loss of earnings; and
+
 (b) if the 72-month period for reviewing payments to the worker has expired or if the Board is not permitted to review the payments.
 
 ### Election
@@ -2099,8 +2505,11 @@ iii. the size of the relative entitlements of those so entitled without referenc
 ### Agreements re payments
 
 63 (1) An agreement between a Schedule 2 employer and a worker or a worker’s survivor,
+
 (a) that fixes the amount that the employer will pay to the worker or survivor under the insurance plan; or
+
 (b) in which the worker or survivor agrees to accept a specified amount in lieu of or in satisfaction of the payments to which he or she is entitled under the insurance plan,
+
 is not binding upon the worker or survivor unless it is approved by the Board.
 
 ### Exception
@@ -2122,7 +2531,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Same
 
 (2) The Board shall pay all or part of the amount owing to the person under the insurance plan,
+
 (a) in accordance with a garnishment notice issued by a court in Ontario; or
+
 (b) in accordance with a notice of a support deduction order served upon the Board by the Director of the Family Responsibility Office.
 
 ### Limits and procedures
@@ -2148,18 +2559,27 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### “Trade” of municipal corporations, etc.
 
 68 The exercise by the following entities of their powers and the performance of their duties shall be deemed to be their trade or business for the purposes of the insurance plan:
+
 1. A municipal corporation.
+
 2. A public utilities commission or any other commission or any board (other than a hospital board) that manages a work or service owned by or operated for a municipal corporation.
+
 3. A public library board.
+
 4. The board of trustees of a police village.
+
 5. A school board.
 
 ### Training agencies and trainees
 
 69 (1) In this section,
+
 “placement host” means a person with whom a trainee is placed by a training agency to gain work skills and experience; (“agent d’accueil”)
+
 “training agency” means,
+
 (a) a person who is registered under the Ontario Career Colleges Act, 2005 to operate a career college, or
+
 (b) a member of a prescribed class who provides vocational or other training. (“organisme de formation”)
 
 ### Election
@@ -2169,14 +2589,19 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Effect of election
 
 (3) When the Board receives written notice of a training agency’s election, the following rules apply with respect to each trainee placed with a placement host, other than a trainee who receives wages from the placement host:
+
 1. The placement host shall be deemed not to be an employer of the trainee for the purposes of this Act. However, the placement host remains the employer of the trainee for the purposes of section 28 (rights of action).
+
 2. The training agency shall be deemed to be the employer of the trainee for the purposes of this Act.
+
 3. The trainee shall be deemed to be a learner employed by the training agency.
 
 ### Injury to trainee
 
 (4) If a trainee in relation to whom subsection (3) applies suffers a personal injury by accident or occupational disease while on a placement with a placement host,
+
 (a) the trainee’s benefits under the insurance plan shall be determined as if the placement host were the trainee’s employer; and
+
 (b) sections 40 and 41 (return to work) do not apply to the placement host or the training agency.
 
 ### Revocation of election
@@ -2190,10 +2615,15 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Deemed employer, certain volunteer or auxiliary workers
 
 70 One of the following entities, as may be appropriate, shall be deemed to be the employer of a member of a municipal volunteer fire brigade or volunteer ambulance brigade or an auxiliary member of a police service:
+
 1. A municipal corporation.
+
 2. A public utilities commission or any other commission or any board (other than a hospital board) that manages the brigade for a municipal corporation.
+
 2.1 Any other person that manages the volunteer ambulance brigade for a municipal corporation.
+
 3. The board of trustees of a police village.
+
 4. A police service.
 
 ### Deemed employer, emergency workers
@@ -2289,7 +2719,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Same, certain volunteer or auxiliary workers
 
 (3) If the statement is made by a deemed employer of a municipal volunteer fire brigade, of a volunteer ambulance brigade or of auxiliary members of a police service, it shall set out,
+
 (a) the number of members of the brigade or auxiliary members of the police service; and
+
 (b) the amount of earnings, fixed by the deemed employer, to be attributed to each member for the purposes of the insurance plan.
 
 ### Additional statements
@@ -2307,7 +2739,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Effect of non-compliance
 
 (7) The Board may require an employer who fails to submit a statement, or who fails to do so by the date specified by the Board, to pay,
+
 (a) interest at a rate determined by the Board on the employer’s premiums for the period to which the statement relates; or
+
 (b) an additional percentage as determined by the Board of the employer’s premiums for that period.
 
 ### Same
@@ -2363,7 +2797,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Partners and executive officers
 
 81.1 (1) The Board may establish premium rates for,
+
 (a) partners in a partnership described in paragraph 3 of subsection 12.2 (1) who do not perform construction work; and
+
 (b) executive officers of a corporation described in paragraph 4 of subsection 12.2 (1) who do not perform construction work.
 
 ### Same
@@ -2381,9 +2817,13 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Adjustments in premiums for particular employers
 
 82 The Board may increase or decrease the premiums otherwise payable by a particular employer in such circumstances as the Board considers appropriate including the following:
+
 1. If, in the opinion of the Board, the employer has not taken sufficient precautions to prevent accidents to workers or the working conditions are not safe for workers.
+
 2. If the employer’s accident record has been consistently good and the employer’s ways, works, machinery and appliances conform to modern standards so as to reduce the hazard of accidents to a minimum.
+
 3. If the employer has complied with the regulations made under this Act or the Occupational Health and Safety Act respecting first aid.
+
 4. If the frequency of work injuries among the employer’s workers and the accident cost of those injuries is consistently higher than that of the average in the industry in which the employer is engaged.
 
 ### Experience and merit rating programs
@@ -2401,15 +2841,25 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Regulations re temporary help workers
 
 (4) The Lieutenant Governor in Council may make regulations,
+
 (a) defining a temporary help agency for the purposes of this section;
+
 (b) requiring that, despite section 72, if a temporary help agency lends or hires out the services of a worker to another employer who participates in a program established under subsection (1) and the worker sustains an injury while performing work for the other employer, the Board,
+
 (i) deem the total wages that are paid in the current year to the worker by the temporary help agency for work performed for the other employer to be paid by the other employer,
+
 (ii) attribute the injury and the accident costs arising from the injury to the other employer,
+
 (iii) increase or decrease the amount of the other employer’s premiums based upon the frequency of work injuries or the accident costs or both, and
+
 (iv) deem the other employer to be an employer for the purposes of sections 58 and 59 in such circumstances as may be prescribed;
+
 (c) prescribing circumstances for the purposes of subclause (b) (iv);
+
 (d) requiring that, if a temporary help agency lends or hires out the services of a worker to another employer who participates in a program established under subsection (1) and the worker sustains an injury while performing work for the other employer, the other employer notify the Board of the injury;
+
 (e) for the purposes of a notice required by a regulation made under clause (d), governing the notice, including prescribing the manner in which notice of an injury is to be given, the period of time within which notice is to be given and the parties to whom copies of the notice must be given; and
+
 (f) prescribing penalties for failure to comply with requirements prescribed under clauses (d) and (e).
 
 ### Transfer of costs
@@ -2473,13 +2923,17 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Exception, 2021 calendar year
 
 88.1 (1) Despite subsection 88 (3), for the period beginning on January 1, 2021 and ending on December 31, 2021 or such later date as may be prescribed, the premium payable by an employer for each of the employer’s workers applies only with respect to a maximum amount of average earnings of,
+
 (a) $97,308; or
+
 (b) if another amount is prescribed for the purposes of this section, that amount.
 
 ### Regulations
 
 (2) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing a date for the purposes of subsection (1);
+
 (b) prescribing an amount for the purposes of clause (1) (b).
 
 ### Same
@@ -2585,7 +3039,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Exception, Schedule 2 employer
 
 (7) Despite sections 15, 15.1 and 15.2, a worker is not entitled to benefits under the insurance plan and a Schedule 2 employer is not liable to make payments under the insurance plan to or for the worker or his survivors,
+
 (a) if there is insufficient information concerning the worker’s prior employers to enable the Board to make the determination requested under subsection (4); and
+
 (b) if the employer proves that the worker did not contract the disease while employed by the employer.
 
 ### Increases in benefits
@@ -2597,7 +3053,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### No contributions from workers
 
 95.1 (1) No employer shall,
+
 (a) directly or indirectly deduct from a worker’s wages an amount that the employer is, or may become, liable to pay to the worker under the insurance plan; or
+
 (b) require or permit a worker to contribute in any way toward indemnifying the employer against any liability that the employer has incurred or may incur under the insurance plan.
 
 ### Right of action
@@ -2615,15 +3073,21 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Definitions
 
 96 (1) In this Part,
+
 “current benefits” means the benefits payable under the insurance plan in the current calendar year; (“prestations courantes”)
+
 “future benefits” means the present value of the cost of benefits that will become due under the insurance plan in the future in respect of current or past claims, as determined by the Board’s actuary. (“prestations futures”)
 
 ### Insurance fund
 
 (2) The Board shall maintain an insurance fund for the following purposes:
+
 1. To pay for current benefits and to provide for future benefits under the insurance plan to workers employed by Schedule 1 employers and to the survivors of deceased workers.
+
 2. To pay the expenses of the Board and the cost of administering this Act.
+
 3. To pay such other costs as are required under any Act to be paid by the Board or out of the insurance fund.
+
 4. To make such other payments as are required under this Act.
 
 ### Sufficiency of fund
@@ -2637,8 +3101,11 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Same
 
 (5) The Board shall maintain the insurance fund so as not to burden unduly or unfairly any class of Schedule 1 employers with payments,
+
 (a) in any year in respect of current benefits; or
+
 (b) in future years in respect of future benefits.
+
 96.1 Repealed: 2021, c. 35, Sched. 6, s. 1.
 
 ### Insufficiency of fund after prescribed date
@@ -2652,6 +3119,7 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Reserve funds
 
 97 (1) Once the insurance fund is sufficient for the purposes set out in subsection 96 (3), the Board may establish and maintain one or more reserve funds to provide for future benefits.
+
 (2) Repealed: 2021, c. 35, Sched. 6, s. 2.
 
 ### Same
@@ -2689,7 +3157,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Same
 
 (2) Except in such circumstances as may be prescribed, if the amount of the insurance fund meets a sufficiency ratio that is equal to 125 per cent,
+
 (a) the Board shall distribute the difference in the amount prescribed under clause 100 (f.1) and the amount in the insurance fund among Schedule 1 employers; or
+
 (b) if no amount is prescribed under clause 100 (f.1), the Board shall distribute any amount in excess of the amount prescribed under clause 100 (c) that it considers appropriate among Schedule 1 employers having regard to such criteria as may be prescribed and such other factors as the Board considers appropriate.
 
 ### Distribution of different amounts
@@ -2723,8 +3193,11 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Distribution of surplus, Schedule 2 municipal employers
 
 97.3 (1) Except in such circumstances as may be prescribed, if the amount in the insurance fund is greater than the amount prescribed under clause 100 (c), the Board shall pay to a Schedule 2 employer that is a municipality an amount that is equal to the cost of benefits that are required under section 90 to be paid by the employer in respect of a worker or survivor for the period between the day on which the worker or survivor became entitled to benefits and the day on which section 4 of Schedule 6 to the Working for Workers Six Act, 2024 comes into force in respect of an occupational disease,
+
 (a) that was diagnosed on or before the day on which section 4 of Schedule 6 to the Working for Workers Six Act, 2024 comes into force;
+
 (b) to which the presumption set out in subsection 15.1 (4.7) applies; and
+
 (c) that relates to a claim that is filed or refiled under section 15.2 within 12 months from the day that section 4 of Schedule 6 to the Working for Workers Six Act, 2024 comes into force or that is pending before the Board or Appeals Tribunal on the day that section 4 of Schedule 6 to the Working for Workers Six Act, 2024 comes into force.
 
 ### Schedule 2 employer
@@ -2798,17 +3271,29 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Regulations
 
 100 The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing anything referred to in this Part as prescribed;
+
 (b) prescribing the date by which the insurance fund must become sufficient;
+
 (c) prescribing the amount of the insurance fund required to make the fund sufficient by the prescribed date or prescribing the method of determining that amount, including any formula, ratio or percentage to be used to calculate the amount;
+
 (d) Repealed: 2021, c. 35, Sched. 6, s. 4 (1).
+
 (e) prescribing the requirements with which the Board shall comply for the purposes of section 96.2, including the time period within which the Board must comply with those requirements;
+
 (f) prescribing any terms, conditions, limitations or requirements on the use of reserve funds for the purposes of subsection 97 (2.1);
+
 (f.1) prescribing, for the purposes of subsection 97.1 (2), an amount, expressed as a ratio or percentage, that is greater than a sufficiency ratio of 115 per cent but less than a sufficiency ratio of 125 per cent;
+
 (f.2) prescribing circumstances for the purposes of subsection 97.1 (2);
+
 (f.3) prescribing criteria for the purposes of section 97.1;
+
 (f.4) prescribing requirements for the purposes of subsection 97.1 (5);
+
 (f.5) prescribing the method of calculating the sufficiency ratio for the purposes of section 97.1, including any formula, ratio or percentage to be used to calculate the amount;
+
 (g) providing for such transitional matters as the Lieutenant Governor in Council considers necessary or advisable in relation to this Part and the regulations made under it.
 
 ## PART IX TRANSITIONAL RULES
@@ -2818,7 +3303,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Definitions
 
 101 In this Part,
+
 “pre-1997 Act” means the Workers’ Compensation Act as it read on December 31, 1997; (“Loi d’avant 1997”)
+
 “pre-1998 injury” means a personal injury by accident or an occupational disease that occurs before January 1, 1998. (“lésion d’avant 1998”)
 
 ### Pre- 1998 Injuries
@@ -2834,12 +3321,19 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Definition of “spouse”
 
 103.1 The definition of “spouse” in subsection 1 (1) of the pre-1997 Act shall be deemed to be repealed and the following substituted:
+
 “spouse” means either of two persons who, at the time of death of the one who was the worker, were cohabiting and,
+
 (a) were married to each other, or
+
 (b) were living together in a conjugal relationship outside marriage and,
+
 (i) had cohabited for at least one year,
+
 (ii) were together the parents of a child, or
+
 (iii) had together entered into a cohabitation agreement under section 53 of the Family Law Act.
+
 103.2, 103.3 Repealed: 2005, c. 5, s. 73 (28).
 
 ### Death benefits
@@ -2877,11 +3371,13 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Bereavement counselling
 
 (3.4) Upon the request of the spouse, the Board may pay for bereavement counselling for the spouse or children of the worker. The request must be received within one year after the worker’s death.
+
 (3)-(12) Repealed: 2005, c. 5, s. 73 (36).
 
 ### Temporary partial disability
 
 105 Subclause 37 (2) (b) (i) of the pre-1997 Act shall be deemed to be amended by striking out “a medical or vocational rehabilitation program which” in the second, third and fourth lines and substituting “a medical rehabilitation program, an early and safe return to work program or a labour market re-entry plan, as the circumstances require, which”.
+
 105.1 Repealed: 2005, c. 5, s. 73 (37).
 
 ### Non-economic loss where permanent impairment
@@ -2915,7 +3411,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Same
 
 (4) Clauses 43 (9) (a) and (b) of the pre-1997 Act shall be deemed to be repealed and the following substituted:
+
 (a) that began within 24 months after the date the compensation for future loss of earnings is determined under this section; or
+
 (b) that began within 12 months after a determination is made under subsection 47 (9) of the Workplace Safety and Insurance Act, 1997.
 
 ### Indexation of compensation for future loss of earnings
@@ -2929,6 +3427,7 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Indexing
 
 (6.1) The amount of compensation payable under this section shall be adjusted on January 1 each year by applying the indexing factor described in subsection 148 (1).
+
 107.2-107.3 Repealed: 2005, c. 5, s. 73 (38).
 
 ### Vocational rehabilitation
@@ -2966,11 +3465,17 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Same
 
 (8) The pre-1997 Act shall be deemed to be amended by striking out,
+
 (a) “medical and vocational rehabilitation” in the first and second lines of clause 43 (7) (d) and substituting “medical rehabilitation and return to work or labour market re-entry”;
+
 (b) “vocational rehabilitation program” in the second and third lines of clause 43 (8) (c) and substituting “labour market re-entry plan”;
+
 (c) “vocational or medical rehabilitation program” in the third and fourth lines of subsection 43 (9) and substituting “medical rehabilitation program, early and safe return to work program or labour market re-entry plan”;
+
 (d) “vocational rehabilitation services or programs provided” in the second and third lines of subsection 103 (4.1) and substituting “an early and safe return to work program or labour market re-entry plan that is provided to the worker”; and
+
 (e) “vocational rehabilitation services and programs” in the last two lines of subsection 103 (4.2) and substituting “an early and safe return to work program or a labour market re-entry plan that is provided to the worker”.
+
 108.1-108.5 Repealed: 2005, c. 5, s. 73 (39).
 
 ### Restoring rights
@@ -2980,12 +3485,15 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Permanent partial disability supplements
 
 110 (1) Subsection 147 (1) of the pre-1997 Act shall be deemed to be amended by adding the following definition:
+
 “labour market re-entry plan” means a labour market re-entry plan prepared in accordance with section 42 of the Workplace Safety and Insurance Act, 1997. (“programme de réintégration sur le marché du travail”)
 
 ### Same
 
 (2) Subsection 147 (2) of the pre-1997 Act shall be deemed to be amended by striking out,
+
 (a) “vocational rehabilitation program” in the fourth and fifth lines and substituting “labour market re-entry plan”; and
+
 (b) “vocational rehabilitation” in the eighth line and substituting “completion of the plan”.
 
 ### Same
@@ -2995,12 +3503,15 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Same
 
 (4) Subsection 147 (4) of the pre-1997 Act shall be deemed to be amended by striking out,
+
 (a) “vocational rehabilitation program” in clause (a) and substituting “labour market re-entry plan”; and
+
 (b) “vocational rehabilitation program” in clause (b) and substituting “labour market re-entry plan”.
 
 ### Same
 
 (5) Clause 147 (6) (c) of the pre-1997 Act shall be deemed to be repealed and the following substituted:
+
 (c) the day the worker ceases to participate in a labour market re-entry plan.
 
 ### Same
@@ -3034,8 +3545,11 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Same
 
 (11) If the Board has made a decision relating to the calculation of a reduction made under subsection 147 (16) or (17) of the pre-1997 Act before the day subsection 7 (2) of Schedule 33 to the Stronger, Healthier Ontario Act (Budget Measures), 2017 comes into force, the worker who is in receipt of the reduced payment, or whose payment was reduced to nil, may request that the Board reconsider the claim, and the Board shall do the following:
+
 1. The Board shall determine if the payment was reduced as a result of the application of paragraph 4 of subsection 147 (16) or 147 (17) of the pre-1997 Act, as the case may be, as those subsections applied before the day subsection 7 (2) of Schedule 33 to the Stronger, Healthier Ontario Act (Budget Measures), 2017 comes into force.
+
 2. If the Board determines that the payment was not reduced in the manner described in paragraph 1, the Board shall advise the worker of its determination.
+
 3. If the Board determines that the payment was reduced in the manner described in paragraph 1, the Board shall recalculate the reduction in accordance with subsection (8) or (9), as the case may be, and shall pay the worker any difference owing.
 
 ### Same
@@ -3057,7 +3571,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Annual adjustment
 
 (2) On the 1st day of January in each year, beginning January 1, 2018, the Board shall,
+
 (a) adjust the dollar amounts set out in this Act and in provisions continued by Part III by applying the indexing factor to the amounts as adjusted under this Part on the preceding January; and
+
 (b) adjust the amounts payable under this Act and under provisions continued by Part III by applying the indexing factor to the amounts payable as adjusted under this Part on the preceding January.
 
 ### Increases prospective
@@ -3071,7 +3587,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Additional indexing factor
 
 (3) If an additional indexing factor is prescribed for the purposes of this subsection, on the prescribed date, the Board shall,
+
 (a) adjust the amounts set out in the pre-1997 Act and the amounts payable under that Act that are adjusted on January 1 by the indexing factor described in subsection 49 (1) of this Act, by the prescribed additional indexing factor; or
+
 (b) if the amounts set out in the pre-1997 Act and the amounts payable under that Act that are adjusted on January 1 by the indexing factor described in subsection 49 (1) of this Act were previously adjusted by a prescribed additional indexing factor in the same calendar year, adjust the amounts previously adjusted by the most recently prescribed additional indexing factor.
 
 ### Same, January 1
@@ -3081,7 +3599,9 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Same, new claims
 
 (5) If the date prescribed for the purposes of subsection (3) is a date other than January 1, on the prescribed date, the Board shall,
+
 (a) adjust amounts that first became payable under the pre-1997 Act between January 1 and the prescribed date by the prescribed additional indexing factor; and
+
 (b) if more than one additional indexing factor is prescribed in the same calendar year, adjust amounts previously adjusted by the most recently prescribed additional indexing factor.
 
 ### Transition, indexation of compensation payable before January 1, 2018
@@ -3103,6 +3623,7 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Exception
 
 (1.2) The alternate indexing factor determined under subsection 50 (1) of the Workplace Safety and Insurance Act, 1997, as it read on December 31, 2017, applies with respect to the calculation of the following:
+
 .....
 
 ### Same
@@ -3136,8 +3657,11 @@ is not binding upon the worker or survivor unless it is approved by the Board.
 ### Exception
 
 (4) Despite subsections (1) to (3), if,
+
 (a) a panel of the Appeals Tribunal has commenced a hearing or consideration of an application or appeal pursuant to section 17, 23, 71 or 84 of the Workers’ Compensation Act; or
+
 (b) the board of directors of the Board has exercised its discretion to review a decision of the Appeals Tribunal pursuant to section 93 of the Workers’ Compensation Act,
+
 and a final decision has not been made before this section comes into force, the panel or board of directors, as the case may be, may carry out and perform any duties and exercise any powers in connection with the application, appeal or review as though this section had not come into force.
 
 ## PART X UNINSURED EMPLOYMENT
@@ -3149,14 +3673,19 @@ and a final decision has not been made before this section comes into force, the
 ### Same
 
 (2) This Part applies with respect to the following types of workers who are employed in industries that are included in Schedule 1 or Schedule 2:
+
 1. Persons whose employment by an employer is of a casual nature and who are employed otherwise than for the purposes of the employer’s industry.
+
 2. Persons to whom articles or materials are given out to be made up, cleaned, washed, altered, ornamented, finished, repaired or adapted for sale in the person’s own home or on other premises not under the control or management of the person who gave out the articles or materials.
 
 ### Employer’s liability
 
 114 (1) A worker may bring an action for damages against his or her employer for an injury that occurs in any of the following circumstances:
+
 1. The worker is injured by reason of a defect in the condition or arrangement of the ways, works, machinery, plant, buildings or premises used in the employer’s business or connected with or intended for that business.
+
 2. The worker is injured by reason of the employer’s negligence.
+
 3. The worker is injured by reason of the negligence of a person in the employer’s service who is acting within the scope of his or her employment.
 
 ### Same, deceased worker
@@ -3166,8 +3695,11 @@ and a final decision has not been made before this section comes into force, the
 ### Liability of owner, etc.
 
 115 (1) A worker may bring an action for damages against the person for whom work is being done under a contract and against the contractor and subcontractor, if any, for an injury that occurs in any of the following circumstances:
+
 1. The injury occurs by reason of a defect in the condition or arrangement of any ways, works, machinery, plant, building or premises. The person for whom the work is being done owns or supplies the ways, works, machinery, plant, building or premises.
+
 2. The injury occurs as a result of the negligence of the person for whom all or part of the work is being done.
+
 3. The injury occurs as a result of the negligence of a person in the service of the person for whom all or part of the work is being done, and the person who was negligent was acting within the scope of his or her employment.
 
 ### Same
@@ -3189,7 +3721,9 @@ and a final decision has not been made before this section comes into force, the
 ### Contributory negligence
 
 (3) In an action for damages for an injury that occurs when a worker is in the service of an employer, contributory negligence by the worker is not a bar to recovery,
+
 (a) by the injured worker; or
+
 (b) if the worker dies as a result of the injury, by a person entitled to damages under Part V of the Family Law Act.
 
 ### Same
@@ -3215,15 +3749,25 @@ and a final decision has not been made before this section comes into force, the
 ### Same
 
 (2) Without limiting the generality of subsection (1), the Board has exclusive jurisdiction to determine the following matters:
+
 1. Whether an industry or a part, branch or department of an industry falls within a class or group of industries in Schedule 1 or in Schedule 2 and, if so, which one.
+
 2. Whether personal injury or death has been caused by an accident.
+
 3. Whether an accident arose out of and in the course of an employment by a Schedule 1 or Schedule 2 employer.
+
 4. Whether a person is co-operating in reaching his or her maximum medical recovery, in returning to work or in the preparation and implementation of a labour market re-entry plan.
+
 5. Whether an employer has fulfilled his, her or its obligations under the insurance plan to return a worker to work or re-employ the worker.
+
 6. Whether a labour market re-entry plan for a person is to be prepared and implemented.
+
 7. Whether loss of earnings has resulted from an injury.
+
 8. Whether permanent impairment has resulted from an injury, and the degree of the impairment.
+
 9. The amount of a person’s average earnings and net average earnings.
+
 10. Whether a person is a spouse, child or dependant of an injured worker for the purposes of the insurance plan.
 
 ### Finality of decision
@@ -3255,7 +3799,9 @@ and a final decision has not been made before this section comes into force, the
 ### Objection to Board decision
 
 120 (1) A worker, survivor, employer, parent or other person acting in the role of a parent under subsection 48 (20) or beneficiary designated by the worker under subsection 45 (9) who objects to a decision of the Board shall file a notice of objection with the Board,
+
 (a) in the case of a decision concerning return to work or a labour market re-entry plan, within 30 days after the decision is made or within such longer period as the Board may permit; and
+
 (b) in any other case, within six months after the decision is made or within such longer period as the Board may permit.
 
 ### Notice of objection
@@ -3283,18 +3829,27 @@ and a final decision has not been made before this section comes into force, the
 ### Jurisdiction
 
 123 (1) The Appeals Tribunal has exclusive jurisdiction to hear and decide,
+
 (a) all appeals from final decisions of the Board with respect to entitlement to health care, return to work, labour market re-entry and entitlement to other benefits under the insurance plan;
+
 (b) all appeals from final decisions of the Board with respect to transfer of costs, an employer’s classification under the insurance plan and the amount of the premiums and penalties payable by a Schedule 1 employer and the amounts and penalties payable by a Schedule 2 employer; and
+
 (c) such other matters as are assigned to the Appeals Tribunal under this Act.
 
 ### Same
 
 (2) For greater certainty, the jurisdiction of the Appeals Tribunal under subsection (1) does not include the jurisdiction to hear and decide an appeal from decisions made under the following Parts or provisions:
+
 1. Repealed: 2011, c. 11, s. 22.
+
 2. Sections 26 to 30 (rights of action) and 36 (health examination).
+
 3. Section 60, subsections 62 (1) to (3) and sections 64 and 65 (payment of benefits).
+
 4. Subsections 81 (1) to (6), 81.1 (1) to (3), 83 (1) and (2) and section 85 (allocation of payments).
+
 5. Part VIII (insurance fund).
+
 6. Part XII (enforcement), other than decisions concerning whether security must be given under section 137 or whether a person is liable under subsection 146 (2) to make payments.
 
 ### Decisions on an appeal
@@ -3418,16 +3973,23 @@ and a final decision has not been made before this section comes into force, the
 ### Powers re proceedings
 
 132 (1) The Board and the Appeals Tribunal may do the following things in connection with a proceeding:
+
 1. Summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath or affirmation. These powers may be exercised in the same manner as a court of record in civil proceedings.
+
 2. Require persons to produce such documents or things as the Board or tribunal considers necessary to make its decision. This power may be exercised in the same manner as a court of record in civil proceedings.
+
 3. Accept such oral or written evidence as the Board or tribunal considers proper, whether or not it would be admissible in a court.
 
 ### Powers of entry and inspection, etc.
 
 (2) The Board and the Appeals Tribunal may do the following things in the exercise of their power to make decisions:
+
 1. Enter premises where work is being done or has been done by a worker or in which an employer carries on business (whether or not the premises are those of the employer).
+
 2. Inspect anything on the premises.
+
 3. Make inquiries of any person on the premises.
+
 4. Post notices on the premises.
 
 ### Posting notices
@@ -3441,9 +4003,13 @@ and a final decision has not been made before this section comes into force, the
 ### Payment of expenses of witnesses, etc.
 
 133 (1) The Board or the Appeals Tribunal may pay the reasonable travel and living expenses of, and other allowances for,
+
 (a) a worker and his or her witnesses;
+
 (b) the survivors of a deceased worker and their witnesses;
+
 (c) the parent or other person referred to in subsection 48 (20); or
+
 (d) a designated beneficiary referred to in subsection 45 (9).
 
 ### Same
@@ -3469,9 +4035,13 @@ and a final decision has not been made before this section comes into force, the
 ### Restriction
 
 (5) The Appeals Tribunal shall not call upon a particular health professional for assistance in any of the following circumstances except with the written consent of the parties to the proceeding:
+
 1. If the health professional has previously examined the worker whose claim is the subject of the proceeding.
+
 2. If the health professional has previously treated the worker or a member of his or her family.
+
 3. If the health professional has acted as a consultant in the treatment of the worker or as a consultant to the employer.
+
 4. If the health professional is a partner to a health professional described in paragraph 1, 2 or 3.
 
 ### Health examination
@@ -3495,25 +4065,37 @@ and a final decision has not been made before this section comes into force, the
 ### Examination, etc., of records
 
 135 (1) The Board or a person authorized by it may examine the books and accounts of an employer and may investigate and make such inquiries as the Board considers necessary for the following purposes:
+
 1. To ascertain whether a statement given to the Board by the employer is accurate.
+
 2. To ascertain the amount of the employer’s payroll.
+
 3. To ascertain whether the employer is a Schedule 1 or a Schedule 2 employer.
+
 4. To ascertain whether an employer has contravened section 22.1, 22.2, 80 or 88.
 
 ### Inspection of premises
 
 (2) The Board may enter into the establishment of an employer and the premises connected with the establishment for the following purposes:
+
 1. To ascertain whether the ways, works, machinery or appliances in the establishment or on the premises are safe, adequate and sufficient.
+
 2. To ascertain whether all proper precautions are being taken to prevent accidents to the workers employed in or about the establishment or premises.
+
 3. To ascertain whether the safety appliances or safeguards required by law are used and employed in the establishment or on the premises.
+
 4. For such other purpose as the Board considers necessary to determine the proportion in which the employer should make payments under this Act.
+
 5. To ascertain whether an employer has contravened section 22.1, 22.2, 80 or 88.
 
 ### Order for search and seizure
 
 (3) The Board may apply without notice to a judge of the Superior Court of Justice for an order authorizing one or more persons designated by the Board (together with such police officers as they may call upon for assistance),
+
 (a) to enter and search a building, receptacle or place for books and accounts of an employer and to do so by force if necessary;
+
 (b) to remove the books and accounts for the purpose of examining them; and
+
 (c) to retain the books and accounts until the examination is completed.
 
 ### Same
@@ -3605,7 +4187,9 @@ and a final decision has not been made before this section comes into force, the
 ### Obligation to pay
 
 (6) If the person is not deemed to be the employer under subsection (2), the person,
+
 (a) shall ensure that the contractor or subcontractor complies with the contractor’s or subcontractor’s obligations to make payments under the insurance plan as an employer; and
+
 (b) is liable to the extent the contractor or subcontractor does not meet those obligations.
 
 ### Right of indemnity
@@ -3633,7 +4217,9 @@ and a final decision has not been made before this section comes into force, the
 ### Duty of person who retains contractor or subcontractor
 
 (2) A person who directly retains a contractor or subcontractor to perform construction work,
+
 (a) shall ensure that the contractor or subcontractor complies with the contractor’s or subcontractor’s payment obligations under this Act in respect of the work; and
+
 (b) is liable for those obligations, to the extent that the contractor or subcontractor does not comply with them.
 
 ### Right to reimbursement
@@ -3677,7 +4263,9 @@ and a final decision has not been made before this section comes into force, the
 ### Issuance by Board
 
 (3) If the Board is satisfied that the contractor or subcontractor has registered with the Board and complied with the payment obligations under this Act, it shall issue to the contractor or subcontractor or to the person, on request, a certificate that,
+
 (a) confirms the registration and compliance; and
+
 (b) states the period during which the certificate is in effect.
 
 ### Revocation
@@ -3691,7 +4279,9 @@ and a final decision has not been made before this section comes into force, the
 ### New certificate
 
 (6) The person shall obtain a new certificate from the Board or from the contractor or subcontractor if, before the construction work is completed,
+
 (a) the certificate expires; or
+
 (b) the certificate is revoked and the person becomes aware of the fact.
 
 ### Prohibition
@@ -3741,8 +4331,11 @@ and a final decision has not been made before this section comes into force, the
 ### Preference upon certain distributions
 
 144 (1) This section applies when a person owes money under this Act to the Board or to another person and,
+
 (a) the person who owes the money is an individual who dies;
+
 (b) the person who owes the money is a corporation that is being wound up; or
+
 (c) there is an assignment of all or part of the assets of the person who owes the money.
 
 ### Same
@@ -3764,7 +4357,9 @@ and a final decision has not been made before this section comes into force, the
 ### Notice of lien
 
 (2) The lien is effective only if,
+
 (a) notice of the lien is filed by way of writ of seizure and sale in the office of the sheriff for the area in which the affected property is situated; and
+
 (b) a copy of the writ is delivered by the sheriff or by registered mail to the proper land registrar, if affected land is registered under the Land Titles Act.
 
 ### Obligations of successor employers
@@ -3830,6 +4425,7 @@ and a final decision has not been made before this section comes into force, the
 ### Restitution order
 
 (5) If a person is convicted of an offence under this section, the court may also order the person to pay to the Board any money received by the person or obtained by the person on behalf of another person by reason of the commission of the offence. The money payable to the Board shall be deemed to be an amount owing under this Act.
+
 (6) Repealed: 2001, c. 9, Sched. I, s. 4 (3).
 
 ### Other remedies
@@ -3947,7 +4543,9 @@ and a final decision has not been made before this section comes into force, the
 ### Penalty
 
 158 (1) A person who is convicted of an offence is liable to the following penalty:
+
 1. If the person is an individual, he or she is liable to a fine not exceeding $25,000 or to imprisonment not exceeding six months or to both.
+
 2. If the person is not an individual, the person is liable to a fine not exceeding $500,000.
 
 ### Same, two or more convictions for same offence in same proceeding
@@ -3961,8 +4559,11 @@ and a final decision has not been made before this section comes into force, the
 ### Aggravating factors, employer defendant
 
 (3) Each of the following circumstances shall be considered an aggravating factor for the purposes of determining a penalty under this section for a defendant who is an employer:
+
 1. The defendant was previously convicted of an offence under this Act.
+
 2. The defendant has been convicted of two or more counts of the same offence in the legal proceeding to which the determination of the penalty relates.
+
 3. The defendant has a record of prior non-compliance with this Act.
 
 ### Other factors still relevant
@@ -3982,17 +4583,29 @@ and a final decision has not been made before this section comes into force, the
 ### Powers of the Board
 
 (2) Subject to this Act, the Board has the powers of a natural person including the power,
+
 (a) to establish policies concerning the premiums payable by employers under the insurance plan;
+
 (a.1) to establish policies concerning the interpretation and application of this Act;
+
 (a.2) to establish policies concerning evidentiary requirements for establishing entitlement to benefits under the insurance plan;
+
 (a.3) to establish policies concerning the adjudicative principles to be applied for the purpose of determining entitlement to benefits under the insurance plan;
+
 (b) to review this Act and the regulations and recommend amendments or revisions to them;
+
 (c) to consider and approve annual operating and capital budgets;
+
 (d) to review and approve its investment policies;
+
 (e) to review and approve major changes in its programs;
+
 (f) to enact by-laws and pass resolutions for the adoption of a seal and the conduct of business and affairs;
+
 (g) to establish, maintain and regulate advisory councils or committees, their composition and their functions;
+
 (h) to provide, on such terms as it sees fit, financial assistance to an employer who will modify the work or workplace so that an injured worker or the spouse of a deceased worker may re-enter the labour force;
+
 (i) to establish a program to designate return to work and labour market re-entry service providers, to monitor the service providers’ performance and to charge them a fee for the cost of the program.
 
 ### Same
@@ -4002,6 +4615,7 @@ and a final decision has not been made before this section comes into force, the
 ### Employees
 
 (3) The Board may employ upon such terms as it approves such persons as it considers necessary for its purposes.
+
 (4) Spent:
 
 ### Investigations, research and training
@@ -4035,7 +4649,9 @@ and a final decision has not been made before this section comes into force, the
 ### Agreements to exchange information
 
 (9) With the approval of the Lieutenant Governor in Council, for the purpose of administering this Act the Board may enter into agreements with the government of Canada or of a province or territory of Canada or with a ministry, board, commission or agency of such a government under which,
+
 (a) the government, ministry, board, commission or agency will be allowed access to information obtained by the Board under this Act; and
+
 (b) the government, ministry, board, commission or agency will allow the Board to have access to information obtained by the government, ministry, board, commission or agency under statutory authority.
 
 ### Exception
@@ -4085,14 +4701,19 @@ and a final decision has not been made before this section comes into force, the
 ### Duty to monitor
 
 (3) The Board shall monitor developments in the understanding of the relationship between workplace insurance and injury and occupational disease,
+
 (a) so that generally accepted advances in health sciences and related disciplines are reflected in benefits, services, programs and policies in a way that is consistent with the purposes of this Act; and
+
 (b) in order to improve the efficiency and effectiveness of the insurance plan.
 
 ### Board of directors
 
 162 (1) A board of directors shall be constituted to govern the Board and to exercise the powers and perform the duties of the Board under this or any other Act. It shall be composed of,
+
 (a) a chair appointed by the Lieutenant Governor in Council;
+
 (b) the president of the Board appointed by the Lieutenant Governor in Council; and
+
 (c) a minimum of seven and a maximum of nine members who are representative of workers, employers and such others as the Lieutenant Governor in Council considers appropriate, appointed by the Lieutenant Governor in Council.
 
 ### Same
@@ -4122,6 +4743,7 @@ and a final decision has not been made before this section comes into force, the
 ### Absence of chair
 
 (7) The chair shall decide which member of the board of directors is to act as chair in his or her absence. If the chair does not do so, the board of directors may decide which member is to act in the chair’s absence.
+
 (8)-(12) Repealed: 2000, c. 26, Sched. I, s. 1 (22).
 
 ### Duties of the board of directors
@@ -4159,8 +4781,11 @@ and a final decision has not been made before this section comes into force, the
 ### Contents
 
 (2) The memorandum of understanding must impose the following requirements:
+
 1. Repealed: 2023, c. 2, Sched. 9, s. 5 (2).
+
 2. The Board must give the Minister an annual statement setting out its proposed priorities for administering this Act and the regulations.
+
 3. The Board must give the Minister an annual statement of its investment policies and goals.
 
 ### Same
@@ -4170,8 +4795,11 @@ and a final decision has not been made before this section comes into force, the
 ### Same
 
 (4) The memorandum of understanding may address the following matters:
+
 1. Any direction by the Minister about the programs to be reviewed under section 168.
+
 2. Any matter proposed by the Board and agreed to by the Minister.
+
 3. Any other matter the Minister considers appropriate.
 
 ### Compliance
@@ -4217,8 +4845,11 @@ and a final decision has not been made before this section comes into force, the
 ### Same
 
 (2) The Board shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -4236,17 +4867,25 @@ and a final decision has not been made before this section comes into force, the
 ### Expenses
 
 (2) The Board’s cost of maintaining and administering the pension plan is chargeable to the insurance fund.
+
 (3) Repealed: 2018, c. 8, Sched. 37, s. 2 (1).
 
 ### Deemed employees
 
 (4) The following persons shall be deemed to be employees of the Board for the purposes of the pension plan:
+
 1. The employees of safe workplace associations that were designated under section 6 at any time before the repeal of that section by section 20 of the Occupational Health and Safety Statute Law Amendment Act, 2011.
+
 1.1 The employees of safe workplace associations designated under section 22.5 of the Occupational Health and Safety Act.
+
 2. Persons who are deemed, on January 1, 1998, to be employees of the Workers’ Compensation Board under paragraph 2 of subsection 68 (3) of the Workers’ Compensation Act.
+
 3. Persons who are deemed, on January 1, 1998, to be employees of the Workers’ Compensation Board under subsection 68 (5) of the Workers’ Compensation Act.
+
 4. The employees of safety and accident prevention associations that, on January 1, 1998, are designated under subclause 16 (1) (n) (ii) of the Occupational Health and Safety Act.
+
 (5), (6) Repealed: 2000, c. 26, Sched. I, s. 1 (24).
+
 (7), (8) Repealed: 2018, c. 8, Sched. 37, s. 2 (2).
 
 ### Mines
@@ -4292,6 +4931,7 @@ and a final decision has not been made before this section comes into force, the
 ### Operating costs
 
 (6) The operating costs of the Appeals Tribunal are expenses of the Board.
+
 (7) Repealed: 2000, c. 26, Sched. I, s. 1 (26).
 
 ### Tribunal may contract
@@ -4317,7 +4957,9 @@ and a final decision has not been made before this section comes into force, the
 ### Hearing of appeals
 
 174 (1) In addition to the chair appointed under subsection 173 (3), the following persons appointed by the Lieutenant Governor in Council to the Appeals Tribunal shall hear and decide appeals and such other matters as are conferred upon the tribunal under this Act:
+
 1. One or more vice-chairs.
+
 2. The number of members who are representative of employers and of workers that the Lieutenant Governor in Council considers appropriate.
 
 ### Same
@@ -4327,9 +4969,13 @@ and a final decision has not been made before this section comes into force, the
 ### Exception
 
 (3) If the chair considers it appropriate in the circumstances, the chair may appoint a panel of three or five members to hear and decide an appeal or other matter conferred upon the Appeals Tribunal under this Act and the panel composition shall be as follows:
+
 1. A three-member panel shall consist of the chair or a vice-chair, one tribunal member who is representative of employers and one tribunal member who is representative of workers.
+
 2. A five-member panel shall consist of,
+
 i. the chair and two vice-chairs, or three vice-chairs, and
+
 ii. one tribunal member who is representative of employers and one who is representative of workers.
 
 ### Decision
@@ -4359,6 +5005,7 @@ ii. one tribunal member who is representative of employers and one who is repres
 ### Costs
 
 (3) The Minister shall determine the amount of the costs that may be incurred by each office in performing its functions and the Board shall pay them.
+
 (4) Repealed: 2011, c. 11, s. 27.
 
 ### Fair Practices Commissioner
@@ -4374,7 +5021,9 @@ ii. one tribunal member who is representative of employers and one who is repres
 ### Annual report
 
 (3) Every year, the Fair Practices Commissioner shall,
+
 (a) prepare a report on his or her activities during the previous year; and
+
 (b) provide a copy of the report to the board of directors and make the report available to the public.
 
 ### General
@@ -4410,11 +5059,17 @@ ii. one tribunal member who is representative of employers and one who is repres
 ### Immunity
 
 179 (1) No action or other proceeding for damages may be commenced against any of the following persons for an act or omission done or omitted by the person in good faith in the execution or intended execution of any power or duty under this Act:
+
 1. Members of the board of directors, officers and employees of the Board.
+
 2. The chair, vice-chairs, members and employees of the Appeals Tribunal.
+
 3. Persons employed in the Office of the Worker Adviser or the Office of the Employer Adviser.
+
 4. Repealed: 2011, c. 11, s. 28 (1).
+
 5. Physicians who conduct an assessment under section 47 (degree of permanent impairment).
+
 6. Persons who are engaged by the Board to conduct an examination, investigation, inquiry, inspection or test or who are authorized to perform any function.
 
 ### Transition
@@ -4438,11 +5093,17 @@ ii. one tribunal member who is representative of employers and one who is repres
 ### Compellability of witnesses
 
 180 (1) The following persons are not compellable witnesses before a court or tribunal respecting any information or material furnished to or obtained, made or received by them while acting within the scope of their employment under this Act:
+
 1. Members of the board of directors of the Board.
+
 2. The chair, vice-chairs and members of the Appeals Tribunal.
+
 3. Employees of the Board or of the Appeals Tribunal.
+
 4. Persons employed in the Office of the Worker Adviser or the Office of the Employer Adviser.
+
 5. Persons who are engaged by the Board or the Appeals Tribunal to conduct an examination, investigation, inquiry, inspection or test or who are authorized by the Board or the Appeals Tribunal to perform any function.
+
 6. Health care practitioners providing information under section 37.
 
 ### Production of documents
@@ -4476,14 +5137,19 @@ ii. one tribunal member who is representative of employers and one who is repres
 ### Voluntary pre-registration
 
 182.1 (1) Before the first anniversary of the day section 9 of the Workplace Safety and Insurance Amendment Act, 2008 comes into force, the following persons may make and file with the Board a declaration in a form approved by the Board, in order to allow the Board to prepare for the implementation of sections 12.2 and 12.3:
+
 1. Every independent operator who carries on business in construction.
+
 2. Every sole proprietor who carries on business in construction and does not employ any workers.
+
 3. Every partner in a partnership that carries on business in construction and does not employ any workers.
 
 ### Exempt home renovation work
 
 (2) Subsection (1) does not apply in respect of,
+
 (a) independent operators and sole proprietors described in clause 12.2 (8) (a); and
+
 (b) partners and executive officers described in clause 12.2 (8) (b).
 
 ### Deemed registration
@@ -4493,7 +5159,9 @@ ii. one tribunal member who is representative of employers and one who is repres
 ### Regulations
 
 183 (1) Subject to the approval of the Lieutenant Governor in Council, the Board may make such regulations for carrying out this Act as may be considered expedient including regulations,
+
 (a) prescribing anything that must or may be prescribed under this Act other than anything in respect of which this Act expressly permits the Lieutenant Governor in Council to make a regulation;
+
 (b) prescribing the way in which payments received by a person under the Canada Pension Plan or the Quebec Pension Plan are to be taken into account when calculating the amount of the payments under the insurance plan to which the person is entitled.
 
 ### Same, transitional matters
@@ -4507,22 +5175,35 @@ ii. one tribunal member who is representative of employers and one who is repres
 ### Same
 
 (1.3) Without limiting the generality of subsection (1.2), the Board may, subject to the approval of the Lieutenant Governor in Council, make regulations,
+
 (a) requiring each employer carrying on business in construction to provide to the Board, at the prescribed intervals,
+
 (i) the name of each worker employed during a prescribed period,
+
 (ii) any identifying number, symbol or other particular assigned to the worker by the employer,
+
 (iii) information about the worker’s earnings during the prescribed period, and
+
 (iv) any other information relating to the worker’s employment during the prescribed period that is specified in the regulation;
+
 (b) requiring each worker in construction,
+
 (i) to carry or have available for inspection, at all times when performing construction work, an identification card approved by the Board,
+
 (ii) to produce the identification card for inspection on the request of the Board or of a person appointed or authorized by the Board, and
+
 (iii) to do anything else in connection with the identification system that is specified in the regulation.
 
 ### Same, Schedules 1 and 2
 
 (2) Subject to the approval of the Lieutenant Governor in Council, the Board may make regulations establishing Schedules 1 and 2 and,
+
 (a) adding classes of industries to Schedule 1 or Schedule 2, deleting classes from a schedule, redefining classes within a schedule or transferring classes from one schedule to the other;
+
 (b) including an industry in, or excluding it from, a class in whole or in part;
+
 (c) excluding a trade, employment, occupation, calling, avocation or service from an industry for the purposes of the insurance plan;
+
 (d) subdividing a class of employers into subclasses or groups according to the risk of the industry.
 
 ### Same, Schedules 3 and 4
@@ -4544,10 +5225,13 @@ ii. one tribunal member who is representative of employers and one who is repres
 ### Regulations, additional indexing factor
 
 184 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing an additional indexing factor, to be expressed as a percentage, for the purposes of subsections 52.0.1 (1), 54 (4) and 111 (3);
+
 (b) prescribing a date for the purposes of subsections 52.0.1 (1), 54 (4) and 111 (3).
 
 ### Same
 
 (2) The application of a prescribed additional indexing factor may be subject to any terms, restrictions, limitations, conditions or exclusions that are set out in the regulations.
+
 185 Omitted (enacts short title of this Act).

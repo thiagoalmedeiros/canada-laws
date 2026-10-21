@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2023-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15c28"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Condominium Management Services Act, 2015
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15c28) before relying on it.
 
 S.O. 2015, c. 28, Sched. 2
 
@@ -21,58 +21,103 @@ S.O. 2015, c. 28, Sched. 2
 ### Interpretation
 
 1 (1) In this Act,
+
 “administrative authority” means the administrative authority designated under section 3 of the Safety and Consumer Statutes Administration Act, 1996 for the purpose of administering this Act; (“organisme d’application”)
+
 “client” means a condominium corporation to which a condominium management provider or a condominium manager provides condominium management services; (“client”)
+
 “common expenses” has the same meaning as in the Condominium Act, 1998; (“dépenses communes”)
+
 “condominium corporation” means a “corporation” as defined in the Condominium Act, 1998; (“association condominiale”)
+
 “condominium management provider” means a corporation, partnership, sole proprietor, association or other organization or entity that, on behalf of others and for compensation or reward or the expectation of such, provides condominium management services or holds himself, herself or itself out as such; (“fournisseur de services de gestion de condominiums”)
+
 “condominium management services” means any of the following services provided to or on behalf of a condominium corporation:
+
 1. Collecting or holding contributions to the common expenses or other amounts levied by, or payable to, the corporation.
+
 2. Exercising delegated powers and duties of the corporation or its board of directors, including,
+
 i. making payments to third parties on behalf of the corporation,
+
 ii. negotiating or entering into contracts on behalf of the corporation, or
+
 iii. supervising employees or contractors hired or engaged by the corporation,
+
 but does not include an activity excluded by the regulations; (“services de gestion de condominiums”)
+
 “condominium manager” means an individual who has the prescribed qualifications to be licensed as a condominium manager under this Act and who provides condominium management services to,
+
 (a) a client on behalf of a condominium management provider, or
+
 (b) a client directly, if authorized by a regulation made for the purposes of subsection 51 (3); (“gestionnaire de condominiums”)
+
 “employ” means to employ, appoint, authorize or otherwise arrange to have another person act on one’s behalf, including as an independent contractor; (“employer”)
+
 “equity share” means, in respect of a corporation, a share of a class or series of shares of a corporation that carries a voting right either under all circumstances or under circumstances that have occurred and are continuing; (“action participante”)
+
 “inspector” means the registrar or an inspector appointed under subsection 59 (2); (“inspecteur”)
+
 “investigator” means an investigator appointed under subsection 61 (1); (“enquêteur”)
+
 “licensee” means a condominium management provider or condominium manager who is licensed under this Act; (“titulaire de permis”, see also “agréé”)
+
 “Minister” means the Minister of Government and Consumer Services or whatever other member of the Executive Council to whom the responsibility for the administration of this Act is assigned under the Executive Council Act; (“ministre”)
+
 “officer” includes,
+
 (a) the chair and any vice-chair of the board of directors, the president and any vice-president, the secretary and assistant secretary, the treasurer and assistant treasurer and the general manager and assistant general manager of a corporation,
+
 (b) a partner or general manager and assistant general manager of a partnership, and
+
 (c) any other individual designated as an officer by by-law or resolution of an organization or any other individual who performs functions normally performed by an individual occupying such office; (“dirigeant”)
+
 “owner” has the same meaning as in the Condominium Act, 1998; (“propriétaire”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “principal condominium manager” means the principal condominium manager designated under section 49; (“gestionnaire principal”)
+
 “purchaser of a unit” has the same meaning as in the Condominium Act, 1998; (“acquéreur d’une partie privative”)
+
 “regulations” means regulations made under this Act; (“règlements”)
+
 “Tribunal” means the Licence Appeal Tribunal established under the Licence Appeal Tribunal Act, 1999 or whatever other tribunal is prescribed; (“Tribunal”)
+
 “unit” has the same meaning as in the Condominium Act, 1998. (“partie privative”)
 
 ### Associated persons
 
 (2) For purposes of this Act, one person is associated with another person in any of the following circumstances:
+
 1. One person is a corporation of which the other person is an officer or director.
+
 2. One person is a partnership of which the other person is a partner.
+
 3. Both persons are partners of the same partnership.
+
 4. One person is a corporation that is controlled directly or indirectly by the other person.
+
 5. Both persons are corporations and one corporation is controlled directly or indirectly by the same person who controls directly or indirectly the other corporation.
+
 6. Both persons are members of the same voting trust relating to shares of a corporation.
+
 7. Both persons are associated within the meaning of paragraphs 1 to 6 with the same person.)
 
 ## Part II Officers
 
 2 - 6 Repealed: 2020, c. 14, Sched. 2, s. 3.
+
 7 Repealed: 2020, c. 14, Sched. 2, s. 3.
+
 8 - 1 6 Repealed: 2020, c. 14, Sched. 2, s. 3.
+
 17 Repealed: 2020, c. 14, Sched. 2, s. 3.
+
 18 - 21 Repealed: 2020, c. 14, Sched. 2, s. 3.
+
 22 Repealed: 2020, c. 14, Sched. 2, s. 3.
+
 23 - 30 Repealed: 2020, c. 14, Sched. 2, s. 3.
 
 ### Miscellaneous
@@ -80,7 +125,9 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Director
 
 31 (1) Subject to subsection (2), the following person or body shall appoint a director for the purposes of this Act and may appoint a maximum of two deputy directors:
+
 1. The board of the administrative authority.
+
 2. The Minister, if there is no administrative authority.
 
 ### Director cannot be registrar
@@ -98,7 +145,9 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Registrar
 
 32 (1) Subject to subsection (2), the following person or body shall appoint a registrar for the purposes of this Act and may appoint a maximum of two deputy registrars:
+
 1. The board of the administrative authority.
+
 2. The Minister, if there is no administrative authority.
 
 ### Registrar cannot be director
@@ -116,6 +165,7 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### If more than one deputy registrar
 
 (5) If more than one deputy registrar is appointed, only one deputy registrar may act as the registrar under subsection (4) at any one time.
+
 33 Repealed: 2020, c. 14, Sched. 2, s. 4.
 
 ## PART III Licensing
@@ -127,7 +177,9 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Unlicensed persons
 
 (2) A person who is not licensed as a condominium management provider or condominium manager shall not,
+
 (a) directly or indirectly hold himself, herself or itself out as being a condominium management provider or condominium manager, respectively; or
+
 (b) perform any of the functions of a condominium management provider or condominium manager.
 
 ### Licence a requirement to bring action
@@ -137,7 +189,9 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Exception
 
 (4) Subsection (3) does not affect,
+
 (a) any right of an employee, within the meaning of the Employment Standards Act, 2000 or a successor Act to it, to commence an action, application, arbitration or other legal proceeding for the recovery of wages or the enforcement of other rights provided under an employment contract, the common law or other legislation; or
+
 (b) any right to commence an action, application, arbitration or other legal proceeding for the recovery of wages or the enforcement of other rights provided under a collective agreement.
 
 ### Change in partnership
@@ -155,30 +209,47 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Application for licence
 
 37 (1) An applicant that meets the prescribed requirements is entitled to a licence or a renewal of a licence by the registrar unless,
+
 (a) the applicant is not a corporation and,
+
 (i) having regard to the applicant’s financial position or the financial position of an interested person in respect of the applicant, the applicant cannot reasonably be expected to be financially responsible in engaging in the activities of a licensee,
+
 (ii) the past or present conduct of the applicant or of an interested person in respect of the applicant affords reasonable grounds for belief that the applicant will not perform the activities of a licensee in accordance with law and with integrity and honesty, or
+
 (iii) the applicant or an employee or agent of the applicant makes a false statement or provides a false statement in an application for a licence or for a renewal of a licence;
+
 (b) the applicant is a corporation and,
+
 (i) having regard to its financial position or the financial position of an interested person in respect of the corporation, the applicant cannot reasonably be expected to be financially responsible in engaging in the activities of a licensee,
+
 (ii) having regard to the financial position of its officers or directors or an interested person in respect of its officers or directors, the applicant cannot reasonably be expected to be financially responsible in engaging in the activities of a licensee,
+
 (iii) the past or present conduct of its officers or directors or of an interested person in respect of its officers or directors or of an interested person in respect of the corporation affords reasonable grounds for belief that it will not perform the activities of a licensee in accordance with the law and with integrity and honesty, or
+
 (iv) an officer or director of the corporation makes a false statement or provides a false statement in an application for a licence or for a renewal of a licence;
+
 (c) the applicant or an interested person in respect of the applicant is carrying on activities that are, or will be if the applicant is licensed, in contravention of this Act or the regulations, other than the code of ethics established under section 77;
+
 (d) the applicant is in breach of a condition of the licence; or
+
 (e) the applicant fails to comply with a request made by the registrar under subsection (3).
 
 ### Interested person
 
 (2) For the purposes of this section, a person shall be deemed to be an interested person in respect of another person if the person is associated with the other person or if, in the opinion of the registrar,
+
 (a) the person has or may have a beneficial interest in the other person’s activities;
+
 (b) the person exercises or may exercise control either directly or indirectly over the other person; or
+
 (c) the person has provided or may have provided financing either directly or indirectly to the other person’s activities.
 
 ### Request for information
 
 (3) The registrar may request an applicant for a licence or a renewal of a licence to provide to the registrar, in the form and within the time period specified by the registrar,
+
 (a) information specified by the registrar that is relevant to the decision to be made by the registrar as to whether or not to grant the licence or renewal; and
+
 (b) verification, by affidavit or otherwise, of any information described in clause (a) that the applicant is providing or has provided to the registrar.
 
 ### Conditions of licence
@@ -208,14 +279,19 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Conditions
 
 (2) Subject to section 41, the registrar may,
+
 (a) approve the licence or the renewal of a licence on the conditions that the registrar considers appropriate; and
+
 (b) at any time, apply to a licence the conditions that the registrar considers appropriate.
 
 ### Notice re: refusal, suspension, etc.
 
 41 (1) The registrar shall notify an applicant or licensee in writing if he or she proposes to,
+
 (a) refuse under subsection 40 (1) to grant or renew a licence;
+
 (b) suspend or revoke a licence; or
+
 (c) apply conditions to a licence or renewal to which the applicant or licensee has not consented.
 
 ### Content of notice
@@ -261,9 +337,13 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Continuation pending renewal
 
 42 If, within the time prescribed or, if no time is prescribed, before the expiry of the licensee’s licence, the licensee has applied for a renewal of a licence and paid the required fee, the licence shall be deemed to continue until,
+
 (a) the renewal is granted;
+
 (b) the registrar gives the licensee written notice of the registrar’s refusal under section 39 to grant the renewal;
+
 (c) the time for requesting a hearing under section 41 has expired if the licensee receives a notice of a proposal under that section and does not request such a hearing; or
+
 (d) the Tribunal makes its order if the licensee receives a notice of a proposal under section 41 and does request such a hearing.
 
 ### Immediate suspension
@@ -281,13 +361,17 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Same
 
 (4) Despite subsection (3), if it is satisfied that the conduct of the licensee has delayed the commencement of the hearing, the Tribunal may extend the time of the expiration for the order,
+
 (a) until the hearing commences; and
+
 (b) once the hearing commences, until the hearing is concluded.
 
 ### Further application
 
 44 Once a decision of the registrar to refuse a person a licence or a renewal of a licence or to revoke a licence of a person has become final, the person may reapply for a licence only if,
+
 (a) the time prescribed to reapply has passed since the refusal or revocation; and
+
 (b) the person satisfies the registrar that new or other evidence is available or that material circumstances have changed.
 
 ## Part IV REGULATION OF LICENSEES
@@ -295,14 +379,19 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Notice of changes to registrar
 
 45 (1) Every licensed condominium management provider shall, within five days after the event, notify the registrar in writing of,
+
 (a) any change in address for service; and
+
 (b) the date of commencement or termination of the employment of every condominium manager that the provider employs and, in the case of the termination of employment of a condominium manager, the reason for the termination.
 
 ### Same, condominium manager
 
 (2) Every licensed condominium manager shall, within five days after the event, notify the registrar in writing of,
+
 (a) any change in address for service;
+
 (b) the commencement or termination of his or her employment by a condominium management provider and the date of the commencement or termination, as the case may be; and
+
 (c) the commencement or termination of his or her employment by a condominium corporation and the date of the commencement or termination, as the case may be.
 
 ### Change in officers or directors
@@ -316,7 +405,9 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Notice to registrar re corporations
 
 46 (1) When it is licensed and on each renewal of its licence, a condominium management provider that is a corporation shall disclose to the registrar the identity of,
+
 (a) each person that beneficially owns or controls 10 per cent or more of the equity shares issued and outstanding at the time of the licence or the renewal of the licence, as the case may be; and
+
 (b) persons that are associated with each other and that together beneficially own or control 10 per cent or more of the equity shares issued and outstanding at the time of the licence or the renewal of the licence, as the case may be.
 
 ### Calculating number of shares
@@ -326,7 +417,9 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Notice of issue or transfer of shares
 
 47 (1) In addition to the disclosure required under section 46, every licensed condominium management provider that is a corporation shall notify the registrar in writing within 30 days after the issue or transfer of any equity shares of the corporation, if the issue or transfer results in,
+
 (a) any person, or any persons that are associated with each other, acquiring or accumulating beneficial ownership or control of 10 per cent or more of the total number of all issued and outstanding equity shares of the corporation; or
+
 (b) an increase in the percentage of issued and outstanding equity shares of the corporation beneficially owned or controlled by any person, or any persons who are associated with each other, where the person or the associated persons already beneficially owned or controlled 10 per cent or more of the total number of all issued and outstanding equity shares of the corporation before the issue or transfer.
 
 ### Same
@@ -348,19 +441,25 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Principal condominium manager
 
 49 (1) Every licensed condominium management provider shall,
+
 (a) in accordance with this section, designate one of its licensed condominium managers as its principal condominium manager and notify the registrar of the identity of the manager; and
+
 (b) notify the registrar, within five days, if the principal condominium manager changes.
 
 ### Sole proprietor
 
 (2) A licensed condominium management provider that is a sole proprietorship shall,
+
 (a) ensure that the sole proprietor meets the prescribed requirements for being designated as the principal condominium manager; and
+
 (b) designate the sole proprietor as the principal condominium manager.
 
 ### Not a sole proprietor
 
 (3) A licensed condominium management provider that is not a sole proprietorship shall,
+
 (a) employ at least one licensed condominium manager; and
+
 (b) designate, as the principal condominium manager, one of its licensed condominium managers who meets the prescribed requirements for being so designated.
 
 ### Duties
@@ -394,8 +493,11 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Prohibition re: proxy instruments
 
 53 A licensee, or any person acting on behalf of a licensee, shall not solicit an instrument appointing a proxy for a meeting of owners where the subject matter of the meeting includes,
+
 (a) any matter directly related to the licensee;
+
 (b) the removal or the election of one or more of the directors of the client; or
+
 (c) any other prescribed matter.
 
 ### Duty re records
@@ -445,12 +547,19 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Procedures
 
 (4) In handling complaints, the registrar may do any of the following, as appropriate:
+
 1. Attempt to mediate or resolve the complaint.
+
 2. Give the licensee a written warning that if the licensee continues with the activity that led to the complaint, action may be taken against the licensee.
+
 3. Require the principal condominium manager of the licensee to take further educational courses if the licensee is a condominium management provider.
+
 4. Require the licensee to take further educational courses if the licensee is a condominium manager.
+
 5. Refer the matter, in whole or in part, to the discipline committee.
+
 6. Take an action under section 40, subject to section 41.
+
 7. Take further action as is appropriate in accordance with this Act.
 
 ### Discipline proceedings
@@ -468,12 +577,19 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Result of a determination
 
 (4) If the discipline committee makes a determination under subsection (1) that a licensee has failed to comply with the code of ethics, it may order any of the following as appropriate:
+
 1. Require the principal condominium manager of the licensee to take further educational courses if the licensee is a condominium management provider.
+
 2. Require the licensee to take further educational courses if the licensee is a condominium manager.
+
 3. If the licensee is a condominium management provider, require the licensee, in accordance with the terms, if any, that the committee specifies, to fund educational courses for condominium managers employed by the licensee or to arrange and fund the courses.
+
 4. If the licensee is a condominium manager, require the condominium management provider that employs the licensee, in accordance with the terms, if any, that the committee specifies, to fund educational courses for condominium managers that the provider employs or to arrange and fund the courses.
+
 5. Despite subsection 12 (1) of the Safety and Consumer Statutes Administration Act, 1996, impose the fine that the committee considers appropriate, to a maximum of $25,000, or such lesser amount as is prescribed, to be paid by the licensee to the administrative authority or to the Minister of Finance if there is no administrative authority.
+
 6. Suspend or postpone the taking of further educational courses, the funding or the funding and arranging of educational courses or the imposition of the fine for the period and upon the terms that the committee designates.
+
 7. Fix and impose costs that the licensee is required to pay to the administrative authority or to the Minister of Finance if there is no administrative authority.
 
 ### Appeal
@@ -487,22 +603,31 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Taking of educational course
 
 (7) A licensee that is required under subsection (4) to take an educational course shall do so,
+
 (a) within the time period specified in the order of the discipline committee, if the requirement is not the subject of an appeal;
+
 (b) within the time period specified in the order of the appeals committee, if the requirement is the subject of an appeal; or
+
 (c) at the first reasonable opportunity after the last order made in respect of the educational course, if no time period is specified in that order.
 
 ### Arranging and funding educational courses
 
 (8) A condominium management provider that is required under subsection (4) to fund educational courses for condominium managers that it employs or to arrange and fund such courses shall do so,
+
 (a) within the time period specified in the order of the discipline committee, if the requirement is not the subject of an appeal;
+
 (b) within the time period specified in the order of the appeals committee, if the requirement is the subject of an appeal; or
+
 (c) at the first reasonable opportunity after the last order made in respect of the educational course, if no time period is specified in that order.
 
 ### Payment of fine
 
 (9) The licensee shall pay any fine imposed under subsection (4) on or before,
+
 (a) the day specified in the order of the discipline committee, if the fine is not the subject of an appeal;
+
 (b) the day specified in the order of the appeals committee, if the fine is the subject of an appeal; or
+
 (c) the 60th day after the date of the last order made in respect of the fine, if no day is specified in that order.
 
 ### Public access
@@ -530,23 +655,33 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Inspections without warrant
 
 60 (1) An inspector may, without a warrant or court order, conduct an inspection in accordance with this section for the purpose of,
+
 (a) ensuring compliance with this Act and the regulations;
+
 (b) dealing with a complaint under section 57; or
+
 (c) ensuring the licensee remains entitled to a licence.
 
 ### Power to enter premises
 
 (2) As part of an inspection, an inspector may, without a warrant or court order, enter and inspect, at any reasonable time, any of the following premises, other than any part of the premises used as a dwelling:
+
 1. The business premises of a licensee.
+
 2. A property, as defined in the Condominium Act, 1998, in respect of which a licensee provides condominium management services to the condominium corporation.
 
 ### Powers on inspection
 
 (3) While carrying out an inspection, an inspector,
+
 (a) is entitled to free access to all money, valuables, documents and records of the person being inspected that are relevant to the inspection;
+
 (b) may make reasonable inquiries of any person, orally or in writing, with respect to anything relevant to the inspection;
+
 (c) may require a person to produce any document or record relevant to the inspection and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the document or record;
+
 (d) may use any data storage, processing or retrieval device or system used to engage in activities of a licensee in order to produce information that is relevant to the inspection and that is in any form; and
+
 (e) may, upon giving a receipt for them, remove for examination and copy anything relevant to the inspection, including any data storage disk or other retrieval device in order to produce information, but shall promptly return to the person being inspected the thing that was removed.
 
 ### No use of force
@@ -580,24 +715,35 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Investigations with warrant
 
 62 (1) Upon application made without notice by an investigator, a justice of the peace may issue a warrant, if satisfied on information under oath that there is reasonable ground for believing that,
+
 (a) a person has contravened or is contravening this Act or the regulations or has committed an offence under the law of any jurisdiction that is relevant to the person’s fitness for a licence; and
+
 (b) there is,
+
 (i) in any building, dwelling, receptacle or place anything relating to the contravention of this Act or the regulations or to the person’s fitness for a licence, or
+
 (ii) information or evidence relating to the contravention of this Act or the regulations or the person’s fitness for a licence that may be obtained through the use of an investigative technique or procedure or the doing of anything described in the warrant.
 
 ### Powers under warrant
 
 (2) Subject to any conditions contained in it, a warrant obtained under subsection (1) authorizes an investigator,
+
 (a) to enter or access the building, dwelling, receptacle or place specified in the warrant and examine and seize anything described in the warrant;
+
 (b) to make reasonable inquiries of any person, orally or in writing, with respect to anything relevant to the investigation;
+
 (c) to require a person to produce the information or evidence described in the warrant and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the information or evidence described in the warrant;
+
 (d) to use any data storage, processing or retrieval device or system used to engage in the activities of a licensee in order to produce information or evidence described in the warrant, in any form; and
+
 (e) to use any investigative technique or procedure or do anything described in the warrant.
 
 ### Entry of dwelling
 
 (3) Despite subsection (2), an investigator shall not exercise the power under a warrant to enter a place, or part of a place, used as a dwelling, unless,
+
 (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice of the peace authorizes the entry into the dwelling.
 
 ### Conditions on warrant
@@ -669,14 +815,19 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Freeze order
 
 65 (1) If the conditions in subsection (2) are met, the director may in writing,
+
 (a) order any person having on deposit or controlling any assets or trust funds of a licensee or former licensee to hold those funds or assets;
+
 (b) order a licensee or former licensee to refrain from withdrawing any asset or trust fund from a person having it on deposit or controlling it; or
+
 (c) order a licensee or former licensee to hold any asset or trust fund of a client or other person in trust for the person entitled to it.
 
 ### Conditions
 
 (2) The director may make an order under subsection (1) if the director believes that it is advisable for the protection of the clients of a licensee or former licensee and,
+
 (a) a search warrant has been issued under this Act; or
+
 (b) criminal proceedings or proceedings in relation to a contravention under this Act or under any other Act are about to be or have been instituted against the licensee or former licensee in connection with or arising out of engaging in the activities of a licensee.
 
 ### Limitation
@@ -686,8 +837,11 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Financial institutions
 
 (4) A financial institution mentioned in subsection (3) is,
+
 (a) a bank or authorized foreign bank within the meaning of section 2 of the Bank Act (Canada);
+
 (b) a corporation registered under the Loan and Trust Corporations Act; or
+
 (c) a credit union within the meaning of the Credit Unions and Caisses Populaires Act, 2020.
 
 ### Release of assets
@@ -697,15 +851,21 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Exception
 
 (6) Subsection (1) does not apply if the licensee or former licensee files with the director, in the manner and amount that the director determines,
+
 (a) a personal bond accompanied by collateral security;
+
 (b) a bond of an insurer licensed under the Insurance Act to write surety and fidelity insurance;
+
 (c) a bond of a guarantor accompanied by collateral security; or
+
 (d) another prescribed form of security.
 
 ### Application to court
 
 (7) An application may be made to the Superior Court of Justice for a determination in respect of the disposition of an asset or trust fund,
+
 (a) by a person in receipt of an order under subsection (1), if that person is in doubt as to whether the order applies to the asset or trust fund; or
+
 (b) by a person who claims an interest in the asset or trust fund that is subject to the order.
 
 ### Notice
@@ -719,7 +879,9 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Disposition by Tribunal
 
 (10) The Tribunal shall dispose of the application after a hearing and may cancel the order or discharge the registration in whole or in part if the Tribunal finds that,
+
 (a) the order or registration is not required in whole or in part for the protection of clients of the applicant or of other persons having an interest in the land; or
+
 (b) the interests of other persons are unduly prejudiced by the order or registration.
 
 ### Parties
@@ -737,19 +899,29 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Freeze orders, non-licensees
 
 66 (1) The director may make an order described in subsection (2) in respect of the money or assets of a person who is not licensed under this Act and who is alleged to have engaged in activities for which licensing is required under this Act at a time when the person was not licensed to do so if,
+
 (a) the director receives an affidavit in which it is alleged, and in which facts are set out supporting the allegation, that the person who is not licensed under this Act,
+
 (i) is subject to criminal proceedings or proceedings in relation to a contravention under this Act or any other Act that are about to be or have been instituted against the person in connection with or arising out of activities for which licensing is required under this Act, or
+
 (ii) owns a building, dwelling, receptacle or place, or carries on activities in a building, dwelling, receptacle or place, in respect of which a search warrant has been issued under section 62; and
+
 (b) the director, based on the affidavit mentioned in clause (a), finds reasonable grounds to believe that,
+
 (i) in the course of activities for which licensing is required under this Act, the person who is the subject of the allegation mentioned in clause (a) has received money or assets from clients, and
+
 (ii) the interests of those clients require protection.
 
 ### Order
 
 (2) In the circumstances described in subsection (1), the director may, in writing,
+
 (a) order any person having on deposit or controlling any money or asset of the person who is the subject of the allegation mentioned in clause (1) (a) to hold the money or asset; or
+
 (b) order the person who is the subject of the allegation mentioned in clause (1) (a),
+
 (i) to refrain from withdrawing any money or asset from a person having it on deposit or controlling it, or
+
 (ii) to hold any money or asset of a client or other person in trust for the person who is entitled to it.
 
 ### Application
@@ -773,8 +945,11 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Offence
 
 68 (1) A person or entity is guilty of an offence if the person or entity,
+
 (a) furnishes false information in any application under this Act or in any statement or return required under this Act;
+
 (b) fails to comply with any order, direction or other requirement under this Act, other than an order made under section 58; or
+
 (c) contravenes or fails to comply with any section of this Act or the regulations made under the Act, other than a code of ethics established under section 77.
 
 ### Condominium management providers
@@ -784,7 +959,9 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Penalties
 
 (3) A person or entity that is convicted of an offence under this Act is liable to,
+
 (a) a fine of not more than $50,000 or imprisonment for a term of not more than two years less a day or both, in the case of an individual; or
+
 (b) a fine of not more than $250,000, if the person or entity is not an individual.
 
 ### Limitation
@@ -814,8 +991,11 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Liens on personal property
 
 (2) If the lien created by the director under subsection (1) relates to personal property,
+
 (a) the Personal Property Security Act, except Part V, applies with necessary modifications to the lien, despite clause 4 (1) (a) of that Act;
+
 (b) the lien shall be deemed to be a security interest that has attached for the purposes of the Personal Property Security Act; and
+
 (c) the director may perfect the security interest mentioned in clause (b) for the purposes of the Personal Property Security Act by the registration of a financing statement under that Act.
 
 ### Liens and charges on real property
@@ -833,7 +1013,9 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Discharge of lien
 
 (6) Within 10 days after the director has knowledge of the payment in full of the fine, the director shall,
+
 (a) discharge the registration of any financing statement registered under clause (2) (c); and
+
 (b) register a discharge of a charge created on registration of a lien under subsection (3).
 
 ## PART VI GENERAL
@@ -841,12 +1023,19 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Confidentiality
 
 72 (1) A person who obtains information in the course of exercising a power or carrying out a duty related to the administration of this Act or the regulations shall preserve secrecy with respect to the information and shall not communicate the information to any person except,
+
 (a) as is required in connection with a proceeding under this Act or in connection with the administration of this Act or the regulations;
+
 (b) to a ministry, department or agency of a government engaged in the administration of legislation similar to this Act or legislation that protects consumers or to any other entity to which the administration of legislation similar to this Act or legislation that protects consumers has been assigned;
+
 (c) as authorized under the Regulatory Modernization Act, 2007;
+
 (d) to a prescribed entity or organization, if the purpose of the communication is consumer protection;
+
 (e) to a law enforcement agency;
+
 (f) to the counsel of the person communicating the information; or
+
 (g) with the consent of the person to whom the information relates.
 
 ### Testimony
@@ -856,8 +1045,11 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Service
 
 73 (1) Any notice, order or request is sufficiently given or served if it is,
+
 (a) delivered personally;
+
 (b) sent by registered mail; or
+
 (c) sent by another manner if the sender can prove receipt of the notice, order or request.
 
 ### Deemed service
@@ -883,9 +1075,13 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Certificate as evidence
 
 75 (1) For all purposes in any proceeding, a statement purporting to be certified by the director is, without proof of the office or signature of the director, admissible in evidence as proof, in the absence of evidence to the contrary, of the facts stated in it in relation to,
+
 (a) the licensing or non-licensing of any person;
+
 (b) the filing or non-filing of any document or material required or permitted to be filed with the registrar;
+
 (c) the time when the facts upon which the proceedings are based first came to the knowledge of the director; or
+
 (d) any other matter pertaining to licensing or non-licensing of persons or to filing or non-filing of information.
 
 ### Proof of document
@@ -905,8 +1101,11 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Minister’s regulations
 
 77 (1) The Minister may make regulations,
+
 (a) establishing a code of ethics for the purposes of subsection 58 (1);
+
 (b) governing the jurisdiction and procedures of any committee established under this Act;
+
 (c) respecting any matter that is delegated by the Lieutenant Governor in Council to the Minister under paragraph 26 of subsection 78 (1).
 
 ### Code of ethics
@@ -936,50 +1135,95 @@ but does not include an activity excluded by the regulations; (“services de ge
 ### Lieutenant Governor in Council regulations
 
 78 (1) The Lieutenant Governor in Council may make regulations,
+
 1. defining, for the purposes of this Act and the regulations, any word or expression that is used in this Act but not defined in this Act;
+
 2. specifying any matter or thing that this Act describes as being prescribed or done in accordance with the regulations;
+
 3. exempting any person or class of persons or class of activities from any provision of this Act or the regulations and attaching conditions to an exemption;
+
 4. respecting applications for a licence or a renewal of licence;
+
 5. governing educational and examination requirements for applicants for a licence, applicants for a renewal of licence and licensees, including,
+
 i. requiring applicants for a licence, applicants for a renewal of licence and licensees to meet educational requirements that the board of the administrative authority, the Minister, the director or the registrar has specified or to complete a program of studies or one or more courses that the board of the administrative authority, the Minister, the director or the registrar has designated,
+
 ii. authorizing the board of the administrative authority, the Minister, the director or the registrar to designate organizations that are authorized to provide the programs and courses designated under subparagraph i, and
+
 iii. requiring that all educational requirements specified under subparagraph i and the list of all programs and courses designated under that subparagraph be made available to the public;
+
 6. requiring an applicant for a licence or a renewal of a licence to provide information to the registrar concerning persons other than the applicant in order to assist the registrar in determining whether the persons are or may be interested persons;
+
 7. specifying information that licensees must provide to the registrar and requiring that specified information be verified by affidavit;
+
 8. requiring the registrar to make available to the public the names of licensees and prescribing the form and manner in which the registrar must make the names available and specifying other information in respect of licensees that the registrar must make available to the public;
+
 9. specifying the responsibilities of condominium management providers, condominium managers or principal condominium managers;
+
 10. prescribing matters that condominium managers must disclose to the condominium management providers that employ them and to condominium management providers that are prospective employers, and the circumstances under which such disclosures are required;
+
 11. governing the activities of licensees including,
+
 i. specifying terms that licensees are required to include in contracts for condominium management services that they provide to clients,
+
 ii. specifying matters that they must disclose and when they must disclose them in the course of providing condominium management services, including the conditions under which disclosure is required and matters related to any holdings in,
+
 A. condominium management providers, other than the condominium management provider by which they are employed, in the case of condominium managers, or
+
 B. other condominium management providers, in the case of condominium management providers, and
+
 iii. specifying statements that licensees must provide in respect of providing condominium management services, the content of the statements, the manner of providing them, the circumstances under which a statement is not required and the consequences of failing to provide statements;
+
 12. requiring licensees to provide, on request and in the prescribed circumstances, proof of licence and specifying the nature of the proof and the manner in which they must provide it;
+
 13. requiring licensees to maintain business premises that comply with the prescribed rules;
+
 14. respecting financial security requirements for licensees, including requiring them to be bonded or insured or have collateral security, and prescribing the forfeiture of bonds, the disposition of proceeds and other terms related to the financial security requirements;
+
 15. governing the insurance that licensees must have, including,
+
 i. prescribing the types of insurance they must have, and
+
 ii. prescribing the minimum amounts for which they must be insured under each type of insurance;
+
 16. requiring licensees or any class of licensees to maintain trust accounts, governing those accounts including specifying the money that shall be held in trust and the conditions of the trust and authorizing the registrar to specify the location at which the trust accounts must be kept;
+
 17. governing the documents and records that licensees must keep, including the manner and location in which licensees must keep them and the time periods for which they must keep them and authorizing the registrar to specify the location at which licensees must keep them;
+
 18. governing the transfer of documents and records that a licensee is required to make to a client under section 54, including,
+
 i. specifying the form in which and the time at which the licensee is required to make the transfer,
+
 ii. specifying the rights and obligations of the parties if the licensee does not comply with the requirement, and
+
 iii. specifying the rights of any other condominium management provider or condominium manager who provides condominium management services to the client after the time at which the licensee was required to make the transfer, if the licensee did not make the required transfer;
+
 19. governing the making and retaining of copies of documents and records by a licensee under subsection 54 (2), including,
+
 i. specifying conditions that apply to the making of the copies,
+
 ii. specifying the time period during which the licensee is authorized to retain the copies, and
+
 iii. requiring the licensee to return the copies to the client or to destroy the copies after the expiry of the time period mentioned in subparagraph ii and governing the disposition of the copies under this subparagraph;
+
 20. specifying procedures and other matters related to complaints under section 57;
+
 21. governing the composition of the discipline committee and the appeals committee and, subject to subsection 58 (3), governing matters relating to the appointment of the members of those committees;
+
 22. respecting inspections and investigations under this Act;
+
 23. requiring that any information required under this Act be in a form approved by the director, the registrar or the Minister, as specified in the regulation;
+
 24. specifying rules relating to addresses for service under this Act;
+
 25. authorizing the director or the board of the administrative authority to conduct quality assurance programs in relation to the administration of this Act or the regulations and to use information collected under this Act for the purposes of those programs;
+
 26. delegating to the Minister the power to make regulations with respect to any matter that may be the subject of a regulation under this section;
+
 27. providing for any transitional matter necessary for the effective implementation of this Act or the regulations, including,
+
 i. authorizing persons who are not licensees but who provide condominium management services to clients before section 34 comes into force to continue to provide those services, subject to the requirements set out in the regulations, and
+
 ii. governing the application of prescribed provisions of this Act and the regulations to licensees and other prescribed persons.
 
 ### Residual authority to act
@@ -1005,4 +1249,5 @@ ii. governing the application of prescribed provisions of this Act and the regul
 ## Part x (OMITTED)
 
 83 Omitted (provides for coming into force of provisions of this Act).
+
 84 Omitted (enacts short title of this Act).

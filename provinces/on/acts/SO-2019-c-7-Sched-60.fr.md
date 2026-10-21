@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2019-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19t07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # documents décisionnels des tribunaux (Loi de 2019 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19t07) before relying on it.
 
 L.O. 2019, chap. 7, annexe 60
 
@@ -21,28 +21,43 @@ Période de codification : du 1 er juillet 2019 à la date à laquelle Lois-en-l
 ### Interprétation
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «document décisionnel» Document visé au paragraphe (2). («adjudicative record»)
+
 «ordonnance de confidentialité» Ordonnance rendue par un tribunal en vertu du paragraphe 2 (2). («confidentiality order»)
+
 «tribunal» Tribunal décisionnel prescrit par les règlements pris en vertu de la présente loi. («tribunal»)
 
 ### Documents décisionnels
 
 (2) Sous réserve du paragraphe (3), les documents suivants constituent des documents décisionnels pour l’application de la présente loi :
+
 1. La demande ou l’autre document écrit qui introduit une instance devant un tribunal.
+
 2. L’avis d’audience devant un tribunal.
+
 3. Les observations écrites déposées auprès d’un tribunal à l’égard d’une instance dont il est saisi.
+
 4. Le document admis en preuve à une audience d’un tribunal ou sur lequel un tribunal se fonde pour rendre une décision ou une ordonnance.
+
 5. La transcription d’un témoignage oral recueilli lors d’une audience d’un tribunal.
+
 6. La décision ou l’ordonnance rendue par un tribunal et les motifs de celle-ci.
+
 7. Le rôle ou le calendrier des audiences d’un tribunal.
+
 8. Le registre des instances devant un tribunal.
+
 9. Tout autre document qui se rapporte à une instance devant un tribunal et qui est prescrit par les règlements pris en vertu de la présente loi.
 
 ### Exclusion de documents
 
 (3) Les documents suivants ne constituent pas des documents décisionnels pour l’application de la présente loi :
+
 1. Les notes personnelles, les projets de décisions, les projets d’ordonnances et les communications concernant les projets de décisions ou d’ordonnances qui sont rédigés par un membre du tribunal ou à son intention relativement à une instance devant le tribunal que préside le membre.
+
 2. Les notes personnelles créées par une personne nommée par un tribunal ou à son intention pour faciliter le règlement d’une question dans une instance devant le tribunal au moyen d’un mode de règlement extrajudiciaire des différends.
+
 3. Les documents se rapportant à toute tentative de règlement, au moyen d’un mode de règlement extrajudiciaire des différends, d’une question dans une instance devant le tribunal, à moins que le document ne fasse partie d’une décision ou d’une ordonnance du tribunal.
 
 ### Élimination des documents
@@ -56,13 +71,17 @@ Période de codification : du 1 er juillet 2019 à la date à laquelle Lois-en-l
 ### Ordonnances de confidentialité
 
 (2) Le tribunal peut, de sa propre initiative ou sur requête d’une personne visée au paragraphe (3), ordonner que tout ou partie d’un document décisionnel fasse l’objet d’un traitement confidentiel et ne soit pas divulgué au public s’il décide que, selon le cas :
+
 a) des questions intéressant la sécurité publique pourraient être révélées;
+
 b) le document contient des informations concernant des questions financières ou personnelles d’ordre privé ou d’autres questions qui sont telles que l’intérêt du public ou de la personne servi par la non-divulgation l’emporte sur l’importance d’adhérer au principe selon lequel le document doit être mis à la disposition du public.
 
 ### Requérants autorisés
 
 (3) Les personnes suivantes peuvent présenter au tribunal une requête en ordonnance de confidentialité à l’égard d’un document décisionnel :
+
 1. Une partie à une instance à laquelle se rapporte le document décisionnel.
+
 2. Une personne qui serait touchée par la divulgation des informations contenues dans tout ou partie du document décisionnel.
 
 ### Portée des ordonnances
@@ -88,8 +107,11 @@ b) le document contient des informations concernant des questions financières o
 ### Exécution des ordonnances de confidentialité
 
 5 (1) Une copie certifiée conforme d’une ordonnance de confidentialité peut être déposée auprès de la Cour supérieure de justice :
+
 a) par le tribunal qui a rendu l’ordonnance;
+
 b) par une partie à une instance à laquelle se rapporte l’ordonnance;
+
 c) par une personne qui serait touchée par la divulgation des informations contenues dans tout ou partie d’un document décisionnel qui doit faire l’objet d’un traitement confidentiel aux termes de l’ordonnance.
 
 ### Idem
@@ -115,9 +137,15 @@ c) par une personne qui serait touchée par la divulgation des informations cont
 ### Règlements
 
 8 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des tribunaux décisionnels pour l’application de la définition de «tribunal» au paragraphe 1 (1);
+
 b) prescrire des documents additionnels pour l’application du paragraphe 1 (2);
+
 c) prévoir que les dispositions d’une autre loi ou d’un règlement pris en vertu d’une autre loi l’emportent sur les dispositions incompatibles de la présente loi.
+
 9 Omis (modification ou abrogation d’autres textes législatifs).
+
 10 Omis (entrée en vigueur de dispositions de la présente loi).
+
 11 Omis (édiction du titre abrégé de la présente loi).

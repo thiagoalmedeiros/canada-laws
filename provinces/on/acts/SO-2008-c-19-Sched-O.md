@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/08o19"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Venture Ontario Act, 2008
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/08o19) before relying on it.
 
 S.O. 2008, c. 19, Sched. O
 
@@ -21,10 +21,15 @@ S.O. 2008, c. 19, Sched. O
 ### Definitions
 
 1 In this Act,
+
 “board” means the board of directors of the Corporation; (“conseil d’administration”)
+
 “Corporation” means the corporation continued under section 2; (“Société”)
+
 “Minister” means the Minister of Research and Innovation or whatever other member of the Executive Council to whom the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “subsidiary” means a corporation that is a subsidiary of the Corporation. (“filiale”)
 
 ### Corporation
@@ -60,9 +65,13 @@ S.O. 2008, c. 19, Sched. O
 ### Objects
 
 4 The objects of the Corporation are,
+
 (a) to receive, hold, administer and otherwise deal with the interest of the Government of Ontario in the limited partnership known as the Ontario Venture Capital Fund LP;
+
 (b) to acquire, manage and otherwise deal with the other investments or classes of investments that are prescribed by the regulations;
+
 (c) to carry out the other objects that are prescribed by the regulations;
+
 (d) to receive, hold, invest, sell or otherwise deal with property, whether real or personal, in connection with the objects described in clause (a), (b) or (c).
 
 ### Crown agents
@@ -90,16 +99,23 @@ S.O. 2008, c. 19, Sched. O
 ### Borrowing
 
 (3) The Corporation or a subsidiary shall not borrow or manage financial risks unless,
+
 (a) a by-law of the Corporation or the subsidiary, as the case may be, authorizes the activity and the Minister of Finance has consented to the by-law; and
+
 (b) the Ontario Financing Authority co-ordinates and arranges the activity, unless the Minister of Finance agrees otherwise.
 
 ### Temporary investments
 
 (4) The Corporation may temporarily invest money not immediately required to carry out its objects, but only if,
+
 (a) a by-law of the Corporation authorizes the investments which shall be selected from the following:
+
 (i) debt obligations of or guaranteed by the Government of Canada or a province of Canada,
+
 (ii) interest-bearing accounts and short-term certificates of deposit issued or guaranteed by a chartered bank, trust company, credit union or caisse populaire;
+
 (b) the Minister of Finance has consented to the by-law mentioned in clause (a); and
+
 (c) the Ontario Financing Authority co-ordinates and arranges the investments, unless the Minister of Finance agrees otherwise.
 
 ### Policies and directives of the Minister
@@ -137,7 +153,9 @@ S.O. 2008, c. 19, Sched. O
 ### Professional assistance
 
 (3) The Corporation may,
+
 (a) engage persons, other than those mentioned in subsection (1) or (2), to provide professional, technical or other assistance to or on behalf of the Corporation; and
+
 (b) establish the terms of engagement and provide for the payment of the remuneration and expenses of the persons engaged under clause (a).
 
 ### Immunity of employees and others
@@ -163,11 +181,17 @@ S.O. 2008, c. 19, Sched. O
 ### Contents
 
 (2) The business plan must be based on a three-year cycle and must include,
+
 (a) the Corporation’s proposed operating budget for the fiscal year;
+
 (b) the Corporation’s projected operating budget for each of the next two fiscal years after the fiscal year;
+
 (c) the projected revenues of the Corporation for the fiscal year and their sources;
+
 (d) the projected operating expenditures of the Corporation for the fiscal year;
+
 (e) performance measures establishing targets for the fiscal year; and
+
 (f) all other information that the Minister requires.
 
 ### Changes
@@ -179,6 +203,7 @@ S.O. 2008, c. 19, Sched. O
 ### Status of revenues and assets
 
 13 (1) Despite Part I of the Financial Administration Act, all revenues and assets of the Corporation and its subsidiaries, if any, do not form part of the Consolidated Revenue Fund.
+
 (2) Repealed: 2009, c. 34, Sched. N, s. 3.
 
 ### Financial records, etc.
@@ -212,7 +237,9 @@ S.O. 2008, c. 19, Sched. O
 ### Same
 
 (2) The Corporation shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report; and
+
 (b) when and how to make it available to the public.
 
 ### Same
@@ -240,7 +267,9 @@ S.O. 2008, c. 19, Sched. O
 ### Restriction
 
 (3) The plan for winding up the Corporation may provide for,
+
 (a) liquidating assets and transferring the proceeds to the Consolidated Revenue Fund or to an agency of the Crown; and
+
 (b) transferring assets and liabilities to the Crown in right of Ontario or to an agency of the Crown.
 
 ### Implementation
@@ -250,12 +279,17 @@ S.O. 2008, c. 19, Sched. O
 ### Regulations
 
 19 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing anything that this Act describes as being prescribed by the regulations;
+
 (b) specifying the objects, powers and duties of subsidiaries and providing for the management of subsidiaries;
+
 (c) respecting any other matter that the Lieutenant Governor in Council considers necessary or advisable to carry out effectively the intent and purpose of this Act.
 
 ### Scope
 
 (2) A regulation may impose limits, conditions, requirements or restrictions and may be general or particular in its application.
+
 20 Omitted (provides for coming into force of provisions of this Act).
+
 21 Omitted (enacts short title of this Act).

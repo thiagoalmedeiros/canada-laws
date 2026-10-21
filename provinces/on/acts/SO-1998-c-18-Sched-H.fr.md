@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-12-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98m18"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # commissions d'appel et de révision du ministère de la Santé et des Soins de longue durée (Loi de 1998 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98m18) before relying on it.
 
 L.O. 1998, chap. 18, annexe H
 
@@ -21,7 +21,9 @@ L.O. 1998, chap. 18, annexe H
 ### Commission d’appel et de révision des professions de la santé
 
 1 Les commissions suivantes sont fusionnées pour constituer la Commission d’appel et de révision des professions de la santé, connue en anglais sous le nom de Health Professions Appeal and Review Board :
+
 1. La Commission des professions de la santé.
+
 2. La Commission d’appel des hôpitaux.
 
 ### Fonctions
@@ -31,6 +33,7 @@ L.O. 1998, chap. 18, annexe H
 ### Composition
 
 3 (1) La Commission se compose d’au moins 12 membres que nomme le lieutenant-gouverneur en conseil, sur la recommandation du ministre de la Santé et des Soins de longue durée.
+
 (2) Abrogé : 2006, chap. 34, par. 36 (1).
 
 ### Président et vice-présidents
@@ -40,14 +43,19 @@ L.O. 1998, chap. 18, annexe H
 ### Autres vice-présidents
 
 (4) Le président peut, de temps à autre, désigner des membres supplémentaires à la vice-présidence.
+
 (5) et (6) Abrogés : 2006, chap. 34, par. 36 (1).
 
 ### Qualités requises des membres
 
 4 Ne peut être nommée membre de la Commission la personne qui, selon le cas :
+
 a) est employée aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario ;
+
 a.1) est employée par un organisme de la Couronne au sens de la Loi sur les organismes de la Couronne ;
+
 b) est ou a été membre d’un ordre au sens de la Loi de 1991 sur les professions de la santé réglementées ou du conseil d’un tel ordre;
+
 c) est ou a été membre de l’Ordre des vétérinaires de l’Ontario ou du conseil de cet ordre.
 
 ## PARTIE II COMMISSION D’APPEL ET DE RÉVISION DES SERVICES DE SANTÉ
@@ -55,29 +63,49 @@ c) est ou a été membre de l’Ordre des vétérinaires de l’Ontario ou du co
 ### Commission d’appel et de révision des services de santé
 
 5 Les commissions suivantes sont fusionnées pour constituer la Commission d’appel et de révision des services de santé, connue en anglais sous le nom de Health Services Appeal and Review Board :
+
 1. La Commission d’appel des services de santé.
+
 2. La Commission d’appel des établissements de santé.
+
 3. La Commission d’appel pour la protection de la santé.
+
 4. La Commission de révision des maisons de soins infirmiers.
+
 5. La Commission d’étude des laboratoires.
 
 ### Fonctions
 
 6 (1) La Commission a pour fonctions de tenir des audiences, de procéder à des réexamens ou révisions et d’exercer les fonctions qui lui sont assignées aux termes des lois suivantes :
+
 1. La Loi sur les ambulances.
+
 2. La Loi de 2019 pour des soins interconnectés.
+
 3. La Loi sur la protection contre les rayons X.
+
 4. La Loi de 2004 sur l’engagement d’assurer l’avenir de l’assurance-santé.
+
 4.1 La Loi de 2021 sur l’Office de surveillance des fournisseurs de soins de santé et de soutien.
+
 5. La Loi sur les arrêtés extraordinaires relatifs aux établissements de santé.
+
 6. La Loi sur l’assurance-santé.
+
 7. La Loi sur la protection et la promotion de la santé.
+
 8. Abrogée : 2020, chap. 13, annexe 3, par. 7 (1).
+
 9. La Loi sur l’immunisation des élèves.
+
 10. La Loi de 2023 sur les centres de services de santé communautaires intégrés.
+
 11. La Loi autorisant des laboratoires médicaux et des centres de prélèvement.
+
 12. La Loi de 2021 sur le redressement des soins de longue durée.
+
 13. Abrogée : 2007, chap. 8, art. 216.
+
 14. La Loi sur les hôpitaux privés.
 
 ### Idem
@@ -111,13 +139,17 @@ c) est ou a été membre de l’Ordre des vétérinaires de l’Ontario ou du co
 ### Autres vice-présidents
 
 (5) Le président peut, de temps à autre, désigner des membres supplémentaires à la vice-présidence.
+
 (6) et (7) Abrogés : 2006, chap. 34, par. 36 (2).
+
 7.1 Abrogé : 2019, chap. 15, annexe 15, par. 37 (2).
 
 ### Inhabilité
 
 8 Ne peut être nommée membre de la Commission la personne qui, selon le cas :
+
 a) est employée aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario ;
+
 b) est employée par un organisme de la Couronne au sens de la Loi sur les organismes de la Couronne.
 
 ## PARTIE III DISPOSITIONS APPLICABLES AUX DEUX COMMISSIONS
@@ -125,6 +157,7 @@ b) est employée par un organisme de la Couronne au sens de la Loi sur les organ
 ### Champ d’application de la présente partie
 
 9 La présente partie s’applique à la Commission d’appel et de révision des professions de la santé et à la Commission d’appel et de révision des services de santé.
+
 10 Abrogé. : 2017, chap. 34, annexe 46, art. 27.
 
 ### Rémunération et indemnités
@@ -174,5 +207,7 @@ b) est employée par un organisme de la Couronne au sens de la Loi sur les organ
 ### Immunité
 
 18 Sont irrecevables les instances en dommages-intérêts introduites contre une commission, les membres, employés ou mandataires d’une commission ou contre quiconque agit sous l’autorité du président d’une commission pour tout acte accompli de bonne foi dans l’exercice effectif ou censé tel de leurs fonctions ou pour toute négligence ou tout manquement qu’ils auraient commis dans l’exercice de bonne foi de leurs fonctions.
+
 19 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 20 Omis (édicte le titre abrégé de la présente loi).

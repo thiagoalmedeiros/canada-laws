@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2025-05-12"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19a15"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Commission des alcools et des jeux de l'Ontario (Loi de 2019 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19a15) before relying on it.
 
 L.O. 2019, chap. 15, annexe 1
 
@@ -21,23 +21,33 @@ L.O. 2019, chap. 15, annexe 1
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «Commission» La Commission des alcools et des jeux de l’Ontario prorogée en application du paragraphe 2 (1). («Commission»)
+
 «ministre» Le ministre chargé de l’application de la présente loi. («Minister»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «registrateur» Le registrateur nommé par le conseil d’administration de la Commission. («Registrar»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations») 2019, chap. 15, annexe 1, par. 1 (1)
 
 ### Lois portant sur les alcools, le cannabis, les jeux et les courses de chevaux
 
 (2) Pour l’application de la présente loi, les lois suivantes sont les lois portant sur les alcools, le cannabis, les jeux et les courses de chevaux :
+
 1. La Loi de 2019 sur les permis d’alcool et la réglementation des alcools.
+
 2. La Loi de 2018 sur les licences liées au cannabis.
+
 3. La Loi de 1992 sur la réglementation des jeux.
+
 4. La Loi de 2015 sur les licences de courses de chevaux.
 
 ### Mandataire de la Couronne
 
 1.1 (1) La Commission est un mandataire de la Couronne du chef de l’Ontario.
+
 (2) Abrogé : 2024, chap. 20, annexe 9, par. 29 (2).
 
 ### Commission des alcools et des jeux de l’Ontario
@@ -65,9 +75,13 @@ L.O. 2019, chap. 15, annexe 1
 ### Mission
 
 3 (1) La Commission a pour mission de faire ce qui suit :
+
 1. Exercer les pouvoirs et les fonctions qu’attribue la présente loi ou toute autre loi à la Commission.
+
 2. Appliquer les lois portant sur les alcools, le cannabis, les jeux et les courses de chevaux ainsi que les règlements pris en vertu de ces lois.
+
 3-5 Abrogées : 2024, chap. 20, annexe 9, par. 29 (3).
+
 6. Exercer toute autre activité prescrite.
 
 ### Devoir d’agir dans l’intérêt public
@@ -81,10 +95,15 @@ L.O. 2019, chap. 15, annexe 1
 ### Approbation du Conseil des ministres
 
 (2) La Commission ne doit pas exercer les pouvoirs suivants sans l’approbation du lieutenant-gouverneur en conseil :
+
 1. Transférer ou grever, notamment en les acquérant, en en disposant, en les louant à bail ou en les nantissant, ou encore par hypothèque ou charge, un intérêt sur des biens immeubles, si ce n’est louer à bail les locaux raisonnablement nécessaires à ses fins.
+
 2. Contracter des emprunts ou accorder des prêts.
+
 3. Nantir ou grever, notamment par charge, ses biens meubles.
+
 4. Créer des filiales.
+
 4.1 Abrogé : 2024, chap. 20, annexe 9, par. 29 (4).
 
 ### Conseil d’administration
@@ -128,9 +147,13 @@ L.O. 2019, chap. 15, annexe 1
 ### Délégation des pouvoirs et fonctions
 
 (4) Le conseil d’administration de la Commission peut déléguer ses pouvoirs et fonctions par écrit à tout comité du conseil ou à un ou à plusieurs dirigeants ou employés de la Commission, à l’exception des pouvoirs suivants :
+
 a) adopter, modifier ou abroger les règlements administratifs de la Commission;
+
 b) fixer des droits et des frais en vertu de l’article 13;
+
 c) établir un barème des amendes en vertu de l’article 14.
+
 (4.1) Abrogé : 2024, chap. 20, annexe 9, par. 29 (5).
 
 ### Conditions
@@ -140,12 +163,15 @@ c) établir un barème des amendes en vertu de l’article 14.
 ### Devoir d’informer le ministre
 
 (6) Le conseil d’administration fait ce qui suit :
+
 a) il informe le ministre des questions urgentes, critiques ou pertinentes qui exigeront vraisemblablement l’intervention de la Commission ou du ministre pour veiller à ce que la Commission soit en mesure de réaliser sa mission, en plus de conseiller le ministre sur ces questions;
+
 b) il conseille le ministre ou lui fait rapport sur les questions relatives à la présente loi ou à l’application des lois portant sur les alcools, le cannabis, les jeux et les courses de chevaux que le ministre renvoie à la Commission.
 
 ### Renseignements
 
 (7) Le conseil d’administration peut exiger que les renseignements liés à l’application de la présente loi ou des lois portant sur les alcools, le cannabis, les jeux et les courses de chevaux soient fournis de la façon qu’il approuve.
+
 6.1 Abrogé : 2024, chap. 20, annexe 9, par. 29 (6).
 
 ### Registrateur et employés
@@ -157,15 +183,21 @@ b) il conseille le ministre ou lui fait rapport sur les questions relatives à l
 ### Registrateurs adjoints
 
 (2) Le registrateur peut nommer un ou plusieurs registrateurs adjoints et leur déléguer ses pouvoirs ou fonctions, sous réserve des conditions énoncées dans l’acte de délégation.
+
 (3) Abrogé : 2024, chap. 20, annexe 9, par. 29 (7).
 
 ### Certificat du registrateur
 
 8 (1) Le registrateur peut délivrer un certificat contenant des renseignements concernant l’une ou l’autre des questions suivantes à l’égard de la présente loi ou des lois portant sur les alcools, le cannabis, les jeux et les courses de chevaux :
+
 1. La délivrance ou la non-délivrance d’une licence, d’un permis, d’une autorisation ou d’un avenant.
+
 2. L’inscription ou la non-inscription d’une personne.
+
 3. Le dépôt ou le non-dépôt d’un document ou d’une autre pièce qui doivent être déposés auprès de la Commission.
+
 4. La date à laquelle le registrateur a pris connaissance des faits sur lesquels est fondée une instance.
+
 5. Toute autre question se rapportant aux licences, permis, autorisations, inscriptions ou avenants prévus par les lois portant sur les alcools, le cannabis, les jeux et les courses de chevaux ou au dépôt ou au non-dépôt de documents conformément à ces lois.
 
 ### Admissibilité du certificat
@@ -209,8 +241,11 @@ b) il conseille le ministre ou lui fait rapport sur les questions relatives à l
 ### Irrecevabilité de certaines instances
 
 10.2 (1) Sont irrecevables les instances introduites contre l’une ou l’autre des personnes ou entités suivantes :
+
 a) toute personne mentionnée au paragraphe 10 (1) à l’égard d’une question visée à ce paragraphe;
+
 b) la Couronne ou toute personne mentionnée au paragraphe 10 (1) à l’égard d’une question visée au paragraphe 10 (3);
+
 c) toute personne mentionnée au paragraphe 10.1 (1) à l’égard d’une question visée au paragraphe applicable.
 
 ### Idem
@@ -230,7 +265,9 @@ c) toute personne mentionnée au paragraphe 10.1 (1) à l’égard d’une quest
 ### Amendes reçues
 
 (2) Les sommes que reçoit la Commission provenant des amendes imposées par suite de contraventions aux lois portant sur les alcools, le cannabis, les jeux et les courses de chevaux ne peuvent être affectées qu’aux fins suivantes :
+
 1. Des programmes de sensibilisation, d’information et de formation du grand public concernant les alcools, le cannabis, les jeux et les courses de chevaux.
+
 2. Des programmes d’information et de formation des titulaires de licences, de permis et d’autorisations, des personnes inscrites et d’autres personnes que régissent les lois portant sur les alcools, le cannabis, les jeux et les courses de chevaux.
 
 ### Exercice financier et vérifications
@@ -246,8 +283,11 @@ c) toute personne mentionnée au paragraphe 10.1 (1) à l’égard d’une quest
 ### Droits et frais
 
 13 (1) Le conseil d’administration de la Commission peut faire ce qui suit :
+
 a) fixer des droits ou d’autres frais, sous réserve de l’approbation du ministre;
+
 b) prévoir l’exemption du paiement des droits et des frais;
+
 c) prévoir des remboursements pour l’application de la présente loi et des lois portant sur les alcools, le cannabis, les jeux et les courses de chevaux ou des règlements pris en vertu de ces lois.
 
 ### Non-assimilation aux règlements
@@ -263,6 +303,7 @@ c) prévoir des remboursements pour l’application de la présente loi et des l
 ### Définition
 
 14 (1) La définition qui suit s’applique au présent article.
+
 «Tribunal» Le Tribunal d’appel en matière de permis créé en application de la Loi de 1999 sur le Tribunal d’appel en matière de permis.
 
 ### Barème des amendes
@@ -312,8 +353,11 @@ c) prévoir des remboursements pour l’application de la présente loi et des l
 ### Idem
 
 (2) La Commission se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le présenter au ministre;
+
 c) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -329,10 +373,17 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Règlements
 
 16 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) traiter de tout ce que la présente loi permet ou exige de prescrire, de faire, de préciser ou de prévoir par règlement;
+
 b) régir les questions transitoires pouvant découler de la mise en œuvre de la présente loi, y compris des modifications apportées à celle-ci, ou de l’abrogation d’une disposition par l’annexe 2 de la Loi de 2019 sur le plan pour bâtir l’Ontario ensemble ;
+
 c) traiter de toute question nécessaire pour faciliter la mise en œuvre de la présente loi.
+
 17 Omis (modification de la présente loi).
+
 18 à 24 Omis (modification ou abrogation d’autres textes législatifs).
+
 25 Omis (entrée en vigueur de dispositions de la présente loi).
+
 26 Omis (édiction du titre abrégé de la présente loi).

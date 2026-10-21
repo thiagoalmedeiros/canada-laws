@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-06-02"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/26f08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Fare Alignment and Seamless Transit Act, 2026
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/26f08) before relying on it.
 
 S.O. 2026, c. 8, Sched. 4
 
@@ -21,35 +21,61 @@ S.O. 2026, c. 8, Sched. 4
 ### Purposes
 
 1 The purposes of this Act are to,
+
 (a) improve the transportation system to strengthen Ontario’s economy;
+
 (b) enhance rider experience through greater transit fare and service integration, including for persons with disabilities and others who rely on public transportation;
+
 (c) enable people to use transit to travel across municipalities and access employment, education and essential services; and
+
 (d) improve the convenience, consistency and accessibility of municipal transit services by establishing provincial requirements.
 
 ### Definitions
 
 2 In this Act,
+
 “disability” has the same meaning as in the Accessibility for Ontarians with Disabilities Act, 2005; (“handicap”)
+
 “local transit system” means a passenger transportation system that is operated principally within a municipality and includes transportation services for persons with disabilities, but does not include transportation by special purpose vehicles such as school buses or ambulances and does not include any system operated by and for Metrolinx; (“réseau local de transport en commun”)
+
 “Minister” means the Minister of Transportation or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “municipal agency” means,
+
 (a) a local board as defined in subsection 1 (1) of the Municipal Act, 2001,
+
 (b) a local board as defined in subsection 3 (1) of the City of Toronto Act, 2006, including, for greater certainty, the Toronto Transit Commission,
+
 (c) a corporation established by a municipality under section 203 of the Municipal Act, 2001, or a secondary corporation as defined in subsection 203 (3.1) of that Act, or
+
 (d) a corporation established by the City of Toronto under section 148 of the City of Toronto Act, 2006, and every secondary corporation as defined in subsection 148 (4) of that Act; (“organisme municipal”)
+
 “municipal transit area” means the area comprised of,
+
 (a) the City of Toronto,
+
 (b) the City of Hamilton,
+
 (c) the Regional Municipality of Durham,
+
 (d) the Regional Municipality of Halton,
+
 (e) the Regional Municipality of Peel,
+
 (f) the Regional Municipality of York, and
+
 (g) any additional areas that are prescribed by the Lieutenant Governor in Council; (“zone municipale de transport en commun”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “prescribed municipal transit system” means a local transit system prescribed by the Minister, or a passenger transportation system prescribed by the Lieutenant Governor in Council, that is operated in a municipal transit area; (“réseau municipal de transport en commun prescrit”)
+
 “prescribed specialized transit system” means a local transit system prescribed by the Minister, or a passenger transportation system prescribed by the Lieutenant Governor in Council, that is operated in a municipal transit area and that provides services designed to transport persons with disabilities; (“réseau spécialisé de transport en commun prescrit”)
+
 “prescribed transit system” means a prescribed municipal transit system or a prescribed specialized transit system; (“réseau de transport en commun prescrit”)
+
 “primary service area” means the municipality or area in which a passenger transportation system principally operates; (“zone principale de desserte”)
+
 “regulations” means the regulations made under this Act. (“règlements”)
 
 ## PART II TRANSIT REQUIREMENTS
@@ -69,9 +95,13 @@ S.O. 2026, c. 8, Sched. 4
 ### Fare structure
 
 4 The Minister may make regulations establishing a fare structure for prescribed transit systems, including,
+
 (a) setting fare prices;
+
 (b) defining fare categories, types and eligibility requirements;
+
 (c) establishing fare discount policies;
+
 (d) establishing transfer policies for travel between a prescribed transit system and any other passenger transportation systems.
 
 ### Participation in unified fare payment system
@@ -97,24 +127,35 @@ S.O. 2026, c. 8, Sched. 4
 ### Same
 
 (5) A regulation made under subsection (4) may do one or more of the following:
+
 1. Authorize prescribed transit systems that are designated in relation to a geographic zone to determine by agreement how fares are to be apportioned, subject to any conditions that may be set out in the regulations.
+
 2. Set out the manner in which the fares are to be apportioned.
+
 3. Provide for an arbitration process for determining how fares are to be apportioned or for resolving any related disputes.
 
 ### Same
 
 (6) A regulation that relates to the matters described in subsection (5) may,
+
 (a) provide, on an interim basis, for the manner in which fares are to be apportioned and for the time and manner in which payments are to be made;
+
 (b) permit an agreement or an arbitration decision to apply to fares received or payments made before the agreement or decision is reached; and
+
 (c) provide for the reconciliation of amounts paid on an interim basis.
 
 ### Service integration for priority routes
 
 7 The Minister may make regulations,
+
 (a) designating new and existing routes as priority routes, which may cross municipal boundaries;
+
 (b) prescribing service standards for priority routes, including,
+
 (i) establishing time periods during which the service standards must be met,
+
 (ii) establishing the frequency of services to be provided on the priority route, which may specify the frequency of service at different stops on the priority route;
+
 (c) prescribing requirements for service integration between different prescribed transit systems on priority routes, including requiring services be provided by a prescribed transit system outside of its primary service area.
 
 ### Prescribed specialized transit systems
@@ -144,7 +185,9 @@ S.O. 2026, c. 8, Sched. 4
 ### Form of report
 
 (2) A report described in subsection (1) shall be in the form required by the Minister and shall include,
+
 (a) information demonstrating how the prescribed transit system has complied with the requirements established under this Act; and
+
 (b) any other prescribed documentation or data.
 
 ### Publication
@@ -176,17 +219,25 @@ S.O. 2026, c. 8, Sched. 4
 ### Extinguishment of causes of action
 
 13 (1) No cause of action arises against a person set out in subsection (2) as a direct or indirect result of,
+
 (a) the enactment, amendment or repeal of any provision of this Act;
+
 (b) the making, amendment or revocation of any provision of a regulation, request or directive under this Act;
+
 (c) the granting or termination of any approval under this Act; or
+
 (d) anything done or not done in accordance with this Act or a regulation, request, directive or approval under this Act, including any collection, use or disclosure of information authorized under this Act.
 
 ### Persons referred to
 
 (2) The persons referred to in subsection (1) are,
+
 (a) the Crown or any current or former member of the Executive Council or employee, officer or agent of or advisor to the Crown;
+
 (b) a municipality or municipal agency, or any current or former member of the council of the municipality or of the municipal agency, or employee, officer or agent of or advisor to the municipality or municipal agency;
+
 (c) Metrolinx or any of its subsidiary corporations, or any current or former director, employee, officer or agent of or advisor to Metrolinx or any of its subsidiary corporations; or
+
 (d) any person prescribed by the Lieutenant Governor in Council.
 
 ### No remedy
@@ -216,13 +267,17 @@ S.O. 2026, c. 8, Sched. 4
 ### Certain proceedings by municipalities not prevented
 
 (9) This section does not apply with respect to proceedings brought by a municipality against,
+
 (a) any current or former member of the council of the municipality or of a municipal agency of the municipality; or
+
 (b) any current or former employee, officer or agent of or advisor to the municipality or a municipal agency of the municipality.
 
 ### Certain proceedings by municipal agencies not prevented
 
 (10) This section does not apply with respect to proceedings brought by a municipal agency against,
+
 (a) any current or former member of the municipal agency; or
+
 (b) any current or former employee, officer or agent of or advisor to the municipal agency.
 
 ### Certain proceedings by Metrolinx not prevented
@@ -244,20 +299,31 @@ S.O. 2026, c. 8, Sched. 4
 ### Minister
 
 16 (1) The Minister may make regulations,
+
 (a) prescribing or respecting any matter that this Act refers to as a matter that the regulations may prescribe, specify, designate, set out or otherwise deal with;
+
 (b) prescribing local transit systems as prescribed municipal or specialized transit systems for the purposes of the Act;
+
 (c) clarifying the meaning of “primary service area” for the purposes of this Act;
+
 (d) prescribing a geographic zone for the purposes of subsection 6 (1) and designating prescribed transit systems in relation to that zone;
+
 (e) defining or clarifying the meaning of any word or phrase used in this Act that is not defined in this Act;
+
 (f) exempting an entity from a provision of this Act or the regulations and setting conditions for the exemption;
+
 (g) respecting any matter necessary or incidental to the enforcement and administration of this Act and the regulations;
+
 (h) respecting any transitional matters necessary for the effective implementation of this Act and the regulations.
 
 ### Lieutenant Governor in Council
 
 (2) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing passenger transportation systems that are not local transit systems as prescribed municipal or specialized transit systems for the purposes of the Act;
+
 (b) prescribing additional municipal transit areas for the purposes of the definition of “municipal transit area” in section 2;
+
 (c) prescribing persons for the purposes of clause 13 (2) (d) and prescribing any conditions or circumstances where section 13 does not apply to that person, including with respect to proceedings brought by a specified person or class of persons.
 
 ### Retroactive regulations
@@ -271,4 +337,5 @@ S.O. 2026, c. 8, Sched. 4
 ### Part V (OMITTED)
 
 17 Omitted (provides for coming into force of provisions of this Act).
+
 18 Omitted (enacts short title of this Act).

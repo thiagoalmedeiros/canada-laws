@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98e15"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Electricity Act, 1998
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98e15) before relying on it.
 
 S.O. 1998, c. 15, Sched. A
 
@@ -21,84 +21,159 @@ S.O. 1998, c. 15, Sched. A
 ### Purposes
 
 1 The purposes of this Act include the following:
+
 (a) to ensure the adequacy, safety, sustainability and reliability of electricity supply in Ontario through responsible planning and management of electricity resources, supply and demand;
+
 (a.1) to establish a mechanism for energy planning;
+
 (a.1.1) to support economic growth in a manner consistent with the policies of the Government of Ontario;
+
 (a.2) to promote electrification and facilitate energy efficiency measures aimed at using electricity to reduce overall emissions in Ontario;
+
 (b) to encourage electricity conservation and the efficient use of electricity in a manner consistent with the policies of the Government of Ontario;
+
 (c) to facilitate load management in a manner consistent with the policies of the Government of Ontario;
+
 (d) to promote the use of cleaner energy sources and technologies, including alternative energy sources and renewable energy sources, in a manner consistent with the policies of the Government of Ontario;
+
 (d.1) to facilitate the development of a hydrogen market and economy in Ontario in order to support potential uses and applications of low-carbon hydrogen, including for purposes directly or indirectly connected to the electricity system or electricity sector, in a manner consistent with the policies of the Government of Ontario;
+
 (e) subject to section 28.1, to provide generators, retailers, market participants and consumers with non-discriminatory access to transmission and distribution systems in Ontario;
+
 (f) to protect the interests of consumers with respect to prices and the adequacy, reliability and quality of electricity service;
+
 (g) to promote economic efficiency and sustainability in the generation, transmission, distribution and sale of electricity;
+
 (g.1) to facilitate the alteration of ownership structures of publicly-owned corporations that transmit, distribute or retail electricity;
+
 (g.2) to facilitate the disposition, in whole or in part, of the Crown’s interest in corporations that transmit, distribute or retail electricity, and to make the proceeds of any such disposition available to be appropriated for any Government of Ontario purpose;
+
 (h) to ensure that Ontario Hydro’s debt is repaid in a prudent manner and that the burden of debt repayment is fairly distributed;
+
 (i) to facilitate the maintenance of a financially viable electricity industry; and
+
 (j) to protect corridor land so that it remains available for uses that benefit the public, while recognizing the primacy of transmission uses.
 
 ### Interpretation
 
 2 (1) In this Act,
+
 “affiliate”, with respect to a corporation, has the same meaning as in the Business Corporations Act; (“membre du même groupe”)
+
 “alternative energy source” means a source of energy,
+
 (a) that is prescribed by the regulations or that satisfies criteria prescribed by the regulations, and
+
 (b) that can be used to generate electricity through a process that is cleaner than certain other generation technologies in use in Ontario before June 1, 2004; (“source d’énergie de remplacement”)
+
 “ancillary services” means services necessary to maintain the reliability of the IESO-controlled grid, including frequency control, voltage control, reactive power and operating reserve services; (“services accessoires”)
+
 “Board” means the Ontario Energy Board; (“Commission”)
+
 “charges” means, with respect to the IESO, amounts charged by the IESO, or by a predecessor within the meaning of section 4, to recover amounts paid or payable by the IESO or the predecessor to another person with respect to electricity; (“frais”)
+
 “consumer” means a person who uses, for the person’s own consumption, electricity that the person did not generate; (“consommateur”)
+
 “corridor land” means the real property transferred to Her Majesty in right of Ontario by section 114.2; (“biens-fonds réservés aux couloirs”)
+
 “distribute”, with respect to electricity, means to convey electricity at voltages of 50 kilovolts or less; (“distribuer”)
+
 “distribution system” means a system for distributing electricity, and includes any structures, equipment or other things used for that purpose; (“réseau de distribution”)
+
 “distributor” means a person who owns or operates a distribution system; (“distributeur”)
+
 “Electrical Safety Authority” means the person or body designated by the regulations as the Electrical Safety Authority; (“Office de la sécurité des installations électriques”)
+
 “fees” means, with respect to the IESO, amounts charged by the IESO, or by a predecessor within the meaning of section 4, to recover its costs of operations; (“droits”)
+
 “Financial Corporation” means Ontario Hydro Financial Corporation, as continued under Part V; (“Société financière”)
+
 “generate”, with respect to electricity, means to produce electricity or provide ancillary services, other than ancillary services provided by a transmitter or distributor through the operation of a transmission or distribution system; (“produire”)
+
 “generation facility” means a facility for generating electricity or providing ancillary services, other than ancillary services provided by a transmitter or distributor through the operation of a transmission or distribution system, and includes any structures, equipment or other things used for that purpose; (“installation de production”)
+
 “generator” means a person who owns or operates a generation facility; (“producteur”)
+
 “Governance and Structure By-law” means the by-law maintained under subsection 22 (2); (“règlement de régie”)
+
 “Hydro One Inc.” means the corporation incorporated as Ontario Hydro Services Company Inc. under the Business Corporations Act on December 1, 1998; (“Hydro One Inc.”)
+
 “IESO” means the Independent Electricity System Operator continued under Part II; (“SIERE”)
+
 “IESO-administered markets” means the markets established by the market rules; (“marchés administrés par la SIERE”)
+
 “IESO-controlled grid” means the transmission systems with respect to which, pursuant to agreements, the IESO has authority to direct operations; (“réseau dirigé par la SIERE”)
+
 “integrated power system” means the IESO-controlled grid and the structures, equipment and other things that connect the IESO-controlled grid with transmission systems and distribution systems in Ontario and transmission systems outside Ontario; (“réseau d’électricité intégré”)
+
 “licence” means a licence issued under Part V of the Ontario Energy Board Act, 1998; (“permis”)
+
 “market participant” means a person who is authorized by the market rules to participate in the IESO-administered markets or to cause or permit electricity to be conveyed into, through or out of the IESO-controlled grid; (“intervenant du marché”)
+
 “market rules” means the rules made under section 32; (“règles du marché”)
+
 “Market Surveillance Panel” means the Market Surveillance Panel continued under Part II of the Ontario Energy Board Act, 1998; (“comité de surveillance du marché”)
+
 “Minister” means the Minister of Energy or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “Ontario Power Generation Inc.” means the corporation incorporated as Ontario Power Generation Inc. under the Business Corporations Act on December 1, 1998; (“Ontario Power Generation Inc.”)
+
 “procurement contract” means a contract entered into by the IESO under section 25.32; (“contrat d’acquisition”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “reliability standard” means a standard or criterion, including an amendment to a standard or criterion, relating to the reliable operation of the integrated power system that is approved by a standards authority; (“norme de fiabilité”)
+
 “renewable energy generation facility” means a generation facility that generates electricity from a renewable energy source and that meets such criteria as may be prescribed by regulation and includes associated or ancillary equipment, systems and technologies as may be prescribed by regulation, but does not include an associated waste disposal site, unless the site is prescribed by regulation for the purposes of this definition; (“installation de production d’énergie renouvelable”)
+
 “renewable energy project” means the construction, installation, use, operation, changing or retiring of a renewable energy generation facility; (“projet d’énergie renouvelable”)
+
 “renewable energy source” means an energy source that is renewed by natural processes and includes wind, water, biomass, biogas, biofuel, solar energy, geothermal energy, tidal forces and such other energy sources as may be prescribed by the regulations, but only if the energy source satisfies such criteria as may be prescribed by the regulations for that energy source; (“source d’énergie renouvelable”)
+
 “renewable energy testing facility” means devices or structures to be used to gather information about natural conditions at the location of the structures or devices and related infrastructure and that meet such criteria as may be prescribed by the regulations; (“installation d’évaluation du potentiel en énergie renouvelable”)
+
 “renewable energy testing project” means the construction, installation, use, operation, changing or retiring of a renewable energy testing facility; (“projet d’évaluation du potentiel en énergie renouvelable”)
+
 “retail”, with respect to electricity, means,
+
 (a) to sell or offer to sell electricity to a consumer,
+
 (b) to act as agent or broker for a retailer with respect to the sale or offering for sale of electricity, or
+
 (c) to act or offer to act as an agent or broker for a consumer with respect to the sale or offering for sale of electricity; (“vendre au détail”)
+
 “retailer” means a person who retails electricity; (“détaillant”)
+
 “security” has the meaning assigned by the Securities Act; (“valeur mobilière”)
+
 “service area”, with respect to a distributor, means the area in which the distributor is authorized by its licence to distribute electricity; (“secteur de service”)
+
 “smart grid” means the advanced information exchange systems and equipment described in subsection (1.3); (“réseau intelligent”)
+
 “smart metering data” means data derived from smart meters, including data related to the consumers’ consumption of electricity; (“données des compteurs intelligents”)
+
 “Smart Metering Entity” means the corporation incorporated, the limited partnership or the partnership formed or the entity designated pursuant to section 53.7 to accomplish the government’s smart metering initiative; (“Entité responsable des compteurs intelligents”)
+
 “smart metering initiative” means those policies of the Government of Ontario related to its decision to ensure Ontario electricity consumers are provided, over time, with smart meters; (“initiative des compteurs intelligents”)
+
 “standards authority” means the North American Electric Reliability Corporation or any successor thereof, or any other agency or body designated by regulation that approves standards or criteria applicable both in and outside Ontario relating to the reliability of transmission systems; (“organisme de normalisation”)
+
 “subsidiary”, with respect to a corporation, has the same meaning as in the Business Corporations Act; (“filiale”)
+
 “suite meter” has the same meaning as in Part III of the Energy Consumer Protection Act, 2010; (“compteur individuel”)
+
 “suite metering” has the same meaning as in Part III of the Energy Consumer Protection Act, 2010; (“activités liées aux compteurs individuels”)
+
 “suite meter provider” has the same meaning as in Part III of the Energy Consumer Protection Act, 2010; (“fournisseur de compteurs individuels”)
+
 “transmission system” means a system for transmitting electricity, and includes any structures, equipment or other things used for that purpose; (“réseau de transport”)
+
 “transmit”, with respect to electricity, means to convey electricity at voltages of more than 50 kilovolts; (“transporter”)
+
 “transmitter” means a person who owns or operates a transmission system; (“transporteur”)
+
 “voting security” has the same meaning as in the Business Corporations Act; (“valeur mobilière avec droit de vote”)
+
 “waste disposal site” has the same meaning as in section 25 of the Environmental Protection Act. (“lieu d’élimination des déchets”)
 
 ### Alternative energy source, exception
@@ -112,15 +187,21 @@ S.O. 1998, c. 15, Sched. A
 ### Smart grid
 
 (1.3) For the purposes of this Act, the smart grid means the advanced information exchange systems and equipment that when utilized together improve the flexibility, security, reliability, efficiency and safety of the integrated power system and distribution systems, particularly for the purposes of,
+
 (a) enabling the increased use of renewable energy sources and technology, including generation facilities connected to the distribution system;
+
 (b) expanding opportunities to provide demand response, price information and load control to electricity customers;
+
 (c) accommodating the use of emerging, innovative and energy-saving technologies and system control applications; or
+
 (d) supporting other objectives that may be prescribed by regulation.
 
 ### Procurement contracts, transition
 
 (1.5) For the purposes of this Act, a procurement contract is deemed to include,
+
 (a) a contract entered into or assumed, pursuant to section 25.32, before the day section 7 of Schedule 2 to the Energy Statute Law Amendment Act, 2016 comes into force; and
+
 (b) a contract entered into, pursuant to section 25.35, before its repeal by section 8 of Schedule 2 to the Energy Statute Law Amendment Act, 2016.
 
 ### Procurement contracts, exceptions
@@ -150,9 +231,13 @@ S.O. 1998, c. 15, Sched. A
 ### References to Independent Electricity Market Operator
 
 (7) A reference in a statement mentioned in section 124 or in a regulation, order or rule made under this or any other Act,
+
 (a) to the Independent Electricity Market Operator shall be deemed to be a reference to the Independent Electricity System Operator, unless the context requires otherwise, and to the IMO shall be deemed to be a reference to the IESO, unless the context requires otherwise;
+
 (b) to the IMO-administered markets shall be deemed to be a reference to the IESO-administered markets;
+
 (c) to the IMO-controlled grid shall be deemed to be a reference to the IESO-controlled grid; and
+
 (d) to the Ontario Power Authority or the OPA is deemed to be a reference to the Independent Electricity System Operator as continued under this Act unless the context requires otherwise.
 
 ### Corporations Tax Act references
@@ -178,16 +263,23 @@ S.O. 1998, c. 15, Sched. A
 ### Extinguishment of certain causes of action re procurement restrictions
 
 3.2 (1) No cause of action arises against the Crown, any current or former member of the Executive Council or employee, officer or agent of or adviser to the Crown, the IESO, or any current or former director, officer, employee or agent of or adviser to the IESO, as a direct or indirect result of,
+
 (a) the enactment of the amendments made to this Act by Schedule 1 to the Protect Ontario by Unleashing our Economy Act, 2025, or the amendment or repeal of any provision added to this Act by that Schedule;
+
 (b) the issuance, amendment or revocation of any provision of a directive under subsection 25.32 (5) that includes a requirement described in subsection 25.32 (6.1);
+
 (c) the making, amendment or revocation of any provision of a regulation for the purposes of subsection 25.32 (12) or section 25.32.1; or
+
 (d) anything done or not done in accordance with the provisions added to this Act by Schedule 1 to the Protect Ontario by Unleashing our Economy Act, 2025, a directive referred to in clause (b) or a regulation referred to in clause (c).
 
 ### Same
 
 (2) No cause of action arises against the Crown, any current or former member of the Executive Council or employee, officer or agent of or adviser to the Crown, Ontario Power Generation Inc., or any current or former director, officer, employee or agent of or adviser to Ontario Power Generation Inc., as a direct or indirect result of,
+
 (a) the enactment of the amendments made to this Act by Schedule 1 to the Protect Ontario by Unleashing our Economy Act, 2025, or the amendment or repeal of any provision added to this Act by that Schedule;
+
 (b) the making, amendment or revocation of any provision of a regulation for the purposes of section 53.6.1; or
+
 (c) anything done or not done in accordance with the provisions added to this Act by Schedule 1 to the Protect Ontario by Unleashing our Economy Act, 2025 or a regulation referred to in clause (b).
 
 ### No remedy
@@ -219,9 +311,13 @@ S.O. 1998, c. 15, Sched. A
 ### Definitions
 
 4 In this Part,
+
 “Independent Electricity System Operator” means, unless the context requires otherwise, the corporation continued under subsection 5 (1); (“Société indépendante d’exploitation du réseau d’électricité”)
+
 “Ontario Power Authority” means the corporation established under subsection 25.1 (1) as that subsection read immediately before subsection 3 (1) of Schedule 7 to the Building Opportunity and Securing Our Future Act (Budget Measures), 2014 comes into force and “OPA” has a corresponding meaning; (“Office de l’électricité de l’Ontario”, “OEO”)
+
 “predecessor” means either the predecessor Independent Electricity System Operator or the Ontario Power Authority; (“entité remplacée”)
+
 “predecessor Independent Electricity System Operator” means the Independent Electricity System Operator as the corporation was continued under subsection 4 (1) as that subsection read immediately before subsection 3 (1) of Schedule 7 to the Building Opportunity and Securing Our Future Act (Budget Measures), 2014 comes into force. (“ancienne Société indépendante d’exploitation du réseau d’électricité”)
 
 ### Amalgamation of IESO and OPA
@@ -239,13 +335,17 @@ S.O. 1998, c. 15, Sched. A
 ### Separation of functions
 
 (4) The board of directors shall take such steps as it considers advisable and appropriate to ensure that there is an effective separation of functions and activities of the IESO relating to,
+
 (a) its market operations; and
+
 (b) its procurement and contract management activities.
 
 ### Prohibition
 
 (5) The IESO shall not conduct the operations of the IESO-administered markets in any manner that,
+
 (a) unjustly advantages or disadvantages any market participant or class of market participants; or
+
 (b) is inconsistent with this Act.
 
 ### Transmission-related information
@@ -259,30 +359,55 @@ S.O. 1998, c. 15, Sched. A
 ### Objects
 
 6 (1) The objects of the IESO are,
+
 (a) to exercise the powers and perform the duties assigned to it under this Act, the regulations, directions, the market rules and its licence;
+
 (b) to enter into agreements with transmitters to give it authority to direct the operation of their transmission systems;
+
 (c) to direct the operation and maintain the reliability of the IESO-controlled grid to promote the purposes of this Act;
+
 (d) to participate in the development by any standards authority of criteria and standards relating to the reliability of the integrated power system;
+
 (e) to establish and enforce criteria and standards relating to the reliability of the integrated power system;
+
 (f) to work with the responsible authorities outside of Ontario to co-ordinate the IESO’s activities with the activities of those authorities;
+
 (g) to operate the IESO-administered markets to promote the purposes of this Act;
+
 (h) to engage in activities related to contracting for the procurement of electricity supply, electricity capacity, electricity storage, transmission systems or any part of such systems and conservation resources;
+
 (i) to engage in activities related to settlements, payments under a contract entered into under the authority of this Act and payments provided for under this Act or the Ontario Energy Board Act, 1998;
+
 (j) to engage in activities in support of the goal of ensuring adequate, reliable and secure electricity supply and resources in Ontario;
+
 (k) to forecast electricity demand and the adequacy and reliability of electricity resources for Ontario for the short term, medium term and long term;
+
 (l) to conduct independent planning for electricity generation, demand management, conservation and transmission;
+
 (l.1) to support economic growth in a manner that protects the interests of consumers;
+
 (m) to engage in activities to facilitate the diversification of sources of electricity supply by promoting the use of cleaner energy sources and technologies, including alternative energy sources and renewable energy sources;
+
 (n) to engage in activities in support of system-wide goals for the amount of electricity to be produced from different energy sources;
+
 (o) to engage in activities that facilitate load management;
+
 (p) to engage in activities that promote electricity conservation and the efficient use of electricity;
+
 (p.1) to engage in activities that promote electrification and facilitate energy efficiency measures aimed at using electricity to reduce overall emissions in Ontario;
+
 (q) to assist the Board by facilitating stability in rates for certain types of consumers;
+
 (q.1) to exercise the powers and rights and to perform the duties and obligations assigned to it under the Ontario Fair Hydro Plan Act, 2017 and to engage in activities to facilitate the implementation of the Ontario Fair Hydro Plan Act, 2017, including,
+
 (i) entering into agreements or arrangements with any person for the purposes of the Ontario Fair Hydro Plan Act, 2017,
+
 (ii) engaging in activities related to making payments to and receiving payments as contemplated under the Ontario Fair Hydro Plan Act, 2017 and related settlement activities;
+
 (iii) Repealed: 2019, c. 6, Sched. 3, s. 11 (1).
+
 (r) to collect and make public information relating to the short term, medium term and long term electricity needs of Ontario and the adequacy and reliability of the integrated power system to meet those needs; and
+
 (s) to engage in such other objects as may be prescribed by the regulations.
 
 ### Not for profit
@@ -320,25 +445,37 @@ S.O. 1998, c. 15, Sched. A
 ### Limitations, rules, manuals, etc.
 
 (4) The IESO’s obligation to make information available in French does not apply to the following:
+
 1. Rules, manuals, standards, procedures or communications relating to the operation of the IESO-administered markets or the IESO-controlled grid.
+
 2. Rules, contracts or other program information related to the procurement of,
+
 i. electricity supply, capacity or storage,
+
 ii. changes in electricity demand,
+
 iii. measures related to the conservation of electricity,
+
 iv. the management of electricity demand, or
+
 v. transmission systems or any part of such systems.
+
 3. Registry rules made under Part II.1.
 
 ### Application to microFIT program, etc.
 
 (5) The exception in paragraph 2 of subsection (4) does not apply to information with respect to,
+
 (a) the microFIT Program; and
+
 (b) the rights and obligations of low-volume consumers under a conservation or demand management program.
 
 ### Definitions
 
 (6) In this section,
+
 “low-volume consumer” has the same meaning as in section 56 of the Ontario Energy Board Act, 1998, as the definition reads on the day subsection 3 (1) of Schedule 7 to the Building Opportunity and Securing Our Future Act (Budget Measures), 2014 comes into force; (“petit consommateur”)
+
 “microFIT Program” means the micro Feed-in Tariff Program that is continued under subsection 25.32 (10) and that permits certain consumers of electricity to develop very small renewable energy projects. (“Programme de TRG pour les micro-projets”)
 
 ### Board of directors
@@ -348,7 +485,9 @@ v. transmission systems or any part of such systems.
 ### Composition
 
 (2) The board of directors shall be composed of,
+
 (a) the chief executive officer of the IESO; and
+
 (b) at least eight and not more than 10 additional individuals appointed by the Minister.
 
 ### Directors to be independent
@@ -386,12 +525,15 @@ v. transmission systems or any part of such systems.
 ### Director’s duties
 
 12 Every director of the IESO shall, in exercising and performing his or her powers and duties as a director,
+
 (a) act honestly and in good faith in the best interests of the IESO; and
+
 (b) exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances.
 
 ### Conflict of interest
 
 13 The directors, officers, employees and agents of the IESO shall comply with any provisions relating to conflict of interest contained in the Governance and Structure By-law or any procedures, rules or codes established pursuant to the By-law.
+
 13.1-13.2 Repealed: 2014, c. 7, Sched. 7, s. 3 (1).
 
 ### Board may establish policies, rules, etc.
@@ -401,12 +543,15 @@ v. transmission systems or any part of such systems.
 ### Conflict
 
 (2) Any provision of a policy, rule, guideline or code that conflicts with this Act, the regulations or the IESO’s by-laws is void.
+
 14.1 Repealed: 2014, c. 7, Sched. 7, s. 3 (1).
 
 ### Delegation of board’s powers
 
 15 (1) The board of directors may, in accordance with the Governance and Structure By-law,
+
 (a) delegate any of its powers or duties to a committee of the board or a panel established by the board or to one or more directors; and
+
 (b) delegate any of its powers to manage the business and affairs of the IESO to one or more officers of the IESO.
 
 ### Terms, conditions and restrictions
@@ -432,7 +577,9 @@ v. transmission systems or any part of such systems.
 ### Staff and assistance re panels
 
 17 Subject to the by-laws of the IESO, a panel established by the board of directors may use the services of,
+
 (a) the IESO’s employees, with the consent of the IESO; and
+
 (b) persons other than the IESO’s employees who have technical or professional expertise that is considered necessary.
 
 ### Stakeholder input
@@ -450,6 +597,7 @@ v. transmission systems or any part of such systems.
 ### Same
 
 (2) Subsection (1) does not relieve the IESO of any liability to which it would otherwise be subject in respect of a cause of action arising from any act, neglect or default referred to in subsection (1).
+
 19.1 Repealed: 2014, c. 7, Sched. 7, s. 3 (1).
 
 ### Confidential information relating to market participants
@@ -459,7 +607,9 @@ v. transmission systems or any part of such systems.
 ### Definition
 
 (2) In this section,
+
 “head” means the person designated as the head of the IESO in the regulations made under the Freedom of Information and Protection of Privacy Act.
+
 20.1 Repealed: 2014, c. 7, Sched. 7, s. 3 (1).
 
 ### Liability of directors under the Employment Standards Act, 2000
@@ -473,12 +623,19 @@ v. transmission systems or any part of such systems.
 ### Governance and Structure By-law
 
 (2) The board of directors shall ensure that it maintains a by-law dealing with matters of corporate governance and structure, including,
+
 (a) the appointment of the chief executive officer of the IESO;
+
 (b) the circumstances in which a director ceases to hold office;
+
 (c) the remuneration and benefits of the chair and the other members of the board;
+
 (d) conflict of interest;
+
 (e) the delegation of the IESO’s powers and duties;
+
 (f) the establishment, composition and functions of panels;
+
 (g) such other matters as are prescribed by regulation or as are appropriate to the governance and structure of the corporation.
 
 ### Amendment or repeal of Governance and Structure By-law
@@ -496,7 +653,9 @@ v. transmission systems or any part of such systems.
 ### Same
 
 (6) Subject to subsections (4) and (7), a by-law to which subsection (3) applies comes into force on the earlier of the following dates:
+
 1. The expiry of the 60-day period referred to in subsection (4).
+
 2. The day on which the Minister notifies the board of directors in writing that he or she will not disallow the by-law.
 
 ### Same
@@ -522,10 +681,15 @@ v. transmission systems or any part of such systems.
 ### Delegation
 
 (3) In an order under subsection (1), the Lieutenant Governor in Council may delegate any or all of the powers of the Minister of Finance under this section to,
+
 (a) a public servant employed under Part III of the Public Service of Ontario Act, 2006 who works in the Ministry of Finance, other than in the office of the Minister of Finance;
+
 (b) the chief executive officer of the Ontario Financing Authority;
+
 (c) a public servant employed under Part III of the Public Service of Ontario Act, 2006 who works in the Ontario Financing Authority;
+
 (d) a solicitor engaged to act for the Minister of Finance; or
+
 (e) a solicitor engaged to act for the Ontario Financing Authority.
 
 ### Fees payable to Minister of Finance
@@ -571,7 +735,9 @@ v. transmission systems or any part of such systems.
 ### Changes in fees
 
 (6) The IESO shall not, without the approval of the Board,
+
 (a) establish, eliminate or change any fees it has established; or
+
 (b) eliminate or change any fees established by a predecessor that remain in effect.
 
 ### Hearing
@@ -593,8 +759,11 @@ v. transmission systems or any part of such systems.
 ### Fees
 
 25.1 (1) The IESO may establish and charge fees to recover,
+
 (a) the costs of anything done in connection with the IESO-controlled grid or the IESO-administered markets;
+
 (b) the costs of doing anything the IESO is required or permitted to do under this or any other Act; and
+
 (c) any other type of expenditure the recovery of which is permitted by the regulations, subject to any limitations and restrictions set out in the regulations.
 
 ### May recover costs of procurement contracts
@@ -662,29 +831,45 @@ v. transmission systems or any part of such systems.
 ### Transition, corporate matters
 
 25.8 (1) The following occur when subsection 3 (1) of Schedule 7 to the Building Opportunity and Securing Our Future Act (Budget Measures), 2014 comes into force:
+
 1. The predecessor Independent Electricity System Operator and the Ontario Power Authority cease to exist as entities separate from the IESO.
+
 2. All rights, property and assets that belong to the predecessor Independent Electricity System Operator and the Ontario Power Authority immediately before the subsection comes into force become the rights, property and assets of the IESO.
+
 3. All outstanding debts, liabilities and obligations of the predecessor Independent Electricity System Operator and the Ontario Power Authority immediately before the subsection comes into force become the debts, liabilities and obligations of the IESO.
+
 4. The members of the boards of directors of the predecessor Independent Electricity System Operator and the Ontario Power Authority holding office immediately before the subsection comes into force cease to be members of their respective board of directors when the subsection comes into force, but nothing in this paragraph prevents them from being appointed to the board of directors of the IESO.
+
 5. An individual who ceases to hold office as director by reason of paragraph 4 has no right of recourse against the Crown or any person.
+
 6. The by-laws of the predecessor Independent Electricity System Operator in effect immediately before the subsection comes into force become the by-laws of the IESO.
+
 7. Any licence issued by the Board to the predecessor Independent Electricity System Operator or the Ontario Power Authority in effect immediately before the subsection comes into force is deemed to be a licence issued by the Board to the IESO and remains in effect until amended or revoked.
+
 8. An agreement, security, licence, approval, permit or other instrument to which the predecessor Independent Electricity System Operator or the Ontario Power Authority is a party immediately before the subsection comes into force has effect after the subsection comes into force as if,
+
 i. the IESO were substituted for the predecessor Independent Electricity System Operator or the Ontario Power Authority, as the case requires, as a party to the agreement, security, licence, approval, permit or other instrument, and
+
 ii. any reference in the agreement, security, licence, approval, permit or other instrument to the predecessor Independent Electricity System Operator or the Ontario Power Authority were a reference to the IESO.
+
 9. The IESO is a party to each on-going proceeding to which the predecessor Independent Electricity System Operator or the Ontario Power Authority is a party immediately before the subsection comes into force, replacing the predecessor Independent Electricity System Operator or the Ontario Power Authority, as the case may be.
+
 10. Any direction issued by the Minister under section 25.32 or 25.35, as those provisions read immediately before the subsection comes into force, remains in full force and in effect in respect of the IESO.
 
 ### Same, par. 3 of subs. (1)
 
 (2) The operation of paragraph 3 of subsection (1),
+
 (a) does not constitute a breach, termination or repudiation of the debt, liability or obligation or the frustration of any agreement related to the debt, liability or obligation or an event of default or force majeure; and
+
 (b) does not constitute or give rise to any estoppel or any right to terminate or repudiate an agreement related to the debt, liability or obligation.
 
 ### Same, par. 8 of subs. (1)
 
 (3) The operation of paragraph 8 of subsection (1),
+
 (a) does not constitute a breach, termination or repudiation of the agreement, security, licence, approval, permit or other instrument or the frustration of the agreement or an event of default or force majeure; and
+
 (b) does not constitute or give rise to any estoppel or any right to terminate or repudiate an agreement, security, licence, approval, permit or other instrument.
 
 ### Same, references
@@ -732,22 +917,35 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Interpretation
 
 25.11 In this Part,
+
 “clean energy credit” means environmental attributes associated with the generation of one megawatt-hour of electricity that are recognized in the clean energy credit registry as a clean energy credit, following the submission of information to the registry in accordance with section 25.15; (“crédit pour l’énergie propre”)
+
 “clean energy credit registry” means the registry established or designated, as the case may be, under section 25.22; (“registre des crédits pour l’énergie propre”)
+
 “environmental attributes” means attributes or characteristics relating to the environmental benefits associated with electricity generated in Ontario from an energy source specified by the regulations, that,
+
 (a) unless otherwise specified by the regulations, are subject to transfer on their own without the electricity to which they are associated, and
+
 (b) meet any requirements specified by the regulations; (“attributs environnementaux”)
+
 “registry rules” means the rules made under section 25.23; (“règles du registre”)
+
 “regulations” means the regulations made under this Part, despite the definition of “regulations” in subsection 2 (1); (“règlements”)
+
 “transfer” includes a transfer of ownership, with or without consideration; (“transfert”)
+
 “transferee” means a person or entity who intends to purchase or acquire a clean energy credit; (“destinataire du transfert”)
+
 “transferor” means a person or entity that makes environmental attributes available for transfer. (“auteur du transfert”)
 
 ### Requirement to make environmental attributes available for transfer
 
 25.12 The following persons and entities shall make such environmental attributes as are specified by the regulations available for transfer in the time and manner specified by the regulations:
+
 1. The IESO.
+
 2. Ontario Power Generation Inc.
+
 3. Any generator or other person or entity specified by the regulations.
 
 ### Restrictions on making environmental attributes available for transfer
@@ -783,12 +981,19 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Restrictions on transfer
 
 25.16 (1) A transferor shall not transfer environmental attributes unless,
+
 (a) the environmental attributes are recognized in the clean energy credit registry as a clean energy credit, following the submission of information to the registry in accordance with section 25.15; and
+
 (b) the following conditions are met:
+
 (i) the environmental attributes associated with the clean energy credit were generated within the period specified by the regulations,
+
 (ii) the clean energy credit is to be transferred to a transferee who has an account with the IESO or a distributor with respect to the transferee’s consumption of electricity, and who meets any other requirements specified by the regulations,
+
 (iii) the clean energy credit is to be credited against electricity that was consumed by the transferee in Ontario within the period specified by the regulations,
+
 (iv) the clean energy credit has not been previously transferred or retired, and
+
 (v) any other conditions provided for by the regulations.
 
 ### Same
@@ -838,10 +1043,15 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Registry
 
 25.22 (1) The IESO shall, in accordance with the regulations if any, establish and maintain or designate a registry for the purposes of this Part that meets any requirements specified by the regulations and that is capable of,
+
 (a) accepting and displaying the registration of transferors and transferees;
+
 (b) accepting and displaying information respecting environmental attributes, and recognizing environmental attributes as clean energy credits;
+
 (c) accepting and displaying information respecting the transfer of clean energy credits, including information respecting the credits that are available for transfer;
+
 (d) accepting and displaying information respecting the retirement of clean energy credits; and
+
 (e) any other function specified by the regulations.
 
 ### Direction re registry
@@ -855,10 +1065,15 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Registry rules
 
 25.23 (1) The IESO may, subject to any regulations made under clause 25.25 (1) (b), make rules,
+
 (a) governing the operation of any clean energy credit registry established by the IESO;
+
 (b) governing the participation of transferors and transferees in the clean energy credit registry for the purposes of this Part, including requiring the submission of specified information to the registry and specifying the time and manner of meeting the requirements;
+
 (c) requiring the payment of fees connected to the use of the clean energy credit registry, specifying their amounts, and specifying the time and manner of making the payments;
+
 (d) governing any other matter required or permitted in this Part or the regulations made under subsection 25.25 (1) to be provided for by the registry rules; and
+
 (e) respecting any matter that the IESO considers necessary or advisable in connection with the clean energy credit registry.
 
 ### Subdelegation
@@ -880,8 +1095,11 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Reporting requirements
 
 25.24 (1) The IESO shall, within the time specified by the regulations after the end of every calendar year, submit to the Minister a report that contains the following information respecting that year:
+
 1. The total volume of electricity generated in the year by all generators directly connected to the IESO-controlled grid or a distributor’s distribution system, broken down by energy source.
+
 2. The total number of clean energy credits transferred in the year in accordance with section 25.16, broken down by energy source.
+
 3. Any other information specified by the regulations.
 
 ### Publication
@@ -897,11 +1115,17 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Minister
 
 25.25 (1) The Minister may make regulations,
+
 (a) governing any matter required or permitted in this Part to be provided for by the regulations, other than in subsection (7);
+
 (b) governing the making of the registry rules, including specifying timing, criteria or methodology that must be included in or applied under the registry rules or specifying any other matters that must be included in the registry rules;
+
 (c) exempting any person or entity from subclause 25.16 (1) (b) (i), (iv) or (v), subject to such conditions or restrictions as may be specified by the regulations;
+
 (d) specifying or providing for methods for determining amounts that constitute all or any part of IESO’s proceeds from the transfer of its clean energy credits for the purposes of clauses 25.33 (1) (c) and (2) (c);
+
 (e) defining, for the purposes of this Part, any word or expression used in this Part that is not defined in this Act or by regulations made under clause 114 (1) (n);
+
 (f) respecting any other matter that the Minister considers necessary or advisable in connection with this Part.
 
 ### Same
@@ -911,7 +1135,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Same
 
 (3) Regulations made for the purposes of subsection 25.19 (1),
+
 (a) may require the IESO to transfer proceed amounts specified by or determined in accordance with the regulations to the Crown or any other person or entity; and
+
 (b) shall not include any amounts specified or provided for under clause (1) (d).
 
 ### Same
@@ -933,6 +1159,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### General or particular
 
 (8) A regulation made under this section may be general or particular in its application.
+
 25.26-25.28 Repealed: 2014, c. 7, Sched. 7, s. 3 (1).
 
 ## Part II.2 Planning, Procurement and Pricing
@@ -944,15 +1171,25 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Same
 
 (2) For the purposes of subsection (1), an integrated energy plan may include goals and objectives respecting,
+
 (a) the affordability of energy for consumers and the cost-effectiveness of planned energy resources;
+
 (b) the availability and reliability of the supply, transmission or distribution of energy to consumers;
+
 (c) the enhancement and expansion of energy infrastructure and resources to support economic growth and trade;
+
 (d) the role of electricity, natural gas, hydrogen and other energy resources, as well as energy efficiency, storage and demand management, in building a clean energy economy;
+
 (e) the prioritization of nuclear power generation to meet future increases in the demand for electricity in a manner that is consistent with the policies of the Government of Ontario;
+
 (f) the modernization of energy infrastructure systems and promotion of innovations that benefit consumers;
+
 (g) the cost-effective procurement of electricity resources;
+
 (h) the advancement of reconciliation with Indigenous communities, including early engagement in project planning, consultation and support for Indigenous leadership and participation in the energy sector;
+
 (i) the engagement of interested persons, groups and communities in the energy sector; and
+
 (j) any other related matter the Minister determines should be addressed.
 
 ### Consultation required
@@ -992,6 +1229,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### To the Board
 
 (2) The Minister may, subject to the approval of the Lieutenant Governor in Council, issue a directive to the Board that sets out the Government of Ontario’s requirements respecting the implementation of the integrated energy plan in respect of matters falling within the Board’s jurisdiction.
+
 25.31 Repealed: 2024, c. 26, Sched. 1, s. 3.
 
 ### Procurement contracts
@@ -1001,10 +1239,15 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Entering into contracts
 
 (2) The IESO shall, if required to do so under a directive issued under subsection (5) or a direction continued under subsection (9) or (10), as amended, enter into contracts for the procurement of,
+
 (a) electricity supply, capacity or storage;
+
 (b) changes in electricity demand;
+
 (c) measures related to the conservation of electricity or the management of electricity demand;
+
 (d) transmission systems or any part of such systems, including the development of all or part of such systems; or
+
 (e) measures aimed at promoting electrification or using electricity to reduce overall emissions in Ontario.
 
 ### Transmitters
@@ -1026,7 +1269,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Directive may specify requirements, restrictions re origin
 
 (6.1) Without limiting the generality of subsection (5), a directive issued under that subsection may specify requirements or restrictions relating to the country, region or territory of origin, as determined in the directive, of,
+
 (a) any good or service used in connection with the matter listed in subsection (2) to which the directive relates; or
+
 (b) any person or entity that is, or that beneficially owns or controls, a potential participant in the request for proposal, other form of procurement solicitation or other initiative or activity to which the directive relates.
 
 ### Directions re consultation
@@ -1052,13 +1297,17 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Prescribed restrictions
 
 (12) The IESO shall not enter into a procurement contract respecting a matter listed in subsection (2) in the circumstances prescribed by the regulations, which may, without limitation, include circumstances relating to the country, region or territory of origin, as determined in the regulations, of,
+
 (a) any good or service used in connection with the matter listed in subsection (2) to which the regulation relates; or
+
 (b) any person or entity that is, or that beneficially owns or controls, a potential party to a procurement contract respecting the matter listed in subsection (2) to which the regulation relates.
 
 ### Application
 
 (13) Subsection (12) applies with respect to a procurement only if, on the day a regulation made for the purposes of that subsection begins to apply,
+
 (a) the final version of the request for proposal or any other document that would give rise to the procurement has not yet been issued, in the case of a competitive procurement; or
+
 (b) in the case of a procurement that is not a competitive procurement, the parties have not entered into a final contract in respect of the procurement.
 
 ### Conflict with directive
@@ -1072,37 +1321,57 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Determination of country, region or territory of origin
 
 (16) For the purposes of subsections (6.1) and (12),
+
 (a) country, region or territory of origin of a person or entity may be determined by reference to any relevant factor including, as applicable,
+
 (i) where a person is ordinarily resident,
+
 (ii) where a head office or other office is located,
+
 (iii) jurisdiction of incorporation,
+
 (iv) the number or proportion of employees of the person or entity that are located in a country, region or territory,
+
 (v) the jurisdiction of the laws to which the person or entity is subject, or
+
 (vi) where the person or entity’s business activities, as they relate to the matter listed in subsection (2), are carried on; and
+
 (b) a directive or regulation may set out, for its own purposes, how beneficial ownership or control is to be determined.
 
 ### Other procurements
 
 25.32.1 (1) The IESO shall not procure a good or service respecting a matter that is not listed in subsection 25.32 (2) if the good or service meets the conditions prescribed by the regulations respecting,
+
 (a) its country, region or territory of origin, as determined in the regulations; or
+
 (b) the country, region or territory of origin of the person or entity that is, or that beneficially owns or controls, a supplier of the good or service, as determined in the regulations.
 
 ### Same
 
 (2) For the purposes of clause (1) (b),
+
 (a) country, region or territory of origin of a person or entity may be determined by reference to any relevant factor including, as applicable,
+
 (i) where a person is ordinarily resident,
+
 (ii) where a head office or other office is located,
+
 (iii) jurisdiction of incorporation,
+
 (iv) the number or proportion of employees of the person or entity that are located in a country, region or territory,
+
 (v) the jurisdiction of the laws to which the person or entity is subject, or
+
 (vi) where the person or entity’s business activities, as they relate to the provision of the good or service, are carried on; and
+
 (b) a regulation may set out, for its own purposes, how beneficial ownership or control is to be determined.
 
 ### Application
 
 (3) Subsection (1) applies with respect to a procurement only if, on the day a regulation made for the purposes of that subsection begins to apply,
+
 (a) the final version of the request for proposal or any other document that would give rise to the procurement has not yet been issued, in the case of a competitive procurement; or
+
 (b) in the case of a procurement that is not a competitive procurement, the parties have not entered into a final contract in respect of the procurement.
 
 ### Non-application, Discriminatory Business Practices Act
@@ -1114,34 +1383,47 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### IESO to make adjustments
 
 25.33 (1) The IESO shall, through its billing and settlement systems, make adjustments in accordance with the regulations that ensure that, over time, payments by classes of market participants in Ontario that are prescribed by regulation reflect,
+
 (a) amounts paid to generators, the Financial Corporation and distributors, whether the amounts are determined under the market rules or under section 78.1, 78.2 or 78.5 of the Ontario Energy Board Act, 1998, other than amounts funded under section 25.34;
+
 (b) amounts paid to entities with whom the IESO has or had a procurement contract, as determined under the procurement contract, other than amounts listed under subsection (2.1); and
+
 (c) the IESO clean energy credit proceed amounts determined by the regulations made by the Minister under clause 25.25 (1) (d).
 
 ### Distributors and retailers to make adjustments
 
 (2) Distributors and retailers shall, through their billing systems, make adjustments in accordance with the regulations that ensure that, over time, payments by classes of consumers in Ontario that are prescribed by regulation reflect,
+
 (a) amounts paid to generators, the Financial Corporation and distributors, whether the amounts are determined under the market rules or under section 78.1, 78.2 or 78.5 of the Ontario Energy Board Act, 1998, other than amounts funded under section 25.34;
+
 (b) amounts paid to entities with whom the IESO has or had a procurement contract, as determined under the procurement contract, other than amounts listed under subsection (2.1); and
+
 (c) the IESO clean energy credit proceed amounts determined by the regulations made by the Minister under clause 25.25 (1) (d).
 
 ### Excluded amounts
 
 (2.1) The following amounts are excluded from clauses (1) (b) and (2) (b):
+
 1. Amounts funded under section 25.34.
+
 2. Amounts paid under procurement contracts entered into under clause 25.32 (2) (d).
 
 ### Exception
 
 (3) Any adjustment that would otherwise be made under subsection (1) or (2) and that relates to electricity that is consumed by any of the following types of consumers shall instead be made in accordance with the regulations to one or more variance accounts established and maintained by the IESO:
+
 1. Repealed: 2009, c. 12, Sched. B, s. 6 (2).
+
 2. A consumer whose rates are determined by the Board under section 79.16 of the Ontario Energy Board Act, 1998.
+
 3. A consumer who is a member of a class of consumers prescribed by the regulations.
 
 ### Adjustments, payments, set-offs and credits
 
 (4) The IESO, distributors and retailers shall,
+
 (a) make such adjustments in their accounts as may be required or permitted by the regulations to record adjustments described in subsections (1), (2) and (3); and
+
 (b) make and receive such payments, set-offs and credits as may be required or permitted by the regulations with respect to consumers described in subsection (3) or as may be required by a regulation made under this Act or the Ontario Energy Board Act, 1998.
 
 ### Variance accounts
@@ -1171,8 +1453,11 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Same
 
 (2) Subsection (1) applies with respect to the following amounts:
+
 0.1 Such amounts described in clause 25.33 (1) (a) or (2) (a) as may be prescribed by the regulations.
+
 1. Subject to the regulations, amounts required to be paid by the IESO to an entity as a result of the termination, in accordance with Order in Council 1003/2018 made on July 5, 2018, of a procurement contract to which the entity was a party.
+
 2. The amounts prescribed by the regulations that are paid by the IESO to entities under such procurement contracts entered into under clause 25.32 (2) (a), (b), (c) or (e) as may be prescribed by the regulations.
 
 ### Variance accounts
@@ -1192,6 +1477,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Definition
 
 25.34.1 In this Part,
+
 “Ministry” means the ministry of the Minister.
 
 ### Permissive designation of goods, services and technologies
@@ -1213,7 +1499,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Permissive designation of renewable energy projects, etc.
 
 25.35.1 (1) The Lieutenant Governor in Council may, by regulation, designate renewable energy projects, renewable energy sources or renewable energy testing projects for the following purposes:
+
 1. To assist in the removal of barriers to and to promote opportunities for the use of renewable energy sources.
+
 2. To promote access to transmission systems and distribution systems for proponents of renewable energy projects.
 
 ### Effect of designation
@@ -1227,7 +1515,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Exception
 
 (4) Subsections (2) and (3) do not apply,
+
 (a) with respect to a restriction imposed by an Act or regulation; or
+
 (b) with respect to by-laws, instruments or other restrictions that are prescribed by regulation or classes of by-laws, instruments or other restrictions that are prescribed by regulation.
 
 ### Public agency, energy conservation and demand management plan
@@ -1235,6 +1525,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Definition
 
 25.35.2 (1) In this section and section 25.35.3,
+
 “public agency” means a ministry of the Government of Ontario or an entity, including a municipality, or class of entities that is prescribed by regulation as a public agency.
 
 ### Plan
@@ -1244,9 +1535,13 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Requirements
 
 (3) The energy conservation and demand management plan must comply with any requirements prescribed by regulation and must include the following information:
+
 1. A summary of annual energy consumption for each of the public agency’s prescribed operations.
+
 2. A description and a forecast of the expected results of current and proposed activities and measures to conserve the energy consumed by the public agency’s prescribed operations and to otherwise reduce the amount of energy consumed by the public agency, including by employing such energy conservation and demand management methods as may be prescribed.
+
 3. A summary of the progress and achievements in energy conservation and other reductions described in paragraph 2 since the previous plan.
+
 4. Such additional information as may be prescribed by regulation.
 
 ### Specified targets and standards, public agencies
@@ -1256,7 +1551,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Implementation and publication
 
 (5) The public agency shall,
+
 (a) implement the energy conservation and demand management plan and comply with any requirements prescribed by regulation respecting the implementation of the plan; and
+
 (b) publish the plan in accordance with any requirements prescribed by regulation.
 
 ### Joint plans
@@ -1270,8 +1567,11 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Prescribed person, reporting of energy consumption and water use
 
 25.35.3 (1) The Lieutenant Governor in Council may, by regulation,
+
 (a) require a person prescribed by regulation, other than a public agency, to report to the Ministry, in the manner prescribed by regulation, energy consumption, water use, ratings or other performance metrics in respect of energy consumption and water use and such additional information as may be prescribed by regulation in respect of each of the person’s properties prescribed by regulation;
+
 (b) prescribe circumstances in which the Minister may request that a person mentioned in clause (a) undertake verification, in the manner prescribed by regulation, of any information required to be reported under a regulation made under clause (a) or under a notice published under subsection (4); and
+
 (c) require a person mentioned in clause (a) to comply with a request by the Minister under clause (b).
 
 ### Manner of reporting
@@ -1297,13 +1597,17 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Same
 
 (2) A regulation under subsection (1) may require that the person,
+
 (a) prepare the plan in circumstances prescribed by regulation and in accordance with requirements prescribed by regulation; and
+
 (b) make the plan available to the public in accordance with requirements prescribed by regulation.
 
 ### Minister may publish information
 
 25.35.5 (1) Despite any other Act, the Minister may,
+
 (a) make available to the public any of the information required to be reported or submitted to the Ministry under sections 25.35.3 and 25.35.4; and
+
 (b) share any of the information required to be reported or submitted to the Ministry under sections 25.35.3 and 25.35.4 with another Ministry or agency of the Government of Ontario, or such other persons or entities as may be prescribed by regulation for the purposes of this section.
 
 ### Information supplied in confidence
@@ -1315,9 +1619,13 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Definition
 
 25.35.6 (1) In this section,
+
 “distributor” means,
+
 (a) a distributor within the meaning of section 3 of the Ontario Energy Board Act, 1998,
+
 (b) a gas distributor within the meaning of section 3 of the Ontario Energy Board Act, 1998, or
+
 (c) an owner or operator of a water works within the meaning of subsection 1 (1) of the Ontario Water Resources Act.
 
 ### Information to be provided
@@ -1333,12 +1641,15 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Definition
 
 25.35.7 (1) In this section,
+
 “prescribed appliance or product” means an appliance or product that has been prescribed by regulation.
 
 ### Appliances and products, efficiency standards
 
 (2) No person shall offer for sale, sell or lease a prescribed appliance or product unless,
+
 (a) the appliance or product meets the efficiency standard or requirement that has been prescribed by regulation with respect to the appliance or product; and
+
 (b) a label or other marking prescribed by regulation that confirms compliance with the efficiency standard or requirement that has been prescribed by regulation with respect to the appliance or product is affixed to the appliance or product or provided with the appliance or product in the manner prescribed by regulation and under the circumstances prescribed by regulation.
 
 ### Labels
@@ -1348,7 +1659,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Application of subs. (2)
 
 (4) Subsection (2) does not apply to,
+
 (a) an appliance or product that is manufactured on or before a date prescribed by regulation and that is sold or leased on or before a date prescribed by regulation; or
+
 (b) a person who is not in the business of offering for sale, selling or leasing prescribed appliances or products.
 
 ### Energy data
@@ -1356,9 +1669,13 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Definitions
 
 25.35.8 (1) In this section,
+
 “account holder” means a person or entity who has an account with an energy provider; (“détenteur de compte”)
+
 “energy” means electricity and such other types of energy prescribed by regulation for the purposes of this section; (“énergie”)
+
 “energy data” means such types or classes of data related to the consumption of energy as may be prescribed by regulation and such other data as may be prescribed by regulation; (“données énergétiques”)
+
 “energy provider” means such persons or entities prescribed by regulation for the purposes of this section. (“fournisseur d’énergie”)
 
 ### Requirement to make energy data available
@@ -1388,34 +1705,63 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Same
 
 (2) In addition to regulations mentioned in subsection (1), the Lieutenant Governor in Council may make regulations,
+
 (a) governing renewable energy testing facilities in relation to,
+
 (i) planning, design, siting, buffer zones, notification and consultation, establishment, insurance, facilities, staffing, operation, maintenance, monitoring, record-keeping and improvement, and
+
 (ii) the discontinuance of the operation of any part of the renewable energy testing facility;
+
 (b) governing the location of renewable energy testing facilities, including prohibiting or regulating the construction, installation, use, operation or changing of renewable energy testing facilities in parts of Ontario;
+
 (c) governing everything required under or provided for in or that may be prescribed under sections 25.35.2, 25.35.3 and 25.35.4, including,
+
 (i) the periods that may be covered by plans and reports required under those sections and the intervals for which the plans and reports are required,
+
 (ii) the submission of the plans, reports and other documents to the Ministry,
+
 (iii) circumstances in which two or more buildings or structures may be treated as a single property for the purposes of clause 25.35.3 (1) (a),
+
 (iv) generally governing how those sections are to be complied with;
+
 (d) governing circumstances in which two or more buildings or structures may be treated as a single property for the purposes of section 25.35.6;
+
 (e) with respect to prescribed appliances or products within the meaning of section 25.35.7,
+
 (i) prescribing energy efficiency standards or requirements for the appliances or products,
+
 (ii) prescribing water efficiency standards or requirements for the appliances or products that consume energy,
+
 (iii) regulating the installation, testing, maintenance and repair of the appliances and products,
+
 (iv) designating persons or organizations to test the prescribed appliances and products,
+
 (v) providing for the placing of a prescribed label or mark on or with the appliances and products,
+
 (vi) prescribing the contents of labels or marks that may be placed on or with the prescribed appliances and products,
+
 (vii) prescribing fees to be paid to designated persons or organizations for the testing or labelling of the appliances and products and prescribing by whom the fees shall be paid,
+
 (viii) providing for information to be reported by persons who manufacture, offer for sale, sell or lease the prescribed appliances or products, including the frequency, time and manner for reporting,
+
 (ix) governing the keeping of information, records and documents by persons who manufacture, offer for sale, sell or lease prescribed appliances or products;
+
 (f) governing everything required under or that may be prescribed under section 25.35.8 and generally how that section is to be complied with, including,
+
 (i) prescribing types or classes of energy data, including prescribing different types or classes of energy data for different types or classes of energy or for different energy providers or classes of energy providers,
+
 (ii) specifying or clarifying the meaning of “account holder” in section 25.35.8,
+
 (iii) governing the manner in which energy data must be made available by energy providers,
+
 (iv) prescribing requirements relating to how an account holder may authorize another person or entity to receive energy data,
+
 (v) prescribing criteria or requirements that the procurement process, contract or arrangement must meet for the purpose of subsection 25.35.8 (3),
+
 (vi) governing certification requirements relating to the implementation of the requirements under subsection 25.35.8 (2), including requiring energy providers to obtain a certification, prescribing the manner in which such certification may be obtained, the persons or entities that are authorized to provide the certification and any fees to be paid to those persons or entities for the certification,
+
 (vii) governing extensions of time that may be granted to energy providers by the Board under subsection 25.35.8 (5), including prescribing the maximum period for which an extension may be granted and the circumstances in which an extension may be granted,
+
 (viii) requiring and governing reports and information that energy providers or other persons or entities must provide to the Minister, to the Board or to other persons or entities, including prescribing the manner and form in which reports or information must be provided.
 
 ### Incorporation of documents
@@ -1441,7 +1787,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Mandatory connection to transmission or distribution system
 
 25.36 (1) A transmitter or distributor shall connect a renewable energy generation facility to its transmission system or distribution system in accordance with the regulations, the market rules and any licence issued by the Board if,
+
 (a) the generator requests the connection in writing; and
+
 (b) the applicable technical, economic and other requirements prescribed by regulation or mandated by the market rules or by an order or code issued by the Board have been met in respect of the connection.
 
 ### Conflicts
@@ -1451,11 +1799,13 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Regulations
 
 (3) A regulation referred to in subsection (1) may specify requirements which must be met in relation to the connection of renewable energy generation facilities to a transmitter’s transmission system or a distributor’s distribution system.
+
 25.37 Repealed: 2021, c. 25, Sched. 5, s. 1.
 
 ### Non-discriminatory access
 
 26 (1) Subject to section 28.1, a transmitter or distributor shall provide generators, retailers, market participants and consumers with non-discriminatory access to its transmission or distribution systems in Ontario in accordance with its licence.
+
 (1.1)-(1.3) Repealed: 2021, c. 25, Sched. 5, s. 2.
 
 ### Same
@@ -1493,6 +1843,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Definition
 
 (10) In this section,
+
 “low-volume consumer” means a person who annually uses less than the amount of electricity prescribed by the regulations.
 
 ### Use of IESO-controlled grid
@@ -1502,28 +1853,43 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Distributor’s obligation to connect
 
 28 Subject to section 28.1, a distributor shall connect a building to its distribution system if,
+
 (a) the building lies along any of the lines of the distributor’s distribution system; and
+
 (b) the owner, occupant or other person in charge of the building requests the connection in writing.
+
 - 11/12/2025
 
 ### Exceptions for specified load facilities
 
 28.1 (1) In this section,
+
 “specified connection requirements” means, in relation to a specified load facility,
+
 (a) any conditions, requirements or limitations that the regulations specify must be met for the specified load facility to be connected or reconnected to a transmission system or distribution system, as applicable,
+
 (b) any approvals that the regulations specify must be obtained for the specified load facility to be connected or reconnected to a transmission system or distribution system, as applicable, and
+
 (c) any conditions, requirements or limitations of an approval described in clause (b); (“exigences précisées en matière de raccordement”)
+
 “specified load facility” means a facility or class of facilities,
+
 (a) that is a data centre and that meets any criteria that may be set out in the regulations, or
+
 (b) that,
+
 (i) withdraws or would, if it were connected to a transmission system or distribution system, be expected to withdraw electricity from the IESO-controlled grid or from the distribution system of a distributor who is licensed under Part V of the Ontario Energy Board Act, 1998,
+
 (ii) has or would, if it were connected to a transmission system or distribution system, be expected to have a demand for electricity at the point of connection to the transmission system or distribution system, as applicable, that exceeds the amount prescribed by the regulations, and
+
 (iii) meets any other criteria that may be set out in the regulations. (“installation de charge précisée”)
 
 ### Connection or reconnection of specified load facilities
 
 (2) Unless a transmitter or distributor is satisfied that the specified connection requirements have been complied with, the transmitter or distributor shall not,
+
 (a) connect a specified load facility to its transmission system or distribution system, as applicable; or
+
 (b) reconnect a specified load facility to the transmission or distribution system after the specified load facility was disconnected, in accordance with the regulations, as a result of the nonfulfillment or breach of any of the specified connection requirements.
 
 ### If conditions, requirements or limitations not fulfilled or breached
@@ -1569,8 +1935,11 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Conservation measures
 
 29.1 (1) Subject to section 71 of the Ontario Energy Board Act, 1998 and such limits and criteria as may be prescribed by the regulations, a transmitter, distributor or the IESO may provide services that would assist the Government of Ontario in achieving its goals in electricity conservation, including services related to,
+
 (a) the promotion of electricity conservation and the efficient use of electricity;
+
 (b) electricity load management; or
+
 (c) the promotion of cleaner energy sources, including alternative energy sources and renewable energy sources.
 
 ### Same
@@ -1584,6 +1953,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### No breach of contract
 
 (2) An allocation of electricity under subsection (1) shall be deemed not to be a breach of any contract.
+
 30.1
 
 ### Termination of service
@@ -1605,19 +1975,25 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Restoration of electricity
 
 (5) If a distributor shuts off the distribution of electricity to a property under subsection (1) after November 11, 2002 and before April 1, 2003, or during a period prescribed by the regulations, the distributor shall, as soon as possible,
+
 (a) restore, without charge, the distribution of electricity to the property; and
+
 (b) compensate any person who suffered a loss as a result of the shut-off of electricity.
 
 ### Emergency termination of service
 
 31.1 (1) A distributor may shut off the distribution of electricity to a property without notice if the distributor has reason to believe that a condition exists in respect of the property that threatens or is likely to threaten,
+
 (a) the safety of any person; or
+
 (b) the reliability of all or part of the distribution system.
 
 ### Notice
 
 (2) The distributor shall,
+
 (a) give the Electrical Safety Authority written notice of the shut-off under subsection (1) as soon as possible afterwards; and
+
 (b) post a notice of the shut-off under subsection (1) in a conspicuous place on the property within 10 days afterwards.
 
 ### Same
@@ -1653,22 +2029,35 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Market rules
 
 32 (1) The IESO may make rules,
+
 (a) governing the IESO-controlled grid;
+
 (b) establishing and governing markets related to electricity and ancillary services; and
+
 (c) establishing and enforcing standards and criteria relating to the reliability of electricity service or the IESO-controlled grid, including standards and criteria relating to electricity supply generated from sources connected to a distribution system that alone or in aggregate could impact the reliability of electricity service or the IESO-controlled grid.
 
 ### Examples
 
 (2) Without limiting the generality of subsection (1), the market rules may include provisions,
+
 (a) governing the making and publication of market rules;
+
 (b) governing the conveying of electricity into, through or out of the IESO-controlled grid and the provision of ancillary services;
+
 (c) governing standards and procedures to be observed in system emergencies;
+
 (d) authorizing and governing the giving of directions by the IESO, including,
+
 (i) for the purpose of maintaining the reliability of electricity service or the IESO-controlled grid, directions requiring persons, including persons providing electricity supply generated from sources connected to a distribution system, within such time as may be specified in the direction, to synchronize, desynchronize, increase, decrease or maintain electrical output, to take such other action as may be specified in the direction or to refrain from such action as may be specified in the direction, and
+
 (ii) other directions requiring market participants, within such time as may be specified in the direction, to take such action or refrain from such action as may be specified in the direction, including action related to a system emergency; and
+
 (e) authorizing and governing the making of orders by the IESO, including orders,
+
 (i) imposing financial penalties on market participants,
+
 (ii) authorizing a person to participate in the IESO-administered markets or to cause or permit electricity to be conveyed into, through or out of the IESO-controlled grid, or
+
 (iii) terminating, suspending or restricting a person’s rights to participate in the IESO-administered markets or to cause or permit electricity to be conveyed into, through or out of the IESO-controlled grid.
 
 ### General or particular
@@ -1690,6 +2079,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Transition
 
 (7) All rules made before subsection 4 (1) of Schedule A to the Electricity Restructuring Act, 2004 comes into force remain in effect until amended or revoked in accordance with this Act.
+
 (8), (9) Repealed: 2004, c. 23, Sched. A, s. 41 (8).
 
 ### Amendment of market rules
@@ -1723,25 +2113,37 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Same
 
 (8) In determining whether to stay the operation of an amendment, the Board shall consider,
+
 (a) the public interest;
+
 (b) the merits of the application;
+
 (c) the possibility of irreparable harm to any person;
+
 (d) the impact on consumers; and
+
 (e) the balance of convenience.
 
 ### Order
 
 (9) If, on completion of its review, the Board finds that the amendment is inconsistent with the purposes of this Act or unjustly discriminates against or in favour of a market participant or class of market participants, the Board shall make an order,
+
 (a) revoking the amendment on a date specified by the Board; and
+
 (b) referring the amendment back to the IESO for further consideration.
 
 ### Urgent amendments
 
 34 (1) Section 33 does not apply if the IESO files a statement with the Board indicating that, in its opinion, an amendment to the market rules is urgently required for one or more of the following reasons:
+
 1. To avoid, reduce the risk of or mitigate the effects of conditions that affect the ability of the integrated power system to function normally.
+
 2. To avoid, reduce the risk of or mitigate the effects of the abuse of market power.
+
 3. To implement standards or criteria of a standards authority.
+
 4. To avoid, reduce the risk of or mitigate the effects of an unintended adverse effect of a market rule.
+
 5. A reason prescribed by the regulations.
 
 ### Publication of urgent amendment
@@ -1767,7 +2169,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Effect of revocation by Board
 
 (4.1) If the Board revokes the amendment under subsection (2.2),
+
 (a) subsection (3) ceases to apply to the amendment; and
+
 (b) the Board shall not proceed with any review that arises from an application that was made under subsection (3) before it revoked the amendment.
 
 ### Stay of amendment
@@ -1777,7 +2181,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Referral back to IMO
 
 (6) If, on completion of its review, the Board finds that the amendment is inconsistent with the purposes of this Act or unjustly discriminates against or in favour of a market participant or class of market participants, the Board,
+
 (a) shall make an order referring the amendment back to the IESO for further consideration; and
+
 (b) may make an order revoking the amendment on a date specified by the Board.
 
 ### Other reviews of market rules
@@ -1819,8 +2225,11 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Appeals from orders
 
 36 (1) A person who is subject to an order made under the market rules may appeal the order to the Board if the order,
+
 (a) requires the person to pay a financial penalty or other amount of money that exceeds the amount prescribed by the regulations;
+
 (b) denies the person authorization to participate in the IESO-administered markets or to cause or permit electricity to be conveyed into, through or out of the IESO-controlled grid; or
+
 (c) terminates, suspends or restricts the person’s rights to participate in the IESO-administered markets or to cause or permit electricity to be conveyed into, through or out of the IESO-controlled grid.
 
 ### Other methods of resolution
@@ -1838,21 +2247,29 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Same
 
 (5) In determining whether to stay the operation of an order, the Board shall consider,
+
 (a) the public interest;
+
 (b) the merits of the appeal;
+
 (c) the possibility of irreparable harm to any person; and
+
 (d) the balance of convenience.
 
 ### Powers of Board
 
 (6) After considering the appeal, the Board may make an order,
+
 (a) dismissing the appeal;
+
 (b) revoking or amending the order appealed from; or
+
 (c) making any other order or decision that the IESO could have made.
 
 ### Same
 
 (7) In addition to its powers under subsection (6), the Board may also make an order revoking, suspending or adding or amending a condition of the appellant’s licence.
+
 (8) Repealed: 2000, c. 26, Sched. D, s. 1 (2).
 
 ### Exemptions from market rules
@@ -1878,13 +2295,17 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Terms of exemption
 
 (6) An exemption,
+
 (a) may be granted in whole or in part; and
+
 (b) may be granted subject to conditions or restrictions.
 
 ### Expiry of exemption
 
 (7) If an exemption is granted, it shall specify that it expires,
+
 (a) on a date fixed by the panel; or
+
 (b) on the occurrence of an event specified by the panel.
 
 ### Same
@@ -1914,10 +2335,15 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Powers of Board
 
 (14) After considering the appeal, the Board may make an order,
+
 (a) dismissing the appeal; or
+
 (b) if the Board finds that the decision of the panel is inconsistent with the purposes of this Act,
+
 (i) referring the application for the exemption back to the panel for further consideration,
+
 (ii) revoking or amending the decision of the panel, or
+
 (iii) making any decision that the panel could have made.
 
 ### Removal of exemption
@@ -1965,9 +2391,13 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Applicable date
 
 (4) For the purposes of subsection (1), the applicable date is, with respect to a settlement of any payment, adjustment or amount that relates to an entitlement or a specified charge, and subject to the regulations, if any,
+
 (a) the earlier of,
+
 (i) the initial date on which the IESO would have the right or obligation to settle a transaction, or
+
 (ii) the date the IESO issues an invoice; or
+
 (b) the alternative applicable date provided for in the regulations or determined by a method provided for in the regulations.
 
 ### Discoverability, etc.
@@ -1977,27 +2407,45 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### IESO authority unaffected, market rules, etc.
 
 (6) Subject to subsection (8), nothing in this section shall be read to remove, eliminate, limit or interfere with the IESO’s authority that does not relate to or conflict with the matters provided for in subsection (1), including its authority to make or receive any payments or adjustments that arise under the market rules or to participate in any transactions or settlements that arise under the market rules or to undertake any other activities that arise under the market rules, and including the IESO’s authority to,
+
 (a) make or amend the market rules in relation to settlements, payments, adjustments or charges including the timing and method for determining such settlements, payments, adjustments or charges, or any related matter;
+
 (b) commence or carry out compliance or enforcement activities arising under the market rules, including any audit, inquiry, investigation, monitoring or other supervisory activity or review related to the issuance or potential issuance of a financial penalty or other sanction under the market rules or in relation to any settlements, payments, adjustments or charges under the market rules;
+
 (c) make or adjust amounts paid or payable under the market rules, including amounts mentioned in clause (f);
+
 (d) suspend or terminate a market participant’s authorization to participate in the IESO-administered markets, in accordance with the market rules;
+
 (e) make or receive a payment or pay or receive an amount that is attributable to,
+
 (i) a decision, an order, a licence or a code made or issued by the Board, any form of compliance or enforcement activity, determination or direction of the Board or an assurance of voluntary compliance given to the Board under section 112.7 of the Ontario Energy Board Act, 1998,
+
 (ii) an award, an order, a determination or a proceeding provided by an arbitrator, a court, the IESO or a tribunal other than the Board or by a compliance agreement or other agreement providing for the resolution of a matter arising from a compliance or enforcement activity,
+
 (iii) an award, an order, a ruling or a determination of an arbitrator, a court or a tribunal in relation to a settlement, or
+
 (iv) any contract entered into by the IESO;
+
 (f) make or adjust amounts paid or payable arising under the market rules, including settling or resettling such amounts as and when required or appropriate in accordance with the market rules;
+
 (g) issue, re-issue or amend settlement statements or any documentation that reflects settlements that arise under the market rules; or
+
 (h) make, receive or provide for a payment, adjustment or amount or participate in a transaction that is provided for in the regulations or to do any of those things in a manner that is determined by the regulations with a person or class of persons prescribed by the regulations.
 
 ### Non-application, subs. (1)
 
 (7) Despite subsection (1), the IESO shall not be restricted from making or receiving any payment or adjustment of any amount to or from a market participant, a consumer, an entity or a person in respect of an entitlement or a specified charge to which that subsection applies where such payment or adjustment results from,
+
 (a) any form of compliance or enforcement activity, determination, ruling or decision arising under the market rules, including the issuance of any financial penalty or other sanction under the market rules or the making or adjusting of amounts paid or payable under the market rules or that are based on a payment or entitlement mentioned in subsection (1);
+
 (b) a decision, an order or a direction of the Board in respect of a variance account;
+
 (c) any form of compliance or enforcement activity, determination, direction, decision or order of the Board or an assurance of voluntary compliance given to the Board under section 112.7 of the Ontario Energy Board Act, 1998;
+
 (d) a decision or an order of a court arising from a matter mentioned in clause (b) or (c);
+
 (e) an award, an order, a decision, a ruling or a determination provided by a court, the Board, a tribunal or an arbitrator that relates to a compliance or enforcement activity undertaken by the IESO, including any agreement providing for the resolution of a matter entered into in the context of such proceedings; or
+
 (f) with respect to any matters that are not referred to in clauses (b), (c), (d) and (e), an award, an order, a decision, a ruling or a determination provided by the Board, a court, a tribunal other than the Board or an arbitrator, where the proceedings were initiated in the manner provided for in the regulations, and before the limitation period provided for in the regulations, if any.
 
 ### Board authority unaffected
@@ -2019,7 +2467,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Crown not liable, etc.
 
 (12) No cause of action arises against the Crown, any current or former member of the Executive Council or any current or former employee or agent of or advisor to the Crown, or against the IESO or the Board or any of their current or former directors, officers, employees or agents, and in the case of the Board, any of its current or former chairs, vice-chairs, members or commissioners, as a direct or indirect result of,
+
 (a) the enactment, operation, administration or repeal of any provision of this section or the regulations made under it or that are consequential to its enactment; or
+
 (b) anything done or not done in order to comply with this section or the regulations made under it.
 
 ### Timing
@@ -2029,14 +2479,23 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Regulations
 
 (14) The Lieutenant Governor in Council may make regulations,
+
 (a) providing for and governing situations to which subsection (1) does or does not apply, including prescribing Acts, regulations, or provisions of Acts or regulations to which subsection (1) does or does not apply;
+
 (b) providing for an alternative limitation period for the purposes of subsection (1), and providing for and governing situations where different limitation periods apply, including providing for the method or methods of determining such limitation periods;
+
 (c) prescribing payments, adjustments, amounts, entitlements and specified charges to which subsection (1) does or does not apply;
+
 (d) respecting what the applicable date is for the purposes of subsection (1), including providing for the alternative applicable date mentioned in clause (4) (b), or a method of determining the applicable date or the alternative applicable date, including providing for the application of or determination of different applicable dates in different circumstances;
+
 (e) defining “adjustment”, “amount”, “entitlement”, “invoice”, “payment”, “specified charge” and “variance account” for the purposes of this section, and providing for any criteria they must meet;
+
 (f) providing for criteria that must be met relating to the manner in which the proceedings referred to in clause (7) (f) are initiated and providing for different criteria that must be met in different circumstances;
+
 (g) providing for the limitation period referred to in clause (7) (f);
+
 (h) generally for governing the application of this section and providing for anything that is described in this section as being prescribed by, determined in or provided for in the regulations;
+
 (i) governing such transitional matters as the Lieutenant Governor in Council considers necessary or advisable to facilitate the implementation of this section.
 
 ### Retroactive
@@ -2046,6 +2505,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Definitions
 
 (16) In this section,
+
 “adjustment”, “amount”, “entitlement”, “invoice”, “payment”, “specified charge” and “variance account” have the meaning provided for in the regulations.
 
 ### Reliability Standards
@@ -2075,19 +2535,29 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Same
 
 (6) In determining whether to stay the operation of a reliability standard, the Board shall consider,
+
 (a) the public interest;
+
 (b) the merits of the application;
+
 (c) the possibility of irreparable harm to any person;
+
 (d) the impact on consumers;
+
 (e) the balance of convenience;
+
 (f) the need to co-ordinate the implementation of the standard in Ontario with other jurisdictions;
+
 (g) the need to co-ordinate the review of the standard in Ontario with regulatory bodies in other jurisdictions that have reviewed, are reviewing or may review the standard and that have the authority to refer the standard back to the standards authority for further consideration; and
+
 (h) any other matter that may be prescribed by regulation.
 
 ### Order re inconsistency or discrimination
 
 (7) If, on completion of its review, the Board finds that the standard is inconsistent with the purposes of this Act or unjustly discriminates against or in favour of a market participant or class of market participants, the Board shall make an order,
+
 (a) revoking the operation of the standard in Ontario, if it is already operational, or disallowing the future operation of the standard in Ontario, on a date specified by the Board; and
+
 (b) referring the standard back to the standards authority for further consideration.
 
 ### Order re co-ordination with other jurisdictions
@@ -2121,23 +2591,33 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Same
 
 (5) In determining whether to stay the operation of an order, finding or remedial action, the Board shall consider,
+
 (a) the public interest;
+
 (b) the merits of the appeal;
+
 (c) the possibility of irreparable harm to any person; and
+
 (d) the balance of convenience.
 
 ### Powers of Board
 
 (6) After considering the appeal, the Board may make an order,
+
 (a) dismissing the appeal;
+
 (b) revoking or amending the order, finding or remedial action appealed from; or
+
 (c) making any other order, finding or decision or taking any other remedial action that the standards authority could have made or taken.
 
 ### Same
 
 (7) In addition to its powers under subsection (6), the Board may also make an order,
+
 (a) revoking or suspending a condition of the IESO’s licence;
+
 (b) amending a condition of the IESO’s licence; or
+
 (c) adding a condition to the IESO’s licence.
 
 ### Statutory powers of decision
@@ -2197,6 +2677,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Dwellings
 
 (13) For the purposes of subsections (9), (10) and (11),
+
 “building, receptacle or place” does not include premises used as a dwelling.
 
 ### Application
@@ -2238,8 +2719,11 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Confidentiality
 
 37.3 (1) All information and material that is not otherwise public and that is furnished to or received or obtained by the Panel or anyone acting on behalf of the Panel pursuant to section 37 or 37.1 is confidential, and no person shall communicate the information or allow access to or inspection of the material except in the ordinary course of his or her duties, unless,
+
 (a) the Panel has made an order under subsection (3);
+
 (b) the information or material was considered by the Panel in preparing a report under subsection 37 (15) and communication of the information or access to or inspection of the material is required by a summons or direction of the Board; or
+
 (c) the information is communicated to or access to or inspection of the material is allowed to a police service or other investigatory agency or to a regulatory agency.
 
 ### Not evidence in proceedings
@@ -2267,7 +2751,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Powers of Board
 
 (4) On the completion of a review under subsection (2) or (3), the Board may, for the purpose of avoiding, reducing the risk of or mitigating the effects of an abuse of market power,
+
 (a) amend the licence of any market participant; or
+
 (b) make an order directing the IESO to amend the market rules in a manner and within the time specified by the Board.
 
 ### Publication
@@ -2299,6 +2785,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Nuclear generation facilities
 
 (5) Every generator that owns or operates a nuclear generation facility shall file with the Minister a copy of any emergency plans relating to the facility that are filed with the Canadian Nuclear Safety Commission.
+
 (6) Repealed: 2004, c. 23, Sched. A, s. 49 (2).
 
 ### Powers of Entry
@@ -2306,7 +2793,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Powers of entry
 
 40 (1) A transmitter or distributor may, at reasonable times, enter land on which its transmission or distribution system is located,
+
 (a) to inspect, maintain, repair, alter, remove, replace or disconnect wires or other facilities used to transmit or distribute electricity; or
+
 (b) to install, inspect, read, calibrate, maintain, repair, alter, remove or replace a meter.
 
 ### Same: multi-unit buildings
@@ -2336,8 +2825,11 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Notice, compensation, etc.
 
 (8) If a person exercises a power of entry under this section, the person shall,
+
 (a) provide reasonable notice of the entry to the occupier of the property;
+
 (b) in so far as is practicable, restore the property to its original condition; and
+
 (c) provide compensation for any damages caused by the entry.
 
 ### Property Interests
@@ -2369,8 +2861,11 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Notice, compensation, etc.
 
 (7) If a transmitter or distributor exercises a power of entry under this section, it shall,
+
 (a) provide reasonable notice of the entry to the owner or other person having authority over the street or highway;
+
 (b) in so far as is practicable, restore the street or highway to its original condition; and
+
 (c) provide compensation for any damages caused by the entry.
 
 ### No compensation
@@ -2380,12 +2875,15 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Location
 
 (9) The location of any structures, equipment or facilities constructed or installed under subsection (1) shall be agreed on by the transmitter or distributor and the owner of the street or highway, and in case of disagreement shall be determined by the Board.
+
 (10) Repealed: 2016, c. 10, Sched. 2, s. 9.
 
 ### Telecommunications services
 
 42 (1) If part of a transmission or distribution system is located on land with respect to which the transmitter or distributor has an easement or other right to use the land, the transmitter or distributor may,
+
 (a) use the land that is subject to the easement or other right for the purpose of providing telecommunications service; or
+
 (b) enter into agreements with other persons, including affiliates of the transmitter or distributor, authorizing them to use the land that is subject to the easement or other right for the purpose of providing telecommunications service.
 
 ### Same
@@ -2411,6 +2909,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Definition
 
 (6) In this section,
+
 “telecommunications service” has the same meaning as in the Telecommunications Act (Canada).
 
 ### Easement: generators, transmitters and distributors
@@ -2438,7 +2937,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Exemption from seizure
 
 45 Personal property of a transmitter or distributor that is used for or in connection with transmitting or distributing electricity to land is exempt from seizure,
+
 (a) against the owner or occupant of the land under the Execution Act; and
+
 (b) against a person with a leasehold interest in the land for overdue rent.
 
 ### Unregistered rights
@@ -2448,11 +2949,17 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Transfer of right
 
 (2) A right referred to in subsection (1) may be transferred to,
+
 (a) Hydro One Inc.;
+
 (b) Ontario Power Generation Inc.;
+
 (c) a subsidiary of Hydro One Inc. that is authorized to transmit or distribute electricity;
+
 (c.1) a subsidiary of Ontario Power Generation Inc. that is authorized to generate electricity;
+
 (d) a corporation established pursuant to section 142 that is authorized to transmit or distribute electricity; or
+
 (e) a subsidiary of a corporation established pursuant to section 142, if the subsidiary is authorized to transmit or distribute electricity.
 
 ### Information
@@ -2466,7 +2973,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Application of Expropriations Act
 
 (5) The Expropriations Act applies with necessary modifications to a claim for compensation under subsection (4) as if it constituted injurious affection and, for the purpose,
+
 (a) a reference to the statutory authority shall be deemed to be a reference to the holder of the right; and
+
 (b) a reference to the owner shall be deemed to be a reference to the person mentioned in subsection (4).
 
 ### Transition
@@ -2474,9 +2983,13 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Use of land in connection with generation
 
 46.1 (1) If, on March 31, 1999, the occupier of land used or could lawfully have used the land in connection with the generation of electricity, any occupier of the land may,
+
 (a) use the land in connection with the generation of electricity,
+
 (i) for the use for which the land was used on March 31, 1999, or
+
 (ii) for any use for which the land could lawfully have been used on March 31, 1999; and
+
 (b) use or erect on the land any building or structure in connection with a use of the land that is authorized by clause (a).
 
 ### Same
@@ -2486,9 +2999,13 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Transition: use of land in connection with transmission or distribution
 
 (3) If, on March 31, 1999, the occupier of land used or could lawfully have used the land in connection with the transmission or distribution of electricity, any occupier of the land may,
+
 (a) use the land in connection with the transmission or distribution of electricity,
+
 (i) for the use for which the land was used on March 31, 1999, or
+
 (ii) for any use for which the land could lawfully have been used on March 31, 1999; and
+
 (b) use or erect on the land any building or structure in connection with a use of the land that is authorized by clause (a).
 
 ### Planning Act
@@ -2498,7 +3015,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Toronto land used by Ontario Hydro
 
 46.2 (1) Despite section 46.1, if, before March 31, 1999, Ontario Hydro occupied and used land in the City of Toronto in connection with the generation of electricity using fossil fuels and for any ancillary use, any occupier of the land may,
+
 (a) use the land in connection with any one or more of the generation of electricity using a type of fuel prescribed by the regulations, the transmission of electricity and the distribution of electricity and for any ancillary uses; and
+
 (b) use or erect on the land any building or structure in connection with a use of the land that is authorized by clause (a).
 
 ### Conflict
@@ -2514,6 +3033,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Definitions
 
 47.1 In this Part,
+
 “electric vehicle”, “electric vehicle charging” and “electric vehicle charging station” have the same meaning as in the Ontario Energy Board Act, 1998. (“véhicule électrique”, “recharge des véhicules électriques”, “station de recharge pour véhicules électriques”)
 
 ### Application of Act
@@ -2531,7 +3051,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Regulations
 
 47.3 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) clarifying the application of section 47.2;
+
 (b) providing for and governing the application of this Act, other than Part VIII, to the distribution or retail of electricity for electric vehicle charging, subject to such modifications in application as the regulations may specify.
 
 ### Same
@@ -2559,20 +3081,27 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### What constitutes “maintained in Ontario”
 
 (3) For the purposes of subsection (2), Hydro One Inc. maintains its head office in Ontario if,
+
 (a) the principal executive office for Hydro One Inc. and its subsidiaries is located in Ontario;
+
 (b) the Chief Executive Officer and substantially all of the officers with strategic decision-making or management authority for Hydro One Inc. and its subsidiaries principally perform their duties at that principal executive office or elsewhere in Ontario and are resident in Ontario; and
+
 (c) substantially all of the strategic decision-making, corporate planning, corporate finance and other executive functions of Hydro One Inc. and its subsidiaries are carried out at that principal executive office or elsewhere in Ontario.
 
 ### Essential systems and features in Ontario
 
 (4) Hydro One Inc. shall, directly or through its subsidiaries, at all times maintain in Ontario its centres of operation and control necessary for,
+
 (a) the control, monitoring and co-ordination of its transmission system that is regulated by the Board; and
+
 (b) the control, monitoring and co-ordination of its distribution system that is regulated by the Board.
 
 ### Saving
 
 (5) Subsection (4) does not restrict Hydro One Inc., directly or through its subsidiaries, from selling, leasing, divesting or otherwise disposing of, any of the following where the sale, lease, divestiture or other disposition is not prohibited by subsection (6) or (7):
+
 1. Any part of its transmission system that is regulated by the Board or the business, property or assets related to that transmission system.
+
 2. Any part of its distribution system that is regulated by the Board or the business, property or assets related to that distribution system.
 
 ### Substantial divestment, transmission system
@@ -2606,10 +3135,15 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Remedies, articles of incorporation
 
 (4) The articles of incorporation of Hydro One Inc. shall include the restriction provided for in subsection (1) and provisions to enforce that restriction, which may include, without being limited to, provisions respecting,
+
 (a) the filing of declarations;
+
 (b) the suspension of voting rights;
+
 (c) the forfeiture of dividends;
+
 (d) the refusal of the issuance or registration of voting securities; and
+
 (e) the sale or redemption of voting securities held contrary to the restriction and the payment of the net proceeds to the person or entity entitled to them.
 
 ### Restrictions on Province’s sale, etc.
@@ -2623,7 +3157,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### When may acquire voting securities
 
 (7) The Minister shall acquire voting securities in accordance with subsection (6) only if,
+
 (a) the Lieutenant Governor in Council has determined the manner by which, and the time by or within which, the voting securities shall be acquired and the Minister acquires them in accordance with that determination; and
+
 (b) the Minister’s actions and the acquisition comply with the Securities Act and any other applicable Act or regulation.
 
 ### Funding
@@ -2673,12 +3209,15 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Crown agent
 
 (4) A corporation incorporated pursuant to subsection (1) is an agent of the Crown for all purposes.
+
 (5) Repealed: 2021, c. 8, Sched. 3, s. 1.
 
 ### Corporations and other entities and arrangements to hold securities, etc.
 
 50.1 (1) The Lieutenant Governor in Council may cause corporations or other entities to be established or arrangements to be made for the purpose of acquiring, holding, disposing of or otherwise dealing with, directly or indirectly,
+
 (a) securities, assets, liabilities, rights, obligations, revenues and income of Hydro One Inc. or any of its subsidiaries; and
+
 (b) interests in or entitlements to those securities, assets, liabilities, rights, obligations, revenues and income.
 
 ### Status
@@ -2692,9 +3231,13 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Direction by Minister
 
 (4) If the Crown in right of Ontario or an agent of the Crown is the only holder of voting securities of Hydro One Inc., the Minister may direct it,
+
 (a) to transfer any of its securities, assets, liabilities, rights, obligations, revenues and income to any person or entity;
+
 (b) to transfer an interest in or entitlement to any of its securities, assets, liabilities, rights, obligations, revenues and income to any person or entity;
+
 (c) to transfer to any person or entity any securities, assets, liabilities, rights, obligations, revenues and income of any subsidiary of which Hydro One Inc. is the only holder, directly or indirectly, of voting securities; or
+
 (d) to transfer to any person or entity an interest in or entitlement to any securities, assets, liabilities, rights, obligations, revenues and income of any subsidiary of which Hydro One Inc. is the only holder, directly or indirectly, of voting securities.
 
 ### Same
@@ -2720,7 +3263,9 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Holding corporation
 
 50.2.1 (1) Despite subsection 48.2 (5), if the Crown in right of Ontario is the only holder of voting securities of Hydro One Inc., the Minister may transfer all of those voting securities to a corporation established under section 50.1, and if the Minister does so, then the following rules apply on and from the completion of the transfer despite anything else in this Act, but subject to the regulations under subsection (2):
+
 1 Every reference in this Part and in the regulations under this Part to Hydro One Inc. shall be deemed to be a reference to that corporation established under section 50.1.
+
 2. Every other reference to Hydro One Inc. in this Act and in the regulations and in any other Act or regulation shall be deemed to include a reference to that corporation established under section 50.1.
 
 ### Regulations
@@ -2730,13 +3275,17 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Proceeds of disposition
 
 50.3 (1) This section applies if an amount is payable into the Consolidated Revenue Fund in respect of,
+
 (a) the disposition of any securities or debt obligations of, or other interest in, Hydro One Inc. or any of its subsidiaries, a corporation established under section 50, a corporation or other entity established under section 50.1 or an arrangement made under section 50.1; or
+
 (b) capital for any shares of Hydro One Inc.
 
 ### Payment to Financial Corporation
 
 (2) The Minister of Finance shall pay to the Financial Corporation an amount equal to the proceeds payable to the Crown in respect of the disposition of securities, debt obligations or other interest described in clause (1) (a),
+
 (a) less any amount that the Minister considers advisable in connection with the acquisition of the securities, debt obligations or interest, including the amount of the purchase price, any obligations assumed and any other costs incurred by the Crown and any amounts which have been allocated by the Crown to the Financial Corporation in respect of the securities; and
+
 (b) less the amount of any costs incurred by the Crown in disposing of the securities, debt obligation or interest.
 
 ### Same
@@ -2758,6 +3307,7 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Repeal
 
 (7) This section is repealed on the day on which Part V is repealed under section 84.1.
+
 50.4 Repealed: 2015, c. 20, Sched. 9, s. 8.
 
 ### Non-application, Financial Administration Act, s. 28
@@ -2771,18 +3321,27 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Regulations
 
 53 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing communities for the purposes of subsection 48.1 (1);
+
 (b) prescribing conditions and restrictions with respect to the statutory duties of Hydro One Inc. under subsection 48.1 (1).
+
 (c), (d) Repealed: 2015, c. 20, Sched. 9, s. 9 (1).
+
 (2)-(5) Repealed: 2015, c. 20, Sched. 9, s. 9 (2).
+
 (6), (7) Repealed. See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 - December 31, 2012.
+
 (8) Spent: See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 - December 31, 2012.
 
 ### Regulations, smart grid
 
 53.0.1 The Lieutenant Governor in Council may make regulations governing the smart grid and its implementation, including regulations,
+
 (a) in respect of the timeframe for the development of the smart grid;
+
 (b) assigning roles and responsibilities for the development, implementation and standardization of the smart grid;
+
 (c) prescribing the standards for communications and any other aspects in respect of the operation of the smart grid.
 
 ## PART iV.1 ONTARIO POWER GENERATION INC.
@@ -2802,18 +3361,23 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Deemed assets, non-subsidiary
 
 (1.3) Despite any other provision of this Act, the Business Corporations Act or any other Act, and subject to section 8 of the Ontario Fair Hydro Plan Act, 2017, if the Fair Hydro Trust is not a subsidiary of Ontario Power Generation Inc.,
+
 (a) the assets and liabilities of the Fair Hydro Trust shall not form part of the assets and liabilities of Ontario Power Generation Inc. or any of its subsidiaries; and
+
 (b) the assets and liabilities of Ontario Power Generation Inc. or any of its subsidiaries shall not form part of the assets and liabilities of the Fair Hydro Trust.
 
 ### Deemed assets, subsidiary
 
 (1.4) Despite any other provision of this Act, the Business Corporations Act or any other Act, and subject to section 8 of the Ontario Fair Hydro Plan Act, 2017, if the Fair Hydro Trust is a subsidiary of Ontario Power Generation Inc.,
+
 (a) the assets and liabilities of the Fair Hydro Trust shall not form part of the assets and liabilities of Ontario Power Generation Inc. or any of its other subsidiaries; and
+
 (b) the assets and liabilities of Ontario Power Generation Inc. or any of its other subsidiaries shall not form part of the assets and liabilities of the Fair Hydro Trust.
 
 ### Definition
 
 (1.5) For the purposes of this section,
+
 “Fair Hydro Trust” has the same meaning as in the Ontario Fair Hydro Plan Act, 2017.
 
 ### Status
@@ -2867,10 +3431,15 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Same
 
 (2) Subsection (1) applies,
+
 (a) despite any provision of this or any other Act;
+
 (b) despite the devotion or deemed devotion of the land or property to a municipal or other public use;
+
 (c) despite the power of the owner of the land or property to take land compulsorily;
+
 (d) despite the origin, nature or sources of the owner’s title to or interest in the land or property; and
+
 (e) despite the manner by which the land or property was acquired by the owner or any of the owner’s predecessors in title.
 
 ### Easements continue until release
@@ -2892,40 +3461,59 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Definitions
 
 (7) In this section,
+
 “easement” means an easement, right of way, right or licence in the nature of an easement, profit à prendre or other incorporeal hereditament; (“servitude”)
+
 “land” means any real property and includes any estate, term, easement, right or interest in, to, over, under or affecting real property; (“bien-fonds”)
+
 “owner” includes a mortgagee, lessee, tenant, occupant, a person entitled to a limited estate or interest in land and a guardian, committee, executor, administrator or trustee in whom land or any property is vested; (“propriétaire”)
+
 “property” means property of any kind, other than land, and includes any interest in property; (“bien”)
+
 “works” includes all property, plant, machinery, buildings, erections, constructions, installations, materials, devices, fittings, apparatus, appliances and equipment for the generation, transformation, transmission, distribution, supply or use of power. (“ouvrages”)
 
 ### Procurement restrictions
 
 53.6.1 (1) Ontario Power Generation Inc. shall not procure a good or service that meets the conditions prescribed by the regulations respecting,
+
 (a) its country, region or territory of origin, as determined in the regulations; or
+
 (b) the country, region or territory of origin of the person or entity that is, or that beneficially owns or controls, a supplier of the good or service, as determined in the regulations.
 
 ### Same, subsidiaries
 
 (2) Any subsidiary of Ontario Power Generation Inc. that is prescribed by the regulations shall not procure a good or service that meets the conditions prescribed by the regulations respecting,
+
 (a) its country, region or territory of origin, as determined in the regulations; or
+
 (b) the country, region or territory of origin of the person or entity that is, or that beneficially owns or controls, a supplier of the good or service, as determined in the regulations.
 
 ### Origin
 
 (3) For the purposes of subsections (1) and (2),
+
 (a) country, region or territory of origin of a person or entity may be determined by reference to any relevant factor including, as applicable,
+
 (i) where a person is ordinarily resident,
+
 (ii) where a head office or other office is located,
+
 (iii) jurisdiction of incorporation,
+
 (iv) the number or proportion of employees of the person or entity that are located in a country, region or territory,
+
 (v) the jurisdiction of the laws to which the person or entity is subject, or
+
 (vi) where the person or entity’s business activities, as they relate to the provision of the good or service, are carried on; and
+
 (b) a regulation may set out, for its own purposes, how beneficial ownership or control is to be determined.
 
 ### Application
 
 (4) Subsection (1) or (2) applies with respect to a procurement only if, on the day a regulation made for the purposes of that subsection begins to apply,
+
 (a) the final version of the request for proposal or any other document that would give rise to the procurement has not yet been issued, in the case of a competitive procurement; or
+
 (b) in the case of a procurement that is not a competitive procurement, the parties have not entered into a final contract in respect of the procurement.
 
 ### Non-application, Discriminatory Business Practices Act
@@ -2937,9 +3525,13 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### The Smart Metering Entity
 
 53.7 (1) To accomplish the government’s policies in relation to its smart metering initiative, the Minister,
+
 (a) may cause the Smart Metering Entity to be incorporated as a corporation under the Business Corporations Act;
+
 (b) may cause the Smart Metering Entity to be formed as a limited partnership under the Limited Partnerships Act;
+
 (c) may cause the Smart Metering Entity to be formed as a partnership; or
+
 (d) may designate an entity by regulation as the Smart Metering Entity.
 
 ### Name of the Smart Metering Entity
@@ -2949,16 +3541,27 @@ ii. any reference in the agreement, security, licence, approval, permit or other
 ### Objects or nature of the business of the Smart Metering Entity
 
 53.8 The objects of the Smart Metering Entity, if it is a corporation, or the nature of its business activities, if the Smart Metering Entity is a limited partnership or a partnership, include, in addition to any other objects or business activities, the following:
+
 1. To plan and implement and, on an ongoing basis, oversee, administer and deliver any part of the smart metering initiative as required by regulation under this or any Act or directive made pursuant to sections 28.3 or 28.4 of the Ontario Energy Board Act, 1998, and, if so authorized, to have the exclusive authority to conduct these activities.
+
 2. To collect and manage and to facilitate the collection and management of information and data and to store the information and data related to the metering of consumers’ consumption or use of electricity in Ontario, including data collected from distributors and, if so authorized, to have the exclusive authority to collect, manage and store the data.
+
 3. To establish, to own or lease and to operate one or more databases to facilitate collecting, managing, storing and retrieving smart metering data.
+
 4. To provide and promote non-discriminatory access, on appropriate terms and subject to any conditions in its licence relating to the protection of privacy, by distributors, retailers, the IESO and other persons,
+
 i. to the information and data referred to in paragraph 2, and
+
 ii. to the telecommunication system that permits the Smart Metering Entity to transfer data about the consumption or use of electricity to and from its databases, including access to its telecommunication equipment, systems and technology and associated equipment, systems and technologies.
+
 5. To own or to lease and to operate equipment, systems and technology, including telecommunication equipment, systems and technology that permit the Smart Metering Entity to transfer data about the consumption or use of electricity to and from its databases, including owning, leasing or operating such equipment, systems and technology and associated equipment, systems and technologies, directly or indirectly, including through one or more subsidiaries, if the Smart Metering Entity is a corporation.
+
 6. To engage in such competitive procurement activities as are necessary to fulfil its objects or business activities.
+
 7. To procure, as and when necessary, meters, metering equipment, systems and technology and any associated equipment, systems and technologies on behalf of distributors, as an agent or otherwise, directly or indirectly, including through one or more subsidiaries, if the Smart Metering Entity is a corporation.
+
 8. To recover, through just and reasonable rates, the costs and an appropriate return approved by the Board associated with the conduct of its activities.
+
 9. To undertake any other objects that are prescribed by regulation.
 
 ### Status of the Smart Metering Entity
@@ -2992,7 +3595,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Collection of consumer information
 
 53.14 In carrying out its objects or business activities, the Smart Metering Entity,
+
 (a) may directly or indirectly collect information and data relating to the consumption or use of electricity from consumers, distributors or any other person; and
+
 (b) may manage and aggregate the data related to consumers’ electricity consumption or use.
 
 ### Reciprocal obligations concerning information
@@ -3002,7 +3607,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Restrictions on the Smart Metering Entity
 
 (2) If the Smart Metering Entity has provided access to a distributor, retailer or another person to information under this Part, it shall not engage in a business activity prescribed by regulation if,
+
 (a) the person to whom access has been provided is also engaged in the business activity; and
+
 (b) the access was granted for the purpose of the person engaging in the business activity.
 
 ### Obligations of distributors, etc., re: installing meters
@@ -3020,6 +3627,7 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Obligations of distributors, etc., re: procurement, contracts or arrangements
 
 (4) When a distributor or any person licensed by the Board to conduct the activities referred to in subsection (1) enters into a procurement process, contract or arrangement in relation to the smart metering initiative, the procurement process, contract or arrangement shall meet the criteria or requirements prescribed by regulation or mandated by a code issued by the Board or by an order of the Board.
+
 53.17 Repealed: 2010, c. 8, s. 37 (7).
 
 ### Prohibition re: discretionary metering activities
@@ -3029,12 +3637,15 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Definition
 
 (2) For the purpose of this section,
+
 “discretionary metering activity” means the installation, removal, replacement or repair of meters, metering equipment, systems and technology and any associated equipment, systems and technologies which is not mandated by the Electricity and Gas Inspection Act (Canada), by regulation, by an order of the Board or by a code issued by the Board or authorized by a regulation made under this Act.
 
 ### Procurement contracts, transition
 
 53.19 (1) The Minister may direct the Smart Metering Entity to assume, as of the date the Minister considers appropriate, responsibility for exercising all powers and performing all duties of the Crown, including powers and duties to be exercised and performed through an agency of the Crown,
+
 (a) under any request for proposals, draft request for proposals, another form of procurement solicitation issued by the Crown or through an agency of the Crown or any other initiative pursued by the Crown or through an agency of the Crown, which relate to the government’s smart metering initiative that was issued or pursued after November 3, 2005 and before January 1, 2008; and
+
 (b) under any contract that relates to a procurement that was entered into by the Crown or an agency of the Crown pursuant to a request for proposal, a draft request for proposal or another form of procurement solicitation referred to in clause (a).
 
 ### Release of the Crown, etc.
@@ -3044,7 +3655,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Reimbursement of costs incurred by the Crown
 
 53.20 (1) The Smart Metering Entity shall reimburse the Crown or, if so directed by the Minister, an agency of the Crown for costs relating to the Smart Metering Entity, a procurement contract or a matter within the objects of the Smart Metering Entity, if,
+
 (a) the costs were incurred by the Crown or an agency of the Crown after November 3, 2005 and before January 1, 2008; or
+
 (b) the liability of the Crown or an agency of the Crown for the costs arose during the period described in clause (a).
 
 ### Payment of reimbursement
@@ -3058,24 +3671,43 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Regulations
 
 53.21 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) designating an entity as the Smart Metering Entity;
+
 (b) prescribing the name of the Smart Metering Entity;
+
 (c) governing the smart metering initiative;
+
 (d) authorizing the Smart Metering Entity to have exclusive authority to conduct the metering activities referred to in section 53.8;
+
 (e) prescribing objects for the purposes of section 53.8;
+
 (f) governing the collection, use and disclosure of information relating to consumers’ consumption or use of electricity, including personal information;
+
 (g) prescribing, for the purposes of subsection 53.11 (1), conditions, restrictions, criteria or requirements to be included in the Smart Metering Entity’s articles of incorporation and in the articles of incorporation of such of its subsidiaries as may be prescribed;
+
 (h) prescribing subsidiaries of the Smart Metering Entity for the purposes of subsection 53.11 (1);
+
 (i) prescribing provisions of the Business Corporations Act that do not apply to the Smart Metering Entity or to any of its subsidiaries that are prescribed;
+
 (j) prescribing transactions or arrangements for the purposes of subsection 53.12 (1) and conditions or restrictions that apply to them;
+
 (k) governing smart meters and the installation and maintenance of smart meters, metering equipment, systems and technology and any associated equipment, systems and technologies;
+
 (l) identifying actions to be taken by the Smart Metering Entity, distributors and other persons licensed by the Board in respect of the installation of prescribed meters, metering equipment, systems and technology and any associated equipment, systems and technologies at prescribed locations throughout Ontario or for prescribed classes of properties and prescribed classes of consumers in priority to other locations or classes of property or classes of consumers and prescribing the time within which such actions must be taken;
+
 (m) prescribing the date for the purpose of subsection 53.16 (3);
+
 (n) prescribing criteria or requirements that the procurement process, contract or arrangement must meet for the purpose of subsection 53.16 (4);
+
 (o), (p) Repealed: 2010, c. 8, s. 37 (10).
+
 (q) authorizing activity as discretionary metering activity for the purpose of section 53.18;
+
 (r) prescribing measures to be taken by the Smart Metering Entity to facilitate the achievement of the targets associated with the smart metering initiative;
+
 (s) identifying specific objectives or criteria applicable to the Smart Metering Entity’s metering and telecommunications technologies;
+
 (t) approving, with respect to a class of consumers, meters or a class of meters and metering equipment, systems and technology and associated equipment, systems and technologies to be installed by a distributor or a person licensed by the Board to do so, including approving or fixing the maximum costs of the meters and metering equipment, systems and technology and associated equipment, systems and technologies and specifying criteria which any one of them must meet.
 
 ### General or specific
@@ -3107,19 +3739,29 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Objects and character
 
 55 (1) The objects of the Financial Corporation include, in addition to any other objects,
+
 (a) managing its debt;
+
 (b) receiving payments made to the Financial Corporation under this Act or pursuant to any other authority;
+
 (c) administering assets, liabilities, rights and obligations of the Financial Corporation and disposing or otherwise dealing with them as it considers appropriate or as the Minister of Finance directs under section 74;
+
 (d) exercising and performing powers and duties under Part VII;
+
 (e) effecting financings, including establishing trusts, corporations, partnerships or other entities for that purpose; and
+
 (f) such other objects as may be specified by the Lieutenant Governor in Council.
 
 ### Managing debt
 
 (2) For the purpose of this section, managing the Financial Corporation’s debt includes,
+
 (a) servicing and retiring debt;
+
 (b) borrowing, including refinancing, renewing or replacing debt;
+
 (c) investing funds; and
+
 (d) managing financial assets, financial liabilities and financial risks.
 
 ### Capacity
@@ -3129,6 +3771,7 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Crown agent
 
 56 The Financial Corporation is an agent of the Crown for all purposes.
+
 57 Repealed. See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 – December 31, 2011.
 
 ### Board of directors
@@ -3206,6 +3849,7 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Closure of account
 
 (4) Before this Part is repealed under section 84.1, the special purpose account shall be closed and any money remaining in the special purpose account shall be paid out to the Financial Corporation.
+
 64 Repealed: 2002, c. 1, Sched. A, s. 14.
 
 ### Limitation on borrowing
@@ -3227,7 +3871,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Short term securities
 
 (4) If an order of the Lieutenant Governor in Council under subsection (1) expressly refers to this subsection and authorizes the Financial Corporation to borrow a maximum principal amount of money by the issue and sale of short term securities during a specified period not exceeding 25 years, the following terms and conditions apply:
+
 1. Throughout the specified period, the Financial Corporation may issue, reissue, renew or replace securities issued under the order during the period if the maximum aggregate principal amount of the securities issued under the order and outstanding from time to time does not at any time exceed the maximum principal amount specified in the order.
+
 2. Every security issued under the authority of the order shall bear a date of maturity not later than five years from its date of issue.
 
 ### Loans
@@ -3241,7 +3887,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Province may purchase securities, etc.
 
 67 (1) The Lieutenant Governor in Council may by order authorize the Minister of Finance to purchase securities of or make loans to the Financial Corporation at such times and on such terms and conditions as the Minister may determine, subject to,
+
 (a) the maximum principal amount specified by the Lieutenant Governor in Council that may be purchased or advanced or that may be outstanding at any time; and
+
 (b) any other terms and conditions that are specified by the Lieutenant Governor in Council.
 
 ### Payment from C.R.F.
@@ -3255,7 +3903,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Guarantee and indemnity
 
 69 (1) The Lieutenant Governor in Council may by order authorize the Minister of Finance, on behalf of Ontario, to agree to guarantee or indemnify,
+
 (a) any debts, obligations, securities or undertakings of the Financial Corporation or a subsidiary of the Financial Corporation; or
+
 (b) any debts, obligations, costs or undertakings of any other person arising in connection with a guarantee or indemnity given under clause (a).
 
 ### Terms and conditions
@@ -3269,8 +3919,11 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Fees payable to Minister of Finance
 
 71 (1) The Financial Corporation shall pay to the Minister of Finance such fees as are prescribed by the regulations,
+
 (a) in respect of securities purchased and sums loaned under section 67;
+
 (b) in respect of sums advanced or securities purchased under section 68; and
+
 (c) in respect of guarantees and indemnities given under section 69.
 
 ### Application
@@ -3324,6 +3977,7 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Employees
 
 76 (1) Without limiting the power of the Financial Corporation to hire employees, such employees as are considered necessary for the proper conduct of the Corporation may be appointed under Part III of the Public Service of Ontario Act, 2006.
+
 (2) Repealed: 2006, c. 35, Sched. C, s. 31 (1).
 
 ### Agreements to provide services
@@ -3353,6 +4007,7 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Definition
 
 (6) In this section,
+
 “employee” includes an employee employed under Part III of the Public Service of Ontario Act, 2006.
 
 ### Waiver of immunity
@@ -3382,7 +4037,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Same
 
 (2) The Financial Corporation shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report; and
+
 (b) when and how to make it available to the public.
 
 ### Same
@@ -3460,6 +4117,7 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Exemptions
 
 (14) In making the valuations referred to in subsection (8), there shall be no value included for machinery whether fixed or not nor for the foundation on which it rests, works, structures other than buildings or structures referred to in subsection (2) or (3), substructures, superstructures, rails, ties, poles, towers, lines nor any of the things excepted from exemption from taxation by paragraph 17 of section 3 of the Assessment Act, nor for other property, works or improvements not referred to in subsection (2) or (3), nor for an easement or the right or use of occupation or other interest in land not owned by the Financial Corporation.
+
 (15) Repealed: 2001, c. 8, s. 205 (2).
 
 ### Repeal, Part V
@@ -3485,15 +4143,25 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Charges to retire debt
 
 85 (1) In this Part,
+
 “collector” means a person appointed as a collector under subsection 85.3 (1); (“percepteur”)
+
 “debt retirement charge” means, with respect to a user, the debt retirement charge payable by the user under subsection 85 (4); (“redevance de liquidation de la dette”)
+
 “inspector” means a person appointed as an inspector under subsection 85.28 (1); (“inspecteur”)
+
 “person” includes the Crown in right of Ontario, a partnership, a municipal corporation, a local board as defined in the Municipal Affairs Act, a police village, or a board, commission or authority established under an Act of the Assembly; (“personne”)
+
 “self-generating user” means a person who generates electricity for his, her or its own consumption or for consumption by another person at the expense of the person who generates it; (“usager autoproducteur”)
+
 “user” means,
+
 (a) a person who purchases or acquires electricity for his, her or its own consumption or for consumption by another person at the expense of the person who purchases or acquires it,
+
 (b) a person who purchases or acquires electricity on behalf of, or as agent for, a principal who wishes to acquire electricity for consumption by the principal or by other persons at the principal’s expense, and
+
 (c) a self-generating user. (“usager”)
+
 (2), (3) Repealed: 2015, c. 38, Sched. 3, s. 1 (3).
 
 ### Duty to pay debt retirement charge
@@ -3515,6 +4183,7 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Same, under other Acts
 
 (5.2) No person otherwise subject to the debt retirement charge is exempt from paying it by reason of an exemption granted to the person, or granted in respect of the personal or real property of the person, by or under any other Act unless the other Act expressly mentions this Act.
+
 (6)-(8) Repealed: 2015, c. 38, Sched. 3, s. 1 (5).
 
 ### Duty to meter consumption
@@ -3538,9 +4207,13 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Duties of collectors
 
 (3) Every collector shall do the following:
+
 1. Levy and collect the debt retirement charge in accordance with the regulations.
+
 2. Remit, in accordance with the regulations, the debt retirement charge collectable and payable by the collector.
+
 3. Keep the prescribed records in accordance with the prescribed requirements.
+
 4. Submit returns to the Minister of Finance in accordance with the prescribed requirements.
 
 ### Status
@@ -3554,8 +4227,11 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Duties
 
 (2) Every self-generating user shall do the following:
+
 1. Remit, in accordance with the regulations, the debt retirement charge payable by the self-generating user.
+
 2. Keep the prescribed records in accordance with the prescribed requirements.
+
 3. Submit returns to the Minister of Finance in accordance with the prescribed requirements.
 
 ### Assessment and Reassessment of Amounts Owing
@@ -3563,7 +4239,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Assessment payable by collector
 
 85.5 (1) At any time the Minister of Finance considers reasonable, he or she may assess or reassess the debt retirement charge collected by a collector for which the collector has not accounted,
+
 (a) if the collector fails to submit a return or remittance as required by this Part; or
+
 (b) if the collector’s returns are not substantiated by the collector’s records.
 
 ### Assessment upon inspection
@@ -3589,7 +4267,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Same, wilful non-compliance
 
 (3) If the Minister of Finance makes an assessment or reassessment under subsection 85.5 (1) or (2) and if the Minister of Finance is satisfied that the non-compliance that gave rise to the assessment or reassessment was attributable to neglect, carelessness, wilful default or fraud, the Minister of Finance may assess a penalty against the collector equal to the greater of,
+
 (a) $100; or
+
 (b) 25 per cent of the amount assessed or reassessed under subsection 85.5 (1) or (2), as the case may be.
 
 ### Same, failure to collect
@@ -3611,7 +4291,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Administrative penalty, wilful failure to collect
 
 (8) If a collector fails to collect a debt retirement charge that the collector is required under this Part to collect and if the Minister of Finance is satisfied that the failure is attributable to neglect, carelessness, wilful default or fraud, the Minister of Finance may assess a penalty against the collector,
+
 (a) in an amount equal to the greater of $25 and 25 per cent of the amount that should have been collected, if a penalty has been assessed against the collector under subsection (4) for the failure to collect; or
+
 (b) in an amount equal to the greater of $25 and 125 per cent of the amount that should have been collected, if no penalty has been assessed against the collector under subsection (4) for the failure to collect.
 
 ### Assessments payable by users
@@ -3621,7 +4303,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Time limit
 
 (2) The assessment or reassessment under subsection (1) must be made,
+
 (a) in the case of a user that is not a self-generating user, within four years after the date on which the debt retirement charge became payable; and
+
 (b) in the case of a self-generating user, within four years after the end of the calendar year during which the debt retirement charge became payable.
 
 ### Exception, where misrepresentation, etc.
@@ -3639,7 +4323,9 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Administrative penalties, users
 
 85.8 If the Minister of Finance makes an assessment or reassessment under section 85.7 and if the Minister of Finance is satisfied that the non-compliance that gave rise to the assessment or reassessment was attributable to neglect, carelessness, wilful default or fraud, the Minister of Finance may assess a penalty against the user equal to the greater of,
+
 (a) $100; or
+
 (b) 25 per cent of the amount assessed or reassessed under section 85.7.
 
 ### Administrative penalty, self-generating user
@@ -3681,13 +4367,21 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Calculation of debt owing
 
 (4) For the purposes of subsection (1), the amount of a debt owing by a person to the Financial Corporation on a particular date is the amount by which “A” exceeds “B” where,
+
 “A” is the aggregate of,
+
 (a) the amount of the debt retirement charge collectable by the person as a collector or payable by the person as a user under this Part before that date,
+
 (b) all amounts or penalties or both assessed under this Part against the person before that date, and
+
 (c) the total of all amounts of interest assessed and payable under this section against the person in respect of a period of time before that date, and
+
 “B” is the aggregate of,
+
 (a) the amount of the debt retirement charge remitted or paid by the person under this Part before that date,
+
 (b) all amounts or penalties or both assessed under this Part and paid by the person before that date, and
+
 (c) the total of all amounts of interest credited to the person in respect of a period of time before that date.
 
 ### Notice of assessment
@@ -3777,8 +4471,11 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Objections and appeals
 
 85.17 (1) Any of the following persons may object to, or appeal from, an assessment or a reassessment made under this Part, a statement of disallowance given under this Part or a penalty imposed under this Part:
+
 1. A collector.
+
 2. A user.
+
 3. An individual against whom an assessment has been made under section 85.10.
 
 ### Same
@@ -3790,8 +4487,11 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Funds held in trust
 
 85.18 (1) An amount collectable or collected by a collector as a debt retirement charge or on account of such a charge shall be deemed, despite any security interest in the amount,
+
 (a) to be held in trust for the Financial Corporation;
+
 (b) to be held separate and apart from the collector’s property; and
+
 (c) to be held separate and apart from property held by any secured creditor that, but for any security interest, would be the collector’s property.
 
 ### Same
@@ -3807,15 +4507,21 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Offences
 
 85.20 (1) Every person who contravenes or fails to comply with any of the following provisions is guilty of an offence and, on conviction, is liable to a fine of not less than $100 for each day during which the offence continues:
+
 1. Section 85.1 (duty to meter consumption).
+
 2. Subsection 85.3 (2) (registration of collectors) or paragraph 4 of subsection 85.3 (3) (duty to submit returns, collectors).
+
 3. Subsection 85.4 (1) (registration of self-gene­rating users) or paragraph 3 of subsection 85.4 (2) (duty to submit returns, self-generating users).
+
 4. Subsection 85.28 (3) (prohibition re inspection).
 
 ### Same, re failure to collect
 
 (2) Every collector who is required by paragraph 1 of subsection 85.3 (3) to levy and collect a debt retirement charge and who fails to do so is guilty of an offence and, on conviction, is liable to a fine equal to the sum of,
+
 (a) the amount of the debt retirement charge that should have been collected, as determined under subsection (3); and
+
 (b) an amount that is not less than $50 and not more than $2,000.
 
 ### Determination of amount
@@ -3833,9 +4539,13 @@ ii. to the telecommunication system that permits the Smart Metering Entity to tr
 ### Offence, re failure to remit
 
 (6) Every collector who fails to remit an amount collected as, or on account of, a debt retirement charge as required by paragraph 2 of subsection 85.3 (3) is guilty of an offence and, on conviction, is liable to either or both of the following penalties in addition to any other penalty imposed under this Part:
+
 1. A fine in an amount that is,
+
 i. not less than the greater of $100 and 25 per cent of the amount collected and not remitted, and
+
 ii. not more than the greater of $100 and double the amount collected and not remitted.
+
 2. Imprisonment for a term of not more than two years.
 
 ### Offence, re records
@@ -3861,25 +4571,37 @@ ii. not more than the greater of $100 and double the amount collected and not re
 ### Offences, false statements, etc., and fraud
 
 85.23 (1) Every person who engages in any of the following acts or omissions is guilty of an offence:
+
 1. Making, participating in, assenting to or acquiescing in the making of a false or deceptive statement in a return, statement or other document or in an answer required or submitted under this Part.
+
 2. Destroying, altering, mutilating, hiding or otherwise disposing of information or records of a user or collector, for the purpose of evading payment of an amount under this Part.
+
 3. Making, assenting to or acquiescing in the making of a false or deceptive entry of a material particular in a record of a user or collector.
+
 4. Omitting to make or assenting to or acquiescing in the omission of an entry of a material particular in a record of a user or collector.
+
 5. For the purpose of evading a payment under this Part, destroying, altering or otherwise causing a meter to inaccurately measure the consumption of electricity or to cease measuring the consumption of electricity or replacing a meter with another meter that is calculated to mislead.
+
 6. Wilfully evading or attempting to evade, in any manner, payment of an amount under this Part or compliance with an obligation under this Part.
 
 ### Penalty upon conviction
 
 (2) A person convicted of an offence under subsection (1) is liable to either or both of the following penalties in addition to any other penalty imposed under this Part:
+
 1. A fine in an amount that is,
+
 i. not less than the greater of $1,000 and 50 per cent of the amount that should have been remitted or that the person sought to evade, and
+
 ii. not more than the greater of $1,000 and double the amount that should have been remitted or that the person sought to evade.
+
 2. Imprisonment for a term of not more than two years.
 
 ### Offence, obtaining refund or rebate by fraud
 
 (3) Every person who, by deceit, falsehood or any other fraudulent means, obtains or attempts to obtain a refund or rebate under this Part to which the person is not entitled is guilty of an offence and, on conviction, is liable to either or both of the following penalties:
+
 1. A fine of not less than $500 and not more than double the amount of the refund or rebate sought.
+
 2. Imprisonment for a term of not more than two years.
 
 ### General offence
@@ -3919,26 +4641,35 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Confidentiality
 
 85.29 (1) Except as authorized by this section, no person employed by the Government of Ontario shall,
+
 (a) knowingly communicate or knowingly allow to be communicated to any person any information obtained by or on behalf of the Minister of Finance for the purposes of this Part; or
+
 (b) knowingly allow any person to inspect or have access to any record or thing obtained by or on behalf of the Minister of Finance for the purposes of this Part.
 
 ### Testimony
 
 (2) No person employed by the Government of Ontario shall be required, in connection with any legal proceedings,
+
 (a) to give evidence relating to any information obtained by or on behalf of the Minister of Finance for the purposes of this Part; or
+
 (b) to produce any record or thing obtained by or on behalf of the Minister of Finance for the purposes of this Part.
 
 ### Exception
 
 (3) Subsections (1) and (2) do not apply in respect of,
+
 (a) criminal proceedings under an Act of the Parliament of Canada;
+
 (b) proceedings in respect of the trial of any person for an offence under an Act of the Legislature; or
+
 (c) proceedings relating to the collection of the debt retirement charge under this Part.
 
 ### Communication
 
 (4) A person employed by the Government of Ontario may, in the course of duties in connection with the administration or enforcement of this Part,
+
 (a) communicate or allow to be communicated to another person employed by the Government of Ontario in the administration or enforcement of any law, information obtained by or on behalf of the Minister of Finance for the purposes of this Part; and
+
 (b) allow another person employed by the Government of Ontario in the administration or enforcement of any law, to inspect or have access to any record or thing obtained by or on behalf of the Minister of Finance for the purposes of this Part.
 
 ### Reciprocal communication
@@ -4004,7 +4735,9 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Affidavits, etc.
 
 85.34 (1) Any of the following documents may be sworn by any person who has authority to administer an oath or any person authorized for the purposes of this section by the Lieutenant Governor in Council:
+
 1. A declaration or affidavit relating to a return made under this Part.
+
 2. A statement of information given under section 85.28 (inspection).
 
 ### Same
@@ -4018,33 +4751,57 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Regulations, Parts V and V.I
 
 86 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) respecting the calculation of the fees referred to in subsection 71 (1) and respecting the manner in which, and the time at which, they are to be paid;
+
 (b) prescribing provisions of the Business Corporations Act, the Not-for-Profit Corporations Act, 2010 or the Corporations Information Act that apply, with necessary modifications, to the Financial Corporation;
+
 (c), (d) Repealed: 2015, c. 38, Sched. 3, s. 2.
+
 (e) prescribing one or more rates for the purposes of subsections 85 (4) and 85 (4.1), including rates applicable to particular users, classes of users or uses of electricity, prescribing the amount of electricity with respect to which a rate is applied and prescribing one or more methods for determining the amount of electricity consumed;
+
 (f) exempting particular users or classes of users from paying a debt retirement charge, specifying the circumstances in which the exemption applies and imposing conditions or restrictions with respect to an exemption;
+
 (g) providing for the rebate of the debt retirement charge in whole or in part, prescribing the circumstances in which and conditions under which rebates may be made and prescribing the method of determining the amount of a rebate;
+
 (h) respecting any other matter that the Lieutenant Governor in Council considers necessary or advisable in connection with this Part.
+
 (i) - l) Repealed: 2000, c. 42, s. 28 (1).
 
 ### Regulations, Minister of Finance
 
 (1.1) The Minister of Finance may make regulations,
+
 (a) determining anything that the Minister of Finance is permitted or required by this Part to determine;
+
 (b) defining, for the purposes of this Part, any word or expression used in this Part;
+
 (c) exempting particular users or classes of users from one or more obligations under this Part, other than the obligation to pay a debt retirement charge, specifying the circumstances in which the exemption applies and imposing conditions or restrictions with respect to an exemption;
+
 (d) prescribing the time or times at which a particular user or class of users is required to pay a debt retirement charge;
+
 (e) prescribing, for the purpose of section 85.1, the users or classes of users that are required to meter the consumption of electricity and prescribing methods, procedures and requirements with respect to the metering of electricity;
+
 (f) governing the appointment, registration and duties of collectors;
+
 (g) governing the registration and duties of self-generating users;
+
 (h) prescribing methods of collecting and remitting a debt retirement charge and establishing requirements relating to the collection and remittance, including requirements about invoicing;
+
 (i) requiring the debt retirement charge to be paid or remitted in instalments, specifying when the instalments are to be paid or remitted, and requiring the payment of interest or administrative penalties or both for late payments;
+
 (j) prescribing the additional fee referred to in subsection 85.14 (4);
+
 (k) governing refunds by collectors;
+
 (l) prescribing procedures to be followed by collectors and users in connection with refunds and rebates under this Part;
+
 (m) prescribing, for the purpose of subsection 85.15 (4), a time limit for applying for a refund;
+
 (n) governing payments to a collector when the collector pays a debt retirement charge on behalf of a user and the user then defaults on paying the debt retirement charge to the collector;
+
 (o) prescribing a rate of interest or a method of determining a rate of interest for debts owing under this Part to the Financial Corporation and for amounts owing to a person as a refund or rebate under this Part;
+
 (p) prescribing the records to be kept by a collector or a self-generating user for the purposes of this Part.
 
 ### General or particular
@@ -4058,8 +4815,11 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Repeal
 
 87 (1) This Part is repealed on a day to be named by proclamation of the Lieutenant Governor.
+
 (2) Repealed: 2000, c. 42, s. 29.
+
 (3) Repealed: 2000, c. 42, s. 29.
+
 (4) Repealed: 2000, c. 42, s. 29.
 
 ## PART VI SPECIAL PAYMENTS
@@ -4067,19 +4827,33 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Definitions, Part VI
 
 88 In this Part,
+
 “municipal electricity utility” means,
+
 (a) a municipal corporation that generates, transmits, distributes or retails electricity directly,
+
 (b) a commission established under the Public Utilities Act or any other general or special Act through which a municipal corporation generates, transmits, distributes or retails electricity,
+
 (c) any other body, however established, through which a municipal corporation generates, transmits, distributes or retails electricity,
+
 (d) a corporation established pursuant to section 142 or a subsidiary of such a corporation, if a municipal corporation holds an interest, directly or indirectly, in one or more shares of such a corporation or subsidiary,
+
 (d.1) a corporation established after May 1, 2003 under sections 9, 10 and 11 of the Municipal Act, 2001 in accordance with section 203 of that Act or established under sections 7 and 8 of the City of Toronto Act, 2006 in accordance with sections 148 and 154 of that Act or a predecessor of those sections in either Act, for the purpose of directly or indirectly acquiring, holding, disposing of and otherwise dealing with shares of a corporation incorporated by a municipal corporation under section 142 of this Act,
+
 (d.2) any corporation or other entity through which, pursuant to subsection 144 (2), a municipal corporation, municipal service board, a city board or municipal services corporation generates electricity,
+
 (e) a police village that generates, transmits, distributes or retails electricity directly or indirectly, or a corporation or other entity owned by the members of a police village for the purpose of generating, transmitting, distributing or retailing electricity,
+
 (e.1) any corporation or other entity that is exempt under paragraph 149 (1) (c), (d), (d.1), (d.2), (d.3), (d.4), (d.5) or (d.6) of the Income Tax Act (Canada) from the payment of tax under that Act, and that generates, transmits, distributes or retails electricity in Ontario, other than,
+
 (i) a band as defined in the Indian Act (Canada),
+
 (ii) a corporation or other entity that is exempt under paragraph 149 (1) (d.5) of the Income Tax Act (Canada) from the payment of tax under that Act because not less than 90 per cent of the capital of the corporation or entity is owned by a band as defined in the Indian Act (Canada), or
+
 (iii) a corporation that is exempt under paragraph 149 (1) (d.6) of the Income Tax Act (Canada) from the payment of tax under that Act because all of its shares or capital are owned by a corporation or entity described in subclause (ii),
+
 (f) a person or entity prescribed by the regulations; (“service municipal d’électricité”)
+
 “taxation year” has the same meaning as in the Income Tax Act (Canada). (“année d’imposition”)
 
 ### Payments in lieu of federal corporate tax
@@ -4133,22 +4907,31 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Allocation of Federal tax
 
 91.1 (1) This section applies to any of the following corporations, if the corporation ceases at any time to be exempt under subsection 149 (1) of the Income Tax Act (Canada) from the payment of tax under that Act:
+
 1. Hydro One Inc.
+
 2. A subsidiary of Hydro One Inc.
+
 3. A municipal electricity utility.
+
 4. A successor of any of them.
 
 ### Payment
 
 (2) The Crown in right of Ontario shall pay to the Financial Corporation from the Consolidated Revenue Fund the amount, if any, that meets both of the following criteria:
+
 1. The corporation is liable to pay the amount under the Income Tax Act (Canada) after ceasing to be exempt under subsection 149 (1) of that Act.
+
 2. The Crown in right of Ontario receives the amount from, or is credited with the amount by, the Crown in right of Canada in respect of the liability described in paragraph 1.
 
 ### Same, by corporation
 
 (3) The specified corporation shall pay to the Financial Corporation the amount, if any, that meets all of the following criteria:
+
 1. The corporation is liable to pay the amount under the Income Tax Act (Canada) after ceasing to be exempt under subsection 149 (1) of that Act.
+
 2. The corporation receives the amount from, or is credited with the amount by, the Crown in right of Canada in respect of the liability described in paragraph 1.
+
 3. The Crown in right of Canada intends that the corporation shall pay the amount to the Financial Corporation for the repayment of the debt of the Financial Corporation.
 
 ### Payment to Financial Corporation
@@ -4166,7 +4949,9 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Regulations
 
 (4) The Minister of Finance may make regulations,
+
 (a) prescribing subsidiaries of Hydro One Inc. for the purposes of subsection (2);
+
 (b) prescribing taxation years for the purposes of subsection (2).
 
 ### Repeal
@@ -4176,7 +4961,9 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Payments in lieu of additional municipal and school taxes
 
 92 (1) Hydro One Inc. and each of its subsidiaries, Ontario Power Generation Inc. and each of its subsidiaries and every municipal electricity utility shall pay to the Financial Corporation in each year the difference between,
+
 (a) the amount of taxes that it would be liable to pay in the year for municipal and school purposes if the assessed value of land owned by it on which are situated generating station buildings or structures or transformer station buildings or structures were determined on the basis of the amount prescribed by the regulations for each square metre of inside ground floor area of the actual building or structure housing the generating, transforming and auxiliary equipment and machinery; and
+
 (b) the amount of taxes that it is liable to pay in the year for municipal and school purposes in respect of land owned by it on which are situated generating station buildings or structures or transformer station buildings or structures.
 
 ### Subsequent owners
@@ -4190,21 +4977,29 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Payments after Part V repealed
 
 (3) After Part V is repealed under section 84.1, all payments required to be made under this section to the Financial Corporation shall instead be paid to,
+
 (a) one or more municipalities in the manner specified by the Minister of Finance, in respect of land located in a municipality; and
+
 (b) the Crown in right of Ontario, in respect of land located in territory without municipal organization.
+
 (4) Repealed: 2015, c. 38, Sched. 3, s. 5 (2).
+
 (5) Repealed: 2004, c. 31, Sched. 11, s. 2 (1).
 
 ### Payments under the Assessment Act and Provincial Land Tax Act, 2006
 
 (6) The references in subsection (1) to taxes for municipal and school purposes shall be deemed to include payments under section 27 of the Assessment Act and taxes under the Provincial Land Tax Act, 2006.
+
 (7) Repealed: 2001, c. 8, s. 205 (4).
+
 (8) Repealed: 2004, c. 31, Sched. 11, s. 2 (2).
 
 ### Non-application
 
 (9) This section, other than this subsection, does not apply to the following:
+
 1. A hydro-electric generating station, as defined in subsection 92.1 (24), after December 31, 2000.
+
 2. A wind turbine tower, as defined in subsection 45.4 (5) of Ontario Regulation 282/98 (General) made under the Assessment Act, after December 31, 2004.
 
 ### Tax and charges on hydro-electric stations
@@ -4214,6 +5009,7 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Payment to the Financial Corporation
 
 (2) Despite subsection (1), the owner of a hydro-electric generating station shall pay to the Financial Corporation a charge computed at the rates specified in subsection (4) on the gross revenue from annual generation from the hydro-electric generating station if the hydro-electric generating station is owned by a person referred to in subsection 92 (1) or was owned at any time after March 31, 1999 by a person referred to in subsection 92 (1).
+
 (2.1) Repealed: 2006, c. 33, Sched. Z.3, s. 9 (3).
 
 ### Payment to Ontario
@@ -4223,9 +5019,13 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Rates
 
 (4) For the purpose of subsections (1) and (2), the rates shall be calculated as follows:
+
 1. 2.5 per cent on gross revenue from the first 50 gigawatt hours of annual generation from the generating station.
+
 2. 4.5 per cent on gross revenue from annual generation from the generating station above 50 gigawatt hours up to and including 400 gigawatt hours.
+
 3. 6.0 per cent on gross revenue from annual generation from the generating station above 400 gigawatt hours up to and including 700 gigawatt hours.
+
 4. 26.5 per cent on gross revenue from annual generation from the generating station above 700 gigawatt hours.
 
 ### Additional charge
@@ -4239,13 +5039,17 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Exception
 
 (6) There may be deducted, in determining the amount of gross revenue referred to in subsections (4) and (5), the amount of gross revenue resulting from the generation of electricity from eligible capacity, as determined by regulation, for the time period that is the longer of,
+
 (a) the first 120 months after the eligible capacity is put in service, as determined by regulation; and
+
 (b) such length of time, after the eligible capacity is first put in service, as the Minister of Finance may prescribe in the regulations.
+
 (7) Repealed: 2009, c. 33, Sched. 16, s. 4.
 
 ### Payment of taxes and charges
 
 (8) The taxes and charges payable under this section shall be paid at the times and in the manner prescribed by regulation.
+
 (9) Repealed: 2004, c. 31, Sched. 11, s. 3 (3).
 
 ### Demand for information
@@ -4263,26 +5067,35 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Confidentiality
 
 (12) Except as authorized by this section, no person employed by the Government of Ontario shall,
+
 (a) knowingly communicate or knowingly allow to be communicated to any person any information obtained by or on behalf of the Minister of Finance for the purposes of this section; or
+
 (b) knowingly allow any person to inspect or to have access to any record or thing obtained by or on behalf of the Minister of Finance for the purposes of this section.
 
 ### Testimony
 
 (13) No person employed by the Government of Ontario shall be required, in connection with any legal proceedings,
+
 (a) to give evidence relating to any information obtained by or on behalf of the Minister of Finance for the purposes of this section; or
+
 (b) to produce any record or thing obtained by or on behalf of the Minister of Finance for the purposes of this section.
 
 ### Exception
 
 (14) Subsections (12) and (13) do not apply in respect of,
+
 (a) criminal proceedings under an Act of the Parliament of Canada;
+
 (b) proceedings in respect of the trial of any person for an offence under an Act of the Legislature; or
+
 (c) proceedings relating to the collection of taxes or charges under this section.
 
 ### Communication
 
 (15) A person employed by the Government of Ontario may, in the course of duties in connection with the administration or enforcement of this section,
+
 (a) communicate or allow to be communicated to another person employed by the Government of Ontario in the administration or enforcement of any law, information obtained by or on behalf of the Minister of Finance for the purposes of this section; and
+
 (b) allow another person employed by the Government of Ontario in the administration or enforcement of any law, to inspect or have access to any record or thing obtained by or on behalf of the Minister of Finance for the purposes of this section.
 
 ### Reciprocal communication
@@ -4308,15 +5121,25 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Regulations
 
 (21) The Minister of Finance may make regulations,
+
 (a) determining eligibility for a deduction under subsection (6);
+
 (b) prescribing one or more methods for determining gross revenue for the purposes of this section;
+
 (c) Repealed: 2004, c. 31, Sched. 11, s. 3 (4).
+
 (d) providing for lower rates to be applied to specified hydro-electric generating stations for the purposes of subsections (4) and (5);
+
 (e) determining the annual generation for the purposes of subsections (4) and (5) pursuant to energy transfers or water transfers between a hydro-electric generating station in Ontario and a hydro-electric generating station in Ontario or in another jurisdiction;
+
 (e.1) prescribing a length of time longer than 120 months that applies to one or more hydro-electric generating stations for the purposes of subsection (6);
+
 (f) exempting any hydro-electric generating station from the tax or charge or a portion of the tax or charge under subsection (1), (2) or (5);
+
 (f.1) prescribing water power lease holders for the purposes of subsection (5.1), specifying the amount of the payments to be made under that subsection and the time and manner in which the payments are to be made;
+
 (g) defining any word or expression used in this section that is not already defined;
+
 (h) providing for compensation to be paid to municipalities in which a hydro-electric generating station is located in respect of revenues foregone as a result of the enactment of paragraph 28 of subsection 3 (1) of the Assessment Act.
 
 ### General or specific
@@ -4330,8 +5153,11 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Definitions
 
 (24) In this section,
+
 “holder of a water power lease” means a person who has entered into an agreement, lease or other writing respecting the use of water under subsection 42 (2) of the Public Lands Act or under the Niagara Parks Act or the The St. Lawrence Development Act, 1952 (No. 2) or who is required to enter into such agreement, lease or other writing in order to be entitled to occupy public lands; (“titulaire d’un bail pour l’exploitation de ressources hydro-électriques”)
+
 “hydro-electric generating station” includes any building or structure in which electricity is generated through the use of water power or from the movement of water; (“centrale hydro-électrique”)
+
 “owner” includes a tenant of land owned by the Crown or a municipality on which a hydro-electric generating station is located or a tenant of land owned by any other person if the tenant is the generator of electricity from the hydro-electric generating station. (“propriétaire”)
 
 ### Municipal electricity utilities
@@ -4371,29 +5197,45 @@ ii. not more than the greater of $1,000 and double the amount that should have b
 ### Deductions from amount payable
 
 (3) Subject to subsection (5), the amount payable under subsection (1) in a taxation year by a municipal electricity utility may be reduced by the following amounts:
+
 1. Any amount payable and paid by the municipal electricity utility under section 93 in respect of the part of the taxation year up to and including the date of the transfer or in respect of a previous taxation year.
+
 2. Any amount payable and paid by the municipal electricity utility under Part II, II.1 or III of the Corporations Tax Act or Part III of the Taxation Act, 2007 in respect of the part of the taxation year up to and including the date of the transfer or in respect of a previous taxation year.
+
 3. Any amount that the municipal electricity utility would be liable to pay as tax under Part I of the Income Tax Act (Canada) in respect of the taxation year if that tax were computed on the basis that the municipal electricity utility had no income during the taxation year other than the capital gain realized on the transfer of its interest in the property.
+
 4. Any amount that the municipal electricity utility would be liable to pay as tax under Part I of the Income Tax Act (Canada) in respect of the taxation year if that tax were computed on the basis that the municipal electricity utility had no income during the taxation year other than an amount included in income under paragraph 14 (1) (b) of the Income Tax Act (Canada) in respect of the transfer of its interest in the property.
 
 ### Deductions from amount payable, interest in municipal electricity utility
 
 (4) Subject to subsection (5), a municipal corporation or municipal electricity utility may reduce the amount payable under subsection (1) in a taxation year in accordance with the following rules with respect to each municipal electricity utility (a “subject municipal electricity utility”) in which it holds a direct or indirect interest immediately before the transfer:
+
 1. Subject to paragraph 2, the amount of the reduction shall be calculated using the formula,
+
 A × B/C
+
 in which,
+
 “A” is the total of the amounts that are payable and paid by the subject municipal electricity utility,
+
 (a) under section 93 in respect of the part of the taxation year up to and including the date of the transfer or in respect of a previous taxation year, and
+
 (b) under Part II, II.1 or III of the Corporations Tax Act or Part III of the Taxation Act, 2007 in respect of the part of the taxation year up to and including the date of the transfer or in respect of a previous taxation year,
+
 “B” is the fair market value of the municipal corporation or municipal electricity utility’s direct or indirect interest in the shares of the subject municipal electricity utility immediately before the transfer, and
+
 “C” is the aggregate fair market value of all issued and outstanding shares of the subject municipal electricity utility immediately before the transfer.
+
 2. A municipal corporation may calculate its reduction under paragraph 1 as if it owned all of the subject municipal electricity utility’s issued and outstanding shares if, immediately before the transfer,
+
 i. the municipal corporation and subject municipal electricity utility are related persons within the meaning of section 251 of the Income Tax Act (Canada), and
+
 ii. no other municipal corporation or municipal electricity utility holds a direct or indirect interest in the subject municipal electricity utility.
 
 ### Restriction on reductions
 
 (5) An amount referred to in subsection (3) or (4) may be applied under those subsections to reduce the amount payable by a municipal corporation or municipal electricity utility under subsection (1) only to the extent that it has not previously been applied to reduce an amount payable by a municipal corporation or municipal electricity utility under subsection (1).
+
 (6), (6.1) Revoked: 2017, c. 8, Sched. 8, s. 2 (2).
 
 ### Refund
@@ -4407,7 +5249,9 @@ ii. no other municipal corporation or municipal electricity utility holds a dire
 ### Same
 
 (8) Subsection (1) does not apply to transfers prescribed by the regulations.
+
 (9) Repealed: 2005, c. 31, Sched. 6, s. 2 (2).
+
 (9.1) Repealed: 2005, c. 31, Sched. 6, s. 2 (3).
 
 ### Payments to Minister of Finance
@@ -4417,20 +5261,27 @@ ii. no other municipal corporation or municipal electricity utility holds a dire
 ### Status of police village
 
 (10.1) A police village shall be deemed to be a municipal corporation for the purposes of this section.
+
 (11) Spent:
 
 ### Application of Corporations Tax Act
 
 95 (1) Except as otherwise prescribed by the regulations, the Minister of Finance is responsible for enforcing the payment of amounts payable under this Part, including amounts payable under regulations made under this Part, and, for the purposes of this Part,
+
 (a) Parts V and VI of the Corporations Tax Act apply with necessary modifications and with such changes as may be prescribed by the regulations to amounts payable under this Part after November 6, 1998, other than amounts payable under section 92 or 92.1;
+
 (b) Divisions C, D, E and F of Part V and Part VI of the Corporations Tax Act apply with necessary modifications and with such changes as may be prescribed by the regulations to amounts payable under section 92 or 92.1 after November 6, 1998, including any penalties and interest on late payments;
+
 (c) any amount payable under this Part after November 6, 1998, other than under section 94, that remains unpaid after it becomes due, including any penalties and interest on late payments, may be collected as if it were tax payable under the Corporations Tax Act.
 
 ### Collection of amounts payable under s. 94
 
 (2) In the application of Parts V and VI of the Corporations Tax Act for the purposes of enforcing the payment of any amount under section 94,
+
 (a) a reference to “a taxation year” or “the taxation year” shall be read as a reference to a transfer or a particular transfer, as the case may be;
+
 (b) a reference to a return shall be read as a reference to any notice given to the Minister for the purposes of section 94; and
+
 (c) a reference to a notice of assessment or reassessment shall be read as including a reference to correspondence prescribed by the regulations that is issued by the Minister for the purposes of section 94.
 
 ### Order to remit, Financial Corporation
@@ -4440,17 +5291,25 @@ ii. no other municipal corporation or municipal electricity utility holds a dire
 ### Scope of remission
 
 (2) A remission ordered under subsection (1) may be total or partial, conditional or unconditional and may be made,
+
 (a) before, after or pending any suit or proceeding for the recovery of the amount in respect of which the remission is granted;
+
 (b) before or after any payment of the amount payable under Part V.1 or VI or under section 83.1 of the Corporations Tax Act has been made or enforced by process or execution; or
+
 (c) in any particular case or class of cases and before the liability to pay arises.
 
 ### Form of remission
 
 (3) A remission ordered under subsection (1) may be made,
+
 (a) by forbearing to institute a suit or proceeding for the recovery of the amount in respect of which remission is granted;
+
 (b) by delaying, staying or discontinuing any suit or proceeding already instituted;
+
 (c) by forbearing to enforce, staying or abandoning any execution or process upon any judgment;
+
 (d) by the entry of satisfaction upon any judgment; or
+
 (e) by repaying any sum of money paid to or recovered by the Financial Corporation.
 
 ### Conditional remission
@@ -4464,23 +5323,41 @@ ii. no other municipal corporation or municipal electricity utility holds a dire
 ### Regulations, Part VI
 
 96 (1) The Minister of Finance may make regulations,
+
 (0.a) prescribing persons and entities for the purposes of clause (f) of the definition of “municipal electricity utility” in section 88;
+
 (a) prescribing modifications to the method of calculating the amount of any payment required by section 89, 90 or 93;
+
 (b) prescribing amounts for the purpose of clause 92 (1) (a);
+
 (c) prescribing percentages for the purpose of subsection 94 (1) and prescribing modifications to the method of calculating the amount of the payment required by section 94;
+
 (d) deeming a transaction or series of transactions, for the purpose of section 94, to be a transfer to a person of an interest in real or personal property that has been used in connection with generating, transmitting, distributing or retailing electricity;
+
 (e) prescribing transfers to which subsection 94 (1) does not apply, subject to such conditions or restrictions as may be specified in the regulations;
+
 (e.1) prescribing requirements relating to security for the purposes of subsection 94 (1);
+
 (e.2) governing refunds authorized by subsection 94 (7);
+
 (e.3) prescribing circumstances for the purposes of subsection 94 (7.1);
+
 (e.4) Repealed: 2005, c. 31, Sched. 6, s. 3.
+
 (f) requiring payments under this Part to be paid in instalments, prescribing the times when the payments or instalments are required to be paid and requiring the payment of interest or penalties on late payments;
+
 (f.1) prescribing one or more provisions of Part V or VI of the Corporations Tax Act that do not apply in respect of an amount payable under one or more sections in this Part that are prescribed in the regulation;
+
 (f.2) prescribing changes to provisions in Part V or VI of the Corporations Tax Act that apply in respect of an amount payable under one or more sections in this Part that are prescribed in the regulation, including,
+
 (i) prescribing a change to a time limit for issuing an assessment or reassessment in respect of an amount payable under this Part after November 6, 1998, and
+
 (ii) prescribing a change to a time limit for the payment of a refund of an overpayment in respect of a period after November 6, 1998;
+
 (f.3) prescribing rules governing the application of one or more provisions of Part VIII of the Taxation Act, 2007 with respect to an amount payable under one or more provisions of this Part that are prescribed by the rules;
+
 (g) prescribing procedures that must be followed in connection with any payment required by this Part;
+
 (h) respecting any other matter that the Minister of Finance considers necessary or advisable in connection with this Part.
 
 ### General or particular
@@ -4500,11 +5377,17 @@ ii. no other municipal corporation or municipal electricity utility holds a dire
 ### Interpretation, Part VII
 
 97 (1) In this Part,
+
 “changeover date” means the date prescribed under subsection (3); (“date du changement”)
+
 “commencement date” means, in relation to a successor pension plan, the date prescribed under subsection 102 (6); (“date d’effet”)
+
 “FCPP” means the Ontario Hydro Financial Corporation Pension Plan; (“RRSF”)
+
 “former member” means a person who is a former member of a pension plan within the meaning of the Pension Benefits Act and includes any other person who is entitled to receive or is receiving a payment from the pension fund by virtue of the person’s relationship to the former member; (“ancien participant”)
+
 “successor employer” means a person who is required to establish a pension plan under subsection 102 (1); (“employeur subséquent”)
+
 “successor pension plan” means a pension plan established in accordance with section 102. (“régime de retraite subséquent”)
 
 ### Pension plans
@@ -4534,17 +5417,21 @@ ii. no other municipal corporation or municipal electricity utility holds a dire
 ### Administrator
 
 (5) The Financial Corporation is the administrator of the FCPP.
+
 (6) Repealed: 1998, c. 15, Sched. A, s. 98 (9).
 
 ### Certain benefits
 
 (7) On the day this section comes into force, the FCPP ceases to provide,
+
 (a) disability benefits that are being provided under a contract between the Financial Corporation and an insurer or a subsidiary of an insurer immediately before this section comes into force; and
+
 (b) life insurance that is being provided under an insurance contract between the Financial Corporation and an insurer or a subsidiary of an insurer immediately before this section comes into force.
 
 ### Same
 
 (8) The amount held by the Pension and Insurance Fund of Ontario Hydro immediately before this section comes into force that was allocated for the provision of the benefits and insurance described in subsection (7) is payable to the Financial Corporation in trust for the provision of those benefits and that insurance.
+
 (9) Spent:
 
 ### Employer contributions to FCPP
@@ -4562,17 +5449,25 @@ ii. no other municipal corporation or municipal electricity utility holds a dire
 ### Unfunded liability or solvency deficiency
 
 (4) If a report on the FCPP filed with the Chief Executive Officer appointed under subsection 10 (2) of the Financial Services Regulatory Authority of Ontario Act, 2016 reveals a going concern unfunded liability or solvency deficiency or both, each successor employer shall pay to the pension fund for the FCPP, as its share of the total amount of each monthly special payment required as a result of the report, the amount determined by the plan actuary in accordance with the following formula:
+
 (A/B) × C
+
 in which,
+
 “A” is the total of the actuarial liabilities of the FCPP for the pension benefits and ancillary benefits of members and former members of the FCPP who will become members or former members of the successor plan established by the successor employer;
+
 “B” is the total of the actuarial liabilities of the FCPP for the pension benefits and ancillary benefits of members and former members of the FCPP; and
+
 “C” is the total amount of the monthly special payment required as a result of the report.
 
 ### Definition
 
 (5) In subsection (4),
+
 “actuarial liabilities” means,
+
 (a) in the case of a going concern valuation, the going concern liabilities, and
+
 (b) in the case of a solvency valuation, the solvency liabilities.
 
 ### Administrative costs of FCPP
@@ -4594,16 +5489,23 @@ in which,
 ### Successor pension plans
 
 102 (1) The IESO, Hydro One Inc., Ontario Power Generation Inc. and the Electrical Safety Authority shall each establish a pension plan to provide pension benefits and ancillary benefits for the following persons:
+
 1. Its employees whose employment is transferred to it by or pursuant to an order made under section 116 and who are, or are entitled to be, members of the FCPP before their employment is transferred.
+
 2. Such other employees as it considers appropriate.
+
 3. Such former members of the FCPP as the Financial Corporation, in its sole discretion acting in its capacity as employer, designates for transfer to the pension plan.
+
 4. Such other persons as this Part may require.
 
 ### Selection of former members
 
 (2) In determining which former members of the FCPP are to be transferred to a successor pension plan, the Financial Corporation shall comply with the following rules:
+
 1. All former members of the FCPP must be transferred to the successor pension plans.
+
 2. The Financial Corporation shall consider which successor employer, if any, would most likely have become the employer of each former employee of Ontario Hydro (assuming, only for the purposes of this rule, that the former employee had been employed by Ontario Hydro immediately before the date on which employees of Ontario Hydro are transferred to the successor employers by or pursuant to orders made under section 116).
+
 3. If the Financial Corporation concludes that a former employee would most likely have remained an employee of the Financial Corporation or a subsidiary of the Financial Corporation, the Financial Corporation shall transfer the former member to the successor pension plan established by Ontario Power Generation Inc.
 
 ### Status of plan
@@ -4625,18 +5527,31 @@ in which,
 ### Members of successor plans
 
 103 (1) An employee of a successor employer who has established a successor pension plan becomes a member of the successor pension plan on the following date:
+
 1. If the employee was a member of the FCPP immediately before becoming employed by the successor employer, the later of the following dates:
+
 i. The date on which he or she becomes employed by the successor employer.
+
 ii. The commencement date for the plan.
+
 2. If, under the terms of the successor pension plan, the employee is required to be a member of the plan, the latest of the following dates:
+
 i. The date on which he or she becomes employed by the successor employer.
+
 ii. The date on which, under the terms of the successor pension plan, he or she is required to become a member of the plan.
+
 iii. The commencement date for the plan.
+
 3. If, under the terms of the successor pension plan, the employee is required to become a member of the plan after meeting certain conditions, the later of the following dates:
+
 i. The date on which he or she meets those conditions.
+
 ii. The commencement date for the plan.
+
 4. If, under the terms of the successor pension plan, the employee is entitled, but not required, to become a member of the plan after meeting certain conditions, the later of the following dates:
+
 i. The date on which he or she becomes a member of the plan.
+
 ii. The commencement date for the plan.
 
 ### Former members
@@ -4678,15 +5593,21 @@ ii. The commencement date for the plan.
 ### Definitions
 
 (7) In this section,
+
 “affiliate” means, in relation to a successor employer,
+
 (a) a corporation that is a subsidiary of the successor employer within the meaning of the Business Corporations Act, or
+
 (b) a corporation or partnership that is controlled by the successor employer, by the person who controls the successor employer or by a person who is controlled by the successor employer, as described in subsection (8); (“membre du même groupe”)
+
 “participating affiliate” means, with respect to a successor employer and a successor pension plan, an affiliate permitted under subsection (1) to be a participating employer under the plan. (“membre du même groupe participant”)
 
 ### Interpretation, control
 
 (8) For the purposes of clause (b) of the definition of “affiliate” in subsection (7), a corporation or partnership is controlled by another person or by the successor employer if the person or successor employer holds the following, directly or indirectly, other than by way of security:
+
 1. Voting securities carrying more than 50 per cent of the votes for the election of directors of the corporation.
+
 2. An ownership or other interest that confers on the holder more than 50 per cent of the voting interest or other governance rights in the partnership or more than 50 per cent of the income of the partnership.
 
 ### Administrative costs of successor plans
@@ -4724,7 +5645,9 @@ ii. The commencement date for the plan.
 ### Regulations
 
 (5) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing, for the purpose of subsection (4), dates applicable to pension plans that are specified by the regulations;
+
 (b) governing the resolution of matters remaining in dispute between the administrators of specified pension plans after the prescribed date.
 
 ### Costs
@@ -4734,9 +5657,13 @@ ii. The commencement date for the plan.
 ### FCPP membership temporarily extended
 
 108 (1) In any of the following circumstances, an employee of a successor employer is a member of the FCPP until the commencement date for the applicable successor plan:
+
 1. The employee was a member of the FCPP immediately before becoming employed by the successor employer.
+
 2. The employee would be required to be a member of the FCPP, if the employee were employed by the Financial Corporation.
+
 3. The employee would be required to be a member of the FCPP after meeting certain conditions, if the employee were employed by the Financial Corporation. The employee meets those conditions before the commencement date.
+
 4. The employee would be entitled, but not required, to become a member of the FCPP after meeting certain conditions, if the employee were employed by the Financial Corporation. The employee becomes a member of the FCPP before the commencement date.
 
 ### Employee contributions
@@ -4786,16 +5713,23 @@ ii. The commencement date for the plan.
 ### Participation in FCPP
 
 (5) The following rules apply until the commencement date for the successor pension plan established by the Generation Corporation:
+
 1. The employees of the subsidiary are, or are entitled to be, members of the FCPP on the same basis as employees of the Financial Corporation.
+
 2. The subsidiary is an employer who is required to make contributions to the pension fund for the FCPP.
+
 3. Section 109 applies, with necessary modifications, with respect to the rights and duties of the Financial Corporation and the subsidiary.
 
 ### Participation in successor pension plan
 
 (6) The following rules apply on and after the commencement date for the successor pension plan established by Ontario Power Generation Inc.:
+
 1. The employees of the subsidiary are, or are entitled to be, members of the successor pension plan established by Ontario Power Generation Inc.
+
 2. Section 103 applies, with necessary modifications, with respect to the employees of the subsidiary.
+
 3. The subsidiary is an employer who is required to make contributions to the pension fund for the successor pension plan.
+
 4. Section 109 applies, with necessary modifications, with respect to the rights and duties of Ontario Power Generation Inc. and the subsidiary.
 
 ### Transfer agreements for successor plans
@@ -4809,11 +5743,17 @@ ii. The commencement date for the plan.
 ### Value of assets
 
 (3) Subject to subsection (4), the value of the assets to be transferred to a successor pension plan is calculated as of the changeover date using the formula,
+
 [(A + B)/C] × D
+
 in which,
+
 “A” is the total of the actuarial liabilities of the FCPP for the pension benefits and ancillary benefits of members of the FCPP who, on or after the commencement date and before the changeover date, become members of the successor pension plan and who, on the changeover date, become entitled to accrued pension benefits under the successor pension plan in respect of their employment before becoming members of the successor pension plan;
+
 “B” is the total of the actuarial liabilities of the FCPP for the pension benefits and ancillary benefits of former members of the FCPP who, on the changeover date, become former members of the successor pension plan;
+
 “C” is the total of the actuarial liabilities of the FCPP for the pension benefits and ancillary benefits of persons who, immediately before the changeover date, are members and former members of the FCPP; and
+
 “D” is the value of the assets held in the pension fund of the FCPP.
 
 ### Same
@@ -4835,7 +5775,9 @@ in which,
 ### Regulations
 
 (7) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing, for the purpose of subsection (6), dates applicable to pension plans that are specified by the regulations;
+
 (b) governing the resolution of matters remaining in dispute after the prescribed date.
 
 ### Costs
@@ -4849,9 +5791,13 @@ in which,
 ### Same
 
 (2) The following changes occur as of the changeover date:
+
 1. Members of the FCPP who become members of the successor pension plan on or after the commencement date and before the changeover date become entitled to pension benefits under the successor pension plan in respect of their employment before becoming members of the successor pension plan and they cease to be entitled to those benefits under the FCPP.
+
 2. Former members of the FCPP who become former members of the successor pension plan on the changeover date become entitled to pension benefits under the successor pension plan in respect of the applicable person’s employment before the changeover date.
+
 3. Those former members cease to be former members of the FCPP.
+
 4. Those members and former members become entitled to credit in the successor pension plan for the period of membership of the member or the applicable former member in the FCPP, for the purpose of determining entitlement to ancillary benefits under the successor pension plan.
 
 ### Transfer of responsibility
@@ -4863,13 +5809,21 @@ in which,
 ### Definitions
 
 112.1 In this Part,
+
 “administrative penalty” means an administrative penalty imposed under subsection 113.18.1 (1); (“pénalité administrative”)
+
 “Authority” means the Electrical Safety Authority; (“Office”)
+
 “authorization” means a licence, certificate or registration issued under this Part, despite the definition of “licence” in subsection 2 (1); (“autorisation”)
+
 “Director” means a person appointed as a Director under this Part; (“directeur”)
+
 “inspector” means an inspector appointed under this Part; (“inspecteur”)
+
 “investigator” means an investigator appointed under this Part; (“enquêteur”)
+
 “person” means an individual, a corporation, an association, a partnership or any other entity; (“personne”)
+
 “regulations” means the regulations made under this Part, despite the definition of “regulations” in subsection 2 (1). (“règlements”)
 
 ### Electrical Safety
@@ -4877,16 +5831,23 @@ in which,
 ### Regulations, LG in C
 
 113 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing the design, construction, installation, protection, use, maintenance, repair, extension, alteration, connection and disconnection of all works, matters and things used or to be used in the generation, transmission, distribution, retail or use of electricity in Ontario;
+
 (b) prohibiting the use, advertising, display, offering for sale, or other disposal, and the sale or other disposal, publicly or privately, in Ontario, of any such works, matters and things unless and until they have been inspected and approved, or deemed approved;
+
 (c) prescribing the precautions to be taken in the sale or other disposal of such works, matters and things and the warnings and instructions to be given to purchasers and others in advertisements, by circular, labelling, including by tag, seal or other form of labelling, or otherwise, to prevent their use in such manner or under such conditions as may be likely to result in undue hazard to persons or property;
+
 (d) providing for the inspection, test and approval of such works, matters and things before being used in the generation, transmission, distribution, retail or use of electricity in Ontario, and for a process for granting, renewing, suspending, revoking and reinstating approvals for the works, matters and things before they are used for any of those purposes;
+
 (e) requiring compliance with any code, standard, guideline or procedure under a rule of a person retailing electricity to such works, matters and things.
 
 ### Regulations, Minister
 
 (2) The Minister may make regulations,
+
 (a) adopting by reference, in whole or in part, with such changes as the Minister considers necessary or advisable, any code or standard that governs any matter set out in subsection (1) and requiring compliance with any code or standard that is so adopted;
+
 (b) establishing a code of ethics and a committee for the purpose of governing the conduct of authorization holders.
 
 ### Rolling incorporation
@@ -4900,8 +5861,11 @@ in which,
 ### Temporary codes, testing organizations, variations
 
 (5) A director may, in writing,
+
 (a) authorize, subject to such conditions as may be specified and for a limited time, the use of codes, standards, guidelines, plans, specifications and procedures or changes to codes, standards, guidelines, plans, specifications and procedures necessary to accommodate new developments or technological advances and require compliance with them and permit, subject to such conditions as may be specified, variances from them;
+
 (b) designate organizations to test any thing for which standards, plans or specifications are established under this Part and provide for and require the placing of the organization’s label on the thing or any parts of the thing that conform to the standards, plans or specifications;
+
 (c) subject to such conditions as he or she may specify, allow a variance from any regulation made by the Minister under clause (2) (a) if, in his or her opinion, the variance would not detrimentally affect the safe use of the thing to which the regulation applies or the health or safety of any person.
 
 ### Legislation Act, 2006, Part III
@@ -4931,8 +5895,11 @@ in which,
 ### Offences
 
 (12) Every person,
+
 (a) disturbing or interfering with an inspector or other officer in the performance of the inspector’s or officer’s duty under this section is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both;
+
 (b) refusing or neglecting to comply with this section, or with any regulation, plan or specification made under its authority, is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both;
+
 (c) refusing or neglecting to comply with an order issued by the Authority under subsection (11) is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both, and a further fine of not more than $5,000 for each day upon which such refusal or neglect is repeated or continued.
 
 ### Same, corporation
@@ -4968,7 +5935,9 @@ in which,
 ### Powers
 
 (3) Unless otherwise stated in the appointment, a Director,
+
 (a) may supervise and direct inspectors and other persons responsible for administering or enforcing this Part, the regulations or an order of the Authority; and
+
 (b) is an inspector and may exercise any of the powers and perform any of the duties of an inspector.
 
 ### Delegation
@@ -4990,20 +5959,31 @@ in which,
 ### Refusal, suspension, etc.
 
 (2) A Director may refuse to grant an applicant an authorization for the carrying out of activities or may refuse to renew, may suspend or may revoke an authorization holder’s authorization for the carrying out of activities, if the Director has reason to believe that,
+
 (a) the applicant or authorization holder will not carry out the activities in accordance with the law;
+
 (b) the applicant or authorization holder will not carry out the activities safely;
+
 (c) the applicant or authorization holder lacks the basic resources necessary to carry out the activities;
+
 (d) the applicant or authorization holder will not conduct himself or herself with honesty and integrity or in accordance with the principle of protecting consumers;
+
 (e) the applicant or authorization holder lacks the training, experience, qualifications or skills prescribed by the regulations;
+
 (f) the applicant or authorization holder failed to comply with or to meet a requirement of this Part, the regulations or an order of the Authority;
+
 (g) the authorization holder failed to comply with a restriction, limitation or condition of the authorization;
+
 (h) the authorization holder obtained the authorization through misrepresentation or fraud; or
+
 (i) the authorization holder permitted an unauthorized person to carry out the activities.
 
 ### Conditions
 
 (3) An authorization is subject to,
+
 (a) the restrictions, limitations and conditions that are prescribed by the regulations; and
+
 (b) the restrictions, limitations and conditions that are imposed by a Director.
 
 ### Compliance with regulations
@@ -5013,17 +5993,25 @@ in which,
 ### Notice of proposal
 
 113.3 (1) Subject to subsection (2), a Director who proposes any of the following shall serve notice of the proposal, together with written reasons, on the applicant or authorization holder:
+
 1. To grant an authorization subject to restrictions, limitations or conditions imposed on it by the Director.
+
 2. To renew an authorization subject to restrictions, limitations or conditions imposed on it by the Director.
+
 3. To refuse to grant an authorization.
+
 4. To refuse to renew an authorization.
+
 5. To suspend an authorization.
+
 6. To revoke an authorization.
 
 ### Exceptions
 
 (2) A notice of proposal is not required,
+
 (a) in the case of a provisional suspension of an authorization, or a provisional refusal to renew an authorization, under section 113.5;
+
 (b) in the case of a refusal to grant or renew an authorization, or a suspension of an authorization, under section 113.6.
 
 ### Service of notice
@@ -5045,7 +6033,9 @@ in which,
 ### Extension of time
 
 (2) The Director may extend the time for applying for a hearing, either before or after the 15-day period expires, if he or she is satisfied that,
+
 (a) there are reasonable grounds for granting the extension; and
+
 (b) there are apparent grounds for granting to the applicant or authorization holder the relief sought at the hearing.
 
 ### Directions
@@ -5067,7 +6057,9 @@ in which,
 ### Decision
 
 (7) After the hearing, the Director may carry out the proposal stated in the notice of proposal if,
+
 (a) in the case of a proposal mentioned in paragraph 3, 4, 5 or 6 of subsection 113.3 (1), the Director is satisfied that any of the grounds set out in subsection 113.2 (2) exists; or
+
 (b) in the case of a proposal mentioned in paragraph 1 or 2 of subsection 113.3 (1), the Director is satisfied that the imposition of the restrictions, limitations and conditions complies with the rules mentioned in subsection 113.2 (4).
 
 ### Provisional suspension or refusal to renew if safety involved
@@ -5085,15 +6077,21 @@ in which,
 ### Decision
 
 (4) After the hearing,
+
 (a) if the Director is satisfied that a ground set out in subsection 113.2 (2) exists, the Director may suspend, revoke or refuse to renew the authorization;
+
 (b) if the Director is satisfied that no ground set out in subsection 113.2 (2) exists, the Director,
+
 (i) shall reinstate the suspended authorization, or
+
 (ii) shall renew the authorization and may impose restrictions, limitations or conditions on the authorization in accordance with subsection 113.2 (4).
 
 ### Default in payment
 
 113.6 (1) A Director may refuse to grant or to renew an authorization or may suspend an authorization, if,
+
 (a) the applicant or authorization holder is in default of the payment of a fee, an administrative penalty, a cost or another charge owing to the Authority; or
+
 (b) the applicant or authorization holder is in default of the payment of a fine imposed on conviction for an offence under this Part.
 
 ### Notice and hearing not required
@@ -5131,11 +6129,17 @@ in which,
 ### Appeal after hearing
 
 113.10 (1) An applicant or authorization holder may appeal to the Divisional Court if, after a hearing, a Director does any of the following:
+
 1. Grants the authorization subject to restrictions, limitations or conditions imposed on it by the Director.
+
 2. Renews the authorization subject to restrictions, limitations or conditions imposed on it by the Director.
+
 3. Refuses to grant the authorization.
+
 4. Refuses to renew the authorization.
+
 5. Suspends the authorization.
+
 6. Revokes the authorization.
 
 ### How to appeal
@@ -5155,27 +6159,41 @@ in which,
 ### Continuation upon renewal application
 
 113.11 (1) If, within the time prescribed by the regulations, or, if no time is prescribed, before the expiry of the authorization, an authorization holder applies to a Director for renewal of the authorization, the authorization continues to be valid,
+
 (a) until the Director renews the authorization, unless clause (b), (c) or (d) applies;
+
 (b) until the Director provisionally refuses to renew the authorization under subsection 113.5 (1);
+
 (c) until the Director refuses to renew the authorization under subsection 113.6 (1);
+
 (d) subject to subsection (3), if the authorization holder is served with a notice under section 113.3 that the Director proposes to refuse to renew the authorization, or if the Director refuses to renew the authorization under subsection 113.5 (4),
+
 (i) until the time for applying for a hearing by the Director under section 113.4 or 113.5 expires, unless subclause (ii) applies,
+
 (ii) if the holder applies for a hearing in accordance with section 113.4 or 113.5,
+
 (A) until the Director renews the authorization following the hearing, or
+
 (B) if the Director refuses to renew the authorization following the hearing,
+
 (1) until the time for filing a notice of appeal with the Divisional Court under section 113.10 expires, unless sub-sub-subclause 2 applies,
+
 (2) if the holder files a notice of appeal with the Divisional Court in accordance with section 113.10, until the final disposition of the appeal.
 
 ### Continuation after suspension, revocation
 
 (2) Subject to subsection (3), if a Director suspends or revokes an authorization under subsection 113.4 (7) or 113.5 (4), the suspension or revocation does not take effect,
+
 (a) until the time for filing a notice of appeal with the Divisional Court under section 113.10 expires, unless clause (b) applies;
+
 (b) if a notice of appeal is filed with the Divisional Court in accordance with section 113.10, until the final disposition of the appeal.
 
 ### Threat to safety
 
 (3) If, in a Director’s opinion, there is or may be a threat to public safety or to the safety of any person, the Director may specify that,
+
 (a) the authorization in respect of which the renewal application has been made ceases to be valid earlier than the time specified in clause (1) (d); or
+
 (b) the suspension or revocation referred to in subsection (2) takes effect earlier than the time specified in subsection (2).
 
 ### Compliance order
@@ -5197,18 +6215,23 @@ in which,
 ### Definition
 
 113.12.1 In sections 113.13 to 113.14.3,
+
 “electrical product or device” means any thing used or to be used in the generation, transmission, distribution, retail or use of electricity.
 
 ### Inspections
 
 113.13 (1) The Authority or a person appointed as an inspector in writing by the Authority may conduct an inspection and may, as part of that inspection, enter and inspect at any reasonable time any land or premises, including the business premises of an authorization holder, for the purpose of,
+
 (a) ensuring compliance with this Act and the regulations; or
+
 (b) determining that the authorization holder remains entitled to the authorization.
 
 ### Limitations on power to enter
 
 (2) An inspector shall not,
+
 (a) use force to enter and inspect land and premises under this section; or
+
 (b) enter any part of premises that are being used as a dwelling, except with the consent of the owner or occupier.
 
 ### Identification
@@ -5218,9 +6241,13 @@ in which,
 ### Powers on inspection
 
 (4) An inspector conducting an inspection on any land or in any premises, including premises of an authorization holder, may,
+
 (a) examine all documents, records, electrical products, devices and other things that are relevant to the inspection;
+
 (b) require a person on the premises being inspected to produce a document, record or other thing that is relevant to the inspection;
+
 (c) use any data storage, processing or retrieval device or system used in carrying on business in order to produce information or a record that is relevant to the inspection and that is in any form; and
+
 (d) subject to subsection (5), on giving a receipt for it, remove any thing relevant to the inspection, including a document, a record, a data storage disk or a retrieval device needed to produce information.
 
 ### Electrical product not included
@@ -5246,7 +6273,9 @@ in which,
 ### Order to turn over or retain electrical product or device
 
 113.13.1 (1) An inspector who is lawfully present in a place and who believes on reasonable grounds that an electrical product or device in the place is being sold or offered for sale in contravention of this Part or the regulations may order, orally or in writing, a person in the place,
+
 (a) to turn the electrical product or device over to the inspector; or
+
 (b) to retain and preserve the electrical product or device in accordance with the regulations.
 
 ### Obligation to retain electrical product or device
@@ -5260,15 +6289,21 @@ in which,
 ### Warrant to seize electrical product or device
 
 113.13.2 (1) On application made without notice by an inspector appointed under subsection 113.13 (1), a justice of the peace may issue a warrant if he or she is satisfied on information under oath that there is reasonable ground for believing that,
+
 (a) an inspector issued an order to turn over an electrical product or device or to retain and preserve such a product or device under subsection 113.13.1 (1);
+
 (b) the person who was issued the order failed to comply with it; and
+
 (c) the electrical product or device was being sold or offered for sale in contravention of this Part or the regulations.
 
 ### Powers under warrant
 
 (2) Subject to any conditions contained in the warrant, a warrant issued under subsection (1) authorizes an inspector appointed under subsection 113.13 (1) to,
+
 (a) enter or access the place in which a person is required to retain and preserve the electrical product or device under clause 113.13.1 (1) (b) and subsection 113.13.1 (2);
+
 (b) require a person to produce the electrical product or device in question; and
+
 (c) seize the electrical product or device in question.
 
 ### Obligation to produce and assist
@@ -5278,7 +6313,9 @@ in which,
 ### Entry of dwelling
 
 (4) Despite subsection (2), an inspector shall not exercise the power under a warrant to enter a place, or part of a place, used as a dwelling unless,
+
 (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice of the peace authorizes the entry into the dwelling.
 
 ### Conditions on search warrant
@@ -5312,8 +6349,11 @@ in which,
 ### Release or forfeiture of electrical product or device
 
 113.13.3 (1) This section applies in respect of an electrical product or device that,
+
 (a) was turned over to an inspector in response to an order issued under subsection 113.13.1 (1);
+
 (b) was retained and preserved in response to an order issued under subsection 113.13.1 (1), or in accordance with subsection 113.13.1 (2); or
+
 (c) was seized by an inspector in accordance with the regulations under a warrant issued under subsection 113.13.2 (1).
 
 ### Application for release of electrical product or device
@@ -5331,14 +6371,19 @@ in which,
 ### Director’s determination
 
 (5) After a hearing, the director may,
+
 (a) release to the person the electrical product or device that he or she determines was not sold or offered for sale in contravention of this Part or the regulations; or
+
 (b) direct that the electrical product or device that he or she determines was sold or offered for sale in contravention of this Part or the regulations is forfeited to the Crown.
 
 ### Forfeiture in other circumstances
 
 (6) The director may direct that the electrical product or device is forfeited to the Crown if,
+
 (a) no person applies for the release of the electrical product or device within the time permitted under subsection (2);
+
 (b) the director refuses to hold a hearing under subsection (4); or
+
 (c) the person who applied for the release of the electrical product or device does not appear at the hearing.
 
 ### Decision final
@@ -5356,18 +6401,27 @@ in which,
 ### Search warrant
 
 113.14.1 (1) On application made without notice by an investigator, a justice of the peace may issue a warrant, if he or she is satisfied on information under oath that there is reasonable ground for believing that,
+
 (a) a person has contravened or is contravening this Part or the regulations or has committed an offence that is relevant to the person’s fitness for holding an authorization under this Part; and
+
 (b) there is,
+
 (i) on any land or in any building, dwelling, container or place any thing relating to the contravention of this Part or the regulations or to the person’s fitness for holding an authorizaton, or
+
 (ii) information or evidence relating to the contravention of this Part or the regulations or the person’s fitness for holding an authorization that may be obtained through the use of an investigative technique or procedure or the doing of anything described in the warrant.
 
 ### Powers under warrant
 
 (2) Subject to any conditions contained in the warrant, a warrant issued under subsection (1) authorizes an investigator to,
+
 (a) enter or access the land, building, dwelling, container or place specified in the warrant, and examine and seize any thing described in the warrant;
+
 (a.1) make reasonable inquiries of any person, orally or in writing, with respect to anything relevant to the investigation;
+
 (b) use any data storage, processing or retrieval device or system used in carrying on business in order to produce information or evidence described in the warrant, in any form;
+
 (c) require a person to produce the information or evidence described in the warrant and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the information or evidence described in the warrant; and
+
 (d) use any investigative technique or procedure described in the warrant or do anything described in the warrant.
 
 ### Obligation to produce and assist
@@ -5377,7 +6431,9 @@ in which,
 ### Entry of dwelling
 
 (4) Despite subsection (2), an investigator shall not exercise the power under a warrant to enter a place, or part of a place, used as a dwelling unless,
+
 (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice of the peace authorizes the entry into the dwelling.
 
 ### Conditions on search warrant
@@ -5407,6 +6463,7 @@ in which,
 ### Copies of seized items
 
 (11) An investigator who seizes any thing under this section or section 113.14.3 may make a copy of it.
+
 (12) Repealed: 2019, c. 14, Sched. 10, s. 6 (2).
 
 ### Admissibility of copies
@@ -5432,6 +6489,7 @@ in which,
 ### Seizure of things in plain view
 
 113.14.3 (1) An investigator who is lawfully present in a place under a warrant may seize any thing that is in plain view if the investigator believes on reasonable grounds that the thing will afford evidence of a contravention of this Part or the regulations.
+
 (2) Repealed: 2019, c. 14, Sched. 10, s. 6 (5).
 
 ### Report when things seized
@@ -5453,7 +6511,9 @@ in which,
 ### Disclosure prohibited
 
 (2) Subject to subsection (3), an inspector shall not disclose any document or information obtained in the course of an inspection except,
+
 (a) for the purposes of carrying out his or her duties under this Act; or
+
 (b) as authorized under the Regulatory Modernization Act, 2007.
 
 ### Compellability in civil proceeding
@@ -5463,14 +6523,19 @@ in which,
 ### Refusal or conditional permission
 
 (4) A Director may,
+
 (a) on reasonable grounds, refuse to permit an inspector to attend as a witness; or
+
 (b) require that an inspector’s attendance as a witness be subject to such conditions as are reasonable and necessary for the proper administration of this Part and the regulations.
 
 ### Limitation
 
 (5) Subsection (4) does not apply if,
+
 (a) the court orders that the inspector attend as a witness;
+
 (b) the proceeding is a proceeding under the Provincial Offences Act; or
+
 (c) the Authority is a party to the proceeding.
 
 ### Written decision
@@ -5484,9 +6549,13 @@ in which,
 ### Director’s confirmation
 
 113.16 (1) A Director may issue a written confirmation with respect to,
+
 (a) the granting or non-granting of an authorization, the renewal or non-renewal of an authorization, or the revocation or suspension of an authorization;
+
 (b) the restrictions, limitations and conditions to which an authorization is subject;
+
 (c) the filing or non-filing of any document or material required or permitted to be filed with the Director; or
+
 (d) any other matter prescribed by the regulations.
 
 ### Effect of confirmation
@@ -5508,8 +6577,11 @@ in which,
 ### Administrative penalty
 
 113.18.1 (1) A Director may, by order, impose an administrative penalty against a person in accordance with this section and the regulations made by the Minister if the Director is satisfied that the person has contravened or is contravening,
+
 (a) a prescribed provision of this Part or the regulations;
+
 (b) a restriction, limitation or condition imposed by a Director in respect of a prescribed authorization; or
+
 (c) a prescribed order of the Authority.
 
 ### To whom payable
@@ -5519,7 +6591,9 @@ in which,
 ### Purpose
 
 (3) An administrative penalty may be imposed under this section for one or more of the following purposes:
+
 1. To ensure compliance with this Part or the regulations.
+
 2. To prevent a person from deriving, directly or indirectly, any economic benefit as a result of a contravention described in subsection (1).
 
 ### Amount
@@ -5537,7 +6611,9 @@ in which,
 ### Absolute liability
 
 (7) An order made under subsection (1) imposing an administrative penalty against a person applies even if,
+
 (a) the person took all reasonable steps to prevent the contravention on which the order is based; or
+
 (b) at the time of the contravention, the person had an honest and reasonable belief in a mistaken set of facts that, if true, would have rendered the contravention innocent.
 
 ### No effect on offences
@@ -5591,15 +6667,25 @@ in which,
 ### Offences
 
 113.20 (1) Every person,
+
 (a) that refuses or neglects to comply with section 113 or with any regulation, plan or specification made under its authority is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both;
+
 (b) that refuses or neglects to comply with an order issued by the Authority under subsection 113 (11) is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both, and a further fine of not more than $5,000 for each day upon which the refusal or neglect is repeated or continued;
+
 (c) that refuses or neglects to comply with subsection 113.13 (6), 113.13.1 (2), 113.13.2 (3) or 113.14.1 (3) or (10) or disturbs or interferes with an inspector, investigator or other officer in the performance of a duty the inspector, investigator or officer was appointed to perform under this Part is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both;
+
 (c.1) that contravenes or fails to comply with section 113.0.1 is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both;
+
 (d) that contravenes or fails to comply with subsection 113.2 (1) is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both, and a further fine of not more than $5,000 for each day upon which the offence is repeated or continued;
+
 (e) that contravenes or fails to comply with any regulation made under the authority of clause 113.22 (1) (a), (e), (e.1) or (j) is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both, and a further fine of not more than $5,000 for each day upon which the offence is repeated or continued;
+
 (f) that contravenes or fails to comply with a restriction, limitation or condition of an authorization is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both, and a further fine of not more than $5,000 for each day upon which the offence is repeated or continued;
+
 (g) that knowingly makes a false statement or furnishes false information to a Director under this Part is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both;
+
 (h) that knowingly holds out as genuine any document, certificate, identification card or any other document issued under this Part or the regulations is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both;
+
 (i) that holds themself out as a holder of an authorization, an inspector, investigator or other official under this Part is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both.
 
 ### Same, corporations
@@ -5617,6 +6703,7 @@ in which,
 ### Separate offence
 
 (5) Where a person contravenes any of the provisions of this Part, the regulations or any notice or order made under them on more than one day, the continuance of the contravention on each day shall be deemed to constitute a separate offence.
+
 (6) Repealed: 2021, c. 34, Sched. 9, s. 7.
 
 ### Time limit
@@ -5630,30 +6717,51 @@ in which,
 ### Regulations
 
 113.22 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing activities that require an authorization, classifying the activities, the persons who carry out the activities and the authorizations, and prescribing the classes of authorizations that are required for different classes of activities or for different classes of persons;
+
 (b) prescribing the training, experience, qualifications or skills that persons must have and the other requirements that persons must meet in order to obtain and retain a class of authorization;
+
 (c) prescribing the period, or the manner of determining the period, for which a class of authorization is valid;
+
 (d) governing applications for authorization and applications for renewal of authorization, including prescribing procedures and timing requirements for making such applications;
+
 (e) prescribing duties, powers and prohibitions that apply to holders of an authorization;
+
 (e.1) governing the documents and records that must be kept by holders of authorizations, including the manner and location in which they are kept and the time periods for retaining such information and authorizing the Director to specify the location at which they must be kept;
+
 (f) prescribing rules with which a Director must comply in imposing a restriction, limitation or condition on an authorization;
+
 (g) prescribing anything that must or may by this Part be done in accordance with the regulations or that is referred to in this Part as prescribed by, required by, provided in or referred to in the regulations;
+
 (h) exempting any person, work, matter or thing from any provision of this Part or the regulations;
+
 (i) defining electrical incidents or accidents and classes of incidents or accidents;
+
 (j) providing for the reporting to the Authority of the electrical incidents or accidents referred to in clause (i), including the manner and time for reporting, and prescribing classes of persons who are required to make such reports;
+
 (k) respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Part.
 
 ### Regulations, Minister
 
 (2) The Minister may make regulations,
+
 (a) governing administrative penalties that a Director may order under this Part and all matters necessary and incidental to the administration of a system of administrative penalties, including,
+
 (i) prescribing provisions, authorizations and orders for the purpose of subsection 113.18.1 (1),
+
 (ii) specifying the amount of an administrative penalty or providing for the determination of the amount of an administrative penalty by specifying the method of calculating the amount and the criteria to be considered in determining the amount,
+
 (iii) providing for different amounts to be paid, or different calculations or criteria to be used, depending on the circumstances that gave rise to the administrative penalty or the time at which the penalty is paid,
+
 (iv) specifying information that must be included in an order for payment of an administrative penalty,
+
 (v) governing the rules for serving an order for an administrative penalty and the rights of the parties affected by the rules, including the time at which the order is deemed to be served on the person against whom the order is made,
+
 (vi) respecting hearings for the purpose of subsection 113.18.1 (11),
+
 (vii) respecting measures for the purpose of subsection 113.18.1 (16);
+
 (b) specifying the purposes for which the Authority may use the funds that it collects as administrative penalties.
 
 ## PART IX REGULATIONS
@@ -5661,132 +6769,239 @@ in which,
 ### Regulations
 
 114 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing other objects for the purposes of clause 6 (1) (s);
+
 (a.1) Repealed: 2014, c. 7, Sched. 7, s. 15 (1).
+
 (b) governing the IESO’s borrowing, investment of funds and the management of its financial assets, liabilities and risks, including,
+
 (i) prescribing rules and restrictions that apply to borrowing, investment and management of financial assets, liabilities and risks,
+
 (ii) prescribing purposes for which the IESO may borrow, invest or manage its financial assets, liabilities and risks,
+
 (iii) prescribing the types of debt instruments and financial obligations that the IESO can issue or enter into for or in relation to borrowing,
+
 (iv) prescribing classes of securities, investment instruments and financial agreements that the IESO is authorized to invest in or enter into or is not authorized to invest in or enter into;
+
 (c) governing the IESO’s obligation to make information available in French;
+
 (c.1) prescribing classes of persons for the purposes of subsection 10 (4);
+
 (c.2) prescribing other matters that are to be dealt with in the Governance and Structure By-law;
+
 (c.3) respecting the calculation of the fees referred to in subsection 23 (4) and respecting the manner in which and the time at which they are to be paid;
+
 (c.4) prescribing the types of expenditures the IESO may recover through fees and charges and any restrictions and limitations in respect of the recovery of an expenditure;
+
 (c.5) respecting the calculation of the fees and charges referred to in section 25.1 and respecting the manner in which and the time at which they are collected by the IESO;
+
 (c.6) prescribing provisions of the Business Corporations Act, the Not-for-Profit Corporations Act, 2010 or the Corporations Information Act that apply, with necessary modifications, to the IESO;
+
 (d) prescribing transmitters, distributors, generators, retailers and consumers or classes of transmitters, distributors, generators, retailers and consumers for the purpose of subsection 26 (2);
+
 (d.1) governing renewable energy generation facilities including, but not limited to,
+
 (i) the location of the facilities,
+
 (ii) the generating capacity of such facilities,
+
 (iii) the connection of such facilities to transmission systems and distribution systems, including technical specifications with respect to the connection, and
+
 (iv) when such facilities must have commenced operation in order to be considered a renewable energy generation facility under this Act;
+
 (e) prescribing contracts or classes of contracts to which subsection 26 (3), (4) or (6) does not apply, subject to such conditions or restrictions as may be specified in the regulations;
+
 (f) prescribing the amount of electricity referred to in the definition of “low-volume consumer” in subsection 26 (10);
+
 (f.0.1) defining “data centre” for the purposes of section 28.1;
+
 (f.0.2) prescribing criteria for the purposes of the definition of “specified load facility” in section 28.1, which may include, but are not limited to, criteria related to,
+
 (i) the geographic area in which the specified load facility is or may be located,
+
 (ii) the maximum volume of electricity that the specified load facility may withdraw at the point of connection to the transmission system or have distributed to it at the point of connection to the distribution system, as applicable, or
+
 (iii) the maximum demand for electricity that the specified load facility may have at the point of connection to the transmission system or distribution system, as applicable;
+
 (f.0.3) prescribing specified connection requirements that must be complied with for a specified load facility to be connected or reconnected to a transmission system or distribution system, as applicable, which may include but are not limited to,
+
 (i) conditions, requirements or limitations that must be met for the specified load facility to be connected or reconnected to a transmission system or distribution system,
+
 (ii) approvals that must be obtained for the specified load facility to be connected or reconnected to a transmission system or distribution system,
+
 (iii) the processes that must be followed to seek any approvals, to satisfy any conditions or requirements or to comply with any limitations in the specified connection requirements,
+
 (iv) the persons or classes of persons who may apply for any such approvals on behalf of the specified load facility,
+
 (v) any documents or information that must be submitted as part of any such approvals process,
+
 (vi) the persons or classes of persons who are authorized to give or withhold any such approvals, and the criteria that such persons or classes of persons must or may consider when determining whether to give or withhold approvals,
+
 (vii) any conditions or requirements or limitations that must or may be included as part of any approvals that are given,
+
 (viii) any obligations that the persons or classes of persons referred to in subclause (iv) have in relation to,
+
 (A) giving written notice of the determination, and
+
 (B) setting out in any such notice the reasons for the determination and any conditions, requirements or limitations that form a part of the approval;
+
 (f.0.4) prescribing the processes that a transmitter or distributor referred to in subsection 28.1 (3) must or may follow and the actions it must or may take if an applicable specified connection requirement has not been fulfilled or has been breached, which may include but are not limited to requirements related to,
+
 (i) the giving of notice in respect of the nonfulfillment or breach of the specified connection requirement, including the persons or classes of persons to whom the notice must be given,
+
 (ii) the form and content of any such notice,
+
 (iii) opportunities for the specified load facility to remedy the breach of the specified connection requirement and to demonstrate that the breach has been remedied,
+
 (iv) the disconnection of the specified load facility from the transmission or distribution system of the transmitter or distributor, as applicable;
+
 (f.1) prescribing periods for the purpose of subsections 31 (4) and (5);
+
 (g) respecting limits and criteria for the purposes of section 29.1;
+
 (g.1) prescribing information for the purposes of subsections 33 (2) and 34 (2.1);
+
 (g.2) prescribing reasons for the purpose of paragraph 5 of subsection 34 (1);
+
 (h) prescribing an amount for the purpose of clause 36 (1) (a);
+
 (h.0.1) respecting reliability standards;
+
 (h.1) for the purpose of subsection 46.1 (2), prescribing types of fuel and, with respect to each type of fuel that is prescribed, prescribing one or more other types of fuel as substitute fuels;
+
 (h.2) for the purpose of clause 46.2 (1) (a), prescribing types of fuel;
+
 (i) designating a person or body as the Electrical Safety Authority for the purposes of this Act;
+
 (j) prescribing persons or bodies or classes of persons or bodies with which the Electrical Safety Authority may enter into agreements under section 113.18;
+
 (k) prescribing consumer protection requirements that apply to market participants;
+
 (l) governing standards for and the use of electricity meters;
+
 (l.1) requiring persons to offer, install or use electricity meters or other devices of a type specified by the regulations for the purpose of promoting energy conservation, energy efficiency or load management;
+
 (m) exempting any person or class of persons from any provision of this Act, subject to such conditions or restrictions as may be prescribed by the regulations;
+
 (n) defining any word or expression used in this Act that is not defined in this Act;
+
 (o) deeming a reference in any Act to Ontario Hydro to be a reference to a person or other entity specified in the regulations, subject to such conditions as may be prescribed by the regulations;
+
 (o.1) prescribing anything referred to in this Act as prescribed by the regulations or as prescribed;
+
 (p) providing for such transitional matters as the Lieutenant Governor in Council considers necessary or advisable in connection with the implementation of this Act;
+
 (q) respecting any matter that the Lieutenant Governor in Council considers necessary or advisable to carry out effectively the purposes of this Act.
 
 ### Regulations, Part I
 
 (1.1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing energy sources and criteria for the purposes of the definition of “alternative energy source” in subsection 2 (1) and prescribing criteria relating to the generation of electricity from energy sources for the purposes of subsection 2 (1.1);
+
 (a.1) prescribing criteria and associated or ancillary equipment, systems and technologies for the purposes of the definition of “renewable energy generation facility” in subsection 2 (1) and prescribing works for the purposes of the definition;
+
 (b) prescribing energy sources and criteria for the purposes of the definition of “renewable energy source” in subsection 2 (1) and prescribing criteria relating to the generation of electricity from energy sources for the purposes of subsection 2 (1.2);
+
 (c) designating an agency or body as a standards authority for the purpose of the definition of “standards authority” in subsection 2 (1).
+
 (1.2) Repealed: 2014, c. 7, Sched. 7, s. 15 (4).
 
 ### Regulations, Part II.2
 
 (1.3) The Lieutenant Governor in Council may make regulations,
+
 (a) Repealed: 2016, c. 10, Sched. 2, s. 10 (1);
+
 (b) for the purposes of subsection 25.29 (7),
+
 (i) requiring the Minister to consider technical reports or other reports, documents or information, and
+
 (ii) prescribing technical reports or other reports, documents and information;
+
 (c) prescribing principles to be applied in developing procurement processes and in evaluating proposals for reducing or managing electricity demand or for increasing electricity supply or capacity;
+
 (d) Repealed: 2016, c. 10, Sched. 2, s. 10 (3);
+
 (e) governing procurement contracts;
+
 (f) governing adjustments, payments, set-offs and credits for the purposes of section 25.33, including regulations,
+
 (i) prescribing methods for determining the amounts of adjustments under subsection 25.33 (1), the classes of market participants and consumers to whom those adjustments apply, the time periods to which the adjustments apply and the time periods within which the adjustments must or may be made and the manner in which the amounts are paid to generators, the Financial Corporation, distributors and other entities,
+
 (ii) prescribing adjustments that must or may be made by distributors or retailers with respect to classes of consumers or other distributors or retailers, methods for determining the amount of the adjustments, the time periods to which the adjustments apply and the time periods within which the adjustments must or may be made and the manner in which the amounts are paid to generators, the Financial Corporation, distributors and other entities,
+
 (iii) prescribing classes of consumers for the purposes of paragraph 3 of subsection 25.33 (3),
+
 (iv) governing the presentation of adjustments on invoices to consumers,
+
 (v) requiring the IESO to make payments to a distributor or retailer and prescribing methods for determining the amounts payable,
+
 (vi) requiring a distributor to make payments to the IESO, another distributor or a retailer and prescribing methods for determining the amounts payable,
+
 (vii) requiring a retailer to make payments to the IESO or a distributor and prescribing methods for determining the amounts payable,
+
 (viii) Repealed: 2014, c. 7, Sched. 7, s. 15 (6).
+
 (ix) governing the calculation of the amounts of the payments required by regulations made under this clause, methods of payment and the times within which payments must or may be made,
+
 (x) authorizing payments referred to in subclause (ix) to be made by way of set-offs and credits and prescribing conditions entitling or requiring amounts to be set off or credited,
+
 (xi) governing methods for determining amounts to be set off or credited, and the times within which amounts must or may be set off or credited,
+
 (xii) requiring a distributor, retailer or generator to provide information to the IESO, a distributor or the Board for the purposes of section 25.33 or a regulation made under this clause,
+
 (xiii) requiring the IESO to provide information to the Board for the purposes of section 25.33 or a regulation made under this clause,
+
 (xiv) requiring the Financial Corporation to provide information to the IESO or the Board for the purposes of section 25.33 or a regulation made under this clause,
+
 (xv) requiring a market participant or a consumer or a member of a class of market participants or consumers to meet specified requirements and to provide information to the IESO, a distributor or a retailer for the purpose of section 25.33 or a regulation made under this clause;
+
 (g) governing the establishment and maintenance of variance accounts referred to in subsection 25.33 (5);
+
 (g.0.1) providing for and governing the limitation period for the purposes of subsection 25.33 (9);
+
 (g.1) prescribing locations or land or classes of locations or land where the IESO shall not provide for a procurement process or enter into a contract for energy from a prescribed renewable energy generation facility or a prescribed class of renewable energy generation facility;
+
 (h) for the purposes of subsection 25.34 (2),
+
 (0.i) setting out amounts paid to generators, distributors or the Financial Corporation, as specified by the regulations, for the purposes of paragraph 0.1 of that subsection, or methods of determining those amounts,
+
 (i) providing that certain amounts or portions of amounts are not included in the amounts referred to in paragraph 1 of that subsection, and specifying those excluded amounts or portions of amounts or methods for determining them,
+
 (ii) setting out amounts and procurement contracts for the purposes of paragraph 2 of that subsection.
 
 ### Regulations, Part III
 
 (1.4) The Lieutenant Governor in Council may make regulations,
+
 (0.a) governing the connection of generation facilities to transmission systems and distribution systems for the purposes of section 25.36;
+
 (0.a.1) Repealed: 2021, c. 25, Sched. 5, s. 3.
+
 (a) prescribing any other information or material to be posted under subsection 36.2 (1);
+
 (b) requiring additional notice for the purpose of subsection 36.2 (2) and prescribing any other information or material to be included with that notice and the manner and time or times of giving it;
+
 (c) prescribing the period of time within which the Board may initiate a review of a reliability standard under subsection 36.2 (4);
+
 (d) prescribing other matters to be considered for the purposes of subsection 36.2 (6);
+
 (e) prescribing limitations for the purposes of subsection 36.3 (1).
 
 ### General or particular
 
 (2) A regulation made under subsection (1) or (1.3) may be general or particular in its application.
+
 (3) Repealed: 2004, c. 23, Sched. A, s. 53 (10).
 
 ### Transitional regulations
 
 (4) A regulation made under clause (1) (p),
+
 (a) may provide that it has retroactive application to a date not earlier than the day this section comes into force; and
+
 (b) may provide that it applies despite this or any other general or special Act.
 
 ### Subdelegation
@@ -5808,15 +7023,21 @@ in which,
 ### Transition, IESO
 
 (9) The Lieutenant Governor in Council may make regulations governing transitional matters that, in the opinion of the Lieutenant Governor in Council, are necessary or desirable to facilitate,
+
 (a) the amalgamation of the predecessor Independent Electricity System Operator and the Ontario Power Authority; and
+
 (b) the merging or segregation within the IESO of any of the duties, functions or activities of the predecessor Independent Electricity System Operator and the Ontario Power Authority.
 
 ### Same, pension matters
 
 (10) Without limiting the generality of subsection (9), the Lieutenant Governor in Council may make regulations governing transitional matters arising from the amalgamation of the predecessor Independent Electricity System Operator and the Ontario Power Authority with respect to pensions, including regulations,
+
 (a) respecting the right to continue a prescribed pension plan as a pension plan for the employees of the IESO and any persons who become employees of the IESO in the future;
+
 (b) governing the right of the IESO to create a new pension plan for its employees;
+
 (c) respecting the right of the board of directors of the IESO to determine which employees will be members of a prescribed pension plan or a new pension plan created under the regulations made under this subsection;
+
 (d) governing any matters relating to a prescribed pension plan or any new pension plans created under the regulations made under this subsection.
 
 ## part ix.1 ownership and use of corridor land
@@ -5826,8 +7047,11 @@ in which,
 ### Definitions
 
 114.1 In this Part,
+
 “effective date” means the date on which section 23 of Schedule A to the Reliable Energy and Consumer Protection Act, 2002 comes into force; (“date d’effet”)
+
 “Minister of Infrastructure” means the Minister of Infrastructure or such other member of the Executive Council as may be assigned under the Executive Council Act the powers and duties of the Minister of Infrastructure under this part; (“ministre de l’Infrastructure”)
+
 “statutory right to use corridor land” or “statutory right to use the land” means, in relation to corridor land, the right created by section 114.5 to use the land for a purpose described in that section. (“droit légal d’utiliser des biens-fonds réservés aux couloirs”, “droit légal d’utiliser les biens-fonds”)
 
 ### Ownership and Use
@@ -5835,7 +7059,9 @@ in which,
 ### Transfer of corridor land to the Crown
 
 114.2 (1) The fee simple interest in the following real property is hereby transferred to Her Majesty in right of Ontario:
+
 1. All real property in Ontario that Hydro One Inc. or a subsidiary of Hydro One Inc. owned, directly or indirectly, in fee simple on the effective date that was used for the purposes of a transmission system on the effective date or was acquired before that date for the purposes of a transmission system.
+
 2. All real property in Ontario that Hydro One Inc. or a subsidiary of Hydro One Inc. owned, directly or indirectly, in fee simple on the effective date that abuts real property described in paragraph 1.
 
 ### Exceptions
@@ -5857,16 +7083,23 @@ in which,
 ### Effect of transfer to the Crown
 
 114.3 (1) The transfer made by section 114.2 is binding on all persons and entities and,
+
 (a) shall be deemed not to constitute a breach, termination, repudiation or frustration of any contract, including a contract of insurance;
+
 (b) shall be deemed not to constitute an event of default or force majeure or a basis for any party to a contract to refuse to provide services under the contract;
+
 (c) shall be deemed not to give rise to a breach, termination, repudiation or frustration of any licence, permit or other right;
+
 (d) shall be deemed not to give rise to any right to terminate or repudiate a contract, licence, permit or other right; and
+
 (e) shall be deemed not to give rise to any estoppel.
 
 ### Same
 
 (2) The transfer made by section 114.2 does not create any new cause of action in favour of,
+
 (a) a holder of a debt instrument that was issued by Hydro One Inc. before the transfer; or
+
 (b) a party to a contract with Hydro One Inc. or any of its subsidiaries that was entered into before the transfer.
 
 ### Effect of transfer on leases, etc., affecting corridor land
@@ -6082,32 +7315,47 @@ in which,
 ### Indemnity re corridor land
 
 114.16 (1) Hydro One Inc. shall indemnify the Crown in right of Ontario for any losses, damages or costs incurred by Her Majesty in right of Ontario,
+
 (a) that arise from an order, direction or award made under a statute of Ontario or Canada in respect of corridor land or that relate to a proceeding in respect of corridor land; and
+
 (b) that are a direct or indirect result of an act or omission by any person before the effective date.
 
 ### Same
 
 (2) Hydro One Inc. shall indemnify a person or entity to whom the Crown in right of Ontario transfers corridor land for any losses, damages or costs incurred by the person or entity,
+
 (a) that arise from an order, direction or award made under a statute of Ontario or Canada in respect of the land or that relate to a proceeding in respect of the land; and
+
 (b) that are a direct or indirect result of an act or omission by any person before the effective date.
 
 ### Same, by holder of statutory right
 
 (3) A person or entity who has the statutory right to use corridor land shall indemnify the owner of the land for any losses, damages or costs incurred by the owner,
+
 (a) that arise from an order, direction or award made under a statute of Ontario or Canada in respect of the land or that relate to a proceeding in respect of the land; and
+
 (b) that are a direct or indirect result of an act or omission by,
+
 (i) the person or entity,
+
 (ii) an employee or agent of the person or entity,
+
 (iii) a person or entity who previously held the statutory right to use the land, or
+
 (iv) another person or entity who was invited or permitted to use the land by the person or entity who holds, or held, the statutory right to use it.
 
 ### Delegation of powers and duties
 
 114.17 (1) The Minister of Infrastructure may delegate his or her powers and duties under any of the following provisions to any person or entity, subject to such conditions as the Minister of Infrastructure may impose:
+
 1. Subsection 114.5 (3).
+
 2. Subsection 114.8 (1) or (6) or both.
+
 3. Subsection 114.9 (1) or (5) or both.
+
 4. Subsection 114.13 (1).
+
 5. Section 114.14.
 
 ### Assignment of powers and duties
@@ -6121,9 +7369,13 @@ in which,
 ### Regulations
 
 114.18 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing one or more statutes, provisions of statutes or regulations for the purposes of subsection 114.5 (5), 114.10 (6) or 114.13 (7);
+
 (b) prescribing incremental costs for the purposes of subsection 114.5 (9);
+
 (c) prescribing the information to be included in a notice given under subsection 114.10 (3) and prescribing the manner in which the notice must be given;
+
 (d) prescribing the information to be included in a notice given under section 114.11.
 
 ### General or particular
@@ -6135,7 +7387,9 @@ in which,
 ### Definitions, Part X
 
 115 In this Part,
+
 “transfer order” means an order made under section 116; (“décret de transfert ou de mutation”)
+
 “transferee” means a person to whom officers, employees, assets, liabilities, rights or obligations are transferred by a transfer order. (“destinataire”)
 
 ### Transfer orders
@@ -6157,12 +7411,19 @@ in which,
 ### Same
 
 (5) Despite subsection (4), the consent of the transferee is required if the transferee is a person other than,
+
 (a) Hydro One Inc. or a subsidiary of it;
+
 (b) Ontario Power Generation Inc. or a subsidiary of it;
+
 (c) the IESO;
+
 (d) the Board;
+
 (e) the Electrical Safety Authority;
+
 (f) the subsidiary of the Financial Corporation established under section 110; or
+
 (g) Her Majesty in right of Ontario.
 
 ### Legislation Act, 2006, Part III
@@ -6184,8 +7445,11 @@ in which,
 ### Description of things transferred
 
 118 A transfer order may describe officers, employees, assets, liabilities, rights or obligations to be transferred,
+
 (a) by reference to specific officers, employees, assets, liabilities, rights or obligations;
+
 (b) by reference to any class of officers, employees, assets, liabilities, rights or obligations; or
+
 (c) partly in accordance with clause (a) and partly in accordance with clause (b).
 
 ### Approvals under the Power Corporation Act
@@ -6207,7 +7471,9 @@ in which,
 ### Future changes
 
 (4) If an officer or employee is transferred by or pursuant to a transfer order, nothing in this Act,
+
 (a) prevents the office or employment from being lawfully terminated after the transfer; or
+
 (b) prevents any term or condition of the office or employment from being lawfully changed after the transfer.
 
 ### Payment for transfer
@@ -6217,8 +7483,11 @@ in which,
 ### Amount of payment
 
 (2) The transfer order may,
+
 (a) fix the amount of the payment;
+
 (b) specify a method for determining the amount of the payment; or
+
 (c) provide that the amount of the payment be determined by the Minister of Finance or a person designated by the Minister of Finance.
 
 ### Form of payment
@@ -6232,14 +7501,19 @@ in which,
 ### Valuations
 
 (5) A transfer order may,
+
 (a) fix the value of anything transferred by or pursuant to the order;
+
 (b) specify a method for determining the value of anything transferred by or pursuant to the order; or
+
 (c) provide that the value of anything transferred by or pursuant to the order be determined by the Minister of Finance or a person designated by the Minister of Finance.
 
 ### Province may assume obligations in return for securities
 
 122 (1) If, pursuant to a transfer order, Hydro One Inc. or Ontario Power Generation Inc. issues securities to Ontario Hydro, the Lieutenant Governor in Council, by order,
+
 (a) may authorize Her Majesty in right of Ontario or an agent of Her Majesty in right of Ontario to assume obligations of Hydro One Inc. or Ontario Power Generation Inc. under the securities; and
+
 (b) may require Hydro One Inc. or Ontario Power Generation Inc. to issue, and may authorize Her Majesty in right of Ontario or an agent of Her Majesty in right of Ontario to acquire, additional securities in such amount as the Lieutenant Governor in Council may specify.
 
 ### Exchange of securities
@@ -6285,13 +7559,21 @@ in which,
 ### Persons referred to in subs. (1)
 
 (2) The persons referred to in subsection (1) are:
+
 1. Hydro One Inc. or a subsidiary of it.
+
 2. Ontario Power Generation Inc. or a subsidiary of it.
+
 3. The IESO.
+
 4. The Board.
+
 5. The subsidiary of the Financial Corporation established under section 110.
+
 6. Her Majesty in right of Ontario.
+
 7. The Electrical Safety Authority.
+
 8. Any other person prescribed by the regulations.
 
 ### No new interest
@@ -6305,13 +7587,17 @@ in which,
 ### Definitions
 
 (5) In this section,
+
 “land” means land, tenements, hereditaments and appurtenances, or any estate or interest therein; (“bien-fonds”)
+
 “registered document” means a document registered or deposited under the Registry Act or registered under the Land Titles Act. (“document enregistré”)
 
 ### Execution of agreements
 
 125 (1) A transfer order may require Ontario Hydro or a transferee,
+
 (a) to enter into any written agreement or execute any instrument specified in the order; and
+
 (b) to register in accordance with the order any agreement or instrument entered into or executed under clause (a).
 
 ### Exception
@@ -6321,9 +7607,13 @@ in which,
 ### Enforcement of things transferred
 
 126 (1) A transfer order may provide,
+
 (a) that any liability or obligation that is transferred by the order may be enforced against Ontario Hydro, the transferee, or both of them;
+
 (b) that any right that is transferred by the order may be enforced by Ontario Hydro, the transferee, or both of them;
+
 (c) that any liability or obligation that is transferred by the order may be transferred to one or more transferees on a joint and several basis, as specified in the order; and
+
 (d) that any liability or obligation that is transferred by the order may be allocated among two or more transferees on the basis set out in the order.
 
 ### Release of Ontario Hydro
@@ -6341,12 +7631,19 @@ in which,
 ### Certain rights not affected by transfer
 
 129 (1) A transfer by or pursuant to a transfer order,
+
 (a) shall be deemed not to constitute,
+
 (i) a breach, termination, repudiation or frustration of any contract, including a contract of employment or insurance,
+
 (ii) a breach of any Act, regulation or municipal by-law, or
+
 (iii) an event of default or force majeure;
+
 (b) shall be deemed not to give rise to a breach, termination, repudiation or frustration of any licence, permit or other right;
+
 (c) shall be deemed not to give rise to any right to terminate or repudiate a contract, licence, permit or other right; and
+
 (d) shall be deemed not to give rise to any estoppel.
 
 ### Exemptions
@@ -6356,7 +7653,9 @@ in which,
 ### No new cause of action
 
 130 Subject to subsection 129 (2), nothing in this Act and nothing done by or pursuant to a transfer order creates any new cause of action in favour of,
+
 (a) a holder of a debt instrument that was issued by Ontario Hydro and guaranteed by the Province of Ontario before this section comes into force; or
+
 (b) a party to a contract with Ontario Hydro that was entered into before this section comes into force.
 
 ### Conditions on exercise of powers
@@ -6390,13 +7689,17 @@ in which,
 ### Pensions
 
 137 (1) A transfer order shall not include any provision relating to,
+
 (a) the Ontario Hydro Pension and Insurance Plan or the Pension and Insurance Fund of Ontario Hydro, referred to in section 24 of the Power Corporation Act, as continued by Part VII of this Act; or
+
 (b) the pension benefits and ancillary benefits within the meaning of the Pension Benefits Act that are provided under a pension plan with respect to officers or employees transferred by or pursuant to a transfer order.
 
 ### Exception
 
 (2) Despite clause (1) (a), a transfer order may include provisions relating to the following matters:
+
 1. The disability benefits and life insurance described in subsection 98 (7) and the amount referred to in subsection 98 (8).
+
 2. Any liability or obligation associated with a proceeding or potential proceeding relating to the Ontario Hydro Pension and Insurance Plan and the Pension and Insurance Fund of Ontario Hydro or relating to the Ontario Hydro Financial Corporation Pension Plan and the pension fund for it.
 
 ### Other transfer orders
@@ -6408,8 +7711,11 @@ in which,
 ### Financial Corporation assets, etc.
 
 (1.1) The Lieutenant Governor in Council may make orders transferring the following assets, liabilities, rights and obligations to Hydro One Inc., Ontario Power Generation Inc., the IESO, the Electrical Safety Authority or any other person:
+
 1. Assets, liabilities, rights and obligations of, or relating to, the Ontario Hydro Pension and Insurance Plan and the Pension and Insurance Fund of Ontario Hydro.
+
 2. Assets, liabilities, rights and obligations of, or relating to, the Ontario Hydro Financial Corporation Pension Plan and the Ontario Hydro Financial Corporation Pension Fund.
+
 3. Assets, liabilities, rights and obligations of the Financial Corporation relating to an act or omission by the Financial Corporation in connection with its rights or duties under Part VII or by any other person in connection with the person’s rights or duties under that Part.
 
 ### Restriction on scope of order
@@ -6419,8 +7725,11 @@ in which,
 ### Applications of this Part
 
 (2) This Part, except section 137, applies with necessary modifications to an order made under subsection (1) or (1.1) and, for that purpose,
+
 (a) a reference in this Part to a transfer order shall be deemed to be a reference to an order made under subsection (1) or (1.1), as the case may be;
+
 (b) a reference in this Part to Ontario Hydro in connection with an order made under subsection (1) shall be deemed to be a reference to the subsidiary of the Financial Corporation established under section 110; and
+
 (c) a reference in this Part to Ontario Hydro in connection with an order made under subsection (1.1) shall be deemed to be a reference to the Financial Corporation.
 
 ### Provincial liability not limited
@@ -6430,10 +7739,15 @@ in which,
 ### Regulations, Part X
 
 140 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) supplementing the provisions of this Part and governing the transfer of officers, employees, assets, liabilities, rights and obligations under this Part;
+
 (a.1) prescribing a date for the purposes of subsection 122 (6);
+
 (b) prescribing persons for the purpose of paragraph 8 of subsection 124 (2);
+
 (c) prescribing contracts or classes of contracts to which subsection 129 (1) does not apply, subject to such conditions or restrictions as may be prescribed by the regulations;
+
 (d) prescribing Acts or provisions of Acts that do not apply to a transfer for the purpose of section 135, subject to such conditions or restrictions as may be prescribed by the regulations.
 
 ### General or particular
@@ -6445,14 +7759,19 @@ in which,
 ### Interpretation, Part XI
 
 141 (1) In this Part,
+
 “transfer by-law” means a by-law made under section 145; (“règlement municipal de transfert ou de mutation”)
+
 “transferee” means the corporation incorporated under the Business Corporations Act pursuant to section 142; (“destinataire”)
+
 “transferor” means the municipal corporation, commission or other body whose employees, assets, liabilities, rights or obligations are transferred pursuant to a transfer by-law. (“auteur”)
 
 ### Same
 
 (2) For the purposes of this Part, a municipal corporation generates, transmits, distributes or retails electricity indirectly if it carries on any of those activities through,
+
 (a) a commission established under the Public Utilities Act or any other general or special Act; or
+
 (b) any other body, however established.
 
 ### Incorporation of municipal electricity businesses
@@ -6482,12 +7801,15 @@ in which,
 ### Not a local board, etc.
 
 (6) A corporation incorporated pursuant to this section shall be deemed not to be a local board, public utilities commission or hydro-electric commission for the purposes of any Act.
+
 (7) Repealed: 2004, c. 23, Sched. A, s. 57.
 
 ### No new commissions
 
 143 Except as provided by section 142, a municipal corporation shall not, after section 142 comes into force,
+
 (a) establish a commission or other body to generate, transmit, distribute or retail electricity; or
+
 (b) authorize a commission or other body that was established before section 142 came into force to generate, transmit, distribute or retail electricity, if the commission or other body was not authorized to carry on that activity immediately before section 142 came into force.
 
 ### Restriction on municipal electricity activity
@@ -6497,12 +7819,15 @@ in which,
 ### Exception, renewable energy generation facilities
 
 (2) Despite subsection (1) and section 143, a municipal corporation, a municipal service board, a city board or municipal services corporation may, subject to the prescribed rules, generate electricity by means other than through a corporation incorporated under the Business Corporations Act if,
+
 (a) the generation facility is a renewable energy generation facility that does not exceed 10 megawatts or such other capacity as may be prescribed by regulation; or
+
 (b) the generation facility meets the prescribed criteria.
 
 ### Definition
 
 (3) In this section,
+
 “municipal services corporation” means a corporation established by a municipal corporation under section 203 of the Municipal Act, 2001 or under section 148 of the City of Toronto Act, 2006.
 
 ### Transfer by-laws
@@ -6528,8 +7853,11 @@ in which,
 ### Description of things transferred
 
 146 A transfer by-law may describe employees, assets, liabilities, rights or obligations to be transferred,
+
 (a) by reference to specific employees, assets, liabilities, rights or obligations;
+
 (b) by reference to any class of employees, assets, liabilities, rights or obligations; or
+
 (c) partly in accordance with clause (a) and partly in accordance with clause (b).
 
 ### Employees
@@ -6547,13 +7875,17 @@ in which,
 ### Future changes
 
 (4) If an employee is transferred by or pursuant to a transfer by-law, nothing in this Act,
+
 (a) prevents the employment from being lawfully terminated after the transfer; or
+
 (b) prevents any term or condition of the employment from being lawfully changed after the transfer.
 
 ### Reserve funds
 
 148 (1) If employees or assets are transferred by or pursuant to a transfer by-law, the by-law or another transfer by-law shall transfer to the transferee,
+
 (a) the portion of any reserve fund established under section 33 of the Development Charges Act, 1997 that relates to development charges collected in respect of electrical power services; and
+
 (b) the portion of any reserve fund referred to in section 63 of the Development Charges Act, 1997 that relates to development charges collected in respect of electrical power services.
 
 ### Use of amount transferred
@@ -6571,8 +7903,11 @@ in which,
 ### Amount of payment
 
 (2) The transfer by-law may,
+
 (a) fix the amount of the payment;
+
 (b) specify a method for determining the amount of the payment; or
+
 (c) provide that the amount of the payment be determined by a person designated by the by-law.
 
 ### Form of payment
@@ -6586,8 +7921,11 @@ in which,
 ### Valuations
 
 (5) A transfer by-law may,
+
 (a) fix the value of anything transferred by or pursuant to the by-law;
+
 (b) specify a method for determining the value of anything transferred by or pursuant to the by-law; or
+
 (c) provide that the value of anything transferred by or pursuant to the by-law be determined by a person designated by the by-law.
 
 ### Effective date of transfer
@@ -6621,19 +7959,25 @@ in which,
 ### Definitions
 
 (4) In this section,
+
 “land” means land, tenements, hereditaments and appurtenances, or any estate or interest therein; (“bien-fonds”)
+
 “registered document” means a document registered or deposited under the Registry Act or registered under the Land Titles Act. (“document enregistré”)
 
 ### Execution of agreements
 
 152 A transfer by-law may require the transferor or the transferee,
+
 (a) to enter into any written agreement or execute any instrument specified in the by-law; and
+
 (b) to register in accordance with the by-law any agreement or instrument entered into or executed under clause (a).
 
 ### Enforcement of things transferred
 
 153 (1) A transfer by-law may provide,
+
 (a) that any liability or obligation that is transferred by the by-law may be enforced against the transferor, the transferee, or both of them; and
+
 (b) that any right that is transferred by the by-law may be enforced by the transferor, the transferee, or both of them.
 
 ### Release of transferor
@@ -6651,12 +7995,19 @@ in which,
 ### Certain rights not affected by transfer
 
 156 (1) A transfer by or pursuant to a transfer by-law,
+
 (a) shall be deemed not to constitute,
+
 (i) a breach, termination, repudiation or frustration of any contract, including a contract of employment or insurance,
+
 (ii) a breach of any Act, regulation or municipal by-law, or
+
 (iii) an event of default or force majeure;
+
 (b) shall be deemed not to give rise to a breach, termination, repudiation or frustration of any licence, permit or other right;
+
 (c) shall be deemed not to give rise to any right to terminate or repudiate a contract, licence, permit or other right; and
+
 (d) shall be deemed not to give rise to any estoppel.
 
 ### Exemptions
@@ -6674,15 +8025,21 @@ in which,
 ### Exemptions from other Acts
 
 159 The Land Transfer Tax Act, the Retail Sales Tax Act and such other Acts or provisions as are prescribed by the regulations do not apply to any transfer of employees, assets, liabilities, rights or obligations by or pursuant to a transfer by-law.
+
 159.1 Repealed: 2004, c. 23, Sched. A, s. 58.
+
 159.2 Repealed: 2004, c. 23, Sched. A, s. 59.
+
 159.3 Repealed: 2004, c. 23, Sched. A, s. 60.
 
 ### Regulations, Part XI
 
 160 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) supplementing the provisions of this Part and governing the transfer of employees, assets, liabilities, rights and obligations under this Part;
+
 (b) prescribing contracts or classes of contracts to which subsection 156 (1) does not apply, subject to such conditions or restrictions as may be prescribed by the regulations;
+
 (c) prescribing Acts or provisions of Acts that do not apply to a transfer for the purpose of section 159, subject to such conditions or restrictions as may be prescribed by the regulations.
 
 ### General or particular
@@ -6702,14 +8059,19 @@ in which,
 ### Definitions, Part XI.1
 
 161.1 In this Part,
+
 “transfer order” means an order made under section 161.2; (“décret de transfert”)
+
 “transferee” means a person to whom assets, liabilities, rights or obligations are transferred by a transfer order; (“destinataire”)
+
 “transferor” means the person from whom assets, liabilities, rights or obligations are transferred by a transfer order. (“auteur”)
 
 ### Transfer orders
 
 161.2 (1) The Lieutenant Governor in Council may make orders transferring the following:
+
 1. Assets, liabilities, rights and obligations of the IESO relating to market surveillance and the Market Surveillance Panel to the Board.
+
 2. Assets, liabilities, rights and obligations of the IESO relating to the forecasting of electricity demand and the adequacy and reliability of electricity resources for the medium and long term to the OPA.
 
 ### Binding on all persons
@@ -6731,15 +8093,23 @@ in which,
 ### Regulations
 
 161.4 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) supplementing the provisions of this Part and governing the transfer of assets, liabilities, rights and obligations under this Part;
+
 (b) prescribing contracts or classes of contracts to which subsection 129 (1), as made applicable by section 161.3, does not apply, subject to such conditions or restrictions as may be prescribed by the regulations;
+
 (c) prescribing Acts or provisions of Acts that do not apply to a transfer for the purpose of section 135, as made applicable by section 161.3, subject to such conditions or restrictions as may be prescribed by the regulations;
+
 (d) requiring the IESO, OPA and the Board to enter into contracts relating to the provision of services and such other matters as the Lieutenant Governor in Council considers necessary or advisable,
+
 (i) to assist the Board and the Market Surveillance Panel with respect to market surveillance of the IESO-administered markets,
+
 (ii) to assist the OPA with respect to the forecasting of electricity demand and the adequacy and reliability of electricity resources for the medium and long term.
 
 ### General or particular
 
 (2) A regulation under this section may be general or particular in its application.
+
 162 Omitted (provides for coming into force of provisions of this Act).
+
 163 Omitted (enacts short title of this Act).

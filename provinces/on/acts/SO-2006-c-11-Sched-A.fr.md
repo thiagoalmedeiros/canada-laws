@@ -6,21 +6,24 @@ language: fr
 type: act
 document_date: "2026-06-02"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06c11"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # cité de Toronto (Loi de 2006 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06c11) before relying on it.
 
 L.O. 2006, chap. 11, annexe A
 
 ### Préambule
 
 L’Assemblée reconnaît que la cité de Toronto, en tant que capitale de la province, est un moteur économique de l’Ontario et du Canada. Elle reconnaît que la cité joue un rôle important dans la création et le maintien de la prospérité économique et de la haute qualité de vie de la population de l’Ontario.
+
 L’Assemblée reconnaît que la réussite de la cité exige la participation active des divers paliers de gouvernement qui travaillent en commun dans le cadre d’un partenariat fondé sur le respect, la consultation et la collaboration.
+
 L’Assemblée reconnaît en outre l’importance de fournir à la cité un cadre législatif au sein duquel elle pourra bâtir une ville forte, dynamique et durable qui est en mesure de prospérer dans l’économie mondiale. L’Assemblée reconnaît par ailleurs que la cité est une administration qui est en mesure d’exercer ses pouvoirs en pratiquant une saine gestion assortie de l’obligation de rendre compte.
+
 L’Assemblée reconnaît enfin qu’il est dans l’intérêt de la province que la cité se voit conférer ces pouvoirs.
 
 ## partIE i interprÉtation
@@ -44,12 +47,19 @@ L’Assemblée reconnaît enfin qu’il est dans l’intérêt de la province qu
 ### Objets de la présente loi
 
 2 La présente loi a pour objet de doter la cité d’un ensemble de pouvoirs étendus qui établisse un équilibre entre les intérêts de la province et ceux de la cité et qui reconnaisse que la cité doit pouvoir prendre les mesures suivantes afin d’assurer une bonne administration :
+
 1. Déterminer ce qui est dans l’intérêt public pour la cité.
+
 2. Répondre aux besoins de la cité.
+
 3. Déterminer la structure appropriée pour gouverner la cité, sauf en ce qui concerne la composition du conseil municipal et la division de la cité en quartiers électoraux.
+
 4. Veiller à ce que la cité soit tenue de rendre des comptes au public et que le processus décisionnel soit transparent.
+
 5. Déterminer les mécanismes appropriés pour la prestation des services municipaux dans la cité.
+
 6. Déterminer les niveaux appropriés de dépense et d’imposition municipales pour la cité.
+
 7. Recourir à des outils fiscaux pour appuyer les activités de la cité.
 
 ### Interprétation
@@ -57,50 +67,95 @@ L’Assemblée reconnaît enfin qu’il est dans l’intérêt de la province qu
 ### Définitions
 
 3 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «ancienne Loi sur les municipalités » La Loi sur les municipalités, qui constitue le chapitre M.45 des Lois refondues de l’Ontario de 1990, telle qu’elle existait le 31 décembre 2002. («old Municipal Act »)
+
 «animal» Tout individu du règne animal, à l’exception de l’être humain. («animal»)
+
 «bien-fonds» S’entend en outre d’un bâtiment. («land»)
+
 «bien imposable» Bien-fonds assujetti aux impôts prélevés aux fins municipales et scolaires aux termes de la partie XI (Impôts municipaux traditionnels). («rateable property»)
+
 «commission municipale» Commission municipale créée ou réputée créée par la cité en application de la présente loi, à l’exclusion d’une personne morale constituée par la cité en vertu de l’article 148 et d’un organisme d’appel créé en vertu de l’article 115 pour traiter de questions d’aménagement du territoire à l’échelon local. («city board»)
+
 «conjoint» S’entend d’une personne avec laquelle la personne :
+
 a) soit est mariée;
+
 b) soit vit dans une union conjugale hors du mariage, si ces deux personnes, selon le cas :
+
 (i) ont cohabité pendant au moins un an,
+
 (ii) sont les parents d’un même enfant,
+
 (iii) ont conclu ensemble un accord de cohabitation en vertu de l’article 53 de la Loi sur le droit de la famille. («spouse»)
+
 «conseil local» Commission municipale, commission de transport, conseil de bibliothèque publique, conseil de santé, commission de service de police, conseil d’aménagement ou autre conseil, commission, comité, organisme ou office local créés ou exerçant un pouvoir en vertu d’une loi à l’égard des affaires ou des fins d’une ou de plusieurs municipalités. Sont toutefois exclus de la présente définition les conseils scolaires et les offices de protection de la nature. («local board»)
+
 «CTT» La Commission de transport de Toronto. («TTC»)
+
 «document» S’entend de renseignements, peu importe leur mode de transcription ou de stockage, qui sont consignés sous forme imprimée, sur film, au moyen de dispositifs électroniques ou autrement, notamment des états financiers, des procès-verbaux, des comptes, des lettres, des notes, des plans, des cartes, des dessins, des photographies et des films. («record»)
+
 «eaux d’égout» S’entend en outre de ce qui suit :
+
 a) les eaux pluviales et les autres eaux drainées des biens-fonds;
+
 b) les déchets commerciaux et les déchets industriels évacués dans un système d’égouts. («sewage»)
+
 «élections ordinaires» Les élections ordinaires visées au paragraphe 4 (1) de la Loi de 1996 sur les élections municipales. («regular election»)
+
 «foyer de groupe» Résidence qui détient un permis ou qui est subventionnée en application d’une loi fédérale ou provinciale en vue de l’hébergement surveillé, dans un logement unifamilial, de trois à 10 personnes – sans compter le personnel – dont le bien-être dépend de la vie en groupe en raison soit de leur état affectif, mental, social ou physique, soit de leur statut juridique. («group home»)
+
 «municipalité» Zone géographique dont les habitants sont constitués en personne morale. («municipality»)
+
 «municipalité à palier unique» Municipalité, à l’exclusion d’une municipalité de palier supérieur, qui ne fait pas partie d’une municipalité de palier supérieur aux fins municipales. («single-tier municipality»)
+
 «municipalité de palier inférieur» Municipalité qui fait partie d’une municipalité de palier supérieur aux fins municipales. («lower-tier municipality»)
+
 «municipalité de palier supérieur» Municipalité dont font partie deux municipalités de palier inférieur ou plus aux fins municipales. («upper-tier municipality»)
+
 «municipalité locale» Municipalité à palier unique ou municipalité de palier inférieur. («local municipality»)
+
 «municipalité régionale» Municipalité de palier supérieur qui était une municipalité régionale ou une municipalité de district ou qui constituait le comté d’Oxford le 31 décembre 2002. («regional municipality»)
+
 «permis» Relativement à un permis délivré sous le régime de la présente loi, s’entend en outre d’une licence, d’une approbation, d’une inscription, d’un enregistrement et de tout autre genre de permission. («licence», «licensing»)
+
 «personne» S’entend en outre d’une municipalité, sauf si le contexte exige une interprétation différente. La présente définition s’applique à toute formulation de sens analogue. («person»)
+
 «pouvoir» Relativement au pouvoir de la cité ou d’une autre entité, s’entend notamment de la capacité et des droits, pouvoirs et privilèges. («power»)
+
 «Première Nation» Bande au sens de la Loi sur les Indiens (Canada). («First Nation»)
+
 «prescrit» Prescrit par les règlements pris en application de la présente loi. («prescribed»)
+
 «réseau» ou «système» Un ou plusieurs programmes ou installations d’une personne, y compris les biens meubles et immeubles, qui sont utilisés pour fournir des services et des choses à la personne ou à toute autre personne. S’entend en outre de l’administration liée aux programmes, installations, services et choses. («system»)
+
 «réseau de transport» S’entend en outre des ports, des havres et des terminus de transport. («transportation system»)
+
 «roulotte» Véhicule fabriqué de façon à pouvoir être attaché à un véhicule automobile et propulsé par celui-ci, et qui peut être utilisé pour y vivre, y dormir ou y manger, même s’il est mis sur cales ou que son train roulant a été retiré. («trailer»)
+
 «service public» S’entend de ce qui suit :
+
 a) tout système ou réseau servant à fournir au public n’importe lequel des services ou choses suivants :
+
 (i) eau,
+
 (ii) eaux d’égout,
+
 (iii) combustible, y compris gaz naturel ou synthétique,
+
 (iv) énergie, sauf électricité,
+
 (v) chauffage et refroidissement,
+
 (vi) téléphone;
+
 b) le service ou la chose fourni. («public utility»)
+
 «société d’évaluation foncière» La Société d’évaluation foncière des municipalités. («assessment corporation»)
+
 «territoire non érigé en municipalité» Partie du territoire de l’Ontario qui n’est pas dotée d’une organisation municipale. («unorganized territory»)
+
 «voie publique» S’entend en outre d’un pont, d’un pont sur chevalets, d’un viaduc et d’une autre construction qui fait partie d’une voie publique et, sauf disposition contraire, d’une section d’une voie publique. («highway»).
 
 ### Municipalité
@@ -126,9 +181,13 @@ b) le service ou la chose fourni. («public utility»)
 ### Statut de privilège prioritaire
 
 (7) Si une somme est ajoutée au rôle d’imposition à l’égard d’un bien en application du paragraphe (5) ou (6), cette somme, y compris les intérêts courus :
+
 a) peut être perçue de la même manière que les impôts fonciers qui sont prélevés sur le bien aux termes de la partie XI (Impôts municipaux traditionnels);
+
 b) peut être recouvrée, ainsi que les frais, à titre de dette due à la cité auprès du propriétaire du bien inscrit au rôle d’évaluation au moment où les droits ou redevances ont été ajoutés au rôle d’imposition et de tout propriétaire subséquent de tout ou partie du bien;
+
 c) constitue un privilège particulier sur le bien de la même manière que le sont les impôts fonciers en application du paragraphe 314 (3);
+
 d) peut être incluse dans le coût d’annulation visé à la partie XIV (Vente de biens-fonds pour arriérés d’impôts fonciers) de la même manière que le sont les impôts fonciers.
 
 ### Impôts de la cité
@@ -138,20 +197,27 @@ d) peut être incluse dans le coût d’annulation visé à la partie XIV (Vente
 ### Lois spéciales
 
 4 (1) La définition qui suit s’applique au présent article.
+
 «loi spéciale» Loi, à l’exclusion de la présente loi, portant sur la cité en particulier.
 
 ### Rapport entre la présente loi et les lois spéciales
 
 (2) Sauf disposition prévoyant le contraire expressément ou par déduction nécessaire :
+
 a) la présente loi ne porte pas atteinte aux pouvoirs qu’une loi spéciale confère à la cité;
+
 b) une loi spéciale ne porte pas atteinte aux pouvoirs que la présente loi confère à la cité.
 
 ### Pouvoir de dérogation
 
 (3) Malgré le paragraphe (2), la cité peut exercer ses pouvoirs relativement aux questions suivantes de façon à déroger à une loi spéciale même si celle-ci est plus spécifique et est édictée plus récemment :
+
 1. Le changement de nom de la cité.
+
 2. La constitution, la modification ou la dissolution de quartiers électoraux.
+
 3. et 4. Abrogées : 2018, chap. 11, annexe 1, art. 2.
+
 5. Toute autre question dont traite une disposition d’une loi qui prévoit, expressément ou par déduction nécessaire, que la disposition ou l’exercice d’un pouvoir qu’elle confère l’emporte sur la loi spéciale.
 
 ### Exception
@@ -185,23 +251,37 @@ b) une loi spéciale ne porte pas atteinte aux pouvoirs que la présente loi con
 ### Règlements municipaux
 
 (2) La cité peut adopter des règlements relativement aux questions suivantes :
+
 1. L’organisation de la gouvernance de la cité et de ses conseils locaux (définition restreinte), sauf en ce qui concerne la composition du conseil municipal et la division de la cité en quartiers électoraux.
+
 2. La responsabilisation et la transparence de la cité et de ses conseils locaux (définition restreinte) ainsi que de leurs opérations.
+
 3. La gestion financière de la cité et de ses conseils locaux (définition restreinte).
+
 4. Les actifs publics qu’acquiert la cité aux fins de l’exercice des pouvoirs que lui confère la présente loi ou une autre loi.
+
 5. Le bien-être économique, social et environnemental de la cité, et notamment le changement climatique.
+
 6. La santé, la sécurité et le bien-être des personnes.
+
 7. Les services et les choses que la cité est autorisée à fournir en vertu du paragraphe (1).
+
 8. La protection des personnes et des biens, y compris la protection des consommateurs.
+
 9. Les animaux.
+
 10. Les constructions, y compris les clôtures, les panneaux et les enseignes.
+
 11. La délivrance de permis aux entreprises.
 
 ### Étendue du pouvoir d’adoption de règlements municipaux
 
 (3) Sans préjudice de la portée générale de l’article 6, les règlements municipaux adoptés en vertu du présent article relativement à une question peuvent :
+
 a) réglementer ou interdire quelque chose relativement à la question;
+
 b) exiger que des personnes accomplissent des actes relativement à la question;
+
 c) prévoir un régime de permis relativement à la question.
 
 ### Pouvoir non restreint
@@ -215,18 +295,27 @@ c) prévoir un régime de permis relativement à la question.
 ### Exception
 
 (5.1) Le paragraphe (5) n’a pas pour effet d’empêcher la cité d’adopter des règlements relativement à des services ou des choses qui sont fournis par une personne dans la mesure nécessaire pour faire en sorte :
+
 a) soit que l’exploitation matérielle d’un système ou réseau de la cité ou d’une commission municipale ne soit pas entravée;
+
 b) soit que la cité, une commission municipale ou un système ou réseau de la cité ou de la commission municipale respecte les normes provinciales ou les règlements qui s’y appliquent.
 
 ### Définition
 
 (6) La définition qui suit s’applique au présent article.
+
 «conseil local (définition restreinte)» S’entend d’un conseil local autre que ce qui suit :
+
 a) une société au sens du paragraphe 2 (1) de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille ;
+
 b) un conseil de santé au sens du paragraphe 1 (1) de la Loi sur la protection et la promotion de la santé ;
+
 c) un comité de gestion au sens de la Loi de 2021 sur le redressement des soins de longue durée ;
+
 d) une commission de service de police établie en application de la Loi de 2019 sur la sécurité communautaire et les services policiers ;
+
 e) un conseil au sens de l’article 1 de la Loi sur les bibliothèques publiques ;
+
 f) une personne morale constituée conformément à l’article 148.
 
 ### Expropriation
@@ -248,7 +337,9 @@ f) une personne morale constituée conformément à l’article 148.
 ### Incompatibilité avec des lois et d’autres textes
 
 11 (1) Un règlement municipal est sans effet dans la mesure où il est incompatible avec, selon le cas :
+
 a) une loi provinciale ou fédérale ou un règlement pris en application d’une telle loi;
+
 b) un texte de nature législative, notamment un décret, un arrêté, une ordonnance, un ordre, un permis ou une approbation, pris en application d’une loi ou d’un règlement provincial ou fédéral.
 
 ### Idem
@@ -268,7 +359,9 @@ b) un texte de nature législative, notamment un décret, un arrêté, une ordon
 ### Application aux nouvelles dispositions et aux dispositions existantes
 
 (2) Le paragraphe (1) s’applique peu importe si la disposition particulière est adoptée avant ou après l’un ou l’autre des jours suivants :
+
 a) le jour de l’entrée en vigueur du présent article;
+
 b) le jour de l’entrée en vigueur d’un règlement municipal adopté en vertu de l’article 7 ou 8.
 
 ### Aucun effet rétroactif
@@ -282,14 +375,23 @@ b) le jour de l’entrée en vigueur d’un règlement municipal adopté en vert
 ### Non-application du présent article
 
 (5) Le présent article ne s’applique pas au règlement municipal adopté en vertu de l’article 7 ou 8 qui, selon le cas :
+
 a) traite des clôtures, des panneaux et des enseignes;
+
 b) exige qu’une personne enlève la neige et la glace d’un bien-fonds;
+
 c) exige qu’une personne enlève les débris d’un bien-fonds qui lui appartient ou qu’elle occupe ou d’un autre bien-fonds privé ou public;
+
 d) exige qu’une personne coupe et enlève l’herbe longue et les mauvaises herbes, au sens du règlement municipal, d’un bien-fonds qui lui appartient ou qu’elle occupe ou d’une voie publique attenante;
+
 e) prescrit des normes visant à empêcher l’entrée dans un bâtiment vacant au sens de la Loi de 1992 sur le code du bâtiment ou à déceler et signaler la présence d’une personne dans un tel bâtiment;
+
 f) autorise le stationnement en cour avant;
+
 g) exige que les propriétaires de lieux ou les personnes qui en ont la charge enlèvent les arbres ou les branches d’arbres pourris, endommagés ou dangereux qui posent un danger aux personnes ou aux biens;
+
 h) prévoit tout ensemble conçu pour offrir des logements dans la cité, y compris les espaces publics ou les installations ou bâtiments à usage récréatif, institutionnel, commercial ou industriel qui, de l’avis de la cité, sont raisonnablement nécessaires à cette fin;
+
 i) traite des autres questions que prescrit le ministre des Affaires municipales et du Logement.
 
 ### Exception
@@ -299,9 +401,13 @@ i) traite des autres questions que prescrit le ministre des Affaires municipales
 ### Restrictions : personnes morales et finances
 
 13 Les articles 7 et 8 n’ont pas pour effet d’autoriser la cité à accomplir l’un ou l’autre des actes suivants :
+
 1. Fixer quelque genre d’impôt que ce soit, y compris des impôts en vertu de n’importe quelle partie de la présente loi.
+
 2. Accorder des subventions ou des prêts.
+
 3. Devenir un failli au sens de la Loi sur la faillite et l’insolvabilité (Canada).
+
 4. En tant que personne insolvable, faire une cession au profit de ses créanciers en général en vertu de l’article 49 de la Loi sur la faillite et l’insolvabilité (Canada) ou faire une proposition en vertu de l’article 50 de cette loi.
 
 ### Restriction : monopoles
@@ -315,14 +421,23 @@ i) traite des autres questions que prescrit le ministre des Affaires municipales
 ### Exception : services
 
 (2) La cité peut exercer ses pouvoirs afin d’offrir un système ou réseau municipal en vue de la fourniture de services ou de choses dans un secteur d’une autre municipalité ou dans un territoire non érigé en municipalité si elle agit ainsi entre autres à ses propres fins et que l’une des conditions suivantes s’applique :
+
 1. Les services ou les choses ne sont fournis qu’aux habitants de la cité.
+
 2. L’autre municipalité est une municipalité à palier unique et les services ou les choses sont fournis avec son consentement.
+
 3. L’autre municipalité est une municipalité de palier inférieur et les services ou les choses sont fournis avec le consentement :
+
 i. de la municipalité de palier inférieur, si elle a compétence pour fournir les services ou les choses dans le secteur,
+
 ii. de sa municipalité de palier supérieur, si elle a cette compétence,
+
 iii. de la municipalité de palier inférieur et de sa municipalité de palier supérieur, si elles ont toutes deux cette compétence.
+
 4. Les services ou les choses sont fournis dans un territoire non érigé en municipalité :
+
 i. avec le consentement d’un organisme local qui a compétence pour fournir les services ou les choses dans le secteur,
+
 ii. si aucun organisme local n’a cette compétence, avec le consentement de la personne à laquelle les services ou les choses sont fournis.
 
 ### Idem
@@ -336,6 +451,7 @@ ii. si aucun organisme local n’a cette compétence, avec le consentement de la
 ### Définition
 
 (5) La définition qui suit s’applique au paragraphe (2).
+
 «organisme local» Régie locale des services publics, régie des routes locales, conseil scolaire, conseil d’administration de district des services sociaux, conseil de santé ou autre conseil, commission, organisme ou office local exerçant un pouvoir à l’égard des affaires ou des fins municipales dans un territoire non érigé en municipalité.
 
 ### Accords
@@ -381,28 +497,43 @@ ii. si aucun organisme local n’a cette compétence, avec le consentement de la
 ### Étendue du pouvoir
 
 (2) Les règles suivantes s’appliquent au règlement municipal qui délègue des pouvoirs et fonctions de la cité :
+
 1. Une délégation peut être révoquée n’importe quand sans préavis à moins que le règlement ne restreigne expressément le pouvoir de révocation de la délégation qu’a la cité.
+
 2. Une délégation ne doit pas restreindre le droit de la révoquer passé la fin du mandat du conseil municipal qui l’a effectuée.
+
 3. Une délégation peut prévoir que seul le délégataire peut exercer le pouvoir délégué ou qu’à la fois la cité et le délégataire peuvent le faire.
+
 4. Une délégation de fonction ou une délégation réputée telle par la disposition 6 fait de la fonction une fonction conjointe de la cité et du délégataire.
+
 5. Une délégation peut être assortie des conditions et restrictions que le conseil municipal estime appropriées.
+
 6. Le pouvoir qui est délégué est réputé être délégué sous réserve des restrictions dont il est assorti et des formalités, y compris des conditions, des approbations et des appels, qui s’y appliquent, et toute fonction rattachée au pouvoir est réputée déléguée par la même occasion.
 
 ### Idem
 
 (3) Les conditions et restrictions visées à la disposition 5 du paragraphe (2) peuvent comprendre des questions comme les suivantes :
+
 1. Une exigence portant que le délégataire agisse par voie de règlement municipal, de résolution ou autrement, malgré le paragraphe 132 (3).
+
 2. Les formalités que le délégataire est tenu de suivre.
+
 3. La responsabilisation du délégataire et la transparence des mesures et des décisions qu’il prend.
 
 ### Restriction : délégation de pouvoirs législatifs et quasi judiciaires
 
 21 (1) Les articles 7 et 8 n’autorisent pas la cité à déléguer les pouvoirs législatifs et quasi judiciaires que lui confère quelque loi que ce soit, sauf les lois énumérées au paragraphe (2), et les pouvoirs de cette nature que lui confèrent les lois énumérées peuvent être délégués uniquement aux personnes et entités suivantes :
+
 a) un ou plusieurs membres du conseil municipal ou d’un de ses comités;
+
 b) un organisme d’au moins deux membres dont la moitié au moins sont :
+
 (i) soit membres du conseil municipal,
+
 (ii) soit des personnes nommées par le conseil municipal,
+
 (iii) soit une combinaison des personnes visées aux sous-alinéas (i) et (ii);
+
 c) un particulier qui est un fonctionnaire, un employé ou un mandataire de la cité.
 
 ### Lois énumérées
@@ -420,24 +551,39 @@ c) un particulier qui est un fonctionnaire, un employé ou un mandataire de la c
 ### Idem
 
 (5) Sans préjudice de la portée générale du paragraphe (4), les pouvoirs suivants sont des exemples de pouvoirs qui sont considérés comme mineurs :
+
 1. Le pouvoir de fermer une voie publique temporairement.
+
 2. Le pouvoir de délivrer un permis et de l’assortir de conditions.
+
 3. Les pouvoirs du conseil municipal qui sont visés dans les dispositions suivantes de l’ancienne Loi sur les municipalités, telles qu’elles existaient le 31 décembre 2002 :
+
 i. Les dispositions 107, 108, 109 et 110 de l’article 210.
+
 ii. La disposition 3 de l’article 308.
+
 iii. Le paragraphe 312 (2) et les alinéas 312 (4) a) et b).
 
 ### Pouvoirs qui ne peuvent pas être délégués
 
 22 (1) Les articles 7 et 8 n’autorisent pas la cité à déléguer les pouvoirs et fonctions qui suivent :
+
 1. Le pouvoir de nommer ou de destituer un fonctionnaire municipal dont la nomination est exigée par la présente loi.
+
 2. Le pouvoir d’adopter un règlement en vertu de l’article 267 et des parties XI, XII, XII.1 et XIII.
+
 3. Le pouvoir de constituer des personnes morales conformément à l’article 148.
+
 4. Le pouvoir d’adopter un plan officiel ou une modification d’un plan officiel en vertu de la Loi sur l’aménagement du territoire.
+
 5. Le pouvoir d’adopter un règlement de zonage en vertu de la Loi sur l’aménagement du territoire, sauf disposition contraire de l’article 39.2 de cette loi.
+
 6. Le pouvoir d’adopter un règlement conformément aux paragraphes 84 (1) et (2) et 252 (3), (6), (7) et (7.1).
+
 7. Le pouvoir d’adopter un plan d’améliorations communautaires en vertu de l’article 28 de la Loi sur l’aménagement du territoire, si le plan contient des dispositions autorisant l’exercice d’un pouvoir visé au paragraphe 28 (6) ou (7) de cette loi ou à l’article 333 de la présente loi.
+
 8. Le pouvoir d’adopter le budget de la cité ou de le modifier.
+
 9. Les autres pouvoirs et fonctions prescrits.
 
 ### Exception
@@ -451,8 +597,11 @@ iii. Le paragraphe 312 (2) et les alinéas 312 (4) a) et b).
 ### Restriction
 
 (2) Si une commission municipale assure le contrôle et la gestion d’une activité ou d’un service municipal, ni la présente loi ni les règlements municipaux adoptés en vertu de celle-ci n’ont pour effet, selon le cas :
+
 a) d’autoriser la commission à pourvoir au financement de l’activité ou du service autrement qu’au moyen des droits et redevances visés à la partie IX (Droits et redevances), sauf avec le consentement de la cité;
+
 b) de retirer à la cité le pouvoir de financer les dépenses en immobilisations et les dépenses de fonctionnement liées à la fourniture de l’activité ou du service comme si elle en assurait le contrôle et la gestion;
+
 c) de retirer à la cité le pouvoir qu’elle a d’effectuer des opérations à l’égard de biens meubles ou immeubles dans le cadre de l’activité ou du service comme si elle en assurait le contrôle et la gestion.
 
 ### Délégation : audiences
@@ -468,22 +617,31 @@ c) de retirer à la cité le pouvoir qu’elle a d’effectuer des opérations �
 ### Règles : effet de la délégation
 
 (3) Les règles suivantes s’appliquent si la cité délègue un pouvoir ou une fonction selon le paragraphe (2), sauf le pouvoir de prendre la décision ou la mesure :
+
 1. Si la personne ou l’organisme tient l’audience ou donne aux parties intéressées l’occasion d’être entendues, la cité n’est pas obligée de le faire.
+
 2. Si la décision ou la mesure relève d’une compétence légale de décision au sens de la Loi sur l’exercice des compétences légales, cette loi, sauf les articles 17, 17.1, 18 et 19, s’applique à la personne ou à l’organisme et à l’audience qu’il tient.
 
 ### Conseils communautaires
 
 24.1 (1) Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à constituer un ou plusieurs conseils communautaires chargés de faire ce qui suit :
+
 a) exercer les pouvoirs et fonctions que leur a délégués la cité en ce qui concerne les questions qui se rapportent à tout ou partie de la cité;
+
 b) exercer les fonctions que leur attribue la cité en ce qui concerne les questions qui se rapportent à tout ou partie de la cité, notamment faire des recommandations au conseil sur les questions telles que le budget.
 
 ### Composition du conseil communautaire
 
 (2) Le conseil communautaire peut comprendre, selon le cas :
+
 a) un comité du conseil municipal;
+
 b) un organisme d’au moins deux membres qui se compose :
+
 (i) soit d’un ou de plusieurs membres du conseil municipal,
+
 (ii) soit de particuliers nommés par le conseil municipal,
+
 (iii) soit d’une combinaison des particuliers visés aux sous-alinéas (i) et (ii).
 
 ### Règlements
@@ -515,9 +673,13 @@ b) un organisme d’au moins deux membres qui se compose :
 ### Idem
 
 (2) Le paragraphe (1) s’applique à une entreprise dans le cadre de laquelle doivent s’effectuer l’une ou l’autre des choses suivantes :
+
 a) l’exploitation ou la réexploitation de tout ou partie d’un bâtiment ou d’une construction, si :
+
 (i) l’exploitation ou la réexploitation est financée en partie conformément à une entente de financement conclue par le ministère du Travail, de l’Immigration, de la Formation et du Développement des compétences,
+
 (ii) tout ou partie du bâtiment ou de la construction sera utilisé pour la formation ou le développement des compétences dont il a été convenu dans l’entente de financement;
+
 b) l’utilisation de tout ou partie d’un bâtiment ou d’une construction visé à l’alinéa a), ou l’utilisation d’une parcelle de terrain sur laquelle le bâtiment ou la construction est situé pour la formation ou le développement des compétences dont il a été convenu dans l’entente de financement.
 
 ### Idem
@@ -563,8 +725,11 @@ b) l’utilisation de tout ou partie d’un bâtiment ou d’une construction vi
 ### Règlements : délégation
 
 28 Le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) restreindre le pouvoir de la cité de déléguer ses pouvoirs et fonctions ou l’assortir de conditions;
+
 b) prescrire des lois pour l’application du paragraphe 21 (2);
+
 c) prescrire des pouvoirs et fonctions pour l’application de la disposition 9 de l’article 22.
 
 ## partie III pouvoirs généraux : Restrictions et ajouts
@@ -574,7 +739,9 @@ c) prescrire des pouvoirs et fonctions pour l’application de la disposition 9 
 ### Définitions
 
 29 Les définitions qui suivent s’appliquent aux articles 30 à 55.
+
 «pont» Pont public qui fait partie d’une voie publique ou sur ou à travers lequel, ou au-dessus duquel, passe une voie publique. («bridge»)
+
 «voie publique provinciale» Voie publique relevant de la compétence de la Couronne du chef de l’Ontario. («provincial highway») 2006, chap. 11, annexe A, art. 29.
 
 ### Voies publiques provinciales
@@ -584,9 +751,13 @@ c) prescrire des pouvoirs et fonctions pour l’application de la disposition 9 
 ### Voies publiques
 
 31 Sont des voies publiques, à moins qu’elles n’aient été fermées :
+
 1. Toutes les voies publiques de la cité qui existent la veille de l’entrée en vigueur du présent article.
+
 2. Toutes les voies publiques qui sont créées par règlement municipal le 1 er janvier 2003 ou par la suite.
+
 3. Toutes les voies publiques qui sont transférées à la cité en application de la Loi sur l’aménagement des voies publiques et des transports en commun.
+
 4. Toutes les réserves routières, voies publiques, rues et ruelles qui figurent sur un plan de lotissement enregistré dans la cité.
 
 ### Règlements municipaux
@@ -600,9 +771,13 @@ c) prescrire des pouvoirs et fonctions pour l’application de la disposition 9 
 ### Compétence : voies publiques
 
 33 Sauf disposition contraire de la présente loi, de l’article 8 de la Loi sur l’aménagement des voies publiques et des transports en commun ou d’un règlement municipal adopté en vertu de la présente loi, la cité a compétence ou compétence conjointe, selon le cas, sur les voies publiques suivantes :
+
 1. Toutes les voies publiques qui relèvent de sa compétence ou de sa compétence conjointe la veille de l’entrée en vigueur du présent article.
+
 2. Toutes les voies publiques qui sont créées par règlement municipal le 1 er janvier 2003 ou par la suite.
+
 3. Toutes les voies publiques qui sont transférées à la cité en application de la Loi sur l’aménagement des voies publiques et des transports en commun ou d’une autre loi.
+
 4. Toutes les réserves routières, voies publiques, rues et ruelles qui figurent sur un plan de lotissement enregistré.
 
 ### Lignes de démarcation
@@ -642,7 +817,9 @@ c) prescrire des pouvoirs et fonctions pour l’application de la disposition 9 
 ### Exclusion
 
 (3) L’article 42 ne s’applique pas aux voies publiques suivantes tant que la cité n’a pas adopté un règlement par lequel elle les prend en charge pour l’usage public :
+
 1. Les réserves routières non ouvertes qui sont déterminées par les arpenteurs-géomètres de la Couronne.
+
 2. Les réserves routières, voies publiques, rues et ruelles qui figurent sur un plan de lotissement enregistré.
 
 ### Autres exclusions
@@ -660,12 +837,15 @@ c) prescrire des pouvoirs et fonctions pour l’application de la disposition 9 
 ### Consentement
 
 (2) Un règlement municipal visant la fermeture permanente d’une voie publique ne doit pas être adopté sans le consentement du gouvernement du Canada si la voie publique, selon le cas :
+
 a) est attenante à un bien-fonds, immergé ou non, appartenant à la Couronne du chef du Canada;
+
 b) mène ou est attenante à un pont, à un quai, à un bassin, à un débarcadère ou à un autre ouvrage appartenant à la Couronne du chef du Canada.
 
 ### Retrait et restriction d’un droit de passage reconnu en common law
 
 39 (1) Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à retirer ou à restreindre le droit de passage sur une voie publique reconnu au public en common law et le droit d’accès à la voie publique reconnu en common law au propriétaire d’un bien-fonds attenant à une voie publique.
+
 (2) Abrogé : 2006, chap. 32, annexe B, art. 9.
 
 ### Transport d’une voie publique fermée
@@ -691,14 +871,19 @@ b) mène ou est attenante à un pont, à un quai, à un bassin, à un débarcad�
 ### Défense
 
 (3) Malgré le paragraphe (2), la cité n’encourt aucune responsabilité pour ne pas avoir assuré l’entretien raisonnable d’une voie publique ou d’un pont si, selon le cas :
+
 a) elle n’avait pas connaissance de l’état de la voie publique ou du pont et il n’est pas raisonnable de s’attendre à ce qu’elle en ait eu connaissance;
+
 b) elle a pris des mesures raisonnables pour empêcher le manquement de se produire;
+
 c) au moment où la cause d’action a pris naissance, les normes minimales établies par un règlement pris en application de l’article 117 s’appliquaient à la voie publique ou au pont et au manquement qu’elle aurait commis et ces normes ont été respectées.
 
 ### Sections non utilisées des voies publiques
 
 (4) Est irrecevable l’action intentée contre la cité pour des dommages causés en raison, selon le cas :
+
 a) de la présence, de l’absence ou de l’insuffisance de murs, clôtures, garde-fous ou barrières le long d’une voie publique ou sur celle-ci;
+
 b) d’une construction, d’un obstacle ou d’une installation qui se trouve sur une section non utilisée d’une voie publique ou à un endroit contigu à cette section ou du placement ou de l’aménagement d’une matière ou d’un objet, notamment des masses de terre, des rochers ou des arbres, sur une telle section ou à un tel endroit, qu’un obstacle soit créé ou non par suite de la construction, du placement ou de l’aménagement.
 
 ### Trottoirs
@@ -708,7 +893,9 @@ b) d’une construction, d’un obstacle ou d’une installation qui se trouve s
 ### Avis
 
 (6) Est irrecevable l’action intentée en vertu du paragraphe (2) en recouvrement de dommages-intérêts à moins que, dans les 10 jours qui suivent la survenance de la blessure, un avis écrit de la réclamation et de la blessure, y compris la date, l’heure et le lieu de cette survenance, n’ait été signifié ou envoyé par courrier recommandé :
+
 a) au secrétaire de la cité;
+
 b) si la réclamation est faite contre la cité et une ou plusieurs municipalités qui sont conjointement tenues d’entretenir la voie publique ou le pont, au secrétaire de la cité et de chacune des autres municipalités.
 
 ### Exception
@@ -722,7 +909,9 @@ b) si la réclamation est faite contre la cité et une ou plusieurs municipalit�
 ### Aucune responsabilité à l’égard des actes d’autrui
 
 (9) Le présent article n’a pas pour effet d’imposer une obligation ou une responsabilité à la cité pour un acte ou une omission sur lequel la cité n’a aucun contrôle et que commet une personne qui agit en vertu d’un pouvoir que la loi lui confère, sauf si, selon le cas :
+
 a) la cité a participé à l’acte ou à l’omission;
+
 b) le pouvoir en vertu duquel la personne a agi était accordé par un règlement, une résolution ou un permis de la cité.
 
 ### Immunité
@@ -772,7 +961,9 @@ b) le pouvoir en vertu duquel la personne a agi était accordé par un règlemen
 ### Entrée dans un bien-fonds : élagage des arbres
 
 49 (1) La cité peut, à toute heure raisonnable, entrer dans un bien-fonds situé le long d’une de ses voies publiques aux fins suivantes :
+
 a) inspecter les arbres et effectuer des tests et des analyses sur eux;
+
 b) enlever les arbres ou les branches d’arbres qui sont pourris, endommagés ou dangereux si, à son avis, ils posent un danger pour la santé ou la sécurité de quiconque utilise la voie publique.
 
 ### Danger immédiat
@@ -786,7 +977,9 @@ b) enlever les arbres ou les branches d’arbres qui sont pourris, endommagés o
 ### Ordonnance
 
 (2) Le juge qui est saisi d’une requête présentée par la cité en vertu du paragraphe (1) peut, par ordonnance, sous réserve du versement de l’indemnité qu’il fixe au propriétaire du bien-fonds ou des autres conditions qu’il fixe :
+
 a) exiger que le propriétaire enlève ou modifie la végétation, le bâtiment ou l’objet en cause;
+
 b) autoriser la cité à entrer dans le bien-fonds, après avoir donné au propriétaire le préavis qu’il fixe, pour enlever ou modifier la végétation, le bâtiment ou l’objet.
 
 ### Mise en fourrière d’objets ou de véhicules
@@ -832,7 +1025,9 @@ b) autoriser la cité à entrer dans le bien-fonds, après avoir donné au propr
 ### Voies publiques non ouvertes sur la réserve routière primitive
 
 53 (1) Si, avant le 1 er janvier 2003, une voie publique a été ouverte par la cité sur un bien-fonds au lieu de l’être sur tout ou partie de la réserve routière primitive et qu’aucune indemnité n’a été versée pour le bien-fonds, le propriétaire du bien-fonds qui a été utilisé pour la voie publique, ou son successeur en titre, a droit à ce qui suit :
+
 1. S’il est propriétaire du bien-fonds attenant à cette réserve, il a droit au sol et à la propriété franche de la réserve et au transport de celle-ci.
+
 2. S’il n’est pas propriétaire du bien-fonds attenant à cette réserve et que celle-ci est vendue par la cité, il a droit à la partie du prix d’achat qui correspond au rapport qui existe entre la valeur de la partie du bien-fonds qu’occupe la voie publique et qui lui appartenait et la valeur totale du bien-fonds qu’occupe la voie publique.
 
 ### Cas où il y a plusieurs propriétaires
@@ -864,17 +1059,25 @@ b) autoriser la cité à entrer dans le bien-fonds, après avoir donné au propr
 ### Réseaux de transport de passagers
 
 56 (1) Le présent article s’applique aux réseaux de transport de passagers, à l’exception de ce qui suit :
+
 1. Les véhicules utilisés pour des visites touristiques.
+
 2. Les véhicules nolisés uniquement pour le transport d’un groupe de personnes à l’occasion d’un déplacement particulier effectué à un tarif de groupe dans les limites de la municipalité.
+
 3. Les autobus utilisés pour le transport des élèves, notamment les autobus dont un conseil scolaire ou une école privée est propriétaire-exploitant, ou qui sont exploités aux termes d’un contrat conclu avec une telle entité.
+
 4. Les autobus qui appartiennent à une personne morale ou à une organisation et sont exploités gratuitement par celle-ci et uniquement à ses propres fins.
+
 5. Les taxis.
+
 6. Les réseaux ferroviaires de compagnies de chemin de fer constituées sous le régime d’une loi fédérale ou provinciale.
 
 ### Idem
 
 (2) La cité peut :
+
 a) par règlement, prévoir que nul ne doit, sauf la cité, établir, exploiter et maintenir dans la cité tout ou partie d’un réseau de transport de passagers d’un type que la cité est autorisée à fournir;
+
 b) malgré l’article 82 et tout règlement municipal adopté en vertu de l’alinéa a), conclure un accord qui donne à une personne le droit exclusif ou non exclusif d’établir, d’exploiter ou de maintenir dans la cité tout ou partie d’un réseau de transport de passagers d’un type que la cité est autorisée à fournir, et ce aux conditions que fixe la cité, par exemple une condition voulant que celle-ci comble tout déficit que subit la personne dans le cadre de l’établissement, de l’exploitation ou du maintien du réseau.
 
 ### Déficit
@@ -884,6 +1087,7 @@ b) malgré l’article 82 et tout règlement municipal adopté en vertu de l’a
 ### Droits intacts
 
 (4) Le présent article n’a pas pour effet d’empêcher une personne d’établir, d’exploiter ou de maintenir un réseau de transport de passagers qui est utilisé pour transporter des passagers ou des passagers et des biens en traversant un secteur désigné en vertu du paragraphe (2) d’un point situé dans le secteur désigné à un point situé à l’extérieur de celui-ci ou inversement.
+
 (5) Abrogé : 2020, chap. 34, annexe 23, par. 5 (1).
 
 ### Îles de Toronto, service de traversiers
@@ -941,7 +1145,9 @@ b) malgré l’article 82 et tout règlement municipal adopté en vertu de l’a
 ### Entrée dans un bien-fonds approvisionné par un service public
 
 64 (1) La cité peut, à toute heure raisonnable, entrer dans un bien-fonds auquel elle fournit un service public :
+
 a) soit pour inspecter, réparer, modifier ou débrancher les tuyaux, les fils, les machines, le matériel et les autres ouvrages utilisés pour fournir le service public;
+
 b) soit pour inspecter, installer, réparer, remplacer ou modifier un compteur du service public.
 
 ### Réduction du service public
@@ -951,8 +1157,11 @@ b) soit pour inspecter, installer, réparer, remplacer ou modifier un compteur d
 ### Entrée dans un bien-fonds : coupure du service
 
 (3) Si un consommateur cesse d’utiliser un service public qui alimente un bien-fonds ou qu’elle décide légalement de cesser de fournir le service public à un bien-fonds, la cité peut entrer dans le bien-fonds pour, selon le cas :
+
 a) couper le service public;
+
 b) enlever les biens qui lui appartiennent;
+
 c) établir si le service public a été ou est utilisé illégalement.
 
 ### Coupure du service public
@@ -990,15 +1199,21 @@ c) établir si le service public a été ou est utilisé illégalement.
 ### Insaisissabilité
 
 68 Les biens meubles de la cité qui sont utilisés pour un service public qui alimente un bien-fonds ou relativement à cette alimentation ne peuvent faire l’objet d’une saisie :
+
 a) pratiquée en vertu de la Loi sur l’exécution forcée contre le propriétaire ou l’occupant du bien-fonds;
+
 b) pratiquée pour des loyers en souffrance contre quiconque a un intérêt à bail sur le bien-fonds.
 
 ### Fourniture obligatoire
 
 69 (1) Malgré l’article 15, la cité fait en sorte de raccorder son service public d’approvisionnement en eau ou son service public de collecte des eaux d’égout à un bâtiment si les conditions suivantes sont réunies :
+
 a) le bâtiment est situé le long d’une canalisation du service public qui appartient à la cité;
+
 b) dans le cas d’un service public d’approvisionnement en eau, il y a une alimentation en eau suffisante pour le bâtiment;
+
 c) dans le cas d’un service public de collecte des eaux d’égout, il y a une capacité suffisante de traitement des eaux d’égout qui s’écoulent du bâtiment;
+
 d) le propriétaire, l’occupant ou l’autre personne responsable du bâtiment demande le service public par écrit.
 
 ### Exception
@@ -1008,10 +1223,15 @@ d) le propriétaire, l’occupant ou l’autre personne responsable du bâtiment
 ### Approvisionnement en eau et capacité de traitement des eaux d’égout
 
 69.1 (1) Sans préjudice de la portée générale des articles 7 et 8, la cité peut, par règlement municipal, adopter une politique prévoyant l’attribution de l’approvisionnement en eau et de la capacité de traitement des eaux d’égout, laquelle peut comprendre ce qui suit :
+
 1. Un système de suivi de l’approvisionnement en eau et de la capacité de traitement des eaux d’égout disponibles pour appuyer les exploitations approuvées.
+
 2. Les critères qui servent à établir :
+
 i. les circonstances dans lesquelles l’approvisionnement en eau et la capacité de traitement des eaux d’égout sont attribuées à une exploitation approuvée,
+
 ii. les circonstances dans lesquelles l’attribution de l’approvisionnement en eau et de la capacité de traitement des eaux d’égout est retirée,
+
 iii. les circonstances dans lesquelles une exploitation approuvée, après que l’attribution de l’approvisionnement en eau et de la capacité de traitement des eaux d’égout lui est retirée, peut se voir réattribuer l’approvisionnement en eau et la capacité de traitement des eaux d’égout.
 
 ### Idem
@@ -1033,6 +1253,7 @@ iii. les circonstances dans lesquelles une exploitation approuvée, après que l
 ### Définition
 
 (6) La définition qui suit s’applique au présent article.
+
 «exploitation approuvée» Demande d’exploitation qui a été approuvée sous le régime de la Loi sur l’aménagement du territoire.
 
 ### Entrée dans un bien-fonds : système d’égouts
@@ -1056,6 +1277,7 @@ iii. les circonstances dans lesquelles une exploitation approuvée, après que l
 ### Définition
 
 72 (1) La définition qui suit s’applique au présent article.
+
 «service public» S’entend en outre d’un réseau d’éclairage des rues et d’un réseau de transport.
 
 ### Servitude
@@ -1069,7 +1291,9 @@ iii. les circonstances dans lesquelles une exploitation approuvée, après que l
 ### Entrave des services
 
 (4) Nul ne doit entraver une partie d’un service public de la cité en faveur de laquelle il n’existe pas de servitude de service public, à moins que, selon le cas :
+
 a) la cité n’y consente;
+
 b) une ordonnance rendue en vertu du présent article ne l’autorise.
 
 ### Ordonnance relative aux services publics
@@ -1117,7 +1341,9 @@ b) une ordonnance rendue en vertu du présent article ne l’autorise.
 ### Enlèvement et mise en fourrière de véhicules et autres choses dans un parc
 
 74.1 (1) Sous réserve du paragraphe (2), le présent article s’applique si la cité a adopté un règlement qui interdit qu’on stationne, immobilise, arrête ou place, dans un parc qui relève de sa compétence, un objet ou un véhicule qui sert à vendre ou à exposer quoi que ce soit et qui gêne les piétons, sauf si :
+
 a) d’une part, son propriétaire est titulaire d’une licence valide, délivrée par la cité, qui lui accorde l’usage exclusif d’un secteur désigné du parc;
+
 b) d’autre part, le règlement ou un autre règlement de la cité a désigné le parc ou le secteur du parc comme zone d’enlèvement.
 
 ### Panneaux exigés
@@ -1179,8 +1405,11 @@ b) d’autre part, le règlement ou un autre règlement de la cité a désigné 
 ### Témoignages : exécution des règlements municipaux en matière de stationnement
 
 79 (1) S’il est allégué dans une instance qu’il a été contrevenu à un règlement municipal visé à l’article 77 ou 78, le témoignage oral ou écrit d’un agent de police, d’un cadet de la police ou d’un agent municipal d’exécution de la loi est recevable en preuve comme preuve, en l’absence de preuve contraire, des faits qui y sont énoncés concernant ce qui suit :
+
 a) le droit de propriété à l’égard du bien-fonds ou l’occupation de celui-ci;
+
 b) l’absence d’autorisation du propriétaire ou de l’occupant;
+
 c) la question de savoir si une personne est un occupant ou un propriétaire.
 
 ### Aucun préavis
@@ -1194,7 +1423,9 @@ c) la question de savoir si une personne est un occupant ou un propriétaire.
 ### Idem
 
 (2) Si elle adopte un règlement pour exiger que les propriétaires ou les exploitants de parcs ou autres installations de stationnement auxquels le public a accès sur paiement de droits ou autrement prévoient des places de stationnement désignées pour les véhicules automobiles munis d’un permis de stationnement accessible, la cité :
+
 a) d’une part, doit prescrire les conditions d’utilisation du permis de stationnement accessible et interdire son utilisation irrégulière;
+
 b) d’autre part, peut, malgré l’article 78, prévoir l’enlèvement et la mise en fourrière, aux frais du propriétaire, de tout véhicule automobile stationné ou laissé en contravention au règlement municipal, auquel cas le paragraphe 170 (15) du Code de la route s’applique au règlement avec les adaptations nécessaires.
 
 ### Pénalités administratives, règlements municipaux sur le stationnement
@@ -1214,9 +1445,13 @@ b) d’autre part, peut, malgré l’article 78, prévoir l’enlèvement et la 
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), la cité ne doit pas accorder d’aide, selon le cas :
+
 a) en donnant ou en prêtant des biens lui appartenant, y compris des sommes d’argent;
+
 b) en garantissant des emprunts;
+
 c) en donnant à bail ou en vendant des biens lui appartenant à un prix inférieur à leur juste valeur marchande;
+
 d) en accordant une exonération totale ou partielle d’impôts, de redevances ou de droits.
 
 ### Exception
@@ -1226,8 +1461,11 @@ d) en accordant une exonération totale ou partielle d’impôts, de redevances 
 ### Pouvoir d’accorder de l’aide
 
 82.1 (1) S’il estime que, malgré l’article 82, il est nécessaire ou souhaitable dans l’intérêt provincial d’attirer des investissements en Ontario, le lieutenant-gouverneur en conseil peut, par règlement, autoriser la cité à accorder de l’aide, directement ou indirectement, à une entreprise de fabrication ou à une autre entreprise industrielle ou commerciale désignée pendant une période déterminée, ainsi que régir l’octroi de cette aide, notamment en faisant ce qui suit :
+
 a) établir les types d’aide qui peuvent être accordés;
+
 b) assortir l’octroi de l’aide de restrictions, de limites ou de conditions, notamment en prévoyant qu’une aide ne peut être accordée qu’à l’égard de certains secteurs de la cité;
+
 c) préciser les conditions à remplir avant que l’aide puisse être accordée.
 
 ### Primauté des règlements
@@ -1245,11 +1483,17 @@ c) préciser les conditions à remplir avant que l’aide puisse être accordée
 ### Prêts et garanties
 
 (2) Le pouvoir d’accorder des subventions comprend le pouvoir de faire ce qui suit :
+
 a) garantir un prêt, accorder une subvention sous forme de prêt et exiger des intérêts sur le prêt;
+
 b) vendre ou donner à bail des biens-fonds moyennant une contrepartie symbolique ou les concéder;
+
 c) prévoir l’utilisation par quiconque d’un bien-fonds qui appartient à la cité ou que celle-ci occupe, aux conditions que fixe le conseil;
+
 d) prévoir le recours aux fonctionnaires, aux employés ou aux mandataires de la cité par toute personne, aux conditions que fixe le conseil;
+
 e) disposer des biens meubles de la cité moyennant une contrepartie symbolique, notamment par vente ou location à bail, les concéder, ou en prévoir l’utilisation aux conditions que fixe le conseil;
+
 f) faire des dons de denrées alimentaires et de marchandises achetées à cette fin par la cité.
 
 ### Service de consultation à l’intention des petites entreprises
@@ -1259,19 +1503,29 @@ f) faire des dons de denrées alimentaires et de marchandises achetées à cette
 ### Programmes pour petites entreprises
 
 (2) Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à faire ce qui suit pour encourager la création et la croissance initiale de petites entreprises, ou d’une catégorie de celles-ci, sur son territoire :
+
 1. Créer et maintenir des programmes à cette fin.
+
 2. Participer aux programmes administrés par la Couronne du chef de l’Ontario.
 
 ### Mesures autorisées
 
 (3) Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à faire ce qui suit aux fins d’un programme visé au paragraphe (2) :
+
 1. Acquérir des biens-fonds et ériger et améliorer des bâtiments et des constructions afin de fournir des locaux en location à bail aux petites entreprises admissibles ou aux personnes morales visées à la disposition 4.
+
 2. Malgré l’article 82, accorder des subventions aux personnes morales visées à la disposition 4.
+
 3. Donner des biens-fonds à bail aux petites entreprises visées par un programme.
+
 4. Conclure des baux fonciers et d’autres accords qui se rapportent au programme avec une personne morale sans capital-actions constituée par la cité conformément à l’article 148 afin d’encourager la création et la croissance initiale de petites entreprises, ou d’une catégorie de celles-ci, sur le territoire de la cité.
+
 5. Disposer, notamment par vente ou location à bail, des biens meubles de la cité en faveur d’une petite entreprise admissible ou d’une personne morale visée à la disposition 4, ou prévoir l’utilisation de ces biens par cette petite entreprise ou cette personne morale.
+
 6. Prévoir le recours aux services des employés municipaux par une petite entreprise admissible ou par une personne morale visée à la disposition 4.
+
 7. Créer en vertu de la présente loi une commission municipale chargée d’administrer un programme visé au paragraphe (2) ou d’assurer l’administration de la participation de la cité à un tel programme.
+
 8. Nommer un ou plusieurs des administrateurs d’une personne morale visée à la disposition 4.
 
 ### Prêts compris dans les subventions
@@ -1303,41 +1557,61 @@ f) faire des dons de denrées alimentaires et de marchandises achetées à cette
 ### Définition
 
 85 La définition qui suit s’applique aux articles 86 à 96.
+
 «entreprise» Toute entreprise exploitée entièrement ou en partie dans la cité, même si elle l’est à partir d’un endroit situé à l’extérieur de la cité, notamment :
+
 a) un métier ou une profession;
+
 b) une exposition, un concert, un festival et tout autre divertissement public organisé, à but lucratif ou non;
+
 c) la vente ou la location de marchandises ou de services sur une base intermittente ou à une seule occasion et les activités d’un commerçant itinérant;
+
 d) l’exposition, à des fins de vente ou de location, d’échantillons, de patrons ou de spécimens de marchandises.
 
 ### Pouvoirs : permis
 
 86 (1) Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à prévoir un régime de permis à l’égard d’une entreprise et notamment à faire ce qui suit :
+
 a) interdire à quiconque d’exploiter l’entreprise sans permis;
+
 b) refuser d’accorder un permis, ou révoquer ou suspendre un permis;
+
 c) imposer des conditions à l’égard de l’obtention, de la conservation ou du renouvellement d’un permis;
+
 d) imposer à l’égard d’une entreprise d’une catégorie donnée des conditions particulières qui n’ont pas été imposées à l’égard de toutes les entreprises de cette catégorie pour l’obtention, la conservation ou le renouvellement d’un permis;
+
 e) pendant la durée d’un permis, imposer des conditions, y compris des conditions particulières, pour sa conservation;
+
 f) exiger un permis pour les biens meubles et immeubles utilisés pour l’entreprise, ainsi que les personnes qui l’exploitent, et les réglementer ou les régir.
+
 g) Abrogé : 2017, chap. 10, annexe 2, par. 5 (1).
 
 ### Pouvoir de suspendre un permis
 
 (2) Sans préjudice de la portée générale des articles 7 et 8, pour l’application de l’alinéa (1) b), si elle est convaincue que la continuation d’une entreprise pose un danger immédiat pour la santé ou la sécurité de personnes ou de biens, la cité peut, pour la durée et aux conditions qu’elle estime appropriées, suspendre le permis sans tenir d’audience, sous réserve de ce qui suit :
+
 1. Avant de suspendre le permis, la cité doit en donner les motifs à son titulaire, oralement ou par écrit, et lui donner l’occasion de répondre.
+
 2. La suspension ne doit pas dépasser 14 jours.
 
 ### Idem
 
 (3) Malgré le paragraphe (2) et sans préjudice de la portée générale des articles 7 et 8, pour l’application de l’alinéa (1) b), la cité peut, aux conditions qu’elle estime appropriées, suspendre pour une durée d’au plus 28 jours et sans tenir d’audience le permis qui autorise une entreprise à exercer ses activités sur une voie publique ou un autre bien de la cité ou de ses conseils locaux, pour l’un ou l’autre des motifs suivants :
+
 1. La tenue d’un événement spécial.
+
 2. La construction, l’entretien ou la réparation du bien.
+
 3. La mise en place, l’entretien ou la réparation de services publics.
+
 4. La sécurité des piétons, des véhicules ou du public ou la santé publique.
 
 ### Exercice de pouvoirs
 
 (4) L’exercice du pouvoir visé à l’alinéa (1) b), d) ou e) est laissé à la discrétion de la cité, qui exerce celle-ci en se fondant :
+
 a) soit sur les motifs énoncés par règlement municipal;
+
 b) soit sur les motifs que la conduite d’une personne, y compris, dans le cas d’une personne morale, la conduite de ses dirigeants, administrateurs, employés ou mandataires, permet raisonnablement de croire que la personne n’exploitera pas l’entreprise conformément à la loi ou avec honnêteté et intégrité.
 
 ### Application aux régimes de permis
@@ -1355,8 +1629,11 @@ b) soit sur les motifs que la conduite d’une personne, y compris, dans le cas 
 ### Restriction relative aux régimes de permis
 
 89 (1) La cité ne doit pas, en vertu de la disposition 11 du paragraphe 8 (2), prévoir un régime de permis qui fait qu’il est illégal pour une entreprise indiquée ci-dessous d’exploiter l’entreprise sans permis :
+
 1. Une entreprise de fabrication ou une entreprise industrielle, sauf dans la mesure où elle vend ses produits ou des matières brutes au détail.
+
 2. La vente de marchandises en gros.
+
 3. La production, l’exploitation, l’extraction, la récolte, la transformation, le renouvellement ou le transport de richesses naturelles.
 
 ### Idem
@@ -1386,13 +1663,17 @@ b) soit sur les motifs que la conduite d’une personne, y compris, dans le cas 
 ### Restrictions : établissements de divertissement pour adultes
 
 92 (1) Sans préjudice de la portée générale des articles 7 et 8, le règlement municipal adopté en vertu de ces articles à l’égard des établissements de divertissement pour adultes peut :
+
 a) malgré l’article 90, définir le secteur de la cité dans lequel l’exploitation d’établissements de divertissement pour adultes est permise ou interdite et restreindre le nombre d’établissements de ce genre qu’il peut y avoir dans tout secteur défini où leur exploitation est permise;
+
 b) interdire à quiconque exploite un établissement de divertissement pour adultes de permettre aux personnes de moins de 18 ans d’entrer ou de se trouver dans l’établissement ou dans une partie de celui-ci.
 
 ### Locaux
 
 (2) Des locaux ou toute partie de ceux-ci constituent un établissement de divertissement pour adultes si, dans l’exploitation d’une entreprise :
+
 a) soit des marchandises, des divertissements ou des services conçus pour stimuler les appétits ou les tendances sexuels ou érotiques y sont fournis;
+
 b) soit des massages, y compris le pétrissage, la manipulation, la friction, le massage, l’effleurage ou la stimulation, par quelque moyen que ce soit, du corps humain, y sont pratiqués, offerts ou sollicités, sauf s’ils le sont à des fins de traitement médical ou thérapeutique et qu’ils sont pratiqués ou offerts par une personne qui est par ailleurs dûment qualifiée ou agréée pour le faire en vertu d’une loi de l’Ontario ou détentrice d’un permis à cet effet délivré en vertu d’une telle loi.
 
 ### Pouvoir d’entrée
@@ -1414,25 +1695,33 @@ b) soit des massages, y compris le pétrissage, la manipulation, la friction, le
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «établissement de prêt sur salaire» Les locaux, ou toute partie de ceux-ci, à l’égard desquels un titulaire de permis au sens de la Loi de 2008 concernant les prêts sur salaire peut exploiter une entreprise conformément à un permis délivré en vertu de cette loi.
 
 ### Délivrance de permis : véhicules, sauf les véhicules automobiles, pour location
 
 93 Sans préjudice de la portée générale des articles 7 et 8, le règlement municipal adopté en vertu de ces articles à l’égard des propriétaires et des chauffeurs de véhicules, autres que les véhicules automobiles, utilisés à des fins de location peut :
+
 a) fixer les tarifs à exiger pour le transport de biens ou de passagers dans les limites de la cité ou d’un point situé dans la cité à un point situé à l’extérieur de celle-ci;
+
 b) prévoir la façon d’encaisser les tarifs exigés pour le transport.
 
 ### Taxis
 
 94 (1) Sans préjudice de la portée générale des articles 7 et 8, le règlement municipal adopté en vertu de ces articles à l’égard des propriétaires et des chauffeurs de taxis peut :
+
 a) fixer les tarifs à exiger pour le transport de biens ou de passagers dans les limites de la cité ou d’un point situé dans la cité à un point situé à l’extérieur de celle-ci;
+
 b) prévoir la façon d’encaisser les tarifs exigés pour le transport;
+
 c) limiter le nombre de taxis ou de toute catégorie de ceux-ci.
 
 ### Restriction
 
 (2) Le règlement municipal adopté en vertu de la disposition 11 du paragraphe 8 (2) à l’égard des propriétaires et des chauffeurs de taxis est nul dans la mesure où il les empêche d’effectuer des déplacements qui répondent aux deux critères suivants, ou leur imposent des restrictions à cet égard :
+
 1. Le but visé est de transporter des personnes qui ont une déficience physique, affective ou mentale d’un point situé dans la cité à un point situé à l’extérieur de celle-ci.
+
 2. Le déplacement est effectué aux termes d’un contrat écrit pour l’utilisation d’un taxi qui peut être exploité légalement dans la municipalité dans laquelle se trouve le point de départ ou d’arrivée du transport effectué.
 
 ### Restrictions : roulottes et parcs à roulottes
@@ -1446,6 +1735,7 @@ c) limiter le nombre de taxis ou de toute catégorie de ceux-ci.
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «parc à roulottes» Bien-fonds sur lequel se trouve une roulotte.
 
 ### Restrictions : foyers de groupe
@@ -1455,7 +1745,9 @@ c) limiter le nombre de taxis ou de toute catégorie de ceux-ci.
 ### Idem
 
 (2) Le règlement adopté en vertu de la disposition 11 du paragraphe 8 (2) qui prévoit un régime de permis pour les foyers de groupe peut interdire à une personne d’exploiter un foyer de groupe sans permis et peut prévoir les conditions suivantes, mais il ne doit pas prévoir d’autres conditions en ce qui concerne l’exploitation du foyer :
+
 1. Le règlement peut prévoir des droits de permis.
+
 2. Le règlement peut exiger que le titulaire de permis ou l’auteur d’une demande de permis fournisse à la cité les renseignements qu’elle estime appropriés concernant la dénomination de l’entreprise, son ou ses propriétaires et la manière de communiquer avec le titulaire de permis ou l’auteur de la demande.
 
 ### Fermeture des établissements de commerce
@@ -1471,8 +1763,11 @@ c) limiter le nombre de taxis ou de toute catégorie de ceux-ci.
 ### Dispenses
 
 (3) Le règlement municipal ne s’applique pas à la vente ou à la mise en vente au détail :
+
 a) de marchandises ou de services qui prennent la forme de repas ou d’hébergement ou qui y sont rattachés;
+
 a.1) de boissons alcoolisées, à l’exclusion des boissons alcoolisées vendues dans un magasin de vente au détail au sens de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools ;
+
 b) des autres marchandises ou services prescrits.
 
 ### Restrictions : jour de la Famille et fête de la Reine
@@ -1500,7 +1795,9 @@ b) des autres marchandises ou services prescrits.
 ### Portée
 
 (4) Le règlement municipal peut faire ce qui suit :
+
 a) définir «lieu public» pour l’application du règlement municipal;
+
 b) obliger le propriétaire ou l’occupant d’un lieu public, l’employeur d’un lieu de travail autre qu’un véhicule de transport en commun ou un taxi, ou le propriétaire ou l’exploitant d’un véhicule de transport en commun ou d’un taxi à veiller à l’observation du règlement municipal.
 
 ### Incompatibilité
@@ -1510,12 +1807,15 @@ b) obliger le propriétaire ou l’occupant d’un lieu public, l’employeur d�
 ### Définitions
 
 (6) Les définitions qui suivent s’appliquent au présent article.
+
 «lieu de travail» S’entend en outre d’un véhicule de transport en commun et d’un taxi. («workplace») 2006, chap. 11, annexe A, par. 98 (6)
 
 ### Champ d’application
 
 (7) Il est entendu que la mention du fait de fumer du tabac ou du cannabis au présent article comprend ce qui suit :
+
 a) le fait d’avoir du tabac ou du cannabis allumé à la main;
+
 b) la consommation du tabac ou du cannabis au moyen d’une cigarette électronique.
 
 ### Entrée dans un bien-fonds : système de communication d’urgence
@@ -1533,10 +1833,15 @@ b) la consommation du tabac ou du cannabis au moyen d’une cigarette électroni
 ### Conditions
 
 (2) Les règles suivantes s’appliquent au pouvoir d’entrée prévu par un règlement municipal adopté en vertu du présent article :
+
 1. Le pouvoir d’entrée peut être exercé par un employé ou mandataire du propriétaire ou de l’occupant du bien-fonds.
+
 2. Quiconque exerce le pouvoir d’entrée présente sur demande une pièce d’identité suffisante.
+
 3. Aucun règlement municipal adopté en vertu du présent article n’a pour effet d’autoriser l’entrée dans un bâtiment.
+
 4. Le propriétaire ou l’occupant donne un préavis raisonnable de l’entrée à l’occupant du bien-fonds contigu.
+
 5. Le propriétaire ou l’occupant du bien-fonds remet le plus possible le bien-fonds contigu dans l’état où il se trouvait antérieurement et verse une indemnité pour tous les dommages causés par l’entrée ou par un acte accompli sur le bien-fonds contigu.
 
 ### Entrée dans un bien-fonds : entretien, réparations ou modifications
@@ -1550,13 +1855,17 @@ b) la consommation du tabac ou du cannabis au moyen d’une cigarette électroni
 ### Fortification de biens-fonds
 
 102 (1) Le présent article s’applique au règlement municipal qui :
+
 a) soit réglemente quelque chose relativement à la fortification de biens-fonds et aux éléments protecteurs qui y sont appliqués, en ce qui concerne l’utilisation des biens-fonds;
+
 b) soit interdit la fortification excessive de biens-fonds ou l’application d’éléments protecteurs excessifs à des biens-fonds, en ce qui concerne l’utilisation de ceux-ci.
 
 ### Définitions
 
 (2) Les définitions qui suivent s’appliquent au présent article.
+
 «bien-fonds» Bien-fonds, y compris les bâtiments, les maisons, bâtiments et structures mobiles, les dépendances, les clôtures, les charpentes, les barrières matérielles et les autres constructions qui se trouvent sur le bien-fonds ou sur ou dans une construction qui y est située. («land»)
+
 «éléments protecteurs» S’entend en outre d’équipement de surveillance. («protective elements») 2006, chap. 11, annexe A, par. 102 (2).
 
 ### Règlement municipal et code du bâtiment
@@ -1588,40 +1897,63 @@ b) soit interdit la fortification excessive de biens-fonds ou l’application d�
 ### Dispenses
 
 (3) Le règlement municipal ne s’applique pas à ce qui suit :
+
 a) les activités ou choses entreprises sous l’autorité d’un permis délivré en vertu de la Loi de 1994 sur la durabilité des forêts de la Couronne ;
+
 b) l’endommagement ou la destruction d’arbres, en cours d’arpentage, par une personne titulaire d’un permis délivré en vertu de la Loi sur les arpenteurs-géomètres qui l’autorise à exercer la profession d’arpenteur cadastral, ou par son mandataire;
+
 c) l’endommagement ou la destruction d’arbres imposé après le 31 décembre 2002 comme condition de l’approbation d’un plan d’implantation, d’un plan de lotissement ou d’une autorisation visés à l’article 41, 51 ou 53, respectivement, de la Loi sur l’aménagement du territoire ou comme exigence d’une convention de plan d’implantation ou d’une convention de lotissement conclue en application de ces articles;
+
 c.1) l’endommagement ou la destruction d’arbres imposé en vertu du paragraphe 114 (11) comme condition de l’approbation des plans ou dessins d’une zone de réglementation du plan d’implantation;
+
 d) l’endommagement ou la destruction d’arbres imposé après le 31 décembre 2002 comme condition d’un permis d’exploitation autorisé par un règlement pris en application de l’article 70.2 de la Loi sur l’aménagement du territoire ou comme exigence d’une convention conclue en vertu de ce règlement;
+
 e) l’endommagement ou la destruction d’arbres par un transporteur ou un distributeur, au sens que donne à ces termes l’article 2 de la Loi de 1998 sur l’électricité, aux fins de l’aménagement et de l’entretien d’un réseau de transport ou d’un réseau de distribution, au sens que ce même article donne à ces termes;
+
 f) l’endommagement ou la destruction d’arbres entrepris sur un bien-fonds visé par un permis d’exploitation de puits d’extraction ou de carrière ou une licence d’exploitation de puits d’extraction ou de carrière situés en bordure d’un chemin délivré en vertu de la Loi sur les ressources en agrégats ;
+
 g) l’endommagement ou la destruction d’arbres entrepris sur un bien-fonds afin d’ouvrir et d’exploiter ou d’élargir légalement un puits d’extraction ou une carrière sur un bien-fonds :
+
 (i) d’une part, n’ayant pas fait l’objet d’une désignation en vertu de la Loi sur les ressources en agrégats ou d’une loi qu’elle remplace,
+
 (ii) d’autre part, sur lequel un puits d’extraction ou une carrière constitue une utilisation du sol permise par un règlement municipal adopté en vertu de l’article 34 de la Loi sur l’aménagement du territoire.
 
 ### Définition
 
 (4) La définition qui suit s’applique au présent article.
+
 «terrain boisé» Terrain boisé, au sens de la Loi sur les forêts, d’une superficie d’un hectare ou plus.
 
 ### Modification d’un emplacement
 
 105 (1) Le présent article s’applique à un règlement municipal en ce qui concerne l’interdiction ou la réglementation :
+
 a) soit du dépôt ou de la décharge de remblai;
+
 b) soit de l’enlèvement de sol arable;
+
 c) soit de la modification du niveau du sol.
 
 ### Dispenses
 
 (2) Le règlement municipal ne s’applique pas à ce qui suit :
+
 a) le dépôt ou la décharge de remblai, l’enlèvement de sol arable ou la modification du niveau du sol imposé après le 31 décembre 2002 comme condition de l’approbation d’un plan d’implantation, d’un plan de lotissement ou d’une autorisation visés à l’article 41, 51 ou 53, respectivement, de la Loi sur l’aménagement du territoire ou comme exigence d’une convention de plan d’implantation ou d’une convention de lotissement conclue en vertu de ces articles;
+
 a.1) le dépôt ou la décharge de remblai, l’enlèvement de sol arable ou la modification du niveau du sol imposé en vertu du paragraphe 114 (11) comme condition de l’approbation des plans ou dessins d’une zone de réglementation du plan d’implantation;
+
 b) le dépôt ou la décharge de remblai, l’enlèvement de sol arable ou la modification du niveau du sol imposé après le 31 décembre 2002 comme condition d’un permis d’exploitation autorisé par un règlement pris en application de l’article 70.2 de la Loi sur l’aménagement du territoire ou comme exigence d’une convention conclue en vertu de ce règlement;
+
 c) le dépôt ou la décharge de remblai, l’enlèvement de sol arable ou la modification du niveau du sol entrepris par un transporteur ou un distributeur, au sens que donne à ces termes l’article 2 de la Loi de 1998 sur l’électricité, aux fins de l’aménagement et de l’entretien d’un réseau de transport ou d’un réseau de distribution, au sens que ce même article donne à ces termes;
+
 d) le dépôt ou la décharge de remblai, l’enlèvement de sol arable ou la modification du niveau du sol entrepris sur un bien-fonds visé par un permis d’exploitation de puits d’extraction ou de carrière ou une licence d’exploitation de puits d’extraction ou de carrière situés en bordure d’un chemin délivré en vertu de la Loi sur les ressources en agrégats ;
+
 e) le dépôt ou la décharge de remblai, l’enlèvement de sol arable ou la modification du niveau du sol entrepris sur un bien-fonds afin d’ouvrir et d’exploiter ou d’élargir légalement un puits d’extraction ou une carrière sur un bien-fonds :
+
 (i) d’une part, n’ayant pas fait l’objet d’une désignation en vertu de la Loi sur les ressources en agrégats ou d’une loi qu’elle remplace,
+
 (ii) d’autre part, sur lequel un puits d’extraction ou une carrière constitue une utilisation du sol permise par un règlement municipal adopté en vertu de l’article 34 de la Loi sur l’aménagement du territoire ;
+
 f) le dépôt ou la décharge de remblai, l’enlèvement de sol arable ou la modification du niveau du sol entrepris accessoirement à la construction d’un drain en vertu de la Loi sur le drainage ou de la Loi sur le drainage au moyen de tuyaux.
 
 ### Exceptions
@@ -1631,11 +1963,13 @@ f) le dépôt ou la décharge de remblai, l’enlèvement de sol arable ou la mo
 ### Exclusion
 
 (4) L’exception visée au paragraphe (3) en ce qui a trait à l’enlèvement de sol arable accessoirement à des activités agricoles normales ne s’applique pas à l’enlèvement de sol arable aux fins de disposition, notamment par vente ou échange.
+
 (5) Abrogé : 2017, chap. 10, annexe 2, art. 7.
 
 ### Définition
 
 (6) La définition qui suit s’applique au présent article.
+
 «sol arable» S’entend des horizons du profil du sol, communément appelés horizon «O» et horizon «A», contenant des matières organiques et, en outre, des dépôts de matières organiques partiellement décomposées, comme la tourbe.
 
 ### Pouvoir d’entrée : arbres dangereux
@@ -1669,7 +2003,9 @@ f) le dépôt ou la décharge de remblai, l’enlèvement de sol arable ou la mo
 ### Idem
 
 (2) Le paragraphe (1) s’applique à la convention traitant de ce qui suit que conclut la cité avec le propriétaire d’un bien-fonds, en vertu d’un règlement municipal, comme condition d’une autorisation accordée pour détruire des arbres ou autres végétaux naturels dans un ravin, pour excaver, niveler ou autrement changer le niveau ou le profil d’un ravin ou pour fournir des installations et des méthodes d’évacuation des eaux pluviales, superficielles ou usées d’un ravin et des bâtiments ou constructions qui y sont établis :
+
 a) soit des murs, clôtures, haies, arbres, arbustes ou autres recouvrements ou installations en vue de l’aménagement paysager du bien-fonds du propriétaire ou de la protection de bien-fonds contigus;
+
 b) soit le nivellement ou le changement du niveau ou du profil du bien-fonds du propriétaire et la fourniture d’installations et de méthodes d’évacuation des eaux pluviales, superficielles ou usées du sol et des bâtiments ou constructions qui y sont établis.
 
 ### Planification énergétique
@@ -1685,10 +2021,15 @@ b) soit le nivellement ou le changement du niveau ou du profil du bien-fonds du 
 ### Mise en fourrière
 
 106 Si elle adopte un règlement réglementant ou interdisant quelque chose relativement à la présence d’animaux en liberté ou à l’entrée non autorisée d’animaux sur des biens-fonds, la cité peut prévoir ce qui suit :
+
 a) la saisie et la mise en fourrière des animaux qui sont en liberté contrairement au règlement municipal ou dont la présence sur un bien-fonds n’est pas autorisée par celui-ci;
+
 b) la vente des animaux mis en fourrière :
+
 (i) soit s’ils ne sont pas réclamés dans un délai raisonnable,
+
 (ii) soit si les frais engagés par la cité à l’égard de leur mise en fourrière ne sont pas payés,
+
 (iii) soit au moment et de la manière prévus dans le règlement municipal.
 
 ### Musellement des chiens
@@ -1706,6 +2047,7 @@ b) la vente des animaux mis en fourrière :
 ### Constructions, y compris les clôtures, les panneaux et les enseignes
 
 108 Abrogé : 2006, chap. 11, annexe A, par. 108 (4).
+
 108.1 Abrogé : 2026, chap. 8, annexe 1, art. 3.
 
 ### Non-application de la Loi sur les clôtures de bornage
@@ -1737,14 +2079,19 @@ b) la vente des animaux mis en fourrière :
 ### Idem
 
 (2) Le pouvoir d’adopter un règlement à l’égard d’une question visée au paragraphe (1) comprend celui de faire ce qui suit :
+
 a) interdire la démolition, sans permis, de biens locatifs à usage d’habitation;
+
 b) interdire la conversion, sans permis, de biens locatifs à usage d’habitation à une fin autre que celle à laquelle servent de tels biens;
+
 c) assortir l’obtention d’un permis de conditions.
 
 ### Accords
 
 (2.1) Si une condition visée à l’alinéa (2) c) exige du propriétaire d’un bien-fonds auquel s’applique un règlement municipal adopté en vertu du présent article qu’il conclue un accord avec la cité, cette dernière peut à la fois :
+
 a) enregistrer l’accord à l’égard du titre du bien-fonds auquel il s’applique;
+
 b) faire respecter l’accord par le propriétaire du bien-fonds et par les propriétaires subséquents.
 
 ### Restriction
@@ -1766,19 +2113,29 @@ b) faire respecter l’accord par le propriétaire du bien-fonds et par les prop
 ### Règlements
 
 (7) Le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) régir les pouvoirs que le présent article confère à la cité, et notamment :
+
 (i) imposer des restrictions, des limites et des conditions aux pouvoirs de la cité d’interdire et de réglementer la démolition et la conversion de biens locatifs à usage d’habitation,
+
 (ii) prescrire des exigences à inclure dans les règlements municipaux adoptés en vertu du présent article,
+
 (iii) prescrire des conditions que la cité doit inclure à titre d’exigence pour l’obtention d’un permis,
+
 (iv) prescrire des exigences que la cité doit imposer aux propriétaires de biens-fonds auxquels s’applique un règlement municipal adopté en vertu du présent article;
+
 b) autoriser la cité à exiger que les propriétaires de biens-fonds auxquels s’applique un règlement municipal adopté en vertu du présent article fassent des paiements et versent des indemnités;
+
 c) pour l’application de l’alinéa b), prescrire les sommes et les indemnités à verser, les personnes à qui les paiements et les indemnités doivent être versés et les circonstances dans lesquelles ils doivent être versés, et régir par ailleurs les paiements et les indemnités;
+
 d) prescrire les mesures que la cité doit prendre ou les conditions à remplir avant l’adoption d’un règlement municipal en vertu du présent article, et régir les questions transitoires se rapportant à la mise en oeuvre de ces conditions;
+
 e) définir, pour l’application du présent article et des règlements pris en vertu du présent article, tout terme ou toute expression non définis au paragraphe 3 (1) de la présente loi.
 
 ### Incompatibilité
 
 (8) Les dispositions des règlements pris en application du présent article l’emportent sur les dispositions incompatibles de la présente loi, à l’exclusion du présent article, de toute autre loi et de tout règlement.
+
 112 Abrogé : 2006, chap. 32, annexe B, art. 24.
 
 ### Règlements de zonage
@@ -1796,8 +2153,11 @@ e) définir, pour l’application du présent article et des règlements pris en
 ### Idem
 
 (3) Lorsqu’une condition prescrite est imposée en vertu du paragraphe (2) :
+
 a) la cité peut exiger que le propriétaire d’un bien-fonds auquel s’applique le règlement municipal conclue une convention avec elle en ce qui a trait à la condition;
+
 b) la convention peut être enregistrée à l’égard du bien-fonds auquel elle s’applique;
+
 c) la cité peut faire respecter la convention par le propriétaire du bien-fonds et par les propriétaires subséquents.
 
 ### Préavis et réunion publique non obligatoires
@@ -1809,7 +2169,9 @@ c) la cité peut faire respecter la convention par le propriétaire du bien-fond
 ### Définitions
 
 113.2 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «cour avant» La partie d’une propriété privée qui est comprise entre le mur avant d’un immeuble d’habitation qui se trouve sur la propriété et la voie publique attenante. («front yard»)
+
 «stationnement en cour avant» Le stationnement d’un véhicule de tourisme ou d’une motocyclette dans une cour avant. («front yard parking») 2006, chap. 32, annexe B, art. 26.
 
 ### Incompatibilité
@@ -1821,6 +2183,7 @@ c) la cité peut faire respecter la convention par le propriétaire du bien-fond
 ### Définition
 
 114 (1) La définition qui suit s’applique au présent article.
+
 «exploitation» S’entend de la construction, de l’édification ou de l’implantation d’un ou de plusieurs bâtiments ou constructions sur un bien-fonds, d’un rajout ou transformation à un bâtiment ou à une construction qui a pour effet d’en augmenter considérablement les dimensions ou les possibilités d’utilisation, ou de la conception et de la création d’un parc de stationnement à des fins commerciales ou d’emplacements pour l’installation de trois roulottes ou plus ou d’emplacements pour l’installation de trois maisons mobiles ou plus au sens du paragraphe 46 (1) de la Loi sur l’aménagement du territoire ou d’emplacements pour la construction, l’édification ou l’installation de trois maisons de communauté de terrains à bail ou plus au sens du paragraphe 46 (1) de cette loi.
 
 ### Exception
@@ -1846,6 +2209,7 @@ c) la cité peut faire respecter la convention par le propriétaire du bien-fond
 ### Consultation
 
 (4) La cité doit permettre aux auteurs de demandes de la consulter avant de présenter des plans et des dessins aux fins d’approbation aux termes du paragraphe (5).
+
 (4.1) Abrogé : 2024, chap. 16, annexe 4, par. 3 (1).
 
 ### Renseignements prescrits
@@ -1859,7 +2223,9 @@ c) la cité peut faire respecter la convention par le propriétaire du bien-fond
 ### Refus et délais
 
 (4.4) Tant que la cité n’a pas reçu les plans et les dessins visés au paragraphe (5), les renseignements et les documents exigés aux termes des paragraphes (4.2) et (4.3), le cas échéant, et les droits prévus à l’article 69 de la Loi sur l’aménagement du territoire :
+
 a) d’une part, la cité peut refuser la demande ou refuser d’en poursuivre l’examen;
+
 b) d’autre part, le délai visé au paragraphe 114 (15) de la présente loi ne commence pas à courir.
 
 ### Renseignements et documents préparés par des professionnels prescrits
@@ -1873,8 +2239,11 @@ b) d’autre part, le délai visé au paragraphe 114 (15) de la présente loi ne
 ### Motion : litige
 
 (4.6) À tout moment après que l’auteur de la demande a commencé à consulter la cité avant de présenter des plans et des dessins aux fins d’approbation aux termes du paragraphe (4), ou après qu’il a acquitté les droits exigés par l’article 69 de la Loi sur l’aménagement du territoire, l’auteur de la demande ou la cité peut, par voie de motion pour obtenir des directives, demander au Tribunal ontarien de l’aménagement du territoire de décider :
+
 a) si les plans et les dessins, de même que les renseignements et les documents ont effectivement été fournis;
+
 b) si une exigence imposée en vertu du paragraphe (4.3) est raisonnable.
+
 (4.7) Abrogé : 2024, chap. 16, annexe 4, par. 3 (2).
 
 ### Décision définitive
@@ -1884,13 +2253,21 @@ b) si une exigence imposée en vertu du paragraphe (4.3) est raisonnable.
 ### Approbation des plans et dessins
 
 (5) Nul ne doit entreprendre une exploitation dans une zone visée au paragraphe (2), à moins que la personne autorisée visée au paragraphe (5.1) ou, dans le cas d’un appel interjeté en vertu du paragraphe (15), le Tribunal ontarien de l’aménagement du territoire n’ait approuvé, selon ce que précise la personne autorisée, le ou les documents suivants :
+
 1. Les plans indiquant l’emplacement des bâtiments et des constructions à édifier, et celui des installations et travaux à prévoir à cet effet, ainsi que l’emplacement des installations et des travaux requis en vertu de l’alinéa (11) a), y compris des installations conçues pour tenir compte de l’accessibilité des personnes handicapées.
+
 2. Les dessins indiquant le plan de plancher, l’élévation et la coupe transversale de chaque bâtiment à édifier, à l’exception d’un bâtiment destiné à des fins d’habitation contenant moins de 25 logements, lesquels dessins suffisent à montrer :
+
 i. le volume et la conception architecturale du bâtiment proposé,
+
 ii. la relation du bâtiment proposé aux bâtiments adjacents, aux rues et aux aires extérieures auxquelles le public peut accéder,
+
 iii. les passages intérieurs pour piétons, escaliers, ascenseurs, escaliers roulants auxquels le public peut accéder par la rue, les aires ouvertes et les passages intérieurs des bâtiments adjacents,
+
 iv. Abrogée : 2026, chap. 8, annexe 1, par. 4 (1).
+
 v. les aspects sur toute voie publique adjacente qui relève de la compétence de la cité, notamment les arbres, les arbustes, les haies, les plantations ou autre couverture végétale, les matériaux de revêtement, le mobilier urbain, les rampes en bordure de trottoir, les bacs à ordures et à recyclage et les espaces de stationnement pour vélos, si un plan officiel et un règlement municipal adopté en vertu du paragraphe (2) qui contiennent tous deux des dispositions relatives à de tels aspects sont en vigueur dans la cité, mais seulement dans la mesure où ces aspects sont nécessaires pour prendre des mesures concernant la santé, la sécurité, l’accessibilité ou la protection des terrains adjacents,
+
 vi. les installations conçues pour tenir compte de l’accessibilité des personnes handicapées.
 
 ### Personne autorisée
@@ -1900,9 +2277,13 @@ vi. les installations conçues pour tenir compte de l’accessibilité des perso
 ### Exclusions de la réglementation du plan d’implantation
 
 (6) Les questions suivantes ne sont pas assujetties à la réglementation du plan d’implantation :
+
 1. La décoration intérieure.
+
 1.1 La conception extérieure, sauf dans la mesure où il s’agit des aspects relatifs à l’accès extérieur d’un bâtiment qui comportera des logements abordables, ou à toute partie de celui-ci.
+
 2. L’aménagement intérieur, à l’exclusion des passages intérieurs pour piétons, escaliers, ascenseurs et escaliers roulants visés à la sous-disposition 2 iii du paragraphe (5).
+
 3. Le mode et les normes de construction.
 
 ### Idem
@@ -1932,20 +2313,35 @@ vi. les installations conçues pour tenir compte de l’accessibilité des perso
 ### Conditions d’approbation des plans
 
 (11) À titre de conditions d’approbation des plans et dessins visés au paragraphe (5), la cité peut exiger que le propriétaire du bien-fonds se charge :
+
 a) de pourvoir, sans frais pour la cité et à la satisfaction de celle-ci, à tout ou partie des installations suivantes :
+
 (i) sous réserve du paragraphe (12), l’élargissement des voies publiques attenantes au bien-fonds,
+
 (ii) des entrées et sorties du bien-fonds telles que rampes d’accès, bordures et panneaux indicateurs,
+
 (iii) sous réserve du paragraphe (13.1), des installations de chargement et de stationnement de véhicules situées en retrait de la voie publique, couvertes ou découvertes; des entrées, y compris celles des véhicules de secours; le revêtement de ces installations et entrées,
+
 (iv) des passages et rampes pour piétons, y compris le revêtement de ces surfaces, et autres moyens d’accès pour piétons,
+
 (iv.1) des installations conçues pour tenir compte de l’accessibilité des personnes handicapées,
+
 (v) des dispositifs d’éclairage du bien-fonds et des bâtiments et constructions qui y sont établis, notamment au moyen de projecteurs,
+
 (vi) des murs, clôtures, haies, arbres, arbustes ou autres recouvrements ou installations en vue de l’aménagement paysager ou de la protection de bien-fonds contigus,
+
 (vii) des caves, aires centrales d’entreposage et d’emmagasinage, autres installations et enceintes pour l’entreposage des ordures et déchets,
+
 (viii) l’établissement de servitudes au profit de la cité en ce qui concerne la construction, l’entretien ou l’amélioration sur le bien-fonds de cours d’eau, fossés, travaux de drainage, égouts séparatifs et autres services publics offerts par la cité,
+
 (ix) le nivellement, le changement du niveau ou du profil du bien-fonds et l’évacuation des eaux pluviales, superficielles ou usées du sol et des bâtiments ou constructions qui y sont établis;
+
 b) d’entretenir, à la satisfaction de la cité et à ses risques et frais personnels, tout ou partie des installations ou travaux visés aux sous alinéas a) (ii) à (ix), y compris le déneigement des rampes et entrées, des aires de stationnement et de chargement et des passages pour piétons;
+
 c) de conclure une ou plusieurs conventions avec la cité qui assurent la fourniture en tout ou en partie des installations, travaux ou aménagements visés à l’alinéa a) ou e) et l’entretien visé à l’alinéa b) ou qui traitent de la fourniture et de l’approbation des plans et dessins visés au paragraphe (5);
+
 d) de conclure une ou plusieurs conventions avec la cité pour faire en sorte que l’exploitation se fasse conformément aux plans et dessins approuvés aux termes du paragraphe (5);
+
 e) sous réserve du paragraphe (13), de céder une partie du bien-fonds à la cité au titre de l’emprise des transports en commun, sans frais pour la cité et à la satisfaction de celle-ci.
 
 ### Caducité de l’approbation
@@ -1955,8 +2351,11 @@ e) sous réserve du paragraphe (13), de céder une partie du bien-fonds à la ci
 ### Idem : délai
 
 (11.2) Pour l’application du paragraphe (11.1), le délai fixé par la personne autorisée ne doit pas :
+
 a) être inférieur au délai prescrit applicable à l’exploitation;
+
 b) dépasser le délai prescrit applicable à l’exploitation;
+
 c) être inférieur à trois ans, si un délai prescrit en application de l’alinéa a) ou b) ne s’applique pas à l’égard de l’exploitation.
 
 ### Idem : approbation
@@ -1982,6 +2381,7 @@ c) être inférieur à trois ans, si un délai prescrit en application de l’al
 ### Enregistrement de la convention
 
 (14) La convention conclue en vertu de l’alinéa (11) c) ou d) peut être enregistrée à l’égard du bien-fonds auquel elle s’applique, et la cité a le droit de la faire respecter par le propriétaire et, sous réserve de la Loi sur l’enregistrement des actes et de la Loi sur l’enregistrement des droits immobiliers, par les propriétaires subséquents du bien-fonds.
+
 (14.1) à (14.3) Abrogés : 2024, chap. 16, annexe 4, par. 3 (4).
 
 ### Appel devant le Tribunal : approbation de plans ou de dessins
@@ -1995,10 +2395,15 @@ c) être inférieur à trois ans, si un délai prescrit en application de l’al
 ### Transmission des plans et dessins au Tribunal par le secrétaire municipal
 
 (15.2) S’il reçoit l’avis d’appel visé au paragraphe (15) ou (15.1), le secrétaire municipal veille à ce que les documents et droits suivants soient transmis au Tribunal ontarien de l’aménagement du territoire dans les 15 jours suivant le dépôt de l’avis :
+
 1. L’avis d’appel.
+
 2. Les droits.
+
 3. Les plans et dessins présentés pour approbation en application du paragraphe (5).
+
 3.1 Les renseignements et documents exigés aux termes des paragraphes (4.2) et (4.3).
+
 4. Dans le cas d’un appel prévu au paragraphe (15.1), les documents qui énoncent les exigences imposées par la municipalité en vertu du paragraphe (11).
 
 ### Audience
@@ -2020,8 +2425,11 @@ c) être inférieur à trois ans, si un délai prescrit en application de l’al
 ### Idem
 
 (20) À l’égard des plans et dessins présentés pour approbation en application du paragraphe (5) avant le jour de l’entrée en vigueur du paragraphe 2 (2) de l’annexe 1 de la Loi de 2022 visant à accélérer la construction de plus de logements :
+
 a) la sous-disposition 2 iv du paragraphe (5), dans sa version en vigueur avant le jour de l’entrée en vigueur du paragraphe 2 (2) de l’annexe 1 de la Loi de 2022 visant à accélérer la construction de plus de logements, continue de s’appliquer;
+
 b) la disposition 1.1 du paragraphe (6) ne s’applique pas;
+
 c) le paragraphe (6.1) ne s’applique pas.
 
 ### Idem : remboursement des droits
@@ -2035,19 +2443,29 @@ c) le paragraphe (6.1) ne s’applique pas.
 ### Règlements
 
 (23) Le ministre peut, par règlement :
+
 0.a) régir les renseignements ou les documents qui peuvent être exigés en vertu du paragraphe (4.3), notamment préciser ceux qui peuvent être exigés ou qui peuvent ne pas l’être, et prévoir que ces exigences l’emportent sur les exigences énoncées dans un plan officiel;
+
 0.a.1) prescrire des professions pour l’application du paragraphe (4.4.1);
+
 a) prescrire une exploitation ou une ou plusieurs catégories d’exploitations auxquelles les paragraphes (11.1) et (11.2) ne s’appliquent pas;
+
 b) prescrire des délais pour l’application de l’alinéa (11.2) a) ou b), et notamment prévoir un délai précis qui s’applique à une exploitation donnée ou prévoir différents délais qui s’appliquent à différentes catégories d’exploitations;
+
 c) prescrire une exploitation ou une ou plusieurs catégories d’exploitations auxquelles le paragraphe (11.3) ne s’applique pas.
 
 ### Système de délivrance de permis d’exploitation
 
 114.1 Un règlement pris en application de l’article 70.2 de la Loi sur l’aménagement du territoire peut :
+
 a) modifier, compléter ou remplacer l’article 113 ou 114 de la présente loi ou un règlement municipal adopté en vertu de l’un ou l’autre article, selon ce qui est nécessaire à l’établissement d’un système de délivrance de permis d’exploitation;
+
 b) autoriser la cité à adopter un règlement municipal visant à modifier, compléter ou remplacer un règlement municipal adopté en vertu de l’article 113 ou 114 ou exiger qu’elle le fasse, selon ce qui est nécessaire à l’établissement d’un système de délivrance de permis d’exploitation;
+
 c) si la cité a adopté ou établi un système de délivrance de permis d’exploitation :
+
 (i) l’exempter de l’application de toute disposition de l’article 113 ou 114 énoncée dans le règlement,
+
 (ii) lui interdire d’adopter un règlement municipal en vertu des dispositions de l’article 113 ou 114 que précise le règlement.
 
 ### Non-application de l’art. 113 ou 114 : maisons et autres sur une parcelle de terrain urbain d’habitation
@@ -2069,7 +2487,9 @@ c) si la cité a adopté ou établi un système de délivrance de permis d’exp
 ### Mandat et qualités
 
 (2) Quiconque est nommé à l’organisme d’appel :
+
 a) d’une part, occupe sa charge pour le mandat prescrit, faute de quoi il l’occupe pour le mandat précisé dans le règlement municipal;
+
 b) d’autre part, a les qualités prescrites, le cas échéant.
 
 ### Critères d’admissibilité
@@ -2079,29 +2499,41 @@ b) d’autre part, a les qualités prescrites, le cas échéant.
 ### Restriction
 
 (4) La cité ne doit pas nommer à l’organisme d’appel, selon le cas :
+
 a) un employé de la cité;
+
 b) un membre du conseil municipal, d’un comité de morcellement des terres, d’un comité de dérogation ou d’un comité consultatif d’aménagement;
+
 c) un membre d’une catégorie prescrite.
 
 ### Pouvoir d’entendre les appels
 
 (5) La cité peut, par règlement municipal, investir l’organisme d’appel du pouvoir d’entendre des appels interjetés ou des motions pour obtenir des directives présentées, selon le cas, en vertu :
+
 a) soit des paragraphes 114 (7), (15) et (15.1);
+
 b) soit du paragraphe 45 (12) de la Loi sur l’aménagement du territoire ;
+
 c) soit des paragraphes 53 (4.1), (14), (19) et (27) de la Loi sur l’aménagement du territoire ;
+
 d) soit des dispositions énumérées dans toute combinaison des alinéas a), b) et c).
 
 ### Interprétation : appels
 
 (5.1) Les règles suivantes s’appliquent si un règlement municipal a été adopté en vertu du paragraphe (5) pour investir l’organisme d’appel du pouvoir d’entendre des motions pour obtenir des directives présentées en vertu du paragraphe 114 (7) de la présente loi ou du paragraphe 53 (4.1) de la Loi sur l’aménagement du territoire, ou des deux :
+
 1. Les mentions d’un appel au présent article, sauf au paragraphe (9), s’interprètent comme incluant la mention d’une motion pour obtenir des directives présentée en vertu du paragraphe 114 (7) de la présente loi ou du paragraphe 53 (4.1) de la Loi sur l’aménagement du territoire, ou des deux, selon le cas.
+
 2. La mention de l’appelant au paragraphe (8) s’interprète comme incluant la mention de la personne ou de l’organisme public qui présente une motion pour obtenir des directives en vertu du paragraphe 114 (7) de la présente loi ou du paragraphe 53 (4.1) de la Loi sur l’aménagement du territoire, ou des deux, selon le cas.
 
 ### Effet du règlement municipal visé au par. (5)
 
 (6) Si un règlement municipal a été adopté en vertu du paragraphe (5) :
+
 a) l’organisme d’appel est investi des pouvoirs et des fonctions que le présent article et les dispositions pertinentes de la Loi sur l’aménagement du territoire attribuent au Tribunal ontarien de l’aménagement du territoire;
+
 b) toute mention du Tribunal ontarien de l’aménagement du territoire au présent article, à l’article 114 et dans Loi sur l’aménagement du territoire, en ce qui a trait aux appels interjetés en vertu des dispositions pertinentes, vaut mention de l’organisme d’appel;
+
 c) les appels interjetés en vertu des dispositions pertinentes le sont devant l’organisme d’appel et non devant le Tribunal ontarien de l’aménagement du territoire.
 
 ### Exigences prescrites
@@ -2123,13 +2555,17 @@ c) les appels interjetés en vertu des dispositions pertinentes le sont devant l
 ### Exception : appels connexes
 
 (10) Malgré le paragraphe (6), un appel interjeté en vertu d’une des dispositions énumérées au paragraphe (5) l’est devant le Tribunal ontarien de l’aménagement du territoire, et non devant l’organisme d’appel, si un appel connexe, selon le cas :
+
 a) a déjà été interjeté devant le Tribunal, mais n’a pas encore fait l’objet d’une décision définitive;
+
 b) est interjeté devant le Tribunal en même temps que celui interjeté en vertu d’une des dispositions énumérées au paragraphe (5).
 
 ### Idem
 
 (11) Pour l’application des paragraphes (10) et (14), constitue un appel connexe à l’égard d’un appel interjeté en vertu d’une des dispositions énumérées au paragraphe (5) l’appel interjeté :
+
 a) d’une part, à l’égard de la même question que celui interjeté en vertu d’une des dispositions énumérées au paragraphe (5);
+
 b) d’autre part, en vertu d’une autre disposition énumérée au paragraphe (5) à l’égard de laquelle l’organisme d’appel n’a pas été investi de pouvoir en vertu de l’article 17, 22, 34, 36, 38 ou 51 de la Loi sur l’aménagement du territoire ou en vertu d’un règlement pris en vertu de l’article 70.2 de cette loi.
 
 ### Litige relatif à l’application du par. (10) ou (14)
@@ -2147,7 +2583,9 @@ b) d’autre part, en vertu d’une autre disposition énumérée au paragraphe 
 ### Idem
 
 (15) Lorsque le Tribunal ontarien de l’aménagement du territoire exerce sa compétence comme le prévoit le paragraphe (14), l’organisme d’appel :
+
 a) d’une part, lui transmet immédiatement tous les renseignements et documents relatifs à l’appel qu’il a en sa possession;
+
 b) d’autre part, ne doit prendre aucune autre mesure à l’égard de l’appel.
 
 ### Retrait des pouvoirs
@@ -2161,7 +2599,9 @@ b) d’autre part, ne doit prendre aucune autre mesure à l’égard de l’appe
 ### Effet du retrait
 
 (18) Si un arrêté est pris en vertu du paragraphe (16) :
+
 a) d’une part, le Tribunal ontarien de l’aménagement du territoire entend tous les appels auxquels s’applique l’arrêté;
+
 b) d’autre part, l’organisme d’appel transmet au Tribunal tous les renseignements et documents qu’il a en sa possession relativement à tout appel auquel s’applique l’arrêté.
 
 ### Révocation du retrait
@@ -2175,7 +2615,9 @@ b) d’autre part, l’organisme d’appel transmet au Tribunal tous les renseig
 ### Effet de la révocation
 
 (21) Si un arrêté est pris en vertu du paragraphe (19) :
+
 a) d’une part, l’organisme d’appel entend tous les appels auxquels s’applique l’arrêté;
+
 b) d’autre part, le Tribunal ontarien de l’aménagement du territoire transmet à l’organisme d’appel tous les renseignements et documents qu’il a en sa possession relativement à tout appel auquel s’applique l’arrêté.
 
 ### Dissolution de l’organisme d’appel
@@ -2185,14 +2627,19 @@ b) d’autre part, le Tribunal ontarien de l’aménagement du territoire transm
 ### Règles : arrêté de dissolution
 
 (21.2) Si le ministre prend un arrêté en vertu du paragraphe (21.1), les règles suivantes s’appliquent :
+
 1. Dans le cas d’un appel interjeté devant l’organisme d’appel à la date à laquelle est pris l’arrêté ou avant cette date et dont l’audience n’a pas débuté à cette date ou avant celle-ci, l’appel est entendu par le Tribunal ontarien de l’aménagement du territoire et l’organisme d’appel lui transmet tous les renseignements et documents relatifs à l’appel qu’il a en sa possession.
+
 2. L’organisme d’appel continue à entendre l’appel dont l’audience a débuté à la date à laquelle est pris l’arrêté ou avant cette date.
+
 3. Un appel interjeté en vertu d’une des dispositions énumérées au paragraphe (5) l’est devant le Tribunal ontarien de l’aménagement du territoire.
 
 ### Prise d’effet de l’arrêté pris en vertu du par. (21.1)
 
 (21.3) L’arrêté pris en vertu du paragraphe (21.1) prend effet aux dates suivantes :
+
 1. Si aucun appel visé au paragraphe (21.2) n’est interjeté devant l’organisme d’appel, la date à laquelle est pris l’arrêté.
+
 2. Si un ou plusieurs appels visés au paragraphe (21.2) sont interjetés devant l’organisme d’appel, le jour où tous ces appels font l’objet d’une décision définitive de la part de l’organisme d’appel.
 
 ### Non des règlements
@@ -2202,8 +2649,11 @@ b) d’autre part, le Tribunal ontarien de l’aménagement du territoire transm
 ### Disposition transitoire
 
 (22) Le présent article ne s’applique pas à l’égard des appels suivants :
+
 1. Un appel interjeté en vertu du paragraphe 45 (12) de la Loi sur l’aménagement du territoire, si la décision du comité à l’égard de laquelle l’avis d’appel est déposé est prise avant le jour de l’entrée en vigueur d’un règlement municipal adopté par la cité en vertu du paragraphe (5) du présent article qui investit l’organisme d’appel local du pouvoir d’entendre ce type d’appel.
+
 2. Un appel interjeté en vertu du paragraphe 53 (19) ou (27) de la Loi sur l’aménagement du territoire, si l’avis visé au paragraphe 53 (17) ou (24) de cette loi, selon le cas, est donné avant le jour de l’entrée en vigueur d’un règlement adopté par la cité en vertu du paragraphe (5) du présent article qui investit l’organisme d’appel local du pouvoir d’entendre ce type d’appel.
+
 3. Un appel interjeté en vertu du paragraphe 114 (7), (15) ou (15.1) de la présente loi ou du paragraphe 53 (4.1) ou (14) de la Loi sur l’aménagement du territoire, si l’appel est interjeté avant le jour de l’entrée en vigueur d’un règlement municipal adopté par la cité en vertu du paragraphe (5) du présent article qui investit l’organisme d’appel local du pouvoir d’entendre ce type d’appel.
 
 ### Règle déterminative : appels interjetés en vertu du par. 53 (4.1) de la Loi sur l’aménagement du territoire
@@ -2215,16 +2665,23 @@ b) d’autre part, le Tribunal ontarien de l’aménagement du territoire transm
 ### Pouvoirs : bruit occasionné par la livraison
 
 115.1 (1) Malgré les articles 7 et 8 et sauf autorisation à l’effet contraire figurant dans les règlements, la cité n’a pas le pouvoir d’interdire ni de réglementer quelque chose relativement au bruit occasionné dans celle-ci par la livraison de marchandises à l’un ou l’autre des endroits suivants :
+
 1. Les établissements de commerce de détail.
+
 2. Les restaurants, y compris les cafés et les bars.
+
 3. Les hôtels et motels.
+
 4. Les installations de distribution de marchandises.
 
 ### Règlements
 
 (2) Le ministre peut, par règlement :
+
 a) autoriser la cité à interdire et règlementer quelque chose relativement au bruit occasionné dans celle-ci par la livraison de marchandises à l’un ou l’autre des endroits visés au paragraphe (1);
+
 b) régir les pouvoirs de la cité en vertu de l’alinéa a), y compris l’autoriser à exercer ces pouvoirs dans des parties précisées de celle-ci;
+
 c) définir tout terme mentionné à la disposition 1, 2, 3 ou 4 du paragraphe (1).
 
 ### Règlements
@@ -2246,8 +2703,11 @@ c) définir tout terme mentionné à la disposition 1, 2, 3 ou 4 du paragraphe (
 ### Règlements : pénalités administratives, règlements municipaux sur le stationnement
 
 118 (1) Sur la recommandation du procureur général, le lieutenant-gouverneur en conseil peut, par règlement, prévoir les questions qui, à son avis, sont nécessaires ou souhaitables pour l’application de l’article 81, notamment :
+
 a) conférer à la cité des pouvoirs à l’égard de l’imposition de pénalités administratives et à l’égard d’autres questions nécessaires à l’établissement d’un système de pénalités administratives;
+
 b) imposer des conditions et des restrictions aux pouvoirs qu’a la cité à l’égard des pénalités administratives;
+
 c) prévoir que le registrateur des véhicules automobiles peut refuser de valider le certificat d’immatriculation délivré à quiconque n’a pas payé une pénalité administrative qui est due à la cité, ou de lui en délivrer un.
 
 ### Incompatibilité
@@ -2257,20 +2717,27 @@ c) prévoir que le registrateur des véhicules automobiles peut refuser de valid
 ### Règlements : permis et inscriptions
 
 119 (1) Le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) soustraire toute entreprise ou catégorie d’entreprises à l’application de tout ou partie d’un règlement municipal prévoyant un régime de permis pour une entreprise qui est adopté en vertu d’une loi, y compris les entreprises auto-réglementées;
+
 b) assortir de conditions et de restrictions les pouvoirs que la présente loi confère à la cité de prévoir un régime de permis pour une entreprise;
+
 c) interdire à la cité d’assortir le permis d’une entreprise à l’égard de laquelle un certificat provincial a été délivré d’une condition exigeant qu’elle fasse l’objet d’un examen dans le domaine visé par le certificat.
 
 ### Portée
 
 (2) Le règlement pris en application du présent article peut :
+
 a) être rétroactif pour une période maximale d’un an;
+
 b) exiger que la cité rembourse les droits de permis perçus pendant cette période;
+
 c) exiger que la cité utilise les droits de permis de la manière prescrite.
 
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «entreprise» S’entend au sens de l’article 85.
 
 ### Règlements : arrangements réciproques en matière de permis
@@ -2296,10 +2763,15 @@ c) exiger que la cité utilise les droits de permis de la manière prescrite.
 ### Règlements : organisme d’appel pour traiter de questions d’aménagement du territoire à l’échelon local
 
 123 Le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) prescrire un mandat pour l’application de l’alinéa 115 (2) a) et des qualités pour l’application de l’alinéa 115 (2) b);
+
 b) prescrire des critères d’admissibilité pour l’application du paragraphe 115 (3);
+
 c) prescrire des catégories pour l’application de l’alinéa 115 (4) c);
+
 d) prescrire des exigences pour l’application du paragraphe 115 (7);
+
 e) traiter des appels visés par les arrêtés pris en vertu des paragraphes 115 (16), (18), (19) et (21).
 
 ## partie iv la cité et sa gouvernance
@@ -2309,7 +2781,9 @@ e) traiter des appels visés par les arrêtés pris en vertu des paragraphes 115
 ### Définitions
 
 124 Les définitions qui suivent s'appliquent à la présente partie.
+
 «proposition de restructuration mineure» Proposition qui prévoit une ou plusieurs restructurations que le ministre des Affaires municipales et du Logement, après avoir examiné la proposition, estime être mineures. («proposal for minor restructuring»)
+
 «restructuration» L’annexion d’une partie de la cité à une autre municipalité locale ou d’une partie d’une autre municipalité locale à la cité et la modification des limites territoriales de toute municipalité de palier supérieur en conséquence. («restructuring») 2006, chap. 11, annexe A, art. 124.
 
 ### La cité
@@ -2337,17 +2811,25 @@ e) traiter des appels visés par les arrêtés pris en vertu des paragraphes 115
 ### Règlements
 
 (6) Le lieutenant-gouverneur en conseil peut, par règlement, prescrire ce qui suit pour l’application du paragraphe (5) :
+
 a) un conseil local;
+
 b) les dispositions de la Loi de 2010 sur les organisations sans but lucratif qui doivent s’appliquer au conseil local;
+
 c) les modifications sous réserve desquelles ces dispositions doivent s’appliquer au conseil local.
 
 ### Définition
 
 (7) La définition qui suit s’applique au présent article.
+
 «conseil local» S’entend d’un conseil local autre que ce qui suit :
+
 a) un conseil de santé au sens du paragraphe 1 (1) de la Loi sur la protection et la promotion de la santé ;
+
 b) un conseil de gestion au sens de la Loi de 2021 sur le redressement des soins de longue durée ;
+
 c) une personne morale constituée en application de la Loi sur l’aménagement du territoire ;
+
 d) une commission municipale créée en application de la présente loi.
 
 ### Changement de nom
@@ -2423,12 +2905,19 @@ d) une commission municipale créée en application de la présente loi.
 ### Rôle du conseil municipal
 
 131 Le conseil municipal a pour rôle de faire ce qui suit :
+
 a) représenter le public et tenir compte du bien-être et des intérêts de la cité;
+
 b) élaborer et évaluer les politiques et les programmes de la cité;
+
 c) déterminer les services que fournit la cité;
+
 d) faire en sorte que des politiques, des pratiques et des procédures administratives de même que des politiques, des pratiques et des procédures en matière de contrôle soient en place pour mettre en oeuvre ses décisions;
+
 e) veiller à la responsabilisation et à la transparence des opérations de la cité, y compris les activités de ses cadres supérieurs;
+
 f) préserver l’intégrité financière de la cité;
+
 g) exercer les fonctions que lui attribue la présente loi ou toute autre loi.
 
 ### Pouvoirs du conseil municipal
@@ -2450,10 +2939,15 @@ g) exercer les fonctions que lui attribue la présente loi ou toute autre loi.
 ### Rôle du maire en tant que président du conseil
 
 133 (1) Le maire de la cité, en sa qualité de président du conseil, a pour rôle de faire ce qui suit:
+
 a) agir en tant que chef de la direction de la cité;
+
 b) présider les réunions du conseil pour que ses travaux puissent être effectués avec efficience et efficacité;
+
 c) faire preuve de leadership dans ses rapports avec le conseil;
+
 d) représenter la cité aux cérémonies et réceptions officielles;
+
 e) exercer les fonctions que la présente loi ou toute autre loi attribue au président du conseil.
 
 ### Idem
@@ -2467,22 +2961,31 @@ e) exercer les fonctions que la présente loi ou toute autre loi attribue au pr�
 ### Rôle du maire en tant que chef de la direction
 
 134 En sa qualité de chef de la direction de la cité, le maire a pour rôle de faire ce qui suit :
+
 a) soutenir et promouvoir les objectifs de la cité;
+
 b) promouvoir la participation du public aux activités de la cité;
+
 c) agir à titre de représentant de la cité, tant dans celle-ci qu’ailleurs, et promouvoir la cité à l’échelle locale, nationale et internationale;
+
 d) participer à des activités qui accroissent le bien-être économique, social et environnemental de la cité et de ses résidents, et favoriser de telles activités.
 
 ### Conseil municipal à la suite des élections ordinaires de 2018
 
 135 (1) À partir de sa constitution à la suite des élections ordinaires de 2018, le conseil municipal se compose des personnes suivantes :
+
 a) le président du conseil;
+
 b) les autres membres, dont le nombre correspond au nombre de quartiers électoraux établis en application de l’article 128.
 
 ### Règles : composition du conseil municipal
 
 (2) Les règles suivantes s’appliquent à la composition du conseil municipal :
+
 1. Ses membres sont élus conformément à la Loi de 1996 sur les élections municipales.
+
 2. Son président est élu au scrutin général.
+
 3. Un de ses membres est élu pour chacun des quartiers électoraux établis en application de l’article 128.
 
 ### Déroulement des élections ordinaires de 2018
@@ -2512,7 +3015,9 @@ b) les autres membres, dont le nombre correspond au nombre de quartiers élector
 ### Exception : par. 83 (1) de la Loi de 1996 sur les élections municipales
 
 (2) Il ne peut être rendu d’ordonnance en application du paragraphe 83 (1) de la Loi de 1996 sur les élections municipales du seul fait que le secrétaire de la cité a, relativement à la tenue des élections ordinaires de 2018 et avant l’adoption d’un règlement municipal en vertu de l’article 135 de la présente loi, tel qu’il existait immédiatement avant que la Loi de 2018 sur l’amélioration des administrations locales reçoive la sanction royale, fait quoi que ce soit :
+
 a) comme si le règlement municipal n’était pas déjà en vigueur;
+
 b) comme si le règlement municipal était déjà en vigueur.
 
 ### Fonctionnaires et employés municipaux
@@ -2520,17 +3025,25 @@ b) comme si le règlement municipal était déjà en vigueur.
 ### Rôle des fonctionnaires et des employés
 
 136 Les fonctionnaires et employés municipaux ont pour rôle de faire ce qui suit :
+
 a) mettre en oeuvre les décisions du conseil et établir des pratiques et des procédures administratives pour les exécuter;
+
 b) faire des recherches et conseiller le conseil sur les politiques et les programmes de la cité;
+
 c) exercer les autres fonctions prévues par la présente loi ou toute autre loi et celles que leur assigne la cité.
 
 ### Secrétaire municipal
 
 137 (1) La cité nomme un secrétaire qui exerce les fonctions suivantes :
+
 a) il consigne, sans remarques, les résolutions, décisions et autres délibérations du conseil;
+
 b) il consigne, à la demande d’un membre présent à un vote, le nom et le vote de chaque membre qui vote sur une question;
+
 c) il conserve les originaux ou les copies des règlements municipaux et des procès-verbaux des délibérations du conseil;
+
 d) il exerce les autres fonctions prévues par la présente loi ou toute autre loi;
+
 e) il exerce les autres fonctions que lui assigne la cité.
 
 ### Secrétaires adjoints
@@ -2552,11 +3065,17 @@ e) il exerce les autres fonctions que lui assigne la cité.
 ### Trésorier municipal
 
 138 (1) La cité nomme un trésorier qui est chargé de s’occuper de ses affaires financières en son nom et de la manière que le conseil municipal lui ordonne, et notamment, de faire ce qui suit :
+
 a) recevoir les sommes payables à la cité et délivrer des récépissés attestant leur paiement;
+
 b) déposer les sommes reçues au nom de la cité dans les institutions financières que désigne la cité;
+
 c) payer les dettes de la cité et les autres dépenses qu’elle autorise;
+
 d) tenir des registres et des comptes fidèles des affaires financières de la cité;
+
 e) fournir au conseil les renseignements dont il a besoin ou qu’il demande concernant les affaires financières de la cité;
+
 f) veiller à ce que les placements de la cité soient faits conformément aux règlements pris en application de la partie VIII (Finances).
 
 ### Trésoriers adjoints
@@ -2582,7 +3101,9 @@ f) veiller à ce que les placements de la cité soient faits conformément aux r
 ### Vérificateur municipal
 
 139 (1) La cité nomme un vérificateur titulaire d’un permis délivré en vertu de la Loi de 2004 sur l’expertise comptable qui est chargé de faire ce qui suit :
+
 a) vérifier chaque année les comptes et les opérations de la cité et de ses conseils locaux et exprimer une opinion au sujet de leurs états financiers à la lumière de sa vérification;
+
 b) exercer les fonctions que lui assigne la cité ou un conseil local.
 
 ### Mandat
@@ -2596,6 +3117,7 @@ b) exercer les fonctions que lui assigne la cité ou un conseil local.
 ### Rapports
 
 (4) Le vérificateur fait rapport au conseil municipal.
+
 140 Abrogé : 2022, chap. 18, annexe 1, art. 1.
 
 ### Commissions municipales
@@ -2603,12 +3125,19 @@ b) exercer les fonctions que lui assigne la cité ou un conseil local.
 ### Pouvoir de créer des commissions municipales
 
 141 (1) Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à créer une commission municipale et à prévoir les questions suivantes :
+
 1. Le nom, la composition, le quorum et le processus budgétaire de la commission.
+
 2. Les qualités requises pour occuper une charge au sein de la commission.
+
 3. Le mode de sélection de ses membres, leur démission, l’établissement du moment où le siège d’un membre devient vacant et la façon de combler les vacances.
+
 4. Le mandat de ses membres et leur rémunération.
+
 5. Le nombre de voix dont bénéficient les membres.
+
 6. L’obligation pour la commission de suivre les règles, les modalités et les politiques fixées par la cité.
+
 7. Les liens qui existent entre la cité et la commission, notamment les liens financiers et hiérarchiques.
 
 ### Restriction
@@ -2630,8 +3159,11 @@ b) exercer les fonctions que lui assigne la cité ou un conseil local.
 ### Idem
 
 (6) Sauf disposition contraire des paragraphes (2) à (4), les dispositions suivantes s’appliquent, avec les adaptations nécessaires, à une commission municipale et à ses membres comme s’il s’agissait du conseil municipal et de ses membres :
+
 1. L’article 193 (absence du président).
+
 2. Les alinéas 204 c) à h) (siège vacant).
+
 3. Les articles 205 (démission d’un membre), 209 (mandat : vacances) et 210 (présentation d’une requête au tribunal).
 
 ### Statut des commissions municipales
@@ -2657,8 +3189,11 @@ b) exercer les fonctions que lui assigne la cité ou un conseil local.
 ### Pouvoirs et fonctions
 
 (2) Sauf disposition contraire d’un règlement municipal, les dispositions suivantes s’appliquent, avec les adaptations nécessaires, à une commission municipale :
+
 1. L’article 7 (pouvoirs d’une personne physique).
+
 2. La partie XV (Exécution), à l’exception des articles 374 (droit de la cité aux amendes), 382 (exécution d’accords) et 388 (fermeture des lieux : nuisance publique).
+
 3. La partie XVI (Responsabilité de la cité).
 
 ### Restriction
@@ -2704,13 +3239,21 @@ b) exercer les fonctions que lui assigne la cité ou un conseil local.
 ### Restriction
 
 (3) Malgré le paragraphe (1), la cité ne doit pas, conformément à ce paragraphe, dissoudre les conseils locaux suivants ni leur apporter des modifications :
+
 a) une société au sens du paragraphe 2 (1) de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille ;
+
 b) un conseil de santé au sens du paragraphe 1 (1) de la Loi sur la protection et la promotion de la santé ;
+
 c) un comité de gestion au sens de la Loi de 2021 sur le redressement des soins de longue durée ;
+
 d) un conseil au sens de l’article 1 de la Loi sur les bibliothèques publiques ;
+
 e) une commission de service de police établie en application de la Loi de 2019 sur la sécurité communautaire et les services policiers ;
+
 f) Abrogé : 2017, chap. 10, annexe 2, par. 14 (1).
+
 g) une personne morale constituée conformément à l’article 148;
+
 h) les autres conseils locaux prescrits.
 
 ### Restriction : organisme d’appel créé en vertu de l’art. 115
@@ -2720,15 +3263,21 @@ h) les autres conseils locaux prescrits.
 ### Étendue du pouvoir d’apporter des modifications à un conseil local
 
 146 Sans préjudice de la portée générale des articles 7 et 8, le pouvoir que ces articles confèrent à la cité d’apporter des modifications à un conseil local comprend celui d’adopter des règlements municipaux traitant de ce qui suit :
+
 a) les questions énoncées aux dispositions 1 à 7 du paragraphe 141 (1), sous réserve des restrictions énoncées à l’article 141;
+
 b) la prise en charge d’un pouvoir ou d’une fonction du conseil local, la cité ne pouvant toutefois pas le faire si elle a délégué le pouvoir ou la fonction au conseil local et qu’elle ne peut révoquer la délégation;
+
 c) la délégation d’un pouvoir ou d’une fonction au conseil local dans la mesure où la présente loi l’autorise;
+
 d) la restriction ou l’élargissement du mandat du conseil local.
 
 ### Dissolution ou modification d’un conseil local mixte
 
 147 Si la cité adopte, conformément au paragraphe 145 (1), un règlement qui dissout un conseil local qui est un conseil local de la cité et d’une ou de plusieurs autres municipalités, ou qui apporte des modifications à un tel conseil :
+
 a) d’une part, le règlement n’entre pas en vigueur tant qu’au moins la moitié des municipalités, à l’exclusion de la cité, ne l’ont pas approuvé par voie de résolution;
+
 b) d’autre part, dès son entrée en vigueur, le règlement est réputé un règlement adopté par chacune des municipalités dont le conseil est un conseil local.
 
 ### Personnes morales
@@ -2736,10 +3285,15 @@ b) d’autre part, dès son entrée en vigueur, le règlement est réputé un r�
 ### Pouvoir de créer des personnes morales
 
 148 (1) Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à faire ce qui suit, conformément aux conditions et restrictions prescrites :
+
 1. Créer des personnes morales.
+
 2. Proposer une personne comme fondateur, administrateur, dirigeant ou membre d’une personne morale ou l’autoriser à agir comme tel.
+
 3. Exercer un pouvoir en tant que membre d’une personne morale.
+
 4. Acquérir un intérêt sur une valeur mobilière prescrite d’une personne morale ou garantir une telle valeur.
+
 5. Exercer un pouvoir en tant que détenteur d’une valeur mobilière prescrite d’une personne morale.
 
 ### Fonctions des personnes morales
@@ -2753,6 +3307,7 @@ b) d’autre part, dès son entrée en vigueur, le règlement est réputé un r�
 ### Définition
 
 (4) La définition qui suit s’applique au présent article et à l’article 154.
+
 «personne morale secondaire» S’entend d’une personne morale créée par une personne morale elle-même créée en vertu du paragraphe (1) et d’une personne morale réputée une personne morale secondaire en application des règlements.
 
 ### Règlements
@@ -2764,11 +3319,17 @@ b) d’autre part, dès son entrée en vigueur, le règlement est réputé un r�
 ### Proposition de restructuration mineure
 
 149 (1) La cité peut, sous réserve du paragraphe (2), présenter une proposition de restructuration mineure des municipalités d’une zone géographique en soumettant au ministre des Affaires municipales et du Logement un rapport de restructuration contenant les éléments suivants :
+
 a) la description de la proposition, rédigée sous la forme et contenant les détails qu’exige le ministre;
+
 b) la preuve, présentée sous la forme que le ministre estime satisfaisante, de ce qui suit :
+
 (i) la proposition jouit du degré d’appui prescrit des municipalités prescrites de la zone géographique,
+
 (ii) l’appui a été déterminé de la façon prescrite,
+
 (iii) les municipalités qui appuient la proposition satisfont aux critères prescrits,
+
 (iv) la cité a consulté le public de la manière exigée.
 
 ### Restriction
@@ -2778,22 +3339,31 @@ b) la preuve, présentée sous la forme que le ministre estime satisfaisante, de
 ### Consultation
 
 (3) Avant de voter sur la question de savoir s’il doit appuyer la proposition ou s’y opposer, le conseil de la cité ou d’une autre municipalité doit ou peut, selon le cas, faire ce qui suit lorsque la proposition est en cours d’élaboration ou par la suite :
+
 1. Il doit consulter le public en donnant un préavis de la tenue d’au moins une réunion publique et en la tenant.
+
 2. Il doit consulter les personnes ou organismes que prescrit le ministre.
+
 3. Il peut consulter les autres personnes et organismes qu’il estime appropriés.
 
 ### Mise en oeuvre
 
 (4) Le ministre peut, par arrêté, mettre la proposition en oeuvre conformément aux règlements si :
+
 a) d’une part, la proposition et le rapport visés au paragraphe (1) satisfont aux exigences du présent article;
+
 b) d’autre part, il est d’avis que la proposition et le rapport sont conformes aux principes et normes de restructuration établis en application de l’alinéa 155 (1) a).
 
 ### Modification de la proposition
 
 (5) Une fois les exigences suivantes respectées et malgré le paragraphe (4), le ministre peut permettre la modification d’une proposition présentée en vertu du paragraphe (1) ou en vertu du paragraphe 173 (1) de la Loi de 2001 sur les municipalités et, si un arrêté mettant la proposition en oeuvre a déjà été pris, il peut prendre un autre arrêté pour mettre en oeuvre la proposition modifiée :
+
 1. Un rapport de restructuration modifié énonçant la proposition modifiée est présenté au ministre par la cité.
+
 2. La proposition modifiée jouit du degré d’appui prescrit des municipalités prescrites de la zone géographique dont l’appui était exigé dans le cas de la proposition initiale.
+
 3. La proposition modifiée jouit du degré d’appui prescrit des municipalités prescrites de la zone géographique dont l’appui serait exigé si la proposition modifiée était une proposition initiale.
+
 4. Les dispositions de tout arrêté mettant en oeuvre la proposition initiale qui doivent être modifiées ne sont pas en vigueur.
 
 ### Idem
@@ -2815,7 +3385,9 @@ b) d’autre part, il est d’avis que la proposition et le rapport sont conform
 ### Dépôt
 
 (10) Le ministre fait ce qui suit :
+
 a) il fait publier l’arrêté pris en vertu du paragraphe (4) dans la Gazette de l’Ontario ;
+
 b) il dépose une copie de l’arrêté pris en vertu du paragraphe (4) auprès de chaque municipalité à laquelle il s’applique.
 
 ### Examen
@@ -2833,15 +3405,21 @@ b) il dépose une copie de l’arrêté pris en vertu du paragraphe (4) auprès 
 ### Effet de l’arrêté du ministre
 
 151 (1) L’arrêté du ministre visé à l’article 149 :
+
 a) d’une part, est une preuve concluante que toutes les conditions préalables applicables à son égard ont été respectées et que les municipalités ont été restructurées conformément à la présente loi;
+
 b) d’autre part, l’emporte sur les lois et leurs règlements d’application incompatibles, sauf sur le présent article et sur les règlements d’application de l’article 155.
 
 ### Exceptions
 
 (2) Malgré l’alinéa (1) b), la cité peut exercer ses pouvoirs en ce qui concerne n’importe laquelle des questions suivantes avant ou après l’entrée en vigueur d’un arrêté que prend le ministre en vertu de l’article 149 ou en vertu de l’article 173 de la Loi de 2001 sur les municipalités, sauf si l’arrêté l’interdit expressément ou par déduction nécessaire :
+
 1. Changer son nom.
+
 2. Dissoudre un conseil local ou lui apporter des modifications.
+
 3. et 4. Abrogées : 2018, chap. 11, annexe 1, art. 8.
+
 5. Toute autre question dont traite une disposition d’une loi qui prévoit, expressément ou par déduction nécessaire, que la disposition ou l’exercice par la cité d’un pouvoir qu’elle lui confère l’emporte sur l’arrêté que prend le ministre en vertu de l’article 149.
 
 ### Idem
@@ -2857,15 +3435,25 @@ b) d’autre part, l’emporte sur les lois et leurs règlements d’application
 ### Règlements : conseil municipal
 
 152 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) exiger que la cité crée un comité exécutif composé de membres du conseil et prescrire sa composition, ses pouvoirs et ses fonctions, notamment exiger qu’il fournisse des orientations stratégiques pour la cité;
+
 b) exiger que le président du conseil nomme les présidents et vice-présidents de comités précisés du conseil et de conseils locaux précisés;
+
 c) exiger que le président du conseil nomme un ou plusieurs vice-présidents du conseil parmi les membres du conseil et prescrire leurs fonctions;
+
 d) exiger que le président du conseil propose ou nomme une ou plusieurs personnes ayant les responsabilités, pouvoirs et fonctions prescrites d’un directeur général de la cité;
+
 e) fixer les modalités de nomination des personnes proposées par le président du conseil en application de l’alinéa d);
+
 f) fixer les modalités de destitution des personnes proposées ou nommées en application de l’alinéa d);
+
 g) prescrire les questions transitoires ayant trait à l’exercice des pouvoirs et fonctions prévus aux alinéas d) et e);
+
 h) exiger que le conseil crée des comités précisés composés de membres du conseil élus dans des zones géographiques précisées de la cité, et exiger que la cité leur délègue les pouvoirs et fonctions prescrits;
+
 i) préciser la marche à suivre par la cité pour l’adoption d’un budget en application de l’article 228 ou pour l’adoption ou la nouvelle adoption d’un budget en application de l’article 229;
+
 j) préciser les fonctions du président du conseil en ce qui concerne l’adoption ou la nouvelle adoption d’un tel budget par la cité.
 
 ### Incompatibilité
@@ -2875,28 +3463,47 @@ j) préciser les fonctions du président du conseil en ce qui concerne l’adopt
 ### Règlements : dissolution ou modification de conseils locaux
 
 153 Pour l’application de l’article 145 et malgré la présente loi ou toute autre loi, le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) prévoir qu’un organisme qui exerce une fonction publique est un conseil local;
+
 b) prévoir qu’un conseil local est un conseil local de la cité;
+
 c) prévoir que la cité n’a pas le pouvoir de dissoudre un conseil local précisé dans le règlement ou de lui apporter une modification;
+
 d) imposer des conditions et des restrictions à l’exercice des pouvoirs de la cité;
+
 e) prévoir que, aux fins précisées dans le règlement, la cité est réputée un conseil local du genre de celui qui est dissous ou modifié;
+
 f) prévoir que, aux fins précisées dans le règlement, la cité remplace un conseil local dissous ou modifié;
+
 g) prévoir les questions qui, de l’avis du ministre, sont nécessaires ou souhaitables pour permettre à la cité d’agir à titre de conseil local, d’exercer les pouvoirs d’un conseil local ou de remplacer un conseil local à toute fin;
+
 h) prévoir que les dispositions de toute loi précisées dans le règlement ne s’appliquent pas à la cité lorsqu’elle agit à titre de conseil local, qu’elle exerce les pouvoirs d’un conseil local ou qu’elle remplace un conseil local à toute fin;
+
 i) prévoir la prorogation, la cessation ou la modification de l’un quelconque ou de l’ensemble des règlements et des résolutions d’un conseil local qui est dissous ou modifié en vertu du présent article;
+
 j) prévoir que la cité et un conseil local se versent des sommes réciproquement ou les versent à une autre municipalité ou à un autre conseil local;
+
 k) prévoir les questions transitoires ayant trait à la dissolution ou à la modification d’un conseil local.
 
 ### Règlements : personnes morales
 
 154 (1) Pour l’application de l’article 148, le lieutenant-gouverneur en conseil peut, par règlement, régir les pouvoirs de la cité visés à cet article et régir les personnes morales créées en vertu du paragraphe 148 (1) ainsi que les personnes morales secondaires, et, notamment :
+
 a) prescrire les fins auxquelles la cité peut exercer ses pouvoirs visés à cet article et imposer des conditions et des restrictions relativement à leur emploi;
+
 b) prescrire les fins auxquelles une personne morale peut exercer des activités commerciales ou autres;
+
 c) prescrire des valeurs mobilières pour l’application des dispositions 4 et 5 du paragraphe 148 (1);
+
 d) imposer des conditions et exigences applicables à une personne morale et à ses administrateurs et dirigeants;
+
 e) prévoir que des personnes morales précisées sont réputées ne pas être des conseils locaux pour l’application d’une disposition de la présente loi ou pour l’application de la définition de «municipalité» dans les autres lois précisées;
+
 f) prévoir que des personnes morales précisées sont réputées, pour l’application de toute loi ou de dispositions précisées de toute loi, ne pas exploiter des services publics dans les circonstances prescrites;
+
 g) soustraire la cité à l’application de l’article 82 à l’égard des personnes morales précisées;
+
 h) prévoir les questions transitoires qui se rapportent à l’exercice de ses pouvoirs visés à cet article par la cité ou à l’exercice de ses pouvoirs par une personne morale précisée.
 
 ### Incompatibilité
@@ -2916,17 +3523,29 @@ h) prévoir les questions transitoires qui se rapportent à l’exercice de ses 
 ### Ministre
 
 155 (1) Le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) établir des principes et des normes de restructuration qui touchent les propositions de restructuration mineure visées à l’article 149;
+
 b) pour l’application de l’article 149 :
+
 (i) établir des genres de restructuration,
+
 (ii) prévoir quelles municipalités peuvent appuyer une proposition de restructuration mineure à l’égard de chaque genre de restructuration,
+
 (iii) prévoir le degré d’appui exigé pour appuyer une proposition de restructuration mineure à l’égard de chaque genre de restructuration,
+
 (iv) prévoir la façon de déterminer l’appui,
+
 (v) prévoir les critères auxquels doivent satisfaire les municipalités qui appuient une proposition de restructuration mineure;
+
 c) prévoir qu’une municipalité d’une zone géographique à l’égard de laquelle une proposition de restructuration mineure a été présentée en vertu du paragraphe 149 (1) :
+
 (i) ne doit pas exercer les pouvoirs précisés que lui confère une loi,
+
 (ii) doit exercer, de la manière précisée, les pouvoirs précisés que lui confère une loi,
+
 (iii) doit obtenir l’approbation d’une personne ou d’un organisme précisés dans le règlement avant d’exercer les pouvoirs que lui confère une loi;
+
 d) pour l’application de la disposition 2 du paragraphe 149 (3), prescrire les personnes ou organismes à consulter.
 
 ### Lieutenant-gouverneur en conseil
@@ -2940,22 +3559,39 @@ d) pour l’application de la disposition 2 du paragraphe 149 (3), prescrire les
 ### Définitions
 
 156 Les définitions qui suivent s’appliquent à la présente partie.
+
 «bénéficiaire d’une subvention» Personne ou entité qui reçoit une subvention, directement ou indirectement, de la cité, d’un conseil local (définition restreinte) ou d’une société contrôlée par la cité. («grant recipient»)
+
 «code de déontologie» S’entend d’un code de déontologie établi en vertu de l’article 157. («code of conduct»)
+
 «conseil local (définition restreinte)» S’entend d’un conseil local autre que ce qui suit :
+
 a) une société au sens du paragraphe 2 (1) de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille ;
+
 b) un conseil de santé au sens du paragraphe 1 (1) de la Loi sur la protection et la promotion de la santé ;
+
 c) un comité de gestion au sens de la Loi de 2021 sur le redressement des soins de longue durée ;
+
 d) une commission de service de police établie en application de la Loi de 2019 sur la sécurité communautaire et les services policiers ;
+
 e) un conseil au sens de l’article 1 de la Loi sur les bibliothèques publiques ;
+
 f) une personne morale constituée conformément à l’article 148;
+
 g) les autres conseils locaux prescrits. («local board (restricted definition)»)
+
 «société contrôlée par la cité» Société dont au moins 50 pour cent des actions émises et en circulation sont acquises à la cité ou qui fait nommer la majorité des membres de son conseil d’administration par la cité ou en approuver la nomination par elle. La présente définition ne s’entend toutefois pas d’un conseil local. («city-controlled corporation»)
+
 «titulaire d’une charge publique» S’entend des personnes suivantes :
+
 a) les membres du conseil municipal et les membres de leur personnel;
+
 b) les fonctionnaires et employés de la cité;
+
 c) les membres des conseils locaux (définition restreinte) de la cité et les membres de leur personnel;
+
 d) les dirigeants, administrateurs et employés des conseils locaux (définition restreinte) de la cité;
+
 e) les autres personnes, selon ce que détermine le conseil municipal, qui sont nommées à des charges ou à des organismes par le conseil municipal ou par un conseil local (définition restreinte) de la cité. («public office holder») 2006, chap. 11, annexe A, art. 156
 
 ### Codes de déontologie
@@ -2993,12 +3629,19 @@ e) les autres personnes, selon ce que détermine le conseil municipal, qui sont 
 ### Commissaire à l’intégrité
 
 159 (1) Le commissaire est chargé d’exercer de façon indépendante les fonctions que lui attribue le conseil municipal à l’égard de ce qui suit :
+
 1. L’application du code de déontologie établi à l’intention des membres du conseil et de celui établi à l’intention des membres des conseils locaux (définition restreinte).
+
 2. L’application des modalités, des règles et des politiques de la cité et des conseils locaux (définition restreinte) régissant le comportement éthique des membres du conseil municipal et des membres des conseils locaux.
+
 3. L’application des articles 5, 5.1, 5.2 et 5.3 de la Loi sur les conflits d’intérêts municipaux aux membres du conseil et aux membres des conseils locaux (définition restreinte).
+
 4. Les demandes de conseils des membres du conseil et des membres des conseils locaux (définition restreinte) concernant les obligations que leur impose le code de déontologie qui s’applique à eux.
+
 5. Les demandes de conseils des membres du conseil et des membres des conseils locaux (définition restreinte) concernant les obligations que leur impose une modalité, une règle ou une politique de la cité ou du conseil local (définition restreinte), selon le cas, régissant le comportement éthique des membres.
+
 6. Les demandes de conseils des membres du conseil et des membres des conseils locaux (définition restreinte) concernant les obligations que leur impose la Loi sur les conflits d’intérêts municipaux.
+
 7. La fourniture de renseignements éducatifs aux membres du conseil, aux membres des conseils locaux (définition restreinte), à la cité et au public concernant les codes de déontologie établis à l’intention des membres du conseil et des membres des conseils locaux (définition restreinte) et concernant la Loi sur les conflits d’intérêts municipaux.
 
 ### Pouvoirs et fonctions
@@ -3036,7 +3679,9 @@ e) les autres personnes, selon ce que détermine le conseil municipal, qui sont 
 ### Enquête du commissaire
 
 160 (1) Le présent article s’applique si le commissaire mène une enquête aux termes de la présente partie en réponse à ce qui suit :
+
 a) une demande que lui adresse le conseil municipal, un membre du conseil ou un membre du public sur la question de savoir si un membre du conseil ou d’un conseil local (définition restreinte) a contrevenu au code de déontologie qui s’applique à lui;
+
 b) une demande que lui adresse un conseil local (définition restreinte) ou un membre d’un conseil local (définition restreinte) sur la question de savoir si un membre du conseil local (définition restreinte) a contrevenu au code de déontologie qui s’applique à lui.
 
 ### Application de la Loi de 2009 sur les enquêtes publiques
@@ -3054,7 +3699,9 @@ b) une demande que lui adresse un conseil local (définition restreinte) ou un m
 ### Sanctions
 
 (5) Le conseil municipal peut infliger à un membre du conseil ou d’un conseil local (définition restreinte) l’une ou l’autre des sanctions suivantes si le commissaire lui fait rapport qu’à son avis, le membre a contrevenu au code de déontologie :
+
 1. Une réprimande.
+
 2. La suspension de la rémunération versée au membre pour ses services en qualité de membre du conseil ou du conseil local, selon le cas, pour une période maximale de 90 jours.
 
 ### Idem
@@ -3072,8 +3719,11 @@ b) une demande que lui adresse un conseil local (définition restreinte) ou un m
 ### Autres règles s’appliquant pendant une élection ordinaire
 
 (9) Les règles suivantes s’appliquent pendant la période qui commence le jour de la déclaration de candidature en vue d’une élection ordinaire, tel qu’il est énoncé à l’article 31 de la Loi de 1996 sur les élections municipales, et qui se termine le jour du scrutin lors d’une élection ordinaire, tel qu’il est énoncé à l’article 5 de cette loi :
+
 1. Il ne doit être adressé aucune demande d’enquête sur la question de savoir si un membre du conseil ou d’un conseil local (définition restreinte) a contrevenu au code de déontologie qui s’applique à lui.
+
 2. Le commissaire ne doit pas, dans un rapport présenté à la cité ou à un conseil local (définition restreinte), donner son avis sur la question de savoir si un membre du conseil ou du conseil local (définition restreinte) a contrevenu au code de déontologie qui s’applique à lui.
+
 3. La cité ou le conseil local ne doit pas étudier la question de savoir s’il convient d’infliger à un membre du conseil ou du conseil local (définition restreinte) les sanctions visées au paragraphe (5).
 
 ### Enquête du commissaire : art. 5, 5.1, 5.2 ou 5.3 de la Loi sur les conflits d’intérêts municipaux
@@ -3095,7 +3745,9 @@ b) une demande que lui adresse un conseil local (définition restreinte) ou un m
 ### Exception
 
 (5) Malgré le paragraphe (4), la demande peut être faite plus de six semaines après que son auteur a eu connaissance de la prétendue contravention si les deux conditions suivantes sont réunies :
+
 1. L’auteur de la demande a eu connaissance de la prétendue contravention pendant la période qui commence six semaines avant le jour de la déclaration de candidature en vue d’une élection ordinaire, tel qu’il est énoncé à l’article 31 de la Loi de 1996 sur les élections municipales, et qui se termine le jour du scrutin lors d’une élection ordinaire, tel qu’il est énoncé à l’article 5 de cette loi.
+
 2. L’auteur de la demande adresse celle-ci au commissaire en vertu du paragraphe (2) dans les six semaines après le jour qui suit le jour du scrutin lors d’une élection ordinaire, tel qu’il est énoncé à l’article 5 de la Loi de 1996 sur les élections municipales.
 
 ### Contenu de la demande
@@ -3149,7 +3801,9 @@ b) une demande que lui adresse un conseil local (définition restreinte) ou un m
 ### Frais
 
 (18) Les frais de présentation de la requête à un juge par le commissaire sont payés par les entités suivantes :
+
 1. S’il est allégué que le membre a contrevenu à l’article 5, 5.1, 5.2 ou 5.3 de la Loi sur les conflits d’intérêts municipaux à titre qualité de membre du conseil municipal, la cité.
+
 2. S’il est allégué que le membre a contrevenu à l’article 5, 5.1, 5.2 ou 5.3 de la Loi sur les conflits d’intérêts municipaux à titre de membre d’un conseil local (définition restreinte), le conseil local.
 
 ### Obligation de garder le secret
@@ -3159,7 +3813,9 @@ b) une demande que lui adresse un conseil local (définition restreinte) ou un m
 ### Confidentialité : renseignements divulgués au commissaire
 
 (2) Malgré le paragraphe (1), des renseignements peuvent être divulgués, selon le cas :
+
 a) dans le cadre d’une instance criminelle selon les règles de droit;
+
 b) conformément à la présente partie.
 
 ### Communication des conseils
@@ -3173,8 +3829,11 @@ b) conformément à la présente partie.
 ### Autres circonstances
 
 (2.3) Le commissaire peut divulguer les renseignements qui lui paraissent nécessaires :
+
 a) soit aux fins d’une réunion publique tenue en vertu du paragraphe 160.1 (8);
+
 b) soit dans la requête présentée à un juge visée au paragraphe 160.1 (15);
+
 c) soit dans les motifs écrits donnés par le commissaire en application du paragraphe 160.1 (17).
 
 ### Loi sur l’accès à l’information municipale et la protection de la vie privée
@@ -3214,16 +3873,27 @@ c) soit dans les motifs écrits donnés par le commissaire en application du par
 ### Obligation de déposer des déclarations
 
 166 Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à prévoir le registre visé au paragraphe 165 (1), à prévoir un système d’enregistrement des personnes qui exercent des pressions auprès des titulaires d’une charge publique et à faire ce qui suit :
+
 1. Définir le terme «exercer des pressions».
+
 2. Exiger des personnes qui exercent des pressions auprès des titulaires d’une charge publique qu’elles déposent des déclarations auprès d’elle et lui fournissent des renseignements.
+
 3. Préciser les déclarations à déposer et les renseignements à fournir à la cité par les personnes qui exercent des pressions auprès des titulaires d’une charge publique et préciser le délai dans lequel les déclarations doivent être déposées et les renseignements fournis.
+
 4. Exempter des personnes de l’obligation de déposer des déclarations et de fournir des renseignements.
+
 5. Préciser les activités à l’égard desquelles l’obligation de déposer des déclarations et de fournir des renseignements ne s’applique pas.
+
 6. Établir un code de déontologie à l’intention des personnes qui exercent des pressions auprès des titulaires d’une charge publique.
+
 7. Interdire aux anciens titulaires d’une charge publique d’exercer des pressions auprès des titulaires actuels d’une telle charge pour la période que précise le règlement municipal.
+
 8. Interdire à une personne d’exercer des pressions auprès des titulaires d’une charge publique si elle n’est pas enregistrée.
+
 9. Assortir de conditions l’enregistrement, le maintien de l’enregistrement ou le renouvellement de l’enregistrement.
+
 10. Refuser d’enregistrer une personne et suspendre ou révoquer un enregistrement.
+
 11. Interdire aux personnes qui exercent des pressions auprès des titulaires d’une charge publique de recevoir un paiement qui est en tout ou en partie subordonné au succès des pressions qu’elles exercent.
 
 ### Honoraires conditionnels interdits
@@ -3307,7 +3977,9 @@ c) soit dans les motifs écrits donnés par le commissaire en application du par
 ### Décision soustraite
 
 (4) La présente partie n’a pas pour effet d’autoriser l’ombudsman à enquêter sur une décision, recommandation, acte ni omission :
+
 a) à l’égard duquel une loi confère le droit d’appel ou d’opposition, ou le droit de demander une audience ou une révision sur le fond, à un tribunal ou à un tribunal administratif ou quasi-judiciaire constitués par une loi, tant que le recours n’a pas été exercé en l’espèce, ou que le délai pour l’exercer n’est pas écoulé;
+
 b) d’un conseiller juridique de la cité, d’un conseil local (définition restreinte) ou d’une société contrôlée par la cité ou d’un avocat de l’un ou l’autre dans une instance.
 
 ### Délégation
@@ -3329,6 +4001,7 @@ b) d’un conseiller juridique de la cité, d’un conseil local (définition re
 ### Application de la Loi sur l’ombudsman
 
 (3) L’article 19 de la Loi sur l’ombudsman s’applique à l’exercice par l’ombudsman des pouvoirs et fonctions que lui attribue la présente partie et, à cette fin, les mentions, à l’article 19 de cette loi, de «tout organisme du secteur public» sont réputées des mentions de «la cité, un conseil local (définition restreinte) ou une société contrôlée par la cité».
+
 (4) Abrogé : 2014, chap. 13, annexe 9, art. 17.
 
 ### Obligation de garder le secret
@@ -3428,7 +4101,9 @@ b) d’un conseiller juridique de la cité, d’un conseil local (définition re
 ### Idem
 
 (2) Sous réserve du paragraphe (3), les personnes tenues au secret en application du paragraphe (1) ne doivent communiquer aucun renseignement à aucune autre personne à l’égard d’une question visée à ce paragraphe, sauf dans la mesure exigée :
+
 a) soit dans le cadre de l’application de la présente partie, y compris les rapports présentés par le vérificateur général, ou dans le cadre d’une instance introduite en vertu de celle-ci;
+
 b) soit aux termes du Code criminel (Canada).
 
 ### Idem
@@ -3476,7 +4151,9 @@ b) soit aux termes du Code criminel (Canada).
 ### Assimilation à une démission
 
 (4) Une personne est réputée avoir démissionné d’une charge au sein du conseil municipal à moins que :
+
 a) dans le cas d’élections ordinaires ou d’une élection partielle visée à l’article 211, elle ne fasse la déclaration d’entrée en fonction à l’égard de cette charge au plus tard le jour de la première réunion du nouveau conseil;
+
 b) dans le cas d’une élection partielle ou d’une nomination, autre qu’une élection partielle visée à l’article 211, visant à combler une vacance au sein du conseil, elle ne fasse la déclaration d’entrée en fonction à l’égard de cette charge au plus tard le jour de la première réunion du conseil qui se tient après qu’elle est déclarée élue ou est nommée.
 
 ### Prorogation
@@ -3506,9 +4183,13 @@ b) dans le cas d’une élection partielle ou d’une nomination, autre qu’une
 ### Définitions
 
 189 (1) Les définitions qui suivent s’appliquent au présent article et aux articles 190 à 190.2.
+
 «comité» Comité ou sous-comité consultatif ou autre, ou une entité similaire, dont au moins 50 pour cent des membres sont également membres d’un ou de plusieurs conseils municipaux ou conseils locaux, à l’exclusion d’une commission de service de police ou d’un conseil de bibliothèques publiques. («committee»)
+
 «réunion» Réunion ordinaire, extraordinaire ou autre du conseil municipal, du conseil local ou d’un comité de l’un ou de l’autre, au cours de laquelle, à la fois :
+
 a) le quorum est atteint;
+
 b) les membres discutent ou traitent autrement d’une question d’une manière qui fait avancer de façon importante les travaux ou la prise de décision du conseil ou du comité. («meeting») 2006, chap. 11, annexe A, par. 189 (1)
 
 ### Règlement de procédure à l’égard des réunions
@@ -3526,12 +4207,15 @@ b) les membres discutent ou traitent autrement d’une question d’une manière
 ### Participation par voie électronique
 
 (4) Le règlement de procédure applicable peut prévoir qu’un membre du conseil municipal, d’un conseil local de la cité ou d’un comité de l’un ou de l’autre peut participer par voie électronique à une réunion, dans la mesure et de la manière que ce règlement précise.
+
 (4.1) Abrogé : 2020, chap. 18, annexe 2, par. 1 (2).
 
 ### Idem
 
 (4.2) Le règlement de procédure applicable peut prévoir ce qui suit :
+
 a) un membre du conseil municipal, d’un conseil local de la cité ou d’un comité de l’un ou de l’autre qui participe par voie électronique à une réunion peut être compté pour établir si le quorum est atteint à un moment quelconque;
+
 b) un membre du conseil municipal, d’un conseil local de la cité ou d’un comité de l’un ou de l’autre peut participer par voie électronique à une réunion ouverte au public ou tenue à huis clos.
 
 ### Idem : règlement de procédure
@@ -3559,34 +4243,51 @@ b) un membre du conseil municipal, d’un conseil local de la cité ou d’un co
 ### Exceptions
 
 (2) Une réunion ou une partie de celle-ci peut se tenir à huis clos si l’une des questions suivantes doit y être étudiée :
+
 a) la sécurité des biens de la cité ou du conseil local;
+
 b) des renseignements privés concernant une personne qui peut être identifiée, y compris un employé de la cité ou du conseil local;
+
 c) l’acquisition ou la disposition projetée ou en cours d’un bien-fonds par la cité ou le conseil local;
+
 d) les relations de travail ou les négociations avec les employés;
+
 e) les litiges actuels ou éventuels, y compris les questions dont les tribunaux administratifs sont saisis, ayant une incidence sur la cité ou le conseil local;
+
 f) les conseils qui sont protégés par le secret professionnel de l’avocat, y compris les communications nécessaires à cette fin;
+
 g) une question à l’égard de laquelle le conseil municipal ou un conseil, un comité ou une autre entité peut tenir une réunion à huis clos en vertu d’une autre loi;
+
 h) des renseignements explicitement communiqués à titre confidentiel à la cité ou au conseil local par le Canada, une province, un territoire ou un organisme de la Couronne de l’un d’eux;
+
 i) un secret industriel ou des renseignements d’ordre scientifique, technique, commercial, financier ou qui ont trait aux relations de travail, communiqués à titre confidentiel à la cité ou au conseil local et qui, s’ils étaient divulgués, pourraient, selon toutes attentes raisonnables, avoir pour effet de nuire gravement à la situation concurrentielle ou d’entraver gravement les négociations contractuelles ou autres d’une personne, d’un groupe de personnes ou d’une organisation;
+
 j) un secret industriel ou des renseignements d’ordre scientifique, technique, commercial, financier qui sont la propriété de la cité ou du conseil local et qui ont une valeur pécuniaire actuelle ou éventuelle;
+
 k) une position, un projet, une ligne de conduite, une norme ou une instruction devant être observé par la cité ou le conseil local, ou pour son compte, dans le cadre d’une négociation actuelle ou éventuelle.
 
 ### Autres critères
 
 (3) Une réunion ou une partie de réunion se tient à huis clos si la question qui doit y être étudiée porte, selon le cas :
+
 a) sur une demande présentée en vertu de la Loi sur l’accès à l’information municipale et la protection de la vie privée, dans le cas où le conseil municipal, le conseil, la commission ou une autre entité est la personne responsable d’une institution pour l’application de cette loi;
+
 b) sur une enquête en cours à propos de la cité, d’un conseil local ou d’une société contrôlée par la cité menée par l’ombudsman nommé en application de la Loi sur l’ombudsman, par l’ombudsman nommé en application du paragraphe 170 (1) de la présente loi, ou par l’enquêteur visé au paragraphe 190.2 (1).
 
 ### Séances d’éducation ou de formation
 
 (3.1) Une réunion du conseil ou d’un conseil local ou d’un comité de l’un ou de l’autre peut se tenir à huis clos s’il est satisfait aux deux conditions suivantes :
+
 1. La réunion a pour but l’éducation ou la formation des membres.
+
 2. Lors de la réunion, aucun membre ne discute ou ne traite autrement d’une question d’une manière qui fait avancer de façon importante les travaux ou la prise de décision du conseil, du conseil local ou du comité.
 
 ### Résolution
 
 (4) Avant de tenir une réunion ou une partie de réunion à huis clos, la cité ou le conseil local ou le comité de l’un ou de l’autre indique ce qui suit par voie de résolution :
+
 a) le fait que la réunion doit se tenir à huis clos et la nature générale de la question devant y être étudiée;
+
 b) dans le cas d’une réunion visée au paragraphe (3.1), le fait que la réunion doit se tenir à huis clos, la nature générale de la question devant y être étudiée et le fait qu’elle se tiendra à huis clos en vertu de ce paragraphe.
 
 ### Réunion publique
@@ -3596,7 +4297,9 @@ b) dans le cas d’une réunion visée au paragraphe (3.1), le fait que la réun
 ### Exception
 
 (6) Malgré le paragraphe 194 (2), une réunion peut se tenir à huis clos au moment du vote si :
+
 a) d’une part, le paragraphe (2) ou (3) autorise ou exige la tenue à huis clos de la réunion;
+
 b) d’autre part, le vote porte sur une question de procédure ou vise à donner des directives ou des instructions aux fonctionnaires, employés ou mandataires de la cité, aux agents, employés ou mandataires du conseil local ou à ceux d’un comité de l’un ou de l’autre, ou aux personnes dont la cité ou le conseil local a retenu les services, à contrat ou non.
 
 ### Non-application
@@ -3610,7 +4313,9 @@ b) d’autre part, le vote porte sur une question de procédure ou vise à donne
 ### Idem
 
 (9) Le compte rendu exigé par le paragraphe (8) est préparé :
+
 a) par le secrétaire, dans le cas d’une réunion du conseil;
+
 b) par le fonctionnaire ou l’agent compétent, dans le cas d’une réunion d’un conseil local ou d’un comité.
 
 ### Divulgation du compte rendu
@@ -3620,7 +4325,9 @@ b) par le fonctionnaire ou l’agent compétent, dans le cas d’une réunion d�
 ### Enquête
 
 190.1 (1) Une personne peut demander qu’une enquête sur la question de savoir si la cité ou un de ses conseils locaux s’est conformé à l’article 190 ou à un règlement de procédure adopté en application du paragraphe 189 (2) à l’égard d’une réunion ou d’une partie de réunion qui s’est tenue à huis clos soit menée :
+
 a) par un enquêteur visé au paragraphe 190.2 (1);
+
 b) par l’ombudsman nommé en application de la Loi sur l’ombudsman, si la cité n’a pas nommé d’enquêteur visé au paragraphe 190.2 (1).
 
 ### Non-application
@@ -3646,8 +4353,11 @@ b) par l’ombudsman nommé en application de la Loi sur l’ombudsman, si la ci
 ### Idem
 
 (5) Les éléments visés aux paragraphes (3) et (4) sont les suivants :
+
 a) l’indépendance et l’impartialité de l’enquêteur;
+
 b) la confidentialité quant aux activités de l’enquêteur;
+
 c) la crédibilité du processus d’enquête de l’enquêteur.
 
 ### Délégation
@@ -3685,7 +4395,9 @@ c) la crédibilité du processus d’enquête de l’enquêteur.
 ### Convocation des réunions
 
 191 Sous réserve du règlement de procédure adopté en application de l’article 189 :
+
 a) le président du conseil peut convoquer une réunion extraordinaire;
+
 b) sur réception d’une pétition signée par la majorité des membres du conseil municipal, le secrétaire convoque une réunion extraordinaire aux fins, à la date et à l’heure que précise la pétition.
 
 ### Présidence des réunions
@@ -3731,11 +4443,17 @@ b) sur réception d’une pétition signée par la majorité des membres du cons
 ### Règles concernant le vote par procuration
 
 (2) Les règles suivantes s’appliquent à l’égard de la nomination d’un autre membre du conseil municipal pour agir à titre de mandataire en vertu du paragraphe (1) :
+
 1. Un membre ne doit pas agir à titre de mandataire pour plus d’un membre du conseil municipal en même temps.
+
 2. Le membre qui nomme le mandataire avise le secrétaire de la nomination conformément au processus établi par ce dernier.
+
 3. Afin d’établir si le quorum est atteint à un moment quelconque, un mandataire est compté comme un membre, mais ne doit pas être compté à la fois comme le membre qui nomme le mandataire et le mandataire.
+
 4. Une procuration est révoquée si le membre qui nomme le mandataire ou le mandataire en demande la révocation et se conforme au processus de révocation des procurations établi par le secrétaire.
+
 5. Lorsque la consignation du vote est demandée en vertu du paragraphe 194 (4), le secrétaire consigne le nom de chaque mandataire, le nom du membre du conseil municipal au nom duquel le mandataire vote, ainsi que la voix exprimée au nom de ce membre.
+
 6. Le membre qui nomme un mandataire pour le remplacer à une réunion est considéré absent de la réunion lorsqu’il s’agit d’établir si sa charge est vacante aux termes de l’alinéa 204 (1) c).
 
 ### Intérêt pécuniaire
@@ -3745,7 +4463,9 @@ b) sur réception d’une pétition signée par la majorité des membres du cons
 ### Idem : découverte de l’intérêt avant la réunion
 
 (4) Si, après avoir nommé un mandataire, un membre découvre qu’il a un intérêt pécuniaire mentionné au paragraphe 5 (1) de la Loi sur les conflits d’intérêts municipaux dans une affaire devant être étudiée au cours d’une réunion à laquelle le mandataire participera, le membre fait ce qui suit dès que possible :
+
 a) il avise le mandataire de l’intérêt dans l’affaire et indique que la procuration sera révoquée à l’égard de l’affaire;
+
 b) il demande au secrétaire de révoquer la procuration à l’égard de l’affaire conformément au processus de révocation des procurations établi par celui-ci.
 
 ### Idem : découverte de l’intérêt après la réunion
@@ -3781,7 +4501,9 @@ b) il demande au secrétaire de révoquer la procuration à l’égard de l’af
 ### Réserve
 
 (5) Le présent article n’a pas pour effet de porter atteinte :
+
 a) soit à l’obligation imposée par une loi ou en vertu de celle-ci de rédiger, conserver, utiliser, déposer, enregistrer ou présenter un document dans la ou les langues précisées par cette loi ou en vertu de celle-ci;
+
 b) soit à toute obligation de donner un avis raisonnable prévue par la loi.
 
 ### Traductions
@@ -3791,13 +4513,17 @@ b) soit à toute obligation de donner un avis raisonnable prévue par la loi.
 ### Code municipal
 
 196 Si la cité adopte un règlement municipal général qui regroupe les dispositions de règlements municipaux qu’elle a adoptés antérieurement :
+
 a) les dispositions du règlement municipal général sont réputées être entrées en vigueur le jour de l’entrée en vigueur du règlement municipal initial;
+
 b) les conditions ou les approbations que la loi exigeait pour l’adoption du règlement municipal initial sont, lorsqu’elles ont été remplies ou obtenues, selon le cas, réputées l’avoir été à l’égard de la disposition correspondante du règlement municipal général.
 
 ### Sceau de la cité
 
 197 (1) Chaque règlement municipal porte :
+
 a) d’une part, le sceau de la cité;
+
 b) d’autre part, la signature du secrétaire municipal et celle du président du conseil ou du président de la réunion à laquelle il a été adopté.
 
 ### Non-apposition du sceau
@@ -3821,10 +4547,15 @@ b) d’autre part, la signature du secrétaire municipal et celle du président 
 ### Examen des documents
 
 199 (1) Sous réserve de la Loi sur l’accès à l’information municipale et la protection de la vie privée, quiconque peut, à toute heure raisonnable, examiner les documents dont le secrétaire a le contrôle, notamment :
+
 a) les règlements et les résolutions de la cité et de ses conseils locaux;
+
 b) les procès-verbaux et les délibérations des réunions ordinaires ou extraordinaires du conseil municipal ou d’un conseil local de la cité, ou des réunions des comités de l’un ou de l’autre, qu’ils aient ou non été adoptés;
+
 c) les documents étudiés lors d’une réunion, sauf ceux étudiés pendant la partie de celle-ci qui s’est tenue à huis clos;
+
 d) les documents du conseil municipal;
+
 e) les états de la rémunération et des indemnités établis en application de l’article 223.
 
 ### Copies certifiées conformes
@@ -3866,7 +4597,9 @@ e) les états de la rémunération et des indemnités établis en application de
 ### Destruction des documents
 
 (2) Malgré l’article 200, les documents de la cité et de ses conseils locaux peuvent être détruits si une durée de conservation a été fixée à leur égard en application du présent article et que, selon le cas :
+
 a) la durée de conservation a pris fin;
+
 b) les documents sont des copies des originaux.
 
 ### Durée de conservation
@@ -3884,6 +4617,7 @@ b) les documents sont des copies des originaux.
 ### Interprétation
 
 (6) La définition qui suit s’applique au présent article.
+
 «document» Sont exclus de la présente définition les documents de la commission de service de police de la cité qui sont directement liés à une activité d’exécution de la loi à l’égard d’une personne ou d’un organisme.
 
 ### Éligibilité
@@ -3891,25 +4625,37 @@ b) les documents sont des copies des originaux.
 ### Éligibilité à une charge
 
 202 A les qualités requises pour être élu membre du conseil municipal ou en occuper la charge quiconque :
+
 a) d’une part, a le droit en vertu de l’article 17 de la Loi de 1996 sur les élections municipales d’être électeur dans la cité;
+
 b) d’autre part, n’est pas inhabile, en application de la présente loi ou d’une autre loi, à occuper cette charge.
 
 ### Inéligibilité à une charge
 
 203 (1) N’ont pas les qualités requises pour être élues membres du conseil municipal ou pour en occuper la charge les personnes suivantes :
+
 1. Si ce n’est conformément à l’article 30 de la Loi de 1996 sur les élections municipales :
+
 i. les employés municipaux,
+
 ii. quiconque n’est pas un employé municipal, mais est le secrétaire de la cité ou son trésorier, commissaire à l’intégrité, vérificateur général ou ombudsman ou registrateur visé à l’article 168 ou un enquêteur visé au paragraphe 190.2 (1),
+
 iii. quiconque n’est pas un employé municipal, mais est titulaire d’un poste administratif à la cité.
+
 2. Le juge de n’importe quel tribunal.
+
 3. Les députés à l’Assemblée législative comme le prévoit la Loi sur l’Assemblée législative ainsi que les sénateurs et les députés fédéraux.
+
 4. Les fonctionnaires au sens de la Loi de 2006 sur la fonction publique de l’Ontario, si ce n’est conformément à la partie V de cette loi et aux règlements pris en application de cette partie.
 
 ### Inhabilité
 
 (2) Un membre du conseil municipal est inhabile à occuper sa charge si, pendant son mandat, selon le cas :
+
 a) il cesse d’avoir la citoyenneté canadienne;
+
 b) il n’est pas résident de la cité et n’est ni propriétaire ni locataire d’un bien-fonds situé dans la cité, ni le conjoint d’un tel propriétaire ou locataire;
+
 c) il lui serait interdit, en application de la présente loi ou d’une autre loi, de voter lors d’élections visant la charge de membre du conseil municipal si des élections avaient lieu à ce moment-là.
 
 ### Vacances
@@ -3917,13 +4663,21 @@ c) il lui serait interdit, en application de la présente loi ou d’une autre l
 ### Siège vacant
 
 204 (1) La charge d’un membre du conseil municipal devient vacante dans l’un ou l’autre des cas suivants :
+
 a) le membre devient inhabile à occuper la charge de membre du conseil en application de l’article 202 ou 203;
+
 b) il ne fait pas la déclaration d’entrée en fonction dans le délai fixé à l’article 186;
+
 c) il est absent des réunions du conseil pendant trois mois consécutifs sans l’autorisation du conseil donnée par voie de résolution;
+
 d) il démissionne de sa charge et sa démission prend effet en application de l’article 205;
+
 e) il est nommé ou élu à une autre charge vacante au sein du conseil;
+
 f) sa charge est déclarée vacante par décision judiciaire;
+
 g) il est déchu de sa charge en application de la présente loi ou d’une autre loi;
+
 h) il décède, que ce soit avant d’avoir accepté la charge et d’avoir fait la déclaration d’entrée en fonction exigée par l’article 186 ou après l’avoir fait.
 
 ### Exception
@@ -3953,7 +4707,9 @@ h) il décède, que ce soit avant d’avoir accepté la charge et d’avoir fait
 ### Sièges vacants
 
 208 (1) En cas de vacance de la charge d’un membre du conseil, la cité, sous réserve du présent article :
+
 a) soit comble la vacance en nommant une personne qui a consenti à accepter la charge si elle est nommée;
+
 b) soit exige qu’une élection partielle ait lieu conformément à la Loi de 1996 sur les élections municipales pour combler la vacance.
 
 ### Élection à la suite d’une ordonnance du tribunal
@@ -3963,10 +4719,15 @@ b) soit exige qu’une élection partielle ait lieu conformément à la Loi de 1
 ### Règles applicables en cas de vacance
 
 (3) Les règles suivantes s’appliquent en cas de vacance :
+
 1. Dans les 60 jours qui suivent celui où une déclaration de vacance est faite à l’égard d’une vacance en application de l’article 207, la cité :
+
 i. soit nomme une personne pour combler la vacance en application du paragraphe (1),
+
 ii. soit adopte un règlement exigeant la tenue d’une élection partielle pour combler la vacance en application du paragraphe (1).
+
 2. Malgré la disposition 1, si un tribunal déclare une charge vacante, la cité prend les mesures prévues au paragraphe (1) dans les 60 jours qui suivent celui où le tribunal fait sa déclaration.
+
 3. Malgré les paragraphes (1) et (2), s’il survient une vacance dans les 90 jours qui précèdent le jour du scrutin fixé pour les élections ordinaires, la cité n’est pas tenue de combler la vacance.
 
 ### Mandats : vacances
@@ -4008,31 +4769,49 @@ ii. soit adopte un règlement exigeant la tenue d’une élection partielle pour
 ### Politiques de la cité
 
 212 (1) La cité adopte et met en oeuvre des politiques en ce qui concerne les points suivants :
+
 1. La disposition de biens-fonds, notamment par vente.
+
 2. L’engagement d’employés.
+
 2.1 Les liens qui existent entre les membres du conseil et les fonctionnaires et employés de la cité.
+
 3. L’approvisionnement en biens et en services.
+
 4. Les circonstances dans lesquelles la cité doit aviser le public et, dans ce cas, sous quelle forme, de quelle manière et à quel moment elle doit le faire.
+
 5. La manière dont la cité s’efforcera de veiller à répondre de ses actes devant le public et à rendre ses actes transparents pour celui-ci.
+
 6. Abrogée : 2009, chap. 33, annexe 21, par. 4 (12).
+
 7. La délégation de ses pouvoirs et fonctions.
+
 8. Le financement d’immobilisations, y compris le plafond des frais annuels qui y sont liés.
+
 9. La manière dont elle protégera et renforcera le couvert forestier et la végétation naturelle dans la cité.
+
 10. Les congés de maternité et les congés parentaux des membres du conseil municipal.
 
 ### Politiques de certains conseils locaux
 
 (2) Un conseil local (définition restreinte) adopte et met en oeuvre des politiques en ce qui concerne les points suivants :
+
 1. La disposition de biens-fonds, notamment par vente.
+
 2. L’engagement d’employés.
+
 3. L’approvisionnement en biens et en services.
 
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «conseil local (définition restreinte)» S’entend de ce qui suit :
+
 a) un conseil local, à l’exception d’une commission de service de police et d’un conseil d’hôpital;
+
 b) une société locale de logement au sens de la Loi de 2011 sur les services de logement, malgré l’alinéa 26 b) de cette loi;
+
 c) tout autre organisme prescrit qui exerce une fonction publique.
 
 ### Planification intégrée de la prestation de services
@@ -4068,8 +4847,11 @@ c) tout autre organisme prescrit qui exerce une fonction publique.
 ### Enquête par un juge
 
 215 (1) Si la cité le demande par voie de résolution, un juge de la Cour supérieure de justice enquête, selon le cas :
+
 a) sur tout cas présumé d’abus de confiance ou d’inconduite de la part d’un membre du conseil, d’un employé municipal ou de quiconque est lié à la cité par un contrat, quant à ses fonctions ou à ses obligations à l’égard de la cité;
+
 b) sur toute question qui se rapporte à la bonne administration de la cité;
+
 c) sur la conduite de toute partie des affaires publiques de la cité, notamment les affaires dont la conduite est confiée à une commission nommée par le conseil ou élue par les électeurs.
 
 ### Application de la Loi de 2009 sur les enquêtes publiques
@@ -4097,22 +4879,31 @@ c) sur la conduite de toute partie des affaires publiques de la cité, notamment
 ### Mesures interdites
 
 216 (1) Le conseil municipal ne doit prendre aucune des mesures mentionnées au paragraphe (3) après le premier jour, au cours des élections en vue de la constitution d’un nouveau conseil, où il peut être établi qu’une des dispositions suivantes s’applique au nouveau conseil qui doit entrer en fonction à la suite des élections :
+
 1. S’il doit se composer du même nombre de membres que le conseil sortant, le nouveau conseil comptera moins des trois quarts des membres du conseil sortant.
+
 2. S’il doit se composer d’un plus grand nombre de membres que le conseil sortant, le nouveau conseil comptera moins des trois quarts des membres du conseil sortant ou, s’il comptera au moins les trois quarts des membres du conseil sortant, les trois quarts des membres de ce dernier ne constitueront pas au moins la majorité des membres du nouveau conseil.
+
 3. Si le nouveau conseil doit se composer d’un moins grand nombre de membres que le conseil sortant, moins des trois quarts des membres du nouveau conseil auront été membres du conseil sortant ou, si au moins les trois quarts des membres du nouveau conseil auront été membres du conseil sortant, les trois quarts des membres du nouveau conseil ne constitueront pas au moins la majorité des membres du conseil sortant.
 
 ### Fondement
 
 (2) Si le fait visé au paragraphe (1) est établi :
+
 a) après le jour de la déclaration de candidature mais avant le jour du scrutin, il doit être établi en fonction des déclarations de candidature au nouveau conseil qui ont été certifiées et des déclarations d’élection à celui-ci sans concurrent;
+
 b) après le jour du scrutin, il doit être établi en fonction de la déclaration des résultats des élections, y compris toute déclaration d’élection sans concurrent.
 
 ### Restrictions
 
 (3) Les mesures visées au paragraphe (1) sont les suivantes :
+
 a) la nomination d’un fonctionnaire municipal ou sa destitution;
+
 b) l’engagement ou le congédiement d’un employé municipal;
+
 c) la disposition d’un bien meuble ou immeuble de la cité dont la valeur dépasse 50 000 $ au moment de sa disposition;
+
 d) l’engagement d’une dépense ou la constitution d’une autre dette s’élevant à plus de 50 000 $. 2006, chap. 11, annexe A, par. 216 (3).
 
 ### Exception
@@ -4132,21 +4923,33 @@ d) l’engagement d’une dépense ou la constitution d’une autre dette s’é
 ### Définitions
 
 217 Les définitions qui suivent s’appliquent au présent article et aux articles 218 à 221.
+
 «ancien employé désigné» Personne qui était anciennement un employé désigné de la cité ou d’un de ses conseils locaux (définition élargie). («designated former employee»)
+
 «ancien membre» Personne qui était anciennement un membre du conseil municipal ou d’un conseil local (définition élargie) de la cité. («former member»)
+
 «conseil local (définition élargie)» S’entend au sens de la Loi sur les affaires municipales. («local board (extended definition)»)
+
 «employé désigné» Fonctionnaire salarié de la cité, agent salarié d’un conseil local (définition élargie) de la cité ou toute autre personne à l’emploi de l’un ou de l’autre. S’entend en outre des personnes suivantes :
+
 a) les membres du service de police de la cité;
+
 b) les personnes qui offrent leurs services pour le compte de la cité sans rémunération, sauf le remboursement de leurs frais ou une rétribution symbolique, si le conseil municipal a adopté un règlement désignant ces personnes ou catégories de personnes comme employés désignés pour l’application du présent article;
+
 c) toute autre personne ou catégorie de personnes que le ministre des Affaires municipales et du Logement désigne comme employé désigné. («designated employee») 2006, chap. 11, annexe A, art. 217
 
 ### Assurance
 
 218 (1) Malgré la Loi sur les assurances, la cité peut être un assureur ou agir en qualité d’assureur à l’égard des questions suivantes :
+
 1. La protection contre les risques susceptibles d’entraîner des pertes pécuniaires pour elle ou ses conseils locaux (définition élargie) ou d’engager sa responsabilité ou la leur.
+
 2. La protection de ses employés désignés ou anciens employés désignés ou de ceux de ses conseils locaux (définition élargie) contre les risques susceptibles d’entraîner des pertes pécuniaires pour eux ou d’engager leur responsabilité.
+
 3. Sous réserve de l’article 14 de la Loi sur les conflits d’intérêts municipaux, la protection des membres ou anciens membres de son conseil municipal ou de ses conseils locaux (définition élargie) ou de toute catégorie de ces membres contre les risques susceptibles d’entraîner des pertes pécuniaires pour eux ou d’engager leur responsabilité.
+
 4. Sous réserve de l’article 14 de la Loi sur les conflits d’intérêts municipaux, le paiement des dommages-intérêts ou des dépens adjugés contre ses employés désignés, ses membres, ses anciens employés désignés ou ses anciens membres ou des dépenses engagées par eux à la suite d’une action ou autre instance découlant d’actes ou d’omissions qu’ils ont commis en leur qualité d’employés désignés ou de membres, y compris dans l’accomplissement de fonctions d’origine législative.
+
 5. Sous réserve de l’article 14 de la Loi sur les conflits d’intérêts municipaux, le versement de toute somme exigée dans le cadre du règlement d’une action ou autre instance visée à la disposition 4 et le paiement des frais de la défense des employés désignés ou des membres dans celle-ci.
 
 ### Contrats réciproques
@@ -4186,8 +4989,11 @@ c) toute autre personne ou catégorie de personnes que le ministre des Affaires 
 ### Assurance : santé et autre
 
 221 (1) Sous réserve de la Loi sur l’assurance-santé, la cité peut offrir ce qui suit, mais uniquement au moyen d’un contrat conclu avec un assureur titulaire d’un permis délivré en vertu de la Loi sur les assurances ou avec une association inscrite en application de la Loi sur les services hospitaliers et médicaux prépayés :
+
 a) une assurance-vie collective pour les membres du conseil municipal ou des conseils locaux (définition élargie) de la cité ou les employés désignés ou anciens employés désignés de la cité ou de tels conseils locaux ou une catégorie d’entre eux et leurs conjoints et enfants;
+
 b) une assurance-accident ou assurance-maladie collective pour les membres du conseil municipal ou des conseils locaux (définition élargie) de la cité ou les employés désignés ou anciens employés désignés de la cité ou de tels conseils locaux ou une catégorie d’entre eux et leurs conjoints et enfants;
+
 c) des services hospitaliers, médicaux, chirurgicaux, infirmiers ou dentaires, ou leur paiement, pour les membres du conseil municipal ou des conseils locaux (définition élargie) de la cité ou les employés désignés ou anciens employés désignés de la cité ou de tels conseils locaux ou une catégorie d’entre eux et leurs conjoints et enfants.
 
 ### Conseil local
@@ -4203,7 +5009,9 @@ c) des services hospitaliers, médicaux, chirurgicaux, infirmiers ou dentaires, 
 ### Restrictions
 
 (2) Malgré toute loi, la cité ne peut verser une indemnité pour les frais qu’engagent les membres de son conseil ou de ses conseils locaux ainsi que les fonctionnaires et employés municipaux ou les agents et employés de ses conseils locaux que si ceux-ci les engagent en leur qualité de membres, de fonctionnaires, d’agents ou d’employés et que si, selon le cas :
+
 a) les frais sont réellement engagés;
+
 b) les frais représentent, au lieu des frais réellement engagés, une estimation raisonnable, de l’avis du conseil municipal ou du conseil local, des frais réels qui seraient engagés.
 
 ### Conseil local
@@ -4217,8 +5025,11 @@ b) les frais représentent, au lieu des frais réellement engagés, une estimati
 ### État de la rémunération et des indemnités
 
 223 (1) Au plus tard le 31 mars de chaque année, le trésorier remet au conseil municipal un état détaillé de la rémunération et des indemnités versées l’année précédente aux personnes suivantes :
+
 a) chaque membre du conseil municipal, à l’égard des services offerts en sa qualité de membre du conseil ou d’un autre organisme, y compris un conseil local, auquel il a été nommé par le conseil municipal ou auprès duquel il occupe une charge du fait qu’il est membre du conseil municipal;
+
 b) chaque membre du conseil municipal, à l’égard des services offerts en sa qualité de fonctionnaire ou d’employé municipal ou d’agent ou d’employé d’un autre organisme visé à l’alinéa a);
+
 c) chaque personne qui n’est pas membre du conseil municipal et qui a été nommée par la cité à titre de membre d’un organisme, y compris un conseil local, à l’égard des services offerts en cette qualité.
 
 ### Mention obligatoire
@@ -4242,9 +5053,13 @@ c) chaque personne qui n’est pas membre du conseil municipal et qui a été no
 ### Étendue du pouvoir
 
 (2) Sans préjudice de la portée générale des articles 7 et 8, le pouvoir visé au paragraphe (1) s’entend notamment du pouvoir de faire ce qui suit :
+
 a) désigner la personne ou l’organisme, y compris le conseil municipal, qui présidera le réexamen ou l’appel, la cité ne pouvant toutefois pas désigner la personne ou l’organisme sans son consentement;
+
 b) prévoir les pouvoirs que peut exercer la personne ou l’organisme qui préside le réexamen ou l’appel;
+
 c) établir la procédure relative au réexamen ou à l’appel;
+
 d) prévoir des règles autorisant la personne ou l’organisme qui préside le réexamen ou l’appel à déterminer le moment où les décisions faisant l’objet d’un réexamen ou d’un appel entrent en vigueur, y compris une date rétroactive à une date qui n’est pas antérieure au jour de l’adoption du règlement municipal.
 
 ### Restriction
@@ -4270,7 +5085,9 @@ d) prévoir des règles autorisant la personne ou l’organisme qui préside le 
 ### Directives aux employés municipaux
 
 226.1 Dans le cadre de l’exercice des pouvoirs ou des fonctions que prévoit la présente partie, le président du conseil peut, par écrit, exercer les pouvoirs permettant à la cité de donner aux employés municipaux les directives suivantes :
+
 a) faire des recherches et conseiller le président du conseil et le conseil municipal sur les politiques et programmes de la cité ou du président du conseil en ce qu’ils se rapportent aux pouvoirs et fonctions prévus à la présente partie;
+
 b) exécuter des fonctions relatives à l’exercice du pouvoir ou de la fonction, y compris mettre en oeuvre les décisions prises par le président du conseil en vertu de la présente partie.
 
 ### Exercice par écrit
@@ -4284,7 +5101,9 @@ b) exécuter des fonctions relatives à l’exercice du pouvoir ou de la fonctio
 ### Pouvoirs : directeur général
 
 226.3 Le président du conseil peut nommer un directeur général qui est chargé de faire ce qui suit :
+
 a) assurer la gestion et le contrôle généraux des affaires de la cité afin d’en garantir le fonctionnement efficace et efficient;
+
 b) exercer les autres fonctions que lui assigne le président du conseil.
 
 ### Pouvoirs : structure organisationnelle
@@ -4298,17 +5117,29 @@ b) exercer les autres fonctions que lui assigne le président du conseil.
 ### Restriction
 
 (3) Les pouvoirs conférés aux termes du paragraphe (1) ne comprennent pas le pouvoir d’engager ou de congédier les personnes suivantes ou d’exercer à leur égard d’autres pouvoirs prescrits en matière d’emploi :
+
 1. Le secrétaire ou un secrétaire adjoint.
+
 2. Le trésorier ou un trésorier adjoint.
+
 3. Le commissaire à l’intégrité.
+
 4. L’ombudsman.
+
 5. Le vérificateur général.
+
 6. Le registrateur, visé à l’article 168.
+
 7. Le chef du service du bâtiment, au sens de la définition donnée à ce terme dans la Loi de 1992 sur le code du bâtiment.
+
 8. Le chef de police, au sens de la définition donnée à ce terme dans la Loi de 2019 sur la sécurité communautaire et les services policiers.
+
 9. Le chef des pompiers, au sens de la définition donnée à ce terme dans la Loi de 1997 sur la prévention et la protection contre l’incendie.
+
 10. Le médecin-hygiéniste, au sens de la définition donnée à ce terme dans la Loi sur la protection et la promotion de la santé.
+
 11. Les autres fonctionnaires ou chefs de section qui doivent être nommés en application de la présente loi ou de toute autre loi.
+
 12. Les autres personnes prescrites.
 
 ### Disposition transitoire
@@ -4330,8 +5161,11 @@ b) exercer les autres fonctions que lui assigne le président du conseil.
 ### Pouvoirs : comités
 
 226.6 Sous réserve des règlements éventuels, les pouvoirs suivants qu’a la cité à l’égard de comités prescrits ou de comités appartenant à une catégorie prescrite de comités sont conférés au président du conseil :
+
 1. Le pouvoir de créer ou de dissoudre les comités.
+
 2. Le pouvoir de nommer les présidents et vice-présidents de ces comités.
+
 3. Le pouvoir d’attribuer des fonctions aux comités.
 
 ### Priorités provinciales
@@ -4349,6 +5183,7 @@ b) exercer les autres fonctions que lui assigne le président du conseil.
 ### Définition
 
 (2) La définition qui suit s’applique au présent article.
+
 «réunion» S’entend au sens du paragraphe 189 (1).
 
 ### Pouvoirs de veto
@@ -4356,8 +5191,11 @@ b) exercer les autres fonctions que lui assigne le président du conseil.
 ### Champ d’application
 
 226.9 (1) Le présent article s’applique à l’égard des règlements municipaux pris aux termes :
+
 a) de la présente loi et des règlements, à l’exclusion de tout article prescrit;
+
 b) de la Loi sur l’aménagement du territoire et ses règlements, à l’exclusion de tout article prescrit;
+
 c) d’une autre loi prescrite ou d’un autre règlement prescrit, ou d’un article prescrit d’une loi ou d’un règlement.
 
 ### Règlement municipal à étudier
@@ -4371,11 +5209,17 @@ c) d’une autre loi prescrite ou d’un autre règlement prescrit, ou d’un ar
 ### Entrée en vigueur des règlements municipaux
 
 (4) Malgré toute autre loi, le règlement municipal auquel s’applique le présent article est réputé ne pas avoir été adopté par le conseil municipal :
+
 a) si l’avis n’a pas été remis en application du paragraphe (3), jusqu’à la première en date des éventualités suivantes :
+
 (i) la date de remise à la cité, par le président du conseil, d’une approbation écrite du règlement municipal,
+
 (ii) deux jours après la date à laquelle le conseil municipal a voté en faveur du règlement municipal ou l’expiration du délai prescrit, le cas échéant;
+
 b) si l’avis a été remis en application du paragraphe (3), jusqu’à la première en date des éventualités suivantes :
+
 (i) la date de remise à la cité, par le président du conseil, d’une approbation écrite du règlement municipal,
+
 (ii) l’expiration d’un délai de 14 jours, ou d’un autre délai prescrit, suivant la date à laquelle le conseil municipal a voté en faveur du règlement municipal.
 
 ### Pouvoirs de veto
@@ -4389,7 +5233,9 @@ b) si l’avis a été remis en application du paragraphe (3), jusqu’à la pre
 ### Fonctions du secrétaire
 
 (7) Si le président du conseil oppose son veto à un règlement municipal, le secrétaire :
+
 a) remet, au plus tard le prochain jour ouvrable après réception du document écrit constatant le veto aux termes du paragraphe (5), à chaque membre du conseil municipal, autre que le président du conseil, une copie de ce document;
+
 b) met le document écrit constatant le veto à la disposition du public conformément aux règlements éventuels.
 
 ### Effet du veto
@@ -4415,8 +5261,11 @@ b) met le document écrit constatant le veto à la disposition du public conform
 ### Pouvoirs : règlements municipaux
 
 226.9.1 (1) Le présent article s’applique à l’égard des règlements municipaux pris aux termes :
+
 a) de la présente loi et des règlements, à l’exclusion de tout article prescrit;
+
 b) de la Loi sur l’aménagement du territoire et de ses règlements, à l’exclusion de tout article prescrit;
+
 c) d’une autre loi prescrite ou d’un autre règlement prescrit, ou d’un article prescrit d’une loi ou d’un règlement.
 
 ### Procédure
@@ -4426,7 +5275,9 @@ c) d’une autre loi prescrite ou d’un autre règlement prescrit, ou d’un ar
 ### Idem
 
 (3) Conformément aux règlements, le président du conseil remet au secrétaire et à chaque membre du conseil municipal :
+
 a) une copie de tout règlement municipal proposé en vertu du paragraphe (2);
+
 b) les motifs à l’appui de sa proposition.
 
 ### Plus d’un tiers des voix requis
@@ -4444,24 +5295,35 @@ b) les motifs à l’appui de sa proposition.
 ### Règles applicables en cas de vacance
 
 (2) Sous réserve du paragraphe (3) et des règlements éventuels, les règles suivantes s’appliquent en cas de vacance de la charge de président du conseil :
+
 1. Dans les 60 jours qui suivent celui où une déclaration de vacance est faite en application de l’article 207 à l’égard d’une vacance, la cité adopte un règlement municipal exigeant la tenue d’une élection partielle pour combler la vacance.
+
 2. Malgré la disposition 1, si un tribunal déclare la charge de président du conseil vacante, la cité prend les mesures prévues au paragraphe (1) dans les 60 jours qui suivent la déclaration du tribunal.
+
 3. Malgré le paragraphe (1), s’il survient une vacance dans les 90 jours qui précèdent le jour du scrutin fixé pour les élections ordinaires, la cité n’est pas tenue de combler la vacance.
 
 ### Vacance postérieure au 31 mars d’une année d’élections ordinaires
 
 (3) Sous réserve des règlements éventuels, s’il survient une vacance de la charge de président du conseil après le 31 mars d’une année d’élections ordinaires :
+
 a) d’une part, dans le délai de 60 jours qui suit le jour où une déclaration de vacance est faite en application de l’article 207 à l’égard de la vacance en question, la cité comble la vacance en nommant une personne qui a consenti à accepter la charge si elle est nommée;
+
 b) d’autre part, pour la durée restante du mandat du président du conseil nommé en application de l’alinéa a) :
+
 (i) le président du conseil nommé en application de l’alinéa a) ne doit pas exercer les pouvoirs ou fonctions prévus à la présente partie,
+
 (ii) les pouvoirs et fonctions prescrits du président du conseil prévus à la présente partie sont attribués à la cité.
 
 ### Délégation
 
 226.11 (1) Sous réserve des restrictions prescrites, le cas échéant, le président du conseil peut déléguer les pouvoirs et fonctions qui lui sont conférés en vertu des articles suivants :
+
 1. L’article 226.3 (directeur général).
+
 2. L’article 226.4 (structure organisationnelle).
+
 3. L’article 226.5 (conseils locaux).
+
 4. L’article 226.6 (comités).
 
 ### Idem
@@ -4475,8 +5337,11 @@ b) d’autre part, pour la durée restante du mandat du président du conseil no
 ### Disposition transitoire
 
 226.13 (1) La personne qui occupait un des postes suivants immédiatement avant le jour de l’entrée en vigueur de l’article 2 de l’annexe 1 de la Loi de 2022 pour des maires forts et pour la construction de logements demeure à ce poste, sauf si elle est congédiée ou que sa nomination est révoquée, selon le cas, par le président du conseil :
+
 1. Directeur général.
+
 2. Président ou vice-président d’un conseil local.
+
 3. Président ou vice-président d’un comité.
 
 ### Idem
@@ -4514,17 +5379,29 @@ b) d’autre part, pour la durée restante du mandat du président du conseil no
 ### Règlements
 
 226.15 (1) Pour l’application de la présente partie, le ministre peut, par règlement, notamment :
+
 a) exiger que le président du conseil mette des renseignements et des documents à la disposition du conseil municipal, du public et d’autres personnes ou catégories de personnes, et prescrire ces renseignements et documents;
+
 b) traiter de la forme, de la manière et de l’échéancier selon lesquels les renseignements et les documents doivent être mis à la disposition du conseil municipal, du public ou d’autres personnes ou catégories de personnes;
+
 c) traiter des procédures et des règles que le président du conseil, le conseil municipal et le secrétaire doivent suivre relativement à la présente partie;
+
 d) traiter des pouvoirs conférés au président du conseil à l’égard des comités, pour l’application de l’article 226.6;
+
 e) régir les élections partielles à l’égard de la charge de président du conseil pour l’application de l’article 226.10;
+
 f) traiter des procédures, règles et autres questions se rapportant à une vacance à combler au poste de président du conseil;
+
 g) traiter des questions transitoires se rapportant à la mise en oeuvre de la présente partie, selon ce qu’il estime nécessaire ou souhaitable;
+
 h) définir, pour l’application de la présente partie et des règlements pris en vertu de la présente partie, tout terme ou toute expression non définis à l’article 3 de la présente loi et, ce faisant, peut les définir différemment pour différentes dispositions;
+
 i) traiter de l’utilisation des pouvoirs et l’exercice des fonctions que prévoit la présente partie, notamment traiter des conditions et des restrictions relatives à leur utilisation et exercice;
+
 j) prévoir que le président du conseil ne peut pas utiliser un pouvoir ou exercer une fonction, attribuer ces pouvoirs et fonctions à un conseil municipal et prescrire des procédures, règles et autres questions se rapportant à de telles circonstances;
+
 k) prescrire les dispositions de la Loi ou d’une autre loi qui s’appliquent ou qui ne s’appliquent pas dans le cadre de la présente partie et prévoir les adaptations de ces dispositions que le ministre estime appropriées;
+
 l) prescrire les délais et les dates pour l’application de la présente partie.
 
 ### Idem
@@ -4534,8 +5411,11 @@ l) prescrire les délais et les dates pour l’application de la présente parti
 ### Règlements : budget
 
 (3) Pour l’application de l’article 226.14, le ministre peut, par règlement :
+
 a) traiter des pouvoirs et fonctions du président du conseil et du conseil municipal à l’égard de la préparation et de l’adoption d’un budget;
+
 b) traiter des procédures, règles et autres questions se rapportant à la préparation et à l’adoption d’un budget;
+
 c) prévoir les circonstances dans lesquelles le budget est réputé adopté.
 
 ### Effet rétroactif
@@ -4559,8 +5439,11 @@ c) prévoir les circonstances dans lesquelles le budget est réputé adopté.
 ### Budget annuel
 
 228 (1) Pour chaque année, la cité prépare et adopte, cette année-là ou l’année précédente, un budget dans lequel figurent les prévisions des sommes nécessaires au cours de l’année à ses fins, y compris les sommes suivantes :
+
 a) les sommes suffisantes pour rembourser la totalité de ses dettes qui viennent à échéance au cours de l’année;
+
 b) les sommes à recueillir pour les fonds d’amortissement ou de remboursement;
+
 c) les sommes nécessaires pour les conseils, commissions ou autres organismes.
 
 ### Exception
@@ -4570,31 +5453,49 @@ c) les sommes nécessaires pour les conseils, commissions ou autres organismes.
 ### Modalités de présentation
 
 (3) Le budget indique les sommes suivantes :
+
 1. Les recettes prévues, y compris la somme que la cité a l’intention de recueillir au moyen de l’impôt général local sur tous les biens imposables qui y sont situés et celle qu’elle a l’intention de recueillir au moyen d’un impôt extraordinaire local sur une partie seulement de ces biens en application de l’article 277.
+
 2. La partie estimative des recettes prévues visées à la disposition 1 qui, le cas échéant, sera versée aux fonds de réserve, d’amortissement et de remboursement de la cité.
+
 3. Les dépenses prévues, sous réserve de tout règlement pris en application de l’alinéa 241 (2) a).
+
 4. La partie estimative des dépenses prévues visées à la disposition 3 qui, le cas échéant, sera prélevée sur les fonds de réserve, d’amortissement et de remboursement de la cité.
 
 ### Redressement des fonds de réserve
 
 (4) Le total calculé en application de la disposition 1 est au moins égal à celui calculé en application de la disposition 2 :
+
 1. La somme visée à la disposition 1 du paragraphe (3), ajoutée à celle visée à la disposition 4 du même paragraphe.
+
 2. La somme visée à la disposition 2 du paragraphe (3), ajoutée à celle visée à la disposition 3 du même paragraphe.
 
 ### Rajustements
 
 (5) Lorsqu’elle prépare le budget d’une année, la cité :
+
 a) ne doit pas inclure les produits prévus des emprunts effectués au cours de l’année dans les recettes prévues visées à la disposition 1 du paragraphe (3);
+
 b) traite comme des recettes prévues tout excédent d’une année antérieure qui est survenu parce que, selon le cas :
+
 (i) les recettes de cette année étaient supérieures à la somme visée à la disposition 1 du paragraphe (3) pour cette même année,
+
 (ii) les dépenses de cette année étaient inférieures à la somme visée à la disposition 3 du paragraphe (3) pour cette même année;
+
 c) tient compte de tout déficit d’une année antérieure qui est survenu parce que, selon le cas :
+
 (i) les recettes de cette année étaient inférieures à la somme calculée en déduisant, pour cette même année, la somme visée à la disposition 2 du paragraphe (3) de celle visée à la disposition 1 de ce paragraphe,
+
 (ii) elle a engagé des dépenses qui ne figuraient pas dans le budget de cette année et qui n’ont pas été prélevées, pour cette même année, sur un fonds de réserve, d’amortissement ou de remboursement;
+
 d) tient compte du coût du recouvrement des impôts ainsi que des abattements ou remises d’impôts;
+
 e) tient compte des impôts et autres recettes qui sont irrécouvrables de l’avis du trésorier et auxquels il n’a pas été pourvu antérieurement;
+
 f) peut tenir compte des impôts et autres recettes qu’elle prévoit de ne pas recouvrer pendant l’année;
+
 g) peut prévoir les fonds de réserve qu’elle estime nécessaires.
+
 (6) Abrogé : 2017, chap. 10, annexe 2, art. 29.
 
 ### Budget annuel des conseils
@@ -4604,7 +5505,9 @@ g) peut prévoir les fonds de réserve qu’elle estime nécessaires.
 ### Définitions
 
 (8) Les définitions qui suivent s’appliquent au présent article.
+
 «fonds de réserve» S’entend notamment des réserves. («reserve fund»)
+
 «impôts» S’entend des impôts fixés en vertu de n’importe quelle partie de la présente loi. («taxes») 2009, chap. 18, annexe 4, art. 1.
 
 ### Budget pluriannuel
@@ -4622,8 +5525,11 @@ g) peut prévoir les fonds de réserve qu’elle estime nécessaires.
 ### Autres années : examen obligatoire du budget annuel
 
 (4) Pour la deuxième année et chacune des années suivantes auxquelles s’applique le budget pluriannuel, la cité fait ce qui suit au cours de l’année ou l’année précédente :
+
 a) elle examine le budget de cette année;
+
 b) elle apporte les modifications nécessaires afin de rendre les dispositions du budget de cette année conformes aux exigences de l’article 228, à l’exclusion de l’alinéa 228 (5) b);
+
 c) elle adopte de nouveau le budget de cette année et des années suivantes auxquelles s’applique le budget.
 
 ### Exception
@@ -4633,7 +5539,9 @@ c) elle adopte de nouveau le budget de cette année et des années suivantes aux
 ### Aucune incidence sur les pouvoirs et fonctions
 
 (6) Le présent article n’a pas pour effet :
+
 a) soit de limiter le pouvoir qu’a la cité de modifier ou de révoquer un budget adopté ou adopté de nouveau en application du présent article;
+
 b) soit de dispenser la cité de l’obligation de prélever les impôts au cours de chaque année.
 
 ### Budget réputé adopté
@@ -4705,7 +5613,9 @@ b) soit de dispenser la cité de l’obligation de prélever les impôts au cour
 ### Présence aux réunions
 
 (4) Le vérificateur peut assister aux réunions des membres du conseil municipal ou d’un conseil local de la cité et a le droit :
+
 a) de recevoir les avis de convocation de ces réunions auxquels les membres ont droit;
+
 b) de présenter, lors des réunions, des observations au sujet de toute question qui l’intéresse en sa qualité de vérificateur.
 
 ### Dispositions générales
@@ -4717,6 +5627,7 @@ b) de présenter, lors des réunions, des observations au sujet de toute questio
 ### Renseignements sur le fonctionnement de la cité
 
 237 (1) La définition qui suit s’applique au présent article.
+
 «conseil local (définition élargie)» S’entend en outre d’un office de protection de la nature et de tout autre organisme qui exerce une fonction publique et que désigne le ministre des Affaires municipales et du Logement.
 
 ### Renseignements à fournir
@@ -4734,6 +5645,7 @@ b) de présenter, lors des réunions, des observations au sujet de toute questio
 ### Aide financière
 
 238 (1) La définition qui suit s’applique au présent article.
+
 «conseil local (définition élargie)» S’entend en outre d’un conseil scolaire, d’un office de protection de la nature et de tout autre organisme qui exerce une fonction publique prescrite.
 
 ### Subventions et prêts
@@ -4753,14 +5665,19 @@ b) de présenter, lors des réunions, des observations au sujet de toute questio
 ### Règlements : modification des exigences en matière d’information financière
 
 241 (1) Si des modifications apportées aux exigences en matière d’information financière de la cité ou d’un de ses conseils locaux ont une incidence sur l’excédent ou le déficit de la cité ou du conseil local, le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) inclure progressivement les modifications dans les budgets de la cité ou du conseil local sur plusieurs années ou autoriser la cité ou le conseil local à le faire;
+
 b) régir l’inclusion progressive.
 
 ### Règlements : budgets
 
 (2) Le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) prescrire les genres de dépenses que la cité ou un conseil local peut exclure des dépenses prévues visées à la disposition 3 du paragraphe 228 (3);
+
 b) prescrire les conditions à remplir avant que la cité ou un conseil local puisse exclure des dépenses prévues les genres de dépenses prescrits en vertu de l’alinéa a);
+
 c) prescrire une date pour l’application du paragraphe (4).
 
 ### Effet rétroactif
@@ -4774,12 +5691,19 @@ c) prescrire une date pour l’application du paragraphe (4).
 ### Règlements : fonds de réserve
 
 242 Le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) exiger que la cité constitue un fonds de réserve affecté aux dettes prescrites qu’elle a contractées, mais qui ne sont pas exigibles avant un certain nombre d’années;
+
 b) définir en quoi consistent les dettes de la cité pour l’application de l’alinéa a);
+
 c) exiger que la cité verse des sommes au fonds de réserve afin de financer tout ou partie d’une dette prescrite, aux moments et de la manière prescrits;
+
 d) interdire à la cité de changer l’affectation du fonds de réserve;
+
 e) prescrire les conditions dans lesquelles et les fins auxquelles la cité peut :
+
 (i) d’une part, modifier l’affectation de tout ou partie du fonds de réserve,
+
 (ii) d’autre part, emprunter des sommes d’argent sur le fonds de réserve.
 
 ### Règlements : renseignements financiers
@@ -4797,10 +5721,15 @@ e) prescrire les conditions dans lesquelles et les fins auxquelles la cité peut
 ### Activités financières autorisées
 
 245 Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à exercer les activités financières suivantes conformément aux conditions et restrictions prescrites :
+
 1. Contracter des emprunts ou placer des sommes.
+
 2. Vendre des créances.
+
 3. Constituer des dettes sans contracter d’emprunts pour le financement à long terme de travaux d’immobilisations.
+
 4. Conclure des accords financiers ou se servir d’instruments financiers afin de réduire au minimum les coûts ou les risques financiers liés à la constitution de dettes ou au placement de sommes.
+
 5. Exercer les autres activités financières prescrites.
 
 ### Emprunts autorisés
@@ -4818,6 +5747,7 @@ e) prescrire les conditions dans lesquelles et les fins auxquelles la cité peut
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «débenture» S’entend en outre d’un instrument financier pour les emprunts à long terme que la cité qualifie de débenture dans un règlement municipal d’emprunt.
 
 ### Restriction
@@ -4827,19 +5757,25 @@ e) prescrire les conditions dans lesquelles et les fins auxquelles la cité peut
 ### Affectation des sommes reçues
 
 248 (1) Les sommes que la cité reçoit de la vente de débentures ou comme produit d’autres emprunts à long terme, y compris les primes, ainsi que les revenus du placement de ces sommes ne doivent être affectés qu’à ce qui suit :
+
 a) les fins auxquelles les débentures ont été émises ou les autres emprunts à long terme ont été contractés;
+
 b) le remboursement des emprunts à court terme contractés, mais toujours impayés, relativement aux débentures ou aux autres emprunts à long terme.
 
 ### Sommes non exigées
 
 (2) Les sommes visées au paragraphe (1) que reçoit la cité et qui sont supérieures à celles exigées aux fins auxquelles les débentures ont été émises ou les autres emprunts à long terme ont été contractés, ou qui ne sont pas nécessaires à ces fins, sont affectées :
+
 a) soit au remboursement du capital ou des intérêts afférents aux débentures ou aux autres emprunts à long terme;
+
 b) soit au remboursement d’autres dépenses en immobilisations de la cité.
 
 ### Restrictions
 
 248.1 (1) Après avoir contracté une dette en vertu d’un règlement municipal et jusqu’à ce que cette dette et les intérêts y afférents aient été acquittés, la cité ne doit pas, selon le cas :
+
 a) abroger le règlement municipal visé ou celui affectant au paiement de la dette et des intérêts l’excédent de revenu qui provient de travaux financés par la dette ou des sommes d’argent d’une autre provenance;
+
 b) modifier un règlement municipal visé à l’alinéa a) afin de réduire la somme qui doit être recueillie annuellement.
 
 ### Abrogation : somme recueillie en partie
@@ -4861,7 +5797,9 @@ b) modifier un règlement municipal visé à l’alinéa a) afin de réduire la 
 ### Exception : excédent
 
 (2) Malgré le paragraphe (1), si le solde, y compris tout revenu estimatif, d’un fonds d’amortissement ou de remboursement vérifié par le vérificateur municipal est ou sera suffisant pour rembourser intégralement, à ses dates d’échéance, le capital de la dette pour laquelle le fonds a été constitué, la cité peut affecter tout excédent à l’une ou l’autre des fins suivantes, ou aux deux :
+
 1. Le remboursement du capital et des intérêts afférents à tout autre fonds d’amortissement ou de remboursement.
+
 2. Le paiement d’une dépense en immobilisations de la cité.
 
 ### Idem
@@ -4875,7 +5813,9 @@ b) modifier un règlement municipal visé à l’alinéa a) afin de réduire la 
 ### Requête en annulation
 
 (2) Sous réserve de l’article 432.0.9, si un règlement municipal est enregistré en vertu du paragraphe (1) avant la vente ou autre aliénation des débentures émises en vertu de celui-ci :
+
 a) les débentures sont valides selon les conditions qui sont stipulées dans le règlement municipal;
+
 b) le règlement municipal ne doit pas être annulé à moins qu’une requête en annulation ne soit présentée à un tribunal compétent dans les trois mois qui suivent l’enregistrement et que ne soit enregistrée dans ce délai, au bureau d’enregistrement immobilier, une copie certifiée conforme de la requête qui porte le sceau du tribunal.
 
 ### Délai
@@ -4893,8 +5833,11 @@ b) le règlement municipal ne doit pas être annulé à moins qu’une requête 
 ### Règlements municipaux illégaux
 
 (6) Le présent article n’a pas pour effet de rendre valide un règlement municipal qui n’a pas reçu l’assentiment exigé des électeurs ni celui qui n’est manifestement pas conforme pour l’essentiel à toute exigence prescrite relativement à ce qui suit :
+
 a) la durée de la dette ou des débentures émises aux fins de cette dette;
+
 b) la collecte d’un impôt à l’égard des sommes relatives au capital et aux intérêts exigibles au cours d’une année en application d’un règlement municipal autorisant l’émission de débentures;
+
 c) les versements de capital et d’intérêts exigibles en application d’un règlement municipal autorisant l’émission de débentures.
 
 ### Absence d’enregistrement
@@ -4910,10 +5853,15 @@ c) les versements de capital et d’intérêts exigibles en application d’un r
 ### Accords relatifs aux immobilisations municipales
 
 252 (1) Le présent article s’applique à l’accord que conclut la cité pour la fourniture d’immobilisations municipales par quiconque, y compris une autre municipalité, et qui prévoit un ou plusieurs des éléments suivants :
+
 1. Le paiement du loyer dans des devises étrangères selon le paragraphe (2).
+
 2. Une aide financière ou autre selon le paragraphe (3).
+
 3. Une exonération d’impôts selon le paragraphe (6).
+
 4. Une dispense des redevances d’aménagement selon le paragraphe (7).
+
 5. Une dispense des redevances relatives aux stations de transport en commun selon le paragraphe (7.1).
 
 ### Teneur des accords
@@ -4923,9 +5871,13 @@ c) les versements de capital et d’intérêts exigibles en application d’un r
 ### Aide de la cité
 
 (3) Malgré l’article 82, la cité peut fournir une aide financière ou autre, à un prix inférieur à la juste valeur marchande ou gratuitement, à quiconque a conclu un accord pour la fourniture d’immobilisations en vertu du présent article, et notamment :
+
 a) donner ou prêter des sommes d’argent et exiger des intérêts;
+
 b) donner, prêter, donner à bail ou vendre des biens;
+
 c) garantir des emprunts;
+
 d) fournir les services des employés municipaux.
 
 ### Restriction
@@ -4939,34 +5891,47 @@ d) fournir les services des employés municipaux.
 ### Exonération d’impôts
 
 (6) Malgré toute loi, la cité peut exonérer de tout ou partie des impôts prélevés aux fins municipales et scolaires tout ou partie d’un bien-fonds sur lequel des immobilisations municipales sont ou seront situées et qui remplit les conditions suivantes :
+
 a) il fait l’objet d’un accord visé au paragraphe (1);
+
 b) il appartient à une personne qui a conclu un accord pour la fourniture d’immobilisations en vertu du paragraphe (1), ou il est donné à bail à une telle personne;
+
 c) il est occupé et utilisé ou destiné à être utilisé entièrement pour un service ou une fonction que peut fournir la cité.
 
 ### Dispense des redevances d’aménagement
 
 (7) Malgré la Loi de 1997 sur les redevances d’aménagement, la cité peut dispenser du paiement de tout ou partie des redevances d’aménagement que prélève la cité en vertu de cette loi tout ou partie d’un bien-fonds sur lequel des immobilisations municipales sont ou seront situées et qui remplit les conditions suivantes :
+
 a) il fait l’objet d’un accord visé au paragraphe (1);
+
 b) il appartient à une personne qui a conclu un accord pour la fourniture d’immobilisations en vertu du paragraphe (1), ou il est donné à bail à une telle personne;
+
 c) il est occupé et utilisé ou destiné à être utilisé entièrement pour un service ou une fonction que peut fournir la cité.
 
 ### Dispense des redevances relatives aux stations de transport en commun
 
 (7.1) Malgré la Loi de 2023 sur le financement des stations du réseau GO, la cité peut dispenser du paiement de tout ou partie des redevances relatives aux stations de transports en commun qu’elle prélève en vertu de cette loi tout ou partie d’un bien-fonds sur lequel des immobilisations municipales sont ou seront situées et qui remplit les conditions suivantes :
+
 a) il fait l’objet d’un accord visé au paragraphe (1);
+
 b) il appartient à une personne qui a conclu un accord pour la fourniture d’immobilisations en vertu du paragraphe (1), ou il est donné à bail à une telle personne;
+
 c) il est occupé et utilisé ou destiné à être utilisé entièrement pour un service ou une fonction que peut fournir la cité.
 
 ### Avis de règlement municipal prévoyant une exonération d’impôts
 
 (8) Dès l’adoption d’un règlement municipal en vertu du paragraphe (6), le secrétaire municipal donne un avis écrit de sa teneur à la société et aux personnes suivantes :
+
 a) la société d’évaluation foncière;
+
 b) le secrétaire de tout conseil scolaire dont le territoire de compétence comprend le bien-fonds exonéré par le règlement.
 
 ### Cas où un accord a été conclu
 
 (9) Si une municipalité désignée comme gestionnaire de services en application de la Loi de 2011 sur les services de logement a conclu un accord visant des immobilisations résidentielles en vertu de l’article 110 de la Loi de 2001 sur les municipalités, que la cité n’a pas conclu un accord visant ces immobilisations en vertu du présent article et qu’elle comprend tout ou partie du bien-fonds sur lequel les immobilisations sont ou seront situées, la cité peut exercer le pouvoir que confèrent les paragraphes (3), (6), (7) et (7.1) en ce qui concerne le bien-fonds et les immobilisations, sauf que :
+
 a) d’une part, l’exonération d’impôts visée au paragraphe (6) ne s’applique qu’aux impôts prélevés aux fins municipales;
+
 b) d’autre part, l’alinéa (8) b) ne s’applique pas.
 
 ### Fonds de réserve
@@ -4980,22 +5945,31 @@ b) d’autre part, l’alinéa (8) b) ne s’applique pas.
 ### Exonération d’impôts par un conseil scolaire
 
 (12) Malgré toute loi, le conseil scolaire qui a compétence dans tout ou partie de la cité et qui est autorisé à conclure des accords pour la fourniture d’immobilisations scolaires par quiconque peut, par voie de résolution, exonérer de tout ou partie des impôts prélevés aux fins municipales et scolaires tout ou partie du bien-fonds sur lequel les immobilisations scolaires sont ou seront situées dans la cité et qui remplit les conditions suivantes :
+
 a) il fait l’objet d’un tel accord;
+
 b) il appartient à une personne qui a conclu un accord pour la fourniture d’immobilisations scolaires, ou il est donné à bail à une telle personne;
+
 c) il est occupé et utilisé ou destiné à être utilisé entièrement pour un service ou une fonction que peut fournir un conseil scolaire.
 
 ### Dispense des redevances d’aménagement scolaires
 
 (13) Malgré la section E de la partie IX de la Loi sur l’éducation, le conseil scolaire qui est autorisé à conclure des accords pour la fourniture d’immobilisations scolaires par quiconque peut dispenser du paiement de tout ou partie des redevances d’aménagement scolaires que prélève le conseil scolaire en vertu de cette partie tout ou partie d’un bien-fonds sur lequel des immobilisations scolaires sont ou seront situées et qui remplit les conditions suivantes :
+
 a) il fait l’objet d’un tel accord;
+
 b) il appartient à une personne qui a conclu un accord pour la fourniture d’immobilisations scolaires, ou il est donné à bail à une telle personne;
+
 c) il est occupé et utilisé ou destiné à être utilisé entièrement pour un service ou une fonction que peut fournir un conseil scolaire.
 
 ### Avis d’exonération d’impôts par le conseil scolaire
 
 (14) Dès l’adoption d’une résolution en vertu du paragraphe (12), le secrétaire du conseil scolaire donne un avis écrit de sa teneur à la société et aux personnes suivantes :
+
 a) la société d’évaluation foncière;
+
 b) le secrétaire municipal et le trésorier municipal;
+
 c) le secrétaire de tout autre conseil scolaire dont le territoire de compétence comprend le bien-fonds exonéré par la résolution.
 
 ### Restriction relative à l’exonération d’impôts
@@ -5035,7 +6009,9 @@ c) le secrétaire de tout autre conseil scolaire dont le territoire de compéten
 ### Responsabilité des membres en cas de changement d’affectation des fonds
 
 255 (1) Si, autrement que dans la mesure permise par la présente loi, le conseil affecte des sommes recueillies à une fin particulière ou perçues aux fins d’un fonds d’amortissement ou d’un fonds de remboursement, les membres qui votent pour cette affectation :
+
 a) d’une part, sont tenus personnellement responsables des sommes ainsi affectées, qui peuvent être recouvrées devant un tribunal compétent;
+
 b) d’autre part, sont inhabiles à occuper une charge municipale pendant deux ans.
 
 ### Action intentée par un contribuable
@@ -5059,8 +6035,11 @@ b) d’autre part, sont inhabiles à occuper une charge municipale pendant deux 
 ### Règlements relatifs aux activités financières
 
 256 (1) Le lieutenant-gouverneur en conseil peut, par règlement, régir les activités financières de la cité visées à l’article 245 et toutes autres activités financières de celle-ci, et notamment :
+
 a) prescrire et définir les types de placements, d’emprunts, de financements par emprunt et de ventes de créances, ainsi que les activités financières;
+
 b) prescrire et définir les accords financiers et les instruments financiers que la cité peut conclure ou émettre dans le cadre ou à l’égard de ses activités financières;
+
 c) prescrire les règles, les conditions et les modalités relatives à ses activités financières.
 
 ### Idem : ministre
@@ -5070,11 +6049,17 @@ c) prescrire les règles, les conditions et les modalités relatives à ses acti
 ### Règlements relatifs aux immobilisations municipales
 
 257 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) définir ce qui constitue des immobilisations municipales pour l’application de l’article 252;
+
 b) prescrire les immobilisations municipales admissibles qui peuvent ou non faire l’objet des accords visés au paragraphe 252 (1);
+
 c) prescrire les règles, les modalités, les conditions et les interdictions que doit observer la cité lorsqu’elle conclut des accords en vertu du paragraphe 252 (1);
+
 d) prescrire, pour l’application du paragraphe 252 (2), les devises étrangères dans lesquelles la cité peut payer le loyer dans les conditions prescrites;
+
 e) prescrire les immobilisations municipales admissibles pour lesquelles la cité peut ou non accorder des exonérations d’impôts en vertu du paragraphe 252 (6), des dispenses des redevances d’aménagement en vertu du paragraphe 252 (7) ou des dispenses des redevances relatives aux stations de transport en commun en vertu du paragraphe 252 (7.1);
+
 f) définir et prescrire les immobilisations scolaires admissibles pour lesquelles les conseils scolaires peuvent ou non accorder des exonérations d’impôts en vertu du paragraphe 252 (12) ou des dispenses des redevances d’aménagement scolaires en vertu du paragraphe 252 (13).
 
 ## partie IX droits et redevances
@@ -5082,23 +6067,33 @@ f) définir et prescrire les immobilisations scolaires admissibles pour lesquell
 ### Définitions
 
 258 Les définitions qui suivent s’appliquent à la présente partie.
+
 «conseil local (définition élargie)» S’entend en outre de tout organisme prescrit qui exerce une fonction publique ainsi que d’un conseil scolaire. Aux fins de l’adoption de règlements municipaux fixant des droits ou des redevances en vertu de la présente partie, la présente définition exclut toutefois un conseil scolaire et un conseil d’hôpital. («local board (extended definition)»)
+
 «droits ou redevances» Relativement à la cité, s’entend des droits ou redevances qu’elle fixe en vertu des articles 7 et 8 et, relativement à un conseil local (définition élargie), de ceux qu’il fixe en vertu du paragraphe 259 (1.1). («fee or charge»)
+
 «personne» S’entend en outre d’une municipalité, d’un conseil local (définition élargie) et de la Couronne. («person»)
+
 «règlement municipal» S’entend en outre d’une résolution dans le cas d’un conseil local. («by-law») 2006, chap. 11, annexe A, art. 258
 
 ### Règlements municipaux : droits et redevances
 
 259 (1) Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à fixer, par règlement municipal, des droits ou des redevances à l’égard de personnes au titre de ce qui suit :
+
 a) les services fournis ou les activités exercées par elle ou en son nom;
+
 b) les coûts payables par elle pour les services fournis ou les activités exercées par d’autres municipalités ou des conseils locaux ou en leur nom;
+
 c) l’utilisation de ses biens, y compris les biens dont elle a le contrôle.
 
 ### Conseils locaux
 
 (1.1) Les conseils locaux (définition élargie) de la cité peuvent fixer des droits ou des redevances à l’égard de personnes au titre de ce qui suit :
+
 a) les services fournis ou les activités exercées par eux ou en leur nom;
+
 b) les coûts payables par eux pour les services fournis ou les activités exercées par des municipalités ou d’autres conseils locaux (définition élargie) ou en leur nom;
+
 c) l’utilisation de leurs biens, y compris les biens dont ils ont le contrôle.
 
 ### Idem
@@ -5124,10 +6119,15 @@ c) l’utilisation de leurs biens, y compris les biens dont ils ont le contrôle
 ### Restriction : droits et redevances
 
 261 (1) Aucun règlement municipal de droits ou de redevances ne doit fixer des droits ou redevances qui sont fondés sur l’un ou l’autre des éléments suivants, qui y ont trait ou qui sont calculés en fonction de celui-ci :
+
 a) le revenu d’une personne, quelle que soit la façon dont il est gagné ou reçu, la cité ou le conseil local (définition élargie) pouvant toutefois exonérer tout ou partie d’une catégorie de personnes de la totalité ou d’une partie des droits ou des redevances pour cause d’incapacité de payer;
+
 b) l’utilisation, l’achat ou la consommation, par une personne, de biens autres que ceux qui appartiennent à la cité ou au conseil local (définition élargie) qui adopte le règlement municipal ou dont ils ont le contrôle;
+
 c) l’utilisation, la consommation ou l’achat, par une personne, d’un service autre qu’un service fourni par la cité ou le conseil local (définition élargie) qui adopte le règlement municipal ou en leur nom ou payé par eux;
+
 d) l’avantage que tire une personne d’un service autre qu’un service fourni par la cité ou le conseil local (définition élargie) qui adopte le règlement municipal ou en leur nom ou payé par eux;
+
 e) la production, l’exploitation, l’extraction, la récolte, la transformation, le renouvellement ou le transport de richesses naturelles.
 
 ### Aucune restriction
@@ -5153,22 +6153,35 @@ e) la production, l’exploitation, l’extraction, la récolte, la transformati
 ### Créances ajoutées au rôle d’imposition
 
 (2) Le trésorier municipal peut et, sur demande d’un conseil local (définition élargie) dont le territoire de compétence s’étend à une partie de la cité, doit ajouter les droits et les redevances fixés par la cité ou le conseil local (définition élargie), selon le cas, au rôle d’imposition à l’égard des biens suivants situés dans la cité et les percevoir de la même manière que les impôts municipaux :
+
 1. Dans le cas des droits et des redevances fixés pour la fourniture de services ou de choses à des biens, les biens auxquels les services ou les choses ont été fournis.
+
 2. Dans les autres cas, les biens pour lesquels tous les propriétaires sont tenus de payer les droits et les redevances.
+
 265 Abrogé : 2017, chap. 23, annexe 5, art. 15.
 
 ### Règlements : droits et redevances
 
 266 Le ministre des Affaires municipales et du Logement peut, par règlement, prévoir les questions qui, à son avis, sont nécessaires ou souhaitables pour l’application de la présente partie, notamment :
+
 a) prévoir que la cité ou ses conseils locaux (définition élargie) n’ont pas le pouvoir de fixer des droits ou des redevances à l’égard des services ou des activités, des coûts payables à l’égard de services ou d’activités, de l’utilisation des biens municipaux ou des personnes prescrits dans le règlement;
+
 b) assujettir à des conditions et à des restrictions les pouvoirs de la cité ou de ses conseils locaux (définition élargie) de fixer des droits ou des redevances;
+
 c) prévoir qu’un organisme est un conseil local (définition élargie) pour l’application de la présente partie;
+
 d) prévoir que les droits ou redevances d’une catégorie prescrite qui sont ajoutés au rôle d’imposition en application du paragraphe 264 (2) ont le statut de privilège prioritaire et désigner tout ou partie de ces droits ou redevances comme se rapportant à un aménagement local;
+
 e) prévoir que les droits ou redevances qui ont le statut de privilège prioritaire en application de l’alinéa d) sont exigibles à l’égard des biens qui sont exonérés d’impôts en vertu de l’article 3 de la Loi sur l’évaluation foncière ;
+
 f) exiger que la cité ou ses conseils locaux (définition élargie) donnent, aux personnes, de la manière, sous la forme et aux moments prescrits, l’avis prescrit de leur intention d’adopter un règlement municipal fixant les droits et redevances qui ont le statut de privilège prioritaire en application de l’alinéa d);
+
 g) prévoir une procédure d’appel d’un règlement municipal dans la mesure où il impose les droits ou redevances qui ont le statut de privilège prioritaire en application de l’alinéa d) et prévoir que l’appel peut viser l’ensemble du règlement municipal ou les aspects de celui-ci que précise le règlement;
+
 h) prévoir les pouvoirs que peut exercer la personne ou l’organisme qui entend l’appel visé à l’alinéa g);
+
 i) prévoir des règles permettant de déterminer à quel moment un règlement municipal porté en appel en vertu de l’alinéa g) entre en vigueur, y compris une date rétroactive qui ne peut être antérieure au jour de son adoption, ou autoriser la personne ou l’organisme qui entend l’appel à le faire;
+
 j) sans préjudice de la portée générale des alinéas a) à i), prévoir toute question prévue dans la Loi sur les aménagements locaux, telle qu’elle existait immédiatement avant son abrogation le 1 er janvier 2003, y compris les délégations de pouvoirs.
 
 ## partie X pouvoir de fixer des impôts
@@ -5180,50 +6193,87 @@ j) sans préjudice de la portée générale des alinéas a) à i), prévoir tout
 ### Exclusions : genres d’impôts
 
 (2) La cité n’est pas autorisée à fixer les impôts suivants :
+
 1. Un impôt prélevé auprès de personnes à l’égard de leur revenu, de leurs recettes, de leurs bénéfices, de leurs encaissements ou de sommes semblables.
+
 2. Un impôt prélevé auprès de personnes à l’égard de leur capital versé, de leurs réserves, de leurs bénéfices non répartis, de leur surplus d’apport ou autre ou de leurs éléments de passif, ou à l’égard de sommes semblables.
+
 3. Un impôt prélevé auprès de personnes à l’égard des machines et du matériel utilisés dans le cadre d’activités de recherche et de développement ou de fabrication et de transformation et à l’égard de tout élément d’actif servant à accroître la productivité, notamment le matériel et les logiciels informatiques.
+
 4. Un impôt prélevé auprès de personnes à l’égard de la rémunération, même non monétaire, qu’elles versent ou octroient ou qu’elles doivent verser ou octroyer pour des services.
+
 5. Une taxe de vente prélevée auprès de personnes à l’occasion de l’acquisition ou de l’achat d’un bien meuble corporel, d’un service ou d’un bien incorporel, sauf une taxe frappant ce qui suit :
+
 i. l’achat d’une entrée dans un lieu de divertissement au sens de la Loi sur la taxe de vente au détail,
+
 ii. l’achat, pour consommation ou usage, de boissons alcoolisées au sens du paragraphe 1 (1) de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools,
+
 iii. la fabrication par ces personnes de bière ou de vin, au sens du paragraphe 1 (1) de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools, dans un centre de fermentation libre-service au sens du paragraphe 1 (1) de cette loi, pour consommation ou usage,
+
 iv. l’achat, pour consommation ou usage, de tabac au sens de l’article 1 de la Loi de la taxe sur le tabac.
+
 v. l’achat d’hébergement temporaire.
+
 6. Abrogée : 2017, chap. 8, annexe 4, par. 4 (3).
+
 7. Une taxe prélevée auprès de personnes à l’égard de l’acquisition de tout gaz ou liquide qui peut être utilisé pour produire de l’énergie par combustion interne et de tout produit spécial ou toute substance qui peut y être additionné.
+
 8. Une taxe prélevée auprès de personnes à l’égard de l’énergie, notamment l’électricité, qu’elles consomment ou qu’elles utilisent.
+
 9. Un impôt sur la fortune d’une personne, y compris des droits de succession et un impôt à l’égard de ce qui suit :
+
 i. la valeur totale des biens ou celle de deux catégories de biens ou plus qui lui appartiennent,
+
 ii. ses liquidités et ses instruments financiers.
+
 10. Un impôt par tête prélevé auprès de particuliers pour le seul motif qu’ils sont présents ou résident dans la cité ou une partie de celle-ci.
+
 11. Un impôt sur la production, l’exploitation, l’extraction, la récolte, la transformation, le renouvellement ou le transport de richesses naturelles.
+
 12. Une taxe sur l’approvisionnement en gaz naturel ou synthétique.
+
 13. Une taxe prélevée auprès de personnes qui utilisent une voie publique, au sens du paragraphe 1 (1) du Code de la route, à l’égard de matériel placé sous ou sur la voie publique, ou au-dessus de celle-ci, pour fournir un service au public.
+
 14. Une taxe prélevée auprès de particuliers à l’égard de la délivrance ou de la validation d’un certificat d’immatriculation en vertu du Code de la route pour un véhicule automobile appartenant à l’une des catégories suivantes, au sens de cette loi, à l’égard desquelles un certificat d’immatriculation peut être délivré ou validé en vertu de cette loi :
+
 i. Les voitures particulières.
+
 ii. Les motocyclettes.
+
 iii. Les cyclomoteurs.
+
 iv. Les véhicules utilitaires, à l’exclusion des autobus, dont le poids brut est d’au plus 3 000 kilogrammes et qui sont principalement utilisés à des fins personnelles.
 
 ### Exigences
 
 (3) Les règlements municipaux visés au paragraphe (1) doivent satisfaire aux critères suivants :
+
 1. Ils doivent indiquer l’objet des impôts qui doivent être prélevés.
+
 2. Ils doivent indiquer le taux des impôts ou le montant d’impôt payable.
+
 3. Ils doivent indiquer le mode de perception des impôts, y compris la désignation des personnes ou entités qui sont autorisées à les percevoir à titre de mandataires de la cité et les obligations de perception de celles qui sont tenues de percevoir la taxe aux termes du paragraphe (5).
 
 ### Autres éléments
 
 (4) Les règlements municipaux visés au paragraphe (1) peuvent prévoir ce qui suit :
+
 a) des exonérations d’impôt;
+
 b) des remises d’impôt;
+
 c) des pénalités en cas d’inobservation;
+
 d) des intérêts sur les impôts ou les pénalités impayés;
+
 e) l’établissement d’une cotisation à l’égard des impôts, des pénalités et des intérêts impayés;
+
 f) des pouvoirs de vérification et d’inspection;
+
 g) la mise en oeuvre et l’utilisation de mécanismes de règlement des différends;
+
 h) la mise en oeuvre et l’utilisation des mesures d’exécution que le conseil municipal estime appropriées si un montant d’impôts, de pénalités ou d’intérêts faisant l’objet d’une cotisation reste impayé après sa date d’échéance, notamment la saisie-arrêt, la saisie et la vente de biens ainsi que la création et l’enregistrement de privilèges;
+
 i) les autres questions que le conseil municipal estime appropriées.
 
 ### Perception des impôts prévue par règlement municipal
@@ -5237,11 +6287,17 @@ i) les autres questions que le conseil municipal estime appropriées.
 ### Personnes et entités non assujetties aux impôts
 
 268 La cité n’est pas autorisée à prélever des impôts en vertu de l’article 267 auprès des personnes et entités suivantes :
+
 1. La Couronne, les organismes de la Couronne du chef de l’Ontario, ainsi que les offices, conseils, commissions, personnes morales, bureaux ou organisations de personnes dont la majorité des administrateurs, des membres ou des dirigeants sont nommés ou choisis par le lieutenant-gouverneur en conseil ou par un membre du Conseil exécutif, ou sous leur autorité.
+
 2. Les conseils au sens du paragraphe 1 (1) de la Loi sur l’éducation.
+
 3. Les universités de l’Ontario ainsi que les collèges d’arts appliqués et de technologie et les établissements postsecondaires, qu’ils soient affiliés ou non à une université, dont l’effectif entre dans le calcul des subventions de fonctionnement annuelles qu’ils ont le droit de recevoir de la Couronne.
+
 4. Les hôpitaux mentionnés sur la liste des hôpitaux et de leurs classes et catégories que tient le ministre de la Santé et des Soins de longue durée aux termes de la Loi sur les hôpitaux publics et les hôpitaux privés exploités aux termes d’un permis délivré en vertu de la Loi sur les hôpitaux privés.
+
 5. Les foyers de soins de longue durée au sens du paragraphe 2 (1) de la Loi de 2021 sur le redressement des soins de longue durée.
+
 6. Les autres personnes et entités prescrites.
 
 ### Effet : partie XI
@@ -5271,10 +6327,15 @@ i) les autres questions que le conseil municipal estime appropriées.
 ### Règlements : pouvoir de fixer des impôts
 
 272 Sur la recommandation du ministre des Finances, le lieutenant-gouverneur en conseil peut, par règlement, prévoir les questions qui, à son avis, sont nécessaires ou souhaitables pour l’application de la présente partie, notamment :
+
 a) prescrire des conditions et des restrictions quant au pouvoir de fixer des impôts par règlement municipal adopté en vertu du paragraphe 267 (1);
+
 b) régir la perception des impôts fixés en vertu de la présente partie;
+
 c) prescrire, pour l’application de la disposition 6 de l’article 268, des personnes et des entités qui ne sont pas assujetties aux impôts fixés en vertu de l’article 267;
+
 d) définir tout terme employé dans la présente partie;
+
 e) régir le partage, entre la cité et une ou plusieurs entités sans but lucratif, des recettes provenant d’une taxe sur l’hébergement temporaire qui doivent être consacrées exclusivement à la promotion, par ces entités, du tourisme en Ontario ou dans la cité.
 
 ## partie XI Impôts municipaux traditionnels
@@ -5282,21 +6343,37 @@ e) régir le partage, entre la cité et une ou plusieurs entités sans but lucra
 ### Définitions
 
 273 Les définitions qui suivent s’appliquent à la présente partie.
+
 «catégorie de biens» Catégorie de biens immeubles prescrite en application de la Loi sur l’évaluation foncière. («property class»)
+
 «catégorie des biens commerciaux» La catégorie de biens prescrite comme telle en application de la Loi sur l’évaluation foncière. («commercial property class»)
+
 «catégorie des biens résidentiels» La catégorie de biens prescrite comme telle en application de la Loi sur l’évaluation foncière. («residential property class»)
+
 «conseil scolaire» Conseil au sens du paragraphe 1 (1) de la Loi sur l’éducation. («school board»)
+
 «évaluation» L’évaluation des biens immeubles effectuée en vertu de la Loi sur l’évaluation foncière conformément au rôle d’évaluation déposé le plus récemment. («assessment»)
+
 «paiement tenant lieu d’impôts» Montant mentionné à la sous-disposition 24 iii du paragraphe 3 (1) de la Loi sur l’évaluation foncière, impôts prélevés aux fins municipales et scolaires et payables par un service public d’électricité désigné au sens de l’article 19.0.1 de la Loi sur l’évaluation foncière ou par une personne morale visée à l’alinéa d) de la définition de «service municipal d’électricité» à l’article 88 de la Loi de 1998 sur l’électricité ou somme que la cité reçoit en vertu, selon le cas :
+
 a) du paragraphe 27 (3) ou de l’article 27.1 ou 27.2 de la Loi sur l’évaluation foncière ;
+
 b) de l’article 285 et du paragraphe 286 (4) de la présente loi;
+
 c) de l’article 4 de la Loi sur les subventions tenant lieu d’impôt aux municipalités ;
+
 d) de l’article 71 de la Loi sur les ressources en eau de l’Ontario ;
+
 e) de l’article 84 de la Loi de 1998 sur l’électricité ;
+
 f) Abrogé : 2006, chap. 32, annexe B, art. 58.
+
 g) de la Loi sur les paiements versés en remplacement d’impôt s (Canada);
+
 h) d’une loi de l’Ontario ou du Canada ou d’un accord aux termes desquels le paiement provient d’un gouvernement ou d’un organisme d’un gouvernement et tient lieu d’impôts fonciers, à l’exclusion toutefois d’un versement visé à l’article 336. («payment in lieu of taxes»)
+
 «réévaluation générale» La mise à jour des évaluations d’une année visée par une nouvelle date d’évaluation prévue au paragraphe 19.2 (1) de la Loi sur l’évaluation foncière. («general reassessment»)
+
 «taux d’imposition» ou «taux de l’impôt» Taux d’imposition qui est appliqué à des biens et qui est exprimé en pourcentage, à six décimales près, de leur évaluation. («tax rate») 2006, chap. 11, annexe A, art. 273
 
 ### Impôts prélevés de façon égale
@@ -5306,7 +6383,9 @@ h) d’une loi de l’Ontario ou du Canada ou d’un accord aux termes desquels 
 ### Coefficients d’impôt
 
 (2) Sauf disposition expresse contraire, si la présente loi, une autre loi ou un règlement municipal adopté en vertu d’une loi exige ou autorise, expressément ou implicitement, le prélèvement d’impôts, de droits ou de redevances sur les biens imposables de la cité aux fins municipales :
+
 a) d’une part, ces impôts, droits ou redevances sont calculés en pourcentage de l’évaluation des biens immeubles de chaque catégorie de biens;
+
 b) d’autre part, le rapport entre les taux d’imposition est le même que celui qui existe entre les coefficients d’impôt applicables aux catégories de biens qui sont fixés en application de l’article 275 et il en est de même pour les taux applicables aux droits ou redevances.
 
 ### Impôts réputés exigibles le 1 er janvier
@@ -5318,8 +6397,11 @@ b) d’autre part, le rapport entre les taux d’imposition est le même que cel
 ### Définitions
 
 275 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «catégorie de biens facultative» Catégorie de biens dont le conseil municipal peut choisir qu’elle s’applique dans le territoire de la cité en application des règlements pris en application de la Loi sur l’évaluation foncière. («optional property class»)
+
 «catégories commerciales» La catégorie des biens commerciaux prescrite en application de la Loi sur l’évaluation foncière et toute catégorie de biens facultative qui comprend des biens qui, si le conseil municipal n’avait pas choisi qu’elle s’applique, appartiendraient à cette catégorie. («commercial classes»)
+
 «catégories industrielles» La catégorie des biens industriels prescrite en application de la Loi sur l’évaluation foncière et toute catégorie de biens facultative qui comprend des biens qui, si le conseil municipal n’avait pas choisi qu’elle s’applique, appartiendraient à cette catégorie. («industrial classes») 2006, chap. 11, annexe A, par. 275 (1).
 
 ### Coefficients d’impôt
@@ -5345,53 +6427,77 @@ b) d’autre part, le rapport entre les taux d’imposition est le même que cel
 ### Exception
 
 (7) Malgré le paragraphe (6), le coefficient d’impôt applicable à une catégorie de biens qui est fixé pour la cité peut se situer à l’extérieur de la fourchette autorisée dans les circonstances suivantes :
+
 1. Pour la première année où la catégorie de biens s’applique à l’égard de la cité, il peut être :
+
 i. soit supérieur à la fourchette s’il est égal ou inférieur au coefficient de transition, prescrit ou fixé conformément aux règlements, qui est applicable à la catégorie dans la cité,
+
 ii. soit inférieur à la fourchette s’il est égal ou supérieur au coefficient de transition, prescrit ou fixé conformément aux règlements, qui est applicable à la catégorie dans la cité.
+
 2. Pour une année ultérieure, il peut être :
+
 i. soit supérieur à la fourchette s’il est égal ou inférieur au coefficient d’impôt applicable à la catégorie pour l’année précédente,
+
 ii. soit inférieur à la fourchette s’il est égal ou supérieur au coefficient d’impôt applicable à la catégorie pour l’année précédente.
 
 ### Exception : nouvelle évaluation
 
 (8) Malgré les paragraphes (6) et (7), le ministre des Finances peut prescrire, pour la cité, un nouveau coefficient de transition, y compris le coefficient de transition moyen, applicable à une année d’imposition ou à toute année d’imposition antérieure pour une catégorie de biens, et :
+
 a) pour la première année à l’égard de laquelle le coefficient de transition est prescrit, le coefficient d’impôt peut être :
+
 (i) soit supérieur à la fourchette autorisée s’il est égal ou inférieur au coefficient de transition, prescrit ou fixé conformément aux règlements, qui est applicable à la catégorie dans la cité,
+
 (ii) soit inférieur à la fourchette autorisée s’il est égal ou supérieur au coefficient de transition, prescrit ou fixé conformément aux règlements, qui est applicable à la catégorie dans la cité;
+
 b) pour une année ultérieure, le coefficient d’impôt peut être :
+
 (i) soit supérieur à la fourchette autorisée s’il est égal ou inférieur au coefficient d’impôt applicable à la catégorie pour l’année précédente,
+
 (ii) soit inférieur à la fourchette autorisée s’il est égal ou supérieur au coefficient d’impôt applicable à la catégorie pour l’année précédente.
 
 ### Coefficients de transition moyens
 
 (9) Sont prévus pour la cité un coefficient de transition moyen pour les catégories commerciales et un coefficient de transition moyen pour les catégories industrielles, fixés conformément aux règles suivantes :
+
 1. Pour la première année où une catégorie de biens facultative s’applique ou, sous réserve du paragraphe (15) ou (16), cesse de s’appliquer dans la cité, le coefficient de transition moyen est celui qui est prescrit ou fixé conformément aux règlements.
+
 2. Pour une année ultérieure, le coefficient de transition moyen correspond à la moyenne pondérée, pour l’année précédente, des coefficients d’impôt applicables aux catégories de biens qu’il vise.
 
 ### Règle spéciale : catégories commerciales
 
 (10) Le coefficient d’impôt applicable à une catégorie de biens qui est une des catégories commerciales peut être supérieur à celui que permettrait le paragraphe (6), (7) ou (8) si les conditions suivantes sont réunies :
+
 1. Le coefficient d’impôt est égal ou inférieur au coefficient de transition moyen applicable aux catégories commerciales pour l’année.
+
 2. La moyenne pondérée, pour l’année, des coefficients d’impôt applicables aux catégories commerciales n’est pas supérieure au coefficient de transition moyen applicable aux catégories commerciales pour l’année.
 
 ### Règle spéciale : catégories industrielles
 
 (11) Le coefficient d’impôt applicable à une catégorie de biens qui est une des catégories industrielles peut être supérieur à celui que permettrait le paragraphe (6), (7) ou (8) si les conditions suivantes sont réunies :
+
 1. Le coefficient d’impôt est égal ou inférieur au coefficient de transition moyen applicable aux catégories industrielles pour l’année.
+
 2. La moyenne pondérée, pour l’année, des coefficients d’impôt applicables aux catégories industrielles n’est pas supérieure au coefficient de transition moyen applicable aux catégories industrielles pour l’année.
 
 ### Moyenne pondérée
 
 (12) Pour l’application des paragraphes (9) à (11), la moyenne pondérée, pour l’année, des coefficients d’impôt applicables à des catégories de biens est calculée comme suit :
+
 1. Pour chaque catégorie de biens, multiplier le coefficient d’impôt applicable à la catégorie pour l’année par l’évaluation totale des biens qui appartiennent à cette catégorie pour l’année.
+
 2. Additionner tous les chiffres obtenus en application de la disposition 1.
+
 3. Additionner les évaluations totales des biens qui appartiennent aux catégories de biens pour l’année, à savoir les évaluations qui ont servi au calcul effectué en application de la disposition 1.
+
 4. La moyenne pondérée correspond au quotient de la division du chiffre obtenu en application de la disposition 2 par celui obtenu en application de la disposition 3.
 
 ### Catégories optionnelles : règlements
 
 (13) Le ministre des Finances peut, par règlement, prescrire, pour une année donnée, les coefficients de transition :
+
 a) qui sont applicables aux catégories commerciales, si la cité choisit qu’une catégorie de biens qui est une des catégories commerciales s’applique pour l’année dans son territoire et qu’elle ne s’y appliquait pas l’année précédente;
+
 b) qui sont applicables aux catégories industrielles, si la cité choisit qu’une catégorie de biens qui est une des catégories industrielles s’applique pour l’année dans son territoire et qu’elle ne s’y appliquait pas l’année précédente.
 
 ### Effet des nouveaux coefficients de transition
@@ -5409,11 +6515,17 @@ b) qui sont applicables aux catégories industrielles, si la cité choisit qu’
 ### Règlements
 
 (17) Le ministre des Finances peut, par règlement :
+
 a) Abrogé : 2009, chap. 33, annexe 21, par. 4 (15).
+
 b) régir la façon dont la cité doit fixer les coefficients d’impôt pour une année d’imposition;
+
 c) prescrire, pour l’application du paragraphe (6), les fourchettes autorisées des coefficients d’impôt applicables aux catégories de biens;
+
 d) prescrire les coefficients de transition applicables aux catégories de biens pour l’application des paragraphes (7) et (8) ou prescrire leur mode de fixation;
+
 e) prescrire des coefficients de transition moyens pour l’application du paragraphe (9) ou prescrire leur mode de fixation.
+
 f) exiger que la cité, malgré les paragraphes (6), (7) et (8), fixe, comme coefficient d’impôt applicable pour l’année à chaque catégorie de biens que précise le règlement, le coefficient que précise celui-ci pour la catégorie de biens visée ou qui est fixé conformément aux règlements.
 
 ### Rétroactivité
@@ -5423,7 +6535,9 @@ f) exiger que la cité, malgré les paragraphes (6), (7) et (8), fixe, comme coe
 ### Règlements
 
 (19) Le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) exiger que la cité lui remette les renseignements prescrits aux moments et de la manière prescrits;
+
 b) exiger que la cité donne un avis des coefficients d’impôt aux personnes et de la manière prescrites.
 
 ### Restriction : coefficient d’impôt applicable à certaines catégories de biens
@@ -5441,6 +6555,7 @@ b) exiger que la cité donne un avis des coefficients d’impôt aux personnes e
 ### Pouvoir réglementaire
 
 (4) Si elle a l’intention d’appliquer un coefficient d’impôt de moins de 0,25 à la catégorie des biens agricoles pour une année d’imposition, la cité adopte un règlement municipal au cours de l’année afin de fixer le coefficient d’impôt applicable à cette catégorie pour la cité pour l’année.
+
 (5) Abrogé : 2009, chap. 33, annexe 21, par. 4 (17).
 
 ### Impôts locaux
@@ -5448,10 +6563,15 @@ b) exiger que la cité donne un avis des coefficients d’impôt aux personnes e
 ### Définitions
 
 277 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «catégorie de biens facultative» S’entend au sens du paragraphe 275 (1). («optional property class»)
+
 «catégories commerciales» S’entend au sens du paragraphe 275 (1). («commercial classes»)
+
 «catégories industrielles» S’entend au sens du paragraphe 275 (1). («industrial classes»)
+
 «impôt extraordinaire local» Lorsqu’une disposition d’une loi, sauf le présent article, ou qu’un règlement pris en application de l’article 287 ou de toute autre loi autorise la cité à recueillir une somme à une fin quelconque sur une partie seulement de tous les biens imposables qui y sont situés, la somme que la cité a décidé de recueillir à cette fin, dans le budget qu’elle a adopté pour l’année en application de l’article 228, sur une partie seulement de tous les biens imposables. («special local municipality levy»)
+
 «impôt général local» Somme que la cité a décidé de recueillir, dans le budget qu’elle a adopté pour l’année en application de l’article 228, sur tous les biens imposables qui y sont situés. («general local municipality levy») 2006, chap. 11, annexe A, par. 277 (1).
 
 ### Impôt général local
@@ -5473,7 +6593,9 @@ b) exiger que la cité donne un avis des coefficients d’impôt aux personnes e
 ### Restrictions concernant les taux
 
 (6) Les taux de l’impôt à prélever en application du paragraphe (2) ou (4) sont assujettis aux restrictions suivantes :
+
 1. Ils sont fixés de sorte que le prélèvement à l’égard de l’évaluation applicable qui est imposable aux fins municipales permette de recueillir une somme égale au montant de l’impôt général local ou de l’impôt extraordinaire local, selon le cas.
+
 2. Le rapport entre les taux applicables aux différentes catégories de biens est le même que celui qui existe entre les coefficients d’impôt applicables à ces catégories qui sont fixés en application de l’article 275.
 
 ### Exception : augmentations d’impôt
@@ -5491,15 +6613,21 @@ b) exiger que la cité donne un avis des coefficients d’impôt aux personnes e
 ### Règlements
 
 (10) Le ministre des Finances peut, par règlement :
+
 a) pour l’application du paragraphe (7), prescrire le coefficient d’impôt applicable à une catégorie de biens, y compris un coefficient d’impôt unique pour les catégories commerciales ou les catégories industrielles;
+
 b) pour l’application du paragraphe (7), prévoir la méthode à suivre pour calculer les taux d’imposition applicables aux biens d’une catégorie de biens;
+
 c) prévoir le calcul de la modification des impôts prélevés aux fins municipales pour une catégorie de biens.
 
 ### Règlements : financement des remises
 
 (11) Le ministre des Finances peut, par règlement, permettre, sous réserve des conditions qui y sont prescrites, que le taux d’imposition applicable à une catégorie de biens soit supérieur à celui qui serait permis en vertu de la disposition 2 du paragraphe (6) dans le but de permettre le prélèvement d’impôts supplémentaires sur les biens qui appartiennent à la catégorie de biens en vue de financer les remises prévues à l’article 329 qui visent les biens suivants :
+
 1. Les biens qui appartiennent à la catégorie de biens.
+
 2. Les biens qui appartiennent aux catégories commerciales au sens du paragraphe 275 (1), si la catégorie de biens en est une.
+
 3. Les biens qui appartiennent aux catégories industrielles au sens du paragraphe 275 (1), si la catégorie de biens en est une.
 
 ### Financement des remises : catégories commerciales
@@ -5517,10 +6645,15 @@ c) prévoir le calcul de la modification des impôts prélevés aux fins municip
 ### Réductions d’impôt pour les sous-catégories prescrites
 
 278 (1) Les taux d’imposition qui seraient par ailleurs prélevés aux fins municipales pour les sous-catégories prescrites en application du paragraphe 8 (1) de la Loi sur l’évaluation foncière sont réduits selon les règles suivantes :
+
 1. Les taux d’imposition qui seraient par ailleurs prélevés aux fins municipales pour les sous-catégories prescrites en application de la disposition 1 du paragraphe 8 (1) de la Loi sur l’évaluation foncière sont réduits des pourcentages prescrits par les règlements ou calculés conformément à ceux-ci.
+
 2. Les taux d’imposition qui seraient par ailleurs prélevés aux fins municipales pour les sous-catégories prescrites en application de la sous-disposition 2 i du paragraphe 8 (1) de la Loi sur l’évaluation foncière sont réduits de 30 % ou du pourcentage prescrit par les règlements ou calculé conformément à ceux-ci.
+
 3. Les taux d’imposition qui seraient par ailleurs prélevés aux fins municipales pour les sous-catégories prescrites en application de la sous-disposition 2 ii du paragraphe 8 (1) de la Loi sur l’évaluation foncière sont réduits de 35 % ou du pourcentage prescrit par les règlements ou calculé conformément à ceux-ci.
+
 4. Les taux d’imposition qui seraient par ailleurs prélevés aux fins municipales pour les sous-catégories prescrites en application de la sous-disposition 3 i du paragraphe 8 (1) de la Loi sur l’évaluation foncière sont réduits de 30 % ou du pourcentage prescrit par les règlements ou calculés conformément à ceux-ci.
+
 5. Les taux d’imposition qui seraient par ailleurs prélevés aux fins municipales pour les sous-catégories prescrites en application de la sous-disposition 3 ii du paragraphe 8 (1) de la Loi sur l’évaluation foncière sont réduits de 35 % ou du pourcentage prescrit par les règlements ou calculés conformément à ceux-ci.
 
 ### Choix de la cité
@@ -5542,18 +6675,27 @@ c) prévoir le calcul de la modification des impôts prélevés aux fins municip
 ### Idem
 
 (1.3) Malgré le paragraphe (1), la cité peut faire ce qui suit :
+
 a) adopter un règlement municipal prévoyant que la réduction du taux d’imposition prévue à la disposition 2, 3, 4 ou 5 du paragraphe (1) ne s’applique pas;
+
 b) si les règlements l’autorisent, adopter un règlement municipal prévoyant que la réduction du taux d’imposition prévue à la disposition 1 du paragraphe (1) ne s’applique pas.
 
 ### Règlements
 
 (2) Le ministre des Finances peut, par règlement :
+
 a) prescrire des pourcentages ou le mode de calcul de pourcentages pour l’application du paragraphe (1);
+
 b) prescrire des fourchettes ou le mode de calcul de fourchettes de pourcentages pour l’application du paragraphe (1.2);
+
 c) prescrire des fourchettes pour l’application du paragraphe (1.2);
+
 d) autoriser la cité à adopter un règlement visé au paragraphe (1.3);
+
 e) assortir de conditions la capacité de la cité d’adopter un règlement visé au présent article.
+
 (3) Abrogé : 2017, chap. 8, annexe 4, par. 6 (6).
+
 (4) Abrogé : 2016, chap. 5, annexe 5, par. 1 (4).
 
 ### Application parallèle des taux d’imposition progressifs
@@ -5563,7 +6705,9 @@ e) assortir de conditions la capacité de la cité d’adopter un règlement vis
 ### Autres réductions d’impôt pour les sous-catégories prescrites
 
 278.1 (1) Sous réserve du paragraphe (2), le taux d’imposition qui serait prélevé aux fins municipales pour une sous-catégorie prescrite en vertu du paragraphe 8 (1.1) de la Loi sur l’évaluation foncière en raison de la catégorie à laquelle appartient la sous-catégorie est réduit :
+
 a) soit du pourcentage prescrit par les règlements ou calculé conformément à ceux-ci;
+
 b) soit, si les règlements prescrivent une fourchette de pourcentages et que la cité adopte un règlement prévoyant l’application dans la cité d’un pourcentage qui se situe dans la fourchette, du pourcentage indiqué dans le règlement municipal.
 
 ### Idem
@@ -5573,22 +6717,31 @@ b) soit, si les règlements prescrivent une fourchette de pourcentages et que la
 ### Règlements
 
 (3) Le ministre des Finances peut, par règlement :
+
 a) prescrire des pourcentages, des fourchettes de pourcentages ou le mode de calcul de pourcentages ou de fourchettes de pourcentages pour l’application du paragraphe (1);
+
 b) autoriser la cité à adopter un règlement visé au paragraphe (2).
 
 ### Taux d’imposition progressifs
 
 279 (1) La cité peut, par règlement adopté au cours de l’année qu’il vise :
+
 a) diviser l’évaluation des biens en deux ou trois fourchettes afin de faciliter l’application de taux d’imposition progressifs pour une ou plusieurs des catégories prescrites en vertu de l’alinéa (4) 0.a) ou comprises dans les catégories commerciales ou les catégories industrielles;
+
 b) fixer les rapports qui doivent exister entre les taux d’imposition applicables à chaque fourchette.
 
 ### Restrictions : fourchettes
 
 (2) Les fourchettes fixées pour chaque catégorie de biens sont assujetties aux règles suivantes :
+
 1. La fourchette la moins élevée couvre la partie de l’évaluation du bien qui est inférieure ou égale à la somme que fixe le règlement municipal.
+
 2. La fourchette la plus élevée couvre la partie de l’évaluation du bien qui est supérieure à la somme que fixe le règlement municipal.
+
 3. La troisième fourchette, le cas échéant, couvre la partie de l’évaluation qui se situe entre la fourchette la moins élevée et la fourchette la plus élevée.
+
 4. Les fourchettes couvrent la totalité de l’évaluation du bien et ne doivent pas se chevaucher.
+
 5. Les fourchettes sont les mêmes pour tous les biens de la catégorie de biens.
 
 ### Fixation des taux applicables aux fourchettes
@@ -5598,33 +6751,45 @@ b) fixer les rapports qui doivent exister entre les taux d’imposition applicab
 ### Règlements
 
 (4) Le ministre des Finances peut, par règlement :
+
 0.a) prescrire des catégories de biens immeubles pour l’application de l’alinéa (1) a), à l’exclusion de la catégorie des biens résidentiels, de la catégorie des immeubles à logements multiples, de la catégorie des biens agricoles, de la catégorie des pipelines et de la catégorie des forêts aménagées;
+
 a) régir les rapports fixés en vertu de l’alinéa (1) b);
+
 b) régir la fixation de taux d’imposition en fonction des rapports fixés en vertu de l’alinéa (1) b);
+
 c) modifier l’application du paragraphe (5) à l’égard des parties privatives ou des parties privatives projetées au sens de la Loi de 1998 sur les condominiums.
 
 ### Calcul des impôts
 
 (5) Les impôts prélevés aux fins municipales sur un bien sont calculés en appliquant le taux d’imposition de chaque fourchette à la partie de l’évaluation du bien qui se situe dans cette fourchette.
+
 (6) Abrogé : 2009, chap. 33, annexe 21, par. 4 (19).
 
 ### Définitions
 
 (7) Les définitions qui suivent s’appliquent au présent article.
+
 «catégories commerciales» S’entend au sens du paragraphe 275 (1). («commercial classes»)
+
 «catégories industrielles» S’entend au sens du paragraphe 275 (1). («industrial classes») 2006, chap. 11, annexe A, par. 279 (7).
 
 ### Imposition de certains biens-fonds appartenant aux compagnies de chemin de fer ou aux services publics d’électricité
 
 280 (1) La cité établit, conformément aux règlements, des impôts à l’égard des biens-fonds suivants :
+
 1. L’emprise d’une compagnie de chemin de fer, à l’exclusion des constructions, des infrastructures et des superstructures, des rails, des traverses, des poteaux et des autres biens qui se trouvent sur l’emprise et à l’exclusion également des biens-fonds donnés à bail par la compagnie à une autre personne moyennant un loyer ou une autre contrepartie de valeur.
+
 2. Les biens-fonds appartenant à un service public d’électricité prescrit par le ministre des Finances, à l’exclusion d’un service public au sens du paragraphe 27 (1) de la Loi sur l’évaluation foncière, et utilisés en tant que couloir pour le transport ou la distribution d’électricité, à l’exclusion des biens-fonds donnés à bail par le service à une autre personne moyennant un loyer ou une autre contrepartie de valeur.
 
 ### Règlements
 
 (2) Le ministre des Finances peut, par règlement :
+
 a) prescrire le taux d’imposition que la cité doit établir à l’égard des biens-fonds visés au paragraphe (1);
+
 b) prescrire le taux d’imposition que la cité doit établir à l’égard de certains biens-fonds visés au paragraphe (1) au lieu du taux d’imposition prescrit en vertu de l’alinéa a);
+
 c) prescrire des services publics d’électricité pour l’application de la disposition 2 du paragraphe (1).
 
 ### Portée
@@ -5650,14 +6815,19 @@ c) prescrire des services publics d’électricité pour l’application de la d
 ### Règles
 
 (3) Les sommes à prélever sont assujetties aux règles suivantes :
+
 1. La somme prélevée sur un bien ne doit pas dépasser le pourcentage prescrit, ou 50 pour cent si aucun pourcentage n’est prescrit, du total des impôts prélevés sur le bien aux fins municipales et scolaires pour l’année précédente.
+
 2. Le pourcentage visé à la disposition 1 peut varier selon les catégories de biens, mais il doit être le même pour tous les biens d’une catégorie.
+
 3. Aux fins du calcul du total, visé à la disposition 1, des impôts prélevés pour l’année précédente, si des impôts ont été prélevés sur un bien aux fins municipales et scolaires pour une partie seulement de l’année en raison de l’ajout d’une évaluation au rôle d’imposition au cours de l’année, il est ajouté une somme égale aux impôts supplémentaires qui auraient été prélevés sur le bien si les impôts prélevés aux fins municipales et scolaires l’avaient été pour toute l’année.
 
 ### Adoption du règlement municipal avant le dépôt du rôle d’évaluation
 
 (4) Si un règlement municipal est adopté en vertu du paragraphe (1) avant le dépôt du rôle d’évaluation pour l’imposition de l’année en cours, les sommes visées au paragraphe (1) sont prélevées à l’égard de l’évaluation :
+
 a) soit conformément au rôle d’imposition pour l’imposition de l’année précédente, révisé le plus récemment avant l’adoption du règlement municipal;
+
 b) soit conformément à un rôle d’évaluation préliminaire fourni à cette fin par la société d’évaluation foncière.
 
 ### Ajout d’évaluations
@@ -5695,8 +6865,11 @@ b) soit conformément à un rôle d’évaluation préliminaire fourni à cette 
 ### Définitions
 
 (2) Les définitions qui suivent s’appliquent au présent article.
+
 «année précédente» L’année d’imposition qui précède immédiatement la première année d’imposition. («preceding year»)
+
 «bien admissible» Bien classé dans une catégorie de biens prescrite en application de la Loi sur l’évaluation foncière. («eligible property»)
+
 «première année d’imposition» Année d’imposition visée par une réévaluation générale. («first taxation year») 2006, chap. 11, annexe A, par. 282 (2).
 
 ### Augmentation d’impôt à inclure progressivement
@@ -5714,25 +6887,41 @@ b) soit conformément à un rôle d’évaluation préliminaire fourni à cette 
 ### Idem
 
 (6) Dans le cas des biens qui ne sont pas assujettis à la partie XII (Plafonnement des impôts municipaux traditionnels) et pour l’application des paragraphes (3) et (4), les impôts prélevés aux fins municipales et scolaires pour l’année précédente sont calculés comme suit :
+
 1. Déterminer les impôts qui ont été prélevés aux fins municipales et scolaires sur le bien pour l’année.
+
 2. S’il a été procédé à une évaluation supplémentaire ou à un changement de classification en application de l’article 34 de la Loi sur l’évaluation foncière pendant l’année ou qu’il aurait pu être procédé à une évaluation ou à un changement de classification en application de cet article et que le changement approprié est apporté au rôle d’évaluation pour l’imposition de la première année d’imposition, calculer de nouveau les impôts déterminés en application de la disposition 1 comme si l’augmentation de l’évaluation ou le changement de classification, selon le cas, s’était appliqué au bien pour toute l’année.
+
 3. Si le conseil municipal annule, réduit ou rembourse des impôts en vertu de l’article 323 pour l’année dans le cas d’une demande visée à l’alinéa 323 (1) a), c), d) ou f) ou en vertu de l’article 325 pour l’année, calculer de nouveau les impôts déterminés en application de la disposition 1 comme si l’incident qui a causé l’annulation, la réduction ou le remboursement s’était produit le 1 er janvier de cette année.
 
 ### Exigences relatives aux règlements municipaux
 
 (7) Les règlements municipaux visés au paragraphe (1) sont assujettis aux exigences suivantes :
+
 1. Ils peuvent s’appliquer à la première année d’imposition et aux sept années d’imposition suivantes.
+
 2. Ils peuvent remplacer des règlements municipaux adoptés en vertu soit de l’article 318 de la Loi de 2001 sur les municipalités, soit du présent article pourvu qu’ils s’appliquent pour au moins le même nombre d’années où ces derniers auraient continué de s’appliquer.
+
 3. Pour tenir compte des augmentations ou des réductions d’impôt calculées en application du paragraphe (3) ou (4), ils peuvent modifier l’inclusion progressive applicable à des biens particuliers qui font l’objet d’une inclusion progressive prévue dans un règlement municipal adopté en vertu soit de l’article 318 de la Loi de 2001 sur les municipalités, soit du présent article.
+
 4. Le montant à inclure dans une année, à l’exception de la première année d’imposition, est égal ou inférieur au montant inclus dans l’année précédente.
+
 5. La somme du montant inclus dans la dernière année où une augmentation ou une réduction d’impôt est incluse et du total des montants inclus dans les années antérieures est égale à l’augmentation ou à la réduction d’impôt calculée en application du paragraphe (3) ou (4) relativement à chaque bien.
+
 6. Ils peuvent traiter différemment des catégories de biens différentes et ne prévoir aucune inclusion progressive pour certaines catégories. Toutefois, ceux qui s’appliquent à un bien qui appartient à une catégorie de biens s’appliquent à tous les biens qui appartiennent à cette catégorie.
+
 7. Pour l’application de la disposition 6, la catégorie des biens résidentiels, celle des biens agricoles et celle des forêts aménagées sont considérées comme une seule catégorie de biens.
+
 8. Pendant la première année d’imposition, les montants récupérés à l’égard de tous les biens de la catégorie de biens dont les réductions d’impôt font l’objet d’une inclusion progressive ne doivent pas dépasser le manque à gagner à l’égard de tous les biens de la catégorie dont les augmentations d’impôt font l’objet d’une inclusion progressive dans le cas de la cité.
+
 9. Ils peuvent prévoir un seuil pour chaque année d’imposition, fixé en dollars ou en tant que pourcentage.
+
 10. Pour l’application de la disposition 9, le seuil applicable aux biens admissibles d’une catégorie de biens de la cité auxquels s’applique le paragraphe (3) peut différer de celui qui s’applique aux biens admissibles de cette catégorie auxquels s’applique le paragraphe (4).
+
 11. Si une évaluation est effectuée à l’égard d’un bien en application du paragraphe 32 (2) ou 33 (1) de la Loi sur l’évaluation foncière pendant la première année d’imposition ou par la suite, mais qu’elle s’applique à une année antérieure à la première année d’imposition :
+
 i. d’une part, le règlement municipal adopté en vertu du paragraphe (1) s’applique au bien,
+
 ii. d’autre part, les impôts prélevés sur le bien aux fins municipales et scolaires sont calculés de nouveau pour la première année d’imposition et pour les années d’imposition subséquentes visées par le règlement municipal adopté en vertu du paragraphe (1).
 
 ### Changement de l’utilisation, de la nature ou de la classification d’un bien
@@ -5766,15 +6955,21 @@ ii. d’autre part, les impôts prélevés sur le bien aux fins municipales et s
 ### Certaines modifications apportées à l’évaluation de la première année d’imposition
 
 (15) Les règles suivantes s’appliquent si l’évaluation d’un bien admissible pour la première année d’imposition est modifiée par suite d’une demande présentée en vertu de l’article 39.1 de la Loi sur l’évaluation foncière, d’un appel interjeté en vertu de l’article 40 de cette loi ou d’une requête présentée en vertu de l’article 46 de la même loi :
+
 1. L’augmentation ou la réduction d’impôt dont le bien fait l’objet est calculée de nouveau en application du paragraphe (3) ou (4) en fonction de la nouvelle évaluation du bien.
+
 2. Les impôts prélevés sur le bien sont calculés de nouveau en fonction du montant calculé en application de la disposition 1 pour chaque année pendant laquelle il existe une augmentation ou une réduction d’impôt.
+
 3. Le rôle d’imposition est modifié en fonction des impôts calculés de nouveau.
 
 ### Certaines modifications apportées à l’évaluation de l’année précédente
 
 (16) Les règles suivantes s’appliquent si l’évaluation d’un bien admissible pour l’année précédente est modifiée par suite d’une demande présentée en vertu de l’article 39.1 de la Loi sur l’évaluation foncière, d’un appel interjeté en vertu de l’article 40 de cette loi ou d’une requête présentée en vertu de l’article 46 de la même loi :
+
 1. L’augmentation ou la réduction d’impôt dont le bien fait l’objet est calculée de nouveau en application du paragraphe (3) ou (4) en fonction de la nouvelle évaluation du bien pour calculer les impôts de l’année précédente.
+
 2. Les impôts prélevés sur le bien sont calculés de nouveau en fonction du montant calculé en application de la disposition 1 pour chaque année pendant laquelle il existe une augmentation ou une réduction d’impôt.
+
 3. Le rôle d’imposition est modifié en fonction des impôts calculés de nouveau.
 
 ### Utilisations multiples
@@ -5784,7 +6979,9 @@ ii. d’autre part, les impôts prélevés sur le bien aux fins municipales et s
 ### Règlements
 
 (18) Le ministre des Finances peut, par règlement :
+
 a) prescrire une date ultérieure pour l’application du paragraphe (1) et ce, avant ou après la date qui y est précisée;
+
 b) régir les règlements municipaux adoptés en vertu du présent article et le calcul des augmentations et des réductions d’impôt à inclure progressivement en application de tels règlements.
 
 ### Arrêtés et ordonnances de restructuration
@@ -5794,7 +6991,9 @@ b) régir les règlements municipaux adoptés en vertu du présent article et le
 ### Report des impôts : allégement des difficultés financières
 
 283 (1) En vue d’alléger les difficultés financières de ces personnes, la cité peut adopter un règlement prévoyant le report ou l’annulation de tout ou partie de l’augmentation de l’impôt d’une année qui est prélevé sur les biens de la catégorie des biens résidentiels, ou une autre forme d’allégement portant sur cette augmentation, dans le cas des personnes qui sont inscrites comme propriétaires au rôle d’évaluation et qui satisfont à l’une ou l’autre des conditions suivantes ou dont le conjoint y satisfait :
+
 a) il s’agit de personnes âgées à faible revenu au sens du règlement municipal;
+
 b) il s’agit de personnes à faible revenu atteintes d’une invalidité au sens du règlement municipal.
 
 ### Allégement fiscal obligatoire
@@ -5836,7 +7035,9 @@ b) il s’agit de personnes à faible revenu atteintes d’une invalidité au se
 ### Intérêts et pénalités
 
 (11) Si elle a adopté le règlement visé au paragraphe (1), la cité peut faire ce qui suit :
+
 a) renoncer aux intérêts et pénalités sur les sommes qui étaient en souffrance à l’échéance et qui, par suite du report, de l’annulation ou de l’autre forme d’allégement, ne sont plus dues;
+
 b) verser des intérêts sur la portion des sommes versées au titre des impôts qui, par suite du report, de l’annulation ou de l’autre forme d’allégement, est supérieure aux impôts à payer.
 
 ### Dates d’exigibilité différentes
@@ -5854,8 +7055,11 @@ b) verser des intérêts sur la portion des sommes versées au titre des impôts
 ### Idem
 
 (2) Les règlements pris en application du présent article peuvent :
+
 a) régir le choix des conseils scolaires auxquels sont remis les paiements tenant lieu d’impôts;
+
 b) régir la tranche qui est remise à chaque conseil scolaire;
+
 c) régir le moment de la répartition.
 
 ### Règles différentes
@@ -5905,6 +7109,7 @@ c) régir le moment de la répartition.
 ### Prélèvement annuel auprès des résidences pour personnes ayant une déficience intellectuelle
 
 (4) Malgré toute loi, si une ou plusieurs résidences qui sont des résidences de groupe avec services de soutien ou des résidences avec services de soutien intensif au sens de la Loi de 2008 sur les services et soutiens favorisant l’inclusion sociale des personnes ayant une déficience intellectuelle et qui sont désignées par le ministre des Services sociaux et communautaires sont situées dans la cité, celle-ci peut, par règlement, prélever, auprès de ces résidences, une somme annuelle qui est exigible au plus tôt le 1 er juillet et qui n’est pas supérieure à la somme prescrite par lit reconnu à des fins provinciales qui s’y trouve, selon ce que détermine le ministre des Services sociaux et communautaires.
+
 (4.1) Abrogé : 2008, chap. 14, par. 49 (2).
 
 ### Prélèvement annuel auprès des établissements provinciaux d’enseignement
@@ -5936,6 +7141,7 @@ c) régir le moment de la répartition.
 ### Définition
 
 286 (1) La définition qui suit s’applique au présent article.
+
 «association de services aux hôpitaux sans but lucratif» Personne morale sans capital-actions qui fournit des services de buanderie ou d’alimentation à un ou plusieurs hôpitaux publics au sens de la Loi sur les hôpitaux publics.
 
 ### Exonération d’impôts
@@ -5953,18 +7159,27 @@ c) régir le moment de la répartition.
 ### Règlements municipaux sur les services spéciaux
 
 287 (1) La cité peut, par règlement :
+
 a) désigner un service spécial;
+
 b) déterminer les frais de la cité, y compris les dépenses en immobilisations, les frais afférents aux débentures, les frais d’amortissement ou les fonds de réserve, qui se rapportent à ce service spécial;
+
 c) désigner le secteur de la cité dont les résidents et les propriétaires fonciers tirent ou tireront du service spécial un avantage supplémentaire dont ne jouissent ou ne jouiront pas ceux d’autres secteurs de la cité;
+
 d) calculer la fraction des frais déterminés en vertu de l’alinéa b) qui représente les frais supplémentaires engagés par la cité pour offrir l’avantage supplémentaire dans le secteur désigné en vertu de l’alinéa c), et fixer la méthode permettant de calculer cette fraction;
+
 e) déterminer si la totalité ou une fraction précisée des frais supplémentaires calculés en vertu de l’alinéa d) sera couverte en application du paragraphe (4).
 
 ### Définitions
 
 (2) Les définitions qui suivent s’appliquent au présent article.
+
 «avantage» S’entend d’un avantage direct ou indirect qui est offert actuellement ou le sera à l’avenir. («benefit»)
+
 «service spécial» S’entend d’un service ou d’une activité que la cité ou un de ses conseils locaux :
+
 a) soit n’offre pas ou n’entreprend pas dans l’ensemble de la cité;
+
 b) soit offre ou entreprend à des niveaux différents ou d’une manière différente dans des parties différentes de la cité. («special service») 2006, chap. 11, annexe A, par. 287 (2).
 
 ### Restriction
@@ -5978,14 +7193,23 @@ b) soit offre ou entreprend à des niveaux différents ou d’une manière diff�
 ### Règlements
 
 (5) Le ministre des Affaires municipales et du Logement peut, par règlement, prévoir les questions qui, à son avis, sont nécessaires ou souhaitables pour l’application du présent article, notamment :
+
 a) prescrire des services qui ne peuvent pas être désignés comme des services spéciaux en vertu de l’alinéa (1) a);
+
 b) fixer des conditions et des restrictions à l’égard de l’exercice des pouvoirs que le présent article confère à la cité, y compris assujettir leur exercice à l’approbation d’une personne ou d’un organisme quelconque;
+
 c) prescrire le montant des frais ou des catégories de frais pour l’application de l’alinéa (1) b);
+
 d) prescrire le secteur ou des règles permettant de déterminer le secteur pour l’application de l’alinéa (1) c);
+
 e) prescrire le montant des frais supplémentaires ou des règles permettant de les calculer pour l’application de l’alinéa (1) d);
+
 f) prévoir la procédure applicable pour interjeter appel d’un règlement municipal adopté en vertu du présent article et les pouvoirs de la personne ou de l’organisme qui entend l’appel;
+
 g) prévoir que l’appel prévu à l’alinéa f) peut viser l’ensemble du règlement municipal ou un aspect quelconque de celui-ci;
+
 h) prévoir des règles permettant de fixer le moment de l’entrée en vigueur des règlements municipaux portés en appel, y compris une date rétroactive qui n’est pas antérieure à celle de leur adoption, ou autoriser la personne ou l’organisme qui entend l’appel prévu à l’alinéa f) à fixer ce moment;
+
 i) pour l’application du paragraphe (4), exonérer des biens imposables précisés de tout ou partie d’un impôt extraordinaire local pour un service spécial précisé, ou déléguer à la cité le pouvoir de le faire.
 
 ### Effet rétroactif
@@ -6001,9 +7225,13 @@ i) pour l’application du paragraphe (4), exonérer des biens imposables préci
 ### Interprétation
 
 288 (1) Les définitions qui suivent s’appliquent à la présente partie.
+
 «catégorie de biens» et «paiement tenant lieu d’impôts» S’entendent au sens de l’article 273. («property class», «payment in lieu of taxes»)
+
 «catégorie de biens facultative» Catégorie de biens dont le conseil municipal peut choisir qu’elle s’applique dans le territoire de la cité en application des règlements pris en application de la Loi sur l’évaluation foncière. («optional property class»)
+
 «catégories commerciales» La catégorie des biens commerciaux prescrite en application de la Loi sur l’évaluation foncière et toute catégorie de biens facultative qui comprend des biens qui, si le conseil municipal n’avait pas choisi qu’elle s’applique, appartiendraient à cette catégorie. («commercial classes»)
+
 «catégories industrielles» La catégorie des biens industriels prescrite en application de la Loi sur l’évaluation foncière et toute catégorie de biens facultative qui comprend des biens qui, si le conseil municipal n’avait pas choisi qu’elle s’applique, appartiendraient à cette catégorie. («industrial classes») 2006, chap. 11, annexe A, par. 288 (1)
 
 ### Mention de catégories de biens
@@ -6013,6 +7241,7 @@ i) pour l’application du paragraphe (4), exonérer des biens imposables préci
 ### Parties d’un bien
 
 (3) Si des parties d’un bien sont classées dans différentes catégories de biens dans le rôle d’évaluation, chaque partie est réputée un bien distinct pour l’application de la présente partie.
+
 (4) Abrogé : 2016, chap. 37, annexe 3, art. 3.
 
 ### Application aux impôts municipaux traditionnels
@@ -6026,10 +7255,15 @@ i) pour l’application du paragraphe (4), exonérer des biens imposables préci
 ### Non-application
 
 (3) La présente partie ne s’applique pas à ce qui suit :
+
 a) les biens qui appartiennent aux sous-catégories prescrites en application de la disposition 1 du paragraphe 8 (1) de la Loi sur l’évaluation foncière ;
+
 b) les biens ou les parties de biens auxquels se rapporte un paiement tenant lieu d’impôts, sauf les biens d’un service public d’électricité désigné au sens du paragraphe 19.0.1 (5) de la Loi sur l’évaluation foncière ou d’une personne morale visée à l’alinéa d) de la définition de «service municipal d’électricité» à l’article 88 de la Loi de 1998 sur l’électricité ;
+
 c) un centre des congrès admissible exonéré d’impôts scolaires en application du paragraphe 257.6 (6) de la Loi sur l’éducation ;
+
 d) malgré l’alinéa b), les biens-fonds, bâtiments et constructions auxquels s’applique le paragraphe 19.0.1 (1) de la Loi sur l’évaluation foncière ;
+
 e) les biens classés dans la catégorie des biens résidentiels, la catégorie des biens agricoles, la catégorie des forêts aménagées ou la catégorie des pipelines.
 
 ### Exception
@@ -6051,8 +7285,11 @@ e) les biens classés dans la catégorie des biens résidentiels, la catégorie 
 ### Règlements
 
 (8) Le ministre des Finances peut, par règlement :
+
 a) prescrire les catégories de biens immeubles auxquelles s’applique la présente partie, à l’exclusion de la catégorie des biens résidentiels, de la catégorie des biens agricoles, de la catégorie des pipelines et de la catégorie des forêts aménagées;
+
 b) exempter des biens, y compris une partie d’un bien, de l’application de la présente partie;
+
 c) prévoir que la présente partie ne s’applique pas dans la cité.
 
 ### Idem
@@ -6070,37 +7307,57 @@ c) prévoir que la présente partie ne s’applique pas dans la cité.
 ### Calcul des impôts maximaux
 
 291 (1) Sauf disposition contraire du présent article et des articles 293 et 294, les impôts à prélever aux fins municipales et scolaires pour une année d’imposition donnée sur un bien situé dans la cité correspondent à la somme calculée comme suit :
+
 1. Calculer les impôts de l’année précédente conformément au paragraphe (2).
+
 2. Augmenter de 5 pour cent la somme calculée en application de la disposition 1.
+
 3. La somme calculée en application de la disposition 2 est redressée, conformément aux règlements, à l’égard de la modification des impôts prélevés aux fins municipales et scolaires.
+
 4. Les impôts prélevés sur le bien pour l’année d’imposition correspondent à la somme calculée en application de la disposition 2 et redressée en application de la disposition 3, le cas échéant.
+
 5. Malgré la disposition 4, dans les circonstances prescrites, les impôts prélevés sur le bien pour l’année d’imposition sont calculés conformément aux règlements si la différence entre les impôts non plafonnés et les impôts calculés en application de la disposition 4 pour l’année d’imposition dépasse la différence entre les impôts non plafonnés et les impôts calculés en application du présent article pour l’année précédente.
+
 6. Malgré les dispositions 4 et 5, dans les circonstances prescrites, les impôts prélevés sur le bien pour l’année d’imposition sont calculés conformément aux règlements dans le cadre de l’élimination progressive de l’application de la présente partie.
 
 ### Année précédente
 
 (2) Les impôts prélevés sur un bien pour l’année précédente sont calculés comme suit :
+
 1. Déterminer les impôts qui ont été prélevés aux fins municipales et scolaires sur le bien pour l’année.
+
 2. S’il est procédé à une évaluation supplémentaire ou à un changement de classification en application de l’article 34 de la Loi sur l’évaluation foncière pendant l’année ou qu’il aurait pu être procédé à une évaluation ou à un changement de classification en application de cet article et que le changement approprié est apporté au rôle d’évaluation pour l’imposition de l’année d’imposition, calculer de nouveau les impôts déterminés en application de la disposition 1 comme si l’augmentation de l’évaluation ou le changement de classification, selon le cas, s’était appliqué au bien pour toute l’année.
+
 2.1 S’il se produit pendant l’année un changement dans les utilisations du sol permises qui entraînerait une différence entre l’évaluation effectuée en application de l’article 36 de la Loi sur l’évaluation foncière pour l’année d’imposition et l’évaluation effectuée pour l’année, calculer de nouveau les impôts déterminés en application de la disposition 1 comme si le changement dans les utilisations du sol permises s’appliquait à toute l’année.
+
 3. Si l’article 294 s’appliquait au bien pour une partie de l’année, calculer de nouveau les impôts déterminés en application de la disposition 1 comme s’il s’y était appliqué pour toute l’année.
+
 4. Si l’évaluation d’un bien classé dans la sous-catégorie des biens-fonds vacants dans le rôle d’évaluation pour l’imposition de l’année d’imposition augmente par suite d’une amélioration qui y est apportée pendant l’année et qu’aucune partie d’un bâtiment situé sur le bien ne commence à être utilisée à quelque fin que ce soit pendant l’année, calculer de nouveau les impôts déterminés en application de la disposition 1 comme si l’augmentation de l’évaluation s’était appliquée au bien pour toute l’année.
+
 5. Si le conseil municipal annule, réduit ou rembourse des impôts en vertu de l’article 323 pour l’année dans le cas d’une demande visée à l’alinéa 323 (1) a), b), c), d) ou f) ou en vertu de l’article 325 pour l’année, calculer de nouveau les impôts déterminés en application de la disposition 1 comme si l’incident qui a causé l’annulation, la réduction ou le remboursement s’était produit le 1 er janvier de l’année.
 
 ### Règlements : redressements
 
 (3) Le ministre des Finances peut, par règlement :
+
 a) prévoir les redressements visés à la disposition 3 du paragraphe (1) à l’égard de la modification des impôts prélevés aux fins municipales et scolaires;
+
 b) régir le calcul des impôts pour une année d’imposition dans les circonstances visées à la disposition 5 du paragraphe (1);
+
 c) régir le calcul des impôts pour une année d’imposition en application de la disposition 6 du paragraphe (1) dans les circonstances prescrites, dans le cadre de l’élimination progressive de l’application de la présente partie.
 
 ### Redressement
 
 (4) Si les impôts prélevés aux fins municipales et scolaires sur un bien pour l’année précédente sont calculés de nouveau par suite d’une des démarches suivantes, la somme déterminée en application de la disposition 1 du paragraphe (2) est redressée en conséquence :
+
 1. Une demande présentée en vertu de l’article 39.1 de la Loi sur l’évaluation foncière.
+
 2. Un appel interjeté en vertu de l’article 40 de la Loi sur l’évaluation foncière.
+
 3. Une requête présentée en vertu de l’article 46 de la Loi sur l’évaluation foncière.
+
 4. Une requête présentée en vertu de l’article 297 de la présente loi ou de l’article 447.26 de l’ancienne Loi sur les municipalités.
+
 5. Une détermination faite en application de l’article 447.26.1 de l’ancienne Loi sur les municipalités.
 
 ### Évaluations omises
@@ -6110,10 +7367,15 @@ c) régir le calcul des impôts pour une année d’imposition en application de
 ### Annulation, diminution ou remboursement d’impôt en vertu de l’art. 323
 
 (6) Si la cité annule, diminue ou rembourse des impôts pour une année d’imposition donnée par suite d’une demande présentée en vertu de l’alinéa 323 (1) d) ou en application de toute autre disposition de la présente loi que prescrit le ministre des Finances, le montant de l’annulation, de la diminution ou du remboursement est calculé selon la formule suivante :
+
 B/C × D
+
 où
+
 «B» représente le montant auquel s’élèverait l’annulation, la diminution ou le remboursement des impôts pour l’année en l’absence de la présente partie;
+
 «C» représente les impôts pour l’année, avant déduction de l’annulation, de la diminution ou du remboursement, qui auraient été payables en l’absence de la présente partie;
+
 «D» représente les impôts pour l’année qui seraient payables en application de la présente partie si aucune demande n’était présentée.
 
 ### Disposition prescrite
@@ -6123,34 +7385,55 @@ où
 ### Évaluations omises et évaluations supplémentaires pour l’année d’imposition
 
 (8) Si, à l’égard d’un bien autre qu’un bien visé au paragraphe 293 (2), il est effectué en application de l’article 33 ou 34 de la Loi sur l’évaluation foncière une évaluation qui augmente l’évaluation du bien pour l’année d’imposition :
+
 a) le paragraphe (1) ne s’applique pas aux impôts supplémentaires prélevés aux fins municipales et scolaires qui sont attribuables à l’augmentation de l’évaluation;
+
 b) les impôts supplémentaires prélevés aux fins municipales et scolaires sont calculés selon la formule suivante :
+
 [Image]
+
 où :
+
 «T» représente les impôts supplémentaires prélevés aux fins municipales et scolaires;
+
 «CT» représente la somme calculée en application du paragraphe (1);
+
 «NT» représente les impôts non plafonnés, à l’exclusion toutefois des impôts que représente «CVAT»;
+
 «CVAT» représente les impôts supplémentaires prélevés aux fins municipales et scolaires qui seraient exigibles en l’absence du présent paragraphe.
 
 ### Idem
 
 (9) Malgré le paragraphe (8), les impôts prélevés sur le bien aux fins municipales et scolaires pour l’année d’imposition ou une fraction de celle-ci sont calculés de nouveau en application de l’article 294 si, selon le cas :
+
 a) une évaluation additionnelle a été effectuée qui concerne un nouveau bâtiment ou une nouvelle construction érigé sur le bien qui était, avant l’évaluation, évalué pour l’année d’imposition comme appartenant à la sous-catégorie des biens-fonds vacants visée à la disposition 2 du paragraphe 8 (1) de la Loi sur l’évaluation foncière ;
+
 b) en conséquence d’une évaluation additionnelle effectuée pour tout ou partie de l’année d’imposition ou de l’année d’imposition et de l’année précédente, l’évaluation du bien est augmentée d’un montant égal ou supérieur à 50 pour cent de l’évaluation qui figure dans le rôle d’évaluation avant l’évaluation additionnelle.
 
 ### Évaluation additionnelle
 
 (10) S’il est effectué une évaluation additionnelle pour l’année précédente et pour l’année d’imposition, le pourcentage est fixé comme suit pour l’application de l’alinéa (9) b) :
+
 1. Calculer l’évaluation additionnelle pour l’année précédente.
+
 2. Calculer l’évaluation qui figure dans le rôle d’évaluation pour l’imposition de l’année précédente avant l’évaluation additionnelle visée à la disposition 1.
+
 3. Diviser le montant obtenu en application de la disposition 1 par celui obtenu en application de la disposition 2.
+
 4. Multiplier le quotient obtenu en application de la disposition 3 par 100.
+
 5. Additionner les montants obtenus en application des dispositions 1 et 2.
+
 6. Diviser le montant obtenu en application de la disposition 2 par celui obtenu en application de la disposition 5.
+
 7. Multiplier le quotient obtenu en application de la disposition 6 par l’évaluation qui figure dans le rôle d’évaluation pour l’imposition de l’année d’imposition.
+
 8. Calculer l’évaluation additionnelle pour l’année d’imposition.
+
 9. Diviser le montant obtenu en application de la disposition 8 par celui obtenu en application de la disposition 7.
+
 10. Multiplier le quotient obtenu en application de la disposition 9 par 100.
+
 11. Additionner les pourcentages obtenus en application des dispositions 4 et 10.
 
 ### Idem
@@ -6168,35 +7451,61 @@ b) en conséquence d’une évaluation additionnelle effectuée pour tout ou par
 ### Définitions
 
 (14) Les définitions qui suivent s’appliquent au présent article.
+
 «année d’imposition» L’année à l’égard de laquelle les impôts sont calculés en application du paragraphe (1). («taxation year»)
+
 «année précédente» L’année qui précède immédiatement l’année d’imposition. («previous year»)
+
 «évaluation additionnelle» Une ou plusieurs évaluations effectuées en application de l’article 33 ou 34 de la Loi sur l’évaluation foncière. («additional assessment»)
+
 «impôts non plafonnés» Les impôts qui auraient été établis aux fins municipales et scolaires pour l’année d’imposition en l’absence de la présente partie. («uncapped taxes») 2006, chap. 11, annexe A, par. 291 (14).
 
 ### Choix de la cité : application de certaines dispositions de la Loi
 
 292 (1) La cité peut adopter un règlement prévoyant l’application d’une ou de plusieurs des dispositions suivantes au calcul des impôts exigibles aux fins municipales et scolaires sur les biens qui appartiennent aux catégories commerciales, aux catégories industrielles, à la catégorie des immeubles à logements multiples ou à une catégorie prescrite en vertu de l’alinéa 289 (8) a) pour une année d’imposition :
+
 1. Lors du calcul des impôts à prélever aux fins municipales et scolaires pour l’année en application du paragraphe 291 (1) et du plafond du locataire en application du paragraphe 295 (5) :
+
 i. pour calculer la somme à ajouter en application de la disposition 2 du paragraphe 291 (1), le pourcentage à utiliser est 10 % ou le pourcentage prescrit ou, s’il est inférieur, le pourcentage supérieur à 5 % qui est précisé dans le règlement municipal pour l’application de la présente disposition, au lieu de 5 pour cent,
+
 ii. le pourcentage utilisé en application de la sous-disposition i est utilisé, au lieu de 5 pour cent, pour augmenter, en application de la disposition 2 du paragraphe 295 (5), le montant calculé en application de la disposition 1 de ce paragraphe.
+
 2. Lors du calcul des impôts à prélever aux fins municipales et scolaires pour l’année en application du paragraphe 291 (1) et du plafond du locataire en application du paragraphe 295 (5) :
+
 i. la somme à ajouter en application de la disposition 2 du paragraphe 291 (1) correspond à la plus élevée des sommes suivantes :
+
 A. le produit des impôts qui auraient été prélevés aux fins municipales et scolaires à l’égard du bien pour l’année précédente en l’absence de la présente partie, sous réserve des redressements prescrits, et de 5 % ou du pourcentage prescrit, ou du pourcentage inférieur à 5 % ou au pourcentage prescrit qui est précisé dans le règlement municipal pour l’application de la présente sous-disposition,
+
 B. la somme qui serait ajoutée en application de la disposition 2 du paragraphe 291 (1) pour l’année en utilisant le pourcentage utilisé en application de la sous-disposition 1 i, si la cité adopte un règlement prévoyant l’application de la disposition 1 pour l’année à la catégorie à laquelle appartient le bien,
+
 C. 5 pour cent de la somme calculée en application de la disposition 1 du paragraphe 291 (1) à l’égard du bien pour l’année,
+
 ii. le montant calculé en application de la disposition 1 du paragraphe 295 (5) est augmenté en application de la disposition 2 de ce paragraphe du montant calculé comme suit plutôt que du montant précisé à la disposition 2 du même paragraphe :
+
 A. le produit du montant que le locataire aurait été tenu de payer l’année précédente, aux termes de son bail, au titre des impôts prélevés aux fins municipales et scolaires en l’absence de l’article 295 et du pourcentage utilisé pour calculer la somme en application de la sous-sous-disposition i A, si la somme ainsi calculée est la plus élevée de celles calculées en application de la sous-disposition i,
+
 B. le produit du montant calculé en application de la disposition 1 du paragraphe 295 (5) et du pourcentage utilisé pour calculer la somme en application de la sous-sous-disposition i B, si la somme ainsi calculée est la plus élevée de celles calculées en application de la sous-disposition i,
+
 C. le produit du montant calculé en application de la disposition 1 du paragraphe 295 (5) et du pourcentage utilisé en application de la sous-sous-disposition i C, si la somme calculée en application de cette sous-sous-disposition est la plus élevée de celles calculées en application de la sous-disposition i.
+
 3. Les impôts prélevés aux fins municipales et scolaires sur un bien pour une année d’imposition correspondent aux impôts non plafonnés de l’année si les impôts non plafonnés dépassent les impôts prélevés aux fins municipales et scolaires, tels qu’ils sont calculés en application de l’article 291, du moindre de ce qui suit :
+
 i. 250 $ ou la somme prescrite,
+
 ii. la somme précisée, le cas échéant, dans le règlement municipal pour l’application de la présente disposition.
+
 4. Les impôts prélevés aux fins municipales et scolaires sur un bien pour une année d’imposition correspondent aux impôts non plafonnés de l’année si les impôts prélevés aux fins municipales et scolaires, tels qu’ils sont calculés en application de l’article 293, dépassent les impôts non plafonnés du moindre de ce qui suit :
+
 i. 250 $ ou la somme prescrite,
+
 ii. la somme précisée, le cas échéant, dans le règlement municipal pour l’application de la présente disposition.
+
 5. Abrogée : 2015, chap. 38, annexe 2, par. 2 (5).
+
 6. Si, pour tout ou partie de 2008 ou d’une année d’imposition ultérieure, un bien devient un bien admissible au sens du paragraphe 294 (19), les impôts prélevés aux fins municipales et scolaires pour l’année ou la fraction de l’année correspondent à la plus élevée des sommes suivantes :
+
 i. les impôts calculés à l’égard du bien pour l’année d’imposition en application du paragraphe 294 (2),
+
 ii. le produit des impôts non plafonnés sur le bien pour l’année d’imposition et de 100 pour cent ou, s’il est inférieur, du pourcentage précisé dans le règlement municipal pour l’application de la présente sous-disposition.
 
 ### Délai d’adoption d’un règlement municipal
@@ -6206,17 +7515,21 @@ ii. le produit des impôts non plafonnés sur le bien pour l’année d’imposi
 ### Application des art. 291 et 295 adaptés
 
 (3) Si la cité adopte un règlement en vertu du paragraphe (1) :
+
 a) la mention de l’article 291dans un article de la présente partie, à l’exclusion de l’article 291 et du présent article, vaut mention de l’article 291 avec les adaptations découlant de l’application de la ou des dispositions précisées dans le règlement, s’il y a lieu;
+
 b) la mention du paragraphe 295 (5) au paragraphe 337 (12) vaut mention du paragraphe 295 (5) avec les adaptations découlant de l’application de la ou des dispositions précisées dans le règlement, s’il y a lieu.
 
 ### Règlements
 
 (4) Le ministre des Finances peut, par règlement, prescrire, pour l’application de la sous-sous-disposition 2 i A du paragraphe (1), les redressements à effectuer dans le calcul des impôts qui auraient été prélevés aux fins municipales et scolaires sur un bien pendant l’année précédente en l’absence de la présente partie, et prescrire les circonstances dans lesquelles ces redressements doivent être effectués.
+
 (5) Abrogé : 2009, chap. 33, annexe 21, par. 4 (21).
 
 ### Définition
 
 (6) La définition qui suit s’applique au présent article.
+
 «impôts non plafonnés» Relativement à une année d’imposition, s’entend des impôts qui seraient prélevés aux fins municipales et scolaires pour l’année en l’absence de la présente partie.
 
 ### Règlement municipal prévoyant la récupération des recettes
@@ -6234,9 +7547,13 @@ b) la mention du paragraphe 295 (5) au paragraphe 337 (12) vaut mention du parag
 ### Restriction
 
 (4) Le pourcentage que fixe un règlement municipal visé au paragraphe (1) est limité comme suit :
+
 1. Calculer le manque à gagner total découlant de l’application de l’article 291 à des biens de la catégorie de biens.
+
 2. Calculer la différence totale entre les impôts prélevés aux fins municipales et scolaires pour l’année précédente sur tous les biens visés au paragraphe (2) qui appartiennent à la même catégorie, tels qu’ils sont calculés en application du paragraphe 291 (2), et les impôts prélevés sur ces biens aux mêmes fins pour l’année d’imposition, tels qu’ils sont redressés, conformément aux règlements, à l’égard de la modification des impôts prélevés à ces fins.
+
 3. Calculer le pourcentage de la somme calculée en application de la disposition 2 qui permettrait de tirer des recettes suffisantes pour récupérer la totalité du manque à gagner calculé en application de la disposition 1.
+
 4. Sauf disposition à l’effet contraire prescrite par le ministre des Finances, le pourcentage que fixe le règlement municipal ne doit pas dépasser le pourcentage calculé en application de la disposition 3 ou 100 pour cent, s’il est moins élevé.
 
 ### Une seule catégorie de biens
@@ -6246,18 +7563,27 @@ b) la mention du paragraphe 295 (5) au paragraphe 337 (12) vaut mention du parag
 ### Impôts de l’année d’imposition
 
 (6) Les impôts prélevés aux fins municipales et scolaires pour l’année d’imposition sur un bien auquel s’applique un règlement municipal visé au présent article sont calculés comme suit :
+
 1. Calculer les impôts prélevés sur le bien aux fins municipales et scolaires pour l’année précédente en application du paragraphe 291 (2).
+
 2. Calculer la différence entre les impôts prélevés aux fins municipales et scolaires sur le bien pour l’année précédente, tels qu’ils sont calculés en application du paragraphe 291 (2), et ceux qui sont prélevés sur le bien aux mêmes fins pour l’année d’imposition, tels qu’ils sont redressés, conformément aux règlements, à l’égard de la modification des impôts prélevés à ces fins.
+
 3. Multiplier le pourcentage fixé en application du paragraphe (1) pour la catégorie de biens à laquelle appartient le bien par le montant calculé en application de la disposition 2.
+
 4. Déduire le montant calculé en application de la disposition 3 de celui calculé en application de la disposition 2.
+
 5. Déduire le montant calculé en application de la disposition 4 de celui calculé en application de la disposition 1.
+
 6. Le montant calculé en application de la disposition 5 est redressé, conformément aux règlements, à l’égard de la modification des impôts prélevés aux fins municipales et scolaires.
+
 7. Les impôts prélevés aux fins municipales et scolaires pour l’année d’imposition correspondent au montant calculé en application de la disposition 5 et redressé en application de la disposition 6, le cas échéant.
 
 ### Règlements
 
 (7) Le ministre des Finances peut, par règlement :
+
 a) prévoir les redressements visés au paragraphe (2), (4) ou (6) à l’égard de la modification des impôts prélevés aux fins municipales ou scolaires;
+
 b) régir la façon dont le pourcentage visé au paragraphe (1) doit être fixé et la restriction de ce pourcentage en application du paragraphe (4).
 
 ### Impôts scolaires
@@ -6275,9 +7601,13 @@ b) régir la façon dont le pourcentage visé au paragraphe (1) doit être fixé
 ### Calcul des impôts
 
 (2) Malgré toute autre disposition de la présente partie, la cité calcule les impôts prélevés aux fins municipales et scolaires sur chaque bien admissible pour l’année ou la fraction de l’année comme suit :
+
 1. Calculer le niveau d’imposition de chaque bien que la société d’évaluation foncière désigne comme bien comparable en application du paragraphe (6) en divisant les impôts prélevés aux fins municipales et scolaires pour l’année par les impôts qui auraient été établis aux mêmes fins en l’absence de la présente partie.
+
 2. Calculer le niveau d’imposition moyen de l’ensemble des biens comparables à partir du calcul effectué en application de la disposition 1.
+
 3. Calculer les impôts prélevés aux fins municipales et scolaires sur le bien admissible pour l’année en multipliant le niveau d’imposition moyen calculé en application de la disposition 2 par les impôts qui auraient été prélevés sur le bien admissible aux fins municipales et scolaires en l’absence de la présente partie.
+
 4. Les impôts prélevés aux fins municipales et scolaires sur un bien admissible pour l’année correspondent au moindre du montant qui serait calculé pour l’année ou la fraction de l’année en l’absence de la présente partie et du montant calculé en application de la disposition 3.
 
 ### Redressements
@@ -6299,13 +7629,17 @@ b) régir la façon dont le pourcentage visé au paragraphe (1) doit être fixé
 ### Biens à utilisations multiples
 
 (7) Pour l’application du présent article :
+
 a) d’une part, si un bien admissible ou un bien comparable est classé dans plus d’une catégorie de biens immeubles visée à l’article 7 de la Loi sur l’évaluation foncière, chaque partie est traitée comme un bien distinct;
+
 b) d’autre part, jusqu’à six biens comparables sont désignés pour chaque partie d’un bien admissible qui est visée à l’alinéa a) ou, s’il y en a moins de six, autant qu’il y en a.
 
 ### Remise de la liste à la cité
 
 (8) La société d’évaluation foncière fournit à la cité une liste des biens comparables visés au paragraphe (6) ou (7) à l’égard d’un bien admissible dès que possible :
+
 a) soit après le dépôt du rôle d’évaluation pour les biens admissibles qui y sont inscrits;
+
 b) soit après la remise de l’avis de l’évaluation du bien admissible qui est effectuée en application de l’article 33 ou 34 de la Loi sur l’évaluation foncière.
 
 ### Envoi de la liste par la poste au propriétaire
@@ -6315,7 +7649,9 @@ b) soit après la remise de l’avis de l’évaluation du bien admissible qui e
 ### Absence de biens comparables
 
 (10) Si la société d’évaluation foncière conclut qu’il n’y a pas de biens comparables à l’égard d’un bien admissible :
+
 a) d’une part, la société avise la cité de sa conclusion;
+
 b) d’autre part, la cité, dans les 60 jours de la réception de l’avis visé à l’alinéa a), avise le propriétaire du bien de la conclusion de la société et du montant calculé pour l’année ou la fraction de l’année en application de la présente partie.
 
 ### Plaintes
@@ -6337,7 +7673,9 @@ b) d’autre part, la cité, dans les 60 jours de la réception de l’avis vis�
 ### Pouvoir de la Commission de révision de l’évaluation foncière
 
 (15) Dans le cadre d’une plainte présentée en vertu du présent article, la Commission de révision de l’évaluation foncière :
+
 a) soit désigne jusqu’à six biens comparables parmi ceux que propose le plaignant ou la société d’évaluation foncière;
+
 b) soit conclut qu’il n’y a pas de biens comparables.
 
 ### Requête
@@ -6355,19 +7693,29 @@ b) soit conclut qu’il n’y a pas de biens comparables.
 ### Définitions
 
 (19) Les définitions qui suivent s’appliquent au présent article.
+
 «à proximité» S’entend au sens du paragraphe 44 (2) de la Loi sur l’évaluation foncière, sauf qu’il ne faut pas tenir compte du territoire situé en dehors des limites de la cité. («vicinity»)
+
 «bien admissible» S’entend d’un bien, selon le cas :
+
 a) auquel s’applique le paragraphe 291 (9);
+
 b) qui cesse d’être exonéré d’impôt;
+
 c) qui a fait l’objet d’un lotissement ou d’une séparation;
+
 d) dont la classification change;
+
 e) qui est prescrit par le ministre des Finances. («eligible property»)
+
 «biens comparables» S’entend des biens que la société d’évaluation foncière désigne comme biens-fonds semblables situés à proximité du bien admissible. («comparable properties») 2006, chap. 11, annexe A, par. 294 (19)
 
 ### Règlements
 
 (20) Le ministre des Finances peut, par règlement :
+
 a) prescrire des biens et des catégories de biens qui sont réputés des «biens admissibles» pour l’application du présent article;
+
 b) prescrire des biens et des catégories de biens qui sont réputés ne pas être des «biens admissibles» pour l’application du présent article.
 
 ### Effet rétroactif
@@ -6377,7 +7725,9 @@ b) prescrire des biens et des catégories de biens qui sont réputés ne pas êt
 ### Locataires de locaux loués à bail
 
 295 (1) Le présent article s’applique aux locataires de locaux loués à bail qui constituent tout ou partie d’un bien situé dans la cité si les conditions suivantes sont réunies :
+
 a) la partie XXII.1 ou XXII.2 de l’ancienne Loi sur les municipalités s’appliquait et la présente partie s’applique aux locaux;
+
 b) la location a commencé au plus tard le 31 décembre 1997 et se poursuit sans interruption depuis cette date.
 
 ### Exception
@@ -6395,31 +7745,45 @@ b) la location a commencé au plus tard le 31 décembre 1997 et se poursuit sans
 ### Plafond du locataire
 
 (5) Pour chaque année d’imposition, le plafond du locataire visé au paragraphe (4) est calculé conformément aux règles suivantes :
+
 1. Calculer le montant que le locataire était tenu de payer au titre des impôts pour l’année précédente.
+
 2. Augmenter le montant calculé en application de la disposition 1 de 5 pour cent.
+
 3. Redresser, comme le prévoient les règlements visés à la disposition 3 du paragraphe 291 (1), le montant calculé en application de la disposition 2 à l’égard de la modification éventuelle des impôts prélevés aux fins municipales qui est applicable au bien.
+
 4. Le plafond du locataire correspond au montant calculé en application de la disposition 2 et redressé en application de la disposition 3.
 
 ### Récupération du manque à gagner du locateur
 
 (6) Un locateur peut exiger qu’un locataire paie au titre des impôts prélevés aux fins municipales et scolaires un montant supérieur à celui que le locataire serait par ailleurs tenu de payer aux termes de son bail, sous réserve de ce qui suit :
+
 1. Le locateur ne peut exiger que le locataire paie au titre des impôts prélevés aux fins municipales et scolaires un montant supérieur à celui que permet le paragraphe (4).
+
 2. Le locateur ne peut exiger que le locataire paie un montant en application du présent paragraphe que dans la mesure nécessaire pour lui permettre de récupérer tout manque à gagner, au sens de la disposition 3, à l’égard des autres locaux loués à bail qui font partie du bien.
+
 3. Le manque à gagner visé à la disposition 2 est calculé de la manière suivante :
+
 i. calculer, pour chacun des autres locaux loués à bail auxquels s’applique le présent article et qui font partie du bien, l’excédent éventuel du montant que le locateur aurait pu exiger que le locataire paie aux termes de son bail en l’absence du paragraphe (4) sur le montant qu’il peut exiger que le locataire paie aux termes de son bail en application de ce paragraphe,
+
 ii. additionner tous les montants calculés en application de la sous-disposition i.
 
 ### Idem
 
 (7) Les règles suivantes s’appliquent au montant que le locataire est tenu de payer en application du paragraphe (6) :
+
 1. Le montant est réputé un supplément de loyer.
+
 2. Le montant est payable dans les mêmes proportions et aux mêmes échéances que les montants relatifs aux impôts prévus par le bail.
+
 3. Le montant que le locataire est tenu de payer en application du paragraphe (6) vient à échéance le dernier jour de l’année si le bail ne prévoit pas le paiement de montants relatifs aux impôts.
 
 ### Transmission prévue par les baux à loyer fixe
 
 (8) Les règles suivantes s’appliquent aux montants qu’un locataire est tenu de payer en application de l’article 337 ou 338 :
+
 1. Pour l’application des paragraphes (4), (5) et (6), le montant que le locataire est tenu de payer en application de l’article 337 est réputé un montant qu’il est tenu de payer aux termes du bail au titre des impôts prélevés aux fins municipales et scolaires.
+
 2. Pour l’application des paragraphes (4), (5) et (6), le montant que le locataire est tenu de payer en application de l’article 338 est réputé ne pas être un montant qu’il est tenu de payer aux termes du bail au titre des impôts prélevés aux fins municipales et scolaires.
 
 ### Partie d’année
@@ -6449,7 +7813,9 @@ ii. additionner tous les montants calculés en application de la sous-dispositio
 ### Application
 
 (3) Le présent article ne s’applique au locataire que si les conditions suivantes sont réunies :
+
 a) l’article 295 ne s’applique pas à lui;
+
 b) son bail a été conclu avant le 11 juin 1998, si la partie XXII.1 de l’ancienne Loi sur les municipalités s’appliquait au bien, ou avant le 18 décembre 1998, si la partie XXII.2 de l’ancienne Loi sur les municipalités s’y appliquait, et la location se poursuit sans interruption depuis cette date.
 
 ### Demande d’annulation
@@ -6475,7 +7841,9 @@ b) son bail a été conclu avant le 11 juin 1998, si la partie XXII.1 de l’anc
 ### Redressements
 
 301 (1) Si elle est tenue de verser des sommes à un organisme en application de l’article 318, la cité fait ce qui suit :
+
 a) si l’annulation, la réduction, le remboursement ou la radiation d’impôts entraîne un déficit d’impôts pour l’organisme, elle lui impute sa part du déficit, proportionnellement à sa part des recettes tirées des impôts;
+
 b) si l’application de la présente partie entraîne un excédent d’impôts pour l’organisme, elle porte au crédit de l’organisme sa part de l’excédent, proportionnellement à sa part des recettes tirées des impôts.
 
 ### Interprétation
@@ -6485,8 +7853,11 @@ b) si l’application de la présente partie entraîne un excédent d’impôts 
 ### Règlements
 
 302 (1) Le ministre des Finances peut, par règlement :
+
 a) régir et préciser l’application de la présente partie;
+
 b) prescrire tout ce que la présente partie autorise ou oblige à prescrire;
+
 c) modifier l’application de la présente partie si, à son avis, il est nécessaire ou souhaitable de le faire pour en favoriser l’objet, y compris en modifier l’application relativement à une restructuration municipale ou une réévaluation générale.
 
 ### Règlements : impôts maximaux et plafond du locataire
@@ -6496,8 +7867,11 @@ c) modifier l’application de la présente partie si, à son avis, il est néce
 ### Idem
 
 (1.2) Les règlements pris en vertu du paragraphe (1.1) peuvent :
+
 a) prévoir des sommes différentes à l’égard d’un bien pour des années différentes;
+
 b) prévoir les circonstances dans lesquelles ils l’emportent sur la disposition 2 du paragraphe 291 (1), sur la disposition 2 du paragraphe 295 (5) ou sur un choix prévu dans un règlement municipal adopté en vertu de l’article 292;
+
 c) Abrogé : 2016, chap. 37, annexe 3, par. 7 (1).
 
 ### Application des règlements pris en vertu de la présente partie
@@ -6507,10 +7881,15 @@ c) Abrogé : 2016, chap. 37, annexe 3, par. 7 (1).
 ### Définitions
 
 (2) Les définitions qui suivent s’appliquent au présent article.
+
 «réévaluation générale» S’entend au sens de l’article 273. («general reassessment»)
+
 «restructuration municipale» S’entend, selon le cas :
+
 a) de la fusion de la cité et d’une autre municipalité;
+
 b) de la modification des limites territoriales de la cité;
+
 c) de la dissolution de la cité. («municipal restructuring») 2006, chap. 11, annexe A, par. 302 (2).
 
 ## Partie XII.1 Impôt facultatif sur les logements vacants
@@ -6522,26 +7901,39 @@ c) de la dissolution de la cité. («municipal restructuring») 2006, chap. 11, 
 ### Exigences
 
 (2) Les règlements municipaux visés au paragraphe (1) doivent satisfaire aux critères suivants :
+
 1. Ils doivent indiquer le taux d’imposition.
+
 2. Ils doivent énoncer les conditions en matière de vacance qui doivent être remplies pour qu’un logement soit assujetti à l’impôt.
 
 ### Autres éléments
 
 (3) Les règlements municipaux visés au paragraphe (1) peuvent prévoir les questions que le conseil de la municipalité estime appropriées, notamment :
+
 a) des exonérations d’impôt;
+
 b) des remises d’impôt;
+
 c) des pouvoirs de vérification et d’inspection;
+
 d) sauf disposition contraire des règlements, la mise en oeuvre et l’utilisation de mécanismes de règlement des différends.
 
 ### Règlements : pouvoir de fixer un impôt
 
 302.2 (1) Le ministre des Finances peut, par règlement, prescrire les questions qu’il estime nécessaires ou souhaitables relativement à la présente partie, notamment :
+
 a) prescrire des conditions et des restrictions à l’égard de la fixation d’un impôt en vertu d’un règlement municipal adopté en vertu de la présente partie;
+
 b) prescrire les personnes et les entités qui ne sont pas assujetties à un impôt fixé en vertu de la présente partie;
+
 c) définir «logement vacant» pour l’application de la présente partie;
+
 d) régir la perception de tout impôt fixé en vertu de la présente partie;
+
 e) prescrire les dispositions de la présente loi qui s’appliquent ou qui ne s’appliquent pas dans le cadre de la présente partie et prévoir les adaptations de ces dispositions que le ministre estime appropriées;
+
 f) régir le mode de répartition d’une évaluation attribuable à des logements vacants;
+
 g) régir le règlement des différends.
 
 ### Idem
@@ -6563,14 +7955,19 @@ g) régir le règlement des différends.
 ### Communication de renseignements fiscaux
 
 302.4 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «renseignements personnels» S’entend au sens de la Loi sur l’accès à l’information et la protection de la vie privée. («personal information»)
+
 «renseignements sur les droits de cession immobilière» Renseignements obtenus par le ministre des Finances dans le cadre de l’application ou de l’exécution de la Loi sur les droits de cession immobilière. («land transfer tax information»)
+
 «renseignements sur l’impôt sur les logements vacants» Renseignements obtenus par la cité dans le cadre de l’application ou de l’exécution d’un règlement municipal visé au paragraphe 302.1 (1). («vacant units tax information») 2024, chap. 20, annexe 3, art. 1.
 
 ### Divulgation
 
 (2) Le ministre des Finances, ou une personne qu’il autorise, peut divulguer à la cité des renseignements sur les droits de cession immobilière qui se rapportent aux cessions de biens-fonds situés dans la cité et, par ailleurs, la cité peut divulguer des renseignements sur l’impôt sur les logements vacants au ministre des Finances si, dans les deux cas, il s’agit de renseignements que le ministre des Finances ou la cité, selon le cas, utilise à l’une ou l’autre des fins suivantes :
+
 1. L’application ou l’exécution d’un impôt.
+
 2. L’élaboration ou l’évaluation d’une politique économique, budgétaire ou fiscale.
 
 ### Renseignements personnels
@@ -6584,7 +7981,9 @@ g) régir le règlement des différends.
 ### Avis
 
 (5) L’avis exigé par le paragraphe 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée ou le paragraphe 29 (2) de la Loi sur l’accès à l’information municipale et la protection de la vie privée peut être donné au moyen d’un avis public affiché :
+
 a) si les renseignements personnels sont recueillis par le ministre des Finances, sur un site Web du gouvernement de l’Ontario;
+
 b) si les renseignements personnels sont recueillis par la cité, sur un site Web de la cité.
 
 ## partie XIII perception des impôts municipaux traditionnels
@@ -6596,7 +7995,9 @@ b) si les renseignements personnels sont recueillis par la cité, sur un site We
 ### Définitions
 
 304 Les définitions qui suivent s’appliquent à la présente partie.
+
 «catégorie de biens» Catégorie de biens immeubles prescrite en application de la Loi sur l’évaluation foncière. («property class»)
+
 «contribuable» Personne dont le nom figure au rôle d’imposition. («taxpayer») 2006, chap. 11, annexe A, art. 304.
 
 ### Rôle d’imposition
@@ -6606,16 +8007,27 @@ b) si les renseignements personnels sont recueillis par la cité, sur un site We
 ### Contenu
 
 (2) Le rôle d’imposition indique ce qui suit pour chaque bien situé dans la cité qui est évalué séparément :
+
 a) le numéro assigné au bien sur le rôle d’évaluation;
+
 b) une description du bien suffisante pour en permettre l’identification;
+
 c) le nom de chaque personne qui est visée par l’évaluation d’un bien-fonds, y compris un locataire visé par celle-ci en application de l’article 18 de la Loi sur l’évaluation foncière ;
+
 d) la valeur imposable du bien;
+
 e) le montant total des impôts exigibles;
+
 f) le montant des impôts suivants :
+
 (i) l’impôt général local,
+
 (ii) chaque impôt extraordinaire local,
+
 (iii) les impôts exigibles pour chaque conseil scolaire,
+
 (iv) les impôts exigibles à toute autre fin;
+
 g) si des parties du bien appartiennent à deux catégories de biens ou plus, les sommes visées aux alinéas d), e) et f) pour chaque partie.
 
 ### Attestation
@@ -6633,7 +8045,9 @@ g) si des parties du bien appartiennent à deux catégories de biens ou plus, le
 ### Conséquences des modifications
 
 (2) Les impôts pour l’année sont perçus conformément au rôle d’imposition modifié comme si les modifications avaient fait partie intégrante du rôle d’imposition initial. La cité :
+
 a) soit rembourse les trop-perçus au propriétaire du bien-fonds dont le nom figure au rôle d’imposition à la date à laquelle le redressement est effectué;
+
 b) soit envoie un autre relevé d’imposition pour recueillir les moins-perçus.
 
 ### Idem : remboursement sous forme de crédit
@@ -6643,18 +8057,27 @@ b) soit envoie un autre relevé d’imposition pour recueillir les moins-perçus
 ### Règlements municipaux : versements échelonnés
 
 307 (1) La cité peut, par règlement, prévoir ce qui suit :
+
 a) le paiement des impôts en un seul versement ou par versements échelonnés, ainsi que la ou les dates auxquelles ils sont exigibles au cours de l’année pour laquelle les impôts sont fixés;
+
 b) des versements échelonnés et des dates d’exigibilité au cours de l’année pour laquelle les impôts sont fixés, autres que ceux prévus à l’alinéa a), pour permettre aux contribuables d’échelonner le paiement des impôts plus uniformément sur l’année;
+
 c) la division de la cité en parties et la fixation d’une date d’exigibilité différente pour chaque partie aux fins des versements échelonnés;
+
 d) la prorogation des dates d’exigibilité des versements échelonnés si les versements antérieurs sont effectués à temps;
+
 e) le règlement immédiat des versements échelonnés si les versements antérieurs ne sont pas effectués à temps;
+
 f) si l’utilisation des autres versements échelonnés et des autres dates d’exigibilité prévus à l’alinéa b) cesse autrement qu’à la fin d’une année donnée, le nouveau calcul des frais de paiement tardif et des remises sur les paiements anticipés comme si les versements échelonnés et les dates d’exigibilité prévus à l’alinéa c) s’étaient appliqués pour toute l’année.
 
 ### Versements échelonnés et dates d’exigibilité différents
 
 (2) Un règlement municipal adopté en vertu de l’alinéa (1) a) peut fixer des versements échelonnés et des dates d’exigibilité différents :
+
 a) pour les impôts prélevés sur des biens aux fins municipales et ceux prélevés aux fins scolaires;
+
 b) pour les impôts prélevés sur des biens qui appartiennent à des catégories différentes de biens;
+
 c) pour les impôts prélevés sur des biens qui appartiennent à une catégorie de biens à laquelle s’applique l’article 294 et sur ceux qui appartiennent à une catégorie de biens à laquelle il ne s’applique pas.
 
 ### Paiement
@@ -6668,8 +8091,11 @@ c) pour les impôts prélevés sur des biens qui appartiennent à une catégorie
 ### Cessation
 
 (5) L’utilisation, par un contribuable, des autres versements échelonnés et des autres dates d’exigibilité prévus à l’alinéa (1) b) cesse si, selon le cas :
+
 a) le contribuable demande la cessation par écrit;
+
 b) les impôts du contribuable sont impayés après la date d’exigibilité et le trésorier l’avise par écrit qu’il ne peut plus utiliser les autres versements échelonnés et les autres dates d’exigibilité;
+
 c) la cité ne fixe pas d’autres versements échelonnés et d’autres dates d’exigibilité pour une année.
 
 ### Relevé d’imposition
@@ -6679,17 +8105,29 @@ c) la cité ne fixe pas d’autres versements échelonnés et d’autres dates d
 ### Contenu du relevé d’imposition
 
 (2) Le relevé d’imposition contient les renseignements suivants :
+
 a) le nom du contribuable;
+
 b) le numéro assigné au bien sur le rôle d’évaluation;
+
 c) une description du bien suffisante pour en permettre l’identification;
+
 d) la valeur imposable du bien;
+
 e) le montant total des impôts exigibles;
+
 f) le montant des nouveaux impôts qui doivent figurer séparément sur le rôle d’imposition, à moins que le relevé ne porte sur des impôts provisoires;
+
 g) le montant des impôts ayant déjà fait l’objet d’un relevé pour l’année, majoré des frais de paiement tardif;
+
 h) la ou les dates d’exigibilité des impôts et tout autre échéancier de paiement;
+
 i) le ou les endroits où les impôts peuvent être payés;
+
 j) les frais de paiement tardif qui seront exigés à l’égard des impôts en souffrance;
+
 k) la remise qui sera accordée sur les impôts payés par anticipation;
+
 l) si des parties du bien appartiennent à deux catégories de biens ou plus, les sommes visées aux alinéas d), e), f) et g) pour chaque partie.
 
 ### Relevés d’imposition distincts
@@ -6739,9 +8177,13 @@ l) si des parties du bien appartiennent à deux catégories de biens ou plus, le
 ### Contenu des relevés d’imposition
 
 (3) Le ministre des Finances peut, par règlement :
+
 a) prescrire les renseignements qui doivent ou qui peuvent figurer dans les relevés d’imposition prévus à l’article 308 ou y être joints et interdire que d’autres renseignements y figurent sans son autorisation expresse;
+
 a.1) prescrire le mode de calcul des données sur les modifications d’impôt faisant partie des renseignements qui doivent ou qui peuvent figurer dans les relevés d’imposition prévus à l’article 308 ou y être joints;
+
 b) traiter de la manière dont les relevés d’imposition prévus à l’article 308 sont fournis au contribuable;
+
 c) prescrire la formule qui doit ou peut être employée pour les relevés d’imposition prévus à l’article 308.
 
 ### Application des règlements
@@ -6771,10 +8213,15 @@ c) prescrire la formule qui doit ou peut être employée pour les relevés d’i
 ### Autres intérêts
 
 (6) La cité paie des intérêts, au même taux et de la même manière que dans le cas de ceux qui sont payés en application du paragraphe 257.11 (4) de la Loi sur l’éducation, sur les trop-perçus découlant de ce qui suit :
+
 a) une erreur commise par la cité, un conseil local ou un autre organisme pour lequel les impôts ont été recueillis;
+
 b) une modification apportée en vertu de la Loi sur l’évaluation foncière :
+
 (i) soit à l’évaluation d’un bien,
+
 (ii) soit à la catégorie de biens à laquelle un bien est assigné,
+
 (iii) soit à la répartition de l’évaluation d’un bien entre ses parties si des parties du bien sont assignées à des catégories différentes de biens.
 
 ### Annulation
@@ -6788,8 +8235,11 @@ b) une modification apportée en vertu de la Loi sur l’évaluation foncière :
 ### Aucune rétroactivité
 
 (9) Les intérêts prévus au paragraphe (6) commencent à courir après le dernier en date des jours suivants :
+
 a) s’il s’agit de trop-perçus visés à l’alinéa (6) a), le jour où l’erreur est corrigée et, s’il s’agit de trop-perçus visés à l’alinéa (6) b), 120 jours après celui où la société d’évaluation foncière, la Commission de révision de l’évaluation foncière ou un tribunal avise la cité de la modification;
+
 b) le 1 er janvier 2003.
+
 (10) Abrogé : 2017, chap. 10, annexe 2, art. 36.
 
 ### Partage des paiements d’intérêts
@@ -6811,15 +8261,21 @@ b) le 1 er janvier 2003.
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «institution financière» S’entend de ce qui suit :
+
 a) une banque mentionnée à l’annexe I ou II de la Loi sur les banques (Canada);
+
 b) une société de fiducie inscrite en vertu de la Loi sur les sociétés de prêt et de fiducie ;
+
 c) sous réserve de la Loi de 2020 sur les caisses populaires et les credit unions, une caisse au sens de cette loi.
 
 ### Répartition des paiements
 
 312 (1) Sous réserve des paragraphes (2) et (3), les règles suivantes s’appliquent aux paiements à valoir sur des impôts :
+
 1. Les paiements sont affectés d’abord aux frais de paiement tardif impayés à l’égard des impôts échus, dans l’ordre chronologique de leur imposition.
+
 2. Les paiements sont affectés ensuite aux impôts échus, dans l’ordre chronologique de leur imposition.
 
 ### Paiement partiel
@@ -6853,7 +8309,9 @@ c) sous réserve de la Loi de 2020 sur les caisses populaires et les credit unio
 ### Impôts sur les biens-fonds en déshérence et d’autres biens-fonds
 
 (2.1) Il est entendu que les impôts prélevés ou les redevances imposées en application de l’article 208 de la Loi de 2001 sur les municipalités sur les biens-fonds suivants, par l’effet du paragraphe 429 (2) de la présente loi, ne peuvent pas être recouvrés à titre de dette due à la cité auprès de la Couronne :
+
 1. Les biens-fonds dévolus à la Couronne du chef de l’Ontario pour cause de déshérence ou de confiscation résultant de la dissolution d’une personne morale.
+
 2. Les biens-fonds devenus la propriété de la Couronne du chef de l’Ontario par suite du décès d’un particulier sans héritiers légitimes.
 
 ### Privilège particulier
@@ -6883,16 +8341,23 @@ c) sous réserve de la Loi de 2020 sur les caisses populaires et les credit unio
 ### Saisie
 
 316 (1) Si des impôts sur un bien-fonds demeurent impayés après leur date d’exigibilité, le trésorier municipal ou son mandataire peut saisir ce qui suit en recouvrement des impôts et des frais de saisie :
+
 1. Les biens meubles qui appartiennent au contribuable ou qui sont en sa possession.
+
 2. L’intérêt du contribuable sur des biens meubles, y compris son droit à la possession de tels biens aux termes d’un contrat d’achat ou d’un contrat par lequel il en devient propriétaire à la réalisation d’une condition.
+
 3. Les biens meubles du propriétaire du bien-fonds qui se trouvent sur celui-ci et tout intérêt visé à la disposition 2 qu’il a sur ces biens meubles, même si son nom ne figure pas au rôle d’imposition.
+
 4. Les biens meubles qui se trouvent sur le bien-fonds et dont le titre de propriété est revendiqué en vertu d’une cession ou d’un transfert effectués dans le but d’éviter la saisie.
 
 ### Exception
 
 (2) Malgré le paragraphe (1), le trésorier ou son mandataire peut saisir des biens meubles en vertu du présent article après l’envoi d’un relevé d’imposition, mais avant la date d’exigibilité, si les conditions suivantes sont réunies :
+
 a) il est fondé à croire que les biens meubles saisissables sont sur le point d’être retirés de la cité avant la date d’exigibilité;
+
 b) il souscrit un affidavit à cet effet devant un juge de paix ou le président du conseil municipal;
+
 c) le juge de paix ou le président du conseil décerne un mandat l’autorisant à effectuer la saisie conformément au présent article.
 
 ### Insaisissabilité
@@ -6906,7 +8371,9 @@ c) le juge de paix ou le président du conseil décerne un mandat l’autorisant
 ### Biens d’un cessionnaire ou d’un liquidateur
 
 (5) Malgré le paragraphe (1), les biens meubles détenus par un cessionnaire au profit des créanciers ou par un liquidateur en vertu d’une ordonnance de liquidation ne peuvent être saisis qu’en recouvrement des impôts suivants :
+
 a) les impôts du cédant ou de la compagnie qui est en voie d’être liquidée;
+
 b) les impôts sur le bien-fonds sur lequel les biens meubles se trouvent au moment de la cession ou de l’ordonnance de liquidation, tant que le cessionnaire ou le liquidateur occupe le bien-fonds ou que les biens meubles y demeurent.
 
 ### Autres motifs d’insaisissabilité
@@ -6944,8 +8411,11 @@ b) les impôts sur le bien-fonds sur lequel les biens meubles se trouvent au mom
 ### Priorité après l’avis
 
 (14) Dès qu’il reçoit l’avis du trésorier quant au montant des impôts échus, le shérif, l’huissier, le cessionnaire, le liquidateur, le syndic de faillite ou le syndic de faillite autorisé, selon le cas, lui verse ce montant par priorité sur tous honoraires, frais, privilèges et réclamations à l’égard des biens meubles saisissables en recouvrement d’impôts en vertu du présent article et qui :
+
 a) soit font l’objet d’une saisie ou d’une saisie-arrêt ou ont été saisis par le shérif ou l’huissier d’un tribunal;
+
 b) soit sont réclamés par le cessionnaire au profit des créanciers, le liquidateur, le syndic de faillite ou le syndic de faillite autorisé, ou sont en sa possession;
+
 c) soit ont été convertis en espèces qui n’ont pas été réparties par le shérif, l’huissier, le cessionnaire, le liquidateur, le syndic de faillite ou le syndic de faillite autorisé.
 
 ### Relevé
@@ -6959,7 +8429,9 @@ c) soit ont été convertis en espèces qui n’ont pas été réparties par le 
 ### Impôts perçus pour le compte d’autres organismes
 
 318 (1) Si elle est tenue par la loi de fixer un impôt pour un organisme, la cité lui verse :
+
 a) d’une part, le montant des impôts perçus;
+
 b) d’autre part, sauf disposition contraire, le montant des impôts fixés pour l’organisme mais non perçus en raison du défaut de leur paiement.
 
 ### Exception
@@ -6977,16 +8449,27 @@ b) d’autre part, sauf disposition contraire, le montant des impôts fixés pou
 ### Privilèges en faveur de la Couronne
 
 (4.1) Malgré le paragraphe (4), si, la veille de l’enregistrement d’un avis de dévolution, des privilèges ou autres charges sont enregistrés à l’égard du titre du bien-fonds en faveur de la Couronne du chef de l’Ontario ou qu’un bref d’exécution ou un mandat en faveur de la Couronne est inscrit à l’égard du bien-fonds dans le répertoire des brefs d’exécution maintenu par le shérif du secteur dans lequel se trouve le bien-fonds et que la cité vend celui-ci par la suite, le produit de la vente est réparti entre la cité, l’organisme auquel un montant est imputé en application du paragraphe (3) et la Couronne, conformément aux règles suivantes :
+
 1. Sous réserve de la disposition 2, calculer le total de ce qui suit :
+
 i. les impôts impayés qui sont dus à la cité,
+
 ii. les montants imputés en application du paragraphe (3),
+
 iii. le montant total impayé aux termes des privilèges ou autres charges en faveur de la Couronne qui sont enregistrés la veille de l’enregistrement de l’avis de dévolution et tout montant impayé ce jour-là aux termes d’un bref d’exécution ou d’un mandat en faveur de la Couronne qui est inscrit dans le répertoire des brefs d’exécution maintenu par le shérif du secteur dans lequel se trouve le bien-fonds.
+
 2. Le montant visé à chacune des sous-dispositions 1 i, ii et iii correspond au moins élevé des montants suivants :
+
 i. le montant effectif,
+
 ii. la valeur imposable du bien-fonds, telle qu’elle figure sur le rôle d’évaluation déposé le plus récemment pour l’année au cours de laquelle sa vente a eu lieu.
+
 3. Sous réserve de la disposition 2, le pourcentage du produit de la vente auquel a droit la cité est établi en divisant les impôts impayés qui sont dus à la cité, déterminés en application de la sous-disposition 1 i, par le total calculé en application de la disposition 1.
+
 4. Sous réserve de la disposition 2, le pourcentage du produit de la vente auquel a droit l’organisme auquel un montant est imputé en application du paragraphe (3) est établi en divisant le montant qui lui est imputé en application de ce paragraphe, déterminé en application de la sous-disposition 1 ii, par le total calculé en application de la disposition 1.
+
 5. Sous réserve de la disposition 2, le pourcentage du produit de la vente auquel a droit la Couronne est établi en divisant le montant, déterminé en application de la sous-disposition 1 iii, par le total calculé en application de la disposition 1.
+
 (4.2) Abrogé : 2017, chap. 10, annexe 2, par. 39 (1).
 
 ### Déduction
@@ -7004,8 +8487,11 @@ ii. la valeur imposable du bien-fonds, telle qu’elle figure sur le rôle d’�
 ### Conditions
 
 (2) Le trésorier municipal retire les impôts impayés du rôle d’imposition si, selon le cas :
+
 a) le conseil municipal, sur la recommandation du trésorier, les radie à titre d’impôts irrécouvrables;
+
 b) les impôts ne sont plus exigibles en raison d’un allégement fiscal accordé en vertu de l’article 283, 310, 323, 325, 330, 331, 332, 333 ou 334 ou d’une décision judiciaire;
+
 c) les impôts ne sont plus exigibles parce qu’ils découlaient de l’évaluation d’un bien-fonds effectuée en application du paragraphe 33 (1) de la Loi sur l’évaluation foncière pour une période pendant laquelle un règlement pris en application du paragraphe 33 (1.1) de cette loi prévoit que le paragraphe 33 (1) de la même loi ne s’applique pas au bien-fonds.
 
 ### Idem
@@ -7015,8 +8501,11 @@ c) les impôts ne sont plus exigibles parce qu’ils découlaient de l’évalua
 ### Exception
 
 (4) Malgré le paragraphe (3), la cité peut radier des impôts en application de l’alinéa (2) a) sans tenir de vente pour non-paiement des impôts en vertu de la partie XIV (Vente de biens-fonds pour arriérés d’impôts fonciers) :
+
 a) si les biens appartiennent au Canada, à une province, à un territoire ou à un organisme de la Couronne de l’un d’eux, ou encore à une municipalité;
+
 b) si la recommandation du trésorier visée à l’alinéa (2) a) comporte une explication écrite de la raison pour laquelle la tenue d’une vente pour non-paiement des impôts ne serait pas efficace ou appropriée;
+
 c) dans les circonstances prescrites.
 
 ### Règlements
@@ -7034,16 +8523,23 @@ c) dans les circonstances prescrites.
 ### Idem
 
 (2) Dans un règlement visé au paragraphe (1), la cité peut préciser deux montants d’impôt et prévoir ce qui suit :
+
 a) si le montant total des impôts serait inférieur au montant précisé le moins élevé, le montant des impôts effectivement exigibles est nul;
+
 b) si le montant total des impôts serait égal ou supérieur au montant précisé le moins élevé et inférieur au montant précisé le plus élevé, le montant des impôts effectivement exigibles ne doit pas dépasser le montant précisé le plus élevé.
 
 ### Division en parcelles
 
 322 (1) Si le trésorier municipal présente à la cité une demande ou que le propriétaire d’un bien-fonds présente une demande au trésorier, la cité peut :
+
 a) diviser, pour l’application du présent article, un bien-fonds évalué en bloc en deux parcelles ou plus si chaque parcelle peut être légalement transportée en application de la Loi sur l’aménagement du territoire ;
+
 b) répartir entre les parcelles les impôts impayés à l’égard du bien-fonds :
+
 (i) proportionnellement à leur valeur relative au moment du dépôt du rôle d’évaluation de l’année de la demande,
+
 (ii) de toute autre manière, si le conseil municipal est d’avis que le mode de répartition prévu au sous-alinéa (i) ne convient pas en raison de circonstances extraordinaires;
+
 c) ordonner quelle proportion des paiements partiels d’impôts à l’égard du bien-fonds doit être appliquée à chaque parcelle.
 
 ### État
@@ -7053,8 +8549,11 @@ c) ordonner quelle proportion des paiements partiels d’impôts à l’égard d
 ### Réunion
 
 (3) Au plus tard le 30 septembre de l’année qui suit celle de la demande, le conseil fait ce qui suit :
+
 a) il tient une réunion à laquelle l’auteur de la demande et le propriétaire de n’importe quelle partie du bien-fonds peuvent lui présenter des observations;
+
 b) il avise l’auteur de la demande et le propriétaire de la tenue de la réunion par courrier envoyé au moins 14 jours à l’avance;
+
 c) il prend sa décision.
 
 ### Avis
@@ -7096,15 +8595,25 @@ c) il prend sa décision.
 ### Annulation, diminution et remboursement d’impôts
 
 323 (1) Sur présentation d’une demande au trésorier municipal conformément au présent article, la cité peut annuler, diminuer ou rembourser la totalité ou une partie des impôts prélevés à l’égard d’un bien-fonds au cours de l’année que vise la demande si, selon le cas :
+
 a) par suite d’un événement, au sens de l’alinéa a) de la définition de «événement» au paragraphe 34 (2.2) de la Loi sur l’évaluation foncière, qui se produit pendant l’année d’imposition, tout ou partie du bien est admissible à être classé dans une catégorie différente de biens immeubles, au sens des règlements pris en application de cette loi, qui est assortie d’un coefficient d’impôt inférieur pour l’année à celui dont est assortie la catégorie à laquelle le bien ou la partie du bien appartient avant l’événement et qu’aucune évaluation supplémentaire n’est effectuée à l’égard de l’événement en application du paragraphe 34 (2) de la Loi sur l’évaluation foncière ;
+
 b) le bien-fonds est devenu un bien-fonds vacant ou un bien-fonds excédentaire au cours de l’année ou l’année précédente après le dépôt du rôle d’évaluation de cette dernière année;
+
 c) le bien-fonds s’est vu exonérer d’impôts au cours de l’année ou l’année précédente après le dépôt du rôle d’évaluation de cette dernière année;
+
 d) au cours de l’année ou l’année précédente après le dépôt du rôle d’évaluation, un bâtiment qui se trouve sur le bien-fonds :
+
 (i) a été démoli ou détruit, notamment par un incendie,
+
 (ii) a subi des dommages, notamment à cause d’un incendie ou de travaux de démolition, de telle sorte qu’il est, en grande partie, inutilisable aux fins auxquelles il servait immédiatement avant son endommagement;
+
 e) l’auteur de la demande est dans l’impossibilité de payer les impôts pour cause de maladie ou de pauvreté extrême;
+
 f) une unité mobile qui se trouvait sur le bien-fonds a été retirée au cours de l’année ou l’année précédente après le dépôt du rôle d’évaluation de cette dernière année;
+
 g) une personne est assujettie à des impôts excessifs par suite d’une erreur grossière ou manifeste, soit de fait ou d’écriture, notamment une inversion de chiffres, une faute de frappe ou erreur semblable, mais non d’une erreur de jugement commise lors de l’évaluation du bien;
+
 h) des réparations ou des rénovations effectuées sur le bien-fonds ont empêché son utilisation aux fins habituelles pendant au moins trois mois au cours de l’année.
 
 ### Exception : remises à l’égard des locaux vacants
@@ -7118,8 +8627,11 @@ h) des réparations ou des rénovations effectuées sur le bien-fonds ont empêc
 ### Demande
 
 (2) Une demande ne peut être présentée que par le propriétaire du bien-fonds ou par une autre personne qui, selon le cas :
+
 a) a un intérêt sur le bien-fonds comme l’indiquent les registres du bureau d’enregistrement immobilier compétent et du bureau du shérif;
+
 b) a la possession du bien-fonds, notamment à titre de locataire ou d’occupant;
+
 c) est le conjoint du propriétaire ou de l’autre personne visée à l’alinéa a) ou b).
 
 ### Délai
@@ -7133,8 +8645,11 @@ c) est le conjoint du propriétaire ou de l’autre personne visée à l’alin�
 ### Réunion
 
 (5) Au plus tard le 30 septembre de l’année qui suit celle que vise la demande, le conseil fait ce qui suit :
+
 a) il tient une réunion à laquelle l’auteur de la demande peut lui présenter des observations;
+
 b) il avise l’auteur de la demande de la tenue de la réunion par courrier envoyé au moins 14 jours à l’avance;
+
 c) il prend sa décision.
 
 ### Avis
@@ -7172,7 +8687,9 @@ c) il prend sa décision.
 ### Restriction
 
 (14) Une décision ne peut être prise ou rendue en vertu du paragraphe (13) que si les conditions suivantes sont réunies :
+
 a) elle est prise ou rendue au plus tard le dernier jour de février de l’année qui suit celle que vise la demande;
+
 b) quiconque serait, selon le rôle d’imposition, assujetti aux impôts réinscrits a l’occasion de présenter des observations au conseil ou à la Commission, selon le cas.
 
 ### Appel
@@ -7182,7 +8699,9 @@ b) quiconque serait, selon le rôle d’imposition, assujetti aux impôts réins
 ### Exigibilité des impôts réinscrits
 
 (16) Les impôts réinscrits au rôle d’imposition d’une année sont exigibles, après l’envoi d’un relevé d’imposition à la personne qui y est assujettie :
+
 a) dans le cadre du prochain versement d’impôts exigible au cours de l’année;
+
 b) le 22 e jour qui suit l’envoi du relevé d’imposition, s’il n’y a plus de versement exigible cette année-là ou que le relevé d’imposition n’est envoyé que l’année suivante.
 
 ### Décision définitive
@@ -7212,18 +8731,23 @@ b) le 22 e jour qui suit l’envoi du relevé d’imposition, s’il n’y a plu
 ### Définition
 
 (5) La définition qui suit s’applique au présent article.
+
 «paiement tenant lieu d’impôts» Montant tenant lieu d’impôts auquel la cité est admissible au cours d’une année à l’égard de biens immeubles qui sont exonérés d’impôts en vertu de la Loi sur l’évaluation foncière, si le montant est égal aux impôts aux fins municipales ou aux fins municipales et scolaires qui auraient été exigibles à l’égard de ces biens immeubles au cours de cette année si ces biens avaient été imposables.
 
 ### Imposition excessive
 
 325 (1) Sur présentation d’une demande au trésorier municipal conformément au présent article, la cité peut annuler, diminuer ou rembourser la totalité ou une partie des impôts prélevés à l’égard d’un bien-fonds :
+
 a) soit au cours de chacune ou de l’une ou l’autre des deux années qui précèdent celle de la demande en cas d’imposition excessive attribuable à une erreur grossière ou manifeste, soit de fait ou d’écriture, dans l’établissement du rôle d’évaluation, notamment une inversion de chiffres, une faute de frappe ou erreur semblable, mais non à une erreur de jugement commise lors de l’évaluation du bien;
+
 b) soit au cours de l’année ou des années à l’égard desquelles une évaluation est effectuée en application de l’article 33 ou 34 de la Loi sur l’évaluation foncière en cas d’imposition excessive attribuable à une erreur grossière ou manifeste, soit de fait ou d’écriture, notamment une inversion de chiffres, une faute de frappe ou erreur semblable, mais non à une erreur de jugement commise lors de l’évaluation du bien.
 
 ### Demande
 
 (2) Une demande ne peut être présentée que par l’une ou l’autre des personnes suivantes :
+
 a) le propriétaire du bien-fonds ou une autre personne visée au paragraphe 323 (2);
+
 b) le trésorier municipal.
 
 ### Délai — erreur dans le rôle d’évaluation
@@ -7241,12 +8765,19 @@ b) le trésorier municipal.
 ### Restriction
 
 (5) Malgré les paragraphes (3) et (3.1), aucune demande ne doit être présentée à l’égard des impôts prélevés au cours d’une année si l’évaluation du bien-fonds pour cette année-là a fait l’objet d’un appel ou d’une requête visé à l’article 40 ou 46 de la Loi sur l’évaluation foncière, sauf si, selon le cas :
+
 a) l’erreur est commise après l’interjection de tous les appels ou la présentation de toutes les requêtes;
+
 b) l’appel ou la requête, selon le cas :
+
 (i) émane d’une personne autre que le contribuable,
+
 (ii) est retiré avant son audition,
+
 (iii) vise la modification du soutien scolaire accordé par le contribuable qui figure au rôle d’évaluation, ou l’ajout de ce soutien à ce rôle,
+
 (iv) vise le changement du nom ou de l’adresse postale du contribuable qui figure au rôle d’évaluation;
+
 c) l’appel ou la requête appartient à une catégorie prescrite d’appels ou de requêtes.
 
 ### Copie à fournir
@@ -7264,8 +8795,11 @@ c) l’appel ou la requête appartient à une catégorie prescrite d’appels ou
 ### Réunion
 
 (9) Au plus tard le 30 septembre de l’année qui suit celle de la demande, le conseil fait ce qui suit :
+
 a) il tient une réunion à laquelle l’auteur de la demande peut lui présenter des observations;
+
 b) il avise l’auteur de la demande de la tenue de la réunion par courrier envoyé au moins 14 jours à l’avance;
+
 c) il prend sa décision.
 
 ### Avis
@@ -7307,8 +8841,11 @@ c) il prend sa décision.
 ### Réunion
 
 (4) Le conseil fait ce qui suit :
+
 a) il tient une réunion à laquelle le trésorier et la personne visée par la demande peuvent lui présenter des observations;
+
 b) il avise le trésorier et la personne visée par la demande de la tenue de la réunion par courrier envoyé au moins 14 jours à l’avance;
+
 c) il prend sa décision.
 
 ### Avis
@@ -7354,7 +8891,9 @@ c) il prend sa décision.
 ### Impôts excessifs
 
 (13.2) S’il est interjeté appel de la décision que prend le conseil en application du présent article et que la Commission de révision de l’évaluation foncière détermine que des impôts excessifs ont été prélevés sur le bien-fonds :
+
 a) d’une part, la cité rembourse le trop-perçu, le cas échéant;
+
 b) d’autre part, les paragraphes 310 (6) à (11) s’appliquent, avec les adaptations nécessaires, aux impôts excessifs.
 
 ### Avis
@@ -7368,7 +8907,9 @@ b) d’autre part, les paragraphes 310 (6) à (11) s’appliquent, avec les adap
 ### Réunion
 
 (2) Avant de prendre une décision en vertu du paragraphe (1), le conseil fait ce qui suit :
+
 a) il tient une réunion à laquelle le trésorier et la personne visée par la demande peuvent lui présenter des observations;
+
 b) il avise le trésorier et la personne visée par la demande de la tenue de la réunion par courrier envoyé au moins 14 jours à l’avance.
 
 ### Avis
@@ -7394,26 +8935,39 @@ b) il avise le trésorier et la personne visée par la demande de la tenue de la
 ### Organismes de bienfaisance et biens admissibles
 
 (2) Pour l’application du présent article :
+
 a) un organisme de bienfaisance est admissible s’il est un organisme de bienfaisance enregistré au sens du paragraphe 248 (1) de la Loi de l’impôt sur le revenu (Canada) et porteur d’un numéro d’enregistrement délivré par l’Agence du revenu du Canada;
+
 b) un bien est admissible s’il appartient à l’une des catégories commerciales ou des catégories industrielles, au sens du paragraphe 275 (1) de la présente loi, ou s’il appartient à une catégorie prescrite en vertu de l’alinéa (11) b.1) du présent article.
 
 ### Dispositions obligatoires du programme
 
 (3) Le programme de remises d’impôt prévu au présent article est assujetti aux exigences suivantes :
+
 1. Le programme prévoit une remise en faveur de l’organisme de bienfaisance admissible qui paie des impôts ou des sommes au titre des impôts sur le bien admissible qu’il occupe.
+
 2. La remise exigée par la disposition 1 est égale à au moins 40 pour cent, ou au pourcentage que prescrit le ministre des Finances, des impôts ou des sommes au titre des impôts payés par l’organisme de bienfaisance admissible sur le bien qu’il occupe. Si ce dernier est tenu de payer une somme en application de l’article 337 ou 338, la remise est égale au total des sommes qu’il a payées en application de ces articles.
+
 3. Le programme prévoit que la moitié de la remise doit être payée au plus tard 60 jours après que la cité a reçu la demande de remise de l’organisme de bienfaisance admissible pour l’année d’imposition et que le solde de la remise doit l’être dans les 120 jours de la réception de la demande.
+
 4. Le programme autorise l’organisme de bienfaisance admissible à présenter une demande de remise pour une année d’imposition en fonction d’une estimation des impôts ou des sommes au titre des impôts qu’il doit payer sur le bien qu’il occupe.
+
 5. Le programme prévoit qu’un redressement final est effectué, après le calcul des impôts ou des sommes au titre des impôts que paie l’organisme de bienfaisance, en fonction de l’écart entre la remise estimative qu’a payée la cité et celle à laquelle l’organisme de bienfaisance a droit.
+
 6. Le programme exige, comme condition de l’obtention de la remise d’une année, que l’organisme de bienfaisance rembourse à toute autre municipalité l’excédent des remises qu’il a reçues de cette municipalité pour l’année sur celles qu’il a le droit de recevoir d’elle pour cette année.
+
 7. Une demande visant une année d’imposition donnée est présentée après le 1 er janvier de l’année, mais au plus tard le dernier jour de février de l’année suivante. Toutefois, la cité peut accepter une demande après ce délai si elle est d’avis que des circonstances atténuantes expliquent pourquoi l’auteur de la demande n’a pu la présenter dans le délai imparti.
 
 ### Dispositions facultatives du programme
 
 (4) Les règles suivantes s’appliquent à l’égard de ce qu’un programme de remises d’impôt prévu au présent article peut prévoir, sans y être tenu :
+
 1. Le programme peut prévoir des remises en faveur d’organismes qui sont semblables aux organismes de bienfaisance admissibles ou d’une catégorie de tels organismes que définit la cité.
+
 2. Le programme peut prévoir des remises, en faveur des organismes de bienfaisance admissibles ou d’organismes semblables, des impôts ou des sommes au titre des impôts prélevés sur les biens qui appartiennent à une catégorie de biens immeubles prescrite en application de la Loi sur l’évaluation foncière.
+
 3. Le programme peut prévoir des remises supérieures à celles exigées en application du paragraphe (3) et des remises différentes pour des organismes de bienfaisance admissibles ou organismes semblables différents, jusqu’à concurrence de 100 pour cent des impôts qu’ils ont payés.
+
 4. Le programme peut prévoir que les redressements qui visent les remises d’une année sont déduits des sommes payables l’année suivante au titre des remises de celle-ci.
 
 ### Formalités
@@ -7439,34 +8993,51 @@ b) un bien est admissible s’il appartient à l’une des catégories commercia
 ### Modification de l’évaluation
 
 (10) Les règles suivantes s’appliquent si l’évaluation d’un bien admissible pour une année est modifiée par suite d’une demande présentée en vertu de l’article 39.1 de la Loi sur l’évaluation foncière, d’un appel interjeté en vertu de l’article 40 de cette loi, d’une requête présentée en vertu de l’article 46 de cette loi ou d’une correction apportée en vertu du paragraphe 32 (1.1) de la même loi :
+
 1. La remise visée au paragraphe (3) à l’égard de l’année est calculée de nouveau en fonction des nouveaux impôts prélevés sur le bien pour l’année par suite de la nouvelle évaluation.
+
 2. Le montant de la remise, s’il est augmenté par suite du nouveau calcul prévu à la disposition 1, est versé à l’organisme de bienfaisance admissible conformément au présent article.
+
 3. Si, par suite du nouveau calcul prévu à la disposition 1, le montant de la remise est diminué et que les sommes versées au titre de la remise dépassent le montant de la remise tel qu’il est calculé de nouveau, les paiements excédentaires sont une dette due à la cité. Celle-ci ne peut toutefois prendre de mesures pour recouvrer la dette, y compris imposer des intérêts, avant que 120 jours se soient écoulés après avoir donné avis de la dette à l’organisme de bienfaisance admissible.
 
 ### Règlements
 
 (11) Le ministre des Finances peut, par règlement :
+
 a) régir les programmes prévus au présent article, y compris prescrire des exigences supplémentaires à leur égard;
+
 b) régir les formalités que les programmes doivent comprendre;
+
 b.1) prescrire des catégories de biens immeubles pour l’application de l’alinéa (2) b) et de la disposition 2 du paragraphe (13), à l’exclusion de la catégorie des biens résidentiels, de la catégorie des immeubles à logements multiples, de la catégorie des biens agricoles, de la catégorie des pipelines et de la catégorie des forêts aménagées;
+
 c) prescrire un pourcentage pour l’application de la disposition 2 du paragraphe (3);
+
 d) prescrire un délai pour l’application du paragraphe (8).
 
 ### Définition
 
 (12) La définition qui suit s’applique au présent article.
+
 «impôt» S’entend en outre de ce qui suit :
+
 a) les redevances imposées en application de l’article 208 de la Loi de 2001 sur les municipalités par l’effet du paragraphe 429 (2) de la présente loi;
+
 b) les droits et redevances, sauf les redevances visées à l’alinéa a), fixés en vertu de la présente loi qui remplissent les conditions énoncées aux dispositions 1, 2 et 3 du paragraphe (13).
 
 ### Idem
 
 (13) Les conditions visées à l’alinéa b) de la définition de «impôt» au paragraphe (12) sont les suivantes :
+
 1. Les droits et redevances sont fixés pour recueillir une somme à au moins une des fins suivantes :
+
 i. Promouvoir un secteur comme secteur d’affaires ou secteur commercial.
+
 ii. Aménager, embellir et entretenir des biens-fonds, bâtiments et constructions du secteur qui appartiennent à la cité, en plus des travaux généralement exécutés à ses frais.
+
 iii. Couvrir les intérêts payables par la cité sur les sommes qu’elle emprunte aux fins énoncées à la sous-disposition i ou ii.
+
 2. Les droits et redevances sont prélevés auprès des propriétaires de biens-fonds compris dans les catégories commerciales ou industrielles, au sens du paragraphe 275 (1), ou dans une catégorie prescrite en vertu de l’alinéa (11) b.1).
+
 3. Les droits et redevances ont le statut de privilège prioritaire et sont ajoutés au rôle d’imposition.
 
 ### Réductions d’impôt
@@ -7492,6 +9063,7 @@ iii. Couvrir les intérêts payables par la cité sur les sommes qu’elle empru
 ### Définition
 
 (6) La définition qui suit s’applique au présent article.
+
 «somme admissible» À l’égard d’un bien, l’excédent des impôts qui seraient calculés pour l’année en l’absence de la partie XII (Plafonnement des impôts municipaux traditionnels) sur les impôts calculés en application de l’article 291.
 
 ### Remises à l’égard des locaux vacants
@@ -7505,20 +9077,31 @@ iii. Couvrir les intérêts payables par la cité sur les sommes qu’elle empru
 ### Exigences relatives au programme
 
 (2) Le programme de remises d’impôt prévu au présent article doit satisfaire aux exigences suivantes :
+
 1. Le programme s’applique aux biens admissibles que prescrit le ministre des Finances pour l’application du présent article et selon ce qui est énoncé dans tout règlement municipal adopté en vertu du paragraphe (2.1).
+
 2. Si le bien appartient à l’une des catégories commerciales, la remise correspond à 30 %, ou au pourcentage prescrit par les règlements ou calculé conformément à ceux-ci ou au pourcentage établi par un règlement municipal adopté en vertu du paragraphe (2.1) ou calculé conformément à celui-ci, des impôts applicables au bien admissible, tels qu’ils sont calculés en application de l’alinéa (12) b).
+
 3. Si le bien appartient à l’une des catégories industrielles, la remise correspond à 35 %, ou au pourcentage prescrit par les règlements ou calculé conformément à ceux-ci ou au pourcentage établi par un règlement municipal adopté en vertu du paragraphe (2.1) ou calculé conformément à celui-ci, des impôts applicables au bien admissible, tels qu’ils sont calculés en application de l’alinéa (12) b).
+
 3.1 Si le bien appartient à une catégorie prescrite en vertu de l’alinéa (12) a.0.1), la remise correspond au pourcentage prescrit par les règlements ou calculé conformément à ceux-ci ou au pourcentage établi par un règlement municipal adopté en vertu du paragraphe (2.1) ou calculé conformément à celui-ci.
+
 4. Une demande peut être présentée par le propriétaire ou en son nom.
+
 5. La demande doit être présentée à la cité au plus tard le dernier jour de février de l’année suivant l’année d’imposition à l’égard de laquelle la demande est présentée ou au plus tard à l’autre date que prescrit le ministre des Finances avant ou après l’expiration du délai.
+
 6. Sous réserve de la disposition 7, le propriétaire ou la personne qui agit en son nom présente une seule demande à l’égard d’une année d’imposition donnée, sauf si le ministre des Finances prescrit que plus d’une demande peut être présentée.
+
 7. Une demande provisoire à l’égard des six premiers mois de l’année d’imposition peut être présentée, sauf si le ministre des Finances a, par règlement, soustrait la cité à l’application de la présente disposition.
 
 ### Choix relatifs aux règlements municipaux
 
 (2.1) La cité peut, par règlement :
+
 a) prévoir des exigences auxquelles doit satisfaire le programme outre celles qui sont prévues au présent article, y compris des exigences ou critères supplémentaires auxquels tout ou partie d’un bien doit satisfaire pour être un bien admissible;
+
 b) préciser les circonstances dans lesquelles aucune remise n’est payable à l’égard d’un bien qui serait par ailleurs un bien admissible;
+
 c) préciser, pour chaque catégorie à l’égard de laquelle la remise s’applique, un pourcentage pour la remise en faveur d’un bien admissible d’au plus 35 %. 2020, chap. 36, annexe 4, par. 2 (6).
 
 ### Autres exigences
@@ -7528,9 +9111,13 @@ c) préciser, pour chaque catégorie à l’égard de laquelle la remise s’app
 ### Utilisations multiples
 
 (3) Si, dans le rôle d’évaluation, des parties différentes d’un bien sont classées dans une des catégories commerciales ou des catégories industrielles ou dans une catégorie prescrite en vertu de l’alinéa (12) a.0.1) :
+
 a) la partie classée dans les catégories commerciales, le cas échéant, est réputée être un bien pour l’application du présent article;
+
 b) la partie classée dans les catégories industrielles, le cas échéant, est réputée être un autre bien pour l’application du présent article;
+
 c) les parties classées dans chaque catégorie prescrite en vertu de l’alinéa (12) a.0.1), le cas échéant, sont chacune réputées être un bien distinct pour l’application du présent article.
+
 (4) Abrogé : 2020, chap. 36, annexe 4, par. 2 (7).
 
 ### Exigences en matière de preuve
@@ -7564,20 +9151,35 @@ c) les parties classées dans chaque catégorie prescrite en vertu de l’aliné
 ### Règlements
 
 (12) Le ministre des Finances peut, par règlement :
+
 0.a) prescrire, pour l’application du paragraphe (1), que la cité n’est pas tenue de se doter d’un programme de remises d’impôt;
+
 a) prescrire les exigences auxquelles tout ou partie d’un bien doit satisfaire pour être un bien admissible;
+
 a.0.0.1) prescrire les circonstances dans lesquelles aucune remise n’est payable à l’égard d’un bien qui serait par ailleurs un bien admissible;
+
 a.0.1) prescrire des catégories de biens immeubles pour l’application du présent article, à l’exclusion de la catégorie des biens résidentiels, de la catégorie des immeubles à logements multiples, de la catégorie des biens agricoles, de la catégorie des pipelines et de la catégorie des forêts aménagées;
+
 a.1) prescrire des pourcentages ou le mode de calcul de pourcentages pour l’application des dispositions 2, 3 et 3.1 du paragraphe (2);
+
 b) traiter du mode de calcul des impôts auxquels les pourcentages prévus aux dispositions 2 et 3 du paragraphe (2) doivent être appliqués;
+
 c) traiter de la façon dont la société d’évaluation foncière doit calculer la valeur d’un bien admissible;
+
 d) prescrire le nombre de demandes ou leur fréquence de présentation pour l’application de la disposition 6 du paragraphe (2);
+
 d.1) soustraire la cité à l’application de la disposition 7 du paragraphe (1);
+
 d.2) prescrire des restrictions ou des conditions pour l’application du paragraphe (2.1);
+
 e) régir les programmes prévus au présent article, y compris prescrire des exigences supplémentaires à leur égard, et régir les formalités qu’ils doivent comprendre;
+
 f) prescrire une date pour l’application des paragraphes (2) et (15);
+
 g) prescrire des délais pour l’application des paragraphes (6) et (8);
+
 h) prescrire la façon dont le montant de la remise d’impôts à l’égard d’un bien est partagé entre la cité et les conseils scolaires qui reçoivent une part des recettes provenant des impôts sur le bien, notamment prescrire que ce montant ne doit pas être partagé entre la cité et les conseils scolaires;
+
 i) prescrire un délai ou une date pour l’application du paragraphe (20).
 
 ### Incompatibilité
@@ -7615,7 +9217,9 @@ i) prescrire un délai ou une date pour l’application du paragraphe (20).
 ### Intérêts
 
 (20) La cité paie des intérêts, au taux prévu au paragraphe 257.11 (4) de la Loi sur l’éducation, sur le montant de toute remise à laquelle l’auteur d’une demande a droit en vertu du présent article si la cité ne lui remet pas ou ne porte pas à son crédit ce montant :
+
 a) soit dans les 120 jours qui suivent la réception de la demande ou de la demande provisoire;
+
 b) soit dans le délai ou au plus tard à la date que prescrit le ministre des Finances.
 
 ### Traitement gratuit
@@ -7637,6 +9241,7 @@ b) soit dans le délai ou au plus tard à la date que prescrit le ministre des F
 ### Définition
 
 (25) La définition qui suit s’applique au présent article.
+
 «impôt» S’entend au sens de l’article 329.
 
 ### Effet rétroactif
@@ -7654,6 +9259,7 @@ b) soit dans le délai ou au plus tard à la date que prescrit le ministre des F
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «bien admissible» Bien classé dans la catégorie des biens résidentiels, la catégorie des biens agricoles ou la catégorie des forêts aménagées.
 
 ### Annulation des impôts : réhabilitation environnementale
@@ -7661,27 +9267,41 @@ b) soit dans le délai ou au plus tard à la date que prescrit le ministre des F
 ### Définitions
 
 333 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «aide fiscale» À l’égard d’un bien admissible, l’annulation ou le report des impôts conformément à un règlement municipal adopté en vertu du paragraphe (2). («tax assistance»)
+
 «bien admissible» Bien pour lequel une évaluation environnementale de site de phase II a été effectuée et qui répond aux conditions suivantes :
+
 a) il est compris, en vertu de l’article 28 de la Loi sur l’aménagement du territoire, dans une zone d’améliorations communautaires pour laquelle est en vigueur un plan d’améliorations communautaires qui contient des dispositions relatives à l’aide fiscale prévue au présent article;
+
 b) à la date d’achèvement de l’évaluation environnementale, il ne satisfait pas aux normes auxquelles il faut satisfaire en application de la sous-disposition 4 i du paragraphe 168.4 (1) de la Loi sur la protection de l’environnement afin de pouvoir déposer un dossier de l’état d’un site dans le Registre environnemental des sites en vertu de ce paragraphe. («eligible property»)
+
 «évaluation environnementale de site de phase II» S’entend au sens de la partie XV.1 de la Loi sur la protection de l’environnement. («phase two environmental site assessment»)
+
 «période d’aide» À l’égard d’un bien admissible, la période qui commence à la date à laquelle est adopté en vertu du paragraphe (2) le règlement municipal prévoyant la fourniture d’une aide fiscale à l’égard du bien et qui se termine à celle des dates suivantes qui est antérieure à l’autre :
+
 a) la date précisée dans le règlement;
+
 b) la date à laquelle l’aide fiscale fournie à l’égard du bien égale la somme de ce qui suit :
+
 (i) les frais engagés pour toute mesure visant à diminuer la concentration en contaminants sur, dans ou sous le bien afin de pouvoir déposer un dossier de l’état d’un site dans le Registre environnemental des sites en vertu de l’article 168.4 de la Loi sur la protection de l’environnement,
+
 (ii) les frais engagés pour se conformer à un certificat d’usage d’un bien délivré en vertu de l’article 168.6 de la Loi sur la protection de l’environnement. («assistance period»)
+
 «plan d’améliorations communautaires» et «zone d’améliorations communautaires» S’entendent au sens du paragraphe 28 (1) de la Loi sur l’aménagement du territoire. («community improvement plan», «community improvement project area») 2006, chap. 11, annexe A, par. 333 (1)
 
 ### Règlement municipal visant à annuler les impôts
 
 (2) Sous réserve du paragraphe (7), la cité peut adopter des règlements prévoyant l’annulation, aux conditions qu’elle fixe, de la totalité ou d’une partie des impôts prélevés au cours de la période d’aide aux fins municipales et scolaires sur un ou plusieurs biens admissibles déterminés.
+
 (3) Abrogé : 2006, chap. 32, annexe B, par. 65 (4).
 
 ### Paiement de l’impôt en cas de non-respect des conditions
 
 (4) Si la cité adopte un règlement en vertu du paragraphe (2) qui contient des conditions auxquelles il doit être satisfait avant qu’une aide fiscale soit fournie, le règlement peut également prévoir ce qui suit :
+
 a) la totalité ou une partie des impôts qui font l’objet de l’aide fiscale peuvent être prélevés mais non perçus avant que la cité détermine s’il a été satisfait aux conditions;
+
 b) les impôts ne sont exigibles que lorsque la cité avise par écrit le propriétaire du bien qu’il n’a pas été satisfait aux conditions imposées en vertu du règlement.
 
 ### Idem
@@ -7691,9 +9311,13 @@ b) les impôts ne sont exigibles que lorsque la cité avise par écrit le propri
 ### Avis au ministre des Finances
 
 (6) Si elle adopte un règlement en vertu du paragraphe (2), la cité en remet une copie au ministre des Finances dans les 30 jours qui suivent son adoption, accompagnée des renseignements suivants :
+
 1. Une estimation du coût de l’aide fiscale à fournir en application du règlement, ventilé en fonction des impôts prélevés aux fins municipales et les impôts prélevés aux fins scolaires, le cas échéant.
+
 2. Le taux d’imposition présentement applicable au bien admissible ainsi que l’évaluation foncière du bien et la catégorie de biens à laquelle il appartient.
+
 3. Les impôts présentement prélevés sur le bien admissible aux fins municipales et scolaires.
+
 4. Les autres renseignements que prescrit le ministre des Finances.
 
 ### Approbation du ministre des Finances
@@ -7719,6 +9343,7 @@ b) les impôts ne sont exigibles que lorsque la cité avise par écrit le propri
 ### Approbation de la cité
 
 (10) Sur approbation d’une demande présentée en vertu du paragraphe (9), la cité avise le propriétaire du bien admissible de la date d’effet de l’aide fiscale et lui fournit une estimation de l’aide fiscale maximale.
+
 (11) et (12) Abrogés : 2006, chap. 32, annexe B, par. 65 (10).
 
 ### Annulation des impôts pour une partie de l’année
@@ -7732,12 +9357,15 @@ b) les impôts ne sont exigibles que lorsque la cité avise par écrit le propri
 ### Non-application du règlement municipal aux impôts prélevés aux fins scolaires
 
 (15) Malgré le paragraphe (14), si un règlement municipal adopté en vertu du paragraphe (2) ne s’applique pas aux impôts prélevés aux fins scolaires, l’aide fiscale n’a aucune incidence sur le montant de ces impôts à verser aux conseils scolaires.
+
 (16) et (17) Abrogés : 2006, chap. 32, annexe B, par. 65 (10).
 
 ### Remboursement ou crédit
 
 (18) Lorsqu’elle fournit une aide fiscale pour un bien admissible, la cité peut :
+
 a) soit rembourser les impôts dans la mesure nécessaire pour fournir l’aide fiscale, si les impôts ont été payés;
+
 b) soit imputer le montant du remboursement à tout impôt impayé du propriétaire du bien admissible à l’égard du bien, si les impôts n’ont pas été payés.
 
 ### Rôle d’imposition
@@ -7767,8 +9395,11 @@ b) soit imputer le montant du remboursement à tout impôt impayé du propriéta
 ### Règlements du ministre des Finances
 
 (24) Le ministre des Finances peut, par règlement :
+
 a) prescrire des renseignements pour l’application de la disposition 4 du paragraphe (6);
+
 b) prescrire les circonstances dans lesquelles l’approbation du ministre des Finances prévue au paragraphe (7) n’est pas requise.
+
 (25) Abrogé : 2021, chap. 40, annexe 3, par. 2 (11).
 
 ### Réduction d’impôt à l’égard des biens patrimoniaux
@@ -7778,27 +9409,41 @@ b) prescrire les circonstances dans lesquelles l’approbation du ministre des F
 ### Définition
 
 (2) La définition qui suit s’applique au présent article.
+
 «bien patrimonial admissible» Bien ou partie d’un bien qui répond aux critères suivants :
+
 a) il est désigné en application de la partie IV de la Loi sur le patrimoine de l’Ontario ou il fait partie d’un district de conservation du patrimoine visé à la partie V de cette loi;
+
 b) il fait l’objet :
+
 (i) soit d’une convention de servitude conclue avec la cité en vertu de l’article 37 de la Loi sur le patrimoine de l’Ontario,
+
 (ii) soit d’une convention de servitude conclue avec la Fiducie du patrimoine ontarien en vertu de l’article 22 de la Loi sur le patrimoine de l’Ontario,
+
 (iii) soit d’une entente conclue avec la cité, relativement à sa préservation et à son entretien;
+
 c) il répond à tout critère d’admissibilité additionnel énoncé dans le règlement adopté par la cité en vertu du présent article.
 
 ### Montant de la réduction d’impôt
 
 (3) La réduction ou le remboursement d’impôt accordé par la cité à l’égard d’un bien patrimonial admissible se situe entre 10 et 40 pour cent des impôts prélevés sur le bien aux fins municipales et scolaires qui sont attribuables à ce qui suit :
+
 a) le bâtiment ou la construction ou la partie de ceux-ci qui constitue le bien patrimonial admissible;
+
 b) le bien-fonds utilisé relativement au bien patrimonial admissible, selon ce que détermine la cité.
 
 ### Exigences relatives au règlement municipal
 
 (4) Dans le règlement qu’elle adopte en vertu du présent article, la cité :
+
 a) doit préciser un pourcentage satisfaisant aux exigences du paragraphe (3) qui sera utilisé pour calculer la réduction ou le remboursement d’impôt à accorder à l’égard des biens patrimoniaux admissibles;
+
 b) peut préciser des pourcentages d’impôt différents qui satisfont aux exigences du paragraphe (3) pour des catégories différentes de biens ou des types différents de biens d’une catégorie de biens;
+
 c) peut préciser la réduction ou le remboursement minimal ou maximal d’impôt qui sera accordé pour une année conformément au règlement;
+
 d) peut préciser des critères additionnels auxquels un bien doit répondre pour constituer un bien patrimonial admissible et peut préciser des critères différents pour des biens de catégories de biens différentes;
+
 e) peut fixer les modalités applicables aux demandes de réduction ou de remboursement d’impôt pour une ou plusieurs années.
 
 ### Avis au ministre des Finances
@@ -7812,7 +9457,9 @@ e) peut fixer les modalités applicables aux demandes de réduction ou de rembou
 ### Demande
 
 (7) Les règles suivantes s’appliquent si la cité adopte un règlement en vertu du présent article :
+
 1. Le propriétaire d’un bien patrimonial admissible situé dans la cité peut obtenir la réduction ou le remboursement d’impôt pour une année donnée en présentant une demande à cet effet à la cité au plus tard le dernier jour de février de l’année qui suit la première année pour laquelle il demande la réduction ou le remboursement.
+
 2. La cité peut, dans le règlement, exiger des propriétaires de biens patrimoniaux admissibles qu’ils présentent une nouvelle demande pour toute année, postérieure à celle de la première demande, pour laquelle ils sollicitent une réduction ou un remboursement d’impôt.
 
 ### Répartition par la société d’évaluation foncière
@@ -7850,7 +9497,9 @@ e) peut fixer les modalités applicables aux demandes de réduction ou de rembou
 ### Règlements
 
 (16) Le ministre des Finances peut, par règlement :
+
 a) régir les règlements municipaux visés au présent article, y compris les formalités applicables aux réductions ou remboursements d’impôt;
+
 b) régir l’octroi de réductions ou de remboursements d’impôt conformément aux règlements municipaux adoptés en vertu du présent article, y compris les délais dans lesquels la cité doit effectuer les remboursements.
 
 ### Modification de l’évaluation
@@ -7868,16 +9517,23 @@ b) régir l’octroi de réductions ou de remboursements d’impôt conformémen
 ### Acceptation du versement
 
 (3) Si la cité accepte un versement prévu au présent article :
+
 a) les impôts ou les redevances visés par le versement sont réputés payés intégralement;
+
 b) la somme tenant lieu d’impôts est répartie entre les organismes pour lesquels la cité est tenue par la loi de prélever des impôts ou de recueillir des sommes comme si les impôts avaient été prélevés et perçus de la manière habituelle;
+
 c) sous réserve de l’alinéa b), le versement est porté au crédit du fonds d’administration générale de la cité.
 
 ### Baux à loyer fixe (impôts fonciers)
 
 337 (1) Le présent article s’applique à la location à bail de tout ou partie d’un bien s’il est satisfait à toutes les exigences suivantes :
+
 1. Le bail est conclu au plus tard le 11 juin 1998. Le bail qui est conclu au plus tard ce jour-là et qui est renouvelé ou prorogé par la suite ne continue de satisfaire à la condition énoncée à la présente disposition que si, au moment du renouvellement ou de la prorogation, le locateur n’avait pas le droit de renégocier le loyer prévu par le bail.
+
 2. Le locataire n’est pas tenu aux termes du bail de payer une fraction quelconque des impôts fonciers prélevés sur le bien.
+
 3. Tout ou partie du bien appartient à une catégorie de biens qui est une des catégories commerciales ou des catégories industrielles au sens du paragraphe 275 (1).
+
 4. Les parties aux baux conclus après le 16 janvier 1997 et au plus tard le 11 juin 1998 n’ont pas tenu compte, dans le calcul de la contrepartie versée au locateur, notamment du loyer, du fait que la taxe d’affaires prélevée sur les personnes qui exercent une activité commerciale dans des biens serait éliminée en 1998.
 
 ### Obligation de payer une somme
@@ -7887,20 +9543,35 @@ c) sous réserve de l’alinéa b), le versement est porté au crédit du fonds 
 ### Somme maximale
 
 (3) La somme maximale que le locataire peut être tenu de payer est calculée selon la formule suivante :
+
 [Image]
+
 où :
+
 «impôts fonciers» représente :
+
 a) sous réserve de l’alinéa b), les impôts fonciers de l’année prélevés sur le bien ou, si seulement une partie du bien appartient à l’une des catégories commerciales ou des catégories industrielles au sens du paragraphe 275 (1), les impôts fonciers de l’année prélevés sur cette partie;
+
 b) dans le cas du locateur qui n’est pas le propriétaire du bien, mais qui a acquis un intérêt sur celui-ci aux termes d’un bail :
+
 (i) soit les impôts fonciers de l’année visés à l’alinéa a) qui sont prélevés sur les locaux loués à bail et sur toute autre partie du bien sur laquelle le locateur a acquis un intérêt aux termes de son propre bail et qu’il est tenu de payer aux termes de celui-ci,
+
 (ii) soit la somme que le locateur, à titre de locataire d’une autre personne, est tenu de payer en application du présent article, pour l’année, à l’égard des locaux loués à bail et de toute autre partie du bien sur laquelle il a acquis un intérêt aux termes de son propre bail;
+
 «évaluation de 1997 (locataire)» représente la fraction de l’évaluation de 1997 (locateur) dont les locaux loués à bail font l’objet dans le rôle d’évaluation révisé le plus récemment pour 1997;
+
 «évaluation de 1997 (locateur)» représente :
+
 a) sous réserve de l’alinéa b), le total des évaluations suivantes dont le bien fait l’objet :
+
 (i) l’évaluation qui figure dans le rôle d’évaluation révisé le plus récemment pour 1997 et qui sert à établir l’évaluation commerciale,
+
 (ii) l’évaluation des commerces vacants ou l’évaluation des industries vacantes, selon le cas, qui figure dans le rôle d’évaluation révisé le plus récemment pour 1997,
+
 (iii) l’évaluation, autre que l’évaluation résidentielle, qui figure dans le rôle d’évaluation révisé le plus récemment pour 1997, d’une partie du bien qu’occupent des personnes qui ne sont pas assujetties à l’évaluation commerciale en application de la Loi sur l’évaluation foncière ;
+
 b) dans le cas du locateur qui n’est pas le propriétaire du bien, mais qui a acquis un intérêt sur celui-ci aux termes d’un bail, la somme calculée en application de l’alinéa a), mais seulement pour l’évaluation des locaux loués à bail et de toute autre partie du bien sur laquelle le locateur a acquis un intérêt aux termes de son propre bail;
+
 «facteur d’imposition commerciale» représente le facteur d’imposition commerciale fixé en application du paragraphe (9).
 
 ### Réduction : bail de moins d’un an
@@ -7918,12 +9589,19 @@ b) dans le cas du locateur qui n’est pas le propriétaire du bien, mais qui a 
 ### Avis exigeant le paiement
 
 (7) Les règles suivantes s’appliquent à l’avis visé au paragraphe (5) :
+
 1. L’avis précise ce qui suit :
+
 i. la somme que le locataire est tenu de payer et sa date d’échéance,
+
 ii. le calcul, fait par le locateur, de la somme maximale que le locataire peut être tenu de payer,
+
 iii. les impôts fonciers prélevés sur le bien pour l’année ou une estimation de ces impôts s’ils n’ont pas encore été calculés.
+
 2. L’avis est donné au moins 30 jours avant la date d’échéance de la somme ou du premier versement de la somme que le locataire est tenu de payer.
+
 3. Le locateur donne au locataire un avis des redressements éventuels à effectuer après le calcul des impôts de l’année d’imposition.
+
 4. L’avis est donné au plus tard le 30 septembre de l’année d’imposition ou le jour qui tombe 30 jours après celui où le locateur reçoit l’avis d’imposition définitif pour l’année d’imposition, s’il est postérieur.
 
 ### Cas où l’avis exige une somme supérieure à la somme maximale
@@ -7933,9 +9611,13 @@ iii. les impôts fonciers prélevés sur le bien pour l’année ou une estimati
 ### Facteur d’imposition commerciale
 
 (9) Le facteur d’imposition commerciale visé au paragraphe (3) est fixé selon la formule suivante :
+
 [Image]
+
 où :
+
 «évaluation commerciale totale (catégorie)» représente l’évaluation commerciale totale des biens de la cité, qui figure dans le rôle d’évaluation révisé le plus récemment pour 1997, pour les biens qui, pour 1998, appartiennent à la même catégorie de biens que le bien;
+
 «évaluation totale des commerces (catégorie)» représente le total de l’évaluation des commerces et de l’évaluation des industries des biens de la cité, qui figurent dans le rôle d’évaluation révisé le plus récemment pour 1997, pour les biens qui, pour 1998, appartiennent à la même catégorie de biens que le bien.
 
 ### Catégories de biens
@@ -7953,7 +9635,9 @@ où :
 ### Avis visés au présent article
 
 (13) Les règles suivantes s’appliquent à l’égard d’un avis visé au présent article :
+
 1. L’avis est donné par courrier ou par signification à personne.
+
 2. L’avis donné par courrier est réputé donné le jour de sa mise à la poste.
 
 ### Sous-baux
@@ -7963,14 +9647,19 @@ où :
 ### Définitions
 
 (15) Les définitions qui suivent s’appliquent au présent article.
+
 «catégorie de biens» Catégorie de biens immeubles prescrite en application de la Loi sur l’évaluation foncière. («property class»)
+
 «impôts fonciers» Les impôts prévus à l’article 277 et les impôts scolaires prévus par la Loi sur l’éducation. («property taxes»)
+
 «propre bail» À l’égard du locateur, s’entend du bail aux termes duquel il a acquis son intérêt sur les locaux loués à bail. («landlord’s lease») 2006, chap. 11, annexe A, par. 337 (15).
 
 ### Baux à loyer fixe (redevances d’aménagement commercial)
 
 338 (1) Le présent article s’applique à la location à bail de tout ou partie d’un bien si les conditions suivantes sont réunies :
+
 a) il est satisfait à toutes les exigences énoncées aux dispositions 1 à 3 du paragraphe 337 (1);
+
 b) le locataire n’est pas tenu aux termes du bail de payer une fraction quelconque des redevances d’aménagement commercial imposées sur le bien.
 
 ### Obligation de payer une somme
@@ -7980,19 +9669,33 @@ b) le locataire n’est pas tenu aux termes du bail de payer une fraction quelco
 ### Somme maximale
 
 (3) La somme maximale que le locataire peut être tenu de payer est calculée selon la formule suivante :
+
 [Image]
+
 où :
+
 «redevances d’aménagement commercial» représente :
+
 a) sous réserve de l’alinéa b), les redevances d’aménagement commercial imposées sur le bien pour l’année;
+
 b) dans le cas du locateur qui n’est pas le propriétaire du bien, mais qui a acquis un intérêt sur celui-ci aux termes d’un bail :
+
 (i) soit les redevances d’aménagement commercial imposées pour l’année sur les locaux loués à bail et sur toute autre partie du bien sur laquelle le locateur a acquis un intérêt aux termes de son propre bail, et qu’il est tenu de payer aux termes de celui-ci,
+
 (ii) soit la somme que le locateur, à titre de locataire d’une autre personne, est tenu de payer en application du présent article, pour l’année, à l’égard des locaux loués à bail et de toute autre partie du bien sur laquelle il a acquis un intérêt aux termes de son propre bail;
+
 «évaluation de 1997 (locataire)» représente la fraction de l’évaluation de 1997 (locateur) dont les locaux loués à bail font l’objet dans le rôle d’évaluation révisé le plus récemment pour 1997;
+
 «évaluation de 1997 (locateur)» représente :
+
 a) sous réserve de l’alinéa b), le total des évaluations suivantes dont le bien fait l’objet :
+
 (i) l’évaluation qui figure dans le rôle d’évaluation révisé le plus récemment pour 1997 et qui sert à établir l’évaluation commerciale,
+
 (ii) l’évaluation des commerces vacants ou l’évaluation des industries vacantes, selon le cas, qui figure dans le rôle d’évaluation révisé le plus récemment pour 1997,
+
 (iii) l’évaluation, autre que l’évaluation résidentielle, qui figure dans le rôle d’évaluation révisé le plus récemment pour 1997, d’une partie du bien qu’occupent des personnes qui ne sont pas assujetties à l’évaluation commerciale en application de la Loi sur l’évaluation foncière ;
+
 b) dans le cas du locateur qui n’est pas le propriétaire du bien, mais qui a acquis un intérêt sur celui-ci aux termes d’un bail, la somme calculée en application de l’alinéa a), mais seulement pour l’évaluation des locaux loués à bail et de toute autre partie du bien sur laquelle le locateur a acquis un intérêt aux termes de son propre bail.
 
 ### Réduction : bail de moins d’un an
@@ -8010,12 +9713,19 @@ b) dans le cas du locateur qui n’est pas le propriétaire du bien, mais qui a 
 ### Avis exigeant le paiement
 
 (7) Les règles suivantes s’appliquent à l’avis visé au paragraphe (5) :
+
 1. L’avis précise ce qui suit :
+
 i. la somme que le locataire est tenu de payer et sa date d’échéance,
+
 ii. le calcul, fait par le locateur, de la somme maximale que le locataire peut être tenu de payer,
+
 iii. les redevances d’aménagement commercial imposées sur le bien pour l’année ou une estimation de ces redevances si elles n’ont pas encore été calculées.
+
 2. L’avis est donné au moins 30 jours avant la date d’échéance de la somme ou du premier versement de la somme que le locataire est tenu de payer.
+
 3. Le locateur donne au locataire un avis des redressements éventuels à effectuer après le calcul des redevances d’aménagement commercial de l’année d’imposition.
+
 4. L’avis est donné au plus tard le 30 septembre de l’année d’imposition ou le jour qui tombe 30 jours après celui où le locateur reçoit l’avis d’imposition définitif pour l’année d’imposition, s’il est postérieur.
 
 ### Cas où l’avis exige une somme supérieure à la somme maximale
@@ -8025,7 +9735,9 @@ iii. les redevances d’aménagement commercial imposées sur le bien pour l’a
 ### Avis visés au présent article
 
 (9) Les règles suivantes s’appliquent à l’égard d’un avis visé au présent article :
+
 1. L’avis est donné par courrier ou par signification à personne.
+
 2. L’avis donné par courrier est réputé donné le jour de sa mise à la poste.
 
 ### Sous-baux
@@ -8035,7 +9747,9 @@ iii. les redevances d’aménagement commercial imposées sur le bien pour l’a
 ### Définitions
 
 (11) Les définitions qui suivent s’appliquent au présent article.
+
 «propre bail» À l’égard du locateur, s’entend du bail aux termes duquel il a acquis son intérêt sur les locaux loués à bail. («landlord’s lease»)
+
 «redevances d’aménagement commercial» Les droits et redevances visés aux alinéas a) et b) de la définition de «impôt» au paragraphe 329 (12). («business improvement area charges») 2006, chap. 11, annexe A, par. 338 (11).
 
 ### Infraction
@@ -8063,24 +9777,39 @@ iii. les redevances d’aménagement commercial imposées sur le bien pour l’a
 ### Définitions
 
 343 (1) Les définitions qui suivent s’appliquent à la présente partie.
+
 «acte d’adjudication» S’entend d’un acte d’adjudication établi en application de l’article 350 et, en outre, du titre que confère son enregistrement. («tax deed»)
+
 «arriérés d’impôts» Impôts fonciers portés ou ajoutés au rôle d’imposition au cours d’une année donnée et qui demeurent impayés le 1 er janvier de l’année suivante. («tax arrears»)
+
 «avis de dévolution» S’entend d’un avis de dévolution établi en vertu de l’article 350 et, en outre, du titre que confère son enregistrement. («notice of vesting»)
+
 «conjoint» S’entend au sens du paragraphe 1 (1) de la Loi sur le droit de la famille. («spouse»)
+
 «coût d’annulation» Somme égale à la totalité des arriérés d’impôts exigibles à l’égard d’un bien-fonds, y compris les impôts fonciers courants, les intérêts et les pénalités qui s’y rapportent, ainsi que les frais raisonnables qu’engage la cité, une fois que le trésorier a le droit d’enregistrer un certificat d’arriérés d’impôts en vertu de l’article 344 ou 344.1, pour des démarches ou en prévision de démarches prévues par la présente partie, cette somme pouvant également comprendre ce qui suit :
+
 a) les frais et débours de justice;
+
 b) les frais de préparation de l’accord de prorogation prévu à l’article 349;
+
 c) les frais de préparation de tout plan d’arpentage exigé pour l’enregistrement d’un document en vertu de la présente partie;
+
 d) une somme raisonnable au titre des frais susceptibles d’être engagés par suite de la publication des annonces prévues à l’article 350. («cancellation price»)
+
 «évaluation environnementale de site» Examen d’un bien-fonds en vue d’en déterminer l’état environnemental et, notamment, évaluation environnementale de site de phase I ou évaluation environnementale de site de phase II, ces deux expressions s’entendant au sens de la partie XV.1 de la Loi sur la protection de l’environnement. («environmental site assessment»)
+
 «impôts fonciers» S’entend du montant des impôts prélevés sur les biens immeubles en application de la présente loi et de la Loi sur l’éducation ainsi que des sommes exigibles en application de la Loi sur le drainage, de la Loi sur le drainage au moyen de tuyaux et de la Loi sur l’aide aux propriétaires riverains relativement aux biens immeubles. S’entend en outre des sommes assimilées à des impôts par toute loi ou en vertu de toute loi et des sommes auxquelles est accordé le statut de privilège prioritaire par toute loi ou en vertu de toute loi. («real property taxes»)
+
 «maison mobile» Habitation destinée à pouvoir être déplacée et assujettie à l’impôt en application de la Loi sur l’évaluation foncière comme partie intégrante du bien-fonds sur lequel elle se trouve. («mobile home»)
+
 «vente publique» Vente aux enchères publiques ou par appel d’offres tenue conformément à la présente partie et aux règles prescrites. («public sale») 2006, chap. 11, annexe A, par. 343 (1)
 
 ### Idem
 
 (2) Les définitions qui suivent s’appliquent à la présente partie.
+
 «registre des parcelles» et «répertoire par lot» S’entendent en outre d’un acte reçu aux fins d’enregistrement le jour de l’enregistrement du certificat d’arriérés d’impôts, même si l’acte n’a pas fait l’objet d’un relevé ou n’a pas été inscrit dans le répertoire ou le registre ce jour-là. («parcel register», «abstract index»)
+
 «répertoire des brefs d’exécution» S’entend de la base de données électronique que maintient le shérif à l’égard des brefs d’exécution. («index of executions») 2006, chap. 11, annexe A, par. 343 (2).
 
 ### Enregistrement du certificat d’arriérés d’impôts
@@ -8098,6 +9827,7 @@ d) une somme raisonnable au titre des frais susceptibles d’être engagés par 
 ### Biens-fonds devenus la propriété de la Couronne du chef de l’Ontario par suite d’un décès
 
 (3.1) Le présent article s’applique aux biens-fonds devenus la propriété de la Couronne du chef de l’Ontario par suite du décès d’un particulier sans héritiers légitimes, que le décès soit survenu avant ou après l’enregistrement d’un certificat d’arriérés d’impôts. Ces biens-fonds peuvent être vendus en vertu de la présente loi pour arriérés d’impôts.
+
 (3.2) Abrogé : 2017, chap. 10, annexe 2, par. 47 (3).
 
 ### Portée du certificat
@@ -8119,8 +9849,11 @@ d) une somme raisonnable au titre des frais susceptibles d’être engagés par 
 ### Restrictions concernant l’enregistrement
 
 344.2 (1) Aucun certificat d’arriérés d’impôts ne peut être enregistré sur le titre d’un bien-fonds si, selon le cas :
+
 a) un arrêté d’annulation de grèvements sur le bien-fonds, pris en vertu de l’article 18 de la Loi de 2015 sur les biens sociaux confisqués, est enregistré sur le titre du bien-fonds;
+
 b) un avis visé à l’article 24 de la Loi de 2015 sur les biens sociaux confisqués, indiquant que la Couronne a l’intention d’utiliser le bien à ses fins, est enregistré sur le titre du bien-fonds;
+
 c) un avis indiquant que la Couronne a l’intention d’utiliser le bien-fonds à ses fins est enregistré sur le bien-fonds devenu la propriété de la Couronne par suite du décès d’un particulier sans héritiers légitimes.
 
 ### Exception : consentement du ministre
@@ -8130,13 +9863,21 @@ c) un avis indiquant que la Couronne a l’intention d’utiliser le bien-fonds 
 ### Avis d’enregistrement
 
 345 (1) Dans les 60 jours qui suivent l’enregistrement d’un certificat d’arriérés d’impôts en vertu de l’article 344, ou dans les 30 jours qui suivent l’enregistrement d’un certificat d’arriérés d’impôts en vertu de l’article 344.1, le trésorier envoie un avis de l’enregistrement aux personnes suivantes :
+
 1. Le propriétaire du bien-fonds inscrit au rôle d’évaluation.
+
 2. Dans le cas d’un bien-fonds enregistré en application de la Loi sur l’enregistrement des droits immobiliers, toute personne qui, selon le registre des parcelles et le répertoire des brefs d’exécution maintenu par le shérif du secteur dans lequel se trouve le bien-fonds, semble avoir un intérêt sur le bien-fonds le jour de l’enregistrement du certificat, à l’exclusion d’une personne qui a un intérêt visé à l’alinéa 350 (7.1) a) ou b).
+
 3. Dans les cas où la Loi sur l’enregistrement des actes s’applique au bien-fonds, toute personne qui, selon le répertoire par lot et le répertoire des brefs d’exécution maintenu par le shérif du secteur dans lequel se trouve le bien-fonds, semble avoir un intérêt sur le bien-fonds le jour de l’enregistrement du certificat, à l’exclusion d’une personne qui a un intérêt visé à l’alinéa 350 (7.1) a) ou b).
+
 4. Lorsque le rôle d’évaluation indique que la Couronne y est inscrite en tant que propriétaire du bien-fonds pour cause de déshérence ou de confiscation :
+
 i. toute personne qui figure, en qualité d’administrateur ou de dirigeant de la personne morale dont la dissolution a entraîné l’inscription de la Couronne comme propriétaire sur le rôle d’évaluation, sur les plus récents avis ou déclarations déposés en application de la Loi sur les renseignements exigés des personnes morales, ou sur les statuts ou les lettres patentes de la personne morale, selon ce qui était le plus à jour la veille de la dissolution,
+
 ii. le ministre chargé de l’application de la Loi de 2015 sur les biens sociaux confisqués.
+
 5. Lorsque le trésorier sait que la personne morale qui est inscrite comme propriétaire du bien-fonds sur le rôle d’évaluation est dissoute, le ministre chargé de l’application de la Loi de 2015 sur les biens sociaux confisqués.
+
 6. Le tuteur et curateur public, s’il a enregistré un avis ou un autre document sur le titre du bien-fonds.
 
 ### Conjoint du propriétaire
@@ -8154,7 +9895,9 @@ ii. le ministre chargé de l’application de la Loi de 2015 sur les biens socia
 ### Restriction
 
 (5) Une personne n’a pas droit à l’avis prévu au présent article dans l’un ou l’autre des cas suivants :
+
 a) le trésorier ne réussit pas à trouver son adresse après une recherche raisonnable dans les documents mentionnés au paragraphe 352 (1) et il ne la connaît pas;
+
 b) elle y a expressément renoncé, soit avant ou après la date à laquelle l’avis aurait dû être envoyé.
 
 ### Annulation du certificat d’arriérés d’impôts
@@ -8184,7 +9927,9 @@ b) elle y a expressément renoncé, soit avant ou après la date à laquelle l�
 ### Exception pour certains biens-fonds
 
 (6) Le paragraphe (3) ne s’applique pas aux biens-fonds qui, selon le cas :
+
 a) ont été dévolus à la Couronne pour cause de déshérence ou de confiscation résultant de la dissolution d’une personne morale;
+
 b) sont devenus la propriété de la Couronne par suite du décès d’un particulier sans héritiers légitimes.
 
 ### Détail du coût d’annulation
@@ -8206,19 +9951,29 @@ b) sont devenus la propriété de la Couronne par suite du décès d’un partic
 ### Accords de prorogation
 
 349 (1) La cité peut, après l’enregistrement du certificat d’arriérés d’impôts, mais avant l’expiration du délai d’un an mentionné au paragraphe 350 (1), conclure un accord de prorogation du délai de paiement du coût d’annulation avec les personnes suivantes :
+
 1. Tout propriétaire du bien-fonds.
+
 2. Le conjoint de tout propriétaire du bien-fonds.
+
 3. Tout créancier hypothécaire du bien-fonds.
+
 4. Tout locataire qui occupe le bien-fonds.
+
 5. Toute personne que le trésorier estime avoir un intérêt sur le bien-fonds.
 
 ### Idem : certificat d’arriérés d’impôts enregistré en vertu de l’art. 344.1
 
 (1.1) Sous réserve du paragraphe (1.2), la cité peut, après l’enregistrement du certificat d’arriérés d’impôts, mais avant l’expiration du délai de 90 jours mentionné au paragraphe 350 (2.0.1), conclure un accord de prorogation du délai de paiement du coût d’annulation avec les personnes suivantes :
+
 1. Tout propriétaire du bien-fonds.
+
 2. Le conjoint de tout propriétaire du bien-fonds.
+
 3. Tout créancier hypothécaire du bien-fonds.
+
 4. Tout locataire qui occupe le bien-fonds.
+
 5. Toute personne que le trésorier estime avoir un intérêt sur le bien-fonds.
 
 ### Idem
@@ -8228,14 +9983,19 @@ b) sont devenus la propriété de la Couronne par suite du décès d’un partic
 ### Conditions
 
 (2) L’accord peut être assorti des conditions de paiement qui y sont prévues, sans toutefois :
+
 a) diminuer le montant du coût d’annulation;
+
 b) interdire à quiconque de payer à n’importe quel moment le coût d’annulation.
 
 ### Stipulations obligatoires
 
 (3) L’accord de prorogation précise :
+
 a) à quel moment et dans quelles conditions il cessera d’être en vigueur;
+
 b) que quiconque peut payer le coût d’annulation à n’importe quel moment;
+
 c) qu’il prend fin sur paiement par quiconque du coût d’annulation.
 
 ### Calcul des délais
@@ -8257,13 +10017,17 @@ c) qu’il prend fin sur paiement par quiconque du coût d’annulation.
 ### Annonce
 
 (2) Si, à l’expiration du délai d’un an suivant la date d’enregistrement du certificat d’arriérés d’impôts enregistré en vertu de l’article 344, le coût d’annulation demeure impayé et qu’il n’y a pas d’accord de prorogation en vigueur, le bien-fonds fait l’objet d’une vente publique aux enchères ou par appel d’offres, au choix du trésorier, qui fait ce qui suit immédiatement :
+
 a) il fait une déclaration solennelle indiquant les nom et adresse des personnes auxquelles un avis a été envoyé en application du paragraphe (1);
+
 b) il annonce la mise en vente du bien-fonds conformément aux règlements.
 
 ### Vente publique accélérée d’un bien-fonds social confisqué
 
 (2.0.1) Si, à l’expiration du délai de 90 jours suivant la date d’enregistrement du certificat d’arriérés d’impôts enregistré en vertu de l’article 344.1, le coût d’annulation demeure impayé et qu’il n’y a pas d’accord de prorogation en vigueur :
+
 a) le bien-fonds fait l’objet d’une vente publique aux enchères ou par appel d’offres, au choix du trésorier;
+
 b) le trésorier annonce immédiatement la mise en vente du bien-fonds conformément aux règlements.
 
 ### Vente publique aux enchères ou par appel d’offres
@@ -8281,7 +10045,9 @@ b) le trésorier annonce immédiatement la mise en vente du bien-fonds conformé
 ### Tenue de la vente
 
 (5) Le trésorier, conformément aux règles prescrites, tient une vente publique, détermine s’il y a un adjudicataire et :
+
 a) s’il y en a un, il établit et enregistre un acte d’adjudication au nom de l’adjudicataire ou au nom qu’indique celui-ci;
+
 b) s’il n’y en a aucun, il peut établir et enregistrer un avis de dévolution au nom de la cité.
 
 ### Déclaration
@@ -8295,17 +10061,25 @@ b) s’il n’y en a aucun, il peut établir et enregistrer un avis de dévoluti
 ### Effet du transport
 
 (7) Par l’enregistrement de l’acte d’adjudication, est dévolu à la personne qui y est désignée le domaine en fief simple sur le bien-fonds, y compris tous les droits, privilèges et dépendances qui s’y rapportent, libre des autres domaines et intérêts, à l’exception de ce qui suit :
+
 a) les servitudes et les clauses restrictives qui se rattachent au bien-fonds;
+
 b) les domaines et intérêts de la Couronne du chef du Canada ou de l’Ontario autres que ceux sur le bien-fonds qui, selon le cas :
+
 (i) a été dévolu à la Couronne du chef de l’Ontario pour cause de déshérence ou de confiscation résultant de la dissolution d’une personne morale,
+
 (ii) est devenu la propriété de la Couronne du chef de l’Ontario par suite du décès d’un particulier sans héritiers légitimes;
+
 c) tout intérêt ou titre acquis par possession adversative par les propriétaires de biens-fonds attenants avant l’enregistrement de l’acte d’adjudication.
 
 ### Effet de l’enregistrement de l’avis de dévolution
 
 (7.1) Malgré le paragraphe 3.6.1 (2) de la Loi de la taxe sur les carburants, le paragraphe 18 (2) de la Loi de la taxe sur l’essence, le paragraphe 22 (2) de la Loi sur la taxe de vente au détail et le paragraphe 24.1 (2) de la Loi de la taxe sur le tabac, par l’enregistrement de l’avis de dévolution, est dévolu à la cité le domaine en fief simple sur le bien-fonds, y compris tous les droits, privilèges et dépendances qui s’y rapportent, libre des autres domaines et intérêts, y compris les domaines et intérêts de la Couronne du chef de l’Ontario, à l’exception de ce qui suit :
+
 a) les servitudes et les clauses restrictives qui se rattachent au bien-fonds, y compris celles au profit de la Couronne du chef de l’Ontario;
+
 b) les domaines et intérêts de la Couronne du chef du Canada;
+
 c) tout intérêt ou titre acquis par possession adversative par les propriétaires de biens-fonds attenants, y compris la Couronne du chef de l’Ontario, avant l’enregistrement de l’avis de dévolution.
 
 ### Restriction
@@ -8319,7 +10093,9 @@ c) tout intérêt ou titre acquis par possession adversative par les propriétai
 ### Aucune garantie
 
 (10) L’acte d’adjudication :
+
 a) n’oblige pas la cité à offrir la libre possession;
+
 b) n’a aucune incidence sur la perception des impôts qui ont donné lieu à une cotisation, qui ont été établis ou qui ont été exigés à l’égard du bien-fonds en vertu d’une loi par la cité avant l’enregistrement de l’acte d’adjudication et qui se sont accumulés ou deviennent exigibles après l’enregistrement, ni n’annule cette perception.
 
 ### Enchère ou offre de la municipalité
@@ -8345,14 +10121,19 @@ b) n’a aucune incidence sur la perception des impôts qui ont donné lieu à u
 ### Effet
 
 (16) Le paragraphe (15) n’a pas pour effet :
+
 a) d’empêcher le trésorier d’enregistrer un nouveau certificat d’arriérés d’impôts à l’égard du bien-fonds et d’entreprendre les démarches prévues par la présente partie;
+
 b) de dispenser le contribuable de payer les impôts fonciers établis avant la vente.
 
 ### Affectation du produit de la vente
 
 351 (1) Le produit de la vente tenue en application de l’article 350 est :
+
 a) affecté en premier lieu au paiement du coût d’annulation;
+
 b) versé en deuxième lieu à toutes les personnes qui ont un intérêt sur le bien-fonds selon l’ordre de priorité établi par la loi, à l’exception de la personne qui, immédiatement avant l’enregistrement de l’acte d’adjudication, était propriétaire du bien-fonds;
+
 c) versé en troisième lieu à la personne qui, immédiatement avant l’enregistrement de l’acte d’adjudication, était propriétaire du bien-fonds.
 
 ### Idem
@@ -8366,10 +10147,15 @@ c) versé en troisième lieu à la personne qui, immédiatement avant l’enregi
 ### Avis de consignation
 
 (3) Au plus tard 60 jours après la consignation prévue au paragraphe (2), le trésorier envoie une copie de la déclaration aux personnes suivantes :
+
 1. La personne qui, immédiatement avant l’enregistrement de l’acte d’adjudication, était le propriétaire qui fait l’objet d’une cotisation à l’égard du bien-fonds.
+
 2. Dans le cas d’un bien-fonds enregistré en application de la Loi sur l’enregistrement des droits immobiliers, toute personne qui, selon le registre des parcelles et le répertoire des brefs d’exécution du secteur dans lequel se trouve le bien-fonds, semble avoir un intérêt sur le bien-fonds immédiatement avant l’enregistrement de l’acte d’adjudication, à l’exclusion d’une personne qui a un intérêt visé à l’alinéa 350 (7.1) a) ou b).
+
 3. Dans les cas où la Loi sur l’enregistrement des actes s’applique au bien-fonds, toute personne qui, selon le répertoire par lot et le répertoire des brefs d’exécution du secteur dans lequel se trouve le bien-fonds, semble avoir un intérêt sur le bien-fonds immédiatement avant l’enregistrement de l’acte d’adjudication, à l’exclusion d’une personne qui a un intérêt visé à l’alinéa 350 (7.1) a) ou b).
+
 4. Le ministre chargé de l’application de la Loi de 2015 sur les biens sociaux confisqués.
+
 5. Le tuteur et curateur public.
 
 ### Idem : conjoint du propriétaire
@@ -8379,7 +10165,9 @@ c) versé en troisième lieu à la personne qui, immédiatement avant l’enregi
 ### Idem : restriction
 
 (3.2) Une personne n’a pas droit à la copie de la déclaration prévue au présent article dans l’un ou l’autre des cas suivants :
+
 a) le trésorier ne réussit pas à trouver son adresse après une recherche raisonnable dans les documents mentionnés au paragraphe 352 (1) et il ne la connaît pas;
+
 b) elle y a expressément renoncé, soit avant ou après la date à laquelle la copie aurait dû être envoyée.
 
 ### Versement de la somme d’argent consignée
@@ -8393,6 +10181,7 @@ b) elle y a expressément renoncé, soit avant ou après la date à laquelle la 
 ### Avis de requête
 
 (6) Le requérant visé au paragraphe (4) signifie un avis de la requête aux personnes visées au paragraphe (3).
+
 (6.1) Abrogé : 2017, chap. 10, annexe 2, par. 55 (6).
 
 ### Jugement
@@ -8434,11 +10223,17 @@ b) elle y a expressément renoncé, soit avant ou après la date à laquelle la 
 ### Modes d’envoi des avis
 
 352 (1) Tout avis qui doit être envoyé à qui que ce soit en application de la présente partie peut lui être remis à personne ou lui être envoyé par courrier certifié ou recommandé :
+
 a) dans le cas du propriétaire inscrit au rôle d’évaluation, à l’adresse figurant sur le rôle d’évaluation de la cité déposé le plus récemment;
+
 b) dans le cas de la personne dont l’intérêt est enregistré à l’égard du titre de propriété du bien-fonds, à l’adresse aux fins de signification fournie en application de la Loi portant réforme de l’enregistrement immobilier ou, si aucune adresse n’a été fournie, à l’adresse de l’avocat dont le nom figure sur l’acte enregistré;
+
 c) dans le cas de la personne qui semble avoir un intérêt sur le bien-fonds, selon le répertoire des brefs d’exécution maintenu par le shérif du secteur dans lequel se trouve le bien-fonds, à l’adresse de la personne ou de son avocat figurant sur le répertoire ou dans les registres du shérif;
+
 d) dans le cas du conjoint de la personne qui, selon les registres du bureau d’enregistrement immobilier, semble être propriétaire du bien-fonds, adressé au conjoint de (nom de la personne) à son adresse habituelle ou à sa dernière adresse connue ou, si celle-ci est inconnue, à l’adresse du bien-fonds;
+
 e) dans le cas du tuteur et curateur public, adressé au tuteur et curateur public.
+
 f) dans le cas du ministre chargé de l’application de la Loi de 2015 sur les biens sociaux confisqués, adressé au ministre.
 
 ### Effet de la déclaration solennelle
@@ -8460,7 +10255,9 @@ f) dans le cas du ministre chargé de l’application de la Loi de 2015 sur les 
 ### Idem
 
 (2) Sous réserve du paragraphe (4) et de l’article 354, les démarches prévues par la présente partie sont susceptibles d’annulation si, selon le cas :
+
 a) le trésorier ne s’est pas conformé pour l’essentiel à l’article 345 ou au paragraphe 350 (1);
+
 b) une erreur ou une omission s’est produite dans l’enregistrement ou la vente du bien-fonds, à l’exclusion d’une erreur ou d’une omission mentionnée au paragraphe (5).
 
 ### Devoir du trésorier
@@ -8474,16 +10271,23 @@ b) une erreur ou une omission s’est produite dans l’enregistrement ou la ven
 ### Démarche non susceptible d’annulation
 
 (5) Aucune démarche prévue par la présente partie ne peut être annulée en raison :
+
 a) du fait que le trésorier n’a pas pratiqué une saisie-gagerie pour quelque motif que ce soit ou n’a pas pris une autre mesure en vue de la perception des impôts;
+
 b) d’une erreur dans le coût d’annulation, à l’exclusion d’une erreur grave;
+
 c) d’une erreur dans les avis envoyés ou remis en application de la présente partie, si la personne qui s’en plaint n’a pas été gravement induite en erreur;
+
 d) d’une erreur dans la publication ou l’affichage d’annonces, si la personne qui s’en plaint n’a pas été gravement induite en erreur;
+
 e) d’une erreur dans la description du bien-fonds dans le certificat d’arriérés d’impôts, si la personne qui s’en plaint n’a pas été gravement induite en erreur.
 
 ### Pouvoir du trésorier de mettre fin aux démarches
 
 (6) Le trésorier peut enregistrer un certificat d’annulation s’il est d’avis :
+
 a) soit qu’il n’est pas dans l’intérêt financier de la cité de poursuivre les démarches prévues par la présente partie;
+
 b) soit que, pour cause de négligence, d’erreur ou d’omission, il n’est pas pratique ou souhaitable de poursuivre les démarches prévues par la présente partie.
 
 ### Effet
@@ -8493,7 +10297,9 @@ b) soit que, pour cause de négligence, d’erreur ou d’omission, il n’est p
 ### Effet de l’enregistrement
 
 354 (1) Sous réserve d’une preuve de fraude, les actes d’adjudication et les avis de dévolution qui sont enregistrés sont définitifs et concluants, et ne peuvent être contestés pour aucun motif, notamment :
+
 a) l’invalidité d’une évaluation foncière sur laquelle étaient fondés les arriérés d’impôts;
+
 b) le manquement à des exigences, y compris celles touchant les avis, imposées par la présente loi, une autre loi ou une autre règle de droit.
 
 ### Aucune action
@@ -8531,26 +10337,39 @@ b) le manquement à des exigences, y compris celles touchant les avis, imposées
 ### Inspections
 
 (2) Lorsqu’elle effectue une inspection, la cité peut faire tout ce qui est raisonnablement nécessaire pour effectuer une évaluation environnementale de site sur le bien-fonds, notamment :
+
 a) procéder à des arpentages, à des examens, à des enquêtes, à des tests et à des analyses sur le bien-fonds, notamment excaver des puits d’essai, et, à ces fins, placer du matériel sur le bien-fonds pour la période qu’elle estime nécessaire;
+
 b) prélever des échantillons et les enlever;
+
 c) demander des renseignements à une personne;
+
 d) enregistrer ou copier des renseignements par quelque moyen que ce soit.
 
 ### Entrée dans un logement
 
 (3) La personne qui effectue une inspection pour le compte de la cité en vertu de la présente partie ne doit ni entrer ni demeurer dans une pièce ou un endroit utilisé comme logement sauf si, selon le cas :
+
 a) le consentement de l’occupant est obtenu, après que celui-ci ait été informé qu’il peut refuser le droit d’entrée et que, s’il refuse, l’entrée n’est permise que sur présentation d’un mandat décerné en vertu de l’article 360;
+
 b) un mandat décerné en vertu de l’article 360 est obtenu.
 
 ### Inspection sans mandat
 
 359 (1) Les règles suivantes s’appliquent à l’inspection effectuée en vertu de la présente partie sans mandat :
+
 1. Au moins sept jours avant d’entrer dans le bien-fonds pour effectuer une inspection, la cité, par signification à personne ou par courrier affranchi, signifie un avis écrit de l’inspection aux propriétaires et occupants du bien-fonds dont le nom figure dans les registres du bureau d’enregistrement immobilier et sur le rôle d’évaluation de la cité déposé le plus récemment.
+
 2. L’avis précise la date à laquelle la cité a l’intention d’entrer dans le bien-fonds pour commencer l’inspection.
+
 3. Si la cité a l’intention d’entrer dans le bien-fonds plus d’une fois pendant une certaine période, l’avis précise cette période.
+
 4. Si la cité a l’intention de laisser du matériel sur le bien-fonds pendant une certaine période, l’avis donne la description du matériel et la période pendant laquelle elle a l’intention de le laisser sur le bien-fonds.
+
 5. L’avis qui est signifié en application du présent article par courrier affranchi est réputé avoir été reçu le cinquième jour suivant la date de sa mise à la poste.
+
 6. La cité ne doit pas recourir à la force contre qui que ce soit pendant l’inspection.
+
 7. La cité ne doit entrer dans le bien-fonds pour effectuer une inspection qu’entre 6 h et 21 h, à moins que, après la signification de l’avis prévu à la disposition 1 ou en même temps, elle n’ait donné aux occupants, par signification à personne, par courrier affranchi ou par affichage sur le bien-fonds dans un endroit bien en vue, un préavis écrit d’au moins 24 heures de l’intention d’effectuer une inspection du bien-fonds à un autre moment.
 
 ### Renonciation aux exigences
@@ -8568,10 +10387,15 @@ b) un mandat décerné en vertu de l’article 360 est obtenu.
 ### Avis de demande de mandat
 
 (2) La cité donne aux propriétaires et occupants du bien-fonds un préavis écrit de sept jours de ce qui suit :
+
 a) la date, l’heure et le lieu où doit être étudiée la requête en obtention ou prorogation d’un mandat;
+
 b) le but de la requête et l’effet de sa réception;
+
 c) la période pour laquelle la cité demande que le mandat soit décerné ou prorogé;
+
 d) le droit qu’a un propriétaire ou un occupant ou un de ses représentants de comparaître et de présenter des observations;
+
 e) le fait que si le propriétaire, l’occupant ou le représentant ne comparaît pas, le juge ou le juge de paix peut décerner ou proroger le mandat en leur absence.
 
 ### Droit de se faire entendre
@@ -8581,8 +10405,11 @@ e) le fait que si le propriétaire, l’occupant ou le représentant ne compara�
 ### Mandat
 
 (4) Le juge ou le juge de paix peut décerner un mandat autorisant une personne à inspecter un bien-fonds s’il est convaincu, sur la foi des témoignages recueillis sous serment, des faits suivants :
+
 a) l’inspection du bien-fonds est raisonnablement nécessaire aux fins visées au paragraphe 358 (1);
+
 b) un avis a été signifié aux propriétaires et occupants du bien-fonds conformément aux dispositions 1, 2, 3, 4 et 5 du paragraphe 359 (1);
+
 c) la cité a été ou sera vraisemblablement empêchée d’entrer dans le bien-fonds ou d’exercer l’un quelconque de ses autres pouvoirs, l’entrée du bien-fonds est fermée à clé ou le bien-fonds est inaccessible pour une autre raison.
 
 ### Exécution
@@ -8592,7 +10419,9 @@ c) la cité a été ou sera vraisemblablement empêchée d’entrer dans le bien
 ### Inspection avec mandat
 
 361 Les règles suivantes s’appliquent à l’inspection qu’effectue une personne avec mandat :
+
 1. Le mandat est exécuté entre 6 h et 21 h, sauf disposition contraire.
+
 2. La personne peut recourir à la force raisonnablement nécessaire pour exécuter le mandat et se faire aider d’agents de police.
 
 ### Entrave
@@ -8606,14 +10435,19 @@ c) la cité a été ou sera vraisemblablement empêchée d’entrer dans le bien
 ### Règlements
 
 363 (1) Le ministre des Affaires municipales et du Logement peut, par règlement, prescrire des règles régissant la vente publique de biens-fonds en application de la présente partie. Ces règles :
+
 a) d’une part, doivent préciser la façon de déterminer qui est l’adjudicataire;
+
 b) d’autre part, peuvent exiger la remise de dépôts, selon le montant et sous la forme que précisent les règles, ainsi que leur confiscation et leur disposition.
 
 ### Formules
 
 (2) Le ministre des Affaires municipales et du Logement peut, par règlement :
+
 a) exiger que les certificats, avis, déclarations solennelles, annonces, offres, actes d’adjudication ou déclarations visés à la présente partie contiennent les dispositions prescrites et soient rédigés selon une formule prescrite ou selon une formule approuvée par le ministre, y compris une formule électronique;
+
 b) prévoir l’emploi des formules visées à l’alinéa a), lesquelles peuvent varier selon le système d’enregistrement immobilier et la région;
+
 c) régir la publicité en application de l’alinéa 350 (2) b) et de l’alinéa 350 (2.0.1) b).
 
 ### Règlements : par. 352 (3)
@@ -8635,14 +10469,19 @@ c) régir la publicité en application de l’alinéa 350 (2) b) et de l’alin�
 ### Effet de l’enregistrement
 
 (4) L’enregistrement d’un certificat d’annulation des arriérés d’impôts conformément au paragraphe (3) n’a pas pour effet :
+
 a) d’empêcher le trésorier d’enregistrer un nouveau certificat d’arriérés d’impôts et d’entreprendre les démarches prévues par la présente partie;
+
 b) de dispenser le contribuable de payer les impôts fonciers établis avant l’enregistrement du certificat en application de la présente loi ou d’une loi qu’elle remplace.
 
 ### Absence d’enregistrement
 
 (5) Si, avant le 1 er janvier 2004, aucun avis de confiscation ou certificat d’annulation des arriérés d’impôts n’a été enregistré conformément au paragraphe (2) ou (3), est réputé dévolu à la cité le domaine en fief simple sur le bien-fonds, y compris tous les droits, privilèges et dépendances qui s’y rapportent, libre des autres domaines et intérêts, à l’exception de ce qui suit :
+
 a) les servitudes et les clauses restrictives qui se rattachent au bien-fonds;
+
 b) les domaines et intérêts de la Couronne du chef du Canada ou de l’Ontario;
+
 c) tout intérêt ou titre acquis par possession adversative par les propriétaires de biens-fonds attenants avant le jour où le domaine est réputé dévolu.
 
 ### Disposition transitoire : certificat enregistré avant la Loi de 2015 sur les biens sociaux confisqués
@@ -8708,16 +10547,23 @@ c) tout intérêt ou titre acquis par possession adversative par les propriétai
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), le système d’amendes peut accomplir ce qui suit :
+
 a) désigner une infraction comme infraction répétée et prévoir une amende minimale et une amende maximale pour chaque journée ou partie de journée où se poursuit l’infraction;
+
 b) désigner une infraction comme infraction multiple et prévoir une amende minimale et une amende maximale pour chaque infraction comprise dans l’infraction multiple;
+
 c) fixer des amendes croissantes dans le cas d’une seconde déclaration de culpabilité et d’une déclaration de culpabilité subséquente pour la même infraction;
+
 d) fixer, en plus des amendes ordinaires pour infraction, des amendes spéciales visant à éliminer ou à réduire tout avantage ou gain économique obtenu par suite de la contravention au règlement municipal.
 
 ### Restrictions
 
 (3) Les règles suivantes s’appliquent au système d’amendes :
+
 1. L’amende minimale ne doit pas dépasser 500 $ et l’amende maximale, 100 000 $. Toutefois, une amende spéciale peut dépasser 100 000 $.
+
 2. Dans le cas d’une infraction répétée, pour chaque journée ou partie de journée où se poursuit l’infraction, l’amende minimale ne doit pas dépasser 500 $ et l’amende maximale, 10 000 $. Toutefois, malgré la disposition 1, le total de toutes les amendes journalières pour l’infraction n’est pas limité à 100 000 $.
+
 3. Dans le cas d’une infraction multiple, pour chaque infraction comprise dans l’infraction multiple, l’amende minimale ne doit pas dépasser 500 $ et l’amende maximale, 10 000 $. Toutefois, malgré la disposition 1, le total de toutes les amendes pour chaque infraction comprise n’est pas limité à 100 000 $. 2006, chap. 11, annexe A, par. 370 (3).
 
 ### Idem : amende prévue par une autre loi
@@ -8727,6 +10573,7 @@ d) fixer, en plus des amendes ordinaires pour infraction, des amendes spéciales
 ### Définition
 
 (5) La définition qui suit s’applique au présent article.
+
 «infraction multiple» Infraction à l’égard de deux ou plusieurs actes ou omissions qui constituent chacun séparément une infraction et sont en contravention avec la même disposition d’un règlement municipal.
 
 ### Peine supplémentaire : établissements de divertissement pour adultes
@@ -8748,8 +10595,11 @@ d) fixer, en plus des amendes ordinaires pour infraction, des amendes spéciales
 ### Règlement sur les substances appauvrissant la couche d’ozone réputé adopté
 
 371.2 (1) Le jour de l’entrée en vigueur de l’article 371.1, la cité est réputée avoir adopté en vertu des articles 366 et 370 un règlement prévoyant :
+
 a) que quiconque contrevient à un règlement municipal visé au paragraphe 371.1 (2) est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 5 000 $;
+
 b) que la personne morale qui contrevient à un règlement municipal visé au paragraphe 371.1 (2) est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 50 000 $;
+
 c) que l’administrateur ou le dirigeant d’une personne morale qui consent sciemment à la contravention, par la personne morale, d’un règlement municipal visé au paragraphe 371.1 (2) est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende maximale de 10 000 $. 2006, chap. 32, annexe B, art. 71.
 
 ### Pouvoir de la cité
@@ -8759,13 +10609,17 @@ c) que l’administrateur ou le dirigeant d’une personne morale qui consent sc
 ### Autre ordonnance de cessation ou de réparation
 
 372 En cas de contravention à un règlement adopté par la cité ou un de ses conseils locaux en vertu de la présente loi ou d’une autre loi, le tribunal qui déclare coupable le contrevenant et tout tribunal compétent par la suite peut par ordonnance, en plus de tout autre recours et de toute sanction prévue dans le règlement :
+
 a) interdire la continuation ou la répétition de l’infraction par la personne déclarée coupable;
+
 b) dans le cas d’un règlement municipal visé à l’article 104 ou 105, exiger que la personne déclarée coupable remédie à la contravention de la manière et dans le délai qu’il estime appropriés.
 
 ### Versements extrajudiciaires
 
 373 Un règlement municipal adopté en vertu de l’article 366 peut établir les modalités de paiement extrajudiciaire volontaire des amendes dans le cas d’une prétendue contravention aux règlements municipaux suivants :
+
 1. Les règlements sur le stationnement, l’immobilisation ou l’arrêt de véhicules.
+
 2. Les règlements sur la présence d’animaux en liberté ou leur entrée non autorisée sur des biens-fonds.
 
 ### Droit de la cité aux amendes
@@ -8787,7 +10641,9 @@ b) dans le cas d’un règlement municipal visé à l’article 104 ou 105, exig
 ### Limites pécuniaires
 
 (3) Le montant d’une pénalité administrative fixé par la cité ne doit être :
+
 a) ni de nature punitive;
+
 b) ni supérieur au montant qui est raisonnablement nécessaire pour encourager l’observation d’un règlement de la cité.
 
 ### Effet sur les infractions
@@ -8797,7 +10653,9 @@ b) ni supérieur au montant qui est raisonnablement nécessaire pour encourager 
 ### Règlements
 
 (5) Le ministre peut, par règlement, prévoir les questions qui, à son avis, sont nécessaires ou souhaitables pour l’application du présent article, notamment :
+
 a) conférer à la cité des pouvoirs à l’égard de l’imposition de pénalités administratives et à l’égard d’autres questions nécessaires à l’établissement d’un système de pénalités administratives;
+
 b) imposer des conditions et des restrictions aux pouvoirs qu’a la cité à l’égard des pénalités administratives.
 
 ### Dette
@@ -8821,46 +10679,71 @@ b) imposer des conditions et des restrictions aux pouvoirs qu’a la cité à l�
 ### Conditions régissant les pouvoirs d’entrée
 
 375 (1) Sauf disposition contraire de la présente loi, d’une ordonnance rendue en vertu de l’article 378 ou d’un mandat décerné en vertu de l’article 379, les conditions suivantes s’appliquent à l’exercice d’un pouvoir d’entrée que confère la présente loi :
+
 1. Un employé, fonctionnaire ou mandataire de la cité ou un membre du service de police de la cité exerce le pouvoir.
+
 2. La personne qui exerce le pouvoir présente sur demande une pièce d’identité suffisante.
+
 3. La personne qui exerce le pouvoir peut se faire accompagner de toute personne sous ses ordres.
+
 4. Un préavis de l’entrée est fourni à l’occupant du bien-fonds, sauf dans les cas suivants :
+
 i. il s’agit d’une entrée autorisée en vertu de l’article 376, de l’alinéa 377 a) ou d) ou de l’article 379,
+
 ii. il s’agit d’une entrée dans un local autre qu’une pièce ou un endroit utilisé comme logement qui est autorisée en vertu de l’article 378,
+
 iii. il s’agit d’une entrée dans un bien-fonds qui est autorisée en vertu de l’article 49, 70 ou 76 ou de la partie XIV (Vente de biens-fonds pour arriérés d’impôts fonciers),
+
 iv. le laps de temps nécessaire pour donner un préavis de l’entrée présenterait un danger immédiat pour la santé ou la sécurité de quiconque.
+
 5. La cité remet le bien-fonds dans son état initial dans la mesure du possible et offre une indemnité pour les dommages éventuels causés par l’entrée ou par un acte accompli sur le bien-fonds, sauf si l’entrée est effectuée :
+
 i. soit en vertu de l’article 386,
+
 ii. soit en vertu de la partie XIV, si le trésorier enregistre en vertu de cette partie un avis de dévolution à l’égard du bien-fonds au nom de la cité.
 
 ### Préavis
 
 (2) Le préavis de l’intention d’exercer un pouvoir d’entrée qu’exige le paragraphe (1) remplit les exigences suivantes :
+
 1. Il est donné à l’occupant du bien-fonds à l’égard duquel le pouvoir sera exercé.
+
 2. Il est donné dans un délai raisonnable avant l’exercice du pouvoir.
+
 3. Il est donné par signification à personne dans le cas de l’intention d’exercer un pouvoir d’entrée en vertu de l’article 63, 64 ou 386 à l’égard d’une pièce ou d’un endroit utilisé comme logement.
+
 4. Dans le cas de l’intention d’exercer un pouvoir d’entrée autre qu’un pouvoir visé à la disposition 3, il est donné par signification à personne, par courrier affranchi ou par affichage à un endroit bien en vue sur le bien-fonds.
 
 ### Pouvoir d’entrée en vue d’une inspection
 
 376 (1) La cité a le pouvoir d’adopter des règlements qui prévoient qu’elle peut entrer sur un bien-fonds à toute heure raisonnable en vue d’effectuer une inspection pour déterminer si ce qui suit est observé :
+
 1. Un règlement municipal adopté en vertu de la présente loi.
+
 2. Une directive ou un ordre de la cité donné en vertu de la présente loi ou d’un règlement municipal adopté en vertu de celle-ci.
+
 3. Une condition d’un permis délivré en vertu d’un règlement municipal adopté en vertu de la présente loi.
+
 4. Une ordonnance rendue en vertu de l’article 372.
 
 ### Pouvoirs d’inspection
 
 (2) Les règlements municipaux adoptés en vertu du paragraphe (1) peuvent prévoir que pour les besoins d’une inspection, la cité peut faire ce qui suit :
+
 a) exiger la production, aux fins d’examen, des documents ou autres choses qui se rapportent à l’inspection;
+
 b) examiner et saisir des documents ou autres choses qui se rapportent à l’inspection pour en tirer des copies ou des extraits;
+
 c) exiger des renseignements de quiconque concernant toute question se rapportant à l’inspection;
+
 d) seule ou en collaboration avec quiconque possède des connaissances particulières ou spécialisées pertinentes, procéder aux examens ou aux essais, prélever les échantillons ou prendre les photos qui sont nécessaires à l’inspection.
 
 ### Échantillons
 
 (3) L’échantillon prélevé en vertu de l’alinéa (2) d) est divisé en deux parties, l’une d’elles étant remise à la personne auprès de laquelle l’échantillon a été prélevé, si :
+
 a) d’une part, la personne demande au moment du prélèvement que celui-ci soit divisé et fournit les moyens nécessaires pour ce faire;
+
 b) d’autre part, il est techniquement possible de le diviser.
 
 ### Idem
@@ -8878,11 +10761,17 @@ b) d’autre part, il est techniquement possible de le diviser.
 ### Restriction relative aux logements
 
 377 Malgré les autres dispositions de la présente loi, la personne qui exerce au nom de la cité un pouvoir d’entrée que lui confère la présente loi ne doit ni entrer ni demeurer dans une pièce ou un endroit utilisé comme logement sauf si, selon le cas :
+
 a) le consentement de l’occupant est obtenu, après que celui-ci ait été informé qu’il peut refuser le droit d’entrée et que, s’il refuse, l’entrée n’est permise que sur présentation d’une ordonnance rendue en vertu de l’article 378 ou d’un mandat décerné en vertu de l’article 360 ou 379;
+
 b) une ordonnance rendue en vertu de l’article 378 est obtenue;
+
 c) un mandat décerné en vertu de l’article 379 est obtenu;
+
 c.1) un mandat décerné en vertu de l’article 360 est obtenu;
+
 d) le laps de temps nécessaire pour obtenir une ordonnance rendue en vertu de l’article 378, un mandat décerné en vertu de l’article 379 ou le consentement de l’occupant présenterait un danger immédiat pour la santé ou la sécurité de quiconque;
+
 e) la cité a donné un préavis de son intention d’entrer à l’occupant du bien-fonds comme l’exige le paragraphe 375 (2) et l’entrée est autorisée par l’article 63, 64 ou 386.
 
 ### Inspection effectuée aux termes d’une ordonnance
@@ -8892,10 +10781,15 @@ e) la cité a donné un préavis de son intention d’entrer à l’occupant du 
 ### Ordonnance
 
 (2) Un juge provincial ou un juge de paix peut rendre une ordonnance autorisant la cité à entrer sur un bien-fonds en vue d’effectuer une inspection à l’une des fins visées au paragraphe 376 (1) et à exercer les pouvoirs visés aux alinéas 376 (2) a) à d) et précisés dans l’ordonnance s’il est convaincu, sur la foi des preuves présentées sous serment, de ce qui suit :
+
 a) les circonstances de l’inspection sont prévues dans un règlement adopté en vertu du paragraphe (1);
+
 b) l’inspection est raisonnablement nécessaire;
+
 c) l’une des conditions suivantes existe :
+
 (i) si aucun règlement prévoyant des inspections dans ces circonstances n’a été adopté en vertu de l’article 376, la cité a fait un effort raisonnable pour obtenir le consentement de l’occupant à l’inspection,
+
 (ii) si un règlement prévoyant des inspections dans ces circonstances a été adopté en vertu de l’article 376, la cité a été empêchée ou sera vraisemblablement empêchée d’accomplir les actes énoncés au paragraphe 376 (1) ou (2).
 
 ### Expiration de l’ordonnance
@@ -8925,7 +10819,9 @@ c) l’une des conditions suivantes existe :
 ### Mandat de perquisition
 
 379 (1) Un juge provincial ou un juge de paix peut décerner un mandat qui autorise la personne qui y est nommée à perquisitionner dans un bâtiment, contenant ou lieu à la recherche des éléments de preuve précisés dans le mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il existe un motif raisonnable de croire :
+
 a) d’une part, qu’une infraction à la présente loi ou à un règlement municipal adopté en vertu de celle-ci a été commise;
+
 b) d’autre part, que la perquisition dans le bâtiment, le contenant ou le lieu fournira des preuves relatives à la commission de l’infraction.
 
 ### Saisie
@@ -8935,7 +10831,9 @@ b) d’autre part, que la perquisition dans le bâtiment, le contenant ou le lie
 ### Idem
 
 (3) La personne qui saisit quelque chose en vertu d’un mandat de perquisition :
+
 a) d’une part, remet au saisi un récépissé à cet effet;
+
 b) d’autre part, présente la chose saisie au juge provincial ou au juge de paix qui a décerné le mandat ou à un autre juge provincial ou juge de paix pour qu’il prenne des mesures à cet égard conformément à la loi.
 
 ### Heures d’exécution
@@ -8971,8 +10869,11 @@ b) d’autre part, présente la chose saisie au juge provincial ou au juge de pa
 ### Exécution d’accords
 
 382 La cité peut faire respecter les obligations et devoirs qu’une loi ou un accord impose à quiconque en faveur de la cité ou en faveur des résidents de la cité ou de certains d’entre eux, et elle peut obtenir le même redressement que celui qui pourrait être obtenu, selon le cas :
+
 a) dans une instance introduite par le procureur général;
+
 b) dans une instance par quasi-demandeur introduite au nom du procureur général;
+
 c) dans une instance introduite par les résidents en leur propre nom ou en leur propre nom et au nom d’autres résidents.
 
 ### Exécution des prêts consentis par la cité
@@ -8996,7 +10897,9 @@ c) dans une instance introduite par les résidents en leur propre nom ou en leur
 ### Idem
 
 (2) Un ordre donné en vertu du paragraphe (1) :
+
 a) donne des détails raisonnables de la contravention qui permettent de repérer la contravention et l’emplacement du bien-fonds sur lequel elle est survenue;
+
 b) indique la date limite à laquelle il faut se conformer à l’ordre.
 
 ### Infraction
@@ -9010,7 +10913,9 @@ b) indique la date limite à laquelle il faut se conformer à l’ordre.
 ### Idem
 
 (2) Un ordre donné en vertu du paragraphe (1) :
+
 a) donne des détails raisonnables de la contravention qui permettent de repérer la contravention et l’emplacement du bien-fonds sur lequel elle est survenue;
+
 b) indique les travaux à effectuer et la date limite à laquelle ceux-ci doivent être achevés.
 
 ### Idem
@@ -9062,13 +10967,17 @@ b) indique les travaux à effectuer et la date limite à laquelle ceux-ci doiven
 ### Suspension de l’ordonnance de fermeture
 
 (3) Sur présentation d’une requête par une personne qui a un intérêt sur les lieux visés par une ordonnance de fermeture rendue en vertu du présent article, la Cour supérieure de justice peut suspendre l’ordonnance de fermeture pour la période et aux conditions qu’elle précise :
+
 a) si, d’une part, elle est convaincue que l’usage projeté des lieux ne contreviendra pas aux règlements municipaux exigeant un permis adoptés en vertu de la présente loi;
+
 b) si, d’autre part, le requérant fournit un cautionnement de 10 000 $ ou du montant supérieur qu’elle fixe, pour la période qu’elle fixe également, afin de veiller à ce que l’usage des lieux ne contrevienne à aucun règlement municipal.
 
 ### Annulation de l’ordonnance de fermeture
 
 (4) La Cour supérieure de justice peut annuler l’ordonnance de fermeture sur présentation d’une requête si elle est convaincue de ce qui suit :
+
 a) la propriété effective des lieux a été ou sera transférée après la perpétration de l’infraction visée au paragraphe (1) ou (2);
+
 b) le nouveau propriétaire peut faire en sorte qu’il n’y ait aucune contravention aux règlements municipaux exigeant un permis adoptés en vertu de la présente loi.
 
 ### Condamnation des voies d’accès
@@ -9106,19 +11015,29 @@ b) le nouveau propriétaire peut faire en sorte qu’il n’y ait aucune contrav
 ### Définition
 
 (13) La définition qui suit s’applique aux paragraphes (1) et (2).
+
 «tribunal» La Cour de justice de l’Ontario ou un tribunal qui peut être saisi d’un appel en vertu de la partie VII de la Loi sur les infractions provinciales.
 
 ### Fermeture des lieux : nuisance publique
 
 388 (1) Sur requête présentée par la cité, la Cour supérieure de justice peut ordonner la fermeture, pour quelque usage que ce soit, de tout ou partie de lieux situés dans la cité pour une période maximale de deux ans si, selon la prépondérance des probabilités, elle est convaincue de ce qui suit :
+
 a) des activités exercées ou des circonstances existant sur ou dans les lieux constituent une nuisance publique, ou causent des activités ou des circonstances qui constituent une nuisance publique dans le voisinage des lieux ou contribuent à de telles activités ou circonstances;
+
 b) la nuisance publique a un effet préjudiciable sur l’usage et la jouissance de biens situés dans le voisinage des lieux, notamment l’un ou l’autre des effets suivants :
+
 (i) l’entrée sans autorisation,
+
 (ii) l’entrave de l’usage de voies publiques et autres lieux publics,
+
 (iii) l’augmentation des ordures, du bruit ou de la circulation ou la création de courants de trafic inhabituels,
+
 (iv) des activités qui ont un effet important sur la valeur des biens-fonds,
+
 (v) l’augmentation des cas de harcèlement ou d’intimidation,
+
 (vi) la présence de graffitis;
+
 c) le propriétaire ou les occupants de tout ou partie des lieux savaient ou auraient dû savoir que les activités ou circonstances constituant la nuisance publique étaient exercées ou existaient et n’ont pas pris les mesures appropriées pour y mettre fin.
 
 ### Consentement
@@ -9132,8 +11051,11 @@ c) le propriétaire ou les occupants de tout ou partie des lieux savaient ou aur
 ### Conditions
 
 (4) Les conditions suivantes s’appliquent à l’égard de l’avis donné au procureur général en application du paragraphe (3) :
+
 1. Si le procureur général ne lui fait aucun commentaire à l’égard de la requête dans le délai de 15 jours, la cité peut présenter la requête.
+
 2. Si le procureur général lui fait des commentaires à l’appui de la requête dans le délai de 15 jours, la cité peut présenter la requête immédiatement.
+
 3. Si le procureur général lui fait des commentaires contre la requête dans le délai de 15 jours, la cité ne peut pas présenter la requête.
 
 ### Action du procureur général
@@ -9143,8 +11065,11 @@ c) le propriétaire ou les occupants de tout ou partie des lieux savaient ou aur
 ### Contenu de l’avis
 
 (6) L’avis prévu au paragraphe (3) contient une description de ce qui suit :
+
 a) les lieux à l’égard desquels la cité a l’intention de présenter la requête;
+
 b) les activités exercées ou les circonstances existant sur ou dans les lieux et qui, de l’avis de la cité, constituent une nuisance publique, ou causent des activités ou des circonstances qui constituent une nuisance publique dans le voisinage des lieux ou contribuent à de telles activités ou circonstances;
+
 c) l’effet préjudiciable sur l’usage et la jouissance de biens situés dans le voisinage des lieux qui, de l’avis de la cité, est causé par les activités ou circonstances visées à l’alinéa b).
 
 ### Suspension de l’ordonnance de fermeture
@@ -9190,7 +11115,9 @@ c) l’effet préjudiciable sur l’usage et la jouissance de biens situés dans
 ### Personnes pouvant effectuer l’inspection
 
 (2) L’inspection visée au paragraphe (1) peut être effectuée, selon le cas :
+
 a) par un agent d’exécution des règlements municipaux d’une municipalité ou d’un de ses conseils locaux;
+
 b) par un fonctionnaire, un agent, un employé ou un mandataire d’une municipalité ou d’un de ses conseils locaux dont les responsabilités incluent l’exécution d’un règlement municipal, d’une loi ou d’un règlement pris en application d’une loi.
 
 ### Nature de l’inspection
@@ -9208,6 +11135,7 @@ b) par un fonctionnaire, un agent, un employé ou un mandataire d’une municipa
 ### Définition
 
 (6) La définition qui suit s’applique au présent article.
+
 «service de police» S’entend d’un service de police au sens de la Loi de 2019 sur la sécurité communautaire et les services policiers ou de la Gendarmerie royale du Canada.
 
 ### Coordination de l’exécution
@@ -9233,8 +11161,11 @@ b) par un fonctionnaire, un agent, un employé ou un mandataire d’une municipa
 ### Immunité : décisions stratégiques
 
 390 Est irrecevable l’instance pour cause de négligence introduite contre l’une ou l’autre des personnes ou entités suivantes relativement à l’exercice ou au non-exercice d’un pouvoir ou d’une fonction discrétionnaires, si l’action ou l’inaction est le résultat d’une décision stratégique de la cité ou d’un conseil local de la cité prise dans l’exercice de bonne foi de la discrétion :
+
 a) la cité ou un conseil local de la cité;
+
 b) un membre du conseil municipal ou d’un conseil local de la cité;
+
 c) un fonctionnaire, un employé ou un mandataire de la cité ou un agent, un employé ou un mandataire d’un conseil local de la cité.
 
 ### Immunité : exercice des fonctions
@@ -9260,9 +11191,13 @@ c) un fonctionnaire, un employé ou un mandataire de la cité ou un agent, un em
 ### Règlement sur les mesures de ralentissement de la circulation
 
 (2) Un règlement municipal, pour l’application du paragraphe (1), est celui qui réunit les conditions suivantes :
+
 a) il désigne une voie publique ou une section de voie publique qui relève de la compétence de la cité comme zone de limitation de la vitesse;
+
 b) il autorise l’installation, sur toute partie de la voie publique d’une zone de limitation de la vitesse, de dispositifs qui en modifient la surface;
+
 c) il permet ou exige l’affichage de panneaux indiquant une zone de limitation de la vitesse;
+
 d) il décrit les dispositifs dont l’installation est autorisée, les panneaux dont l’affichage est permis ou exigé et la pose des panneaux indiquant une zone de limitation de la vitesse.
 
 ### Aucune immunité en cas de négligence
@@ -9272,14 +11207,19 @@ d) il décrit les dispositifs dont l’installation est autorisée, les panneaux
 ### Responsabilité en cas de nuisance : eau et eaux d’égout
 
 393 (1) Est irrecevable l’instance pour cause de nuisance introduite contre l’une ou l’autre des personnes ou entités suivantes relativement à une fuite d’eau ou d’eaux d’égout d’une station d’épuration des eaux d’égout ou de purification de l’eau :
+
 a) la cité ou un conseil local de la cité;
+
 b) un membre du conseil municipal ou d’un conseil local de la cité;
+
 c) un fonctionnaire, un employé ou un mandataire de la cité ou un agent, un employé ou un mandataire d’un conseil local de la cité.
 
 ### Définitions
 
 (2) Les définitions qui suivent s’appliquent au présent article.
+
 «station de purification de l’eau» Installations servant à capter, produire, traiter, retenir, fournir ou distribuer de l’eau, ou toute partie de telles installations. («water works»)
+
 «station d’épuration des eaux d’égout» La totalité ou toute partie des installations servant à capter, retenir, conduire, épurer ou éliminer des eaux d’égout, y compris un système d’égouts auquel s’applique la Loi de 1992 sur le code du bâtiment. («sewage works») 2006, chap. 11, annexe A, par. 393 (2).
 
 ### Maintien des droits
@@ -9313,16 +11253,27 @@ c) un fonctionnaire, un employé ou un mandataire de la cité ou un agent, un em
 ### Exceptions
 
 (3) Le paragraphe (1) ne s’applique pas à l’égard de ce qui suit :
+
 a) les pousse-pousse;
+
 b) les cyclo-pousses;
+
 c) les compagnies de chemin de fer constituées sous le régime d’une loi fédérale ou provinciale;
+
 d) les taxis;
+
 e) les véhicules utilisés à des fins de visites touristiques;
+
 f) les véhicules nolisés uniquement pour le transport d’un groupe de personnes à l’occasion d’un voyage particulier dans la cité pour lequel un tarif de groupe est versé;
+
 g) les autobus dont un conseil scolaire ou une école privée est propriétaire-exploitant, ou qui sont exploités aux termes d’un contrat conclu avec une telle entité;
+
 h) les autobus exploités par une personne morale ou une organisation qui en est propriétaire, uniquement à ses propres fins, sans qu’aucun tarif ou droit ne soit exigé pour le transport;
+
 i) les traversiers desservant les îles de Toronto;
+
 j) les autobus publics dans les îles de Toronto.
+
 k) Abrogé : 2011, chap. 9, annexe 41, art. 2.
 
 ### Accords
@@ -9348,19 +11299,25 @@ k) Abrogé : 2011, chap. 9, annexe 41, art. 2.
 ### Accords : services de transport local de passagers
 
 397 (1) La CTT peut conclure avec une municipalité située dans un rayon de 40 kilomètres de la cité un accord prévoyant que :
+
 a) la CTT exploitera un service de transport local de passagers conformément à l’accord.
+
 b) et c) Abrogés : 2015, chap. 27, annexe 5, par. 3 (2).
 
 ### Règlements municipaux, excédent et déficit
 
 (2) La municipalité qui conclut un accord en vertu du paragraphe (1) peut, par règlement, prévoir que, selon le cas :
+
 a) tout déficit imputé à la municipalité soit comblé au moyen de sommes d’argent prélevées sur son fonds d’administration générale et tout excédent soit porté au crédit de ce fonds;
+
 b) avec l’approbation du Tribunal ontarien de l’aménagement du territoire, tout déficit soit comblé par l’imposition des biens imposables d’un ou de plusieurs secteurs de la municipalité définis dans le règlement et tout excédent soit porté au crédit de ces biens.
 
 ### Accord avec une personne qui n’est pas une municipalité
 
 (3) La CTT peut conclure avec une personne qui n’est pas une municipalité un accord prévoyant que :
+
 a) la CTT exploitera un réseau de transport local de passagers conformément à l’accord;
+
 b) la personne comblera les déficits de fonctionnement.
 
 ### Réclamations contre la CTT
@@ -9402,7 +11359,9 @@ b) la personne comblera les déficits de fonctionnement.
 ### Cotisations
 
 (3) La CTT ne verse des cotisations qu’à l’égard des personnes suivantes :
+
 a) les employés permanents qui ont été employés par elle pendant au moins 60 jours ainsi que leur conjoint et les enfants à leur charge;
+
 b) les employés à la retraite qui résident en Ontario et qui choisissent de maintenir leur participation aux prestations.
 
 ### Employés exclus
@@ -9446,8 +11405,11 @@ b) les employés à la retraite qui résident en Ontario et qui choisissent de m
 ### Services policiers additionnels
 
 403 En plus d’assurer les services policiers exigés par la Loi de 2019 sur la sécurité communautaire et les services policiers, le service de police de Toronto peut :
+
 a) maintenir une équipe de sécurité et de sauvetage sur la partie des eaux du lac Ontario qui se trouve à l’intérieur des limites de la cité;
+
 b) fournir un service de sauveteurs sur les plages de la cité;
+
 c) fournir aux commissaires du havre de Toronto les services de sécurité et les services policiers qu’ils peuvent exiger pour le port de Toronto.
 
 ### Indemnisation des membres du service de police
@@ -9475,8 +11437,11 @@ c) fournir aux commissaires du havre de Toronto les services de sécurité et le
 ### Fonctions du conseil municipal
 
 (5) Malgré la Loi sur la protection et la promotion de la santé, la cité est investie des fonctions suivantes relativement au Conseil :
+
 1. Les fonctions dont le Conseil serait par ailleurs investi en ce qui concerne la nomination, pour la première fois ou à nouveau, et le renvoi de son médecin-hygiéniste et de ses médecins-hygiénistes adjoints.
+
 2. L’obligation de mettre à la disposition du Conseil les employés municipaux, y compris les infirmières-hygiénistes, que la cité considère nécessaires à l’accomplissement des fonctions du Conseil, y compris les fonctions relatives aux programmes et aux services de santé obligatoires.
+
 3. L’obligation de nommer le vérificateur du Conseil.
 
 ### Parc des expositions
@@ -9484,20 +11449,27 @@ c) fournir aux commissaires du havre de Toronto les services de sécurité et le
 ### Pouvoirs et fonctions : Parc des expositions
 
 406 (1) La définition qui suit s’applique au présent article et à l’article 407.
+
 «Parc des expositions» Le bien-fonds appelé Exhibition Park et le bien-fonds adjacent du côté sud créé par remblai, qui ont été dévolus à la cité le 1 er janvier 1998 par la Loi de 1997 sur la cité de Toronto, à l’exception de tout intérêt de la Couronne du chef de l’Ontario sur ceux-ci.
 
 ### Utilisation du Parc des expositions
 
 (2) Le Parc des expositions est utilisé :
+
 a) aux fins des parcs et des expositions;
+
 b) aux fins des centres commerciaux et des foires commerciales et agricoles telles que, notamment, l’Exposition nationale canadienne et la foire royale d’hiver de l’agriculture qui se tiennent annuellement;
+
 c) pour la tenue de présentations, d’activités agricoles, de manifestations sportives, de compétitions d’athlétisme et d’assemblées et pour les divertissements publics;
+
 d) aux fins des voies publiques, du transport de l’électricité ou des services publics;
+
 e) à toute autre fin que la cité peut approuver.
 
 ### Exposition nationale canadienne
 
 (3) Une exposition est tenue chaque année au Parc des expositions.
+
 (4) Abrogé : 2017, chap. 10, annexe 2, art. 65.
 
 ### Prorogation du Conseil d’administration
@@ -9515,7 +11487,9 @@ e) à toute autre fin que la cité peut approuver.
 ### Anciens employés de l’association ou de la société appelée Exhibition Stadium Corporation
 
 408 (1) Les personnes employées par l’Association de l’Exposition nationale canadienne ou la société appelée Exhibition Stadium Corporation qui ont accepté un emploi auprès du Conseil d’administration du Parc des expositions en vertu du paragraphe 232 (1) de la Loi sur la municipalité de la communauté urbaine de Toronto, qui constitue le chapitre M.62 des Lois refondues de l’Ontario de 1990, telle que cette loi existait avant son abrogation :
+
 a) continuent d’être des participants au Régime de retraite des employés municipaux de l’Ontario, ou sont réputées l’être devenues, selon le cas, à la date de leur mutation;
+
 b) sont réputées, relativement aux prestations de retraite accumulées avant la date de prise d’effet d’un accord conclu en vertu des paragraphes 229 (11) et (12) de cette loi, avoir été employées par le Conseil d’administration pendant la durée de leur emploi auprès de l’association ou de la société.
 
 ### Participation aux régimes de retraite d’OMERS
@@ -9531,6 +11505,7 @@ b) sont réputées, relativement aux prestations de retraite accumulées avant l
 ### Prorogation du Conseil de gestion
 
 409 (1) Le Conseil de gestion du zoo de Toronto est prorogé en tant que commission municipale. Il a pour objet l’exploitation, la gestion et l’entretien du zoo de Toronto.
+
 (2) Abrogé : 2009, chap. 33, annexe 21, par. 4 (31).
 
 ### Imposition
@@ -9544,6 +11519,7 @@ b) sont réputées, relativement aux prestations de retraite accumulées avant l
 ### Définition
 
 (5) La définition qui suit s’applique au présent article.
+
 «zoo de Toronto» Le jardin zoologique et les installations connexes de la cité.
 
 ### Anciens employés de la société
@@ -9571,7 +11547,9 @@ b) sont réputées, relativement aux prestations de retraite accumulées avant l
 ### Définition
 
 (4) La définition qui suit s’applique au présent article.
+
 «centre» Le bien-fonds et le bâtiment, dévolus à la cité, appelés Centre Hummingbird et anciennement appelés O’Keefe Centre.
+
 (5) Abrogé : 2017, chap. 10, annexe 2, art. 66.
 
 ### North York Performing Arts Centre Corporation
@@ -9581,7 +11559,9 @@ b) sont réputées, relativement aux prestations de retraite accumulées avant l
 ### Définitions
 
 411.1 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «centre des arts» Les biens-fonds, bâtiments, accessoires fixes et ouvrages qui appartiennent à la société ou qui sont mis à sa disposition ou qu’elle utilise et qui sont situés dans la partie de la cité qui constituait la cité de North York le 31 décembre 1997. («arts centre»)
+
 «société» La société appelée North York Performing Arts Centre Corporation qui est prorogée par le paragraphe (2). («corporation») 2006, chap. 32, annexe B, art. 81.
 
 ### Prorogation de la société
@@ -9599,13 +11579,21 @@ b) sont réputées, relativement aux prestations de retraite accumulées avant l
 ### Mission
 
 (5) La société a pour mission d’assurer, à des fins de bienfaisance, l’entretien, le fonctionnement et la gestion du centre des arts au profit du public, et notamment de faire ce qui suit :
+
 a) fournir des installations et des services pour les arts d’interprétation, les beaux-arts et d’autres activités de bienfaisance et activités culturelles;
+
 b) établir des installations éducatives et offrir un enseignement dans tous les domaines artistiques;
+
 c) fournir des installations et des services pour la tenue de réceptions, de réunions, de conférences, de congrès et d’expositions;
+
 d) exploiter une galerie d’art, une boutique cadeaux, un théâtre, une salle de musique, un théâtre-studio, une salle de concert, une salle de bal, un studio de cinéma, de télévision ou d’enregistrement, des bars-rafraîchissements et des restaurants;
+
 e) promouvoir l’avancement des arts d’interprétation et des beaux-arts;
+
 f) présenter, produire et diriger des représentations des arts d’interprétation, y compris des pièces de théâtre, des drames, des comédies, des revues de music-hall, des opéras, des concerts, des comédies musicales, des émissions de télévision, des enregistrements magnétoscopiques, des enregistrements sonores, des films, des spectacles de variétés, des ballets et d’autres manifestations artistiques;
+
 g) promouvoir et commercialiser le centre des arts;
+
 h) assurer la supervision de la conception, de l’érection et de la promotion de tout bâtiment ou de toute construction pour le centre des arts et prendre des arrangements ou conclure des contrats à cet égard.
 
 ### Demandes et causes d’action
@@ -9625,8 +11613,11 @@ h) assurer la supervision de la conception, de l’érection et de la promotion 
 ### Fonctions additionnelles
 
 413 (1) Le Conseil des bibliothèques publiques de Toronto est investi des fonctions suivantes en plus de celles que lui attribue la Loi sur les bibliothèques publiques :
+
 a) il assure un service de référence et de recherche qui reflète les besoins uniques de la cité;
+
 b) il conserve une collection générale de livres, périodiques, films et autres pièces de documentation pour l’application de l’alinéa a);
+
 c) il fournit des services et des ressources de bibliothèque à la clientèle des bibliothèques de l’Ontario.
 
 ### Conseil de services de bibliothèque spéciaux
@@ -9704,7 +11695,9 @@ c) il fournit des services et des ressources de bibliothèque à la clientèle d
 ### Pouvoir temporaire d’adoption de règlements municipaux
 
 420 (1) Si, en raison de l’entrée en vigueur de toute disposition de l’annexe B ou C de la Loi de 2006 créant un Toronto plus fort pour un Ontario plus fort, la cité n’a plus le pouvoir d’adopter des règlements ou des résolutions qui étaient en vigueur immédiatement avant la prorogation de la cité, bien qu’elle n’ait plus ce pouvoir :
+
 a) d’une part, les règlements ou les résolutions demeurent en vigueur jusqu’au premier en date de leur abrogation, de leur expiration et du 1 er janvier 2010;
+
 b) d’autre part, le pouvoir, tel qu’il existait immédiatement avant la prorogation de la cité, continue de s’appliquer aux règlements ou aux résolutions adoptés en vertu de ce pouvoir avant le jour de l’entrée en vigueur du présent article.
 
 ### Restrictions
@@ -9718,7 +11711,9 @@ b) d’autre part, le pouvoir, tel qu’il existait immédiatement avant la pror
 ### Pouvoir temporaire d’adoption de règlements municipaux
 
 420.1 (1) Si, en raison de l’abrogation d’une loi d’intérêt privé qui figure au tableau 1 de l’annexe B de la Loi de 2006 modifiant des lois concernant les municipalités, la cité n’a plus le pouvoir d’adopter des règlements ou des résolutions qui étaient en vigueur immédiatement avant l’abrogation, bien qu’elle n’ait plus ce pouvoir :
+
 a) d’une part, les règlements ou les résolutions demeurent en vigueur jusqu’au premier en date de leur abrogation, de leur expiration et du 1 er janvier 2010;
+
 b) d’autre part, le pouvoir, tel qu’il existait immédiatement avant l’abrogation, continue de s’appliquer aux règlements ou aux résolutions adoptés en vertu de ce pouvoir avant celle-ci.
 
 ### Restrictions
@@ -9732,13 +11727,17 @@ b) d’autre part, le pouvoir, tel qu’il existait immédiatement avant l’abr
 ### Règlement réputé adopté : pouvoirs et fonctions
 
 420.2 (1) Le présent article s’applique si une personne ou un organisme, autre qu’une commission municipale, cesse d’être autorisé à exercer des pouvoirs ou des fonctions pour le compte de la cité ou relativement à celle-ci par l’effet de l’entrée en vigueur de toute disposition :
+
 a) soit de la Loi de 2006 créant un Toronto plus fort pour un Ontario plus fort ;
+
 b) soit de l’annexe B de la Loi de 2006 modifiant des lois concernant les municipalités.
 
 ### Idem
 
 (2) Le jour de l’entrée en vigueur de la disposition applicable, la cité est réputée avoir adopté tout règlement nécessaire en application de la présente loi pour attribuer à la personne ou à l’organisme les pouvoirs ou les fonctions :
+
 a) d’une part, qu’elle peut lui attribuer en vertu de la présente loi;
+
 b) d’autre part, que la personne ou l’organisme était autorisé à exercer pour le compte de la cité ou relativement à celle-ci immédiatement avant ce jour.
 
 ### Idem
@@ -9752,7 +11751,9 @@ b) d’autre part, que la personne ou l’organisme était autorisé à exercer 
 ### Statut des plans officiels
 
 421 Chaque plan officiel de la cité qui était en vigueur le 1 er janvier 1998 par l’effet de l’article 45 de la Loi de 1997 sur la cité de Toronto (no 2) et qui demeure en vigueur le jour de l’entrée en vigueur du présent article :
+
 a) d’une part, est réputé un plan officiel de la cité;
+
 b) d’autre part, demeure en vigueur, à l’égard de la partie de la cité à laquelle il s’appliquait le 31 décembre 1997, jusqu’à ce que le conseil l’abroge ou le modifie pour qu’il en soit prévu autrement.
 
 ### Obligation temporaire d’aviser le public
@@ -9766,6 +11767,7 @@ b) d’autre part, demeure en vigueur, à l’égard de la partie de la cité à
 ### Effet de l’obligation
 
 (3) Le paragraphe (2) n’a pas pour effet de faire appliquer d’autres exigences de procédure ou de fond de la Loi de 2001 sur les municipalités à la cité dans les circonstances.
+
 423 Abrogé : 2006, chap. 32, annexe B, art. 84.
 
 ### Statut fiscal des biens utilisés par des anciens combattants
@@ -9797,9 +11799,13 @@ b) d’autre part, demeure en vigueur, à l’égard de la partie de la cité à
 ### Idem
 
 (2) Sans préjudice de la portée de la disposition de la partie XVII qui proroge un conseil local en tant que commission locale, les circonstances suivantes existent le jour où le conseil local est prorogé :
+
 1. Les questions visées aux dispositions 1 à 7 du paragraphe 141 (1) concernant la commission municipale, de même que les règles établies à leur égard, sont les mêmes qu’immédiatement avant la prorogation du conseil local en tant que commission municipale.
+
 2. La commission municipale conserve le contrôle et la gestion des mêmes activités et services municipaux qu’avait le conseil local immédiatement avant la prorogation.
+
 3. Les pouvoirs et les fonctions de la commission municipale sont les mêmes que ceux qu’exerçait le conseil local immédiatement avant la prorogation.
+
 4. Les règlements, résolutions, règles, modalités et politiques du conseil local qui étaient en vigueur immédiatement avant la prorogation demeurent en vigueur, sous réserve de l’article 428.
 
 ### Règlement municipal réputé adopté
@@ -9821,14 +11827,19 @@ b) d’autre part, demeure en vigueur, à l’égard de la partie de la cité à
 ### Idem
 
 (2) Sans préjudice de la portée de la disposition de la partie XVII qui proroge un conseil local, les circonstances suivantes existent le jour où le conseil local est prorogé :
+
 1. La composition du conseil local est la même qu’immédiatement avant la prorogation.
+
 2. Les pouvoirs et les fonctions du conseil local sont les mêmes qu’immédiatement avant la prorogation.
+
 3. Les règlements, résolutions, règles, modalités et politiques du conseil local qui étaient en vigueur immédiatement avant la prorogation demeurent en vigueur, sous réserve de l’article 428.
 
 ### Pouvoir temporaire d’adoption de règlements municipaux des commissions et des conseils
 
 428 (1) Si, en raison de l’entrée en vigueur de toute disposition de l’annexe B ou C de la Loi de 2006 créant un Toronto plus fort pour un Ontario plus fort, une commission municipale ou un autre conseil local n’a plus le pouvoir d’adopter des règlements ou des résolutions qui étaient en vigueur immédiatement avant la prorogation de la commission ou de l’autre conseil, bien qu’il n’ait plus ce pouvoir :
+
 a) d’une part, les règlements ou les résolutions demeurent en vigueur jusqu’au premier en date de leur abrogation, de leur expiration et du 1 er janvier 2010;
+
 b) d’autre part, le pouvoir, tel qu’il existait immédiatement avant la prorogation de la commission ou de l’autre conseil, continue de s’appliquer aux règlements ou aux résolutions adoptés en vertu de ce pouvoir avant le jour de l’entrée en vigueur du présent article.
 
 ### Restrictions
@@ -9872,8 +11883,11 @@ b) d’autre part, le pouvoir, tel qu’il existait immédiatement avant la pror
 ### Instances prévues par la partie VI de la loi sur la communauté urbaine
 
 431 La partie VI de la Loi sur la municipalité de la communauté urbaine de Toronto, qui constitue le chapitre M.62 des Lois refondues de l’Ontario de 1990, telle que cette loi existait le 31 décembre 1997, continue de s’appliquer à ce qui suit malgré l’abrogation de celle-ci :
+
 1. Les requêtes présentées aux termes du paragraphe 93 (2) de cette loi (différend portant sur un pont ou une voie publique) au plus tard le 31 décembre 1997 et sur lesquelles il n’a pas été statué définitivement à la date d’entrée en vigueur du présent article.
+
 2. Les requêtes en approbation présentées aux termes du paragraphe 97 (2) de cette loi (fermeture d’une route) au plus tard le 31 décembre 1997 et sur lesquelles il n’a pas été statué définitivement à la date d’entrée en vigueur du présent article.
+
 3. Les réclamations déposées aux termes du paragraphe 97 (3) de cette loi (effet préjudiciable) au plus tard le 31 décembre 1997 et sur lesquelles il n’a pas été statué définitivement à la date d’entrée en vigueur du présent article.
 
 ### Règlements
@@ -9881,10 +11895,15 @@ b) d’autre part, le pouvoir, tel qu’il existait immédiatement avant la pror
 ### Règlements : questions transitoires
 
 432 (1) Le ministre des Affaires municipales et du Logement peut, par règlement, prévoir les questions transitoires qui, à son avis, sont nécessaires ou souhaitables pour faire ce qui suit :
+
 a) faciliter la mise en oeuvre de la présente loi ou de l’une quelconque de ses dispositions;
+
 b) prendre des mesures concernant des problèmes ou questions découlant de l’abrogation de la Loi de 1997 sur la cité de Toronto (no 1) et de la Loi de 1997 sur la cité de Toronto (no 2) et de l’édiction de la présente loi;
+
 c) prendre des mesures concernant des problèmes ou questions découlant de l’édiction de l’article 7.1 de la Loi de 2001 sur les municipalités par le paragraphe 9 (2) de l’annexe B de la Loi de 2006 créant un Toronto plus fort pour un Ontario plus fort ;
+
 d) prendre des mesures concernant des problèmes ou questions découlant de la modification ou de l’abrogation d’une disposition d’une autre loi par l’annexe B ou C de la Loi de 2006 créant un Toronto plus fort pour un Ontario plus fort;
+
 e) prendre des mesures concernant des problèmes ou questions découlant de l’abrogation d’une loi d’intérêt privé qui figure au tableau 1 de l’annexe B de la Loi de 2006 modifiant des lois concernant les municipalités.
 
 ### Incompatibilité
@@ -9896,15 +11915,25 @@ e) prendre des mesures concernant des problèmes ou questions découlant de l’
 ### Définitions
 
 432.0.1 Les définitions qui suivent s’appliquent à la présente partie.
+
 «cité» S’entend en outre d’un conseil local. («City»)
+
 «conseil local» S’entend au sens du paragraphe 3 (1), sauf que la présente définition s’entend en outre d’un conseil scolaire. («local board»)
+
 «municipalité» S’entend notamment :
+
 a) d’un conseil local d’une municipalité autre que la cité;
+
 b) d’un conseil, d’une commission ou d’un autre office local exerçant un pouvoir à l’égard des affaires ou des fins municipales, y compris les fins scolaires, dans un territoire non érigé en municipalité. («municipalité»)
+
 «service public» Outre un service public au sens du paragraphe 3 (1), s’entend de ce qui suit :
+
 a) tout système ou réseau servant à fournir :
+
 (i) soit un ouvrage de chauffage, d’éclairage et d’énergie électriques,
+
 (ii) soit un autre service ou une autre chose qui fournit au grand public des services essentiels ou utiles;
+
 b) le service ou la chose fourni. («public utility») 2021, chap. 4, annexe 6, par. 37 (7).
 
 ### Affaires municipales
@@ -9912,16 +11941,27 @@ b) le service ou la chose fourni. («public utility») 2021, chap. 4, annexe 6, 
 ### Compétence et pouvoirs
 
 432.0.2 (1) Le Tribunal ontarien de l’aménagement du territoire possède, en matière d’affaires municipales, la compétence et les pouvoirs suivants :
+
 a) approuver l’exercice de tout ou partie des pouvoirs conférés à la cité en vertu d’une loi qui peuvent impliquer ou nécessiter ou qui impliqueront ou nécessiteront l’emprunt de sommes d’argent par voie d’émission de débentures, la création d’une dette ou l’émission de débentures, laquelle approbation est demandée volontairement par la cité ou obtenue par elle en application de la loi;
+
 b) approuver un règlement municipal ou un projet de règlement municipal de la cité, laquelle approbation est demandée volontairement par la cité ou obtenue par elle en application de la loi;
+
 c) autoriser l’émission par la cité, sans l’assentiment des électeurs, de débentures en vue d’acquitter une dette flottante qu’elle a contractée, selon les modalités, aux conditions et aux dates qu’il approuve, ou ordonner qu’une telle dette flottante soit acquittée d’une autre façon et dans le délai qu’il exige;
+
 d) autoriser l’émission par la cité, sans l’assentiment des électeurs, de débentures en vue du rachat de débentures rachetables avant leur échéance, et réunir la somme requise pour le remboursement de ces nouvelles débentures de la même façon que la somme requise pour le remboursement des débentures rachetées;
+
 e) attester la validité de débentures émises en application d’un règlement municipal de la cité qu’il a approuvé;
+
 f) ordonner, avant qu’il n’approuve l’exercice d’un pouvoir ou l’adoption d’un règlement municipal par la cité ou avant qu’il n’autorise l’émission de débentures par la cité pour acquitter une dette flottante, que la cité obtienne au préalable l’assentiment de ses électeurs ou de ceux de ses électeurs qui ont le droit de vote en matière de règlements municipaux de finance, même si un tel assentiment n’est pas exigé par ailleurs;
+
 g) superviser, s’il l’estime nécessaire, la dépense de sommes empruntées par la cité avec son approbation;
+
 h) exiger et obtenir de la cité, à tout moment et pour toute période donnée, des états détaillés sur les affaires de celle-ci, en matière de finances ou autres;
+
 i) examiner à tout moment une affaire ou l’ensemble des affaires de la cité, en matière de finances et autres, et tenir les audiences et mener les enquêtes à l’égard de ces affaires qui lui semblent nécessaires dans l’intérêt de la cité, de ses contribuables, de ses habitants et de ses créanciers et notamment faire les examens, tenir les audiences et mener les enquêtes voulus afin d’éviter qu’une municipalité ne se conforme pas à ses obligations ou qu’elle ne récidive à ce sujet;
+
 j) s’il y est autorisé par une convention conclue par la cité et une ou plusieurs municipalités et stipulant que les parties à la convention acceptent d’être liées par sa décision, entendre et trancher les différends qui se rapportent à la convention;
+
 k) si un service d’eau ou d’égout est fourni ou doit être fourni par la cité à une autre municipalité, ou vice versa, entendre et trancher la demande de l’une ou de l’autre des municipalités de confirmer, de modifier ou de fixer les tarifs exigés ou qui seront exigés à l’égard de ce service.
 
 ### Idem
@@ -9935,8 +11975,11 @@ k) si un service d’eau ou d’égout est fourni ou doit être fourni par la ci
 ### Requête en approbation d’un règlement municipal qui autorise un emprunt
 
 432.0.4 (1) Quiconque peut présenter au Tribunal ontarien de l’aménagement du territoire une requête en approbation d’un règlement municipal de la cité autorisant une débenture, un emprunt ou une autre dette s’il s’agit de la personne, selon le cas :
+
 a) qui détient la débenture ou a le droit de la recevoir ou de recevoir le produit de sa vente;
+
 b) à qui la cité a emprunté les fonds;
+
 c) auprès de qui la cité a contracté la dette.
 
 ### Approbation du Tribunal
@@ -9978,17 +12021,25 @@ c) auprès de qui la cité a contracté la dette.
 ### Champ des examens du Tribunal
 
 432.0.10 (1) Le Tribunal ontarien de l’aménagement du territoire peut examiner les questions visées au paragraphe (2) avant d’approuver une requête de la cité portant sur l’une ou l’autre des mesures suivantes :
+
 1. L’approbation de l’exercice par la cité de l’un de ses pouvoirs.
+
 2. L’approbation de la création d’une dette.
+
 3. L’approbation de l’émission de débentures.
+
 4. L’approbation d’un règlement municipal.
 
 ### Idem
 
 (2) Pour l’application du paragraphe (1), les questions visées sont les suivantes :
+
 1. La nature du pouvoir que la cité désire exercer ou du projet qu’elle envisage d’entreprendre ou qu’elle a entrepris.
+
 2. La situation financière et les obligations financières de la cité.
+
 3. La charge fiscale imposée aux contribuables.
+
 4. Les autres questions que le Tribunal estime pertinentes.
 
 ### Dispense de l’assentiment des électeurs
@@ -10038,10 +12089,15 @@ c) auprès de qui la cité a contracté la dette.
 ### Approbation du Tribunal non requise
 
 (3) Le paragraphe (1) ne s’applique pas à ce qui suit :
+
 a) tout ce qui est accompli avec l’approbation du Tribunal ontarien de l’aménagement du territoire, si cette approbation est :
+
 (i) d’une part, prévue par une autre loi ou une autre disposition de la présente loi,
+
 (ii) d’autre part, obtenue au préalable;
+
 b) un règlement municipal d’un conseil local visé au paragraphe (2) qui contient une disposition précisant qu’il ne doit pas entrer en vigueur avant son approbation par le Tribunal;
+
 c) un règlement municipal ou une résolution d’un conseil local visé au paragraphe (2) qui contient une disposition précisant qu’il ne doit pas entrer en vigueur avant son approbation par la cité.
 
 ### Approbation du Tribunal
@@ -10051,6 +12107,7 @@ c) un règlement municipal ou une résolution d’un conseil local visé au para
 ### Définition
 
 (5) La définition qui suit s’applique au présent article.
+
 «travaux» S’entend en outre d’entreprises, de projets, de plans, d’actes, d’affaires ou de choses.
 
 ### Examen de la requête par le Tribunal
@@ -10066,7 +12123,9 @@ c) un règlement municipal ou une résolution d’un conseil local visé au para
 ### Compétence et pouvoirs
 
 432.0.15 (1) Le Tribunal ontarien de l’aménagement du territoire possède la compétence et le pouvoir de faire ce qui suit :
+
 a) instruire et trancher les requêtes relatives à un service public, à sa construction, à son entretien ou à son exploitation qui sont fondées sur la contravention par la cité ou par un particulier, une entreprise, une compagnie ou une personne morale aux exigences prévues par toute loi ou par un règlement pris, une règle établie, un règlement municipal adopté ou une ordonnance rendue en vertu de toute loi, ou prévues par une convention conclue en ce qui concerne un tel service public, sa construction, son entretien ou son exploitation, ou qui sont fondées sur le non-respect de ces exigences par la cité ou par le particulier ou l’entité en question;
+
 b) instruire et trancher les requêtes relatives aux tarifs exigés par la cité ou par un particulier, une entreprise, une compagnie ou une personne morale qui exploite un service public, si ces tarifs excèdent ceux approuvés ou prescrits par une autorité légitime, ou si ces tarifs sont de toute autre façon illégaux.
 
 ### Compétence à l’égard de séquestres, liquidateurs ou autres
@@ -10106,36 +12165,55 @@ b) instruire et trancher les requêtes relatives aux tarifs exigés par la cité
 ### Dispositions interprétatives
 
 433 Les définitions qui suivent s’appliquent aux articles 434 à 440.
+
 «anciennes municipalités» S’entend au sens de la Loi de 1997 sur la cité de Toronto (no 1), telle qu’elle existait immédiatement avant son abrogation par l’article 1 de l’annexe B de la Loi de 2006 créant un Toronto plus fort pour un Ontario plus fort. («old municipalities»)
+
 «communauté urbaine» La municipalité de la communauté urbaine de Toronto au sens de la loi sur la communauté urbaine. («Metro»)
+
 «conseil local» S’entend au sens de la Loi de 1997 sur la cité de Toronto (no 1), telle qu’elle existait immédiatement avant son abrogation par l’article 1 de l’annexe B de la Loi de 2006 créant un Toronto plus fort pour un Ontario plus fort. («local board»)
+
 «loi sur la communauté urbaine» La Loi sur la municipalité de la communauté urbaine de Toronto, qui constitue le chapitre M.62 des Lois refondues de l’Ontario de 1990, telle que cette loi existait immédiatement avant son abrogation. («Metro Act») 2006, chap. 11, annexe A, art. 433.
 
 ### Pensions et avantages sociaux
 
 434 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «avantages sociaux» S’entend notamment de ce qui suit :
+
 a) les prestations d’assurance, notamment d’assurance-vie, d’assurance-accidents, d’assurance-responsabilité, d’assurance-maladie ou d’assurance-hospitalisation;
+
 b) les prestations ou gratifications versées au titre de la responsabilité, des soins médicaux, des services de santé, de l’hospitalisation, des congés de maladie ou des jours fériés ou autres prestations ou gratifications semblables;
+
 c) les allocations, prestations de départ ou autres stimulants ayant trait à la retraite;
+
 d) les gratifications versées en cas de blessures ou de décès liés au travail. («benefits»)
+
 «employé» S’entend de ce qui suit :
+
 a) les employés et les employés à la retraite, au sens de la disposition 46 de l’article 207 de l’ancienne Loi sur les municipalités ;
+
 b) les anciens employés. («employee») 2006, chap. 11, annexe A, par. 434 (1).
 
 ### Maintien des droits
 
 (2) La présente loi, la Loi de 1997 sur la cité de Toronto (n o 1) et la Loi de 1997 sur la cité de Toronto (n o 2) n’ont pas pour effet de porter atteinte aux droits qu’ont les personnes suivantes, le 31 décembre 1997, à l’égard de pensions ou d’avantages sociaux :
+
 1. Les employés d’une ancienne municipalité ou de l’un de ses conseils locaux.
+
 2. Les membres ou anciens membres du conseil ou d’un conseil local d’une ancienne municipalité.
+
 3. Les personnes qui ont droit, en vertu de la disposition 50 de l’article 207 de l’ancienne Loi sur les municipalités, à des avantages sociaux d’une ancienne municipalité ou de l’un de ses conseils locaux.
+
 4. Les bénéficiaires des personnes visées aux dispositions 1, 2 et 3.
 
 ### Prorogation des régimes et caisses
 
 (3) Sous réserve de toute autre loi, sont prorogés les régimes et caisses de retraite et d’avantages sociaux qui répondent aux conditions suivantes :
+
 1. Ils existaient le 31 décembre 1997 et ont été prorogés par l’effet de l’article 3 de la Loi de 1997 sur la cité de Toronto (n o 2).
+
 2. Ils ont été mis sur pied en vertu d’une loi générale ou spéciale.
+
 3. Ils prévoient des pensions ou des avantages sociaux pour les personnes énumérées au paragraphe (2).
 
 ### Prorogation des entités administratives
@@ -10157,7 +12235,9 @@ b) les anciens employés. («employee») 2006, chap. 11, annexe A, par. 434 (1).
 ### Conseils locaux : cotisations au régime de retraite
 
 436 Lorsqu’un régime de retraite mis sur pied en vertu de l’alinéa 24 (3) b) de la loi sur la communauté urbaine, ou d’une disposition qu’il remplace, s’applique à un employé d’un conseil local de la cité, le conseil local :
+
 a) d’une part, retient sur la rémunération de l’employé, par montants échelonnés, les montants que celui-ci est tenu de cotiser au régime, et les verse au trésorier municipal;
+
 b) d’autre part, verse au trésorier municipal les montants que l’employeur est tenu de cotiser au régime à l’égard de l’employé.
 
 ### Personnalité morale d’un régime et d’une caisse
@@ -10167,13 +12247,17 @@ b) d’autre part, verse au trésorier municipal les montants que l’employeur 
 ### Prestations accumulées, ancien régime
 
 438 (1) Le paragraphe (2) s’applique si un employé de la cité ou de l’un de ses conseils locaux était, le 31 décembre 1997, participant à un régime de retraite mis sur pied par la communauté urbaine, par l’effet :
+
 a) soit d’un choix fait en vertu du paragraphe 24 (5) de la loi sur la communauté urbaine, tel qu’il existait le 31 décembre 1997, ou d’une disposition qu’il remplace;
+
 b) soit d’un accord conclu en vertu de l’alinéa 24 (3) c) de la loi sur la communauté urbaine, tel qu’il existait le 31 décembre 1997, ou d’une disposition qu’il remplace.
 
 ### Idem
 
 (2) Lorsque cessent les états de service de l’employé auprès de la cité ou du conseil local :
+
 a) l’employé ou ses bénéficiaires ont droit à toutes les prestations prévues par le régime de retraite de l’ancien employeur visé au paragraphe 24 (9) de la loi sur la communauté urbaine, tel qu’il existait le 31 décembre 1997, ou à une disposition qu’il remplace, et accumulées à la date à laquelle l’employé est devenu participant au régime mis sur pied par la communauté urbaine;
+
 b) aux fins de l’établissement de l’admissibilité à ces prestations accumulées, les états de service de l’employé auprès de la cité ou du conseil local (et, jusqu’au 31 décembre 1997, auprès de la communauté urbaine ou de son conseil local) sont réputés des états de service auprès de l’ancien employeur.
 
 ### Transfert à partir d’un autre régime
@@ -10191,7 +12275,9 @@ b) aux fins de l’établissement de l’admissibilité à ces prestations accum
 ### Idem
 
 (6) La somme d’argent peut être transférée plus tôt :
+
 a) au choix de la Commission de transport de Toronto ou de la Commission de services policiers de Toronto, selon le cas, si l’une ou l’autre de ces deux commissions ou l’entité qu’elle remplace est l’ancien employeur;
+
 b) au choix de la cité, dans les autres cas.
 
 ### Certains membres du corps de police
@@ -10237,7 +12323,9 @@ b) au choix de la cité, dans les autres cas.
 ### Personnes qui administrent certaines caisses de retraite
 
 443.1 (1) Le présent article s’applique à la personne membre d’un comité de retraite, au sens de la Loi sur les régimes de retraite, qui administre :
+
 a) soit la caisse appelée Toronto Fire Department Superannuation and Benefit Fund;
+
 b) soit la caisse appelée The Toronto Civic Employees Pension and Benefit Fund.
 
 ### Indemnisation
@@ -10247,6 +12335,7 @@ b) soit la caisse appelée The Toronto Civic Employees Pension and Benefit Fund.
 ### Membre suppléant
 
 (3) Pour l’application du présent article, le membre suppléant d’un comité de retraite en est également membre.
+
 444 Abrogé : 2006, chap. 32, annexe B, art. 93.
 
 ### Restrictions : approvisionnement en eau et évacuation des eaux d’égout
@@ -10268,7 +12357,9 @@ b) soit la caisse appelée The Toronto Civic Employees Pension and Benefit Fund.
 ### Foyers de soins de longue durée
 
 447 Tout foyer de soins de longue durée que la cité entretient aux termes de la partie IX de la Loi de 2021 sur le redressement des soins de longue durée peut être situé à l’intérieur ou à l’extérieur de la cité si, selon le cas :
+
 a) il a été ouvert par la cité et est maintenu aux termes de la partie IX de cette loi;
+
 b) il est ouvert par la cité aux termes de la partie IX de cette loi.
 
 ### Subventions, foyers de soins pour personnes âgées
@@ -10282,6 +12373,7 @@ b) il est ouvert par la cité aux termes de la partie IX de cette loi.
 ### Distribution
 
 (2) La cité peut, à son entière discrétion, distribuer les sommes d’argent versées au fonds et les intérêts accumulés à toute fin profitant en général aux pensionnaires des foyers de soins de longue durée de la cité, sauf aux fins du fonctionnement et de l’entretien courants de ces foyers.
+
 450 Abrogé : 2007, chap. 8, par. 198 (7).
 
 ### Accord avec l’office de protection de la nature
@@ -10291,15 +12383,21 @@ b) il est ouvert par la cité aux termes de la partie IX de cette loi.
 ### Pouvoirs de la cité
 
 (2) Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à faire ce qui suit :
+
 1. Exercer à l’égard des biens-fonds l’ensemble ou une partie des pouvoirs conférés par le paragraphe 57 (1) et par les dispositions 52 et 58 de l’article 207 de l’ancienne Loi sur les municipalités, telles que celles-ci existaient le 31 décembre 2002.
+
 2. Faire le tracé de routes sur ces biens-fonds, les construire et les entretenir.
+
 3. Prendre en charge l’entretien de l’ensemble ou d’une partie des routes déjà existantes.
+
 4. Réglementer la circulation sur les routes visées aux dispositions 2 et 3, sous réserve du Code de la route.
 
 ### Pouvoirs additionnels
 
 (3) La cité peut faire ce qui suit :
+
 a) prescrire des limites de vitesse applicables aux véhicules automobiles conduits sur les routes visées aux dispositions 2 et 3 du paragraphe (2), conformément à l’article 128 du Code de la route ;
+
 b) malgré toute autre loi, soustraire ces biens-fonds à l’imposition municipale tant qu’ils sont gérés et contrôlés par la cité et utilisés aux fins des parcs.
 
 ### Exemption d’impôt
@@ -10309,7 +12407,9 @@ b) malgré toute autre loi, soustraire ces biens-fonds à l’imposition municip
 ### Mesures d’urgence
 
 452 Sans préjudice de leur portée générale, les articles 7 et 8 autorisent la cité à faire ce qui suit aux fins d’intervention d’urgence :
+
 1. Acquérir des bureaux centraux complémentaires à l’extérieur de la cité pour l’administration de celle-ci.
+
 2. Désigner des voies d’évacuation et habiliter les membres du service de police de la cité à obliger quiconque à emprunter ces voies d’évacuation.
 
 ### Versement de dommages-intérêts à des employés
@@ -10333,10 +12433,15 @@ b) malgré toute autre loi, soustraire ces biens-fonds à l’imposition municip
 ### Définition
 
 453.1 (1) La définition qui suit s’applique au présent article.
+
 «programme de logement social» Programme ou ensemble domiciliaire qui remplit l’une ou l’autre des conditions suivantes :
+
 a) une coopérative de logement sans but lucratif au sens de la Loi sur les sociétés coopératives ou une association personnalisée au sens de la Loi nationale sur l’habitation (Canada) en est le propriétaire ou l’exploitant exclusif ou il est pris à bail et exploité par une telle coopérative ou association et, de l’avis de la cité, il est conçu pour offrir des logements principalement à des personnes à revenu faible ou modeste à un prix ne dépassant pas la plus élevée des sommes suivantes :
+
 (i) la somme nécessaire pour financer, exploiter et entretenir de tels logements sans gain,
+
 (ii) la somme qu’il faut demander pour de tels logements aux termes d’une convention relative à leur financement à laquelle l’une des parties est le gouvernement provincial ou fédéral ou un mandataire de l’un ou l’autre;
+
 b) il offre des logements qui appartiennent à la société appelée Toronto Housing Company Inc. ou à celle appelée Toronto Community Housing Corporation et qui sont exploités par elle ou par un tiers pour son compte.
 
 ### Densités
@@ -10358,8 +12463,11 @@ b) il offre des logements qui appartiennent à la société appelée Toronto Hou
 ### Autorisation exigée
 
 (6) En cas d’enregistrement d’une convention en vertu du paragraphe (4), nul ne doit, sans l’autorisation écrite de la cité, faire ce qui suit pendant la durée de la convention à l’égard d’un logement qui fait partie d’un programme de logement social :
+
 a) céder le logement par acte de cession ou accorder, céder ou exercer un pouvoir de désignation à son égard;
+
 b) grever le logement d’une hypothèque ou d’une charge ou conclure une convention de vente à son égard;
+
 c) conclure une convention visant à autoriser l’utilisation du logement ou à conférer un droit sur celui-ci directement ou en vertu d’un droit de renouvellement pour une durée de 21 ans ou plus.
 
 ### Absence de d’autorisation
@@ -10369,8 +12477,11 @@ c) conclure une convention visant à autoriser l’utilisation du logement ou à
 ### Restriction
 
 (8) Si l’avis d’une convention a été enregistré en vertu du paragraphe (4) à l’égard d’un bien-fonds auquel s’applique la Loi sur l’enregistrement des droits immobiliers, la cité demande au registrateur au sens de cette loi de faire au registre une inscription interdisant ce qui suit sauf autorisation de la cité :
+
 a) toute cession ou toute constitution d’une charge;
+
 b) tout enregistrement d’un avis de convention de vente;
+
 c) tout enregistrement d’un bail ou d’un avis de bail visant à autoriser l’utilisation du bien-fonds ou à conférer un droit sur celui-ci directement ou en vertu d’un droit de renouvellement pour une durée de 21 ans ou plus.
 
 ### Certificat du secrétaire
@@ -10512,7 +12623,9 @@ c) tout enregistrement d’un bail ou d’un avis de bail visant à autoriser l�
 ### Pouvoir d’adoption d’autres codes
 
 458 (1) Les règlements qu’adopte la cité ou un conseil local de la cité en vertu de la présente loi ou d’une autre loi peuvent :
+
 a) adopter par renvoi, avec les modifications que le conseil municipal estime appropriées, tout ou partie d’un code, d’une norme, d’un procédé ou d’un règlement, tel qu’il existe à une date déterminée, tel qu’il existe au moment de son adoption ou dans ses versions successives;
+
 b) exiger l’observation de tout code, norme, procédé ou règlement ainsi adopté.
 
 ### Examen
@@ -10526,5 +12639,7 @@ b) exiger l’observation de tout code, norme, procédé ou règlement ainsi ado
 ### Portée des règlements
 
 459 Les règlements pris en application de la présente loi peuvent avoir une portée générale ou particulière et faire des distinctions de toute manière et sous tout rapport que son auteur estime appropriés.
+
 460 O mis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 461 Omis (édicte le titre abrégé de la présente loi).

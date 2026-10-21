@@ -6,32 +6,38 @@ language: en
 type: act
 document_date: "2019-08-30"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19f07a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Federal Carbon Tax Transparency Act, 2019
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19f07a) before relying on it.
 
 S.O. 2019, c. 7, Sched. 23
 
 ### Definitions
 
 1 In this Act,
+
 “gasoline” means any gas or liquid that is subject to tax under subsection 2 (1) of the Gasoline Tax Act, but is not subject to tax under subsection 2 (2), (3) or (4) of that Act; (“essence”)
+
 “Minister” means the Minister of Energy, Northern Development and Mines or such other member of the Executive Council to whom responsibility for the administration of this Act may be assigned or transferred under the Executive Council Act. (“ministre”)
 
 ### Notice on gasoline pumps
 
 2 (1) The person who is licensed under the Technical Standards and Safety Act, 2000 to operate a retail outlet at which gasoline is sold at a gasoline pump and put into the fuel tanks of motor vehicles shall,
+
 (a) obtain from the Minister copies of the prescribed notice with respect to the price of gasoline sold in Ontario; and
+
 (b) ensure the notice referred to in clause (a) is affixed to each gasoline pump at the retail outlet in such manner as may be prescribed.
 
 ### Exception, reserves
 
 (2) Subsection (1) does not apply with respect to a retail outlet located,
+
 (a) on a reserve, as defined in the Indian Act (Canada); or
+
 (b) in an Indian Settlement located on Crown land, the Indian inhabitants of which are treated by Indigenous Services Canada in the same manner as Indians residing on a reserve.
 
 ### Inspections
@@ -47,11 +53,17 @@ S.O. 2019, c. 7, Sched. 23
 ### Contravention of notice requirements
 
 4 (1) Every person who contravenes subsection 2 (1) is guilty of an offence and on conviction is liable,
+
 (a) in the case of an individual,
+
 (i) for a first offence, to a fine of not more than $500 for every day or part of a day on which the offence occurs or continues, and
+
 (ii) for a second or subsequent offence, to a fine of not more than $1,000 for every day or part of a day on which the offence occurs or continues; and
+
 (b) in the case of a corporation,
+
 (i) for a first offence, to a fine of not more than $5,000 for every day or part of a day on which the offence occurs or continues, and
+
 (ii) for a second or subsequent offence, to a fine of not more than $10,000 for every day or part of a day on which the offence occurs or continues.
 
 ### Obstruct inspection
@@ -73,13 +85,19 @@ S.O. 2019, c. 7, Sched. 23
 ### Regulations
 
 5 (1) The Lieutenant Governor in Council may make regulations for the purpose of carrying out the provisions of this Act, including,
+
 (a) prescribing anything that may be prescribed under this Act;
+
 (b) providing for time limits within which the requirements under clauses 2 (1) (a) and (b) must be complied with.
 
 ### Contents of the prescribed notice
 
 (2) The notice prescribed under subsection (1) for the purpose of clause 2 (1) (a),
+
 (a) shall set out information with respect to the effect of the charge referred to in subsection 17 (1) of the Greenhouse Gas Pollution Pricing Act (Canada) on the price of gasoline sold in Ontario, which may include information as estimated or otherwise determined by the Minister; and
+
 (b) may set out other information with respect to the price of gasoline sold in Ontario, which may include information as estimated or otherwise determined by the Minister.
+
 6 Omitted (provides for coming into force of provisions of this Act).
+
 7 Omitted (enacts short title of this Act).

@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-12-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21h27"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Health and Supportive Care Providers Oversight Authority Act, 2021
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21h27) before relying on it.
 
 S.O. 2021, c. 27, Sched. 2
 
@@ -21,30 +21,47 @@ S.O. 2021, c. 27, Sched. 2
 ### Interpretation
 
 1 (1) In this Act,
+
 “Authority” means the corporation without share capital incorporated under section 2; (“Office”)
+
 “board” means the board of directors of the Authority; (“conseil”)
+
 “Chief Executive Officer” means the Chief Executive Officer of the Authority appointed under subsection10 (1); (“directeur général”)
+
 “memorandum of understanding” means the memorandum of understanding described in subsection 14 (1); (“protocole d’entente”)
+
 “Minister” means the Minister of Health or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “personal health information” has the same meaning as in section 4 of the Personal Health Information Protection Act, 2004; (“renseignements personnels sur la santé”)
+
 “personal information” means personal information within the meaning of the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “registrant” means a person or individual that is registered with the Authority under this Act; (“titulaire d’une inscription”)
+
 “regulations” means the regulations made under this Act. (“règlements”)
 
 ### Sexual abuse
 
 (2) In this Act,
+
 “sexual abuse” of a person who receives health services or supportive care services from a registrant means,
+
 (a) sexual intercourse or other forms of physical sexual relations between the registrant and the person,
+
 (b) touching, of a sexual nature, of the person by the registrant, or
+
 (c) behaviour or remarks of a sexual nature by the registrant towards the person.
 
 ### Same, exceptions
 
 (3) For the purposes of subsection (2),
+
 “sexual nature” does not include,
+
 (a) touching, behaviour or remarks that are appropriate to the service provided by the registrant, or
+
 (b) any other prescribed conduct, behaviour or remarks.
 
 ## Part II The Authority
@@ -86,16 +103,23 @@ S.O. 2021, c. 27, Sched. 2
 ### Eligibility
 
 (6) A person is eligible to be elected or appointed as a director of the Authority if they,
+
 (a) are not a registrant;
+
 (b) meet any prescribed qualifications; and
+
 (c) in the case of elected board members described in subsection (5), meet any qualifications that are set out in the Authority’s by-laws.
 
 ### Rules respecting who may serve as director of Authority
 
 (7) The regulations may establish rules regarding who can serve as a director of the Authority, including,
+
 (a) requiring that no more than a fixed percentage of directors shall be drawn from among specified persons or classes of persons;
+
 (b) specifying the qualifications for being a director of the Authority;
+
 (c) specifying the length of a director’s term; and
+
 (d) specifying the number of terms that a director can serve.
 
 ### Remuneration and expenses
@@ -133,8 +157,11 @@ S.O. 2021, c. 27, Sched. 2
 ### By-laws
 
 6 (1) The board may make by-laws for the management of the Authority and for the conduct and administration of the Authority’s operations, including with respect to,
+
 (a) delegating any powers and duties of the board or of the Chief Executive Officer under this Act to any person, subject to any conditions the board may specify;
+
 (b) establishing and governing the expiry of registrations issued under this Act; and
+
 (c) requiring information to be included in the register required by section 32.
 
 ### Elected directors
@@ -186,8 +213,11 @@ S.O. 2021, c. 27, Sched. 2
 ### Composition
 
 (2) In addition to any other requirements provided for in the regulations, every advisory committee for a class of registrants shall include,
+
 (a) one or more individuals who represent the interests of persons who receive health services or supportive care services from that class of registrants or the caregivers of such individuals;
+
 (b) one or more individuals who are registrants in that class of registration; and
+
 (c) one or more individuals who are educators of registrants in that class of registration.
 
 ### Objects, Powers and Duties
@@ -195,17 +225,29 @@ S.O. 2021, c. 27, Sched. 2
 ### Objects
 
 12 The objects of the Authority are,
+
 (a) to administer this Act and the regulations, including overseeing their enforcement;
+
 (b) to establish and maintain educational and skills-based qualifications for each class of registrants;
+
 (c) to establish and maintain one or more visual marks or identifiers for use by registrants that can identify registrants to members of the public;
+
 (d) to promote the provision of safe, competent, ethical and high-quality health services and supportive care services by registrants to members of the public;
+
 (e) to establish and maintain codes of ethics applicable to each class of registrants in relation to the health services or supportive care services they provide to members of the public;
+
 (f) to educate registrants, employers and members of the public about matters relating to this Act and the regulations;
+
 (g) to advise the Minister, at the Minister’s request, on matters specified by the Minister, which may include,
+
 (i) whether additional classes of registration should be prescribed,
+
 (ii) whether existing classes of registration should no longer be prescribed,
+
 (iii) suggestions for amendments to the Act or the regulations to support the operations of the Authority, and
+
 (iv) any other policy matter concerning the Authority’s objects that the Minister considers advisable; and
+
 (h) to carry out any other duties or powers assigned to the Authority under this Act.
 
 ### Capacity, rights, powers and privileges
@@ -215,8 +257,11 @@ S.O. 2021, c. 27, Sched. 2
 ### Memorandum of understanding
 
 14 (1) The Minister and the Authority shall enter into a memorandum of understanding, which must, at a minimum,
+
 (a) set out requirements relating to the governance of the Authority;
+
 (b) set out requirements with which the Authority shall comply in connection with its administration of this Act and the regulations, including a requirement that the Authority maintain adequate insurance against liability arising out of its administration of this Act and the regulations; and
+
 (c) set out requirements with which the Authority shall comply in connection with carrying out its other objects.
 
 ### Conflict
@@ -284,7 +329,9 @@ S.O. 2021, c. 27, Sched. 2
 ### Ministerial reviews
 
 18 (1) The Minister may require that reviews of the Authority, of its operations or of both, including, without limitation, performance, governance, accountability and financial reviews, be carried out,
+
 (a) by or on behalf of the Authority; or
+
 (b) by a person or entity specified by the Minister.
 
 ### Access to records
@@ -302,7 +349,9 @@ S.O. 2021, c. 27, Sched. 2
 ### Duty to advise the Minister
 
 19 (1) The Authority shall promptly inform and advise the Minister with respect to,
+
 (a) any information that could affect the Authority’s ability to exercise its powers or perform its duties under this Act; and
+
 (b) any urgent or critical matter that is likely to require action by the Minister.
 
 ### Same
@@ -324,7 +373,9 @@ S.O. 2021, c. 27, Sched. 2
 ### Disclosure of compensation and other payments
 
 22 (1) The Authority shall, in accordance with the regulations, make available to the public any information specified by the Minister relating to,
+
 (a) the compensation that the Authority pays to members of its board of directors, its officers and its employees; and
+
 (b) any other payments that the Authority makes or is required to make to the persons mentioned in clause (a).
 
 ### Website, etc.
@@ -334,14 +385,19 @@ S.O. 2021, c. 27, Sched. 2
 ### Definition
 
 (3) In this section,
+
 “compensation” means anything paid or provided, directly or indirectly, to or for the benefit of a person who performs duties and functions that entitle the person to be paid, and includes salary, benefits, perquisites and all forms of non-discretionary and discretionary payments.
 
 ### Public interest considerations
 
 23 In exercising a power under subsection 14 (3), 15 (1) or 17 (1), the Minister may consider any matter the Minister regards as relevant to the public interest including, without limiting the generality of the foregoing, whether,
+
 (a) the exercise of the power is necessary to prevent serious harm to public safety or to the interests of individuals who receive health services or supportive care services from registrants;
+
 (b) an event of force majeure has occurred;
+
 (c) the Authority is facing a risk of insolvency; or
+
 (d) the board’s composition is no longer in compliance with the requirements set out in this Act, or the number of directors of the Authority is insufficient for a quorum.
 
 ### Miscellaneous
@@ -369,7 +425,9 @@ S.O. 2021, c. 27, Sched. 2
 ### Classes
 
 (2) The classes of registration to which an applicant may apply are,
+
 (a) the personal support worker class; and
+
 (b) any other prescribed class.
 
 ### Form and manner
@@ -383,13 +441,17 @@ S.O. 2021, c. 27, Sched. 2
 ### Request for information
 
 (2) The Chief Executive Officer may request that an applicant for registration or renewal of registration provide to the Chief Executive Officer, in the form and manner and within the time period specified by the Chief Executive Officer,
+
 (a) information specified by the Chief Executive Officer that is relevant to the decision to be made by the Chief Executive Officer as to whether or not to grant the registration or renewal; and
+
 (b) verification, by affidavit or otherwise, of any information described in clause (a) that the applicant is providing or has provided to the Chief Executive Officer.
 
 ### Approval and conditions
 
 (3) Subject to subsection (4), the Chief Executive Officer may,
+
 (a) approve the registration or renewal of a registration on such conditions as the Chief Executive Officer considers appropriate; and
+
 (b) at any time impose on a registration such conditions as the Chief Executive Officer considers appropriate.
 
 ### Notice required if no consent to conditions
@@ -399,7 +461,9 @@ S.O. 2021, c. 27, Sched. 2
 ### Refusal to register, etc.
 
 28 (1) If an applicant or a registrant meets the prescribed prohibited grounds for registration, the Chief Executive Officer shall, as applicable,
+
 (a) refuse to register or renew the registration of the applicant; or
+
 (b) revoke the registrant’s registration.
 
 ### Failure to meet prescribed criteria
@@ -409,14 +473,19 @@ S.O. 2021, c. 27, Sched. 2
 ### Notice
 
 (3) The Chief Executive Officer shall notify an applicant or registrant in writing if they propose to,
+
 (a) refuse to grant or renew a registration in accordance with subsection (1) or (2);
+
 (b) revoke the registrant’s registration in accordance with subsection (1); or
+
 (c) impose conditions to a registration or renewal to which the applicant has not consented.
 
 ### Content of notice
 
 (4) The notice described in subsection (3) shall,
+
 (a) set out the reasons for the proposed action; and
+
 (b) state that the applicant is entitled to a review in writing of the application and the documentary evidence supporting it by the Health Professions Appeal and Review Board if the applicant mails or delivers, within 15 days after service of the notice, a written request to the Chief Executive Officer and to the Health Professions Appeal and Review Board.
 
 ### Where no request for review
@@ -430,7 +499,9 @@ S.O. 2021, c. 27, Sched. 2
 ### Continuation pending renewal
 
 (7) If, within the time prescribed or, if no time is prescribed, before the expiry of the applicant’s registration, the applicant has applied for renewal of a registration and paid the required fee, if any, the registration shall be deemed to continue,
+
 (a) until the renewal is granted; or
+
 (b) if the applicant is served notice that the Chief Executive Officer proposes to refuse to grant the renewal, until the time for requesting a review has expired or, if a review is requested, until the Health Professions Appeal and Review Board makes its order.
 
 ### Voluntary cancellation
@@ -448,7 +519,9 @@ S.O. 2021, c. 27, Sched. 2
 ### Powers
 
 (3) After conducting a written review, the Health Professions Appeal and Review Board may by order,
+
 (a) direct the Chief Executive Officer to carry out the Chief Executive Officer’s proposal; or
+
 (b) substitute its opinion for that of the Chief Executive Officer, which may include granting, refusing to grant or applying conditions to the registration.
 
 ### CEO shall comply
@@ -478,8 +551,11 @@ S.O. 2021, c. 27, Sched. 2
 ### Register
 
 32 (1) The Chief Executive Officer shall, in accordance with the regulations, establish and maintain a register of registrants and shall make available to the public,
+
 (a) the names of registrants;
+
 (b) any other information that may be prescribed in respect of registrants; and
+
 (c) any other information that may be required by the Authority’s by-laws.
 
 ### Form and manner
@@ -499,10 +575,15 @@ S.O. 2021, c. 27, Sched. 2
 ### Contents of report
 
 (3) Subject to subsection (4), the report must contain,
+
 (a) the name of the registrant filing the report;
+
 (b) the nature of, and a description of the offence;
+
 (c) the date the registrant was found guilty of the offence;
+
 (d) the name and location of the court that found the registrant guilty of the offence; and
+
 (e) the status of any appeal initiated respecting the finding of guilt.
 
 ### Publication ban
@@ -524,18 +605,27 @@ S.O. 2021, c. 27, Sched. 2
 ### Timing of report
 
 (2) The report must be filed as soon as reasonably practicable after,
+
 (a) the registrant receives notice that they were charged with the offence; or
+
 (b) the bail conditions or other restrictions were imposed on or agreed to by the registrant.
 
 ### Contents of report
 
 (3) Subject to subsection (4), the report must contain,
+
 (a) the name of the registrant filing the report;
+
 (b) the nature of, and a description of, the charge;
+
 (c) the date the charge was laid against the registrant;
+
 (d) the name and location of the court in which the charge was laid or in which the bail condition or restriction was imposed on or agreed to by the registrant;
+
 (e) every bail condition imposed on the registrant as a result of the charge;
+
 (f) any other restriction imposed on or agreed to by the registrant relating to the charge; and
+
 (g) the status of any proceedings with respect to the charge.
 
 ### Publication ban
@@ -569,9 +659,13 @@ S.O. 2021, c. 27, Sched. 2
 ### Contents of report
 
 (5) The report required under subsection (1) or (2) must contain the following information, to the extent that it is known by the registrant:
+
 1. The name of the registrant filing the report.
+
 2. The name of the registrant or member who is the subject of the report.
+
 3. An explanation of the alleged sexual abuse.
+
 4. Subject to subsection (6), the name of the person who was alleged to have been sexually abused.
 
 ### Consent required
@@ -601,16 +695,23 @@ S.O. 2021, c. 27, Sched. 2
 ### Use, collection, disclosure and publication
 
 (6) The following applies to information collected under subsection (1):
+
 1. The information may only be used for the purposes set out under subsection (1).
+
 2. The Minister shall not collect personal information if other information will serve the purposes set out under subsection (1).
+
 3. The Minister shall not collect more personal information than is necessary for the purposes set out under subsection (1).
+
 4. The Minister may disclose the information only for the purposes set out in subsection (1).
+
 5. Reports and other documents using information collected under this section may be published for the purposes set out under subsection (1), and for those purposes only, but personal information about a registrant shall not be included in those reports or documents.
 
 ### Notice required by s. 39 (2) of FIPPA
 
 (7) If the Minister requires the Authority to collect personal information from its registrants under subsection (1), the notice required by subsection 39 (2) of the Freedom of Information and Protection of Privacy Act is given by,
+
 (a) a public notice posted on a website of the Government of Ontario; or
+
 (b) any other public method that may be prescribed.
 
 ### Same
@@ -620,8 +721,11 @@ S.O. 2021, c. 27, Sched. 2
 ### Definitions
 
 (9) In this section,
+
 “human resources planning” means ensuring the sufficiency and appropriate distribution of registrants in Ontario; (“planification des ressources humaines”)
+
 “information” includes personal information about registrants, but does not include personal health information; (“renseignements”)
+
 “research” means the study of data and information in respect of human resources planning. (“recherche”)
 
 ### Prohibitions on Non-Registrants
@@ -655,7 +759,9 @@ S.O. 2021, c. 27, Sched. 2
 ### Appointment of investigators
 
 39 (1) The Chief Executive Officer may appoint persons to be investigators for the purposes of conducting investigations,
+
 (a) into complaints received by the Chief Executive Officer; or
+
 (b) where the Chief Executive Officer has reason to believe that a registrant may have acted in a manner that breaches the Act, the regulations or the prescribed code of ethics that applies to them.
 
 ### Certificate of appointment
@@ -681,13 +787,17 @@ S.O. 2021, c. 27, Sched. 2
 ### Entry to dwellings
 
 40 In conducting an investigation, an investigator shall not enter any dwelling except,
+
 (a) with the consent of the occupier; or
+
 (b) under the authority of a warrant issued under section 41.
 
 ### Entries and searches
 
 41 (1) A justice of the peace may, on the application of an investigator made without notice, issue a warrant authorizing an investigator to enter and search a place and examine any document or thing specified in the warrant if the justice of the peace is satisfied that the investigator has been properly appointed and that there are reasonable and probable grounds for believing that,
+
 (a) the registrant being investigated has contravened the prescribed code of ethics that applies to them; and
+
 (b) there is something relevant to the investigation at the place.
 
 ### Hours of execution
@@ -701,10 +811,15 @@ S.O. 2021, c. 27, Sched. 2
 ### Powers under the warrant
 
 (4) Subject to any conditions contained in the warrant, a warrant issued under subsection (1) authorizes an investigator to,
+
 (a) enter or access the building, dwelling, receptacle or place specified in the warrant and to seize, examine and remove anything described in the warrant;
+
 (b) make reasonable inquiries of any person, orally or in writing, with respect to anything relevant to the investigation;
+
 (c) require a person to produce the information or evidence described in the warrant and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the information or evidence described in the warrant;
+
 (d) use any data storage, processing or retrieval device or system used to engage in the activities of a registrant in order to produce information or evidence described in the warrant, in any form; and
+
 (e) use any investigative technique or procedure or do anything described in the warrant.
 
 ### Assistance and entry by force
@@ -722,13 +837,17 @@ S.O. 2021, c. 27, Sched. 2
 ### Removal for documents and objects
 
 (2) An investigator may remove a document or object described in subsection (1) if,
+
 (a) it is not practicable to copy it in the place where it is examined; or
+
 (b) a copy of it is not sufficient for the purposes of the investigation.
 
 ### Return of documents and objects or copies
 
 (3) If it is practicable to copy a document or object removed under subsection (2), the investigator shall,
+
 (a) if it was removed under clause (2) (a), return the document or object within a reasonable time; or
+
 (b) if it was removed under clause (2) (b), provide the person who was in possession of the document or object with a copy of it within a reasonable time.
 
 ### Copy as evidence
@@ -738,19 +857,25 @@ S.O. 2021, c. 27, Sched. 2
 ### Definition
 
 (5) In this section,
+
 “document” means a record of information in any form and includes any part of it.
 
 ### Obstruction, etc. prohibited
 
 43 (1) No person shall,
+
 (a) hinder, obstruct or interfere with an investigator in the performance of their duties;
+
 (b) withhold or conceal from an investigator or destroy anything that is relevant to the investigation; or
+
 (c) knowingly furnish false information to an investigator in the performance of their duties.
 
 ### Co-operation
 
 (2) A registrant shall co-operate fully with,
+
 (a) any investigator appointed under this Act; and
+
 (b) any request for information by the Chief Executive Officer under subsection 38 (1).
 
 ### Resolution of Complaints or Investigations and Appeals
@@ -758,11 +883,17 @@ S.O. 2021, c. 27, Sched. 2
 ### Chief Executive Officer actions
 
 44 At any time following the receipt of a complaint or following the appointment of an investigator, the Chief Executive Officer may do any of the following, as appropriate, subject to any additional procedures provided for in the regulations:
+
 1. Attempt to mediate or resolve the complaint.
+
 2. Give the registrant a written warning that action may be taken against them if they continue to engage in specified activity.
+
 3. Require the registrant to take further educational courses or training.
+
 4. Impose conditions on the registration under clause 27 (3) (b), subject to the requirements in section 28.
+
 5. Refer any contraventions of the prescribed code of ethics that applies to the registrant, in whole or in part, to the discipline committee of the Authority.
+
 6. Take any further prescribed actions that the Chief Executive Officer considers appropriate.
 
 ### Urgent interim action
@@ -776,10 +907,15 @@ S.O. 2021, c. 27, Sched. 2
 ### Duration
 
 (3) An interim action taken under subsection (1) continues in force until,
+
 (a) it is varied or revoked by the Chief Executive Officer;
+
 (b) the Chief Executive Officer chooses to take an action under paragraphs 1, 2, 3, 4 or 6 of section 44 with respect to the matter;
+
 (c) if the Chief Executive Officer refers the matter to the discipline committee under paragraph 5 of section 44,
+
 (i) the matter is disposed of by the discipline committee and any applicable deadline for appealing the decision to the appeals committee expires, or
+
 (ii) the appeals committee finally disposes of the matter.
 
 ### Procedure following interim action
@@ -803,9 +939,13 @@ S.O. 2021, c. 27, Sched. 2
 ### Result of a determination
 
 (4) If the discipline committee makes a determination under subsection (1) that a registrant has failed to comply with the prescribed code of ethics that applies to them, it may make an order as appropriate,
+
 (a) directing the Chief Executive Officer to revoke the registrant’s registration;
+
 (b) directing the Chief Executive Officer to suspend a registrant’s registration for a specified period of time;
+
 (c) directing the Chief Executive Officer to impose specified conditions on a registrant’s registration for a specified or indefinite period of time; or
+
 (d) taking such other action as may be prescribed.
 
 ### CEO shall comply
@@ -881,7 +1021,9 @@ S.O. 2021, c. 27, Sched. 2
 ### Collection
 
 (4) The Authority may,
+
 (a) set the time and manner of payment of the fees, costs and charges charged by it under subsection (1); and
+
 (b) require the payment of interest and other penalties, including payment of collection costs, when fees, costs and charges charged under subsection (1) are unpaid or paid after the due date.
 
 ### Publication
@@ -895,16 +1037,27 @@ S.O. 2021, c. 27, Sched. 2
 ### Confidentiality
 
 51 (1) A person who obtains information in the course of exercising a power or carrying out a duty related to the administration of this Act, the regulations or the memorandum of understanding shall preserve secrecy with respect to the information and shall not communicate the information to any person except,
+
 (a) as may be required in connection with a proceeding under this Act or in connection with the administration of this Act or the regulations;
+
 (b) for the purposes of the administration of another prescribed Act of Ontario or Canada;
+
 (c) to a College that governs a health profession within the meaning of the Regulated Health Professions Act, 1991 or to a similar body that governs a health profession outside of Ontario;
+
 (d) to another person or entity outside of Ontario that regulates the activities of individuals who perform health services or supportive care services that are substantially similar to those performed by registrants;
+
 (e) to a police officer to aid an investigation that may result in a law enforcement proceeding, subject to any restrictions set out in the regulations;
+
 (f) to the counsel of the person who is required to keep the information confidential under this section;
+
 (g) for the purpose of confirming whether the Authority has received a complaint or is investigating a registrant, if there is a compelling public interest in the disclosure of that information;
+
 (h) if the disclosure is required by an Act of Ontario or Canada;
+
 (i) if there are reasonable grounds to believe that the disclosure is necessary for the purpose of eliminating or reducing a significant risk of serious bodily harm to a person or group of persons;
+
 (j) with the consent of the person to whom the information relates; or
+
 (k) to a prescribed entity or organization.
 
 ### Testimony
@@ -918,19 +1071,29 @@ S.O. 2021, c. 27, Sched. 2
 ### Service
 
 53 (1) Any notice, order or request made under this Act is sufficiently given or served if it is,
+
 (a) delivered personally;
+
 (b) sent by courier;
+
 (c) sent by registered mail;
+
 (d) sent by e-mail; or
+
 (e) sent by fax.
 
 ### Deemed service
 
 (2) Subject to subsection (3), the notice, order or request shall be deemed to have been served,
+
 (a) on the day it was delivered personally;
+
 (b) on the fifth day after it was couriered;
+
 (c) on the fifth day after it was mailed;
+
 (d) on the day after it was sent by email; or
+
 (e) on the day after it was sent by fax.
 
 ### Holidays
@@ -958,9 +1121,13 @@ S.O. 2021, c. 27, Sched. 2
 ### Offences
 
 55 A person is guilty of an offence if the person,
+
 (a) furnishes false information in any application of registration or renewal of registration under this Act;
+
 (b) contravenes subsection 35 (1) or (2) (Sexual abuse reporting);
+
 (c) contravenes section 37 (Holding out prohibitions for non-registrants); or
+
 (d) contravenes section 43 (Obstruction, etc. prohibited).
 
 ### Penalty
@@ -980,9 +1147,13 @@ S.O. 2021, c. 27, Sched. 2
 ### Protection of personal health information
 
 57 Where documents or materials are filed with a court in relation to an investigation into an offence under this Act or in a prosecution for an offence under this Act, including under sections 158 to 160 of the Provincial Offences Act, the court may, at any time, take precautions to avoid the disclosure by the court or any person of any personal health information about an individual, including, where appropriate,
+
 (a) removing the identifying information of any person whose personal health information is referred to in any documents or materials;
+
 (b) receiving representations without notice;
+
 (c) conducting hearings or parts of hearings in private; or
+
 (d) sealing all or part of the court files.
 
 ## Part VIII Liability of the Authority and the Crown
@@ -990,12 +1161,19 @@ S.O. 2021, c. 27, Sched. 2
 ### No personal liability, Authority officials
 
 58 (1) No cause of action arises against any of the following persons as a result of any act done in good faith in the exercise or performance or intended exercise or performance of their duties or powers under this Act or any alleged neglect or default in the performance in good faith of such duties or powers:
+
 1. The Chief Executive Officer.
+
 2. An investigator appointed under this Act.
+
 3. A director or an officer of the Authority.
+
 4. Any other person whom the Authority employs or whose services the Authority retains in accordance with this Act.
+
 5. An agent of the Authority.
+
 6. A member of the discipline committee, the appeals committee or of any other committee provided for in the regulations.
+
 7. A supervisor appointed under this Act.
 
 ### No personal liability during supervisor’s tenure, directors
@@ -1013,7 +1191,9 @@ S.O. 2021, c. 27, Sched. 2
 ### No personal liability, Crown officials
 
 59 (1) No cause of action arises against any of the following persons as a result of any act done in good faith in the exercise or performance or intended exercise or performance of their duties or powers under this Act or any alleged neglect or default in the performance in good faith of such duties or powers:
+
 1. A member of the Executive Council, including the Minister.
+
 2. An employee, officer or agent of the Crown.
 
 ### Crown liability for Crown officials
@@ -1035,9 +1215,13 @@ S.O. 2021, c. 27, Sched. 2
 ### Proceedings barred
 
 61 (1) No proceeding, including but not limited to any proceeding in contract, restitution, tort or trust, shall be commenced against,
+
 (a) any person mentioned in subsection 58 (1) in respect of a matter referred to in that subsection;
+
 (b) any director of the Authority mentioned in subsection 58 (2) in respect of a matter referred to in that subsection;
+
 (c) any person mentioned in subsection 59 (1) in respect of a matter referred to in that subsection; or
+
 (d) any person, including the Crown, mentioned in subsection 60 (1) in respect of a matter referred to in that subsection.
 
 ### Application
@@ -1057,38 +1241,65 @@ S.O. 2021, c. 27, Sched. 2
 ### Regulations
 
 63 The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing anything that, under this Act, may or must be prescribed, provided for or otherwise done by regulation;
+
 (b) exempting any person or class of person from any part of this Act and attaching conditions to the exemption;
+
 (c) prescribing classes of registrants in addition to the personal support worker class;
+
 (d) governing the rules that apply to different classes of registrants;
+
 (e) prescribing the code of ethics for the classes of registrants, which may include establishing different codes of ethics for different classes of registrants;
+
 (f) requiring the establishment of any committee of the Authority that is not already established in this Act;
+
 (g) governing the composition, operations, procedures and functions of any committee of the Authority;
+
 (h) respecting applications for registration or renewal of registration, which may include,
+
 (i) prescribing requirements for registration and renewal of registration,
+
 (ii) requiring applicants or registrants to meet specified educational or skills-based requirements, which may include completing a program of studies or taking one or more designated courses,
+
 (iii) designating organizations that are authorized to provide the programs and courses referred to in subclause (ii), and
+
 (iv) prescribing exemptions from these requirements and attaching conditions to the exemption;
+
 (i) respecting the issuance of visual marks and other identifiers established and maintained by the Authority and authorizing their use by registrants;
+
 (j) requiring and governing the disclosure of compensation and other payments under section 22;
+
 (k) governing the register that is required to be established and maintained under section 32 of this Act, including prescribing the information to be contained in the register and the form and manner in which it shall be maintained;
+
 (l) respecting matters having to do with the complaints received by the Authority and investigations involving allegations of sexual abuse by registrants, which may include,
+
 (i) requiring the Authority to establish a fund for the purposes of providing therapy and counselling for persons who allege that sexual abuse has been committed by registrants,
+
 (ii) requiring the Authority to provide other types of supports in relation to allegations of sexual abuse by registrants;
+
 (m) respecting investigations under this Act;
+
 (n) respecting the manner in which and the frequency with which decisions of the discipline committee and appeals committee are made available to the public;
+
 (o) requiring or authorizing the Chief Executive Officer or the board to conduct continuous quality improvement activities for registrants, which may include requiring registrants to complete continuous quality improvement activities as a condition of registration;
+
 (p) providing for any transitional matter necessary for the effective implementation of this Act;
+
 (q) defining, for the purposes of this Act, any word or expression that is used in this Act but not defined in this Act;
+
 (r) respecting matters concerning the winding up and dissolution of the Authority and the transfer of its assets, liabilities, rights and obligations;
+
 (s) respecting any matter that the Lieutenant Governor in Council considers advisable to carry out effectively the intent and purpose of this Act.
 
 ## part x (omitted)
 
 64 Omitted (provides for amendments to this Act).
+
 65-70 Omitted (amends, repeals or revokes other legislation).
 
 ## part xi (omitted)
 
 71 Omitted (provides for coming into force of provisions of this Act).
+
 72 Omitted (enacts short title of this Act).

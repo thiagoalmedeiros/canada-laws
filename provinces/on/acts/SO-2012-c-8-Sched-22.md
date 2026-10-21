@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-06-05"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/12h08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Highway 407 East Act, 2012
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/12h08) before relying on it.
 
 S.O. 2012, c. 8, Sched. 22
 
@@ -23,23 +23,37 @@ S.O. 2012, c. 8, Sched. 22
 ### Definitions
 
 1 (1) In this Act,
+
 “enforcement fee” means a fee charged by the Minister for the purposes of recovering costs associated with a person’s failure to pay a toll or fee; (“frais de recouvrement”)
+
 “Highway 407 East” means the highway between the easterly end of Highway 407, as defined in the Highway 407 Act, 1998, and Highway 35/115 and improvements and fixtures on the highway; (“autoroute 407 Est”)
+
 “Minister” means the Minister of Transportation or such other member of the Executive Council to whom the administration of this Act is assigned under the Executive Council Act; (“ministre”)
+
 “Ministry” means the ministry of the Minister; (“ministère”)
+
 “prescribed”, except in the definition of “toll device”, means prescribed in the regulations made under this Act; (“prescrit”)
+
 “toll device” means a toll device prescribed under clause 191.4 (a) of the Highway Traffic Act; (“appareil à péage”)
+
 “vehicle permit” means a permit as defined in section 6 of the Highway Traffic Act. (“certificat d’immatriculation de véhicule”)
 
 ### References to Minister, Ministry
 
 (2) Where an agreement is entered into under subsection 14 (1) and is in force, references to the Minister or the Ministry in the following provisions shall be read as referring to the person or entity that is party to the agreement with the Minister:
+
 0.1 The definition of “enforcement fee” in subsection 1 (1).
+
 1. Subsections 3 (1) and (4).
+
 2. Subsection 5 (1), subclauses 5 (2) (c) (i) and (iii) and clause 5 (2) (d).
+
 3. Subsections 6 (2), (5), (6), (7) and (8).
+
 4. Subsections 8 (1), (2), (3), (4), (6), (7) and (8).
+
 5. Subsection 9 (1).
+
 6. Subsections 11 (1), (2) and (7) to (11).
 
 ### Designations of Highway 407 East as a Controlled-Access and Toll Highway
@@ -59,7 +73,9 @@ S.O. 2012, c. 8, Sched. 22
 ### Obligation to pay toll
 
 3 (1) A toll and any related fee and interest payable under this Act for the operation of a vehicle on Highway 407 East shall be paid to the Ministry by,
+
 (a) if a toll device is not affixed to the vehicle, the person in whose name the plate portion of the vehicle permit is issued;
+
 (b) if a toll device is affixed to the vehicle, the person to whom the toll device is registered.
 
 ### Evidence
@@ -69,7 +85,9 @@ S.O. 2012, c. 8, Sched. 22
 ### Application
 
 (3) Sections 5 to 12 apply to the collection and enforcement of tolls and related fees and interest payable under this Act by a person described in subsection (1), but do not apply to the collection and enforcement of tolls, fees and interest if,
+
 (a) the person is responsible for the payment of the tolls, fees and interest under clause (1) (b); and
+
 (b) the toll device that was affixed to the vehicle in question was obtained without providing information identifying the plate portion of a vehicle permit.
 
 ### Validation of toll devices
@@ -123,23 +141,37 @@ S.O. 2012, c. 8, Sched. 22
 ### Content of notice
 
 (2) The notice shall,
+
 (a) set out the amount of the toll and of any administrative fee and the interest rate that is being charged;
+
 (b) inform the person named in the notice that the person may dispute the matter on a ground described in subsection 6 (1) and set out those grounds;
+
 (c) inform the person named in the notice that if the person disputes the matter,
+
 (i) the person must send a notice of dispute to the Minister within the time period referred to in subsection 6 (2),
+
 (ii) the person bears the onus of proving the grounds on which the matter is disputed, and
+
 (iii) the person is no longer required to pay the tolls, fees and interest set out in the notice if the Minister fails to send the person a decision within 30 days after receiving the person’s notice of dispute; and
+
 (d) inform the person named in the notice that if the toll or fee referred to in the notice, or any interest on that toll or fee, is not paid within 90 days after the day on which the person received the notice, even if the failure to pay is disputed under section 6 or is subject to an appeal under section 8,
+
 (i) the Minister may charge an enforcement fee, the amount of which shall be set out in the notice, and
+
 (ii) the Registrar of Motor Vehicles may refuse to validate the person’s vehicle permit or refuse to issue a vehicle permit to the person.
 
 ### Dispute
 
 6 (1) A person who receives a notice under section 5 may dispute the alleged failure to pay a toll on any of the following grounds:
+
 1. The toll was paid in full.
+
 2. The amount of the toll is incorrect.
+
 3. The vehicle, the numbered plate or the toll device registered to the person was lost or stolen at the time the toll was incurred.
+
 4. The person is not the person responsible for the payment of the toll under subsection 3 (1).
+
 5. A prescribed ground.
 
 ### Notice of dispute
@@ -193,8 +225,11 @@ S.O. 2012, c. 8, Sched. 22
 ### Appeal process
 
 (4) The dispute arbitrator shall review the notice of appeal and any submission made by the Minister under subsection (2) and may,
+
 (a) decide the matter on the basis of the written material;
+
 (b) if he or she thinks it appropriate, hold a hearing into the matter; or
+
 (c) use any available mediation or alternative dispute resolution method that he or she considers appropriate.
 
 ### Appeal decision
@@ -224,7 +259,9 @@ S.O. 2012, c. 8, Sched. 22
 ### Repayment of paid tolls
 
 9 (1) Where a person who receives a notice of failure to pay a toll under section 5 pays the toll and the related fees and interest, in whole or in part, the Minister shall return the amount paid to the person, together with interest, if,
+
 (a) the Minister or dispute arbitrator subsequently decides that the person is not responsible for the payment of the toll, fees and interest; or
+
 (b) the person is no longer required to pay the tolls, fees and interest pursuant to subsection 6 (7).
 
 ### Interest rate
@@ -240,7 +277,9 @@ S.O. 2012, c. 8, Sched. 22
 ### Charging of enforcement fee and notification to Registrar
 
 11 (1) If a toll and the related fees and interest are not paid within 90 days of the day a person receives a notice of failure to pay under section 5, the Minister may,
+
 (a) charge an enforcement fee; and
+
 (b) notify the Registrar of Motor Vehicles of the failure to pay.
 
 ### Same
@@ -254,6 +293,7 @@ S.O. 2012, c. 8, Sched. 22
 ### Registrar’s action
 
 (3) If the Registrar of Motor Vehicles is notified under subsection (1), he or she shall, at the next opportunity, refuse to validate the vehicle permit issued to the person who received the notice of failure to pay under section 5 and refuse to issue a vehicle permit to that person.
+
 (4)-(6) Repealed: 2015, c. 14, s. 1 (2).
 
 ### If dispute
@@ -267,7 +307,9 @@ S.O. 2012, c. 8, Sched. 22
 ### Same
 
 (9) If the Registrar of Motor Vehicles is notified by the Minister that the toll, fees and interest and any enforcement fee have been paid or is notified by the dispute arbitrator that the person is not responsible for paying the toll, fees and interest and any enforcement fee, the Registrar shall,
+
 (a) validate any vehicle permit that he or she refused to validate under subsection (3);
+
 (b) issue a vehicle permit to a person if it was refused under subsection (3).
 
 ### Transition — enforcement fee
@@ -285,18 +327,27 @@ S.O. 2012, c. 8, Sched. 22
 ### Minister’s powers re collection and enforcement
 
 13 (1) The Minister may,
+
 (a) collect and enforce payment of tolls, and interest on them, with respect to the operation of vehicles on Highway 407 East;
+
 (b) establish, collect and enforce payment of administrative fees and fees to commence or appeal any dispute proceedings, and collect and enforce payment of interest on the fees;
+
 (c) establish terms and conditions for the registration and distribution of toll devices;
+
 (d) require security for the provision of any toll devices;
+
 (e) determine the methods of payment of tolls, fees and interest;
+
 (f) determine the circumstances in which tolls, fees and interest are to be refunded.
 
 ### Settlement of or determination of uncollectability of debt
 
 (2) Where the Minister sends a notice of failure to pay the toll to a person under section 5, the Minister may,
+
 (a) negotiate and accept as a settlement in full payment and satisfaction of the tolls, fees and interest owed by the person an amount that is less than the whole amount owing;
+
 (b) determine that any such tolls, fees or interest are uncollectable; or
+
 (c) determine that financial hardship, economic considerations or other circumstances do not warrant the collection or enforcement of any such tolls, fees and interest.
 
 ### Application of Financial Administration Act
@@ -306,10 +357,15 @@ S.O. 2012, c. 8, Sched. 22
 ### Agreement with person or entity to collect and enforce tolls, etc.
 
 14 (1) The Minister may enter into an agreement with any person or entity authorizing that person or entity,
+
 (a) to collect and enforce the payment of tolls, related fees and interest with respect to the operation of vehicles on Highway 407 East;
+
 (b) to do anything the Minister is authorized to do under clause 13 (1) (b), (c), (d), (e) or (f) or under subsection 13 (2);
+
 (c) to perform additional activities in relation to the collection and enforcement of tolls, fees and interest as are specified in the agreement;
+
 (d) to establish, collect and enforce payment of administrative fees in respect of the activities referred to in clause (c);
+
 (e) to charge interest for the late payment of the administrative fees established by the person or entity, and to establish rules for determining when interest is owed and for determining the methods of payment of the administrative fees and related interest.
 
 ### Collected tolls, etc., to be paid to Minister
@@ -331,7 +387,9 @@ S.O. 2012, c. 8, Sched. 22
 ### Crown not liable for person’s, entity’s acts
 
 (5) No action or other proceeding shall be instituted against the Crown, the Minister, the Registrar of Motor Vehicles or any other official of or employee in the Ministry for any act or omission of,
+
 (a) a person or entity with whom the Minister enters into an agreement under subsection (1); or
+
 (b) the directors, members, officers, employees, agents or independent contractors of a person or entity described in clause (a).
 
 ### Auditor General
@@ -343,29 +401,41 @@ S.O. 2012, c. 8, Sched. 22
 ### Definitions
 
 15 (1) In this section,
+
 “entity”, except when referring to a person or entity with whom the Minister enters into an agreement under subsection 14 (1), means the government of a province of Canada or a state of the United States of America; (“entité”)
+
 “personal information” means information that is personal information for the purposes of the Freedom of Information and Protection of Privacy Act. (“renseignements personnels”)
 
 ### Collection, use and disclosure of personal information — by Ministry
 
 (2) Despite any other Act or regulation, the Ministry may,
+
 (a) collect personal information in any manner from a person or entity with whom the Minister enters into an agreement under subsection 14 (1), or from any person or entity for a purpose described in subsection (4);
+
 (b) use, for a purpose described in subsection (4), personal information that is in its custody or under its control;
+
 (c) disclose the names and addresses of persons who owe tolls, related fees and other charges that are in its custody or under its control or other prescribed personal information to a person or entity with whom the Minister enters into an agreement under subsection 14 (1) or to any person or entity for a purpose described in subsection (4).
 
 ### Same — by person or entity under s. 14 (1) agreement
 
 (3) Despite any other Act or regulation, a person or entity with whom the Minister enters into an agreement under subsection 14 (1) may,
+
 (a) collect, only for a purpose described in subsection (4), personal information in any manner from the Ministry or an entity;
+
 (b) use, only for a purpose described in subsection (4), personal information that was collected from the Ministry or an entity;
+
 (c) disclose, only for a purpose described in subsection (4), personal information that was collected from the Ministry or an entity.
 
 ### Purposes
 
 (4) The following are the purposes referred to in subsections (2) and (3):
+
 1. To collect and enforce, or assist in the collection and enforcement of, tolls, fees and other charges owing with respect to Highway 407 East.
+
 2. To engage or assist in traffic planning and revenue management with respect to Highway 407 East.
+
 3. To communicate, or assist in communicating, with users of Highway 407 East for the purpose of promoting the use of Highway 407 East.
+
 4. To assist an entity with whom the Ministry has an agreement relating to the collection and enforcement of tolls.
 
 ### Agreement required
@@ -407,6 +477,7 @@ S.O. 2012, c. 8, Sched. 22
 ### First toll is prescribed
 
 16 (1) The Lieutenant Governor in Council may by regulation prescribe the toll that is payable for the operation of a vehicle on Highway 407 East during a period of time specified in the regulation, which period shall be at least 12 months and shall end on May 31.
+
 (2) Repealed: 2015, c. 14, s. 2.
 
 ### Annual adjustment of toll
@@ -436,28 +507,45 @@ S.O. 2012, c. 8, Sched. 22
 ### Other regulations made by Lieutenant Governor in Council
 
 17 The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing a part of Highway 407 East that is not designated as a toll highway;
+
 (b) prescribing additional grounds on which to dispute a notice of failure to pay a toll;
+
 (c) respecting additional procedures to be used for enforcing the payment of tolls on Highway 407 East;
+
 (d) providing that sections 5 to 11, or any of them, or any provision of a regulation made under this Act, do not apply in respect of all or a part of Highway 407 East, and prescribing different rules for the collection and enforcement of tolls, fees and interest and for the resolution of disputes than those set out in those provisions;
+
 (e) prescribing the types of toll devices and related tolling equipment that must be used on Highway 407 East;
+
 (f) providing that the Arbitration Act, 1991 or any provision of that Act does not apply to appeals under section 8;
+
 (g) Repealed: 2015, c. 14, s. 3.
+
 (h) prescribing personal information for the purpose of clause 15 (2) (c);
+
 (i) despite this or any other Act, requiring the Minister and the owners or operators of any private toll highways to do the things specified in the regulation in order to achieve the integration of Highway 407 East with the other highways specified in the regulation;
+
 (j) respecting any matter that the Lieutenant Governor in Council considers necessary or advisable to carry out effectively the purposes of this Act.
 
 ### Minister’s regulations
 
 18 The Minister may make regulations,
+
 (a) exempting any person or vehicle or class of persons or vehicles from the application of section 3, and prescribing conditions and circumstances for any such exemption;
+
 (b) providing that no tolls are payable on all or part of Highway 407 East for a specified event or time period;
+
 (c) prescribing a rate of interest for the purpose of subsection 4 (3) or 9 (2);
+
 (d) prescribing and governing methods for sending invoices, notices and other documents.
 
 ### Forms
 
 19 The Minister may approve forms for the purposes of this Act and require their use.
+
 20 Omitted (amends, repeals or revokes other legislation).
+
 21 Omitted (provides for coming into force of provisions of this Act).
+
 22 Omitted (enacts short title of this Act).

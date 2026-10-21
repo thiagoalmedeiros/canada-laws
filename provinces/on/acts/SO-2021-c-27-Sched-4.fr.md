@@ -6,23 +6,28 @@ language: fr
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21p27"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # psychologie et l'analyse comportementale appliquée (Loi de 2021 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21p27) before relying on it.
 
 L.O. 2021, chap. 27, annexe 4
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Code des professions de la santé» Le Code des professions de la santé figurant à l’annexe 2 de la Loi de 1991 sur les professions de la santé réglementées. («Health Professions Procedural Code»)
+
 «la présente loi» S’entend en outre du Code des professions de la santé. («this Act»)
+
 «membre» Membre de l’Ordre. («member»)
+
 «Ordre» L’Ordre des psychologues et des analystes du comportement de l’Ontario. («College»)
+
 «profession» Les professions de psychologie et d’analyse comportementale appliquée. («profession»)
 
 ### Code des professions de la santé
@@ -32,9 +37,13 @@ L.O. 2021, chap. 27, annexe 4
 ### Termes figurant dans le Code
 
 (2) Dans la mesure où le Code des professions de la santé s’applique à l’égard de la présente loi, les termes suivants qui y figurent s’interprètent comme suit :
+
 «loi sur une profession de la santé» La présente loi. («health profession Act»)
+
 «Ordre» L’Ordre des psychologues et des analystes du comportement de l’Ontario. («College»)
+
 «profession» Les professions de psychologie et d’analyse comportementale appliquée. («profession»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
 
 ### Définitions du Code
@@ -54,7 +63,9 @@ L.O. 2021, chap. 27, annexe 4
 ### Actes autorisés
 
 4 Dans l’exercice de la profession de la psychologie, un membre est autorisé, sous réserve des conditions et restrictions dont est assorti son certificat d’inscription, à accomplir les actes suivants :
+
 1. Communiquer un diagnostic attribuant les symptômes que présente une personne à un trouble neuropsychologique ou à un trouble psychotique, névrotique ou de la personnalité d’origine psychologique.
+
 2. Traiter, au moyen d’une technique de psychothérapie appliquée dans le cadre d’une relation thérapeutique, un désordre grave qu’a un particulier sur les plans de la pensée, de la cognition, de l’humeur, de la régulation affective, de la perception ou de la mémoire et qui est susceptible de porter gravement atteinte à son jugement, à son intuition, à son comportement, à sa capacité de communiquer ou à son fonctionnement social.
 
 ### Maintien de l’Ordre
@@ -64,13 +75,21 @@ L.O. 2021, chap. 27, annexe 4
 ### Conseil
 
 6 (1) Le conseil se compose :
+
 a) d’au moins huit et d’au plus 12 personnes qui sont des membres élus conformément aux règlements administratifs, dont au moins trois et au plus cinq doivent être titulaires d’un certificat d’inscription en analyse comportementale appliquée;
+
 b) d’au moins huit et d’au plus 13 personnes que nomme le lieutenant-gouverneur en conseil et qui ne sont pas, selon le cas :
+
 (i) des membres,
+
 (ii) des membres d’un ordre, au sens de la Loi de 1991 sur les professions de la santé réglementées,
+
 (iii) des membres d’un conseil, au sens de la Loi de 1991 sur les professions de la santé réglementées ;
+
 c) d’au moins deux et d’au plus quatre personnes choisies, conformément à un règlement administratif adopté en vertu de l’article 11, parmi les membres qui font partie du corps professoral d’un département d’une université ontarienne si ce département est, selon le cas :
+
 (i) un département de psychologie,
+
 (ii) un département, sous quelque appellation que ce soit, offrant une spécialisation en analyse comportementale appliquée.
 
 ### Qualité requise supplémentaire
@@ -104,7 +123,9 @@ c) d’au moins deux et d’au plus quatre personnes choisies, conformément à 
 ### Définition
 
 (5) La définition qui suit s’applique au présent article.
+
 «abréviation» S’entend en outre de l’abréviation d’une variante.
+
 9 Abrogé : 2021, chap. 27, annexe 4, art. 14.
 
 ### Infraction
@@ -114,13 +135,17 @@ c) d’au moins deux et d’au plus quatre personnes choisies, conformément à 
 ### Règlements administratifs
 
 11 Le conseil peut, par règlement administratif :
+
 a) traiter des qualités requises, du nombre, du choix et du mandat des membres du conseil qui sont choisis;
+
 b) préciser des universités ontariennes pour l’application de l’alinéa 6 (1) c).
 
 ### Règlements du ministre
 
 11.1 Sous réserve de l’approbation du lieutenant-gouverneur en conseil, le ministre peut, par règlement, soustraire une personne à l’application des interdictions suivantes et assortir cette exemption de conditions :
+
 1. L’interdiction prévue au paragraphe 8 (1) concernant l’emploi des titres de «psychologue» ou d’«associé en psychologie», d’une variante, d’une abréviation ou d’un équivalent dans une autre langue.
+
 2. L’interdiction prévue au paragraphe 8 (2) concernant le fait de se présenter comme une personne ayant qualité pour exercer en Ontario soit la profession de psychologue ou d’associé en psychologie, soit une spécialité de la psychologie.
 
 ### Disposition transitoire
@@ -142,7 +167,11 @@ b) préciser des universités ontariennes pour l’application de l’alinéa 6 
 ### Autres lois
 
 13 La mention, dans toute autre loi, d’un membre de l’Ordre des psychologues de l’Ontario est réputée valoir mention d’un membre de l’Ordre des psychologues et des analystes du comportement de l’Ontario qui exerce la profession de psychologue.
+
 14 Omis (modification de la présente loi).
+
 15 et 16 Omis (modification ou abrogation d’autres textes législatifs).
+
 17 Omis (entrée en vigueur de dispositions de la présente loi).
+
 18 Omis (édiction du titre abrégé de la présente loi).

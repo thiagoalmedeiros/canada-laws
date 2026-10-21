@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23p09"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Protecting Farmers from Non-Payment Act (Regulating Agricultural Product Dealers and Storage Operators), 2023
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23p09) before relying on it.
 
 S.O. 2023, c. 9, Sched. 30
 
@@ -21,30 +21,55 @@ S.O. 2023, c. 9, Sched. 30
 ### Definitions
 
 1 (1) In this Act,
+
 “agreement to purchase or sell a designated product” means an agreement to purchase or sell a designated product under section 6; (“entente d’achat ou de vente d’un produit désigné”)
+
 “agreement to store a designated product” means an agreement to store a designated product under section 11; (“entente d’entreposage d’un produit désigné”)
+
 “agricultural product” means cattle, hogs, poultry, or other livestock, eggs, dairy products, wool, grains, seeds, fruit, vegetables, maple products, honey, tobacco, or any class or part of any such product, or any other product designated as an agricultural product by regulation; (“produit agricole”)
+
 “board” means a board established or continued pursuant to this Act; (“commission”)
+
 “dealer” means a person, licensed or not, who engages in the business of buying or selling a designated product as a principal or agent, but does not include a person or a producer buying a designated product for their own personal use; (“marchand”)
+
 “dealer’s licence” means a licence to engage in business as a dealer of a Part IV designated product issued by the Director under Part VIII; (“permis de marchand”)
+
 “delegated authority” means an entity that has been designated under section 79; (“organisme délégataire”)
+
 “designated product” means and agricultural product designated by regulation under clause 2 (1) (a), (b), (c), (d) or (e); (“produit désigné”)
+
 “Director” means a Director appointed under section 3 or 4; (“directeur”)
+
 “fund” means a fund established or continued pursuant to this Act; (“fonds”)
+
 “licence” means a licence under this Act; (“permis”)
+
 “licensed dealer” means a dealer who has been issued a dealer’s licence; (“marchand titulaire d’un permis”)
+
 “licensed storage operator” means a person who has been issued a storage operator’s licence; (“exploitant de services d’entreposage titulaire d’un permis”)
+
 “Minister” means the Minister of Agriculture, Food and Rural Affairs or any other member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre”)
+
 “owner” means the person who has legal title to a designated product; (“propriétaire”)
+
 “Part IV designated product” means an agricultural product designated by regulation under clause 2 (1) (a); (“produit désigné par la partie IV”)
+
 “Part V designated product” means an agricultural product designated by regulation under clause 2 (1) (b); (“produit désigné par la partie V”)
+
 “Part VI designated product” means an agricultural product designated by regulation under clause 2 (1) (c); (“produit désigné par la partie VI”)
+
 “Part VII designated product” means an agricultural product designated by regulation under clause 2 (1) (d); (“produit désigné par la partie VII”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “producer” means a person who is engaged in the production of a designated product; (“producteur”)
+
 “regulation” means a regulation made under this Act; (“règlement”)
+
 “storage operator” means a person, licensed or not, who engages in the business of storing a designated product; (“exploitant de services d’entreposage”)
+
 “storage operator’s licence” means a licence to store Part V designated products issued by the Director under Part VIII; (“permis d’exploitant de services d’entreposage”)
+
 “Tribunal” means the Agriculture, Food and Rural Affairs Appeal Tribunal continued under the Ministry of Agriculture, Food and Rural Affairs Act. (“Tribunal”)
 
 ### Existing aboriginal or treaty rights
@@ -56,10 +81,15 @@ S.O. 2023, c. 9, Sched. 30
 ### Designation
 
 2 (1) The Minister may, by regulation, designate an agricultural product as,
+
 (a) a Part IV designated product, being a designated product with respect to which Part IV applies;
+
 (b) a Part V designated product, being a designated product with respect to which Part V applies;
+
 (c) a Part VI designated product, being a designated product with respect to which Part VI applies;
+
 (d) a Part VII designated product, being a designated product with respect to which Part VII applies; or
+
 (e) a designated product with respect to which two or more of the Parts of this Act referred to in clauses (a) to (d) apply.
 
 ### Limiting application
@@ -91,7 +121,9 @@ S.O. 2023, c. 9, Sched. 30
 ### Delegated authority
 
 4 (1) If a delegated authority has been designated by regulation under Part X for the purposes of administering all or part of the Act and regulations with respect to a designated product, the delegated authority,
+
 (a) shall appoint a Director to carry out the duties and exercise the powers of the Director under this Act with respect to the designated product; and
+
 (b) may appoint one or more Deputy Directors to perform such duties as may be assigned by the Director and to act as Director in the Director’s absence with respect to the designated product.
 
 ### Limitation
@@ -143,7 +175,9 @@ S.O. 2023, c. 9, Sched. 30
 ### Same
 
 (2) The Minister shall not prescribe a non-governmental organization for the purposes of this section unless,
+
 (a) the non-governmental organization is a not-for-profit corporation incorporated under the laws of Ontario or of Canada; and
+
 (b) the Minister has entered into an agreement with the non-governmental organization.
 
 ### Same
@@ -167,8 +201,11 @@ S.O. 2023, c. 9, Sched. 30
 ### Exception
 
 (2) Despite subsection (1), a storage operator may store a Part V designated product on behalf of the producer or owner of the designated product without a storage operator’s licence if,
+
 (a) the storage operator holds such qualifications as may be prescribed;
+
 (b) the product is stored in a prescribed manner; and
+
 (c) the storage takes place in such circumstances or under such conditions as may be prescribed.
 
 ### No transfer of licence
@@ -194,7 +231,9 @@ S.O. 2023, c. 9, Sched. 30
 ### Same
 
 (2) The Minister shall not prescribe a non-governmental organization for the purposes of this section unless,
+
 (a) the non-governmental organization is a not-for-profit corporation incorporated under the laws of Ontario or of Canada; and
+
 (b) the Minister has entered into an agreement with the non-governmental organization.
 
 ### Same
@@ -228,8 +267,11 @@ S.O. 2023, c. 9, Sched. 30
 ### Proof of quantity stored
 
 16 (1) Upon delivery of a Part V designated product for storage by the producer or owner of the product, a storage operator shall,
+
 (a) create a receipt for the designated product, indicating the quantity of the designated product that has been delivered for storage;
+
 (b) provide the receipt to the producer or owner; and
+
 (c) keep a copy of the receipt for the storage operator’s records.
 
 ### Receipt
@@ -255,25 +297,33 @@ S.O. 2023, c. 9, Sched. 30
 ### Storage operator as dealer
 
 17 (1) This section applies if,
+
 (a) a designated product is designated both as a Part IV designated product and as a Part V designated product; and
+
 (b) a licensed storage operator for the designated product is also licensed to act as a dealer of that designated product.
 
 ### Agreement required
 
 (2) A licensed storage operator referred to in clause (1) (b) shall enter into an agreement to purchase or sell a designated product with a producer or owner of the designated product before the licensed storage operator,
+
 (a) purchases a designated product referred to in clause (1) (a) that is being stored at the licensed storage operator’s facility; or
+
 (b) agrees to sell a designated product referred to in clause (1) (a) on behalf of the producer or owner of the product.
 
 ### Content of Agreement
 
 (3) An agreement referred to in subsection (2) shall,
+
 (a) authorize the licensed storage operator to act as a dealer with respect to the sale of any of the designated product that the producer or owner stores with the licensed storage operator; and
+
 (b) meet the requirements set out in subsection 6 (2).
 
 ### Where storage operator purchases product
 
 (4) If the agreement to purchase or sell a designated product referred to in subsection (2) provides that the licensed dealer is to purchase the designated product for the purpose of reselling it,
+
 (a) subsection 14 (1) does not apply to the designated product that is delivered to the storage operator by the producer or owner of the designated product; and
+
 (b) unless the regulations provide otherwise, property in and title to the designated product shall remain with the producer or owner of the designated product until the producer or owner has received payment for the designated product in accordance with the terms of the agreement to purchase or sell a designated product.
 
 ### Application of s. 7
@@ -333,11 +383,17 @@ S.O. 2023, c. 9, Sched. 30
 ### Duties of trustee
 
 (3) Trustees shall comply with the following requirements respecting the trust fund:
+
 1. The funds the trustee receives shall be deposited into an account in the trustee’s name, and if there is more than one trustee of the trust funds, the funds shall be deposited into an account in all of the trustees’ names.
+
 2. The account referred to in paragraph 1 shall be in,
+
 i. a bank listed in Schedule I or II to the Bank Act (Canada),
+
 ii. a credit union, as defined in the Credit Unions and Caisses Populaires Act, 2020, or
+
 iii. a trust corporation registered under the Loan and Trust Corporations Act.
+
 3. If a person is a trustee of more than one trust under this section, the trust funds may be deposited together into a single account, as long as the trustee maintains the records required under subsection (6) separately in respect of each trust.
 
 ### Multiple trust funds in a single account
@@ -351,14 +407,23 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Records
 
 (6) The trustee shall ensure that written records of transactions on the trust fund referred to in subsection (1) are maintained setting out,
+
 (a) the amounts that are received into the fund, and
+
 (i) the name of the person from whom the amount was received, and
+
 (ii) the name of the producer on whose behalf the amount is held in trust;
+
 (b) the amounts owing to the trust, and
+
 (i) the name of each person who owes the amounts, and
+
 (ii) the name of each producer on whose behalf the amount is owed;
+
 (c) the amounts that are paid out of the trust and the name of each person to whom the amount is paid out;
+
 (d) any transfers made for the purposes of the trust; and
+
 (e) any other prescribed information.
 
 ### No other amount
@@ -390,7 +455,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Corporations
 
 24 (1) If a dealer is a corporation and fails to comply with section 22 or 23 with respect to Part VI designated products that are received by the dealer, the following persons may be found liable for breach of trust in an action brought by the producer of the Part VI designated products:
+
 1. The corporation.
+
 2. Every director or officer and any employee or agent of the corporation or any other person who has effective control of the corporation, if the director, officer, employee or agent or other person who has effective control of the corporation assented to, or acquiesced in, conduct that the person knew or ought reasonably to have known amounted to breach of trust by the corporation.
 
 ### Effective control
@@ -408,7 +475,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Apportionment of liability
 
 (5) In an action or proceeding for contribution under subsection (4), the court may apportion liability and order,
+
 (a) contribution in such amount as will result in equal contribution by all parties liable for the breach of trust; or
+
 (b) if the court believes that equal contribution by all parties would not be fair, contribution in such amount as the court considers appropriate in the circumstances.
 
 ### Waiver, etc. void
@@ -422,13 +491,17 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Establishment of funds
 
 26 (1) Where an agricultural product is designated under Part II as a Part VII designated product, the Minister shall establish a fund for the benefit of,
+
 (a) all producers of the Part VII designated product in Ontario; and
+
 (b) any other persons who are entitled to make a claim against the fund by regulation or under section 46.
 
 ### Fund for more than one designated product
 
 (2) The Minister may establish a fund under this section with respect to two or more types of Part VII designated products, and the fund shall be for the benefit of,
+
 (a) all producers of any of the two or more types of Part VII designated products in Ontario; and
+
 (b) any other persons who are entitled to make a claim against the fund by regulation or under section 46.
 
 ### Separate accounting
@@ -438,14 +511,19 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Purpose of fund
 
 (4) The purpose of a fund established under this Part with respect to a Part VII designated product is,
+
 (a) to compensate a producer of the Part VII designated product in accordance with this Part and the regulations for any loss resulting from the failure of a licensed dealer to pay the producer on account of the sale of the Part VII designated product;
+
 (b) to compensate a producer or owner of the Part VII designated product in accordance with this Part and the regulations for any loss resulting from the failure of a licensed storage operator to provide the Part VII designated product to the producer or owner upon demand; and
+
 (c) to compensate any persons who are entitled to make a claim against the fund under the regulation or under section 46.
 
 ### Establishment of boards
 
 27 (1) Where an agricultural product is designated under Part II as a Part VII designated product, the Minister shall, for the purpose of administering the fund established under section 26 with respect to the designated product,
+
 (a) establish a board by regulation; or
+
 (b) designate, by regulation, a delegated authority to act as a board.
 
 ### Regulation
@@ -487,10 +565,15 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Functions and powers
 
 29 A board has the following functions and the powers to carry out those functions:
+
 1. To manage and administer its fund or funds.
+
 2. To investigate all claims made to it under this Act and to determine the extent of their validity.
+
 3. To grant or refuse the payment of claims or any part thereof and determine the amounts and manner of payment.
+
 4. To recover any money to which it is entitled under this Act by suit in a court of competent jurisdiction or otherwise.
+
 5. To carry out the functions, and exercise the powers, under this Act or prescribed by regulation.
 
 ### Board of directors
@@ -516,10 +599,15 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Delegation
 
 (6) The board of directors may delegate to a committee of the board, or to an officer or employee of the board, any of the board of director’s powers other than the powers to,
+
 (a) make, amend or repeal the by-laws of the board;
+
 (b) approve the board’s operating budget;
+
 (c) approve the board’s business plan, annual report and financial statements;
+
 (d) adjudicate claims made under section 46; or
+
 (e) do any other thing that may be prescribed.
 
 ### Conditions
@@ -553,12 +641,15 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Job categories, etc.
 
 (2) A board may establish job categories, salary ranges and conditions of employment for its officers and employees, subject to the approval of,
+
 (a) the Lieutenant Governor in Council, in the case of officers and employees who are members of a bargaining unit; or
+
 (b) the Minister, in the case of officers and employees who are not members of a bargaining unit.
 
 ### Definition
 
 (3) In this section,
+
 “bargaining unit” has the same meaning as in the Labour Relations Act, 1995.
 
 ### Experts
@@ -584,8 +675,11 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Content of annual report
 
 (2) A board shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -599,8 +693,11 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Immunity of employees, etc.
 
 37 (1) No cause of action arises against, and no action or other proceeding may be instituted against, any of the following persons as a result of any act done in good faith in the performance or intended performance of the person’s duties under this Act or any alleged neglect or default in the performance in good faith of the person’s duties under this Act:
+
 1. A current or former employee of the Crown.
+
 2. A current or former member of a board or a current or former officer of a board.
+
 3. A current or former employee of a board.
 
 ### Crown liability preserved
@@ -614,10 +711,15 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Dissolution of funds and boards
 
 38 (1) The Minister may, by regulation,
+
 (a) dissolve a board previously established or constituted under clause 27 (1) (a) of this Act or subsection 2 (1) of the Farm Products Payments Act and provide for the termination of the fund to which the board relates;
+
 (b) provide for any transitional matter necessary for the effective dissolution of a board, including,
+
 (i) the transfer, without compensation, of any property, including assets, liabilities, rights, obligations, records, databases, accounts and money, that is held by any of the affected boards, and
+
 (ii) the assignment, without compensation, of any contracts that a board has entered into before its dissolution; and
+
 (c) provide for the disposition of amounts remaining in a fund and such other measures as are necessary for the effective termination of a fund.
 
 ### Immunity of Crown
@@ -669,8 +771,11 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Loans
 
 43 (1) If the amount standing to the credit of a fund is not sufficient for the purposes of making a payment for a claim made against the fund,
+
 (a) upon the recommendation of the Minister, the Lieutenant Governor in Council may, by order, authorize the Minister of Finance to make loans to the board that administers the fund in an amount of up to $250,000;
+
 (b) the board may borrow such sums as are necessary for the purposes of paying any claims from a bank listed in Schedule I or II of the Bank Act (Canada), a loan corporation or trust corporation registered under the Loan and Trust Corporations Act, a credit union within the meaning of the Credit Unions and Caisses Populaires Act, 2020 or another person; and
+
 (c) in the case of a board that administers more than one fund, the board may borrow money from another fund that it administers, subject to such conditions and requirements as may be prescribed.
 
 ### Same
@@ -684,8 +789,11 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Amounts included in guarantee
 
 (4) A guarantee given under subsection (3) may, in addition to guaranteeing the payment of the principal amount of the loan, guarantee the payment of the following amounts with respect to the loan:
+
 1. Any interest owing on the loan.
+
 2. Fees, disbursements, allowances or charges owing by the board to its solicitor with respect to matters for which costs may be taxed under the Rules of Court.
+
 3. Any other expenses that are reasonably and necessarily incurred in the course of collecting or attempting to collect money payable.
 
 ### Form of guarantee
@@ -703,9 +811,13 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Payments out of fund
 
 44 A board may make payments out of a fund only for the following purposes:
+
 1. The payment of any claims made against the fund and permitted under this Act.
+
 2. The payment of prescribed expenses that are incurred in the administration of this Act.
+
 3. The repayment of any loans made to the board under clause 43 (1) (a) or (b).
+
 4. The repayment of any payment made by the Province of Ontario as guarantor of a loan under a guarantee given under subsection 43 (3).
 
 ### Additional funds
@@ -727,14 +839,19 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Application for payment from a fund
 
 46 (1) The producer of a Part VII designated product that is sold by or on behalf of the producer may make a claim for payment out of the fund with respect to the Part VII designated product if,
+
 (a) the dealer has not paid the producer the price payable under the agreement to purchase or sell a designated product within the prescribed time; or
+
 (b) a proceeding under the Bankruptcy and Insolvency Act (Canada) or the Companies’ Creditors Arrangement Act (Canada) has been initiated against the dealer.
 
 ### Same
 
 (2) The producer or owner of a Part VII designated product that has been stored with a storage operator may make a claim for payment out of the fund established with respect to that Part VII designated product if one of the following events has occurred:
+
 1. The storage operator failed to deliver all or part of the stored Part VII designated product upon demand by the producer or owner.
+
 2. A proceeding under the Bankruptcy and Insolvency Act (Canada) or the Companies’ Creditors Arrangement Act (Canada) has been initiated against the storage operator.
+
 3. All or any part of the storage operator’s assets have been placed in the hands of a trustee for distribution under the Bankruptcy and Insolvency Act (Canada) or in the hands of a receiver for distribution pursuant to a debenture or like instrument and the trustee or receiver fails to deliver to the producer or owner all or any part of the Part VII designated product upon demand by the producer or owner.
 
 ### Claims by prescribed persons
@@ -812,33 +929,45 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Refund
 
 51 If a claimant has received a payment from a fund and also receives a payment from or on behalf of a dealer, storage operator or other person in full or partial satisfaction of the same debt for which payment was made from the fund, the claimant shall pay to the board that administers the fund the lesser of,
+
 (a) the amount the claimant received from or on behalf of the dealer, storage operator or other person; or
+
 (b) the amount the claimant received from the fund.
 
 ### Orders by board
 
 52 (1) Where a board pays a claim out of a fund as a result of the failure of a dealer, storage operator or prescribed person to pay a debt owing to the claimant, the chair of the board may issue to the dealer, storage operator or prescribed person,
+
 (a) an order to reimburse the board for the amount of the claim that was paid by the board to the claimant; and
+
 (b) an order to pay the costs of the board associated with conducting the claims proceeding.
 
 ### Content of order to reimburse
 
 (2) An order to reimburse a claim issued under clause (1) (a) shall set out,
+
 (a) the amount that is to be reimbursed;
+
 (b) the time by which the reimbursement is to be paid; and
+
 (c) any other matter that may be prescribed.
 
 ### Order for claimant to pay costs
 
 (3) The chair of a board may order a claimant to pay the costs of the board associated with conducting a hearing or other proceeding relating to the claim if,
+
 (a) the claim was refused by the board or panel of the board that heard the claim; and
+
 (b) the board or panel of the board that heard the claim found that the claim was frivolous, vexatious or made in bad faith.
 
 ### Content of order to pay costs
 
 (4) An order to pay costs issued under clause (1) (b) or subsection (3) shall set out,
+
 (a) the amount of the costs that are to be paid, together with a description of each cost and receipts for the costs;
+
 (b) the right of the person receiving the order to appeal the order to the Tribunal under section 53; and
+
 (c) any other matter that may be prescribed.
 
 ### Appeal to Tribunal
@@ -864,7 +993,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Powers on appeal
 
 (6) After holding a hearing to review the chair of the board’s decision to issue the order, the Tribunal shall,
+
 (a) if it finds that the decision was reasonable, confirm the decision; or
+
 (b) if it finds that the decision was not reasonable, determine a reasonable amount for the appellant to pay and order that the appellant to pay that amount.
 
 ### Burden of proof
@@ -878,7 +1009,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Payment of ordered amounts
 
 54 (1) A person who is ordered to reimburse a claim or to pay the costs of a claim proceeding under section 52 shall pay the amount ordered,
+
 (a) within the time set out in the order, if the person was ordered to reimburse a claim; or
+
 (b) if the person gives notice of an appeal of the order under section 53, within 30 days after the Tribunal issues a decision on the appeal that upholds all or part of the order to pay the costs of a claim proceeding.
 
 ### Enforcement of order
@@ -892,10 +1025,15 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Same
 
 (4) Where the Director receives information from the chair of the board under subsection (3),
+
 (a) if more than 30 days have elapsed after the time for paying the order specified in subsection (1) and no available appeal of the order has been made to the Tribunal, the Director shall,
+
 (i) pay the amount payable under the order to the board out of any security that the Director holds from the licensed dealer or licensed storage operator, and
+
 (ii) require the licensed dealer or licensed storage operator to deposit as security with the Director the amount paid by the Director under subclause (i) in order to restore the amount of security to its previous level;
+
 (b) if more than 30 days have elapsed after the time for paying the order specified in subsection (1) and no available appeal of the order has been made to the Tribunal, the Director shall suspend or refuse to renew any dealer’s licence or storage operator’s licence issued to the dealer or storage operator until such time as the dealer or storage operator, as the case may be, has paid the debt owing or entered into a repayment plan with the board to repay the debt owing that is satisfactory to the chair; and
+
 (c) in the event a dealer or storage operator has entered into a repayment plan with the board under clause (b) and commits a breach of any terms or conditions of the repayment plan, the Director shall suspend or refuse to renew any dealer’s licence or storage operator’s licence issued to the dealer or storage operator until such time as the dealer or storage operator, as the case may be, has paid the debt owing or remedied the breach of the existing repayment plan with the board.
 
 ### No appeal
@@ -905,7 +1043,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Failure to pay after 45 days
 
 (6) If more than 45 days have elapsed after the time for paying the order specified in subsection (1) and the person against whom the order was made has not yet paid the debt owing, the chair of the board that issued the order may,
+
 (a) disclose to a consumer reporting agency the name of the person who has failed to pay under the order, the amount that is payable under the order and the day on which the payment was due; or
+
 (b) issue an order creating a lien against the property of the person who has failed to pay under the order.
 
 ### Information to consumer reporting agency
@@ -915,7 +1055,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Lien on personal property
 
 (8) If a lien is created under clause (6) (b) against personal property, the Personal Property Security Act, except Part V, applies with necessary modifications to the lien, despite clause 4 (1) (a) of that Act, and,
+
 (a) the lien shall be deemed to be a security interest that has attached for the purposes of the Personal Property Security Act; and
+
 (b) the chair of the board that created the lien may perfect the security interest for the purposes of the Personal Property Security Act by registration of a financing statement.
 
 ### Lien on real property
@@ -929,7 +1071,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Payment of amounts ordered
 
 (11) If a lien is created under subsection (8) or (9) and the person pays in full the amount payable under the order made under section 52 that led to the lien being created and any costs incurred to register the lien, the chair of the board that created the lien shall, within 10 days of the chair learning that the amount has been paid,
+
 (a) in the case of a lien against personal property, discharge the registration of any financing statement; and
+
 (b) in the case of a lien against real property, register a discharge of the lien in the proper land registry office.
 
 ### Interest
@@ -949,11 +1093,17 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Issuance of licences
 
 56 (1) The Director shall issue a licence to an applicant who satisfies the prescribed requirements, unless the Director believes, on reasonable grounds, that,
+
 (a) based on past conduct of the applicant, any officers, directors or representatives of the applicant or any other person having effective control of the applicant’s operations, the operations that would be authorized by the licence will not be carried out in accordance with this Act, the regulations or any conditions the Director may impose on the licence;
+
 (b) the applicant, any officers, directors or representatives of the applicant or any other person having effective control of the applicant’s operations is or are not competent to carry on the business to which the licence relates;
+
 (c) the applicant will not have available at its place of business the facilities and equipment necessary to carry out the business authorized by the licence in accordance with this Act or the regulations;
+
 (d) the applicant, any officers, directors or representatives of the applicant or any other person having effective control of the applicant’s operations owe money to a fund established under section 26, unless the applicant, or any officers, directors or representatives of the applicant, has or have a repayment plan and is or are in good standing regarding payments under that repayment plan;
+
 (e) the applicant, any officers, directors or representatives of the applicant or any other person having effective control of the applicant’s operations is or are not suitable to be licensed having regard to such circumstances as may be prescribed; or
+
 (f) any prescribed grounds exist that disentitle the applicant to the issuance of a licence.
 
 ### Proposal to refuse application
@@ -967,7 +1117,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Application
 
 (2) The applicant shall submit the application for renewal to the Director in accordance with this Act and the regulations and shall,
+
 (a) pay any prescribed fee; and
+
 (b) meet any other prescribed requirements.
 
 ### Deadline
@@ -977,11 +1129,17 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Renewal
 
 (4) The Director shall renew the licence of an applicant who satisfies the prescribed requirements unless the Director believes, on reasonable grounds, that,
+
 (a) any grounds or circumstances exist that would disentitle the applicant to the issuance of a licence under subsection 56 (1);
+
 (b) the premises, facilities and equipment used in the operations authorized by a licence do not comply with this Act or the regulations;
+
 (c) the applicant, any officers, directors or representatives of the applicant or any other person having effective control of the applicant’s operations has or have contravened any provision of this Act, the regulations or any conditions attached to the licence and such contravention warrants a refusal to renew the licence;
+
 (d) the applicant has permitted any person under the applicant’s control or direction in connection with the operations authorized by the license to contravene any provision of this Act, the regulations or any conditions attached to the licence, and such contravention warrants a refusal to renew the licence;
+
 (e) the applicant, any officers, directors or representatives of the applicant or any other person having effective control of the applicant’s operations is or are not suitable to be licensed having regard to such circumstances as may be prescribed; or
+
 (f) any prescribed grounds exist that disentitle the applicant to the renewal of a licence.
 
 ### Conditions
@@ -995,10 +1153,15 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Continuation pending renewal
 
 (7) If the application for renewal is made by the deadline described in subsection (3) and meets the requirements set out in subsection (2), the licence continues in effect after the expiry date until,
+
 (a) the Director notifies the applicant that the licence is renewed; or
+
 (b) if the Director proposes to refuse the renewal, until the earliest of,
+
 (i) the day the appeals process under this Part is concluded,
+
 (ii) the expiry of the period for requesting a hearing about the proposal, if no request for such hearing is made under subsection 61 (4), or
+
 (iii) the day the applicant informs the Director that the applicant does not require a hearing.
 
 ### Exception
@@ -1008,13 +1171,17 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Conditions and amendments
 
 58 (1) The Director may at any time, by order and without first holding a hearing,
+
 (a) impose conditions on a licence that the Director considers appropriate; or
+
 (b) amend a licence in any manner the Director considers appropriate.
 
 ### Conditions of licence
 
 (2) A licence is subject to those conditions to give effect to the purposes of this Act that,
+
 (a) are imposed by virtue of this Part; or
+
 (b) are imposed under this Act or that are required to be imposed under the regulations.
 
 ### Timing
@@ -1032,11 +1199,17 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Interim order to suspend without hearing
 
 59 (1) The Director shall, without first holding a hearing, impose an interim order to suspend a licence if,
+
 (a) the Director believes on reasonable grounds that the suspension is necessary for the immediate protection of,
+
 (i) the safety or health of any person or the public,
+
 (ii) the interests of persons selling designated products,
+
 (iii) the interests of persons storing designated products, or
+
 (iv) any fund established under section 26; or
+
 (b) one of the prescribed conditions for issuing the order has been met.
 
 ### Process
@@ -1068,12 +1241,19 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Application
 
 61 (1) This section applies if the Director does any of the following:
+
 1. Proposes to refuse to issue a licence.
+
 2. Proposes to refuse to renew a licence.
+
 3. Proposes to suspend or revoke a licence.
+
 4. Proposes to refuse to remove a condition on a licence.
+
 5. Issues an order imposing conditions on a licence.
+
 6. Issues an order amending a licence.
+
 7. Issues an interim order suspending a licence.
 
 ### Notice
@@ -1083,8 +1263,11 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Content of notice or order
 
 (3) A notice provided under subsection (2) or an order issued under this Part shall include the following information:
+
 1. The reasons for the proposal or order, as the case may be.
+
 2. Information indicating that the applicant or licensee can request a hearing by the Director about the order and informing the applicant or licensee about the process for requesting such a hearing.
+
 3. Any prescribed information for that proposal or order.
 
 ### Right to hearing
@@ -1102,14 +1285,19 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Powers of the Director
 
 (7) If the Director has received a written request under subsection (4), the Director may make the following decisions:
+
 1. Before holding the hearing, the Director may decide to vary or rescind the proposal or order, as the case may be, if the decision would not adversely impact the interests of the applicant, the licensee or a person who has an interest in the licence.
+
 2. After holding the hearing, the Director may make any decision that the Director considers reasonable.
 
 ### Notice of decision
 
 (8) The Director shall give to the applicant or licensee written notice of the decision that includes the following information:
+
 1. The reasons for the decision.
+
 2. Information indicating that the applicant or licensee can request a hearing by the Tribunal about the decision and informing the applicant or licensee about the process for requesting such a hearing.
+
 3. Any prescribed information.
 
 ### Hearing not requested
@@ -1149,9 +1337,13 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Powers of Tribunal
 
 (7) After holding the hearing to review the Director’s decision, the Tribunal shall,
+
 (a) if it finds that the Director’s decision was reasonable, confirm the Director’s decision; or
+
 (b) if it finds the Director’s decision was not reasonable,
+
 (i) substitute its opinion for that of the Director and impose such conditions as it considers appropriate, or
+
 (ii) direct the Director to alter the decision.
 
 ### Appeal to Court
@@ -1177,17 +1369,25 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Powers of Court
 
 (6) Upon hearing the appeal of the Tribunal’s decision, the Court shall,
+
 (a) if it finds that the Tribunal’s decision was reasonable, confirm the Tribunal’s decision; or
+
 (b) if it finds the Tribunal’s decision was not reasonable,
+
 (i) substitute the Court’s opinion for that of the Tribunal and impose such conditions as the Court considers appropriate,
+
 (ii) direct the Director to alter the decision, or
+
 (iii) direct the Tribunal to reconsider the decision.
 
 ### Licence Registry
 
 64 The Minister may, by regulation,
+
 (a) require the Director to establish a publicly available licence registry, which may also include the names of people who are exempted from requiring a licence;
+
 (b) prescribe the manner of establishing the registry and the form and location of the registry;
+
 (c) prescribe the information to be included in the registry.
 
 ## Part IX Inspections and Enforcement
@@ -1197,7 +1397,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Inspectors
 
 65 (1) The Director may, for the purpose of ensuring compliance with this Act and the regulations, designate persons as inspectors in accordance with the following:
+
 1. If the Director is appointed by the Minister, the Director may designate only persons employed by the Ministry.
+
 2. If the Director is appointed by the delegated authority, the Director may designate only persons employed by the delegated authority.
 
 ### Designation of inspectors under other Acts
@@ -1227,14 +1429,23 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Powers of inspector
 
 (3) An inspector conducting an inspection may,
+
 (a) examine records or anything else that is relevant to the inspection;
+
 (b) demand the production of a record or any other thing that is relevant to the inspection;
+
 (c) on issuing a written receipt for it, remove a record or any other thing that is relevant to the inspection for review, examination or testing;
+
 (d) on issuing a written receipt for it, obtain and remove a designated product at the expense of the owner of the designated product;
+
 (e) on issuing a written receipt for it, remove a record or any other thing that is relevant to the inspection for copying;
+
 (f) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place;
+
 (g) take photographs or make any other kind of recording;
+
 (h) inquire into all financial transactions, records and other matters that are relevant to the inspection; and
+
 (i) carry out any other prescribed activity.
 
 ### Obligation to produce and assist
@@ -1244,7 +1455,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Records and things removed from place
 
 (5) A record or other thing that has been removed for review, examination, testing or copying,
+
 (a) shall be made available, on request, to the person from whom it was removed and at a time and place that are convenient for the person and for the inspector; and
+
 (b) shall be returned to the person within a reasonable time, unless, in the case of a thing that has been subject to testing, the thing has been made unsuitable for return as a result of the testing.
 
 ### Enforcement
@@ -1252,8 +1465,11 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Compliance orders
 
 67 (1) This section applies if the Director or an inspector that is permitted by the regulations to issue compliance orders is of the opinion that,
+
 (a) a person is committing any act or pursuing any course of conduct that contravenes or does not comply with a requirement established under this Act, the regulations, a licence or a term or condition on a licence;
+
 (b) a person is committing any act or pursuing any course of conduct that might reasonably be expected to result in a state of affairs that would contravene or not comply with a requirement established under this Act, the regulations, a licence or a term or condition on a licence; or
+
 (c) a person has committed any act or pursued any course of conduct that contravenes or does not comply with a requirement established under this Act, the regulations, a licence or a term or condition on a licence.
 
 ### Order
@@ -1263,9 +1479,13 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Content of order
 
 (3) An order issued under subsection (2) shall include the following information:
+
 1. Any timelines in which the person against whom the order is made is required to comply.
+
 2. The reasons for the order.
+
 3. Information indicating that the person can request a hearing by the Tribunal about the order and informing the person about the process for requesting such a hearing.
+
 4. Any prescribed information.
 
 ### Right to hearing
@@ -1295,7 +1515,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Powers of Tribunal
 
 (10) After holding the hearing to review the decision of the Director or inspector to issue the compliance order, the Tribunal shall,
+
 (a) if it finds that the decision was reasonable, confirm the decision; or
+
 (b) if it finds that the decision was not reasonable, rescind the decision.
 
 ### Burden of proof
@@ -1309,21 +1531,33 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Enforcement re stored designated products
 
 68 (1) The Director may, by order, take the following actions if the Director believes, on reasonable grounds, that such actions are needed to protect the interests of a producer or owner of a designated product being stored with a storage operator:
+
 1. Require the storage operator to cease operating and, if necessary, seal any storage containers, until the amount of the designated product in storage can be ascertained.
+
 2. Seize some or all of the designated product from the storage operator.
+
 3. Move some or all of the designated product to the control of a different storage operator.
+
 4. Distribute the designated product, on a proportionate basis, to the producers or owners of the designated product.
+
 5. Sell some or all of the designated product and distribute the proceeds, on a proportionate basis, to the producers or owners of the designated product.
+
 6. Insure the designated product with an insurer licenced under the Insurance Act.
+
 7. Any prescribed actions.
 
 ### Director’s order
 
 (2) An order issued under subsection (1) shall include the following information:
+
 1. If applicable, the actions the Director will take or the actions the Director is requiring the storage operator to take, as the case may be.
+
 2. Any timelines in which the storage operator is required to comply.
+
 3. The reasons for the order.
+
 4. Information indicating that the storage operator can request a hearing by the Tribunal about the order and informing the storage operator about the process for requesting such a hearing.
+
 5. Any prescribed information.
 
 ### Costs order
@@ -1333,15 +1567,21 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Contents of costs order
 
 (4) An order issued under subsection (3) shall include,
+
 (a) the amount the storage operator is required to pay;
+
 (b) a description of the costs being charged;
+
 (c) copies of receipts for the costs being charged; and
+
 (d) any other prescribed information.
 
 ### Payment
 
 (5) The debt owing pursuant to a costs order is payable to,
+
 (a) His Majesty the King in Right of Ontario if the Minister appointed the Director; or
+
 (b) The delegated authority if the delegated authority appointed the Director.
 
 ### No appeal
@@ -1357,6 +1597,7 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Interpretation
 
 (2) In sections 71 to 78,
+
 “appeal body” means the prescribed appeal body or, if no appeal body is prescribed, the Tribunal.
 
 ### Statutory Powers Procedure Act
@@ -1366,7 +1607,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Purposes
 
 71 (1) An administrative penalty may be imposed under section 70 for the following purposes:
+
 1. To promote compliance with the requirements established under this Act and the regulations.
+
 2. To prevent a person or entity from deriving, directly or indirectly, any economic benefit as a result of contravening or failing to comply with a requirement established under this Act.
 
 ### No limit on other regulatory measures
@@ -1380,15 +1623,21 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Payment
 
 (4) The debt owing pursuant to an administrative penalty is payable to,
+
 (a) His Majesty the King in Right of Ontario if the Minister appointed the Director; or
+
 (b) the delegated authority if the delegated authority appointed the Director.
 
 ### Contents of the order
 
 (5) An order issued under subsection (3) shall include the following information:
+
 1. The amount of the penalty and the payment requirements.
+
 2. The reasons for the order.
+
 3. Information indicating that the person or entity can request a hearing by the appeal body about the order and informing the person about the process for requesting such a hearing.
+
 4. Any prescribed information.
 
 ### Limitation
@@ -1398,7 +1647,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Absolute liability
 
 (7) An order made under subsection (3) imposing an administrative penalty against a person applies even if,
+
 (a) the person took all reasonable steps to prevent the contravention on which the order is based; or
+
 (b) at the time of the contravention, the person had an honest and reasonable belief in a mistaken set of facts that, if true, would have rendered the contravention innocent.
 
 ### No hearing required
@@ -1428,7 +1679,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Powers of appeal body
 
 (5) After holding the hearing to review the Director’s decision to issue the order, the appeal body shall,
+
 (a) if it finds that the Director’s decision was reasonable, confirm the order; or
+
 (b) if it finds that the Director’s decision was not reasonable, rescind the order.
 
 ### Burden of proof
@@ -1450,7 +1703,9 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Timing of payment
 
 74 A person is required to pay the administrative penalty,
+
 (a) at the time set out in the order issued under subsection 71 (3) if no request for hearing is made; or
+
 (b) 30 days after the day the appeal body makes a decision if the decision is to order the Director to impose the proposed administrative penalty.
 
 ### Effect of payment
@@ -1468,32 +1723,51 @@ iii. a trust corporation registered under the Loan and Trust Corporations Act.
 ### Additional remedies
 
 (3) Without limiting the availability of any other remedies, if a person fails to pay an administrative penalty imposed under this Part in accordance with the terms of the order imposing the penalty, the Director may take one or more of the following actions:
+
 1. Pay the administrative penalty from any security the Director holds on behalf of the licenced dealer or licenced storage operator and require a licenced dealer or licensed storage operator to deposit with the Director such additional security as is required to restore the amount of security to its previous levels.
+
 2. If payment is not made in accordance with the terms of the order within 30 days after an administrative penalty was due to be paid, suspend any licence the person holds pursuant to this Act until the administrative penalty is paid and there is no appeal to the Tribunal of such a suspension.
+
 3. If payment is not made in accordance with the terms of the order within 30 days after an administrative penalty was due to be paid, refuse to renew the licence of the person until the administrative penalty is paid and there is no appeal to the Tribunal of such a refusal.
+
 4. If payment is not made in accordance with the terms of the order within 45 days after an administrative penalty was due to be paid, disclose to a consumer reporting agency the name of the person who failed to pay the order, the amount that is payable under the order and the day on which the payment was due to be paid and if the Director takes such action, the Director shall notify the consumer reporting agency within 10 days of having received notice the administrative penalty has been paid.
+
 5. If payment is not made in accordance with the terms of the order within 60 days after an administrative penalty was due to be paid, the Director may issue an order creating a lien against the property of the person.
 
 ### Same, lien
 
 (4) If the Director issues an order creating a lien under paragraph 5 of subsection (3), the following rules apply:
+
 1. If the lien relates to personal property,
+
 i. the Personal Property Security Act, except Part V, applies with necessary modifications to the lien despite clause 4 (1) (a) of that Act,
+
 ii. the lien shall be deemed to be a security interest that has attached for the purposes of the Personal Property Security Act, and
+
 iii. the Director may perfect the security interest for the purposes of the Personal Property Security Act by the registration of a financing statement under that Act.
+
 2. If the lien relates to real property,
+
 i. the Director may register the lien against the real property of the person liable to pay in the proper land registry office and on registration, the obligation under the lien becomes a charge on the property,
+
 ii. no proceedings against the lien shall be initiated, and
+
 iii. the Director shall, within 10 days of learning of the payment of the debt owing under the administrative penalty, discharge the registration of any financing statement or register a discharge created on title.
 
 ### Proceeds
 
 77 The following rules apply with respect to the proceeds from the payment of an administrative penalty:
+
 1. If the administrative penalty was imposed by a Director appointed by the Minister or by a delegated authority that is a Crown Agent, the proceeds shall be placed in,
+
 i. a fund established for the designated product to which the penalty relates, or
+
 ii. if no fund has been established, the Consolidated Revenue Fund.
+
 2. If the administrative penalty was imposed by a Director appointed by a delegated authority that is not a Crown Agent, the proceeds shall be placed in,
+
 i. a fund established for the designated product to which the penalty relates, or
+
 ii. if no fund has been established, the account of the delegated authority.
 
 ### Transition
@@ -1511,34 +1785,55 @@ ii. if no fund has been established, the account of the delegated authority.
 ### Delegated authority
 
 79 (1) If the requirements of sections 80 and 81 are met, the Minister may, by regulation,
+
 (a) designate a corporation as the delegated authority for the purposes of this Act to administer the delegated provisions; and
+
 (b) subject to subsection (3), prescribe the delegated provisions of this Act and the regulations for which a delegated authority is to be delegated authority to administer.
 
 ### Restrictions
 
 (2) A delegation described in clause (1) (b) may be restricted to,
+
 (a) specified aspects or purposes of the specified provisions;
+
 (b) specified persons or classes of persons to whom the specified provisions apply;
+
 (c) specified programs or parts of programs;
+
 (d) specified parts of Ontario; and
+
 (e) specified time periods.
+
 Excepted provisions
+
 (3) The following provisions of this Act shall not be prescribed as delegated provisions:
+
 1. The provisions in this Part.
+
 2. Sections 116 and 117.
+
 3. Where the delegated authority is a Crown Agency, the following provisions:
+
 i. Section 118.
+
 ii. The provisions of Part XIII.
 
 ### More than one delegated authority
 
 (4) Two or more corporations may be prescribed,
+
 (a) to administer different specified provisions of this Act; or
+
 (b) to administer the same specified provisions, but with respect to,
+
 (i) different specified aspects or purposes,
+
 (ii) different specified persons or classes of persons,
+
 (iii) different specified programs or parts of programs,
+
 (iv) different specified parts of Ontario, or
+
 (v) different specified time periods.
 
 ### More than one designated product, fund
@@ -1548,8 +1843,11 @@ ii. The provisions of Part XIII.
 ### Previous administration
 
 (6) Nothing in a delegation of provisions,
+
 (a) invalidates anything that was done under the delegated provisions before the day on which the regulation delegating the provisions comes into force, including, without limitation, regulations, appointments and registrations;
+
 (b) invalidates anything that was done under the Farm Products Payments Act, the Grains Act or the Livestock and Livestock Products Act or their respective regulations before the day on which the regulation delegating the provisions comes into force; or
+
 (c) affects inspections, investigations or proceedings begun under the delegated provisions before the day on which the regulation delegating the provisions comes into force.
 
 ### Persons bound
@@ -1559,7 +1857,9 @@ ii. The provisions of Part XIII.
 ### Eligibility as delegated authority
 
 80 A corporation may be prescribed as the delegated authority if it is,
+
 (a) a Crown Agency; or
+
 (b) a not-for-profit corporation without share capital that is not a Crown Agency and that is incorporated under the laws of Ontario.
 
 ### Requirement for administrative agreement
@@ -1569,8 +1869,11 @@ ii. The provisions of Part XIII.
 ### Contents
 
 (2) The administrative agreement shall include all matters that the Minister considers necessary for delegating the administration of the delegated provisions to the delegated authority, including, at a minimum,
+
 (a) requirements relating to the governance of the delegated authority, unless the delegated authority is a Crown Agency;
+
 (b) requirements with which the delegated authority shall comply in connection with its administration of the delegated provisions, including a requirement for adequate insurance against liability arising out of that administration; and
+
 (c) the financial terms of the delegation, including payments to the Crown, licence fees, royalties and reimbursements for transfer of assets.
 
 ### Amendment by Minister
@@ -1592,7 +1895,9 @@ ii. The provisions of Part XIII.
 ### Duty to advise the Minister
 
 84 (1) The delegated authority shall promptly inform and advise the Minister with respect to,
+
 (a) any material fact that could affect the delegated authority’s ability to perform its duties under this Act or the regulations; or
+
 (b) any urgent or critical matter that is likely to require action by the Minister to ensure that the administration of the delegated provisions is carried out properly.
 
 ### Same
@@ -1602,8 +1907,11 @@ ii. The provisions of Part XIII.
 ### Conflicts
 
 85 In the event of conflict, this Act and the regulations shall prevail over,
+
 (a) the administrative agreement;
+
 (b) the delegated authority’s constating documents, by-laws and resolutions; and
+
 (c) the Not-for-Profit Corporations Act, 2010, the Corporations Information Act or a regulation made under either of those Acts.
 
 ### Liability and indemnification
@@ -1639,9 +1947,13 @@ ii. The provisions of Part XIII.
 ### No personal liability, board members and others
 
 (8) No action or other proceeding shall be instituted against any of the following persons, or a person who was formerly one of the following persons, for an act done in good faith in the execution or intended execution of any of the person’s powers or duties under this Act or the regulations or for an alleged neglect or default in the execution in good faith of that power or duty:
+
 1. Members of the board of directors of the delegated authority.
+
 2. Persons who perform functions under this Act or the regulations as employees or officers of the delegated authority.
+
 3. The Director or any Deputy Directors.
+
 4. Inspectors.
 
 ### Liability of delegated authority
@@ -1679,11 +1991,17 @@ ii. The provisions of Part XIII.
 ### Minister’s authority to require reviews
 
 89 (1) The Minister may, by order,
+
 (a) require that policy, legislative or regulatory reviews related to the delegated provisions, the powers and duties of the delegated authority and the administrative agreement be carried out,
+
 (i) by or on behalf of the delegated authority, or
+
 (ii) by a person or entity specified by the Minister; or
+
 (b) require that reviews of the delegated authority, of its operations, or of both, including, without limitation, performance, governance, accountability and financial reviews, be carried out,
+
 (i) by or on behalf of the delegated authority, or
+
 (ii) by a person specified by the Minister.
 
 ### Access to records and information
@@ -1699,8 +2017,11 @@ ii. The provisions of Part XIII.
 ### Non-compliance
 
 (2) The Minister may, by regulation, revoke the designation of the delegated authority made under clause 79 (1) (a) or restrict the delegation made under clause 79 (1) (b) if,
+
 (a) the delegated authority has failed to comply with this Act, the regulations, other applicable law or the administrative agreement;
+
 (b) the Minister has given the delegated authority an opportunity to remedy the default within the period that the Minister considered reasonable under the circumstances; and
+
 (c) the delegated authority has failed to remedy the default to the Minister’s satisfaction within that period.
 
 ### No restriction on subs. (1)
@@ -1718,7 +2039,9 @@ ii. The provisions of Part XIII.
 ### Transition
 
 (6) If the Minister revokes the designation of the delegated authority or restricts the scope of the delegation under this section, the Minister may, by regulation, provide for any transitional matter necessary for the effective implementation of the revocation or restriction including,
+
 (a) the transfer, without compensation, of any property, including assets, liabilities, rights, obligations, records, databases, accounts and money, that the delegated authority holds in respect of carrying out its activities; and
+
 (b) the assignment, without compensation, of any contracts that the delegated authority has entered into before the revocation.
 
 ### Powers and Duties
@@ -1754,6 +2077,7 @@ ii. The provisions of Part XIII.
 ### Definition
 
 (4) In this section,
+
 “service” means any service or procedure that is provided to the public by the delegated authority in administration of the delegated provisions and includes responding to inquiries from members of the public and any other communications for the purpose of providing the service or procedure.
 
 ### Accessibility for Ontarians with Disabilities Act, 2005
@@ -1763,8 +2087,11 @@ ii. The provisions of Part XIII.
 ### Forms and fees
 
 94 (1) A delegated authority may,
+
 (a) establish forms related to the administration of its delegated provisions and provide for their content;
+
 (b) set and collect fees, costs or other charges related to the administration of the delegated provisions, in accordance with processes and criteria established by the delegated authority and approved by the Minister; and
+
 (c) make rules governing the payment of the fees, costs and charges described in clause (b).
 
 ### Setting fees
@@ -1774,21 +2101,29 @@ ii. The provisions of Part XIII.
 ### Publication of fee schedule
 
 (3) The delegated authority,
+
 (a) shall publish the fees, costs and charges, the processes and criteria and the rules on its website and in any other way described in the administrative agreement; and
+
 (b) may publish them in any other format the delegated authority considers advisable.
 
 ### Requirement of advisory council, advisory process
 
 95 The Minister may require the delegated authority to,
+
 (a) establish one or more advisory councils;
+
 (b) include as members of an advisory council representatives of the public, producers, dealers, agricultural commodity groups, government organizations and other persons the Ministers considers appropriate; and
+
 (c) undertake an advisory process in which it ensures that the advisory council seeks advice from one or both of the public and persons with experience or knowledge relating to this Act and the delegated provisions.
 
 ### Public access to information
 
 96 (1) The delegated authority shall, within the prescribed time, make available to the public on its website,
+
 (a) the prescribed information relating to the compensation of board members, officers and employees and relating to any other payments that it makes or is required to make to them;
+
 (b) its corporate by-laws; and
+
 (c) any other information that is prescribed.
 
 ### Same, transition
@@ -1802,7 +2137,9 @@ ii. The provisions of Part XIII.
 ### Effect of disclosure
 
 (4) The disclosure of information relating to compensation in accordance with this section, or in the reasonable belief that the disclosure is required by this section, shall not be deemed by any court or person,
+
 (a) to contravene any Act or regulation enacted or made before or after the coming into force of this section; or
+
 (b) to be in breach of or contrary to any agreement that purports to restrict or prohibit that disclosure, regardless of whether the agreement is made before or after the coming into force of this section.
 
 ### Corporate Matters
@@ -1818,7 +2155,9 @@ ii. The provisions of Part XIII.
 ### Minister’s authority re board of directors, eligibility and nomination
 
 98 (1) The Minister may,
+
 (a) by order, establish competency criteria for members of the board of directors of the delegated authority; and
+
 (b) by regulation, with respect to the board of directors of the delegated authority, establish rules about the nomination of members, the appointment or election process, the length of their terms and whether they may be reappointed or re-elected.
 
 ### Eligibility for appointment, etc.
@@ -1856,8 +2195,11 @@ ii. The provisions of Part XIII.
 ### Not Crown employees
 
 (2) The following persons are not employees of the Crown and shall not hold themselves out as such:
+
 1. Persons who are employed or whose services are retained under subsection (1).
+
 2. Members, officers and agents of the delegated authority.
+
 3. Members of the board of directors of the delegated authority, including those appointed by the Minister.
 
 ### Not Crown agency
@@ -1867,8 +2209,11 @@ ii. The provisions of Part XIII.
 ### Same
 
 (2) The following persons are not agents of the Crown and shall not hold themselves out as such:
+
 1. Persons who are employed or whose services are retained under subsection 99 (1).
+
 2. Members, officers and agents of the delegated authority.
+
 3. Members of the board of directors of the delegated authority, including those appointed by the Minister.
 
 ### Not public money
@@ -1878,7 +2223,9 @@ ii. The provisions of Part XIII.
 ### Same
 
 (2) The delegated authority may use the money described in subsection (1) to carry out activities in accordance with its objects, subject to,
+
 (a) subsection 42 (1) (payments into funds); and
+
 (b) the administrative agreement.
 
 ### Audit by Auditor General
@@ -1904,9 +2251,13 @@ ii. The provisions of Part XIII.
 ### Minister’s authority to appoint administrator
 
 104 (1) The Minister may, by order, appoint an individual as an administrator of a delegated authority for the purposes of assuming control of it and responsibility for its activities under the delegated provisions if the Minister is of the opinion that it is advisable to do so in the public interest because at least one of the following conditions is satisfied:
+
 1. The exercise of the power is necessary to prevent serious harm to the interests of producers or owners of a designated product or a fund the delegated authority is responsible for administering.
+
 2. An event of force majeure has occurred.
+
 3. The delegated authority is facing a risk of insolvency.
+
 4. The number of members of the board of directors of the delegated authority is insufficient for a quorum.
 
 ### Notice of appointment
@@ -1928,7 +2279,9 @@ ii. The provisions of Part XIII.
 ### Same
 
 (6) For greater certainty, the administrator’s powers under subsection (5) include the authority to,
+
 (a) adjudicate any claims made to any fund the delegated authority was responsible for; or
+
 (b) appoint one or more persons to adjudicate such claims.
 
 ### Same
@@ -1992,19 +2345,29 @@ ii. The provisions of Part XIII.
 ### Prohibition re obstruction
 
 107 No person shall hinder, obstruct or interfere with or attempt to hinder, obstruct or interfere with,
+
 (a) the Director or Deputy Director in fulfilling the duties of the Director or Deputy Director under this Act; or
+
 (b) an inspector conducting an inspection.
 
 ### Type A offences
 
 108 (1) Every person who contravenes or fails to comply with any of the following provisions is guilty of a Type A offence:
+
 1. Subsection 5 (1).
+
 2. Section 7.
+
 3. Subsection 10 (1).
+
 4. Section 12.
+
 5. Subsections 41 (1), (2) and (3).
+
 6. Section 106.
+
 7. Section 107.
+
 8. Any other provision of this Act or the regulations prescribed as a Type A offence.
 
 ### Same re conditions of licence
@@ -2022,24 +2385,39 @@ ii. The provisions of Part XIII.
 ### Type B offences
 
 109 Every dealer, or if the dealer is a corporation, every director, officer, employee or agent of the corporation or other person who has effective control of the corporation, who contravenes or fails to comply with any of the following provisions is guilty of a Type B offence:
+
 1. Subsections 22 (2), (3), (5), (6) and (7).
+
 2. Subsections 23 (3), (4) and (5).
+
 3. Any other provision of this Act or the regulations prescribed as a Type B offence.
 
 ### Type C offences
 
 110 Every person who contravenes or fails to comply with any of the following provisions is guilty of a Type C offence:
+
 1. Subsections 5 (2) and (3).
+
 2. Section 6.
+
 3. Section 9.
+
 4. Subsections 10 (2) and (3).
+
 5. Section 11.
+
 6. Subsections 15 (1) and (3).
+
 7. Subsections 16 (1) to (4) and, unless the Director has issued a shortfall permit, subsection (5).
+
 8. Subsection 17 (2) and clause 17 (3) (b).
+
 9. Section 18.
+
 10. Subsection 19 (1).
+
 11. Section 114.
+
 12. Any other provision of this Act or the regulations prescribed as a Type C offence.
 
 ### Penalties
@@ -2047,19 +2425,25 @@ ii. The provisions of Part XIII.
 ### Type A offences
 
 111 (1) A person who is convicted of a Type A offence under this Act is liable to a fine of,
+
 (a) for a first offence, not more than $10,000; and
+
 (b) for any subsequent offence, not more than $25,000.
 
 ### Type B offences
 
 (2) A person who is convicted of a Type B offence under this Act is liable to a fine of,
+
 (a) for a first offence, not more than $25,000; and
+
 (b) for any subsequent offence, not more than $50,000.
 
 ### Type C offences
 
 (3) A person who is convicted of a Type C offence under this Act is liable to a fine of,
+
 (a) for a first offence, not more than $2,000; and
+
 (b) for any subsequent offence, not more than $5,000.
 
 ### Increased penalties
@@ -2081,8 +2465,11 @@ ii. The provisions of Part XIII.
 ### Limits on restitution order
 
 (3) A court may make a restitution order under subsection (1) only if,
+
 (a) the restitution order is requested by the prosecutor;
+
 (b) the person who suffered damages consents to the order being made; and
+
 (c) the damages that are the object of the restitution order are readily ascertainable.
 
 ### More than one person convicted
@@ -2092,7 +2479,9 @@ ii. The provisions of Part XIII.
 ### Civil action
 
 (5) A restitution order made under subsection (1) extinguishes the right of the person who suffered the damages to bring a civil action for damages against the person convicted of the offence based on the same facts that led to the conviction for the offence unless,
+
 (a) the amount of damages ordered by the court in the restitution order is less than the value of the damage actually suffered; and
+
 (b) at the time the restitution order was made, the court could not have reasonably known the extent of the damages.
 
 ### Same
@@ -2106,7 +2495,9 @@ ii. The provisions of Part XIII.
 ### No double recovery
 
 (8) Where a board or delegated authority has paid a claim in relation to a Part VII designated product or incurred expenses to adjudicate a claim in relation to a Part VII designated product,
+
 (a) a restitution order made under subsection (1) shall not include any amount the Board or delegated authority paid in relation to the Part VII designated product or already recovered; and
+
 (b) as soon as practicable after a restitution order is made under subsection (1), the chair of the board or the chair of the board of directors of the delegated authority, as the case may be, shall rescind any orders made under section 52.
 
 ### Enforcement of restitution order
@@ -2120,13 +2511,21 @@ ii. The provisions of Part XIII.
 ### Confidentiality
 
 114 Any person working for a delegated authority who obtains information in the course of exercising a power or carrying out a duty related to the administration of the delegated provisions shall keep that information confidential except,
+
 (a) as required in connection with a proceeding under this Act or in connection with the administration of this Act or the regulations;
+
 (b) if the Minister requests the person provide such information to the Minister;
+
 (c) as authorized by the Regulatory Modernization Act, 2007;
+
 (d) if required by law to provide the information to a law enforcement agency;
+
 (e) where the person is providing the information to their legal counsel;
+
 (f) with the consent of the person or entity to whom the information relates;
+
 (g) to provide the information to a prescribed entity or organization that is authorized by law to collect and use the information; or
+
 (h) in any other prescribed situation or for any other prescribed purposes.
 
 ### Testimony
@@ -2144,8 +2543,11 @@ ii. The provisions of Part XIII.
 ### Matters of evidence
 
 117 (1) For the purposes of any proceeding, a certificate of service that appears to have been signed by the Minister, the Director or an inspector is evidence of service without proof of the signature if the Minister, Director or inspector, as the case may be,
+
 (a) certifies that the copy of the document is a true copy of it;
+
 (b) certifies that the document was served on the person; and
+
 (c) sets out in it the method of service used.
 
 ### Same
@@ -2161,15 +2563,25 @@ ii. The provisions of Part XIII.
 ### General
 
 118 (1) The Minister may make regulations for the purposes of this Act,
+
 (a) prescribing anything that is referred to in this Act as prescribed;
+
 (b) defining any word or expression used in this Act that is not already defined in this Act;
+
 (c) exempting any person or class or person from all or any part of this Act or the regulations and setting out conditions for the exemption;
+
 (d) governing the taking of samples of any designated product, including prescribing which designated products may be sampled and governing of the operation of sampling;
+
 (e) prescribing forms and providing for their use;
+
 (f) prescribing fees that are payable under this Act with respect to licencing, late filings and other administrative matters;
+
 (g) governing agreements and contracts under this Act, including prescribing the requirements the agreements and contracts must meet and terms and conditions they must include;
+
 (h) governing orders and notices under this Act including prescribing information to be included in any orders or notices under this Act;
+
 (i) governing the service of any notice, order or other document, including deeming service to have been effected on a date determined in accordance with the regulations, and authorizing service outside Ontario;
+
 (j) respecting any matter that is necessary or advisable to implement this Act effectively.
 
 ### Regulations: Part II (Designation of Agricultural Products)
@@ -2179,109 +2591,177 @@ ii. The provisions of Part XIII.
 ### Regulations: Part IV (Dealers)
 
 (3) The Minister may make regulations for the purposes of Part IV,
+
 (a) governing the timing, manner and conditions under which a dealer is required to make payments for designated products purchased from producers;
+
 (b) providing that a dealer and producer may enter into an agreement to purchase or sell a designated product for the purposes of subsection 7 (3), setting out preconditions under which such agreements may be entered into and governing such agreements;
+
 (c) requiring producers or dealers to be members of non-governmental organizations for the purposes of section 8;
+
 (d) prescribing the books and records to be kept by dealers and the manner in which they shall be maintained for the purposes of subsection 9 (1).
 
 ### Regulations: Part V (Storage Operators)
 
 (4) The Minister may make regulations for the purposes of Part V,
+
 (a) governing the standards for the establishment and operation of premises, facilities and equipment used for the storage of Part V designated products;
+
 (b) prescribing the qualifications a storage operator must hold, the manner in which the designated product must be stored and the circumstances and conditions in which the storage takes place for the purposes of subsection 10 (2);
+
 (c) requiring producers, owners or storage operators to be members of non-governmental organizations for the purposes of section 13;
+
 (d) prescribing the requirements and conditions for the storage of a designated product for the purposes of subsection 15 (4);
+
 (e) prescribing the information to be included in a receipt and governing the requirements of such receipts for the purposes of subsection 16 (2);
+
 (f) governing the records of the quantity of designated product that a storage operator must keep for the purposes of subsection 16 (3);
+
 (g) prescribing the terms and conditions that must be met for the Director to issue a shortfall permit for the purposes of subsection 16 (6);
+
 (h) governing property in and title to a designated product for the purposes of clause 17 (4) (b);
+
 (i) prescribing loss, damage and perils for the purposes of subsection 18 (1);
+
 (j) prescribing the information that a storage operator is required to submit for the purposes of subsection 18 (5) and the manner and timing of the submissions.
 
 ### Regulations: Part VI (Trusts)
 
 (5) The Minister may make regulations for the purposes of Part VI,
+
 (a) prescribing amounts of monies that are required to be deposited into a trust for the purposes of subsection 22 (1);
+
 (b) providing that a dealer may appropriate or convert part of a trust fund to the dealer’s own use, or to any use inconsistent with the trust, before the producers are paid all amounts owed to them and prescribing the circumstances in which the dealer may do so for the purposes of subsection 22 (2);
+
 (c) governing records of transactions for the purposes of subsection 22 (6), including prescribing information to be included in such records;
+
 (d) governing payments out of a trust fund for the purposes of subsection 23 (2);
+
 (e) governing disputes and prescribing matters that can be the subject of a dispute for the purposes of subsection 23 (4).
 
 ### Regulations: Part VII (Funds and Boards)
 
 (6) The Minister may make regulations for the purposes of Part VII,
+
 (a) governing the establishment of funds and prescribing persons who are entitled to make claims against such funds;
+
 (b) governing the compensation of producers and owners for the purposes subsection 26 (4);
+
 (c) establishing boards and designating delegated authorities for the purposes of subsection 27 (1);
+
 (d) prescribing the agricultural industry groups that are required to be represented on a board;
+
 (e) prescribing functions and powers of a board for the purposes of paragraph 5 of section 29;
+
 (f) governing the by-laws of the board of directors of a board for the purposes of subsection 30 (4);
+
 (g) providing the powers the board of directors of a board cannot delegate, for the purposes of clause 30 (6) (e);
+
 (h) governing the dissolution of boards, including transitional matters relating to the dissolution of boards, for the purposes of section 38;
+
 (i) governing fees for the purposes of section 41;
+
 (j) governing the collection and remittance of fees for the purposes of subsection 41 (4);
+
 (k) prescribing the conditions and requirements under which a board may borrow money from another fund that it administers for the purposes of clause 43 (1) (c);
+
 (l) governing the submissions of claims to a board for the purposes of section 47;
+
 (m) governing the payment of valid claims for the purposes of subsection 50 (1) including prescribing the grounds upon which a board or panel of a board may pay a claim that is determined to be valid;
+
 (n) governing the refusal of claims for the purposes of subsection 50 (3), including prescribing the circumstances in which a board or panel of a board is required to or may refuse a claim;
+
 (o) governing the determination of amounts to be paid out of a fund for the purposes of subsection 50 (4).
 
 ### Regulations: Part VIII (Licences)
 
 (7) The Minister may make regulations for the purposes of Part VIII,
+
 (a) governing applications for dealer’s licences and storage operator’s licences and the terms of such licences;
+
 (b) governing the requirements that applicants must meet in order to obtain or renew a licence, including requirements related to financial security of the applicant and security that an applicant is required to provide;
+
 (c) governing the administration, forfeiture and disposition of any security that is provided by an applicant;
+
 (d) governing the grounds the Director shall consider in determining whether to refuse to issue or renew a licence;
+
 (e) governing the submission of applications to renew a licence for the purposes of subsection 57 (2) and prescribing information to be included in an application;
+
 (f) prescribing the deadline to submit an application to renew a licence for the purposes of subsection 57 (3);
+
 (g) governing conditions to be imposed on individual licences or on all licences, prescribing the circumstances in which those conditions are to be imposed and governing appeals of conditions imposed on all licences;
+
 (h) prescribing conditions for issuing an interim order to suspend a licence for the purposes of clause 59 (1) (b);
+
 (i) requiring the Director to establish a publicly available licence registry for the purposes of section 64 and prescribing the manner of establishing the registry, the form and location of the registry and the information to be included in the registry.
 
 ### Regulations: Part IX (Inspections and Enforcement)
 
 (8) The Minister may make regulations for the purposes of Part IX,
+
 (a) governing the designation of inspectors;
+
 (b) providing additional powers of an inspector;
+
 (c) governing the circumstances in which an inspector is permitted to issue compliance orders under section 67;
+
 (d) prescribing actions the Director may take for the purpose of paragraph 7 of subsection 68 (1);
+
 (f) designating products with respect to which an administrative penalty can be imposed for the purposes of section 70;
+
 (g) prescribing an appeal body for the purposes of the definition of “appeal body” in subsection 70 (2);
+
 (h) governing the process by which a Director may impose an administrative penalty for the purposes of subsection 71 (3).
 
 ### Regulations: Part X (Delegated Authority)
 
 (9) The Minister may make regulations for the purposes of Part X,
+
 (a) governing the revocation of the designation of a delegated authority and governing any transitional matters that may arise from revoking the designation of a delegated authority or restricting the scope of the delegation;
+
 (b) establishing and governing rules about the nomination of members, the appointment or election process, the length of their terms and whether they may be reappointed or re-elected for the purposes of clause 98 (1) (b);
+
 (c) increasing or decreasing the number of members of the board of directors of the delegated authority for the purposes of subsection 98 (5);
+
 (d) prescribing persons or classes of persons for the purposes of subsection 98 (6) and providing a maximum fixed percentage of members of the board of directors of the delegated authority that shall be drawn from such persons or classes of persons.
 
 ### Regulations: Part XI (Prohibitions and Offences)
 
 (10) The Minister may make regulations for the purposes of Part XI,
+
 (a) prescribing Type A offences for the purposes of subsection 108 (1);
+
 (b) prescribing Type B offences for the purposes of section 109;
+
 (c) prescribing Type C offences for the purposes of section 110;
+
 (d) governing the increase of penalties for the purposes of subsection 111 (4).
 
 ### Regulations: grading
 
 (11) The Minister may make regulations,
+
 (a) establishing and describing standards for the purpose of grading any agricultural products;
+
 (b) providing for the issue of grading certificates and prescribing the form of such certificates;
+
 (c) prescribing the manner in which samples of any agricultural product may be taken for inspection;
+
 (d) providing for and prescribing the manner and conditions of grading, inspection, packing, branding and marking of any agricultural product;
+
 (e) prescribing the manner in and the conditions under which any agricultural product shall be stored, transported, delivered, shipped, advertised, purchased, sold, offered or displayed for sale and the types, sizes, branding, marking and labelling of packages or containers in which any agricultural product shall be contained;
+
 (f) prescribing the manner in which the seller or shipper of ungraded agricultural products shall identify, for purposes of grading, individual producer’s lots in any shipment;
+
 (g) prescribing the manner in which a receiver shall make returns and prepare for presentation to the seller or shipper the statements of account of purchase of any agricultural product and for the investigation of such statements and the transactions represented in the statements;
+
 (h) prescribing the manner in which receipts, classifications, weights and purchase prices shall be recorded at assembling points and abattoirs and made available to the Minister.
 
 ### Rolling incorporation
 
 (12) A regulation made under this section that incorporates another document by reference may provide that the reference to the document includes amendments made to the document from time to time after the regulation is made if,
+
 (a) the regulation, by reference to the document, establishes any grade name, standard or grade; and
+
 (b) the document is incorporated by reference in a regulation made under an Act of Canada that also provides that the reference to the document includes amendments made to the document from time to time after the regulation is made.
 
 ## Part XIII Transition
@@ -2289,15 +2769,21 @@ ii. The provisions of Part XIII.
 ### Transition, regulation
 
 119 (1) The Minister may make regulations providing for transitional matters as the Minister considers necessary or advisable to,
+
 (a) facilitate the implementation of this Act; and
+
 (b) address any transitional matters arising as the result of the repeal of the Farm Products Payments Act, the Grains Act and the Livestock and Livestock Products Act.
 
 ### Same
 
 (2) A regulation made under this section may,
+
 (a) establish a transition period before the repeal of the Farm Products Payments Act, the Grains Act and the Livestock and Livestock Products Act during which the application of those Acts will be phased out;
+
 (b) provide that a provision or requirement of the Farm Products Payments Act, the Grains Act or the Livestock and Livestock Products Act ceases to apply, applies in a modified way or only applies, either as written or in a modified way, to specified geographic areas or specified persons or for a specified period during the transition period;
+
 (c) govern the continuation or conclusion of hearings commenced under the Farm Products Payments Act, the Grains Act and the Livestock and Livestock Products Act before their repeal;
+
 (d) govern other transitional matters that may arise due to the anticipated repeal of the Farm Products Payments Act, the Grains Act and the Livestock and Livestock Products Act.
 
 ### Conflicts
@@ -2307,5 +2793,7 @@ ii. The provisions of Part XIII.
 ### Part XIV (OMITTED)
 
 120-122 Omitted (amends, repeals or revokes other legislation).
+
 123 Omitted (provides for coming into force of provisions of this Act).
+
 124 Omitted (enacts short title of this Act).

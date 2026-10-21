@@ -6,30 +6,38 @@ language: en
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/22a02"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # At Your Service Act, 2022
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/22a02) before relying on it.
 
 S.O. 2022, c. 2, Sched. 1
 
 ### Preamble
 
 Ontario is committed to reducing administrative burdens for those seeking permits, licences, information or any other type of government approval and improving the overall experience for the user by making it easier to access required information and services.
+
 Ontario is dedicated to increasing predictability and keeping government accountable.
 
 ### Definitions
 
 1 In this Act,
+
 “guaranteed service standard” means a service standard that meets the prescribed criteria to be a guaranteed service standard; (“norme de service garanti”)
+
 “prescribed” means prescribed by the regulations made under this Act; (“prescrit”)
+
 “service standard” means a standard established by a ministry or prescribed entity that,
+
 (a) establishes a maximum time period within which the ministry or prescribed entity undertakes to,
+
 (i) respond to a request or application for a permit, licence, information or any other type of approval, or
+
 (ii) make any other decision or perform any other service, and
+
 (b) meets the prescribed criteria. (“norme de service”)
 
 ### Compliance with service standards
@@ -51,7 +59,9 @@ Ontario is dedicated to increasing predictability and keeping government account
 ### Reporting
 
 4 The Government of Ontario shall regularly give public reports on,
+
 (a) whether ministries and prescribed entities are in compliance with any service standards applicable to them; and
+
 (b) the amount of money paid out under section 3.
 
 ### Business Service Standard
@@ -73,11 +83,19 @@ Ontario is dedicated to increasing predictability and keeping government account
 ### Regulations
 
 7 The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing anything that is referred to in this Act as being prescribed;
+
 (b) prescribing criteria that must be met for a service standard to be a guaranteed service standard;
+
 (c) requiring ministries or prescribed entities to establish service standards and prescribing rules governing the service standards;
+
 (d) requiring ministries or prescribed entities to publish service standards and reports respecting their compliance with the service standards, and governing such publication;
+
 (e) providing that a refund or compensation is available where a ministry or prescribed entity fails to comply with a guaranteed service standard and governing the provision of such refund or compensation, including prescribing conditions for eligibility for a refund or compensation and specifying procedures for requesting a refund or compensation;
+
 (f) governing the contents and publication of the Business Service Standard list referred to in section 5.
+
 8 Omitted (provides for coming into force of provisions of this Act).
+
 9 Omitted (enacts short title of this Act).

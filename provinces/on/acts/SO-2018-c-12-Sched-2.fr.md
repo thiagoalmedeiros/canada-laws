@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2025-05-12"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18c12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # licences liées au cannabis (Loi de 2018 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18c12) before relying on it.
 
 L.O. 2018, chap. 12, Annexe 2
 
@@ -21,26 +21,43 @@ L.O. 2018, chap. 12, Annexe 2
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «cannabis» Le cannabis visé par la Loi de 2017 sur le contrôle du cannabis. («cannabis)
+
 «Commission» La Commission des alcools et des jeux de l’Ontario prorogée en application de la Loi de 2019 sur la Commission des alcools et des jeux de l’Ontario. («Commission»)
+
 «conseil» Le conseil de la Commission. («Board»)
+
 «conseil de bande» S’entend au sens de «conseil de la bande» au paragraphe 2 (1) de la Loi sur les Indiens (Canada). («council of the band»)
+
 «distribuer», «Société ontarienne de vente du cannabis» et «vente» S’entendent au sens de la Loi de 2017 sur le contrôle du cannabis. («distribute», «Ontario Cannabis Retail Corporation», «sell»)
+
 «Indien» S’entend au sens du paragraphe 2 (1) de la Loi sur les Indiens (Canada). («Indian»)
+
 «magasin de vente au détail de cannabis» Magasin exploité en vertu d’une autorisation de magasin de vente au détail. («cannabis retail store»)
+
 «ministre» Le procureur général ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «municipalité» Municipalité locale. («municipality»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «registrateur» Le registrateur nommé en application de la Loi de 2019 sur la Commission des alcools et des jeux de l’Ontario. («Registrar»)
+
 «règlements» Règlements pris en vertu de la présente loi. («regulations»)
+
 «réserve» S’entend d’une réserve au sens du paragraphe 2 (1) de la Loi sur les Indiens (Canada) ou d’un établissement indien situé sur des terres de la Couronne et dont les habitants indiens sont traités de la même manière que les Indiens qui résident dans une réserve par Affaires autochtones et du Nord Canada. («reserve»)
+
 «Tribunal» Le Tribunal d’appel en matière de permis créé en application de la Loi de 1999 sur le Tribunal d’appel en matière de permis. («Tribunal») 2018, chap. 12, annexe 2, par. 1 (1)
 
 ### Interprétation : personne intéressée à l’égard d’une autre personne
 
 (2) Pour l’application de la présente loi, une personne est intéressée à l’égard d’une autre personne si, selon le cas :
+
 a) elle a un intérêt bénéficiaire direct ou indirect dans l’entreprise de l’autre personne, notamment à titre de détenteur direct ou indirect d’actions ou d’autres valeurs mobilières, ou le registrateur est d’avis, en se fondant sur des motifs raisonnables, qu’elle peut avoir un tel intérêt;
+
 b) elle exerce un contrôle, directement ou indirectement, sur l’entreprise de l’autre personne ou le registrateur est d’avis, en se fondant sur des motifs raisonnables, qu’elle peut exercer un tel contrôle;
+
 c) elle a fourni un financement, directement ou indirectement, à l’entreprise de l’autre personne ou le registrateur est d’avis, en se fondant sur des motifs raisonnables, qu’elle peut avoir fourni un tel financement.
 
 ### Non-application de la Loi à la Société ontarienne de vente du cannabis
@@ -64,19 +81,29 @@ c) elle a fourni un financement, directement ou indirectement, à l’entreprise
 ### Admissibilité
 
 (4) L’auteur de la demande n’est pas admissible à une licence d’exploitation pour vente au détail dans les circonstances suivantes :
+
 1. Il existe des motifs raisonnables de croire que l’auteur de la demande ne pratiquera pas une saine gestion financière dans l’exploitation de son entreprise de vente au détail de cannabis, compte tenu des antécédents financiers de l’une ou l’autre des personnes visées au paragraphe (5).
+
 2. Il existe des motifs raisonnables de croire que l’auteur de la demande n’exploitera pas son entreprise conformément à la loi, avec intégrité, honnêteté ou dans l’intérêt public, compte tenu de la conduite antérieure ou actuelle de l’une ou l’autre des personnes visées au paragraphe (5).
+
 3. Une personne visée au paragraphe (5) a été déclarée coupable ou accusée d’une infraction, prescrite pour l’application de la présente disposition, à la présente loi, à la Loi de 2017 sur le contrôle du cannabis, à la Loi sur le cannabis (Canada) ou aux règlements pris en vertu de l’une ou l’autre de ces lois.
+
 4. Il existe des motifs raisonnables de croire que l’auteur de la demande exerce des activités qui contreviennent ou ne sont pas conformes à une disposition, prescrite pour l’application de la présente disposition, de la présente loi, de la Loi de 2017 sur le contrôle du cannabis, de la Loi sur le cannabis (Canada) ou des règlements pris en vertu de l’une ou l’autre de ces lois, ou y contreviendraient ou n’y seraient pas conformes si l’auteur de la demande était titulaire d’une licence d’exploitation pour vente au détail.
+
 5. Le registrateur n’est pas convaincu que l’auteur de la demande exercera un contrôle suffisant, directement ou indirectement, sur son entreprise de vente au détail de cannabis.
+
 6. L’auteur de la demande ou un de ses employés ou mandataires fait une fausse déclaration ou fournit des renseignements inexacts dans la demande.
+
 7. Les autres circonstances prescrites.
 
 ### Idem
 
 (5) Les dispositions 1 à 3 du paragraphe (4) s’appliquent aux personnes suivantes :
+
 a) l’auteur de la demande;
+
 b) les personnes intéressées à l’égard de l’auteur de la demande;
+
 c) si l’auteur de la demande est une personne morale, ses administrateurs, dirigeants ou actionnaires et les personnes intéressées à l’égard de ceux-ci.
 
 ### Déclarations de culpabilité ou accusations à l’égard d’une infraction à la Loi réglementant certaines drogues et autres substances (Canada)
@@ -86,7 +113,9 @@ c) si l’auteur de la demande est une personne morale, ses administrateurs, dir
 ### Délivrance de la licence ou refus de la délivrer
 
 (7) Le registrateur examine chaque demande de licence d’exploitation pour vente au détail et, selon le cas :
+
 a) délivre la licence d’exploitation pour vente au détail si l’auteur de la demande a satisfait aux exigences relatives à la demande, n’est pas inadmissible à une telle licence et a acquitté les droits exigés;
+
 b) présente une proposition de refus de la demande.
 
 ### Conditions sur consentement
@@ -96,13 +125,17 @@ b) présente une proposition de refus de la demande.
 ### Autorisation de magasin de vente au détail
 
 4 (1) Sous réserve des règlements, les personnes suivantes peuvent présenter au registrateur une demande d’autorisation de magasin de vente au détail pour exploiter un magasin de vente au détail de cannabis proposé précisé :
+
 1. Le titulaire d’une licence d’exploitation pour vente au détail, sous réserve des conditions dont est assortie la licence.
+
 2. L’auteur d’une demande de licence d’exploitation pour vente au détail.
 
 ### Restriction : résolution applicable en vigueur
 
 (2) Malgré le paragraphe (1), une demande d’autorisation de magasin de vente au détail ne peut être présentée à l’égard d’un magasin de vente au détail de cannabis proposé qui serait situé :
+
 a) dans une municipalité où ne peuvent être situés des magasins de vente au détail de cannabis conformément à l’article 41;
+
 b) dans une réserve où ne peuvent être situés des magasins de vente au détail de cannabis conformément à l’article 43.
 
 ### Restriction : refus ou révocation antérieurs
@@ -112,8 +145,11 @@ b) dans une réserve où ne peuvent être situés des magasins de vente au déta
 ### Restriction : producteurs
 
 (4) Toute personne qui est titulaire d’une licence prescrite délivrée en vertu de la Loi sur le cannabis (Canada) pour produire du cannabis à des fins commerciales ou, si aucune licence n’est prescrite, toute personne qui est titulaire d’une telle licence, est assujettie aux restrictions suivantes à l’égard d’une demande qu’elle peut présenter en vertu du paragraphe (1) :
+
 1. Sauf disposition contraire des règlements, le magasin de vente au détail de cannabis proposé doit être situé sur le site indiqué sur la licence ou dans les limites de celui-ci.
+
 2. La personne et les membres du même groupe, au sens des règlements, ne peuvent détenir entre eux plus d’une autorisation de magasin de vente au détail ou plus d’un autre nombre prescrit de telles autorisations.
+
 3. Les autres restrictions prescrites.
 
 ### Un seul magasin par autorisation
@@ -123,27 +159,41 @@ b) dans une réserve où ne peuvent être situés des magasins de vente au déta
 ### Admissibilité
 
 (6) L’auteur d’une demande n’est pas admissible à une autorisation de magasin de vente au détail à l’égard d’un magasin de vente au détail de cannabis proposé dans les circonstances suivantes :
+
 1. L’auteur de la demande n’est ou ne serait pas, au moment de la délivrance de l’autorisation, titulaire d’une licence d’exploitation pour vente au détail, ou il est titulaire d’une telle licence assujettie à des conditions qui empêchent la présentation d’une demande d’autorisation de magasin de vente au détail ou la délivrance d’une telle autorisation à l’égard du magasin proposé.
+
 2. La personne visée aux alinéas 3 (5) a) à c) a été déclarée coupable ou accusée d’une infraction, prescrite pour l’application de la présente disposition, à la présente loi, à la Loi de 2017 sur le contrôle du cannabis, à la Loi sur le cannabis (Canada) ou aux règlements pris en vertu de l’une ou l’autre de ces lois.
+
 3. Il existe des motifs raisonnables de croire que l’auteur de la demande exerce des activités qui contreviennent ou ne sont pas conformes à une disposition, prescrite pour l’application de la présente disposition, de la présente loi, de la Loi de 2017 sur le contrôle du cannabis, de la Loi sur le cannabis (Canada) ou des règlements pris en vertu de l’une ou l’autre de ces lois, ou y contreviendraient ou n’y seraient pas conformes si l’auteur de la demande était titulaire d’une autorisation de magasin de vente au détail.
+
 4. L’auteur de la demande emploie ou compte employer un particulier qui n’est pas titulaire d’une licence de gérant de magasin de vente au détail de cannabis pour exercer l’une ou l’autre des fonctions énoncées au paragraphe 5 (1).
+
 5. La délivrance de l’autorisation de magasin de vente au détail à l’égard d’un magasin proposé est contraire à l’intérêt public, compte tenu des besoins et désirs des résidents de la municipalité où serait situé le magasin de vente au détail de cannabis proposé.
+
 6. S’il s’agit d’un magasin de vente au détail de cannabis proposé qui serait situé dans une réserve, le conseil de la bande n’a pas approuvé, par adoption d’une résolution visant le magasin proposé, l’emplacement du magasin proposé dans la réserve.
+
 7. Les lieux, l’équipement et les installations du magasin proposé ne sont pas, ou ne seraient pas si l’autorisation était délivrée, conformes à la présente loi, aux règlements ou aux normes et exigences fixées en vertu de l’article 26, ou le registrateur est convaincu que l’auteur de la demande n’exercera pas un contrôle suffisant, directement ou indirectement, sur les lieux, l’équipement et les installations.
+
 8. L’auteur de la demande ou un de ses employés ou mandataires fait une fausse déclaration ou fournit des renseignements inexacts dans la demande.
+
 9. Les autres circonstances prescrites.
 
 ### Avis public
 
 (7) Pour l’application de la disposition 5 du paragraphe (6), le registrateur donne avis d’une demande d’autorisation de magasin de vente au détail de toutes les manières suivantes :
+
 a) en affichant un avis à l’emplacement du magasin de vente au détail de cannabis proposé qui est précisé dans la demande;
+
 b) en affichant un avis sur le site Web de la Commission;
+
 c) de toute autre manière qu’il estime appropriée.
 
 ### Exception
 
 (8) Le paragraphe (7) ne s’applique pas si, selon le cas :
+
 a) l’auteur de la demande est inadmissible, pour tout autre motif, à une autorisation de magasin de vente au détail;
+
 b) le paragraphe (12) empêche la délivrance de l’autorisation de magasin de vente au détail.
 
 ### Idem
@@ -153,7 +203,9 @@ b) le paragraphe (12) empêche la délivrance de l’autorisation de magasin de 
 ### Délivrance de l’autorisation ou refus de la délivrer
 
 (10) Le registrateur examine chaque demande d’autorisation de magasin de vente au détail et, selon le cas :
+
 a) sous réserve du paragraphe (12), il délivre l’autorisation de magasin de vente au détail si l’auteur de la demande a satisfait aux exigences relatives à la demande, n’est pas inadmissible à une telle autorisation et a acquitté les droits exigés;
+
 b) il refuse la demande.
 
 ### Prise en compte des observations et résolutions
@@ -163,9 +215,13 @@ b) il refuse la demande.
 ### Cas où il n’est pas délivré d’autorisation
 
 (12) Le registrateur refuse de délivrer une autorisation de magasin de vente au détail :
+
 a) dans le cas où le magasin de vente au détail de cannabis proposé serait situé à une distance inférieure à celle précisée par les règlements ou établie conformément à ceux-ci :
+
 (i) soit d’une école, au sens de la Loi sur l’éducation,
+
 (ii) soit de toute autre utilisation du sol prescrite;
+
 b) dans les autres circonstances prescrites.
 
 ### Conditions sur consentement
@@ -179,9 +235,13 @@ b) dans les autres circonstances prescrites.
 ### Licence de gérant de magasin de vente au détail de cannabis
 
 5 (1) Sous réserve des règlements, le particulier qui souhaite exercer une ou plusieurs des fonctions suivantes à l’égard d’un magasin de vente au détail de cannabis peut présenter au registrateur une demande de licence de gérant de magasin de vente au détail de cannabis :
+
 1. Superviser ou gérer les employés d’un magasin de vente au détail de cannabis.
+
 2. Superviser ou coordonner la vente ou la distribution de cannabis.
+
 3. Gérer les problèmes de conformité liés à la vente de cannabis.
+
 4. Agir en tant que signataire autorisé pour acheter du cannabis, conclure des contrats ou faire des offres d’emploi.
 
 ### Restriction : âge
@@ -195,10 +255,15 @@ b) dans les autres circonstances prescrites.
 ### Admissibilité
 
 (4) L’auteur d’une demande n’est pas admissible à une licence de gérant de magasin de vente au détail de cannabis dans les circonstances suivantes :
+
 1. Il existe des motifs raisonnables de croire que l’auteur de la demande, dans l’exercice de ses fonctions de gérant d’un magasin de vente au détail de cannabis, n’agira pas conformément à la loi, avec intégrité, honnêteté ou dans l’intérêt public, compte tenu de sa conduite antérieure ou actuelle.
+
 2. L’auteur de la demande a été déclaré coupable ou accusé d’une infraction, prescrite pour l’application de la présente disposition, à la présente loi, à la Loi de 2017 sur le contrôle du cannabis, à la Loi sur le cannabis (Canada) ou aux règlements pris en vertu de l’une ou l’autre de ces lois.
+
 3. Il existe des motifs raisonnables de croire que l’auteur de la demande exerce des activités qui contreviennent ou ne sont pas conformes à une disposition, prescrite pour l’application de la présente disposition, de la présente loi, de la Loi de 2017 sur le contrôle du cannabis, de la Loi sur le cannabis (Canada) ou des règlements pris en vertu de l’une ou l’autre de ces lois, ou y contreviendraient ou n’y seraient pas conformes si l’auteur de la demande était titulaire d’une licence de gérant de magasin de vente au détail de cannabis.
+
 4. L’auteur de la demande fait une fausse déclaration ou fournit des renseignements inexacts dans la demande.
+
 5. Les autres circonstances prescrites.
 
 ### Déclarations de culpabilité ou accusations à l’égard d’une infraction à la Loi réglementant certaines drogues et autres substances (Canada)
@@ -208,7 +273,9 @@ b) dans les autres circonstances prescrites.
 ### Délivrance de la licence de gérant ou refus de la délivrer
 
 (6) Le registrateur examine chaque demande de licence de gérant de magasin de vente au détail de cannabis et, selon le cas :
+
 a) délivre la licence de gérant de magasin de vente au détail de cannabis si l’auteur de la demande a satisfait aux exigences relatives à la demande, n’est pas inadmissible à une telle licence et a acquitté les droits exigés;
+
 b) présente une proposition de refus de la demande.
 
 ### Conditions sur consentement
@@ -220,27 +287,41 @@ b) présente une proposition de refus de la demande.
 ### Licences d’exploitation pour vente au détail
 
 6 (1) La licence d’exploitation pour vente au détail est assujettie aux conditions suivantes :
+
 1. Le titulaire doit observer la présente loi, la Loi de 2017 sur le contrôle du cannabis, la Loi sur le cannabis (Canada) et les règlements pris en vertu de l’une ou l’autre de ces lois.
+
 2. Si une autorisation de magasin de vente au détail lui est délivrée, le titulaire doit se conformer aux conditions dont celle-ci est assortie.
+
 3. Toute condition précisée en vertu de la présente loi par le registrateur et dont est assortie la licence.
+
 4. Toute condition imposée par le Tribunal.
+
 5. Toute condition prescrite.
 
 ### Autorisations de magasin de vente au détail
 
 (2) L’autorisation de magasin de vente au détail est assujettie aux conditions suivantes :
+
 1. Le titulaire doit observer la présente loi, la Loi de 2017 sur le contrôle du cannabis, la Loi sur le cannabis (Canada) et les règlements pris en vertu de l’une ou l’autre de ces lois.
+
 2. Toute condition précisée en vertu de la présente loi par le registrateur et dont est assortie la licence.
+
 3. Toute condition imposée par le Tribunal.
+
 4. Les conditions énoncées à l’article 7.
+
 5. Toute condition prescrite.
 
 ### Licences de gérant de magasin de vente au détail de cannabis
 
 (3) La licence de gérant de magasin de vente au détail de cannabis est assujettie aux conditions suivantes :
+
 1. Le titulaire doit observer la présente loi, la Loi de 2017 sur le contrôle du cannabis, la Loi sur le cannabis (Canada) et les règlements pris en vertu de l’une ou l’autre de ces lois.
+
 2. Toute condition précisée en vertu de la présente loi par le registrateur et dont est assortie la licence.
+
 3. Toute condition imposée par le Tribunal.
+
 4. Toute condition prescrite.
 
 ### Obligation de se conformer aux conditions
@@ -262,7 +343,9 @@ b) présente une proposition de refus de la demande.
 ### Conditions précisées par le registrateur
 
 (8) Le registrateur peut en tout temps réexaminer une licence d’exploitation pour vente au détail, une licence de gérant de magasin de vente au détail de cannabis ou une autorisation de magasin de vente au détail et peut :
+
 a) soit assortir la licence ou l’autorisation de toutes autres conditions auxquelles consent son titulaire;
+
 b) soit présenter une proposition visant à assortir la licence ou l’autorisation de toutes autres conditions qu’il juge appropriées pour la réalisation des objets de la présente loi.
 
 ### Suppression de certaines conditions par le registrateur
@@ -290,9 +373,13 @@ b) soit présenter une proposition visant à assortir la licence ou l’autorisa
 ### Restriction des activités commerciales : art. 69 de la Loi sur le cannabis (Canada)
 
 (4) Le titulaire d’une autorisation de magasin de vente au détail :
+
 a) ne doit pas vendre ou distribuer du cannabis qui n’a pas été produit par une personne ou entité autorisée, sous le régime de la Loi sur le cannabis (Canada), à produire du cannabis à des fins commerciales;
+
 b) ne doit pas vendre ou distribuer du cannabis à un particulier âgé de moins de 19 ans et, à cette fin, les paragraphes 7 (2) et (3) de la Loi de 2017 sur le contrôle du cannabis et les règlements pris pour l’application de ces paragraphes s’appliquent avec les adaptations nécessaires;
+
 c) doit conserver, en ce qui a trait à ses activités liées au cannabis qui est en sa possession, les documents pertinents, conformément aux règlements et aux normes et exigences applicables fixées en vertu de l’article 26 de la présente loi;
+
 d) doit prendre des mesures adéquates, conformément aux règlements et aux normes et exigences applicables fixées en vertu de l’article 26, afin de réduire le risque que le cannabis qui est en sa possession soit détourné vers un marché illicite ou pour une activité illicite.
 
 ### Personnes en état d’intoxication
@@ -310,24 +397,35 @@ d) doit prendre des mesures adéquates, conformément aux règlements et aux nor
 ### Renouvellement ou refus
 
 (3) Le registrateur, selon le cas :
+
 a) sous réserve de l’alinéa b), accorde le renouvellement si le titulaire a satisfait aux exigences relatives à la demande et a acquitté les droits exigés;
+
 b) présente une proposition de refus de renouvellement de la licence ou de l’autorisation :
+
 (i) soit si le titulaire a contrevenu ou ne s’est pas conformé à la présente loi ou aux règlements,
+
 (ii) soit pour un motif visé au paragraphe 3 (4) s’il s’agit d’une licence d’exploitation pour vente au détail, au paragraphe 4 (6), à l’exclusion des dispositions 5 et 6, s’il s’agit d’une autorisation de magasin de vente au détail ou au paragraphe 5 (4) s’il s’agit d’une licence de gérant de magasin de vente au détail de cannabis, qui rendrait le titulaire inadmissible à la licence ou à l’autorisation s’il était l’auteur d’une demande.
 
 ### Maintien en vigueur en attente d’une décision
 
 (4) Si le titulaire d’une licence ou d’une autorisation délivrée en vertu de la présente loi a satisfait aux exigences relatives à la demande de renouvellement et a acquitté les droits exigés, la licence ou l’autorisation est réputée rester valide :
+
 a) soit jusqu’à ce que le renouvellement soit accordé;
+
 b) soit, si le registrateur délivre un avis de proposition de refus de renouvellement de la licence ou de l’autorisation, jusqu’à l’expiration aux termes du paragraphe 14 (2) du délai imparti pour donner un avis demandant une audience et, si une audience est demandée, jusqu’à ce que l’ordonnance devienne définitive.
 
 ### Demandes de renseignements
 
 9 (1) Le registrateur peut demander des renseignements et mener les enquêtes, sur la réputation, les antécédents financiers et la compétence de l’une ou l’autre des personnes suivantes, qui sont nécessaires pour déterminer si, à l’égard d’une demande de licence ou d’autorisation visée par la présente loi ou d’une demande de renouvellement d’une licence ou d’une autorisation, l’auteur de la demande ou le titulaire satisfait aux exigences relatives à une licence, à une autorisation ou à un renouvellement, selon le cas :
+
 1. L’auteur de la demande ou le titulaire.
+
 2. Les personnes intéressées à l’égard de l’auteur de la demande ou du titulaire.
+
 3. Dans le cas d’une demande de renouvellement ou de délivrance d’une autorisation de magasin de vente au détail, les personnes intéressées à l’égard du magasin de vente au détail de cannabis actuel ou proposé pour lequel l’autorisation est ou serait délivrée.
+
 4. Si l’auteur de la demande ou le titulaire est une personne morale, les administrateurs, les dirigeants ou les actionnaires d’une personne visée à la disposition 1, 2 ou 3.
+
 5. Tout particulier employé dans un magasin de vente au détail de cannabis.
 
 ### Interprétation : personnes intéressées à l’égard d’un magasin
@@ -359,7 +457,9 @@ b) soit, si le registrateur délivre un avis de proposition de refus de renouvel
 ### Proposition de révocation ou de suspension
 
 11 (1) Le registrateur peut présenter une proposition de révocation ou de suspension d’une licence ou d’une autorisation délivrée en vertu de la présente loi :
+
 a) soit s’il croit, en se fondant sur des motifs raisonnables, que le titulaire a contrevenu ou ne s’est pas conformé à la présente loi ou aux règlements;
+
 b) soit pour un motif visé au paragraphe 3 (4) s’il s’agit d’une licence d’exploitation pour vente au détail, au paragraphe 4 (6), à l’exclusion des dispositions 5 et 6, s’il s’agit d’une autorisation de magasin de vente au détail ou au paragraphe 5 (4) s’il s’agit d’une licence de gérant de magasin de vente au détail de cannabis, qui rendrait le titulaire inadmissible à la licence ou à l’autorisation s’il était l’auteur d’une demande.
 
 ### Suspension sans proposition
@@ -369,8 +469,11 @@ b) soit pour un motif visé au paragraphe 3 (4) s’il s’agit d’une licence 
 ### Révocation sans proposition
 
 (3) Malgré les paragraphes (1) et (2), le registrateur révoque une licence ou une autorisation délivrée en vertu de la présente loi sans présenter de proposition si le titulaire ou toute autre personne prescrite est déclaré coupable d’avoir contrevenu, selon le cas :
+
 a) à l’article 6, 7 ou 13 de la Loi de 2017 sur le contrôle du cannabis ;
+
 b) à l’article 10 de la Loi sur le cannabis (Canada);
+
 c) à toute autre disposition prescrite de la Loi de 2017 sur le contrôle du cannabis, de la Loi sur le cannabis (Canada) ou des règlements pris en vertu de l’une ou l’autre de ces lois.
 
 ### Avis et prise d’effet immédiate
@@ -398,15 +501,21 @@ c) à toute autre disposition prescrite de la Loi de 2017 sur le contrôle du ca
 ### Effet de la révocation ou du non-renouvellement d’une autorisation de magasin de vente au détail
 
 (3) Si l’autorisation de magasin de vente au détail est révoquée ou n’est pas renouvelée et que le registrateur le juge approprié dans les circonstances, il peut, sans présenter de proposition, révoquer ou suspendre, selon le cas :
+
 a) toute autre autorisation de magasin de vente au détail que détient le même titulaire;
+
 b) la licence d’exploitation pour vente au détail du titulaire;
+
 c) les deux.
 
 ### Effet de la suspension d’une autorisation de magasin de vente au détail
 
 (4) Si l’autorisation de magasin de vente au détail est suspendue et que le registrateur le juge approprié dans les circonstances, il peut, sans présenter de proposition, suspendre, selon le cas :
+
 a) toute autre autorisation de magasin de vente au détail que détient le même titulaire;
+
 b) la licence d’exploitation pour vente au détail du titulaire;
+
 c) les deux.
 
 ### Avis
@@ -420,13 +529,17 @@ c) les deux.
 ### Annulation à la demande du titulaire
 
 13 (1) Sous réserve du paragraphe (2), le registrateur peut annuler une licence ou une autorisation délivrée en vertu de la présente loi à la demande du titulaire si celui-ci :
+
 a) d’une part, en fait la demande au registrateur par écrit;
+
 b) d’autre part, rend la licence ou l’autorisation au registrateur.
 
 ### Titulaire d’une licence d’exploitation pour vente au détail et d’une autorisation
 
 (2) Si le titulaire d’une licence d’exploitation pour vente au détail qui est aussi le titulaire d’une ou de plusieurs autorisations de magasin de vente au détail souhaite faire annuler sa licence :
+
 a) il rend chaque autorisation au registrateur avec la licence;
+
 b) chaque autorisation est annulée avec la licence.
 
 ### Avis de proposition
@@ -452,7 +565,9 @@ b) chaque autorisation est annulée avec la licence.
 ### Ordonnance
 
 (2) Après avoir tenu l’audience, le Tribunal peut, par ordonnance, faire ce qui suit :
+
 a) confirmer ou annuler la proposition ou la décision du registrateur;
+
 b) enjoindre, par directive, au registrateur de prendre les mesures qu’il précise et qu’il estime appropriées pour réaliser l’objet de la présente loi.
 
 ### Discrétion du Tribunal
@@ -482,7 +597,9 @@ b) enjoindre, par directive, au registrateur de prendre les mesures qu’il pré
 ### Approbation ou refus
 
 (3) Le registrateur examine chaque demande de cession et :
+
 a) soit approuve la cession si les exigences prescrites sont remplies;
+
 b) soit, si les exigences prescrites ne sont pas remplies, refuse la demande ou présente une proposition de refus de la demande, selon ce que précisent les règlements.
 
 ### Conditions antérieures
@@ -498,7 +615,9 @@ b) soit, si les exigences prescrites ne sont pas remplies, refuse la demande ou 
 ### Restriction sur les produits et services
 
 18 Le titulaire d’une autorisation de magasin de vente au détail ne peut vendre ou demander un paiement que pour ce qui suit :
+
 a) le cannabis qu’il a acheté directement auprès de la Société ontarienne de vente du cannabis, dans l’emballage dans lequel il l’a acheté, sous réserve des règlements;
+
 b) les autres produits ou services prescrits.
 
 ### Achat de cannabis par le titulaire
@@ -508,12 +627,15 @@ b) les autres produits ou services prescrits.
 ### Distribution
 
 20 Le titulaire d’une autorisation de magasin de vente au détail veille à ce que la distribution du cannabis qu’il vend se fasse uniquement :
+
 a) soit en personne, au magasin de vente au détail ou dans une aire immédiatement adjacente à celui-ci;
+
 b) soit par livraison.
 
 ### Limites quant à la quantité vendue ou distribuée
 
 21 (1) La définition qui suit s’applique au présent article.
+
 «quantité de cannabis maximale permise» S’entend de 30 grammes de cannabis séché ou la quantité équivalente d’une autre catégorie de cannabis fixée selon l’annexe 3 de la Loi sur le cannabis (Canada), ou toute autre quantité prescrite.
 
 ### Limite quant à la quantité vendue en personne au magasin de vente au détail
@@ -547,7 +669,9 @@ b) soit par livraison.
 ### Gérants de magasin de vente au détail de cannabis
 
 25 (1) Seul peut exercer l’une ou l’autre des fonctions énoncées au paragraphe 5 (1) à l’égard d’un magasin de vente au détail de cannabis le particulier qui est :
+
 a) soit titulaire d’une licence de gérant de magasin de vente au détail de cannabis;
+
 b) soit titulaire d’une licence d’exploitation pour vente au détail.
 
 ### Idem
@@ -561,14 +685,23 @@ b) soit titulaire d’une licence d’exploitation pour vente au détail.
 ### Normes et exigences
 
 26 (1) Le registrateur peut fixer des normes et des exigences traitant des questions suivantes portant sur la conduite des titulaires de licences ou d’autorisations délivrées en vertu de la présente loi ou sur l’exploitation des magasins de vente au détail de cannabis :
+
 1. Les lieux, l’équipement et les installations du magasin, y compris la surveillance et la sécurité.
+
 2. La prévention d’activités illégales, y compris l’interdiction faite à certains particuliers d’entrer dans des magasins de vente au détail de cannabis ou toute restriction qui leur est imposée à cet égard.
+
 3. La publicité et les activités promotionnelles.
+
 4. La formation et les autres mesures ayant trait à la consommation, à la vente ou à la distribution responsables du cannabis.
+
 5. La protection des actifs, y compris l’argent et les équivalents.
+
 6. La tenue de documents, y compris de registres financiers.
+
 7. Des mesures raisonnables visant à maintenir la confidentialité et la sécurité des documents, y compris des mesures visant à éliminer de manière sécuritaire les documents et à empêcher l’accès non autorisé à ceux-ci.
+
 8. La conformité au système de suivi du cannabis établi en vertu de l’article 81 de la Loi sur le cannabis (Canada).
+
 9. Les autres questions prescrites portant sur la conduite des titulaires de licences ou d’autorisations délivrées en vertu de la présente loi ou sur l’exploitation de magasins de vente au détail de cannabis.
 
 ### Incompatibilité
@@ -608,12 +741,19 @@ b) soit titulaire d’une licence d’exploitation pour vente au détail.
 ### Pouvoirs de l’inspecteur
 
 (2) L’inspecteur qui effectue une inspection peut faire ce qui suit :
+
 a) examiner des dossiers ou d’autres choses qui se rapportent à l’inspection, y compris examiner et ouvrir tout emballage ou autre contenant;
+
 b) demander la production de dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 c) sur remise d’un récépissé écrit à cet effet, enlever, pour procéder à des examens, des analyses ou des tests, des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 d) sur remise d’un récépissé écrit à cet effet, enlever, pour en tirer des copies, des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 e) afin de produire un dossier sous une forme lisible, recourir aux dispositifs ou systèmes de stockage, de traitement ou d’extraction des données qui sont utilisés habituellement pour exercer des activités commerciales dans le lieu;
+
 f) prendre des photographies ou procéder à tout autre genre d’enregistrement;
+
 g) se renseigner sur les opérations financières, les dossiers et les autres questions qui se rapportent à l’inspection.
 
 ### Demande par écrit
@@ -627,7 +767,9 @@ g) se renseigner sur les opérations financières, les dossiers et les autres qu
 ### Enlèvement de dossiers et de choses
 
 (5) Les dossiers ou autres choses enlevés pour examen, analyse, test ou copie sont :
+
 a) mis à la disposition de la personne à qui ils ont été enlevés, à la demande de celle-ci et aux date, heure et lieu qui conviennent à cette personne et à l’inspecteur;
+
 b) restitués à cette personne dans un délai raisonnable, sauf si, dans le cas d’une chose qui a fait l’objet de tests, ces tests l’ont rendue hors d’état d’être restituée.
 
 ### Copie admissible en preuve
@@ -669,15 +811,21 @@ b) restitués à cette personne dans un délai raisonnable, sauf si, dans le cas
 ### Mandats
 
 30 (1) Sur demande sans préavis d’un enquêteur, un juge de paix peut décerner un mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il existe des motifs raisonnables de croire ce qui suit :
+
 a) une contravention à la présente loi ou aux règlements ou leur inobservation s’est produite ou risque vraisemblablement de se produire;
+
 b) une chose quelconque se rapportant à la contravention à la présente loi ou aux règlements, ou à leur inobservation, se trouve dans un lieu ou moyen de transport.
 
 ### Pouvoirs conférés par le mandat
 
 (2) Sous réserve des conditions qui y figurent, le mandat obtenu en vertu du paragraphe (1) autorise l’enquêteur à faire ce qui suit :
+
 a) pénétrer dans le lieu ou moyen de transport précisé dans le mandat ou y avoir accès et examiner et saisir toute chose mentionnée dans le mandat;
+
 b) recourir aux dispositifs ou systèmes de stockage, de traitement ou d’extraction des données utilisés pour exercer des activités commerciales en vue de produire, sous quelque forme que ce soit, des renseignements ou des éléments de preuve mentionnés dans le mandat;
+
 c) exiger d’une personne qu’elle produise les éléments de preuve ou les renseignements mentionnés dans le mandat et qu’elle fournisse l’aide qui est raisonnablement nécessaire, notamment en recourant à un dispositif ou système de stockage, de traitement ou d’extraction des données pour produire, sous quelque forme que ce soit, ces éléments de preuve ou renseignements;
+
 d) utiliser toute technique ou méthode d’enquête ou accomplir tout acte qui est mentionné dans le mandat.
 
 ### Production et aide obligatoires
@@ -687,7 +835,9 @@ d) utiliser toute technique ou méthode d’enquête ou accomplir tout acte qui 
 ### Entrée dans un logement
 
 (4) Malgré le paragraphe (2), l’enquêteur ne doit exercer le pouvoir conféré par un mandat de pénétrer dans un lieu ou moyen de transport ou une partie d’un lieu ou moyen de transport qui sert effectivement de logement que si les conditions suivantes sont réunies :
+
 a) le juge de paix est informé du fait que le mandat est demandé afin d’autoriser l’entrée dans un logement;
+
 b) le juge de paix autorise l’entrée dans le logement.
 
 ### Conditions du mandat
@@ -737,13 +887,17 @@ b) le juge de paix autorise l’entrée dans le logement.
 ### Perquisition dans des moyens de transport sans mandat
 
 32.1 (1) La définition qui suit s’applique au présent article.
+
 «véhicule» S’entend d’un véhicule automobile, d’une remorque, d’une locomotive routière, d’un tracteur agricole, d’une machine à construire des routes, d’une bicyclette ou d’une motoneige, à l’exclusion d’un tramway, et s’entend en outre de tout ce qui est fixé au véhicule.
 
 ### Idem
 
 (2) Pour l’application et l’exécution de la présente loi et des règlements, l’enquêteur désigné aux fins du présent article par le registrateur qui croit, en se fondant sur des motifs raisonnables, qu’un véhicule, un bâtiment, du matériel de chemin de fer sur rails ou un aéronef contient des preuves d’une contravention à la présente loi ou aux règlements peut :
+
 a) sans mandat, l’arrêter et le retenir;
+
 b) examiner son contenu, y compris le chargement, ainsi que les manifestes, dossiers, comptes, pièces justificatives, écrits ou autres documents qui peuvent servir de preuve de la contravention;
+
 c) sous réserve du paragraphe (3), saisir et emporter les manifestes, dossiers, comptes, pièces justificatives, écrits ou autres documents et les conserver jusqu’à ce qu’ils soient produits dans une instance judiciaire.
 
 ### Demande de conservation des documents
@@ -785,15 +939,21 @@ c) sous réserve du paragraphe (3), saisir et emporter les manifestes, dossiers,
 ### Ordonnance de restitution
 
 35 (1) La Cour de justice de l’Ontario peut, sur requête de toute personne présentée dans les 30 jours suivant la saisie autorisée en vertu de la présente loi, ordonner que les choses saisies soient restituées sans délai au requérant si elle est convaincue de ce qui suit :
+
 a) le requérant a droit à la possession des choses saisies;
+
 b) les choses saisies ne sont pas requises comme preuve dans une instance;
+
 c) il n’est pas nécessaire de continuer à détenir les choses saisies pour empêcher la commission d’une infraction;
+
 d) il est peu vraisemblable que les choses seront confisquées sur déclaration de culpabilité conformément à une ordonnance rendue aux termes du paragraphe (4).
 
 ### Idem
 
 (2) Si la Cour est convaincue que le requérant a droit à la possession des choses saisies, mais qu’elle n’est pas convaincue des faits mentionnés aux alinéas (1) b), c) et d), elle ordonne que les choses saisies soient restituées au requérant :
+
 a) soit à l’expiration des trois mois suivant la date de la saisie, si aucune instance relative à une infraction n’a été introduite;
+
 b) soit une fois que cette instance est définitivement réglée.
 
 ### Confiscation
@@ -807,8 +967,11 @@ b) soit une fois que cette instance est définitivement réglée.
 ### Réparation en cas de confiscation
 
 (5) Quiconque a un intérêt sur une chose confisquée en application de la présente loi peut demander, par voie de requête, à la Cour supérieure de justice réparation de la confiscation. La Cour peut alors rendre une ordonnance prévoyant l’octroi de toute réparation qu’elle estime juste, notamment une ou plusieurs des ordonnances suivantes :
+
 1. Une ordonnance portant que la chose ou une partie de celle-ci doit être restituée au requérant.
+
 2. Une ordonnance portant que tout intérêt sur la chose doit être dévolu au requérant.
+
 3. Une ordonnance portant que la Couronne doit verser une somme d’argent au requérant à titre compensatoire pour la confiscation.
 
 ### Idem
@@ -822,7 +985,9 @@ b) soit une fois que cette instance est définitivement réglée.
 ### Promotion en vue d’augmenter les ventes
 
 36 (1) Nul ne doit, afin d’augmenter les ventes d’un type donné de cannabis :
+
 a) offrir ou donner, directement ou indirectement, une incitation matérielle au titulaire d’une licence ou d’une autorisation délivrée en vertu de la présente loi ou à un de ses employés ou mandataires;
+
 b) se livrer à toute pratique prescrite relative à la promotion du cannabis.
 
 ### Fonctionnaires
@@ -850,8 +1015,11 @@ b) se livrer à toute pratique prescrite relative à la promotion du cannabis.
 ### Interprétation : représailles
 
 (3) Pour l’application du paragraphe (1), «représailles» s’entend notamment de l’une ou l’autre des mesures suivantes :
+
 a) congédier ou suspendre un employé du titulaire d’une licence d’exploitation pour vente au détail ou d’une autorisation de magasin de vente au détail, lui imposer une mesure disciplinaire ou lui faire subir un traitement discriminatoire;
+
 b) prendre des sanctions contre une personne;
+
 c) intimider, contraindre ou harceler une personne.
 
 ### Interdiction de dissuader : divulgation
@@ -867,7 +1035,9 @@ c) intimider, contraindre ou harceler une personne.
 ### Infraction
 
 39 (1) Est coupable d’une infraction quiconque contrevient ou ne se conforme pas :
+
 a) soit à l’article 18, 19, 20, 21, 22 ou 23, au paragraphe 24 (2), à l’article 25, au paragraphe 28 (10), à l’article 36 ou 37 ou au paragraphe 38 (1) ou (4);
+
 b) soit à une disposition prescrite des règlements.
 
 ### Idem : administrateurs ou dirigeants
@@ -881,7 +1051,9 @@ b) soit à une disposition prescrite des règlements.
 ### Peines
 
 40 Sur déclaration de culpabilité pour une infraction à la présente loi :
+
 a) les personnes morales sont passibles d’une amende d’au plus 250 000 $;
+
 b) les particuliers sont passibles d’une amende d’au plus 100 000 $ et d’un emprisonnement d’au plus un an, ou d’une seule de ces peines.
 
 ### Questions concernant les municipalités
@@ -957,15 +1129,21 @@ b) les particuliers sont passibles d’une amende d’au plus 100 000 $ et d’u
 ### Idem : aval obligatoire d’autres ministres
 
 (2) Le ministre ne peut conclure l’arrangement ou l’accord que conjointement avec les ministres suivants :
+
 a) le ministre chargé de l’application de la Loi de 2017 sur la Société ontarienne de vente du cannabis ;
+
 b) le ministre des Finances, si le ministre visé à l’alinéa a) n’est pas le ministre des Finances;
+
 c) le ministre chargé de l’application de la Loi de 2017 sur le contrôle du cannabis.
 
 ### Mise en œuvre de l’accord
 
 (3) Aux fins de la mise en œuvre d’un arrangement ou d’un accord conclu en vertu du paragraphe (1), le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) modifier ou préciser les modalités d’application d’une disposition de la présente loi ou des règlements à une personne, à un endroit ou à une chose, sous réserve de conditions ou de restrictions;
+
 b) établir des exigences qui s’appliquent à la vente de cannabis dans une réserve, sous réserve de conditions ou de restrictions;
+
 c) préciser que les règles établies par le conseil de la bande s’appliquent à la vente de cannabis dans une réserve, sous réserve de conditions ou de restrictions.
 
 ### Accès aux règles établies par le conseil de la bande
@@ -977,8 +1155,11 @@ c) préciser que les règles établies par le conseil de la bande s’appliquent
 ### Demandes de renseignements à la Société ontarienne de vente du cannabis
 
 45 Les personnes suivantes peuvent demander des renseignements à la Société ontarienne de vente du cannabis au sujet du cannabis qu’elle vend au titulaire d’une autorisation de magasin de vente au détail :
+
 1. Le registrateur, pour les besoins des demandes de renseignements et des enquêtes prévues à l’article 9.
+
 2. Tout inspecteur qui effectue une inspection visée par la présente loi.
+
 3. Tout enquêteur qui mène une enquête visée par la présente loi.
 
 ### Embauche de particuliers âgés de 18 ans par la Commission
@@ -992,45 +1173,79 @@ c) préciser que les règles établies par le conseil de la bande s’appliquent
 ### Témoignage donné dans une instance civile
 
 47 Nulle personne chargée de l’application de la présente loi n’est tenue de témoigner dans une instance civile relativement aux renseignements qu’elle a obtenus dans l’exercice de ses fonctions, à l’exclusion d’une instance introduite en vertu de la présente loi, de la Loi de 2017 sur le contrôle du cannabis ou de la Loi sur le cannabis (Canada).
+
 48 Abrogé : 2024, chap. 20, annexe 9, art. 30.
 
 ### Règlements
 
 49 (1) Le lieutenant-gouverneur en conseil peut, par règlement, assurer la réalisation de l’objet et l’intention de la présente loi et de l’application de ses dispositions, notamment :
+
 a) traiter de tout ce que la présente loi mentionne comme pouvant ou devant être fait ou prescrit par règlement;
+
 b) régir les demandes de délivrance, de renouvellement ou de cession des licences d’exploitation pour vente au détail, des licences de gérant de magasin de vente au détail de cannabis et des autorisations de magasin de vente au détail et autoriser le registrateur à exempter quiconque de l’obligation de fournir des renseignements à l’égard d’une demande;
+
 c) préciser les catégories de personnes qui ne peuvent pas présenter de demande de licence d’exploitation pour vente au détail, d’autorisation de magasin de vente au détail ou de licence de gérant de magasin de vente au détail de cannabis;
+
 d) régir la délivrance, le renouvellement, la cession et l’expiration des licences d’exploitation pour vente au détail, des licences de gérant de magasin de vente au détail de cannabis et des autorisations de magasin de vente au détail;
+
 d.1) pour l’application du paragraphe 4 (4) :
+
 (i) préciser des licences ou des catégories de licences,
+
 (ii) prévoir que les magasins de vente au détail de cannabis proposés peuvent être situés sur des sites ou des emplacements autres que sur le site indiqué sur la licence, ou dans les limites de ceux-ci, comme le précisent les règlements, pour l’application de la disposition 1 de ce paragraphe,
+
 (iii) préciser un nombre différent d’autorisations de magasin de vente au détail et définir «membre du même groupe» pour l’application de la disposition 2 de ce paragraphe,
+
 (iv) prescrire des restrictions supplémentaires pour l’application de la disposition 3 de ce paragraphe;
+
 e) énoncer les questions qui sont ou ne sont pas des questions d’intérêt public, pour l’application de la disposition 5 du paragraphe 4 (6);
+
 f) pour l’application de l’alinéa 4 (12) b), énoncer les circonstances dans lesquelles une autorisation de magasin de vente au détail ne peut pas être délivrée, y compris fixer les plafonds ou les modes d’établissement des plafonds relatifs aux autorisations qui peuvent être délivrées, ou qui peuvent être délivrées à l’égard de l’auteur d’une demande, d’une municipalité, ou d’autres personnes, lieux ou choses;
+
 g) prescrire les conditions qui s’appliquent aux licences d’exploitation pour vente au détail, aux licences de gérant de magasin de vente au détail de cannabis et aux autorisations de magasin de vente au détail;
+
 h) régir la vente de cannabis en vertu d’une autorisation de magasin de vente au détail, y compris l’exploitation des magasins de vente au détail de cannabis et leurs heures d’ouverture;
+
 i) traiter des variétés, formes et types de cannabis qui peuvent ou ne peuvent pas être vendus en vertu d’une autorisation de magasin de vente au détail par les titulaires d’autorisations de magasin de vente au détail;
+
 j) réglementer et contrôler la possession et la distribution du cannabis vendu ou à vendre en vertu d’une autorisation de magasin de vente au détail;
+
 j.1) autoriser et régir la vente, l’achat ou la cession de cannabis entre titulaires d’une autorisation de magasin de vente au détail dans les circonstances prescrites;
+
 k) pour l’application du paragraphe 7 (3), exiger du titulaire d’une autorisation de magasin de vente au détail qu’il ne vende pas de cannabis ou une catégorie prescrite de cannabis à un prix inférieur à celui précisé ou établi conformément aux règlements, et régir ces prix;
+
 l) prévoir la façon dont les éléments d’une infraction à la présente loi peuvent être prouvés lors d’une poursuite, et notamment prévoir les présomptions qui s’appliquent ou les conclusions qui peuvent être tirées en l’absence de preuve contraire;
+
 m) régir les dossiers que doivent tenir les titulaires d’une licence ou d’une autorisation délivrée en vertu de la présente loi;
+
 n) exiger que les titulaires d’une licence ou d’une autorisation délivrée en vertu de la présente loi prennent les mesures prescrites pour réduire le risque que le cannabis dont ils ont le contrôle soit détourné vers un marché illicite ou pour une activité illicite;
+
 o) régir et exiger la fourniture au registrateur par les titulaires de licence ou d’autorisation délivrée en vertu de la présente loi de renseignements, notamment des renseignements concernant la vente de cannabis, les lieux ainsi que les moyens et pratiques de vente de cannabis, et exiger que ces renseignements soient attestés d’une manière que précisent les règlements, notamment sous serment;
+
 p) régir la publicité sur le cannabis, ou la publicité sur sa disponibilité à la vente ou à la distribution, et régir les activités promotionnelles connexes;
+
 q) autoriser le conseil à approuver des cours ou des programmes de formation et exiger que les personnes précisées les réussissent;
+
 r) fixer les normes ou les exigences traitant de toute autre question visée au paragraphe 26 (1) que le présent paragraphe ne prévoit pas par ailleurs;
+
 r.1) prévoir et régir les règles et les marches à suivre qui s’appliquent si le registrateur reçoit une copie d’une résolution du conseil de bande à l’égard d’une réserve comportant une demande prescrite relative à la livraison de cannabis ou d’autres produits dans la réserve, notamment :
+
 (i) interdire aux titulaires d’une autorisation de magasin de vente au détail de livrer du cannabis ou d’autres produits dans une réserve,
+
 (ii) régir l’avis à donner aux titulaires d’une autorisation de magasin de vente au détail à l’égard d’une interdiction ou d’une restriction visant la livraison de cannabis ou d’autres produits dans une réserve, y compris exiger que le registrateur publie les renseignements relatifs à cette interdiction ou restriction sur le site Web de la Commission et en régir la publication,
+
 (iii) prévoir et régir les règles et les marches à suivre qui s’appliquent si le registrateur reçoit une copie d’une résolution du conseil de bande à l’égard d’une réserve qui modifie ou annule une résolution à laquelle s’appliquent les règlements,
+
 (iv) exiger qu’un conseil de bande donne avis d’une résolution à laquelle s’appliquent les règlements, et en régir l’avis;
+
 s) exempter des personnes, des endroits ou des choses de l’application de la présente loi ou des règlements, ou d’une disposition de la présente loi ou des règlements, ou prévoir que la présente loi ou les règlements, ou une disposition de la présente loi ou des règlements, ne s’appliquent pas à l’égard d’une personne, d’un endroit, d’une chose ou d’une circonstance, et prescrire les conditions ou les restrictions de l’exemption ou de la non-application.
 
 ### Idem
 
 (2) Les règlements pris en vertu du paragraphe (1) peuvent avoir une portée générale ou ne viser qu’une personne, un endroit ou une chose ou une catégorie de personnes, d’endroits ou de choses, peuvent imposer des exigences, des conditions ou des restrictions différentes selon la catégorie visée et peuvent avoir une portée restreinte quant au temps et au lieu.
+
 50 à 62 Omis (modification ou abrogation d’autres textes législatifs).
+
 63 Omis (entrée en vigueur de dispositions de la présente loi).
+
 64 Omis (édiction du titre abrégé de la présente loi).

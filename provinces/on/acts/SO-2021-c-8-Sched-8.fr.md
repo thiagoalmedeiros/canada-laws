@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2021-04-27"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21o08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # emprunts de l'Ontario (Loi de 2021 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21o08) before relying on it.
 
 L.O. 2021, chap. 8, annexe 8
 
@@ -31,7 +31,11 @@ L.O. 2021, chap. 8, annexe 8
 ### Idem
 
 (2) La Couronne ne doit pas contracter, après le 31 décembre 2024, des emprunts qu’un décret autorise à faire en vertu de la présente loi sauf si, au plus tard le 31 décembre 2024 :
+
 a) soit elle a conclu une convention à cet effet;
+
 b) soit elle a conclu une convention concernant un programme d’emprunt et celle-ci lui permet de contracter des emprunts jusqu’à concurrence d’une somme déterminée en vertu du décret.
+
 3 Omis (entrée en vigueur de dispositions de la présente loi).
+
 4 Omis (édiction du titre abrégé de la présente loi).

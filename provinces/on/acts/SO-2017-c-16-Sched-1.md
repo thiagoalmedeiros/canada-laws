@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2022-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17o16"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Fair Hydro Plan Act, 2017
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17o16) before relying on it.
 
 S.O. 2017, c. 16, Sched. 1
 
@@ -23,69 +23,129 @@ S.O. 2017, c. 16, Sched. 1
 ### Interpretation
 
 1 (1) In this Act,
+
 “capital account” means an account established by or on behalf of the Fair Hydro Trust under the governing documents for an existing funding obligation for the purpose of accumulating funds to be used to make repayments in respect of the existing funding obligation; (“compte capital”)
+
 “existing funding obligation” means a funding obligation that existed on the final plan date; (“obligation de financement existante”)
+
 “fair allocation amount” means, when used in respect of a reference period, the amount calculated by the Minister in respect of the reference period under section 20 of this Act as it read immediately before the final plan date and provided by the Minister to the Financial Services Manager before the final plan date; (“montant de répartition équitable”)
+
 “Fair Hydro Trust” means the trust established by the Financial Services Manager under subsection 22 (2) of this Act as it read immediately before the final plan date and includes the trustee of the trust when acting as trustee; (“Fair Hydro Trust”)
+
 “FHT acceleration” means, when used in respect of an existing funding obligation, the event arising under the governing documents in which a portion of the principal owing in respect of the existing funding obligation becomes due and payable by the Fair Hydro Trust before the scheduled payment date, maturity date or redemption date; (“déchéance du terme contre Fair Hydro Trust”)
+
 “FHT expenses” means all fees, expenses, costs, expenditures and liabilities incurred by or on behalf of the Fair Hydro Trust, including costs and expenditures payable by or on behalf of the Fair Hydro Trust in respect of a matter set out in subsection (2), including any taxes payable on those amounts, and excluding amounts mentioned in subsection (3); (“dépenses de Fair Hydro Trust”)
+
 “final plan date” means November 1, 2019; (“date du plan définitif”)
+
 “finance reserve account” means an account established by or on behalf of the Fair Hydro Trust under the governing documents for an existing funding obligation for the purposes of pre-funding, collateralizing, over-collateralizing or establishing reserves for the payment of existing funding obligations, FHT expenses or for related contingencies; (“compte de réserve financière”)
+
 “Financial Services Manager” means Ontario Power Generation Inc.; (“gestionnaire des services financiers”)
+
 “funding cost” means interest, commitment fees or other similar costs payable by or on behalf of the Fair Hydro Trust in respect of existing funding obligations; (“coût de financement”)
+
 “funding obligation” means a payment obligation incurred by or on behalf of the Fair Hydro Trust,
+
 (a) to fund its ownership of the investment asset, including principal, interest, fees and other amounts owing in respect thereof, or
+
 (b) in respect of an amount raised for the purposes of the Fair Hydro Trust acquiring and financing the investment asset that was or would have been recoverable as a finance amount under this Act as it read immediately before the final plan date; (“obligation de financement”)
+
 “General Regulation” means Ontario Regulation 206/17 (General) made under this Act; (“règlement général”)
+
 “governing documents” means, when used in respect of a funding obligation, the documents governing the terms of the funding obligation or other matters relating to the funding obligation; (“documents directeurs”)
+
 “IESO” means the Independent Electricity System Operator continued under Part II of the Electricity Act, 1998; (“SIERE”)
+
 “investment asset” means the investment asset created under this Act before the final plan date, comprised of,
+
 (a) before the final plan date, the rights and interests described in subsection 29 (1) of this Act as it read immediately before the final plan date, and
+
 (b) on and after the final plan date, the rights and interests as described in subsection 17 (1) of this Act; (“actif d’investissement”)
+
 “maturity date” means, in respect of an existing funding obligation, the date set out in the governing documents for the existing funding obligation on which all outstanding principal, interest and other amounts outstanding are due and payable; (“date d’échéance”)
+
 “Minister” means the Minister of Energy, Northern Development and Mines or such other member of the executive council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “Ontario Power Generation Inc.” means the corporation incorporated as Ontario Power Generation Inc. under the Business Corporations Act on December 1, 1998; (“Ontario Power Generation Inc.”)
+
 “payment date” means,
+
 (a) a date on which the Fair Hydro Trust is obligated under the governing documents for an existing funding obligation, including in accordance with the requirements and priorities set out in the governing documents, to pay an amount that is due and payable in respect of an existing funding obligation, an FHT expense or a tax, or
+
 (b) if a different date has been prescribed by a regulation made under subsection 6 (3), the prescribed date; (“date de paiement”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “Protection Agreement” means the agreement entered into by Her Majesty the Queen in Right of Ontario, as represented by the Minister of Energy and the Minister of Finance, and Computershare Trust Company of Canada as Trustee of Fair Hydro Trust, and Ontario Power Generation Inc. as Financial Services Manager and Manager of Fair Hydro Trust, and BNY Trust Company of Canada as Indenture Trustee, entitled “Change of Law Protection Agreement”, dated as of December 21, 2017; (“accord de protection”)
+
 “recovery amount” means the aggregate of all amounts received by or on behalf of the Fair Hydro Trust in respect of funding obligations; (“montant de recouvrement”)
+
 “redemption amount” means the amount payable by or on behalf of the Fair Hydro Trust to redeem, prepay or repurchase an existing funding obligation, including any premium, make-whole or other amount payable to give effect to the prepayment, redemption or repurchase; (“montant de rachat”)
+
 “reference period” means,
+
 (a) the period beginning on July 1, 2017 and ending on October 31, 2017, and
+
 (b) during the period beginning on November 1, 2017 and ending on April 30, 2047, every six-month period following the period mentioned in clause (a); (“période de référence”)
+
 “regulation” means a regulation made under this Act; (“règlement”)
+
 “repayment” means the payment by or on behalf of the Fair Hydro Trust or the provision by or on behalf of the Fair Hydro Trust for the payment of all or a portion of the principal amount advanced to the Fair Hydro Trust under an existing funding obligation; (“remboursement”)
+
 “tax” means a tax, duty, fee, premium, excise, assessment, impost, levy or other charge payable by the Fair Hydro Trust to the Crown in right of Ontario, the Crown in right of Canada or the government of any other country, province, state, municipality or other political territory and imposed or authorized to be imposed by any law of Ontario, Canada, or any other country, province, state, municipality or other political territory and includes,
+
 (a) a tax, duty, fee, premium, excise, assessment, impost, levy or other charge,
+
 (i) levied on, measured by or described with respect to income, earnings, gross receipts, profits, capital, capital gains, sales or use, or
+
 (ii) referred to as branch tax, net worth tax, alternative tax, minimum tax, goods and services tax, harmonized sales tax, value-added tax, excise tax, ad valorem tax, franchise tax, transfer tax, withholding tax, property tax, surtax, payroll tax, employment tax or employer health tax,
+
 (b) government pension plan premiums or contributions, social security premiums, workers’ compensation premiums and employment or unemployment insurance or compensation premiums and contributions,
+
 (c) an amount or charge under Part VI of the Electricity Act, 1998,
+
 (d) an instalment in respect of an amount mentioned in clauses (a) to (c), and
+
 (e) interest, penalties, fines, additions to tax or other amounts imposed on or in respect of an amount mentioned in clauses (a) to (c); (“impôt”)
+
 “tax refund” means all amounts received by or on behalf of the Fair Hydro Trust as a refund of tax and to which the Fair Hydro Trust is entitled as a result of any activity, undertaking, transaction or event authorized or permitted under this Act. (“remboursement d’impôt”)
 
 ### FHT expenses
 
 (2) For the purposes of the definition of “FHT expenses” in subsection (1), the matters include the following:
+
 1. Maintaining the Fair Hydro Trust in good standing.
+
 2. Administering, managing and operating the Fair Hydro Trust, including to enable compliance with its obligations under the governing documents for each existing funding obligation and the other contracts and instruments to which the Fair Hydro Trust is or becomes a party.
+
 3. Fulfilling and complying with the Fair Hydro Trust’s obligations and undertakings under this Act and the governing documents for each existing funding obligation and the other contracts and instruments to which the Fair Hydro Trust is or becomes a party, including all charges, costs, indemnities, reimbursements and other amounts, together with any taxes on such charges, costs, indemnities, reimbursements and other amounts, incurred or committed to by or on behalf of the Fair Hydro Trust as a result of,
+
 i. an activity authorized or permitted under the governing documents for each existing funding obligation and the other contracts and instruments to which the Fair Hydro Trust is or becomes a party,
+
 ii. an agreement, undertaking or commitment made by or on behalf of the Fair Hydro Trust under this Act as it read immediately before the final plan date or under the General Regulation as it read immediately before the final plan date, or
+
 iii. an activity authorized or permitted under this Act or the governing documents for each existing funding obligation and the other contracts and instruments to which the Fair Hydro Trust is or becomes a party on or after the final plan date.
+
 4. Paying the underwriters, selling agents, valuation experts or other capital markets professionals in respect of existing funding obligations.
+
 5. Paying the banking fees, including but not limited to structuring fees or work fees in respect of existing funding obligations.
+
 6. Paying the fees of issuing and paying agents in respect of existing funding obligations.
+
 7. Paying the fees of trustees.
+
 8. Paying the fees incurred in the preparation of financial statements, financial reports, compliance certificates and tax returns.
+
 9. Paying the fees of legal counsel.
+
 10. Paying the rating agency fees.
+
 11. Paying the filing or registration fees.
+
 12. Paying the direct costs of the Financial Services Manager for employees whose work for the Financial Services Manager consists of the provision of services to the Fair Hydro Trust.
+
 13. Paying the costs and expenditures incurred on behalf of the Fair Hydro Trust in connection with the Financial Services Manager’s duties under this Act.
+
 14. Paying the costs and expenditures incurred in relation to any management agreement between the Financial Services Manager and the Fair Hydro Trust where the agreement provides for the reimbursement of the costs and expenditures.
 
 ### Same, exclusions
@@ -99,8 +159,11 @@ iii. an activity authorized or permitted under this Act or the governing documen
 ### Exceptions
 
 (2) In any contract or other instrument entered into before the final plan date in respect of an existing funding obligation,
+
 (a) a reference to an investment interest is deemed to be a reference to the investment asset;
+
 (b) a reference to an investment interest owner is deemed to be a reference to the investment asset owner; and
+
 (c) a reference to a term specified in the regulations is deemed to be a reference to such other term as may be prescribed.
 
 ### Waiver of subrogation rights under Protection Agreement
@@ -130,8 +193,11 @@ iii. an activity authorized or permitted under this Act or the governing documen
 ### Protection against liability of electricity vendors and unit sub-meter providers
 
 1.4 (1) Nothing in this Act or in any contract or instrument shall be interpreted so as to create, continue or impose liability on any electricity vendor or any unit sub-meter provider in favour of any person for or in respect of any amount determined to be, or to form part of, a clean energy adjustment under this Act as it read immediately before the final plan date, including for or in respect of,
+
 (a) collecting, receiving, holding, applying, depositing or remitting such an amount;
+
 (b) reporting on such an amount; or
+
 (c) enforcing any collections or remittances of such an amount.
 
 ### Limitation period
@@ -145,25 +211,37 @@ iii. an activity authorized or permitted under this Act or the governing documen
 ### Protection against liability of IESO
 
 1.5 (1) Nothing in this Act or in any contract or instrument shall be interpreted so as to create, continue or impose liability on the IESO in favour of any person for or in respect of any amount determined to be, or to form part of, a clean energy adjustment under this Act as it read immediately before the final plan date, including for or in respect of,
+
 (a) collecting, receiving, holding, applying, depositing or remitting such an amount;
+
 (b) reporting on such an amount; or
+
 (c) servicing, administering or enforcing any collections or remittances of such an amount.
 
 ### IESO not required to comply
 
 (2) The IESO is not required to comply with any requirement under any contract or instrument that provides for the administration or servicing of the investment asset on behalf of the Fair Hydro Trust, including any requirement to,
+
 (a) collect, receive, hold, apply, deposit or remit a clean energy adjustment under this Act as it read immediately before the final plan date;
+
 (b) report on or provide notice on a clean energy adjustment under this Act as it read immediately before the final plan date;
+
 (c) service, administer or enforce,
+
 (i) a clean energy adjustment under this Act as it read immediately before the final plan date, or
+
 (ii) any collections or remittances of a clean energy adjustment under this Act as it read immediately before the final plan date; or
+
 (d) develop and implement an implementation plan in respect of obligations that would arise in the future under this Act as it read immediately before the final plan date.
 
 ### Validity of transfer, investment asset
 
 (3) This section does not affect the validity of any transfer of the investment asset to the Fair Hydro Trust or the application of each of the following in accordance with the terms of each of the following, in relation to such a transfer:
+
 1. Any representation or certification made by the IESO to the Fair Hydro Trust or to or in favour of any beneficiary or any secured party.
+
 2. Any warranty, acknowledgment or indemnity given by the IESO to the Fair Hydro Trust or to or in favour of any beneficiary or any secured party.
+
 3. Any restrictive covenant agreed to by the IESO to the Fair Hydro Trust or to or in favour of any beneficiary or any secured party.
 
 ### Carrying costs
@@ -181,8 +259,11 @@ iii. an activity authorized or permitted under this Act or the governing documen
 ### Computation of amounts under funding obligations, etc.
 
 1.7 Nothing in this Act shall be read as changing any of the following as set out in the governing documents for an existing funding obligation:
+
 1. The method of computing the amount of principal of or interest on an existing funding obligation.
+
 2. The date of payment of an amount of principal of or interest on an existing funding obligation.
+
 3. The rights, entitlements or obligations of the payees under an existing funding obligation.
 
 ### Protection against liability of Ontario Power Generation Inc. or Crown as principal
@@ -196,6 +277,7 @@ iii. an activity authorized or permitted under this Act or the governing documen
 ### Same, funding obligation
 
 (2) The fact that any provision of this Act is held to be invalid or ceases to be in effect for any reason does not affect the validity or enforceability of a funding obligation incurred before the day that the provision is held to be invalid or ceases to be in effect, or any rights or obligations associated with the funding obligation.
+
 3 Repealed: 2019, c. 6, Sched. 3, s. 3.
 
 ### Crown bound
@@ -213,8 +295,11 @@ iii. an activity authorized or permitted under this Act or the governing documen
 ### Guarantee, indemnification re previous agreements
 
 (3) Subject to subsection (1), the Lieutenant Governor in Council may by order,
+
 (a) authorize the Minister and the Minister of Finance, acting together on behalf of the Province of Ontario, to agree to guarantee or indemnify any debts, obligations, securities or undertakings associated with the investment asset and to determine terms and conditions and the maximum liability for the guarantee or indemnity;
+
 (b) specify terms and conditions that must be included in any guarantee or indemnity given by the Minister and the Minister of Finance; and
+
 (c) specify a maximum liability for the guarantee or indemnity.
 
 ## Part II Payments by the Crown and by ontario power generation inc.
@@ -242,34 +327,59 @@ iii. an activity authorized or permitted under this Act or the governing documen
 ### Calculation of amounts payable by Crown
 
 7 (1) The payment to be made on a payment date by the Crown under section 6 shall be the amount calculated by taking the following steps:
+
 1. After eliminating any duplication in the following amounts, calculate the sum of the following:
+
 i. Amounts that would be due and payable by the Fair Hydro Trust in respect of each existing funding obligation on the payment date, determined as the sum of the following, in each case assuming that no FHT acceleration has occurred in respect of any existing funding obligation at any time on or before the payment date:
+
 A. Amounts due and payable in respect of repayments.
+
 B. Amounts due and payable in respect of funding costs.
+
 C. Amounts due and payable in respect of redemption amounts.
+
 D. Amounts required under the governing documents for the existing funding obligation to be deposited into capital accounts or finance reserve accounts.
+
 ii. Amounts due and payable in respect of FHT expenses on the payment date.
+
 iii. Any taxes due and payable by the Fair Hydro Trust on the payment date.
+
 2. If the payment date is the last payment date occurring during a reference period during or after which an FHT acceleration has occurred in respect of any existing funding obligation, calculate the following amounts:
+
 i. After eliminating any duplication in the amounts, the sum of the amounts that would have been determined under paragraph 1 in respect of a payment date occurring during the reference period, had the amounts been calculated in subparagraph 1 i for the payment date having regard to whether or not an FHT acceleration in respect of an existing funding obligation had occurred as of the payment date.
+
 ii. The lesser of the following:
+
 A. The amount determined under subparagraph i.
+
 B. The fair allocation amount for the reference period in which the payment date occurs.
+
 3. Determine the amount, if any, by which the amount calculated under subparagraph 2 ii exceeds the amount determined under paragraph 1.
+
 4. After eliminating any duplication in amounts from all other sources of money that are or will be available to the Fair Hydro Trust on the payment date in order to pay the amounts that are due and payable by the Fair Hydro Trust on the payment date, calculate the sum of those amounts, excluding any amounts that would, if applied by the Fair Hydro Trust, directly or indirectly cause a default under any existing funding obligations, and including the following amounts:
+
 i. Amounts withdrawn or required to be withdrawn, as required under the governing documents for the existing funding obligations, from any collection account, capital account or finance reserve account.
+
 ii. Recovery amounts received by the Fair Hydro Trust.
+
 iii. Tax refunds received by the Fair Hydro Trust.
+
 iv. Amounts paid by Ontario Power Generation Inc. to the Fair Hydro Trust under section 8.
+
 v. Amounts deposited by the Crown into the account established for the beneficiaries under the Protection Agreement.
+
 5. Calculate the sum of the amount calculated under paragraph 1 and any amount calculated under paragraph 3.
+
 6. Subtract the sum of the amounts calculated under paragraph 4 from the amount calculated under paragraph 5.
+
 7. Calculate the payment amount by adding any positive amount determined under paragraph 6 to any additional prescribed amounts that are determined in accordance with the regulations.
 
 ### Rules
 
 (2) The following rules apply with respect to the determination of the amounts payable by the Crown to the Fair Hydro Trust under this section:
+
 1. The determination shall be made by applying a cash basis accounting method.
+
 2. The determination shall reflect cash amounts actually paid, deposited, received, applied, withdrawn or made available at a specified time.
 
 ### Financial Services Manager to notify Ministers
@@ -295,20 +405,27 @@ v. Amounts deposited by the Crown into the account established for the beneficia
 ### Rules
 
 (5) The following rules apply with respect to the determination of the amounts payable to the Fair Hydro Trust by Ontario Power Generation Inc. under subsection (1):
+
 1. The determination shall be made by applying a cash basis accounting method.
+
 2. The determination shall reflect cash amounts actually paid, deposited, received, applied, withdrawn or made available at a specified time.
 
 ### Application of amounts by the Fair Hydro Trust
 
 9 (1) On each payment date, the Fair Hydro Trust shall, subject to and in compliance with the terms of the governing documents for the existing funding obligations and the terms of each of its other applicable payment obligations, carry out the following steps in the order in which they appear:
+
 1. Apply all sources of money that are or will be available to the Fair Hydro Trust on the payment date, including sources included in the calculation in paragraph 4 of subsection 7 (1), excluding any amounts that would, if applied by the Fair Hydro Trust, directly or indirectly cause a default under any existing funding obligations and excluding amounts paid to it by the Crown under section 6 on the payment date, to pay the amounts that are due and payable by the Fair Hydro Trust on the payment date in respect of existing funding obligations, FHT expenses or any tax.
+
 2. Deposit the amounts paid to it by the Crown under section 6 on the payment date into the applicable collection account contemplated under the governing documents for existing funding obligations and apply the deposited amounts to pay the amounts specified in the governing documents to be due and payable by the Fair Hydro Trust on the payment date in respect of any existing funding obligations, FHT expenses or any tax.
+
 3. If, after applying the amounts under paragraphs 1 and 2, it is determined by the Financial Services Manager that all or a portion of the amount paid on the payment date to the Fair Hydro Trust by the Crown under section 6 was not required by the Fair Hydro Trust on the payment date to pay the amounts due and payable in respect of existing funding obligations, FHT expenses or any tax on the payment date, pay the amount in excess to the Crown.
 
 ### Same, receipts in respect of clean energy adjustments
 
 (2) The Fair Hydro Trust shall apply the following amounts under the terms of the governing documents for the existing funding obligations, in each case on a payment date, on the same basis as if such amounts were received by the IESO and remitted to the Fair Hydro Trust as receipts in respect of clean energy adjustments in accordance with the agreements and instruments under which the investment asset was transferred to the Fair Hydro Trust:
+
 1. The amounts paid to it by the Crown under section 6.
+
 2. The amounts paid to it by Ontario Power Generation Inc. under section 8.
 
 ### Payment instructions
@@ -326,12 +443,19 @@ v. Amounts deposited by the Crown into the account established for the beneficia
 ### Minimum amount
 
 (2) If a contract mentioned in subsection (1) includes a reference to the estimated finance amount to be determined in respect of a reference period under subsection 15 (1) of this Act as it read immediately before the final plan date and section 6.1 of the General Regulation as it read immediately before the final plan date, that amount shall be adjusted, if necessary, so that it is at a minimum the amount calculated as follows:
+
 1. Calculate the sum of all amounts in respect of the reference period, each of which is an amount determined under paragraph 1 of subsection 7 (1) in respect of a payment date occurring during the reference period.
+
 2. After eliminating any duplication, calculate the sum of the sources of money described in subparagraphs 4 i to iii of subsection 7 (1) that were applied by the Fair Hydro Trust to pay amounts that were due and payable by the Fair Hydro Trust on the payment dates occurring during the reference period.
+
 3. Calculate the amount determined under paragraph 3 of subsection 7 (1) for the last payment date occurring during the reference period.
+
 4. Calculate any positive amount that results from subtracting the sum calculated under paragraph 2 from the sum of the following amounts:
+
 i. The amount calculated under paragraph 1.
+
 ii. The amount calculated under paragraph 3.
+
 iii. Any additional prescribed amounts that are determined in accordance with the regulations.
 
 ### Payment obligation
@@ -351,11 +475,17 @@ iii. Any additional prescribed amounts that are determined in accordance with th
 ### Duties of Financial Services Manager
 
 12 (1) The Financial Services Manager shall do the following until all existing funding obligations and any other obligations and liabilities of the Fair Hydro Trust have been satisfied or otherwise extinguished:
+
 1. Perform the duties assigned to it under this Act.
+
 2. Administer the investment asset on behalf of the Fair Hydro Trust.
+
 3. Take all necessary steps within its power to,
+
 i. maintain the Fair Hydro Trust’s legal existence,
+
 ii. cause the Fair Hydro Trust to comply with all of its obligations and undertakings under the governing documents for the existing funding obligations, under all other contracts to which it is a party and under this Act, and
+
 iii. otherwise maintain and observe reasonable and prudent practices in connection with the Fair Hydro Trust’s operations.
 
 ### Administration of the investment asset
@@ -381,12 +511,19 @@ iii. otherwise maintain and observe reasonable and prudent practices in connecti
 ### Amendment to Financing Plan
 
 15 The Financial Services Manager shall, as soon as practicable on or after the final plan date, amend the Financing Plan that was prepared under this Act, having regard to the following principles:
+
 1. The payment of existing funding obligations, FHT expenses and taxes payable by the Fair Hydro Trust should be made promptly as they become due and payable in accordance with their terms.
+
 2. No further funding obligations may be incurred by or on behalf of the Fair Hydro Trust on or after the final plan date.
+
 3. The Fair Hydro Trust should maintain its legal existence and remain in good standing until all existing funding obligations and any other obligations and liabilities of the Fair Hydro Trust have been satisfied or otherwise extinguished.
+
 4. The Fair Hydro Trust should comply with all of its obligations and undertakings under the governing documents for the existing funding obligations, under all other contracts to which it is a party and under this Act and otherwise maintain and observe reasonable and prudent practices in connection with its operations.
+
 5. The Financial Services Manager and the Manager of the Fair Hydro Trust should act as any reasonably prudent manager would act in similar circumstances and deal with related parties on arm’s length terms, and otherwise maintain and observe reasonable and prudent practices and standards in connection with the performance of its duties and obligations.
+
 6. The Financial Services Manager and the Manager of the Fair Hydro Trust should together prepare and disseminate such disclosures and reports as are reasonably required in order to inform and update the creditors of the Fair Hydro Trust from time to time, including to reflect the enactment of Schedule 3 to the Fixing the Hydro Mess Act, 2019.
+
 7. Such other principles as may be prescribed.
 
 ## Part Iv The Investment Asset
@@ -418,13 +555,21 @@ iii. otherwise maintain and observe reasonable and prudent practices in connecti
 ### Investment asset
 
 17 (1) On and after the final plan date, the investment asset constitutes and shall be comprised of a current and irrevocable property right and interest consisting, collectively, of the following rights and interests of the investment asset owner and which constitute a substitution and continuation of the investment asset that existed before the final plan date:
+
 1. The right and interest to receive and recover amounts required to be paid by the Crown under section 6 from the Crown and the right to determine those amounts in accordance with this Act and the regulations.
+
 2. The right and interest to receive and recover amounts required to be paid by Ontario Power Generation Inc. under section 8 from Ontario Power Generation Inc. and the right to determine those amounts in accordance with this Act and the regulations.
+
 3. All rights and entitlements with respect to,
+
 i. any account, regardless of the name in which the account is opened, if amounts paid by the Crown under section 6 or by Ontario Power Generation Inc. under section 8 are deposited into it,
+
 ii. any accounts opened in the name of or on behalf of the Fair Hydro Trust by the Financial Services Manager or by the Manager of the Fair Hydro Trust, or
+
 iii. such other accounts as may be prescribed, including all amounts on deposit in such accounts.
+
 4. All rights of any kind related to any of the other property rights or interests that comprise the investment asset, including any continuing rights arising under the agreement and instruments under which the investment asset was transferred to the Fair Hydro Trust.
+
 5. All revenue, payments, money and proceeds of or derived from the rights described in paragraphs 1 to 4, regardless of whether it is maintained together with or commingled with other revenue, payments, money and proceeds.
 
 ### Not affected by failure
@@ -474,6 +619,7 @@ iii. such other accounts as may be prescribed, including all amounts on deposit 
 ### Interpretation
 
 (9) For the purposes of this section, a security interest is perfected when it is perfected as described in the Personal Property Security Act.
+
 19-22 Repealed: 2019, c. 6, Sched. 3, s. 5.
 
 ### Part V Repealed:
@@ -493,6 +639,7 @@ iii. such other accounts as may be prescribed, including all amounts on deposit 
 ### Choice of law
 
 34 The law governing, as applicable, the validity, enforceability, attachment, perfection, priority and exercise of remedies with respect to a transfer under this Act, a security interest in the investment asset, the amounts payable under sections 6 and 8 and any undertaking of the Crown under section 5 shall be the laws of the Province of Ontario.
+
 35 , 36 Repealed: 2019, c. 6, Sched. 3, s. 6.
 
 ### Conflict
@@ -528,30 +675,43 @@ iii. such other accounts as may be prescribed, including all amounts on deposit 
 ### Order
 
 (2) The Superior Court of Justice may, by order,
+
 (a) direct the Financial Services Manager to comply with this Act or the regulations;
+
 (b) restrain the Financial Services Manager from contravening this Act or the regulations; or
+
 (c) require compensation to be provided by the Financial Services Manager to the investment asset owner.
 
 ### Same
 
 (3) An application under subsection (1) may be made by the investment asset owner in addition to exercising any other right of the investment asset owner.
+
 41 Repealed: 2019, c. 6, Sched. 3, s. 9.
 
 ### Regulations
 
 42 (1) The Lieutenant Governor in Council may make regulations in respect of the following matters:
+
 1. Governing anything that is required or permitted to be prescribed or that is required or permitted to be done by, or in accordance with, the regulations or as authorized, specified or provided in the regulations.
+
 2. Defining, for the purposes of a regulation, words and expressions used in this Act that are not defined in the Act.
+
 3. Governing transitional matters relating to the enactment of Schedule 3 to the Fixing the Hydro Mess Act, 2019.
+
 4. Providing for and governing the limitation period for the purposes of subsections 1.3 (2.1), 1.4 (1.1) and 1.5 (5).
+
 5.-7. Repealed: 2019, c. 6, Sched. 3, s. 10 (1).
+
 8. Prescribing the time within which any action required by this Act may be required to be done.
+
 9. Providing for such other matters as the Lieutenant Governor in Council considers advisable to carry out the purpose of this Act.
 
 ### Limitation
 
 (2) Despite subsection (1) or any other Act, no regulation under this Act shall have the effect of reducing, impairing, postponing or terminating,
+
 (a) the obligations of the Crown to pay amounts under section 6 or impairing or postponing the recovery of the amounts under section 6; or
+
 (b) the obligations of Ontario Power Generation Inc. to pay amounts under section 8 or impairing or postponing the recovery of the amounts under section 8.
 
 ### Part VIII (OMITTED)
@@ -561,4 +721,5 @@ iii. such other accounts as may be prescribed, including all amounts on deposit 
 ### Part IX (OMITTED)
 
 45 Omitted (provides for coming into force of provisions of this Act).
+
 46 Omitted (enacts short title of this Act).

@@ -6,19 +6,20 @@ language: fr
 type: act
 document_date: "2021-10-19"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02o08f"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # collèges d'arts appliqués et de technologie de l'Ontario (Loi de 2002 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02o08f) before relying on it.
 
 L.O. 2002, chap. 8, annexe F
 
 ### Définition
 
 1 La définition qui suit s’applique à la présente loi.
+
 «ministre» Le ministre de la Formation et des Collèges et Universités ou l’autre membre du Conseil exécutif chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif.
 
 ### Collèges
@@ -40,11 +41,17 @@ L.O. 2002, chap. 8, annexe F
 ### Réalisation des objets
 
 (3) Afin de réaliser ses objets, un collège peut entreprendre une gamme d’activités ayant trait à l’enseigne­ment et à la formation, notamment :
+
 a) la conclusion de partenariats avec des entreprises commerciales ou industrielles et d’autres établissements d’enseignement;
+
 b) la possibilité d’offrir ses cours en français là où les règlements le permettent;
+
 c) l’enseignement et la formation professionnels des adultes;
+
 d) la formation de base et l’alphabétisation;
+
 e) la formation de l’apprenti en classe;
+
 f) la recherche appliquée.
 
 ### Organisme de la Couronne
@@ -54,6 +61,7 @@ f) la recherche appliquée.
 ### Conseils d’administration
 
 3 (1) Un conseil d’administration composé des membres prescrits par règlement est mis en place pour chaque collège ouvert en vertu de la présente loi.
+
 (2) Abrogé : 2006, chap. 19, annexe S, par. 2 (2).
 
 ### Directives en matière de politique
@@ -75,16 +83,23 @@ f) la recherche appliquée.
 ### Intervention
 
 5 (1) Le ministre peut intervenir dans les affaires d’un collège ou d’une constituante de celui-ci de la manière et dans les conditions prescrites s’il est d’avis :
+
 a) soit que le collège n’offre pas ses services conformément à la présente loi ou aux règlements ni aux autres lois qui s’appliquent à lui;
+
 b) soit que le collège n’observe pas une directive en matière de politique donnée en vertu de l’article 4;
+
 c) soit qu’il est dans l’intérêt public de le faire.
 
 ### Intérêt public
 
 (2) Lorsqu’il décide si une intervention est dans l’intérêt public, le ministre peut notamment tenir compte des éléments suivants :
+
 a) la qualité de la gestion et de l’administration du collège;
+
 b) l’utilisation par le collège de ses ressources financières pour la gestion et la prestation des principaux services d’enseignement et de formation;
+
 c) l’accessibilité des services d’enseignement et de formation dans la collectivité où se trouve le collège;
+
 d) la qualité des services d’enseignement et de formation offerts aux étudiants.
 
 ### Renseignements
@@ -106,8 +121,11 @@ d) la qualité des services d’enseignement et de formation offerts aux étudia
 ### Fonctions
 
 (3) Le Conseil :
+
 a) doit exercer les pouvoirs et les fonctions que lui attribue la Loi de 2008 sur la négociation collective dans les collèges ;
+
 b) sous réserve du paragraphe (7), doit établir, au nom des collèges et en consultation avec eux, les conditions d’emploi, à l’exception des rentes de retraite, des personnes employées par les collèges qui ne sont pas comprises dans une unité de négociation constituée en application de la Loi de 2008 sur la négociation collective dans les collèges ;
+
 c) peut être le souscripteur pour les régimes d’avantages sociaux garantis des personnes employées par les collèges.
 
 ### Disposition transitoire : souscripteur pour les régimes d’avantages sociaux garantis
@@ -133,7 +151,9 @@ c) peut être le souscripteur pour les régimes d’avantages sociaux garantis d
 ### Composition du conseil d’administration
 
 (9) Le conseil d’administration se compose des personnes suivantes :
+
 a) le président du conseil d’administration de chaque collège ou, si le président d’un collège l’ordonne, le vice-président du conseil d’administration du collège;
+
 b) le président de chaque collège.
 
 ### Idem
@@ -151,7 +171,9 @@ b) le président de chaque collège.
 ### Rapport annuel
 
 (13) Dans les 90 jours qui suivent la fin de chaque exercice, le Conseil remet au conseil d’administration de chaque collège :
+
 a) d’une part, un rapport de ses activités de l’exercice;
+
 b) d’autre part, ses états financiers vérifiés de l’exercice.
 
 ### Quote-part pour couvrir les dépenses
@@ -165,17 +187,29 @@ b) d’autre part, ses états financiers vérifiés de l’exercice.
 ### Règlements
 
 8 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) ouvrir des collèges, les nommer et les régir, y compris modifier ou étendre les objets ou responsabilités d’un collège donné, et prescrire toute autre question liée à la manière dont il peut diriger ses affaires;
+
 b) prévoir la nomination, la composition, les pouvoirs et les fonctions des conseils d’administration et la révocation de tout ou partie de leurs membres dans les conditions et sous réserve de la procédure prescrites, y compris déléguer ces pouvoirs au conseil mis en place en application de l’alinéa g);
+
 c) restreindre les pouvoirs qu’un collège peut exercer en vertu de la Loi de 2010 sur les organisations sans but lucratif dans les conditions prescrites, le cas échéant;
+
 d) fusionner ou fermer des collèges et prévoir toute question qui doit être traitée par suite d’une fusion ou d’une fermeture;
+
 e) en ce qui concerne une intervention en vertu de l’article 5 :
+
 (i) prescrire les conditions dans lesquelles elle peut être réalisée,
+
 (ii) prescrire les types d’intervention qui peuvent être réalisés, y compris le remplacement de tout ou partie des membres d’un conseil,
+
 (iii) déléguer au ministre ou à son mandataire les pouvoirs nécessaires à sa réalisation,
+
 (iv) régir les procédures qui s’appliquent en ce qui concerne une intervention et exiger des collèges qu’ils respectent ces procédures;
+
 f) traiter des langues d’enseignement, y compris autoriser certains collèges à offrir tout ou partie de leurs programmes en français et interdire à d’autres de le faire;
+
 g) mettre en place ou proroger un conseil et établir ses pouvoirs et fonctions;
+
 h) prévoir toute question transitoire nécessaire à la mise en application efficace de la présente loi ou des règlements.
 
 ### Portée
@@ -185,7 +219,11 @@ h) prévoir toute question transitoire nécessaire à la mise en application eff
 ### Incompatibilité
 
 (3) Le règlement pris en application du présent article l’emporte sur toute disposition incompatible de la Loi de 2010 sur les organisations sans but lucratif.
+
 9 Abrogé : 2008, chap. 15, par. 87 (3).
+
 10 à 12 Omis (modifient ou abrogent d’autres lois).
+
 13 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 14 Omis (édicte le titre abrégé de la présente loi).

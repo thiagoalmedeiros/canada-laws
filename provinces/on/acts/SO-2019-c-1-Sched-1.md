@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-06-05"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c01"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Community Safety and Policing Act, 2019
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c01) before relying on it.
 
 S.O. 2019, c. 1, Sched. 1
 
@@ -21,99 +21,181 @@ S.O. 2019, c. 1, Sched. 1
 ### Declaration of principles
 
 1 Policing shall be provided throughout Ontario in accordance with the following principles:
+
 1. The need to ensure the safety and security of all persons and property in Ontario, including on First Nation reserves.
+
 2. The importance of safeguarding the fundamental rights and freedoms guaranteed by the Canadian Charter of Rights and Freedoms and the Human Rights Code.
+
 3. The need for co-operation between policing providers and the communities they serve.
+
 4. The importance of respect for victims of crime and understanding of their needs.
+
 5. The need for sensitivity to the pluralistic, multiracial and multicultural character of Ontario society.
+
 6. The need to be responsive to the unique histories and cultures of First Nation, Inuit and Métis communities.
+
 7. The need to ensure that police services and police service boards are representative of the communities they serve.
+
 8. The need to ensure that all parts of Ontario, including First Nation reserves, receive equitable levels of policing.
 
 ### Interpretation
 
 2 (1) In this Act,
+
 “adequate and effective policing” has the meaning set out in subsection 11 (1); (“services policiers convenables et efficaces”)
+
 “Arbitration and Adjudication Commission” means the Ontario Police Arbitration and Adjudication Commission continued by subsection 147 (1); (“Commission d’arbitrage et de décision”)
+
 “auxiliary member” means a member of a police service appointed under section 91; (“membre auxiliaire”)
+
 “band council” means a council of the band as defined in subsection 2 (1) of the Indian Act (Canada); (“conseil de bande”)
+
 “chief of police” means a chief of police of a police service maintained by a police service board or the Commissioner, and includes an acting chief of police; (“chef de police”, “chef”)
+
 “Commission Chair” means the chair of the Arbitration and Adjudication Commission; (“président de la Commission”)
+
 “Commissioner” means the Commissioner of the Ontario Provincial Police appointed under subsection 56 (1), and includes an acting Commissioner; (“commissaire”)
+
 “community safety and well-being plan” means a community safety and well-being plan described in section 251; (“plan de sécurité et de bien-être communautaires”)
+
 “Complaints Director” means the Complaints Director appointed under subsection 131 (1); (“directeur des plaintes”)
+
 “de-identify”, in relation to the personal information of an individual, means to remove any information that identifies the individual or for which it is reasonably foreseeable in the circumstances that it could be utilized, either alone or with other information, to identify the individual; (“anonymiser”)
+
 “former member of a police service” includes any person who was appointed under the Police Services Act, as it read at the time, as an auxiliary member of the police service; (“ancien membre d’un service de police”)
+
 “First Nation” means a band as defined in the Indian Act (Canada); (“Première Nation”)
+
 “First Nation board” means a board constituted under section 32; (“commission de Première Nation”)
+
 “First Nation Officer” means a person appointed under section 101 as a First Nation Officer; (“agent de Première Nation”)
+
 “First Nation O.P.P. board” means a board constituted under section 77; (“conseil de Première Nation sur la Police provinciale”)
+
 “First Nation reserve” means a reserve as defined in the Indian Act (Canada); (“réserve de Première Nation”)
+
 “Inspector General” means the Inspector General of Policing appointed under subsection 102 (1); (“inspecteur général”)
+
 “local commander” means a chief of police of a police service or a commander of a detachment, or his or her designate; (“commandant local”)
+
 “member of a police service” means,
+
 (a) a member of the Ontario Provincial Police,
+
 (b) a chief of police of any other police service,
+
 (c) an employee of a police service board who is under the direction of a chief of police,
+
 (d) an auxiliary member of a police service, or
+
 (e) a person appointed as a police officer under the Interprovincial Policing Act, 2009; (“membre d’un service de police”)
+
 “member of the Ontario Provincial Police” means,
+
 (a) the Commissioner,
+
 (b) a person employed under Part III of the Public Service of Ontario Act, 2006 who is under the direction of the Commissioner, or
+
 (c) an auxiliary member of the Ontario Provincial Police; (“membre de la Police provinciale de l’Ontario”)
+
 “Minister” means the Solicitor General or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “Ministry” means the Ministry of the Minister; (“ministère”)
+
 “misconduct” means,
+
 (a) in the case of a police officer or special constable, misconduct as set out in section 195,
+
 (b) in the case of a member of a police service board, an O.P.P. detachment board or a First Nation O.P.P. board, a failure to comply with the applicable prescribed code of conduct, or
+
 (c) in the case of a peace officer in the Legislative Protective Service, a failure to comply with the applicable rules of conduct; (“faute”)
+
 “municipal board” means a board constituted by a municipality or municipalities under section 22, 23, 24 or 25; (“commission municipale”)
+
 “O.P.P. detachment board” means a board referred to in section 67; (“conseil de détachement de la Police provinciale”)
+
 “personal information” has the same meaning as in the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
 “police association” means,
+
 (a) the Ontario Provincial Police Association, or
+
 (b) an association, other than a trade union, whose members are employees of one police service board who are members of the police service maintained by the police service board; (“association de policiers”)
+
 “police officer” means a member of a police service who is appointed as a police officer or a person who is appointed as a police officer under the Interprovincial Policing Act, 2009 and, for greater certainty, does not include a special constable, a First Nation Officer, a municipal by-law enforcement officer, a police cadet or an auxiliary member of a police service; (“agent de police”)
+
 “police record check” means a search to be conducted of the Canadian Police Information Centre databases or another police database maintained by a police service in Canada to determine whether the databases contain entries relating to an individual in order to screen the individual; (“vérification de dossier de police”)
+
 “police service” means the Ontario Provincial Police or a police service maintained by a police service board; (“service de police”)
+
 “police service board” means,
+
 (a) a municipal board, or
+
 (b) a First Nation board; (“commission de service de police”)
+
 “policing function” means a function listed in subsection 11 (1) or a part of one of those functions; (“fonction policière”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “prescribed entity” means an entity that is prescribed to provide a policing function in an area in accordance with section 14; (“entité prescrite”)
+
 “prescribed policing provider” means a public sector body that is an institution within the meaning of the Freedom of Information and Protection of Privacy Act or the Municipal Freedom of Information and Protection of Privacy Act and that is prescribed to provide a policing function in an area in accordance with section 12; (“prestataire de services policiers prescrit”)
+
 “public sector body” means,
+
 (a) a Ministry, commission, board or other administrative unit of the Government of Ontario, including any agency thereof,
+
 (b) a municipality,
+
 (c) a local board as defined in subsection 1 (1) of the Municipal Act, 2001 or subsection 3 (1) of the City of Toronto Act, 2006,
+
 (d) a municipally-controlled corporation as defined in section 223.1 of the Municipal Act, 2001, and
+
 (e) a city-controlled corporation as defined in section 156 of the City of Toronto Act, 2006; (“organisme du secteur public”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “research” means a systematic investigation designed to develop or establish principles, facts or generalizable knowledge, or any combination of them, and includes the development, testing and evaluation of research; (“recherche”)
+
 “SIU Director” means the Special Investigations Unit Director appointed under subsection 5 (1) of the Special Investigations Unit Act, 2019; (“directeur de l’UES”)
+
 “special constable” means a person appointed as a special constable under section 92; (“constable spécial”)
+
 “special constable employer” means a person authorized to employ special constables under section 97; (“employeur de constables spéciaux”)
+
 “spouse” means,
+
 (a) a spouse as defined in section 1 of the Family Law Act, or
+
 (b) either of two persons who live together in a conjugal relationship outside marriage; (“conjoint”)
+
 “trade union” has the same meaning as in the Labour Relations Act, 1995; (“syndicat”)
+
 “youth crime” means offences, within the meaning of the Youth Criminal Justice Act (Canada), committed by a person while they were a young person within the meaning of that Act. (“délinquance juvénile”)
 
 ### Officer appointed under the Interprovincial Policing Act, 2009 deemed to be a member of a specific police service
 
 (2) For the purposes of sections 89 and 258 to 260 of this Act, section 25.1 of the Criminal Code (Canada) and any designation of a police force made by the Minister under section 2 of the Controlled Drugs and Substances Act (Police Enforcement) Regulations (Canada) or subsection 2 (1) of the Cannabis Act (Police Enforcement) Regulations (Canada), a person appointed as a police officer under the Interprovincial Policing Act, 2009 is deemed to be,
+
 (a) if he or she was appointed by a member of a police service maintained by a police service board, a member of that police service;
+
 (b) if he or she was appointed by a member of a police service board, a member of the police service maintained by the police service board; or
+
 (c) otherwise, a member of the Ontario Provincial Police.
 
 ### Meaning of municipality
 
 (3) For the purpose of every provision of this Act and the regulations, other than sections 25 and 55,
+
 “municipality” means,
+
 (a) a single-tier municipality;
+
 (b) a lower-tier municipality in a county or in the County of Oxford;
+
 (c) a regional municipality, other than the County of Oxford; or
+
 (d) any other municipality that has constituted a municipal board under subsection 25 (2).
 
 ### County of Oxford agreement
@@ -135,24 +217,43 @@ S.O. 2019, c. 1, Sched. 1
 ### Minister’s general duties
 
 3 (1) The Minister shall,
+
 (a) assist in the co-ordination of policing;
+
 (b) conduct activities, including research and analysis, to assist in the co-ordination of policing with the activities of prosecutors and other justice sector service providers;
+
 (c) support operations for the purpose of delivering policing functions;
+
 (d) consult with and advise police service boards, chiefs of police, special constable employers, prescribed policing providers, prescribed entities, municipalities, First Nations, entities that employ First Nation Officers, O.P.P. detachment boards, First Nation O.P.P. boards and police associations in respect of policing, the administration of police services and related matters, including,
+
 (i) the effectiveness, efficiency, sustainability and legitimacy of different methods of providing policing, and,
+
 (ii) compliance with the Canadian Charter of Rights and Freedoms and the Human Rights Code;
+
 (e) conduct research and analysis in respect of the matters described in clause (d);
+
 (f) consult with and advise police service boards, chiefs of police, municipalities and First Nations regarding the preparation, adoption and implementation of community safety and well-being plans;
+
 (g) conduct research and analysis to inform policy and program development, system planning and the evaluation of service delivery and outcomes in respect of policing, public complaints and related matters;
+
 (h) develop, maintain and manage records related to the appointment, education, training, suspension and discipline of police officers and special constables;
+
 (i) develop and promote programs for community-responsive policing;
+
 (j) monitor and evaluate programs, including their outcomes, that are related to policing or community safety and well-being plans and that are funded in whole or in part by the Ministry;
+
 (k) provide advice to ministries and Crown agencies concerning security risks and mitigation strategies;
+
 (l) develop, promote and provide education and training to,
+
 (i) enhance the professional provision of policing, and
+
 (ii) assist members of police service boards, O.P.P. detachment boards and First Nation O.P.P. boards in performing their duties;
+
 (m) develop and maintain education and training standards for use in the education and training of persons who provide policing functions and other persons governed by this Act;
+
 (n) operate the Ontario Police College; and
+
 (o) perform such other duties as are assigned to him or her by or under this Act.
 
 ### Ontario Police College continued
@@ -204,6 +305,7 @@ S.O. 2019, c. 1, Sched. 1
 ### De-identification, linking
 
 (5) The Minister shall comply with any prescribed requirements regarding the de-identification and linking of personal information collected under subsection 4 (1) or (2).
+
 (6)-(9) Repealed: 2023, c. 12, Sched. 1, s. 3.
 
 ### Security
@@ -213,12 +315,15 @@ S.O. 2019, c. 1, Sched. 1
 ### Notice required by s. 39 (2) of FIPPA
 
 (11) If the Minister collects personal information indirectly under subsection (1), the notice required by subsection 39 (2) of the Freedom of Information and Protection of Privacy Act may be given by,
+
 (a) a public notice posted on a Government of Ontario website; or
+
 (b) any other method that may be prescribed.
 
 ### Rights of access and correction
 
 (12) Nothing in this section limits the right of an individual under any Act to access and correct personal information about the individual.
+
 6-8 Repealed: 2023, c. 12, Sched. 1, s. 4.
 
 ### Review of information provisions
@@ -268,23 +373,33 @@ S.O. 2019, c. 1, Sched. 1
 ### Transition
 
 (7) Despite subsections (2) and (5), the Commissioner shall continue to have policing responsibility for a First Nation reserve that would otherwise be within a municipal board’s area of policing responsibility if,
+
 (a) the Commissioner provided policing to the First Nation under the Police Services Act immediately before the day this section came into force; and
+
 (b) no agreement has been made under section 27 to assign policing responsibility for the reserve to a municipal board.
 
 ### Adequate and effective policing
 
 11 (1) Adequate and effective policing means all of the following functions provided in accordance with the standards set out in the regulations, including the standards with respect to the avoidance of conflicts of interest, and with the requirements of the Canadian Charter of Rights and Freedoms and the Human Rights Code:
+
 1. Crime prevention.
+
 2. Law enforcement.
+
 3. Maintaining the public peace.
+
 4. Emergency response.
+
 5. Assistance to victims of crime.
+
 6. Any other prescribed policing functions.
 
 ### Does not include certain functions
 
 (2) Adequate and effective policing does not include,
+
 (a) the enforcement of municipal or First Nation by-laws, other than prescribed by-laws; and
+
 (b) providing court security in accordance with Part XV.
 
 ### Exceeding standards
@@ -298,16 +413,23 @@ S.O. 2019, c. 1, Sched. 1
 ### Prescribed policing provider
 
 12 (1) The regulations may provide that a prescribed policing provider shall provide a policing function in an area that,
+
 (a) is not among the primary duties of a constable at common law; or
+
 (b) is a specialized policing function.
 
 ### Provision by prescribed policing providers
 
 (2) The following rules apply if the regulations provide that a prescribed policing provider shall provide a policing function in an area:
+
 1. The prescribed policing provider shall provide the policing function in the area in accordance with the standards for adequate and effective policing.
+
 2. The police service board, or the Commissioner, that has policing responsibility for the area,
+
 i. is not responsible for providing the policing function in the area,
+
 ii. shall not provide the policing function in the area if the regulations so provide, and
+
 iii. shall cooperate with the prescribed policing provider to enable it to perform the policing function in the area in accordance with the standards for adequate and effective policing.
 
 ### Use of Personnel
@@ -323,7 +445,9 @@ iii. shall cooperate with the prescribed policing provider to enable it to perfo
 ### Referral
 
 (3) If responsibility for providing a policing function in relation to a specific investigation, vehicle pursuit, or other instance is referred to the chief of police of a different police service or otherwise transferred to a member of a different police service or to a police service board that maintains a different police service, the following rules apply:
+
 1. If the different police service is the Ontario Provincial Police, the Commissioner is responsible for complying with subsections (1) and (2).
+
 2. If the different police service is maintained by a police service board, the board is responsible for complying with subsections (1) and (2).
 
 ### Alternative provision
@@ -339,7 +463,9 @@ iii. shall cooperate with the prescribed policing provider to enable it to perfo
 ### Provision of certain functions
 
 (3) A police service board or the Commissioner shall only use members of a police service, or persons assisting those members while acting under their direction, to provide a policing function that,
+
 (a) is a crime prevention, law enforcement, emergency response or maintaining the public peace policing function; and
+
 (b) requires the exercise of the powers of a peace officer or a police officer.
 
 ### Prescribed requirements
@@ -353,22 +479,31 @@ iii. shall cooperate with the prescribed policing provider to enable it to perfo
 ### Contents of an agreement
 
 (6) An agreement under subsection (1) or (2) must,
+
 (a) identify the policing functions that will be provided under the agreement;
+
 (b) specify whether payment is required for the performance of the policing functions;
+
 (c) require the entity to provide information to the police service board or the Commissioner so that the board or the Commissioner will be able to fulfil their legal duties to provide reports under this or any other Act;
+
 (d) in the case of an agreement under subsection (2), contain an acknowledgment by the entity that it is subject to inspection by the Inspector General; and
+
 (e) address any other prescribed matters.
 
 ### Same
 
 (7) If an agreement under subsection (2) is with a prescribed entity that is not an institution within the meaning of the Freedom of Information and Protection of Privacy Act or the Municipal Freedom of Information and Protection of Privacy Act, or is not subject to comparable legislation in another jurisdiction, it must also address,
+
 (a) access to the records of the entity for the purpose of discharging the obligations of the police service board or Ministry in relation to subsection (8); and
+
 (b) the protection of personal information in the custody or control of the entity that is related to the provision of policing functions under the agreement.
 
 ### Prescribed entity records
 
 (8) If a prescribed entity is not an institution within the meaning of the Freedom of Information and Protection of Privacy Act or the Municipal Freedom of Information and Protection of Privacy Act, the entity’s records relating to the provision of policing functions pursuant to an agreement made under subsection (2) are, for the purposes of the Freedom of Information and Protection of Privacy Act or the Municipal Freedom of Information and Protection of Privacy Act, as applicable, deemed to be in the custody and control of,
+
 (a) the police service board, in the case of an agreement with a police service board; or
+
 (b) the Ministry, in the case of an agreement with the Commissioner.
 
 ### Non-application
@@ -386,7 +521,9 @@ iii. shall cooperate with the prescribed policing provider to enable it to perfo
 ### Responsibility of board or Commissioner
 
 (12) The police service board or the Commissioner, as applicable, shall ensure,
+
 (a) that the policing provided pursuant to an agreement made under subsection (1) or (2) meets the standards for adequate and effective policing; and
+
 (b) in the case of an agreement made under subsection (2), that the prescribed entity complies with subsection (11).
 
 ### Personnel to meet prescribed qualifications
@@ -428,7 +565,9 @@ iii. shall cooperate with the prescribed policing provider to enable it to perfo
 ### Extra policing cost
 
 18 (1) A person who causes a temporary increase in the cost of providing adequate and effective policing in an area by organizing an event, such as a parade or festival, engaging in an activity that involves the closure of a highway, engaging in a commercial enterprise or engaging in any other prescribed activity, may be charged for the cost of that temporary increase by,
+
 (a) a police service board, if its police service provided the policing; or
+
 (b) the Minister, if the Commissioner provided the policing.
 
 ### Agreement
@@ -464,53 +603,77 @@ iii. shall cooperate with the prescribed policing provider to enable it to perfo
 ### Temporary assistance notice
 
 (2) If a chief of police makes a request for temporary assistance under this section, the chief of police shall provide notice of the request as soon as possible to,
+
 (a) the Inspector General; and
+
 (b) the police service board of the chief of police or, in the case of a request made by the Commissioner, the Minister.
 
 ### Content of notice
 
 (3) The notice provided under subsection (2) shall include,
+
 (a) a description of the circumstances surrounding the temporary assistance request;
+
 (b) the policing functions that are requested;
+
 (c) the timeframe for the provision of the assistance;
+
 (d) the extent of the assistance required;
+
 (e) whether the chief of police or entity that employs First Nation Officers that is receiving the request has agreed to provide the assistance, in whole or in part;
+
 (f) the anticipated financial implications as a result of obtaining the assistance; and
+
 (g) any other prescribed matters.
 
 ### Notice of change
 
 (4) If a change occurs in any of the matters listed under subsection (3) after the notice of request for temporary assistance has been provided, the chief of police shall provide notice of the change as soon as possible to,
+
 (a) the Inspector General; and
+
 (b) the police service board of the chief of police or, in the case of a request made by the Commissioner, the Minister.
 
 ### Assessment upon receiving notice
 
 (5) Upon receiving a notice of request for temporary assistance under subsection (2) or a notice of change under subsection (4), the police service board of the chief of police or the Minister, as the case may be, shall determine,
+
 (a) whether the ability to request temporary assistance is used or is anticipated to be used on a recurring basis to ensure adequate and effective policing is provided; and
+
 (b) whether the policing functions for which temporary assistance is requested to be provided may need to be the subject of an agreement under subsection 14 (1) or (2) in order to ensure adequate and effective policing is provided and that section 13 is complied with.
 
 ### Rules re providing temporary assistance
 
 (6) The following rules apply to requests for temporary assistance made under this section:
+
 1. If the request is made to the Commissioner, the Commissioner shall provide such temporary assistance as the Commissioner considers necessary and shall stop providing the assistance when the Commissioner considers it is appropriate to do so.
+
 2. If the request is made to a chief of police other than the Commissioner, to an entity that employs First Nation Officers or to an entity governed by the law of another Canadian jurisdiction, the chief or entity may,
+
 i. decline to provide assistance, or
+
 ii. provide such temporary assistance as the chief or entity considers necessary and stop providing the assistance when the chief or entity considers it is appropriate to do so.
 
 ### Notice after assistance by chief of police has stopped
 
 (6.1) A chief of police who provided temporary assistance shall, after the assistance has stopped, provide notice to the Inspector General and the chief’s police service board or, if the chief is the Commissioner, to the Minister, with the following information:
+
 1. The chief of police’s decision to provide temporary assistance.
+
 2. Whether the request for temporary assistance was fulfilled in whole or in part.
+
 3. The financial implications of providing assistance.
+
 4. Any other prescribed matters.
 
 ### Notice after assistance by other entities has stopped
 
 (6.2) If the temporary assistance was provided by an entity that employs First Nation Officers or by an entity governed by the law of another Canadian jurisdiction, the chief of police who requested the assistance shall, after the assistance has stopped, provide notice to the Inspector General with the following information:
+
 1. Whether the request for temporary assistance was fulfilled in whole or in part by the entity.
+
 2. The financial implications of providing assistance for the entity, if known.
+
 3. Any other prescribed matters.
 
 ### May include policing functions
@@ -540,6 +703,7 @@ ii. provide such temporary assistance as the chief or entity considers necessary
 ### Cost, Commissioner
 
 (11) Section 65 applies to the cost of temporary assistance provided by the Commissioner.
+
 (12) Repealed: 2024, c. 27, Sched. 6, s. 4 (6).
 
 ### Inspector General powers
@@ -549,9 +713,13 @@ ii. provide such temporary assistance as the chief or entity considers necessary
 ### Rules
 
 (2) The following rules apply to orders made under subsection (1):
+
 1. If the order is made to the Commissioner, he or she shall provide policing in the area until the Inspector General determines otherwise.
+
 2. If the order is made to a police service board, the board may,
+
 i. decline to provide the policing, or
+
 ii. provide policing in the area as it considers necessary and stop providing the policing when it considers it appropriate to do so.
 
 ### Cost
@@ -585,22 +753,31 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Methods of providing municipal policing
 
 22 (1) Subject to subsection (2), every municipality may, with the approval of the Minister, do one of the following:
+
 1. Constitute a municipal board to have policing responsibility for the municipality.
+
 2. Enter into a written agreement under section 23 with one or more other municipalities to amalgamate their police services and jointly constitute a municipal board to have policing responsibility for the municipalities.
+
 3. Enter into a written agreement under section 24 with one or more other municipalities to jointly constitute a municipal board to have policing responsibility for the municipalities.
+
 4. Enter into a written agreement under section 26 with another municipality to have that municipality’s municipal board assume policing responsibility for the municipality.
+
 5. Enter into a written agreement with a First Nation board to have the board assume policing responsibility for the municipality by requesting an amendment to the regulation that constituted the board under section 32.
 
 ### Same — different methods in one municipality
 
 (2) In the circumstances listed in subsection (3) and with the Minister’s approval, the municipality may allow policing to be provided in more than one way in different areas of the municipality by doing either or both of the following:
+
 1. Providing policing in different ways in different areas by doing more than one of the actions listed in subsection (1).
+
 2. Entering into an agreement with the Minister to have the Commissioner assume policing responsibility for the area.
 
 ### Circumstances
 
 (3) Subsection (2) applies if,
+
 (a) the municipality consists of two or more widely dispersed communities or contains, within its boundaries, one or more communities that are remote from the rest of the municipality, and the policing responsibility will be split among those communities; or
+
 (b) policing has historically been provided to one or more discrete areas of the municipality in a manner that is different from the manner policing is provided in the rest of the municipality, and the split will continue that historic difference.
 
 ### Only one municipal board to be constituted
@@ -610,7 +787,9 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Criteria for Minister’s approval
 
 (5) The Minister may approve an arrangement to provide policing under subsection (1) or (2) if the Minister is satisfied that,
+
 (a) the arrangement will result in the provision of adequate and effective policing in the municipality for the foreseeable future; and
+
 (b) any prescribed requirements are satisfied.
 
 ### Same, non-contiguous areas
@@ -628,7 +807,9 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Transition
 
 (9) Despite subsection (1), any police service board that provided policing immediately before the day subsection (1) came into force,
+
 (a) continues to exist, even without the Minister’s approval; and
+
 (b) does not require the approval of the Minister to continue providing policing in substantially the same manner as it provided it immediately before the day subsection (1) came into force.
 
 ### Same
@@ -646,15 +827,25 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Contents of amalgamation agreement
 
 (3) The agreement must specify,
+
 (a) the composition of the police service board, including,
+
 (i) whether the board will be composed of five, seven or nine members,
+
 (ii) which municipality shall be entitled to have its head be a member of the board under clause 31 (4) (a), (5) (a) or (6) (a),
+
 (iii) which municipality shall appoint a member if the head described in subclause (ii) refuses or is not eligible to become a member of the board, and
+
 (iv) which municipality shall appoint the members of the board under clauses 31 (4) (b) and (c), (5) (b) and (c) or (6) (b) and (c) or how those appointments shall be allocated among the municipalities;
+
 (b) the amalgamation of the police services and the appointment or transfer of their members;
+
 (c) the municipal board’s use of the assets and its responsibility for the liabilities associated with the amalgamated police services;
+
 (d) the responsibilities of the different municipalities in relation to the estimates of the police service board and the establishing of the budget for the board;
+
 (e) how the municipalities will jointly discharge the duties of a municipality with respect to the municipal board; and
+
 (f) any other matter that is necessary or advisable to effect the amalgamation.
 
 ### Exception, appointments
@@ -676,13 +867,21 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Required contents
 
 (3) The agreement must specify,
+
 (a) the composition of the police service board, including,
+
 (i) whether the board will be composed of five, seven or nine members,
+
 (ii) which municipality shall be entitled to have its head be a member of the board under clause 31 (4) (a), (5) (a) or (6) (a),
+
 (iii) which municipality shall appoint a member if the head described in subclause (ii) refuses or is not eligible to become a member of the board, and
+
 (iv) which municipality shall appoint the members of the board under clauses 31 (4) (b) and (c), (5) (b) and (c) or (6) (b) and (c) or how those appointments shall be allocated among the municipalities;
+
 (b) the responsibilities of the different municipalities in relation to the estimates of the police service board and the establishing of the budget for the board;
+
 (c) how the municipalities will jointly discharge the duties of a municipality with respect to the municipal board; and
+
 (d) any other matter that is necessary or advisable to effect the constitution of the police service board.
 
 ### Application of other requirements
@@ -742,7 +941,9 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Effect on area of policing responsibility
 
 (3) When the agreement comes into effect,
+
 (a) the First Nation reserve shall become part of the municipal board’s area of policing responsibility, if it was not already part of that area; and
+
 (b) any other entity that previously had policing responsibility for the area no longer has that responsibility.
 
 ### Termination requirements
@@ -770,7 +971,9 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Transition
 
 (5) A municipality’s first diversity plan under subsection (1) shall be approved before the later of,
+
 (a) 12 months after the day this section comes into force; and
+
 (b) 12 months after the municipality constitutes its municipal board.
 
 ### Promotion of appointments by municipality
@@ -784,6 +987,7 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Definition
 
 (3) In this section,
+
 “public appointment” means an appointment by the Lieutenant Governor in Council or the Minister.
 
 ### Dissolution of municipal board
@@ -817,25 +1021,37 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Five-member boards
 
 (4) A municipal board that is composed of five members shall consist of,
+
 (a) the head of the municipal council or, if the head chooses not to be or is ineligible to be a member of the board, another member of the municipal council appointed by resolution of the municipality;
+
 (b) one member of the municipal council appointed by resolution of the municipality;
+
 (c) one person appointed by resolution of the municipality, who is neither a member of the municipal council nor an employee of the municipality; and
+
 (d) two persons appointed by the Lieutenant Governor in Council.
 
 ### Seven-member boards
 
 (5) A municipal board that is composed of seven members shall consist of,
+
 (a) the head of the municipal council or, if the head chooses not to be or is ineligible to be a member of the board, another member of the municipal council appointed by resolution of the municipality;
+
 (b) two members of the municipal council appointed by resolution of the municipality;
+
 (c) one person appointed by resolution of the municipality, who is neither a member of the municipal council nor an employee of the municipality; and
+
 (d) three persons appointed by the Lieutenant Governor in Council.
 
 ### Nine-member boards
 
 (6) A municipal board that is composed of nine members shall consist of,
+
 (a) the head of the municipal council or, if the head chooses not to be or is ineligible to be a member of the board, another member of the municipal council appointed by resolution of the municipality;
+
 (b) three members of the municipal council appointed by resolution of the municipality;
+
 (c) one person appointed by resolution of the municipality, who is neither a member of the municipal council nor an employee of the municipality; and
+
 (d) four persons appointed by the Lieutenant Governor in Council.
 
 ### L.G. in C. vacancies
@@ -845,7 +1061,9 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Reduced size
 
 (8) If the municipality reduces the size of its municipal board,
+
 (a) the appointments for all members of the board are terminated; and
+
 (b) the Lieutenant Governor in Council and the municipality, as applicable, shall appoint new members of the board to meet the requirements set out in subsections (4) to (6), which may include reappointments for some of the terminated members.
 
 ### Increased size
@@ -867,13 +1085,17 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Transition, existing boards
 
 (13) Despite subsection (2), a municipal board may continue to have the number of members that it had under the Police Services Act until the earlier of,
+
 (a) the day the municipality passes a resolution under subsection (3); or
+
 (b) the day that a new municipal council is organized following the first regular municipal election after the day this subsection comes into force.
 
 ### Same
 
 (14) If the municipality does not pass a resolution under subsection (3) before the day referred to in clause (13) (b), subsection (2) will begin applying to the municipal board on that day and,
+
 (a) if the application of subsection (2) has the effect of reducing the number of members of the municipal board, the procedure in subsection (8) shall be followed; and
+
 (b) if the application of subsection (2) has the effect of increasing the number of members of the municipal board, the procedure in subsection (9) shall be followed.
 
 ### First Nation Boards
@@ -893,10 +1115,15 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Contents of request
 
 (4) A request made under subsection (1) must specify,
+
 (a) the area for which the proposed board would have policing responsibility;
+
 (b) the composition of the proposed board;
+
 (c) the method of appointing members of the proposed board;
+
 (d) the name of the proposed board; and
+
 (e) the proposed term of office of members of the proposed board.
 
 ### Minister’s request
@@ -910,10 +1137,15 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### First Nation board regulations
 
 (7) The Minister may make regulations,
+
 (a) constituting a First Nation board to have policing responsibility for the requested area;
+
 (b) governing the composition of the First Nation board;
+
 (c) specifying the name of the First Nation board;
+
 (d) governing appointments to the First Nation board;
+
 (e) governing the term of office of members of the First Nation board.
 
 ### Consistency with request
@@ -927,22 +1159,31 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Considerations for amendment or revocation
 
 (10) In determining whether to amend or revoke a regulation made under subsection (7), the Minister shall consider,
+
 (a) the importance of First Nations determining the means by which culturally responsive policing is provided on their First Nation reserves; and
+
 (b) the effect of the revocation or amendment on the long-term viability of providing policing through First Nation boards.
 
 ### Limitation on amendment or revocation
 
 (11) The Minister shall not amend or revoke a regulation made under subsection (7) unless the Minister is satisfied that appropriate arrangements that satisfy any prescribed requirements have been made for the First Nations that are in the First Nation board’s area of policing responsibility to receive adequate and effective policing after the amendment or revocation takes effect and at least one of the following conditions is met:
+
 1. The amendment or revocation is consistent with a request from all of the band councils of the First Nations that are in the First Nation board’s area of policing responsibility.
+
 2. There has been a material change in the circumstances on which the regulation is based.
+
 3. The First Nation board was dissolved under section 126.
+
 4. The amendment is required to give effect to an agreement between the First Nation board and a municipality to have the First Nation board assume policing responsibility for the municipality.
+
 5. The amendment is editorial or technical in nature.
 
 ### Limitation on revocation
 
 (12) In addition to the requirements set out in subsection (11), the Minister shall not revoke a regulation made under subsection (7) unless he or she is satisfied that,
+
 (a) the police service board and the members of the police service have made an agreement dealing with severance pay; or
+
 (b) the issue of severance pay has been referred to arbitration.
 
 ### Arbitration
@@ -980,8 +1221,11 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Considerations
 
 33 (1) In appointing or reappointing a member of a police service board, the appointing person or body shall consider,
+
 (a) the need to ensure that the police service board is representative of the area it serves, having regard for the diversity of the population in the area;
+
 (b) the need for the police service board to have members with the prescribed competencies, if any; and
+
 (c) any applicable diversity plan.
 
 ### Police record check
@@ -995,16 +1239,23 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Other ineligible persons
 
 (4) The following persons are not eligible to be members of a police service board:
+
 1. A judge or justice of the peace.
+
 2. A member of a police service, a special constable or a First Nation Officer.
+
 3. Any person who practises criminal law as a defence counsel or as a prosecutor.
+
 4. A director, officer or employee of a prescribed policing provider.
+
 5. Any other prescribed persons.
 
 ### Former members of a police service
 
 (5) A former member of a police service is not eligible to be a member of a police service board unless,
+
 (a) the police service board does not maintain a police service that the person was a member of; and
+
 (b) at least one year has passed since the person ceased to be a member of any police service.
 
 ### Seat vacated by ineligibility
@@ -1032,7 +1283,9 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Same
 
 (2) A member of a municipal board appointed by resolution of a municipality may continue to sit until the earlier of,
+
 (a) six months after the expiry of his or her term of office; or
+
 (b) the day the member’s successor is appointed by the municipality.
 
 ### Vacancy
@@ -1052,11 +1305,17 @@ ii. provide policing in the area as it considers necessary and stop providing th
 ### Required training
 
 (2) A member of a police service board or of a committee of the board shall successfully complete the following training:
+
 1. The training approved by the Minister with respect to the role of a police service board and the responsibilities of members of a board or committee.
+
 2. The training approved by the Minister with respect to human rights and systemic racism.
+
 3. The training approved by the Minister that promotes recognition of and respect for,
+
 i. the diverse, multiracial and multicultural character of Ontario society, and
+
 ii. the rights and cultures of First Nation, Inuit and Métis Peoples.
+
 4. Any other training prescribed by the Minister.
 
 ### If training not completed
@@ -1088,16 +1347,27 @@ ii. the rights and cultures of First Nation, Inuit and Métis Peoples.
 ### Police service board duties
 
 37 (1) A police service board shall,
+
 (a) ensure that adequate and effective policing is provided in the area for which it has policing responsibility as required by section 10;
+
 (b) employ members of the police service;
+
 (c) appoint members of the police service as police officers;
+
 (d) recruit and appoint the chief of police and any deputy chief of police and determine their remuneration and working conditions, taking their submissions into account;
+
 (e) prepare and adopt a diversity plan to ensure that the members of the police service reflect the diversity of the area for which the board has policing responsibility;
+
 (f) monitor the chief of police’s performance;
+
 (g) conduct a review of the chief of police’s performance at least annually in accordance with the regulations made by the Minister, if any;
+
 (h) monitor the chief of police’s decisions regarding the restrictions on secondary activities set out in section 89 and review the reports from the chief of police on those decisions;
+
 (i) monitor the chief of police’s handling of discipline within the police service;
+
 (j) ensure that any police facilities, including police lock-ups, used by the board comply with the prescribed standards, if any; and
+
 (k) perform such other duties as are assigned to it by or under this or any other Act, including any prescribed duties.
 
 ### Prescribed standards
@@ -1111,12 +1381,19 @@ ii. the rights and cultures of First Nation, Inuit and Métis Peoples.
 ### Police service board policies
 
 38 (1) A police service board shall establish policies respecting,
+
 (a) the administration of the police service;
+
 (b) the provision of adequate and effective policing in accordance with the needs of the population of the area for which it has policing responsibility;
+
 (c) disclosure by the chief of police of personal information about individuals;
+
 (d) disclosure of secondary activities under section 89 and decisions under that section;
+
 (e) the handling of discipline within the police service;
+
 (f) subject to subsection (4), the indemnification of members of the police service for legal costs; and
+
 (g) any other prescribed matters.
 
 ### Other policies
@@ -1126,7 +1403,9 @@ ii. the rights and cultures of First Nation, Inuit and Métis Peoples.
 ### Consultations and considerations
 
 (3) A First Nation board that has policing responsibility for a First Nation reserve shall,
+
 (a) consult a person identified by the band council regarding the cultural traditions of the First Nation before establishing a policy under clause (1) (b); and
+
 (b) consider the cultural traditions of the First Nation while establishing the policy.
 
 ### Indemnification policy
@@ -1140,7 +1419,9 @@ ii. the rights and cultures of First Nation, Inuit and Métis Peoples.
 ### Other limitations on policies
 
 (6) The police service board shall not make policies that would,
+
 (a) require a member of the police service to do something or refrain from doing something where this would be inconsistent with his or her duties under this Act or the regulations; or
+
 (b) prohibit a member of the police service from attempting to collect information for the purpose of investigating an offence or assisting with the prosecution of an offence.
 
 ### Publication
@@ -1150,27 +1431,49 @@ ii. the rights and cultures of First Nation, Inuit and Métis Peoples.
 ### Strategic plan
 
 39 (1) The police service board shall, in accordance with the regulations, if any, prepare and adopt a strategic plan for the provision of policing, which shall address at least the following matters:
+
 1. How the police service board will ensure the provision of adequate and effective policing in accordance with the needs of the population of the area.
+
 2. The objectives, priorities and core functions of the police service.
+
 3. Quantitative and qualitative performance objectives and indicators of outcomes relating to,
+
 i. the provision of community-based crime prevention initiatives, community patrol and criminal investigation services,
+
 ii. community satisfaction with the policing provided,
+
 iii. emergency calls for service,
+
 iv. violent crime and clearance rates for violent crime,
+
 v. property crime and clearance rates for property crime,
+
 vi. youth crime and clearance rates for youth crime,
+
 vii. police assistance to victims of crime and re-victimization rates,
+
 viii. interactions with persons described in paragraphs 4 and 5 of this subsection,
+
 ix. road safety, and
+
 x. any other prescribed matters.
+
 4. Interactions with,
+
 i. youths,
+
 ii. members of racialized groups, and
+
 iii. members of First Nation, Inuit and Métis communities.
+
 5. Interactions with persons who appear to have a mental illness or a neurodevelopmental disability.
+
 6. Information technology.
+
 7. Resource planning.
+
 8. Police facilities.
+
 9. Any other prescribed matters.
 
 ### Same
@@ -1180,18 +1483,27 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Consultations
 
 (3) In preparing or revising the strategic plan, the police service board shall consult with,
+
 (a) the chief of police;
+
 (b) the municipal council of any municipalities in the board’s area of policing responsibility;
+
 (c) the band councils of any First Nations in the board’s area of policing responsibility;
+
 (d) groups representing diverse communities in the board’s area of policing responsibility;
+
 (e) school boards, community organizations, businesses and members of the public in the board’s area of policing responsibility; and
+
 (f) any other prescribed persons, organizations or groups.
 
 ### Considerations
 
 (4) In preparing or revising the strategic plan, the police service board shall consider, at a minimum,
+
 (a) the results of the consultations conducted under subsection (3);
+
 (b) any community safety and well-being plans adopted by the municipalities or First Nations that are in the board’s area of policing responsibility; and
+
 (c) the needs of members of diverse communities in the board’s area of policing responsibility, including the needs of members of racialized groups and of First Nation, Inuit and Métis communities.
 
 ### Review and revision
@@ -1233,8 +1545,11 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Other limitations on directions
 
 (7) The police service board shall not direct the chief of police to do anything that would,
+
 (a) contravene this Act or the regulations, or any other Act or regulation;
+
 (b) require a member of the police service to do something or refrain from doing something where this would be inconsistent with his or her duties under this Act or the regulations; or
+
 (c) prohibit a member of the police service from attempting to collect information for the purpose of investigating an offence or assisting with the prosecution of an offence.
 
 ### Chief of police may decline
@@ -1250,9 +1565,13 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Annual report
 
 41 (1) On or before June 30 in each year, the police service board shall file an annual report with its municipality or band council regarding,
+
 (a) the implementation of the board’s strategic plan and the achievement of the performance objectives identified in the strategic plan;
+
 (b) the affairs of the police service;
+
 (c) the provision of policing as it relates to any community safety and well-being plans adopted by the municipalities or First Nations that are in the board’s area of policing responsibility; and
+
 (d) any other prescribed matters.
 
 ### Publication
@@ -1272,7 +1591,9 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Delegation
 
 42 (1) A police service board may, by by-law,
+
 (a) establish a committee and delegate any of the board’s powers under this Act to the committee; or
+
 (b) if any power of the board under this Act is prescribed for the purposes of this section, delegate that power to an employee of the board who is not a member of the police service or to the chief of police.
 
 ### Content of by-law
@@ -1282,7 +1603,9 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Composition
 
 (3) A committee shall be composed of,
+
 (a) at least two members of the police service board, subject to subsection (4); and
+
 (b) any number of additional members, as long as a majority of the committee is composed of members of the police service board.
 
 ### Exception
@@ -1320,9 +1643,13 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Contents of notice
 
 (7) The notice must include,
+
 (a) the proposed agenda for the meeting; and
+
 (b) either,
+
 (i) the record of the most recent meeting of the police service board that was open to the public, other than the record of any part of the meeting that was closed to the public, or
+
 (ii) instructions on how a member of the public may access the record referred to in subclause (i).
 
 ### When meetings may be closed to public
@@ -1330,25 +1657,41 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Consideration
 
 44 (1) Before holding a meeting, a police service board, or a committee of the board, shall,
+
 (a) consider whether to close the meeting or part of the meeting to the public, having regard to the matters listed in subsections (2) and (3); and
+
 (b) if the board or committee decides to close the meeting or part of the meeting, state by resolution,
+
 (i) the fact of the holding of the closed meeting and the general nature of the matter to be considered at the closed meeting, or
+
 (ii) in the case of a meeting under subsection (6), the fact of the holding of the closed meeting, the general nature of its subject-matter and that it is to be closed under that subsection.
 
 ### Subject matter
 
 (2) The meeting or part of the meeting may be closed to the public if the subject matter being considered is,
+
 (a) the security of the property of the board;
+
 (b) personal matters about an identifiable individual, including members of the police service or any other employees of the board;
+
 (c) a proposed or pending acquisition or disposition of land by the board;
+
 (d) labour relations or employee negotiations;
+
 (e) litigation or potential litigation affecting the board, including matters before administrative tribunals;
+
 (f) advice that would be inadmissible in a court by reason of any privilege under the law of evidence, including communications necessary for that purpose;
+
 (g) information explicitly supplied in confidence to the board by Canada, a province or territory or a Crown agency of any of them, a municipality or a First Nation;
+
 (h) a trade secret or scientific, technical, commercial, financial or labour relations information, supplied in confidence to the board, which, if disclosed, could reasonably be expected to prejudice significantly the competitive position or interfere significantly with the contractual or other negotiations of a person, group of persons, or organization;
+
 (i) a trade secret or scientific, technical, commercial or financial information that belongs to the board and has monetary value or potential monetary value;
+
 (j) a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the board;
+
 (k) information that section 8 of the Municipal Freedom of Information and Protection of Privacy Act would authorize a refusal to disclose if it were contained in a record; or
+
 (l) an ongoing investigation respecting the police service board.
 
 ### When meetings must be closed to the public
@@ -1358,9 +1701,13 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Duty of confidentiality
 
 (4) The members of the board or committee shall keep any matter considered in a meeting closed under subsection (2) or (3) confidential, including by keeping confidential any information obtained for the purpose of considering the confidential matter, except,
+
 (a) for the purpose of complying with an inspector exercising their powers or duties under this Act;
+
 (b) as may otherwise be required in connection with the administration of this Act, the Special Investigations Unit Act, 2019 or the regulations made under either of them;
+
 (c) as may be required for a law enforcement purpose; or
+
 (d) where disclosure is otherwise required by law.
 
 ### Disclosure by resolution
@@ -1370,7 +1717,9 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Educational or training sessions
 
 (6) A meeting of a police service board, or of a committee of the board, may be closed to the public if the following conditions are both satisfied:
+
 1. The meeting is held for the purpose of educating or training the members of the board or of the committee.
+
 2. At the meeting, no member of the board or committee considers or otherwise deals with any matter in a way that materially advances the business or decision-making of the board.
 
 ### Evidence of by-laws
@@ -1392,8 +1741,11 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Indemnification by police service board
 
 (2) A police service board may, in accordance with the policies established under clause 38 (1) (f), indemnify a member of its police service for reasonable legal costs incurred,
+
 (a) in the defence of a civil proceeding, if the member is not found to be liable;
+
 (b) in the defence of a criminal prosecution, if the member is found not guilty; or
+
 (c) in respect of any other proceeding in which the member’s manner of execution of the duties of his or her employment was an issue, if the member is found to have acted in good faith.
 
 ### Agreement
@@ -1427,13 +1779,17 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Municipal board finances
 
 50 (1) A municipality that maintains a municipal board shall provide the board with sufficient funding to,
+
 (a) comply with this Act and the regulations; and
+
 (b) pay the expenses of the board’s operation, other than the remuneration of board members.
 
 ### Estimates
 
 (2) A municipal board shall submit operating and capital estimates to the municipality that will show, separately, the amounts that will be required to,
+
 (a) comply with this Act and the regulations, including the amounts required to provide the police service with required equipment and facilities, having regard for the various ways that the board can discharge this obligation; and
+
 (b) pay the expenses of the board’s operation, other than the remuneration of board members.
 
 ### Same
@@ -1451,7 +1807,9 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Dispute
 
 (6) If the municipal board is not satisfied that the budget established for it by the municipality is sufficient for the purposes described in clauses (1) (a) and (b),
+
 (a) the municipal board and the municipality may jointly apply to the Commission Chair to appoint a conciliation officer to attempt to resolve the matter; or
+
 (b) the municipal board may give the municipality written notice referring the matter to arbitration.
 
 ### Conciliation procedure
@@ -1469,7 +1827,9 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Appointment by Commission Chair
 
 (10) The Commission Chair shall appoint an arbitrator if,
+
 (a) the municipal board and the municipality do not jointly appoint an arbitrator within the time period set out in subsection (9) and the Commission Chair has been notified by either party; or
+
 (b) the municipal board and the municipality jointly apply to the Commission Chair requesting the appointment of an arbitrator.
 
 ### Findings
@@ -1487,13 +1847,17 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Funding review, First Nation board
 
 51 (1) This section applies if a First Nation board believes that the funding it receives from the Minister and from all other sources is not sufficient to,
+
 (a) comply with this Act and the regulations, including the amounts required to provide the police service with required equipment and facilities, having regard for the various ways that the board can discharge this obligation; and
+
 (b) pay the expenses of the board’s operation.
 
 ### Dispute
 
 (2) If a First Nation board is not satisfied that the funding is sufficient for the purposes described in clauses (1) (a) and (b),
+
 (a) the First Nation board and the Minister may jointly apply to the Commission Chair to appoint a conciliation officer to attempt to resolve the matter; or
+
 (b) the First Nation board may give the Minister written notice referring the matter to arbitration.
 
 ### Conciliation procedure
@@ -1511,7 +1875,9 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Appointment by Commission Chair
 
 (6) The Commission Chair shall appoint an arbitrator if,
+
 (a) the First Nation board and the Minister do not jointly appoint an arbitrator within the time period set out in subsection (5) and the Commission Chair has been notified by either party; or
+
 (b) the First Nation board and the Minister jointly apply to the Commission Chair requesting the appointment of an arbitrator.
 
 ### Considerations
@@ -1547,7 +1913,9 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Inspector General’s approval
 
 (3) The Inspector General may approve the termination of a member of a police service under subsection (1) or a plan for attrition under subsection (2) if he or she is satisfied that,
+
 (a) appropriate arrangements have been made for the provision of adequate and effective policing in the area after the police service is reduced in size or abolished; and
+
 (b) in the case of termination, the member being terminated and the police service board have made an agreement dealing with severance pay or have referred the issue of severance pay to arbitration under subsection (4).
 
 ### Arbitration
@@ -1589,6 +1957,7 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Appointments
 
 (3) The Commissioner may, in accordance with any diversity plan, policy or directive that is applicable to the public service of Ontario, appoint members of the Ontario Provincial Police as police officers.
+
 (4) Repealed: 2023, c. 12, Sched. 1, s. 21 (1).
 
 ### Transition
@@ -1602,18 +1971,27 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Commissioner’s duties
 
 57 The Commissioner shall,
+
 (a) provide adequate and effective policing in the area for which he or she has policing responsibility as required by section 10;
+
 (b) perform duties under this or any other Act related to the employment of members of the Ontario Provincial Police in accordance with any diversity plan, policy or directive that is applicable to the public service of Ontario;
+
 (c) maintain a traffic patrol on the King’s Highway, except the parts prescribed by the Minister;
+
 (d) maintain a traffic patrol on a highway or part of a highway that is designated as a connecting link under section 21 of the Public Transportation and Highway Improvement Act, except as prescribed by the Minister;
+
 (e) maintain investigative services to assist other police services in accordance with the Minister’s policies; and
+
 (f) perform such other duties as are assigned to the Commissioner by or under this or any other Act, including any prescribed duties.
 
 ### Annual report
 
 58 (1) On or before June 30 in each year, the Commissioner shall file an annual report with the Minister that addresses at least the following matters:
+
 1. The implementation of the Minister’s strategic plan and the achievement of the performance objectives identified in the strategic plan.
+
 2. The affairs of the Ontario Provincial Police.
+
 3. Any other prescribed matters.
 
 ### Publication and tabling
@@ -1625,21 +2003,33 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Minister’s O.P.P. duties
 
 59 The Minister shall,
+
 (a) monitor the Commissioner’s performance;
+
 (b) conduct a review of the Commissioner’s performance at least annually in accordance with the regulations, if any;
+
 (c) monitor the Commissioner’s handling of discipline within the Ontario Provincial Police;
+
 (d) ensure that any police facilities, including police lock-ups, used by the Ontario Provincial Police comply with the prescribed standards, if any; and
+
 (e) perform such other duties in respect of the Ontario Provincial Police as are assigned to the Minister by or under this Act, including any prescribed duties.
 
 ### Minister’s policies
 
 60 (1) Subject to subsection (2), the Minister shall establish policies respecting,
+
 (a) the provision of adequate and effective policing by the Commissioner in accordance with the needs of the population in the areas for which the Commissioner has policing responsibility;
+
 (b) disclosure by the Commissioner of personal information about individuals;
+
 (c) investigative services that the Commissioner must provide to other police services;
+
 (d) the handling of discipline within the Ontario Provincial Police;
+
 (e) subject to subsection (4) and to the regulations, the indemnification of members of the Ontario Provincial Police for legal costs; and
+
 (f) any other prescribed matters.
+
 (2) Repealed: 2023, c. 12, Sched. 1, s. 23.
 
 ### Other policies
@@ -1657,7 +2047,9 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Other limitations on policies
 
 (6) The Minister shall not make policies,
+
 (a) that would require a member of the Ontario Provincial Police to do something or refrain from doing something where this would be inconsistent with his or her duties under this Act or the regulations; or
+
 (b) that would prohibit a member of the Ontario Provincial Police from attempting to collect information for the purpose of investigating an offence or assisting with the prosecution of an offence.
 
 ### Publication
@@ -1667,27 +2059,49 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Strategic plan
 
 61 (1) The Minister shall, in accordance with the regulations, if any, prepare and adopt a strategic plan for the provision of policing by the Commissioner, which shall address at least the following matters:
+
 1. How the Commissioner will ensure the provision of adequate and effective policing in accordance with the needs of the population of the areas for which he or she has policing responsibility.
+
 2. The objectives, priorities and core functions of the Ontario Provincial Police.
+
 3. Quantitative and qualitative performance objectives and indicators of outcomes relating to,
+
 i. the provision of community-based crime prevention initiatives, community patrol and criminal investigation services,
+
 ii. community satisfaction with the policing provided,
+
 iii. emergency calls for service,
+
 iv. violent crime and clearance rates for violent crime,
+
 v. property crime and clearance rates for property crime,
+
 vi. youth crime and clearance rates for youth crime,
+
 vii. police assistance to victims of crime and re-victimization rates,
+
 viii. interactions with persons described in paragraphs 4 and 5 of this subsection,
+
 ix. road safety, and
+
 x. any other prescribed matters.
+
 4. Interactions with,
+
 i. youths,
+
 ii. members of racialized groups, and
+
 iii. members of First Nation, Inuit and Métis communities.
+
 5. Interactions with persons who appear to have a mental illness or a neurodevelopmental disability.
+
 6. Information technology.
+
 7. Resource planning.
+
 8. Police facilities.
+
 9. Any other prescribed matters.
 
 ### Same
@@ -1725,8 +2139,11 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Other limitations on directions
 
 (6) The Minister shall not direct the Commissioner to do anything that would,
+
 (a) contravene this Act or the regulations, or any other Act or regulation;
+
 (b) require a member of the Ontario Provincial Police to do something or refrain from doing something where this would be inconsistent with his or her duties under this Act or the regulations; or
+
 (c) prohibit a member of the Ontario Provincial Police from attempting to collect information for the purpose of investigating an offence or assisting with the prosecution of an offence.
 
 ### Commissioner may decline
@@ -1746,8 +2163,11 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Indemnification of member of O.P.P.
 
 (2) The Minister of Finance may indemnify, out of the Consolidated Revenue Fund, a member of the Ontario Provincial Police for reasonable legal costs incurred,
+
 (a) in the defence of a civil proceeding, if the member is not found to be liable;
+
 (b) in the defence of a criminal prosecution, if the member is found not guilty; or
+
 (c) in respect of any other proceeding in which the member’s manner of execution of the duties of his or her employment was an issue, if the member is found to have acted in good faith.
 
 ### Agreement
@@ -1819,25 +2239,41 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Application of other provisions
 
 (6) The following provisions apply to O.P.P. detachment boards, with necessary modifications, as if they were police service boards:
+
 1. Section 33 (Appointment).
+
 2. Subsections 35 (1) to (5) (Oath, training and conduct).
+
 3. Section 36 (Election of chair).
+
 4. Section 42 (Delegation).
+
 5. Section 43 (Meetings).
+
 6. Section 44 (When meetings may be closed to public).
+
 7. Section 45 (Evidence of by-laws).
+
 8. Section 46 (Rules and procedures).
+
 9. Section 48 (Protection from personal liability).
+
 10. Section 49 (Police service board may contract, sue and be sued).
 
 ### Role
 
 68 (1) The O.P.P. detachment board shall,
+
 (a) participate in the Commissioner’s selection of a permanent detachment commander in accordance with the process established by the Commissioner;
+
 (b) determine objectives and priorities for the detachment, not inconsistent with the strategic plan prepared by the Minister, after consultation with the detachment commander or his or her designate;
+
 (c) advise the detachment commander with respect to policing provided by the detachment;
+
 (d) monitor the performance of the detachment commander;
+
 (e) review the reports from the detachment commander regarding policing provided by the detachment; and
+
 (f) on or before June 30 in each year, provide an annual report to the municipalities and band councils regarding the policing provided by the detachment in their municipalities or First Nation reserves.
 
 ### Detachment commander, selection process
@@ -1867,15 +2303,25 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Local policy requirements
 
 (2) A local policy established under subsection (1) must meet the following requirements:
+
 1. The local policy must not be inconsistent with,
+
 i. the strategic plan prepared by the Minister,
+
 ii. any policies established by the Minister under section 60,
+
 iii. any procedures established by the Commissioner, or
+
 iv. the local action plan prepared by the detachment commander.
+
 2. The local policy must not relate to specific investigations, the conduct of specific operations, the management or discipline of specific police officers or other prescribed matters.
+
 3. The local policy must not require a member of the Ontario Provincial Police to do something or refrain from doing something where this would be inconsistent with his or her duties under this Act or the regulations.
+
 4. The local policy must not prohibit a member of the Ontario Provincial Police from attempting to collect information for the purpose of investigating an offence or assisting with the prosecution of an offence.
+
 5. The local policy must not require a member of the Ontario Provincial Police to provide any policing that is not required as a component of adequate and effective policing.
+
 6. The local policy must comply with any prescribed requirements.
 
 ### Detachment commander to comply with local policies
@@ -1885,7 +2331,9 @@ iv. the local action plan prepared by the detachment commander.
 ### Dispute
 
 (4) If a detachment commander believes that a local policy of his or her O.P.P. detachment board does not comply with subsection (2),
+
 (a) he or she shall inform the O.P.P. detachment board, in writing, of the reasons why he or she believes that the local policy does not comply with subsection (2); and
+
 (b) despite subsection (3), he or she is not required to ensure that policing is provided in accordance with the policy unless directed to do so by the Commissioner under subsection (5).
 
 ### Application for review
@@ -1903,23 +2351,41 @@ iv. the local action plan prepared by the detachment commander.
 ### Local action plan
 
 70 (1) A detachment commander shall, in accordance with the regulations, if any, prepare and adopt a local action plan for the provision of policing provided by the detachment, which shall address at least the following matters:
+
 1. How adequate and effective policing will be provided in the area served by the detachment, in accordance with the needs of the population in the area and having regard for the diversity of the population in the area.
+
 2. The objectives and priorities for the detachment determined by the O.P.P. detachment board and such other objectives and priorities determined by the detachment commander.
+
 3. Quantitative and qualitative performance objectives and indicators of outcomes relating to,
+
 i. the provision of community-based crime prevention initiatives, community patrol and criminal investigation services,
+
 ii. community satisfaction with the policing provided,
+
 iii. emergency calls for service,
+
 iv. violent crime and clearance rates for violent crime,
+
 v. property crime and clearance rates for property crime,
+
 vi. youth crime and clearance rates for youth crime,
+
 vii. police assistance to victims of crime and re-victimization rates,
+
 viii. interactions with persons described in paragraphs 4 and 5 of this subsection,
+
 ix. road safety, and
+
 x. any other prescribed matters.
+
 4. Interactions with,
+
 i. youths,
+
 ii. members of racialized groups, and
+
 iii. members of First Nation, Inuit and Métis communities.
+
 5. Interactions with persons who appear to have a mental illness or a neurodevelopmental disability.
 
 ### Same
@@ -1929,18 +2395,27 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Consultations
 
 (3) In preparing or revising the local action plan, the detachment commander shall consult with,
+
 (a) his or her O.P.P. detachment board;
+
 (b) the municipal council of any municipalities that receive policing from the detachment;
+
 (c) the band councils of any First Nations that receive policing from the detachment;
+
 (d) groups representing diverse communities in the area that receives policing from the detachment;
+
 (e) school boards, community organizations, businesses and members of the public in the area that receives policing from the detachment; and
+
 (f) any other prescribed persons, organizations or groups.
 
 ### Considerations
 
 (4) In preparing or revising the local action plan, the detachment commander shall consider, at a minimum,
+
 (a) the results of the consultations conducted under subsection (3);
+
 (b) any community safety and well-being plans adopted by the municipalities or First Nations that receive policing from the detachment; and
+
 (c) the needs of members of diverse communities in the area that receives policing from the detachment, including the needs of members of racialized groups and of First Nation, Inuit and Métis communities.
 
 ### Submission of draft
@@ -1990,6 +2465,7 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Same
 
 (8) If the O.P.P. detachment board and the municipality or municipalities do not jointly appoint an arbitrator, the board or the municipality or municipalities may apply to the Commission Chair to appoint an arbitrator.
+
 72-75 Repealed: 2023, c. 12, Sched. 1, s. 32.
 
 ### Agreements with First Nations
@@ -2005,17 +2481,25 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Optional contents
 
 (3) The agreement may address any other matters, including,
+
 (a) the manner in which the policing and other services will be provided, including requiring it to be provided by police officers or other members of the Ontario Provincial Police who work primarily or exclusively in the First Nation reserve or other specified area;
+
 (b) the steps that will be taken to ensure that the policing and other services reflect the cultural traditions of the First Nation;
+
 (c) the qualifications of the members of the Ontario Provincial Police who provide the policing and other services;
+
 (d) the uniform of the members of the Ontario Provincial Police who provide the policing and other services;
+
 (e) the mediation, arbitration or resolution of disputes that may arise in relation to the agreement; and
+
 (f) funding for a First Nation O.P.P. board.
 
 ### Effect on area of policing responsibility
 
 (4) When the agreement comes into effect,
+
 (a) the First Nation reserve shall become part of the Commissioner’s area of policing responsibility, if it was not already part of that area; and
+
 (b) any police service board that previously had policing responsibility for the area no longer has that responsibility.
 
 ### Duties of Commissioner
@@ -2037,10 +2521,15 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Contents of request
 
 (4) A request made under subsection (1) must specify,
+
 (a) the area that is, or that is intended to be, within the Commissioner’s area of policing responsibility for which the proposed board shall have the powers, duties and functions set out in section 78;
+
 (b) the composition of the proposed board;
+
 (c) the method of appointing members of the proposed board;
+
 (d) the name of the proposed board; and
+
 (e) the proposed term of office of members of the proposed board.
 
 ### Minister’s request
@@ -2054,10 +2543,15 @@ iii. members of First Nation, Inuit and Métis communities.
 ### First Nation O.P.P. board regulations
 
 (7) The Minister may make regulations,
+
 (a) constituting a First Nation O.P.P. board for the requesting band council or councils;
+
 (b) governing the composition of the First Nation O.P.P. board;
+
 (c) specifying the name of the First Nation O.P.P. board;
+
 (d) governing appointments to the First Nation O.P.P. board; and
+
 (e) governing the term of office of members of the First Nation O.P.P. board.
 
 ### Consistency with request
@@ -2071,9 +2565,13 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Limitation on amendment or revocation
 
 (10) The Minister shall not amend or revoke a regulation made under subsection (7) unless the Minister is satisfied that appropriate arrangements that satisfy any prescribed requirements have been made for the First Nation that requested the constitution of the First Nation O.P.P. board to receive adequate and effective policing after the amendment or revocation takes effect and at least one of the following conditions is met:
+
 1. The amendment or revocation is consistent with a request from the band council of the First Nation that requested the constitution of the First Nation O.P.P. board.
+
 2. There has been a material change in the circumstances on which the regulation is based.
+
 3. The First Nation O.P.P. board was dissolved under section 126.
+
 4. The amendment is editorial or technical in nature.
 
 ### Limitation on revocation
@@ -2135,15 +2633,21 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Same, Commissioner
 
 (2) The Commissioner shall,
+
 (a) administer the Ontario Provincial Police and oversee its operation in accordance with the Minister’s policies and strategic plan;
+
 (b) comply with any investigations conducted by the Complaints Director or the SIU Director and any inspections conducted by the Inspector General; and
+
 (c) comply with the Minister’s lawful directions.
 
 ### Same, other chief of police
 
 (3) A chief of police of a police service maintained by a police service board shall,
+
 (a) administer the police service and oversee its operation in accordance with the board’s policies and strategic plan;
+
 (b) comply with any investigations conducted by the Complaints Director or the SIU Director and any inspections conducted by the Inspector General; and
+
 (c) comply with the lawful directions of the board.
 
 ### Written procedures
@@ -2165,13 +2669,21 @@ iii. members of First Nation, Inuit and Métis communities.
 ### Purpose of disclosure
 
 (2) Any disclosure made under subsection (1) shall be for one or more of the following purposes:
+
 1. Protection of the public.
+
 2. Protection of victims of crime.
+
 3. Keeping victims of crime informed of the law enforcement, judicial or correctional processes relevant to the crime that affected them.
+
 4. Law enforcement.
+
 5. Correctional purposes.
+
 6. Administration of justice, including the conduct of civil proceedings.
+
 7. Enforcement of and compliance with any federal or provincial Act, regulation or government program.
+
 8. Keeping the public informed of the law enforcement, judicial or correctional processes respecting any individual.
 
 ### Same
@@ -2185,16 +2697,23 @@ iii. members of First Nation, Inuit and Métis communities.
 ### SIU investigation of member of police service
 
 81 (1) If the SIU Director causes an incident to be investigated under section 15 of the Special Investigations Unit Act, 2019 involving a member of a police service, other than a deputy chief of police, the chief of police of the police service shall investigate,
+
 (a) the member’s conduct in relation to the incident;
+
 (b) the policing provided by the member in relation to the incident; and
+
 (c) the procedures established by the chief of police as they related to the incident.
 
 ### Time for investigation
 
 (2) The investigation shall occur promptly, subject to the following rules:
+
 1. The investigation shall not be conducted during the time period described in subsection 208 (3).
+
 2. If the matter that is the subject of an investigation under this section becomes the subject of a prosecution of an offence under a law of Canada, a province or a territory, the following rules apply:
+
 i. The chief of police shall consult a Crown Attorney or prosecutor and, if advised by a Crown Attorney or prosecutor to do so, postpone the commencement of the investigation under this section, or suspend it, for as long as is necessary in the Crown Attorney’s or prosecutor’s opinion to avoid interfering with the prosecution.
+
 ii. Whether or not postponement or suspension is required under subparagraph i, the chief of police may postpone the commencement of the investigation under this section, or suspend it, for as long as is necessary in the chief’s opinion to avoid interfering with the prosecution.
 
 ### Outside investigation
@@ -2218,15 +2737,25 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Duties of police officer
 
 82 (1) The duties of a police officer include,
+
 (a) preserving the peace;
+
 (b) preventing crimes and other offences and providing assistance and encouragement to other persons in their prevention;
+
 (c) assisting victims of crime;
+
 (d) apprehending criminals and other offenders and others who may lawfully be taken into custody;
+
 (e) laying charges and participating in prosecutions;
+
 (f) executing warrants that are to be executed by police officers and performing related duties;
+
 (g) performing the lawful duties that the chief of police assigns;
+
 (h) completing training required by this Act or the regulations;
+
 (i) complying with the prescribed code of conduct; and
+
 (j) performing such other duties as are assigned to him or her by or under this or any other Act, including any prescribed duties.
 
 ### Power to act throughout Ontario
@@ -2240,23 +2769,41 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Appointment of police officer
 
 83 (1) No person shall be appointed as a police officer unless he or she,
+
 (a) is a Canadian citizen or a permanent resident of Canada;
+
 (b) is at least 18 years of age;
+
 (c) is physically and mentally able to perform the duties of the position, having regard to his or her own safety and the safety of members of the public;
+
 (d) is of good character;
+
 (e) has successfully completed,
+
 (i) the training prescribed by the Minister, including techniques to de-escalate conflict situations and any other matters prescribed by the Minister, unless the person has been exempted from some or all of this training in accordance with the regulations made by the Minister,
+
 (ii) the training approved by the Minister with respect to human rights and systemic racism, and
+
 (iii) the training approved by the Minister that promotes recognition of and respect for,
+
 (A) the diverse, multiracial and multicultural character of Ontario society, and
+
 (B) the rights and cultures of First Nation, Inuit and Métis Peoples;
+
 (f) meets one of the following conditions:
+
 (i) The person has a secondary school diploma or equivalent.
+
 (ii) The person has,
+
 (A) a university degree,
+
 (B) a degree from a college of applied arts and technology established under the Ontario Colleges of Applied Arts and Technology Act, 2002 that is authorized to grant the degree, or
+
 (C) a degree from an Indigenous Institute that is approved under the Indigenous Institutes Act, 2017 to grant the degree.
+
 (iii) The person has a diploma or advanced diploma granted by a college of applied arts and technology described in sub-subclause (ii) (B), or an Indigenous Institute described in sub-subclause (ii) (C), following successful completion of a program that is the equivalent in class hours of a full-time program of at least four academic semesters.
+
 (iv) The person has been granted a certificate or other document by a post-secondary institution evidencing successful completion of a program that the regulations prescribe as being equivalent to a degree or diploma described in subclause (ii) or (iii).
 
 ### Previous termination for cause
@@ -2332,7 +2879,9 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Incapacity after accommodation
 
 (2) The police service board or the Commissioner may terminate the member’s employment, or retire him or her if entitled to retire with an unreduced pension, if, after holding a hearing in accordance with the regulations, if any, at which the evidence of two legally qualified medical practitioners is received, the board or the Commissioner determines,
+
 (a) on the basis of the information available, that the member is mentally or physically disabled and as a result is incapable of performing the essential duties of the member’s position; and
+
 (b) that the member’s needs cannot be accommodated in accordance with the Human Rights Code without undue hardship on the board or on the Crown in right of Ontario, as applicable.
 
 ### Written reasons
@@ -2342,15 +2891,21 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Restrictions on secondary activities
 
 89 (1) A member of a police service maintained by a police service board shall not engage in any activity,
+
 (a) that interferes with or influences adversely the performance of his or her duties as a member of a police service, or is likely to do so;
+
 (b) that places him or her in a position of conflict of interest, or is likely to do so;
+
 (c) that would otherwise constitute full-time employment for another person; or
+
 (d) in which he or she has an advantage derived from being a member of a police service.
 
 ### Exception, interprovincial officers and auxiliary members
 
 (2) Clause (1) (c) does not apply to,
+
 (a) a police officer appointed under the Interprovincial Policing Act, 2009; or
+
 (b) an auxiliary member of a police service.
 
 ### Disclosure to chief of police
@@ -2400,7 +2955,9 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Authority of auxiliary members of police service
 
 (5) An auxiliary member of a police service has the authority of a police officer if he or she,
+
 (a) is accompanied or supervised by a police officer in accordance with the regulations made by the Minister and the procedures established by the chief of police; and
+
 (b) is authorized to perform police duties by the chief of police.
 
 ### Restriction
@@ -2424,35 +2981,61 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Employment
 
 91.1 A special constable may only be one of the following:
+
 1. A member of the Ontario Provincial Police.
+
 2. Employed by a police service board.
+
 3. Employed by a special constable employer.
 
 ### Appointment
 
 92 (1) A police service board or the Commissioner may appoint a person as a special constable if he or she,
+
 (a) has an offer of employment to be employed as a special constable from, or is currently employed as a special constable by,
+
 (i) the board or the Commissioner, or
+
 (ii) a special constable employer located in the area for which the board or the Commissioner has policing responsibility;
+
 (b) is a Canadian citizen or a permanent resident of Canada;
+
 (c) is at least 18 years of age;
+
 (d) is physically and mentally able to perform the duties of the position, having regard to his or her own safety and the safety of members of the public;
+
 (e) is of good character;
+
 (f) has successfully completed,
+
 (i) the training prescribed by the Minister, including techniques to de-escalate conflict situations and any other matters prescribed by the Minister, unless the person has been exempted from some or all of this training in accordance with the regulations made by the Minister,
+
 (ii) the training approved by the Minister with respect to human rights and systemic racism, and
+
 (iii) the training approved by the Minister that promotes recognition of and respect for,
+
 (A) the diverse, multiracial and multicultural character of Ontario society, and
+
 (B) the rights and cultures of First Nation, Inuit and Métis Peoples;
+
 (g) meets one of the following conditions:
+
 (i) The person has a secondary school diploma or equivalent.
+
 (ii) The person has,
+
 (A) a university degree,
+
 (B) a degree from a college of applied arts and technology established under the Ontario Colleges of Applied Arts and Technology Act, 2002 that is authorized to grant the degree, or
+
 (C) a degree from an Indigenous Institute that is approved under the Indigenous Institutes Act, 2017 to grant the degree.
+
 (iii) The person has a diploma or advanced diploma granted by a college of applied arts and technology described in sub-subclause (ii) (B), or an Indigenous Institute described in sub-subclause (ii) (C), following successful completion of a program that is the equivalent in class hours of a full-time program of at least four academic semesters.
+
 (iv) The person has been granted a certificate or other document by a post-secondary institution evidencing successful completion of a program that the regulations prescribe as being equivalent to a degree or diploma described in subclause (ii) or (iii);
+
 (h) satisfies any additional educational criteria required, by the regulations, to be appointed for the purposes specified under clause (7) (c); and
+
 (i) satisfies any additional prescribed criteria.
 
 ### Exception
@@ -2470,7 +3053,9 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Exception
 
 (5) Subsection (4) does not apply if the police service board or the Commissioner has a written agreement with the entity that has policing responsibility for the area that,
+
 (a) authorizes the board or the Commissioner to make such an appointment; and
+
 (b) addresses any other prescribed matters.
 
 ### Certificate of appointment
@@ -2480,11 +3065,17 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Contents of certificate
 
 (7) The police service board or the Commissioner shall specify in the certificate of appointment,
+
 (a) the name of the employer who may employ the appointee as a special constable;
+
 (b) the term of the appointment, which must not be more than the prescribed period, if any;
+
 (c) the purposes for which the person may act as a special constable, from among those set out in the regulations;
+
 (d) the powers of a police officer that the special constable may exercise, if any, to the extent and for the purposes specified in clause (c);
+
 (e) any weapons or prescribed equipment that the special constable is authorized to carry or use in the course of his or her duties; and
+
 (f) any other terms or conditions the police service board or the Commissioner consider appropriate.
 
 ### Exception, special constable employer
@@ -2494,9 +3085,13 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Firearms
 
 (9) The certificate of appointment shall not authorize the special constable to carry or use a firearm in the course of his or her duties unless,
+
 (a) the special constable provides policing in another jurisdiction and is authorized to carry or use a firearm in the course of his or her duties in that jurisdiction;
+
 (b) the special constable is authorized under a law of Canada to provide policing in Ontario and to carry or use a firearm in the course of his or her duties;
+
 (c) the special constable is employed by the Niagara Parks Commission; or
+
 (d) the special constable is a member of a class prescribed by the Minister.
 
 ### Reappointment
@@ -2510,9 +3105,13 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Transition
 
 (12) The following rules apply to a person who held an appointment as a special constable under section 53 of the Police Services Act immediately before it was repealed:
+
 1. The appointment continues under this Act and is deemed to have been made under this section and the special constable may, despite any other requirement in this section continue to act for the period, in the area and for the purpose set out in his or her appointment until the appointment expires or is terminated or until the special constable is reappointed.
+
 2. Despite subsection 95 (6), the special constable shall continue to be subject to any restrictions on his or her use or carrying of a firearm or any other equipment that were specified in his or her appointment until the appointment expires or is terminated or until the special constable is reappointed.
+
 3. The appointment is deemed to expire three years after the day this subsection comes into force if it does not expire before then.
+
 4. The person may be reappointed as a special constable even if he or she does not meet the educational requirements set out in clause (1) (g), and he or she may subsequently be reappointed one or more consecutive times without meeting those requirements.
 
 ### Amendment to certificate of appointment
@@ -2550,17 +3149,25 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Duties
 
 (5) A special constable shall,
+
 (a) carry out his or her duties in accordance with the terms, conditions and purposes set out in the certificate of appointment;
+
 (b) exercise any police powers conferred on him or her,
+
 (i) only to the extent and for the specific purposes set out in the certificate of appointment, and
+
 (ii) in accordance with the regulations, if any;
+
 (c) comply with the prescribed code of conduct; and
+
 (d) perform such other duties as are assigned to him or her by or under this or any other Act, including any prescribed duties.
 
 ### Firearms, weapons and other equipment
 
 (6) A special constable shall not possess or use a firearm, any other weapon or any other prescribed equipment in the course of his or her duties unless,
+
 (a) the special constable’s certificate of appointment authorizes its carrying or use; or
+
 (b) the special constable is authorized under a law of Canada to provide policing in Ontario and to carry or use the firearm, other weapon or equipment in the course of his or her duties.
 
 ### Notice if outside area of policing responsibility
@@ -2574,7 +3181,9 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Exception, agreement
 
 (3) Subsection (1) does not apply if the police service board, or the Commissioner, that appointed the special constable has a written agreement with the entity that has policing responsibility for the area that,
+
 (a) authorizes the special constable to exercise the power or perform the duty in the area; and
+
 (b) addresses any other prescribed matters.
 
 ### Exception, notice impractical
@@ -2622,27 +3231,37 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Special constable employer records
 
 (9) If a special constable employer is not an institution within the meaning of the Freedom of Information and Protection of Privacy Act or the Municipal Freedom of Information and Protection of Privacy Act, or is not subject to comparable legislation in another jurisdiction, then,
+
 (a) the special constable employer’s records relating to the activities and oversight of the special constables it employs are, for the purposes of the Freedom of Information and Protection of Privacy Act, deemed to be in the custody and control of the Ministry; and
+
 (b) the Minister shall impose terms and conditions on the special constable employer’s authorization to address,
+
 (i) access to the records of the special constable employer for the purpose of discharging the obligations of the Ministry in relation to clause (a), and
+
 (ii) the protection of personal information in the custody or control of the special constable employer that is related to the activities and oversight of the special constables it employs.
 
 ### Definition
 
 (10) In subsection (1),
+
 “for-profit entity” means a corporation incorporated under the Business Corporations Act or the Canada Business Corporations Act or any other entity that is prescribed.
 
 ### Duties of special constable employer
 
 98 (1) A special constable employer shall,
+
 (a) comply with the terms and conditions of the authorization; and
+
 (b) perform such other duties as are assigned to it by or under this or any other Act, including any prescribed duties.
 
 ### Investigation of conduct
 
 (2) If a special constable employed by a special constable employer appears to have engaged in conduct that constitutes misconduct, contravened the terms and conditions of his or her certificate of appointment or contravened any other provision of this Act or the regulations, the special constable employer shall,
+
 (a) investigate the conduct and determine if it constitutes such a contravention;
+
 (b) report the contravention or alleged contravention to the police service board, or the Commissioner, that appointed the special constable; and
+
 (c) take appropriate action to remedy the contravention.
 
 ### Notice of action
@@ -2660,18 +3279,27 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Notice to police service board or the Commissioner
 
 (6) A special constable employer shall notify the police service board, or the Commissioner, who appointed a special constable employee of the employer if,
+
 (a) there is any change to the employment status of the special constable employee; or
+
 (b) the special constable employer becomes aware of any information that might reasonably affect an assessment of whether the special constable meets the criteria set out in subsection 92 (1).
 
 ### Suspension or termination of authorization to employ
 
 99 (1) Subject to subsection (2), the Minister may suspend or terminate a special constable employer’s authorization if,
+
 (a) the employer provided false or misleading information under this Act or the regulations;
+
 (b) the employer failed to act in accordance with the terms and conditions of the authorization;
+
 (c) in the Minister’s opinion, the employer did not take appropriate action when the employer knew or ought reasonably to have known that his, her or its special constable employee contravened the terms and conditions of his or her certificate of appointment or contravened any other provision of this Act or the regulations;
+
 (d) the employer no longer meets the prescribed requirements for the issuance of the authorization;
+
 (e) the employer failed to comply with a direction issued by the Inspector General under section 125;
+
 (f) the employer is not in compliance with any other provision of this Act or the regulations; or
+
 (g) in the Minister’s opinion, the authorization is not in the public interest.
 
 ### Opportunity to respond
@@ -2711,7 +3339,9 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Offence
 
 (7) A special constable who contravenes subsection (1) is guilty of an offence and on conviction is liable,
+
 (a) in the case of a first offence, to a fine of not more than $5,000; or
+
 (b) in the case of a second or subsequent offence, to a fine of not more than $10,000.
 
 ### Same
@@ -2757,8 +3387,11 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Commissions under the Great Seal
 
 101.1 (1) The Lieutenant Governor in Council may authorize the issue of a commission under the Great Seal to,
+
 (a) a chief of police;
+
 (b) a deputy chief of police; or
+
 (c) a police officer who has attained a prescribed rank.
 
 ### Commissioned First Nation Officers
@@ -2788,27 +3421,41 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Continuation in office
 
 (3) The Lieutenant Governor in Council may, by order, authorize a person appointed as the Inspector General to continue to hold office after expiry of his or her term of office until the earlier of,
+
 (a) nine months after the expiry of his or her term of office; or
+
 (b) the day a successor is appointed.
 
 ### Inspector General’s duties
 
 (4) The Inspector General shall,
+
 (a) monitor and conduct inspections of police service boards, O.P.P. detachment boards, First Nation O.P.P. boards, chiefs of police, special constable employers, police services, and prescribed policing providers to ensure that they comply with this Act and the regulations;
+
 (b) consult with and advise police service boards, O.P.P. detachment boards, First Nation O.P.P. boards, chiefs of police, special constable employers, police services, prescribed policing providers and prescribed entities regarding compliance with this Act and the regulations;
+
 (c) monitor and conduct inspections of members of police service boards, O.P.P. detachment boards and First Nation O.P.P. boards to ensure that they do not commit misconduct;
+
 (d) develop, maintain and manage records and conduct research and analyses regarding compliance with this Act and the regulations;
+
 (e) deal with complaints under sections 106 and 107 and with disclosures of misconduct under section 185;
+
 (f) submit an annual report to the Minister; and
+
 (g) perform such other duties as are assigned to him or her by or under this or any other Act, including any prescribed duties.
 
 ### Required training
 
 (5) The Inspector General, and any deputy Inspectors General, shall not exercise any of their powers or perform any of their duties under this Act unless they have successfully completed,
+
 (a) the training approved by the Minister with respect to human rights and systemic racism;
+
 (b) the training approved by the Minister that promotes recognition of and respect for,
+
 (i) the diverse, multiracial and multicultural character of Ontario society, and
+
 (ii) the rights and cultures of First Nation, Inuit and Métis Peoples; and
+
 (c) any other training prescribed by the Minister.
 
 ### Role respecting police officers and special constables
@@ -2830,13 +3477,21 @@ ii. Whether or not postponement or suspension is required under subparagraph i, 
 ### Annual report
 
 103 (1) On or before June 30 in each year, the Inspector General shall file an annual report with the Minister that addresses at least the following matters:
+
 1. The activities of the Inspector General, including,
+
 i. inspections conducted,
+
 ii. complaints dealt with under sections 106 and 107,
+
 iii. notifications sent to the Complaints Director or the SIU Director,
+
 iv. directions issued under section 125, and
+
 v. measures imposed under section 126.
+
 2. The compliance of the police service boards, O.P.P. detachment boards, First Nation O.P.P. boards, chiefs of police, special constable employers, police services and prescribed policing providers with this Act and the regulations.
+
 3. Any other prescribed matters.
 
 ### Publication and tabling
@@ -2864,7 +3519,9 @@ v. measures imposed under section 126.
 ### Personal information
 
 105 (1) The Inspector General may collect personal information under subsection 104 (1) or (2), directly or indirectly, only if the collection is necessary for the purpose of,
+
 (a) discharging the Inspector General’s duties under clause 102 (4) (a), (c), (d) or (e); or
+
 (b) discharging the Inspector General’s duties under this Act or the regulations related to referrals of conduct that may constitute criminal conduct or misconduct.
 
 ### Other information serves purpose
@@ -2890,7 +3547,9 @@ v. measures imposed under section 126.
 ### Notice required by s. 39 (2) of FIPPA
 
 (7) If the Inspector General collects personal information indirectly under subsection (1), the notice required by subsection 39 (2) of the Freedom of Information and Protection of Privacy Act may be given by,
+
 (a) a public notice posted on a Government of Ontario website; or
+
 (b) any other method that may be prescribed.
 
 ### Rights of access and correction
@@ -2906,15 +3565,21 @@ v. measures imposed under section 126.
 ### Frivolous or vexatious or made in bad faith
 
 (2) The Inspector General may refuse to investigate a complaint made under subsection (1) or from the Complaints Director if, in the Inspector General’s opinion,
+
 (a) the complaint is frivolous, vexatious or made in bad faith; or
+
 (b) having regard to all the circumstances, dealing with the complaint is not in the public interest.
 
 ### Same
 
 (3) For the purposes of a determination under clause (2) (b) as to whether or not it is in the public interest to investigate a complaint, the Inspector General shall consider,
+
 (a) whether the subject matter of the complaint has been or is currently the subject of an investigation or inspection under this Act or a predecessor of this Act;
+
 (b) whether the subject matter of the complaint could be more appropriately dealt with, in whole or in part, under another Act or law or in another adequate forum;
+
 (c) whether a decision to not conduct an investigation would negatively impact public confidence in policing; and
+
 (d) whether an investigation is reasonably practicable, having regard to the information or evidence available.
 
 ### Duty to inform
@@ -2924,7 +3589,9 @@ v. measures imposed under section 126.
 ### Grounds for investigation
 
 (5) If there appear to be grounds to believe that the member has committed misconduct, the Inspector General shall,
+
 (a) investigate the matter, including, if appropriate, by appointing an inspector to exercise the powers of an inspector under this Part; and
+
 (b) inform the complainant about the investigation and keep him or her apprised of the steps taken to resolve the complaint.
 
 ### No grounds for further investigation
@@ -2938,23 +3605,33 @@ v. measures imposed under section 126.
 ### Policing complaints
 
 107 (1) Any person, other than a prescribed person, may make a complaint to the Inspector General in accordance with the regulations, if any, regarding,
+
 (a) the adequacy and effectiveness of policing provided under this Act or the regulations, including policing provided by a prescribed policing provider, special constable employer or prescribed entity;
+
 (b) a failure of a police service board, O.P.P. detachment board, First Nation O.P.P. board, chief of police, special constable employer, police service or prescribed policing provider to comply with this Act or the regulations, other than misconduct, including a systemic failure;
+
 (c) the policies, by-laws, rules or procedures of a police service board, an O.P.P. detachment board, a First Nation O.P.P. board or the Minister; or
+
 (d) the procedures established by a chief of police.
 
 ### Frivolous or vexatious or made in bad faith
 
 (2) The Inspector General may refuse to investigate a complaint received under subsection (1) if, in the Inspector General’s opinion,
+
 (a) the complaint is frivolous, vexatious or made in bad faith; or
+
 (b) having regard to all the circumstances, dealing with the complaint is not in the public interest.
 
 ### Same
 
 (3) For the purposes of a determination under clause (2) (b) as to whether or not it is in the public interest to investigate a complaint, the Inspector General shall consider,
+
 (a) whether the subject matter of the complaint has been or is currently the subject of an investigation or inspection under this Act or a predecessor of this Act;
+
 (b) whether the subject matter of the complaint could be more appropriately dealt with, in whole or in part, under another Act or law or in another adequate forum;
+
 (c) whether a decision to not conduct an investigation would negatively impact public confidence in policing; and
+
 (d) whether an investigation is reasonably practicable, having regard to the information or evidence available.
 
 ### Duty to inform
@@ -2964,23 +3641,33 @@ v. measures imposed under section 126.
 ### Grounds for investigation
 
 (5) If there appear to be grounds to believe that the matter complained of warrants investigation, the Inspector General shall,
+
 (a) investigate the matter, including, if appropriate, by appointing an inspector to exercise the powers of an inspector under this Part; and
+
 (b) inform the complainant about the investigation and keep him or her apprised of the steps taken to resolve the complaint.
 
 ### Policy or procedure complaint
 
 (6) If the complaint does not relate to the matters referred to in clause (1) (a) or (b), or if there do not appear to be grounds to investigate those matters, and if the complaint relates to the policies, by-laws, rules or procedures referred to in clause (1) (c) or (d), the Inspector General shall,
+
 (a) forward the complaint to the Minister and to,
+
 (i) Repealed: 2023, c. 12, Sched. 1, s. 46 (3).
+
 (ii) the police service board that maintains the police service, if the complaint relates to the board’s policies, by-laws, rules or procedures or the procedures established by the chief of police, or
+
 (iii) the O.P.P. detachment board or the First Nation O.P.P. board, if the complaint relates to the board’s local policies, by-laws, rules or procedures; and
+
 (b) inform the complainant of the decision and of the persons or bodies that the complaint has been forwarded to.
 
 ### Report back
 
 (7) A police service board, O.P.P. detachment board or First Nation O.P.P. board that receives a complaint under subsection (6) shall,
+
 (a) review the complaint as it relates to the policies, by-laws, rules or procedures referred to in clause (1) (c) or (d);
+
 (b) report back to the Inspector General within the time specified by the Inspector General, if any, about any steps taken in response to the complaint; and
+
 (c) report to the Minister about any steps taken in response to the complaint.
 
 ### Same
@@ -2998,17 +3685,29 @@ v. measures imposed under section 126.
 ### Forwarding of complaints
 
 108 (1) If a person who may make a complaint under section 106 or 107 to the Inspector General instead makes the complaint to any of the following persons or entities, that person or entity shall forward the complaint to the Inspector General, inform the person who made the complaint that the complaint has been forwarded, and provide the person with information about the role of the Inspector General:
+
 1. The Minister.
+
 2. The Complaints Director, a deputy Complaints Director or an investigator appointed under section 136.
+
 3. The SIU Director or an employee or investigator in the Special Investigations Unit.
+
 4. A chief of police.
+
 5. A police service board or a member of a police service board.
+
 6. An O.P.P. detachment board or a member of an O.P.P. detachment board.
+
 7. A First Nation O.P.P. board or a member of a First Nation O.P.P. board.
+
 8. Repealed: 2023, c. 12, Sched. 1, s. 47.
+
 9. A special constable employer.
+
 10. A prescribed entity.
+
 11. A prescribed policing provider.
+
 12. Any other person or entity prescribed by the Minister.
 
 ### Complaint received by member of police service or special constable
@@ -3048,18 +3747,27 @@ v. measures imposed under section 126.
 ### When interim measure may be imposed
 
 (2) The Inspector General may impose one or more of the interim measures described in subsection (3) if all of the following circumstances are met:
+
 1. The Inspector General has not declined under subsection 109 (2) to act on the complaint.
+
 2. There appear to be grounds to believe that the member has committed misconduct.
+
 3. The Inspector General has caused an inspection to be conducted under subsection 111 (2) to respond to the complaint and the inspection has not been completed.
+
 4. The Inspector General is of the opinion that the measure is urgently required to,
+
 i. in the case of a complaint with respect to a member of a police service board, ensure the public’s trust in the police service maintained by the board is not undermined, or
+
 ii. in the case of a complaint with respect to a member of a police service board, an O.P.P. detachment board or a First Nation O.P.P. board, ensure the public’s trust in the board is not undermined.
 
 ### Interim measures
 
 (3) The interim measures mentioned in subsection (2) are the following:
+
 1. Suspension of the member.
+
 2. Imposition of conditions on the member exercising their powers or performing their duties as a member of the board.
+
 3. Any other prescribed measure.
 
 ### Revocation, etc.
@@ -3077,8 +3785,11 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Cessation of interim measure
 
 (7) An interim measure ceases to have effect on the earliest of the following:
+
 1. The day the measure is revoked.
+
 2. The day the member receives notice from the Inspector General that no further action will be taken in respect of the investigation.
+
 3. The day the Inspector General exercises a power under section 124 as a result of the investigation.
 
 ### Not enough members
@@ -3088,9 +3799,13 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Same
 
 (9) The Inspector General shall,
+
 (a) specify in an appointment made under subsection (8) that the appointee may only exercise such powers or perform such duties as are necessary for the effective operation of the board during the investigation of the complaint and, for such purpose, may specify the powers or duties the appointee may or may not exercise or perform; and
+
 (b) cancel an appointment made under subsection (8) on the earlier of,
+
 (i) the day the appointment is no longer necessary in order for the board to have enough members able to exercise their powers or perform their duties in order to constitute a quorum, and
+
 (ii) the day the period described in subsection (7) ends.
 
 ### Report
@@ -3106,15 +3821,21 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### When interim measure may be imposed
 
 (2) The Inspector General may impose one or more of the interim measures described in subsection (3) if all of the following circumstances are met:
+
 1. The Inspector General has not declined under subsection 109 (2) to act on the complaint.
+
 2. There appear to be grounds to believe that the matter complained of warrants investigation.
+
 3. The Inspector General has caused an inspection to be conducted under subsection 111 (2) to respond to the complaint and the inspection has not been completed.
+
 4. The Inspector General is of the opinion that the measure is urgently required to ensure the provision of adequate and effective policing.
 
 ### Interim measures
 
 (3) The interim measures mentioned in subsection (2) are the following:
+
 1. Subject to the regulations, written direction to a police service board, chief of police, police service or prescribed policing provider.
+
 2. Appointment of an administrator.
 
 ### Directions
@@ -3152,7 +3873,9 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Cessation of interim measure
 
 (12) An interim measure ceases to have effect on the earlier of the following:
+
 1. The day the measure is revoked.
+
 2. The day the Inspector General notifies the person or entity upon whom an interim measure is imposed of their decision whether to issue a direction under section 125.
 
 ### Report
@@ -3172,8 +3895,11 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Power to inspect
 
 (2) The Inspector General may cause an inspection to be conducted by an inspector for the purpose of,
+
 (a) determining whether a member of a police service board, an O.P.P. detachment board, or a First Nation O.P.P. board has committed or is committing misconduct;
+
 (b) determining whether a police service board, O.P.P. detachment board, First Nation O.P.P. board, chief of police, special constable employer, police service or prescribed policing provider is complying with or has complied with this Act and the regulations; or
+
 (c) discharging any other duties assigned to the Inspector General under this Act or the regulations.
 
 ### May be in response to complaints
@@ -3183,10 +3909,15 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Required training
 
 (3) An inspector appointed under this section shall not exercise any of his or her powers or perform any of his or her duties under this Act unless he or she has successfully completed,
+
 (a) the training approved by the Minister with respect to human rights and systemic racism;
+
 (b) the training approved by the Minister that promotes recognition of and respect for,
+
 (i) the diverse, multiracial and multicultural character of Ontario society, and
+
 (ii) the rights and cultures of First Nation, Inuit and Métis Peoples; and
+
 (c) any other training prescribed by the Minister.
 
 ### Conduct that constitutes misconduct
@@ -3242,7 +3973,9 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Inspection without order
 
 113 (1) An inspector may, at any reasonable time, enter a place, including a receptacle or vehicle, owned or occupied by a police service board, O.P.P. detachment board, First Nation O.P.P. board, special constable employer, prescribed policing provider or prescribed entity, or used by members of a police service, for a purpose described in subsection 111 (2) if the inspector reasonably believes that,
+
 (a) the place contains a thing, document or data relevant to that purpose; or
+
 (b) an activity relating to the purpose of the inspection is occurring or has occurred at the place.
 
 ### Expert help
@@ -3260,15 +3993,21 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Inspection order
 
 114 (1) An inspector may, without notice, apply to a justice of the peace or a provincial judge for an order under this section to enter and inspect,
+
 (a) a place described in subsection 113 (1) that is a dwelling or that contains a dwelling; or
+
 (b) a place, including a receptacle or vehicle, that is used by a chief of police or a member of a police service board, an O.P.P. detachment board or a First Nation O.P.P. board in relation to the performance of his or her duties under this Act or the regulations.
 
 ### Issuance of order
 
 (2) A justice of the peace or provincial judge may issue an order authorizing the inspector to enter a place referred to in subsection (1) and to exercise any of the powers set out in the order if the justice or judge is satisfied on information under oath or affirmation that,
+
 (a) the inspection is for a purpose described in subsection 111 (2); and
+
 (b) there are reasonable grounds to believe that,
+
 (i) the place contains a thing, document or data relevant to the purpose of the inspection, or
+
 (ii) an activity relating to the purpose of the inspection is occurring or has occurred at the place.
 
 ### Powers on entry
@@ -3306,12 +4045,19 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Inspection powers
 
 115 (1) An inspector may do one or more of the following in the course of entering a place and conducting an inspection under this Part:
+
 1. Examine anything that relates to the inspection.
+
 2. Examine, record or copy any thing, data or information, in any form, by any method.
+
 3. Require the production of any thing, document or data, in any form, required to be kept under this Act or the regulations and of any other thing, document or data, in any form, related to the purpose of the inspection.
+
 4. Remove from the place, for the purpose of making copies, things, documents or data produced under paragraph 3.
+
 5. Make reasonable inquiries of any person, orally or in writing.
+
 6. Take samples for analysis.
+
 7. Conduct tests or make measurements.
 
 ### Limitation
@@ -3337,7 +4083,9 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Closed meetings
 
 (7) An inspector has the authority to enter a meeting of a police service board, an O.P.P. detachment board, a First Nation O.P.P. board or a committee of such a board for the purpose of monitoring the meeting or conducting an inspection under this Part, except,
+
 (a) any part of the meeting in which the subject matter being considered is advice that would be inadmissible in a court by reason of any privilege under the law of evidence; or
+
 (b) in prescribed circumstances.
 
 ### Notification
@@ -3347,10 +4095,15 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Power to require response to inquiries
 
 116 (1) An inspector may, at any reasonable time, require any of the following persons or entities to respond to reasonable inquiries related to the purpose of the inspection:
+
 1. A member or employee of a police service board, including a member of a police service maintained by a police service board.
+
 2. A member of the Ontario Provincial Police.
+
 3. A member or employee of an O.P.P. detachment board or a First Nation O.P.P. board.
+
 4. A special constable employer, a prescribed policing provider or a prescribed entity, or an officer, director or employee of such an employer, provider or entity.
+
 5. An entity that employs First Nation Officers who are providing policing functions in accordance with an agreement under section 27.
 
 ### Same
@@ -3384,10 +4137,15 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Confidentiality
 
 119 The Inspector General and every deputy Inspector General and inspector appointed under section 111 shall preserve secrecy in respect of all information obtained by him or her in the course of exercising a power or performing a duty under this Act and shall not communicate any such information to any person except,
+
 (a) as may be required in connection with the administration of this Act or the regulations;
+
 (b) to his or her counsel;
+
 (c) as may be required for law enforcement purposes;
+
 (d) with the consent of the person, if any, to whom the information relates; or
+
 (e) where disclosure is otherwise required by law.
 
 ### Notice
@@ -3403,7 +4161,9 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Misconduct notice
 
 (2) If, in the course of an inspection under this Part, an inspector becomes aware that a police officer, a special constable employed by the Niagara Parks Commission, a member of a police service board, an O.P.P. detachment board or a First Nation O.P.P. board or a peace officer in the Legislative Protective Service may have engaged in conduct that constitutes misconduct,
+
 (a) the inspector shall notify the Inspector General; and
+
 (b) if the misconduct is alleged to have been committed by a police officer, a special constable employed by the Niagara Parks commission or a peace officer in the Legislative Protective Service, the Inspector General shall notify the Complaints Director.
 
 ### Police criminal offence or incapacity notice
@@ -3421,13 +4181,17 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Referral to other chief of police
 
 121 If the Inspector General is notified under subsection 120 (3) or (5) that a criminal offence may have been committed,
+
 (a) the Inspector General shall refer the matter to the chief of police of an unrelated police service; and
+
 (b) the chief of police referred to in clause (a) shall investigate the matter.
 
 ### Board member duties during and after investigation
 
 122 (1) The Inspector General may direct a member of a police service board, an O.P.P. detachment board or a First Nation O.P.P. board to decline to exercise their powers or perform their duties as a member of the board from the period that begins at the outset of an investigation into the member’s conduct under this Part and ends on the earlier of the following:
+
 1. The day the member receives notice from the Inspector General that no further action will be taken in respect of the investigation.
+
 2. The day the Inspector General exercises a power under section 124 as a result of the investigation.
 
 ### Not enough members
@@ -3437,7 +4201,9 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Same
 
 (3) The Inspector General shall,
+
 (a) specify in an appointment made under subsection (2) that the appointee may only exercise such powers or perform such duties as are necessary for the effective operation of the board during the investigation and, for such purpose, may specify the powers or duties the appointee may or may not exercise or perform; and
+
 (b) cancel an appointment made under subsection (2) as soon as the period described in subsection (1) ends.
 
 ### Results of Inspection
@@ -3457,8 +4223,11 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Inspector General’s powers
 
 124 (1) If, in the opinion of the Inspector General, the report made under subsection 123 (1) discloses evidence that a member of a board has committed misconduct, the Inspector General may,
+
 (a) reprimand the member of the board;
+
 (b) suspend the member of the board for a specified period or until the member has complied with specified conditions; or
+
 (c) remove the member from the board.
 
 ### Before imposing measures
@@ -3512,8 +4281,11 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Direction
 
 (5) The direction shall,
+
 (a) be in writing;
+
 (b) specify the provision of this Act or the regulations that the Inspector General believes has not been complied with or is likely to not be complied with; and
+
 (c) briefly describe the nature of the non-compliance or likely non-compliance.
 
 ### Reconsideration
@@ -3531,21 +4303,37 @@ ii. in the case of a complaint with respect to a member of a police service boar
 ### Failure to comply with Inspector General’s direction
 
 126 (1) If the subject of a direction issued under section 125 fails to comply with it, the Inspector General may impose any of the following measures or any combination of them to remedy the non-compliance:
+
 1. In the case of a police service, other than the Ontario Provincial Police, a police service board or a chief of police, other than the Commissioner, the Inspector General may,
+
 i. suspend the chief of police, one or more members of the police service board, or the whole board, for a specified period,
+
 ii. remove the chief of police, one or more members of the police service board, or the whole board, from office,
+
 iii. appoint an administrator to administer the police service or to perform other specified functions with respect to policing in the area served by the police service in accordance with section 127, or
+
 iv. dissolve the police service board and disband the police service.
+
 2. In the case of the Ontario Provincial Police or the Commissioner, the Inspector General may,
+
 i. direct the Commissioner to comply with the direction,
+
 ii. recommend to the Lieutenant Governor in Council that the Commissioner be suspended or removed from office, or
+
 iii. with the approval of the Lieutenant Governor in Council, appoint an administrator to administer the Ontario Provincial Police or to perform other specified functions with respect to policing in the area served by the police service in accordance with section 127.
+
 3. In the case of an O.P.P. detachment board or First Nation O.P.P. board, the Inspector General may,
+
 i. suspend one or more members of the board, or the whole board, for a specified period,
+
 ii. remove one or more members of the board, or the whole board, from office, or
+
 iii. in the case of a First Nation O.P.P. board, dissolve the board.
+
 4. Repealed: 2023, c. 12, Sched. 1, s. 57 (1).
+
 5. In the case of a special constable employer, the Inspector General may terminate or impose terms and conditions on the special constable employer’s authorization to employ special constables.
+
 6. In the case of a prescribed policing provider, the Inspector General may appoint an administrator to administer it in accordance with section 127.
 
 ### Consideration of lesser measures
@@ -3563,7 +4351,9 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Notice
 
 (4) The Inspector General shall immediately provide notice of any measure implemented under this section to the Minister and, if the measure is taken against an individual, the Inspector General shall also immediately notify,
+
 (a) in the case of a chief of police or deputy chief of police, other than the Commissioner or a deputy Commissioner, the police service board; or
+
 (b) in the case of a member of a police service board, an O.P.P. detachment board or a First Nation O.P.P. board, the person or entity who appointed the member.
 
 ### Criteria for dissolving and disbanding
@@ -3675,7 +4465,9 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Offence
 
 (5) An individual who contravenes subsection (1), (2), (3) or (4) is guilty of an offence and on conviction is liable,
+
 (a) in the case of a first offence, to a fine of not more than $5,000, to an imprisonment for a term of not more than one year, or to both; or
+
 (b) in the case of a second or subsequent offence, to a fine of not more than $10,000, to an imprisonment for a term of not more than one year, or to both.
 
 ### Same
@@ -3691,7 +4483,9 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Composition
 
 (2) The Law Enforcement Complaints Agency shall be headed by the Complaints Director appointed under subsection 131 (1) and shall, in addition to the Director, consist of,
+
 (a) any deputy Complaints Directors appointed under that subsection; and
+
 (b) persons appointed as employees in the Agency in accordance with section 135.
 
 ### Complaints Director
@@ -3721,18 +4515,27 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Functions
 
 132 (1) The Complaints Director,
+
 (a) shall deal with public complaints made under Part X in accordance with that Part and the regulations;
+
 (b) shall implement programs and services to assist members of the public in making complaints under Part X;
+
 (c) shall publish statistical reports for the purpose of informing the evaluation, management and improvement of policing in Ontario and the management of public complaints under Part X; and
+
 (d) shall perform the duties, and may exercise the powers, that are set out under this Act, including any additional duties and powers that may be prescribed.
 
 ### Required training
 
 (2) The Complaints Director or a deputy Complaints Director shall not exercise powers or perform duties under this Act unless he or she has successfully completed,
+
 (a) the training approved by the Minister with respect to human rights and systemic racism;
+
 (b) the training approved by the Minister that promotes recognition of and respect for,
+
 (i) the diverse, multiracial and multicultural character of Ontario society, and
+
 (ii) the rights and cultures of First Nation, Inuit and Métis Peoples; and
+
 (c) any other training prescribed by the Minister.
 
 ### Minister’s directions
@@ -3742,7 +4545,9 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Review of systemic issues
 
 133 (1) The Complaints Director may examine and review issues of a systemic nature that,
+
 (a) have been the subject of complaints or investigations under Part X respecting a person referred to in section 152; or
+
 (b) may contribute or are otherwise related to misconduct by a person referred to in section 152.
 
 ### Prior notice to Inspector General
@@ -3752,7 +4557,9 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Recommendations
 
 (3) Following a review under subsection (1), the Complaints Director may,
+
 (a) make written recommendations to the Inspector General, the Minister, a chief of police, a police service board or any other person or body; and
+
 (b) require in writing that a person or body to whom recommendations are made under clause (a) provide a written response, which must include a statement as to whether the recommendations have been accepted and, if not, the reasons why.
 
 ### Timing of response
@@ -3814,10 +4621,15 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Required training
 
 (5) An investigator appointed under this section shall not exercise any of his or her powers or duties under this Act unless he or she has successfully completed,
+
 (a) the training approved by the Minister with respect to human rights and systemic racism;
+
 (b) the training approved by the Minister that promotes recognition of and respect for,
+
 (i) the diverse, multiracial and multicultural character of Ontario society, and
+
 (ii) the rights and cultures of First Nation, Inuit and Métis Peoples; and
+
 (c) any other training prescribed by the Minister.
 
 ### Certificate of appointment
@@ -3847,8 +4659,11 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Powers on entry
 
 (2) An investigator conducting an investigation at a place referred to in subsection (1) may,
+
 (a) require a person to produce or provide access to any record, thing, data or information that relates to the investigation;
+
 (b) search for, examine, copy or remove any record, thing, data or information that relates to the investigation; and
+
 (c) use any data storage, processing or retrieval device or system used at or available to the place in order to produce, in readable form, any record, data or information that relates to the investigation.
 
 ### Expert help
@@ -3870,7 +4685,9 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Order
 
 (7) A justice of the peace or provincial judge may, on application by the investigator without notice, issue an order authorizing an investigator to enter and search a place referred to in subsection (1) and to exercise any of the powers set out in subsection (2), (3) or (4) if the justice of the peace or provincial judge is satisfied on information under oath or affirmation that there are reasonable grounds to suspect that,
+
 (a) the investigator has been prevented from exercising a right of entry to the place under subsection (1) or has been prevented from exercising a power under subsection (2), (3) or (4); or
+
 (b) the investigator will likely be prevented from exercising a right of entry to the place under subsection (1) or will likely be prevented from exercising a power under subsection (2), (3) or (4).
 
 ### Conditions
@@ -3892,14 +4709,19 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Definition
 
 (12) In this section and in section 139,
+
 “place” includes a building, a receptacle and a vehicle.
 
 ### Investigation powers, other places
 
 139 (1) A justice of the peace or a provincial judge may, on application by an investigator without notice, issue an order in relation to a place other than one to which section 138 applies authorizing the investigator to enter the place for which the order is issued and exercise any of the powers set out in the order in relation to a record, thing, data or information listed in the order, if the justice of the peace or provincial judge is satisfied by information under oath or affirmation that,
+
 (a) the investigation relates to the conduct of a person referred to in section 152;
+
 (b) there are reasonable grounds to believe that the conduct constitutes misconduct;
+
 (c) there are reasonable grounds to believe that there is in the place a record, thing, data or information that relates to the investigation; and
+
 (d) it is in the best interests of the administration of justice to issue the order having regard to all relevant matters, including the nature of the place sought to be entered.
 
 ### Powers on entry
@@ -3949,7 +4771,9 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Removal under order
 
 (4) If an investigator removes a record or other thing under an order issued under subsection 139 (1), the investigator, or a person designated by him or her, shall, as soon as is reasonably possible,
+
 (a) bring the record or thing before a justice of the peace or provincial judge; or
+
 (b) make a report of the removal of the record or thing to a justice of the peace or provincial judge.
 
 ### Same
@@ -4007,15 +4831,21 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Notice of direct collection
 
 (5) Before seeking an individual’s consent to collect personal information directly from the individual to whom the information relates, the Complaints Director shall inform the individual of,
+
 (a) the authority for and purposes of the collection; and
+
 (b) the title and contact information, including an email address, of an employee in the Law Enforcement Complaints Agency who can answer the individual’s questions about the collection.
 
 ### Notice of indirect collection
 
 (6) If the regulations referred to in subsection (4) provide for the collection of personal information in a manner other than directly from the individual to whom the information relates, the Complaints Director shall, before collecting personal information in such a manner, ensure that notice of the collection is published on the website of the Law Enforcement Complaints Agency containing,
+
 (a) a statement that the collection is authorized under subsection (1) and setting out the purposes of the collection;
+
 (b) the personal information and circumstances specified by the regulations referred to in subsection (4) for the purposes of the collection; and
+
 (c) the title and contact information, including an email address, of an employee in the Law Enforcement Complaints Agency who can answer an individual’s questions about the collection.
+
 (7) Repealed: 2023, c. 12, Sched. 1, s. 59 (1).
 
 ### Limits on use
@@ -4025,20 +4855,31 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Limit on access
 
 (9) The Complaints Director shall limit access to the personal information collected under this section to employees in the Law Enforcement Complaints Agency and investigators, for the purposes of,
+
 (a) de-identifying the personal information; or
+
 (b) disclosing personal information under subsection (10).
 
 ### Limits on disclosure
 
 (10) The Complaints Director, an employee in the Law Enforcement Complaints Agency or an investigator may disclose personal information collected under this section only if,
+
 (a) the individual to whom the information relates has identified that information in particular and consented to its disclosure;
+
 (b) the disclosure is required by law, including as required under section 31 of the Human Rights Code;
+
 (c) subject to subsection (11), the disclosure is for the purpose of a proceeding or contemplated proceeding, the information relates to or is a matter in issue in the proceeding or contemplated proceeding, and,
+
 (i) the Complaints Director is, or is expected to be, a party, or
+
 (ii) any of the following is, or is expected to be, a witness:
+
 (A) a current or former employee in the Law Enforcement Complaints Agency,
+
 (B) a current or former investigator appointed under section 136, or
+
 (C) a former employee in or investigator with the office of the Independent Police Review Director, before its continuance under this Part; or
+
 (d) the disclosure is to the Information and Privacy Commissioner.
 
 ### Same
@@ -4064,8 +4905,11 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Same
 
 (2) The Complaints Director shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public in addition to publishing it as required under subsection (1).
 
 ### Same
@@ -4075,10 +4919,15 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Confidentiality
 
 145 The Complaints Director and every deputy Complaints Director, employee in the Law Enforcement Complaints Agency, investigator appointed under section 136 and person exercising powers or performing duties at the direction of the Complaints Director shall preserve secrecy in respect of all information obtained by him or her in the course of exercising a power or performing a duty under this Act and shall not communicate any such information to any person except,
+
 (a) as may be required in connection with the administration of this Act or the regulations;
+
 (b) to his or her counsel;
+
 (c) as may be required for law enforcement purposes;
+
 (d) with the consent of the person, if any, to whom the information relates; or
+
 (e) where disclosure is otherwise required by law.
 
 ### Protection from personal liability
@@ -4106,19 +4955,29 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Responsibilities of Arbitration and Adjudication Commission
 
 (4) The Arbitration and Adjudication Commission has the following responsibilities:
+
 1. Selecting the members of and maintaining a register or registers of arbitrators who are available for appointment to conduct an arbitration under Part XIII.
+
 2. Selecting the members of and maintaining a roster of adjudicators who are available for appointment to hold hearings under this Act.
+
 3. Assisting arbitrators and adjudicators appointed by the Commission Chair by making administrative arrangements in connection with arbitrations and adjudication hearings, including setting dates for hearings.
+
 4. Fixing the fees of arbitrators appointed by the Commission Chair under section 229.
+
 5. Sponsoring the publication and distribution of information about agreements, arbitrations and awards under this Act.
+
 6. Maintaining records of agreements, decisions and awards made under Part XIII.
+
 7. Any other prescribed responsibilities.
 
 ### Committees
 
 (5) The Arbitration and Adjudication Commission shall, in accordance with the regulations, have,
+
 (a) a committee to select members of and maintain a register or registers, as prescribed, of arbitrators who are available for appointment to conduct an arbitration under Part XIII;
+
 (b) a committee to select members of and maintain a roster, as prescribed, of adjudicators who are available for appointment to hold hearings under this Act; and
+
 (c) such other committees as may be prescribed.
 
 ### Composition of committee
@@ -4140,14 +4999,19 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Consultation before appointments
 
 (10) No person shall be appointed as Commission Chair or as a Commission Vice Chair unless the Minister or his or her delegate has first consulted with or attempted to consult with,
+
 (a) bargaining agents that, in the opinion of the Minister or his or her delegate, are reasonably representative of the bargaining agents that represent members of police services;
+
 (b) employers or employers’ organizations that, in the opinion of the Minister or his or her delegate, are reasonably representative of the employers of members of police services; and
+
 (c) any other entities that are prescribed.
 
 ### Commission Vice Chair duties
 
 (11) A Commission Vice Chair shall,
+
 (a) act in the place of the Commission Chair if the Commission Chair is absent or unable to act and, when so acting, may exercise all the powers and shall perform all the duties of the Commission Chair; and
+
 (b) perform any other prescribed duties.
 
 ### Regulations
@@ -4181,15 +5045,25 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Definitions
 
 151 (1) In this Part,
+
 “complainant” means a person who makes a complaint under subsection 154 (1); (“plaignant”)
+
 “designated authority” means,
+
 (a) in relation to a police officer other than a police officer referred to in clause (b), (c) or (d), the chief of police of the police service of which the police officer is a member,
+
 (b) in relation to the Commissioner of the Ontario Provincial Police or deputy Commissioner, the Minister,
+
 (c) in relation to any other chief of police or deputy chief of police, the police service board that maintains the police service of which the chief or deputy chief is a member,
+
 (d) in relation to a police officer appointed under the Interprovincial Policing Act, 2009, the appointing official or local commander who appointed the police officer under that Act,
+
 (e) in relation to a special constable employed by the Niagara Parks Commission, the Niagara Parks Commission, and
+
 (f) in relation to a peace officer in the Legislative Protective Service, the Speaker of the Assembly; (“autorité désignée”)
+
 “investigator” means an investigator under Part VIII; (“enquêteur”)
+
 “peace officer in the Legislative Protective Service” means a person who is a peace officer under section 103.0.2 of the Legislative Assembly Act. (“agent de la paix du Service de protection de l’Assemblée législative”)
 
 ### Interpretation, portion of a complaint
@@ -4203,16 +5077,23 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Application of Part
 
 152 This Part applies with respect to the conduct of the following persons:
+
 1. Police officers.
+
 2. Special constables employed by the Niagara Parks Commission.
+
 3. Peace officers in the Legislative Protective Service.
 
 ### Determination of public interest in an investigation
 
 153 For the purposes of a determination under this Part as to whether or not it is in the public interest to cause an investigation into the conduct of a person referred to in section 152 to be conducted or continued, the Complaints Director shall consider,
+
 (a) whether the conduct has been or is currently the subject of an investigation under this Act or a predecessor of this Act;
+
 (b) whether the conduct could be more appropriately dealt with, in whole or in part, under another Act or law or in another adequate forum;
+
 (c) whether a decision to not conduct or continue an investigation would negatively impact public confidence in policing; and
+
 (d) whether an investigation is reasonably practicable, having regard to the information or evidence available.
 
 ### Public Complaints
@@ -4224,21 +5105,33 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Restriction
 
 (2) A complaint may not be made under subsection (1) by,
+
 (a) the Minister;
+
 (b) the Inspector General, a deputy Inspector General or an inspector appointed under section 111;
+
 (c) a deputy Complaints Director, an employee in the Law Enforcement Complaints Agency or an investigator;
+
 (d) the SIU Director or an employee or investigator in the Special Investigations Unit;
+
 (e) a member of a police service, in respect of another member of that police service;
+
 (f) a special constable employed by the Niagara Parks Commission, in respect of another special constable employed by the Niagara Parks Commission;
+
 (g) the Niagara Parks Commission, in respect of a special constable employed by the Niagara Parks Commission;
+
 (h) a member or employee of a police service board, in respect of a member of a police service maintained by the board;
+
 (i) a person selected by the council of a municipality to advise another municipality’s police service board under subsection 26 (2), in respect of a police officer who is a member of a police service maintained by that board; or
+
 (j) any other person who may be prescribed.
 
 ### Complainant on behalf of minor, incapable person
 
 (3) A complaint may be made under subsection (1) on behalf of,
+
 (a) a person who is a minor, by the person’s parent or guardian; and
+
 (b) a person who is incapable as defined in the Substitute Decisions Act, 1992 and who is not a minor, by his or her substitute decision-maker under that Act.
 
 ### Complaint through agent
@@ -4256,17 +5149,29 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Forwarding complaints to the Complaints Director
 
 155 (1) If a person who may make a complaint under subsection 154 (1) to the Complaints Director instead makes the complaint to any of the following persons, that person shall forward the complaint to the Complaints Director, inform the person who made the complaint that the complaint has been forwarded, and provide the person with information about the role of the Complaints Director:
+
 1. The Minister.
+
 2. The Inspector General, a deputy Inspector General or an inspector appointed under section 111.
+
 3. The SIU Director or an employee or investigator in the Special Investigations Unit.
+
 4. A chief of police.
+
 5. A police service board or a member of a police service board.
+
 6. An O.P.P. detachment board or a member of an O.P.P. detachment board.
+
 7. A First Nation O.P.P. board or a member of a First Nation O.P.P. Board.
+
 8. Repealed: 2023, c. 12, Sched. 1, s. 63.
+
 9. A special constable employer.
+
 10. A prescribed entity.
+
 11. A prescribed policing provider.
+
 12. Any other person or entity prescribed by the Minister.
 
 ### Same
@@ -4304,27 +5209,41 @@ iii. in the case of a First Nation O.P.P. board, dissolve the board.
 ### Refusal to investigate
 
 158 (1) The Complaints Director may refuse to cause a complaint to be investigated if,
+
 (a) the facts on which the complaint is based occurred more than six months before the complaint is made;
+
 (b) the complainant was not affected by the conduct of the person who is the subject of the complaint, as determined under subsection (3);
+
 (c) the complaint alleges conduct that does not, on its face, constitute misconduct; or
+
 (d) in the Complaints Director’s opinion,
+
 (i) the complaint is frivolous, vexatious or made in bad faith, or
+
 (ii) having regard to all the circumstances, dealing with the complaint is not in the public interest.
 
 ### Six-month period
 
 (2) For the purposes of clause (1) (a), the Complaints Director shall consider,
+
 (a) whether the complainant is a minor or under a disability within the meaning of the Accessibility for Ontarians with Disabilities Act, 2005, or is a complainant referred to in subsection 154 (3) acting on behalf of a minor or incapable person;
+
 (b) whether the complainant is or was subject to a criminal investigation or proceeding in respect of the events underlying the complaint; and
+
 (c) whether, having regard to all the circumstances, it is in the public interest for the complaint to be investigated.
 
 ### Persons affected by conduct
 
 (3) For the purposes of clause (1) (b), only the following persons shall be considered to have been affected by the conduct:
+
 1. A person at whom the conduct was directed.
+
 2. A person who saw or heard the conduct or its effects as a result of being physically present at the time and place that the conduct or its effects occurred.
+
 3. A person who,
+
 i. was in a personal relationship with a person described in paragraph 1 at the time that the conduct occurred, and
+
 ii. suffered loss, damage, distress, danger or inconvenience as a result of the conduct.
 
 ### Same
@@ -4334,15 +5253,21 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Notice
 
 (5) If the Complaints Director refuses to investigate a complaint in accordance with this section, he or she shall give notice of the refusal, with reasons, and of the substance of the complaint to,
+
 (a) the complainant;
+
 (b) the person who is the subject of the complaint; and
+
 (c) the applicable designated authority.
 
 ### Investigation of complaints
 
 159 (1) If the Complaints Director decides to cause a complaint to be investigated, the Complaints Director shall,
+
 (a) in the case of a complaint about the conduct of a police officer, other than a chief of police or deputy chief of police, direct the officer’s chief of police or the chief of police of an unrelated police service to conduct the investigation;
+
 (b) in the case of a complaint about the conduct of a special constable employed by the Niagara Parks Commission, direct a chief of police to conduct the investigation; or
+
 (c) in any other case, retain the complaint and cause it to be investigated by an investigator.
 
 ### Exception, retention of complaint
@@ -4368,8 +5293,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Intervention by Complaints Director
 
 (7) At any time after the Complaints Director directs a chief of police to conduct an investigation of a complaint and before its conclusion, the Complaints Director may,
+
 (a) direct the chief of police to deal with the complaint as the Complaints Director specifies;
+
 (b) direct the investigation of the complaint by a different chief of police, subject to subsection (4); or
+
 (c) cause the complaint to be investigated by an investigator instead.
 
 ### Withdrawal of complaint
@@ -4391,8 +5319,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Notice
 
 (5) The Complaints Director shall give notice of the withdrawal of a complaint under subsection (1) and, if applicable, notice of a decision to continue to deal with or investigate it despite its withdrawal under subsection (3), with reasons, to,
+
 (a) the complainant;
+
 (b) the person who is the subject of the complaint; and
+
 (c) the applicable designated authority.
 
 ### Exception
@@ -4412,8 +5343,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Same
 
 (2) Subsection (1) includes conduct that comes to the attention of the Complaints Director by way of notice given by,
+
 (a) the SIU Director under section 35.1 of the Special Investigations Unit Act, 2019;
+
 (b) the Inspector General under clause 120 (2) (b) or 189 (2) (a) of this Act; or
+
 (c) a chief of police, a police service board or the Minister under section 197 of this Act.
 
 ### Direction to chief of police
@@ -4467,9 +5401,13 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Notice
 
 (2) If the Complaints Director decides to cause an investigation to be discontinued, he or she shall give notice of the decision, with reasons, to,
+
 (a) the complainant, if any;
+
 (b) the person who is the subject of the investigation;
+
 (c) the applicable designated authority; and
+
 (d) if the investigation is being conducted by a chief of police who is not the applicable designated authority, the chief of police.
 
 ### Investigation timing
@@ -4479,9 +5417,13 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Status report
 
 (2) If the timing requirements of subsection (1) are not met in respect of an investigation, the Complaints Director or chief of police shall, subject to subsection (3), give notice of the status of the investigation every 30 days following the expiry of the 120-day period until the investigation is concluded to,
+
 (a) the complainant, if any;
+
 (b) the person who is the subject of the investigation;
+
 (c) the applicable designated authority, unless he or she is conducting the investigation; and
+
 (d) the Complaints Director, if the investigation is being conducted by a chief of police.
 
 ### Same, exception
@@ -4503,8 +5445,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Report copies to be given to others
 
 (4) Subject to subsection (5), the Complaints Director or chief of police shall give a copy of the report to,
+
 (a) the complainant, if any;
+
 (b) the person who was the subject of the investigation; and
+
 (c) the applicable designated authority, unless he or she conducted the investigation.
 
 ### Delay
@@ -4518,9 +5463,13 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Determination of no misconduct
 
 167 (1) If, after considering the report on the investigation, the Complaints Director or chief of police, as the case may be, does not have reasonable grounds to believe that the conduct of the person who was the subject of the investigation constitutes misconduct, he or she shall give written notice of the determination, with reasons, to,
+
 (a) the complainant, if any;
+
 (b) the person who was the subject of the investigation;
+
 (c) the applicable designated authority, unless he or she conducted the investigation; and
+
 (d) the Complaints Director, if the investigation was conducted by a chief of police.
 
 ### Publication of summary
@@ -4538,10 +5487,15 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Powers on review
 
 (5) On completion of the review, the Complaints Director may,
+
 (a) confirm the determination;
+
 (b) direct the chief of police who conducted the investigation to conduct a new investigation as the Complaints Director specifies;
+
 (c) direct the investigation of the matter by a different chief of police;
+
 (d) cause the matter to be investigated by an investigator; or
+
 (e) take or require to be taken any other action with respect to the matter that the Complaints Director considers necessary in the circumstances, subject to the regulations, if any.
 
 ### Notice
@@ -4551,15 +5505,21 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Determination of misconduct
 
 168 (1) If, after considering the report on the investigation, the Complaints Director or chief of police, as the case may be, has reasonable grounds to believe that the conduct of the person who was the subject of the investigation constitutes misconduct, he or she shall give written notice of the determination, with reasons, to,
+
 (a) the complainant, if any;
+
 (b) the person who was the subject of the investigation;
+
 (c) the applicable designated authority, unless he or she conducted the investigation; and
+
 (d) the Complaints Director, if the investigation was conducted by a chief of police.
 
 ### Discipline
 
 (2) On receipt of the notice of the determination, the designated authority shall,
+
 (a) determine whether disciplinary measures should be imposed and, if so, impose the appropriate disciplinary measures; and
+
 (b) give written notice of the determination under clause (a) and of any disciplinary measures that were or are to be imposed to the complainant, if any, and the Complaints Director.
 
 ### Same, special constables
@@ -4611,8 +5571,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Notice
 
 (2) The person’s designated authority shall promptly give written notice of the person’s resignation to,
+
 (a) the complainant, if any;
+
 (b) the Complaints Director; and
+
 (c) if the person is the subject of an investigation conducted by a chief of police who is not the person’s designated authority, that chief of police.
 
 ### Exception
@@ -4636,7 +5599,9 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### By chief of police other than Commissioner
 
 (2) In the case of an investigation conducted by a chief of police, other than the Commissioner, about the conduct of a police officer in a different police service or a special constable employed by the Niagara Parks Commission, the chief of police may require that the cost of the investigation, as certified by the chief of police, be paid to the chief of police’s police service board by,
+
 (a) the police service board that employs the police officer or the Niagara Parks Commission, as the case may be; or
+
 (b) in the case of an investigation about the conduct of a police officer who is a member of the Ontario Provincial Police, the Minister.
 
 ### Debt due
@@ -4656,8 +5621,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Notice by Director
 
 173 (1) If, on reviewing a complaint or at any time during an investigation under this Part, the Complaints Director determines that the subject matter of the complaint or investigation may constitute a matter that may be investigated by the SIU Director under the Special Investigations Unit Act, 2019, the Complaints Director shall notify the SIU Director and shall give notice of the fact to,
+
 (a) the complainant, if any;
+
 (b) the person who is the subject of the complaint or investigation; and
+
 (c) the applicable designated authority.
 
 ### Exception
@@ -4671,8 +5639,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Stay of investigation under this Part
 
 (3) Subject to subsection (6), if the Complaints Director notifies the SIU Director under subsection (1), or otherwise becomes aware that the subject matter of a complaint or investigation under this Part is the subject of an investigation by the SIU Director, the Complaints Director shall cause no further steps to be taken under this Part with respect to the complaint or investigation until the occurrence of one of the following:
+
 1. A determination by the SIU Director that the SIU Director shall not investigate the matter.
+
 2. If the matter is investigated by the SIU Director and does not result in the laying of charges against the person who is the subject of the complaint or investigation under this Part, the conclusion of the SIU Director’s investigation.
+
 3. If charges are laid against the person who is the subject of the complaint or investigation under this Part as a result of an investigation by the SIU Director into the matter, the final disposition of the charges.
 
 ### Access to Agency files
@@ -4710,15 +5681,21 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Public statements by Complaints Director
 
 177 The Complaints Director may issue public statements respecting an ongoing investigation under this Part, if,
+
 (a) the statement is aimed at preserving public confidence; and
+
 (b) the benefit of preserving public confidence clearly outweighs any detriment to the integrity of the investigation.
 
 ### Duty to comply
 
 178 (1) The following persons shall, immediately or as otherwise specified under this Part, comply with a reasonable direction or request received from a person conducting an investigation under this Part, unless it is unlawful or impracticable to do so:
+
 1. A person referred to in section 152.
+
 2. A designated authority.
+
 3. Any person over whom a designated authority has authority, including any employees.
+
 4. Any other person who may be prescribed.
 
 ### Notification
@@ -4736,7 +5713,9 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Offences and penalty
 
 180 (1) An individual who fails to comply with subsection 178 (1), or who contravenes subsection 179 (1) or (2), is guilty of an offence and on conviction is liable,
+
 (a) in the case of a first offence, to a fine of not more than $5,000, to imprisonment for a term of not more than one year, or to both; or
+
 (b) in the case of a second or subsequent offence, to a fine of not more than $10,000, to imprisonment for a term of not more than one year, or to both.
 
 ### Same
@@ -4790,8 +5769,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Contents of procedures
 
 (5) Without limiting the generality of subsections (1), (2), (3) and (4), the procedures under those subsections shall,
+
 (a) address how a member or former member of the police service, or an employee or former employee of the special constable employer, may make disclosures of misconduct, including giving directions as to the persons to whom disclosures may be made;
+
 (b) establish procedures to protect the identities of persons involved in the disclosure process, including persons who make disclosures, witnesses and persons alleged to be responsible for misconduct; and
+
 (c) provide for exceptions to be made to procedures described in clause (b) where the interests of fairness require that a person’s identity be disclosed to one or more persons.
 
 ### Members of police service to be informed
@@ -4815,8 +5797,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Disclosure to Inspector General
 
 185 A member of a police service or a special constable employed by a special constable employer may disclose misconduct to the Inspector General, in accordance with the regulations, if any, if,
+
 (a) the member or special constable has reason to believe that it would not be appropriate to disclose the misconduct in accordance with the procedures established under section 183;
+
 (b) the member or special constable has already disclosed the misconduct in accordance with the procedures established under section 183 and has concerns that the matter is not being dealt with appropriately; or
+
 (c) the applicable procedure has not been established under section 183.
 
 ### Disclosure to SIU Director
@@ -4826,11 +5811,17 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Initial assessment by Inspector General
 
 187 (1) The Inspector General shall refuse to deal with a disclosure of misconduct, or a portion of it, under section 185 if one or more of the following circumstances apply:
+
 1. The subject matter of the disclosure is being dealt with by another person or body as a matter of law enforcement or in accordance with a procedure established under this or any other Act.
+
 2. The subject matter of the disclosure is an employment or labour relations matter that could be dealt with through a dispute resolution mechanism, including a grievance procedure, established under this or any other Act, under a collective agreement or under an agreement of another kind.
+
 3. The disclosure is frivolous, vexatious or made in bad faith.
+
 4. There has been a substantial delay between the disclosure and the incidents that are the subject matter of the disclosure.
+
 5. Any other prescribed circumstances exist.
+
 6. There is a valid reason, other than a circumstance described in paragraphs 1 to 5, for not dealing with the disclosure.
 
 ### Inform discloser
@@ -4840,7 +5831,9 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Allegation of criminal conduct
 
 188 (1) If the Inspector General receives a disclosure of misconduct under section 185 and does not refuse to deal with it under section 187, or if the Complaints Director provides the Inspector General with notice of potential criminal conduct, the Inspector General shall refer the matter to the chief of police of an unrelated police service if the Inspector General reasonably believes that,
+
 (a) the alleged events may constitute a criminal offence; and
+
 (b) the matter has not already been investigated by an unrelated police service or the Special Investigations Unit.
 
 ### Chief of police shall investigate
@@ -4854,9 +5847,13 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Same
 
 (2) The Inspector General shall,
+
 (a) if the misconduct is alleged to have been committed by a person referred to in section 152, provide the Complaints Director with,
+
 (i) a written summary of the disclosure, and
+
 (ii) any other information that the Inspector General has received in relation to the matter that the Inspector General believes may assist in dealing with the matter; or
+
 (b) in any other case, deal with the matter as if it were a complaint made under subsection 107 (1) including, if appropriate, by appointing an inspector to exercise the powers of an inspector under Part VII.
 
 ### Inform discloser
@@ -4868,17 +5865,25 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### No reprisals
 
 190 (1) No person shall take a reprisal against a member of a police service or special constable employed by a special constable employer because he or she has,
+
 (a) sought advice about making a disclosure about misconduct in accordance with this Part;
+
 (b) made a disclosure about misconduct in accordance with this Part;
+
 (c) co-operated in an investigation or other process related to a disclosure of misconduct made in accordance with this Part; or
+
 (d) sought enforcement of this Part.
 
 ### Same
 
 (2) For the purposes of subsection (1), a reprisal is any measure taken against a member of a police service or special constable employed by a special constable employer that adversely affects his or her employment or appointment and includes but is not limited to,
+
 (a) terminating or threatening to terminate the person’s employment or appointment;
+
 (b) disciplining or suspending or threatening to discipline or suspend the person;
+
 (c) imposing or threatening to impose a penalty related to the employment or appointment of the person; or
+
 (d) intimidating or coercing the person in relation to his or her employment or appointment.
 
 ### Complaint about reprisal
@@ -4900,9 +5905,13 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Same
 
 (5) Without limiting the generality of subsection (4), an order under that subsection may direct that the person or entity do one or more of the following:
+
 1. Cease doing an act or acts complained of under subsection (1).
+
 2. Take steps to rectify harm related to a complaint under subsection (1).
+
 3. Reinstate the employment of a person whose employment was terminated or reappoint a person whose appointment was terminated.
+
 4. Compensate the person for loss of any remuneration, including benefits.
 
 ### Same
@@ -4930,7 +5939,9 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Assessment and discipline procedures
 
 194 (1) Every chief of police shall establish written procedures for,
+
 (a) the assessment of the work performance of members of the police service; and
+
 (b) the imposition of disciplinary measures on members of the police service.
 
 ### Procedures to be made available
@@ -4942,16 +5953,23 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Misconduct
 
 195 A police officer or special constable engages in conduct that constitutes misconduct if he or she,
+
 (a) contravenes their applicable prescribed code of conduct;
+
 (b) contravenes section 129, 179 or 196;
+
 (c) knowingly fails to respond to an inspector’s reasonable inquiries as required under section 116;
+
 (d) knowingly fails to comply with a direction or request as required under section 31 of the Special Investigations Unit Act, 2019 or section 178 of this Act; or
+
 (e) knowingly fails to comply with a requirement to notify the SIU Director as required under section 16 of the Special Investigations Unit Act, 2019.
 
 ### Inducing misconduct and withholding services
 
 196 (1) No person shall,
+
 (a) induce or attempt to induce a member of a police service to withhold his or her services; or
+
 (b) induce or attempt to induce a police officer or special constable to engage in conduct that constitutes misconduct.
 
 ### Withholding services
@@ -4961,7 +5979,9 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Offence
 
 (3) An individual who contravenes subsection (1) or (2) is guilty of an offence and on conviction is liable,
+
 (a) in the case of a first offence, to a fine of not more than $5,000, to an imprisonment for a term of not more than one year, or to both; or
+
 (b) in the case of a second or subsequent offence, to a fine of not more than $10,000, to an imprisonment for a term of not more than one year, or to both.
 
 ### Same
@@ -5041,11 +6061,17 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Suspension, forfeit of pay, reprimands, etc.
 
 200 (1) Subject to section 201, a chief of police may impose any combination of the following disciplinary measures on a police officer who is a member of the chief’s police service, other than a deputy chief of police, if an investigation under section 198 or an investigation under Part X gives the chief of police reasonable grounds to believe that the officer has engaged in conduct that constitutes misconduct or unsatisfactory work performance:
+
 1. Suspend the police officer without pay for a period not exceeding 30 days or 240 hours, as the case may be.
+
 2. Direct that the police officer forfeit not more than three days or 24 hours pay, as the case may be.
+
 3. Direct that the police officer forfeit not more than 20 days or 160 hours off, as the case may be.
+
 4. Reprimand the police officer.
+
 5. Direct that the police officer undergo specified counselling, treatment or training.
+
 6. Direct that the police officer participate in a specified program or activity.
 
 ### Restriction on use of combined disciplinary measures
@@ -5075,17 +6101,25 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Procedure and hearings
 
 201 (1) Before imposing a disciplinary measure or combination of disciplinary measures under section 200, the chief of police, police service board or Minister, as the case may be, shall,
+
 (a) provide relevant information concerning the matter, including the written report prepared under subsection 198 (6), and written notice stating the reasons for imposing the disciplinary measure or measures to the police officer;
+
 (b) give the police officer an opportunity to respond to the notice provided under clause (a), orally or in writing, as the chief of police, police service board or Minister may determine; and
+
 (c) comply with any other prescribed requirements.
 
 ### Unsatisfactory work performance — additional requirements
 
 (2) Before a chief of police provides notice under clause (1) (a) of a proposed disciplinary measure or combination of disciplinary measures on a police officer for engaging in conduct that constitutes unsatisfactory work performance, the chief shall,
+
 (a) ensure that the police officer’s work performance has been assessed in accordance with the procedures established under subsection 194 (1);
+
 (b) advise the police officer of how he or she may improve his or her work performance;
+
 (c) accommodate the police officer’s needs in accordance with the Human Rights Code if the police officer has a disability, within the meaning of the Human Rights Code, that requires accommodation;
+
 (d) recommend that the police officer seek remedial assistance, such as counselling, training or participation in a program or activity, if the chief of police is of the opinion that it would improve the police officer’s work performance; and
+
 (e) give the police officer a reasonable opportunity to improve his or her work performance.
 
 ### Consent to disciplinary measure
@@ -5139,24 +6173,35 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Unsatisfactory work performance — additional requirements
 
 (2) Before applying to the Commission Chair under subsection (1) for demotion or termination of a police officer’s employment for engaging in conduct that constitutes unsatisfactory work performance, a chief of police shall,
+
 (a) ensure that the police officer’s work performance has been assessed in accordance with the procedures established under subsection 194 (1);
+
 (b) advise the police officer of how he or she may improve his or her work performance;
+
 (c) accommodate the police officer’s needs in accordance with the Human Rights Code if the police officer has a disability, within the meaning of the Human Rights Code, that requires accommodation;
+
 (d) recommend that the police officer seek remedial assistance, such as counselling, training or participation in a program or activity, if the chief of police is of the opinion that it would improve the police officer’s work performance; and
+
 (e) give the police officer a reasonable opportunity to improve his or her work performance.
 
 ### Notice
 
 (3) The chief of police shall provide written notice of the application to,
+
 (a) the police officer;
+
 (b) if the application arose as a result of an investigation under Part X, the complainant in that investigation, if any; and
+
 (c) if the Complaints Director directed the chief of police to initiate the hearing, the Complaints Director.
 
 ### Parties
 
 (4) The parties to the hearing are,
+
 (a) the chief of police;
+
 (b) the police officer; and
+
 (c) if the application arose as a result of an investigation under Part X, the complainant in that investigation, if any.
 
 ### Same, Complaints Director
@@ -5178,8 +6223,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Order
 
 (9) If, following the hearing, the adjudicator determines that it has been proven on clear and convincing evidence that the police officer has engaged in conduct that constitutes misconduct or unsatisfactory work performance and that demotion or termination of the officer’s employment is an appropriate response, the adjudicator may make an order to impose one of the following disciplinary measures:
+
 1. Terminate the police officer’s employment.
+
 2. Direct that the police officer’s employment be terminated in seven days unless he or she resigns before that time.
+
 3. Demote the police officer, specifying the manner and period of the demotion.
 
 ### Same
@@ -5245,25 +6293,33 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Chief of police actions
 
 (3) In the circumstances described in subsection (2), if the police officer is newly appointed as a police officer with a police service other than the police service from which he or she resigned,
+
 (a) the chief of police of the new police service may take any action under subsection (2) in respect of the officer’s past conduct as if the chief were the chief of police of the officer’s old police service; and
+
 (b) the chief of police of the old police service shall provide the chief of police of the new police service with any notes or other records pertaining to the prior investigation or disciplinary process.
 
 ### Expunging of record
 
 207 (1) A chief of police shall expunge an entry made in a police officer’s employment record respecting a disciplinary measure two years after the day the disciplinary measure was imposed if,
+
 (a) the disciplinary measure is described in paragraph 2, 3, 4, 5 or 6 of subsection 200 (1); and
+
 (b) no other entries relating to disciplinary measures were entered into the officer’s employment record in the two years following that day.
 
 ### Same
 
 (2) A chief of police shall expunge an entry made in a police officer’s employment record respecting a disciplinary measure five years after the day the disciplinary measure was imposed if,
+
 (a) the disciplinary measure is described in paragraph 1 of subsection 200 (1); and
+
 (b) no other entries relating to disciplinary measures were entered into the officer’s employment record in the five years following that day.
 
 ### Extension
 
 (3) Despite subsections (1) and (2), a record of a disciplinary measure that is described in paragraph 1 or 3 of subsection 200 (1) may be retained in a police officer’s employment record for longer than two years or five years, as applicable, if,
+
 (a) the officer consents to the extension; or
+
 (b) the adjudicator orders that the period be extended after conducting a hearing under this section.
 
 ### Hearing
@@ -5297,7 +6353,9 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Chiefs of police and deputy chiefs of police
 
 (9) Subsections (1) to (8) apply with necessary modifications to chiefs of police and deputy chiefs of police in respect of entries made in their employment record respecting a disciplinary measure, with,
+
 (a) the Minister exercising the powers and duties set out in subsections (1) to (8) in respect of the Commissioner and any deputy Commissioners; and
+
 (b) the applicable police service board exercising the powers and duties set out in subsections (1) to (8) in respect of any other chief of police or deputy chief of police.
 
 ### Entries under predecessor act
@@ -5309,8 +6367,11 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Limitation on investigations, discipline
 
 208 (1) During the time period described in subsection (3) relating to a matter, the chief of police and the police service board or Minister, as applicable, shall not,
+
 (a) investigate the matter under section 198, subject to subsection (4) of this section;
+
 (b) impose disciplinary measures with respect to the matter under section 200; or
+
 (c) make an application with respect to the matter under section 202.
 
 ### Same
@@ -5320,22 +6381,35 @@ ii. suffered loss, damage, distress, danger or inconvenience as a result of the 
 ### Time period
 
 (3) The time periods referred to in subsections (1) and (2) are the following:
+
 1. The time period,
+
 i. beginning on the day the SIU Director causes the matter to be investigated, and
+
 ii. ending on the day the SIU Director, or the chief of police to whom the matter is referred under subsection 36 (1) of the Special Investigations Unit Act, 2019, determines that charges will or will not be laid with respect to the matter.
+
 2. The time period,
+
 i. beginning on the day the chief of police, police service board or Minister,
+
 A. provides notice of the misconduct to the Complaints Director under section 197, or
+
 B. receives notice from the Complaints Director indicating that he or she will investigate the matter, and
+
 ii. ending on the day the chief of police, police service board or Minister receives notice,
+
 A. if applicable, that the Complaints Director will not cause an investigation of the matter to be conducted,
+
 B. that the investigation will be discontinued, or
+
 C. that the Complaints Director does not have reasonable grounds to believe that the conduct of the police officer or special constable who was the subject of the investigation constitutes misconduct.
 
 ### Exception
 
 (4) Subsection (1) does not limit,
+
 (a) an investigation conducted for the purpose of determining whether to impose a suspension without pay under section 210; or
+
 (b) the imposition of a suspension without pay under section 210.
 
 ### Suspension
@@ -5379,14 +6453,23 @@ C. that the Complaints Director does not have reasonable grounds to believe that
 ### Suspension without pay
 
 210 (1) A chief of police may suspend a police officer who is a member of the chief’s police service, other than a deputy chief of police, without pay in the following circumstances:
+
 1. The police officer is convicted of an offence and sentenced to a term of imprisonment, even if the conviction or sentence is under appeal.
+
 2. The police officer is in custody or is subject to conditions of judicial interim release, or conditions of an undertaking given to a peace officer upon release under section 498 or 499 of the Criminal Code (Canada), that substantially interfere with the officer’s ability to perform the duties of a police officer.
+
 3. The police officer is charged with a serious offence, as defined in the regulations, under a law of Canada and,
+
 i. the alleged offence was not committed in relation to the performance of the officer’s duties,
+
 ii. the chief of police,
+
 A. has commenced proceedings to seek termination of the police officer’s employment in relation to the events that led to the charges, or
+
 B. has given notice to the police officer that the chief intends to commence such proceedings but is prevented from doing so by section 208,
+
 iii. the likely outcome of the proceedings would be, if the events leading to the charges were proven, that the officer’s employment would be terminated or the officer would resign in accordance with an order under paragraph 2 of subsection 202 (9), and
+
 iv. a failure to suspend the officer without pay would bring discredit to the reputation of the police service.
 
 ### Unable to perform duties
@@ -5420,13 +6503,17 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Effective date of suspension without pay
 
 (9) A suspension without pay takes effect as follows:
+
 1. For a suspension under paragraph 1 or 2 of subsection (1), on the day the chief of police provides written notice of the suspension to the police officer.
+
 2. For a suspension under paragraph 3 of subsection (1), on the 60th day after the day the chief of police provides written notice of the suspension to the police officer.
 
 ### Hearing for certain suspensions without pay
 
 (10) A police officer may apply to the Commission Chair to appoint an adjudicator to hold a hearing respecting a decision to impose a suspension without pay if,
+
 (a) the suspension is under paragraph 2 of subsection (1) and the officer believes that the conditions of judicial interim release to which he or she is subject do not substantially interfere with his or her ability to perform the duties of a police officer; or
+
 (b) the suspension is under paragraph 3 of subsection (1).
 
 ### Same
@@ -5456,8 +6543,11 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### If overturned
 
 (17) If the adjudicator overturns the decision to suspend the police officer without pay,
+
 (a) the suspension without pay ends;
+
 (b) the chief of police shall ensure that the police officer is compensated for the loss of any salary, wages or other remuneration; and
+
 (c) subsection (7) shall not apply with respect to any period of the suspension.
 
 ### Chief of police or deputy chief of police
@@ -5499,7 +6589,9 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Testimony in civil proceedings
 
 (2) No person shall be required to testify in a civil proceeding with regard to information obtained in the course of an investigation conducted under this Part, except at,
+
 (a) a hearing held under this Part; or
+
 (b) a discipline proceeding for a member of a police service who is not a police officer.
 
 ### Admissibility of documents
@@ -5527,7 +6619,9 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Publication and forwarding of reports
 
 (2) The board and Minister shall,
+
 (a) publish the reports on the Internet in accordance with the regulations made by the Minister, if any; and
+
 (b) forward the reports to the Complaints Director.
 
 ### Transition
@@ -5555,19 +6649,25 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Same
 
 (5.1) Until it is dissolved, the Ontario Civilian Police Commission shall,
+
 (a) complete any hearings or appeals under section 25 or Part V of the Police Services Act that were initiated before the day the Police Services Act was repealed and that were not finally determined as of that day; and
+
 (b) carry out any other duties of the Commission under the Police Services Act as may be prescribed, as if the Police Services Act were still in force, subject to such modifications as may be prescribed.
 
 ### Testimony
 
 (6) No person shall be required to testify in a civil proceeding with regard to information obtained in the course of an investigation under Part II or V of the Police Services Act as it read immediately before its repeal, except at,
+
 (a) a hearing under Part XII of this Act; or
+
 (b) a hearing or appeal dealt with in accordance with subsection (1) or (2) of this section.
 
 ### Documents
 
 (7) No document prepared in the course of dealing with a complaint under Part V of the Police Services Act is admissible in a civil proceeding, except at,
+
 (a) a hearing under Part XII of this Act; or
+
 (b) a hearing or appeal held under Part V of the Police Services Act as the result of the application of subsection (1) or (2) of this section.
 
 ## PART XIII LABOUR RELATIONS
@@ -5577,6 +6677,7 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Definition, Part XIII
 
 217 In this Part,
+
 “senior officer” means a member of a police service who has the rank of inspector or higher or is employed in a supervisory or confidential capacity.
 
 ### Non-employees of police service boards
@@ -5624,10 +6725,15 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Application
 
 220 (1) This section applies to the following members of a police service:
+
 1. The chief financial officer, however that person is described.
+
 2. The chief administrative officer, however that person is described.
+
 3. The chief human resources executive, however that person is described.
+
 4. The general counsel, however that person is described.
+
 5. Repealed: 2024, c. 2, Sched. 4, s. 5 (1). 2019, c. 1, Sched. 1, s. 220 (1); 2024, c. 2, Sched. 4, s. 5 (1).
 
 ### Restriction
@@ -5641,8 +6747,11 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Dispute re person’s status
 
 222 (1) A person may apply to the Commission Chair to appoint an arbitrator to decide any of the following disputes if the person’s rights or obligations under this Part are affected by the subject matter of the dispute:
+
 1. A dispute as to whether a person is subject to this Part by virtue of being a member of a police service who is an employee of a police service board.
+
 2. A dispute as to whether a person is a senior officer.
+
 3. A dispute as to whether a person is prohibited from being a member of a police association as a result of section 220.
 
 ### Parties
@@ -5742,9 +6851,13 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Composition of arbitration board
 
 (2) The following rules apply to the composition of the arbitration board:
+
 1. The parties shall determine whether it shall consist of one person or three persons. If they are unable to agree on this matter, or if they agree that the arbitration board shall consist of three persons but one of the parties then fails to appoint a person in accordance with the agreement, the arbitration board shall consist of one person.
+
 2. If the arbitration board is to consist of one person, the parties shall appoint him or her jointly. If they are unable to agree on a joint appointment, the person shall be appointed by the Commission Chair.
+
 3. If the arbitration board is to consist of three persons, the parties shall each appoint one person and shall jointly appoint a chair. If they are unable to agree on a joint appointment, the chair shall be appointed by the Commission Chair.
+
 4. If the arbitration board consists of one person who was appointed by the Commission Chair, or if the arbitration board consists of three persons and the chair was appointed by the Commission Chair, the Commission Chair shall select the method of arbitration and shall advise the arbitration board of the selection. The method selected shall be mediation-arbitration unless the Commission Chair is of the view that another method is more appropriate. The method selected shall not be final offer selection without mediation and it shall not be mediation-final offer selection unless the Commission Chair, in his or her sole discretion, selects that method because he or she is of the view that it is the most appropriate method having regard to the nature of the dispute. If the method selected is mediation-final offer selection, the chair of the arbitration board shall be the mediator or, if the arbitration board consists of one person, that person shall be the mediator.
 
 ### When hearings commence
@@ -5758,8 +6871,11 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Time for submission of information
 
 (5) If the method of arbitration selected by the Commission Chair is mediation-arbitration or mediation-final offer selection, the chair of the arbitration board or, if the arbitration board consists of one person, that person may, after consulting with the parties, set a date after which a party may not submit information to the board unless,
+
 (a) the information was not available prior to the date;
+
 (b) the chair or, if the arbitration board consists of one person, that person permits the submission of the information; and
+
 (c) the other party is given an opportunity to make submissions concerning the information.
 
 ### Hearing
@@ -5773,7 +6889,9 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Time for decision
 
 (8) The arbitration board shall give a decision before the earlier of the following:
+
 1. The day that is 90 days after the day the chair is appointed or, if the arbitration board consists of one person, the day that is 90 days after the day the person is appointed.
+
 2. The day that is 30 days after the completion of the arbitration hearing.
 
 ### Extension
@@ -5783,7 +6901,9 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Remuneration and expenses
 
 (10) The remuneration and expenses of the members of an arbitration board shall be paid as follows:
+
 1. A party shall pay the remuneration and expenses of a member appointed by or on behalf of the party.
+
 2. Each party shall pay one-half of the chair’s remuneration and expenses or, if the arbitration board consists of one person, one-half of that person’s remuneration and expenses.
 
 ### Representations by municipality
@@ -5797,12 +6917,19 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Criteria
 
 (13) In making a decision or award, the arbitration board shall take into consideration all factors it considers relevant, including the following criteria:
+
 1. The employer’s ability to pay in light of its fiscal situation.
+
 2. The extent to which services may have to be reduced, in light of the decision or award, if current funding and taxation levels are not increased.
+
 3. The economic situation in Ontario and, if applicable, in the municipality.
+
 4. A comparison, as between the employees and other comparable employees in the public and private sectors, of the terms and conditions of employment and the nature of the work performed.
+
 5. The employer’s ability to attract and retain qualified employees.
+
 6. The interest and welfare of the community served by the police service.
+
 7. Any local factors affecting that community.
 
 ### Restriction
@@ -5816,8 +6943,11 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Dispute, appointment of conciliation officer
 
 228 (1) The Commission Chair shall appoint a conciliation officer, at a party’s request, if,
+
 (a) an arbitrator is not seized of the matter; and
+
 (b) a difference arises between the parties concerning an agreement or an arbitrator’s decision or award made under this Part or it is alleged that an agreement or award has been violated.
+
 (2) Repealed: 2023, c. 12, Sched. 1, s. 72.
 
 ### Duty of conciliation officer
@@ -5851,8 +6981,11 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Composition of arbitration board
 
 (3) The following rules apply to the composition of the arbitration board:
+
 1. The parties shall determine whether it shall consist of one person or three persons. If they are unable to agree on this matter, or if they agree that the arbitration board shall consist of three persons but one of the parties then fails to appoint a person in accordance with the agreement, the arbitration board shall consist of one person.
+
 2. If the arbitration board is to consist of one person, the parties shall appoint him or her jointly. If they are unable to agree on a joint appointment, the person shall be appointed by the Commission Chair.
+
 3. If the arbitration board is to consist of three persons, the parties shall each appoint one person and shall jointly appoint a chair. If they are unable to agree on a joint appointment, the chair shall be appointed by the Commission Chair.
 
 ### Time for arbitration
@@ -5866,8 +6999,11 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Costs and expenses
 
 (6) The following rules apply with respect to the costs and expenses of the arbitration:
+
 1. The Arbitration and Adjudication Commission shall pay the fees and any prescribed types of expenses of any person the Commission Chair appoints to the arbitration board.
+
 2. Each party shall pay its own costs incurred in the arbitration, including the fees of any person it appoints to the arbitration board.
+
 3. The parties shall share equally the costs and expenses for matters shared in common, including the fees of any person whom they jointly appoint to the arbitration board.
 
 ### Enforcement
@@ -5935,7 +7071,9 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Arbitrator’s decision
 
 (4) If the arbitrator is satisfied that a person has acted contrary to this Part, the arbitrator shall determine what, if anything, the person shall do or refrain from doing with respect thereto and may, without limiting the generality of the foregoing and despite the provisions of any collective agreement, make one or more of the following orders:
+
 1. An order directing a person to cease doing the act or acts complained of.
+
 2. An order directing a person to rectify the act or acts complained of.
 
 ### Filing in court
@@ -5959,8 +7097,11 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Definitions
 
 (2) In this Part,
+
 “eligible police service employee” means an employee who is a member of a police service and who meets the requirements set out in section 241; (“employé d’un service de police admissible”)
+
 “original pension plan” has the meaning set out in subsection 79.2 (1) of the Pension Benefits Act; (“premier régime de retraite”)
+
 “successor pension plan” has the meaning set out in subsection 79.2 (1) of the Pension Benefits Act. (“régime de retraite subséquent”)
 
 ### Agreement governing transfers
@@ -6006,7 +7147,9 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Application of the Pension Benefits Act
 
 (3) The following rules apply to a transfer of assets in accordance with this Part:
+
 1. Sections 21, 79.2, clause 80 (6) (b) and subsections 80 (9) to (15) and 81 (4) to (7) of the Pension Benefits Act do not apply to the transfer.
+
 2. For the purposes of section 79.1 of the Pension Benefits Act, the transfer is deemed to be authorized under section 80 or 81 of that Act if the transfer is done in accordance with subsections 80 (1) to (8) or 81 (1) to (3) of that Act, respectively.
 
 ### Transfer to prescribed retirement savings arrangement
@@ -6024,7 +7167,9 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Status of transferred assets and discharge
 
 (7) When assets are transferred in accordance with this Part,
+
 (a) the employer who is the sponsor of the successor pension plan assumes responsibility for providing pension benefits and other benefits under the original pension plan to the transferred members, and other persons entitled to payments under that plan, and they have no further claim against the original pension plan; and
+
 (b) the administrator of the original pension plan is discharged upon transferring the assets.
 
 ## PART XV COURT SECURITY
@@ -6034,9 +7179,13 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Police service boards
 
 243 (1) A police service board that has policing responsibility for an area has the following responsibilities with respect to premises where court proceedings are conducted:
+
 1. Ensuring the security of judges and other judicial officers and of persons taking part in or attending proceedings.
+
 2. During the hours when judges, other judicial officers and members of the public are normally present, ensuring the security of the premises.
+
 3. Ensuring the secure custody of persons in custody who are on or about the premises, including persons taken into custody at proceedings.
+
 4. Determining appropriate levels of security for the purposes of paragraphs 1, 2 and 3 in accordance with the regulations, if any.
 
 ### Commissioner
@@ -6050,31 +7199,53 @@ iv. a failure to suspend the officer without pay would bring discredit to the re
 ### Powers of person providing court security
 
 244 (1) A person who is authorized by a police service board to act in relation to the board’s responsibilities under subsection 243 (1) or who is authorized by the Commissioner to act in relation to the Commissioner’s responsibilities under subsection 243 (2) may exercise the following powers if it is reasonable to do so for the purpose of fulfilling those responsibilities:
+
 1. Require a person who is entering or attempting to enter premises where court proceedings are conducted or who is on such premises,
+
 i. to identify himself or herself, and
+
 ii. to provide information for the purpose of assessing whether the person poses a security risk.
+
 2. Search, without warrant,
+
 i. a person who is entering or attempting to enter premises where court proceedings are conducted or who is on such premises,
+
 ii. any vehicle that the person is driving, or in which the person is a passenger, while the person is on, entering or attempting to enter premises where court proceedings are conducted, and
+
 iii. any property in the custody or care of the person.
+
 3. Search, without warrant, using reasonable force if necessary,
+
 i. a person in custody who is on premises where court proceedings are conducted or is being transported to or from such premises, and
+
 ii. any property in the custody or care of the person.
+
 4. Refuse to allow a person to enter premises where court proceedings are conducted and use reasonable force if necessary to prevent the person’s entry,
+
 i. if the person refuses to identify himself or herself or provide information under paragraph 1 or refuses to submit to a search under paragraph 2,
+
 ii. if there is reason to believe that the person poses a security risk, or
+
 iii. for any other reason relating to the fulfilment of the police service board’s responsibilities under subsection 243 (1) or the Commissioner’s responsibilities under subsection 243 (2).
+
 5. Demand that a person immediately leave premises where court proceedings are conducted and use reasonable force if necessary to remove the person,
+
 i. if the person refuses to identify himself or herself or provide information under paragraph 1 or refuses to submit to a search under paragraph 2,
+
 ii. if there is reason to believe that the person poses a security risk, or
+
 iii. for any other reason relating to the fulfilment of the police service board’s responsibilities under subsection 243 (1) or the Commissioner’s responsibilities under subsection 243 (2).
 
 ### Arrest
 
 (2) A person who is authorized by a police service board or by the Commissioner as described in subsection (1) may arrest, without warrant, any person who,
+
 (a) after being required to identify himself or herself or provide information under paragraph 1 of subsection (1), enters or attempts to enter premises where court proceedings are conducted without identifying himself or herself or providing the information;
+
 (b) after being directed to submit to a search under paragraph 2 of subsection (1), enters or attempts to enter premises where court proceedings are conducted without submitting to the search;
+
 (c) enters or attempts to enter premises where court proceedings are conducted, after a refusal under paragraph 4 of subsection (1); or
+
 (d) does not immediately leave premises where court proceedings are conducted, after being demanded to do so under paragraph 5 of subsection (1).
 
 ### Reasonable force
@@ -6096,15 +7267,21 @@ iii. for any other reason relating to the fulfilment of the police service board
 ### Offences
 
 245 (1) A person is guilty of an offence if,
+
 (a) after being required to identify himself or herself or provide information under paragraph 1 of subsection 244 (1), the person enters or attempts to enter premises where court proceedings are conducted without identifying himself or herself or providing the information;
+
 (b) after being directed to submit to a search under paragraph 2 of subsection 244 (1), the person enters or attempts to enter premises where court proceedings are conducted without submitting to the search;
+
 (c) the person enters or attempts to enter premises where court proceedings are conducted, after a refusal under paragraph 4 of subsection 244 (1); or
+
 (d) the person does not immediately leave premises where court proceedings are conducted, after being demanded to do so under paragraph 5 of subsection 244 (1).
 
 ### Penalty
 
 (2) A person who is convicted of an offence under this section is liable,
+
 (a) in the case of a first offence, to a fine of not more than $5,000, to an imprisonment for a term of not more than 60 days, or to both; or
+
 (b) in the case of a second or subsequent offence, to a fine of not more than $10,000, to an imprisonment for a term of not more than 60 days, or to both.
 
 ### Powers not affected
@@ -6148,7 +7325,9 @@ iii. for any other reason relating to the fulfilment of the police service board
 ### Same, deemed compliance
 
 (5) The Minister may deem a community safety and well-being plan to have met all of the requirements in section 250 if,
+
 (a) consultations to develop the plan were completed before January 1, 2019; and
+
 (b) in the Minister’s opinion, the consultations substantially complied with the obligations set out in section 250.
 
 ### Same, time limit
@@ -6174,16 +7353,27 @@ iii. for any other reason relating to the fulfilment of the police service board
 ### Membership of committee
 
 (3) The advisory committee must, at a minimum, consist of the following members:
+
 1. A person who represents,
+
 i. Ontario Health, or
+
 ii. an entity that provides services to improve the physical or mental health of individuals in the community or communities.
+
 2. A person who represents an entity that provides educational services in the municipality.
+
 3. A person who represents an entity that provides community or social services in the municipality, if there is such an entity.
+
 4. A person who represents an entity that provides community or social services to children or youth in the municipality, if there is such an entity.
+
 5. A person who represents an entity that provides custodial services to children or youth in the municipality, if there is such an entity.
+
 6. An employee of the municipality or a member of the municipal council.
+
 7. A person who represents the police service board or, if there is no police service board, the commander of the detachment of the Ontario Provincial Police that provides policing in the area or his or her delegate.
+
 8. A chief of police of a police service that provides policing in the area or his or her delegate.
+
 9. Any other person prescribed by the Minister.
 
 ### Single individual may meet multiple requirements
@@ -6193,7 +7383,9 @@ ii. an entity that provides services to improve the physical or mental health of
 ### Same, joint plans
 
 (5) If the community safety and well-being plan is prepared by a group of municipalities or band councils,
+
 (a) the members of the advisory committee shall be appointed by agreement of the participating municipalities and band councils; and
+
 (b) the provisions of this Act that apply to community safety and well-being plans apply, with necessary modifications, to joint community safety and well-being plans.
 
 ### Considerations
@@ -6203,9 +7395,13 @@ ii. an entity that provides services to improve the physical or mental health of
 ### Consultations
 
 (7) In preparing a community safety and well-being plan, the municipality or municipalities shall,
+
 (a) consult with the advisory committee;
+
 (b) consult with members of the public, including youth, individuals who have received or are receiving mental health or addictions services, members of racialized groups and of First Nation, Inuit and Métis communities, in the municipality or municipalities and, in the case of a joint plan with a First Nation, in the First Nation reserve;
+
 (c) consult with community organizations, including First Nation, Inuit and Métis organizations and community organizations that represent youth or members of racialized groups, in the municipality or municipalities and, in the case of a joint plan with a First Nation, in the First Nation reserve; and
+
 (d) comply with any consultation requirements that may be prescribed by the Minister.
 
 ### Use of information
@@ -6223,11 +7419,17 @@ ii. an entity that provides services to improve the physical or mental health of
 ### Content of community safety and well-being plan
 
 251 A community safety and well-being plan shall,
+
 (a) identify risk factors in the municipality or First Nation, including, without limitation, systemic discrimination and other social factors that contribute to crime, victimization, addiction, drug overdose and suicide and any other risk factors prescribed by the Minister;
+
 (b) identify which risk factors the municipality or First Nation will treat as a priority to reduce;
+
 (c) identify strategies to reduce the prioritized risk factors, including providing new services, changing existing services, improving the integration of existing services or coordinating existing services in a different way;
+
 (d) set out measurable outcomes that the strategies are intended to produce;
+
 (e) address any other issues that may be prescribed by the Minister; and
+
 (f) contain any other information that may be prescribed by the Minister.
 
 ### Publication of community safety and well-being plan
@@ -6265,8 +7467,11 @@ ii. an entity that provides services to improve the physical or mental health of
 ### Information to Minister
 
 256 (1) Every municipality shall provide the Minister with any information prescribed by the Minister respecting,
+
 (a) the municipality’s community safety and well-being plan, including the preparation, adoption or implementation of the plan;
+
 (b) any outcomes from the municipality’s community safety and well-being plan; and
+
 (c) any other matter prescribed by the Minister related to the community safety and well-being plan.
 
 ### Time to comply
@@ -6322,7 +7527,9 @@ ii. an entity that provides services to improve the physical or mental health of
 ### Property in possession of police service
 
 258 (1) This section applies to personal property of all kinds, except firearms and money, that comes into the possession of a police service under either of the following circumstances:
+
 1. The property was stolen from its owner or was found abandoned in a public place and the chief of police is unable to determine who owns it.
+
 2. The property was seized by a member of the police service in the lawful execution of his or her duties, all legal proceedings in respect of the property have been completed, there is no court order for its disposition and there is no legal requirement, apart from this section, that it be retained or disposed of.
 
 ### Sale by police service maintained by a police service board
@@ -6340,10 +7547,15 @@ ii. an entity that provides services to improve the physical or mental health of
 ### Non-perishable property
 
 (4) If the property is not perishable, the following rules apply to its sale:
+
 1. The property may be sold when it has been in the possession of the police service for at least one month in the case of a motor vehicle as defined in the Highway Traffic Act or a bicycle, or for at least three months in the case of other property.
+
 2. The sale shall be made using an in-person public auction, an online public auction or a public tender.
+
 3. In the case of an in-person public auction, at least 10 days’ notice of the time and place of the auction shall be published on the Internet, in accordance with the regulations made by the Minister, if any.
+
 4. An online public auction must be open to bids from the public for at least seven days and may be extended until the property is sold.
+
 5. A public auction may be adjourned, repeatedly if necessary, until the property is sold.
 
 ### Claim of owner of property
@@ -6353,8 +7565,11 @@ ii. an entity that provides services to improve the physical or mental health of
 ### Register of property
 
 (6) The chief of police shall keep a register of property and ensure that the following rules are followed:
+
 1. The description and location of every item of property shall be recorded.
+
 2. If the property is sold, full particulars shall be recorded.
+
 3. If the property is returned to its owner, his or her name, address and telephone number shall be recorded.
 
 ### Exception
@@ -6408,15 +7623,21 @@ ii. an entity that provides services to improve the physical or mental health of
 ### Register of firearms
 
 (8) The chief of police shall keep a register of firearms and ensure that the following rules are followed:
+
 1. Every firearm’s description and location shall be recorded.
+
 2. When a firearm ceases to be in the possession of the police service board or of a member of the police service, full particulars shall be recorded, including the name of the person who disposed of it and the date and method of disposal.
+
 3. If the firearm is returned to its owner, his or her name, address and telephone number shall also be recorded.
 
 ### Statement
 
 (9) Every chief of police shall, in accordance with the regulations made by the Minister, provide the following information to the Minister:
+
 1. A list of the firearms that have come into the possession of the police service during the preceding calendar year.
+
 2. A list of which firearms are still being retained and which have been disposed of, along with the particulars of that disposal.
+
 3. Any other information prescribed by the Minister.
 
 ### Regulations
@@ -6424,149 +7645,293 @@ ii. an entity that provides services to improve the physical or mental health of
 ### Lieutenant Governor in Council
 
 261 (1) The Lieutenant Governor in Council may make regulations,
+
 1. respecting anything that, in this Act, may or must be prescribed or done by regulation, other than by the Minister;
+
 2. prescribing policing standards, including the policing standards that must be met in providing adequate and effective policing;
+
 3. governing the provision of policing functions, including,
+
 i. prescribing policing functions in respect of which a police service board or the Commissioner may enter into an agreement under subsection 14 (1) or (2),
+
 ii. prescribing entities that may provide policing functions pursuant to an agreement under section 14 and specifying the policing functions they may provide,
+
 iii. prohibiting the provision of a policing function by persons who are not peace officers,
+
 iv. prohibiting the provision of a policing function by persons who are not police officers,
+
 v. prescribing requirements that a police service board or the Commissioner shall comply with in relation to entering into an agreement under section 14,
+
 vi. prescribing additional matters an agreement under section 14 must address;
+
 4. prescribing codes of conduct and governing their application;
+
 5. prescribing entities as prescribed policing providers, specifying the policing functions they will be responsible for providing, specifying the area in which they will provide the policing functions and specifying whether a police service board, or the Commissioner, may continue to provide those policing functions in the area;
+
 5.1 for the purposes of subsection 10 (2), determining an area for which a municipal board has policing responsibility in a manner other than in accordance with Part IV;
+
 6. respecting the governance, operation and administration of police services;
+
 7. authorizing a chief of police to decline to provide information under section 4, 40 or 104 or authorizing the Commissioner to decline to provide information under section 62, and prescribing the circumstances in which the information may be declined;
+
 8. specifying requirements, restrictions or prohibitions with respect to the collection, use or disclosure of any class of personal information by the Minister or the Inspector General in addition to the requirements, restrictions or prohibitions set out in this Act;
+
 9. clarifying or specifying when a person is assisting members of a police service while acting under their direction for the purposes of sections 13 and 14;
+
 10. clarifying or defining “special circumstances” for the purposes of section 16 or subsection 91 (6);
+
 10.1 governing requests for temporary assistance in providing adequate and effective policing under subsection 19 (1.1), including,
+
 i. prescribing circumstances where a chief of police may request temporary assistance,
+
 ii. prescribing restrictions with respect to the assistance that may be provided or how the assistance may be provided;
+
 11. governing the process for obtaining the Minister’s approval under section 22;
+
 12. clarifying or modifying the application of this Act with respect to,
+
 i. a police service board that has been jointly constituted under section 23 or 24,
+
 ii. a First Nation Board that has been jointly requested under section 32,
+
 iii. a First Nation O.P.P. board that has been jointly requested under section 77, or
+
 iv. a community safety and well-being plan that is prepared jointly under Part XVI;
+
 13. governing the process for requesting that the Minister constitute a First Nation board or First Nation O.P.P. board and prescribing the matters the Minister must consider, including the weight the Minister must assign to prescribed matters;
+
 14. establishing standards for appointments by the Lieutenant Governor in Council of members of municipal boards, which may include minimum standards in relation to representation on the boards by underrepresented groups;
+
 15. governing recommendations by the Minister to the Lieutenant Governor in Council regarding appointments to police service boards under section 33;
+
 16. governing strategic plans and local action plans, including,
+
 i. the preparation, review and revision of the plans, and
+
 ii. the content of the plans;
+
 17. governing annual reviews of the Commissioner;
+
 18. governing payments for policing provided by the Commissioner under section 64 to municipalities, including the cost of any necessary equipment and facilities, and,
+
 i. governing the determination of the amounts payable, which may require municipalities to pay more for the services they have received or less for the services they have received based on their financial capacity,
+
 ii. governing the payment of those amounts, including providing for the calculation and payment of interest and penalties,
+
 iii. governing the collection of those amounts, including providing for payment credits and refunds for overpayments, and
+
 iv. for the purposes described in subparagraphs i, ii and iii, establishing different requirements for different classes of territories;
+
 19. governing payments for policing provided by the Commissioner to territories without municipal organization, including the cost of any necessary equipment and facilities, and,
+
 i. governing the determination of the amounts payable for those services, which may be based on financial capacity,
+
 ii. governing the payment of those amounts, including providing for the calculation and payment of interest and penalties,
+
 iii. governing the collection of those amounts, including providing for payment credits and refunds for overpayments, or providing that all or part of those amounts may be collected under the Provincial Land Tax Act, 2006 as if they were taxes imposed under that Act, and
+
 iv. for the purposes described in subparagraphs i, ii and iii, establishing different requirements for different classes of territories;
+
 19.1 governing payments for policing provided by a municipal board or the Commissioner under a regulation made under paragraph 5.1, including the cost of any necessary equipment and facilities, and,
+
 i. identifying the persons who are required to pay, in whole or in part, for the costs of those services,
+
 ii. governing the determination of the amounts payable for those services, which may be based on financial capacity,
+
 iii. governing the payment of those amounts, including providing for the calculation and payment of interest and penalties,
+
 iv. governing the collection of those amounts, including providing for payment credits and refunds for overpayments, and
+
 v. for the purposes described in subparagraphs i, ii, iii and iv, establishing different requirements for different classes of territories;
+
 20.-25. Repealed: 2023, c. 12, Sched. 1, s. 75 (1).
+
 26. governing the indemnification of any official, as that term is defined in the Special Investigations Unit Act, 2019, for reasonable legal expenses incurred in respect of a Special Investigations Unit investigation, including specifying which person or entity shall provide the indemnification;
+
 27. prescribing the nature of the information that may be disclosed under subsection 80 (1) by a chief of police or a person designated by a chief of police, to whom it may be disclosed and the circumstances in which it may be disclosed;
+
 28. establishing standards that must be met and procedures that must be followed in assessing whether an individual is physically and mentally able to perform the duties of a police officer or a special constable for the purposes of this Act;
+
 29. clarifying the meaning of the requirement to be of good character to be appointed as a police officer or special constable;
+
 30. prescribing certificates or other documents that are equivalent to a degree or diploma described in subclauses 83 (1) (f) (iv) and 92 (1) (g) (iv), including by prescribing characteristics of a document or certificate-granting program that make the certificate or other document equivalent to such a degree or diploma;
+
 31. defining or clarifying “political activity” for the purposes of section 86 and specifying the political activities in which a police officer who is a member of a police service maintained by a police service board is permitted to engage;
+
 32. establishing ranks for a police service;
+
 33. governing qualifications for the appointment of persons as police officers and governing qualifications for positions in a police service, including qualifications for specified ranks;
+
 34. governing the conduct and duties of members of police services and special constables;
+
 35. describing the circumstances under which members of police services or special constables are permitted or are not permitted to pursue persons by means of motor vehicles, and prescribing procedures that shall be followed when a person is pursued in that manner;
+
 36. governing the suspension and termination of members of police services other than police officers;
+
 37. governing the use of any equipment by a police service or any of its members, a special constable employer or a special constable, including regulating or prohibiting the use of firearms and other weapons;
+
 38. governing the conduct of hearings under section 88, including prescribing regular procedures or rules and expedited procedures or rules for them;
+
 39. governing the use of data standards, electronic systems and processes, information technology and communication technology by a police service or any of its members, a special constable employer or a special constable;
+
 40. governing the use of force by members of police services and special constables and governing reports on the use of force;
+
 41. governing the appointment of auxiliary members of a police service, including prescribing conditions or restrictions on the appointments;
+
 42. clarifying or modifying the application of this Act with respect to members of a police service who take a leave of absence or who are on secondment;
+
 43. prescribing the purposes that may be specified in an appointment of a special constable and specifying any terms or conditions that apply to a special constable appointed for such a purpose;
+
 44. prescribing educational criteria that must be satisfied in order for a special constable to be appointed for a specified purpose;
+
 45. governing the powers of a police officer that may be conferred on a special constable and governing the exercise of those police powers;
+
 46. governing the suspension and termination of the appointment of special constables;
+
 47. governing the process with respect to complaints to the Inspector General;
+
 47.1 governing the procedures for imposing interim measures under section 109.1 or 109.2 and requests to revoke or vary interim measures;
+
 47.2 governing directions under paragraph 1 of subsection 109.2 (3);
+
 48. governing the requirements to provide notice under Parts VII (Inspector General of Policing) and XII (Discipline and Termination), including prescribing the required contents of the notice and prescribing the circumstances in which notice is deemed to have been given;
+
 49. establishing and governing rules for police service boards or the Minister to charge for the cost of investigations referred to a chief of police or the Commissioner by the Inspector General;
+
 50. governing notice and reports by the Inspector General under section 123, including,
+
 i. prescribing the period within which the Inspector General must provide the notice,
+
 ii. prescribing circumstances in which the Inspector General shall not provide or publish a report,
+
 iii. prescribing information that shall not be included in the report, and
+
 iv. governing the publication of the report;
+
 51. governing the publication of directions issued under section 125 or reports under section 126, including,
+
 i. prescribing the period within which the Inspector General must publish the direction or report,
+
 ii. prescribing circumstances in which the Inspector General shall not publish a direction or report,
+
 iii. prescribing information that shall not be included in the published direction or report, and
+
 iv. governing the manner of publication of the direction or report;
+
 52. governing the duties that an administrator appointed under Part VII must perform;
+
 53. Repealed: 2023, c. 12, Sched. 1, s. 75 (3).
+
 54. governing the composition of the Ontario Police Arbitration and Adjudication Commission;
+
 55. governing the registers of arbitrators and the roster of adjudicators that the Arbitration and Adjudication Commission is required to establish and maintain;
+
 56. governing committees of the Arbitration and Adjudication Commission, including governing the names, composition, responsibilities, powers, duties and quorums of the committees;
+
 57. governing the conduct of arbitrations under this Act, including,
+
 i. prescribing procedures for them, and
+
 ii. in the case of arbitrations other than those conducted under section 227 or 229,
+
 A. excluding or modifying the application of any provision of the Arbitration Act, 1991,
+
 B. governing the orders that an arbitrator may make in his or her decision,
+
 C. prescribing rules for the payment of the arbitrator’s remuneration and expenses, and
+
 D. providing for appeals from the arbitration;
+
 58. governing the conduct of adjudication hearings under this Act, including,
+
 i. prescribing regular procedures or rules and expedited procedures or rules for the conduct of adjudication hearings,
+
 ii. authorizing adjudicators to issue orders they consider necessary to prevent the public disclosure of matters disclosed at an adjudication hearing, including orders banning the publication or broadcasting of those matters,
+
 iii. prescribing timelines for the conduct of adjudication hearings, and
+
 iv. establishing sentencing guidelines containing considerations that adjudicators must consider when determining whether to impose a disciplinary measure;
+
 59. governing the requirements and qualifications for a person to be appointed as an adjudicator;
+
 60. governing procedures, conditions or requirements for the investigation of complaints under Part X;
+
 61. governing the continuation of a complaint or resumption of an investigation in the circumstances described in subsection 170 (3);
+
 61.1 governing the process with respect to disclosures of misconduct under section 185;
+
 62. governing the use of information obtained in an investigation or hearing under Part XII (Discipline and Termination), including restricting or prohibiting its use;
+
 63. governing the continuation of investigations or disciplinary processes under section 206;
+
 64. Repealed: 2023, c. 12, Sched. 1, s. 75 (5).
+
 65. governing the responsibilities set out in subsection 243 (1), including governing the determination of appropriate levels of security, under paragraph 4 of subsection 243 (1), for premises where court proceedings are conducted;
+
 66. governing the exercise of the powers conferred by section 244, including,
+
 i. imposing restrictions, limitations and conditions on the exercise of those powers, and
+
 ii. establishing requirements for the purpose of safeguarding the rights and freedoms guaranteed by the Canadian Charter of Rights and Freedoms and the Human Rights Code, including requirements that provide for the accommodation of persons in connection with creed or disability;
+
 67. governing the requirement to provide an opportunity to respond in any provision of this Act, including prescribing requirements for any notice that must be provided and prescribing the minimum period of time that must be provided to satisfy the obligation;
+
 68. authorizing the production of records in the custody of a police service that are required for the purpose of a civil proceeding to which the police service board that maintains the police service or, in relation to the Ontario Provincial Police, the Crown in right of Ontario is not a party, including,
+
 i. governing the process for obtaining such records, and
+
 ii. prescribing fees for obtaining the records;
+
 69. clarifying or defining any of the following terms for the purposes of this Act:
+
 i. “Bad faith”.
+
 ii. “Conduct of specific operations”.
+
 iii. “Criminal offence”.
+
 iv. “Day-to-day operation”.
+
 v. “Discipline of specific police officers”.
+
 vi. “Firearm”.
+
 vii. “For cause”.
+
 viii. “Frivolous or vexatious”.
+
 ix. “Leave of absence”.
+
 x. “Lock-up”.
+
 xi. “Plan for attrition”.
+
 xii. “Specialized policing function”.
+
 xiii. “Specific investigations”.
+
 xiv. “Term of imprisonment”.
+
 xv. “Youth”.
+
 69.1 clarifying or defining “emergency” or prescribing criteria that must be satisfied for an emergency to exist for the purposes of this Act;
+
 70. modifying the application of the Police Services Act, as it read immediately before its repeal, to complaints and matters described in section 216;
+
 71. governing transitional matters that may arise due to the enactment of this Act or the amendments made by Schedule 2, 3 or 4 to the Comprehensive Ontario Police Services Act, 2019;
+
 72. governing the delivery of policing in an area that is subject to the jurisdiction of an Indigenous entity that is not a First Nation, including, without limitation,
+
 i. identifying the Indigenous entity,
+
 ii. constituting a police service board to have policing responsibility for the area and governing its composition, name, appointments to it and the term of office of members of it,
+
 iii. modifying the application of any provision of this Act or the regulations to enable the police service board to provide policing in the area,
+
 iv. modifying the application of any provision of this Act or the regulations to enable the constitution of a board similar to a First Nation O.P.P. board and to enable that board to discharge the powers, duties and functions of a First Nation O.P.P. board in relation to the Indigenous entity, and
+
 v. modifying the application of any provision of this Act or the regulations to apply to the Indigenous entity and the area subject to its jurisdiction;
+
 73. respecting any matter that is necessary or advisable to implement this Act effectively.
 
 ### No payment owed
@@ -6576,72 +7941,139 @@ v. modifying the application of any provision of this Act or the regulations to 
 ### Minister
 
 (2) The Minister may make regulations,
+
 1. respecting anything that, in this Act, may or must be prescribed by the Minister or done by regulation made by the Minister;
+
 2. governing training and prescribing additional training requirements, including training approved by the Minister respecting additional prescribed matters, in relation to members of police service boards, O.P.P. detachment boards and First Nation O.P.P. boards, the Inspector General, inspectors under this Act, the Complaints Director and investigators under this Act;
+
 3. governing the provision of information under subsection 4 (1) or 104 (1), including prescribing,
+
 i. the information that must be provided,
+
 ii. the manner in which the information must be provided, which may include requiring information to be automatically provided electronically to the Ministry or Inspector General, and
+
 iii. the frequency with which the information must be provided;
+
 4. prescribing a division of the Ministry to collect and use personal information under subsection 5 (1) on the Minister’s behalf;
+
 5. governing extra policing costs under section 18, including clarifying the application of that section and defining any term used in that section;
+
 6. governing reports on the implementation of diversity plans under subsection 28 (4), including specifying the required contents of the reports;
+
 7. governing transitional matters that may arise due to the enactment, amendment or revocation of a regulation made under section 32 or 77;
+
 8. governing the procedure for providing notice and receiving comments on a proposed amendment to, or revocation of, a regulation made under section 32 or 77;
+
 9. specifying the person or entity who shall remunerate members of a municipal board who are appointed by the Lieutenant Governor in Council or the Minister and governing their remuneration and expenses;
+
 10. governing annual reviews of chiefs of police other than the Commissioner;
+
 11. establishing and governing requirements with respect to the provision of notice to the public for meetings of police service boards;
+
 12. governing the publication of policies under section 38 or of local policies under section 69, including,
+
 i. prescribing the period within which the policies must be published,
+
 ii. prescribing policies that shall not be published,
+
 iii. prescribing information that shall not be included in the published policies, and
+
 iv. governing the manner of publication of the policies;
+
 13. establishing the procedures to be followed by police service boards, O.P.P. detachment boards or First Nation O.P.P. boards, or committees of a board, and the places at which their meetings shall be held;
+
 14. governing the publication of directions under section 40, including,
+
 i. prescribing the period within which the directions must be published,
+
 ii. prescribing directions that shall not be published,
+
 iii. prescribing information that shall not be included in the published directions, and
+
 iv. governing the manner of publication of the directions;
+
 15. defining “meeting” for the purposes of section 43 or 44;
+
 16. governing reports made under section 81 or 215 and reports on community safety and well-being plans, including specifying to whom the report shall be made and specifying the required contents of the reports;
+
 16.1 governing the composition of O.P.P. detachment boards, including the number of members of a board, eligibility for appointment to the board and the mechanism for appointing members of the board;
+
 16.2 governing the term of office, remuneration and expenses of members of O.P.P. detachment boards;
+
 16.3 establishing and governing exemptions from the requirement in subsection 67 (1) to have one O.P.P. detachment board per detachment and clarifying or modifying the application of any provision of this Act with respect to the exemption;
+
 16.4 governing the participation of O.P.P. detachment boards and First Nation O.P.P. boards in the selection of the detachment commander;
+
 16.5 governing the estimates prepared by an O.P.P. detachment board under section 71, including establishing the rules for calculating a municipality’s share of the costs, which may require municipalities to pay more for the services they have received or less for the services they have received based on their financial capacity;
+
 17. governing fees that police service boards, the Commissioner and prescribed policing providers may charge for the provision of policing or other services, including,
+
 i. prescribing the amount of a fee for the provision of a policing function or service,
+
 ii. prescribing the minimum or maximum amount that may be charged for the provision of a policing function or service, or
+
 iii. prescribing that no fee may be charged for the provision of a policing function or service;
+
 18. governing training for police officers and special constables, including,
+
 i. prescribing the training described in subclauses 83 (1) (e) (i) and 92 (1) (f) (i) which may include prescribing training approved by the Minister,
+
 ii. exempting persons from having to complete the training referred to in subparagraph i to be appointed as a police officer or special constable, subject to the conditions, if any, that may be specified,
+
 iii. prescribing training that police officers or special constables are required to complete and any period within which it must be completed, and
+
 iv. prescribing additional training requirements, including training approved by the Minister respecting additional prescribed matters;
+
 19. prescribing the form of any certificate of appointment issued under this Act;
+
 20. prescribing the minimum salary or other remuneration and allowances to be paid to a member of a police service maintained by a police service board;
+
 21. prescribing standards of dress for police officers and special constables on duty and prescribing requirements respecting their uniforms;
+
 22. clarifying the requirement in subsection 91 (5) for an auxiliary member of a police service to be “accompanied or supervised” by a police officer, including prescribing the required level of accompaniment or supervision;
+
 23. governing the ability of a chief of police to authorize an auxiliary member of the police service to possess or use firearms in the course of his or her duties;
+
 24. prescribing the records, returns, books and accounts to be kept by police service boards and their members and by special constable employers;
+
 25. prescribing the method of accounting for fees and costs that come into the hands of members of police services and special constables;
+
 26. governing the requirements and qualifications for appointment as an inspector under section 111;
+
 27. governing the requirements and qualifications for appointment as an investigator under section 136;
+
 28. establishing classes of investigators appointed under section 136 and setting out requirements and qualifications for each class;
+
 29. establishing and governing rules for the Arbitration and Adjudication Commission to charge police service boards for the cost of holding an adjudication hearing;
+
 30. governing the publication of summaries of determinations by the Complaints Director under subsection 167 (2), including requiring that summaries be published within a specified time or period and, subject to the requirement in that subsection that summaries be de-identified, respecting information that summaries must contain;
+
 31. for the purposes of subsection 172 (1),
+
 i. providing that the cost of an investigation conducted by an investigator about the conduct of a police officer, other than a police officer who is a member of the Ontario Provincial Police, or of a special constable employed by the Niagara Parks Commission shall be paid by the police service board that employs the police officer or the Niagara Parks Commission,
+
 ii. governing the calculation of the cost of an investigation,
+
 iii. governing the payment of the cost of an investigation, including with respect to the time and manner of payment,
+
 iv. providing for circumstances in which the requirement to pay the cost of an investigation does not apply;
+
 32. clarifying or defining any term used in subsection 250 (3);
+
 33. prescribing persons who must be on an advisory committee under subsection 250 (3), which may include prescribing different persons for different municipalities;
+
 34. governing consultations with respect to community safety and well-being plans, including consultations with the advisory committee, and prescribing any consultation requirements;
+
 35. governing additional requirements that must be met by a municipality or band council in preparing a community safety and well-being plan;
+
 36. governing the contents of community safety and well-being plans, including,
+
 i. prescribing any issues or information that the plan must address or contain, and
+
 ii. prescribing any risk factors that the plan must identify;
+
 37. governing the monitoring and evaluation of community safety and well-being plans;
+
 38. prescribing and governing the remuneration and expenses to be paid to a community safety and well-being planner by a municipality.
 
 ### Conflict
@@ -6663,16 +8095,23 @@ ii. prescribing any risk factors that the plan must identify;
 ### Transitional regulation
 
 (7) A regulation made under paragraph 71 of subsection (1) may, without limiting the generality of that paragraph,
+
 (a) dissolve the Ontario Civilian Police Commission and provide for any transitional matters relating to the dissolution;
+
 (b) transfer records related to policing and establish rules with respect to the transfer;
+
 (c) require an entity to postpone or delay hearings or require matters to be dealt with by a new body under this Act,
+
 (d) amend or rescind an agreement made under section 10 of the Police Services Act before its repeal;
+
 (e) dissolve a board that performed functions under section 10 of the Police Services Act before its repeal; and
+
 (f) govern the determination of any outstanding amounts in relation to an agreement made under section 10 of the Police Services Act before its repeal and provide for payment of those outstanding amounts or for the repayment or crediting of any overpayments.
 
 ### Same
 
 (8) Any transfer of records containing personal information that is required by a regulation made under paragraph 71 of subsection (1) is deemed to be in compliance with section 38 and clause 42 (1) (c) of the Freedom of Information and Protection of Privacy Act.
+
 262 Repealed: 2024, c. 2, Sched. 4, s. 6.
 
 ### Crown bound
@@ -6686,4 +8125,5 @@ ii. prescribing any risk factors that the plan must identify;
 ### Part XIX (OMITTED)
 
 265 Omitted (provides for coming into force of provisions of this Act).
+
 266 Omitted (enacts short title of this Act).

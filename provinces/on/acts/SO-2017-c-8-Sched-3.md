@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2021-10-19"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17c08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Chartered Professional Accountants of Ontario Act, 2017
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17c08) before relying on it.
 
 S.O. 2017, c. 8, Sched. 3
 
@@ -21,21 +21,37 @@ S.O. 2017, c. 8, Sched. 3
 ### Definitions
 
 1 In this Act,
+
 “appeal committee” means an appeal committee established by the by-laws; (“comité d’appel”)
+
 “by-laws” means the by-laws made under this Act; (“règlements administratifs”)
+
 “capacity committee” means the capacity committee established by the by-laws; (“comité de détermination de la capacité”)
+
 “complaints committee” means the complaints committee established by the by-laws; (“comité des plaintes”)
+
 “council” means the council of CPA Ontario; (“conseil”)
+
 “CPA Ontario” means the Chartered Professional Accountants of Ontario continued under subsection 4 (1); (“Ordre”)
+
 “discipline committee” means the discipline committee established by the by-laws; (“comité de discipline”)
+
 “document” includes data and information in electronic form; (“document”)
+
 “firm” means an entity registered under section 23 as a firm; (“cabinet”)
+
 “limited liability partnership” means a limited liability partnership as defined in the Partnerships Act; (“société à responsabilité limitée”)
+
 “predecessor Act” means the Certified General Accountants Act, 2010, the Certified Management Accountants Act, 2010 or the Chartered Accountants Act, 2010, as the case may be; (“loi remplacée”)
+
 “predecessor body” means The Certified General Accountants Association of Ontario, the Certified Management Accountants of Ontario or The Institute of Chartered Accountants of Ontario, as the case may be; (“organisme remplacé”)
+
 “professional corporation” means a corporation established under section 28; (“société professionnelle”)
+
 “public accountant” and “public accounting” have the same meanings as in the Public Accounting Act, 2004; (“expert-comptable”, “expertise comptable”)
+
 “registrar” means the registrar of CPA Ontario appointed under section 12; (“registrateur”)
+
 “student” means an individual registered as a student of CPA Ontario in accordance with the by-laws. (“stagiaire”)
 
 ### Interpretation – rights not affected
@@ -45,8 +61,11 @@ S.O. 2017, c. 8, Sched. 3
 ### Power of Minister
 
 3 The Minister responsible for the administration of this Act may,
+
 (a) review CPA Ontario’s activities;
+
 (b) request that CPA Ontario undertake activities that, in the Minister’s opinion, are necessary or advisable to carry out the intent of this Act; and
+
 (c) advise CPA Ontario with respect to its activities under this Act.
 
 ### Chartered Professional Accountants of Ontario
@@ -54,8 +73,11 @@ S.O. 2017, c. 8, Sched. 3
 ### Chartered Professional Accountants of Ontario
 
 4 (1) The following corporations are amalgamated and continued as a corporation without share capital under the name Chartered Professional Accountants of Ontario in English and Comptables professionnels agréés de l’Ontario in French:
+
 1. The Certified General Accountants Association of Ontario continued under subsection 3 (1) of the Certified General Accountants Act, 2010.
+
 2. Certified Management Accountants of Ontario continued under subsection 3 (1) of the Certified Management Accountants Act, 2010.
+
 3. The Institute of Chartered Accountants of Ontario continued under subsection 3 (1) of the Chartered Accountants Act, 2010.
 
 ### Composition
@@ -77,13 +99,21 @@ S.O. 2017, c. 8, Sched. 3
 ### Objects
 
 5 The objects of CPA Ontario are,
+
 (0.a) to exercise the powers and perform the duties assigned to it under this Act and the Public Accounting Act, 2004;
+
 (a) to promote and protect the public interest by governing and regulating individuals and entities as Chartered Professional Accountants in accordance with this Act and the by-laws, including,
+
 (i) establishing, maintaining, developing and enforcing standards of qualification, standards of practice, standards of professional ethics, and standards of knowledge, skill and proficiency, and
+
 (ii) regulating the practice, competence and professional conduct of individuals and entities as Chartered Professional Accountants;
+
 (b) to promote and increase the knowledge, skill and proficiency of members of CPA Ontario, firms and students;
+
 (c) to meet and maintain the public accounting standards established by CPA Ontario under the Public Accounting Act, 2004;
+
 (d) to promote and protect the public interest by licensing members of CPA Ontario as public accountants and regulating those members and professional corporations as public accountants under the Public Accounting Act, 2004, in accordance with that Act, this Act and the by-laws; and
+
 (e) subject to the objects set out in clauses (a) to (d), to promote and protect the welfare and interests of CPA Ontario and of the accounting profession.
 
 ### Meetings
@@ -113,7 +143,9 @@ S.O. 2017, c. 8, Sched. 3
 ### Composition
 
 (2) The council of CPA Ontario shall be composed of,
+
 (a) the number, not exceeding 16, that is set out in the by-laws, of members of CPA Ontario who are elected by the members of CPA Ontario in accordance with the by-laws; and
+
 (b) four individuals who are not members of CPA Ontario or of a self-regulating accounting body and who are appointed by the Lieutenant Governor in Council.
 
 ### Deemed reappointment
@@ -127,8 +159,11 @@ S.O. 2017, c. 8, Sched. 3
 ### Same
 
 (2) For the purposes of subsection (1), an elected member’s seat becomes vacant,
+
 (a) if the member dies or resigns;
+
 (b) if the member is removed from the council in accordance with the by-laws; or
+
 (c) in any other circumstances specified by the by-laws.
 
 ### Quorum
@@ -142,6 +177,7 @@ S.O. 2017, c. 8, Sched. 3
 ### Non-effect of former membership
 
 (2) No member of the council shall be prevented from voting on a matter, or participating in a discussion on a matter, solely on the basis that he or she held an equivalent position with a predecessor body, even if the matter may have implications for individuals or entities that were members of or registered with the predecessor body.
+
 (3) Repealed: 2017, c. 8, Sched. 3, s. 72 (4).
 
 ### Officers
@@ -153,8 +189,11 @@ S.O. 2017, c. 8, Sched. 3
 ### Appointed officers
 
 (2) The council shall appoint as officers of CPA Ontario,
+
 (a) a President and Chief Executive Officer;
+
 (b) a registrar; and
+
 (c) any other officers specified by the by-laws to be appointed.
 
 ### Acting registrar
@@ -210,34 +249,51 @@ S.O. 2017, c. 8, Sched. 3
 ### Designations
 
 17 (1) Subject to the by-laws, a member of CPA Ontario is entitled to use the following designations:
+
 1. “Chartered Professional Accountant” and “comptable professionnel agréé”.
+
 2. Any other designation provided for by the by-laws.
 
 ### Same, designations of predecessor bodies
 
 (2) If provided for by the by-laws, a member of CPA Ontario is entitled to use, in conjunction with a designation referred to in subsection (1) and in accordance with the by-laws, one or more of the following designations:
+
 1. “Chartered Accountant” and “comptable agréé”.
+
 2. “Certified Management Accountant” and “comptable en management accrédité”.
+
 3. “Registered Industrial Accountant” and “comptable en administration industrielle”.
+
 4. “Certified General Accountant” and “comptable général accrédité”.
 
 ### Initials
 
 18 (1) Subject to the by-laws, a member of CPA Ontario is entitled to use the following initials (with or without periods):
+
 1. “C.P.A.”.
+
 2. “F.C.P.A.”, if the member is a Fellow.
+
 3. Any other initials provided for by the by-laws.
 
 ### Same, initials of predecessor bodies
 
 (2) If provided for by the by-laws, a member of CPA Ontario is entitled to use, in conjunction with initials referred to in subsection (1) and in accordance with the by-laws, one or more of the following initials (with or without periods):
+
 1. “C.A.”
+
 2. “A.C.A.”
+
 3. “F.C.A.”
+
 4. “C.M.A.”
+
 5. “F.C.M.A.”
+
 6. “R.I.A.”
+
 7. “C.G.A.”
+
 8. “F.C.G.A.”
 
 ### Refusal of membership
@@ -269,15 +325,21 @@ S.O. 2017, c. 8, Sched. 3
 ### Suspension
 
 21 (1) The registrar may suspend the membership of a member of CPA Ontario if the member fails to,
+
 (a) pay all or part of any fee or other amount that is payable by the member to CPA Ontario;
+
 (b) provide information or produce documents or other materials required under this Act to be provided or produced, including proof of professional liability insurance;
+
 (c) successfully complete a professional development course required under this Act to be completed; or
+
 (d) meet any requirement set out in the by-laws that applies to the member, in accordance with the by-laws.
 
 ### Same
 
 (2) A suspension imposed under subsection (1) remains in effect until the earlier of,
+
 (a) the member’s compliance with the applicable requirement; and
+
 (b) the revocation of the member’s membership under subsection (3) or otherwise.
 
 ### Revocation of membership
@@ -301,7 +363,9 @@ S.O. 2017, c. 8, Sched. 3
 ### Former member of predecessor body
 
 (2) Subject to subsection (3), an individual remains subject to the continuing jurisdiction of CPA Ontario in respect of an investigation or disciplinary proceeding arising from his or her conduct while a member of a predecessor body, even if,
+
 (a) the individual resigned as a member of the predecessor body or his or her membership in that body was revoked; or
+
 (b) the individual resigns as a member of CPA Ontario or his or her membership in CPA Ontario is revoked.
 
 ### Limitation
@@ -317,8 +381,11 @@ S.O. 2017, c. 8, Sched. 3
 ### Registration
 
 23 The registrar shall accept any of the following entities for registration as a firm in accordance with the by-laws:
+
 1. A partnership, including a limited liability partnership established under section 27, or other association of members of CPA Ontario.
+
 2. A professional corporation.
+
 3. Any other entity specified by the by-laws.
 
 ### Firms as Chartered Professional Accountants
@@ -332,7 +399,9 @@ S.O. 2017, c. 8, Sched. 3
 ### Obligations respecting clients
 
 (3) The obligations of a member of CPA Ontario to a person on whose behalf the member is practising as a Chartered Professional Accountant,
+
 (a) are not diminished by the fact that the member is practising through a firm; and
+
 (b) in the case of a member practising through a professional corporation, apply equally to the corporation and to its directors, officers, shareholders, agents and employees.
 
 ### Investigation or inspection
@@ -342,7 +411,9 @@ S.O. 2017, c. 8, Sched. 3
 ### Refusal, restrictions and conditions, etc.
 
 25 (1) Sections 19 to 21 apply, with the following and any other necessary modifications, in respect of firms:
+
 1. A reference to a member shall be read as a reference to a firm.
+
 2. A reference to membership shall be read as a reference to registration.
 
 ### Suspension, restrictions applying to members
@@ -382,16 +453,23 @@ S.O. 2017, c. 8, Sched. 3
 ### Prohibitions, individuals
 
 29 (1) No individual, other than a member of CPA Ontario, shall, through an entity or otherwise,
+
 (a) take or use a designation referred to in section 17 or initials referred to in section 18, whether alone or combined or intermixed in any manner with any other words or abbreviations;
+
 (b) take or use any term, title, initials, designation or description implying that the individual is a Chartered Professional Accountant, Chartered Accountant, Certified Management Accountant, Registered Industrial Accountant or Certified General Accountant;
+
 (c) otherwise hold himself or herself out as a Chartered Professional Accountant, Chartered Accountant, Certified Management Accountant, Registered Industrial Accountant or Certified General Accountant; or
+
 (d) practise as a Chartered Professional Accountant.
 
 ### Exception
 
 (2) Clauses (1) (a) and (b) do not apply if an individual uses a term, title, initials, designation or description when making reference to authentic professional accounting qualifications obtained by the individual from a jurisdiction other than Ontario in,
+
 (a) a speech or other presentation given at a professional or academic conference or other similar forum;
+
 (b) an application for employment or a private communication respecting the retainer of the individual’s services, if the reference is made to indicate the individual’s educational background and the individual expressly indicates that he or she is not a member of CPA Ontario and is not governed by CPA Ontario; or
+
 (c) a proposal submitted in response to a request for proposals, if the reference is made to demonstrate that the individual meets the requirements for the work to which the request for proposals relates.
 
 ### Same
@@ -401,9 +479,13 @@ S.O. 2017, c. 8, Sched. 3
 ### Prohibitions, corporations
 
 (4) No corporation, other than a professional corporation, shall,
+
 (a) take or use a designation referred to in section 17 or initials referred to in section 18, whether alone or combined or intermixed in any manner with any other words or abbreviations;
+
 (b) take or use any term, title, initials, designation or description implying that the corporation is entitled to practise as a Chartered Professional Accountant, Chartered Accountant, Certified Management Accountant, Registered Industrial Accountant or Certified General Accountant;
+
 (c) otherwise hold itself out as a Chartered Professional Accountant, Chartered Accountant, Certified Management Accountant, Registered Industrial Accountant or Certified General Accountant; or
+
 (d) practise as a Chartered Professional Accountant.
 
 ### Exception
@@ -425,7 +507,9 @@ S.O. 2017, c. 8, Sched. 3
 ### Probation orders
 
 (3) On conviction of a person for an offence under this section, the court may prescribe as a condition of a probation order any of the following:
+
 1. That the person pay compensation or make restitution to any person who suffered a loss as a result of the offence.
+
 2. That the person shall not contravene section 29.
 
 ### Costs
@@ -465,9 +549,13 @@ S.O. 2017, c. 8, Sched. 3
 ### Powers of complaints committee
 
 (3) Following the investigation of a complaint by the complaints committee, the committee may, subject to subsection 36 (4),
+
 (a) direct that the matter be referred, in whole or in part, to the discipline committee;
+
 (b) direct that the matter not be referred to the discipline committee;
+
 (c) negotiate a settlement agreement between the complaints committee and the member or firm and refer the agreement to the discipline committee for approval; or
+
 (d) take any remedial action that it considers appropriate in the circumstances and that is not inconsistent with this Act or the by-laws, including providing guidance to or admonishing the member or firm, but not including any action described in subsection 35 (4).
 
 ### Review of settlement agreement
@@ -493,16 +581,27 @@ S.O. 2017, c. 8, Sched. 3
 ### Powers
 
 (4) If the discipline committee finds a member or firm guilty of professional misconduct, it may by order do one or more of the following:
+
 1. Revoke the member’s membership or the firm’s registration.
+
 2. Suspend the member’s membership or the firm’s registration.
+
 3. Impose restrictions or conditions on the right of the member or firm to practise as a Chartered Professional Accountant or, in the case of a member, on his or her use of the designations listed in section 17 or the initials listed in section 18.
+
 4. Reprimand the member or firm.
+
 5. Direct the member or firm to pay a fine and specify the timing and manner of payment.
+
 6. In the case of a member, direct the member to take any specified rehabilitative measure, including requiring the member to successfully complete specified professional development courses or to seek specified counselling or treatment.
+
 7. In the case of a firm, direct the firm to take any specified rehabilitative measure, including requiring any member practising as a Chartered Professional Accountant through the firm to successfully complete specified professional development courses or to seek specified counselling or treatment.
+
 8. Direct the member or firm to compensate any person for losses arising from the professional misconduct.
+
 9. Require a practice inspection under section 41, on such terms and conditions as the committee may specify.
+
 10. Refer the matter back to the complaints committee for further investigation, on such terms and conditions as the discipline committee may specify.
+
 11. Make any other order that the committee considers appropriate in the circumstances.
 
 ### Combining proceedings
@@ -516,13 +615,17 @@ S.O. 2017, c. 8, Sched. 3
 ### Preliminary suspension, restrictions
 
 36 (1) The discipline committee may order that the member’s membership or the firm’s registration be suspended, or that the member or firm be subject to any restrictions or conditions that the committee may specify, pending the outcome of a hearing or settlement agreement respecting the matter, if there are reasonable grounds to believe that,
+
 (a) there is a significant risk of harm to members of the public or to the public interest; and
+
 (b) making the order would likely reduce the risk.
 
 ### Same
 
 (2) An order may be made under subsection (1),
+
 (a) at any time after a matter is referred to the discipline committee under clause 34 (3) (a) and before the committee makes a final order under section 35; or
+
 (b) earlier on application by the complaints committee.
 
 ### Parties
@@ -532,7 +635,9 @@ S.O. 2017, c. 8, Sched. 3
 ### Matter must be referred
 
 (4) If an order under subsection (1) is made before the complaints committee makes a decision under subsection 34 (3) respecting the matter, the complaints committee shall, following its investigation,
+
 (a) refer the matter, in whole or in part, to the discipline committee under clause 34 (3) (a); or
+
 (b) negotiate a settlement agreement with the member or firm and refer the agreement to the discipline committee under clause 34 (3) (c).
 
 ### Appeal committee
@@ -550,8 +655,11 @@ S.O. 2017, c. 8, Sched. 3
 ### Jurisdiction, powers
 
 (4) The appeal committee may determine any question of law or mixed fact and law that arises in an appeal under subsection (1) and may, subject to subsection (5),
+
 (a) make any decision or order that could have been made by the discipline committee;
+
 (b) order a new hearing before the discipline committee; or
+
 (c) dismiss the appeal.
 
 ### Same
@@ -585,7 +693,9 @@ S.O. 2017, c. 8, Sched. 3
 ### Former members
 
 39 Subject to subsection 22 (3), sections 34 to 38 apply with necessary modifications in respect of an individual who,
+
 (a) resigns as a member of CPA Ontario or whose membership is revoked; or
+
 (b) resigned as a member of a predecessor body or whose membership in that body was revoked.
 
 ### Transition, matters while member of predecessor body
@@ -639,7 +749,9 @@ S.O. 2017, c. 8, Sched. 3
 ### Assessment
 
 (7) Following the examination of a member, the physician or psychologist shall provide to the capacity committee,
+
 (a) an assessment of whether the member is incapacitated and, if so, to what extent; and
+
 (b) any further relevant information respecting the medical or psychological issues in the case.
 
 ### Admissibility
@@ -649,8 +761,11 @@ S.O. 2017, c. 8, Sched. 3
 ### Powers
 
 (9) If the capacity committee determines that the member is incapacitated, the committee may by order,
+
 (a) suspend the member’s membership;
+
 (b) impose restrictions or conditions on the member’s right to practise as a Chartered Professional Accountant; or
+
 (c) make any other order, other than revoking the member’s membership, that the committee considers necessary to protect the public interest.
 
 ### Appeal
@@ -660,8 +775,11 @@ S.O. 2017, c. 8, Sched. 3
 ### Jurisdiction, powers
 
 (2) The appeal committee may determine any question of law or mixed fact and law that arises in an appeal under subsection (1) and may, subject to subsection (3),
+
 (a) make any decision or order that could have been made by the capacity committee;
+
 (b) refer the matter back to the capacity committee; or
+
 (c) dismiss the appeal.
 
 ### Same
@@ -699,10 +817,15 @@ S.O. 2017, c. 8, Sched. 3
 ### Powers of investigator
 
 50 In conducting an investigation under this Act, an investigator may,
+
 (a) at any reasonable time, enter and inspect the business premises of the individual or firm under investigation, other than any part of the premises used as a dwelling, without the consent of the owner or occupier and without a warrant;
+
 (b) question and require the individual or anyone who works with the individual, or anyone who works in the firm, as the case may be, to provide information that the investigator believes is relevant to the investigation;
+
 (c) require the production of and examine any document or thing that the investigator believes is relevant to the investigation, including a client file;
+
 (d) on giving a receipt for it, remove any document or thing that the investigator believes is relevant to the investigation for the purposes of making copies or extracts of any document or information, but the making of the copies or extracts shall be carried out with reasonable dispatch, taking into account the scope and complexity of the work involved in making the copies or extracts, and the document or thing shall afterwards be returned promptly to the person from whom it was taken; and
+
 (e) use any data storage, processing or retrieval device or system used in carrying on business on the premises in order to produce a document in readable form.
 
 ### Powers of inspector
@@ -726,11 +849,17 @@ S.O. 2017, c. 8, Sched. 3
 ### Application
 
 53 (1) Sections 54 to 57 apply to property, wherever it may be located, that is or should be in the possession or control of a member of CPA Ontario in connection with,
+
 (a) the business operations relating to the member’s practice;
+
 (b) the business or affairs of a client or former client of the member;
+
 (c) an estate for which the member is or was executor, administrator or administrator with the will annexed;
+
 (d) a trust of which the member is or was a trustee;
+
 (e) a power of attorney under which the member is or was the attorney; or
+
 (f) a guardianship under which the member is or was the guardian.
 
 ### Same
@@ -744,7 +873,9 @@ S.O. 2017, c. 8, Sched. 3
 ### Custodianship order
 
 54 (1) On application by CPA Ontario, the Superior Court of Justice may, subject to subsections (3) and (4), order that all or part of the property that is or should be in the possession or control of a member of CPA Ontario be given into the custody of,
+
 (a) CPA Ontario; or
+
 (b) a person specified by CPA Ontario, subject to that person’s prior consent.
 
 ### Application without notice
@@ -754,35 +885,57 @@ S.O. 2017, c. 8, Sched. 3
 ### Grounds for order
 
 (3) An order may be made under subsection (1) only if it is necessary for the protection of the public and,
+
 (a) the member’s membership has been suspended or revoked;
+
 (b) the member has died or disappeared;
+
 (c) the member is incapacitated within the meaning of section 43;
+
 (d) the member has neglected or abandoned his or her practice without making adequate provision for the protection of his or her clients’ interests;
+
 (e) the member has failed to conduct his or her practice in accordance with any restriction or condition to which he or she is subject under this Act; or
+
 (f) there are reasonable grounds for believing that the member has or may have dealt improperly with property that is or should be in the possession or control of the member or any other property.
 
 ### Purpose of order
 
 (4) An order may be made under subsection (1) only for one or more of the following purposes, as specified in the order:
+
 1. Preserving the property.
+
 2. Distributing the property.
+
 3. Preserving or carrying on the member’s practice.
+
 4. Winding up the member’s practice.
 
 ### Powers of court
 
 (5) An order under subsection (1) may,
+
 (a) authorize the custodian to employ or engage any professional or other assistance that is required to carry out the custodian’s duties;
+
 (b) authorize the custodian or the sheriff or any police officer or other person acting on the direction of the custodian or the sheriff to,
+
 (i) enter, by force if necessary, any building, dwelling or other premises, or any vehicle or other place, where there are reasonable grounds for believing that property that is or should be in the possession or control of the member may be found,
+
 (ii) search the building, dwelling, premises, vehicle or place,
+
 (iii) open, by force if necessary, any safety deposit box or other receptacle,
+
 (iv) require any person to provide access to any property that is or should be in the possession or control of the member, and
+
 (v) seize, remove and deliver to the custodian any property that is or should be in the possession or control of the member;
+
 (c) require a police officer to accompany the custodian or sheriff in the execution of the order;
+
 (d) give directions to the custodian regarding the manner in which the custodian should carry out the purposes of the order;
+
 (e) require the member to account to CPA Ontario and to any other person named in the order for any property that the court may specify;
+
 (f) provide for the discharge of the custodian on completion of the custodian’s duties under the order and any subsequent orders relating to the same matter; and
+
 (g) give any other directions that the court considers necessary in the circumstances.
 
 ### Agent
@@ -804,7 +957,9 @@ S.O. 2017, c. 8, Sched. 3
 ### Application to former members
 
 58 (1) Subject to subsection (2), sections 53 to 57 apply with necessary modifications in respect of an individual who,
+
 (a) resigns as a member of CPA Ontario or whose membership is revoked; or
+
 (b) resigned as a member of a predecessor body or whose membership in that body was revoked.
 
 ### Limitation
@@ -832,11 +987,17 @@ S.O. 2017, c. 8, Sched. 3
 ### Duty of confidentiality
 
 60 (1) Every person engaged in the administration of this Act and the by-laws shall preserve secrecy respecting information or material that comes to his or her knowledge or possession in the course of his or her duties under this Act, a predecessor Act or the Public Accounting Act, 2004, and shall not disclose any such information or material to any person except,
+
 (a) to his or her counsel;
+
 (b) with the consent of the person to whom the information or material relates;
+
 (c) to the extent that the information or material is available to the public;
+
 (d) as may be required in connection with the administration of this Act or the by-laws or with any proceeding under this Act or under the Public Accounting Act, 2004;
+
 (e) if there are reasonable grounds for believing that there is a significant risk of harm to any person if the disclosure is not made and that making the disclosure is likely to reduce the risk; or
+
 (f) as may otherwise be required by law.
 
 ### Offence and penalty
@@ -866,8 +1027,11 @@ S.O. 2017, c. 8, Sched. 3
 ### Restrictions
 
 (2) The court shall not make an order under this section if the information sought to be disclosed came to the knowledge of CPA Ontario as a result of,
+
 (a) the making of an oral or written statement by a person in the course of an investigation, inspection or proceeding that may tend to criminate the person or establish the person’s liability to civil proceedings, unless the statement was made at a hearing;
+
 (b) the making of an oral or written statement disclosing matters that the court determines to be subject to solicitor-client privilege; or
+
 (c) the examination of a document that the court determines to be subject to solicitor-client privilege.
 
 ### Documents and other things
@@ -881,24 +1045,35 @@ S.O. 2017, c. 8, Sched. 3
 ### Documents not admissible
 
 63 No record of a proceeding under this Act or a predecessor Act and no document or thing prepared for or statement given at such a proceeding and no decision or order made in such a proceeding is admissible in any civil proceeding, other than in,
+
 (a) a proceeding under this Act;
+
 (b) a judicial review relating to a proceeding under this Act or a predecessor Act; or
+
 (c) a proceeding brought against CPA Ontario or any other individual or body referred to in subsection 64 (1) or (2), in order to apply the relevant subsection.
 
 ### Protection from liability
 
 64 (1) No action or other proceeding may be instituted against any of the following for any act done in good faith in the exercise or performance or the intended exercise or performance of any power or duty of CPA Ontario under this Act, a predecessor Act or the Public Accounting Act, 2004, or for any alleged neglect or default in the exercise or performance in good faith of such power or duty:
+
 1. CPA Ontario, the council or any committee.
+
 2. Any member or former member of CPA Ontario, of the council or of a committee.
+
 3. Any officer, employee or agent of CPA Ontario or of the council.
+
 4. A custodian appointed under custodianship order.
 
 ### Same, predecessor bodies
 
 (2) No action or other proceeding may be instituted against any of the following for any act done in good faith in the exercise or performance or the intended exercise or performance of any power or duty of a predecessor body under a predecessor Act or the Public Accounting Act, 2004, or for any alleged neglect or default in the exercise or performance in good faith of such power or duty:
+
 1. A predecessor body, its governing body or any committee or tribunal established under a predecessor Act.
+
 2. Any member or former member of a predecessor body, its governing body or any committee or tribunal established under a predecessor Act.
+
 3. Any officer, employee or agent of a predecessor body or its governing body.
+
 4. A custodian appointed under a custodianship order made under a predecessor Act.
 
 ### Regulations and By-Laws
@@ -914,52 +1089,95 @@ S.O. 2017, c. 8, Sched. 3
 ### Same
 
 (2) Without limiting the generality of subsection (1), the council may make by-laws with respect to the following matters:
+
 1. Governing the calling and holding of meetings of the members of CPA Ontario, including specifying and limiting matters that may be considered at an annual meeting and respecting the representation of a member by proxy.
+
 2. Governing the nomination and election of members of CPA Ontario to the council, including setting out the number of elected members, setting out the qualifications that a member must meet in order to be elected to and serve on the council and setting out terms of office.
+
 3. Governing the election and appointment of officers of CPA Ontario and setting out their powers and duties.
+
 4. Establishing the committees required by this Act and any additional committees, governing the names, composition, powers, duties and quorums of the committees, governing the appointment of individuals to the committees, and authorizing and governing the formation of panels of committees.
+
 5. Governing the admission of individuals to membership in CPA Ontario, including specifying requirements and qualifications for membership and governing applications for membership.
+
 6. Governing the membership of members of CPA Ontario, including,
+
 i. establishing classes or groups of members,
+
 ii. regulating a member’s right to practise as a Chartered Professional Accountant and providing for the imposition of restrictions and conditions on that right, and
+
 iii. providing for the renewal, suspension, revocation, resignation and reinstatement of memberships.
+
 7. Governing the use by members of CPA Ontario of designations or initials, whether referred to in section 17 or 18 or otherwise, and establishing additional designations or initials that may be used by members.
+
 8. Governing the election, and rights and duties, of honorary members of CPA Ontario.
+
 9. Governing the registration of entities as firms, including,
+
 i. specifying the requirements and qualifications for registration and governing applications for registration,
+
 ii. regulating a firm’s right to practise as a Chartered Professional Accountant and providing for the imposition of restrictions and conditions on that right,
+
 iii. governing the names under which firms may register, and
+
 iv. providing for the renewal, suspension and revocation of registrations as firms.
+
 10. Requiring the registration of members of CPA Ontario as sole proprietorships, including specifying the applicable requirements and qualifications, governing applications for registration, and governing the renewal, suspension and revocation of such registrations.
+
 11. Governing the formation or continuation of limited liability partnerships for the purposes of section 27, and governing the establishment of professional corporations.
+
 12. Respecting any person, partnership or other entity that, in addition to practising as a Chartered Professional Accountant, also practises another profession or provides other services, including requiring that the persons, partnerships and other entities be registered with CPA Ontario in order to engage in such activities, governing the registrations and their renewal, suspension and revocation, and governing the restrictions and conditions that may be imposed on the registered persons, partnerships and other entities.
+
 13. Governing the practice and conduct of members of CPA Ontario and of firms as Chartered Professional Accountants, including,
+
 i. providing for standards of practice,
+
 ii. providing for rules of professional conduct, and
+
 iii. governing complaints and discipline, including specifying requirements for the making of complaints.
+
 14. Governing investigations and practice inspections under this Act, including respecting the payment of the costs of an inspection.
+
 15. Governing continuing education and professional development, including providing for the development or approval of continuing education and professional development programs for members of CPA Ontario and requiring members to successfully complete or participate in such programs, and governing the provision of professional development and related services to members and to non-members.
+
 16. Governing individuals as students, including,
+
 i. requiring the registration of individuals as students, specifying the requirements and qualifications for registration, and governing applications for registration,
+
 ii. respecting the rights and duties of students, and
+
 iii. providing that any provisions of this Act or of the by-laws that apply in respect of members apply in respect of students with necessary modifications or subject to such modifications as may be specified by the by-laws.
+
 17. Setting out the minimum requirements for professional liability insurance that must be carried by members of CPA Ontario and by firms.
+
 18. Establishing and governing the payment of fees and other amounts that must be paid to CPA Ontario and exempting any class of individual or entity from all or part of any fee or amount.
+
 19. Respecting matters of procedure for any meeting, process or proceeding under this Act, including providing for the adoption of procedural rules for proceedings before committees under this Act.
+
 20. Providing for the training and recognition of specialists.
+
 21. Providing for the affiliation of CPA Ontario with a university, college, school, corporation or other entity with similar or related objects.
+
 22. Providing for the receipt, management and investment of contributions, donations and bequests from members of CPA Ontario and others for benevolent and charitable purposes.
+
 23. Respecting any matter that this Act refers to as a matter that the by-laws may specify, set out, determine or otherwise deal with.
+
 24. Addressing any transitional matters necessary for the effective implementation of this Act or the by-laws.
 
 ### Same, public accounting
 
 (3) Without limiting the generality of subsection (1), the council may make by-laws with respect to the following matters:
+
 1. Governing any matter that, under the Public Accounting Act, 2004, may or must be dealt with by the by-laws made under this section.
+
 2. Governing matters relating to the licensing and governance of members of CPA Ontario as public accountants under the Public Accounting Act, 2004.
+
 3. Governing matters relating to the practice, through a professional corporation, of public accounting by members of CPA Ontario who are licensed under the Public Accounting Act, 2004 as public accountants.
+
 4. Providing that any provision of this Act or the by-laws apply, with necessary modifications or subject to such modifications as may be specified by the by-laws, with respect to,
+
 i. members of CPA Ontario who are licensed by it under the Public Accounting Act, 2004 as public accountants, or
+
 ii. professional corporations, established by one or more members of CPA Ontario who are licensed by CPA Ontario under the Public Accounting Act, 2004 as public accountants, that hold a valid certificate of authorization under that Act to practise as public accountants.
 
 ### Subdelegation, other instruments
@@ -977,7 +1195,9 @@ ii. professional corporations, established by one or more members of CPA Ontario
 ### Publication
 
 (6) The council shall publish by-laws made under this section on CPA Ontario’s website.
+
 - 30/04/2021
+
 66 Repealed: 2017, c. 8, Sched. 3, s. 72 (4).
 
 ### When prior approval by Minister required
@@ -1009,15 +1229,25 @@ ii. professional corporations, established by one or more members of CPA Ontario
 ### Transition, corporate matters
 
 69 (1) The following occurs when subsection 4 (1) comes into force:
+
 1. The predecessor bodies cease to exist as entities separate from the amalgamated CPA Ontario.
+
 2. All rights, property and assets that belong to the predecessor bodies immediately before the subsection comes into force become the rights, property and assets of CPA Ontario.
+
 3. All outstanding debts, liabilities and obligations of the predecessor bodies immediately before the subsection comes into force become the debts, liabilities and obligations of CPA Ontario.
+
 4. The members of the council of The Institute of Chartered Accountants of Ontario holding office immediately before the subsection comes into force form the initial council of CPA Ontario.
+
 5. The officers of The Institute of Chartered Accountants of Ontario holding office immediately before the subsection comes into force become the corresponding officers of CPA Ontario.
+
 6. The by-laws of The Institute of Chartered Accountants of Ontario that are in force immediately before the subsection comes into force become the by-laws of CPA Ontario.
+
 7. An agreement to which a predecessor body was a party immediately before the subsection comes into force has effect after the subsection comes into force as if,
+
 i. CPA Ontario were substituted for the predecessor body as a party to the agreement, and
+
 ii. any reference in the agreement to the predecessor body were a reference to CPA Ontario.
+
 8. CPA Ontario is a party to each ongoing proceeding to which a predecessor body is a party immediately before the subsection comes into force, replacing the predecessor body.
 
 ### Same, paragraph 7 of subsection (1)
@@ -1027,18 +1257,29 @@ ii. any reference in the agreement to the predecessor body were a reference to C
 ### Transition, governance and other matters
 
 70 The following occurs when subsection 4 (1) comes into force:
+
 1. Every individual who is a member of a predecessor body immediately before the subsection comes into force becomes a member of CPA Ontario, and any restrictions, conditions or suspensions to which his or her membership in the predecessor body was subject continue to apply to his or her membership in CPA Ontario.
+
 2. Every entity registered with a predecessor body as a firm, within the meaning of the applicable predecessor Act, immediately before the subsection comes into force becomes a firm registered under this Act, and any restrictions, conditions or suspensions to which the entity’s registration was subject continue to apply to the registration under this Act.
+
 3. Every individual who is a registered student of a predecessor body immediately before the subsection comes into force becomes a student of CPA Ontario.
+
 4. Every individual who, immediately before the subsection comes into force, was a member of a committee established under a predecessor Act becomes a member of the corresponding committee established under this Act.
+
 5. Every process or proceeding, including practice reviews, inspections, investigations, complaints and hearings, begun under a predecessor Act and not completed before the subsection comes into force becomes a process or proceeding under this Act.
 
 ### Transition, The Certified Public Accountants Association of Ontario
 
 71 The following occurs when subsection 4 (1) comes into force:
+
 1. Any rights, property and assets that belonged to The Certified Public Accountants Association of Ontario continued under The Certified Public Accountants Act,  
+
 2. Any outstanding debts, liabilities and obligations of The Certified Public Accountants Association of Ontario continued under The Certified Public Accountants Act,  
+
 72 Omitted (provides for amendments to this Act).
+
 73-77 Omitted (amends, repeals or revokes other legislation).
+
 78 Omitted (provides for coming into force of provisions of this Act).
+
 79 Omitted (enacts short title of this Act).

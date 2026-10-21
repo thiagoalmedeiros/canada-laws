@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2019-05-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/09a33"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Adjudicative Tribunals Accountability, Governance and Appointments Act, 2009
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/09a33) before relying on it.
 
 S.O. 2009, c. 33, Sched. 5
 
@@ -25,10 +25,15 @@ S.O. 2009, c. 33, Sched. 5
 ### Definitions
 
 2 In this Act,
+
 “adjudicative tribunal” means an agency, board, commission, corporation or other entity that is prescribed; (“tribunal décisionnel”)
+
 “governance accountability documents” means the memorandum of understanding, business plan and annual report required by sections 11, 12 and 13, respectively; (“documents de responsabilisation en matière de gouvernance”)
+
 “prescribed” means prescribed by regulations made under this Act; (“prescrit”)
+
 “public accountability documents” means the mandate and mission statement, consultation policy, service standard policy, ethics plan and member accountability framework required by sections 3, 4, 5, 6 and 7, respectively; (“documents de responsabilisation à l’égard du public”)
+
 “responsible minister”, in relation to an adjudicative tribunal, means the minister of the Crown who is responsible to the Assembly for the tribunal. (“ministre responsable”)
 
 ### Public Accountability Documents
@@ -40,8 +45,11 @@ S.O. 2009, c. 33, Sched. 5
 ### Contents
 
 (2) The mandate and mission statement must contain,
+
 (a) a statement of the tribunal’s legislative mandate, with reference to the Act that establishes its mandate and to any Act or Acts that add to its mandate;
+
 (b) the tribunal’s mission statement; and
+
 (c) any other matter specified in the regulations or in a directive of the Management Board of Cabinet.
 
 ### Approval
@@ -71,8 +79,11 @@ S.O. 2009, c. 33, Sched. 5
 ### Contents
 
 (2) The service standard policy must contain,
+
 (a) a statement of the standards of service that the tribunal intends to provide;
+
 (b) a process for making, reviewing and responding to complaints about the service provided by the tribunal; and
+
 (c) any other matter specified in the regulations or in a directive of the Management Board of Cabinet.
 
 ### Approval
@@ -82,8 +93,11 @@ S.O. 2009, c. 33, Sched. 5
 ### Relationship to other remedies
 
 (4) Nothing in the service standard policy shall be interpreted as affecting,
+
 (a) a process or remedy available under the Ombudsman Act;
+
 (b) a right of appeal from decisions of the tribunal available under any Act; or
+
 (c) a right to bring an application for judicial review.
 
 ### Ethics plan
@@ -109,9 +123,13 @@ S.O. 2009, c. 33, Sched. 5
 ### Contents
 
 (2) The member accountability framework must contain,
+
 (a) a description of the functions of the members, the chair and the vice-chairs, if any, of the tribunal;
+
 (b) a description of the skills, knowledge, experience, other attributes and specific qualifications required of a person to be appointed as a member of the tribunal;
+
 (c) a code of conduct for the members of the tribunal; and
+
 (d) any other matter specified in the regulations or in a directive of the Management Board of Cabinet.
 
 ### Approval
@@ -141,11 +159,17 @@ S.O. 2009, c. 33, Sched. 5
 ### Contents
 
 (2) The memorandum of understanding must address,
+
 (a) the financial, staffing and administrative arrangements for the tribunal;
+
 (b) the accountability relationships of the tribunal, including its duty to account to its responsible minister;
+
 (c) the recruitment, orientation and training of the tribunal’s members;
+
 (d) the committee structure of the tribunal, if any;
+
 (e) the tribunal’s planning and reporting requirements; and
+
 (f) any other matter specified in the regulations or in a directive of the Management Board of Cabinet.
 
 ### Expiry
@@ -191,7 +215,9 @@ S.O. 2009, c. 33, Sched. 5
 ### Same
 
 (2) The tribunal shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report; and
+
 (b) when and how to make it available to the public.
 
 ### Same
@@ -211,8 +237,11 @@ S.O. 2009, c. 33, Sched. 5
 ### Adjudicative tribunal members to be selected by competitive, merit-based process
 
 14 (1) The selection process for the appointment of members to an adjudicative tribunal shall be a competitive, merit-based process and the criteria to be applied in assessing candidates shall include the following:
+
 1. Experience, knowledge or training in the subject matter and legal issues dealt with by the tribunal.
+
 2. Aptitude for impartial adjudication.
+
 3. Aptitude for applying alternative adjudicative practices and procedures that may be set out in the tribunal’s rules.
 
 ### Tribunal-specific qualifications
@@ -222,7 +251,9 @@ S.O. 2009, c. 33, Sched. 5
 ### Publication
 
 (3) The responsible minister of an adjudicative tribunal shall make public the recruitment process to select one or more persons to be appointed to the tribunal and in doing so shall specify,
+
 (a) the steps intended to be taken in the recruitment process; and
+
 (b) the skills, knowledge, experience, other attributes and specific qualifications required of a person to be appointed.
 
 ### Chair to recommend appointments, reappointments
@@ -318,14 +349,23 @@ S.O. 2009, c. 33, Sched. 5
 ### Matters for review
 
 (2) The review required by subsection (1) must address,
+
 (a) the tribunal’s mandate and whether it continues to be relevant;
+
 (b) the functions performed by the tribunal, and whether they are best performed by the tribunal or whether they would be better performed by another entity;
+
 (c) the tribunal’s governance structure and management systems, and whether they continue to be appropriate to its mandate and functions;
+
 (d) the tribunal’s financial and human resources and its financial and information systems;
+
 (e) the tribunal’s business planning, performance measurement and reporting practices;
+
 (f) whether the tribunal has effective processes in place to ensure its compliance with any applicable Act, regulation or directive of the Management Board of Cabinet;
+
 (g) whether the tribunal is effective in achieving its mandate and serving the public;
+
 (h) whether changes should be made to the tribunal or whether the tribunal should be discontinued; and
+
 (i) any other matter specified in the regulations or in a directive of the Management Board of Cabinet.
 
 ### Additional reviews
@@ -345,16 +385,29 @@ S.O. 2009, c. 33, Sched. 5
 ### Regulations
 
 23 The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing agencies, boards, commissions, corporations or other entities for the purpose of the definition of “adjudicative tribunal” in section 2;
+
 (b) prescribing the contents of the ethics plan required by section 6;
+
 (c) prescribing a period of time for the purpose of subsection 12 (1) and the contents of the business plan required by section 12;
+
 (d) governing the publication of the recruitment process required by subsection 14 (3);
+
 (e) respecting the waiver of any requirement set out in section 14, including waiving any such requirement;
+
 (f) prescribing references in this or any other Act or in a regulation to the chair of an adjudicative tribunal that are to be read other than as described in subsection 17 (6) and prescribing how such references shall be read in relation to the adjudicative tribunal that is included in a cluster;
+
 (g) prescribing other matters to be addressed in a review of an adjudicative tribunal required by section 21;
+
 (h) prescribing other matters to be addressed or included in any public accountability document or governance accountability document;
+
 (i) prescribing the date by or time within which an adjudicative tribunal must comply with any provision or requirement of this Act or of a regulation made under this Act respecting a public accountability document or governance accountability document;
+
 (j) prescribing the form and format of any public accountability document or governance accountability document;
+
 (k) governing the publication of the public accountability documents or governance accountability documents or of the review required by section 21.
+
 24 Omitted (provides for coming into force of provisions of this Act).
+
 25 Omitted (enacts short title of this Act).

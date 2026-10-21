@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2023-12-04"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17p12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Prevention of and Remedies for Human Trafficking Act, 2017
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17p12) before relying on it.
 
 S.O. 2017, c. 12, Sched. 2
 
@@ -21,6 +21,7 @@ S.O. 2017, c. 12, Sched. 2
 ### Definition
 
 1 In this Act,
+
 “human trafficking” means conduct described in section 279.01, 279.011, 279.02 or 279.03 of the Criminal Code (Canada), taking into account any evidentiary or other rules set out in those sections respecting the determination of the conduct but not requiring a charge or conviction under any of those sections.
 
 ## PART II RESTRAINING ORDER, HUMAN TRAFFICKING
@@ -28,18 +29,27 @@ S.O. 2017, c. 12, Sched. 2
 ### Definitions
 
 2 In this Part,
+
 “child” means a person under the age of 18 years; (“enfant”)
+
 “court” means the Ontario Court of Justice; (“tribunal”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means the regulations made under this Part; (“règlements”)
+
 “victim” means a victim of human trafficking and includes a person who may be a victim of human trafficking. (“victime”)
 
 ### Application for restraining order
 
 3 (1) The following persons may apply to the court, in accordance with the regulations, for a restraining order under section 4 against a respondent:
+
 1. A victim.
+
 2. A person with lawful custody of a victim who is a child.
+
 3. A person acting on behalf of a person referred to in paragraph 1 or 2 who gives his or her consent to the application in the prescribed form.
+
 4. Any other person who is prescribed.
 
 ### Same, customary care
@@ -55,6 +65,7 @@ S.O. 2017, c. 12, Sched. 2
 ### Definition
 
 4 (1) In this section,
+
 “visual recording” includes a photographic, film or video recording made by any means.
 
 ### Order
@@ -64,33 +75,53 @@ S.O. 2017, c. 12, Sched. 2
 ### Factors
 
 (3) In determining whether to make a restraining order under subsection (2), the court may consider the following and any other relevant factors:
+
 1. The respective ages of the victim and the respondent.
+
 2. The victim’s immigration status.
+
 3. Whether the victim has a physical or mental disability.
+
 4. The nature of the relationship between the victim and the respondent.
+
 5. Whether the respondent is in a position of trust, power or authority in relation to the victim.
+
 6. The use of threats or other forms of intimidation by the respondent against the victim or a person known to the victim.
+
 7. The use of force by the respondent against the victim or a person known to the victim, or against another person in the victim’s presence.
+
 8. The use of deception, fraud or other forms of coercion by the respondent in relation to the victim.
+
 9. The provision to the victim of alcohol or of a controlled substance, as defined in the Controlled Drugs and Substances Act (Canada), by the respondent, in order to cause or compel the victim to provide labour or services.
+
 10. The respondent’s control, including withholding, or threatened control of the victim’s access to alcohol or to a controlled substance referred to in paragraph 9.
+
 11. The respondent’s control or threatened control of the victim’s finances, including withholding money.
+
 12. The respondent’s control, including withholding, destruction, concealment or removal, or threatened control of any of the victim’s personal effects or documents, such as a passport, driver’s licence, health card or other form of identification.
+
 13. The possession, making, transmission, making available, selling, advertising or distribution, by the respondent, of any visual recording of the victim in which the victim is nude, is exposing his or her genital organs, anal region or breasts, or is engaged in or depicted as being engaged in explicit sexual activity.
 
 ### Provisions of order
 
 (4) A restraining order made under subsection (2) may contain any reasonable condition that the court considers necessary or advisable for the protection of the victim and, if applicable, any other person, including,
+
 (a) prohibiting the respondent from, directly or indirectly, communicating with or contacting the victim or any specified person;
+
 (b) prohibiting the respondent from attending at or within a specified distance from any place that the victim or a specified person attends regularly, which may include a school, shelter, youth facility, place of residence, place of worship, place of employment or any other place where the victim or specified person is reasonably known by the respondent to be;
+
 (c) requiring the respondent to return specified personal effects or documents belonging to the victim, such as a passport, driver’s licence, health card or other form of identification, in the manner specified in the order;
+
 (d) requiring the respondent to return to the victim the original and any copies of any visual recording of the victim; and
+
 (e) prohibiting the respondent from possessing, making, transmitting, making available, selling, advertising or distributing any visual recording of the victim.
 
 ### Same, weapon
 
 (5) If, in making a restraining order under subsection (2), the court determines that it is necessary or advisable for the protection of the victim or any other person to prohibit the respondent from possessing any weapon, as defined in section 2 of the Criminal Code (Canada), the court shall include the prohibition as a condition in the order and shall specify,
+
 (a) the period during which the condition applies; and
+
 (b) the manner in which the weapon and any related authorizations, licences or certifications that are held by the respondent shall be surrendered, disposed of, detained, stored or otherwise dealt with.
 
 ### Expiry and extension
@@ -138,7 +169,9 @@ S.O. 2017, c. 12, Sched. 2
 ### Same
 
 (4) In an application under subsection (3),
+
 (a) the onus is on the person who applied for the restraining order to prove that that the order should continue without variation; and
+
 (b) the court may consider any evidence that was submitted on the application for the restraining order.
 
 ### No stay
@@ -240,22 +273,35 @@ S.O. 2017, c. 12, Sched. 2
 ### Regulations
 
 15 (1) The Minister responsible for the administration of this Act may make regulations,
+
 (a) respecting anything that, under this Part, may or must be prescribed or done by regulation;
+
 (b) governing procedures respecting applications and appeals under this Part, including procedures in relation to,
+
 (i) the mode and conduct of applications, including requiring the filing of documents,
+
 (ii) the commencement of applications, representation of parties and service of documents in or outside Ontario,
+
 (iii) pleadings,
+
 (iv) the use of documents and other evidence in applications, including discovery and other forms of disclosure,
+
 (v) the examination of witnesses,
+
 (vi) appeals and motions for appeal, including their mode and conduct,
+
 (vii) the mode and conduct of hearings,
+
 (viii) the disposition of applications, appeals and motions for appeal without a hearing and its effect.
 
 ### Same
 
 (2) Regulations made under clause (1) (b) may provide,
+
 (a) that any of the rules of court apply to an application or appeal under this Part, with such changes as the regulations may specify;
+
 (b) that an application under this Part may be made by way of a motion or other process, as specified by the regulations; and
+
 (c) that, in the event of a failure to comply with any of the prescribed procedures, the court may grant relief regardless, set aside any procedural step in whole or in part, or exercise any other power specified by the regulations with respect to the failure to comply, in such circumstances or with such limitations or conditions as may be specified by the regulations.
 
 ## PART III TORT OF HUMAN TRAFFICKING
@@ -275,16 +321,23 @@ S.O. 2017, c. 12, Sched. 2
 ### Powers of court
 
 17 (1) In an action under section 16, the court may,
+
 (a) award damages to the plaintiff, including general, special, aggravated and punitive damages;
+
 (b) order the defendant to account to the plaintiff for any profits that have accrued to the defendant as a result of the human trafficking;
+
 (c) issue an injunction on such terms and with such conditions as the court determines appropriate in the circumstances; and
+
 (d) make any other order that the court considers reasonable in the circumstances.
 
 ### Considerations
 
 (2) In awarding damages under clause (1) (a), the court shall have regard to all of the circumstances of the case, including,
+
 (a) any particular vulnerabilities of the plaintiff;
+
 (b) all aspects of the defendant’s conduct; and
+
 (c) the nature of any existing relationship between the plaintiff and the defendant.
 
 ### Accounting not relevant to damages
@@ -294,5 +347,7 @@ S.O. 2017, c. 12, Sched. 2
 ### No double compensation
 
 (4) When assessing damages or any other compensation in an action under section 16 respecting conduct that is the subject of another civil proceeding, the court shall take into account any damages or compensation awarded in the other proceeding in respect of the same conduct.
+
 18 Omitted (provides for coming into force of provisions of this Act).
+
 19 Omitted (enacts short title of this Act).

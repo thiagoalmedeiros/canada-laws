@@ -6,23 +6,28 @@ language: en
 type: act
 document_date: "2018-12-06"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18w10"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # White Pines Wind Project Termination Act, 2018
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18w10) before relying on it.
 
 S.O. 2018, c. 10, Sched. 2
 
 ### Definitions
 
 1 (1) In this Act,
+
 “Crown” means the Crown in right of Ontario; (“Couronne”)
+
 “IESO” has the same meaning as in subsection 2 (1) of the Electricity Act, 1998; (“SIERE”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “White Pines Wind Project” means the project that is the subject of the Feed-in Tariff Contract referred to in paragraph 1 of subsection 3 (1). (“projet de parc éolien White Pines”)
 
 ### Interpretation, reference to instruments
@@ -32,7 +37,9 @@ S.O. 2018, c. 10, Sched. 2
 ### Revocation of approvals, permits related to White Pines Wind Project
 
 2 (1) The following are deemed to have been revoked on July 10, 2018:
+
 1. Renewable energy approval number 2344-9R6RWR, dated July 16, 2015, issued to wpd White Pines Wind Incorporated under section 47.5 of the Environmental Protection Act.
+
 2. Permit #PT-C-010-13, dated September 8, 2015, issued to wpd White Pines Wind Incorporated under clause 17 (2) (c) of the Endangered Species Act, 2007 for impacts to the habitats of bobolink, Eastern meadowlark and Eastern whip-poor-will.
 
 ### Further revocations by regulation
@@ -42,7 +49,9 @@ S.O. 2018, c. 10, Sched. 2
 ### Termination of contracts, agreements related to White Pines Wind Project
 
 3 (1) The following are deemed to have been terminated on July 10, 2018:
+
 1. The contract dated May 4, 2010 and titled “Feed-in Tariff Contract” between the IESO and wpd White Pines Wind Incorporated.
+
 2. Any agreements related to the contract referred to in paragraph 1 to which the IESO and wpd White Pines Wind Incorporated are parties, including the agreement dated June 22, 2018, titled “Secured Lender Consent and Acknowledgement Agreement” and entered into by the IESO, wpd White Pines Wind Incorporated, and KfW IPEX-Bank Gmbh as security agent.
 
 ### Further terminations by regulation
@@ -60,7 +69,9 @@ S.O. 2018, c. 10, Sched. 2
 ### Liability for related Crown costs
 
 (3) wpd White Pines Wind Incorporated is liable to the Crown for any costs or liabilities the Crown may incur as a result of,
+
 (a) a failure of wpd White Pines Wind Incorporated to meet its obligations under subsection (1) or (2); or
+
 (b) wpd White Pines Wind Incorporated not maintaining the lands on which the White Pines Wind Project is located in a clean and safe condition on and after July 10, 2018 and before the day this Act comes into force.
 
 ### Off-set
@@ -70,9 +81,13 @@ S.O. 2018, c. 10, Sched. 2
 ### Extinguishment of causes of action
 
 5 (1) No cause of action arises against the Crown, any current or former member of the Executive Council or any current or former employee or agent of or advisor to the Crown, or against the IESO or any of its current or former directors, officers, employees or agents, as a direct or indirect result of,
+
 (a) the enactment, operation, administration or repeal of any provision of this Act or the regulations;
+
 (b) anything done or not done in order to comply with this Act or the regulations;
+
 (c) any revocation, cessation or termination of an instrument or of contractual or other rights under this Act; or
+
 (d) any representation or other conduct that is related, directly or indirectly, to the White Pines Wind Project or any instrument referred to in section 2 or 3.
 
 ### Proceedings barred
@@ -110,22 +125,35 @@ S.O. 2018, c. 10, Sched. 2
 ### Amount
 
 (2) The amount of compensation payable to wpd White Pines Wind Incorporated under subsection (1) shall be determined in accordance with the following formula, subject to the exclusions specified in subsection (3) and any other exclusions that may be prescribed, and subject to subsection (4):
+
 (A + B + C) − (D + E)
+
 where,
+
 A = the expenses reasonably incurred by wpd White Pines Wind Incorporated in respect of the White Pines Wind Project in relation to,
+
 (i) development, acquisition, leasing and construction costs,
+
 (ii) employee termination payments,
+
 (iii) subcontractor losses or landowner losses, and
+
 (iv) decommissioning costs and other costs required to wind up the White Pines Wind Project,
+
 B = the debt amount and debt make-whole amount in respect of which wpd White Pines Wind Incorporated is liable in relation to the White Pines Wind Project,
+
 C = any additional amount or thing that may be prescribed,
+
 D = all of wpd White Pines Wind Incorporated accounts receivable related to the White Pines Wind Project, including any insurance proceeds due to wpd White Pines Wind Incorporated or which would have been due to it had it duly pursued any claim to which it might have been entitled, all amounts payable to wpd White Pines Wind Incorporated in relation to the White Pines Wind Project, other than any such amounts payable by the Crown under this Act, and all amounts in bank accounts belonging to wpd White Pines Wind Incorporated in relation to the White Pines Wind Project, and
+
 E = such rights and assets of wpd White Pines Wind Incorporated in respect of the White Pines Wind Project that are not referred to in “D” as may be prescribed.
 
 ### Expenses
 
 (3) The following shall not be included as expenses for the purposes of “A” in subsection (2):
+
 1. An expense that exceeds the fair market value of the goods or services for which it was incurred.
+
 2. An expense for which wpd White Pines Wind Incorporated has been reimbursed by another person.
 
 ### Multiple calculations, payments permitted
@@ -135,19 +163,25 @@ E = such rights and assets of wpd White Pines Wind Incorporated in respect of th
 ### Regulations may limit amount of compensation payable
 
 (4) The compensation payable in accordance with the formula set out in subsection (2) is subject to,
+
 (a) any monetary limits in the compensation payable under this section that may be prescribed; and
+
 (b) any monetary limits in compensating any expense or liability or any class of expense or liability that would otherwise be compensable under this section that may be prescribed.
 
 ### Timing and methodologies for determining or valuing amounts
 
 (5) The calculation of amounts under subsection (2) is subject to such rules as may be prescribed respecting,
+
 (a) dates or periods with respect to which any amount or thing referred to in the formula shall be determined or valued; or
+
 (b) methodologies for determining or valuing any amount or thing referred to in the formula.
 
 ### Compensation contingent on accounting
 
 (6) No compensation is payable in respect of an amount or thing described in subsection (2) unless wpd White Pines Wind Incorporated submits to the Crown,
+
 (a) a full accounting satisfactory to the Crown respecting the amount or thing, including such receipts or other proof of payment as the Crown may require, submitted in accordance with the regulations; and
+
 (b) any other financial or other documents or other information respecting the amount or thing that the Crown may specify, submitted in the time and manner specified by the Crown.
 
 ### Audit
@@ -177,25 +211,39 @@ E = such rights and assets of wpd White Pines Wind Incorporated in respect of th
 ### Regulations
 
 7 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) respecting anything that, in this Act, may be prescribed or done by regulation;
+
 (b) defining any term or phrase used in this Act that is not defined in this Act;
+
 (c) governing the decommissioning of the White Pines Wind Project by wpd White Pines Wind Incorporated;
+
 (c.1) excluding any amount or thing from any element of the formula set out in subsection 6 (2);
+
 (c.2) governing the making of calculations and payments under section 6, including,
+
 (i) setting out preconditions that must be met before the calculation or payment of an amount under that section,
+
 (ii) governing the making of multiple calculations or payments for the purposes of subsection 6 (3.1), including respecting the frequency or timing of such calculations or payments;
+
 (d) setting out a maximum amount or a method of determining a maximum amount that may be paid as compensation under section 6, or maximum amounts or a method of determining maximum amounts for any expense or liability or any class of expense or liability that would otherwise be compensable under that section;
+
 (e) setting out rules for the purposes of subsection 6 (5), which may include different rules for different expenses, liabilities, rights, assets or other things to be calculated under subsection 6 (2), or for different classes of such expenses, liabilities, rights, assets or other things, and which, for the purposes of clause 6 (5) (a), may require the calculation of amounts as of dates or periods occurring before the day this Act came into force;
+
 (e.1) governing the submission of documents and information under clause 6 (6) (a), including specifying the form, time and manner of the submissions, and clarifying the meaning of “full accounting” for the purposes of that clause;
+
 (f) governing such transitional matters as the Lieutenant Governor in Council considers necessary or advisable to facilitate the implementation of this Act.
 
 ### Conflict
 
 (2) In the event of a conflict between a regulation made under clause (1) (c) and a regulation made under the Environmental Protection Act, the regulation made under clause (1) (c) prevails to the extent of the conflict.
+
 (3) Repealed: 2018, c. 17, Sched. 44, s. 2 (3).
 
 ### Retroactive regulations
 
 (4) A regulation made under this section is, if it so provides, effective with reference to a period before it is filed.
+
 8 Omitted (provides for coming into force of provisions of this Act).
+
 9 Omitted (enacts short title of this Act).

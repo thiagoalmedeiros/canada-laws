@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06o35"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # négociation collective relative à la Police provinciale de l'Ontario (Loi de 2006 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06o35) before relying on it.
 
 L.O. 2006, chap. 35, annexe B
 
@@ -21,10 +21,15 @@ L.O. 2006, chap. 35, annexe B
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «association» L’association appelée Ontario Provincial Police Association. («Association»)
+
 «comité de négociation» Le comité de négociation de la Police provinciale de l’Ontario prorogé aux termes de l’article 3. («Negotiating Committee»)
+
 «convention» Convention écrite conclue entre la Couronne d’une part et l’association d’autre part. («agreement»)
+
 «fonctionnaire» S’entend au sens de la Loi de 2006 sur la fonction publique de l’Ontario. («public servant»)
+
 «ministre» Le ministre de la Sécurité communautaire et des Services correctionnels ou l’autre membre du Conseil exécutif que désigne le lieutenant-gouverneur en conseil. («Minister») 2006, chap. 35, annexe B, art. 1
 
 ### Interdiction de s’affilier à un syndicat
@@ -34,22 +39,31 @@ L.O. 2006, chap. 35, annexe B
 ### Définition
 
 (2) La définition qui suit s’applique au présent article.
+
 «syndicat» S’entend au sens de la Loi de 1995 sur les relations de travail.
 
 ### Application : unités de négociation
 
 2 (1) La présente loi s’applique aux personnes qui sont comprises dans les unités de négociation suivantes :
+
 1. L’unité de négociation des agents de police qui se compose des membres de la Police provinciale de l’Ontario qui sont cadets, agents recrues, agents stagiaires, agents, sergents, sergents d’état-major et sergents-majors.
+
 2. L’unité de négociation des employés civils qui se compose de fonctionnaires qui sont employés à un quartier général de la Police provinciale de l’Ontario, au Collège de police de l’Ontario ou à l’Académie de la Police provinciale de l’Ontario ou qui travaillent sous la direction du commissaire de la Police provinciale de l’Ontario ou du contrôleur des armes à feu de l’Ontario, et qui satisfont aux conditions suivantes :
+
 i. ils ne sont pas compris dans l’unité de négociation des agents de police visée à la disposition 1,
+
 ii. ils ne sont pas un sous-commissaire de la Police provinciale de l’Ontario, un officier ni un autre employé qui exerce des fonctions de direction ou est employé à un poste de confiance ayant trait aux relations de travail,
+
 iii. ils ne donnent pas de conseils au Conseil des ministres, à un conseil ou comité composé de ministres de la Couronne, à un ministre ou à un sous-ministre sur les lois ayant trait à l’emploi qui touchent directement les conditions d’emploi des employés du secteur public au sens que donne à ce dernier terme le paragraphe 1 (1) de la Loi sur l’équité salariale,
+
 iv. ils ne donnent pas de conseils au Conseil des ministres, à un conseil ou comité composé de ministres de la Couronne, au ministre des Finances, au président du Conseil de gestion du gouvernement, à un sous-ministre du ministère des Finances ou au secrétaire du Conseil de gestion du gouvernement sur toute question qui relève des pouvoirs ou fonctions que confère au Conseil du Trésor la partie 0.1 de la Loi sur l’administration financière,
+
 v. ils n’exercent pas de fonctions ou de responsabilités qui constituent, de l’avis de la Commission des relations de travail de l’Ontario, un conflit d’intérêts lorsqu’ils sont membres de cette unité de négociation.
 
 ### Négociateurs autorisés
 
 (2) Sauf en ce qui a trait aux questions qui relèvent exclusivement des fonctions de l’employeur, l’association constitue l’agent négociateur exclusif qui est autorisé à représenter les employés qui sont compris dans une unité de négociation visée au paragraphe (1) dans ses négociations avec l’employeur au sujet des conditions d’emploi. Ces dernières incluent notamment les taux de rémunération, les heures de travail, les primes d’heures supplémentaires et autres primes de rendement, le tarif au mille payable à un employé pour les déplacements qu’il doit effectuer en utilisant sa propre automobile et dans le cadre des activités de l’employeur, les avantages reliés au temps pendant lequel les employés ne travaillent pas, notamment, les jours fériés payés, les vacances payées, l’assurance-vie de groupe, l’assurance-santé et le régime de protection du revenu à long terme, la procédure à suivre en matière de griefs, les méthodes relatives aux promotions, rétrogradations, mutations, mises à pied ou nouvelles nominations ainsi que les conditions relatives aux congés non reliés aux charges publiques électives, à des activités politiques ou à la formation et au perfectionnement.
+
 (3) Abrogé : 2013, chap. 19, par. 1 (2).
 
 ### Questions relatives à l’unité de négociation
@@ -63,8 +77,11 @@ v. ils n’exercent pas de fonctions ou de responsabilités qui constituent, de 
 ### Composition
 
 (2) Le comité de négociation se compose :
+
 a) de trois membres nommés par l’association et appelés «partie syndicale»;
+
 b) de trois membres nommés par l’employeur et appelés «partie patronale»;
+
 c) d’un président nommé par les membres nommés aux termes des alinéas a) et b), qui n’est pas membre de la partie syndicale ou de la partie patronale et qui n’a pas droit de vote.
 
 ### Président par intérim
@@ -74,28 +91,39 @@ c) d’un président nommé par les membres nommés aux termes des alinéas a) e
 ### Fonctions du président
 
 (4) Le président du comité de négociation :
+
 a) à la demande d’un membre, convoque une réunion du comité de négociation;
+
 b) prépare l’ordre du jour de chaque réunion;
+
 c) préside chaque réunion.
 
 ### Ordre du jour
 
 (5) À la demande d’un membre du comité de négociation, le président inscrit à l’ordre du jour toute question relative, selon le cas :
+
 a) à la modification ou au renouvellement d’une convention ou toute question qui peut faire l’objet de négociations aux termes de la présente partie, pourvu que la demande soit faite au plus tôt 90 jours et au plus tard 60 jours avant la date d’expiration de la convention;
+
 b) à la conclusion d’une première convention;
+
 c) à l’interprétation ou à la clarification d’une clause d’une convention.
 
 ### Idem
 
 (6) Malgré l’alinéa (5) a), le président inscrit à l’ordre du jour une question relative à la modification ou au renouvellement d’une convention ou une question qui peut faire l’objet de négociations aux termes de la présente partie même si la demande a été faite plus tôt que 90 jours ou plus tard que 60 jours avant la date d’expiration de la convention si les conditions suivantes sont réunies :
+
 a) un membre du comité de négociation demande que la question soit inscrite à l’ordre du jour;
+
 b) la partie syndicale et la partie patronale du comité de négociation consentent à ce que la question soit inscrite à l’ordre du jour.
 
 ### Quorum
 
 (7) Le quorum du comité de négociation se compose :
+
 a) du président;
+
 b) de deux membres de la partie syndicale;
+
 c) de deux membres de la partie patronale.
 
 ### Négociation des questions
@@ -105,11 +133,17 @@ c) de deux membres de la partie patronale.
 ### Procédure de règlement des griefs
 
 4 (1) Le comité de négociation peut établir une procédure d’arbitrage exécutoire afin de traiter les griefs qui, selon le cas :
+
 a) concernent les conditions de travail ou d’emploi, sauf, selon le cas :
+
 (i) les griefs auxquels s’applique la Loi de 2019 sur la sécurité communautaire et les services policiers ou le code de conduite figurant dans les règlements pris en application de cette loi,
+
 (ii) les griefs qui se rapportent aux pensions des employés qui sont compris dans une unité de négociation visée au paragraphe 2 (1),
+
 (ii.1) les griefs qui se rapportent aux prestations de retraite complémentaires prescrites à l’alinéa 11 b) des employés visés au sous-alinéa (ii),
+
 (iii) les griefs qui nécessitent la création d’une nouvelle classification pour les employés visés au sous-alinéa (ii), la modification d’une classification existante ou un changement à la classification d’un tel employé;
+
 b) concernent l’interprétation ou la clarification d’une clause d’une convention.
 
 ### Décisions
@@ -123,7 +157,9 @@ b) concernent l’interprétation ou la clarification d’une clause d’une con
 ### Approbation
 
 (4) L’approbation d’une décision du comité de négociation se fait :
+
 a) par décision du conseil d’administration de l’association, pour ce qui est de la partie syndicale;
+
 b) par décision du Conseil de gestion du gouvernement, pour ce qui est de la partie patronale.
 
 ### Mise en oeuvre
@@ -153,9 +189,13 @@ b) par décision du Conseil de gestion du gouvernement, pour ce qui est de la pa
 ### Composition du conseil d’arbitrage
 
 (2) Les règles suivantes s’appliquent à la composition du conseil d’arbitrage :
+
 1. Les parties décident s’il doit se composer d’une seule ou de trois personnes. Si elles n’arrivent pas à s’entendre sur cette question, ou si elles conviennent que le conseil d’arbitrage doit se composer de trois personnes, mais que l’une des parties ne nomme pas une personne conformément à l’accord, le conseil d’arbitrage se compose d’une seule personne.
+
 2. Si le conseil d’arbitrage doit se composer d’une seule personne, les parties la nomment ensemble. Si elles n’arrivent pas à s’entendre sur une nomination commune, la nomination est effectuée par le président de la Commission ontarienne d’arbitrage et de décision pour la police.
+
 3. Si le conseil d’arbitrage doit se composer de trois personnes, les parties en nomment chacune une et nomment ensemble le président. Si elles n’arrivent pas à s’entendre sur une nomination commune, la nomination du président est effectuée par le président de la Commission ontarienne d’arbitrage et de décision pour la police.
+
 4. Si le conseil d’arbitrage se compose d’une seule personne nommée par le président de la Commission ontarienne d’arbitrage et de décision pour la police ou s’il se compose de trois personnes et que son président a été nommé par le président de la Commission, ce dernier choisit la méthode d’arbitrage et en avise le conseil d’arbitrage. La méthode choisie est la médiation-arbitrage à moins que le président de la Commission ne soit d’avis qu’une autre méthode est plus appropriée. La méthode choisie ne doit pas être l’arbitrage des propositions finales sans médiation et ne doit pas être la médiation-arbitrage des propositions finales à moins que le président de la Commission ne choisisse cette dernière à sa seule discrétion parce qu’il est d’avis qu’elle est la méthode la plus appropriée compte tenu de la nature du différend. Si la méthode choisie est la médiation-arbitrage des propositions finales, le président du conseil d’arbitrage est le médiateur ou, si le conseil d’arbitrage se compose d’une seule personne, cette dernière est le médiateur.
 
 ### Début des audiences
@@ -169,8 +209,11 @@ b) par décision du Conseil de gestion du gouvernement, pour ce qui est de la pa
 ### Date de présentation de renseignements
 
 (5) Si la méthode d’arbitrage que choisit le président de la Commission ontarienne d’arbitrage et de décision pour la police est la médiation-arbitrage ou la médiation-arbitrage des propositions finales, le président du conseil d’arbitrage ou, si le conseil d’arbitrage se compose d’une seule personne, cette personne peut, après avoir consulté les parties, fixer une date après laquelle une partie ne peut plus présenter de renseignements au conseil à moins que les conditions suivantes ne soient réunies :
+
 a) les renseignements n’étaient pas disponibles avant cette date;
+
 b) le président ou, si le conseil d’arbitrage se compose d’une seule personne, cette personne autorise la présentation des renseignements;
+
 c) l’autre partie a l’occasion de présenter des observations au sujet des renseignements.
 
 ### Audience
@@ -192,10 +235,15 @@ c) l’autre partie a l’occasion de présenter des observations au sujet des r
 ### Facteurs
 
 (10) Pour rendre une décision sur la question, le conseil d’arbitrage prend en considération les facteurs qu’il estime pertinents, notamment les critères suivants :
+
 1. La capacité de payer de l’employeur compte tenu de sa situation financière.
+
 2. La mesure dans laquelle des services devront peut-être être réduits, compte tenu de la décision du conseil, si les niveaux de financement et d’imposition actuels ne sont pas relevés.
+
 3. La situation économique prévalant en Ontario.
+
 4. La comparaison, établie entre les employés et des employés comparables des secteurs public et privé, des conditions d’emploi et de la nature du travail exécuté.
+
 5. La capacité de l’employeur d’attirer et de garder des employés qualifiés.
 
 ### Restriction
@@ -205,8 +253,11 @@ c) l’autre partie a l’occasion de présenter des observations au sujet des r
 ### Pouvoirs limités du conseil
 
 (12) Pour rendre une décision aux termes du présent article, le conseil d’arbitrage ne doit pas exiger que les parties incluent, dans une convention collective, une condition qui, selon le cas :
+
 a) oblige l’employeur à garantir une offre d’emploi pour les employés dont le poste a été ou peut être éliminé ou qui le force autrement à continuer de les employer;
+
 b) exige la création d’une nouvelle classification d’employés, la modification d’une classification existante ou un changement à la classification d’un employé;
+
 c) exigerait directement ou indirectement, en vue de son application, l’adoption ou la modification d’une loi, sauf à des fins d’affectation de fonds en vue de son application.
 
 ### Pensions
@@ -216,6 +267,7 @@ c) exigerait directement ou indirectement, en vue de son application, l’adopti
 ### Idem
 
 (2) Les questions se rapportant aux prestations de retraite complémentaires des employés qui sont compris dans une unité de négociation visée à l’article 2, lesquelles prestations sont prescrites en vertu de l’article 11, peuvent être renvoyées à l’arbitrage, auquel cas un conseil d’arbitrage décide des questions se rapportant aux prestations de retraite complémentaires de ces employés.
+
 8 Abrogé : 2009, chap. 18, annexe 23, art. 6.
 
 ### Compétence de la Commission des relations de travail de l’Ontario
@@ -229,8 +281,11 @@ c) exigerait directement ou indirectement, en vue de son application, l’adopti
 ### Mise en oeuvre de conventions collectives
 
 10 Le ministre des Services gouvernementaux ou l’autre ministre qui est désigné aux termes de la Loi sur le Conseil exécutif pour l’application du présent article met en oeuvre ce qui suit par arrêté :
+
 a) les conventions collectives conclues et les sentences rendues en conformité avec la procédure de négociation collective qui s’applique aux fonctionnaires employés aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario qui sont représentés par l’association;
+
 b) les décisions approuvées du comité de négociation visées à l’article 4;
+
 c) les décisions d’un conseil d’arbitrage visé à l’article 6.
 
 ### Période d’essai : agents recrues
@@ -256,8 +311,11 @@ c) les décisions d’un conseil d’arbitrage visé à l’article 6.
 ### Règlements
 
 11 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire les règles de procédure relatives aux instances du comité de négociation;
+
 b) prescrire à titre de prestations de retraite complémentaires pour l’application du paragraphe 7 (2) les prestations que peuvent toucher les employés du secteur des services de police et d’incendie dans le cadre du régime complémentaire établi en application de l’article 11 de la Loi de 2006 sur le Régime de retraite des employés municipaux de l’Ontario.
+
 c) préciser le sens de «congé autorisé» pour l’application du paragraphe 10.1 (4).
 
 ### Partie II (art. 12 à 19) Abrogée : 2009, chap. 18, annexe 23, art. 9.
@@ -289,4 +347,5 @@ c) préciser le sens de «congé autorisé» pour l’application du paragraphe 
 ### Assimilation à l’association
 
 (5) La mention d’un syndicat dans les dispositions de la Loi de 1995 sur les relations de travail visées aux paragraphes (1) à (4) est réputée comprendre la mention de l’association aux fins de l’application de ces dispositions aux instances prévues au paragraphe (1).
+
 22 et 23 Abrogés : 2009, chap. 18, annexe 23, art. 13.

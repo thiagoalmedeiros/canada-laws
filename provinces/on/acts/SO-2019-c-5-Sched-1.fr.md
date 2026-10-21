@@ -6,27 +6,36 @@ language: fr
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c05"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # soins interconnectés (Loi de 2019 pour des)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c05) before relying on it.
 
 L.O. 2019, chap. 5, annexe 1
 
 ### Préambule
 
 La population de l’Ontario et son gouvernement :
+
 Estiment que leur système de soins de santé devrait être axé sur les personnes, les patients, leurs familles et leurs fournisseurs de soins;
+
 Estiment que le financement public devrait servir aux services de première ligne afin d’améliorer en permanence l’expérience des patients, de toujours promouvoir un meilleur rendement, de garantir les meilleurs résultats pour chaque dollar dépensé et d’améliorer, de façon globale, la santé physique et mentale des Ontariennes et Ontariens, ainsi que leur bien-être;
+
 Tiennent à un système de soins de santé pérenne, financé par les fonds publics, conçu pour durer et exploitant les outils numériques;
+
 Créent un nouveau modèle de prestation de soins de santé publics intégrés qui mettra chaque patient au centre d’un système de soins interconnectés ancrés dans la collectivité et, si possible, à domicile, partout en Ontario, dans le respect des spécificités régionales;
+
 Permettront aux fournisseurs de travailler directement les uns avec les autres pour offrir des soins coordonnés de qualité optimale, protégeant ainsi les patients contre des transferts aux effets perturbateurs au sein du système;
+
 Créent une agence provinciale unique qui éliminera les doubles emplois tout en transposant et en intensifiant les meilleures orientations cliniques et approches en matière de soins de santé;
+
 Estiment que le système public de soins de santé devrait être guidé par un engagement envers l’équité et la promotion de résultats équitables en matière de santé;
+
 Reconnaissent que le système public de soins de santé devrait tenir compte de la diversité des collectivités de l’Ontario et respecter les exigences de la Loi sur les services en français en ce qui concerne la planification, la conception, la prestation et l’évaluation de services de soins de santé destinés à la collectivité ontarienne de langue française;
+
 Reconnaissent le rôle que jouent les peuples autochtones dans la planification, la conception, la prestation et l’évaluation des services de santé dans leurs collectivités.
 
 ## PARTIE I Interprétation et autres dispositions
@@ -34,57 +43,101 @@ Reconnaissent le rôle que jouent les peuples autochtones dans la planification,
 ### Interprétation
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «Agence» La personne morale prorogée par l’article 3. («Agency»)
+
 «anonymiser» S’entend au sens de l’article 2 de la Loi de 2004 sur la protection des renseignements personnels sur la santé. («de-identify»)
+
 «arrêté de conformité» Arrêté pris en vertu de l’article 43.5. («compliance order»)
+
 «client-fournisseur» Fournisseur de services de santé ou équipe Santé Ontario qui reçoit un financement de l’Agence en vertu de l’article 21 au titre de la prestation de services de soins à domicile et en milieu communautaire à ses patients et auquel ou à laquelle l’Organisme de services fournit des soutiens opérationnels. («client provider»)
+
 «Commission d’appel» La Commission d’appel et de révision des services de santé constituée en vertu de la Loi de 1998 sur les commissions d’appel et de révision du ministère de la Santé et des Soins de longue durée. («Appeal Board»)
+
 «entente de responsabilisation» L’entente de responsabilisation que le ministre et l’Agence sont tenus de conclure en application du paragraphe 19 (1). («accountability agreement»)
+
 «entente de responsabilisation en matière de services» L’entente de responsabilisation en matière de services que l’Agence est tenue de conclure en application de l’article 22. («service accountability agreement»)
+
 «équipe Santé Ontario» ou «équipe» Personne ou entité, ou groupe de personnes ou entités, désignée en application de l’article 29. («Ontario Health Team», «Team»)
+
 «fournisseur de services de santé» S’entend au sens du paragraphe (2). («health service provider»)
+
 «intégrer» S’entend notamment de ce qui suit :
+
 a) coordonner les services et les interactions entre diverses personnes et entités;
+
 b) travailler en partenariat avec une autre personne ou entité pour fournir des services ou exercer des activités;
+
 c) transférer ou fusionner des services, des activités, des personnes ou des entités;
+
 d) commencer à fournir des services ou cesser de le faire;
+
 e) faire cesser les activités d’une personne ou entité, les dissoudre ou les liquider.
+
 Le terme «intégration» a un sens correspondant. («integrate», «integration»)
+
 «ministère» Le ministère du ministre. («Ministry»)
+
 «ministre» Le ministre de la Santé ou l’autre membre du Conseil exécutif chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «Organisme de services» La personne morale prorogée en application de l’article 27.2. («Service Organization»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «renseignements personnels» S’entend au sens de la Loi sur l’accès à l’information et la protection de la vie privée. («personal information»)
+
 «renseignements personnels sur la santé» S’entend au sens de l’article 4 de la Loi de 2004 sur la protection des renseignements personnels sur la santé. («personal health information») 2019, chap. 5, annexe 1, par. 1 (1)
 
 ### Fournisseur de services de santé
 
 (2) La définition qui suit s’applique à la présente loi.
+
 «fournisseur de services de santé» S’entend des personnes et entités suivantes :
+
 0.1 L’Organisme de services.
+
 1. La personne ou entité qui fait fonctionner un hôpital au sens de la Loi sur les hôpitaux publics ou un hôpital privé au sens de la Loi sur les hôpitaux privés.
+
 2. La personne ou entité qui fait fonctionner un établissement psychiatrique au sens de la Loi sur la santé mentale, à l’exclusion des établissements suivants :
+
 i. un établissement correctionnel que fait fonctionner un membre du Conseil exécutif, autre que le ministre,
+
 ii. une prison ou un pénitencier que fait fonctionner le gouvernement du Canada.
+
 3. L’University of Ottawa Heart Institute/Institut de cardiologie de l’Université d’Ottawa.
+
 4. Un titulaire de permis au sens de la Loi de 2021 sur le redressement des soins de longue durée, autre qu’une municipalité ou un conseil de gestion visé à la disposition 5.
+
 5. La municipalité ou le conseil de gestion qui entretient un foyer de soins de longue durée en vertu de la partie IX de la Loi de 2021 sur le redressement des soins de longue durée.
+
 6. L’entité sans but lucratif qui fournit des services de soins à domicile et en milieu communautaire.
+
 7. L’entité sans but lucratif qui fait fonctionner un centre de santé communautaire.
+
 8. L’entité sans but lucratif qui fournit des services communautaires de santé mentale et d’aide aux toxicomanes.
+
 9. L’entité sans but lucratif qui encadre une équipe de santé familiale.
+
 10. L’entité sans but lucratif qui fait fonctionner une clinique dirigée par du personnel infirmier praticien.
+
 11. L’entité sans but lucratif qui fait fonctionner un centre d’accès aux services de santé pour les Autochtones.
+
 12. La personne ou entité qui fournit des services infirmiers de soins de premier recours, des soins maternels ou des programmes et services interprofessionnels de soins de premier recours.
+
 13. L’entité sans but lucratif qui fournit des services de soins palliatifs et fait notamment fonctionner un hospice.
+
 14. La personne ou entité qui fournit des services de physiothérapie dans une clinique qui n’est pas par ailleurs un fournisseur de services de santé.
+
 15. Un centre de services de santé communautaire intégré au sens de la Loi de 2023 sur les centres de services de santé communautaires intégrés.
+
 16. Toute autre personne ou entité prescrite ou toute autre catégorie prescrite de personnes ou entités.
 
 ### Règlements : Organisme de services en tant que fournisseur de services de santé
 
 (3) Les règlements peuvent prévoir que l’Organisme de services est réputé ne pas être un fournisseur de services de santé ou ne pas avoir été financé par l’Agence en vertu de l’article 21 pour l’application de toute disposition de la présente loi ou de ses règlements ou d’autres lois ou règlements.
+
 (4) Abrogé : 2020, chap. 13, annexe 1, par. 1 (8).
 
 ### Délégation
@@ -134,25 +187,45 @@ ii. une prison ou un pénitencier que fait fonctionner le gouvernement du Canada
 ### Mission de l’Agence
 
 6 La mission de l’Agence est la suivante :
+
 a) mettre en oeuvre les stratégies relatives au système de santé qu’élabore le ministère;
+
 b) gérer les besoins en matière de services de santé en Ontario conformément aux stratégies du ministère relatives au système de santé afin d’assurer la qualité et la durabilité du système de santé de l’Ontario grâce à ce qui suit :
+
 (i) la gestion et la coordination opérationnelles du système de santé,
+
 (ii) en ce qui concerne le rendement du système de santé, sa mesure, sa gestion, son évaluation et son suivi, de même que la présentation de rapports à cet égard,
+
 (iii) l’amélioration de la qualité du système de santé,
+
 (iv) l’élaboration de normes cliniques et de qualité pour les soins aux patients et la sécurité des patients,
+
 (v) la diffusion des connaissances,
+
 (vi) la participation des patients et les relations avec eux,
+
 (vii) les services de santé numériques, de technologie de l’information et de gestion des données,
+
 (viii) le soutien du recrutement et du maintien en poste de praticiens de la santé;
+
 b.0.1) assurer la surveillance des activités de l’Organisme de services d’une manière compatible avec les stratégies relatives au système de santé qu’a établies le ministère;
+
 b.1) appuyer, par l’intermédiaire du Centre d’excellence pour la santé mentale et la lutte contre les dépendances, la stratégie en matière de santé mentale et de lutte contre les dépendances prévue par la Loi de 2019 sur le Centre d’excellence pour la santé mentale et la lutte contre les dépendances ;
+
 b.2) appuyer ou assumer les fonctions ou pouvoirs qui peuvent être conférés à l’Agence ou à un employé de l’Agence en vertu de la Loi de 2023 sur les centres de services de santé communautaires intégrés ;
+
 c) planifier, coordonner, entreprendre et appuyer les activités liées aux dons et aux greffes de tissus conformément à la Loi sur le don de vie ;
+
 d) appuyer l’ombudsman des patients dans l’exercice de ses fonctions conformément à la Loi de 2010 sur l’excellence des soins pour tous ;
+
 e) appuyer ou fournir des services de gestion de la chaîne d’approvisionnement aux fournisseurs de services de santé et aux organismes connexes;
+
 f) fournir des conseils, des recommandations et des renseignements au ministre et à d’autres participants du système de soins de santé de l’Ontario à l’égard des questions en matière de soins de santé que le ministre peut préciser;
+
 g) promouvoir l’intégration du service de santé afin de permettre la prestation de services de santé appropriés, coordonnés et efficaces;
+
 h) respecter la diversité des collectivités de même que les exigences de la Loi sur les services en français dans le cadre de la réalisation de sa mission;
+
 i) réaliser toute autre mission prescrite.
 
 ### Pouvoirs généraux
@@ -162,8 +235,11 @@ i) réaliser toute autre mission prescrite.
 ### Éléments d’actif et recettes
 
 (1.1) Malgré la partie I de la Loi sur l’administration financière, ne font pas partie du Trésor les recettes et les éléments d’actif suivants de l’Agence :
+
 1. Le financement que l’Agence reçoit de la Couronne du chef de l’Ontario, sauf tout financement qui fait partie du Trésor d’après ce que précise le ministre dans l’entente de responsabilisation.
+
 2. Les recettes générées ou les sommes ou biens reçus d’une personne ou d’une entité, sauf la Couronne du chef de l’Ontario conformément au pouvoir de l’Agence prévu à la disposition 6 du paragraphe (3).
+
 3. Les autres recettes ou éléments d’actif prescrits.
 
 ### Utilisation des recettes
@@ -173,21 +249,33 @@ i) réaliser toute autre mission prescrite.
 ### Approbation du Conseil des ministres
 
 (3) L’Agence ne doit pas exercer les pouvoirs suivants sans l’approbation du lieutenant-gouverneur en conseil :
+
 1. Transférer ou grever, notamment en les acquérant, en en disposant, en les louant à bail ou en les nantissant, ou encore par hypothèque ou charge, un intérêt sur des biens immeubles, si ce n’est louer à bail les locaux raisonnablement nécessaires à ses fins.
+
 2., 3. Abrogées : 2025, chap. 15, annexe 2, par. 1 (2).
+
 4. Nantir ou grever, notamment par charge, ses biens meubles.
+
 5. Créer des filiales.
+
 6. Générer des recettes ou recevoir autrement des sommes ou des biens de toute personne ou entité, sauf de la Couronne du chef de l’Ontario, à l’exception des sommes ou des biens reçus conformément à un arrêté de transfert pris en vertu de la présente loi.
+
 7. Abrogée : 2023, chap. 19, par. 4 (1).
+
 8. Faire quoi que ce soit d’autre qui est prescrit comme un pouvoir qu’elle ne peut exercer sans une telle approbation.
 
 ### Approbation du ministre
 
 (4) L’Agence ne doit pas exercer les pouvoirs suivants sans l’approbation du ministre :
+
 1. Faire des dons de bienfaisance, sauf selon ce qu’autorise la présente loi.
+
 2. Demander ou obtenir son enregistrement à titre d’organisme de bienfaisance sous le régime de la Loi de l’impôt sur le revenu (Canada).
+
 3. Exercer des activités de financement ou agir en association avec toute personne ou entité qui exerce des activités de financement ou dirige des programmes de financement, directement ou indirectement, pour elle ou pour l’Organisme de services.
+
 4. Conclure des ententes avec toute personne ou entité ou avec tout gouvernement en vue de la prestation de services à l’extérieur de l’Ontario.
+
 5. Conclure des ententes avec tout gouvernement ou organisme gouvernemental de l’extérieur de l’Ontario, y compris avec le gouvernement du Canada ou celui d’une province ou d’un territoire du Canada.
 
 ### Contributions politiques interdites
@@ -215,14 +303,19 @@ i) réaliser toute autre mission prescrite.
 ### Mandat
 
 (2) Sous réserve du paragraphe (3), les dispositions suivantes s’appliquent à l’égard du mandat des membres du conseil d’administration de l’Agence :
+
 1. Chaque membre occupe son poste pour un mandat d’au plus trois ans, dont la durée est laissée à la discrétion du lieutenant-gouverneur en conseil. Son mandat est renouvelable, une ou plusieurs fois, pour des périodes d’au plus trois ans chacune.
+
 2. Malgré la disposition 1, nul ne peut être membre pendant plus de six ans en tout.
+
 3. Malgré la disposition 2, le membre désigné comme président en application du paragraphe (6) après avoir siégé à titre de membre pendant au moins trois ans peut être nommé pour un autre mandat d’au plus trois ans pendant sa désignation comme président.
 
 ### Fin du mandat
 
 (3) Un membre cesse d’être membre de l’Agence si, avant la fin de son mandat :
+
 a) soit le lieutenant-gouverneur en conseil révoque sa nomination;
+
 b) soit il décède, démissionne ou devient un failli.
 
 ### Mandat du successeur
@@ -302,7 +395,9 @@ b) soit il décède, démissionne ou devient un failli.
 ### Restrictions
 
 (3) Le conseil ne doit pas déléguer les pouvoirs ou fonctions suivants :
+
 a) le pouvoir, prévu à l’article 26, de nommer des enquêteurs;
+
 b) les autres pouvoirs ou fonctions prescrits.
 
 ### Règlements administratifs et résolutions
@@ -316,8 +411,11 @@ b) les autres pouvoirs ou fonctions prescrits.
 ### Comités
 
 (3) Le conseil d’administration de l’Agence fait ce qui suit :
+
 a) il crée, par règlement administratif, les comités du conseil que précise le ministre par règlement;
+
 b) il nomme membres de ces comités les personnes qui ont les qualités requises, le cas échéant, que précise le ministre dans le règlement;
+
 c) il fait en sorte que ces comités fonctionnent conformément aux autres exigences, le cas échéant, que précise le ministre dans le règlement.
 
 ### Approbation du ministre
@@ -327,8 +425,11 @@ c) il fait en sorte que ces comités fonctionnent conformément aux autres exige
 ### Idem : après l’adoption du règlement
 
 (5) Le ministre peut exiger que le conseil d’administration lui présente, pour approbation, tout règlement administratif, auquel cas les règles suivantes s’appliquent :
+
 a) le règlement administratif en question n’a plus d’effet à compter du moment où le ministre impose cette exigence, et ce tant que le ministre ne l’a pas approuvé;
+
 b) tout acte qu’a accompli le conseil conformément au règlement administratif en question avant que le ministre impose cette exigence est valide;
+
 c) le conseil peut accomplir tout acte dont il avait convenu avant que le ministre impose cette exigence.
 
 ### Responsabilité, indemnisation et jugements
@@ -358,7 +459,9 @@ c) le conseil peut accomplir tout acte dont il avait convenu avant que le minist
 ### Autres vérifications
 
 (2) Outre l’obligation de vérification annuelle :
+
 a) le ministre peut, en tout temps, examiner ou vérifier tout aspect des activités de l’Agence;
+
 b) le vérificateur général peut, en tout temps, vérifier tout aspect des activités de l’Agence.
 
 ## PARTIE III FINANCEMENT ET RESPONSABILISATION
@@ -378,12 +481,19 @@ b) le vérificateur général peut, en tout temps, vérifier tout aspect des act
 ### Entente de responsabilisation
 
 (2) L’entente de responsabilisation couvre plus d’un exercice et comprend les éléments suivants :
+
 a) des buts et objectifs de rendement pour l’Agence;
+
 b) des normes, objectifs et mesures en matière de rendement pour l’Agence;
+
 c) l’obligation pour l’Agence de rendre compte de son rendement;
+
 d) un plan d’affectation du financement que reçoit l’Agence en vertu de l’article 18 — l’affectation des fonds doit être conforme à l’affectation des crédits sur laquelle le ministre a prélevé le financement qu’il a accordé à l’Agence;
+
 e) un processus progressif de gestion du rendement pour l’Agence;
+
 f) sous réserve des règlements, une précision du ministre à l’égard d’un financement que l’Agence reçoit de la Couronne du chef de l’Ontario et qui doit faire partie du Trésor;
+
 g) toutes les autres questions prescrites, le cas échéant.
 
 ### Absence d’entente
@@ -401,7 +511,9 @@ g) toutes les autres questions prescrites, le cas échéant.
 ### Directives du ministre
 
 20 (1) S’il estime que l’intérêt public le justifie, le ministre peut donner des directives à l’une ou l’autre ou à l’ensemble des entités et personnes suivantes :
+
 1. L’Agence.
+
 2. Une personne ou entité qui reçoit un financement de l’Agence en application de l’article 21.
 
 ### Restriction
@@ -447,15 +559,21 @@ g) toutes les autres questions prescrites, le cas échéant.
 ### Cession des ententes
 
 (4) Le ministre peut céder à l’Agence ou à une autre personne ou entité les droits et obligations que lui attribue tout ou partie d’une entente qu’il a conclue avec l’une quelconque des personnes et entités visées à la disposition 1, 2 ou 3, y compris une entente à laquelle est partie une personne ou entité qui n’est pas visée à ces dispositions :
+
 1. Un fournisseur de services de santé.
+
 2. Une équipe Santé Ontario.
+
 3. Une personne ou entité qui appuie la prestation de soins de santé.
 
 ### Date d’expiration
 
 (5) Dans le cadre de la cession visée au paragraphe (4), le ministre peut prévoir que l’entente, ou la partie de l’entente cédée, prend fin à la première des dates suivantes :
+
 a) la date indiquée dans l’entente;
+
 b) la date à laquelle l’Agence et le fournisseur de services de santé, l’équipe Santé Ontario ou la personne ou entité qui appuie la prestation de soins de santé concluent une entente de responsabilisation en matière de services;
+
 c) la date à laquelle, selon ce que précise le ministre, l’Agence et le fournisseur de services de santé, l’équipe Santé Ontario ou la personne ou entité qui appuie la prestation de soins de santé doivent conclure une entente de responsabilisation en matière de services.
 
 ### Entente de responsabilisation en matière de services
@@ -497,14 +615,19 @@ c) la date à laquelle, selon ce que précise le ministre, l’Agence et le four
 ### Définition
 
 (10) La définition qui suit s’applique au présent article.
+
 «organisme de prestation» Un fournisseur de services de santé, une équipe Santé Ontario ou l’autre personne ou entité que l’Agence peut financer en vertu de l’article 21.
 
 ### Aucune restriction à l’égard de la mobilité des patients
 
 23 (1) Aucune des personnes ou entités suivantes ne doit conclure une entente ou un autre arrangement qui empêche un particulier de recevoir des services en fonction de sa zone géographique de résidence en Ontario ou qui impose des restrictions à cet égard :
+
 1. L’Agence.
+
 2. Un fournisseur de services de santé.
+
 3. Une équipe Santé Ontario.
+
 4. Une autre personne ou entité qui reçoit un financement en application de l’article 21.
 
 ### Restrictions géographiques : services de soins à domicile et en milieu communautaire
@@ -526,7 +649,9 @@ c) la date à laquelle, selon ce que précise le ministre, l’Agence et le four
 ### Vérifications et examens
 
 24 L’Agence peut en tout temps enjoindre à une personne ou entité qui reçoit un financement d’elle en application de l’article 21 de faire ce qui suit :
+
 a) engager un ou plusieurs vérificateurs titulaires d’un permis délivré en vertu de la Loi de 2004 sur l’expertise comptable pour qu’ils vérifient ses comptes et opérations financières ou les autoriser à ce faire;
+
 b) procéder à un examen opérationnel ou à un examen par des pairs de ses activités, ou autoriser un tel examen.
 
 ### Renseignements et rapports
@@ -544,8 +669,11 @@ b) procéder à un examen opérationnel ou à un examen par des pairs de ses act
 ### Enquêteurs
 
 26 (1) L’Agence peut, si elle estime que l’intérêt public le justifie, nommer un ou plusieurs enquêteurs pour enquêter et faire rapport sur l’une ou l’autre des questions suivantes :
+
 a) la qualité de la gestion d’un fournisseur de services de santé ou d’une équipe Santé Ontario;
+
 b) la qualité des soins et traitements qu’un fournisseur de services de santé ou une équipe Santé Ontario fournit aux personnes;
+
 c) toute autre question relative à un fournisseur de services de santé ou à une équipe Santé Ontario.
 
 ### Champ d’application
@@ -567,8 +695,11 @@ c) toute autre question relative à un fournisseur de services de santé ou à u
 ### Pouvoirs
 
 (6) L’enquêteur peut, sans mandat et à toute heure raisonnable :
+
 a) pénétrer dans les locaux d’un fournisseur de services de santé ou d’ une équipe Santé Ontario pouvant faire l’objet d’une enquête en vertu du présent article;
+
 b) sous réserve des paragraphes (7) et (7.1), pénétrer dans tout local où un fournisseur de services de santé ou une équipe Santé Ontario pouvant faire l’objet d’une enquête en vertu du présent article fournit des services;
+
 c) inspecter les locaux et examiner les services qui y sont fournis et les documents qui, selon ce qu’il établit, se rapportent à l’enquête.
 
 ### Logements
@@ -578,8 +709,11 @@ c) inspecter les locaux et examiner les services qui y sont fournis et les docum
 ### Exception
 
 (7.1) Le paragraphe (7) ne s’applique pas si, à la fois :
+
 a) il est impossible, après des efforts raisonnables, d’obtenir le consentement de l’occupant du logement;
+
 b) le fournisseur de services de santé ou l’équipe Santé Ontario est propriétaire du logement ou en assure le fonctionnement et reçoit un financement accordé en vertu de l’article 21 afin de fournir des services prescrits de soins à domicile et en milieu communautaire qui comprennent un hébergement sur place;
+
 c) un avis écrit a été remis à chaque occupant du logement au moins 24 heures avant l’entrée de l’enquêteur.
 
 ### Identification
@@ -589,17 +723,25 @@ c) un avis écrit a été remis à chaque occupant du logement au moins 24 heure
 ### Pouvoirs de l’enquêteur au cours de l’enquête
 
 (9) L’enquêteur qui effectue une enquête peut :
+
 a) exiger la production de dossiers ou d’autres choses qui, selon ce qu’il établit, se rapportent à l’enquête, notamment des livres de comptes, documents, comptes bancaires, pièces justificatives, la correspondance et des documents relatifs à la paie, aux heures de travail effectuées par le personnel et aux renseignements personnels sur la santé;
+
 b) examiner et tirer des copies des dossiers ou choses exigés en vertu de l’alinéa a);
+
 c) après avoir donné un récépissé à cet effet et produit son attestation de nomination, enlever les dossiers ou autres choses qui, selon ce qu’il établit, se rapportent à l’enquête afin de les examiner ou d’en tirer des copies, à condition de faire l’examen ou de tirer les copies avec une diligence raisonnable et de retourner promptement les dossiers ou choses;
+
 d) afin de produire un dossier sous une forme lisible, recourir aux dispositifs ou systèmes de stockage, de traitement ou de récupération des données qui sont utilisés habituellement pour exercer les activités dans l’endroit;
+
 e) interroger des personnes sur des questions qui, selon ce qu’il établit, se rapportent à l’enquête.
 
 ### Obligation de produire des dossiers et de fournir une aide
 
 (10) Si un enquêteur exige la production de dossiers ou d’autres choses qui, selon ce qu’il établit, se rapportent à l’enquête visée au présent article, l’une ou l’autre des personnes ou entités suivantes qui a la garde de ces dossiers ou choses les produit et, dans le cas de dossiers, fournit, sur demande, l’aide qui est raisonnablement nécessaire pour les interpréter ou les produire sous une forme lisible :
+
 1. Le fournisseur de services de santé ou l’équipe Santé Ontario pouvant faire l’objet d’une enquête visée au présent article.
+
 2. Toute personne employée par le fournisseur ou l’équipe.
+
 3. Toute personne fournissant des services pour le fournisseur ou l’équipe.
 
 ### Obligation de se soumettre à l’interrogatoire
@@ -609,8 +751,11 @@ e) interroger des personnes sur des questions qui, selon ce qu’il établit, se
 ### Idem
 
 (12) S’il accède à des renseignements personnels sur la santé par application du paragraphe (9), l’enquêteur :
+
 a) ne doit pas les recueillir, les utiliser ou les divulguer si d’autres renseignements permettent d’atteindre l’objet de l’enquête;
+
 b) ne doit pas recueillir, utiliser ou divulguer plus de renseignements personnels sur la santé qu’il n’est raisonnablement nécessaire pour atteindre l’objet de l’enquête;
+
 c) doit se conformer aux éventuelles conditions ou exigences prescrites.
 
 ### Confidentialité
@@ -700,7 +845,9 @@ c) doit se conformer aux éventuelles conditions ou exigences prescrites.
 ### Employeurs liés
 
 (7.3) Si un superviseur est nommé en vertu du présent article :
+
 a) nul n’a le droit de présenter une requête en vertu du paragraphe 1 (4) de la Loi de 1995 sur les relations de travail ;
+
 b) le superviseur et le fournisseur de services de santé ou l’équipe Santé Ontario qui reçoit un financement accordé en vertu de l’article 21 afin de fournir des services prescrits de soins à domicile et en milieu communautaire qui comprennent un hébergement ne doivent pas être considérés comme un seul employeur en application de l’article 4 de la Loi de 2000 sur les normes d’emploi.
 
 ### Mandat
@@ -726,14 +873,19 @@ b) le superviseur et le fournisseur de services de santé ou l’équipe Santé 
 ### Restriction
 
 (13) Le superviseur :
+
 a) ne doit pas recueillir, utiliser ou divulguer des renseignements personnels sur la santé si d’autres renseignements lui permettent d’atteindre l’objet de sa mission;
+
 b) ne doit pas recueillir, utiliser ou divulguer plus de renseignements personnels sur la santé qu’il n’est raisonnablement nécessaire pour atteindre l’objet de sa mission;
+
 c) doit se conformer aux conditions ou exigences éventuellement prescrites relativement à la collecte, à l’utilisation ou à la divulgation de renseignements personnels sur la santé.
 
 ### Pouvoirs : Organisme de services
 
 (13.1) Si le ministre nomme une personne au poste de superviseur de l’Organisme de services en vertu du présent article :
+
 a) le pouvoir de l’Agence en matière d’exigence de présentation, pour approbation, de projets de règlement administratif ne s’applique pas aux règlements administratifs qu’adopte le superviseur;
+
 b) le superviseur n’est pas tenu de se conformer aux directives que l’Agence donne à l’Organisme de services.
 
 ### Directives du ministre
@@ -759,20 +911,35 @@ b) le superviseur n’est pas tenu de se conformer aux directives que l’Agence
 ### Définition
 
 27.1 La définition qui suit s’applique à la présente partie.
+
 «personnes morales remplacées» Les personnes morales suivantes :
+
 1. Réseau local d’intégration des services de santé du Centre-Est.
+
 2. Réseau local d’intégration des services de santé du Centre.
+
 3. Réseau local d’intégration des services de santé du Centre-Ouest.
+
 4. Réseau local d’intégration des services de santé de Champlain.
+
 5. Réseau local d’intégration des services de santé d’Érié St-Clair.
+
 6. Réseau local d’intégration des services de santé de Hamilton Niagara Haldimand Brant.
+
 7. Réseau local d’intégration des services de santé de Mississauga Halton.
+
 8. Réseau local d’intégration des services de santé du Nord-Est.
+
 9. Réseau local d’intégration des services de santé de Simcoe Nord Muskoka.
+
 10. Réseau local d’intégration des services de santé du Nord-Ouest.
+
 11. Réseau local d’intégration des services de santé du Sud-Est.
+
 12. Réseau local d’intégration des services de santé du Sud-Ouest.
+
 13. Réseau local d’intégration des services de santé du Centre-Toronto.
+
 14. Réseau local d’intégration des services de santé de Waterloo Wellington.
 
 ### Fusion et champ d’application
@@ -784,26 +951,47 @@ b) le superviseur n’est pas tenu de se conformer aux directives que l’Agence
 ### Règles
 
 (2) Les règles suivantes s’appliquent à la fusion :
+
 1. L’ensemble des droits, obligations, éléments d’actif et éléments de passif des personnes morales remplacées qui existaient immédiatement avant la fusion est dévolu à l’Organisme de services, lequel se substitue, à toutes fins, aux personnes morales remplacées.
+
 2. Les personnes morales remplacées cessent d’exister au moment de leur fusion pour constituer l’Organisme de services.
+
 3. Toute décision judiciaire ou quasi judiciaire rendue en faveur d’une des personnes morales remplacées ou contre elle peut être exécutée par l’Organisme de services ou à son encontre.
+
 4. L’Organisme de services est réputé partie demanderesse ou partie défenderesse, selon le cas, dans toute action civile introduite par des personnes morales remplacées ou à leur encontre avant la fusion.
+
 5. Les personnes qui sont des employés d’une personne morale remplacée immédiatement avant la fusion deviennent des employées de l’Organisme de services à la date de la fusion et, à toutes fins, l’emploi des employés immédiatement avant et après la fusion est continu.
+
 6. À toutes fins, notamment aux fins d’un contrat de travail ou d’une convention collective et pour l’application de la Loi de 2000 sur les normes d’emploi, l’emploi des employés visés à la disposition 5 ne prend pas fin. Les employés ne sont pas licenciés et ne font pas non plus l’objet d’un congédiement implicite en raison de la fusion.
+
 7. Les droits et obligations rattachés à tous les employés, actuels et anciens, d’une personne morale remplacée qui sont dévolus à cette dernière, ou qui la lient, immédiatement avant la fusion, sont dévolus à l’Organisme de services, ou le lient, à compter du jour de la fusion.
+
 8. Une entente à laquelle était partie une personne morale remplacée immédiatement avant la fusion a effet après la fusion comme si :
+
 i. l’Organisme de services remplaçait la personne morale remplacée comme partie à l’entente,
+
 ii. toute mention de la personne morale remplacée dans l’entente valait mention de l’Organisme de services.
+
 9. La fusion ne doit pas constituer un changement de contrôle d’une personne morale remplacée en ce qui concerne tout élément d’actif, élément de passif ou droit, ou toute obligation de cette personne morale.
+
 10. Malgré toute autre loi qui exige la remise d’un avis en cas de fusion ou un enregistrement à l’égard de la fusion, la fusion lie l’Organisme de services et toutes les autres personnes.
+
 11. La fusion est réputée ne pas :
+
 i. constituer une violation, une résiliation, une répudiation ou une impossibilité d’exécution d’une entente, y compris un contrat de travail ou d’assurance ou une convention collective,
+
 ii. créer une cause d’action en faveur d’une partie à une entente avec une personne morale remplacée qui a été conclue avant la fusion,
+
 iii. constituer une violation d’une loi ou d’un règlement, notamment municipal,
+
 iv. constituer un cas de défaut ou une force majeure,
+
 v. donner lieu à une violation, à une résiliation, à une répudiation ou à une impossibilité d’exécution d’un permis, d’une autorisation ou d’un autre droit,
+
 vi. donner le droit de résilier une entente ou de révoquer un droit, notamment un permis ou une autorisation, ni le droit de les répudier,
+
 vii. donner lieu à une préclusion.
+
 12. La Loi sur les droits de cession immobilière et la Loi sur la taxe de vente au détail ne s’appliquent pas à la fusion.
 
 ### Règlements
@@ -845,17 +1033,29 @@ vii. donner lieu à une préclusion.
 ### Mission
 
 27.6 La mission de l’Organisme de services est la suivante :
+
 1. Fournir des services de soins à domicile et en milieu communautaire à ses patients.
+
 2. Fournir les soutiens opérationnels suivants aux clients-fournisseurs pour leur permettre de fournir des services de soins à domicile et en milieu communautaire à leurs patients :
+
 i. Des services de coordination des soins.
+
 ii. L’affectation de ses employés à l’exécution de travaux sous la direction d’un client-fournisseur afin de fournir des services de coordination des soins.
+
 iii. L’un ou l’autre des services partagés suivants :
+
 A. Des services de soutien administratif ou opérationnel qui facilitent la gestion des contrats de service avec des fournisseurs de services de soins à domicile et en milieu communautaire.
+
 B. Des services de facilitation et de soutien en ce qui concerne les plateformes technologiques en matière de soins aux patients.
+
 C. Les autres services partagés prescrits.
+
 iv. Les autres soutiens opérationnels prescrits.
+
 3. Fournir des renseignements au public sur les services de santé et les services sociaux, et procéder à des renvois vers ces services.
+
 4. Fournir des services de gestion des placements à ses patients ou aux patients d’autres fournisseurs de services de santé ou d’équipes Santé Ontario.
+
 5. Réaliser toute autre mission prescrite.
 
 ### Règles : affectation d’employés à la prestation de services de coordination des soins
@@ -877,22 +1077,35 @@ iv. Les autres soutiens opérationnels prescrits.
 ### Approbation du Conseil des ministres
 
 (3) L’Organisme de services ne doit pas exercer les pouvoirs suivants sans l’approbation du lieutenant-gouverneur en conseil :
+
 1. Transférer ou grever, notamment en les acquérant, en en disposant, en les louant à bail ou en les nantissant, ou encore par hypothèque ou charge, un intérêt sur des biens immeubles, si ce n’est louer à bail les locaux raisonnablement nécessaires à ses fins.
+
 2., 3. Abrogées : 2025, chap. 15, annexe 2, par. 3 (2).
+
 4. Nantir ou grever, notamment par charge, ses biens meubles.
+
 5. Créer une filiale.
+
 6. Faire quoi que ce soit d’autre qui est prescrit comme étant un pouvoir qu’il ne peut exercer sans une telle approbation.
 
 ### Approbation du ministre
 
 (4) L’Organisme de services ne doit pas exercer les pouvoirs suivants sans l’approbation du ministre :
+
 1. Faire des dons de bienfaisance.
+
 2. Demander ou obtenir son enregistrement à titre d’organisme de bienfaisance sous le régime de la Loi de l’impôt sur le revenu (Canada).
+
 3. Exercer des activités de financement ou agir en association avec toute personne ou entité qui exerce des activités de financement ou dirige des programmes de financement, directement ou indirectement, pour lui ou pour l’Agence.
+
 4. Conclure des ententes avec toute personne ou entité ou avec tout gouvernement en vue de la prestation de services à l’extérieur de l’Ontario.
+
 5. Conclure des ententes avec tout gouvernement ou organisme gouvernemental de l’extérieur de l’Ontario, y compris le gouvernement du Canada ou celui d’une province ou d’un territoire du Canada.
+
 6. Générer des recettes ou recevoir autrement des sommes ou des biens de toute personne ou entité, sauf de la Couronne du chef de l’Ontario ou l’Agence, à l’exception de ce qui suit :
+
 i. les sommes ou les biens reçus conformément à un arrêté de transfert pris en vertu de la présente loi,
+
 ii. les sommes que verse un client-fournisseur à l’Organisme de services ou les biens qu’il donne à ce dernier en contrepartie des soutiens opérationnels que lui fournit l’Organisme de services aux termes d’un contrat de service.
 
 ### Contributions politiques interdites
@@ -916,7 +1129,9 @@ ii. les sommes que verse un client-fournisseur à l’Organisme de services ou l
 ### Nomination
 
 (2) Le conseil se compose :
+
 a) d’au plus six membres que nomme le ministre.
+
 b) d’au plus trois membres que nomme le ministre sur recommandation de l’Agence.
 
 ### Admissibilité au conseil d’administration
@@ -1004,8 +1219,11 @@ b) d’au plus trois membres que nomme le ministre sur recommandation de l’Age
 ### Comités
 
 (3) Le conseil d’administration de l’Organisme de services prend les mesures suivantes :
+
 a) il crée, par règlement administratif, les comités du conseil que précise l’Agence;
+
 b) il nomme à titre de membres de ces comités les personnes qui ont les qualités requises, le cas échéant, que précise l’Agence;
+
 c) il fait en sorte que ces comités fonctionnent conformément aux autres exigences, le cas échéant, que précise l’Agence.
 
 ### Approbation de l’Agence
@@ -1015,8 +1233,11 @@ c) il fait en sorte que ces comités fonctionnent conformément aux autres exige
 ### Idem : après l’adoption du règlement
 
 (5) L’Agence peut exiger que le conseil d’administration de l’Organisme de services lui présente, pour approbation, tout règlement administratif, auquel cas les règles suivantes s’appliquent :
+
 a) le règlement administratif en question n’a plus d’effet à compter du moment où l’Agence impose cette exigence, et ce tant qu’elle ne l’a pas approuvé;
+
 b) tout acte qu’a accompli le conseil conformément au règlement administratif en question avant que l’Agence impose cette exigence est valide;
+
 c) le conseil peut accomplir tout acte dont il avait convenu d’accomplir avant que l’Agence impose cette exigence.
 
 ### Directives de l’Agence
@@ -1108,8 +1329,11 @@ c) le conseil peut accomplir tout acte dont il avait convenu d’accomplir avant
 ### Irrecevabilité de certaines instances
 
 27.19 (1) Sont irrecevables les instances qui sont introduites :
+
 a) contre toute personne mentionnée au paragraphe 27.18 (1) à l’égard d’une question visée à ce paragraphe;
+
 b) contre toute personne mentionnée au paragraphe 27.18 (2) à l’égard d’une question visée à ce paragraphe;
+
 c) contre toute personne mentionnée au paragraphe 27.18 (5) à l’égard d’une question visée à ce paragraphe.
 
 ### Idem
@@ -1141,7 +1365,9 @@ c) contre toute personne mentionnée au paragraphe 27.18 (5) à l’égard d’u
 ### Autres vérifications
 
 (2) Outre l’obligation de vérification annuelle :
+
 a) le ministre peut, en tout temps, examiner ou vérifier tout aspect des activités de l’Organisme de services;
+
 b) le vérificateur général peut, en tout temps, vérifier tout aspect des activités de l’Organisme de services.
 
 ## partie Iv intégration
@@ -1151,10 +1377,15 @@ b) le vérificateur général peut, en tout temps, vérifier tout aspect des act
 ### Définitions
 
 28 Les définitions qui suivent s’appliquent à la présente partie.
+
 «décision de facilitation» S’entend de la décision que prend l’Agence en application de l’article 32. («facilitation decision»)
+
 «décision d’intégration» S’entend :
+
 a) d’une décision de facilitation;
+
 b) de l’arrêté d’intégration que prend le ministre en vertu de l’article 33;
+
 c) de la décision que prend le ministre en vertu du paragraphe 35 (8) pour ordonner à un fournisseur de services de santé ou à une équipe Santé Ontario de ne pas mettre en oeuvre l’intégration prévue dans la décision. («integration decision») 2019, chap. 5, annexe 1, par. 28 (1)
 
 ### équipes Santé Ontario
@@ -1162,12 +1393,19 @@ c) de la décision que prend le ministre en vertu du paragraphe 35 (8) pour ordo
 ### Équipe Santé Ontario
 
 29 (1) Sous réserve des conditions qu’il fixe, le ministre peut désigner, à titre d’équipe Santé Ontario, une personne ou entité, ou un groupe de personnes ou d’entités, qui est en mesure de fournir, d’une manière intégrée et coordonnée, au moins trois des types suivants de services ou le nombre de types de services plus élevé prescrit :
+
 1. Services hospitaliers.
+
 2. Services de soins de premier recours.
+
 3. Services de santé mentale ou d’aide aux toxicomanes.
+
 4. Services de soins à domicile et en milieu communautaire.
+
 5. Services de foyers de soins de longue durée.
+
 6. Services de soins palliatifs.
+
 7. Tout autre service de soins de santé prescrit ou tout autre service non sanitaire prescrit qui appuie la prestation de services de soins de santé.
 
 ### Restriction
@@ -1195,51 +1433,81 @@ c) de la décision que prend le ministre en vertu du paragraphe 35 (8) pour ordo
 ### Intégration par l’Agence
 
 31 L’Agence peut intégrer le système de santé :
+
 a) soit en accordant un financement à un fournisseur de services de santé ou à une équipe Santé Ontario en vertu de l’article 21 ou en modifiant un tel financement;
+
 b) soit en facilitant et en négociant, selon le cas :
+
 (i) l’intégration de personnes ou entités, si au moins une de ces personnes ou entités est un fournisseur de services de santé ou une équipe Santé Ontario,
+
 (ii) l’intégration de services entre soit des fournisseurs de services de santé ou des équipes Santé Ontario, soit un tel fournisseur ou une telle équipe et une personne ou entité qui n’est ni un fournisseur de services de santé, ni une équipe Santé Ontario, mais qui appuie la prestation de soins de santé.
 
 ### Décision de facilitation
 
 32 L’Agence prend une décision de facilitation quand les conditions suivantes sont réunies :
+
 a) elle facilite ou négocie :
+
 (i) l’intégration de personnes ou entités, si au moins une de ces personnes ou entités est un fournisseur de services de santé ou un système int une équipe Santé Ontario égré de prestation de soins,
+
 (ii) l’intégration de services entre soit des fournisseurs de services de santé ou des équipes Santé Ontario, soit un tel fournisseur ou une telle équipe et une personne ou entité qui n’est ni un fournisseur de services de santé ni une équipe Santé Ontario, mais qui appuie la prestation de soins de santé;
+
 b) les parties parviennent à une entente à l’égard de l’intégration.
 
 ### Intégration obligatoire
 
 33 (1) S’il estime que l’intérêt public le justifie et sous réserve des autres dispositions du présent article, le ministre peut, par arrêté, ordonner à un ou plusieurs fournisseurs de services de santé ou équipes Santé Ontario qui reçoivent un financement de l’Agence de prendre des mesures pour intégrer le système de santé à la date précisée dans l’arrêté ou par la suite, notamment tout ou partie des mesures suivantes :
+
 1. Fournir ou cesser de fournir tout ou partie d’un service.
+
 2. Fournir un service à un certain niveau, selon un certain volume ou dans une certaine mesure.
+
 3. Transférer tout ou partie d’un service d’un endroit à un autre.
+
 4. Transférer tout ou partie d’un service à une autre personne ou entité ou recevoir tout ou partie d’un service d’une autre personne ou entité.
+
 5. Cesser leurs activités, les dissoudre ou les liquider.
+
 6. Fusionner avec une ou plusieurs personnes ou entités qui reçoivent un financement de l’Agence en application de l’article 21.
+
 7. Coordonner des services avec une autre personne ou entité qui reçoit un financement de l’Agence en application de l’article 21 ou établir un partenariat avec elle.
+
 8. Transférer la totalité ou la quasi-totalité de leurs activités à une ou plusieurs personnes ou entités.
+
 9. Mettre en oeuvre un autre genre d’intégration de services qui est prescrit.
+
 10. Accomplir ou s’abstenir d’accomplir un acte nécessaire pour qu’ils puissent prendre les mesures visées à l’une ou l’autre des dispositions 1 à 9, notamment transférer des biens à une autre personne ou entité ou en recevoir d’une autre personne ou entité à l’égard des services ou activités visés par la décision.
 
 ### Restrictions
 
 (2) Malgré le paragraphe (1), le ministre ne doit pas faire ce qui suit :
+
 a) prendre, en vertu du paragraphe (1), un arrêté qui, de façon injustifiée selon l’article 1 de la Charte canadienne des droits et libertés, exige qu’un organisme religieux fournisse un service qui va à l’encontre de la religion à laquelle il se rattache;
+
 b) prendre, en vertu du paragraphe (1), un arrêté qui exige le transfert de biens détenus à des fins de bienfaisance à une personne ou entité qui n’est pas un organisme de bienfaisance;
+
 c) prendre, en vertu du paragraphe (1), un arrêté qui exige qu’une personne ou entité qui n’est pas un organisme de bienfaisance reçoive des biens d’une personne ou entité qui en est un et les détienne à des fins de bienfaisance;
+
 d) prendre, en vertu de la disposition 5, 6 ou 8 du paragraphe (1), un arrêté visant soit le conseil de gestion mentionné à la disposition 5 de la définition de «fournisseur de services de santé» au paragraphe 1 (2), soit une municipalité;
+
 e) prendre, en vertu de la disposition 5, 6 ou 8 du paragraphe (1), un arrêté visant un fournisseur de services de santé mentionné à la disposition 4 de la définition de «fournisseur de services de santé» au paragraphe 1 (2), si ce fournisseur n’est pas également visé à une autre disposition de cette définition;
+
 f) prendre, en vertu de la disposition 5 du paragraphe (1), un arrêté relatif au fonctionnement d’un foyer de soins de longue durée et visant un fournisseur de services de santé mentionné à la disposition 4 de la définition de «fournisseur de services de santé» au paragraphe 1 (2), si ce fournisseur est également visé à une autre disposition de cette définition;
+
 g) prendre, en vertu de la disposition 6 du paragraphe (1), un arrêté visant un fournisseur de services de santé ou une équipe Santé Ontario qui exerce ses activités sans but lucratif pour qu’il ou elle fusionne avec un ou plusieurs fournisseurs de services de santé ou équipes Santé Ontario qui exercent leurs activités dans un but lucratif;
+
 h) prendre, en vertu de la disposition 8 du paragraphe (1), un arrêté visant un fournisseur de services de santé ou une équipe Santé Ontario qui exerce ses activités sans but lucratif pour qu’il ou elle transfère la totalité ou la quasi-totalité de ses activités à une ou plusieurs personnes ou entités qui exercent leurs activités dans un but lucratif;
+
 i) prendre, en vertu du paragraphe (1), un arrêté qui exige qu’un fournisseur de services de santé ou une équipe Santé Ontario prenne toute autre mesure prescrite.
 
 ### Avis de projet d’arrêté
 
 (3) Au moins 30 jours avant de prendre l’arrêté visé au paragraphe (1), le ministre prend les mesures suivantes :
+
 a) il avise le fournisseur de services de santé ou l’équipe Santé Ontario de son intention de prendre l’arrêté;
+
 b) il fournit une copie du projet d’arrêté au fournisseur ou à l’équipe;
+
 c) il publie le projet d’arrêté sur un site Web.
 
 ### Observations
@@ -1263,11 +1531,17 @@ c) il publie le projet d’arrêté sur un site Web.
 ### Forme de la décision
 
 (2) La décision d’intégration énonce ce qui suit :
+
 a) le but et la nature de l’intégration ou du projet d’intégration;
+
 b) les parties à la décision;
+
 c) les mesures que les parties à la décision sont tenues de prendre ou de ne pas prendre, y compris le délai imparti pour ce faire;
+
 d) l’obligation pour les parties à la décision d’élaborer un plan d’adaptation des ressources humaines en ce qui concerne l’intégration;
+
 e) la date d’effet de tous les transferts de services visés par l’intégration, s’il y en a;
+
 f) tout autre élément que l’Agence ou le ministre, selon le cas, estime pertinent.
 
 ### Avis de la décision
@@ -1285,13 +1559,17 @@ f) tout autre élément que l’Agence ou le ministre, selon le cas, estime pert
 ### Agence : modification et abrogation
 
 (6) L’Agence peut modifier ou abroger la décision de facilitation et :
+
 a) les paragraphes (1) à (5) s’appliquent à une modification, avec les adaptations nécessaires;
+
 b) les paragraphes (2) à (5) s’appliquent à une abrogation, avec les adaptations nécessaires.
 
 ### Ministre : modification et abrogation
 
 (7) Le ministre peut modifier ou abroger l’arrêté d’intégration pris en vertu de l’article 33 et :
+
 a) l’article 33 et les paragraphes (1) à (5) du présent article s’appliquent, avec les adaptations nécessaires, à une modification;
+
 b) les paragraphes (2) à (5) du présent article s’appliquent, avec les adaptations nécessaires, à une abrogation.
 
 ### Intégration par les fournisseurs et les systèmes
@@ -1305,14 +1583,23 @@ b) les paragraphes (2) à (5) du présent article s’appliquent, avec les adapt
 ### Avis
 
 (3) Si l’intégration mentionnée au paragraphe (1) a trait à des services que l’Agence finance en tout ou en partie, le fournisseur de services de santé ou l’équipe Santé Ontario :
+
 a) doit aviser le ministre du projet d’intégration, sauf disposition contraire des règlements;
+
 b) peut mettre en oeuvre le projet d’intégration s’il ou elle n’est pas tenu de donner l’avis mentionné à l’alinéa a);
+
 c) ne doit pas mettre en oeuvre le projet d’intégration tant que n’a pas pris fin un délai de 90 jours à compter du moment où il ou elle a donné l’avis mentionné à l’alinéa a), s’il ou elle est tenu de donner cet avis et que le ministre ne donne pas l’avis prévu au paragraphe (6);
+
 d) ne doit pas mettre en oeuvre le projet d’intégration tant que n’a pas pris fin un délai de 90 jours à compter du moment où le ministre a donné l’avis prévu au paragraphe (6) si les conditions suivantes sont réunies :
+
 (i) le fournisseur ou l’équipe est tenu de donner l’avis en application de l’alinéa a),
+
 (ii) le ministre donne l’avis en vertu du paragraphe (6),
+
 (iii) le ministre ne prend pas de décision en vertu du paragraphe (8);
+
 e) peut, malgré les alinéas c) et d), mettre en oeuvre le projet d’intégration en tout temps si le ministre l’avise qu’il n’a pas l’intention de donner l’avis d’un projet de décision en vertu du paragraphe (6) ou de prendre une décision en vertu du paragraphe (8);
+
 f) ne doit pas mettre en oeuvre le projet d’intégration qui fait l’objet de la décision prévue au paragraphe (8), si le ministre prend une telle décision.
 
 ### Exceptions
@@ -1322,20 +1609,31 @@ f) ne doit pas mettre en oeuvre le projet d’intégration qui fait l’objet de
 ### Contenu obligatoire
 
 (5) L’avis prévu à l’alinéa (3) a) doit comprendre ce qui suit :
+
 a) une description du projet d’intégration, y compris l’identité des parties visées par l’intégration;
+
 b) l’analyse, par le fournisseur de services de santé ou l’équipe Santé Ontario, des incidences du projet d’intégration sur, s’il y a lieu, les finances, la prestation de services, le système de santé ou les ressources humaines;
+
 c) une description, s’il y a lieu, des processus de participation communautaire auxquels le fournisseur de services de santé ou l’équipe Santé Ontario a eu recours pour examiner le projet d’intégration, ainsi qu’une description des questions soulevées pendant ces processus de consultation et l’analyse, s’il y a lieu, par le fournisseur ou l’équipe, de ces questions;
+
 d) une description du délai ou du déroulement proposés en ce qui concerne la mise en oeuvre du projet d’intégration;
+
 e) une description du niveau d’approbation qu’a reçu le fournisseur de services ou l’équipe Santé Ontario au sein de son organisme.
 
 ### Avis du projet de décision
 
 (6) Le ministre peut, au plus tard 90 jours après que le fournisseur de services de santé ou l’équipe Santé Ontario donne l’avis prévu au paragraphe (3) :
+
 a) demander au fournisseur ou à l’équipe un complément d’information sur le projet d’intégration et, si une telle demande est faite :
+
 (i) le fournisseur ou l’équipe fournit ce complément d’information dans les 30 jours de la demande du ministre,
+
 (ii) le délai imparti au ministre pour prendre les mesures énoncées au présent alinéa et aux alinéas b) et c) est prorogé, une seule fois, de 60 jours;
+
 b) aviser le fournisseur ou l’équipe qu’il se propose de prendre une décision en vertu du paragraphe (8);
+
 c) fournir une copie du projet de décision au fournisseur ou à l’équipe;
+
 d) publier le projet de décision sur un site Web.
 
 ### Observations
@@ -1377,6 +1675,7 @@ d) publier le projet de décision sur un site Web.
 ### Champ d’application
 
 (3) Les paragraphes (1) et (2) s’appliquent, que le testament, l’acte ou le document par lequel est fait ou donné le don, la fiducie, le legs ou la cession soit passé avant ou après l’entrée en vigueur du présent article.
+
 38 Abrogé : 2019, chap. 7, annexe 53, par. 9 (3).
 
 ## partie v transferts
@@ -1384,28 +1683,43 @@ d) publier le projet de décision sur un site Web.
 ### Définitions
 
 39 Les définitions qui suivent s’appliquent à la présente partie.
+
 «auteur du transfert» S’entend d’un organisme dont des éléments d’actif, éléments de passif, droits, obligations ou employés sont transférés conformément à un arrêté visé au paragraphe 40 (1). («transferor»)
+
 «destinataire du transfert» S’entend de l’Agence, de l’Organisme de services, du fournisseur de services de santé ou de l’équipe Santé Ontario à qui des éléments d’actif, éléments de passif, droits, obligations ou employés sont transférés conformément à un arrêté visé au paragraphe 40 (1). («transfer recipient»)
+
 «transfert» S’entend d’un transfert effectué conformément à un arrêté visé au paragraphe 40 (1). («transfer») 2019, chap. 5, annexe 1, art. 39
 
 ### Arrêté de transfert
 
 40 (1) Malgré toute autre loi, mais sous réserve du paragraphe (3), des processus et exigences énoncés dans la présente partie et de tout règlement pris sous le régime de la présente partie, le ministre peut, par arrêté :
+
 a) transférer l’ensemble ou une partie des éléments d’actif, éléments de passif, droits et obligations, notamment tout droit ou toute obligation que prévoit une entente de financement ou une entente de responsabilisation d’un organisme énuméré au paragraphe (2) à l’Agence, à l’Organisme de services, à un fournisseur de services de santé ou à une équipe Santé Ontario;
+
 b) transférer l’ensemble ou une partie des employés d’un organisme énuméré au paragraphe (2) à l’Agence, à l’Organisme de services, à un fournisseur de services de santé ou à une équipe Santé Ontario.
 
 ### Organismes
 
 (2) Les organismes suivants sont prévus pour l’application du paragraphe (1) :
+
 0.1 L’Agence.
+
 0.2 L’Organisme de services.
+
 1. Action Cancer Ontario.
+
 2. CyberSanté Ontario.
+
 3. Agence de promotion et de recrutement de ProfessionsSantéOntario.
+
 4. Services communs pour la santé Ontario.
+
 5. Conseil ontarien de la qualité des services de santé.
+
 6. Réseau Trillium pour le don de vie.
+
 7. Abrogée : 2023, chap. 19, par. 12 (3).
+
 8. Tout autre organisme prescrit qui reçoit un financement du ministère ou de l’Agence et qui fournit des programmes ou services compatibles avec la mission de l’Agence.
 
 ### Avis exigé
@@ -1415,13 +1729,17 @@ b) transférer l’ensemble ou une partie des employés d’un organisme énumé
 ### Transferts limités par les règlements
 
 (3.1) Les règlements peuvent prescrire un programme ou une division au sein d’un organisme visé au paragraphe (2). Dans un tel cas, un arrêté de transfert prévu au paragraphe (1) ne peut être pris qu’à l’égard :
+
 a) soit des éléments d’actif, éléments de passif, droits ou obligations qui sont associés au programme ou à la division;
+
 b) soit des employés qui travaillent au sein du programme ou de la division.
 
 ### Renseignements servant à la préparation
 
 (4) Pour les besoins de la préparation d’un arrêté ou d’un arrêté éventuel prévu au paragraphe (1) et de l’établissement de son contenu, le ministre peut :
+
 a) exiger qu’un organisme lui fournisse des renseignements, y compris des renseignements personnels, relatifs à ses opérations, ses employés, ses éléments d’actif, ses éléments de passif, ses droits et ses obligations;
+
 b) recueillir des renseignements personnels auprès de l’organisme.
 
 ### Forme des renseignements
@@ -1447,8 +1765,11 @@ b) recueillir des renseignements personnels auprès de l’organisme.
 ### Contenu de l’arrêté
 
 (10) L’arrêté pris en vertu du paragraphe (1) :
+
 a) doit prévoir les éléments d’actif, éléments de passif, droits, obligations ou employés qui doivent être transférés;
+
 b) doit préciser la date à laquelle prend effet le transfert des éléments d’actif, éléments de passif, droits, obligations ou employés, selon le cas;
+
 c) peut préciser que les questions découlant de l’interprétation de l’arrêté soient réglées de la manière précisée dans l’arrêté.
 
 ### Non-application de la Loi de 2006 sur la législation
@@ -1462,13 +1783,17 @@ c) peut préciser que les questions découlant de l’interprétation de l’arr
 ### Idem
 
 (13) L’auteur du transfert et le destinataire du transfert qui reçoit une copie de l’arrêté remis en application du paragraphe (12) :
+
 a) fournit un avis de l’arrêté aux employés visés et à leurs agents négociateurs ainsi qu’aux autres personnes ou entités dont les contrats sont visés par l’arrêté et en met des copies à leur disposition;
+
 b) publie l’arrêté sur un site Web.
 
 ### Prise en charge des droits et des obligations
 
 41 (1) Si le ministre prend un arrêté en vertu de l’article 40 :
+
 a) le destinataire du transfert prend en charge, à la date du transfert, les opérations, activités et affaires de l’auteur du transfert;
+
 b) les éléments d’actif, éléments de passif, droits et obligations de l’auteur du transfert que prévoient l’arrêté, notamment les droits contractuels, intérêts, approbations et enregistrements qui existent immédiatement avant la date du transfert, continuent d’être les éléments d’actif, éléments de passif, droits et obligations du destinataire du transfert et lui sont transférés.
 
 ### Décisions judiciaires ou quasi judiciaires
@@ -1486,17 +1811,25 @@ b) les éléments d’actif, éléments de passif, droits et obligations de l’
 ### Non-assimilation à une violation
 
 (5) Un transfert est réputé ne pas :
+
 a) constituer une violation, une résiliation, une répudiation ou une impossibilité d’exécution d’une entente, y compris un contrat de travail ou d’assurance ou une convention collective;
+
 b) constituer une violation d’une loi ou d’un règlement, notamment municipal;
+
 c) constituer un cas de défaut ou une force majeure;
+
 d) donner lieu à une violation, à une résiliation, à une répudiation ou à une impossibilité d’exécution d’un permis, d’une autorisation ou d’un autre droit;
+
 e) donner le droit de résilier une entente ou de révoquer un droit, notamment un permis ou une autorisation, ni le droit de les répudier;
+
 f) donner lieu à une préclusion.
 
 ### Aucune nouvelle cause d’action
 
 (6) Le transfert n’a pas pour effet de créer une nouvelle cause d’action en faveur :
+
 a) soit du détenteur d’un titre d’emprunt émis par l’auteur du transfert avant le transfert;
+
 b) soit d’une partie à une entente conclue avec l’auteur du transfert avant le transfert.
 
 ### Personnes liées par le transfert
@@ -1518,7 +1851,9 @@ b) soit d’une partie à une entente conclue avec l’auteur du transfert avant
 ### Règlements
 
 (11) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire les ententes soustraites à l’application des paragraphes (5) et (6);
+
 b) prescrire les lois, outre celles énumérées au paragraphe (8), qui ne s’appliquent pas au transfert.
 
 ### Maintien des employés
@@ -1582,13 +1917,17 @@ b) prescrire les lois, outre celles énumérées au paragraphe (8), qui ne s’a
 ### Refus de fournir des renseignements
 
 43.3 Nulle personne ou entité ne doit refuser de fournir :
+
 a) des renseignements à un enquêteur qui effectue une enquête sous le régime de la présente loi;
+
 b) quoi que ce soit qu’a exigé l’Agence en vertu de l’article 25.
 
 ### Mauvaise utilisation des termes
 
 43.4 Nulle personne ou entité ne doit utiliser le titre «équipe Santé Ontario», une abréviation de ce titre, son équivalent dans une autre langue ou un titre qui pourrait raisonnablement être confondu avec ce titre, ni se présenter comme ayant le droit de ce faire, sauf si :
+
 a) soit elle a été désignée comme équipe Santé Ontario en application de l’article 29;
+
 b) soit elle a reçu l’autorisation écrite du ministre en ce qui concerne l’utilisation du titre «équipe Santé Ontario».
 
 ### Arrêté de conformité
@@ -1610,15 +1949,21 @@ b) soit elle a reçu l’autorisation écrite du ministre en ce qui concerne l�
 ### Signification
 
 (5) Les avis, arrêtés ou autres documents prévus au présent article sont suffisamment signifiés à la personne ou entité s’ils sont :
+
 a) signifiés à personne à la personne ou entité ou à une personne qui paraît participer à l’administration, au fonctionnement ou au contrôle de l’établissement de la personne ou entité;
+
 b) envoyés par courrier recommandé à la dernière adresse connue de l’établissement de la personne ou entité;
+
 c) remis d’une autre manière prescrite.
 
 ### Date réputée de la signification
 
 (6) La signification des avis, arrêtés ou autres documents est réputée faite :
+
 a) le jour de la remise, en cas de signification à personne;
+
 b) le troisième jour de la mise à la poste, en cas de signification par courrier recommandé;
+
 c) comme le prévoient les règlements, en cas de remise d’une autre manière prescrite.
 
 ### Non-application de la Loi sur l’exercice des compétences légales
@@ -1648,7 +1993,9 @@ c) comme le prévoient les règlements, en cas de remise d’une autre manière 
 ### Peine générale : particulier
 
 43.8 (1) Le particulier déclaré coupable d’une infraction à la présente loi est passible :
+
 a) pour une première infraction, d’une amende d’au plus 50 000 $ et d’un emprisonnement d’au plus 12 mois, ou d’une seule de ces peines;
+
 b) en cas de récidive, d’une amende d’au plus 100 000 $ et d’un emprisonnement d’au plus 12 mois, ou d’une seule de ces peines.
 
 ### Idem : personne morale
@@ -1678,20 +2025,31 @@ b) en cas de récidive, d’une amende d’au plus 100 000 $ et d’un emprisonn
 ### Publication de renseignements sur les mesures d’exécution
 
 43.9 (1) Le ministre peut publier les renseignements suivants sur un site Web ou les mettre à la disposition du public d’une autre manière :
+
 a) dans le cas d’un arrêté de conformité pris en vertu de l’article 43.5 ou d’une ordonnance judiciaire rendue en vertu de l’article 43.6 :
+
 (i) le nom de la personne ou entité visée par l’arrêté ou l’ordonnance,
+
 (ii) la date de l’arrêté ou de l’ordonnance,
+
 (iii) une description de la non-conformité qui a donné lieu à l’arrêté ou à l’ordonnance;
+
 b) dans le cas d’une personne reconnue coupable d’une infraction à la présente loi :
+
 (i) le nom de la personne,
+
 (ii) la description de l’infraction,
+
 (iii) la date de la déclaration de culpabilité,
+
 (iv) la peine imposée à la personne.
 
 ### Restriction
 
 (2) Le ministre ne doit pas agir en vertu du paragraphe (1) relativement à un arrêté de conformité, sauf :
+
 a) s’il s’est écoulé au moins 14 jours depuis qu’il a signifié l’arrêté et que la personne visée par l’arrêté n’a pas présenté d’observations en vertu du paragraphe 43.5 (2);
+
 b) s’il a confirmé l’arrêté en vertu du paragraphe 43.5 (3).
 
 ### Conformité avec la Loi sur l’accès à l’information et la protection de la vie privée
@@ -1719,8 +2077,11 @@ b) s’il a confirmé l’arrêté en vertu du paragraphe 43.5 (3).
 ### Décision de la Commission d’appel
 
 43.14 À la suite de l’audience qu’elle tient sous le régime de la présente partie, la Commission d’appel peut, selon le cas :
+
 a) confirmer la décision du fournisseur de services de santé ou de l’équipe Santé Ontario;
+
 b) annuler la décision du fournisseur de services de santé ou de l’équipe Santé Ontario et renvoyer l’affaire au fournisseur ou à l’équipe en vue de la prise d’une nouvelle décision conformément aux directives qu’elle juge appropriées;
+
 c) annuler la décision du fournisseur de services de santé ou de l’équipe Santé Ontario, substituer son opinion à celle du fournisseur ou de l’équipe, et enjoindre au fournisseur ou à l’équipe de mettre à exécution la décision qu’elle a rendue conformément aux directives qu’elle juge appropriées.
 
 ### Décision définitive
@@ -1736,9 +2097,13 @@ c) annuler la décision du fournisseur de services de santé ou de l’équipe S
 ### Obligations
 
 (2) Afin de s’acquitter des fonctions que lui attribue le paragraphe (1), l’Agence :
+
 a) fait participer les entités autochtones de planification des services de santé que le ministre précise par règlement d’une manière qui reconnaît le rôle des peuples autochtones dans la planification et la prestation de services de santé au sein de leurs collectivités;
+
 b) fait participer les entités de planification des services de santé en français que le ministre précise par règlement;
+
 c) fait participer le Conseil consultatif des patients et des familles qu’a créé le ministre en vertu de la Loi sur le ministère de la Santé et des Soins de longue durée ;
+
 d) satisfait aux autres exigences en matière de participation que le ministre précise par règlement.
 
 ### Collaboration
@@ -1748,11 +2113,17 @@ d) satisfait aux autres exigences en matière de participation que le ministre p
 ### Intérêt public
 
 45 Lorsqu’ils prennent une décision dans l’intérêt public en vertu de la présente loi, le lieutenant-gouverneur en conseil, le ministre ou l’Agence, selon le cas, peuvent prendre en considération les questions qu’ils estiment pertinentes, notamment les questions qui se rapportent à ce qui suit :
+
 a) la qualité de la gestion et de l’administration de l’Agence, du fournisseur de services de santé, de l’équipe Santé Ontario ou d’une autre personne ou entité qui reçoit un financement de l’Agence en application de l’article 21, selon le cas;
+
 b) la saine gestion du système de soins de santé en général;
+
 c) la disponibilité de ressources financières pour la gestion du système de soins de santé et la prestation des services de santé;
+
 d) l’accessibilité aux services de santé;
+
 e) la qualité des soins et des traitements fournis aux patients;
+
 f) l’accessibilité de services de santé en français.
 
 ### Divulgation et collecte permises de renseignements personnels sur la santé
@@ -1762,7 +2133,9 @@ f) l’accessibilité de services de santé en français.
 ### Ministre
 
 (2) Le ministre peut recueillir des renseignements personnels, directement ou indirectement, aux fins suivantes :
+
 1. Surveiller et évaluer, d’une part, les services de soins à domicile et en milieu communautaire fournis par un fournisseur de services ou une équipe Santé Ontario qui reçoit un financement en vertu de l’article 21 au titre de la prestation de services de soins à domicile et en milieu communautaire et, d’autre part, le fournisseur de ces services.
+
 2. Surveiller et examiner la santé, la sécurité et le bien-être des personnes qui reçoivent ou demandent à recevoir des services de soins à domicile ou en milieu communautaire.
 
 ### Divulgation de renseignements par la personne responsable
@@ -1772,11 +2145,17 @@ f) l’accessibilité de services de santé en français.
 ### Extinction des causes d’action
 
 46 (1) Sous réserve des paragraphes (5) et (8), aucune cause d’action ne prend naissance contre les personnes ou entités suivantes pour un acte qu’elles ont accompli ou omis d’accomplir ou pour une décision, un arrêté ou un règlement qu’elles ont pris, un ordre ou une directive qu’elles ont donné, ou une norme qu’elles ont établie de bonne foi en vertu de la présente loi, de la Loi de 2019 sur le Centre d’excellence pour la santé mentale et la lutte contre les dépendances, de la Loi sur le don de vie, de la Loi de 2023 sur les centres de services de santé communautaires intégrés ou de la Loi de 2010 sur l’excellence des soins pour tous ou en vertu de toute disposition de la Loi de 2014 sur la protection des renseignements personnels sur la santé ou des règlements pris en vertu de cette loi qui sont prescrits pour l’application du présent article dans l’exercice effectif ou censé tel des pouvoirs ou fonctions que leur attribue l’une quelconque de ces lois :
+
 1. La Couronne.
+
 2. Un membre, actuel ou ancien, du Conseil exécutif, y compris le ministre.
+
 3. L’Agence.
+
 4. Un membre, un administrateur ou un dirigeant, actuel ou ancien, de l’Agence ou un bénévole de l’Agence.
+
 5. Un employé, un mandataire ou un conseiller, actuel ou ancien, de la Couronne ou de l’Agence.
+
 6. Un enquêteur ou superviseur, actuel ou ancien, nommé en vertu de la présente loi ou un membre, actuel ou ancien, de son personnel.
 
 ### Idem : arrêtés de transfert
@@ -1814,8 +2193,11 @@ f) l’accessibilité de services de santé en français.
 ### Dissolution de l’Agence ou de l’Organisme de services
 
 47 S’il estime que l’intérêt public justifie la liquidation des affaires de l’Agence ou de l’Organisme de services, le ministre peut prendre toutes les mesures nécessaires à cette fin, notamment traiter des éléments d’actif et de passif de l’Agence ou de l’Organisme de services de l’une ou l’autre des façons suivantes :
+
 a) en liquidant ou en vendant les éléments d’actif et en en versant le produit au Trésor;
+
 b) en transférant les éléments d’actif et de passif à la Couronne, y compris à un autre organisme de la Couronne;
+
 c) en transférant les employés de l’Agence ou de l’Organisme de services à la Couronne ou à un autre organisme de la Couronne.
 
 ## partie vii règlements
@@ -1823,32 +2205,59 @@ c) en transférant les employés de l’Agence ou de l’Organisme de services �
 ### Règlements
 
 48 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) préciser les personnes ou entités qui sont incluses dans la définition de «fournisseur de services de santé» au paragraphe 1 (2) ou qui en sont exclues;
+
 b) soustraire l’Agence, l’Organisme de services, un fournisseur de services de santé, une équipe Santé Ontario ou toute autre personne ou entité à l’application de la présente loi ou des règlements, et préciser les circonstances dans lesquelles l’exemption s’applique;
+
 c) prescrire les dispositions de la Loi de 2010 sur les organisations sans but lucratif et de la Loi sur les renseignements exigés des personnes morales, ou de toute loi qui les remplace, qui s’appliquent à l’Agence ou à l’Organisme de services et les adaptations avec lesquelles elles doivent s’appliquer;
+
 d) préciser les personnes qui ne peuvent pas être nommées membres de l’Agence ou de l’Organisme de services;
+
 d.1) prescrire les éléments d’actif ou les recettes de l’Agence qui ne font pas partie du Trésor;
+
 d.2) prescrire les éléments d’actif ou les recettes de toute filiale de l’Agence ou de l’Organisme de services, sauf l’Organisme de services lui-même, qui ne font pas partie du Trésor;
+
 d.3) prescrire des limites en ce qui concerne la capacité du ministre à préciser dans l’entente de responsabilisation les types de financement qui font partie du Trésor;
+
 e) régir le financement que l’Agence accorde à un fournisseur de services de santé, à une équipe Santé Ontario ou à toute autre personne ou entité à laquelle l’Agence peut fournir un financement en vertu de l’article 21;
+
 e.1) traiter de la prestation et du financement de services de soins à domicile et en milieu communautaire pour l’application de la présente loi et régir les normes et exigences relatives aux services de soins à domicile et en milieu communautaire et en traiter, et définir ou préciser le sens de «services de soins à domicile et en milieu communautaire», de «services de coordination des soins» ou d’expressions connexes pour l’application de la présente loi ou des règlements ou de l’une quelconque de leurs dispositions;
+
 e.2) régir le conseil d’administration de l’Organisme de services, y compris établir des exigences en matière d’admissibilité, fixer la durée des mandats et prévoir la façon de combler les vacances au sein du conseil;
+
 e.3) régir la prestation de soutiens opérationnels et de services de gestion des placements par l’Organisme de services, notamment :
+
 (i) régir la teneur ou les conditions d’un contrat de service conclu entre l’Organisme de services et un client-fournisseur ou un autre fournisseur de services de santé ou une équipe Santé Ontario,
+
 (ii) régir l’affectation d’employés de l’Organisme de services à la prestation de soutiens opérationnels ou de services de gestion des placements;
+
 f) exiger qu’un fournisseur de services de santé, une équipe Santé Ontario ou une autre personne ou entité qui reçoit un financement de l’Agence en application de l’article 21 établisse un système de rapprochement du financement qu’il ou elle reçoit de l’Agence selon les modalités énoncées dans le règlement, et notamment :
+
 (i) exiger que le fournisseur, l’équipe, la personne ou l’entité rembourse à l’Agence tout financement excédentaire reçu,
+
 (ii) permettre à l’Agence de recouvrer tout financement excédentaire reçu en le déduisant des paiements ultérieurs qu’elle lui fait;
+
 g) régir le contenu ou les conditions d’une entente de responsabilisation en matière de services et traiter du processus de conclusion d’une telle entente;
+
 h) régir la désignation des équipes Santé Ontario en vertu de l’article 29 et prescrire les exigences qui doivent être satisfaites avant qu’une désignation puisse être faite en vertu de cet article;
+
 i) régir les questions qui se rapportent aux transferts de biens effectués en application de la décision d’intégration visée à la partie IV ou qui en découlent, notamment les questions qui se rapportent aux droits, privilèges et obligations actuels et futurs, et en traiter;
+
 j) régir les questions qui se rapportent aux arrêtés de transfert pris en vertu de la partie V ou qui en découlent, et en traiter;
+
 k) régir les indemnités payables en application du paragraphe 46 (8), notamment qui les verse, le montant payable et le mode de calcul de la perte indemnisable et de la fraction de la valeur des biens qui n’a pas été acquise au moyen de sommes provenant du gouvernement de l’Ontario, de l’Agence ou d’un autre organisme du gouvernement;
+
 l) définir, pour l’application de la présente loi, les termes qui y sont utilisés et qui n’y sont pas expressément définis;
+
 m) traiter de toute question que la présente loi décrit comme étant prescrite ou prévue dans les règlements;
+
 n) régir les questions transitoires ou similaires pouvant découler de l’édiction de la présente loi ou des modifications ou abrogations résultant de la Loi de 2019 sur les soins de santé pour la population, de la Loi de 2020 pour connecter la population aux services de soins à domicile et en milieu communautaire, de la Loi de 2023 sur la prestation commode de soins à domicile ou de l’annexe 2 de la Loi de 2025 sur le plan pour protéger l’Ontario (mesures budgétaires) (no 2), notamment :
+
 (i) préciser l’application de toute disposition et régir les situations où une disposition a été abrogée, mais non une disposition connexe,
+
 (ii) régir les questions transitoires ou similaires pouvant découler de la fusion menant à la création de l’Organisme de services, y compris régir la transition des chefs de la direction et des membres des conseils d’administration des personnes morales remplacées;
+
 o) traiter de toute autre question que le lieutenant-gouverneur en conseil estime nécessaire ou souhaitable en vue de la réalisation de l’objet de la présente loi et de l’application de ses dispositions.
 
 ### Règlements du ministre
@@ -1866,4 +2275,5 @@ o) traiter de toute autre question que le lieutenant-gouverneur en conseil estim
 ### Partie IX (OMISE)
 
 50 Omis (entrée en vigueur de dispositions de la présente loi).
+
 51 Omis (édiction du titre abrégé de la présente loi).

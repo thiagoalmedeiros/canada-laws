@@ -6,32 +6,42 @@ language: en
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/25b27"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Buy Ontario Act (Public Sector Procurement), 2025
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/25b27) before relying on it.
 
 S.O. 2025, c. 27, Sched. 1
 
 ### Definitions
 
 1 In this Act,
+
 “Board” means the Management Board of Cabinet; (“Conseil”)
+
 “designated broader public sector organization” has the same meaning as in the Broader Public Sector Accountability Act, 2010; (“organisme désigné du secteur parapublic”)
+
 “Minister” means the Minister of Public and Business Service Delivery and Procurement or such other member of the Executive Council to whom responsibility for the administration of this Act may be assigned or transferred under the Executive Council Act; (“ministre”)
+
 “prescribed public sector entity” means a person or entity prescribed by the regulations made under this Act for the purposes of clause (c) of the definition of “public sector entity”; (“entité prescrite du secteur public”)
+
 “public sector entity” means,
+
 (a) a government entity as defined in the Supply Chain Management Act (Government, Broader Public Sector and Health Sector Entities), 2019,
+
 (b) a designated broader public sector organization, or
+
 (c) any other person or entity prescribed by the regulations made under this Act. (“entité du secteur public”)
 
 ### Purpose
 
 2 The purpose of this Act is to establish a framework for regulating procurement within the public sector in order to,
+
 (a) transform public sector procurement practices on the basis of principles of integrity and value-for-money and with an aim to supporting economic development and supply chain resilience; and
+
 (b) leverage public sector procurement as a means of promoting, protecting and building Ontario’s economy and businesses and safeguarding its supply chain.
 
 ### Directives establishing procurement policies, procedures or standards
@@ -41,12 +51,19 @@ S.O. 2025, c. 27, Sched. 1
 ### Scope of directives
 
 (2) A directive under subsection (1) may require a public sector entity to which it applies to take any measures respecting the procurement of goods and services, including measures respecting the management of procurement contracts, and may, without limiting the generality of the foregoing,
+
 (a) require that preference be given to Ontario or Canadian made goods or to services provided in Ontario or Canada;
+
 (b) impose requirements intended to,
+
 (i) support Ontario businesses and promote Ontario made goods or services provided by Ontario businesses, or
+
 (ii) protect Ontario businesses by limiting eligibility to participate in public sector entity procurements;
+
 (c) require the implementation of vendor performance standards and practices;
+
 (d) establish reporting requirements or procedures, including by authorizing specified persons to require that a public sector entity report on certain matters when and as the persons determines; or
+
 (e) require public sector entities to use specified compliance and enforcement measures and to impose those measures on vendors.
 
 ### Rolling incorporation by reference
@@ -76,7 +93,9 @@ S.O. 2025, c. 27, Sched. 1
 ### Failure continuing past fiscal year end
 
 (3) If the failure to comply continues until March 31 after the Board directed the withholding and the direction has not been withdrawn by the Board on or before that date,
+
 (a) the organization or entity ceases to be entitled to be paid; and
+
 (b) the amount withheld forms part of the Consolidated Revenue Fund.
 
 ### Public to be protected
@@ -102,14 +121,19 @@ S.O. 2025, c. 27, Sched. 1
 ### Use and disclosure of information
 
 (5) The person designated under subsection (2) shall only use information collected under subsection (4) for the purposes of conducting the review and preparing the report and shall not disclose the information except in the following circumstances:
+
 1. The disclosure of the information is necessary for the purposes of conducting the review and preparing the report.
+
 2. The information is disclosed to the Minister or with the Minister’s consent.
+
 3. The disclosure of the information is otherwise required by law.
 
 ### Actions based on report
 
 (6) Upon reviewing the report submitted under subsection (3), the Minister may do either or both of the following:
+
 1. Publish, on a publicly accessible website, any findings stemming from the report respecting the public sector entity’s compliance with the requirements of this Act or of a directive under subsection 3 (1).
+
 2. Direct the public sector entity to undertake corrective action to remedy non-compliance with a requirement of this Act or a directive under subsection 3 (1).
 
 ### Not a discriminatory business practice
@@ -129,13 +153,17 @@ S.O. 2025, c. 27, Sched. 1
 ### Same
 
 (3) For the purposes of subsection (2), a class may be defined,
+
 (a) in terms of any attribute or combination of attributes; or
+
 (b) as consisting of, including or excluding a specified member.
 
 ### Public availability
 
 (4) The Board shall ensure that a directive issued under subsection 3 (1) is,
+
 (a) made available to any person who requests a copy; and
+
 (b) publicly posted on a website of the Government of Ontario.
 
 ### Part III of the Legislation Act, 2006
@@ -149,13 +177,17 @@ S.O. 2025, c. 27, Sched. 1
 ### Public service
 
 (2) In subsection (1),
+
 “public service” has the same meaning as in the Management Board of Cabinet Act.
 
 ### Extinguishment of causes of action
 
 11 (1) No cause of action arises against the Crown, a public sector entity or any current or former member of the Executive Council or employee, officer or agent of or advisor to the Crown or employee, officer, agent or director of or advisor to a public sector entity as a direct or indirect result of,
+
 (a) the enactment, amendment or repeal of any provision of this Act;
+
 (b) the making, amendment or revocation of any provision of a regulation, directive or other instrument under this Act; or
+
 (c) anything done or not done in accordance with this Act or a regulation, directive or other instrument under this Act.
 
 ### No remedy
@@ -185,10 +217,17 @@ S.O. 2025, c. 27, Sched. 1
 ### Regulations
 
 12 The Lieutenant Governor in Council may make regulations for carrying out the purpose and provisions of this Act, including regulations,
+
 (a) prescribing persons or entities for the purposes of clause (c) of the definition of “public sector entity” in section 1;
+
 (b) defining terms or expressions used in this Act that are not defined in this Act;
+
 (c) exempting a public sector entity from a provision of this Act and specifying conditions for the exemption;
+
 (d) addressing any transitional matters arising from the enactment of this Act or the repeal of the Building Ontario Businesses Initiative Act, 2022.
+
 13 Omitted (repeals other legislation).
+
 14 Omitted (provides for coming into force of provisions of this Act).
+
 15 Omitted (enacts short title of this Act).

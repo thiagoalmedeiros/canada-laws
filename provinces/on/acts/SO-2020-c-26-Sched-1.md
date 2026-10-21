@@ -6,28 +6,38 @@ language: en
 type: act
 document_date: "2020-11-20"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20s26"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Supporting Ontario's Recovery Act, 2020
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20s26) before relying on it.
 
 S.O. 2020, c. 26, Sched. 1
 
 ### Interpretation
 
 1 (1) In this Act,
+
 “good faith effort” includes an honest effort, whether or not that effort is reasonable; (“effort de bonne foi”)
+
 “law” means a statute or any regulation, order, by-law or other instrument made under a statute; (“règle de droit”)
+
 “public health guidance” means advice, recommendations, directives, guidance or instructions given or made in respect of public health, regardless of the form or manner of their communication, by any of the following:
+
 i. The Chief Medical Officer of Health appointed under the Health Protection and Promotion Act, an Associate Chief Medical Officer of Health under that Act or the Office of the Chief Medical Officer of Health.
+
 ii. A person appointed as a medical officer of health or associate medical officer of health of a board of health under the Health Protection and Promotion Act, or an employee of a board of health.
+
 iii. A public health official of the Government of Canada.
+
 iv. A minister or ministry of the Government of Ontario or Canada, or an officer or employee in such a ministry.
+
 v. An agency of the Government of Ontario or Canada or an officer or employee in such an agency.
+
 vi. A municipality or an officer or employee of a municipality.
+
 vii. A regulatory body having jurisdiction over a person, or an officer or employee of such a regulatory body. (“orientations en matière de santé publique”)
 
 ### Same
@@ -41,9 +51,13 @@ vii. A regulatory body having jurisdiction over a person, or an officer or emplo
 ### Protection from liability
 
 2 (1) No cause of action arises against any person as a direct or indirect result of an individual being or potentially being infected with or exposed to coronavirus (COVID-19) on or after March 17, 2020 as a direct or indirect result of an act or omission of the person if,
+
 (a) at the relevant time, the person acted or made a good faith effort to act in accordance with,
+
 (i) public health guidance relating to coronavirus (COVID-19) that applied to the person, and
+
 (ii) any federal, provincial or municipal law relating to coronavirus (COVID-19) that applied to the person; and
+
 (b) the act or omission of the person does not constitute gross negligence.
 
 ### Same
@@ -77,20 +91,27 @@ vii. A regulatory body having jurisdiction over a person, or an officer or emplo
 ### Non-application, required closure
 
 3 Section 2 does not apply with respect to acts or omissions of a person that,
+
 (a) occurred while a law required the person’s operations to close, in whole or in part; and
+
 (b) relate to an aspect of the person’s operations that was required to close under the law.
 
 ### Non-application, employment and performance of work
 
 4 (1) In this section,
+
 “occupational disease”, “Schedule 1 employer”, “Schedule 2 employer”, “survivor” and “worker” have the same meaning as in the Workplace Safety and Insurance Act, 1997.
 
 ### Causes of action, proceedings unaffected
 
 (2) Section 2 does not apply with respect to any of the following:
+
 1. A cause of action of a worker who is or was employed by a Schedule 1 employer or Schedule 2 employer, or of the worker’s survivor, in respect of a personal injury by accident arising out of and in the course of the worker’s employment or an occupational disease.
+
 2. A cause of action of a worker who is or was employed by a Schedule 1 employer or Schedule 2 employer, or of the worker’s survivor, to which the Workplace Safety and Insurance Board or Schedule 2 employer, as the case may be, is subrogated under section 30 of the Workplace Safety and Insurance Act, 1997.
+
 3. A cause of action of an individual in respect of an actual or potential exposure to or infection with coronavirus (COVID-19) that occurred in the course, or as a result, of employment with a person or in the performance of work for or supply of services to a person.
+
 4. A proceeding arising from a cause of action referred to in paragraph 1, 2 or 3.
 
 ### No effect on jurisdiction
@@ -104,5 +125,7 @@ vii. A regulatory body having jurisdiction over a person, or an officer or emplo
 ### Crown bound
 
 5 This Act binds the Crown.
+
 6 Omitted (provides for coming into force of provisions of this Act).
+
 7 Omitted (enacts short title of this Act).

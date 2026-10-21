@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2021-11-29"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99t14b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # ville de Haldimand (Loi de 1999 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99t14b) before relying on it.
 
 L.O. 1999, chap. 14, annexe B
 
@@ -21,23 +21,41 @@ L.O. 1999, chap. 14, annexe B
 ### Interprétation
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «ancienne municipalité» La ville de Haldimand ou la ville de Dunnville telles qu’elles existent le 31 décembre 2000. («old municipality»)
+
 «avantage municipal» S’entend notamment d’un avantage direct ou indirect qui résulte immédiatement de l’affectation de sommes à un service ou à une activité et d’un avantage qui résultera seulement de l’affectation de sommes supplémentaires au service ou à l’activité. («municipal benefit»)
+
 «conseil de transition» Le conseil de transition visé au paragraphe 21 (1). («transition board»)
+
 «conseil local» Commission de services publics, commission de services municipaux, commission de transport, conseil de bibliothèque publique, commission de gestion des parcs, conseil de santé, commission de services policiers ou autre organisme créé par une loi générale ou spéciale ou exerçant un pouvoir en vertu d’une telle loi en ce qui concerne les affaires d’une ancienne municipalité ou de la ville. Sont toutefois exclues de la présente définition les entités suivantes :
+
 a) le conseil de transition;
+
 b) les sociétés d’aide à l’enfance;
+
 c) les offices de protection de la nature;
+
 d) les conseils scolaires. («local board»)
+
 «convention collective» S’entend, selon le cas :
+
 a) d’une convention collective au sens de la Loi de 1995 sur les relations de travail ;
+
 b) d’une convention collective au sens de la partie IX de la Loi de 1997 sur la prévention et la protection contre l’incendie ;
+
 c) d’une convention visée par la partie VIII de la Loi sur les services policiers. («collective agreement»)
+
 «ministre» Le ministre des Affaires municipales et du Logement. («Minister»)
+
 «municipalité démembrée» La municipalité régionale de Haldimand-Norfolk ou la cité de Nanticoke telles qu’elles existent le 31 décembre 2000. («divided municipality»)
+
 «secteur fusionné» S’entend de la totalité d’une ancienne municipalité qui fait partie de la ville ou de la totalité de la partie d’une municipalité démembrée qui en fait partie. («merged area»)
+
 «secteur municipal» Secteur constitué du territoire relevant de la compétence des anciennes municipalités le 31 décembre 2000 et secteur constitué du territoire de compétence, décrit à l’annexe A de la présente loi, de la cité de Nanticoke, telle qu’elle existe à cette date, avec les modifications prescrites en vertu du paragraphe (2). («municipal area»)
+
 «service spécial» Service de la ville qui n’est pas fourni ou activité de la ville qui n’est pas exercée généralement dans toute la ville ou qui l’est à des niveaux différents ou d’une manière différente dans des parties différentes de la ville. («special service»)
+
 «ville» La ville de Haldimand constituée aux termes de la présente loi. («town») 1999, chap. 14, annexe B, par. 1 (1)
 
 ### Modification du secteur municipal
@@ -53,6 +71,7 @@ c) d’une convention visée par la partie VIII de la Loi sur les services polic
 ### Statut
 
 (2) La personne morale a le statut d’une cité et d’une municipalité locale à toutes fins.
+
 (3) A brogé : 2002, chap. 17, annexe F, tableau.
 
 ### Quartiers
@@ -70,7 +89,9 @@ c) d’une convention visée par la partie VIII de la Loi sur les services polic
 ### Disposition transitoire, premier conseil
 
 (3) Les règles ticulières qui suivent s’appliquent aux membres du conseil élus lors des élections ordinaires de 2000 :
+
 1. Malgré l’article 6 de la Loi de 1996 sur les élections municipales, le mandat des membres commence le 1 er janvier 2001.
+
 2. Malgré le paragraphe 49 (1) de la Loi sur les municipalités, la première réunion du conseil se tient au plus tard le 9 janvier 2001.
 
 ### Dissolution des anciennes municipalités
@@ -84,7 +105,9 @@ c) d’une convention visée par la partie VIII de la Loi sur les services polic
 ### Idem
 
 (3) Sans préjudice de la portée générale du paragraphe (2) :
+
 a) la ville exerce les pouvoirs et fonctions qu’une loi générale ou spéciale attribue à une ancienne municipalité ou à une municipalité démembrée, à l’égard de la partie du secteur municipal à laquelle ces pouvoirs ou fonctions s’appliquaient le 31 décembre 2000;
+
 b) l’actif et le passif des anciennes municipalités au 31 décembre 2000, y compris les droits, intérêts, approbations, statuts et enregistrements ainsi que les avantages et obligations contractuels, passent à la ville le 1 er janvier 2001, sans versement d’indemnité.
 
 ### Exception, pouvoirs d’urgence
@@ -122,7 +145,9 @@ b) l’actif et le passif des anciennes municipalités au 31 décembre 2000, y c
 ### Idem
 
 (3) Sans préjudice de la portée générale du paragraphe (2) :
+
 a) la ville exerce les pouvoirs et fonctions qu’une loi générale ou spéciale attribue à une municipalité démembrée, à l’égard de la partie du secteur municipal à laquelle ces pouvoirs ou fonctions s’appliquaient le 31 décembre 2000;
+
 b) les éléments d’actif et de passif des municipalités démembrées au 31 décembre 2000 qui sont attribués à la ville aux termes de l’article 34, y compris les droits, intérêts, approbations, statuts et enregistrements ainsi que les avantages et obligations contractuels, passent à la ville le 1 er janvier 2001, sans versement d’indemnité.
 
 ### Exception : débentures
@@ -296,6 +321,7 @@ b) les éléments d’actif et de passif des municipalités démembrées au 31 d
 ### Gestion de la décharge
 
 13 La ville exploite et entretient, conjointement avec la ville de Norfolk, la décharge Tom Howe visée au paragraphe 6 (6), à moins d’accord à l’effet contraire.
+
 13.1 A brogé : 2002, chap. 17, annexe F, tableau.
 
 ### Pouvoirs : résidences de groupe avec services de soutien
@@ -305,7 +331,9 @@ b) les éléments d’actif et de passif des municipalités démembrées au 31 d
 ### Idem
 
 (2) Le paragraphe (1) s’applique à une personne morale sans capital-actions poursuivant une mission de bienfaisance :
+
 a) soit à laquelle s’applique la Loi de 2010 sur les organisations sans but lucratif ;
+
 b) soit qui est constituée en vertu d’une loi générale ou spéciale du Parlement du Canada.
 
 ### Pouvoirs : parcs
@@ -359,6 +387,7 @@ b) soit qui est constituée en vertu d’une loi générale ou spéciale du Parl
 ### Idem
 
 (6) La décision du Tribunal ontarien de l’aménagement du territoire est définitive.
+
 (7) Abrogé : 2009, chap. 33, annexe 2, art. 75.
 
 ### Fluoration de l’eau
@@ -378,7 +407,9 @@ b) soit qui est constituée en vertu d’une loi générale ou spéciale du Parl
 ### Répartition de certains frais partagés
 
 14 (1) Les frais suivants sont répartis de la manière prescrite entre la ville et la ville de Norfolk :
+
 1. Les frais d’exploitation et d’entretien de la décharge Tom Howe visée au paragraphe 6 (6).
+
 2. Les frais de la Commission des services policiers de Haldimand et Norfolk qui sont exigibles aux termes de l’entente visée au paragraphe 7 (4).
 
 ### Paiement
@@ -388,43 +419,61 @@ b) soit qui est constituée en vertu d’une loi générale ou spéciale du Parl
 ### Fixation des montants
 
 (3) Le montant des frais ou dépenses à répartir entre la ville et la ville de Norfolk aux termes des lois suivantes est fixé de la manière prescrite plutôt que de la manière exigée par la loi applicable :
+
 1. Si une zone désignée en vertu de la Loi sur les ambulances se compose en totalité ou en partie de la ville et de la ville de Norfolk, ou d’une partie de celles-ci, les frais qui seraient par ailleurs répartis entre elles à l’égard de la zone aux termes de cette loi.
+
 2. Les frais que la ville ou la ville de Norfolk engage à titre d’agent de prestation des services aux termes de la Loi sur les garderies à l’égard de la zone géographique de la ville et de la ville de Norfolk.
+
 3. Les dépenses visées au paragraphe 72 (1) de la Loi sur la protection et la promotion de la santé qui sont engagées à l’égard de la circonscription sanitaire de Haldimand-Norfolk.
+
 4. Les frais que la ville ou la ville de Norfolk engage à titre d’agent de prestation des services aux termes de la Loi de 1997 sur le programme Ontario au travail à l’égard de la zone géographique de la ville et de la ville de Norfolk.
+
 5. Les frais qui seraient par ailleurs répartis entre la ville et la ville de Norfolk aux termes du paragraphe 4 (7) de la Loi de 1997 sur le financement du logement social.
 
 ### Règlements municipaux : services spéciaux
 
 15 (1) Sous réserve des restrictions énoncées au présent article, la ville peut, par règlement municipal, faire ce qui suit :
+
 1. Désigner un service spécial.
+
 2. Fixer le montant de ses frais (y compris les frais d’immobilisations ainsi que les frais liés aux débentures, à l’amortissement ou à un fonds de réserve) qui découlent de ce service spécial.
+
 3. Sous réserve d’un règlement pris en application du paragraphe (5), désigner une ou plusieurs secteurs fusionnés de la ville comme secteur dans lequel le service spécial procure ou procurera aux résidents et aux propriétaires fonciers un avantage municipal supplémentaire qui n’est ou ne sera pas procuré dans les autres secteurs fusionnés de la ville.
+
 4. Calculer la fraction du montant fixé aux termes de la disposition 2 qui représente le coût additionnel à engager pour offrir l’avantage municipal supplémentaire dans chaque secteur désigné aux termes de la disposition 3 et exposer la méthode que la ville a utilisée pour effectuer ce calcul.
+
 5. Calculer la fraction éventuelle du coût additionnel visé à la disposition 4 qui doit être recueillie aux termes du paragraphe (8).
 
 ### Restriction
 
 (2) Un règlement municipal peut être adopté à l’égard d’un service spécial qui répond aux conditions suivantes :
+
 a) il était fourni dans un secteur fusionné de la ville par une ancienne municipalité, une municipalité démembrée ou un conseil local d’une ancienne municipalité ou d’une municipalité démembrée, ou pour le compte de l’un ou l’autre;
+
 b) il a continué à être fourni dans le secteur fusionné par la ville ou un conseil local de celle-ci, ou pour le compte de l’un ou l’autre, à un moment donné en 2001.
 
 ### Idem
 
 (3) Un règlement municipal ne peut pas désigner un secteur fusionné visé à la disposition 3 du paragraphe (1) comme secteur dans lequel le service spécial ne procure pas actuellement un avantage municipal supplémentaire aux résidents et aux propriétaires fonciers mais leur en procurera un à l’avenir sauf si, selon le cas :
+
 a) les sommes nécessaires pour offrir l’avantage supplémentaire dans le secteur fusionné sont inscrites au budget de la ville pour l’année, tel qu’il est adopté aux termes de l’article 290 de la Loi de 2001 sur les municipalités ;
+
 b) la ville a créé un fonds de réserve pour financer les sommes nécessaires sur une période de plusieurs années.
 
 ### Idem
 
 (4) La ville ne peut pas adopter de règlement municipal pour une année donnée («l’année applicable») postérieure à 2002 à l’égard d’un service spécial particulier à moins que les conditions suivantes ne soient réunies :
+
 1. Elle a adopté un règlement municipal à l’égard du service spécial en 2002.
+
 2. Elle a adopté un règlement municipal à l’égard du service spécial pour chaque année postérieure à 2002 et antérieure à l’année applicable.
 
 ### Règlements, secteurs désignés
 
 (5) Pour l’application de la disposition 3 du paragraphe (1), le ministre peut, par règlement :
+
 a) préciser un secteur qui peut être désigné en vertu de cette disposition même s’il ne se compose pas d’un ou de plusieurs secteurs fusionnés;
+
 b) prescrire les circonstances dans lesquelles un secteur peut être désigné en vertu de cette disposition même s’il ne se compose pas d’un ou de plusieurs secteurs fusionnés.
 
 ### Idem
@@ -450,19 +499,25 @@ b) prescrire les circonstances dans lesquelles un secteur peut être désigné e
 ### Interprétation
 
 (2) La mention, au présent article, des éléments d’actif ou de passif d’un secteur fusionné est une mention :
+
 a) dans le cas d’un secteur fusionné constitué d’une ancienne municipalité, des éléments d’actif ou de passif, au 31 décembre 2000, de la municipalité et de ses conseils locaux;
+
 b) dans le cas d’un secteur fusionné constitué d’une partie d’une municipalité démembrée, des éléments d’actif ou de passif, au 31 décembre 2000, de la municipalité et de ses conseils locaux qui sont attribués à la ville aux termes de l’article 34.
 
 ### Diminution des taux d’imposition
 
 (3) Sous réserve des restrictions énoncées au présent article, la ville peut, par règlement municipal, diminuer les taux d’imposition qui s’appliqueraient par ailleurs à l’égard de l’évaluation dans un secteur fusionné si les conditions suivantes sont réunies :
+
 a) le conseil municipal estime qu’il serait injuste pour les contribuables du secteur fusionné de ne pas tirer un avantage direct des éléments d’actif ou d’une catégorie d’éléments d’actif du secteur fusionné;
+
 b) le manque à gagner d’impôt découlant de la diminution des taux d’imposition ne dépasse pas la valeur des éléments d’actif visés à l’alinéa a).
 
 ### Augmentation des taux d’imposition
 
 (4) Sous réserve des restrictions énoncées au présent article, la ville peut, par règlement municipal, augmenter les taux d’imposition qui s’appliqueraient par ailleurs à l’égard de l’évaluation dans un secteur fusionné si les conditions suivantes sont réunies :
+
 a) le conseil municipal estime qu’il serait injuste pour les contribuables de l’extérieur du secteur fusionné de prendre en charge les éléments de passif ou une catégorie d’éléments de passif du secteur fusionné;
+
 b) l’excédent d’impôt découlant de l’augmentation des taux d’imposition ne dépasse pas la valeur des éléments de passif visés à l’alinéa a).
 
 ### Restriction
@@ -472,7 +527,9 @@ b) l’excédent d’impôt découlant de l’augmentation des taux d’impositi
 ### Idem
 
 (6) La ville ne peut pas adopter de règlement municipal en vertu du présent article pour une année donnée («l’année applicable») postérieure à 2002 à l’égard d’un secteur fusionné à moins que les conditions suivantes ne soient réunies :
+
 1. Elle a adopté un règlement municipal en vertu du présent article en 2002 à l’égard du secteur fusionné.
+
 2. Elle a adopté un règlement municipal en vertu du présent article à l’égard du secteur fusionné pour chaque année postérieure à 2002 et antérieure à l’année applicable.
 
 ### Idem
@@ -502,7 +559,9 @@ b) l’excédent d’impôt découlant de l’augmentation des taux d’impositi
 ### Définitions
 
 (13) Les définitions qui suivent s’appliquent au présent article.
+
 «éléments d’actif» Les réserves, les fonds de réserve et les autres éléments d’actif prescrits. («assets»)
+
 «éléments de passif» Les dettes et les autres éléments de passif prescrits. («liabilities») 1999, chap. 14, annexe B, par. 16 (13).
 
 ### Droits ou redevances : eaux d’égout
@@ -512,10 +571,15 @@ b) l’excédent d’impôt découlant de l’augmentation des taux d’impositi
 ### Impôts pour divers services
 
 18 (1) La ville peut constituer un ou plusieurs secteurs de services municipaux et y prélever un ou plusieurs impôts extraordinaires locaux aux termes de l’article 312 de la Loi de 2001 sur les municipalités pour recueillir tout ou partie des frais qu’elle engage pour les services suivants, y compris les frais liés à l’établissement, à la construction, à l’entretien, à l’exploitation, à l’agrandissement, à l’amélioration et au financement de ces services :
+
 1. L’approvisionnement en eau et sa distribution.
+
 2. La protection et la prévention contre l’incendie.
+
 3. Les transports en commun, à l’exclusion des voies publiques.
+
 4. L’éclairage des rues.
+
 5. Le captage et l’évacuation des eaux d’égout.
 
 ### Idem
@@ -525,6 +589,7 @@ b) l’excédent d’impôt découlant de l’augmentation des taux d’impositi
 ### Pouvoir d’imposition de secteur
 
 19 (1) La définition qui suit s’applique au présent article.
+
 «pouvoir d’imposition de secteur» Pouvoir prévu par l’article 15 ou 18 de la présente loi ou par une autre disposition d’une loi, d’un règlement, d’un ordre, d’une ordonnance ou d’un arrêté qui autorise la ville à recueillir les frais liés à des services en prélevant des impôts sur moins de la totalité des biens imposables de celle-ci.
 
 ### Obligation
@@ -542,15 +607,21 @@ b) l’excédent d’impôt découlant de l’augmentation des taux d’impositi
 ### Plafond d’emprunt pour 2001
 
 19.1 Pour l’application du paragraphe 187 (4) de la Loi sur les municipalités, les revenus estimatifs de la ville pour 2000 correspondent à la somme de ce qui suit :
+
 a) les revenus estimatifs des anciennes municipalités tels qu’ils figurent dans les prévisions budgétaires adoptées pour 2000;
+
 b) les revenus estimatifs de chacune des municipalités démembrées tels qu’ils figurent dans les prévisions budgétaires adoptées pour 2000, multipliés par le pourcentage prescrit pour chaque municipalité.
 
 ### Excédent ou déficit de fonctionnement pour 2001
 
 19.2 Pour l’application du paragraphe 367 (3) de la Loi sur les municipalités, l’excédent ou le déficit de fonctionnement, selon le cas, dont la ville doit tenir compte pour 2001 est calculé comme suit :
+
 1. Soustraire la somme des déficits de fonctionnement vérifiés des anciennes municipalités au 31 décembre 2000 de la somme des excédents vérifiés de celles-ci à la même date.
+
 2. Pour chaque municipalité démembrée, multiplier le déficit de fonctionnement vérifié ou l’excédent vérifié, selon le cas, au 31 décembre 2000 par le pourcentage prescrit pour la municipalité.
+
 3. Additionner les résultats obtenus pour chaque municipalité démembrée aux termes de la disposition 2 pour calculer le total de toutes les municipalités démembrées.
+
 4. Additionner les totaux obtenus aux termes des dispositions 1 et 3.
 
 ### Versement de dommages-intérêts aux employés
@@ -602,7 +673,9 @@ b) les revenus estimatifs de chacune des municipalités démembrées tels qu’i
 ### Tâche du conseil
 
 (5) Le conseil de transition a pour tâche principale de faciliter la transition entre les anciennes municipalités, les municipalités démembrées et leurs conseils locaux, d’une part, et la ville, la ville de Norfolk et leurs conseils locaux, d’autre part :
+
 a) en contrôlant les décisions des anciennes municipalités, des municipalités démembrées et de leurs conseils locaux qui pourraient avoir des répercussions financières importantes pour la ville, la ville de Norfolk et leurs conseils locaux;
+
 b) en élaborant des plans d’activités pour la ville, la ville de Norfolk et leurs conseils locaux afin de maximiser l’efficience et les économies de cette nouvelle structure municipale.
 
 ### Pouvoirs et fonctions
@@ -624,9 +697,13 @@ b) en élaborant des plans d’activités pour la ville, la ville de Norfolk et 
 ### Idem
 
 (10) Sans préjudice de la portée générale du paragraphe (9), un règlement traitant des pouvoirs et des fonctions du conseil de transition peut :
+
 a) énoncer les pouvoirs et fonctions du conseil à l’égard du ministre, du conseil lui-même, de la ville et de ses conseils locaux, de la ville de Norfolk et de ses conseils locaux, des anciennes municipalités et de leurs conseils locaux et des municipalités démembrées et de leurs conseils locaux;
+
 b) prévoir que le conseil est réputé une municipalité, y compris une municipalité régionale, pour l’application de toute loi, laquelle s’appliquerait alors au conseil avec les adaptations précisées dans le règlement;
+
 c) autoriser le conseil à donner des directives à l’égard des questions précisées dans le règlement;
+
 d) préciser les questions ayant trait à la procédure et au fonctionnement du conseil.
 
 ### Idem
@@ -684,7 +761,9 @@ d) préciser les questions ayant trait à la procédure et au fonctionnement du 
 ### Pouvoir : employés des municipalités démembrées
 
 25 (1) Le conseil de transition détermine si un employé d’une municipalité démembrée ou d’un de ses conseils locaux est, le 1 er janvier 2001 :
+
 a) soit un employé de la ville ou d’un de ses conseils locaux;
+
 b) soit un employé de la ville de Norfolk ou d’un de ses conseils locaux.
 
 ### Idem
@@ -702,7 +781,9 @@ b) soit un employé de la ville de Norfolk ou d’un de ses conseils locaux.
 ### Idem
 
 (2) Le contrat doit être un des contrats suivants :
+
 1. Un contrat conclu après le 8 octobre 1999 et qui contient une disposition visée au paragraphe (3).
+
 2. Un contrat modifié après le 8 octobre 1999 de façon à inclure une disposition visée au paragraphe (3).
 
 ### Disposition
@@ -712,6 +793,7 @@ b) soit un employé de la ville de Norfolk ou d’un de ses conseils locaux.
 ### Définition
 
 (4) La définition qui suit s’applique au présent article.
+
 «rétribution» S’entend en outre des indemnités de cessation d’emploi et des paiements effectués pendant un délai de préavis ou des paiements tenant lieu d’un tel préavis.
 
 ### Pouvoir d’engager certains employés
@@ -721,29 +803,49 @@ b) soit un employé de la ville de Norfolk ou d’un de ses conseils locaux.
 ### Idem
 
 (2) Lorsque le conseil de transition engage une personne aux termes du paragraphe (1), les règles suivantes s’appliquent :
+
 1. Le conseil de transition a le pouvoir de négocier avec la personne les conditions de son contrat de travail.
+
 2. Le contrat de travail lie la ville.
+
 3. Le contrat de travail peut prendre effet le 1 er janvier 2001 ou avant cette date.
+
 4. Si le contrat prend effet avant le 1 er janvier 2001, la personne est un employé du conseil de transition avant cette date et un employé de la ville par la suite. S’il prend effet le 1 er janvier 2001, la personne est un employé de la ville.
+
 5. Pendant qu’elle est un employé du conseil de transition, la personne est réputée un employé au sens de la Loi sur le régime de retraite des employés municipaux de l’Ontario, et le conseil de transition est réputé, à l’égard de cette personne, un employeur au sens de cette loi.
+
 6. Le 1 er janvier 2001, le conseil municipal est réputé avoir pris toutes les mesures qui peuvent être exigées pour faire de la personne le titulaire réel de son poste.
 
 ### Pouvoir : renseignements
 
 28 (1) Pour obtenir des renseignements, des dossiers et des documents d’une ancienne municipalité, d’une municipalité démembrée et d’un conseil local de l’une ou l’autre, le conseil de transition peut faire ce qui suit :
+
 1. Exiger de l’ancienne municipalité, de la municipalité démembrée ou du conseil local qu’il lui présente un rapport qui :
+
 i. d’une part, énumère les éléments d’actif et de passif de l’ancienne municipalité, de la municipalité démembrée ou du conseil local, ou des catégories précisées de ces éléments,
+
 ii. d’autre part, indique le nom des membres et employés de l’ancienne municipalité, de la municipalité démembrée ou du conseil local ainsi que leur poste, leurs conditions de travail, leur rémunération et leurs avantages rattachés à l’emploi.
+
 2. Exiger de l’ancienne municipalité ou de la municipalité démembrée qu’elle lui présente un rapport qui énumère les entités, y compris les conseils locaux, qui, selon le cas :
+
 i. ont été créées par l’ancienne municipalité ou la municipalité démembrée ou pour l’une ou l’autre et qui existent encore au moment où le rapport est établi,
+
 ii. ont reçu un financement de l’ancienne municipalité ou de la municipalité démembrée en 1999.
+
 3. Exiger de l’ancienne municipalité ou de la municipalité démembrée qu’elle lui présente un rapport qui :
+
 i. d’une part, énumère les entités, y compris les conseils locaux, dont l’ancienne municipalité ou la municipalité démembrée a le pouvoir de nommer les membres,
+
 ii. d’autre part, pour chaque entité, indique l’origine du pouvoir de nomination, le nom des personnes en poste qui ont été ainsi nommées et la date à laquelle leur mandat prend fin.
+
 4. Exiger de l’ancienne municipalité, de la municipalité démembrée ou du conseil local qu’il lui fournisse des renseignements, des dossiers ou des documents qui sont en sa possession ou dont il a le contrôle et qui se rapportent aux fonctions du conseil de transition.
+
 5. Exiger de l’ancienne municipalité, de la municipalité démembrée ou du conseil local qu’il crée, en rassemblant des renseignements existants, un nouveau document ou un nouveau dossier qui se rapporte aux fonctions du conseil de transition, et le lui remette.
+
 6. Exiger de l’ancienne municipalité, de la municipalité démembrée ou du conseil local qu’il lui présente un rapport sur toute question que précise le conseil de transition et qui se rapporte à ses fonctions.
+
 7. Exiger de l’ancienne municipalité, de la municipalité démembrée ou du conseil local qu’il mette à jour des renseignements qui ont été fournis antérieurement au conseil de transition aux termes des dispositions précédentes.
+
 8. Fixer une date limite à laquelle une exigence imposée aux termes des dispositions précédentes doit être remplie.
 
 ### Incompatibilité
@@ -765,7 +867,9 @@ ii. d’autre part, pour chaque entité, indique l’origine du pouvoir de nomin
 ### Collaboration
 
 29 (1) Les membres du conseil de chaque ancienne municipalité et municipalité démembrée, les employés et représentants de l’une ou l’autre et les membres, employés et représentants de chaque conseil local de l’une ou l’autre :
+
 a) d’une part, collaborent avec les membres, employés et représentants du conseil de transition, les aident dans l’exercice de leurs fonctions et se conforment aux demandes qu’ils font en vertu de la présente loi;
+
 b) d’autre part, sur demande, permettent à quiconque est visé à l’alinéa a) d’examiner et de copier tout document, dossier ou autre renseignement que l’ancienne municipalité, la municipalité démembrée ou le conseil local, selon le cas, a en sa possession ou sous son contrôle et qui se rapporte aux fonctions du conseil de transition.
 
 ### Incompatibilité
@@ -779,7 +883,9 @@ b) d’autre part, sur demande, permettent à quiconque est visé à l’alinéa
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les renseignements personnels visés à ce paragraphe comprennent les renseignements se rapportant à ce qui suit :
+
 a) une opération financière ou un projet d’opération financière d’une ancienne municipalité, d’une municipalité démembrée ou d’un conseil local de l’une ou l’autre;
+
 b) tout ce qui est accompli ou projeté d’être accompli relativement aux finances d’une ancienne municipalité, d’une municipalité démembrée ou d’un conseil local de l’une ou l’autre par un membre du conseil de la municipalité ou du conseil local ou par un employé ou représentant de la municipalité ou du conseil local.
 
 ### Infraction
@@ -797,8 +903,11 @@ b) tout ce qui est accompli ou projeté d’être accompli relativement aux fina
 ### Idem
 
 (2) Le paragraphe (1) s’applique également à l’égard d’un employé ou représentant d’une ancienne municipalité, d’une municipalité démembrée ou d’un conseil local de l’une ou l’autre qui agit selon les directives, selon le cas :
+
 a) du conseil de transition ou de l’un de ses membres;
+
 b) du conseil de l’ancienne municipalité ou de la municipalité démembrée;
+
 c) du conseil local.
 
 ### Responsabilité du fait d’autrui
@@ -838,8 +947,11 @@ c) du conseil local.
 ### Critères de répartition
 
 (4) Le comité peut répartir les éléments d’actif et de passif d’une municipalité démembrée, d’un de ses conseils locaux ou du conseil de transition en se fondant sur les critères suivants :
+
 1. Le comité tient compte de la question de savoir si un élément d’actif ou de passif concerne principalement des questions qui relèveront de la compétence de la ville, de la ville de Norfolk ou d’un conseil local particulier de l’une ou l’autre, ou s’il est utilisé principalement dans le cadre de telles questions.
+
 2. Le comité peut tenir compte de la question de savoir si la répartition d’un élément d’actif ou de passif selon un autre critère est raisonnable dans les circonstances et peut effectuer une telle répartition.
+
 3. S’il effectue une répartition conformément à la disposition 2, le comité peut prévoir des rajustements monétaires pour tenir compte des répercussions que le fait de procéder ainsi plutôt que conformément à la disposition 1 aura sur l’autre municipalité ou conseil local.
 
 ### Composition
@@ -895,9 +1007,13 @@ c) du conseil local.
 ### Règlements : pouvoirs et fonctions
 
 35 (1) Le ministre peut, par règlement, prévoir qu’une ancienne municipalité, une municipalité démembrée ou un conseil local de l’une ou l’autre :
+
 a) ne doit pas exercer les pouvoirs précisés que confère une loi particulière;
+
 b) ne doit pas exercer les pouvoirs précisés que confère une loi particulière si ce n’est de la manière précisée dans le règlement;
+
 c) ne doit pas exercer les pouvoirs précisés que confère une loi particulière sans l’approbation du conseil de transition ou de l’autre personne ou organisme précisé dans le règlement;
+
 d) ne doit pas exercer les pouvoirs précisés que confère une loi particulière si ce n’est conformément aux directives éventuelles données par le conseil de transition en vertu de la présente loi.
 
 ### Idem
@@ -907,13 +1023,21 @@ d) ne doit pas exercer les pouvoirs précisés que confère une loi particulièr
 ### Idem
 
 (3) Les règles suivantes s’appliquent à l’égard des règlements pris en application du paragraphe (1) :
+
 1. Un règlement ne peut pas empêcher une ancienne municipalité, une municipalité démembrée ou un conseil local d’accomplir tout ce qu’il est par ailleurs tenu par la loi d’accomplir.
+
 2. Un règlement ne peut pas empêcher une ancienne municipalité, une municipalité démembrée ou un conseil local de prendre des mesures dans une situation d’urgence.
+
 3. Un règlement ne peut pas empêcher l’exécution d’un contrat conclu avant l’entrée en vigueur du présent paragraphe.
+
 4. Un règlement ne peut pas empêcher un acte qui est approuvé par les directives que donne le conseil de transition en vertu de la présente loi ou accompli conformément à celles-ci.
+
 5. Un règlement ne peut pas empêcher un acte prévu par un règlement municipal ou une résolution qui contient également des dispositions voulant que le règlement municipal ou la résolution n’entre pas en vigueur tant que, selon le cas :
+
 i. l’approbation du conseil de transition ou de l’autre personne ou organisme précisé dans un règlement pris en application de l’alinéa (1) c) n’a pas été obtenue,
+
 ii. les directives autorisant l’acte ne sont pas données par le conseil de transition en vertu de la présente loi.
+
 6. Si le conseil de transition ou une autre personne ou un autre organisme est autorisé à donner une approbation en vertu de la présente loi, il peut approuver un acte à l’avance ou de façon rétroactive et peut assortir l’approbation de conditions.
 
 ### Dépenses du conseil de transition en 2000
@@ -977,7 +1101,9 @@ ii. les directives autorisant l’acte ne sont pas données par le conseil de tr
 ### Accord : modification des unités de négociation
 
 (2) L’accord n’entre en vigueur qu’au dernier en date des jours suivants :
+
 a) le jour où il est satisfait aux conditions visées aux paragraphes 20 (7) et (8) de la Loi de 1997 sur les relations de travail liées à la transition dans le secteur public ;
+
 b) le 1 er janvier 2001.
 
 ### Restrictions
@@ -999,7 +1125,9 @@ b) le 1 er janvier 2001.
 ### Accord : changement d’agents négociateurs
 
 (7) Si un accord est conclu en vertu du paragraphe (1), aucun accord conclu par les agents négociateurs visés en vertu de l’article 21 de la Loi de 1997 sur les relations de travail liées à la transition dans le secteur public n’entre en vigueur avant le dernier en date des jours suivants :
+
 a) le jour où il est satisfait aux conditions visées au paragraphe 21 (2) de cette loi;
+
 b) le 1 er janvier 2001.
 
 ### Avis de l’accord
@@ -1063,7 +1191,9 @@ b) le 1 er janvier 2001.
 ### Prolongation du mandat
 
 43 (1) Les personnes suivantes demeurent en fonction jusqu’à la constitution du premier conseil municipal si elles sont en fonction le 30 novembre 2000 :
+
 1. Les membres du conseil des anciennes municipalités et des municipalités démembrées.
+
 2. Les membres des conseils locaux des anciennes municipalités et des municipalités démembrées.
 
 ### Idem
@@ -1077,12 +1207,19 @@ b) le 1 er janvier 2001.
 ### Règles s’appliquant aux élections ordinaires
 
 44 Les règles suivantes s’appliquent aux élections ordinaires de 2000 qui se tiennent dans le secteur municipal :
+
 1. Les élections se tiennent comme si les articles 2, 3, 4, 5, 6 et 9 étaient déjà en vigueur.
+
 2. Le conseil de transition désigne une personne pour tenir les élections ordinaires de 2000 aux termes de la Loi de 1996 sur les élections municipales.
+
 3. Les secrétaires des anciennes municipalités et des municipalités démembrées et le secrétaire de la ville, s’il est nommé, aident la personne désignée aux termes de la disposition 2 et agissent selon ses directives.
+
 4. Le conseil de transition agit à titre de conseil municipal lorsqu’il s’agit de prendre les décisions que ce dernier est tenu de prendre aux termes de la Loi de 1996 sur les élections municipales à l’égard des élections ordinaires. Le conseil municipal prend ces décisions dès qu’il est constitué.
+
 5. Les frais des élections dans le secteur municipal qui sont payables en 2000 sont inscrits au budget de fonctionnement de 2000 de la municipalité régionale de Haldimand-Norfolk et sont acquittés par cette dernière selon les directives de la personne désignée aux termes de la disposition 2. Les frais des élections dans le secteur municipal qui sont payables en 2001 sont acquittés par la ville.
+
 6. Chaque municipalité de secteur au sens de la Loi sur la municipalité régionale de Haldimand-Norfolk inscrit à son budget de fonctionnement de 2000 une somme égale à celle qu’elle aurait prévue pour couvrir les frais des élections ordinaires de 2000 si la présente loi n’avait pas été adoptée, et elle la verse à la municipalité régionale de Haldimand-Norfolk au plus tard le 1 er juillet 2000.
+
 7. La somme visée à la disposition 6 est prélevée d’abord sur toute réserve ou tout fonds de réserve que la municipalité de secteur a constitué antérieurement pour couvrir les frais des élections ordinaires de 2000.
 
 ### Dispositions générales
@@ -1102,15 +1239,21 @@ b) le 1 er janvier 2001.
 ### Idem, ministre
 
 (2) Le ministre peut, par règlement :
+
 a) prescrire tout ce que la présente loi exige ou permet de faire ou de prescrire par règlement pris en application de celle-ci;
+
 b) définir tout terme utilisé mais non expressément défini dans la présente loi;
+
 c) prévoir toute mesure de transition qui, à son avis, est nécessaire ou souhaitable pour la mise en application efficace de la présente loi;
+
 d) constituer des quartiers pour l’application de l’article 3.
 
 ### Exemples
 
 (3) Les règlements pris en application de l’alinéa (2) c) peuvent prévoir, par exemple :
+
 a) que la ville peut contracter des emprunts à long terme pour payer les dépenses de fonctionnement liées aux frais de la transition, au sens des règlements, sous réserve des conditions et des restrictions prescrites;
+
 b) que, pour l’application de l’article 8 de la Loi de 1996 sur les élections municipales, le ministre peut exiger qu’une question soit soumise aux électeurs de tout ou partie du secteur municipal précisé dans les règlements.
 
 ### Portée
@@ -1128,7 +1271,9 @@ b) que, pour l’application de l’article 8 de la Loi de 1996 sur les électio
 ### Idem
 
 (2) Les dispositions des règlements pris en application de la présente loi l’emportent sur les dispositions incompatibles de la présente loi, d’une autre loi ou d’un règlement pris en application de celle-ci.
+
 48 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 49 Omis (édicte le titre abrégé de la présente loi).
 
 ## Annexe A Le secteur municipal
@@ -1140,14 +1285,25 @@ La totalité de la partie de la cité de Nanticoke, telle qu’elle existe le 31
 ### Description :
 
 COMMENÇANT à l’intersection de la ligne médiane de la route régionale no 74 et de la limite sud-ouest du comté de Brant;
+
 DE LÀ, suivant vers le sud la ligne médiane de la route régionale no 74 jusqu’à son intersection avec le prolongement de la ligne médiane de la réserve routière située entre les concessions nos 11 et 12 du canton géographique de Townsend;
+
 DE LÀ, suivant vers l’ouest ce prolongement et la ligne médiane de la réserve routière jusqu’à son intersection avec le prolongement de la limite entre les lots nos 20 et 21 de la concession no 12 du canton géographique de Townsend;
+
 DE LÀ, suivant vers le sud ce prolongement et la limite entre les lots nos 20 et 21 à travers les concessions nos 12 et 13 du canton géographique de Townsend, jusqu’à la ligne de séparation entre les moitiés nord et sud de la concession no 13;
+
 DE LÀ, suivant vers l’ouest la ligne de séparation jusqu’à la ligne de séparation entre les moitiés est et ouest du lot no 20 de la concession no 13;
+
 DE LÀ, suivant vers le sud la ligne de séparation entre les moitiés est et ouest du lot no 20 à travers les concessions nos 13 et 14 du canton géographique de Townsend, jusqu’à la limite sud de l’emprise de chemin de fer allant d’est en ouest à travers le lot no 20 de la concession no 14;
+
 DE LÀ, suivant vers l’est la limite sud de l’emprise de chemin de fer jusqu’à son intersection avec la limite entre les lots nos 20 et 21 de la concession no 14;
+
 DE LÀ, suivant vers le sud la limite entre les lots nos 20 et 21 et son prolongement vers le sud, jusqu’à la ligne médiane de la route principale no 3;
+
 DE LÀ, suivant vers l’est la ligne médiane de la route principale no 3 jusqu’à son intersection avec le prolongement de la ligne médiane de la route régionale no 70;
+
 DE LÀ, suivant vers le sud ce prolongement et la ligne médiane de la route régionale no 70 et son prolongement vers le sud, jusqu’à son intersection avec la ligne médiane de la route principale no 6;
+
 DE LÀ, suivant vers le sud-ouest la ligne médiane de la route principale no 6 jusqu’à son intersection avec le prolongement de la limite entre les lots nos 20 et 21 de la concession no 3 du canton géographique de Woodhouse;
+
 DE LÀ, suivant vers le sud ce prolongement et la limite entre les lots nos 20 et 21 à travers les concessions nos 2, 3 et 1 du canton géographique de Woodhouse, jusqu’à la limite du lac Érié.

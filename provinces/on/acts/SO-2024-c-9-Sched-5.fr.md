@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-05-16"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24p09"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # protection contre les taxes sur le carbone (Loi de 2024 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24p09) before relying on it.
 
 L.O. 2024, chap. 9, annexe 5
 
@@ -21,10 +21,15 @@ L.O. 2024, chap. 9, annexe 5
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «directeur général des élections» Le directeur général des élections nommé aux termes de la Loi électorale. («Chief Electoral Officer»)
+
 «gaz à effet de serre» S’entend au sens de la Loi sur la protection de l’environnement. («greenhouse gas»)
+
 «organisateur de campagne» Personne ou entité que l’article 9 oblige à demander son inscription auprès du directeur général des élections. («campaign organizer»)
+
 «personne» S’entend en outre d’un syndicat. («person»)
+
 «programme de tarification du carbone» Programme visant à réduire les émissions de gaz à effet de serre par la mise en place d’un impôt, d’une taxe, de droits, de redevances ou d’un autre prélèvement sur ces émissions. («carbon pricing program»)
 
 ### Protection en matière de tarification du carbone
@@ -32,13 +37,17 @@ L.O. 2024, chap. 9, annexe 5
 ### Restriction relative à l’établissement d’un programme de tarification du carbone
 
 2 (1) Les membres du Conseil exécutif ne doivent pas inclure dans un projet de loi une disposition qui établit un programme de tarification du carbone, sauf si les conditions suivantes sont réunies :
+
 a) un référendum sur le programme de tarification du carbone est tenu aux termes de la présente loi avant le dépôt du projet de loi devant l’Assemblée;
+
 b) le référendum autorise le programme de tarification du carbone.
 
 ### Idem : règlement
 
 (2) Toute personne ou entité habilitée à prendre un règlement ne doit prendre aucun règlement qui établit un programme de tarification du carbone, à moins que ne soient réunies les conditions suivantes :
+
 a) un référendum sur le programme de tarification du carbone est tenu aux termes de la présente loi avant la prise du règlement;
+
 b) le référendum autorise le programme de tarification du carbone.
 
 ### Idem
@@ -48,7 +57,9 @@ b) le référendum autorise le programme de tarification du carbone.
 ### Restriction de pouvoir : programme de tarification du carbone
 
 3 Les membres du Conseil exécutif ne doivent pas inclure dans un projet de loi une disposition qui accorde à une personne ou à un organisme, autre que la Couronne, le pouvoir d’établir un programme de tarification du carbone, sauf si les conditions suivantes sont réunies :
+
 a) un référendum sur le pouvoir accordé à la personne ou à l’organisme est tenu aux termes de la présente loi avant le dépôt du projet de loi devant l’Assemblée;
+
 b) le référendum autorise que le pouvoir soit accordé à la personne ou à l’organisme.
 
 ### La question référendaire et l’effet du référendum
@@ -80,8 +91,11 @@ b) le référendum autorise que le pouvoir soit accordé à la personne ou à l�
 ### Avis public
 
 (3) Avant de délivrer un bref référendaire, le lieutenant-gouverneur en conseil remet les documents suivants au greffier de l’Assemblée et les met à la disposition du public :
+
 1. Une copie de la question référendaire.
+
 2. Une copie de la question proposée remise au directeur général des élections et l’avis reçu de celui-ci à son propos.
+
 3. Une déclaration qui précise l’augmentation des recettes annuelles que le gouvernement de l’Ontario attend de tout projet d’établissement d’un programme de tarification du carbone visé par la question référendaire.
 
 ### Effet du référendum
@@ -113,7 +127,9 @@ b) le référendum autorise que le pouvoir soit accordé à la personne ou à l�
 ### Exception
 
 (3) La personne ou l’entité n’est pas tenue de demander son inscription si elle satisfait aux exigences suivantes :
+
 1. Elle ne doit pas dépenser plus de 1 000 $ dans le cadre de la campagne organisée pour solliciter des suffrages ou pour favoriser l’obtention d’un résultat donné.
+
 2. Elle ne doit pas ajouter ses fonds à ceux d’une autre personne ou entité puis les dépenser dans le cadre de la campagne organisée pour solliciter des suffrages ou pour favoriser l’obtention d’un résultat donné.
 
 ### Idem
@@ -171,6 +187,7 @@ b) le référendum autorise que le pouvoir soit accordé à la personne ou à l�
 ### Publicité constituant une contribution
 
 12 (1) La définition qui suit s’applique au présent article.
+
 «publicité liée à la campagne» S’entend en outre de l’impression de documents, mais non des reportages.
 
 ### Seuil
@@ -188,15 +205,21 @@ b) le référendum autorise que le pouvoir soit accordé à la personne ou à l�
 ### Dossiers
 
 (5) Le radiodiffuseur ou l’éditeur garde pendant au moins deux ans les renseignements suivants, qu’il met, sur demande, à la disposition du public aux fins d’examen :
+
 1. Une copie de la publicité liée à la campagne.
+
 2. Les dates et, le cas échéant, les heures de radiodiffusion ou de publication de la publicité.
+
 3. Les noms qui lui ont été fournis aux termes du paragraphe (4).
+
 4. La somme exigée pour radiodiffuser ou publier la publicité.
+
 5. La somme qu’il aurait normalement exigée pour radiodiffuser ou publier la publicité, si elle est différente de celle effectivement exigée.
 
 ### Période de diffusion de la publicité liée à la campagne
 
 13 (1) La définition qui suit s’applique au présent article.
+
 «période d’interdiction» S’entend du jour du référendum et de la veille.
 
 ### Idem
@@ -210,17 +233,25 @@ b) le référendum autorise que le pouvoir soit accordé à la personne ou à l�
 ### Exceptions
 
 (4) Les paragraphes (2) et (3) n’ont pas pour effet d’interdire ce qui suit :
+
 1. La publication d’une publicité liée à la campagne, le jour du référendum ou la veille, dans un journal qui est publié une fois par semaine ou moins souvent et dont le jour régulier de publication tombe ce jour-là.
+
 2. Une annonce publicitaire liée à la campagne qui paraît sur l’Internet ou dans un média électronique semblable, si elle y est affichée avant la période d’interdiction et qu’elle n’est pas modifiée pendant cette période.
+
 3. Une annonce publicitaire liée à la campagne sous forme d’affiche ou de panneau, si elle est affichée avant la période d’interdiction et qu’elle n’est pas modifiée pendant cette période.
 
 ### Exceptions assujetties aux lignes directrices
 
 (5) Les paragraphes (2) et (3) ne s’appliquent pas à l’égard des activités suivantes si elles sont exercées conformément aux lignes directrices du directeur général des élections :
+
 1. L’annonce d’assemblées publiques.
+
 2. L’annonce de l’emplacement du bureau central d’un organisateur de campagne inscrit.
+
 3. L’annonce visant à solliciter des travailleurs bénévoles pour la campagne.
+
 4. L’annonce des services qu’offrira un organisateur de campagne inscrit en ce qui a trait au recensement et à la révision des listes électorales.
+
 5. L’annonce des services qu’offrira le jour du référendum un organisateur de campagne inscrit.
 
 ### Plafond des dépenses liées à la campagne
@@ -242,8 +273,11 @@ b) le référendum autorise que le pouvoir soit accordé à la personne ou à l�
 ### Rapport financier
 
 15 Le directeur des finances d’un organisateur de campagne inscrit dépose les documents suivants auprès du directeur général des élections dans les six mois qui suivent le référendum :
+
 1. Les états financiers de l’organisateur de campagne relatifs à la campagne référendaire.
+
 2. Les renseignements qu’exige le paragraphe 11 (3) relativement à la campagne.
+
 3. Le rapport du vérificateur sur les états financiers et sur les renseignements qu’exige le paragraphe 11 (3).
 
 ### Application de la Loi sur le financement des élections
@@ -253,6 +287,7 @@ b) le référendum autorise que le pouvoir soit accordé à la personne ou à l�
 ### Définition
 
 (2) La définition qui suit s’applique pour l’application de la présente loi.
+
 «personne» Dans la Loi sur le financement des élections, ce terme est réputé s’entendre en outre d’une personne morale et d’un syndicat.
 
 ### Application de la Loi électorale
@@ -268,11 +303,17 @@ b) le référendum autorise que le pouvoir soit accordé à la personne ou à l�
 ### Infractions
 
 19 (1) Est coupable d’une infraction la personne ou l’entité qui contrevient ou ne se conforme pas à l’une ou l’autre des dispositions suivantes :
+
 1. Le paragraphe 9 (1) ou (2) (inscription de l’organisateur de campagne).
+
 2. Le paragraphe 10 (1) ou (2) (réception de contributions).
+
 3. Le paragraphe 11 (1) (plafond des contributions).
+
 4. Le paragraphe 12 (4) (restriction concernant la publicité liée à la campagne).
+
 5. Le paragraphe 13 (2) ou (3) (période de diffusion de la publicité liée à la campagne).
+
 6. L’article 15 (rapport financier sur la campagne).
 
 ### Idem
@@ -286,6 +327,9 @@ b) le référendum autorise que le pouvoir soit accordé à la personne ou à l�
 ### Idem
 
 (4) Est passible d’une amende maximale de 100 000 $ la personne morale, le syndicat ou l’autre entité qui est déclaré coupable d’une infraction.
+
 20-22 Omis (modification ou abrogation d’autres textes législatifs).
+
 23 Omis (entrée en vigueur de dispositions de la présente loi).
+
 24 Omis (édiction du titre abrégé de la présente loi).

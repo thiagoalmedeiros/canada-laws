@@ -6,21 +6,24 @@ language: fr
 type: act
 document_date: "2026-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24b12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Fonds ontarien pour la construction (Loi de 2024 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24b12) before relying on it.
 
 L.O. 2024, chap. 12, annexe 1
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «investisseur institutionnel admissible» S’entend d’une institution financière, d’une caisse de retraite, d’un fonds d’investissement ou de toute autre entité prescrite par les règlements. («qualified institutional investor»)
+
 «ministre» Le ministre des Finances ou le ministre de la Couronne à qui les pouvoirs et fonctions prévus par la présente loi sont assignés ou transférés en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «Société» Le Fonds ontarien pour la construction. («Corporation»)
 
 ### Prorogation de la Société
@@ -46,12 +49,19 @@ L.O. 2024, chap. 12, annexe 1
 ### Objets
 
 3 Les objets de la Société sont les suivants :
+
 a) faire, des manières suivantes, des investissements et chercher à attirer, de la part d’investisseurs institutionnels admissibles, d’entités du secteur public, de gouvernements et de communautés autochtones, en accordant la priorité aux investisseurs canadiens, des investissements dans des projets d’infrastructure situés en Ontario qui généreront des recettes et qui seront dans l’intérêt public :
+
 (i) investir dans l’infrastructure et répartir adéquatement les risques entre la Société et les autres investisseurs,
+
 (ii) structurer des propositions et négocier des ententes avec les investisseurs dans des projets d’infrastructure,
+
 (iii) recevoir et évaluer des idées et des propositions non sollicitées de projets d’infrastructure provenant d’investisseurs institutionnels admissibles, d’entités du secteur public, de gouvernements ou de communautés autochtones,
+
 (iv) fournir des services consultatifs à l’égard du financement de projets d’infrastructure, notamment à l’égard des structures de prêt et des domaines recelant des possibilités d’investissement;
+
 b) mener d’autres activités compatibles avec ses objets qui sont décrites dans les politiques ou les directives émanant du ministre ou énoncées dans un accord conclu avec ce dernier;
+
 c) recevoir des éléments d’actif ou s’en occuper, notamment les détenir, les placer ou les vendre afin de réaliser ses objets.
 
 ### Mandataire de la Couronne
@@ -125,9 +135,13 @@ c) recevoir des éléments d’actif ou s’en occuper, notamment les détenir, 
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), le conseil d’administration peut, par règlement administratif ou résolution :
+
 a) nommer des dirigeants et leur attribuer les pouvoirs et fonctions qu’il estime appropriés;
+
 b) créer des comités en son sein et leur déléguer des pouvoirs et des fonctions;
+
 c) régir la rémunération et les avantages sociaux des employés de la Société;
+
 d) assurer la bonne marche des affaires de la Société.
 
 ### Maintien en vigueur des règlements
@@ -169,7 +183,9 @@ d) assurer la bonne marche des affaires de la Société.
 ### Investissements
 
 11 Sans préjudice de la portée générale des pouvoirs conférés à la Société en vertu de l’article 10, la Société peut prendre les mesures suivantes :
+
 a) faire des investissements pour réaliser ses objets, y compris au moyen de placements en actions, de prêts, d’acquisitions de produits dérivés, ou en offrant des garanties;
+
 b) acquérir et retenir, réaliser ou aliéner une sûreté, quelles qu’en soient la nature et la forme, notamment des intérêts ou droits sur des biens personnels ou réels en garantie de la bonne exécution des ententes ou accords conclus avec la Société et garder et utiliser le produit de l’aliénation.
 
 ### Restriction des pouvoirs : approbation du ministre
@@ -195,7 +211,9 @@ b) acquérir et retenir, réaliser ou aliéner une sûreté, quelles qu’en soi
 ### Restrictions des pouvoirs d’emprunt et de gestion des risques financiers
 
 15 (1) La Société ne doit pas contracter des emprunts ou gérer des risques financiers, sauf si les conditions suivantes sont réunies :
+
 a) un règlement administratif de la Société autorise l’activité et le ministre a approuvé le règlement;
+
 b) sous réserve du paragraphe (2), l’Office ontarien de financement coordonne et organise l’activité.
 
 ### Directive du ministre des Finances
@@ -289,8 +307,11 @@ b) sous réserve du paragraphe (2), l’Office ontarien de financement coordonne
 ### Irrecevabilité de certaines instances
 
 23 (1) Sont irrecevables les instances qui sont introduites :
+
 a) contre toute personne mentionnée au paragraphe 21 (1) à l’égard d’une question visée à ce paragraphe;
+
 b) contre la Couronne ou toute personne mentionnée au paragraphe 21 (1) à l’égard d’une question visée au paragraphe 21 (3);
+
 c) contre toute personne mentionnée au paragraphe 22 (1) à l’égard d’une question visée à ce paragraphe.
 
 ### Idem
@@ -324,7 +345,9 @@ c) contre toute personne mentionnée au paragraphe 22 (1) à l’égard d’une 
 ### Directives relatives au rapport annuel
 
 (3) La Société se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Éléments supplémentaires
@@ -342,9 +365,13 @@ b) le moment où il faut le mettre à la disposition du public et la manière de
 ### Idem
 
 (2) Le plan d’activités doit couvrir une période de cinq ans et comprendre ce qui suit :
+
 a) le projet de budget de fonctionnement de la Société pour l’exercice et les deux exercices suivants;
+
 b) les recettes projetées de la Société et leur provenance;
+
 c) les objectifs de rendement de la Société pour l’exercice suivant;
+
 d) les autres renseignements qu’exige le ministre.
 
 ### Autres rapports
@@ -374,18 +401,25 @@ d) les autres renseignements qu’exige le ministre.
 ### Liquidation
 
 32 Si le lieutenant-gouverneur en conseil juge qu’il est dans l’intérêt public de liquider les affaires de la Société, le ministre peut prendre les mesures nécessaires à cette fin et, notamment, des mesures à l’égard des éléments d’actif de la Société :
+
 a) soit en les liquidant ou en les vendant et en en versant le produit au Trésor;
+
 b) soit en les transférant à la Couronne ou à un autre organisme de celle-ci.
 
 ### Règlements
 
 33 (1) Le lieutenant-gouverneur en conseil peut, par règlement, traiter de toute question nécessaire ou souhaitable pour réaliser efficacement l’objet de la présente loi. Il peut notamment prendre des règlements pour :
+
 a) prescrire tout ce que la présente loi mentionne comme étant prescrit par les règlements;
+
 b) régir la manière dont la Société peut réaliser ses objets.
 
 ### Idem : ministre
 
 (2) Le ministre peut, par règlement, traiter de tout ce qui est indiqué dans la présente loi comme étant fait par règlement pris par le ministre.
+
 34 Omis (modification ou abrogation d’autres textes législatifs).
+
 35 Omis (entrée en vigueur de dispositions de la présente loi).
+
 36 Omis (édiction du titre abrégé de la présente loi).

@@ -6,25 +6,32 @@ language: en
 type: act
 document_date: "2019-12-10"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96c17"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Agricultural Products Insurance Act, 1996
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96c17) before relying on it.
 
 S.O. 1996, c. 17, Sched. C
 
 ### Definitions
 
 1 In this Act,
+
 “AgriCorp” means the corporation established in section 1 of the AgriCorp Act, 1996; (“AgriCorp”)
+
 “agricultural products” means a product that is designated by regulation; (“produits agricoles”)
+
 “contract of insurance” means a contract of insurance between one or more persons and AgriCorp for the insurance of agricultural products within Ontario; (“contrat d’assurance”)
+
 “Fund” means the Ontario Agricultural Products Insurance Fund; (“Caisse”)
+
 “insured person” means a person who has entered into a contract of insurance with AgriCorp; (“assuré”)
+
 “Minister” means the Minister of Agriculture, Food and Rural Affairs or any other member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre”)
+
 “Tribunal” means the Agriculture, Food and Rural Affairs Appeal Tribunal continued under the Ministry of Agriculture, Food and Rural Affairs Act. (“Tribunal”)
 
 ### Contracts of Insurance
@@ -52,7 +59,9 @@ S.O. 1996, c. 17, Sched. C
 ### Retroactivity
 
 (2) An agreement mentioned in subsection (1) may provide that it is to come into effect, in whole or in part, before the date on which it is signed.
+
 (3) Repealed: 2010, c. 16, Sched. 1, s. 1 (6).
+
 4 Repealed: 2010, c. 16, Sched. 1, s. 1 (7).
 
 ### Terms of contracts of insurance
@@ -62,23 +71,37 @@ S.O. 1996, c. 17, Sched. C
 ### Ministerial approval
 
 (1.1) AgriCorp shall obtain the approval of the Minister before,
+
 (a) offering any new standard form contracts of insurance; or
+
 (b) making any changes to an existing standard form contract of insurance that affects,
+
 (i) the premium charged under the contract of insurance,
+
 (ii) the risks insured under the contract of insurance, or
+
 (iii) any other aspect of a contract of insurance that the Minister may direct.
 
 ### Powers of AgriCorp
 
 (2) AgriCorp has all the powers necessary to perform its duties including the power to,
+
 (a) determine the qualifications and requirements for a person to enter into a contract of insurance, including determining whether a person has an insurable interest in an agricultural product;
+
 (b) enter into contracts of insurance;
+
 (c) fix terms of contracts of insurance relating to replanting benefits, unplanted acreage benefits, salvage benefits, by-pass acreage benefits or any other benefit;
+
 (d) fix premium rates payable by insured persons;
+
 (e) fix the duration of contracts of insurance;
+
 (f) specify the circumstances in which an insured person may terminate a contract of insurance and the methods that the person may use to terminate the contract;
+
 (g) specify penalties imposed on an insured person who breaches the terms of a contract of insurance;
+
 (h) reinsure with any other insurer the risk or any portion of the risk under its contracts of insurance; and
+
 (i) terminate a contract of insurance on the terms that it considers appropriate.
 
 ### Deemed acceptance
@@ -88,14 +111,19 @@ S.O. 1996, c. 17, Sched. C
 ### Requirements for insured person
 
 (4) AgriCorp may enter into a contract of insurance to insure an agricultural product with any person who,
+
 (a) has an insurable interest in the agricultural product; and
+
 (b) otherwise meets the qualifications and requirements set by AgriCorp under clause (2) (a).
 
 ### More than one person with insurable interest
 
 (5) If more than one person has an insurable interest in an agricultural product, AgriCorp may enter into,
+
 (a) an individual contract of insurance with each person with an insurable interest in the agricultural product;
+
 (b) one contract of insurance with all persons with an insurable interest in the agricultural product; or
+
 (c) several contracts of insurance with respect to the agricultural product, some individual contracts and others that insure two or more persons with an insurable interest in the agricultural product.
 
 ### Contract restriction
@@ -105,15 +133,21 @@ S.O. 1996, c. 17, Sched. C
 ### Same, several insurable interests
 
 (7) The following conditions apply if AgriCorp enters into more than one contract of insurance with respect to one agricultural product:
+
 1. Each contract of insurance shall insure a different insurable interest in the agricultural product.
+
 2. The amount of insurance provided under all of the contracts of insurance is equal to the sum of each insured person’s entire insurable interest in the agricultural product, subject to paragraph 3.
+
 3. The amount of insurance provided under all of the contracts of insurance is not greater than the total value of the agricultural product.
 
 ### Insurable interest
 
 (8) For the purposes of this section, the following persons have an insurable interest in an agricultural product:
+
 1. A producer of the agricultural product.
+
 2. Any person who may benefit from the successful production of the agricultural product or who may be prejudiced by any loss or damage to the agricultural product.
+
 3. Any other person who, in the opinion of AgriCorp, has an insurable interest in the agricultural product.
 
 ### Not regulations
@@ -141,9 +175,13 @@ S.O. 1996, c. 17, Sched. C
 ### Inspection
 
 8 (1) An inspector may, in respect of an insured person, an applicant for a contract of insurance, a person who has applied to be enrolled in a plan administered by AgriCorp or a person who is entitled to receive payment under a plan administered by AgriCorp,
+
 (a) enter and inspect any lands and premises, other than a dwelling, that are owned or occupied by those persons, and inspect any goods located on those lands and premises; and
+
 (b) demand the production by those persons of books, records or documents or extracts from those books, records or documents relating to,
+
 (i) the agricultural products insured under the contract of insurance or to which the application relates, or
+
 (ii) the business of the person in respect of which the person has applied to be enrolled in a plan administered by AgriCorp or in respect of which the person is entitled to receive payment.
 
 ### Time of inspection
@@ -209,6 +247,7 @@ S.O. 1996, c. 17, Sched. C
 ### Decision binding
 
 (4) The decision of the Tribunal in an appeal is final and binding on the parties.
+
 (5) Repealed: 2019, c. 14, Sched. 3, s. 5 (4).
 
 ### Miscellaneous
@@ -220,7 +259,9 @@ S.O. 1996, c. 17, Sched. C
 ### Deposits into Fund
 
 (2) AgriCorp shall deposit into the Fund,
+
 (a) all money that it receives under this Act; and
+
 (b) all loans that it receives with respect to contracts of insurance.
 
 ### Not public money
@@ -238,11 +279,19 @@ S.O. 1996, c. 17, Sched. C
 ### Regulations by Minister
 
 11.1 The Minister may make regulations respecting any matter necessary or advisable to carry out effectively the purpose or intent of this Act including,
+
 (a) designating agricultural products for the purposes of this Act;
+
 (a.1) governing the manner in which appeals under section 10 may be commenced, including anything referred to in subsection 10 (2) as being specified by the regulations;
+
 (b) defining any word or expression used in this Act that has not already been expressly defined in this Act.
+
 12 Repealed: 2019, c. 14, Sched. 3, s. 8.
+
 13 Repealed: 2019, c. 14, Sched. 3, s. 8.
+
 14 Omitted (amends or repeals other Acts).
+
 15 Omitted (provides for coming into force of provisions of this Act).
+
 16 Omitted (enacts short title of this Act).

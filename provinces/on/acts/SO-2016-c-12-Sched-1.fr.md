@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16r12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # récupération des ressources et l'économie circulaire (Loi de 2016 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16r12) before relying on it.
 
 L.O. 2016, chap. 12, Annexe 1
 
@@ -23,20 +23,35 @@ L.O. 2016, chap. 12, Annexe 1
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «économie circulaire» Économie au sein de laquelle les participants s’efforcent de faire ce qui suit :
+
 a) minimiser l’utilisation de matières premières;
+
 b) maximiser la durée de vie utile de matériaux et d’autres ressources grâce à la récupération des ressources;
+
 c) minimiser les déchets produits à la fin de la vie utile de produits et d’emballages. («circular economy»)
+
 «ministère» Le ministère du ministre. («Ministry»)
+
 «ministre» Le ministre de l’Environnement, de la Protection de la nature et des Parcs ou l’autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «Office» L’Office de la productivité et de la récupération des ressources prorogé sous le régime de la partie III. («Authority»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «récupération des ressources» S’entend de l’extraction de matériaux utiles ou d’autres ressources à partir de choses qui, autrement, pourraient être des déchets, notamment grâce à la réutilisation, au recyclage, à la réintégration, à la régénération ou à d’autres activités. («resource recovery»)
+
 «réduction des déchets» S’entend de la minimisation des déchets produits à la fin de la vie utile de produits et d’emballages, notamment par le biais d’activités relatives à la conception, à la fabrication ou à l’utilisation des matériaux. («waste reduction»)
+
 «Registre» Le Registre visé à l’article 50, sauf si le contexte exige une autre interprétation. («Registry»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «ressources récupérées» Matériaux récupérés à partir de produits et d’emballages recueillis ou d’autres sources. («recovered resources»)
+
 «Stratégie» Le document élaboré en application de l’article 3, y compris les modifications qui y sont apportées en vertu de cet article. («Strategy»)
+
 «Tribunal» Le Tribunal ontarien de l’aménagement du territoire. («Tribunal») 2016, chap. 12, annexe 1, art. 1
 
 ### Intérêt provincial
@@ -44,22 +59,39 @@ c) minimiser les déchets produits à la fin de la vie utile de produits et d’
 ### Intérêt provincial
 
 2 Il est dans l’intérêt provincial que l’Ontario dispose d’un système de récupération des ressources et de réduction des déchets visant à :
+
 a) protéger l’environnement naturel et la santé humaine;
+
 b) favoriser la croissance et le développement continus de l’économie circulaire;
+
 c) minimiser les émissions de gaz à effet de serre provenant des activités de récupération des ressources et des activités de réduction des déchets;
+
 d) minimiser la production de déchets, y compris des déchets provenant des produits et des emballages;
+
 e) améliorer la durabilité, la réutilisabilité et la recyclabilité des produits et des emballages;
+
 f) attribuer aux personnes principalement responsables de leur conception la responsabilité des produits et des emballages une fois ceux-ci arrivés à la fin de leur vie utile;
+
 g) réduire les substances dangereuses ou toxiques utilisées dans les produits et les emballages;
+
 h) minimiser le besoin de recourir à l’élimination des déchets;
+
 i) minimiser les répercussions sur l’environnement des activités de récupération des ressources et des activités de réduction des déchets, y compris l’élimination des déchets;
+
 j) fournir des services liés à la récupération des ressources et à la réduction des déchets, y compris des services de gestion des déchets, qui sont efficaces, efficients, pratiques et fiables;
+
 k) accroître la réutilisation et le recyclage des déchets dans l’ensemble des secteurs de l’économie;
+
 l) améliorer les possibilités pour les ressources récupérées et en développer les marchés;
+
 m) promouvoir l’éducation et la sensibilisation du public au sujet de la récupération des ressources et de la réduction des déchets;
+
 n) promouvoir la coopération et la coordination entre les diverses personnes et entités prenant part à des activités de récupération des ressources et des activités de réduction des déchets;
+
 o) promouvoir la concurrence dans la prestation des services de récupération des ressources et des services de réduction des déchets;
+
 p) favoriser l’équité pour les consommateurs;
+
 q) faire toute autre chose s’y rapportant qui est prescrite.
 
 ### Stratégie
@@ -67,7 +99,9 @@ q) faire toute autre chose s’y rapportant qui est prescrite.
 ### Stratégie
 
 3 (1) Afin de favoriser l’intérêt provincial, le ministre, au plus tard 90 jours après l’entrée en vigueur du présent article, fait ce qui suit :
+
 a) il élabore une stratégie intitulée Stratégie pour un Ontario sans déchets : Vers une économie circulaire en français et Strategy for a Waste-Free Ontario: Building the Circular Economy en anglais;
+
 b) il publie la stratégie sur un site Web du gouvernement de l’Ontario.
 
 ### Idem
@@ -81,7 +115,9 @@ b) il publie la stratégie sur un site Web du gouvernement de l’Ontario.
 ### Idem
 
 (4) Dans le cadre de l’examen de la Stratégie, le ministre :
+
 a) consulte à propos de la Stratégie, de la façon qu’il estime appropriée, les personnes ou entités que la Stratégie pourrait, à son avis, intéresser, y compris le public;
+
 b) modifie la Stratégie en fonction du résultat des consultations, selon ce qu’il estime souhaitable.
 
 ### Modifications
@@ -91,20 +127,27 @@ b) modifie la Stratégie en fonction du résultat des consultations, selon ce qu
 ### Contenu
 
 4 La Stratégie comprend ce qui suit :
+
 1. Les buts de la Stratégie.
+
 2. Un sommaire des mesures pouvant être prises en vertu de la présente loi ou de toute autre loi ainsi que des mesures non législatives pouvant être prises pour favoriser la réalisation des buts de la Stratégie.
+
 3. Les mesures de performance qui serviront à évaluer les progrès accomplis en vue de réaliser les buts de la Stratégie.
+
 4. Les autres questions que le ministre estime souhaitables.
 
 ### Rapports d’étape
 
 5 Au moins une fois tous les cinq ans, le ministre rédige et publie sur un site Web du gouvernement de l’Ontario un rapport qui comprend ce qui suit :
+
 1. Une description des mesures prises pendant la période que vise le rapport en vue de réaliser les buts de la Stratégie.
+
 2. Une description des progrès accomplis en vue de réaliser les buts de la Stratégie, évalués à l’aide des mesures de performance visées à la disposition 3 de l’article 4.
 
 ### C harte des droits environnementaux de 1993 : «politique»
 
 6 L’article 15 de la Charte des droits environnementaux de 1993 et les autres dispositions de cette loi qui s’appliquent aux propositions de politique s’appliquent, avec les adaptations nécessaires, à la Stratégie et, à cette fin, la Stratégie est réputée une proposition de politique qui est à l’étude par le ministère.
+
 7 Abrogé : 2020, chap. 18, annexe 6, par. 64 (1).
 
 ### Dispositions diverses
@@ -122,10 +165,15 @@ b) modifie la Stratégie en fonction du résultat des consultations, selon ce qu
 ### Prise en considération de l’intérêt provincial
 
 10 (1) Les personnes et entités suivantes prennent en considération l’intérêt provincial visé à l’article 2 lorsqu’elles font les choses suivantes :
+
 1. Toute personne ou entité, lorsqu’elle exerce un pouvoir ou une fonction que lui attribue la présente loi.
+
 2. Toute personne ou entité, lorsqu’elle exerce un pouvoir ou une fonction que lui attribue une autre loi, si l’exercice de ce pouvoir ou de cette fonction est lié à la récupération des ressources ou à la réduction des déchets.
+
 3. La personne ou l’entité dont les services sont retenus pour fournir des services relativement aux responsabilités qu’impose l’article 67, 68, 69 ou 70 à une tierce personne lorsqu’elle fournit ces services.
+
 4. Le propriétaire ou l’ exploitant d’un système de gestion des déchets lorsqu’il prend part à des activités de gestion des déchets.
+
 5. La personne ou l’entité prescrite quand elle exerce des activités prescrites portant sur la récupération des ressources ou la réduction des déchets.
 
 ### Exception
@@ -143,6 +191,7 @@ b) modifie la Stratégie en fonction du résultat des consultations, selon ce qu
 ### Interprétation
 
 (5) Les définitions suivantes s’appliquent à la disposition 4 du paragraphe (1).
+
 «exploitant», «propriétaire» et «système de gestion des déchets» S’entendent au sens de la partie V de la Loi sur la protection de l’environnement.
 
 ### Déclarations de principes
@@ -152,10 +201,15 @@ b) modifie la Stratégie en fonction du résultat des consultations, selon ce qu
 ### Élaboration de déclarations de principes
 
 (2) Lorsqu’il élabore une déclaration de principes, le ministre consulte, de la façon qu’il estime appropriée :
+
 a) les représentants de municipalités;
+
 b) les représentants des personnes qui prennent part à des activités de récupération des ressources et à des activités de réduction des déchets;
+
 c) les représentants d’organismes environnementaux;
+
 d) les membres du public;
+
 e) les autres personnes qu’il estime appropriées.
 
 ### Délai à respecter
@@ -177,8 +231,11 @@ e) les autres personnes qu’il estime appropriées.
 ### Publication
 
 (7) Le ministre publie les nouvelles déclarations de principes et les déclarations de principes modifiées sur un site Web du gouvernement de l’Ontario et dans la Gazette de l’Ontario. En outre, il en avise, de la façon qu’il estime appropriée :
+
 a) les députés de l’Assemblée législative;
+
 b) l’Office;
+
 c) les autres personnes ou entités qu’il estime intéressées par les déclarations de principes.
 
 ### Publication permanente
@@ -188,6 +245,7 @@ c) les autres personnes ou entités qu’il estime intéressées par les déclar
 ### Charte des droits environnementaux de 1993 : «politique»
 
 (9) L’article 15 de la Charte des droits environnementaux de 1993 et les autres dispositions de cette loi qui s’appliquent aux propositions de politique s’appliquent, avec les adaptations nécessaires, à une déclaration de principes et, à cette fin, une déclaration de principes est réputée une proposition de politique qui est à l’étude par le ministère.
+
 (10) Abrogé : 2020, chap. 18, annexe 6, par. 64 (2).
 
 ### Non-application de la partie III de la Loi de 2006 sur la législation
@@ -197,50 +255,79 @@ c) les autres personnes ou entités qu’il estime intéressées par les déclar
 ### Compatibilité avec les déclarations de principes
 
 12 (1) Sous réserve de l’article 13, les personnes et entités suivantes, lorsqu’elles font ce qui suit, veillent à le faire d’une façon compatible avec toutes les déclarations de principes applicables :
+
 1. La personne ou l’entité, lorsqu’elle exerce un pouvoir ou une fonction qui lui est attribué en vertu de la présente partie ou de la partie III, IV ou V.
+
 2. Toute personne ou entité, lorsqu’elle exerce un pouvoir ou une fonction que lui attribue une loi énumérée au paragraphe (2) ou une disposition énumérée au paragraphe (3), si l’exercice de ce pouvoir ou de cette fonction est lié à la récupération des ressources ou à la réduction des déchets.
+
 3. Toute personne ou entité dont les services sont retenus pour fournir des services relativement aux responsabilités qu’impose l’article 67, 68, 69 ou 70 à une tierce personne, lorsque cette personne ou entité fournit ces services.
+
 4. Le propriétaire ou l’exploitant d’un système de gestion des déchets, lorsqu’il prend part à des activités de gestion des déchets.
+
 5. La personne ou l’entité prescrite, lorsqu’elle exerce des activités prescrites portant sur la récupération des ressources ou la réduction des déchets.
 
 ### Liste des lois
 
 (2) Les lois visées à la disposition 2 du paragraphe (1) sont les suivantes :
+
 1. La Loi de 2006 sur la cité de Toronto.
+
 2. La Loi de 1998 sur les condominiums.
+
 3. La Loi de 2002 sur la protection du consommateur.
+
 4. La Loi sur les évaluations environnementales.
+
 5. La Loi sur la protection de l’environnement.
+
 6. La Loi de 2001 sur les municipalités.
+
 7. La Loi de 2002 sur la gestion des éléments nutritifs.
+
 8. La Loi sur les ressources en eau de l’Ontario.
+
 9. La Loi sur l’aménagement du territoire.
+
 10. Les lois prescrites.
 
 ### Liste des dispositions
 
 (3) Les dispositions visées à la disposition 2 du paragraphe (1) sont les suivantes :
+
 1. L’article 11.6 de la Loi de 1999 sur la ville du Grand Sudbury.
+
 2. L’article 11.7 de la Loi de 1999 sur la cité de Hamilton.
+
 3. L’article 12.13 de la Loi de 1999 sur la ville d’Ottawa.
+
 4. L’article 13.6 de la Loi de 1999 sur la ville de Haldimand.
+
 5. L’article 13.6 de la Loi de 1999 sur la ville de Norfolk.
+
 6. Une disposition prescrite d’une loi prescrite.
 
 ### Interprétation
 
 (4) Les définitions suivantes s’appliquent à la disposition 4 du paragraphe (1).
+
 «exploitant», «propriétaire» et «système de gestion des déchets» S’entendent au sens de la partie V de la Loi sur la protection de l’environnement.
 
 ### Champs d’application et exceptions
 
 13 (1) Sous réserve des paragraphes (3) à (5), une déclaration de principes sur la récupération des ressources et la réduction des déchets est applicable à l’égard de toutes les personnes et entités mentionnées au paragraphe 12 (1), sauf dans l’un ou l’autre des cas suivants :
+
 a) la déclaration de principes précise qu’elle s’applique uniquement :
+
 (i) soit à une ou plusieurs personnes ou entités mentionnées au paragraphe 12 (1),
+
 (ii) soit à une catégorie de personnes ou d’entités mentionnées à ce paragraphe fondée sur un attribut ou une combinaison d’attributs;
+
 b) la déclaration de principes précise qu’elle ne s’applique pas :
+
 (i) soit à une ou plusieurs personnes ou entités mentionnées au paragraphe 12 (1),
+
 (ii) soit à une catégorie de personnes ou d’entités mentionnées à ce paragraphe fondée sur un attribut ou une combinaison d’attributs;
+
 c) la personne ou l’entité est soustraite par règlement à l’application de la déclaration.
 
 ### Zones géographiques
@@ -268,7 +355,9 @@ c) la personne ou l’entité est soustraite par règlement à l’application d
 ### Idem : délai
 
 (2) Les modifications exigées par application du paragraphe (1) sont apportées avant le premier en date des jours suivants :
+
 a) le jour précisé dans la déclaration de principes applicable, le cas échéant;
+
 b) le jour marquant la fin de la période déterminée en application du paragraphe 26 (1) de la Loi sur l’aménagement du territoire.
 
 ### Règlements municipaux de zonage
@@ -294,13 +383,17 @@ b) le jour marquant la fin de la période déterminée en application du paragra
 ### Incompatibilité
 
 15 (1) Malgré toute loi, en cas d’incompatibilité entre une déclaration de principes sur la récupération des ressources et la réduction des déchets faite en vertu de l’article 11 et une disposition d’un acte visé au paragraphe (2), les règles suivantes s’appliquent :
+
 1. La déclaration de principes ou la disposition qui prévoit le plus de protection pour l’environnement naturel et la santé humaine l’emporte, dans la mesure de l’incompatibilité.
+
 2. Si la déclaration de principes et la disposition prévoient une protection égale pour l’environnement naturel et la santé humaine, la politique qui favorise le mieux l’intérêt provincial visé à l’article 2 l’emporte, dans la mesure de l’incompatibilité.
 
 ### Actes
 
 (2) Les actes visés au paragraphe (1) sont les suivants :
+
 a) les déclarations de principes faites en vertu du paragraphe 3 (1) de la Loi sur l’aménagement du territoire ;
+
 b) les actes prescrits.
 
 ### Lignes directrices à des fins de précision
@@ -310,10 +403,15 @@ b) les actes prescrits.
 ### Liste des plans provinciaux
 
 (4) Les plans visés au paragraphe (3) sont les suivants :
+
 a) le Plan de la ceinture de verdure établi en vertu de l’article 3 de la Loi de 2005 sur la ceinture de verdure ;
+
 b) le Plan d’aménagement de l’escarpement du Niagara prorogé en application de l’article 3 de la Loi sur la planification et l’aménagement de l’escarpement du Niagara ;
+
 c) le Plan de conservation de la moraine d’Oak Ridges établi en vertu de l’article 3 de la Loi de 2001 sur la conservation de la moraine d’Oak Ridges ;
+
 d) un plan de croissance approuvé en vertu de l’article 7 de la Loi de 2005 sur les zones de croissance ;
+
 e) un plan que prescrivent les règlements qui est établi ou approuvé par le lieutenant-gouverneur en conseil, un ministre, un conseil, une commission ou un organisme du gouvernement de l’Ontario, ou les dispositions prescrites d’un tel plan.
 
 ### Nomination de directeurs
@@ -331,8 +429,11 @@ e) un plan que prescrivent les règlements qui est établi ou approuvé par le l
 ### Application
 
 (2) Le présent article s’applique aux personnes suivantes à l’égard des activités suivantes :
+
 1. La personne visée à l’article 61 ou 62 de la présente loi qui s’acquitte des responsabilités que lui impose l’article 67, 68, 69 ou 70.
+
 2. La personne ou entité dont les services sont retenus pour fournir des services relativement aux responsabilités qu’impose l’article 67, 68, 69 ou 70 à une tierce personne lorsqu’elle fournit ces services.
+
 3. La personne ou entité prescrite qui exerce des activités prescrites portant sur la récupération des ressources ou la réduction des déchets.
 
 ### Déroulement
@@ -342,13 +443,17 @@ e) un plan que prescrivent les règlements qui est établi ou approuvé par le l
 ### Rapport et publication
 
 (4) La personne ou entité fait ce qui suit :
+
 a) elle fait rapport des résultats de l’examen, de la façon et dans le délai que précise le directeur, et joint au rapport des renseignements sur l’état de réalisation de tout objectif fixé aux termes de la déclaration de principes, le cas échéant;
+
 b) elle met à la disposition du public les résultats de l’examen, de la façon et dans le délai que précise le directeur.
 
 ### Compatibilité non assurée
 
 (5) Si, à son avis, la personne ou entité visée au paragraphe (2) ne s’acquitte pas de l’obligation prévue à l’article 12 consistant à veiller à exercer ses fonctions et ses activités de façon compatible avec toutes les déclarations de principes sur la récupération des ressources et la réduction des déchets applicables, le directeur peut prendre l’une des mesures suivantes, ou les deux :
+
 1. Exiger que la personne ou l’entité fournisse les renseignements que le directeur précise en ce qui concerne les efforts qu’elle a faits pour s’acquitter de son obligation et les raisons à l’origine du défaut.
+
 2. Exiger que la personne ou l’entité rédige et présente au directeur un rapport décrivant les mesures qu’elle se propose de prendre et les échéances qu’elle se propose de respecter pour s’acquitter de son obligation.
 
 ### Déroulement
@@ -398,8 +503,11 @@ b) elle met à la disposition du public les résultats de l’examen, de la faç
 ### Restriction
 
 (7) Le présent article ne s’applique pas aux instances suivantes :
+
 a) l’instance qui constitue une requête en autorisation d’appel en vertu du paragraphe 38 (1) de la Charte des droits environnementaux de 1993 ;
+
 b) l’instance dont est saisi le Tribunal aux termes de l’article 21 de la Loi de 2021 sur le Tribunal ontarien de l’aménagement du territoire et à laquelle le ministre est partie.
+
 (8) Abrogé : 2021, chap. 4, annexe 10, art. 6.
 
 ## Partie III Office de la productivité et de la récupération des ressources
@@ -431,11 +539,17 @@ b) l’instance dont est saisi le Tribunal aux termes de l’article 21 de la Lo
 ### Objets de l’Office
 
 24 (1) Les objets de l’Office sont les suivants :
+
 a) exercer les pouvoirs et les fonctions que lui attribuent la présente loi ou toute autre loi;
+
 b) fournir des renseignements au sujet de la récupération des ressources ou des déchets en Ontario, des activités de l’Office et des lois et règlements à l’égard desquels l’Office exerce des fonctions ou des pouvoirs;
+
 c) à l’égard des programmes relatifs à la récupération des ressources ou aux déchets que le ministre peut préciser par directive écrite :
+
 (i) se préparer à exercer des fonctions et des pouvoirs concernant l’inscription, la gestion de l’information, la présentation de rapports, la perception de droits et toute autre question connexe,
+
 (ii) exercer ces fonctions et ces pouvoirs;
+
 d) réaliser les autres objets prescrits.
 
 ### Directive du ministre : paragraphe (1) c)
@@ -453,7 +567,9 @@ d) réaliser les autres objets prescrits.
 ### Membres
 
 (2) Le conseil est composé des membres suivants :
+
 1. Les membres nommés par le ministre.
+
 2. Les membres élus par le conseil conformément aux modalités prescrites par les règlements.
 
 ### Nombre maximal
@@ -475,7 +591,9 @@ d) réaliser les autres objets prescrits.
 ### Durée des mandats
 
 (7) Le ministre peut, par règlement, prescrire des restrictions concernant la durée du mandat d’un membre, le renouvellement de sa nomination ou sa réélection, auquel cas, la nomination ou l’élection doit satisfaire à ces restrictions. À défaut d’un règlement :
+
 a) le mandat d’un membre nommé correspond à celui précisé dans l’acte de nomination;
+
 b) le mandat d’un membre élu correspond au mandat, d’au plus trois ans, que fixe le conseil d’administration au moment de l’élection.
 
 ### Nomination du président
@@ -521,10 +639,15 @@ b) le mandat d’un membre élu correspond au mandat, d’au plus trois ans, que
 ### Qualités requises
 
 (2) Lorsqu’il nomme des particuliers en application du paragraphe (1), le ministre veille, dans la mesure du possible, à ce que le conseil initial soit composé de particuliers qui, collectivement, possèdent de l’expérience et des compétences dans les domaines suivants :
+
 1. La récupération des ressources et la réduction des déchets.
+
 2. La gouvernance et la gestion d’entreprise.
+
 3. Les finances.
+
 4. La gestion des affaires.
+
 5. La conformité et l’exécution.
 
 ### Élection des membres visés à la disp. 2 du par. 25 (2)
@@ -558,16 +681,23 @@ b) le mandat d’un membre élu correspond au mandat, d’au plus trois ans, que
 ### Dissolution du conseil d’administration initial
 
 (10) Le jour où le nombre maximal de membres visés à la disposition 2 du paragraphe 25 (2) sont élus en application du paragraphe (3) :
+
 a) le conseil est dûment constitué pour l’application de l’article 25;
+
 b) les membres du conseil initial nommés par le ministre au titre du paragraphe (1) ou (9) deviennent les membres du conseil d’administration visés à la disposition 1 du paragraphe 25 (2);
+
 c) les membres du conseil d’administration initial élus au titre du paragraphe (3) ou (9) deviennent les membres du conseil d’administration visés à la disposition 2 du paragraphe 25 (2).
 
 ### Règlements administratifs
 
 27 (1) Le conseil d’administration peut adopter des règlements administratifs :
+
 a) régissant ses délibérations, précisant les fonctions et les pouvoirs des dirigeants et employés de l’Office et traitant de façon générale de la gestion des affaires de l’Office;
+
 b) concernant la nomination des dirigeants et employés de l’Office et prévoyant le versement de leur rémunération et le remboursement de leurs dépenses;
+
 c) prévoyant le versement de la rémunération de ses membres et le remboursement de leurs dépenses;
+
 d) établissant des exigences relatives aux conflits d’intérêts à l’intention de ses membres et des dirigeants et employés de l’Office.
 
 ### Sous-comités
@@ -593,7 +723,9 @@ d) établissant des exigences relatives aux conflits d’intérêts à l’inten
 ### Contenu
 
 (3) L’accord de fonctionnement traite des questions que le ministre estime souhaitables dans l’intérêt public en ce qui concerne la réalisation des objets de l’Office prévus par la présente loi, notamment :
+
 a) les questions qui se rapportent à sa gouvernance et à son fonctionnement;
+
 b) les questions exigées en application de toute autre loi.
 
 ### Accord de fonctionnement transitoire
@@ -643,10 +775,15 @@ b) les questions exigées en application de toute autre loi.
 ### Consultations
 
 30 Le ministre peut exiger que l’Office prenne l’une ou l’autre des mesures suivantes :
+
 1. Tenir des consultations auprès du public, ou auprès des personnes ou entités qui possèdent de l’expérience ou des connaissances pertinentes, sur les questions que précise le ministre liées à la récupération des ressources, à la réduction des déchets ou à l’économie circulaire.
+
 2. Conseiller le ministre ou lui faire rapport sur des questions portant sur les éléments suivants :
+
 i. la récupération des ressources, la réduction des déchets ou l’économie circulaire,
+
 ii. les objets de l’Office.
+
 3. Former un ou plusieurs conseils consultatifs chargés de conseiller l’Office sur des questions liées à la réalisation de ses objets.
 
 ### Examen
@@ -656,7 +793,9 @@ ii. les objets de l’Office.
 ### Procédure
 
 (2) Le ministre peut préciser que l’examen soit effectué :
+
 a) soit par l’Office ou pour son compte;
+
 b) soit par une personne précisée par le ministre.
 
 ### Accès aux dossiers et aux renseignements
@@ -674,12 +813,19 @@ b) soit par une personne précisée par le ministre.
 ### Contenu
 
 (2) Le plan d’activités comprend ce qui suit :
+
 a) une description des principaux objectifs et activités de l’Office pour l’exercice financier et pour les deux exercices suivants;
+
 b) une description du plan que suivra l’Office pour atteindre les objectifs visés à l’alinéa a);
+
 c) un rapport sur les mesures de performance pour l’Office qui :
+
 (i) établit les cibles pour l’exercice financier,
+
 (ii) explique tout écart important entre les cibles et les résultats réels de l’exercice financier précédent;
+
 d) une description des mesures que l’Office a l’intention de prendre au cours de l’exercice financier à l’égard de la gestion efficace de l’Office;
+
 e) les autres renseignements exigés par l’accord de fonctionnement.
 
 ### Mise à la disposition du public
@@ -739,8 +885,11 @@ e) les autres renseignements exigés par l’accord de fonctionnement.
 ### Coûts
 
 (3) La somme fixée en vertu du paragraphe (1) peut comprendre les coûts suivants :
+
 a) les coûts qui se rapportent à la surveillance de l’Office en application de la présente loi, y compris les coûts liés aux appels des ordres donnés ou des ordonnances rendues en vertu de la partie V qui sont interjetés devant le Tribunal;
+
 b) à l’égard des programmes visés à l’alinéa 24 (1) c), les coûts qui se rapportent à l’élaboration de politiques, à la mise en oeuvre de programmes, à la conformité et à l’exécution;
+
 c) les coûts se rapportant à la réalisation des objets prescrits pour l’application de l’alinéa 24 (1) d).
 
 ### Prévisions
@@ -754,23 +903,33 @@ c) les coûts se rapportant à la réalisation des objets prescrits pour l’app
 ### Droits
 
 41 (1) Afin de recouvrer les coûts qu’il engage, l’Office peut :
+
 a) fixer et percevoir des droits, coûts ou autres frais qui lui sont dus relativement à l’exercice des fonctions et des pouvoirs que lui attribue la présente loi ou toute autre loi conformément aux modalités et critères qu’il établit;
+
 b) exiger de personnes qu’elles paient les droits, coûts et frais visés à l’alinéa a);
+
 c) prévoir l’octroi d’un remboursement ou d’un crédit relativement à tout ou partie des droits, coûts et frais visés à l’alinéa a).
 
 ### Fixation des droits
 
 (2) Lorsqu’il fixe les droits, coûts et frais visés à l’alinéa (1) a), l’Office peut préciser leur montant ou leur mode de calcul, sous réserve des restrictions ou des exigences prescrites.
+
 (3) Abrogé : 2019, chap. 14, annexe 8, par. 57 (2).
 
 ### Établissement et publication des droits
 
 (4) Les règles suivantes s’appliquent à l’égard de l’établissement et de la publication des droits, coûts et frais visés à l’alinéa (1) a), des modalités et critères visés à cet alinéa, et des exigences visées à l’alinéa (1) b) :
+
 1. Avant d’établir, de modifier ou de remplacer des droits, coûts, frais, modalités, critères ou exigences, l’Office doit mener des consultations publiques et afficher dans le Registre, pendant au moins 45 jours, les droits, coûts, frais, modalités, critères ou exigences nouveaux ou modifiés proposés pour recevoir les observations du public.
+
 2. Après les consultations publiques et l’affichage prévus à la disposition 1, l’Office doit publier dans le Registre la version définitive des droits, coûts, frais, modalités, critères ou exigences nouveaux ou modifiés et une description de la façon dont l’Office a pris en compte les observations du public pour les calculer.
+
 3. Les droits, coûts, frais, modalités, critères ou exigences ne prennent pas effet avant le dernier en date des jours suivants :
+
 i. le 30 e jour qui suit leur publication selon la disposition 2,
+
 ii. le jour précisé par l’Office.
+
 4. L’Office doit veiller à ce que tous les droits, coûts, frais, modalités, critères ou exigences qui ont été remplacés ou modifiés restent à la disposition du public dans le Registre.
 
 ### Paiement des droits
@@ -800,8 +959,11 @@ ii. le jour précisé par l’Office.
 ### Contenu de la vérification
 
 (2) Lorsqu’il effectue une vérification en vertu du paragraphe (1), le vérificateur général examine ce qui suit :
+
 a) la question de savoir si l’Office a dépensé des sommes d’argent à une fin étrangère à la réalisation de ses objets;
+
 b) la question de savoir si l’Office a dépensé des sommes d’argent sans souci réel d’économie et d’efficience;
+
 c) lorsque des modalités pourraient servir à mesurer l’efficacité des activités de l’Office et à faire rapport sur celle-ci, la question de savoir si les modalités n’ont pas été établies ou si les modalités établies n’étaient pas satisfaisantes.
 
 ### Accès aux renseignements et aux dossiers
@@ -815,18 +977,27 @@ c) lorsque des modalités pourraient servir à mesurer l’efficacité des activ
 ### Rapport annuel
 
 44 (1) Au plus tard le 1 er juin de chaque année, l’Office :
+
 a) rédige un rapport conformément au présent article sur les activités exercées au cours de l’exercice précédent;
+
 b) remet le rapport au ministre et le met à la disposition du public dans le Registre.
+
 (2) Abrogé : 2020, chap. 14, annexe 6, art. 2.
 
 ### Contenu
 
 (3) Le rapport comprend ce qui suit :
+
 1. Les renseignements sur les activités auxquelles prennent part les personnes qui sont tenues de s’acquitter de responsabilités en vertu de la partie IV.
+
 2. Un sommaire des activités liées à la conformité et à l’exécution exercées sous le régime de la présente loi au cours de l’exercice précédent.
+
 3. Les états financiers vérifiés de l’Office et le rapport du vérificateur prévu au paragraphe 42 (2).
+
 4. Les renseignements précisés dans l’accord de fonctionnement.
+
 5. Les renseignements que le ministre demande par écrit.
+
 6. Les renseignements exigés en application de toute autre loi.
 
 ### Signature
@@ -880,16 +1051,27 @@ b) remet le rapport au ministre et le met à la disposition du public dans le Re
 ### Objets
 
 (2) Les objets du Registre sont les suivants :
+
 1. Recevoir les renseignements présentés à l’Office :
+
 i. par la personne qui est responsable de s’inscrire en application de l’article 66 ou en son nom;
+
 ii. par la personne qui est responsable de rédiger un rapport en application de l’article 72 ou en son nom;
+
 iii. par la personne qui est tenue de présenter des renseignements au sujet d’un programme visé à l’alinéa 24 (1) c) ou en son nom,
+
 iv. par la personne qui est tenue de présenter des renseignements à l’égard d’un objet prescrit en vertu de l’alinéa 24 (1) d) ou en son nom,
+
 v. en application de toute autre loi.
+
 2. Sous réserve des règlements, donner au public accès aux renseignements présentés aux termes de la disposition 1, excepté les renseignements délicats sur le plan commercial.
+
 3. Donner avis au public :
+
 i. des renseignements se rapportant aux droits fixés en vertu de l’article 41;
+
 ii. d’autres renseignements qui doivent être mis à la disposition du public dans le Registre en application de la présente loi ou de toute autre loi.
+
 4. Tout objet prescrit.
 
 ### Forme et modalités
@@ -899,7 +1081,9 @@ ii. d’autres renseignements qui doivent être mis à la disposition du public 
 ### Exigences relatives aux renseignements et aux droits
 
 (3.1) Le Registre peut être administré de façon telle qu’il peut exiger qu’une personne prenne l’une ou l’autre des mesures suivantes, ou les deux, avant qu’elle puisse réaliser la présentation des renseignements à l’Office :
+
 1. Fournir des renseignements supplémentaires.
+
 2. Payer des droits, coûts ou frais fixés par l’Office en vertu de l’article 41.
 
 ### Renseignements complets et exacts
@@ -937,9 +1121,13 @@ ii. d’autres renseignements qui doivent être mis à la disposition du public 
 ### Pouvoir du ministre d’exiger la collecte de renseignements et autres
 
 52.1 (1) Le ministre peut, par arrêté, exiger que l’Office recueille les renseignements, dossiers ou documents suivants, tel qu’il le précise dans l’arrêté, des personnes ou des catégories de personnes précisées qui sont tenues de s’acquitter des responsabilités en vertu de la partie IV ou des personnes exerçant des activités liées à la récupération des ressources ou à la réduction des déchets en Ontario et lui fournisse ces renseignements, dossiers ou documents dans un délai précisé :
+
 1. Les contrats, les accords, les offres de services, les connaissements, les factures, les versements ou la correspondance liés à l’acquittement des responsabilités en vertu de la partie IV.
+
 2. Des renseignements financiers, y compris les coûts et droits engagés, imposés ou proposés et les recettes produites suite à l’acquittement des responsabilités en vertu de la partie IV.
+
 3. Des renseignements sur l’exploitation d’un lieu d’élimination des déchets ou d’un système de gestion des déchets au sens de la partie V de Loi sur la protection de l’environnement, y compris les activités de collecte, de gestion, de promotion et d’éducation exercées dans le cadre de l’acquittement des responsabilités en vertu de la partie IV.
+
 4. Les autres renseignements, dossiers ou documents que le ministre peut préciser afin d’évaluer l’efficacité de la présente loi et des règlements ainsi que d’élaborer et d’évaluer les politiques en matière de récupération des ressources et de réduction des déchets.
 
 ### Obligation de l’Office de recueillir des renseignements et autres
@@ -981,7 +1169,9 @@ ii. d’autres renseignements qui doivent être mis à la disposition du public 
 ### Divulgation des renseignements sur la rémunération et les autres paiements
 
 53.1 (1) Le ministre peut, par arrêté, exiger que l’Office mette à la disposition du public les renseignements qu’il précise concernant :
+
 a) la rémunération que verse l’Office aux membres de son conseil d’administration, à ses dirigeants et à ses employés;
+
 b) les autres paiements que fait ou qu’est tenu de faire l’Office aux personnes mentionnées à l’alinéa a).
 
 ### Affichage obligatoire
@@ -995,12 +1185,15 @@ b) les autres paiements que fait ou qu’est tenu de faire l’Office aux person
 ### Effet de la conformité
 
 (4) Si l’Office met des renseignements à la disposition du public conformément à un arrêté pris en vertu du paragraphe (1) ou pour des motifs qui permettent raisonnablement de croire que cette mesure est exigée par l’arrêté, aucun tribunal, aucune personne ni aucune autre entité ne doit conclure que l’Office :
+
 a) soit a contrevenu à une loi adoptée ou à un règlement pris avant ou après l’entrée en vigueur du présent article;
+
 b) soit ne s’est pas conformé ou a contrevenu à un accord visant à limiter ou à interdire cette mesure, que cet accord ait été conclu avant ou après l’entrée en vigueur du présent article.
 
 ### Définition
 
 (5) La définition qui suit s’applique au présent article.
+
 «rémunération» Tout ce qui est versé ou accordé, directement ou indirectement, à une personne qui exerce des fonctions lui donnant droit à un paiement, ou au profit de cette personne. Sont compris le traitement, les avantages et avantages accessoires ainsi que tous les paiements, discrétionnaires ou non.
 
 ### Administrateur général
@@ -1012,11 +1205,17 @@ b) soit ne s’est pas conformé ou a contrevenu à un accord visant à limiter 
 ### Condition préalable
 
 (2) Le ministre peut nommer un administrateur général en vertu du paragraphe (1) seulement s’il l’estime souhaitable dans l’intérêt public parce qu’au moins une des conditions suivantes est remplie :
+
 1. L’Office n’a pas respecté une disposition de la présente loi, les règlements, l’accord de fonctionnement, un règlement administratif ou une disposition de toute autre loi ou de tout autre règlement, et les conséquences de ce manquement mettent en péril la capacité qu’a l’Office de réaliser ses objets.
+
 2. L’Office a :
+
 i. soit dépensé des sommes d’argent à une fin étrangère à la réalisation de ses objets ou détourné des sommes d’argent au profit d’une autre personne ou entité dans un but illégitime,
+
 ii. soit dépensé des sommes d’argent sans souci réel d’économie et d’efficience.
+
 3. L’Office est insolvable ou est sur le point de l’être.
+
 4. Le conseil d’administration de l’Office ne compte pas suffisamment de membres pour constituer le quorum nécessaire à la conduite de ses affaires.
 
 ### Préavis de nomination
@@ -1092,8 +1291,11 @@ ii. soit dépensé des sommes d’argent sans souci réel d’économie et d’e
 ### Définition
 
 (2) La définition qui suit s’applique au paragraphe (1).
+
 «service» Service ou procédure que l’Office fournit au public dans le cadre de l’exercice des pouvoirs et des fonctions que lui attribue la présente loi ou toute autre loi, y compris :
+
 a) répondre aux demandes de renseignements du public;
+
 b) effectuer toutes les autres communications utiles pour fournir le service ou la procédure.
 
 ### Obligation de l’Office
@@ -1107,33 +1309,49 @@ b) effectuer toutes les autres communications utiles pour fournir le service ou 
 ### Caractère confidentiel des renseignements
 
 57 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «agent de la paix» Personne ou membre d’une catégorie de personnes visé dans la définition de «agent de la paix» qui figure à l’article 2 du Code criminel (Canada). («peace officer»)
+
 «procédure d’exécution de la loi» Instance devant un tribunal judiciaire ou administratif qui pourrait donner lieu à l’imposition d’une peine ou d’une sanction. («law enforcement proceeding»)
 
 ### Confidentialité et divulgation permise
 
 (2) Les personnes et entités visées au paragraphe (3) sont tenues au secret à l’égard des renseignements qu’elles obtiennent dans l’exercice des pouvoirs ou des fonctions que leur attribue la présente loi et ne doivent pas les communiquer à une personne ou entité sauf, selon le cas :
+
 a) dans la mesure où l’exige l’application de la présente loi et de ses règlements ou une instance introduite en vertu de la présente loi;
+
 b) au ministre, au ministère ou à un employé ou mandataire du ministère;
+
 c) à un agent de la paix, en vertu d’un mandat, afin de faciliter une inspection ou une enquête menée, ou toute autre démarche semblable entreprise, en vue d’une procédure d’exécution de la loi ou qui aboutira vraisemblablement à une telle procédure;
+
 d) avec le consentement de la personne à laquelle se rapportent les renseignements;
+
 e) à l’avocat de la personne à laquelle se rapportent les renseignements;
+
 f) dans la mesure où les renseignements doivent ou peuvent être mis à la disposition du public sous le régime de la présente loi ou de toute autre loi;
+
 g) dans les autres circonstances prescrites.
 
 ### Idem
 
 (3) Les personnes et entités visées au paragraphe (2) sont les suivantes :
+
 a) l’Office, les membres de son conseil d’administration et ses dirigeants, employés et mandataires, y compris le registrateur, les registrateurs adjoints et les inspecteurs ainsi que toute autre personne qui exerce les fonctions et les pouvoirs de ces personnes;
+
 b) toute personne qui effectue un examen en application de l’article 31;
+
 c) un administrateur général nommé en vertu de l’article 54;
+
 d) un agent des infractions provinciales désigné en vertu de la Loi sur les infractions provinciales pour l’application de l’article 98 ou 99 de la présente loi.
 
 ### Témoignage dans une instance civile
 
 (4) Nul ne doit être contraint à témoigner dans une instance civile relativement à des renseignements obtenus dans l’exercice d’un pouvoir ou d’une fonction que lui a attribué la présente loi, à moins qu’il ne s’agisse :
+
 a) soit d’une instance introduite en vertu de la présente loi;
+
 b) soit d’une instance introduite en vertu de toute autre loi se rapportant aux objets, fonctions ou pouvoirs de l’Office;
+
 c) soit d’un appel ou d’une révision judiciaire se rapportant à l’instance visée à l’alinéa a) ou b).
 
 ### Incompatibilité
@@ -1147,17 +1365,29 @@ c) soit d’un appel ou d’une révision judiciaire se rapportant à l’instan
 ### Interprétation
 
 59 Les définitions qui suivent s’appliquent à la présente partie.
+
 «catégorie désignée» Catégorie visée à l’article 60. («designated class»)
+
 «commercialiser» Inclut, à l’égard d’un produit, le fait notamment de :
+
 a) le mettre en vente, ou l’exposer ou l’avoir en sa possession pour la vente;
+
 b) le distribuer pour une contrepartie ou non;
+
 c) le louer, le mettre en location, ou l’exposer ou l’avoir en sa possession pour location. («market»)
+
 «consommateur» À l’égard d’un matériau d’une catégorie désignée, personne qui obtient le matériau pour son propre usage, sous réserve de tout autre sens que prévoient les règlements. («consumer»)
+
 «emballage de transport» Matériau utilisé en plus de l’emballage primaire pour faciliter la manutention ou le transport d’un ou de plusieurs produits par des personnes autres que les consommateurs, comme les palettes, les films d’emballage et les boîtes, à l’exclusion toutefois des conteneurs d’expédition conçus pour le transport de choses par voie routière, maritime, ferroviaire ou aérienne, sous réserve de tout autre sens que prévoient les règlements. («transport packaging»)
+
 «emballage pratique» Matériau utilisé en plus de l’emballage primaire pour faciliter la manutention ou le transport d’un ou de plusieurs produits par les consommateurs, comme les boîtes ou les sacs, sous réserve de tout autre sens que prévoient les règlements. («convenience packaging»)
+
 «emballage primaire» À l’exclusion de l’emballage de transport ou de l’emballage pratique, matériau utilisé pour contenir, protéger, manipuler, livrer et présenter un produit fourni au consommateur au point de vente, notamment l’emballage conçu pour regrouper un ou plusieurs produits en vue de la vente, sous réserve de tout autre sens que prévoient les règlements. («primary packaging»)
+
 «marque» Signe, mot, nom, symbole, dessin, dispositif ou élément graphique ou combinaison de ceux-ci, y compris une marque de commerce déposée ou non déposée, qui identifie un produit et le distingue des autres. («brand»)
+
 «produit» Matériau qui est une chose, une partie d’une chose ou une combinaison de choses destinée à être utilisée par un consommateur, sous réserve de tout autre sens que prévoient les règlements. («product»)
+
 «titulaire de marque» Personne qui utilise une marque sous licence, en est propriétaire ou a obtenu par ailleurs des droits pour commercialiser un produit sous la marque. («brand holder») 2016, chap. 12, annexe 1, art. 59
 
 ### Catégories désignées
@@ -1167,9 +1397,13 @@ c) le louer, le mettre en location, ou l’exposer ou l’avoir en sa possession
 ### Idem
 
 (2) Les catégories de matériaux désignées en vertu du paragraphe (1) comprennent un ou plusieurs des matériaux suivants :
+
 1. Des produits.
+
 2. Des emballages primaires associés à un produit.
+
 3. Des emballages pratiques.
+
 4. Des emballages de transport.
 
 ### Personnes pouvant avoir des responsabilités
@@ -1179,17 +1413,25 @@ c) le louer, le mettre en location, ou l’exposer ou l’avoir en sa possession
 ### Titulaires de marque
 
 61 (1) Sous le régime de la présente partie, la personne qui est le titulaire d’une marque associée à un produit d’une catégorie désignée peut être tenue de s’acquitter de l’une ou l’autre des responsabilités suivantes à l’égard du produit et de son emballage primaire :
+
 1. L’inscription visée à l’article 66.
+
 2. La réduction des déchets visée à l’article 67.
+
 3. La collecte visée à l’article 68.
+
 4. La gestion visée à l’article 69.
+
 5. La promotion et l’éducation visées à l’article 70.
+
 6. La présentation de rapports, la réalisation de vérifications et la tenue de dossiers visées à l’article 72.
 
 ### Personne différente ou personne additionnelle
 
 (2) L’une ou l’autre des personnes suivantes, ou les deux, peuvent être tenues de s’acquitter de responsabilités sous le régime de la présente partie au lieu ou en plus du titulaire de marque visé au paragraphe (1) :
+
 1. La personne qui a un lien commercial avec un produit d’une catégorie désignée.
+
 2. La personne qui remplit les conditions prescrites à l’égard d’un produit ou de son emballage primaire d’une catégorie désignée.
 
 ### Idem : accord
@@ -1199,7 +1441,9 @@ c) le louer, le mettre en location, ou l’exposer ou l’avoir en sa possession
 ### Lien commercial
 
 (3) Pour l’application du paragraphe (2), la personne qui a un lien commercial avec un produit d’une catégorie désignée s’entend de la personne :
+
 a) soit qui importe, vend en gros, loue ou vend au détail le produit, ou qui prend part d’une autre façon à sa distribution;
+
 b) soit qui remplit les conditions prescrites.
 
 ### Idem : détermination
@@ -1213,16 +1457,23 @@ b) soit qui remplit les conditions prescrites.
 ### Restriction
 
 (6) Les règlements ne peuvent pas exiger que la personne visée au paragraphe (1) ou (2) s’acquitte des responsabilités prévues à la présente partie à l’égard d’un matériau d’une catégorie désignée, sauf si, selon le cas :
+
 a) la personne est le titulaire de marque d’un produit de la catégorie qui est commercialisé auprès d’un consommateur en Ontario, notamment sur Internet, à l’aide d’un système de commande par catalogue, à l’aide d’un système de commande par téléphone ou par une méthode de vente à distance semblable;
+
 b) la personne commercialise un produit de la catégorie auprès d’un consommateur en Ontario, notamment sur Internet, à l’aide d’un système de commande par catalogue, à l’aide d’un système de commande par téléphone ou par une méthode de vente à distance semblable;
+
 c) la personne répond aux critères prescrits.
 
 ### Emballage pratique et emballage de transport
 
 62 (1) Sous le régime de la présente partie, une personne peut être tenue de s’acquitter d’une ou de plusieurs des responsabilités visées au paragraphe 61 (1) à l’égard de l’emballage pratique ou de l’emballage de transport d’une catégorie désignée si, selon le cas :
+
 a) la personne est le titulaire de marque d’un produit qui est ou qui était contenu dans, sur ou sous l’emballage;
+
 b) dans le cas d’un emballage pratique, la personne fournit un emballage pratique de la catégorie à un consommateur en Ontario;
+
 c) dans le cas d’un emballage de transport, la personne cause, dans un premier temps, l’utilisation d’un emballage de transport de la catégorie pour la manutention ou le transport d’un produit commercialisé auprès d’un consommateur en Ontario, si la destination finale de l’emballage se trouve en Ontario;
+
 d) la personne satisfait aux critères prescrits.
 
 ### Idem : détermination
@@ -1236,22 +1487,35 @@ d) la personne satisfait aux critères prescrits.
 ### Interprétation
 
 63 Pour l’application des articles 61 et 62 :
+
 a) un titulaire de marque s’entend en outre :
+
 (i) d’une personne qui a été un titulaire de marque, mais qui ne l’est plus,
+
 (ii) d’une personne qui était un titulaire de marque avant le jour de l’entrée en vigueur du présent article;
+
 b) une personne qui a un lien commercial avec un produit s’entend en outre :
+
 (i) d’une personne qui a eu un lien commercial avec le produit, mais qui ne l’a plus,
+
 (ii) d’une personne qui avait un lien commercial avec le produit avant le jour de l’entrée en vigueur du présent article;
+
 c) une personne qui fournit un emballage pratique s’entend en outre d’une personne qui a fourni l’emballage, mais qui ne le fournit plus;
+
 d) une personne qui commercialise un produit s’entend en outre :
+
 (i) d’une personne qui a commercialisé le produit, mais qui ne le commercialise plus,
+
 (ii) d’une personne qui a commercialisé le produit avant le jour de l’entrée en vigueur du présent article.
 
 ### Autre personne exerçant une activité liée à la récupération des ressources ou à la réduction des déchets
 
 64 Sous le régime de la présente partie, une personne qui n’est pas visée à l’article 61 ou 62, mais qui exerce une activité liée à la récupération des ressources ou à la réduction des déchets en Ontario, peut être tenue de s’acquitter de responsabilités dans un ou plusieurs des domaines suivants :
+
 1. L’inscription visée à l’article 66.
+
 2. La promotion et l’éducation visées à l’article 70.
+
 3. La présentation de rapports, la réalisation de vérifications et la tenue de dossiers visées à l’article 72.
 
 ### Plus d’une personne responsable
@@ -1267,10 +1531,15 @@ d) une personne qui commercialise un produit s’entend en outre :
 ### Exigences
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les règlements peuvent exiger que la personne joigne les renseignements suivants à son inscription :
+
 1. Une liste ou une description des produits et des emballages à l’égard desquels la personne est tenue de s’acquitter d’une responsabilité en application d’un règlement prévu à l’article 67, 68, 69 ou 70.
+
 2. Une description de la façon dont la personne s’acquitte ou prévoit s’acquitter des responsabilités qui lui sont imposées en vertu de la présente partie.
+
 3. Le nom de toute autre personne dont les services sont retenus par la personne pour assurer l’établissement ou l’exploitation d’un lieu d’élimination des déchets ou d’un système de gestion des déchets au sens de la partie V de la Loi sur la protection de l’environnement relativement aux responsabilités qui sont imposées à la personne en vertu de la présente partie, et une description des services en question.
+
 4. Le nom de toute autre personne dont la personne retient les services pour qu’elle exploite un lieu d’élimination des déchets ou un système de gestion des déchets au sens de la partie V de la Loi sur la protection de l’environnement relativement aux responsabilités qui sont imposées à la personne en vertu de la présente partie, et une description des services en question.
+
 5. D’autres renseignements ayant trait aux activités auxquelles la personne prend part qui touchent la récupération des ressources ou la réduction des déchets en Ontario.
 
 ### Autre personne exerçant une activité liée à la récupération des ressources ou à la réduction des déchets
@@ -1280,10 +1549,15 @@ d) une personne qui commercialise un produit s’entend en outre :
 ### Exigences
 
 (4) Sans préjudice de la portée générale du paragraphe (3), les règlements peuvent exiger que la personne joigne les renseignements suivants à son inscription :
+
 1. Des renseignements ayant trait aux activités auxquelles la personne prend part qui touchent la récupération des ressources ou la réduction des déchets en Ontario.
+
 2. Une description de la façon dont la personne s’acquitte ou prévoit s’acquitter des responsabilités qui lui sont imposées en vertu de la présente partie.
+
 3. Le nom de toute autre personne dont les services sont retenus par la personne pour assurer l’établissement ou l’exploitation d’un lieu d’élimination des déchets ou d’un système de gestion des déchets au sens de la partie V de la Loi sur la protection de l’environnement relativement aux responsabilités qui sont imposées à une tierce personne en vertu de la présente partie, et une description des services en question.
+
 4. Le nom de toute personne dont la personne retient les services pour qu’elle exploite un lieu d’élimination des déchets ou un système de gestion des déchets au sens de la partie V de la Loi sur la protection de l’environnement relativement aux responsabilités qui sont imposées à une tierce personne en vertu de la présente partie, et une description des services en question.
+
 5. Le nom de toute personne qui retient les services de la personne relativement aux responsabilités qui sont imposées en vertu de la présente partie, et une description des services en question.
 
 ### Responsabilité de la réduction des déchets
@@ -1293,19 +1567,29 @@ d) une personne qui commercialise un produit s’entend en outre :
 ### Restrictions
 
 (2) Les restrictions suivantes s’appliquent aux règlements visés au paragraphe (1) :
+
 1. La responsabilité de la personne quant à la réduction des déchets s’applique uniquement à l’égard du matériau auquel la personne est associée dans une catégorie désignée.
+
 2. Seule la personne qui remplit l’une des conditions suivantes peut être prescrite comme étant responsable de la réduction des déchets :
+
 i. la personne est un titulaire de marque d’un produit,
+
 ii. la personne fournit un emballage pratique qui arbore une marque dont la personne est titulaire,
+
 iii. la personne cause l’utilisation d’un emballage de transport qui arbore une marque dont la personne est titulaire.
 
 ### Conception d’un produit et d’un emballage
 
 (3) Sans préjudice de la portée générale du paragraphe (1), les règlements peuvent exiger que la personne ayant une responsabilité quant à la réduction des déchets à l’égard d’une catégorie désignée prenne des mesures pour concevoir un matériau de la catégorie de manière à, selon le cas :
+
 a) améliorer la réutilisabilité et la recyclabilité du matériau;
+
 b) réduire ou éliminer l’incidence que le matériau pourrait avoir sur la recyclabilité d’autres matériaux de la catégorie;
+
 c) réduire la quantité de déchets produits à la fin de la vie utile du produit ou de l’emballage;
+
 d) réduire ou éliminer l’utilisation de substances dans le matériau;
+
 e) augmenter l’utilisation de ressources récupérées dans la fabrication du matériau.
 
 ### Responsabilité : système de collecte
@@ -1315,13 +1599,21 @@ e) augmenter l’utilisation de ressources récupérées dans la fabrication du 
 ### Exigences
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les règlements peuvent exiger que la personne responsable de l’établissement et de l’exploitation d’un système de collecte doive, selon le cas :
+
 a) recueillir le matériau prescrit de la catégorie désignée conformément aux exigences prescrites;
+
 b) recueillir son propre produit, l’emballage associé à son propre produit, tout produit de la catégorie désignée ou tout emballage de la catégorie désignée;
+
 c) veiller à ce que le système de collecte soit exploité pour la période prescrite;
+
 d) veiller à ce que soient fournis ou offerts conformément aux exigences prescrites les installations, activités et services de collecte du matériau qui sont prescrits;
+
 e) veiller à ce que ne soient pas fournis ni offerts des installations, activités ou services de collecte du matériau qui sont interdits par les règlements;
+
 f) veiller à ce que le matériau soit recueilli selon les quantités prescrites;
+
 g) recueillir le matériau auprès d’une personne qui l’offre à des fins de collecte ou auprès d’une autre personne prescrite;
+
 h) s’abstenir d’employer des méthodes de collecte qui sont interdites par les règlements.
 
 ### Non-imposition de frais
@@ -1343,10 +1635,15 @@ h) s’abstenir d’employer des méthodes de collecte qui sont interdites par l
 ### Exigences
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les règlements peuvent prévoir que la personne responsable de la gestion d’un matériau doit le manutentionner, le réutiliser, le recycler, en récupérer les ressources et l’éliminer conformément aux exigences prescrites. Ils peuvent également prévoir que la personne doit, selon le cas :
+
 a) permettre que le matériau ou qu’une partie de celui-ci soit, selon le cas :
+
 (i) réutilisé,
+
 (ii) utilisé pour la fabrication de nouveaux produits, de nouveaux emballages ou d’autres choses,
+
 (iii) utilisé comme élément nutritif pour l’amélioration de la qualité du sol ou à des fins agricoles ou d’aménagement paysager;
+
 b) s’abstenir d’employer des méthodes de manutention, de réutilisation, de recyclage, de récupération des ressources et d’élimination du matériau qui sont interdites par les règlements.
 
 ### Partie V de la Loi sur la protection de l’environnement
@@ -1356,8 +1653,11 @@ b) s’abstenir d’employer des méthodes de manutention, de réutilisation, de
 ### Exigence : services à offrir
 
 69.1 Les règlements peuvent prévoir que les personnes qui remplissent la condition d’avoir conclu l’accord visé au paragraphe 61 (2.1) sont tenues d’offrir de fournir les services suivants à l’égard de matériaux, produits ou emballages prescrits d’une catégorie désignée aux municipalités ou aux autres entités prescrites :
+
 1. Des services de collecte.
+
 2. Des services de gestion.
+
 3. La mise en œuvre d’un programme de promotion et d’éducation.
 
 ### Responsabilité : promotion et l’éducation
@@ -1427,8 +1727,11 @@ b) s’abstenir d’employer des méthodes de manutention, de réutilisation, de
 ### Exigence applicable aux accords
 
 74 (1) Le présent article s’applique aux personnes suivantes :
+
 1. La personne visée à l’article 61 ou 62 qui est tenue de s’acquitter de responsabilités en application de l’article 68 ou 69.
+
 2. La personne qui assure l’établissement ou l’exploitation d’un lieu d’élimination des déchets ou d’un système de gestion des déchets au sens de la partie V de la Loi sur la protection de l’environnement relativement aux responsabilités qui sont imposées à une autre personne en vertu de la présente partie.
+
 3. La personne qui exploite un lieu d’élimination des déchets ou un système de gestion des déchets au sens de la partie V de la Loi sur la protection de l’environnement et qui fournit des services relativement aux responsabilités qui sont imposées à une autre personne en vertu de la présente partie.
 
 ### Idem
@@ -1444,7 +1747,9 @@ b) s’abstenir d’employer des méthodes de manutention, de réutilisation, de
 ### Idem
 
 (2) Le lieutenant-gouverneur en conseil peut prescrire des matériaux pour l’application du paragraphe (1) si, selon le cas :
+
 a) un système de collecte doit être établi et exploité en application de l’article 68 à l’égard de la catégorie désignée à laquelle le matériau appartient et la personne tenue par les règlements d’établir et d’exploiter ce système ne l’a pas établi ou a cessé de l’exploiter;
+
 b) la personne qui est tenue de s’acquitter d’une ou de plusieurs responsabilités en application de la présente partie à l’égard du matériau ne s’est généralement pas acquittée de ces responsabilités.
 
 ## PartIE V Exécution
@@ -1454,7 +1759,9 @@ b) la personne qui est tenue de s’acquitter d’une ou de plusieurs responsabi
 ### Définitions
 
 76 Les définitions qui suivent s’appliquent à la présente partie.
+
 «lieu» S’entend en outre d’un bâtiment, d’un ouvrage, d’une machine, d’un véhicule ou d’une embarcation. («place»)
+
 «règlements de la partie IV» Règlements pris en vertu de la partie IV (Responsabilités en matière de récupération des ressources et de réduction des déchets). («Part IV regulations»)
 
 ### Non-application de dispositions de la présente partie - alinéa 24 (1) c)
@@ -1472,14 +1779,19 @@ b) la personne qui est tenue de s’acquitter d’une ou de plusieurs responsabi
 ### Inspection
 
 78 (1) L’inspecteur peut, à toute heure raisonnable, pénétrer dans un lieu visé au paragraphe (2) et y effectuer une inspection pour déterminer si une personne se conforme à la présente loi ou aux règlements s’il croit, en se fondant sur des motifs raisonnables :
+
 a) soit qu’il s’y trouve des documents ou des données ayant trait à la conformité de la personne à la présente loi ou aux règlements;
+
 b) soit qu’il s’y déroule ou s’y est déroulée une activité ayant trait à la conformité de la personne à la présente loi ou aux règlements.
 
 ### Idem
 
 (2) Le paragraphe (1) n’autorise l’inspecteur à pénétrer dans un lieu que si son propriétaire ou son occupant est, selon le cas :
+
 a) une personne tenue sous le régime de la partie IV de s’acquitter d’une responsabilité en application de cette partie;
+
 b) une personne qui assure l’établissement ou l’exploitation d’un lieu d’élimination des déchets ou d’un système de gestion des déchets au sens de la partie V de la Loi sur la protection de l’environnement relativement aux responsabilités qui sont imposées à une autre personne en vertu de la présente partie;
+
 c) le propriétaire ou l’exploitant d’un lieu d’élimination des déchets ou d’un système de gestion des déchets au sens de la partie V de la Loi sur la protection de l’environnement.
 
 ### Entrée dans un logement
@@ -1489,12 +1801,19 @@ c) le propriétaire ou l’exploitant d’un lieu d’élimination des déchets 
 ### Pouvoirs au cours de l’inspection
 
 (4) L’inspecteur peut faire une ou plusieurs des choses suivantes lorsqu’il pénètre dans un lieu et y effectue une inspection :
+
 1. Examiner, consigner ou copier des documents ou des données, sous quelque forme que ce soit, par quelque moyen que ce soit.
+
 2. Consigner quoi que ce soit dans un dossier par quelque moyen que ce soit.
+
 3. Exiger la production de documents ou de données, sous quelque forme que ce soit, qui doivent être conservés en application de la présente loi, et celle d’autres documents ou données, sous quelque forme que ce soit, qui sont liés à l’objet de l’inspection.
+
 4. Enlever du lieu, afin d’en faire des copies, les documents ou les données produits en application de la disposition 3.
+
 5. Présenter à une personne des demandes raisonnables de renseignements, verbalement ou par écrit.
+
 6. Prélever des échantillons à des fins d’analyse.
+
 7. Effectuer des tests ou prendre des mesures.
 
 ### Restriction
@@ -1516,10 +1835,15 @@ c) le propriétaire ou l’exploitant d’un lieu d’élimination des déchets 
 ### Pouvoir d’exiger des réponses
 
 79 (1) Pour déterminer si une personne se conforme à la présente loi ou aux règlements, l’inspecteur peut, à toute heure raisonnable et avec toute l’aide raisonnable, exiger que l’une ou l’autre des personnes suivantes réponde aux demandes raisonnables de renseignements :
+
 1. Une personne qui est tenue sous le régime de la partie IV de s’acquitter d’une responsabilité en application de cette partie.
+
 2. Une personne qui assure l’établissement ou l’exploitation d’un lieu d’élimination des déchets ou d’un système de gestion des déchets au sens de la partie V de la Loi sur la protection de l’environnement relativement aux responsabilités qui sont imposées à une autre personne en vertu de la présente partie.
+
 3. Le propriétaire ou l’exploitant d’un lieu d’élimination des déchets ou d’un système de gestion des déchets au sens de la partie V de la Loi sur la protection de l’environnement.
+
 4. Une personne qui est tenue de payer des droits en application du paragraphe 41 (5).
+
 5. Un administrateur, dirigeant, employé ou mandataire de la personne visée aux dispositions 1 à 4.
 
 ### Idem
@@ -1541,12 +1865,19 @@ c) le propriétaire ou l’exploitant d’un lieu d’élimination des déchets 
 ### Ordonnance d’entrée ou d’inspection
 
 81 (1) Un juge peut rendre une ordonnance autorisant un inspecteur à faire toute chose énoncée au paragraphe 78 (1) ou (4) ou à l’article 79 s’il est convaincu, sur la foi de preuves présentées sous serment par un inspecteur, qu’il existe des motifs raisonnables de croire que, selon le cas :
+
 a) il est approprié pour l’inspecteur de faire toute chose énoncée au paragraphe 78 (1) ou (4) ou à l’article 79 pour déterminer si une personne se conforme à la présente loi ou aux règlements;
+
 b) il est possible que l’inspecteur ne puisse pas s’acquitter de ses fonctions convenablement sans une ordonnance rendue en vertu du présent article, du fait, selon le cas :
+
 (i) qu’aucun occupant n’est présent pour donner accès à un lieu fermé à clef ou autrement inaccessible,
+
 (ii) qu’une personne l’a empêché ou pourrait l’empêcher de faire toute chose énoncée au paragraphe 78 (1) ou (4) ou à l’article 79,
+
 (iii) qu’à cause de l’éloignement du lieu devant faire l’objet de l’inspection ou pour tout autre motif, il est difficile pour un inspecteur d’obtenir sans retard une ordonnance en vertu du présent article si l’accès au lieu lui est refusé,
+
 (iv) qu’une tentative par un inspecteur de faire toute chose énoncée au paragraphe 78 (1) ou (4) ou à l’article 79 pourrait ne pas atteindre son but sans l’ordonnance;
+
 c) une personne refuse ou est susceptible de refuser de répondre à des demandes raisonnables de renseignements.
 
 ### Idem
@@ -1608,25 +1939,37 @@ c) une personne refuse ou est susceptible de refuser de répondre à des demande
 ### Ordre de l’inspecteur : contravention à la Loi et aux règlements
 
 86 (1) Si l’inspecteur croit, en se fondant sur des motifs raisonnables, qu’une des personnes suivantes contrevient ou a contrevenu à la présente loi ou aux règlements, il peut lui donner un ordre, sous réserve des règlements :
+
 1. Une personne qui est tenue sous le régime de la partie IV de s’acquitter d’une responsabilité en application de cette partie.
+
 2. La personne qui est tenue de payer des droits en application du paragraphe 41 (5).
+
 3. La personne qui est tenue de se conformer à une règle en application du paragraphe 107.1 (6).
 
 ### Renseignements à inclure dans l’ordre
 
 (2) L’ordre :
+
 a) précise la disposition de la présente loi ou des règlements à laquelle l’inspecteur croit qu’il y a ou qu’il y a eu contravention;
+
 b) décrit brièvement la nature de la contravention et, le cas échéant, l’endroit où elle a été commise;
+
 c) indique qu’une révision de l’ordre peut être demandée conformément à l’article 87.
 
 ### Exigences de l’ordre
 
 (3) L’ordre peut exiger que la personne à qui il s’adresse se conforme, dans le délai précisé, aux directives qui y sont énoncées en ce qui concerne ce qui suit :
+
 a) remédier à une contravention à la partie III ou IV de la présente loi ou aux règlements pris relativement à ces parties;
+
 b) empêcher la continuation ou la répétition de la contravention;
+
 c) présenter un plan, élaboré par la personne ou pour son compte, visant à assurer la conformité à une disposition de la présente loi ou des règlements à la satisfaction de l’inspecteur;
+
 d) engager les entrepreneurs ou les experts-conseils que l’inspecteur juge compétents pour qu’ils élaborent un plan ou effectuent les travaux exigés par l’ordre;
+
 e) procéder à des prélèvements, à des tests, à des mesures et à des contrôles à l’égard de matériaux d’une catégorie désignée par les règlements de la partie IV et en faire rapport;
+
 f) afficher un avis de l’ordre.
 
 ### Pouvoir corrélatif
@@ -1648,8 +1991,11 @@ f) afficher un avis de l’ordre.
 ### Contenu de la demande de révision
 
 (4) La demande de révision visée au paragraphe (1) présentée par écrit ou la confirmation écrite de la demande présentée verbalement en vertu du paragraphe (3) contient ce qui suit :
+
 a) les parties de l’ordre qui font l’objet de la demande de révision;
+
 b) les observations que l’auteur de la demande de révision souhaite que le registrateur adjoint examine;
+
 c) pour l’application du paragraphe (8), une adresse pouvant être utilisée aux fins de signification.
 
 ### Suspension non automatique
@@ -1659,7 +2005,9 @@ c) pour l’application du paragraphe (8), une adresse pouvant être utilisée a
 ### Décision du registrateur adjoint
 
 (6) Après avoir examiné la demande, le registrateur adjoint peut, selon le cas :
+
 a) révoquer l’ordre de l’inspecteur;
+
 b) par ordonnance adressée à l’auteur de la demande de révision, confirmer ou modifier l’ordre de l’inspecteur.
 
 ### Idem
@@ -1669,7 +2017,9 @@ b) par ordonnance adressée à l’auteur de la demande de révision, confirmer 
 ### Avis de décision
 
 (8) Le registrateur adjoint signifie à l’auteur de la demande de révision, selon le cas :
+
 a) la décision de révoquer l’ordre de l’inspecteur;
+
 b) une ordonnance confirmant ou modifiant l’ordre de l’inspecteur, accompagnée des motifs.
 
 ### Confirmation automatique de l’ordre
@@ -1679,13 +2029,17 @@ b) une ordonnance confirmant ou modifiant l’ordre de l’inspecteur, accompagn
 ### Idem
 
 (10) Pour l’application de l’article 91 et aux fins d’une audience demandée en vertu de cet article, une ordonnance de confirmation qui est réputée avoir été prise par le registrateur adjoint par application du paragraphe (9) :
+
 a) est réputée s’adresser à chaque destinataire de l’ordre de l’inspecteur;
+
 b) est réputée avoir été signifiée, à l’expiration du délai visé au paragraphe (9), à chaque destinataire de l’ordre de l’inspecteur.
 
 ### Délai plus long
 
 (11) Les paragraphes (9) et (10) ne s’appliquent pas si, dans les sept jours qui suivent la réception de la demande de révision, le registrateur adjoint suspend l’application de l’ordre en vertu du paragraphe (5) et signifie à l’auteur de la demande un avis écrit précisant ce qui suit :
+
 a) le fait qu’il a besoin d’un délai plus long pour prendre une décision en vertu du paragraphe (6);
+
 b) la date limite à laquelle la décision sera prise.
 
 ### Renouvellement
@@ -1705,26 +2059,39 @@ b) la date limite à laquelle la décision sera prise.
 ### Pénalités administratives
 
 89 (1) Une pénalité administrative peut être imposée en vertu du présent article à l’une ou plusieurs des fins suivantes :
+
 1. Assurer la conformité à la présente loi et aux règlements.
+
 2. Empêcher qu’une personne tire, directement ou indirectement, un avantage économique de la contravention à une disposition de la présente loi ou des règlements.
 
 ### Ordonnance du registrateur ou d’un registrateur adjoint
 
 (2) Le registrateur ou un registrateur adjoint peut, sous réserve des règlements, rendre une ordonnance exigeant qu’une personne visée au paragraphe (3) paie une pénalité administrative à l’Office s’il est d’avis qu’elle a contrevenu à l’une ou l’autre des dispositions suivantes :
+
 a) le paragraphe 41 (5);
+
 b) l’exigence prévue au paragraphe 50 (4) consistant à déposer des renseignements, rapports, dossiers ou documents qui sont complets et exacts;
+
 c) le paragraphe 68 (3);
+
 d) le paragraphe 75 (1);
+
 e) l’article 79;
+
 f) une disposition de la présente loi ou des règlements qui est prescrite pour l’application du présent article.
 
 ### Idem
 
 (3) Une ordonnance peut être prise en vertu du paragraphe (2) à l’endroit des personnes suivantes :
+
 a) une personne tenue de payer des droits en application du paragraphe 41 (5);
+
 b) une personne qui est tenue sous le régime de la partie IV de s’acquitter de responsabilités en application de cette partie;
+
 c) une personne qui ne répond pas à la demande de renseignements visée à l’article 79;
+
 d) une personne à laquelle il est interdit de commercialiser un produit en application du paragraphe 75 (1);
+
 e) une personne prescrite.
 
 ### Prescription
@@ -1742,15 +2109,21 @@ e) une personne prescrite.
 ### Contenu
 
 (7) L’ordonnance prise en vertu du paragraphe (2) est signifiée à la personne qui est tenue de payer la pénalité administrative et doit :
+
 a) décrire la contravention sur laquelle elle porte, y compris, si cela est approprié, la date à laquelle la contravention a été commise;
+
 b) préciser le montant de la pénalité;
+
 c) donner des détails concernant les délai et mode de paiement de la pénalité;
+
 d) fournir des précisions sur le droit qu’a la personne de demander une audience en vertu de l’article 91.
 
 ### Responsabilité absolue
 
 (8) Une personne est tenue de payer une pénalité administrative même si, selon le cas :
+
 a) elle a pris toutes les mesures raisonnables pour empêcher la contravention;
+
 b) au moment de la contravention, elle croyait raisonnablement et en toute honnêteté à l’existence de faits erronés qui, avérés, auraient rendu la contravention non blâmable.
 
 ### Idem
@@ -1774,9 +2147,13 @@ b) au moment de la contravention, elle croyait raisonnablement et en toute honn�
 ### Appel de l’ordre ou de l’ordonnance
 
 91 (1) La personne à qui s’adresse un des ordres ou une des ordonnances qui suivent peut demander une audience devant le Tribunal conformément au paragraphe (2) :
+
 1. Un ordre donné en vertu du paragraphe 86 (1) par un inspecteur qui est également le registrateur ou un registrateur adjoint.
+
 2. Une ordonnance prise en vertu de l’alinéa 87 (6) b) par un registrateur adjoint.
+
 3. Un ordre réputé avoir été confirmé par ordonnance d’un registrateur adjoint en vertu du paragraphe 87 (9).
+
 4. Une ordonnance rendue en vertu du paragraphe 89 (2) par le registrateur ou un registrateur adjoint.
 
 ### Idem
@@ -1794,7 +2171,9 @@ b) au moment de la contravention, elle croyait raisonnablement et en toute honn�
 ### Contenu de l’avis de demande d’audience
 
 93 (1) La personne qui demande à être entendue devant le Tribunal indique dans l’avis de demande d’audience :
+
 a) les parties de l’ordre ou de l’ordonnance qui font l’objet de la demande;
+
 b) les motifs qu’elle a l’intention d’invoquer à l’audience.
 
 ### Effet du contenu de l’avis
@@ -1828,9 +2207,13 @@ b) les motifs qu’elle a l’intention d’invoquer à l’audience.
 ### Parties
 
 95 Les personnes suivantes sont parties à l’instance :
+
 1. La personne qui demande l’audience.
+
 2. Le registrateur, si c’est lui qui a donné l’ordre ou qui a pris ou rendu l’ordonnance qui fait l’objet de l’appel.
+
 3. Un registrateur adjoint, si c’est lui qui a donné l’ordre ou qui a pris ou rendu l’ordonnance qui fait l’objet de l’appel.
+
 4. Toute autre personne précisée par le Tribunal.
 
 ### Pouvoirs du Tribunal
@@ -1852,7 +2235,9 @@ b) les motifs qu’elle a l’intention d’invoquer à l’audience.
 ### Suspension accordée ou annulée par la Cour divisionnaire
 
 (3) S’il est interjeté appel d’une décision du Tribunal devant la Cour divisionnaire en vertu du présent article, la Cour peut, selon le cas :
+
 a) suspendre l’application de la décision;
+
 b) annuler la suspension ordonnée par le Tribunal en vertu du paragraphe (2).
 
 ### Infractions
@@ -1864,13 +2249,21 @@ b) annuler la suspension ordonnée par le Tribunal en vertu du paragraphe (2).
 ### Liste des dispositions
 
 (2) Les dispositions suivantes sont énumérées pour l’application du paragraphe (1) :
+
 1. Le paragraphe 41 (5).
+
 2. Le paragraphe 68 (3).
+
 2.1 L’article 72.1.
+
 3. L’article 73.
+
 4. L’article 74.
+
 5. Le paragraphe 75 (1).
+
 6. L’article 88.
+
 7. Le paragraphe 107.1 (6).
 
 ### Défaut de se conformer à une directive du directeur
@@ -1892,13 +2285,17 @@ b) annuler la suspension ordonnée par le Tribunal en vertu du paragraphe (2).
 ### Peine : particulier
 
 (7) Le particulier qui est coupable d’une infraction visée au présent article est passible, sur déclaration de culpabilité :
+
 a) s’il s’agit d’une première déclaration de culpabilité, d’une amende maximale de 50 000 $ pour chaque journée ou partie de journée pendant laquelle l’infraction est commise ou se poursuit;
+
 b) s’il s’agit d’une déclaration de culpabilité subséquente, d’une amende maximale de 100 000 $ pour chaque journée ou partie de journée pendant laquelle l’infraction est commise ou se poursuit.
 
 ### Idem : personne morale
 
 (8) La personne morale qui est coupable d’une infraction visée au présent article est passible, sur déclaration de culpabilité :
+
 a) s’il s’agit d’une première déclaration de culpabilité, d’une amende maximale de 250 000 $ pour chaque journée ou partie de journée pendant laquelle l’infraction est commise ou se poursuit;
+
 b) s’il s’agit d’une déclaration de culpabilité subséquente, d’une amende maximale de 500 000 $ pour chaque journée ou partie de journée pendant laquelle l’infraction est commise ou se poursuit.
 
 ### Peine concernant un bénéfice pécuniaire
@@ -1908,8 +2305,11 @@ b) s’il s’agit d’une déclaration de culpabilité subséquente, d’une am
 ### Ordonnances additionnelles
 
 (10) Le tribunal qui déclare une personne coupable d’une infraction visée au présent article peut, de sa propre initiative ou sur motion de l’avocat du poursuivant, rendre une ou plusieurs des ordonnances suivantes :
+
 1. Une ordonnance exigeant que la personne fasse ou s’abstienne de faire ce qui y est précisé, dans le ou les délais qui y sont précisés.
+
 2. Une ordonnance imposant les exigences que le tribunal juge appropriées pour empêcher la commission d’autres actes illicites du même genre ou pour contribuer à la réadaptation de la personne.
+
 3. Une ordonnance interdisant la continuation ou la répétition de l’infraction par la personne.
 
 ### Maintien des autres recours et peines
@@ -1927,9 +2327,13 @@ b) s’il s’agit d’une déclaration de culpabilité subséquente, d’une am
 ### Faux renseignements
 
 (2) Nul ne doit fournir ni présenter aux personnes suivantes des renseignements faux ou trompeurs, que ce soit verbalement, par écrit ou par voie électronique, dans une déclaration, un document ou des données à l’égard d’une question touchant la présente loi ou les règlements :
+
 a) l’Office, un inspecteur, le registrateur, un registrateur adjoint ou un autre dirigeant, employé ou mandataire de l’Office;
+
 b) la personne qui est tenue d’effectuer un examen en application de l’alinéa 31 (2) b);
+
 c) l’administrateur général nommé en vertu de l’article 54,
+
 d) le ministre, le ministère, ou un employé ou mandataire du ministère.
 
 ### Idem
@@ -1939,10 +2343,15 @@ d) le ministre, le ministère, ou un employé ou mandataire du ministère.
 ### Refus de fournir des renseignements
 
 (4) Nul ne doit refuser de fournir aux personnes ou entités suivantes les renseignements qu’exige l’application de la présente loi ou des règlements :
+
 a) l’Office, le registrateur, un registrateur adjoint, un inspecteur, ou un autre dirigeant, employé ou mandataire de l’Office;
+
 b) la personne qui est tenue d’effectuer un examen en application de l’alinéa 31 (2) b);
+
 c) l’administrateur général nommé en vertu de l’article 54;
+
 d) une personne nommée directeur en vertu de l’article 16;
+
 e) le ministre, le ministère, ou un employé ou mandataire du ministère.
 
 ### Infraction
@@ -1954,26 +2363,39 @@ e) le ministre, le ministère, ou un employé ou mandataire du ministère.
 ### Signification d’un document
 
 100 (1) Les avis, ordres, ordonnances, arrêtés ou autres documents qui doivent être signifiés à une personne en application de la présente loi le sont suffisamment s’ils sont, selon le cas :
+
 a) livrés directement à la personne;
+
 b) laissés à la dernière adresse connue de la personne, soit à un endroit qui semble réservé à la réception du courrier, soit auprès d’un particulier qui semble âgé de 16 ans ou plus;
+
 c) envoyés par courrier ordinaire à la dernière adresse connue de la personne;
+
 d) envoyés par messagerie commerciale à la dernière adresse connue de la personne;
+
 e) envoyés par courrier électronique à la dernière adresse électronique connue de la personne;
+
 f) envoyés par télécopie au dernier numéro de télécopieur connu de la personne;
+
 g) remis de toute autre façon précisée par les règlements.
 
 ### Document réputé reçu
 
 (2) Sous réserve du paragraphe (4) :
+
 a) le document laissé en application de l’alinéa (1) b) est réputé avoir été reçu le premier jour ouvrable suivant le jour où il a été laissé;
+
 b) le document envoyé en application de l’alinéa (1) c) est réputé avoir été reçu le cinquième jour ouvrable suivant sa mise à la poste;
+
 c) le document envoyé en application de l’alinéa (1) d) est réputé avoir été reçu le deuxième jour ouvrable suivant le jour de sa réception par le service de messagerie commerciale;
+
 d) le document envoyé en application de l’alinéa (1) e) ou f) est réputé avoir été reçu le premier jour ouvrable suivant le jour de son envoi;
+
 e) le document remis en application de l’alinéa (1) g) est réputé avoir été reçu le jour précisé par les règlements.
 
 ### Définition
 
 (3) La définition qui suit s’applique au paragraphe (2).
+
 «jour ouvrable» N’importe quel jour du lundi au vendredi, sauf un jour férié au sens de l’article 87 de la Loi de 2006 sur la législation.
 
 ### Non-réception d’un document
@@ -1993,7 +2415,9 @@ e) le document remis en application de l’alinéa (1) g) est réputé avoir ét
 ### Idem : déclarations
 
 (2) Les déclarations qui se présentent comme étant certifiées conformes par le registrateur, un registrateur adjoint ou un inspecteur sont, sans qu’il soit nécessaire de prouver l’authenticité de la signature ni la qualité du signataire, admissibles en preuve dans toute instance et font foi, en l’absence de preuve contraire, des faits qui y sont énoncés relativement à ce qui suit :
+
 a) la réception ou non de tout document qui doit ou peut être remis au registrateur, au registrateur adjoint ou à l’inspecteur;
+
 b) le jour auquel la preuve d’une infraction à la présente loi a été portée pour la première fois à la connaissance de l’Office ou d’un de ses dirigeants, employés ou mandataires.
 
 ## PartIE VI Règlements
@@ -2003,11 +2427,17 @@ b) le jour auquel la preuve d’une infraction à la présente loi a été port�
 ### Règlements du lieutenant-gouverneur en conseil
 
 102 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) traiter de toute chose qui peut ou doit être prescrite, faite ou prévue par règlement et pour laquelle aucun pouvoir précis n’est par ailleurs prévu à la présente loi;
+
 b) exempter de l’application de toute disposition de la présente loi ou des règlements des personnes ou des entités et prescrire les conditions de ces exemptions;
+
 c) définir tout terme utilisé, mais non défini dans la présente loi;
+
 d) prescrire les choses qui se rapportent à l’intérêt provincial visé à l’article 2;
+
 e) régir les questions transitoires qu’il estime nécessaires ou souhaitables pour faciliter la mise en oeuvre de la présente loi;
+
 f) traiter de toute question qu’il estime souhaitable pour réaliser l’objet de la présente loi.
 
 ### Règlements : règles générales
@@ -2033,37 +2463,65 @@ f) traiter de toute question qu’il estime souhaitable pour réaliser l’objet
 ### Règlements : partie II
 
 104 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des personnes et des entités pour l’application de la disposition 5 du paragraphe 10 (1);
+
 b) prescrire des personnes, des entités et des activités pour l’application de la disposition 5 du paragraphe 12 (1);
+
 c) prescrire des lois pour l’application de la disposition 10 du paragraphe 12 (2);
+
 d) prescrire des dispositions et des lois pour l’application de la disposition 6 du paragraphe 12 (3);
+
 e) prescrire des actes pour l’application du paragraphe 14 (5);
+
 f) prescrire des actes pour l’application de l’alinéa 15 (2) b);
+
 g) prescrire des plans et des dispositions de plan pour l’application de l’alinéa 15 (4) e);
+
 h) prescrire des personnes, des entités et des activités pour l’application de la disposition 3 du paragraphe 17 (2);
+
 i) régir des examens et des rapports et la présentation des renseignements et des rapports visés à l’article 17, notamment :
+
 (i) en régissant leur contenu,
+
 (ii) en exigeant que des parties précisées d’un rapport soient certifiées de la façon précisée par une personne qui possède les qualités requises précisées.
 
 ### Règlements du lieutenant-gouverneur en conseil : partie III
 
 105 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) restreindre la capacité, les droits, les pouvoirs ou les privilèges de l’Office pour l’application du paragraphe 34 (1);
+
 b) permettre et régir, pour l’application du paragraphe 34 (2), la création de filiales de l’Office, notamment :
+
 (i) préciser les objets, les pouvoirs et les fonctions des filiales,
+
 (ii) prévoir leur gestion,
+
 (iii) prescrire des dispositions de la présente loi et des règlements qui s’appliquent, avec les modifications prescrites, aux filiales,
+
 (iv) prescrire des dispositions de la Loi sur les personnes morales, de la Loi sur les renseignements exigés des personnes morales et de la Loi de 2010 sur les organisations sans but lucratif qui s’appliquent aux filiales;
+
 c) régir les activités commerciales mentionnées au paragraphe 34 (3) auxquelles l’Office peut se livrer par l’intermédiaire d’un particulier, d’une personne morale ou d’une autre entité, notamment traiter de la façon dont une entité peut ou non être liée à l’Office, à un membre de son conseil d’administration ou à un de ses dirigeants pour l’application de ce paragraphe;
+
 d) sous réserve du paragraphe (2), prescrire des exigences applicables aux droits, coûts ou frais;
+
 e) régir la création, la tenue et le fonctionnement du Registre, y compris exiger la présentation de renseignements par voie électronique;
+
 f) régir ou interdire l’affichage de renseignements dans le Registre;
+
 g) régir les modalités concernant la présentation de renseignements par l’intermédiaire du Registre ou à l’Office;
+
 h) prescrire la fréquence et les exigences de la mise à jour périodique des renseignements;
+
 i) traiter de la façon dont l’Office doit fournir des renseignements au ministre en application de l’article 53, notamment en exigeant que l’Office identifie les renseignements à fournir au ministre qui ont un caractère confidentiel avant de les lui fournir;
+
 j) exiger que l’Office suive des modalités pour donner au public accès à ses dossiers et pour gérer les renseignements personnels contenus dans ces dossiers, et régir ces modalités;
+
 k) prescrire les objets du Registre;
+
 l) prescrire d’autres circonstances pour l’application de l’alinéa 57 (2) g) dans lesquelles la divulgation est permise;
+
 m) exiger que l’Office divulgue au public les renseignements concernant la rémunération versée ou devant être versée aux membres de son conseil d’administration ou à ses dirigeants ou employés et les autres paiements faits ou devant être faits à ceux-ci, et régir la divulgation.
 
 ### Règlements relatifs aux droits, coûts et frais
@@ -2073,13 +2531,21 @@ m) exiger que l’Office divulgue au public les renseignements concernant la ré
 ### Règlements du ministre : partie III
 
 106 (1) Le ministre peut, par règlement :
+
 a) prescrire le nombre maximal de membres du conseil d’administration pouvant être nommés au titre de la disposition 1 du paragraphe 25 (2);
+
 b) prescrire le nombre maximal de membres du conseil d’administration pouvant être élus au titre de la disposition 2 du paragraphe 25 (2);
+
 c) prescrire les modalités d’élection des membres du conseil d’administration au titre de la disposition 2 du paragraphe 25 (2);
+
 d) prescrire les qualités requises et les critères d’admissibilité des membres du conseil d’administration;
+
 e) prescrire les restrictions concernant la durée du mandat des membres du conseil d’administration et le renouvellement de leur nomination ou leur réélection;
+
 f) prescrire le nombre de membres du conseil d’administration qui constitue le quorum pour l’application du paragraphe 25 (13);
+
 g) prescrire une date pour l’application du paragraphe 26 (3);
+
 h) prescrire les dispositions de la Loi sur les personnes morales, de la Loi sur les renseignements exigés des personnes morales et de la Loi de 2010 sur les organisations sans but lucratif qui s’appliquent à l’Office.
 
 ### Restriction : nombre maximal de membres du conseil d’administration
@@ -2089,24 +2555,39 @@ h) prescrire les dispositions de la Loi sur les personnes morales, de la Loi sur
 ### Règlements : partie IV
 
 107 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) traiter de toute chose que la partie IV permet ou exige de prescrire, de faire ou de prévoir par règlement;
+
 b) traiter des emballages pratiques, des emballages primaires et des emballages de transport, et de ce en quoi consiste chaque type d’emballage pour l’application de la partie IV;
+
 b.1) exiger que les personnes qui remplissent la condition d’avoir conclu l’accord visé au paragraphe 61 (2.1) fournissent les renseignements précisés, y compris des renseignements financiers et en matière d’exploitation, aux parties à l’accord, au public et à l’Office dans les délais précisés;
+
 b.2) régir les accords visés à l’alinéa b.1);
+
 b.3) régir les offres visées à l’article 69.1, notamment :
+
 (i) en précisant les circonstances et les délais dans lesquels les offres doivent être faites,
+
 (ii) en régissant les conditions à inclure dans l’offre,
+
 (iii) en prescrivant les exigences concernant les services offerts;
+
 c) prescrire les renseignements, rapports, dossiers ou documents à joindre à une inscription;
+
 d) prescrire l’endroit où les documents ou les données doivent être créés, conservés ou mis à la disposition du public;
+
 e) prévoir la rédaction et la signature des documents par des moyens électroniques, leur dépôt par transmission électronique directe et l’impression des documents ainsi déposés;
+
 f) régir les rapports exigés en application de l’article 72;
+
 g) régir les vérifications exigées en application de l’article 72, y compris régir les normes visant les vérifications indépendantes exigées par cet article, les qualités requises des vérificateurs et les exigences relatives à l’attestation des vérifications.
 
 ### Matériaux destinés à la boîte bleue
 
 107.1 (1) Sans préjudice de la portée générale de l’article 68, le lieutenant-gouverneur en conseil peut, par règlement, régir la collecte des matériaux destinés à la boîte bleue, notamment :
+
 a) définir «matériaux destinés à la boîte bleue» pour l’application du présent article et des règlements;
+
 b) établir les modalités et exigences qui permettent d’établir, d’une part, quelles personnes sont tenues de recueillir les matériaux destinés à la boîte bleue et, d’autre part, à partir de quelles sources elles sont tenues de les recueillir.
 
 ### Règles
@@ -2116,14 +2597,19 @@ b) établir les modalités et exigences qui permettent d’établir, d’une par
 ### Personnes ou entités
 
 (3) Les règlements visés au paragraphe (2) qui autorisent une ou plusieurs personnes ou entités prescrites à établir des règles, ou qui exigent qu’elles le fassent, peuvent, selon le cas :
+
 a) préciser la personne ou l’entité;
+
 b) établir une façon de déterminer la personne ou l’entité;
+
 c) préciser les critères auxquels doit répondre la personne ou l’entité.
 
 ### Certains pouvoirs
 
 (4) Sans préjudice de la portée générale du paragraphe (2), les règlements qui autorisent une ou plusieurs personnes ou entités prescrites à établir des règles, ou qui exigent qu’elles le fassent, peuvent faire ce qui suit :
+
 a) autoriser différentes personnes ou entités prescrites à établir des règles dans différentes circonstances prescrites, ou exiger qu’elles le fassent;
+
 b) prévoir que les règles établies par une personne ou entité quelconque soient remplacées, en tout ou en partie, par celles qui sont ou qui auraient dû être établies par une autre personne ou entité.
 
 ### Restriction
@@ -2145,27 +2631,43 @@ b) prévoir que les règles établies par une personne ou entité quelconque soi
 ### Règlements : partie V
 
 108 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) préciser la forme et le contenu des ordonnances prises ou rendues et des ordres pris en vertu de la partie V;
+
 b) régir les pénalités administratives qui peuvent être imposées en vertu de l’article 89;
+
 c) prescrire des dispositions de la présente loi ou des règlements pour l’application de l’alinéa 89 (2) f);
+
 d) prescrire des personnes à l’endroit desquelles une ordonnance peut être prise pour l’application de l’alinéa 89 (3) e);
+
 e) prescrire des critères pour l’application du paragraphe 94 (2);
+
 f) préciser d’autres façons de remettre des documents pour l’application de l’alinéa 100 (1) g) et préciser le jour où un document remis de ces façons est réputé être reçu.
 
 ### Idem : pénalités administratives
 
 (2) Sans préjudice de la portée générale de l’alinéa (1) b), les règlements régissant les pénalités administratives peuvent :
+
 a) malgré le paragraphe 89 (2), prescrire des circonstances dans lesquelles une pénalité administrative ne peut pas être imposée;
+
 b) prescrire les critères dont le registrateur ou un registrateur adjoint doit ou peut tenir compte lorsqu’il impose une pénalité en vertu de l’article 89;
+
 c) régir la fixation du montant des pénalités administratives pour l’application du paragraphe 89 (6);
+
 d) autoriser l’imposition d’une pénalité pour chaque journée ou partie de journée pendant laquelle une contravention se poursuit;
+
 e) autoriser des pénalités plus élevées dans le cas d’une deuxième contravention ou d’une contravention subséquente;
+
 f) exiger que la pénalité soit acquittée avant la date limite précisée ou avant la date limite que précise le registrateur ou un registrateur adjoint;
+
 g) autoriser l’imposition de frais pour paiement tardif à l’égard des pénalités qui ne sont pas acquittées avant la date limite, y compris l’imposition de frais progressifs pour paiement tardif;
+
 h) fixer la pénalité cumulative maximale exigible à l’égard d’une contravention ou de contraventions commises au cours d’une période précisée.
 
 ## Partie VII (OMISE)
 
 109 Omis modification de dispositions de la présente loi).
+
 110 Omis (entrée en vigueur de dispositions de la présente loi).
+
 111 Omis (édiction du titre abrégé de la présente loi).

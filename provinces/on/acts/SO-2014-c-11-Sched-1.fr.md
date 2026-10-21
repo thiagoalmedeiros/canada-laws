@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-05-07"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14c11"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # garde d'enfants et la petite enfance (Loi de 2014 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14c11) before relying on it.
 
 L.O. 2014, chap. 11, Annexe 1
 
@@ -25,66 +25,123 @@ L.O. 2014, chap. 11, Annexe 1
 ### Idem
 
 (2) Pour réaliser les objets énoncés au paragraphe (1), la présente loi :
+
 a) prévoit un cadre pour la réglementation :
+
 (i) de la prestation des services de garde,
+
 (ii) du fonctionnement des programmes et des services pour la garde d’enfants et la petite enfance;
+
 b) établit un régime d’agrément et de mise en conformité pour la prestation des services de garde;
+
 c) fixe des exigences pour le financement et la dotation en ressources des programmes et des services pour la garde d’enfants et la petite enfance;
+
 d) facilite et soutient la planification et la mise en oeuvre des programmes et des services pour la garde d’enfants et la petite enfance à l’échelle locale par les municipalités, les conseils d’administration de district des services sociaux, les Premières Nations et les autorités locales prescrites;
+
 e) donne accès à des renseignements qui :
+
 (i) permettent aux parents d’évaluer et de choisir les programmes et les services pour la garde d’enfants et la petite enfance,
+
 (ii) augmentent la compréhension du développement de l’enfant et permettent de mieux évaluer l’efficacité des programmes et des services pour la garde d’enfants et la petite enfance.
+
 f) facilite et soutient la coordination de la planification et de l’élaboration de politiques à l’échelle provinciale.
 
 ### Définitions
 
 2 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «agence de services de garde en milieu familial» Personne agréée comme telle sous le régime de la présente loi. («home child care agency»)
+
 «agréé» Agréé en vertu d’un permis délivré sous le régime de la présente loi. (French version only)
+
 «aire de service» Relativement à un gestionnaire de système de services, s’entend de la zone géographique précisée par les règlements comme étant son aire de service, conformément au paragraphe 65 (2). («service area»)
+
 «autorité locale prescrite» Personne ou entité prescrite par les règlements. («prescribed local authority»)
+
 «centre de garde» Local exploité par une personne qui est agréée sous le régime de la présente loi pour y exploiter un tel centre. («child care centre»)
+
 «circonstances exclues» Les circonstances énoncées à l’article 4 dans lesquelles la garde et la surveillance temporaires d’enfants sont assurées. («exempt circumstances»)
+
 «conseil d’administration de district des services sociaux» Conseil créé en vertu de la Loi sur les conseils d’administration de district des services sociaux. («district social services administration board»)
+
 «conseil scolaire» Conseil au sens du paragraphe 1 (1) de la Loi sur l’éducation. («school board»)
+
 «directeur» Directeur nommé au titre de l’article 66. («director»)
+
 «école» S’entend au sens de la Loi sur l’éducation. («school»)
+
 «enfant» Personne de moins de 13 ans. («child»)
+
 «exploitant» Personne qui contrôle ou gère un local, une agence, un programme ou un service. Les termes «exploiter», «faire fonctionner» et «fonctionnement» ont un sens correspondant. («operator», «operate»)
+
 «fournisseur de services de garde» Toute personne qui fournit des services de garde pour un ou plusieurs enfants. («child care provider»)
+
 «garde d’enfants» ou «services de garde» S’entend au sens de l’article 3. («child care»)
+
 «garde ou surveillance temporaire d’un enfant» Garde ou surveillance assurant la sécurité, le bien-être ou le développement d’un enfant en l’absence de son parent pendant une période continue ne dépassant pas 24 heures. («temporary care for or supervision of a child»)
+
 «gestionnaire de système de services» Municipalité ou conseil d’administration de district des services sociaux désigné comme tel par les règlements, conformément au paragraphe 65 (1). («service system manager»)
+
 «jour de semaine» Tout lundi, mardi, mercredi, jeudi ou vendredi qui n’est pas un jour férié. («weekday»)
+
 «juge» Juge provincial ou juge de paix. («justice»)
+
 «membre de la famille» Relativement à un enfant, personne qui est son parent, son frère, sa soeur, son grand-père, sa grand-mère, son grand-oncle, sa grand-tante, son oncle, sa tante, son cousin, sa cousine ou toute autre personne prescrite par les règlements, notamment par une union conjugale ou l’adoption. («relative»)
+
 «ministère» Le ministère du ministre. («Ministry»)
+
 «ministre» Le ministre de l’Éducation ou l’autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi peut être assignée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «parent» S’entend en outre de la personne qui a la garde légitime d’un enfant ou de celle qui a manifesté l’intention bien arrêtée de traiter un enfant comme un enfant de sa famille. («parent»)
+
 «permis» Permis délivré sous le régime de la présente loi, y compris un permis provisoire, sauf indication contraire du contexte. («licence»)
+
 «plan de programmes et de services pour la garde d’enfants et la petite enfance» Le plan établi et approuvé en application de l’article 51. («child care and early years programs and services plan»)
+
 «Première Nation» S’entend d’une bande au sens de la Loi sur les Indiens (Canada). («First Nation»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «programme de jour prolongé» S’entend au sens de la Loi sur l’éducation. («extended day program»)
+
 «programmes autorisés de loisirs et de développement des compétences» Programmes qui répondent à la description figurant au paragraphe 6 (4). («authorized recreational and skill building programs»)
+
 «programmes et services pour la garde d’enfants et la petite enfance» Programmes et services qui, selon le cas :
+
 a) comprennent la prestation de services de garde;
+
 b) sont des programmes et des services pour la petite enfance. («child care and early years programs and services»)
+
 «programmes et services pour la petite enfance» Programmes et services pour les enfants ou les parents qui sont précisés dans les règlements ou qui répondent à la description qui y figure et qui :
+
 a) concernent l’apprentissage, le développement, la santé et le bien-être des enfants ou s’y rapportent;
+
 b) n’offrent pas de services de garde et ne sont pas des programmes de jour prolongé;
+
 c) sont financés en totalité ou en partie par le ministère. («early years programs and services»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «renseignements personnels» S’entend au sens de l’article 38 de la Loi sur l’accès à l’information et la protection de la vie privée et de l’article 28 de la Loi sur l’accès à l’information municipale et la protection de la vie privée. («personal information»)
+
 «services à domicile» Services de garde qui répondent à la description figurant à la disposition 3 du paragraphe 6 (3). («in-home services»)
+
 «services de garde agréés» Services de garde qui, selon le cas :
+
 a) sont fournis dans un centre de garde;
+
 b) sont des services de garde en milieu familial;
+
 c) sont des services à domicile. («licensed child care»)
+
 «services de garde en milieu familial» Services de garde qui répondent à la description figurant à la disposition 1 du paragraphe 6 (3). («home child care»)
+
 «soins en établissement» Le vivre ou le couvert, ou les deux, y compris, le cas échéant, les soins spécialisés, les soins en établissement protégé ou les soins de groupe fournis conjointement avec le vivre ou le couvert, ou les deux. («residential care»)
+
 «titulaire d’un poste supérieur désigné» Personne employée au ministère au poste de sous-ministre, de sous-ministre associé ou de sous-ministre adjoint ou à un poste prescrit par les règlements. («designated senior employee»)
+
 «Tribunal» Le Tribunal d’appel en matière de permis. («Tribunal»)
+
 «vérification de dossier de police» S’entend au sens de la Loi de 2015 sur la réforme des vérifications de dossiers de police. («police record check») 2014, chap. 11, annexe 1, par. 2 (1)
 
 ### Interprétation : agence de services de garde en milieu familial
@@ -106,20 +163,27 @@ c) sont des services à domicile. («licensed child care»)
 ### services aux clients et autres
 
 2. La garde ou la surveillance est assurée comme service dans un local pour les invités, les visiteurs ou les clients qui :
+
 i. utilisent le service sur une base irrégulière,
+
 ii. restent sur les lieux pendant la durée d’utilisation du service,
+
 iii. sont aisément accessibles pour s’occuper des enfants.
 
 ### domicile
 
 3. La garde ou la surveillance est assurée au propre domicile d’un enfant et, selon le cas :
+
 i. n’est pas assurée à des enfants ne résidant pas à ce domicile,
+
 ii. ne répond pas à la description de services à domicile énoncée à la disposition 3 du paragraphe 6 (3).
 
 ### écoles
 
 4. La garde ou la surveillance est assurée comme service ou dans le cadre d’un programme que fait fonctionner un conseil scolaire ou le gouvernement de l’Ontario et :
+
 i. le but principal du service ou du programme est de nature pédagogique ou parascolaire,
+
 ii. le service ou le programme est offert uniquement à des élèves inscrits au cycle primaire ou à un cycle supérieur dans une école.
 
 ### programmes de jour prolongé
@@ -129,7 +193,9 @@ ii. le service ou le programme est offert uniquement à des élèves inscrits au
 ### écoles privées
 
 6. La garde ou la surveillance est assurée comme service ou dans le cadre d’un programme que fait fonctionner une personne qui exploite une école privée au sens de la Loi sur l’éducation et uniquement pour des élèves inscrits dans cette école qui :
+
 i. soit ont quatre ans ou plus,
+
 ii. soit, si la garde ou la surveillance est assurée le 1 er septembre d’une année civile ou par la suite, atteindront l’âge de quatre ans au cours de cette année.
 
 ### loisirs et autres
@@ -143,11 +209,17 @@ ii. soit, si la garde ou la surveillance est assurée le 1 er septembre d’une 
 ### camps
 
 9. Sous réserve du paragraphe (3), la garde ou la surveillance est assurée dans le cadre d’un camp :
+
 i. qui n’est pas exploité pendant plus de 13 semaines par année civile,
+
 ii. qui n’est pas exploité les jours où un enseignement est habituellement dispensé aux élèves inscrits dans une école,
+
 iii. qui n’est pas exploité au domicile d’une personne,
+
 iv. où la garde ou la surveillance est assurée uniquement pour des enfants qui :
+
 A. soit ont quatre ans ou plus,
+
 B. soit, si la garde ou la surveillance est assurée le 1 er septembre d’une année civile ou par la suite, atteindront l’âge de quatre ans au cours de cette année.
 
 ### soins en établissement ou en famille d’accueil
@@ -165,11 +237,17 @@ B. soit, si la garde ou la surveillance est assurée le 1 er septembre d’une a
 ### Camps : exception
 
 (3) La disposition 9 du paragraphe (1) n’inclut pas la garde ou la surveillance temporaire d’enfants assurée dans le cadre d’un camp :
+
 a) d’une part, qui est exploité par une personne qui, selon le cas :
+
 (i) a cessé d’exploiter un centre de garde dans un local pour y exploiter le camp,
+
 (ii) a cessé de fournir des services de garde en milieu familial dans un local pour y exploiter le camp,
+
 (iii) a cessé de fournir les services de garde visés à la disposition 2 du paragraphe 6 (3) dans un local pour y exploiter le camp,
+
 (iv) a cessé d’exploiter tout autre programme ou service de garde prescrit par les règlements dans un local pour y exploiter le camp;
+
 b) d’autre part, qui est exploité selon un horaire identique ou similaire à celui établi avant l’exploitation du camp et où les services de garde fournis sont par ailleurs de même nature.
 
 ## Partie II Mesures de protection
@@ -177,8 +255,11 @@ b) d’autre part, qui est exploité selon un horaire identique ou similaire à 
 ### Champ d’application de la partie : circonstances exclues
 
 5 (1) Sous réserve du paragraphe (2), la présente partie ne s’applique pas à une personne qui, dans une circonstance exclue :
+
 a) soit assure la garde ou la surveillance temporaire d’enfants;
+
 b) soit exploite un local où la garde ou la surveillance temporaire d’enfants est assurée;
+
 c) soit organise ou supervise la garde ou la surveillance temporaire d’enfants.
 
 ### Idem
@@ -200,30 +281,47 @@ c) soit organise ou supervise la garde ou la surveillance temporaire d’enfants
 ### services de garde en milieu familial
 
 1. Les services de garde fournis dans le local remplissent les critères suivants :
+
 i. Les services de garde sont fournis :
+
 A. soit par un seul fournisseur de services de garde pour, à un moment donné, au plus six enfants ou au plus le nombre inférieur prescrit conformément au paragraphe (6), le cas échéant,
+
 B. soit, si les règlements le prévoient, par deux fournisseurs de services de garde pour au plus deux fois le nombre d’enfants qui s’applique dans le cadre de la sous-sous-disposition A ou au plus le nombre inférieur prescrit, le cas échéant.
+
 ii. Le fournisseur de services de garde a conclu une entente avec une agence de services de garde en milieu familial prévoyant que celle-ci supervise la prestation des services.
+
 iii. L’agence de services de garde en milieu familial a été informée de tous les enfants dans le local.
+
 iv. Le groupe d’enfants n’inclut pas :
+
 A. dans les circonstances mentionnées à la sous-sous-disposition i A, plus de trois enfants de moins de deux ans,
+
 B. dans les circonstances mentionnées à la sous-sous-disposition i B, plus de six enfants de moins de deux ans ou plus du nombre inférieur prescrit, le cas échéant,
+
 C. si le directeur autorise, en vertu de l’article 27, la prestation de services de garde pour un nombre d’enfants de moins de deux ans supérieur à celui qui s’applique dans le cadre de la sous-sous-disposition A ou B, plus de ce nombre.
 
 ### services de garde non agréés : maximum de cinq enfants
 
 2. Les services de garde fournis dans le local remplissent les critères suivants :
+
 i. Les services de garde sont fournis pour, à un moment donné, au maximum cinq enfants ou le nombre inférieur prescrit par les règlements, le cas échéant.
+
 ii. Le fournisseur de services de garde n’a pas conclu d’entente avec une agence de services de garde en milieu familial prévoyant que celle-ci supervise la prestation des services.
+
 iii. Le groupe d’enfants n’inclut pas plus de trois enfants de moins de deux ans.
 
 ### services à domicile
 
 3. Les services de garde fournis dans le local remplissent les critères suivants :
+
 i. Les services de garde sont fournis pour un enfant à son domicile, ou dans un autre endroit où des soins en établissement lui sont fournis.
+
 ii. Le fournisseur de services de garde a conclu une entente avec une agence de services de garde en milieu familial prévoyant que celle-ci supervise la prestation des services.
+
 iii. L’agence de services de garde en milieu familial a été informée de tous les enfants dans le local.
+
 iv. Abrogée : 2019, chap. 4, annexe 3, par. 2 (4).
+
 v. Les services de garde remplissent les autres critères prescrits par les règlements.
 
 ### circonstances prescrites
@@ -233,18 +331,27 @@ v. Les services de garde remplissent les autres critères prescrits par les règ
 ### Idem : programmes autorisés de loisirs et de développement des compétences
 
 (4) Si les règlements le prévoient, le paragraphe (1) ne s’applique pas à l’égard de la prestation de services de garde s’ils sont fournis dans le cadre d’un programme qui remplit les critères suivants :
+
 1. Le but principal du programme est de fournir des services de garde.
+
 2. Le programme comprend comme but complémentaire des activités visant à promouvoir des habiletés récréatives, artistiques, musicales ou sportives ou à dispenser un enseignement religieux, culturel ou linguistique.
+
 3. Le programme n’est pas fourni au domicile d’une personne.
+
 4. Les services de garde sont fournis uniquement pour des enfants qui :
+
 i. soit ont quatre ans ou plus,
+
 ii. soit, si les services sont fournis le 1 er septembre d’une année civile ou par la suite, atteindront l’âge de quatre ans au cours de cette année.
+
 5. Le programme remplit tout autre critère prescrit par les règlements.
 
 ### Enfants du fournisseur
 
 (5) Le dénombrement des enfants dans un local au titre des dispositions 1 et 2 du paragraphe (3) englobe les propres enfants du fournisseur de services de garde qui se trouvent dans le local, sauf dans les cas suivants :
+
 1. Un enfant de quatre ans ou plus ne fait pas partie du dénombrement n’importe quel jour.
+
 2. Si les services de garde sont fournis le 1 er septembre d’une année civile ou par la suite, l’enfant qui atteindra l’âge de quatre ans au cours de cette année ne fait pas partie du dénombrement n’importe quel jour.
 
 ### Services de garde en milieu familial : nombre d’enfants
@@ -270,8 +377,11 @@ ii. soit, si les services sont fournis le 1 er septembre d’une année civile o
 ### Interdiction : exploitation d’une agence de services de garde en milieu familial
 
 7 Nul ne doit faire ce qui suit si ce n’est en vertu d’un permis d’agence de services de garde en milieu familial :
+
 1. Conclure avec le parent d’un enfant une entente prévoyant la prestation de services de garde par un tiers, pour l’enfant, dans un local autre que le propre domicile de celui-ci.
+
 2. Abrogée : 2019, chap. 4, annexe 3, art. 3.
+
 3. Conclure avec un fournisseur de services de garde une entente prévoyant la supervision de ces services, notamment en en surveillant l’exploitation, en fournissant des services administratifs ou en imposant des normes ou des exigences à leur égard.
 
 ### Interdiction : exploitation de locaux multiples non agréés
@@ -281,18 +391,31 @@ ii. soit, si les services sont fournis le 1 er septembre d’une année civile o
 ### Interdiction : conduite antérieure des fournisseurs de services de garde et autres
 
 9 (1) Nul particulier ne doit fournir des services de garde, exploiter un local où sont fournis de tels services ou conclure une entente visée à l’article 7 dans les cas suivants :
+
 1. Le particulier a été déclaré coupable de l’une ou l’autre des infractions suivantes :
+
 i. Une infraction prévue par la présente loi.
+
 ii. Une infraction prévue par l’un ou l’autre des articles suivants du Code criminel (Canada) :
+
 A. L’article 151 (contacts sexuels).
+
 B. L’article 163.1 (pornographie juvénile).
+
 C. L’article 215 (devoir de fournir les choses nécessaires à l’existence).
+
 D. L’article 229 (meurtre).
+
 E. L’article 233 (infanticide).
+
 iii. Toute autre infraction fédérale ou provinciale prescrite par les règlements.
+
 2. Il a été conclu que le particulier a commis une faute professionnelle en vertu de la Loi de 2007 sur les éducatrices et les éducateurs de la petite enfance, de la Loi de 1996 sur l’Ordre des enseignantes et des enseignants de l’Ontario, de la Loi de 1998 sur le travail social et les techniques de travail social ou de toute autre loi prescrite et, sur la foi de cette conclusion :
+
 i. l’adhésion du particulier à l’organisme de réglementation créé en vertu de cette loi a été révoquée et le particulier n’a pas été réadmis depuis,
+
 ii. un certificat ou un document délivré au particulier sous le régime de cette loi qui l’autorisait à exercer a été révoqué et aucun nouveau certificat ou document ne lui a été délivré depuis,
+
 iii. l’autorisation d’exercer du particulier a été restreinte de toute autre façon prescrite par les règlements.
 
 ### Administrateurs de personnes morales
@@ -302,7 +425,9 @@ iii. l’autorisation d’exercer du particulier a été restreinte de toute aut
 ### Personne morale
 
 (3) Nulle personne morale ne doit exploiter un local où des services de garde sont fournis ou conclure une entente visée à l’article 7 si, selon le cas :
+
 a) elle a été déclarée coupable d’une infraction mentionnée à la sous-disposition 1 i ou iii du paragraphe (1);
+
 b) un de ses administrateurs est visé par la disposition 1 ou 2 du paragraphe (1).
 
 ### Municipalités et conseils scolaires
@@ -314,35 +439,53 @@ b) un de ses administrateurs est visé par la disposition 1 ou 2 du paragraphe (
 ### Accès à l’enfant
 
 10 (1) Nulle personne fournissant des services de garde ou exploitant un local où de tels services sont fournis ne doit empêcher un parent d’avoir accès à son enfant sauf, selon le cas :
+
 a) si elle a des motifs raisonnables de croire que le parent n’a pas de droit d’accès à l’enfant;
+
 b) dans les circonstances prescrites par les règlements.
 
 ### Accès au local
 
 (2) Nulle personne fournissant des services de garde dans un local ou exploitant celui-ci ne doit empêcher un parent d’entrer dans le local pendant que des services de garde y sont fournis pour son enfant sauf, selon le cas :
+
 a) si elle a des motifs raisonnables de croire que le parent n’a pas de droit d’accès à l’enfant;
+
 b) si elle a des motifs raisonnables de croire que le parent pourrait présenter un danger pour les enfants dans le local;
+
 c) si le parent a un comportement perturbateur;
+
 d) dans les circonstances prescrites par les règlements.
 
 ### Interdiction : utilisation de certains termes concernant l’agrément
 
 11 (1) Nul ne doit utiliser les termes suivants relativement à un programme ou à un service qui comprend la garde ou la surveillance temporaire d’enfants, ou à un local où un tel programme ou service est fourni, à moins que cette garde ou cette surveillance ne constitue des services de garde agréés :
+
 1. Centre de garde.
+
 2. Centre de garde agréé.
+
 3. Services de garde agréés.
+
 4. Garderie agréée.
+
 5. Agence de services de garde en milieu familial.
+
 6. Agence de services de garde en milieu familial agréée.
+
 7. Services de garde en milieu familial agréés.
+
 8. Tout autre terme prescrit par les règlements.
 
 ### Idem
 
 (2) Le paragraphe (1) s’applique également à l’utilisation :
+
 a) soit d’une variante, d’une abréviation ou d’une abréviation d’une variante d’un terme figurant au paragraphe (1);
+
 b) soit d’un équivalent dans une autre langue :
+
 (i) d’un terme figurant au paragraphe (1),
+
 (ii) d’une variante, d’une abréviation ou d’une abréviation d’une variante d’un tel terme.
 
 ### Interdiction pour une personne de laisser entendre qu’elle est agréée
@@ -412,9 +555,13 @@ b) soit d’un équivalent dans une autre langue :
 ### Idem
 
 (2) Le paragraphe (1) s’applique également à l’utilisation :
+
 a) soit d’une variante, d’une abréviation ou d’une abréviation d’une variante d’un terme visé au paragraphe (1);
+
 b) soit d’un équivalent dans une autre langue :
+
 (i) d’un terme visé au paragraphe (1),
+
 (ii) d’une variante, d’une abréviation ou d’une abréviation d’une variante d’un tel terme.
 
 ### Interdiction de laisser entendre qu’un programme est homologué
@@ -440,16 +587,23 @@ b) soit d’un équivalent dans une autre langue :
 ### Publication de renseignements
 
 19 (1) Le ministre publie ce qui suit sur un site Web du gouvernement :
+
 1. Un résumé de chaque ordre de mise en conformité donné en vertu de l’article 36.
+
 2. Un résumé de chaque ordre de protection donné en vertu de l’article 37.
+
 3. Un résumé de chaque avis de pénalité administrative délivré en vertu de l’article 39, sauf si l’avis a été annulé ou infirmé.
+
 4. Un résumé de chaque déclaration de culpabilité pour une infraction prévue par l’article 78 et les pénalités imposées.
 
 ### Idem
 
 (2) Le ministre peut publier ce qui suit sur un site Web du gouvernement :
+
 1. Un résumé de chaque intention de refuser la délivrance ou le renouvellement d’un permis ou de révoquer un permis en vertu de l’article 23, sauf s’il n’a pas été donné suite au refus ou à la révocation.
+
 2. Un résumé de chaque ordonnance d’interdiction rendue en vertu de l’article 38.
+
 3. Tout autre renseignement prescrit par les règlements.
 
 ### Autres publications
@@ -463,18 +617,27 @@ b) soit d’un équivalent dans une autre langue :
 ### Délai
 
 (5) Les règles suivantes s’appliquent à l’égard des délais de publication de renseignements dans le cadre du paragraphe (1) ou (2) :
+
 1. Le résumé d’un ordre de mise en conformité doit être publié dans les 30 jours qui suivent le jour où l’ordre a été donné.
+
 2. Le résumé d’une intention de refuser la délivrance ou le renouvellement d’un permis ou de révoquer un permis ne doit pas être publié avant l’expiration du délai prévu pour demander une audience en vertu du paragraphe 23 (4) ou, si une audience est demandée, avant qu’il ait été statué de façon définitive sur la question en litige.
+
 3. Le résumé d’une pénalité administrative ne doit pas être publié :
+
 i. avant l’expiration du délai prévu pour demander une révision en vertu du paragraphe 39 (7),
+
 ii. avant que le titulaire d’un poste supérieur désigné ait pris une décision, si une révision est demandée.
 
 ### Durée de la publication
 
 (6) Les règles suivantes s’appliquent pour déterminer la durée pendant laquelle les renseignements visés au paragraphe (1) doivent demeurer sur le site Web :
+
 1. Sous réserve de la disposition 2, un résumé visé au paragraphe (1) demeure sur le site Web pendant au moins 12 mois après sa publication.
+
 2. Si l’ordre, la pénalité ou la déclaration de culpabilité auquel il se rapporte est annulé ou infirmé, un résumé visé au paragraphe (1) est promptement enlevé du site Web.
+
 3. Sous réserve de la disposition 4, après l’expiration du délai de 12 mois visé à la disposition 1, un résumé visé au paragraphe (1) peut être enlevé du site Web.
+
 4. Les résumés visés au paragraphe (1) ne doivent pas être enlevés du site Web dans les circonstances prescrites.
 
 ### Affichage des renseignements
@@ -492,7 +655,9 @@ ii. avant que le titulaire d’un poste supérieur désigné ait pris une décis
 ### Interdiction : identification d’un enfant
 
 (10) Malgré toute autre disposition du présent article, le ministre ou un directeur ne doit pas publier l’identité, ni aucun renseignement susceptible de révéler l’identité, d’un enfant :
+
 a) soit à qui auraient été infligés des mauvais traitements d’ordre sexuel;
+
 b) soit qui aurait subi tout autre préjudice physique ou psychologique.
 
 ### Décision définitive
@@ -506,9 +671,13 @@ b) soit qui aurait subi tout autre préjudice physique ou psychologique.
 ### Demande
 
 20 (1) Une personne peut présenter une demande de permis ou de renouvellement de permis autorisant l’exploitation d’un centre de garde ou de permis d’agence de services de garde en milieu familial en remettant ce qui suit à un directeur :
+
 a) une demande rédigée sous une forme approuvée par le ministre;
+
 b) une attestation, remplie par le demandeur sous une forme approuvée par le ministre, confirmant qu’il ne lui est pas interdit par l’article 9 d’exploiter un centre de garde ou une agence de services de garde en milieu familial;
+
 c) tout autre renseignement ou document précisé par le ministre;
+
 d) le paiement des droits prescrits par les règlements.
 
 ### Idem : exigences additionnelles
@@ -522,8 +691,11 @@ d) le paiement des droits prescrits par les règlements.
 ### Obligation de délivrance ou de renouvellement
 
 (4) Le directeur doit délivrer ou renouveler un permis si le demandeur a présenté sa demande conformément au paragraphe (1), sauf dans l’un ou l’autre des cas suivants :
+
 a) le directeur refuse de le faire conformément à l’article 23;
+
 b) le demandeur a moins de 18 ans, est une société de personnes ou est une association de personnes;
+
 c) un permis détenu par le demandeur a été révoqué, ou la délivrance ou le renouvellement d’un tel permis lui a été refusé, et le délai d’attente prescrit par les règlements n’est pas encore écoulé.
 
 ### Non-transférabilité
@@ -553,7 +725,9 @@ c) un permis détenu par le demandeur a été révoqué, ou la délivrance ou le
 ### Durée du permis
 
 22 (1) Tout permis est délivré ou renouvelé :
+
 a) pour une durée précisée par le directeur conformément aux règlements;
+
 b) à défaut de règlements régissant la durée, pour une durée précisée par le directeur qui ne dépasse pas un an.
 
 ### Expiration
@@ -569,41 +743,69 @@ b) à défaut de règlements régissant la durée, pour une durée précisée pa
 ### Intention de refuser la délivrance du permis
 
 23 (1) Un directeur peut manifester l’intention de refuser de délivrer un permis si, selon lui, un des cas suivants se présente :
+
 a) l’une ou l’autre des personnes suivantes n’a pas les compétences voulues pour exploiter un centre de garde ou une agence de services de garde en milieu familial, selon le cas, de façon responsable conformément à la présente loi et aux règlements :
+
 (i) le demandeur ou un de ses employés,
+
 (ii) si le demandeur est une personne morale, ses dirigeants, administrateurs ou employés ou toute autre personne qui détient une participation conférant le contrôle de celle-ci,
+
 (iii) si la personne détenant une participation conférant le contrôle qui est visée au sous-alinéa (ii) est une personne morale, ses dirigeants, administrateurs ou employés;
+
 b) la conduite antérieure d’une personne mentionnée à l’alinéa a) offre des motifs raisonnables de croire que le centre de garde ou l’agence de services de garde en milieu familial ne sera pas exploité conformément à la loi ni avec honnêteté et intégrité;
+
 c) un bâtiment ou autre lieu où, d’après la demande, des services de garde seront fournis ne serait pas conforme à la présente loi et aux règlements et à toute autre loi, tout autre règlement ou tout règlement municipal applicable;
+
 d) une personne a fait une fausse déclaration dans la demande de permis, ou le demandeur ou toute personne agissant en son nom a fait une fausse déclaration dans un rapport, un document ou d’autres renseignements qui doivent être fournis en application de la présente loi ou des règlements ou d’une autre loi ou d’un autre règlement qui s’applique au centre de garde ou à l’agence de services de garde en milieu familial;
+
 e) un permis détenu par le demandeur a été révoqué ou le renouvellement d’un tel permis a été refusé et il n’y a pas eu de changement important de sa situation;
+
 f) l’avis donné par un gestionnaire de système de services, une Première Nation ou une autorité locale prescrite en vertu de l’article 62 offre des motifs raisonnables de croire que le permis autoriserait la prestation de services de garde dans une aire de service qui est incompatible avec le plan de programmes et de services pour la garde d’enfants et la petite enfance du gestionnaire, de la Première Nation ou de l’autorité eu égard à ce qui suit :
+
 (i) la demande de services de garde,
+
 (ii) la capacité et l’emplacement des centres de garde existants et des locaux où des services de garde en milieu familial sont déjà fournis;
+
 g) le demandeur n’a pas respecté les exigences prescrites par les règlements pour l’application du paragraphe 20 (2).
 
 ### Intention de révoquer le permis ou d’en refuser le renouvellement
 
 (2) Un directeur peut manifester l’intention de révoquer ou de refuser de renouveler un permis si, selon lui, un des cas suivants se présente :
+
 a) l’une ou l’autre des personnes suivantes ne s’est pas conformée ou a sciemment permis à une personne dont elle a le contrôle ou la direction ou qui lui est associée de ne pas se conformer soit à une disposition de la présente loi ou des règlements ou d’une autre loi ou d’un autre règlement qui s’applique au centre de garde ou à l’agence de services de garde en milieu familial, soit à une condition du permis :
+
 (i) le titulaire du permis ou un de ses employés,
+
 (ii) si le titulaire du permis est une personne morale, ses dirigeants, administrateurs ou employés ou toute autre personne qui détient une participation conférant le contrôle de celle-ci,
+
 (iii) si la personne détenant une participation conférant le contrôle qui est visée au sous-alinéa (ii) est une personne morale, ses dirigeants, administrateurs ou employés;
+
 b) la conduite d’une personne mentionnée à l’alinéa a) offre des motifs raisonnables de croire, selon le cas :
+
 (i) que la personne n’a pas les compétences voulues pour exploiter un centre de garde ou une agence de services de garde en milieu familial de façon responsable conformément à la présente loi et aux règlements,
+
 (ii) que le centre de garde ou l’agence de services de garde en milieu familial n’est pas ou ne sera pas exploité conformément à la loi ni avec honnêteté et intégrité,
+
 (iii) que le centre de garde est ou sera exploité ou que les services de garde en milieu familial sont ou seront fournis d’une manière préjudiciable à la santé, à la sécurité ou au bien-être des enfants pour qui des services de garde sont fournis;
+
 c) un bâtiment ou autre lieu où, d’après la demande, des services de garde sont ou seront fournis ne serait pas conforme à la présente loi et aux règlements et à toute autre loi, tout autre règlement ou tout règlement municipal applicable;
+
 d) une personne a fait une fausse déclaration dans la demande de permis ou de renouvellement de permis, ou le titulaire de permis ou toute personne agissant en son nom a fait une fausse déclaration dans un rapport, un document ou d’autres renseignements qui doivent être fournis en application de la présente loi ou des règlements ou d’une autre loi ou d’un autre règlement qui s’applique au centre de garde ou à l’agence de services de garde en milieu familial;
+
 e) le titulaire de permis ne s’est pas conformé à un ordre donné par un directeur ou un inspecteur en vertu de la partie V;
+
 f) le titulaire de permis n’a pas payé une pénalité imposée par un avis de pénalité administrative en vertu de l’article 39;
+
 g) le titulaire de permis n’a pas respecté les exigences prescrites par les règlements pour l’application du paragraphe 20 (2).
 
 ### Avis d’intention au demandeur ou au titulaire de permis
 
 (3) Le directeur avise par écrit le demandeur ou le titulaire de permis, selon le cas, de son intention :
+
 a) soit de refuser de délivrer le permis;
+
 b) soit de refuser de renouveler le permis;
+
 c) soit de révoquer le permis.
 
 ### Contenu de l’avis
@@ -613,7 +815,9 @@ c) soit de révoquer le permis.
 ### Avis aux parents et autres
 
 (5) Le directeur qui manifeste l’intention de refuser de renouveler un permis ou de le révoquer :
+
 a) doit afficher un avis d’intention, d’une manière approuvée par le ministre, dans le local où les services de garde sont fournis en vertu d’un permis;
+
 b) peut aviser de son intention les parents des enfants pour qui les services sont fournis.
 
 ### Enlèvement de l’avis affiché
@@ -631,7 +835,9 @@ b) peut aviser de son intention les parents des enfants pour qui les services so
 ### Pouvoirs du Tribunal
 
 (9) Après avoir tenu l’audience, le Tribunal peut :
+
 a) par ordonnance, enjoindre au directeur de donner suite à son intention, avec ou sans modification, ou substituer son opinion à celle du directeur;
+
 b) par ordonnance, enjoindre au directeur de prendre les mesures qui, selon le Tribunal, s’imposent conformément à la présente loi et aux règlements.
 
 ### Application de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille
@@ -641,18 +847,27 @@ b) par ordonnance, enjoindre au directeur de prendre les mesures qui, selon le T
 ### Prorogation du permis jusqu’à son renouvellement
 
 (11) Sous réserve de l’article 37, si le titulaire de permis a demandé le renouvellement de celui-ci conformément au paragraphe 20 (1) avant sa date d’expiration, ou dans tout autre délai prescrit par les règlements, la durée du permis est réputée prorogée :
+
 a) jusqu’au jour où le directeur accorde le renouvellement;
+
 b) si le directeur a l’intention de refuser d’accorder le renouvellement, jusqu’à l’expiration du délai prévu pour demander une audience ou, si une audience est demandée, jusqu’à ce que le Tribunal rende une décision.
+
 (12) Abrogé : 2024, chap. 17, par. 35 (2).
 
 ### Permis provisoire
 
 24 (1) Malgré toute autre disposition de la présente loi ou des règlements, un directeur peut délivrer un permis provisoire à une personne qui présente une demande de permis ou de renouvellement de permis conformément aux paragraphes 20 (1) et (2) si les conditions suivantes sont réunies :
+
 a) la personne ou un local qu’elle exploite a fait l’objet d’une inspection en vertu de la partie IV et :
+
 (i) l’inspection a révélé que la personne ou le local ne respecte pas toutes les exigences de la présente loi ou des règlements et qu’il faudra un certain temps pour les respecter,
+
 (ii) le directeur est convaincu que le non-respect n’entraînera aucune menace imminente pour la santé, la sécurité ou le bien-être des enfants,
+
 (iii) le directeur est d’avis qu’il sera remédié au non-respect dans le délai prescrit par les règlements;
+
 b) la personne n’est pas visée par l’alinéa 20 (4) b) ou c);
+
 c) les autres conditions ou critères prescrits par les règlements sont remplis.
 
 ### Idem : conversion
@@ -690,11 +905,17 @@ c) les autres conditions ou critères prescrits par les règlements sont remplis
 ### Mesures en cas d’expiration et autres
 
 (10) Si le permis provisoire expire et qu’il n’est pas renouvelé en vertu du paragraphe (5), le directeur doit :
+
 a) si le permis provisoire a été délivré à une personne qui a présenté une demande de permis ou de renouvellement de permis :
+
 (i) soit délivrer ou renouveler le permis en vertu du paragraphe 20 (4),
+
 (ii) soit manifester l’intention de refuser de délivrer ou de renouveler le permis conformément à l’article 23;
+
 b) si le permis a été converti en permis provisoire :
+
 (i) soit reconvertir le permis en permis non provisoire,
+
 (ii) soit manifester l’intention de révoquer le permis conformément à l’article 23.
 
 ### Pas de droit au permis
@@ -704,8 +925,11 @@ b) si le permis a été converti en permis provisoire :
 ### Avis de changement
 
 25 (1) S’il apporte l’un ou l’autre des changements suivants à l’égard d’un permis, le directeur en avise le titulaire par écrit :
+
 1. Il convertit le permis en permis provisoire.
+
 2. Il assortit le permis de conditions.
+
 3. Il modifie les conditions du permis.
 
 ### Prise d’effet immédiate du changement
@@ -723,7 +947,9 @@ b) si le permis a été converti en permis provisoire :
 ### Pouvoirs du Tribunal
 
 (5) Après avoir tenu l’audience, le Tribunal peut :
+
 a) ordonner que le changement soit maintenu, avec ou sans modification, ou substituer son opinion à celle du directeur;
+
 b) par ordonnance, enjoindre au directeur de prendre les mesures qui, selon le Tribunal, s’imposent conformément à la présente loi et aux règlements.
 
 ### Application des par. 23 (10) et (12)
@@ -775,11 +1001,17 @@ b) par ordonnance, enjoindre au directeur de prendre les mesures qui, selon le T
 ### Inspections sans mandat
 
 30 (1) Un inspecteur peut, à toute heure raisonnable et sans mandat, entrer dans les locaux suivants et les inspecter :
+
 a) un centre de garde;
+
 b) un local où des services à domicile sont fournis;
+
 c) un local où des services de garde en milieu familial sont fournis;
+
 d) un local où une agence de services de garde en milieu familial est située;
+
 e) un local où il a des motifs raisonnables de soupçonner qu’une personne ne se conforme pas à la présente loi ou aux règlements;
+
 f) un local où il a des motifs raisonnables de soupçonner que des services de garde sont fournis.
 
 ### Logements
@@ -789,11 +1021,17 @@ f) un local où il a des motifs raisonnables de soupçonner que des services de 
 ### Pouvoirs de l’inspecteur
 
 31 (1) L’inspecteur qui effectue une inspection peut :
+
 a) examiner des documents ou d’autres choses qui se rapportent à l’inspection;
+
 b) demander la production, aux fins d’inspection, de documents ou d’autres choses qui se rapportent à l’inspection;
+
 c) après avoir donné un récépissé écrit à cet effet, enlever, aux fins d’examen et de copie, des documents ou d’autres choses qui se rapportent à l’inspection;
+
 d) afin de produire un document sous une forme lisible, recourir aux dispositifs ou systèmes de stockage, de traitement ou de récupération des données qui sont utilisés habituellement pour exercer des activités commerciales dans le local;
+
 e) prendre des photographies ou faire des enregistrements vidéo ou d’autres enregistrements visuels ou sonores qui se rapportent à l’inspection, y compris des photographies ou des enregistrements d’un enfant ou d’une autre personne dans le local;
+
 f) interroger des personnes sur toute question qui se rapporte à l’inspection.
 
 ### Restriction applicable aux photographies et enregistrements
@@ -803,13 +1041,17 @@ f) interroger des personnes sur toute question qui se rapporte à l’inspection
 ### Demande écrite
 
 (3) La demande de production, aux fins d’inspection, de documents ou d’autres choses doit être présentée par écrit et indiquer ce qui suit :
+
 a) la nature des documents ou des choses demandés;
+
 b) le moment où les documents ou les choses doivent être produits.
 
 ### Production et aide obligatoires
 
 (4) Si un inspecteur demande la production, aux fins d’inspection, de documents ou d’autres choses, la personne qui en a la garde les lui produit dans les délais fixés dans la demande et, dès lors :
+
 a) fournit l’aide qui est raisonnablement nécessaire pour produire un document sous une forme lisible, notamment en recourant à un dispositif ou système de stockage, de traitement ou de récupération des données;
+
 b) fournit l’aide qui est raisonnablement nécessaire pour fournir une interprétation d’un document à l’inspecteur.
 
 ### Pouvoir d’exclure des personnes
@@ -819,12 +1061,15 @@ b) fournit l’aide qui est raisonnablement nécessaire pour fournir une interpr
 ### Restitution
 
 (6) Les documents ou les autres choses qui ont été enlevés aux fins d’examen et de copie sont :
+
 a) mis à la disposition de la personne à qui ils ont été enlevés sur requête de celle-ci et aux date, heure et lieu qui conviennent à la personne et à l’inspecteur;
+
 b) retournés à la personne dans un délai raisonnable.
 
 ### Définition de «document»
 
 (7) La définition qui suit s’applique au présent article.
+
 «document» Tout document ou enregistrement de renseignements, se présentant sous quelque forme que ce soit, y compris un dossier de renseignements personnels.
 
 ### Mandats
@@ -834,21 +1079,33 @@ b) retournés à la personne dans un délai raisonnable.
 ### Délivrance du mandat
 
 (2) Un juge peut délivrer un mandat autorisant l’inspecteur qui y est nommé à entrer dans le local qui y est précisé et à exercer l’un ou l’autre des pouvoirs mentionnés à l’article 31, s’il est convaincu, sur la foi d’une dénonciation faite sous serment ou affirmation solennelle :
+
 a) que, selon le cas :
+
 (i) le local est un centre de garde,
+
 (ii) des services à domicile sont fournis dans le local,
+
 (iii) des services de garde en milieu familial sont fournis dans le local,
+
 (iv) une agence de services de garde en milieu familial est située dans le local,
+
 (v) l’inspecteur a des motifs raisonnables de soupçonner qu’une personne dans le local ne se conforme pas à la présente loi ou aux règlements,
+
 (vi) l’inspecteur a des motifs raisonnables de soupçonner que des services de garde sont fournis dans le local;
+
 b) que, selon le cas :
+
 (i) l’inspecteur s’est vu empêché d’exercer le droit d’entrée prévu à l’article 30 ou un pouvoir prévu au paragraphe 31 (1),
+
 (ii) il existe des motifs raisonnables de croire que l’inspecteur se verra empêché d’exercer le droit d’entrée prévu à l’article 30 ou un pouvoir prévu au paragraphe 31 (1).
 
 ### Logements
 
 (3) Le pouvoir, visé au paragraphe (2), d’entrer dans un local avec mandat ne doit pas être exercé pour entrer dans un local servant de logement, sauf si les conditions suivantes sont réunies :
+
 a) le juge est informé du fait que le mandat est demandé afin d’autoriser l’entrée dans un logement;
+
 b) le juge autorise l’entrée dans le logement.
 
 ### Idem : sous-alinéa (2) a) (vi)
@@ -882,8 +1139,11 @@ b) le juge autorise l’entrée dans le logement.
 ### Rapport d’inspection
 
 33 (1) Après avoir terminé une inspection, l’inspecteur rédige un rapport d’inspection et en remet une copie à un directeur et :
+
 a) si le rapport concerne un centre de garde, au titulaire de permis ou à un employé de celui-ci qui est responsable du centre;
+
 b) si le rapport concerne des services de garde en milieu familial ou des services à domicile, à l’agence de services de garde en milieu familial concernée;
+
 c) dans tout autre cas, à une personne qui fournit des services de garde dans le local inspecté.
 
 ### Copie au fournisseur
@@ -897,9 +1157,13 @@ c) dans tout autre cas, à une personne qui fournit des services de garde dans l
 ### Vérification de dossier de police
 
 35 (1) Un directeur ou un inspecteur peut exiger des personnes suivantes qu’elles lui fournissent les résultats d’une vérification de dossier de police les concernant :
+
 1. Un titulaire de permis ou une personne qui a présenté une demande de permis, ou un employé de l’un ou l’autre.
+
 2. Si la personne visée à la disposition 1 est une personne morale, ses dirigeants, ses administrateurs ou ses employés et toute autre personne qui détient une participation conférant le contrôle de celle-ci.
+
 3. Une personne qui fournit des services de garde en milieu familial ou des services à domicile.
+
 4. Toute autre personne prescrite par les règlements.
 
 ### Idem : personne contrevenant à l’art. 9
@@ -909,7 +1173,9 @@ c) dans tout autre cas, à une personne qui fournit des services de garde dans l
 ### Idem
 
 (3) La vérification de dossier de police :
+
 a) doit avoir été effectuée dans le délai prescrit par les règlements;
+
 b) doit répondre aux autres exigences prescrites par les règlements, y compris les exigences relatives au type de vérification de dossier de police.
 
 ### Obligation de se conformer
@@ -923,14 +1189,19 @@ b) doit répondre aux autres exigences prescrites par les règlements, y compris
 ### Ordres de mise en conformité
 
 36 (1) Un directeur ou un inspecteur qui a des motifs raisonnables de croire qu’une personne ne se conforme pas à une disposition de la présente loi ou des règlements peut donner un ordre de mise en conformité :
+
 a) ordonnant à la personne de se conformer à la disposition;
+
 b) ordonnant à la personne de faire ou de s’abstenir de faire les choses qui y sont précisées;
+
 c) précisant les dates limites auxquelles la personne est tenue de faire ou de s’abstenir de faire les choses qui y sont précisées.
 
 ### Exigences
 
 (2) Sans préjudice de la portée générale du paragraphe (1), un ordre de mise en conformité peut :
+
 a) exiger que la personne remette au directeur un plan précisant les mesures qu’elle prendra pour se mettre en conformité et le demeurer;
+
 b) exiger que la personne ou un de ses employés suive les cours ou la formation qui y sont précisés.
 
 ### Contenu de l’ordre
@@ -952,30 +1223,47 @@ b) exiger que la personne ou un de ses employés suive les cours ou la formation
 ### Ordres de protection
 
 37 (1) Un directeur ou un inspecteur qui, après avoir effectué une inspection, a des motifs raisonnables de croire qu’il existe une menace imminente pour la santé, la sécurité ou le bien-être d’enfants pour qui des services de garde sont fournis donne un ordre de protection comme suit :
+
 1. Si les services de garde sont fournis dans un centre de garde, l’ordre :
+
 i. doit ordonner au titulaire de permis de cesser d’exploiter le centre jusqu’à ce que le directeur soit convaincu qu’il s’est conformé à l’ordre,
+
 ii. doit ordonner au titulaire de permis d’éliminer la menace en prenant les mesures indiquées dans l’ordre,
+
 iii. doit suspendre le permis.
+
 2. Si les services de garde sont des services de garde en milieu familial ou des services à domicile, l’ordre :
+
 i. doit ordonner au fournisseur de services de garde de cesser de fournir les services jusqu’à ce que le directeur soit convaincu qu’il s’est conformé à l’ordre,
+
 ii. doit ordonner au fournisseur de services de garde et à l’agence de services de garde en milieu familial d’éliminer la menace en prenant les mesures indiquées dans l’ordre,
+
 iii. peut ordonner à l’agence de services de garde en milieu familial de cesser d’exploiter celle-ci jusqu’à ce que le directeur soit convaincu qu’elle s’est conformée à l’ordre,
+
 iv. peut suspendre le permis de l’agence de services de garde en milieu familial.
+
 3. Si les dispositions 1 et 2 ne s’appliquent pas, l’ordre :
+
 i. doit ordonner au fournisseur de services de garde de cesser de fournir les services qui font l’objet de l’ordre jusqu’à ce que le directeur soit convaincu qu’il s’est conformé à l’ordre,
+
 ii. doit ordonner au fournisseur de services de garde d’éliminer la menace en prenant les mesures indiquées dans l’ordre.
 
 ### Objet de l’ordre de protection
 
 (2) Un ordre de protection peut être donné en vertu du présent article aux fins suivantes :
+
 a) éliminer la menace pour la santé, la sécurité ou le bien-être des enfants;
+
 b) protéger les enfants contre une telle menace.
 
 ### Contenu de l’ordre
 
 (3) Un ordre de protection doit :
+
 a) énoncer les motifs pour lesquels il est donné;
+
 b) indiquer que la personne qui est tenue de se conformer à l’ordre a droit à une audience devant le Tribunal à la condition de signifier au directeur et au Tribunal une demande d’audience dans les 15 jours qui suivent la réception de l’ordre;
+
 c) comporter tout autre renseignement prescrit par les règlements.
 
 ### Signification
@@ -985,7 +1273,9 @@ c) comporter tout autre renseignement prescrit par les règlements.
 ### Avis aux parents
 
 (5) Un directeur ou un inspecteur :
+
 a) doit afficher un avis de l’ordre, d’une manière approuvée par le ministre, dans le local où les services de garde sont fournis;
+
 b) peut aviser de l’ordre les parents des enfants pour qui les services sont fournis.
 
 ### Enlèvement de l’avis affiché
@@ -995,7 +1285,9 @@ b) peut aviser de l’ordre les parents des enfants pour qui les services sont f
 ### Prise d’effet immédiate de l’ordre de protection
 
 (7) L’ordre de protection prend effet dès la première des éventualités suivantes :
+
 a) l’affichage de l’avis d’ordre de protection dans le local où les services de garde sont fournis;
+
 b) le jour de la signification de l’ordre de protection.
 
 ### Pas de sursis à exécution
@@ -1039,14 +1331,19 @@ b) le jour de la signification de l’ordre de protection.
 ### Objet de la pénalité administrative
 
 (2) Un avis de pénalité administrative peut être délivré en vertu du présent article aux fins suivantes :
+
 a) encourager la conformité à la présente loi et aux règlements;
+
 b) empêcher quiconque de tirer, directement ou indirectement, un avantage économique par suite d’une contravention à la présente loi ou aux règlements.
 
 ### Montant de la pénalité administrative
 
 (3) Sous réserve du paragraphe (4), le montant de la pénalité administrative à l’égard d’une contravention :
+
 a) ne doit pas dépasser 100 000 $;
+
 b) est fixé par le directeur ou l’inspecteur conformément aux règlements;
+
 c) tient compte des fins visées au paragraphe (2).
 
 ### Idem : réduction
@@ -1060,14 +1357,19 @@ c) tient compte des fins visées au paragraphe (2).
 ### Contenu de l’avis de pénalité administrative
 
 (6) L’avis de pénalité administrative :
+
 a) comporte des renseignements sur la nature de la contravention ou est accompagné de tels renseignements, y compris, si cela est pertinent, la date et le lieu où la contravention a été commise;
+
 b) précise le montant de la pénalité à payer ainsi que le délai et le mode de paiement;
+
 c) informe la personne de son droit d’en demander la révision au titulaire d’un poste supérieur désigné.
 
 ### Droit à révision
 
 (7) Quiconque reçoit un avis de pénalité administrative peut en exiger la révision par le titulaire d’un poste supérieur désigné en lui présentant une demande à cet effet sous une forme approuvée par le ministre :
+
 a) dans les 15 jours de la signification de l’avis;
+
 b) dans le délai plus long que précise le titulaire, s’il estime approprié dans les circonstances de proroger le délai de présentation de la demande.
 
 ### Cas où la révision n’est pas demandée
@@ -1081,7 +1383,9 @@ b) dans le délai plus long que précise le titulaire, s’il estime approprié 
 ### Avis aux parents et autres
 
 (10) Dans les 30 jours de la signification d’un avis de pénalité administrative, un directeur doit :
+
 a) soit en afficher un résumé, de la manière approuvée par le ministre, dans le local où les services de garde sont fournis;
+
 b) soit en fournir un résumé aux parents des enfants pour qui les services sont fournis.
 
 ### Enlèvement de l’avis affiché
@@ -1091,8 +1395,11 @@ b) soit en fournir un résumé aux parents des enfants pour qui les services son
 ### Décision du titulaire d’un poste supérieur désigné
 
 (12) À la suite de la révision, le titulaire d’un poste supérieur désigné peut, selon le cas :
+
 a) conclure que la personne n’a pas contrevenu à la disposition de la présente loi ou des règlements que précise l’avis de pénalité administrative et annuler celui-ci;
+
 b) conclure que la personne a contrevenu à la disposition de la présente loi ou des règlements que précise l’avis de pénalité administrative et confirmer celui-ci;
+
 c) conclure que la personne a contrevenu à la disposition, mais que le montant de la pénalité est soit excessif dans les circonstances, soit punitif de par son importance eu égard à l’ensemble des circonstances, auquel cas il doit modifier l’avis en réduisant le montant de la pénalité.
 
 ### Décision définitive
@@ -1174,8 +1481,11 @@ c) conclure que la personne a contrevenu à la disposition, mais que le montant 
 ### Interprétation
 
 47 (1) Dans la présente partie, malgré la définition de «programmes et services pour la garde d’enfants et la petite enfance» au paragraphe 2 (1), les mentions de ce terme s’appliquent uniquement à ce qui suit :
+
 a) les programmes et les services qui offrent des services de garde agréés;
+
 b) les programmes autorisés de loisirs et de développement des compétences;
+
 c) les programmes et les services pour la petite enfance.
 
 ### Idem
@@ -1191,26 +1501,47 @@ c) les programmes et les services pour la petite enfance.
 ### Intérêt provincial
 
 49 (1) Constitue une question d’intérêt provincial la mise en place d’un système de programmes et de services pour la garde d’enfants et la petite enfance qui, à la fois :
+
 a) est axé sur les enfants et les familles de l’Ontario;
+
 b) favorise la santé, la sécurité et le bien-être des enfants;
+
 c) offre des expériences de qualité et des résultats positifs pour les enfants au moyen d’un cadre provincial qui guide la pédagogie;
+
 d) fait appel à du personnel et à des professionnels réfléchis, compétents et qualifiés, y compris des membres de l’Ordre des éducatrices et des éducateurs de la petite enfance;
+
 e) répond aux besoins des collectivités :
+
 (i) en offrant des services à la fois aux familles qui reçoivent une aide financière et à celles qui n’en reçoivent pas,
+
 (ii) en offrant une gamme de choix de services afin de soutenir les parents qui font partie de la population active, tels que des choix adaptés aux divers horaires et formules de travail,
+
 (iii) en permettant aux familles de bénéficier de services de garde agréés en centre de garde, en milieu familial ou à domicile;
+
 f) respecte l’équité, l’inclusion et la diversité dans les collectivités et les caractéristiques spécifiques :
+
 (i) des collectivités autochtones, des Premières Nations, métisses et inuites,
+
 (ii) des enfants handicapés,
+
 (iii) des collectivités francophones,
+
 (iv) des collectivités urbaines, rurales, éloignées et nordiques;
+
 g) prévoit des partenariats solides et durables entre la Province, les gestionnaires de système de services et les autres intervenants communautaires;
+
 h) est coordonné avec d’autres services communautaires et services à la personne;
+
 i) est souple et adaptable aux circonstances locales;
+
 j) soutient le bien-être social et économique des Ontariens;
+
 k) assure une responsabilisation adéquate à l’égard du financement public;
+
 l) soutient la transition entre les programmes et les services pour la garde d’enfants et la petite enfance et l’école;
+
 m) aborde la pédagogie dans les programmes et les services pour la garde d’enfants et la petite enfance d’une manière qui soutient la transition visée à l’alinéa l);
+
 n) traite tout autre aspect prescrit par les règlements.
 
 ### Questions additionnelles
@@ -1234,8 +1565,11 @@ n) traite tout autre aspect prescrit par les règlements.
 ### Contenu
 
 (2) Le plan :
+
 a) traite des questions d’intérêt provincial énoncées à l’article 49, y compris chaque aspect du système mentionné au paragraphe 49 (1);
+
 b) est compatible avec les déclarations de principes faites en vertu du paragraphe 55 (2);
+
 c) inclut tout autre contenu prescrit par les règlements.
 
 ### Autres exigences
@@ -1249,7 +1583,9 @@ c) inclut tout autre contenu prescrit par les règlements.
 ### Approbation du plan
 
 (5) Un plan ne peut pas être mis en oeuvre tant qu’il n’a pas été approuvé :
+
 a) par le conseil de la municipalité, si le gestionnaire de système de services est une municipalité;
+
 b) par les membres du conseil, si le gestionnaire de système de services est un conseil d’administration de district des services sociaux.
 
 ### Mise en oeuvre du plan
@@ -1265,10 +1601,15 @@ b) par les membres du conseil, si le gestionnaire de système de services est un
 ### Rôle du ministre
 
 53 (1) Le rôle du ministre inclut ce qui suit :
+
 a) élaborer et promouvoir une vue d’ensemble du système de programmes et de services pour la garde d’enfants et la petite enfance ainsi que des objectifs à viser pour ce système;
+
 b) soutenir la prestation de programmes et de services pour la garde d’enfants et la petite enfance dans toute la province;
+
 c) coordonner ses efforts avec ceux d’autres ministères relativement aux programmes et aux services qui soutiennent l’apprentissage, le développement, la santé et le bien-être des enfants;
+
 d) encourager des expériences de qualité qui soutiennent l’apprentissage, le développement, la santé et le bien-être des enfants;
+
 e) administrer le régime d’agrément énoncé dans la présente loi et faire exécuter la présente loi.
 
 ### Interprétation
@@ -1278,9 +1619,13 @@ e) administrer le régime d’agrément énoncé dans la présente loi et faire 
 ### Pouvoirs généraux du ministre
 
 54 (1) Le ministre peut :
+
 a) créer, administrer, faire fonctionner et financer des programmes et des services pour la garde d’enfants et la petite enfance;
+
 b) allouer une aide financière aux personnes auxquelles sont imposés des droits à l’égard des services de garde agréés, des programmes autorisés de loisirs et de développement des compétences ou des programmes de jour prolongé, conformément aux règlements;
+
 c) financer d’autres programmes ou services prescrits par les règlements qui offrent ou soutiennent la garde ou la surveillance temporaire d’enfants, et leur allouer une aide financière;
+
 d) offrir des services pour soutenir les exploitants de programmes et services de garde d’enfants et de la petite enfance ainsi que les gestionnaires de système de services dans l’exercice des fonctions que leur attribue la présente loi.
 
 ### Idem : financement
@@ -1326,26 +1671,39 @@ d) offrir des services pour soutenir les exploitants de programmes et services d
 ### Fonctions du gestionnaire de système de services
 
 56 Outre les autres fonctions que lui attribue la présente loi, un gestionnaire de système de services doit :
+
 a) élaborer et administrer des politiques locales concernant le fonctionnement des programmes et des services pour la garde d’enfants et la petite enfance;
+
 b) administrer la prestation de l’aide financière fournie par le ministre en vertu de l’alinéa 54 (1) b), conformément aux règlements;
+
 c) coordonner la planification et le fonctionnement des programmes et des services pour la garde d’enfants et la petite enfance avec ceux d’autres services à la personne fournis par le gestionnaire de système de services;
+
 d) évaluer la viabilité économique des programmes et des services pour la garde d’enfants et la petite enfance dans l’aire de service et, au besoin, les modifier ou en faciliter la modification de manière à contribuer à les rendre économiquement viables;
+
 e) exercer les autres fonctions prescrites par les règlements.
 
 ### Pouvoirs généraux du gestionnaire de système de services
 
 57 (1) Le gestionnaire de système de services peut :
+
 a) créer, administrer, faire fonctionner et financer des programmes et des services pour la garde d’enfants et la petite enfance;
+
 b) allouer une aide financière aux personnes auxquelles sont imposés des droits à l’égard des services de garde agréés, des programmes autorisés de loisirs et de développement des compétences ou des programmes de jour prolongé, conformément aux règlements;
+
 c) financer d’autres programmes ou services prescrits par les règlements qui offrent ou soutiennent la garde ou la surveillance temporaire d’enfants, et leur allouer une aide financière;
+
 d) aider les personnes qui font fonctionner des programmes et des services pour la garde d’enfants et la petite enfance à améliorer leurs capacités dans des domaines tels que la gouvernance, la gestion financière et la planification et la prestation de programmes et de services;
+
 e) évaluer l’incidence du financement public;
+
 f) exercer les autres pouvoirs prescrits par les règlements.
 
 ### Pouvoirs d’une personne physique
 
 (2) Il est entendu que, pour l’application de la présente loi, le gestionnaire de système de services peut utiliser les pouvoirs que lui confèrent les dispositions suivantes :
+
 1. L’article 9 de la Loi de 2001 sur les municipalités ou l’article 7 de la Loi de 2006 sur la cité de Toronto, si le gestionnaire de système de services est une municipalité.
+
 2. L’article 15 de la Loi de 2010 sur les organisations sans but lucratif, si le gestionnaire de système de services est un conseil d’administration de district des services sociaux.
 
 ### Non-exclusivité des pouvoirs
@@ -1359,9 +1717,13 @@ f) exercer les autres pouvoirs prescrits par les règlements.
 ### Conseil gestionnaire de système de services : dispositions de la Loi de 2001 sur les municipalités
 
 (5) Pour l’application de la présente loi, les dispositions suivantes de la Loi de 2001 sur les municipalités et les règlements qui s’y rapportent s’appliquent, avec les adaptations nécessaires, au gestionnaire de système de services qui est un conseil d’administration de district des services sociaux :
+
 1. L’article 107.
+
 2. Les paragraphes 110 (1), (2), (3), (4), (10) et (11).
+
 3. Les paragraphes 417 (1), (2) et (3).
+
 4. Les paragraphes 418 (1), (2), (3) et (4).
 
 ### Non-application : aide interdite
@@ -1371,8 +1733,11 @@ f) exercer les autres pouvoirs prescrits par les règlements.
 ### Rapports périodiques au ministre
 
 58 (1) Aux moments prescrits par les règlements, le gestionnaire de système de services remet au ministre des rapports sur ce qui suit :
+
 1. La mise en oeuvre de son plan de programmes et de services pour la garde d’enfants et la petite enfance.
+
 2. La création, l’administration, le fonctionnement et le financement des programmes et des services pour la garde d’enfants et la petite enfance.
+
 3. Les autres questions prescrites par les règlements.
 
 ### Manière et contenu
@@ -1382,7 +1747,9 @@ f) exercer les autres pouvoirs prescrits par les règlements.
 ### Autres rapports au ministre
 
 59 (1) Le gestionnaire de système de services remet au ministre :
+
 a) les rapports exigés par les règlements;
+
 b) les rapports, documents et renseignements demandés par le ministre.
 
 ### Délais de remise
@@ -1476,7 +1843,9 @@ b) les rapports, documents et renseignements demandés par le ministre.
 ### Directeurs intérimaires
 
 (3) Les pouvoirs et fonctions du directeur peuvent être exercés par un employé au ministère nommé en tant que directeur intérimaire :
+
 a) en cas d’absence ou d’empêchement du directeur;
+
 b) lorsqu’un particulier qui a été nommé directeur a cessé de l’être et qu’aucun nouveau directeur n’a été nommé pour le remplacer.
 
 ### Idem : nomination
@@ -1528,20 +1897,35 @@ b) lorsqu’un particulier qui a été nommé directeur a cessé de l’être et
 ### Collecte et utilisation de renseignements personnels : ministre
 
 70 (1) Le ministre peut recueillir, directement ou indirectement, des renseignements personnels à des fins liées aux questions suivantes et les utiliser à ces fins :
+
 1. L’application de la présente loi et des règlements.
+
 2. La mise en conformité avec la présente loi et les règlements.
+
 3. À l’égard des programmes et des services pour la garde d’enfants et la petite enfance que le ministère crée, administre, fait fonctionner ou finance en tout ou en partie :
+
 i. la planification, la prestation, l’évaluation et la surveillance des programmes et des services,
+
 ii. l’affectation de ressources aux programmes et aux services,
+
 iii. la détection, la surveillance ou la répression des fraudes liées au financement ou des cas où des services et des avantages connexes ont été reçus sans autorisation.
+
 4. La détermination ou la vérification de l’admissibilité d’une personne à un programme ou à un service pour la garde d’enfants ou la petite enfance ou à une aide financière dans le cadre de la présente loi.
+
 5. La mise en oeuvre de la gestion des risques ou des erreurs ou d’activités visant à améliorer ou à maintenir la qualité des programmes et des services que le ministère fournit ou finance en tout ou en partie.
+
 6. La réalisation d’évaluations des programmes et des services pour la garde d’enfants et la petite enfance.
+
 7. La poursuite d’activités de recherche et d’analyse, y compris des études longitudinales, et d’activités statistiques menées par le ministère ou pour son compte à des fins liées à ce qui suit :
+
 i. les programmes et les services pour la garde d’enfants et la petite enfance,
+
 ii. l’éducation,
+
 iii. la transition entre les programmes et les services pour la garde d’enfants et la petite enfance et l’école, et les résultats obtenus,
+
 iv. les questions d’intérêt provincial énoncées à l’article 49,
+
 v. les programmes et les services qui soutiennent l’apprentissage, le développement, la santé et le bien-être des enfants, y compris les programmes et les services fournis ou financés par d’autres ministères.
 
 ### Restrictions : collecte et utilisation
@@ -1563,7 +1947,9 @@ v. les programmes et les services qui soutiennent l’apprentissage, le dévelop
 ### Divulgation exigée
 
 (6) Le ministre peut exiger des personnes suivantes qu’elles lui divulguent les renseignements personnels qui sont raisonnablement nécessaires aux fins visées au paragraphe (1) :
+
 1. Une personne qui fournit ou fait fonctionner un programme ou un service pour la garde d’enfants ou la petite enfance prescrit.
+
 2. Une personne qui possède des renseignements se rapportant à l’une ou l’autre des fins visées au paragraphe (1).
 
 ### Moment et forme de la divulgation
@@ -1573,17 +1959,25 @@ v. les programmes et les services qui soutiennent l’apprentissage, le dévelop
 ### Avis exigé par le par. 39 (2) de la loi sur l’accès à l’information
 
 (8) Si le ministre recueille indirectement des renseignements personnels en vertu du paragraphe (1), l’avis exigé par le paragraphe 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée est donné de l’une ou l’autre des manières suivantes :
+
 a) un avis public affiché sur le site Web du ministère ou du gouvernement de l’Ontario;
+
 b) tout autre mode prescrit par les règlements.
 
 ### Collecte et utilisation de renseignements personnels : gestionnaire de système de services et autres
 
 71 (1) Un gestionnaire de système de services, une Première Nation ou une autorité locale prescrite peut recueillir, directement ou indirectement, des renseignements personnels à des fins liées aux questions suivantes et les utiliser à ces fins :
+
 1. À l’égard des programmes et des services pour la garde d’enfants et la petite enfance que le gestionnaire de système de services, la Première Nation ou l’autorité locale prescrite crée, administre, fait fonctionner ou finance en tout ou en partie :
+
 i. la planification, la prestation, l’évaluation et la surveillance des programmes et des services,
+
 ii. l’affectation de ressources aux programmes et aux services,
+
 iii. la détection, la surveillance ou la répression des fraudes liées au financement ou des cas où des services et des avantages connexes ont été reçus sans autorisation.
+
 2. La détermination ou la vérification de l’admissibilité d’une personne à un programme ou à un service pour la garde d’enfants ou la petite enfance ou à une aide financière dans le cadre de la présente loi.
+
 3. La mise en oeuvre de la gestion des risques ou des erreurs ou d’activités visant à améliorer ou à maintenir la qualité des programmes et des services que le gestionnaire de système de services, la Première Nation ou l’autorité locale prescrite fournit ou finance en tout ou en partie.
 
 ### Restrictions : collecte et utilisation
@@ -1597,7 +1991,9 @@ iii. la détection, la surveillance ou la répression des fraudes liées au fina
 ### Divulgation exigée
 
 (4) Le gestionnaire de système de services, la Première Nation ou l’autorité locale prescrite peut exiger des personnes suivantes qu’elles lui divulguent les renseignements personnels qui sont raisonnablement nécessaires aux fins visées au paragraphe (1) :
+
 1. Une personne qui fournit ou fait fonctionner un programme ou un service pour la garde d’enfants ou la petite enfance prescrit.
+
 2. Une personne qui possède des renseignements se rapportant à la détermination ou à la vérification visée à la disposition 2 du paragraphe (1).
 
 ### Moment et forme de la divulgation
@@ -1607,21 +2003,29 @@ iii. la détection, la surveillance ou la répression des fraudes liées au fina
 ### Attribution de numéros
 
 72 (1) Le ministre peut attribuer un numéro d’immatriculation scolaire de l’Ontario à un enfant qui n’en a pas déjà reçu un en vertu de la présente loi ou d’une autre loi si, selon le cas :
+
 a) le parent de l’enfant a demandé que lui soit attribué un numéro d’immatriculation scolaire de l’Ontario;
+
 b) l’enfant est inscrit ou demande à être inscrit :
+
 (i) soit à un programme ou un service qui inclut la prestation de services de garde agréés,
+
 (ii) soit à un programme ou un service pour la petite enfance prescrit par les règlements.
 
 ### Idem
 
 (2) Les personnes visées au paragraphe (3) sont autorisées à recueillir des renseignements personnels, directement ou indirectement, et à les utiliser et les divulguer aux fins suivantes :
+
 a) l’attribution de numéros d’immatriculation scolaire de l’Ontario en vertu du paragraphe (1);
+
 b) la validation et la mise à jour des numéros et des renseignements personnels qui y sont associés.
 
 ### Idem
 
 (3) Le paragraphe (2) s’applique aux personnes suivantes :
+
 a) le ministre;
+
 b) dans le cas d’un enfant visé à l’alinéa (1) b), les personnes qui fournissent ou font fonctionner des programmes et des services visés aux sous-alinéas (1) b) (i) et (ii).
 
 ### Idem
@@ -1639,21 +2043,29 @@ b) dans le cas d’un enfant visé à l’alinéa (1) b), les personnes qui four
 ### Exception concernant la protection de la vie privée
 
 (2) Malgré le paragraphe 266.3 (1) de la Loi sur l’éducation, une personne qui fournit ou fait fonctionner l’un ou l’autre des programmes ou des services suivants peut recueillir, utiliser ou divulguer le numéro d’immatriculation scolaire de l’Ontario d’une personne, ou en exiger la production, à des fins liées à la prestation de programmes ou de services pour la garde d’enfants et la petite enfance à cette personne :
+
 1. Un programme ou un service qui inclut la prestation de services de garde agréés.
+
 2. Un programme ou un service pour la petite enfance prescrit par les règlements.
 
 ### Idem
 
 (3) Malgré le paragraphe 266.3 (1) de la Loi sur l’éducation, une personne visée au paragraphe (4) peut recueillir, utiliser ou divulguer des numéros d’immatriculation scolaire de l’Ontario, ou en exiger la production, à des fins liées à ce qui suit :
+
 a) l’administration des programmes et des services pour la garde d’enfants et la petite enfance;
+
 b) le financement de ces programmes et de ces services et l’octroi d’une aide financière à leur égard;
+
 c) leur planification, leur prestation et la recherche les concernant.
 
 ### Idem
 
 (4) Le paragraphe (3) s’applique aux personnes suivantes :
+
 a) le ministre;
+
 b) une personne qui fournit ou fait fonctionner un programme ou un service pour la garde d’enfants ou la petite enfance prescrit;
+
 c) toute autre personne ou entité prescrite.
 
 ### Dispositions diverses
@@ -1673,7 +2085,9 @@ c) toute autre personne ou entité prescrite.
 ### Application : âge des enfants
 
 (2) Le paragraphe (1) s’applique à tout ou partie d’un centre de garde qui ne fournit des services de garde qu’à des enfants qui :
+
 a) soit ont quatre ans ou plus;
+
 b) soit, si les services sont fournis le 1 er septembre d’une année civile ou par la suite, atteindront l’âge de quatre ans au cours de cette année.
 
 ### Incompatibilité
@@ -1683,8 +2097,11 @@ b) soit, si les services sont fournis le 1 er septembre d’une année civile ou
 ### Interdiction : entrave au travail de l’inspecteur
 
 76 Nul ne doit :
+
 a) gêner ou entraver le travail d’un inspecteur qui effectue une inspection;
+
 b) refuser de répondre à des questions sur des points qui se rapportent à l’inspection;
+
 c) fournir à l’inspecteur des renseignements qu’il sait faux ou trompeurs sur des points qui se rapportent à l’inspection.
 
 ### Interdiction : renseignements faux ou trompeurs
@@ -1698,18 +2115,31 @@ c) fournir à l’inspecteur des renseignements qu’il sait faux ou trompeurs s
 ### Liste d’infractions
 
 78 (1) Est coupable d’une infraction quiconque contrevient ou ne se conforme pas à l’une ou l’autre des dispositions suivantes de la présente loi :
+
 1. Le paragraphe 6 (1) (Interdiction : exploitation d’un centre de garde).
+
 2. L’article 7 (Interdiction : exploitation d’une agence de services de garde en milieu familial).
+
 3. L’article 8 (Interdiction : exploitation de locaux multiples).
+
 4. Le paragraphe 9 (1) ou l’alinéa 9 (3) a) (Interdiction : conduite antérieure des fournisseurs).
+
 5. Le paragraphe 10 (1) ou (2) (Interdiction : entrave à l’accès du parent).
+
 6. Le paragraphe 11 (1), (3) ou (4) (Interdiction : utilisation de certains termes concernant l’agrément).
+
 7. Le paragraphe 14 (6) (Obligation de restituer le permis et tout écriteau).
+
 8. L’article 16 (Homologation de programmes et de services).
+
 9. Le paragraphe 17 (1) ou (3) (Interdiction : utilisation de certains termes concernant l’homologation).
+
 10. Le paragraphe 73 (1) (Interdiction : numéros d’immatriculation scolaire de l’Ontario).
+
 11. L’article 76 (Interdiction : entrave au travail de l’inspecteur).
+
 12. Le paragraphe 77 (1) ou (2) (Interdiction : renseignements faux ou trompeurs).
+
 13. Toute autre disposition de la présente loi ou des règlements prescrite par les règlements.
 
 ### Infraction : ordres et ordonnances
@@ -1731,7 +2161,9 @@ c) fournir à l’inspecteur des renseignements qu’il sait faux ou trompeurs s
 ### Idem
 
 (2) Le ministre :
+
 a) informe le public de la date où commence l’examen prévu au présent article;
+
 b) prépare un rapport écrit sur l’examen et le met à la disposition du public.
 
 ### Règlements
@@ -1739,71 +2171,129 @@ b) prépare un rapport écrit sur l’examen et le met à la disposition du publ
 ### Règlements du ministre
 
 81 (1) Le ministre peut, par règlement :
+
 a) régir tous les aspects de la prestation de services de garde et du fonctionnement de programmes et de services pour la garde d’enfants et la petite enfance, à l’exclusion de tout ce qui est mentionné au paragraphe 82 (1), notamment :
+
 (i) régir la gestion, l’exploitation et l’utilisation des centres de garde,
+
 (ii) régir la gestion, l’exploitation et les fonctions des agences de services de garde en milieu familial,
+
 (iii) régir la gestion et le fonctionnement des programmes et des services pour la garde d’enfants et la petite enfance;
+
 b) prescrire ou prévoir autrement tout ce que la présente loi, à l’exclusion de tout ce qui est mentionné au paragraphe 82 (1), exige ou permet de prescrire ou de prévoir autrement dans les règlements, y compris régir tout ce qui doit ou peut être fait conformément aux règlements;
+
 c) prévoir des formulaires et les modalités de leur emploi, y compris exiger l’emploi de formulaires approuvés par le ministre.
 
 ### Idem : alinéa (1) a)
 
 (2) Sans préjudice de la portée générale de l’alinéa (1) a), les pouvoirs réglementaires prévus à cet alinéa comprennent le pouvoir de faire ce qui suit :
+
 a) prescrire les normes et les exigences applicables aux programmes ou aux services pour la garde d’enfants ou la petite enfance, y compris les normes et les exigences relatives à ce qui suit :
+
 (i) la programmation et la pédagogie,
+
 (ii) les bâtiments et autres lieux où des programmes et des services pour la garde d’enfants et la petite enfance sont fournis et les installations, le matériel et les services qui doivent y être disponibles,
+
 (iii) toute autre question liée à la santé et à la sécurité;
+
 b) obliger les titulaires de permis, les autres exploitants ou les fournisseurs de services de garde à veiller au respect des normes et des exigences prescrites en vertu de l’alinéa a);
+
 c) traiter de l’établissement, de la construction, de la transformation et de la rénovation des locaux où des services de garde agréés sont fournis;
+
 d) régir les circonstances dans lesquelles les exploitants de programmes ou de services pour la garde d’enfants ou la petite enfance doivent faire participer les parents aux questions relatives à la prestation de ces programmes ou services ainsi que les modalités de leur participation, y compris obliger les exploitants de centres de garde à veiller à ce que les parents soient représentés au conseil d’administration;
+
 e) régir les inspections menées en vertu de la partie IV;
+
 f) obliger les titulaires de permis ou les autres exploitants de programmes et de services pour la garde d’enfants et la petite enfance à faire ce qui suit :
+
 (i) veiller à la prise de mesures déterminées de présélection avant d’engager du personnel et d’accepter des bénévoles, y compris obliger les titulaires de permis ou les exploitants à obtenir une vérification de dossier de police à l’égard de ces personnes,
+
 (ii) obtenir régulièrement des déclarations du personnel et des bénévoles, y compris des déclarations au sujet des condamnations au criminel des personnes pour lesquelles une vérification de dossier de police était exigée.
 
 ### Règlements du lieutenant-gouverneur en conseil
 
 82 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) définir tout terme utilisé mais non défini dans la présente loi;
+
 b) préciser si une activité constitue ou non une circonstance exclue;
+
 c) prescrire des personnes, des locaux, des programmes, des services ou des circonstances pour l’application de la disposition 11 du paragraphe 4 (1);
+
 d) traiter du nombre d’enfants qu’il peut y avoir dans un centre de garde et du nombre de fournisseurs de services de garde qu’il doit y avoir, y compris prescrire des exigences concernant l’âge des enfants;
+
 e) pour l’application de la disposition 1 du paragraphe 6 (3) :
+
 (i) prescrire le nombre d’enfants pour qui des services de garde en milieu familial peuvent être fournis dans les circonstances mentionnées à la sous-sous-disposition 1 i A du paragraphe 6 (3), conformément au paragraphe 6 (6),
+
 (ii) autoriser la prestation de services de garde dans les circonstances mentionnées à la sous-sous-disposition 1 i B du paragraphe 6 (3) et prescrire le nombre d’enfants pour qui des services de garde en milieu familial peuvent être fournis dans ces circonstances,
+
 (iii) prescrire le nombre d’enfants de moins de deux ans pour qui des services de garde en milieu familial peuvent être fournis, pour l’application de la sous-sous-disposition 1 iv B du paragraphe 6 (3);
+
 f) prescrire le nombre d’enfants pour qui des services de garde peuvent être fournis pour l’application de la sous-disposition 2 i du paragraphe 6 (3);
+
 g) prescrire des critères pour l’application de la sous-disposition 3 v du paragraphe 6 (3) ou de la disposition 5 du paragraphe 6 (4);
+
 h) prescrire des personnes, des locaux, des programmes, des services ou des circonstances pour l’application de la disposition 4 du paragraphe 6 (3);
+
 i) traiter de la question de savoir si le paragraphe 6 (1) s’applique à l’égard de la prestation de services de garde s’ils sont fournis dans le cadre d’un programme autorisé de loisirs et de développement des compétences;
+
 j) soustraire une personne temporairement à l’application du paragraphe 6 (1) dans les cas où elle fournissait des services de garde en milieu familial ou des services à domicile supervisés par une agence de services de garde en milieu familial et où le permis de l’agence a été suspendu;
+
 k) régir les qualifications des fournisseurs de services de garde, y compris obliger les exploitants de programmes ou de services pour la garde d’enfants ou la petite enfance à employer des personnes possédant certaines qualifications;
+
 l) établir des cours de formation ou prescrire des exigences en matière de formation ayant trait au fonctionnement de programmes ou de services pour la garde d’enfants ou la petite enfance ou à l’exploitation d’agences de services de garde en milieu familial;
+
 m) obliger les personnes qui font fonctionner les programmes ou les services visés à l’alinéa l) ou qui exploitent les agences visées à cet alinéa à suivre les cours de formation établis en vertu du même alinéa ou à respecter les exigences en matière de formation prescrites en vertu de celui-ci, y compris, si l’exploitant est une personne morale, les dirigeants, administrateurs ou employés de celle-ci ou toute autre personne qui en détient une participation conférant le contrôle;
+
 n) régir le montant ou le mode de calcul du montant que peut demander une personne pour la prestation de services de garde agréés;
+
 o) régir le montant ou le mode de calcul du montant que peut demander une agence de services de garde en milieu familial à un fournisseur de services de garde pour la prestation des services de l’agence;
+
 p) régir les homologations, reconnaissances officielles et autres désignations indiquant qu’un programme ou un service pour la garde d’enfants ou la petite enfance répond à certaines normes ou exigences, notamment :
+
 (i) interdire à des personnes d’attribuer de telles homologations, reconnaissances officielles et autres désignations,
+
 (ii) prescrire les exigences applicables aux personnes qui attribuent de telles homologations, reconnaissances officielles et autres désignations,
+
 (iii) prescrire les critères que doivent remplir les programmes ou les services qui reçoivent de telles homologations, reconnaissances officielles et autres désignations;
+
 q) régir les droits à acquitter par les demandeurs de permis ou de renouvellement de permis;
+
 r) régir les pénalités administratives et toutes les questions utiles à l’administration d’un régime de pénalités administratives institué sous le régime de la présente loi;
+
 s) désigner des municipalités et des conseils d’administration de district des services sociaux en tant que gestionnaires de système de services;
+
 t) préciser la zone géographique qui est l’aire de service de chaque gestionnaire de système de services;
+
 u) traiter de la répartition des pouvoirs et des fonctions entre les gestionnaires de système de services et les autorités locales prescrites en cas de chevauchement de pouvoirs et de fonctions en ce qui concerne les programmes ou les services pour la garde d’enfants ou la petite enfance;
+
 v) traiter des ententes de financement conclues en vertu du paragraphe 54 (3), y compris prescrire les exigences ou les restrictions qui s’appliquent aux ententes sur le partage des coûts;
+
 w) régir la répartition des coûts engagés conformément à une entente sur le partage des coûts incluse dans une entente conclue en vertu du paragraphe 54 (3), notamment :
+
 (i) obliger des municipalités déterminées à participer à la répartition des coûts engagés par un gestionnaire de système de services ou une autorité locale prescrite, et traiter de la manière dont cette part doit être recouvrée par le gestionnaire ou l’autorité,
+
 (ii) traiter du mode de fixation de la répartition des coûts,
+
 (iii) autoriser les parties visées au sous-alinéa (i) à fixer, par voie d’entente, la répartition des coûts et la manière dont ils doivent être recouvrés, et prescrire les conditions applicables dans de telles circonstances,
+
 (iv) prévoir un processus d’arbitrage pour la fixation de la répartition des coûts,
+
 (v) obliger une municipalité qui ne paie pas sa part des coûts à verser une pénalité à la Province, et en régir le montant ou le mode de calcul;
+
 x) régir l’octroi de l’aide financière prévue par la présente loi, y compris l’admissibilité à une telle aide, les demandes pour l’obtenir et son paiement;
+
 y) traiter de toute question qu’il juge nécessaire ou souhaitable pour réaliser efficacement l’objet des articles 72 et 73 en ce qui concerne les numéros d’immatriculation scolaire de l’Ontario, notamment :
+
 (i) prescrire des programmes ou des services pour la petite enfance pour l’application de la disposition 2 du paragraphe 73 (2),
+
 (ii) prescrire des personnes ou entités pour l’application de l’alinéa 73 (4) c),
+
 (iii) réglementer la manière dont les renseignements personnels sont recueillis,
+
 (iv) obliger les personnes qui font fonctionner des programmes ou des services pour la garde d’enfants ou la petite enfance à utiliser les numéros d’immatriculation scolaire de l’Ontario à certaines fins;
+
 z) régir un système d’archives à l’égard des enfants inscrits à des programmes et à des services pour la garde d’enfants et la petite enfance, y compris obliger les personnes qui font fonctionner de tels programmes et services à constituer, à mettre à jour, à conserver, à transférer et à éliminer les dossiers ainsi archivés;
 
 ### Idem
@@ -1827,17 +2317,25 @@ z) régir un système d’archives à l’égard des enfants inscrits à des pro
 ### Consultation du public préalable à la prise de règlements
 
 84 (1) Le ministre ou le lieutenant-gouverneur en conseil ne doit prendre des règlements en vertu de l’article 81 ou 82, selon le cas, que si les conditions suivantes sont réunies :
+
 a) le ministre a publié un avis du projet de règlement sur un site Web du gouvernement et sur tout autre support qu’il estime souhaitable;
+
 b) l’avis respecte les exigences du présent article;
+
 c) le délai, précisé dans l’avis, qui est accordé aux membres du public pour exercer le droit visé à l’alinéa (2) b) a expiré;
+
 d) le ministre a examiné les commentaires et les observations qui lui ont été soumis par les membres du public à l’égard du projet de règlement conformément à l’alinéa (2) b) ou c);
+
 e) dans le cas des règlements pris par le lieutenant-gouverneur en conseil en vertu de l’article 82, le ministre lui a rendu compte des modifications éventuelles qu’il estime approprié d’apporter au projet de règlement.
 
 ### Contenu de l’avis
 
 (2) L’avis mentionné à l’alinéa (1) a) comporte les renseignements suivants :
+
 a) la description du projet de règlement;
+
 b) l’indication du délai accordé aux membres du public pour soumettre au ministre des commentaires écrits sur le projet de règlement, la façon de le faire et l’adresse du destinataire;
+
 c) tout autre renseignement que le ministre estime approprié.
 
 ### Délai pour soumettre des commentaires
@@ -1855,13 +2353,17 @@ c) tout autre renseignement que le ministre estime approprié.
 ### Absence de consultation du public
 
 (6) Le ministre peut décider que le présent article ne devrait pas s’appliquer au pouvoir de prendre un règlement en vertu de l’article 81 ou 82 s’il est d’avis que, selon le cas :
+
 a) l’urgence de la situation l’exige;
+
 b) le projet de règlement est mineur ou de nature technique.
 
 ### Idem
 
 (7) Si le ministre décide que le présent article ne devrait pas s’appliquer au pouvoir de prendre un règlement en vertu de l’article 81 ou 82 :
+
 a) d’une part, le présent article ne s’applique pas au pouvoir qu’a le ministre ou le lieutenant-gouverneur en conseil de prendre le règlement;
+
 b) d’autre part, le ministre donne avis de sa décision au public dès que raisonnablement possible après l’avoir prise.
 
 ### Contenu de l’avis
@@ -1899,7 +2401,9 @@ b) d’autre part, le ministre donne avis de sa décision au public dès que rai
 ### Recouvrement de la totalité ou d’une partie du paiement
 
 (2) Si la municipalité, la Première Nation ou la personne morale agréée change l’emplacement, la structure ou l’affectation d’une garderie, même en partie, ou vend, loue ou hypothèque une garderie ou un droit qui s’y rapporte, ou l’aliène autrement, même en partie, sans l’approbation d’un directeur, ou, qu’après avoir obtenu l’approbation d’un directeur, elle ne respecte pas une des conditions de remboursement imposées aux termes du paragraphe (1), la Couronne peut, à titre de créance exigible, recouvrer auprès de la municipalité, de la Première Nation ou de la personne morale agréée la totalité ou une partie du paiement reçu aux termes de l’article 9 de la Loi sur les garderies :
+
 a) soit par prélèvement sur les sommes que l’Ontario verse à ces dernières sous le régime d’une loi;
+
 b) soit par voie d’instance introduite devant un tribunal compétent.
 
 ### Interprétation
@@ -1917,16 +2421,21 @@ b) soit par voie d’instance introduite devant un tribunal compétent.
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), le pouvoir réglementaire prévu au paragraphe (1) comprend celui de faire ce qui suit :
+
 a) prévoir que la Loi sur les garderies, une disposition de cette loi ou une entente conclue en vertu de celle-ci continue de s’appliquer, pendant une période déterminée et avec les adaptations nécessaires, à des choses déterminées ou dans des circonstances déterminées;
+
 b) prévoir que les permis qui ont été délivrés sous le régime de la Loi sur les garderies sont réputés avoir été remplacés par des permis délivrés sous le régime de la présente loi;
+
 c) prévoir et régir les autorisations temporaires autorisant temporairement une personne dont la demande de permis est en cours d’examen à exploiter un centre de garde ou une agence de services de garde en milieu familial.
 
 ### Incompatibilité avec les règlements transitoires
 
 (3) Les dispositions des règlements pris en vertu du présent article l’emportent sur les dispositions incompatibles de la présente loi ou de ses règlements ou d’autres lois ou règlements dont l’application relève du ministre.
+
 89 Omis (modification de la présente loi).
 
 ## PARTIE IX (OMISE)
 
 90 Omis (entrée en vigueur de dispositions de la présente loi).
+
 91 Omis (édiction du titre abrégé de la présente loi).

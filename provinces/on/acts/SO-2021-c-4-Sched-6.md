@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2022-11-28"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21o04"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Land Tribunal Act, 2021
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21o04) before relying on it.
 
 S.O. 2021, c. 4, Sched. 6
 
@@ -21,11 +21,17 @@ S.O. 2021, c. 4, Sched. 6
 ### Definitions
 
 1 In this Act,
+
 “Minister” means the Attorney General or such other member of the Executive Council to whom the administration of this Act may be assigned or transferred under the Executive Council Act; (“ministre”)
+
 “predecessor adjudicative tribunal” means the board of negotiation, the Conservation Review Board, the Environmental Review Tribunal, the Local Planning Appeal Tribunal or the Mining and Lands Tribunal, as the case may be, before their amalgamation under section 2; (“tribunal décisionnel prédécesseur”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “rules” means the rules made by the Tribunal under section 13; (“règles”)
+
 “transition date” means the day on which section 2 comes into force; (“date de transition”)
+
 “Tribunal” means the Ontario Land Tribunal established under section 2. (“Tribunal”)
 
 ## Part II Consolidated Land Tribunal
@@ -55,7 +61,9 @@ S.O. 2021, c. 4, Sched. 6
 ### Duties of chair
 
 (5) The chair shall have general supervision and direction over the conduct of the affairs of the Tribunal, and shall,
+
 (a) arrange the sittings of the Tribunal; and
+
 (b) assign members of the Tribunal to preside over proceedings as necessary, ensuring that, if more than two members are assigned to a given proceeding, only an uneven number of members is assigned.
 
 ### Term of office
@@ -122,13 +130,17 @@ S.O. 2021, c. 4, Sched. 6
 ### Relief
 
 (4) Unless another Act specifies otherwise, the Tribunal may, as it considers to be appropriate,
+
 (a) make an order granting all or part of the relief applied for; or
+
 (b) make an order granting relief that is additional to or different from the relief applied for.
 
 ### Extension of time
 
 (5) If an order or decision of the Tribunal requires anything to be done within a specified time, the Tribunal may extend the specified time,
+
 (a) on notice and with a hearing; or
+
 (b) without notice or a hearing, if the Tribunal is of the opinion that it is necessary to do so.
 
 ### Power to order entry, inspections
@@ -166,8 +178,11 @@ S.O. 2021, c. 4, Sched. 6
 ### Fees
 
 11 (1) The Tribunal may, subject to the approval of the Minister, set and charge fees,
+
 (a) in respect of proceedings;
+
 (b) for providing copies of forms, notices or other documents; and
+
 (c) for other services provided by the Tribunal.
 
 ### Classes
@@ -205,11 +220,17 @@ S.O. 2021, c. 4, Sched. 6
 ### Rules
 
 13 (1) The Tribunal may make rules governing its practices and procedures, including rules that,
+
 (a) provide for and require the use of hearings or of practices and procedures that are alternatives to traditional adjudicative or adversarial procedures;
+
 (b) provide for specified circumstances in which participation in mediation or other dispute resolution processes by parties to a proceeding is mandatory;
+
 (c) provide for and require notice to be provided in a particular manner;
+
 (d) authorize the Tribunal to combine two or more proceedings or any part of them, or hear two or more proceedings at the same time;
+
 (e) authorize the Tribunal to appoint a person from among a class of parties to a proceeding to represent the class where, in the opinion of the Tribunal, the parties have a common interest; or
+
 (f) govern the making of orders under section 10 and the exercise of powers under the orders.
 
 ### General or particular
@@ -231,14 +252,23 @@ S.O. 2021, c. 4, Sched. 6
 ### Case management conferences
 
 15 The Tribunal may direct the parties to a proceeding to participate in a case management conference prior to a hearing, for the following purposes:
+
 1. To identify additional parties to the proceeding.
+
 2. To identify, define or narrow the issues raised in the proceeding.
+
 3. To identify facts or evidence that may be agreed on by the parties.
+
 4. To provide directions for disclosure of information.
+
 5. To discuss opportunities for resolving one or more issues in the proceeding, including the possible use of mediation or other dispute resolution processes.
+
 6. To establish dates by which any steps in the proceeding are to be taken or begun.
+
 7. To determine the length and schedule of a hearing, if any, and the manner of conducting it.
+
 8. To determine the order of presentation of submissions.
+
 9. To deal with any other matter that may assist in the fair, just and expeditious resolution of the issues.
 
 ### Alternative dispute resolution
@@ -252,11 +282,17 @@ S.O. 2021, c. 4, Sched. 6
 ### Witnesses and evidence
 
 18 (1) At any stage of a proceeding, the Tribunal may,
+
 (a) examine any of the following persons:
+
 (i) a party to the proceeding,
+
 (ii) a witness in the proceeding, or
+
 (iii) a person who has made a submission to the Tribunal with respect to the proceeding, other than a party;
+
 (b) require a party to the proceeding to produce evidence or a witness for examination by the Tribunal; or
+
 (c) require a person referred to in subclause (a) (iii) to produce evidence for examination by the Tribunal.
 
 ### Disclosure to parties
@@ -266,16 +302,23 @@ S.O. 2021, c. 4, Sched. 6
 ### Limits on examination
 
 (3) The Tribunal may limit any examination or cross-examination of a witness,
+
 (a) if the Tribunal is satisfied that all matters relevant to the issues in the proceeding have been fully or fairly disclosed; or
+
 (b) in any other circumstances the Tribunal considers fair and appropriate.
 
 ### Dismissal
 
 19 (1) Subject to subsection (4), the Tribunal may, on the motion of any party or on its own initiative, dismiss a proceeding without a hearing,
+
 (a) if the party who brought the proceeding has not paid any fee required to be paid under this Act;
+
 (b) if the party who brought the proceeding has not responded to a request by the Tribunal for further information within the time specified by the Tribunal;
+
 (c) if the Tribunal is of the opinion that the proceeding has no reasonable prospect of success;
+
 (d) in any circumstance listed in subsection 4.6 (1) of the Statutory Powers Procedure Act; or
+
 (e) in any circumstance provided for under any other Act.
 
 ### Notice
@@ -303,11 +346,17 @@ S.O. 2021, c. 4, Sched. 6
 ### Consolidation of hearings
 
 21 (1) In this section,
+
 “administrative tribunal” means one or more persons, whether or not incorporated and however described, on whom a power, right or duty to hold a hearing is conferred under an Act; (“tribunal administratif”)
+
 “consolidated hearing” means a hearing held by the Tribunal under clause (4) (a); (“audience commune”)
+
 “municipality” includes a board, commission or other local authority exercising any power in respect of municipal affairs or purposes, including school purposes, in unorganized territory; (“municipalité”)
+
 “person” includes a municipality, the Crown, a Crown agency within the meaning of the Crown Agency Act, a public body, a partnership, an unincorporated joint venture and an unincorporated association; (“personne”)
+
 “proponent” means a person who carries out or proposes to carry out or is the owner or person having charge, management or control of an undertaking; (“promoteur”)
+
 “undertaking” means an enterprise or activity, or a proposal, plan or program in respect of an enterprise or activity. (“entreprise”)
 
 ### Application
@@ -321,7 +370,9 @@ S.O. 2021, c. 4, Sched. 6
 ### Effect of notice
 
 (4) Except as otherwise provided by the regulations, if notice is given to the Tribunal in respect of an undertaking,
+
 (a) all matters related to the undertaking that could be considered at a hearing with respect to which this section applies shall be heard by the Tribunal; and
+
 (b) no other person or body shall hold a hearing in respect of a matter referred to in clause (a).
 
 ### Decision
@@ -389,23 +440,37 @@ S.O. 2021, c. 4, Sched. 6
 ### Lieutenant Governor in Council
 
 29 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) governing circumstances, periods and purposes for the purposes of subsection 4 (3);
+
 (b) for the purposes of section 21,
+
 (i) prescribing Acts for the purposes of subsection 21 (2),
+
 (ii) exempting undertakings or hearings from the application of section 21, and prescribing conditions that apply to any such exemption,
+
 (iii) governing notice under subsection 21 (3), including prescribing the form and contents of the notice,
+
 (iv) providing for and governing exemptions from subsection 21 (4),
+
 (v) specifying the parties to a consolidated hearing,
+
 (vi) governing the practices and procedures of the Tribunal in a consolidated hearing.
 
 ### Minister
 
 (2) The Minister may make regulations,
+
 (a) governing the practices and procedures of the Tribunal, other than in relation to a consolidated hearing under section 21;
+
 (b) governing any transitional matters that may arise from the enactment of this Act or the repeal or amendment of any Act or revocation of any regulation by this Act with respect to proceedings before the Tribunal, including in relation to,
+
 (i) proceedings before a predecessor adjudicative tribunal that were commenced but not finally disposed of before the transition date,
+
 (ii) matters referred for a hearing under section 7 of the Expropriations Act before the transition date, or
+
 (iii) proceedings commenced before the Tribunal on or after the transition date;
+
 (c) providing for the continued application of any provision of an Act that is repealed or amended, or provision of a regulation that is revoked, by this Act as that provision read immediately before the transition date, with such modifications as may be specified by the regulations.
 
 ### Conflict
@@ -427,4 +492,5 @@ S.O. 2021, c. 4, Sched. 6
 ### Part VI (OMITTED)
 
 100 Omitted (provides for coming into force of provisions of this Act).
+
 101 Omitted (enacts short title of this Act).

@@ -6,20 +6,22 @@ language: fr
 type: act
 document_date: "2021-06-03"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21a21b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # stratégie de lutte contre la traite des personnes (Loi de 2021 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21a21b) before relying on it.
 
 L.O. 2021, chap. 21, annexe 2
 
 ### Préambule
 
 La traite des personnes est une violation des droits de la personne et constitue un problème complexe en Ontario qui revêt de nombreuses formes.
+
 L’Ontario reconnaît que la traite des personnes a des incidences sur les particuliers et les collectivités partout dans la province et qu’elle peut toucher certaines populations de manière disproportionnée, comme les femmes et les filles de même que les groupes racialisés tels que les communautés autochtones et noires.
+
 Afin de protéger les populations les plus vulnérables, de soutenir des survivants et de mettre fin à la traite des personnes en Ontario, il faut adopter une approche qui sera à la fois axée sur les survivants, exhaustive et concertée.
 
 ### Définitions
@@ -27,7 +29,9 @@ Afin de protéger les populations les plus vulnérables, de soutenir des surviva
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «ministre» Le ministre des Services à l’enfance et des Services sociaux et communautaires ou l’autre membre du Conseil exécutif chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «traite des personnes» S’entend des actes visés aux articles 279.01, 279.011, 279.02 et 279.03 du Code criminel (Canada), sans égard aux règles d’interprétation énoncées à l’article 279.04 de ce code. («human trafficking»)
 
 ### Stratégie de lutte contre la traite des personnes
@@ -55,22 +59,31 @@ Afin de protéger les populations les plus vulnérables, de soutenir des surviva
 ### Consultation
 
 (3) Dans le cadre de cet examen, le ministre :
+
 a) informe le public que la stratégie est en cours d’examen et l’invite à exprimer son opinion sur elle;
+
 b) consulte, de la manière qu’il juge appropriée, les organismes communautaires, les particuliers, les autres ordres de gouvernement et les intervenants qu’il juge appropriés.
 
 ### Idem
 
 (4) Dans le cadre de cet examen, le ministre veille à ce que soient consultés des personnes ayant fait l’objet de la traite des personnes et des membres et représentants des communautés les plus défavorablement touchées par la traite des personnes, notamment :
+
 1. Les groupes racialisés tels que les communautés et organismes autochtones et noirs.
+
 2. Les travailleurs du sexe et les personnes qui interviennent en leur faveur.
+
 3. Les particuliers et organismes qui jouent un rôle dans la protection des libertés civiles.
+
 4. Les particuliers et organismes qui jouent un rôle dans la sécurité publique, la prestation de soins de santé et d’autres domaines en lien avec le soutien aux personnes ayant une expérience vécue de la traite des personnes.
 
 ### Modification de la stratégie
 
 (5) À l’issue de l’examen, le gouvernement de l’Ontario prend l’une des mesures suivantes :
+
 1. Il modifie la stratégie.
+
 2. Il remplace la stratégie par une nouvelle.
+
 3. Il maintient la stratégie déjà en place.
 
 ### Publication
@@ -124,5 +137,7 @@ b) consulte, de la manière qu’il juge appropriée, les organismes communautai
 ### Obligation de la Couronne
 
 11 La présente loi lie la Couronne.
+
 12 Omis (entrée en vigueur de dispositions de la présente loi).
+
 13 Omis (édiction du titre abrégé de la présente loi).

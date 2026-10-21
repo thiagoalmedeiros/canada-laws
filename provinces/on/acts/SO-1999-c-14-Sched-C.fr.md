@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2025-06-05"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99c14c"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # cité de Hamilton (Loi de 1999 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99c14c) before relying on it.
 
 L.O. 1999, chap. 14, annexe C
 
@@ -21,23 +21,41 @@ L.O. 1999, chap. 14, annexe C
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «ancienne municipalité» La municipalité régionale de Hamilton-Wentworth et chacune des municipalités de secteur au sens de la Loi sur la municipalité régionale de Hamilton-Wentworth qui existent le 31 décembre 2000. («old municipality»)
+
 «avantage municipal» S’entend notamment d’un avantage direct ou indirect qui résulte immédiatement de l’affectation de sommes à un service ou à une activité et d’un avantage qui résultera seulement de l’affectation de sommes supplémentaires au service ou à l’activité. («municipal benefit»)
+
 «cité» La cité de Hamilton constituée aux termes de la présente loi. («city»)
+
 «conseil de transition» Le conseil de transition visé au paragraphe 18 (1). («transition board»)
+
 «conseil local» Commission de services publics, commission de services municipaux, commission de transport, conseil de bibliothèque publique, commission de gestion des parcs, conseil de santé, commission de service de police ou autre organisme créé par une loi générale ou spéciale ou exerçant un pouvoir en vertu d’une telle loi en ce qui concerne les affaires d’une ancienne municipalité ou de la cité. Sont toutefois exclues de la présente définition les entités suivantes :
+
 a) le conseil de transition;
+
 b) les sociétés d’aide à l’enfance;
+
 c) les offices de protection de la nature;
+
 d) les conseils scolaires. («local board»)
+
 «convention collective» S’entend, selon le cas :
+
 a) d’une convention collective au sens de la Loi de 1995 sur les relations de travail ;
+
 b) d’une convention collective au sens de la partie IX de la Loi de 1997 sur la prévention et la protection contre l’incendie ;
+
 c) d’une convention visée par la partie VIII de la Loi sur les services policiers. («collective agreement»)
+
 «ministre» Le ministre des Affaires municipales et du Logement. («Minister»)
+
 «réseau de transport de passagers» Réseau qui assure, moyennant contrepartie, le transport de passagers seulement ou de passagers et de marchandises par voie souterraine, par voie de surface ou par voie surélevée dans des véhicules autres que des taxis. («passenger transportation system»)
+
 «secteur fusionné» S’entend de la totalité d’une ancienne municipalité qui fait partie de la cité. («merged area»)
+
 «secteur municipal» Secteur constitué du territoire relevant de la compétence de la municipalité régionale de Hamilton-Wentworth aux termes de la Loi sur la municipalité régionale de Hamilton-Wentworth le 31 décembre 2000. («municipal area»)
+
 «service spécial» Service de la cité qui n’est pas fourni ou activité de la cité qui n’est pas exercée généralement dans toute la cité ou qui l’est à des niveaux différents ou d’une manière différente dans des parties différentes de la cité. («special service») 1999, chap. 14, annexe C, art. 1
 
 ### La cité
@@ -49,6 +67,7 @@ c) d’une convention visée par la partie VIII de la Loi sur les services polic
 ### Statut
 
 (2) La personne morale est une cité et une municipalité locale à toutes fins.
+
 (3) A brogé : 2002, chap. 17, annexe F, tableau.
 
 ### Quartiers
@@ -66,18 +85,27 @@ c) d’une convention visée par la partie VIII de la Loi sur les services polic
 ### Disposition transitoire, premier conseil
 
 (3) Les règles particulières qui suivent s’appliquent aux membres du conseil élus lors des élections ordinaires de 2000 :
+
 1. Malgré l’article 6 de la Loi de 1996 sur les élections municipales, le mandat des membres commence le 1 er janvier 2001.
+
 2. Malgré le paragraphe 49 (1) de la Loi sur les municipalités, la première réunion du conseil se tient au plus tard le 9 janvier 2001.
 
 ### Dissolution des anciennes municipalités
 
 5 (1) Les municipalités suivantes sont dissoutes le 1 er janvier 2001 :
+
 1. La municipalité régionale de Hamilton-Wentworth.
+
 2. La cité de Hamilton.
+
 3. La ville de Dundas.
+
 4. La cité de Stoney Creek.
+
 5. La ville d’Ancaster.
+
 6. La ville de Flamborough.
+
 7. Le canton de Glanbrook.
 
 ### Droits et obligations
@@ -87,7 +115,9 @@ c) d’une convention visée par la partie VIII de la Loi sur les services polic
 ### Idem
 
 (3) Sans préjudice de la portée générale du paragraphe (2) :
+
 a) la cité exerce les pouvoirs et fonctions qu’une loi générale ou spéciale attribue à une ancienne municipalité, à l’égard de la partie du secteur municipal à laquelle ces pouvoirs ou fonctions s’appliquaient le 31 décembre 2000;
+
 b) l’actif et le passif des anciennes municipalités au 31 décembre 2000, y compris les droits, intérêts, approbations, statuts et enregistrements ainsi que les avantages et obligations contractuels, passent à la cité le 1 er janvier 2001, sans versement d’indemnité.
 
 ### Idem, débentures
@@ -233,12 +263,15 @@ b) l’actif et le passif des anciennes municipalités au 31 décembre 2000, y c
 ### Autres fonctions du conseil
 
 (7) Outre les obligations et responsabilités que lui attribue la Loi sur la protection et la promotion de la santé, le conseil fait ce qui suit à la demande de la cité :
+
 1. Il fait des recommandations sur les questions qui sont du ressort de la cité et qui concernent le domaine de la santé publique.
+
 2. Il présente à la cité un rapport annuel sur ses activités.
 
 ### Prorogation des approbations, etc.
 
 (8) Le jour de la création du conseil en application du paragraphe (1), les approbations données et les règlements administratifs et résolutions adoptés par la cité en vertu de la Loi sur la protection et la promotion de la santé qui étaient en vigueur immédiatement avant ce jour sont réputés avoir été donnés ou adoptés par le conseil et demeurent en vigueur jusqu’à leur expiration ou leur abrogation ou jusqu’à ce qu’ils soient modifiés à l’effet contraire.
+
 11.1 A brogé : 2002, chap. 17, annexe F, tableau.
 
 ### Pouvoirs de la cité
@@ -250,7 +283,9 @@ b) l’actif et le passif des anciennes municipalités au 31 décembre 2000, y c
 ### Idem
 
 (2) Le paragraphe (1) s’applique à une personne morale sans capital-actions poursuivant une mission de bienfaisance :
+
 a) soit à laquelle s’applique la Loi de 2010 sur les organisations sans but lucratif ;
+
 b) soit qui est constituée en vertu d’une loi générale ou spéciale du Parlement du Canada.
 
 ### Pouvoirs : parcs
@@ -312,6 +347,7 @@ b) soit qui est constituée en vertu d’une loi générale ou spéciale du Parl
 ### Idem
 
 (6) La décision du Tribunal ontarien de l’aménagement du territoire est définitive.
+
 (7) Abrogé : 2009, chap. 33, annexe 2, art. 14.
 
 ### Fluoration de l’eau
@@ -355,11 +391,17 @@ b) soit qui est constituée en vertu d’une loi générale ou spéciale du Parl
 ### Exceptions
 
 (2) Le paragraphe (1) ne s’applique pas à l’égard des genres suivants de réseaux de transport de passagers :
+
 1. Les véhicules et les bâtiments de mer utilisés à des fins de visites touristiques.
+
 2. Les autobus utilisés pour transporter des élèves, y compris ceux dont est propriétaire et qu’exploite un conseil scolaire, une école privée ou un organisme de bienfaisance ou qui sont exploités conformément à un contrat conclu avec un tel conseil, une telle école ou un tel organisme.
+
 3. Les chemins de fer exploités par des compagnies de chemin de fer constituées en personne morale sous le régime d’une loi fédérale ou provinciale.
+
 4. Les traversiers.
+
 5. Les réseaux d’aviation.
+
 6. Le réseau régional de transport en commun au sens de l’article 1 de la Loi de 2006 sur Metrolinx.
 
 ### Autorisation
@@ -373,6 +415,7 @@ b) soit qui est constituée en vertu d’une loi générale ou spéciale du Parl
 ### Droits
 
 (5) Le présent article n’a pas pour effet d’empêcher une personne d’exploiter un réseau de transport de passagers qui sert à transporter des biens meubles et des passagers entre un point situé dans un secteur désigné dans un règlement municipal visé au paragraphe (1) et un point situé à l’extérieur de celui-ci, ou inversement.
+
 (6) Abrogé : 2020, chap. 34, annexe 23, par. 3 (2).
 
 ### Questions financières
@@ -380,34 +423,47 @@ b) soit qui est constituée en vertu d’une loi générale ou spéciale du Parl
 ### Règlements municipaux : services spéciaux
 
 12 (1) Sous réserve des restrictions énoncées au présent article, la cité peut, par règlement municipal, faire ce qui suit :
+
 1. Désigner un service spécial.
+
 2. Fixer le montant de ses frais (y compris les frais d’immobilisations ainsi que les frais liés aux débentures, à l’amortissement ou à un fonds de réserve) qui découlent de ce service spécial.
+
 3. Sous réserve d’un règlement pris en application du paragraphe (5), désigner un ou plusieurs secteurs fusionnés de la cité comme secteur dans lequel le service spécial procure ou procurera aux résidents et aux propriétaires fonciers un avantage municipal supplémentaire qui n’est ou ne sera pas procuré dans les autres secteurs fusionnés de la cité.
+
 4. Calculer la fraction du montant fixé aux termes de la disposition 2 qui représente le coût additionnel à engager pour offrir l’avantage municipal supplémentaire dans chaque secteur désigné aux termes de la disposition 3 et exposer la méthode que la cité a utilisée pour effectuer ce calcul.
+
 5. Calculer la fraction éventuelle du coût additionnel visé à la disposition 4 qui doit être recueillie aux termes du paragraphe (8).
 
 ### Restriction
 
 (2) Un règlement municipal peut être adopté à l’égard d’un service spécial qui répond aux conditions suivantes :
+
 a) il était fourni dans un secteur fusionné de la cité par une ancienne municipalité ou un conseil local d’une ancienne municipalité, ou pour le compte de l’un ou l’autre;
+
 b) il a continué à être fourni dans le secteur fusionné par la cité ou un conseil local de celle-ci, ou pour le compte de l’un ou l’autre, à un moment donné en 2001.
 
 ### Idem
 
 (3) Un règlement municipal ne peut pas désigner un secteur fusionné visé à la disposition 3 du paragraphe (1) comme secteur dans lequel le service spécial ne procure pas actuellement un avantage municipal supplémentaire aux résidents et aux propriétaires fonciers mais leur en procurera un à l’avenir sauf si, selon le cas :
+
 a) les sommes nécessaires pour offrir l’avantage supplémentaire dans le secteur fusionné sont inscrites au budget de la cité pour l’année, tel qu’il est adopté aux termes de l’article 290 de la Loi de 2001 sur les municipalités ;
+
 b) la cité a créé un fonds de réserve pour financer les sommes nécessaires sur une période de plusieurs années.
 
 ### Idem
 
 (4) La cité ne peut pas adopter de règlement municipal pour une année donnée («l’année applicable») postérieure à 2002 à l’égard d’un service spécial particulier à moins que les conditions suivantes ne soient réunies :
+
 1. Elle a adopté un règlement municipal à l’égard du service spécial en 2002.
+
 2. Elle a adopté un règlement municipal à l’égard du service spécial pour chaque année postérieure à 2002 et antérieure à l’année applicable.
 
 ### Règlements, secteurs désignés
 
 (5) Pour l’application de la disposition 3 du paragraphe (1), le ministre peut, par règlement :
+
 a) préciser un secteur qui peut être désigné en vertu de cette disposition même s’il ne se compose pas d’un ou de plusieurs secteurs fusionnés;
+
 b) prescrire les circonstances dans lesquelles un secteur peut être désigné en vertu de cette disposition même s’il ne se compose pas d’un ou de plusieurs secteurs fusionnés.
 
 ### Idem
@@ -437,13 +493,17 @@ b) prescrire les circonstances dans lesquelles un secteur peut être désigné e
 ### Diminution des taux d’imposition
 
 (3) Sous réserve des restrictions énoncées au présent article, la cité peut, par règlement municipal, diminuer les taux d’imposition qui s’appliqueraient par ailleurs à l’égard de l’évaluation dans un secteur fusionné si les conditions suivantes sont réunies :
+
 a) le conseil municipal estime qu’il serait injuste pour les contribuables du secteur fusionné de ne pas tirer un avantage direct des éléments d’actif ou d’une catégorie d’éléments d’actif du secteur fusionné;
+
 b) le manque à gagner d’impôt découlant de la diminution des taux d’imposition ne dépasse pas la valeur des éléments d’actif visés à l’alinéa a).
 
 ### Augmentation des taux d’imposition
 
 (4) Sous réserve des restrictions énoncées au présent article, la cité peut, par règlement municipal, augmenter les taux d’imposition qui s’appliqueraient par ailleurs à l’égard de l’évaluation dans un secteur fusionné si les conditions suivantes sont réunies :
+
 a) le conseil municipal estime qu’il serait injuste pour les contribuables de l’extérieur du secteur fusionné de prendre en charge les éléments de passif ou une catégorie d’éléments de passif du secteur fusionné;
+
 b) l’excédent d’impôt découlant de l’augmentation des taux d’imposition ne dépasse pas la valeur des éléments de passif visés à l’alinéa a).
 
 ### Restriction
@@ -453,7 +513,9 @@ b) l’excédent d’impôt découlant de l’augmentation des taux d’impositi
 ### Idem
 
 (6) La cité ne peut pas adopter de règlement municipal en vertu du présent article pour une année donnée («l’année applicable») postérieure à 2002 à l’égard d’un secteur fusionné à moins que les conditions suivantes ne soient réunies :
+
 1. Elle a adopté un règlement municipal en vertu du présent article en 2002 à l’égard du secteur fusionné.
+
 2. Elle a adopté un règlement municipal en vertu du présent article à l’égard du secteur fusionné pour chaque année postérieure à 2002 et antérieure à l’année applicable.
 
 ### Idem
@@ -483,7 +545,9 @@ b) l’excédent d’impôt découlant de l’augmentation des taux d’impositi
 ### Définitions
 
 (13) Les définitions qui suivent s’appliquent au présent article.
+
 «éléments d’actif» Les réserves, les fonds de réserve et les autres éléments d’actif prescrits. («assets»)
+
 «éléments de passif» Les dettes et les autres éléments de passif prescrits. («liabilities») 1999, chap. 14, annexe C, par. 13 (13).
 
 ### Recouvrement des frais : captage et évacuation des eaux d’égout
@@ -493,10 +557,15 @@ b) l’excédent d’impôt découlant de l’augmentation des taux d’impositi
 ### Impôts pour divers services
 
 15 (1) La cité peut constituer un ou plusieurs secteurs de services municipaux et y prélever un ou plusieurs impôts extraordinaires locaux aux termes de l’article 312 de la Loi de 2001 sur les municipalités pour recueillir tout ou partie des frais qu’elle engage pour les services suivants, y compris les frais liés à l’établissement, à la construction, à l’entretien, à l’exploitation, à l’agrandissement, à l’amélioration et au financement de ces services :
+
 1. L’approvisionnement en eau et sa distribution.
+
 2. La protection et la prévention contre l’incendie.
+
 3. Les transports en commun, à l’exclusion des voies publiques.
+
 4. L’éclairage des rues.
+
 5. Le captage et l’évacuation des eaux d’égout.
 
 ### Idem
@@ -506,6 +575,7 @@ b) l’excédent d’impôt découlant de l’augmentation des taux d’impositi
 ### Pouvoir d’imposition de secteur
 
 16 (1) La définition qui suit s’applique au présent article.
+
 «pouvoir d’imposition de secteur» Pouvoir prévu par l’article 12 ou 15 de la présente loi ou par une autre disposition d’une loi, d’un règlement, d’un ordre, d’une ordonnance ou d’un arrêté qui autorise la cité à recueillir les frais liés à des services en prélevant des impôts sur moins de la totalité des biens imposables de celle-ci.
 
 ### Obligation
@@ -577,7 +647,9 @@ b) l’excédent d’impôt découlant de l’augmentation des taux d’impositi
 ### Tâche du conseil
 
 (5) Le conseil de transition a pour tâche principale de faciliter la transition entre les anciennes municipalités et leurs conseils locaux, d’une part, et la cité et ses conseils locaux, d’autre part :
+
 a) en contrôlant les décisions des anciennes municipalités et de leurs conseils locaux qui pourraient avoir des répercussions financières importantes pour la cité et ses conseils locaux;
+
 b) en élaborant des plans d’activités pour la cité et ses conseils locaux afin de maximiser l’efficience et les économies de cette nouvelle structure municipale.
 
 ### Pouvoirs et fonctions
@@ -599,9 +671,13 @@ b) en élaborant des plans d’activités pour la cité et ses conseils locaux a
 ### Idem
 
 (10) Sans préjudice de la portée générale du paragraphe (9), un règlement traitant des pouvoirs et des fonctions du conseil de transition peut :
+
 a) énoncer les pouvoirs et fonctions du conseil à l’égard du ministre, du conseil lui-même, de la cité et de ses conseils locaux et des anciennes municipalités et de leurs conseils locaux;
+
 b) prévoir que le conseil est réputé une municipalité, y compris une municipalité régionale, pour l’application de toute loi, laquelle s’appliquerait alors au conseil avec les adaptations précisées dans le règlement;
+
 c) autoriser le conseil à donner des directives à l’égard des questions précisées dans le règlement;
+
 d) préciser les questions ayant trait à la procédure et au fonctionnement du conseil.
 
 ### Idem
@@ -619,7 +695,9 @@ d) préciser les questions ayant trait à la procédure et au fonctionnement du 
 ### Idem
 
 (2) Le contrat doit être un des contrats suivants :
+
 1. Un contrat conclu après le 8 octobre 1999 et qui contient une disposition visée au paragraphe (3).
+
 2. Un contrat modifié après le 8 octobre 1999 de façon à inclure une disposition visée au paragraphe (3).
 
 ### Disposition
@@ -629,6 +707,7 @@ d) préciser les questions ayant trait à la procédure et au fonctionnement du 
 ### Définition
 
 (4) La définition qui suit s’applique au présent article.
+
 «rétribution» S’entend en outre des indemnités de cessation d’emploi et des paiements effectués pendant un délai de préavis ou des paiements tenant lieu d’un tel préavis.
 
 ### Pouvoir d’engager certains employés
@@ -638,29 +717,49 @@ d) préciser les questions ayant trait à la procédure et au fonctionnement du 
 ### Idem
 
 (2) Lorsque le conseil de transition engage une personne aux termes du paragraphe (1), les règles suivantes s’appliquent :
+
 1. Le conseil de transition a le pouvoir de négocier avec la personne les conditions de son contrat de travail.
+
 2. Le contrat de travail lie la cité.
+
 3. Le contrat de travail peut prendre effet le 1 er janvier 2001 ou avant cette date.
+
 4. Si le contrat prend effet avant le 1 er janvier 2001, la personne est un employé du conseil de transition avant cette date et un employé de la cité par la suite. S’il prend effet le 1 er janvier 2001, la personne est un employé de la cité.
+
 5. Pendant qu’elle est un employé du conseil de transition, la personne est réputée un employé au sens de la Loi sur le régime de retraite des employés municipaux de l’Ontario, et le conseil de transition est réputé, à l’égard de cette personne, un employeur au sens de cette loi.
+
 6. Le 1 er janvier 2001, le conseil municipal est réputé avoir pris toutes les mesures qui peuvent être exigées pour faire de la personne le titulaire réel de son poste.
 
 ### Pouvoirs : renseignements
 
 21 (1) Pour obtenir des renseignements, des dossiers et des documents d’une ancienne municipalité et d’un conseil local d’une ancienne municipalité, le conseil de transition peut faire ce qui suit :
+
 1. Exiger de l’ancienne municipalité ou du conseil local qu’il lui présente un rapport qui :
+
 i. d’une part, énumère les éléments d’actif et de passif de l’ancienne municipalité ou du conseil local, ou des catégories précisées de ces éléments,
+
 ii. d’autre part, indique le nom des membres et employés de l’ancienne municipalité ou du conseil local ainsi que leur poste, leurs conditions de travail, leur rémunération et leurs avantages rattachés à l’emploi.
+
 2. Exiger de l’ancienne municipalité qu’elle lui présente un rapport qui énumère les entités, y compris les conseils locaux, qui, selon le cas :
+
 i. ont été créées par l’ancienne municipalité ou pour elle et qui existent encore au moment où le rapport est établi,
+
 ii. ont reçu un financement de l’ancienne municipalité en 1999.
+
 3. Exiger de l’ancienne municipalité qu’elle lui présente un rapport qui :
+
 i. d’une part, énumère les entités, y compris les conseils locaux, dont l’ancienne municipalité a le pouvoir de nommer les membres,
+
 ii. d’autre part, pour chaque entité, indique l’origine du pouvoir de nomination, le nom des personnes en poste qui ont été ainsi nommées et la date à laquelle leur mandat prend fin.
+
 4. Exiger de l’ancienne municipalité ou du conseil local qu’il lui fournisse des renseignements, des dossiers ou des documents qui sont en sa possession ou dont il a le contrôle et qui se rapportent aux fonctions du conseil de transition.
+
 5. Exiger de l’ancienne municipalité ou du conseil local qu’il crée, en rassemblant des renseignements existants, un nouveau document ou un nouveau dossier qui se rapporte aux fonctions du conseil de transition, et le lui remette.
+
 6. Exiger de l’ancienne municipalité ou du conseil local qu’il lui présente un rapport sur toute question que précise le conseil de transition et qui se rapporte à ses fonctions.
+
 7. Exiger de l’ancienne municipalité ou du conseil local qu’il mette à jour des renseignements qui ont été fournis antérieurement au conseil de transition aux termes des dispositions précédentes.
+
 8. Fixer une date limite à laquelle une exigence imposée aux termes des dispositions précédentes doit être remplie.
 
 ### Incompatibilité
@@ -682,7 +781,9 @@ ii. d’autre part, pour chaque entité, indique l’origine du pouvoir de nomin
 ### Collaboration
 
 22 (1) Les membres du conseil de chaque ancienne municipalité, les employés et représentants de l’ancienne municipalité et les membres, employés et représentants de chaque conseil local d’une ancienne municipalité :
+
 a) d’une part, collaborent avec les membres, employés et représentants du conseil de transition, les aident dans l’exercice de leurs fonctions et se conforment aux demandes qu’ils font en vertu de la présente loi;
+
 b) d’autre part, sur demande, permettent à quiconque est visé à l’alinéa a) d’examiner et de copier tout document, dossier ou autre renseignement que l’ancienne municipalité ou le conseil local, selon le cas, a en sa possession ou sous son contrôle et qui se rapporte aux fonctions du conseil de transition.
 
 ### Incompatibilité
@@ -696,7 +797,9 @@ b) d’autre part, sur demande, permettent à quiconque est visé à l’alinéa
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les renseignements personnels visés à ce paragraphe comprennent les renseignements se rapportant à ce qui suit :
+
 a) une opération financière ou un projet d’opération financière d’une ancienne municipalité ou d’un conseil local d’une ancienne municipalité;
+
 b) tout ce qui est accompli ou projeté d’être accompli relativement aux finances d’une ancienne municipalité ou d’un conseil local d’une ancienne municipalité par un membre du conseil de l’ancienne municipalité ou du conseil local ou par un employé ou représentant de l’ancienne municipalité ou du conseil local.
 
 ### Infraction
@@ -714,8 +817,11 @@ b) tout ce qui est accompli ou projeté d’être accompli relativement aux fina
 ### Idem
 
 (2) Le paragraphe (1) s’applique également à l’égard d’un employé ou représentant d’une ancienne municipalité ou d’un conseil local d’une ancienne municipalité qui agit selon les directives, selon le cas :
+
 a) du conseil de transition ou de l’un de ses membres;
+
 b) du conseil de l’ancienne municipalité;
+
 c) du conseil local.
 
 ### Responsabilité du fait d’autrui
@@ -743,9 +849,13 @@ c) du conseil local.
 ### Règlements : pouvoirs et fonctions
 
 26 (1) Le ministre peut, par règlement, prévoir qu’une ancienne municipalité ou un conseil local d’une ancienne municipalité :
+
 a) ne doit pas exercer les pouvoirs précisés que confère une loi particulière;
+
 b) ne doit pas exercer les pouvoirs précisés que confère une loi particulière si ce n’est de la manière précisée dans le règlement;
+
 c) ne doit pas exercer les pouvoirs précisés que confère une loi particulière sans l’approbation du conseil de transition ou de l’autre personne ou organisme précisé dans le règlement;
+
 d) ne doit pas exercer les pouvoirs précisés que confère une loi particulière si ce n’est conformément aux directives éventuelles données par le conseil de transition en vertu de la présente loi.
 
 ### Idem
@@ -755,13 +865,21 @@ d) ne doit pas exercer les pouvoirs précisés que confère une loi particulièr
 ### Idem
 
 (3) Les règles suivantes s’appliquent à l’égard des règlements pris en application du paragraphe (1) :
+
 1. Un règlement ne peut pas empêcher une ancienne municipalité ou un conseil local d’accomplir tout ce qu’il est par ailleurs tenu par la loi d’accomplir.
+
 2. Un règlement ne peut pas empêcher une ancienne municipalité ou un conseil local de prendre des mesures dans une situation d’urgence.
+
 3. Un règlement ne peut pas empêcher l’exécution d’un contrat conclu avant l’entrée en vigueur du présent paragraphe.
+
 4. Un règlement ne peut pas empêcher un acte qui est approuvé par les directives que donne le conseil de transition en vertu de la présente loi ou accompli conformément à celles-ci.
+
 5. Un règlement ne peut pas empêcher un acte prévu par un règlement municipal ou une résolution qui contient également des dispositions voulant que le règlement municipal ou la résolution n’entre pas en vigueur tant que, selon le cas :
+
 i. l’approbation du conseil de transition ou de l’autre personne ou organisme précisé dans un règlement pris en application de l’alinéa (1) c) n’a pas été obtenue,
+
 ii. les directives autorisant l’acte ne sont pas données par le conseil de transition en vertu de la présente loi.
+
 6. Si le conseil de transition ou une autre personne ou un autre organisme est autorisé à donner une approbation en vertu de la présente loi, il peut approuver un acte à l’avance ou de façon rétroactive et peut assortir l’approbation de conditions.
 
 ### Dépenses du conseil de transition en 2000
@@ -825,7 +943,9 @@ ii. les directives autorisant l’acte ne sont pas données par le conseil de tr
 ### Accord : modification des unités de négociation
 
 (2) L’accord n’entre en vigueur qu’au dernier en date des jours suivants :
+
 a) le jour où il est satisfait aux conditions visées aux paragraphes 20 (7) et (8) de la Loi de 1997 sur les relations de travail liées à la transition dans le secteur public ;
+
 b) le 1 er janvier 2001.
 
 ### Restrictions
@@ -847,7 +967,9 @@ b) le 1 er janvier 2001.
 ### Accord : changement d’agents négociateurs
 
 (7) Si un accord est conclu en vertu du paragraphe (1), aucun accord conclu par les agents négociateurs visés en vertu de l’article 21 de la Loi de 1997 sur les relations de travail liées à la transition dans le secteur public n’entre en vigueur avant le dernier en date des jours suivants :
+
 a) le jour où il est satisfait aux conditions visées au paragraphe 21 (2) de cette loi;
+
 b) le 1 er janvier 2001.
 
 ### Avis de l’accord
@@ -907,7 +1029,9 @@ b) le 1 er janvier 2001.
 ### Prolongation du mandat
 
 33 (1) Les personnes suivantes demeurent en fonction jusqu’à la constitution du premier conseil municipal si elles sont en fonction le 30 novembre 2000 :
+
 1. Les membres du conseil des anciennes municipalités.
+
 2. Les membres des conseils locaux des anciennes municipalités.
 
 ### Idem
@@ -921,12 +1045,19 @@ b) le 1 er janvier 2001.
 ### Règles s’appliquant aux élections ordinaires
 
 34 Les règles suivantes s’appliquent aux élections ordinaires de 2000 qui se tiennent dans le secteur municipal :
+
 1. Les élections se tiennent comme si les articles 2, 3, 4, 5 et 8 étaient déjà en vigueur.
+
 2. Le conseil de transition désigne une personne pour tenir les élections ordinaires de 2000 aux termes de la Loi de 1996 sur les élections municipales.
+
 3. Les secrétaires des anciennes municipalités et le secrétaire de la cité, s’il est nommé, aident la personne désignée aux termes de la disposition 2 et agissent selon ses directives.
+
 4. Le conseil de transition agit à titre de conseil municipal lorsqu’il s’agit de prendre les décisions que ce dernier est tenu de prendre aux termes de la Loi de 1996 sur les élections municipales à l’égard des élections ordinaires. Le conseil municipal prend ces décisions dès qu’il est constitué.
+
 5. Les frais des élections qui sont payables en 2000 sont inscrits au budget de fonctionnement de 2000 de la municipalité régionale de Hamilton-Wentworth et sont acquittés par cette dernière selon les directives de la personne désignée aux termes de la disposition 2. Les frais des élections qui sont payables en 2001 sont acquittés par la cité.
+
 6. Chaque municipalité de secteur au sens de la Loi sur la municipalité régionale de Hamilton-Wentworth inscrit à son budget de fonctionnement de 2000 une somme égale à celle qu’elle aurait prévue pour couvrir les frais des élections ordinaires de 2000 si la présente loi n’avait pas été adoptée, et elle la verse à la municipalité régionale de Hamilton-Wentworth au plus tard le 1 er juillet 2000.
+
 7. La somme visée à la disposition 6 est prélevée d’abord sur toute réserve ou tout fonds de réserve que la municipalité de secteur a constitué antérieurement pour couvrir les frais des élections ordinaires de 2000.
 
 ### Dispositions générales
@@ -946,15 +1077,21 @@ b) le 1 er janvier 2001.
 ### Idem, ministre
 
 (2) Le ministre peut, par règlement :
+
 a) prescrire tout ce que la présente loi exige ou permet de faire ou de prescrire par règlement pris en application de celle-ci;
+
 b) définir tout terme utilisé mais non expressément défini dans la présente loi;
+
 c) prévoir toute mesure de transition qui, à son avis, est nécessaire ou souhaitable pour la mise en application efficace de la présente loi;
+
 d) constituer des quartiers pour l’application de l’article 3.
 
 ### Exemples
 
 (3) Les règlements pris en application de l’alinéa (2) c) peuvent prévoir, par exemple :
+
 a) que la cité peut contracter des emprunts à long terme pour payer les dépenses de fonctionnement liées aux frais de la transition, au sens des règlements, sous réserve des conditions et des restrictions prescrites;
+
 b) que, pour l’application de l’article 8 de la Loi de 1996 sur les élections municipales, le ministre peut exiger qu’une question soit soumise aux électeurs de tout ou partie du secteur municipal précisé dans les règlements.
 
 ### Portée
@@ -972,5 +1109,7 @@ b) que, pour l’application de l’article 8 de la Loi de 1996 sur les électio
 ### Idem
 
 (2) Les dispositions des règlements pris en application de la présente loi l’emportent sur les dispositions incompatibles de la présente loi, d’une autre loi ou d’un règlement pris en application de celle-ci.
+
 38 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 39 Omis (édicte le titre abrégé de la présente loi).

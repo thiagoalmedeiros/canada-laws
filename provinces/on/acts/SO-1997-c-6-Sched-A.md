@@ -6,24 +6,30 @@ language: en
 type: act
 document_date: "2021-06-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97m06"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Municipal Water and Sewage Transfer Act, 1997
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97m06) before relying on it.
 
 S.O. 1997, c. 6, Sched. A
 
 ### Definitions
 
 1 (1) In this Act,
+
 “Minister” means the Minister of the Environment; (“ministre”)
+
 “municipality” has the same meaning as in the Ontario Water Resources Act; (“municipalité”)
+
 “OCWA” means the Ontario Clean Water Agency established under the Capital Investment Plan Act, 1993; (“Agence”)
+
 “sewage works” has the same meaning as in the Ontario Water Resources Act; (“station d’épuration des eaux d’égout”)
+
 “transfer order” means an order under section 2; (“arrêté de transfert”)
+
 “water works” has the same meaning as in the Ontario Water Resources Act. (“station de purification de l’eau”)
 
 ### Interpretation - predecessors of OCWA
@@ -37,14 +43,19 @@ S.O. 1997, c. 6, Sched. A
 ### Application
 
 (2) Subsection (1) applies only to water works and sewage works that,
+
 (a) were owned by OCWA immediately before this section came into force; or
+
 (b) were constructed pursuant to agreements entered into before this section came into force.
 
 ### Scope of order
 
 (3) An order under subsection (1),
+
 (a) may apply to one or more water works or sewage works;
+
 (b) may apply to all or part of a water works or sewage works; and
+
 (c) may transfer ownership to one or more municipalities.
 
 ### Related assets, etc.
@@ -54,8 +65,11 @@ S.O. 1997, c. 6, Sched. A
 ### Exception
 
 (5) Subsection (4) does not permit the transfer of,
+
 (a) a liability that arose out of the operation, on or after November 15, 1993, of the water works or sewage works;
+
 (b) a liability that arose before the transfer order took effect, if an action based on the liability was commenced before the transfer order took effect; or
+
 (c) a liability in respect of which OCWA is retaining a holdback or holding money in trust under the Construction Lien Act.
 
 ### Transfer order respecting land
@@ -69,7 +83,9 @@ S.O. 1997, c. 6, Sched. A
 ### Ownership of works
 
 (8) For the purposes of this section, water works or sewage works shall be deemed to be owned by OCWA if,
+
 (a) OCWA or a predecessor of OCWA is the beneficial or legal owner of the works; or
+
 (b) a predecessor of OCWA was the beneficial or legal owner of the works at any time, unless another person is the beneficial owner and the legal owner of the works.
 
 ### Ownership of land
@@ -159,13 +175,17 @@ S.O. 1997, c. 6, Sched. A
 ### Two or more municipalities
 
 (4) If ownership of the works is transferred to two or more municipalities, the transfer order may provide that,
+
 (a) all payments to which OCWA is entitled under subsection (1) shall be paid by one of the municipalities to which ownership of the works is transferred or by a joint board established in accordance with the order; and
+
 (b) any municipality that would otherwise have been required to make payments to OCWA under subsection (1) shall instead make those payments to the municipality or joint board that is required to make payments to OCWA under clause (a).
 
 ### Agreements to provide service to other persons
 
 9 (1) If a transfer order is made transferring ownership of a water works or sewage works to a municipality and an agreement that was entered into before the transfer takes effect requires OCWA or a predecessor of OCWA to provide water or sewage services to a person other than the municipality through the use of those works, the transfer order,
+
 (a) may require the municipality, another municipality or a joint board that manages the works to provide the services; and
+
 (b) may contain provisions governing payment for the services.
 
 ### Collection of payments
@@ -211,8 +231,13 @@ S.O. 1997, c. 6, Sched. A
 ### Act prevails
 
 15 In the event of a conflict, this Act prevails over,
+
 (a) any provision in the Capital Investment Plan Act, 1993 or the Ontario Water Resources Act;
+
 (b) any provision of the Municipal Act, 2001 or the City of Toronto Act, 2006 relating to a water or sewage public utility; and
+
 (c) an agreement made under the Ontario Water Resources Act.
+
 16 Omitted (provides for coming into force of provisions of this Act).
+
 17 Omitted (enacts short title of this Act).

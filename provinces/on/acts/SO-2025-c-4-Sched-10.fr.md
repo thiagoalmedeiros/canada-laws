@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-03-30"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/25s04b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # conservation des espèces (Loi de 2025 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/25s04b) before relying on it.
 
 L.O. 2025, chap. 4, annexe 10
 
@@ -21,41 +21,73 @@ L.O. 2025, chap. 4, annexe 10
 ### Objets
 
 1 Les objets de la présente loi sont les suivants :
+
 a) identifier les espèces en péril en se fondant sur la meilleure information scientifique accessible, notamment l’information tirée des connaissances des collectivités et des connaissances traditionnelles des peuples autochtones;
+
 b) prévoir la protection et la conservation des espèces en péril tout en tenant compte des considérations sociales et économiques, notamment le besoin de croissance économique durable en Ontario.
 
 ### Définitions
 
 2 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «activité exigeant un enregistrement» Activité visée par l’article 16 qui n’est pas prescrite pour l’application du paragraphe 16 (2). («registerable activity»)
+
 «activité exigeant un permis» Activité visée par l’article 16 prescrite pour l’application du paragraphe 16 (2). («permit activity»)
+
 «activité visée par l’article 16» S’entend :
+
 a) de toute activité qui a ou aurait vraisemblablement pour effet :
+
 (i) soit de tuer, de capturer ou de prendre un membre d’une espèce qui est inscrite sur la Liste des espèces protégées en Ontario, ou de lui nuire,
+
 (ii) soit d’endommager ou de détruire l’habitat d’une espèce qui est inscrite sur la Liste des espèces protégées en Ontario;
+
 b) du fait de posséder, de transporter, de collectionner, d’acheter, de vendre, de louer ou d’échanger, ou d’offrir d’acheter, de vendre, de louer ou d’échanger, selon le cas :
+
 (i) un membre, vivant ou mort, d’une espèce qui est inscrite sur la Liste des espèces protégées en Ontario,
+
 (ii) toute partie d’un membre, vivant ou mort, d’une espèce visée au sous-alinéa (i),
+
 (iii) quoi que ce soit qui est dérivé d’un membre, vivant ou mort, d’une espèce visée au sous-alinéa (i),
+
 c) du fait de vendre, de louer ou d’échanger, ou d’offrir de vendre, de louer ou d’échanger quoi que ce soit qu’une personne présente comme une chose mentionnée au sous-alinéa b) (i), (ii) ou (iii). («section 16 activity»)
+
 «agent provincial» Personne que le ministre désigne comme tel pour l’application de la présente loi et des règlements. («provincial officer»)
+
 «CDSEPO» Le Comité de détermination du statut des espèces en péril en Ontario. («COSSARO»)
+
 «enregistrement» Enregistrement au Registre. («registration»)
+
 «espèce» Espèce, sous-espèce, variété ou population géographiquement ou génétiquement distincte d’animaux, de végétaux ou d’autres organismes, à l’exclusion d’une bactérie ou d’un virus, qui est indigène de l’Ontario. («species»)
+
 «habitat» Sous réserve du paragraphe (2), s’entend de ce qui suit :
+
 a) à l’égard d’une espèce animale :
+
 (i) un repaire, notamment une tanière, un nid ou un autre endroit similaire, qui est occupé ou occupé habituellement par un ou plusieurs membres d’une espèce aux fins de reproduction, d’élevage, de rassemblement, d’hivernage ou d’hibernation,
+
 (ii) l’aire à proximité immédiate du repaire visé au sous-alinéa (i) qui est essentielle aux fins énoncées à ce sous-alinéa;
+
 b) à l’égard d’une espèce de plantes vasculaires, la zone critique des racines entourant un membre de l’espèce;
+
 c) à l’égard des autres espèces, une aire dont un membre de l’espèce dépend directement pour ses processus de vie. («habitat»)
+
 «juge» S’entend au sens de la Loi sur les infractions provinciales. («justice»)
+
 «Liste des espèces protégées en Ontario» Le règlement pris en vertu du paragraphe 14 (1). («Protected Species in Ontario List»)
+
 «ministère» Le ministère qui relève du ministre. («Ministry»)
+
 «ministre» Le ministre de l’Environnement, de la Protection de la nature et des Parcs ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «permis» Permis délivré en vertu de l’article 22. («permit»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «Registre» Le Registre établi en vertu de l’article 17. («Registry»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «Tribunal» Le Tribunal ontarien de l’aménagement du territoire. («Tribunal») 2025, chap. 4, annexe 10, par. 2 (1)
 
 ### Définition de «habitat»
@@ -65,8 +97,11 @@ c) à l’égard des autres espèces, une aire dont un membre de l’espèce dé
 ### Membre d’une espèce
 
 (3) La mention dans la présente loi d’un membre d’une espèce vaut mention à la fois :
+
 a) d’un membre de l’espèce à tout stade de son développement;
+
 b) d’un gamète ou d’une propagule asexuée de l’espèce;
+
 c) du membre de l’espèce, qu’il provienne ou non de l’Ontario.
 
 ### Droits ancestraux ou issus de traités
@@ -76,7 +111,9 @@ c) du membre de l’espèce, qu’il provienne ou non de l’Ontario.
 ### Non-application, espèces aquatiques et oiseaux migrateurs
 
 4 Sauf disposition contraire de la présente loi ou des règlements, la présente loi et les règlements ne s’appliquent pas à l’égard des espèces suivantes, si l’espèce est inscrite comme espèce disparue de l’Ontario, en voie de disparition ou menacée sur la Liste des espèces en péril visée par la Loi sur les espèces en péril (Canada) :
+
 1. Les espèces d’oiseaux protégées par la Loi de 1994 sur la convention concernant les oiseaux migrateurs (Canada).
+
 2. Les espèces aquatiques au sens du paragraphe 2 (1) de la Loi sur les espèces en péril (Canada).
 
 ### Désignation d’agents provinciaux
@@ -102,7 +139,9 @@ c) du membre de l’espèce, qu’il provienne ou non de l’Ontario.
 ### Activités de protection et de conservation
 
 (2) La présente loi n’a pas pour effet d’interdire aux employés ou aux mandataires de la Couronne du chef de l’Ontario :
+
 a) de posséder ou de transporter un membre d’une espèce inscrite sur la Liste des espèces protégées en Ontario;
+
 b) d’exercer toute autre activité en vue d’aider à la protection et à la conservation des espèces inscrites sur la Liste des espèces protégées en Ontario.
 
 ## PartIE II Classement des espèces
@@ -122,7 +161,9 @@ b) d’exercer toute autre activité en vue d’aider à la protection et à la 
 ### Qualités
 
 (3) Le ministre ne doit recommander une personne que s’il est d’avis qu’elle possède une expertise appropriée qui est liée :
+
 a) soit à une discipline scientifique comme la biologie de la conservation, l’écologie, la génétique, la dynamique des populations, la taxinomie, la systématique ou la gestion de la faune;
+
 b) soit aux connaissances des collectivités ou aux connaissances traditionnelles des peuples autochtones.
 
 ### Présidence et vice-présidence
@@ -136,23 +177,33 @@ b) soit aux connaissances des collectivités ou aux connaissances traditionnelle
 ### Exercice de pressions
 
 (6) Aucun membre du CDSEPO ne doit, à l’égard de toute question liée à la présente loi, faire ce qui suit :
+
 a) agir à titre de lobbyiste-conseil au sens du paragraphe 1 (1) de la Loi de 1998 sur l’enregistrement des lobbyistes ;
+
 b) agir à titre de lobbyiste salarié au sens du paragraphe 5 (7) ou 6 (5) de la Loi de 1998 sur l’enregistrement des lobbyistes.
 
 ### Fonctions du CDSEPO
 
 10 (1) Le CDSEPO exerce les fonctions suivantes :
+
 1. Sous réserve de l’article 11, maintenir des critères permettant d’évaluer et de classer les espèces comme espèces disparues, disparues de l’Ontario, en voie de disparition, menacées ou préoccupantes.
+
 2. Tenir une liste des espèces qui devraient être évaluées et classées, y compris celles qui devraient être réexaminées et, s’il y a lieu, être reclassées, et y indiquer l’ordre de priorité à suivre à cet égard.
+
 3. Sous réserve de l’article 13, évaluer, réexaminer et classer les espèces conformément à la liste tenue en application de la disposition 2.
+
 4. Présenter des rapports au ministre conformément à la présente loi.
+
 5. Donner au ministre des conseils sur toute question que celui-ci lui soumet.
+
 6. Exercer toute autre fonction qu’exige la présente loi ou une autre loi.
 
 ### Liste des espèces devant être évaluées
 
 (2) Le CDSEPO veille à ce que la liste visée à la disposition 2 du paragraphe (1) inclue chaque espèce se trouvant en Ontario qui, à la fois :
+
 a) est classée par le Comité sur la situation des espèces en péril au Canada comme espèce disparue du pays ou en voie de disparition, menacée ou préoccupante en application de la Loi sur les espèces en péril (Canada);
+
 b) n’a pas encore été évaluée par le CDSEPO.
 
 ### Renseignements fournis au ministre
@@ -162,10 +213,15 @@ b) n’a pas encore été évaluée par le CDSEPO.
 ### Règles de classement
 
 11 (1) Pour l’application de la présente loi, le CDSEPO classe les espèces selon les règles suivantes :
+
 1. Une espèce est classée comme espèce disparue si elle ne vit plus nulle part sur la planète.
+
 2. Une espèce est classée comme espèce disparue de l’Ontario si elle vit quelque part sur la planète, mais ne vit plus à l’état sauvage en Ontario.
+
 3. Une espèce est classée comme espèce en voie de disparition si elle vit à l’état sauvage en Ontario mais risque, de façon imminente, de disparaître de l’Ontario ou de la planète.
+
 4. Une espèce est classée comme espèce menacée si elle vit à l’état sauvage en Ontario et qu’elle n’est pas en voie de disparition, mais le deviendra vraisemblablement si des mesures ne sont pas prises en vue de faire face à des facteurs menaçant de la faire disparaître de l’Ontario ou de la planète.
+
 5. Une espèce est classée comme espèce préoccupante si elle vit à l’état sauvage en Ontario et qu’elle n’est pas en voie de disparition ou menacée, mais peut le devenir par l’effet cumulatif de ses caractéristiques biologiques et des menaces signalées à son égard.
 
 ### Limite géographique
@@ -179,7 +235,9 @@ b) n’a pas encore été évaluée par le CDSEPO.
 ### Critères de classement
 
 (4) Les critères permettant d’évaluer et de classer les espèces comme espèces en voie de disparition, menacées ou préoccupantes en application de la disposition 1 du paragraphe 10 (1) tiennent compte de ce qui suit :
+
 a) l’aire de répartition de l’espèce en Ontario;
+
 b) l’état de l’espèce dans l’aire de répartition plus vaste pertinente sur le plan biologique où elle se trouve, tant en Ontario qu’à l’extérieur de l’Ontario.
 
 ### Idem
@@ -189,20 +247,27 @@ b) l’état de l’espèce dans l’aire de répartition plus vaste pertinente 
 ### Rapport annuel du CDSEPO
 
 12 (1) Entre le 1 er janvier et le 31 janvier de chaque année, le CDSEPO présente au ministre un rapport annuel qui énonce les renseignements suivants :
+
 a) le nom commun et le nom scientifique de chaque espèce qu’il a classée depuis le rapport annuel précédent comme espèce disparue, disparue de l’Ontario, en voie de disparition, menacée ou préoccupante;
+
 b) le classement de chaque espèce visée à l’alinéa a) et les raisons motivant ce classement;
+
 c) une mention indiquant si l’espèce est une espèce mentionnée à l’article 4.
 
 ### Idem
 
 (2) Le rapport annuel peut également indiquer :
+
 a) soit qu’une évaluation d’une espèce conclut qu’elle n’est pas en péril;
+
 b) soit qu’il n’y a pas suffisamment d’information disponible pour classer une espèce.
 
 ### Autres rapports
 
 13 (1) Le CDSEPO ne présente pas au ministre d’autres rapports relativement au classement d’une espèce sauf si, selon le cas :
+
 a) le ministre a demandé au CDSEPO, en vertu du paragraphe (2) ou (3), de classer une espèce ou de revoir son classement;
+
 b) le CDSEPO est d’avis que risque de disparaître de l’Ontario ou de la planète, et ce, de façon imminente, une espèce qui n’est pas inscrite sur la Liste des espèces protégées en Ontario.
 
 ### Risque de disparition imminente de l’Ontario ou de la planète
@@ -232,8 +297,11 @@ b) le CDSEPO est d’avis que risque de disparaître de l’Ontario ou de la pla
 ### Contenu du règlement
 
 (3) Le règlement pris en vertu du paragraphe (1) contient les renseignements suivants à propos de chaque espèce :
+
 1. Le nom commun et le nom scientifique de l’espèce.
+
 2. Le classement de l’espèce par le CDSEPO comme espèce disparue de l’Ontario, en voie de disparition ou menacée.
+
 3. Si le classement ne s’applique qu’à une zone géographique précisée, cette zone.
 
 ### Avis de proposition : Charte des droits environnementaux de 1993
@@ -249,9 +317,13 @@ b) le CDSEPO est d’avis que risque de disparaître de l’Ontario ou de la pla
 ### Enregistrement exigé
 
 16 (1) Nul ne doit exercer une activité exigeant un enregistrement, sauf si les conditions suivantes sont réunies :
+
 a) la personne a enregistré l’activité au Registre conformément aux règlements;
+
 b) le ministre a fourni à la personne une confirmation d’enregistrement à l’égard de l’activité;
+
 c) la personne exerce l’activité conformément aux règlements;
+
 d) l’enregistrement n’est pas suspendu et n’a pas été retiré du Registre.
 
 ### Permis exigé
@@ -261,20 +333,31 @@ d) l’enregistrement n’est pas suspendu et n’a pas été retiré du Registr
 ### Exceptions
 
 (3) Le paragraphe (1) ou (2), selon le cas, ne s’applique dans aucune des circonstances suivantes à l’égard des activités visées par l’article 16 :
+
 1. Dans le cas d’une activité visée à l’alinéa b) de la définition de «activité visée par l’article 16» au paragraphe 2 (1), le membre de l’espèce touché par l’activité a été tué, capturé ou pris légalement dans un territoire autre que l’Ontario.
+
 2. Une activité visée par l’article 16 pour laquelle il est satisfait à tous les critères énoncés au paragraphe (4) à l’égard de l’activité, de la personne qui exerce l’activité et de l’espèce touchée par l’activité.
+
 3. Si une zone géographique est précisée dans la Liste des espèces protégées en Ontario à l’égard d’une espèce, une activité visée par l’article 16 qui est exercée à l’égard de cette espèce en dehors de la zone géographique.
+
 4. Toute autre activité visée par l’article 16 qui est prescrite par le lieutenant-gouverneur en conseil pour l’application du présent paragraphe, sous réserve des conditions ou des restrictions prescrites par le lieutenant-gouverneur en conseil.
 
 ### Première inscription : exception d’un an
 
 (4) Les critères mentionnés à la disposition 2 du paragraphe (3) sont les suivants :
+
 L’activité :
+
 i. soit est visée à l’alinéa a) de la définition de «activité visée par l’article 16» au paragraphe 2 (1),
+
 ii. soit est visée à l’alinéa b) de cette définition, mais seulement dans la mesure où la définition se rapporte à la possession ou au transport d’un membre d’une espèce.
+
 2. La personne exerce l’activité pour une autre espèce conformément au paragraphe (1) ou (2), selon le cas.
+
 3. L’espèce est inscrite sur la Liste des espèces protégées en Ontario comme espèce en voie de disparition ou menacée et ce, depuis moins d’un an.
+
 4. Avant son inscription telle que décrite à la disposition 3, l’espèce n’était pas inscrite auparavant, sous son nom actuel ou tout autre nom commun ou scientifique, sur la Liste des espèces protégées en Ontario.
+
 5. Avant son inscription telle que décrite à la disposition 3, l’espèce n’était pas inscrite auparavant, sous son nom actuel ou tout autre nom commun ou scientifique, comme espèce disparue de l’Ontario, en voie de disparition ou menacée sur la Liste des espèces en péril en Ontario en vertu de la Loi de 2007 sur les espèces en voie de disparition.
 
 ### Disposition transitoire
@@ -310,8 +393,11 @@ ii. soit est visée à l’alinéa b) de cette définition, mais seulement dans 
 ### Conservation de la confirmation et maintien de l’enregistrement
 
 (3) La personne qui exerce une activité exigeant un enregistrement veille à conserver la confirmation d’enregistrement et à ce que l’enregistrement, à la fois :
+
 a) soit maintenu et mis à jour conformément aux éventuels règlements;
+
 b) comprenne les données, rapports, documents ou autres renseignements qu’exige le ministre ou qui sont prescrits;
+
 c) comprenne tout test ou toute expérience en lien à l’activité exigeant un enregistrement qu’exige le ministre ou qui sont prescrits.
 
 ### Renseignements complets et exacts
@@ -321,15 +407,25 @@ c) comprenne tout test ou toute expérience en lien à l’activité exigeant un
 ### Suspension ou retrait d’un enregistrement
 
 19 (1) Le ministre peut suspendre un enregistrement à l’égard d’une activité ou le retirer du Registre dans l’une ou l’autre des circonstances suivantes :
+
 a) la personne qui exerce l’activité est en contravention à la présente loi ou aux règlements;
+
 b) la conduite antérieure de la personne qui exerce l’activité ou, s’il s’agit d’une personne morale, celle de ses dirigeants et administrateurs offre des motifs raisonnables de croire que la personne n’exercera pas l’activité conformément à la présente loi ou aux règlements;
+
 c) la confirmation d’enregistrement a été fournie sur la foi de renseignements trompeurs, erronés, faux ou inexacts;
+
 d) la personne qui exerçait l’activité ne l’exerce plus;
+
 e) une activité exigeant un enregistrement devient une activité exigeant un permis et :
+
 (i) soit, si une demande de permis a été présentée à l’égard de l’activité, une décision en vertu du paragraphe 22 (1) à l’égard de la demande a été prise et tous les droits d’appel ont été épuisés,
+
 (ii) soit la demande de permis à l’égard de l’activité n’a pas été présentée au plus tard à la date prescrite, s’il y en a une, à l’égard de l’activité;
+
 f) la personne qui exerce l’activité demande le retrait de l’enregistrement;
+
 g) l’enregistrement est caduc;
+
 h) il existe d’autres circonstances prescrites par le lieutenant-gouverneur en conseil.
 
 ### Arrêté
@@ -365,10 +461,15 @@ h) il existe d’autres circonstances prescrites par le lieutenant-gouverneur en
 ### Pouvoirs du ministre
 
 22 (1) Après examen d’une demande de permis présentée à l’égard d’une ou de plusieurs activités exigeant un permis sur un ou plusieurs sites, le ministre peut :
+
 a) délivrer ou refuser de délivrer un permis à l’égard d’une ou plusieurs des activités sur un ou plusieurs des sites;
+
 b) s’il délivre un permis, l’assortir de conditions;
+
 c) modifier un permis déjà en vigueur, l’assortir de conditions, modifier ou révoquer des conditions existantes ou étendre la portée du permis à d’autres activités ou sites;
+
 d) révoquer un permis en tout ou en partie, et en délivrer ou non un nouveau;
+
 e) suspendre un permis en tout ou en partie.
 
 ### Conditions
@@ -378,12 +479,19 @@ e) suspendre un permis en tout ou en partie.
 ### Idem
 
 (3) Sans préjudice de la portée générale du paragraphe (2), les conditions dont est assorti le permis peuvent, selon le cas :
+
 a) limiter la période pendant laquelle s’applique le permis;
+
 b) limiter les circonstances dans lesquelles s’applique le permis;
+
 c) exiger que le titulaire du permis prenne les mesures que précise le permis et que ces mesures soient prises avant que l’activité qu’autorise le permis ne soit exercée;
+
 d) exiger que le titulaire du permis fournisse une garantie financière d’un montant suffisant ou dans une forme suffisante pour garantir la conformité au permis;
+
 e) exiger que le titulaire du permis veille à ce que l’activité qu’autorise le permis et ses conséquences soient surveillées conformément à celui-ci;
+
 f) exiger que le titulaire du permis remette en état ou restaure l’habitat endommagé ou détruit par l’activité qu’autorise le permis ou prévoit un habitat de rechange pour l’espèce précisée dans le permis;
+
 g) exiger que le titulaire du permis présente des rapports au ministre.
 
 ### Conduite antérieure
@@ -401,8 +509,11 @@ g) exiger que le titulaire du permis présente des rapports au ministre.
 ### Initiative du ministre
 
 (7) Le ministre peut, de sa propre initiative :
+
 a) modifier ou révoquer des conditions dont un permis est assorti après sa délivrance;
+
 b) assortir un permis de nouvelles conditions;
+
 c) suspendre ou révoquer tout ou partie d’un permis.
 
 ### Examen des demandes
@@ -420,7 +531,9 @@ c) suspendre ou révoquer tout ou partie d’un permis.
 ### Possession contraire aux lois d’une autre autorité législative
 
 23 (1) Nul ne doit posséder un animal, un végétal ou un autre organisme, mort ou vivant, une partie d’un tel animal, végétal ou autre organisme, ou quoi que ce soit qui est dérivé d’un tel animal, végétal ou autre organisme, si la chose possédée, ou l’animal, le végétal ou l’autre organisme, a été, selon le cas :
+
 a) tué, capturé, pris, possédé, collectionné, transporté, acheté, vendu, loué ou échangé contrairement à une loi visée au paragraphe (3);
+
 b) enlevé du territoire d’une autre autorité législative, contrairement à une loi de celle-ci visée au paragraphe (3).
 
 ### Achat, vente ou autre transaction contraire aux lois d’une autre autorité législative
@@ -434,8 +547,11 @@ b) enlevé du territoire d’une autre autorité législative, contrairement à 
 ### Défense
 
 (4) Nul ne doit être déclaré coupable d’une infraction pour avoir contrevenu au paragraphe (1) ou (2) s’il établit qu’il croyait raisonnablement et en toute honnêteté que la loi de l’autre autorité législative, selon le cas :
+
 a) n’interdisait pas de tuer, de capturer, de prendre, de posséder, de collectionner, de transporter, d’acheter, de vendre, de louer ou d’échanger, selon le cas, la chose qu’il aurait possédée ou l’animal, le végétal ou l’autre organisme, dans le cas d’une poursuite intentée pour contravention à l’alinéa (1) a);
+
 b) n’interdisait pas d’enlever du territoire de l’autre autorité législative la chose qu’il aurait possédée ou l’animal, le végétal ou l’autre organisme, dans le cas d’une poursuite intentée pour contravention à l’alinéa (1) b);
+
 c) n’interdisait pas l’achat, la vente, la location ou l’échange, selon le cas, de la chose qu’il aurait achetée, vendue, louée ou échangée ou offert d’acheter, de vendre, de louer ou d’échanger, dans le cas d’une poursuite intentée pour contravention au paragraphe (2).
 
 ### Interprétation
@@ -455,8 +571,11 @@ c) n’interdisait pas l’achat, la vente, la location ou l’échange, selon l
 ### Objet
 
 (2) Le programme a pour objet de promouvoir les activités de protection et de conservation qui se rapportent aux espèces classées par le CDSEPO dans un rapport présenté en application de l’article 12 ou 13, y compris :
+
 a) la préservation et la remise en état de l’habitat et l’amélioration d’autres aires de sorte qu’elles puissent devenir un habitat;
+
 b) des programmes d’éducation et de sensibilisation du public relatifs à la conservation;
+
 c) d’autres activités visant à aider à la protection et à la conservation des espèces.
 
 ### Subventions
@@ -522,9 +641,13 @@ c) d’autres activités visant à aider à la protection et à la conservation 
 ### Inspection en vue de déterminer la conformité
 
 32 (1) Un agent provincial peut, sans mandat, entrer dans un bien-fonds ou un autre endroit et l’inspecter en vue de déterminer si l’une des dispositions suivantes a été respectée :
+
 1. L’article 15, le paragraphe 16 (1) ou (2) ou l’article 23.
+
 2. Toute disposition d’un permis.
+
 3. Toute disposition d’un arrêté pris en vertu de l’article 36, 37 ou 38, d’un ordre donné en vertu de l’article 39 ou d’une ordonnance rendue en vertu de l’article 54.
+
 4. Toute disposition des règlements.
 
 ### Logements
@@ -534,7 +657,9 @@ c) d’autres activités visant à aider à la protection et à la conservation 
 ### Mandat : conformité aux permis, ordres, arrêtés et ordonnances
 
 (3) Sur requête présentée sans préavis, un juge peut décerner un mandat autorisant un agent provincial à entrer dans un bien-fonds ou un autre endroit, y compris le bâtiment ou la partie de bâtiment qui sert de logement, et à l’inspecter, s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il existe des motifs raisonnables de croire :
+
 a) d’une part, qu’une inspection effectuée en vertu du présent article aiderait à déterminer s’il y a conformité à une disposition visée au paragraphe (1);
+
 b) d’autre part, que l’entrée a été ou sera vraisemblablement refusée.
 
 ### Durée
@@ -552,10 +677,15 @@ b) d’autre part, que l’entrée a été ou sera vraisemblablement refusée.
 ### Pouvoirs pendant l’inspection
 
 (7) Au cours d’une inspection effectuée en vertu du présent article, l’agent provincial peut :
+
 a) se faire accompagner et aider par toute personne qu’il autorise;
+
 b) examiner toute chose qui est reliée à l’inspection;
+
 c) utiliser ou faire utiliser un ordinateur ou un autre dispositif qui contient ou permet d’extraire des renseignements, pour examiner les renseignements que l’ordinateur ou le dispositif contient ou auxquels il donne accès, et peut produire ou faire produire un imprimé ou toute autre sortie à partir de l’ordinateur ou du dispositif;
+
 d) effectuer des tests et des mesures, prélever des spécimens ou des échantillons, installer de l’équipement et faire des enregistrements, notamment photographiques, qui peuvent être liés à l’inspection;
+
 e) poser des questions qui peuvent être reliées à l’inspection.
 
 ### Renseignements
@@ -573,9 +703,13 @@ e) poser des questions qui peuvent être reliées à l’inspection.
 ### Inspection de véhicules, de bateaux et d’aéronefs
 
 33 (1) Un agent provincial peut arrêter un véhicule, un bateau ou un aéronef s’il a des motifs raisonnables de croire que cela aiderait à déterminer s’il y a conformité à l’une des dispositions suivantes :
+
 1. L’article 15, le paragraphe 16 (1) ou (2) ou l’article 23.
+
 2. Toute disposition d’un permis.
+
 3. Toute disposition d’un arrêté pris en vertu de l’article 36, 37 ou 38, d’un ordre donné en vertu de l’article 39 ou d’une ordonnance rendue en vertu de l’article 54.
+
 4. Toute disposition des règlements.
 
 ### Arrêt par le conducteur
@@ -585,8 +719,11 @@ e) poser des questions qui peuvent être reliées à l’inspection.
 ### Signaux d’arrêt
 
 (3) Pour l’application du paragraphe (2), les signaux d’arrêt comprennent :
+
 a) un clignotement de lumière rouge, dans le cas d’un véhicule;
+
 b) un clignotement de lumière bleue, dans le cas d’un bateau;
+
 c) un signal d’arrêt manuel, dans le cas d’un véhicule ou d’un bateau.
 
 ### Perquisitions relatives aux infractions
@@ -628,9 +765,13 @@ c) un signal d’arrêt manuel, dans le cas d’un véhicule ou d’un bateau.
 ### Saisie et confiscation
 
 35 (1) L’agent provincial qui se trouve légalement dans un bâtiment ou un autre endroit peut, sans mandat, saisir toute chose au sujet de laquelle il a des motifs raisonnables de croire que, selon le cas :
+
 a) elle a été obtenue par suite de la commission d’une infraction prévue par la présente loi;
+
 b) elle a été utilisée pour commettre une infraction prévue par la présente loi;
+
 c) elle fournira des éléments de preuve de la commission d’une infraction prévue par la présente loi;
+
 d) elle est mêlée avec une chose visée à l’alinéa a), b) ou c).
 
 ### Présence conforme à un mandat
@@ -648,8 +789,11 @@ d) elle est mêlée avec une chose visée à l’alinéa a), b) ou c).
 ### Préservation
 
 (5) L’occupant préserve toute chose laissée sous sa garde en vertu du paragraphe (4) jusqu’à ce que l’une ou l’autre des éventualités suivantes se présente :
+
 a) un agent provincial enlève la chose;
+
 b) l’occupant est avisé par un agent provincial que l’enquête est terminée et qu’aucune accusation ne sera déposée;
+
 c) le défendeur est acquitté ou l’accusation est rejetée ou retirée, si une accusation est déposée et qu’elle fait l’objet d’une décision définitive.
 
 ### Chose apportée devant un juge
@@ -659,13 +803,17 @@ c) le défendeur est acquitté ou l’accusation est rejetée ou retirée, si un
 ### Remise des choses saisies
 
 (7) Toute chose saisie et non confisquée en vertu du présent article est retournée au saisi si :
+
 a) aucune accusation n’est déposée à l’issue de l’enquête;
+
 b) une accusation est déposée mais, aux termes d’une décision définitive rendue à l’égard de celle-ci, le défendeur est acquitté ou l’accusation est rejetée ou retirée.
 
 ### Paiement de l’amende
 
 (8) Si une personne est déclarée coupable d’une infraction et qu’une amende est imposée :
+
 a) d’une part, la chose qui est saisie relativement à l’infraction et qui n’est pas confisquée au profit de la Couronne du chef de l’Ontario en vertu du présent article ne doit pas être retournée tant que l’amende n’a pas été payée;
+
 b) d’autre part, en cas de défaut de paiement de l’amende au sens de l’article 69 de la Loi sur les infractions provinciales, un juge peut ordonner que la chose soit confisquée au profit de la Couronne du chef de l’Ontario.
 
 ### Confiscation si l’identité du saisi n’est pas connue
@@ -683,7 +831,9 @@ b) d’autre part, en cas de défaut de paiement de l’amende au sens de l’ar
 ### Confiscation sur déclaration de culpabilité
 
 (12) Si une personne est déclarée coupable d’une infraction prévue par la présente loi :
+
 a) d’une part, l’animal, le végétal ou l’autre organisme qui a été saisi relativement à l’infraction, et la cage, l’abri ou tout autre contenant qui a été saisi relativement à l’animal, au végétal ou à l’autre organisme, sont confisqués au profit de la Couronne du chef de l’Ontario;
+
 b) d’autre part, le juge peut ordonner que toute autre chose qui a été saisie relativement à l’infraction soit confisquée au profit de la Couronne du chef de l’Ontario.
 
 ### Application du par. (12)
@@ -723,50 +873,75 @@ b) d’autre part, le juge peut ordonner que toute autre chose qui a été saisi
 ### Arrêté d’atténuation
 
 36 (1) Le ministre peut prendre l’arrêté prévu au paragraphe (2) à l’intention des personnes suivantes qui exercent une activité visée par l’article 16 si le ministre a des motifs raisonnables de croire qu’elles sont nécessaires ou souhaitables pour atténuer les conséquences préjudiciables potentielles de l’activité sur l’espèce ou son habitat :
+
 1. La personne qui a obtenu un permis à l’égard de l’activité.
+
 2. La personne qui a enregistré l’activité au Registre.
+
 3. La personne à laquelle le paragraphe 16 (1) ou (2), selon le cas, ne s’applique pas à l’égard de l’activité.
+
 4. Toute autre personne prescrite par le lieutenant-gouverneur en conseil.
 
 ### Contenu de l’arrêté
 
 (2) L’arrêté exige que la personne visée au paragraphe (1) prenne une ou plusieurs des mesures suivantes dans le délai et de la manière que précise l’arrêté :
+
 1. Engager les entrepreneurs ou experts-conseils que le ministre ou l’agent provincial estime compétents pour qu’ils élaborent un plan ou remplissent les exigences.
+
 2. Protéger le terrain, le lieu, la chose ou l’espèce précisé dans l’arrêté au moyen de cadenas, de grilles, de clôtures, d’agents de sécurité ou autrement.
+
 3. Obtenir, construire, installer ou modifier les choses, les dispositifs, l’équipement ou les installations que l’arrêté précise, aux endroits et de la manière précisés dans l’arrêté.
+
 4. Prélever des échantillons, effectuer des tests et des mesures, exercer une surveillance et présenter des rapports relativement à une espèce précisée dans l’arrêté ou à son habitat, notamment en décrivant la présence ou l’état de l’espèce ou de son habitat.
+
 5. Empêcher, atténuer ou éviter une conséquence préjudiciable pour une espèce précisée dans l’arrêté ou pour son habitat ou y remédier, notamment par des mesures visant à remettre en état ou restaurer tout habitat endommagé ou détruit ou à prévoir un habitat de rechange.
+
 6. Étudier ou surveiller une conséquence préjudiciable pour une espèce précisée dans l’arrêté ou pour son habitat, ou encore l’efficacité des exigences de prévention, d’atténuation ou de remédiation prévues par l’arrêté, ou présenter des rapports à ces sujets.
+
 7. Toute autre mesure précisée dans l’arrêté qui est nécessaire pour atténuer une conséquence préjudiciable pour une espèce précisée dans l’arrêté ou pour son habitat.
 
 ### Renseignements à inclure dans l’arrêté
 
 (3) L’arrêté :
+
 a) identifie l’espèce ou l’habitat auquel il se rapporte;
+
 b) décrit brièvement les motifs de l’arrêté et les circonstances sur lesquelles ces motifs se fondent, y compris la nature de l’activité et son effet sur l’espèce ou son habitat;
+
 c) indique qu’une audience portant sur l’arrêté peut être demandée conformément à la partie V.
 
 ### Arrêté de protection de l’habitat
 
 37 (1) Le ministre peut prendre l’arrêté prévu au paragraphe (2) dans l’une des circonstances suivantes :
+
 1. Un règlement pris en vertu de l’alinéa 65 (1) b) restreint la définition de «habitat» à l’égard d’une espèce et le ministre a des motifs raisonnables de croire qu’une personne exerce ou est sur le point d’exercer une activité qui a ou aurait vraisemblablement pour effet d’endommager ou de détruire une aire qui autrement servirait d’habitat pour l’espèce.
+
 2. Une espèce qui n’est pas inscrite sur la Liste des espèces protégées en Ontario est classée dans un rapport présenté en application de l’article 12 ou 13 comme espèce disparue de l’Ontario, en voie de disparition ou menacée et le ministre a des motifs raisonnables de croire qu’une personne exerce ou est sur le point d’exercer une activité qui a ou aurait vraisemblablement pour effet d’endommager ou de détruire l’habitat de l’espèce.
+
 3. Le ministre a des motifs raisonnables de croire qu’une personne exerce ou est sur le point d’exercer une activité visée au paragraphe 16 (3) qui a ou aurait vraisemblablement pour effet d’endommager ou de détruire l’habitat d’une espèce inscrite sur la Liste des espèces protégées en Ontario.
+
 4. Le ministre a des motifs raisonnables de croire qu’une personne exerce ou est sur le point d’exercer une activité qui a ou aurait vraisemblablement pour effet d’endommager ou de détruire une aire qui ne répond pas aux critères de la définition de «habitat» au paragraphe 2 (1), mais qui est une aire dont un membre d’une espèce inscrite sur la Liste des espèces protégées en Ontario dépend directement pour ses processus de vie.
 
 ### Contenu de l’arrêté
 
 (2) L’arrêté exige que la personne visée au paragraphe (1) prenne une ou plusieurs des mesures suivantes dans le délai et de la manière que précise l’arrêté :
+
 1. Si l’activité n’est pas commencée, ne pas l’exercer.
+
 2. Arrêter d’exercer l’activité.
+
 3. Exercer l’activité conformément aux directives énoncées dans l’arrêté.
+
 4. Prendre les mesures énoncées dans l’arrêté afin de remettre en état ou restaurer toute aire endommagée ou détruite par l’activité ou prévoir un habitat de rechange.
 
 ### Renseignements à inclure dans l’arrêté
 
 (3) L’arrêté :
+
 a) identifie l’espèce et l’habitat auquel il se rapporte;
+
 b) décrit brièvement la nature de l’activité et les caractéristiques importantes de l’aire touchée par celle-ci;
+
 c) indique qu’une audience portant sur l’arrêté peut être demandée conformément à la partie V. 2025, chap. 4, annexe 10, par. 37 (3).
 
 ### Arrêté de protection des espèces
@@ -776,54 +951,83 @@ c) indique qu’une audience portant sur l’arrêté peut être demandée confo
 ### Contenu de l’arrêté
 
 (2) L’arrêté exige que la personne visée au paragraphe (1) prenne une ou plusieurs des mesures suivantes dans le délai et de la manière que précise l’arrêté :
+
 1. Si l’activité n’est pas commencée, ne pas l’exercer.
+
 2. Arrêter d’exercer l’activité.
+
 3. Exercer l’activité conformément aux directives énoncées dans l’arrêté.
+
 4. Prendre les mesures énoncées dans l’arrêté pour atténuer une conséquence préjudiciable importante de l’activité pour l’espèce.
 
 ### Renseignements à inclure dans l’arrêté
 
 (3) L’arrêté :
+
 a) identifie l’espèce auquel il se rapporte;
+
 b) décrit brièvement la nature de l’activité et la conséquence préjudiciable importante de l’activité sur l’espèce;
+
 c) indique qu’une audience portant sur l’arrêté peut être demandée conformément à la partie V.
 
 ### Ordre de contravention
 
 39 (1) Un agent provincial peut, par ordre, exiger qu’une personne prenne une ou plusieurs des mesures énoncées au paragraphe (2) dans le délai et de la manière que précise l’arrêté s’il a des motifs raisonnables de croire que la personne exerce, a précédemment exercé ou est sur le point d’exercer une activité qui entraîne ou entraînerait vraisemblablement une contravention à l’une ou l’autre des dispositions suivantes :
+
 1. L’article 15, le paragraphe 16 (1) ou (2) ou l’article 23.
+
 2. Le paragraphe 22 (9), à l’égard de toute disposition d’un permis.
+
 3. L’article 41, à l’égard de toute disposition d’un arrêté pris en vertu de l’article 36, 37 ou 38.
+
 4. Le paragraphe 54 (2), à l’égard de toute disposition d’une ordonnance rendue en vertu du paragraphe 54 (1).
+
 5. Toute disposition des règlements.
 
 ### Contenu de l’ordre
 
 (2) Les mesures prévues au paragraphe (1) sont les suivantes :
+
 1. Arrêter d’exercer l’activité ou ne pas l’exercer.
+
 2. Prendre des mesures pour empêcher, atténuer ou éviter les conséquences préjudiciables de l’activité pour l’espèce précisée dans l’ordre, ou remédier à ces conséquences.
+
 3. Prendre des mesures pour remettre en état ou restaurer toute aire endommagée ou détruite par l’activité ou prévoir un habitat de rechange.
+
 4. Engager les entrepreneurs ou experts-conseils que l’agent provincial estime compétents pour qu’ils élaborent un plan ou remplissent les exigences.
+
 5. Protéger le terrain, le lieu, la chose ou l’espèce précisé dans l’ordre au moyen de cadenas, de grilles, de clôtures, d’agents de sécurité ou autrement.
+
 6. Obtenir, construire, installer ou modifier les choses, les dispositifs, l’équipement ou les installations que l’ordre précise, aux endroits et de la manière précisés dans l’ordre.
+
 7. Prélever des échantillons, effectuer des tests et des mesures, exercer une surveillance et présenter des rapports relativement à une espèce précisée dans l’ordre ou à son habitat, notamment en décrivant la présence ou l’état de l’espèce ou de son habitat.
+
 8. Faire tout ce qu’il faut pour assurer le respect de la disposition.
+
 9. Empêcher qu’une contravention soit commise, se poursuive ou se répète.
 
 ### Renseignements à inclure dans l’ordre
 
 (3) L’ordre :
+
 a) précise la disposition à laquelle il est, a été ou pourrait être contrevenu selon l’agent provincial;
+
 b) identifie l’espèce ou l’habitat auquel il se rapporte;
+
 c) décrit brièvement la nature et le lieu de la contravention;
+
 d) indique qu’une audience portant sur l’ordre peut être demandée conformément à la partie V.
 
 ### Signification de l’ordre ou de l’arrêté
 
 40 (1) L’arrêté pris en vertu du paragraphe 19 (2) ou de l’article 36, 37 ou 38 ou l’ordre donné en vertu de l’article 39 est signifié :
+
 a) à personne;
+
 b) par courrier adressé à la dernière adresse connue de la personne qu’il vise;
+
 c) dans le cas d’un arrêté pris en vertu du paragraphe 19 (2), par dépôt d’une copie de l’arrêté au Registre conformément à l’article 20;
+
 d) conformément aux éventuels règlements.
 
 ### Courrier
@@ -847,7 +1051,9 @@ d) conformément aux éventuels règlements.
 ### Appel du permis, de l’ordre ou de l’arrêté
 
 42 (1) Une personne peut demander une audience devant le tribunal dans l’un ou l’autre des cas suivants :
+
 a) le ministre prend une mesure énoncée au paragraphe 22 (1) ou (7) à l’égard d’un permis délivré à la personne;
+
 b) le ministre prend un arrêté en vertu du paragraphe 19 (2) ou de l’article 36, 37 ou 38 ou l’agent provincial donne un ordre en vertu de l’article 39 à l’égard de la personne ou apporte une modification à un tel acte.
 
 ### Idem
@@ -865,7 +1071,9 @@ b) le ministre prend un arrêté en vertu du paragraphe 19 (2) ou de l’article
 ### Contenu de l’avis de demande d’audience
 
 44 (1) La personne qui demande à être entendue devant le Tribunal indique dans l’avis de demande d’audience :
+
 a) les parties du permis, de l’ordre ou de l’arrêté qui font l’objet de la demande;
+
 b) les motifs qu’elle a l’intention d’invoquer à l’audience.
 
 ### Effet du contenu de l’avis
@@ -895,9 +1103,13 @@ b) les motifs qu’elle a l’intention d’invoquer à l’audience.
 ### Parties
 
 46 Les personnes suivantes sont parties à l’instance :
+
 1. La personne qui demande l’audience.
+
 2. L’agent provincial, si c’est lui qui a donné l’ordre porté en appel.
+
 3. Le ministre, si c’est lui qui a délivré le permis ou pris l’arrêté porté en l’appel.
+
 4. Toute autre personne précisée par le Tribunal.
 
 ### Pouvoirs du Tribunal
@@ -915,7 +1127,9 @@ b) les motifs qu’elle a l’intention d’invoquer à l’audience.
 ### Suspension accordée ou annulée par la Cour divisionnaire
 
 (3) S’il est interjeté appel d’une décision du Tribunal devant la Cour divisionnaire en vertu du présent article, la Cour peut, selon le cas :
+
 a) suspendre l’application de la décision;
+
 b) annuler la suspension ordonnée par le Tribunal en vertu du paragraphe (2).
 
 ## PartIE VI Infractions et peines
@@ -923,7 +1137,9 @@ b) annuler la suspension ordonnée par le Tribunal en vertu du paragraphe (2).
 ### Infractions
 
 49 (1) Est coupable d’une infraction quiconque contrevient à l’une ou l’autre des dispositions suivantes :
+
 1. L’article 15, le paragraphe 16 (1) ou (2), le paragraphe 18 (3), le paragraphe 22 (9), le paragraphe 23 (1) ou (2), l’article 31, le paragraphe 33 (2), l’article 41 ou le paragraphe 54 (2).
+
 2. Toute disposition prescrite des règlements.
 
 ### Tentatives
@@ -937,23 +1153,33 @@ b) annuler la suspension ordonnée par le Tribunal en vertu du paragraphe (2).
 ### Employeurs et mandants
 
 51 Dans les poursuites intentées pour une infraction prévue par la présente loi, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un employé ou un mandataire du défendeur qui agissait dans le cadre de son emploi ou mandat, que cet employé ou ce mandataire ait été ou non identifié ou poursuivi pour l’infraction, sauf si le défendeur établit :
+
 a) d’une part, que l’infraction a été commise à son insu;
+
 b) d’autre part, que l’infraction a été commise sans son consentement.
 
 ### Défense
 
 52 Nul ne doit être déclaré coupable d’une infraction prévue par la présente loi s’il établit que :
+
 a) soit il a exercé toute la diligence convenable pour empêcher la commission de l’infraction;
+
 b) soit il croyait raisonnablement et en toute honnêteté à l’existence de faits qui, avérés, l’innocenteraient.
 
 ### Peines
 
 53 (1) Quiconque est déclaré coupable d’une infraction prévue par la présente loi est passible :
+
 a) dans le cas d’une première infraction :
+
 (i) d’une amende maximale de 1 000 000 $, dans le cas d’une personne morale,
+
 (ii) d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines, dans le cas de toute autre personne;
+
 b) dans le cas d’une deuxième infraction ou d’une infraction subséquente :
+
 (i) d’une amende maximale de 2 000 000 $, dans le cas d’une personne morale,
+
 (ii) d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines, dans le cas de toute autre personne.
 
 ### Infraction visant plus d’un animal, végétal ou autre organisme
@@ -967,11 +1193,17 @@ b) dans le cas d’une deuxième infraction ou d’une infraction subséquente :
 ### Ordonnance de conformité
 
 54 (1) Le tribunal qui déclare une personne coupable d’une infraction prévue par la présente loi peut, outre lui imposer une amende ou une peine d’emprisonnement, rendre l’une ou l’autre des ordonnances suivantes à son égard :
+
 1. Une ordonnance de ne pas exercer d’activité risquant d’entraîner, selon le tribunal, la continuation de l’infraction ou la récidive.
+
 2. Une ordonnance de prendre les mesures que le tribunal juge appropriées pour réparer ou éviter toute conséquence préjudiciable à une espèce résultant ou pouvant résulter de la commission de l’infraction, y compris des mesures pour remettre en état ou restaurer l’habitat endommagé ou détruit par l’infraction ou prévoir un habitat de rechange.
+
 3. Une ordonnance de verser au gouvernement de l’Ontario ou à toute autre personne la totalité ou une partie des frais engagés pour réparer ou éviter toute conséquence préjudiciable à une espèce résultant ou pouvant résulter de la commission de l’infraction, y compris des mesures pour remettre en état ou restaurer l’habitat endommagé ou détruit par l’infraction ou fournir un habitat de rechange.
+
 4. Une ordonnance de verser à quiconque une somme en vue d’aider à la protection ou à la conservation de l’espèce visée par l’infraction commise.
+
 5. Une ordonnance de prendre les autres mesures précisées dans l’ordonnance pour se conformer à la présente loi.
+
 6. Une ordonnance de payer la totalité ou une partie des dépenses engagées par le ministre ou toute autre personne à l’égard de la saisie, de l’entreposage ou de la disposition de toute chose saisie relativement à l’infraction.
 
 ### Conformité à l’ordonnance
@@ -993,7 +1225,9 @@ b) dans le cas d’une deuxième infraction ou d’une infraction subséquente :
 ### Espèces similaires
 
 57 Dans une poursuite intentée en vertu de la présente loi :
+
 a) l’animal, le végétal ou l’autre organisme, vivant ou mort, qui ne se distingue pas facilement d’un membre d’une espèce qui est inscrite sur la Liste des espèces protégées en Ontario est réputé, en l’absence de preuve contraire, être un membre de cette espèce;
+
 b) la partie d’un animal, d’un végétal ou d’un autre organisme, vivant ou mort, qui ne se distingue pas facilement d’une partie d’un membre d’une espèce qui est inscrite sur la Liste des espèces protégées en Ontario est réputée, en l’absence de preuve contraire, être une partie d’un membre de cette espèce.
 
 ### Preuve des choses examinées ou saisies
@@ -1003,10 +1237,15 @@ b) la partie d’un animal, d’un végétal ou d’un autre organisme, vivant o
 ### Documents servant de preuve
 
 59 (1) La définition qui suit s’applique au présent article.
+
 «document officiel» S’entend, selon le cas :
+
 a) d’un permis, d’un arrêté, d’un ordre, d’un avis ou d’une confirmation d’enregistrement visés par la présente loi;
+
 b) d’un certificat attestant la signification d’un document visé à l’alinéa a);
+
 c) d’un certificat qui atteste la garde d’un livre, d’un dossier ou d’un rapport, ou qui porte sur la garde d’un autre document;
+
 d) d’un certificat attestant si un document ou une notification a été reçu ou délivré par le ministre ou le ministère en application de la présente loi.
 
 ### Documents officiels servant de preuve
@@ -1018,9 +1257,13 @@ d) d’un certificat attestant si un document ou une notification a été reçu 
 ### Renseignements mis à la disposition du public
 
 60 (1) Le ministre veille à ce que les renseignements suivants soient mis à la disposition du public :
+
 1. Des renseignements généraux sur la présente loi et les règlements.
+
 2. Les plus récents renseignements que le ministre a reçus du CDSEPO en application du paragraphe 10 (3).
+
 3. Tous les rapports que le CDSEPO présente au ministre en application des articles 12 et 13.
+
 4. Des renseignements généraux sur l’exécution de la présente loi.
 
 ### Publication des rapports du CDSEPO
@@ -1046,54 +1289,91 @@ d) d’un certificat attestant si un document ou une notification a été reçu 
 ### Règlements
 
 64 (1) Le ministre peut, par règlement :
+
 a) prescrire toute chose que la présente loi mentionne comme étant prescrite ou traitée par les règlements, autre que par le lieutenant-gouverneur en conseil;
+
 b) prescrire les activités visées par l’article 16 pour l’application du paragraphe 16 (2);
+
 c) régir la création, le fonctionnement et la tenue du Registre, y compris :
+
 (i) régir les enregistrements, notamment exiger des enregistrements électroniques, et les modalités d’enregistrement, notamment la désignation d’une personne chargée de fixer ces modalités,
+
 (ii) régir la tenue des enregistrements et prescrire les renseignements, rapports, dossiers ou documents qu’ils doivent inclure,
+
 (iii) prescrire les dates et les exigences pour la mise à jour périodique des enregistrements,
+
 (iv) régir les activités exigeant un enregistrement,
+
 (v) exiger que les personnes ayant les qualités requises précisées dans les règlements joignent des attestations aux enregistrements,
+
 (vi) régir les attestations mentionnées au sous-alinéa (v),
+
 (vii) régir la suspension ou le retrait des enregistrements,
+
 (viii) régir les exigences en matière de garantie financière à l’égard d’activités exigeant un enregistrement et les modes de calcul de celle-ci, et prescrire les mesures pour lesquelles une garantie financière peut être exigée,
+
 (ix) exiger des personnes prescrites par règlement qu’elles souscrivent une assurance et préciser l’assurance à souscrire ainsi que les restrictions et conditions applicables à la couverture d’assurance;
+
 d) exiger que les personnes auxquelles a été délivré un acte en vertu de la présente loi ou les autres personnes précisées préparent, conservent et présentent les documents, les données ou les rapports prescrits et traiter des méthodes à suivre pour créer, conserver et présenter ceux-ci;
+
 e) prévoir la préparation et la signature de documents et de rapports par des moyens électroniques, leur dépôt par transmission électronique directe et l’impression de documents et de rapports ainsi déposés.
 
 ### Idem : activités exigeant un permis
 
 (2) Sans préjudice de la portée générale de l’alinéa (1) b), un règlement pris en vertu de cet alinéa peut décrire une activité prescrite visée par l’article 16 en fonction de ce qui suit, selon le cas :
+
 a) l’espèce touchée par l’activité;
+
 b) la zone géographique de l’activité;
+
 c) la temporalité de l’activité, par exemple le fait de prescrire une activité pour un moment donné de la journée ou de l’année;
+
 d) l’objet de l’activité;
+
 e) le stade du développement d’une espèce touchée par l’activité;
+
 f) les personnes ou la catégorie de personnes qui exercent l’activité;
+
 g) les circonstances dans lesquelles l’activité est exercée.
 
 ### Règlements, lieutenant-gouverneur en conseil
 
 65 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire toute chose que la présente loi mentionne comme étant prescrite ou traitée par des règlements pris par le lieutenant-gouverneur en conseil;
+
 b) restreindre l’application de «habitat» au sens du paragraphe 2 (1) à l’égard d’une ou plusieurs espèces précisées qui sont inscrites sur la Liste des espèces protégées en Ontario;
+
 c) définir «conséquence préjudiciable», «habitat de rechange», «à l’état sauvage», «conséquence préjudiciable importante» et «site» pour l’application de la présente loi;
+
 d) régir les questions transitoires qui peuvent découler de l’application de la présente loi ou des règlements;
+
 e) traiter de toute question que le lieutenant-gouverneur en conseil estime souhaitable pour réaliser l’objet de la présente loi, autre que les questions visées à l’article 64.
 
 ### Idem : exception relative aux activités exigeant un enregistrement
 
 (2) Sans préjudice de la portée générale de l’alinéa (1) a), un règlement pris en vertu de cet alinéa pour l’application de la disposition 4 du paragraphe 16 (3) peut :
+
 a) décrire une activité prescrite visée par l’article 16 en fonction de ce qui suit, selon le cas :
+
 (i) l’espèce touchée par l’activité,
+
 (ii) la zone géographique de l’activité,
+
 (iii) la temporalité de l’activité, par exemple le fait de prescrire une activité pour un moment donné de la journée ou de l’année,
+
 (iv) l’objet de l’activité,
+
 (v) le stade du développement d’une espèce touchée par l’activité,
+
 (vi) les personnes ou la catégorie de personnes qui exercent l’activité,
+
 (vii) les circonstances dans lesquelles l’activité est exercée;
+
 b) dans le cas d’une activité exigeant un permis :
+
 (i) prescrire des conditions qui exigent l’enregistrement de l’activité au Registre conformément aux règlements,
+
 (ii) prescrire l’application des dispositions de la présente loi et des règlements qui ne s’appliqueraient pas à l’égard de l’activité exigeant un permis.
 
 ## PartIE VIII Dispositions transitoires
@@ -1119,7 +1399,9 @@ b) dans le cas d’une activité exigeant un permis :
 ### Règlements transitoires
 
 67 (1) Le lieutenant-gouverneur en conseil peut, par règlement, régir les questions de transition qui peuvent découler de l’édiction de la présente loi et de l’abrogation de toute disposition de la Loi de 2007 sur les espèces en voie de disparition, notamment :
+
 a) régir les instances introduites, mais non définitivement réglées, en vertu de la Loi de 2007 sur les espèces en voie de disparition, y compris prévoir leur mise à fin;
+
 b) prévoir l’application continue, à titre transitoire, de toute disposition de la Loi de 2007 sur les espèces en voie de disparition ou de toute disposition d’un règlement qui est abrogée par la présente loi, telle qu’elle existait immédiatement avant son abrogation, avec les adaptations précisées.
 
 ### Idem
@@ -1129,5 +1411,7 @@ b) prévoir l’application continue, à titre transitoire, de toute disposition
 ## Partie IX (OMISE)
 
 68, 69 Omis (modification ou abrogation d’autres textes législatifs).
+
 70 Omis (entrée en vigueur de dispositions de la présente loi).
+
 71 Omis (édiction du titre abrégé de la présente loi).

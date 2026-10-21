@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-05-07"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96p01a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Public Sector Salary Disclosure Act, 1996
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96p01a) before relying on it.
 
 S.O. 1996, c. 1, Sched. A
 
@@ -23,49 +23,85 @@ S.O. 1996, c. 1, Sched. A
 ### Definitions
 
 2 (1) In this Act,
+
 “benefit” means each amount that an employee,
+
 (a) is required by subsection 6 (1) of the Income Tax Act (Canada) to include in his or her income from an office or employment, or
+
 (b) is required by section 6 of that Act, except subsection 6 (1), (3) or (11), to include in his or her income from an office or employment as a benefit, within the meaning of that Act, or as an amount in respect of a group term life insurance policy; (“avantage”)
+
 “employee” includes a director or officer of an employer, and a holder of office elected or appointed under the authority of an Act of Ontario; (“employé”)
+
 “employer” means,
+
 (a) an employer in the public sector that does not carry on its activities for the purpose of gain or profit to its members or shareholders, and includes the Crown and a body to which a person is elected or appointed under the authority of an Act of Ontario,
+
 (b) Hydro One Inc. and each of its subsidiaries, and
+
 (c) Ontario Power Generation Inc. and each of its subsidiaries; (“employeur”)
+
 “Hydro One Inc.” has the same meaning as in the Electricity Act, 1998; (“Hydro One Inc.”)
+
 “Ontario Power Generation Inc.” has the same meaning as in the Electricity Act, 1998; (“Ontario Power Generation Inc.”)
+
 “public sector” means,
+
 (a) the Crown in right of Ontario, every agency thereof, and every authority, board, commission, corporation, office or organization of persons a majority of whose directors, members or officers are appointed or chosen by or under the authority of the Lieutenant Governor in Council or a member of the Executive Council,
+
 (b) the corporation of every municipality in Ontario,
+
 (c) subject to the Government funding condition in subsection (2), every local board as defined by the Municipal Affairs Act and every authority, board, commission, corporation, office or organization of persons some or all of whose members, directors or officers are appointed or chosen by or under the authority of the council of the corporation of a municipality in Ontario,
+
 (d) every board as defined in the Education Act,
+
 (d.1) every employers’ association as defined in the School Boards Collective Bargaining Act, 2014,
+
 (e) every university in Ontario and every college of applied arts and technology and post-secondary institution in Ontario whether or not affiliated with a university, the enrolments of which are counted for purposes of calculating annual operating grants entitlements,
+
 (f) every hospital referred to in the list of hospitals and their grades and classifications maintained by the Minister of Health and Long-Term Care under the Public Hospitals Act and every private hospital operated under the authority of a licence issued under the Private Hospitals Act,
+
 (g) subject to the Government funding condition in subsection (2), every corporation with share capital, at least 90 per cent of the issued shares of which are beneficially held by or for an employer or employers described in clauses (a) to (f), and every wholly-owned subsidiary thereof,
+
 (h) subject to the Government funding condition in subsection (2), every corporation without share capital, the majority of whose members, directors or officers are members of, or are appointed or chosen by or under the authority of, an employer or employers described in clauses (a) to (f), and every wholly-owned subsidiary thereof,
+
 (i) every board of health under the Health Protection and Promotion Act,
+
 (j) the Office of the Lieutenant Governor of Ontario, the Office of the Assembly, members of the Assembly and the offices of persons appointed by order of the Assembly,
+
 (k) any corporation, entity, person or organization of persons to which the Government funding condition in subsection (2) applies,
+
 (l) any authority, board, commission, corporation, office, person or organization of persons, or any class of authorities, boards, commissions, corporations, offices, persons or organizations of persons, prescribed as an employer by the regulations made under this Act,
+
 (m) Hydro One Inc. and each of its subsidiaries, or
+
 (n) Ontario Power Generation Inc. and each of its subsidiaries; (“secteur public”)
+
 “salary” means the total of each amount received by an employee that is,
+
 (a) an amount required by section 5 of the Income Tax Act (Canada) to be included in the employee’s income from an office or employment,
+
 (b) an amount deemed by subsection 6 (3) of that Act to be remuneration of the employee for the purposes of section 5 of that Act, or
+
 (c) an amount received by the employee by reason of his or her right to receive a deferred amount under a salary deferral arrangement referred to in subsection 6 (11) of that Act; (“traitement”)
+
 “subsidiary”, in relation to Hydro One Inc. and Ontario Power Generation Inc., has the same meaning as in the Electricity Act, 1998. (“filiale”)
 
 ### Funding received from Government
 
 (2) A body referred to in clause (c), (g), (h) or (k) of the definition of “public sector” in subsection (1) is included in the definition of “public sector” in a year only if the body received funding from the Government of Ontario in that year of an amount that is at least equal to,
+
 (a) $1,000,000; or
+
 (b) 10 per cent of the body’s gross revenues for the year if that percentage is $120,000 or more.
 
 ### Proof of percentage of funding
 
 (3) The Management Board of Cabinet may require an officer, director or employee of a body to provide evidence satisfactory to the Secretary of the Management Board of Cabinet that the funding received from the Government of Ontario by the body in a year is less than 10 per cent of the body’s gross revenues for the year, if, for the year,
+
 (a) the body received funding from the Government of Ontario of less than $1,000,000 and at least $120,000;
+
 (b) the body has not made available to the public a written record or statement in accordance with section 3; and
+
 (c) the body would be an employer to whom this Act applies if its funding from the Government of Ontario for the year were at least 10 per cent of its gross revenues for the year.
 
 ### Failure to provide evidence
@@ -75,6 +111,7 @@ S.O. 1996, c. 1, Sched. A
 ### When government funding condition not applicable
 
 (5) Where an employer described in clauses (c), (g), (h) or (k) in the definition of “public sector” in subsection (1) is also described in another clause of that definition, the employer is in the public sector whether or not the government funding condition in subsection (2) is met.
+
 2.1 Repealed: 2016, c. 37, Sched. 18, s. 10.
 
 ### Public disclosure
@@ -84,9 +121,13 @@ S.O. 1996, c. 1, Sched. A
 ### Contents of record
 
 (2) The record shall indicate the year to which the information on it relates, shall list employees alphabetically by surname, and shall show for each employee,
+
 (a) the employee’s name as shown on the employer’s payroll records;
+
 (b) the office or position last held by the employee with the employer in the year;
+
 (c) the amount of salary paid by the employer to the employee in the year;
+
 (d) the amount of benefits reported to Revenue Canada, Taxation, under the Income Tax Act (Canada) by the employer for the employee in the year.
 
 ### Statement when record not required
@@ -164,14 +205,19 @@ S.O. 1996, c. 1, Sched. A
 ### Disclosure not breach of any Act or agreement
 
 6 The disclosure of information in accordance with this Act, or in the reasonable belief that the disclosure is required by this Act, shall not be deemed by any court or person,
+
 (a) to contravene any Act or regulation enacted or made before or after the coming into force of this Act; or
+
 (b) to be in breach of or contrary to any agreement that purports to restrict or prohibit that disclosure regardless of whether the agreement is made before or after the coming into force of this Act.
 
 ### This Act prevails
 
 7 (1) The following provisions of this Act prevail over any other Act or regulation unless another Act specifically refers to those provisions and provides otherwise:
+
 1. The requirement under section 3 or 4.1 to disclose information.
+
 2. The right of Management Board of Cabinet under subsections 2 (4) and 5 (1) to require a ministry to withhold payments to an employer.
+
 3. The ceasing of an employer’s entitlement to payment under subsection 5 (3).
 
 ### Same
@@ -181,15 +227,25 @@ S.O. 1996, c. 1, Sched. A
 ### Regulations
 
 8 (1) The Lieutenant Governor in Council may make any regulations the Lieutenant Governor in Council considers necessary or advisable to carry out the intent and purpose of this Act, including, without limiting the generality of the foregoing,
+
 (a) prescribing a person or organization to be or not to be an employer to whom this Act applies;
+
 (b) providing that this Act applies, with necessary modifications, with regard to a specified aggregate amount of salary and benefits for a year in the same way that it applies with regard to a salary of $100,000 for the year and prescribing that aggregate amount of salary and benefits;
+
 (c) prescribing methods in addition to or in place of those mentioned in this Act by which information to be made available to the public under this Act may be disclosed, and requiring employers or classes of employers to disclose information by a particular method;
+
 (d) requiring employers to provide without charge to any ministry or ministries of the Crown the record or statement referred to in section 3;
+
 (e) providing that an amount other than $120,000 applies for the purpose of clauses 2 (2) (b) and 2 (3) (a) and prescribing that amount;
+
 (f) providing that a payment from an employer to a corporation that provides to the employer the services of an officer or employee of the corporation shall be deemed under specified circumstances to be a payment to an employee of the employer for the purpose of this Act, prescribing those circumstances and prescribing the information that the employer or minister shall make public and include in a record under section 3 or 4.1 under those circumstances;
+
 (g) providing that specified payments made by an employer to or in respect of an employee be included in or excluded from the definition of “salary” or “benefit” for the purpose of this Act and prescribing those payments;
+
 (h) prescribing the fee that may be charged under subsection 4 (1) for furnishing a copy of a record or statement;
+
 (i) providing that an amount other than $100,000 applies for the purposes of section 1, subsections 3 (1) and (3), subsections 4.1 (4) and (6), and clause 8 (1) (b) and prescribing that amount;
+
 (j) defining “fund”, “funding” and “promptly”.
 
 ### Same
@@ -203,5 +259,7 @@ S.O. 1996, c. 1, Sched. A
 ### Same
 
 (4) A regulation made under subsection (1) is, if it so provides, effective with reference to a period before it is filed.
+
 9 Omitted (provides for coming into force of provisions of this Act).
+
 10 Omitted (enacts short title of this Act).

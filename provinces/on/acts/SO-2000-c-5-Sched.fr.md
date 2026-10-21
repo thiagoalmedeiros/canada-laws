@@ -6,21 +6,24 @@ language: fr
 type: act
 document_date: "2021-06-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/00t05"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # ville de Moosonee (Loi de 2000 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/00t05) before relying on it.
 
 L.O. 2000, chap. 5, annexe
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Conseil» Le Conseil de la zone de développement de Moosonee tel qu’il existe le 31 décembre 2000. («Board»)
+
 «secteur municipal» Secteur constitué du territoire relevant de la compétence du Conseil de la zone de développement de Moosonee le 31 décembre 2000. («municipal area»)
+
 «ville» La ville de Moosonee constituée aux termes de la présente loi. («town») 2000, chap. 5, annexe, art. 1.
 
 ### Constitution
@@ -42,7 +45,9 @@ L.O. 2000, chap. 5, annexe
 ### Règles : élections de 2000
 
 (2) Les règles particulières qui suivent s’appliquent aux membres du conseil élus lors des élections ordinaires de 2000 :
+
 1. Malgré l’article 6 de la Loi de 1996 sur les élections municipales, le mandat des membres commence le 1 er janvier 2001.
+
 2. Malgré le paragraphe 49 (1) de la Loi sur les municipalités, la première réunion du conseil se tient au plus tard le 9 janvier 2001.
 
 ### Dissolution
@@ -92,4 +97,5 @@ L.O. 2000, chap. 5, annexe
 ### Incompatibilité
 
 (2) Les dispositions des règlements pris en application du paragraphe (1) l’emportent sur les dispositions incompatibles de la présente loi ou de toute autre loi.
+
 8 Omis (édicte le titre abrégé de la présente loi).

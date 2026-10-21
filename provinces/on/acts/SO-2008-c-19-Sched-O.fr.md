@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/08o19"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # société Croissance Ontario (Loi de 2008 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/08o19) before relying on it.
 
 L.O. 2008, chap. 19, annexe O
 
@@ -21,10 +21,15 @@ L.O. 2008, chap. 19, annexe O
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «conseil d’administration» Le conseil d’administration de la Société. («board»)
+
 «filiale» Personne morale qui est une filiale de la Société. («subsidiary»)
+
 «ministre» Le ministre de la Recherche et de l’Innovation ou l’autre membre du Conseil exécutif à qui est confiée ou transférée l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «règlements» Les règlements pris en application de la présente loi. («regulations»)
+
 «Société» La personne morale prorogée par l’article 2. («Corporation») 2008, chap. 19, annexe O, art. 1
 
 ### Société
@@ -60,9 +65,13 @@ L.O. 2008, chap. 19, annexe O
 ### Objets
 
 4 Les objets de la Société sont les suivants :
+
 a) s’occuper de l’intérêt du gouvernement de l’Ontario dans la société en commandite appelée Fonds ontarien de capital-risque SC, et notamment le recevoir, le détenir et l’administrer;
+
 b) acquérir les autres placements ou catégories de placements que prescrivent les règlements, et s’en occuper, notamment les gérer;
+
 c) réaliser les autres objets que prescrivent les règlements;
+
 d) recevoir des biens, immeubles ou meubles, ou s’occuper de tels biens, notamment les détenir, les placer ou les vendre, aux fins des objets visés à l’alinéa a), b) ou c).
 
 ### Mandataires de la Couronne
@@ -90,16 +99,23 @@ d) recevoir des biens, immeubles ou meubles, ou s’occuper de tels biens, notam
 ### Emprunts
 
 (3) La Société ou une filiale ne doit pas contracter des emprunts ou gérer des risques financiers sauf si :
+
 a) d’une part, un règlement administratif de la Société ou de la filiale, selon le cas, autorise l’activité et le ministre des Finances a consenti au règlement administratif;
+
 b) d’autre part, l’Office ontarien de financement coordonne et organise l’activité, sauf accord contraire du ministre des Finances.
 
 ### Placements temporaires
 
 (4) La Société peut, de façon temporaire, placer les sommes dont elle n’a pas immédiatement besoin pour réaliser ses objets, mais seulement si les conditions suivantes sont réunies :
+
 a) un règlement administratif de la Société autorise les placements, lesquels doivent être choisis parmi ce qui suit :
+
 (i) des titres de créance décernés ou garantis par le gouvernement du Canada ou une province du Canada,
+
 (ii) des comptes productifs d’intérêts et des certificats de dépôt à court terme décernés ou garantis par une banque à charte, une société de fiducie, une caisse populaire ou une credit union;
+
 b) le ministre des Finances a consenti au règlement administratif visé à l’alinéa a);
+
 c) l’Office ontarien de financement coordonne et organise les placements, sauf accord contraire du ministre des Finances.
 
 ### Politiques et directives du ministre
@@ -137,7 +153,9 @@ c) l’Office ontarien de financement coordonne et organise les placements, sauf
 ### Aide professionnelle
 
 (3) La Société peut :
+
 a) d’une part, engager des personnes, autres que celles qui sont visées au paragraphe (1) ou (2), pour l’aider ou pour apporter une aide en son nom, notamment sur les plans professionnel et technique;
+
 b) d’autre part, définir les conditions d’emploi des personnes engagées en vertu de l’alinéa a) et leur verser une rémunération, frais compris, pour leurs services.
 
 ### Immunité des employés et d’autres personnes
@@ -163,11 +181,17 @@ b) d’autre part, définir les conditions d’emploi des personnes engagées en
 ### Contenu
 
 (2) Le plan d’activités couvre une période de trois ans et comprend ce qui suit :
+
 a) le projet de budget de fonctionnement de la Société pour l’exercice;
+
 b) le budget de fonctionnement projeté de la Société pour chacun des deux autres exercices;
+
 c) les recettes projetées de la Société pour l’exercice et leur provenance;
+
 d) les dépenses de fonctionnement projetées de la Société pour l’exercice;
+
 e) les mesures de performance servant à établir des objectifs pour l’exercice;
+
 f) les autres renseignements qu’exige le ministre.
 
 ### Modifications
@@ -179,6 +203,7 @@ f) les autres renseignements qu’exige le ministre.
 ### Statut des recettes et des actifs
 
 13 (1) Malgré la partie I de la Loi sur l’administration financière, les recettes et les actifs de la Société et de ses filiales, le cas échéant, ne font pas partie du Trésor.
+
 (2) Abrogé : 2009, chap. 34, annexe N, art. 3.
 
 ### Registres financiers
@@ -212,7 +237,9 @@ f) les autres renseignements qu’exige le ministre.
 ### Idem
 
 (2) La Société se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -240,7 +267,9 @@ b) le moment où il faut le mettre à la disposition du public et la manière de
 ### Restriction
 
 (3) Le plan pour la liquidation de la Société peut prévoir :
+
 a) d’une part, la liquidation des éléments d’actif et le transfert du produit de la liquidation au Trésor ou à un organisme de la Couronne;
+
 b) d’autre part, le transfert des éléments d’actif et de passif à la Couronne du chef de l’Ontario ou à un organisme de la Couronne.
 
 ### Mise en oeuvre
@@ -250,12 +279,17 @@ b) d’autre part, le transfert des éléments d’actif et de passif à la Cour
 ### Règlements
 
 19 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire tout ce que la présente loi mentionne comme étant prescrit par les règlements;
+
 b) préciser les objets, les pouvoirs et les fonctions des filiales et prévoir la gestion de celles-ci;
+
 c) traiter de toute autre question que le lieutenant-gouverneur en conseil estime nécessaire ou souhaitable pour réaliser efficacement l’objet de la présente loi.
 
 ### Portée
 
 (2) Les règlements peuvent imposer des limites, des conditions, des exigences ou des restrictions et avoir une portée générale ou particulière.
+
 20 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 21 Omis (édicte le titre abrégé de la présente loi).

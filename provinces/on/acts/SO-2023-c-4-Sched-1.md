@@ -6,23 +6,28 @@ language: en
 type: act
 document_date: "2023-09-25"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23i04"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Integrated Community Health Services Centres Act, 2023
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23i04) before relying on it.
 
 S.O. 2023, c. 4, Sched. 1
 
 ### Preamble
 
 The people of Ontario and their Government:
+
 Share a vision for connected and convenient care, where the health and wellbeing of all OHIP-insured Ontarians is enabled through health services that are available at no cost to patients;
+
 Commit to supporting access to safe, effective, equitable, efficient and person-centred care;
+
 Recognize the value of a healthcare system that collaboratively integrates publicly funded, community-based health services with local and regional health system partners;
+
 Intend to expand access to publicly funded community-based health services to improve patient wait times, patient experience and access to care in a way that considers the needs of diverse, vulnerable, priority and underserviced populations, taking into account linguistic needs; and
+
 Acknowledge the importance of advancing initiatives to optimize health human resources today and in the future.
 
 ## PART I INTERPRETATION AND APPLICATION
@@ -30,60 +35,107 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Interpretation
 
 1 (1) In this Act,
+
 “Board” means the Health Services Appeal and Review Board under the Ministry of Health and Long-Term Care Appeal and Review Boards Act, 1998; (“Commission”)
+
 “compliance order” means an order made under section 49; (“ordre de conformité”)
+
 “Director” means the Director or Directors appointed under section 3 and, where more than one Director has been appointed, means the Director or Directors that have been assigned the power, function or duty in the provision in which the term appears; (“directeur”)
+
 “facility cost” means,
+
 (a) a charge, fee or payment for or in respect of a service or operating cost that,
+
 (i) supports, assists and is a necessary adjunct, or any of them, to an insured service, and
+
 (ii) is not part of the insured service, or
+
 (b) any other charge, fee or payment that is prescribed as a facility cost; (“coûts d’établissement”)
+
 “health facility” means a place in which one or more members of the public receive health services and includes an integrated community health services centre; (“établissement de santé”)
+
 “inspecting body” means an organization that is prescribed as an inspecting body in accordance with the regulations; (“organisme d’inspection”)
+
 “inspector” means an inspector appointed under section 42 or 43; (“inspecteur”)
+
 “insured person” has the same meaning as in the Health Insurance Act; (“assuré”)
+
 “insured service” means,
+
 (a) a service rendered by a physician for which an amount payable is prescribed by the regulations under the Health Insurance Act, or
+
 (b) a service prescribed as an insured service under the Health Insurance Act rendered by a practitioner within the meaning of that Act; (“service assuré”)
+
 “integrated community health services centre” means, subject to any exemptions set out in the regulations,
+
 (a) a health facility, including a community surgical and diagnostic centre, in which one or more members of the public receive services for or in respect of which facility costs are charged or paid, or
+
 (b) a health facility, including a community surgical and diagnostic centre, or a class of health facilities, that is prescribed; (“centre de services de santé communautaire intégré”)
+
 “justice” has the same meaning as in the Provincial Offences Act; (“juge”)
+
 “licence” means a licence issued by the Director under this Act; (“permis”)
+
 “licensee” means the holder of a licence; (“titulaire de permis”)
+
 “Minister” means the Minister of Health or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “Ministry” means the ministry of the Minister; (“ministère”)
+
 “patient” means a person who receives health services in a health facility; (“patient”)
+
 “personal information” means personal information as defined in the Freedom of Information and Protection of Privacy Act and includes personal health information as defined in the Personal Health Information Protection Act, 2004; (“renseignements personnels”)
+
 “physician” has the same meaning as in the Health Insurance Act; (“médecin”)
+
 “Plan” means the Ontario Health Insurance Plan referred to in section 10 of the Health Insurance Act; (“Régime”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “provincial offences officer” has the same meaning as in the Provincial Offences Act; (“agent des infractions provinciales”)
+
 “quality and safety standards” means,
+
 (a) the quality and safety standards established by an inspecting body under paragraph 1 of subsection 43 (3),
+
 (b) any additional quality and safety standards that may be prescribed, and
+
 (c) any other applicable generally accepted quality and safety standards; (“normes de qualité et de sécurité”)
+
 “regulated health professional” means a health professional whose profession is regulated under the Regulated Health Professions Act, 1991; (“membre d’une profession de la santé réglementée”)
+
 “regulations” means regulations made under this Act; (“règlements”)
+
 “requirement under this Act” means,
+
 (a) a requirement contained in this Act or its regulations,
+
 (b) a requirement set out in a compliance order or other order authorized under this Act, or
+
 (c) a requirement that is a limitation and condition of a licence or condition of receiving funding. (“exigence que prévoit la présente loi”)
 
 ### Interest affecting the control of a corporation
 
 (2) A person shall be deemed to have an interest affecting the control of a corporation if the person, alone or with one or more associates, directly or indirectly beneficially owns or controls the lesser of,
+
 (a) voting shares in the corporation in a sufficient number to permit that person, either alone or with one or more associates, to direct the management and policies of the corporation; or
+
 (b) voting shares to which are attached 10 per cent or more of the voting rights attached to all issued and outstanding voting shares of the corporation.
 
 ### Associates
 
 (3) Persons shall be deemed to be associates of each other if,
+
 (a) one person is a corporation of which the other person is an officer or director;
+
 (b) one person is a partner of the other person;
+
 (c) one person is a corporation of which the other person beneficially owns, directly or indirectly, voting shares carrying more than 10 per cent of the voting rights attached to all voting shares of the corporation for the time being outstanding;
+
 (d) both persons are members of a voting trust where the trust relates to shares of a corporation;
+
 (e) one person is the father, mother, brother, sister, child or spouse of the other person or is another relative who has the same home as the other person; or
+
 (f) both persons are associates within the meaning of clauses (a) to (e) of the same person.
 
 ### Corporations without share capital
@@ -123,15 +175,21 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Call for applications
 
 5 (1) The Minister may at any time authorize the Director to call for one or more applications for the establishment and operation of one or more integrated community health services centres by,
+
 (a) sending a call for applications to one or more specified persons; or
+
 (b) publishing a call for applications in any manner the Director considers appropriate.
 
 ### Contents of call for applications
 
 (2) A call for applications shall specify,
+
 (a) the service or services to be provided in the integrated community health services centre;
+
 (b) the locality in which the integrated community health services centre is to be located;
+
 (c) such other requirements and limitations as the Minister considers relevant; and
+
 (d) the final date for submission of applications.
 
 ### Submission of applications
@@ -141,24 +199,43 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Required contents for licence application
 
 (4) A licence application must be in the form specified by the Director and must include, but is not limited to,
+
 (a) a detailed description of the service or services to be provided in the proposed integrated community health services centre and how it will provide connected and convenient care, including the applicant’s,
+
 (i) capacity to improve patient wait times,
+
 (ii) plans to improve patient experiences and access to care in the proposed integrated community health services centre, and
+
 (iii) plans to integrate with the health system;
+
 (b) details of the applicant’s quality assurance and continuous quality improvement programming, including policies for infection prevention and control;
+
 (c) the business, clinical and professional experience of the applicant, including how the applicant will meet all governance and management responsibilities of the proposed integrated community health services centre;
+
 (d) details of the physical nature of the proposed integrated community health services centre, including its address and distance to other integrated community health services centres and hospitals;
+
 (e) a detailed staffing model for the proposed integrated community health services centre and evidence of the sustainability of this model, including,
+
 (i) staff classification with rates of compensation and ranges of compensation, as applicable,
+
 (ii) the number of staff required for each position,
+
 (iii) the model for staffing anaesthesia delivery, if applicable, and
+
 (iv) information regarding the hospital privileges of physicians who provide services at the centre, if applicable;
+
 (f) a description of how the applicant has consulted with health system partners in the development of the application, including any endorsement of the application by health system partners;
+
 (g) a description of current linkages with health system partners and how the applicant will maintain and improve those linkages to promote optimal patient care pathways;
+
 (h) a description of how the proposed integrated community health services centre will address the health equity needs of diverse, vulnerable, priority and underserviced populations, taking into account linguistic needs, in the region specified in the call for applications;
+
 (i) a description of any uninsured services that are being provided or will be provided at the proposed integrated community health services centre, including,
+
 (i) a description of any charges for the uninsured services, and
+
 (ii) a detailed description of the processes for providing information and obtaining patient consent in connection with any uninsured services; and
+
 (j) such other information as is specified in the call for applications.
 
 ### Consideration of applications
@@ -168,50 +245,79 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Issuance of licence
 
 6 (1) The Director may issue a licence to a person who has submitted an application for the establishment and operation of an integrated community health services centre if the Director is of the opinion that,
+
 (a) the applicant provided all of the information required in subsection 5 (4);
+
 (b) the licence should be issued, taking into account the considerations set out in subsection (2);
+
 (c) the integrated community health services centre will be operated in accordance with this Act and the regulations and any other applicable Act or regulation;
+
 (d) the persons listed in subsection (3) will operate the integrated community health services centre competently and in a responsible manner in accordance with this Act and the regulations, will ensure that the specified services are provided and will comply with the quality and safety standards;
+
 (e) the past conduct relating to the operation of an integrated community health services centre or any other matter or business of a person listed in subsection (3) affords reasonable grounds to believe that,
+
 (i) the centre will be operated with honesty and integrity and in accordance with the law, and
+
 (ii) the centre will not be operated in a manner that is prejudicial to the health, safety or welfare of any person; and
+
 (f) there is no other reason that the person should not be issued a licence.
 
 ### Considerations in assessing application
 
 (2) In deciding whether to issue a licence, the Director shall consider,
+
 (a) the nature of the services to be provided in the proposed integrated community health services centre;
+
 (b) the extent to which the services are already available in Ontario or in any part of Ontario;
+
 (c) the extent to which the services to be provided in the proposed integrated community health services centre will promote connected and convenient care, including the applicant’s,
+
 (i) capacity to improve patient wait times,
+
 (ii) plans to improve patient experiences and access to care in the proposed integrated community health services centre, and
+
 (iii) plans to integrate with the health system;
+
 (d) the current and future need for the service or services in Ontario or any part of Ontario, taking into account the needs of diverse, vulnerable, priority and underserviced populations and linguistic needs;
+
 (e) the potential impact on health system planning, including the availability of sustainable health human resources;
+
 (f) whether the issuing of the licence would improve the availability of the services in the region specified in the call for applications;
+
 (g) the potential impact on the co-ordination of health services, based on consultations with health system partners;
+
 (h) the projected cost in public money for the operation of the proposed integrated community health services centre;
+
 (i) the availability of public money to pay for the operation of the proposed integrated community health services centre; and
+
 (j) any other matter that the Director considers relevant to the management of the health care system.
 
 ### Relevant persons
 
 (3) The following are the persons listed for the purposes of clauses (1) (d) and (e):
+
 1. The person who submitted the application.
+
 2. If the person who submitted the application is a corporation, the officers and directors of the corporation and any other person with an interest affecting control of the corporation.
+
 3. If the person with an interest affecting control mentioned in paragraph 2 is a corporation, the officers and directors of the corporation.
+
 4. Any other prescribed persons.
 
 ### Discretion
 
 (4) The issuance of a licence is discretionary, and the Director,
+
 (a) is not required to issue a licence to any person; and
+
 (b) may prefer any application over other applications.
 
 ### Limitation on licence issuance
 
 (5) The Director shall not issue a licence for the operation of an integrated community health services centre that is located,
+
 (a) within the same building as, or in a building that is adjacent to, a private hospital within the meaning of the Private Hospitals Act; or
+
 (b) at any other prescribed place.
 
 ### Limitations and conditions
@@ -267,7 +373,9 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Director’s decision
 
 (4) In deciding whether to approve an application for the renewal of a licence, the Director shall take into consideration the following matters, as well as any matters that the Director would be entitled to take into consideration if the Director were making a decision under subsection 13 (1):
+
 1. The licensee’s past conduct with respect to compliance with requirements under this Act.
+
 2. Any actions taken by the licensee in response to a compliance order.
 
 ### Additional limitations and conditions
@@ -277,7 +385,9 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Continuation of licence pending renewal
 
 (6) Where, before the expiry of the licence, a licensee has applied for renewal of the licence, the licence shall be deemed to continue,
+
 (a) until the renewal is approved; or
+
 (b) if the licensee is served with notice that the Director does not approve the renewal of a licence under this section, until the date specified by the Director in the notice.
 
 ### Relocation
@@ -335,7 +445,9 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Payment for services and compensation for property
 
 (3) Where the Director takes control of an integrated community health services centre, the licensee, former licensee or estate of the licensee, as the case may be,
+
 (a) is not entitled to payment for any service that is provided by the centre while the centre is under the control of the Director; and
+
 (b) is entitled to reasonable compensation from the Crown for the use of property of the licensee, former licensee or estate of the licensee while the centre is under the control of the Director.
 
 ### Order effective immediately
@@ -347,26 +459,47 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Revocation or suspension of licence
 
 13 (1) The Director may revoke or suspend a licence where,
+
 (a) the licensee, any member of the licensee’s staff, an employee of the licensee or any regulated health professional affiliated with the integrated community health services centre is in contravention of any of the following,
+
 (i) the requirements under this Act,
+
 (ii) any other Act or regulation of Ontario, or
+
 (iii) any Act or regulation of Canada;
+
 (b) there is a breach of a limitation or condition of the licence;
+
 (c) any person has made a false or misleading statement in any application made under this Act;
+
 (d) any person has made a false or misleading statement in any report or document, or in any other information, that is requested by the Director or that is otherwise required to be furnished by this Act or the regulations or any other Act or regulation that applies to the integrated community health services centre;
+
 (e) the Director is of the opinion that there is reasonable ground for belief that the integrated community health services centre is not being or will not be operated in accordance with the law and with honesty and integrity;
+
 (f) the Director is of the opinion that there is reasonable ground for belief that the integrated community health services centre is not being or will not be operated competently and in a responsible manner in accordance with this Act or the regulations or any other Act or regulation that applies to the centre;
+
 (g) the Director is of the opinion that there is reasonable ground for belief that the integrated community health services centre is not being operated in compliance with the quality and safety standards, having regard to any factors the Director considers relevant, including, without limitation,
+
 (i) the nature of risks revealed in the course of inspections, and
+
 (ii) the actions taken by the licensee in response to compliance orders;
+
 (h) the licensed services have not been provided at the integrated community health services centre for a period of at least six months;
+
 (i) the licensee has entered into a contract described in section 26 contrary to that section, whether or not the licensee has been convicted of an offence under that section;
+
 (j) the licensee is a corporation that has not complied with the requirements in section 27, whether or not the licensee has been convicted of an offence under that section;
+
 (k) the licensee is a corporation that has failed to notify the Director contrary to section 28;
+
 (l) the licensee, any member of the licensee’s staff, any employee of the licensee or any regulated health professional affiliated with the integrated community health services centre has failed to co-operate with an inspector under section 44;
+
 (m) the Director is of the opinion upon reasonable grounds that the integrated community health services centre is being operated or will be operated in a manner that poses a risk of serious harm to a person’s health and safety;
+
 (n) the licensee has failed to comply with a request for information under section 59, whether or not the licensee has been convicted of an offence under that section;
+
 (o) the licensee has failed to comply with a compliance order, whether or not the licensee has been convicted of an offence under section 63; or
+
 (p) any other ground that may be prescribed applies.
 
 ### When effective
@@ -376,7 +509,9 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Due diligence, mistakes do not prevent action
 
 (3) The authority to take an action under subsection (1) may be exercised with respect to a licensee who has not complied with a requirement under this Act whether or not,
+
 (a) the licensee took all reasonable steps to prevent the non-compliance; or
+
 (b) at the time of the non-compliance, the licensee had an honest and reasonable belief in a set of facts that, if true, would have resulted in there not being any non-compliance.
 
 ### Transition
@@ -398,9 +533,13 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Eliminating service
 
 (4) Despite subsection (1), the Director shall not amend the limitations and conditions of a licence to eliminate a service from the list of services in respect of which an integrated community health services centre is licensed unless,
+
 (a) the Director is of the opinion that there is reasonable ground for belief that the eliminated service is not being provided, or will not be provided, in a responsible manner in accordance with this Act or the regulations, or any other Act or regulation that applies to the centre;
+
 (b) the Director is of the opinion that there is reasonable ground for belief that the eliminated service is being provided, or will be provided, in a manner that is prejudicial to the health, safety or welfare of any person;
+
 (c) the licensed service has not been provided at the integrated community health services centre for a period of at least six months; or
+
 (d) any other prescribed circumstances apply.
 
 ### Amendment takes effect immediately
@@ -454,7 +593,9 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Notice when licence transfer not approved
 
 (9) Subsections (1) to (8) apply with necessary modifications where the Director does not approve the transfer of a licence and, for the purpose,
+
 (a) the Director shall serve the notice under subsection (1) upon both the licensee and the proposed transferee; and
+
 (b) the licensee and the proposed transferee, or either of them, may require the hearing by the Board, but if they each require such a hearing, the Board shall combine the applications into one proceeding.
 
 ### Hearings before the Board
@@ -504,7 +645,9 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Minister’s direction
 
 18 (1) The Minister may direct the Director in writing to,
+
 (a) revoke or refuse to renew a licence; or
+
 (b) amend the limitations and conditions of a licence to eliminate a service from the list of services in respect of which the integrated community health services centre is licensed.
 
 ### Matters to be considered
@@ -524,7 +667,9 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Requirements for all applications
 
 19 (1) Every application under this Part must,
+
 (a) be in a form acceptable to the Director; and
+
 (b) contain any information, which may include personal information, that the Director considers necessary or advisable.
 
 ### Director may request additional information
@@ -566,8 +711,11 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Definition
 
 (3) In this section,
+
 “incident” means any unintended event that occurs when a patient receives services in an integrated community health services centre that,
+
 (a) results in death, or serious disability, injury or harm to the patient, and
+
 (b) does not result primarily from the patient’s underlying medical condition or from a known risk inherent in providing the service.
 
 ### Posting
@@ -585,7 +733,9 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Contracts
 
 26 (1) A licensee shall not enter into a contract that may result in,
+
 (a) a change in the beneficial ownership of the licence without a corresponding transfer of the licence; or
+
 (b) in the case of a licensee that is a corporation, a person acquiring or increasing an interest affecting the control of the corporation while it is a licensee.
 
 ### Exception
@@ -625,8 +775,11 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### No preferences
 
 (5) No person shall,
+
 (a) charge or accept payment for providing an insured person with a preference in obtaining access to an insured service at an integrated community health services centre;
+
 (b) obtain or accept a benefit, direct or indirect, for providing an insured person with a preference in obtaining access to an insured service at an integrated community health services centre; or
+
 (c) offer to do anything referred to in clause (a) or (b).
 
 ### No refusal for choice not to pay
@@ -636,7 +789,9 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Obtaining funding to which not entitled
 
 (7) No person shall obtain, receive or attempt to obtain or receive any of the following that the person is not entitled to obtain or receive under this Act:
+
 1. Payment for or in respect of an integrated community health services centre.
+
 2. Payment for or in respect of a service provided in an integrated community health services centre.
 
 ### Regulation
@@ -674,12 +829,19 @@ Acknowledge the importance of advancing initiatives to optimize health human res
 ### Refusal to pay, pay reduced amount or substitute amount: circumstances
 
 32 (1) Under any of the following circumstances, the Minister may, with respect to a claim for payment for a service provided by a licensee, refuse to pay for the service, pay a reduced amount for the service, pay for the service the Minister considers to have been provided and not the service described in the claim that was submitted or require reimbursement of the amount paid for the service:
+
 1. If the Minister is of the opinion that any or all of the following apply:
+
 i. All or part of the service was not in fact rendered.
+
 ii. The service has not been rendered in accordance with a requirement under this Act.
+
 iii. There is an absence of a record described in section 30.
+
 2. If the Minister is of the opinion that the nature of the service is misrepresented, whether deliberately or inadvertently.
+
 3. If the Minister is of the opinion that all or part of the service was not provided in accordance with the quality and safety standards.
+
 4. In such other circumstances as may be prescribed.
 
 ### Statistical methods
@@ -729,7 +891,9 @@ iii. There is an absence of a record described in section 30.
 ### Hearing by Board
 
 38 (1) The following persons may request a hearing by the Board with respect to the following matters:
+
 1. A licensee may request a hearing to review a decision of the Minister under subsection 32 (3) or (4).
+
 2. A person may request a hearing to review a decision of the Minister under section 33.
 
 ### Notice of request
@@ -739,7 +903,9 @@ iii. There is an absence of a record described in section 30.
 ### Restrictions on hearing requests
 
 (3) For greater certainty,
+
 (a) a licensee may request a hearing only for those matters provided for under subsection 32 (3) or (4) and with respect to them and only those matters may be the subject of a hearing by the Board in accordance with this Act; and
+
 (b) a licensee may not request a hearing with respect to a decision by the Minister to pursue a remedy in contract or otherwise by operation of law.
 
 ### Powers of Board
@@ -797,6 +963,7 @@ iii. There is an absence of a record described in section 30.
 ### Ontario Health Insurance
 
 41 (1) In this section,
+
 “Plan” means the Ontario Health Insurance Plan referred to in section 10 of the Health Insurance Act.
 
 ### Plan to reimburse facility cost
@@ -838,10 +1005,15 @@ iii. There is an absence of a record described in section 30.
 ### Disclosure of information
 
 (11) Despite subsection 38 (1) of the Health Insurance Act, the General Manager may, for the purpose of this section, provide information regarding the nature of the services provided, the date or dates on which the services were provided and for whom, the name and address of the person who provided the services, the amounts paid or payable by the Plan for such services and the persons to whom the fee for the insured service and the facility cost were paid or are payable to,
+
 (a) a member of the Board;
+
 (b) the person who was charged or who paid the facility cost;
+
 (c) the person who charged or accepted payment of the facility cost and counsel for the person;
+
 (d) any person engaged in the administration of this Act or the regulations or any proceedings under this Act; or
+
 (e) any other person with the consent of the person to whom the services were provided in respect of which the facility cost was charged.
 
 ## PART V INSPECTIONS AND COMPLIANCE ORDERS
@@ -875,17 +1047,29 @@ iii. There is an absence of a record described in section 30.
 ### Responsibilities of inspecting bodies
 
 (3) Subject to the regulations, an inspecting body has the following powers and responsibilities with respect to the integrated community health services centres that are provided for in the regulations:
+
 1. Establishing, maintaining and publishing quality and safety standards for integrated community health services centres.
+
 2. Establishing schedules for the regular inspection of integrated community health services centres.
+
 3. Providing for the inspection of integrated community health services centres as the inspecting body considers advisable or as requested by the Director.
+
 4. Appointing inspectors to carry out the responsibilities of inspectors under this Act. In the appointment, the inspecting body may limit the authority of an inspector in such manner as the inspecting body considers necessary or advisable.
+
 5. Submitting reports of inspections and other information, which may include personal information, to the Director and to other prescribed persons or entities.
+
 6. Providing reports at such times, in such form, in such detail and with such supporting material as is required by the Director.
+
 7. Making summaries of inspection reports available to the public.
+
 8. Making compliance orders under clauses 49 (1) (a) and (b).
+
 9. Making compliance orders issued by the inspecting body available to the public.
+
 10. Establishing committees to carry out any functions of the inspecting body, or any function required by the Director.
+
 11. Establishing and collecting fees for any activity that the inspecting body is required or permitted to carry out under this Act, including fees for administrative and overhead costs related to the activity, from licence applicants and licensees.
+
 12. Exercising any power and carrying out any responsibility provided for in the regulations.
 
 ### Certificate of appointment
@@ -915,18 +1099,27 @@ iii. There is an absence of a record described in section 30.
 ### Same
 
 (10) The following persons are not agents of the Crown and shall not hold themselves out as such:
+
 1. Persons who are employed or whose services are retained by an inspecting body.
+
 2. Members, officers and agents of an inspecting body.
+
 3. Members of the board of an inspecting body, including those appointed by the Minister, if any.
 
 ### Inspections
 
 44 (1) An inspector acting within the scope of their appointment may enter any of the following places at any reasonable time to conduct inspections in accordance with the purpose for which the inspector was appointed:
+
 1. A licensed integrated community health services centre, or a place in respect of which an application for or related to a licence has been made.
+
 2. Any business premises of a person or entity that owns or operates one or more integrated community health services centres.
+
 3. Any place that the inspector suspects, on reasonable grounds, is operating as an integrated community health services centre.
+
 4. Any place where a licensee or other person who may be operating an integrated community health services centre maintains records that relate in any way to,
+
 i. the charging and accepting of facility costs, or
+
 ii. the provision of services at an integrated community health services centre.
 
 ### Dwellings
@@ -940,19 +1133,29 @@ ii. the provision of services at an integrated community health services centre.
 ### Powers of inspector
 
 (4) An inspector conducting an inspection may, if the inspector considers it to be relevant to the inspection,
+
 (a) examine records or anything else;
+
 (b) demand the production of a record or any other thing;
+
 (c) upon providing a receipt, remove a record or any other thing for review, examination or copying;
+
 (d) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place;
+
 (e) take photographs or make any other kind of recording but only in a manner that does not intercept any private communication and that is in keeping with reasonable expectations of privacy;
+
 (f) question a person about a matter relevant to the inspection;
+
 (g) call upon experts who may enter the premises and provide assistance to the inspector in carrying out the inspection in any manner that the inspector considers necessary or advisable; and
+
 (h) if the consent of the person who is to receive the services has been obtained, observe the staff of the centre in providing services to members of the public.
 
 ### Written demand
 
 (5) A demand under this section that a record or any other thing be produced must be in writing and must include,
+
 (a) a statement of the nature of the record or thing required; and
+
 (b) a statement of when the records and other things are to be produced.
 
 ### Obligation to produce and assist
@@ -962,7 +1165,9 @@ ii. the provision of services at an integrated community health services centre.
 ### Records and things removed from place
 
 (7) A record or other thing that has been removed for review, examination or copying shall,
+
 (a) be made available to the person from whom it was removed on request and at a time and place that are convenient for the person and for the inspector; and
+
 (b) be returned to the person within a reasonable time.
 
 ### Co-operation
@@ -980,6 +1185,7 @@ ii. the provision of services at an integrated community health services centre.
 ### Record
 
 (11) In this section,
+
 “record” means any document or record of information, in any form, including a record that contains personal information.
 
 ### Copy constitutes evidence
@@ -1025,14 +1231,19 @@ ii. the provision of services at an integrated community health services centre.
 ### Obstruction offence
 
 47 Where an inspector is conducting an inspection under section 44 or executing an order under section 46 or where a provincial offences officer is executing a warrant under section 158 or 158.1 of the Provincial Offences Act with respect to a matter relevant to this Act, no person shall,
+
 (a) hinder, obstruct or interfere with the inspector or officer, or otherwise impede the inspector or officer;
+
 (b) destroy or alter a record or other thing that has been demanded under clause 44 (4) (b) or that is subject of a warrant under section 158 or 158.1 of the Provincial Offences Act; or
+
 (c) fail to do anything required under subsections 44 (6) or (8) or subsection 48 (7).
 
 ### Production order
 
 48 (1) On application without notice by a provincial offences officer, a justice may issue a production order to a person, other than a person under investigation for an offence, requiring the person to,
+
 (a) produce documents or copies of documents, certified by affidavit to be true copies, or produce data; or
+
 (b) prepare a document based on documents or data already in existence and produce it.
 
 ### Contents of order
@@ -1042,8 +1253,11 @@ ii. the provision of services at an integrated community health services centre.
 ### Grounds
 
 (3) A justice may make a production order if satisfied by information given under oath or affirmation that there are reasonable grounds to believe that,
+
 (a) an offence under this Act has been or is being committed;
+
 (b) the document or data will provide evidence respecting the offence or suspected offence; and
+
 (c) the person who is subject to the order has possession or control of the document or data.
 
 ### Conditions
@@ -1067,8 +1281,11 @@ ii. the provision of services at an integrated community health services centre.
 ### Compliance orders
 
 49 (1) The Director may order a licensee to,
+
 (a) do anything, or refrain from doing anything, to achieve compliance with a requirement under this Act;
+
 (b) prepare, submit and implement a plan for achieving compliance with a requirement under this Act; or
+
 (c) ensure that specified licensed services are not provided at the integrated community health services centre until the licensee achieves compliance with a requirement under this Act.
 
 ### Same, inspecting body
@@ -1086,7 +1303,9 @@ ii. the provision of services at an integrated community health services centre.
 ### Due diligence, mistakes do not prevent action
 
 (5) The authority to make a compliance order under this section may be exercised with respect to a licensee who has not complied with a requirement under this Act whether or not,
+
 (a) the licensee took all reasonable steps to prevent the non-compliance; or
+
 (b) at the time of the non-compliance, the licensee had an honest and reasonable belief in a set of facts that, if true, would have resulted in there not being any non-compliance.
 
 ## PART VI MISCELLANEOUS
@@ -1098,16 +1317,23 @@ ii. the provision of services at an integrated community health services centre.
 ### Service of notice
 
 51 (1) Except where otherwise provided, any notice required by or provided for in this Act may be served by,
+
 (a) personal service;
+
 (b) courier;
+
 (c) registered mail;
+
 (d) electronic means; or
+
 (e) any other prescribed method.
 
 ### When effective
 
 (2) Service of a notice is effective,
+
 (a) in the case of a notice under clauses (1) (a) to (d), on the day of delivery; and
+
 (b) in the case of a notice under clause (1) (e), as provided for in the regulations.
 
 ### Service by lettermail
@@ -1125,9 +1351,13 @@ ii. the provision of services at an integrated community health services centre.
 ### Protection of information
 
 53 In a prosecution for an offence under this Act or where documents or materials provided for under section 48 of this Act or sections 158 to 160 of the Provincial Offences Act are filed with a court in relation to an inspection or an investigation into an offence under this Act, the court may, at any time, take precautions to avoid the disclosure by the court or any person of any personal information about an individual, including, where appropriate,
+
 (a) removing the identifying information of any person whose personal information is referred to in any documents or materials;
+
 (b) receiving representations without notice;
+
 (c) conducting hearings or parts of hearings in private; or
+
 (d) sealing all or part of the court files.
 
 ### Certain documents
@@ -1141,8 +1371,11 @@ ii. the provision of services at an integrated community health services centre.
 ### Filing with court
 
 55 (1) A copy of any of the following may be filed with the Superior Court of Justice after the time in which an appeal may be made has passed, and once filed shall be entered in the same way as a judgment or order of the Superior Court of Justice and is enforceable as an order of that court:
+
 1. A decision of the Board made under this Act.
+
 2. An agreement to reimburse the Minister or the Plan signed by a licensee.
+
 3. A decision of the Minister under section 32 or 33.
 
 ### Personal property charge
@@ -1168,12 +1401,19 @@ ii. the provision of services at an integrated community health services centre.
 ### Disclosure
 
 (2) An inspecting body or inspector appointed by an inspecting body may disclose information described in subsection (1),
+
 (a) to the Director, upon request of the Director or for purposes related to this Act, the Health Insurance Act or the Commitment to the Future of Medicare Act, 2004;
+
 (b) to comply with any requirement under this Act to post the information or to make the information public;
+
 (c) where the person to whom the information relates has consented to the disclosure;
+
 (d) where the disclosure of the information is required or permitted by a law of Ontario or Canada;
+
 (e) where disclosure is required in a proceeding before the Board;
+
 (f) where the inspecting body has reasonable grounds to believe that the disclosure is necessary for the purpose of eliminating or reducing a significant risk of serious bodily harm to a person or group of persons; or
+
 (g) in such circumstances as may be prescribed.
 
 ### Personal information
@@ -1199,7 +1439,9 @@ ii. the provision of services at an integrated community health services centre.
 ### Limitation
 
 (6) In the course of performing a function or duty or exercising a power related to the administration of this Act, an inspecting body or inspector appointed by an inspecting body shall not,
+
 (a) collect, use or disclose personal information if other information will serve the purpose of the collection, use or disclosure; and
+
 (b) collect, use or disclose more personal information than is reasonably necessary to meet the purposes of the collection, use or disclosure.
 
 ### Disclosure to health college
@@ -1229,8 +1471,11 @@ ii. the provision of services at an integrated community health services centre.
 ### Rules re providing records and information
 
 (5) Where the Director requires a licensee or other person to provide information under subsection (1), the following rules apply:
+
 1. The licensee or other person shall submit copies of the requested information and, where required by the Director, shall include a signed certificate of authenticity and a signed copy of an audit trail for electronic records.
+
 2. If the Director is not satisfied with the copies of the requested information, the Director may require the licensee or other person to produce the original documents to the Director, and the documents shall be returned to the licensee or other person in a timely manner after copies have been made.
+
 3. Where a licensee or other person fails to produce the copies or originals of information required under this section, the Director may, on notice to the licensee or other person, apply to a justice or a provincial judge for an order compelling production of the required information and the justice or provincial judge may issue the order if they are satisfied that there are reasonable grounds for believing that the licensee or other person failed to produce the information.
 
 ### Certificate of authenticity
@@ -1262,16 +1507,23 @@ ii. the provision of services at an integrated community health services centre.
 ### No compensation
 
 61 No compensation shall be payable by the Crown, the Minister, the Director or any other person engaged in the administration of this Act in respect of any loss suffered as a result of,
+
 (a) the Director refusing to issue or renew a licence, revoking or suspending a licence, imposing limitations and conditions on a licence, amending limitations and conditions on a licence or refusing to approve the transfer of a licence;
+
 (b) the Director approving or refusing to approve the relocation of an integrated community health services centre;
+
 (c) enforcement of the prohibitions under section 4 or 29; or
+
 (d) a compliance order issued under section 49.
 
 ### Transition
 
 62 (1) The following rules apply to any inspection, assessment or related proceeding under the Independent Health Facilities Act that was not finally determined on the day that Act was repealed:
+
 1. The inspection, assessment or proceeding, and any related proceedings, are continued.
+
 2. The inspection, assessment or proceeding, and any related proceedings, shall be dealt with in accordance with the Independent Health Facilities Act, as it read immediately before its repeal.
+
 3. The appointments of any persons under the Independent Health Facilities Act are continued for the purpose of disposing of the inspection, assessment or proceeding and any related proceeding until those issues have been finally determined.
 
 ### Same
@@ -1287,7 +1539,9 @@ ii. the provision of services at an integrated community health services centre.
 ### Same
 
 (2) Every person is guilty of an offence who fails to comply with,
+
 (a) a request for information under section 59; or
+
 (b) a compliance order.
 
 ### Breach of regulations
@@ -1297,7 +1551,9 @@ ii. the provision of services at an integrated community health services centre.
 ### Penalty, individual
 
 (4) Every individual who is convicted of an offence under this section is liable, for each day or part of a day on which the offence occurs or continues,
+
 (a) for a first offence, to a fine of not more than $50,000 or, subject to subsection (6), to imprisonment for a term of not more than 12 months, or to both; and
+
 (b) for a subsequent offence, to a fine of not more than $100,000 or, subject to subsection (6), to imprisonment for a term of not more than 12 months, or to both.
 
 ### Same, corporation
@@ -1337,36 +1593,67 @@ ii. the provision of services at an integrated community health services centre.
 ### Regulations
 
 65 (1) The Lieutenant Governor in Council may make regulations,
+
 1. providing for and governing anything that this Act refers to as being prescribed or provided for in the regulations, or as being required to be done in accordance with the regulations or as being subject to the regulations;
+
 2. defining or clarifying the meaning of any word or expression used in this Act that is not otherwise defined in this Act;
+
 3. providing for exemptions from this Act or any provision of this Act, subject to any conditions that may be set out in the regulation;
+
 4. prescribing charges, fees or payments that are or are not facility costs for the purposes of this Act;
+
 5. prescribing health facilities that are or are not integrated community health services centres for the purposes of this Act;
+
 6. providing for additional powers, functions and duties of the Director;
+
 7. governing the issuance, renewal, transfer, suspension and revocation of licences, including governing refusals to renew licences;
+
 8. establishing and governing rules respecting the permitted locations of integrated community health services centres;
+
 9. prescribing limitations and conditions that attach to licences of integrated community health services centres;
+
 10. governing the relocation of integrated community health services centres under section 10, providing for the terms and conditions of the relocation and respecting the time at which the application must be made;
+
 11. governing any application that may be made or submitted under this Act, including the process for submitting applications;
+
 12. respecting forms and their use;
+
 13. classifying integrated community health services centres;
+
 14. governing the care, treatment and services provided in integrated community health services centres, including governing safety, quality management programs, and prescribing quality and safety standards;
+
 15. governing the requirements for staff and employees of integrated community health services centres;
+
 16. governing the process licensees must have for receiving and responding to patient complaints;
+
 17. governing payments by the Minister under section 29, including prescribing the method of determining the amounts and prescribing conditions for the payment of such amounts;
+
 18. governing claims made for the purposes of payment under section 29, including requiring claims to be made in the prescribed manner and at the prescribed time and prescribing conditions for the making of claims;
+
 19. governing the books, records and accounts to be kept by licensees including their form and content and the place or places where they are to be kept;
+
 20. requiring the accounts of integrated community health services centres to be audited and requiring the licensees to furnish information or accounts required by the Director;
+
 21. governing the records to be kept by licensees with respect to the care and treatment of patients of the integrated community health services centre;
+
 22. governing reports and returns to be made to the Director by licensees;
+
 23. requiring and governing a system or systems to be used by licensees to monitor the results of the services provided in integrated community health services centres;
+
 24. governing access to patient or drug records and specifying persons who may have access to such records;
+
 25. prescribing inspecting bodies and governing the exercise of their responsibilities under this Act;
+
 26. governing inspections, including the actions to be taken by an inspector or inspecting body;
+
 27. requiring licensees or applicants for a licence to pay fees established by an inspecting body for any activity the inspecting body is required or permitted to carry out under this Act, including fees for administrative and overhead costs related to the activity;
+
 28. governing compliance orders, including factors that must be considered before issuing a compliance order and actions to be taken in connection with the issuance of a compliance order;
+
 29. governing and restricting the disposition and transfer of the assets of integrated community health services centres;
+
 30. governing transitional or similar matters that may arise due to the enactment of Schedule 1 to the Your Health Act, 2023;
+
 31. generally for carrying out what the Lieutenant Governor in Council considers to be the purposes, provisions and intent of this Act.
 
 ### Nil amount
@@ -1392,4 +1679,5 @@ ii. the provision of services at an integrated community health services centre.
 ### Part XI (OMITTED)
 
 88 Omitted (provides for coming into force of provisions of this Act).
+
 89 Omitted (enacts short title of this Act).

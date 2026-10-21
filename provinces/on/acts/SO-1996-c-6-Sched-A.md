@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96m06"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # MPPs Pension Act, 1996
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96m06) before relying on it.
 
 S.O. 1996, c. 6, Sched. A
 
@@ -23,23 +23,41 @@ S.O. 1996, c. 6, Sched. A
 ### Definitions
 
 1 (1) In this Act,
+
 “average Consumer Price Index” means the average Consumer Price Index as defined in subsection 8500 (1) of the Income Tax Regulations (Canada); (“moyenne de l’indice des prix à la consommation”)
+
 “Consumer Price Index” means the Consumer Price Index as defined in subsection 8500 (1) of the Income Tax Regulations (Canada); (“indice des prix à la consommation”)
+
 “dependent child” means, in relation to an individual, a child of the individual who,
+
 (a) is less than 18 years of age, or
+
 (b) is 18 or more years of age and since reaching 18 years of age has been continuously in full-time attendance at either or both of,
+
 (i) a secondary school, or
+
 (ii) for the five years following secondary school, a post-secondary educational institution recognized by the Board of Internal Economy of the Assembly; (“enfant à charge”)
+
 “plan” means the pension plan continued under subsection 2 (1) and includes the registered plan and the supplementary plan; (“régime”)
+
 “pre-reform plan” means the Legislative Assembly Retirement Allowances Act, as it read on December 31, 1991, including the amendments deemed to be made to it by subsections 50 (3) and (4) of this Act; (“régime antérieur à la réforme”)
+
 “registered plan” means the pension plan set out in Parts III, IV and V of the Act; (“régime enregistré”)
+
 “registered plan account” means the registered plan account established under subsection 23 (1); (“compte de régime enregistré”)
+
 “spouse” means either of two persons who,
+
 (a) are married to each other,
+
 (b) have together entered into a marriage that is voidable or void, in good faith on the part of the person asserting a right under the plan,
+
 (c) have lived together in a conjugal relationship outside marriage continuously for a period of not less than three years, or
+
 (d) have lived together in a conjugal relationship outside marriage in a relationship of some permanence, if they are the parents of a child as set out in section 4 of the Children’s Law Reform Act; (“conjoint”)
+
 “supplementary plan” means the pension plan set out in Parts VI, VII and VIII of the Act; (“régime supplémentaire”)
+
 “supplementary plan account” means the supplementary plan account established under subsection 39 (1). (“compte de régime supplémentaire”)
 
 ### Remuneration
@@ -65,8 +83,11 @@ S.O. 1996, c. 6, Sched. A
 ### Calculation of service
 
 (6) In any calculation under the Act involving service of less than one year,
+
 (a) the calculation shall be made on a monthly basis;
+
 (b) any part of a month less than 15 days shall be disregarded; and
+
 (c) any part of a month not less than 15 days shall be deemed to be a month.
 
 ### Calculation involving age
@@ -140,7 +161,9 @@ S.O. 1996, c. 6, Sched. A
 ### Same, Information and Privacy Commissioner and Ombudsman
 
 (5) If the Information and Privacy Commissioner or the Ombudsman, as the case may be, notifies the Speaker within four months after this Act receives Royal Assent that he or she intends to purchase credit in the Public Service Pension Plan for the service to which the refund relates, his or her refund (together with interest) shall be paid,
+
 (a) to the Public Service Pension Plan, to the extent necessary to satisfy his or her contributions under the Plan for the service; and
+
 (b) to the Commissioner or the Ombudsman, as the case may be, to the extent that there is any money remaining after payment is made under clause (a).
 
 ### Entitlement to allowance
@@ -150,7 +173,9 @@ S.O. 1996, c. 6, Sched. A
 ### Same
 
 (2) The allowance under subsection (1) begins on the first day of the month coincident with or next following the later of,
+
 (a) the day on which the individual ceases to be a member of the plan; and
+
 (b) the day on which the sum of the individual’s age plus his or her years of service as a member of the Assembly equals 55.
 
 ### Allowance at age 69
@@ -160,30 +185,51 @@ S.O. 1996, c. 6, Sched. A
 ### Amount of allowance
 
 10 (1) The amount of an individual’s allowance under section 9 for the calendar year in which the allowance begins is calculated using the formula,
+
 (A × B)×(1 – 0.0025 × C) + D
+
 in which,
+
 “A” equals the lesser of,
+
 (a) 2 per cent of the individual’s average annual remuneration, and
+
 (b) the defined benefit limit for the year in which the allowance begins;
+
 “B” equals the amount of his or her service as a member of the Assembly after 1991 and before June 8, 1995;
+
 “C” equals the number of months in the period from the day on which the allowance begins to the day that is the earliest of,
+
 (a) the day on which the individual reaches 60 years of age,
+
 (b) the day on which the individual would have completed 30 years of service as a member of the Assembly, had the individual remained a member of the Assembly, and
+
 (c) the day on which the sum of the individual’s age and his or her years of service as a member of the Assembly would have equalled 80, if the individual had remained a member of the Assembly, and
+
 “D” equals,
+
 (a) in the case of an individual who was a member of the Assembly on or before January 1, 1992, the annual allowance that would have been payable to him or her under the pre-reform plan for the year, determined in respect of his or her service as a member of the Assembly before 1992 and without increase or indexation as provided in that plan, had the pre-reform plan applied in respect of the individual, and
+
 (b) in any other case, nil.
 
 ### Same
 
 (2) The amount of an individual’s allowance for a calendar year subsequent to that in which the allowance begins is calculated using the formula,
+
 E × (F/G) + H
+
 in which,
+
 “E” equals the amount calculated under subsection (1) for the individual, assuming that the value of D in that calculation is nil;
+
 “F” equals the average Consumer Price Index for the calendar year;
+
 “G” equals the average Consumer Price Index for the calendar year in which the allowance began; and
+
 “H” equals,
+
 (a) in the case of an individual who was a member of the Assembly on or before January 1, 1992, the annual allowance that would have been payable to him or her under the pre-reform plan for the year, determined in respect of his or her service as a member of the Assembly before 1992, had the pre-reform plan applied in respect of the individual, and
+
 (b) in any other case, nil.
 
 ### Average annual remuneration
@@ -197,19 +243,25 @@ in which,
 ### Monthly indexed remuneration
 
 (5) Indexed remuneration of an individual for a month is the remuneration for the month multiplied by the ratio of A to B where,
+
 “A” equals the average wage for the later of 1986 and the calendar year in which the allowance begins to be paid to the individual; and
+
 “B” equals the average wage for the later of 1986 and the calendar year in which the remuneration is paid.
 
 ### Definitions
 
 (6) For the purposes of this section,
+
 “average wage” means average wage as defined in subsection 147.1 (1) of the Income Tax Act (Canada); (“salaire moyen”)
+
 “defined benefit limit” means defined benefit limit as defined in subsection 8500 (1) of the Income Tax Regulations (Canada). (“plafond des prestations déterminées”)
 
 ### Overall limit
 
 10.1 (1) Despite any other provision of this Part, the aggregate annual allowance payable under this Part to a member of the registered plan shall not exceed,
+
 (a) for the calendar year in which the allowance begins, 5 per cent of the member’s average annual remuneration multiplied by the member’s years of service as a member of the Assembly before June 8, 1995, up to a maximum amount equal to 75 per cent of the member’s average annual remuneration; and
+
 (b) for any subsequent calendar year, the amount referred to in clause (a) increased in the manner described in subsection 30 (6).
 
 ### Average annual remuneration
@@ -223,7 +275,9 @@ in which,
 ### Same
 
 (2) The amount of the allowance under subsection (1) is the sum of,
+
 (a) two-thirds of the allowance that the former member would have received as calculated under section 10 assuming that the value of D and H in subsections 10 (1) and (2) is zero; and
+
 (b) 60 per cent, plus 10 per cent for each dependent child of the former member at the date of death to a maximum of three children, of the allowance that the former member would have received as calculated under section 10 assuming that the value of all the variables in subsections 10 (1) and (2) other than D and H is zero.
 
 ### Children’s allowance
@@ -241,13 +295,17 @@ in which,
 ### Amount of spousal allowance
 
 (2) The amount of the allowance under subsection (1) for the calendar year in which the member dies is the sum of,
+
 (a) two-thirds of the allowance that the member had earned to the date of death, determined in accordance with subsection 10 (1) assuming that the value of C and D in that subsection is zero; and
+
 (b) 60 per cent, plus 10 per cent for each dependent child of the member at the date of death to a maximum of three children, of the allowance that the member had earned to the date of death, determined in accordance with subsection 10 (1) assuming that the value of A, B and C in that subsection is zero.
 
 ### Same
 
 (3) The amount of the allowance under subsection (1) for a calendar year subsequent to the year of death is the sum of,
+
 (a) two-thirds of the allowance that the member had earned to the date of death, determined in accordance with subsection 10 (2) assuming that the value of H in that subsection is zero; and
+
 (b) 60 per cent, plus 10 per cent for each dependent child of the member at the date of death to a maximum of three children, of the allowance that the member had earned to the date of death, determined in accordance with subsection 10 (2) assuming that the value of E, F and G in that subsection is zero.
 
 ### Children’s allowance
@@ -273,7 +331,9 @@ in which,
 ### Amount of spousal allowance
 
 (3) The amount of the allowance under subsection (1) is the sum of,
+
 (a) two-thirds of the allowance that the former member would have received as calculated under section 10 assuming that the value of D and H in subsections 10 (1) and (2) is zero; and
+
 (b) 60 per cent, plus 10 per cent for each dependent child of the former member at the date of death to a maximum of three children, of the allowance that the former member would have received as calculated under section 10 assuming that the value of all the variables in subsections 10 (1) and (2) other than D and H is zero.
 
 ### Reduced allowance
@@ -303,9 +363,13 @@ in which,
 ### Same
 
 (2) For the purposes of subsection (1),
+
 “A” equals the amount of the former member’s or the member’s contributions together with interest at an annual rate of 6 per cent up to the earlier of,
+
 (a) the date, if any, on which he or she began to be paid the allowance, and
+
 (b) the date of death; and
+
 “B” equals the total amount, if any, of the allowance paid to him or her up to the date of death.
 
 ### Reinstatement of service
@@ -341,8 +405,11 @@ in which,
 ### Part III benefits
 
 (3) For the purposes of subsection (2), the benefits described in Part III are calculated in accordance with that Part with the following modifications:
+
 1. An individual shall be deemed to be entitled to the benefits described in Part III even if the individual was not a member of the Assembly for at least five years before June 8, 1995.
+
 2. The benefits are based on the individual’s average annual remuneration determined as of June 7, 1995 in accordance with section 10.
+
 3. It is assumed that the individual ceased to be a member of the Assembly on the conversion date chosen by the Minister of Finance.
 
 ### Commuted value
@@ -388,12 +455,15 @@ in which,
 ### Same
 
 (3) The Minister shall make the payment within 90 days after the Speaker receives notice of the individual’s election.
+
 (4) Repealed: 1999, c. 15, s. 20 (1).
 
 ### Same
 
 (5) The locked-in retirement account must not permit any payment to be made to the individual before the later of,
+
 (a) the date on which he or she ceases to be a member of the plan; and
+
 (b) the date on which he or she reaches 55 years of age.
 
 ### Effect of payment
@@ -403,13 +473,17 @@ in which,
 ### Amendment, locked-in retirement account
 
 (7) An individual described in subsection (1) who has entered into a contract to establish a locked-in retirement account is entitled to require that the contract be amended, despite any other term of the contract,
+
 (a) if the person who is the individual’s spouse when the amendment is required to be made consents in writing to the amendment; and
+
 (b) if the contract, as it would be amended, complies with subsection (5) and meets the requirements established under the Income Tax Act (Canada) for a registered retirement savings plan or a registered retirement income fund, as those expressions are defined in that Act.
 
 ### Same, life income fund
 
 (8) An individual described in subsection (1) who, by the exercise of rights under a contract entered into to establish a locked-in retirement account, has entered into a contract to establish a life income fund is entitled to require that the life income fund contract be amended, despite any other term of the contract,
+
 (a) if the person who is the individual’s spouse when the amendment is required to be made consents in writing to the amendment; and
+
 (b) if the life income fund contract, as it would be amended, complies with subsection (5) and meets the requirements established under the Income Tax Act (Canada) for a registered retirement savings plan or a registered retirement income fund, as those expressions are defined in that Act.
 
 ### Amendment required
@@ -423,7 +497,9 @@ in which,
 ### Definitions
 
 (11) In subsections (7) to (10),
+
 “life income fund” means a life income fund that was established before the Pension Benefits Statute Law Amendment Act, 1999 received Royal Assent and that, when the fund was established, was described in Schedule 1 to Regulation 909 (“General”) made under the Pension Benefits Act as the Schedule then read; (“fonds de revenu viager”)
+
 “locked-in retirement account” means a locked-in retirement account that was established before the Pension Benefits Statute Law Amendment Act, 1999 received Royal Assent and that, when the account was established, was intended to comply with this section as it then read. (“compte de retraite avec immobilisation des fonds”)
 
 ## PART V REGISTERED PLAN PAYMENTS
@@ -499,11 +575,17 @@ in which,
 ### Form of pension
 
 (3) The pension must meet the following requirements:
+
 1. It must be in a form acceptable for pensions that are payable from money purchase pension plans registered under the Income Tax Act (Canada).
+
 2. If the member has a spouse when he or she ceases to be a member of the plan, it must be payable in a joint and survivor form. The member must be permitted to waive the joint and survivor payments with the consent of his or her spouse.
+
 3. If the member has a spouse when he or she ceases to be a member of the plan and the pension is to be paid in a joint and survivor form, the spouse must be entitled to receive 60 per cent of the amount payable under the pension to the member.
+
 4. Payment of the pension must begin,
+
 i. no earlier than the later of the date on which the individual ceased to be a member of the plan and the date on which he or she reaches 55 years of age, and
+
 ii. no later than the last day of the calendar year in which the individual reaches 69 years of age.
 
 ### Preference re pension
@@ -513,8 +595,11 @@ ii. no later than the last day of the calendar year in which the individual reac
 ### Same
 
 (5) If the individual does not notify the Speaker of his or her wishes as to the form of the pension within the 60-day period, he or she shall be paid a pension in that meets the requirements set out in subsection (3) and that,
+
 (a) does not have a guarantee period;
+
 (b) is not indexed; and
+
 (c) meets such other conditions as the Speaker may decide.
 
 ### Portability rights
@@ -566,25 +651,37 @@ ii. no later than the last day of the calendar year in which the individual reac
 ### Same
 
 (2) The allowance begins on the first day of the month coincident with or next following the later of,
+
 (a) the day on which the individual ceases to be a member of the plan; and
+
 (b) the day on which the sum of the individual’s age plus his or her years of service as a member of the Assembly equals 55.
 
 ### Amount of allowance
 
 (3) The amount of the allowance for the calendar year in which it begins is calculated using the formula,
+
 A – B
+
 in which,
+
 “A” equals 5 per cent of the individual’s average annual remuneration multiplied by the individual’s years of service as a member of the Assembly before June 8, 1995 up to a maximum of 15 years; and
+
 “B” equals the amount payable under the registered plan for that year as determined under subsection 10 (1).
 
 ### Same
 
 (4) Subject to subsection (6), the amount of the allowance for a calendar year subsequent to that in which the allowance begins is calculated using the formula,
+
 A × (C/D) – E
+
 in which,
+
 “A” equals 5 per cent of the individual’s average annual remuneration multiplied by the individual’s years of service as a member of the Assembly before June 8, 1995 up to a maximum of 15 years;
+
 “C” equals the average Consumer Price Index for the later of 1995 and the calendar year;
+
 “D” equals the average Consumer Price Index for the later of 1995 and the calendar year in which the allowance began;
+
 “E” equals the amount payable under the registered plan for that year as determined under subsection 10 (2).
 
 ### Average annual remuneration
@@ -602,7 +699,9 @@ in which,
 ### Same
 
 (2) The amount of the allowance under subsection (1) is the amount, if any, by which A exceeds B where,
+
 “A” equals the amount of the allowance that would have been paid to the spouse under subsection 19 (1) of the pre-reform plan if that subsection had applied in respect of the former member on the date of death; and
+
 “B” equals the amount of the allowance payable to the spouse under subsection 11 (1).
 
 ### Children’s allowance
@@ -620,7 +719,9 @@ in which,
 ### Amount of spousal allowance
 
 (2) The allowance under subsection (1) is the amount, if any, by which A exceeds B where,
+
 “A” equals the amount of the allowance that would have been paid to the spouse under clause 19 (3) (a) of the pre-reform plan, if that clause had applied in respect of the member on the date of death; and
+
 “B” equals the amount of the allowance payable to the spouse under subsection 12 (1).
 
 ### Children’s allowance
@@ -646,10 +747,15 @@ in which,
 ### Amount of spousal allowance
 
 (3) The amount of the allowance under subsection (1) is calculated using the formula,
+
 A + B – C
+
 in which,
+
 “A” equals 60 per cent of the allowance to which the former member would have been entitled under the pre-reform plan on the day the allowance under subsection (1) begins, had the pre-reform plan applied in respect of the former member;
+
 “B” equals in respect of each dependent child of the former member at the date of death, to a maximum of three children, 10 per cent of the allowance referred to in the definition of the variable A; and
+
 “C” equals the amount of the allowance payable to the spouse under subsection 13 (1).
 
 ### Reduced allowance
@@ -677,8 +783,11 @@ in which,
 ### Part VI benefits
 
 (3) For the purposes of subsection (2), the benefits described in Part VI are calculated in accordance with that Part with the following modifications:
+
 1. An individual shall be deemed to be entitled to the benefits described in Part VI even if the individual was not a member of the Assembly for at least five years before June 8, 1995.
+
 2. The benefits are based on the individual’s average annual remuneration determined as of June 7, 1995 in accordance with subsection 30 (5).
+
 3. It is assumed that the individual ceased to be a member of the Assembly on the conversion date chosen by the Minister of Finance.
 
 ### Commuted value
@@ -824,7 +933,9 @@ in which,
 ### Extension of deadlines
 
 46 (1) The Speaker may extend any deadline established under the Act and may do so before or after the deadline has passed if, in the Speaker’s opinion,
+
 (a) there are special circumstances justifying the extension; and
+
 (b) the extension will not result in additional costs to the plan.
 
 ### Limitation
@@ -896,7 +1007,9 @@ in which,
 ### Same
 
 (2) On January 1 every year, beginning with 1997, the amount of the allowance otherwise payable to a person under the Act is increased by the lesser of,
+
 (a) 2 per cent; and
+
 (b) the increase in the average Consumer Price Index for the year.
 
 ### Annual inflation rate over 2 per cent
@@ -906,6 +1019,7 @@ in which,
 ### Definition
 
 (4) For the purposes of this section,
+
 “average Consumer Price Index” means the average Consumer Price Index as defined in subsection 8500 (1) of the Income Tax Regulations (Canada).
 
 ### Discretionary increase
@@ -953,14 +1067,19 @@ in which,
 ### Interpretation
 
 52 (1) In this Part and Schedule 1,
+
 “MPP supplemental pension plan” means a supplemental pension plan established by order under section 54; (“régime de retraite complémentaire des députés”)
+
 “Public Service Pension Plan” means the pension plan continued under the Public Service Pension Act. (“Régime de retraite des fonctionnaires”)
 
 ### Same
 
 (2) For the purposes of this Part, Schedule 1, the Public Service Pension Plan and any applicable supplemental pension plan established under the Public Service Pension Act,
+
 (a) the employer of a member of the Assembly is the Assembly;
+
 (b) the period of service of a member of the Assembly shall be determined in accordance with subsection 61 (2) of the Legislative Assembly Act; and
+
 (c) the salary of a member of the Assembly is the amount paid to them under the Legislative Assembly Act, other than an amount paid to reimburse them for expenses actually incurred, and the salary, if any, paid to them under the Executive Council Act.
 
 ### MPP participation in Public Service Pension Plan
@@ -970,7 +1089,9 @@ in which,
 ### Vesting of benefits for members of the 44th Parliament
 
 (2) For an individual who is a member of the Assembly during the 44th Parliament, benefits under the Public Service Pension Plan in respect of service as a member of the Assembly shall vest, despite the Pension Benefits Act,
+
 (a) on the day the 44th Parliament is dissolved, if the individual is still a member of the Assembly on that day; or
+
 (b) on the day the individual dies, if the individual dies before the 44th Parliament is dissolved and, on the day the individual dies, the individual is still a member of the Assembly.
 
 ### Supplemental pension plan
@@ -1008,15 +1129,21 @@ in which,
 ### Allowances
 
 57 (1) The Lieutenant Governor in Council may, by order, provide for an allowance to be paid to a member of the Assembly who,
+
 (a) is not eligible to be a member of the Public Service Pension Plan; or
+
 (b) is not eligible to be a member of an MPP supplemental pension plan.
 
 ### Same
 
 (2) The Lieutenant Governor in Council may, by order, provide for an allowance to be paid to an individual who is not a member of the Assembly but who,
+
 (a) was a member of the Assembly on or after January 1, 2026; and
+
 (b) while a member of the Assembly on or after January 1, 2026,
+
 (i) was not eligible to be a member of the Public Service Pension Plan, or
+
 (ii) was not eligible to be a member of an MPP supplemental pension plan.
 
 ### Consolidated Revenue Fund
@@ -1042,9 +1169,13 @@ in which,
 ### Options
 
 (2) The individual may choose one or more of the following options for using the balance:
+
 1. The individual may receive a pension purchased using all or part of the balance under section 27.
+
 2. The individual may require all or part of the balance to be transferred to a locked-in retirement account or a life income fund under section 28.
+
 3. The individual may require all or part of the balance to be transferred to another pension plan registered under the Income Tax Act (Canada), provided the administrator of that pension plan agrees to the transfer, in which case section 28 applies to the transfer, with necessary modifications.
+
 4. The individual may require all or part of the balance to be transferred to the Public Service Pension Fund continued under the Public Service Pension Act for the purpose of purchasing credit for prior service as a member of the Assembly in the Public Service Pension Plan in accordance with the terms of that Plan.
 
 ### Deemed option if no choice made
@@ -1072,9 +1203,13 @@ in which,
 ### Vesting of benefits
 
 1 Benefits shall vest,
+
 (a) for an individual who is a member of the Assembly during the 44th Parliament,
+
 (i) on the day the 44th Parliament is dissolved, if the individual is still a member of the Assembly on that day and, on that day, the individual has at least six years of service as a member of the Assembly, or
+
 (ii) on the day the individual dies, if the individual dies before the 44th Parliament is dissolved and, on the day the individual dies, the individual is still a member of the Assembly and has at least six years of service as a member of the Assembly; and
+
 (b) for an individual who is a member of the Assembly during a Parliament after the 44th Parliament but for whom subclause (a) (i) does not apply, on the day the individual has at least six years of service in the MPP supplemental pension plan.
 
 ### Eligibility for pension
@@ -1092,9 +1227,13 @@ in which,
 ### Reduction at age 65
 
 5 The annual amount of an individual’s pension shall be reduced, when the individual reaches the age of 65 years or if the individual is already 65 years old or older when they begin to receive the pension, by the product of,
+
 (a) 0.7 per cent of the lesser of,
+
 (i) the individual’s average annual salary, and
+
 (ii) the individual’s average year’s maximum pensionable earnings; and
+
 (b) the individual’s years of service in the MPP supplemental pension plan, to a maximum of 35 years of service.
 
 ### Reduction if begin to receive pension before age 65
@@ -1120,5 +1259,7 @@ in which,
 ### Definitions
 
 11 In this Schedule,
+
 “average annual salary” means the highest average salary referred to in section 3 of this Schedule; (“traitement annuel moyen”)
+
 “average year’s maximum pensionable earnings”, with respect to a member, means the average of the year’s maximum pensionable earnings under the Canada Pension Plan for the year in which the member ceases to be a member of the MPP supplemental pension plan and for each of the two preceding years. (“moyenne des maximums des gains annuels ouvrant droit à pension”)

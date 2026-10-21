@@ -6,23 +6,28 @@ language: en
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17m25"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Medical Radiation and Imaging Technology Act, 2017
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17m25) before relying on it.
 
 S.O. 2017, c. 25, Sched. 6
 
 ### Definitions
 
 1 In this Act,
+
 “College” means the College of Medical Radiation and Imaging Technologists of Ontario; (“Ordre”)
+
 “Health Professions Procedural Code” means the Health Professions Procedural Code set out in Schedule 2 to the Regulated Health Professions Act, 1991; (“Code des professions de la santé”)
+
 “member” means a member of the College; (“membre”)
+
 “profession” means the profession of medical radiation and imaging technology; (“profession”)
+
 “this Act” includes the Health Professions Procedural Code. (“la présente loi”)
 
 ### Health Professions Procedural Code
@@ -32,9 +37,13 @@ S.O. 2017, c. 25, Sched. 6
 ### Terms in Code
 
 (2) In the Health Professions Procedural Code as it applies in respect of this Act,
+
 “College” means the College of Medical Radiation and Imaging Technologists of Ontario; (“Ordre”)
+
 “health profession Act” means this Act; (“loi sur une profession de la santé”)
+
 “profession” means the profession of medical radiation and imaging technology; (“profession”)
+
 “regulations” means the regulations under this Act. (“règlements”)
 
 ### Definitions in Code
@@ -48,14 +57,23 @@ S.O. 2017, c. 25, Sched. 6
 ### Authorized acts
 
 4 In the course of engaging in the practice of medical radiation and imaging technology, a member is authorized, subject to the terms, conditions and limitations imposed on their certificate of registration, to perform the following:
+
 1. Administering substances by injection or inhalation.
+
 2. Tracheal suctioning of a tracheostomy.
+
 3. Administering contrast media, or putting an instrument, hand or finger,
+
 i. beyond the opening of the urethra,
+
 ii. beyond the labia majora,
+
 iii. beyond the anal verge, or
+
 iv. into an artificial opening of the body.
+
 4. Performing a procedure on tissue below the dermis.
+
 5. Applying a prescribed form of energy.
 
 ### Additional requirements for authorized acts
@@ -77,11 +95,17 @@ iv. into an artificial opening of the body.
 ### Council
 
 7 (1) The Council shall be composed of,
+
 (a) at least six and no more than nine persons who are members elected in accordance with the by-laws;
+
 (b) at least five and no more than eight persons appointed by the Lieutenant Governor in Council who are not,
+
 (i) members,
+
 (ii) members of a College as defined in the Regulated Health Professions Act, 1991, or
+
 (iii) members of a Council as defined in the Regulated Health Professions Act, 1991; and
+
 (c) one or two persons selected, in accordance with a by-law made under section 13, from among members who are faculty members of an educational institution in Ontario that is authorized to grant diplomas or degrees in a specialty of the profession.
 
 ### Who can vote in elections
@@ -103,7 +127,9 @@ iv. into an artificial opening of the body.
 ### Definition
 
 (3) In this section,
+
 “abbreviation” includes an abbreviation of a variation.
+
 10 Repealed: 2021, c. 25, Sched. 25, s. 18.
 
 ### Offence
@@ -113,7 +139,9 @@ iv. into an artificial opening of the body.
 ### Minister regulations
 
 12 Subject to the approval of the Lieutenant Governor in Council, the Minister may make regulations,
+
 (a) prescribing forms of energy, other than ionizing radiation, electromagnetism and soundwaves, for the purposes of section 3;
+
 (b) exempting a person from subsection 9 (1) or (2) and setting conditions on such an exemption.
 
 ### By-laws
@@ -135,6 +163,9 @@ iv. into an artificial opening of the body.
 ### Power of Council
 
 (4) The Council of the College of Medical Radiation Technologists of Ontario has the power to make by-laws and regulations under this Act to come into force on or after section 15 comes into force.
+
 15-17 Omitted (amends, repeals or revokes other legislation).
+
 18 Omitted (provides for coming into force of provisions of this Act).
+
 19 Omitted (enacts short title of this Act).

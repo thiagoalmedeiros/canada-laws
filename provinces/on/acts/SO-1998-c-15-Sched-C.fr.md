@@ -6,22 +6,26 @@ language: fr
 type: act
 document_date: "2021-06-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98t15"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # société appelée Toronto District Heating Corporation (Loi de 1998 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98t15) before relying on it.
 
 L.O. 1998, chap. 15, annexe C
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «hôpitaux» S’entend des hôpitaux suivants : Mount Sinai Hospital, Sunnybrook and Women’s College Health Sciences Centre, The Hospital for Sick Children et The Toronto Hospital. («Hospitals»)
+
 «règlements» Les règlements pris en application de la présente loi. («regulations»)
+
 «société» La société maintenue aux termes du paragraphe 2 (1). («Corporation»)
+
 «vapeur» Vapeur ou eau chaude. («steam») 1998, chap. 15, annexe C, art. 1.
 
 ### Maintien de la société
@@ -35,31 +39,49 @@ L.O. 1998, chap. 15, annexe C
 ### Statuts constitutifs
 
 3 Les dispositions suivantes sont réputées les statuts constitutifs de la société et elles peuvent être modifiées ou mises à jour conformément à la Loi sur les sociétés par actions :
+
 1. La dénomination sociale de la société est Toronto District Heating Corporation.
+
 2. L’adresse du siège social de la société est C.P. 310, Royal Trust Tower, bureau 4018, Toronto-Dominion Centre, Toronto (Ontario) M5K 1K2.
+
 3. La société compte de un à 10 administrateurs.
+
 4. La société est autorisée à émettre un nombre illimité d’actions ordinaires. Les droits, privilèges, restrictions et conditions attachés à ces actions sont les suivants :
+
 i. Paiements de dividendes : Les détenteurs des actions ordinaires ont le droit de recevoir les dividendes que déclare le conseil d’administration de la société sur les éléments d’actif de la société qui peuvent être régulièrement affectés au paiement de dividendes, selon les montants et de la manière qu’il précise. Sous réserve des droits des détenteurs d’autres catégories d’actions de la société qui ont le droit de recevoir des dividendes par préférence aux détenteurs des actions ordinaires ou selon le même rang de priorité qu’eux, le conseil d’administration peut, à son entière discrétion, déclarer des dividendes sur les actions ordinaires à l’exclusion des autres catégories d’actions de la société.
+
 ii. Participation en cas de liquidation ou de dissolution : En cas de liquidation ou de dissolution de la société ou d’autre répartition de l’actif de la société entre ses actionnaires aux fins de liquidation de ses affaires, les détenteurs des actions ordinaires ont le droit de participer à la répartition sous réserve des droits des détenteurs d’autres catégories d’actions de la société qui ont le droit de recevoir une part de l’actif de la société lors d’une telle répartition par préférence aux détenteurs des actions ordinaires ou selon le même rang de priorité qu’eux. La répartition se fait à parts égales par action sur toutes les actions ordinaires en circulation au moment de la répartition, sans préférence ni distinction.
+
 iii. Droits de vote : Les détenteurs des actions ordinaires ont le droit de recevoir les avis de convocation aux assemblées annuelles et extraordinaires des actionnaires de la société et d’assister à ces assemblées. Chaque actionnaire dispose d’une voix aux assemblées pour chaque action ordinaire qu’il détient alors.
+
 5. Aucune action du capital-actions de la société ne peut être émise ou transférée sans le consentement des deux tiers des administrateurs exprimé lors d’un vote tenu à une réunion des administrateurs ou au moyen d’un instrument écrit portant leur signature.
+
 6. Le nombre d’actionnaires de la société, à l’exclusion de ses employés et de ses anciens employés qui étaient actionnaires de la société lorsqu’ils étaient à son emploi et le sont demeurés après, est limité à au plus 50, deux ou plusieurs personnes qui sont propriétaires conjoints inscrits d’une ou de plusieurs actions étant considérées comme un seul actionnaire.
+
 7. Tout appel au public pour la souscription des valeurs mobilières de la société est interdit.
 
 ### Actionnaires
 
 4 (1) Des actions ordinaires de la société sont réputées avoir été émises en faveur des personnes suivantes le jour de l’entrée en vigueur du présent article :
+
 1. Sa Majesté du chef de l’Ontario.
+
 2. La cité de Toronto.
+
 3. Le conseil d’administration de l’université de Toronto.
+
 4. Les hôpitaux.
 
 ### Nombre d’actions ordinaires
 
 (2) Le nombre d’actions ordinaires de la société qui sont réputées avoir été émises aux termes du paragraphe (1) est le suivant :
+
 1. À Sa Majesté du chef de l’Ontario, 2 000 actions ordinaires.
+
 2. À la cité de Toronto, 4 000 actions ordinaires.
+
 3. Au conseil d’administration de l’université de Toronto, 2 000 actions ordinaires.
+
 4. À chacun des hôpitaux, le nombre d’actions ordinaires que prescrivent les règlements, de façon à ce qu’un total de 2 000 actions ordinaires soient réputées avoir été émises en faveur des hôpitaux.
 
 ### Administrateurs
@@ -141,14 +163,21 @@ iii. Droits de vote : Les détenteurs des actions ordinaires ont le droit de rec
 ### Règlements
 
 13 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) fixer, pour l’application du paragraphe 4 (2), le nombre d’actions ordinaires de la société qui sont réputées, aux termes du paragraphe 4 (1), avoir été émises en faveur de chacun des hôpitaux;
+
 b) limiter les activités commerciales que peut exercer la société;
+
 c) prévoir les questions transitoires que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables en ce qui concerne la mise en application de la présente loi;
+
 d) traiter des questions que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables pour réaliser efficacement les objets de la présente loi.
 
 ### Règlements pris en application de l’al. (1) b)
 
 (2) Les règlements pris en application de l’alinéa (1) b) ne doivent pas restreindre la capacité de la société d’exercer les activités commerciales liées à la production, au transport, à la distribution ou à la vente de vapeur, d’eau réfrigérée ou d’électricité ou de toute chose accessoire.
+
 14 Omis (modifie ou abroge d’autres lois).
+
 15 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 16 Omis (édicte le titre abrégé de la présente loi).

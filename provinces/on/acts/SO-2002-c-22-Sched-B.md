@@ -6,23 +6,28 @@ language: en
 type: act
 document_date: "2007-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02t22"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Tax Incentive Zones Act (Pilot Projects), 2002
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02t22) before relying on it.
 
 S.O. 2002, c. 22, Sched. B
 
 ### Definitions
 
 1 In this Act,
+
 “designated law” means a statutory provision that is specified in a regulation made under clause 13 (1) (a); (“loi désignée”)
+
 “Minister” means the Minister of Finance; (“ministre”)
+
 “tax incentive agreement” means an agreement described in section 8; (“accord d’allégement fiscal”)
+
 “tax incentive zone” means a geographic area designated as a tax incentive zone under section 2; (“zone d’allégement fiscal”)
+
 “zone administrator” means a person designated as a zone administrator under section 10. (“administrateur de zone”)
 
 ### Establishment of tax incentive zones
@@ -110,8 +115,11 @@ S.O. 2002, c. 22, Sched. B
 ### Zone administrators
 
 10 The Minister may, by regulation,
+
 (a) establish, or authorize the establishment of, an entity for the purposes of designating the entity as a zone administrator and provide for the composition, powers and duties of the entity;
+
 (b) designate a person or entity to act as a zone administrator for a tax incentive zone;
+
 (c) assign powers and duties to a zone administrator and specify the manner in which the powers are to be exercised and the duties performed.
 
 ### Inspections
@@ -129,7 +137,9 @@ S.O. 2002, c. 22, Sched. B
 ### Regulations
 
 13 (1) The Minister may, by regulation,
+
 (a) specify provisions of statutes that are designated laws for the purposes of section 3 or subsection 6 (1), (2) or (3);
+
 (b) prescribe criteria that a person must satisfy in order to be an eligible person.
 
 ### Scope
@@ -163,10 +173,17 @@ S.O. 2002, c. 22, Sched. B
 ### Same
 
 (2) The following provisions do not apply with respect to a cancellation of taxes, fees or charges by the Minister under this Act:
+
 1. Employer Health Tax Act, subsection 2 (4).
+
 2. Fuel Tax Act, section 1.1.
+
 3. Gasoline Tax Act, section 1.1.
+
 4. Land Transfer Tax Act, section 1.1.
+
 5. Retail Sales Tax Act, section 1.1.
+
 16 Omitted (provides for coming into force of provisions of this Act).
+
 17 Omitted (enacts short title of this Act).

@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/22d07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Digital Platform Workers' Rights Act, 2022
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/22d07) before relying on it.
 
 S.O. 2022, c. 7, Sched. 1
 
@@ -21,26 +21,47 @@ S.O. 2022, c. 7, Sched. 1
 ### Definitions
 
 1 (1) In this Act,
+
 “Board” means the Ontario Labour Relations Board; (“Commission”)
+
 “collector” means a person, other than a compliance officer, who is authorized by the Director to collect an amount owing under this Act; (“agent de recouvrement”)
+
 “digital platform” means, subject to the regulations, an online platform that allows workers to choose to accept or decline digital platform work; (“plateforme numérique”)
+
 “digital platform work” means, subject to the regulations, the provision of for payment ride share, delivery, courier or other prescribed services by workers who are offered work assignments by an operator through the use of a digital platform; (“travail sur plateforme numérique”)
+
 “Director” means the Director of Digital Platform Work; (“directeur”)
+
 “labour relations officer” means a labour relations officer appointed under the Labour Relations Act, 1995; (“agent des relations de travail”)
+
 “Minister” means the member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre”)
+
 “Ministry” means the ministry of the Minister; (“ministère”)
+
 “operator” means, subject to the regulations, a person that facilitates, through the use of a digital platform, the performance of digital platform work by workers, but does not include a temporary help agency within the meaning of the Employment Standards Act, 2000; (“exploitant”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “tip or other gratuity” means,
+
 (a) a payment voluntarily made to or left for a worker by a person in such circumstances that a reasonable person would be likely to infer that the person intended or assumed that the payment would be kept by the worker,
+
 (b) a payment voluntarily made to an operator by a person in such circumstances that a reasonable person would be likely to infer that the person intended or assumed that the payment would be redistributed to a worker,
+
 (c) a payment of a service charge or similar charge imposed by an operator on a person in such circumstances that a reasonable person would be likely to infer that the person intended or assumed that the payment would be redistributed to a worker,
+
 (d) such other payments as may be prescribed,
+
 but does not include,
+
 (e) such payments as may be prescribed, and
+
 (f) such charges as may be prescribed relating to the method of payment used, or a prescribed portion of those charges; (“pourboire ou autre gratification”)
+
 “worker” means, subject to the regulations, an individual who performs digital platform work and includes a person who was a worker; (“travailleur”)
+
 “worker right” means a requirement or prohibition under this Act that applies to an operator for the benefit of a worker. (“droit du travailleur”)
 
 ### Amount owing
@@ -54,7 +75,9 @@ but does not include,
 ### Application
 
 3 (1) Subject to subsection (2), the worker rights set out in this Act apply with respect to a worker if,
+
 (a) the worker’s work assignment is to be performed in Ontario; or
+
 (b) the worker’s work assignment is to be performed in Ontario and outside Ontario but the work performed outside Ontario is a continuation of the work performed in Ontario.
 
 ### Exception, federal jurisdiction
@@ -98,11 +121,17 @@ but does not include,
 ### Right to information
 
 7 (1) Within 24 hours after an individual is given access to an operator’s digital platform for the purpose of accepting or declining to perform digital platform work, the operator shall provide the following information in writing to the individual:
+
 1. A description of how pay for digital platform work is calculated.
+
 2. Whether tips or other gratuities are collected by the operator and, if so, when and how they are collected.
+
 3. The recurring pay period and recurring pay day established by the operator under section 8.
+
 4. Any factors used to determine whether work assignments are offered to workers and a description of how those factors are applied.
+
 5. Whether the digital platform uses a performance rating system and whether there are consequences based on a worker’s performance rating or a worker’s failure to perform a work assignment and a description of those consequences.
+
 6. Such other information as may be prescribed.
 
 ### Same, notice of change
@@ -116,23 +145,33 @@ but does not include,
 ### Same, new work assignment
 
 (4) An operator shall provide the following information in writing to a worker when offering a work assignment to the worker:
+
 1. The estimated amount the worker will be paid for the work and a description of how that amount was calculated.
+
 2. Any factors used in determining to offer the work assignment to the worker.
+
 3. Whether there will be consequences based on the worker’s performance rating for the work assignment or the worker’s failure to perform the work assignment and, if applicable, a description of those consequences.
+
 4. Such other information as may be prescribed.
 
 ### Same, completed work assignment
 
 (5) An operator shall provide the following information in writing to a worker within 24 hours of completion of a work assignment by the worker:
+
 1. The actual amount the worker will be paid for the work, a description of how that amount was calculated and when the amount will be paid.
+
 2. The amount of any tips or other gratuities collected by the operator in respect of the work assignment, the amount of tip or other gratuity that will be paid to the worker and when the amount will be paid.
+
 3. Such other information as may be prescribed.
 
 ### Same, performance ratings
 
 (6) An operator shall provide information to a worker about performance ratings, as follows:
+
 1. If a worker receives five or more performance ratings for work assignments on a calendar day, the operator shall provide to the worker the average performance rating for that day.
+
 2. If a worker receives fewer than five performance ratings for work assignments on a given calendar day but a total of five or more such ratings over two or more days including that day, the operator shall provide to the worker the average of all the performance ratings received on those days.
+
 3. The operator shall provide, if applicable, the aggregate details of the rating referred to in paragraph 1 or 2, whether there are any consequences based on the rating and a description of those consequences.
 
 ### Same, provision of performance ratings
@@ -150,7 +189,9 @@ but does not include,
 ### Same, prescribed limits
 
 (2) For the purposes of subsection (1),
+
 (a) a recurring pay period shall not exceed the prescribed number of days, if any; and
+
 (b) a recurring pay day shall be no later than the prescribed number of days, if any, after the end of the pay period.
 
 ### Right to minimum wage
@@ -160,8 +201,11 @@ but does not include,
 ### Same, determination
 
 (2) Unless the regulations provide otherwise, for the purposes of determining compliance with subsection (1), the following rules apply:
+
 1. Minimum wage shall be paid for each work assignment performed by a worker.
+
 2. Tips and other gratuities paid in respect of a work assignment shall not be included in determining compliance with subsection (1).
+
 3. Repealed: 2024, c. 3, Sched. 1, s. 2 (3).
 
 ### Right to amounts earned and tips and other gratuities
@@ -179,7 +223,9 @@ but does not include,
 ### Right to notice of removal
 
 11 (1) No operator shall remove a worker’s access to the operator’s digital platform unless the operator,
+
 (a) has provided the worker with a written explanation of why the access to the digital platform was removed; and
+
 (b) if access is removed for a period of 24 hours or longer, has given the worker two weeks’ written notice of the removal.
 
 ### Exception
@@ -193,13 +239,21 @@ but does not include,
 ### Rights re reprisal
 
 13 (1) No operator, and no person acting on the operator’s behalf, shall intimidate or penalize or attempt or threaten to intimidate or penalize a worker,
+
 (a) because the worker,
+
 (i) asks any person to comply with this Act,
+
 (ii) makes inquiries about his or her rights under this Act,
+
 (iii) files a complaint with the Ministry under this Act,
+
 (iv) exercises or attempts to exercise a right under this Act,
+
 (v) gives information to a compliance officer, or
+
 (vi) testifies or is required to testify or otherwise participates or is going to participate in a proceeding under this Act; or
+
 (b) because the operator is or may be required, because of a court order or garnishment, to pay to a third party an amount owing by the operator to the worker.
 
 ### Onus of proof
@@ -215,11 +269,17 @@ but does not include,
 ### Records
 
 14 (1) An operator shall record the following information with respect to each worker who accesses the operator’s digital platform for the purpose of accepting or declining to perform digital platform work:
+
 1. The worker’s name and address.
+
 2. Any dates on which the worker was given access to the operator’s digital platform for the purpose of performing work.
+
 3. Any dates on which the worker’s access to the operator’s digital platform was removed or reinstated.
+
 4. The dates on which the worker performed work assignments and the times that each work assignment started and finished.
+
 5. Any amounts paid to the worker in respect of a work assignment, the dates the amounts were paid and a description of the payments, including any tips or other gratuities or other amounts included in the payment.
+
 6. Such other information as may be prescribed.
 
 ### Retention of records
@@ -235,6 +295,7 @@ but does not include,
 ### Definition
 
 15 (1) In this section,
+
 “director” means a director of a corporation and includes a shareholder who is a party to a unanimous shareholder agreement.
 
 ### Application
@@ -252,16 +313,23 @@ but does not include,
 ### Same
 
 (5) This section does not apply with respect to directors of corporations,
+
 (a) that have been incorporated in another jurisdiction;
+
 (b) that have objects that are similar to the objects of corporations to which the Not-for-Profit Corporations Act, 2010 applies or to which the Co-operative Corporations Act applies; and
+
 (c) that are carried on without the purpose of gain.
 
 ### Directors’ liability for amounts owing
 
 (6) The directors of an operator are jointly and severally liable for amounts owing to workers as provided in this section if,
+
 (a) the operator is insolvent, the worker has caused a claim for an amount owing to the worker to be filed with the receiver appointed by a court with respect to the operator or with the operator’s trustee in bankruptcy and the claim has not been paid;
+
 (b) a compliance officer has made an order that the operator is liable for an amount owing to a worker, unless the amount set out in the order has been paid or the operator has applied to have it reviewed;
+
 (c) a compliance officer has made an order that a director is liable for an amount owing to the worker, unless the amount set out in the order has been paid or the operator or the director has applied to have it reviewed; or
+
 (d) the Board has issued, amended or affirmed an order under section 45, the order, as issued, amended or affirmed, requires the operator or the directors to pay an amount and the amount set out in the order has not been paid.
 
 ### Operator primarily responsible
@@ -291,7 +359,9 @@ but does not include,
 ### Indemnification of directors
 
 (13) An operator may indemnify a director, a former director and the heirs or legal representatives of a director or former director against all costs, charges and expenses, including an amount paid to satisfy an order under this Act reasonably incurred by the director with respect to any civil or administrative action or proceeding to which the director is a party by reason of being or having been a director of the operator if,
+
 (a) the director has acted honestly and in good faith with a view to the best interests of the operator; and
+
 (b) in the case of a proceeding or action that is enforced by a monetary penalty, the director had reasonable grounds for believing that the director’s conduct was lawful.
 
 ### Civil remedies protected
@@ -315,7 +385,9 @@ but does not include,
 ### Acting Director
 
 (2) The Director’s powers may be exercised and the Director’s duties may be performed by an employee of the Ministry appointed as Acting Director if,
+
 (a) the Director is absent or unable to act; or
+
 (b) an individual who was appointed Director has ceased to be the Director and no new Director has been appointed.
 
 ### Same
@@ -341,7 +413,9 @@ but does not include,
 ### Same
 
 (2) If the Director terminates the assignment of a compliance officer to the investigation of a complaint,
+
 (a) the officer whose assignment is terminated shall no longer have any powers or duties with respect to the investigation of the complaint or the discovery during the investigation of any similar potential entitlement of another worker related to the complaint; and
+
 (b) the new compliance officer assigned to the investigation may rely on evidence collected by the first officer and any findings of fact made by that officer.
 
 ### Inspections
@@ -401,10 +475,15 @@ but does not include,
 ### Powers of officer
 
 (6) A compliance officer conducting an investigation or inspection may,
+
 (a) examine a record or other thing that the officer thinks may be relevant to the investigation or inspection;
+
 (b) require the production of a record or other thing that the officer thinks may be relevant to the investigation or inspection;
+
 (c) remove for review and copying a record or other thing that the officer thinks may be relevant to the investigation or inspection;
+
 (d) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place; and
+
 (e) question any person on matters the officer thinks may be relevant to the investigation or inspection.
 
 ### Written demand
@@ -434,24 +513,35 @@ but does not include,
 ### Notice
 
 (13) A notice given under subsection (11) shall specify,
+
 (a) the period to be covered by the examination;
+
 (b) the provision or provisions of this Act or the regulations to be covered by the examination; and
+
 (c) the date by which the operator must provide a report of the results of the examination to the compliance officer.
 
 ### Same
 
 (14) A notice given under subsection (11) may specify,
+
 (a) the method to be used in carrying out the examination;
+
 (b) the format of the report; and
+
 (c) such information to be included in the operator’s report as the compliance officer considers appropriate.
 
 ### Same
 
 (15) Without restricting the generality of clause (14) (c), a notice given under subsection (11) may require the operator to include in the report to the compliance officer,
+
 (a) an assessment of whether the operator has complied with this Act or the regulations;
+
 (b) if, pursuant to clause (a), the operator has included an assessment that the operator has not complied with this Act or the regulations,
+
 (i) an assessment of whether one or more workers are owed payments, and
+
 (ii) a description of the measures that the operator has taken or will take to ensure that this Act or the regulations will be complied with; and
+
 (c) if, pursuant to subclause (b) (i), the operator has included an assessment that one or more workers are owed payments, the name and address of every worker who is owed payments, the amount of payments owed to each worker and an explanation of how the amount owed to each worker was determined.
 
 ### Obstruction
@@ -461,7 +551,9 @@ but does not include,
 ### Same
 
 (17) No person shall,
+
 (a) refuse to answer questions on matters that a compliance officer thinks may be relevant to an investigation or inspection; or
+
 (b) provide a compliance officer with information on matters the officer thinks may be relevant to an investigation or inspection that the person knows to be false or misleading.
 
 ### Separate inquiries
@@ -471,8 +563,11 @@ but does not include,
 ### Warrant
 
 23 (1) A justice of the peace may issue a warrant authorizing a compliance officer named in the warrant to enter premises specified in the warrant and to exercise any of the powers mentioned in subsection 22 (6), if the justice of the peace is satisfied on information under oath that,
+
 (a) the officer has been prevented from exercising a right of entry to the premises under subsection 22 (1) or has been prevented from exercising a power under subsection 22 (6);
+
 (b) there are reasonable grounds to believe that the officer will be prevented from exercising a right of entry to the premises under subsection 22 (1) or will be prevented from exercising a power under subsection 22 (6); or
+
 (c) there are reasonable grounds to believe that an offence under this Act or the regulations has been or is being committed and that information or other evidence will be obtained through the exercise of a power mentioned in subsection 22 (6).
 
 ### Expiry of warrant
@@ -502,7 +597,9 @@ but does not include,
 ### Posting of notices
 
 24 A compliance officer may require an operator to post and to keep posted in the manner required by the officer,
+
 (a) any notice relating to the administration or enforcement of this Act or the regulations that the officer considers appropriate; or
+
 (b) a copy of a report or part of a report made by the officer concerning the results of an investigation or inspection.
 
 ### Complaints and Enforcement
@@ -534,8 +631,11 @@ but does not include,
 ### When collective agreement applies
 
 28 (1) If an operator is or has been bound by a collective agreement that applies or applied in respect of the performance of digital platform work, this Act is enforceable against the operator as if it were part of the collective agreement with respect to an alleged contravention of this Act that occurs,
+
 (a) when the collective agreement is or was in force;
+
 (b) when its operation is or was continued under subsection 58 (2) of the Labour Relations Act, 1995; or
+
 (c) during the period that the parties to the collective agreement are or were prohibited by subsection 86 (1) of the Labour Relations Act, 1995 from unilaterally changing the terms and conditions of employment.
 
 ### Complaint not permitted
@@ -569,9 +669,13 @@ but does not include,
 ### Conditions respecting orders under this section
 
 (3) The following conditions apply with respect to an arbitrator’s order under this section:
+
 1. In an order requiring payment or compensation, the arbitrator may require that the amount of the payment or compensation be paid,
+
 i. to the trade union that represents the worker or workers concerned, or
+
 ii. directly to the worker or workers.
+
 2. The order is not subject to review under section 43.
 
 ### Copy of decision to Director
@@ -593,7 +697,9 @@ ii. directly to the worker or workers.
 ### Content of notice
 
 (4) The notice to the Board shall,
+
 (a) state that an issue has arisen in an arbitration proceeding with respect to whether the operator and another person are to be treated as one operator under section 4; and
+
 (b) set out the decisions made by the arbitrator on the other matters in dispute.
 
 ### Decision by Board
@@ -615,15 +721,21 @@ ii. directly to the worker or workers.
 ### Meeting may be required
 
 31 (1) A compliance officer may, after giving at least 15 days written notice, require any of the persons referred to in subsection (2) to attend a meeting with the officer in the following circumstances:
+
 1. The officer is investigating a complaint against an operator.
+
 2. The officer, while inspecting a place under section 22 or 23, comes to have reasonable grounds to believe that an operator has contravened this Act or the regulations with respect to a worker.
+
 3. The officer acquires information that suggests to the officer the possibility that an operator may have contravened this Act or the regulations with respect to a worker.
 
 ### Attendees
 
 (2) Any of the following persons may be required to attend the meeting:
+
 1. The worker.
+
 2. The operator.
+
 3. If the operator is a corporation, a director or an employee of the corporation.
 
 ### Notice
@@ -657,12 +769,19 @@ ii. directly to the worker or workers.
 ### Determination if person fails to attend, etc.
 
 (10) If a person served with a notice under this section fails to attend the meeting or fails to bring or make available any records or other documents as required by the notice, the officer may determine whether an operator has contravened or is contravening this Act on the basis of the following factors:
+
 1. If the operator failed to comply with the notice,
+
 i. any evidence or submissions provided by or on behalf of the operator before the meeting, and
+
 ii. any evidence or submissions provided by or on behalf of the worker before or during the meeting.
+
 2. If the worker failed to comply with the notice,
+
 i. any evidence or submissions provided by or on behalf of the worker before the meeting, and
+
 ii. any evidence or submissions provided by or on behalf of the operator before or during the meeting.
+
 3. Any other factors that the officer considers relevant.
 
 ### Operator includes representative
@@ -672,8 +791,11 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Time for response
 
 32 (1) A compliance officer may, in any of the following circumstances and after giving notice, require a worker or an operator to provide evidence or submissions to the officer within the time that the officer specifies in the notice:
+
 1. The officer is investigating a complaint against an operator.
+
 2. The officer, while inspecting a place under section 22 or 23, comes to have reasonable grounds to believe that an operator has contravened this Act or the regulations with respect to a worker.
+
 3. The officer acquires information that suggests to the officer the possibility that an operator may have contravened this Act or the regulations with respect to a worker.
 
 ### Service of notice
@@ -683,15 +805,21 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Determination if person fails to respond
 
 (3) If a person served with a notice under this section fails to provide evidence or submissions as required by the notice, the officer may determine whether the operator has contravened or is contravening this Act on the basis of the following factors:
+
 1. Any evidence or submissions provided by or on behalf of the operator or the worker before the notice was served.
+
 2. Any evidence or submissions provided by or on behalf of the operator or the worker in response to and within the time specified in the notice.
+
 3. Any other factors that the officer considers relevant.
 
 ### Order to pay
 
 33 (1) If a compliance officer finds that an operator owes an amount to a worker, the officer may,
+
 (a) arrange with the operator that the operator pay the amount owing directly to the worker;
+
 (b) order the operator to pay the amount owing to the worker; or
+
 (c) order the operator to pay the amount owing to the Director in trust.
 
 ### Administrative costs
@@ -733,9 +861,13 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Terms of order
 
 (2) If an order made under this section requires a person to compensate a worker, it shall also require the person to,
+
 (a) pay to the Director in trust,
+
 (i) the amount of the compensation, and
+
 (ii) an amount for administration costs equal to the greater of $100 and 10 per cent of the amount of compensation; or
+
 (b) pay the amount of the compensation to the worker.
 
 ### Application of s. 33 (3) to (8)
@@ -781,8 +913,11 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Further order, s. 15
 
 37 (1) A compliance officer may make an order to pay an amount owing to a worker for which directors are liable under section 15 against some or all of the directors of an operator who were not the subject of an order under section 36, and may serve it on them in accordance with section 64,
+
 (a) after a compliance officer has made an order against the operator under section 33 that requires an amount owing to a worker be paid and the amount has not been paid and the operator has not applied to have the order reviewed;
+
 (b) after a compliance officer has made an order against directors under subsection 36 (1) or (3) and the amount has not been paid and the operator or the directors have not applied to have it reviewed;
+
 (c) after the Board has issued, amended or affirmed an order under section 45 if the order, as issued, amended or affirmed, requires the operator or the directors to pay an amount owing to a worker and the amount set out in the order has not been paid.
 
 ### Payment to Director
@@ -804,8 +939,11 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Compliance order
 
 39 (1) If a compliance officer finds that a person has contravened a provision of this Act or the regulations, the officer may,
+
 (a) order that the person cease contravening the provision;
+
 (b) order what action the person shall take or refrain from taking in order to comply with the provision; and
+
 (c) specify a date by which the person must do so.
 
 ### Payment may not be required
@@ -851,9 +989,13 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Settlement
 
 42 (1) Subject to subsection (8), if a worker and an operator who have agreed to a settlement respecting a contravention or alleged contravention of this Act or the regulations inform a compliance officer in writing of the terms of the settlement and do what they agreed to do under it,
+
 (a) the settlement is binding on the parties;
+
 (b) any complaint filed by the worker respecting the contravention or alleged contravention is deemed to have been withdrawn;
+
 (c) any order made in respect of the contravention or alleged contravention is void; and
+
 (d) any proceeding, other than a prosecution, respecting the contravention or alleged contravention is terminated.
 
 ### Compliance orders
@@ -875,7 +1017,9 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Administrative costs
 
 (6) If the settlement concerns an order to pay, the Director is, despite clause (1) (c), entitled to be paid,
+
 (a) that proportion of the administrative costs that were ordered to be paid that is the same as the proportion of the amount of payment or compensation ordered to be paid that the worker is entitled to receive under the settlement; and
+
 (b) that proportion of the collector’s fees and disbursements that were added to the amount of the order under subsection 50 (10) that is the same as the proportion of the amount of payment or compensation ordered to be paid that the worker is entitled to receive under the settlement.
 
 ### Restriction on settlement
@@ -885,16 +1029,23 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Application to void settlement
 
 (8) If, upon application to the Board, the worker demonstrates that the worker entered into the settlement as a result of fraud or coercion,
+
 (a) the settlement is void;
+
 (b) the complaint is deemed never to have been withdrawn;
+
 (c) any order made in respect of the contravention or alleged contravention is reinstated; and
+
 (d) any proceedings respecting the contravention or alleged contravention that were terminated shall be resumed.
 
 ### Review
 
 43 (1) A person against whom an order has been issued under section 33, 34, 36, 37 or 39 is entitled to a review of the order by the Board if, within the period set out in subsection (4), the person,
+
 (a) applies to the Board in writing for a review;
+
 (b) in the case of an order under section 33, pays the amount owing under the order to the Director in trust or provides the Director with an irrevocable letter of credit acceptable to the Director in that amount; and
+
 (c) in the case of an order under section 34, pays the lesser of the amount owing under the order and $10,000 to the Director in trust or provides the Director with an irrevocable letter of credit acceptable to the Director in that amount.
 
 ### Worker seeks review of order
@@ -912,7 +1063,9 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Extension of time
 
 (5) The Board may extend the time for applying for a review under this section if it considers it appropriate in the circumstances to do so and, in the case of an application under subsection (1),
+
 (a) the Board has inquired of the Director whether the Director has paid to the worker the payment or compensation that was the subject of the order and is satisfied that the Director has not done so; and
+
 (b) the Board has inquired of the Director whether a collector’s fees or disbursements have been added to the amount of the order under subsection 50 (10) and, if so, the Board is satisfied that fees and disbursements were paid by the person against whom the order was issued.
 
 ### Hearing
@@ -922,12 +1075,19 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Parties
 
 (7) The following are the parties to the review:
+
 1. The applicant for the review of an order.
+
 2. If the person against whom an order was issued applies for the review, the worker with respect to whom the order was issued.
+
 3. If the worker applies for the review of an order, the person against whom the order was issued.
+
 4. If the worker applies for a review of a refusal to issue an order under section 33, 34 or 39, the person against whom such an order could be issued.
+
 5. If a director of a corporation applies for the review, the applicant and each director, other than the applicant, on whom the order was served.
+
 6. The Director.
+
 7. Any other persons specified by the Board.
 
 ### Parties given full opportunity
@@ -941,13 +1101,17 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Rules of practice
 
 (10) The chair of the Board may make rules,
+
 (a) governing the Board’s practice and procedure and the exercise of its powers; and
+
 (b) providing for forms and their use.
 
 ### Expedited decisions
 
 (11) The chair of the Board may make rules to expedite decisions about the Board’s jurisdiction, and those rules,
+
 (a) may provide that the Board is not required to hold a hearing; and
+
 (b) despite subsection (8), may limit the extent to which the Board is required to give full opportunity to the parties to present their evidence and to make their submissions.
 
 ### Conflict with Statutory Powers Procedure Act
@@ -997,7 +1161,9 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Dealing with order
 
 (7) Without restricting the generality of subsection (6),
+
 (a) on a review of an order, the Board may amend, rescind or affirm the order or issue a new order; and
+
 (b) on a review of a refusal to issue an order, the Board may issue an order or affirm the refusal.
 
 ### Labour relations officer
@@ -1011,7 +1177,9 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Payment or compensation owing
 
 (10) Subsection (11) applies if, during a review of an order requiring the payment of an amount owing or compensation or a review of a refusal to issue such an order,
+
 (a) the Board finds that a specified amount of payment or compensation is owing; or
+
 (b) there is no dispute that a specified amount of payment or compensation is owing.
 
 ### Interim order
@@ -1033,7 +1201,9 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Certain matters not bar to settlement
 
 (2) A settlement may be effected under this section even if,
+
 (a) the compliance officer who issued the order or refused to issue the order does not participate in the settlement discussions or is not advised of the discussions or settlement; or
+
 (b) the review under section 43 has started.
 
 ### Compliance orders
@@ -1043,23 +1213,33 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Effect of settlement
 
 (4) If the parties to a settlement under this section do what they agreed to do under the settlement,
+
 (a) the settlement is binding on the parties;
+
 (b) if the review concerns an order, the order is void; and
+
 (c) the review is terminated.
 
 ### Application to void settlement
 
 (5) If, upon application to the Board, the worker demonstrates that the worker entered into the settlement as a result of fraud or coercion,
+
 (a) the settlement is void;
+
 (b) if the review concerned an order, the order is reinstated; and
+
 (c) the review shall be resumed.
 
 ### Distribution
 
 (6) If the order that was the subject of the application required the payment of money to the Director in trust, the Director,
+
 (a) shall distribute the amount held in trust with respect to payment or compensation in accordance with the settlement; and
+
 (b) despite clause (4) (b), is entitled to be paid,
+
 (i) that proportion of the administrative costs that were ordered to be paid that is the same as the proportion of the amount of payment or compensation ordered to be paid that the worker is entitled to receive under the settlement, and
+
 (ii) that proportion of the collector’s fees and disbursements that were added to the amount of the order under subsection 50 (10) that is the same as the proportion of the amount of payment or compensation ordered to be paid that the worker is entitled to receive under the settlement.
 
 ### Notice of contravention
@@ -1085,7 +1265,9 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Deemed contravention
 
 (6) The person shall be deemed to have contravened the provision set out in the notice if,
+
 (a) the person fails to apply to the Board for a review of the notice within the period set out in subsection 48 (1); or
+
 (b) the person applies to the Board for a review of the notice and the Board finds that the person contravened the provision set out in the notice.
 
 ### Penalty
@@ -1123,7 +1305,9 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Review of notice of contravention
 
 48 (1) A person against whom a notice of contravention has been issued under section 47 may dispute the notice if the person makes a written application to the Board for a review,
+
 (a) within 30 days after the date of service of the notice; or
+
 (b) if the Board considers it appropriate in the circumstances to extend the time for applying, within the period specified by the Board.
 
 ### Hearing
@@ -1141,14 +1325,19 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Decision
 
 (5) The Board may,
+
 (a) find that the person did not contravene the provision and rescind the notice;
+
 (b) find that the person did contravene the provision and affirm the notice; or
+
 (c) find that the person did contravene the provision but amend the notice by reducing the penalty.
 
 ### Collector’s fees and disbursements
 
 (6) If the Board finds that the person contravened the provision and if it extended the time for applying for a review under clause (1) (b),
+
 (a) before issuing its decision, it shall inquire of the Director whether a collector’s fees and disbursements have been added to the amount set out in the notice under subsection 50 (10); and
+
 (b) if they have been added to that amount, the Board shall advise the person of that fact and of the total amount, including the collector’s fees and disbursements, when it issues its decision.
 
 ### Parties given full opportunity
@@ -1162,7 +1351,9 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Rules
 
 (9) The chair of the Board may make rules with respect to a review under this section,
+
 (a) governing the Board’s practice and procedure and the exercise of its powers; and
+
 (b) providing for forms and their use.
 
 ### Conflict with Statutory Powers Procedure Act
@@ -1260,10 +1451,15 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### General offence
 
 52 A person who contravenes this Act or the regulations or fails to comply with an order, direction or other requirement under this Act or the regulations is guilty of an offence and on conviction is liable,
+
 (a) if the person is an individual, to a fine of not more than $50,000 or to imprisonment for a term of not more than 12 months or to both;
+
 (b) subject to clause (c), if the person is a corporation, to a fine of not more than $100,000; and
+
 (c) if the person is a corporation that has previously been convicted of an offence under this Act,
+
 (i) if the person has one previous conviction, to a fine of not more than $250,000, and
+
 (ii) if the person has more than one previous conviction, to a fine of not more than $500,000.
 
 ### Additional orders
@@ -1273,14 +1469,19 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Same
 
 (2) Without restricting the generality of subsection (1), the order made by the court may require one or more of the following:
+
 1. A person be paid any amount that is owing to the person.
+
 2. A person’s access to the operator’s digital platform be reinstated.
+
 3. A person be compensated for any loss incurred by the person as a result of the contravention.
 
 ### Offence re order for reinstatement
 
 54 A person who fails to comply with an order issued under section 53 is guilty of an offence and on conviction is liable,
+
 (a) if the person is an individual, to a fine of not more than $2,000 for each day during which the failure to comply continues or to imprisonment for a term of not more than six months or to both; and
+
 (b) if the person is a corporation, to a fine of not more than $4,000 for each day during which the failure to comply continues.
 
 ### Additional orders re other contraventions
@@ -1298,7 +1499,9 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Offence re directors’ liability
 
 56 (1) A director of a corporation is guilty of an offence if the director,
+
 (a) fails to comply with an order of a compliance officer under section 36 or 37 and has not applied for a review of that order; or
+
 (b) fails to comply with an order issued under section 36 or 37 that has been amended or affirmed by the Board on a review of the order under section 43 or with a new order issued by the Board on such a review.
 
 ### Penalty
@@ -1370,9 +1573,13 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Same, collector
 
 (4) In a prosecution or other proceeding under this Act, a certificate shown by a collector that appears to be signed by the Director setting out any of the following facts is evidence of the fact without further proof:
+
 1. The Director has authorized the collector to collect amounts owing under this Act.
+
 2. The Director has authorized the collector to collect a reasonable fee or reasonable disbursements or both.
+
 3. The Director has, or has not, imposed conditions on an authorization described in paragraph 2 and has, or has not, determined what constitutes a reasonable fee or reasonable disbursements.
+
 4. Any conditions imposed by the Director on an authorization described in paragraph 2.
 
 ### Same, date of complaint
@@ -1384,8 +1591,11 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Limitation period
 
 62 (1) A compliance officer shall not issue an order to pay an amount owing or compensation or a notice of contravention with respect to a contravention of this Act concerning a worker,
+
 (a) if the worker filed a complaint about the contravention, more than two years after the complaint was filed;
+
 (b) if the worker did not file a complaint but another worker with the same operator did file a complaint, more than two years after the other worker filed the complaint if the officer discovered the contravention with respect to the worker while investigating the complaint; or
+
 (c) if the worker did not file a complaint and clause (b) does not apply, more than two years after a compliance officer commenced an inspection with respect to the operator for the purpose of determining whether a contravention occurred.
 
 ### Restriction on rescission or amendment
@@ -1399,8 +1609,11 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Persons from Board not compellable
 
 63 (1) Except with the consent of the Board, none of the following persons may be compelled to give evidence in a civil proceeding or in a proceeding before the Board or another board or tribunal with respect to information obtained while exercising their powers or performing their duties under this Act:
+
 1. A Board member.
+
 2. The registrar of the Board.
+
 3. An employee of the Board.
 
 ### Non-disclosure
@@ -1418,21 +1631,37 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Regulations
 
 66 (1) The Lieutenant Governor in Council may make regulations for carrying out the purposes of this Act and, without restricting the generality of the foregoing, may make regulations,
+
 (a) prescribing anything referred to in this Act as prescribed, and respecting any matter that this Act describes as being provided for in the regulations or that is to be done in accordance with the regulations;
+
 (b) defining any word or expression used in this Act that is not defined in it;
+
 (c) clarifying the definitions of “digital platform”, “digital platform work”, “operator” and “worker” for the purposes of this Act;
+
 (d) prescribing what constitutes a work assignment;
+
 (d.1) prescribing a number of days for the purposes of clause 8 (2) (a) or 8 (2) (b);
+
 (d.2) prescribing rules for the purpose of determining compliance with subsection 9 (1), including providing that minimum wage may be paid other than on a per work assignment basis;
+
 (e) providing that this Act, any provision of this Act or a regulation does not apply to a worker or operator, or to a class of workers or operators, or in specified circumstances;
+
 (f) governing penalties for contraventions for the purposes of subsection 47 (2), and without restricting the generality of this power,
+
 (i) establishing different penalties or ranges of penalties for different types of contraventions or the method of determining those penalties or ranges,
+
 (ii) specifying that different penalties, ranges or methods of determining a penalty or range apply to contraveners who are individuals and to contraveners that are corporations, or
+
 (iii) prescribing criteria a compliance officer is required or permitted to consider when imposing a penalty;
+
 (g) governing collections for the purposes of section 50 and prescribing collection powers for the purposes of that section, including settlements by collectors and circumstances in which the Director’s approval is required for settlement by collectors;
+
 (h) prescribing for one or more terms or conditions that apply to operators and workers engaged in specified digital platform work or one or more requirements or prohibitions that apply to operators and workers engaged in specified digital platform work;
+
 (i) providing that any term, condition, requirement or prohibition prescribed under clause (h) applies in place of or in addition to one or more provisions of this Act or the regulations;
+
 (j) providing that a regulation made under clause (h) or (i) applies only in respect of operators and workers that have characteristics specified in the regulation;
+
 (k) respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act.
 
 ### Classes
@@ -1454,5 +1683,7 @@ ii. any evidence or submissions provided by or on behalf of the operator before 
 ### Conflict with transitional regulations
 
 (6) In the event of a conflict between this Act or the regulations and a regulation made under subsection (5), the regulation made under subsection (5) prevails.
+
 67 Omitted (provides for coming into force of provisions of this Act).
+
 68 Omitted (enacts short title of this Act).

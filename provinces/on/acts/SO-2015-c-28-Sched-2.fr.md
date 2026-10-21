@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2023-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15c28"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # services de gestion de condominiums (Loi de 2015 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15c28) before relying on it.
 
 L.O. 2015, chap. 28, Annexe 2
 
@@ -21,58 +21,103 @@ L.O. 2015, chap. 28, Annexe 2
 ### Interprétation
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «acquéreur d’une partie privative» S’entend au sens de la Loi de 1998 sur les condominiums. («purchaser of a unit»)
+
 «action participante» Relativement à une société, s’entend d’une action d’une de ses catégories ou séries d’actions qui sont assorties d’un droit de vote en toutes circonstances ou dans certaines circonstances qui se sont produites et qui se poursuivent. («equity share»)
+
 «agréé» Agréé en vertu d’un permis délivré sous le régime de la présente loi. Le terme «agrément» a un sens correspondant. (French version only)
+
 «association condominiale» S’entend d’une association au sens de la Loi de 1998 sur les condominiums. («condominium corporation»)
+
 «client» Association condominiale à qui un fournisseur de services de gestion de condominiums ou un gestionnaire de condominiums fournit des services de gestion de condominiums. («client»)
+
 «dépenses communes» S’entend au sens de la Loi de 1998 sur les condominiums. («common expenses»)
+
 «dirigeant» S’entend notamment des personnes suivantes :
+
 a) dans le cas d’une société, le président et les vice-présidents de son conseil d’administration, son président, ses vice-présidents, son secrétaire, son secrétaire adjoint, son trésorier, son trésorier adjoint, son directeur général et son directeur général adjoint;
+
 b) dans le cas d’une société de personnes, ses associés, son directeur général et son directeur général adjoint;
+
 c) les autres particuliers désignés à titre de dirigeants par règlement administratif ou résolution d’une organisation et ceux qui exercent des fonctions normalement exercées par le titulaire d’un tel poste. («officer»)
+
 «employer» Employer ou nommer une autre personne pour agir pour son compte, y compris en qualité d’entrepreneur indépendant, l’autoriser à ce faire ou prendre d’autres dispositions pour qu’elle le fasse. («employ»)
+
 «enquêteur» Enquêteur nommé en vertu du paragraphe 61 (1). («investigator»)
+
 «fournisseur de services de gestion de condominiums» Société, société de personnes, entreprise à propriétaire unique, association ou autre organisation ou entité qui fournit des services de gestion de condominiums pour le compte d’autrui, soit contre rémunération ou moyennant un avantage, soit dans l’attente de l’un ou de l’autre, ou qui prétend le faire. («condominium management provider»)
+
 «gestionnaire de condominiums» Particulier qui a les qualités prescrites pour être agréé à ce titre sous le régime de la présente loi et qui fournit des services de gestion de condominiums :
+
 a) soit à un client pour le compte d’un fournisseur de services de gestion de condominiums;
+
 b) soit directement à un client, si un règlement pris pour l’application du paragraphe 51 (3) l’autorise. («condominium manager»)
+
 «gestionnaire principal» Le gestionnaire principal désigné au titre de l’article 49. («principal condominium manager»)
+
 «inspecteur» S’entend du registrateur ou d’un inspecteur nommé en vertu du paragraphe 59 (2). («inspector»)
+
 «ministre» Le ministre des Services gouvernementaux et des Services aux consommateurs ou l’autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «organisme d’application» L’organisme d’application qui est désigné en vertu de l’article 3 de la Loi de 1996 sur l’application de certaines lois traitant de sécurité et de services aux consommateurs aux fins de l’application de la présente loi. («administrative authority»)
+
 «partie privative» S’entend au sens de la Loi de 1998 sur les condominiums. («unit»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «propriétaire» S’entend au sens de la Loi de 1998 sur les condominiums. («owner»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «services de gestion de condominiums» L’un ou l’autre des services suivants, à l’exception des activités exclues par les règlements, fournis à une association condominiale ou pour son compte :
+
 1. Percevoir ou détenir les contributions aux dépenses communes ou les autres montants prélevés par l’association ou payables à celle-ci.
+
 2. Exercer les pouvoirs et les fonctions que lui délègue l’association ou son conseil d’administration, notamment :
+
 i. effectuer des paiements à des tiers pour le compte de l’association,
+
 ii. négocier ou conclure des contrats pour le compte de l’association,
+
 iii. superviser des employés ou des entrepreneurs engagés par l’association. («condominium management services»)
+
 «titulaire de permis» Fournisseur de services de gestion de condominiums ou gestionnaire de condominiums qui est agréé sous le régime de la présente loi. («licensee»)
+
 «Tribunal» Le Tribunal d’appel en matière de permis créé en application de la Loi de 1999 sur le Tribunal d’appel en matière de permis ou l’autre tribunal prescrit. («Tribunal») 2015, chap. 28, annexe 2, par. 1 (1)
 
 ### Personnes associées
 
 (2) Pour l’application de la présente loi, une personne est associée avec une autre dans l’un ou l’autre des cas suivants :
+
 1. L’une d’elles est une société dont l’autre est un dirigeant ou un administrateur.
+
 2. L’une d’elles est une société de personnes dont l’autre est un associé.
+
 3. Les deux sont des associés de la même société de personnes.
+
 4. L’une d’elles est une société que l’autre contrôle directement ou indirectement.
+
 5. Les deux sont des sociétés que la même personne contrôle directement ou indirectement.
+
 6. Les deux sont parties à la même convention de vote fiduciaire afférente aux actions d’une société.
+
 7. Les deux sont associées, au sens des dispositions 1 à 6, avec la même personne.
 
 ## Partie II dirigeants
 
 2 à 6 Abrogés : 2020, chap. 14, annexe 2, art. 3.
+
 7 Abrogé : 2020, chap. 14, annexe 2, art. 3.
+
 8 à 1 6 Abrogés : 2020, chap. 14, annexe 2, art. 3.
+
 17 Abrogé : 2020, chap. 14, annexe 2, art. 3.
+
 18 à 21 Abrogés : 2020, chap. 14, annexe 2, art. 3.
+
 22 Abrogé : 2020, chap. 14, annexe 2, art. 3.
+
 23 à 30 Abrogés : 2020, chap. 14, annexe 2, art. 3.
 
 ### Dispositions diverses
@@ -80,7 +125,9 @@ iii. superviser des employés ou des entrepreneurs engagés par l’association.
 ### Directeur
 
 31 (1) Sous réserve du paragraphe (2), la personne ou l’organe suivant doit nommer un directeur pour l’application de la présente loi et peut nommer un maximum de deux directeurs adjoints :
+
 1. Le conseil d’administration de l’organisme d’application.
+
 2. Le ministre, en l’absence d’organisme d’application.
 
 ### Interdiction du cumul
@@ -98,7 +145,9 @@ iii. superviser des employés ou des entrepreneurs engagés par l’association.
 ### Registrateur
 
 32 (1) Sous réserve du paragraphe (2), la personne ou l’organe suivant doit nommer un registrateur pour l’application de la présente loi et peut nommer un maximum de deux registrateurs adjoints :
+
 1. Le conseil d’administration de l’organisme d’application.
+
 2. Le ministre, en l’absence d’organisme d’application.
 
 ### Interdiction du cumul
@@ -116,6 +165,7 @@ iii. superviser des employés ou des entrepreneurs engagés par l’association.
 ### Cas où il y a plus d’un directeur adjoint
 
 (5) S’il y a plus d’un registrateur adjoint, un seul peut remplacer le registrateur en application du paragraphe (4) à un moment donné.
+
 33 Abrogé : 2020, chap. 14, annexe 2, art. 4.
 
 ## PARTie III agrément
@@ -127,7 +177,9 @@ iii. superviser des employés ou des entrepreneurs engagés par l’association.
 ### Personnes non agréées
 
 (2) Nul ne doit, sans être agréé comme fournisseur de services de gestion de condominiums ou gestionnaire de condominiums :
+
 a) directement ou indirectement, se faire passer respectivement pour un fournisseur de services de gestion de condominiums ou un gestionnaire de condominiums;
+
 b) exercer les fonctions d’un fournisseur de services de gestion de condominiums ou d’un gestionnaire de condominiums.
 
 ### Permis exigé pour intenter une action
@@ -137,7 +189,9 @@ b) exercer les fonctions d’un fournisseur de services de gestion de condominiu
 ### Exception
 
 (4) Le paragraphe (3) n’a pas pour effet de porter atteinte :
+
 a) au droit d’un employé, au sens de la Loi de 2000 sur les normes d’emploi ou d’une loi qui la remplace, d’introduire une action, une requête, un arbitrage ou une autre instance judiciaire visant le recouvrement d’un salaire ou l’exécution d’autres droits prévus par un contrat de travail, la common law ou d’autres textes législatifs;
+
 b) au droit d’introduire une action, une requête, un arbitrage ou une autre instance judiciaire visant le recouvrement d’un salaire ou l’exécution d’autres droits prévus par une convention collective.
 
 ### Changement au sein d’une société de personnes
@@ -155,30 +209,47 @@ b) au droit d’introduire une action, une requête, un arbitrage ou une autre i
 ### Demande de permis
 
 37 (1) Le demandeur qui satisfait aux exigences prescrites a le droit de se voir délivrer un permis ou un renouvellement de permis par le registrateur sauf dans l’un ou l’autre des cas suivants :
+
 a) le demandeur n’est pas une personne morale et l’une des conditions suivantes est remplie :
+
 (i) compte tenu de sa situation financière ou de celle d’une personne intéressée à son égard, il n’y a pas raisonnablement lieu de s’attendre à ce qu’il pratique une saine gestion financière dans l’exercice des activités d’un titulaire de permis,
+
 (ii) sa conduite antérieure ou actuelle ou celle d’une personne intéressée à son égard offre des motifs raisonnables de croire qu’il n’exercera pas les activités d’un titulaire de permis conformément à la loi ni avec intégrité et honnêteté,
+
 (iii) lui-même ou un de ses employés ou mandataires fait ou fournit une fausse déclaration dans une demande de permis ou de renouvellement de permis;
+
 b) le demandeur est une personne morale et l’une des conditions suivantes est remplie :
+
 (i) compte tenu de sa situation financière ou de celle d’une personne intéressée à son égard, il n’y a pas raisonnablement lieu de s’attendre à ce qu’il pratique une saine gestion financière dans l’exercice des activités d’un titulaire de permis,
+
 (ii) compte tenu de la situation financière de ses dirigeants ou administrateurs ou d’une personne intéressée à leur égard, il n’y a pas raisonnablement lieu de s’attendre à ce qu’il pratique une saine gestion financière dans l’exercice des activités d’un titulaire de permis,
+
 (iii) la conduite antérieure ou actuelle de ses dirigeants ou administrateurs ou celle d’une personne intéressée à leur égard ou à son égard offre des motifs raisonnables de croire qu’il n’exercera pas les activités d’un titulaire de permis conformément à la loi ni avec intégrité et honnêteté,
+
 (iv) un de ses dirigeants ou administrateurs fait ou fournit une fausse déclaration dans une demande de permis ou de renouvellement de permis;
+
 c) lui-même ou une personne intéressée à son égard exerce des activités qui contreviennent, ou qui contreviendront s’il est agréé, à la présente loi ou aux règlements, à l’exclusion du code de déontologie établi en vertu de l’article 77;
+
 d) il enfreint une condition du permis;
+
 e) il ne se conforme pas à une demande que lui adresse le registrateur en vertu du paragraphe (3).
 
 ### Personne intéressée
 
 (2) Pour l’application du présent article, une personne est réputée intéressée à l’égard d’une autre si elle est associée avec elle ou que, de l’avis du registrateur :
+
 a) soit elle a ou peut avoir un intérêt bénéficiaire dans les activités de l’autre personne;
+
 b) soit elle contrôle ou peut contrôler l’autre personne, directement ou indirectement;
+
 c) soit elle a ou peut avoir fourni un financement aux activités de l’autre personne, directement ou indirectement.
 
 ### Demande de renseignements
 
 (3) Le registrateur peut demander au demandeur de permis ou de renouvellement de permis de lui fournir ce qui suit, sous la forme et dans le délai qu’il précise :
+
 a) les renseignements qu’il précise et qui sont susceptibles d’éclairer sa décision d’accorder ou non le permis ou le renouvellement;
+
 b) l’attestation, notamment par affidavit, de tout renseignement visé à l’alinéa a) que le demandeur lui fournit ou lui a fourni.
 
 ### Conditions du permis
@@ -208,14 +279,19 @@ b) l’attestation, notamment par affidavit, de tout renseignement visé à l’
 ### Conditions
 
 (2) Sous réserve de l’article 41, le registrateur peut :
+
 a) approuver le permis ou le renouvellement d’un permis aux conditions qu’il estime appropriées;
+
 b) assortir à tout moment un permis des conditions qu’il estime appropriées.
 
 ### Avis : refus, suspension, etc.
 
 41 (1) Le registrateur avise par écrit le demandeur ou le titulaire de permis de son intention :
+
 a) soit de refuser, en vertu du paragraphe 40 (1), d’accorder ou de renouveler le permis;
+
 b) soit de suspendre ou de révoquer le permis;
+
 c) soit d’assortir le permis ou le renouvellement de conditions que l’un ou l’autre n’a pas acceptées.
 
 ### Contenu de l’avis
@@ -261,9 +337,13 @@ c) soit d’assortir le permis ou le renouvellement de conditions que l’un ou 
 ### Maintien jusqu’au renouvellement
 
 42 Si, dans le délai prescrit ou, à défaut, avant l’expiration de son permis, le titulaire de permis en demande le renouvellement et acquitte les droits exigés, son permis est réputé rester en vigueur, selon le cas :
+
 a) jusqu’à ce que le renouvellement soit accordé;
+
 b) jusqu’à ce que le registrateur l’avise par écrit qu’il refuse, en vertu de l’article 39, d’accorder le renouvellement;
+
 c) jusqu’à l’expiration du délai imparti pour demander une audience en vertu de l’article 41, s’il reçoit un avis d’intention en vertu de cet article et qu’il ne demande pas une audience;
+
 d) jusqu’à ce que le Tribunal rende son ordonnance, s’il reçoit un avis d’intention en vertu de l’article 41 et qu’il demande une audience.
 
 ### Suspension immédiate
@@ -281,13 +361,17 @@ d) jusqu’à ce que le Tribunal rende son ordonnance, s’il reçoit un avis d�
 ### Idem
 
 (4) Malgré le paragraphe (3), s’il est convaincu que la conduite du titulaire de permis a retardé le début de l’audience, le Tribunal peut proroger la date d’expiration de l’ordonnance :
+
 a) jusqu’au début de l’audience;
+
 b) une fois l’audience commencée, jusqu’à sa conclusion.
 
 ### Demande ultérieure
 
 44 Lorsque la décision du registrateur de refuser d’accorder un permis ou le renouvellement d’un permis à une personne ou de révoquer son permis est devenue définitive, celle-ci ne peut présenter une nouvelle demande de permis que si les conditions suivantes sont réunies :
+
 a) le délai prescrit pour présenter une nouvelle demande s’est écoulé depuis le refus ou la révocation;
+
 b) la personne convainc le registrateur qu’il existe de nouvelles preuves ou des preuves supplémentaires ou que des circonstances importantes ont changé.
 
 ## Partie IV Réglementation des titulaires de permis
@@ -295,14 +379,19 @@ b) la personne convainc le registrateur qu’il existe de nouvelles preuves ou d
 ### Remise d’un avis de changement au registrateur
 
 45 (1) Le fournisseur de services de gestion de condominiums agréé avise par écrit le registrateur de ce qui suit, dans les cinq jours :
+
 a) tout changement de son adresse aux fins de signification;
+
 b) la date de l’entrée en fonction de chacun des gestionnaires de condominiums qu’il emploie, celle de la cessation de ses fonctions et, dans ce dernier cas, le motif de la cessation.
 
 ### Idem, gestionnaire de condominiums
 
 (2) Le gestionnaire de condominiums agréé avise par écrit le registrateur de ce qui suit, dans les cinq jours :
+
 a) tout changement de son adresse aux fins de signification;
+
 b) son entrée en fonction auprès d’un fournisseur de services de gestion de condominiums ou la cessation de ses fonctions ainsi que la date pertinente;
+
 c) son entrée en fonction auprès d’une association condominiale ou la cessation de ses fonctions ainsi que la date pertinente.
 
 ### Changement de dirigeants ou d’administrateurs
@@ -316,7 +405,9 @@ c) son entrée en fonction auprès d’une association condominiale ou la cessat
 ### Avis au registrateur : sociétés
 
 46 (1) Lorsqu’il obtient son permis et à chaque renouvellement de celui-ci, le fournisseur de services de gestion de condominiums qui est une société divulgue au registrateur l’identité des personnes suivantes :
+
 a) chacune des personnes qui détiennent à titre bénéficiaire au moins 10 % de ses actions participantes émises et en circulation au moment de l’obtention ou du renouvellement du permis, selon le cas, ou qui exercent un contrôle sur une telle tranche;
+
 b) les personnes qui sont associées les unes avec les autres et qui, ensemble, détiennent à titre bénéficiaire au moins 10 % de ses actions participantes émises et en circulation au moment de l’obtention ou du renouvellement du permis, selon le cas, ou exercent un contrôle sur une telle tranche.
 
 ### Calcul des actions
@@ -326,7 +417,9 @@ b) les personnes qui sont associées les unes avec les autres et qui, ensemble, 
 ### Avis d’émission ou de transfert d’actions
 
 47 (1) En plus de faire la divulgation exigée par l’article 46, le fournisseur de services de gestion de condominiums agréé qui est une société avise le registrateur par écrit dans les 30 jours qui suivent l’émission ou le transfert d’actions participantes de la société, si cette émission ou ce transfert a pour résultat :
+
 a) soit qu’une personne ou des personnes associées les unes avec les autres acquièrent, d’un seul coup ou progressivement, la propriété bénéficiaire ou le contrôle d’au moins 10 % du total de ses actions participantes émises et en circulation;
+
 b) soit une augmentation du pourcentage de ses actions participantes émises et en circulation qu’une personne ou des personnes associées les unes avec les autres détiennent à titre bénéficiaire ou sur lesquelles elles exercent un contrôle, si elles détiennent déjà à titre bénéficiaire au moins 10 % du total de ces actions avant l’émission ou le transfert ou qu’elles exercent alors un contrôle sur une telle tranche.
 
 ### Idem
@@ -348,19 +441,25 @@ b) soit une augmentation du pourcentage de ses actions participantes émises et 
 ### Gestionnaire principal
 
 49 (1) Le fournisseur de services de gestion de condominiums agréé :
+
 a) désigne, conformément au présent article, un de ses gestionnaires de condominiums agréés comme gestionnaire principal et avise le registrateur de son identité;
+
 b) avise le registrateur, dans les cinq jours, d’un changement de gestionnaire principal.
 
 ### Entreprise à propriétaire unique
 
 (2) Le fournisseur de services de gestion de condominiums agréé qui est une entreprise à propriétaire unique :
+
 a) fait en sorte de satisfaire aux exigences prescrites pour être désigné comme gestionnaire principal;
+
 b) se désigne lui-même comme gestionnaire principal.
 
 ### Non une entreprise à propriétaire unique
 
 (3) Le fournisseur de services de gestion de condominiums agréé qui n’est pas une entreprise à propriétaire unique :
+
 a) emploie au moins un gestionnaire de condominiums agréé;
+
 b) désigne comme gestionnaire principal un de ses gestionnaires de condominiums agréés qui satisfait aux exigences prescrites pour être ainsi désigné.
 
 ### Obligation
@@ -394,8 +493,11 @@ b) désigne comme gestionnaire principal un de ses gestionnaires de condominiums
 ### Interdiction : actes désignant un fondé de pouvoir
 
 53 Le titulaire de permis, ou toute personne agissant pour son compte, ne doit pas solliciter d’acte désignant un fondé de pouvoir pour une assemblée des propriétaires dont l’objet comprend, selon le cas :
+
 a) toute question directement liée au titulaire de permis;
+
 b) la destitution ou l’élection d’un ou plusieurs administrateurs du client;
+
 c) toute autre question prescrite.
 
 ### Obligation concernant les dossiers
@@ -445,12 +547,19 @@ c) toute autre question prescrite.
 ### Marche à suivre
 
 (4) Lorsqu’il traite les plaintes, le registrateur peut prendre une ou plusieurs des mesures suivantes, selon ce qui est approprié :
+
 1. Tenter de régler la plainte ou de la résoudre par la médiation.
+
 2. Donner au titulaire de permis un avertissement écrit portant que des mesures pourront être prises à son égard si l’activité qui a donné lieu à la plainte se poursuit.
+
 3. Exiger que le gestionnaire principal du titulaire de permis suive d’autres cours de formation si le titulaire de permis est un fournisseur de services de gestion de condominiums.
+
 4. Exiger que le titulaire de permis suive d’autres cours de formation s’il est un gestionnaire de condominiums.
+
 5. Renvoyer l’affaire, en totalité ou en partie, au comité de discipline.
+
 6. Prendre les mesures prévues à l’article 40, sous réserve de l’article 41.
+
 7. Prendre les autres mesures appropriées conformément à la présente loi.
 
 ### Instances disciplinaires
@@ -468,12 +577,19 @@ c) toute autre question prescrite.
 ### Décision
 
 (4) S’il décide, en application du paragraphe (1), qu’un titulaire de permis n’a pas observé le code de déontologie, le comité de discipline peut, par ordonnance, prendre une ou plusieurs des mesures suivantes, selon ce qui est approprié :
+
 1. Exiger que le gestionnaire principal du titulaire de permis suive d’autres cours de formation, si le titulaire de permis est un fournisseur de services de gestion de condominiums.
+
 2. Exiger que le titulaire de permis suive d’autres cours de formation, s’il est un gestionnaire de condominiums.
+
 3. Si le titulaire de permis est un fournisseur de services de gestion de condominiums, exiger, conformément aux conditions que le comité précise, le cas échéant, qu’il finance les cours de formation suivis par les gestionnaires de condominiums qu’il emploie ou qu’il prenne des dispositions pour offrir de tels cours et les finance.
+
 4. Si le titulaire de permis est un gestionnaire de condominiums, exiger du fournisseur de services de gestion de condominiums, conformément aux conditions que le comité précise, le cas échéant, qu’il finance les cours de formation suivis par les gestionnaires de condominiums qu’il emploie ou qu’il prenne des dispositions pour offrir de tels cours et les finance.
+
 5. Malgré le paragraphe 12 (1) de la de la Loi de 1996 sur l’application de certaines lois traitant de sécurité et de services aux consommateurs, imposer l’amende qu’il estime appropriée, laquelle ne peut dépasser 25 000 $, ou toute somme inférieure prescrite, que le titulaire de permis doit payer à l’organisme d’application ou, en l’absence d’organisme d’application, au ministre des Finances.
+
 6. Suspendre ou différer, pour la durée et aux conditions qu’il fixe, l’obligation de suivre d’autres cours de formation, leur financement, la prise de dispositions pour les offrir et leur financement, ou l’imposition de l’amende.
+
 7. Fixer et imposer les dépens que le titulaire de permis doit payer à l’organisme d’application ou, en l’absence d’organisme d’application, au ministre des Finances.
 
 ### Appel
@@ -487,22 +603,31 @@ c) toute autre question prescrite.
 ### Cours de formation
 
 (7) Le titulaire de permis suit le cours de formation exigé en application du paragraphe (4) :
+
 a) dans le délai précisé dans l’ordonnance du comité de discipline, si l’exigence n’est pas portée en appel;
+
 b) dans le délai précisé dans l’ordonnance du comité d’appel, si l’exigence est portée en appel;
+
 c) dès que cela est raisonnablement possible après la dernière ordonnance prise à l’égard du cours de formation, si aucun délai n’est précisé dans cette ordonnance.
 
 ### Prise de dispositions pour offrir des cours de formation et financement de ceux-ci
 
 (8) Le fournisseur de services de gestion de condominiums qui est tenu par le paragraphe (4) de financer les cours de formation suivis par les gestionnaires de condominiums qu’il emploie ou de prendre des dispositions pour offrir de tels cours et les financer le fait :
+
 a) dans le délai précisé dans l’ordonnance du comité de discipline, si l’exigence n’est pas portée en appel;
+
 b) dans le délai précisé dans l’ordonnance du comité d’appel, si l’exigence est portée en appel;
+
 c) dès que cela est raisonnablement possible après la dernière ordonnance prise à l’égard du cours de formation, si aucun délai n’est précisé dans cette ordonnance.
 
 ### Paiement de l’amende
 
 (9) Le titulaire de permis paie toute amende imposée en vertu du paragraphe (4) :
+
 a) au plus tard le jour précisé dans l’ordonnance du comité de discipline, si l’amende n’est pas portée en appel;
+
 b) au plus tard le jour précisé dans l’ordonnance du comité d’appel, si l’amende est portée en appel;
+
 c) au plus tard le 60 e jour qui suit la date de la dernière ordonnance prise à l’égard de l’amende, si aucun jour n’est précisé dans cette ordonnance.
 
 ### Consultation par le public
@@ -530,23 +655,33 @@ c) au plus tard le 60 e jour qui suit la date de la dernière ordonnance prise �
 ### Inspections sans mandat
 
 60 (1) L’inspecteur peut, sans mandat ou ordonnance du tribunal, effectuer une inspection conformément au présent article pour, selon le cas :
+
 a) vérifier que la présente loi et les règlements sont observés;
+
 b) traiter une plainte visée à l’article 57;
+
 c) vérifier que le titulaire de permis a toujours le droit de l’être.
 
 ### Pouvoir de pénétrer dans des locaux
 
 (2) Dans le cadre d’une inspection, l’inspecteur peut, sans mandat ou ordonnance du tribunal et à toute heure raisonnable, pénétrer dans les locaux suivants, à l’exception de toute partie utilisée comme logement :
+
 1. Les locaux commerciaux d’un titulaire de permis.
+
 2. Une propriété, au sens de la Loi de 1998 sur les condominiums, à l’égard de laquelle un titulaire de permis fournit des services de gestion de condominiums à l’association condominiale.
 
 ### Pouvoirs de l’inspecteur
 
 (3) Dans le cadre d’une inspection, l’inspecteur :
+
 a) a le droit d’avoir libre accès à l’argent, aux objets de valeur et aux documents et aux dossiers pertinents de la personne en cause;
+
 b) peut présenter des demandes raisonnables de renseignements, verbalement ou par écrit, relativement à toute chose pertinente;
+
 c) peut exiger d’une personne qu’elle produise un document ou un dossier pertinents et qu’elle fournisse l’aide qui est raisonnablement nécessaire, notamment en recourant à un dispositif ou système d’archivage, de traitement ou d’extraction des données pour produire le document ou le dossier sous quelque forme que ce soit;
+
 d) peut recourir, en vue de produire des renseignements pertinents sous quelque forme que ce soit, à tout dispositif ou système d’archivage, de traitement ou d’extraction des données utilisé pour exercer les activités d’un titulaire de permis;
+
 e) peut, après avoir donné un récépissé à cet effet, et afin de les examiner et d’en tirer des copies, prendre des choses pertinentes, y compris tout disque d’archivage des données ou autre dispositif d’extraction des données, en vue de produire des renseignements, mais doit ensuite les rendre promptement à la personne en cause.
 
 ### Interdiction de recourir à la force
@@ -580,24 +715,35 @@ e) peut, après avoir donné un récépissé à cet effet, et afin de les examin
 ### Enquêtes avec mandat
 
 62 (1) Sur demande sans préavis d’un enquêteur, un juge de paix peut délivrer un mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il existe des motifs raisonnables de croire :
+
 a) d’une part, qu’une personne a contrevenu ou contrevient à la présente loi ou aux règlements ou a commis une infraction à une loi de toute autorité législative qui touche son aptitude à se voir délivrer un permis;
+
 b) d’autre part :
+
 (i) soit qu’une chose quelconque se rapportant à la contravention à la présente loi ou aux règlements ou à l’aptitude de la personne à se voir délivrer un permis se trouve dans un bâtiment, un logement, un contenant ou un lieu,
+
 (ii) soit que des renseignements ou des éléments de preuve se rapportant à la contravention à la présente loi ou aux règlements ou à l’aptitude de la personne à se voir délivrer un permis pourront être obtenus au moyen d’une technique ou méthode d’enquête ou d’un acte qui est mentionné dans le mandat.
 
 ### Pouvoirs conférés par le mandat
 
 (2) Sous réserve des conditions qu’il précise, le mandat obtenu en vertu du paragraphe (1) autorise l’enquêteur à faire ce qui suit :
+
 a) pénétrer dans le bâtiment, le logement, le contenant ou le lieu précisé dans le mandat et examiner et saisir toute chose mentionnée dans le mandat;
+
 b) présenter des demandes raisonnables de renseignements, verbalement ou par écrit, relativement à toute chose pertinente;
+
 c) exiger d’une personne qu’elle produise les renseignements ou les éléments de preuve mentionnés dans le mandat et qu’elle fournisse l’aide qui est raisonnablement nécessaire, notamment en recourant à un dispositif ou système d’archivage, de traitement ou d’extraction des données pour produire, sous quelque forme que ce soit, les renseignements ou les éléments de preuve mentionnés dans le mandat;
+
 d) recourir, en vue de produire, sous quelque forme que ce soit, des renseignements ou des éléments de preuve mentionnés dans le mandat, à tout dispositif ou système d’archivage, de traitement ou d’extraction des données utilisé pour exercer les activités d’un titulaire de permis;
+
 e) employer toute technique ou méthode d’enquête ou accomplir tout acte mentionné dans le mandat.
 
 ### Entrée dans un logement
 
 (3) Malgré le paragraphe (2), l’enquêteur ne doit exercer le pouvoir, conféré par un mandat, de pénétrer dans un lieu ou une partie d’un lieu utilisé comme logement que si le juge de paix :
+
 a) est informé du fait que le mandat est demandé afin d’autoriser l’entrée dans un logement;
+
 b) autorise l’entrée.
 
 ### Conditions du mandat
@@ -669,14 +815,19 @@ b) autorise l’entrée.
 ### Ordonnance de blocage
 
 65 (1) Si les conditions énoncées au paragraphe (2) sont remplies, le directeur peut, par écrit :
+
 a) ordonner à la personne qui est le dépositaire ou qui a le contrôle de fonds en fiducie ou de biens d’un titulaire de permis ou d’un ancien titulaire de permis de les retenir;
+
 b) ordonner à un titulaire de permis ou à un ancien titulaire de permis de s’abstenir de retirer des fonds en fiducie ou des biens des mains de la personne qui en est le dépositaire ou qui en a le contrôle;
+
 c) ordonner à un titulaire de permis ou à un ancien titulaire de permis de détenir en fiducie pour la personne qui y a droit des fonds en fiducie ou des biens d’un client ou d’une autre personne.
 
 ### Conditions
 
 (2) Le directeur peut prendre une ordonnance en vertu du paragraphe (1) s’il l’estime souhaitable pour la protection des clients d’un titulaire de permis ou d’un ancien titulaire de permis et que l’une des conditions suivantes est remplie :
+
 a) un mandat de perquisition a été délivré en vertu de la présente loi;
+
 b) une poursuite criminelle ou une poursuite pour une contravention prévue par la présente loi ou une autre loi a été ou est sur le point d’être intentée contre le titulaire de permis ou l’ancien titulaire de permis et elle se rapporte ou est consécutive à l’exercice d’activités d’un titulaire de permis.
 
 ### Restriction
@@ -686,8 +837,11 @@ b) une poursuite criminelle ou une poursuite pour une contravention prévue par 
 ### Institutions financières
 
 (4) L’institution financière mentionnée au paragraphe (3) désigne, selon le cas :
+
 a) une banque ou une banque étrangère autorisée au sens de l’article 2 de la Loi sur les banques (Canada);
+
 b) une société inscrite sous le régime de la Loi sur les sociétés de prêt et de fiducie ;
+
 c) une caisse au sens de la Loi de 2020 sur les caisses populaires et les credit unions.
 
 ### Soustraction de biens
@@ -697,15 +851,21 @@ c) une caisse au sens de la Loi de 2020 sur les caisses populaires et les credit
 ### Exception
 
 (6) Le paragraphe (1) ne s’applique pas si le titulaire de permis ou l’ancien titulaire de permis dépose auprès du directeur, de la manière et selon le montant qu’il détermine, une des garanties suivantes :
+
 a) un cautionnement personnel accompagné d’une garantie accessoire;
+
 b) le cautionnement d’un assureur titulaire d’un permis délivré en vertu de la Loi sur les assurances qui l’autorise à faire souscrire de l’assurance de cautionnement et de l’assurance contre les détournements;
+
 c) le cautionnement d’un garant accompagné d’une garantie accessoire;
+
 d) l’autre forme de garantie qui est prescrite.
 
 ### Présentation d’une requête au tribunal
 
 (7) L’une ou l’autre des personnes suivantes peut présenter une requête à la Cour supérieure de justice pour qu’il soit statué sur la disposition d’un fonds en fiducie ou d’un bien :
+
 a) quiconque a reçu une ordonnance prise en vertu du paragraphe (1), s’il a un doute quant à son application au fonds en fiducie ou au bien;
+
 b) quiconque revendique un intérêt sur le fonds en fiducie ou le bien visé par l’ordonnance.
 
 ### Avis
@@ -719,7 +879,9 @@ b) quiconque revendique un intérêt sur le fonds en fiducie ou le bien visé pa
 ### Décision du Tribunal
 
 (10) Le Tribunal doit décider de la requête après la tenue d’une audience et peut annuler l’ordonnance ou radier l’enregistrement, en totalité ou en partie, s’il conclut :
+
 a) soit que l’ordonnance ou l’enregistrement n’est pas en totalité ou en partie nécessaire pour protéger les clients du requérant ou les autres titulaires d’intérêts sur le bien-fonds;
+
 b) soit que l’ordonnance ou l’enregistrement porte indûment atteinte aux intérêts d’autres personnes.
 
 ### Parties
@@ -737,19 +899,29 @@ b) soit que l’ordonnance ou l’enregistrement porte indûment atteinte aux in
 ### Ordonnances de blocage : personnes non agréées
 
 66 (1) Le directeur peut prendre l’ordonnance visée au paragraphe (2) à l’égard des sommes d’argent ou des biens d’une personne qui n’est pas agréée sous le régime de la présente loi et qui aurait exercé sans être agréée des activités pour lesquelles l’agrément est exigé par la même loi si les conditions suivantes sont réunies :
+
 a) le directeur reçoit un affidavit dans lequel il est allégué, avec faits à l’appui, que cette personne :
+
 (i) soit fait l’objet de poursuites criminelles ou de poursuites pour une contravention à la présente loi ou à une autre loi qui ont été ou qui sont sur le point d’être intentées contre elle et qui se rapportent ou sont consécutives à l’exercice d’activités pour lesquelles l’agrément est exigé par la présente loi,
+
 (ii) soit est propriétaire d’un bâtiment, d’un logement, d’un contenant ou d’un lieu à l’égard duquel un mandat de perquisition a été délivré en vertu de l’article 62, ou y exerce des activités;
+
 b) le directeur a, sur la foi de l’affidavit mentionné à l’alinéa a), des motifs raisonnables de croire ce qui suit :
+
 (i) la personne qui fait l’objet de l’allégation visée à l’alinéa a) a reçu des sommes d’argent ou des biens de clients dans l’exercice d’activités pour lesquelles l’agrément est exigé par la présente loi,
+
 (ii) les intérêts de ces clients doivent être protégés.
 
 ### Ordonnance
 
 (2) Dans les circonstances énoncées au paragraphe (1), le directeur peut, par écrit :
+
 a) ordonner à quiconque est le dépositaire ou a le contrôle de sommes d’argent ou de biens de la personne qui fait l’objet de l’allégation visée à l’alinéa (1) a) de les retenir;
+
 b) ordonner à la personne qui fait l’objet de l’allégation visée à l’alinéa (1) a) :
+
 (i) ou bien de s’abstenir de retirer des sommes d’argent ou des biens des mains de quiconque en est le dépositaire ou en a le contrôle,
+
 (ii) ou bien de détenir en fiducie pour quiconque y a droit les sommes d’argent ou les biens d’un client ou d’une autre personne.
 
 ### Application
@@ -773,8 +945,11 @@ b) ordonner à la personne qui fait l’objet de l’allégation visée à l’a
 ### Infraction
 
 68 (1) Est coupable d’une infraction la personne ou l’entité qui, selon le cas :
+
 a) fournit de faux renseignements, soit dans une demande ou une requête présentée en vertu de la présente loi, soit dans une déclaration ou un rapport qu’exige la présente loi;
+
 b) n’observe pas une ordonnance prise ou rendue, une directive donnée ou une autre exigence imposée en vertu de la présente loi, à l’exclusion d’une ordonnance prise en vertu de l’article 58;
+
 c) contrevient à un article de la présente loi ou des règlements, à l’exclusion d’un code de déontologie établi en vertu de l’article 77, ou ne l’observe pas.
 
 ### Fournisseurs de services de gestion de condominiums
@@ -784,7 +959,9 @@ c) contrevient à un article de la présente loi ou des règlements, à l’excl
 ### Peines
 
 (3) La personne ou l’entité qui est déclarée coupable d’une infraction prévue par la présente loi est passible :
+
 a) d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de deux ans moins un jour, ou d’une seule de ces peines, s’il s’agit d’un particulier;
+
 b) d’une amende maximale de 250 000 $, s’il ne s’agit pas d’un particulier.
 
 ### Prescription
@@ -814,8 +991,11 @@ b) d’une amende maximale de 250 000 $, s’il ne s’agit pas d’un particuli
 ### Privilèges sur des biens meubles
 
 (2) Si le privilège créé par le directeur en vertu du paragraphe (1) concerne des biens meubles :
+
 a) la Loi sur les sûretés mobilières, à l’exclusion de la partie V, s’applique avec les adaptations nécessaires au privilège, malgré l’alinéa 4 (1) a) de cette loi;
+
 b) le privilège est réputé une sûreté qui grève les biens meubles pour l’application de la Loi sur les sûretés mobilières ;
+
 c) le directeur peut rendre la sûreté visée à l’alinéa b) opposable pour l’application de la Loi sur les sûretés mobilières en enregistrant un état de financement en application de cette loi.
 
 ### Privilèges et charges sur des biens immeubles
@@ -833,7 +1013,9 @@ c) le directeur peut rendre la sûreté visée à l’alinéa b) opposable pour 
 ### Mainlevée du privilège
 
 (6) Dans les 10 jours qui suivent la date à laquelle il a connaissance du paiement intégral de l’amende, le directeur :
+
 a) d’une part, donne mainlevée de l’enregistrement de l’état de financement enregistré en vertu de l’alinéa (2) c);
+
 b) d’autre part, enregistre une mainlevée de la charge créée au moment de l’enregistrement d’un privilège en application du paragraphe (3).
 
 ## PARTie VI dispositions GénéRALes
@@ -841,12 +1023,19 @@ b) d’autre part, enregistre une mainlevée de la charge créée au moment de l
 ### Confidentialité
 
 72 (1) Quiconque obtient des renseignements dans l’exercice de pouvoirs ou de fonctions qui se rapportent à l’application de la présente loi ou des règlements est tenu au secret à leur égard et ne doit rien en divulguer à qui que ce soit, sauf, selon le cas :
+
 a) dans la mesure où l’exige toute instance introduite en vertu de la présente loi ou l’application de celle-ci ou des règlements;
+
 b) à un ministère ou à un organisme d’un gouvernement chargé de l’application de textes législatifs qui sont semblables à la présente loi ou qui protègent les consommateurs, ou à une autre entité à laquelle est confiée l’application de tels textes;
+
 c) dans la mesure où l’autorise la Loi de 2007 sur la modernisation de la réglementation ;
+
 d) à une entité ou à une organisation prescrite, si la divulgation a pour objet la protection des consommateurs;
+
 e) à un organisme chargé de l’exécution de la loi;
+
 f) à son avocat;
+
 g) avec le consentement de la personne à laquelle se rapportent les renseignements.
 
 ### Témoignage
@@ -856,8 +1045,11 @@ g) avec le consentement de la personne à laquelle se rapportent les renseigneme
 ### Signification
 
 73 (1) Les avis, ordonnances et demandes sont suffisamment remis ou signifiés s’ils sont :
+
 a) soit remis à personne;
+
 b) soit envoyés par courrier recommandé;
+
 c) soit envoyés d’une autre manière qui permet à l’expéditeur d’en prouver la réception.
 
 ### Signification réputée faite
@@ -883,9 +1075,13 @@ c) soit envoyés d’une autre manière qui permet à l’expéditeur d’en pro
 ### Déclaration admissible en preuve
 
 75 (1) Les déclarations concernant l’une ou l’autre des questions suivantes qui se présentent comme étant attestées par le directeur sont admissibles en preuve dans toute instance et font foi, en l’absence de preuve contraire, des faits qui y sont énoncés, sans qu’il soit nécessaire d’établir sa qualité officielle ni l’authenticité de sa signature :
+
 a) l’agrément ou le non-agrément d’une personne;
+
 b) le dépôt ou le non-dépôt d’un document qui doit ou peut être déposé auprès du registrateur;
+
 c) la date à laquelle les faits sur lesquels l’instance est fondée sont venus à la connaissance du directeur;
+
 d) toute autre question qui se rapporte à l’agrément ou au non-agrément de personnes ou au dépôt ou au non-dépôt de renseignements.
 
 ### Force probante des documents
@@ -905,8 +1101,11 @@ d) toute autre question qui se rapporte à l’agrément ou au non-agrément de 
 ### Règlements du ministre
 
 77 (1) Le ministre peut, par règlement :
+
 a) établir un code de déontologie pour l’application du paragraphe 58 (1);
+
 b) régir la compétence et la procédure de tout comité constitué en application de la présente loi;
+
 c) traiter des questions que le lieutenant-gouverneur en conseil lui délègue en vertu de la disposition 26 du paragraphe 78 (1).
 
 ### Code de déontologie
@@ -936,50 +1135,95 @@ c) traiter des questions que le lieutenant-gouverneur en conseil lui délègue e
 ### Règlements du lieutenant-gouverneur en conseil
 
 78 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 1. définir, pour l’application de la présente loi et des règlements, tout terme utilisé mais non défini dans la présente loi;
+
 2. préciser toute question ou chose que la présente loi mentionne comme étant prescrite ou devant s’effectuer conformément aux règlements;
+
 3. soustraire une personne, une catégorie de personnes ou une catégorie d’activités à l’application d’une disposition de la présente loi ou des règlements et assortir toute dispense de conditions;
+
 4. traiter des demandes de permis ou de renouvellement de permis;
+
 5. régir les exigences en matière de formation et d’examen applicables aux demandeurs de permis ou de renouvellement de permis et aux titulaires de permis, y compris :
+
 i. exiger qu’ils satisfassent aux exigences en matière de formation précisées par le conseil d’administration de l’organisme d’application, le ministre, le directeur ou le registrateur ou qu’ils terminent le programme d’études ou suivent le ou les cours désignés par le même conseil, ministre, directeur ou registrateur,
+
 ii. autoriser le conseil d’administration de l’organisme d’application, le ministre, le directeur ou le registrateur à désigner les organismes autorisés à fournir les programmes et les cours désignés en vertu de la sous-disposition i,
+
 iii. exiger que les exigences en matière de formation précisées en vertu de la sous-disposition i et la liste des programmes et des cours désignés en vertu de cette sous-disposition soient mises à la disposition du public;
+
 6. exiger que le demandeur de permis ou de renouvellement de permis fournisse des renseignements au registrateur au sujet d’autres personnes pour l’aider à déterminer si ces personnes sont ou peuvent être des personnes intéressées;
+
 7. préciser les renseignements que les titulaires de permis doivent fournir au registrateur et exiger que ces renseignements soient appuyés d’un affidavit;
+
 8. exiger que le registrateur rende public le nom des titulaires de permis et prescrire la forme sous laquelle et la manière dont il doit le faire, et préciser les autres renseignements les concernant qu’il doit rendre publics;
+
 9. préciser les responsabilités des fournisseurs de services de gestion de condominiums, des gestionnaires de condominiums ou des gestionnaires principaux;
+
 10. prescrire les questions que les gestionnaires de condominiums doivent divulguer aux fournisseurs de services de gestion de condominiums qui les emploient ou qui sont des employeurs éventuels, et les circonstances dans lesquelles ces divulgations sont exigées;
+
 11. régir les activités des titulaires de permis, y compris :
+
 i. préciser les conditions qu’ils sont tenus d’inclure dans les contrats de services de gestion de condominiums qu’ils fournissent à leurs clients,
+
 ii. préciser les questions qu’ils doivent divulguer au cours de la prestation de services de gestion de condominiums et le moment où ils doivent le faire, y compris les conditions dans lesquelles ces divulgations sont exigées et les questions relatives aux intérêts détenus, selon le cas, dans :
+
 A. des fournisseurs de services de gestion de condominiums, autres que ceux qui les emploient, dans le cas des gestionnaires de condominiums,
+
 B. d’autres fournisseurs de services de gestion de condominiums, dans le cas des fournisseurs de services de gestion de condominiums,
+
 iii. préciser les déclarations qu’ils doivent fournir à l’égard de la prestation de services de gestion de condominiums, la manière dont ils doivent le faire, leur contenu, les circonstances dans lesquelles elles ne sont pas exigées et les conséquences du défaut de les fournir;
+
 12. exiger que les titulaires de permis fournissent une preuve de leur permis sur demande et dans les circonstances prescrites et préciser la nature de la preuve et la manière dont elle doit être fournie;
+
 13. exiger que les titulaires de permis tiennent des locaux commerciaux qui soient conformes aux règles prescrites;
+
 14. traiter des exigences en matière de sûreté financière qui s’appliquent aux titulaires de permis, y compris exiger qu’ils fournissent un cautionnement, qu’ils soient assurés ou qu’ils disposent de garanties accessoires, et prescrire la réalisation des cautionnements, la disposition du produit et les autres conditions relatives aux exigences en matière de sûreté financière;
+
 15. régir l’assurance que les titulaires de permis doivent souscrire, y compris :
+
 i. prescrire les types d’assurance qu’ils doivent souscrire,
+
 ii. prescrire la somme minimale assurée qu’ils doivent souscrire pour chaque type d’assurance;
+
 16. exiger des titulaires de permis ou de toute catégorie de titulaires de permis qu’ils tiennent des comptes en fiducie, régir ces comptes, y compris préciser les sommes qui doivent être détenues en fiducie et les conditions de la fiducie, et autoriser le registrateur à préciser l’endroit où ces comptes doivent être ouverts;
+
 17. régir les documents et les dossiers que doivent conserver les titulaires de permis, y compris la manière dont ils sont conservés, l’endroit où ils le sont et leur délai de conservation, et autoriser le registrateur à préciser l’endroit où ils doivent être conservés;
+
 18. régir le transfert de documents et de dossiers que le titulaire de permis est tenu de faire à un client en application de l’article 54, notamment :
+
 i. préciser la forme sous laquelle le titulaire de permis doit effectuer le transfert et le moment où il doit le faire,
+
 ii. préciser les droits et obligations des parties si le titulaire de permis ne se conforme pas à l’exigence,
+
 iii. préciser les droits de tout autre fournisseur de services de gestion de condominiums ou gestionnaire de condominiums qui fournit des services de gestion de condominiums au client après le moment où le titulaire de permis était tenu d’effectuer le transfert, s’il ne l’a pas fait;
+
 19. régir la réalisation et la conservation de copies de documents et dossiers par le titulaire de permis en vertu du paragraphe 54 (2), notamment :
+
 i. préciser les conditions applicables à la réalisation de copies,
+
 ii. préciser la période pendant laquelle le titulaire de permis est autorisé à conserver les copies,
+
 iii. exiger que le titulaire de permis restitue les copies au client ou les détruise à l’expiration de la période mentionnée à la sous-disposition ii et régir la disposition des copies visée à la présente sous-disposition;
+
 20. préciser la marche à suivre et d’autres questions relatives aux plaintes présentées en vertu de l’article 57;
+
 21. régir la composition du comité de discipline et du comité d’appel et, sous réserve du paragraphe 58 (3), régir les questions relatives à la nomination de leurs membres;
+
 22. traiter des inspections et des enquêtes prévues par la présente loi;
+
 23. exiger que tout renseignement exigé en vertu de la présente loi se présente sous la forme approuvée par le directeur, le registrateur ou le ministre, selon ce que précise le règlement;
+
 24. préciser des règles relatives aux adresses aux fins de signification pour l’application de la présente loi;
+
 25. autoriser le directeur ou le conseil d’administration de l’organisme d’application à mettre en oeuvre des programmes d’assurance de la qualité relativement à l’application de la présente loi ou des règlements et à utiliser les renseignements recueillis en vertu de la présente loi pour les besoins de ces programmes;
+
 26. déléguer au ministre le pouvoir de prendre des règlements à l’égard de toute question qui peut faire l’objet d’un règlement pris en vertu du présent article;
+
 27. prévoir toute mesure de transition nécessaire pour la mise en application efficace de la présente loi ou des règlements, notamment :
+
 i. autoriser les personnes qui ne sont pas des titulaires de permis, mais qui fournissent des services de gestion de condominiums à des clients avant l’entrée en vigueur de l’article 34, à continuer de fournir ces services, sous réserve des exigences énoncées dans les règlements,
+
 ii. régir l’application de dispositions prescrites de la présente loi et des règlements aux titulaires de permis et aux autres personnes prescrites.
 
 ### Pouvoir résiduel d’agir
@@ -1005,4 +1249,5 @@ ii. régir l’application de dispositions prescrites de la présente loi et des
 ## Partie x (OMISE)
 
 83 Omis (entrée en vigueur de dispositions de la présente loi).
+
 84 Omis (édiction du titre abrégé de la présente loi).

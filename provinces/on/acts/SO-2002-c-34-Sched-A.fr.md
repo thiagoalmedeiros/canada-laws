@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-12-31"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02c34"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # examen des dépenses des ministres et des chefs d'un parti de l'opposition et l'obligation de rendre compte (Loi de 2002 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02c34) before relying on it.
 
 L.O. 2002, chap. 34, annexe A
 
@@ -21,13 +21,21 @@ L.O. 2002, chap. 34, annexe A
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Caisse de l’Assemblée législative» S’entend au sens de l’article 81 de la Loi sur l’Assemblée législative. («Legislative Assembly Fund»)
+
 «chef d’un parti de l’opposition» Le chef d’un parti reconnu, au sens du paragraphe 62 (5) de la Loi sur l’Assemblée législative, à l’exclusion du premier ministre. («Opposition leader»)
+
 «commissaire à l’intégrité» ou «commissaire» Le commissaire à l’intégrité nommé en application de la Loi de 1994 sur l’intégrité des députés. («Integrity Commissioner», «Commissioner»)
+
 «dépense autorisée» Dépense sujette à examen qui, selon le paragraphe 4 (1), constitue une dépense autorisée. («allowable expense»)
+
 «dépense sujette à examen» Dépense qui, selon le paragraphe 2 (1) ou (2) ou l’article 3, selon le cas, constitue une telle dépense. («reviewable expense»)
+
 «ministre» Membre du Conseil exécutif. («Cabinet minister»)
+
 «ministre désigné» Le membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée ou transférée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «règles applicables» Les règles applicables visées au paragraphe 4 (2) ou (3), selon le cas. («applicable rules») 2002, chap. 34, annexe A, art. 1
 
 ### Dépenses sujettes à examen
@@ -35,19 +43,25 @@ L.O. 2002, chap. 34, annexe A
 ### Dépenses sujettes à examen : ministres et autres
 
 2 (1) Une dépense d’un ministre ou d’une personne employée dans son bureau constitue une dépense sujette à examen au sens de la présente loi s’il est satisfait aux conditions suivantes :
+
 a) la dépense a été engagée dans l’exercice d’une fonction ministérielle;
+
 b) une demande de remboursement de la dépense sur le Trésor a été présentée.
 
 ### Idem : adjoints parlementaires et personnel
 
 (2) Une dépense d’un adjoint parlementaire ou d’une personne employée dans son bureau constitue une dépense sujette à examen au sens de la présente loi s’il est satisfait aux conditions suivantes :
+
 a) la dépense a été engagée dans l’exercice d’une fonction ministérielle ou dans l’exercice d’une fonction d’adjoint parlementaire;
+
 b) une demande de remboursement de la dépense sur le Trésor a été présentée.
 
 ### Dépenses sujettes à examen : chefs d’un parti de l’opposition et personnel
 
 3 Une dépense du chef d’un parti de l’opposition ou d’une personne employée dans son bureau constitue une dépense sujette à examen au sens de la présente loi s’il est satisfait aux conditions suivantes :
+
 a) il s’agit de frais de déplacement, d’hôtel ou d’hébergement semblable, de repas ou de représentation;
+
 b) une demande de remboursement de la dépense sur la Caisse de l’Assemblée législative a été présentée, à l’exclusion toutefois d’une demande de remboursement ayant trait au travail de circonscription du chef en sa qualité de député à l’Assemblée.
 
 ### Dépenses autorisées
@@ -75,9 +89,13 @@ b) une demande de remboursement de la dépense sur la Caisse de l’Assemblée l
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les règles peuvent :
+
 a) imposer des restrictions quant aux types de dépenses ou aux sommes dont le remboursement peut être demandé ou quant aux circonstances dans lesquelles une demande de remboursement peut être présentée;
+
 b) préciser les circonstances dans lesquelles des dépenses sont considérées comme raisonnables ou déraisonnables et appropriées ou inappropriées;
+
 c) exiger que des renseignements ou des documents précisés soient fournis ou conservés à l’appui d’une demande de remboursement;
+
 d) fixer la marche à suivre pour demander un remboursement.
 
 ### Avis public
@@ -129,6 +147,7 @@ d) fixer la marche à suivre pour demander un remboursement.
 ### Documents à l’appui
 
 (3) Les documents à l’appui doivent être joints aux demandes de remboursement remises au commissaire.
+
 (4) Abrogé : 2014, chap. 13, annexe 4, par. 5 (2).
 
 ### Examen effectué par le commissaire
@@ -138,7 +157,9 @@ d) fixer la marche à suivre pour demander un remboursement.
 ### Pouvoir relatif aux dépenses non autorisées
 
 (2) S’il détermine qu’une dépense sujette à examen ne constitue pas, selon lui, une dépense autorisée en totalité ou en partie, le commissaire peut en informer l’auteur de la demande et les autres personnes qu’il estime appropriées et peut faire ce qui suit :
+
 a) ordonner à l’auteur de la demande de rembourser le Trésor ou la Caisse de l’Assemblée législative, selon le cas, et préciser une date limite pour le faire;
+
 b) recommander que d’autres mesures correctives soient prises et préciser une date limite pour le faire.
 
 ### Exception
@@ -172,7 +193,9 @@ b) recommander que d’autres mesures correctives soient prises et préciser une
 ### Contenu
 
 (3) Le rapport du commissaire contient les renseignements que ce dernier estime appropriés et qui ne se rapportent qu’à ce qui suit :
+
 a) les demandes de remboursement des dépenses sujettes à examen qui, selon lui, constituent des dépenses autorisées;
+
 b) les demandes de remboursement des dépenses sujettes à examen à l’égard desquelles le commissaire a ordonné le remboursement d’une somme sans qu’elle ait été remboursée ou à l’égard desquelles il a recommandé la prise de mesures correctives sans qu’aucune mesure corrective qu’il estime appropriée n’ait été prise.
 
 ### Restriction
@@ -214,7 +237,9 @@ b) les demandes de remboursement des dépenses sujettes à examen à l’égard 
 ### Avis du commissaire au ministre désigné et au président de l’Assemblée concernant les dépenses autorisées
 
 14 Après avoir terminé chaque examen prévu à l’article 9 et tout examen supplémentaire prévu à l’article 12, le commissaire à l’intégrité :
+
 a) avise le ministre désigné des dépenses examinées dont le remboursement est demandé par les ministres, les adjoints parlementaires et les personnes employées dans leurs bureaux et qui, selon le commissaire, constituent des dépenses autorisées;
+
 b) avise le président de l’Assemblée des dépenses examinées dont le remboursement est demandé par les chefs d’un parti de l’opposition et les personnes employées dans leurs bureaux et qui, selon le commissaire, constituent des dépenses autorisées.
 
 ### Affichage des renseignements relatifs aux dépenses autorisées sur un site Web
@@ -234,12 +259,19 @@ b) avise le président de l’Assemblée des dépenses examinées dont le rembou
 ### Renseignements à afficher
 
 (4) Sous réserve des règles établies en vertu de l’article 16, les renseignements suivants doivent être affichés sur le site Web applicable relativement à chaque dépense qui, selon le commissaire, constitue une dépense autorisée :
+
 1. Le nom et le titre du poste de la personne qui a engagé la dépense.
+
 2. La date à laquelle la dépense a été engagée.
+
 3. Le type de dépense.
+
 4. Le montant total pour chaque type de dépense dont la personne a demandé le remboursement et pour laquelle elle a été remboursée.
+
 5. La raison de la dépense.
+
 6. Le lieu de destination ou l’endroit où la dépense a été engagée ou à l’égard duquel elle l’a été.
+
 7. Tout renseignement supplémentaire exigé en application des règles établies en vertu de l’article 16.
 
 ### Durée de l’affichage
@@ -249,8 +281,11 @@ b) avise le président de l’Assemblée des dépenses examinées dont le rembou
 ### Pouvoir d’établir des règles relatives aux renseignements à afficher
 
 16 (1) Pour l’application de l’article 15, le lieutenant-gouverneur en conseil peut, par règle :
+
 a) préciser les renseignements supplémentaires à afficher en application de la disposition 7 du paragraphe 15 (4);
+
 b) traiter des renseignements à afficher en application des dispositions 1 à 7 du paragraphe 15 (4);
+
 c) régir l’affichage des renseignements pour l’application des paragraphes 15 (1) et (2).
 
 ### Règles relatives aux renseignements à ne pas afficher
@@ -270,5 +305,7 @@ c) régir l’affichage des renseignements pour l’application des paragraphes 
 ### Loi de 1994 sur l’intégrité des députés
 
 17 La présente loi n’a pas pour effet de porter atteinte au rôle que la Loi de 1994 sur l’intégrité des députés confère au commissaire à l’intégrité.
+
 18 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 19 Omis (édicte le titre abrégé de la présente loi).

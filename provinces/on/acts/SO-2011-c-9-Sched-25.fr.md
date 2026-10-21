@@ -6,22 +6,26 @@ language: fr
 type: act
 document_date: "2019-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11m09a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # ministère de l'Énergie (Loi de 2011 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11m09a) before relying on it.
 
 L.O. 2011, chap. 9, annexe 25
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «ministère» Le ministère de l’Énergie. («Ministry»)
+
 «ministre» Le ministre de l’Énergie ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «source d’énergie renouvelable» S’entend au sens de la Loi de 1998 sur l’électricité. («renewable energy source»)
+
 «sous-ministre» Le sous-ministre de l’Énergie. («Deputy Minister») 2011, chap. 9, annexe 25, art. 1.
 
 ### Prorogation du ministère
@@ -51,14 +55,23 @@ L.O. 2011, chap. 9, annexe 25
 ### Responsabilités du ministre
 
 7 (1) Le ministre ou, sous sa direction et son contrôle, le sous-ministre :
+
 a) examine de façon continue les questions d’énergie en fonction des objectifs à court, à moyen et à long terme concernant les besoins de la province de l’Ontario en matière d’énergie;
+
 b) conseille et aide le gouvernement de l’Ontario dans ses rapports avec les autres gouvernements en ce qui concerne les questions d’énergie;
+
 c) fait des recommandations pour la coordination efficace de l’ensemble des questions d’énergie au sein du gouvernement de l’Ontario en vue de l’application uniforme des politiques à chaque domaine d’intérêt lié à l’énergie, notamment la suffisance et la fiabilité de l’approvisionnement, le caractère raisonnable des prix, la livraison efficace de l’énergie et la mise en valeur des ressources énergétiques propres à l’Ontario;
+
 d) fait des recommandations en ce qui concerne les priorités pour tous les aspects de l’énergie qui sont importants pour l’Ontario, notamment la conservation de l’énergie, l’amélioration de l’efficacité de la production et de l’utilisation de l’énergie et la mise en valeur de nouvelles sources d’énergie, et en ce qui concerne le développement de la recherche sur ces aspects;
+
 e) encourage, favorise ou élabore des activités, des projets et des programmes ou y participe lorsque le ministre l’estime indiqué :
+
 (i) pour prévoir la disponibilité d’énergie en Ontario, y compris l’énergie renouvelable,
+
 (ii) pour stimuler la recherche et la mise en valeur de sources d’énergie, y compris celles qui utilisent les déchets et celles qui sont renouvelables, susceptibles de suppléer aux autres sources d’énergie disponibles en Ontario,
+
 (iii) pour encourager la conservation de l’énergie grâce à l’élaboration de programmes et de politiques au sein du ministère ou des organismes prescrits et pour encourager la gestion de la consommation et l’utilisation de sources d’énergie renouvelable partout en Ontario,
+
 (iv) pour encourager une consommation prudente d’énergie en Ontario.
 
 ### Application des lois
@@ -68,13 +81,21 @@ e) encourage, favorise ou élabore des activités, des projets et des programmes
 ### Autorité du ministre
 
 (3) Le ministre ou, sous sa direction et son contrôle, le sous-ministre peut, relativement à toute question qui relève de la responsabilité du ministre en vertu de la présente loi ou de toute autre loi :
+
 a) faire de la recherche;
+
 b) établir des politiques;
+
 c) promouvoir la recherche, les expériences, les études de faisabilité, les projets pilotes ou projets de démonstration, les essais et les évaluations, y participer ou charger quiconque de ces activités;
+
 d) élaborer des plans et des programmes et les coordonner;
+
 e) promouvoir la diffusion de renseignements et y participer;
+
 f) conclure des ententes au nom et pour le compte de la Couronne;
+
 g) accorder des subventions;
+
 h) consentir des prêts, sous réserve de l’approbation du lieutenant-gouverneur en conseil.
 
 ### Sommes requises par le ministère
@@ -112,8 +133,11 @@ h) consentir des prêts, sous réserve de l’approbation du lieutenant-gouverne
 ### Comités consultatifs
 
 12 (1) Le lieutenant-gouverneur en conseil ou le ministre peut :
+
 a) constituer des comités consultatifs pour conseiller le ministre sur l’exercice de ses pouvoirs, fonctions et responsabilités;
+
 b) nommer les membres des comités et désigner un membre à la présidence et un ou plusieurs à la vice-présidence;
+
 c) fixer le cadre de référence des comités.
 
 ### Rémunération et indemnités
@@ -123,5 +147,7 @@ c) fixer le cadre de référence des comités.
 ### Règlements
 
 13 Le lieutenant-gouverneur en conseil peut, par règlement, prescrire des organismes pour l’application du sous-alinéa 7 (1) e) (iii).
+
 14 Omis (entrée en vigueur de dispositions de la présente loi).
+
 15 Omis (édiction du titre abrégé de la présente loi).

@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15e38"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Escheats Act, 2015
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15e38) before relying on it.
 
 S.O. 2015, c. 38, Sched. 4
 
@@ -21,30 +21,47 @@ S.O. 2015, c. 38, Sched. 4
 ### Definitions
 
 1 (1) In this Act,
+
 “charitable corporation” means a corporation that is incorporated for charitable purposes; (“organisation caritative”)
+
 “charitable property” means,
+
 (a) any property held by a charitable corporation, and
+
 (b) any property held for charitable purposes by a corporation that is not a charitable corporation; (version anglaise seulement)
+
 “charitable purposes” means,
+
 (a) the relief of poverty,
+
 (b) education,
+
 (c) the advancement of religion, and
+
 (d) any other purpose that is beneficial to the community; (“fins de bienfaisance”)
+
 “Minister” means the Attorney General or any other member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “prior owner”, when used in reference to property, means the person who owned or was otherwise seised of or entitled to the property immediately before the property became property of which the Public Guardian and Trustee may take possession under section 2; (“ancien propriétaire”)
+
 “regulations” means the regulations made under this Act. (“règlements”)
 
 ### Prior owner
 
 (2) For greater certainty, the prior owner of property is,
+
 (a) in the circumstances described in paragraph 1 of subsection 2 (1), the deceased individual; and
+
 (b) in the circumstances described in paragraph 2 of subsection 2 (1), the dissolved corporation.
 
 ### Property
 
 (3) In this Act, a reference to property includes,
+
 (a) any right to or interest in the property; and
+
 (b) proceeds of disposition of the property.
 
 ### Property of which possession may be taken
@@ -58,21 +75,33 @@ S.O. 2015, c. 38, Sched. 4
 ### Possession, proceedings re property
 
 2 (1) Subject to subsection (2), the Public Guardian and Trustee may, without an inquisition first being made, take possession in the name of the Crown of any property if, in the opinion of the Public Guardian and Trustee, one of the following circumstances applies:
+
 1. The property has become the property of the Crown because an individual died,
+
 i. either intestate or partially intestate, if there are no lawful heirs, or
+
 ii. testate, if some or all of the heirs, bequests or devises in the will have failed and there are no lawful heirs.
+
 2. The property has become the property of the Crown as a result of the dissolution of a corporation.
+
 3. Neither of the circumstances described in paragraph 1 or 2 applies and the property has become the property of the Crown by escheat or as bona vacantia.
+
 4. The circumstances described in paragraph 2 do not apply and the property has become the property of the Crown because it forfeited to the Crown for any cause.
 
 ### Exceptions
 
 (2) Subsection (1) does not apply in respect of the following property:
+
 1. Forfeited property, if another Act specifically excludes the operation of this Act with respect to the property.
+
 2. Forfeited corporate property within the meaning of the Forfeited Corporate Property Act, 2015.
+
 3. Transferred unclaimed amounts held by the Financial Services Regulatory Authority under the Credit Unions and Caisses Populaires Act, 2020.
+
 4. Mining lands as defined in the Mining Act.
+
 5. Mining rights, as defined in the Mining Act, that are severed or held separate and apart from surface rights as defined in the Mining Act.
+
 6. Property subject to subsection 53 (1) of the Mining Act.
 
 ### Proceedings for recovery, declaration
@@ -92,7 +121,9 @@ ii. testate, if some or all of the heirs, bequests or devises in the will have f
 ### Power to grant etc.
 
 (2) Unless property to which this section applies has been paid into the Consolidated Revenue Fund, the Public Guardian and Trustee may, as he or she considers to be proper,
+
 (a) grant all or part of the property to any person for the purpose of transferring or restoring it to a person having a legal or moral claim upon the person to whom it belonged, or of carrying into effect any disposition of it that such person may have contemplated; or
+
 (b) waive or release any right to which the Crown has become entitled so as to vest the property, either absolutely or otherwise, in the person who would have been entitled to it but for the property becoming property to which this section applies.
 
 ### Same
@@ -106,7 +137,9 @@ ii. testate, if some or all of the heirs, bequests or devises in the will have f
 ### Limitation period, forfeited property
 
 (5) Subject to subsection (6), no petition for a grant, waiver or release under this section shall be made after the 10th anniversary of,
+
 (a) the day this Act comes into force, if the property becomes property to which this section applies before the day this Act comes into force; or
+
 (b) the day on which the property becomes property to which this section applies, in any other case.
 
 ### Extension
@@ -174,7 +207,9 @@ ii. testate, if some or all of the heirs, bequests or devises in the will have f
 ### Interest
 
 (3) Interest as determined under the Public Guardian and Trustee Act is payable only with respect to any period during which property to which this section applies was money administered by the Public Guardian and Trustee, until the earlier of the following dates:
+
 1. 10 years after the death of the prior owner.
+
 2. The day the money is paid into the Consolidated Revenue Fund.
 
 ### Recovery from the Consolidated Revenue Fund
@@ -252,13 +287,21 @@ ii. testate, if some or all of the heirs, bequests or devises in the will have f
 ### Immunities
 
 (2) No action or other proceeding shall be commenced and no order shall be made against the Crown, the Minister, the Deputy Minister, the Public Guardian and Trustee, any servant or agent of the Crown or any other official of or employee of the Crown,
+
 (a) in respect of property of which the Public Guardian and Trustee may take possession under section 2, whether or not he or she has actually done so; or
+
 (b) for any of the following:
+
 (i) Any act, neglect, default or omission of a tenant or other person who is using, occupying or trespassing on property mentioned in clause (a) that occurs on or otherwise affects the property.
+
 (ii) Any act, neglect, default or omission of any prior owner of property mentioned in clause (a).
+
 (iii) Any act, neglect, default or omission of a person who holds any interest in property described in clause (a) that,
+
 (A) relates to enforcement of the interest, or
+
 (B) occurs on or otherwise affects the property.
+
 (iv) Any act, neglect, default or omission of a director, officer, employee, agent, independent contractor, invitee, shareholder or member of a person mentioned in subclause (i), (ii) or (iii).
 
 ### Conflict
@@ -268,7 +311,9 @@ ii. testate, if some or all of the heirs, bequests or devises in the will have f
 ### Same
 
 (4) No action or other proceeding shall be commenced and no order shall be made against the Minister, the Deputy Minister, the Public Guardian and Trustee, any servant or agent of the Crown or any other official of or employee of the Crown for any of the following:
+
 1. Any act done or performed in good faith in the performance or intended performance of any duty or function or in the exercise or intended exercise of any power or authority under this Act.
+
 2. Any neglect, default or omission in the performance or exercise in good faith of any duty, function, power or authority under this Act.
 
 ### Same
@@ -278,7 +323,9 @@ ii. testate, if some or all of the heirs, bequests or devises in the will have f
 ### Saving
 
 (6) For greater certainty, subsections (1), (2) and (4) do not,
+
 (a) prevent the issuing of an order against the Crown in respect of the property if the order is authorized under another Act and the provisions of that Act authorizing the order bind the Crown; or
+
 (b) impose any new obligations on the Crown in respect of the property.
 
 ### Public Guardian and Trustee’s decisions final
@@ -288,7 +335,9 @@ ii. testate, if some or all of the heirs, bequests or devises in the will have f
 ### No entitlement to notice
 
 12 (1) A person is not entitled to receive a notice under this Act if,
+
 (a) the person expressly waives the entitlement to receive notice, either before or after the notice is given; or
+
 (b) after a reasonable search, the Public Guardian and Trustee is unable to find the person’s address and the Public Guardian and Trustee is not otherwise aware of the address.
 
 ### Same, corporation dissolved for more than 20 years
@@ -316,8 +365,11 @@ ii. testate, if some or all of the heirs, bequests or devises in the will have f
 ### Same
 
 (5) An order cancelling an interest may include any of the following:
+
 1. If the interest is registered on title to real property, direction to delete specified documents from the title.
+
 2. If the interest is in personal property and a registration was made in respect of the interest in the registration system established under the Personal Property Security Act, direction to amend the information recorded in the central file of the registration system in a specified manner.
+
 3. In the prescribed circumstances, direction to amend or delete information recorded in any other prescribed public registry.
 
 ### Interests not enforceable or valid
@@ -357,8 +409,11 @@ ii. testate, if some or all of the heirs, bequests or devises in the will have f
 ### Payment into the Consolidated Revenue Fund
 
 (3) If the Public Guardian and Trustee has taken possession of property under section 2, he or she may pay the property, if it is money, into the Consolidated Revenue Fund at any time, subject to the following rules:
+
 1. If the prior owner was an individual, the property shall be paid no later than the last day of the fiscal year in which the 10th anniversary of the individual’s death occurs.
+
 2. If the prior owner was a corporation, the property shall be paid no later than the last day of the fiscal year in which the 10th anniversary of the corporation’s dissolution occurs.
+
 3. If neither paragraph 1 nor 2 applies, the property shall be paid no later than the last day of the fiscal year in which the 10th anniversary of the Public Guardian and Trustee taking possession of the property occurs.
 
 ### Delayed payment
@@ -388,18 +443,27 @@ ii. testate, if some or all of the heirs, bequests or devises in the will have f
 ### Amounts due to the Crown
 
 16 (1) The Public Guardian and Trustee may determine the following amounts in connection with property of which the Public Guardian and Trustee may take possession under section 2, whether or not he or she has actually done so, in accordance with the regulations, if any:
+
 1. The amount of costs the Crown incurred, including,
+
 i. costs incurred before the day this Act comes into force, and
+
 ii. costs incurred in connection with the disposition of the property.
+
 2. Reasonable amounts for time and resources expended by employees of the Crown.
+
 3. Fees and expenses of the Public Guardian and Trustee referred to in subsections 8 (1), (1.1) and (1.2) of the Public Guardian and Trustee Act.
+
 4. Amounts the Crown may be obligated to pay under an agreement.
 
 ### Debt owing to Crown
 
 (2) Amounts determined under subsection (1) are a debt due to the Crown and may be recovered, among other ways,
+
 (a) out of all or any part of the property;
+
 (b) from any other property of the prior owner of the property; or
+
 (c) where the prior owner is a corporation, by obtaining an order under section 17 requiring a former officer or director of the prior owner to pay some or all of the amounts.
 
 ### Same, priority
@@ -413,7 +477,9 @@ ii. costs incurred in connection with the disposition of the property.
 ### Order against former officers and directors
 
 17 (1) If the Public Guardian and Trustee may take possession of property under paragraph 2 of subsection 2 (1), whether or not he or she has actually done so, he or she may apply to the Superior Court of Justice for an order,
+
 (a) determining the individuals who were the officers or directors of the prior owner; and
+
 (b) requiring the individuals determined under clause (a) to pay some or all amounts determined under section 16.
 
 ### Same
@@ -443,46 +509,67 @@ ii. costs incurred in connection with the disposition of the property.
 ### Contents of report
 
 (2) The report shall contain the following information:
+
 1. The name of the prior owner of each property that was granted, waived, released, transferred or assigned in the preceding year.
+
 2. The name of each person to whom property was granted, waived, released, transferred or assigned.
+
 3. A description of each property that was granted, waived, released, transferred or assigned.
+
 4. The date on which each property was granted, waived, released, transferred or assigned.
+
 5. Any prescribed information.
 
 ### Information regarding grants, etc.
 
 19 The Public Guardian and Trustee shall provide the following information to any person who requests it if, as part of the request, the person identifies the prior owner of property that has been granted, waived, released, transferred or assigned by the Public Guardian and Trustee under subsection 3 (2), 4 (2), 7 (2) or (4):
+
 1. The name of each person to whom the property was granted, waived, released, transferred or assigned.
+
 2. A description of the property that was granted, waived, released, transferred or assigned.
+
 3. The date on which the property was granted, waived, released, transferred or assigned.
+
 4. Any prescribed information.
 
 ### Personal information
 
 20 (1) The Public Guardian and Trustee is authorized to collect personal information under this Act for the following purposes:
+
 1. Determining whether this Act applies to property.
+
 2. Determining whether to take possession of property, conducting an investigation and valuing the property.
+
 3. Administering property for the Crown.
+
 4. Administering this Act, the Forfeited Corporate Property Act, 2015 or any other Ontario law governing corporate dissolution or property of which the Public Guardian and Trustee may take possession under section 2.
+
 5. Administering the Crown Administration of Estates Act or carrying out a duty of the Public Guardian and Trustee under any other Act.
 
 ### Direct or indirect collection
 
 (2) The collection authorized by subsection (1) may be done,
+
 (a) directly; or
+
 (b) indirectly, if indirect collection is reasonably required in the circumstances.
 
 ### General notice of collection
 
 (3) If the Public Guardian and Trustee collects personal information indirectly, he or she shall give a general notice of collection in one or both of the following ways:
+
 1. Posting the notice on the relevant property.
+
 2. Publishing the notice on a Government website or on another website available to the public.
 
 ### Contents
 
 (4) A notice under subsection (3) shall contain,
+
 (a) a description of the type of personal information that is collected;
+
 (b) a statement of the principal purpose for which the personal information is intended to be used; and
+
 (c) the title, business address and business telephone number of a public official who can answer questions about the collection.
 
 ### Deemed compliance with Freedom of Information and Protection of Privacy Act, s. 39 (2)
@@ -492,8 +579,11 @@ ii. costs incurred in connection with the disposition of the property.
 ### Notice requiring provision of information
 
 21 (1) The Public Guardian and Trustee may give a notice requiring any person or entity to provide information that is in the person’s or entity’s possession or control and, in the opinion of the Public Guardian and Trustee, may relate to property or the prior owner of property of which the Public Guardian and Trustee may take possession under section 2, whether or not he or she has actually done so, including the following information:
+
 1. Personal information, including contact information of a person or entity to whom the Public Guardian and Trustee intends to give a notice under this Act.
+
 2. Information about property that is or that may be property of which the Public Guardian and Trustee may take possession under section 2, including records of a prior owner of the property and information about activities of any person or entity purporting to act in respect of the property.
+
 3. Information about any interest held in property that existed before the property became property of which the Public Guardian and Trustee may take possession under section 2.
 
 ### Oath or affirmation
@@ -503,7 +593,9 @@ ii. costs incurred in connection with the disposition of the property.
 ### Form, manner and timing
 
 (3) The notice may,
+
 (a) specify the form and manner in which the information shall be provided; and
+
 (b) require that the information be provided before the date specified in the notice.
 
 ### Requirement to comply
@@ -529,10 +621,15 @@ ii. costs incurred in connection with the disposition of the property.
 ### Use and disclosure of information
 
 23 Information that is collected under this Act may be used and disclosed for the following purposes:
+
 1. Determining whether this Act applies to property.
+
 2. Determining whether to take possession of property, conducting an investigation and valuing the property.
+
 3. Administering property for the Crown.
+
 4. Administering this Act, the Forfeited Corporate Property Act, 2015 or any other Ontario law governing corporate dissolution or property of which the Public Guardian and Trustee may take possession under section 2.
+
 5. Administering the Crown Administration of Estates Act or carrying out a duty of the Public Guardian and Trustee under any other Act.
 
 ### Legislation Act, 2006
@@ -542,12 +639,21 @@ ii. costs incurred in connection with the disposition of the property.
 ### Regulations
 
 25 The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing steps the Public Guardian and Trustee is required to take with respect to an order that includes a direction described in paragraph 3 of subsection 13 (5);
+
 (b) prescribing steps that a person responsible for a prescribed public registry is required to take in response to an order mentioned in clause (a);
+
 (c) governing the determination of amounts under section 16;
+
 (d) defining any word or expression used in this Act that has not already been expressly defined in this Act;
+
 (e) providing for such transitional matters as the Lieutenant Governor in Council considers necessary or advisable in connection with the implementation of this Act;
+
 (f) prescribing anything that, under this Act, may or must be prescribed or done by regulation.
+
 26 -31 Omitted (amends, repeals or revokes other legislation).
+
 32 Omitted (provides for coming into force of provisions of this Act).
+
 33 Omitted (enacts short title of this Act).

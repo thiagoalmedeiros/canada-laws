@@ -6,43 +6,64 @@ language: fr
 type: act
 document_date: "2023-10-26"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o25b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Programme ontarien de soutien aux personnes handicapées (Loi de 1997 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o25b) before relying on it.
 
 L.O. 1997, chap. 25, annexe B
 
 ### Objet
 
 1 La présente loi a pour objet de créer un programme qui :
+
 a) fournit un soutien du revenu et un soutien de l’emploi aux personnes handicapées admissibles;
+
 b) reconnaît que le gouvernement, les collectivités, les familles et les particuliers partagent la responsabilité de fournir de telles formes de soutien;
+
 c) sert efficacement les personnes handicapées qui ont besoin d’aide;
+
 d) comprend l’obligation de rendre compte aux contribuables de l’Ontario.
 
 ### Définitions
 
 2 Les définitions qui suivent s’appliquent à la présente loi.
+
 «auteur de demande» La personne qui présente une demande de soutien du revenu ou au nom de laquelle une telle demande est présentée. («applicant»)
+
 «bénéficiaire» La personne qui reçoit le soutien du revenu. («recipient»)
+
 «conseil d’administration de district des services sociaux» Conseil créé en vertu de la Loi sur les conseils d’administration de district des services sociaux. («district social services administration board»)
+
 «coordonnateur des services» L’organisme ou la personne qu’approuve le directeur en vertu de l’article 48 pour fournir ou acheter le soutien de l’emploi. («service co-ordinator»)
+
 «directeur» Le directeur du Programme ontarien de soutien aux personnes handicapées nommé par le ministre. («Director»)
+
 «groupe de prestataires» Une personne et toutes les personnes à sa charge au nom desquelles elle reçoit le soutien du revenu ou présente une demande à cet effet. («benefit unit»)
+
 «ministre» et «ministère» Le ministre et le ministère des Services sociaux et communautaires. («Minister», «Ministry»)
+
 «personne handicapée» La personne reconnue comme personne handicapée aux termes de l’article 4. («person with a disability»)
+
 «prescrit» Prescrit par les règlements pris en application de la présente loi. («prescribed»)
+
 «prestations» Les articles, services ou versements prescrits, à l’exclusion toutefois des prestations prolongées pour services de santé. («benefits»)
+
 «prestations prolongées pour services de santé» Les articles, services ou versements prescrits qui sont fournis en vertu de l’article 49.1. («extended health benefits»)
+
 «règlements» Les règlements pris en application de la présente loi. («regulations»)
+
 «renseignements biométriques» Renseignements dérivés de caractéristiques uniques d’un particulier, à l’exclusion toutefois d’une image photographique et de l’image d’une signature. («biometric information»)
+
 «renseignements personnels» Renseignements personnels au sens de la Loi sur l’accès à l’information et la protection de la vie privée. («personal information»)
+
 «soutien de l’emploi» Les biens ou services prescrits qui sont fournis à une personne afin d’éliminer les obstacles qui l’empêchent d’obtenir un emploi soumis à la concurrence et de l’aider à atteindre cet objectif. («employment supports»)
+
 «soutien du revenu» Aide au titre des besoins essentiels, du logement, des coûts liés au handicap d’une personne et des autres besoins prescrits. S’entend notamment des prestations. («income support»)
+
 «Tribunal» Le Tribunal de l’aide sociale créé aux termes de la Loi de 1997 sur le programme Ontario au travail. («Tribunal») 1997, chap. 25, annexe B, art. 2
 
 ## PARTIE I SOUTIEN DU REVENU : ADMISSIBILITÉ ET VERSEMENT
@@ -58,8 +79,11 @@ d) comprend l’obligation de rendre compte aux contribuables de l’Ontario.
 ### Personnes handicapées
 
 4 (1) Est une personne handicapée pour l’application de la présente partie la personne qui satisfait aux conditions suivantes :
+
 a) elle a une déficience physique ou mentale importante qui est continue ou récurrente et dont la durée prévue est d’au moins un an;
+
 b) l’effet direct et cumulatif de la déficience sur la capacité de la personne de prendre soin d’elle-même, de fonctionner dans la collectivité et de fonctionner dans un lieu de travail se traduit par une limitation importante d’une ou de plusieurs de ces activités de la vie quotidienne;
+
 c) cette déficience et sa durée probable ainsi que les limites des activités de la vie quotidienne ont été confirmées par une personne qui a les qualités prescrites.
 
 ### Décisions
@@ -69,19 +93,29 @@ c) cette déficience et sa durée probable ainsi que les limites des activités 
 ### Admissibilité au soutien du revenu
 
 5 (1) Nul n’est admissible au soutien du revenu à moins de satisfaire aux conditions suivantes :
+
 a) la personne répond aux exigences du paragraphe 3 (1);
+
 b) la personne réside en Ontario;
+
 c) les besoins matériels de la personne et de toute personne à charge dépassent leur revenu et leur avoir ne dépasse pas le plafond prescrit, selon ce que prévoient les règlements;
+
 d) la personne et les personnes à charge prescrites fournissent les renseignements et l’attestation de ceux-ci qui sont exigés pour déterminer l’admissibilité, notamment :
+
 (i) les renseignements concernant l’identité, selon ce qui est prescrit,
+
 (ii) les renseignements financiers, selon ce qui est prescrit,
+
 (iii) les autres renseignements prescrits;
+
 e) la personne et toute personne à charge satisfont aux autres conditions prescrites relatives à l’admissibilité.
+
 (2) et (3) Abrogés : 2021, chap. 25, annexe 21, par. 25 (1).
 
 ### Soutien du revenu en cas de circonstances exceptionnelles
 
 6 Dans les cas qui sont exceptionnels et dans lesquels une enquête révèle qu’il serait souhaitable de fournir le soutien du revenu à une personne qui n’y est pas admissible, le lieutenant-gouverneur en conseil peut, par décret, ordonner que le soutien du revenu soit fourni à la personne conformément aux conditions du décret.
+
 7 A brogé : 2009, chap. 33, annexe 8, par. 4 (3).
 
 ### Entente de remboursement et cession
@@ -95,15 +129,21 @@ e) la personne et toute personne à charge satisfont aux autres conditions presc
 ### Idem
 
 (3) Le présent article ne s’applique pas à ce qui suit :
+
 a) un versement qui ne serait pas un revenu ou un élément d’actif aux termes de la présente loi ou des règlements;
+
 b) la portion des gains tirés d’un emploi, du revenu de pension ou d’un autre revenu prescrit qui est versée à l’égard d’une période après celle au cours de laquelle la personne reçoit le soutien du revenu.
 
 ### Inobservation
 
 9 (1) Si l’auteur d’une demande, un bénéficiaire ou une personne à charge ne se conforme pas ou ne satisfait pas à une condition d’admissibilité au soutien du revenu, le directeur prend, selon ce qui est prescrit, l’une ou l’autre des mesures suivantes :
+
 1. Il refuse d’accorder le soutien du revenu.
+
 2. Il déclare cette personne non admissible au soutien du revenu pour la période prescrite.
+
 3. Il réduit ou annule le soutien du revenu ou la fraction de celui-ci qui est fourni au profit de cette personne.
+
 4. Il suspend le soutien du revenu ou la fraction de celui-ci qui est fourni au profit de cette personne.
 
 ### Rétablissement
@@ -157,8 +197,11 @@ b) la portion des gains tirés d’un emploi, du revenu de pension ou d’un aut
 ### Recouvrement de paiements excédentaires versés dans le cadre d’autres programmes
 
 (3) Un paiement excédentaire pouvant faire l’objet d’une exécution forcée à l’égard d’un bénéficiaire ou de son conjoint aux termes de la Loi de 1997 sur le programme Ontario au travail, de la Loi sur les prestations familiales ou de la Loi sur l’aide sociale générale peut être recouvré aux termes de la présente loi même s’il a été versé, selon le cas :
+
 a) par un agent de prestation des services aux termes de la Loi de 1997 sur le programme Ontario au travail ;
+
 b) par un administrateur de l’aide sociale aux termes de la Loi sur l’aide sociale générale ;
+
 c) par le directeur aux termes de la Loi sur les prestations familiales.
 
 ### Modes de recouvrement
@@ -184,8 +227,11 @@ c) par le directeur aux termes de la Loi sur les prestations familiales.
 ### Effet de l’avis
 
 (2) La décision selon laquelle un paiement excédentaire a été versé est définitive et exécutoire à l’égard du bénéficiaire comme s’il s’agissait d’une ordonnance de la Cour supérieure de justice si les conditions suivantes sont réunies :
+
 a) un avis de la décision a été donné en vertu du paragraphe (1);
+
 b) le délai prévu pour interjeter appel devant le Tribunal a expiré;
+
 c) aucun appel n’a été interjeté.
 
 ### Effet de l’appel
@@ -207,13 +253,17 @@ c) aucun appel n’a été interjeté.
 ### Insaisissabilité du soutien du revenu
 
 18 (1) Le soutien du revenu prévu par la présente loi ne peut faire l’objet :
+
 a) ni d’une aliénation ou d’un transfert par le bénéficiaire;
+
 b) ni d’une saisie-arrêt, d’une saisie, d’une saisie-exécution ou d’une mise sous séquestre aux termes d’une autre loi.
 
 ### Déduction relative à une somme due au titre des obligations alimentaires envers la famille
 
 (2) Malgré le paragraphe (1), le directeur peut déduire une fraction du soutien du revenu pour recouvrer, selon le cas :
+
 a) le montant d’une ordonnance de retenue des aliments qui est exécutoire à l’égard d’un membre du groupe de prestataires aux termes de l’article 20 de la Loi de 1996 sur les obligations familiales et l’exécution des arriérés d’aliments ;
+
 b) les dettes prescrites d’un membre du groupe de prestataires à l’endroit du gouvernement.
 
 ### Montant maximal déduit
@@ -245,7 +295,9 @@ b) les dettes prescrites d’un membre du groupe de prestataires à l’endroit 
 ### Idem
 
 (3) La décision du directeur qui est susceptible d’appel est définitive :
+
 a) à l’expiration du délai prescrit pour demander une révision interne, si aucune révision interne n’est demandée entre temps;
+
 b) le premier en date du jour de l’expiration du délai prescrit pour mener à terme la révision interne, du jour où sont reçus les résultats de la révision interne et du jour où les résultats de la révision interne sont réputés avoir été reçus aux termes de l’article 50, si une révision interne a été demandée.
 
 ### Décisions susceptibles d’appel
@@ -255,10 +307,15 @@ b) le premier en date du jour de l’expiration du délai prescrit pour mener à
 ### Exceptions
 
 (2) Il ne peut être interjeté appel des questions suivantes devant le Tribunal :
+
 1. Une décision concernant le soutien du revenu discrétionnaire.
+
 2. Une décision du lieutenant-gouverneur en conseil concernant le soutien du revenu fourni dans des circonstances exceptionnelles.
+
 3. La décision de fournir une fraction du soutien du revenu directement à un tiers.
+
 4. La modification, le refus ou l’annulation du soutien du revenu en raison d’une modification apportée à la présente loi ou aux règlements.
+
 5. Une décision prescrite.
 
 ### Soutien de l’emploi : aucun appel
@@ -340,9 +397,13 @@ b) le premier en date du jour de l’expiration du délai prescrit pour mener à
 ### Ordonnance du Tribunal
 
 26 (1) Dans un appel interjeté devant lui, le Tribunal peut :
+
 a) rejeter l’appel;
+
 b) admettre l’appel;
+
 c) admettre une partie de l’appel;
+
 d) renvoyer la question au directeur pour réexamen conformément aux directives que le Tribunal juge indiquées.
 
 ### Motifs
@@ -370,8 +431,11 @@ d) renvoyer la question au directeur pour réexamen conformément aux directives
 ### Appel rejeté
 
 29 (1) Un appel interjeté devant le Tribunal est rejeté si :
+
 a) l’appelant ne dépose pas les renseignements exigés à l’égard de l’appel dans le délai prévu sans avoir de motif raisonnable;
+
 b) dans le cas d’une audience exigeant la comparution en personne, l’appelant ne s’y présente pas aux date, heure et lieu fixés sans avoir de motif raisonnable;
+
 c) dans le cas d’une audience tenue par téléphone, vidéoconférence ou un autre moyen, l’appelant n’est pas disponible aux fins de l’audience sans avoir de motif raisonnable.
 
 ### Restriction relative à un appel subséquent
@@ -405,9 +469,13 @@ c) dans le cas d’une audience tenue par téléphone, vidéoconférence ou un a
 ### Pouvoir de la Cour divisionnaire
 
 (5) Dans un appel d’une décision du Tribunal interjeté devant elle, la Cour divisionnaire peut :
+
 a) rejeter l’appel;
+
 b) admettre l’appel;
+
 c) admettre une partie de l’appel;
+
 d) renvoyer la question au Tribunal ou au directeur pour réexamen conformément aux directives que la Cour divisionnaire juge indiquées.
 
 ### Idem
@@ -423,15 +491,21 @@ d) renvoyer la question au Tribunal ou au directeur pour réexamen conformément
 ### Bénéficiaires du soutien de l’emploi
 
 (2) Le soutien de l’emploi peut être fourni à une personne si elle est admissible au soutien du revenu aux termes de la partie I ou si elle satisfait aux conditions suivantes :
+
 a) elle a une déficience physique ou mentale qui est continue ou récurrente et dont la durée prévue est d’au moins un an, et qui constitue un obstacle important à l’obtention d’un emploi soumis à la concurrence;
+
 b) l’application de l’alinéa a) à son égard a été confirmée par une personne qui a les qualités prescrites.
 
 ### Admissibilité au soutien de l’emploi
 
 33 Nul n’est admissible au soutien de l’emploi prévu par la présente loi à moins qu’il ne puisse être fourni à la personne aux termes de l’article 32 et que celle-ci ne satisfasse aux conditions suivantes :
+
 a) elle réside en Ontario;
+
 b) elle a l’intention et est capable de se préparer pour obtenir un emploi soumis à la concurrence, d’accepter un tel emploi ou de le garder;
+
 c) elle n’est pas membre d’une catégorie prescrite de personnes qui ne sont pas admissibles au soutien de l’emploi;
+
 d) elle conclut une entente de participation financière avec un coordonnateur des services fondée sur un plan de recherche d’un emploi soumis à la concurrence.
 
 ### Demande de soutien de l’emploi
@@ -441,7 +515,9 @@ d) elle conclut une entente de participation financière avec un coordonnateur d
 ### Détermination de l’admissibilité
 
 35 (1) Le coordonnateur des services qui reçoit une demande détermine ce qui suit conformément à la présente loi et aux règlements :
+
 a) l’admissibilité de la personne qui présente la demande au soutien de l’emploi;
+
 b) le montant de la contribution financière éventuelle, de la part de la personne qui présente la demande, au titre du coût de la fourniture du soutien de l’emploi.
 
 ### Idem
@@ -451,10 +527,15 @@ b) le montant de la contribution financière éventuelle, de la part de la perso
 ### Suspension ou annulation du soutien de l’emploi
 
 36 (1) Sous réserve du paragraphe (2), le coordonnateur des services peut, dans les cas suivants, suspendre ou annuler le soutien de l’emploi qui est fourni à une personne :
+
 a) elle cesse d’être admissible à ce soutien;
+
 b) elle n’utilise pas ce soutien;
+
 c) pendant qu’elle utilise ce soutien, la personne ne fait pas de progrès satisfaisants pour ce qui est d’obtenir un emploi soumis à la concurrence, selon l’entente de participation financière conclue aux termes du paragraphe 35 (2);
+
 d) elle ne fournit pas au coordonnateur des services les renseignements qui sont exigés pour déterminer si elle continue d’être admissible à ce soutien;
+
 e) dans les circonstances prescrites.
 
 ### Idem
@@ -486,12 +567,19 @@ e) dans les circonstances prescrites.
 ### Pouvoirs et fonctions du directeur
 
 38 Le directeur :
+
 a) reçoit les demandes de soutien du revenu;
+
 b) détermine l’admissibilité de chaque auteur de demande au soutien du revenu;
+
 c) si l’auteur de la demande est déclaré admissible au soutien du revenu, en détermine le montant et en ordonne la fourniture;
+
 d) applique la présente loi et les règlements;
+
 e) détermine la façon de répartir le paiement des coûts engagés aux fins de l’application de la présente loi et de la fourniture du soutien du revenu;
+
 f) veille à ce que les versements appropriés soient effectués ou retenus, selon le cas;
+
 g) exerce les pouvoirs et les fonctions prescrits.
 
 ### Entente relative à la prestation du soutien du revenu
@@ -525,14 +613,19 @@ g) exerce les pouvoirs et les fonctions prescrits.
 ### Assimilation
 
 (8) La mention du directeur dans la présente loi ou les règlements est réputée une mention d’un administrateur d’une zone géographique si :
+
 a) d’une part, une entente a été conclue en vertu du présent article avec la municipalité, la bande, le conseil ou la personne à l’égard de la zone géographique;
+
 b) d’autre part, la mention du directeur dans la présente loi ou les règlements est faite à l’égard d’une question dont la municipalité, la bande, le conseil ou la personne est chargé aux termes de l’entente.
 
 ### Supervision par le directeur
 
 (9) Si une entente a été conclue en vertu du présent article, le directeur :
+
 a) supervise l’application de la présente loi et la fourniture du soutien du revenu ou de l’aide financière prévue à l’article 49 par l’agent de prestation des services et vérifie les coûts que celui-ci a engagés à ces fins;
+
 b) veille à ce que les versements appropriés soient faits à l’agent de prestation des services ou retenus, selon le cas, conformément à la présente loi et aux règlements;
+
 c) supervise l’observation des exigences en matière de collecte, d’utilisation et de divulgation des renseignements personnels et de protection de leur caractère confidentiel.
 
 ### Normes
@@ -656,9 +749,13 @@ c) supervise l’observation des exigences en matière de collecte, d’utilisat
 ### Idem
 
 (3) Une demande visée au présent article ne doit pas dépasser le total des coûts suivants :
+
 a) les coûts engagés, par suite de la perte, pour le soutien du revenu ou le soutien de l’emploi qui ont déjà été fournis à la personne;
+
 b) les coûts qui seront vraisemblablement engagés, par suite de cette perte, pour le soutien du revenu ou le soutien de l’emploi futurs;
+
 c) les coûts engagés, par suite de cette perte, pour l’aide sociale fournie aux termes de la Loi sur l’aide sociale générale, de la Loi sur les prestations familiales ou de la Loi de 1997 sur le Programme Ontario au travail ou pour l’aide fournie aux termes de la Loi sur les services de réadaptation professionnelle, par la personne chargée dans chaque cas de l’application de la loi en question;
+
 d) les coûts engagés, par suite de cette perte, aux termes d’une loi prescrite.
 
 ### Idem
@@ -668,18 +765,27 @@ d) les coûts engagés, par suite de cette perte, aux termes d’une loi prescri
 ### Ententes conclues avec d’autres compétences
 
 53 (1) Le ministre peut conclure avec l’un ou l’autre des gouvernement ou entités suivants une entente à l’égard de la collecte, de l’utilisation et de la divulgation de renseignements :
+
 1. Le gouvernement du Canada ou un de ses ministères ou organismes.
+
 2. Le gouvernement d’une province ou d’un territoire du Canada, ou un de ses ministères ou organismes.
+
 3. Le gouvernement des États-Unis ou le gouvernement d’un État des États-Unis ou un des ministères ou organismes de l’un ou l’autre de ces gouvernements.
+
 4. Une entité qui est une institution au sens de la Loi sur l’accès à l’information et la protection de la vie privée ou de la Loi sur l’accès à l’information municipale et la protection de la vie privée.
+
 5. Le gouvernement d’un autre pays ou un de ses ministères ou organismes.
+
 6. Les autres entités prescrites.
 
 ### Divulgation de renseignements personnels
 
 (2) Le ministre peut divulguer à un gouvernement ou à une entité visés au paragraphe (1) les renseignements personnels visés au paragraphe (4) si les conditions suivantes sont réunies :
+
 a) la divulgation est faite conformément à l’entente;
+
 b) le gouvernement ou l’entité administre ou exécute un régime de prestations sociales ou effectue une recherche à l’égard d’un tel régime, ou les renseignements ont trait à l’application ou à l’exécution de la Loi de l’impôt sur le revenu, de la Loi de 2007 sur les impôts, de la Loi de l’impôt sur le revenu (Canada), de la Loi sur l’immigration et la protection des réfugiés (Canada) ou des lois prescrites, ou à une recherche à l’égard de ces lois;
+
 c) le gouvernement ou l’entité convient de n’utiliser les renseignements qu’aux fins de l’administration ou de l’exécution d’un régime de prestations sociales ou qu’à des fins de recherche à l’égard d’un tel régime, de la Loi de l’impôt sur le revenu, de la Loi de 2007 sur les impôts, de la Loi de l’impôt sur le revenu (Canada), de la Loi sur l’immigration et la protection des réfugiés (Canada) ou des lois prescrites.
 
 ### Caractère confidentiel
@@ -693,8 +799,11 @@ c) le gouvernement ou l’entité convient de n’utiliser les renseignements qu
 ### Aucun avis au particulier
 
 (5) Le paragraphe 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée et le paragraphe 29 (2) de la Loi sur l’accès à l’information municipale et la protection de la vie privée ne s’appliquent pas à l’égard des renseignements recueillis aux termes d’une entente conclue en vertu du paragraphe (1) si, selon le cas :
+
 a) les renseignements ont été recueillis par comparaison de données;
+
 b) la remise d’un avis au particulier aurait pour effet de contrecarrer une enquête;
+
 c) la remise d’un avis au particulier n’est pas possible.
 
 ### Collecte de renseignements personnels
@@ -748,71 +857,133 @@ c) la remise d’un avis au particulier n’est pas possible.
 ### Règlements
 
 55 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 1. prescrire les personnes à inclure dans un groupe de prestataires;
+
 2. traiter des articles, services et versements qui peuvent être inclus à titre de prestations et déterminer les personnes qui peuvent être admissibles à des prestations;
+
 3. traiter de la détermination des besoins matériels, du revenu et de l’avoir ainsi que de la valeur maximale permise de l’avoir;
+
 4. traiter de la détermination du montant du soutien du revenu à fournir ainsi que des dates et de son mode de fourniture, y compris les personnes qui y sont admissibles et la façon de déterminer quelle fraction du soutien du revenu est fournie à l’égard de chaque personne;
+
 5. prescrire les catégories de personnes admissibles au soutien du revenu pour l’application du paragraphe 3 (1);
+
 6. prescrire les qualités requises d’une personne qui peut confirmer qu’une personne est une personne handicapée pour l’application de l’article 4;
+
 7. prescrire ce qui est considéré comme étant autorisé par ordonnance pour l’application du paragraphe 5 (2);
+
 8. prescrire les questions dont il doit être tenu compte pour déterminer à quoi est attribuable une limitation importante des activités de la vie quotidienne pour l’application du paragraphe 5 (2);
+
 9. traiter des conditions d’admissibilité au soutien du revenu, notamment :
+
 (i) les conditions supplémentaires relatives à l’admissibilité au soutien du revenu,
+
 (ii) les renseignements à fournir, y compris les dates auxquelles ils sont fournis et la façon de les fournir, leur attestation et les visites à domicile,
+
 (iii) les changements de circonstances,
+
 (iv) la disposition des biens,
+
 (v) l’obligation d’obtenir une rémunération ou de réaliser une ressource financière,
+
 (vi) l’obligation de convenir de rembourser le ministère et de faire des cessions en faveur du directeur,
+
 (vii) le statut d’une personne au pays;
+
 10. traiter de la détermination de la résidence en Ontario;
+
 11. prescrire les catégories de personnes qui ne sont pas admissibles au soutien du revenu ou au soutien de l’emploi;
+
 12. Abrogée : 2009, chap. 33, annexe 8, par. 4 (7).
+
 13. traiter des demandes de soutien du revenu et des renseignements qu’elles doivent comprendre;
+
 14. exiger que les demandes et autres documents soient préparés selon une forme et de la façon approuvées par le directeur;
+
 15. traiter des conséquences de l’inobservation d’une condition d’admissibilité, y compris établir des périodes de non-admissibilité;
+
 16. traiter du rétablissement du soutien du revenu ou de son rajustement pour le porter à son niveau antérieur et de la procédure qui s’applique;
+
 17. prescrire la procédure à suivre pour déterminer s’il est nécessaire de nommer une personne pour qu’elle agisse au nom d’un bénéficiaire et la nommer aux termes de l’article 12, prévoir des mesures à l’égard de la responsabilité de la personne de rendre des comptes et prescrire des exigences en matière de présentation de rapports;
+
 18. prévoir des règles pour le versement d’une fraction du soutien du revenu pour l’application de l’article 13 directement à un tiers;
+
 19. traiter des renseignements qui doivent figurer dans un avis de décision concernant un paiement excédentaire, et traiter du calcul et du recouvrement des paiements excédentaires et des montants maximaux qui peuvent être déduits du soutien du revenu lors du recouvrement d’un paiement excédentaire;
+
 20. traiter du rapprochement des paiements excédentaires entre les agents de prestation des services dans les cas où ils sont dus à un agent de prestation des services et recouvrés par un autre, et traiter du rapprochement des paiements excédentaires recouvrés aux termes du paragraphe 14 (3);
+
 21. prescrire les dettes pour l’application du paragraphe 18 (2) et l’ordre de priorité de leur recouvrement;
+
 22. prescrire les questions supplémentaires dont il peut être interjeté appel en vertu de la présente loi;
+
 23. traiter de l’obligation d’effectuer une révision interne et de la procédure à suivre pour le faire;
+
 24. prescrire le délai dans lequel une révision interne peut être demandée et, le cas échéant, celui dans lequel elle doit être menée à terme;
+
 25. prescrire le délai dans lequel un appel peut être interjeté devant le Tribunal;
+
 26. traiter de l’interjection des appels devant le Tribunal, de leur conduite et de la procédure d’appel ainsi que du délai dans lequel les décisions doivent être rendues;
+
 27. traiter de l’obligation d’enregistrer des témoignages, que ce soit par transcription ou au moyen de notes prises par les membres lors d’une audience;
+
 28. traiter du dossier de l’instance aux fins des instances introduites devant un tribunal;
+
 29. traiter de la détermination de l’aide provisoire pour l’application de l’article 25;
+
 30. prescrire la période au cours de laquelle un nouvel appel n’est pas permis pour l’application du paragraphe 29 (2);
+
 30.1 régir les appels interjetés en vertu de la présente loi devant la Cour divisionnaire pour l’application du paragraphe 31 (1);
+
 31. prescrire le soutien de l’emploi pour l’application du paragraphe 32 (1);
+
 32. prescrire les catégories de biens ou services qui ne sont pas fournis par le programme de soutien de l’emploi;
+
 33. prescrire les qualités requises d’une personne qui peut confirmer l’admissibilité d’une personne au soutien de l’emploi pour l’application du paragraphe 32 (2);
+
 34. prescrire les éléments d’un plan de recherche d’un emploi soumis à la concurrence pour l’application de l’alinéa 33 d);
+
 35. traiter de la détermination de l’admissibilité au soutien de l’emploi et de la contribution au titre du coût de la fourniture de ce soutien pour l’application de l’article 35;
+
 36. prescrire les circonstances dans lesquelles le soutien de l’emploi peut être suspendu ou annulé pour l’application du paragraphe 36 (1);
+
 37. prescrire les normes relatives à la procédure de règlement des différends visée au paragraphe 36 (3);
+
 38. traiter du versement de subventions d’immobilisations et de fonctionnement à des organismes pour des ateliers et de subventions de fonctionnement à des organismes pour des programmes d’assistance en milieu de travail et des conditions dont elles sont assorties;
+
 39. prescrire les conditions du maintien ou de la renégociation des ententes prévoyant la prestation de services spécialisés qui sont conclues en vertu de la Loi sur les services de réadaptation professionnelle ;
+
 40. traiter des ententes relatives à la prestation du soutien du revenu, des conditions de ces ententes et des versements faits aux agents de prestation des services pour l’application de l’article 39;
+
 41. traiter des coûts engagés aux termes de la présente loi auxquels devrait s’appliquer le partage des coûts et en prévoir le mode de partage, y compris leur répartition entre l’Ontario, les municipalités et les habitants du territoire non érigé en municipalité, et prescrire les municipalités auxquelles s’applique le partage des coûts;
+
 42. traiter de la répartition entre les municipalités situées dans une zone géographique de leur part des coûts engagés aux termes de la présente loi et, à cette fin, prescrire les municipalités qui sont visées par cette répartition et le mode selon lequel le recouvrement de cette part doit être effectué;
+
 43. prévoir le recouvrement par l’Ontario auprès d’un agent de prestation des services des sommes que l’Ontario a versées aux termes de la présente loi mais dont le paiement incombe à l’agent de prestation des services ou le recouvrement par l’Ontario ou un agent de prestation des services auprès d’un bénéficiaire du soutien du revenu ou auprès de sa succession des sommes que l’Ontario ou l’agent a versées aux termes de la présente loi, et prescrire les circonstances dans lesquelles ce recouvrement peut être effectué et le mode selon lequel il peut l’être;
+
 44. prescrire les pouvoirs et les fonctions des agents de révision de l’admissibilité, des agents d’aide au recouvrement et des coordonnateurs des services et prévoir la façon dont ils exercent leurs pouvoirs et leurs fonctions;
+
 45. traiter de la fourniture de l’aide à l’égard des enfants qui ont un handicap grave pour l’application de l’article 49, notamment des questions relatives à l’admissibilité, aux demandes, aux décisions, à la réduction ou à l’annulation de l’aide financière et aux appels;
+
 45.1 traiter des articles, services et versements qui peuvent être inclus à titre de prestations prolongées pour services de santé;
+
 45.2 prescrire les catégories de personnes auxquelles peuvent être fournies des prestations prolongées pour services de santé;
+
 46. traiter de la remise d’avis pour l’application de la présente loi;
+
 47. traiter des droits de subrogation prévus à l’article 52;
+
 48. définir tout terme utilisé mais non défini dans la présente loi;
+
 49. prescrire toute question que la présente loi mentionne comme étant prescrite;
+
 50. prévoir la collecte, la conservation, l’utilisation et la divulgation des renseignements personnels visés à l’alinéa (4) a) ainsi que la protection du caractère confidentiel de ceux-ci.
 
 ### Règlements : ministre
 
 (2) Le ministre peut, par règlement :
+
 1. prescrire les normes que doit respecter un agent de prestation des services dans l’exercice de ses fonctions ainsi que la procédure et les pratiques qu’il doit suivre;
+
 2. prescrire les déclarations de principes qui s’appliquent dans l’interprétation et l’application de la présente loi et des règlements.
 
 ### Catégories de soutien du revenu
@@ -822,7 +993,9 @@ c) la remise d’un avis au particulier n’est pas possible.
 ### Renseignements
 
 (4) Un règlement pris en application de la disposition 9 du paragraphe (1) peut comprendre une exigence voulant qu’une personne :
+
 a) d’une part, fournisse une preuve qui permet de l’identifier au moyen d’images photographiques ou de renseignements biométriques codés;
+
 b) d’autre part, fournisse des renseignements personnels sur un tiers qui sont pertinents pour déterminer l’admissibilité de la personne.
 
 ### Périodes de non-admissibilité
@@ -840,15 +1013,21 @@ b) d’autre part, fournisse des renseignements personnels sur un tiers qui sont
 ### Répartition des coûts
 
 (8) Les règlements pris en application de la disposition 42 du paragraphe (1) peuvent :
+
 1. Autoriser les municipalités situées dans une zone géographique à déterminer, au moyen d’une entente, le mode de répartition de leurs coûts, sous réserve des conditions prescrites.
+
 2. Prévoir une procédure d’arbitrage pour déterminer le mode de répartition des coûts de ces municipalités.
+
 3. Énoncer le mode de répartition des coûts de ces municipalités.
 
 ### Idem
 
 (9) Les règlements visés à la disposition 1 ou 2 du paragraphe (8) peuvent :
+
 a) prévoir, provisoirement, le mode de répartition des coûts ainsi que le délai dans lequel ils doivent être payés et leur mode de paiement;
+
 b) permettre qu’une entente ou qu’une décision arbitrale s’applique aux coûts engagés et payés avant que l’entente ne soit conclue ou que la décision ne soit rendue;
+
 c) prévoir le rapprochement des versements effectués provisoirement.
 
 ### Idem
@@ -870,11 +1049,17 @@ c) prévoir le rapprochement des versements effectués provisoirement.
 ### Renseignements biométriques
 
 56 (1) Si la présente loi ou les règlements autorisent quiconque à recueillir ou à utiliser des renseignements personnels, des renseignements biométriques ne peuvent être recueillis ou utilisés qu’aux fins suivantes :
+
 1. Veiller à ce qu’un particulier ne soit inscrit qu’une seule fois à titre d’auteur de demande, de bénéficiaire, de conjoint ou d’adulte à charge.
+
 2. Authentifier l’identité d’un particulier qui prétend avoir droit au soutien du revenu.
+
 3. Permettre à un particulier de recevoir le soutien du revenu par l’intermédiaire d’une institution financière ou d’un autre fournisseur autorisé et d’en accuser réception.
+
 4. Permettre à un auteur de demande, à un bénéficiaire, à un conjoint ou à un adulte à charge d’obtenir l’accès à des renseignements personnels.
+
 5. Permettre à un particulier de faire une déclaration par un moyen électronique, notamment vocal, à toute fin autorisée aux termes de la présente loi.
+
 6. Comparer des données conformément à une entente conclue en vertu de l’article 53 afin de vérifier l’admissibilité au soutien du revenu.
 
 ### Idem
@@ -884,8 +1069,11 @@ c) prévoir le rapprochement des versements effectués provisoirement.
 ### Idem
 
 (3) Les renseignements biométriques ne doivent pas être divulgués à un tiers sauf si la divulgation est faite conformément :
+
 a) soit à une ordonnance d’un tribunal ou à un mandat;
+
 b) soit à une entente conclue en vertu de l’article 53 afin de vérifier l’admissibilité à un régime de prestations sociales, y compris un régime de prestations sociales visé par la Loi de l’impôt sur le revenu, la Loi de 2007 sur les impôts ou la Loi de l’impôt sur le revenu (Canada);
+
 c) soit à l’article 54.
 
 ### Idem
@@ -943,4 +1131,5 @@ c) soit à l’article 54.
 ### Peine
 
 (4) Quiconque est déclaré coupable d’une infraction prévue au paragraphe (1), (2) ou (3) est passible d’une amende d’au plus 5 000 $ et d’un emprisonnement d’au plus six mois, ou d’une seule de ces peines.
+
 60 Omis (édicte le titre abrégé de la présente loi).

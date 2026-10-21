@@ -6,22 +6,26 @@ language: en
 type: act
 document_date: "2021-06-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98t15"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Toronto District Heating Corporation Act, 1998
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98t15) before relying on it.
 
 S.O. 1998, c. 15, Sched. C
 
 ### Definitions
 
 1 In this Act,
+
 “Corporation” means the corporation continued under subsection 2 (1); (“société”)
+
 “Hospitals” means Mount Sinai Hospital, Sunnybrook and Women’s College Health Sciences Centre, The Hospital for Sick Children and The Toronto Hospital; (“hôpitaux”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “steam” means steam or hot water. (“vapeur”)
 
 ### Corporation continued
@@ -35,31 +39,49 @@ S.O. 1998, c. 15, Sched. C
 ### Articles of incorporation
 
 3 The following provisions shall be deemed to be the Corporation’s articles of incorporation and may be amended or restated in accordance with the Business Corporations Act:
+
 1. The name of the Corporation shall be Toronto District Heating Corporation.
+
 2. The address of the registered office of the Corporation shall be P.O. Box 310, Royal Trust Tower, Suite 4018, Toronto-Dominion Centre, Toronto, Ontario M5K 1K2.
+
 3. The number of directors of the Corporation shall be a minimum of one and a maximum of 10.
+
 4. The Corporation is authorized to issue an unlimited number of common shares. The rights, privileges, restrictions and conditions attaching to the common shares are as follows:
+
 i. Payments of Dividends: The holders of the common shares shall be entitled to receive dividends if, as and when declared by the board of directors of the Corporation out of the assets of the Corporation properly applicable to the payment of dividends in such amounts and payable in such manner as the board of directors may from time to time determine. Subject to the rights of the holders of any other class of shares of the Corporation entitled to receive dividends in priority to or concurrently with the holders of the common shares, the board of directors may in its sole discretion declare dividends on the common shares to the exclusion of any other class of shares of the Corporation.
+
 ii. Participation upon Liquidation, Dissolution or Winding Up: In the event of the liquidation, dissolution or winding up of the Corporation or other distribution of assets of the Corporation among its shareholders for the purpose of winding up its affairs, the holders of the common shares shall, subject to the rights of the holders of any other class of shares of the Corporation entitled to receive assets of the Corporation upon such a distribution in priority to or concurrently with the holders of the common shares, be entitled to participate in the distribution. Such distribution shall be made in equal amounts per share on all the common shares at the time outstanding without preference or distinction.
+
 iii. Voting Rights: The holders of the common shares shall be entitled to receive notice of and to attend all annual and special meetings of the shareholders of the Corporation and to one vote in respect of each common share held at all such meetings.
+
 5. No share in the capital of the Corporation shall be issued or transferred without the consent of the directors expressed by the votes of two-thirds of the directors at a meeting of the directors or by an instrument in writing signed by two-thirds of the directors.
+
 6. The number of shareholders of the Corporation, exclusive of persons who are in its employment and exclusive of persons who, having been formerly in the employment of the Corporation, were, while in that employment and have continued after the termination of that employment to be, shareholders of the Corporation, is limited to not more than fifty, two or more persons who are the joint registered owners of one or more shares being counted as one shareholder.
+
 7. Any invitation to the public to subscribe for securities of the Corporation is prohibited.
 
 ### Shareholders
 
 4 (1) Common shares of the Corporation shall be deemed to have been issued on the day this section comes into force to the following persons:
+
 1. Her Majesty in right of Ontario.
+
 2. The City of Toronto.
+
 3. The Governing Council of the University of Toronto.
+
 4. The Hospitals.
 
 ### Number of common shares
 
 (2) The number of common shares of the Corporation that are deemed to have been issued under subsection (1) is as follows:
+
 1. To Her Majesty in right of Ontario, 2,000 common shares.
+
 2. To the City of Toronto, 4,000 common shares.
+
 3. To The Governing Council of the University of Toronto, 2,000 common shares.
+
 4. To each of the Hospitals, the number of common shares prescribed by the regulations, so that, in total, 2,000 common shares are deemed to have been issued to the Hospitals.
 
 ### Directors
@@ -141,14 +163,21 @@ iii. Voting Rights: The holders of the common shares shall be entitled to receiv
 ### Regulations
 
 13 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) fixing, for the purpose of subsection 4 (2), the number of common shares of the Corporation that are deemed under subsection 4 (1) to have been issued to each of the Hospitals;
+
 (b) limiting the business activities in which the Corporation may engage;
+
 (c) providing for such transitional matters as the Lieutenant Governor in Council considers necessary or advisable in connection with the implementation of this Act;
+
 (d) respecting any matter that the Lieutenant Governor in Council considers necessary or advisable to carry out effectively the purposes of this Act.
 
 ### Regulations under cl. (1) (b)
 
 (2) A regulation under clause (1) (b) shall not restrict the Corporation’s ability to engage in any business activities related to the production, generation, transmission, distribution or sale of steam, chilled water, electricity or anything ancillary to steam, chilled water or electricity.
+
 14 Omitted (amends or repeals other Acts).
+
 15 Omitted (provides for coming into force of provisions of this Act).
+
 16 Omitted (enacts short title of this Act).

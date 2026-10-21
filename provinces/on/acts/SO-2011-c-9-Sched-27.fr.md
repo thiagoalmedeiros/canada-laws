@@ -6,35 +6,52 @@ language: fr
 type: act
 document_date: "2025-06-05"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11m09b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # ministère de l'Infrastructure (Loi de 2011 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11m09b) before relying on it.
 
 L.O. 2011, chap. 9, annexe 27
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «biens du gouvernement» Les biens décrits à l’article 1.1. («Government property»)
+
 «gouvernement» S’entend :
+
 a) du gouvernement de l’Ontario et de la Couronne du chef de l’Ontario;
+
 b) d’un ministère du gouvernement de l’Ontario;
+
 c) d’un organisme de la Couronne, à l’exclusion d’un collège d’arts appliqués et de technologie ouvert en vertu de la Loi de 2002 sur les collèges d’arts appliqués et de technologie de l’Ontario ;
+
 d) de tout conseil, commission, office ou organisme sans personnalité morale de la Couronne. («Government»)
+
 «ministère» Le ministère de l’Infrastructure. («Ministry»)
+
 «ministre» Sauf indication contraire du contexte, le ministre de l’Infrastructure ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «organisation du secteur public» S’entend :
+
 a) d’une municipalité, au sens de la Loi de 2001 sur les municipalités ;
+
 b) d’un conseil local, au sens du paragraphe 1 (1) de la Loi de 2001 sur les municipalités ;
+
 c) d’un conseil, au sens du paragraphe 1 (1) de la Loi sur l’éducation ;
+
 d) d’un établissement d’enseignement postsecondaire de l’Ontario qui reçoit des fonds de fonctionnement permanents du gouvernement;
+
 e) d’un hôpital au sens de la Loi sur les hôpitaux publics ;
+
 f) d’un conseil de santé au sens du paragraphe 1 (1) de la Loi sur la protection et la promotion de la santé ;
+
 g) des autres personnes et entités prescrites pour l’application de la présente définition, notamment le Bureau de l’Assemblée et les bureaux des hauts fonctionnaires de l’Assemblée. («public sector organization»)
+
 «sous-ministre» Le sous-ministre de l’Infrastructure. («Deputy Minister») 2011, chap. 9, annexe 27, art. 1
 
 ### Biens du gouvernement
@@ -44,7 +61,9 @@ g) des autres personnes et entités prescrites pour l’application de la prése
 ### Idem : certains bâtiments et constructions
 
 (2) Pour l’application de la présente loi, les bâtiments ou les constructions ou les intérêts sur ceux-ci sont également des biens du gouvernement si les conditions suivantes sont réunies :
+
 a) les bâtiments, les constructions ou les intérêts sont détenus séparément du bien-fonds sur lequel se trouvent les bâtiments ou les constructions;
+
 b) les bâtiments, les constructions ou les intérêts appartiennent au gouvernement.
 
 ### Aucune incidence du mode d’acquisition
@@ -82,25 +101,41 @@ b) les bâtiments, les constructions ou les intérêts appartiennent au gouverne
 ### Responsabilités du ministre
 
 7 (1) Le ministre ou, sous sa direction et son contrôle, le sous-ministre :
+
 a) examine de façon continue les questions relatives à l’infrastructure et aux biens du gouvernement en fonction des objectifs et besoins à court et à long terme de l’Ontario à l’égard de l’infrastructure et des biens du gouvernement;
+
 b) conseille et aide le gouvernement dans ses rapports avec les autres gouvernements en ce qui concerne les questions d’infrastructure et la gestion de la croissance;
+
 c) fait des recommandations, établit des politiques et entreprend des programmes relativement à des plans de croissance et à la gestion de la croissance afin de favoriser des collectivités fortes;
+
 d) fait des recommandations pour la coordination et l’aménagement efficaces de l’infrastructure et des biens du gouvernement au sein du gouvernement;
+
 e) fait des recommandations en ce qui concerne les priorités en matière d’infrastructure et de biens du gouvernement;
+
 f) établit des politiques relatives à l’infrastructure et aux biens du gouvernement;
+
 g) participe à la planification et à l’aménagement de l’infrastructure et des biens du gouvernement;
+
 h) fournit au gouvernement des conseils sur les biens-fonds réservés aux couloirs au sens de la partie IX.1 de la Loi de 1998 sur l’électricité et assume la responsabilité de ces biens-fonds;
+
 i) participe aux activités, aux projets et aux programmes que le ministre estime indiqués dans l’exercice de ses pouvoirs, fonctions et responsabilités.
 
 ### Idem : biens du gouvernement
 
 (2) Le ministre a les responsabilités suivantes :
+
 a) acquérir des biens-fonds, des bâtiments et des constructions ou des intérêts sur des biens-fonds, des bâtiments et des constructions;
+
 a.1) disposer des biens du gouvernement ou les donner à bail;
+
 b) concevoir, construire, rénover, entretenir, réparer, meubler, équiper, gérer et administrer des biens du gouvernement;
+
 c) décider quels sont les biens ou parties de biens du gouvernement qui devraient être ouverts au public et en assurer la gestion et l’administration, y compris :
+
 (i) réglementer la circulation des véhicules et des piétons,
+
 (ii) réserver, aux fins d’utilisation restreinte, tout ou partie d’un bâtiment ou d’une construction qui est un bien du gouvernement,
+
 (iii) fixer et percevoir des droits pour le stationnement dans toute zone réservée à cette fin à l’intérieur, à la surface ou au-dessous de tout bien du gouvernement.
 
 ### Application des lois
@@ -110,29 +145,45 @@ c) décider quels sont les biens ou parties de biens du gouvernement qui devraie
 ### Autorité du ministre
 
 (4) Le ministre ou, sous sa direction et son contrôle, le sous-ministre peut, relativement à toute question qui relève de la responsabilité du ministre en vertu de la présente loi ou de toute autre loi :
+
 a) faire de la recherche;
+
 b) établir des politiques;
+
 c) promouvoir la recherche, les expériences, les études de faisabilité, les projets pilotes ou projets de démonstration, les essais et les évaluations, y participer ou charger quiconque de ces activités;
+
 d) élaborer et mettre en oeuvre des plans et des programmes et les coordonner;
+
 e) promouvoir l’éducation du public et la diffusion de renseignements et y participer;
+
 f) faciliter le règlement des différends;
+
 g) conclure des ententes au nom et pour le compte de la Couronne;
+
 h) accorder des subventions;
+
 i) consentir des prêts, sous réserve de l’approbation du lieutenant-gouverneur en conseil;
+
 j) donner des directives aux organismes dont le ministre est responsable.
 
 ### Idem
 
 (5) Malgré la partie I de la Loi sur l’administration financière, le ministre peut faire ce qui suit :
+
 1. Recevoir des fonds qui ne constituent pas des deniers publics au sens du paragraphe 1 (3) de la Loi sur l’administration financière, si le ministre les reçoit aux termes d’une entente autorisée par l’alinéa (4) g) relativement à des travaux d’infrastructure ou à un bien du gouvernement.
+
 2. Exercer le contrôle des fonds qui ne constituent pas des deniers publics au sens du paragraphe 1 (3) de la Loi sur l’administration financière et qui sont détenus dans un compte qui n’est pas au nom de la Couronne, si le ministre en obtient le contrôle aux termes d’une entente autorisée par l’alinéa (4) g) relativement à des travaux d’infrastructure ou à un bien du gouvernement.
+
 3. Ouvrir des comptes sous le nom du ministre auprès d’une entité mentionnée au paragraphe 2 (2) de la Loi sur l’administration financière.
+
 4. Déposer les fonds mentionnés à la disposition 1 ou 2 dans les comptes ouverts en vertu de la disposition 3.
+
 5. Verser les fonds mentionnés à la disposition 1 ou 2 ainsi que le revenu qu’ils rapportent conformément à l’entente mentionnée à l’une ou à l’autre de ces dispositions.
 
 ### Idem : revenu versé au Trésor
 
 (6) Si le revenu que rapportent les fonds mentionnés à la disposition 1 ou 2 du paragraphe (5) constitue des deniers publics au sens du paragraphe 1 (3) de la Loi sur l’administration financière, le ministre le fait verser au Trésor.
+
 7.1 Abrogé : 2025, chap. 9, annexe 6, art. 1.
 
 ### Politiques relatives à l’obtention de contrats : biens du gouvernement
@@ -152,13 +203,17 @@ j) donner des directives aux organismes dont le ministre est responsable.
 ### Détention de biens du gouvernement
 
 (3) Le ministre peut détenir des biens du gouvernement pour l’usage ou les fins :
+
 a) du gouvernement, si les biens ont été acquis aux fins mentionnées au paragraphe (1);
+
 b) du gouvernement ou de l’organisation du secteur public qui a demandé l’acquisition des biens, si ceux-ci ont été acquis à la suite d’une demande mentionnée au paragraphe (2).
 
 ### Disposition de biens du gouvernement
 
 (4) Le ministre peut disposer des biens du gouvernement, notamment par vente ou location :
+
 a) lorsque les biens ne sont plus requis pour l’usage ou les fins du gouvernement, si les biens ont été acquis aux fins mentionnées au paragraphe (1);
+
 b) lorsque les biens ne sont plus requis pour l’usage ou les fins du gouvernement ou de l’organisation du secteur public qui a demandé l’acquisition des biens, si ceux-ci ont été acquis à la suite d’une demande mentionnée au paragraphe (2).
 
 ### Approbation nécessaire
@@ -168,10 +223,15 @@ b) lorsque les biens ne sont plus requis pour l’usage ou les fins du gouvernem
 ### Exceptions
 
 (6) Le paragraphe (5) ne s’applique pas à ce qui suit :
+
 a) la concession d’un bail dont la durée est inférieure à 21 ans;
+
 b) la concession d’une servitude;
+
 c) la disposition d’un bien du gouvernement décrit au paragraphe 1.1 (2);
+
 d) une disposition faite en vertu de la Loi de 2015 sur les biens sociaux confisqués ;
+
 e) une disposition faite en vertu de l’article 26.1 de la Loi de 2021 sur la réalisation accélérée de projets d’Internet à haut débit.
 
 ### Expropriation
@@ -197,10 +257,15 @@ e) une disposition faite en vertu de l’article 26.1 de la Loi de 2021 sur la r
 ### Définitions
 
 (2) La définition qui suit s’applique au présent article.
+
 «organismes municipaux» Relativement à une municipalité, s’entend de ce qui suit :
+
 a) chaque conseil local au sens de la définition donnée à ce terme au paragraphe 1 (1) de la Loi de 2001 sur les municipalités ;
+
 b) chaque conseil local au sens de la définition donnée à ce terme au paragraphe 3 (1) de la Loi de 2006 sur la cité de Toronto, notamment la Commission de transport de Toronto;
+
 c) chaque personne morale créée par une municipalité en vertu de l’article 203 de la Loi de 2001 sur les municipalités et chaque personne morale secondaire au sens de la définition donnée à ce terme au paragraphe 203 (3.1) de cette loi;
+
 d) chaque personne morale créée par la cité de Toronto en vertu de l’article 148 de la Loi de 2006 sur la cité de Toronto et chaque personne morale secondaire au sens de la définition donnée à ce terme au paragraphe 148 (4) de cette loi.
 
 ### Biens du gouvernement dévolus à la Couronne
@@ -216,8 +281,11 @@ d) chaque personne morale créée par la cité de Toronto en vertu de l’articl
 ### Aucun pouvoir de détenir des intérêts sur des biens-fonds, etc.
 
 (2) Malgré toute disposition d’une autre loi ou d’un règlement autre qu’un règlement pris en vertu de l’article 22, une entité prescrite ne doit pas détenir ou contrôler, ni acquérir, notamment par achat ou location :
+
 a) des biens-fonds, des bâtiments ou des constructions;
+
 b) des intérêts sur des biens-fonds, des bâtiments ou des constructions;
+
 c) des accessoires fixes installés ou placés dans ou sur des biens-fonds, des bâtiments ou des constructions, ou utilisés relativement à ceux-ci, ou des intérêts sur de tels accessoires.
 
 ### Disposition transitoire : dévolution réputée à la Couronne
@@ -269,8 +337,11 @@ c) des accessoires fixes installés ou placés dans ou sur des biens-fonds, des 
 ### Définitions
 
 13 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «service public» Réseau d’adduction d’eau ou d’approvisionnement en eau, réseau d’égouts, réseau de distribution de vapeur ou d’eau chaude, réseau de production, de transport ou de distribution d’électricité, réseau d’éclairage des rues, réseau d’approvisionnement en gaz naturel ou synthétique ou réseau de transport. («public utility»)
+
 «service public gouvernemental» Service public dont est propriétaire et qu’exploite la Couronne représentée par le ministre. («government public utility»)
+
 «servitude de service public gouvernemental» Servitude de la Couronne représentée par le ministre aux fins d’un service public gouvernemental. («government public utility easement») 2011, chap. 9, annexe 27, par. 13 (1).
 
 ### Non-application de la Loi sur l’enregistrement des actes
@@ -280,7 +351,9 @@ c) des accessoires fixes installés ou placés dans ou sur des biens-fonds, des 
 ### Entrave : services publics
 
 (3) Nul ne doit entraver une partie d’un service public gouvernemental en faveur de laquelle il n’existe pas de servitude de service public gouvernemental, à moins que, selon le cas :
+
 a) le ministre n’y consente;
+
 b) une ordonnance rendue en vertu du présent article ne l’autorise.
 
 ### Ordonnance relative aux services publics
@@ -348,17 +421,25 @@ b) une ordonnance rendue en vertu du présent article ne l’autorise.
 ### Délégation à un organisme de la Couronne
 
 (2) Le ministre peut, par écrit, déléguer à tout organisme de la Couronne dont il est responsable les responsabilités ou pouvoirs que lui attribuent les dispositions suivantes, sous réserve des conditions dont la délégation est assortie :
+
 1. Le paragraphe 7 (2).
+
 2. L’alinéa 7 (4) g), si l’entente est conclue au nom et pour le compte de la Couronne relativement à une question visée au paragraphe 7 (2).
+
 2.1 Abrogée : 2025, chap. 9, annexe 6, art. 3.
+
 3. Les paragraphes 9 (1), (2), (3) et (4).
+
 4. L’article 10.
+
 5. L’article 11.1.
 
 ### Idem
 
 (3) Sous réserve des conditions dont est assortie la délégation, le ministre peut, par écrit, déléguer les responsabilités ou pouvoirs que lui attribue le paragraphe 7 (5) :
+
 a) à la Société ontarienne des infrastructures et de l’immobilier;
+
 b) avec l’approbation du ministre des Finances, à tout autre organisme de la Couronne dont le ministre est responsable.
 
 ### Idem : Loi de 2015 sur les biens sociaux confisqués
@@ -376,8 +457,11 @@ b) avec l’approbation du ministre des Finances, à tout autre organisme de la 
 ### Comités consultatifs
 
 20 (1) Le lieutenant-gouverneur en conseil ou le ministre peut :
+
 a) constituer des comités consultatifs pour conseiller le ministre sur l’exercice de ses pouvoirs, fonctions et responsabilités;
+
 b) nommer les membres des comités et désigner un membre à la présidence et un ou plusieurs à la vice-présidence;
+
 c) fixer le cadre de référence des comités.
 
 ### Rémunération et indemnités
@@ -393,31 +477,51 @@ c) fixer le cadre de référence des comités.
 ### Ministre
 
 22 (1) Le ministre peut, par règlement :
+
 a) prescrire des entités pour l’application de l’article 11.0.1;
+
 b) prescrire des exceptions, des conditions, des limites ou des restrictions relativement à l’article 11.0.1;
+
 c) préciser le sens d’un terme utilisé dans l’article 11.0.1 ou relativement à celui-ci qui n’est pas défini dans la présente loi;
+
 d) régir les ententes à l’égard des intérêts visés à l’article 11.0.1, notamment :
+
 (i) prévoir les conditions précisées qui sont réputées faire partie ou non d’une entente,
+
 (ii) exiger que les parties à une entente incorporent à l’entente les conditions précisées,
+
 (iii) interdire qu’une entente intègre les conditions précisées,
+
 (iv) prévoir la suppression ou la limitation de la responsabilité de la Couronne ou d’un de ses fonctionnaires, employés ou mandataires, ou de toute autre personne ou entité précisée, à l’égard d’une entente;
+
 e) régir les questions transitoires découlant de la mise en oeuvre de l’article 11.0.1, notamment la dévolution de biens immeubles et l’enregistrement, sur un titre, des intérêts réputés dévolus à la Couronne.
 
 ### Lieutenant-gouverneur en conseil
 
 (2) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) régir les ententes conclues à l’égard d’intérêts visés à l’article 11.0.1, notamment :
+
 (i) prévoir les conditions précisées qui sont réputées faire partie ou non d’une entente,
+
 (ii) prévoir la suppression ou la limitation de la responsabilité de la Couronne ou d’un de ses fonctionnaires, employés ou mandataires, ou de toute autre personne ou entité précisée, à l’égard d’une entente;
+
 b) dans les circonstances où une entité prescrite pour l’application de l’article 11.0.1 ne s’est pas conformée à cet article ou aux règlements connexes :
+
 (i) traiter des mesures que l’entité, le ministre, la Société ontarienne des infrastructures et de l’immobilier ou toute autre personne ou entité précisée doit prendre relativement à la non-conformité,
+
 (ii) régir les droits, pouvoirs et obligations des personnes ou entités qui ont été touchées, directement ou indirectement, par la non-conformité,
+
 (iii) régir la dévolution de biens immeubles et l’enregistrement, sur un titre, des intérêts visés à l’article 11.0.1 relativement à la non-conformité,
+
 (iv) prévoir la suppression ou la limitation de la responsabilité de la Couronne ou d’un de ses fonctionnaires, employés ou mandataires, ou de toute autre personne ou entité précisée, à l’égard des sous-alinéas (i) à (iii).
 
 ### Effet rétroactif
 
 (3) Les règlements pris en vertu du paragraphe (2) qui comportent une disposition en ce sens ont un effet rétroactif.
+
 23 à 41 Omis (modification ou abrogation d’autres textes législatifs).
+
 42 Omis (entrée en vigueur de dispositions de la présente loi).
+
 43 Omis (édiction du titre abrégé de la présente loi).

@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2021-10-19"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16o08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Trails Act, 2016
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16o08) before relying on it.
 
 S.O. 2016, c. 8, Sched. 1
 
@@ -21,9 +21,13 @@ S.O. 2016, c. 8, Sched. 1
 ### Purposes
 
 1 The purposes of this Act are as follows:
+
 1. To increase awareness about and encourage the use of trails.
+
 2. To enhance trails and the trail experience.
+
 3. To protect trails for today’s generation and future generations.
+
 4. To recognize the contribution that trails make to quality of life in Ontario.
 
 ### Existing aboriginal or treaty rights
@@ -33,6 +37,7 @@ S.O. 2016, c. 8, Sched. 1
 ### Definition
 
 3 In this Act,
+
 “Minister” means the Minister of Tourism, Culture and Sport or such other member of the Executive Council to whom the administration of this Act may be assigned under the Executive Council Act.
 
 ### Trails in Ontario
@@ -68,7 +73,9 @@ S.O. 2016, c. 8, Sched. 1
 ### Ontario trails strategy
 
 8 (1) The Minister shall maintain an Ontario trails strategy,
+
 (a) that sets out strategic directions for the establishment, management, promotion and use of trails in Ontario; and
+
 (b) that is guided by the vision of a province that has a world-class system of diversified trails, that are planned and used in an environmentally responsible manner, and that enhance the health and prosperity of all Ontarians.
 
 ### Periodic review of strategy
@@ -90,9 +97,13 @@ S.O. 2016, c. 8, Sched. 1
 ### Consultation, etc.
 
 10 (1) In the course of establishing a process for recognizing Ontario trails of distinction, establishing a trail classification system, establishing best practices, reviewing the Ontario trails strategy or establishing targets, the Minister shall,
+
 (a) consult with any persons and entities the Minister considers appropriate;
+
 (b) consider any government policies and programs that affect or relate to trails in Ontario,
+
 (i) that the Minister believes are appropriate to consider, or
+
 (ii) that the Minister has been advised by another minister are relevant.
 
 ### Ontario legislation and policies
@@ -102,10 +113,15 @@ S.O. 2016, c. 8, Sched. 1
 ### Public access to information
 
 11 The Minister shall publish the following on a Government website:
+
 1. The name of every trail recognized as an Ontario trail of distinction under section 5.
+
 2. The trail classification system, if one is established under section 6.
+
 3. Best practices, if any are established under section 7.
+
 4. The Ontario trails strategy and every progress report required under section 8.
+
 5. Targets, if any are established under section 9.
 
 ### Easements
@@ -115,20 +131,35 @@ S.O. 2016, c. 8, Sched. 1
 ### Definitions
 
 12 (1) In this section,
+
 “eligible body” means,
+
 (a) the Crown in right of Canada or in right of Ontario,
+
 (b) an agency, board or commission of the Crown in right of Canada or in right of Ontario that has the power to hold an interest in land,
+
 (c) a band within the meaning of the Indian Act (Canada),
+
 (d) an aboriginal community or organization prescribed by the regulations made under this Act,
+
 (e) a municipality,
+
 (f) a conservation authority established under the Conservation Authorities Act,
+
 (g) a board within the meaning of the Education Act,
+
 (h) a corporation incorporated under the Not-for-Profit Corporations Act, 2010 or a predecessor of that Act or under the Canada Not-for-profit Corporations Act or a predecessor of that Act, and that is a charity registered under the Income Tax Act (Canada),
+
 (i) a trustee of a charitable foundation that is a charity registered under the Income Tax Act (Canada),
+
 (j) a prescribed donee under the Income Tax Act (Canada),
+
 (k) a qualified organization, as defined under section 170 (h) of the Internal Revenue Code (United States) and Treasury Reg 1.170A-14 (United States),
+
 (l) a corporation created by statute that is a registered charity under the Income Tax Act (Canada),
+
 (m) any other person or body prescribed by the regulations made under this Act; (“organisme admissible”)
+
 “owner” means the registered owner of land under the Registry Act or the Land Titles Act. (“propriétaire”)
 
 ### Nominee of eligible body
@@ -138,8 +169,11 @@ S.O. 2016, c. 8, Sched. 1
 ### Granting of easements
 
 (3) An owner of land may grant an easement, with covenants, to one or more eligible bodies,
+
 (a) for the preservation, enhancement or management of the use of, or access to, all or a portion of the land for purposes relating to trails or to activities relating to trails;
+
 (b) for the creation, maintenance or management of trails for public use; or
+
 (c) for the purposes as may be prescribed by the regulations made under this Act.
 
 ### Granting of easement voluntary
@@ -177,8 +211,11 @@ S.O. 2016, c. 8, Sched. 1
 ### Same
 
 (12) An easement may be assigned by an eligible body only to another eligible body and only if the following requirements are met:
+
 1. The eligible body gives the owner of the land reasonable notice of the assignment.
+
 2. The assignment is in writing.
+
 3. The assignment is made in accordance with the covenant or covenants referred to in subsection (11).
 
 ### Same, registration
@@ -212,7 +249,9 @@ S.O. 2016, c. 8, Sched. 1
 ### No merger of registered easement
 
 (20) If an eligible body becomes the owner of land in respect of which it has the benefit of a registered easement,
+
 (a) the easement does not merge in title; and
+
 (b) if the eligible body transfers the land, the easement and the covenants continue to run with the land.
 
 ### Rights preserved
@@ -228,8 +267,13 @@ S.O. 2016, c. 8, Sched. 1
 ### Regulations
 
 14 The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing aboriginal communities or organizations for the purposes of clause (d) of the definition of “eligible body” in subsection 12 (1);
+
 (b) prescribing persons or bodies for the purposes of clause (m) of the definition of “eligible body” in subsection 12 (1);
+
 (c) prescribing purposes for the purpose of clause 12 (3) (c).
+
 15 Omitted (provides for coming into force of provisions of this Act).
+
 16 Omitted (enacts short title of this Act).

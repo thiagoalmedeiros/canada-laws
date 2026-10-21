@@ -6,41 +6,56 @@ language: en
 type: act
 document_date: "2019-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19t07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Tribunal Adjudicative Records Act, 2019
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19t07) before relying on it.
 
 S.O. 2019, c. 7, Sched. 60
 
 ### Interpretation
 
 1 (1) In this Act,
+
 “adjudicative record” means a record referred to in subsection (2); (“document décisionnel”)
+
 “confidentiality order” means an order made by a tribunal under subsection 2 (2); (“ordonnance de confidentialité”)
+
 “tribunal” means an adjudicative tribunal prescribed by the regulations made under this Act. (“tribunal”)
 
 ### Adjudicative records
 
 (2) Subject to subsection (3), the following are adjudicative records for the purposes of this Act:
+
 1. An application or other document by which a proceeding before a tribunal is commenced.
+
 2. A notice of a hearing before a tribunal.
+
 3. A written submission filed with a tribunal in respect of a proceeding before the tribunal.
+
 4. A document that has been admitted as evidence at a hearing of a tribunal or otherwise relied upon by a tribunal in making a decision or an order.
+
 5. A transcript of oral evidence given at a hearing of a tribunal.
+
 6. A decision or an order made by a tribunal and any reasons for the decision or order.
+
 7. A docket or schedule of hearings of a tribunal.
+
 8. A register of proceedings before a tribunal.
+
 9. Any other record that relates to a proceeding before a tribunal and that is prescribed by the regulations made under this Act.
 
 ### Excluded records
 
 (3) The following are not adjudicative records for the purposes of this Act:
+
 1. Personal notes, draft decisions, draft orders and communications related to draft decisions or draft orders that are created by or for a member of a tribunal in connection with a proceeding before the tribunal in which the member is presiding.
+
 2. Personal notes created by or for a person appointed by a tribunal to help resolve a matter in a proceeding before the tribunal by means of an alternative dispute resolution mechanism.
+
 3. Records related to any attempt to resolve a matter in a proceeding before a tribunal by means of an alternative dispute resolution mechanism, unless the record forms part of a decision or an order of the tribunal.
 
 ### Disposal of records
@@ -54,13 +69,17 @@ S.O. 2019, c. 7, Sched. 60
 ### Confidentiality orders
 
 (2) A tribunal may, of its own motion or on the application of a person referred to in subsection (3), order that an adjudicative record or portion of an adjudicative record be treated as confidential and that it not be disclosed to the public if the tribunal determines that,
+
 (a) matters involving public security may be disclosed; or
+
 (b) intimate financial or personal matters or other matters contained in the record are of such a nature that the public interest or the interest of a person served by avoiding disclosure outweighs the desirability of adhering to the principle that the record be available to the public.
 
 ### Who may apply
 
 (3) The following persons may apply to the tribunal for a confidentiality order in respect of an adjudicative record:
+
 1. A party to a proceeding to which the adjudicative record relates.
+
 2. A person who would be affected by the disclosure of the information contained in the adjudicative record or a portion of the adjudicative record.
 
 ### Scope of order
@@ -86,8 +105,11 @@ S.O. 2019, c. 7, Sched. 60
 ### Enforcement of confidentiality orders
 
 5 (1) A certified copy of a confidentiality order may be filed in the Superior Court of Justice by,
+
 (a) the tribunal that made the order;
+
 (b) a party to a proceeding to which the order relates; or
+
 (c) a person who would be affected by the disclosure of the information contained in an adjudicative record or portion of an adjudicative record that is to be treated as confidential in accordance with the order.
 
 ### Same
@@ -113,9 +135,15 @@ S.O. 2019, c. 7, Sched. 60
 ### Regulations
 
 8 The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing adjudicative tribunals for the purposes of the definition of “tribunal” in subsection 1 (1);
+
 (b) prescribing additional records for the purposes of subsection 1 (2);
+
 (c) providing that a provision of another Act or of a regulation made under another Act prevails over a provision of this Act in the event of a conflict.
+
 9 Omitted (amends, repeals or revokes other legislation).
+
 10 Omitted (provides for coming into force of provisions of this Act).
+
 11 Omitted (enacts short title of this Act).

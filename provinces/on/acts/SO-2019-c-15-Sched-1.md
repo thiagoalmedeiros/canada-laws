@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-05-12"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19a15"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Alcohol and Gaming Commission of Ontario Act, 2019
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19a15) before relying on it.
 
 S.O. 2019, c. 15, Sched. 1
 
@@ -21,23 +21,33 @@ S.O. 2019, c. 15, Sched. 1
 ### Definitions
 
 1 (1) In this Act,
+
 “Commission” means the Alcohol and Gaming Commission of Ontario continued under subsection 2 (1); (“Commission”)
+
 “Minister” means the minister responsible for the administration of this Act; (“ministre”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “Registrar” means the Registrar appointed by the board of directors of the Commission; (“registrateur”)
+
 “regulations” means the regulations made under this Act. (“règlements”)
 
 ### Alcohol, cannabis, gaming and horse racing statutes
 
 (2) For the purposes of this Act, the following are the alcohol, cannabis, gaming and horse racing statutes:
+
 1. The Liquor Licence and Control Act, 2019.
+
 2. The Cannabis Licence Act, 2018.
+
 3. The Gaming Control Act, 1992.
+
 4. The Horse Racing Licence Act, 2015.
 
 ### Crown agent
 
 1.1 (1) The Commission is an agent of the Crown in right of Ontario.
+
 (2) Repealed: 2024, c. 20, Sched. 9, s. 29 (2).
 
 ### Alcohol and Gaming Commission of Ontario
@@ -65,9 +75,13 @@ S.O. 2019, c. 15, Sched. 1
 ### Objects
 
 3 (1) The Commission has the following objects:
+
 1. To exercise the powers and perform the duties assigned under this or any other Act to the Commission.
+
 2. To administer the alcohol, cannabis, gaming and horse racing statutes and the regulations made under them.
+
 3-5 Repealed: 2024, c. 20, Sched. 9, s. 29 (3).
+
 6. To engage in such other activities as may be prescribed.
 
 ### Duty to act in the public interest
@@ -81,10 +95,15 @@ S.O. 2019, c. 15, Sched. 1
 ### Cabinet approval
 
 (2) The Commission shall not exercise the following powers without the approval of the Lieutenant Governor in Council:
+
 1. Acquiring, disposing of, leasing, mortgaging, charging or otherwise transferring or encumbering any interest in real property, except for leasing space that is reasonably necessary for the purposes of the Commission.
+
 2. Borrowing or lending money.
+
 3. Pledging, charging or encumbering any of its personal property.
+
 4. Creating a subsidiary.
+
 4.1 Repealed: 2024, c. 20, Sched. 9, s. 29 (4).
 
 ### Board of Directors
@@ -128,9 +147,13 @@ S.O. 2019, c. 15, Sched. 1
 ### Delegation of powers and duties
 
 (4) The board of directors of the Commission may delegate, in writing, any of its powers and duties to any committee of the board or to one or more officers or employees of the Commission, other than the power to,
+
 (a) make, amend or repeal by-laws of the Commission;
+
 (b) establish fees and charges under section 13; and
+
 (c) establish a schedule of monetary penalties under section 14.
+
 (4.1) Repealed: 2024, c. 20, Sched. 9, s. 29 (5).
 
 ### Conditions
@@ -140,12 +163,15 @@ S.O. 2019, c. 15, Sched. 1
 ### Duty to inform Minister
 
 (6) The board shall,
+
 (a) inform the Minister of any matters that are of an urgent, critical or relevant nature and that are likely to require action by the Commission or the Minister to ensure that the Commission is able to properly carry out its objects and advise the Minister with respect to such matters; and
+
 (b) advise or report to the Minister on any matter that the Minister may refer to the Commission relating to this Act or to the administration of any of the alcohol, cannabis, gaming and horse racing statutes.
 
 ### Information
 
 (7) The board may require that any information related to the administration of this Act or of any of the alcohol, cannabis, gaming and horse racing statutes be provided in a manner approved by the board.
+
 6.1 Repealed: 2024, c. 20, Sched. 9, s. 29 (6).
 
 ### Registrar, Employees, etc.
@@ -157,15 +183,21 @@ S.O. 2019, c. 15, Sched. 1
 ### Deputy Registrars
 
 (2) The Registrar may appoint one or more Deputy Registrars and may delegate his or her powers or duties to them, subject to any conditions set out in the delegation.
+
 (3) Repealed: 2024, c. 20, Sched. 9, s. 29 (7).
 
 ### Registrar’s certificate
 
 8 (1) The Registrar may issue a certificate that contains information concerning any of the following matters with respect to this Act or any of the alcohol, cannabis, gaming and horse racing statutes:
+
 1. The issuance or non-issuance of a licence, permit, authorization or endorsement.
+
 2. The registration or non-registration of any person.
+
 3. The filing or non-filing of any document or material required to be filed with the Commission.
+
 4. The time when the facts upon which a proceeding is based first came to the knowledge of the Registrar.
+
 5. Any other matter pertaining to any licence, permit, authorization, registration or endorsement under the alcohol, cannabis, gaming and horse racing statutes or to the filing or non-filing of any document under those Acts.
 
 ### Admissibility of certificate
@@ -209,8 +241,11 @@ S.O. 2019, c. 15, Sched. 1
 ### Proceedings barred
 
 10.2 (1) No proceeding shall be commenced,
+
 (a) against any person specified in subsection 10 (1) in respect of a matter referred to in that subsection;
+
 (b) against the Crown or any person specified in subsection 10 (1) in respect of a matter referred to in subsection 10 (3); or
+
 (c) against any person specified in subsection 10.1 (1) in respect of a matter referred to in the applicable subsection.
 
 ### Same
@@ -230,7 +265,9 @@ S.O. 2019, c. 15, Sched. 1
 ### Monetary penalties received
 
 (2) If the Commission receives money from monetary penalties imposed with respect to contraventions of any of the alcohol, cannabis, gaming and horse racing statutes, the money may only be used for the following purposes:
+
 1. Public awareness, education and training programs for the general public in relation to alcohol, cannabis, gaming and horse racing.
+
 2. Education and training programs for licence holders, permit holders, authorization holders, registrants and other persons governed by the alcohol, cannabis, gaming and horse racing statutes.
 
 ### Fiscal year, audits
@@ -246,8 +283,11 @@ S.O. 2019, c. 15, Sched. 1
 ### Fees and charges
 
 13 (1) The board of directors of the Commission may,
+
 (a) establish fees or other charges, subject to the approval of the Minister;
+
 (b) provide for the waiver of fees and charges; and
+
 (c) provide for refunds for the purposes of this Act and the administration of any of the alcohol, cannabis, gaming and horse racing statutes or any regulations made under them.
 
 ### Not regulations
@@ -263,6 +303,7 @@ S.O. 2019, c. 15, Sched. 1
 ### Definition
 
 14 (1) In this section,
+
 “Tribunal” means the Licence Appeal Tribunal established under the Licence Appeal Tribunal Act, 1999.
 
 ### Schedule of monetary penalties
@@ -312,8 +353,11 @@ S.O. 2019, c. 15, Sched. 1
 ### Same
 
 (2) The Commission shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -329,10 +373,17 @@ S.O. 2019, c. 15, Sched. 1
 ### Regulations
 
 16 The Lieutenant Governor in Council may make regulations,
+
 (a) respecting anything that, in this Act, may or must be prescribed, done, specified or provided for in the regulations;
+
 (b) governing transitional matters that may arise from the implementation of this Act, including any amendments made to it, or from any repeal of a provision by Schedule 2 to the Plan to Build Ontario Together Act, 2019;
+
 (c) respecting any other matter necessary to facilitate the implementation of this Act.
+
 17 Omitted (provides for amendments to this Act).
+
 18-24 Omitted (amends, repeals or revokes other legislation).
+
 25 Omitted (provides for coming into force of provisions of this Act).
+
 26 Omitted (enacts short title of this Act).

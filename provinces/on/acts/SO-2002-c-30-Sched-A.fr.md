@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02c30"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # protection du consommateur (Loi de 2002 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02c30) before relying on it.
 
 L.O. 2002, chap. 30, annexe A
 
@@ -21,44 +21,83 @@ L.O. 2002, chap. 30, annexe A
 ### Interprétation
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «assertion» Assertion, affirmation, déclaration, offre, demande ou proposition qui est ou se présente comme étant faite :
+
 a) soit au sujet ou en vue de la fourniture de marchandises ou de services aux consommateurs;
+
 b) soit afin de recevoir un paiement pour des marchandises ou des services fournis ou présentés comme étant fournis aux consommateurs. («representation»)
+
 «carte de crédit» Carte ou dispositif qui permet à l’emprunteur d’obtenir des avances aux termes d’une convention de crédit, au sens de la partie VII, qui est une convention de crédit en blanc. («credit card»)
+
 «consommateur» Particulier qui agit à des fins personnelles, familiales ou domestiques, mais non commerciales. («consumer»)
+
 «convention à exécution différée» Convention de consommation à l’égard de laquelle la livraison, l’exécution ou le paiement intégral n’a pas lieu au moment de sa conclusion par les parties. («future performance agreement»)
+
 «convention de consommation» Convention entre le fournisseur et le consommateur selon laquelle :
+
 a) soit le fournisseur convient de fournir des marchandises ou des services moyennant paiement;
+
 b) soit le fournisseur convient d’offrir, pour son propre compte ou pour celui d’un autre fournisseur, des points de récompense au consommateur lorsque ce dernier agit d’une manière précisée dans la convention, notamment lorsqu’il achète des marchandises ou des services. («consumer agreement»)
+
 «convention de reprise» Arrangement selon lequel le consommateur convient de vendre ses marchandises ou ses services au fournisseur, qui les accepte au titre de tout ou partie de la contrepartie de la fourniture de marchandises ou de services. («trade-in arrangement»)
+
 «courtage en prêts» Services ou marchandises qui visent à aider le consommateur à obtenir du crédit ou un prêt, y compris du courtier en prêts qui les lui fournit. («loan brokering»)
+
 «courtier en prêts» Selon le cas :
+
 a) le fournisseur de courtage en prêts;
+
 b) quiconque se fait passer pour une personne visée à l’alinéa a). («loan broker»)
+
 «crédit en blanc» Crédit ou prêt accordé aux termes d’une convention de crédit, au sens de la partie VII, qui :
+
 a) d’une part, prévoit le versement d’avances multiples lorsque l’emprunteur les demande conformément à la convention;
+
 b) d’autre part, ne fixe pas la somme totale à avancer à l’emprunteur, bien que la convention puisse imposer une limite de crédit. («open credit»)
+
 «directeur» La personne désignée directeur en vertu de la Loi sur le ministère des Services aux consommateurs et aux entreprises. («Director»)
+
 «dirigeant» S’entend notamment du président et d’un vice-président du conseil d’administration, du président, d’un vice-président, du secrétaire, du secrétaire adjoint, du trésorier, du trésorier adjoint, du directeur général et du directeur général adjoint de la personne morale, de l’associé, du directeur général et du directeur général adjoint d’une société de personnes, des autres particuliers désignés à titre de dirigeant par règlement administratif ou résolution, des autres particuliers qui exercent des fonctions qu’exerce normalement le titulaire d’un tel poste. («officer»)
+
 «droit d’entrée» Droit payable en plus d’un droit d’adhésion annuel. («initiation fee»)
+
 «fournisseur» Quiconque exerce l’activité de fournir des marchandises ou des services, notamment en les vendant, en les louant ou en en faisant le commerce, y compris en offrant des points de récompense. S’entend en outre du mandataire du fournisseur et de quiconque se fait passer pour l’un d’eux. («supplier»)
+
 «Internet» Le réseau mondial décentralisé qui relie des réseaux d’ordinateurs et des appareils semblables en vue de l’échange électronique de renseignements au moyen de protocoles de communication normalisés. («internet»)
+
 «marchandises» Tout genre de biens. («goods»)
+
 «ministère» Le ministère des Services aux consommateurs et aux entreprises. («Ministry»)
+
 «ministre» Le ministre des Services aux consommateurs et aux entreprises ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «opération de consommation» Acte consistant à exercer une activité ou à faire affaire avec un consommateur, y compris une convention de consommation. («consumer transaction»)
+
 «paiement» Contrepartie de toute nature, y compris un droit d’entrée. («payment»)
+
 «points de récompense» Sous réserve des règlements, s’entend des points offerts à un consommateur aux termes d’une convention de consommation qui sont échangeables contre de l’argent, des marchandises ou des services. («rewards points»)
+
 «prescrit» Prescrit par les règlements pris en application de la présente loi. («prescribed»)
+
 «règlements» Les règlements pris en application de la présente loi. («regulations»)
+
 «services» Tout ce qui n’est pas des marchandises, y compris tout service, droit ou avantage. («services»)
+
 «site de jeux en ligne» Site Internet qui accepte ou offre d’accepter, par le biais d’Internet, des mises ou des paris placés :
+
 a) soit dans le cadre du déroulement d’un jeu de hasard ou d’un jeu où se mêlent le hasard et l’adresse qui doit se produire au Canada ou à l’étranger ou de la participation à un tel jeu;
+
 b) soit sur une contingence ou un événement qui peut ou qui doit se produire au Canada ou à l’étranger.
+
 S’entend notamment d’un jeu de casino, d’un jeu de cartes, d’une course de chevaux, d’un combat, d’un match, d’un événement sportif ou d’un concours. («internet gaming site»)
+
 «Tribunal» Le Tribunal d’appel en matière de permis créé en application de la Loi de 1999 sur le Tribunal d’appel en matière de permis ou l’autre tribunal qui est prescrit. («Tribunal»)
+
 «valeur de reprise» La plus élevée des sommes suivantes :
+
 a) le prix ou la valeur des marchandises ou des services du consommateur fixé dans une convention de reprise;
+
 b) la valeur marchande des marchandises ou des services du consommateur lorsqu’ils sont pris en échange aux termes d’une convention de reprise. («trade-in allowance») 2002, chap. 30, annexe A, art. 1
 
 ### Champ d’application
@@ -68,22 +107,31 @@ b) la valeur marchande des marchandises ou des services du consommateur lorsqu�
 ### Exceptions
 
 (2) La présente loi ne s’applique pas à ce qui suit :
+
 a) les opérations de consommation réglementées en application de la Loi sur les valeurs mobilières ;
+
 b) les services financiers qui se rapportent aux produits de placement ou aux valeurs mobilières à revenu;
+
 c) les produits ou services financiers réglementés en application de la Loi sur les assurances, de la Loi de 2020 sur les caisses populaires et les credit unions, de la Loi sur les sociétés de prêt et de fiducie ou de la Loi de 2006 sur les maisons de courtage d’hypothèques, les prêteurs hypothécaires et les administrateurs d’hypothèques ;
+
 d) les opérations de consommation réglementées en application de la Loi sur les contrats à terme sur marchandises ;
+
 e) les services professionnels prescrits réglementés en application d’une loi de l’Ontario;
+
 f) les opérations de consommation visant l’achat, la vente ou la location à bail de biens immeubles, sauf les opérations concernant des conventions de multipropriété, au sens de l’article 20;
+
 g) les opérations de consommation réglementées en application de la Loi de 2006 sur la location à usage d’habitation.
 
 ### Idem
 
 (3) La présente loi ne s’applique pas à la fourniture d’un service public ni aux frais de transport, de distribution ou de stockage du gaz au sens de la Loi de 1998 sur la Commission de l’énergie de l’Ontario qui ont reçu l’approbation de la Commission de l’énergie de l’Ontario.
+
 (4) Abrogé : 2010, chap. 8, par. 36 (1).
 
 ### Définition
 
 (5) La définition qui suit s’applique au présent article.
+
 «service public» Eau, gaz naturel ou synthétique, électricité, vapeur ou eau chaude. («public utility») 2002, chap. 30, annexe A, par. 2 (5)
 
 ### Convention de fourniture d’appareils
@@ -219,15 +267,25 @@ g) les opérations de consommation réglementées en application de la Loi de 20
 ### Définition
 
 (9) La définition qui suit s’applique au présent article.
+
 «marchandises ou services non sollicités» Selon le cas :
+
 a) marchandises fournies au consommateur qui ne les a pas demandées, sauf :
+
 (i) les marchandises dont le destinataire sait ou devrait savoir qu’elles sont destinées à autrui,
+
 (ii) les marchandises fournies périodiquement qui subissent un changement non important,
+
 (iii) les marchandises fournies périodiquement sans sollicitation ultérieure aux termes d’une convention à exécution différée écrite;
+
 b) services fournis au consommateur qui ne les a pas demandés, sauf :
+
 (i) les services destinés à autrui, à compter du moment où le destinataire sait ou devrait savoir qu’ils le sont,
+
 (ii) les services continus ou périodiques qui subissent un changement non important,
+
 (iii) les services continus ou périodiques fournis sans sollicitation ultérieure aux termes d’une convention à exécution différée écrite,
+
 (iv) les services de remorquage ou services d’entreposage de véhicules prescrits réglementés sous le régime de la Loi de 2021 sur la sécurité et l’encadrement du remorquage et de l’entreposage de véhicules y compris les services fournis dans des circonstances prescrites.
 
 ### Publicité de sites illégaux
@@ -245,8 +303,11 @@ b) services fournis au consommateur qui ne les a pas demandés, sauf :
 ### Idem
 
 (4) Pour l’application du paragraphe (1), l’expression «faire la publicité» s’entend notamment de ce qui suit :
+
 a) la communication, par voie d’imprimé, de publication, de radiodiffusion, de télédiffusion, de télécommunication ou de tout autre moyen de diffusion, de renseignements en vue de promouvoir l’utilisation d’un site de jeux en ligne;
+
 b) l’inclusion d’un lien sur un site Web en vue de promouvoir l’utilisation d’un site de jeux en ligne, à l’exception d’un lien provenant d’une recherche effectuée au moyen d’un moteur de recherche;
+
 c) l’établissement de rapports de commandite en vue de promouvoir l’utilisation d’un site de jeux en ligne.
 
 ### Application
@@ -262,22 +323,39 @@ c) l’établissement de rapports de commandite en vue de promouvoir l’utilisa
 ### Exemples d’assertions fausses, trompeuses ou mensongères
 
 (2) Les assertions fausses, trompeuses ou mensongères comprennent notamment le fait d’affirmer ce qui suit :
+
 1. Les marchandises ou les services font l’objet d’un parrainage ou d’une approbation ou ont des qualités de rendement, des accessoires, des usages, des composants, des avantages ou des qualités données, alors que ce n’est pas le cas.
+
 2. La personne qui doit fournir les marchandises ou les services bénéficie d’un parrainage, d’une approbation, d’une capacité, d’une affiliation ou d’une relation quelconque, alors que ce n’est pas le cas.
+
 3. La norme, la qualité, la catégorie, le type ou le modèle des marchandises ou des services est d’un type particulier, alors que ce n’est pas le cas.
+
 4. Les marchandises sont neuves ou n’ont pas servi, alors que ce n’est pas le cas ou qu’elles ont été remises en état ou récupérées. Toutefois, leur usage raisonnable pour les entretenir, les mettre au point, les vérifier et les livrer n’a pas pour effet qu’elles soient réputées usagées pour l’application de la présente disposition.
+
 5. Les marchandises sont usagées dans une mesure sensiblement différente de la réalité.
+
 6. Les marchandises ou les services sont offerts pour des raisons inexistantes.
+
 7. Les marchandises ou les services sont fournis conformément à une assertion antérieure, alors que ce n’est pas le cas.
+
 8. Les marchandises ou les services sont, en totalité ou en partie, à la disposition du consommateur ou peuvent lui être livrés ou rendus, alors que l’auteur de l’assertion sait ou devrait savoir que ce n’est pas le cas.
+
 9. Les marchandises ou les services seront disponibles ou peuvent être livrés ou rendus en tout ou en partie dans un délai précisé alors que l’auteur de l’assertion sait ou devrait savoir que ce n’est pas le cas.
+
 10. Un service, une pièce, un remplacement ou une réparation est nécessaire ou souhaitable, alors que ce n’est pas le cas.
+
 11. Le prix comporte un avantage précis, alors que ce n’est pas le cas.
+
 12. Un vendeur, un représentant, un employé ou un mandataire a le pouvoir de négocier les conditions définitives de la convention, alors que cette assertion est fausse.
+
 13. L’opération donne lieu ou non à des droits, à des recours ou à des obligations, alors que cette assertion est fausse, trompeuse ou mensongère.
+
 14. Une exagération, une insinuation ou une ambiguïté concernant un fait important ou qui le passe sous silence, alors que l’assertion qui la contient induit ou tend à induire le consommateur en erreur.
+
 15. Une assertion trompeuse à l’égard du but ou de l’intention d’une sollicitation ou d’une communication visant le consommateur.
+
 16. Une assertion trompeuse à l’égard du but de l’imposition effective ou envisagée de frais.
+
 17. Une assertion trompeuse ou exagérée à l’égard des avantages dont bénéficiera vraisemblablement le consommateur s’il aide quiconque à obtenir de nouveaux clients ou des clients éventuels.
 
 ### Assertion abusive
@@ -287,13 +365,21 @@ c) l’établissement de rapports de commandite en vue de promouvoir l’utilisa
 ### Idem
 
 (2) Pour établir le caractère abusif d’une assertion, il peut être tenu compte notamment du fait que la personne qui la fait, son employeur ou son mandant sait ou devrait savoir :
+
 a) soit que le consommateur n’est pas raisonnablement en mesure de protéger ses intérêts du fait d’une invalidité, de son ignorance, de son analphabétisme, de son inaptitude à comprendre le libellé d’une convention ou de raisons semblables;
+
 b) soit que le prix est outrageusement supérieur à celui qui est payé pour des marchandises ou des services semblables par des consommateurs semblables qui peuvent facilement les obtenir;
+
 c) soit que le consommateur est incapable de retirer un avantage important de l’objet de l’assertion;
+
 d) soit qu’il est raisonnablement improbable que le consommateur s’acquitte pleinement de son obligation;
+
 e) soit que l’opération de consommation procure un avantage excessif à une personne autre que le consommateur;
+
 f) soit que les conditions de l’opération de consommation sont si contraires aux intérêts du consommateur qu’elles sont injustes;
+
 g) soit qu’une opinion émise est trompeuse et que le consommateur est susceptible d’y ajouter foi, à son préjudice;
+
 h) soit que le consommateur est soumis à une pression indue pour lui faire conclure une opération de consommation.
 
 ### Renégociation du prix
@@ -319,13 +405,17 @@ h) soit que le consommateur est soumis à une pression indue pour lui faire conc
 ### Recours en cas de résolution impossible
 
 (2) Le consommateur a le droit de recouvrer soit l’excédent du paiement qu’il a fait aux termes de la convention sur la valeur qu’ont pour lui les marchandises ou les services, soit des dommages-intérêts, ou les deux, si la résolution de la convention prévue au paragraphe (1) est impossible parce que :
+
 a) soit le retour ou la restitution des marchandises ou des services ne peut plus se faire;
+
 b) soit la résolution priverait un tiers d’un droit sur l’objet de la convention qu’il a acquis de bonne foi et contre valeur reçue.
 
 ### Avis
 
 (3) Le consommateur doit donner un avis dans l’année qui suit la conclusion de la convention si, selon le cas :
+
 a) il cherche à la résoudre en vertu du paragraphe (1);
+
 b) il cherche à obtenir le recouvrement prévu au paragraphe (2), si la résolution est impossible.
 
 ### Formulation de l’avis
@@ -343,7 +433,9 @@ b) il cherche à obtenir le recouvrement prévu au paragraphe (2), si la résolu
 ### Adresse
 
 (7) Le consommateur peut envoyer ou donner l’avis à la personne avec qui il a conclu la convention à l’adresse qui y figure ou, s’il n’en a pas reçu copie écrite ou que l’adresse de la personne n’y figure pas :
+
 a) soit à l’adresse de la personne qui figure dans les dossiers du gouvernement de l’Ontario ou du gouvernement du Canada;
+
 b) soit à l’adresse de la personne qu’il connaît.
 
 ### Délai d’introduction d’une action
@@ -373,12 +465,19 @@ b) soit à l’adresse de la personne qu’il connaît.
 ### Effet de la résolution
 
 (14) La résolution d’une convention par le consommateur, faite conformément au paragraphe (1), a pour effet de résilier, comme s’ils n’avaient jamais existé :
+
 a) la convention;
+
 b) toutes les conventions connexes;
+
 c) toutes les garanties données à l’égard des sommes payables aux termes de la convention;
+
 d) toutes les sûretés que le consommateur ou une caution a données à l’égard des sommes payables aux termes de la convention;
+
 e) toutes les conventions de crédit, au sens de la partie VII, et autres effets de paiement, y compris les billets qui, selon le cas :
+
 (i) sont accordés ou facilités par la personne avec qui le consommateur a conclu la convention, ou conclus par son intermédiaire,
+
 (ii) se rapportent par ailleurs à la convention.
 
 ### Renonciation à l’avis
@@ -400,21 +499,37 @@ e) toutes les conventions de crédit, au sens de la partie VII, et autres effets
 ### Interprétation
 
 20 (1) Les définitions qui suivent s’appliquent à la présente partie.
+
 «convention à distance» Convention de consommation conclue lorsque le consommateur et le fournisseur ne sont pas en présence l’un de l’autre. («remote agreement»)
+
 «convention de multipropriété» Convention de consommation qui donne au consommateur :
+
 a) soit le droit d’utiliser un bien, qu’il se trouve ou non en Ontario, selon un plan en prévoyant la jouissance successive périodique par ses participants;
+
 b) soit l’accès à des escomptes ou avantages à l’égard de la fourniture future de services de transport ou d’hébergement ou d’autres marchandises ou services relatifs aux voyages. («time share agreement»)
+
 «convention directe» Convention de consommation négociée ou conclue en personne ailleurs que :
+
 a) soit dans l’établissement du fournisseur;
+
 b) soit dans un marché, une vente aux enchères, une foire commerciale, une foire agricole ou une exposition. («direct agreement»)
+
 «convention électronique» Convention de consommation formée par communication électronique textuelle sur Internet. («internet agreement»)
+
 «droit d’adhésion» Somme payable par le consommateur pour des services de perfectionnement personnel. («membership fee»)
+
 «services de perfectionnement personnel» S’entend :
+
 a) d’une part, des services visant ce qui suit :
+
 (i) la santé, la bonne forme physique, la diététique ou d’autres domaines similaires,
+
 (ii) la profession de mannequin et le perfectionnement, y compris les séances de photographie s’y rapportant, ou d’autres domaines similaires,
+
 (iii) les arts martiaux, le sport, la danse ou d’autres domaines similaires,
+
 (iv) les autres domaines prescrits;
+
 b) d’autre part, des installations ou des cours liés aux services visés à l’alinéa a) ainsi que des marchandises accessoires à leur prestation. («personal development services») 2002, chap. 30, annexe A, par. 20 (1)
 
 ### Restriction : résiliation
@@ -462,7 +577,9 @@ b) d’autre part, des installations ou des cours liés aux services visés à l
 ### Livraison tardive
 
 26 (1) Le consommateur peut résilier une convention à exécution différée avant la livraison ou le commencement de l’exécution qu’elle prévoit si le fournisseur, selon le cas :
+
 a) ne fait pas la livraison dans les 30 jours de la date qu’elle précise ou de l’autre date dont le consommateur a convenu par écrit;
+
 b) ne commence pas à s’acquitter de ses obligations dans les 30 jours de la date que précise la convention ou de l’autre date dont le consommateur a convenu par écrit.
 
 ### Absence de date de livraison ou de commencement
@@ -476,7 +593,9 @@ b) ne commence pas à s’acquitter de ses obligations dans les 30 jours de la d
 ### Livraison ou exécution réputée faite
 
 (4) Pour l’application des paragraphes (1) et (2), le fournisseur est réputé avoir fait la livraison ou commencé l’exécution que prévoit une convention à exécution différée si, selon le cas :
+
 a) le consommateur a refusé la livraison au moment où elle a été tentée ou elle n’a pas eu lieu parce que personne n’était disponible pour l’accepter pour lui le jour où elle a été tentée conformément à l’avis raisonnable qui a été donné au consommateur;
+
 b) le consommateur a refusé le commencement au moment où il a été tenté ou il n’a pas eu lieu parce que personne n’était disponible pour l’autoriser le jour où il a été tenté conformément à l’avis raisonnable qui a été donné au consommateur.
 
 ### Conventions de multipropriété
@@ -498,16 +617,23 @@ b) le consommateur a refusé le commencement au moment où il a été tenté ou 
 ### Champ d’application
 
 29 (1) Les articles 30 à 36 s’appliquent aux services de perfectionnement personnel effectifs ou envisagés pour lesquels :
+
 a) d’une part, le paiement est exigé d’avance;
+
 b) d’autre part, le consommateur doit faire un paiement éventuel total, à l’exclusion du coût d’emprunt, supérieur à la somme prescrite.
 
 ### Exceptions
 
 (2) Les articles 30 à 36 ne s’appliquent pas aux services de perfectionnement personnel fournis, selon le cas :
+
 a) à titre non lucratif ou coopératif;
+
 b) par un club privé dont les membres sont les principaux propriétaires;
+
 c) accessoirement aux marchandises ou aux services fournis au consommateur;
+
 d) par un fournisseur financé ou géré par une oeuvre de bienfaisance, par un organisme municipal, ou par la province de l’Ontario ou un de ses organismes;
+
 e) par un club de golf.
 
 ### Disposition transitoire
@@ -565,7 +691,9 @@ e) par un club de golf.
 ### Droit d’entrée
 
 33 Nul fournisseur de services de perfectionnement personnel ne doit, selon le cas :
+
 a) exiger d’un consommateur plus d’un droit d’entrée;
+
 b) exiger un droit d’entrée supérieur à deux fois le droit d’adhésion annuel.
 
 ### Paiement par versements échelonnés
@@ -603,7 +731,9 @@ b) exiger un droit d’entrée supérieur à deux fois le droit d’adhésion an
 ### Fonctions du fiduciaire
 
 (5) Si un fournisseur a recours à un fiduciaire en application du paragraphe (1) :
+
 a) d’une part, tout avis donné au fiduciaire est réputé donné au fournisseur;
+
 b) d’autre part, toute somme payable par le fournisseur est payable par le fiduciaire dans la mesure où celui-ci détient suffisamment de fonds en fiducie à cet effet.
 
 ### Idem
@@ -635,7 +765,9 @@ b) d’autre part, toute somme payable par le fournisseur est payable par le fid
 ### Mode de divulgation
 
 (3) Outre les exigences énoncées à l’article 5, les renseignements divulgués en application du présent article doivent être rendus accessibles et disponibles d’une manière qui garantit que :
+
 a) d’une part, le consommateur y a accédé;
+
 b) d’autre part, le consommateur peut les conserver et les imprimer.
 
 ### Copie de la convention électronique
@@ -653,7 +785,9 @@ b) d’autre part, le consommateur peut les conserver et les imprimer.
 ### Résiliation de la convention électronique
 
 40 (1) Le consommateur peut résilier une convention électronique en tout temps à compter du jour où il l’a conclue et jusqu’à sept jours après en avoir reçu une copie si, selon le cas :
+
 a) le fournisseur ne lui a pas divulgué les renseignements exigés en application du paragraphe 38 (1);
+
 b) le fournisseur ne lui a pas donné expressément la possibilité de l’accepter ou de la refuser ou de corriger les erreurs immédiatement avant de la conclure.
 
 ### Idem
@@ -681,7 +815,9 @@ b) le fournisseur ne lui a pas donné expressément la possibilité de l’accep
 ### Règlements du ministre
 
 (2) En plus du fait que le lieutenant-gouverneur en conseil peut prendre des règlements en vertu de l’article 123, le ministre peut, par règlement :
+
 a) régir le contenu des conventions directes et les exigences relatives à leur conclusion, à leur renouvellement, à leur modification ou à leur prorogation;
+
 b) exiger qu’un fournisseur visé par une convention directe divulgue au consommateur les renseignements précisés dans le règlement, régir les renseignements divulgués et exiger que le fournisseur prenne les autres mesures précisées dans le règlement pour s’assurer que le consommateur a reçu les renseignements divulgués.
 
 ### Résiliation : délai de réflexion
@@ -703,7 +839,9 @@ b) exiger qu’un fournisseur visé par une convention directe divulgue au conso
 ### Idem
 
 (2) Pour l’application du paragraphe (1), les activités suivantes ne constituent pas de la sollicitation :
+
 1. Laisser des documents de commercialisation au logement d’un consommateur ou dans un autre lieu prescrit pour l’application de ce paragraphe sans tenter de contacter le consommateur à propos d’une convention directe prescrite.
+
 2. Les autres activités prescrites.
 
 ### Convention nulle
@@ -713,8 +851,11 @@ b) exiger qu’un fournisseur visé par une convention directe divulgue au conso
 ### Conventions connexes nulles
 
 (4) Toute convention qui se rapporte aux obligations du consommateur dans le cadre de la convention directe est nulle, notamment les conventions suivantes :
+
 1. Une garantie ou une sûreté donnée par une caution afin de garantir l’exécution de ces obligations.
+
 2. Une convention aux termes de laquelle le consommateur donne une sûreté afin de garantir l’exécution de ces obligations.
+
 3. Une convention de crédit, au sens de la partie VII, que le consommateur conclut en tant qu’emprunteur à l’égard d’un prêt qu’il est tenu de payer aux termes de la convention directe et tout autre effet de paiement qu’il conclut à cet égard.
 
 ### Marchandises ou services non sollicités
@@ -768,8 +909,11 @@ b) exiger qu’un fournisseur visé par une convention directe divulgue au conso
 ### Champ d’application et disposition transitoire
 
 (2) Le présent article s’applique à toutes les conventions de consommation aux termes desquelles sont offerts des points de récompense et qui, selon le cas :
+
 a) existaient au 1 er octobre 2016;
+
 b) ont été conclues après le 1 er octobre 2016, mais avant le jour de l’entrée en vigueur du présent article;
+
 c) sont conclues à la date de l’entrée en vigueur du présent article ou par la suite.
 
 ### Effet de l’annulation
@@ -809,13 +953,21 @@ c) sont conclues à la date de l’entrée en vigueur du présent article ou par
 ### Définitions
 
 48 Les définitions qui suivent s’appliquent à la présente partie.
+
 «dossier», «rapport sur le consommateur», «renseignements personnels» et «renseignements sur la solvabilité» S’entendent au sens de l’article 1 de la Loi sur les renseignements concernant le consommateur. («file», «consumer report», «personal information», «credit information»)
+
 «exploitant» Selon le cas :
+
 a) redresseur de crédit ou courtier en prêts;
+
 b) fournisseur des marchandises ou des services prescrits ou personne qui se fait passer pour tel. («operator»)
+
 «redressement de crédit» Services ou marchandises destinés à améliorer un rapport sur le consommateur, des renseignements sur la solvabilité, un dossier ou des renseignements personnels, y compris un dossier de crédit, des antécédents en matière de crédit et une cote de solvabilité. («credit repair»)
+
 «redresseur de crédit» Selon le cas :
+
 a) fournisseur de redressement de crédit;
+
 b) quiconque se présente comme une personne visée à l’alinéa a). («credit repairer») 2002, chap. 30, annexe A, art. 48
 
 ### Exigences relatives à la convention de consommation
@@ -825,8 +977,11 @@ b) quiconque se présente comme une personne visée à l’alinéa a). («credit
 ### Paiements anticipés interdits
 
 50 (1) L’exploitant ne doit pas, directement ou indirectement, exiger ni accepter du consommateur ou pour son compte un paiement ou une garantie de paiement avant que :
+
 a) à l’égard du courtage en prêts, le consommateur reçoive le crédit ou le prêt que le courtier en prêts l’a aidé à obtenir;
+
 b) à l’égard d’un redressement de crédit, le redresseur de crédit amène une amélioration importante du rapport sur le consommateur, des renseignements sur la solvabilité le concernant, de son dossier, de ses renseignements personnels, de son dossier de crédit, de ses antécédents en matière de crédit ou de sa cote de solvabilité;
+
 c) à l’égard de la fourniture de marchandises ou de services prescrits, il soit satisfait aux exigences prescrites.
 
 ### Nullité des contrats de sûreté
@@ -866,8 +1021,11 @@ c) à l’égard de la fourniture de marchandises ou de services prescrits, il s
 ### Définitions
 
 55 Les définitions qui suivent s’appliquent à la présente partie.
+
 «devis» Estimation du coût total des travaux et des réparations faits sur des marchandises réparées. («estimate»)
+
 «réparateur» Fournisseur qui fait des travaux sur des véhicules ou des marchandises prescrites ou qui les répare. («repairer»)
+
 «véhicule» Véhicule automobile au sens du Code de la route. («vehicle») 2002, chap. 30, annexe A, art. 55.
 
 ### Devis
@@ -877,8 +1035,11 @@ c) à l’égard de la fourniture de marchandises ou de services prescrits, il s
 ### Idem
 
 (2) Malgré le paragraphe (1), le réparateur peut facturer un travail ou une réparation sans remettre de devis si les conditions suivantes sont réunies :
+
 a) il en offre un au consommateur et celui-ci le refuse;
+
 b) le consommateur autorise expressément le montant maximal qu’il lui paiera pour faire la réparation ou le travail;
+
 c) le coût facturé du travail ou de la réparation n’est pas supérieur au montant maximal autorisé par le consommateur.
 
 ### Frais de devis
@@ -924,7 +1085,9 @@ c) le coût facturé du travail ou de la réparation n’est pas supérieur au m
 ### Exception
 
 (3) Les paragraphes (1) et (2) ne s’appliquent pas, selon le cas :
+
 a) aux pièces pour lesquelles aucun montant n’est exigé ou aux pièces ayant fait l’objet de travaux ou de réparations pour lesquels aucun montant n’est exigé;
+
 b) aux pièces remplacées dans le cadre d’une garantie qui exige leur renvoi au fabricant ou au distributeur.
 
 ### Facture
@@ -978,7 +1141,9 @@ b) aux pièces remplacées dans le cadre d’une garantie qui exige leur renvoi 
 ### Partie VI.1 (ART. 65.1-65.21) Abrogée : 2021, chap. 26, annexe 3, par. 65 (2).
 
 65.1 à 65.11 Abrogés : 2021, chap. 26, annexe 3, par. 65 (2).
+
 65.12 Abrogé : 2021, chap. 26, annexe 3, par. 65 (2).
+
 65.13 à 65.21 Abrogés : 2021, chap. 26, annexe 3, par. 65 (2).
 
 ## PARTIE VII CONVENTIONS DE CRÉDIT
@@ -988,35 +1153,57 @@ b) aux pièces remplacées dans le cadre d’une garantie qui exige leur renvoi 
 ### Définitions
 
 66 Les définitions qui suivent s’appliquent à la présente partie.
+
 «avance» La valeur prescrite que l’emprunteur reçoit aux termes d’une convention de crédit. («advance»)
+
 «convention de crédit» Convention de consommation aux termes de laquelle un prêteur accorde un crédit ou consent un prêt à un emprunteur. S’entend en outre d’une convention de crédit fournisseur et d’une convention de consommation éventuelle aux termes de laquelle l’octroi d’un crédit, un prêt ou une convention de crédit fournisseur peut se produire ultérieurement. Sont exclues les conventions aux termes desquelles un prêteur accorde un crédit ou consent un prêt garanti par une hypothèque portant sur un bien immeuble ou les conventions de consommation d’un type prescrit. («credit agreement»)
+
 «convention de crédit fournisseur» Convention de consommation, à l’exclusion d’une convention de consommation portant sur un bail auquel s’applique la partie VIII, selon laquelle le fournisseur ou une personne associée avec lui accorde un crédit fixe au consommateur pour l’aider à obtenir du fournisseur des marchandises ou des services, à l’exclusion d’un crédit ou d’un prêt. («supplier credit agreement»)
+
 «coût d’emprunt» Le total des sommes qu’un emprunteur est tenu de payer aux termes d’une convention de crédit, ou comme condition pour en conclure une, et des sommes prescrites, à l’exclusion de ce qui suit :
+
 a) le paiement ou le remboursement d’une partie du capital aux termes de la convention, selon ce qui est prescrit;
+
 b) les frais prescrits. («cost of borrowing»)
+
 «créancier fournisseur» Le fournisseur ou la personne associée avec lui qui est partie à une convention de crédit fournisseur. («supplier creditor»)
+
 «crédit fixe» Crédit ou prêt accordé aux termes d’une convention de crédit qui ne prévoit pas un crédit en blanc. («fixed credit»)
+
 «emprunteur» Consommateur qui, en tant que partie à une convention de crédit, reçoit ou peut recevoir un crédit ou un prêt de l’autre partie, ou qui manifeste un intérêt à devenir partie à une telle convention. Est exclu quiconque est une caution. («borrower»)
+
 «frais de courtage» Paiement qu’un emprunteur verse ou accepte de verser à un courtier en prêts qui l’aide à conclure une convention de crédit. S’entend en outre de la somme qui est déduite d’une avance consentie à l’emprunteur et qui est versée au courtier. («brokerage fee»)
+
 «frais de défaut» Frais imposés à l’emprunteur qui ne fait pas un paiement à l’échéance prévue par une convention de crédit ou qui ne remplit pas une autre obligation qu’elle prévoit, à l’exclusion des intérêts sur un paiement en souffrance. («default charge»)
+
 «prêteur» Fournisseur qui est partie à une convention de crédit ou qui est susceptible de le devenir et qui fait ou peut faire crédit ou consent ou peut consentir un prêt à l’emprunteur. S’entend en outre de l’émetteur d’une carte de crédit. («lender»)
+
 «service facultatif» Service qui est offert à un emprunteur relativement à une convention de crédit et qu’il n’est pas obligé d’accepter afin de la conclure. («optional service»)
+
 «taux de crédit» Le taux annuel en pourcentage dont est assortie une convention de crédit et qui est calculé de la manière prescrite. («annual percentage rate»)
+
 «taux variable» Taux ayant un rapport mathématique précisé avec un indice public qui satisfait aux exigences prescrites. («floating rate») 2002, chap. 30, annexe A, art. 66
 
 ### Non-application de la présente partie
 
 67 (1) La présente partie et ses règlements d’application ne s’appliquent pas à une convention de prêt sur salaire au sens du paragraphe 1 (1) de la Loi de 2008 concernant les prêts sur salaire, ni à la convention de crédit fournisseur qui a les caractéristiques suivantes :
+
 a) elle oblige l’emprunteur à régler intégralement le solde au moyen d’un paiement unique dans un certain délai après que le fournisseur lui remet par écrit une facture ou un relevé de compte;
+
 b) elle prévoit inconditionnellement qu’aucun intérêt ne court pendant le délai de règlement visé à l’alinéa a);
+
 c) elle ne prévoit pas de frais autres que des intérêts;
+
 d) elle n’est pas garantie, à l’exclusion des privilèges détenus sur les marchandises ou les services fournis par suite de la convention qui peuvent prendre naissance par l’opération de la loi;
+
 e) elle ne peut être cédée par le fournisseur dans le cours ordinaire d’activités commerciales, sauf à titre de garantie.
 
 ### Obligations des courtiers en prêts
 
 (2) Si un courtier en prêts aide un consommateur à obtenir un crédit ou un prêt et que le créancier n’exerce pas l’activité de faire crédit ou de consentir des prêts, les obligations que la présente partie imposerait au prêteur sont réputées celles du courtier en prêts et non du créancier, sauf selon ce qui est prescrit.
+
 (3) Abrogé : 2004, chap. 19, par. 7 (17).
+
 (4) Abrogé : 2004, chap. 19, par. 7 (17).
 
 ### Convention relative à une carte de crédit
@@ -1034,7 +1221,9 @@ e) elle ne peut être cédée par le fournisseur dans le cours ordinaire d’act
 ### Conséquence de la non-divulgation
 
 70 L’emprunteur visé par une convention de crédit n’est redevable au prêteur :
+
 a) ni du coût d’emprunt prévu par la convention de crédit, si l’emprunteur ne reçoit pas les déclarations et relevés exigés par la présente partie;
+
 b) ni, au titre du coût d’emprunt, de l’excédent sur les sommes que précisent les déclarations et relevés concernant la convention dont la présente partie exige la remise à l’emprunteur.
 
 ### Correction des erreurs
@@ -1072,8 +1261,11 @@ b) ni, au titre du coût d’emprunt, de l’excédent sur les sommes que préci
 ### Frais de défaut
 
 75 Le prêteur n’a pas le droit d’imposer à l’emprunteur visé par une convention de crédit des frais de défaut autres que, selon le cas :
+
 a) les frais raisonnables liés aux frais de justice qu’il engage pour percevoir ou tenter de percevoir un paiement que l’emprunteur est tenu de verser aux termes de la convention;
+
 b) les frais raisonnables liés aux frais, notamment les frais de justice, qu’il engage pour réaliser une sûreté ou protéger l’objet d’une sûreté par suite d’un défaut survenu dans le cadre de la convention;
+
 c) les frais raisonnables qui reflètent les frais qu’il engage par suite du refus d’un chèque ou d’un autre effet de paiement que l’emprunteur a remis aux termes de la convention.
 
 ### Paiement anticipé
@@ -1083,6 +1275,7 @@ c) les frais raisonnables qui reflètent les frais qu’il engage par suite du r
 ### Remboursement ou crédit
 
 (2) Si l’emprunteur paie par anticipation l’intégralité des sommes impayées dans le cadre d’une convention de crédit fixe, le prêteur lui rembourse ou porte à son crédit la partie, calculée de la manière prescrite, des éléments du coût d’emprunt, sauf les sommes payées au titre des intérêts, qu’il a payés ou qui ont été ajoutés au solde aux termes de la convention.
+
 (3) Abrogé : 2004, chap. 19, par. 7 (19).
 
 ### Paiement anticipé partiel
@@ -1102,7 +1295,9 @@ c) les frais raisonnables qui reflètent les frais qu’il engage par suite du r
 ### Déclaration des frais de courtage
 
 78 (1) Si l’emprunteur paie des frais de courtage à un courtier en prêts ou qu’il en est redevable, que ce soit directement ou en les déduisant d’une avance, la déclaration initiale concernant la convention de crédit doit :
+
 a) d’une part, faire état du montant des frais de courtage;
+
 b) d’autre part, tenir compte des frais de courtage dans le taux de crédit et le coût d’emprunt.
 
 ### Déclaration du courtier en prêts
@@ -1160,7 +1355,9 @@ b) d’autre part, tenir compte des frais de courtage dans le taux de crédit et
 ### Exception
 
 (2) Le prêteur n’est pas tenu de remettre un relevé de compte à l’emprunteur à la fin de toute période où, depuis le dernier relevé de compte, ce dernier n’a reçu aucune avance et n’a fait aucun paiement aux termes de la convention si, selon le cas :
+
 a) à la fin de la période, le solde que l’emprunteur doit payer est de zéro;
+
 b) l’emprunteur est en défaut et a été avisé que le prêteur a annulé ou suspendu son droit d’obtenir des avances aux termes de la convention et a exigé le paiement du solde impayé.
 
 ### Renseignements sur le compte
@@ -1174,7 +1371,9 @@ b) l’emprunteur est en défaut et a été avisé que le prêteur a annulé ou 
 ### Modification du taux d’intérêt
 
 (5) Le prêteur visé par une convention de crédit en blanc qui, conformément à celle-ci, modifie le taux d’intérêt qu’elle prévoit remet à l’emprunteur une déclaration faisant état de la modification :
+
 a) dans le relevé de compte qui suit la modification, dans le cas d’une convention de crédit qui ne se rapporte pas à une carte de crédit;
+
 b) au moins 30 jours avant la modification, dans le cas d’une convention de crédit qui se rapporte à une carte de crédit si le taux d’intérêt n’est pas un taux variable.
 
 ### Autres modifications
@@ -1184,7 +1383,9 @@ b) au moins 30 jours avant la modification, dans le cas d’une convention de cr
 ### Idem
 
 (7) Si les parties ont convenu de modifier une convention de crédit en blanc qui se rapporte à une carte de crédit et que la modification change les renseignements prescrits en application du paragraphe 79 (3), le prêteur remet à l’emprunteur une déclaration supplémentaire énonçant les renseignements modifiés :
+
 a) dans les 30 jours de la modification, s’il ne s’agit pas d’une modification importante, selon ce qui est prescrit;
+
 b) au moins 30 jours avant la modification, s’il s’agit d’une modification importante, selon ce qui est prescrit.
 
 ### Cession d’une garantie de crédit
@@ -1232,8 +1433,11 @@ b) au moins 30 jours avant la modification, s’il s’agit d’une modification
 ### Rajustements ultérieurs
 
 (2) En cas de rajustement postérieur à celui prévu au paragraphe (1) de la somme payable par le consommateur aux termes d’une convention de consommation à laquelle s’applique ce paragraphe, demeurent inchangés dans la convention, selon le cas :
+
 a) le taux en pourcentage du coût d’emprunt;
+
 b) le nombre total de versements échelonnés exigés pour acquitter la dette totale;
+
 c) le prix qui y est indiqué.
 
 ## Partie VII.1 conventions pour l’encaissement des chèques du gouvernement
@@ -1241,10 +1445,15 @@ c) le prix qui y est indiqué.
 ### Définitions
 
 85.1 Les définitions qui suivent s’appliquent à la présente partie.
+
 «banque» Banque, banque étrangère autorisée ou coopérative de crédit fédérale au sens de l’article 2 de la Loi sur les banques (Canada). («bank»)
+
 «caisse» ou «caisse populaire» S’entend au sens de la Loi de 2020 sur les caisses populaires et les credit unions. («credit union»)
+
 «chèque du gouvernement» Chèque émis à un consommateur par le gouvernement de l’Ontario, un organisme gouvernemental ou le gouvernement fédéral. («government cheque»)
+
 «gouvernement fédéral» Le gouvernement du Canada ainsi que ses ministères, organismes, conseils, commissions, fonctionnaires ou autres entités. («federal government»)
+
 «organisme gouvernemental» S’entend de la Couronne du chef de l’Ontario, d’un organisme de la Couronne du chef de l’Ontario, d’une administration municipale, d’un organisme municipal prescrit ou de toute autre entité prescrite. («government agency») 2017, chap. 5, annexe 2, art. 17
 
 ### Application
@@ -1266,9 +1475,13 @@ c) le prix qui y est indiqué.
 ### Montant des frais
 
 (2) Pour l’application du paragraphe (1), le montant prescrit des frais exigés pour l’encaissement d’un chèque du gouvernement peut être, selon le cas :
+
 a) un montant fixe;
+
 b) un pourcentage de la valeur nominale du chèque ou tout autre montant calculé d’après la valeur nominale du chèque;
+
 c) un montant qui résulte de l’application de toute combinaison des alinéas a) et b);
+
 d) un montant déterminé par tout autre moyen prescrit.
 
 ### Relevé d’encaissement des chèques du gouvernement
@@ -1280,17 +1493,25 @@ d) un montant déterminé par tout autre moyen prescrit.
 ### Définitions
 
 86 Les définitions qui suivent s’appliquent à la présente partie.
+
 «bail» Convention de consommation portant sur la location à bail de marchandises, à l’exclusion d’une telle convention conclue dans le cadre d’un bail à usage d’habitation. Les termes «bailleur» et «preneur» ont un sens correspondant. («lease», «lessor», «lessee»)
+
 «bail à obligation résiduelle» Bail aux termes duquel le bailleur peut exiger que le preneur lui paie, au terme de la durée du bail, une somme fondée, en totalité ou en partie, sur la différence éventuelle entre :
+
 a) d’une part, la valeur de gros estimative des marchandises louées au terme de la durée du bail;
+
 b) d’autre part, la valeur de réalisation des marchandises louées au terme de la durée du bail. («residual obligation lease»)
+
 «durée du bail» Période pendant laquelle le preneur a le droit de conserver la possession des marchandises louées. («lease term») 2002, chap. 30, annexe A, art. 86
 
 ### Application de la présente partie
 
 87 La présente partie s’applique à ce qui suit :
+
 a) les baux d’une durée fixe de quatre mois ou plus;
+
 b) les baux d’une durée indéterminée ou qui sont renouvelés automatiquement jusqu’à ce qu’une des parties fasse des démarches précises pour les résilier;
+
 c) les baux à obligation résiduelle.
 
 ### Assertions
@@ -1300,7 +1521,9 @@ c) les baux à obligation résiduelle.
 ### Déclaration
 
 89 (1) Le bailleur remet au preneur une déclaration concernant le bail avant celui des moments suivants qui est antérieur à l’autre :
+
 a) le moment où le preneur conclut le bail;
+
 b) le moment où le preneur fait un paiement lié au bail.
 
 ### Contenu de la déclaration
@@ -1340,7 +1563,9 @@ b) le moment où le preneur fait un paiement lié au bail.
 ### Adresse
 
 (5) Le consommateur peut envoyer ou remettre l’avis à l’adresse qui figure dans la convention de consommation ou, s’il n’en a pas reçu copie écrite ou que l’adresse n’y figure pas :
+
 a) soit à l’adresse du fournisseur qui figure dans les dossiers du gouvernement de l’Ontario ou du gouvernement du Canada;
+
 b) soit à l’adresse du fournisseur qu’il connaît.
 
 ### Effet de non-respect de la Loi
@@ -1362,18 +1587,27 @@ b) soit à l’adresse du fournisseur qu’il connaît.
 ### Effet de la résiliation
 
 95 La résiliation d’une convention de consommation faite conformément à la présente loi a pour effet de résilier, comme s’ils n’avaient jamais existé :
+
 a) la convention de consommation;
+
 b) toutes les conventions connexes;
+
 c) toutes les garanties données à l’égard des sommes payables aux termes de la convention de consommation;
+
 d) toutes les sûretés que le consommateur ou une caution a données à l’égard des sommes payables aux termes de la convention de consommation;
+
 e) toutes les conventions de crédit, au sens de la partie VII, et autres effets de paiement, y compris les billets qui, selon le cas :
+
 (i) sont accordés ou facilités par la personne avec qui le consommateur a conclu la convention de consommation, ou conclus par son intermédiaire,
+
 (ii) se rapportent par ailleurs à la convention de consommation.
 
 ### Obligations par suite de la résiliation
 
 96 (1) Si le consommateur résilie une convention de consommation, le fournisseur, conformément aux exigences prescrites :
+
 a) d’une part, lui rembourse les paiements faits aux termes de la convention ou de toute convention connexe;
+
 b) d’autre part, lui retourne les marchandises livrées aux termes d’une convention de reprise, essentiellement dans le même état qu’au moment de la livraison, ou lui rembourse une somme égale à la valeur de reprise.
 
 ### Reprise de possession ou retour des marchandises
@@ -1415,7 +1649,9 @@ b) d’autre part, lui retourne les marchandises livrées aux termes d’une con
 ### Droit d’action
 
 (3) Le consommateur peut, conformément à l’article 100, introduire une action pour recouvrer :
+
 a) soit le paiement de frais ou d’une somme exigés par le fournisseur en contravention à la présente loi;
+
 b) soit un paiement reçu par le fournisseur en contravention à la présente loi.
 
 ### Non-fournisseur
@@ -1429,9 +1665,13 @@ b) soit un paiement reçu par le fournisseur en contravention à la présente lo
 ### Types de paiements
 
 (2) Le paragraphe (1) s’applique à ce qui suit :
+
 a) les paiements effectués à l’égard d’une convention de consommation résiliée en vertu de la présente loi ou à l’égard d’une convention connexe;
+
 b) les paiements reçus en contravention à la présente loi;
+
 c) les paiements effectués à l’égard de frais ou d’une somme exigés en contravention à la présente loi;
+
 d) les paiements perçus à l’égard de marchandises ou de services non sollicités pour lesquels aucun paiement n’est exigé en application de l’article 13.
 
 ### Délai de demande
@@ -1445,9 +1685,13 @@ d) les paiements perçus à l’égard de marchandises ou de services non sollic
 ### Obligation de l’émetteur de la carte de crédit
 
 (5) Dans le délai prescrit, l’émetteur de la carte de crédit :
+
 a) d’une part, accuse réception de la demande du consommateur;
+
 b) d’autre part, si la demande satisfait aux exigences du paragraphe (4) :
+
 (i) soit annule ou contrepasse le débit et les intérêts ou autres frais connexes,
+
 (ii) soit, après avoir enquêté, avise par écrit le consommateur de ses motifs de croire qu’il n’a pas le droit de résilier la convention de consommation ou de demander un remboursement en vertu de la présente loi.
 
 ### Droit d’introduire une action
@@ -1465,7 +1709,9 @@ b) d’autre part, si la demande satisfait aux exigences du paragraphe (4) :
 ### Jugement
 
 (2) À moins que cela ne soit inéquitable dans les circonstances, le tribunal doit ordonner que le consommateur qui obtient gain de cause dans une action recouvre ce qui suit :
+
 a) le paiement intégral auquel il a droit en vertu de la présente loi;
+
 b) toutes les marchandises livrées aux termes d’une convention de reprise ou une somme égale à la valeur de reprise.
 
 ### Idem
@@ -1481,8 +1727,11 @@ b) toutes les marchandises livrées aux termes d’une convention de reprise ou 
 ### Pouvoirs du ministre
 
 102 (1) Le ministre peut faire ce qui suit :
+
 a) diffuser des renseignements afin de sensibiliser et d’aviser les consommateurs;
+
 b) informer les consommateurs sur l’utilisation de modes de règlement extrajudiciaire des différends comme moyen de régler les différends découlant d’opérations de consommation;
+
 c) exécuter la présente loi et d’autres textes législatifs sur la protection du consommateur.
 
 ### Délégation des pouvoirs et fonctions
@@ -1496,7 +1745,9 @@ c) exécuter la présente loi et d’autres textes législatifs sur la protectio
 ### Convention d’exécution
 
 (4) Pour l’exécution de la présente loi et d’autres textes législatifs sur la protection du consommateur, le ministre peut faire ce qui suit :
+
 a) conclure des conventions avec des organismes d’exécution de la loi du Canada et d’autres autorités législatives;
+
 b) pour l’application de l’alinéa a), partager et échanger des renseignements sur des violations effectives ou possibles de la présente loi ou d’autres textes législatifs sur la protection du consommateur.
 
 ### Fonctions du directeur
@@ -1506,11 +1757,17 @@ b) pour l’application de l’alinéa a), partager et échanger des renseigneme
 ### Idem
 
 (2) Le directeur tient, conformément aux exigences prescrites, un registre public de ce qui suit :
+
 1. Les engagements d’observation volontaire pris en application de la présente loi.
+
 1.1 Les politiques établies en application du paragraphe (2.1).
+
 2. Les omissions, par un fournisseur, de fournir un document ou une autre preuve exigé par le ministère en vertu du paragraphe 105 (4).
+
 3. Les ordonnances prises ou rendues en vertu de l’article 109.
+
 3.1 Les ordonnances d’observation prises ou rendues en vertu de la présente loi.
+
 4. Les autres documents ou renseignements prescrits.
 
 ### Politiques
@@ -1520,14 +1777,19 @@ b) pour l’application de l’alinéa a), partager et échanger des renseigneme
 ### Renseignements supplémentaires
 
 (2.2) Si des renseignements concernant un fournisseur doivent être rendus publics en application du paragraphe (2) ou des règlements, le directeur inclut dans le registre public portant sur le fournisseur tous les renseignements suivants, s’il les connaît :
+
 1. Tous les noms et emplacements commerciaux du fournisseur.
+
 2. Tout autre renseignement prescrit au sujet des activités commerciales du fournisseur.
 
 ### Accords sur la communication de renseignements
 
 (2.3) Le directeur peut conclure un accord avec n’importe laquelle des entités suivantes pour que cette dernière divulgue des renseignements au ministère dans le but de les rendre publics pour l’application du présent article :
+
 1. Un autre ministère du gouvernement de l’Ontario, une société qui applique des textes législatifs pour le compte de ce gouvernement ou un organisme, un conseil ou une commission créé par une loi de l’Ontario.
+
 2. Une municipalité en Ontario ou l’un de ses organismes, conseils ou commissions.
+
 3. Le gouvernement du Canada ou l’un de ses ministères, organismes, conseils ou commissions.
 
 ### Registre public
@@ -1559,13 +1821,17 @@ b) pour l’application de l’alinéa a), partager et échanger des renseigneme
 ### Définitions
 
 104.1 Les définitions qui suivent s’appliquent à la présente partie.
+
 «enquêteur» Enquêteur nommé en vertu du paragraphe 106 (1); (« investigator»)
+
 «inspecteur» Personne nommée ou désignée en vertu de l’article 105.1. (« inspector») 2006, chap. 34, par. 8 (4)
 
 ### Plaintes et demandes de renseignements
 
 105 (1) Le ministère peut :
+
 a) d’une part, recevoir les plaintes relatives à une conduite qui peut contrevenir à la présente loi, à d’autres textes législatifs sur la protection du consommateur ou à une autre loi prescrite, qu’il y ait infraction ou non;
+
 b) d’autre part, demander et recueillir des renseignements et tenter de régler ou de résoudre des plaintes, selon ce qui est indiqué, relativement aux questions portées à son attention qui peuvent contrevenir à la présente loi, à d’autres textes législatifs sur la protection du consommateur ou à une autre loi prescrite, qu’il y ait infraction ou non.
 
 ### Médiation
@@ -1603,7 +1869,9 @@ b) d’autre part, demander et recueillir des renseignements et tenter de régle
 ### Inspecteurs
 
 105.1 Le directeur peut, par écrit :
+
 a) nommer des personnes à titre d’inspecteurs pour l’application de la présente loi;
+
 b) désigner des personnes, y compris des personnes engagées à titre d’inspecteurs ou d’enquêteurs pour l’application de toute autre loi, comme inspecteurs pour l’application de la présente loi ou aux fins précises visées par la présente loi qui sont prévues dans la désignation.
 
 ### Pouvoirs d’inspection
@@ -1629,10 +1897,15 @@ b) désigner des personnes, y compris des personnes engagées à titre d’inspe
 ### Pouvoirs de l’inspecteur
 
 (6) L’inspecteur qui effectue une inspection peut :
+
 a) examiner un dossier ou une autre chose qui, à son avis, peut se rapporter à l’inspection;
+
 b) exiger la production d’un dossier ou d’une autre chose qui, à son avis, peut se rapporter à l’inspection;
+
 c) enlever un dossier ou une autre chose qui, à son avis, peut se rapporter à l’inspection pour en faire l’examen ou en tirer des copies;
+
 d) recourir aux dispositifs ou systèmes de stockage, de traitement ou d’extraction des données utilisés normalement pour exploiter une entreprise sur les lieux de l’inspection en vue de produire un document sous forme lisible;
+
 e) interroger quiconque sur des questions qui, à son avis, peuvent se rapporter à l’inspection.
 
 ### Demande écrite
@@ -1654,7 +1927,9 @@ e) interroger quiconque sur des questions qui, à son avis, peuvent se rapporter
 ### Communication supplémentaire
 
 (10.1) En plus du pouvoir de pénétrer dans un lieu prévu au présent article, l’inspecteur peut, de quelque façon que ce soit, communiquer avec n’importe quelle personne ayant le contrôle des activités du fournisseur, et peut exercer ses pouvoirs d’inspection prévus au présent article à l’égard du fournisseur ou de la personne sans pénétrer dans un lieu, si l’inspecteur établit ce qui suit :
+
 a) le fournisseur est assujetti à la présente loi;
+
 b) la personne a le contrôle des activités du fournisseur.
 
 ### Identification
@@ -1672,20 +1947,31 @@ b) la personne a le contrôle des activités du fournisseur.
 ### Entrave
 
 (11) Nul ne doit :
+
 a) gêner ou entraver le travail d’un inspecteur qui effectue une inspection ou tenter de le faire;
+
 b) refuser de répondre à des questions concernant des sujets qui, de l’avis de l’inspecteur, peuvent se rapporter à une inspection;
+
 c) fournir à l’inspecteur des renseignements sur des sujets qui, de l’avis de l’inspecteur, peuvent se rapporter à une inspection en sachant qu’ils sont faux ou trompeurs;
+
 d) empêcher un inspecteur d’interroger une personne au cours d’une entrevue privée en vertu de l’alinéa (6) e) ou tenter de le faire.
 
 ### Délégation des pouvoirs de prendre une ordonnance
 
 105.3 (1) Le directeur peut déléguer à un inspecteur, sous réserve des conditions énoncées dans la délégation, le pouvoir d’envisager de prendre une ordonnance ou le pouvoir de prendre une ordonnance qu’a le directeur en vertu des articles suivants, auquel cas l’ordonnance envisagée ou prise par un inspecteur en vertu d’une telle délégation a, à toutes fins, le même effet que si elle avait été envisagée ou prise par le directeur :
+
 1. L’article 109.
+
 2. L’article 110.
+
 3. L’article 111.
+
 4. L’article 112.
+
 5. L’article 114.
+
 6. L’article 115.
+
 7. L’article 119.
 
 ### Délégation écrite
@@ -1711,24 +1997,35 @@ d) empêcher un inspecteur d’interroger une personne au cours d’une entrevue
 ### Mandat de perquisition
 
 107 (1) Sur demande sans préavis d’un enquêteur, un juge de paix peut délivrer un mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il existe des motifs raisonnables de croire, selon le cas :
+
 a) qu’un inspecteur est empêché de faire une chose qu’il est en droit de faire en vertu de l’article 105.2;
+
 b) qu’une personne a contrevenu ou contrevient à la présente loi ou aux règlements et :
+
 (i) soit qu’une chose quelconque se rapportant à la contravention à la présente loi ou aux règlements se trouve dans un bâtiment, un logement, un contenant ou un lieu,
+
 (ii) soit que des renseignements ou des éléments de preuve se rapportant à la contravention à la présente loi ou aux règlements pourront être obtenus au moyen d’une technique ou méthode d’enquête ou d’un acte qui est mentionné dans le mandat.
 
 ### Pouvoirs
 
 (2) Sous réserve des conditions qu’il précise, le mandat obtenu en vertu du paragraphe (1) autorise un enquêteur à faire ce qui suit :
+
 a) pénétrer dans le bâtiment, le logement, le contenant ou le lieu précisé dans le mandat ou y avoir accès et examiner et saisir toute chose mentionnée dans le mandat;
+
 b) présenter des demandes raisonnables de renseignements, verbalement ou par écrit, relativement à toute chose pertinente dans le cadre de l’enquête;
+
 c) exiger d’une personne qu’elle produise les renseignements ou les éléments de preuve mentionnés dans le mandat et qu’elle fournisse l’aide qui est raisonnablement nécessaire, notamment en recourant à un dispositif ou système de stockage, de traitement ou d’extraction des données pour produire, sous quelque forme que ce soit, les renseignements ou les éléments de preuve mentionnés dans le mandat;
+
 d) recourir à tout dispositif ou système de stockage, de traitement ou d’extraction des données utilisé pour exploiter une entreprise en vue de produire, sous quelque forme que ce soit, les renseignements ou les éléments de preuve mentionnés dans le mandat;
+
 e) employer toute technique ou méthode d’enquête ou accomplir tout acte mentionné dans le mandat.
 
 ### Entrée dans un logement
 
 (3) Malgré le paragraphe (2), un enquêteur ne doit exercer le pouvoir, conféré par un mandat, de pénétrer dans un lieu ou une partie d’un lieu utilisé comme logement que s’il est satisfait aux conditions suivantes :
+
 a) le juge de paix est informé du fait que le mandat est demandé afin d’autoriser l’entrée dans un logement;
+
 b) le juge de paix autorise l’entrée dans le logement.
 
 ### Conditions : mandat
@@ -1798,7 +2095,9 @@ b) le juge de paix autorise l’entrée dans le logement.
 ### Assertion fausse, trompeuse ou mensongère
 
 109 (1) Si le directeur croit, en se fondant sur des motifs raisonnables, qu’une personne fait une assertion fausse, mensongère ou trompeuse à l’égard d’une opération de consommation dans une annonce, une circulaire, une brochure ou un document publié de quelque façon que ce soit, il peut, selon le cas :
+
 a) d’une part, lui ordonner de cesser de faire l’assertion;
+
 b) d’autre part, lui ordonner de rétracter l’assertion ou de publier une correction de même importance que l’original.
 
 ### Bien immeuble
@@ -1832,7 +2131,9 @@ b) d’autre part, lui ordonner de rétracter l’assertion ou de publier une co
 ### Pouvoirs du Tribunal
 
 (9) Après avoir tenu l’audience, le Tribunal peut, selon le cas :
+
 a) confirmer l’ordonnance et l’assortir des modifications, le cas échéant, qu’il estime propres à la réalisation de l’objet de la présente loi;
+
 b) annuler l’ordonnance.
 
 ### Idem
@@ -1846,15 +2147,21 @@ b) annuler l’ordonnance.
 ### Ordonnance de blocage
 
 110 (1) Si les conditions énoncées au paragraphe (2) sont réunies, le directeur peut, par écrit :
+
 a) soit ordonner à la personne qui est le dépositaire ou qui a le contrôle de fonds en fiducie ou de biens d’un fournisseur ou d’un ancien fournisseur de les retenir;
+
 b) soit ordonner à un fournisseur ou à un ancien fournisseur de s’abstenir de retirer des fonds en fiducie ou des biens des mains de la personne qui en est le dépositaire ou qui en a le contrôle;
+
 c) soit ordonner à un fournisseur ou à un ancien fournisseur de détenir en fiducie pour la personne qui y a droit les fonds en fiducie ou les biens d’un consommateur ou d’une autre personne.
 
 ### Conditions
 
 (2) Le directeur peut prendre une ordonnance en vertu du paragraphe (1) s’il l’estime souhaitable pour la protection des consommateurs et :
+
 a) soit qu’un mandat de perquisition a été décerné en vertu de la présente loi;
+
 b) soit qu’une ordonnance a été prise ou rendue en vertu de l’article 111 ou 112;
+
 c) soit qu’un engagement d’observation volontaire a été pris en application de l’article 114.
 
 ### Personne qui se livre à une pratique déloyale
@@ -1872,15 +2179,21 @@ c) soit qu’un engagement d’observation volontaire a été pris en applicatio
 ### Exception
 
 (6) Le paragraphe (1) ne s’applique pas si la personne dépose auprès du directeur, de la manière et selon le montant qu’il détermine :
+
 a) soit un cautionnement personnel accompagné d’une garantie accessoire;
+
 b) soit le cautionnement d’un assureur titulaire d’un permis délivré en vertu de la Loi sur les assurances qui l’autorise à faire souscrire de l’assurance de cautionnement et de l’assurance contre les détournements;
+
 c) soit le cautionnement d’un garant accompagné d’une garantie accessoire;
+
 d) soit l’autre forme de garantie qui est prescrite.
 
 ### Présentation d’une requête au tribunal
 
 (7) L’une ou l’autre des personnes suivantes peut présenter une requête à la Cour supérieure de justice pour qu’il soit statué sur la disposition d’un fonds en fiducie ou d’un bien :
+
 a) quiconque a reçu une ordonnance prise en vertu du paragraphe (1), s’il a un doute quant à son application au fonds en fiducie ou au bien;
+
 b) quiconque revendique un intérêt sur le fonds en fiducie ou le bien visé par l’ordonnance.
 
 ### Avis
@@ -1894,7 +2207,9 @@ b) quiconque revendique un intérêt sur le fonds en fiducie ou le bien visé pa
 ### Décision du Tribunal
 
 (10) Le Tribunal doit décider de la requête après la tenue d’une audience et peut annuler l’ordonnance ou radier l’enregistrement, en totalité ou en partie, s’il conclut :
+
 a) soit que l’ordonnance ou l’enregistrement n’est pas en totalité ou en partie nécessaire pour protéger les consommateurs ou les autres titulaires d’intérêts sur le bien-fonds;
+
 b) soit que l’ordonnance ou l’enregistrement porte indûment atteinte aux intérêts d’autres personnes.
 
 ### Parties
@@ -1960,13 +2275,17 @@ b) soit que l’ordonnance ou l’enregistrement porte indûment atteinte aux in
 ### Expiration de l’ordonnance
 
 (4) Si une audience devant le Tribunal est demandée :
+
 a) l’ordonnance expire 15 jours après la réception de la demande écrite d’audience par le Tribunal;
+
 b) le Tribunal peut proroger l’expiration jusqu’à la conclusion de l’audience, si elle débute dans le délai de 15 jours visé à l’alinéa a).
 
 ### Idem
 
 (5) Malgré le paragraphe (4), s’il est convaincu que la conduite de la personne désignée dans l’ordonnance a retardé le début de l’audience, le Tribunal peut proroger la date d’expiration de l’ordonnance :
+
 a) jusqu’au début de l’audience;
+
 b) une fois l’audience commencée, jusqu’à sa conclusion.
 
 ### Parties
@@ -1980,11 +2299,17 @@ b) une fois l’audience commencée, jusqu’à sa conclusion.
 ### Engagement d’observation volontaire
 
 114 (1) La personne visée par une ordonnance d’observation que le directeur envisage de prendre ou a prise en vertu de l’article 111 ou 112 peut, avant l’épuisement de tous les droits d’appel ou l’expiration du délai d’appel sans qu’un appel ait été introduit, prendre par écrit les engagements d’observation volontaire suivants :
+
 a) ne pas se livrer, après la date de l’engagement, à l’acte précisé;
+
 a.1) rembourser au consommateur qui a résilié une convention de consommation les paiements faits aux termes de la convention ou de toute convention connexe;
+
 b) indemniser tout consommateur qui a subi une perte;
+
 c) annoncer l’engagement ou les mesures prises à la suite de celui-ci;
+
 d) payer les frais engagés pour enquêter sur ses activités, les frais de justice engagés relativement à ces activités et les frais liés aux engagements;
+
 e) prendre les mesures que le directeur estime indiquées dans les circonstances.
 
 ### Engagement réputé une ordonnance
@@ -1994,9 +2319,13 @@ e) prendre les mesures que le directeur estime indiquées dans les circonstances
 ### Garantie relative à l’engagement
 
 (3) Le directeur peut exiger que la personne qui prend un engagement d’observation volontaire fournisse, de la manière et selon le montant qu’il détermine, une garantie sous forme :
+
 a) soit d’un cautionnement personnel accompagné d’une garantie accessoire;
+
 b) soit du cautionnement d’un assureur titulaire d’un permis délivré en vertu de la Loi sur les assurances qui l’autorise à faire souscrire de l’assurance de cautionnement et de l’assurance contre les détournements;
+
 c) soit du cautionnement d’un garant accompagné d’une garantie accessoire;
+
 d) soit d’une autre forme de garantie prescrite.
 
 ### Libération de la garantie
@@ -2018,18 +2347,31 @@ d) soit d’une autre forme de garantie prescrite.
 ### Infractions
 
 116 (1) Est coupable d’une infraction quiconque, selon le cas :
+
 a) n’observe pas une ordonnance prise ou rendue, une directive donnée ou une autre exigence imposée en vertu de la présente loi;
+
 b) contrevient aux dispositions suivantes ou ne les observe pas :
+
 (i) à l’égard de la partie II (Droits et garanties accordés au consommateur), le paragraphe 10 (1), l’article 12, les paragraphes 13 (2) et (7) et les paragraphes 13.1 (1) et (2),
+
 (ii) à l’égard de la partie III (Pratiques déloyales), le paragraphe 17 (1),
+
 (iii) à l’égard de la partie IV (Droits et obligations découlant de certaines conventions de consommation), le paragraphe 30 (2), les alinéas 33 a) et b) et les paragraphes 34 (1) et (2), 36 (1), 43.1 (1) et 47.1 (1), (5) et (6),
+
 (iv) à l’égard de la partie V (Domaines où les paiements anticipés sont interdits), l’article 49, le paragraphe 50 (1) et l’article 53,
+
 (v) à l’égard de la partie VI (Réparations de véhicules automobiles et d’autres marchandises), les paragraphes 56 (1), 57 (1) et (3) et 58 (1) et (2), l’article 60, les paragraphes 61 (1) et (2) et les articles 62 et 64,
+
 (v.1) Abrogé : 2021, chap. 26, annexe 3, par. 65 (3),
+
 (vi) à l’égard de la partie VII (Conventions de crédit), l’article 71, les paragraphes 72 (2) et 76 (2), l’article 77 et les paragraphes 78 (1) et (2), 79 (1), 80 (1), (2), (3) et (5), 81 (1), (3), (5), (6) et (7) et 82 (1) et (2),
+
 (vi.1) à l’égard de la partie VII.1 (Conventions pour l’encaissement des chèques du gouvernement), l’article 85.3, le paragraphe 85.4 (1) et l’article 85.5,
+
 (vii) à l’égard de la partie VIII (Location à long terme), l’article 88 et le paragraphe 89 (1),
+
 (viii) à l’égard de la partie IX (Procédures relatives aux réparations demandées par le consommateur), les paragraphes 96 (1), 98 (2) et 99 (5),
+
 (ix) à l’égard de la partie XI (Dispositions générales), le paragraphe 105.2 (11).
 
 ### Idem
@@ -2075,8 +2417,11 @@ b) contrevient aux dispositions suivantes ou ne les observe pas :
 ### Privilèges sur des biens meubles
 
 (2) Si le privilège créé par le directeur en vertu du paragraphe (1) concerne des biens meubles :
+
 a) la Loi sur les sûretés mobilières, à l’exclusion de la partie V, s’applique, avec les adaptations nécessaires, au privilège, malgré l’alinéa 4 (1) a) de cette loi;
+
 b) le privilège est réputé une sûreté qui grève les biens meubles pour l’application de la Loi sur les sûretés mobilières ;
+
 c) le directeur peut rendre la sûreté visée à l’alinéa b) opposable pour l’application de la Loi sur les sûretés mobilières en enregistrant un état de financement en application de cette loi.
 
 ### Privilèges et charges sur des biens immeubles
@@ -2094,18 +2439,27 @@ c) le directeur peut rendre la sûreté visée à l’alinéa b) opposable pour 
 ### Mainlevée du privilège
 
 (6) Dans les 10 jours qui suivent la date à laquelle il a connaissance du paiement intégral de l’amende, le directeur :
+
 a) d’une part, donne mainlevée de l’enregistrement de l’état de financement enregistré en vertu de l’alinéa (2) c);
+
 b) d’autre part, enregistre une mainlevée de la charge créée au moment de l’enregistrement d’un privilège en application du paragraphe (3).
 
 ### Confidentialité
 
 120 (1) Quiconque obtient des renseignements dans l’exercice de pouvoirs ou de fonctions qui se rapportent à l’application de la présente loi ou des règlements est tenu au secret à leur égard et ne doit rien en divulguer à qui que ce soit, sauf, selon le cas :
+
 a) dans la mesure où l’exige toute instance introduite en vertu de la présente loi ou l’application de celle-ci ou des règlements;
+
 b) à un ministère ou à un organisme d’un gouvernement chargé de l’application de textes législatifs qui protègent les consommateurs, ou à une autre entité à laquelle est confiée l’application de tels textes;
+
 b.1) dans la mesure où l’autorise la Loi de 2007 sur la modernisation de la réglementation ;
+
 c) à une entité ou à une organisation prescrite, si la divulgation a pour objet la protection des consommateurs;
+
 d) à un organisme chargé de l’exécution de la loi;
+
 e) à son avocat;
+
 f) avec le consentement de la personne à laquelle se rapportent les renseignements.
 
 ### Témoignage
@@ -2115,8 +2469,11 @@ f) avec le consentement de la personne à laquelle se rapportent les renseigneme
 ### Signification par le directeur de l’avis ou de l’ordonnance
 
 121 (1) Les avis ou ordonnances qui doivent être remis ou signifiés par le directeur en application de la présente loi le sont suffisamment s’ils sont :
+
 a) soit remis à personne;
+
 b) soit envoyés par courrier recommandé;
+
 c) soit envoyés d’une autre manière si le directeur peut en prouver la réception.
 
 ### Signification réputée faite
@@ -2130,7 +2487,9 @@ c) soit envoyés d’une autre manière si le directeur peut en prouver la réce
 ### Déclaration admissible en preuve
 
 122 (1) Les déclarations concernant l’une ou l’autre des questions suivantes qui se présentent comme étant attestées par le directeur sont admissibles en preuve dans toute instance comme preuve, en l’absence de preuve contraire, des faits qui y sont énoncés, sans qu’il soit nécessaire d’établir sa qualité officielle ni l’authenticité de sa signature :
+
 a) le dépôt ou le non-dépôt d’un document qui doit ou peut être déposé;
+
 b) la date à laquelle les faits sur lesquels l’instance est fondée sont venus à la connaissance du directeur.
 
 ### Idem
@@ -2144,23 +2503,37 @@ b) la date à laquelle les faits sur lesquels l’instance est fondée sont venu
 ### Règlements du lieutenant-gouverneur en conseil : dispositions générales
 
 123 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire tout ce que la présente loi mentionne comme étant prescrit;
+
 b) prescrire la forme et le contenu des conventions de consommation, avis, factures ou autres documents exigés en application de la présente loi;
+
 c) soustraire des fournisseurs, des opérations de consommation, des marchandises, des services ou des combinaisons ou catégories de ceux-ci à l’application de dispositions de la présente loi ou des règlements et prescrire les conditions et les restrictions applicables à ces dispenses;
+
 d) régir les reprises et les conventions de reprise qui sont faites aux termes de conventions de consommation ou qui en découlent;
+
 e) traiter de ce qui constitue un changement important dans la fourniture périodique ou continue de marchandises ou de services;
+
 f) exiger que les fournisseurs fournissent au directeur les rapports et les renseignements prescrits;
+
 g) exiger la confirmation par affidavit de renseignements qui doivent ou peuvent être fournis au directeur ou qui sont inclus dans une formule ou un rapport;
+
 h) régir l’application de tout ou partie de la Loi de 2000 sur le commerce électronique à la présente loi;
+
 i) prévoir les questions transitoires nécessaires à la mise en application efficace de la présente loi ou des règlements;
+
 j) définir, pour l’application de la présente loi et des règlements, tout terme utilisé mais non défini dans celle-ci;
+
 k) clarifier la définition de «points de récompense» à l’article 1 et préciser les choses qui constituent ou ne constituent pas des points de récompense pour l’application de la présente loi.
 
 ### Règlements du lieutenant-gouverneur en conseil : partie I
 
 (2) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire un tribunal pour l’application de la présente loi;
+
 b) prescrire les services professionnels soustraits à l’application de la présente loi;
+
 c) pour l’application de l’article 4, exclure de l’application de dispositions de la présente loi ou des règlements les conventions de consommation qui répondent aux critères d’au moins deux types de conventions que vise la présente loi.
 
 ### Règlements du lieutenant-gouverneur en conseil : partie II
@@ -2170,100 +2543,163 @@ c) pour l’application de l’article 4, exclure de l’application de disposit
 ### Règlements du lieutenant-gouverneur en conseil : partie III
 
 (4) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire les exigences relatives à l’avis de résolution d’une convention ou de l’avis d’intention d’obtenir un recouvrement en application de la partie III;
+
 b) prescrire le délai dans lequel il faut répondre au consommateur qui donne un avis de résolution d’une convention ou un avis d’intention d’obtenir un recouvrement.
 
 ### Règlements du lieutenant-gouverneur en conseil : partie IV
 
 (5) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire le paiement éventuel total exigé, à l’exclusion du coût d’emprunt, qui doit être dépassé pour que la partie IV s’applique aux conventions de consommation qu’elle vise;
+
 b) prescrire les circonstances dans lesquelles l’effet de la résiliation d’une convention de consommation que vise la partie IV et les obligations découlant de la résiliation sont assujetties à des restrictions et prescrire la nature de ces restrictions;
+
 c) régir les renseignements à divulguer à l’égard des conventions de consommation que vise la partie IV, le contenu de ces conventions et les exigences applicables à leur rédaction, renouvellement, modification ou prorogation;
+
 d) prescrire des domaines comme étant des services de perfectionnement personnel;
+
 e) pour l’application de la partie IV, régir les conventions à exécution différée, y compris les conventions de carte cadeau, et régir les conventions de multipropriété, les conventions de services de perfectionnement personnel, les conventions électroniques, les conventions directes et les conventions à distance;
+
 f) imposer des restrictions aux conventions à exécution différée, y compris les conventions de carte cadeau, notamment en interdire l’expiration;
+
 g) régir les frais que le fournisseur peut exiger du consommateur ou qu’il lui est interdit d’exiger de celui-ci, outre le paiement que prévoit une convention à exécution différée, y compris une convention de carte cadeau, pour la fourniture des marchandises ou des services qu’elle prévoit;
+
 h) autoriser le consommateur visé par une convention à exécution différée, y compris une convention de carte cadeau, à résilier la convention si le fournisseur ne divulgue pas les renseignements la concernant que les règlements précisent et régir sa résiliation;
+
 i) prévoir qu’une disposition de la présente loi ou des règlements s’applique à des conventions à exécution différée, y compris les conventions de carte cadeau, avec les adaptations précisées dans les règlements;
+
 j) régir le transfert de points entre consommateurs, y compris au moment d’un décès;
+
 k) régir l’inactivité des conventions de consommation aux termes desquelles sont offerts des points de récompense et celle des points de récompense eux-mêmes;
+
 l) régir l’annulation des conventions de consommation aux termes desquelles sont offerts des points de récompense et celle des points de récompense eux-mêmes;
+
 m) régir l’application de l’article 47.1 à l’égard des points de récompense, notamment prévoir et prescrire tout ce que cet article mentionne comme étant prescrit ou prévu dans les règlements et régir les questions transitoires.
 
 ### Règlements du lieutenant-gouverneur en conseil : partie V
 
 (6) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des marchandises et des services pour l’application de la partie V;
+
 b) prescrire les conditions qui doivent être réunies pour que soit autorisé le paiement de la fourniture des marchandises et des services prescrits;
+
 c) prescrire les exigences applicables à la conclusion d’une convention que vise la partie V;
+
 d) prescrire les assertions interdites pour l’application de la partie V;
+
 e) pour l’application de la partie V, régir les conventions de consommation que vise cette partie, notamment celles portant sur le courtage en prêts ou le redressement de crédit.
 
 ### Règlements du lieutenant-gouverneur en conseil : partie VI
 
 (7) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des marchandises pour l’application de la partie VI;
+
 b) pour l’application de la partie VI, régir les devis, notamment prescrire les exigences auxquelles ils doivent se conformer;
+
 c) pour l’application de la partie VI, régir les autorisations, notamment prescrire les exigences auxquelles doit satisfaire leur consignation;
+
 d) prescrire les écriteaux que le réparateur doit afficher et les exigences applicables à leur affichage, ainsi que leur contenu et la manière de le présenter;
+
 e) pour l’application de la partie VI, régir les factures, notamment prescrire les renseignements à y inclure et la manière de les présenter;
+
 f) prescrire la garantie minimale relative aux pièces neuves ou remises en état et à la main-d’oeuvre aux fins du paragraphe 63 (1).
+
 (7.1) Abrogé : 2021, chap. 26, annexe 3, par. 65 (4).
 
 ### Règlements du lieutenant-gouverneur en conseil : partie VII
 
 (8) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire ce qui constitue la valeur reçue par un emprunteur aux termes d’une convention de crédit;
+
 b) prescrire la manière de calculer le taux de crédit;
+
 c) prescrire les paiements, remboursements et frais exclus du coût d’emprunt;
+
 d) exclure des types de conventions de consommation des conventions de crédit;
+
 e) prescrire les exigences auxquelles doit satisfaire un indice pour être considéré comme un indice public;
+
 f) exempter des obligations du prêteur les courtiers en prêts qui aident un consommateur à obtenir du crédit ou un prêt lorsque le créancier n’exerce pas l’activité de faire crédit ou de consentir des prêts;
+
 g) prescrire les exigences relatives à la correction d’erreurs dans les relevés de compte produits dans le cadre de conventions de crédit en blanc;
+
 h) pour l’application du paragraphe 76 (2), prescrire la manière de calculer la partie à rembourser à l’emprunteur ou à porter à son crédit pour chaque élément du coût d’emprunt, sauf les sommes payées au titre des intérêts;
+
 i) prescrire les exigences applicables aux assertions faites à l’égard de conventions de crédit;
+
 j) prescrire les renseignements à inclure dans la déclaration qu’un courtier en prêts remet à un emprunteur;
+
 j.1) régir les demandes de carte de crédit;
+
 k) régir les déclarations que vise la partie VII;
+
 l) prescrire les renseignements à inclure dans un relevé de compte relatif à une convention de crédit en blanc;
+
 l.1) régir les renseignements, les relevés et les déclarations, autres que celles exigées par la partie VII, que le prêteur doit fournir à l’emprunteur;
+
 m) prescrire qu’un changement est ou non un changement important;
+
 n) prescrire la responsabilité maximale d’un emprunteur aux termes d’une convention de crédit en blanc dans les cas où il n’a pas autorisé les frais exigés;
+
 o) régir les conventions de crédit pour l’application de la partie VII. 2002, chap. 30, annexe A, par. 123 (8)
 
 ### Règlements du lieutenant-gouverneur en conseil : partie VIII
 
 (9) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) traiter des assertions à l’égard du coût d’un bail;
+
 a.1) prescrire la manière de calculer le taux de crédit des baux;
+
 b) régir les déclarations que vise la partie VIII, y compris exiger la divulgation du taux de crédit des baux et prescrire les autres renseignements que les déclarations doivent divulguer;
+
 b.1) prescrire et régir les recours dont dispose le consommateur s’il ne reçoit pas la déclaration concernant un bail comme l’exige le paragraphe 89 (1) ou si la déclaration qu’il a reçue n’est pas conforme à des exigences du paragraphe 89 (2) ou des règlements;
+
 b.2) régir les baux pour l’application de la partie VIII;
+
 c) prescrire la manière de calculer la somme maximale dont le preneur est redevable au terme de la durée d’un bail à obligation résiduelle;
+
 d) limiter l’indemnité qu’un bailleur peut exiger du preneur qui résilie un bail avant le terme de sa durée.
 
 ### Règlements du lieutenant-gouverneur en conseil : partie IX
 
 (10) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire les exigences applicables aux avis des consommateurs qui portent résiliation d’une convention de consommation ou qui demandent une réparation au fournisseur;
+
 b) régir les obligations du fournisseur et du consommateur à la suite de la résiliation d’une convention de consommation;
+
 c) pour l’application des paragraphes 98 (2) et (4), prescrire le délai dans lequel le fournisseur ou une autre personne doit rembourser au consommateur des droits ou des frais exigés ou un paiement reçu en contravention à la présente loi;
+
 d) traiter de l’annulation ou de la contrepassation des débits de compte de carte de crédit;
+
 e) prescrire d’autres systèmes de paiement pour l’application de l’article 99.
 
 ### Règlements du lieutenant-gouverneur en conseil : partie X
 
 (11) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire les exigences applicables au registre public que doit tenir le directeur et les documents et renseignements qui doivent y être gardés;
+
 b) prescrire les renseignements que le directeur doit publier.
 
 ### Règlements du lieutenant-gouverneur en conseil : partie XI
 
 (12) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire les lois en vertu desquelles le ministère peut recevoir des plaintes et demander des renseignements;
+
 b) prescrire les autres autorités législatives dont les déclarations peuvent être attestées;
+
 c) prescrire des formes de garantie;
+
 d) prescrire les entités ou organisations auxquelles des renseignements confidentiels peuvent être divulgués;
+
 e) autoriser le directeur à mettre en oeuvre des programmes d’assurance de la qualité relativement à l’application de la présente loi ou des règlements et à utiliser les renseignements recueillis en vertu de la présente loi aux fins de ces programmes.
 
 ### Rétroactivité
@@ -2273,5 +2709,7 @@ e) autoriser le directeur à mettre en oeuvre des programmes d’assurance de la
 ### Portée
 
 (14) Les règlements pris en application du présent article peuvent avoir une portée générale ou particulière.
+
 124 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 125 Omis (édicte le titre abrégé de la présente loi).

@@ -6,20 +6,22 @@ language: fr
 type: act
 document_date: "2011-12-31"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99s12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # règlement des différends internationaux relatifs aux investissements (Loi de 1999 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99s12) before relying on it.
 
 L.O. 1999, chap. 12, Annexe D
 
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «Convention» Convention pour le règlement des différends relatifs aux investissements entre États et ressortissants d’autres États, ouverte à la signature des États à Washington le 18 mars 1965. («Convention»)
+
 «sentence» Décision rendue par le Tribunal arbitral constitué en vertu de l’Article 37 de la Convention. S’entend en outre de l’interprétation, de la révision et de l’annulation d’une telle décision aux termes de la Convention. («award») 1999, chap. 12, annexe D, par. 1 (1).
 
 ### Sens des termes et expressions
@@ -73,13 +75,17 @@ L.O. 1999, chap. 12, Annexe D
 ### Conciliation
 
 11 Sauf entente contraire des parties, aucune partie à une procédure de conciliation ne peut, dans le cadre notamment d’une instance se déroulant devant un tribunal judiciaire ou administratif ou d’une autre procédure devant des arbitres, utiliser :
+
 a) une opinion exprimée ou une déclaration ou une offre de règlement faite par l’autre partie dans le cadre de la procédure de conciliation;
+
 b) le procès-verbal ou les recommandations de la Commission de conciliation.
 
 ### Règlements
 
 12 Le lieutenant-gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente loi et, notamment :
+
 a) prescrire les conditions auxquelles la Couronne du chef de l’Ontario peut conclure un accord portant son consentement à une procédure d’arbitrage aux termes de la Convention;
+
 b) soustraire toute personne ou catégorie de personnes à l’application de tout ou partie d’un texte législatif, aux conditions précisées dans le règlement, pour lui permettre d’agir à titre professionnel dans le cadre d’une procédure d’arbitrage ou de conciliation.
 
 ### Application de la Convention
@@ -89,5 +95,7 @@ b) soustraire toute personne ou catégorie de personnes à l’application de to
 ### Règlement
 
 (2) Le lieutenant-gouverneur en conseil peut prendre un règlement pour indiquer la date à laquelle la Convention s’applique à l’Ontario (auquel cas le texte de la Convention figure dans le règlement).
+
 14 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 15 Omis (édicte le titre abrégé de la présente loi).

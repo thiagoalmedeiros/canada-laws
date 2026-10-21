@@ -6,30 +6,38 @@ language: fr
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/22a02"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # normes de service (Loi de 2022 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/22a02) before relying on it.
 
 L.O. 2022, chap. 2, annexe 1
 
 ### Préambule
 
 L’Ontario s’engage à réduire les formalités administratives pour l’obtention de permis, de renseignements ou d’autres types d’approbations gouvernementales et à améliorer l’expérience générale des usagers en facilitant l’accès aux renseignements et aux services requis.
+
 L’Ontario est déterminé à rendre plus prévisible la prestation de services et à continuer de responsabiliser le gouvernement.
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «norme de service» Norme établie par un ministère ou une entité prescrite qui, à la fois :
+
 a) fixe un délai maximal pendant lequel le ministère ou l’entité prescrite s’engage :
+
 (i) soit à répondre à une demande visant un permis, des renseignements ou un autre type d’approbation,
+
 (ii) soit à prendre une autre décision ou à fournir un autre service;
+
 b) satisfait aux critères prescrits. («service standard»)
+
 «norme de service garanti» Norme de service qui satisfait aux critères prescrits pour constituer une norme de service garanti. («guaranteed service standard»)
+
 «prescrit» Prescrit par les règlements pris en vertu de la présente loi. («prescribed»)
 
 ### Conformité aux normes de service
@@ -51,7 +59,9 @@ b) satisfait aux critères prescrits. («service standard»)
 ### Rapports
 
 4 Le gouvernement de l’Ontario publie régulièrement des rapports qui font état :
+
 a) de la conformité ou non par les ministères et les entités prescrites aux normes de service qui s’appliquent à eux;
+
 b) des sommes versées en application de l’article 3.
 
 ### Norme de service opérationnel
@@ -73,11 +83,19 @@ b) des sommes versées en application de l’article 3.
 ### Règlements
 
 7 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire tout ce que la présente loi mentionne comme étant prescrit;
+
 b) prescrire les critères à satisfaire pour qu’une norme de service constitue une norme de service garanti;
+
 c) exiger des ministères ou des entités prescrites qu’ils établissent des normes de service et prescrire les règles régissant les normes de service;
+
 d) exiger des ministères ou des entités prescrites qu’ils publient les normes de service et des rapports sur leur conformité aux normes de service et régir cette publication;
+
 e) prévoir qu’un remboursement ou une indemnisation peut être accordé lorsqu’un ministère ou une entité prescrite ne se conforment pas à une norme de service garanti et régir le versement de ce remboursement ou de cette indemnisation, y compris prescrire les critères d’admissibilité au remboursement ou à l’indemnisation et préciser la marche à suivre pour demander un remboursement ou une indemnisation;
+
 f) régir le contenu et la publication de la liste des normes des services opérationnels mentionnée à l’article 5.
+
 8 Omis (entrée en vigueur de dispositions de la présente loi).
+
 9 Omis (édiction du titre abrégé de la présente loi).

@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-05-16"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99t07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Taxpayer Protection Act, 1999
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99t07) before relying on it.
 
 S.O. 1999, c. 7, Sched. A
 
@@ -21,19 +21,33 @@ S.O. 1999, c. 7, Sched. A
 ### Definitions
 
 1 In this Act,
+
 “authority to tax” means the authority (referred to in section 3) to change a tax rate in a designated tax statute, to levy a new tax or to determine the tax rate for school purposes or the amount to be levied as tax for school purposes; (“pouvoir d’imposition”)
+
 “campaign organizer” means a person or entity who is required by section 11 to apply for registration with the Chief Electoral Officer; (“organisateur de campagne”)
+
 “Chief Electoral Officer” means the Chief Electoral Officer appointed under the Election Act; (“directeur général des élections”)
+
 “designated tax statute” means any of the following statutes:
+
 1. Corporations Tax Act.
+
 2. Education Act.
+
 3. Employer Health Tax Act.
+
 4. Fuel Tax Act.
+
 5. Gasoline Tax Act.
+
 6. Income Tax Act.
+
 7. Provincial Land Tax Act, 2006.
+
 8. Retail Sales Tax Act.
+
 9. Taxation Act, 2007; (“loi fiscale désignée”)
+
 “person” includes a trade union. (“personne”)
 
 ### Non-application
@@ -45,25 +59,33 @@ S.O. 1999, c. 7, Sched. A
 ### Restriction on tax increases, new taxes
 
 2 (1) A member of the Executive Council shall not include in a bill a provision that increases, or permits the increase of, a tax rate under a designated tax statute or that establishes a new tax unless,
+
 (a) a referendum concerning the increase or the new tax is held under this Act before the bill is introduced in the Assembly; and
+
 (b) the referendum authorizes the increase or the new tax.
 
 ### Same, tax for school purposes
 
 (2) The Minister of Finance shall not make a regulation under the Education Act that increases the average tax rate for school purposes in Ontario, as calculated by the Minister, unless,
+
 (a) a referendum concerning the increase is held under this Act before the regulation is made; and
+
 (b) the referendum authorizes the increase.
 
 ### Same
 
 (3) The Minister of Finance shall not requisition amounts under section 257.12.1 of the Education Act that are designed to increase the average tax rate for school purposes in Ontario, as calculated by the Minister, unless,
+
 (a) a referendum concerning the increase in the tax rate is held under this Act before the increased amount is requisitioned; and
+
 (b) the referendum authorizes the increase.
 
 ### Tax under the Provincial Land Tax Act, 2006
 
 (4) The Minister of Finance shall not make a regulation under the Provincial Land Tax Act, 2006 that increases the average tax rate under that Act, as the average tax rates are calculated by the Minister, unless,
+
 (a) a referendum concerning the increase is held under this Act before the regulation is made; and
+
 (b) the referendum authorizes the increase.
 
 ### Exception
@@ -77,27 +99,37 @@ S.O. 1999, c. 7, Sched. A
 ### Interpretation
 
 (5) If a designated tax statute contains a provision that decreases a tax rate (or an effective tax rate) on a specified future date, the following shall be deemed to constitute an increase in the tax rate:
+
 1. The repeal of the provision before the specified future date.
+
 2. The replacement of the specified future date with a later date.
+
 3. The replacement of the specified decrease with a smaller decrease.
 
 ### Exception, 2002
 
 (6) Subsection (1) does not apply to a bill that includes provisions that would be deemed to constitute, by virtue of paragraph 2 of subsection (5), increases in tax rates under the Corporations Tax Act, the Income Tax Act or both of those Acts if,
+
 (a) the bill receives first reading in 2002;
+
 (b) the provisions replace the specified future dates, on which decreases in tax rates (or effective tax rates) in the Corporations Tax Act, the Income Tax Act or both of those Acts are to take effect, with later dates; and
+
 (c) each of the later dates mentioned in clause (b) is a date that is no later than the first anniversary of the specified future date it replaces.
 
 ### Exception, 2004
 
 (7) Despite subsection (1), the following provisions may be included in a bill that receives First Reading in 2004:
+
 1. A provision that amends the Income Tax Act to establish a new tax called the Ontario Health Premium in English and contribution-santé de l’Ontario in French.
+
 2. A provision that amends section 4.1 of the Income Tax Act to provide that the tax payable by a qualifying environmental trust for a taxation year shall be calculated at the same rate as the specified basic rate of tax payable by a corporation under subsection 38 (2) of the Corporations Tax Act.
 
 ### Exception, 2012
 
 (8) Subsection (1) does not apply to any bill that receives First Reading in 2012 and that includes provisions that would do any of the following:
+
 1. Amend subsection 29 (2) of the Taxation Act, 2007 to provide that a corporation’s basic rate of tax for a taxation year ending after June 30, 2012 is 11.5 per cent.
+
 2. Amend the Taxation Act, 2007 to increase, by up to two percentage points, the tax rate for individuals (other than inter vivos trusts) on taxable income over $500,000, the tax rate for inter vivos trusts and the tax rate that applies to an individual’s split income under section 12 of that Act.
 
 ### Statement to the Assembly
@@ -111,12 +143,19 @@ S.O. 1999, c. 7, Sched. A
 ### Exception, 2014
 
 (11) Subsection (1) does not apply to any bill that receives First Reading in 2014 and that includes a provision that would amend the Taxation Act, 2007 as follows:
+
 1. By amending subsection 3 (1) of that Act to define the “middle tax rate” as 11.16 per cent, the “second-highest tax rate” as 12.16 per cent and the “second-lowest tax rate” as 9.15 per cent, and
+
 2. By re-enacting subsection 6 (1) of that Act to provide that the basic personal income tax for a taxation year of an individual ending after December 31, 2013 is the sum of the following amounts:
+
 i. The amount calculated by multiplying the lowest tax rate for the year by the portion of the individual’s tax base for the year that does not exceed $40,120.
+
 ii. The amount calculated by multiplying the second-lowest tax rate for the year by the amount by which the individual’s tax base for the year exceeds $40,120, but does not exceed $80,242.
+
 iii. The amount calculated by multiplying the middle tax rate for the year by the amount by which the individual’s tax base for the year exceeds $80,242, but does not exceed $150,000.
+
 iv. The amount calculated by multiplying the second-highest tax rate for the year by the amount by which the individual’s tax base for the year exceeds $150,000, but does not exceed $220,000.
+
 v. The amount calculated by multiplying the highest tax rate for the year by the amount by which the individual’s tax base for the year exceeds $220,000.
 
 ### Exception, 2017
@@ -130,13 +169,17 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Restriction re authority to tax
 
 3 (1) A member of the Executive Council shall not include in a bill a provision that gives a person or body (other than the Crown) the authority to change a tax rate in a designated tax statute or to levy a new tax unless,
+
 (a) a referendum concerning the authority that is to be given to the person or body is held under this Act before the bill is introduced in the Assembly; and
+
 (b) the referendum authorizes the authority to be given to the person or body.
 
 ### Same, tax for school purposes
 
 (2) A member of the Executive Council shall not include in a bill a provision that gives a person or body (other than the Crown or a member of the Executive Council) the authority to determine the tax rate for school purposes or the amount to be levied as tax for school purposes unless,
+
 (a) a referendum concerning the authority that is to be given to the person or body is held under this Act before the bill is introduced in the Assembly; and
+
 (b) the referendum authorizes the authority to be given to the person or body.
 
 ### Constitutional rights and privileges
@@ -158,9 +201,13 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Exception, election platform
 
 4 (1) During an election campaign and no later than two weeks before polling day, the leader of a registered party (within the meaning of the Election Finances Act) may give the Chief Electoral Officer a written statement indicating that, if the party forms the government following the election, the party intends,
+
 (a) to increase the tax rate in a designated tax statute by a specified amount;
+
 (b) to establish a new tax;
+
 (c) to give a municipality an authority to tax, other than the authority described in subsection 3.1 (1); or
+
 (d) to give a person or body (other than the Crown, a member of the Executive Council or a municipality) an authority to tax.
 
 ### Statement
@@ -186,23 +233,33 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### No referendum, increase or new tax
 
 (7) A referendum is not required for the purposes of section 2 with respect to an increase or a new tax,
+
 (a) if the increase or the new tax was described in a statement given to the Chief Electoral Officer under this section;
+
 (b) if, in the opinion of the Chief Electoral Officer given in accordance with this section, the statement complies with subsections (2) and (3); and
+
 (c) if the party whose leader gave the statement to the Chief Electoral Officer forms the government after the election.
 
 ### Same, authority to tax
 
 (8) A referendum is not required for the purposes of section 3 with respect to an authority to tax,
+
 (a) if the proposal to give the authority to tax was described in a statement given to the Chief Electoral Officer under this section;
+
 (b) if, in the opinion of the Chief Electoral Officer given in accordance with this section, the statement complies with subsection (2); and
+
 (c) if the party whose leader gave the statement to the Chief Electoral Officer forms the government after the election.
 
 ### Exception, specified circumstances
 
 5 (1) A referendum is not required for the purposes of section 2 if, in the opinion of the Minister of Finance, any of the following circumstances exists:
+
 1. The increase or the new tax is not designed to generate a net increase in the total amount of provincial revenues and revenue raised for school purposes under the Education Act.
+
 2. The increase or the new tax is a response to changes in federal tax laws and is necessary to maintain provincial revenues.
+
 3. The increase or the new tax is required to effect a restructuring of tax authority between the federal government and one or more provincial governments or between the Province and one or more municipalities or school boards.
+
 4. The increase or the new tax is required as a result of the reorganization or restructuring of one or more Crown agencies.
 
 ### Public notice
@@ -246,8 +303,11 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Public notice
 
 (3) Before issuing a writ of referendum, the Lieutenant Governor in Council shall give the following documents to the Clerk of the Assembly and shall make them available to the public:
+
 1. A copy of the referendum question.
+
 2. A copy of the proposed question given to the Chief Electoral Officer and the advice received from the Chief Electoral Officer about the proposed question.
+
 3. A statement setting out the increase in annual revenues that the Minister of Finance expects to result from any proposed increase or new tax described in the referendum question.
 
 ### Effect of the referendum
@@ -279,7 +339,9 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Exception
 
 (3) A person or entity is not required to apply for registration if the following requirements are met:
+
 1. The person or entity must not spend more than $1,000 on the campaign to solicit votes or promote a particular result.
+
 2. The person or entity must not combine his, her or its money with that of another person or entity and then spend it on the campaign to solicit votes or promote a particular result.
 
 ### Same
@@ -337,6 +399,7 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Campaign advertising as contribution
 
 14 (1) In this section,
+
 “campaign advertising” includes printing documents but does not include news reporting.
 
 ### Threshold
@@ -354,17 +417,25 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Records
 
 (5) The broadcaster or publisher shall keep the following information for at least two years and shall make it available for inspection by the public on request:
+
 1. A copy of the campaign advertising.
+
 2. The dates and, if applicable, the times when the advertising was broadcast or published.
+
 3. The names given to the broadcaster or publisher under subsection (4).
+
 4. The amount charged to broadcast or publish the advertising.
+
 5. The amount that the broadcaster or publisher would ordinarily have charged to broadcast or publish the advertising, if the amount is different from the amount actually charged.
 
 ### Period for campaign advertising
 
 15 (1) In this section,
+
 “blackout period” means,
+
 (a) the period that begins when the writ of referendum is issued and ends on the 22nd day before the day on which the referendum is held, and
+
 (b) the day on which the referendum is held, and the preceding day.
 
 ### Same
@@ -378,17 +449,25 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Exceptions
 
 (4) Subsections (2) and (3) do not prohibit the following:
+
 1. The publication of campaign advertising on the day on which the referendum is held or the preceding day in a newspaper that is published once a week or less often and whose regular day of publication falls on that day.
+
 2. A campaign advertisement on the Internet or in a similar electronic medium, if it is posted before and not altered during the blackout period.
+
 3. A campaign advertisement in the form of a poster or billboard, if it is posted before and not altered during the blackout period.
 
 ### Exceptions subject to guidelines
 
 (5) Subsections (2) and (3) do not apply with respect to the following activities if they are done in accordance with the guidelines of the Chief Electoral Officer:
+
 1. Advertising public meetings.
+
 2. Announcing the location of a registered campaign organizer’s headquarters.
+
 3. Advertising for volunteer campaign workers.
+
 4. Announcing services to be provided by a registered campaign organizer in connection with enumeration and the revision of lists of voters.
+
 5. Announcing services to be provided by a registered campaign organizer on the day the referendum is held.
 
 ### Limit on campaign expenses
@@ -410,8 +489,11 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Financial report
 
 17 The chief financial officer for a registered campaign organizer shall file the following documents with the Chief Electoral Officer within six months after the referendum is held:
+
 1. The campaign organizer’s financial statements with respect to the referendum campaign.
+
 2. The information required by subsection 13 (3) in connection with the campaign.
+
 3. The auditor’s report on the financial statements and on the information required by subsection 13 (3).
 
 ### Application of Election Finances Act
@@ -421,6 +503,7 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Definition
 
 (2) For the purposes of this Act,
+
 “person”, in the Election Finances Act, shall be deemed to include a corporation and a trade union.
 
 ### Application of Election Act
@@ -436,11 +519,17 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Offences
 
 21 (1) Every person or entity who contravenes or fails to comply with any of the following provisions is guilty of an offence:
+
 1. Subsection 11 (1) or (2) (registration, campaign organizer).
+
 2. Subsection 12 (1) or (2) (receiving campaign contributions).
+
 3. Subsection 13 (1) (limit on campaign contributions).
+
 4. Subsection 14 (4) (restriction on campaign advertising).
+
 5. Subsection 15 (2) or (3) (period for campaign advertising).
+
 6. Section 17 (financial report re campaign).
 
 ### Same
@@ -454,5 +543,7 @@ v. The amount calculated by multiplying the highest tax rate for the year by the
 ### Same
 
 (4) Upon conviction of an offence, a corporation, trade union or other entity is liable to a fine of not more than $100,000.
+
 22, 23 Omitted (amends or repeals other Acts).
+
 24 Omitted (enacts short title of this Act).

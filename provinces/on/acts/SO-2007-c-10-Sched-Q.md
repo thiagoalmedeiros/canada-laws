@@ -6,24 +6,30 @@ language: en
 type: act
 document_date: "2021-06-03"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07h10"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Homeopathy Act, 2007
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07h10) before relying on it.
 
 S.O. 2007, c. 10, Sched. Q
 
 ### Definitions
 
 1 In this Act,
+
 “College” means the College of Homeopaths of Ontario; (“Ordre”)
+
 “Health Professions Procedural Code” means the Health Professions Procedural Code set out in Schedule 2 to the Regulated Health Professions Act, 1991; (“Code des professions de la santé”)
+
 “member” means a member of the College; (“membre”)
+
 “prescribed” means prescribed in the regulations; (“prescrit”)
+
 “profession” means the profession of homeopathy; (“profession”)
+
 “this Act” includes the Health Professions Procedural Code. (“la présente loi”)
 
 ### Health Professions Procedural Code
@@ -33,9 +39,13 @@ S.O. 2007, c. 10, Sched. Q
 ### Same, interpretation
 
 (2) In the Health Professions Procedural Code, as it applies in respect of this Act,
+
 “College” means the College of Homeopaths of Ontario; (“ordre”)
+
 “health profession Act” means this Act; (“loi sur une profession de la santé”)
+
 “profession” means the profession of homeopathy; (“profession”)
+
 “regulations” means the regulations under this Act. (“règlements”)
 
 ### Definitions in Code
@@ -53,10 +63,15 @@ S.O. 2007, c. 10, Sched. Q
 ### Council
 
 5 (1) The Council shall be composed of,
+
 (a) at least six and no more than nine persons who are members elected in accordance with the by-laws;
+
 (b) at least five and no more than eight persons appointed by the Lieutenant Governor in Council who are not,
+
 (i) members,
+
 (ii) members of a College as defined in the Regulated Health Professions Act, 1991, or
+
 (iii) members of a Council as defined in the Regulated Health Professions Act, 1991.
 
 ### Who can vote in elections
@@ -78,7 +93,9 @@ S.O. 2007, c. 10, Sched. Q
 ### Definition
 
 (3) In this section,
+
 “abbreviation” includes an abbreviation of a variation.
+
 8 Repealed: 2021, c. 25, Sched. 25, s. 14.
 
 ### Offence
@@ -88,7 +105,9 @@ S.O. 2007, c. 10, Sched. Q
 ### Regulations
 
 10 Subject to the approval of the Lieutenant Governor in Council and with prior review by the Minister, the Council may make regulations,
+
 (a) prescribing standards of practice respecting the circumstances in which homeopaths shall make referrals to members of other regulated health professions;
+
 (b) prescribing therapies involving the practice of homeopathy, governing the use of the prescribed therapies and prohibiting the use of therapies other than the prescribed therapies in the course of the practice of homeopathy.
 
 ### Transition before certain provisions in force
@@ -110,8 +129,11 @@ S.O. 2007, c. 10, Sched. Q
 ### Powers of the Minister
 
 (5) The Minister may,
+
 (a) review the transitional Council’s activities and require the transitional Council to provide reports and information;
+
 (b) require the transitional Council to make, amend or revoke a regulation under this Act;
+
 (c) require the transitional Council to do anything that, in the opinion of the Minister, is necessary or advisable to carry out the intent of this Act and the Regulated Health Professions Act, 1991.
 
 ### Transitional Council to comply with Minister’s request
@@ -137,6 +159,9 @@ S.O. 2007, c. 10, Sched. Q
 ### Registrar
 
 (2) After section 5 comes into force, the Registrar appointed by the Lieutenant Governor in Council shall be deemed to be the Registrar until a new Registrar is appointed by the Council constituted under subsection 5 (1).
+
 13, 14 Omitted (amends or repeals other Acts).
+
 15 Omitted (provides for coming into force of provisions of this Act).
+
 16 Omitted (enacts short title of this Act).

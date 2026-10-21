@@ -6,26 +6,34 @@ language: en
 type: act
 document_date: "2017-10-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17s11"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Seniors Active Living Centres Act, 2017
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17s11) before relying on it.
 
 S.O. 2017, c. 11, Sched. 6
 
 ### Definitions
 
 1 In this Act,
+
 “approval” means an approval of an operator or a program issued under section 4; (“agrément”)
+
 “director” means the director appointed under section 2; (“directeur”)
+
 “Minister” means the Minister Responsible for Seniors Affairs or any other member of the Executive Council to whom the responsibility for the administration of this Act is assigned under the Executive Council Act; (“ministre”)
+
 “operator” means a corporation that establishes, maintains or operates a program, where the corporation is a corporation without share capital having objects of a charitable nature,
+
 (a) to which Part III of the Corporations Act applies, or
+
 (b) that is incorporated under a general or special Act of the Parliament of Canada; (“ prestataire ”)
+
 “program” means a program whose purpose is described in subsection 4 (3); (“programme”)
+
 “regulations” means the regulations made under this Act. (“règlement”)
 
 ### Director
@@ -53,14 +61,19 @@ S.O. 2017, c. 11, Sched. 6
 ### Approval of operator
 
 (2) The director shall approve an operator that applies for approval if the director is satisfied that the operator,
+
 (a) is financially capable of establishing, maintaining and operating a program;
+
 (b) will carry on the program under competent management in good faith; and
+
 (c) meets the other criteria, if any, that are prescribed by the regulations.
 
 ### Approval of program
 
 (3) The director shall approve a program if the operator of the program applies for the approval and if the director is satisfied that,
+
 (a) the purpose of the program is to promote active and healthy living, social engagement and learning for persons who are primarily seniors by providing them with activities and services; and
+
 (b) the program meets the other criteria, if any, that are prescribed by the regulations.
 
 ### Refusal to approve an operator
@@ -82,14 +95,19 @@ S.O. 2017, c. 11, Sched. 6
 ### Notice of intent to make decision
 
 (3) The director shall not make a decision to refuse to issue an approval to an applicant unless, before doing so, the director,
+
 (a) serves a notice of intent to make the decision on the applicant in accordance with subsection (4);
+
 (b) gives the applicant an opportunity to make written submissions with respect to the proposed decision in accordance with subsection (5); and
+
 (c) reviews the written submissions, if any, made by the applicant in accordance with subsection (5).
 
 ### Content of notice of intent
 
 (4) A notice of intent shall,
+
 (a) set out the proposed decision and the reasons for it; and
+
 (b) state that the applicant may provide written submissions to the director in accordance with subsection (5).
 
 ### Written submissions
@@ -99,7 +117,9 @@ S.O. 2017, c. 11, Sched. 6
 ### Refusal of approval
 
 6 If the director makes a decision to refuse to issue an approval to an applicant,
+
 (a) the director shall serve the applicant with a notice of decision setting out the decision and the reasons for it; and
+
 (b) the applicant may reapply to the director for approval if the applicant satisfies the director that new or other evidence is available or that material circumstances have changed.
 
 ### Director’s decision final
@@ -123,20 +143,27 @@ S.O. 2017, c. 11, Sched. 6
 ### Contribution if program in a municipality
 
 (3) No payment shall be made to an approved operator with respect to an approved program that the operator will maintain and operate in a municipality unless one of the following, as the Minister determines, directs payment to the operator of a sum equal to at least the amount determined in accordance with subsection (5) or, if the Minister approves, contributes personal property or services that are equivalent in value to at least that amount:
+
 1. The council of any one municipality.
+
 2. The council of any one municipality, together with the councils of one or more contiguous municipalities.
+
 3. The other entities, if any, that are prescribed.
 
 ### Contribution if program not in a municipality
 
 (4) No payment shall be made to an approved operator with respect to an approved program that the operator will maintain and operate in a location, other than a municipality, unless the entities, if any, that are prescribed,
+
 (a) direct payment to the operator of a sum equal to at least the amount determined in accordance with subsection (5); or
+
 (b) if the Minister approves, contribute personal property or services that are equivalent in value to at least the amount described in clause (a).
 
 ### Amount of contribution
 
 (5) Subject to the regulations, the amount mentioned in subsection (3) or (4) is,
+
 (a) the amount equal to 20 per cent of the net annual cost to the approved operator of maintaining and operating the approved program, if the operator was approved on or after April 1, 2008 under this Act or the Elderly Persons Centres Act, as it read at the time of the approval; or
+
 (b) the amount equal to 20 per cent of the net annual cost to the approved operator in the operator’s 2007-2008 fiscal year of maintaining and operating the approved program, if the operator was approved before April 1, 2008 under the Elderly Persons Centres Act, as it read at the time of the approval.
 
 ### Special grants
@@ -156,10 +183,15 @@ S.O. 2017, c. 11, Sched. 6
 ### Regulations
 
 11 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) specifying anything that this Act describes as prescribed or specified in the regulations or done by or in accordance with the regulations;
+
 (b) governing applications for approvals;
+
 (c) setting a percentage for the purposes of subsection 8 (5) that differs from the one set out in that subsection;
+
 (d) governing how the annual cost mentioned in subsection 8 (5) is to be determined;
+
 (e) governing repayments described in section 10.
 
 ### Scope
@@ -169,7 +201,11 @@ S.O. 2017, c. 11, Sched. 6
 ### Classes
 
 (3) A class described in a regulation may be described according to any characteristic or combination of characteristics and may be described to include or exclude any specified member, whether or not with the same characteristics.
+
 12 Omitted (provides for amendments to this Act).
+
 13-15 Omitted (amends, repeals or revokes other legislation).
+
 16 Omitted (provides for coming into force of provisions of this Act).
+
 17 Omitted (enacts short title of this Act).

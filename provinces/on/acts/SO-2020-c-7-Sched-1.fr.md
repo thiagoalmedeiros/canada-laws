@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2020-05-12"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20a07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # autres modes de dépôt de documents pour les entreprises (Loi de 2020 autorisant d')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20a07) before relying on it.
 
 L.O. 2020, chap. 7, annexe 1
 
@@ -25,15 +25,25 @@ L.O. 2020, chap. 7, annexe 1
 ### Définitions
 
 2 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «document» Tout document, y compris les statuts, un avis, une déclaration, une requête, une demande ou tout document d’accompagnement, prévu par une quelconque loi sur les entreprises. («document»)
+
 «loi sur les entreprises» S’entend de l’une ou l’autre des lois suivantes :
+
 a) la Loi sur les sociétés par actions ;
+
 b) la Loi sur les noms commerciaux ;
+
 c) la Loi sur les personnes morales ;
+
 d) la Loi sur les sociétés coopératives ;
+
 e) la Loi sur les renseignements exigés des personnes morales ;
+
 f) la Loi sur les personnes morales extraprovinciales ;
+
 g) la Loi sur les sociétés en commandite ;
+
 h) toute autre loi prescrite. («business statute»)
 
 ### Ministre, directeur ou registrateur
@@ -55,7 +65,9 @@ h) toute autre loi prescrite. («business statute»)
 ### Exigences
 
 (4) Sauf disposition contraire des règlements pris en vertu de la présente loi ou d’exigences prévues par celle-ci, la personne ou entité visée au paragraphe (1) doit satisfaire aux exigences suivantes :
+
 a) les exigences établies par le ministre, le directeur ou le registrateur en vertu de la présente loi;
+
 b) les exigences prévues par la loi sur les entreprises, sauf si elles sont incompatibles avec la présente loi.
 
 ### Précision
@@ -65,7 +77,9 @@ b) les exigences prévues par la loi sur les entreprises, sauf si elles sont inc
 ### Dépôt réputé conforme
 
 4 (1) Le dépôt d’un document en application de la loi sur les entreprises effectué conformément à la présente loi selon un mode indiqué en vertu du paragraphe 3 (1) est réputé satisfaire aux exigences suivantes :
+
 a) les exigences prévues par les lois sur les entreprises qui sont incompatibles avec la présente loi;
+
 b) les exigences prévues par les lois sur les entreprises concernant un document original, deux documents originaux ou deux doubles.
 
 ### Apposition ou délivrance de quelque chose
@@ -91,7 +105,9 @@ b) les exigences prévues par les lois sur les entreprises concernant un documen
 ### Idem
 
 (4) Pour l’application du paragraphe (3), une catégorie peut être définie :
+
 a) soit en fonction d’un attribut ou d’une combinaison d’attributs;
+
 b) soit de façon à être constituée d’un membre donné ou à comprendre ou exclure un tel membre.
 
 ### Non-application de la Loi de 2006 sur la législation
@@ -101,12 +117,19 @@ b) soit de façon à être constituée d’un membre donné ou à comprendre ou 
 ### Exigences
 
 7 (1) Pour l’application de l’alinéa 3 (4) a), les exigences établies en vertu de la présente loi par le ministre, le directeur ou le registrateur pour l’application d’une loi sur les entreprises peuvent notamment :
+
 a) traiter de la teneur, de la forme et du dépôt des documents qui sont déposés selon un mode indiqué en vertu du paragraphe 3 (1) ainsi que de la forme et du paiement des droits, y compris traiter de l’utilisation d’une forme prescrite, exigée ou approuvée en application d’une loi sur les entreprises, et régir ces aspects;
+
 b) traiter de la façon de rédiger, de présenter et d’accepter les documents, du paiement des droits et de l’établissement de la date de réception, et régir ces aspects;
+
 c) préciser que les documents ne peuvent être déposés, et les droits acquittés, que par une personne autorisée par le ministre, le directeur ou le registrateur ou appartenant à une catégorie de personnes autorisées par le ministre, le directeur ou le registrateur;
+
 d) établir les délais et les circonstances dans lesquels les documents sont considérés comme ayant été envoyés au ministre, au directeur ou au registrateur ou reçus par celui-ci, ainsi que le lieu où ils sont considérés comme l’ayant été;
+
 e) établir les normes et les exigences technologiques applicables au dépôt des documents selon un mode indiqué par le ministre, le directeur ou le registrateur et au paiement des droits sous forme électronique;
+
 f) préciser et régir le type de copie, notamment le type de copie d’une ordonnance du tribunal ou d’un autre document délivré par le tribunal, qui peut être déposée selon un mode indiqué en vertu de la présente loi;
+
 g) régir les recherches et les moyens de recherche dans les dossiers à l’égard des dossiers tenus par le ministre, le directeur ou le registrateur en application de la loi sur les entreprises.
 
 ### Catégories
@@ -116,7 +139,9 @@ g) régir les recherches et les moyens de recherche dans les dossiers à l’ég
 ### Idem
 
 (3) Pour l’application du paragraphe (2), une catégorie peut être définie :
+
 a) soit en fonction d’un attribut ou d’une combinaison d’attributs;
+
 b) soit de façon à être constituée d’un membre donné ou à comprendre ou exclure un tel membre.
 
 ### Non-application de la Loi de 2006 sur la législation
@@ -130,10 +155,17 @@ b) soit de façon à être constituée d’un membre donné ou à comprendre ou 
 ### Règlements
 
 8 Le ministre des Services gouvernementaux et des Services aux consommateurs ou l’autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée ou transférée en vertu de la Loi sur le Conseil exécutif peut, par règlement :
+
 a) définir les termes qui sont utilisés dans la présente loi et qui n’y sont pas expressément définis;
+
 b) régir tout ce que la présente loi exige ou permet de prescrire ou qu’elle exige ou permet de faire par règlement, conformément aux règlements ou comme ceux-ci l’autorisent, le précisent ou le prévoient;
+
 c) prévoir toute question que le ministre estime nécessaire ou souhaitable pour l’application de la présente loi;
+
 d) prévoir les questions transitoires que le ministre estime nécessaires ou souhaitables relativement à l’édiction de la présente loi.
+
 9 Omis (modification de la présente loi).
+
 10 Omis (entrée en vigueur de la présente loi).
+
 11 Omis (édiction du titre abrégé de la présente loi).

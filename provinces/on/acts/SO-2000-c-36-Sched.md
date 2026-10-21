@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2015-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/00p36"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Post-secondary Education Choice and Excellence Act, 2000
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/00p36) before relying on it.
 
 S.O. 2000, c. 36, Sched.
 
@@ -21,50 +21,75 @@ S.O. 2000, c. 36, Sched.
 ### Definitions
 
 1 (1) In this Act,
+
 “consent” means a written consent of the Minister given under subsection 4 (1) and any renewal of that consent given by the Minister; (“consentement”)
+
 “degree” means a degree as described in subsection (2); (“grade”)
+
 “distance education” means a formal educational process in which all or the majority of the instruction occurs when the learner and instructor are not physically located in the same place at the same time; (“enseignement à distance”)
+
 “educational institution” means any person that offers education or professional courses or programs and includes a person whose objects or primary activity are not related to the provision of educational programs, but does not include a person that is prescribed as excluded; (“établissement d’enseignement”)
+
 “Minister” means the Minister of Training, Colleges and Universities; (“ministre”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means the regulations made under this Act. (“règlements”)
 
 ### Interpretation, degree
 
 (2) For the purposes of this Act, a degree means one or both of the following:
+
 1. A document of academic achievement granted or conferred by an educational institution that includes terms or nomenclature or any derivation of them that, regardless of the specific academic or professional discipline in which it is awarded, would be reasonably understood as an undergraduate or graduate degree, including, but not limited to, a document including the terms bachelor, bachelor’s, baccalaureate, master, master’s, doctor, doctoral, doctorate, B.A., B.Comm., B.Sc., B.Ed., M.A., M.B.A., M.Sc., Med.D. or Ph.D.
+
 2. A diploma, certificate, document or other thing that implies or would be reasonably understood as the granting or conferring of a degree, including, without limiting the foregoing, a diploma, certificate, document or other thing that includes a reference to bachelor, bachelor’s, baccalaureate, master, master’s, doctor, doctoral or doctorate.
 
 ### Same, diploma, etc.
 
 (3) For greater certainty, a diploma, certificate, document or other thing referred to in paragraph 2 of subsection (2) does not include a certificate, licence, registration or other form of official recognition that attests to the person being qualified to practise a trade or occupation issued or granted by,
+
 (a) a regulatory authority, body or entity that is authorized under an Act of a Canadian province or territory to issue or grant such form of official recognition; or
+
 (b) an occupational accrediting, certifying or licensing body that is prescribed or meets prescribed criteria, if any.
 
 ### Same, program of post-secondary study leading to a degree
 
 (4) For the purposes of this Act, providing all or part of a program of post-secondary study leading to a degree includes providing or facilitating one or more of the following on an ongoing, regular or frequent basis, whether directly or through an agent or contractor:
+
 1. Lectures, tutorials, seminars, or academic assessments.
+
 2. Academic advisory or counselling services, or admission of students to all or part of a degree program.
+
 3. Collecting tuition or other fees relating to admission to all or part of a degree program.
+
 4. Classroom space or library facilities.
 
 ### Application
 
 1.1 (1) This Act applies to persons,
+
 (a) who have physical presence in Ontario; or
+
 (b) who provide distance education to Ontario residents and it is not reasonably evident to Ontario residents that the programs are offered by a person or entity in a jurisdiction outside Ontario.
 
 ### Physical presence
 
 (2) For the purposes of clause (1) (a), evidence of physical presence in Ontario includes one or more of the following:
+
 1. A head office.
+
 2. A postal address or a telephone or fax number in Ontario.
+
 3. The occupancy of real property in Ontario for the purposes of providing educational programs.
+
 4. The occupancy of real property in Ontario for the purposes of granting degrees.
+
 5. The employment of or contracting with,
+
 i. an agent, manager or other person in Ontario who provides or arranges the provision of educational programs in Ontario, or
+
 ii. an employee, contractor or other person who provides educational programs or grants degrees in Ontario.
+
 6. Such other elements of physical presence as may be prescribed.
 
 ### Authority to Grant Degrees
@@ -72,25 +97,37 @@ ii. an employee, contractor or other person who provides educational programs or
 ### Authority to grant a degree, etc.
 
 2 (1) No person shall directly or indirectly do any of the following things unless the person is authorized to do it by an Act of the Assembly or by the Minister under this Act:
+
 1. Grant a degree.
+
 2. Provide a program or part of a program of post-secondary study leading to a degree to be conferred by a person inside or outside Ontario.
+
 3. Advertise,
+
 i. a program or part of a program of post-secondary study offered in Ontario leading to a degree to be conferred by a person in or outside Ontario, or
+
 ii. a distance education program or part of a distance education program of post-secondary study leading to a degree to be conferred by a person outside of Ontario where the advertising is done in a manner such that it is not reasonably evident to Ontario residents that the program is offered by a provider in a jurisdiction outside Ontario who is not authorized to provide the program or grant a degree related to the program in Ontario.
+
 4. Sell, offer for sale or provide by agreement for a fee, reward or other remuneration, a diploma, certificate, document or other material that indicates or implies the granting or conferring of a degree.
 
 ### Exception
 
 (2) Despite subsection (1), a person may directly or indirectly advertise and provide a program or part of a program of post-secondary study leading to a degree if,
+
 (a) the person provides the program or part of the program under an agreement with another person who is authorized by an Act of the Assembly or by the Minister under this Act to provide the program or part of the program; and
+
 (b) the degree to which the program or part of the program leads is conferred only by that other person who is authorized to provide the program or part of the program.
 
 ### Authority to establish a university, etc.
 
 3 No person shall directly or indirectly do any of the following things unless the person is authorized to do it by an Act of the Assembly or by the Minister under this Act:
+
 1. Operate or maintain a university.
+
 2. Use or be known by a name of a university or any derivation or abbreviation of a name of a university.
+
 3. Hold themself out to be a university.
+
 4. Make use of the word university or any derivation or abbreviation of the word university in any advertising relating to an educational institution in Ontario.
 
 ### Consent of Minister
@@ -108,19 +145,25 @@ ii. a distance education program or part of a distance education program of post
 ### Security
 
 (4) The Minister shall not give a consent unless he or she is satisfied,
+
 (a) that the person seeking the consent has given security that complies with any prescribed requirements and is adequate to protect the interests of students; and
+
 (b) that the person has made arrangements to ensure students have access to their transcripts and that the arrangements comply with any prescribed requirements and are adequate to protect the interests of students.
 
 ### Colleges of applied arts and technology
 
 (5) The Minister shall not give a consent to authorize a college of applied arts and technology established under the Ontario Colleges of Applied Arts and Technology Act, 2002,
+
 (a) to do anything described in section 2, unless the degree in respect of which the consent is given is a baccalaureate degree in an applied area of study; or
+
 (b) to do anything described in section 3.
 
 ### Exception
 
 (6) Despite subsection (5), the Minister may give a consent to authorize a college of applied arts and technology to do something described in section 2 or 3 if,
+
 (a) the college is named in a regulation for the purposes of this subsection; or
+
 (b) conditions have been prescribed for the purposes of this subsection and the college has satisfied them.
 
 ### Application for consent
@@ -130,7 +173,9 @@ ii. a distance education program or part of a distance education program of post
 ### Referral to Board or other prescribed body
 
 (2) Subject to subsection (2.1), the Minister shall,
+
 (a) refer applications for a consent or renewal of a consent to the Post-secondary Education Quality Assessment Board or another accrediting or quality assurance body or authority, in accordance with the regulations, if any; or
+
 (b) refer elements of an application for a consent or renewal of a consent to the Post-secondary Education Quality Assessment Board and elements to another accrediting or quality assurance body or authority, in accordance with the regulations, if any.
 
 ### Rejection of application
@@ -140,13 +185,17 @@ ii. a distance education program or part of a distance education program of post
 ### Recommendation
 
 (3) Subject to subsection (2.1), the Minister shall not grant or reject an application unless he or she has received a recommendation,
+
 (a) from the Board or the accrediting or quality assurance body or authority; or
+
 (b) in the case of a referral under clause (2) (b), from both the Board and the accrediting or quality assurance body or authority.
 
 ### Deemed referral and recommendation
 
 (3.1) The Minister may, in the prescribed circumstances or in accordance with the prescribed criteria,
+
 (a) deem that a prior quality assurance review of a program that is the subject of an application for consent or renewal of consent is a referral to an accrediting or quality assurance body or authority under clause (2) (a); and
+
 (b) deem the approval by the body or authority to be a recommendation under subsection (3), but only in respect of the review undertaken by the body or authority.
 
 ### Criteria in granting or rejecting application
@@ -160,9 +209,13 @@ ii. a distance education program or part of a distance education program of post
 ### Suspension, etc.
 
 6 (1) The Minister may at any time, in accordance with the regulations,
+
 (a) suspend or revoke a consent;
+
 (b) reinstate a consent with or without conditions;
+
 (c) add new terms and conditions to a consent; or
+
 (d) change or remove terms and conditions attached to a consent.
 
 ### Potential non-compliance
@@ -178,20 +231,27 @@ ii. a distance education program or part of a distance education program of post
 ### Composition
 
 (2) The Board shall be composed of,
+
 (a) a chair appointed by the Lieutenant Governor in Council; and
+
 (b) a vice-chair and not more than nine other members appointed by the Minister.
 
 ### Duties
 
 (3) The Board shall,
+
 (a) review applications made under section 5 and other matters referred to it by the Minister and make recommendations to the Minister in a manner and within a time period specified by the Minister; and
+
 (b) perform such other duties as may be prescribed.
 
 ### Powers
 
 (4) The Board may,
+
 (a) establish review panels to assess the educational quality of proposed degree programs in Ontario and to review applications made under section 5;
+
 (b) establish advisory committees to assist the Board in providing recommendations and advice to the Minister; and
+
 (c) undertake such research as it determines necessary to carry out its duties.
 
 ### Procedures
@@ -205,7 +265,9 @@ ii. a distance education program or part of a distance education program of post
 ### Same
 
 (7) Except as provided in the regulations, the criteria established by the Board,
+
 (a) must be in accordance with educational standards recognized in Ontario and other jurisdictions; and
+
 (b) must comply with such policy directions as may be given by the Minister.
 
 ### Effect of consent
@@ -217,17 +279,25 @@ ii. a distance education program or part of a distance education program of post
 ### Inspectors
 
 9 (1) The Minister may appoint inspectors for the purposes of determining whether it is appropriate to suspend or revoke a consent or change the terms and conditions attached to a consent given under this Act or for the purposes of determining whether a person has failed to comply with this Act.
+
 (2) Repealed: 2010, c. 12, s. 9 (1).
 
 ### Powers
 
 (3) An inspector may, without a warrant, do any of the following things in the course of conducting an inspection:
+
 1. Enter and inspect any premises used in connection with a person’s business or activities.
+
 2. Photograph the premises.
+
 3. Inspect documents or other things that may be relevant to the inspection.
+
 4. Require a person to answer questions about anything that may be relevant to the inspection.
+
 5. Require a person to produce a document, record or other thing and provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce information.
+
 6. In order to produce information, use any data storage, processing or retrieval device or system that is used in connection with the person’s business or activities.
+
 7. Remove for examination and copying anything that may be relevant to the inspection, including removing any data storage, processing or retrieval device or system in order to produce information.
 
 ### Entry into dwelling
@@ -249,6 +319,7 @@ ii. a distance education program or part of a distance education program of post
 ### Identification
 
 (8) Upon request, an inspector shall produce evidence of his or her designation.
+
 (9) Repealed: 2010, c. 12, s. 9 (2).
 
 ### Copy admissible in evidence
@@ -280,8 +351,11 @@ ii. a distance education program or part of a distance education program of post
 ### Purpose of administrative penalty
 
 (2) The following are the purposes for which a person may be required to pay an administrative penalty under this section:
+
 1. To encourage compliance with this Act and the regulations.
+
 2. To encourage compliance with an order made under section 10.9.
+
 3. To prevent a person from deriving, directly or indirectly, any economic benefit as a result of a contravention of this Act or the regulations.
 
 ### Amount of administrative penalty
@@ -295,14 +369,19 @@ ii. a distance education program or part of a distance education program of post
 ### Content of notice of contravention
 
 (5) The notice of contravention shall,
+
 (a) contain or be accompanied by information setting out the nature of the contravention;
+
 (b) set out the amount of the penalty to be paid and specify the time and manner of the payment; and
+
 (c) inform the person of his or her right to request a review of the notice by the Minister or his or her designate.
 
 ### Right to review
 
 (6) A person who receives a notice of contravention may require the Minister to review the notice of contravention by applying to the Minister for a review in a form approved by the Minister,
+
 (a) within 15 days after receipt of the notice of contravention; or
+
 (b) if the Minister considers it appropriate in the circumstances to extend the time for applying, within the period specified by the Minister.
 
 ### If no review requested
@@ -316,8 +395,11 @@ ii. a distance education program or part of a distance education program of post
 ### Minister’s decision
 
 (9) Upon a review, the Minister may,
+
 (a) find that the person did not contravene the provision of this Act or the regulations specified in the notice of contravention and rescind the notice;
+
 (b) find that the person did contravene the provision of this Act or the regulations specified in the notice of contravention and affirm the notice; or
+
 (c) find that the person did contravene the provision but that the prescribed penalty is excessive in the circumstances and amend the notice by reducing the amount of the penalty.
 
 ### Decision final
@@ -419,14 +501,19 @@ ii. a distance education program or part of a distance education program of post
 ### Offence
 
 11 (1) Every person is guilty of an offence who,
+
 (a) knowingly furnishes false information in any application under this Act or in any statement or return required to be provided under this Act or the regulations; or
+
 (b) contravenes any provision of this Act.
 
 ### Penalty
 
 (2) Every person who is guilty of an offence under this Act is liable on conviction,
+
 (a) to a fine of not more than $50,000 if the person is an individual or $250,000 if the person is a corporation;
+
 (b) to imprisonment for a term of not more than one year; or
+
 (c) to both a fine under clause (a) and imprisonment under clause (b).
 
 ### Conviction of officers, etc.
@@ -436,7 +523,9 @@ ii. a distance education program or part of a distance education program of post
 ### Certificate of Minister as evidence
 
 12 A written statement purporting to be certified by the Minister is receivable in evidence as proof of the facts set out in the statement in the absence of evidence to the contrary in any action, proceeding or prosecution, without proof of the office or signature of the Minister,
+
 (a) as to whether a consent has been given under this Act and as to any terms and conditions of a consent; or
+
 (b) as to any other matter related to a consent or an application for consent.
 
 ### Service
@@ -444,30 +533,43 @@ ii. a distance education program or part of a distance education program of post
 ### Service
 
 12.1 (1) Any notice, order or other document that is required to be given, issued, delivered or served under this Act or the regulations shall be given, issued, delivered or served only,
+
 (a) by personal delivery;
+
 (b) by mail addressed to the person’s last known business or residential address as shown in the latest document filed with or correspondence sent to the Ministry using a method of mail delivery that permits the delivery to be verified;
+
 (c) by mail addressed to the person’s last known business or residential address as shown in the latest document filed with or correspondence sent to the Ministry; or
+
 (d) by fax of the document or by electronic mail if the person is equipped to receive such transmission.
 
 ### Personal delivery
 
 (2) Personal delivery under clause (1) (a) is carried out by,
+
 (a) leaving a copy of the notice, order or other document with the person to be served; or
+
 (b) leaving a copy of the notice, order or other document in an envelope addressed to the person,
+
 (i) at the person’s place of residence with anyone resident at the address who appears to be at least 16 years of age, or
+
 (ii) at the person’s place of business with an employee of the business at the address and,
+
 on the same day or on the next, mailing another copy to the person at the address where the envelope was left.
 
 ### Exception to service by regular mail
 
 (3) Service shall not be effected by the method set out in clause (1) (c) in respect of,
+
 (a) a matter referred to in subsection 6 (1); or
+
 (b) a notice of contravention under subsection 10.2 (1).
 
 ### Service, corporations
 
 (4) If the person receiving a notice, order or other document is a corporation, the notice or order may be given, issued, delivered or served,
+
 (a) on a director or officer of the corporation or on any manager, secretary or other person apparently in charge of any business premises of the corporation using any method described in subsection (1); or
+
 (b) on the corporation at its last known business address as shown in the latest document filed with or correspondence sent to the Ministry using one of the methods described in clause (1) (b) or (c).
 
 ### Deemed service
@@ -481,9 +583,13 @@ on the same day or on the next, mailing another copy to the person at the addres
 ### Substituted service
 
 (7) On the application of the Minister or person designated by the Minister under section 10.1, a judge of the Superior Court of Justice may order that a document be served by substituted service, using a method chosen by the court, if the Minister or person designated by the Minister,
+
 (a) provides detailed evidence showing,
+
 (i) what steps have been taken to locate the person to be served, and
+
 (ii) if the person has been located, what steps have been taken to serve the document on the person; and
+
 (b) shows that the method of service could reasonably be expected to bring the document to the person’s attention.
 
 ### Regulations
@@ -491,31 +597,53 @@ on the same day or on the next, mailing another copy to the person at the addres
 ### Regulations
 
 13 (1) The Lieutenant Governor in Council may make regulations,
+
 (0.a) prescribing persons that are excluded from the definition of “educational institution” in subsection 1 (1);
+
 (0.a.1) prescribing occupational accrediting, certifying or licensing bodies or the criteria that must be met to be an occupational accrediting, certifying or licensing body for the purposes of subsection 1 (3);
+
 (0.a.2) prescribing physical elements for the purposes of paragraph 6 of subsection 1.1 (2);
+
 (a) prescribing, for the purposes of subsection 4 (4), requirements relating to the giving of security and access to student transcripts;
+
 (b) governing claims made against the security referred to in subsection 4 (4);
+
 (c) naming colleges of applied arts and technology or conditions for the purposes of subsection 4 (6);
+
 (c.1) governing the referring of an application for consent or renewal of consent to a quality assurance body or authority for the purposes of section 5;
+
 (c.2) respecting when the Minister may refer elements of an application for a consent or renewal of a consent to the Post-secondary Education Quality Assessment Board and elements to another accrediting or quality assurance body or authority for the purposes of clause 5 (2) (b);
+
 (c.3) governing the circumstances in which the Minister may reject an application for consent or renewal of consent and the criteria the Minister may consider in rejecting such an application for the purposes of subsection 5 (2.1);
+
 (c.4) prescribing for the purposes of clause 5 (3.1) (a) circumstances where a prior quality assurance review may be deemed to be a referral and the criteria the Minister may consider in deeming such a review to be a referral under clause 5 (2) (a);
+
 (c.5) prescribing for the purposes of clause 5 (3.1) (b) circumstances where the approval of a prescribed body or authority may be deemed to be a recommendation and the criteria the Minister may consider in deeming such an approval to be a recommendation under subsection 5 (3) and the purposes for which the approval may be deemed to be a recommendation;
+
 (d) governing the suspension, reinstatement and revocation of a consent, the addition and removal of terms and conditions attached to a consent and the making of changes to the terms and conditions attached to a consent, including providing for appeals from decisions made by the Minister under section 6;
+
 (e) respecting the information that must be disclosed in respect of applications and consents under this Act, the person or persons who must disclose it, the manner and time of its disclosure and the persons or classes of persons to whom the information must be disclosed;
+
 (f) in respect of the Post-secondary Education Quality Assessment Board,
+
 (i) prescribing procedures for reviewing applications and other matters referred to it by the Minister,
+
 (ii) prescribing policies and principles that it must take into consideration in establishing criteria to apply in reviewing applications referred to it and in making recommendations to the Minister, and
+
 (iii) prescribing additional powers and duties of the Board;
+
 (g) governing procedures to be followed by the Minister in making orders under section 10, including providing for appeals from the orders;
+
 (h) governing administrative penalties for the purposes of section 10.2 and all matters necessary and incidental to the administration of a system of administrative penalties under this Act.
 
 ### Administrative penalties
 
 (2) A regulation under clause (1) (h) may,
+
 (a) provide that the amount of a penalty prescribed for a contravention is increased by a prescribed amount for each subsequent contravention that occurs within a prescribed period;
+
 (b) provide for penalties in the form of lump sum amounts and of daily amounts, prescribe the circumstances in which either or both types of amounts may be required and, in the case of a daily amount, prescribe the maximum number of days for which a daily amount may be imposed; and
+
 (c) provide for the time and manner of payment.
 
 ### Transitional

@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/26b02"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # boulevard Bremner (Loi de 2026 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/26b02) before relying on it.
 
 L.O. 2026, chap. 2, annexe 1
 
@@ -23,14 +23,19 @@ L.O. 2026, chap. 2, annexe 1
 ### Extinction des causes d’action
 
 2 (1) Aucune cause d’action découlant directement ou indirectement de ce qui suit ne prend naissance contre toute personne visée au paragraphe (2) :
+
 a) l’édiction, la modification ou l’abrogation d’une disposition de la présente loi ou de la Loi de 2002 sur le SkyDome (stationnement d’autobus) ;
+
 b) la prise, la modification ou l’abrogation de toute disposition d’un règlement pris en vertu de la présente loi;
+
 c) quoi que ce soit qui est fait ou n’est pas fait conformément à la présente loi, à la Loi de 2002 sur le SkyDome (stationnement d’autobus) ou à un règlement pris en vertu de la présente loi.
 
 ### Personnes visées
 
 (2) Les personnes visées au paragraphe (1) sont les suivantes :
+
 a) la Couronne, ou un membre, actuel ou ancien, du Conseil exécutif ou un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, de la Couronne;
+
 b) une municipalité ou un conseil local ou un membre, actuel ou ancien, du conseil de la municipalité ou du conseil local, ou un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, de la municipalité ou du conseil local.
 
 ### Aucun recours
@@ -64,13 +69,17 @@ b) une municipalité ou un conseil local ou un membre, actuel ou ancien, du cons
 ### Aucun empêchement à certaines instances introduites par les municipalités
 
 (10) Le présent article ne s’applique pas à l’égard des instances introduites par une municipalité contre l’une ou l’autre des personnes suivantes :
+
 a) un membre, actuel ou ancien, du conseil de la municipalité ou d’un conseil local de la municipalité;
+
 b) un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, de la municipalité ou d’un conseil local de la municipalité.
 
 ### Aucun empêchement à certaines instances introduites par les conseils locaux
 
 (11) Le présent article ne s’applique pas à l’égard des instances introduites par un conseil local contre l’une ou l’autre des personnes suivantes :
+
 a) un membre, actuel ou ancien, du conseil local;
+
 b) un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, du conseil local.
 
 ### Règlements, contrats et ententes
@@ -80,8 +89,11 @@ b) un employé, fonctionnaire, mandataire ou conseiller, actuel ou ancien, du co
 ### Teneur des règlements
 
 (2) Les règlements pris en vertu du paragraphe (1) peuvent :
+
 a) résilier le contrat prescrit ou l’entente prescrite à la date prévue dans le règlement;
+
 b) suspendre tout ou partie du contrat prescrit ou de l’entente prescrite aux dates prévues dans le règlement;
+
 c) modifier tout ou partie du contrat prescrit ou de l’entente prescrite, selon ce que précise le règlement.
 
 ### Contrat ou entente réputé résilié, suspendu ou modifié
@@ -91,6 +103,9 @@ c) modifier tout ou partie du contrat prescrit ou de l’entente prescrite, selo
 ### Aucune indemnité
 
 (4) Sauf disposition contraire des règlements, aucune indemnité ne doit être versée à quiconque relativement à une résiliation, à une modification ou à une suspension faite dans le cadre du présent article.
+
 4 Omis (modification ou abrogation d’autres textes législatifs).
+
 5 Omis (entrée en vigueur de dispositions de la présente loi).
+
 6 Omis (édiction du titre abrégé de la présente loi).

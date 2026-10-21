@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2023-05-18"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c07c"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # responsabilité de la Couronne et les instances l'intéressant (Loi de 2019 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c07c) before relying on it.
 
 L.O. 2019, chap. 7, annexe 17
 
@@ -21,26 +21,47 @@ L.O. 2019, chap. 7, annexe 17
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «bénéficiaire d’un paiement de transfert» Personne ou autre entité qui reçoit, directement ou indirectement de la Couronne, une subvention, un paiement de transfert ou une autre forme de financement ou d’aide financière servant à financer, en tout ou en partie, la prestation de services aux membres du public. S’entend notamment de ce qui suit :
+
 a) une municipalité;
+
 b) un hôpital au sens de la Loi sur les hôpitaux publics ;
+
 c) un hôpital privé au sens de la Loi sur les hôpitaux privés ;
+
 d) un conseil scolaire au sens de la Loi sur l’éducation ;
+
 e) une université, un collège d’arts appliqués et de technologie ou un autre établissement postsecondaire;
+
 f) une société d’aide à l’enfance au sens de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille ;
+
 g) un foyer de soins de longue durée au sens de la Loi de 2021 sur le redressement des soins de longue durée ;
+
 h) toute autre personne ou entité prescrite qui reçoit, directement ou indirectement, une telle somme. («transfer payment recipient»)
+
 «Couronne» La Couronne du chef de l’Ontario. («Crown»)
+
 «instance» Action ou requête en dommages-intérêts et toute autre instance civile relative à des dommages-intérêts auxquelles s’appliquent les règles de pratique. («proceeding»)
+
 «ordonnance» S’entend en outre d’un jugement, d’un décret, d’une décision, d’une sentence et d’une déclaration. («order»)
+
 «organisme de la Couronne» S’entend de ce qui suit :
+
 a) une personne morale qui est expressément déclarée être un mandataire de la Couronne par une loi ou aux termes d’une loi;
+
 b) une personne morale prescrite;
+
 c) une filiale à 100 % d’une personne morale visée à l’alinéa a) ou b). («Crown agency»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «règlements» Règlements pris en vertu de la présente loi. («regulations»)
+
 «société de la Couronne» S’entend de ce qui suit :
+
 a) une personne morale dont au moins 50 % des actions émises et en circulation sont dévolus à la Couronne ou dont la majorité des membres du conseil d’administration est nommée soit par le lieutenant-gouverneur en conseil ou par un ou plusieurs membres du Conseil exécutif soit avec leur approbation;
+
 b) une filiale à 100 % d’une société visée à l’alinéa a). («Crown corporation») 2019, chap. 7, annexe 17, par. 1 (1)
 
 ### Fonctionnaire de la Couronne
@@ -82,12 +103,19 @@ b) une filiale à 100 % d’une société visée à l’alinéa a). («Crown cor
 ### Incidence sur d’autres lois
 
 6 La présente loi n’a pas d’incidence sur les lois suivantes et leur est subordonnée :
+
 a) la Loi sur l’expropriation ;
+
 b) la Loi sur l’aménagement des voies publiques et des transports en commun ;
+
 c) la Loi sur l’enregistrement des droits immobiliers et la Loi sur l’enregistrement des actes pour ce qui se rapporte aux réclamations contre la Caisse d’assurance des droits immobiliers;
+
 d) la Loi sur l’indemnisation des victimes d’accidents de véhicules automobiles ;
+
 e) les parties V.1 et VI de la Loi de 1998 sur l’électricité ;
+
 f) la Loi de 1997 sur la sécurité professionnelle et l’assurance contre les accidents du travail ;
+
 g) toutes les lois qui établissent un impôt ou une taxe payable à la Couronne ou au ministre des Finances.
 
 ### Incompatibilité avec d’autres lois
@@ -103,9 +131,13 @@ g) toutes les lois qui établissent un impôt ou une taxe payable à la Couronne
 ### Responsabilité de la Couronne
 
 8 (1) Sauf disposition contraire de la présente loi ou d’une autre loi, la Couronne engage, comme si elle était une personne, sa responsabilité délictuelle à l’égard de ce qui suit :
+
 a) un délit commis par un fonctionnaire, un employé ou un mandataire de la Couronne;
+
 b) un manquement à un devoir découlant de la propriété, de l’occupation, de la possession ou de la garde d’un bien;
+
 c) un manquement à une obligation en matière d’emploi qu’a la Couronne envers un de ses fonctionnaires ou employés;
+
 d) dans tous les cas prévus par une loi ou par un règlement pris ou un règlement administratif ou municipal adopté en vertu d’une loi.
 
 ### Idem
@@ -123,15 +155,21 @@ d) dans tous les cas prévus par une loi ou par un règlement pris ou un règlem
 ### Limitation de la responsabilité de la Couronne
 
 9 (1) La Couronne ne peut pas être tenue responsable des délits commis par :
+
 a) les organismes de la Couronne;
+
 b) les sociétés de la Couronne;
+
 c) les bénéficiaires de paiements de transfert;
+
 d) les entrepreneurs indépendants qui fournissent des services à la Couronne à une fin quelconque.
 
 ### Idem
 
 (2) La présente loi n’a pas pour effet de soumettre la Couronne à une instance à l’égard de ce qui suit :
+
 a) tout acte accompli de bonne foi dans l’application du droit criminel ou des dispositions pénales d’une loi;
+
 b) tout acte ou toute omission d’une personne qui accomplit ou prétend accomplir une charge de nature judiciaire dont elle est investie ou dont elle doit s’acquitter relativement à l’exécution d’actes de procédure judiciaires.
 
 ### Biens dévolus à la Couronne
@@ -145,14 +183,19 @@ b) tout acte ou toute omission d’une personne qui accomplit ou prétend accomp
 ### Aucune responsabilité délictuelle
 
 (3) Lorsqu’un bien lui est dévolu de la manière prévue au paragraphe (1), la Couronne n’a aucune responsabilité délictuelle en raison d’un acte ou d’une omission qu’elle-même ou quiconque agissant pour son compte ou avec son approbation commet relativement à l’une des fins suivantes ou à une fin similaire :
+
 1. Enquêter sur un bien, en interdire l’accès, l’entretenir ou l’administrer.
+
 2. Rendre à nouveau ce bien productif, donner suite à des plaintes ou préserver la santé et la sécurité publiques.
+
 3. Exercer un pouvoir à l’égard du bien en vertu de la Loi de 2015 sur les biens en déshérence ou de la Loi de 2015 sur les biens sociaux confisqués.
 
 ### Limite
 
 (4) Les paragraphes (1) et (3) n’ont pas d’incidence sur la responsabilité attribuée à la Couronne par la présente loi relativement à toute période après laquelle la Couronne, ou un de ses fonctionnaires, employés ou mandataires :
+
 a) dans le cas de biens meubles, commence à utiliser les biens aux fins de la Couronne;
+
 b) dans le cas de biens-fonds, enregistre sur le titre du bien un avis de son intention d’utiliser le bien aux fins de la Couronne.
 
 ### Avis
@@ -168,13 +211,17 @@ b) dans le cas de biens-fonds, enregistre sur le titre du bien un avis de son in
 ### Décisions réglementaires
 
 (2) Aucune cause d’action ne prend naissance contre la Couronne, ou un de ses fonctionnaires, employés ou mandataires en ce qui concerne une décision réglementaire qu’elle ou il a rendue de bonne foi dans les cas suivants :
+
 a) une personne subit une forme quelconque de préjudice ou de perte par suite d’un acte ou d’une omission d’une personne faisant l’objet de la décision réglementaire;
+
 b) la personne qui a subi le préjudice ou la perte prétend qu’une négligence ou un défaut de faire preuve de diligence raisonnable lorsque la décision réglementaire a été rendue en est la cause.
 
 ### Idem : supposé défaut
 
 (3) Aucune cause d’action ne prend naissance contre la Couronne ou un de ses fonctionnaires, employés ou mandataires en ce qui concerne un supposé défaut de sa part de rendre une décision réglementaire dans les cas suivants :
+
 a) une personne subit une forme quelconque de préjudice ou de perte par suite d’un acte ou d’une omission d’une autre personne;
+
 b) la personne qui a subi le préjudice ou la perte prétend qu’une négligence dans un supposé défaut de rendre une décision réglementaire à l’égard de cette autre personne en est la cause.
 
 ### Décisions relatives aux politiques
@@ -184,34 +231,59 @@ b) la personne qui a subi le préjudice ou la perte prétend qu’une négligenc
 ### Idem : questions de politique
 
 (5) Pour l’application du paragraphe (4), une question de politique comprend notamment :
+
 a) la création, la conception, l’établissement, la restructuration ou la modification d’un programme, d’un projet ou d’une autre initiative, y compris :
+
 (i) les conditions, la portée ou les caractéristiques du programme, du projet ou de l’autre initiative,
+
 (ii) l’admissibilité ou l’exclusion d’une personne ou d’une entité ou d’une catégorie de personnes ou d’entités en ce qui concerne sa ou leur participation au programme, au projet ou à l’autre initiative, ou les exigences ou les limites d’une telle participation,
+
 (iii) les limites de la durée du programme, du projet ou de l’autre initiative, notamment tout droit discrétionnaire de mettre fin ou d’apporter des modifications à son fonctionnement;
+
 b) le financement d’un programme, d’un projet ou d’une autre initiative, y compris :
+
 (i) l’octroi ou la cessation de l’octroi du financement,
+
 (ii) l’augmentation ou la réduction du financement octroyé,
+
 (iii) l’inclusion, l’exclusion, la modification ou la suppression des conditions relatives au financement,
+
 (iv) la réduction ou l’annulation de tout financement antérieurement octroyé ou engagé à l’appui du programme, du projet ou de l’autre initiative;
+
 c) les modalités de mise en oeuvre d’un programme, d’un projet ou d’une autre initiative, y compris :
+
 (i) la mise en oeuvre, pour le compte de la Couronne, d’une partie ou de la totalité d’un programme, d’un projet ou d’une autre initiative par une autre personne ou entité, y compris un organisme de la Couronne, une société de la Couronne, le bénéficiaire d’un paiement de transfert ou un entrepreneur indépendant,
+
 (ii) les conditions suivant lesquelles la personne ou l’entité exécutera ces travaux,
+
 (iii) le degré de surveillance ou de contrôle de la personne ou de l’entité exercé par la Couronne relativement à ces travaux,
+
 (iv) l’existence ou la teneur des politiques, les procédures de gestion ou les mécanismes de contrôle concernant le programme, le projet ou l’autre initiative;
+
 d) la cessation d’un programme, d’un projet ou d’une autre initiative, y compris le délai de préavis ou une autre mesure de redressement à accorder aux membres du public touchés par la cessation;
+
 e) le prononcé de telles décisions réglementaires conformément à ce qui est prescrit;
+
 f) toute autre question de politique prescrite.
 
 ### Définition de «décision réglementaire»
 
 (6) La définition qui suit s’applique au présent article.
+
 «décision réglementaire» Décision concernant :
+
 a) la question de savoir si une personne, une entité, un lieu ou une chose remplit une exigence prévue par une loi;
+
 b) la question de savoir si une personne ou une entité a contrevenu à une fonction ou à une autre obligation prévue par une loi;
+
 c) la question de savoir si un permis, une permission, un certificat ou une autre autorisation doit être délivré sous le régime d’une loi;
+
 d) la question de savoir si une condition ou une limite concernant un permis, une permission, un certificat ou une autre autorisation doit être imposée, modifiée ou supprimée sous le régime d’une loi;
+
 e) la question de savoir si une enquête, une inspection ou autre évaluation doit être effectuée sous le régime d’une loi, ou concernant la manière dont est effectuée une enquête, une inspection ou une autre évaluation prévue par une loi;
+
 f) la question de savoir s’il faut prendre des mesures d’exécution prévues par une loi, ou concernant la manière dont sont prises des mesures d’exécution prévues par une loi;
+
 g) toute autre question prescrite.
 
 ### Irrecevabilité de certaines instances
@@ -275,7 +347,9 @@ g) toute autre question prescrite.
 ### Documents relatifs à une motion en autorisation
 
 (3) Dans le cadre d’une motion en autorisation visée au paragraphe (2), le demandeur signifie au défendeur et dépose au tribunal, conformément à l’article 15 s’il s’applique, les documents suivants :
+
 a) un affidavit, ou tout autre document prescrit, exposant de façon concise les faits importants sur lesquels il a l’intention de se fonder;
+
 b) un affidavit de documents, ou tout autre document prescrit, dans lequel il divulgue tous les documents qui, à sa connaissance directe ou suivant des renseignements qu’il tient pour véridiques, sont pertinents à l’égard d’une question en litige dans l’instance et se trouvent ou se sont trouvés en sa possession ou sous son contrôle ou sa garde.
 
 ### Réponse du défendeur
@@ -293,7 +367,9 @@ b) un affidavit de documents, ou tout autre document prescrit, dans lequel il di
 ### Exigences relatives à l’autorisation
 
 (7) Le tribunal ne doit pas accorder d’autorisation à moins d’être convaincu de ce qui suit :
+
 a) l’instance est introduite de bonne foi;
+
 b) il est raisonnablement possible que la demande visée au paragraphe (1) soit réglée en faveur du demandeur.
 
 ### Dépens
@@ -307,7 +383,9 @@ b) il est raisonnablement possible que la demande visée au paragraphe (1) soit 
 ### Effet du refus de l’autorisation
 
 (10) Si l’autorisation visée au paragraphe (2) n’est pas accordée :
+
 a) l’instance est rendue nulle;
+
 b) dans le cas où l’instance comprend des demandes autres qu’une demande visée au paragraphe (1), l’instance est rendue nulle à l’égard de la demande visée à ce paragraphe et le sursis est levé à l’égard du reste de l’instance.
 
 ### Renonciation à l’exigence relative à l’autorisation
@@ -321,7 +399,9 @@ b) dans le cas où l’instance comprend des demandes autres qu’une demande vi
 ### Idem
 
 (13) Si la Couronne exerce le pouvoir discrétionnaire que lui confère le paragraphe (11) après l’introduction d’une instance :
+
 a) d’une part, le sursis de l’instance est levé une fois que l’avis de la renonciation est donné au demandeur;
+
 b) d’autre part, la Couronne donne avis de la renonciation par écrit au tribunal.
 
 ### Non-application à la Couronne
@@ -339,7 +419,9 @@ b) d’autre part, la Couronne donne avis de la renonciation par écrit au tribu
 ### Idem
 
 (17) Pour l’application de tout délai de prescription applicable :
+
 a) d’une part, une instance à laquelle s’applique le paragraphe (15) est considérée comme ayant été introduite à l’égard de la demande visée au paragraphe (1) au moment où la motion en autorisation a été présentée, malgré toute renonciation par la Couronne à l’exigence relative à l’autorisation;
+
 b) d’autre part, une instance à laquelle s’applique le paragraphe (16) est considérée, bien qu’elle soit nulle à l’égard de la demande visée au paragraphe (1), comme ayant été introduite au moment où l’instance a été introduite.
 
 ### Avis de demande en dommages-intérêts
@@ -375,9 +457,13 @@ b) d’autre part, une instance à laquelle s’applique le paragraphe (16) est 
 ### Cas où la Couronne est une partie
 
 19 (1) Dans une instance à laquelle la Couronne est partie, les règles de pratique relatives à la communication préalable et l’examen de documents, à l’interrogatoire préalable, à la preuve établie par contre-interrogatoire sur les affidavits et à l’interrogatoire des témoins s’appliquent de la même façon que si la Couronne était une personne morale, sauf pour les exceptions qui suivent :
+
 1. La Couronne peut refuser de produire un document ou de répondre à une question pour le motif que la production ou la réponse nuirait à l’intérêt public.
+
 2. La personne qui se présente à l’interrogatoire préalable est un fonctionnaire nommé par le sous-procureur général.
+
 3. La Couronne n’est pas tenue de fournir un affidavit de documents pour examen et communication préalable; elle doit toutefois fournir, sous la signature du sous-procureur général, une liste des documents qu’elle peut être tenue de produire.
+
 4. Toute autre exception prescrite.
 
 ### Cas où la Couronne n’est pas une partie
@@ -449,6 +535,7 @@ b) d’autre part, une instance à laquelle s’applique le paragraphe (16) est 
 ### Définition
 
 (5) La définition qui suit s’applique au présent article.
+
 «service administratif» S’entend d’un ministère du gouvernement de l’Ontario, d’un organisme de la Couronne au sens de la Loi sur les organismes de la Couronne ou du Bureau de l’Assemblée, au sens de la Loi sur l’Assemblée législative.
 
 ### Dispositions générales
@@ -456,11 +543,17 @@ b) d’autre part, une instance à laquelle s’applique le paragraphe (16) est 
 ### Paiement par la Couronne
 
 28 Le ministre des Finances prélève sur le Trésor les sommes que doit payer la Couronne en application de ce qui suit :
+
 a) une ordonnance définitive et sans appel d’un tribunal;
+
 b) le règlement total ou partiel d’une instance;
+
 c) le règlement total ou partiel d’une demande qui fait l’objet d’un avis de demande aux termes de l’article 18;
+
 d) le règlement total ou partiel d’une instance ou demande prévue qui, de l’avis du procureur général, pourrait donner lieu à un jugement ou une autre conclusion de responsabilité contre la Couronne;
+
 e) une ordonnance d’un tribunal administratif ou une sentence arbitrale qui est définitive et sans appel, ou le règlement total ou partiel d’une question ou d’une question prévue dont est saisi un tribunal administratif ou un arbitre;
+
 f) une ordonnance définitive de paiement rendue par une autorité compétente dans le cadre d’un accord commercial que la Couronne a conclu avec le gouvernement d’une autre province ou d’un territoire du Canada, le gouvernement du Canada ou une combinaison d’entre eux.
 
 ### Aucune indemnité
@@ -470,12 +563,19 @@ f) une ordonnance définitive de paiement rendue par une autorité compétente d
 ### Règlements
 
 30 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) traiter de tout ce qui, aux termes de la présente loi, peut ou doit être prescrit ou fait par règlement;
+
 b) définir tout terme utilisé, mais non défini dans la présente loi;
+
 b.1) prévoir la procédure qui s’applique à l’égard d’une motion en autorisation visée à l’article 17;
+
 c) pour l’application de l’article 27 :
+
 (i) prescrire les modes de signification à la Couronne des avis de saisie-arrêt en remplacement du mode prescrit à l’article 15,
+
 (ii) prévoir que l’avis de saisie-arrêt délivré à l’encontre de la Couronne n’a d’effet que s’il est signifié en même temps qu’un état détaillé dressé selon le formulaire prescrit,
+
 (iii) prévoir que l’avis de saisie-arrêt délivré à l’encontre de la Couronne est réputé signifié le jour qui est postérieur — du nombre de jours prescrit ne devant pas dépasser 30 — soit à la date effective de signification, soit à la date à laquelle la signification est valide en vertu des règles de pratique, selon le cas.
 
 ### Règlements rétroactifs
@@ -507,7 +607,11 @@ c) pour l’application de l’article 27 :
 ### Exception : extinction des causes d’action
 
 (4) L’article 11 ainsi que l’extinction des causes d’actions et le rejet d’instances prévus à cet article s’appliquent à l’égard des instances introduites contre la Couronne ou un de ses fonctionnaires, employés ou mandataires avant le jour de l’entrée en vigueur du présent article.
+
 32 Omis (modification de la présente loi).
+
 33 à 17 1 Omis (modification ou abrogation d’autres textes législatifs).
+
 172 Omis (entrée en vigueur de dispositions de la présente loi).
+
 173 Omis (édiction du titre abrégé de la présente loi).

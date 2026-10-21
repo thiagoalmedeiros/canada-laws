@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21t26"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Towing and Storage Safety and Enforcement Act, 2021
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21t26) before relying on it.
 
 S.O. 2021, c. 26, Sched. 3
 
@@ -21,40 +21,75 @@ S.O. 2021, c. 26, Sched. 3
 ### Definitions
 
 1 In this Act,
+
 “certificate” means a tow certificate, tow driver certificate or vehicle storage certificate, as the case may be, issued under section 5; (“certificat”)
+
 “condition”, in relation to a certificate, includes a limitation, restriction or endorsement, and includes a deemed condition; (“condition”)
+
 “Director” means the Director of Towing and Vehicle Storage Standards appointed under section 49; (“directeur”)
+
 “drive”, in relation to a tow truck, means to drive, use or otherwise operate the tow truck; (“conduire”)
+
 “driver’s licence” has the same meaning as in subsection 1 (1) of the Highway Traffic Act; (“permis de conduire”)
+
 “highway” has the same meaning as in subsection 1 (1) of the Highway Traffic Act; (“voie publique”)
+
 “inspector” means an inspector appointed under section 53; (“inspecteur”)
+
 “Minister” means the Minister of Transportation or such other member of the Executive Council to whom responsibility for the administration of this Act may be assigned or transferred under the Executive Council Act; (“ministre”)
+
 “Ministry” means the Ministry of the Minister; (“ministère”)
+
 “motor vehicle” has the same meaning as in subsection 1 (1) of the Highway Traffic Act; (“véhicule automobile”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “restricted towing zone” means a highway or part of a highway designated under section 41 as a restricted towing zone; (“zone restreinte de dépannage”)
+
 “tow certificate” means a certificate issued under section 5 to a tow operator; (“certificat de remorquage”)
+
 “tow driver certificate” means a certificate issued under section 5 to a tow truck driver; (“certificat de conducteur de dépanneuse”)
+
 “towing”, subject to the regulations, includes,
+
 (a) the transportation of motor vehicles using a tow truck,
+
 (b) any ancillary activity such as lifting a motor vehicle for the purposes of loading, towing or transporting it or placing it onto a truck or trailer for the purpose of towing or transporting, and
+
 (c) any other prescribed activity; (“remorquage”)
+
 “towing services”, subject to the regulations, includes,
+
 (a) towing, recovery or transportation in respect of motor vehicles that are disabled, abandoned, impounded, seized, damaged, incomplete or inoperable or that require removal from a location for any other reason, and
+
 (b) any other prescribed activity; (“services de remorquage”)
+
 “tow operator” means a person who, directly or indirectly, alone or with others, operates, manages, supervises, runs or directs the offer of or provision of towing services, and includes,
+
 (a) an operator, as defined in subsection 16 (1) of the Highway Traffic Act, of a tow truck, and
+
 (b) any other prescribed person; (“exploitant de services de remorquage”)
+
 “tow truck” means,
+
 (a) a motor vehicle commonly known as a tow truck,
+
 (b) a commercial motor vehicle, as defined in subsection 1 (1) of the Highway Traffic Act, with a flatbed that can tilt to load and that is used to tow or transport other motor vehicles, and
+
 (c) subject to any prescribed exceptions, a motor vehicle that is designed, modified, configured or equipped so that it is capable of towing other motor vehicles; (“dépanneuse”)
+
 “tow truck driver” means a person who drives a tow truck for the purpose of providing towing services; (“conducteur de dépanneuse”)
+
 “vehicle permit” means a permit as defined in subsection 6 (1) of the Highway Traffic Act; (“certificat d’immatriculation de véhicule”)
+
 “vehicle storage certificate” means a certificate issued under section 5 to a vehicle storage operator; (“certificat d’entreposage de véhicules”)
+
 “vehicle storage operator” means a person who, directly or indirectly, alone or with others, operates, manages, supervises, runs or directs the offer of or provision of vehicle storage services; (“exploitant de services d’entreposage de véhicules”)
+
 “vehicle storage services” means the receiving and holding of towed motor vehicles and any other prescribed services; (“services d’entreposage de véhicules”)
+
 “vehicle storage yard facility”, subject to the regulations, means a lot, yard or other premises used to provide vehicle storage services. (“installation d’entreposage de véhicules”)
 
 ### Certification
@@ -62,7 +97,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Tow operators
 
 2 (1) No person shall, except under the authority of a tow certificate and in accordance with this Act and the regulations,
+
 (a) provide or offer to provide towing services; or
+
 (b) hold themself out as a tow operator.
 
 ### Provision of towing services
@@ -76,13 +113,17 @@ S.O. 2021, c. 26, Sched. 3
 ### Tow truck drivers
 
 3 No person shall, except under the authority of a tow driver certificate and in accordance with this Act and the regulations,
+
 (a) drive a tow truck to provide towing services; or
+
 (b) hold themself out as a tow truck driver.
 
 ### Vehicle storage operators
 
 4 No person shall, except under the authority of a vehicle storage certificate and in accordance with this Act and the regulations,
+
 (a) provide or offer to provide vehicle storage services; or
+
 (b) hold themself out as a vehicle storage operator.
 
 ### Certificates
@@ -98,17 +139,25 @@ S.O. 2021, c. 26, Sched. 3
 ### No issuance or renewal despite qualification
 
 (3) Regardless of whether an applicant or certificate holder meets the prescribed qualifications and requirements for a certificate, the Director,
+
 (a) shall refuse to issue or renew the certificate in the prescribed circumstances; and
+
 (b) may refuse to issue or renew the certificate,
+
 (i) if the applicant or holder owes an outstanding fee, fine or administrative penalty, or any interest or penalty in respect of such a fee, fine or penalty, under this Act, the Highway Traffic Act or the Provincial Offences Act,
+
 (ii) if the Director determines that a prescribed circumstance applies, or
+
 (iii) for any prescribed reason.
 
 ### One certificate only
 
 (4) No person may hold,
+
 (a) more than one tow certificate;
+
 (b) more than one tow driver certificate; or
+
 (c) more than one vehicle storage certificate.
 
 ### Certificate not transferable
@@ -122,14 +171,19 @@ S.O. 2021, c. 26, Sched. 3
 ### Deemed conditions
 
 (2) Every certificate is deemed to contain the following conditions:
+
 1. The certificate holder is required to take all reasonable precautions to prevent loss of or from, or damage to, any motor vehicle that is being towed, is being held in a vehicle storage yard facility or is otherwise under the certificate holder’s control.
+
 2. Any other prescribed condition.
 
 ### Variation of conditions
 
 (3) The Director may, at any time and as the Director considers appropriate, amend a certificate by,
+
 (a) varying a condition attached to the certificate, other than a condition listed under subsection (2);
+
 (b) attaching a condition prescribed for the purposes of this subsection to the certificate; or
+
 (c) removing a condition from the certificate, other than a condition listed under subsection (2).
 
 ### Compliance
@@ -139,11 +193,17 @@ S.O. 2021, c. 26, Sched. 3
 ### Suspension, cancellation
 
 7 (1) The Director may suspend or cancel a certificate,
+
 (a) if the Director is satisfied that the holder no longer meets the qualifications and requirements prescribed for the certificate;
+
 (b) if the holder has contravened or failed to comply with this Act or the regulations;
+
 (c) if the payment of a fee for the issuance or renewal of the certificate has been dishonoured;
+
 (d) if the Director is satisfied that there are reasonable grounds to believe that the holder is not carrying out activities under the certificate with honesty and integrity;
+
 (e) for any prescribed reason; or
+
 (f) for any other sufficient reason.
 
 ### Automatic suspension of tow driver certificate
@@ -161,11 +221,17 @@ S.O. 2021, c. 26, Sched. 3
 ### Appeal
 
 9 (1) If the regulations so provide, one or more of the following decisions, as specified by the regulations and subject to any prescribed exceptions, may be appealed to the prescribed person or entity by the applicant or certificate holder in accordance with the regulations:
+
 1. A decision to refuse to issue a certificate.
+
 2. A decision to refuse to renew a certificate.
+
 3. A decision to suspend a certificate.
+
 4. A decision to cancel a certificate.
+
 5. A decision to amend a certificate under subsection 6 (3).
+
 6. Any other decision of the Director specified by the regulations.
 
 ### No stay
@@ -181,7 +247,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Tow operator requirements
 
 11 (1) Every tow operator shall, in providing or offering to provide towing services,
+
 (a) comply with the prescribed requirements and standards respecting the provision of towing services that are applicable to the operator; and
+
 (b) ensure that every person employed or engaged by the operator and any other prescribed person complies with this Act and the regulations, including the prescribed requirements and standards respecting the provision of towing services.
 
 ### Employment, engagement of tow truck drivers
@@ -203,13 +271,17 @@ S.O. 2021, c. 26, Sched. 3
 ### Vehicle impoundment if no or suspended certificate
 
 14 (1) A police officer or inspector may detain a tow truck if the police officer or inspector is satisfied that a person was driving a tow truck on a highway at a time when,
+
 (a) the person did not hold a valid tow driver certificate; or
+
 (b) the tow operator of the tow truck did not hold a valid tow certificate.
 
 ### Same
 
 (2) A tow truck detained under subsection (1) shall, at the cost and risk of the tow operator,
+
 (a) be removed to a vehicle storage yard facility as directed by a police officer or inspector; and
+
 (b) be impounded for seven days from the time it was detained.
 
 ### Application of impoundment rules
@@ -223,7 +295,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Vehicle storage operator requirements
 
 15 (1) Every vehicle storage operator shall, in providing or offering to provide vehicle storage services,
+
 (a) comply with the prescribed requirements and standards respecting the provision of vehicle storage services that are applicable to the operator; and
+
 (b) ensure that persons employed or engaged by the operator and any other prescribed person complies with this Act and the regulations, including the prescribed requirements and standards respecting the provision of vehicle storage services.
 
 ### Vehicle storage yard facility requirements
@@ -263,7 +337,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Requirement to obtain consent for towing services
 
 20 (1) Unless the consent of the person specified by the regulations in relation to a motor vehicle is first obtained by a tow truck driver or tow operator in accordance with the regulations,
+
 (a) the tow truck driver shall not provide, or attempt to provide, towing services in respect of the motor vehicle; and
+
 (b) neither the tow truck driver nor the tow operator shall charge or demand payment for any towing services in respect of the motor vehicle.
 
 ### Same
@@ -299,7 +375,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Notification
 
 (2) A vehicle storage operator shall, in the time and manner specified by the regulations,
+
 (a) notify the prescribed person of the location of a motor vehicle that has been towed to the operator’s vehicle storage yard facility; and
+
 (b) provide to the person any other information that may be prescribed.
 
 ### Requirement to obtain consent for vehicle storage services
@@ -317,7 +395,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Consent requirements
 
 (4) The vehicle storage operator shall, in accordance with the regulations,
+
 (a) document a consent required to be provided under subsection (1); and
+
 (b) provide a copy of the documentation to the consenting person.
 
 ### No alteration
@@ -383,15 +463,25 @@ S.O. 2021, c. 26, Sched. 3
 ### Same
 
 (2) Without limiting the generality of subsection (1), the regulations may,
+
 (a) prescribe maximum amounts that may be charged, which may include different maximum amounts in respect of,
+
 (i) different services,
+
 (ii) different classes of motor vehicles,
+
 (iii) different geographical regions, and
+
 (iv) such other criteria as the Minister considers appropriate;
+
 (b) establish and govern procedures to be followed in relation to the charging of amounts for towing services or vehicle storage services and any services related or ancillary to either and requiring compliance with the procedures;
+
 (c) govern the payment of amounts for towing services or vehicle storage services and any services related or ancillary to either, including methods of payment;
+
 (d) provide that a specified service not be subject to a charge;
+
 (e) prescribe criteria that the Director shall take into consideration when determining whether an amount is unreasonably high under subsection (7);
+
 (f) establish and govern procedures to be followed by the Director when giving a notice under subsection (7).
 
 ### Submission of amounts
@@ -417,7 +507,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Unreasonable amount
 
 (7) If there is no applicable prescribed maximum amount in respect of a service provided by an operator and the Director is of the opinion that the most recent amount submitted by the operator in respect of the service is unreasonably high, the Director may, by giving written notice to the operator,
+
 (a) require the operator to submit a lower amount in respect of the service within the time period specified in the notice; and
+
 (b) specify a maximum amount that may be charged by the operator in respect of the service during the period starting on the day the notice is given and ending on the day that the amount submitted under clause (a) is published by the Director under subsection (6).
 
 ### Compliance
@@ -443,16 +535,23 @@ S.O. 2021, c. 26, Sched. 3
 ### Restrictions on inducements
 
 29 (1) No person shall, directly or indirectly, give or receive or offer to give or receive anything in consideration of the furnishing of information or advice given in respect of the occurrence of a collision or the presence of a motor vehicle that requires towing, for the purpose of,
+
 (a) obtaining work providing towing services or vehicle storage services; or
+
 (b) enabling any other person to obtain work providing towing services or vehicle storage services.
 
 ### Same
 
 (2) No person shall, directly or indirectly, give or receive or offer to give or receive anything in consideration of the furnishing of information or advice given in respect of,
+
 (a) the repair, appraisal or wrecking of a motor vehicle; or
+
 (b) the referral of a person whose motor vehicle requires towing services or vehicle storage services to,
+
 (i) a towing service,
+
 (ii) a vehicle storage service, or
+
 (iii) any other prescribed service.
 
 ### Restrictions on referrals
@@ -466,8 +565,11 @@ S.O. 2021, c. 26, Sched. 3
 ### Disclosure of interest
 
 31 (1) Every tow truck driver, tow operator and vehicle storage operator who, directly or indirectly, has an interest in any of the following shall, in accordance with the regulations and with subsection (2), disclose to a person to whom the driver or operator is providing towing services or vehicle storage services, as the case may be, and to any other prescribed person, the nature and extent of the interest:
+
 1. A vehicle storage yard facility to which the motor vehicle may be towed.
+
 2. Any other location to which the motor vehicle may be towed for repair, storage, appraisal or other similar purpose.
+
 3. Any person or entity to whom the driver or operator refers the person to whom the driver or operator is providing the services.
 
 ### No demand for payment before disclosure
@@ -503,7 +605,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Related conduct
 
 (2) No person shall coerce, intimidate or threaten any other person for the purpose of,
+
 (a) obtaining work providing towing services or vehicle storage services; or
+
 (b) preventing the other person from obtaining work providing towing services or vehicle storage services.
 
 ### Information to be provided
@@ -525,9 +629,13 @@ S.O. 2021, c. 26, Sched. 3
 ### Complaints
 
 37 (1) The Director may,
+
 (a) receive complaints concerning conduct that may be in contravention of or non-compliance with this Act or the regulations;
+
 (b) make written requests to persons for information regarding complaints;
+
 (c) attempt to resolve complaints concerning any conduct that comes to the Director’s attention that may be in contravention of or non-compliance with this Act or the regulations, or refer such complaints to a prescribed complaint resolution process to be dealt with in accordance with the regulations; and
+
 (d) if the Director is of the opinion that a person has contravened or failed to comply with this Act or the regulations, impose a prescribed sanction or take any other prescribed action, as the Director considers appropriate, in accordance with the regulations.
 
 ### Request for information
@@ -547,7 +655,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Restriction on provision of towing services at collision
 
 38 (1) No tow truck driver or tow operator shall provide or offer to provide towing services, or park or stop a tow truck, on a highway within 200 metres of,
+
 (a) the scene of a collision or apparent collision; or
+
 (b) a motor vehicle involved in a collision.
 
 ### Exception
@@ -565,7 +675,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Same
 
 (2) Every tow truck driver shall comply with a direction of a police officer or inspector who is present at the scene of a collision to,
+
 (a) leave the scene of the collision; or
+
 (b) stay at least 200 metres away from the scene for such time as the police officer or inspector may direct.
 
 ### Restricted Towing Zones
@@ -573,8 +685,11 @@ S.O. 2021, c. 26, Sched. 3
 ### Definitions
 
 39.1 In sections 40 to 43.1,
+
 “roadside assistance services” means services provided for the purpose of repairing or rendering operable a motor vehicle that is disabled or inoperable on a highway; (“services d’assistance routière”)
+
 “roadside assistance vehicle” means a vehicle that is used by a person who offers or provides roadside assistance services; (“véhicule d’assistance routière”)
+
 “towing services” includes roadside assistance services. (“services de remorquage”)
 
 ### Restricted towing zones
@@ -584,6 +699,7 @@ S.O. 2021, c. 26, Sched. 3
 ### Designation of restricted towing zones
 
 41 (1) A King’s Highway or parts of a King’s Highway may be designated in the regulations as a restricted towing zone, and the Director may authorize a tow certificate holder to provide towing services in that zone.
+
 (2) Repealed: 2024, c. 25, Sched. 5, s. 2 (1).
 
 ### Prohibition
@@ -601,7 +717,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Tow trucks to be marked
 
 42 (1) A tow certificate holder authorized under section 41 to provide towing services in a restricted towing zone shall ensure that every tow truck or roadside assistance vehicle it uses to provide the services in that zone,
+
 (a) displays the holder’s name; and
+
 (b) displays, in a clearly visible position on each side of the tow truck or roadside assistance vehicle, a sign showing the holder’s authorization to provide towing services in the zone.
 
 ### Same
@@ -615,8 +733,11 @@ S.O. 2021, c. 26, Sched. 3
 ### Regulations
 
 43.1 The Minister may make regulations for the purposes of sections 39.1 to 43,
+
 (a) designating restricted towing zones;
+
 (b) governing the erection of signs and the placing of markings to indicate a restricted towing zone and governing such signs and markings;
+
 (c) providing for exemptions from any provisions of sections 39.1 to 43, or that any such provisions do not apply, and prescribing circumstances and conditions for any such exemption or non-application.
 
 ### Penalties and Offences
@@ -658,7 +779,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Parties to judicial review
 
 (9) The parties to any judicial review brought in respect of this section are,
+
 (a) the person subject to the order imposing an administrative penalty; and
+
 (b) the prescribed person referred to in subsection (2).
 
 ### Maximum administrative penalty
@@ -684,13 +807,17 @@ S.O. 2021, c. 26, Sched. 3
 ### Penalties
 
 (2) Subject to subsection (3), every person convicted of an offence under subsection (1) is liable,
+
 (a) for a first offence, to a fine of not less than $250 and not more than $1,000; and
+
 (b) for each subsequent offence, to a fine of not less than $1,000 and not more than $5,000.
 
 ### Same
 
 (3) Every person convicted of an offence under subsection (1) in respect of a provision listed in subsection (4), or of an offence under subsection (7), (8) or (10), is liable,
+
 (a) for a first offence, to a fine of not less than $2,000 and not more than $10,000, or to imprisonment for a term of not more than six months, or to both; and
+
 (b) for each subsequent offence, to a fine of not less than $5,000 and not more than $50,000, or to imprisonment for a term of not more than six months, or to both.
 
 ### Same
@@ -754,11 +881,17 @@ S.O. 2021, c. 26, Sched. 3
 ### Requirement to keep records
 
 50 (1) The Director shall keep records, in the form the Director considers appropriate, of the following information:
+
 1. All certificates issued, renewed, suspended or cancelled under this Act.
+
 2. All administrative penalties imposed under this Act.
+
 3. All convictions for offences under this Act.
+
 4. All convictions of a certificate holder under any other prescribed Act or under a prescribed provision of any other Act.
+
 5. All collisions and incidents described in subsection 18 (3) that are reported to the Director under that subsection or that otherwise come to the Director’s attention.
+
 6. All prescribed information.
 
 ### Same
@@ -798,13 +931,21 @@ S.O. 2021, c. 26, Sched. 3
 ### Definitions
 
 (7) In this section,
+
 “public body” means,
+
 (a) any ministry, agency, board, commission, official or other body of the Government of Ontario,
+
 (b) any municipality in Ontario,
+
 (c) a local board, as defined in subsection 1 (1) of the Municipal Act, 2001, or
+
 (d) a prescribed person or entity; (“organisme public”)
+
 “related government” means,
+
 (a) the Government of Canada and the Crown in right of Canada, and any ministry, agency, board, commission or official of either of them, or
+
 (b) the government of any other province or territory of Canada, and any ministry, agency, board, commission or official of any of them. (“gouvernement lié”)
 
 ### Inspectors and Inspections
@@ -824,6 +965,7 @@ S.O. 2021, c. 26, Sched. 3
 ### Inspections
 
 54 (1) In this section,
+
 “vehicle” has the same meaning as in subsection 1 (1) of the Highway Traffic Act.
 
 ### Power to examine tow trucks
@@ -837,14 +979,23 @@ S.O. 2021, c. 26, Sched. 3
 ### Power to inspect premises
 
 (4) For the purpose of ensuring compliance with this Act and the regulations, an inspector may, without a warrant,
+
 (a) enter any premises that are the business premises of a person;
+
 (b) enter any premises that are business premises where the records of a person, or vehicles, equipment or other things that are relevant to the inspection, are kept;
+
 (c) examine vehicles, equipment, documents, records or other things that are relevant to the inspection;
+
 (d) demand the production for inspection of a vehicle, equipment, document, record or other thing that is relevant to the inspection;
+
 (e) remove, for review and examination or testing, a vehicle, equipment or other thing that is relevant to the inspection;
+
 (f) remove, for review and copying, a document or record that is relevant to the inspection;
+
 (g) in order to produce information or a document or record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business on the premises;
+
 (h) carry out any examination, test, audit or investigation procedure that is relevant to the inspection; and
+
 (i) question a person on matters relevant to the inspection.
 
 ### Dwellings
@@ -908,6 +1059,7 @@ S.O. 2021, c. 26, Sched. 3
 ### Definition, “documents”
 
 (4) For the purposes of subsection (3),
+
 “documents” includes a photograph.
 
 ### Notice
@@ -917,7 +1069,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Evidence
 
 58 (1) A copy of any document, as defined in subsection 56 (4), that is filed or kept under this Act, or any statement containing information from the records required or authorized to be kept under this Act, that purports to be certified by the Director under the seal of the Ministry as being a true copy of the original,
+
 (a) shall be received in evidence in all courts without proof of the seal, the Director’s signature or the manner of preparing the copy or statement; and
+
 (b) is proof, in the absence of evidence to the contrary, of the facts contained in the copy or statement.
 
 ### Director’s signature
@@ -973,70 +1127,127 @@ S.O. 2021, c. 26, Sched. 3
 ### Regulations
 
 64 (1) The Lieutenant Governor in Council may make regulations respecting any matter necessary or advisable to effectively carry out the intent and purpose of this Act and, without limiting the generality of the foregoing, may make regulations,
+
 (a) governing anything referred to as being prescribed or anything that is required or permitted to be done in accordance with the regulations or otherwise as provided by the regulations;
+
 (b) further defining or clarifying the definitions of “towing”, “towing services” and “vehicle storage yard facility” in section 1;
+
 (c) defining any word or expression used in this Act that has not already been expressly defined in this Act;
+
 (d) governing certificates and their issuance, renewal, suspension and cancellation, including,
+
 (i) governing applications for issuance or renewal,
+
 (ii) establishing and governing classes in relation to tow certificates, tow driver certificates or vehicle storage certificates,
+
 (iii) governing qualifications and requirements for a certificate,
+
 (iv) governing conditions that may be attached to a certificate, subject to subsection 6 (2),
+
 (v) if the Director determines that the holders of two or more tow operator certificates, tow driver certificates or vehicle storage certificates, as the case may be, are related persons as determined by the regulations, providing for steps that the Director may or shall take, and specifying other consequences, in relation to the certificates held by those persons,
+
 (vi) establishing and governing procedures for the purposes of section 8,
+
 (vii) providing for an appeal from a decision referred to in subsection 9 (1) to a person or entity specified by the regulations, including specifying circumstances in which a decision may not be appealed, and governing such appeals, including specifying the parties to an appeal, the powers of the prescribed person or entity in the appeal, and circumstances in which an appeal does not operate as a stay of the decision;
+
 (e) prescribing and governing requirements and standards for the purposes of each of sections 11, 12 and 15, including, as applicable, requirements and standards respecting,
+
 (i) the manner in which towing services or vehicle storage services shall be provided or offered,
+
 (ii) equipment on, or the use of any equipment or other thing on or in, tow trucks or vehicle storage yard facilities,
+
 (iii) security requirements respecting tow trucks, towed vehicles or vehicle storage yard facilities,
+
 (iv) words, phrases, signs and markings and other information to be displayed on tow trucks or in vehicle storage yard facilities, and the timing and manner of their display,
+
 (v) the storage, display and provision of copies of a certificate,
+
 (vi) changes in a certificate holder’s name, or in any other information respecting the holder, that is specified by the regulations;
+
 (f) for the purposes of section 14, requiring police officers and inspectors to keep records of impoundments for a specified period of time and to report specified information with respect to the impoundments to the Director, and governing such records and reports;
+
 (g) governing consent to towing services and vehicle storage services;
+
 (h) governing estimates and invoicing for towing services and vehicle storage services, including setting out and governing requirements respecting invoices and receipts;
+
 (i) Repealed: 2023, c. 9, Sched. 36, s. 28 (4).
+
 (j) governing the refund of amounts under subsection 32 (2);
+
 (k) governing the provision of information to persons who request or receive towing services or vehicle storage services;
+
 (l) for the purposes of section 37,
+
 (i) establishing and governing a process for making, reviewing and dealing with complaints,
+
 (ii) providing for the referral of complaints to a specified complaint resolution process and governing that process,
+
 (iii) respecting the sanctions that may be imposed, and actions that may be taken, by the Director under clause 37 (1) (d),
+
 (iv) providing for an appeal of a sanction imposed or action taken by the Director to a person or entity specified by the regulations and governing such appeals, including specifying the parties to an appeal and the powers of the prescribed person or entity in the appeal, and whether the appeal operates as a stay of the sanction or action;
+
 (m) establishing a standard form of agreement for towing services or vehicle storage services and requiring and governing its use;
+
 (n) Repealed: 2024, c. 25, Sched. 5, s. 5 (1).
+
 (o) governing the designation of dispatch services for the purposes of section 44 and governing their use, including requiring registration with a dispatch service or requiring that specified documents or information be provided to a specified person or entity for the purposes of a dispatch service;
+
 (p) governing administrative penalties for the purposes of section 45;
+
 (q) prescribing additional powers and duties of the Director;
+
 (r) governing the making of information public by the Director under section 51;
+
 (s) prescribing fees for anything that may or must be done under this Act and requiring and governing their payment;
+
 (t) governing the use of electronic documents for the purposes of this Act, including,
+
 (i) the use, issuance, creation, recording, storage, transmission, copying, display, appearance, form or content of electronic documents,
+
 (ii) governing the sending and receipt of documents and information by email, including requiring that a certificate holder or any other person specified by the regulations maintain an email address and specifying requirements respecting the maintaining of such an email address;
+
 (t.1) providing that any Part or provision of this Act, or any regulation or provision of a regulation, applies to a specified class of vehicles in addition to the motor vehicles that the Part, provision or regulation otherwise applies to, prescribing modifications to that Part, provision or regulation for any such application and prescribing conditions and circumstances for any such application;
+
 (u) subject to subsection (4.1) providing for exemptions from this Act or any of its provisions, or that a provision of this Act does not apply, and prescribing circumstances and conditions for any such exemption or non-application;
+
 (v) governing such transitional matters as the Lieutenant Governor in Council considers necessary or advisable to facilitate the implementation of this Act or to deal with any problems or issues arising as a result of the enactment or application of this Act.
 
 ### Same, administrative penalties
 
 (2) Clause (1) (p) may include regulations,
+
 (a) respecting the determination of penalties that may be imposed under section 45, including,
+
 (i) prescribing the amount of a penalty, or a method for calculating the amount, and prescribing different penalties or ranges of penalties for different types of contraventions or failures to comply and different penalties or ranges of penalties depending on specified criteria,
+
 (ii) authorizing a prescribed person to determine the amount of a penalty, if the amount of the penalty or method for calculating the amount of the penalty is not prescribed, and prescribing criteria that may or must be considered when making an order under subsection 45 (2),
+
 (iii) authorizing that a penalty may be imposed for each day or part of a day on which a contravention or failure to comply continues,
+
 (iv) prescribing a lesser maximum penalty and the provisions of this Act or of the regulations to which the lesser maximum penalty applies, for the purpose of subsection 45 (10),
+
 (v) authorizing higher penalties, not exceeding the maximum penalty established under subsection 45 (10) or prescribed under subclause (iv), for a second or subsequent contravention or failure to comply;
+
 (b) governing the payment of penalties, including requiring that a penalty be paid before a specified deadline, and authorizing the Director to approve a plan of periodic payments that extends beyond the deadline;
+
 (c) authorizing the imposition of late payment fees respecting penalties that are not paid before the specified deadline, including graduated late payment fees, and providing that such fees are included as part of the penalty for enforcement purposes;
+
 (d) prescribing and governing procedures for making and serving an order under section 45, including prescribing rules for service and prescribing the day on which an order is deemed to have been received;
+
 (e) governing the appeal of an order under subsection 45 (7);
+
 (f) providing for anything necessary or advisable for carrying out the intent and purposes of section 45.
 
 ### Same, regulations governing appeals
 
 (3) For greater certainty, regulations made under subsection (1) governing appeals may include regulations,
+
 (a) establishing procedures for commencing and conducting an appeal;
+
 (b) establishing time limits for the stages of an appeal and authorizing the person or entity hearing the appeal to extend any time limit;
+
 (c) prescribing that an appeal must or may be conducted orally, electronically or in writing or authorizing the person or entity hearing the appeal to make that determination;
+
 (d) establishing criteria to be considered and criteria not to be considered by the person or entity hearing the appeal when making a determination on the appeal.
 
 ### Same, classes
@@ -1050,6 +1261,9 @@ S.O. 2021, c. 26, Sched. 3
 ### Same, transitional regulations
 
 (5) In the event of a conflict between a regulation made under clause (1) (v) and this Act, the regulation prevails.
+
 65-68 Omitted (amends, repeals or revokes other legislation).
+
 69 Omitted (provides for coming into force of provisions of this Act).
+
 70 Omitted (enacts short title of this Act).

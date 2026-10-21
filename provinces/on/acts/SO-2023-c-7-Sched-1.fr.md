@@ -6,23 +6,28 @@ language: fr
 type: act
 document_date: "2023-07-31"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23q07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # secrétariat de la restauration de Queen's Park (Loi de 2023 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23q07) before relying on it.
 
 L.O. 2023, chap. 7, annexe 1
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Commission de régie interne» La Commission de régie interne prorogée aux termes de l’article 87 de la Loi sur l’Assemblée législative. («Board of Internal Economy»)
+
 «ministre» Le ministre responsable du Secrétariat de la restauration de Queen’s Park. («Minister»)
+
 «Projet de restauration de Queen’s Park» Le projet visant la restauration, la remise en état, la réhabilitation et la préservation de l’Édifice de l’Assemblée législative, y compris les systèmes et l’infrastructure qui y sont associés, les terrains de l’édifice et le bureau du lieutenant-gouverneur, ainsi que tout ce qui est nécessaire à la réinstallation temporaire et au fonctionnement continu de l’Assemblée législative. («Queen’s Park Restoration Project»)
+
 «Secrétariat» Le ministère appelé Secrétariat de la restauration de Queen’s Park créé en application du paragraphe 2 (1). («Secretariat»)
+
 «sous-ministre» Le sous-ministre nommé en application du paragraphe 2 (4). («Deputy Minister»)
 
 ### Secrétariat
@@ -36,9 +41,13 @@ L.O. 2023, chap. 7, annexe 1
 ### Responsabilités du ministre
 
 (3) Les responsabilités du ministre sont les suivantes :
+
 a) être chargé du Projet de restauration de Queen’s Park;
+
 b) repérer, obtenir et aménager un emplacement qui permette d’assurer le fonctionnement continu de l’Assemblée législative de l’Ontario pendant la durée du Projet de restauration de Queen’s Park;
+
 c) obtenir un financement stable et sûr pour mener à bien le Projet de restauration de Queen’s Park;
+
 d) exercer les autres fonctions que lui attribue le lieutenant-gouverneur en conseil.
 
 ### Sous-ministre
@@ -60,15 +69,21 @@ d) exercer les autres fonctions que lui attribue le lieutenant-gouverneur en con
 ### Groupe de travail exécutif du projet
 
 5 Le ministre constitue, pour le conseiller sur le Projet de restauration de Queen’s Park, un groupe de travail exécutif du projet qui se compose, au minimum, des représentants choisis par :
+
 a) le ministre;
+
 b) le sous-ministre;
+
 c) la Commission de régie interne.
 
 ### Comités consultatifs
 
 6 (1) Le lieutenant-gouverneur en conseil ou le ministre peut :
+
 a) constituer des comités consultatifs pour conseiller le ministre sur le Projet de restauration de Queen’s Park;
+
 b) nommer les membres des comités et désigner un membre à la présidence et un ou plusieurs membres à la vice-présidence;
+
 c) fixer le cadre de référence des comités.
 
 ### Rémunération et indemnités
@@ -144,5 +159,7 @@ c) fixer le cadre de référence des comités.
 ### Règlements
 
 13 Le lieutenant-gouverneur en conseil peut, par règlement, prescrire des exigences supplémentaires en matière de rapports et de consultation pour l’application de l’article 8.
+
 14 Omis (entrée en vigueur de dispositions de la présente loi).
+
 15 Omis (édiction du titre abrégé de la présente loi).

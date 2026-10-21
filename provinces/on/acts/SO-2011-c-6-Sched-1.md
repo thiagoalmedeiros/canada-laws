@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11h06"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Housing Services Act, 2011
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11h06) before relying on it.
 
 S.O. 2011, c. 6, Sched. 1
 
@@ -21,29 +21,49 @@ S.O. 2011, c. 6, Sched. 1
 ### Purpose of the Act
 
 1 The purpose of this Act is,
+
 (a) to provide for community based planning and delivery of housing and homelessness services with general provincial oversight and policy direction; and
+
 (b) to provide flexibility for service managers and housing providers while retaining requirements with respect to housing programs that predate this Act and housing projects that are subject to those programs.
 
 ### Definitions
 
 2 In this Act,
+
 “designated housing project” means, in relation to a service manager, a housing project designated in the regulations for the purposes of subsection 68 (1) as a project in relation to which the service manager shall administer a transferred housing program subject to subsection 68 (6); (“ensemble domiciliaire désigné”)
+
 “district social services administration board” means a board established under the District Social Services Administration Boards Act; (“conseil d’administration de district des services sociaux”)
+
 “dssab service manager” means a service manager that is a district social services administration board; (“conseil gestionnaire de services”)
+
 “former Act” means the Social Housing Reform Act, 2000 repealed by section 184; (“ancienne loi”)
+
 “household” includes an individual living alone; (“ménage”)
+
 “housing project” means all or part of the residential accommodation, including facilities used for ancillary purposes, located in one or more buildings used in whole or in part for residential accommodation; (“ensemble domiciliaire”)
+
 “housing provider” means a person who operates a housing project; (“fournisseur de logements”)
+
 “local housing corporation” means a local housing corporation as defined in section 24; (“société locale de logement”)
+
 “Minister” means the Minister of Municipal Affairs and Housing or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “municipal service manager” means a service manager that is a municipality; (“municipalité gestionnaire de services”)
+
 “personal information” has the same meaning as in the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
 “pre-reform operating agreement” means an agreement, a memorandum of understanding, a letter of commitment or any combination of them, whether oral, written or in part oral and in part written, entered into before December 13, 2000 between a housing provider and one or more of the Crown in right of Ontario, the Crown in right of Canada, the Minister, the ministry of the Minister, a minister or ministry of the Crown in right of Canada, the Ontario Mortgage and Housing Corporation, Canada Mortgage and Housing Corporation, a local housing authority, an agent of the Crown in right of Ontario and an agent of the Crown in right of Canada under which funding is provided to the housing provider with respect to a housing project under a housing program, and “pre-reform operating agreement” includes any amendments made on or after December 13, 2000; (“accord d’exploitation antérieur à la réforme”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means regulations made under this Act; (“règlements”)
+
 “service area”, in relation to a service manager, means the geographic area specified as the service area of that service manager under subsection 11 (2); (“aire de service”)
+
 “service manager” means a service manager designated under subsection 11 (1); (“gestionnaire de services”)
+
 “transferred housing program”, in relation to a service manager, means a housing program for which responsibility was transferred to the service manager under section 10 of the former Act and that is prescribed for the purposes of this definition; (“programme de logement transféré”)
+
 “unit” means a unit intended for use as residential accommodation in a housing project. (“logement”)
 
 ### Interpretation – housing project subject to a program
@@ -57,17 +77,29 @@ S.O. 2011, c. 6, Sched. 1
 ### Provincial interest
 
 4 (1) For the purposes of sections 5 and 6, it is a matter of provincial interest that there be a system of housing and homelessness services that,
+
 (a) is focussed on achieving positive outcomes for individuals and families;
+
 (b) addresses the housing needs of individuals and families in order to help address other challenges they face;
+
 (c) has a role for non-profit corporations and non-profit housing co-operatives;
+
 (d) has a role for the private market in meeting housing needs;
+
 (e) provides for partnerships among governments and others in the community;
+
 (f) treats individuals and families with respect and dignity;
+
 (g) is co-ordinated with other community services;
+
 (h) is relevant to local circumstances;
+
 (i) allows for a range of housing options to meet a broad range of needs;
+
 (j) ensures appropriate accountability for public funding;
+
 (k) supports economic prosperity; and
+
 (l) is delivered in a manner that promotes environmental sustainability and energy conservation.
 
 ### Same
@@ -99,7 +131,9 @@ S.O. 2011, c. 6, Sched. 1
 ### Publication and notice
 
 (3) If a policy statement is issued, the Minister shall,
+
 (a) publish it in The Ontario Gazette; and
+
 (b) give such notice of it, as the Minister considers appropriate, to each service manager.
 
 ### Legislation Act, 2006
@@ -123,16 +157,23 @@ S.O. 2011, c. 6, Sched. 1
 ### What plan must include
 
 (2) The plan must include,
+
 (a) an assessment of current and future housing needs within the service manager’s service area;
+
 (b) objectives and targets relating to housing needs;
+
 (c) a description of the measures proposed to meet the objectives and targets;
+
 (d) a description of how progress towards meeting the objectives and targets will be measured; and
+
 (e) such other matters as may be prescribed.
 
 ### Requirements relating to provincial interest, policy statements
 
 (3) The plan must,
+
 (a) address the matters of provincial interest under section 4, including each aspect described in a clause of subsection 4 (1); and
+
 (b) be consistent with the policy statements issued under section 5.
 
 ### Prescribed requirements
@@ -192,8 +233,11 @@ S.O. 2011, c. 6, Sched. 1
 ### Forms of assistance
 
 (2) The assistance related to housing referred to in subsection (1) is,
+
 (a) rent-geared-to-income assistance under Part V;
+
 (b) any form of assistance that is described in the regulations; and
+
 (c) any specified program that has been approved by the Minister for the purposes of this section.
 
 ### Prescribed requirements for system
@@ -229,7 +273,9 @@ S.O. 2011, c. 6, Sched. 1
 ### Natural person powers
 
 (2) For greater certainty, a service manager may use its powers under the following provisions for the purposes of this Act:
+
 1. If the service manager is a municipal service manager, section 9 of the Municipal Act, 2001 or section 7 of the City of Toronto Act, 2006.
+
 2. If the service manager is a dssab service manager, section 15 of the Not-for-Profit Corporations Act, 2010.
 
 ### Powers not exclusive
@@ -247,10 +293,15 @@ S.O. 2011, c. 6, Sched. 1
 ### Provisions of Municipal Act, 2001
 
 (2) The following provisions of the Municipal Act, 2001 and the regulations that relate to those provisions apply, with necessary modifications, to a dssab service manager for the purposes of this Act:
+
 1. Section 6.
+
 2. Sections 106 and 107.
+
 3. Subsections 110 (1), (2), (3), (4), (10) and (11).
+
 4. Subsections 417 (1), (2) and (3).
+
 5. Subsections 418 (1), (2), (3) and (4).
 
 ### Powers of dssab service manager re debentures
@@ -308,7 +359,9 @@ S.O. 2011, c. 6, Sched. 1
 ### No limit to delegate boundaries, etc.
 
 (4) If a delegate is,
+
 (a) a municipality, section 19 of the Municipal Act, 2001 or section 15 of the City of Toronto Act, 2006 does not limit the municipality from exercising or performing a delegated power or duty outside its municipal boundaries; or
+
 (b) a district social services administration board, subsection 4 (1) of the District Social Services Administration Boards Act does not limit the board from exercising or performing a delegated power or duty outside its district.
 
 ### Service manager remains responsible
@@ -330,7 +383,9 @@ S.O. 2011, c. 6, Sched. 1
 ### Requirement if services delegated
 
 (3) If the provision of services is delegated under section 17,
+
 (a) the requirement under subsection (1) applies to the delegate only if the delegate provides any of the services in an area designated for the purposes of clause 5 (1) (b) of the French Language Services Act; and
+
 (b) the requirement under subsection (2) applies to the delegate.
 
 ### Service manager consent – Ministerial policies and directives
@@ -360,13 +415,17 @@ S.O. 2011, c. 6, Sched. 1
 ### Information relating to enumeration
 
 (4) A service manager shall give the Minister in the form and manner specified by the Minister and at the times specified by the regulations and at such other times as the Minister may specify,
+
 (a) the information collected in the course of the enumeration; and
+
 (b) any other prescribed information relating to the enumeration.
 
 ### Reporting to public
 
 (5) A service manager shall make available to the public in the form and manner specified by the Minister and at the times specified by the regulations and at such other times as the Minister may specify,
+
 (a) a summary of the information collected in the course of the enumeration; and
+
 (b) any other prescribed information relating to the enumeration.
 
 ### Summary, prescribed requirements
@@ -376,8 +435,11 @@ S.O. 2011, c. 6, Sched. 1
 ### Periodic reports to Minister
 
 20 (1) At the prescribed times, a service manager shall give the Minister reports on the following:
+
 (a) the implementation of its housing and homelessness plan;
+
 (b) the administration and funding of its transferred housing programs; and
+
 (c) such other matters as may be prescribed.
 
 ### Form, manner and contents
@@ -391,7 +453,9 @@ S.O. 2011, c. 6, Sched. 1
 ### Other reports, etc., to Minister
 
 21 (1) A service manager shall give the Minister,
+
 (a) such reports as the regulations require; and
+
 (b) such reports, documents and information as the Minister requests.
 
 ### Timing
@@ -413,27 +477,41 @@ S.O. 2011, c. 6, Sched. 1
 ### Remedy if service manager contravention
 
 23 (1) If, in the opinion of the Minister, a service manager has contravened a provision of this Act or the regulations, the Minister may exercise the following remedies:
+
 1. The Minister may discontinue or suspend the payment of federal housing funding to the service manager under section 102.
+
 2. The Minister may reduce the amount of any payment of federal housing funding to the service manager under section 102.
+
 3. The Minister may apply to a judge of the Superior Court of Justice for an order,
+
 i. directing the service manager to carry out a specified activity or course of action to rectify the contravention or to ensure future compliance, or
+
 ii. prohibiting the service manager from carrying out a specified activity or course of action that would result in, or would be likely to result in, the continuation or repetition of the contravention.
+
 4. The Minister may take away any of the service manager’s powers or duties under this Act, other than a power or duty under Part VIII, and may,
+
 i. exercise the powers or perform the duties that were taken away, or
+
 ii. enter into an agreement with another service manager providing for that other service manager to exercise the powers or perform the duties that were taken away.
 
 ### Notice and opportunity to avoid remedy
 
 (2) The Minister may exercise a remedy under subsection (1) only if,
+
 (a) the Minister has given the service manager a written notice that complies with subsection (3); and
+
 (b) the service manager has not complied with the notice by the deadline specified in the notice.
 
 ### Content of notice
 
 (3) The notice referred to in clause (2) (a) must,
+
 (a) specify the particulars of the service manager’s contravention;
+
 (b) specify what the service manager must do or refrain from doing to avoid the exercise of a remedy under subsection (1);
+
 (c) specify the matters that must be addressed in any plan the service manager is required to submit; and
+
 (d) specify the deadline for compliance with the notice, which may not be earlier than 60 days after the date the notice is given.
 
 ### If required plan is not acceptable
@@ -447,10 +525,15 @@ ii. enter into an agreement with another service manager providing for that othe
 ### Remedy to take away powers or duties
 
 (6) The following apply with respect to the remedy under paragraph 4 of subsection (1):
+
 1. If the Minister intends to exercise the remedy, the Minister may request the service manager to give the Minister or the other service manager with whom the Minister has entered into an agreement under subparagraph 4 ii of subsection (1), any records or information relevant to the exercise of the remedy and the service manager shall comply with such a request.
+
 2. Expenses incurred by the Minister in exercising the remedy, including amounts paid by the Minister to another service manager with whom the Minister has entered into an agreement under subparagraph 4 ii of subsection (1), may be included in the provincial housing costs under section 103.
+
 3. A service manager exercising or performing a power or duty under an agreement under subparagraph 4 ii of subsection (1) has the powers necessary to do so and if the service manager is,
+
 i. a municipal service manager, section 19 of the Municipal Act, 2001 or section 15 of the City of Toronto Act, 2006 does not limit the service manager from exercising or performing the power or duty outside its municipal boundaries, or
+
 ii. a district social services administration board, subsection 4 (1) of the District Social Services Administration Boards Act does not limit the board from exercising or performing the power or duty outside its district.
 
 ### Other remedies not limited
@@ -464,9 +547,13 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Definitions
 
 24 In this Part,
+
 “local housing corporation” means a corporation that was incorporated in accordance with section 23 of the former Act, including a corporation that results from an amalgamation with such a corporation, subject to section 30; (“société locale de logement”)
+
 “related service manager” means, in relation to a local housing corporation,
+
 (a) the service manager to whom common shares were deemed to have been issued under subsection 23 (7) of the former Act, or
+
 (b) such other service manager as is prescribed for the purposes of this clause. (“gestionnaire de services lié”)
 
 ### General
@@ -478,13 +565,17 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Status – municipal aspects
 
 26 A local housing corporation is deemed,
+
 (a) not to be a commercial enterprise for the purposes of subsection 106 (1) of the Municipal Act, 2001 and subsection 82 (1) of the City of Toronto Act, 2006; and
+
 (b) not to be a local board of a service manager or of any municipality.
 
 ### Rules governing operation
 
 27 (1) A local housing corporation shall be operated in accordance with,
+
 (a) the prescribed rules; and
+
 (b) the rules made by the related service manager.
 
 ### Content
@@ -502,7 +593,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Application of rules to entity that is not a local housing corporation
 
 (5) The rules may provide that they apply to an entity described in paragraph 1 or 2 of subsection 30 (1) that owns a housing project that was previously transferred to a local housing corporation by a transfer order under Part IV of the former Act, but the rules may apply to the entity,
+
 (a) only in respect of the housing project; and
+
 (b) only with respect to the period of time in which the entity owns the housing project.
 
 ### Subsidy from related service manager
@@ -516,13 +609,17 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Authority to acquire shares
 
 29 Without limiting who else may acquire shares in a local housing corporation, the following are authorized to acquire such shares:
+
 1. The related service manager.
+
 2. A municipality in the service manager’s service area, other than a municipality that forms part of the service manager for municipal purposes.
 
 ### Requirement to be a local housing corporation
 
 30 (1) A corporation is a local housing corporation only if all the shares are held by the following:
+
 1. An entity authorized to acquire shares under section 29.
+
 2. A corporation one of whose objects is the provision of housing and that is controlled by an entity authorized to acquire shares under section 29.
 
 ### Same
@@ -538,13 +635,17 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Share issue – restriction
 
 32 A local housing corporation shall not issue shares unless,
+
 (a) the related service manager consents in writing; or
+
 (b) the requirements prescribed for the purposes of this clause are satisfied.
 
 ### Share transfer, etc. – restriction
 
 33 (1) A shareholder of a local housing corporation shall not transfer or encumber shares unless,
+
 (a) the related service manager consents in writing; or
+
 (b) the requirements prescribed for the purposes of this clause are satisfied.
 
 ### Duty on local housing corporation
@@ -554,18 +655,23 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Definition
 
 (3) For the purposes of this section,
+
 “transfer or encumber” includes the transfer or encumbrance of the beneficial ownership in shares.
 
 ### Amalgamation – restriction
 
 34 A local housing corporation shall not amalgamate with another corporation unless,
+
 (a) the related service manager consents in writing; or
+
 (b) the requirements prescribed for the purposes of this clause are satisfied.
 
 ### Voluntary wind-up or dissolution – restriction
 
 35 A local housing corporation shall not be voluntarily wound up or dissolved unless,
+
 (a) the related service manager consents in writing; or
+
 (b) the requirements prescribed for the purposes of this clause are satisfied.
 
 ### Notice of consent
@@ -599,10 +705,15 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Definitions
 
 38 In this Part,
+
 “rent-geared-to-income assistance” means financial assistance provided in respect of a household to reduce the amount the household must otherwise pay to occupy a unit; (“aide sous forme de loyer indexé sur le revenu”)
+
 “special needs housing” means housing intended for use by a household with one or more members who require accessibility modifications or provincially funded support services in order to live independently in the community; (“logement adapté”)
+
 “special needs housing administrator” means, in relation to a housing project with special needs housing,
+
 (a) the service manager for the service area where the housing project is located, or
+
 (b) if the regulations so provide, the housing provider operating the housing project. (“administrateur de logements adaptés”)
 
 ### Application of Part
@@ -620,7 +731,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Service levels, rent-geared-to-income assistance
 
 40 (1) A service manager shall ensure that rent-geared-to-income assistance under this Part is provided in its service area for at least,
+
 (a) the prescribed number of households whose income is no greater than the household income limit; and
+
 (b) the prescribed number of high need households.
 
 ### Households not included
@@ -634,7 +747,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Same
 
 (3.1) A household may be included to meet the requirements of clause (1) (a) or (b) even if no rent-geared-to-income assistance is provided to the household under this Part, if the following requirements are met:
+
 1. An alternate form of financial assistance related to housing is provided to the household.
+
 2. The alternate form of financial assistance referred to in paragraph 1 is specified by the regulations or has been approved by the Minister for the purposes of this paragraph.
 
 ### Legislation Act, 2006
@@ -644,18 +759,23 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Definitions
 
 (4) In this section,
+
 “high need household” means a household that meets such criteria as may be prescribed for the purposes of this definition; (“ménage ayant des besoins importants”)
+
 “household income limit” means the household income limit prescribed for the purposes of this definition. (“seuil de revenu des ménages”)
 
 ### Service levels, modified units
 
 41 (1) The following apply with respect to housing projects that are subject to the transferred housing programs prescribed for the purposes of this section:
+
 1. The service manager shall ensure that the housing projects have, in total, at least the prescribed number of modified units.
+
 2. The service manager shall ensure that the modified units required under paragraph 1 meet the prescribed requirements.
 
 ### Definition of “modified unit”
 
 (2) In this section,
+
 “modified unit” means a unit that has been modified so as to be accessible to an individual with a physical disability or so as to allow an individual with a physical disability to live independently.
 
 ### Rent-Geared-to-Income Assistance
@@ -663,7 +783,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Eligibility rules
 
 42 (1) Eligibility for rent-geared-to-income assistance shall be determined in accordance with the following:
+
 1. The prescribed provincial eligibility rules.
+
 2. The local eligibility rules made by the service manager.
 
 ### Local rules required
@@ -697,7 +819,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Contents of application
 
 (2) An application must include,
+
 (a) the prescribed information and documents; and
+
 (b) the information and documents required by the service manager.
 
 ### Limitations on required information and documents
@@ -715,7 +839,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Rules guiding determination
 
 (2) The service manager’s determination shall be made in accordance with the following:
+
 1. The eligibility rules referred to in section 42.
+
 2. The requirements prescribed for the purposes of this paragraph.
 
 ### Determination of size and type of unit
@@ -733,8 +859,11 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Specific inclusions
 
 (2) The system must include,
+
 (a) rules for determining whether a unit that becomes vacant should be occupied by a household that will be receiving rent-geared-to-income assistance;
+
 (b) priority rules for households waiting for rent-geared-to-income assistance; and
+
 (c) rules governing the selection by a housing provider of households to occupy units or receive rent-geared-to-income assistance.
 
 ### Prescribed requirements
@@ -744,7 +873,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Rules for certain waiting households
 
 (4) The regulations may provide that the system may include rules that,
+
 (a) deal with households waiting for rent-geared-to-income assistance that have accepted an offer of an alternate form of financial assistance related to housing that is specified by the regulations or has been approved by the Minister for the purposes of this clause; and
+
 (b) apply despite the prescribed requirements.
 
 ### Legislation Act, 2006
@@ -758,7 +889,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Rules guiding determination
 
 (2) The service manager’s determination shall be made in accordance with the following:
+
 1. The prescribed provincial priority rules.
+
 2. The service manager’s priority rules included in the service manager’s system under clause 47 (2) (b).
 
 ### Conflicts
@@ -812,38 +945,59 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Rules guiding determination
 
 (3) The service manager’s determination shall be made in accordance with the following:
+
 1. The eligibility rules referred to in section 42.
+
 2. The requirements prescribed for the purposes of this paragraph.
 
 ### Notice of certain decisions
 
 53 (1) A service manager shall give a household written notice, in accordance with any prescribed requirements, of the following decisions:
+
 1. A determination, under subsection 45 (1), whether the household is eligible for rent-geared-to-income assistance.
+
 2. A determination, under subsection 46 (1), of the size and type of unit that would be permissible if the household received rent-geared-to-income assistance.
+
 3. A determination, under subsection 48 (1), whether the household is included in a category given priority over other categories.
+
 4. A determination, under subsection 50 (1), of the amount of rent payable by the household.
+
 5. A determination, under subsection 52 (1), that the household is no longer eligible for rent-geared-to-income assistance.
+
 6. A determination, under subsection 51 (1), as to whether or not rent will be deferred or forgiven.
+
 7. A decision prescribed for the purposes of this paragraph.
 
 ### Notice to housing provider
 
 (2) The service manager shall also give the affected housing provider notice of the following decisions:
+
 1. A determination described in paragraph 4 of subsection (1) of the amount of rent payable by the household.
+
 2. A determination described in paragraph 5 subsection (1) that the household is no longer eligible for rent-geared-to-income assistance.
+
 3. A determination described in paragraph 6 of subsection (1) that rent is being deferred or forgiven.
+
 4. A decision prescribed for the purposes of this paragraph.
 
 ### Information, etc., made available to the public
 
 54 (1) A service manager shall make the following available to the public in accordance with any prescribed requirements:
+
 1. The service manager’s procedures for applications for rent-geared-to-income assistance, including what information and documents the service manager requires under clause 44 (2) (b) and the form authorized for the purposes of subsection 44 (4).
+
 2. The service manager’s local eligibility rules made under section 42.
+
 3. The service manager’s occupancy standards established under section 43.
+
 4. The rules included, under subsection 47 (2), in the service manager’s system for selecting households required under section 47.
+
 5. Information on the housing projects in the service manager’s service area where rent-geared-to-income assistance is provided.
+
 6. Information about the provincial eligibility rules prescribed for the purposes of paragraph 1 of subsection 42 (1).
+
 7. Information about the provincial priority rules prescribed for the purposes of paragraph 1 of subsection 48 (2).
+
 8. Any information or documents prescribed for the purposes of this paragraph.
 
 ### Service manager request for information
@@ -869,7 +1023,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Assistance improperly received
 
 56 (1) This section applies if a household received rent-geared-to-income assistance to which it was not entitled because either,
+
 (a) the amount of the geared-to-income rent was less than what the household was entitled to; or
+
 (b) the household was not entitled to rent-geared-to-income assistance.
 
 ### Repayment by household
@@ -887,7 +1043,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Recovery by rent increase
 
 (5) Subject to any prescribed limitations or requirements, the service manager may recover an amount required under subsection (2) by increasing the amount of the geared-to-income rent payable by the household to the housing provider and either,
+
 (a) deducting the increase from the subsidy paid by the service manager to the housing provider under section 28 or 78; or
+
 (b) requiring the housing provider to pay the service manager the increase.
 
 ### Same
@@ -951,7 +1109,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Contents of application
 
 (2) An application must include,
+
 (a) the prescribed information and documents; and
+
 (b) the information and documents required by the special needs housing administrator.
 
 ### Limitations on required information and documents
@@ -969,7 +1129,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Rules guiding determination
 
 (2) The special needs housing administrator’s determination shall be made in accordance with the following:
+
 1. The eligibility rules referred to in section 59.
+
 2. The requirements prescribed for the purposes of this paragraph.
 
 ### System for selecting waiting households
@@ -1003,31 +1165,45 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Rules guiding determination
 
 (3) The special needs housing administrator’s determination shall be made in accordance with the following:
+
 1. The eligibility rules referred to in section 59.
+
 2. The requirements prescribed for the purposes of this paragraph.
 
 ### Notice of certain decisions
 
 66 (1) A special needs housing administrator shall give a household written notice, in accordance with any prescribed requirements, of the following decisions:
+
 1. A determination, under subsection 61 (1), whether the household is eligible for special needs housing.
+
 2. A determination, under subsection 63 (1), whether the household is included in a category given priority over other categories.
+
 3. A determination, under subsection 65 (1), that the household is no longer eligible for special needs housing.
+
 4. A decision prescribed for the purposes of this paragraph.
 
 ### Notice to housing provider
 
 (2) A special needs housing administrator that is a service manager shall also give the affected housing provider notice of the following decisions:
+
 1. A determination described in paragraph 3 of subsection (1) that the household is no longer eligible for special needs housing.
+
 2. A decision prescribed for the purposes of this paragraph.
 
 ### Information, etc., made available to the public
 
 67 (1) A special needs housing administrator shall make the following available to the public in accordance with any prescribed requirements:
+
 1. The special needs housing administrator’s procedures for applications for special needs housing, including what information and documents the administrator requires under subsection 60 (2) and the form authorized for the purposes of subsection 60 (4).
+
 2. The rules included in the special needs housing administrator’s system for selecting households required under section 62.
+
 3. Information on the special needs housing administrator’s housing projects where there is special needs housing.
+
 4. Information about the provincial eligibility rules prescribed for the purposes of section 59.
+
 5. Information about the provincial priority rules prescribed for the purposes of subsection 63 (2).
+
 6. Any information or documents prescribed for the purposes of this paragraph.
 
 ### Administrator request for information
@@ -1051,7 +1227,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### How duty carried out
 
 (2) A service manager shall carry out the duty under subsection (1) in accordance with,
+
 (a) this Act and the regulations, including such criteria and rules as may be prescribed for the program for the purposes of this clause; and
+
 (b) any applicable pre-reform operating agreement.
 
 ### Conflicts
@@ -1073,15 +1251,21 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Ceasing to be designated housing project — exit agreement
 
 68.1 (1) A housing project ceases to be a designated housing project on a date determined in accordance with the regulations if,
+
 (a) the housing project satisfies the prescribed criteria, if any;
+
 (b) the housing provider and the service manager have entered into an exit agreement that complies with the prescribed requirements; and
+
 (c) the housing provider and the service manager have given the Minister notice in accordance with subsection (2) of their intention that the housing project cease to be a designated housing project.
 
 ### Notice to Minister
 
 (2) The notice referred to in clause (1) (c) must,
+
 (a) be given jointly by the housing provider and the service manager in writing;
+
 (b) be accompanied by the prescribed documents and information; and
+
 (c) comply with the prescribed requirements.
 
 ### List
@@ -1099,6 +1283,7 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Definition of “exit agreement”
 
 (6) In this section,
+
 “exit agreement” means an agreement between a housing provider and a service manager in which they provide for a housing project to cease to be a designated housing project.
 
 ### General duty of housing provider
@@ -1152,16 +1337,23 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Notice of certain projects in difficulty
 
 72 (1) A service manager shall promptly give written notice to the Minister if,
+
 (a) one of its designated housing projects is in difficulty; and
+
 (b) the project is subject to a mortgage guaranteed by the Province of Ontario.
 
 ### When a project is in difficulty
 
 (2) For the purposes of clause (1) (a), a designated housing project is in difficulty if,
+
 (a) the mortgage described in clause (1) (b) is in default;
+
 (b) the service manager is of the opinion that, because of the financial position or the projected financial position of the housing provider, either of the following is likely to happen within 12 months after the end of the current fiscal year of the housing provider,
+
 (i) the mortgage described in clause (1) (b) will go into default, or
+
 (ii) the housing provider will fail to meet a substantial financial obligation; or
+
 (c) the service manager is of the opinion that the housing provider has failed to comply with a substantial obligation under this Act.
 
 ### Notice to housing provider
@@ -1179,6 +1371,7 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Definition
 
 73 In this Part,
+
 “Part VII housing project” means a designated housing project that is prescribed for the purposes of this definition.
 
 ### Application of Part
@@ -1186,7 +1379,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Application of Part
 
 74 This Part applies with respect to,
+
 (a) a housing provider only if it operates a Part VII housing project; and
+
 (b) a service manager only if there is a Part VII housing project in its service area.
 
 ### Operation of Projects
@@ -1194,7 +1389,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Operating rules for projects
 
 75 (1) A housing provider shall operate a Part VII housing project and govern itself in accordance with,
+
 (a) the prescribed provincial requirements; and
+
 (b) the local standards made by the service manager.
 
 ### Limits of local standards
@@ -1216,12 +1413,15 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Targets for rent-geared-to-income and modified units
 
 77 (1) For each Part VII housing project, there shall be a target for,
+
 (a) the number of units occupied by households receiving rent-geared-to-income assistance as defined in section 38; and
+
 (b) the number of modified units.
 
 ### Definition of “modified unit”
 
 (2) In clause (1) (b),
+
 “modified unit” means a unit that has been modified so as to be accessible to an individual with a physical disability or so as to allow an individual with a physical disability to live independently.
 
 ### Prescribed requirements for target
@@ -1235,7 +1435,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Changes by service manager
 
 (5) The service manager may change a target without the agreement of the housing provider, subject to the following:
+
 1. The service manager shall consult with the housing provider before making the change.
+
 2. The change is subject to the prescribed restrictions.
 
 ### Transition – initial targets
@@ -1263,7 +1465,9 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Notice of determinations by Minister
 
 (5) If the Minister determines any amounts under the regulations, the Minister shall give the following notices in accordance with any prescribed requirements:
+
 1. A notice to each housing provider of the amounts relevant to the determination of the subsidy paid to the housing provider.
+
 2. A notice to each service manager of the amounts relevant to the determination of the subsidies paid by the service manager.
 
 ### Records and Reports
@@ -1349,17 +1553,29 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Triggering events
 
 83 The following are triggering events for the purposes of sections 84 to 98:
+
 1. The housing provider contravenes this Act or the regulations.
+
 2. The housing provider becomes bankrupt or insolvent, takes the benefit of any statute for bankrupt or insolvent debtors or makes any proposal, assignment or arrangement with its creditors.
+
 3. Steps are taken or proceedings are commenced by any person to dissolve or wind up the housing provider.
+
 4. The housing provider ceases or threatens to cease to carry on business in the normal course.
+
 5. A trustee, receiver, receiver and manager or similar person is appointed with respect to the business or assets of the housing provider.
+
 6. Revoked: 2017, c. 2, Sched. 3, s. 5 (1).
+
 7. Any assets of the housing provider are seized under execution or attachment.
+
 8. The housing provider is unable to fulfil its obligations.
+
 9. The housing provider incurs an expenditure that is, in the opinion of the service manager, substantial and excessive.
+
 10. The housing provider incurs an accumulated deficit that is, in the opinion of the service manager, substantial and excessive.
+
 11. In the opinion of the service manager, the housing provider has failed to operate a designated housing project properly.
+
 12. The housing provider contravenes a lease under which it has a leasehold interest in a designated housing project or in land where a designated housing project is located.
 
 ### Assistance before triggering event
@@ -1377,16 +1593,27 @@ ii. a district social services administration board, subsection 4 (1) of the Dis
 ### Remedies
 
 85 If a triggering event occurs, the service manager may exercise the following remedies:
+
 1. The service manager may discontinue or suspend the subsidy payments under section 78.
+
 2. The service manager may reduce the amount of the subsidy payments under section 78.
+
 3. The service manager may deduct amounts from the subsidy payments under section 78 to pay all or part of a debt of the housing provider.
+
 4. The service manager may,
+
 i. exercise any of the powers or perform any of the duties of the housing provider under this Act, or
+
 ii. act as the housing provider with respect to all or part of the assets, liabilities and undertakings of the housing provider, including its housing projects.
+
 5. The service manager may appoint an operational advisor for the housing provider.
+
 6. The service manager may appoint an interim receiver or interim receiver and manager for the housing provider.
+
 7. The service manager may seek the appointment by the Superior Court of Justice of a receiver or receiver and manager for the housing provider.
+
 8. The service manager may remove some or all of the directors or the deemed directors of the housing provider, regardless of whether they were elected or appointed or became directors by virtue of their office.
+
 9. The service manager may appoint one or more individuals as directors of the housing provider.
 
 ### Other remedies not limited
@@ -1400,16 +1627,23 @@ ii. act as the housing provider with respect to all or part of the assets, liabi
 ### Multiple remedies allowed
 
 87 In respect of the same occurrence of a triggering event, the service manager may,
+
 (a) exercise more than one remedy; or
+
 (b) exercise the same or different remedies at different times.
 
 ### Waiver of a remedy
 
 88 The following apply with respect to a waiver by a service manager of the right to exercise a remedy under section 85:
+
 1. To be effective, a waiver must be in writing and must be signed by the service manager.
+
 2. No delay by the service manager operates as a waiver.
+
 3. A waiver of the right to exercise a remedy in respect of an occurrence of a triggering event does not operate as a waiver,
+
 i. to exercise another remedy in respect of that same occurrence, or
+
 ii. to exercise the same remedy in respect of a different occurrence.
 
 ### Remedy must be reasonable
@@ -1419,60 +1653,91 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Notice, opportunity to rectify and make submission
 
 90 (1) A service manager may exercise a remedy under section 85 in respect of an occurrence of a triggering event only if,
+
 (a) the service manager has given the housing provider a written notice that complies with subsection (2);
+
 (b) the triggering event continues following the last day of the period referred to in clause (2) (c), and the service manager has subsequently given the housing provider a written notice that complies with subsection (4);
+
 (c) the service manager has given the housing provider an opportunity to make a submission to the service manager in accordance with clause (4) (c); and
+
 (d) the service manager has considered the submission if a submission is made, made a decision, and provided the housing provider with notice of the decision and the reasons for it.
 
 ### Content of notice of triggering event
 
 (2) The notice referred to in clause (1) (a) must,
+
 (a) specify the particulars of the occurrence of the triggering event or events;
+
 (b) specify what if anything the housing provider must do or refrain from doing to rectify the situation that gave rise to the occurrence of the triggering event or events in order to avoid an exercise of a remedy or remedies;
+
 (c) specify the period within which the housing provider must comply with the notice, which may not be less than 60 days from the date the notice is given; and
+
 (d) if the notice provides for the submission of a plan by the housing provider, specify the matters that must be addressed in the plan.
 
 ### Training requirement
 
 (3) Without restricting the generality of clause (2) (b), for the purposes of that clause, a service manager may require a housing provider to ensure that any or all of the following persons receive training:
+
 1. A director, employee or agent of the housing provider.
+
 2. A person who has contracted with the housing provider to manage a Part VII housing project on behalf of the housing provider.
 
 ### Content of notice regarding submission
 
 (4) The notice referred to in clause (1) (b) must,
+
 (a) specify the particulars of the occurrence of the triggering event or events;
+
 (b) specify the remedy or remedies that the service manager is considering exercising to address the triggering event or events and the reasons why the service manager is considering them;
+
 (c) inform the housing provider that it can make a written submission on the service manager’s proposed exercise of a remedy or remedies to the service manager by a date that is not less than 60 days after the date the notice is given;
+
 (d) inform the housing provider that if no submission is received within the period referred to in clause (c), the service manager will make a decision based on the information that is available to it; and
+
 (e) if the service manager is considering exercising the remedy under paragraph 4 of section 85, advise the housing provider of which powers the service manager would be exercising, which duties the service manager would be performing and the assets, liabilities or undertakings with respect to which it would be acting as the housing provider.
 
 ### Exceptions
 
 (5) Subsection (1) does not apply if,
+
 (a) the triggering event is a contravention of section 162;
+
 (b) the housing provider is unable to pay its debts as they become due;
+
 (c) the housing provider has operated a designated housing project in a way that has resulted in,
+
 (i) significant physical deterioration of the housing project affecting the structural integrity of the housing project, or
+
 (ii) danger to the health or safety of the residents of the housing project;
+
 (d) a report of an audit or investigation of the housing provider alleges fraud, criminal activity or a misuse of the assets of the housing provider and the alleged fraud, criminal activity or misuse of assets has been referred to a law enforcement agency;
+
 (e) a designated housing project of the housing provider is subject to a mortgage guaranteed by the Province of Ontario and the mortgage is in default;
+
 (f) the number of directors of the housing provider has been less than the quorum needed for a meeting of the board of directors for a period of 90 days and remains less than the quorum; or
+
 (g) a circumstance exists that is prescribed for the purpose of this clause.
 
 ### Opportunity to make submission regarding court appointed receiver
 
 (6) Where a service manager is entitled to seek the appointment of a receiver or a receiver and manager under paragraph 7 of section 85, or to make an application for an extension of the appointment of an interim receiver or an interim receiver and manager under subsection 95 (3), the service manager shall not make a decision to do so unless,
+
 (a) the service manager has first given the housing provider a written notice that complies with subsection (7);
+
 (b) the service manager has given the housing provider an opportunity to make a submission to the service manager in accordance with clause (7) (c); and
+
 (c) the service manager has considered the submission if a submission is made, made a decision, and provided the housing provider with notice of the decision and the reasons for it.
 
 ### Content of notice
 
 (7) The notice referred to in clause (6) (a) must,
+
 (a) specify the particulars of the occurrence or continuation of the triggering event or events and the circumstances in subsection (5) that are continuing;
+
 (b) specify that the service manager is considering making an application to seek the appointment of a receiver or a receiver and manager under paragraph 7 of section 85 or extend the appointment of an interim receiver or an interim receiver and manager under subsection 95 (3) and the reasons why the service manager is doing so;
+
 (c) inform the housing provider that it can make a written submission on the service manager’s proposed exercise of the remedy or application for extension by a date that is not less than 60 days after the date the notice is given; and
+
 (d) inform the housing provider that if no submission is received by the date specified by the service manager under clause (c), the service manager will make a decision based on the information that is available to it.
 
 ### Decision not to exercise a remedy
@@ -1494,17 +1759,25 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Time limit
 
 (2) The maximum period during which a service manager may exercise the remedy in respect of a triggering event or events is two years unless,
+
 (a) the period is extended by agreement with the housing provider; or
+
 (b) the service manager has extended the period, for no more than one year for each extension, after having first given the housing provider a further written notice that specifies the particulars of the continuation of the triggering event or events and having repeated the steps referred to in clauses 90 (1) (c) and (d).
 
 ### Requirement re property managers
 
 (3) A service manager shall not retain a property manager to act on its behalf in the exercise of the remedy in relation to a housing provider unless the service manager is of the opinion,
+
 (a) if the property manager is an individual, that the property manager is knowledgeable about this Act and the transferred housing program or programs under which the housing provider’s housing project or projects operate and,
+
 (i) if the housing provider is a non-profit housing corporation, the property manager is knowledgeable about the structure and operation of non-profit housing corporations, or
+
 (ii) if the housing provider is a non-profit housing co-operative, the property manager is knowledgeable about the structure and operation of non-profit housing co-operatives; or
+
 (b) if the property manager is not an individual, that the staff of the property manager are knowledgeable about this Act and the transferred housing program or programs under which the housing provider’s housing project or projects operate and,
+
 (i) if the housing provider is a non-profit housing corporation, the staff of the property manager are knowledgeable about the structure and operation of non-profit housing corporations, or
+
 (ii) if the housing provider is a non-profit housing co-operative, the staff of the property manager are knowledgeable about the structure and operation of non-profit housing co-operatives.
 
 ### Appointment by agreement
@@ -1538,8 +1811,11 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Use of powers
 
 (11) The service manager may only use its powers with the objective of returning control to the housing provider and only for the following purposes:
+
 1. To carry on the business of the housing provider.
+
 2. To improve the governance of the housing provider.
+
 3. To stabilize or improve the financial situation of the housing provider.
 
 ### Return of control
@@ -1557,14 +1833,19 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Release of service manager, etc.
 
 (15) The housing provider is deemed to release and discharge the service manager and the property manager and every person for whom the service manager or property manager is responsible from every claim of any nature arising by reason of any act or omission done or omitted during the exercise of this remedy, other than the following claims:
+
 1. A claim for an accounting of the money and other property received by the service manager or property manager or another person for whom the service manager or property manager is responsible.
+
 2. A claim arising from negligence or dishonesty by the service manager or property manager or by another person for whom the service manager or property manager is responsible.
 
 ### Expenses of service manager
 
 (16) If the service manager exercises the remedy,
+
 (a) the service manager may bill the housing provider for expenses incurred by the service manager in exercising the remedy;
+
 (b) the housing provider shall pay an amount billed under clause (a) at the time specified by the service manager; and
+
 (c) an amount billed under clause (a) is a debt owing from the housing provider to the service manager and may be recovered by reducing the amount of any subsidy required under section 78 or by any remedy or procedure available to the service manager by law.
 
 ### Remuneration
@@ -1582,11 +1863,17 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Requirement re operational advisors
 
 (2) A service manager shall not appoint an operational advisor for a housing provider unless the service manager is of the opinion,
+
 (a) if the operational advisor is an individual, that the operational advisor is knowledgeable about this Act and the transferred housing program or programs under which the housing provider’s housing project or projects operate and,
+
 (i) if the housing provider is a non-profit housing corporation, the operational advisor is knowledgeable about the structure and operation of non-profit housing corporations, or
+
 (ii) if the housing provider is a non-profit housing co-operative, the operational advisor is knowledgeable about the structure and operation of non-profit housing co-operatives; or
+
 (b) if the operational advisor is not an individual, that the staff of the operational advisor are knowledgeable about this Act and the transferred housing program or programs under which the housing provider’s housing project or projects operate and,
+
 (i) if the housing provider is a non-profit housing corporation, the staff of the operational advisor are knowledgeable about the structure and operation of non-profit housing corporations, or
+
 (ii) if the housing provider is a non-profit housing co-operative, the staff of the operational advisor are knowledgeable about the structure and operation of non-profit housing co-operatives.
 
 ### Appointment by agreement
@@ -1692,15 +1979,21 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Release of receiver, etc.
 
 (16) The housing provider is deemed to release and discharge the service manager and the interim receiver or interim receiver and manager and every person for whom the service manager and the interim receiver or interim receiver and manager is responsible from every claim of any nature arising by reason of any act or omission done or omitted during the appointment of the interim receiver or interim receiver and manager, other than the following claims:
+
 1. A claim for an accounting of the money and other property received by the interim receiver or interim receiver and manager or another person for whom the interim receiver or interim receiver and manager is responsible.
+
 2. A claim arising from negligence or dishonesty by the interim receiver or interim receiver and manager or by another person for whom the interim receiver or interim receiver and manager is responsible.
 
 ### Reports to housing provider
 
 (17) Every three months, the interim receiver or interim receiver and manager shall give the housing provider and service manager a written report that includes,
+
 (a) a summary of what the interim receiver or interim receiver and manager has done during the period covered by the report;
+
 (b) a summary of what the interim receiver or interim receiver and manager proposes to do in the future;
+
 (c) a summary of the operations of the housing provider during the period covered by the report; and
+
 (d) a general description of the financial situation of the housing provider.
 
 ### Not bound by proposed actions
@@ -1742,7 +2035,9 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Restriction on transfer to service manager, etc.
 
 (3) A receiver or receiver and manager shall not transfer a designated housing project unless,
+
 (a) the receiver or receiver and manager used an open and competitive process to select a transferee that would continue to operate the project under the transferred housing program administered by the service manager; or
+
 (b) the receiver or receiver and manager was of the opinion that it would not be reasonable to use such a process.
 
 ### Appointment of directors
@@ -1764,7 +2059,9 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Requirements, qualifications and disqualifications
 
 (5) The following do not apply with respect to an appointed director:
+
 1. A requirement that a director be a shareholder or member of the housing provider or a shareholder, member, director or employee of a member of the housing provider, even if the requirement is in legislation.
+
 2. A qualification or disqualification under the housing provider’s articles, letters patent, by-laws or similar governing documents.
 
 ### Consultation before appointment
@@ -1796,8 +2093,11 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Specified Acts
 
 (2) The Acts referred to in subsection (1) are the following:
+
 1. The Not-for-Profit Corporations Act, 2010.
+
 2. The Business Corporations Act.
+
 3. The Co-operative Corporations Act.
 
 ## part VII.1 Part VII.1 Housing Projects
@@ -1805,17 +2105,25 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Definitions
 
 101.1 In this Part,
+
 “exit agreement” means an agreement between a housing provider and a service manager in which they provide for a housing project to cease to be a Part VII.1 housing project; (“accord de cessation”)
+
 “Part VII.1 housing project” means a housing project that has become a Part VII.1 housing project in accordance with section 101.2, other than a housing project that has ceased to be a Part VII.1 housing project in accordance with section 101.7; (“ensemble domiciliaire visé par la partie VII.1”)
+
 “service agreement” means an agreement between a housing provider and a service manager relating to the administration of a Part VII.1 housing project. (“accord de services”)
 
 ### Part VII.1 housing project
 
 101.2 (1) A housing project becomes a Part VII.1 housing project on a date determined in accordance with the regulations if,
+
 (a) the housing provider and the service manager in whose service area the housing project is located have entered into a service agreement that complies with the prescribed requirements;
+
 (b) the housing provider and the service manager have given the Minister notice in accordance with subsection (3) of their intention that the housing project be a Part VII.1 housing project; and
+
 (c) at the time notice is given under clause (b), the housing project is,
+
 (i) a designated housing project that satisfies the prescribed criteria, if any, or
+
 (ii) such other type of housing project as may be prescribed.
 
 ### Service agreement, prescribed requirements
@@ -1825,8 +2133,11 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Notice to Minister
 
 (3) The notice referred to in clause (1) (b) must,
+
 (a) be given jointly by the housing provider and the service manager in writing;
+
 (b) be accompanied by the prescribed documents and information; and
+
 (c) comply with the prescribed requirements.
 
 ### Part VII.1 housing project ceases to be designated housing project
@@ -1878,7 +2189,9 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Termination
 
 (4) The housing provider and the service manager shall not terminate a service agreement except,
+
 (a) as part of replacing the agreement in accordance with subsection (3); or
+
 (b) as permitted by the regulations.
 
 ### Invalidity if subs. (3) or (4) contravened
@@ -1892,7 +2205,9 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Ministerial directives
 
 101.6 (1) The Minister may issue directives with respect to,
+
 (a) the administration of Part VII.1 housing projects by service managers; and
+
 (b) the operation of Part VII.1 housing projects by housing providers and the governance of housing providers that operate Part VII.1 housing projects.
 
 ### Categories
@@ -1918,14 +2233,19 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Ceasing to be Part VII.1 housing project
 
 101.7 (1) A housing project ceases to be a Part VII.1 housing project on a date determined in accordance with the regulations if,
+
 (a) the housing provider and the service manager have entered into an exit agreement that complies with the prescribed requirements; and
+
 (b) the housing provider and the service manager have given notice to the Minister in accordance with subsection (2) of their intention that the housing project cease to be a Part VII.1 housing project.
 
 ### Notice to Minister
 
 (2) The notice referred to in clause (1) (b) must,
+
 (a) be given jointly by the housing provider and the service manager in writing;
+
 (b) be accompanied by the prescribed documents and information; and
+
 (c) comply with the prescribed requirements.
 
 ## Part VIII Payment of Certain Housing Costs
@@ -1939,12 +2259,15 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Federal housing funding
 
 (2) In this section,
+
 “federal housing funding” means money received from the Crown in right of Canada or the Canada Mortgage and Housing Corporation for the purpose of funding transferred housing programs.
 
 ### Amounts allocated to service managers
 
 (3) For each year, the Minister shall,
+
 (a) determine what the total amount of federal housing funding is for the year; and
+
 (b) allocate the total amount determined under clause (a) among the service managers.
 
 ### Notice of allocated amounts
@@ -1958,8 +2281,11 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Deductions
 
 (6) The Minister may deduct amounts from any instalment that would otherwise be payable to a service manager under subsection (5) in accordance with the following:
+
 1. The Minister may deduct amounts the Ontario Mortgage and Housing Corporation would have owed, had the Corporation not been dissolved, to the Crown in right of Ontario in respect of a housing project developed under the National Housing Act (Canada) that is located within the service manager’s service area.
+
 2. The Minister may deduct amounts to make payments due in respect of amounts owed to the Canada Mortgage and Housing Corporation under a debenture issued to secure the capital funding advanced by the Corporation for a housing project developed under the National Housing Act (Canada) that is located within the service manager’s service area.
+
 3. The Minister may deduct amounts to pay an amount owed by the service manager under subsection 106 (3) or 107 (4).
 
 ### Notice of deductions
@@ -1977,8 +2303,11 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Permitted costs
 
 (9) A cost is a permitted cost for the purposes of subsection (8) if,
+
 (a) the cost is incurred by the service manager with respect to a transferred housing program;
+
 (b) the cost is incurred in respect of residential accommodation or facilities, common areas or services used directly with residential accommodation; and
+
 (c) the cost is not incurred in respect of non-residential uses, such as commercial or institutional uses, social or recreational services and services or facilities related to mental or physical health care, education, corrections, food services, social support or public recreation.
 
 ### Provincial Housing Costs
@@ -1986,9 +2315,13 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Provincial housing costs – definition
 
 103 (1) For the purposes of sections 104 to 108, the provincial housing costs for a period are the costs incurred or to be incurred by the Minister or the Crown in right of Ontario in respect of that period that are,
+
 (a) costs relating to a transferred housing program;
+
 (b) costs relating to a housing project that is subject to, or formerly was subject to, a transferred housing program;
+
 (c) costs relating to a mortgage on a housing project that is subject to, or formerly was subject to, a transferred housing program, even if the mortgage is not related to a transferred housing program; or
+
 (d) costs under the social housing agreement dated November 15, 1999 between the Canada Mortgage and Housing Corporation and Her Majesty the Queen in right of the Province of Ontario as represented by the Minister of Municipal Affairs and Housing, as amended from time to time.
 
 ### Clarifications
@@ -2014,8 +2347,11 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Notice of amounts due
 
 (2) If an amount other than zero is allocated to a service manager, the Minister shall give the service manager a written notice setting out,
+
 (a) the amount allocated to the service manager;
+
 (b) the date the service manager is required to pay the amount; and
+
 (c) such other information as may be prescribed.
 
 ### Payment by service manager
@@ -2033,8 +2369,11 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### If revision changes allocation
 
 (3) If a revision under subsection (1) would result in a change to the allocation to a service manager, the Minister shall give the service manager a written notice setting out,
+
 (a) the revised amount allocated to the service manager;
+
 (b) if the amount allocated to a service manager is increased, the date the service manager is required to pay the difference; and
+
 (c) such other information as may be prescribed.
 
 ### If allocation is increased
@@ -2044,7 +2383,9 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### If allocation is decreased
 
 (5) If the amount allocated to a service manager is decreased, the Minister of Finance shall,
+
 (a) pay the difference to the service manager; or
+
 (b) credit the service manager with the difference for any future amount the service manager is required to pay.
 
 ### Collection of amounts owing
@@ -2056,7 +2397,9 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Housing costs – definition
 
 109 (1) For the purposes of sections 110 to 116, a service manager’s housing costs for a period are the sum of,
+
 (a) the costs incurred or to be incurred by the service manager in respect of that period in administering and funding the service manager’s transferred housing programs; and
+
 (b) the amount for that period allocated to the service manager under subsection 106 (1).
 
 ### Exclusion
@@ -2082,8 +2425,11 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Notice of amounts due
 
 (4) The service manager shall give each municipality described in subsection (1) a written notice setting out,
+
 (a) the amount apportioned to the municipality;
+
 (b) the date the municipality is required to pay the amount; and
+
 (c) such other information as may be prescribed.
 
 ### Payment by municipality
@@ -2117,9 +2463,13 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Payment of unorganized territory apportionment
 
 (5) The Minister shall pay to the service manager, in accordance with the regulations,
+
 (a) the amount apportioned to territory without municipal organization; and
+
 (b) any amount excluded under subsection 109 (2) if,
+
 (i) the amount is a cost relating to a transferred housing program, and
+
 (ii) the amount is a cost incurred or to be incurred with respect to a municipality that is deemed, under subsection (6), to be territory without municipal organization.
 
 ### Municipality deemed to be unorganized
@@ -2129,11 +2479,17 @@ ii. to exercise the same remedy in respect of a different occurrence.
 ### Regulations relating to apportionments
 
 113 The following apply with respect to the regulations referred to in subsections 111 (3) and 112 (3) relating to the apportionment of the service manager’s housing costs:
+
 1. The regulations may provide for the apportionment to be done by a method set out in the regulations.
+
 2. The regulations may provide for the apportionment to be done by an arbitration process set out in the regulations.
+
 3. The regulations may provide for the apportionment to be done,
+
 i. if the service manager is a municipal service manager, by agreement between the service manager and each municipality described in subsection 111 (1), or
+
 ii. if the service manager is a dssab service manager, by a method determined by the service manager.
+
 4. The regulations may provide for the apportionment to be done by an interim method specified by the regulations until an arbitration referred to in paragraph 2 is completed or an agreement referred to in subparagraph 3 i is entered into and may provide for the reconciliation, after the arbitration is completed or agreement is entered into, of any amounts paid on an interim basis.
 
 ### Revisions to costs or apportionment
@@ -2155,13 +2511,17 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### If apportionment is decreased
 
 (5) If the amount apportioned to a municipality is decreased, the service manager shall,
+
 (a) pay the difference to the municipality; or
+
 (b) credit the municipality with the difference for any future amount the municipality is required to pay.
 
 ### Apportionment change – unorganized territory
 
 (6) The following apply if a revision under subsection (1) would result in a change to the apportionment to territory without municipal organization under subsection 112 (3), including to a municipality that is deemed to be territory without municipal organization under subsection 112 (6):
+
 1. If the apportioned amount is increased, the Minister shall pay the difference to the service manager in accordance with the regulations.
+
 2. If the apportioned amount is decreased, the service manager shall pay the difference to the Minister in accordance with the regulations.
 
 ### Interest and penalties
@@ -2189,11 +2549,13 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### GTA service manager
 
 117 In sections 118 and 119,
+
 “GTA service manager” means a service manager whose service area is within the area consisting of the City of Toronto and the regional municipalities of Durham, Halton, Peel and York.
 
 ### No revisions to costs
 
 118 Section 114 does not apply with respect to a GTA service manager.
+
 119 Repealed: 2011, c. 6, Sched. 1, s. 119 (8).
 
 ## Part IX Housing Services Corporation
@@ -2203,6 +2565,7 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Definition
 
 120 In this Part,
+
 “Corporation” means the Housing Services Corporation continued under section 121.
 
 ### Continuation, Objects, Powers, etc.
@@ -2214,9 +2577,13 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Objects
 
 122 The objects of the Corporation are the following:
+
 1. To improve the operation, efficiency and long-term sustainability of housing providers that provide housing for moderate and low-income households.
+
 2. To improve the management, maintenance and long-term sustainability and viability of the physical assets of housing providers that provide housing for moderate and low-income households.
+
 3. To improve the quality of life of residents in housing for moderate and low-income households.
+
 4. Such other objects as may be prescribed.
 
 ### Powers of a natural person
@@ -2226,10 +2593,15 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Required activities
 
 124 The Corporation shall,
+
 (a) establish and manage insurance programs for members prescribed for the purposes of this clause;
+
 (b) establish and manage schemes to pool capital reserve funds for members that are housing providers and that are prescribed for the purposes of this clause;
+
 (c) establish and manage schemes for the joint purchase of natural gas by members that are housing providers and that are prescribed for the purposes of this clause;
+
 (d) undertake research and provide advice to the Province of Ontario, service managers and housing providers with respect to the establishment and use of performance measures and good practices to achieve the efficient and effective provision and long-term sustainability and viability of housing for moderate and low-income households; and
+
 (e) undertake such other activities as are prescribed.
 
 ### Not a crown agent
@@ -2245,10 +2617,15 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Members
 
 127 The members of the Corporation are,
+
 (a) all service managers;
+
 (b) all local housing corporations;
+
 (c) the housing providers that are non-profit corporations and that are prescribed for the purposes of this clause;
+
 (d) the housing providers that are non-profit housing co-operatives under the Co-operative Corporations Act and that are prescribed for the purposes of this clause; and
+
 (e) the housing providers or other persons that meet the requirements prescribed for the purposes of this clause.
 
 ### Directors and Officers
@@ -2260,13 +2637,21 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Composition
 
 (2) The board of directors shall consist of the following:
+
 1. Two directors appointed by the Minister.
+
 2. One director selected by the City of Toronto.
+
 3. One director selected jointly by the regional municipalities of Durham, Halton, Peel and York.
+
 4. One director selected jointly by the City of Toronto and the regional municipalities of Durham, Halton, Peel and York.
+
 5. One director selected jointly by the dssab service managers.
+
 6. Four directors selected jointly by the service managers.
+
 7. Three directors selected jointly by the housing providers described in clause 127 (c).
+
 8. Two directors selected jointly by the housing providers described in clause 127 (d).
 
 ### Selection process
@@ -2296,13 +2681,17 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Removal of director by board
 
 131 The board of directors may remove a director if,
+
 (a) the director is unable to perform his or her duties; or
+
 (b) the director has not performed his or her duties for a period of 90 days or more.
 
 ### Director ceasing to be member of municipal council, etc.
 
 132 A director selected under paragraphs 2 to 8 of subsection 128 (2) ceases to be a director if,
+
 (a) when selected, the director was a member of the council or board of the entity or one of the entities that selected the director; and
+
 (b) the director ceases to be a member of that council or board.
 
 ### Resignation of director
@@ -2312,7 +2701,9 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Filling director vacancies
 
 134 (1) If there is a vacancy on the board of directors, a replacement may be appointed,
+
 (a) by the Minister, if the director being replaced was appointed by the Minister; or
+
 (b) by the board of directors of the Corporation, in any other case.
 
 ### Consultation before appointment
@@ -2406,7 +2797,9 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Conduct of elections
 
 (3) The chief executive officer shall conduct elections of,
+
 (a) the chair under subsection 135 (1); and
+
 (b) a replacement chair under subsection 135 (5).
 
 ### Conflict of interest of directors and officers
@@ -2456,7 +2849,9 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Specific requirements
 
 (2) Without limiting what other programs and activities a local housing corporation may be required to participate in under subsection (1), a local housing corporation shall participate in the following, unless the Minister gives written consent for the local housing corporation to not participate:
+
 1. The insurance programs under clause 124 (a).
+
 2. The schemes for the joint purchase of natural gas under clause 124 (c).
 
 ### Annual report
@@ -2490,7 +2885,9 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Application of certain municipal statutes
 
 154 The following apply to the Corporation:
+
 1. The Corporation is deemed to be an institution for the purposes of the Municipal Freedom of Information and Protection of Privacy Act.
+
 2. The Corporation is deemed to be a local board for the purposes of the Ontario Municipal Employees Retirement System Act, 2006, but section 7 of that Act does not apply to the Corporation or its employees.
 
 ## Part X Miscellaneous
@@ -2508,7 +2905,9 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Requirements
 
 (3) The system must include,
+
 (a) provision for a review body, including rules for the appointment and removal of members and their remuneration; and
+
 (b) procedural rules for the reviews.
 
 ### Prescribed requirements
@@ -2518,14 +2917,23 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Reviews requested by households
 
 156 A member of a household may, on behalf of the household, request a review of the following decisions:
+
 1. A determination, under subsection 45 (1), that the household is not eligible for rent-geared-to-income assistance.
+
 2. A determination, under subsection 46 (1), of the size and type of unit that would be permissible if the household received rent-geared-to-income assistance.
+
 3. A determination, under subsection 48 (1), that the household is not included in a category given priority over other categories.
+
 4. A determination, under subsection 50 (1), of the amount of rent payable by the household.
+
 5. A determination, under subsection 52 (1), that the household is no longer eligible for rent-geared-to-income assistance.
+
 6. A determination, under subsection 61 (1), that the household is not eligible for special needs housing.
+
 7. A determination, under subsection 63 (1), that the household is not included in a category given priority over other categories.
+
 8. A determination, under subsection 65 (1), that the household is no longer eligible for special needs housing.
+
 9. A decision prescribed for the purposes of this paragraph.
 
 ### Reviews requested by housing providers
@@ -2535,24 +2943,35 @@ ii. if the service manager is a dssab service manager, by a method determined by
 ### Rules for reviews
 
 158 The following rules apply to a review requested under section 156 or 157:
+
 1. The review body may substitute its decision for the decision that was reviewed.
+
 2. The review body shall give its decision in writing and shall give reasons in writing.
+
 3. The review body shall give notice of its decision and reasons to,
+
 i. the person who requested the review,
+
 ii. the person who made the decision that was reviewed, and
+
 iii. any housing provider that was given notice, under subsection 53 (2) or 66 (2), of the decision that was reviewed.
+
 4. The Statutory Powers Procedure Act does not apply.
 
 ### Effective date of decision
 
 159 (1) The date on which the following are effective shall be determined in accordance with the regulations:
+
 1. A decision for which a review may be requested under section 156 or 157.
+
 2. A decision made by the review body conducting a review requested under section 156 or 157.
 
 ### Regulations
 
 (2) Without limiting what else the regulations may provide, the regulations may provide for a decision to be effective,
+
 (a) on a date specified by the person or body making the decision; or
+
 (b) as of a date before the decision is made.
 
 ### Restrictions on Dealing with Certain Housing Projects and Land
@@ -2560,8 +2979,11 @@ iii. any housing provider that was given notice, under subsection 53 (2) or 66 (
 ### Definitions
 
 160 In sections 161 to 165,
+
 “develop” includes redevelop; (“aménager”)
+
 “mortgage” includes encumbering in any way and includes extending or amending a mortgage or encumbrance; (“hypothéquer”)
+
 “transfer” includes transferring or granting an interest, including a leasehold interest. (“transférer”)
 
 ### Designated housing projects transferred under a transfer order
@@ -2579,14 +3001,19 @@ iii. any housing provider that was given notice, under subsection 53 (2) or 66 (
 ### Prescribed exceptions
 
 (4) The following apply with respect to a transaction or activity prescribed for the purposes of this subsection:
+
 1. Consent is not required under subsection (2) for the transaction or activity.
+
 2. If a document is to be registered or deposited under the Registry Act or the Land Titles Act in respect of a transaction for which the exemption in paragraph 1 is being relied on, the document must include a statement setting out the reason why consent is not required under subsection (2).
+
 3. A statement included under paragraph 2 is deemed to be conclusive evidence of the facts stated in it for the purposes of determining whether consent is not required under subsection (2).
 
 ### Transition, statements on title
 
 (5) The following apply to a statement setting out the restrictions imposed by section 50 of the former Act included in a document registered or deposited under section 43 of the former Act:
+
 1. References to the restrictions imposed by section 50 of the former Act are deemed to be references to the restrictions imposed by subsection (2).
+
 2. A reference to the consent of the Minister is deemed to be a reference to consent required under subsection (2).
 
 ### Statements on title of no force or effect
@@ -2596,7 +3023,9 @@ iii. any housing provider that was given notice, under subsection 53 (2) or 66 (
 ### Certain housing projects
 
 162 (1) This section applies with respect to,
+
 (a) a Part VII housing project as defined in section 73; and
+
 (b) a designated housing project with respect to which a pre-reform operating agreement applies.
 
 ### Consent required for certain transactions
@@ -2606,7 +3035,9 @@ iii. any housing provider that was given notice, under subsection 53 (2) or 66 (
 ### Same, Minister
 
 (3) For a transfer of the housing project or the land where it is located, the written consent required under subsection (2) shall be the written consent of the Minister if,
+
 (a) a receiver or receiver and manager for the housing provider has been appointed under paragraph 7 of section 85; or
+
 (b) the board of directors of the housing provider includes one or more directors appointed under paragraph 9 of section 85.
 
 ### Prescribed exceptions
@@ -2616,8 +3047,11 @@ iii. any housing provider that was given notice, under subsection 53 (2) or 66 (
 ### Transition, statements on title
 
 (5) The following apply to a statement setting out the restrictions imposed by section 95 of the former Act included in a document registered or deposited under section 96 of the former Act:
+
 1. The references to the restrictions imposed by section 95 of the former Act are deemed to be references to the restrictions imposed by subsections (2) and (3).
+
 2. A reference to the consent of the service manager and the Minister is deemed to be a reference to consent required under subsection (2).
+
 3. A reference to the exceptions under section 95 of the former Act is deemed to be a reference to the exceptions under subsection (4).
 
 ### Statements on title of no force or effect
@@ -2639,7 +3073,9 @@ iii. any housing provider that was given notice, under subsection 53 (2) or 66 (
 ### Waiver of notice or abridgment of time
 
 (4) The Minister may, at any time and in writing,
+
 (a) waive the giving of the notice under subsection (2); or
+
 (b) abridge the time for the giving of the notice under subsection (2).
 
 ### Consent by Minister instead of service manager
@@ -2663,7 +3099,9 @@ iii. any housing provider that was given notice, under subsection 53 (2) or 66 (
 ### Certain housing providers restricted
 
 166 (1) This section applies with respect to a housing provider that is a corporation and that operates,
+
 (a) a Part VII housing project as defined in section 73; or
+
 (b) a designated housing project with respect to which a pre-reform operating agreement applies.
 
 ### Amendment of articles
@@ -2703,27 +3141,41 @@ iii. any housing provider that was given notice, under subsection 53 (2) or 66 (
 ### Legislation from which certain transfers exempt
 
 167 (1) Subject to such conditions and limitations as may be prescribed, the following do not apply to the transfers described in subsection (2):
+
 1. The Assignments and Preferences Act.
+
 2. Revoked: 2017, c. 2, Sched. 3, s. 5 (2).
+
 3. The Environmental Assessment Act.
+
 4. The Fraudulent Conveyances Act.
+
 5. The Land Transfer Tax Act.
+
 6. The Retail Sales Tax Act.
+
 7. Such other Acts or provisions of Acts as may be prescribed for the purposes of this paragraph.
+
 8. Such regulations or provisions of regulations as may be prescribed for the purposes of this paragraph.
 
 ### Exempt transfers
 
 (2) Subsection (1) applies to the following transfers:
+
 1. A transfer of an asset, liability, right or obligation that was transferred to a local housing corporation by a transfer order under Part IV of the former Act if the transfer is from the local housing corporation to,
+
 i. the related service manager as defined in section 24,
+
 ii. a municipality in the related service manager’s service area, other than a municipality that forms part of the service manager for municipal purposes, or
+
 iii. a non-profit corporation controlled by an entity described in subparagraph i or ii, but only if an object of the non-profit corporation is the provision of housing.
+
 2. A transfer that is related to housing and that is prescribed for the purposes of this paragraph.
 
 ### Power to prescribe transfers
 
 (3) A transfer may be prescribed for the purposes of paragraph 2 of subsection (2) even if the transfer is not a transfer of an asset, liability, right or obligation that was transferred by a transfer order under Part IV of the former Act or if the transfer is not to or from an entity referred to in paragraph 1 of subsection (2).
+
 168 Repealed: See Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006.
 
 ### Dealing with Information
@@ -2739,8 +3191,11 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ### Disclosure to or from institutions
 
 170 (1) If this Act or the regulations authorize the disclosure of information to or from an institution under the Freedom of Information and Protection of Privacy Act or the Municipal Freedom of Information and Protection of Privacy Act,
+
 (a) subsection 39 (2) of the Freedom of Information and Protection of Privacy Act and subsection 29 (2) of the Municipal Freedom of Information and Protection of Privacy Act do not apply to the receiving institution in respect of the information;
+
 (b) the information is deemed to have been disclosed for the purpose of complying with this section; and
+
 (c) the information is deemed to have been obtained or compiled by the receiving institution for a purpose consistent with the purpose for which the information was initially obtained or compiled.
 
 ### Control of record
@@ -2750,30 +3205,47 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ### Agreements of Minister re information
 
 171 (1) The Minister may enter into an agreement with respect to the collection, use and disclosure of information with the following:
+
 1. The Government of Canada or a department, ministry or agency of it.
+
 2. The government of a province or territory in Canada or a department, ministry or agency of it.
+
 3. The government of the United States or the government of a state of the United States or a department or agency of either.
+
 4. The government of another country or a department or agency of it.
+
 5. An institution under the Freedom of Information and Protection of Privacy Act or the Municipal Freedom of Information and Protection of Privacy Act.
+
 6. Such other bodies as may be prescribed.
 
 ### Disclosure of personal information
 
 (2) The Minister may disclose personal information collected for the purpose of administering or enforcing this Act and the regulations to a party to an agreement under subsection (1) if,
+
 (a) the disclosure is made in accordance with the agreement;
+
 (b) the party administers, enforces or is conducting research relating to,
+
 (i) a social benefit program,
+
 (ii) a social housing or rent-geared-to-income assistance program,
+
 (iii) the Taxation Act, 2007, the Income Tax Act or the Income Tax Act (Canada),
+
 (iv) the Immigration and Refugee Protection Act (Canada), or
+
 (v) a prescribed Act; and
+
 (c) the party agrees to use the information only for the administration, enforcement or research described in clause (b).
 
 ### No notice required
 
 (3) Subsection 39 (2) of the Freedom of Information and Protection of Privacy Act and subsection 29 (2) of the Municipal Freedom of Information and Protection of Privacy Act do not apply with respect to information collected under an agreement under subsection (1) if,
+
 (a) the information has been collected by data matching;
+
 (b) notice to the individual might frustrate an investigation; or
+
 (c) notice to the individual is not feasible.
 
 ### Collection of personal information
@@ -2783,7 +3255,9 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ### Disclosure by institution
 
 (5) An institution described in paragraph 5 of subsection (1) that is a party to an agreement under subsection (1) may disclose personal information to the Minister, a service manager or a housing provider if,
+
 (a) the disclosure is made in accordance with the agreement; and
+
 (b) the information is necessary for purposes related to the powers and duties under this Act of the Minister, service manager or housing provider.
 
 ### Confidentiality provisions in other Acts
@@ -2801,13 +3275,21 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ### Disclosure of personal information
 
 (2) The service manager may disclose personal information collected for the purpose of administering or enforcing this Act and the regulations to a party to an agreement under subsection (1) if,
+
 (a) the disclosure is made in accordance with the agreement;
+
 (b) the party administers, enforces or is conducting research relating to,
+
 (i) a social benefit program,
+
 (ii) a social housing or rent-geared-to-income assistance program,
+
 (iii) the Taxation Act, 2007, the Income Tax Act or the Income Tax Act (Canada),
+
 (iv) the Immigration and Refugee Protection Act (Canada), or
+
 (v) a prescribed Act; and
+
 (c) the party agrees to use the information only for the administration, enforcement or research described in clause (b).
 
 ### Collection of personal information
@@ -2821,8 +3303,11 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ### Protection of information
 
 (2) In relation to the personal information collected, used or disclosed under it, an agreement must,
+
 (a) provide that the information is confidential;
+
 (b) establish mechanisms for maintaining the confidentiality and security of the information; and
+
 (c) include a plan for the disposition of the information.
 
 ### Names of individuals
@@ -2836,14 +3321,19 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ### Sharing information
 
 174 (1) The Minister, the Housing Services Corporation, each service manager, each delegate under section 17, each housing provider and each person or organization providing services by contract to any of them may share personal information with each other or with the other persons specified in subsection (2) if,
+
 (a) the personal information was collected under this Act, the Ontario Works Act, 1997, the Ontario Disability Support Program Act, 1997, the Child Care and Early Years Act, 2014 or the Day Nurseries Act; and
+
 (b) the information is necessary for the purposes of making decisions or verifying eligibility for assistance under this Act or the other Acts referred to in clause (a).
 
 ### Other persons with whom information may be shared
 
 (2) The following are the other persons referred to in subsection (1):
+
 1. The Director appointed under the Ontario Disability Support Program Act, 1997 and any person exercising the Director’s powers and duties under section 37 or 39 of that Act.
+
 2. The Director appointed under the Ontario Works Act, 1997 and any person exercising the Director’s powers and duties under section 47 of that Act.
+
 3. A director appointed under the Child Care and Early Years Act, 2014.
 
 ### Restriction re prescribed personal information
@@ -2853,9 +3343,13 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ### Notification on collection
 
 176 When a service manager or special needs housing administrator as defined in section 38 collects personal information from a household in the course of performing its duties under this Act, it shall,
+
 (a) notify the household that information provided by the household may be shared,
+
 (i) as necessary for the purposes of making decisions or verifying eligibility for assistance under this Act, the Ontario Works Act, 1997, the Ontario Disability Support Program Act, 1997 or the Child Care and Early Years Act, 2014, or
+
 (ii) as authorized by an agreement made under section 171 or 172; and
+
 (b) notify the household of the name, business address and business telephone number of a person who can answer questions and respond to complaints about the collection, use or disclosure of the information.
 
 ### Provincial Refinancing System for Housing Providers
@@ -2881,7 +3375,9 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ### Application of former Act
 
 (2) For the purposes of a transfer order or amendment made under subsection (1),
+
 (a) Part IV of the former Act, other than section 50 and subsections 61 (2) and (3), is deemed to remain in force during the two-year period following the repeal of the former Act; and
+
 (b) the reference to section 50 in subparagraph 2 vi of subsection 43 (1) of the former Act, as it applies under clause (a), is deemed to be a reference to section 161 of this Act.
 
 ### Conflicts with Other Acts, etc.
@@ -2895,15 +3391,21 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ### Regulations
 
 181 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing or otherwise providing for anything required or permitted under this Act, other than the provisions referred to in clause 182 (a), to be prescribed or otherwise provided for in the regulations, including governing anything required or permitted to be done in accordance with the regulations;
+
 (b) exempting any person, premises or thing, any combination of any of them or any class of any of them from any provision of this Act or the regulations, and prescribing conditions or restrictions that apply in respect of an exemption;
+
 (c) providing for such transitional matters as the Lieutenant Governor in Council considers necessary or advisable in connection with the implementation of this Act or the regulations.
 
 ### Transition regulations
 
 (2) A regulation made under clause (1) (c),
+
 (a) may provide that, despite the proclamation of this Act or a provision of this Act, this Act or the provision does not take effect in all or part of the province until the date specified in the regulation;
+
 (b) may provide that the former Act or a provision of the former Act continues to apply, for a specified period of time and with necessary modifications, to specified things or in specified circumstances;
+
 (c) may specify that, for a specified period of time, a person is entitled to exercise the powers or required to perform the duties of another person under this or any other Act instead of the person otherwise entitled or required to do so and providing that actions by the person who exercises those powers or performs those duties are deemed, for the purposes of the applicable Act, to be the actions of the person otherwise entitled to exercise the powers or required to perform the duties under that Act.
 
 ### Transition regulations, 2016 amendments
@@ -2925,14 +3427,19 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ### Same
 
 (2) Without limiting the generality of subsection (1), the regulations may provide that,
+
 (a) despite the housing project ceasing to be a designated housing project, certain provisions of the Act continue to apply to the housing provider or service manager in respect of the housing project for a specified period of time and with necessary modifications, in specified circumstances;
+
 (b) despite the housing project ceasing to be subject to a transferred housing program, certain provisions of the Act relating to such programs continue to apply in respect of the rights and obligations of a household that was already occupying a unit in the project.
 
 ### Regulations made by Minister
 
 182 The Minister may make regulations,
+
 (a) prescribing or otherwise providing for anything required or permitted under section 35.2, subsection 40 (4) or 68 (1) or section 78 or 164 to be prescribed or otherwise provided for in the regulations, including governing anything required or permitted to be done in accordance with the regulations;
+
 (b) exempting any person, premises or thing, any combination of any of them or any class of any of them from any provision of the regulations made by the Minister, and prescribing conditions or restrictions that apply in respect of an exemption;
+
 (c) providing for such transitional matters relating to a regulation made by the Minister as the Minister considers necessary or advisable in connection with the implementation of the regulation.
 
 ### Conditions and restrictions
@@ -2942,10 +3449,13 @@ iii. a non-profit corporation controlled by an entity described in subparagraph 
 ## part XI (OMITTED)
 
 184 Omitted (amends, repeals or revokes other legislation).
+
 185 Omitted (provides for amendments to this Act).
+
 186-188 Omitted (amends, repeals or revokes other legislation).
 
 ## PART Xii (OMITTED)
 
 189 Omitted (provides for coming into force of provisions of this Act).
+
 190 Omitted (enacts short title of this Act).

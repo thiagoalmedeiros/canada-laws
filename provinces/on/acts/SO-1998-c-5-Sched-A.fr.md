@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "1998-06-26"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98o05"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # emprunts de l'Ontario (Loi de 1998 sur les )
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98o05) before relying on it.
 
 L.O. 1998, chap. 5 , Annexe A
 
@@ -27,5 +27,7 @@ L.O. 1998, chap. 5 , Annexe A
 ### Cessation d’effet
 
 2 Nul décret autorisant un emprunt en vertu de la présente loi n’est pris après le 31 décembre 1999.
+
 3 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 4 Omis (édicte le titre abrégé de la présente loi).

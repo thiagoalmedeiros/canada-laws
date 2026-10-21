@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2021-11-29"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15h38"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Horse Racing Licence Act, 2015
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15h38) before relying on it.
 
 S.O. 2015, c. 38, Sched. 9
 
@@ -21,20 +21,35 @@ S.O. 2015, c. 38, Sched. 9
 ### Definitions
 
 1 In this Act,
+
 “Board” means the board of the Alcohol and Gaming Commission of Ontario continued under the Alcohol and Gaming Commission of Ontario Act, 2019; (“conseil”)
+
 “Commission” means the Alcohol and Gaming Commission of Ontario continued under the Alcohol and Gaming Commission of Ontario Act, 2019; (“Commission”)
+
 “conveyance” means a vehicle, vessel or other thing used to transport horses or equipment used in the business of horse racing; (“moyen de transport”)
+
 “licence” means a licence issued under this Act; (“licence”)
+
 “licensee” means the holder of a licence; (“titulaire de licence”)
+
 “Panel” means the Horse Racing Appeal Panel established under subsection 7 (1); (“Comité”)
+
 “prescribed” means prescribed in the regulations; (“prescrit”)
+
 “proceeds”, in relation to an offence under this Act, means,
+
 (a) personal property, other than money, derived in whole or in part, directly or indirectly, from the commission of the offence, and
+
 (b) money derived directly or indirectly from the commission of the offence; (“produit”)
+
 “Registrar” means the Registrar under the Alcohol and Gaming Commission of Ontario Act, 2019; (“registrateur”)
+
 “record” includes a book of account, bank book, voucher, invoice, receipt, contract, correspondence and any other document regardless of whether the record is on paper or is in electronic, photographic or other form; (“document”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “rules of racing” means the rules for the conduct of horse racing made under section 5; (“règles sur les courses”)
+
 “Tribunal” means the Licence Appeal Tribunal established under the Licence Appeal Tribunal Act, 1999 or whatever other tribunal is provided for in the regulations. (“Tribunal”)
 
 ## Part II Registrar, rules of racing and non-licensing appeals
@@ -42,18 +57,27 @@ S.O. 2015, c. 38, Sched. 9
 ### Powers of Registrar, general
 
 2 The Registrar has the power, subject to this Act and the regulations,
+
 (a) to govern, direct, control and regulate horse racing in Ontario in any or all of its forms; and
+
 (b) to govern, control and regulate the operation of race tracks and off-track betting facilities in Ontario at which any form of horse racing is carried on or televised.
 
 ### Examples
 
 3 Without in any way restricting the generality of section 2, some examples of matters with respect to horse racing over which the Registrar may exercise power are,
+
 (a) all forms of licensing;
+
 (b) the appointment and discharge of race track officials and other persons whose duties relate to the actual running of horse races;
+
 (c) registration of matters that the Registrar considers appropriate;
+
 (d) the keeping of books and accounts;
+
 (e) the assessment of penalties for contravention of the rules of racing, and the enforcement of the penalties;
+
 (f) imposing conditions on licences that the Registrar considers expedient, and removing such conditions; and
+
 (g) examinations and standards.
 
 ### Additional matters
@@ -87,9 +111,13 @@ S.O. 2015, c. 38, Sched. 9
 ### Delegation
 
 6 The rules of racing may delegate to stewards, judges, veterinarians, race track officials, racing associations or bodies, racing association or racing body officials, licensing agents or officers, racing officials, inspectors, investigators or to any other persons any of the following powers that the Registrar considers expedient:
+
 1. The power to collect fees or other charges for the issuance or renewal of licences and to provide for refunds of the fees and charges.
+
 2. The power to enforce the carrying out of this Act, the regulations, the rules of racing and all requirements of the Registrar made under this Act.
+
 3. The power to fix, impose and collect penalties for a contravention of the rules of racing.
+
 4. The power to impose conditions on licences, and to remove such conditions.
 
 ### Horse Racing Appeal Panel
@@ -193,14 +221,19 @@ S.O. 2015, c. 38, Sched. 9
 ### Refusal to issue licence or renewal
 
 14 The Registrar shall refuse to issue a licence to an applicant or to renew the licence of an applicant if,
+
 (a) there are reasonable grounds to believe that, when acting as a licensee, the applicant will not act in accordance with the law, or with integrity, honesty, or in the public interest, having regard to the past conduct of the applicant; or
+
 (b) the applicant is carrying on activities that are, or will be, if the applicant is licensed, in contravention of this Act, the regulations, the rules of racing or the conditions of the licence.
 
 ### Conditions of licence
 
 15 (1) A licence is subject to those conditions to give effect to the purposes of this Act,
+
 (a) that the Registrar proposes and the applicant consents to;
+
 (b) that are imposed by virtue of sections 16 and 20; or
+
 (c) that are imposed under this Act or that are required to be imposed under the regulations.
 
 ### Compliance with rules
@@ -210,7 +243,9 @@ S.O. 2015, c. 38, Sched. 9
 ### Review
 
 16 The Registrar may at any time review a licence and may,
+
 (a) attach to the licence any further conditions consented to by the licensee; or
+
 (b) issue a proposal under section 20 to attach to the licence any further conditions that the Registrar considers proper to give effect to the purposes of this Act.
 
 ### Removal of conditions
@@ -252,7 +287,9 @@ S.O. 2015, c. 38, Sched. 9
 ### Order of Tribunal
 
 (6) After holding a hearing, the Tribunal may by order,
+
 (a) confirm or set aside the proposed order;
+
 (b) direct the Registrar to take the action that the Tribunal considers the Registrar ought to take to give effect to the purposes of this Act.
 
 ### Discretion of Tribunal
@@ -328,12 +365,19 @@ S.O. 2015, c. 38, Sched. 9
 ### Powers of inspector
 
 (3) An inspector conducting an inspection may,
+
 (a) examine records or anything else that is relevant to the inspection;
+
 (b) demand the production of a record or any other thing that is relevant to the inspection;
+
 (c) on issuing a written receipt for it, remove a record or any other thing that is relevant to the inspection for review, examination or testing;
+
 (d) on issuing a written receipt for it, remove a record or any other thing that is relevant to the inspection for copying;
+
 (e) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place;
+
 (f) take photographs or make any other kind of recording; and
+
 (g) inquire into all financial transactions, records and other matters that are relevant to the inspection.
 
 ### Written demand
@@ -347,7 +391,9 @@ S.O. 2015, c. 38, Sched. 9
 ### Records and things removed from place
 
 (6) A record or other thing that has been removed for review, examination, testing or copying,
+
 (a) shall be made available on request to the person from whom it was removed and at a time and place that are convenient for the person and for the inspector; and
+
 (b) shall be returned to the person within a reasonable time, unless, in the case of a thing that has been subject to testing, the thing has been made unsuitable for return as a result of the testing.
 
 ### Copy admissible in evidence
@@ -389,21 +435,29 @@ S.O. 2015, c. 38, Sched. 9
 ### Warrants
 
 28 (1) Upon application made without notice by an investigator, a justice of the peace may issue a warrant, if satisfied on information under oath that there are reasonable grounds to believe that,
+
 (a) there has been or is likely to be a contravention of this Act or the regulations; and
+
 (b) there is, in any place or conveyance anything relating to the contravention of this Act or the regulations.
 
 ### Powers under warrant
 
 (2) Subject to any conditions contained in it, a warrant obtained under subsection (1) authorizes an investigator,
+
 (a) to enter or access the place or conveyance specified in the warrant and examine and seize anything described in the warrant;
+
 (b) to use any data storage, processing or retrieval device or system used in carrying on business in order to produce information or evidence described in the warrant, in any form;
+
 (c) to exercise any of the powers specified in subsection (10); and
+
 (d) to use any investigative technique or procedure or do anything described in the warrant.
 
 ### Entry of dwelling
 
 (3) Despite subsection (2), an investigator shall not exercise the power under a warrant to enter a place or conveyance, or part of a place or conveyance, actually used as a dwelling, unless,
+
 (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice of the peace authorizes the entry into the dwelling.
 
 ### Conditions on warrant
@@ -473,16 +527,23 @@ S.O. 2015, c. 38, Sched. 9
 ### Order of restoration
 
 33 (1) The Ontario Court of Justice may, upon the application of any person made within 30 days of a seizure authorized under this Act, order that the things seized be restored forthwith to the applicant if the court is satisfied that,
+
 (a) the applicant is entitled to possession of the things seized;
+
 (b) the things seized are not required as evidence in any proceeding;
+
 (c) continued detention of the things seized is not necessary to prevent the commission of an offence;
+
 (d) the best interests of the horse racing industry and of animal welfare do not require the continued detention of the things seized; and
+
 (e) it is unlikely that the things will be forfeited on conviction under subsection (4).
 
 ### Same
 
 (2) If the court is satisfied that an applicant under subsection (1) is entitled to possession of the things seized but is not satisfied as to all of the matters mentioned in clauses (1) (b), (c) and (d), it shall order that the things seized be restored to the applicant,
+
 (a) upon the expiration of three months from the date of the seizure, if no proceeding in respect of an offence has been commenced; or
+
 (b) upon the final conclusion of such a proceeding.
 
 ### Forfeiture
@@ -496,7 +557,9 @@ S.O. 2015, c. 38, Sched. 9
 ### Relief against forfeiture
 
 (5) Any person with an interest in a thing forfeited under this section may apply to the Superior Court of Justice for relief against the forfeiture and the court may make an order providing for any relief that it considers just, including, but not limited to, one or more of the following orders:
+
 1. An order directing that the thing or any part of the thing be returned to the applicant.
+
 2. An order directing that any interest in the thing be vested in the applicant.
 
 ### Same
@@ -546,6 +609,7 @@ S.O. 2015, c. 38, Sched. 9
 ### “Race horse”
 
 (2) In this section,
+
 “race horse” means a horse that has participated in racing within the past 60 days or is within 60 days of participating in racing.
 
 ### Generally accepted practices
@@ -563,8 +627,11 @@ S.O. 2015, c. 38, Sched. 9
 ### Offences
 
 41 (1) A person is guilty of an offence if the person,
+
 (a) knowingly furnishes false information in any application under this Act;
+
 (b) knowingly fails to comply with a Registrar’s order under this Act; or
+
 (c) contravenes any provision of this Act or the regulations.
 
 ### Directors, officers
@@ -592,28 +659,45 @@ S.O. 2015, c. 38, Sched. 9
 ### Same
 
 (2) Without restricting the generality of subsection (1), the Lieutenant Governor in Council may make regulations,
+
 (a) governing anything that this Act describes as being prescribed, provided for or required in the regulations;
+
 (b) governing horse racing, race tracks and off-track betting;
+
 (c) respecting the powers of the Registrar;
+
 (d) governing the contents and enforcement of the rules of racing;
+
 (e) governing licensing under this Act;
+
 (f) governing the service of documents for the purposes of this Act;
+
 (g) providing for exemptions from this Act or any provision of this Act subject to the conditions, if any, provided for in the regulations;
+
 (h) governing transitional matters arising from the repeal of the Racing Commission Act, 2000.
 
 ### Transition, corporate matters
 
 43 The following occurs when section 2 comes into force:
+
 1. The Ontario Racing Commission is dissolved.
+
 2. All rights, property and assets that belonged to the Ontario Racing Commission immediately before this section came into force become the rights, property and assets of the Commission.
+
 3. All debts, liabilities and obligations of the Ontario Racing Commission immediately before this section came into force become the debts, liabilities and obligations of the Commission.
 
 ### Transition, licensing matters and rules of racing
 
 44 The following occurs when section 9 comes into force:
+
 1. Licences and registrations issued under the Racing Commission Act, 2000 are continued as licences and registrations respectively issued under this Act.
+
 2. The rules for racing and any orders and delegations made by the Ontario Racing Commission under the Racing Commission Act, 2000 are continued as the rules of racing and as orders and delegations respectively made by the Registrar under this Act until they are amended, repealed or replaced by the Registrar.
+
 3. The by-laws made by the Ontario Racing Commission under the Racing Commission Act, 2000 are continued as by-laws of the Alcohol and Gaming Commission of Ontario with respect to this Act until they are amended, repealed or replaced by that Commission.
+
 45 -47 Omitted (amends, repeals or revokes other legislation).
+
 48 Omitted (provides for coming into force of provisions of this Act).
+
 49 Omitted (enacts short title of this Act).

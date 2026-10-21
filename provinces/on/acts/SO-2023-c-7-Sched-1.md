@@ -6,23 +6,28 @@ language: en
 type: act
 document_date: "2023-07-31"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23q07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Queen's Park Restoration Secretariat Act, 2023
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23q07) before relying on it.
 
 S.O. 2023, c. 7, Sched. 1
 
 ### Definitions
 
 1 In this Act,
+
 “Board of Internal Economy” means the Board of Internal Economy continued under section 87 of the Legislative Assembly Act; (“Commission de régie interne”)
+
 “Deputy Minister” means the Deputy Minister appointed under subsection 2 (4); (“sous-ministre”)
+
 “Minister” means the Minister responsible for the Queen’s Park Restoration Secretariat; (“ministre”)
+
 “Queen’s Park Restoration Project” means the project to restore, refurbish, rehabilitate and preserve the Legislative Building including the associated systems and infrastructure, the building grounds and Lieutenant Governor’s office, as well as everything required for the temporary relocation and continuous functioning of the Legislative Assembly; (“Projet de restauration de Queen’s Park”)
+
 “Secretariat” means the ministry known as the Queen's Park Restoration Secretariat established under subsection 2 (1); (“Secrétariat”)
 
 ### Secretariat
@@ -36,9 +41,13 @@ S.O. 2023, c. 7, Sched. 1
 ### Responsibilities of Minister
 
 (3) It is the responsibility of the Minister to,
+
 (a) have charge of the Queen’s Park Restoration Project;
+
 (b) identify, secure and prepare a location suitable for the continued functionality of the Legislative Assembly of Ontario for the duration of the Queen’s Park Restoration Project;
+
 (c) seek stable and secure funding for the Queen’s Park Restoration Project; and
+
 (d) carry out any other functions assigned by the Lieutenant Governor in Council.
 
 ### Deputy Minister
@@ -60,15 +69,21 @@ S.O. 2023, c. 7, Sched. 1
 ### Executive project working group
 
 5 The Minister shall establish an executive project working group to advise the Minister on the Queen’s Park Restoration Project that shall include, at minimum, representatives chosen by each of,
+
 (a) the Minister;
+
 (b) the Deputy Minister; and
+
 (c) the Board of Internal Economy.
 
 ### Advisory committees
 
 6 (1) The Lieutenant Governor in Council or the Minister may,
+
 (a) establish advisory committees to advise the Minister on the Queen’s Park Restoration Project;
+
 (b) appoint the members of the committees, and designate one member as chair and one or more members as vice-chair; and
+
 (c) determine the terms of reference of the committees.
 
 ### Remuneration and expenses
@@ -144,5 +159,7 @@ S.O. 2023, c. 7, Sched. 1
 ### Regulations
 
 13 The Lieutenant Governor in Council may make regulations prescribing additional reporting and consultation requirements for the purposes of section 8.
+
 14 Omitted (provides for coming into force of provisions of this Act).
+
 15 Omitted (enacts short title of this Act).

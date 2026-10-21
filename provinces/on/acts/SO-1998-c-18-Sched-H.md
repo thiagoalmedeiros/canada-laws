@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-12-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98m18"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ministry of Health and Long-Term Care Appeal and Review Boards Act, 1998
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98m18) before relying on it.
 
 S.O. 1998, c. 18, Sched. H
 
@@ -21,7 +21,9 @@ S.O. 1998, c. 18, Sched. H
 ### Health Professions Appeal and Review Board
 
 1 The following boards are amalgamated to form the Health Professions Appeal and Review Board, to be known in French as the Commission d’appel et de révision des professions de la santé:
+
 1. The Health Professions Board.
+
 2. The Hospital Appeal Board.
 
 ### Duties
@@ -31,6 +33,7 @@ S.O. 1998, c. 18, Sched. H
 ### Composition
 
 3 (1) The Board shall be composed of at least 12 members who shall be appointed by the Lieutenant Governor in Council on the recommendation of the Minister of Health and Long-Term Care.
+
 (2) Repealed: 2006, c. 34, s. 36 (1).
 
 ### Chair and vice-chairs
@@ -40,14 +43,19 @@ S.O. 1998, c. 18, Sched. H
 ### Additional vice-chairs
 
 (4) The chair may from time to time designate additional members to be vice-chairs.
+
 (5), (6) Repealed: 2006, c. 34, s. 36 (1).
 
 ### Qualifications of members
 
 4 A person may not be appointed as a member of the Board if the person,
+
 (a) is employed under Part III of the Public Service of Ontario Act, 2006;
+
 (a.1) is employed by a Crown agency as defined in the Crown Agency Act;
+
 (b) is or has been a member of a College as defined in the Regulated Health Professions Act, 1991 or of a Council of such a College; or
+
 (c) is or has been a member of the College of Veterinarians of Ontario or of the Council of the College.
 
 ## PART II HEALTH SERVICES APPEAL AND REVIEW BOARD
@@ -55,29 +63,49 @@ S.O. 1998, c. 18, Sched. H
 ### Health Services Appeal and Review Board
 
 5 The following boards are amalgamated to form the Health Services Appeal and Review Board, to be known in French as the Commission d’appel et de révision des services de santé:
+
 1. The Health Services Appeal Board.
+
 2. The Health Facilities Appeal Board.
+
 3. The Health Protection Appeal Board.
+
 4. The Nursing Homes Review Board.
+
 5. The Laboratory Review Board.
 
 ### Duties
 
 6 (1) The Board’s duties are to conduct the hearings and reviews and to perform the duties that are assigned to it under the following Acts:
+
 1. The Ambulance Act.
+
 2. The Connecting Care Act, 2019.
+
 3. The Healing Arts Radiation Protection Act.
+
 4. The Commitment to the Future of Medicare Act, 2004.
+
 4.1 The Health and Supportive Care Providers Oversight Authority Act, 2021.
+
 5. The Health Facilities Special Orders Act.
+
 6. The Health Insurance Act.
+
 7. The Health Protection and Promotion Act.
+
 8. Repealed: 2020, c. 13, Sched. 3, s. 7 (1).
+
 9. The Immunization of School Pupils Act.
+
 10. The Integrated Community Health Services Centres Act, 2023.
+
 11. The Laboratory and Specimen Collection Centre Licensing Act.
+
 12. The Fixing Long-Term Care Act, 2021.
+
 13. Repealed: 2007, c. 8, s. 216.
+
 14. The Private Hospitals Act.
 
 ### Same
@@ -111,13 +139,17 @@ S.O. 1998, c. 18, Sched. H
 ### Additional vice-chairs
 
 (5) The chair may from time to time designate additional members to be vice-chairs.
+
 (6), (7) Repealed: 2006, c. 34, s. 36 (2).
+
 7.1 Repealed: 2019, c. 15, Sched. 15, s. 37 (2).
 
 ### Ineligibility
 
 8 A person may not be appointed as a member of the Board if the person,
+
 (a) is employed under Part III of the Public Service of Ontario Act, 2006; or
+
 (b) is employed by a Crown agency as defined in the Crown Agency Act.
 
 ## PART III PROVISIONS RELATING TO BOTH BOARDS
@@ -125,6 +157,7 @@ S.O. 1998, c. 18, Sched. H
 ### Application of part
 
 9 This Part applies with respect to the Health Professions Appeal and Review Board and the Health Services Appeal and Review Board.
+
 10 Repealed: 2017, c. 34, Sched. 46, s. 27.
 
 ### Remuneration and expenses
@@ -174,5 +207,7 @@ S.O. 1998, c. 18, Sched. H
 ### Immunity
 
 18 No proceeding for damages shall be commenced against a Board, a member, employee or agent of a Board or anyone acting under the authority of the chair of a Board for any act done in good faith in the performance or intended performance of the person’s duty or for any alleged neglect or default in the performance in good faith of the person’s duty.
+
 19 Omitted (provides for coming into force of provisions of this Act).
+
 20 Omitted (enacts short title of this Act).

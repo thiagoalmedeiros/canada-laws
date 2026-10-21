@@ -6,23 +6,28 @@ language: en
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21p27"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Psychology and Applied Behaviour Analysis Act, 2021
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21p27) before relying on it.
 
 S.O. 2021, c. 27, Sched. 4
 
 ### Definitions
 
 1 In this Act,
+
 “College” means the College of Psychologists and Behaviour Analysts of Ontario; (“Ordre”)
+
 “Health Professions Procedural Code” means the Health Professions Procedural Code set out in Schedule 2 to the Regulated Health Professions Act, 1991; (“Code des professions de la santé”)
+
 “member” means a member of the College; (“membre”)
+
 “profession” means the professions of psychology and applied behaviour analysis; (“profession”)
+
 “this Act” includes the Health Professions Procedural Code. (“la présente loi”)
 
 ### Health Professions Procedural Code
@@ -32,9 +37,13 @@ S.O. 2021, c. 27, Sched. 4
 ### Terms in Code
 
 (2) In the Health Professions Procedural Code, as it applies in respect of this Act,
+
 “College” means the College of Psychologists and Behaviour Analysts of Ontario; (“ordre”)
+
 “health profession Act” means this Act; (“loi sur une profession de la santé”)
+
 “profession” means the professions of psychology and applied behaviour analysis; (“profession”)
+
 “regulations” means the regulations under this Act. (“règlements”)
 
 ### Definitions in Code
@@ -54,7 +63,9 @@ S.O. 2021, c. 27, Sched. 4
 ### Authorized acts
 
 4 In the course of engaging in the practice of psychology, a member is authorized, subject to the terms, conditions and limitations imposed on the member’s certificate of registration, to perform the following:
+
 1. To communicate a diagnosis identifying, as the cause of a person’s symptoms, a neuropsychological disorder or psychologically based psychotic, neurotic or personality disorder.
+
 2. To treat, by means of psychotherapy technique delivered through a therapeutic relationship, an individual’s serious disorder of thought, cognition, mood, emotional regulation, perception or memory that may seriously impair the individual’s judgement, insight, behaviour, communication or social functioning.
 
 ### College continued
@@ -64,13 +75,21 @@ S.O. 2021, c. 27, Sched. 4
 ### Council
 
 6 (1) The Council shall be composed of,
+
 (a) at least eight and no more than 12 persons who are members elected in accordance with the by-laws, at least three and no more than five of whom must hold a certificate of registration in applied behaviour analysis;
+
 (b) at least eight and no more than 13 persons appointed by the Lieutenant Governor in Council who are not,
+
 (i) members,
+
 (ii) members of a College as defined in the Regulated Health Professions Act, 1991, or
+
 (iii) members of a Council as defined in the Regulated Health Professions Act, 1991; and
+
 (c) at least two and no more than four persons selected, in accordance with a by-law made under section 11, from among members who belong to the faculty of a department of a university in Ontario, if that department is,
+
 (i) a department of psychology, or
+
 (ii) a department, however described, that offers a specialization in applied behaviour analysis.
 
 ### Additional qualification
@@ -104,7 +123,9 @@ S.O. 2021, c. 27, Sched. 4
 ### Definition
 
 (5) In this section,
+
 “abbreviation” includes an abbreviation of a variation.
+
 9 Repealed: 2021, c. 27, Sched. 4, s. 14.
 
 ### Offence
@@ -114,13 +135,17 @@ S.O. 2021, c. 27, Sched. 4
 ### By-laws
 
 11 The Council may make by-laws,
+
 (a) respecting the qualifications, number, selection and terms of office of Council members who are selected; and
+
 (b) specifying Ontario universities for the purposes of clause 6 (1) (c).
 
 ### Minister regulations
 
 11.1 Subject to the approval of the Lieutenant Governor in Council, the Minister may make regulations exempting a person from the following prohibitions and setting conditions on such an exemption:
+
 1. The prohibition in subsection 8 (1) on the use of the title “psychologist” or “psychological associate” or any variation, abbreviation or equivalent in another language.
+
 2. The prohibition in subsection 8 (2) on holding oneself out as a person who is qualified to practise in Ontario as a psychologist or psychological associate or in any specialty of psychology.
 
 ### Transition
@@ -142,7 +167,11 @@ S.O. 2021, c. 27, Sched. 4
 ### Other Acts
 
 13 A reference in any other Act to a member of the College of Psychologists of Ontario shall be deemed to be a reference to a member of the College of Psychologists and Behaviour Analysts of Ontario who practises the profession of psychology.
+
 14 Omitted (provides for amendments to this Act).
+
 15, 16 Omitted (amends, repeals or revokes other legislation).
+
 17 Omitted (provides for coming into force of provisions of this Act).
+
 18 Omitted (enacts short title of this Act).

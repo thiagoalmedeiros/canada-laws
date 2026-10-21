@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02c30"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Consumer Protection Act, 2002
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02c30) before relying on it.
 
 S.O. 2002, c. 30, Sched. A
 
@@ -21,44 +21,83 @@ S.O. 2002, c. 30, Sched. A
 ### Interpretation
 
 1 In this Act,
+
 “consumer” means an individual acting for personal, family or household purposes and does not include a person who is acting for business purposes; (“consommateur”)
+
 “consumer agreement” means an agreement between a supplier and a consumer in which,
+
 (a) the supplier agrees to supply goods or services for payment, or
+
 (b) the supplier agrees to provide rewards points to the consumer, on the supplier’s own behalf or on behalf of another supplier, when the consumer purchases goods or services or otherwise acts in a manner specified in the agreement; (“convention de consommation”)
+
 “consumer transaction” means any act or instance of conducting business or other dealings with a consumer, including a consumer agreement; (“opération de consommation”)
+
 “credit card” means a card or device under which a borrower can obtain advances under a credit agreement, as defined in Part VII, for open credit; (“carte de crédit”)
+
 “Director” means the person designated as the Director under the Ministry of Consumer and Business Services Act; (“directeur”)
+
 “future performance agreement” means a consumer agreement in respect of which delivery, performance or payment in full is not made when the parties enter the agreement; (“convention à exécution différée”)
+
 “goods” means any type of property; (“marchandises”)
+
 “initiation fee” means a fee in addition to an annual membership fee; (“droit d’entrée”)
+
 “internet” means the decentralized global network connecting networks of computers and similar devices to each other for the electronic exchange of information using standardized communication protocols; (“Internet”)
+
 “internet gaming site” means an internet site that accepts or offers to accept wagers or bets over the internet,
+
 (a) as part of the playing of or participation in any game of chance or mixed chance and skill that is to take place inside or outside of Canada, or
+
 (b) on any contingency or on any event that may or is to take place inside or outside of Canada,
+
 including, without restricting the generality of the foregoing, a casino game, card game, horse race, fight, match, sporting event or contest; (“site de jeux en ligne”)
+
 “loan broker” means,
+
 (a) a supplier of loan brokering, or
+
 (b) a person who holds themself out to be a person described in clause (a); (“courtier en prêts”)
+
 “loan brokering” means services or goods that are intended to assist a consumer in obtaining credit or a loan of money, including obtaining credit or a loan of money from the loan broker who is providing the services or goods to the consumer; (“courtage en prêts”)
+
 “Minister” means the Minister of Consumer and Business Services or such other member of the Executive Council to whom the administration of this Act may be assigned under the Executive Council Act; (“ministre”)
+
 “Ministry” means the Ministry of Consumer and Business Services; (“ministère”)
+
 “officer” includes the chair and any vice-chair of the board of directors, the president and any vice-president, the secretary and assistant secretary, the treasurer and assistant treasurer and the general manager and assistant general manager of the corporation or a partner or general manager and assistant general manager of a partnership, any other individual designated as an officer by by-law or resolution or any other individual who performs functions normally performed by an individual occupying such office; (“dirigeant”)
+
 “open credit” means credit or a loan of money under a credit agreement, as defined in Part VII, that,
+
 (a) anticipates multiple advances to be made as requested by the borrower in accordance with the agreement, and
+
 (b) does not define the total amount to be advanced to the borrower under the agreement, although it may impose a credit limit; (“crédit en blanc”)
+
 “payment” means consideration of any kind, including an initiation fee; (“paiement”)
+
 “prescribed” means prescribed by regulations made under this Act; (“prescrit”)
+
 “regulations” means regulations made under this Act; (“règlements”)
+
 “representation” means a representation, claim, statement, offer, request or proposal that is or purports to be,
+
 (a) made respecting or with a view to the supplying of goods or services to consumers, or
+
 (b) made for the purpose of receiving payment for goods or services supplied or purporting to be supplied to consumers; (“assertion”)
+
 “rewards points” means, subject to the regulations, points provided to a consumer under a consumer agreement that can be exchanged for money, goods or services; (“points de récompense”)
+
 “services” means anything other than goods, including any service, right, entitlement or benefit; (“services”)
+
 “supplier” means a person who is in the business of selling, leasing or trading in goods or services or is otherwise in the business of supplying goods or services, including the supply of rewards points, and includes an agent of the supplier and a person who holds themself out to be a supplier or an agent of the supplier; (“fournisseur”)
+
 “trade-in allowance” means the greater of,
+
 (a) the price or value of the consumer’s goods or services as set out in a trade-in arrangement, and
+
 (b) the market value of the consumer’s goods or services when taken in trade under a trade-in arrangement; (“valeur de reprise”)
+
 “trade-in arrangement” means an arrangement under which a consumer agrees to sell his or her own goods or services to the supplier and the supplier accepts the goods or services as all or part of the consideration for supplying goods or services; (“convention de reprise”)
+
 “Tribunal” means the Licence Appeal Tribunal established under the Licence Appeal Tribunal Act, 1999 or such other tribunal as may be prescribed. (“Tribunal”)
 
 ### Application
@@ -68,22 +107,31 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Exceptions
 
 (2) This Act does not apply in respect of,
+
 (a) consumer transactions regulated under the Securities Act;
+
 (b) financial services related to investment products or income securities;
+
 (c) financial products or services regulated under the Insurance Act, the Credit Unions and Caisses Populaires Act, 2020, the Loan and Trust Corporations Act or the Mortgage Brokerages, Lenders and Administrators Act, 2006;
+
 (d) consumer transactions regulated under the Commodity Futures Act;
+
 (e) prescribed professional services that are regulated under a statute of Ontario;
+
 (f) consumer transactions for the purchase, sale or lease of real property, except transactions with respect to time share agreements as defined in section 20; and
+
 (g) consumer transactions regulated under the Residential Tenancies Act, 2006.
 
 ### Same
 
 (3) This Act does not apply to the supply of a public utility or to any charge for the transmission, distribution or storage of gas as defined in the Ontario Energy Board Act, 1998 if such charge has been approved by the Ontario Energy Board.
+
 (4) Repealed: 2010, c. 8, s. 36 (1).
 
 ### Definition
 
 (5) In this section,
+
 “public utility” means water, artificial or natural gas, electrical power or energy, steam or hot water. (“service public”)
 
 ### Agreement for supply of appliances
@@ -219,15 +267,25 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Definition
 
 (9) In this section,
+
 “unsolicited goods or services” means,
+
 (a) goods that are supplied to a consumer who did not request them but does not include,
+
 (i) goods that the recipient knows or ought to know are intended for another person,
+
 (ii) a change to periodically supplied goods, if the change in goods is not a material change, or
+
 (iii) goods supplied under a written future performance agreement that provides for the periodic supply of goods to the recipient without further solicitation, or
+
 (b) services that are supplied to a consumer who did not request them but does not include,
+
 (i) services that were intended for another person from the time the recipient knew or ought to have known that they were so intended,
+
 (ii) a change to ongoing or periodic services that are being supplied, if the change in the services is not a material change,
+
 (iii) services supplied under a written future performance agreement that provides for the ongoing or periodic supply of services to the recipient without further solicitation, or
+
 (iv) any prescribed towing services or vehicle storage services regulated under the Towing and Storage Safety and Enforcement Act, 2021, including services provided under prescribed circumstances.
 
 ### Advertising illegal site
@@ -245,8 +303,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Same
 
 (4) For the purpose of subsection (1), “advertise” includes,
+
 (a) providing, by print, publication, broadcast, telecommunication or distribution by any means, information for the purpose of promoting the use of an internet gaming site;
+
 (b) providing a link in a website for the purpose of promoting the use of an internet gaming site, but does not include a link generated as the result of a search carried out by means of an internet search engine; and
+
 (c) entering into a sponsorship relationship for the purpose of promoting the use of an internet gaming site.
 
 ### Application
@@ -262,22 +323,39 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Examples of false, misleading or deceptive representations
 
 (2) Without limiting the generality of what constitutes a false, misleading or deceptive representation, the following are included as false, misleading or deceptive representations:
+
 1. A representation that the goods or services have sponsorship, approval, performance characteristics, accessories, uses, ingredients, benefits or qualities they do not have.
+
 2. A representation that the person who is to supply the goods or services has sponsorship, approval, status, affiliation or connection the person does not have.
+
 3. A representation that the goods or services are of a particular standard, quality, grade, style or model, if they are not.
+
 4. A representation that the goods are new, or unused, if they are not or are reconditioned or reclaimed, but the reasonable use of goods to enable the person to service, prepare, test and deliver the goods does not result in the goods being deemed to be used for the purposes of this paragraph.
+
 5. A representation that the goods have been used to an extent that is materially different from the fact.
+
 6. A representation that the goods or services are available for a reason that does not exist.
+
 7. A representation that the goods or services have been supplied in accordance with a previous representation, if they have not.
+
 8. A representation that the goods or services or any part of them are available or can be delivered or performed when the person making the representation knows or ought to know they are not available or cannot be delivered or performed.
+
 9. A representation that the goods or services or any part of them will be available or can be delivered or performed by a specified time when the person making the representation knows or ought to know they will not be available or cannot be delivered or performed by the specified time.
+
 10. A representation that a service, part, replacement or repair is needed or advisable, if it is not.
+
 11. A representation that a specific price advantage exists, if it does not.
+
 12. A representation that misrepresents the authority of a salesperson, representative, employee or agent to negotiate the final terms of the agreement.
+
 13. A representation that the transaction involves or does not involve rights, remedies or obligations if the representation is false, misleading or deceptive.
+
 14. A representation using exaggeration, innuendo or ambiguity as to a material fact or failing to state a material fact if such use or failure deceives or tends to deceive.
+
 15. A representation that misrepresents the purpose or intent of any solicitation of or any communication with a consumer.
+
 16. A representation that misrepresents the purpose of any charge or proposed charge.
+
 17. A representation that misrepresents or exaggerates the benefits that are likely to flow to a consumer if the consumer helps a person obtain new or potential customers.
 
 ### Unconscionable representation
@@ -287,13 +365,21 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Same
 
 (2) Without limiting the generality of what may be taken into account in determining whether a representation is unconscionable, there may be taken into account that the person making the representation or the person’s employer or principal knows or ought to know,
+
 (a) that the consumer is not reasonably able to protect his or her interests because of disability, ignorance, illiteracy, inability to understand the language of an agreement or similar factors;
+
 (b) that the price grossly exceeds the price at which similar goods or services are readily available to like consumers;
+
 (c) that the consumer is unable to receive a substantial benefit from the subject-matter of the representation;
+
 (d) that there is no reasonable probability of payment of the obligation in full by the consumer;
+
 (e) that the consumer transaction is excessively one-sided in favour of someone other than the consumer;
+
 (f) that the terms of the consumer transaction are so adverse to the consumer as to be inequitable;
+
 (g) that a statement of opinion is misleading and the consumer is likely to rely on it to his or her detriment; or
+
 (h) that the consumer is being subjected to undue pressure to enter into a consumer transaction.
 
 ### Renegotiation of price
@@ -319,13 +405,17 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Remedy if rescission not possible
 
 (2) A consumer is entitled to recover the amount by which the consumer’s payment under the agreement exceeds the value that the goods or services have to the consumer or to recover damages, or both, if rescission of the agreement under subsection (1) is not possible,
+
 (a) because the return or restitution of the goods or services is no longer possible; or
+
 (b) because rescission would deprive a third party of a right in the subject-matter of the agreement that the third party has acquired in good faith and for value.
 
 ### Notice
 
 (3) A consumer must give notice within one year after entering into the agreement if,
+
 (a) the consumer seeks to rescind an agreement under subsection (1); or
+
 (b) the consumer seeks recovery under subsection (2), if rescission is not possible.
 
 ### Form of notice
@@ -343,7 +433,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Address
 
 (7) The consumer may send or deliver the notice to the person with whom the consumer contracted at the address set out in the agreement or, if the consumer did not receive a written copy of the agreement or the address of the person was not set out in the agreement, the consumer may send or deliver the notice,
+
 (a) to any address of the person on record with the Government of Ontario or the Government of Canada; or
+
 (b) to an address of the person known by the consumer.
 
 ### Commencement of an action
@@ -373,12 +465,19 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Effect of rescission
 
 (14) When a consumer rescinds an agreement under subsection (1), such rescission operates to cancel, as if they never existed,
+
 (a) the agreement;
+
 (b) all related agreements;
+
 (c) all guarantees given in respect of money payable under the agreement;
+
 (d) all security given by the consumer or a guarantor in respect of money payable under the agreement; and
+
 (e) all credit agreements, as defined in Part VII, and other payment instruments, including promissory notes,
+
 (i) extended, arranged or facilitated by the person with whom the consumer reached the agreement, or
+
 (ii) otherwise related to the agreement.
 
 ### Waiver of notice
@@ -400,21 +499,37 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Interpretation
 
 20 (1) In this Part,
+
 “direct agreement” means a consumer agreement that is negotiated or concluded in person at a place other than,
+
 (a) at the supplier’s place of business, or
+
 (b) at a market place, an auction, trade fair, agricultural fair or exhibition; (“convention directe”)
+
 “internet agreement” means a consumer agreement formed by text-based internet communications; (“convention électronique”)
+
 “membership fee” means the amount payable by a consumer for personal development services; (“droit d’adhésion”)
+
 “personal development services” means,
+
 (a) services provided for,
+
 (i) health, fitness, diet or matters of a similar nature,
+
 (ii) modelling and talent, including photo shoots relating to modelling and talent, or matters of a similar nature,
+
 (iii) martial arts, sports, dance or similar activities, and
+
 (iv) other matters as may be prescribed, and
+
 (b) facilities provided for or instruction on the services referred to in clause (a) and any goods that are incidentally provided in addition to the provision of the services; (“services de perfectionnement personnel”)
+
 “remote agreement” means a consumer agreement entered into when the consumer and supplier are not present together; (“convention à distance”)
+
 “time share agreement” means a consumer agreement by which a consumer,
+
 (a) acquires the right to use property as part of a plan that provides for the use of the property to circulate periodically among persons participating in the plan, whether or not the property is located in Ontario, or
+
 (b) is provided with access to discounts or benefits for the future provision of transportation, accommodation or other goods or services related to travel. (“convention de multipropriété”)
 
 ### Limitations on cancellation
@@ -462,7 +577,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Late delivery
 
 26 (1) A consumer may cancel a future performance agreement at any time before delivery under the agreement or the commencement of performance under the agreement if the supplier,
+
 (a) does not make delivery within 30 days after the delivery date specified in the agreement or an amended delivery date agreed to by the consumer in writing; or
+
 (b) does not begin performance of his, her or its obligations within 30 days after the commencement date specified in the agreement or an amended commencement date agreed to by the consumer in writing.
 
 ### Delivery or commencement date not specified
@@ -476,7 +593,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Deemed delivery or performance
 
 (4) For the purposes of subsections (1) and (2), a supplier is considered to have delivered or commenced performance under a future performance agreement if,
+
 (a) delivery was attempted but was refused by the consumer at the time that delivery was attempted or delivery was attempted but not made because no person was available to accept delivery for the consumer on the day for which reasonable notice was given to the consumer that there was to be delivery; or
+
 (b) commencement was attempted but was refused by the consumer at the time that commencement was attempted or commencement was attempted but did not occur because no person was available to enable commencement on the day for which reasonable notice was given to the consumer that commencement was to occur.
 
 ### Time Share Agreements
@@ -498,16 +617,23 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Application
 
 29 (1) Sections 30 to 36 apply in respect of personal development services or proposed personal development services for which,
+
 (a) payment in advance is required; and
+
 (b) the consumer’s total potential payment obligation, excluding cost of borrowing, exceeds a prescribed amount.
 
 ### Exceptions
 
 (2) Sections 30 to 36 do not apply to personal development services that are provided,
+
 (a) on a non-profit or co-operative basis;
+
 (b) by a private club primarily owned by its members;
+
 (c) as an incidental part of the goods or services that are being supplied to the consumer;
+
 (d) by a supplier funded or run by a charitable or municipal organization or by the Province of Ontario or any of its agencies; or
+
 (e) by a golf club.
 
 ### Transition
@@ -565,7 +691,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Initiation fee
 
 33 No supplier of personal development services shall,
+
 (a) charge a consumer more than one initiation fee; or
+
 (b) charge an initiation fee that is greater than twice the annual membership fee.
 
 ### Instalment plans
@@ -603,7 +731,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Duties of trustee
 
 (5) Where a supplier has a trustee under subsection (1),
+
 (a) any notice to the trustee shall be deemed to be notice to the supplier; and
+
 (b) any money payable by the supplier is payable by the trustee to the extent that the trustee holds sufficient trust funds for that purpose.
 
 ### Same
@@ -635,7 +765,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Manner of disclosure
 
 (3) In addition to the requirements set out in section 5, disclosure under this section shall be accessible and shall be available in a manner that ensures that,
+
 (a) the consumer has accessed the information; and
+
 (b) the consumer is able to retain and print the information.
 
 ### Copy of internet agreement
@@ -653,7 +785,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Cancellation of internet agreement
 
 40 (1) A consumer may cancel an internet agreement at any time from the date the agreement is entered into until seven days after the consumer receives a copy of the agreement if,
+
 (a) the supplier did not disclose to the consumer the information required under subsection 38 (1); or
+
 (b) the supplier did not provide to the consumer an express opportunity to accept or decline the agreement or to correct errors immediately before entering into it.
 
 ### Same
@@ -681,7 +815,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Minister’s regulations
 
 (2) In addition to the power of the Lieutenant Governor in Council to make regulations under section 123, the Minister may make regulations,
+
 (a) governing contents of direct agreements and requirements for making, renewing, amending or extending direct agreements;
+
 (b) requiring a supplier under a direct agreement to disclose to the consumer the information specified in the regulation, governing the content of the disclosure and requiring the supplier to take the other measures specified in the regulation to ensure that the consumer has received the disclosure.
 
 ### Cancellation: cooling-off period
@@ -703,7 +839,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Same
 
 (2) The following activities do not constitute solicitation for the purpose of subsection (1):
+
 1. Leaving marketing materials at a consumer’s dwelling or any other place prescribed for the purpose of that subsection without attempting to contact the consumer with respect to any prescribed direct agreement.
+
 2. Such other activities that are prescribed.
 
 ### Agreement void
@@ -713,8 +851,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Related agreements void
 
 (4) Any agreement, including the following, that is related to the consumer’s obligations under the direct agreement is void:
+
 1. A guarantee or security given by a guarantor for the purpose of securing the performance of those obligations.
+
 2. An agreement under which the consumer gives security for the purpose of securing the performance of those obligations.
+
 3. A credit agreement within the meaning of Part VII that the consumer enters into as a borrower in respect of money that the consumer is required to pay under the direct agreement and any other payment instrument that the consumer enters into in that respect.
 
 ### Unsolicited goods or services
@@ -768,8 +909,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Application and transition
 
 (2) This section applies to all consumer agreements under which rewards points are provided,
+
 (a) that existed on October 1, 2016;
+
 (b) that were entered into after October 1, 2016, but before the day this section came into force; or
+
 (c) that are entered into on or after the date this section comes into force.
 
 ### Effect of termination
@@ -809,13 +953,21 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Definitions
 
 48 In this Part,
+
 “consumer report”, “credit information”, “file” and “personal information” each have the same meaning as in section 1 of the Consumer Reporting Act; (“rapport sur le consommateur”, “renseignements sur la solvabilité”, “dossier”, “renseignements personnels”)
+
 “credit repair” means services or goods that are intended to improve a consumer report, credit information, file or personal information, including a credit record, credit history or credit rating; (“redressement de crédit”)
+
 “credit repairer” means,
+
 (a) a supplier of credit repair, or
+
 (b) a person who holds themself out as a person described in clause (a); (“redresseur de crédit”)
+
 “operator” means,
+
 (a) a person who is a credit repairer or a loan broker, or
+
 (b) a supplier who supplies such goods or services as may be prescribed or a person who holds themself out as a supplier of such goods or services. (“exploitant”)
 
 ### Requirements for consumer agreements
@@ -825,8 +977,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Advance payments prohibited
 
 50 (1) No operator shall require or accept any payment or any security for a payment, directly or indirectly, from or on behalf of a consumer unless and until,
+
 (a) in respect of loan brokering, the consumer receives the credit or loan of money that the loan broker has assisted the consumer to obtain;
+
 (b) in respect of credit repair, the credit repairer causes a material improvement to the consumer report, credit information, file, personal information, credit record, credit history or credit rating of the consumer; or
+
 (c) in respect of the supply of such other goods or services as may be prescribed, the prescribed requirements are met.
 
 ### Security arrangement void
@@ -866,8 +1021,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Definitions
 
 55 In this Part,
+
 “estimate” means an estimate of the total cost of work on and repairs to the goods being repaired; (“devis”)
+
 “repairer” means a supplier who works on or repairs vehicles or other prescribed goods; (“réparateur”)
+
 “vehicle” means a motor vehicle as defined in the Highway Traffic Act. (“véhicule”)
 
 ### Estimates
@@ -877,8 +1035,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Same
 
 (2) Despite subsection (1), a repairer may charge for work or repairs without giving an estimate if,
+
 (a) the repairer offers to give the consumer an estimate and the consumer declines the offer of an estimate;
+
 (b) the consumer specifically authorizes the maximum amount that he or she will pay the repairer to make the repairs or do the work; and
+
 (c) the cost charged for the work or repairs does not exceed the maximum amount authorized by the consumer.
 
 ### Estimate fee
@@ -924,7 +1085,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Exception
 
 (3) Subsections (1) and (2) do not apply to,
+
 (a) parts for which there has been no charge for the part or for work on or repair to the part; or
+
 (b) parts replaced under warranty whose return to the manufacturer or distributor is required.
 
 ### Invoice
@@ -978,7 +1141,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### PART VI.1 (S. 65.1-65.21) Repealed: 2021, c. 26, Sched. 3, s. 65 (2).
 
 65.1-65.11 Repealed: 2021, c. 26, Sched. 3, s. 65 (2).
+
 65.12 Repealed: 2021, c. 26, Sched. 3, s. 65 (2).
+
 65.13-65.21 Repealed: 2021, c. 26, Sched. 3, s. 65 (2).
 
 ## PART VII CREDIT AGREEMENTS
@@ -988,35 +1153,57 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Definitions
 
 66 In this Part,
+
 “advance” means value, as prescribed, received by the borrower under a credit agreement; (“avance”)
+
 “annual percentage rate” means the annual percentage rate in respect of a credit agreement that is determined in the prescribed manner; (“taux de crédit”)
+
 “borrower” means a consumer who, as a party to a credit agreement, receives or may receive credit or a loan of money from the other party or who indicates an interest in becoming such a party, but does not include a guarantor; (“emprunteur”)
+
 “brokerage fee” means the payment that a borrower makes or agrees to make to a loan broker who assists the borrower in arranging a credit agreement, and includes an amount deducted from an advance made to the borrower that is paid to the broker; (“frais de courtage”)
+
 “cost of borrowing” means all amounts that a borrower is required to pay under or as a condition of entering into a credit agreement and all prescribed amounts other than,
+
 (a) a payment or repayment of a portion of the principal under the agreement as prescribed, and
+
 (b) prescribed charges; (“coût d’emprunt”)
+
 “credit agreement” means a consumer agreement under which a lender extends credit or lends money to a borrower and includes a supplier credit agreement and a prospective consumer agreement under which an extension of credit, loan of money or supplier credit agreement may occur in the future, but does not include an agreement under which a lender extends credit or lends money on the security of a mortgage of real property or consumer agreements of a prescribed type; (“convention de crédit”)
+
 “default charge” means a charge imposed on a borrower who does not make a payment as it comes due under a credit agreement or who does not comply with any other obligation under a credit agreement, but does not include interest on an overdue payment; (“frais de défaut”)
+
 “fixed credit” means credit or a loan of money under a credit agreement that is not for open credit; (“crédit fixe”)
+
 “floating rate” means a rate that bears a specified mathematical relationship to a public index that meets the prescribed requirements; (“taux variable”)
+
 “lender” means a supplier who is or may become a party to a credit agreement and who extends or may extend credit or lends or may lend money to the borrower and includes a credit card issuer; (“prêteur”)
+
 “optional service” means a service that is offered to a borrower in connection with a credit agreement and that the borrower does not have to accept in order to enter into the agreement; (“service facultatif”)
+
 “supplier credit agreement” means a consumer agreement, other than a consumer agreement involving leases to which Part VIII applies, under which a supplier or an associate of the supplier, extends fixed credit to a consumer to assist the consumer in obtaining goods or services, other than credit or a loan of money, from the supplier; (“convention de crédit fournisseur”)
+
 “supplier creditor” means the supplier or an associate of a supplier in a supplier credit agreement. (“créancier fournisseur”)
 
 ### Non-application of Part
 
 67 (1) This Part and the regulations made under it do not apply to a payday loan agreement as defined in subsection 1 (1) of the Payday Loans Act, 2008 and do not apply to a supplier credit agreement that,
+
 (a) requires the borrower to make payment in full in a single payment within a certain period after the supplier delivers a written invoice or statement of account to the borrower;
+
 (b) is unconditionally interest-free during the period for payment described in clause (a);
+
 (c) does not provide for any non-interest charges;
+
 (d) is unsecured apart from liens on the goods or services supplied through the agreement that may arise by operation of law; and
+
 (e) the supplier cannot assign in the ordinary course of business other than as security.
 
 ### Obligations of loan brokers
 
 (2) If a loan broker assists a consumer to obtain credit or a loan of money and the creditor is not in the business of extending credit or lending money, the obligations that this Part would impose on a lender shall be deemed to be obligations of the loan broker and not the creditor, except as prescribed.
+
 (3) Repealed: 2004, c. 19, s. 7 (17).
+
 (4) Repealed: 2004, c. 19, s. 7 (17).
 
 ### Agreement for credit card
@@ -1034,7 +1221,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Consequence of non-disclosure
 
 70 A borrower under a credit agreement is not liable to pay the lender,
+
 (a) the cost of borrowing under a credit agreement if the borrower receives no statements required by this Part; or
+
 (b) as part of the cost of borrowing, any amount in excess of the amounts specified in the statements that this Part requires to be delivered to the borrower in respect of the agreement.
 
 ### Correcting errors
@@ -1072,8 +1261,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Default charges
 
 75 A lender is not entitled to impose on a borrower under a credit agreement default charges other than,
+
 (a) reasonable charges in respect of legal costs that the lender incurs in collecting or attempting to collect a required payment by the borrower under the agreement;
+
 (b) reasonable charges in respect of costs, including legal costs, that the lender incurs in realizing a security interest or protecting the subject-matter of a security interest after default under the agreement; or
+
 (c) reasonable charges reflecting the costs that the lender incurs because a cheque or other instrument of payment given by the borrower under the agreement has been dishonoured.
 
 ### Prepayment
@@ -1083,6 +1275,7 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Refund or credit to borrower
 
 (2) If a borrower prepays the full outstanding balance under a credit agreement for fixed credit, the lender shall refund to the borrower or credit the borrower with the portion, determined in the prescribed manner, of the amounts that were paid by the borrower under the agreement or added to the balance under the agreement and that form part of the cost of borrowing, other than amounts paid on account of interest.
+
 (3) Repealed: 2004, c. 19, s. 7 (19).
 
 ### Partial prepayment
@@ -1102,7 +1295,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Disclosure of brokerage fee
 
 78 (1) If the borrower pays or is liable to pay a brokerage fee to a loan broker, either directly or through a deduction from an advance, the initial disclosure statement for the credit agreement must,
+
 (a) disclose the amount of the brokerage fee; and
+
 (b) account for the brokerage fee in the annual percentage rate and in the cost of borrowing.
 
 ### Loan broker’s statement
@@ -1160,7 +1355,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Exception
 
 (2) The lender is not required to deliver a statement of account to the borrower at the end of any period when, since the most recent statement of account, the borrower has received no advances and made no payments under the agreement and,
+
 (a) at the end of the period the outstanding balance payable by the borrower under the agreement is zero; or
+
 (b) the borrower is in default and has been notified that the lender has cancelled or suspended his or her right to obtain advances under the agreement and has demanded payment of the outstanding balance.
 
 ### Information about account
@@ -1174,7 +1371,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Change in interest rate
 
 (5) A lender under a credit agreement for open credit who, pursuant to the agreement, changes the interest rate under the agreement shall deliver a disclosure statement to the borrower disclosing the change,
+
 (a) in the next statement of account after the change, in the case of a credit agreement that is not for a credit card; and
+
 (b) at least 30 days before the change, in the case of a credit agreement that is for a credit card where the interest rate is not a floating rate.
 
 ### Other changes
@@ -1184,7 +1383,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Same
 
 (7) If the parties have agreed to amend a credit agreement for open credit in respect of a credit card and the amendment changes any of the information prescribed under subsection 79 (3), the lender shall deliver to the borrower a supplementary disclosure statement setting out the changed information,
+
 (a) within 30 days after the amendment is made, if the change is not a material change, as prescribed; and
+
 (b) at least 30 days before the amendment is made, if the change is a material change, as prescribed.
 
 ### Assignment of Security for Credit
@@ -1232,8 +1433,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Further adjustments
 
 (2) If there is an additional adjustment to the amount to be paid by a consumer under a consumer agreement to which subsection (1) applies after the adjustment under subsection (1), the consumer agreement shall not be adjusted to change,
+
 (a) the percentage rate by which the cost of borrowing is expressed;
+
 (b) the total number of instalments required to pay the total indebtedness; or
+
 (c) the price shown in the consumer agreement.
 
 ## Part VII.1 AGREEMENTS FOR CASHING Government Cheques
@@ -1241,10 +1445,15 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Definitions
 
 85.1 In this Part,
+
 “bank” means a bank, authorized foreign bank or federal credit union as defined in section 2 of the Bank Act (Canada); (“banque”)
+
 “credit union” has the same meaning as in the Credit Unions and Caisses Populaires Act, 2020; (“caisse”, “caisse populaire”)
+
 “federal government” means the Government of Canada and any department, agency, board, commission, official or other body of the Government of Canada; (“gouvernement fédéral”)
+
 “government agency” means the Crown in right of Ontario, an agency of the Crown in right of Ontario, a municipal government, a prescribed municipal agency or any other prescribed entity; (“organisme gouvernemental”)
+
 “government cheque” means a cheque issued to a consumer by the Government of Ontario, a government agency or the federal government. (“chèque du gouvernement”)
 
 ### Application
@@ -1266,9 +1475,13 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Amount of fee
 
 (2) For the purposes of subsection (1), the prescribed amount of the fee for cashing a government cheque may be,
+
 (a) a fixed amount;
+
 (b) a percentage of the face value of the cheque or any other amount calculated on the basis of the face value of the cheque;
+
 (c) an amount that results from the application of any combination of clauses (a) and (b); or
+
 (d) any amount determined by any other prescribed means.
 
 ### Statement when cashing cheques
@@ -1280,17 +1493,25 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Definitions
 
 86 In this Part,
+
 “lease” means a consumer agreement for the lease of goods, other than a consumer agreement for the lease of goods in connection with a residential tenancy agreement, and “lessor” and “lessee” have a corresponding meaning; (“bail”, “bailleur”, “preneur”)
+
 “lease term” means the period during which the lessee is entitled to retain possession of the leased goods; (“durée du bail”)
+
 “residual obligation lease” means a lease under which the lessor may require the lessee at the end of the lease term to pay the lessor an amount based in whole or in part on the difference, if any, between,
+
 (a) the estimated wholesale value of the leased goods at the end of the lease term, and
+
 (b) the realizable value of the leased goods at the end of the lease term. (“bail à obligation résiduelle”)
 
 ### Application of Part
 
 87 This Part applies to,
+
 (a) leases for a fixed term of four months or more;
+
 (b) leases for an indefinite term or that are renewed automatically until one of the parties takes positive steps to terminate them; and
+
 (c) residual obligation leases.
 
 ### Representations
@@ -1300,7 +1521,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Disclosure statement
 
 89 (1) Every lessor shall deliver a disclosure statement for a lease to the lessee before the earlier of,
+
 (a) the time that the lessee enters into the lease; and
+
 (b) the time that the lessee makes any payment in connection with the lease.
 
 ### Contents of statement
@@ -1340,7 +1563,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Address
 
 (5) The consumer may send or deliver the notice to the address set out in a consumer agreement or, if the consumer did not receive a written copy of a consumer agreement or the address was not set out in the written agreement, the consumer may send or deliver the notice,
+
 (a) to any address of the supplier on record with the Government of Ontario or the Government of Canada; or
+
 (b) to an address of the supplier known by the consumer.
 
 ### Consumer agreements not binding
@@ -1362,18 +1587,27 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Effect of cancellation
 
 95 The cancellation of a consumer agreement in accordance with this Act operates to cancel, as if they never existed,
+
 (a) the consumer agreement;
+
 (b) all related agreements;
+
 (c) all guarantees given in respect of money payable under the consumer agreement;
+
 (d) all security given by the consumer or a guarantor in respect of money payable under the consumer agreement; and
+
 (e) all credit agreements, as defined in Part VII, and other payment instruments, including promissory notes,
+
 (i) extended, arranged or facilitated by the person with whom the consumer reached the consumer agreement, or
+
 (ii) otherwise related to the consumer agreement.
 
 ### Obligations on cancellation
 
 96 (1) If a consumer cancels a consumer agreement, the supplier shall, in accordance with the prescribed requirements,
+
 (a) refund to the consumer any payment made under the agreement or any related agreement; and
+
 (b) return to the consumer in a condition substantially similar to when they were delivered all goods delivered under a trade-in arrangement or refund to the consumer an amount equal to the trade-in allowance.
 
 ### Repossession or return of goods
@@ -1415,7 +1649,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Right of action
 
 (3) The consumer may commence an action in accordance with section 100 to recover,
+
 (a) the payment of a fee or an amount that was charged by the supplier in contravention of this Act; or
+
 (b) a payment that was received by the supplier in contravention of this Act.
 
 ### Non-supplier
@@ -1429,9 +1665,13 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Types of payment
 
 (2) Subsection (1) applies to,
+
 (a) a payment in respect of a consumer agreement that has been cancelled under this Act or in respect of any related agreement;
+
 (b) a payment that was received in contravention of this Act;
+
 (c) a payment in respect of a fee or an amount that was charged in contravention of this Act; and
+
 (d) a payment that was collected in respect of unsolicited goods or services for which payment is not required under section 13.
 
 ### Timing of request
@@ -1445,9 +1685,13 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Obligations of credit card issuer
 
 (5) The credit card issuer,
+
 (a) shall, within the prescribed period, acknowledge the consumer’s request; and
+
 (b) if the request meets the requirements of subsection (4), shall, within the prescribed period,
+
 (i) cancel or reverse the credit card charge and any associated interest or other charges, or
+
 (ii) after having conducted an investigation, send a written notice to the consumer explaining the reasons why the credit card issuer is of the opinion that the consumer is not entitled to cancel the consumer agreement or to demand a refund under this Act.
 
 ### Right of action
@@ -1465,7 +1709,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Judgment
 
 (2) If a consumer is successful in an action, unless in the circumstances it would be inequitable to do so, the court shall order that the consumer recover,
+
 (a) the full payment to which he or she is entitled under this Act; and
+
 (b) all goods delivered under a trade-in arrangement or an amount equal to the trade-in allowance.
 
 ### Same
@@ -1481,8 +1727,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Powers of Minister
 
 102 (1) The Minister may,
+
 (a) disseminate information for the purpose of educating and advising consumers;
+
 (b) provide information to consumers about the use of alternate dispute resolution techniques as a means of resolving disputes arising out of consumer transactions; and
+
 (c) enforce this Act and other legislation for the protection of consumers.
 
 ### Delegation of powers and duties
@@ -1496,7 +1745,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Enforcement agreements
 
 (4) For the purpose of enforcing this Act and other legislation for the protection of consumers, the Minister may,
+
 (a) enter into agreements with law enforcement agencies in Canada and other jurisdictions; and
+
 (b) for the purposes of clause (a), share and exchange information concerning breaches or possible breaches of this Act or other legislation for the protection of consumers.
 
 ### Duties of Director
@@ -1506,11 +1757,17 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Same
 
 (2) The Director shall maintain, in accordance with the prescribed requirements, a public record of the following:
+
 1. Undertakings of voluntary compliance entered into under this Act.
+
 1.1 Policies established under subsection (2.1).
+
 2. A failure by a supplier to provide a document or other evidence as required by the Ministry under subsection 105 (4).
+
 3. Orders made under section 109.
+
 3.1 Compliance orders issued under this Act.
+
 4. Any other prescribed document or information.
 
 ### Policies
@@ -1520,14 +1777,19 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Additional information
 
 (2.2) If information is required to be made public with respect to a supplier under subsection (2) or the regulations, the Director shall include in the public record in respect of the supplier, all of the following information, if known to the Director:
+
 1. All of the supplier’s business names and business locations.
+
 2. Any other prescribed information about the supplier’s business.
 
 ### Agreements for shared information
 
 (2.3) The Director may enter into an agreement with any of the following entities for that entity to disclose information to the Ministry for the purpose of making the information publicly available for the purposes of this section:
+
 1. Another ministry of the Government of Ontario, a corporation that administers legislation on behalf of that Government or an agency, board or commission established under an Act of Ontario.
+
 2. A municipality in Ontario or one of its agencies, boards or commissions.
+
 3. The Government of Canada or one of its ministries, departments, agencies, boards or commissions.
 
 ### Public record
@@ -1559,13 +1821,17 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Definitions
 
 104.1 In this Part,
+
 “inspector” means a person appointed or designated under section 105.1; (“inspecteur”)
+
 “investigator” means an investigator appointed under subsection 106 (1). (“enquêteur”)
 
 ### Ministry receives complaints and makes inquiries
 
 105 (1) The Ministry may,
+
 (a) receive complaints concerning conduct that may be in contravention of this Act, of other legislation for the protection of consumers or of any other prescribed Act, whether the conduct constitutes an offence or not; and
+
 (b) make inquiries, gather information and attempt to mediate or resolve complaints, as appropriate, concerning any matter that comes to its attention that may be in contravention of this Act, of other legislation for the protection of consumers or of any other prescribed Act, whether the matter constitutes an offence or not.
 
 ### Mediation
@@ -1603,7 +1869,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Inspectors
 
 105.1 The Director may, in writing,
+
 (a) appoint persons as inspectors for the purposes of this Act; and
+
 (b) designate persons, including persons engaged as inspectors or investigators for the purposes of any other Act, as inspectors for the purposes of this Act or for any specific purposes under this Act provided for in the designation.
 
 ### Inspection powers
@@ -1629,10 +1897,15 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Powers of inspector
 
 (6) An inspector conducting an inspection may,
+
 (a) examine a record or other thing that the inspector thinks may be relevant to the inspection;
+
 (b) require the production of a record or other thing that the inspector thinks may be relevant to the inspection;
+
 (c) remove for review and copying a record or other thing that the inspector thinks may be relevant to the inspection;
+
 (d) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place; and
+
 (e) question any person on matters the inspector thinks may be relevant to the inspection.
 
 ### Written demand
@@ -1654,7 +1927,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Additional contact
 
 (10.1) In addition to the power to enter a place under this section, an inspector may, by any means, contact any person who is in control of the operations of a supplier and may exercise the powers that he or she has to conduct an inspection under this section with respect to the supplier or person, without entering any place, if the inspector establishes that,
+
 (a) the supplier is subject to this Act; and
+
 (b) the person is in control of the operations of the supplier.
 
 ### Identification
@@ -1672,20 +1947,31 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Obstruction
 
 (11) No person shall,
+
 (a) hinder, obstruct or interfere with or attempt to hinder, obstruct or interfere with an inspector conducting an inspection;
+
 (b) refuse to answer questions on matters that an inspector thinks may be relevant to an inspection;
+
 (c) provide an inspector with information on matters the inspector thinks may be relevant to an inspection that the person knows to be false or misleading; or
+
 (d) prevent or attempt to prevent an inspector from making inquiries of any person separate and apart from another person under clause (6) (e).
 
 ### Delegation of order-making powers
 
 105.3 (1) The Director may delegate to an inspector, subject to any conditions set out in the delegation, the power to make any proposal or order that the Director may make under the following sections and a proposal or order made by an inspector pursuant to such a delegation is, for all purposes, as effective as if it were made by the Director:
+
 1. Section 109.
+
 2. Section 110.
+
 3. Section 111.
+
 4. Section 112.
+
 5. Section 114.
+
 6. Section 115.
+
 7. Section 119.
 
 ### In writing
@@ -1711,24 +1997,35 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Search warrant
 
 107 (1) Upon application made without notice by an investigator, a justice of the peace may issue a warrant, if he or she is satisfied on information under oath that there are reasonable grounds for believing that,
+
 (a) an inspector is being prevented from doing anything the inspector is entitled to do under section 105.2; or
+
 (b) a person has contravened or is contravening this Act or the regulations, and there is,
+
 (i) in any building, dwelling, receptacle or place anything relating to the contravention of this Act or the regulations, or
+
 (ii) information or evidence relating to the contravention of this Act or the regulations that may be obtained through the use of an investigative technique or procedure or the doing of anything described in the warrant.
 
 ### Powers under warrant
 
 (2) Subject to any conditions contained in it, a warrant obtained under subsection (1) authorizes an investigator,
+
 (a) to enter or access the building, dwelling, receptacle or place specified in the warrant and examine and seize anything described in the warrant;
+
 (b) to make reasonable inquiries of any person, orally or in writing, with respect to anything relevant to the investigation;
+
 (c) to require a person to produce the information or evidence described in the warrant and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the information or evidence described in the warrant;
+
 (d) to use any data storage, processing or retrieval device or system used in carrying on business in order to produce information or evidence described in the warrant, in any form; and
+
 (e) to use any investigative technique or procedure or do anything described in the warrant.
 
 ### Entry of dwelling
 
 (3) Despite subsection (2), an investigator shall not exercise the power under a warrant to enter a place, or part of a place, used as a dwelling, unless,
+
 (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice of the peace authorizes the entry into the dwelling.
 
 ### Conditions on warrant
@@ -1798,7 +2095,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### False, misleading or deceptive representation
 
 109 (1) If the Director believes on reasonable grounds that any person is making a false, misleading or deceptive representation in respect of any consumer transaction in an advertisement, circular, pamphlet or material published by any means, the Director may,
+
 (a) order the person to cease making the representation; and
+
 (b) order the person to retract the representation or publish a correction of equal prominence to the original publication.
 
 ### Real property
@@ -1832,7 +2131,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Powers of Tribunal
 
 (9) After holding the hearing, the Tribunal may,
+
 (a) confirm the order with the amendments, if any, that the Tribunal considers proper to give effect to the purposes of this Act; or
+
 (b) set aside the order.
 
 ### Same
@@ -1846,15 +2147,21 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Freeze order
 
 110 (1) If the conditions in subsection (2) are met, the Director may, in writing,
+
 (a) order any person having on deposit or controlling any assets or trust funds of a supplier or former supplier to hold those funds or assets;
+
 (b) order a supplier or former supplier to refrain from withdrawing any asset or trust fund from a person having them on deposit or controlling them; or
+
 (c) order a supplier or former supplier to hold any asset or trust fund of a consumer or other person in trust for the person entitled to it.
 
 ### Conditions
 
 (2) The Director may make an order under subsection (1) if he or she believes that it is advisable for the protection of consumers and,
+
 (a) a search warrant has been issued under this Act;
+
 (b) an order has been made under section 111 or 112; or
+
 (c) there has been an undertaking of voluntary compliance under section 114.
 
 ### Person engaged in unfair practice
@@ -1872,15 +2179,21 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Exception
 
 (6) Subsection (1) does not apply if the person files with the Director, in such manner and amount as the Director determines,
+
 (a) a personal bond accompanied by collateral security;
+
 (b) a bond of an insurer licensed under the Insurance Act to write surety and fidelity insurance;
+
 (c) a bond of a guarantor accompanied by collateral security; or
+
 (d) another prescribed form of security.
 
 ### Application to court
 
 (7) An application may be made to the Superior Court of Justice for a determination in respect of the disposition of an asset or trust fund,
+
 (a) by a person in receipt of an order under subsection (1), if that person is in doubt as to whether the order applies to the asset or trust fund; or
+
 (b) by a person who claims an interest in the asset or trust fund subject to the order.
 
 ### Notice
@@ -1894,7 +2207,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Disposition by Tribunal
 
 (10) The Tribunal shall dispose of the application after a hearing and may cancel the order or discharge the registration in whole or in part, if the Tribunal finds,
+
 (a) that the order or registration is not required in whole or in part for the protection of consumers or of other persons having an interest in the land; or
+
 (b) that the interests of other persons are unduly prejudiced by the order or registration.
 
 ### Parties
@@ -1960,13 +2275,17 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Expiration of order
 
 (4) If a hearing by the Tribunal is required,
+
 (a) the order expires 15 days after the written request for a hearing is received by the Tribunal; or
+
 (b) the Tribunal may extend the time of expiration until the hearing is concluded, if a hearing is commenced within the 15-day period referred to in clause (a).
 
 ### Same
 
 (5) Despite subsection (4), if it is satisfied that the conduct of the person named in the order has delayed the commencement of the hearing, the Tribunal may extend the time of the expiration for the order,
+
 (a) until the hearing commences; and
+
 (b) once the hearing commences, until the hearing is concluded.
 
 ### Parties
@@ -1980,11 +2299,17 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Undertaking of voluntary compliance
 
 114 (1) At any time before all rights of appeal are exhausted or the time for appeals has expired without an appeal being commenced, any person against whom the Director has made or is considering making an order to comply under section 111 or 112 may enter into a written undertaking of voluntary compliance,
+
 (a) to not engage in the specified act after the date of the undertaking;
+
 (a.1) to refund to a consumer who cancelled a consumer agreement any payment made under the agreement or any related agreement;
+
 (b) to provide compensation to any consumer who has suffered a loss;
+
 (c) to publicize the undertaking or the actions being undertaken as a result of the undertaking;
+
 (d) to pay any cost incurred in investigating the person’s activities, any legal costs incurred in relation to the person’s activities and any cost associated with the undertakings; and
+
 (e) to take any such action as the Director considers appropriate in the circumstances.
 
 ### Undertaking deemed order
@@ -1994,9 +2319,13 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Security for any undertaking
 
 (3) The Director may require any person who is giving an undertaking of voluntary compliance to provide, in such manner and amount as the Director determines, security in the form of,
+
 (a) a personal bond accompanied by collateral security;
+
 (b) a bond of an insurer licensed under the Insurance Act to write surety and fidelity insurance;
+
 (c) a bond of a guarantor accompanied by collateral security; or
+
 (d) another prescribed form of security.
 
 ### Release of security
@@ -2018,18 +2347,31 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Offences
 
 116 (1) A person is guilty of an offence if the person,
+
 (a) fails to comply with any order, direction or other requirement under this Act; or
+
 (b) contravenes or fails to comply with,
+
 (i) in respect of Part II, Consumer Rights and Warranties, subsection 10 (1), section 12, subsections 13 (2) and (7) and subsections 13.1 (1) and (2),
+
 (ii) in respect of Part III, Unfair Practices, subsection 17 (1),
+
 (iii) in respect of Part IV, Rights and Obligations Respecting Specific Consumer Agreements, subsection 30 (2), clauses 33 (a) and (b), subsections 34 (1) and (2), 36 (1), 43.1 (1) and 47.1 (1), (5) and (6),
+
 (iv) in respect of Part V, Sectors Where Advance Fee Prohibited, section 49, subsection 50 (1) and section 53,
+
 (v) in respect of Part VI, Repairs to Motor Vehicles and Other Goods, subsections 56 (1), 57 (1) and (3), 58 (1) and (2), section 60, subsections 61 (1) and (2) and sections 62 and 64,
+
 (v.1) Repealed: 2021, c. 26, Sched. 3, s. 65 (3),
+
 (vi) in respect of Part VII, Credit Agreements, section 71, subsections 72 (2) and 76 (2), section 77 and subsections 78 (1) and (2), 79 (1), 80 (1), (2), (3) and (5), 81 (1), (3), (5), (6) and (7) and 82 (1) and (2),
+
 (vi.1) in respect of Part VII.1, Agreements for Cashing Government Cheques, section 85.3, subsection 85.4 (1) and section 85.5,
+
 (vii) in respect of Part VIII, Leasing, section 88 and subsection 89 (1),
+
 (viii) in respect of Part IX, Procedures for Consumer Remedies, subsections 96 (1), 98 (2) and 99 (5), and
+
 (ix) in respect of Part XI, General, subsection 105.2 (11).
 
 ### Same
@@ -2075,8 +2417,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Liens on personal property
 
 (2) If the lien created by the Director under subsection (1) relates to personal property,
+
 (a) the Personal Property Security Act, except Part V, applies with necessary modifications to the lien, despite clause 4 (1) (a) of that Act;
+
 (b) the lien shall be deemed to be a security interest that has attached for the purposes of the Personal Property Security Act; and
+
 (c) the Director may perfect the security interest referred to in clause (b) for the purposes of the Personal Property Security Act by the registration of a financing statement under that Act.
 
 ### Liens and charges on real property
@@ -2094,18 +2439,27 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Discharge of lien
 
 (6) Within 10 days after the Director has knowledge of the payment in full of the fine, the Director shall,
+
 (a) discharge the registration of any financing statement registered under clause (2) (c); and
+
 (b) register a discharge of a charge created on registration of a lien under subsection (3).
 
 ### Confidentiality
 
 120 (1) A person who obtains information in the course of exercising a power or carrying out a duty related to the administration of this Act or the regulations shall preserve secrecy with respect to the information and shall not communicate the information to any person except,
+
 (a) as may be required in connection with a proceeding under this Act or in connection with the administration of this Act or the regulations;
+
 (b) to a ministry, department or agency of a government engaged in the administration of legislation that protects consumers or to any other entity to which the administration of legislation that protects consumers has been assigned;
+
 (b.1) as authorized under the Regulatory Modernization Act, 2007;
+
 (c) to a prescribed entity or organization, if the purpose of the communication is consumer protection;
+
 (d) to a law enforcement agency;
+
 (e) to his, her or its counsel; or
+
 (f) with the consent of the person to whom the information relates.
 
 ### Testimony
@@ -2115,8 +2469,11 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Service by the Director of notice or order
 
 121 (1) Any notice or order required to be given or served by the Director under this Act is sufficiently given or served if,
+
 (a) delivered personally;
+
 (b) sent by registered mail; or
+
 (c) sent by another manner if the Director can prove receipt of the notice or order.
 
 ### Deemed service
@@ -2130,7 +2487,9 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Certificate as evidence
 
 122 (1) For all purposes in any proceeding, a statement purporting to be certified by the Director is, without proof of the office or signature of the Director, admissible in evidence as proof in the absence of evidence to the contrary, of the facts stated in it in relation to,
+
 (a) the filing or non-filing of any document or material required or permitted to be filed; or
+
 (b) the time when the facts upon which the proceedings are based first came to the knowledge of the Director.
 
 ### Same
@@ -2144,23 +2503,37 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Lieutenant Governor in Council regulations: general
 
 123 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing anything in this Act that is referred to as being prescribed;
+
 (b) prescribing the form and content of consumer agreements, notices, invoices or any documents required under this Act;
+
 (c) exempting any supplier, consumer transaction, goods or services, any combination of any of them or any class of any of them from any provision of this Act or the regulations, and prescribing conditions or restrictions that apply in respect of an exemption;
+
 (d) governing trade-ins and trade-in arrangements made under consumer agreements or arising from consumer agreements;
+
 (e) respecting what constitutes a material change in the periodic supply or ongoing supply of goods or services;
+
 (f) requiring suppliers to make returns and furnish information to the Director as is prescribed;
+
 (g) requiring information that is required or permitted to be furnished to the Director or that is contained in any form or return to be verified by affidavit;
+
 (h) governing the application of the Electronic Commerce Act, 2000 or any part of that Act to this Act;
+
 (i) providing for any transitional matter necessary for the effective implementation of this Act or the regulations;
+
 (j) defining, for the purposes of this Act and the regulations, any word or expression that is used in this Act but not defined in this Act;
+
 (k) clarifying the definition of “rewards points” in section 1 and specifying things that do or do not constitute rewards points for the purposes of this Act.
 
 ### Lieutenant Governor in Council regulations: Part I
 
 (2) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing a tribunal for the purposes of this Act;
+
 (b) prescribing professional services that are exempted from the application of this Act;
+
 (c) for the purposes of section 4, excluding the application of provisions of this Act or of the regulations to consumer agreements that meet the criteria of more than one type of agreement to which this Act applies.
 
 ### Lieutenant Governor in Council regulations: Part II
@@ -2170,100 +2543,163 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### Lieutenant Governor in Council regulations: Part III
 
 (4) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing requirements for the notice to rescind an agreement or the notice to seek recovery under Part III;
+
 (b) prescribing the period in which to respond to a consumer who has given notice to rescind an agreement or notice to seek recovery.
 
 ### Lieutenant Governor in Council regulations: Part IV
 
 (5) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing the total potential payment obligations, excluding the cost of borrowing, that must be exceeded for Part IV to apply to consumer agreements included in that Part;
+
 (b) prescribing the circumstances under which the effect of the cancellation of a consumer agreement to which Part IV applies and the obligations arising as a result of the cancellation of the agreement will be limited and prescribing the nature of the limitations;
+
 (c) for consumer agreements to which Part IV applies, governing disclosure, contents of consumer agreements and requirements for making, renewing, amending or extending consumer agreements;
+
 (d) prescribing matters as being personal development services;
+
 (e) for the purposes of Part IV, governing future performance agreements including gift card agreements, and governing time share agreements, personal development services agreements, internet agreements, direct agreements and remote agreements;
+
 (f) imposing restrictions, including prohibiting expiry dates, on future performance agreements, including gift card agreements;
+
 (g) governing the fees, other than the payment under a future performance agreement, including a gift card agreement, for supplying goods or services under the agreement, that the supplier under the agreement may charge or is prohibited from charging to the consumer;
+
 (h) allowing the consumer under a future performance agreement, including a gift card agreement, to cancel the agreement if the supplier does not disclose the matters with respect to the agreement that the regulations specify and governing the cancellation of the agreement;
+
 (i) providing that any provision of this Act or the regulations applies to future performance agreements, including gift card agreements, with the modifications specified in the regulations;
+
 (j) governing the transfer of rewards points among consumers, including upon death;
+
 (k) governing the inactivity of consumer agreements under which rewards points are provided and of the rewards points themselves;
+
 (l) governing the termination of consumer agreements under which rewards points are provided and of the rewards points themselves;
+
 (m) governing the application of section 47.1 with respect to rewards points and, without restricting the generality of the foregoing, providing for and prescribing anything that that section refers to as being prescribed or provided for in the regulations and governing transitional matters.
 
 ### Lieutenant Governor in Council regulations: Part V
 
 (6) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing goods and services for the purposes of Part V;
+
 (b) prescribing conditions that must be met to permit payment for the supply of prescribed goods and services;
+
 (c) prescribing requirements for making an agreement to which Part V applies;
+
 (d) prescribing prohibited representations for the purposes of Part V;
+
 (e) for the purposes of Part V, governing consumer agreements for loan brokering, consumer agreements for credit repair and other consumer agreements to which Part V applies.
 
 ### Lieutenant Governor in Council regulations: Part VI
 
 (7) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing goods for the purposes of Part VI;
+
 (b) governing estimates for the purposes of Part VI, including prescribing requirements with which estimates must comply;
+
 (c) governing authorizations for the purposes of Part VI, including prescribing requirements that must be met in recording an authorization;
+
 (d) prescribing signs that a repairer must post, prescribing requirements for posting the signs and prescribing the contents of the signs and the manner in which the contents are to be presented;
+
 (e) governing invoices for the purposes of Part VI, including prescribing the information to be contained in an invoice and the manner in which the information is to be presented;
+
 (f) prescribing the minimum warranty for new and reconditioned parts and for labour for the purposes of subsection 63 (1).
+
 (7.1) Repealed: 2021, c. 26, Sched. 3, s. 65 (4).
 
 ### Lieutenant Governor in Council regulations: Part VII
 
 (8) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing what constitutes value received by a borrower under a credit agreement;
+
 (b) prescribing the manner in which to determine the annual percentage rate;
+
 (c) prescribing payments and repayments and charges that are not included in the cost of borrowing;
+
 (d) excluding types of consumer agreements from credit agreements;
+
 (e) prescribing requirements that must be met by an index for the index to qualify as a public index;
+
 (f) exempting obligations of a lender from application to a loan broker if the loan broker assists a consumer to obtain credit or a loan of money and the creditor is not in the business of extending credit or lending money;
+
 (g) prescribing requirements for correcting errors in statements of account issued under credit agreements for open credit;
+
 (h) for the purpose of subsection 76 (2), prescribing the manner of determining the portion to be refunded or credited to a borrower, in respect of each amount that forms part of the cost of borrowing, other than amounts paid on account of interest;
+
 (i) prescribing requirements for representations made in respect of credit agreements;
+
 (j) prescribing information that is to be included in a loan broker’s statement to a borrower;
+
 (j.1) governing applications for credit cards;
+
 (k) governing disclosure statements under Part VII;
+
 (l) prescribing the information to be included in a statement of account for a credit agreement for open credit;
+
 (l.1) governing information and statements, other than disclosure statements under Part VII, that a lender must provide to a borrower;
+
 (m) prescribing whether or not a change is a material change;
+
 (n) prescribing the maximum liability of a borrower under a credit agreement for open credit in cases where the borrower has not authorized the charges imposed;
+
 (o) governing credit agreements for the purposes of Part VII.
 
 ### Lieutenant Governor in Council regulations: Part VIII
 
 (9) The Lieutenant Governor in Council may make regulations,
+
 (a) in respect of representations made about the cost of a lease;
+
 (a.1) prescribing the manner of determining the annual percentage rate in respect of a lease;
+
 (b) governing disclosure statements under Part VIII, including requiring the disclosure of the annual percentage rate in respect of a lease and prescribing other information that the disclosure statement must disclose;
+
 (b.1) prescribing and governing remedies that a consumer may exercise if the consumer does not receive a disclosure statement for a lease as required under subsection 89 (1) or if the disclosure statement received by the consumer does not comply with certain requirements of subsection 89 (2) or the regulations;
+
 (b.2) governing leases for the purposes of Part VIII;
+
 (c) prescribing the manner of determining the maximum liability of a lessee at the end of a term of a residual obligation lease;
+
 (d) limiting the amount of compensation that a lessor may charge the lessee for termination of the lease before the end of the lease term.
 
 ### Lieutenant Governor in Council regulations: Part IX
 
 (10) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing requirements for a consumer notice cancelling a consumer agreement or requesting a remedy from a supplier;
+
 (b) governing obligations of suppliers and consumers arising as the result of the cancellation of a consumer agreement;
+
 (c) for the purpose of subsections 98 (2) and (4), prescribing the period of time within which a supplier or other person must refund to a consumer a fee or an amount that was charged in contravention of this Act or a payment that was received in contravention of this Act;
+
 (d) in respect of cancelling or reversing credit card charges;
+
 (e) prescribing other payment systems for the purposes of section 99.
 
 ### Lieutenant Governor in Council regulations: Part X
 
 (11) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing requirements for the public record that must be maintained by the Director and prescribing documents and information that must be kept in such a record;
+
 (b) prescribing information that shall be published by the Director.
 
 ### Lieutenant Governor in Council regulations: Part XI
 
 (12) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing Acts under which the Ministry may receive complaints and make inquiries;
+
 (b) prescribing other jurisdictions from which statements may be certified;
+
 (c) prescribing forms of security;
+
 (d) prescribing entities or organizations to which confidential matters may be disclosed;
+
 (e) authorizing the Director to conduct quality assurance programs in relation to the administration of this Act or the regulations and to use information collected under this Act for the purposes of those programs.
 
 ### Retroactive
@@ -2273,5 +2709,7 @@ including, without restricting the generality of the foregoing, a casino game, c
 ### General or particular
 
 (14) A regulation under this section may be general or particular in its application.
+
 124 Omitted (provides for coming into force of provisions of this Act).
+
 125 Omitted (enacts short title of this Act).

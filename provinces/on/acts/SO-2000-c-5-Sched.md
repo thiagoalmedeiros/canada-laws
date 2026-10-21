@@ -6,21 +6,24 @@ language: en
 type: act
 document_date: "2021-06-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/00t05"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Town of Moosonee Act, 2000
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/00t05) before relying on it.
 
 S.O. 2000, c. 5, Sched.
 
 ### Definitions
 
 1 In this Act,
+
 “Board” means The Moosonee Development Area Board as it exists on December 31, 2000; (“Conseil”)
+
 “municipal area” means the area that comprises the geographic area of jurisdiction of The Moosonee Development Area Board on December 31, 2000; (“secteur municipal”)
+
 “town” means The Corporation of the Town of Moosonee incorporated by this Act. (“ville”)
 
 ### Corporation
@@ -42,7 +45,9 @@ S.O. 2000, c. 5, Sched.
 ### Rules – 2000 election
 
 (2) The following special rules apply to the members of the town council elected in the 2000 regular election:
+
 1. Despite section 6 of the Municipal Elections Act, 1996, the member’s terms of office begin on January 1, 2001.
+
 2. Despite subsection 49 (1) of the Municipal Act, the first meeting of the council shall be held on or before January 9, 2001.
 
 ### Dissolution
@@ -92,4 +97,5 @@ S.O. 2000, c. 5, Sched.
 ### Conflicts
 
 (2) In the event of a conflict between a regulation made under subsection (1) and this or any other Act, the regulation prevails.
+
 8 Omitted (enacts short title of this Act).

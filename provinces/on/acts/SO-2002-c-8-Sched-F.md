@@ -6,19 +6,20 @@ language: en
 type: act
 document_date: "2021-10-19"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02o08f"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Colleges of Applied Arts and Technology Act, 2002
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02o08f) before relying on it.
 
 S.O. 2002, c. 8, Sched. F
 
 ### Definition
 
 1 In this Act,
+
 “Minister” means the Minister of Training, Colleges and Universities or such other member of the Executive Council to whom the administration of this Act may be assigned under the Executive Council Act.
 
 ### Colleges
@@ -40,11 +41,17 @@ S.O. 2002, c. 8, Sched. F
 ### Carrying out its objects
 
 (3) In carrying out its objects, a college may undertake a range of education-related and training-related activities, including but not limited to,
+
 (a) entering into partnerships with business, industry and other educational institutions;
+
 (b) offering its courses in the French language where the college is authorized to do so by regulation;
+
 (c) adult vocational education and training;
+
 (d) basic skills and literacy training;
+
 (e) apprenticeship in-school training; and
+
 (f) applied research.
 
 ### Crown agent
@@ -54,6 +61,7 @@ S.O. 2002, c. 8, Sched. F
 ### Boards of governors
 
 3 (1) There shall be a board of governors for each college established under this Act consisting of such members as may be prescribed by regulation.
+
 (2) Repealed: 2006, c. 19, Sched. S, s. 2 (2).
 
 ### Policy directives
@@ -75,16 +83,23 @@ S.O. 2002, c. 8, Sched. F
 ### Intervention
 
 5 (1) The Minister may intervene into the affairs of a college or a subsidiary of a college in such manner and under such conditions as may be prescribed, if the Minister is of the opinion that,
+
 (a) the college is not providing services in accordance with this Act or the regulations or with any other Act that applies to the college;
+
 (b) the college fails to follow a policy directive under section 4; or
+
 (c) it is in the public interest to do so.
 
 ### Public interest
 
 (2) In determining whether an intervention is in the public interest, the Minister may take into consideration, among other things,
+
 (a) the quality of the management and administration of the college;
+
 (b) the college’s utilization of its financial resources for the management and delivery of core education and training services;
+
 (c) the accessibility to education and training services in the community where the college is located; and
+
 (d) the quality of education and training services provided to students.
 
 ### Information
@@ -106,8 +121,11 @@ S.O. 2002, c. 8, Sched. F
 ### Functions
 
 (3) The Council,
+
 (a) shall exercise the powers and perform the functions and duties assigned to it under the Colleges Collective Bargaining Act, 2008;
+
 (b) subject to subsection (7), shall establish, on behalf of the colleges and in consultation with them, the terms and conditions of employment, except superannuation, for persons employed by colleges who are not in a bargaining unit established under the Colleges Collective Bargaining Act, 2008; and
+
 (c) may be the policy holder for insured benefit plans for persons employed by colleges.
 
 ### Transition, insured benefit plan policy
@@ -133,7 +151,9 @@ S.O. 2002, c. 8, Sched. F
 ### Composition of board
 
 (9) The board of directors shall consist of,
+
 (a) the chair of the board of governors of each college or, if the chair of a college so directs, the vice-chair of the board of governors of the college;
+
 (b) the president of each college.
 
 ### Same
@@ -151,7 +171,9 @@ S.O. 2002, c. 8, Sched. F
 ### Annual report
 
 (13) Within 90 days after the end of each fiscal year, the Council shall provide the board of governors of each college with,
+
 (a) a report on its activities in respect of the year;
+
 (b) its audited financial statements for the year.
 
 ### Assessments to cover expenses
@@ -165,17 +187,29 @@ S.O. 2002, c. 8, Sched. F
 ### Regulations
 
 8 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) establishing, naming and governing colleges, including varying or expanding the objects or responsibilities of any college, and prescribing any other matter related to the manner in which a college may carry out its affairs;
+
 (b) providing for the appointment, composition, powers and duties of boards of governors and the removal of any or all members of any board of governors upon such conditions and subject to such processes as may be prescribed, including delegating any of these powers to the council established under clause (g);
+
 (c) limiting the powers that may be exercised by a college under the Not-for-Profit Corporations Act, 2010 under the conditions, if any, that are prescribed;
+
 (d) amalgamating or closing colleges and providing for any matters that must be dealt with as a result of the amalgamation or closure;
+
 (e) in respect of an intervention under section 5,
+
 (i) prescribing under what conditions an intervention may be taken,
+
 (ii) prescribing the types of intervention that may be taken, including replacing any or all members of a board,
+
 (iii) delegating to the Minister or an agent of the Minister any powers necessary to carry out the intervention,
+
 (iv) governing procedures that apply in respect of an intervention and requiring colleges to comply with those procedures;
+
 (f) respecting the languages of instruction, including authorizing specified colleges to offer any or all of their programs in the French language and excluding others from doing so;
+
 (g) establishing or continuing a council and setting out its functions, powers and duties;
+
 (h) providing for any transitional matter necessary for the effective implementation of this Act or the regulations.
 
 ### General or specific
@@ -185,7 +219,11 @@ S.O. 2002, c. 8, Sched. F
 ### Conflict
 
 (3) If there is a conflict between a regulation made under this section and the Not-for-Profit Corporations Act, 2010, the regulation prevails.
+
 9 Repealed: 2008, c. 15, s. 87 (3).
+
 10-12 Omitted (amends or repeals other Acts).
+
 13 Omitted (provides for coming into force of provisions of this Act).
+
 14 Omitted (enacts short title of this Act).

@@ -6,23 +6,28 @@ language: fr
 type: act
 document_date: "2007-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02t22"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # zones d'allégement fiscal (projets pilotes) (Loi de 2002 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02t22) before relying on it.
 
 L.O. 2002, chap. 22, annexe B
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «accord d’allégement fiscal» Accord visé à l’article 8. («tax incentive agreement»)
+
 «administrateur de zone» Personne désignée comme tel en vertu de l’article 10. («zone administrator»)
+
 «loi désignée» Disposition législative que précise un règlement pris en application de l’alinéa 13 (1) a). («designated law»)
+
 «ministre» Le ministre des Finances. («Minister»)
+
 «zone d’allégement fiscal» Zone géographique désignée comme telle en vertu de l’article 2. («tax incentive zone») 2002, chap. 22, annexe B, art. 1.
 
 ### Établissement de zones d’allégement fiscal
@@ -110,8 +115,11 @@ L.O. 2002, chap. 22, annexe B
 ### Administrateur de zone
 
 10 Le ministre peut, par règlement :
+
 a) constituer une entité, ou autoriser la constitution d’une entité, qu’il désigne comme administrateur de zone, et en prévoir la composition, les pouvoirs et les fonctions;
+
 b) désigner une personne ou une entité pour agir comme administrateur de zone pour une zone d’allégement fiscal;
+
 c) attribuer des pouvoirs et des fonctions à un administrateur de zone et préciser la manière dont il doit les exercer.
 
 ### Inspections
@@ -129,7 +137,9 @@ c) attribuer des pouvoirs et des fonctions à un administrateur de zone et préc
 ### Règlements
 
 13 (1) Le ministre peut, par règlement :
+
 a) préciser des dispositions de lois qui sont des lois désignées pour l’application de l’article 3 ou du paragraphe 6 (1), (2) ou (3);
+
 b) prescrire les critères auxquels une personne doit satisfaire pour pouvoir être une personne admissible.
 
 ### Portée
@@ -163,10 +173,17 @@ b) prescrire les critères auxquels une personne doit satisfaire pour pouvoir ê
 ### Idem
 
 (2) Les dispositions suivantes ne s’appliquent pas à l’égard de l’annulation des taxes, des impôts, des droits ou des redevances consentie par le ministre en vertu de la présente loi :
+
 1. Loi sur l’impôt-santé des employeurs, paragraphe 2 (4).
+
 2. Loi de la taxe sur les carburants, article 1.1.
+
 3. Loi de la taxe sur l’essence, article 1.1.
+
 4. Loi sur les droits de cession immobilière, article 1.1.
+
 5. Loi sur la taxe de vente au détail, article 1.1.
+
 16 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 17 Omis (édicte le titre abrégé de la présente loi).

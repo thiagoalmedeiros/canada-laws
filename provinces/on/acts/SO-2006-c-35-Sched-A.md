@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06p35"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Public Service of Ontario Act, 2006
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06p35) before relying on it.
 
 S.O. 2006, c. 35, Sched. A
 
@@ -23,37 +23,61 @@ S.O. 2006, c. 35, Sched. A
 ### Purposes of this Act
 
 1 The following are the purposes of this Act:
+
 1. To ensure that the public service of Ontario is effective in serving the public, the government and the Legislature.
+
 2. To ensure that the public service of Ontario is non-partisan, professional, ethical and competent.
+
 3. To set out roles and responsibilities in the administration of the public service of Ontario.
+
 4. To provide a framework in law for the leadership and management of the public service of Ontario.
+
 5. To set out rights and duties of public servants concerning ethical conduct.
+
 6. To set out rights and duties of public servants concerning political activity.
+
 7. To establish procedures for the disclosure and investigation of wrongdoing in the public service of Ontario and to protect public servants who disclose wrongdoing from reprisals.
 
 ### Interpretation
 
 2 (1) In this Act,
+
 “Commission public body” means a public body that is prescribed as a Commission public body under clause 8 (1.1) (b); (“organisme public rattaché à la Commission”)
+
 “Conflict of Interest Commissioner” means the Conflict of Interest Commissioner described in section 14 as it read immediately before the day section 2 of Schedule 35 to the Restoring Trust, Transparency and Accountability Act, 2018 comes into force; (“commissaire aux conflits d’intérêts”)
+
 “government appointee” means a person who is a public servant by virtue of paragraph 5 of subsection (2); (“personne nommée par le gouvernement”)
+
 “Integrity Commissioner” means the Integrity Commissioner appointed under the Members’ Integrity Act, 1994; (“commissaire à l’intégrité”)
+
 “minister” means a member of the Executive Council; (“ministre”)
+
 “minister’s office” includes the office of the parliamentary assistant, if any, assigned to the minister; (“cabinet d’un ministre”)
+
 “prescribed” means prescribed by regulation; (“prescrit”)
+
 “public body” means a body that is prescribed as a public body under clause 8 (1.1) (a); (“organisme public”)
+
 “public service of Ontario” means,
+
 (a) ministries, including ministers’ offices, and
+
 (b) public bodies; (“fonction publique de l’Ontario”)
+
 “regulation” means a regulation under this Act. (“règlement”)
 
 ### Public servant
 
 (2) For the purposes of this Act, the following are public servants:
+
 1. Every person employed under Part III.
+
 2. The Secretary of the Cabinet.
+
 3. Every deputy minister.
+
 4. Every employee of a public body.
+
 5. Every person appointed by the Lieutenant Governor in Council, the Lieutenant Governor or a minister to a public body.
 
 ### Certain appointees not public servants
@@ -91,17 +115,25 @@ S.O. 2006, c. 35, Sched. A
 ### Regulations, Part I
 
 8 (1) The Lieutenant Governor in Council may make regulations,
+
 (a), (b) Repealed: 2009, c. 33, Sched. 17, s. 10 (3).
+
 (c) respecting the wording of oaths and affirmations required under sections 5 and 6 and the manner of making them;
+
 (d) prescribing the circumstances in which a public servant is exempt from the requirement to swear or affirm his or her allegiance to the Crown under subsection 5 (1);
+
 (e) prescribing persons who have the authority to administer an oath or affirmation for the purposes of sections 5 and 6.
 
 ### Same, Minister
 
 (1.1) The minister responsible for the administration of this Act may make regulations,
+
 (a) prescribing the bodies that are public bodies for the purposes of the definition of “public body” in subsection 2 (1);
+
 (b) prescribing as Commission public bodies, for the purposes of the definition of “Commission public body” in subsection 2 (1), public bodies,
+
 (i) for which the Public Service Commission may, under this or any other Act, appoint public servants under Part III, or
+
 (ii) in respect of which there is no statutory authority to employ employees.
 
 ### Scope of regulations
@@ -143,8 +175,11 @@ S.O. 2006, c. 35, Sched. A
 ### Same
 
 (2) The Public Service Commission shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide it to the minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -208,6 +243,7 @@ S.O. 2006, c. 35, Sched. A
 ### Immunity
 
 19 Sections 25 and 26 of the Members’ Integrity Act, 1994 apply to the Integrity Commissioner and the employees of the office of the Commissioner in respect of their duties under this Act.
+
 19.1 Repealed: 2018, c. 17, Sched. 35, s. 2.
 
 ### Protection from liability
@@ -221,6 +257,7 @@ S.O. 2006, c. 35, Sched. A
 ### Proceedings set aside
 
 (3) Any proceeding referred to in subsection (1) commenced before the day that subsection comes into force is deemed to have been dismissed, without costs, on that day.
+
 20.1 Repealed: 2018, c. 17, Sched. 35, s. 3 (2).
 
 ### Public Service Grievance Board
@@ -244,7 +281,9 @@ S.O. 2006, c. 35, Sched. A
 ### Procedures
 
 23 (1) Proceedings before the Public Service Grievance Board shall be governed in accordance with the following:
+
 1. Subject to paragraph 2, the Statutory Powers Procedure Act and any rules made under that Act by the Board apply to proceedings before the Board.
+
 2. On the coming into force of a regulation made under subsection (2) establishing procedural rules for proceedings before the Board, the Statutory Powers Procedure Act and any rules made under that Act cease to apply to proceedings before the Board to the extent that the Statutory Powers Procedure Act and any rules made under it conflict with the regulation.
 
 ### Same
@@ -262,7 +301,9 @@ S.O. 2006, c. 35, Sched. A
 ### Restriction, decision on grievance
 
 24 (1) In making a decision on a grievance, the Public Service Grievance Board shall not provide for the employment of a public servant in a position that involves direct responsibility for or provides an opportunity for contact with a vulnerable person specified in a regulation made under clause 31 (1) (a) if the Board has found that the public servant,
+
 (a) has applied force to a vulnerable person, except the minimum force necessary for self-defence or the defence of another person or necessary to restrain the vulnerable person for his or her own protection; or
+
 (b) has sexually molested a vulnerable person.
 
 ### Same
@@ -272,7 +313,9 @@ S.O. 2006, c. 35, Sched. A
 ### Criminal conviction or discharge
 
 25 (1) If a public servant is convicted or discharged of an offence under the Criminal Code (Canada) in respect of an act or omission that results in discipline or dismissal and the discipline or dismissal becomes the subject matter of a grievance before the Public Service Grievance Board, proof of the conviction or discharge shall be taken as conclusive evidence that the public servant committed the act or omission after,
+
 (a) the time for an appeal has expired; or
+
 (b) if an appeal was taken, the appeal was dismissed and no further appeal is available.
 
 ### Adjournment pending appeal to be granted
@@ -330,13 +373,21 @@ S.O. 2006, c. 35, Sched. A
 ### Regulations, Part II
 
 31 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) specifying who is a vulnerable person for the purposes of section 24;
+
 (b) prescribing powers, duties and functions of the Public Service Grievance Board, in addition to those provided under this Act;
+
 (c) prescribing circumstances in addition to those set out in this Act in which a public servant may file a grievance with the Public Service Grievance Board;
+
 (d) prescribing matters that cannot be the subject of a grievance before the Public Service Grievance Board;
+
 (e) prescribing classes of public servants who are not eligible to file a grievance with the Public Service Grievance Board;
+
 (f) prescribing remedy powers of the Public Service Grievance Board in respect of circumstances prescribed under clause (c);
+
 (g) prescribing powers, duties and functions of the Public Service Commission and the Integrity Commissioner under this Act, in addition to those already provided;
+
 (h) providing for the delegation and subdelegation of the powers, duties and functions prescribed under clause (g), in the manner and to the persons or bodies specified in the regulations, subject to such restrictions or conditions as may be prescribed.
 
 ### Same
@@ -396,7 +447,9 @@ S.O. 2006, c. 35, Sched. A
 ### Discipline and dismissal
 
 34 The Public Service Commission may for cause,
+
 (a) impose disciplinary measures, including suspension, on a public servant appointed by it, as the Commission considers appropriate; and
+
 (b) dismiss from employment a public servant appointed by it, as the Commission considers appropriate.
 
 ### Suspension, maximum period
@@ -434,9 +487,13 @@ S.O. 2006, c. 35, Sched. A
 ### Dismissal for certain reasons
 
 39 The Public Service Commission may dismiss a public servant appointed by it for the following reasons:
+
 1. A shortage of work.
+
 2. A shortage of funds.
+
 3. The elimination of the public servant’s position.
+
 4. A material change in the ministry or Commission public body in which the public servant works.
 
 ### Effect of dismissal
@@ -450,7 +507,9 @@ S.O. 2006, c. 35, Sched. A
 ### Withdrawal
 
 (2) A public servant may, by giving notice in writing to the Public Service Commission, withdraw the notice of intention to resign at any time before its effective date if,
+
 (a) no person has been appointed or selected for appointment by the Commission to the position held by the public servant; and
+
 (b) the Commission approves the withdrawal.
 
 ### Effect of resignation
@@ -510,7 +569,9 @@ S.O. 2006, c. 35, Sched. A
 ### Delegation, public servants appointed to work in Commission public body
 
 (4) Subject to subsection (5), the Public Service Commission may delegate any of its powers, duties or functions under subsection 32 (2) and sections 34 to 42 in respect of public servants appointed by it to work in a Commission public body to a deputy minister or to,
+
 (a) an individual who is prescribed under subsection 55 (1.1) for the body; or
+
 (b) the chair of the body, if no individual is prescribed under subsection 55 (1.1) for the body.
 
 ### Limitation
@@ -586,7 +647,9 @@ S.O. 2006, c. 35, Sched. A
 ### Disciplinary measures
 
 49 Sections 34 to 36 and sections 39 to 42 apply with necessary modifications in respect of public servants appointed under section 47 and, for the purpose,
+
 (a) a reference to a public servant appointed by the Public Service Commission shall be read as a reference to a public servant appointed under section 47; and
+
 (b) a reference to the Public Service Commission shall be read as a reference to an individual designated by the Premier in relation to a minister’s office for the purposes of section 47 or, if no such individual is designated, the minister.
 
 ### Dismissal without cause
@@ -638,8 +701,11 @@ S.O. 2006, c. 35, Sched. A
 ### Regulations, Part III
 
 55 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing the maximum period for a suspension pending an investigation for the purposes of subsection 36 (2);
+
 (b) prescribing classes of position for the purposes of subsection 38 (1).
+
 (c) Repealed: 2009, c. 33, Sched. 17, s. 10 (9).
 
 ### Same, Minister
@@ -671,10 +737,15 @@ S.O. 2006, c. 35, Sched. A
 ### Rules for public bodies
 
 58 (1) Every public servant and every former public servant who works or, immediately before ceasing to be a public servant, worked in a public body shall comply with the conflict of interest rules that apply to him or her, determined as follows:
+
 1. The conflict of interest rules that apply to the public servant or former public servant are the rules, if any, approved and published by the Integrity Commissioner under section 59 or 60 for the public body.
+
 2. During the year beginning on the day on which this section comes into force, if no conflict of interest rules are approved and published by the Conflict of Interest Commissioner under section 59 or 60 for a Commission public body, the conflict of interest rules prescribed under clause 71 (1) (a) apply to the public servant or former public servant, with necessary modifications.
+
 3. During the year beginning on the day on which this section comes into force, if no conflict of interest rules are approved and published by the Conflict of Interest Commissioner under section 59 or 60 for a public body that is not a Commission public body, the conflict of interest rules that apply to the public servant or former public servant are the rules that applied to him or her immediately before this section comes into force.
+
 4. On and after August 21, 2008 and before the day section 2 of Schedule 35 to the Restoring Trust, Transparency and Accountability Act, 2018 comes into force, if no conflict of interest rules are approved and published by the Conflict of Interest Commissioner for a public body, the conflict of interest rules prescribed under clause 71 (1) (a) of this Act apply to the public servant or former public servant, with necessary modifications.
+
 5. On and after the day section 2 of Schedule 35 to the Restoring Trust, Transparency and Accountability Act, 2018 comes into force, if no conflict of interest rules are approved and published by the Integrity Commissioner for a public body, the conflict of interest rules prescribed under clause 71 (1) (a) of this Act apply to the public servant or former public servant, with necessary modifications.
 
 ### Transition
@@ -720,8 +791,11 @@ S.O. 2006, c. 35, Sched. A
 ### Change in rules
 
 61 (1) Subsections (2) and (3) apply if,
+
 (a) a public body fails to submit amended rules within the time period specified under subsection 60 (1) or (2);
+
 (b) the Integrity Commissioner notifies a public body that amended rules submitted by it under subsection 60 (1) do not meet the test set out in subsection 59 (2); or
+
 (c) the public body rescinds the rules made by it under section 59 or 60 and notifies the Integrity Commissioner of the rescission in writing.
 
 ### Same
@@ -735,10 +809,15 @@ S.O. 2006, c. 35, Sched. A
 ### Ethics executive for public servants
 
 62 (1) The ethics executive for a public servant is determined as follows:
+
 1. The ethics executive for a public servant employed under Part III who works in a ministry, other than in a minister’s office, is the deputy minister.
+
 2. The ethics executive for a deputy minister is the Secretary of the Cabinet.
+
 3. The ethics executive for a public servant who works in a public body, whether as a government appointee, as an employee under Part III or as an employee of the public body is the individual who is prescribed under subsection 71 (1.1) for the public servant or, if no individual is prescribed under that clause for the public servant, the chair of the body.
+
 4. The ethics executive for the Secretary of the Cabinet, the chairs of public bodies and any individuals prescribed under subsections 55 (1.1) and 71 (1.1) is the Integrity Commissioner.
+
 5. Repealed: 2018, c. 17, Sched. 35, s. 7.
 
 ### Delegation, O.P.P.
@@ -748,14 +827,19 @@ S.O. 2006, c. 35, Sched. A
 ### Ethics executive for former public servant
 
 63 The ethics executive for a former public servant is determined as follows:
+
 1. The ethics executive for a former public servant who, immediately before ceasing to be a public servant, was a public servant employed under Part III who worked in a ministry, other than in a minister’s office, is the Public Service Commission.
+
 2. The ethics executive for a former public servant who, immediately before ceasing to be a public servant, worked in a public body, whether as a government appointee, as an employee under Part III or as an employee of the public body, is the Integrity Commissioner.
+
 3. The ethics executive for a former deputy minister or a former Secretary of the Cabinet is the Integrity Commissioner.
 
 ### Promotion of ethical conduct
 
 64 The ethics executive for a public servant who works in a ministry, other than in a minister’s office, or who works in a public body shall,
+
 (a) ensure that public servants who work in the ministry or the public body are familiar with the conflict of interest rules that apply in respect of the ministry or the public body; and
+
 (b) promote ethical conduct by public servants who work in the ministry or the public body.
 
 ### Role of ethics executive
@@ -779,7 +863,9 @@ S.O. 2006, c. 35, Sched. A
 ### Determinations and directions
 
 (5) An ethics executive shall,
+
 (a) make a determination with respect to any matter that is brought to the attention of the ethics executive under subsections (1) to (3) or that is the subject of inquiry under subsection (4); and
+
 (b) in the case of a determination that there is a conflict of interest or potential conflict of interest, give the public servant or former public servant directions, if any, that the ethics executive considers appropriate to address the conflict of interest or potential conflict of interest.
 
 ### Same
@@ -811,7 +897,9 @@ S.O. 2006, c. 35, Sched. A
 ### Promotion of ethical conduct
 
 67 A minister shall,
+
 (a) ensure that public servants who work in the minister’s office are familiar with the conflict of interest rules that apply in respect of the minister’s office; and
+
 (b) promote ethical conduct by public servants who work in the minister’s office.
 
 ### Ethics executive
@@ -839,7 +927,9 @@ S.O. 2006, c. 35, Sched. A
 ### Determinations and directions
 
 (5) The ethics executive shall,
+
 (a) make a determination with respect to any matter that is brought to his or her attention under subsections (1) to (3) or that is the subject of inquiry under subsection (4); and
+
 (b) in the case of a determination that there is a conflict of interest or potential conflict of interest, give the public servant or former public servant who works or, immediately before ceasing to be a public servant, worked in a minister’s office directions, if any, that the ethics executive considers appropriate to address the conflict of interest or potential conflict of interest.
 
 ### Compliance with direction
@@ -849,7 +939,9 @@ S.O. 2006, c. 35, Sched. A
 ### Notice to minister
 
 (7) The ethics executive shall notify the minister if the ethics executive,
+
 (a) makes a determination under subsection (5) that a public servant or former public servant who works or, immediately before ceasing to be a public servant, worked in a minister’s office has a conflict of interest or potential conflict of interest; or
+
 (b) gives a direction under subsection (5) to a public servant or former public servant who works or, immediately before ceasing to be a public servant, worked in a minister’s office.
 
 ### Penalty
@@ -863,10 +955,15 @@ S.O. 2006, c. 35, Sched. A
 ### Regulations, Part IV
 
 71 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) establishing conflict of interest rules for public servants and former public servants who work or, immediately before ceasing to be a public servant, worked in a ministry, other than in a minister’s office, for the purposes of section 57;
+
 (b) Repealed: 2009, c. 33, Sched. 17, s. 10 (12).
+
 (c) establishing conflict of interest rules for public servants and former public servants who work or, immediately before ceasing to be a public servant, worked in a minister’s office, for the purposes of section 66;
+
 (d) prescribing powers, duties and functions of an ethics executive in relation to conflict of interest matters, in addition to those provided under this Act;
+
 (e) respecting procedures to be followed in connection with this Part.
 
 ### Same, Minister
@@ -884,15 +981,21 @@ S.O. 2006, c. 35, Sched. A
 ### Political activity
 
 72 For the purposes of this Part, a public servant engages in political activity when,
+
 (a) the public servant does anything in support of or in opposition to a federal or provincial political party;
+
 (b) the public servant does anything in support of or in opposition to a candidate in a federal, provincial or municipal election;
+
 (c) the public servant is or seeks to become a candidate in a federal, provincial or municipal election; or
+
 (d) the public servant comments publicly and outside the scope of the duties of his or her position on matters that are directly related to those duties and that are dealt with in the positions or policies of a federal or provincial political party or in the positions or policies publicly expressed by a candidate in a federal, provincial or municipal election.
 
 ### Ethics executive
 
 73 (1) For the purposes of this Part, the ethics executive for a public servant is,
+
 (a) in the case of a public servant who works in a minister’s office, the Integrity Commissioner;
+
 (b) in the case of any other public servant, his or her ethics executive determined under subsection 62 (1).
 
 ### Same
@@ -904,7 +1007,9 @@ S.O. 2006, c. 35, Sched. A
 ### Application
 
 74 Sections 75 to 84 apply to public servants other than,
+
 (a) specially restricted public servants within the meaning of subsection 85 (2); or
+
 (b) public servants who work in a minister’s office.
 
 ### Right to engage
@@ -918,29 +1023,45 @@ S.O. 2006, c. 35, Sched. A
 ### Prohibited political activities
 
 77 A public servant shall not,
+
 (a) engage in political activity in the workplace;
+
 (b) engage in political activity while wearing a uniform associated with a position in the public service of Ontario;
+
 (c) use government premises, equipment or supplies when engaging in political activity; or
+
 (d) associate his or her position with political activity, except if the public servant is or is seeking to become a candidate in a federal, provincial or municipal election, and then only to the extent necessary to identify the public servant’s position and work experience.
 
 ### Definition, “election period”
 
 78 In sections 79 to 82,
+
 “election period” means,
+
 (a) in respect of a political activity that relates to a federal or provincial election, the period starting on the day that a writ is issued for the election and ending on the polling day for the election,
+
 (b) in respect of a political activity that relates to a municipal election, the period starting 60 days before the polling day for the election and ending on the polling day for the election.
 
 ### Restricted political activities
 
 79 (1) Subject to subsection (2), unless a public servant has been granted an unpaid leave of absence under section 80, he or she shall not,
+
 (a) be or seek to become a candidate in a federal or provincial election;
+
 (b) solicit funds on behalf of a federal or provincial party or a federal, provincial or municipal candidate if his or her duties include,
+
 (i) supervising other public servants, or
+
 (ii) dealing directly with members of the public if those members of the public may perceive him or her as a person able to exercise power over them;
+
 (c) comment publicly, outside the scope of his or her duties as a public servant, on matters that are directly related to those duties and that are addressed in the policies of a federal or provincial party or in the policies of a candidate in a federal, provincial or municipal election;
+
 (d) engage in political activity if doing so could interfere with the performance of his or her duties as a public servant; or
+
 (e) engage in political activity if doing so could conflict with,
+
 (i) in the case of a public servant who works in a ministry, the interests of the Crown,
+
 (ii) in the case of a public servant who works in a public body, the interests of the public body.
 
 ### Exception
@@ -954,7 +1075,9 @@ S.O. 2006, c. 35, Sched. A
 ### Same
 
 (2) Subject to subsection (3), on receiving the application, the ethics executive,
+
 (a) shall grant the public servant an unpaid leave of absence, in the case of an application to engage in political activity during an election period; and
+
 (b) may grant the public servant an unpaid leave of absence, in the case of an application to engage in political activity at a time other than during an election period, if the ethics executive considers it appropriate to do so.
 
 ### Same
@@ -968,13 +1091,17 @@ S.O. 2006, c. 35, Sched. A
 ### Same
 
 (2) On receiving the application, the ethics executive,
+
 (a) shall grant the public servant an unpaid leave of absence, in the case of an application to engage in political activity during an election period; and
+
 (b) may grant the public servant an unpaid leave of absence, in the case of an application to engage in political activity at a time other than during an election period, if the ethics executive considers it appropriate to do so.
 
 ### Length of leave
 
 82 If an unpaid leave of absence is granted under section 80 or 81, the following rules apply to the length of the leave:
+
 1. A leave of absence granted to enable a public servant to engage in political activity during an election period shall not begin earlier than the beginning of the election period and shall not end later than the end of the election period.
+
 2. A leave of absence granted to enable a public servant to engage in political activity other than during an election period shall begin and end in accordance with the regulations under clause 107 (1) (a) or, if no regulation applies in respect of the leave, on dates determined by the ethics executive to be appropriate in the circumstances.
 
 ### Continuous service
@@ -990,7 +1117,9 @@ S.O. 2006, c. 35, Sched. A
 ### Duty to notify
 
 (2) A public servant shall notify his or her ethics executive if the public servant’s political activities could conflict with,
+
 (a) in the case of a public servant who works in a ministry, the interests of the Crown;
+
 (b) in the case of a public servant who works in a public body, the interests of the public body.
 
 ### Inquiries
@@ -1000,7 +1129,9 @@ S.O. 2006, c. 35, Sched. A
 ### Determinations and directions
 
 (4) An ethics executive shall,
+
 (a) make a determination with respect to any matter that is brought to the attention of the ethics executive under subsection (1) or (2) or that is the subject of inquiry under subsection (3); and
+
 (b) in the case of a determination that a public servant has or is about to engage in political activity in contravention of this Part or a direction or regulation under this Part, give the public servant directions, if any, that the ethics executive considers appropriate to address the matter.
 
 ### Same
@@ -1028,15 +1159,25 @@ S.O. 2006, c. 35, Sched. A
 ### Specially restricted public servants
 
 (2) The following are specially restricted public servants:
+
 1. Repealed: 2018, c. 17, Sched. 35, s. 10.
+
 2. The Secretary of the Cabinet.
+
 3. Every deputy minister or associate deputy minister in a ministry.
+
 4. Every assistant deputy minister in a ministry.
+
 5. Every director in a ministry.
+
 6. Every deputy director of a legal services branch of a ministry.
+
 7. Every Crown Attorney.
+
 8. Every commissioned officer and detachment commander in the Ontario Provincial Police.
+
 9. Every government appointee who is a member of a tribunal prescribed under clause 107 (1) (b).
+
 10. A public servant in a class prescribed under clause 107 (1) (c).
 
 ### No political activity except as permitted
@@ -1050,18 +1191,27 @@ S.O. 2006, c. 35, Sched. A
 ### Prohibited political activities
 
 88 In engaging in political activity that is permitted under section 89, 90 or 92, a specially restricted public servant shall not,
+
 (a) engage in political activity in the workplace;
+
 (b) engage in political activity while wearing a uniform associated with a position in the public service of Ontario;
+
 (c) use government premises, equipment or supplies when engaging in political activity;
+
 (d) associate his or her position with political activity, except if the public servant is or is seeking to become a candidate in a federal, provincial or municipal election, and then only to the extent necessary to identify the public servant’s position and work experience; or
+
 (e) engage in political activity if doing so could interfere with the performance of his or her duties as a public servant.
 
 ### Permitted political activities
 
 89 (1) A specially restricted public servant may,
+
 (a) vote in a federal, provincial or municipal election;
+
 (b) contribute money to a federal or provincial party or to a federal, provincial or municipal candidate;
+
 (c) be a member of a federal or provincial party; and
+
 (d) attend an all-candidates meeting.
 
 ### Limitation
@@ -1071,7 +1221,9 @@ S.O. 2006, c. 35, Sched. A
 ### Permitted political activities if authorized
 
 90 (1) A specially restricted public servant, if authorized under subsection (4), may,
+
 (a) be or seek to become a candidate in a municipal election;
+
 (b) campaign on behalf of a candidate in a municipal election.
 
 ### Authorization
@@ -1085,7 +1237,9 @@ S.O. 2006, c. 35, Sched. A
 ### Same
 
 (4) On receiving the application, the ethics executive shall make such inquiries as he or she considers appropriate and shall authorize the specially restricted public servant to engage in all or some of the political activity specified in the application if, in the opinion of the ethics executive, the activities would not interfere with the performance of the public servant’s duties and,
+
 (a) in the case of a public servant who works in a ministry, would not conflict with the interests of the Crown;
+
 (b) in the case of a public servant who works in a public body, would not conflict with the interests of the body.
 
 ### Same
@@ -1107,7 +1261,9 @@ S.O. 2006, c. 35, Sched. A
 ### Authorization
 
 (2) A public servant described in subsection (1) may apply under this section for authorization to engage in any political activity that is not permitted to him or her under section 89, other than,
+
 (a) political activity that is prohibited under section 88; or
+
 (b) political activity for which he or she may seek authorization under section 90.
 
 ### Same
@@ -1117,15 +1273,21 @@ S.O. 2006, c. 35, Sched. A
 ### Same
 
 (4) On receiving the application, the Integrity Commissioner shall make such inquiries as he or she considers appropriate and shall authorize the public servant to engage in all or some of the political activity specified in the application if in the opinion of the Commissioner the activities would not,
+
 (a) interfere with the performance of the public servant’s duties; or
+
 (b) conflict with the interests of the public body to which the public servant is appointed.
 
 ### Same
 
 (5) In forming an opinion under subsection (4), the Integrity Commissioner shall consider the following:
+
 1. The nature of the political activity specified in the application.
+
 2. The scope of the discretion exercised by the public servant in his or her work, if the exercise of the discretion could reasonably be perceived to be affected by political considerations.
+
 3. The visibility of the public servant’s position.
+
 4. Such other factors as the Commissioner considers appropriate.
 
 ### Same
@@ -1135,7 +1297,9 @@ S.O. 2006, c. 35, Sched. A
 ### Same
 
 (7) If in granting an authorization the Integrity Commissioner requires that a public servant be on an unpaid leave of absence, the leave shall begin and end,
+
 (a) in accordance with the regulations under clause 107 (1) (a); or
+
 (b) if no regulation applies in respect of the leave, on dates determined by the Integrity Commissioner to be appropriate in the circumstances.
 
 ### Role of ethics executive
@@ -1147,7 +1311,9 @@ S.O. 2006, c. 35, Sched. A
 ### Duty to notify
 
 (2) A specially restricted public servant shall notify his or her ethics executive if the public servant’s political activities could conflict with,
+
 (a) in the case of a public servant who works in a ministry, the interests of the Crown;
+
 (b) in the case of a public servant who works in a public body, the interests of the public body.
 
 ### Inquiries
@@ -1157,7 +1323,9 @@ S.O. 2006, c. 35, Sched. A
 ### Determinations and directions
 
 (4) An ethics executive shall,
+
 (a) make a determination with respect to any matter that is brought to the attention of the ethics executive under subsection (1) or (2) or that is the subject of inquiry under subsection (3); and
+
 (b) in the case of a determination that a public servant has or is about to engage in political activity in contravention of this Part or a direction or regulation under this Part, give the public servant directions, if any, that the ethics executive considers appropriate to address the matter.
 
 ### Same
@@ -1193,8 +1361,11 @@ S.O. 2006, c. 35, Sched. A
 ### Prohibited political activities
 
 97 A public servant who works in a minister’s office shall not,
+
 (a) engage in a political activity in the workplace that is unrelated to the performance of a ministerial power, duty or function;
+
 (b) use government premises, equipment or supplies when engaging in political activity that is unrelated to the performance of a ministerial power, duty or function; or
+
 (c) engage in political activity that could conflict with the interests of the Crown.
 
 ### Role of ethics executive
@@ -1214,7 +1385,9 @@ S.O. 2006, c. 35, Sched. A
 ### Determinations and directions
 
 (4) The ethics executive shall,
+
 (a) make a determination with respect to any matter that is brought to his or her attention under subsection (1) or (2) or that is the subject of inquiry under subsection (3); and
+
 (b) in the case of a determination that a public servant who works in a minister’s office has or is about to engage in political activity in contravention of this Part or a direction or regulation under this Part, give the public servant directions, if any, that the ethics executive considers appropriate to address the matter.
 
 ### Compliance with direction
@@ -1248,9 +1421,13 @@ S.O. 2006, c. 35, Sched. A
 ### Determination by ethics executive
 
 (3) The ethics executive shall determine that termination is warranted if, in the opinion of the ethics executive, the public servant’s responsibilities in the municipal office,
+
 (a) would interfere with the performance of his or her duties as a public servant; or
+
 (b) would,
+
 (i) in the case of a public servant who works in a ministry, conflict with the interests of the Crown, or
+
 (ii) in the case of a public servant who works in a public body, conflict with the interests of the body.
 
 ### Referral by ethics executive
@@ -1268,7 +1445,9 @@ S.O. 2006, c. 35, Sched. A
 ### Reinstatement
 
 102 (1) This section does not apply to the following:
+
 1. A former public servant whose employment was terminated under section 100 or 101 and whose employment immediately before the termination was for a fixed term.
+
 2. A former government appointee whose appointment was terminated under section 100 or 101.
 
 ### Same
@@ -1312,21 +1491,29 @@ S.O. 2006, c. 35, Sched. A
 ### No reprisals
 
 103 (1) No person shall take a reprisal against a public servant because he or she has,
+
 (a) engaged in political activity in accordance with this Part or the regulations; or
+
 (b) exercised his or her right under this Part to decline to engage in political activity.
 
 ### Same
 
 (2) For the purposes of subsection (1), a reprisal is any measure taken against a public servant that adversely affects his or her employment or appointment and includes but is not limited to,
+
 (a) ending or threatening to end a public servant’s employment or appointment;
+
 (b) disciplining or suspending or threatening to discipline or suspend a public servant;
+
 (c) imposing or threatening to impose a penalty related to the employment or appointment of a public servant;
+
 (d) intimidating or coercing a public servant in relation to his or her employment or appointment.
 
 ### Complaint about reprisal, discipline
 
 104 (1) A public servant described in subsection (2), (3) or (4) may complain under this section that he or she,
+
 (a) has suffered a reprisal prohibited by section 103; or
+
 (b) is disciplined for a contravention of this Part or a direction or regulation under this Part.
 
 ### Public servant subject to collective agreement
@@ -1360,9 +1547,13 @@ S.O. 2006, c. 35, Sched. A
 ### Same
 
 (9) Without limiting the generality of subsection (8), an order under that subsection may direct the ministry or public body, or person acting on behalf of the ministry or public body, to do one or more of the following:
+
 1. Cease doing an action that is the subject of a complaint under subsection (1).
+
 2. Take steps to rectify harm related to a complaint under subsection (1).
+
 3. Reinstate the employment of a public servant whose employment was terminated.
+
 4. Compensate the public servant for loss of any remuneration, including benefits.
 
 ### Same
@@ -1372,14 +1563,19 @@ S.O. 2006, c. 35, Sched. A
 ### Settlements may be filed with board
 
 105 (1) A written and signed settlement of a complaint made under subsection 104 (1) may, if a party to the settlement believes that the settlement has been breached, be filed,
+
 (a) in the case of a settlement of a complaint by a public servant described in subsection 104 (2), if the collective agreement is governed by the Crown Employees Collective Bargaining Act, 1993, with the Grievance Settlement Board;
+
 (b) in the case of a settlement of a complaint by a public servant described in subsection 104 (3), with the Public Service Grievance Board;
+
 (c) in the case of a settlement of a complaint by a public servant described in subsection 104 (4), with the Ontario Labour Relations Board.
 
 ### Same
 
 (2) Where a settlement of a complaint is filed with a board under this section, the board shall inquire into the matter and, if the board concludes that the settlement has been breached, the board may,
+
 (a) make an order requiring compliance with the settlement; or
+
 (b) make an order respecting the complaint that could have been made in respect of that complaint under subsection 104 (8).
 
 ### Same
@@ -1403,11 +1599,17 @@ S.O. 2006, c. 35, Sched. A
 ### Regulations, Part V
 
 107 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) respecting the length of unpaid leaves of absence granted under section 82, subsection 90 (6) or clause 92 (7) (a), including specifying dates on which a leave may begin and end and establishing maximum periods for a leave;
+
 (b) prescribing tribunals for the purposes of paragraph 9 of subsection 85 (2);
+
 (c) on the recommendation of the Public Service Commission, prescribing classes of public servants for the purposes of paragraph 10 of subsection 85 (2);
+
 (d) governing political activities of public servants who work in a minister’s office;
+
 (e) prescribing powers, duties and functions of an ethics executive in relation to political activity matters, in addition to those provided under this Act;
+
 (f) respecting procedures to be followed in connection with this Part.
 
 ### Delegation
@@ -1417,9 +1619,13 @@ S.O. 2006, c. 35, Sched. A
 ### Same
 
 (3) In prescribing classes under clause (1) (c), the Lieutenant Governor in Council shall consider,
+
 (a) the extent to which public servants in a prescribed class are likely to be involved in providing policy advice directly to a minister;
+
 (b) the scope of discretion likely to be exercised by public servants in a prescribed class, where the exercise of the discretion could reasonably be perceived to be affected by political considerations;
+
 (c) the visibility of public servants in a prescribed class; and
+
 (d) any other matter that the Lieutenant Governor in Council considers appropriate.
 
 ### Scope of regulations
@@ -1433,23 +1639,33 @@ S.O. 2006, c. 35, Sched. A
 ### Interpretation
 
 108 (1) In this Part,
+
 “wrongdoing” means,
+
 (a) a contravention by a public servant, a minister or parliamentary assistant of an Act of the Assembly or of the Parliament of Canada, or of a regulation made under such an Act,
+
 (b) an act or omission of a public servant, a minister or parliamentary assistant that creates a grave danger to the life, health or safety of persons or to the environment, where the danger is unreasonable having regard to his or her duties, powers and functions and any other relevant circumstance,
+
 (c) gross mismanagement by a public servant, a minister or parliamentary assistant in the work of the public service of Ontario,
+
 (d) directing or counselling wrongdoing within the meaning of clauses (a) to (c) by a public servant, a minister or parliamentary assistant.
 
 ### Same
 
 (2) A reference in clauses (a) to (d) of the definition of “wrongdoing” in subsection (1),
+
 (a) to an act or omission of a public servant includes an act or omission of a former public servant if the act or omission occurred while the individual was a public servant;
+
 (b) to an act or omission of a minister or parliamentary assistant includes an act or omission of a former minister or a former parliamentary assistant if the act or omission occurred while the individual was a minister or a parliamentary assistant.
 
 ### Interpretation, former public servants
 
 109 In this Part, despite section 3, a reference to a former public servant includes a person who ceased, before the day on which this section comes into force, to be,
+
 (a) a public servant within the meaning of the Public Service Act;
+
 (b) an employee of a public body within the meaning of this Act;
+
 (c) a government appointee within the meaning of this Act.
 
 ### Application of Part
@@ -1469,7 +1685,9 @@ S.O. 2006, c. 35, Sched. A
 ### Fair and expeditious
 
 112 The Integrity Commissioner and every person or body to whom a matter is referred under subsection 118 (2), 122 (2) or 123 (1) shall carry out their functions under this Part in a manner that,
+
 (a) is fair and is as informal and expeditious as possible; and
+
 (b) protects the identities of persons involved in disclosures of wrongdoing, including persons who make disclosures, witnesses and persons alleged to be responsible for wrongdoing except where the interests of fairness require that a person’s identity be disclosed to one or more persons.
 
 ### Disclosure despite conflict with other Acts
@@ -1479,8 +1697,11 @@ S.O. 2006, c. 35, Sched. A
 ### Restrictions on disclosure
 
 (2) Nothing in this Part authorizes a public servant or former public servant to make a disclosure to the Integrity Commissioner of anything,
+
 (a) that would reveal the substance of deliberations of the Executive Council or any of its Committees without authority to do so;
+
 (b) that is subject to solicitor-client privilege; or
+
 (c) that is prepared by or for counsel for a Ministry or a public body for use in giving legal advice or in contemplation of or for use in litigation.
 
 ### Same
@@ -1496,20 +1717,27 @@ S.O. 2006, c. 35, Sched. A
 ### Directives, Public Service Commission
 
 115 (1) The Public Service Commission may by directive establish procedures to deal with disclosures of wrongdoing by,
+
 (a) a public servant who works in a ministry; and
+
 (b) a former public servant who worked in a ministry immediately before ceasing to be a public servant.
 
 ### Directives, Management Board of Cabinet
 
 (2) The Management Board of Cabinet may by directive establish procedures to deal with disclosures of wrongdoing by,
+
 (a) public servants who work in a public body; and
+
 (b) former public servants who worked in a public body immediately before ceasing to be a public servant.
 
 ### Same
 
 (3) Without limiting the generality of subsections (1) and (2), directives issued under those subsections may,
+
 (a) establish procedures by which a public servant or former public servant may make disclosures of wrongdoing, including directions as to the persons to whom disclosures may be made;
+
 (b) establish procedures to protect the identities of persons involved in the disclosure process, including persons who make disclosures, witnesses and persons alleged to be responsible for wrongdoing; and
+
 (c) provide for exceptions to be made to procedures described in clause (b) where the interests of fairness require that a person’s identity be disclosed to one or more persons.
 
 ### Same
@@ -1533,23 +1761,37 @@ S.O. 2006, c. 35, Sched. A
 ### Disclosure to Integrity Commissioner
 
 116 A public servant or former public servant may disclose wrongdoing to the Integrity Commissioner if,
+
 (a) the public servant or former public servant has reason to believe that it would not be appropriate to disclose the wrongdoing in accordance with the directives issued under section 115;
+
 (b) the public servant or former public servant has already disclosed the wrongdoing in accordance with the directives issued under section 115 and has concerns that the matter is not being dealt with appropriately; or
+
 (c) directives applying to the public servant or former public servant have not been issued under section 115.
 
 ### Initial assessment by Integrity Commissioner
 
 117 Where the Integrity Commissioner receives a disclosure of wrongdoing under section 116, the Commissioner shall refuse to deal with the disclosure if one or more of the following circumstances apply:
+
 1. The subject matter of the disclosure is being dealt with by another person or body as a matter of law enforcement or in accordance with a procedure established under this or any other Act.
+
 2. The subject matter of the disclosure is an employment or labour relations matter that could be dealt with through a dispute resolution mechanism, including a grievance procedure, established under this or any other Act, under a collective agreement or under an agreement of another kind.
+
 3. The subject matter of the disclosure is a matter that could be dealt with under Part XII of the Community Safety and Policing Act, 2019.
+
 4. The subject matter of the disclosure is the subject of,
+
 i. a decision made in the exercise of an adjudicative function by a court or other tribunal under this or any other Act, or
+
 ii. deliberations that have led or may lead to a decision made in the exercise of an adjudicative function by a court or other tribunal under this or any other Act.
+
 5. The subject matter of the disclosure is related to the exercise of discretion by a prosecutor in relation to the prosecution of an offence.
+
 6. The subject matter of the disclosure is not sufficiently important or the disclosure is frivolous, vexatious or made in bad faith.
+
 7. There has been a substantial delay between the disclosure and the incidents that are the subject matter of the disclosure and because of the delay the proceeding would serve no useful purpose.
+
 8. The subject matter of the disclosure relates solely to a public policy decision.
+
 9. There is a valid reason, other than a circumstance described in paragraphs 1 to 8, for not proceeding with the disclosure.
 
 ### Referral by Integrity Commissioner
@@ -1559,17 +1801,25 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Same
 
 (2) The Integrity Commissioner shall determine, from among the persons mentioned in subsection (3), the person who, in the opinion of the Commissioner, is in the best position to investigate the disclosure and shall,
+
 (a) provide the person with a written summary of the disclosure and any other information that the Commissioner has received in relation to the matter that the Commissioner considers may assist the person in dealing with the matter;
+
 (b) direct the person to cause an investigation to be conducted into the subject matter of the disclosure; and
+
 (c) direct the person to report the results of the investigation to the Commissioner.
 
 ### Same
 
 (3) The persons to whom the Integrity Commissioner may refer a matter under subsection (2) are:
+
 1. A deputy minister.
+
 2. Any individual prescribed under subsection 71 (1.1).
+
 3. The chair of a public body.
+
 4. The Secretary of the Cabinet.
+
 5. An individual designated by the Premier for the purposes of this section.
 
 ### Same
@@ -1595,10 +1845,15 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Report after referral
 
 120 (1) A report from a person who has received a referral under subsection 118 (2) shall be in writing and shall include:
+
 1. A summary of the subject matter of the disclosure.
+
 2. A description of the steps taken in the investigation conducted by the person to whom the referral is made.
+
 3. A summary of the evidence obtained during the investigation.
+
 4. A statement of the findings resulting from the investigation of the disclosure, including a statement about any wrongdoing that was discovered.
+
 5. A description of any corrective action that has been taken or that is proposed to be taken as a result of the investigation.
 
 ### Same
@@ -1608,8 +1863,11 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Receipt of report by Integrity Commissioner
 
 121 (1) On receiving a report from a person who has received a referral under subsection 118 (2), the Integrity Commissioner may,
+
 (a) require the person to provide a written report to the Commissioner containing such further information as the Commissioner specifies;
+
 (b) make recommendations to the person;
+
 (c) require the person to provide a written report to the Commissioner respecting the implementation of any recommendations made under clause (b) and, to the extent that a recommendation has not been implemented, explain why that is the case.
 
 ### Time periods
@@ -1629,8 +1887,11 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Investigation by Integrity Commissioner
 
 122 (1) The Integrity Commissioner may initiate an investigation of a disclosure of wrongdoing only if,
+
 (a) the Commissioner is not satisfied with a report about the disclosure received under section 118 or 121;
+
 (b) a person who has received a referral under subsection 118 (2) has referred the disclosure back to the Commissioner under section 119; or
+
 (c) a person who has received a referral under subsection 118 (2) has not delivered a report about the disclosure within the time period required under section 118 or 121.
 
 ### Referral instead of investigation
@@ -1644,8 +1905,11 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Same
 
 (4) Where the Integrity Commissioner has referred a matter to a person or body under subsection (2), the Commissioner shall not initiate an investigation unless the person or body has informed the Commissioner,
+
 (a) that it will not proceed with an investigation of the matter;
+
 (b) that it has concluded its investigation of the matter; or
+
 (c) that it will not provide information referred to in subsection (6).
 
 ### Exception
@@ -1671,8 +1935,11 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Same
 
 (3) Where the Integrity Commissioner has referred a matter to a person or body under subsection (1), the Commissioner shall suspend the investigation and may continue it only if the person or body has informed the Commissioner,
+
 (a) that it will not proceed with an investigation of the matter;
+
 (b) that it has concluded its investigation of the matter; or
+
 (c) that it will not provide information referred to in subsection (5).
 
 ### Same
@@ -1706,7 +1973,9 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Powers on investigation
 
 126 (1) The Integrity Commissioner may require any public servant or former public servant to,
+
 (a) provide any information that he or she may have if, in the opinion of the Commissioner, the information may be relevant to the investigation;
+
 (b) produce any relevant document or thing that may be in his or her possession or under his or her control if, in the opinion of the Commissioner, the document or thing may be relevant to the investigation.
 
 ### Oral evidence
@@ -1724,7 +1993,9 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Restriction on powers
 
 127 (1) The Integrity Commissioner may not require the provision of information, the production of a document or thing or the giving of an answer if the Deputy Attorney General certifies that the provision, production or answer,
+
 (a) might interfere with or impede the detection, investigation or prosecution of an offence; or
+
 (b) might reveal the substance of deliberations of the Executive Council or any of its Committees without authority to do so.
 
 ### Same
@@ -1734,7 +2005,9 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Same
 
 (3) The Integrity Commissioner may not require the provision of information, the production of a document or thing or the giving of an answer if the provision, production or answer might disclose,
+
 (a) information that is subject to solicitor-client privilege; or
+
 (b) information prepared by or for counsel for a Ministry or a public body for use in giving legal advice or in contemplation of or for use in litigation.
 
 ### Same
@@ -1774,20 +2047,27 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Same
 
 (4) A report required by subsection (1) shall be in writing and shall include,
+
 (a) findings of wrongdoing, if any;
+
 (b) reasons to support any findings;
+
 (c) any recommendations that the Commissioner considers appropriate.
 
 ### Copy to Minister
 
 (5) The Integrity Commissioner shall provide a copy of the report to a minister where the disclosure alleged wrongdoing,
+
 (a) in the ministry of the minister; or
+
 (b) in a public body for which the minister has responsibility.
 
 ### Further report
 
 (6) If the report includes recommendations under clause (4) (c), the Integrity Commissioner may require the person to whom the Commissioner made the report under subsection (1) or (2), as the case may be, to provide a further report to the Commissioner, in writing and within a time period specified by the Commissioner,
+
 (a) describing any action taken or proposed to be taken in response to the recommendations; and
+
 (b) explaining why a recommended action was not taken or is not proposed to be taken.
 
 ### Same
@@ -1811,7 +2091,9 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Same
 
 (3) If the Integrity Commissioner has required a further report under subsection 129 (6), the Commissioner shall not make a public report until,
+
 (a) the further report has been delivered to the Commissioner; or
+
 (b) the time period specified under subsection 129 (6) has expired or, if the Commissioner has extended the time period under subsection 129 (7), the extended period has expired and no further report has been delivered to the Commissioner.
 
 ### Same
@@ -1825,20 +2107,27 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Contents of public report
 
 131 (1) Subject to subsections (2) and (3), the Integrity Commissioner shall not include, in a public report under section 130,
+
 (a) information that would be subject to an exemption under sections 12 to 21.1 of the Freedom of Information and Protection of Privacy Act;
+
 (b) information that would be excluded under section 65 of the Freedom of Information and Protection of Privacy Act; or
+
 (c) information to which subsection 67 (2) of the Freedom of Information and Protection of Privacy Act would apply.
 
 ### Same
 
 (2) With the consent of the person who received the Integrity Commissioner’s report under subsection 129 (1) or (2), the Commissioner may disclose, in a public report under section 130,
+
 (a) information that would be subject to an exemption under sections 13, 14, 18, 19, 20 or 21.1 of the Freedom of Information and Protection of Privacy Act; or
+
 (b) information that would be excluded under subsection 65 (6) of the Freedom of Information and Protection of Privacy Act.
 
 ### Same
 
 (3) The Commissioner may disclose, in a public report under section 130, information that would be subject to an exemption under section 13, 17, 18, 20, 21 or 21.1 of the Freedom of Information and Protection of Privacy Act or that would be excluded under subsection 65 (6) of that Act if, in his or her opinion,
+
 (a) disclosure of the information is necessary to establish the grounds for the Commissioner’s findings of wrongdoing or recommendations; and
+
 (b) there is a compelling public interest in the disclosure that outweighs the harm that the disclosure may cause.
 
 ### Same
@@ -1852,7 +2141,9 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Before making public report
 
 132 (1) Before making the determination under subsection 131 (4), the Integrity Commissioner,
+
 (a) shall ask the person to whom the report was made under subsection 129 (1) or (2) for submissions as to the making of the determination under subsection 131 (4); and
+
 (b) shall, if the Commissioner considers it appropriate to do so in the interests of fairness, provide any information contained in the report to a person to whom the information relates and ask the person for submissions as to the making of the determination under subsection 131 (4).
 
 ### Same
@@ -1870,13 +2161,21 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Annual report, activities under this Part
 
 133 (1) The annual report of the Integrity Commissioner required by section 24 of the Members’ Integrity Act, 1994 shall include,
+
 (a) the number of disclosures received by the Commissioner under section 116 during the year;
+
 (b) the number of refusals made by the Commissioner under section 117 during the year;
+
 (c) the number of referrals made by the Commissioner under subsection 118 (2) during the year;
+
 (d) the number of reports in which the Commissioner makes recommendations under section 121 during the year;
+
 (e) a summary of what the Commissioner knows respecting responses to recommendations under section 121 during the year;
+
 (f) the number of investigations initiated by the Commissioner under section 122 during the year;
+
 (g) a summary of what the Commissioner knows respecting the outcomes during the year of findings of reprisals under this Part;
+
 (h) anything else that the Commissioner considers relevant in respect of his or her activities under this Part during the year.
 
 ### Same
@@ -1912,8 +2211,11 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Limitation on duty to inform
 
 137 (1) The Integrity Commissioner shall not give the person who made the disclosure,
+
 (a) information that would be subject to an exemption under sections 12 to 21.1 of the Freedom of Information and Protection of Privacy Act;
+
 (b) information that would be excluded under section 65 of the Freedom of Information and Protection of Privacy Act; or
+
 (c) information to which subsection 67 (2) of the Freedom of Information and Protection of Privacy Act applies.
 
 ### Same
@@ -1933,18 +2235,27 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### No reprisals
 
 139 (1) No person shall take a reprisal against a public servant because he or she has,
+
 (a) sought advice about making a disclosure about wrongdoing in accordance with this Part;
+
 (b) made a disclosure about wrongdoing in accordance with this Part;
+
 (c) co-operated in an investigation or other process related to a disclosure of wrongdoing made in accordance with this Part;
+
 (d) acted in compliance with this Part; or
+
 (e) sought enforcement of this Part.
 
 ### Same
 
 (2) For the purposes of subsection (1), a reprisal is any measure taken against a public servant that adversely affects his or her employment or appointment and includes but is not limited to,
+
 (a) ending or threatening to end a public servant’s employment or appointment;
+
 (b) disciplining or suspending or threatening to discipline or suspend a public servant;
+
 (c) imposing or threatening to impose a penalty related to the employment or appointment of a public servant;
+
 (d) intimidating or coercing a public servant in relation to his or her employment or appointment.
 
 ### Complaint about reprisal
@@ -1982,9 +2293,13 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Same
 
 (9) Without limiting the generality of subsection (8), an order under that subsection may direct that the ministry or public body, or a person acting on behalf of the ministry or public body, do one or more of the following:
+
 1. Cease doing an act or acts complained of under subsection (1).
+
 2. Take steps to rectify harm related to a complaint under subsection (1).
+
 3. Reinstate the employment of a public servant whose employment was terminated.
+
 4. Compensate the public servant for loss of any remuneration, including benefits.
 
 ### Same
@@ -2006,15 +2321,21 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Settlements may be filed with Board
 
 141 (1) A written and signed settlement of a complaint made under subsection 140 (1) may, if a party to the settlement believes that the settlement has been breached, be filed,
+
 (a) in the case of a settlement of a complaint by a public servant described in subsection 140 (2) where the complaint is filed with the Ontario Labour Relations Board under that subsection, with the Ontario Labour Relations Board;
+
 (b) in the case of a complaint by a public servant described in subsection 140 (2) that is not filed with the Ontario Labour Relations Board under that subsection and that was settled by the parties to a collective agreement governed by the Crown Employees Collective Bargaining Act, 1993, with the Grievance Settlement Board;
+
 (c) in the case of a settlement of a complaint by a public servant described in subsection 140 (3), with the Public Service Grievance Board;
+
 (d) in the case of a settlement of a complaint by a public servant described in subsection 140 (4), with the Ontario Labour Relations Board.
 
 ### Same
 
 (2) Where a settlement is filed with a board under this section, the board shall inquire into the matter and, if the board concludes that the settlement has been breached, the Board may,
+
 (a) make an order requiring compliance with the settlement; or
+
 (b) make an order respecting the complaint that could have been made in respect of that complaint under subsection 140 (8).
 
 ### Same
@@ -2050,8 +2371,11 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Same
 
 (3) No person shall, knowing that a document or other thing is likely to be relevant to an investigation or other proceeding under this Part,
+
 (a) destroy or alter the document or other thing;
+
 (b) falsify the document or other thing or make a false document or other thing;
+
 (c) conceal the document or other thing.
 
 ### Same
@@ -2123,11 +2447,17 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Regulations, general
 
 154 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) providing for the collection, use and disclosure of personal information about public servants and former public servants,
+
 (i) for the purposes of this Act, and
+
 (ii) for the purposes of managing and administering human resources in the public service of Ontario, including but not limited to providing integrated human resources programs for the public service of Ontario;
+
 (b) providing for any transitional matter that the Lieutenant Governor in Council considers necessary or advisable for the effective implementation of this Act or the regulations or directives under it;
+
 (b.1) providing for any transitional matter arising from the enactment of Schedule 35 to the Restoring Trust, Transparency and Accountability Act, 2018;
+
 (c) respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act.
 
 ### Same
@@ -2151,6 +2481,9 @@ ii. deliberations that have led or may lead to a decision made in the exercise o
 ### Same
 
 (3) A person who was, immediately before this section comes into force, appointed under the Public Service Act, as that Act read immediately before its repeal by section 1 of Schedule C to the Public Service of Ontario Statute Law Amendment Act, 2006, to work in a Commission public body is, on the day this section comes into force, a public servant appointed by the Public Service Commission under Part III of this Act to employment in a Commission public body.
+
 156, 157 Omitted (provides for amendments to this Act).
+
 158 Omitted (provides for coming into force of provisions of this Act).
+
 159 Omitted (enacts short title of this Act).

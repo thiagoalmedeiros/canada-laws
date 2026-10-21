@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15e38"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # biens en déshérence (Loi de 2015 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15e38) before relying on it.
 
 L.O. 2015, chap. 38, annexe 4
 
@@ -21,27 +21,41 @@ L.O. 2015, chap. 38, annexe 4
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «ancien propriétaire» Relativement à un bien, s’entend de la personne qui était propriétaire ou en possession du bien ou qui y avait droit en dernier lieu, immédiatement avant que le bien soit devenu un bien dont le tuteur et curateur public peut prendre possession en vertu de l’article 2. («prior owner»)
+
 «fins de bienfaisance» S’entend :
+
 a) du soulagement de la pauvreté;
+
 b) de l’éducation;
+
 c) de l’avancement de la religion;
+
 d) de toute autre fin favorisant les intérêts de la collectivité. («charitable purposes»)
+
 «ministre» Le procureur général ou tout autre membre du Conseil exécutif à qui la responsabilité de la présente loi est assignée ou transférée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «organisation caritative» Personne morale constituée à des fins de bienfaisance. («charitable corporation»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
 
 ### Ancien propriétaire
 
 (2) Il est entendu que l’ancien propriétaire du bien est :
+
 a) dans les circonstances visées à la disposition 1 du paragraphe 2 (1), le particulier décédé;
+
 b) dans les circonstances visées à la disposition 2 du paragraphe 2 (1), la personne morale dissoute.
 
 ### Bien
 
 (3) Pour l’application de la présente loi, la mention d’un bien inclut ce qui suit :
+
 a) tout droit ou intérêt sur le bien;
+
 b) le produit de la disposition du bien.
 
 ### Biens dont le tuteur et curateur public peut prendre possession
@@ -55,21 +69,33 @@ b) le produit de la disposition du bien.
 ### Possession : instances relatives au bien
 
 2 (1) Sous réserve du paragraphe (2), le tuteur et curateur public peut, sans enquête préalable, prendre possession au nom de la Couronne de tout bien s’il estime que l’une des circonstances suivantes s’applique :
+
 1. Le bien est devenu la propriété de la Couronne en raison du décès d’un particulier :
+
 i. sans testament ou avec un testament incomplet, s’il n’y a pas d’héritiers légitimes,
+
 ii. avec testament, s’il y a défaillance de tout ou partie des héritiers, dons ou legs prévus au testament et qu’il n’y a pas d’héritiers légitimes.
+
 2. Le bien est devenu la propriété de la Couronne en raison de la dissolution d’une personne morale.
+
 3. Aucune des circonstances visées à la disposition 1 ou 2 ne s’applique et le bien est devenu la propriété de la Couronne, à titre de bien en déshérence ou de bien vacant.
+
 4. Les circonstances visées à la disposition 2 ne s’appliquent pas et le bien est devenu la propriété de la Couronne parce qu’il a été confisqué au profit de celle-ci pour quelque motif que ce soit.
 
 ### Exceptions
 
 (2) Le paragraphe (1) ne s’applique pas à l’égard des biens suivants :
+
 1. Les biens confisqués, si une autre loi exclut expressément l’application de la présente loi à leur égard.
+
 2. Les biens sociaux confisqués au sens de la Loi de 2015 sur les biens sociaux confisqués.
+
 3. Les sommes non réclamées transférées qui sont détenues par l’Autorité ontarienne de réglementation des services financiers en application de la Loi de 2020 sur les caisses populaires et les credit unions.
+
 4. Les terrains miniers au sens de la Loi sur les mines.
+
 5. Les droits miniers, au sens de la Loi sur les mines, qui sont dissociés ou séparés des droits de surface au sens de cette loi.
+
 6. Les biens assujettis au paragraphe 53 (1) de la Loi sur les mines.
 
 ### Instances en recouvrement : déclaration
@@ -89,7 +115,9 @@ ii. avec testament, s’il y a défaillance de tout ou partie des héritiers, do
 ### Pouvoir de concéder
 
 (2) À moins que le bien auquel s’applique le présent article ait été versé au Trésor, le tuteur et curateur public peut, selon ce qu’il juge approprié :
+
 a) concéder tout ou partie du bien à une personne à des fins de transfert ou de restitution à la personne qui fait état de l’existence d’une réclamation juridique ou morale contre la personne à laquelle il appartenait, ou afin de mettre en oeuvre la disposition de ce bien qu’a pu envisager cette personne;
+
 b) renoncer aux droits que la Couronne a pu acquérir afin d’attribuer le bien, en pleine propriété ou autrement, à la personne qui y aurait eu droit si le bien n’était pas devenu un bien auquel s’applique le présent article.
 
 ### Idem
@@ -103,7 +131,9 @@ b) renoncer aux droits que la Couronne a pu acquérir afin d’attribuer le bien
 ### Délai de prescription : biens confisqués
 
 (5) Sous réserve du paragraphe (6), aucune pétition en vue d’obtenir une concession ou une renonciation en vertu du présent article ne peut être présentée après le dixième anniversaire :
+
 a) du jour de l’entrée en vigueur de la présente loi, si le bien devient un bien auquel s’applique le présent article avant le jour de l’entrée en vigueur de la présente loi;
+
 b) du jour où le bien devient un bien auquel s’applique le présent article, dans les autres cas.
 
 ### Prorogation
@@ -171,7 +201,9 @@ b) du jour où le bien devient un bien auquel s’applique le présent article, 
 ### Intérêt
 
 (3) L’intérêt fixé en vertu de la Loi sur le tuteur et curateur public n’est payable qu’à l’égard d’une période au cours de laquelle le bien auquel s’applique le présent article consistait en une somme d’argent administrée par le tuteur et curateur public, jusqu’à la première des dates suivantes :
+
 1. 10 ans après le décès de l’ancien propriétaire.
+
 2. Le jour du versement de la somme d’argent au Trésor.
 
 ### Recouvrement auprès du Trésor
@@ -249,13 +281,21 @@ b) du jour où le bien devient un bien auquel s’applique le présent article, 
 ### Immunité
 
 (2) Sont irrecevables les actions ou autres instances, les ordonnances ou les arrêtés introduits, rendus ou pris contre la Couronne, le ministre, le sous-ministre, le tuteur et curateur public, un préposé ou mandataire de la Couronne ou un autre fonctionnaire ou employé de la Couronne :
+
 a) à l’égard d’un bien dont le tuteur et curateur public peut prendre possession en vertu de l’article 2, qu’il l’ait effectivement fait ou non;
+
 b) au titre de ce qui suit :
+
 (i) Un acte, une négligence, un manquement ou une omission d’un locataire ou de toute autre personne qui utilise ou occupe le bien, ou dont la présence sur le bien n’est pas autorisée, qui a lieu sur un bien visé à l’alinéa a) ou qui l’affecte autrement.
+
 (ii) Un acte, une négligence, un manquement ou une omission de tout ancien propriétaire d’un bien visé à l’alinéa a).
+
 (iii) Un acte, une négligence, un manquement ou une omission d’une personne qui détient un intérêt sur un bien visé à l’alinéa a) qui, selon le cas :
+
 (A) est lié à l’exécution de l’intérêt,
+
 (B) a lieu sur le bien ou l’affecte autrement.
+
 (iv) Un acte, une négligence, un manquement ou une omission d’un administrateur, dirigeant, employé, mandataire, entrepreneur indépendant, invité, actionnaire ou membre d’une personne visée au sous-alinéa (i), (ii) ou (iii).
 
 ### Incompatibilité
@@ -265,7 +305,9 @@ b) au titre de ce qui suit :
 ### Idem
 
 (4) Sont irrecevables les actions ou autres instances, les ordonnances ou les arrêtés introduits, rendus ou pris contre le ministre, le sous-ministre, le tuteur et curateur public, un préposé ou mandataire de la Couronne ou un autre fonctionnaire ou employé de la Couronne au titre de ce qui suit :
+
 1. Un acte accompli de bonne foi dans l’exercice effectif ou censé tel des fonctions ou des pouvoirs que la présente loi attribue à la personne.
+
 2. Une négligence, un manquement ou une omission que la personne a commis dans l’exercice de bonne foi des fonctions ou des pouvoirs que la présente loi lui attribue.
 
 ### Idem
@@ -275,7 +317,9 @@ b) au titre de ce qui suit :
 ### Exception
 
 (6) Il est entendu que les paragraphes (1), (2) et (4) n’ont pour effet :
+
 a) ni d’empêcher la délivrance d’une ordonnance ou d’un arrêté contre la Couronne à l’égard du bien si l’ordonnance ou l’arrêté est autorisé par une autre loi et que les dispositions de cette loi autorisant l’ordonnance ou l’arrêté lient la Couronne;
+
 b) ni d’imposer de nouvelles obligations à la Couronne à l’égard du bien.
 
 ### Décisions du tuteur et curateur public définitives
@@ -285,7 +329,9 @@ b) ni d’imposer de nouvelles obligations à la Couronne à l’égard du bien.
 ### Aucun droit à un avis
 
 12 (1) Une personne n’a pas le droit de recevoir un avis prévu par la présente loi si, selon le cas :
+
 a) elle a expressément renoncé à ce droit, avant ou après la remise de l’avis;
+
 b) le tuteur et curateur public ne réussit pas à trouver son adresse après une recherche raisonnable et il ne la connaît pas par ailleurs.
 
 ### Idem : personne morale dissoute depuis plus de 20 ans
@@ -313,8 +359,11 @@ b) le tuteur et curateur public ne réussit pas à trouver son adresse après un
 ### Idem
 
 (5) Une ordonnance annulant un intérêt peut comprendre ce qui suit :
+
 1. Si l’intérêt est enregistré sur le titre d’un bien immeuble, des directives visant à supprimer du titre les documents précisés.
+
 2. Si l’intérêt porte sur un bien meuble et qu’un enregistrement a été effectué à l’égard de l’intérêt dans le réseau d’enregistrement établi en application de la Loi sur les sûretés mobilières, des directives visant à modifier de la façon précisée les renseignements enregistrés dans le registre central du réseau d’enregistrement.
+
 3. Dans les circonstances prescrites, des directives visant à modifier ou à supprimer des renseignements enregistrés dans tout autre registre public prescrit.
 
 ### Non-opposabilité ou invalidité des intérêts
@@ -354,8 +403,11 @@ b) le tuteur et curateur public ne réussit pas à trouver son adresse après un
 ### Versement au Trésor
 
 (3) S’il a pris possession d’un bien en vertu de l’article 2 et que le bien consiste en une somme d’argent, le tuteur et curateur public peut à tout moment verser le bien au Trésor, sous réserve des règles suivantes :
+
 1. Si l’ancien propriétaire était un particulier, le bien est versé au plus tard le dernier jour de l’exercice au cours duquel tombe le 10 e anniversaire du décès du particulier.
+
 2. Si l’ancien propriétaire était une personne morale, le bien est versé au plus tard le dernier jour de l’exercice au cours duquel tombe le 10 e anniversaire de la dissolution de la personne morale.
+
 3. Si ni la disposition 1 ni la disposition 2 ne s’applique, le bien est versé au plus tard le dernier jour de l’exercice au cours duquel tombe le 10 e anniversaire du jour où le tuteur et curateur public a pris possession du bien.
 
 ### Paiement différé
@@ -385,18 +437,27 @@ b) le tuteur et curateur public ne réussit pas à trouver son adresse après un
 ### Sommes dues à la Couronne
 
 16 (1) Le tuteur et curateur public peut établir, conformément aux règlements éventuels, les sommes suivantes relativement aux biens dont il peut prendre possession en vertu de l’article 2, qu’il l’ait effectivement fait ou non :
+
 1. Les frais engagés par la Couronne, notamment :
+
 i. les frais engagés avant le jour de l’entrée en vigueur de la présente loi,
+
 ii. les frais engagés relativement à la disposition du bien.
+
 2. Les frais raisonnables au titre du temps et des ressources consacrés relativement aux biens par les employés de la Couronne.
+
 3. Les honoraires et dépenses du tuteur et curateur public visés aux paragraphes 8 (1), (1.1) et (1.2) de la Loi sur le tuteur et curateur public.
+
 4. Les sommes que la Couronne pourrait être tenue de payer aux termes d’une entente.
 
 ### Créances de la Couronne
 
 (2) Les sommes établies en vertu du paragraphe (1) sont des créances de la Couronne qui peuvent être recouvrées notamment :
+
 a) par prélèvement de tout ou partie du bien;
+
 b) sur tout autre bien appartenant à l’ancien propriétaire du bien;
+
 c) lorsque l’ancien propriétaire est une personne morale, par ordonnance rendue en vertu de l’article 17 enjoignant à un ancien administrateur ou dirigeant de l’ancien propriétaire de payer tout ou partie des sommes.
 
 ### Idem : priorité
@@ -410,7 +471,9 @@ c) lorsque l’ancien propriétaire est une personne morale, par ordonnance rend
 ### Ordonnance contre les anciens administrateurs et dirigeants
 
 17 (1) S’il peut prendre possession d’un bien en vertu de la disposition 2 du paragraphe 2 (1), qu’il l’ait effectivement fait ou non, le tuteur et curateur public peut demander à la Cour supérieure de justice de rendre une ordonnance :
+
 a) déterminant les particuliers qui étaient les administrateurs ou dirigeants de l’ancien propriétaire;
+
 b) enjoignant aux particuliers déterminés en vertu de l’alinéa a) de payer tout ou partie des sommes établies en vertu de l’article 16.
 
 ### Idem
@@ -440,46 +503,67 @@ b) enjoignant aux particuliers déterminés en vertu de l’alinéa a) de payer 
 ### Contenu du rapport
 
 (2) Le rapport contient les renseignements suivants :
+
 1. Le nom de l’ancien propriétaire de chaque bien ayant fait l’objet d’une concession, d’une renonciation, d’une libération, d’un transfert ou d’une cession au cours de l’année précédente.
+
 2. Le nom de chaque personne en faveur de laquelle un bien a fait l’objet d’une concession, d’une renonciation, d’une libération, d’un transfert ou d’une cession.
+
 3. Une description de chaque bien ayant fait l’objet d’une concession, d’une renonciation, d’une libération, d’un transfert ou d’une cession.
+
 4. La date à laquelle chaque bien a fait l’objet d’une concession, d’une renonciation, d’une libération, d’un transfert ou d’une cession.
+
 5. Les renseignements prescrits.
 
 ### Renseignements concernant les concessions et autres
 
 19 Le tuteur et curateur public fournit les renseignements suivants à toute personne qui en fait la demande en précisant le nom de l’ancien propriétaire des biens ayant fait l’objet d’une concession, d’une renonciation, d’une libération, d’un transfert ou d’une cession accordé par le tuteur et curateur public en vertu du paragraphe 3 (2), 4 (2), 7 (2) ou (4) :
+
 1. Le nom de chaque personne en faveur de laquelle un bien a fait l’objet d’une concession, d’une renonciation, d’une libération, d’un transfert ou d’une cession.
+
 2. Une description du bien ayant fait l’objet d’une concession, d’une renonciation, d’une libération, d’un transfert ou d’une cession.
+
 3. La date à laquelle le bien a fait l’objet d’une concession, d’une renonciation, d’une libération, d’un transfert ou d’une cession.
+
 4. Les renseignements prescrits.
 
 ### Renseignements personnels
 
 20 (1) Le tuteur et curateur public est autorisé à recueillir des renseignements personnels en vertu de la présente loi aux fins suivantes :
+
 1. Déterminer si la présente loi s’applique aux biens.
+
 2. Déterminer s’il y a lieu de prendre possession des biens, de mener une enquête et d’évaluer les biens.
+
 3. Administrer les biens pour le compte de la Couronne.
+
 4. Appliquer la présente loi, la Loi de 2015 sur les biens sociaux confisqués, ou tout autre texte législatif de l’Ontario régissant la dissolution des personnes morales ou les biens dont le tuteur et curateur public peut prendre possession en vertu de l’article 2.
+
 5. Appliquer la Loi sur l’administration des successions par la Couronne ou exercer une fonction que toute autre loi attribue au tuteur et curateur public.
 
 ### Collecte directe ou indirecte
 
 (2) La collecte autorisée par le paragraphe (1) peut être effectuée :
+
 a) soit directement;
+
 b) soit indirectement, si une collecte indirecte est raisonnablement nécessaire dans les circonstances.
 
 ### Avis général concernant la collecte
 
 (3) S’il recueille des renseignements personnels indirectement, le tuteur et curateur publique donne un avis général concernant la collecte selon les modalités suivantes ou l’une d’entre elles :
+
 1. En affichant l’avis sur le bien concerné.
+
 2. En publiant l’avis sur un site Web du gouvernement ou sur un autre site Web accessible au public.
 
 ### Contenu
 
 (4) L’avis prévu au paragraphe (3) contient les renseignement suivants :
+
 a) une description du type de renseignements personnels recueillis;
+
 b) une déclaration de la principale fin à laquelle on prévoit d’utiliser les renseignements personnels;
+
 c) les titre, adresse et numéro de téléphone d’affaires d’un fonctionnaire public susceptible de fournir des renseignements au sujet de cette collecte.
 
 ### Avis réputé conforme au par. 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée
@@ -489,8 +573,11 @@ c) les titre, adresse et numéro de téléphone d’affaires d’un fonctionnair
 ### Demande de renseignements
 
 21 (1) Le tuteur et curateur public peut donner un avis exigeant qu’une personne ou une entité lui fournisse les renseignements qui sont en sa possession ou sous son contrôle et qui, de l’avis du tuteur et curateur public, peuvent se rapporter aux biens dont le tuteur et curateur public peut prendre possession en vertu de l’article 2, qu’il l’ait effectivement fait ou non, ou à leur ancien propriétaire, et notamment les renseignements suivants :
+
 1. Des renseignements personnels, y compris les coordonnées d’une personne ou d’une entité à laquelle le tuteur et curateur public a l’intention de donner un avis prévu par la présente loi.
+
 2. Des renseignements sur les biens qui sont ou pourraient être des biens dont le tuteur et curateur public peut prendre possession en vertu de l’article 2, notamment les dossiers d’un ancien propriétaire des biens et des renseignements sur les activités de toute personne ou entité qui prétend agir à l’égard des biens.
+
 3. Des renseignements sur tout intérêt sur les biens qui existait avant que le bien ne devienne un bien dont le tuteur et curateur public peut prendre possession en vertu de l’article 2.
 
 ### Serment ou affirmation solennelle
@@ -500,7 +587,9 @@ c) les titre, adresse et numéro de téléphone d’affaires d’un fonctionnair
 ### Forme, manière et délai
 
 (3) L’avis peut :
+
 a) préciser sous quelle forme et de quelle manière les renseignements doivent être fournis;
+
 b) exiger que les renseignements soient fournis avant la date qui y est précisée.
 
 ### Obligation de se conformer
@@ -526,10 +615,15 @@ b) exiger que les renseignements soient fournis avant la date qui y est précis�
 ### Utilisation et collecte de renseignements
 
 23 Les renseignements recueillis au titre de la présente loi peuvent être utilisés et divulgués aux fins suivantes :
+
 1. Déterminer si la présente loi s’applique aux biens.
+
 2. Déterminer s’il y a lieu de prendre possession des biens, de mener une enquête et d’évaluer les biens.
+
 3. Administrer les biens pour le compte de la Couronne.
+
 4. Appliquer la présente loi, la Loi de 2015 sur les biens sociaux confisqués, ou tout autre texte législatif de l’Ontario régissant la dissolution des personnes morales ou les biens dont le tuteur et curateur public peut prendre possession en vertu de l’article 2.
+
 5. Appliquer la Loi sur l’administration des successions par la Couronne ou exercer une fonction que toute autre loi attribue au tuteur et curateur public.
 
 ### Loi de 2006 sur la législation
@@ -539,12 +633,21 @@ b) exiger que les renseignements soient fournis avant la date qui y est précis�
 ### Règlements
 
 25 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire les mesures que le tuteur et curateur public est tenu de prendre à l’égard d’une ordonnance comprenant les directives visées à la disposition 3 du paragraphe 13 (5);
+
 b) prescrire les mesures qu’une personne responsable d’un registre public prescrit est tenue de prendre en réponse à une ordonnance visée à l’alinéa a);
+
 c) régir l’établissement des sommes mentionnées à l’article 16;
+
 d) définir des mots et des expressions employés mais non expressément définis dans la présente loi;
+
 e) prévoir les questions transitoires qu’il estime nécessaires ou souhaitables relativement à la mise en application de la présente loi;
+
 f) prescrire tout ce que la présente loi mentionne comme pouvant ou devant être prescrit ou fait par règlement.
+
 26 -31 Omis (modification ou abrogation d’autres textes législatifs).
+
 32 Omis (entrée en vigueur de dispositions de la présente loi).
+
 33 Omis (édiction du titre abrégé de la présente loi).

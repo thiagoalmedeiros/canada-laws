@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11o09a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Société ontarienne des infrastructures et de l'immobilier (Loi de 2011 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11o09a) before relying on it.
 
 L.O. 2011, chap. 9, annexe 32
 
@@ -21,17 +21,29 @@ L.O. 2011, chap. 9, annexe 32
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «bien du gouvernement» S’entend au sens de la Loi de 2011 sur le ministère de l’Infrastructure. («Government property»)
+
 «gouvernement» S’entend :
+
 a) du gouvernement de l’Ontario et de la Couronne du chef de l’Ontario;
+
 b) d’un ministère du gouvernement de l’Ontario;
+
 c) d’un organisme de la Couronne, autre qu’un collège d’arts appliqués et de technologie ouvert en vertu de la Loi de 2002 sur les collèges d’arts appliqués et de technologie de l’Ontario ;
+
 d) de tout conseil, commission, office ou organisme sans personnalité morale de la Couronne. («Government»)
+
 «ministère» Sauf indication contraire, le ministère de l’Infrastructure. («Ministry»)
+
 «ministre» Sauf indication contraire, le ministre de l’Infrastructure ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «municipalité» S’entend au sens du paragraphe 1 (1) de la Loi de 2001 sur les municipalités. («municipality»)
+
 «organisation du secteur public» S’entend au sens de la Loi de 2011 sur le ministère de l’Infrastructure. («public sector organization»)
+
 «organisation publique admissible» Organisation visée au paragraphe 4 (2). («eligible public organization»)
+
 «Société» La Société ontarienne des infrastructures et de l’immobilier prorogée en application du paragraphe 2 (1). («Corporation») 2011, chap. 9, annexe 32, art. 1
 
 ### La Société
@@ -63,42 +75,75 @@ d) de tout conseil, commission, office ou organisme sans personnalité morale de
 ### Mission de la Société
 
 4 (1) Sous réserve des directives que donne le ministre en vertu du paragraphe (3), la Société a pour mission de faire ce qui suit :
+
 1. Fournir un financement aux fins en matière d’infrastructure qui sont prescrites en vertu de l’alinéa 36 (1) a) aux entités suivantes :
+
 i. Les municipalités.
+
 ii. Les organisations publiques admissibles visées au paragraphe (2).
+
 iii. Les organisations publiques admissibles visées à l’article 4.1.
+
 2. Fournir des conseils et des services relativement aux biens du gouvernement, notamment en matière de gestion de projets, de gestion de contrats et d’aménagement, aux personnes ou entités suivantes :
+
 i. Le ministre.
+
 ii. Le gouvernement, lorsque le ministre donne une directive écrite à cet effet.
+
 2.1 Abrogée : 2015, chap. 38, annexe 7, par. 56 (4).
+
 3. Effectuer la gestion financière des biens du gouvernement gérés par le ministère ou par un organisme de la Couronne dont le ministre est responsable.
+
 4. Exercer les pouvoirs et fonctions délégués par le ministre à la Société en vertu de la Loi de 2011 sur le ministère de l’Infrastructure, de la Loi de 2021 sur la réalisation accélérée de projets d’Internet à haut débit ou de la Loi de 2023 sur la reconstruction de la Place de l’Ontario.
+
 4.1 Exercer les pouvoirs et fonctions de la Société en vertu de la Loi de 2023 sur la reconstruction de la Place de l’Ontario.
+
 5. Lorsque le ministre donne une directive écrite à cet effet, fournir, aux fins prescrites en vertu de l’alinéa 36 (1) c), des conseils et des services relativement aux biens immeubles aux organisations du secteur public prescrites en vertu de l’alinéa 36 (1) b).
+
 6. Lorsque le ministre donne une directive écrite à cet effet, fournir les conseils et services suivants aux entités non ontariennes, sous réserve des restrictions prescrites par règlement du ministre pris en application du paragraphe (7) :
+
 i. Des conseils relativement à l’élaboration de programmes de prêts d’infrastructure publique.
+
 ii. Des conseils et des services relativement aux biens immeubles.
+
 iii. Des conseils et des services relativement aux questions de nature financière, stratégique ou autre.
+
 iv. Des conseils et des services relativement à la réalisation d’opérations.
+
 v. Des conseils et des services relativement aux travaux d’infrastructure, notamment en matière de gestion de projets et de gestion de contrats.
+
 7. Lorsque le ministre donne une directive écrite à cet effet, fournir à celui-ci ou à d’autres membres du Conseil exécutif des conseils et des services relativement aux questions de nature financière, stratégique ou autre qui touchent le gouvernement.
+
 8. Lorsque le ministre donne une directive écrite à cet effet, effectuer des opérations qui touchent le gouvernement ou prêter son aide à cet égard.
+
 9. Lorsque le ministre donne une directive écrite à cet effet, fournir des conseils et des services relativement aux travaux d’infrastructure en Ontario qui ne sont pas des biens du gouvernement, notamment en matière de gestion de projets et de gestion de contrats.
+
 10. Se livrer aux autres activités connexes que prescrit le lieutenant-gouverneur en conseil en vertu de l’alinéa 36 (1) d).
 
 ### Organisation publique admissible
 
 (2) Pour l’application de la sous-disposition 1 ii du paragraphe (1), est une organisation publique admissible l’organisation qui remplit les conditions prescrites en vertu de l’alinéa 36 (1) e) et qui est une des organisations suivantes :
+
 1. Une université, un collège affilié ou fédéré d’une université ou un autre établissement d’enseignement postsecondaire.
+
 2. Une personne morale constituée en vertu du paragraphe 203 (1) de la Loi de 2001 sur les municipalités ou du paragraphe 148 (1) de la Loi de 2006 sur la cité de Toronto.
+
 3. Une personne morale constituée en vertu de l’article 142 de la Loi de 1998 sur l’électricité et dont toutes les actions sont détenues par une ou plusieurs municipalités.
+
 4. Une personne morale constituée en tant que société locale de logement en vertu de la partie III de la Loi de 2000 sur la réforme du logement social.
+
 5. Un fournisseur de logements coopératifs ou un fournisseur de logements sans but lucratif qui fournit ou fournira des logements en Ontario dans le cadre d’un programme de logement subventionné par le gouvernement fédéral, la province ou une municipalité.
+
 5.1 Un conseil d’administration de district des services sociaux créé en vertu de la Loi sur les conseils d’administration de district des services sociaux.
+
 6. Une régie locale des services publics créée en vertu de la Loi sur les régies des services publics du Nord.
+
 7. Un fournisseur de soins de longue durée sans but lucratif dont le permis a été délivré ou remplacé en application de la Loi de 2021 sur le redressement des soins de longue durée ou dont l’approbation a été accordée ou prorogée en application de cette loi.
+
 8. Une organisation sans but lucratif qui profite au public et qui est prescrite en tant qu’organisation publique admissible en vertu de l’alinéa 36 (1) f).
+
 9. Une coopérative au sens de la Loi sur les sociétés coopératives qui profite au public et qui est prescrite en tant qu’organisation publique admissible en vertu de l’alinéa 36 (1) g).
+
 10. Sous réserve des règlements pris en vertu de l’alinéa 36 (1) h), une organisation, sauf une organisation visée aux dispositions 1 à 8, qui est prescrite en vertu de l’alinéa 28 (1) a) de la Loi de 2006 sur la Société ontarienne de travaux d’infrastructure immédiatement avant l’abrogation de cette loi.
 
 ### Directives du ministre : mission de la Société
@@ -124,20 +169,31 @@ v. Des conseils et des services relativement aux travaux d’infrastructure, not
 ### Définition
 
 (8) La définition qui suit s’applique à la disposition 6 du paragraphe (1).
+
 «entité non ontarienne» S’entend :
+
 a) soit d’une entité publique située à l’extérieur de l’Ontario, mais au Canada;
+
 b) soit d’un État étranger, y compris :
+
 (i) un pays ou le gouvernement d’un pays,
+
 (ii) une subdivision politique d’un pays ou le gouvernement d’une subdivision politique,
+
 (iii) un ministère, une division ou une agence du gouvernement d’un pays ou d’une subdivision politique d’un pays;
+
 c) soit de toute autre entité située à l’extérieur de l’Ontario et qui est désignée par écrit par le ministre pour l’application de la présente définition.
 
 ### Organisation publique admissible : société issue d’une fusion
 
 4.1 (1) Le présent article s’applique à toute société issue de la fusion d’au moins deux sociétés dont chacune a été constituée ou fusionnée en vertu de la Loi sur les sociétés par actions pour la production, le transport, la distribution ou la vente au détail d’électricité, si les conditions suivantes sont remplies :
+
 1. Au moins 90 % des actions de la société issue de la fusion sont détenues par une ou plusieurs municipalités.
+
 2. Immédiatement avant la fusion, au moins une des sociétés qui fusionnaient était partie à un accord conclu avec la Société aux termes duquel cette dernière convenait de lui fournir un financement aux fins en matière d’infrastructure qui sont prescrites en vertu de l’alinéa 36 (1) a).
+
 3. L’accord a été conclu au moins six mois avant le jour de la présentation de la requête en autorisation de fusionner à la Commission de l’énergie de l’Ontario en application de l’article 86 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario.
+
 4. Les modalités de l’accord sont compatibles avec les lois et les règlements qui régissent la société issue de la fusion.
 
 ### Organisation publique admissible à une fin restreinte
@@ -183,15 +239,21 @@ c) soit de toute autre entité située à l’extérieur de l’Ontario et qui e
 ### Financement
 
 8 (1) Sans préjudice de la portée générale de l’article 6, la Société peut obtenir des fonds au moyen d’emprunts, au moyen de l’émission d’obligations, de débentures et d’autres valeurs mobilières et par le biais de ce qui suit :
+
 a) la création d’une filiale par le lieutenant-gouverneur en conseil en vertu de l’article 32;
+
 b) l’acquisition d’une filiale en vertu de l’article 33;
+
 c) la création d’une fiducie, d’une société de personnes ou d’une autre entité en vertu de l’article 35;
+
 d) l’acquisition des actifs ou, s’il y a lieu, des passifs d’une fiducie, d’une société de personnes ou d’une autre entité en vertu de l’article 35.
 
 ### Restriction : certaines activités financières
 
 (2) La Société ne doit pas contracter des emprunts, effectuer des placements ou gérer des risques financiers, sauf si :
+
 a) un de ses règlements administratifs l’y autorise;
+
 b) le règlement administratif est approuvé conformément à l’article 13.
 
 ### Coordination d’activités financières
@@ -265,15 +327,21 @@ b) le règlement administratif est approuvé conformément à l’article 13.
 ### Contenu des règlements administratifs d’emprunt
 
 (2) Les règlements administratifs qui traitent des questions d’emprunt par la Société ne sont approuvés que s’ils comprennent les renseignements suivants :
+
 1. Le capital maximal qui peut être impayé à un moment donné aux termes du règlement administratif.
+
 2. La période, qui ne doit pas dépasser cinq ans, pendant laquelle la Société peut contracter des emprunts aux termes du règlement administratif.
+
 3. La date après laquelle aucune dette ne peut demeurer impayée aux termes du règlement administratif.
+
 4. Les autres conditions que précise le ministre des Finances, selon le cas.
 
 ### Délégation
 
 14 (1) Le conseil d’administration peut faire ce qui suit conformément aux règlements administratifs :
+
 a) déléguer n’importe lequel de ses pouvoirs à un de ses comités ou à un ou plusieurs administrateurs;
+
 b) déléguer n’importe lequel de ses pouvoirs en matière de gestion des activités et des affaires de la Société à un ou plusieurs dirigeants de cette dernière.
 
 ### Conditions et restrictions
@@ -319,7 +387,9 @@ b) déléguer n’importe lequel de ses pouvoirs en matière de gestion des acti
 ### Idem
 
 (2) La Société se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -369,7 +439,9 @@ b) le moment où il faut le mettre à la disposition du public et la manière de
 ### Rapports
 
 (3) La Société remet au ministre, aux moments que celui-ci exige, des rapports qui, à la fois :
+
 a) indiquent les recettes de la Société et les dépenses qu’elle a engagées, de même que son bénéfice net provenant de la fourniture des conseils et des services énoncés à la disposition 6 du paragraphe 4 (1) et ses prévisions en ce qui concerne ce bénéfice;
+
 b) contiennent les autres renseignements financiers exigés par le ministre.
 
 ### Vérifications
@@ -395,10 +467,15 @@ b) contiennent les autres renseignements financiers exigés par le ministre.
 ### Délégation
 
 (4) Le lieutenant-gouverneur en conseil peut, par décret, déléguer aux personnes suivantes tout ou partie des pouvoirs que les paragraphes (1) et (2) confèrent au ministre des Finances :
+
 a) un fonctionnaire qui est employé aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario et qui travaille dans le ministère des Finances, mais non dans le cabinet du ministre des Finances;
+
 b) un avocat engagé pour représenter le ministre des Finances;
+
 c) le chef de la direction de l’Office ontarien de financement;
+
 d) un fonctionnaire qui est employé aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario et qui travaille dans l’Office ontarien de financement;
+
 e) un avocat engagé pour représenter l’Office ontarien de financement.
 
 ### Jugements contre la Société
@@ -412,7 +489,9 @@ e) un avocat engagé pour représenter l’Office ontarien de financement.
 ### Accord : affectations
 
 25 (1) Le présent article s’applique si :
+
 a) d’une part, une municipalité ou une organisation publique admissible a emprunté des sommes à la Société à une fin prescrite en vertu de l’alinéa 36 (1) a);
+
 b) d’autre part, l’Assemblée a affecté des sommes à la municipalité ou à l’organisation publique admissible.
 
 ### Accord : défaut
@@ -464,8 +543,11 @@ b) d’autre part, l’Assemblée a affecté des sommes à la municipalité ou �
 ### Plan
 
 (3) Le plan pour la liquidation de la Société peut prévoir ce qui suit :
+
 a) la liquidation des actifs et le transfert du produit de la liquidation au Trésor ou à un organisme de la Couronne;
+
 b) le transfert des actifs et passifs à la Couronne ou à un organisme de la Couronne;
+
 c) toute autre question liée à la liquidation de la Société.
 
 ### Idem
@@ -487,29 +569,49 @@ c) toute autre question liée à la liquidation de la Société.
 ### Définition
 
 30 (0.1) La définition qui suit s’applique au présent article.
+
 «ouvrage public» S’entend au sens de la Loi de 2011 sur le ministère de l’Infrastructure dans sa version antérieure au jour de l’entrée en vigueur de l’article 2 de la Loi de 2015 sur les biens sociaux confisqués.
 
 ### Dispositions transitoires : questions générales
 
 (1) L’entrée en vigueur du paragraphe 2 (1) a les conséquences suivantes :
+
 1. La Société immobilière de l’Ontario, la Société ontarienne de travaux d’infrastructure et la société appelée Stadium Corporation of Ontario Limited cessent d’exister en tant qu’entités distinctes de la Société issue de la fusion.
+
 2. Les droits, biens et actifs, sauf les ouvrages publics, qui appartiennent à la Société immobilière de l’Ontario ou à la Société ontarienne de travaux d’infrastructure immédiatement avant l’entrée en vigueur de ce paragraphe passent à la Société.
+
 3. Les ouvrages publics qui appartiennent à la Société immobilière de l’Ontario ou à la Société ontarienne de travaux d’infrastructure immédiatement avant l’entrée en vigueur de ce paragraphe sont dévolus à la Couronne représentée par le ministre.
+
 4. Les droits, biens et actifs, y compris les ouvrages publics, qui appartiennent à la société appelée Stadium Corporation of Ontario Limited immédiatement avant l’entrée en vigueur de ce paragraphe passent à la Couronne représentée par le ministre.
+
 5. Les dettes, engagements et obligations dont la Société immobilière de l’Ontario et la Société ontarienne de travaux d’infrastructure sont responsables immédiatement avant l’entrée en vigueur de ce paragraphe deviennent la responsabilité de la Société.
+
 6. Les dettes, engagements et obligations dont la société appelée Stadium Corporation of Ontario Limited est responsable immédiatement avant l’entrée en vigueur de ce paragraphe deviennent la responsabilité de la Couronne représentée par le ministre.
+
 7. Malgré le paragraphe 9 (1), les membres des conseils d’administration de la Société immobilière de l’Ontario et de la Société ontarienne de travaux d’infrastructure en fonction immédiatement avant l’entrée en vigueur de ce paragraphe constituent le premier conseil d’administration de la Société.
+
 8. Malgré le paragraphe 9 (4), le particulier qui est le président du conseil d’administration de la Société ontarienne de travaux d’infrastructure immédiatement avant l’entrée en vigueur de ce paragraphe devient le premier président du conseil d’administration de la Société.
+
 9. Malgré l’article 10, le particulier qui occupe le poste de chef de la direction de la Société ontarienne de travaux d’infrastructure immédiatement avant l’entrée en vigueur de ce paragraphe devient le premier chef de la direction de la Société.
+
 10. Les règlements administratifs de la Société ontarienne de travaux d’infrastructure qui sont en vigueur immédiatement avant l’entrée en vigueur de ce paragraphe deviennent ceux de la Société.
+
 11. Tout accord, toute valeur mobilière ou tout instrument auquel est partie la Société immobilière de l’Ontario ou la Société ontarienne de travaux d’infrastructure immédiatement avant l’entrée en vigueur de ce paragraphe a effet comme si :
+
 i. la Société remplaçait la Société immobilière de l’Ontario ou la Société ontarienne de travaux d’infrastructure, selon le cas, comme partie à l’accord, à la valeur mobilière ou à l’instrument,
+
 ii. toute mention de la Société immobilière de l’Ontario ou de la Société ontarienne de travaux d’infrastructure dans l’accord, la valeur mobilière ou l’instrument valait mention de la Société.
+
 12. Malgré la disposition 11 et sous réserve des paragraphes (3) et (4), si la Société obtient un intérêt sur des biens immeubles aux termes d’un accord visé à cette disposition, cet intérêt est dévolu à la Couronne représentée par le ministre.
+
 13. Tout accord auquel est partie la société appelée Stadium Corporation of Ontario Limited immédiatement avant l’entrée en vigueur de ce paragraphe a effet comme si :
+
 i. le ministre remplaçait cette société comme partie à l’accord,
+
 ii. toute mention de cette société dans l’accord valait mention du ministre.
+
 14. La Société devient partie à chaque instance en cours à laquelle la Société immobilière de l’Ontario, la Société ontarienne de travaux d’infrastructure ou la société appelée Stadium Corporation of Ontario Limited est partie immédiatement avant l’entrée en vigueur de ce paragraphe et elle remplace l’une ou l’autre de ces sociétés, selon le cas.
+
 15. Malgré la disposition 14 et sous réserve des paragraphes (3) et (4), si la Société obtient un intérêt sur des biens immeubles par suite d’une instance mentionnée à cette disposition, cet intérêt est dévolu à la Couronne représentée par le ministre.
 
 ### Idem : disp. 11 du par. (1)
@@ -553,15 +655,25 @@ ii. toute mention de cette société dans l’accord valait mention du ministre.
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), le lieutenant-gouverneur en conseil peut, par règlement, traiter des filiales créées en vertu de ce paragraphe, et notamment :
+
 a) conférer à une filiale la capacité et les droits, pouvoirs et privilèges d’une personne physique pour qu’elle puisse réaliser sa mission, sous réserve des restrictions qu’il estime souhaitables;
+
 b) prévoir qu’une filiale est ou n’est pas un mandataire de la Couronne;
+
 c) prescrire les dispositions de la Loi de 2010 sur les organisations sans but lucratif, de la Loi sur les sociétés par actions, de la Loi sur les renseignements exigés des personnes morales et de la Loi sur les sociétés de prêt et de fiducie qui s’appliquent ou non à une filiale et, dans le cas des dispositions dont l’application est prescrite, en prescrire les adaptations que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables;
+
 d) régir la responsabilité de la Société ou de la Couronne en ce qui concerne un acte ou une omission :
+
 (i) d’une filiale,
+
 (ii) d’un administrateur, d’un dirigeant, d’un employé ou d’un mandataire d’une filiale;
+
 e) régir la responsabilité d’un administrateur, d’un dirigeant, d’un employé ou d’un mandataire d’une filiale en ce qui concerne un acte ou une omission de l’une ou l’autre de ces personnes;
+
 f) sous réserve de l’article 34, prévoir que toute disposition de la présente loi qui s’applique à la Société et qui ne s’appliquerait pas par ailleurs à une filiale s’applique effectivement à cette dernière, et prescrire les adaptations de cette disposition qu’il estime nécessaires ou souhaitables;
+
 g) régir la liquidation et la dissolution d’une filiale ainsi que le transfert de ses actifs et passifs, de ses droits et de ses obligations;
+
 h) prévoir toute autre question que le lieutenant-gouverneur en conseil estime nécessaire ou souhaitable pour faire en sorte qu’une filiale puisse exercer efficacement ses pouvoirs et ses fonctions.
 
 ### Règlements : filiales acquises par la Société
@@ -575,12 +687,19 @@ h) prévoir toute autre question que le lieutenant-gouverneur en conseil estime 
 ### Idem
 
 (3) Sans préjudice de la portée générale des paragraphes (1) et (2), le lieutenant-gouverneur en conseil peut, par règlement, traiter des filiales acquises en vertu du paragraphe (1), et notamment :
+
 a) prescrire les dispositions de la Loi de 2010 sur les organisations sans but lucratif, de la Loi sur les sociétés par actions, de la Loi sur les renseignements exigés des personnes morales et de la Loi sur les sociétés de prêt et de fiducie qui s’appliquent ou non à une filiale et, dans le cas des dispositions dont l’application est prescrite, en prescrire les adaptations qu’il estime nécessaires ou souhaitables;
+
 b) régir la responsabilité de la Société ou de la Couronne en ce qui concerne un acte ou une omission :
+
 (i) d’une filiale,
+
 (ii) d’un administrateur, d’un dirigeant, d’un employé ou d’un mandataire d’une filiale;
+
 c) sous réserve de l’article 34, prévoir que toute disposition de la présente loi qui s’applique à la Société et qui ne s’appliquerait pas par ailleurs à une filiale s’applique effectivement à cette dernière, et prescrire les adaptations de cette disposition qu’il estime nécessaires ou souhaitables;
+
 d) régir la liquidation et la dissolution d’une filiale ainsi que le transfert de ses actifs et passifs et de ses droits et obligations;
+
 e) traiter de toute autre question qu’il estime nécessaire ou souhaitable pour faire en sorte qu’une filiale puisse exercer efficacement ses pouvoirs et ses fonctions.
 
 ### Statut de mandataire de la Couronne
@@ -590,8 +709,11 @@ e) traiter de toute autre question qu’il estime nécessaire ou souhaitable pou
 ### Filiales qui sont des mandataires de la Couronne
 
 34 (1) Les dispositions suivantes s’appliquent, avec les adaptations nécessaires, aux filiales qui sont des mandataires de la Couronne et qui sont créées en vertu de l’article 32 ou acquises en vertu de l’article 33 :
+
 1. Les paragraphes 8 (2), (3), (4) et (5).
+
 2. Les paragraphes 13 (1) et (2).
+
 3. Les articles 15, 16, 17, 19, 21, 22, 23, 26 et 27.
 
 ### Jugements contre une filiale
@@ -601,7 +723,9 @@ e) traiter de toute autre question qu’il estime nécessaire ou souhaitable pou
 ### Idem
 
 (3) Le ministre des Finances prélève sur le Trésor le montant de tout jugement rendu contre une filiale mentionnée au paragraphe (1) qui demeure impayé une fois que :
+
 a) la filiale a fait des efforts raisonnables, notamment en liquidant des actifs, pour acquitter le montant du jugement;
+
 b) la Société a fait des efforts raisonnables, notamment en liquidant des actifs, pour acquitter le montant du jugement qui demeure impayé une fois que la filiale a fait les efforts visés à l’alinéa a).
 
 ### Règlements
@@ -611,25 +735,37 @@ b) la Société a fait des efforts raisonnables, notamment en liquidant des acti
 ### Règlements : fiducie, société de personnes ou autre entité
 
 35 (1) Le lieutenant-gouverneur en conseil peut, par règlement, autoriser la Société à faire ce qui suit :
+
 1. Créer une fiducie, une société de personnes ou une autre entité.
+
 2. Acquérir des actifs d’une fiducie, d’une société de personnes ou d’une autre entité.
+
 3. Acquérir des passifs d’une fiducie, d’une société de personnes ou d’une autre entité dont elle a acquis des actifs en vertu de la disposition 2.
 
 ### Idem
 
 (2) Dans le règlement pris en vertu du paragraphe (1), le lieutenant-gouverneur en conseil peut préciser les conditions qu’il estime nécessaires ou souhaitables en ce qui concerne :
+
 a) la création d’une fiducie, d’une société de personnes ou d’une autre entité;
+
 b) l’acquisition des actifs ou, s’il y a lieu, des passifs d’une fiducie, d’une société de personnes ou d’une autre entité.
 
 ### Fiducies créées par la Société
 
 (3) Sans préjudice de la portée générale des paragraphes (1) et (2), le lieutenant-gouverneur en conseil peut, par règlement, traiter des fiducies, des sociétés de personnes ou des autres entités créées en vertu de la disposition 1 du paragraphe (1), et notamment :
+
 a) prévoir qu’une fiducie, une société de personnes ou une autre entité est ou n’est pas un mandataire de la Couronne;
+
 b) prévoir que toute disposition de la présente loi qui s’applique à la Société et qui ne s’appliquerait pas par ailleurs à une fiducie, à une société de personnes ou à une autre entité s’applique effectivement à cette dernière et prescrire les adaptations de cette disposition qu’il estime nécessaires ou souhaitables;
+
 c) traiter de la responsabilité de la Société ou de la Couronne en ce qui concerne un acte ou une omission :
+
 (i) d’une fiducie, d’une société de personnes ou d’une autre entité,
+
 (ii) des fiduciaires d’une fiducie, des associés d’une société de personnes ou des membres du corps dirigeant d’une autre entité,
+
 (iii) des administrateurs, des employés ou des mandataires d’une fiducie, d’une société de personnes ou d’une autre entité;
+
 d) traiter de toute autre question qu’il estime nécessaire ou souhaitable pour faire en sorte qu’une fiducie, une société de personnes ou une autre entité puisse exercer efficacement ses pouvoirs et ses fonctions et réaliser efficacement sa mission.
 
 ### Règlements
@@ -637,26 +773,45 @@ d) traiter de toute autre question qu’il estime nécessaire ou souhaitable pou
 ### Règlements : pouvoir général
 
 36 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire les fins en matière d’infrastructure auxquelles la Société peut fournir un financement aux municipalités et aux organisations publiques admissibles visées à la disposition 1 du paragraphe 4 (1);
+
 b) prescrire des organisations du secteur public pour l’application de la disposition 5 du paragraphe 4 (1);
+
 c) prescrire les fins auxquelles la Société peut fournir des services et des conseils relativement aux biens immeubles pour l’application de la disposition 5 du paragraphe 4 (1);
+
 d) prescrire des activités pour l’application de la disposition 10 du paragraphe 4 (1);
+
 e) prescrire des conditions applicables aux organisations publiques admissibles pour l’application du paragraphe 4 (2);
+
 f) prescrire en tant qu’organisations publiques admissibles, pour l’application de la disposition 8 du paragraphe 4 (2), des organisations sans but lucratif qui profitent au public;
+
 g) prescrire en tant qu’organisations publiques admissibles, pour l’application de la disposition 9 du paragraphe 4 (2), des coopératives, au sens de la Loi sur les coopératives, qui profitent au public;
+
 h) prescrire les dates après lesquelles une organisation visée à la disposition 10 du paragraphe 4 (2) n’est plus admissible au financement;
+
 i) prescrire le nombre de membres du conseil d’administration de la Société pour l’application du paragraphe 9 (1);
+
 j) prescrire les dispositions de la Loi de 2010 sur les organisations sans but lucratif, de la Loi sur les sociétés par actions, de la Loi sur les renseignements exigés des personnes morales et de la Loi sur les sociétés de prêt et de fiducie qui s’appliquent à l’égard de la Société pour l’application de l’article 11 et prescrire les adaptations de ces dispositions qu’il estime nécessaires ou souhaitables;
+
 k) Abrogé : 2017, chap. 34, annexe 46, par. 39 (2).
+
 l) régir les questions transitoires qu’il estime nécessaires ou souhaitables pour faciliter la mise en oeuvre de la présente loi;
+
 m) régir les autres questions qu’il estime nécessaires ou souhaitables pour l’application de la présente loi.
 
 ### Idem
 
 (2) Le lieutenant-gouverneur en conseil peut, par règlement, modifier un règlement, peu importe s’il a été pris par lui ou un ministre, de la façon qu’il estime nécessaire ou souhaitable par suite de l’un ou l’autre des événements suivants :
+
 a) la fusion de la Société immobilière de l’Ontario, de la Société ontarienne de travaux d’infrastructure et de la société appelée Stadium Corporation of Ontario Limited qui sont prorogées en tant que Société ontarienne des infrastructures et de l’immobilier;
+
 b) l’abrogation de la Loi sur le ministère de l’Énergie et de l’Infrastructure, l’édiction de la Loi de 2011 sur le ministère de l’Énergie et de la Loi de 2011 sur le ministère de l’Infrastructure et la modification de la Loi sur le ministère des Services gouvernementaux.
+
 37 Omis (modification de la présente loi).
+
 38 et 39 Omis (modification ou abrogation d’autres textes législatifs).
+
 40 Omis (entrée en vigueur de dispositions de la présente loi).
+
 41 Omis (édiction du titre abrégé de la présente loi).

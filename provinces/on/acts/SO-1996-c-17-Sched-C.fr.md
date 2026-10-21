@@ -6,25 +6,32 @@ language: fr
 type: act
 document_date: "2019-12-10"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96c17"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # assurance des produits agricoles (Loi de 1996 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96c17) before relying on it.
 
 L.O. 1996, chap. 17, annexe C
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «AgriCorp» La personne morale créée par l’article 1 de la Loi de 1996 sur AgriCorp. («AgriCorp»)
+
 «assuré» Personne qui a conclu un contrat d’assurance avec AgriCorp. («insured person»)
+
 «Caisse» La Caisse d’assurance des produits agricoles de l’Ontario. («Fund»)
+
 «contrat d’assurance» Contrat d’assurance conclu entre une ou plusieurs personnes et AgriCorp pour l’assurance de produits agricoles en Ontario. («contract of insurance»)
+
 «ministre» Le ministre de l’Agriculture, de l’Alimentation et des Affaires rurales ou l’autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée ou transférée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «produits agricoles» Produits désignés par règlement. («agricultural products»)
+
 «Tribunal» Le Tribunal d’appel de l’agriculture, de l’alimentation et des affaires rurales maintenu aux termes de la Loi sur le ministère de l’Agriculture, de l’Alimentation et des Affaires rurales. («Tribunal») 1996, chap. 17, annexe C, art. 1
 
 ### Contrats d’assurance
@@ -52,7 +59,9 @@ L.O. 1996, chap. 17, annexe C
 ### Rétroactivité
 
 (2) Les accords visés au paragraphe (1) peuvent prévoir qu’ils entrent en vigueur, en tout ou en partie, avant la date de leur signature.
+
 (3) Abrogé : 2010, chap. 16, annexe 1, par. 1 (6).
+
 4 Abrogé : 2010, chap. 16, annexe 1, par. 1 (7).
 
 ### Conditions des contrats d’assurance
@@ -62,23 +71,37 @@ L.O. 1996, chap. 17, annexe C
 ### Approbation du ministre
 
 (1.1) AgriCorp doit obtenir l’approbation du ministre avant de faire ce qui suit :
+
 a) offrir de nouveaux contrats d’assurance types;
+
 b) apporter à un contrat d’assurance type existant des changements qui touchent :
+
 (i) la prime prélevée aux termes du contrat d’assurance,
+
 (ii) les risques assurés par le contrat d’assurance,
+
 (iii) tout autre aspect d’un contrat d’assurance qu’exige le ministre.
 
 ### Pouvoirs d’AgriCorp
 
 (2) AgriCorp dispose de tous les pouvoirs nécessaires pour exercer ses fonctions. Elle peut notamment :
+
 a) déterminer les qualités requises qu’une personne doit avoir et les conditions nécessaires qu’elle doit remplir pour conclure un contrat d’assurance, y compris déterminer si elle a un intérêt assurable dans un produit agricole;
+
 b) conclure des contrats d’assurance;
+
 c) établir les conditions des contrats d’assurance portant sur les indemnités de réensemencement, les indemnités de superficie non ensemencée, les indemnités de récupération, les indemnités de superficie omise et toute autre indemnité;
+
 d) fixer le taux des primes que doivent verser les assurés;
+
 e) fixer la durée des contrats d’assurance;
+
 f) préciser les circonstances dans lesquelles un assuré peut résilier un contrat d’assurance et les moyens qu’il peut utiliser à cette fin;
+
 g) préciser les peines imposées à l’assuré qui enfreint les conditions d’un contrat d’assurance;
+
 h) réassurer auprès d’un autre assureur l’ensemble ou une partie du risque couvert par ses contrats d’assurance;
+
 i) résilier un contrat d’assurance aux conditions qu’elle estime appropriées.
 
 ### Acceptation réputée
@@ -88,14 +111,19 @@ i) résilier un contrat d’assurance aux conditions qu’elle estime approprié
 ### Conditions à remplir par l’assuré
 
 (4) AgriCorp peut conclure un contrat d’assurance visant un produit agricole avec toute personne qui, à la fois :
+
 a) a un intérêt assurable dans le produit agricole;
+
 b) possède les qualités requises et remplit les conditions fixées par AgriCorp en vertu de l’alinéa (2) a).
 
 ### Cas où plusieurs personnes ont un intérêt assurable dans le produit
 
 (5) Si plusieurs personnes ont un intérêt assurable dans un produit agricole, AgriCorp peut, selon le cas :
+
 a) conclure un contrat d’assurance individuel avec chacune d’elles;
+
 b) conclure un contrat d’assurance collectif avec elles;
+
 c) conclure une combinaison de contrats d’assurance individuels et de contrats d’assurance collectifs.
 
 ### Restriction
@@ -105,15 +133,21 @@ c) conclure une combinaison de contrats d’assurance individuels et de contrats
 ### Idem : intérêts assurables multiples
 
 (7) Les conditions suivantes s’appliquent si AgriCorp conclut plus d’un contrat d’assurance visant un produit agricole :
+
 1. Chaque contrat d’assurance doit assurer un intérêt assurable différent dans le produit agricole.
+
 2. Sous réserve de la disposition 3, le montant d’assurance souscrit aux termes de l’ensemble des contrats d’assurance doit correspondre à la somme de l’intérêt assurable complet de chaque assuré dans le produit agricole.
+
 3. Le montant d’assurance souscrit aux termes de l’ensemble des contrats d’assurance ne doit pas dépasser la valeur totale du produit agricole.
 
 ### Intérêt assurable
 
 (8) Pour l’application du présent article, les personnes suivantes ont un intérêt assurable dans un produit agricole :
+
 1. Tout producteur du produit agricole.
+
 2. Toute personne susceptible de tirer profit de la production réussie du produit agricole ou de subir un préjudice en cas de perte ou d’endommagement de celui-ci.
+
 3. Toute autre personne qui, de l’avis d’AgriCorp, a un intérêt assurable dans le produit agricole.
 
 ### Aucun statut de règlement
@@ -141,9 +175,13 @@ c) conclure une combinaison de contrats d’assurance individuels et de contrats
 ### Inspection
 
 8 (1) L’inspecteur peut, à l’égard d’un assuré, d’un proposant d’un contrat d’assurance, d’une personne qui a fait une demande d’adhésion à un régime que gère AgriCorp ou d’une personne qui a le droit de recevoir un paiement dans le cadre d’un régime que gère AgriCorp :
+
 a) pénétrer dans un bien-fonds ou un lieu, autre qu’une habitation, que ces personnes occupent ou dont elles sont propriétaires, procéder à l’inspection de ce bien-fonds et de ce lieu ainsi que des objets qui s’y trouvent;
+
 b) exiger de ces personnes qu’elles remettent les livres, dossiers, documents ou les extraits de ceux-ci qui se rapportent :
+
 (i) soit aux produits agricoles assurés en vertu du contrat d’assurance ou auxquels s’applique la proposition,
+
 (ii) soit à l’entreprise de la personne à l’égard de laquelle la personne a fait une demande d’adhésion à un régime que gère AgriCorp ou à l’égard de laquelle la personne a le droit de recevoir un paiement.
 
 ### Heures d’inspection
@@ -209,6 +247,7 @@ b) exiger de ces personnes qu’elles remettent les livres, dossiers, documents 
 ### Décision du Tribunal
 
 (4) La décision que le Tribunal rend à l’égard d’un appel est définitive et lie les parties.
+
 (5) Abrogé : 2019, chap. 14, annexe 3, par. 5 (4).
 
 ### Dispositions diverses
@@ -220,7 +259,9 @@ b) exiger de ces personnes qu’elles remettent les livres, dossiers, documents 
 ### Dépôts à la Caisse
 
 (2) AgriCorp dépose à la Caisse :
+
 a) toutes les sommes qu’elle reçoit aux termes de la présente loi;
+
 b) tous les prêts qu’elle reçoit à l’égard des contrats d’assurance.
 
 ### Non des deniers publics
@@ -238,11 +279,19 @@ b) tous les prêts qu’elle reçoit à l’égard des contrats d’assurance.
 ### Règlements du ministre
 
 11.1 Le ministre peut, par règlement, traiter de tout ce qui est nécessaire ou souhaitable pour réaliser l’objet de la présente loi, notamment :
+
 a) désigner des produits agricoles pour l’application de la présente loi;
+
 a.1) régir la façon d’interjeter un appel visé à l’article 10, notamment tout ce que le paragraphe 10 (2) mentionne comme étant précisé par les règlements;
+
 b) définir les mots et les expressions employés dans la présente loi qui n’ont pas été définis expressément dans celle-ci.
+
 12 Abrogé : 2019, chap. 14, annexe 3, art. 8.
+
 13 Abrogé : 2019, chap. 14, annexe 3, art. 8.
+
 14 Omis (modifie ou abroge d’autres lois).
+
 15 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 16 Omis (édicte le titre abrégé de la présente loi).

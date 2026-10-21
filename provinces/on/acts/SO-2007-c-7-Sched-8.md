@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2023-06-08"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07e07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Early Childhood Educators Act, 2007
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07e07) before relying on it.
 
 S.O. 2007, c. 7, Sched. 8
 
@@ -21,34 +21,63 @@ S.O. 2007, c. 7, Sched. 8
 ### Definitions
 
 1 (1) In this Act,
+
 “by-laws” means the by-laws made under this Act; (“règlements administratifs”)
+
 “child” means a person under the age of 18 years; (“enfant”)
+
 “College” means the College of Early Childhood Educators established under section 6; (“Ordre”)
+
 “complaint resolution process” means a process that includes mediation, conciliation, negotiation, or any other means of facilitating the resolution of issues in dispute; (“processus de règlement des plaintes”)
+
 “Council” means the Council of the College established in accordance with section 8; (“conseil”)
+
 “health professional” means a member of a health profession within the meaning of the Regulated Health Professions Act, 1991; (“professionnel de la santé”)
+
 “Minister” means the Minister of Education or any other member of the Executive Council to whom the administration of this Act is assigned under the Executive Council Act; (“ministre”)
+
 “personal health information” has the same meaning as in the Personal Health Information Protection Act, 2004; (“renseignements personnels sur la santé”)
+
 “prescribed sexual act” means an act of a sexual nature that is prohibited under the Criminal Code (Canada) and is prescribed by a regulation made under clause 45 (1) (c.2) of this Act; (“acte sexuel prescrit”)
+
 “professional misconduct” means,
+
 (a) sexual abuse of a child,
+
 (b) sexual misconduct,
+
 (c) engaging in prohibited acts involving child pornography,
+
 (c.1) engaging in a prescribed sexual act,
+
 (d) conduct that contravenes this Act, the regulations or the by-laws,
+
 (e) conduct that contravenes an order of the Discipline Committee, the Complaints Committee, the Council or the Registrar, or
+
 (f) any other act or conduct prescribed by the regulations; (“faute professionnelle”)
+
 “prohibited act involving child pornography” means any act prohibited under section 163.1 of the Criminal Code (Canada); (“acte interdit impliquant de la pornographie juvénile”)
+
 “regulations” means the regulations made under this Act. (“règlements”)
+
 “sexual abuse” of a child by a member means,
+
 (a) sexual intercourse or other forms of physical sexual relations between the member and the child,
+
 (b) touching, of a sexual nature, of the child by the member, or
+
 (c) behaviour or remarks of a sexual nature by the member towards the child; (“mauvais traitements d’ordre sexuel”)
+
 “sexual misconduct” means inappropriate behaviour or remarks of a sexual nature by the member that is not sexual abuse of a child, where,
+
 (a) one or more children are exposed to the behaviour or remarks, or the member knows or ought to know that one or more children are likely to be exposed to the behaviour or remarks, and
+
 (b) a reasonable person would expect the behaviour or remarks to have the effect of,
+
 (i) causing distress to a child exposed to the behaviour or remarks,
+
 (ii) being detrimental to the physical or mental well-being of a child, or
+
 (iii) creating a negative environment for a child exposed to the behaviour or remarks. (“inconduite sexuelle”)
 
 ### Same, electronic means
@@ -58,16 +87,23 @@ S.O. 2007, c. 7, Sched. 8
 ### Exception
 
 (3) For the purposes of clauses (b) and (c) of the definition of “sexual abuse” in subsection (1),
+
 “sexual nature” does not include,
+
 (a) touching or behaviour that is necessary for the purposes of diapering, toileting, washing or dressing a child as part of an early childhood educator’s professional responsibilities, or
+
 (b) remarks that are pedagogically appropriate.
 
 ### Practice of early childhood education
 
 2 The practice of early childhood education is the planning and delivery of inclusive play-based learning and care programs for children in order to promote the well-being and holistic development of children, and includes,
+
 (a) the delivery of programs to children 12 years or younger;
+
 (b) the assessment of the programs and of the progress of children in the programs;
+
 (c) communication with the parents or persons with legal custody of the children in the programs in order to improve the development of the children; and
+
 (d) such other services or activities as may be prescribed by the regulations.
 
 ## Part II Prohibitions
@@ -79,13 +115,21 @@ S.O. 2007, c. 7, Sched. 8
 ### Application
 
 (2) Subsection (1) does not apply to any of the following persons:
+
 1. A person employed as a teacher or teaching assistant in an institution that is a school as defined in subsection 1 (1) of the Education Act.
+
 1.1 A person who, under the authority of a letter of permission, is appointed by a board as defined in subsection 1 (1) of the Education Act to a position designated by the board as requiring an early childhood educator.
+
 2. A person who is employed in a child care centre or by a home child care agency, a person who provides home child care or in-home services or any other person prescribed for the purpose under the Child Care and Early Years Act, 2014 if, pursuant to that Act and the regulations made under it, the person is not required to,
+
 i. hold a certificate of registration, or
+
 ii. satisfy the requirements for qualifying for a certificate prescribed by the regulations made under this Act.
+
 3. A person who, pursuant to subsection 6 (3) or (4) of the Child Care and Early Years Act, 2014, is not required to hold a licence to operate a child care centre, and who provides child care in the circumstances described in paragraph 2 or 3 of subsection 6 (3) of that Act, or, if relevant, in subsection 6 (4) of that Act.
+
 4.-6. Repealed: 2014, c. 11, Sched. 3, s. 3 (5).
+
 7. Any other person or class of persons prescribed by a regulation made under subsection 45 (1).
 
 ### Same
@@ -127,15 +171,25 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Objects
 
 (2) The College has the following objects:
+
 1. To regulate the practice of early childhood education and to govern its members.
+
 2. To develop, establish and maintain qualifications for membership in the College.
+
 3. To accredit programs in early childhood education offered by post-secondary educational institutions and other bodies.
+
 3.1 To provide for the ongoing education of members of the College and to accredit ongoing education programs.
+
 4. To issue certificates of registration to members of the College and to renew, amend, suspend, cancel, revoke and reinstate those certificates.
+
 5. To establish an appeal mechanism for registration decisions.
+
 6. To establish and enforce professional standards and ethical standards that are applicable to members of the College and that demonstrate a respect for diversity and a sensitivity to the multicultural character of the Province.
+
 7. To receive and investigate complaints against members of the College and to deal with issues of discipline, professional misconduct, incompetency and incapacity.
+
 8. To promote high standards and quality assurance with respect to early childhood educators and to communicate with the public on behalf of the members.
+
 9. To perform the additional functions prescribed by a regulation made under subsection 45 (1).
 
 ### Council: Registrar’s role; remuneration
@@ -147,7 +201,9 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Composition of Council
 
 (2) The Council shall be composed of,
+
 (a) 14 early childhood educators who are members of the College and who are elected by the members of the College in accordance with the by-laws to represent such geographic areas of the Province as may be determined by regulation;
+
 (b) 10 persons who are not members of the College and who are appointed by the Lieutenant Governor in Council to represent such sectors of Ontario society as may be prescribed by a regulation made under subsection 45 (1).
 
 ### Role of Registrar
@@ -173,7 +229,9 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Member in good standing
 
 (2) A member of the College is in good standing for the purposes of this section if,
+
 (a) the member is not in default of payment of a membership fee prescribed by the by-laws; and
+
 (b) the member’s certificate of registration is not suspended.
 
 ### Quorum
@@ -191,10 +249,15 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Exceptions
 
 (2) The Council may exclude the public, including members of the College, from a meeting or any part of a meeting if it is satisfied that,
+
 (a) financial or personal or other matters may be disclosed of such a nature that the desirability of avoiding public disclosure of them in the interest of any person affected or in the public interest outweighs the desirability of adhering to the principle that the meetings be open to the public;
+
 (b) a person involved in a civil or criminal proceeding may be prejudiced;
+
 (c) the safety of a person may be jeopardized;
+
 (d) personnel matters or property transactions will be discussed; or
+
 (e) litigation affecting the College will be discussed or instructions will be given to or opinions received from solicitors for the College.
 
 ### Same
@@ -228,8 +291,11 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Minister’s powers and duties
 
 16 (1) The Minister may,
+
 (a) review the activities of the Council and require the Council to provide reports and information;
+
 (b) require the Council to do anything that the Minister believes is necessary or advisable to carry out the objects of the College;
+
 (c) require the Council to make, amend or revoke a regulation under section 43.
 
 ### Council to comply
@@ -263,18 +329,27 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Committees of Council
 
 19 (1) The Council shall establish the following committees:
+
 1. Executive Committee.
+
 2. Registration Appeals Committee.
+
 3. Complaints Committee.
+
 4. Discipline Committee.
+
 5. Fitness to Practise Committee.
 
 ### Same
 
 (2) In appointing persons to the committees mentioned in subsection (1), the Council shall ensure that,
+
 (a) each committee has at least one member who is an elected member of the Council referred to in clause 8 (2) (a);
+
 (b) at least one-third of the members of each committee are appointed members of the Council referred to in clause 8 (2) (b);
+
 (c) no person who is a member of the Complaints Committee is also a member of the Discipline Committee or the Fitness to Practise Committee; and
+
 (d) the appointments are made in accordance with the by-laws.
 
 ### Chair
@@ -288,9 +363,13 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Same
 
 (5) Each panel appointed under subsection (4) shall be composed in accordance with the following rules:
+
 1. The panel shall be composed of at least three persons.
+
 2. A majority of the persons on the panel must be members of the committee.
+
 3. The panel must include at least one member of the committee who was elected to the Council under clause 8 (2) (a) and at least one member of the committee who was appointed to the Council under clause 8 (2) (b).
+
 4. A member of the panel who is not a member of the committee must be on a roster of eligible panellists for the committee established under subsection (5.1).
 
 ### Roster of eligible panellists
@@ -340,14 +419,19 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Approval of application for registration
 
 25 (1) The Registrar shall issue a certificate of registration to an applicant if the applicant,
+
 (a) applies for it in accordance with the regulations and the by-laws;
+
 (b) meets the registration requirements prescribed by regulation; and
+
 (c) pays the fees required under the by-laws.
 
 ### Grounds for refusal
 
 (2) The Registrar may refuse to issue a certificate of registration if the Registrar has reasonable grounds to believe that,
+
 (a) the past conduct or actions of the applicant afford grounds for belief that the applicant will not perform his or her duties as an early childhood educator, in accordance with the law, including but not limited to this Act, the regulations and the by-laws; or
+
 (b) the applicant does not fulfil the requirements under this Act for the issuance of the certificate.
 
 ### Same
@@ -373,8 +457,11 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Notice of proposal to refuse to issue, etc.
 
 27 (1) If the Registrar proposes to do one of the following, the Registrar shall first serve notice of the proposal, with written reasons for it, on the applicant:
+
 1. Refuse to issue a certificate of registration.
+
 2. Impose terms, conditions or limitations to which the applicant has not consented on a certificate of registration to be issued.
+
 3. Repealed: 2016, c. 24, Sched. 1, s. 4 (1).
 
 ### Exception
@@ -428,9 +515,13 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Order
 
 (7) After considering the request for review, the submissions and any document that the Committee considers relevant, the Committee may make an order doing one or more of the following:
+
 1. Directing the Registrar to issue the certificate of registration.
+
 2. Directing the Registrar to issue the certificate of registration and to make it subject to specified terms, conditions or limitations.
+
 3. Directing the Registrar to vary or remove specified terms, conditions or limitations in the Registrar’s proposal.
+
 4. Directing the Registrar to refuse to issue a certificate of registration.
 
 ### Same
@@ -448,13 +539,17 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Same
 
 (2) The application must be,
+
 (a) made in writing; and
+
 (b) accompanied by the fee prescribed for the purpose by the by-laws.
 
 ### Limitations
 
 (3) The right to apply under subsection (1) is subject to,
+
 (a) any limitation imposed by the Registrar or the Registration Appeals Committee under section 25, 27 or 28; and
+
 (b) any limitation imposed under subsection (8) in the disposition of a previous application under this section.
 
 ### Submissions
@@ -472,8 +567,11 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Orders
 
 (7) After considering the application, the submissions and any document that the Committee considers relevant, the Registration Appeals Committee may make an order doing one or more of the following:
+
 1. Refusing the application.
+
 2. Directing the Registrar to remove any term, condition or limitation imposed on the certificate of registration.
+
 3. Directing the Registrar to impose specified terms, conditions or limitations on the certificate of registration.
 
 ### Limitations on application
@@ -495,17 +593,29 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Contents
 
 (2) The register shall contain,
+
 (a) each member’s name and, where applicable, the class of certificate of registration that the member holds and any additional qualifications indicated on the member’s certificate or any certificates of additional qualifications that the member holds;
+
 (b) the terms, conditions and limitations imposed on each certificate of registration, including terms, conditions and limitations resulting from a written undertaking or other agreement between the College and the member;
+
 (b.1) any restrictions imposed on a member’s eligibility to practise by an order of a court or other lawful authority, including the name and location of the court or authority and the date the order was made;
+
 (b.2) a notation of every matter that has been referred to the Discipline Committee under section 31, 32 or 36;
+
 (b.3) for every hearing of the Discipline Committee, a notice of hearing and a notice of the day and time of the hearing, together with a link to the notices as published on the College’s website;
+
 (b.4) if a resolution adopted by the Complaints Committee under section 31.1 provides for a notation to be included in the register, a notation of the resolution, and, if the resolution provides for the resolution, a summary of the resolution or a part of the resolution to be published on the College’s website, a link to that publication;
+
 (b.5) a notation of every decision of the Discipline Committee following a proceeding, together with a link to the decision as published on the College’s website;
+
 (b.6) a notation of every resolution adopted by the Discipline Committee under section 33.1, together with a link to the resolution as published on the College’s website;
+
 (c) a notation of every revocation, cancellation and suspension of a member’s certificate of registration;
+
 (d) information that a committee required by subsection 19 (1) or established under section 20 directs shall be included;
+
 (d.1) subject to the regulations, information respecting any current or previous criminal proceedings involving a member that are relevant to his or her membership, including any undertakings of the member in relation to the proceeding; and
+
 (e) any other information that the by-laws prescribe as information to be kept in the register.
 
 ### Personal information
@@ -515,13 +625,17 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Personal health information
 
 (2.1.1) The Registrar shall not include in the register, disclose to an individual or publish on the College’s website or in any other publication more personal health information about a member than is necessary to serve and protect the public interest.
+
 (2.1.2) Repealed: 2018, c. 8, Sched. 8, s. 2.
 
 ### Removal of specified information
 
 (2.2) The Registrar shall remove from the register, in a timely manner,
+
 (a) any terms, conditions or limitations imposed on a certificate of registration, as referred to in clause (2) (b), that are no longer applicable other than any terms, conditions or limitations imposed by a decision or resolution ordered or adopted by the Discipline Committee;
+
 (b) any restrictions imposed on a member’s eligibility to practise, as referred to in clause (2) (b.1), that are no longer applicable; and
+
 (c) information respecting current or previous criminal proceedings referred to in clause (2) (d.1) that are no longer applicable or relevant to the member’s membership, as provided by the regulations.
 
 ### Day and time of hearing
@@ -535,7 +649,9 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Same
 
 (2.5) The Council may make by-laws authorizing the removal of information described in clauses (2) (b.2), (b.3), (b.4), (b.5) and (b.6), but only in accordance with the following:
+
 1. The information must not be a notation of a decision or resolution, or a link to the decision or resolution, ordered or adopted by the Discipline Committee that required a reprimand, an admonishment, counselling, a fine, or the imposition of a term, condition or limitation on a certificate of registration.
+
 2. The information must not relate to a matter that resulted in an order to revoke or suspend a certificate.
 
 ### No publication of specified information
@@ -553,7 +669,9 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Suspension: failure to pay fees, provide information
 
 30 (1) The Registrar may suspend the certificate of registration of a member of the College for,
+
 (a) failure to pay a fee or penalty prescribed by the by-laws; or
+
 (b) failure to provide information required by the by-laws.
 
 ### Same
@@ -573,15 +691,21 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Duties of Complaints Committee
 
 31 (1) The Complaints Committee shall consider and investigate complaints regarding the conduct or actions of a member of the College, including complaints made by,
+
 (a) a member of the public;
+
 (b) a member of the College;
+
 (c) the Registrar; or
+
 (d) the Minister.
 
 ### Same
 
 (1.1) As soon as reasonably possible after receiving a complaint, the Registrar shall,
+
 (a) provide the complainant with confirmation that the complaint was received; and
+
 (b) notify the member that a complaint regarding his or her actions was made and provide the member with a copy of the complaint or, if the Registrar considers it appropriate in the circumstances, a summary of the complaint.
 
 ### Same
@@ -603,24 +727,35 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Same
 
 (2) Despite subsections (1) and (1.2.2), the Complaints Committee shall refuse to consider and investigate a complaint if, in its opinion,
+
 (a) the complaint does not relate to professional misconduct, incompetence or incapacity on the part of a member of the College;
+
 (b) the complaint is frivolous, vexatious, an abuse of process, manifestly without substance or made for an improper purpose; or
+
 (c) the complaint does not warrant further investigation or it is not in the public interest to investigate the complaint further, and that determination was made in accordance with the regulations.
 
 ### Same
 
 (3) No action shall be taken by the Complaints Committee under subsection (5) unless,
+
 (a) a complaint in writing or in another form that is capable of being reproduced, such as a disc or tape, has been filed with the Registrar;
+
 (b) the member whose conduct or actions are being investigated has been given 60 days, or a different time period if specified under subsection (4), in which to submit in writing to the Committee any explanations or representations the member may wish to make concerning the matter; and
+
 (c) the Committee has examined or has made every reasonable effort to examine all the information and documents that the College has that are relevant to the complaint, including,
+
 (i) any prior decisions of a committee established under this Act that relate to the member,
+
 (ii) any information about or obtained in concurrent proceedings before a committee established under this Act that relates to the member,
+
 (iii) any resolutions adopted by a committee established under this Act that were reached through a complaint resolution process and relate to the member.
 
 ### Same
 
 (4) The Complaints Committee may specify a different time period for the purposes of clause (3) (b) in accordance with the following:
+
 1. The Committee may specify a period of time of less than 60 days if the Committee is of the opinion, on reasonable and probable grounds, that the conduct of the member exposes or is likely to expose one or more children to harm or injury.
+
 2. The Committee may specify a period of time that is more than 60 days in accordance with the regulations.
 
 ### Same
@@ -650,26 +785,35 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### If grounds to believe member is incapacitated
 
 (4.7) If, after making inquiries, the Complaints Committee has reasonable and probable grounds to believe that the member is incapacitated, it may,
+
 (a) require the member to submit to physical or mental examinations which shall be conducted or ordered by a health professional specified by the Committee; and
+
 (b) make an order, subject to subsection (4.10), directing the Registrar to suspend the member’s certificate of registration until the member submits to the examinations.
 
 ### Report
 
 (4.8) A health professional who conducts an examination of a member required under clause (4.7) (a) shall, following the examination, provide to the Complaints Committee a report containing,
+
 (a) an assessment of whether the member is or has been incapacitated;
+
 (b) an assessment of the extent of any incapacity and the prognosis for recovery; and
+
 (c) any further physical or mental considerations that are relevant to the matter before the Committee.
 
 ### Copies of report
 
 (4.9) The Complaints Committee shall give a copy of any report referred to in subsection (4.8) to the member and may give a copy of the report to,
+
 (a) the Executive Committee, for the purposes of determining whether an interim order should be made under subsection 32 (3) or 32.2 (1); or
+
 (b) the Fitness to Practise Committee, if the matter is referred to that committee under clause (5) (a).
 
 ### Order to suspend
 
 (4.10) No order shall be made under clause (4.7) (b), unless the member has been given,
+
 (a) notice of the Complaints Committee’s intention to make the order; and
+
 (b) at least the prescribed time period to make written submissions in respect of the order to the Complaints Committee.
 
 ### Same
@@ -679,12 +823,19 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Same
 
 (5) The Complaints Committee, in accordance with the information it receives, shall,
+
 (a) direct that the matter be referred, in whole or in part, to the Discipline Committee or the Fitness to Practise Committee;
+
 (b) direct that the matter not be referred under clause (a);
+
 (c) require the person complained against to appear before the Complaints Committee to be cautioned or admonished; or
+
 (d) Repealed: 2014, c. 11, Sched. 3, s. 12 (6).
+
 (e) take such action as it considers appropriate in the circumstances and that is not inconsistent with this Act, the regulations or the by-laws, including,
+
 (i) issuing a caution, reminder, advice or admonishment to the person complained against, or
+
 (ii) requiring the member to complete a specified continuing education or remediation program.
 
 ### Decision and reasons
@@ -710,8 +861,11 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Complaint resolution process
 
 31.1 (1) The Registrar may refer the College and the member who is the subject of a complaint to a complaint resolution process to which the College and the member have consented,
+
 (a) if the Registrar determines, on reasonable and probable grounds and in accordance with any regulations, that the complaint, if proven, would likely result in the member receiving a caution, a reminder, advice or admonishment from the Complaints Committee under clause 31 (5) (c) or (e);
+
 (b) if the Complaints Committee has not yet taken action under subsection 31 (5); and
+
 (c) if the matter does not involve an allegation of sexual abuse of a child, sexual misconduct, a prohibited act involving child pornography or a prescribed sexual act.
 
 ### Same
@@ -721,21 +875,29 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Same
 
 (3) Before a resolution that will be proposed to the Complaints Committee under subsection (4) is reached,
+
 (a) the Registrar shall consult, or make reasonable efforts to consult, with the complainant; and
+
 (b) if the complainant is not the member’s employer and the Registrar considers it appropriate in the circumstances, the Registrar may request that the employer provide the Registrar with information that relates to the complaint.
 
 ### Same
 
 (4) If the College and the member reach a resolution of a matter that has been referred to the complaint resolution process under subsection (1), they shall propose it to the Complaints Committee and the Committee may,
+
 (a) adopt the proposed resolution;
+
 (b) modify the proposed resolution; or
+
 (c) reject the proposed resolution.
 
 ### Same
 
 (5) Before taking action under subsection (4), the Complaints Committee shall consider,
+
 (a) any prior decisions of a committee established under this Act that relate to the member;
+
 (b) any information about or obtained in concurrent proceedings before a committee established under this Act that relates to the member; and
+
 (c) any resolutions adopted by a committee established under this Act that were reached though a complaint resolution process and relate to the member.
 
 ### Same
@@ -745,7 +907,9 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Same
 
 (6) If the Complaints Committee modifies the proposed resolution, the Committee shall notify the College and the member of the modifications and,
+
 (a) if both the College and the member agree to the modifications, the proposed resolution shall be considered adopted, as modified, by the Committee; or
+
 (b) if either the College or the member does not agree to the modifications, the proposed resolution shall be considered rejected by the Committee.
 
 ### Same
@@ -783,7 +947,9 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Complaint resolution process
 
 (2) If the Registrar refers a matter to a complaint resolution process under subsection 31.1 (1),
+
 (a) that process must be carried out in accordance with any timelines prescribed by the regulations; and
+
 (b) for the purposes of subsection (1), the time period beginning on the day the referral is made and ending on the day the matter is referred back to the Committee under subsection 31.1 (7) or (8) shall not be counted.
 
 ### If complaint not disposed of
@@ -807,13 +973,17 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Interim suspension
 
 (3) The Council or the Executive Committee may make an interim order directing the Registrar to suspend the certificate of registration of a member of the College or impose terms, conditions or limitations on a member’s certificate of registration if,
+
 (a) an allegation respecting the member has been referred to the Discipline Committee or to the Fitness to Practise Committee; and
+
 (b) the Council or the Executive Committee believes that the actions or conduct of the member directly or indirectly exposes or is likely to expose a child to harm or injury.
 
 ### Restriction
 
 (4) No order shall be made under subsection (3) unless the member has been given,
+
 (a) notice of the Council’s or the Executive Committee’s intention to make the order; and
+
 (b) at least 14 days to make written submissions to the Council or the Executive Committee.
 
 ### Same
@@ -827,7 +997,9 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Procedure following order
 
 (7) If an order is made under subsection (3) in relation to a matter referred to the Discipline Committee or to the Fitness to Practise Committee,
+
 (a) the Council or the Executive Committee shall ensure that the committee proceed with the matter expeditiously; and
+
 (b) the committee shall give precedence to the matter.
 
 ### Duration of order
@@ -837,6 +1009,7 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Complaint, report of child in need of protection, etc.
 
 32.1 (1) This section applies with respect to a complaint if the Registrar believes, on reasonable grounds, that the complainant or any other person was likely required to make a report under section 125 of the Child, Youth and Family Services Act, 2017 in relation to the conduct or actions of the member that are the subject of the complaint.
+
 (2) Repealed: 2016, c. 24, Sched. 1, s. 10.
 
 ### Referral to Executive Committee
@@ -850,13 +1023,17 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Interim suspension
 
 32.2 (1) The Council or the Executive Committee may make an interim order directing the Registrar to suspend a member’s certificate of registration or impose terms, conditions or limitations on a member’s certificate of registration if,
+
 (a) a complaint is referred to the Council or the Executive Committee by the Complaints Committee under subsection 31 (1.2.1) or following the appointment of an investigator under section 39; and
+
 (b) the Council or the Executive Committee is of the opinion that the actions or conduct of the member exposes or is likely to expose a child to harm or injury.
 
 ### Restriction
 
 (2) No order shall be made under subsection (1) unless the member has been given,
+
 (a) notice of the Executive Committee’s or the Council’s intention to make the order; and
+
 (b) at least 14 days to make written submissions to the Executive Committee or the Council.
 
 ### Same
@@ -874,7 +1051,9 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Same
 
 (6) If the Complaints Committee directs under clause 31 (5) (a) that the matter be referred, in whole or in part, to the Discipline Committee or the Fitness to Practise Committee,
+
 (a) the College shall prosecute the matter expeditiously; and
+
 (b) the Discipline Committee or the Fitness to Practise Committee shall give precedence to the matter.
 
 ### Duration of order
@@ -884,7 +1063,9 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Discipline Committee
 
 33 (1) The Discipline Committee shall,
+
 (a) hear and determine matters directed or referred to it under section 31, 32 or 36; and
+
 (b) perform any other duties assigned to it by the Council.
 
 ### Same, complaint resolution process
@@ -898,25 +1079,37 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Incompetence
 
 (3) The Discipline Committee may, after a hearing, find a member of the College to be incompetent if, in its opinion, the member has displayed in his or her professional responsibilities a lack of knowledge, skill or judgment or disregard for the welfare of a child of a nature or extent that demonstrates that,
+
 (a) the member is unfit to continue to carry out his or her professional responsibilities; or
+
 (b) the member’s certificate of registration should be made subject to terms, conditions or limitations.
 
 ### Powers of Discipline Committee
 
 (4) If the Discipline Committee finds a member guilty of professional misconduct or to be incompetent, it shall make an order doing one or more of the following:
+
 1. Directing the Registrar to revoke the member’s certificate of registration.
+
 2. Directing the Registrar to suspend the member’s certificate of registration for a specified period, not exceeding 24 months.
+
 3. Directing the Registrar to impose specified terms, conditions or limitations on the member’s certificate of registration.
+
 4. Directing that the Registrar not carry out a direction made under paragraph 1, 2 or 3 for a specified period and not carry out the direction at all if specified terms are met within that period.
+
 5. If the act of professional misconduct consists of or includes sexual abuse, a prescribed sexual act or a prohibited act involving child pornography, requiring the member to reimburse the College for funding provided for a person under the program required under section 59.2.
+
 6. If the panel makes an order under paragraph 5, requiring the member to post security acceptable to the College to guarantee the payment of any amounts the member may be required to reimburse the College under the order under paragraph 5.
 
 ### Same
 
 (5) If the Discipline Committee finds a member guilty of professional misconduct, it may, in addition to exercising its powers under subsection (4), make an order doing one or more of the following:
+
 1. Requiring that the member be reprimanded, admonished or counselled by the Committee or its delegate.
+
 2. Imposing a fine in an amount that the Committee considers appropriate, to a maximum of $2,000, to be paid by the member to the Minister of Finance for payment into the Consolidated Revenue Fund.
+
 3. Repealed: 2014, c. 11, Sched. 3, s. 15 (4).
+
 4. Fixing costs to be paid by the member.
 
 ### Same
@@ -926,6 +1119,7 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Same
 
 (7) In making an order revoking or suspending a certificate of registration or imposing terms, conditions or limitations on a certificate of registration, the Committee may fix a period during which the member may not apply under section 36.
+
 (8) Repealed: 2014, c. 11, Sched. 3, s. 15 (5).
 
 ### Costs
@@ -935,21 +1129,29 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Complaint resolution process
 
 33.1 (1) The Discipline Committee may refer the College and the member who is the subject of a matter to a complaint resolution process to which the College and the member have consented,
+
 (a) if the Committee considers it appropriate to do so;
+
 (b) if the matter has not yet been determined by the Discipline Committee under section 33; and
+
 (c) if the matter does not involve an allegation of sexual abuse of a child, sexual misconduct, a prohibited act involving child pornography or a prescribed sexual act.
 
 ### Same
 
 (2) If the College and the member reach a resolution of a matter that has been referred to the complaint resolution process under subsection (1), they shall propose it to the Discipline Committee and the Committee may,
+
 (a) adopt the proposed resolution;
+
 (b) modify the proposed resolution; or
+
 (c) reject the proposed resolution.
 
 ### Same
 
 (3) If the Discipline Committee modifies the proposed resolution, the Committee shall notify the College and the member of the modifications and,
+
 (a) if both the College and the member agree to the modifications, the proposed resolution shall be considered adopted, as modified, by the Committee; or
+
 (b) if either the College or the member does not agree to the modifications, the proposed resolution shall be considered rejected by the Committee.
 
 ### Same
@@ -979,7 +1181,9 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Members disqualified from panel that hears matter
 
 (10) The following persons may not participate in a panel of the Discipline Committee that hears and determines a matter in accordance with section 33:
+
 1. The members of the panel of the Discipline Committee that referred the matter under subsection (1) or considered making such a referral.
+
 2. The members of the panel of the Discipline Committee that rejected any proposed resolution.
 
 ### No application to reinstatement and variation procedures
@@ -993,25 +1197,37 @@ ii. satisfy the requirements for qualifying for a certificate prescribed by the 
 ### Authorization for Registrar to make referrals
 
 (13) The Discipline Committee may authorize the Registrar to make referrals under subsection (1) on behalf of the Discipline Committee and the following apply when the Registrar acts in accordance with such an authorization:
+
 1. The reference to the Committee in clause (1) (a) is deemed to be a reference to the Registrar.
+
 2. The Registrar is subject to,
+
 i. the limitations the Discipline Committee is subject to under this section,
+
 ii. any limitations in the authorization, and
+
 iii. any limitations prescribed by the regulations.
+
 3. The Registrar shall not refer a matter under subsection (1) if the Registrar had referred the matter to a complaint resolution process under subsection 31.1 (1).
 
 ### Orders relating to sexual abuse, child pornography, etc.
 
 33.2 (1) If, under section 33, the Discipline Committee finds a member guilty of an act of professional misconduct consisting of, or including, an act listed in subsection (2) of this section, the Committee shall, in addition to anything else the committee may do under subsection 33 (5),
+
 (a) make an order requiring that the member be reprimanded by the Committee;
+
 (b) make an interim order directing the Registrar to suspend the member’s certificate of registration until the Committee makes an order under clause (c); and
+
 (c) make an order directing the Registrar to revoke the member’s certificate of registration.
 
 ### Same
 
 (2) The acts of professional misconduct referred to in subsection (1) are the following:
+
 1. Sexual abuse of a child.
+
 2. A prohibited act involving child pornography.
+
 3. A prescribed sexual act.
 
 ### Interpretation
@@ -1037,9 +1253,13 @@ iii. any limitations prescribed by the regulations.
 ### No hearing
 
 (8) Despite clause 33 (1) (a), the Discipline Committee need not hold a hearing or afford to any person an opportunity for a hearing or an opportunity to make oral or written submissions before making a decision or giving a direction under section 33 if,
+
 (a) the matter has been referred to the Committee under subsection 31 (5) or (9) and involves or includes an act referred to in subsection (2) of this section; and
+
 (b) the member has been convicted or found guilty of an offence under the Criminal Code (Canada) for the same conduct or action that is the subject of the matter and,
+
 (i) the time for an appeal has expired, or
+
 (ii) an appeal was dismissed or abandoned and no further appeal is available.
 
 ### Same
@@ -1049,27 +1269,37 @@ iii. any limitations prescribed by the regulations.
 ### Retroactive revocation
 
 33.3 A member’s certificate of registration is deemed to be revoked as of the day this section comes into force if, before that day, an order was made by the Discipline Committee under subsection 33 (4) or (5) in which the member was found guilty of an act of professional misconduct consisting of or including sexual abuse of a child or a prohibited act involving child pornography and,
+
 (a) the Discipline Committee did not order a revocation of the member’s certificate of registration; or
+
 (b) the Discipline Committee ordered a revocation but the member’s certificate of registration was later reinstated under subsection 36 (6) or 37 (1).
 
 ### Fitness to Practise Committee
 
 34 (1) The Fitness to Practise Committee shall,
+
 (a) hear and determine matters directed or referred to it under section 31, 32 or 36; and
+
 (b) perform any other duties assigned to it by the Council.
 
 ### Incapacity
 
 (2) The Fitness to Practise Committee may, after a hearing, find a member of the College to be incapacitated if, in its opinion, the member is suffering from a physical or mental condition or disorder such that,
+
 (a) the member is unfit to continue to carry out his or her professional responsibilities; or
+
 (b) the member’s certificate of registration should be made subject to terms, conditions or limitations.
 
 ### Powers of Fitness to Practise Committee
 
 (3) If the Fitness to Practise Committee finds a member to be incapacitated, it shall make an order doing one or more of the following:
+
 1. Directing the Registrar to revoke the member’s certificate of registration.
+
 2. Directing the Registrar to suspend the member’s certificate of registration for a specified period, not exceeding 24 months.
+
 3. Directing the Registrar to impose specified terms, conditions or limitations on the member’s certificate of registration.
+
 4. Directing that the Registrar not carry out a direction made under paragraph 1, 2 or 3 for a specified period and not carry out the direction at all if specified terms are met within that period.
 
 ### Same
@@ -1079,6 +1309,7 @@ iii. any limitations prescribed by the regulations.
 ### Same
 
 (5) In making an order revoking or suspending a certificate of registration or imposing terms, conditions or limitations on a certificate of registration, the Committee may fix a period during which the member may not apply under section 36.
+
 (6) Repealed: 2014, c. 11, Sched. 3, s. 17.
 
 ### Costs
@@ -1140,9 +1371,13 @@ iii. any limitations prescribed by the regulations.
 ### Open on request of member in some cases
 
 (10) A hearing of the Fitness to Practise Committee shall be open to the public, including members of the College, if the person who is alleged to be incapacitated requests it in a written notice received by the Registrar before the day the hearing commences, unless the Fitness to Practise Committee is satisfied that,
+
 (a) matters involving public security may be disclosed;
+
 (b) financial or personal or other matters may be disclosed at the hearing of such a nature that the desirability of avoiding public disclosure of them in the interest of any person affected or in the public interest outweighs the desirability of acceding to the request of the person who is alleged to be incapacitated;
+
 (c) a person involved in a civil or criminal proceeding may be prejudiced; or
+
 (d) the safety of a person may be jeopardized.
 
 ### Same
@@ -1164,9 +1399,13 @@ iii. any limitations prescribed by the regulations.
 ### Service of decision, reasons
 
 (15) Subject to subsection (16), the Discipline Committee or Fitness to Practise Committee shall serve its decision, with reasons,
+
 (a) on the parties; and
+
 (b) on the complainant, where,
+
 (i) the matter was referred to the Discipline Committee or Fitness to Practise Committee as a result of a complaint under subsection 31 (1), or
+
 (ii) the Council or Executive Committee directed the Discipline Committee or Fitness to Practise Committee to hold a hearing into the matter under subsection 32 (1) or (2).
 
 ### Same
@@ -1184,8 +1423,11 @@ iii. any limitations prescribed by the regulations.
 ### Witnesses, under 18 years
 
 (3) The Discipline Committee shall make an order that no person shall publish the identity of, or any information that could disclose the identity of, any person who is under 18 years old and,
+
 (a) is a witness in a hearing;
+
 (b) is the subject of evidence in a hearing; or
+
 (c) is the subject of, or otherwise involved in, a matter referred to a complaint resolution process under subsection 33.1 (1).
 
 ### Same, sexual abuse, sexual misconduct or child pornography
@@ -1203,8 +1445,11 @@ iii. any limitations prescribed by the regulations.
 ### No application for reinstatement
 
 (1.1) Subject to subsections (4.2) and (4.3), subsection (1) does not apply to a person who has had a certificate revoked pursuant to an order made under section 33 or deemed revoked pursuant to section 33.3 for committing an act of professional misconduct that consisted of or included any of the following:
+
 1. Sexual abuse of a child as described in clause (a) or (b) of the definition of “sexual abuse” in subsection 1 (1).
+
 2. A prohibited act involving child pornography.
+
 3. A prescribed sexual act that involves a child.
 
 ### Application for variation
@@ -1222,9 +1467,13 @@ iii. any limitations prescribed by the regulations.
 ### Same
 
 (4.1) Despite subsections (3) and (4), if a person has had a certificate revoked pursuant to an order made under section 33 or deemed revoked pursuant to section 33.3 for committing an act of professional misconduct that consisted of or included any of the following, an application under subsection (1) of this section to have a new certificate issued shall not be made earlier than five years from the date of the order:
+
 1. Sexual abuse of a child, as described in clause (c) of the definition of “sexual abuse” in subsection 1 (1).
+
 2. Sexual misconduct.
+
 3. A prescribed sexual act that does not involve a child.
+
 4. Repealed: 2020, c. 36, Sched. 9, s. 4 (4).
 
 ### Reinstatement after conviction or pardon
@@ -1234,7 +1483,9 @@ iii. any limitations prescribed by the regulations.
 ### Same
 
 (4.3) With respect to a person referred to in subsection (4.2) whose certificate of registration was deemed revoked pursuant to section 33.3, if the conviction was overturned on appeal or the person was granted a pardon under the Criminal Code (Canada) before the day this section comes into force and the person makes an application under subsection (1) of this section within 60 days of the revocation under section 33.3 and provides proof that the conviction was overturned or the pardon was granted,
+
 (a) the Registrar shall issue a certificate to the applicant immediately upon receiving the application and proof; and
+
 (b) the member may hold the certificate until the Discipline Committee has made an order with respect to the application under subsection (6) of this section.
 
 ### Referral to Discipline Committee
@@ -1244,12 +1495,19 @@ iii. any limitations prescribed by the regulations.
 ### Order
 
 (6) The Discipline Committee may, after a hearing, make an order doing one or more of the following:
+
 1. Refusing the application.
+
 2. Directing the Registrar to issue a certificate of registration to the applicant.
+
 3. Directing the Registrar to remove the suspension of the applicant’s certificate of registration.
+
 4. Directing the Registrar to impose specified terms, conditions and limitations on the applicant’s certificate of registration.
+
 5. Directing the Registrar to remove any term, condition or limitation on the applicant’s certificate of registration.
+
 6. Fixing a period during which the applicant may not apply under this section.
+
 7. Directing the Registrar to continue or to revoke a certificate issued under clause (4.3) (a).
 
 ### Parties
@@ -1263,7 +1521,9 @@ iii. any limitations prescribed by the regulations.
 ### Open or closed hearings
 
 (9) A hearing of the Discipline Committee under this section shall be open to the public unless,
+
 (a) the proceeding referred to in subsection (1) or (2) that resulted in the person’s certificate being revoked, suspended or subject to terms, conditions or limitations was closed to the public; or
+
 (b) the Committee makes an order under subsection (9.1).
 
 ### Exclusion of public
@@ -1293,8 +1553,11 @@ iii. any limitations prescribed by the regulations.
 ### Fitness to Practise Committee
 
 (14) Subsections (1) to (8) and (10) to (13) apply with necessary modifications to the Fitness to Practise Committee and, for the purpose,
+
 (a) a reference to the Discipline Committee shall be deemed to be a reference to the Fitness to Practise Committee;
+
 (b) a reference to subsection 33 (7) shall be deemed to be a reference to subsection 34 (5); and
+
 (c) a reference to section 33 shall be deemed to be a reference to section 34.
 
 ### Same, closed hearings
@@ -1304,27 +1567,37 @@ iii. any limitations prescribed by the regulations.
 ### Reinstatement: no hearing
 
 37 (1) The Council or Executive Committee may, without a hearing, with respect to a person who has had a certificate suspended or revoked for any reason under this Act, make an order doing one or more of the following:
+
 1. Directing the Registrar to issue a certificate of registration to the person.
+
 2. Directing the Registrar to remove the suspension of the person’s certificate of registration.
 
 ### Same, sexual abuse, etc.
 
 (2) Subject to subsections (3) and (4), if a person has had a certificate revoked for committing an act of professional misconduct that consisted of or included any of the following, an order under paragraph 1 of subsection (1) shall not be made earlier than five years from the date of the order under section 33 that revoked the certificate:
+
 1. Sexual abuse of a child.
+
 2. Sexual misconduct.
+
 3. A prohibited act involving child pornography.
+
 4. A prescribed sexual act.
 
 ### Same
 
 (3) An order under subsection (1) shall not be made if,
+
 (a) a person’s certificate was suspended or revoked as the result of a complaint made under subsection 31 (1) involving an act of professional misconduct referred to in paragraph 1, 2 or 3 of subsection (2) of this section; and
+
 (b) the complaint was made on or after December 5, 2016.
 
 ### Same
 
 (4) An order under subsection (1) shall not be made if,
+
 (a) a person’s certificate was suspended or revoked as the result of a complaint made under subsection 31 (1) involving a prescribed sexual act; and
+
 (b) the complaint was made on or after the day that offence was prescribed under clause 45 (1) (c.2) as a prescribed sexual act.
 
 ## PART VII APPEALS TO COURT
@@ -1336,7 +1609,9 @@ iii. any limitations prescribed by the regulations.
 ### Same
 
 (2) For purposes of this section,
+
 (a) a person who requests a review under section 27 is a party to the review under section 27 by the Registration Appeals Committee; and
+
 (b) a person who applies for an order under section 28.1 is a party to the proceeding under section 28.1 by the Registration Appeals Committee.
 
 ### Certified copy of record
@@ -1356,10 +1631,15 @@ iii. any limitations prescribed by the regulations.
 ### Registrar’s investigation
 
 39 (1) If the Registrar believes on reasonable and probable grounds,
+
 (a) that a member of the College has committed an act of professional misconduct or is incompetent or incapacitated;
+
 (b) that there is cause to refuse to issue a certificate applied for under this Act;
+
 (c) that there is cause to suspend or revoke a certificate issued under this Act; or
+
 (d) that there is cause to impose terms, conditions or limitations on a certificate applied for or issued under this Act,
+
 the Registrar may appoint one or more investigators to investigate whether such act has occurred, such incompetence or incapacity exists or there is such cause.
 
 ### Approval of Executive Committee
@@ -1369,7 +1649,9 @@ the Registrar may appoint one or more investigators to investigate whether such 
 ### Emergencies
 
 (2.1) The Registrar may appoint an investigator if,
+
 (a) the Registrar believes on reasonable and probable grounds that the conduct of the member exposes or is likely to expose one or more children to harm or injury, and that the investigator should be appointed immediately; and
+
 (b) there is not time to seek approval from the Executive Committee.
 
 ### Report
@@ -1395,7 +1677,9 @@ the Registrar may appoint one or more investigators to investigate whether such 
 ### Entries and searches
 
 40 (1) A justice of the peace may, on the application of an investigator, issue a warrant authorizing the investigator to enter and search a place and examine anything that is relevant to the investigation if the justice of the peace is satisfied that the investigator has been properly appointed and that there are reasonable and probable grounds for believing that,
+
 (a) the member being investigated has committed an act of professional misconduct or is incompetent or incapacitated; and
+
 (b) there is something relevant to the investigation at the place.
 
 ### Searches by day unless stated
@@ -1419,7 +1703,9 @@ the Registrar may appoint one or more investigators to investigate whether such 
 ### Removal of documents and objects
 
 (2) An investigator may remove a document, record or thing described in subsection (1) if,
+
 (a) it is not practicable to copy it in the place where it is examined; or
+
 (b) a copy of it is not sufficient for the purposes of the investigation.
 
 ### Use of devices
@@ -1429,7 +1715,9 @@ the Registrar may appoint one or more investigators to investigate whether such 
 ### Return of documents and objects or copies
 
 (4) If it is practicable to copy a document, record or thing removed under subsection (2), the investigator shall,
+
 (a) if it was removed under clause (2) (a), return the document, record or thing within a reasonable time; or
+
 (b) if it was removed under clause (2) (b), provide the person who was in possession of the document, record or thing with a copy of it within a reasonable time.
 
 ### Copy as evidence
@@ -1445,63 +1733,121 @@ the Registrar may appoint one or more investigators to investigate whether such 
 ### Regulations of College, subject to approval
 
 43 (1) Subject to the approval of the Lieutenant Governor in Council and with prior review by the Minister, the Council may make regulations,
+
 0.1 prescribing acts and conduct for the purposes of the definition of “professional misconduct” in section 1;
+
 1. respecting the scope of practice of early childhood education and prescribing services and activities that are part of the practice of early childhood education for the purposes of clause 2 (d);
+
 1.1 governing the accreditation of programs in early childhood education offered by post-secondary educational institutions and other bodies;
+
 2. designating geographic areas for the purposes of clause 8 (2) (a) and prescribing the number of representatives for each geographic area;
+
 2.1 respecting the qualification of Council members who are elected;
+
 2.2 prescribing conditions disqualifying elected members of the Council from sitting on the Council and governing the removal of disqualified Council members;
+
 2.3 governing conflict of interest with respect to members of the Council and for members of committees and persons included on rosters for committees, including, but not limited to, prescribing conflict of interest rules or guidelines and setting out procedures for the purposes of determining whether the rules or guidelines have been broken;
+
 2.4 respecting the membership and practices and procedures of the committees required by subsection 19 (1), including,
+
 i. the number of members to be appointed to each committee,
+
 ii. the terms of office of those members,
+
 iii. the conditions disqualifying members of the College from sitting on those committees,
+
 iv. the removal of disqualified committee members, and
+
 v. the quorum of those committees;
+
 2.5 respecting the membership, powers, duties and practices and procedures of committees other than those required by subsection 19 (1), including,
+
 i. the number of members to be appointed to each committee,
+
 ii. the terms of office of those members,
+
 iii. the conditions disqualifying members of the College from sitting on those committees,
+
 iv. the removal of disqualified committee members, and
+
 v. the quorum for those committees;
+
 2.6 respecting the establishment of a roster under subsection 19 (5.1), including regulations prescribing requirements and restrictions that apply for the purpose of including persons on the roster, including,
+
 i. prescribing qualifications of eligible panellists, and
+
 ii. requiring persons on a roster to take an oath and prescribing the form of the oath, the manner in which it shall be made and the time period within which it shall be made;
+
 2.7 governing, for the purposes of clauses 29 (2) (d.1) and 29 (2.2) (c), whether information respecting current or previous criminal proceedings involving a member should be included on the register or removed from the register;
+
 3. prescribing classes of certificates of registration and imposing terms, conditions and limitations on the certificates of registration as a class;
+
 4. respecting applications for certificates of registration or classes of them and the issuing, suspension, revocation, expiration and reinstatement of the certificates or classes of them;
+
 5. prescribing standards, qualifications and other requirements for the issue of certificates of registration, including, without limiting the generality of the foregoing, prescribing the academic qualifications and practical experience that are required for membership and providing for exemptions from the standards, qualifications and requirements;
+
 6. providing that the College or a committee of the College may determine whether certain academic qualifications and practical experiences are equivalent to the prescribed academic qualifications and practical experiences for the purposes of issuing certificates of registration;
+
 7. defining specialties in the profession, providing for certificates relating to those specialities and the qualifications for and suspension and revocation of those certificates and governing the use of prescribed terms, titles or designations by members of the College indicating a specialization in the profession;
+
 8. governing the accreditation of ongoing education programs, governing requirements relating to members’ learning plans, ongoing education and continuous professional learning, and providing for the establishment by the College of requirements respecting continuous professional learning;
+
 8.1 governing the process by which members’ compliance with requirements referred to in paragraph 8 is determined, including requiring members to provide information and documents to the Registrar for the purpose;
+
 8.2 prescribing circumstances in which a member is exempt from continuous professional learning requirements;
+
 8.3 respecting the dissemination of information respecting requirements relating to members’ learning plans, ongoing education and continuous professional learning;
+
 8.4 respecting the development, provision and accreditation of educational programs leading to qualifications of members additional to those required for a certificate of registration, and providing for those additional qualifications to be indicated on a certificate of registration or for certificates to be issued for such additional qualifications;
+
 8.5 governing requirements relating to members’ professional learning about their reporting duties under the Child, Youth and Family Services Act, 2017 and governing how members’ compliance with such requirements is determined;
+
 9. establishing processes and criteria for suspending or revoking certificates of members who fail to meet ongoing education requirements;
+
 10. prescribing what constitutes a conflict of interest in the practice of early childhood education and regulating or prohibiting the practice of early childhood education in cases where there is a conflict of interest;
+
 11. governing a determination made by the Complaints Committee under clause 31 (2) (c) that a complaint does not warrant further investigation or it is not in the public interest to investigate a complaint further, including prescribing circumstances or conditions in which such a determination may be made;
+
 11.1 governing the circumstances in which the Complaints Committee may extend the time period for a member, and prescribing the maximum number of days by which that time period may be extended, for the purposes of subsection 31 (4);
+
 11.2 setting out requirements respecting the complaint resolution process under subsection 31.1 (1) or 33.1 (1) and otherwise governing the processes, including,
+
 i. governing a determination made by the Registrar under clause 31.1 (1) (a) or under an authorization under subsection 33.1 (13), including prescribing factors that the Registrar shall consider and factors that the Registrar shall not consider in making the determination,
+
 ii. prescribing timelines for the complaint resolution processes,
+
 iii. prescribing circumstances in which the resolution of a matter that has been referred to a complaint resolution process shall be considered to have failed for the purposes of subsections 31.1 (8) and 33.1 (5),
+
 iv. governing the circumstances in which a person who made or participated in a decision or referral for the purposes of subsection 31.1 (4) or 33.1 (1) or (2) may be a member of a panel that makes a decision in respect of the matter under section 31 or subsection 33.1 (2), or hears and determines the matter under section 33, as the case may be,
+
 v. prescribing limitations for the purposes of subparagraph 2 iii of subsection 33.1 (13);
+
 11.3 requiring that a panel of a committee established to hear or review a matter relating to a member of the College who is employed as a supervisor must include a member who is employed as a supervisor;
+
 11.4 prescribing restrictions on a member’s duties for the purposes of clause 49.1 (8) (c);
+
 11.5 governing the removal of decisions and resolutions that the College has published on a website under subsection 49 (4), for the purposes of clause 49 (7) (b);
+
 11.6 prescribing employers for the purposes of subsection 49.4 (2);
+
 11.7 designating persons or bodies for the purposes of subsection 51.1 (3);
+
 12. respecting the promotion or advertising of the practice of the profession;
+
 13. respecting the reporting and publication of decisions of committees;
+
 14. regulating or prohibiting the use of terms, titles and designations by members of the College;
+
 15. respecting the giving of notice of meetings and hearings that are to be open to the public;
+
 16. providing for the exemption of any member or class of members of the College from any of the regulations made under this section;
+
 16.1 prescribing alternative requirements for eligibility for funding under clause 59.2 (3) (b);
+
 16.2 prescribing the circumstances in respect of which a person’s eligibility for funding ceases for the purposes of subsection 59.2 (6);
+
 17. Repealed: 2014, c. 11, Sched. 3, s. 23 (5).
+
 18. prescribing anything that is referred to in this Act as being prescribed by the regulations.
 
 ### Examinations permitted
@@ -1511,55 +1857,105 @@ v. prescribing limitations for the purposes of subparagraph 2 iii of subsection 
 ### By-laws
 
 44 (1) The Council may make by-laws relating to the administrative and domestic affairs of the College, including, but not limited to, by-laws,
+
 1. adopting a seal for the College;
+
 2. providing for the execution of documents by the College;
+
 3. respecting banking and finance;
+
 4. fixing the financial year of the College and providing for the audit of the accounts and transactions of the College;
+
 5. respecting the election of Council members, including the requirements for members of the College to be able to vote, electoral districts and election recounts;
+
 6. respecting the qualification of Council members who are elected;
+
 7. prescribing conditions disqualifying elected members of the Council from sitting on the Council and governing the removal of disqualified Council members;
+
 8. prescribing positions of officers of the College, providing for the election or appointment of officers and prescribing the duties of officers;
+
 9. respecting the calling, holding and conducting of meetings of the Council and the duties of members of the Council;
+
 10. respecting the calling, holding and conducting of meetings of the members of the College;
+
 11. authorizing voting by the members on any of the business of the College and prescribing procedures for such voting;
+
 12. respecting conflict of interest rules for officers and employees of the College;
+
 13. providing for the remuneration of members of the Council and committees, other than persons appointed by the Lieutenant Governor in Council, and for the payment of the expenses of the Council and committees in the conduct of their business;
+
 14. respecting the filling of vacancies on the Council or on committees;
+
 15. respecting the membership and practices and procedures of the committees required by subsection 19 (1), including,
+
 i. the number of members to be appointed to each committee,
+
 ii. the terms of office of those members,
+
 iii. the conditions disqualifying members of the College from sitting on those committees,
+
 iv. the removal of disqualified committee members, and
+
 v. the quorum of those committees;
+
 16. respecting the membership, powers, duties and practices and procedures of committees other than those required by subsection 19 (1), including,
+
 i. the number of members to be appointed to each committee,
+
 ii. the terms of office of those members,
+
 iii. the conditions disqualifying members of the College from sitting on those committees,
+
 iv. the removal of disqualified committee members, and
+
 v. the quorum for those committees;
+
 17. respecting the composition, practices and procedures of and quorum for panels of committees;
+
 17.1 respecting the establishment of a roster of eligible panellists for a committee established under this Act, and the selection, qualifications and training of eligible panellists;
+
 18. delegating to the Executive Committee powers and duties of the Council, other than the power to make, amend or revoke regulations or by-laws;
+
 19. prescribing a code of ethics and standards of practice for members or classes of members of the College;
+
 20. providing for the appointment of investigators;
+
 21. respecting the keeping of a register of members of the College, including, but not limited to, prescribing the information that must be kept in the register;
+
 21.1 subject to subsection 29 (2.5), authorizing the removal from the register of information described in clauses 29 (2) (b.2), (b.3), (b.4), (b.5) and (b.6) and of information regarding the removal of a suspension of a certificate of registration under subsection 30 (3);
+
 22. requiring members of the College to provide the College with information necessary for establishing and maintaining the register and for establishing and maintaining records necessary for the proper functioning of the College;
+
 23. respecting the duties and office of the Registrar and the powers and duties of deputy registrars;
+
 24. prescribing procedures for making, amending and revoking by-laws;
+
 25. prescribing forms and providing for their use;
+
 26. respecting the management of property of the College;
+
 27. respecting membership of the College in an organization or body with similar functions, the payment of annual assessments and representation at meetings;
+
 28. authorizing the making of grants to advance knowledge or the education of persons wishing to practise early childhood education, to maintain or improve the standards of practice of early childhood education or to provide public information about, and encourage interest in, the past and present role of early childhood educators in society;
+
 29. requiring members of the College to pay annual fees, fees upon registration, fees for election recounts and continuing education programs and fees for anything the Registrar or a committee of the College is required or authorized to do with respect to members, requiring members to pay penalties for the late payment of any fee and specifying the amount of any such fee or penalty;
+
 30. requiring persons to pay fees, set by the Registrar or by by-law, for applying for a certificate and anything the Registrar is required or authorized to do with respect to persons who are not members;
+
 31. respecting the designation of life or honorary members of the College and prescribing their rights and privileges;
+
 32. exempting any member or class of members of the College from a by-law made under this section;
+
 33. respecting indemnification by the College of members of the Council, of members of committees and of officers and employees of the College;
+
 34. respecting service of documents and giving of documents.
+
 35. requiring members to pay specified amounts to pay for the program required under section 59.2, including amounts,
+
 i. that are specified in the by-law, or
+
 ii. that are calculated according to a method set out in the by-law;
+
 36. authorizing the College to require therapists and counsellors who are providing therapy or counselling that is funded through the program required under section 59.2 and persons who are receiving such therapy or counselling to provide a written statement, signed in each case by the therapist or counsellor and by the person, containing details of the therapist’s or counsellor’s training and experience, and confirming that therapy or counselling is being provided and that the funds received are being devoted only to that purpose.
 
 ### Meetings by telecommunications, etc.
@@ -1585,26 +1981,47 @@ ii. that are calculated according to a method set out in the by-law;
 ### Regulations by L.G. in C.
 
 45 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing persons or classes of persons for the purposes of paragraph 7 of subsection 3 (2);
+
 (b) prescribing additional functions of the College for the purposes of paragraph 9 of subsection 7 (2);
+
 (c) respecting the appointment of persons to the Council under clause 8 (2) (b) and prescribing the sectors of Ontario society for the purposes of that clause;
+
 (c.1) respecting the appointment of persons to a roster of eligible panellists under subsection 19 (5.2), including but not limited to regulations prescribing requirements and restrictions that apply for that purpose, including,
+
 (i) prescribing qualifications of eligible panellists, and
+
 (ii) requiring persons on a roster to take an oath and prescribing the form of the oath, the manner in which it shall be made and the time period within which it shall be made;
+
 (c.1.1) prescribing a time period for the purposes of clause 31 (4.10) (b);
+
 (c.2) prescribing provisions under the Criminal Code (Canada) that are prescribed sexual acts;
+
 (c.3) requiring a member to report to the Registrar,
+
 (i) any findings of professional negligence made against the member,
+
 (ii) any findings of professional misconduct or incompetence made against the member by another body that governs a profession inside or outside of Ontario, or
+
 (iii) any other findings or decisions that relate to the member’s suitability to practise;
+
 (c.4) governing reports required to be made to the Registrar for the purposes of this Act;
+
 (d) designating persons or bodies for the purposes of section 50.1;
+
 (d.1) providing for any transitional matters the Lieutenant Governor in Council considers necessary or advisable in connection with the implementation of the amendments to this Act made by the Child Care Modernization Act, 2014;
+
 (d.1.1) governing the sexual abuse prevention program required under section 50.2, including prescribing other measures of the program for the purposes of clause 50.2 (3) (e);
+
 (d.2) governing funding under the program required under section 59.2, including regulations,
+
 (i) prescribing the maximum amount, or a means of establishing the maximum amount, of funding that may be provided for a person in respect of a case of sexual abuse, a prescribed sexual act or a prohibited act involving child pornography,
+
 (ii) prescribing the period of time during which funding may be provided for a person in respect of a case of sexual abuse, a prescribed sexual act or a prohibited act involving child pornography;
+
 (d.3) prescribing additional purposes for which funding may be provided under the program the College is required to maintain under section 59.2, and prescribing additional persons or classes of persons to whom funding may be paid for the purposes of subsection 59.2 (9);
+
 (e) providing for any other matters the Lieutenant Governor in Council considers necessary or advisable in connection with the College.
 
 ### Conflict
@@ -1640,6 +2057,7 @@ ii. that are calculated according to a method set out in the by-law;
 ### Definition
 
 (2) In this section,
+
 “dealings” means any practice or procedure available to the public or to members of the College and includes giving or receiving communications, information or notices, making applications, taking examinations or tests and participating in programs or in hearings or reviews.
 
 ### Official publication
@@ -1651,16 +2069,23 @@ ii. that are calculated according to a method set out in the by-law;
 ### Publication on website
 
 49 (1) The College shall publish the following on its website:
+
 1. Every decision of the Discipline Committee and its reasons.
+
 2. Every resolution adopted by the Discipline Committee under section 33.1.
+
 3. If a resolution adopted by the Complaints Committee under section 31.1 provides for publication of the resolution, a summary of the resolution, or a part of the resolution on the College’s website, the resolution, summary or part.
 
 ### Publication in official publication of the College
 
 (2) The College shall publish the following in the official publication of the College:
+
 1. A summary of every decision of the Discipline Committee and a summary of its reasons.
+
 2. A summary of every resolution adopted by the Discipline Committee under section 33.1.
+
 3. If a resolution adopted by the Complaints Committee under section 31.1 provides for publication of the resolution, a summary of the resolution, or a part of the resolution in the official publication of the College, the resolution, summary or part.
+
 4. A determination by the Fitness to Practise Committee that an allegation of incapacity was unfounded, on the request of the member against whom the allegation was made.
 
 ### Exception, unfounded allegations
@@ -1682,7 +2107,9 @@ ii. that are calculated according to a method set out in the by-law;
 ### Removal of information
 
 (7) If a notation of a decision or resolution is removed from the register, or other specified information is removed from the register under subsection 29 (2.2), the College may remove the decision, resolution or other specified information,
+
 (a) from its website; and
+
 (b) from any other website on which it has published the information under subsection (4), if required by and in accordance with the regulations.
 
 ### Employer reports re termination, etc.
@@ -1700,7 +2127,9 @@ ii. that are calculated according to a method set out in the by-law;
 ### Same
 
 (4) Where an employer files a report with the Registrar under subsection (1), (2) or (3), the employer shall,
+
 (a) at the same time, provide the member with a copy of the report; and
+
 (b) within 30 days of filing the report, provide the Registrar with any additional information that the employer has that relates to the member’s professional misconduct.
 
 ### Same
@@ -1718,14 +2147,19 @@ ii. that are calculated according to a method set out in the by-law;
 ### Same
 
 (7) The following are the employers who shall receive the report referred to in subsection (6):
+
 1. An employer who employs the member at the time the report referred to in subsection (6) is made.
+
 2. The employer who made the report respecting the member under subsection (1), (2) or (3).
 
 ### Restrictions
 
 (8) For the purposes of this section, restrictions on a member’s duties include,
+
 (a) restrictions on a member’s eligibility to practise without supervision;
+
 (b) restrictions on the services or activities described in section 2 that the member may engage in; or
+
 (c) any other restriction prescribed by the regulations.
 
 ### Interpretation
@@ -1739,8 +2173,11 @@ ii. that are calculated according to a method set out in the by-law;
 ### Employer reports re certain offences, conduct
 
 49.2 (1) An employer shall report to the Registrar in writing when the employer becomes aware that a member of the College who is or has been employed by the employer as an early childhood educator,
+
 (a) has been charged with or convicted of an offence under the Criminal Code (Canada) involving sexual conduct and minors;
+
 (b) has been charged with or convicted of an offence under the Criminal Code (Canada) that, in the opinion of the employer, indicates that a child may be at risk of harm or injury; or
+
 (c) has engaged in conduct or taken action that, in the opinion of the employer, should be reviewed by a committee of the College.
 
 ### Timing of report
@@ -1750,7 +2187,9 @@ ii. that are calculated according to a method set out in the by-law;
 ### Same
 
 (3) Where an employer reports to the Registrar under subsection (1), the employer shall,
+
 (a) at the same time, provide the member with a copy of the report; and
+
 (b) within 30 days of making the report, provide the Registrar with any additional information that the employer has that relates to the charge, conviction, conduct or action.
 
 ### Same
@@ -1780,7 +2219,9 @@ ii. that are calculated according to a method set out in the by-law;
 ### Same
 
 (8) The following are the employers who shall receive the report referred to in subsection (7):
+
 1. An employer who employs the member at the time the report referred to in subsection (7) is made.
+
 2. The employer who made the report respecting the member under subsection (1).
 
 ### Employer report deemed to be complaint
@@ -1790,20 +2231,31 @@ ii. that are calculated according to a method set out in the by-law;
 ### College reports to employers
 
 49.3 (1) The College shall provide the employers listed in subsection (2) with information respecting certain decisions and orders under this Act in accordance with the following rules:
+
 1. If a decision respecting a member of the College is made under subsection 31 (5), the Registrar shall provide the documents referred to in subsection 31 (7) to the employer.
+
 1.1 If a referral respecting a member is made under subsection 31 (9), the Registrar shall notify the employer of the referral.
+
 1.2 If a direction respecting a member is made under subsection 32 (1), the Registrar shall notify the employer of the direction.
+
 2. If an order respecting a member is made under subsection 32 (3), the Registrar shall provide a copy of the order to the employer.
+
 2.1 If an interim order respecting a member is made under subsection 32.2 (1), the Registrar shall provide a copy of the order to the member’s employer.
+
 3. If an order respecting a member is made under section 33 or 34, the Discipline Committee or the Fitness to Practise Committee, as the case may be, shall provide the employer with the same material as is served on the parties under subsection 35 (15).
+
 4. If a decision respecting a member is made under section 36, the Discipline Committee or the Fitness to Practise Committee, as the case may be, shall provide the employer with the same material as is served on the parties under subsection 36 (13) or (14).
+
 5. If an order respecting a member is made under section 37, the Registrar shall provide a copy of the order to the member’s employer.
+
 6. If a court order respecting a member is made under section 38, the Registrar shall provide a copy of the order, with reasons, if any, to the member’s employer.
 
 ### Employers
 
 (2) The following are the employers who shall receive the information referred to in subsection (1):
+
 1. An employer who employs the member at the time the relevant decision or order referred to in subsection (1) was made, if the College has knowledge of that employment.
+
 2. The employer who made a report respecting the member under section 49.1 or 49.2, if the subject of the report is related to the decision or order referred to in subsection (1).
 
 ### If complaint is refused
@@ -1817,7 +2269,9 @@ ii. that are calculated according to a method set out in the by-law;
 ### Parents as employers
 
 (2) Sections 49.1, 49.2 and 49.3 do not apply to,
+
 (a) an employer in respect of a member who provides temporary care for or supervision of a child, if the employer is the child’s parent; or
+
 (b) a prescribed employer.
 
 ### Definitions
@@ -1847,22 +2301,35 @@ ii. that are calculated according to a method set out in the by-law;
 ### Same
 
 (3) The measures for preventing and dealing with sexual abuse of children must include,
+
 (a) educational requirements for members;
+
 (b) guidelines for the conduct of members with children;
+
 (c) training for the College’s staff;
+
 (d) the provision of information to the public; and
+
 (e) any other measures prescribed by regulation.
 
 ### Confidentiality
 
 51 (1) Every person employed, retained or appointed for the purposes of the administration of this Act and every member of a Council or committee of the College shall keep confidential all information that comes to his or her knowledge in the course of his or her duties and shall not communicate any information to any other person except,
+
 (a) in connection with the administration of this Act, the Education Act or the Child Care and Early Years Act, 2014, including, without limiting the generality of this, in connection with anything relating to the registration of members, complaints about members, allegations of members’ incapacity, incompetence or acts of professional misconduct or the governing of the profession;
+
 (b) to his or her counsel;
+
 (c) with the consent of the person to whom the information relates;
+
 (d) to the extent that the information is available to the public under this Act;
+
 (e) to a peace officer or a law enforcement agency, in order to aid an investigation undertaken with a view to a law enforcement proceeding or from which a law enforcement proceeding is likely to result;
+
 (f) to a body that governs a profession inside or outside of Ontario; or
+
 (g) as otherwise required by law.
+
 (2) Repealed: 2014, c. 11, Sched. 3, s. 30 (5).
 
 ### Limitation
@@ -1884,6 +2351,7 @@ ii. that are calculated according to a method set out in the by-law;
 ### Definition
 
 (7) In this section,
+
 “law enforcement” has the same meaning as in the Freedom of Information and Protection of Privacy Act.
 
 ### Information and disclosure
@@ -1907,6 +2375,7 @@ ii. that are calculated according to a method set out in the by-law;
 ### Definition
 
 (5) In this section,
+
 “personal information” has the same meaning as in section 38 of the Freedom of Information and Protection of Privacy Act and section 28 of the Municipal Freedom of Information and Protection of Privacy Act.
 
 ### Guarantee of loans
@@ -1920,8 +2389,11 @@ ii. that are calculated according to a method set out in the by-law;
 ### Service of notice or document
 
 53 (1) A notice or document to be given or served under this Act is sufficiently given or served if it is,
+
 (a) delivered personally;
+
 (b) sent by mail; or
+
 (c) given or served in accordance with by-laws respecting service.
 
 ### Same
@@ -1973,10 +2445,15 @@ ii. that are calculated according to a method set out in the by-law;
 ### Contents of report
 
 (3) The report must contain,
+
 (a) the name of the member filing the report;
+
 (b) the nature of, and a description of the offence;
+
 (c) the date the member was found guilty of the offence;
+
 (d) the name and location of the court that found the member guilty of the offence; and
+
 (e) the status of any appeal initiated respecting the finding of guilt.
 
 ### Publication ban
@@ -2002,12 +2479,19 @@ ii. that are calculated according to a method set out in the by-law;
 ### Contents of report
 
 (3) The report must contain,
+
 (a) the name of the member filing the report;
+
 (b) the nature of, and a description of the charge;
+
 (c) the date the charge was laid against the member;
+
 (d) the name and location of the court in which the charge was laid or in which the bail condition or restriction was imposed on or agreed to by the member;
+
 (e) every bail condition imposed on the member as a result of the charge;
+
 (f) any other restriction imposed on or agreed to by the member relating to the charge; and
+
 (g) the status of any proceedings with respect to the charge.
 
 ### Publication ban
@@ -2027,6 +2511,7 @@ ii. that are calculated according to a method set out in the by-law;
 ### Definition
 
 58 (1) In this section,
+
 “commencement date” means the day section 33 of Schedule 3 to the Child Care Modernization Act, 2014 comes into force.
 
 ### Exemption from requirement to hold certificate of registration
@@ -2040,21 +2525,33 @@ ii. that are calculated according to a method set out in the by-law;
 ### Matters begun before commencement date
 
 (4) If, before the commencement date, a complaint was made under subsection 31 (1) or an application was made under subsection 36 (1) or (2), the following rules apply:
+
 1. The complaint shall not be refused for being manifestly without substance or made for an improper purpose or for a reason set out in clause 31 (2) (c).
+
 2. The amendments made by Schedule 3 to the Child Care Modernization Act, 2014 to subsections 29 (2) and (2.5) of this Act, apply to the matter, unless before the commencement date an order has been made in respect of the matter under subsection 33 (4), 34 (3) or 36 (6).
+
 3. Unless before the commencement date an order has been made in respect of the matter under subsection 33 (4), 34 (3) or 36 (6), in dealing with the matter, the Registrar or a committee, as the case may be, shall apply the amendments made by Schedule 3 to the Child Care Modernization Act, 2014 to Parts IV, V and VI of this Act to the extent possible, but are not required to,
+
 i. return to an earlier stage or repeat earlier steps in dealing with the matter, or
+
 ii. change any determination or decision that was made before the commencement date.
+
 4. Paragraph 3 does not apply for the purposes of section 33.2 and subsections 36 (4.1) and 37 (2).
+
 5. Despite paragraph 3, subsection 31 (4.1) does not apply in the case of explanations or representations that were submitted under clause 31 (3) (b) before the commencement date.
+
 6. Despite paragraph 3, section 31.2 does not apply to the matter.
+
 7. Section 49 applies to the matter, unless before the commencement date an order has been made in respect of the matter under subsection 33 (4), 34 (3) or 36 (6).
 
 ### Register
 
 (5) For the purposes of clauses 29 (2) (b), (b.1) and (d.1), the register is not required to contain the following information, other than such information that the register was required to contain before the commencement date:
+
 1. Terms, conditions or limitations imposed on a certificate before the commencement date.
+
 2. Restrictions imposed on a member’s eligibility to practise before the commencement date.
+
 3. Information about criminal proceedings that was provided to the Registrar before the commencement date.
 
 ### Same
@@ -2092,6 +2589,7 @@ ii. change any determination or decision that was made before the commencement d
 ### Transition, Better Schools and Student Outcomes Act, 2023
 
 59.1.2 (1) In this section,
+
 “transition date” means the day subsection 1 (1) of Schedule 1 to the Better Schools and Student Outcomes Act, 2023 comes into force.
 
 ### Transition, s. 31 (5)
@@ -2111,7 +2609,9 @@ ii. change any determination or decision that was made before the commencement d
 ### Funding provided by College
 
 59.2 (1) There shall be a program, established and administered by the College, to provide funding for the following purposes in connection with allegations of sexual abuse, a prescribed sexual act or a prohibited act involving child pornography by members:
+
 1. Therapy and counselling for the child who is the subject of sexual abuse, a prescribed sexual act or a prohibited act involving child pornography in which an allegation has been made against a member.
+
 2. Any other purposes prescribed by regulations made under clause 45 (1) (d.3).
 
 ### Funding governed by regulations
@@ -2121,7 +2621,9 @@ ii. change any determination or decision that was made before the commencement d
 ### Eligibility
 
 (3) A person is eligible for funding if,
+
 (a) it is alleged in a complaint or report against a member received by the College that the child was the subject of sexual abuse, a prescribed sexual act or a prohibited act involving child pornography and, in the opinion of the College, the member’s practice facilitated the relationship between the child and the member or the member’s access to the child; or
+
 (b) the alternative requirements prescribed by the regulations made by the Council are satisfied.
 
 ### Timing
@@ -2143,8 +2645,11 @@ ii. change any determination or decision that was made before the commencement d
 ### Choice of therapist or counsellor
 
 (8) A person who is eligible for funding under subsection (3) is entitled to choose any therapist or counsellor, subject to the following restrictions:
+
 1. The therapist or counsellor must not be a person to whom the eligible person has any family relationship.
+
 2. The therapist or counsellor must not be a person who, to the College’s knowledge, has at any time or in any jurisdiction been found guilty of professional misconduct of a sexual nature or been found civilly or criminally liable for an act of a similar nature.
+
 3. If the therapist or counsellor is not a health professional, the College may require the person to sign a document indicating that he or she understands that the therapist or counsellor is not subject to professional discipline.
 
 ### Payment
@@ -2166,13 +2671,19 @@ ii. change any determination or decision that was made before the commencement d
 ### Right of recovery
 
 (13) The College is entitled to recover from the member, in a proceeding brought in a court of competent jurisdiction, money paid in accordance with this section for an eligible person where the Discipline Committee has made a finding that,
+
 (a) the member has committed an act of professional misconduct that consisted of or included sexual abuse, a prescribed sexual act or a prohibited act involving child pornography; and
+
 (b) the eligible person was the subject of the sexual abuse, prescribed sexual act or prohibited act involving child pornography.
 
 ### Person not required to testify
 
 (14) The eligible person shall not be required to appear at or testify in the proceeding referred to subsection (13).
+
 60-68 Repealed: 2014, c. 11, Sched. 3, s. 34.
+
 69 Omitted (amends or repeals other Acts)., Sched. 8, s. 69.
+
 70 Omitted (provides for coming into force of provisions of this Act)., Sched. 8, s. 70.
+
 71 Omitted (enacts short title of this Act)., Sched. 8, s. 71.

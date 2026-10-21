@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16w12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Waste Diversion Transition Act, 2016
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16w12) before relying on it.
 
 S.O. 2016, c. 12, Sched. 2
 
@@ -21,27 +21,45 @@ S.O. 2016, c. 12, Sched. 2
 ### Purposes
 
 1 The purposes of this Act are,
+
 (a) to promote the reduction, reuse and recycling of waste;
+
 (b) to provide for the operation of waste diversion programs; and
+
 (c) to promote the orderly winding up of waste diversion programs and industry funding organizations in order to allow responsibility for waste to be governed under the Resource Recovery and Circular Economy Act, 2016 or otherwise.
 
 ### Interpretation
 
 2 In this Act,
+
 “Authority” means the Resource Productivity and Recovery Authority continued under Part III of the Resource Recovery and Circular Economy Act, 2016; (“Office”)
+
 “blue box waste” means material prescribed as blue box waste by the regulations; (“déchets destinés à la boîte bleue”)
+
 “Deputy Registrar” means a Deputy Registrar of the Authority appointed under the Resource Recovery and Circular Economy Act, 2016; (“registrateur adjoint”)
+
 “designated waste” means blue box waste or material prescribed as a designated waste by the regulations; (“déchets désignés”)
+
 “industry funding organization” means a corporation continued under section 15 as an industry funding organization that is designated for a waste diversion program; (“organisme de financement industriel”)
+
 “industry stewardship plan” means a plan for the management of a designated waste operated by, or for the benefit of, one or more stewards who are designated in respect of that waste; (“plan de gérance industrielle”)
+
 “Minister” means the Minister of the Environment and Climate Change or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “Ministry” means the ministry of the Minister; (“ministère”)
+
 “old Act” means the Waste Diversion Act, 2002; (“ancienne loi”)
+
 “place” includes a building, structure, machine, vehicle or vessel; (“lieu”)
+
 “Registrar” means the Authority’s Registrar appointed under the Resource Recovery and Circular Economy Act, 2016; (“registrateur”)
+
 “Registry” means, except where the context requires otherwise, the Resource Productivity and Recovery Registry established under the Resource Recovery and Circular Economy Act, 2016; (“Registre”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “Tribunal” means the Ontario Land Tribunal; (“Tribunal”)
+
 “waste diversion program” means a program continued under section 9. (“programme de réacheminement des déchets”)
 
 ### Application
@@ -51,14 +69,19 @@ S.O. 2016, c. 12, Sched. 2
 ### No new approvals, etc.
 
 4 (1) For greater certainty, on and after the day section 75 comes into force,
+
 (a) no new industry funding organizations shall be established;
+
 (b) no new waste diversion programs shall be approved; and
+
 (c) no new industry stewardship plans shall be approved other than in accordance with section 37.
 
 ### In-progress applications discontinued
 
 (2) On the day section 75 comes into force,
+
 (a) any applications to approve an industry stewardship plan that have been submitted but not yet decided under section 34 of the old Act are discontinued, subject to subsection (3); and
+
 (b) any waste diversion programs or amendments to waste diversion programs that have been submitted to the Minister but not yet decided under section 26 of the old Act are deemed not to have been approved.
 
 ### Exception
@@ -70,17 +93,29 @@ S.O. 2016, c. 12, Sched. 2
 ### Authority’s duties
 
 5 The Authority shall,
+
 (a) oversee the operation by industry funding organizations of waste diversion programs for designated wastes in accordance with this Act, and monitor the effectiveness and efficiency of those programs;
+
 (b) monitor the effectiveness of industry stewardship plans continued under section 36 or approved under section 37;
+
 (c) exercise powers and perform duties in relation to compliance with and enforcement of this Act;
+
 (d) oversee the orderly winding up of industry funding organizations and the winding up of waste diversion programs, in full or in respect of a designated waste, in accordance with this Act;
+
 (e) exercise the powers and perform the duties that, as of the day before section 21 of the Resource Recovery and Circular Economy Act, 2016 comes into force, were exercised and performed by Waste Diversion Ontario with respect to a waste diversion program approved by the Minister under the old Act;
+
 (f) exercise the powers and perform the duties given to the Authority with respect to a waste diversion program under this Act;
+
 (g) seek to enhance public awareness of and participation in waste diversion programs;
+
 (h) seek to ensure that waste diversion programs operated under this Act affect Ontario’s marketplace in a fair manner;
+
 (i) determine the amount of money required by the industry funding organizations to carry out their responsibilities under this Act; and
+
 (j) establish a dispute resolution process for,
+
 (i) disputes between an industry funding organization and a municipality with respect to payments to the municipality under a waste diversion program, and
+
 (ii) disputes between an industry funding organization and a person in respect of the application of rules made by the industry funding organization under section 33 or regulations made by the Lieutenant Governor in Council under subsection 73 (3).
 
 ### Annual report
@@ -90,22 +125,35 @@ S.O. 2016, c. 12, Sched. 2
 ### Contents
 
 (2) The information mentioned in subsection (1) shall include the following:
+
 1. A description of any consultations undertaken during the previous fiscal year by the Authority under this Act or otherwise, and a summary of the results of the consultations.
+
 2. Information about waste diversion programs operated under this Act during the previous fiscal year, including information about any changes to the programs.
+
 3. Information about any plans the Authority has approved during the previous fiscal year to wind up a waste diversion program in full or in respect of a designated waste, and information about their implementation.
+
 4. Information about any plans the Authority has approved during the previous fiscal year to wind up an industry funding organization, and information about their implementation.
+
 5. A summary of compliance and enforcement activities carried out under this Act during the previous fiscal year.
+
 6. A copy of every report an industry funding organization has provided to the Authority under section 30 in respect of the previous fiscal year.
+
 7. A copy of every report a person responsible for the operation of an industry stewardship plan has provided to the Authority under section 40 in respect of the previous fiscal year.
+
 8. A copy of the report submitted by Brewers Retail Inc. under subsection 69 (3) in respect of the previous year.
 
 ### Transition, first report
 
 (3) Despite subsection (2), the first report made by the Authority after section 75 comes into force shall include the following:
+
 1. Information about waste diversion programs developed, implemented and operated under the old Act during the fiscal year before section 75 comes into force.
+
 2. The information and reports described in subsection (2), with the following modifications:
+
 i. Paragraph 6 of subsection (2) shall be read as including a reference to reports provided under section 33 of the old Act.
+
 ii. Paragraph 7 of subsection (2) shall be read as including a reference to reports provided under subsection 34 (5) of the old Act.
+
 iii. Paragraph 8 of subsection (2) shall be read as referring to the report submitted by Brewers Retail Inc. under subsection 35 (3) of the old Act.
 
 ### Operating agreement
@@ -125,15 +173,21 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### Waste diversion programs continued
 
 9 (1) The following waste diversion programs, which were approved under section 26 of the old Act, are continued until they are wound up under this Act:
+
 1. The waste diversion program for blue box waste.
+
 2. The waste diversion program for municipal hazardous or special waste.
+
 3. The waste diversion program for used tires.
+
 4. The waste diversion program for waste electrical and electronic equipment.
 
 ### Agreements and rules
 
 (2) For greater certainty,
+
 (a) the agreements between Waste Diversion Ontario and the industry funding organizations that were required by subsection 25 (3) of the old Act and that form part of the waste diversion programs mentioned in subsection (1) are continued if they were in effect immediately before the day this section comes into force; and
+
 (b) the rules made under section 30 of the old Act that were set out in an agreement referred to in subsection 25 (3) of the old Act are continued if they were in effect immediately before the day this section comes into force.
 
 ### Availability to public
@@ -147,17 +201,25 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### Same
 
 (2) A waste diversion program may deal with the following:
+
 1. Activities to reduce, reuse and recycle the waste.
+
 2. Research and development activities relating to the management of the waste.
+
 3. Activities to develop and promote products that result from the waste diversion program.
+
 4. Educational and public awareness activities to support the waste diversion program.
 
 ### Same
 
 (3) A waste diversion program shall not promote any of the following:
+
 1. Burning the waste.
+
 2. Landfilling the waste.
+
 3. The application of the waste to land.
+
 4. Any activity prescribed by the regulations for the purposes of this paragraph.
 
 ### Program agreements
@@ -203,8 +265,11 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### Consultation
 
 (2) The Authority and the industry funding organization designated for the waste diversion program shall consult about any proposed material change with,
+
 (a) representatives of municipalities;
+
 (b) representatives of persons who are designated under rules made by an industry funding organization under section 33 or regulations made under subsection 73 (3) as stewards in respect of the designated waste to which the waste diversion program applies; and
+
 (c) any other persons the Authority and the industry funding organization consider to be affected by the proposed material change.
 
 ### Submission to Minister
@@ -230,8 +295,11 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### Consultation
 
 (2) The Authority and the industry funding organization designated for the waste diversion program shall consult about any proposed change with,
+
 (a) representatives of municipalities;
+
 (b) representatives of persons who are designated under rules made by an industry funding organization under section 33 or regulations made under subsection 73 (3) as stewards in respect of the designated waste to which the waste diversion program applies; and
+
 (c) any other persons the Authority and the industry funding organization consider to be affected by the proposed change.
 
 ### Timeline
@@ -269,7 +337,9 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### Mandatory direction
 
 (4) The Minister shall direct an industry funding organization to wind up a waste diversion program in full if,
+
 (a) material prescribed as a designated waste to which the program applies is also prescribed under the Resource Recovery and Circular Economy Act, 2016 as material in a designated class within the meaning of that Act; and
+
 (b) a regulation under the Resource Recovery and Circular Economy Act, 2016 imposes one or more of the responsibilities mentioned in Part IV of that Act in respect of the material.
 
 ### Same, timing
@@ -283,8 +353,11 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### Application of subs. (4)
 
 (7) Subsection (4) applies with respect to,
+
 (a) the waste diversion program for municipal hazardous or special waste;
+
 (b) the waste diversion program for used tires; and
+
 (c) the waste diversion program for waste electrical and electronic equipment.
 
 ### Non-application of subs. (4), ss. 12 and 13
@@ -306,26 +379,39 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### Contents of plan
 
 (12) The plan shall include the following:
+
 1. A description of the designated waste that will no longer be included in the program.
+
 2. A description of how the program will be operated while the plan is being implemented.
+
 3. A proposed timeline according to which key aspects of the plan will be implemented.
+
 4. A proposal for dealing with the affected assets, liabilities, rights and obligations of any affected industry funding organization.
+
 5. A proposal for transferring or sharing data that is within the industry funding organization’s custody or control and that relates to the waste that will no longer be included in the program.
+
 6. A description of changes to the program that are anticipated to be necessary to implement the plan.
+
 7. Any other information the Minister specifies.
 
 ### Consultation
 
 (13) In developing the plan, the industry funding organization shall consult with,
+
 (a) representatives of municipalities;
+
 (b) representatives of persons who are designated as stewards under the rules made by an industry funding organization under section 33 or a regulation made under subsection 73 (3) in respect of the designated waste to which the waste diversion program applies; and
+
 (c) any other persons the industry funding organization considers to be affected by the winding up.
 
 ### Consultation
 
 (14) In assessing the plan, the Authority shall consult with,
+
 (a) representatives of municipalities;
+
 (b) representatives of persons who are designated as stewards under the rules made by an industry funding organization under section 33 or a regulation made under subsection 73 (3) in respect of the designated waste to which the waste diversion program applies; and
+
 (c) any other persons the Authority considers to be affected by the winding up.
 
 ### Approval
@@ -343,7 +429,9 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### Implementation of plan
 
 (18) On receiving the Authority’s approval of the wind up plan or the amended wind up plan, the industry funding organization shall implement it in accordance with,
+
 (a) the timeline specified by the Minister, if any; and
+
 (b) any conditions specified by the Authority in the approval.
 
 ### Deemed changes to program
@@ -377,7 +465,9 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### Stewardship Ontario
 
 15 (1) Stewardship Ontario is continued under the name Stewardship Ontario and is designated as the industry funding organization for,
+
 (a) the waste diversion program for blue box waste; and
+
 (b) the waste diversion program for municipal hazardous or special waste.
 
 ### Ontario Tire Stewardship
@@ -447,8 +537,11 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### By-laws
 
 21 (1) The board of directors may pass by-laws,
+
 (a) regulating its proceedings, specifying the powers and duties of the officers and employees of the industry funding organization and generally for the conduct and management of the organization;
+
 (b) respecting the appointment of officers and employees of the industry funding organization and providing for payment of their remuneration and reimbursement of their expenses; and
+
 (c) providing for reimbursement of the expenses of the members of the board of directors.
 
 ### Subcommittees
@@ -510,17 +603,25 @@ iii. Paragraph 8 of subsection (2) shall be read as referring to the report subm
 ### Annual report, industry funding organization
 
 30 (1) Each industry funding organization shall, not later than April 1 in each year,
+
 (a) prepare a report in accordance with this section on its activities during the previous fiscal year; and
+
 (b) provide a copy of the report to the Authority and make the report available to the public.
 
 ### Contents
 
 (2) The report shall include the following:
+
 1. Information about each waste diversion program operated during the previous fiscal year.
+
 2. Information about,
+
 i. material changes to a waste diversion program that were developed and implemented under this Act during the previous fiscal year, and
+
 ii. steps taken to develop and implement a plan approved under section 14.
+
 3. Audited financial statements for the industry funding organization and a copy of the auditor’s report on the organization under subsection 29 (2).
+
 4. A description of any consultations undertaken by the industry funding organization during the previous fiscal year under this Act and a summary of the results of the consultations.
 
 ### Signature
@@ -544,19 +645,29 @@ ii. steps taken to develop and implement a plan approved under section 14.
 ### Consultation
 
 (2) In operating the program, the industry funding organization shall consult with,
+
 (a) representatives of municipalities;
+
 (b) representatives of persons who are designated under the rules made by an industry funding organization under section 33 or a regulation made under subsection 73 (3) as stewards in respect of the designated waste to which the waste diversion program applies; and
+
 (c) any other persons the industry funding organization considers to be affected by the operation of the program.
 
 ### Rules relating to stewards
 
 33 (1) The industry funding organization designated for a waste diversion program may make rules,
+
 (a) designating persons or classes of persons as stewards in respect of the designated waste to which the waste diversion program applies;
+
 (b) setting the amount of the fees to be paid by stewards under section 34 or prescribing methods for determining the amount of the fees;
+
 (c) specifying the times when fees are payable under section 34;
+
 (d) requiring the payment of interest or penalties on fees that are not paid in accordance with section 34;
+
 (e) exempting stewards or classes of stewards from section 34, subject to such conditions and restrictions as may be prescribed by the rules;
+
 (f) requiring stewards to keep records prescribed by the rules and governing the submission of those records to persons specified by the rules and the inspection of those records by persons specified by the rules;
+
 (g) requiring stewards to provide reports and other information to persons specified by the rules.
 
 ### Same
@@ -574,14 +685,23 @@ ii. steps taken to develop and implement a plan approved under section 14.
 ### Fees
 
 (5) In making rules under clause (1) (b), the industry funding organization shall have regard to the following principles:
+
 1. The total amount of fees paid by stewards under section 34 in respect of a waste diversion program for a designated waste should not exceed the sum of the following amounts:
+
 i. The costs of operating the program.
+
 ii. The costs of developing and implementing changes to the program.
+
 iii. The costs of developing and implementing a plan to wind up all or part of the program.
+
 iv. The costs incurred by the organization or the Authority to wind up all or part of the program.
+
 v. The costs incurred by the organization or the Authority to wind up the organization.
+
 vi. Costs incurred by the Authority in exercising its powers and carrying out its duties as they relate to the industry funding organization.
+
 vii. Costs incurred by the Crown in administering this Act and the regulations, as the costs relate to the industry funding organization and the Authority’s oversight of it, including costs associated with appeals to the Tribunal of the Authority’s orders.
+
 2. The fee paid by a steward should fairly reflect the proportion of the sum referred to in paragraph 1 that is attributable to the steward.
 
 ### Rule must be set out in program agreement
@@ -599,7 +719,9 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Limitation
 
 (9) A rule made under this section is not effective against a person before the earlier of the following times:
+
 1. When the person has actual notice of it.
+
 2. The last instant of the day on which it is first available to the public on the Internet under subsection (8).
 
 ### Legislation Act, 2006, Part III
@@ -629,19 +751,29 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Purposes of fund
 
 (2) The fund shall be held in trust by the industry funding organization and shall only be used for the following purposes:
+
 1. To pay the costs of operating the program.
+
 2. To pay the costs of developing and implementing changes to the program.
+
 3. To pay the costs of developing and implementing a plan to wind up all or part of the program.
+
 4. To pay the costs incurred by the organization or the Authority to wind up all or part of the program.
+
 5. To pay the costs incurred by the organization or the Authority to wind up the organization.
+
 6. To pay the costs incurred by the Authority in exercising its powers and carrying out its duties as they relate to the industry funding organization.
+
 7. To pay the costs incurred by the Crown in administering this Act and the regulations, as the costs relate to the industry funding organization and the Authority’s oversight of it, including costs associated with appeals to the Tribunal of the Authority’s orders.
 
 ### Money to be paid into fund
 
 (3) All money received by the industry funding organization, including the following amounts, shall be paid into the fund:
+
 1. All fees paid to the organization under section 34 and all interest and penalties paid in respect of those fees.
+
 2. All voluntary contributions of money to the organization.
+
 3. All investment income earned by the fund.
 
 ### Payment of Authority’s costs
@@ -661,15 +793,21 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Existing industry stewardship plans continued
 
 36 Each industry stewardship plan approved under section 34 of the old Act that was in force immediately before the day this section comes into force is continued until the earliest of the following days:
+
 1. The date specified in the approval or a later date approved under section 37.
+
 2. If a waste diversion program is wound up in full, the date set out in the Minister’s notice under subsection 14 (21) terminating the program to which the plan relates.
+
 3. If a waste diversion program is wound up in respect of a designated waste to which the plan relates, the date set out in the Minister’s notice under subsection 14 (22) terminating the part of the program that relates to that designated waste.
 
 ### Industry stewardship plan approvals
 
 37 (1) On application, the Authority may approve an additional industry stewardship plan, a change to an industry stewardship plan continued under section 36, or a change to an additional plan approved under this section if,
+
 (a) in the case of an additional industry stewardship plan, the plan relates to a designated waste in respect of which an industry stewardship plan was continued under section 36;
+
 (b) the plan relates to material that continues to be a designated waste under this Act; and
+
 (c) the Authority is satisfied that the plan or the change will achieve similar or improved results as compared to the waste diversion program approved under section 26 of the old Act.
 
 ### Approval in writing
@@ -679,9 +817,13 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Time limit
 
 (3) An approval under this section is valid until the latest of the following days:
+
 1. The date specified in the approval.
+
 2. If the person responsible for the plan’s operation applies for an extension before the date specified in the approval and the Authority grants the extension in writing, the new date specified in the document granting the extension.
+
 3. If a waste diversion program is wound up in full, the date set out in the Minister’s notice under subsection 14 (21) terminating the program to which the plan relates.
+
 4. If a waste diversion program is wound up in respect of a designated waste to which the industry stewardship plan relates, the date set out in the Minister’s notice under subsection 14 (22) terminating the part of the program that relates to that designated waste.
 
 ### List of plans
@@ -691,33 +833,45 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Exemption from stewardship fees, records, etc.
 
 39 (1) Section 34, the rules made under clauses 33 (1) (f) and (g), and the regulations made under subsection 73 (3) in respect of the matters mentioned in clauses 33 (1) (f) and (g) do not apply to a person who is designated under the rules made by an industry funding organization under section 33 or the regulations made under subsection 73 (3) as a steward in respect of a designated waste if,
+
 (a) an industry stewardship plan that relates to the designated waste was approved under section 34 of the old Act or section 37 of this Act; and
+
 (b) the person is required by a contract to participate in the plan and is a member of a class of persons described in the plan as participants of the plan.
 
 ### Same
 
 (2) Subsection (1) does not relieve the person from the requirement,
+
 (a) to pay a fee that was due before the effective date;
+
 (b) to keep or submit a record that the person was required to keep or submit before the effective date;
+
 (c) to permit inspection of a record described in clause (b); or
+
 (d) to provide a report or other information that the person was required to provide before the effective date.
 
 ### Effective date
 
 (3) For the purposes of subsection (2), the effective date is the first date on which the person,
+
 (a) was required by a contract to participate in the plan; and
+
 (b) was a member of a class of persons described in the plan as participants of the plan.
 
 ### Annual report, person responsible for industry stewardship plan
 
 40 The person responsible for the operation of an industry stewardship plan approved under section 34 of the old Act or under section 37 of this Act shall, not later than April 1 in each year,
+
 (a) prepare a report on the operation of the plan during the previous year; and
+
 (b) provide a copy of the report to the Authority and make the report available to the public.
 
 ### Fees
 
 41 (1) The Authority may establish fees and charge them to the person responsible for the operation of an industry stewardship plan approved under section 34 of the old Act or under section 37 of this Act for,
+
 (a) monitoring the effectiveness of the plan; and
+
 (b) performing other functions related to the plan.
 
 ### Payment
@@ -737,7 +891,9 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Contribution to defray cost
 
 42 (1) The Lieutenant Governor in Council may from time to time, by order, fix an amount to be paid to defray the Crown’s costs in administering this Act and the regulations,
+
 (a) by the Authority; and
+
 (b) by each industry funding organization in respect of costs associated with the waste diversion program for which the industry funding organization is designated.
 
 ### Costs
@@ -751,7 +907,9 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Same, Authority
 
 (4) The Authority shall pay to the Minister of Finance, in accordance with the terms of the order,
+
 (a) the amount fixed for the Authority under subsection (1); and
+
 (b) the amount paid to the Authority by each industry funding organization under subsection (3).
 
 ### Appointment of Administrator
@@ -763,9 +921,13 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Condition precedent
 
 (2) The Authority’s board may appoint an administrator under subsection (1) only if it considers it advisable in the public interest to do so because at least one of the following conditions is satisfied:
+
 1. The appointment is necessary to facilitate winding up the industry funding organization.
+
 2. The appointment is necessary to facilitate winding up a waste diversion program.
+
 3. There are not enough members on the board of directors of the industry funding organization to form a quorum for the transaction of business.
+
 4. The industry funding organization has dealt with money or another asset in any way other than in accordance with subsection 15 (6).
 
 ### Notice of appointment
@@ -857,17 +1019,25 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Inspection
 
 48 (1) An inspector may, at any reasonable time, enter any place described in subsection (2) and conduct an inspection for the purpose of determining any person’s compliance with this Act or the regulations if the inspector reasonably believes that,
+
 (a) the place contains documents or data relating to the person’s compliance; or
+
 (b) an activity relating to the person’s compliance is occurring or has occurred at the place.
 
 ### Same
 
 (2) Subsection (1) authorizes an inspector to enter a place only if it is owned or occupied by one of the following:
+
 1. A person designated as a steward under the rules made by an industry funding organization under section 33 or a regulation made under subsection 73 (3).
+
 2. An industry funding organization.
+
 3. A person retained by an industry funding organization to operate all or part of an approved waste diversion program.
+
 4. A person who arranges for the establishment or operation of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act in relation to another person’s responsibilities under this Act.
+
 5. The owner or operator of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act.
+
 6. A person operating an industry stewardship plan.
 
 ### Entry to dwellings
@@ -877,10 +1047,15 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Powers during inspection
 
 (4) An inspector may do any one or more of the following in the course of entering a place and conducting an inspection:
+
 1. Examine, record or copy any document or data, in any form, by any method.
+
 2. Make a record of anything by any method.
+
 3. Require the production of any document or data, in any form, required to be kept under this Act and of any other document or data, in any form, related to the purpose of the inspection.
+
 4. Remove from the place, for the purpose of making copies, documents or data produced under paragraph 3.
+
 5. Make reasonable inquiries of any person, orally or in writing.
 
 ### Limitation
@@ -902,12 +1077,19 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Power to require response to inquiries
 
 49 (1) For the purpose of determining a person’s compliance with this Act or the regulations, an inspector may, at any reasonable time and with any reasonable assistance, require any of the following persons to respond to reasonable inquiries:
+
 1. A person designated as a steward under the rules made by an industry funding organization under section 33 or a regulation made under subsection 73 (3).
+
 2. An industry funding organization.
+
 3. A person retained by an industry funding organization to operate all or part of an approved waste diversion program.
+
 4. A person who arranges for the establishment or operation of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act in relation to another person’s responsibilities under this Act.
+
 5. The owner or operator of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act.
+
 6. A person operating an industry stewardship plan.
+
 7. A director, officer, employee or agent of a person described in paragraphs 1 to 6.
 
 ### Same
@@ -929,12 +1111,19 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Order for entry or inspection
 
 51 (1) A justice may issue an order authorizing an inspector to do anything set out in subsection 48 (1) or (4) or section 49 if the justice is satisfied, on evidence under oath by an inspector, that there are reasonable grounds to believe that,
+
 (a) it is appropriate for the inspector to do anything set out in subsection 48 (1) or (4) or section 49 for the purpose of determining any person’s compliance with this Act or the regulations;
+
 (b) the inspector may not be able to carry out his or her duties effectively without an order under this section because,
+
 (i) no occupier is present to grant access to a place that is locked or otherwise inaccessible,
+
 (ii) a person has prevented or may prevent the inspector from doing anything set out in subsection 48 (1) or (4) or section 49,
+
 (iii) it is impractical, because of the remoteness of the place to be inspected or for any other reason, for an inspector to obtain an order under this section without delay if access is denied, or
+
 (iv) an attempt by an inspector to do anything set out in subsection 48 (1) or (4) or section 49 might not achieve its purpose without the order; or
+
 (c) a person is refusing or is likely to refuse to respond to reasonable inquiries.
 
 ### Same
@@ -992,32 +1181,51 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Administrative penalties
 
 56 (1) An administrative penalty may be imposed under this section for one or more of the following purposes:
+
 1. To ensure compliance with this Act and the regulations.
+
 2. To prevent a person from deriving, directly or indirectly, any economic benefit as a result of contravening a provision of this Act or of the regulations.
 
 ### Order by Registrar or Deputy Registrar
 
 (2) The Registrar or a Deputy Registrar may, subject to the regulations, issue an order requiring a person described in subsection (3) to pay an administrative penalty to the Authority if the Registrar or Deputy Registrar is of the opinion that the person has contravened,
+
 (a) subsection 14 (1);
+
 (b) section 30;
+
 (c) section 31;
+
 (d) a rule made by an industry funding organization under section 33;
+
 (e) subsection 33 (8);
+
 (f) section 34;
+
 (g) subsection 35 (2);
+
 (h) subsection 35 (3);
+
 (i) section 40;
+
 (j) subsection 41 (2);
+
 (k) section 49;
+
 (l) subsection 69 (3); or
+
 (m) a provision of the regulations.
 
 ### Same
 
 (3) An order may be issued under subsection (2),
+
 (a) to an industry funding organization;
+
 (b) to a person designated as a steward;
+
 (c) to a person operating an industry stewardship plan; or
+
 (d) to Brewers Retail Inc.
 
 ### Limitation
@@ -1035,15 +1243,21 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Contents
 
 (7) An order under subsection (2) shall be served on the person who is required to pay the administrative penalty and shall,
+
 (a) contain a description of the contravention to which the order relates, including, if appropriate, the date of the contravention;
+
 (b) specify the amount of the penalty;
+
 (c) give particulars respecting the time for paying the penalty and the manner of payment; and
+
 (d) provide details of the person’s right to require a hearing under section 58.
 
 ### Absolute liability
 
 (8) A requirement that a person pay an administrative penalty applies even if,
+
 (a) the person took all reasonable steps to prevent the contravention; or
+
 (b) at the time of the contravention, the person had an honest and reasonable belief in a mistaken set of facts that, if true, would have rendered the contravention innocent.
 
 ### Same
@@ -1077,7 +1291,9 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Contents of notice requiring hearing
 
 60 (1) An applicant for a hearing by the Tribunal shall state in the notice requiring the hearing,
+
 (a) the portions of the order in respect of which the hearing is required; and
+
 (b) the grounds on which the applicant intends to rely at the hearing.
 
 ### Effect of contents of notice
@@ -1111,15 +1327,21 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Parties
 
 62 The following persons are parties to the proceeding:
+
 1. The person requiring the hearing.
+
 2. The Registrar, if he or she made the order being appealed.
+
 3. A Deputy Registrar, if he or she made the order being appealed.
+
 4. Any other person specified by the Tribunal.
 
 ### Powers of Tribunal
 
 63 A hearing by the Tribunal shall be a new hearing and the Tribunal may,
+
 (a) confirm or revoke the order that is the subject matter of the hearing; or
+
 (b) vary the order, but it may only vary the amount of a penalty if it considers the amount to be unreasonable.
 
 ### Appeals from Tribunal
@@ -1133,7 +1355,9 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Divisional Court may grant or set aside stay
 
 (3) If a decision of the Tribunal is appealed to the Divisional Court under this section, the Divisional Court may,
+
 (a) stay the operation of the decision; or
+
 (b) set aside a stay ordered by the Tribunal under subsection (2).
 
 ### Offences
@@ -1141,26 +1365,39 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Industry funding organizations
 
 65 (1) An industry funding organization is guilty of an offence if it contravenes one of the following provisions or a provision of the regulations:
+
 1. Subsection 14 (1) or (18).
+
 2. Subsection 15 (6).
+
 3. Subsection 24 (2) or (3).
+
 4. Section 31.
+
 5. Subsection 35 (2).
+
 6. Subsection 35 (3).
+
 7. Subsection 35 (4).
+
 8. Subsection 42 (3).
 
 ### Stewards
 
 (2) A person designated as a steward under the rules made by an industry funding organization under section 33 or a regulation made under subsection 73 (3) is guilty of an offence if the person contravenes one of the following provisions:
+
 1. A rule made under section 33.
+
 2. Section 34.
+
 3. A provision of the regulations.
 
 ### Industry stewardship plan operators
 
 (3) A person responsible for the operation of an industry stewardship plan continued under section 36 or approved under section 37 is guilty of an offence if the person contravenes one of the following provisions:
+
 1. Section 40.
+
 2. Subsection 41 (2).
 
 ### Authority
@@ -1186,8 +1423,11 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Additional orders
 
 (9) The court that convicts a person of an offence under this section may, on its own initiative or on the motion of counsel for the prosecutor, make one or more of the following orders:
+
 1. An order requiring the person, within the period or periods specified in the order, to do or refrain from doing anything specified in the order.
+
 2. An order imposing requirements that the court considers appropriate to prevent similar unlawful conduct or to contribute to the person’s rehabilitation.
+
 3. An order prohibiting the continuation or repetition of the offence by the person.
 
 ### Other remedies and penalties preserved
@@ -1205,8 +1445,11 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### False information
 
 (2) No person shall give or submit false or misleading information, orally, in writing or electronically, in any statement, document or data in respect of any matter related to this Act or the regulations to,
+
 (a) the Authority, an inspector, the Registrar, a Deputy Registrar or any other officer, employee or agent of the Authority;
+
 (b) an administrator appointed under section 43; or
+
 (c) the Minister, the Ministry, or an employee or agent of the Ministry.
 
 ### Same
@@ -1216,8 +1459,11 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Refusal to provide information
 
 (4) No person shall refuse to provide information required for the purposes of this Act or the regulations to,
+
 (a) the Authority, the Registrar, a Deputy Registrar, an inspector, or any other officer, employee or agent of the Authority;
+
 (b) an administrator appointed under section 43; or
+
 (c) the Minister, the Ministry, or an employee or agent of the Ministry.
 
 ### Offence
@@ -1229,26 +1475,39 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Serving a document
 
 67 (1) Any notice, order or other document that is required to be served on a person under this Act is sufficiently served if it is,
+
 (a) delivered directly to the person;
+
 (b) left at the person’s last known address, in a place that appears to be for incoming mail or with an individual who appears to be 16 years old or older;
+
 (c) sent by regular mail to the person’s last known address;
+
 (d) sent by commercial courier to the person’s last known address;
+
 (e) sent by email to the person’s last known email address;
+
 (f) sent by fax to the person’s last known fax number; or
+
 (g) given by other means specified by the regulations.
 
 ### Deemed receipt
 
 (2) Subject to subsection (4),
+
 (a) a document left under clause (1) (b) is deemed to have been received on the first business day after the day it was left;
+
 (b) a document sent under clause (1) (c) is deemed to have been received on the fifth business day after the day it was mailed;
+
 (c) a document sent under clause (1) (d) is deemed to have been received on the second business day after the day the commercial courier received it;
+
 (d) a document sent under clause (1) (e) or (f) is deemed to have been received on the first business day after the day it was sent; and
+
 (e) a document given under clause (1) (g) is deemed to have been received on the day specified by the regulations.
 
 ### Definition
 
 (3) In subsection (2),
+
 “business day” means a day from Monday to Friday, other than a holiday as defined in section 87 of the Legislation Act, 2006.
 
 ### Failure to receive document
@@ -1268,7 +1527,9 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Same, statement
 
 (2) A statement that purports to be certified by the Registrar, a Deputy Registrar or an inspector is, without proof of the person’s office or signature, admissible in evidence in any proceeding as proof, in the absence of evidence to the contrary, of the facts stated in it in relation to,
+
 (a) the receipt or non-receipt of any document required or permitted to be given to the Registrar, Deputy Registrar or inspector; and
+
 (b) the day on which evidence of an offence under this Act first came to the attention of the Authority or an officer, employee or agent of the Authority.
 
 ### Brewers Retail Inc.
@@ -1282,11 +1543,17 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Annual report
 
 (3) Brewers Retail Inc. shall, not later than April 1 in each year,
+
 (a) prepare a report on the operation of its packaging return system during the 12-month period ending on the preceding December 31, including,
+
 (i) a detailed description of the system, including information on how the system is operated, the objectives of the system and the methods used to measure whether the objectives are met,
+
 (ii) specific measurements relating to the system’s performance in meeting its objectives during the period,
+
 (iii) the opinion of an auditor confirming the accuracy of the information referred to in subclauses (i) and (ii), and
+
 (iv) information on educational and public awareness activities undertaken during the period to support the system; and
+
 (b) provide a copy of the report to the Authority and make the report available to the public.
 
 ### Signature
@@ -1304,31 +1571,45 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Confidentiality of information
 
 70 (1) In this section,
+
 “law enforcement proceeding” means a proceeding in a court or tribunal that could result in a penalty or sanction being imposed; (“procédure d’exécution de la loi”)
+
 “peace officer” means a person or a member of a class of persons set out in the definition of “peace officer” in section 2 of the Criminal Code (Canada). (“agent de la paix”)
 
 ### Secrecy and permissible disclosure
 
 (2) The persons and entities mentioned in subsection (3) shall preserve secrecy with respect to any information obtained in performing a duty or exercising a power under this Act and shall not communicate the information to any person or entity except,
+
 (a) as may be required in connection with a proceeding under this Act or in connection with the administration of this Act and the regulations;
+
 (b) to the Minister, the Ministry or an employee or agent of the Ministry;
+
 (c) to a peace officer, as required under a warrant, to aid an inspection, investigation or similar proceeding undertaken with a view to a law enforcement proceeding or from which a law enforcement proceeding is likely to result;
+
 (d) with the consent of the person to whom the information relates;
+
 (e) to the counsel of the person to whom the information relates;
+
 (f) to the extent that the information is required or permitted to be made available to the public under this Act or any other Act; or
+
 (g) under further circumstances that are prescribed.
 
 ### Same
 
 (3) The persons and entities referred to in subsection (2) are,
+
 (a) the Authority, the members of its board of directors and its officers, employees and agents, including the Registrar, a Deputy Registrar and an inspector, and any other person who performs the duties and exercises the powers of those persons;
+
 (b) an administrator appointed under section 43; and
+
 (c) a provincial offences officer designated under the Provincial Offences Act for the purposes of section 65 or 66 of this Act.
 
 ### Testimony in civil proceeding
 
 (4) No person shall be compelled to give testimony in a civil proceeding with regard to information obtained in the course of exercising a power or performing a duty under this Act, other than,
+
 (a) a proceeding under this Act; or
+
 (b) an appeal or a judicial review relating to a proceeding described in clause (a).
 
 ### Liability, administrator under Resource Recovery and Circular Economy Act, 2016
@@ -1344,39 +1625,69 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Regulations, Lieutenant Governor in Council
 
 73 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing materials as blue box waste for the purposes of this Act;
+
 (b) prescribing materials as designated wastes for the purposes of this Act;
+
 (c) prescribing activities for the purpose of paragraph 4 of subsection 10 (3);
+
 (d) prescribing a percentage greater than 50 per cent for the purposes of section 11;
+
 (e) governing the composition and appointment of the board of directors of an industry funding organization;
+
 (f) for the purposes of section 23, prescribing provisions of the Corporations Act, the Not-for-Profit Corporations Act, 2010 or the Corporations Information Act that apply to an industry funding organization and prescribing modifications to those provisions;
+
 (g) limiting the capacity, rights, powers or privileges of an industry funding organization for the purposes of subsection 24 (1);
+
 (h) permitting and governing, for the purposes of subsection 24 (2), the establishment of subsidiary corporations of an industry funding organization, including,
+
 (i) specifying the objects, powers and duties of subsidiary corporations,
+
 (ii) providing for their management,
+
 (iii) prescribing provisions of this Act and the regulations that apply, with prescribed modifications, to subsidiary corporations, and
+
 (iv) prescribing provisions of the Corporations Act, the Not-for-Profit Corporations Act, 2010 and the Corporations Information Act that apply to subsidiary corporations;
+
 (i) governing commercial activities referred to in subsection 24 (3) that the industry funding organization may engage in through an individual, corporation or other entity, including respecting the manner in which an entity may or may not be related to the organization, to a member of its board of directors or to an officer of the organization for the purposes of that subsection;
+
 (j) governing the administrative penalties that may be imposed under section 56;
+
 (k) prescribing criteria for the purposes of subsection 61 (2);
+
 (l) governing the Authority’s requests for information from industry funding organizations;
+
 (m) specifying other means of giving a document for the purposes of clause 67 (1) (g), and specifying the day on which a document given by those means is deemed to have been received;
+
 (n) providing that section 69 does not apply if criteria specified by the regulations are satisfied;
+
 (o) exempting any person or class of persons from any provision of this Act, the regulations or the rules made under section 33, subject to such conditions or restrictions as may be prescribed;
+
 (p) defining any word or expression used in this Act that is not already defined;
+
 (q) respecting any matter that the Lieutenant Governor in Council considers advisable to carry out the purposes of this Act;
+
 (r) governing such transitional matters as the Lieutenant Governor in Council considers necessary or advisable to facilitate the implementation of this Act.
 
 ### Administrative penalties
 
 (2) Without limiting the generality of clause (1) (j), a regulation governing administrative penalties may,
+
 (a) despite subsection 56 (2), prescribe circumstances in which an administrative penalty may not be imposed;
+
 (b) prescribe criteria the Registrar or Deputy Registrar is required or permitted to consider when imposing a penalty under section 56;
+
 (c) govern the determination of the amount of administrative penalties for the purposes of subsection 56 (6);
+
 (d) authorize a penalty to be imposed for each day or part of a day on which a contravention continues;
+
 (e) authorize higher penalties for a second or subsequent contravention;
+
 (f) require that the penalty be paid before a specified deadline or before a deadline specified by the Registrar or Deputy Registrar;
+
 (g) authorize the imposition of late payment fees respecting penalties that are not paid before the deadline, including graduated late payment fees;
+
 (h) establish a maximum cumulative penalty payable in respect of a contravention or in respect of contraventions during a specified period.
 
 ### Regulations in respect of rule matters
@@ -1390,7 +1701,11 @@ vii. Costs incurred by the Crown in administering this Act and the regulations, 
 ### Conflict
 
 (5) If a regulation under subsection (3) conflicts with a rule, the regulation prevails.
+
 75 Omitted (amends, repeals or revokes other legislation).
+
 77 Omitted (provides for amendments to this Act).
+
 78 Omitted (provides for coming into force of provisions of this Act).
+
 79 Omitted (enacts short title of this Act).

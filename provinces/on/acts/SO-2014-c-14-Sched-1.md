@@ -6,42 +6,58 @@ language: en
 type: act
 document_date: "2014-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14v14"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Voluntary Blood Donations Act, 2014
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14v14) before relying on it.
 
 S.O. 2014, c. 14, Sched. 1
 
 ### Purpose
 
 1 The purpose of this Act is to provide for recognition of the following principles:
+
 1. Within Ontario’s health care system, blood donations are viewed as a public resource‎.
+
 ‎ 2. Blood donors should not be paid, except in exceptional circumstances.
+
 3. ‎The integrity of the public, voluntary blood donor system in Ontario must be protected.
 
 ### Definitions
 
 2 In this Act,
+
 “blood” means human blood, and includes whole blood and blood constituents; (“sang”)
+
 “blood collection facility” means a place where blood is taken or collected from the human body; (“établissement de collecte de sang”)
+
 “compliance order” means an order made under section 5; (“arrêté de conformité”)
+
 “inspector” means an inspector appointed under section 4; (“inspecteur”)
+
 “Minister” means the Minister of Health and Long-Term Care, or, if another Minister has been assigned responsibility for this Act under the Executive Council Act, that Minister; (“ministre”)
+
 “offer to provide”, without restricting the ordinary meaning of the expression, includes to offer by means of advertising in any media; (“offrir de fournir”)
+
 “payment” means, subject to the regulations, remuneration, compensation or consideration of any value and of any kind, and includes reimbursement for time, travel, commitment or expenditures of any kind; (“paiement”)
+
 “personal information” includes personal information as defined in the Freedom of Information and Protection of Privacy Act and personal health information as defined in the Personal Health Information Protection Act, 2004; (“renseignements personnels”)
+
 “record” includes a record that contains personal information; (“dossier”)
+
 “regulations” means regulations made under this Act; (“règlements”)
+
 “restraining order” means an order made under section 6. (“ordonnance de ne pas faire”)
 
 ### Payment for blood prohibited
 
 3 (1) No person shall,
+
 (a) provide payment to any individual in return for the giving of blood by that individual, either directly or indirectly; or
+
 (b) offer to provide payment to any individual in return for the giving of blood by that individual, either directly or indirectly.
 
 ### Same, donor
@@ -67,8 +83,11 @@ S.O. 2014, c. 14, Sched. 1
 ### Inspection
 
 (2) For the purpose of determining whether this Act is being complied with, an inspector may, without a warrant, enter and inspect,
+
 (a) a blood collection facility;
+
 (b) any business premises of a company that owns, operates, franchises or licenses one or more blood collection facilities; and
+
 (c) any place that the inspector reasonably believes is being used as a blood collection facility.
 
 ### Time of entry
@@ -90,12 +109,19 @@ S.O. 2014, c. 14, Sched. 1
 ### Powers of inspector
 
 (7) An inspector conducting an inspection may,
+
 (a) examine records or anything else that is relevant to the inspection;
+
 (b) demand the production of a record or any other thing that is relevant to the inspection;
+
 (c) remove a record or any other thing that is relevant to the inspection for review, examination or testing;
+
 (d) remove a record or any other thing that is relevant to the inspection for copying;
+
 (e) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place;
+
 (f) take photographs or make any other kind of recording; and
+
 (g) question a person on matters relevant to the inspection.
 
 ### Written demand
@@ -109,7 +135,9 @@ S.O. 2014, c. 14, Sched. 1
 ### Records and things removed from place
 
 (10) A record or other thing that has been removed for review, examination, testing or copying,
+
 (a) shall be made available to the person from whom it was removed on request and at a time and place that are convenient for the person and for the inspector; and
+
 (b) shall be returned to the person within a reasonable time, unless, in the case of a thing that has been subject to testing, the thing has been made unsuitable for return as a result of the testing.
 
 ### Copy admissible in evidence
@@ -143,8 +171,11 @@ S.O. 2014, c. 14, Sched. 1
 ### Proof of service
 
 (6) A certificate of service made by the person who served a document under this section is evidence of the service of the document on the person served and its receipt by that person if, in the certificate, the person who served the document,
+
 (a) certifies that the copy of the document is a true copy of it;
+
 (b) certifies that the document was served on the person; and
+
 (c) sets out in it the method of service used.
 
 ### Copy of order
@@ -186,11 +217,17 @@ S.O. 2014, c. 14, Sched. 1
 ### Offences
 
 8 (1) Every person who contravenes a provision of this Act is guilty of an offence and on conviction is liable,
+
 (a) in the case of an individual,
+
 (i) for a first offence, to a fine not exceeding $10,000 for each day or part of a day on which the offence occurs or continues, and
+
 (ii) for a second or subsequent offence, to a fine not exceeding $50,000 for each day or part of a day on which the offence occurs or continues; and
+
 (b) in the case of a corporation,
+
 (i) for a first offence, to a fine not exceeding $100,000 for each day or part of a day on which the offence occurs or continues, and
+
 (ii) for a second or subsequent offence, to a fine not exceeding $500,000 for each day or part of a day on which the offence occurs or continues.
 
 ### No limitation
@@ -224,11 +261,19 @@ S.O. 2014, c. 14, Sched. 1
 ### Regulations, Lieutenant Governor in Council
 
 11 The Lieutenant Governor in Council may make regulations,
+
 (a) defining any word or expression used in this Act but not defined in the Act;
+
 (b) clarifying the definition of “payment” in section 2 and specifying what things do or do not constitute payment for the purpose of the Act;
+
 (c) further clarifying the meaning of “solely for the purpose of research” as used in section 3;
+
 (d) specifying requirements or conditions in respect of the collection, use or disclosure of personal information by the Minister or an inspector under this Act;
+
 (e) for carrying out the purposes, provisions and intent of this Act.
+
 12. -15 Omitted (amends other legislation).
+
 16 Omitted (provides for coming into force of provisions of this Act).
+
 17 Omitted (enacts short title of this Act).

@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2018-08-15"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18h10"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # responsabilisation de Hydro One (Loi de 2018 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18h10) before relying on it.
 
 L.O. 2018, chap. 10, Annexe 1
 
@@ -21,10 +21,15 @@ L.O. 2018, chap. 10, Annexe 1
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «cadre supérieur» Toute personne qui occupe la charge de vice-président à la direction, de vice-président, de chef des services administratifs, de chef de l’exploitation, de chef des finances, de chef de l’information, de chef des affaires juridiques, de chef des ressources humaines ou de chef du développement de l’entreprise, ou qui occupe un autre poste ou une autre charge de cadre supérieur, indépendamment de son titre. («executive»)
+
 «chef de la direction» Personne occupant le poste de président et chef de la direction de Hydro One Limited. («Chief Executive Officer»)
+
 «filiale» S’entend au sens de la Loi sur les sociétés par actions. Est exclue toute filiale constituée en personne morale à l’extérieur du Canada. («subsidiary»)
+
 «ministre» Le ministre de l’Énergie, du Développement du Nord et des Mines ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «rémunération» Tout ce qui est versé ou accordé, directement ou indirectement, à une personne qui exerce des fonctions lui donnant droit à un paiement, ou au profit de cette personne. Sont compris le traitement, les avantages et avantages accessoires ainsi que toutes les formes de paiements, discrétionnaires ou non. («compensation»)
 
 ### Rémunération des cadres supérieurs et des administrateurs
@@ -44,7 +49,9 @@ L.O. 2018, chap. 10, Annexe 1
 ### Directives
 
 3 (1) Le Conseil de gestion du gouvernement peut, par directive :
+
 a) régir la rémunération des administrateurs, du chef de la direction et des autres cadres supérieurs de Hydro One Limited, et notamment limiter la rémunération annuelle totale à verser à ces personnes;
+
 b) régir l’élaboration du cadre de rémunération prévu au paragraphe 2 (1), y compris sa forme, la manière dont il se présente et le délai dans lequel le présenter, et régir ses modifications éventuelles.
 
 ### Obligation de se conformer aux directives
@@ -54,7 +61,9 @@ b) régir l’élaboration du cadre de rémunération prévu au paragraphe 2 (1)
 ### Publication
 
 (3) Chaque directive donnée en vertu du paragraphe (1) :
+
 a) est mise à la disposition du public sur demande;
+
 b) est affichée publiquement sur au moins un site Web du gouvernement de l’Ontario.
 
 ### Statut
@@ -74,10 +83,15 @@ b) est affichée publiquement sur au moins un site Web du gouvernement de l’On
 ### Aucune cause d’action
 
 6 (1) Aucune cause d’action ne prend naissance contre la Couronne, un membre ou ancien membre du Conseil exécutif ou un employé, mandataire ou conseiller ou ancien employé, mandataire ou conseiller de la Couronne, ni contre Hydro One Limited, l’une ou l’autre de ses filiales ou leurs dirigeants, administrateurs, employés ou mandataires ou anciens dirigeants, administrateurs, employés ou mandataires, par suite directe ou indirecte de ce qui suit :
+
 a) l’édiction, l’effet, l’application ou l’abrogation d’une disposition de la présente loi;
+
 b) quoi que ce soit qui est fait ou n’est pas fait en application de la présente loi;
+
 c) tout ce qui se rapporte de quelque façon que ce soit à l’intervention du gouvernement de l’Ontario dans les questions concernant la rémunération ou les autres aspects de la gouvernance de Hydro One Limited ou de l’une ou l’autre de ses filiales;
+
 d) toute prétendue présentation inexacte des faits, au sens de la législation sur les valeurs mobilières applicable, qui figure dans un prospectus, un document ou une autre déclaration publique et qui se rapporte de quelque façon que ce soit à l’intervention du gouvernement de l’Ontario dans les questions concernant la rémunération à Hydro One Limited ou dans l’une ou l’autre de ses filiales;
+
 e) les conséquences préjudiciables sur les marchés ou la diminution de la valeur des valeurs mobilières de Hydro One Limited, ou de l’une ou l’autre de ses filiales, ou de tout autre investissement, qui résultent de l’édiction de la présente loi, de quoi que ce soit qui est fait ou n’est pas fait pour assurer la conformité à la présente loi ou de l’intervention du gouvernement de l’Ontario dans la gouvernance de Hydro One Limited ou de l’une ou l’autre de ses filiales.
 
 ### Irrecevabilité de certaines instances
@@ -109,15 +123,21 @@ e) les conséquences préjudiciables sur les marchés ou la diminution de la val
 ### Règlements
 
 (3) Le lieutenant-gouverneur en conseil peut, par règlement, régir l’application du présent article, notamment :
+
 a) préciser les cadres supérieurs ou les catégories de cadres supérieurs dont la rémunération doit être publiée en application du paragraphe (1);
+
 b) exiger la publication de renseignements supplémentaires et préciser en quoi ils consistent;
+
 c) prévoir le contenu de l’avis exigé au paragraphe (2);
+
 d) exiger et régir l’application du présent article, avec les adaptations nécessaires, aux cadres supérieurs des filiales de Hydro One Limited.
 
 ### Renseignements et rapports
 
 8 (1) Le ministre peut demander à Hydro One Limited et aux autres personnes et entités qu’il estime appropriées de lui fournir les renseignements qu’il estime nécessaires en vue de l’application des dispositions de la présente loi, notamment des renseignements qui indiquent, selon le cas :
+
 a) les détails financiers ou autres de tout contrat de travail ou autre contrat conclu avec un administrateur, le chef de la direction ou un autre cadre supérieur à l’égard de son emploi par Hydro One Limited ou l’une ou l’autre de ses filiales;
+
 b) quoi que ce soit concernant la rémunération qui a été ou doit être versée à un administrateur, au chef de la direction ou à un autre cadre supérieur de Hydro One Limited ou de l’une ou l’autre de ses filiales ou dont il peut se prévaloir.
 
 ### Conformité
@@ -139,11 +159,15 @@ b) quoi que ce soit concernant la rémunération qui a été ou doit être vers�
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), le lieutenant-gouverneur en conseil peut, par règlement, définir un terme qui est utilisé dans la présente loi, mais qui n’y est pas défini, ou en préciser le sens.
+
 10 Omis (modification ou abrogation d’autres textes législatifs).
 
 ### Abrogation
 
 11 (1) Sous réserve du paragraphe (2), la présente loi est abrogée le jour que le lieutenant-gouverneur fixe par proclamation.
+
 (2) Une proclamation peut prévoir l’abrogation de dispositions différentes de la présente loi à des dates différentes.
+
 12 Omis (entrée en vigueur de dispositions de la présente loi).
+
 13 Omis (édiction du titre abrégé de la présente loi).

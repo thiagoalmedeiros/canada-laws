@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "1996-06-27"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96o18"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Loan Act, 1996 (No. 2)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96o18) before relying on it.
 
 S.O. 1996, c. 18, Sched.
 
@@ -27,4 +27,5 @@ S.O. 1996, c. 18, Sched.
 ### Expiry
 
 2 No order in council authorizing borrowing under this Act shall be made after December 31, 1997.
+
 3 Omitted (enacts short title of this Act).

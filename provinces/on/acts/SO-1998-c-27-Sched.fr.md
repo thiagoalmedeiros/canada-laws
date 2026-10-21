@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98l27"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # enregistrement des lobbyistes (Loi de 1998 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98l27) before relying on it.
 
 L.O. 1998, chap. 27, annexe
 
@@ -21,50 +21,91 @@ L.O. 1998, chap. 27, annexe
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «appel au grand public» Appel au grand public effectué directement ou au moyen d’un média à grande diffusion pour qu’il communique directement avec le titulaire d’une charge publique en vue de faire pression sur lui pour qu’il adhère à une opinion donnée. («grass-roots communication»)
+
 «chef de la direction» Relativement à une organisation, le particulier qui occupe le poste de cadre le plus élevé dans l’organisation, indépendamment du titre effectif de ce poste. («chief executive officer»)
+
 «client» Personne, société en nom collectif ou en commandite ou organisation pour le compte de laquelle le lobbyiste-conseil s’engage à exercer des pressions. («client»)
+
 «Couronne» Sa Majesté du chef de l’Ontario. («Crown»)
+
 «exercer des pressions» S’entend de ce qui suit :
+
 a) en rapport avec un lobbyiste-conseil visé à l’article 4 et un lobbyiste salarié visé à l’article 5 ou 6, communiquer avec le titulaire d’une charge publique afin de tenter d’influencer, selon le cas :
+
 (i) l’élaboration de propositions législatives par le gouvernement de l’Ontario ou par un député à l’Assemblée législative,
+
 (ii) le dépôt d’un projet de loi ou d’une résolution devant l’Assemblée législative, ou sa modification, son adoption ou son rejet par celle-ci,
+
 (iii) la prise ou la modification de tout règlement au sens de la partie III (Règlements) de la Loi de 2006 sur la législation,
+
 (iv) l’élaboration ou la modification d’une politique ou d’un programme du gouvernement de l’Ontario, ou la cessation d’un de ses programmes,
+
 (v) toute décision du Conseil exécutif voulant que la Couronne transfère, moyennant contrepartie, soit tout ou partie d’entreprises, d’activités ou d’établissements qui fournissent des biens ou des services à la Couronne ou au public, soit un intérêt s’y rattachant, soit des éléments de leur actif,
+
 (vi) toute décision du Conseil exécutif, d’un de ses comités ou d’un ministre de la Couronne de charger le secteur privé plutôt que la Couronne de la fourniture de biens ou de services à celle-ci,
+
 (vii) l’octroi de subventions, de contributions ou d’autres avantages financiers par la Couronne ou pour son compte;
+
 b) en rapport avec un lobbyiste-conseil visé à l’article 4 uniquement :
+
 (i) soit communiquer avec le titulaire d’une charge publique afin de tenter d’influencer l’octroi d’un contrat par la Couronne ou pour son compte,
+
 (ii) soit organiser pour un tiers une entrevue avec le titulaire d’une charge publique. («lobby»)
+
 «lobbyiste-conseil» Particulier qui, moyennant paiement, s’engage à exercer des pressions pour le compte d’un client. («consultant lobbyist»)
+
 «organisation» S’entend de ce qui suit :
+
 a) une organisation commerciale, industrielle, professionnelle ou bénévole;
+
 b) une organisation syndicale;
+
 c) une chambre de commerce;
+
 d) une association, un organisme de bienfaisance, une coalition ou un groupe d’intérêt;
+
 e) un gouvernement autre que celui de l’Ontario;
+
 f) une personne morale sans capital-actions constituée en vue de poursuivre, sans gain pécuniaire pour ses membres, des objets d’un caractère national, provincial, territorial, patriotique, religieux, philanthropique, charitable, éducatif, agricole, scientifique, artistique, social, professionnel, fraternel, sportif ou athlétique ou des objets analogues. («organization»)
+
 «paiement» S’entend d’une somme d’argent ou de toute autre chose de valeur et d’un contrat, d’une promesse ou d’une entente portant paiement d’une somme d’argent ou de toute autre chose de valeur. («payment»)
+
 «prescrit» Prescrit par les règlements pris en application de la présente loi. («prescribed»)
+
 «registrateur» Le registrateur nommé par l’article 10. («registrar»)
+
 «règlements» Sauf indication contraire, s’entend des règlements pris en application de la présente loi. («regulations»)
+
 «titulaire d’une charge publique» S’entend des personnes suivantes :
+
 a) les ministres, fonctionnaires et employés de la Couronne;
+
 b) les députés à l’Assemblée législative et les membres de leur personnel;
+
 c) les personnes nommées à des charges ou à des organismes par le lieutenant-gouverneur en conseil ou un ministre de la Couronne, ou avec son approbation, à l’exclusion des juges et des juges de paix;
+
 d) les dirigeants, administrateurs et employés de tout organisme, conseil ou commission de la Couronne;
+
 e) les membres de la Police provinciale de l’Ontario;
+
 f) les dirigeants, administrateurs et employés des entités suivantes :
+
 (i) Abrogé : 2015, chap. 20, annexe 22, art. 1.
+
 (ii) Ontario Power Generation Inc. et chacune de ses filiales,
+
 (iii) Abrogé : 2014, chap. 7, annexe 18, art. 1.
+
 (iv) la Société indépendante d’exploitation du réseau d’électricité. («public office holder») 1998, chap. 27, annexe, par. 1 (1)
 
 ### Filiale
 
 (2) Pour l’application de la présente loi, une personne morale est la filiale d’une autre si les conditions suivantes sont réunies :
+
 a) ses valeurs mobilières auxquelles sont rattachées plus de 50 pour cent des voix pouvant être exprimées lors de l’élection de ses administrateurs sont détenues, autrement qu’à titre de sûreté seulement, directement ou indirectement, que ce soit par l’intermédiaire d’une ou de plusieurs filiales ou autrement, par l’autre personne morale ou à son profit;
+
 b) le nombre de voix rattachées à ces valeurs mobilières est suffisant pour élire la majorité de ses administrateurs.
 
 ### Organisme public
@@ -80,21 +121,33 @@ b) le nombre de voix rattachées à ces valeurs mobilières est suffisant pour �
 ### Restriction
 
 3 (1) Les personnes suivantes ne sont pas tenues de s’enregistrer en application de l’article 4, 5 ou 6 lorsqu’elles agissent dans le cadre de leurs attributions :
+
 1. Les sénateurs, les députés fédéraux, les députés d’une autre province, les conseillers ou les députés territoriaux, ainsi que leur personnel.
+
 2. Les employés du gouvernement du Canada ou de celui d’une autre province ou d’un territoire.
+
 3. Les membres d’un conseil ou autre organisme créé par une loi et chargé de la conduite des affaires municipales d’une municipalité au sens de la Loi de 2001 sur les municipalités et les membres d’un conseil local au sens de la Loi sur les affaires municipales, leur personnel et les fonctionnaires et les employés d’une municipalité ou d’un conseil local.
+
 4. Les membres du conseil d’une bande, au sens du paragraphe 2 (1) de la Loi sur les Indiens (Canada), ou du conseil d’une bande indienne constituée aux termes d’une loi fédérale, leur personnel et les employés du conseil.
+
 5. Les agents diplomatiques, fonctionnaires consulaires et représentants officiels au Canada d’un gouvernement étranger.
+
 6. Les fonctionnaires d’une agence spécialisée des Nations Unies au Canada ou d’une autre organisation internationale à qui des privilèges et immunités sont accordés sous le régime d’une loi fédérale.
 
 ### Idem
 
 (2) Un particulier n’est pas tenu de s’enregistrer en application de l’article 4, 5 ou 6 à l’égard de ce qui suit :
+
 a) la présentation d’observations orales ou écrites, dans le cadre de procédures dont l’existence peut être connue du public, soit à un comité de l’Assemblée législative, soit à une personne ou à un organisme dont la compétence ou les pouvoirs sont conférés sous le régime d’une loi;
+
 b) la présentation d’observations orales ou écrites par un particulier pour le compte d’une personne, d’une société en nom collectif ou en commandite ou d’une organisation au titulaire d’une charge publique à l’égard de ce qui suit :
+
 (i) soit l’exécution, l’interprétation ou l’application, par le titulaire de la charge publique, d’une loi ou d’un de ses règlements d’application dans le cas de la personne, de la société ou de l’organisation,
+
 (ii) soit la mise en oeuvre ou l’application, par le titulaire de la charge publique, d’une politique, d’un programme, d’une directive ou d’une ligne directrice dans le cas de la personne, de la société ou de l’organisation;
+
 c) la présentation d’observations orales ou écrites par un particulier pour le compte d’une personne, d’une société en nom collectif ou en commandite ou d’une organisation au titulaire d’une charge publique, en réponse directe à sa demande écrite d’avis ou d’observations à l’égard d’une question visée à l’alinéa a) ou au sous-alinéa b) (i) de la définition de «exercer des pressions» au paragraphe 1 (1);
+
 d) la présentation d’observations orales ou écrites par un particulier à un député à l’Assemblée législative pour le compte d’un électeur de sa circonscription à l’égard d’une question personnelle touchant ce dernier, sauf si la présentation porte sur une question visée au sous-alinéa a) (i) ou (ii) de la définition de «exercer des pressions» au paragraphe 1 (1) et concernant un projet de loi d’intérêt privé ayant pour objet de procurer un avantage particulier à cet électeur.
 
 ### Idem
@@ -106,7 +159,9 @@ d) la présentation d’observations orales ou écrites par un particulier à un
 ### Lobbyistes-conseils et fonds publics
 
 3.1 Aucun lobbyiste-conseil ne doit s’engager à exercer des pressions pour le compte d’un client dans le cas suivant :
+
 a) l’article 4 de la Loi de 2010 sur la responsabilisation du secteur parapublic interdit au client d’engager un lobbyiste pour qu’il lui fournisse des services de lobbyiste rémunérés sur les fonds publics ou d’autres recettes;
+
 b) la rémunération du lobbyiste-conseil doit être prélevée sur les fonds publics ou d’autres recettes que cet article interdit au client d’utiliser.
 
 ### Lobbyistes-conseils : paiements conditionnels
@@ -158,43 +213,77 @@ b) la rémunération du lobbyiste-conseil doit être prélevée sur les fonds pu
 ### Cas où une seule déclaration suffit
 
 (2) Le lobbyiste-conseil qui s’engage à exercer des pressions n’est tenu de déposer qu’une seule déclaration aux termes du paragraphe (1), même si, dans le cadre de cet engagement, il communique avec un ou plusieurs titulaires d’une charge publique à une ou plusieurs reprises ou organise pour un tiers une ou plusieurs entrevues avec le titulaire d’une charge publique.
+
 (3) Abrogé : 2014, chap. 13, annexe 8, par. 6 (1).
 
 ### Contenu de la déclaration
 
 (4) Le lobbyiste-conseil donne, dans la déclaration, les renseignements suivants à l’égard de l’engagement :
+
 1. Son nom et son adresse d’affaires ainsi que, le cas échéant, le nom commercial et l’adresse d’affaires du cabinet où il exerce ses activités.
+
 1.1 Le fait qu’à un moment antérieur au dépôt de la déclaration, il a été, selon le cas :
+
 i. ministre,
+
 ii. employé au bureau d’un ministre,
+
 iii. sous-ministre, sous-ministre associé ou sous-ministre adjoint, ou a occupé un poste de classification équivalente,
+
 iv. chef de la direction ou président du conseil d’administration d’un organisme, d’un conseil ou d’une commission de la Couronne,
+
 v. cadre supérieur d’un organisme, d’un conseil ou d’une commission de la Couronne qui relève directement de son chef de la direction,
+
 vi. chef de la direction ou président du conseil d’administration des entités suivantes :
+
 A. Abrogée : 2015, chap. 20, annexe 22, art. 2.
+
 B. Ontario Power Generation Inc. ou l’une de ses filiales,
+
 C. l’Office de l’électricité de l’Ontario,
+
 D. la Société indépendante d’exploitation du réseau d’électricité,
+
 vii. cadre supérieur d’une entité mentionnée à la sous-disposition vi qui relève directement de son chef de la direction.
+
 2. Le nom commercial et l’adresse d’affaires de son client ainsi que le nom commercial et l’adresse d’affaires de toute personne, société en nom collectif ou en commandite ou organisation qui, à sa connaissance, contrôle ou dirige les activités de ce client et que le résultat de ses activités pour le compte de celui-ci intéresse directement.
+
 3. Dans le cas où son client est une personne morale, le nom commercial et l’adresse d’affaires de chacune de ses filiales que, à sa connaissance, le résultat de ses activités pour le compte de celui-ci intéresse directement.
+
 4. Dans le cas où son client est une personne morale filiale d’une autre personne morale, le nom commercial et l’adresse d’affaires de celle-ci.
+
 5. Dans le cas où son client est une organisation, le nom commercial et l’adresse d’affaires des sociétés en nom collectif ou en commandite, personnes morales ou entités qui en font partie.
+
 6. Dans le cas où le financement de son client provient en tout ou en partie d’un gouvernement, le nom du gouvernement ou de l’organisme gouvernemental, selon le cas, et les montants reçus de ce gouvernement ou de cet organisme pendant l’exercice de ce gouvernement qui précède le dépôt de la déclaration.
+
 7. Le nom commercial et l’adresse d’affaires de toute entité ou organisation qui, à sa connaissance, a contribué (pendant l’exercice de l’entité ou de l’organisation qui précède le dépôt de la déclaration) pour 750 $ ou plus à ses activités pour le compte de son client. Toutefois, la présente disposition ne s’applique pas à l’égard des contributions versées par un gouvernement.
+
 8. Le nom et l’adresse d’affaires de tout particulier qui, à sa connaissance, a versé une contribution visée à la disposition 7 pour le compte d’une entité ou d’une organisation visée à cette disposition.
+
 9. Les renseignements suivants :
+
 i. L’objet des pressions qu’il s’est engagé à exercer et tout renseignement prescrit à ce sujet.
+
 ii. L’objectif visé par les pressions.
+
 10. Abrogée : 2014, chap. 13, annexe 8, par. 6 (12).
+
 11. Les renseignements utiles à la détermination de la proposition législative, du projet de loi, de la résolution, du règlement, de la politique, du programme, de la décision, de la subvention, de la contribution, de l’avantage financier ou du contrat en cause.
+
 12. Le nom du ministère du gouvernement de l’Ontario ou de l’organisme, du conseil ou de la commission de la Couronne où est employé ou exerce ses fonctions le titulaire d’une charge publique auprès duquel il a exercé des pressions ou compte en exercer.
+
 13. Le fait qu’il a exercé ou compte exercer des pressions auprès d’un ministre, en cette qualité, auprès d’un ministre ou d’un autre député à l’Assemblée législative, en sa qualité de député, ou auprès d’un membre du personnel d’un ministre ou d’un député. Les renseignements visés à la présente disposition doivent comprendre le nom du bureau du ministre, si celui-ci fait l’objet de pressions en sa qualité de ministre, par exemple, «le bureau du ministre de [insérer le nom du ministère]», ou le nom du bureau du député, par exemple, «le bureau du député de [insérer le nom de la circonscription]», si le ministre ou le député fait l’objet de pressions en sa qualité de député.
+
 14. Dans le cas où son engagement est d’exercer des pressions au sens de l’alinéa a) ou du sous-alinéa b) (i) de la définition de «exercer des pressions» au paragraphe 1 (1), les moyens de communication qu’il a utilisés ou qu’il compte utiliser pour exercer des pressions, y compris les appels au grand public.
+
 14.1 Les renseignements confirmant ce qui suit :
+
 i. le client n’a pas engagé le lobbyiste-conseil dans des circonstances où la Loi de 2010 sur la responsabilisation du secteur parapublic interdit à un client qui est un organisme de retenir des services de lobbyiste,
+
 ii. si le lobbyiste-conseil a fourni des services à un tel client, une attestation de la personne responsable de l’organisme client, présentée sous la forme que le registrateur estime satisfaisante, confirmant que le lobbyiste-conseil n’a pas reçu au titre de ses services de lobbyiste une rémunération prélevée sur les fonds publics ou d’autres recettes qui ne peuvent pas être utilisés à cette fin.
+
 15. Les renseignements supplémentaires prescrits utiles à l’identification d’une personne ou entité visée au présent article. Toutefois, les règlements ne peuvent pas exiger du lobbyiste-conseil qu’il donne dans la déclaration le nom de particuliers ou d’autres renseignements susceptibles de révéler leur identité, si leur nom n’est pas exigé par ailleurs par le présent paragraphe.
+
 16. Tout autre renseignement prescrit. Toutefois, les restrictions prévues aux dispositions 7 et 15 s’appliquent également à la présente disposition.
 
 ### Modification de la déclaration et nouveaux renseignements
@@ -224,7 +313,9 @@ ii. si le lobbyiste-conseil a fourni des services à un tel client, une attestat
 ### Définition
 
 (10) La définition qui suit s’applique au présent article.
+
 «engagement» Engagement pris par le lobbyiste-conseil d’exercer des pressions pour le compte d’un client.
+
 4.1 Abrogé : 2014, chap. 13, annexe 8, art. 7.
 
 ### lobbyistes salariés (personnes et sociétés en nom collectif ou en commandite)
@@ -232,7 +323,9 @@ ii. si le lobbyiste-conseil a fourni des services à un tel client, une attestat
 ### Déclaration obligatoire : lobbyistes salariés
 
 5 (1) Le premier dirigeant d’une personne ou d’une société en nom collectif ou en commandite qui emploie un lobbyiste salarié dépose une déclaration auprès du registrateur :
+
 a) d’une part, dans les deux mois qui suivent le jour où la personne devient un lobbyiste salarié;
+
 b) d’autre part, dans les 30 jours qui précèdent ou qui suivent l’expiration de chaque période de six mois qui suit la date de dépôt de la déclaration antérieure.
 
 ### Disposition transitoire
@@ -242,39 +335,73 @@ b) d’autre part, dans les 30 jours qui précèdent ou qui suivent l’expirati
 ### Contenu de la déclaration
 
 (3) Le premier dirigeant d’une personne ou d’une société en nom collectif ou en commandite visée au paragraphe (1) donne les renseignements suivants dans la déclaration :
+
 1. Son nom et son adresse d’affaires.
+
 2. Le nom commercial et l’adresse d’affaires de la personne ou de la société en nom collectif ou en commandite.
+
 3. Dans le cas où la personne est une personne morale, le nom commercial et l’adresse d’affaires de chacune de ses filiales que, à la connaissance du premier dirigeant, le résultat des activités des lobbyistes salariés employés par la personne intéresse directement.
+
 4. Dans le cas où la personne est une personne morale qui est la filiale d’une autre personne morale, le nom commercial et l’adresse d’affaires de celle-ci.
+
 5. Un résumé des activités commerciales ou autres de la personne ou de la société en nom collectif ou en commandite et tout renseignement prescrit utile à la détermination de la nature de ces activités.
+
 6. Dans le cas où le financement de la personne ou de la société en nom collectif ou en commandite provient en tout ou en partie d’un gouvernement, le nom du gouvernement ou de l’organisme gouvernemental, selon le cas, et les montants reçus de ce gouvernement ou de cet organisme pendant l’exercice de ce gouvernement qui précède le dépôt de la déclaration.
+
 7. Le nom commercial et l’adresse d’affaires de toute entité ou organisation qui, à la connaissance du premier dirigeant, a contribué (pendant l’exercice de l’entité ou de l’organisation qui précède le dépôt de la déclaration) pour 750 $ ou plus aux activités des lobbyistes salariés employés par la personne ou la société en nom collectif ou en commandite. Toutefois, la présente disposition ne s’applique pas à l’égard des contributions versées par un gouvernement.
+
 8. Le nom et l’adresse d’affaires de tout particulier qui, à la connaissance du premier dirigeant, a versé une contribution visée à la disposition 7 pour le compte d’une entité ou d’une organisation visée à cette disposition.
+
 9. Le nom de chaque lobbyiste salarié employé par la personne ou la société en nom collectif ou en commandite.
+
 10. Le nom des lobbyistes salariés employés par la personne ou la société en nom collectif ou en commandite qui, à un moment antérieur au dépôt de la déclaration, ont été, selon le cas :
+
 i. ministre,
+
 ii. employé au bureau d’un ministre,
+
 iii. sous-ministre, sous-ministre associé ou sous-ministre adjoint, ou ont occupé un poste de classification équivalente,
+
 iv. chef de la direction ou président du conseil d’administration d’un organisme, d’un conseil ou d’une commission de la Couronne,
+
 v. cadre supérieur d’un organisme, d’un conseil ou d’une commission de la Couronne qui relève directement de son chef de la direction,
+
 vi. chef de la direction ou président du conseil d’administration des entités suivantes :
+
 A. Abrogée : 2015, chap. 20, annexe 22, art. 3.
+
 B. Ontario Power Generation Inc. ou l’une de ses filiales,
+
 C. l’Office de l’électricité de l’Ontario,
+
 D. la Société indépendante d’exploitation du réseau d’électricité,
+
 vii. cadre supérieur d’une entité mentionnée à la sous-disposition vi qui relève directement de son chef de la direction.
+
 11. Dans le cas où un lobbyiste salarié exerce des pressions au moment du dépôt de la déclaration :
+
 i. l’objet de ces pressions et tout renseignement prescrit à ce sujet,
+
 ii. l’objectif visé par les pressions.
+
 12. Dans le cas où un lobbyiste salarié a exercé ou compte exercer des pressions au cours de la période visée par la déclaration :
+
 i. l’objet de ces pressions et tout renseignement prescrit à ce sujet,
+
 ii. l’objectif visé par les pressions.
+
 13. Les renseignements permettant d’identifier la proposition législative, le projet de loi, la résolution, le règlement, la politique, le programme, la décision, la subvention, la contribution ou l’avantage financier en cause.
+
 14. Le nom du ministère du gouvernement de l’Ontario ou de l’organisme, du conseil ou de la commission de la Couronne où est employé ou exerce ses fonctions le titulaire d’une charge publique auprès duquel un lobbyiste salarié a exercé des pressions ou compte en exercer au cours de la période visée par la déclaration.
+
 15. Le fait qu’un lobbyiste salarié a exercé des pressions ou compte en exercer auprès d’un ministre, en cette qualité, auprès d’un ministre ou d’un autre député à l’Assemblée législative, en sa qualité de député, ou auprès d’un membre du personnel d’un ministre ou d’un député, au cours de la période visée par la déclaration. Les renseignements visés à la présente disposition doivent comprendre le nom du bureau du ministre, si celui-ci fait l’objet de pressions en sa qualité de ministre, par exemple, «le bureau du ministre de [insérer le nom du ministère]», ou le nom du bureau du député, par exemple, «le bureau du député de [insérer le nom de la circonscription]», si le ministre ou le député fait l’objet de pressions en sa qualité de député.
+
 16. Les moyens de communication, y compris les appels au grand public, qu’un lobbyiste salarié a utilisés ou qu’il compte utiliser pour exercer des pressions au cours de la période visée par la déclaration.
+
 17. Le nom des lobbyistes salariés qui étaient identifiés comme tels dans la déclaration déposée le plus récemment et qui ont cessé d’exercer les fonctions de lobbyiste salarié ou d’être employés par la personne ou la société en nom collectif ou en commandite.
+
 18. Les renseignements supplémentaires prescrits utiles à l’identification d’une personne ou entité visée au présent article. Toutefois, les règlements ne peuvent pas exiger du premier dirigeant qu’il donne dans la déclaration le nom de particuliers ou d’autres renseignements susceptibles de révéler leur identité, si leur nom n’est pas exigé par ailleurs par le présent paragraphe.
+
 19. Tout autre renseignement prescrit. Toutefois, les restrictions prévues aux dispositions 7 et 18 s’appliquent également à la présente disposition.
 
 ### Modification de la déclaration et nouveaux renseignements
@@ -284,23 +411,33 @@ ii. l’objectif visé par les pressions.
 ### Renseignements demandés par le registrateur
 
 (5) Le premier dirigeant communique au registrateur les précisions que celui-ci lui demande à l’égard des renseignements qu’il a fournis aux termes du présent article au plus tard 30 jours après que le registrateur en fait la demande.
+
 (6) Abrogé : 2014, chap. 13, annexe 8, par. 8 (1).
 
 ### Définitions
 
 (7) Les définitions qui suivent s’appliquent au présent article.
+
 «employé» S’entend en outre d’un dirigeant rémunéré pour ses fonctions. («employee»)
+
 «lobbyiste salarié» Particulier, à l’exclusion d’un particulier visé au paragraphe (8), qui est employé par une personne ou une société en nom collectif ou en commandite, ou qui est un administrateur d’une personne rémunéré pour ses fonctions si, selon le cas :
+
 a) dans le cadre de ses fonctions à titre d’employé ou d’administrateur, le particulier consacre au moins 50 heures par année, ou tout autre nombre d’heures prescrit, à exercer des pressions pour le compte de la personne ou de la société en nom collectif ou en commandite ou, si la personne est une personne morale, pour le compte d’une de ses filiales ou d’une personne morale dont elle est la filiale;
+
 b) une partie des fonctions du particulier à titre d’employé ou d’administrateur consiste à exercer des pressions pour le compte de la personne ou de la société en nom collectif ou en commandite et ces fonctions, ajoutées à celles exercées à ce titre par les autres employés et administrateurs rémunérés pour leurs fonctions, représentent au moins 50 heures par année, ou tout autre nombre d’heures prescrit. («in-house lobbyist»)
+
 «personne» Est exclue de la présente définition une personne morale visée à l’alinéa f) de la définition de «organisation» au paragraphe 1 (1). («person»)
+
 «premier dirigeant» Le dirigeant rémunéré pour ses fonctions qui occupe le rang le plus élevé au sein d’une personne ou d’une société en nom collectif ou en commandite. («senior officer») 1998, chap. 27, annexe, par. 5 (7)
 
 ### Exclusions : lobbyistes salariés
 
 (8) Les particuliers suivants ne sont pas des lobbyistes salariés :
+
 1. Les hauts fonctionnaires de l’Assemblée qui sont nommés par ordre de celle-ci et les particuliers qui sont employés à leur bureau.
+
 2. Les fonctionnaires employés aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario.
+
 3. Les autres catégories prescrites d’employés d’organismes de la Couronne.
 
 ### lobbyistes salariés (organisations)
@@ -308,45 +445,81 @@ b) une partie des fonctions du particulier à titre d’employé ou d’administ
 ### Déclaration obligatoire : organisations
 
 6 (1) Le premier dirigeant d’une organisation qui emploie un lobbyiste salarié dépose une déclaration auprès du registrateur :
+
 a) d’une part, dans les deux mois du jour de l’affectation du lobbyiste salarié à ses fonctions;
+
 b) d’autre part, dans les 30 jours qui précèdent ou qui suivent l’expiration de chaque période de six mois qui suit la date de dépôt de la déclaration antérieure.
+
 (2) Abrogé : 2014, chap. 13, annexe 8, par. 9 (2).
 
 ### Contenu de la déclaration
 
 (3) Le premier dirigeant de l’organisation donne les renseignements suivants dans la déclaration :
+
 1. Son nom et son adresse d’affaires.
+
 2. Le nom commercial et l’adresse d’affaires de l’organisation.
+
 3. Un résumé des activités commerciales ou autres de l’organisation et tout renseignement prescrit utile à la détermination de la nature de ces activités.
+
 4. La composition de l’organisation et les autres renseignements prescrits à cet égard, y compris le nom de ses dirigeants ou administrateurs. Toutefois, les règlements ne peuvent pas exiger du premier dirigeant qu’il donne dans la déclaration le nom d’autres particuliers qui sont membres de l’organisation ou d’autres renseignements susceptibles de révéler leur identité.
+
 5. Dans le cas où le financement de l’organisation provient en tout ou en partie d’un gouvernement, le nom du gouvernement ou de l’organisme gouvernemental, selon le cas, et les montants reçus de ce gouvernement ou de cet organisme pendant l’exercice de ce gouvernement qui précède le dépôt de la déclaration.
+
 6. Le nom commercial et l’adresse d’affaires de toute entité ou de toute autre organisation qui, à sa connaissance, a contribué (pendant l’exercice de l’entité ou de l’organisation qui précède le dépôt de la déclaration) pour 750 $ ou plus aux activités des lobbyistes salariés de son organisation. Toutefois, la présente disposition ne s’applique pas à l’égard des contributions versées par un gouvernement.
+
 7. Le nom et l’adresse d’affaires de tout particulier qui, à sa connaissance, a versé une contribution visée à la disposition 6 pour le compte d’une entité ou d’une organisation visée à cette disposition.
+
 8. Le nom de chaque lobbyiste salarié qu’emploie l’organisation.
+
 8.1 Le nom des lobbyistes salariés employés par l’organisation qui, à un moment antérieur au dépôt de la déclaration, ont été, selon le cas :
+
 i. ministre,
+
 ii. employé au bureau d’un ministre,
+
 iii. sous-ministre, sous-ministre associé ou sous-ministre adjoint, ou ont occupé un poste de classification équivalente,
+
 iv. chef de la direction ou président du conseil d’administration d’un organisme, d’un conseil ou d’une commission de la Couronne,
+
 v. cadre supérieur d’un organisme, d’un conseil ou d’une commission de la Couronne qui relève directement de son chef de la direction,
+
 vi. chef de la direction ou président du conseil d’administration des entités suivantes :
+
 A. Abrogée : 2015, chap. 20, annexe 22, art. 4.
+
 B. Ontario Power Generation Inc. ou l’une de ses filiales,
+
 C. l’Office de l’électricité de l’Ontario,
+
 D. la Société indépendante d’exploitation du réseau d’électricité,
+
 vii. cadre supérieur d’une entité mentionnée à la sous-disposition vi qui relève directement de son chef de la direction.
+
 9. Dans le cas où un lobbyiste salarié exerce des pressions au moment du dépôt de la déclaration :
+
 i. l’objet de ces pressions et tout renseignement prescrit à ce sujet,
+
 ii. l’objectif visé par les pressions.
+
 10. Dans le cas où un lobbyiste salarié a exercé ou compte exercer des pressions au cours de la période visée par la déclaration :
+
 i. l’objet de ces pressions et tout renseignement prescrit à ce sujet,
+
 ii. l’objectif visé par les pressions.
+
 11. Les renseignements utiles à la détermination de la proposition législative, du projet de loi, de la résolution, du règlement, de la politique, du programme, de la décision, de la subvention, de la contribution ou de l’avantage financier en cause.
+
 12. Le nom du ministère du gouvernement de l’Ontario ou de l’organisme, du conseil ou de la commission de la Couronne où est employé ou exerce ses fonctions le titulaire d’une charge publique auprès duquel un lobbyiste salarié a exercé des pressions au cours de la période visée par la déclaration.
+
 13. Le fait qu’un lobbyiste salarié a exercé des pressions ou compte en exercer auprès d’un ministre, en cette qualité, auprès d’un ministre ou d’un autre député à l’Assemblée législative, en sa qualité de député, ou auprès d’un membre du personnel d’un ministre ou d’un député, au cours de la période visée par la déclaration. Les renseignements visés à la présente disposition doivent comprendre le nom du bureau du ministre, si celui-ci fait l’objet de pressions en sa qualité de ministre, par exemple, «le bureau du ministre de [insérer le nom du ministère]», ou le nom du bureau du député, par exemple, «le bureau du député de [insérer le nom de la circonscription]», si le ministre ou le député fait l’objet de pressions en sa qualité de député.
+
 14. Les moyens de communication, y compris les appels au grand public, qu’un lobbyiste salarié a utilisés ou qu’il compte utiliser pour exercer des pressions au cours de la période visée par la déclaration.
+
 15. Les autres renseignements prescrits utiles à l’identification du premier dirigeant, de l’organisation, de ses lobbyistes salariés ou de tout ministère, organisme, conseil ou commission visé à la disposition 12.
+
 16. Le nom des lobbyistes salariés qui étaient identifiés comme tels dans la déclaration déposée le plus récemment et qui ont cessé d’exercer les fonctions de lobbyiste salarié ou d’être employés par l’organisation.
+
 17. Tout autre renseignement prescrit. Toutefois, les restrictions prévues aux dispositions 4 et 6 s’appliquent également à la présente disposition.
 
 ### Modification de la déclaration et nouveaux renseignements
@@ -360,10 +533,15 @@ ii. l’objectif visé par les pressions.
 ### Définitions
 
 (5) Les définitions qui suivent s’appliquent au présent article.
+
 «employé» S’entend en outre d’un dirigeant rémunéré pour ses fonctions. («employee»)
+
 «lobbyiste salarié» Particulier qui est employé par une organisation si, selon le cas :
+
 a) dans le cadre de ses fonctions à titre d’employé, le particulier consacre au moins 50 heures par année, ou tout autre nombre d’heures prescrit, à exercer des pressions pour le compte de l’organisation;
+
 b) une partie des fonctions du particulier à titre d’employé consiste à exercer des pressions pour le compte de l’organisation et ces fonctions, ajoutées à celles exercées à ce titre par les autres employés, représentent au moins 50 heures par année, ou tout autre nombre d’heures prescrit. («in-house lobbyist»)
+
 «premier dirigeant» Le dirigeant rémunéré pour ses fonctions qui occupe le rang le plus élevé au sein d’une organisation. («senior officer») 1998, chap. 27, annexe, par. 6 (5)
 
 ### Attestation, remise et mise en mémoire des déclarations et autres documents
@@ -441,8 +619,11 @@ b) une partie des fonctions du particulier à titre d’employé consiste à exe
 ### Enlèvement du registre
 
 14 (1) Le registrateur peut enlever une déclaration du registre si le particulier qui l’a déposée :
+
 a) soit ne confirme pas les renseignements qu’elle contient dans le délai exigé par le paragraphe 4 (6);
+
 b) soit ne l’informe pas des faits visés au paragraphe 4 (7) dans le délai exigé par ce paragraphe;
+
 c) soit ne lui donne pas des renseignements demandés à l’égard de la déclaration dans le délai précisé par la présente loi.
 
 ### Idem
@@ -468,6 +649,7 @@ c) soit ne lui donne pas des renseignements demandés à l’égard de la décla
 ### Délégation de pouvoirs
 
 16 (1) Le registrateur peut déléguer par écrit à une personne employée à son bureau les pouvoirs ou fonctions que lui attribue la présente loi et peut autoriser cette personne à déléguer à son tour ces pouvoirs ou fonctions à une autre personne employée à ce bureau.
+
 (2) Abrogé : 2014, chap. 13, annexe 8, art. 12.
 
 ### Conditions
@@ -491,8 +673,11 @@ c) soit ne lui donne pas des renseignements demandés à l’égard de la décla
 ### Refus d’enquêter ou arrêt de l’enquête
 
 (3) Le registrateur peut refuser de mener une enquête pour non-respect de la présente loi ou des règlements ou peut mettre fin à une telle enquête pour quelque raison que ce soit, notamment s’il croit que l’un ou l’autre des cas suivants se présente :
+
 1. La question pourrait être traitée de façon plus appropriée sous le régime d’une autre loi.
+
 2. La question est mineure ou futile.
+
 3. Une période de temps importante s’est écoulée depuis que la question a été soulevée et, de ce fait, une enquête serait inutile.
 
 ### Renvoi au lieu d’enquête
@@ -502,20 +687,27 @@ c) soit ne lui donne pas des renseignements demandés à l’égard de la décla
 ### Suspension de l’enquête en cas d’enquête criminelle ou d’accusations
 
 17.3 (1) Le registrateur peut suspendre une enquête s’il découvre :
+
 a) soit que l’objet de l’enquête est également celui d’une enquête visant à établir si une infraction à la présente loi ou à toute autre loi de l’Ontario ou du Canada a été commise;
+
 b) soit que des accusations ont été portées à l’égard du non-respect reproché.
 
 ### Reprise d’une enquête suspendue
 
 (2) Le registrateur peut reprendre une enquête suspendue à tout moment, que l’autre enquête ou que les accusations visées à l’alinéa (1) a) ou b) aient ou non fait l’objet d’une décision définitive, sous réserve de prendre d’abord en considération ce qui suit :
+
 1. La question de savoir si l’enquête du registrateur peut être terminée en temps opportun.
+
 2. La question de savoir si l’autre enquête ou les accusations ont permis ou permettront de traiter de façon adéquate de la teneur du non-respect reproché pour l’application de la présente loi.
 
 ### Pouvoirs du registrateur lors d’une enquête
 
 17.4 (1) Lorsqu’il mène une enquête, le registrateur peut :
+
 a) exiger de toute personne qu’elle fournisse les renseignements qu’elle détient si le registrateur est d’avis qu’ils sont pertinents dans le cadre de l’enquête;
+
 b) exiger de toute personne qu’elle produise les documents ou les choses qu’elle a en sa possession ou sous son contrôle si le registrateur est d’avis qu’ils sont pertinents dans le cadre de l’enquête;
+
 c) préciser la date limite, raisonnable dans les circonstances, à laquelle les renseignements, documents ou choses doivent être fournis ou produits.
 
 ### Idem
@@ -537,10 +729,15 @@ c) préciser la date limite, raisonnable dans les circonstances, à laquelle les
 ### Avis à l’issue d’une enquête
 
 17.5 (1) Si, après avoir mené une enquête, le registrateur croit qu’une personne n’a pas respecté une disposition de la présente loi ou des règlements :
+
 a) il donne à la personne un avis indiquant ce qui suit :
+
 (i) le non-respect reproché,
+
 (ii) les motifs qui l’amènent à croire qu’il y a eu non-respect,
+
 (iii) le fait que la personne a le droit de demander à être entendue en vertu de l’alinéa b) et les modalités d’exercice de ce droit;
+
 b) il donne à la personne une occasion raisonnable d’être entendue relativement au non-respect reproché et à toute sanction qu’il pourrait imposer en vertu de la présente loi.
 
 ### Idem
@@ -554,8 +751,11 @@ b) il donne à la personne une occasion raisonnable d’être entendue relativem
 ### Constatation de non-respect par le registrateur
 
 17.6 (1) Si, après avoir mené une enquête et donné à une personne dont il croit qu’elle n’a pas respecté la présente loi ou les règlements l’occasion d’être entendue, le registrateur constate que cette personne n’a pas respecté une disposition de la présente loi ou des règlements, il donne à la personne un avis indiquant ce qui suit :
+
 a) la constatation de non-respect;
+
 b) les sanctions imposées en vertu de l’article 17.9;
+
 c) les motifs de la constatation et de l’imposition de sanctions.
 
 ### Avis
@@ -591,10 +791,15 @@ c) les motifs de la constatation et de l’imposition de sanctions.
 ### Pouvoirs du registrateur en cas de constatation de non-respect
 
 17.9 (1) Si la constatation que fait le registrateur en application de l’article 17.6 est qu’une personne n’a pas respecté une disposition de la présente loi ou des règlements, le registrateur peut, en tenant compte de la gravité du non-respect, du nombre de cas passés de non-respect de la part de la même personne et du nombre de déclarations de culpabilité antérieures dont elle a fait l’objet pour des infractions à la présente loi, et s’il est d’avis qu’il est dans l’intérêt public de le faire, prendre l’une des mesures suivantes ou les deux :
+
 1. Interdire à la personne concernée d’exercer des pressions pendant une période d’au plus deux ans.
+
 2. Sous réserve du paragraphe (4), rendre publics les renseignements suivants :
+
 i. Le nom de la personne concernée.
+
 ii. Une description du non-respect.
+
 iii. Tout autre renseignement que le registrateur estime nécessaire pour expliquer la constatation de non-respect.
 
 ### Pouvoirs du registrateur en cas de déclaration de culpabilité
@@ -616,22 +821,31 @@ iii. Tout autre renseignement que le registrateur estime nécessaire pour expliq
 ### Confidentialité
 
 17.10 (1) Sauf disposition contraire du présent article, le registrateur et quiconque agissant pour le compte de celui-ci ou sous sa direction ne doivent divulguer à qui que ce soit :
+
 a) le fait que le registrateur mène une enquête en vertu de la présente loi;
+
 b) des renseignements, documents ou choses obtenus au cours d’une enquête menée en vertu de la présente loi.
 
 ### Exceptions
 
 (2) Le registrateur et quiconque agissant pour le compte de celui-ci ou sous sa direction ne doivent divulguer à personne des renseignements, documents ou choses obtenus au cours d’une enquête menée en vertu de la présente loi, sauf si la divulgation est nécessaire pour :
+
 a) mener une enquête en vertu de l’article 17.1;
+
 b) renvoyer une question en vertu de l’article 17.2;
+
 c) exécuter une sanction imposée en vertu de l’article 17.9;
+
 d) se conformer aux exigences de l’article 17.12.
 
 ### Idem
 
 (3) Le registrateur et quiconque agissant pour le compte de celui-ci ou sous sa direction ne doivent pas témoigner ou être contraints à témoigner devant un tribunal ou dans toute autre instance en ce qui concerne des renseignements, documents ou choses obtenus au cours d’une enquête menée en vertu de la présente loi sauf dans l’un ou l’autre des cas suivants :
+
 a) dans le cadre d’une poursuite pour parjure;
+
 b) dans le cadre de poursuites pour infraction à la présente loi;
+
 c) dans le cadre d’une requête en révision judiciaire d’une constatation du registrateur ou d’une sanction imposée par celui-ci.
 
 ### Procédure : non-application de la Loi sur l’exercice des compétences légales
@@ -641,8 +855,11 @@ c) dans le cadre d’une requête en révision judiciaire d’une constatation d
 ### Rapport annuel
 
 17.12 Le rapport annuel du commissaire à l’intégrité, lequel est nommé registrateur aux termes de l’article 10 de la présente loi, exigé à l’article 24 de la Loi de 1994 sur l’intégrité des députés comprend ce qui suit :
+
 a) le nombre d’enquêtes menées par le commissaire en vertu de la présente loi au cours de l’année, y compris le nombre d’enquêtes qui ont été ouvertes, terminées ou reprises au cours de l’année et le nombre de questions sur lesquelles le commissaire a refusé d’enquêter ou qu’il a renvoyées à une autre personne ou à un autre organisme au cours de l’année;
+
 b) un résumé de chaque enquête terminée ou reprise et de chaque question renvoyée, au cours de l’année;
+
 c) tout autre renseignement utile pour l’application de la présente loi dont la divulgation est, selon le commissaire, dans l’intérêt public.
 
 ### Protection des dénonciateurs
@@ -650,21 +867,29 @@ c) tout autre renseignement utile pour l’application de la présente loi dont 
 ### Protection des dénonciateurs
 
 17.13 (1) Nul ne doit exercer de représailles contre une autre personne, que ce soit en prenant une mesure quelconque ou en s’abstenant d’en prendre une, ni menacer de le faire du fait que, selon le cas :
+
 a) quoi que ce soit a été divulgué au registrateur;
+
 b) des preuves ont été ou peuvent être présentées dans le cadre d’une instance, y compris une instance relative à l’exécution de la présente loi ou des règlements.
 
 ### Interprétation : représailles
 
 (2) Sans préjudice de la portée du sens du terme «représailles», les mesures suivantes constituent des représailles pour l’application du paragraphe (1) :
+
 1. Congédier une personne ou lui imposer une suspension ou des mesures disciplinaires.
+
 2. Prendre des sanctions contre une personne.
+
 3. Intimider, contraindre ou harceler une personne.
 
 ### Interdiction de dissuader
 
 (3) Aucune des personnes suivantes ne doit faire quoi que ce soit qui dissuade, vise à dissuader ou a l’effet de dissuader une personne de prendre une mesure visée à l’alinéa (1) a) ou b) :
+
 1. Un lobbyiste-conseil ou un lobbyiste salarié au sens de l’article 5 ou 6.
+
 2. Une personne ou une société en nom collectif ou en commandite qui emploie un lobbyiste salarié au sens de l’article 5.
+
 3. Une organisation qui emploie un lobbyiste salarié au sens de l’article 6.
 
 ### Interdiction d’encourager à ne pas prendre une mesure
@@ -694,6 +919,7 @@ b) des preuves ont été ou peuvent être présentées dans le cadre d’une ins
 ### Affirmations fausses ou trompeuses
 
 (4) Tout particulier qui fait sciemment une affirmation fausse ou trompeuse dans une déclaration ou un autre document remis au registrateur aux termes de la présente loi est coupable d’une infraction.
+
 (5) à (7) Abrogés : 2014, chap. 13, annexe 8, par. 15 (4).
 
 ### Fonds publics
@@ -719,7 +945,9 @@ b) des preuves ont été ou peuvent être présentées dans le cadre d’une ins
 ### Peine
 
 (8) Quiconque est déclaré coupable d’une infraction prévue au présent article est passible :
+
 a) pour une première infraction, d’une amende d’au plus 25 000 $;
+
 b) pour chaque infraction subséquente, d’une amende d’au plus 100 000 $. 2014, chap. 13, annexe 8, par. 15 (10).
 
 ### Prescription
@@ -731,7 +959,9 @@ b) pour chaque infraction subséquente, d’une amende d’au plus 100 000 $. 20
 ### Examen de la Loi
 
 18.1 Un comité de l’Assemblée législative fait ce qui suit :
+
 a) il entreprend un examen global de la présente loi au plus tard au cinquième anniversaire du jour de l’entrée en vigueur de l’article 16 de l’annexe 8 de la Loi de 2014 sur la responsabilisation et la transparence du secteur public et des députés ;
+
 b) dans l’année qui suit le début de cet examen, il fait ses recommandations à l’Assemblée sur les modifications à apporter à la présente loi.
 
 ### Règlements
@@ -739,12 +969,21 @@ b) dans l’année qui suit le début de cet examen, il fait ses recommandations
 ### Règlements
 
 19 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) Abrogé : 2014, chap. 13, annexe 8, par. 17 (1).
+
 b) exiger le versement de droits pour le dépôt, aux termes de l’article 4, 5 ou 6, d’une déclaration ou d’une déclaration faisant partie d’une catégorie déterminée, ou pour la prestation de services ou la mise à disposition d’installations par le registrateur;
+
 c) prescrire les droits visés à l’alinéa b) ou leur mode de calcul, et prévoir des droits différents pour le dépôt des déclarations ou une dispense de leur versement en fonction de la manière dont elles sont remises au registrateur;
+
 d) traiter de la saisie ou de l’enregistrement des déclarations ou autres documents en vertu du paragraphe 9 (1);
+
 d.1) régir tout avis exigé par la présente loi, notamment prescrire quand un avis envoyé par courrier recommandé est réputé avoir été reçu;
+
 e) prescrire tout ce que la présente loi oblige ou autorise à prescrire;
+
 f) prendre toute mesure d’application de la présente loi.
+
 20 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 21 Omis (édicte le titre abrégé de la présente loi).

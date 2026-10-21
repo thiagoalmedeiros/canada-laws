@@ -6,49 +6,76 @@ language: en
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19s01"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Special Investigations Unit Act, 2019
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19s01) before relying on it.
 
 S.O. 2019, c. 1, Sched. 5
 
 ### Definitions
 
 1 (1) In this Act,
+
 “affected person” means, in relation to an incident referred to in subsection 15 (1), a person,
+
 (a) who died or was seriously injured,
+
 (b) at whom a firearm was discharged, or
+
 (c) who reported that he or she was sexually assaulted; (“personne concernée”)
+
 “appointing official” and “extra-provincial commander” have the same meaning as in the Interprovincial Policing Act, 2009; (“agent de nomination”, “commandant extraprovincial”)
+
 “de-identify”, in relation to the personal information of an individual, means to remove any information that identifies the individual or for which it is reasonably foreseeable in the circumstances that it could be utilized, either alone or with other information, to identify the individual; (“anonymiser”)
+
 “designated authority” means,
+
 (a) in relation to an official who is a police officer other than a chief of police, the chief of police of the police service of which the police officer is a member,
+
 (b) in relation to any other official, the person prescribed by the Minister for the official in respect of this Act or the regulations or in respect of a particular provision of this Act or of a regulation; (“autorité désignée”)
+
 “Minister” means the Attorney General or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “official” means,
+
 (a) a police officer,
+
 (b) a special constable employed by the Niagara Parks Commission, and
+
 (c) a person who is a peace officer under section 103.0.2 of the Legislative Assembly Act; (“agent”)
+
 “personal information” means personal information as defined in the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “serious injury” means an injury listed in subsection (2) or any other injury sustained by a person that is likely to interfere with the person’s health or comfort and is not transient or trifling in nature; (“blessure grave”)
+
 “SIU Director” means the Special Investigations Unit Director appointed under subsection 5 (1); (“directeur de l’UES”)
+
 “subject official” means, in respect of an incident referred to in subsection 15 (1), an official whose conduct appears, in the opinion of the SIU Director, to have been a cause of the incident; (“agent impliqué”)
+
 “witness official” means an official who, in the opinion of the SIU Director, is involved in an incident referred to in subsection 15 (1), but is not a subject official in relation to the incident. (“agent témoin”)
 
 ### Serious injuries
 
 (2) A person sustains a serious injury if he or she,
+
 (a) sustains an injury as a result of which he or she is admitted to a hospital;
+
 (b) suffers a fracture to the skull, or to a limb, rib or vertebra;
+
 (c) suffers burns to a significant proportion of his or her body;
+
 (d) loses any portion of his or her body;
+
 (e) as a result of an injury, experiences a loss of vision or hearing; or
+
 (f) sustains a prescribed injury.
 
 ### Interpretation, police matters
@@ -58,8 +85,11 @@ S.O. 2019, c. 1, Sched. 5
 ### Officers appointed under the Interprovincial Policing Act, 2009
 
 2 For the purposes of this Act, a person appointed as a police officer under the Interprovincial Policing Act, 2009 is deemed to be,
+
 (a) a member of the Ontario Provincial Police;
+
 (b) if he or she was appointed by a member of a police service maintained by a police service board, a member of that police service; or
+
 (c) if he or she was appointed by a member of a police service board, a member of the police service maintained by the police service board.
 
 ### Crown bound
@@ -75,7 +105,9 @@ S.O. 2019, c. 1, Sched. 5
 ### Composition
 
 (2) The Special Investigations Unit shall be headed by the SIU Director and shall, in addition to the SIU Director, consist of,
+
 (a) investigators appointed under section 6; and
+
 (b) persons appointed as employees in the Special Investigations Unit in accordance with section 8.
 
 ### Special Investigations Unit Director
@@ -101,11 +133,17 @@ S.O. 2019, c. 1, Sched. 5
 ### Functions
 
 (6) The Special Investigations Unit Director,
+
 (a) shall oversee investigations conducted under this Act;
+
 (b) shall, in accordance with any requirements prescribed by the Minister and in consultation with such persons who represent the diversity of Ontario as the SIU Director considers appropriate, provide training for employees in the Special Investigations Unit that promotes recognition of and respect for,
+
 (i) the diverse, multiracial and multicultural character of Ontario society, and
+
 (ii) the rights and cultures of First Nation, Inuit and Métis Peoples;
+
 (c) shall publish statistical reports for the purpose of informing the evaluation, management and improvement of policing in Ontario; and
+
 (d) shall perform the duties, and may exercise the powers, that are set out under this Act, as well as any additional duties and powers that may be prescribed.
 
 ### Delegation
@@ -161,14 +199,19 @@ S.O. 2019, c. 1, Sched. 5
 ### Notice of direct collection
 
 (5) Before seeking an individual’s consent to collect personal information directly from the individual to whom the information relates, the SIU Director shall inform the individual of,
+
 (a) the authority for and purposes of the collection; and
+
 (b) the title and contact information, including an email address, of an employee in the Special Investigations Unit who can answer the individual’s questions about the collection.
 
 ### Notice of indirect collection
 
 (6) If the regulations referred to in subsection (4) provide for the collection of personal information in a manner other than directly from the individual to whom the information relates, the SIU Director shall, before collecting personal information in such a manner, ensure that notice of the collection is published on the website of the Special Investigations Unit containing,
+
 (a) a statement that the collection is authorized under subsection (1) and setting out the purposes of the collection;
+
 (b) the personal information and circumstances specified by the regulations referred to in subsection (4) for the purposes of the collection; and
+
 (c) the title and contact information, including an email address, of an employee in the Special Investigations Unit who can answer an individual’s questions about the collection.
 
 ### De-identification
@@ -182,20 +225,31 @@ S.O. 2019, c. 1, Sched. 5
 ### Limit on access
 
 (9) The SIU Director shall limit access to the personal information collected under this section to employees in the Special Investigations Unit and investigators, for the purposes of,
+
 (a) de-identifying the personal information under subsection (7); or
+
 (b) disclosing personal information under subsection (10).
 
 ### Limits on disclosure
 
 (10) The SIU Director, an employee in the Special Investigations Unit or an investigator may disclose personal information collected under this section only if,
+
 (a) the individual to whom the information relates has identified that information in particular and consented to its disclosure;
+
 (b) the disclosure is required by law, including as required under section 31 of the Human Rights Code;
+
 (c) subject to subsection (11), the disclosure is for the purpose of a proceeding or contemplated proceeding, the information relates to or is a matter in issue in the proceeding or contemplated proceeding, and,
+
 (i) the SIU Director is, or is expected to be, a party, or
+
 (ii) any of the following is, or is expected to be, a witness:
+
 (A) a current or former employee in the Special Investigations Unit,
+
 (B) a current or former investigator, or
+
 (C) a former employee in or investigator with the special investigations unit, before its continuance under this Act; or
+
 (d) the disclosure is to the Information and Privacy Commissioner.
 
 ### Same
@@ -225,8 +279,11 @@ S.O. 2019, c. 1, Sched. 5
 ### Same
 
 (2) The SIU Director shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -236,10 +293,15 @@ S.O. 2019, c. 1, Sched. 5
 ### Confidentiality
 
 12 The SIU Director and every investigator, employee in the Special Investigations Unit and person exercising powers or performing duties at the direction of the SIU Director shall preserve secrecy in respect of all information obtained by him or her in the course of exercising a power or performing a duty under this Act, and shall not communicate any such information to any person except,
+
 (a) as may be required in connection with the administration of this Act or the Community Safety and Policing Act, 2019, or the regulations made under either of them;
+
 (b) to his or her counsel;
+
 (c) as may be required for law enforcement purposes;
+
 (d) with the consent of the person, if any, to whom the information relates; or
+
 (e) where disclosure is otherwise required by law.
 
 ### Protection from personal liability
@@ -263,22 +325,31 @@ S.O. 2019, c. 1, Sched. 5
 ### Power to investigate
 
 15 (1) The SIU Director may cause an investigation to be conducted into any incident in which any of the following occurs, if the incident may have resulted from criminal conduct by an official:
+
 1. The death of a person.
+
 2. The serious injury of a person.
+
 3. The discharge of a firearm at a person.
+
 4. The sexual assault of a person, as reported by the person.
 
 ### Application of section to officials
 
 (2) This section applies in respect of an official if, at the time of the incident,
+
 (a) the official was on duty; or
+
 (b) the official was off-duty but,
+
 (i) engaged in the investigation, pursuit, detention or arrest of a person or otherwise exercised the powers of a police officer, special constable or peace officer, as the case may be, whether or not the official intended to exercise such powers or identified him or herself as a person who may exercise such powers, or
+
 (ii) the incident involved equipment or other property issued to the official in relation to his or her duties;
 
 ### Interpretation, firearm
 
 (3) For the purposes of paragraph 3 of subsection (1),
+
 “firearm” means a firearm as defined in section 2 of the Criminal Code (Canada), other than a firearm prescribed by the Minister.
 
 ### Former official
@@ -304,11 +375,17 @@ S.O. 2019, c. 1, Sched. 5
 ### Notification of incident
 
 16 (1) A designated authority shall immediately notify the SIU Director of an incident referred to in subsection 15 (1) involving an official in relation to whom the authority is designated in any of the following circumstances:
+
 1. In the case of an incident referred to in paragraph 1 or 2 of subsection 15 (1),
+
 i. if the official used force against the affected person,
+
 ii. if the affected person was detained by or in the custody of the official,
+
 iii. if the affected person was involved in a motor vehicle accident involving the official or pursuit by the official, or
+
 iv. in any other circumstance in which the designated authority reasonably believes that the official’s conduct may have been a contributing factor in the incident.
+
 2. In any case of an incident referred to in paragraph 3 or 4 of subsection 15 (1).
 
 ### Same
@@ -338,7 +415,9 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Lead investigator
 
 18 Except in the prescribed circumstances, the SIU Director is the lead investigator in the investigation of an incident or matter under this Act, and shall have priority over,
+
 (a) any police service investigating the incident or matter; and
+
 (b) any other body that may be prescribed.
 
 ### Assignment of investigators
@@ -386,7 +465,9 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Incident notes
 
 23 (1) If an investigator requests a copy of the incident notes of a witness official for the purposes of an investigation under section 15,
+
 (a) the witness official shall, no later than 24 hours after the request is made, give the original notes to his or her designated authority; and
+
 (b) the designated authority shall, no later than 24 hours after the request is made or such later time as the investigator may permit, give a copy of the notes to the investigator.
 
 ### Other notes
@@ -414,7 +495,9 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Same, location and timing
 
 (3) The witness official shall meet with the investigator,
+
 (a) immediately when the request for the interview is first made or, if there are appropriate grounds for delay, no later than 24 hours after the request is first made; or
+
 (b) at such later time as the investigator may specify.
 
 ### Same
@@ -460,26 +543,35 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Confidentiality
 
 28 (1) Information respecting an ongoing investigation or preliminary inquiries under this Act or the incident or matter that is the subject of an investigation or preliminary inquiries shall not be disclosed to any person, except as permitted or required by this Act, the Community Safety and Policing Act, 2019 or the regulations made under either of them, by,
+
 (a) a member of a police service;
+
 (b) an official; or
+
 (c) a designated authority.
 
 ### Exception, Interprovincial Policing Act, 2009
 
 (2) Despite subsection (1), a police officer appointed under the Interprovincial Policing Act, 2009 may disclose the information to his or her extra-provincial commander, and the chief of police of the police service of which such a police officer is a member may disclose the information to,
+
 (a) the police officer’s extra-provincial commander; or
+
 (b) if the investigation or preliminary inquiries relate to the police officer and the chief of police is not the police officer’s appointing official, the appointing official.
 
 ### Certain disclosure permitted
 
 (3) Subsection (1) does not prevent,
+
 (a) a police service from disclosing to a person that the SIU Director has been notified of an incident or matter involving an official who is a member of the police service and is making preliminary inquiries or conducting an investigation into it; and
+
 (b) any disclosure authorized by the regulations that the SIU Director has been notified of an incident or matter involving an official who is not a member of a police service and is making preliminary inquiries or conducting an investigation into it.
 
 ### Public statements by SIU
 
 29 The SIU Director may issue public statements respecting an ongoing investigation or preliminary inquiries under this Act, if,
+
 (a) the statement is aimed at preserving public confidence; and
+
 (b) the benefit of preserving public confidence clearly outweighs any detriment to the integrity of the investigation or inquiries.
 
 ### Delegation
@@ -495,10 +587,15 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Duty to comply
 
 31 (1) The following persons shall comply with any reasonable direction or request received from the SIU Director or an investigator in relation to an investigation under this Act, immediately or as otherwise specified under this Act, unless it is unlawful or impracticable to do so:
+
 1. An official, other than a subject official.
+
 2. A designated authority or a person to whom powers or duties are delegated under section 30.
+
 3. Any person over whom a designated authority has authority, including any employees.
+
 4. An appointing official.
+
 5. Any other person who may be prescribed.
 
 ### Notification
@@ -508,7 +605,9 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Offence and penalty
 
 (3) A person who fails to comply with subsection (1) is guilty of an offence and on conviction is liable,
+
 (a) in the case of a first offence, to a fine of not more than $5,000, to imprisonment for a term of not more than one year, or to both; or
+
 (b) in the case of a second or subsequent offence, to a fine of not more than $10,000, to imprisonment for a term of not more than one year, or to both.
 
 ### Securing the scene
@@ -522,9 +621,13 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Public notice if charges laid against official re incident
 
 33 (1) Subject to subsections (2) and (3), if an investigation under section 15 results in charges being laid against an official, the SIU Director shall, as soon as practicable, give public notice setting out the following, but no other, information:
+
 1. The official’s name.
+
 2. The charges laid and on what date.
+
 3. Information respecting the official’s first scheduled court appearance respecting the charges, if known.
+
 4. Any other information that may be prescribed.
 
 ### Omission of official’s name
@@ -538,12 +641,19 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Public notice if no charges laid against official re incident
 
 34 (1) If an investigation under section 15 does not result in charges being laid against an official, the SIU Director shall publish a report on the website of the Special Investigations Unit containing the following information:
+
 1. The reasons why the investigation was thought to be authorized under section 15.
+
 2. A detailed narrative of the events leading to the investigation.
+
 3. A summary of the investigative process, including a timeline noting any delays.
+
 4. A summary of the relevant evidence considered, subject to subsection (2).
+
 5. Any relevant video, audio or photographic evidence, de-identified to the extent possible, subject to subsection (2).
+
 6. The reasons for not laying a charge against the official.
+
 7. Any other information that may be prescribed.
 
 ### Omission and reasons
@@ -553,25 +663,37 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Excluded information
 
 (3) The SIU Director shall ensure that the following information is not included in the report:
+
 1. The name of, and any information identifying, a subject official, witness official, civilian witness or affected person.
+
 2. Information that may result in the identity of a person who reported that he or she was sexually assaulted being revealed in connection with the sexual assault.
+
 3. Information that, in the opinion of the SIU Director, could lead to a risk of serious harm to a person.
+
 4. Information that discloses investigative techniques or procedures.
+
 5. Information, the release of which is prohibited or restricted by law.
+
 6. Any other information that may be prescribed.
 
 ### Report copies
 
 (4) The SIU Director shall give a copy of the report to each of the following persons:
+
 1. The affected person or, if he or she is deceased, to his or her next of kin.
+
 2. Each subject official in the investigation.
+
 3. Each designated authority of a subject official or witness official in the investigation.
+
 4. The Minister.
 
 ### Same, minor or incapable person
 
 (5) If a person referred to in paragraph 1 of subsection (4) is a minor or is incapable as defined in the Substitute Decisions Act, 1992, the copy shall be given to,
+
 (a) the person’s parent or guardian, in the case of a minor; or
+
 (b) in the case of an incapable person who is not a minor, the incapable person and his or her substitute decision maker under that Act.
 
 ### No publication
@@ -581,7 +703,9 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Investigation timing
 
 35 (1) The SIU Director shall endeavour to ensure that, no later than 120 days after the commencement of an investigation under this Act into the conduct of an official,
+
 (a) the investigation is concluded; and
+
 (b) public notice is given under subsection 33 (1) or 34 (1).
 
 ### Status report
@@ -615,7 +739,9 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Referral of possible criminal conduct by official to police chief
 
 36 (1) If, during an investigation under this Part, a matter comes to the attention of the SIU Director which does not constitute an incident that may be investigated under section 15, but which may nevertheless constitute criminal conduct by an official or an offence under section 31 of this Act committed by an official, the SIU Director may refer the matter to the following person:
+
 1. If the official is a police officer, to the chief of police of an unrelated police service.
+
 2. In any other case, to any chief of police.
 
 ### Application of section to officials
@@ -641,38 +767,59 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Lieutenant Governor in Council
 
 38 (1) The Lieutenant Governor in Council may, subject to section 39, make regulations respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act, including regulations,
+
 (a) respecting anything that, in this Act, may or must be prescribed or done by regulation, other than by the Minister;
+
 (b) permitting, requiring or otherwise providing for the disclosure of information respecting an ongoing investigation or preliminary inquiries under this Act or the incident or matter that is the subject of an investigation or preliminary inquiries, for the purposes of section 28;
+
 (c) governing transitional matters relating to the enactment of this Act.
 
 ### Minister
 
 (2) The Minister may make regulations,
+
 (a) respecting anything that, in this Act, may or must be prescribed by the Minister or done by regulation made by the Minister;
+
 (b) governing the operating policies and procedures of the Special Investigations Unit, including requiring that any of the policies or procedures be made available to the public;
+
 (c) governing the requirements and qualifications for appointment as an investigator under section 6, including in relation to training, evaluation and accreditation;
+
 (d) establishing classes of investigators appointed under section 6 and setting out requirements and qualifications for each class;
+
 (e) governing the making of preliminary inquiries by the SIU Director under section 17, including requiring the SIU Director to report in the specified manner to one or more specified persons respecting a determination that an investigation not be conducted and governing the publication of any such report;
+
 (f) governing the assignment of investigators under section 19 to preliminary inquiries and investigations under this Act, including,
+
 (i) providing for a limit on the number or proportion of former officials that may be assigned as investigators, or as a class of investigators prescribed under clause (d), in relation to a preliminary inquiry or investigation or a class of preliminary inquiries or investigations, and
+
 (ii) restricting the assignment of specified investigators to participate in preliminary inquiries or investigations that relate to officials or classes of officials who are not members of a police service, and requiring that such investigators not participate in such preliminary inquiries or investigations.
 
 ### Public consultation before making L.G. in C. regulations
 
 39 (1) The Lieutenant Governor in Council shall not make any regulation under subsection 38 (1) unless,
+
 (a) the Minister has published a notice of the proposed regulation on a website of the Government of Ontario and given the notice by any other means that the Minister considers appropriate;
+
 (b) the notice complies with the requirements of this section;
+
 (c) the time period specified in the notice, during which members of the public may exercise a right described in clause (2) (b) have expired;
+
 (d) the Minister has considered whatever comments and submissions members of the public have made on the proposed regulation in accordance with clause (2) (b); and
+
 (e) the Minister has reported to the Lieutenant Governor in Council on what, if any, changes to the proposed regulation the Minister considers appropriate.
 
 ### Contents of notice
 
 (2) The notice referred to in clause (1) (a) shall contain,
+
 (a) a description of the proposed regulation;
+
 (b) a statement of the time period during which members of the public may submit written comments on the proposed regulation to the Minister and the manner in which the comments must be submitted;
+
 (c) a statement of where and when members of the public may review written information about the proposed regulation;
+
 (d) the publication date of the notice; and
+
 (e) any other information that the Minister considers appropriate.
 
 ### Time period for comments
@@ -682,8 +829,11 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Shorter time period for comments
 
 (4) The Minister may shorten a time period if, in the Minister’s opinion,
+
 (a) the urgency of the situation requires it;
+
 (b) the proposed regulation clarifies the intent or operation of this Act or the regulations; or
+
 (c) the proposed regulation is of a minor or technical nature.
 
 ### Discretion to make regulations
@@ -697,7 +847,9 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Same
 
 (7) If the Minister decides that this section should not apply to the power of the Lieutenant Governor in Council to make a regulation under subsection 38 (1),
+
 (a) this section does not apply to the power of the Lieutenant Governor in Council to make the regulation; and
+
 (b) the Minister shall give notice of the decision to the public as soon as is reasonably possible after making the decision.
 
 ### Publication of notice
@@ -719,7 +871,11 @@ iv. in any other circumstance in which the designated authority reasonably belie
 ### Time for application
 
 (12) No person shall make an application under subsection (11) with respect to a regulation later than 21 days after the Minister publishes a notice on a website of the Government of Ontario with respect to the regulation.
+
 40 Omitted (provides for amendments to this Act).
+
 41-43 Omitted (amends, repeals or revokes other legislation).
+
 44 Omitted (provides for coming into force of provisions of this Act).
+
 45 Omitted (enacts short title of this Act).

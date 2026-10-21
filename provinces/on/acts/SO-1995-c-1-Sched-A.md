@@ -6,36 +6,54 @@ language: en
 type: act
 document_date: "2025-12-31"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/95l01"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Labour Relations Act, 1995
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/95l01) before relying on it.
 
 S.O. 1995, c. 1, Sched. A
 
 ### Definitions
 
 1 (1) In this Act,
+
 “accredited employers’ organization” means an organization of employers that is accredited under this Act as the bargaining agent for a unit of employers; (“association patronale accréditée”)
+
 “agriculture” includes farming in all its branches, including dairying, beekeeping, aquaculture, the raising of livestock including non-traditional livestock, furbearing animals and poultry, the production, cultivation, growing and harvesting of agricultural commodities, including eggs, maple products, mushrooms and tobacco, and any practices performed as an integral part of an agricultural operation, but does not include anything that was not or would not have been determined to be agriculture under section 2 of the predecessor to this Act as it read on June 22, 1994; (“agriculture”)
+
 “bargaining unit” means a unit of employees appropriate for collective bargaining, whether it is an employer unit or a plant unit or a subdivision of either of them; (“unité de négociation”)
+
 “Board” means the Ontario Labour Relations Board; (“Commission”)
+
 “certified council of trade unions” means a council of trade unions that is certified under this Act as the bargaining agent for a bargaining unit of employees of an employer; (“conseil de syndicats accrédité”)
+
 “collective agreement” means an agreement in writing between an employer or an employers’ organization, on the one hand, and a trade union that, or a council of trade unions that, represents employees of the employer or employees of members of the employers’ organization, on the other hand, containing provisions respecting terms or conditions of employment or the rights, privileges or duties of the employer, the employers’ organization, the trade union or the employees, and includes a provincial agreement and does not include a project agreement under section 163.1; (“convention collective”)
+
 “construction industry” means the businesses that are engaged in constructing, altering, decorating, repairing or demolishing buildings, structures, roads, sewers, water or gas mains, pipe lines, tunnels, bridges, canals or other works at the site; (“industrie de la construction”)
+
 “council of trade unions” includes an allied council, a trades council, a joint board and any other association of trade unions; (“conseil de syndicats”)
+
 “dependent contractor” means a person, whether or not employed under a contract of employment, and whether or not furnishing tools, vehicles, equipment, machinery, material, or any other thing owned by the dependent contractor, who performs work or services for another person for compensation or reward on such terms and conditions that the dependent contractor is in a position of economic dependence upon, and under an obligation to perform duties for, that person more closely resembling the relationship of an employee than that of an independent contractor; (“entrepreneur dépendant”)
+
 “Director of Dispute Resolution Services” means the Director of Dispute Resolution Services in the Ministry of Labour or, if there ceases to be a public servant with that title, the public servant or servants who are assigned the duties formerly carried out by the Director of Dispute Resolution Services; (“directeur des Services de règlement des différends”)
+
 “employee” includes a dependent contractor; (“employé”)
+
 “employers’ organization” means an organization of employers formed for purposes that include the regulation of relations between employers and employees and includes an accredited employers’ organization and a designated or accredited employer bargaining agency; (“association patronale”)
+
 “lock-out” includes the closing of a place of employment, a suspension of work or a refusal by an employer to continue to employ a number of employees, with a view to compel or induce the employees, or to aid another employer to compel or induce that employer’s employees, to refrain from exercising any rights or privileges under this Act or to agree to provisions or changes in provisions respecting terms or conditions of employment or the rights, privileges or duties of the employer, an employers’ organization, the trade union, or the employees; (“lock-out”)
+
 “member”, when used with reference to a trade union, includes a person who has applied for membership in the trade union; (“membre”)
+
 “Minister” means the Minister of Labour; (“ministre”)
+
 “professional engineer” means an employee who is a member of the engineering profession entitled to practise in Ontario and employed in a professional capacity; (“ingénieur”)
+
 “strike” includes a cessation of work, a refusal to work or to continue to work by employees in combination or in concert or in accordance with a common understanding, or a slow-down or other concerted activity on the part of employees designed to restrict or limit output; (“grève”)
+
 “trade union” means an organization of employees formed for purposes that include the regulation of relations between employees and employers and includes a provincial, national, or international trade union, a certified council of trade unions and a designated or certified employee bargaining agency. (“syndicat”)
 
 ### Same
@@ -45,7 +63,9 @@ S.O. 1995, c. 1, Sched. A
 ### Same
 
 (3) Subject to section 97, for the purposes of this Act, no person shall be deemed to be an employee,
+
 (a) who is a member of the architectural, dental, land surveying, legal or medical profession entitled to practise in Ontario and employed in a professional capacity; or
+
 (b) who, in the opinion of the Board, exercises managerial functions or is employed in a confidential capacity in matters relating to labour relations.
 
 ### Same
@@ -61,33 +81,53 @@ S.O. 1995, c. 1, Sched. A
 ### Purposes
 
 2 The following are the purposes of the Act:
+
 1. To facilitate collective bargaining between employers and trade unions that are the freely-designated representatives of the employees.
+
 2. To recognize the importance of workplace parties adapting to change.
+
 3. To promote flexibility, productivity and employee involvement in the workplace.
+
 4. To encourage communication between employers and employees in the workplace.
+
 5. To recognize the importance of economic growth as the foundation for mutually beneficial relations amongst employers, employees and trade unions.
+
 6. To encourage co-operative participation of employers and trade unions in resolving workplace issues.
+
 7. To promote the expeditious resolution of workplace disputes.
 
 ### Non-application
 
 3 This Act does not apply,
+
 (a) to a domestic employed in a private home;
+
 (b) to a person employed in hunting or trapping;
+
 (b.1) to an employee within the meaning of the Agricultural Employees Protection Act, 2002;
+
 (c) to a person, other than an employee of a municipality or a person employed in silviculture, who is employed in horticulture by an employer whose primary business is agriculture or horticulture;
+
 (d) to a member of a police service within the meaning of the Community Safety and Policing Act, 2019;
+
 (e) except as provided in Part IX of the Fire Protection and Prevention Act, 1997, to a person who is a firefighter within the meaning of subsection 41 (1) of that Act;
+
 (f) to a member of a teachers’ bargaining unit within the meaning of the School Boards Collective Bargaining Act, 2014, except as provided by that Act and by the Protecting the School Year Act, 2015, or to a supervisory officer, a principal or a vice-principal within the meaning of the Education Act;
+
 (g) Repealed: 2006, c. 35, Sched. C, s. 57 (2).
+
 (h) to an employee of a college of applied arts and technology;
+
 (i) to a provincial judge; or
+
 (j) to a person employed as a labour mediator or labour conciliator.
 
 ### Certain Crown agencies bound
 
 4 (1) This Act binds agencies of the Crown other than,
+
 (a) agencies in which are employed Crown employees as defined in the Crown Employees Collective Bargaining Act, 1993; and
+
 (b) colleges of applied arts and technology established under the Ontario Colleges of Applied Arts and Technology Act, 2002.
 
 ### Crown not bound
@@ -161,7 +201,9 @@ S.O. 1995, c. 1, Sched. A
 ### Same
 
 (9.3) Despite subsection (9.1), the Board may consider an application for certification by a trade union as the bargaining agent for employees in a bargaining unit that includes an employee who was in the bargaining unit proposed in the original application if,
+
 (a) the position of the employee at the time the original application was made was different from his or her position at the time the new application was made; and
+
 (b) the employee would not have been in the bargaining unit proposed in the new application had he or she still been occupying the original position when the new application was made.
 
 ### Same
@@ -171,7 +213,9 @@ S.O. 1995, c. 1, Sched. A
 ### Same
 
 (10.1) Despite subsection (10), the Board may consider an application for certification by a trade union as the bargaining agent for employees in a bargaining unit that includes an employee who was in the bargaining unit proposed in the original application if,
+
 (a) the position of the employee at the time the original application was made was different from his or her position at the time the new application was made; and
+
 (b) the employee would not have been in the bargaining unit proposed in the new application had he or she still been occupying the original position when the new application was made.
 
 ### Exception
@@ -197,7 +241,9 @@ S.O. 1995, c. 1, Sched. A
 ### Voting constituency
 
 8 (1) Upon receiving an application for certification, the Board may determine the voting constituency to be used for a representation vote and in doing so shall take into account,
+
 (a) the description of the proposed bargaining unit included in the application for certification; and
+
 (b) the description, if any, of the bargaining unit that the employer proposes.
 
 ### Direction re representation vote
@@ -239,8 +285,11 @@ S.O. 1995, c. 1, Sched. A
 ### Content of notice
 
 (2) A notice under subsection (1) must include,
+
 (a) the description of the bargaining unit that the employer proposes or a statement that the employer agrees with the description of the bargaining unit included in the application for certification;
+
 (b) the employer’s estimate of the number of individuals in the bargaining unit described in the application for certification; and
+
 (c) if the employer proposes a different bargaining unit from that described in the application for certification, the employer’s estimate of the number of individuals in the bargaining unit the employer proposes.
 
 ### Deadline for notice
@@ -254,17 +303,29 @@ S.O. 1995, c. 1, Sched. A
 ### Board determinations, etc.
 
 (5) The following apply if the Board receives a notice under subsection (1):
+
 1. The Board shall not certify the trade union as the bargaining agent or dismiss the application for certification except as allowed under paragraph 2 or as required under paragraph 8.
+
 2. If the Board did not direct that the ballot boxes be sealed, the Board may dismiss the application for certification.
+
 3. Unless the Board dismisses the application as allowed under paragraph 2, the Board shall determine whether the description of the bargaining unit included in the application for certification could be appropriate for collective bargaining. The determination shall be based only upon that description.
+
 4. If the Board determines that the description of the bargaining unit included in the application for certification could be appropriate for collective bargaining, the Board shall determine the number of individuals in the unit as described in the application.
+
 5. If the Board determines that the description of the bargaining unit included in the application for certification could not be appropriate for collective bargaining,
+
 i. the Board shall determine, under section 9, the unit of employees that is appropriate for collective bargaining, and
+
 ii. the Board shall determine the number of individuals in that unit.
+
 6. After the Board’s determination of the number of individuals in the unit under paragraph 4 or 5, the Board shall determine the percentage of the individuals in the bargaining unit who appear to be members of the union at the time the application for certification was filed, based upon the Board’s determination under paragraph 4 or 5 and the information provided under subsection 7 (13).
+
 7. If the percentage determined under paragraph 6 is less than 40 per cent, the Board shall dismiss the application for certification and, if the ballot boxes were sealed, the Board shall direct that the ballots be destroyed without being counted.
+
 8. If the percentage determined under paragraph 6 is 40 per cent or more,
+
 i. if the ballot boxes were sealed, the Board shall direct that the ballot boxes be opened and the ballots counted, subject to any direction the Board has made under subsection 8 (7), and
+
 ii. the Board shall either certify the trade union or dismiss the application for certification.
 
 ### Board to determine appropriateness of units
@@ -302,7 +363,9 @@ ii. the Board shall either certify the trade union or dismiss the application fo
 ### Same
 
 (3.1) Despite subsection (3), the Board may consider an application for certification by a trade union as the bargaining agent for employees in a bargaining unit that includes an employee who was in the bargaining unit proposed in the original application if,
+
 (a) the position of the employee at the time the original application was made was different from his or her position at the time the new application was made; and
+
 (b) the employee would not have been in the bargaining unit proposed in the new application had he or she still been occupying the original position when the new application was made.
 
 ### Exception
@@ -316,14 +379,19 @@ ii. the Board shall either certify the trade union or dismiss the application fo
 ### Remedy if contravention by employer, etc.
 
 11 (1) Subsection (2) applies where an employer, an employers’ organization or a person acting on behalf of an employer or an employers’ organization contravenes this Act and, as a result,
+
 (a) the true wishes of the employees in the bargaining unit were not likely reflected in a representation vote; or
+
 (b) a trade union was not able to demonstrate that 40 per cent or more of the individuals in the bargaining unit proposed in the application for certification appeared to be members of the union at the time the application was filed.
 
 ### Same
 
 (2) In the circumstances described in subsection (1), on the application of the trade union, the Board may,
+
 (a) order that a representation vote be taken and do anything to ensure that the representation vote reflects the true wishes of the employees in the bargaining unit;
+
 (b) order that another representation vote be taken and do anything to ensure that the representation vote reflects the true wishes of the employees in the bargaining unit; or
+
 (c) certify the trade union as the bargaining agent of the employees in the bargaining unit that the Board determines could be appropriate for collective bargaining if no other remedy would be sufficient to counter the effects of the contravention.
 
 ### Same
@@ -333,7 +401,9 @@ ii. the Board shall either certify the trade union or dismiss the application fo
 ### Considerations
 
 (4) On an application made under this section, the Board may consider,
+
 (a) the results of a previous representation vote; and
+
 (b) whether the trade union appears to have membership support adequate for the purposes of collective bargaining.
 
 ### Remedy of contravention by trade union, etc.
@@ -343,13 +413,17 @@ ii. the Board shall either certify the trade union or dismiss the application fo
 ### Same
 
 (2) In the circumstances described in subsection (1), on the application of an interested person, the Board may, despite subsection 10 (1),
+
 (a) order that another representation vote be taken and do anything to ensure that the representation vote reflects the true wishes of the employees in the bargaining unit; or
+
 (b) dismiss the application for certification if no other remedy would be sufficient to counter the effects of the contravention.
 
 ### Considerations
 
 (3) On an application made under this section, the Board may consider,
+
 (a) the results of a previous representation vote; and
+
 (b) whether the trade union appears to have membership support adequate for the purposes of collective bargaining.
 
 ### Bar to reapplying
@@ -359,7 +433,9 @@ ii. the Board shall either certify the trade union or dismiss the application fo
 ### Same
 
 (5) Despite subsection (4), the Board may consider an application for certification by the trade union as the bargaining agent for employees in a bargaining unit that includes an employee who was in the bargaining unit proposed in the original application if,
+
 (a) the position of the employee at the time the original application was made was different from his or her position at the time the new application was made; and
+
 (b) the employee would not have been in the bargaining unit proposed in the new application had he or she still been occupying the original position when the new application was made.
 
 ### Industrial, commercial and institutional sector
@@ -417,8 +493,11 @@ ii. the Board shall either certify the trade union or dismiss the application fo
 ### Conflict of interest
 
 (5) The Board shall consider the following factors in determining whether a conflict of interest would result:
+
 1. The extent of the guards’ duties monitoring other employees of their employer or protecting their employer’s property.
+
 2. Any other duties or responsibilities of the guards that might give rise to a conflict of interest.
+
 3. Such other factors as the Board considers relevant.
 
 ### Certification
@@ -428,12 +507,15 @@ ii. the Board shall either certify the trade union or dismiss the application fo
 ### What unions not to be certified
 
 15 The Board shall not certify a trade union if any employer or any employers’ organization has participated in its formation or administration or has contributed financial or other support to it or if it discriminates against any person because of any ground of discrimination prohibited by the Human Rights Code or the Canadian Charter of Rights and Freedoms.
+
 15.1 Repealed: 2018, c. 14, Sched. 2, s. 4.
 
 ### Transition
 
 15.2 If a trade union elected to have an application for certification dealt with under this section, as it read immediately before the day section 5 of Schedule 2 to the Making Ontario Open for Business Act, 2018 came into force, and, on that day, the application is before the Board but has not been determined by it, the application will be dealt with as follows:
+
 1. If the application was filed before the day the Making Ontario Open for Business Act, 2018 received first reading, the application shall be determined in accordance with this section, as it read immediately before that day.
+
 2. If the application was filed on or after the day the Making Ontario Open for Business Act, 2018 received first reading, the application shall be determined in accordance with section 8.
 
 ### Negotiation of Collective Agreements
@@ -441,6 +523,7 @@ ii. the Board shall either certify the trade union or dismiss the application fo
 ### Notice of desire to bargain
 
 16 Following certification or the voluntary recognition by the employer of the trade union as bargaining agent for the employees in the bargaining unit, the trade union shall give the employer written notice of its desire to bargain with a view to making a collective agreement.
+
 16.1 Repealed: 2018, c. 14, Sched. 2, s. 6.
 
 ### Obligation to bargain
@@ -490,7 +573,9 @@ ii. the Board shall either certify the trade union or dismiss the application fo
 ### Conciliation board, appointment of members
 
 21 If the conciliation officer is unable to effect a collective agreement within the time allowed under section 20,
+
 (a) the Minister shall forthwith by notice in writing request each of the parties, within five days of the receipt of the notice, to recommend one person to be a member of a conciliation board, and upon the receipt of the recommendations or upon the expiration of the five-day period he or she shall appoint two members who in his or her opinion represent the points of view of the respective parties, and the two members so appointed may, within three days after they are appointed, jointly recommend a third person to be a member and chair of the board, and upon the receipt of the recommendation or upon the expiration of the three-day period, he or she shall appoint a third person to be a member and chair of the board; or
+
 (b) the Minister shall forthwith by notice in writing inform each of the parties that he or she does not consider it advisable to appoint a conciliation board.
 
 ### Certain persons prohibited as members
@@ -524,6 +609,7 @@ ii. the Board shall either certify the trade union or dismiss the application fo
 ### Oath of Office
 
 26 Each member of a conciliation board shall, before entering upon his or her duties, take and subscribe before a person authorized to administer oaths or before another member of the board, and file with the Minister, an oath in the following form, in English or in French:
+
 I do solemnly swear (or solemnly affirm) that I am not disqualified under section 22 of the Labour Relations Act, 1995 from acting as a member of a conciliation board and that I will faithfully, truly and impartially, to the best of my knowledge, skill and ability, execute and perform the office of member (or chair) of the conciliation board established to............................................................................................. and that I will not, except as I am legally authorized, disclose to any person any of the evidence or other matter brought before the board. So help me God. (omit this phrase in an affirmation)
 
 ### Duties
@@ -557,10 +643,15 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Power
 
 33 A conciliation board has power,
+
 (a) to summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath, and to produce such documents and things as the board considers requisite to the full investigation and consideration of the matters referred to it in the same manner as a court of record in civil cases;
+
 (b) to administer oaths and affirmations;
+
 (c) to accept such oral or written evidence as it in its discretion considers proper, whether admissible in a court of law or not;
+
 (d) to enter any premises where work is being done or has been done by the employees or in which the employer carries on business or where anything is taking place or has taken place concerning any of the matters referred to the board, and inspect and view any work, material, machinery, appliance or article therein, and interrogate any person respecting any such thing or any of such matters;
+
 (e) to authorize any person to do anything that the board may do under clause (d) and to report to the board thereon.
 
 ### Report of conciliation board
@@ -570,9 +661,13 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Extension of period
 
 (2) The period mentioned in subsection (1) may be extended,
+
 (a) for a further period not exceeding 30 days,
+
 (i) by the Minister at the request of the chair of the conciliation board, or
+
 (ii) by agreement of the parties; or
+
 (b) for a further period beyond the period fixed in clause (a) that the parties may agree upon and as the Minister may approve.
 
 ### Report
@@ -670,9 +765,13 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Duty of Board
 
 (2) The Board shall consider and make its decision on an application under subsection (1) within 30 days of receiving the application and it shall direct the settlement of a first collective agreement by arbitration where, irrespective of whether section 17 has been contravened, it appears to the Board that the process of collective bargaining has been unsuccessful because of,
+
 (a) the refusal of the employer to recognize the bargaining authority of the trade union;
+
 (b) the uncompromising nature of any bargaining position adopted by the respondent without reasonable justification;
+
 (c) the failure of the respondent to make reasonable or expeditious efforts to conclude a collective agreement; or
+
 (d) any other reason the Board considers relevant.
 
 ### Choice of arbitrator
@@ -682,7 +781,9 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Arbitration by Board
 
 (4) Where the parties give notice to the Board of their agreement that the Board arbitrate the settlement of the first collective agreement, the Board,
+
 (a) shall appoint a date for and commence a hearing within 21 days of the giving of the notice to the Board; and
+
 (b) shall determine all matters in dispute and release its decision within 45 days of the commencement of the hearing.
 
 ### Same
@@ -704,7 +805,9 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Same
 
 (9) The remuneration and expenses of the members of a board of arbitration appointed under this section shall be paid as follows:
+
 1. A party shall pay the remuneration and expenses of the member appointed by or on behalf of the party.
+
 2. Each party shall pay one-half of the remuneration and expenses of the chair.
 
 ### Same
@@ -726,7 +829,9 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Effect of direction on strike or lock-out
 
 (14) The employees in the bargaining unit shall not strike and the employer shall not lock out the employees where a direction has been given under subsection (2) and, where the direction is made during a strike by, or a lock-out of, employees in the bargaining unit, the employees shall forthwith terminate the strike or the employer shall forthwith terminate the lock-out and the employer shall forthwith reinstate the employees in the bargaining unit in the employment they had at the time the strike or lock-out commenced,
+
 (a) in accordance with any agreement between the employer and the trade union respecting reinstatement of the employees in the bargaining unit; or
+
 (b) where there is no agreement respecting reinstatement of the employees in the bargaining unit, on the basis of the length of service of each employee in relation to that of the other employees in the bargaining unit employed at the time the strike or lock-out commenced, except as may be directed by an order of the Board made for the purpose of allowing the employer to resume normal operations.
 
 ### Non-application
@@ -756,7 +861,9 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Non-application
 
 (21) This section does not apply to the negotiation of a first collective agreement,
+
 (a) where one of the parties is an employers’ organization accredited under section 136 as a bargaining agent for employers; or
+
 (b) where the agreement is a provincial agreement within the meaning of section 151.
 
 ### Application
@@ -766,13 +873,17 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Definitions
 
 (23) In subsections (24) to (29),
+
 “decertification application” means an application for a declaration that a trade union no longer represents the employees in a bargaining unit; (“requête en révocation de l’accréditation”)
+
 “displacement application” means an application for certification by a trade union, other than the trade union that represents the employees in a bargaining unit, as bargaining agent for those employees. (“requête en substitution”)
 
 ### Application of subs. (25)
 
 (24) Subsection (25) applies if,
+
 (a) a decertification application or displacement application has been filed with the Board and before a final decision is made on it an application under subsection (1) is filed with the Board; or
+
 (b) an application under subsection (1) has been filed with the Board and before a final decision is made on it a decertification application or displacement application is filed with the Board.
 
 ### Procedure in dealing with multiple applications
@@ -806,8 +917,11 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Same
 
 (2) If, on the day section 8 of Schedule 2 to the Making Ontario Open for Business Act, 2018 came into force,
+
 (a) the Board has directed the settlement of a first collective agreement by mediation-arbitration under clause 43.1 (2) (c), section 43.1 shall continue to apply until the parties have entered into a first collective agreement;
+
 (b) any parties are in first collective agreement mediation under section 43, as it read immediately before the day section 8 of Schedule 2 to the Making Ontario Open for Business Act, 2018 came into force, the mediation shall cease on or immediately after that day; and
+
 (c) an application for first collective agreement mediation-arbitration has been made under section 43.1 but the Board has not directed the settlement of a first collective agreement by mediation-arbitration under clause 43.1 (2) (c), the application shall proceed under section 43, as amended by section 8 of Schedule 2 to the Making Ontario Open for Business Act, 2018.
 
 ### Mandatory ratification vote
@@ -817,9 +931,13 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Exceptions
 
 (2) Subsection (1) does not apply with respect to a collective agreement,
+
 (a) imposed by order of the Board or settled by arbitration;
+
 (b) that reflects an offer accepted by a vote held under section 41 or subsection 42 (1);
+
 (c) that applies to employees in the construction industry; or
+
 (d) that applies to employees performing maintenance who are represented by a trade union that, according to trade union practice, pertains to the construction industry if any of the employees were referred to their employment by the trade union.
 
 ### Vote
@@ -847,8 +965,11 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Definition
 
 (2) In subsection (1),
+
 “regular union dues” means,
+
 (a) in the case of an employee who is a member of the trade union, the dues uniformly and regularly paid by a member of the trade union in accordance with the constitution and by-laws of the trade union, and
+
 (b) in the case of an employee who is not a member of the trade union, the dues referred to in clause (a), excluding any amount in respect of pension, superannuation, sickness insurance or any other benefit available only to members of the trade union.
 
 ### Arbitration
@@ -858,6 +979,7 @@ I do solemnly swear (or solemnly affirm) that I am not disqualified under sectio
 ### Same
 
 (2) If a collective agreement does not contain a provision that is mentioned in subsection (1), it shall be deemed to contain a provision to the following effect:
+
 Where a difference arises between the parties relating to the interpretation, application or administration of this agreement, including any question as to whether a matter is arbitrable, or where an allegation is made that this agreement has been violated, either of the parties may after exhausting any grievance procedure established by this agreement, notify the other party in writing of its desire to submit the difference or allegation to arbitration and the notice shall contain the name of the first party’s appointee to an arbitration board. The recipient of the notice shall within five days inform the other party of the name of its appointee to the arbitration board. The two appointees so selected shall, within five days of the appointment of the second of them, appoint a third person who shall be the chair. If the recipient of the notice fails to appoint an arbitrator, or if the two appointees fail to agree upon a chair within the time limited, the appointment shall be made by the Minister of Labour for Ontario upon the request of either party. The arbitration board shall hear and determine the difference or allegation and shall issue a decision and the decision is final and binding upon the parties and upon any employee or employer affected by it. The decision of a majority is the decision of the arbitration board, but if there is no majority the decision of the chair governs.
 
 ### Where arbitration provision inadequate
@@ -887,35 +1009,53 @@ Where a difference arises between the parties relating to the interpretation, ap
 ### Same
 
 (9) The time described in subsection (7) or (8) for giving a decision may be extended,
+
 (a) with the consent of the parties to the arbitration; or
+
 (b) in the discretion of the arbitrator or arbitration board so long as he, she or it states in the decision the reasons for extending the time.
 
 ### Oral decision
 
 (10) An arbitrator or arbitration board may give an oral decision and, if he, she or it does so, subsection (7) or (8) does not apply and the arbitrator or arbitration board,
+
 (a) shall give the decision promptly after hearings on the matter are concluded;
+
 (b) shall give a written decision, without reasons, promptly upon the request of either party; and
+
 (c) shall give written reasons for the decision within a reasonable period of time upon the request of either party.
 
 ### Orders re decisions
 
 (11) If the arbitrator or arbitration board does not give a decision within the time described in subsection (7) or (8) or does not provide written reasons within the time described in subsection (10), the Minister may,
+
 (a) make such orders as he or she considers necessary to ensure that the decision or reasons will be given without undue delay; and
+
 (b) make such orders as he or she considers appropriate respecting the remuneration and expenses of the arbitrator or arbitration board.
 
 ### Powers of arbitrators, chair of arbitration boards, and arbitration boards
 
 (12) An arbitrator or the chair of an arbitration board, as the case may be, has power,
+
 (a) to require any party to furnish particulars before or during a hearing;
+
 (b) to require any party to produce documents or things that may be relevant to the matter and to do so before or during the hearing;
+
 (c) to fix dates for the commencement and continuation of hearings;
+
 (d) to summon and enforce the attendance of witnesses and to compel them to give oral or written evidence on oath in the same manner as a court of record in civil cases; and
+
 (e) to administer oaths and affirmations,
+
 and an arbitrator or an arbitration board, as the case may be, has power,
+
 (f) to accept the oral or written evidence as the arbitrator or the arbitration board, as the case may be, in its discretion considers proper, whether admissible in a court of law or not;
+
 (g) to enter any premises where work is being done or has been done by the employees or in which the employer carries on business or where anything is taking place or has taken place concerning any of the differences submitted to the arbitrator or the arbitration board, and inspect and view any work, material, machinery, appliance or article therein, and interrogate any person respecting any such thing or any of such differences;
+
 (h) to authorize any person to do anything that the arbitrator or arbitration board may do under clause (g) and to report to the arbitrator or the arbitration board thereon;
+
 (i) to make interim orders concerning procedural matters;
+
 (j) to interpret and apply human rights and other employment-related statutes, despite any conflict between those statutes and the terms of the collective agreement.
 
 ### Restriction re interim orders
@@ -941,10 +1081,15 @@ and an arbitrator or an arbitration board, as the case may be, has power,
 ### Effect of arbitrator’s decision
 
 (18) The decision of an arbitrator or of an arbitration board is binding,
+
 (a) upon the parties;
+
 (b) in the case of a collective agreement between a trade union and an employers’ organization, upon the employers covered by the agreement who are affected by the decision;
+
 (c) in the case of a collective agreement between a council of trade unions and an employer or an employers’ organization, upon the members or affiliates of the council and the employer or the employers covered by the agreement, as the case may be, who are affected by the decision; and
+
 (d) upon the employees covered by the agreement who are affected by the decision,
+
 and the parties, employers, trade unions and employees shall do or abstain from doing anything required of them by the decision.
 
 ### Enforcement of arbitration decisions
@@ -1038,20 +1183,31 @@ and the parties, employers, trade unions and employees shall do or abstain from 
 ### Permissive provisions
 
 51 (1) Despite anything in this Act, but subject to subsection (4), the parties to a collective agreement may include in it provisions,
+
 (a) for requiring, as a condition of employment, membership in the trade union that is a party to or is bound by the agreement or granting a preference of employment to members of the trade union, or requiring the payment of dues or contributions to the trade union;
+
 (b) for permitting an employee who represents the trade union that is a party to or is bound by the agreement to attend to the business of the trade union during working hours without deduction of the time so occupied in the computation of the time worked for the employer and without deduction of wages in respect of the time so occupied;
+
 (c) for permitting the trade union that is a party to or is bound by the agreement the use of the employer’s premises for the purposes of the trade union without payment therefor.
 
 ### Where non-member employee cannot be required to be discharged
 
 (2) No trade union that is a party to a collective agreement containing a provision mentioned in clause (1) (a) shall require the employer to discharge an employee because,
+
 (a) the employee has been expelled or suspended from membership in the trade union; or
+
 (b) membership in the trade union has been denied to or withheld from the employee,
+
 for the reason that the employee,
+
 (c) was or is a member of another trade union;
+
 (d) has engaged in activity against the trade union or on behalf of another trade union;
+
 (e) has engaged in reasonable dissent within the trade union;
+
 (f) has been discriminated against by the trade union in the application of its membership rules; or
+
 (g) has refused to pay initiation fees, dues or other assessments to the trade union which are unreasonable.
 
 ### Where subs. (2) does not apply
@@ -1061,9 +1217,13 @@ for the reason that the employee,
 ### Union security provision in first agreement
 
 (4) A trade union and the employer of the employees concerned shall not enter into a collective agreement that includes provisions requiring, as a condition of employment, membership in the trade union that is a party to or is bound by the agreement unless the trade union has established at the time it entered into the agreement that not less than 55 per cent of the employees in the bargaining unit were members of the trade union, but this subsection does not apply,
+
 (a) where the trade union has been certified as the bargaining agent of the employees of the employer in the bargaining unit;
+
 (b) where the trade union has been a party to or bound by a collective agreement with the employer for at least one year;
+
 (c) where the employer becomes a member of an employer’s organization that has entered into a collective agreement with the trade union or council of trade unions containing such a provision and agrees with the trade union or council of trade unions to be bound by such agreement; or
+
 (d) where the employer and the employer’s employees in the bargaining unit are engaged in the construction, alteration, decoration, repair or demolition of a building, structure, road, sewer, water or gas main, pipe line, tunnel, bridge, canal, or other work at the site.
 
 ### Continuation of permissive provisions
@@ -1077,8 +1237,11 @@ for the reason that the employee,
 ### Religious objections
 
 52 (1) Where the Board is satisfied that an employee because of his or her religious conviction or belief,
+
 (a) objects to joining a trade union; or
+
 (b) objects to the paying of dues or other assessments to a trade union,
+
 the Board may order that the provisions of a collective agreement of the type mentioned in clause 51 (1) (a) do not apply to the employee and that the employee is not required to join the trade union, to be or continue to be a member of the trade union, or to pay any dues, fees or assessments to the trade union, provided that amounts equal to any initiation fees, dues or other assessments are paid by the employee to or are remitted by the employer to a charitable organization mutually agreed upon by the employee and the trade union, but if the employee and the trade union fail to so agree then to a charitable organization registered as a charitable organization in Canada under Part I of the Income Tax Act (Canada) that may be designated by the Board.
 
 ### Application of subs. (1)
@@ -1166,7 +1329,9 @@ the Board may order that the provisions of a collective agreement of the type me
 ### Dissolution of councils of certified trade unions
 
 61 (1) Where a certified council of trade unions is a party to or is bound by a collective agreement, no resolution, by-law or other action by the constituent unions of a certified council of trade unions to dissolve the council or by a constituent union of such a council to withdraw from the council, as the case may be, has effect,
+
 (a) unless a copy of the resolution, by-law or other action is delivered to the employer or the employers’ organization and, in the case of a withdrawal, to the other constituent members and to the council at least 90 days before the collective agreement ceases to operate; and
+
 (b) until the collective agreement ceases to operate.
 
 ### Same
@@ -1190,8 +1355,11 @@ the Board may order that the provisions of a collective agreement of the type me
 ### Same, agreement
 
 (2) Any of the employees in the bargaining unit defined in a collective agreement may, subject to section 67, apply to the Board for a declaration that the trade union no longer represents the employees in the bargaining unit,
+
 (a) in the case of a collective agreement for a term of not more than three years, only after the commencement of the last three months of its operation;
+
 (b) in the case of a collective agreement for a term of more than three years, only after the commencement of the 34th month of its operation and before the commencement of the 37th month of its operation and during the three-month period immediately preceding the end of each year that the agreement continues to operate thereafter or after the commencement of the last three months of its operation, as the case may be;
+
 (c) in the case of a collective agreement referred to in clause (a) or (b) that provides that it will continue to operate for any further term or successive terms if either party fails to give to the other notice of termination or of its desire to bargain with a view to the renewal, with or without modifications, of the agreement or to the making of a new agreement, only during the last three months of each year that it so continues to operate or after the commencement of the last three months of its operation, as the case may be.
 
 ### Notice to employer, trade union
@@ -1249,6 +1417,7 @@ the Board may order that the provisions of a collective agreement of the type me
 ### Same, employer misconduct
 
 (16) Despite subsections (5) and (14), the Board may dismiss the application if the Board is satisfied that the employer or a person acting on behalf of the employer initiated the application or engaged in threats, coercion or intimidation in connection with the application.
+
 (16.1) Repealed: 2005, c. 15, s. 4.
 
 ### Declaration of termination of abandonment
@@ -1308,24 +1477,35 @@ the Board may order that the provisions of a collective agreement of the type me
 ### Application for certification or termination
 
 67 (1) Subject to subsection (3), where a trade union has not made a collective agreement within one year after its certification and the Minister has appointed a conciliation officer or a mediator under this Act, no application for certification of a bargaining agent of, or for a declaration that a trade union no longer represents, the employees in the bargaining unit determined in the certificate shall be made until,
+
 (a) 30 days have elapsed after the Minister has released to the parties the report of a conciliation board or mediator;
+
 (b) 30 days have elapsed after the Minister has released to the parties a notice that he or she does not consider it advisable to appoint a conciliation board; or
+
 (c) six months have elapsed after the Minister has released to the parties a notice of a report of the conciliation officer that the differences between the parties concerning the terms of a collective agreement have been settled,
+
 as the case may be.
 
 ### Same
 
 (2) Where notice has been given under section 59 and the Minister has appointed a conciliation officer or a mediator, no application for certification of a bargaining agent of any of the employees in the bargaining units as defined in the collective agreement and no application for a declaration that the trade union that was a party to the collective agreement no longer represents the employees in the bargaining unit as defined in the agreement shall be made after the date when the agreement ceased to operate or the date when the Minister appointed a conciliation officer or a mediator, whichever is later, unless following the appointment of a conciliation officer or a mediator, if no collective agreement has been made,
+
 (a) at least 12 months have elapsed from the date of the appointment of the conciliation officer or a mediator;
+
 (b) a conciliation board or a mediator has been appointed and 30 days have elapsed after the report of the conciliation board or the mediator has been released by the Minister to the parties; or
+
 (c) 30 days have elapsed after the Minister has informed the parties that he or she does not consider it desirable to appoint a conciliation board,
+
 whichever is later.
 
 ### Application for certification or termination during lawful strike
 
 (3) Where a trade union has given notice under section 16 and the employees in the bargaining unit on whose behalf the trade union was certified as bargaining agent thereafter engage in a lawful strike or the employer lawfully locks out the employees, no application for certification of a bargaining agent of, or for a declaration that the trade union no longer represents, the employees in the bargaining unit determined in the certificate shall be made,
+
 (a) until six months have elapsed after the strike or lock-out commenced; or
+
 (b) until seven months have elapsed after the Minister has released to the parties the report of the conciliation board or mediator or a notice that the Minister does not consider it advisable to appoint a conciliation board,
+
 whichever occurs first.
 
 ### Application of subss. (1, 3)
@@ -1349,7 +1529,9 @@ whichever occurs first.
 ### Sale of business
 
 69 (1) In this section,
+
 “business” includes a part or parts thereof; (“entreprise”)
+
 “sells” includes leases, transfers and any other manner of disposition, and “sold” and “sale” have corresponding meanings. (“vend”, “vendu”, “vente”)
 
 ### Successor employer
@@ -1363,10 +1545,15 @@ whichever occurs first.
 ### Powers of Board
 
 (4) Where a business was sold to a person and a trade union or council of trade unions was the bargaining agent of any of the employees in such business or a trade union or council of trade unions is the bargaining agent of the employees in any business carried on by the person to whom the business was sold, and,
+
 (a) any question arises as to what constitutes the like bargaining unit referred to in subsection (3); or
+
 (b) any person, trade union or council of trade unions claims that, by virtue of the operation of subsection (2) or (3), a conflict exists between the bargaining rights of the trade union or council of trade unions that represented the employees of the predecessor employer and the trade union or council of trade unions that represents the employees of the person to whom the business was sold,
+
 the Board may, upon the application of any person, trade union or council of trade unions concerned,
+
 (c) define the composition of the like bargaining unit referred to in subsection (3) with such modification, if any, as the Board considers necessary; and
+
 (d) amend, to such extent as the Board considers necessary, any bargaining unit in any certificate issued to any trade union or any bargaining unit defined in any collective agreement.
 
 ### Same
@@ -1376,9 +1563,13 @@ the Board may, upon the application of any person, trade union or council of tra
 ### Same
 
 (6) Despite subsections (2) and (3), where a business was sold to a person who carries on one or more other businesses and a trade union or council of trade unions is the bargaining agent of the employees in any of the businesses and the person intermingles the employees of one of the businesses with those of another of the businesses, the Board may, upon the application of any person, trade union or council of trade unions concerned,
+
 (a) declare that the person to whom the business was sold is no longer bound by the collective agreement referred to in subsection (2);
+
 (b) determine whether the employees concerned constitute one or more appropriate bargaining units;
+
 (c) declare which trade union, trade unions or council of trade unions, if any, shall be the bargaining agent or agents for the employees in the unit or units; and
+
 (d) amend, to such extent as the Board considers necessary, any certificate issued to any trade union or council of trade unions or any bargaining unit defined in any collective agreement.
 
 ### Notice to bargain
@@ -1400,8 +1591,11 @@ the Board may, upon the application of any person, trade union or council of tra
 ### Successor municipalities
 
 (11) Where one or more municipalities as defined in the Municipal Affairs Act are erected into another municipality, or two or more such municipalities are amalgamated, united or otherwise joined together, or all or part of one such municipality is annexed, attached or added to another such municipality, the employees of the municipalities concerned shall be deemed to have been intermingled, and,
+
 (a) the Board may exercise the like powers as it may exercise under subsections (6) and (8) with respect to the sale of a business under this section;
+
 (b) the new or enlarged municipality has the like rights and obligations as a person to whom a business is sold under this section and who intermingles the employees of two of the person’s businesses; and
+
 (c) any trade union or council of trade unions concerned has the like rights and obligations as it would have in the case of the intermingling of employees in two or more businesses under this section.
 
 ### Power of Board to determine whether sale
@@ -1419,20 +1613,27 @@ the Board may, upon the application of any person, trade union or council of tra
 ### Exclusions
 
 (2) This section does not apply with respect to the following services:
+
 1. Construction.
+
 2. Maintenance other than maintenance activities related to cleaning the premises.
+
 3. The production of goods other than goods related to the provision of food services at the premises for consumption on the premises.
 
 ### Services under contract
 
 (3) For the purposes of section 69, the sale of a business is deemed to have occurred,
+
 (a) if employees perform services at premises that are their principal place of work;
+
 (b) if their employer ceases, in whole or in part, to provide the services at those premises; and
+
 (c) if substantially similar services are subsequently provided at the premises under the direction of another employer.
 
 ### Interpretation
 
 (4) For the purposes of section 69, the employer referred to in clause (3) (b) of this section is considered to be the employer who sells the business and the employer referred to in clause (3) (c) of this section is considered to be the person to whom the business is sold.
+
 69.2 Repealed: 2018, c. 14, Sched. 2, s. 9.
 
 ### Unfair Practices
@@ -1448,8 +1649,11 @@ the Board may, upon the application of any person, trade union or council of tra
 ### Employers not to interfere with employees’ rights
 
 72 No employer, employers’ organization or person acting on behalf of an employer or an employers’ organization,
+
 (a) shall refuse to employ or to continue to employ a person, or discriminate against a person in regard to employment or any term or condition of employment because the person was or is a member of a trade union or was or is exercising any other rights under this Act;
+
 (b) shall impose any condition in a contract of employment or propose the imposition of any condition in a contract of employment that seeks to restrain an employee or a person seeking employment from becoming a member of a trade union or exercising any other rights under this Act; or
+
 (c) shall seek by threat of dismissal, or by any other kind of threat, or by the imposition of a pecuniary or other penalty, or by any other means to compel an employee to become or refrain from becoming or to continue to be or to cease to be a member or officer or representative of a trade union or to cease to exercise any other rights under this Act.
 
 ### No interference with bargaining rights
@@ -1483,7 +1687,9 @@ the Board may, upon the application of any person, trade union or council of tra
 ### Definitions
 
 (2) For the purposes of subsection (1),
+
 “professional strike breaker” means a person who is not involved in a dispute whose primary object, in the Board’s opinion, is to interfere with, obstruct, prevent, restrain or disrupt the exercise of any right under this Act in anticipation of, or during, a lawful strike or lock-out; (“briseur de grève professionnel”)
+
 “strike-related misconduct” means a course of conduct of incitement, intimidation, coercion, undue influence, provocation, infiltration, surveillance or any other like course of conduct intended to interfere with, obstruct, prevent, restrain or disrupt the exercise of any right under this Act in anticipation of, or during, a lawful strike or lock-out. (“inconduite liée à une grève”)
 
 ### Other rights not affected
@@ -1497,7 +1703,9 @@ the Board may, upon the application of any person, trade union or council of tra
 ### No agreement
 
 (2) Where no collective agreement is in operation, no employee shall strike and no employer shall lock out an employee until the Minister has appointed a conciliation officer or a mediator under this Act and,
+
 (a) nine days have elapsed after the day the Minister is deemed pursuant to subsection 122 (2) to have released to the parties the report of a conciliation board or mediator; or
+
 (b) 16 days have elapsed after the day the Minister is deemed pursuant to subsection 122 (2) to have released to the parties a notice that he or she does not consider it advisable to appoint a conciliation board.
 
 ### Mandatory strike vote
@@ -1511,7 +1719,9 @@ the Board may, upon the application of any person, trade union or council of tra
 ### Exceptions
 
 (5) Subsections (3) and (4) do not apply,
+
 (a) to an employee in the construction industry; or
+
 (b) to an employee performing maintenance who is represented by a trade union that, according to trade union practice, pertains to the construction industry if the employee or any of the other employees in the bargaining unit the employee is in were referred to their employment by the trade union.
 
 ### Threatening strike or lock-out
@@ -1549,12 +1759,15 @@ the Board may, upon the application of any person, trade union or council of tra
 ### Exceptions
 
 (2) An employer is not required to reinstate an employee who has made an application to return to work in accordance with subsection (1),
+
 (a) where the employer no longer has persons engaged in performing work of the same or similar nature to work which the employee performed prior to the employee’s cessation of work; or
+
 (b) where there has been a suspension or discontinuance for cause of an employer’s operations, or any part thereof, but, if the employer resumes such operations, the employer shall first reinstate those employees who have made an application under subsection (1).
 
 ### Transition
 
 (3) Subsection (1), as it read immediately before the day section 11 of Schedule 2 to the Making Ontario Open for Business Act, 2018 came into force, continues to apply to applications made before that date.
+
 (4)-(7) Repealed: 2018, c. 14, Sched. 2, s. 11 (2).
 
 ### No discharge or discipline following strike or lock-out
@@ -1592,17 +1805,25 @@ the Board may, upon the application of any person, trade union or council of tra
 ### Working conditions may not be altered
 
 86 (1) Where notice has been given under section 16 or section 59 and no collective agreement is in operation, no employer shall, except with the consent of the trade union, alter the rates of wages or any other term or condition of employment or any right, privilege or duty, of the employer, the trade union or the employees, and no trade union shall, except with the consent of the employer, alter any term or condition of employment or any right, privilege or duty of the employer, the trade union or the employees,
+
 (a) until the Minister has appointed a conciliation officer or a mediator under this Act, and,
+
 (i) seven days have elapsed after the Minister has released to the parties the report of a conciliation board or mediator, or
+
 (ii) 14 days have elapsed after the Minister has released to the parties a notice that he or she does not consider it advisable to appoint a conciliation board,
+
 as the case may be; or
+
 (b) until the right of the trade union to represent the employees has been terminated,
+
 whichever occurs first.
 
 ### Same
 
 (2) Where a trade union has applied for certification and notice thereof from the Board has been received by the employer, the employer shall not, except with the consent of the trade union, alter the rates of wages or any other term or condition of employment or any right, privilege or duty of the employer or the employees until,
+
 (a) the trade union has given notice under section 16, in which case subsection (1) applies; or
+
 (b) the application for certification by the trade union is dismissed or terminated by the Board or withdrawn by the trade union.
 
 ### Differences may be arbitrated
@@ -1612,17 +1833,25 @@ whichever occurs first.
 ### Protection of witnesses rights
 
 87 (1) No employer, employers’ organization or person acting on behalf of an employer or employers’ organization shall,
+
 (a) refuse to employ or continue to employ a person;
+
 (b) threaten dismissal or otherwise threaten a person;
+
 (c) discriminate against a person in regard to employment or a term or condition of employment; or
+
 (d) intimidate or coerce or impose a pecuniary or other penalty on a person,
+
 because of a belief that the person may testify in a proceeding under this Act or because the person has made or is about to make a disclosure that may be required in a proceeding under this Act or because the person has made an application or filed a complaint under this Act or has participated in or is about to participate in a proceeding under this Act.
 
 ### Same
 
 (2) No trade union, council of trade unions or person acting on behalf of a trade union or council of trade unions shall,
+
 (a) discriminate against a person in regard to employment or a term or condition of employment; or
+
 (b) intimidate or coerce or impose a pecuniary or other penalty on a person,
+
 because of a belief that the person may testify in a proceeding under this Act or because the person has made or is about to make a disclosure that may be required in a proceeding under this Act or because the person has made an application or filed a complaint under this Act or has participated in or is about to participate in a proceeding under this Act.
 
 ### Removal, etc., of posted notices
@@ -1646,8 +1875,11 @@ because of a belief that the person may testify in a proceeding under this Act o
 ### Definitions
 
 89.1 (1) In this section,
+
 “constitution” means an organizational document governing the establishment or operation of a trade union and includes a charter and by-laws and rules made under a constitution; (“acte constitutif”)
+
 “local trade union” means, in relation to a parent trade union, a trade union in Ontario that is affiliated with or subordinate or directly related to the parent trade union and includes a council of trade unions; (“syndicat local”)
+
 “parent trade union” means a provincial, national or international trade union which has at least one affiliated local trade union in Ontario that is subordinate or directly related to it. (“syndicat parent”)
 
 ### Interference
@@ -1691,22 +1923,31 @@ because of a belief that the person may testify in a proceeding under this Act o
 ### Complaint that financial statement inadequate
 
 (2) Where a member of a trade union complains that an audited financial statement is inadequate, the Board may inquire into the complaint and the Board may order the trade union to prepare another audited financial statement in a form and containing the particulars that the Board considers appropriate and the Board may further order that the audited financial statement, as rectified, be certified by a person licensed under the Public Accounting Act, 2004 or a firm whose partners are licensed under that Act.
+
 92.1 Repealed: 2005, c. 15, s. 6.
 
 ### Administrator of various trade union funds
 
 93 (1) In this section,
+
 “administrator” means any trade union, trustee or person responsible for the control, management or disposition of money received or contributed to a vacation pay fund or a welfare benefit or pension plan or fund for the members of a trade union or their survivors or beneficiaries.
 
 ### Annual filing of statement
 
 (2) Every administrator shall file annually with the Minister not later than June 1 in each year or at such other time or times as the Minister may direct, a copy of the audited financial statement certified by a person licensed under the Public Accounting Act, 2004 or a firm whose partners are licensed under that Act of a vacation pay fund, or a welfare benefit or pension plan or fund setting out its financial condition for the preceding fiscal year and disclosing,
+
 (a) a description of the coverage provided by the fund or plan;
+
 (b) the amount contributed by each employer;
+
 (c) the amounts contributed by the members and the trade union, if any;
+
 (d) a statement of the assets, specifying the total amount of each type of asset;
+
 (e) a statement of liabilities, receipts and disbursements;
+
 (f) a statement of salaries, fees and commissions charged to the fund or plan, to whom paid, in what amount and for what purposes; and
+
 (g) such further information as the Minister may require.
 
 ### Furnishing of copy to member of trade union
@@ -1754,8 +1995,11 @@ because of a belief that the person may testify in a proceeding under this Act o
 ### Remedy for discrimination
 
 (4) Where a labour relations officer is unable to effect a settlement of the matter complained of or where the Board in its discretion considers it advisable to dispense with an inquiry by a labour relations officer, the Board may inquire into the complaint of a contravention of this Act and where the Board is satisfied that an employer, employers’ organization, trade union, council of trade unions, person or employee has acted contrary to this Act it shall determine what, if anything, the employer, employers’ organization, trade union, council of trade unions, person or employee shall do or refrain from doing with respect thereto and such determination, without limiting the generality of the foregoing may include, despite the provisions of any collective agreement, any one or more of,
+
 (a) an order directing the employer, employers’ organization, trade union, council of trade unions, employee or other person to cease doing the act or acts complained of;
+
 (b) an order directing the employer, employers’ organization, trade union, council of trade unions, employee or other person to rectify the act or acts complained of; or
+
 (c) an order to reinstate in employment or hire the person or employee concerned, with or without compensation, or to compensate instead of hiring or reinstatement for loss of earnings or other employment benefits in an amount that may be assessed by the Board against the employer, employers’ organization, trade union, council of trade unions, employee or other person jointly or severally.
 
 ### Burden of proof
@@ -1777,6 +2021,7 @@ because of a belief that the person may testify in a proceeding under this Act o
 ### “person” defined for purposes of ss. 87, 96
 
 97 For the purposes of section 87 and any complaint made under section 96,
+
 “person” includes any person otherwise excluded by subsection 1 (3).
 
 ### Board power re interim orders
@@ -1794,8 +2039,11 @@ because of a belief that the person may testify in a proceeding under this Act o
 ### Jurisdictional, etc., disputes
 
 99 (1) This section applies when the Board receives a complaint,
+
 (a) that a trade union or council of trade unions, or an agent of either was or is requiring an employer or employers’ organization to assign particular work to persons in a particular trade union or in a particular trade, craft or class rather than to persons in another;
+
 (b) that an employer was or is assigning work to persons in a particular trade union rather than to persons in another; or
+
 (c) that a trade union has failed to comply with its duties under section 74 or 75.
 
 ### Withdrawal of complaint
@@ -1877,7 +2125,9 @@ because of a belief that the person may testify in a proceeding under this Act o
 ### Decision of arbitration board
 
 (5) The arbitration board shall hear and determine the claim for damages including any question as to whether the claim is arbitrable and shall issue a decision and the decision is final and binding upon the parties to the arbitration, and,
+
 (a) in the case of a council of trade unions, upon the members of affiliates of the council who are affected by the decision; and
+
 (b) in the case of an employers’ organization, upon the employers in the organization who are affected by the decision.
 
 ### Same
@@ -1895,7 +2145,9 @@ because of a belief that the person may testify in a proceeding under this Act o
 ### Offences
 
 104 (1) Every person, trade union, council of trade unions or employers’ organization that contravenes any provision of this Act or of any decision, determination, interim order, order, direction, declaration or ruling made under this Act is guilty of an offence and on conviction is liable,
+
 (a) if an individual, to a fine of not more than $2,000; or
+
 (b) if a corporation, trade union, council of trade unions or employers’ organization, to a fine of not more than $25,000.
 
 ### Continued offences
@@ -1967,6 +2219,7 @@ because of a belief that the person may testify in a proceeding under this Act o
 ### Oath of office
 
 (8) Each member of the Board shall, before entering upon his or her duties, take and subscribe before the Clerk of the Executive Council and file in his or her office an oath of office in the following form in English or French:
+
 I do solemnly swear (or solemnly affirm) that I will faithfully, truly and impartially, to the best of my judgment, skill and ability, execute and perform the office of chair, (or vice-chair, or member) of the Ontario Labour Relations Board and I will not, except in the discharge of my duties, disclose to any person any of the evidence or any other matter brought before the Board. So help me God. (omit this phrase in an affirmation)
 
 ### Quorum
@@ -1992,7 +2245,9 @@ I do solemnly swear (or solemnly affirm) that I will faithfully, truly and impar
 ### When chair or vice-chair may sit alone
 
 (14) Despite subsections (9), (10) and (11), the chair may sit alone or may authorize a vice-chair to sit alone to hear and determine a matter and to exercise all the powers of the Board when doing so,
+
 (a) if the chair considers it advisable to do so; or
+
 (b) if the parties consent.
 
 ### Same
@@ -2014,20 +2269,31 @@ I do solemnly swear (or solemnly affirm) that I will faithfully, truly and impar
 ### Same
 
 (18) The chair may make rules to expedite proceedings to which the following provisions apply:
+
 0.1 Section 8.1 (Disagreement by employer with union’s estimate).
+
 1. Section 13 (right of access) or 98 (interim orders).
+
 1.1 Section 89.1 (interference with local trade union).
+
 2. Section 99 (jurisdictional, etc., disputes).
+
 3. Subsection 114 (2) (status as employee or guard).
+
 4. Sections 126 to 168 (construction industry).
+
 5. Such other provisions as the Lieutenant Governor in Council may by regulation designate.
+
 (19) Repealed: 2018, c. 14, Sched. 2, s. 15.
 
 ### Special provisions
 
 (20) Rules made under subsection (18),
+
 (a) may provide that the Board is not required to hold a hearing;
+
 (b) may limit the extent to which the Board is required to give full opportunity to the parties to present their evidence and to make their submissions; and
+
 (c) may authorize the Board to make or cause to be made such examination of records and such other inquiries as it considers necessary in the circumstances.
 
 ### Conflict with Statutory Powers Procedure Act
@@ -2061,28 +2327,47 @@ I do solemnly swear (or solemnly affirm) that I will faithfully, truly and impar
 ### Specific
 
 (2) Without limiting the generality of subsection (1), the Board has power,
+
 (a) to require any party to furnish particulars before or during a hearing;
+
 (b) to require any party to produce documents or things that may be relevant to a matter before it and to do so before or during a hearing;
+
 (c) to summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath, and to produce the documents and things that the Board considers requisite to the full investigation and consideration of matters within its jurisdiction in the same manner as a court of record in civil cases;
+
 (d) to administer oaths and affirmations;
+
 (e) to accept such oral or written evidence as it in its discretion considers proper, whether admissible in a court of law or not;
+
 (f) to require persons or trade unions, whether or not they are parties to proceedings before the Board, to post and to keep posted upon their premises in a conspicuous place or places, where they are most likely to come to the attention of all persons concerned, any notices that the Board considers necessary to bring to the attention of such persons in connection with any proceedings before the Board;
+
 (g) to enter any premises where work is being or has been done by the employees or in which the employer carries on business, whether or not the premises are those of the employer, and inspect and view any work, material, machinery, appliance or article therein, and interrogate any person respecting any matter and post therein any notice referred to in clause (f);
+
 (h) to enter upon the premises of employers and conduct representation votes, strike votes and ratification votes during working hours and give such directions in connection with the vote as it considers necessary;
+
 (h.1) to conduct votes at a location or in a manner that, in the opinion of the Board, is appropriate in the circumstances, including to conduct votes outside the workplace and to conduct votes electronically or by telephone;
+
 (h.2) to issue direction relating to the voting process or voting arrangements;
+
 (i) to authorize any person to do anything that the Board may do under clauses (a) to (h.2) and to report to the Board thereon;
+
 (j) to authorize the chair, a vice-chair or a labour relations officer to inquire into any application, request, complaint, matter or thing within the jurisdiction of the Board, or any part of any of them, and to report to the Board thereon;
+
 (k) to bar an unsuccessful applicant for any period not exceeding one year from the date of the dismissal of the unsuccessful application, or to refuse to entertain a new application by an unsuccessful applicant or by any of the employees affected by an unsuccessful application or by any person or trade union representing the employees within any period not exceeding one year from the date of the dismissal of the unsuccessful application;
+
 (l) to determine the form in which evidence of membership in a trade union or of signification by employees that they no longer wish to be represented by a trade union shall be presented to the Board on an application for certification or for a declaration terminating bargaining rights, and to refuse to accept any evidence of membership or signification that is not presented in the form so determined;
+
 (m) to determine the form in which and the time as of which evidence of representation by an employers’ organization or of objection by employers to accreditation of an employers’ organization or of signification by employers that they no longer wish to be represented by an employers’ organization shall be presented to the Board in an application for accreditation or for a declaration terminating bargaining rights of an employers’ organization and to refuse to accept any evidence of representation or objection or signification that is not presented in the form and as of the time so determined;
+
 (n) to determine the form in which and the time as of which any party to a proceeding before the Board must file or present any thing, document or information and to refuse to accept any thing, document or information that is not filed or presented in that form or by that time.
 
 ### Subsequent applications for certification, etc.
 
 (3) Despite sections 7 and 63, where an application has been made for certification of a trade union as bargaining agent for employees in a bargaining unit or for a declaration that the trade union no longer represents the employees in a bargaining unit and a final decision of the application has not been issued by the Board at the time a subsequent application for the certification or for the declaration is made with respect to any of the employees affected by the original application, the Board may,
+
 (a) treat the subsequent application as having been made on the date of the making of the original application;
+
 (b) postpone consideration of the subsequent application until a final decision has been issued on the original application and thereafter consider the subsequent application but subject to any final decision issued by the Board on the original application; or
+
 (c) refuse to entertain the subsequent application.
 
 ### Determination of union membership
@@ -2096,7 +2381,9 @@ I do solemnly swear (or solemnly affirm) that I will faithfully, truly and impar
 ### Same
 
 (6) Where, in the taking of a representation vote, the Board determines that the employees are to be given a choice between two or more trade unions,
+
 (a) the Board may include on a ballot a choice indicating that an employee does not wish to be represented by a trade union; and
+
 (b) the Board, when it decides to hold the additional representation votes that may be necessary, may eliminate from the choice on the ballot the choice from the previous ballot that has obtained the lowest number of votes cast.
 
 ### Mistakes in names of parties
@@ -2168,10 +2455,15 @@ I do solemnly swear (or solemnly affirm) that I will faithfully, truly and impar
 ### Non-disclosure
 
 (2) No information or material furnished to or received by a conciliation officer or a mediator,
+
 (a) under this Act; or
+
 (b) in the course of any endeavour that a conciliation officer may make under the direction of the Minister to effect a collective agreement after the Minister,
+
 (i) has released the report of a conciliation board or a mediator, or
+
 (ii) has informed the parties that he or she does not consider it advisable to appoint a conciliation board,
+
 shall be disclosed except to the Minister, the Deputy Minister of Labour, an Assistant Deputy Minister of Labour or the Director of Dispute Resolution Services.
 
 ### Same
@@ -2193,17 +2485,25 @@ shall be disclosed except to the Minister, the Deputy Minister of Labour, an Ass
 ### Competency as a witness
 
 120 (1) The following persons are not competent or compellable witnesses before a court or tribunal respecting any information or material furnished to or received by them while being involved in an endeavour to effect a collective agreement:
+
 1. The Minister.
+
 2. A deputy minister in the Ministry of Labour.
+
 3. An assistant deputy minister of Labour.
+
 4. The Director of Dispute Resolution Services.
+
 5. The chair or a member of a conciliation board.
+
 6. Any other person appointed by the Minister under this Act or authorized in writing by the Director of Dispute Resolution Services.
 
 ### Same
 
 (2) The following persons are not competent or compellable witnesses before a court or tribunal respecting any information or material furnished to or received by them while acting within the scope of their employment under this Act:
+
 1. The Director of Dispute Resolution Services.
+
 2. A person appointed by the Minister under this Act or under a collective agreement to effect the settlement of a dispute or the mediation of a matter.
 
 ### Delegation
@@ -2221,10 +2521,15 @@ shall be disclosed except to the Minister, the Deputy Minister of Labour, an Ass
 ### Notice
 
 (1.1) For the purposes of this Act, and any proceedings taken under it, any notice or communication may be sent,
+
 (a) by mail;
+
 (b) by courier;
+
 (c) by fax;
+
 (d) by email; or
+
 (e) by any other method that may be prescribed.
 
 ### Presumed receipt of mail
@@ -2250,19 +2555,29 @@ shall be disclosed except to the Minister, the Deputy Minister of Labour, an Ass
 ### Requests, applications etc. to Minister
 
 122.1 (1) Any request, application, notification, report or filing that is given or made to the Minister under this Act shall be given or made by,
+
 (a) delivering it to the Minister’s office on a day and at a time when it is open;
+
 (b) mailing it to the Minister’s office using a method of mail delivery that allows delivery to be verified;
+
 (c) sending it to the Minister’s office by fax or email;
+
 (d) electronically filing it with the Minister’s office; or
+
 (e) sending it to the Minister’s office by any other method that may be prescribed.
 
 ### Deemed receipt
 
 (2) A request, application, notification, report or filing that is given or made as described in subsection (1) shall be deemed to be received by the Minister,
+
 (a) in the case of clause (1) (a), on the day shown on a receipt or acknowledgment provided by the Minister or his or her representative;
+
 (b) in the case of clause (1) (b), on the day shown in the verification;
+
 (c) in the case of clause (1) (c), on the day on which the fax or email is sent, subject to subsection (3);
+
 (d) in the case of clause (1) (d), on the day on which the electronic filing was made, subject to subsection (3); and
+
 (e) in the case of clause (1) (e), on the prescribed day.
 
 ### Same
@@ -2292,28 +2607,51 @@ shall be disclosed except to the Minister, the Deputy Minister of Labour, an Ass
 ### Regulations
 
 125 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) providing for and regulating the engagement of experts, investigators and other assistants by conciliation boards;
+
 (b) governing the assignment of arbitrators to conduct arbitrations and the carrying out and completion of the assignments;
+
 (c) providing for and prescribing a scale of fees and expenses allowable to arbitrators in respect of arbitrations and limiting or restricting the application of such a regulation;
+
 (d) providing a procedure for the review and determination of disputes concerning the fees and expenses charged or claimed by an arbitrator;
+
 (e) governing the filing of schedules of fees and expenses by arbitrators, requiring arbitrators to provide parties with a copy of the schedules upon being appointed and requiring arbitrators to charge fees and expenses in accordance with the filed schedules;
+
 (f) respecting training programs for arbitrators;
+
 (g) Repealed: 2006, c. 19, Sched. M, s. 3 (4).
+
 (h) governing the conduct of arbitration hearings and prescribing procedures therefor;
+
 (i) requiring the filing with the Ministry of Labour of awards of arbitrators and arbitration boards and providing for the publication of such awards by the Minister;
+
 (i.1) prescribing information for the purposes of subsection 18 (2.1);
+
 (i.2)-(i.4) Repealed: 2018, c. 14, Sched. 2, s. 18 (2).
+
 (j) prescribing amounts or a method of determining amounts payable under subsection 43 (5) for the expense of a mediation-arbitration by the Board;
+
 (j.1) prescribing other methods of sending a notice or communication for the purposes of clause 122 (1.1) (e);
+
 (j.2) prescribing other methods of sending a request, application, notification, report or filing for the purposes of clause 122.1 (1) (e) and the date on which such a document is deemed to be received for the purposes of clause 122.1 (2) (e);
+
 (k) prescribing amounts for the expense of proceedings under section 133 and providing for the adjustment of the amounts in exceptional circumstances;
+
 (l) prescribing forms and providing for their use, including the form in which the documents mentioned in sections 48, 96, 99, 102, 103 and 144 shall be filed in the Superior Court of Justice;
+
 (l.0.0.1), (l.0.0.2) Repealed: 2019, c. 9, Sched. 8, s. 1 (1).
+
 (l.0.1) designating regional employers’ organizations for the purposes of section 151;
+
 (l.0.2) Repealed: 2019, c. 9, Sched. 8, s. 1 (1).
+
 (l.1) prescribing the parties to an application under subsection 163.1 (3) or governing the specifying of such parties by the Board;
+
 (l.2) designating projects in the construction industry that are not industrial projects as projects that may be the subject of a project agreement under section 163.1 or 163.1.1 and providing for section 163.1 or 163.1.1, as the case may be, to apply with respect to those projects, and prescribing modifications to those provisions for the purpose;
+
 (l.3) prescribing, for the purposes of paragraph 6 of subsection 163.1 (9), circumstances in which the Board may declare that a proposed project agreement shall not come into force;
+
 (m) respecting any matter necessary or advisable to carry out the intent and purpose of this Act.
 
 ### Transitional regulations
@@ -2345,14 +2683,23 @@ shall be disclosed except to the Minister, the Deputy Minister of Labour, an Ass
 ### Interpretation
 
 126 (1) In this section and in sections 126.1 to 168,
+
 “council of trade unions” means a council that is formed for the purpose of representing or that according to established bargaining practice represents trade unions as defined in this section; (“conseil de syndicats”)
+
 “employee” includes an employee engaged in whole or in part in off-site work but who is commonly associated in work or bargaining with on-site employees; (“employé”)
+
 “employer” means a person other than a non-construction employer who operates a business in the construction industry, and for purposes of an application for accreditation means an employer other than a non-construction employer for whose employees a trade union or council of trade unions affected by the application has bargaining rights in a particular geographic area and sector or areas or sectors or parts thereof; (“employeur”)
+
 “employers’ organization” means an organization that is formed for the purpose of representing or represents employers as defined in this section; (“association patronale”)
+
 “non-construction employer” means,
+
 (a) an employer who does no work in the construction industry for which the employer expects compensation from an unrelated person, or
+
 (b) an employer who is deemed to be a non-construction employer under subsection 127 (1); (“employeur extérieur à l’industrie de la construction”)
+
 “sector” means a division of the construction industry as determined by work characteristics and includes the industrial, commercial and institutional sector, the residential sector, the sewers and watermains sector, the roads sector, the heavy engineering sector, the pipeline sector and the electrical power systems sector; (“secteur”)
+
 “trade union” means a trade union that according to established trade union practice pertains to the construction industry. (“syndicat”)
 
 ### Application of subss. (3, 5)
@@ -2362,24 +2709,35 @@ shall be disclosed except to the Minister, the Deputy Minister of Labour, an Ass
 ### Single employer declarations
 
 (3) The following apply if an application is made under subsection 1 (4) for a declaration that two or more entities should be treated as constituting one employer and any of the entities is an employer or a non-construction employer:
+
 1. The Board shall not consider any relationship by way of blood, marriage or adoption between an individual having a direct or indirect involvement with one of the entities and an individual having a direct or indirect involvement with any of the other entities.
+
 2. If the applicant proposes that the entities should be treated as constituting one employer because an individual was a key individual with respect to two or more of them and if the time at which the individual was alleged to have been a key individual with respect to one of the entities is a different time than that at which he or she is alleged to have been a key individual with respect to the others, the Board shall consider,
+
 i. the length of any hiatus between when the individual was a key individual with the one entity and when the individual was a key individual with the other entity or entities,
+
 ii. whether the first entity with respect to which the individual is alleged to have been a key individual was one with which he or she occupied a formal management role, and
+
 iii. whether the first entity with respect to which the individual is alleged to have been a key individual was able to carry on business without substantial disruption or loss when he or she ceased to be involved with that entity.
 
 ### Definition
 
 (4) In subsection (3),
+
 “entity” means a corporation, individual, firm, syndicate or association or any combination of any of them.
 
 ### Sale of a business
 
 (5) In determining whether an employer or a non-construction employer has sold a business, the following apply:
+
 1. The Board shall not consider any relationship by way of blood, marriage or adoption between an individual having a direct or indirect involvement with the employer or non-construction employer that sold the business and an individual having a direct or indirect involvement with the person to whom the business was allegedly sold.
+
 2. If it is alleged that the employer or non-construction employer sold a business because an individual was a key individual in relation both to the alleged seller and to the person to whom the business was allegedly sold and if the time at which the individual was alleged to have been a key individual in relation to the alleged seller is a different time than that at which he or she was alleged to have been a key individual in relation to the person to whom the business was sold, the Board shall consider,
+
 i. the length of any hiatus between when the individual was a key individual in relation to the alleged seller and when the individual was a key individual in relation to the person to whom the business was allegedly sold,
+
 ii. whether the individual occupied a formal management role with the alleged seller, and
+
 iii. whether the alleged seller was able to carry on business without substantial disruption or loss when the individual ceased to be involved with the alleged seller.
 
 ### Construction industry, application
@@ -2393,28 +2751,43 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Resolving conflict
 
 (3) If there is a conflict with respect to the application of provisions of this Act with respect to the construction industry, it shall be resolved as follows:
+
 1. A provision in sections 126 to 144 prevails over a provision in sections 7 to 63 and 68 to 125.
+
 2. A provision in sections 146 to 150 prevails over any other provision of this Act.
+
 3. A provision in sections 150.1 to 167 prevails over a provision in sections 7 to 63 and 68 to 144.
 
 ### Deemed non-construction employer
 
 127 (1) The following entities are deemed to be non-construction employers:
+
 1. A municipality.
+
 2. A local board as defined in subsection 1 (1) of the Municipal Act, 2001 or in subsection 3 (1) of the City of Toronto Act, 2006.
+
 3. A local housing corporation as defined in section 24 of the Housing Services Act, 2011.
+
 4. A corporation established under section 203 of the Municipal Act, 2001 or under section 148 of the City of Toronto Act, 2006.
+
 5. A district social services administration board established under the District Social Services Administration Boards Act.
+
 6. A school board within the meaning of the School Boards Collective Bargaining Act, 2014.
+
 7. A hospital within the meaning of the Public Hospitals Act.
+
 8. A college established under the Ontario Colleges of Applied Arts and Technology Act, 2002.
+
 9. A university in Ontario that receives regular direct operating funding from the Government and the university’s affiliates and federates.
+
 10. A public body within the meaning of the Public Service of Ontario Act, 2006.
 
 ### Effect on bargaining rights and collective agreements
 
 (2) Paragraphs 1 and 2 apply with respect to a trade union that represents employees of a non-construction employer referred to in subsection (1) employed, or who may be employed, in the construction industry:
+
 1. On the day this subsection comes into force, the trade union no longer represents those employees of the non-construction employer who are employed in the construction industry.
+
 2. On the day this subsection comes into force, any collective agreement binding the non-construction employer and the trade union ceases to apply with respect to the non-construction employer in so far as the collective agreement applies to the construction industry.
 
 ### Amendment of unit
@@ -2514,19 +2887,25 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Notice to Board and employer
 
 (2) The trade union shall give written notice of the election,
+
 (a) to the Board, on the date the trade union files the application; and
+
 (b) to the employer, on the date the trade union delivers a copy of the application to the employer.
 
 ### Employer to provide information
 
 (3) Within two days (excluding Saturdays, Sundays and holidays) after receiving notice under subsection (2), the employer shall provide the Board with,
+
 (a) the names of the employees in the bargaining unit proposed in the application, as of the date the application is filed; and
+
 (b) if the employer gives the Board a written description of the bargaining unit that the employer proposes, in accordance with subsection 7 (14), the names of the employees in that proposed bargaining unit, as of the date the application is filed.
 
 ### Matters to be determined
 
 (4) On receiving an application for certification from a trade union that has elected to have its application dealt with under this section, the Board shall determine, as of the date the application is filed and on the basis of the information provided in or with the application and under subsection (3),
+
 (a) the bargaining unit; and
+
 (b) the percentage of employees in the bargaining unit who are members of the trade union.
 
 ### Exception: allegation of contravention, etc.
@@ -2556,7 +2935,9 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Same
 
 (11) Despite subsection (10), the Board may consider an application for certification by the trade union as the bargaining agent for employees in a bargaining unit that includes an employee who was in the bargaining unit proposed in the original application if,
+
 (a) the position of the employee at the time the original application was made was different from his or her position at the time the new application was made; and
+
 (b) the employee would not have been in the bargaining unit proposed in the new application had he or she still been occupying the original position when the new application was made.
 
 ### Board shall direct representation vote
@@ -2566,16 +2947,23 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Board may certify or may direct representation vote
 
 (13) If the Board is satisfied that more than 55 per cent of the employees in the bargaining unit are members of the trade union on the date the application is filed, it may,
+
 (a) certify the trade union as the bargaining agent of the employees in the bargaining unit; or
+
 (b) direct that a representation vote be taken.
 
 ### Representation votes
 
 (14) If the Board directs that a representation vote be taken,
+
 (a) the vote shall, unless the Board directs otherwise, be held within five days (excluding Saturdays, Sundays and holidays) after the day on which the direction for a representation vote is made;
+
 (b) the vote shall be by ballots cast in such a manner that individuals expressing their choice cannot be identified with the choice made;
+
 (c) the Board may direct that one or more ballots be segregated and that the ballot box containing the ballots be sealed until such time as the Board directs;
+
 (d) subject to section 11.1, the Board shall certify the trade union as bargaining agent of the employees in the bargaining unit if more than 50 per cent of the ballots cast in the representation vote by the employees in the bargaining unit are cast in favour of the trade union; and
+
 (e) subject to section 11, the Board shall not certify the trade union as bargaining agent of the employees in the bargaining unit and shall dismiss the application for certification if 50 per cent or fewer of the ballots cast in the representation vote by the employees in the bargaining unit are cast in favour of the trade union.
 
 ### Bar to reapplication
@@ -2585,7 +2973,9 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Exception
 
 (16) Despite subsection (15), the Board may consider an application for certification by a trade union as the bargaining agent for employees in a bargaining unit that includes an employee who was in the bargaining unit proposed in the original application if,
+
 (a) the position of the employee at the time the original application was made was different from his or her position at the time the new application was made; and
+
 (b) the employee would not have been in the bargaining unit proposed in the new application had he or she still been occupying the original position when the new application was made.
 
 ### Same
@@ -2595,6 +2985,7 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Meaning of “trade union”
 
 (18) For the purposes of subsections (15) and (16),
+
 “trade union” includes any trade union as defined in section 1, whether or not the trade union is a trade union as defined in section 126.
 
 ### Non-application of certain provisions
@@ -2608,7 +2999,9 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Withdrawal of application: discretionary bar
 
 (21) Subsection 7 (9) applies, with necessary modifications, if the trade union withdraws the application for certification,
+
 (a) before the Board takes any action under subsection (7), (12) or (13); or
+
 (b) after the Board directs a representation vote under subsection (12) or clause (13) (b), but before the vote is taken.
 
 ### Second withdrawal: mandatory bar
@@ -2622,9 +3015,13 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Industrial, commercial and institutional sector
 
 (24) If an election under this section is made in relation to an application for certification that relates to the industrial, commercial and institutional sector of the construction industry referred to in the definition of “sector” in section 126,
+
 (a) the references to “trade union” in subsections (1), (2), (4), (7), (8), (10) to (14), (17) and (19) to (23) shall be read as references to the trade unions on whose behalf the application for certification was brought;
+
 (b) if the Board certifies the trade unions on whose behalf the application for certification was brought as the bargaining agent of the employees in the bargaining unit under clause (13) (a), it shall issue one certificate that is confined to the industrial, commercial and institutional sector and another certificate in relation to all other sectors in the appropriate geographic area or areas;
+
 (c) if the Board directs that a representation vote be taken and more than 50 per cent of the ballots cast in the representation vote are cast in favour of the trade unions on whose behalf the application was brought, the Board shall certify the trade unions as the bargaining agent of the employees in the bargaining unit and shall issue one certificate that is confined to the industrial, commercial and institutional sector and another certificate in relation to all other sectors in the appropriate geographic area or areas; and
+
 (d) if the Board dismisses the application for certification under clause (14) (e), the Board shall not consider another application for certification by the employee bargaining agency or the affiliated bargaining agent or agents to certify the trade unions as bargaining agent for the employees in the bargaining unit until one year after the dismissal.
 
 ### Same
@@ -2650,7 +3047,9 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### When report to be made
 
 (4) Where a conciliation board has been appointed under subsection (3), it shall report its findings and recommendations to the Minister within 14 days after its first sitting, but such period may be extended,
+
 (a) for a further period not exceeding 30 days by agreement of the parties; or
+
 (b) for a further period beyond the period fixed in clause (a) as the parties may agree upon and as the Minister may approve.
 
 ### What deemed to be a collective agreement
@@ -2672,8 +3071,11 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Same, agreement
 
 (3) Any of the employees in the bargaining unit defined in a collective agreement other than a first agreement referred to in subsection (2) may, subject to section 67, apply to the Board for a declaration that the trade union no longer represents the employees in the bargaining unit,
+
 (a) in the case of a collective agreement for a term of not more than three years, only after the commencement of the last two months of its operation;
+
 (b) in the case of a collective agreement for a term of more than three years, only after the commencement of the 35th month of its operation and before the commencement of the 37th month of its operation and during the two-month period immediately preceding the end of each year that the agreement continues to operate thereafter or after the commencement of the last two months of its operation, as the case may be; and
+
 (c) in the case of a collective agreement referred to in clause (a) or (b) that provides that it will continue to operate for any further term or successive terms if either party fails to give to the other notice of termination or of its desire to bargain with a view to the renewal, with or without modifications, of the agreement or to the making of a new agreement, only during the last two months of each year that it so continues to operate or after the commencement of the last two months of its operation, as the case may be.
 
 ### Referral of grievance to Board
@@ -2715,9 +3117,13 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Schedule of fees
 
 (10) The Lieutenant Governor in Council may establish a schedule of fees to be charged to parties in proceedings under this section and, without limiting the generality of what can be included in the schedule, the schedule may provide for the following:
+
 1. Fees payable for referring grievances or participating in proceedings.
+
 2. Fees payable for each hearing day, including hearing days scheduled by the Board but not used.
+
 3. Different fees for the referring party and for the responding parties.
+
 4. A single fee for all the responding parties with the amount to be paid by each responding party to be determined by the Board.
 
 ### Same
@@ -2763,15 +3169,21 @@ iii. whether the alleged seller was able to carry on business without substantia
 ### Determinations by Board
 
 136 (1) Upon an application for accreditation, the Board shall ascertain,
+
 (a) the number of employers in the unit of employers on the date of the making of the application who have within one year prior to such date had employees in their employ for whom the trade union or council of trade unions has bargaining rights in the geographic area and sector determined by the Board to be appropriate;
+
 (b) the number of employers in clause (a) represented by the employers’ organization on the date of the making of the application; and
+
 (c) the number of employees of employers in clause (a) on the payroll of each such employer for the weekly payroll period immediately preceding the date of the application or if, in the opinion of the Board, the payroll period is unsatisfactory for any one or more of the employers in clause (a), such other weekly payroll period for any one or more of the said employers as the Board considers advisable.
 
 ### Accreditation
 
 (2) If the Board is satisfied,
+
 (a) that a majority of the employers in clause (1) (a) is represented by the employers’ organization; and
+
 (b) that such majority of employers employed a majority of the employees in clause (1) (c),
+
 the Board, subject to subsection (3), shall accredit the employers’ organization as the bargaining agent of the employers in the unit of employers and for the other employers for whose employees the trade union or council of trade unions may, after the date of the making of the application, obtain bargaining rights through certification or voluntary recognition in the appropriate geographic area and sector.
 
 ### Authority of employers’ organization
@@ -2837,15 +3249,21 @@ the Board, subject to subsection (3), shall accredit the employers’ organizati
 ### Determination by Board
 
 (3) Upon an application under subsection (1) or (2), the Board shall ascertain,
+
 (a) the number of employers in the unit of employers on the date of the making of the application;
+
 (b) the number of employers in the unit of employers who, within the two-month period immediately preceding the date of the making of the application, have voluntarily signified in writing that they no longer wish to be represented by the accredited employers’ organization; and
+
 (c) the number of employees affected by the application of employers in the unit of employers on the payroll of each employer for the weekly payroll period immediately preceding the date of the making of the application or if, in the opinion of the Board, the payroll period is unsatisfactory for any one or more of the employers in clause (a), such other weekly payroll period for any one or more of the said employers as the Board considers advisable.
 
 ### Declaration by Board
 
 (4) If the Board is satisfied,
+
 (a) that a majority of the employers in clause (3) (a) has voluntarily signified in writing that they no longer wish to be represented by the accredited employers’ organization; and
+
 (b) that such majority of employers employed a majority of the employees in clause (3) (c),
+
 the Board shall declare that the employers’ organization that was accredited or that was or is a party to the collective agreement, as the case may be, no longer represents the employers in the unit of employers.
 
 ### Declaration of termination on abandonment
@@ -2855,8 +3273,11 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Effect of declaration
 
 (6) Upon the Board making a declaration under subsection (4) or (5),
+
 (a) any collective agreement in operation between the trade union or council of trade unions and the employers’ organization that is binding upon the employers in the unit of employers ceases to operate forthwith;
+
 (b) all rights, duties and obligations under this Act of the employers’ organization revert with necessary modifications to the individual employers represented by the employers’ organization; and
+
 (c) the trade union or council of trade unions, as the case may be, is entitled to give to any employer in the unit of employers a written notice of its desire to bargain with a view to making a collective agreement, and the notice has the same effect as a notice under section 14.
 
 ### Individual bargaining prohibited
@@ -2904,10 +3325,15 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Sections 146 to 150
 
 145 (1) In sections 146 to 150,
+
 “constitution” means an organizational document governing the establishment or operation of a trade union and includes a charter and by-laws and rules made under a constitution; (“acte constitutif”)
+
 “jurisdiction” includes geographic, sectoral and work jurisdiction; (“juridiction”)
+
 “local trade union” means, in relation to a parent trade union, a trade union in Ontario that is affiliated with or subordinate or directly related to the parent trade union and includes a council of trade unions; (“syndicat local”)
+
 “parent trade union” means a provincial, national or international trade union which has at least one affiliated local trade union in Ontario that is subordinate or directly related to it. (“syndicat parent”)
+
 (2) Repealed: 2000, c. 38, s. 29.
 
 ### Same, trade union constitution
@@ -2929,7 +3355,9 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Council
 
 (4) The Minister may, upon such conditions as the Minister considers appropriate, require a parent trade union and its local trade unions to form a council of trade unions for the purpose of conducting bargaining and concluding a collective agreement,
+
 (a) if an affected local trade union, parent trade union or employer requests the Minister to do so; and
+
 (b) if the Minister considers that doing so is necessary to resolve a disagreement between a parent trade union and a local trade union concerning conducting bargaining or concluding a collective agreement.
 
 ### Rules of operation, etc.
@@ -2951,9 +3379,13 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Determination of just cause
 
 (3) On an application relating to this section, the Board shall consider the following when deciding whether there is just cause for an alteration:
+
 1. The trade union constitution.
+
 2. The ability of the local trade union to carry out its duties under this Act.
+
 3. The wishes of the members of the local trade union.
+
 4. Whether the alteration would facilitate viable and stable collective bargaining without causing serious labour relations problems.
 
 ### Same
@@ -2967,12 +3399,15 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Province-wide agreements
 
 148 (1) This section applies if, on May 1, 1992,
+
 (a) a parent trade union was party to a collective agreement whose geographic scope included the province and which applied to employees described in subsection 146 (1); or
+
 (b) a parent trade union had given notice to bargain for the renewal of such a collective agreement.
 
 ### Sections 146 and 147
 
 (2) Sections 146 and 147 do not operate to authorize a local trade union to enter into a separate collective agreement or a separate renewal collective agreement or to alter the geographic scope of the collective agreement.
+
 149 Repealed: 2018, c. 8, Sched. 14, s. 5.
 
 ### Administration of benefit plans
@@ -2998,6 +3433,7 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Definition
 
 (6) In this section,
+
 “employment benefit plan” means a plan that provides any type of benefit to an individual or his or her dependants or beneficiaries because of the individual’s employment or his or her membership in a trade union and includes a pension plan or another arrangement whereby money is contributed by or on behalf of the individual for retirement purposes.
 
 ### Residential Sector of the Construction Industry
@@ -3007,16 +3443,23 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Geographic area of application of ss. 150.2 to 150.4
 
 150.1 (1) Sections 150.2, 150.3 and 150.4 apply only with respect to the geographic areas of jurisdiction of the following municipalities:
+
 1. The City of Toronto.
+
 2. The Regional Municipality of Halton.
+
 3. The Regional Municipality of Peel.
+
 4. The Regional Municipality of York.
+
 5. The Regional Municipality of Durham.
+
 6. The Corporation of the County of Simcoe.
 
 ### Definition
 
 (2) In sections 150.2, 150.3 and 150.4,
+
 “residential work” means work performed in the residential sector of the construction industry.
 
 ### Deemed expiry of collective agreements
@@ -3024,7 +3467,9 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Collective agreements in existence before April 30, 2007
 
 150.2 (1) A collective agreement between an employer or employers’ organization and a trade union or council of trade unions that applies with respect to residential work shall be deemed to expire with respect to residential work on April 30, 2007 if,
+
 (a) it is in effect on May 1, 2005, or it comes into effect after May 1, 2005 but before April 30, 2007; and
+
 (b) it is to expire on a date other than April 30, 2007.
 
 ### First contracts in existence on or after April 30, 2007
@@ -3050,6 +3495,7 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Collective agreements not affected re other work
 
 (7) Nothing in this section shall be interpreted to affect the validity of a collective agreement to which this section applies with respect to work other than residential work performed in the geographic areas described in subsection 150.1 (1).
+
 150.2.1 Repealed: 2005, c. 15, s. 9.
 
 ### Prohibition, strikes and lockouts
@@ -3077,13 +3523,17 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Restriction
 
 (2) A party shall not give notice under subsection (1) until the later of,
+
 (a) the day on which a strike or lock-out would have been legal had it not been for section 150.3; and
+
 (b) June 15 of the year in which the collective agreement that is being renewed or replaced expires.
 
 ### Exception
 
 (3) Despite subsection (2), notice under subsection (1) may be given at any time after April 30 of the relevant year if,
+
 (a) notice of desire to bargain has been given; and
+
 (b) both parties agree that notice may be given under subsection (1).
 
 ### Notice
@@ -3093,12 +3543,19 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Effect of notice
 
 (5) If notice is given under subsection (1),
+
 (a) the parties may jointly appoint an arbitrator or either party may request the Minister in writing to appoint an arbitrator;
+
 (b) if subsection (3) applies,
+
 (i) the Minister shall not appoint a conciliation officer, a conciliation board or a mediator, and
+
 (ii) the appointment of any previously appointed conciliation officer, conciliation board or mediator shall be deemed to be terminated; and
+
 (c) subject to subsection (6), all terms and conditions of employment and all rights, privileges and duties that existed under the collective agreement that expired on April 30 of the relevant year shall apply with respect to the employer, the trade union and the employees, as the case may be, during the period beginning on the day on which notice was given and ending on the day,
+
 (i) the collective agreement is renewed or replaced, or
+
 (ii) the right of the trade union to represent the employees is terminated.
 
 ### Exception
@@ -3132,14 +3589,23 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Regulations
 
 (13) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing a method of arbitration, which may be mediation-arbitration, final offer selection or any other method of arbitration;
+
 (b) prescribing an arbitration procedure;
+
 (c) prescribing the powers of an arbitrator;
+
 (d) prescribing a scale of fees and expenses allowable to arbitrators with respect to their duties under this section and limiting or restricting the application of those fees or expenses;
+
 (e) providing a procedure for the review and determination of disputes concerning the fees and expenses charged or claimed by an arbitrator;
+
 (f) governing the filing of schedules of fees and expenses by arbitrators, requiring arbitrators to provide parties with a copy of the schedules upon being appointed and requiring arbitrators to charge fees and expenses in accordance with the filed schedules;
+
 (g) providing for the circumstances under which the jurisdiction of the arbitrator may be limited where the parties have agreed to some of the matters in dispute;
+
 (h) prescribing time limits for the commencement of arbitration proceedings or for the rendering of the arbitrator’s decision and providing for the extension of those time limits;
+
 (i) requiring the parties to prepare and execute documents giving effect to the arbitrator’s decision, requiring the arbitrator to prepare those documents if the parties fail to do so and providing for the deemed execution of the documents if either or both of the parties do not execute them.
 
 ### Meetings at Director’s discretion
@@ -3177,11 +3643,17 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Interpretation, application, designations
 
 151 (1) In this section and in sections 144 and 153 to 168,
+
 “affiliated bargaining agent” means a bargaining agent that, according to established trade union practice in the construction industry, represents employees who commonly bargain separately and apart from other employees and is subordinate or directly related to, or is, a provincial, national or international trade union, and includes an employee bargaining agency; (“agent négociateur affilié”)
+
 “bargaining”, except when used in reference to an affiliated bargaining agent, means province-wide, multi-employer bargaining in the industrial, commercial and institutional sector of the construction industry referred to in the definition of “sector” in section 126; (“négociation”)
+
 “designated regional employers’ organization” means an organization of employers that operate businesses in a particular geographic area in the construction industry if that organization is designated as such by the Minister; (“association patronale régionale désignée”)
+
 “employee bargaining agency” means an organization of affiliated bargaining agents that are subordinate or directly related to the same provincial, national or international trade union, and that may include the parent or related provincial, national or international trade union, formed for purposes that include the representation of affiliated bargaining agents in bargaining and which may be a single provincial, national or international trade union; (“organisme négociateur syndical”)
+
 “employer bargaining agency” means an employers’ organization or group of employers’ organizations formed for purposes that include the representation of employers in bargaining; (“organisme négociateur patronal”)
+
 “provincial agreement” means an agreement in writing covering the whole of the Province of Ontario between a designated or accredited employer bargaining agency that represents employers, on the one hand, and a designated or certified employee bargaining agency that represents affiliated bargaining agents, on the other hand, containing provisions respecting terms or conditions of employment or the rights, privileges or duties of the employer bargaining agency, the employers represented by the employer bargaining agency and for whose employees the affiliated bargaining agents hold bargaining rights, the affiliated bargaining agents represented by the employee bargaining agency, or the employees represented by the affiliated bargaining agents and employed in the industrial, commercial and institutional sector of the construction industry referred to in the definition of “sector” in section 126. (“convention provinciale”)
 
 ### Deemed recognition of affiliated bargaining agents
@@ -3195,17 +3667,21 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Non-application
 
 (4) Part III (Regulations) of the Legislation Act, 2006 does not apply to a designation made under subsection (3).
+
 152 Repealed: 2000, c. 38, s. 31.
 
 ### Powers of Minister
 
 153 (1) The Minister may, upon such terms and conditions as the Minister considers appropriate,
+
 (a) designate employee bargaining agencies to represent in bargaining provincial units of affiliated bargaining agents, and describe those provincial units;
+
 (b) despite an accreditation of an employers’ organization as the bargaining agent of employers, designate employer bargaining agencies to represent in bargaining provincial units of employers for whose employees affiliated bargaining agents hold bargaining rights, and describe those provincial units.
 
 ### Exclusion of certain bargaining relationships
 
 (2) Where affiliated bargaining agents that are subordinate or directly related to the different provincial, national or international trade unions bargain as a council of trade unions with a single employer bargaining agency for a province-wide collective agreement, the Minister may exclude such bargaining relationships from the designations made under subsection (1), and subsection 162 (2) shall not apply to such exclusion.
+
 (3)-(3.4) Repealed: 2019, c. 9, Sched. 8, s. 3.
 
 ### Reference of question
@@ -3243,14 +3719,19 @@ the Board shall declare that the employers’ organization that was accredited o
 ### Employer bargaining agencies, vesting of rights, etc.
 
 157 Where an employer bargaining agency has been designated under section 153 or accredited under section 155 to represent a provincial unit of employers,
+
 (a) all rights, duties and obligations under this Act of employers for which it bargains shall vest in the employer bargaining agency, but only for the purpose of conducting bargaining and concluding a provincial agreement; and
+
 (b) an accreditation heretofore made under section 136 of an employers’ organization as bargaining agent of the employers in the industrial, commercial and institutional sector of the construction industry, referred to in the definition of “sector” in section 126, represented or to be represented by the employer bargaining agency is null and void from the time of such designation under section 153 or accreditation under section 155.
 
 ### Bargaining agents in the industrial, commercial and institutional sector
 
 158 (1) An application for certification as bargaining agent which relates to the industrial, commercial and institutional sector of the construction industry referred to in the definition of “sector” in section 126 shall be brought by either,
+
 (a) an employee bargaining agency; or
+
 (b) one or more affiliated bargaining agents of the employee bargaining agency,
+
 on behalf of all affiliated bargaining agents of the employee bargaining agency and the unit of employees shall include all employees who would be bound by a provincial agreement together with all other employees in at least one appropriate geographic area unless bargaining rights for such geographic area have already been acquired under subsection (2) or by voluntary recognition.
 
 ### Saving
@@ -3260,9 +3741,13 @@ on behalf of all affiliated bargaining agents of the employee bargaining agency 
 ### Voluntary recognition agreements
 
 (3) A voluntary recognition agreement in so far as it relates to the industrial, commercial and institutional sector of the construction industry shall be between an employer on the one hand and either,
+
 (a) an employee bargaining agency;
+
 (b) one or more affiliated bargaining agents represented by an employee bargaining agency; or
+
 (c) a council of trade unions on behalf of one or more affiliated bargaining agents affiliated with the council of trade unions,
+
 on the other hand, and shall be deemed to be on behalf of all the affiliated bargaining agents of the employee bargaining agency and the defined bargaining unit in the agreement shall include those employees who would be bound by a provincial agreement.
 
 ### Exception
@@ -3296,6 +3781,7 @@ on the other hand, and shall be deemed to be on behalf of all the affiliated bar
 ### Election under s. 128.1
 
 (4) This section does not apply when an application for certification is being dealt with under section 128.1.
+
 160.1 Repealed: 2015, c. 38, Sched. 12, s. 3.
 
 ### Termination of collective agreement
@@ -3347,32 +3833,47 @@ on the other hand, and shall be deemed to be on behalf of all the affiliated bar
 ### Project agreements
 
 163.1 (1) A proponent of a construction project or a group of construction projects who believes that the project or projects are economically significant and who wishes to have a project agreement for the project or projects shall do the following:
+
 1. Create a list of potential parties to the agreement, consisting of bargaining agents, subject to subsection (2).
+
 2. Give each bargaining agent on the list a notice that the proponent wishes to have a project agreement and include with the notice a copy of the list, a general description of each of the projects which are proposed to be covered under the agreement and the estimated cost of each project.
+
 3. Give a copy of the notice to each employee bargaining agency to which any of the bargaining agents on the list belong.
+
 4. Give a copy of the notice to each employer bargaining agency that is a party to a provincial agreement by which a bargaining agent on the list is bound.
+
 5. Give the Board a copy of the notice and evidence, in such form as the Board requires, that the notice has been given to each bargaining agent on the list.
 
 ### Requirements for list of potential parties
 
 (2) The following apply with respect to the list of potential parties created by the proponent:
+
 1. A bargaining agent may be included on the list only if it is bound by a provincial agreement.
+
 2. A bargaining agent may be included on the list only if the proponent anticipates that any project that is proposed to be covered under the project agreement may include work within the bargaining agent’s geographic jurisdiction for which the bargaining agent would select, refer, assign, designate or schedule persons for employment.
 
 ### Objection to Board
 
 (3) A bargaining agent on the list may apply to the Board for an order that a project may not be the subject of a project agreement and the following apply with respect to such an application:
+
 1. The application must be made within 14 days after receiving the notice that the proponent wishes to have a project agreement.
+
 2. The parties to the application are the applicant, the proponent and such other persons as may be prescribed under the regulations or as may be specified by the Board in accordance with the regulations.
+
 3. The Board shall dismiss the application if the project is an industrial project in the industrial, commercial and institutional sector of the construction industry.
+
 4. The Board shall dismiss the application if the project is designated in the regulations as a project that may be the subject of a project agreement.
+
 5. If neither paragraph 3 nor 4 apply, the Board shall grant the application and make an order that the project may not be the subject of a project agreement.
+
 6. An order under paragraph 5 does not affect the preparation of another list and the giving of other notices under subsection (1) even if they relate to the same project.
 
 ### Contents of project agreement
 
 (4) A project agreement must contain,
+
 (a) a general description of each project covered under the project agreement; and
+
 (b) a term providing that the agreement is in effect until every project covered under the agreement is completed or abandoned.
 
 ### Same
@@ -3390,31 +3891,49 @@ on the other hand, and shall be deemed to be on behalf of all the affiliated bar
 ### Content of notice
 
 (7) A notice under subsection (5) must include,
+
 (a) a copy of the proposed project agreement; and
+
 (b) the names of the bargaining agents on the list that have agreed to the giving of the notice.
 
 ### Approval of agreements
 
 (8) The following apply with respect to the approval of a project agreement:
+
 1. A bargaining agent on the list that wishes to approve or disapprove of the proposed agreement shall do so by giving notice of that approval or disapproval to the proponent within 30 days after receiving notice of the proposed agreement.
+
 2. A bargaining agent that gives notice of approval or disapproval shall also give a copy of the notice to the Board.
+
 3. The proposed agreement is approved if the agreement is approved by at least 60 per cent of the bargaining agents that gave notice, either of approval or disapproval, within the time period for doing so.
+
 4. After the time period for every bargaining agent on the list to approve or disapprove has expired, the proponent shall forthwith determine whether the proposed agreement has been approved.
+
 5. If the proponent determines that the proposed agreement has been approved, the proponent shall forthwith give notice that the proposed agreement has been approved to every bargaining agent on the list and shall give the Board a copy of the notice and evidence, in such form as the Board requires, that the notice has been given to each bargaining agent on the list.
+
 6. If the proponent determines that the proposed agreement has not been approved, the proponent shall forthwith give notice that the proposed agreement has not been approved to every bargaining agent on the list and shall give the Board a copy of the notice.
 
 ### Challenges to agreement
 
 (9) A bargaining agent on the list that did not give notice of approval of the proposed project agreement may challenge the proposed project agreement by giving notice to the Board within 10 days after the Board receives the evidence described in paragraph 5 of subsection (8) and the following apply with respect to such a challenge:
+
 1. The Board shall make an order either declaring that the proposed project agreement is in force or declaring that the proposed project agreement shall not come into force.
+
 2. Paragraphs 3 and 4 apply if,
+
 i. the bargaining agent challenging the proposed project agreement gave notice of disapproval of the project agreement, and
+
 ii. the proposed project agreement would result in a reduction in the total wages and benefits, expressed as a rate, of an employee represented by the bargaining agent challenging the project agreement that is larger, proportionally, than the largest reduction that would apply to an employee represented by a bargaining agent that gave notice of approval of the project agreement.
+
 3. In the circumstances described in paragraph 2, the Board shall make an order doing the following, unless the Board considers it inappropriate to do so,
+
 i. amending the proposed project agreement so that no reduction in the total wages and benefits, expressed as a rate, of an employee represented by the bargaining agent challenging the project agreement is greater, proportionally, than the largest reduction that would apply to an employee represented by a bargaining agent that gave notice of approval of the project agreement, and
+
 ii. declaring that the proposed project agreement, as amended, is in force.
+
 4. In the circumstances described in paragraph 2, if the Board considers it inappropriate to make an order under paragraph 3, the Board may make an order declaring that the proposed project agreement shall not come into force.
+
 5. The Board may make an order declaring that the proposed project agreement shall not come into force if the requirements of subsections (1) to (8) have not been satisfied and the failure to satisfy the requirements affected the bargaining agent challenging the project agreement.
+
 6. In the circumstances prescribed in the regulations, the Board may make an order declaring that the proposed project agreement shall not come into force.
 
 ### When agreement comes into force
@@ -3436,30 +3955,43 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Effect of agreement
 
 (14) The following apply with respect to projects to which a project agreement applies:
+
 1. The project agreement applies to all construction work on the project that is within the jurisdiction of a bargaining agent on the list.
+
 2. Each applicable provincial agreement, as modified by the project agreement, applies to the construction work on the project, even with respect to employers who would not otherwise be bound by the provincial agreement.
+
 3. Subject to the project agreement, if a provincial agreement ceases to apply while the project agreement is in effect, the provincial agreement that applied when the project agreement was approved applies to the construction work on the project until a new provincial agreement is made. However, this paragraph does not apply with respect to provincial agreements that apply to work that the project agreement does not apply to.
+
 4. No employees performing work to which the project agreement applies shall strike and no employer shall lock-out such employees while the project agreement is in effect even if a strike is called or authorized under subsection 164 (1) or a lock-out is called or authorized under subsection 164 (2).
+
 5. For greater certainty, paragraph 4 does not affect the right to strike of an employee who performs work to which the project agreement does not apply nor does paragraph 4 affect the right of the employer to lock-out such an employee.
 
 ### Application of subs. (16)
 
 (15) Subsection (16) applies if,
+
 (a) a trade union is a bargaining agent that received notice of the coming into force of a project agreement under subsection (11);
+
 (b) the trade union does not have bargaining rights with respect to employees of an employer; and
+
 (c) the employer employs members of the trade union to perform work on a project that is governed by that project agreement.
 
 ### No certification or voluntary recognition
 
 (16) Regardless of whether the work the members of the trade union perform is inside or outside of the construction industry, if the circumstances set out in subsection (15) apply,
+
 (a) the employment of the members of the trade union before the project is completed or abandoned shall not be considered in any application for certification by the trade union with respect to the employer; and
+
 (b) any agreement under which the employer agrees to employ only members of the trade union for that work before the project is completed or abandoned but not afterwards shall be deemed not to be an agreement voluntarily recognizing the trade union as the exclusive bargaining agent of those employees.
 
 ### Not voluntary recognition
 
 (16.1) A person shall be deemed not to have voluntarily recognized a trade union as an exclusive bargaining agent if,
+
 (a) the person is a party to an agreement or operates under an agreement under which an employer agrees to employ members of the trade union to perform work, regardless of whether the work is inside or outside of the construction industry;
+
 (b) the trade union is a bargaining agent to which notice of the coming into force of a project agreement was given under subsection (11); and
+
 (c) the agreement includes work on a project to which the project agreement applies.
 
 ### Not party to collective agreement
@@ -3473,20 +4005,27 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Definition
 
 (18) In this section,
+
 “proponent” means a person who owns or has an interest in the land for which the project is planned and includes an agent of such a person.
 
 ### Adding new project to agreement
 
 163.1.1 (1) This section applies if,
+
 (a) the proponent under an existing project agreement believes that a new construction project that is not included in the agreement is economically significant;
+
 (b) the proponent wishes to add the new project to be governed by the project agreement; and
+
 (c) the project agreement contains a term providing that additional projects may be added to and governed by the project agreement.
 
 ### Notice to be given
 
 (2) The proponent shall do the following:
+
 1. Give notice that the proponent wishes to add a new project to be governed by an existing project agreement to the bargaining agents, employee bargaining agencies and employer bargaining agencies that received notice under subsection 163.1 (11).
+
 2. Include with the notice a copy of the existing project agreement and a general description of the new project and its estimated cost.
+
 3. Give the Board a copy of the notice and evidence, in the form required by the Board, that the notice has been given to each bargaining agent entitled to receive notice.
 
 ### Challenge
@@ -3504,7 +4043,9 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Decision of Board
 
 (6) In a challenge under subsection (5), the Board shall make an order declaring that the new project shall not be added to the existing project agreement if the Board makes either of the following findings:
+
 1. The project agreement does not contain a term that additional projects may be added to and governed by the project agreement.
+
 2. The requirements in subsection (2) have not been satisfied and the failure to satisfy the requirements affected the bargaining agent making the challenge.
 
 ### Same
@@ -3514,14 +4055,19 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Notice that new project added
 
 (8) The proponent may give notice to the bargaining agents, employee bargaining agencies and employer bargaining agencies specified in subsection (2) that the new project has been added to be governed by the project agreement if,
+
 (a) no application was made under subsection (3) within the time for making such an application;
+
 (b) no challenge is made under subsection (5) within the time for making such a challenge; or
+
 (c) the Board has dismissed any applications or challenges made under those subsections.
 
 ### Effect of notice
 
 (9) The following apply upon the proponent giving the notice under subsection (8):
+
 1. The new project is added to the project agreement.
+
 2. Subsections 163.1 (14), (15), (16) and (16.1) apply with respect to the new project on and after the day it is added to the project agreement.
 
 ### Notice that new project not added
@@ -3543,8 +4089,11 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Local modifications to provincial agreement
 
 163.2 (1) An employer bargaining agency that is a party to a provincial agreement may apply to an affiliated bargaining agent that is bound by that agreement to agree to amendments to the agreement which would apply to any of the following:
+
 1. The kind of work performed, which could be all work performed in the industrial, commercial and institutional sector or a specified kind of that work.
+
 2. The market in which it is performed, which could be work performed for all of the industrial, commercial and institutional sector or a specified market in it.
+
 3. The location of the work, which could be work performed in all of the affiliated bargaining agent’s geographic jurisdiction or a specified portion of it.
 
 ### Same
@@ -3558,25 +4107,37 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Restriction re amendments
 
 (4) The application may seek only amendments that concern the following matters:
+
 1. Wages, including overtime pay and shift differentials.
+
 2. Restrictions on the hiring of employees who are members of another affiliated bargaining agent that is in the same employee bargaining agency as that in which the affiliated bargaining agent is a member but who are not members of the affiliated bargaining agent.
+
 3. Restrictions on an employer’s ability to select employees who are members of the affiliated bargaining agent.
+
 4. Accommodation and travel allowances.
+
 5. Requirements respecting the ratio of apprentices to journeypersons employed by an employer.
+
 6. Hours of work and work schedules.
 
 ### Form and content of application
 
 (5) The application shall be in writing and shall,
+
 (a) state the kind of work, the specified market and the location with respect to which the amendments would apply;
+
 (b) set out any submissions the applicant believes to be relevant to determine the question of whether the provisions of the provincial agreement render employers who are bound by it at a competitive disadvantage with respect to any of the matters referred to in clause (a); and
+
 (c) set out the text of the amendments which are applied for.
 
 ### Service of application
 
 (6) The applicant shall serve the application on the affiliated bargaining agent and shall serve a copy of it,
+
 (a) on the employee bargaining agency of which the affiliated bargaining agent is a member;
+
 (b) if the applicant is an employer bargaining agency, on any designated regional employers’ organization having members who carry on a business in the area covered by the affiliated bargaining agent’s geographic jurisdiction; and
+
 (c) if the applicant is a designated regional employers’ organization, on the employer bargaining agency that is a party to the provincial agreement and on any other designated regional employers’ organization having members who carry on a business in the area covered by the affiliated bargaining agent’s geographic jurisdiction.
 
 ### Agreement on amendment
@@ -3594,7 +4155,9 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Bar to other applications
 
 (10) If an application has been made to an affiliated bargaining agent under this section, no other application may be made to that agent that would apply, in whole or in part, to the same kind of work with respect to the same market and in the same location,
+
 (a) if the work, the market and the location are not the subject of a referral to an arbitrator under section 163.3, until six months and 21 days after the day on which the first application was served on the affiliated bargaining agent; and
+
 (b) if the work, the market and the location are the subject of such a referral, until six months after the arbitration proceedings have terminated.
 
 ### Application of section
@@ -3608,8 +4171,11 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Notice requirements
 
 (2) The notice of referral shall be in writing and shall,
+
 (a) state the name of the individual whom the organization making the referral nominates as the arbitrator;
+
 (b) set out the organization’s final offer with respect to the text of the amendments that the organization proposes to be made to the provincial agreement; and
+
 (c) be accompanied by copies of those statements and submissions under clauses 163.2 (5) (a) and (b) that were provided with the application made under subsection 163.2 (1) or (2).
 
 ### Restriction re subject matter of amendments
@@ -3623,21 +4189,29 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Service of notice
 
 (5) The organization making the referral shall serve the notice of referral and the statements and submissions referred to in clause (2) (c) on the affiliated bargaining agent and shall serve a copy of the notice of referral without those statements and submissions,
+
 (a) on the employee bargaining agency of which the affiliated bargaining agent is a member;
+
 (b) if the organization making the referral is an employer bargaining agency, on any designated regional employers’ organization having members who carry on a business in the area covered by the affiliated bargaining agent’s geographic jurisdiction; and
+
 (c) if the organization making the referral is a designated regional employers’ organization, on the employer bargaining agency that is a party to the provincial agreement and on any other designated regional employers’ organization having members who carry on a business in the area covered by the affiliated bargaining agent’s geographic jurisdiction.
 
 ### Service of response
 
 (6) Within seven days after being served with a notice of referral, the affiliated bargaining agent,
+
 (a) shall serve a response on the organization that made the referral; and
+
 (b) shall serve a copy of the response, without the submissions, if any, referred to in clause (7) (c), on the organizations described in clauses (5) (a), (b) and (c).
 
 ### Form and content of response
 
 (7) The response shall be in writing and,
+
 (a) shall state whether the affiliated bargaining agent agrees to the appointment of the individual whom the referrer nominated as the arbitrator and, if it does not agree, name the individual whom the affiliated bargaining agent nominates as arbitrator;
+
 (b) shall set out the affiliated bargaining agent’s final offer with respect to the text of the amendments, if any, that it proposes to be made to the provincial agreement; and
+
 (c) shall set out any submissions that the affiliated bargaining agent believes are relevant to the question of whether the provisions of the provincial agreement render employers who are bound by it at a competitive disadvantage with respect to the kind of work, the market and the location to which the amendments would apply.
 
 ### Joint appointment of arbitrator
@@ -3699,9 +4273,13 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Restriction on what arbitrator may consider
 
 (22) Subject to subsection (23), the arbitrator shall consider only the following when making a decision:
+
 1. The statements and submissions under clauses 163.2 (5) (a) and (b) that were included with the original application under subsection 163.2 (1) or (2), as the case may be.
+
 2. The final offer of the organization making the referral to arbitration.
+
 3. The affiliated bargaining agent’s final offer as set out under clause (7) (b).
+
 4. The submissions contained in the affiliated bargaining agent’s notice under clause (7) (c).
 
 ### Use of submissions under subss. (16) and (19)
@@ -3731,10 +4309,15 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Decision
 
 (29) After considering the submissions and final offers which he or she may consider under this section, the arbitrator,
+
 (a) shall determine whether the provisions of the provincial agreement render employers who are bound by it at a competitive disadvantage with respect to the kind of work, the market and the location indicated in the application;
+
 (b) if the arbitrator finds that the provisions of the provincial agreement render employers who are bound by it at a competitive disadvantage, shall determine whether the competitive disadvantage would be removed if the provincial agreement were amended in accordance with either of the final offers;
+
 (c) if amendment of the provincial agreement in accordance with only one of the final offers would remove the competitive disadvantage, shall select that final offer;
+
 (d) if amendment of the provincial agreement in accordance with neither of the final offers would remove the competitive disadvantage, shall select the final offer that most reduces the disadvantage; and
+
 (e) if amendment of the provincial agreement in accordance with either of the final offers would remove the competitive disadvantage, shall select the final offer that would be less of a deviation from the provincial agreement.
 
 ### Timing of decision
@@ -3784,7 +4367,9 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Sections 163.2 and 163.3
 
 163.4 (1) For the purposes of sections 163.2 and 163.3, service may be effected,
+
 (a) in the case of service on an organization, by personal service on an officer of the organization or by facsimile transmission to the organization;
+
 (b) in the case of service on an individual, by personal service or by facsimile transmission.
 
 ### Amendment deemed under s. 58 (5)
@@ -3798,8 +4383,11 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Election
 
 163.5 (1) A provincial agreement shall be deemed to include the following provision with respect to an employer who is bound by it if the employer so elects:
+
 1. Up to 75 per cent of the employees who perform work in fulfilling a contract for construction in the industrial, commercial and institutional sector of the construction industry may be individuals who were hired by the employer without referral from or selection, designation, assignment or scheduling by or the concurrence of the affiliated bargaining agent in whose geographic jurisdiction the work is performed.
+
 2. For the purposes of article 1, no more than 40 per cent of the employees who perform work in fulfilling the contract may be individuals who are not members of the affiliated bargaining agent in whose geographic jurisdiction the work is performed.
+
 3. The percentages set out in articles 1 and 2 must apply with reference to the number of employees of the employer who perform work under the provincial agreement on each day during the period in which the contract is being fulfilled.
 
 ### Scope of election
@@ -3813,7 +4401,9 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Restriction re: membership in local
 
 (4) Nothing in article 1 of the provision set out in subsection (1) permits an employer to employ an individual who is not a member of the affiliated bargaining agent in whose geographic jurisdiction the work is performed if,
+
 (a) the provincial agreement would prohibit that employment; and
+
 (b) the employment of the individual is not permitted under article 2 of the provision.
 
 ### Restriction: membership in affiliate
@@ -3827,7 +4417,9 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Decreased percentages
 
 (7) An employee bargaining agency and an employer bargaining agency may agree that an employer may not make the election under subsection (1) or may agree to either or both of the following:
+
 1. That article 1 of the provision set out in subsection (1) shall be read as if it referred to a specified percentage less than 75 per cent.
+
 2. That article 2 of the provision set out in subsection (1) shall be read as if it referred to a specified percentage less than 40 per cent.
 
 ### Restriction re: impasse
@@ -3837,8 +4429,11 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Increased percentages
 
 (9) An employee bargaining agency and an employer bargaining agency may agree to any or all of the following:
+
 1. That article 1 of the provision set out in subsection (1) shall be read as if it referred to a specified percentage of more than 75 per cent.
+
 2. That article 2 of the provision set out in subsection (1) shall be read as if it referred to a specified percentage of more than 40 per cent.
+
 3. That article 3 of the provision set out in subsection (1) shall be read as if it required the percentages set out in sections 1 and 2 of the provision to be applied with reference to the total number of employees of the employer who perform work under the provincial agreement during the entire period in which the contract is being fulfilled.
 
 ### Non-application of section
@@ -3858,16 +4453,23 @@ ii. declaring that the proposed project agreement, as amended, is in force.
 ### Who may vote, employees
 
 165 (1) Where an employee bargaining agency or an affiliated bargaining agent conducts a strike vote relating to a provincial bargaining unit or a vote to ratify a proposed provincial agreement, the only persons entitled to cast ballots in the vote shall be,
+
 (a) employees in the provincial bargaining unit on the date the vote is conducted; and
+
 (b) persons who are members of the affiliated bargaining agent or employee bargaining agency and who are not employed in any employment,
+
 (i) on the day the vote is conducted, if the vote is conducted at a time when there is no strike or lock-out relating to the provincial bargaining unit, or
+
 (ii) on the day before the commencement of the strike or lock-out, if the vote is conducted during a strike or lock-out relating to the provincial bargaining unit.
 
 ### Same, employers
 
 (2) Where an employer bargaining agency or employers’ organization conducts a lock-out vote relating to a provincial bargaining unit or a vote to ratify a proposed provincial agreement, the only employers entitled to cast ballots in the vote shall be employers represented by the employer bargaining agency or employers’ organization that employed,
+
 (a) on the day the vote is conducted, if the vote is conducted at a time when there is no strike or lock-out relating to the provincial bargaining unit; or
+
 (b) on the day before the commencement of the strike or lock-out, if the vote is conducted during a strike or lock-out relating to the provincial bargaining unit,
+
 employees who are represented by the employee bargaining agency or an affiliated bargaining agent that would be affected by the lock-out or would be bound by the provincial agreement.
 
 ### No counting until all voting completed
@@ -3953,8 +4555,11 @@ employees who are represented by the employee bargaining agency or an affiliated
 ### Objects
 
 (2) The objects of the corporation are to facilitate collective bargaining in, and otherwise assist, the industrial, commercial and institutional sector of the construction industry including,
+
 (a) collecting, analyzing and disseminating information concerning collective bargaining and economic conditions in the industrial, commercial and institutional sector of the construction industry;
+
 (b) holding conferences involving representatives of the employer bargaining agencies and the employee bargaining agencies; and
+
 (c) carrying out such additional objects as are prescribed.
 
 ### Not agency of Crown
@@ -3980,11 +4585,17 @@ employees who are represented by the employee bargaining agency or an affiliated
 ### Regulations
 
 (8) The Lieutenant Governor in Council may make regulations,
+
 (a) establishing a corporation without share capital;
+
 (b) governing the corporation including,
+
 (i) providing for its dissolution,
+
 (ii) governing the appointment of members, and
+
 (iii) prescribing additional objects;
+
 (c) governing the payments to be made to the corporation by the employer bargaining agencies and the employee bargaining agencies including prescribing methods for determining the payments.
 
 ### Same
@@ -3996,18 +4607,31 @@ employees who are represented by the employee bargaining agency or an affiliated
 ### Definitions
 
 169 In this section and sections 170 to 189,
+
 “bargaining agent” means the Power Workers’ Union (PWU), Canadian Union of Public Employees, Local 1000 - CLC; (“agent négociateur”)
+
 “employees” means the employees of the employer who are represented by the bargaining agent and included in the power workers bargaining unit; (“employés”)
+
 “employer” means Ontario Power Generation Inc.; (“employeur”)
+
 “new collective agreement”, when used with respect to the power workers bargaining unit, means a collective agreement that,
+
 (a) applies to the employees in the unit, and
+
 (b) is executed on or after the day the Labour Relations Amendment Act (Protecting Ontario’s Power Supply), 2018 receives Royal Assent or comes into force under subsection 189 (5); (“nouvelle convention collective”)
+
 “parties”, when used in relation to a dispute, a dispute resolution proceeding dealing with the dispute or a new collective agreement, means the employer and the bargaining agent; (“parties”)
+
 “power workers bargaining unit” means all regular, part-time and temporary employees, including technicians of the construction field forces and security employees but excluding,
+
 (a) employees represented by other bargaining agents,
+
 (b) persons above the rank of working supervisor,
+
 (c) persons who exercise managerial functions in accordance with this Act, and
+
 (d) persons employed in a confidential capacity in matters relating to labour relations in accordance with this Act,
+
 as set out in Article 1.1 in the collective agreement between the employer and the bargaining agent effective from April 1, 2015 to March 31, 2018. (“unité de négociation des travailleurs du secteur énergétique”)
 
 ### Application of ss. 169 to 189
@@ -4179,10 +4803,15 @@ as set out in Article 1.1 in the collective agreement between the employer and t
 ### Criteria
 
 (2) In making an award, the mediator-arbitrator shall take into consideration all factors that he or she considers relevant, including the following criteria:
+
 1. The employer’s ability to pay in light of its fiscal situation.
+
 2. The economic situation in Ontario.
+
 3. A comparison, as between the employees and comparable employees in the public and private sectors, of the nature of the work performed and of the terms and conditions of employment.
+
 4. The employer’s ability to attract and retain qualified employees.
+
 5. The purposes of the Public Sector Dispute Resolution Act, 1997.
 
 ### Restriction — discipline and discharge
@@ -4232,4 +4861,5 @@ as set out in Article 1.1 in the collective agreement between the employer and t
 ### Failure to execute
 
 (5) If either party fails to execute the documents prepared by the mediator-arbitrator within seven days after receiving them, the documents come into force as though they had been executed by the parties and those documents constitute the new collective agreement between the parties.
+
 190 Repealed: 2019, c. 12, s. 41 (2).

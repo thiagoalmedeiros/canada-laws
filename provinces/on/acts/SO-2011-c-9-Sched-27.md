@@ -6,35 +6,52 @@ language: en
 type: act
 document_date: "2025-06-05"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11m09b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ministry of Infrastructure Act, 2011
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11m09b) before relying on it.
 
 S.O. 2011, c. 9, Sched. 27
 
 ### Definitions
 
 1 In this Act,
+
 “Deputy Minister” means the Deputy Minister of Infrastructure; (“sous-ministre”)
+
 “Government” means,
+
 (a) the Government of Ontario and the Crown in right of Ontario,
+
 (b) a ministry of the Government of Ontario,
+
 (c) a Crown agency, other than a college of applied arts and technology established under the Ontario Colleges of Applied Arts and Technology Act, 2002, and
+
 (d) any board, commission, authority or unincorporated body of the Crown; (“gouvernement”)
+
 “Government property” means property described in section 1.1; (“biens du gouvernement”)
+
 “Minister” means, unless the context requires otherwise, the Minister of Infrastructure or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “Ministry” means the Ministry of Infrastructure; (“ministère”)
+
 “public sector organization” means,
+
 (a) a municipality within the meaning of the Municipal Act, 2001,
+
 (b) a local board, as defined in subsection 1 (1) of the Municipal Act, 2001,
+
 (c) a board, as defined in subsection 1 (1) of the Education Act,
+
 (d) a post-secondary educational institution in Ontario that receives regular operating funding from the Government,
+
 (e) a hospital within the meaning of the Public Hospitals Act,
+
 (f) a board of health, as defined in subsection 1 (1) of the Health Protection and Promotion Act,
+
 (g) such other persons and entities, including the Office of the Assembly and the offices of officers of the Assembly, as may be prescribed for the purposes of this definition. (“organisation du secteur public”)
 
 ### Government property
@@ -44,7 +61,9 @@ S.O. 2011, c. 9, Sched. 27
 ### Same, certain buildings and structures
 
 (2) For the purposes of this Act, a building or structure or an interest in a building or structure is also Government property if,
+
 (a) the building, structure or interest is owned separately from the land on which the building or structure is located; and
+
 (b) the building, structure or interest belongs to the Government.
 
 ### Method of acquisition not affecting status
@@ -82,25 +101,41 @@ S.O. 2011, c. 9, Sched. 27
 ### Responsibilities of the Minister
 
 7 (1) The Minister or, subject to the direction and control of the Minister, the Deputy Minister, shall,
+
 (a) review matters relating to infrastructure and to Government property on a continuing basis with regard to Ontario’s short-term and long-term goals and needs in respect of infrastructure and Government property;
+
 (b) advise and assist the Government in its dealings with other governments regarding infrastructure matters and growth management;
+
 (c) make recommendations, establish policies and undertake programs for the purposes of growth plans and growth management in support of strong communities;
+
 (d) make recommendations for the effective co-ordination and development, within Government, of infrastructure and Government property;
+
 (e) make recommendations regarding priorities for infrastructure and Government property;
+
 (f) establish policies relating to infrastructure and Government property;
+
 (g) engage in the planning and development of infrastructure and Government property;
+
 (h) advise the Government on and be responsible for corridor land within the meaning of Part IX.1 of the Electricity Act, 1998; and
+
 (i) engage in such activities, projects and programs as the Minister considers appropriate in the exercise of his or her authority and the performance of his or her duties, functions and responsibilities.
 
 ### Same, Government property
 
 (2) The Minister is responsible for,
+
 (a) acquiring land, buildings and structures or interests in land, buildings and structures;
+
 (a.1) disposing of or leasing Government property;
+
 (b) designing, constructing, renovating, servicing, maintaining, repairing, furnishing, equipping, managing and administering Government property; and
+
 (c) deciding which Government properties or parts of Government properties should be open to the public, and managing and administering those properties or parts, including,
+
 (i) regulating vehicular and pedestrian traffic,
+
 (ii) reserving for a limited use all or part of any building or structure that is Government property, and
+
 (iii) fixing and collecting fees for parking in any area set aside for parking in, on or under Government property.
 
 ### Administration of Acts
@@ -110,29 +145,45 @@ S.O. 2011, c. 9, Sched. 27
 ### Authority of Minister
 
 (4) The Minister or, subject to the direction and control of the Minister, the Deputy Minister may, in respect of any matter for which the Minister has responsibility under this or any other Act,
+
 (a) undertake research;
+
 (b) establish policies;
+
 (c) do any one or more of promoting, commissioning or participating in research, experiments, feasibility studies, pilot or demonstration projects, testing activities and evaluations;
+
 (d) develop, co-ordinate and implement plans and programs;
+
 (e) promote and engage in public education and the dissemination of information;
+
 (f) facilitate the resolution of disputes;
+
 (g) enter into agreements for and in the name of the Crown;
+
 (h) make grants;
+
 (i) make loans, subject to the approval of the Lieutenant Governor in Council; and
+
 (j) issue directions to the agencies for which the Minister is responsible.
 
 ### Same
 
 (5) Despite Part I of the Financial Administration Act, the Minister may do the following:
+
 1. Receive funds that are not public money within the meaning of subsection 1 (3) of the Financial Administration Act, if the Minister receives the funds under an agreement authorized by clause (4) (g) in relation to an infrastructure project or Government property.
+
 2. Exercise control over funds that are not public money within the meaning of subsection 1 (3) of the Financial Administration Act and that are held in an account that is not in the name of the Crown, if the Minister obtains control over the funds under an agreement authorized by clause (4) (g) in relation to an infrastructure project or Government property.
+
 3. Establish accounts in the name of the Minister with an entity referred to in subsection 2 (2) of the Financial Administration Act.
+
 4. Deposit funds referred to in paragraph 1 or 2 into accounts established under paragraph 3.
+
 5. Pay out the funds referred to in paragraph 1 or 2 and the income earned on those funds in accordance with the agreement referred to in paragraph 1 or 2, as the case may be.
 
 ### Same, income paid into CRF
 
 (6) Where income earned on funds referred to in paragraph 1 or 2 of subsection (5) is public money within the meaning of subsection 1 (3) of the Financial Administration Act, the Minister shall cause the income to be paid into the Consolidated Revenue Fund.
+
 7.1 Repealed: 2025, c. 9, Sched. 6, s. 1.
 
 ### Procurement policies, Government property
@@ -152,13 +203,17 @@ S.O. 2011, c. 9, Sched. 27
 ### Holding Government property
 
 (3) The Minister may hold Government property for the use or purposes of,
+
 (a) the Government, if the property was acquired for the purposes mentioned in subsection (1); or
+
 (b) the Government or the public sector organization that requested the acquisition of the property, if the property was acquired as a result of a request mentioned in subsection (2).
 
 ### Disposing of Government property
 
 (4) The Minister may dispose of Government property by sale, lease or otherwise,
+
 (a) when the property is no longer required for the use or purposes of the Government, if the property was acquired for the purposes mentioned in subsection (1); or
+
 (b) when the property is no longer required for the use or purposes of the Government or the public sector organization that requested the acquisition of the property, if the property was acquired as a result of a request mentioned in subsection (2).
 
 ### Dispositions subject to approval
@@ -168,10 +223,15 @@ S.O. 2011, c. 9, Sched. 27
 ### Exceptions
 
 (6) Subsection (5) does not apply to,
+
 (a) a grant of a lease for a term of less than 21 years;
+
 (b) a grant of easement;
+
 (c) a disposition of Government property described in subsection 1.1 (2);
+
 (d) a disposition made under the Forfeited Corporate Property Act, 2015; or
+
 (e) a disposition made under section 26.2 of the Building Broadband Faster Act, 2021.
 
 ### Expropriation
@@ -197,10 +257,15 @@ S.O. 2011, c. 9, Sched. 27
 ### Definition
 
 (2) In this section,
+
 “municipal agencies”, in relation to a municipality, means,
+
 (a) every local board as defined in subsection 1 (1) of the Municipal Act, 2001,
+
 (b) every local board as defined in subsection 3 (1) of the City of Toronto Act, 2006, including, for greater certainty, the Toronto Transit Commission,
+
 (c) every corporation established by a municipality under section 203 of the Municipal Act, 2001 and every secondary corporation as defined in subsection 203 (3.1) of that Act, and
+
 (d) every corporation established by the City of Toronto under section 148 of the City of Toronto Act, 2006 and every secondary corporation as defined in subsection 148 (4) of that Act.
 
 ### Government property vested in Crown
@@ -216,8 +281,11 @@ S.O. 2011, c. 9, Sched. 27
 ### No authority to hold interests in land, etc.
 
 (2) Despite anything in any other Act or in any regulation, other than a regulation under section 22, a prescribed entity shall not hold or control, or acquire by purchase, lease or otherwise, any,
+
 (a) land, buildings or structures;
+
 (b) interests in land, buildings or structures; or
+
 (c) fixtures or interests in fixtures installed or placed in or used in connection with land, buildings or structures.
 
 ### Transition, deemed vesting in Crown
@@ -269,8 +337,11 @@ S.O. 2011, c. 9, Sched. 27
 ### Definitions
 
 13 (1) In this section,
+
 “government public utility” means a public utility owned and operated by the Crown as represented by the Minister; (“service public gouvernemental”)
+
 “government public utility easement” means an easement of the Crown as represented by the Minister in respect of a government public utility; (“servitude de service public gouvernemental”)
+
 “public utility” means a water works or water supply system, sewage works, steam or hot water distribution system, electrical power or energy generating, transmission or distribution system, street lighting system, natural or artificial gas works or supply system, or a transportation system. (“service public”)
 
 ### Registry Act does not apply
@@ -280,7 +351,9 @@ S.O. 2011, c. 9, Sched. 27
 ### Interference with utilities
 
 (3) No person shall interfere with a part of a government public utility for which there is no government public utility easement unless,
+
 (a) the Minister consents; or
+
 (b) the interference is authorized by a court order under this section.
 
 ### Court orders with respect to utilities
@@ -348,17 +421,25 @@ S.O. 2011, c. 9, Sched. 27
 ### Delegation to Crown agency
 
 (2) The Minister may in writing delegate his or her responsibility or authority under the following provisions to any Crown agency for which the Minister is responsible, subject to the terms and conditions that the Minister sets out in the delegation:
+
 1. Subsection 7 (2).
+
 2. Clause 7 (4) (g), if the agreement entered into for and in the name of the Crown is in respect of a matter mentioned in subsection 7 (2).
+
 2.1 Repealed: 2025, c. 9, Sched. 6, s. 3.
+
 3. Subsections 9 (1), (2), (3) and (4).
+
 4. Section 10.
+
 5. Section 11.1.
 
 ### Same
 
 (3) The Minister may in writing delegate his or her responsibility or authority under subsection 7 (5), subject to the terms and conditions that the Minister sets out in the delegation, to,
+
 (a) the Ontario Infrastructure and Lands Corporation; or
+
 (b) if the Minister of Finance approves, any other Crown agency for which the Minister is responsible.
 
 ### Same, Forfeited Corporate Property Act, 2015
@@ -376,8 +457,11 @@ S.O. 2011, c. 9, Sched. 27
 ### Advisory committees
 
 20 (1) The Lieutenant Governor in Council or the Minister may,
+
 (a) establish advisory committees to advise the Minister on the exercise of his or her authority and the performance of his or her duties, functions and responsibilities;
+
 (b) appoint the members of the committees, and designate one member as chair and one or more members as vice-chair; and
+
 (c) determine the terms of reference of the committees.
 
 ### Remuneration and expenses
@@ -393,31 +477,51 @@ S.O. 2011, c. 9, Sched. 27
 ### Minister
 
 22 (1) The Minister may make regulations,
+
 (a) prescribing entities for the purposes of section 11.0.1;
+
 (b) prescribing exceptions, conditions, limitations or restrictions in connection with section 11.0.1;
+
 (c) clarifying the meaning of a term used in or in connection with section 11.0.1 that is not defined in this Act;
+
 (d) governing agreements with respect to interests described in section 11.0.1, including, without limitation,
+
 (i) deeming specified terms or conditions to be or not to be included in an agreement,
+
 (ii) requiring the parties to an agreement to include specified terms or conditions in the agreement,
+
 (iii) prohibiting an agreement from including specified terms or conditions,
+
 (iv) negating or limiting the liability of the Crown or an officer, employee or agent of the Crown, or any other specified person or entity, in respect of an agreement;
+
 (e) governing transitional matters arising from the implementation of section 11.0.1, including the vesting of real property and the registration on title of interests that are deemed to vest in the Crown.
 
 ### Lieutenant Governor in Council
 
 (2) The Lieutenant Governor in Council may make regulations,
+
 (a) governing agreements that have been entered into with respect to interests described in section 11.0.1, including, without limitation,
+
 (i) deeming specified terms or conditions to be or not to be included in an agreement,
+
 (ii) negating or limiting the liability of the Crown or an officer, employee or agent of the Crown, or any other specified person or entity, in respect of an agreement;
+
 (b) in circumstances where an entity prescribed for the purposes of section 11.0.1 has not complied with that section or the regulations associated with it,
+
 (i) respecting measures to be taken by the entity, the Minister, the Ontario Infrastructure and Lands Corporation or any other specified person or entity in connection with the non-compliance,
+
 (ii) governing the rights, powers and obligations of persons or entities who were directly or indirectly affected by the non-compliance,
+
 (iii) governing the vesting of real property and the registration on title of interests described in section 11.0.1 in connection with the non-compliance,
+
 (iv) negating or limiting the liability of the Crown or an officer, employee or agent of the Crown, or any other specified person or entity, in respect of subclauses (i) to (iii).
 
 ### Retroactive
 
 (3) A regulation made under subsection (2) is, if it so provides, effective with respect to a period before it is filed.
+
 23-41 Omitted (amends, repeals or revokes other legislation).
+
 42 Omitted (provides for coming into force of provisions of this Act).
+
 43 Omitted (enacts short title of this Act).

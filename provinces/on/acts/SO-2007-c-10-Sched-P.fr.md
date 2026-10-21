@@ -6,24 +6,30 @@ language: fr
 type: act
 document_date: "2021-06-03"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07n10"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # naturopathes (Loi de 2007 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07n10) before relying on it.
 
 L.O. 2007, chap. 10, annexe P
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Code des professions de la santé» Le Code des professions de la santé figurant à l’annexe 2 de la Loi de 1991 sur les professions de la santé réglementées. («Health Professions Procedural Code»)
+
 «la présente loi» S’entend en outre du Code des professions de la santé. («this Act»)
+
 «membre» Membre de l’Ordre. («member»)
+
 «Ordre» L’Ordre des naturopathes de l’Ontario. («College»)
+
 «prescrit» Prescrit dans les règlements. («prescribed»)
+
 «profession» La profession de naturopathe. («profession») 2007, chap. 10, annexe P, art. 1.
 
 ### Code des professions de la santé
@@ -33,9 +39,13 @@ L.O. 2007, chap. 10, annexe P
 ### Idem, interprétation
 
 (2) Dans la mesure où le Code des professions de la santé s’applique à la présente loi, les termes suivants qui y figurent s’interprètent comme suit :
+
 «loi sur une profession de la santé» La présente loi. («health profession Act»)
+
 «ordre» L’Ordre des naturopathes de l’Ontario. («College»)
+
 «profession» La profession de naturopathe. («profession»)
+
 «règlements» Les règlements pris en application de la présente loi. («regulations») 2007, chap. 10, annexe P, par. 2 (2).
 
 ### Définitions du Code
@@ -49,12 +59,19 @@ L.O. 2007, chap. 10, annexe P
 ### Actes autorisés
 
 4 (1) Dans l’exercice de la naturopathie, un membre est autorisé, sous réserve des conditions et restrictions dont est assorti son certificat d’inscription, à faire ce qui suit :
+
 1. Introduire un instrument, la main ou le doigt au-delà des grandes lèvres, mais non du col de l’utérus.
+
 2. Introduire un instrument, la main ou le doigt au-delà de la marge de l’anus, mais non de la jonction recto-sigmoïdienne.
+
 3. Administrer des substances prescrites par voie d’injection ou d’inhalation.
+
 4. Accomplir des actes autorisés prescrits ayant trait au mouvement des articulations de la colonne vertébrale au-delà de l’arc de mouvement physiologique habituel d’un particulier au moyen d’impulsions rapides de faible amplitude.
+
 5. Communiquer un diagnostic naturopathique qui attribue les symptômes d’un particulier à une maladie, à des troubles ou à des dysfonctions qui peuvent être identifiés au moyen d’une évaluation effectuée à l’aide de techniques naturopathiques.
+
 6. Effectuer des prélèvements de sang par voie veineuse ou en piquant la peau afin d’effectuer des examens prescrits relevant de l’exercice de la naturopathie.
+
 7. Prescrire, préparer, composer ou vendre les médicaments désignés dans les règlements.
 
 ### Exigences supplémentaires relatives aux actes autorisés
@@ -72,10 +89,15 @@ L.O. 2007, chap. 10, annexe P
 ### Conseil
 
 6 (1) Le conseil se compose :
+
 a) de six à neuf personnes qui sont des membres élus conformément aux règlements administratifs;
+
 b) de cinq à huit personnes que nomme le lieutenant-gouverneur en conseil et qui ne sont pas :
+
 (i) membres,
+
 (ii) membres d’un ordre, au sens de la Loi de 1991 sur les professions de la santé réglementées,
+
 (iii) membres d’un conseil, au sens de la Loi de 1991 sur les professions de la santé réglementées.
 
 ### Qui peut voter aux élections
@@ -97,7 +119,9 @@ b) de cinq à huit personnes que nomme le lieutenant-gouverneur en conseil et qu
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «abréviation» S’entend en outre de l’abréviation d’une variante.
+
 9 A brogé : 2021, chap. 25, annexe 25, art. 21.
 
 ### Infraction
@@ -107,12 +131,19 @@ b) de cinq à huit personnes que nomme le lieutenant-gouverneur en conseil et qu
 ### Règlements
 
 11 Sous réserve de l’approbation du lieutenant-gouverneur en conseil et après examen par le ministre, le conseil peut, par règlement :
+
 a) prescrire les normes d’exercice relatives aux circonstances dans lesquelles les naturopathes sont tenus de renvoyer des cas à des membres d’autres professions de la santé réglementées;
+
 b) prescrire des méthodes thérapeutiques relevant de l’exercice de la naturopathie, régir le recours à de telles méthodes et interdire le recours à d’autres méthodes thérapeutiques dans le cadre de l’exercice de la naturopathie;
+
 c) régir l’accomplissement d’un acte autorisé prévu aux dispositions 1 et 2 du paragraphe 4 (1) et prescrire les fins auxquelles ou les circonstances dans lesquelles il peut être accompli;
+
 d) prescrire les substances qu’un membre peut administrer par voie d’injection ou d’inhalation pour l’application de la disposition 3 du paragraphe 4 (1) de même que les fins auxquelles ou les circonstances dans lesquelles elles peuvent être administrées;
+
 e) prescrire les actes autorisés qui peuvent être accomplis en vertu de la disposition 4 du paragraphe 4 (1), régir l’accomplissement de ces actes et prescrire les fins auxquelles ou les circonstances dans lesquelles ils peuvent être accomplis, et interdire l’accomplissement d’autres actes que ceux qui sont prescrits;
+
 f) prescrire des examens relevant de l’exercice de la naturopathie pour l’application de la disposition 6 du paragraphe 4 (1), prescrire les fins auxquelles ou les circonstances dans lesquelles ils peuvent être effectués et interdire que d’autres examens que ces examens prescrits soient effectués;
+
 g) désigner les médicaments qu’un membre peut prescrire, préparer, composer ou vendre pour l’application de la disposition 7 du paragraphe 4 (1), prescrire les fins auxquelles ou les circonstances dans lesquelles les médicaments désignés peuvent être prescrits, préparés, composés ou vendus et interdire la prescription, la préparation, la composition ou la vente de médicaments autres que ceux qui sont désignés.
 
 ### Transition avant l’entrée en vigueur de certaines dispositions
@@ -138,8 +169,11 @@ g) désigner les médicaments qu’un membre peut prescrire, préparer, composer
 ### Pouvoirs du ministre
 
 (6) Le ministre peut :
+
 a) exercer un contrôle sur les activités du conseil transitoire et exiger de celui-ci qu’il fournisse des rapports et des renseignements;
+
 b) exiger du conseil transitoire qu’il prenne, modifie ou abroge un règlement aux termes de la présente loi;
+
 c) exiger du conseil transitoire qu’il fasse tout ce qui est nécessaire ou souhaitable, de l’avis du ministre, pour réaliser l’intention de la présente loi et de la Loi de 1991 sur les professions de la santé réglementées.
 
 ### Obligation du conseil transitoire de satisfaire à l’exigence du ministre
@@ -173,19 +207,27 @@ c) exiger du conseil transitoire qu’il fasse tout ce qui est nécessaire ou so
 ### Idem : enquête ou mesures disciplinaires
 
 (4) Si, avant l’entrée en vigueur de l’article 6, une enquête ou une procédure portant sur une allégation de faute professionnelle ou d’incompétence ou sur une autre question de discipline a été commencée par le Conseil d’administration des praticiens ne prescrivant pas de médicaments en vertu de la Loi sur les praticiens ne prescrivant pas de médicaments et de ses règlements, le jour de l’entrée en vigueur de l’article 6 :
+
 a) l’enquête ou la procédure est reprise et poursuivie en vertu de la présente loi, dans la mesure de sa compatibilité avec celle-ci;
+
 b) le Conseil d’administration des praticiens ne prescrivant pas de médicaments, tel qu’il existait immédiatement avant l’entrée en vigueur de l’article 6, est réputé le comité compétent, aux termes de la présente loi, pour traiter de l’enquête ou de la procédure jusqu’à la nomination d’autres personnes pour en remplacer les membres;
+
 c) la procédure établie en vertu de la présente loi pour le recouvrement des pénalités et pour l’exécution des droits acquis en vertu de la Loi sur les praticiens ne prescrivant pas de médicaments est suivie, dans la mesure où elle peut être adaptée.
 
 ### Idem
 
 (4.1) Si, après l’entrée en vigueur de l’article 6, une plainte relative aux actes ou à la conduite d’un membre est déposée auprès du registrateur, ou qu’il est allégué qu’un membre a commis une faute professionnelle ou est incompétent ou qu’une autre question de discipline est alléguée et que la plainte ou l’allégation a trait à une période précédant l’entrée en vigueur de l’article 6 alors que le membre était une personne inscrite pour exercer une profession aux termes de la Loi sur les praticiens ne prescrivant pas de médicaments :
+
 a) d’une part, la procédure à suivre et toute enquête ou procédure établie en vertu de la présente loi et de la Loi de 1991 sur les professions de la santé réglementées s’appliquent à l’égard du membre;
+
 b) d’autre part, en ce qui concerne le recouvrement des pénalités ou l’imposition de sanctions, la Loi sur les praticiens ne prescrivant pas de médicaments continue de s’appliquer malgré son abrogation.
 
 ### Idem : actif et passif
 
 (5) Après l’entrée en vigueur de l’article 6, l’actif dont le Conseil d’administration des praticiens ne prescrivant pas de médicaments est propriétaire ou dont il assume la gestion et le contrôle, en vertu de la Loi sur les praticiens ne prescrivant pas de médicaments, ainsi que son passif, tels qu’ils existaient immédiatement avant l’entrée en vigueur de cet article, sont transférés, sans indemnisation, à l’Ordre.
+
 14. à 20 Omis (modifient ou abrogent d’autres lois).
+
 21 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 22 Omis (édicte le titre abrégé de la présente loi).

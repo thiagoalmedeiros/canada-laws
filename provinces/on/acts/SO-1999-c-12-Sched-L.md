@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99o12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Lottery and Gaming Corporation Act, 1999
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99o12) before relying on it.
 
 S.O. 1999, c. 12, Sched. L
 
@@ -21,20 +21,31 @@ S.O. 1999, c. 12, Sched. L
 ### Purposes of Act
 
 0.1 The purposes of this Act are,
+
 (a) to enhance the economic development of the Province;
+
 (b) to generate revenues for the Province;
+
 (c) to promote responsible gaming with respect to lottery schemes; and
+
 (d) to ensure that anything done for a purpose set out in clause (a), (b) or (c) is also done for the public good and in the best interests of the Province.
 
 ### Definitions
 
 1 In this Act,
+
 “board” means the board of directors of the Corporation; (“conseil”)
+
 “Corporation” means the Ontario Lottery and Gaming Corporation; (“Société”)
+
 “employee” means a permanent full-time employee; (“employé”)
+
 “gaming site” means premises or an electronic channel maintained for the purpose of playing or operating a lottery scheme; (“site de jeu”)
+
 “lottery scheme” has the same meaning as in subsection 207 (4) of the Criminal Code (Canada); (“loterie”)
+
 “Minister” means the member of the Executive Council designated by the Lieutenant Governor in Council to administer this Act; (“ministre”)
+
 “prescribed” means prescribed by a regulation made under this Act. (“prescrit”)
 
 ### Ontario Lottery and Gaming Corporation
@@ -66,12 +77,19 @@ S.O. 1999, c. 12, Sched. L
 ### Objects of the Corporation
 
 3 The following are the objects of the Corporation:
+
 1. To develop, undertake, organize, conduct and manage lottery schemes on behalf of the Crown in right of Ontario.
+
 2. To provide for the operation of gaming sites.
+
 3. To ensure that the lottery schemes and gaming sites are conducted, managed and operated in accordance with the Criminal Code (Canada), this Act and the Gaming Control Act, 1992 and the regulations made under them.
+
 4. To provide for the operation of any business that the Corporation considers to be reasonably related to operating a gaming site or lottery scheme, including any business that offers goods and services to persons who play lottery schemes in a gaming site.
+
 5. If authorized by the Lieutenant Governor in Council, to enter into agreements to develop, undertake, organize, conduct and manage lottery schemes on behalf of, or in conjunction with, the government of one or more provinces of Canada.
+
 5.1 To undertake activities with respect to the support of live horse racing in Ontario.
+
 6. To do such other things as the Lieutenant Governor in Council may by order direct.
 
 ### Powers of the Corporation
@@ -161,8 +179,11 @@ S.O. 1999, c. 12, Sched. L
 ### Same
 
 (2) The Corporation shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -224,7 +245,9 @@ S.O. 1999, c. 12, Sched. L
 ### Designation of agreements
 
 (2) For the purposes of this section, the Minister may, by regulation, designate one or more of the following transfer payment agreements:
+
 1. A transfer payment agreement entered into by the Ontario Racing Commission under the Horse Racing Partnership Funding Program established under section 7 of the Ministry of Agriculture, Food and Rural Affairs Act.
+
 2. Any other transfer payment agreement entered into by the Ontario Racing Commission to provide operational and purse support for the operator of a race track in Ontario.
 
 ### Status of designated agreements
@@ -264,20 +287,31 @@ S.O. 1999, c. 12, Sched. L
 ### Major capital expenditure
 
 (2) An expenditure is a major capital expenditure for the purposes of this section in either of the following circumstances:
+
 1. If it satisfies the prescribed criteria for a major capital expenditure or any class of major capital expenditure.
+
 2. If the Minister notifies the Corporation in writing that the expenditure is a major capital expenditure for the purposes of this Act.
+
 13.1 Repealed: 2011, c. 9, Sched. 34, s. 10.
 
 ### Payments from revenue
 
 14 (1) The Corporation shall make the following payments out of the revenue that it receives from all gaming sites and lottery schemes and the operation of all related businesses, in the following order of priority:
+
 1. Payment of prizes and winnings to players.
+
 2. Payments that the regulations made under this Act require the Corporation to make to the Consolidated Revenue Fund.
+
 3. Payment of the operating expenses of the Corporation.
+
 4. Payment of money to the Alcohol and Gaming Commission of Ontario under subsection 12 (1) of the Alcohol and Gaming Commission of Ontario Act, 2019.
+
 5. Payments required to be made by the Corporation under an agreement relating to the distribution of a portion of the Corporation’s revenues to First Nations of Ontario that is,
+
 i. entered into by the Province of Ontario and representatives of First Nations of Ontario, and
+
 ii. approved by the Lieutenant Governor in Council on the recommendation of the Minister.
+
 6. Payments relating to the support of live horse racing in Ontario that are required by regulation and are made for the purposes specified in the regulations and in accordance with such conditions and restrictions as may be prescribed.
 
 ### Same, certain capital expenditures
@@ -291,21 +325,33 @@ ii. approved by the Lieutenant Governor in Council on the recommendation of the 
 ### Publication of First Nations agreements
 
 14.1 The Minister shall publish any agreement described in paragraph 5 of subsection 14 (1), and any amendments to such agreements, in The Ontario Gazette.
+
 14.2 Repealed: 2011, c. 9, Sched. 34, s. 10.
 
 ### Regulations
 
 15 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) defining words and expressions used in this Act that are not defined in this Act;
+
 (b) regulating lottery schemes conducted and managed by the Corporation;
+
 (c) prescribing the conditions and qualifications to entitlement to prizes in any lottery scheme conducted and managed by the Corporation;
+
 (d) prescribing requirements for the establishment of a gaming site;
+
 (e) prohibiting classes of individuals from entering or remaining in a gaming site during the playing of a lottery scheme in the site;
+
 (e.1) requiring payments to be made by the Corporation relating to the support of live horse racing in Ontario and prescribing purposes, conditions and restrictions in connection with those payments as referred to in paragraph 6 of subsection 14 (1);
+
 (f) prescribing criteria for determining whether an expenditure or class of expenditures is a major capital expenditure for the purposes of section 13;
+
 (f.1) Repealed: 2011, c. 9, Sched. 34, s. 11 (4).
+
 (g) requiring the Corporation to pay into the Consolidated Revenue Fund a specified percentage of the revenue that it receives from the operation of gaming sites, lottery schemes and related businesses under this Act after paying prizes and winnings to players, and prescribing the time for making such payments;
+
 (h) exempting any person, premises, channel or lottery scheme from any requirement of this Act or of a regulation made under it, subject to any conditions that may be prescribed;
+
 (i) respecting any matter that the Lieutenant Governor in Council considers necessary or advisable to carry out effectively the intent and purpose of this Act.
 
 ### Same
@@ -319,6 +365,9 @@ ii. approved by the Lieutenant Governor in Council on the recommendation of the 
 ### Classes
 
 (4) A regulation may establish different requirements for different classes of person, premises, channel, lottery scheme or activity.
+
 16 (1) Repealed: 2011, c. 9, Sched. 34, s. 12.
+
 (2), (3) Repealed: 2015, c. 38, Sched. 16, s. 10.
+
 17-22 Repealed: 2011, c. 9, Sched. 34, s. 12.

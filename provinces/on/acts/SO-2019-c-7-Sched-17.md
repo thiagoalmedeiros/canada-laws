@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2023-05-18"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c07c"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Crown Liability and Proceedings Act, 2019
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c07c) before relying on it.
 
 S.O. 2019, c. 7, Sched. 17
 
@@ -21,26 +21,47 @@ S.O. 2019, c. 7, Sched. 17
 ### Definitions
 
 1 (1) In this Act,
+
 “Crown” means the Crown in right of Ontario; (“Couronne”)
+
 “Crown agency” means,
+
 (a) a corporation that is expressly stated by or under an Act to be an agent of the Crown,
+
 (b) a prescribed corporation, and
+
 (c) a wholly-owned subsidiary of a corporation referred to in clause (a) or (b); (“organisme de la Couronne”)
+
 “Crown corporation” means,
+
 (a) a corporation having 50 per cent or more of its issued and outstanding shares vested in the Crown or having the appointment of a majority of its board of directors made or approved by the Lieutenant Governor in Council or by one or more members of the Executive Council, and
+
 (b) a wholly-owned subsidiary of a corporation referred to in clause (a); (“société de la Couronne”)
+
 “order” includes a judgment, decree, rule, award and declaration; (“ordonnance”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “proceeding” means an action or application for damages and any other civil proceeding in respect of damages to which the rules of court apply; (“instance”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “transfer payment recipient” means a person or other entity that directly or indirectly receives a grant, transfer payment or other funding or financial assistance from the Crown to support, in whole or in part, the delivery of services to members of the public, including,
+
 (a) a municipality,
+
 (b) a hospital within the meaning of the Public Hospitals Act,
+
 (c) a private hospital within the meaning of the Private Hospitals Act,
+
 (d) a board within the meaning of the Education Act,
+
 (e) a university, college of applied arts and technology or other post-secondary institution,
+
 (f) a children’s aid society within the meaning of the Child, Youth and Family Services Act, 2017,
+
 (g) a long-term care home within the meaning of the Fixing Long-Term Care Act, 2021, or
+
 (h) any other prescribed person or entity that directly or indirectly receives any such amounts. (“bénéficiaire d’un paiement de transfert”)
 
 ### Officer of the Crown
@@ -82,12 +103,19 @@ S.O. 2019, c. 7, Sched. 17
 ### Acts not affected
 
 6 This Act does not affect and is subject to,
+
 (a) the Expropriations Act;
+
 (b) the Public Transportation and Highway Improvement Act;
+
 (c) the Land Titles Act and the Registry Act, in relation to claims against The Land Titles Assurance Fund;
+
 (d) the Motor Vehicle Accident Claims Act;
+
 (e) Parts V.1 and VI of the Electricity Act, 1998;
+
 (f) the Workplace Safety and Insurance Act, 1997; and
+
 (g) every statute that imposes a tax payable to the Crown or the Minister of Finance.
 
 ### Conflict with other Acts
@@ -103,9 +131,13 @@ S.O. 2019, c. 7, Sched. 17
 ### Crown liability
 
 8 (1) Except as otherwise provided under this Act or any other Act, the Crown is subject to all the liabilities in tort to which it would be liable if it were a person,
+
 (a) in respect of a tort committed by an officer, employee or agent of the Crown;
+
 (b) in respect of a breach of duty attaching to the ownership, occupation, possession or control of property;
+
 (c) in respect of a breach of an employment-related obligation owed to an officer or employee of the Crown; and
+
 (d) under any Act, or under any regulation or by-law made or passed under any Act.
 
 ### Same
@@ -123,15 +155,21 @@ S.O. 2019, c. 7, Sched. 17
 ### Limitations on Crown liability
 
 9 (1) The Crown is not liable for torts committed by,
+
 (a) Crown agencies;
+
 (b) Crown corporations;
+
 (c) transfer payment recipients; or
+
 (d) independent contractors providing services to the Crown for any purpose.
 
 ### Same
 
 (2) Nothing in this Act subjects the Crown to a proceeding in respect of,
+
 (a) anything done in good faith in the enforcement of the criminal law or of the penal provisions of an Act; or
+
 (b) anything done or omitted to be done by a person while discharging or purporting to discharge responsibilities of a judicial nature vested in the person or responsibilities that the person has in connection with the execution of judicial process.
 
 ### Property vesting in the Crown
@@ -145,14 +183,19 @@ S.O. 2019, c. 7, Sched. 17
 ### No liability in tort
 
 (3) Where property vests in the Crown in the manner described in subsection (1), the Crown is not liable in tort by reason of any act or omission of the Crown or anyone acting on its behalf or with its approval related to any of the following purposes or a purpose that is similar to any of the following purposes:
+
 1. Investigating, securing, maintaining or managing the property.
+
 2. Restoring the property to productive use, responding to complaints or preserving public health and safety.
+
 3. Exercising any authority in respect of the property under the Escheats Act, 2015 or the Forfeited Corporate Property Act, 2015.
 
 ### Limitation
 
 (4) Subsections (1) and (3) do not affect the liability of the Crown under this Act in respect of any period after which the Crown or an officer, employee or agent of the Crown,
+
 (a) in the case of personal property, begins to use the property for Crown purposes; or
+
 (b) in the case of land, has registered a notice against the title to the property that it intends to use the property for Crown purposes.
 
 ### Notice
@@ -168,13 +211,17 @@ S.O. 2019, c. 7, Sched. 17
 ### Regulatory decisions
 
 (2) No cause of action arises against the Crown or an officer, employee or agent of the Crown in respect of a regulatory decision made in good faith, where,
+
 (a) a person suffers any form of harm or loss as a result of an act or omission of a person who is the subject of the regulatory decision; and
+
 (b) the person who suffered the harm or loss claims that the harm or loss resulted from any negligence or failure to take reasonable care in the making of the regulatory decision.
 
 ### Same, purported failure to make
 
 (3) No cause of action arises against the Crown or an officer, employee or agent of the Crown in respect of a purported failure to make a regulatory decision, where,
+
 (a) a person suffers any form of harm or loss as a result of an act or omission of another person; and
+
 (b) the person who suffered the harm or loss claims that the harm or loss resulted from any negligence in a purported failure to make a regulatory decision in respect of that other person.
 
 ### Policy decisions
@@ -184,34 +231,59 @@ S.O. 2019, c. 7, Sched. 17
 ### Same, policy matters
 
 (5) For the purposes of subsection (4), a policy matter includes,
+
 (a) the creation, design, establishment, redesign or modification of a program, project or other initiative, including,
+
 (i) the terms, scope or features of the program, project or other initiative,
+
 (ii) the eligibility or exclusion of any person or entity or class of persons or entities to participate in the program, project or other initiative, or the requirements or limits of such participation, or
+
 (iii) limits on the duration of the program, project or other initiative, including any discretionary right to terminate or amend the operation of the program, project or other initiative;
+
 (b) the funding of a program, project or other initiative, including,
+
 (i) providing or ceasing to provide such funding,
+
 (ii) increasing or reducing the amount of funding provided,
+
 (iii) including, not including, amending or removing any terms or conditions in relation to such funding, or
+
 (iv) reducing or cancelling any funding previously provided or committed in support of the program, project or other initiative;
+
 (c) the manner in which a program, project or other initiative is carried out, including,
+
 (i) the carrying out, on behalf of the Crown, of some or all of a program, project or other initiative by another person or entity, including a Crown agency, Crown corporation, transfer payment recipient or independent contractor,
+
 (ii) the terms and conditions under which the person or entity will carry out such activities,
+
 (iii) the Crown’s degree of supervision or control over the person or entity in relation to such activities, or
+
 (iv) the existence or content of any policies, management procedures or oversight mechanisms concerning the program, project or other initiative;
+
 (d) the termination of a program, project or other initiative, including the amount of notice or other relief to be provided to affected members of the public as a result of the termination;
+
 (e) the making of such regulatory decisions as may be prescribed; and
+
 (f) any other policy matter that may be prescribed.
 
 ### Definition, “regulatory decision”
 
 (6) In this section,
+
 “regulatory decision” means a decision respecting,
+
 (a) whether a person, entity, place or thing has met a requirement under an Act,
+
 (b) whether a person or entity has contravened any duty or other obligation set out under an Act,
+
 (c) whether a licence, permission, certificate or other authorization should be issued under an Act,
+
 (d) whether a condition or limitation in respect of a licence, permission, certificate or other authorization should be imposed, amended or removed under an Act,
+
 (e) whether an investigation, inspection or other assessment should be conducted under an Act, or the manner in which an investigation, inspection or other assessment under an Act is conducted,
+
 (f) whether to carry out an enforcement action under an Act, or the manner in which an enforcement action under an Act is carried out, or
+
 (g) any other matter that may be prescribed.
 
 ### Proceedings barred
@@ -275,7 +347,9 @@ S.O. 2019, c. 7, Sched. 17
 ### Documents on motion for leave
 
 (3) On a motion for leave under subsection (2), the claimant shall, in accordance with section 15 if applicable, serve on the defendant and file with the court,
+
 (a) an affidavit, or such other document as may be prescribed, setting out a concise statement of the material facts on which the claimant intends to rely; and
+
 (b) an affidavit of documents, or such other document as may be prescribed, disclosing, to the full extent of the claimant’s knowledge, information and belief, all documents relevant to any matter in issue in the proceeding that are or have been in the claimant’s possession, control or power.
 
 ### Response by defendant
@@ -293,7 +367,9 @@ S.O. 2019, c. 7, Sched. 17
 ### Requirements for leave
 
 (7) The court shall not grant leave unless it is satisfied that,
+
 (a) the proceeding is being brought in good faith; and
+
 (b) there is a reasonable possibility that the claim described in subsection (1) would be resolved in the claimant’s favour.
 
 ### Costs
@@ -307,7 +383,9 @@ S.O. 2019, c. 7, Sched. 17
 ### Effect of refusing leave
 
 (10) If leave is not granted under subsection (2),
+
 (a) the proceeding is rendered a nullity; or
+
 (b) if the proceeding contains any claims other than the claim described in subsection (1), the proceeding is rendered a nullity in respect of the claim described in that subsection and the stay is lifted with respect to the remainder of the proceeding.
 
 ### Waiver of leave requirement
@@ -321,7 +399,9 @@ S.O. 2019, c. 7, Sched. 17
 ### Same
 
 (13) If the Crown exercises its discretion under subsection (11) after a proceeding has been brought,
+
 (a) the stay of the proceeding is lifted once notice of the waiver is given to the claimant; and
+
 (b) the Crown shall give notice of the waiver in writing to the court.
 
 ### Non-application to Crown claimant
@@ -339,7 +419,9 @@ S.O. 2019, c. 7, Sched. 17
 ### Same
 
 (17) For the purposes of any applicable limitation period,
+
 (a) a proceeding to which subsection (15) applies shall be considered to have been commenced in respect of the claim described in subsection (1) when the motion for leave was made, despite any waiver of the leave requirement by the Crown; and
+
 (b) a proceeding to which subsection (16) applies shall, despite being a nullity in respect of the claim described in subsection (1), be considered to have been commenced when the proceeding was brought.
 
 ### Notice of claim for damages required
@@ -375,9 +457,13 @@ S.O. 2019, c. 7, Sched. 17
 ### Where Crown is a party
 
 19 (1) In a proceeding to which the Crown is a party, the rules of court respecting discovery and inspection of documents, examination for discovery, evidence by cross-examination on affidavits and examination of witnesses apply in the same manner as if the Crown were a corporation, with the following exceptions:
+
 1. The Crown may refuse to produce a document or to answer a question on the ground that the production or answer would be injurious to the public interest.
+
 2. The person who shall attend to be examined for discovery shall be an official designated by the Deputy Attorney General.
+
 3. The Crown is not required to deliver an affidavit on production of documents for discovery and inspection, but a list of the documents that the Crown may be required to produce, signed by the Deputy Attorney General, shall be delivered.
+
 4. Any other exception that may be prescribed.
 
 ### Where Crown is not a party
@@ -449,6 +535,7 @@ S.O. 2019, c. 7, Sched. 17
 ### Definition, “administrative unit”
 
 (5) In this section,
+
 “administrative unit” means a Ministry of the Government of Ontario, a Crown agency within the meaning of the Crown Agency Act or the Office of the Assembly under the Legislative Assembly Act.
 
 ### General Matters
@@ -456,11 +543,17 @@ S.O. 2019, c. 7, Sched. 17
 ### Payment by the Crown
 
 28 The Minister of Finance shall pay out of the Consolidated Revenue Fund amounts payable by the Crown under,
+
 (a) an order of a court that is final and not subject to appeal;
+
 (b) the settlement or partial settlement of a proceeding;
+
 (c) the settlement or partial settlement of a claim that is the subject of a notice of claim under section 18;
+
 (d) the settlement or partial settlement of an anticipated proceeding or claim which, in the Attorney General’s opinion, could result in a judgment or other finding of liability against the Crown;
+
 (e) an order of an administrative tribunal or an arbitration award that is final and not subject to appeal, or the settlement or partial settlement of a matter or anticipated matter before an administrative tribunal or arbitrator; or
+
 (f) a final order to pay made by a competent authority under a trade agreement that the Crown has entered into with the government of another province or territory of Canada, the government of Canada or any combination of those governments.
 
 ### No compensation
@@ -470,12 +563,19 @@ S.O. 2019, c. 7, Sched. 17
 ### Regulations
 
 30 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) respecting anything that, in this Act, may or must be prescribed or done by regulation;
+
 (b) defining any term or phrase used in this Act that is not defined in this Act;
+
 (b.1) providing for procedures that apply with respect to a motion for leave under section 17;
+
 (c) for the purposes of section 27,
+
 (i) prescribing methods of service on the Crown of notices of garnishment in place of the method specified in section 15,
+
 (ii) providing that a notice of garnishment issued against the Crown is not effective unless a statement of particulars, in the prescribed form, is served with the notice of garnishment,
+
 (iii) providing that a notice of garnishment issued against the Crown is deemed to be served on the day that is the prescribed number of days, not to exceed 30 days, after the actual date of service or after the effective date of service under the rules of court, as the case may be.
 
 ### Retroactive regulations
@@ -507,7 +607,11 @@ S.O. 2019, c. 7, Sched. 17
 ### Exception, extinguishment of causes of action
 
 (4) Section 11 and the extinguishment of causes of action and dismissal of proceedings under that section apply with respect to proceedings commenced against the Crown or an officer, employee or agent of the Crown before the day this section came into force.
+
 32 Omitted (provides for amendments to this Act).
+
 33 - 17 1 Omitted (amends, repeals or revokes other legislation).
+
 172 Omitted (provides for coming into force of provisions of this Act).
+
 173 Omitted (enacts short title of this Act).

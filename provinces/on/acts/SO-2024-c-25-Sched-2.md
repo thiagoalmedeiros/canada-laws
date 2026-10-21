@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-11-25"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24b25"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Building Highways Faster Act, 2024
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24b25) before relying on it.
 
 S.O. 2024, c. 25, Sched. 2
 
@@ -25,41 +25,77 @@ S.O. 2024, c. 25, Sched. 2
 ### Interpretation
 
 2 In this Act,
+
 “actual costs”, in respect of the costs of work carried out by a utility company to comply with a notice issued under section 4, means all costs properly attributed to the work, including,
+
 (a) the actual wages paid to all workers up to and including the supervisors for their time actually spent on the work and in travelling to and from the work, and the cost of food, lodging and transportation for such workers where necessary for the proper carrying out of the work,
+
 (b) the cost to the utility company of contributions related to such wages in respect of workplace safety and insurance premiums, vacation pay, employment insurance, pension or insurance benefits and other similar benefits,
+
 (c) the cost of using and transporting equipment and explosives used in the work,
+
 (d) the cost of planning, designing and engineering,
+
 (e) the cost of materials,
+
 (f) the cost of acquiring necessary permits, approvals and property rights, and
+
 (g) related administrative costs such as for project management; (“coût réel”)
+
 “Bradford Bypass Project” means the project to construct a highway connecting Highway 400 in the Town of Bradford West Gwillimbury (County of Simcoe) to Highway 404 in the Town of East Gwillimbury (Regional Municipality of York), located north of and parallel to Simcoe County Road 88 in the Town of Bradford West Gwillimbury and Queensville Sideroad (York Road 77) in East Gwillimbury, with the route traversing a small segment of the Township of King in York Region and any related activities; (“projet de voie de contournement de Bradford”)
+
 “business day” means a day from Monday to Friday, other than a holiday as defined in section 87 of the Legislation Act, 2006; (“jour ouvrable”)
+
 “Garden City Skyway Bridge Twinning Project” means the project to construct a second Garden City Skyway bridge along the Queen Elizabeth Way and across the Welland Canal connecting the City of St. Catharines to the Town of Niagara-on-the-Lake and any related activities; (“projet de jumelage de ponts du Garden City Skyway”)
+
 “highway” has the same meaning as in the Public Transportation and Highway Improvement Act; (“voie publique”)
+
 “Highway 413 Project” means the project to do the following, and any related activities:
+
 1. Construct a highway that connects Highway 400 in the Regional Municipality of York to Highway 401 and Highway 407 in the Regional Municipality of Halton and the Regional Municipality of Peel and includes related facilities and structures such as parking facilities, stormwater management ponds, commercial vehicle inspection facilities and maintenance yards.
+
 2. Construct extensions of Highway 410 and Highway 427 to connect them to Highway 413; (“projet d’autoroute 413”)
+
 “information concerning infrastructure” includes,
+
 (a) records of the infrastructure and associated rights of way,
+
 (b) records of communications and agreements related to the infrastructure,
+
 (c) information related to the location for the infrastructure, and
+
 (d) any other information the Minister considers necessary for the purposes of this Act; (“renseignements concernant l’infrastructure”)
+
 “institution” has the same meaning as in the Freedom of Information and Protection of Privacy Act; (“institution”)
+
 “land” includes any estate, term, easement, right or interest in, to, over or affecting land; (“bien-fonds”)
+
 “Minister” means the Minister of Transportation or any other member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre”)
+
 “Ministry” means the ministry of the Minister; (“ministère”)
+
 “prescribed” means prescribed by a regulation made under this Act; (“prescrit”)
+
 “priority highway project” means,
+
 (a) the Highway 413 Project,
+
 (b) the Bradford Bypass Project,
+
 (c) the Garden City Skyway Twinning Project, or
+
 (d) any other prescribed highway project; (“chantier routier prioritaire”)
+
 “property owner” includes a mortgagee, lessee, tenant, occupant, person entitled to a limited estate or interest, and a guardian, executor, administrator or trustee in whom land or any interest therein is vested; (“propriétaire du bien”)
+
 “registered owner” has the same meaning as in the Expropriations Act; (“propriétaire enregistré”)
+
 “regulation” means a regulation made under this Act; (“règlement”)
+
 “related activities”, in respect of priority highway projects, includes activities to change existing infrastructure such as sewage works, rail lines, highways, municipal and private roads and utility infrastructure; (“activités connexes”)
+
 “utility company” means a municipal corporation or commission or a company or individual operating or using communications services, water services or sewage services, or transmitting, distributing or supplying any substance or form of energy for light, heat or power; (“entreprise de services publics”)
+
 “utility infrastructure” means poles, wires, cables including fibre-optic cables, conduits, towers, transformers, pipes, pipe lines or any other works, structures or appliances placed over, on or under land or water by a utility company. (“infrastructure de services publics”)
 
 ### Expropriations
@@ -81,11 +117,17 @@ S.O. 2024, c. 25, Sched. 2
 ### Requirements for notice
 
 (2) The notice issued under subsection (1) shall be in writing and include the following information:
+
 1. The name of the priority highway project for which the notice is being given.
+
 2. A description of the utility infrastructure that needs to be taken up, removed or changed in location.
+
 3. The date by which the work must be completed.
+
 4. A statement that written submissions may be made to the Minister within 15 days after receiving the notice or by such later date as is specified in the notice, and instructions on how to submit written submissions.
+
 5. A statement that the notice is issued pursuant to this section of this Act.
+
 6. Contact information for further information about the notice.
 
 ### Submissions
@@ -95,8 +137,11 @@ S.O. 2024, c. 25, Sched. 2
 ### Minister’s decision
 
 (4) After considering any submissions made under subsection (3), the Minister may, in writing,
+
 (a) confirm the notice;
+
 (b) issue an amended notice; or
+
 (c) revoke the notice.
 
 ### Date in amended notice
@@ -142,12 +187,19 @@ S.O. 2024, c. 25, Sched. 2
 ### Exception
 
 (4) Despite subsection (3), the Minister or a person employed in the Ministry that has access to information supplied under this section may disclose it,
+
 (a) if the person who supplied the information consents to its disclosure;
+
 (b) if the disclosure is necessary for the purposes of the planning, design or construction of a priority highway project;
+
 (c) if the disclosure is necessary for the purposes of other infrastructure that is planned, designed or constructed to be adjacent to or in connection with a priority highway project;
+
 (d) to counsel or to an advisor to the Minister or Ministry;
+
 (e) for the purposes of complying with an Act of the Legislature or an Act of Parliament;
+
 (f) where disclosure is to an institution or a law enforcement agency in Canada to aid a law enforcement investigation; or
+
 (g) where disclosure is further to an order of a court or tribunal.
 
 ### Information deemed to have been supplied to Minister in confidence
@@ -163,10 +215,15 @@ S.O. 2024, c. 25, Sched. 2
 ### Site inspection
 
 9 (1) Subject to subsection (2), the Minister or any person authorized by him or her may enter any property for the purposes of carrying out a site inspection to support the planning, design or construction of a priority highway project, and for this purpose may,
+
 (a) make records of the property and surrounding area;
+
 (b) take samples;
+
 (c) conduct tests or surveys;
+
 (d) assemble, install, place or leave monitoring equipment on the property to collect information or make records; and
+
 (e) alter in any manner any natural or artificial feature of the property to carry out the activities in clauses (a) to (d).
 
 ### Dwelling
@@ -176,7 +233,9 @@ S.O. 2024, c. 25, Sched. 2
 ### Compensation and restoration
 
 (3) If the Minister or any person authorized by him or her does one or more of the things mentioned in clause (1) (b), (c), (d) or (e), after doing so the Minister shall,
+
 (a) compensate the property owner for any damages resulting from the work, and the procedure for obtaining compensation set out in section 11 applies; and
+
 (b) make reasonable efforts to restore the property to its condition prior to the work.
 
 ### Manner of carrying out site inspection
@@ -188,11 +247,17 @@ S.O. 2024, c. 25, Sched. 2
 ### Contents
 
 (2) The advance notice shall be in writing and include the following information:
+
 1. The intended date and approximate time of the site inspection, with a statement that reasonable efforts will be made to have the site inspection at a date and time that is mutually convenient.
+
 2. The approximate duration of the site inspection.
+
 3. The purpose of the site inspection.
+
 4. That the property owner may be entitled to compensation and the procedure for determining compensation.
+
 5. That obstructing a site inspection or interfering with any equipment used for a site inspection is an offence under this Act.
+
 6. Contact information for further information.
 
 ### Date and time
@@ -202,9 +267,13 @@ S.O. 2024, c. 25, Sched. 2
 ### If no agreement
 
 (4) If no mutually convenient time is identified, a site inspection shall be carried out,
+
 (a) during the regular business hours of the place;
+
 (b) if the place does not have regular business hours, at any time the place is open for business;
+
 (c) if the place is not a business or if clauses (a) and (b) are otherwise not applicable, at any time during daylight hours; or
+
 (d) if the nature of the site inspection is such that it must be carried out at a specific time of day, that time of the day, whether or not it is during daylight hours.
 
 ### Identification
@@ -246,14 +315,19 @@ S.O. 2024, c. 25, Sched. 2
 ### Exception to interest
 
 (7) Despite subsection (6),
+
 (a) if the property owner was offered, in writing, compensation greater than the amount determined by the Tribunal, no interest may be ordered in respect of any period after the date of the offer; and
+
 (b) if the Tribunal is of the opinion that any delay in determining the compensation is attributable in whole or in part to the property owner, the Tribunal may refuse to order interest for the whole or any part of the time for which the property owner might otherwise be entitled to interest, or may order interest at such rate less than the prescribed rate as appears just.
 
 ### Municipality or local board
 
 (8) If the property owner is a municipality or a local board within the meaning of the Municipal Act, 2001 or the City of Toronto Act, 2006, then despite subsections (1) to (5),
+
 (a) the Minister may compensate the property owner for any damages resulting from the site inspection, but does not have to;
+
 (b) if the Minister compensates the property owner, the Minister shall decide the quantum of compensation and may provide only partial compensation; and
+
 (c) for greater certainty, the Minister is not required to compensate the property owner for anything done under subsection 9 (1), and the procedure for determining compensation set out in subsections (1) to (5) of this section does not apply.
 
 ### Offence
@@ -271,21 +345,33 @@ S.O. 2024, c. 25, Sched. 2
 ### Penalties
 
 (4) A person who is guilty of an offence under subsection (1), (2) or (3) is liable on conviction,
+
 (a) in the case of an individual,
+
 (i) for a first offence, to a fine of not more than $50,000 plus not more than an additional $10,000 for each day on which the offence continues after the day it commences, or
+
 (ii) for a second or subsequent conviction for that offence, to a fine of not more than $100,000 plus not more than an additional $10,000 for each day on which the offence continues after the day it commences; or
+
 (b) in the case of a corporation,
+
 (i) for a first offence, to a fine of not more than $500,000 plus not more than an additional $10,000 for each day on which the offence continues after the day it commences, or
+
 (ii) for a second or subsequent conviction for that offence, to a fine of not more than $1,000,000 plus not more than an additional $10,000 for each day on which the offence continues after the day it commences.
 
 ### Order for entry or possession
 
 13 (1) A justice of the peace may issue an order authorizing a person named in the order to enter property specified in the order to do anything authorized under subsection 9 (1) or to take possession of land that is vested in the Crown and that the Minister has the right to possess for the purposes of a priority highway project if the justice is satisfied, on information under oath, that there are reasonable grounds to believe that,
+
 (a) it is appropriate for a person to do the things authorized under subsection 9 (1) or the Minister is entitled to take possession of the land, as the case may be; and
+
 (b) the person may not be able to carry out his or her duties effectively without an order under this section because,
+
 (i) no occupier is present to grant access to a place that is locked or otherwise inaccessible,
+
 (ii) another person has prevented or may prevent the person from doing the things authorized under subsection 9 (1) or from taking possession of the land,
+
 (iii) it is impractical, due to timing restrictions related to the planning, design and construction of a priority highway project or because of any other reason, for a person to obtain an order under this subsection without delay if access is denied, or
+
 (iv) an attempt by a person to do the things authorized under subsection 9 (1) or to take possession of land without the order might not achieve its purpose without the order.
 
 ### Expiry
@@ -337,10 +423,15 @@ S.O. 2024, c. 25, Sched. 2
 ### Same
 
 (2) Despite subsection (1), the following restrictions continue to apply in respect of the delivery of goods and services to the designated priority highway project:
+
 1. A restriction that establishes a weight restriction on a bridge, culvert or other similar structure.
+
 2. A restriction that establishes a speed limit.
+
 3. A restriction that prohibits the use of a highway under the jurisdiction of the municipality by vehicular traffic due to maintenance or construction.
+
 4. A restriction that prohibits the use of a highway under the jurisdiction of the municipality for three days or less due to the holding of a street or special event on the highway.
+
 5. A prescribed restriction.
 
 ### Miscellaneous
@@ -348,18 +439,27 @@ S.O. 2024, c. 25, Sched. 2
 ### Providing a document
 
 15 (1) A notice or request provided or made by the Minister under section 4, 5, 8, 10 or 11 is sufficiently provided or made if it is,
+
 (a) delivered directly to the person;
+
 (b) left at the person’s last known address, in a place that appears to be for incoming mail or with an individual who appears to be 16 years old or older;
+
 (c) sent by regular mail to the person’s last known address;
+
 (d) sent by commercial courier to the person’s last known address; or
+
 (e) provided by other prescribed means.
 
 ### Deemed receipt
 
 (2) For the purposes of subsection (1),
+
 (a) a document left under clause (1) (a) or (b) is deemed to have been received on the first business day after it was left;
+
 (b) a document sent under clause (1) (c) is deemed to have been received on the fifth business day after the day it was mailed;
+
 (c) a document sent under clause (1) (d) is deemed to have been received on the second business day after the day the commercial courier received it; and
+
 (d) a document given under clause (1) (e) is deemed to have been received on the day specified by the regulations.
 
 ### No expropriation, injurious affection
@@ -373,10 +473,15 @@ S.O. 2024, c. 25, Sched. 2
 ### Same
 
 (2) The persons for the purposes of subsection (1) are,
+
 (a) any current or former,
+
 (i) member of the Executive Council;
+
 (ii) Deputy Minister of the Ministry;
+
 (iii) employee, officer or agent of the Crown; and
+
 (b) any current or former employee, officer or director of an independent contractor providing services to the Crown for the purposes of this Act, including services to assist with work caused to be done under section 5 or with a site inspection under section 9.
 
 ### Crown remains vicariously liable
@@ -398,7 +503,9 @@ S.O. 2024, c. 25, Sched. 2
 ### Certain proceedings not prevented
 
 (7) This section does not apply with respect to proceedings,
+
 (a) brought by the Crown against any person; or
+
 (b) brought by an independent contractor who provides services to the Crown for the purposes of this Act against a current or former employee, director or officer of that independent contractor.
 
 ### Regulations, Lieutenant Governor in Council
@@ -408,9 +515,15 @@ S.O. 2024, c. 25, Sched. 2
 ### Regulations, Minister
 
 19 The Minister may make regulations,
+
 (a) prescribing a rate for the purposes of subsection 11 (6);
+
 (b) designating priority highway projects or parts of priority highway projects for the purposes of subsection 14 (1);
+
 (c) prescribing restrictions for the purposes of paragraph 5 of subsection 14 (2);
+
 (d) prescribing other means of providing notice for the purposes of clause 15 (1) (e) and the day of deemed receipt for the purposes of clause 15 (2) (d).
+
 20 Omitted (provides for coming into force of provisions of this Act).
+
 21 Omitted (enacts short title of this Act).

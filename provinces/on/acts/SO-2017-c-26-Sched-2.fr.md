@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17o26"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Société ontarienne de vente du cannabis (Loi de 2017 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17o26) before relying on it.
 
 L.O. 2017, chap. 26, Annexe 2
 
@@ -21,18 +21,27 @@ L.O. 2017, chap. 26, Annexe 2
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «cannabis» S’entend au sens de la Loi de 2017 sur le contrôle du cannabis. («cannabis»)
+
 «ministre» Le ministre des Finances ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «Régie des alcools» La Régie des alcools de l’Ontario prorogée en application de l’article 2 de la Loi de 2019 sur la Régie des alcools de l’Ontario. («LCBO»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «Société» La Société ontarienne de vente du cannabis créée en application de l’article 3. («Corporation»)
+
 «vente» Est assimilé à la vente le fait d’offrir pour la vente, d’exposer pour la vente ou d’avoir en sa possession pour la vente. («sell») 2017, chap. 26, annexe 2, art. 1
 
 ### Droits exclusifs pour la vente de cannabis
 
 2 Sauf disposition contraire prévue par règlement, la Société a le droit exclusif en Ontario de vendre du cannabis :
+
 a) en ligne, sans passer par un magasin de vente au détail de cannabis, aux termes de la Loi de 2018 sur les licences liées au cannabis ;
+
 b) au titulaire d’une autorisation de magasin de vente au détail délivrée sous le régime de la Loi de 2018 sur les licences liées au cannabis aux fins de revente par l’intermédiaire d’un magasin de vente au détail de cannabis.
 
 ### Création, mission, pouvoirs
@@ -56,11 +65,17 @@ b) au titulaire d’une autorisation de magasin de vente au détail délivrée s
 ### Mission
 
 4 La Société a pour mission :
+
 a) d’acheter, d’avoir en sa possession et de vendre du cannabis et des produits connexes;
+
 b) d’établir :
+
 (i) les variétés, formes ou types de cannabis et de produits connexes qu’elle vend, sous réserve des règlements,
+
 (ii) à quels prix les vendre, sous réserve du paragraphe 5 (5) et des règlements;
+
 c) de promouvoir la responsabilité sociale en ce qui concerne le cannabis;
+
 d) d’exercer les autres activités qui sont prescrites par règlement ou qui lui sont attribuées par la présente loi ou toute autre loi.
 
 ### Pouvoirs
@@ -94,6 +109,7 @@ d) d’exercer les autres activités qui sont prescrites par règlement ou qui l
 ### Mandataire de la Couronne
 
 6 La Société est un mandataire de la Couronne du chef de l’Ontario à toutes fins.
+
 7 Abrogé : 2018, chap. 12, annexe 3, art. 3.
 
 ### Conseil d’administration
@@ -103,11 +119,17 @@ d) d’exercer les autres activités qui sont prescrites par règlement ou qui l
 ### Délégation
 
 (2) Le conseil d’administration peut déléguer ses pouvoirs à un de ses comités ou à un dirigeant ou employé de la Société, sauf les pouvoirs suivants :
+
 a) approuver le budget de la Société, y compris le budget des dépenses en immobilisations et de dotation en personnel;
+
 b) approuver le plan d’activités, le rapport annuel et les états financiers de la Société;
+
 c) nommer et destituer le président-directeur général et fixer sa rémunération;
+
 d) constituer les comités du conseil d’administration et pourvoir aux vacances au sein de ces comités;
+
 e) adopter, modifier ou abroger les règlements administratifs;
+
 f) faire quoi que ce soit d’autre qui est prescrit.
 
 ### Subdélégation des pouvoirs
@@ -145,18 +167,27 @@ f) faire quoi que ce soit d’autre qui est prescrit.
 ### Disposition transitoire
 
 (8) Le président, le vice-président et les administrateurs qui sont en fonction la veille du jour où la Loi de 2018 modifiant des lois en ce qui concerne le cannabis reçoit la sanction royale continuent d’exercer leurs fonctions jusqu’à celle des dates suivantes qui est antérieure aux autres :
+
 1. La date d’expiration de leur mandat.
+
 2. La date de leur décès.
+
 3. La date de leur démission.
+
 4. La date de leur destitution par le lieutenant-gouverneur en conseil.
+
 5. La date à laquelle ils deviennent faillis ou incapables d’agir.
 
 ### Idem
 
 (9) Les règles suivantes s’appliquent à chacun des particuliers visés au paragraphe (8) :
+
 1. Le particulier est réputé être un fonctionnaire pour l’application des parties IV, V et VI de la Loi de 2006 sur la fonction publique de l’Ontario.
+
 2. Le particulier continue d’être payé aux taux de rémunération qui sont en vigueur à son égard la veille du jour où la Loi de 2018 modifiant des lois en ce qui concerne le cannabis reçoit la sanction royale jusqu’à ce que le lieutenant-gouverneur en conseil fixe la rémunération et les remboursements visés au paragraphe (7).
+
 3. S’il est également membre de la Régie des alcools, le particulier est réputé ne pas être dans une situation de conflit d’intérêts de ce simple fait.
+
 10 Abrogé : 2018, chap. 12, annexe 3, art. 6.
 
 ### Règlements administratifs
@@ -170,6 +201,7 @@ f) faire quoi que ce soit d’autre qui est prescrit.
 ### Idem : règlements administratifs en matière de finances
 
 (3) Si le ministre n’est pas le ministre des Finances, les règlements administratifs qui traitent d’emprunt, de placement ou de gestion des risques financiers, y compris ceux qui modifient ou abrogent de tels règlements administratifs, ne prennent effet que sur approbation du ministre et du ministre des Finances.
+
 (4) Abrogés : 2018, chap. 12, annexe 3, art. 7.
 
 ### Président-directeur général
@@ -179,9 +211,13 @@ f) faire quoi que ce soit d’autre qui est prescrit.
 ### Disposition transitoire
 
 (2) Le particulier qui est président et chef de l’exploitation de la Société la veille du jour où la Loi de 2018 modifiant des lois en ce qui concerne le cannabis reçoit la sanction royale continue d’exercer ses fonctions à titre de président-directeur général de la Société jusqu’à celle des dates suivantes qui est antérieure aux autres :
+
 1. La date d’expiration de son mandat.
+
 2. La date de son décès.
+
 3. La date de sa démission.
+
 4. La date de sa destitution par la Société.
 
 ### Mentions du président et chef de l’exploitation
@@ -239,21 +275,29 @@ f) faire quoi que ce soit d’autre qui est prescrit.
 ### Définition de «renseignements personnels»
 
 (5) La définition qui suit s’applique au présent article.
+
 «renseignements personnels» S’entend au sens de la Loi sur l’accès à l’information et la protection de la vie privée.
+
 16 Abrogé : 2018, chap. 12, annexe 3, art. 9.
 
 ### Immunité des employés et autres personnes
 
 17 (1) Aucune cause d’action ne prend naissance :
+
 a) contre un administrateur, un dirigeant ou un employé de la Société du fait d’un acte accompli de bonne foi dans l’exercice effectif ou censé tel de ses fonctions ou d’une négligence ou d’un manquement qu’il aurait commis dans l’exercice de bonne foi de ses fonctions;
+
 b) contre la Couronne ou un de ses ministres ou employés du fait d’un acte accompli ou d’une omission faite par une personne qui n’est pas un ministre ou un employé de la Couronne, si l’acte ou l’omission est lié, directement ou indirectement, aux affaires de la Société ou à l’application de la présente loi;
+
 c) contre la Régie des alcools ou un de ses membres, dirigeants ou employés du fait d’un acte accompli ou d’une omission faite par une personne qui n’est pas un membre, un dirigeant ou un employé de la Régie des alcools, si l’acte ou l’omission est lié, directement ou indirectement, aux affaires de la Société ou à l’application de la présente loi.
 
 ### Irrecevabilité des instances
 
 (2) Sont irrecevables les instances, notamment les instances dans lesquelles il est demandé un recours contractuel ou un recours en responsabilité délictuelle, en restitution ou en fiducie, qui sont introduites :
+
 a) contre un administrateur, un dirigeant ou un employé de la Société par une personne qui a subi un dommage, un préjudice ou une autre perte résultant de toute cause d’action visée à l’alinéa (1) a) ou s’y rapportant;
+
 b) contre la Couronne ou un de ses ministres ou employés par une personne qui a subi un dommage, un préjudice ou une autre perte résultant de toute cause d’action visée à l’alinéa (1) b) ou s’y rapportant;
+
 c) contre la Régie des alcools ou un de ses membres, dirigeants ou employés par une personne qui a subi un dommage, un préjudice ou une autre perte résultant de toute cause d’action visée à l’alinéa (1) c) ou s’y rapportant.
 
 ### Maintien de la responsabilité de la Société
@@ -305,7 +349,9 @@ c) contre la Régie des alcools ou un de ses membres, dirigeants ou employés pa
 ### Idem
 
 (2) Une dépense est une dépense en immobilisations importante pour l’application du présent article dans l’un ou l’autre des cas suivants :
+
 1. Elle remplit les critères prescrits par règlement.
+
 2. Le ministre avise la Société par écrit qu’il s’agit d’une dépense en immobilisations importante pour l’application du présent article.
 
 ### Prêts et autre financement consentis à la Société
@@ -335,8 +381,11 @@ c) contre la Régie des alcools ou un de ses membres, dirigeants ou employés pa
 ### Idem
 
 (2) La Société se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le présenter au ministre;
+
 c) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -356,9 +405,13 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Restriction des activités de la Société : législation fédérale applicable
 
 27 La Société :
+
 a) ne doit pas vendre du cannabis qui n’a pas été produit par une personne ou une entité autorisée sous le régime de la Loi sur le cannabis (Canada) à produire du cannabis à des fins commerciales;
+
 b) ne doit pas vendre du cannabis à un particulier de moins de 19 ans;
+
 c) doit conserver la documentation pertinente, conformément aux règlements, en ce qui a trait à ses activités liées au cannabis qui est en sa possession;
+
 d) doit prendre des mesures adéquates, conformément aux règlements, afin de réduire le risque que le cannabis en sa possession soit détourné vers un marché illicite ou pour une activité illicite.
 
 ### Conformité à la Loi de 2018 sur les licences liées au cannabis
@@ -368,8 +421,11 @@ d) doit prendre des mesures adéquates, conformément aux règlements, afin de r
 ### Accords avec un conseil de bande
 
 28 (1) Les définitions qui suivent s’appliquent au présent article et à l’article 28.1.
+
 «conseil de la bande» S’entend au sens du paragraphe 2 (1) de la Loi sur les Indiens (Canada). («council of the band»)
+
 «Indien» S’entend au sens du paragraphe 2 (1) de la Loi sur les Indiens (Canada). («Indian»)
+
 «réserve» S’entend d’une réserve au sens du paragraphe 2 (1) de la Loi sur les Indiens (Canada) ou d’un établissement indien situé sur des terres de la Couronne et dont les habitants indiens sont traités de la même manière que les Indiens qui résident dans une réserve par Affaires autochtones et du Nord Canada. («reserve») 2017, chap. 26, annexe 2, par. 28 (1)
 
 ### Idem
@@ -379,8 +435,11 @@ d) doit prendre des mesures adéquates, conformément aux règlements, afin de r
 ### Idem : aval obligatoire d’autres ministres
 
 (3) Le ministre ne peut conclure des arrangements ou des accords que conjointement avec les ministres suivants :
+
 a) le ministre des Finances, s’il n’est pas le ministre des Finances;
+
 b) le ministre chargé de l’application de la Loi de 2017 sur le contrôle du cannabis ;
+
 c) le ministre chargé de l’application de la Loi de 2018 sur les licences liées au cannabis.
 
 ### Sur demande, aucune livraison dans une réserve
@@ -410,18 +469,33 @@ c) le ministre chargé de l’application de la Loi de 2018 sur les licences li�
 ### Règlements
 
 29 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) traiter de tout ce que la présente loi permet ou exige de prescrire, de faire ou de prévoir par règlement;
+
 b) régir la vente du cannabis et des produits connexes;
+
 c) traiter des variétés, formes et types de cannabis et de produits connexes que la Société peut et ne peut pas vendre;
+
 d) prévoir des exceptions à l’application de l’article 2 et les assortir de conditions;
+
 e) sous réserve du paragraphe 5 (5), traiter de l’établissement par la Société des prix auxquels elle vend le cannabis et les produits connexes;
+
 f) régir l’emballage à utiliser pour le cannabis et les produits connexes vendus par la Société;
+
 g) régir les renseignements que la Société doit fournir ou diffuser et la manière dont elle doit le faire;
+
 h) régir la documentation que la Société doit conserver;
+
 i) exiger que la Société prenne des mesures pour réduire le risque que le cannabis dont elle a le contrôle soit détourné vers un marché illicite ou pour une activité illicite, et prescrire ces mesures;
+
 j) régir les questions transitoires qu’il estime nécessaires ou souhaitables pour faciliter la mise en oeuvre de la présente loi ou pour permettre l’adaptation aux changements apportés par la législation fédérale applicable.
+
 (2) Abrogé : 2018, chap. 12, annexe 3, par. 17 (4).
+
 30 Omis (modification de la présente loi).
+
 31 Omis (modification ou abrogation d’autres textes législatifs).
+
 32 Omis (entrée en vigueur de dispositions de la présente loi).
+
 33 Omis (édiction du titre abrégé de la présente loi).

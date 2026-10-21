@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2025-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/22d07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # droits des travailleurs de plateformes numériques (Loi de 2022 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/22d07) before relying on it.
 
 L.O. 2022, chap. 7, annexe 1
 
@@ -21,26 +21,47 @@ L.O. 2022, chap. 7, annexe 1
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «agent de recouvrement» S’entend d’une personne, autre qu’un agent de conformité, qui est autorisée par le directeur à recouvrer une somme due en application de la présente loi. («collector»)
+
 «agent des relations de travail» Agent des relations de travail nommé en vertu de la Loi de 1995 sur les relations de travail. («labour relations officer»)
+
 «Commission» La Commission des relations de travail de l’Ontario. («Board»)
+
 «directeur» Le directeur du travail sur plateforme numérique. («Director»)
+
 «droit du travailleur» Exigence ou interdiction prévue par la présente loi qui s’applique à un exploitant et bénéficie à un travailleur. («worker right»)
+
 «exploitant» Sous réserve des règlements, s’entend de la personne qui facilite, au moyen d’une plateforme numérique, l’exécution d’un travail sur plateforme numérique par des travailleurs. Sont exclues de la présente définition les agences de placement temporaire au sens de la Loi de 2000 sur les normes d’emploi. («operator»)
+
 «ministère» Le ministère du ministre. («Ministry»)
+
 «ministre» Le membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée ou transférée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «plateforme numérique» Sous réserve des règlements, s’entend d’une plateforme en ligne qui permet à des travailleurs de choisir d’accepter ou de refuser un travail sur plateforme numérique. («digital platform»)
+
 «pourboire ou autre gratification» S’entend de ce qui suit :
+
 a) tout paiement volontairement versé à un travailleur ou laissé à son intention par une personne dans des circonstances telles qu’une personne raisonnable conclurait vraisemblablement que la personne voulait que le travailleur garde ce paiement ou présumait qu’il le ferait;
+
 b) tout paiement volontairement versé à un exploitant par une personne dans des circonstances telles qu’une personne raisonnable conclurait vraisemblablement que la personne voulait que ce paiement soit remis à un travailleur ou présumait qu’il le serait;
+
 c) tout paiement de frais de service ou de frais semblables demandé par un exploitant à une personne dans des circonstances telles qu’une personne raisonnable conclurait vraisemblablement que la personne voulait que ce paiement soit remis à un travailleur ou présumait qu’il le serait;
+
 d) les autres paiements prescrits.
+
 Sont toutefois exclus de la présente définition :
+
 e) les paiements prescrits;
+
 f) les frais prescrits relatifs au mode de paiement utilisé, ou la partie prescrite de ces frais. («tip or other gratuity»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «travail sur plateforme numérique» Sous réserve des règlements, s’entend de la prestation, moyennant paiement, de services prescrits, notamment de covoiturage, de livraison ou de messagerie, par des travailleurs à qui un exploitant offre des affectations de travail au moyen d’une plateforme numérique. («digital platform work»)
+
 «travailleur» Sous réserve des règlements, s’entend du particulier qui exécute un travail sur plateforme numérique. S’entend en outre de la personne qui était un travailleur. («worker»)
 
 ### Somme due
@@ -54,7 +75,9 @@ f) les frais prescrits relatifs au mode de paiement utilisé, ou la partie presc
 ### Champ d’application
 
 3 (1) Sous réserve du paragraphe (2), les droits du travailleur énoncés dans la présente loi s’appliquent à l’égard d’un travailleur si, selon le cas :
+
 a) l’affectation de travail du travailleur doit être exécutée en Ontario;
+
 b) l’affectation de travail du travailleur doit être exécutée en Ontario et à l’extérieur de la province mais le travail exécuté à l’extérieur de la province est une prolongation du travail exécuté en Ontario.
 
 ### Exception : compétence fédérale
@@ -98,11 +121,17 @@ b) l’affectation de travail du travailleur doit être exécutée en Ontario et
 ### Droit à l’information
 
 7 (1) Dans les 24 heures qui suivent l’octroi de l’accès à la plateforme numérique d’un exploitant à un particulier afin qu’il accepte ou refuse d’exécuter un travail sur plateforme numérique, l’exploitant lui remet les renseignements suivants par écrit :
+
 1. Une description du mode de calcul de la paie pour le travail sur plateforme numérique.
+
 2. La question de savoir si les pourboires ou autres gratifications sont perçus par l’exploitant et, si tel est le cas, le moment et le mode de leur perception.
+
 3. La période de paie récurrente et la journée de paie récurrente établies par l’exploitant en application de l’article 8.
+
 4. Les facteurs utilisés pour établir si des affectations de travail sont offertes aux travailleurs et une description du mode d’application de ces facteurs.
+
 5. La question de savoir si la plateforme numérique utilise un système d’évaluation du rendement et s’il y a des conséquences découlant de l’évaluation du rendement d’un travailleur ou de la non-exécution d’une affectation de travail par un travailleur ainsi qu’une description de ces conséquences.
+
 6. Les autres renseignements prescrits.
 
 ### Idem : avis de changement
@@ -116,23 +145,33 @@ b) l’affectation de travail du travailleur doit être exécutée en Ontario et
 ### Idem : nouvelle affectation de travail
 
 (4) Lorsqu’il offre une affectation de travail à un travailleur, l’exploitant lui remet par écrit les renseignements suivants :
+
 1. La somme estimative qui sera payée au travailleur pour le travail et une description du mode de calcul de cette somme.
+
 2. Les facteurs utilisés dans la décision d’offrir l’affectation de travail au travailleur.
+
 3. La question de savoir s’il y aura des conséquences découlant de l’évaluation du rendement du travailleur pour cette affectation de travail ou de la non-exécution de cette affectation de travail par le travailleur et, s’il y a lieu, une description de ces conséquences.
+
 4. Les autres renseignements prescrits.
 
 ### Idem : affectation de travail exécutée
 
 (5) Dans les 24 heures qui suivent l’exécution par un travailleur d’une affectation de travail, l’exploitant lui remet par écrit les renseignements suivants :
+
 1. La somme réelle qui sera payée au travailleur pour le travail, une description du mode de calcul de cette somme et le moment auquel le paiement aura lieu.
+
 2. Le montant des pourboires ou autres gratifications perçus par l’exploitant à l’égard de l’affectation de travail, le montant du pourboire ou de l’autre gratification qui sera payé au travailleur et le moment auquel le paiement aura lieu.
+
 3. Les autres renseignements prescrits.
 
 ### Idem : évaluations du rendement
 
 (6) L’exploitant remet au travailleur des renseignements sur l’évaluation du rendement selon les modalités suivantes :
+
 1. Si au moins cinq évaluations du rendement d’un travailleur sont faites pour des affectations de travail au cours d’un jour civil, l’exploitant remet au travailleur l’évaluation du rendement moyenne pour le jour en question.
+
 2. Si moins de cinq évaluations du rendement du travailleur sont faites pour des affectations de travail au cours d’un jour civil donné, mais que cinq évaluations ou plus sont faites sur deux jours ou plus, y compris le jour civil donné, l’exploitant remet au travailleur la moyenne de toutes les évaluations de rendement faites les jours en question.
+
 3. L’exploitant fournit, s’il y a lieu, toutes les précisions sur l’évaluation visée à la disposition 1 ou 2, indique s’il y a des conséquences découlant de l’évaluation et, le cas échéant fournit une description de ces conséquences.
 
 ### Idem : remise des renseignements sur l’évaluation du rendement
@@ -150,7 +189,9 @@ b) l’affectation de travail du travailleur doit être exécutée en Ontario et
 ### Idem : limites prescrites
 
 (2) Pour l’application du paragraphe (1),
+
 a) une période de paie récurrente ne doit pas dépasser le nombre de jours prescrit, le cas échéant;
+
 b) un jour de paie récurrent ne doit pas être postérieur au nombre de jours prescrit, le cas échéant, suivant la fin de la période de paie.
 
 ### Droit à un salaire minimal
@@ -160,8 +201,11 @@ b) un jour de paie récurrent ne doit pas être postérieur au nombre de jours p
 ### Idem : établissement
 
 (2) Sauf disposition contraire des règlements, pour établir si le paragraphe (1) est observé, les règles suivantes s’appliquent :
+
 1. Le salaire minimum doit être versé pour chaque affectation de travail exécutée par un travailleur.
+
 2. Les pourboires ou autres gratifications versés à l’égard d’une affectation de travail ne doivent pas être pris en compte pour établir si le paragraphe (1) est observé.
+
 3. abrogée : 2024, chap. 3, annexe 1, par. 2 (3).
 
 ### Droit aux sommes gagnées et aux pourboires ou autres gratifications
@@ -179,7 +223,9 @@ b) un jour de paie récurrent ne doit pas être postérieur au nombre de jours p
 ### Droit à un préavis en cas de suppression d’accès
 
 11 (1) Il est interdit à l’exploitant de supprimer l’accès d’un travailleur à sa plateforme numérique, sauf si :
+
 a) il a remis au travailleur une explication par écrit de la raison pour laquelle l’accès à la plateforme numérique a été supprimé;
+
 b) dans le cas où l’accès est supprimé pendant une période 24 heures ou plus, il a donné au travailleur un préavis écrit de deux semaines de la suppression d’accès.
 
 ### Exception
@@ -193,13 +239,21 @@ b) dans le cas où l’accès est supprimé pendant une période 24 heures ou pl
 ### Droits : représailles
 
 13 (1) Il est interdit à l’exploitant, et à quiconque agit pour son compte, d’intimider ou de pénaliser un travailleur, ou de tenter ou de menacer de le faire :
+
 a) soit pour le motif que le travailleur, selon le cas :
+
 (i) demande à quiconque de se conformer à la présente loi,
+
 (ii) s’informe des droits que lui confère la présente loi,
+
 (iii) dépose une plainte auprès du ministère en vertu de la présente loi,
+
 (iv) exerce ou tente d’exercer un droit que lui confère la présente loi,
+
 (v) donne des renseignements à un agent de conformité,
+
 (vi) témoigne ou est tenu de témoigner dans une instance prévue par la présente loi, ou y participe ou y participera d’une autre façon;
+
 b) soit pour le motif que l’exploitant est ou peut être tenu, aux termes d’une ordonnance d’un tribunal ou d’une saisie-arrêt, de verser à un tiers la somme qu’il doit au travailleur.
 
 ### Fardeau de la preuve
@@ -215,11 +269,17 @@ b) soit pour le motif que l’exploitant est ou peut être tenu, aux termes d’
 ### Dossiers
 
 14 (1) L’exploitant consigne les renseignements suivants à l’égard de chaque travailleur qui accède à la plateforme numérique de l’exploitant afin d’accepter ou de refuser d’exécuter un travail sur plateforme numérique :
+
 1. Les nom et adresse du travailleur.
+
 2. Les éventuelles dates auxquelles le travailleur a eu accès à la plateforme numérique de l’exploitant afin d’exécuter un travail.
+
 3. Les éventuelles dates auxquelles l’accès du travailleur à la plateforme numérique d’un exploitant a été supprimé ou rétabli.
+
 4. Les dates auxquelles le travailleur a exécuté des affectations de travail et les heures auxquelles il a commencé et fini chaque affectation de travail.
+
 5. Les sommes payées au travailleur à l’égard d’une affectation de travail, les dates de paiement de ces sommes et une description des paiements, y compris les pourboires ou autres gratifications ou les autres sommes comprises dans le paiement.
+
 6. Les autres renseignements prescrits.
 
 ### Conservation des dossiers
@@ -235,6 +295,7 @@ b) soit pour le motif que l’exploitant est ou peut être tenu, aux termes d’
 ### Définition
 
 15 (1) La définition qui suit s’applique au présent article.
+
 «administrateur» S’entend d’un administrateur d’une personne morale et, en outre, d’un actionnaire qui est partie à une convention unanime des actionnaires.
 
 ### Application
@@ -252,16 +313,23 @@ b) soit pour le motif que l’exploitant est ou peut être tenu, aux termes d’
 ### Idem
 
 (5) Le présent article ne s’applique pas aux administrateurs de personnes morales qui réunissent les conditions suivantes :
+
 a) elles ont été constituées dans un autre territoire de compétence;
+
 b) leurs objets sont semblables à ceux des personnes morales auxquelles s’applique la Loi de 2010 sur les organisations sans but lucratif ou la Loi sur les sociétés coopératives ;
+
 c) leurs activités sont exercées sans but lucratif.
 
 ### Responsabilité des administrateurs à l’égard des sommes dues
 
 (6) Les administrateurs d’un exploitant sont conjointement et individuellement responsables à l’égard du versement des sommes dues aux travailleurs comme le prévoit le présent article si, selon le cas :
+
 a) l’exploitant est insolvable, le travailleur a fait déposer une réclamation d’une somme qui lui est due auprès du séquestre nommé par un tribunal à l’égard de l’exploitant ou auprès du syndic de faillite de l’exploitant et la réclamation n’a pas été réglée;
+
 b) un agent de conformité a pris une ordonnance portant que l’exploitant est responsable du versement d’une somme due à un travailleur, à moins que la somme fixée dans l’ordonnance n’ait été versée ou que l’exploitant n’ait demandé la révision de celle-ci;
+
 c) un agent de conformité a pris une ordonnance portant qu’un administrateur est responsable du versement d’une somme due au travailleur, à moins que la somme fixée dans l’ordonnance n’ait été versée ou que l’employeur ou l’administrateur n’ait demandé la révision de celle-ci;
+
 d) la Commission a rendu, modifié ou confirmé une ordonnance en vertu de l’article 45, laquelle, telle qu’elle a été rendue, modifiée ou confirmée, exige que l’exploitant ou les administrateurs versent une somme due, et la somme fixée dans l’ordonnance n’a pas été versée.
 
 ### L’exploitant est le premier responsable
@@ -291,7 +359,9 @@ d) la Commission a rendu, modifié ou confirmé une ordonnance en vertu de l’a
 ### Indemnisation des administrateurs
 
 (13) L’exploitant peut indemniser un administrateur, un ancien administrateur et leurs héritiers ou représentants successoraux pour les dépens, droits et frais, notamment une somme versée pour une ordonnance visée à la présente loi, engagés raisonnablement par l’administrateur relativement à une action ou instance civile ou administrative à laquelle il est partie en sa qualité d’administrateur ou d’ancien administrateur de l’exploitant si les conditions suivantes sont réunies :
+
 a) l’administrateur a agi honnêtement et de bonne foi au mieux des intérêts de l’exploitant;
+
 b) dans le cas d’une instance ou d’une action qui est exécutée au moyen d’une amende, l’administrateur avait des motifs raisonnables de croire que sa conduite était légale.
 
 ### Protection des recours civils
@@ -315,7 +385,9 @@ b) dans le cas d’une instance ou d’une action qui est exécutée au moyen d�
 ### Directeur suppléant
 
 (2) L’employé du ministère nommé directeur suppléant peut exercer les pouvoirs et les fonctions du directeur si, selon le cas :
+
 a) le directeur est absent ou incapable d’agir;
+
 b) le particulier qui a été nommé directeur a cessé d’occuper sa charge et aucun remplaçant n’a été nommé.
 
 ### Idem
@@ -341,7 +413,9 @@ b) le particulier qui a été nommé directeur a cessé d’occuper sa charge et
 ### Idem
 
 (2) Si le directeur décharge l’agent de conformité de l’enquête sur une plainte :
+
 a) d’une part, l’agent n’a plus aucun pouvoir ni fonction à l’égard de l’enquête ou de la découverte, pendant celle-ci, de tout droit éventuel semblable, lié à la plainte, d’un autre travailleur;
+
 b) d’autre part, le nouvel agent de conformité affecté à l’enquête peut s’appuyer sur les preuves que le premier agent a recueillies et sur les conclusions de fait qu’il a formulées.
 
 ### Inspections
@@ -401,10 +475,15 @@ b) d’autre part, le nouvel agent de conformité affecté à l’enquête peut 
 ### Pouvoirs de l’agent
 
 (6) L’agent de conformité qui fait une enquête ou une inspection peut :
+
 a) examiner des dossiers ou d’autres choses qui, à son avis, peuvent se rapporter à l’enquête ou à l’inspection;
+
 b) demander formellement la production de dossiers ou d’autres choses qui, à son avis, peuvent se rapporter à l’enquête ou à l’inspection;
+
 c) enlever, pour les examiner et en faire des copies, des dossiers ou d’autres choses qui, à son avis, peuvent se rapporter à l’enquête ou à l’inspection;
+
 d) afin de produire quelque document que ce soit sous une forme lisible, recourir aux dispositifs ou systèmes de stockage, de traitement ou de récupération des données qui sont utilisés habituellement pour exploiter une entreprise à cet endroit;
+
 e) interroger des personnes sur toute question qui, à son avis, peut se rapporter à l’enquête ou à l’inspection.
 
 ### Demande formelle par écrit
@@ -434,24 +513,35 @@ e) interroger des personnes sur toute question qui, à son avis, peut se rapport
 ### Avis
 
 (13) L’avis donné en application du paragraphe (11) doit préciser :
+
 a) la période visée par l’examen;
+
 b) la ou les dispositions de la présente loi ou des règlements visées par l’examen;
+
 c) la date limite à laquelle l’exploitant doit remettre un rapport sur les résultats de l’examen à l’agent de conformité.
 
 ### Idem
 
 (14) L’avis donné en application du paragraphe (11) peut préciser :
+
 a) la méthode à suivre pour effectuer l’examen;
+
 b) la forme du rapport;
+
 c) les renseignements à inclure dans le rapport de l’exploitant que l’agent de conformité estime appropriés.
 
 ### Idem
 
 (15) Sans préjudice de la portée générale de l’alinéa (14) c), l’avis donné en application du paragraphe (11) peut exiger que l’exploitant inclue dans le rapport qu’il remet à l’agent de conformité :
+
 a) une estimation indiquant s’il s’est conformé à la présente loi ou aux règlements;
+
 b) dans le cas où, en application de l’alinéa a), il a inclus une estimation indiquant qu’il ne s’est pas conformé à la présente loi ou aux règlements :
+
 (i) une estimation indiquant si des paiements sont dus à un ou plusieurs travailleurs,
+
 (ii) la description des mesures qu’il a prises ou qu’il prendra pour veiller à se conformer à la présente loi ou aux règlements;
+
 c) dans le cas où, en application du sous-alinéa b) (i), il a inclus une estimation selon laquelle un paiement est dû à un ou plusieurs travailleurs, les nom et adresse de chaque travailleur auquel un paiement est dû, le montant du paiement dû à chaque travailleur et une explication de la façon dont a été établi le montant du paiement dû à chaque travailleur.
 
 ### Entrave
@@ -461,7 +551,9 @@ c) dans le cas où, en application du sous-alinéa b) (i), il a inclus une estim
 ### Idem
 
 (17) Nul ne doit :
+
 a) refuser de répondre à des questions concernant des sujets qui, de l’avis de l’agent de conformité, peuvent se rapporter à une enquête ou à une inspection;
+
 b) fournir à l’agent de conformité des renseignements qu’il sait faux ou trompeurs sur des sujets qui, de l’avis de l’agent, peuvent se rapporter à une enquête ou à une inspection.
 
 ### Entrevue privée
@@ -471,8 +563,11 @@ b) fournir à l’agent de conformité des renseignements qu’il sait faux ou t
 ### Mandat
 
 23 (1) Un juge de paix peut décerner un mandat autorisant l’agent de conformité qui y est nommé à pénétrer dans les lieux qui y sont précisés et à exercer l’un ou l’autre des pouvoirs énoncés au paragraphe 22 (6), s’il est convaincu, sur la foi d’une dénonciation faite sous serment :
+
 a) soit que l’agent a été empêché d’exercer le droit de pénétrer dans les lieux prévu au paragraphe 22 (1) ou a été empêché d’exercer un pouvoir que lui confère le paragraphe 22 (6);
+
 b) soit qu’il existe des motifs raisonnables de croire que l’agent sera empêché d’exercer le droit de pénétrer dans les lieux prévu au paragraphe 22 (1) ou sera empêché d’exercer un pouvoir que lui confère le paragraphe 22 (6);
+
 c) soit qu’il existe des motifs raisonnables de croire qu’une infraction à la présente loi ou aux règlements a été ou est commise et que des renseignements ou d’autres preuves seront obtenus dans le cadre de l’exercice d’un pouvoir prévu au paragraphe 22 (6).
 
 ### Expiration du mandat
@@ -502,7 +597,9 @@ c) soit qu’il existe des motifs raisonnables de croire qu’une infraction à 
 ### Affichage des avis
 
 24 L’agent de conformité peut exiger que l’exploitant affiche et laisse affichés de la manière qu’il indique :
+
 a) soit les avis que l’agent estime appropriés relativement à l’application de la présente loi ou des règlements;
+
 b) soit une copie de tout ou partie du rapport de l’agent concernant les résultats de toute enquête ou inspection.
 
 ### Plaintes et application
@@ -534,8 +631,11 @@ b) soit une copie de tout ou partie du rapport de l’agent concernant les résu
 ### Application d’une convention collective
 
 28 (1) Si un exploitant est ou a été lié par une convention collective qui s’applique ou s’est appliquée à l’égard de l’exécution d’un travail sur plateforme numérique, la présente loi peut être appliquée contre l’exploitant comme si elle faisait partie de la convention collective à l’égard de toute prétendue contravention à la présente loi qui survient, selon le cas :
+
 a) pendant que la convention collective est ou était en vigueur;
+
 b) pendant que la convention collective est ou était prorogée en application du paragraphe 58 (2) de la Loi de 1995 sur les relations de travail ;
+
 c) pendant la période où le paragraphe 86 (1) de la Loi de 1995 sur les relations de travail interdit ou interdisait aux parties à la convention collective de modifier unilatéralement les conditions d’emploi.
 
 ### Plainte non autorisée
@@ -569,9 +669,13 @@ c) pendant la période où le paragraphe 86 (1) de la Loi de 1995 sur les relati
 ### Conditions relatives aux ordonnances
 
 (3) Les conditions suivantes s’appliquent à l’ordonnance que rend un arbitre en vertu du présent article :
+
 1. Si l’ordonnance exige le versement d’un paiement ou d’une indemnité, l’arbitre peut exiger que le montant du paiement ou de l’indemnité soit versé :
+
 i. soit au syndicat qui représente le ou les travailleurs concernés,
+
 ii. soit directement au travailleur ou aux travailleurs.
+
 2. L’ordonnance n’est pas susceptible d’une révision prévue à l’article 43.
 
 ### Copie de la décision au directeur
@@ -593,7 +697,9 @@ ii. soit directement au travailleur ou aux travailleurs.
 ### Contenu de l’avis
 
 (4) L’avis donné à la Commission :
+
 a) d’une part, indique qu’a été soulevée dans le cadre d’un arbitrage la question de savoir si l’exploitant et une autre personne doivent être considérés comme un seul exploitant en application de l’article 4;
+
 b) d’autre part, indique les décisions qu’a rendues l’arbitre sur les autres questions en litige.
 
 ### Décision de la Commission
@@ -615,15 +721,21 @@ b) d’autre part, indique les décisions qu’a rendues l’arbitre sur les aut
 ### Réunion
 
 31 (1) L’agent de conformité peut, sur préavis écrit d’au moins 15 jours, exiger, dans les cas suivants, que n’importe laquelle des personnes mentionnées au paragraphe (2) le rencontre :
+
 1. Il fait enquête sur une plainte déposée contre un exploitant.
+
 2. Dans le cadre d’une inspection prévue à l’article 22 ou 23, il en vient à avoir des motifs raisonnables de croire qu’un exploitant a contrevenu à la présente loi ou aux règlements à l’égard d’un travailleur.
+
 3. Il obtient des renseignements qui soulèvent la possibilité qu’un exploitant ait contrevenu à la présente loi ou aux règlements à l’égard d’un travailleur.
 
 ### Personnes présentes
 
 (2) N’importe laquelle des personnes suivantes peut être tenue d’assister à la réunion :
+
 1. Le travailleur.
+
 2. L’exploitant.
+
 3. Si l’exploitant est une personne morale, un de ses administrateurs ou employés.
 
 ### Préavis
@@ -657,12 +769,19 @@ b) d’autre part, indique les décisions qu’a rendues l’arbitre sur les aut
 ### Facteurs de décision si la personne ne se présente pas
 
 (10) Si la personne à laquelle a été signifié le préavis prévu au présent article ne se présente pas à la réunion ou n’apporte pas des dossiers ou d’autres documents ou ne les rend pas accessibles comme l’exige le préavis, l’agent peut établir si un exploitant a contrevenu ou contrevient à la présente loi en se fondant sur les facteurs suivants :
+
 1. Si l’exploitant ne s’est pas conformé au préavis :
+
 i. les preuves ou les observations présentées par l’exploitant, ou pour son compte, avant la réunion,
+
 ii. les preuves ou les observations présentées par le travailleur, ou pour son compte, avant la réunion ou pendant celle-ci.
+
 2. Si le travailleur ne s’est pas conformé au préavis :
+
 i. les preuves ou les observations présentées par le travailleur, ou pour son compte, avant la réunion,
+
 ii. les preuves ou les observations présentées par l’exploitant, ou pour son compte, avant la réunion ou pendant celle-ci.
+
 3. Les autres facteurs que l’agent estime pertinents.
 
 ### Représentant considéré comme l’exploitant
@@ -672,8 +791,11 @@ ii. les preuves ou les observations présentées par l’exploitant, ou pour son
 ### Délai de réponse
 
 32 (1) L’agent de conformité peut, dans l’une ou l’autre des circonstances suivantes et sur préavis, exiger qu’un travailleur ou un exploitant lui présente des preuves ou des observations dans le délai qu’il précise dans le préavis :
+
 1. Il fait enquête sur une plainte déposée contre un exploitant.
+
 2. Dans le cadre d’une inspection prévue à l’article 22 ou 23, il en vient à avoir des motifs raisonnables de croire qu’un exploitant a contrevenu à la présente loi ou aux règlements à l’égard d’un travailleur.
+
 3. Il obtient des renseignements qui soulèvent la possibilité qu’un exploitant ait contrevenu à la présente loi ou aux règlements à l’égard d’un travailleur.
 
 ### Signification du préavis
@@ -683,15 +805,21 @@ ii. les preuves ou les observations présentées par l’exploitant, ou pour son
 ### Facteurs de décision en l’absence de réponse
 
 (3) Si la personne à laquelle a été signifié le préavis prévu au présent article ne présente pas des preuves ou des observations comme l’exige le préavis, l’agent peut établir si l’exploitant a contrevenu ou contrevient à la présente loi en se fondant sur les facteurs suivants :
+
 1. Les preuves ou les observations présentées par l’exploitant ou le travailleur, ou pour son compte, avant signification du préavis.
+
 2. Les preuves ou les observations présentées par l’exploitant ou le travailleur, ou pour son compte, en réponse au préavis, dans le délai qui y est précisé.
+
 3. Les autres facteurs que l’agent estime pertinents.
 
 ### Ordonnance de paiement
 
 33 (1) L’agent de conformité qui conclut qu’un exploitant doit une somme à un travailleur peut, selon le cas :
+
 a) prendre des dispositions avec l’exploitant pour que celui-ci paie la somme due directement au travailleur;
+
 b) ordonner à l’exploitant de payer la somme due au travailleur;
+
 c) ordonner à l’exploitant de verser la somme due au directeur en fiducie.
 
 ### Frais d’administration
@@ -733,9 +861,13 @@ c) ordonner à l’exploitant de verser la somme due au directeur en fiducie.
 ### Conditions de l’ordonnance
 
 (2) Toute ordonnance prise en vertu du présent article qui exige qu’une personne indemnise un travailleur exige également que la personne :
+
 a) soit verse au directeur en fiducie les montants suivants :
+
 (i) le montant de l’indemnité,
+
 (ii) un montant au titre des frais d’administration égal au plus élevé de 100 $ ou de 10 % du montant de l’indemnité;
+
 b) soit verse le montant de l’indemnité au travailleur.
 
 ### Application des par. 33 (3) à (8)
@@ -781,8 +913,11 @@ b) soit verse le montant de l’indemnité au travailleur.
 ### Ordonnance supplémentaire : art. 15
 
 37 (1) L’agent de conformité peut ordonner à tous les administrateurs d’un exploitant qui n’ont pas fait l’objet d’une ordonnance prise en vertu de l’article 36 ou à certains d’entre eux de verser une somme due à un travailleur à l’égard de laquelle ils sont responsables en application de l’article 15, et il peut leur signifier l’ordonnance conformément à l’article 64, selon le cas :
+
 a) après qu’un agent de conformité a ordonné, en vertu de l’article 33, à l’exploitant de verser une somme due à un travailleur, mais que celle-ci n’a pas été versée et que l’exploitant n’a pas demandé la révision de l’ordonnance;
+
 b) après qu’un agent de conformité a pris une ordonnance contre des administrateurs en vertu du paragraphe 36 (1) ou (3), mais que la somme n’a pas été versée et que ni l’exploitant ni les administrateurs n’ont demandé la révision de l’ordonnance;
+
 c) après que la Commission a rendu, modifié ou confirmé une ordonnance en vertu de l’article 45, si l’ordonnance, telle qu’elle a été rendue, modifiée ou confirmée, exige que l’exploitant ou les administrateurs versent une somme due à un travailleur, et que la somme fixée dans l’ordonnance-ci n’a pas été versée.
 
 ### Versement au directeur
@@ -804,8 +939,11 @@ c) après que la Commission a rendu, modifié ou confirmé une ordonnance en ver
 ### Ordonnance de conformité
 
 39 (1) L’agent de conformité qui conclut qu’une personne a contrevenu à une disposition de la présente loi ou des règlements peut faire ce qui suit :
+
 a) lui ordonner de cesser d’y contrevenir;
+
 b) énoncer, par ordonnance, ce qu’elle doit faire ou s’abstenir de faire afin de s’y conformer;
+
 c) préciser le délai imparti pour ce faire.
 
 ### Versement non exigible
@@ -851,9 +989,13 @@ c) préciser le délai imparti pour ce faire.
 ### Transaction
 
 42 (1) Sous réserve du paragraphe (8), si un travailleur et un exploitant qui ont conclu une transaction à l’égard d’une contravention ou d’une prétendue contravention à la présente loi ou aux règlements informent un agent de conformité par écrit de ses dispositions et font ce qu’ils ont convenu de faire aux termes de celle-ci :
+
 a) la transaction lie les parties;
+
 b) toute plainte déposée par le travailleur à l’égard de la contravention ou de la prétendue contravention est réputée avoir été retirée;
+
 c) toute ordonnance portant sur la contravention ou la prétendue contravention est nulle;
+
 d) toute instance, autre qu’une poursuite, introduite à l’égard de la contravention ou de la prétendue contravention prend fin.
 
 ### Ordonnances de conformité
@@ -875,7 +1017,9 @@ d) toute instance, autre qu’une poursuite, introduite à l’égard de la cont
 ### Frais d’administration
 
 (6) Si la transaction touche une ordonnance de versement, le directeur a, malgré l’alinéa (1) c), droit au versement de ce qui suit :
+
 a) le pourcentage des frais d’administration à payer aux termes de l’ordonnance qui correspond au pourcentage que représente le montant du paiement ou de l’indemnité à verser aux termes de l’ordonnance auquel le travailleur a droit en application de la transaction;
+
 b) le pourcentage des honoraires et débours de l’agent de recouvrement ajoutés en application du paragraphe 50 (10) à la somme fixée dans l’ordonnance qui correspond au pourcentage que représente le montant du paiement ou de l’indemnité à verser aux termes de l’ordonnance auquel le travailleur a droit en application de la transaction.
 
 ### Restriction en matière de transaction
@@ -885,16 +1029,23 @@ b) le pourcentage des honoraires et débours de l’agent de recouvrement ajout�
 ### Requête en annulation d’une transaction
 
 (8) Si, sur requête à la Commission, le travailleur démontre qu’il a conclu la transaction par suite de fraude ou de coercition :
+
 a) la transaction est nulle;
+
 b) la plainte est réputée ne jamais avoir été retirée;
+
 c) toute ordonnance portant sur la contravention ou la prétendue contravention est rétablie;
+
 d) toute instance introduite à l’égard de la contravention ou de la prétendue contravention qui a pris fin est reprise.
 
 ### Révision
 
 43 (1) Toute personne contre qui une ordonnance a été prise en vertu de l’article 33, 34, 36, 37 ou 39 a le droit de la faire réviser par la Commission si elle fait ce qui suit dans le délai imparti au paragraphe (4) :
+
 a) elle demande par écrit à la Commission, par voie de requête, de procéder à une révision;
+
 b) dans le cas d’une ordonnance prise en vertu de l’article 33, elle verse au directeur, en fiducie, la somme due aux termes de l’ordonnance ou lui remet, au titre de cette somme, une lettre de crédit irrévocable qu’il estime acceptable,
+
 c) dans le cas d’une ordonnance prise en vertu de l’article 34, elle verse au directeur, en fiducie, la somme due aux termes de l’ordonnance, jusqu’à concurrence de 10 000 $, ou lui remet, au titre de cette somme, une lettre de crédit irrévocable qu’il estime acceptable.
 
 ### Révision d’une ordonnance demandée par le travailleur
@@ -912,7 +1063,9 @@ c) dans le cas d’une ordonnance prise en vertu de l’article 34, elle verse a
 ### Prorogation de délai
 
 (5) La Commission peut proroger le délai de présentation d’une demande de révision prévue au présent article si elle l’estime approprié dans les circonstances et que, dans le cas d’une demande prévue au paragraphe (1) :
+
 a) d’une part, elle s’est informée auprès du directeur pour savoir s’il a versé au travailleur le paiement ou l’indemnité qui faisait l’objet de l’ordonnance et est convaincue que le directeur ne l’a pas fait;
+
 b) d’autre part, elle s’est informée auprès du directeur pour savoir si les honoraires ou débours de l’agent de recouvrement ont été ajoutés, en application du paragraphe 50 (10), à la somme fixée dans l’ordonnance et, si tel est le cas, elle est convaincue que la personne contre qui l’ordonnance a été prise les a payés.
 
 ### Audience
@@ -922,12 +1075,19 @@ b) d’autre part, elle s’est informée auprès du directeur pour savoir si le
 ### Parties
 
 (7) Sont parties à la révision les personnes suivantes :
+
 1. L’auteur de la demande de révision d’une ordonnance.
+
 2. Si la personne contre qui une ordonnance a été prise demande la révision, le travailleur à l’égard duquel l’ordonnance a été prise.
+
 3. Si le travailleur demande la révision d’une ordonnance, la personne contre qui celle-ci a été prise.
+
 4. Si le travailleur demande la révision d’un refus de prendre une ordonnance en vertu de l’article 33, 34 ou 39, la personne contre qui l’ordonnance pourrait être prise.
+
 5. Si un des administrateurs d’une personne morale demande la révision, le requérant et chacun des autres administrateurs à qui a été signifiée l’ordonnance.
+
 6. Le directeur.
+
 7. Les autres personnes que précise la Commission.
 
 ### Pleine possibilité
@@ -941,13 +1101,17 @@ b) d’autre part, elle s’est informée auprès du directeur pour savoir si le
 ### Règles de pratique
 
 (10) Le président de la Commission peut établir des règles qui :
+
 a) d’une part, régissent la pratique et la procédure de la Commission ainsi que l’exercice de ses pouvoirs;
+
 b) d’autre part, prévoient des formulaires et leur emploi.
 
 ### Prise de décisions accélérée
 
 (11) Le président de la Commission peut établir des règles en vue d’accélérer la prise de décisions sur la compétence de la Commission, et ces règles peuvent :
+
 a) d’une part, prévoir que la Commission n’est pas obligée de tenir d’audience;
+
 b) d’autre part, malgré le paragraphe (8), limiter la mesure dans laquelle la Commission est tenue de donner aux parties la pleine possibilité de présenter leurs preuves et de faire valoir leurs arguments.
 
 ### Incompatibilité
@@ -997,7 +1161,9 @@ b) d’autre part, malgré le paragraphe (8), limiter la mesure dans laquelle la
 ### Décision relative à l’ordonnance
 
 (7) Sans préjudice de la portée générale du paragraphe (6), la Commission peut :
+
 a) dans le cadre de la révision d’une ordonnance, modifier, annuler ou confirmer l’ordonnance ou en rendre une nouvelle;
+
 b) dans le cadre de la révision d’un refus de prendre une ordonnance, rendre une ordonnance ou confirmer le refus.
 
 ### Agents des relations de travail
@@ -1011,7 +1177,9 @@ b) dans le cadre de la révision d’un refus de prendre une ordonnance, rendre 
 ### Versement d’un paiement ou d’une indemnité
 
 (10) Le paragraphe (11) s’applique si, au cours de la révision d’une ordonnance exigeant le versement d’une somme due ou d’une indemnité ou de la révision d’un refus de prendre une telle ordonnance :
+
 a) soit la Commission conclut qu’une somme ou indemnité, dont le montant est précisé, est due;
+
 b) soit il n’est pas contesté qu’une somme ou indemnité, dont le montant est précisé, est due.
 
 ### Ordonnance provisoire
@@ -1033,7 +1201,9 @@ b) soit il n’est pas contesté qu’une somme ou indemnité, dont le montant e
 ### Aucun obstacle à la transaction
 
 (2) Une transaction peut être conclue en vertu du présent article même si, selon le cas :
+
 a) l’agent de conformité qui a pris ou refusé de prendre l’ordonnance ne participe pas aux discussions relatives à la transaction ou n’est pas avisé des discussions ou de la transaction;
+
 b) la révision prévue à l’article 43 a débuté.
 
 ### Ordonnances de conformité
@@ -1043,23 +1213,33 @@ b) la révision prévue à l’article 43 a débuté.
 ### Effet de la transaction
 
 (4) Si les parties à la transaction conclue en vertu du présent article font ce qu’elles ont convenu de faire aux termes de celle-ci :
+
 a) la transaction lie les parties;
+
 b) si la révision concerne une ordonnance, celle-ci est nulle;
+
 c) la révision prend fin.
 
 ### Requête en annulation d’une transaction
 
 (5) Si, sur requête à la Commission, le travailleur démontre qu’il a conclu la transaction par suite de fraude ou de coercition :
+
 a) la transaction est nulle;
+
 b) si la révision concerne une ordonnance, celle-ci est rétablie;
+
 c) la révision est reprise.
 
 ### Répartition
 
 (6) Si l’ordonnance visée par la demande exigeait le versement d’une somme au directeur en fiducie, celui-ci :
+
 a) d’une part, répartit la somme détenue en fiducie à l’égard d’un paiement ou d’une indemnité conformément à la transaction;
+
 b) d’autre part, malgré l’alinéa (4) b), a droit à ce qui suit :
+
 (i) le pourcentage des frais d’administration prévus par l’ordonnance qui correspond au pourcentage que représente le montant du paiement ou de l’indemnité auquel le travailleur a droit en application de la transaction,
+
 (ii) le pourcentage des honoraires et débours de l’agent de recouvrement ajoutés en application du paragraphe 50 (10) à la somme fixée dans l’ordonnance qui correspond au pourcentage que représente le montant du paiement ou l’indemnité auquel le travailleur a droit en application de la transaction.
 
 ### Avis de contravention
@@ -1085,7 +1265,9 @@ b) d’autre part, malgré l’alinéa (4) b), a droit à ce qui suit :
 ### Personne réputée en contravention
 
 (6) La personne est réputée avoir contrevenu à la disposition citée dans l’avis si, selon le cas :
+
 a) elle ne demande pas à la Commission de réviser l’avis dans le délai imparti au paragraphe 48 (1);
+
 b) elle demande une révision de l’avis à la Commission et celle-ci conclut qu’elle a contrevenu à la disposition qui y est citée.
 
 ### Pénalité
@@ -1123,7 +1305,9 @@ b) elle demande une révision de l’avis à la Commission et celle-ci conclut q
 ### Révision de l’avis de contravention
 
 48 (1) La personne visée par un avis de contravention délivré en vertu de l’article 47 peut contester l’avis si elle demande par écrit à la Commission, par voie de requête, de procéder à une révision :
+
 a) soit dans les 30 jours qui suivent la date de signification de l’avis;
+
 b) soit dans le délai que précise la Commission, si elle estime approprié dans les circonstances de proroger le délai de présentation de la demande.
 
 ### Audience
@@ -1141,14 +1325,19 @@ b) soit dans le délai que précise la Commission, si elle estime approprié dan
 ### Décision
 
 (5) La Commission peut, selon le cas :
+
 a) conclure que la personne n’a pas contrevenu à la disposition et annuler l’avis;
+
 b) conclure que la personne a contrevenu à la disposition et confirmer l’avis;
+
 c) conclure que la personne a contrevenu à la disposition, mais modifier l’avis en réduisant la pénalité.
 
 ### Honoraires et débours de l’agent de recouvrement
 
 (6) Si elle conclut que la personne a contrevenu à la disposition et si elle a prorogé le délai de présentation de la demande de révision en application de l’alinéa (1) b), la Commission fait ce qui suit :
+
 a) avant de rendre sa décision, elle s’informe auprès du directeur pour savoir si les honoraires et débours de l’agent de recouvrement ont été ajoutés, en application du paragraphe 50 (10), à la somme fixée dans l’avis;
+
 b) s’ils ont été ajoutés à cette somme, elle avise la personne de ce fait et de la somme totale, y compris les honoraires et débours de l’agent de recouvrement, lorsqu’elle rend sa décision.
 
 ### Pleine possibilité donnée aux parties
@@ -1162,7 +1351,9 @@ b) s’ils ont été ajoutés à cette somme, elle avise la personne de ce fait 
 ### Règles
 
 (9) Le président de la Commission peut établir, à l’égard des révisions prévues au présent article, des règles qui :
+
 a) régissent la pratique et la procédure de la Commission ainsi que l’exercice de ses pouvoirs;
+
 b) prévoient des formulaires et leur emploi.
 
 ### Incompatibilité avec la Loi sur l’exercice des compétences légales
@@ -1260,10 +1451,15 @@ b) prévoient des formulaires et leur emploi.
 ### Infraction générale
 
 52 Quiconque contrevient à la présente loi ou aux règlements ou ne se conforme pas à une ordonnance rendue ou prise, à une directive donnée ou à une autre exigence imposée en vertu de la présente loi ou des règlements est coupable d’une infraction et passible, sur déclaration de culpabilité, des peines suivantes :
+
 a) dans le cas d’un particulier, une amende maximale de 50 000 $ et un emprisonnement maximal de 12 mois, ou une seule de ces peines;
+
 b) sous réserve de l’alinéa c), dans le cas d’une personne morale, une amende maximale de 100 000 $;
+
 c) dans le cas d’une personne morale qui a déjà été déclarée coupable d’une infraction à la présente loi :
+
 (i) si elle a déjà été déclarée coupable d’une seule infraction, une amende maximale de 250 000 $,
+
 (ii) si elle a déjà été déclarée coupable de plusieurs infractions, une amende maximale de 500 000 $.
 
 ### Ordonnances supplémentaires
@@ -1273,14 +1469,19 @@ c) dans le cas d’une personne morale qui a déjà été déclarée coupable d�
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), l’ordonnance rendue par le tribunal peut exiger que soient prises une ou plusieurs des mesures suivantes :
+
 1. Le versement à une personne d’une somme qui lui est due.
+
 2. Le rétablissement de l’accès d’une personne à la plateforme numérique de l’exploitant.
+
 3. L’indemnisation d’une personne pour toute perte qu’elle a subie par suite de la contravention.
 
 ### Infraction : ordonnance visant le rétablissement de l’accès
 
 54 Quiconque ne se conforme pas à une ordonnance rendue en application de l’article 53 est coupable d’une infraction et passible, sur déclaration de culpabilité :
+
 a) dans le cas d’un particulier, d’une amende maximale de 2 000 $ pour chaque jour pendant lequel l’inobservation persiste et d’un emprisonnement maximal de six mois, ou d’une seule de ces peines;
+
 b) dans le cas d’une personne morale, d’une amende maximale de 4 000 $ pour chaque jour pendant lequel l’inobservation persiste.
 
 ### Ordonnances supplémentaires : autres contraventions
@@ -1298,7 +1499,9 @@ b) dans le cas d’une personne morale, d’une amende maximale de 4 000 $ pour 
 ### Infraction : responsabilité des administrateurs
 
 56 (1) Un administrateur d’une personne morale est coupable d’une infraction si, selon le cas :
+
 a) il ne se conforme pas à une ordonnance prise par un agent de conformité en vertu de l’article 36 ou 37, dont il n’a pas demandé la révision;
+
 b) il ne se conforme pas à une ordonnance prise en vertu de l’article 36 ou 37 que la Commission a modifiée ou confirmée à la suite d’une révision effectuée en vertu de l’article 43 ou il ne se conforme pas à une nouvelle ordonnance rendue par la Commission à la suite d’une telle révision.
 
 ### Pénalité
@@ -1370,9 +1573,13 @@ b) il ne se conforme pas à une ordonnance prise en vertu de l’article 36 ou 3
 ### Idem : agent de recouvrement
 
 (4) Dans une poursuite ou autre instance prévue par la présente loi, l’attestation présentée par un agent de recouvrement qui semble être signée par le directeur et qui atteste l’un ou l’autre des faits suivants fait preuve du fait sans autre preuve :
+
 1. Le directeur a autorisé l’agent de recouvrement à recouvrer des sommes qui sont dues en application de la présente loi.
+
 2. Le directeur a autorisé l’agent de recouvrement à percevoir des honoraires raisonnables et des débours raisonnables, ou une seule de ces sommes.
+
 3. Le directeur a assorti l’autorisation visée à la disposition 2 de conditions ou ne l’a pas fait et a établi ce qui constitue des honoraires raisonnables ou des débours raisonnables ou ne l’a pas fait.
+
 4. Les conditions dont le directeur a assorti l’autorisation visée à la disposition 2.
 
 ### Idem : date de la plainte
@@ -1384,8 +1591,11 @@ b) il ne se conforme pas à une ordonnance prise en vertu de l’article 36 ou 3
 ### Prescription
 
 62 (1) L’agent de conformité ne doit pas prendre d’ordonnance de versement d’une somme due ou d’une indemnité ni délivrer un avis de contravention à l’égard d’une contravention à la présente loi qui concerne un travailleur :
+
 a) si le travailleur a déposé une plainte au sujet de la contravention, plus de deux ans après le dépôt de celle-ci;
+
 b) si le travailleur n’a pas déposé de plainte, mais qu’un autre travailleur avec le même exploitant l’a fait, plus de deux ans après que l’autre travailleur a déposé sa plainte si l’agent a découvert la contravention concernant le travailleur dans le cadre de son enquête sur la plainte;
+
 c) si le travailleur n’a pas déposé de plainte et que l’alinéa b) ne s’applique pas, plus de deux ans après qu’un agent de conformité a commencé une inspection à l’égard de l’exploitant pour déterminer s’il y a eu contravention.
 
 ### Restriction : annulation ou modification
@@ -1399,8 +1609,11 @@ c) si le travailleur n’a pas déposé de plainte et que l’alinéa b) ne s’
 ### Non-contraignabilité des personnes liées à la Commission
 
 63 (1) Sauf si la Commission y consent, aucune des personnes suivantes ne peut être contrainte à témoigner dans une instance civile ou une instance dont est saisi la Commission, une autre commission ou tout autre tribunal administratif en ce qui concerne des renseignements qu’elles ont obtenus en exerçant les pouvoirs ou en s’acquittant des obligations que leur confère ou leur impose la présente loi :
+
 1. Un membre de la Commission.
+
 2. Le greffier de la Commission.
+
 3. Un employé de la Commission.
 
 ### Non-divulgation
@@ -1418,21 +1631,37 @@ c) si le travailleur n’a pas déposé de plainte et que l’alinéa b) ne s’
 ### Règlements
 
 66 (1) Le lieutenant-gouverneur en conseil peut prendre des règlements pour l’application de la présente loi. Il peut notamment, par règlement :
+
 a) prescrire tout ce qui est mentionné dans la présente loi comme étant prescrit et traiter de toute question que la présente loi mentionne comme étant prévue par les règlements ou qui doit être traitée conformément aux règlements;
+
 b) définir des mots ou expressions utilisés dans la présente loi, mais qui n’y sont pas définis;
+
 c) clarifier les définitions de «exploitant», «plateforme numérique», «travail sur plateforme numérique» et «travailleur» pour l’application de la présente loi;
+
 d) prescrire ce qui constitue une affectation de travail;
+
 d.1) prescrire un nombre de jours pour l’application de l’alinéa 8 (2) a) ou 8 (2) b);
+
 d.2) prescrire des règles pour établir si le paragraphe 9 (1) est observé, notamment en prévoyant que le salaire minimum peut être payé autrement qu’en fonction de chaque affectation de travail;
+
 e) prévoir que la présente loi ou une disposition de la présente loi ou d’un règlement ne s’applique pas à un travailleur ou un exploitant ou à une catégorie de travailleurs ou d’exploitants, ou dans des circonstances précisées;
+
 f) régir les pénalités applicables aux contraventions pour l’application du paragraphe 47 (2), notamment :
+
 (i) fixer des pénalités ou fourchettes de pénalités différentes selon le type de contravention ou prévoir le mode d’établissement de ces pénalités ou fourchettes,
+
 (ii) préciser que des pénalités, fourchettes de pénalités ou modes d’établissement de la pénalité ou de la fourchette différents s’appliquent selon que les contrevenants sont des particuliers ou des personnes morales,
+
 (iii) prescrire les critères dont l’agent de conformité doit ou peut tenir compte lorsqu’il impose une pénalité;
+
 g) régir le recouvrement de sommes pour l’application de l’article 50 et prescrire les pouvoirs de recouvrement pour l’application de cet article, y compris les transactions conclues par les agents de recouvrement et les circonstances dans lesquelles l’approbation de ces transactions par le directeur est nécessaire;
+
 h) prescrire une ou plusieurs conditions qui s’appliquent aux exploitants et aux travailleurs effectuant un travail sur plateforme numérique précisé ou une ou plusieurs exigences ou interdictions qui s’appliquent à de tels exploitants et travailleurs;
+
 i) prévoir que les conditions, exigences ou interdictions prescrites en application de l’alinéa h) remplacent une ou plusieurs dispositions de la présente loi ou des règlements ou s’y ajoutent;
+
 j) prévoir que les règlements pris en vertu de l’alinéa h) ou i) s’appliquent seulement à l’égard des exploitants et des travailleurs ayant les caractéristiques que précisent les règlements;
+
 k) traiter de toute question jugée utile ou nécessaire pour réaliser efficacement l’objet de la présente loi.
 
 ### Catégories
@@ -1454,5 +1683,7 @@ k) traiter de toute question jugée utile ou nécessaire pour réaliser efficace
 ### Incompatibilité avec les règlements transitoires
 
 (6) En cas d’incompatibilité, les règlements pris en vertu du paragraphe (5) l’emportent sur la présente loi ou les règlements.
+
 67 Omis (entrée en vigueur de dispositions de la présente loi).
+
 68 Omis (édiction du titre abrégé de la présente loi).

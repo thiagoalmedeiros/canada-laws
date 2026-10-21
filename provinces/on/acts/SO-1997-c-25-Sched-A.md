@@ -6,47 +6,72 @@ language: en
 type: act
 document_date: "2025-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o25a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Works Act, 1997
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o25a) before relying on it.
 
 S.O. 1997, c. 25, Sched. A
 
 ### Purpose of Act
 
 1 The purpose of this Act is to establish a program that,
+
 (a) recognizes individual responsibility and promotes self reliance through employment;
+
 (b) provides temporary financial assistance to those most in need while they satisfy obligations to become and stay employed;
+
 (c) effectively serves people needing assistance; and
+
 (d) is accountable to the taxpayers of Ontario.
 
 ### Definitions
 
 2 In this Act,
+
 “administrator” means an administrator for a geographic area appointed under section 43; (“administrateur”)
+
 “applicant” means a person who applies for basic financial assistance or on whose behalf such an application is made; (“auteur de demande”)
+
 “assistance” means employment assistance and basic financial assistance; (“aide”)
+
 “basic financial assistance” means assistance under section 5; (“aide financière de base”)
+
 “benefit unit” means a person and all of his or her dependants on behalf of whom the person applies for or receives basic financial assistance; (“groupe de prestataires”)
+
 “benefits” means the prescribed items, services or payments; (“prestations”)
+
 “biometric information” means information derived from an individual’s unique characteristics but does not include a photographic or signature image; (“renseignements biométriques”)
+
 “community participation” includes participation in community activities that contribute to the betterment of the community; (“participation communautaire”)
+
 “delivery agent”, for a geographic area, means the delivery agent designated by the Minister to administer this Act and provide assistance in that area; (“agent de prestation des services”)
+
 “Director” means the Director of Ontario Works appointed by the Minister; (“directeur”)
+
 “district social services administration board” means a board established under the District Social Services Administration Boards Act; (“conseil d’administration de district des services sociaux”)
+
 “emergency assistance” means assistance provided to help with basic needs and shelter on an emergency basis; (“aide en cas d’urgence”)
+
 “employment assistance” means assistance under section 4; (“aide à l’emploi”)
+
 “employment measures” includes job search, job search support services, referral to basic education and job specific skills training, and employment placement; (“mesures d’emploi”)
+
 “income assistance” means assistance provided for purposes of basic needs and shelter; (“aide au revenu”)
+
 “Minister” and “Ministry” mean the Minister and Ministry of Community and Social Services; (“ministre”, “ministère”)
+
 “personal information” means personal information as defined in the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
 “prescribed” means prescribed by the regulations made under this Act; (“prescrit”)
+
 “recipient” means a person to whom basic financial assistance is provided; (“bénéficiaire”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “Tribunal” means the Social Benefits Tribunal established under section 60. (“Tribunal”)
 
 ## PART I ELIGIBILITY FOR AND PROVISION OF ASSISTANCE
@@ -58,21 +83,29 @@ S.O. 1997, c. 25, Sched. A
 ### Employment assistance
 
 4 Employment assistance is assistance to help a person to become and stay employed and includes,
+
 (a) community participation; and
+
 (b) other employment measures, as prescribed.
 
 ### Basic financial assistance
 
 5 Basic financial assistance includes,
+
 (a) income assistance provided for purposes of basic needs and shelter;
+
 (b) benefits; and
+
 (c) emergency assistance.
 
 ### Who receives employment assistance
 
 6 Employment assistance may be provided for,
+
 (a) a recipient or a dependant;
+
 (b) a person eligible to receive income support under the Ontario Disability Support Program Act, 1997 or a dependant; and
+
 (c) members of a prescribed class of persons.
 
 ### Who receives income assistance
@@ -86,27 +119,41 @@ S.O. 1997, c. 25, Sched. A
 ### Eligibility for income assistance
 
 (3) No person is eligible for income assistance unless,
+
 (a) the person is resident in Ontario;
+
 (b) the budgetary requirements of the person and any dependants exceed their income and their assets do not exceed the prescribed limits, as provided for in the regulations;
+
 (c) the person and the prescribed dependants provide the information and the verification of information required to determine eligibility including,
+
 (i) personal identification information, as prescribed,
+
 (ii) financial information, as prescribed, and
+
 (iii) any other prescribed information; and
+
 (d) the person and the person’s dependants meet any other prescribed conditions relating to eligibility.
 
 ### Same
 
 (4) A recipient and any prescribed dependants may be required as a condition of eligibility for basic financial assistance to,
+
 (a) satisfy community participation requirements;
+
 (b) participate in employment measures;
+
 (c) accept and undertake basic education and job specific skills training; and
+
 (d) accept and maintain employment.
 
 ### Who receives benefits
 
 8 Benefits may be provided for,
+
 (a) a recipient or a dependant;
+
 (b) a person eligible to receive income support under the Ontario Disability Support Program Act, 1997 or a dependant; and
+
 (c) members of the prescribed classes of persons.
 
 ### Who receives emergency assistance
@@ -116,16 +163,23 @@ S.O. 1997, c. 25, Sched. A
 ### Temporary care assistance
 
 10 The administrator shall provide income assistance and benefits in accordance with the regulations to an adult on behalf of a child if,
+
 (a) the child is in the temporary care of the adult;
+
 (b) the child is in financial need;
+
 (c) the child is not a dependant under this Act or the Ontario Disability Support Program Act, 1997;
+
 (d) the adult does not have a legal obligation to support the child, as prescribed;
+
 (e) the child is not receiving residential care by a person who receives compensation for caring for the child under the Child, Youth and Family Services Act, 2017; and
+
 (f) the adult and the child meet any other prescribed conditions of eligibility.
 
 ### Assistance in exceptional circumstances
 
 11 In cases presenting exceptional circumstances and in which investigation shows the advisability of assistance being provided to a person who is not eligible for it, the Lieutenant Governor in Council may by order direct that assistance be provided to the person in accordance with the terms of the order.
+
 12 Repealed: 2009, c. 33, Sched. 8, s. 5 (1).
 
 ### Agreement to reimburse and assignment
@@ -139,15 +193,21 @@ S.O. 1997, c. 25, Sched. A
 ### Same
 
 (3) This section does not apply to,
+
 (a) a payment that would be exempt as income or assets under this Act or the regulations; or
+
 (b) that portion of employment earnings, pension income or other prescribed income that is paid with respect to a period after the period during which the person receives assistance.
 
 ### Failure to comply
 
 14 (1) If an applicant, recipient or dependant fails to comply with or meet a condition of eligibility in this Act or the regulations, the administrator shall, as prescribed:
+
 1. Refuse to grant assistance.
+
 2. Declare the person ineligible for assistance for the prescribed period.
+
 3. Reduce or cancel assistance or that part of it provided for the benefit of the person who has failed to comply.
+
 4. Suspend assistance or suspend that part of it provided for the benefit of the person who has failed to comply.
 
 ### Reinstatement
@@ -213,8 +273,11 @@ S.O. 1997, c. 25, Sched. A
 ### Recovery of overpayments from other programs
 
 (3) An overpayment enforceable against a recipient or the recipient’s spouse under the Ontario Disability Support Program Act, 1997, the Family Benefits Act or the General Welfare Assistance Act is recoverable under this Act even though the overpayment was made by,
+
 (a) the Director under the Ontario Disability Support Program Act, 1997;
+
 (b) a welfare administrator under the General Welfare Assistance Act; or
+
 (c) the Director under the Family Benefits Act.
 
 ### Methods of recovery
@@ -236,8 +299,11 @@ S.O. 1997, c. 25, Sched. A
 ### Effect of notice
 
 (2) A decision determining that an overpayment exists shall be final and enforceable against the recipient as if it were an order of the Superior Court of Justice if,
+
 (a) notice of it has been given under subsection (1);
+
 (b) the time for commencing an appeal to the Tribunal has expired; and
+
 (c) no appeal has been commenced.
 
 ### Effect of appeal
@@ -259,19 +325,25 @@ S.O. 1997, c. 25, Sched. A
 ### Method of recovery, debt due to the Crown
 
 22.1 The Crown in right of Ontario may recover an overpayment that is a debt due to the Crown or that has been deemed or declared to be a debt due to the Crown by any remedy or procedure that is available to the Crown by law if the administrator has given a recipient a notice in writing under section 21 and,
+
 (a) the time for commencing an appeal to the Tribunal has expired and no appeal has been commenced; or
+
 (b) the decision is appealed and an overpayment is determined by the decision of the Tribunal.
 
 ### No attachment, etc., of basic financial assistance
 
 23 (1) Basic financial assistance,
+
 (a) is not subject to alienation or transfer by the recipient; and
+
 (b) is not subject to garnishment, attachment, execution, seizure or receivership under any other Act.
 
 ### Deduction re money owed for family support, etc.
 
 (2) Despite subsection (1), an administrator may deduct a portion of basic financial assistance to recover,
+
 (a) the amount of a support deduction order that is enforceable against a member of the benefit unit under section 20 of the Family Responsibility and Support Arrears Enforcement Act, 1996; or
+
 (b) the prescribed government debts owed by a member of the benefit unit.
 
 ### Maximum amount deducted
@@ -303,7 +375,9 @@ S.O. 1997, c. 25, Sched. A
 ### Same
 
 (3) An administrator’s decision that may be appealed is final,
+
 (a) when the prescribed time for requesting an internal review expires, if no internal review is requested within that time; or
+
 (b) on the earliest of the day the prescribed time for completing the internal review expires, the day the results of the completed internal review are received and the day the results of the completed internal review are deemed to be received under section 68, if an internal review has been requested.
 
 ### Decisions which may be appealed
@@ -313,13 +387,21 @@ S.O. 1997, c. 25, Sched. A
 ### Exceptions
 
 (2) No appeal lies to the Tribunal with respect to the following matters:
+
 1. A decision with respect to employment assistance that does not affect eligibility for or the amount of income assistance or a mandatory benefit.
+
 2. A decision respecting discretionary benefits.
+
 3. A decision of the Lieutenant Governor in Council respecting assistance in exceptional circumstances.
+
 4. A decision to provide a portion of basic financial assistance directly to a third party.
+
 5. A decision made under subsection 17 (2) to appoint a person to act on behalf of a recipient.
+
 6. A variation, refusal or cancellation of assistance caused by an amendment to this Act or the regulations.
+
 7. A decision respecting emergency assistance.
+
 8. A prescribed decision.
 
 ### Internal review before appeal
@@ -401,9 +483,13 @@ S.O. 1997, c. 25, Sched. A
 ### Order of Tribunal
 
 31 (1) In an appeal to the Tribunal, the Tribunal may,
+
 (a) deny the appeal;
+
 (b) grant the appeal;
+
 (c) grant the appeal in part; or
+
 (d) refer the matter back to the administrator for reconsideration in accordance with any directions the Tribunal considers proper.
 
 ### Reasons
@@ -429,8 +515,11 @@ S.O. 1997, c. 25, Sched. A
 ### Appeal denied
 
 34 (1) An appeal to the Tribunal shall be denied if,
+
 (a) the person appealing fails, without reasonable cause, to file the information required for the appeal within the required time;
+
 (b) in the case of a hearing held in person, the person appealing fails, without reasonable cause, to attend the hearing at the time and place fixed for it;
+
 (c) in the case of a hearing held by telephone, video conference or some other means, the person appealing fails, without reasonable cause, to be available to be contacted for the purpose of the hearing.
 
 ### Limitation on subsequent appeal
@@ -460,9 +549,13 @@ S.O. 1997, c. 25, Sched. A
 ### Powers of Court on appeal
 
 (5) In an appeal to the Court of a decision of the Tribunal, the Court may,
+
 (a) deny the appeal;
+
 (b) grant the appeal;
+
 (c) grant the appeal in part; or
+
 (d) refer the matter back to the Tribunal or the administrator for reconsideration in accordance with any directions the Court considers proper.
 
 ### Same
@@ -530,10 +623,15 @@ S.O. 1997, c. 25, Sched. A
 ### Powers and duties of administrator
 
 44 Each administrator shall carry out the following duties:
+
 1. Receive applications for basic financial assistance from persons residing in his or her geographic area.
+
 2. Determine the eligibility of each applicant for basic financial assistance.
+
 3. If an applicant is found eligible for basic financial assistance, determine the amount of the assistance and direct its provision.
+
 4. Determine eligibility for employment assistance and direct its provision.
+
 5. Carry out the prescribed duties.
 
 ### Contracting authority, delivery agent
@@ -571,10 +669,15 @@ S.O. 1997, c. 25, Sched. A
 ### Director’s powers and duties
 
 48 (1) The Director shall,
+
 (a) supervise the administration of this Act and the provision of assistance by delivery agents, including setting and monitoring delivery standards;
+
 (b) audit the costs of each delivery agent in administering this Act and providing assistance;
+
 (c) determine how the payment of the costs of administering this Act and providing assistance is to be allocated;
+
 (d) ensure that the appropriate payments are made or withheld, as the case may be; and
+
 (e) exercise the prescribed powers and duties.
 
 ### Contracting authority, Director
@@ -608,8 +711,11 @@ S.O. 1997, c. 25, Sched. A
 ### Director to supervise
 
 (7) If there is an agreement under this section, the Director shall,
+
 (a) supervise the band’s or person’s administration of this Act and of the provision of assistance and shall audit its costs in administering this Act and providing assistance;
+
 (b) ensure that the appropriate payments are made to the band or person or withheld from it, as the case may be, in accordance with this Act and the regulations; and
+
 (c) supervise compliance with any requirements regarding the collection, use, disclosure and safeguarding of the privacy of personal information.
 
 ### Delivery partners designated
@@ -651,13 +757,17 @@ S.O. 1997, c. 25, Sched. A
 ### Payments to delivery agents
 
 52 (1) With respect to geographic areas in which the Ministry is not the delivery agent, the Minister shall pay to every delivery agent,
+
 (a) an amount determined in accordance with the regulations for Ontario’s share of the delivery agent’s costs incurred under this Act; and
+
 (b) if there is territory without municipal organization in the delivery agent’s geographic area, the amount determined in accordance with the regulations for that territory’s share of the delivery agent’s costs incurred under this Act.
 
 ### Payments to delivery partner
 
 (1.1) With respect to geographic areas in which the Ministry is the delivery agent, the Minister shall pay to every delivery partner,
+
 (a) an amount determined in accordance with the regulations for Ontario’s share of the delivery partner’s costs incurred under this Act; and
+
 (b) if there is a territory without municipal organization in the delivery partner’s geographic area, the amount determined in accordance with the regulations for that territory’s share of the delivery partner’s costs incurred under this Act.
 
 ### Payments to bands, persons
@@ -801,12 +911,15 @@ S.O. 1997, c. 25, Sched. A
 ### Prior consideration, communication
 
 (2) Subject to subsection (3), members of the Tribunal holding a hearing,
+
 (a) shall not have taken part in any investigation or consideration of the subject-matter of the hearing before the hearing; and
+
 (b) shall not communicate directly or indirectly in relation to the subject-matter of the hearing with a person except upon notice to and opportunity for all parties to participate.
 
 ### Advice to the Tribunal
 
 (3) The Tribunal may seek legal advice from an adviser independent from the parties, and members of the Tribunal may at any time consult with other members of the Tribunal.
+
 (4) Repealed: 2024, c. 28, Sched. 25, s. 8.
 
 ### Financial hardship
@@ -820,7 +933,9 @@ S.O. 1997, c. 25, Sched. A
 ### Same
 
 (2) The Tribunal shall not inquire into or make a decision concerning,
+
 (a) the constitutional validity of a provision of an Act or a regulation; or
+
 (b) the legislative authority for a regulation made under an Act.
 
 ## PART V GENERAL
@@ -848,9 +963,13 @@ S.O. 1997, c. 25, Sched. A
 ### Same
 
 (3) A claim under this section shall not exceed the total of,
+
 (a) the costs incurred as a result of the loss for past assistance provided to the person;
+
 (b) the costs likely to be incurred as a result of that loss for future assistance;
+
 (c) the costs incurred as a result of that loss for social assistance provided under the General Welfare Assistance Act, the Family Benefits Act or the Ontario Disability Support Program Act, 1997, or assistance under the Vocational Rehabilitation Services Act by the person responsible in each case for administering that Act; and
+
 (d) the costs incurred as a result of that loss under a prescribed statute.
 
 ### Same
@@ -860,18 +979,27 @@ S.O. 1997, c. 25, Sched. A
 ### Agreement with other jurisdictions
 
 71 (1) The Minister may enter into an agreement with respect to the collection, use and disclosure of information with the following:
+
 1. The Government of Canada or a department, ministry or agency of it.
+
 2. The government of a province or territory in Canada or a department, ministry or agency of it.
+
 3. The government of the United States or the government of a state of the United States or a department or agency of either.
+
 4. A body that is an institution under the Freedom of Information and Protection of Privacy Act or under the Municipal Freedom of Information and Protection of Privacy Act.
+
 5. The government of another country or a department or agency of it.
+
 6. Other prescribed bodies.
 
 ### Disclosure of personal information
 
 (2) The Minister may disclose to a government or body referred to in subsection (1) personal information referred to in subsection (4) if,
+
 (a) the disclosure is made in accordance with the agreement;
+
 (b) the government or body administers or enforces a social benefit program or is conducting research related to a social benefit program or the information relates to the administration or enforcement of or research relating to the Income Tax Act, the Taxation Act, 2007, the Income Tax Act (Canada), the Immigration and Refugee Protection Act (Canada), or the prescribed Acts; and
+
 (c) the government or body agrees to use the information only for the purpose of administering or enforcing a social benefit program or conducting research related to a social benefit program, the Income Tax Act, the Taxation Act, 2007, the Income Tax Act (Canada), the Immigration and Refugee Protection Act (Canada) or the prescribed Acts.
 
 ### Confidentiality
@@ -885,8 +1013,11 @@ S.O. 1997, c. 25, Sched. A
 ### No notice to individual required
 
 (5) Subsection 39 (2) of the Freedom of Information and Protection of Privacy Act and subsection 29 (2) of the Municipal Freedom of Information and Protection of Privacy Act do not apply with respect to information collected under an agreement under subsection (1) or subsection 72 (1) if,
+
 (a) the information has been collected by data matching;
+
 (b) notification to the individual would frustrate an investigation; or
+
 (c) notification to the individual is not feasible.
 
 ### Collection of personal information
@@ -928,8 +1059,11 @@ S.O. 1997, c. 25, Sched. A
 ### Disclosure of information
 
 (2) A delivery agent or delivery partner may disclose personal information collected for the purpose of administering or enforcing this Act to any government or body with whom the delivery agent or delivery partner, as the case may be, has made an agreement referred to in subsection (1) if,
+
 (a) the disclosure is made in accordance with the agreement;
+
 (b) the government or body administers or enforces a social benefit program or is conducting research related to a social benefit program or the information relates to the administration or enforcement of or research relating to the Income Tax Act, the Taxation Act, 2007, the Income Tax Act (Canada), the Immigration and Refugee Protection Act (Canada), or the prescribed Acts; and
+
 (c) the government or body agrees to use the information only for the purpose of administering or enforcing a social benefit program or conducting research related to a social benefit program, the Income Tax Act, the Taxation Act, 2007, the Income Tax Act (Canada), the Immigration and Refugee Protection Act (Canada) or the prescribed Acts.
 
 ### Confidentiality
@@ -975,88 +1109,159 @@ S.O. 1997, c. 25, Sched. A
 ### Unionization for participants prohibited
 
 (2) Without limiting the generality of subsection (1), under the Labour Relations Act, 1995 no person shall do any of the following with respect to his or her participation in a community participation activity:
+
 1. Join a trade union.
+
 2. Have the terms and conditions under which he or she participates determined through collective bargaining.
+
 3. Strike.
 
 ### Regulations
 
 74 (1) The Lieutenant Governor in Council may make regulations,
+
 1. prescribing the persons to be included in a benefit unit;
+
 2. respecting the determination of budgetary requirements, income and assets and the maximum value of assets permitted;
+
 3. respecting the determination of the amount of assistance to be provided and the time and manner of providing it, including who is eligible to receive the assistance and how to determine what portion of assistance is provided with respect to each person;
+
 4. respecting employment assistance and the standards delivery agents must meet in providing employment assistance;
+
 5. respecting standards and conditions of community participation activities;
+
 6. respecting income assistance and determining who may be eligible for income assistance;
+
 7. respecting the items, services and payments that may be included as benefits and determining who may be eligible for benefits;
+
 8. respecting emergency assistance and determining who may be eligible for emergency assistance;
+
 9. respecting the conditions of eligibility for assistance including, without limiting the generality of the foregoing,
+
 (i) additional conditions relating to eligibility for assistance,
+
 (ii) information to be provided, including the time and manner of providing that information, verification of that information and home visits,
+
 (iii) changes in circumstances,
+
 (iv) the disposition of property,
+
 (v) the obligation to satisfy participation requirements related to employment measures and community participation,
+
 (vi) the obligation to obtain compensation or to realize a financial resource,
+
 (vii) requirements to agree to reimburse delivery agents and to give assignments to delivery agents, and
+
 (viii) a person’s status in the country;
+
 10. respecting the determination of residence in Ontario;
+
 11. prescribing classes of persons who are not eligible for assistance;
+
 12. respecting the provision and delivery of emergency hostel services, including funding, authority of delivery agents to contract with third parties to provide those services, the minimum standards and conditions to be included in such agreements and maximum daily amounts to be cost shared;
+
 13. respecting the determination of financial need for the purposes of section 10;
+
 14. Repealed: 2009, c. 33, Sched. 8, s. 5 (3).
+
 15. respecting applications for basic financial assistance and the information to be included in an application;
+
 16. requiring applications and other documents to be prepared in a form and manner approved by the Director;
+
 17. respecting the consequences of failing to satisfy a condition of eligibility including fixing periods of ineligibility;
+
 18. respecting re-instating basic financial assistance or returning it to its former level and the procedures which apply;
+
 19. prescribing the procedures to be followed in determining the need for and appointing a person to act for a recipient under section 17 and providing measures with respect to the person’s accountability and reporting requirements;
+
 20. providing rules for the payment of a portion of basic financial assistance for the purposes of section 18 directly to a third party;
+
 21. respecting the reconciliation of overpayments among delivery agents where overpayments are owed to one delivery agent and recovered by another and respecting overpayments recovered by reason of subsection 19 (3);
+
 22. respecting the information to be included in a notice of decision regarding an overpayment, the calculation and recovery of overpayments and the maximum amounts which may be deducted from basic financial assistance when recovering an overpayment;
+
 23. prescribing debts for the purposes of subsection 23 (2) and the priority of recovery of those debts;
+
 24. prescribing additional matters that may be appealed under this Act;
+
 25. respecting the requirement for and procedures to be followed in conducting an internal review;
+
 26. prescribing the time within which an internal review may be requested and, if requested, is to be completed;
+
 27. prescribing the time within which an appeal to the Tribunal may be filed;
+
 28. respecting the commencement and conduct of and procedures for appeals to the Tribunal and the time within which decisions are to be rendered;
+
 29. respecting the requirement to record evidence whether by transcript or notes of members taken at a hearing;
+
 30. respecting the record of proceedings for the purposes of proceedings before a court;
+
 31. prescribing the classes of appeals of which delivery agents must give notice to the Director;
+
 32. respecting the determination of interim assistance for the purposes of section 30;
+
 33. prescribing the period within which a new appeal is not permitted for the purposes of subsection 34 (2);
+
 33.1 governing appeals under this Act to the Divisional Court for the purposes of subsection 36 (1);
+
 34. respecting the powers and duties of a delivery agent for the purposes of this Act;
+
 34.1 prescribing and assigning costs to a delivery partner;
+
 35. respecting the costs incurred under this Act to which cost sharing should apply and providing for how they are to be shared, including the apportioning of those costs among Ontario, municipalities and persons living in territory without municipal organization, and prescribing the municipalities to which cost sharing applies;
+
 36. respecting the determination of cost estimates and actual costs and the reconciliation of them and respecting reserves for working funds;
+
 37. respecting the determination of the amounts Ontario shall pay to delivery agents and delivery partners and that delivery agents and delivery partners shall pay to Ontario and the methods of determining those amounts, providing for the manner in which and the intervals at which payments shall be made, for the suspension or withholding of amounts payable by Ontario or part of them and for making deductions from them;
+
 38. respecting the apportionment among municipalities in a geographic area of their share of the delivery agent’s costs and the delivery partner’s costs incurred under this Act and, for the purpose, prescribing the municipalities that must share in that apportionment and the manner in which that share shall be recovered;
+
 39. providing for the recovery by Ontario from a delivery agent of any amounts paid by Ontario under this Act for which the delivery agent is liable or for the recovery by Ontario or a delivery agent from a recipient of assistance or from his or her estate of amounts paid by Ontario or the delivery agent under this Act, and prescribing the circumstances and manner in which any such recovery may be made;
+
 39. providing for the recovery by Ontario from a delivery agent and delivery partner of any amounts paid by Ontario under this Act for which the delivery agent and the delivery partner are liable or for the recovery by Ontario or a delivery agent from a recipient of assistance or from his or her estate of amounts paid by Ontario or the delivery agent under this Act, and prescribing the circumstances and manner in which any such recovery may be made;
+
 40. prescribing additional powers and duties of administrators and the Director and providing for the manner in which administrators shall exercise their powers and duties;
+
 41. respecting agreements between the Director and delivery agents and between delivery agents and third parties;
+
 42. prescribing the powers and duties of eligibility review officers and family support workers and providing for the manner in which they shall exercise their powers and duties;
+
 43. providing for rules of application to members of bands living on reserves with regard to the administration of this Act, including the provision, delivery, administration and funding of assistance and prescribing the reserves or geographic areas to which those rules apply;
+
 44. respecting the giving of notice for the purposes of this Act;
+
 45. respecting subrogation rights under section 70;
+
 46. prescribing the powers and duties to which the penalty in section 78 may apply and the rules for determining the penalty to be imposed for each power or duty and the manner in which that penalty is to be recovered;
+
 47. defining any word or expression used in this Act that has not been defined in this Act;
+
 48. prescribing any matter referred to in this Act as prescribed;
+
 49. providing for the collection, retention, use, disclosure and safeguarding of privacy of personal information referred to in clause (3) (a).
 
 ### Regulations, Minister
 
 (2) The Minister may make regulations,
+
 1. designating geographic areas and delivery agents and delivery partners for those geographic areas, for the purposes of this Act;
+
 2. prescribing the powers and duties of a delivery partner for the purposes of this Act, the standards a delivery partner is to meet in carrying out its functions and the procedures and practices to be followed by the delivery partner;
+
 3. prescribing standards a delivery agent is to meet in carrying out its functions and the procedures and practices to be followed by the delivery agent;
+
 4. prescribing policy statements which shall be applied in the interpretation and application of this Act and the regulations;
+
 5. respecting agreements between the Ministry and delivery partners and between delivery partners and third parties;
+
 6. prescribing any matter referred to in this Act as prescribed by the Minister.
 
 ### Information
 
 (3) A regulation made under paragraph 9 of subsection (1) may include a requirement that a person,
+
 (a) provide evidence permitting identification of the person by means of photographic images or encrypted biometric information; and
+
 (b) provide personal information about a third party that is relevant to determining the person’s eligibility.
 
 ### Benefits may be discretionary
@@ -1074,15 +1279,21 @@ S.O. 1997, c. 25, Sched. A
 ### Apportionment of costs
 
 (7) A regulation made under paragraph 38 of subsection (1) may do one or more of the following:
+
 1. Authorize municipalities in a geographic area to determine by agreement how their costs are to be apportioned, subject to the prescribed conditions.
+
 2. Provide for an arbitration process for determining how the costs of those municipalities are to be apportioned.
+
 3. Set out the manner in which the costs of those municipalities are to be apportioned.
 
 ### Same
 
 (8) A regulation under paragraph 1 or 2 of subsection (7) may,
+
 (a) provide, on an interim basis, for the manner in which costs are to be apportioned and for the time and manner in which they are to be paid;
+
 (b) permit an agreement or an arbitration decision to apply to costs incurred and paid before the agreement or decision is reached; and
+
 (c) provide for the reconciliation of amounts paid on an interim basis.
 
 ### Same
@@ -1096,6 +1307,7 @@ S.O. 1997, c. 25, Sched. A
 ### Same
 
 (11) For purposes of this Act and the regulations,
+
 “bands”, “members of bands” and “reserves” have the same meaning as in the Indian Act (Canada).
 
 ### Regulation prevails
@@ -1117,11 +1329,17 @@ S.O. 1997, c. 25, Sched. A
 ### Biometric information
 
 75 (1) Where this Act or the regulations authorize a person to collect or use personal information, biometric information may be collected or used only for the following purposes:
+
 1. To ensure that an individual is registered only once as an applicant, recipient, spouse or dependent adult.
+
 2. To authenticate the identity of an individual who claims to be entitled to assistance.
+
 3. To enable an individual to receive and give receipt for assistance provided through a financial institution or other authorized provider.
+
 4. To enable an applicant, recipient, spouse or dependent adult to access personal information.
+
 5. To enable an individual to make a declaration electronically by voice or other means for any purposes authorized under this Act.
+
 6. To match data in accordance with an agreement made under section 71 or 72 for the purpose of ensuring eligibility for assistance or benefits.
 
 ### Same
@@ -1131,8 +1349,11 @@ S.O. 1997, c. 25, Sched. A
 ### Same
 
 (3) Biometric information shall not be disclosed to a third party except in accordance with,
+
 (a) a court order or a warrant;
+
 (b) an agreement under section 71 or 72 that is made for the purpose of ensuring eligibility for a social benefit program, including a social benefit program under the Income Tax Act, the Taxation Act, 2007 or the Income Tax Act (Canada); or
+
 (c) section 73.
 
 ### Same
@@ -1198,6 +1419,7 @@ S.O. 1997, c. 25, Sched. A
 ### Penalty
 
 (4) A person who contravenes subsection (1), (2) or (3) is guilty of an offence and on conviction is liable to a fine of not more than $5,000 or to imprisonment for a term of not more than six months or to both.
+
 80 Omitted (enacts short title of this Act).
 
 ### Schedule D Repealed:

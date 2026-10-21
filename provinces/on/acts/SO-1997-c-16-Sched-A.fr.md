@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97w16"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # sécurité professionnelle et l'assurance contre les accidents du travail (Loi de 1997 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97w16) before relying on it.
 
 L.O. 1997, chap. 16, annexe A
 
@@ -21,77 +21,145 @@ L.O. 1997, chap. 16, annexe A
 ### Objet
 
 1 La présente loi a pour objet d’accomplir ce qui suit en pratiquant une saine gestion financière assortie de l’obligation de rendre des comptes :
+
 1. Promouvoir la santé et la sécurité en milieu de travail.
+
 2. Faciliter le retour au travail et le rétablissement des travailleurs qui subissent une lésion corporelle survenant du fait et au cours de l’emploi ou qui souffrent d’une maladie professionnelle.
+
 3. Faciliter la réintégration sur le marché du travail des travailleurs ainsi que des conjoints des travailleurs décédés.
+
 4. Indemniser les travailleurs ainsi que les survivants des travailleurs décédés et leur fournir d’autres prestations.
 
 ### Définitions
 
 2 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «accident» S’entend en outre de ce qui suit :
+
 a) l’acte volontaire et intentionnel qui n’est pas le fait du travailleur;
+
 b) l’événement fortuit dû à une cause physique ou naturelle;
+
 c) l’incapacité survenant du fait et au cours de l’emploi. («accident»)
+
 «agence de placement temporaire» Employeur visé à l’article 72 dont l’activité principale consiste à prêter ou à louer temporairement, à titre onéreux, les services de ses travailleurs à d’autres employeurs. («temporary help agency»)
+
 «aide médicale à mourir» S’entend au sens de l’article 241.1 du Code criminel (Canada). («medical assistance in dying»)
+
 «caisse d’assurance» Caisse visée à l’article 96. («insurance fund»)
+
 «Commission» La Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail. («Board»)
+
 «conjoint» S’entend d’une personne avec laquelle la personne :
+
 a) soit est mariée;
+
 b) soit vit dans une union conjugale hors du mariage, si les deux personnes, selon le cas :
+
 (i) ont cohabité pendant au moins un an,
+
 (ii) sont les parents du même enfant,
+
 (iii) ont conclu un accord de cohabitation en vertu de l’article 53 de la Loi sur le droit de la famille. («spouse»)
+
 «construction» L’un ou l’autre des secteurs d’activité énumérés à la catégorie G de l’annexe 1. («construction»)
+
 «déficience» Toute anomalie ou perte physique ou fonctionnelle, y compris un préjudice esthétique, résultant d’une lésion et tout dommage psychologique qui découle de l’anomalie ou de la perte. («impairment»)
+
 «déficience permanente» Toute déficience qui persiste après que le travailleur a atteint son rétablissement maximal. («permanent impairment»)
+
 «employeur» S’entend de quiconque a à son service, aux termes d’un contrat de service ou d’apprentissage, une personne exerçant un travail dans un secteur d’activité ou dans des activités connexes, et s’entend notamment :
+
 a) du fiduciaire, du séquestre, du syndic, du liquidateur, de l’exécuteur testamentaire ou de l’administrateur d’une succession qui oeuvre dans un secteur d’activité;
+
 b) de la personne qui autorise un stagiaire à se trouver dans un secteur d’activité ou dans des activités connexes ou le lui permet pour recevoir une formation ou exercer un travail à l’essai;
+
 c) d’une personne assimilée à un employeur. («employer»)
+
 «employeur mentionné à l’annexe 1» Employeur appartenant à une catégorie ou un groupe de secteurs d’activité compris dans l’annexe 1. Est exclu de la présente définition l’employeur qui est un employeur mentionné à l’annexe 2 (autre qu’un employeur mentionné à l’annexe 2 que la Commission déclare en vertu de l’article 74 comme étant réputé être un employeur mentionné à l’annexe 1). («Schedule 1 employer»)
+
 «employeur mentionné à l’annexe 2» Employeur appartenant à une catégorie de secteurs d’activité comprise dans l’annexe 2. («Schedule 2 employer»)
+
 «enfant» S’entend au sens du paragraphe 1 (1) de la Loi sur le droit de la famille. («child»)
+
 «étudiant» Quiconque poursuit ses études à temps plein ou à temps partiel et est employé par un employeur pour les fins de son secteur d’activité, mais pas à titre de stagiaire ni d’apprenti. («student»)
+
 «exploitant indépendant» Sous réserve de l’article 12.1, quiconque oeuvre dans un secteur d’activité compris dans l’annexe 1 ou l’annexe 2 et n’emploie pas de travailleurs à cette fin. («independent operator»)
+
 «gains» ou «salaire» S’entendent en outre de toute rémunération qui peut être évaluée en argent, mais n’incluent pas les cotisations pour les avantages rattachés à l’emploi versées aux termes de l’article 25. («earnings» or «wages»)
+
 «maladie professionnelle» S’entend en outre de ce qui suit :
+
 a) une maladie résultant d’une exposition à une substance liée à un procédé, un métier ou une profession donnés dans un secteur d’activité;
+
 b) une maladie particulière à un procédé, un métier ou une profession donnés dans un secteur d’activité, ou qui en est caractéristique;
+
 c) un état de santé qui, selon la Commission, exige que l’exposition d’un travailleur à une substance cesse temporairement ou de façon permanente parce que l’état peut être un signe précurseur d’une maladie professionnelle;
+
 d) une maladie mentionnée à l’annexe 3 ou 4; («occupational disease»)
+
 e) une maladie prescrite en application de l’alinéa 15.1 (8) d).
+
 «ministre» Le ministre du Travail. («Minister»)
+
 «personnes à charge» S’entend des personnes suivantes qui dépendaient entièrement ou partiellement des gains du travailleur au moment de son décès, ou qui, sans l’incapacité due à l’accident, se seraient trouvées dans cette situation :
+
 1. Le parent, le beau-parent ou la personne qui agissait à titre de parent à l’égard du travailleur.
+
 2. Le frère ou la soeur ou le demi-frère ou la demi-soeur.
+
 3. Le grand-parent.
+
 4. Le petit-enfant. («dependants»)
+
 «praticien de la santé» Professionnel de la santé ou travailleur social. («health care practitioner»)
+
 «prescrit» Prescrit par les règlements pris en application de la présente loi. («prescribed»)
+
 «procureur» Personne autorisée à agir en vertu d’une procuration relative aux biens donnée en vertu de la Loi de 1992 sur la prise de décisions au nom d’autrui. («attorney»)
+
 «professionnel de la santé» Membre de l’ordre d’une profession de la santé au sens de la Loi de 1991 sur les professions de la santé réglementées. («health professional»)
+
 «régime d’assurance» Les prestations et obligations énoncées aux parties III à IX. («insurance plan»)
+
 «représentant successoral» Représentant successoral au sens du paragraphe 1 (1) de la Loi portant réforme du droit des successions. («personal representative»)
+
 «secteur d’activité» S’entend en outre d’un établissement, d’une entreprise, d’un métier, d’un commerce ou d’un service, de même qu’un ménage si des domestiques y sont employés. («industry»)
+
 «silicose» Fibrose pulmonaire causée par l’inhalation de poussière de silice et suffisante pour diminuer la capacité au travail. («silicosis»)
+
 «stagiaire» Personne qui, bien qu’elle ne soit pas visée par un contrat de service ou d’apprentissage, est exposée aux risques pouvant exister dans un secteur d’activité dans le cadre d’une formation ou d’un travail à l’essai. («learner»)
+
 «survivant» Conjoint, enfant ou personne à la charge d’un travailleur décédé. («survivor»)
+
 «travailleur» S’entend de quiconque a conclu un contrat de service ou d’apprentissage ou est employé aux termes d’un tel contrat, notamment :
+
 1. Un stagiaire.
+
 2. Un étudiant.
+
 3. Le membre auxiliaire d’un service de police.
+
 4. Le membre d’un corps d’ambulanciers auxiliaires.
+
 5. Le membre d’un corps municipal de pompiers auxiliaires dont l’affiliation a été approuvée par le chef du service d’incendie ou par une personne autorisée à ce faire par l’entité chargée du corps de pompiers.
+
 6. La personne à qui une autorité compétente ordonne d’aider à maîtriser ou à éteindre un incendie.
+
 7. La personne qui prête main-forte dans une opération de recherche et de sauvetage à la demande et sous la direction d’un membre de la Police provinciale de l’Ontario.
+
 8. La personne qui prête main-forte dans une situation d’urgence déclarée par le lieutenant-gouverneur en conseil ou le premier ministre en vertu de l’article 7.0.1 de la Loi sur la protection civile et la gestion des situations d’urgence ou par la personne qui assume la présidence d’un conseil municipal en vertu de l’article 4 de cette loi.
+
 9. La personne qui est réputée être un travailleur d’un employeur par une directive ou une ordonnance de la Commission.
+
 10. La personne qui est réputée être un travailleur aux termes de l’article 12 ou 12.2.
+
 11. L’élève qui est réputé être un travailleur aux termes de la Loi sur l’éducation. («worker»)
+
 «travailleur dans une situation d’urgence» Personne visée à la disposition 6, 7 ou 8 de la définition de «travailleur» qui est blessée pendant qu’elle exerce l’activité visée à cette disposition. («emergency worker»)
+
 «Tribunal d’appel» Le Tribunal d’appel de la sécurité professionnelle et de l’assurance contre les accidents du travail. («Appeals Tribunal»)
+
 «tuteur» Sauf aux paragraphes 30 (7) et 60 (4), s’entend d’un tuteur aux biens nommé en vertu de la Loi de 1992 sur la prise de décisions au nom d’autrui ou d’un tuteur légal aux biens désigné par cette loi ou nommé en vertu de celle-ci. («guardian»).
 
 ### Annexes
@@ -117,10 +185,15 @@ e) une maladie prescrite en application de l’alinéa 15.1 (8) d).
 ### PARTIE II (art. 3 à 10) Abrogée : 2011, chap. 11, art. 20.
 
 3 Abrogé : 2011, chap. 11, art. 20.
+
 4 Abrogé : 2011, chap. 11, art. 20.
+
 5. à 7 Abrogés : 2011, chap. 11, art. 20.
+
 8 Abrogé : 2011, chap. 11, art. 20.
+
 9 Abrogé : 2011, chap. 11, art. 20.
+
 10 Abrogé : 2011, chap. 11, art. 20.
 
 ## PARTIE III RÉGIME D’ASSURANCE
@@ -130,7 +203,9 @@ e) une maladie prescrite en application de l’alinéa 15.1 (8) d).
 ### Travailleurs assurés
 
 11 (1) Le régime d’assurance s’applique à chaque travailleur qui est employé par un employeur mentionné à l’annexe 1 ou à l’annexe 2, à l’exclusion des travailleurs qui sont, selon le cas :
+
 a) des personnes dont l’emploi par un employeur est occasionnel et qui sont employées à des fins autres que celles du secteur d’activité de l’employeur;
+
 b) des personnes à qui des articles ou des matériaux sont remis afin qu’elles les façonnent, les nettoient, les lavent, les modifient, les ornementent, les finissent, les réparent ou les adaptent pour la vente chez elles ou en d’autres lieux qui ne sont pas sous la direction ou sous la surveillance de la personne qui les a remis.
 
 ### Exception
@@ -142,8 +217,11 @@ b) des personnes à qui des articles ou des matériaux sont remis afin qu’elle
 ### Personnes réputées être des travailleurs
 
 12 (1) N’importe laquelle des personnes suivantes peut demander à la Commission de déclarer qu’elle est réputée être un travailleur auquel s’applique le régime d’assurance :
+
 1. Un exploitant indépendant qui exerce des activités dans un secteur d’activité autre que la construction compris dans l’annexe 1 ou l’annexe 2.
+
 2. Un propriétaire unique qui exerce des activités dans un secteur d’activité autre que la construction compris dans l’annexe 1 ou l’annexe 2.
+
 3. Un associé d’une société de personnes qui exerce des activités dans un secteur d’activité autre que la construction compris dans l’annexe 1 ou l’annexe 2.
 
 ### Exception : construction
@@ -185,19 +263,29 @@ b) des personnes à qui des articles ou des matériaux sont remis afin qu’elle
 ### Travaux de rénovation domiciliaire exemptés
 
 (11) Malgré toute autre disposition du présent article, les paragraphes (1) à (10) s’appliquent, avec les adaptations nécessaires, à l’égard des personnes suivantes :
+
 a) les exploitants indépendants et les propriétaires uniques visés à l’alinéa 12.2 (8) a);
+
 b) les associés et les dirigeants visés à l’alinéa 12.2 (8) b).
 
 ### Définition de «exploitant indépendant» aux art. 12.2, 12.3 et 182.1
 
 12.1 La définition qui suit s’applique aux articles 12.2, 12.3 et 182.1.
+
 «exploitant indépendant» S’entend, selon le cas :
+
 a) d’un particulier qui réunit les conditions suivantes :
+
 (i) il n’emploie pas de travailleurs,
+
 (ii) il se déclare comme travaillant à son compte pour l’application d’une loi ou d’un règlement de l’Ontario, du Canada ou d’une autre province ou d’un territoire du Canada,
+
 (iii) plus d’une personne retient ses services à titre d’entrepreneur ou de sous-traitant pendant la période indiquée dans une politique de la Commission;
+
 b) d’un particulier qui est un dirigeant d’une personne morale réunissant les conditions suivantes :
+
 (i) elle n’emploie pas de travailleurs autres que le particulier,
+
 (ii) plus d’une personne retient ses services à titre d’entrepreneur ou de sous‑traitant pendant la période indiquée dans une politique de la Commission.
 
 ### Assurance obligatoire : construction
@@ -205,9 +293,13 @@ b) d’un particulier qui est un dirigeant d’une personne morale réunissant l
 ### Personnes réputées être des travailleurs
 
 12.2 (1) Les personnes suivantes sont réputées être des travailleurs auxquels s’applique le régime d’assurance :
+
 1. Les exploitants indépendants qui exercent des activités dans la construction.
+
 2. Les propriétaires uniques qui exercent des activités dans la construction.
+
 3. Sauf disposition contraire des règlements, les associés d’une société de personnes qui exerce des activités dans la construction.
+
 4. Sauf disposition contraire des règlements, les dirigeants d’une personne morale qui exerce des activités dans la construction.
 
 ### Personne réputée être l’employeur
@@ -225,27 +317,37 @@ b) d’un particulier qui est un dirigeant d’une personne morale réunissant l
 ### Règlements : associés et dirigeants
 
 (5) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) dispenser un associé ou un dirigeant de l’application des paragraphes (1) à (4);
+
 b) prescrire les conditions que doit remplir l’associé, la société de personnes, le dirigeant ou la personne morale, selon le cas, pour que la dispense s’applique.
 
 ### Idem
 
 (6) Les règlements pris en application du paragraphe (5) peuvent prescrire des conditions ayant trait notamment à ce qui suit :
+
 a) le nombre minimal de dirigeants de la personne morale;
+
 b) la nature du travail qu’exécute un associé ou un dirigeant;
+
 c) la taille de la société de personnes ou de la personne morale et la façon de déterminer la taille de chacune;
+
 d) le nombre ou la façon de déterminer le nombre d’associés d’une société de personnes ou de dirigeants d’une personne morale auxquels s’applique la dispense.
 
 ### Idem
 
 (7) Les règlements pris en application du paragraphe (5) peuvent :
+
 a) prescrire des conditions différentes ayant trait aux associés et aux dirigeants et ayant trait aux sociétés de personnes et aux personnes morales;
+
 b) prescrire les exigences nécessaires pour permettre à la Commission d’appliquer les règlements et de déterminer si, à un moment donné, un associé ou un dirigeant est dispensé de l’application des paragraphes (1) à (4).
 
 ### Travaux de rénovation domiciliaire exemptés
 
 (8) Les paragraphes (1) à (4) ne s’appliquent pas à l’égard des personnes suivantes :
+
 a) les exploitants indépendants et les propriétaires uniques qui n’effectuent pas de travaux de construction autres que des travaux de rénovation domiciliaire exemptés;
+
 b) les associés des sociétés de personnes et les dirigeants des personnes morales qui n’effectuent pas de travaux de construction autres que des travaux de rénovation domiciliaire exemptés.
 
 ### Changement important
@@ -255,20 +357,35 @@ b) les associés des sociétés de personnes et les dirigeants des personnes mor
 ### Définitions
 
 (10) Les définitions qui suivent s’appliquent au présent article.
+
 «membre de sa famille» Relativement à une personne, s’entend de l’une ou l’autre des personnes suivantes :
+
 a) son conjoint;
+
 b) son enfant ou son petit-enfant;
+
 c) son parent, son grand-parent, son beau-père ou sa belle-mère;
+
 d) son frère ou sa soeur;
+
 e) toute personne dont le lien de parenté avec elle est le même lien par alliance que celui visé à l’alinéa b), c) ou d). («member of the person’s family»)
+
 «résidence privée» S’entend en outre de ce qui suit :
+
 a) une résidence privée utilisée de façon saisonnière ou à des fins de loisirs;
+
 b) les structures qui sont à la fois :
+
 (i) normalement accessoires ou annexes à la résidence privée,
+
 (ii) situées sur le même emplacement,
+
 (iii) utilisées exclusivement à des fins non commerciales. («private residence»)
+
 «travaux de rénovation domiciliaire exemptés» Travaux de construction qui sont effectués :
+
 a) d’une part, par un exploitant indépendant, un propriétaire unique, un associé d’une société de personnes ou un dirigeant d’une personne morale;
+
 b) d’autre part, sur une résidence privée existante qui est ou doit être occupée par la personne qui retient directement les services de l’exploitant indépendant, du propriétaire unique, de la société de personnes ou de la personne morale, ou par un membre de sa famille. («exempt home renovation work») 2008, chap. 20, art. 4
 
 ### Inscription
@@ -290,7 +407,9 @@ b) d’autre part, sur une résidence privée existante qui est ou doit être oc
 ### Travaux de rénovation domiciliaire exemptés
 
 (5) Les paragraphes (1) à (4) ne s’appliquent pas à l’égard des personnes suivantes :
+
 a) les exploitants indépendants et les propriétaires uniques visés à l’alinéa 12.2 (8) a);
+
 b) les associés visés à l’alinéa 12.2 (8) b).
 
 ### Changement important
@@ -352,7 +471,9 @@ b) les associés visés à l’alinéa 12.2 (8) b).
 ### Idem
 
 (7) Pour l’application du paragraphe (6), la Commission n’a pas statué sur la demande le 1er janvier 2018 si, selon le cas :
+
 a) elle n’a pas encore rendu de décision à l’égard de la demande à cette date;
+
 b) elle n’a pas encore rendu de décision définitive à l’égard de la demande à cette date.
 
 ### Appel en instance
@@ -368,94 +489,171 @@ b) elle n’a pas encore rendu de décision définitive à l’égard de la dema
 ### Définitions
 
 14 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «adolescent» S’entend au sens du paragraphe 2 (1) de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille. («young person»)
+
 «agent de police» Chef de police, tout autre agent de police ou agent de Première Nation, à l’exclusion toutefois d’une personne qui est nommée à titre d’agent de police en vertu de la Loi de 2009 sur les services policiers interprovinciaux, d’un constable spécial, d’un agent municipal d’exécution de la loi ou d’un membre auxiliaire d’un service de police. («police officer»)
+
 «agent de répartition» Agent de répartition pour l’application de la Loi sur les ambulances. («communications officer»)
+
 «agent des services correctionnels» Employé qui participe directement aux soins et aux services de santé fournis à un détenu enfermé dans un établissement correctionnel, à sa discipline, à sa sécurité et à sa garde. Sont toutefois exclus les huissiers, les agents de probation et les agents de libération conditionnelle. («correctional services officer»)
+
 «ambulancier» S’entend au sens du paragraphe 1 (1) de la Loi sur les ambulances. («emergency medical attendant»)
+
 «auxiliaire médical» S’entend au sens du paragraphe 1 (1) de la Loi sur les ambulances. («paramedic»)
+
 «chef de service d’ambulance» Travailleur employé dans un service d’ambulance qui dirige ou supervise un ou plusieurs auxiliaires médicaux et dont les fonctions comprennent la fourniture d’un appui direct aux auxiliaires médicaux envoyés par un agent de répartition pour répondre à une demande de services d’ambulance. («ambulance service manager»)
+
 «chef des opérations» Travailleur qui supervise directement un ou plusieurs agents des services correctionnels. («operational manager»)
+
 «chef des services aux jeunes» Travailleur qui est employé dans un poste de gestion dans un lieu de garde en milieu fermé ou un lieu de détention provisoire en milieu fermé et qui supervise directement des intervenants en services aux jeunes. Sont toutefois exclus les administrateurs d’un tel lieu et les chefs qui ne supervisent que les services éducatifs ou liés à la santé ou les services de counselling fournis à des adolescents dans ce lieu. («youth services manager»)
+
 «conseil de bande» S’entend au sens de «conseil de la bande» au paragraphe 2 (1) de la Loi sur les Indiens (Canada). («band council»)
+
 «enquêteur sur les incendies» Selon le cas :
+
 a) travailleur à qui le commissaire des incendies nommé en application du paragraphe 8 (1) de la Loi de 1997 sur la prévention et la protection contre l’incendie a délégué la fonction d’enquêter sur la cause, l’origine et les circonstances d’un incendie;
+
 b) travailleur qui était un inspecteur nommé en vertu du paragraphe 2 (4) de la Loi sur les commissaires des incendies avant l’abrogation de celle-ci par la Loi de 1997 sur la prévention et la protection contre l’incendie ;
+
 c) travailleur qui est employé par un conseil de bande et qui est chargé d’enquêter sur la cause, l’origine et les circonstances d’un incendie dans une réserve. («fire investigator»)
+
 «enquêteur sur les incendies de végétation» S’entend d’une personne qui est un employé du ministère des Richesses naturelles et qui est soit nommée agent aux termes de la Loi sur la gestion des incendies de végétation ou dûment nommée agent de protection de la nature par le ministère et qui entre sur des terrains ou pénètre dans des lieux pour inspecter le site d’un incendie ou d’en déterminer la cause et les circonstances. («wildland fire investigator»)
+
 «établissement correctionnel» Établissement correctionnel au sens de l’article 1 de la Loi sur le ministère des Services correctionnels ou établissement semblable servant à assurer la garde des détenus. («correctional institution»)
+
 «état de stress post-traumatique» Sous réserve du paragraphe (19), s’entend au sens de la description qui est donnée de ce terme dans la cinquième édition du Manuel diagnostique et statistique des troubles mentaux (DSM-5), publié par l’American Psychiatric Association. («posttraumatic stress disorder»)
+
 «lieu de détention provisoire en milieu fermé» S’entend au sens du paragraphe 2 (1) de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille. («place of secure temporary detention»)
+
 «lieu de garde en milieu fermé» S’entend au sens du paragraphe 2 (1) de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille. («place of secure custody»)
+
 «membre d’une équipe d’intervention d’urgence» Personne qui fournit les premiers soins ou une aide médicale dans une situation d’urgence, soit à titre de bénévole, soit moyennant une rétribution symbolique, une allocation de formation ou une allocation de service, et qui est envoyée par un agent de répartition pour fournir cette aide. Sont toutefois exclus les ambulanciers, les pompiers, les auxiliaires médicaux et les agents de police. («member of an emergency response team»)
+
 «pompier» Selon le cas :
+
 a) pompier au sens du paragraphe 1 (1) de la Loi de 1997 sur la prévention et la protection contre l’incendie ;
+
 b) travailleur qui, selon le cas :
+
 (i) est employé par un conseil de bande et chargé de fournir des services de protection contre les incendies dans une réserve,
+
 (ii) fournit des services de protection contre les incendies dans une réserve, soit à titre de bénévole, soit moyennant une rétribution symbolique, une allocation de formation ou une allocation de service. («firefighter»)
+
 «pompier à temps partiel» Travailleur qui est pompier, mais non pompier volontaire ou pompier à temps plein. («part-time firefighter»)
+
 «pompier à temps plein» Travailleur qui est pompier, qui est employé sur une base permanente contre rémunération et dont l’horaire de travail prévoit une moyenne d’au moins 35 heures par semaine. («full-time firefighter»)
+
 «pompier luttant contre les incendies de végétation» S’entend d’une personne qui fournit, pour le ministère des Richesses naturelles, un ou plusieurs des services de protection contre les incendies énumérés ci-dessous, soit à titre d’employé du ministère ou conformément à un contrat de services de l’employeur de la personne avec le ministère :
+
 1. L’extinction des incendies.
+
 2. La prévention des incendies et les activités liées à l’atténuation des risques d’incendie ou à la sécurité-incendie.
+
 3. Les services de sauvetage et d’urgence, notamment les services d’évacuation.
+
 4. Le pilotage d’un aéronef pour fournir les services visés aux dispositions 1 à 3.
+
 5. La communication relative à toute chose mentionnée aux dispositions 1 à 4.
+
 6. La formation ou l’évaluation des personnes qui participent à la fourniture de toute chose mentionnée aux dispositions 1 à 5. («wildland firefighter»)
+
 «psychiatre» S’entend au sens du paragraphe 1 (1) de la Loi sur la santé mentale. («psychiatrist»)
+
 «psychologue» Membre de l’Ordre des psychologues de l’Ontario qui est titulaire d’un certificat d’inscription à titre de psychologue autorisant l’exercice autonome de la psychologie ou particulier qui a un statut analogue dans une autre province ou un territoire du Canada. («psychologist»)
+
 «réserve» S’entend au sens du paragraphe 2 (1) de la Loi sur les Indiens (Canada). («reserve»)
+
 «service d’ambulance» S’entend au sens du paragraphe 1 (1) de la Loi sur les ambulances. («ambulance service»)
+
 «travailleur des services aux jeunes» Travailleur qui est employé dans un lieu de garde en milieu fermé ou un lieu de détention provisoire en milieu fermé et qui supervise directement des adolescents qui sont sous garde ou en détention dans ce lieu, y compris les activités quotidiennes et les programmes. Sont toutefois exclus les travailleurs qui ne fournissent à des adolescents dans ce lieu que des services éducatifs ou liés à la santé ou des services de counselling. («youth services worker»)
+
 «travailleur d’un établissement correctionnel» Agent des services correctionnels, chef des opérations ou travailleur qui est employé dans un établissement correctionnel pour fournir des services de soins de santé directs consistant à évaluer un détenu enfermé dans un établissement correctionnel, à le traiter, à le surveiller et à lui administrer des médicaments. («worker in a correctional institution»)
+
 «travailleur d’un lieu de garde en milieu fermé ou d’un lieu de détention provisoire en milieu fermé» Travailleur des services aux jeunes, chef des services aux jeunes ou travailleur qui est employé dans un lieu de garde en milieu fermé ou un lieu de détention provisoire en milieu fermé pour fournir des services de soins de santé directs consistant à évaluer un adolescent qui est sous garde ou en détention dans ce lieu, à le traiter, à le surveiller et à lui administrer des médicaments. («worker in a place of secure custody or place of secure temporary detention»)
+
 «travailleur s’occupant de répartition» Agent de répartition ou travailleur dont les fonctions comprennent la répartition de pompiers ou d’agents de police, ou travailleur qui reçoit des appels d’urgence déclenchant l’envoi de services d’ambulance, de pompiers et d’agents de police. («worker involved in dispatch») 2016, chap. 4, art. 2
 
 ### Champ d’application
 
 (2) Le présent article s’applique à l’égard des travailleurs suivants :
+
 1. Les pompiers à temps plein.
+
 2. Les pompiers à temps partiel.
+
 3. Les pompiers volontaires.
+
 4. Les enquêteurs sur les incendies.
+
 5. Les agents de police.
+
 6. Les membres d’une équipe d’intervention d’urgence.
+
 7. Les auxiliaires médicaux.
+
 8. Les ambulanciers.
+
 9. Les chefs de service d’ambulance.
+
 10. Les travailleurs d’un établissement correctionnel.
+
 11. Les travailleurs d’un lieu de garde en milieu fermé ou d’un lieu de détention provisoire en milieu fermé.
+
 12. Les travailleurs s’occupant de répartition.
+
 13. Les membres de l’Ordre des infirmières et infirmiers de l’Ontario qui fournissent des soins directement aux patients et qui ne sont pas des travailleurs visés à la disposition 10 ou 11.
+
 14. Les huissiers provinciaux nommés en vertu de la Loi sur le ministère des Services correctionnels.
+
 15. Les agents de probation nommés en application ou en vertu de la Loi sur le ministère des Services correctionnels ou de la Loi sur les services à l’enfance et à la famille.
+
 16. Les travailleurs qui supervisent directement les travailleurs visés à la disposition 15.
+
 17. Les constables spéciaux nommés en vertu de la Loi de 2019 sur la sécurité communautaire et les services policiers.
+
 18. Les membres d’un service de police au sens de la définition donnée à ce terme au paragraphe 2 (1) de la Loi de 2019 sur la sécurité communautaire et les services policiers, autres que ceux visés à la disposition 5, qui effectuent du travail dans une unité d’identification médico-légale ou dans une unité du Système d’analyse des liens entre les crimes de violence du service de police.
+
 19. Les pompiers luttant contre les incendies de végétation.
+
 20. Les enquêteurs sur les incendies de végétation.
 
 ### Droit aux prestations
 
 (3) Sous réserve du paragraphe (7), le travailleur a droit, dans le cadre du régime d’assurance, à des prestations pour un état de stress post-traumatique survenant du fait et au cours de son emploi si les exigences suivantes sont remplies :
+
 a) le travailleur :
+
 (i) soit est un travailleur visé au paragraphe (2),
+
 (ii) soit a été un travailleur visé aux dispositions 1 à 12 du paragraphe (2) pendant au moins un jour, le 6 avril 2014 ou après cette date,
+
 (iii) soit a été un travailleur visé aux dispositions 13 à 18 du paragraphe (2) pendant au moins un jour, le jour où la Loi de 2018 pour un plan axé sur le mieux-être et l’avenir (mesures budgétaires) reçoit la sanction royale ou après ce jour,
+
 (iv) soit a été un travailleur visé à la disposition 19 ou 20 du paragraphe (2) pendant au moins un jour à la date de transition ou après cette date;
+
 b) le travailleur reçoit ou a reçu un diagnostic d’état de stress post-traumatique établi par un psychiatre ou un psychologue;
+
 c) le diagnostic est établi :
+
 (i) le 6 avril 2014 ou après cette date, dans le cas d’un travailleur qui, au moment de déposer une demande, est un travailleur visé aux dispositions 1 à 12 du paragraphe (2),
+
 (ii) le 6 avril 2014 ou après cette date, mais au plus tard 24 mois après le jour où le travailleur cesse d’être un travailleur visé aux dispositions 1 à 12 du paragraphe (2), dans le cas d’un travailleur qui, le 6 avril 2016 ou après cette date, cesse d’être un travailleur visé à ces dispositions,
+
 (iii) le 6 avril 2014 ou après cette date, mais au plus tard le 6 avril 2018, dans le cas d’un travailleur qui, après le 6 avril 2014, mais avant le 6 avril 2016, cesse d’être un travailleur visé aux dispositions 1 à 12 du paragraphe (2),
+
 (iv) au plus tard 24 mois après le jour où le travailleur cesse d’être un travailleur visé aux dispositions 13 à 18 du paragraphe (2), dans le cas d’un travailleur qui, le jour où la Loi de 2018 pour un plan axé sur le mieux-être et l’avenir (mesures budgétaires) reçoit la sanction royale ou après ce jour, cesse d’être un travailleur visé à ces dispositions,
+
 (v) à la date de transition ou après cette date dans le cas d’un travailleur visé à la disposition 19 ou 20 du paragraphe (2) au moment du dépôt de la demande,
+
 (vi) à la date de transition ou après cette date, mais au plus tard 24 mois après le jour où le travailleur cesse d’être un travailleur visé à la disposition 19 ou 20 du paragraphe (2), dans le cas d’un travailleur qui, le jour où la Loi de 2024 visant à œuvrer pour les travailleurs, cinq reçoit la sanction royale ou après cette date, cesse d’être un travailleur visé à ces dispositions,
+
 (vii) à la date de transition ou après cette date, mais au plus tard 24 mois après le jour où la Loi de 2024 visant à œuvrer pour les travailleurs, cinq reçoit la sanction royale, dans le cas d’un travailleur qui, à la date de transition ou après cette date, mais avant le jour où la Loi de 2024 visant à œuvrer pour les travailleurs, cinq reçoit la sanction royale, cesse d’être un travailleur visé à la disposition 19 ou 20 du paragraphe (2).
 
 ### Interprétation
 
 (4) La définition qui suit s’applique au paragraphe (3).
+
 «date de transition» Le jour qui tombe 24 mois avant le jour où la Loi de 2024 visant à œuvrer pour les travailleurs, cinq reçoit la sanction royale.
 
 ### Idem
@@ -537,10 +735,15 @@ c) le diagnostic est établi :
 ### Disposition transitoire : diagnostic antérieur
 
 (19) Pour les besoins des demandes suivantes, l’état de stress post-traumatique s’entend en outre au sens de la description qui est donnée de ce terme dans la quatrième édition du Manuel diagnostique et statistique des troubles mentaux (DSM-IV), publié par l’American Psychiatric Association :
+
 1. Les demandes et les appels qui étaient en instance le 6 avril 2016 à l’égard de travailleurs visés aux dispositions 1 à 12 du paragraphe (2).
+
 2. Les nouvelles demandes présentées au titre du présent article le 6 octobre 2016 ou avant cette date par des travailleurs visés aux dispositions 1 à 12 du paragraphe (2).
+
 3. Les demandes et les appels qui sont en instance, le jour où la Loi de 2018 pour un plan axé sur le mieux-être et l’avenir (mesures budgétaires) reçoit la sanction royale, à l’égard de travailleurs visés aux dispositions 13 à 18 du paragraphe (2).
+
 3.1 Les demandes et les appels à l’égard de travailleurs visés à la disposition 19 ou 20 du paragraphe (2) qui sont en instance le jour où la Loi de 2024 visant à œuvrer pour les travailleurs, cinq reçoit la sanction royale.
+
 4. Les demandes visées aux paragraphes (17), (18) et (18.1).
 
 ### Maladies professionnelles
@@ -636,19 +839,29 @@ c) le diagnostic est établi :
 ### Règlements
 
 (8) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des pompiers, des enquêteurs sur les incendies ou des catégories de pompiers ou d’enquêteurs sur les incendies comme étant des travailleurs auxquels s’applique le paragraphe (1), (4), (4.1), (4.3), (4.5) ou (4.7);
+
 b) définir «pompier», «enquêteur sur les incendies», «pompier à temps plein» et «pompier à temps partiel» pour l’application du présent article et des règlements pris en application du présent article;
+
 c) prescrire, pour l’application du paragraphe (1), les circonstances dans lesquelles le travailleur subit une lésion cardiaque;
+
 d) prescrire des maladies pour l’application du paragraphe (4);
+
 e) prescrire les conditions et restrictions applicables aux présomptions créées par les paragraphes (1), (4), (4.1), (4.3), (4.5) et (4.7), notamment celles qui concernent la nature de l’emploi, sa durée et la ou les périodes pendant lesquelles le travailleur a été employé, ainsi que son âge;
+
 f) prévoir que la totalité ou une partie de l’article 15.2 ne s’applique pas dans les circonstances précisées dans le règlement;
+
 g) si un règlement est pris en application de l’alinéa f), prévoir d’autres règles pour régir les demandes auxquelles la totalité ou une partie de l’article 15.2 se serait appliquée;
+
 h) prévoir les questions transitoires que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables à l’égard du présent article, de ses règlements d’application et de l’article 15.2.
 
 ### Idem
 
 (9) Le règlement pris en application de l’alinéa (8) b) peut définir le terme «pompier» comme s’entendant en outre :
+
 a) des pompiers volontaires;
+
 b) de travailleurs qui ne sont pas compris dans la définition de «pompier» dans la Loi de 1997 sur la prévention et la protection contre l’incendie.
 
 ### Idem
@@ -658,7 +871,9 @@ b) de travailleurs qui ne sont pas compris dans la définition de «pompier» da
 ### Demande fondée sur une présomption
 
 15.2 (1) Le présent article s’applique si, selon le cas :
+
 a) un règlement prévu à l’article 15.1 est pris ou modifié et, par conséquent, une présomption créée aux termes de l’article 15.1 s’applique à la lésion subie par le travailleur ou à la maladie diagnostiquée chez lui;
+
 b) une présomption créée aux termes du paragraphe 15.1 (4.1), (4.3), (4.5) ou (4.7) s’applique à la maladie diagnostiquée chez le travailleur.
 
 ### Nouvelle demande
@@ -712,7 +927,9 @@ b) une présomption créée aux termes du paragraphe 15.1 (4.1), (4.3), (4.5) ou
 ### Idem, sur un navire
 
 (3) Si l’accident survient hors de l’Ontario sur un navire, le travailleur a droit à des prestations dans le cadre du régime d’assurance s’il réside en Ontario et que, selon le cas :
+
 a) le navire est immatriculé au Canada;
+
 b) l’établissement principal de son propriétaire ou de l’affréteur est situé en Ontario.
 
 ### Idem, certains véhicules
@@ -790,15 +1007,21 @@ b) l’établissement principal de son propriétaire ou de l’affréteur est si
 ### Interdiction : suppression des demandes de prestations
 
 22.1 (1) Aucun employeur ne doit prendre une mesure quelconque, notamment une de celles indiquées au paragraphe (2), à l’égard d’un travailleur dans le but, selon le cas :
+
 a) de le dissuader ou de l’empêcher de déposer une demande de prestations au titre de l’article 22;
+
 b) de l’inciter ou de le pousser à retirer ou à abandonner une demande de prestations présentée au titre de l’article 22.
 
 ### Idem
 
 (2) Pour l’application du paragraphe (1), les mesures suivantes sont interdites :
+
 1. Congédier ou menacer de congédier un travailleur.
+
 2. Imposer une mesure disciplinaire à un travailleur ou le suspendre, ou menacer de le faire.
+
 3. Prendre des sanctions contre un travailleur.
+
 4. Intimider ou contraindre un travailleur, directement ou indirectement, par des menaces, par des promesses, par la persuasion ou par d’autres moyens.
 
 ### Pénalité administrative
@@ -842,13 +1065,17 @@ b) de l’inciter ou de le pousser à retirer ou à abandonner une demande de pr
 ### Avantages rattachés à l’emploi
 
 25 (1) Pendant l’année qui suit la date où un travailleur a été blessé, l’employeur verse des cotisations pour les avantages rattachés à l’emploi à l’égard du travailleur lorsque celui-ci est absent du travail en raison de la lésion. Toutefois, les cotisations ne sont exigées que si les conditions suivantes sont réunies :
+
 a) l’employeur versait déjà des cotisations pour les avantages rattachés à l’emploi à l’égard du travailleur au moment où la lésion est survenue;
+
 b) le travailleur continue à verser ses cotisations, le cas échéant, pour les avantages rattachés à l’emploi pendant son absence du travail.
 
 ### Non-conformité
 
 (2) Si l’employeur ne se conforme pas au paragraphe (1) :
+
 a) l’employeur est responsable envers le travailleur des pertes que subit celui-ci en conséquence;
+
 b) la Commission peut imposer à l’employeur une pénalité ne dépassant pas l’équivalent d’une année de cotisations pour les avantages rattachés à l’emploi à l’égard du travailleur.
 
 ### Cotisations : travailleurs dans une situation d’urgence
@@ -862,13 +1089,17 @@ b) la Commission peut imposer à l’employeur une pénalité ne dépassant pas 
 ### Régimes interentreprises d’avantages rattachés à l’emploi
 
 (4) Le paragraphe (1) ne s’applique pas à l’employeur qui participe à un régime interentreprises d’avantages rattachés à l’emploi à l’égard du travailleur si, lorsque le travailleur s’absente de son travail, en raison de la lésion, au cours de l’année qui suit la date où il a été blessé, les conditions suivantes sont réunies :
+
 a) le régime continue d’offrir au travailleur les avantages auxquels il aurait par ailleurs droit;
+
 b) le régime n’exige pas que, pendant l’absence du travailleur, l’employeur verse des cotisations et que le travailleur utilise ses crédits d’avantages prévus par le régime, le cas échéant.
 
 ### Idem
 
 (5) Chaque régime interentreprise d’avantages rattachés à l’emploi contient ou est réputé contenir des dispositions qui sont suffisantes :
+
 a) d’une part, pour permettre à tous les employeurs qui participent au régime d’être exemptés aux termes du paragraphe (4) de l’obligation de verser des cotisations;
+
 b) d’autre part, pour offrir à chaque travailleur les avantages visés au paragraphe (4) dans les cas qui y sont décrits.
 
 ### Droit aux termes d’un régime d’avantages rattachés à l’emploi
@@ -878,6 +1109,7 @@ b) d’autre part, pour offrir à chaque travailleur les avantages visés au par
 ### Définition
 
 (7) La définition qui suit s’applique au présent article.
+
 «cotisations pour les avantages rattachés à l’emploi» Sommes versées en tout ou en partie par l’employeur pour le compte du travailleur ou de son conjoint, de son enfant ou de la personne à sa charge pour les soins de santé, l’assurance-vie et les prestations de retraite.
 
 ### Droits d’action
@@ -901,13 +1133,17 @@ b) d’autre part, pour offrir à chaque travailleur les avantages visés au par
 ### Extinction de certains droits d’action
 
 28 (1) Ni le travailleur employé par un employeur mentionné à l’annexe 1, ni les survivants du travailleur, ni l’employeur mentionné à l’annexe 1 n’ont le droit d’intenter une action contre les personnes suivantes à l’égard d’une lésion que le travailleur a subie ou d’une maladie qu’il a contractée :
+
 1. Un employeur mentionné à l’annexe 1.
+
 2. Un administrateur, un dirigeant ou un travailleur employé par un employeur mentionné à l’annexe 1.
 
 ### Idem, employeur mentionné à l’annexe 2
 
 (2) Ni le travailleur employé par un employeur mentionné à l’annexe 2 ni les survivants du travailleur n’ont le droit d’intenter une action contre les personnes suivantes à l’égard d’une lésion que le travailleur a subie ou d’une maladie qu’il a contractée :
+
 1. L’employeur mentionné à l’annexe 2 qui est l’employeur du travailleur.
+
 2. Un administrateur, un dirigeant ou un travailleur employé par l’employeur mentionné à l’annexe 2 qui est l’employeur du travailleur.
 
 ### Restriction
@@ -921,7 +1157,9 @@ b) d’autre part, pour offrir à chaque travailleur les avantages visés au par
 ### Responsabilité en cas de faute ou de négligence
 
 29 (1) Le présent article s’applique dans les circonstances suivantes :
+
 1. Dans une action intentée par le travailleur employé par un employeur mentionné à l’annexe 1 ou par un survivant du travailleur, ou pour le compte de l’un ou l’autre, la faute ou la négligence d’un employeur mentionné à l’annexe 1 ou d’un de ses administrateurs ou dirigeants ou d’un autre travailleur employé par un employeur mentionné à l’annexe 1 est constatée à l’égard de l’accident ou de la maladie qui donne lieu au droit du travailleur à des prestations dans le cadre du régime d’assurance.
+
 2. Dans une action intentée par le travailleur employé par un employeur mentionné à l’annexe 2 ou par un survivant du travailleur, ou pour le compte de l’un ou l’autre, la faute ou la négligence de l’employeur mentionné à l’annexe 2 qui est l’employeur du travailleur ou d’un de ses administrateurs ou dirigeants ou d’un autre travailleur employé par l’employeur est constatée à l’égard de l’accident ou de la maladie qui donne lieu au droit du travailleur à des prestations dans le cadre du régime d’assurance.
 
 ### Idem
@@ -967,14 +1205,19 @@ b) d’autre part, pour offrir à chaque travailleur les avantages visés au par
 ### Idem, incapable
 
 (8) Si un travailleur est mentalement incapable de faire le choix ou est inconscient par suite de la lésion :
+
 a) son tuteur ou son procureur peut faire le choix en son nom;
+
 b) si le travailleur n’a ni tuteur ni procureur, son conjoint peut faire le choix en son nom;
+
 c) si le travailleur n’a ni tuteur ni procureur et que le choix n’est pas fait dans les 60 jours qui suivent le jour où le travailleur a été blessé, le tuteur et curateur public fait le choix en son nom.
 
 ### Idem
 
 (9) Si un survivant est mentalement incapable de faire le choix :
+
 a) son tuteur ou son procureur peut faire le choix en son nom;
+
 b) si le survivant n’a ni tuteur ni procureur et que le choix n’est pas fait dans les 60 jours qui suivent le décès du travailleur, le tuteur et curateur public fait le choix au nom du survivant.
 
 ### Subrogation, employeur mentionné à l’annexe 1
@@ -996,21 +1239,29 @@ b) si le survivant n’a ni tuteur ni procureur et que le choix n’est pas fait
 ### Cas où le travailleur choisit d’intenter l’action
 
 (14) Les règles suivantes s’appliquent si le travailleur ou le survivant choisit d’intenter l’action au lieu de demander des prestations dans le cadre du régime d’assurance :
+
 1. Le travailleur ou le survivant a le droit de recevoir des prestations dans le cadre du régime d’assurance dans la mesure où, à la suite d’un jugement rendu dans l’action, il lui est accordé un montant inférieur à celui visé à la disposition 3.
+
 2. S’il règle l’action et que la Commission approuve le règlement au préalable, le travailleur ou le survivant a le droit de recevoir des prestations dans le cadre du régime d’assurance dans la mesure où le montant du règlement est inférieur au montant visé à la disposition 3.
+
 3. Pour l’application des dispositions 1 et 2, le montant correspond au coût des prestations que la Commission aurait fournies dans le cadre du régime au travailleur ou au survivant, si l’un ou l’autre avait choisi de demander des prestations dans le cadre du régime au lieu d’intenter l’action.
 
 ### Calcul du montant
 
 (15) Aux fins du calcul du montant des prestations auquel le travailleur ou le survivant a droit aux termes du paragraphe (14), le montant d’un jugement rendu dans une action ou le montant d’un règlement est calculé de façon à inclure le montant de toute prestation que le travailleur ou le survivant a reçue ou qu’il recevra d’une autre source si cette prestation :
+
 a) soit a réduit le montant que le défendeur est tenu de payer au travailleur ou au survivant dans l’action;
+
 b) soit aurait été payable par le défendeur si ce n’était une immunité accordée à celui-ci par quelque loi que ce soit.
 
 ### Décision
 
 31 (1) Une partie à une action ou l’assureur à qui des indemnités d’accident légales sont demandées aux termes de l’article 268 de la Loi sur les assurances peut, par voie de requête, demander au Tribunal d’appel de décider si, selon le cas :
+
 a) en raison de la présente loi, le droit d’intenter une action est retiré;
+
 b) le montant qu’une personne peut être tenue de payer dans une action est limité par la présente loi;
+
 c) le demandeur a le droit de demander des prestations dans le cadre du régime d’assurance.
 
 ### Idem
@@ -1034,14 +1285,23 @@ c) le demandeur a le droit de demander des prestations dans le cadre du régime 
 ### Définition
 
 32 La définition qui suit s’applique à la présente partie.
+
 «soins de santé» S’entend de ce qui suit :
+
 a) les services professionnels fournis par un praticien de la santé;
+
 b) les services fournis par les hôpitaux et les établissements de santé ou dans ceux-ci;
+
 c) les médicaments;
+
 d) les services fournis par un auxiliaire;
+
 e) les modifications apportées au domicile ou au véhicule d’une personne et les autres mesures visant à promouvoir l’autonomie qui, de l’avis de la Commission, sont appropriées;
+
 f) les appareils ou accessoires fonctionnels et les prothèses;
+
 g) les frais de transport extraordinaires engagés pour obtenir des soins de santé;
+
 h) les mesures prises pour améliorer la qualité de vie des travailleurs gravement déficients que la Commission estime appropriées.
 
 ### Droit aux soins de santé
@@ -1071,7 +1331,9 @@ h) les mesures prises pour améliorer la qualité de vie des travailleurs gravem
 ### Questions relatives aux soins de santé
 
 (7) La Commission règle toutes les questions concernant ce qui suit :
+
 a) la nécessité et la pertinence des soins de santé fournis ou pouvant être fournis au travailleur et la question de savoir s’ils sont suffisants;
+
 b) le paiement des soins de santé fournis au travailleur.
 
 ### Obligation de collaborer
@@ -1157,17 +1419,25 @@ b) le paiement des soins de santé fournis au travailleur.
 ### Obligation de collaborer
 
 40 (1) L’employeur du travailleur blessé collabore au retour au travail rapide et sans danger du travailleur en faisant ce qui suit :
+
 a) il communique avec le travailleur dès que possible après que la lésion est survenue et reste en contact avec lui pendant toute la période de son rétablissement et de sa déficience;
+
 b) il tente de trouver pour le travailleur un emploi disponible et approprié qui soit compatible avec son habileté fonctionnelle et qui, si possible, lui permette de toucher les gains qu’il touchait avant de subir la lésion;
+
 c) il donne à la Commission les renseignements qu’elle demande concernant le retour au travail du travailleur;
+
 d) il prend toute autre mesure prescrite.
 
 ### Idem, travailleur
 
 (2) Le travailleur collabore à son retour au travail rapide et sans danger en faisant ce qui suit :
+
 a) il communique avec son employeur dès que possible après que la lésion est survenue et reste en contact avec lui pendant toute la période de son rétablissement et de sa déficience;
+
 b) s’il est tenu ou s’il lui est demandé de le faire, il aide l’employeur à lui trouver un emploi disponible et approprié qui soit compatible avec son habileté fonctionnelle et qui, si possible, lui permette de toucher les gains qu’il touchait avant de subir la lésion;
+
 c) il donne à la Commission les renseignements qu’elle demande concernant son retour au travail;
+
 d) il prend toute autre mesure prescrite.
 
 ### Idem, industrie de la construction
@@ -1209,13 +1479,17 @@ d) il prend toute autre mesure prescrite.
 ### Décision quant au retour au travail
 
 (3) La Commission peut décider des questions suivantes de sa propre initiative ou doit le faire si le travailleur et l’employeur ne s’entendent pas sur la capacité du travailleur de retourner au travail :
+
 1. Dans le cas du travailleur qui n’est pas retourné travailler pour l’employeur, la Commission décide si le travailleur est capable, sur le plan médical, de s’acquitter des tâches essentielles de l’emploi qu’il occupait avant que ne survienne la lésion ou d’accomplir un travail approprié.
+
 2. Dans le cas du travailleur au sujet duquel elle a précédemment décidé qu’il était capable, sur le plan médical, d’accomplir un travail approprié, la Commission décide si le travailleur est capable, sur le plan médical, d’accomplir les tâches essentielles de l’emploi qu’il occupait avant que ne survienne la lésion.
 
 ### Obligation de réemployer
 
 (4) Lorsque le travailleur est capable, sur le plan médical, de s’acquitter des tâches essentielles de l’emploi qu’il occupait avant que ne survienne la lésion, l’employeur, selon le cas :
+
 a) offre de réemployer le travailleur dans le poste qu’il occupait à la date où la lésion est survenue;
+
 b) offre de fournir au travailleur un autre emploi dont la nature et les gains sont comparables à ceux de l’emploi qu’il occupait à la date où la lésion est survenue.
 
 ### Idem
@@ -1229,8 +1503,11 @@ b) offre de fournir au travailleur un autre emploi dont la nature et les gains s
 ### Durée de l’obligation
 
 (7) L’obligation qu’impose le présent article à l’employeur prend fin à celle des dates suivantes qui est antérieure aux autres :
+
 a) le deuxième anniversaire de la date où la lésion est survenue;
+
 b) un an après que le travailleur est capable, sur le plan médical, de s’acquitter des tâches essentielles de l’emploi qu’il occupait avant que ne survienne la lésion;
+
 c) la date où le travailleur atteint l’âge de 65 ans.
 
 ### Exigences concernant l’industrie de la construction
@@ -1256,7 +1533,9 @@ c) la date où le travailleur atteint l’âge de 65 ans.
 ### Non-conformité
 
 (13) Si elle décide que l’employeur n’a pas rempli ses obligations à l’égard du travailleur, la Commission peut :
+
 a) imposer à l’employeur une pénalité ne dépassant pas le montant des gains moyens nets du travailleur pendant l’année précédant la date où la lésion est survenue;
+
 b) faire des versements au travailleur pendant un an au maximum comme si celui-ci avait droit à des versements aux termes de l’article 43 (perte de gains).
 
 ### Idem
@@ -1280,8 +1559,11 @@ b) faire des versements au travailleur pendant un an au maximum comme si celui-c
 ### Évaluation des possibilités de réintégration sur le marché du travail
 
 42 (1) La Commission fournit au travailleur une évaluation de ses possibilités de réintégration sur le marché du travail dans l’une ou l’autre des circonstances suivantes :
+
 1. Il est peu probable que le travailleur soit réemployé par son employeur en raison de la nature de la lésion.
+
 2. L’employeur du travailleur n’a pas été en mesure de procurer au travailleur un travail qui soit compatible avec son habileté fonctionnelle et qui lui permette de toucher les gains qu’il touchait avant de subir la lésion.
+
 3. L’employeur du travailleur ne collabore pas au retour au travail rapide et sans danger du travailleur.
 
 ### Programme de réintégration sur le marché du travail
@@ -1299,7 +1581,9 @@ b) faire des versements au travailleur pendant un an au maximum comme si celui-c
 ### Consultation obligatoire
 
 (5) Le programme de réintégration sur le marché du travail est préparé en consultation avec les personnes suivantes :
+
 a) le travailleur et, à moins que la Commission ne l’estime inapproprié, son employeur;
+
 b) les praticiens de la santé du travailleur si la Commission l’estime nécessaire.
 
 ### Contenu du programme
@@ -1321,15 +1605,21 @@ b) les praticiens de la santé du travailleur si la Commission l’estime néces
 ### Versements pour perte de gains
 
 43 (1) Le travailleur qui subit une perte de gains par suite de la lésion a droit à des versements aux termes du présent article à compter du moment où débute la perte de gains. Les versements se poursuivent jusqu’au premier en date des jours suivants :
+
 a) le jour où la perte de gains du travailleur prend fin;
+
 b) le jour où le travailleur atteint l’âge de 65 ans, s’il avait moins de 63 ans à la date où la lésion est survenue;
+
 c) le jour qui tombe deux ans après la date où la lésion est survenue, si le travailleur avait au moins 63 ans à cette date-là;
+
 d) le jour où le travailleur n’est plus déficient par suite de la lésion.
 
 ### Montant
 
 (2) Sous réserve des paragraphes (2.1), (2.2), (3) et (4), le montant des versements correspond à 85 % de la différence entre :
+
 a) les gains moyens nets du travailleur avant que ne survienne la lésion;
+
 b) les gains moyens nets qu’il touche ou est en mesure de toucher dans un emploi ou une entreprise approprié et disponible après que la lésion est survenue.
 
 ### Montant minimal : perte de gains totale
@@ -1339,47 +1629,65 @@ b) les gains moyens nets qu’il touche ou est en mesure de toucher dans un empl
 ### Montant minimal : perte de gains partielle
 
 (2.2) Le montant minimal des versements pour une perte de gains partielle correspond à celui des montants suivants qui s’applique :
+
 a) si les gains moyens nets du travailleur avant que ne survienne la lésion sont inférieurs à 17 559,88 $, la différence entre ces gains et les gains moyens nets qu’il touche ou est en mesure de toucher dans un emploi ou une entreprise approprié et disponible après que la lésion est survenue;
+
 b) si les gains moyens nets du travailleur avant que ne survienne la lésion sont supérieurs ou égaux à 17 559,88 $, mais que la somme représentant 85 % des gains moyens nets du travailleur avant que ne survienne la lésion est inférieure à 17 559,88 $, le plus élevé des montants suivants :
+
 (i) la différence entre 17 559,88 $ et les gains moyens nets que le travailleur touche ou est en mesure de toucher dans un emploi ou une entreprise approprié et disponible après que la lésion est survenue,
+
 (ii) 85 % de la différence entre les gains moyens nets du travailleur avant que ne survienne la lésion et les gains moyens nets qu’il touche ou est en mesure de toucher dans un emploi ou une entreprise approprié et disponible après que la lésion est survenue.
 
 ### Versements en cas de collaboration
 
 (3) Le montant des versements correspond à 85 pour cent de la différence entre les gains moyens nets que le travailleur touchait avant que ne survienne la lésion et les gains moyens nets qu’il touche par la suite, s’il collabore à la mise en oeuvre des mesures prises en matière de soins de santé et, selon le cas :
+
 a) à son retour au travail rapide et sans danger;
+
 b) à tous les aspects d’une évaluation de ses possibilités de réintégration sur le marché du travail ou d’un programme de réintégration sur le marché du travail.
 
 ### Gains touchés après la lésion
 
 (4) La Commission détermine que les gains que touche le travailleur après que la lésion est survenue sont les gains qu’il est en mesure de toucher dans l’emploi ou l’entreprise approprié pour lui déterminé aux termes de l’article 42 et disponible, et ces gains sont déterminés à l’une ou l’autre des dates suivantes :
+
 a) si un programme de réintégration sur le marché du travail est fourni au travailleur, à la date où celui-ci termine le programme;
+
 b) si la Commission décide que le travailleur n’a pas besoin d’un programme de réintégration sur le marché du travail, à la date où elle prend sa décision.
 
 ### Calcul du montant
 
 (5) Le calcul du montant des versements est assujetti aux règles suivantes :
+
 1. Le montant du versement est rajusté selon le facteur d’indexation pour chaque 1 er janvier à compter du 1 er janvier 2018.
+
 2. Le montant visé à l’alinéa (2) b) reflète les versements d’invalidité que le travailleur a reçus dans le cadre du Régime de pensions du Canada ou du Régime de rentes du Québec à l’égard de la lésion.
+
 (6) Abrogé : 2015, chap. 38, annexe 23, art. 1.
 
 ### Absence de collaboration
 
 (7) La Commission peut diminuer ou suspendre les versements qu’elle fait au travailleur pendant toute période où celui-ci ne collabore pas, selon le cas :
+
 a) à la mise en oeuvre des mesures prises en matière de soins de santé;
+
 b) à son retour au travail rapide et sans danger;
+
 c) à tous les aspects de l’évaluation des possibilités de réintégration sur le marché du travail ou du programme de réintégration sur le marché du travail qui lui sont fournis.
 
 ### Disposition transitoire : perte de gains totale
 
 (8) Les règles suivantes s’appliquent pour le calcul des montants payables pour une perte de gains totale aux termes du présent article à l’égard d’une période antérieure au 1 er janvier 2017, quel que soit le moment où la Commission détermine que le travailleur a droit au montant :
+
 1. Le montant minimal pour une perte de gains totale fixé au paragraphe (2), dans sa version en vigueur le 30 décembre 2017, et rajusté conformément à l’article 51, dans sa version en vigueur le 31 décembre 2017, continue de s’appliquer pour le calcul des montants payables pour une perte de gains totale aux termes du présent article à l’égard de l’année civile au cours de laquelle la lésion a été subie.
+
 2. Le montant minimal pour une perte de gains totale fixé au paragraphe (2), dans sa version en vigueur le 30 décembre 2017, et rajusté conformément au deuxième facteur d’indexation prévu au paragraphe 50 (1), dans sa version en vigueur le 31 décembre 2017, continue de s’appliquer pour le calcul des montants payables pour une perte de gains totale aux termes du présent article à l’égard des années suivantes.
 
 ### Idem : lésions subies en 2017
 
 (9) Les règles suivantes s’appliquent pour le calcul des montants payables pour une perte de gains totale aux termes du présent article à l’égard de lésions subies entre le 1 er janvier 2017 et le 31 décembre 2017, quel que soit le moment où la Commission détermine que le travailleur a droit au montant :
+
 1. Le montant minimal pour une perte de gains totale fixé au paragraphe (2), dans sa version en vigueur le 30 décembre 2017, et rajusté conformément à l’article 51, dans sa version en vigueur le 31 décembre 2017, continue de s’appliquer pour le calcul des montants payables pour une perte de gains totale aux termes du présent article à l’égard de l’année civile 2017.
+
 2. Pour calculer le rajustement annuel des montants payables à effectuer le 1 er janvier 2018 qui est exigé par l’article 52, la Commission calcule les montants payables à l’aide du montant minimal pour une perte de gains totale fixé au paragraphe (2.1).
 
 ### Disposition transitoire : perte de gains partielle
@@ -1389,7 +1697,9 @@ c) à tous les aspects de l’évaluation des possibilités de réintégration s
 ### Idem
 
 (11) Les montants payables ont été calculés conformément aux règles d’établissement du montant minimal des versements pour une perte de gains partielle, énoncées au paragraphe (2.2), avec les adaptations suivantes :
+
 1. Les calculs étaient fondés sur un montant de 15 312,51 $, à compter du 1 er janvier 1998.
+
 2. Le montant indiqué à la disposition 1 a été rajusté annuellement conformément à l’article 51, dans sa version en vigueur le 31 décembre 2017.
 
 ### Réexamen : perte de gains
@@ -1403,14 +1713,23 @@ c) à tous les aspects de l’évaluation des possibilités de réintégration s
 ### Exception
 
 (2.1) La Commission peut réexaminer les versements plus de 72 mois après la date où le travailleur a subi la lésion dans l’un ou l’autre des cas suivants :
+
 a) avant l’expiration de la période de 72 mois, le travailleur ne l’avise pas d’un changement important dans les circonstances ou il commet une fraude ou fait une assertion inexacte relativement à sa demande de prestations dans le cadre du régime d’assurance;
+
 b) un programme de réintégration sur le marché du travail a été fourni au travailleur et il n’est pas achevé à l’expiration de la période de 72 mois;
+
 c) après l’expiration de la période de 72 mois, l’état du travailleur connaît une détérioration importante qui donne lieu à une nouvelle détermination de son degré de déficience permanente effectuée en application de l’article 47;
+
 d) après l’expiration de la période de 72 mois, l’état du travailleur connaît une détérioration importante qui donne lieu à la détermination d’une déficience permanente effectuée en application de l’article 47;
+
 e) après l’expiration de la période de 72 mois, l’état du travailleur connaît une détérioration importante qui, de l’avis de la Commission, donnera vraisemblablement lieu à une nouvelle détermination de son degré de déficience permanente effectuée en application de l’article 47;
+
 f) après l’expiration de la période de 72 mois, l’état du travailleur connaît une détérioration temporaire importante qui est liée à la lésion;
+
 g) à l’expiration de la période de 72 mois :
+
 (i) soit le travailleur et son employeur collaborent au retour au travail rapide et sans danger du travailleur conformément à l’article 40,
+
 (ii) soit le travailleur collabore à la mise en oeuvre de mesures en matière de soins de santé conformément à l’article 34.
 
 ### Délai de réexamen en cas d’application de l’alinéa (2.1) a)
@@ -1420,20 +1739,27 @@ g) à l’expiration de la période de 72 mois :
 ### Délai de réexamen en cas d’application de l’alinéa (2.1) b)
 
 (2.3) Si l’alinéa (2.1) b) s’applique, la Commission peut réexaminer les versements :
+
 a) au plus tard 30 jours après la date à laquelle le programme est achevé;
+
 b) à n’importe quel moment, si le travailleur, au plus tard 30 jours après la date à laquelle le programme est achevé, n’avise pas la Commission d’un changement important dans les circonstances ou commet une fraude ou fait une assertion inexacte relativement à sa demande de prestations dans le cadre du régime d’assurance.
 
 ### Délai de réexamen en cas d’application de l’alinéa (2.1) c)
 
 (2.4) Si l’alinéa (2.1) c) s’applique, la Commission peut réexaminer les versements :
+
 a) au plus tard 24 mois après la date à laquelle elle a déterminé à nouveau le degré de déficience permanente;
+
 a.1) au plus tard 30 jours après la date à laquelle le programme de réintégration sur le marché du travail est achevé, si elle détermine à nouveau le degré de déficience permanente du travailleur à qui a été fourni un programme de réintégration qui n’est pas achevé à l’expiration de la période de 24 mois visée à l’alinéa a);
+
 b) à n’importe quel moment, si le travailleur, au plus tard le jour où elle réexamine les versements en vertu de l’alinéa a), n’avise pas la Commission d’un changement important dans les circonstances ou commet une fraude ou fait une assertion inexacte relativement à sa demande de prestations dans le cadre du régime d’assurance.
 
 ### Délai de réexamen en cas d’application de l’alinéa (2.1) d)
 
 (2.4.1) Si l’alinéa (2.1) d) s’applique, la Commission peut réexaminer les versements :
+
 a) au plus tard 24 mois après la date à laquelle elle détermine le degré de déficience permanente en application de l’article 47;
+
 b) au plus tard 30 jours après la date à laquelle le programme de réintégration sur le marché du travail est achevé, si elle détermine le degré de déficience permanente du travailleur à qui a été fourni un programme de réintégration qui n’est pas achevé à l’expiration de la période de 24 mois visée à l’alinéa a).
 
 ### Délai de réexamen en cas d’application de l’alinéa (2.1) e)
@@ -1443,7 +1769,9 @@ b) au plus tard 30 jours après la date à laquelle le programme de réintégrat
 ### Délai de réexamen en cas d’application de l’alinéa (2.1) f)
 
 (2.4.3) Si l’alinéa (2.1) f) s’applique, la Commission peut réexaminer les versements :
+
 a) à tout moment qu’elle estime approprié au cours de la période pendant laquelle l’état du travailleur connaît une détérioration temporaire importante;
+
 b) lorsqu’elle détermine que le travailleur s’est remis de la détérioration temporaire importante de son état.
 
 ### Délai de réexamen en cas d’application de l’alinéa (2.1) g)
@@ -1453,13 +1781,17 @@ b) lorsqu’elle détermine que le travailleur s’est remis de la détériorati
 ### Réexamen supplémentaire
 
 (2.4.5) La Commission peut réexaminer les versements à n’importe quel moment :
+
 a) en cas d’application de l’alinéa (2.4) a.1) ou (2.4.1) b), si le travailleur, au plus tard 30 jours après la date à laquelle le programme de réintégration sur le marché du travail est achevé, n’avise pas la Commission d’un changement important dans les circonstances ou commet une fraude ou fait une assertion inexacte relativement à sa demande de prestations dans le cadre du régime d’assurance;
+
 b) en cas d’application de l’alinéa (2.4.1) a) ou du paragraphe (2.4.2), (2.4.3) ou (2.4.4), si le travailleur, au plus tard le jour où elle réexamine les versements en vertu de cet alinéa ou de ce paragraphe, n’avise pas la Commission d’un changement important dans les circonstances ou commet une fraude ou fait une assertion inexacte relativement à sa demande de prestations dans le cadre du régime d’assurance.
 
 ### Disposition transitoire
 
 (2.5) L’alinéa (2.1) b) et le paragraphe (2.3) s’appliquent à l’égard des travailleurs suivants :
+
 a) le travailleur à qui a été fourni un programme de réintégration sur le marché du travail qui n’est pas achevé avant le 26 novembre 2002;
+
 b) le travailleur à qui est fourni un programme de réintégration sur le marché du travail le 26 novembre 2002 ou par la suite.
 
 ### Idem
@@ -1473,10 +1805,15 @@ b) le travailleur à qui est fourni un programme de réintégration sur le march
 ### Idem
 
 (2.8) Les alinéas (2.1) d) et e) et les paragraphes (2.4.1) et (2.4.2) s’appliquent à l’égard des travailleurs suivants :
+
 a) le travailleur dont l’état connaît, le 1 er juillet 2007 ou par la suite, une détérioration importante qui a commencé après l’expiration de la période de 72 mois et qui, selon le cas :
+
 (i) donne lieu à la détermination de son degré de déficience permanente effectuée en application de l’article 47,
+
 (ii) donnera vraisemblablement lieu, de l’avis de la Commission, à une nouvelle détermination de son degré de déficience permanente effectuée en application de l’article 47;
+
 b) le travailleur à qui est fourni un programme de réintégration sur le marché du travail qui n’est pas achevé avant le 1 er juillet 2007;
+
 c) le travailleur à qui est fourni un programme de réintégration sur le marché du travail le 1 er juillet 2007 ou par la suite.
 
 ### Idem
@@ -1498,14 +1835,19 @@ c) le travailleur à qui est fourni un programme de réintégration sur le march
 ### Idem, certains travailleurs plus âgés
 
 (3) Le travailleur peut donner à la Commission la directive de ne pas réexaminer les versements qui lui sont faits pour une perte de gains si les conditions suivantes sont réunies :
+
 a) le travailleur a au moins 55 ans lorsque la Commission détermine qu’il a droit à des versements pour une perte de gains;
+
 b) il a atteint son rétablissement maximal;
+
 c) un programme de réintégration sur le marché du travail préparé pour le travailleur a été achevé.
 
 ### Idem
 
 (4) La directive est donnée au plus tard 30 jours après celle des deux dates suivantes qui est postérieure à l’autre :
+
 a) la date à laquelle le travailleur atteint son rétablissement maximal;
+
 b) la date à laquelle le programme de réintégration sur le marché du travail préparé pour le travailleur est achevé.
 
 ### Effet de la directive
@@ -1543,7 +1885,9 @@ b) la date à laquelle le programme de réintégration sur le marché du travail
 ### Somme forfaitaire
 
 (6.1) Malgré le paragraphe (6), la Commission paie la prestation sous forme de somme forfaitaire si :
+
 a) le montant de la prestation est inférieur à 3 000 $ par année, dans le cas d’un travailleur qui atteint l’âge de 65 ans avant la date précisée;
+
 b) le montant de la prestation est inférieur ou égal au montant maximal des gains moyens calculé en application de l’article 54 pour l’année au cours de laquelle le travailleur atteint l’âge de 65 ans, dans le cas d’un travailleur qui atteint l’âge de 65 ans à la date précisée ou après cette date.
 
 ### Date précisée
@@ -1561,7 +1905,9 @@ b) le montant de la prestation est inférieur ou égal au montant maximal des ga
 ### Aucun droit aux prestations prescrites
 
 (7.2) S’il n’existe pas de droit aux prestations prescrites visées au paragraphe (7) ou (7.1), la Commission retire de la caisse maintenue en application du paragraphe (12) les montants mis en réserve pour le travailleur et le revenu de placements accumulé sur ces montants, et elle transfère le total :
+
 a) à l’employeur du travailleur, s’il s’agit d’un employeur mentionné à l’annexe 2 qui est personnellement tenu de verser des prestations à l’égard du travailleur dans le cadre du régime d’assurance;
+
 b) à la caisse d’assurance, dans les autres cas.
 
 ### Champ d’application
@@ -1583,11 +1929,17 @@ b) à la caisse d’assurance, dans les autres cas.
 ### États annuels
 
 (11) La Commission fournit au travailleur un état annuel où figurent les renseignements suivants :
+
 a) les montants que la Commission a mis en réserve dans l’année au nom du travailleur;
+
 b) les cotisations que le travailleur a versées dans l’année, le cas échéant;
+
 c) le revenu de placements accumulé dans l’année sur les montants visés aux alinéas a) et b);
+
 d) la date à laquelle le travailleur acquiert le droit à une prestation;
+
 e) le nom des bénéficiaires qu’il a désignés;
+
 f) tout autre renseignement que la Commission estime approprié.
 
 ### Caisse
@@ -1605,20 +1957,27 @@ f) tout autre renseignement que la Commission estime approprié.
 ### Montant
 
 (2) Le montant de l’indemnité est calculé en multipliant le pourcentage de la déficience permanente du travailleur résultant de la lésion, tel qu’il est déterminé par la Commission, par l’un ou l’autre des montants suivants :
+
 a) 59 095,26 $ plus 1 313,71 $ pour chaque année qui restait au travailleur, au moment où la lésion est survenue, pour atteindre l’âge de 45 ans;
+
 b) 59 095,26 $ moins 1 313,71 $ pour chaque année qu’avait le travailleur au-delà de 45 ans au moment où la lésion est survenue.
+
 Toutefois, les montants maximal et minimal qui doivent être multipliés par le pourcentage de la déficience du travailleur sont de 85 359,27 $ et de 32 831,21 $ respectivement.
 
 ### Somme forfaitaire ou versement mensuel
 
 (3) Si le travailleur acquiert le droit à une indemnité aux termes du présent article avant la date précisée, les règles suivantes s’appliquent au versement de l’indemnité :
+
 1. Si le montant de l’indemnité est supérieur à 13 132,01 $, il est payable sous forme de versements mensuels durant la vie du travailleur. S’il est inférieur ou égal à 13 132,01 $, il est payable sous forme de somme forfaitaire.
+
 2. Malgré la disposition 1, le travailleur peut choisir de recevoir sous forme de somme forfaitaire un montant qui lui serait payable par ailleurs sous forme de versements mensuels s’il le fait dans les 30 jours qui suivent le moment où il est avisé du montant par la Commission.
 
 ### Idem
 
 (4) Si le travailleur acquiert le droit à une indemnité aux termes du présent article à la date précisée ou après cette date, l’indemnité est payable sous forme de somme forfaitaire sauf si les conditions suivantes sont réunies :
+
 1. Le montant de l’indemnité est supérieur à 13 132,01 $.
+
 2. Le travailleur choisit, dans les 30 jours qui suivent le moment où il est avisé du montant par la Commission, de recevoir l’indemnité sous forme de versements mensuels durant sa vie.
 
 ### Date précisée
@@ -1640,7 +1999,9 @@ Toutefois, les montants maximal et minimal qui doivent être multipliés par le 
 ### Idem
 
 (2) La détermination est faite conformément au barème de taux prescrit (ou, si le barème ne tient pas compte de la déficience, conformément aux critères prescrits) et tient compte de ce qui suit :
+
 a) les évaluations médicales effectuées aux termes du présent article, le cas échéant;
+
 b) des renseignements sur la santé que la Commission a dans ses dossiers au sujet du travailleur.
 
 ### Évaluation médicale
@@ -1698,15 +2059,21 @@ b) des renseignements sur la santé que la Commission a dans ses dossiers au suj
 ### Conjoint, somme forfaitaire
 
 (2) Le conjoint survivant qui cohabitait avec le travailleur au moment du décès de celui-ci a droit au versement d’une somme forfaitaire de 80 673,30 $ :
+
 a) plus 2 016,83 $ pour chaque année qui reste au conjoint, à la date du décès du travailleur, pour atteindre l’âge de 40 ans;
+
 b) moins 2 016,83 $ pour chaque année qu’a le conjoint au-delà de 40 ans à la date du décès du travailleur.
+
 Toutefois, les montants maximal et minimal payables aux termes du présent paragraphe sont de 121 009,87 $ et de 40 336,60 $ respectivement.
 
 ### Versements périodiques au conjoint sans enfants
 
 (3) Au décès du travailleur qui laisse un conjoint qui cohabitait avec lui au moment de son décès mais pas d’enfants, son conjoint survivant a le droit de recevoir, sous forme de versements périodiques, un montant correspondant à 40 pour cent des gains moyens nets du travailleur décédé :
+
 a) plus un pour cent des gains moyens nets pour chaque année qu’a le conjoint au-delà de 40 ans à la date du décès du travailleur;
+
 b) moins un pour cent des gains moyens nets pour chaque année qui reste au conjoint, à la date du décès du travailleur, pour atteindre l’âge de 40 ans.
+
 Toutefois, les pourcentages maximal et minimal payables aux termes du présent paragraphe sont de 60 pour cent et de 20 pour cent respectivement. Si les gains moyens nets du travailleur décédé sont inférieurs à 22 904,44 $, ils sont réputés correspondre à ce montant.
 
 ### Versements périodiques au conjoint avec enfants
@@ -1728,11 +2095,17 @@ Toutefois, les pourcentages maximal et minimal payables aux termes du présent p
 ### Répartition entre conjoints
 
 (8) Si plus d’une personne a droit à des versements aux termes du présent article comme un conjoint du travailleur décédé, les règles suivantes s’appliquent :
+
 1. Les versements de sommes forfaitaires faits aux conjoints ne doivent pas dépasser au total 121 009,87 $.
+
 2. Les versements périodiques faits aux conjoints ne doivent pas dépasser au total 85 pour cent des gains moyens nets du travailleur décédé.
+
 3. La Commission répartit les versements entre les conjoints conformément aux éléments suivants :
+
 i. le degré relatif de dépendance de chaque conjoint, aux points de vue financier et affectif, vis-à-vis du travailleur décédé au moment du décès,
+
 ii. la période de séparation, le cas échéant, entre le travailleur décédé et chaque conjoint au moment du décès,
+
 iii. l’importance des droits relatifs de chaque conjoint à des versements aux termes du présent article sans tenir compte du présent paragraphe.
 
 ### Programme de réintégration sur le marché du travail à l’intention du conjoint
@@ -1782,16 +2155,23 @@ iii. l’importance des droits relatifs de chaque conjoint à des versements aux
 ### Parent (autre que le conjoint)
 
 (20) Malgré les paragraphes (14) et (15), les règles suivantes s’appliquent si le parent qui n’est pas le conjoint du travailleur décédé ou une autre personne qui agit à titre de parent subvient aux besoins d’un ou de plusieurs enfants qui ont droit à des versements aux termes du présent article :
+
 1. Le parent ou l’autre personne a droit aux versements périodiques auxquels le conjoint du travailleur décédé aurait droit aux termes du paragraphe (4).
+
 2. Dans le cas visé à la disposition 1, les versements faits au parent ou à l’autre personne à l’égard des enfants remplacent les versements périodiques auxquels les enfants auraient par ailleurs droit aux termes du présent article.
+
 3. S’il y a plus d’une personne qui est un parent ou une autre personne et qu’il y a plus d’un enfant, la Commission répartit les versements entre eux.
+
 4. Les versements périodiques faits aux termes du présent paragraphe ne doivent pas dépasser au total 85 pour cent des gains moyens nets du travailleur décédé.
 
 ### Personnes à charge, aucun conjoint ni enfant
 
 (21) Au décès du travailleur qui ne laisse ni conjoint ni enfant, mais qui laisse d’autres personnes à charge, celles-ci ont droit à une indemnité raisonnable proportionnelle à la perte causée à chacune d’elles. Les règles suivantes s’appliquent à cette indemnité :
+
 1. La Commission fixe le montant de l’indemnité.
+
 2. Les versements périodiques faits aux personnes à charge ne doivent pas dépasser au total 50 pour cent des gains moyens nets du travailleur décédé.
+
 3. Les versements périodiques en faveur d’une personne à charge ne sont payables que pour la période au cours de laquelle le travailleur, selon toute attente raisonnable, aurait continué de subvenir aux besoins de cette personne s’il n’avait pas subi de lésion.
 
 ### Frais d’inhumation
@@ -1853,11 +2233,13 @@ iii. l’importance des droits relatifs de chaque conjoint à des versements aux
 ### Champ d’application
 
 (3) Le facteur d’indexation s’applique au calcul de tous les montants payables aux termes de la présente partie.
+
 50 Abrogé : 2015, chap. 38, annexe 23, art. 3.
 
 ### Indexation de montants figurant dans la Loi
 
 51 (1) Le 1 er janvier de chaque année, les montants figurant dans la présente loi (tels qu’ils ont été rajustés le 1 er janvier précédent) sont rajustés selon le facteur d’indexation prévu au paragraphe 49 (1).
+
 (1.1) Abrogé : 2015, chap. 38, annexe 23, par. 4 (2).
 
 ### Exceptions
@@ -1867,6 +2249,7 @@ iii. l’importance des droits relatifs de chaque conjoint à des versements aux
 ### Versements antérieurs à 2018
 
 (2.1) Les versements antérieurs au 1 er janvier 2018 qui ont été calculés à l’aide des montants figurant dans la présente loi qui devaient être rajustés conformément au présent article, dans sa version en vigueur le 31 décembre 2017, mais qui, à la place, ont été rajustés conformément au deuxième facteur d’indexation prévu au paragraphe 50 (1), dans sa version en vigueur le 31 décembre 2017, ne sont pas invalidés pour le seul motif que les montants utilisés pour calculer les versements n’ont pas été rajustés conformément au présent article, dans sa version en vigueur le 31 décembre 2017. Nul n’a le droit de s’opposer à une décision ou de la porter en appel ni d’introduire une action ou une autre instance judiciaire pour ce seul motif.
+
 (3) à (7) Abrogés : 2015, chap. 38, annexe 23, par. 4 (2).
 
 ### Rajustement annuel des montants payables
@@ -1876,7 +2259,9 @@ iii. l’importance des droits relatifs de chaque conjoint à des versements aux
 ### Facteur d’indexation additionnel
 
 52.0.1 (1) Si un facteur d’indexation additionnel est prescrit pour l’application du présent article, à la date prescrite, la Commission prend l’une ou l’autre des mesures suivantes :
+
 a) rajuster les montants ayant été rajustés aux termes du paragraphe 51 (1) et de l’article 52 selon le facteur d’indexation additionnel prescrit;
+
 b) si les montants ayant été rajustés aux termes du paragraphe 51 (1) et de l’article 52 ont été rajustés précédemment selon un facteur d’indexation additionnel prescrit au cours d’une même année civile, les rajuster selon le facteur d’indexation additionnel prescrit le plus récemment.
 
 ### Idem : le 1 er janvier
@@ -1886,7 +2271,9 @@ b) si les montants ayant été rajustés aux termes du paragraphe 51 (1) et de l
 ### Idem : nouvelles demandes
 
 (3) Si la date prescrite pour l’application du paragraphe (1) est autre que le 1 er janvier, à la date prescrite, la Commission prend les mesures suivantes :
+
 a) rajuster les montants devenus payables pour la première fois entre le 1 er janvier et la date prescrite selon le facteur d’indexation additionnel prescrit;
+
 b) si plus d’un facteur d’indexation additionnel est prescrit pour une même année civile, rajuster les montants rajustés précédemment selon le facteur d’indexation additionnel prescrit le plus récemment.
 
 ### Augmentations
@@ -1906,8 +2293,11 @@ b) si plus d’un facteur d’indexation additionnel est prescrit pour une même
 ### Gains moyens
 
 53 (1) La Commission détermine le montant des gains moyens du travailleur aux fins du régime d’assurance et, à cette fin, tient compte de ce qui suit :
+
 a) le taux hebdomadaire auquel le travailleur était rémunéré par chacun des employeurs pour lesquels il travaillait lorsque la lésion est survenue;
+
 b) toute tendance de l’emploi du travailleur qui entraîne un changement dans ses gains;
+
 c) tout autre renseignement qu’elle estime approprié.
 
 ### Exception
@@ -1925,7 +2315,9 @@ c) tout autre renseignement qu’elle estime approprié.
 ### Apprentis
 
 (4.1) Malgré le présent article, la Commission détermine les gains moyens d’un travailleur qui est un apprenti de la manière suivante :
+
 1. Les gains moyens sont déterminés en fonction des gains moyens d’un ouvrier employé par l’employeur dans le métier qu’exerçait le travailleur quand il s’est blessé.
+
 2. Si l’employeur du travailleur n’avait pas d’ouvrier exerçant le métier qu’exerçait le travailleur quand il s’est blessé, les gains moyens sont déterminés en fonction des gains moyens d’un ouvrier exerçant le même métier dans la localité de l’employeur quand il s’est blessé.
 
 ### Travailleurs dans une situation d’urgence
@@ -1935,7 +2327,9 @@ c) tout autre renseignement qu’elle estime approprié.
 ### Gains moyens, perte de gains périodique
 
 (6) Lorsque le travailleur acquiert le droit à des versements pour une perte de gains qui résulte d’un accident à l’égard duquel il a déjà reçu des prestations dans le cadre du régime d’assurance, ses gains moyens, aux fins du calcul du montant payable au titre de la perte de gains, correspondent au plus élevé des montants suivants :
+
 a) ses gains moyens à la date de l’accident;
+
 b) ses gains moyens au cours de son emploi le plus récent.
 
 ### Montant maximal des gains moyens
@@ -1961,9 +2355,13 @@ b) ses gains moyens au cours de son emploi le plus récent.
 ### Gains moyens nets
 
 55 (1) La Commission détermine le montant des gains moyens nets du travailleur en déduisant de ses gains les montants suivants :
+
 a) l’impôt sur le revenu qu’il devra probablement payer sur ses gains;
+
 b) les cotisations qu’il devra probablement verser au Régime de pensions du Canada ou au Régime de rentes du Québec ;
+
 c) les cotisations d’assurance-emploi qu’il devra probablement verser.
+
 (2) Abrogé : 2015, chap. 38, annexe 23, art. 7.
 
 ### Barème des gains moyens nets
@@ -2019,7 +2417,9 @@ c) les cotisations d’assurance-emploi qu’il devra probablement verser.
 ### Avis de décision
 
 (3) La Commission avise le travailleur, l’auteur de la demande et l’employeur de sa décision, mais ne peut en aucun cas divulguer le rapport ou l’opinion jusqu’à celui des deux événements suivants qui est postérieur à l’autre :
+
 a) l’expiration d’un délai de 21 jours après qu’elle a donné avis de sa décision;
+
 b) s’il est interjeté appel de la décision, le jour où le Tribunal d’appel rend une décision définitive sur la question.
 
 ### Appel
@@ -2053,7 +2453,9 @@ b) s’il est interjeté appel de la décision, le jour où le Tribunal d’appe
 ### Versements dus aux travailleurs décédés
 
 61 (1) Si des prestations dues dans le cadre du régime d’assurance sont payables à une succession et qu’il n’y a pas de représentant successoral auquel la Commission puisse faire le versement, la Commission :
+
 a) soit fait des recherches raisonnables afin de déterminer à qui verser les sommes dues à la succession;
+
 b) soit peut présenter une requête sans préavis au tribunal en vue d’obtenir une ordonnance de consignation de ces sommes au tribunal.
 
 ### Ordonnance
@@ -2067,7 +2469,9 @@ b) soit peut présenter une requête sans préavis au tribunal en vue d’obteni
 ### Dépens
 
 (4) Si la Commission fait une consignation au tribunal aux termes d’une ordonnance, le tribunal peut :
+
 a) fixer, sans liquidation, les dépens occasionnés par la requête ou l’ordonnance ou relativement à celles-ci;
+
 b) ordonner que les dépens soient prélevés sur les prestations.
 
 ### Dégagement de responsabilité
@@ -2085,7 +2489,9 @@ b) ordonner que les dépens soient prélevés sur les prestations.
 ### Rachat des versements
 
 (2) Sous réserve du paragraphe (3), la Commission peut racheter les versements payables au travailleur aux termes de l’article 43 (perte de gains) et lui verser à la place une somme forfaitaire si les conditions suivantes sont réunies :
+
 a) le montant des versements correspond à au plus 10 pour cent de la perte de gains totale du travailleur;
+
 b) le délai de 72 mois prévu pour réexaminer les versements payables au travailleur a expiré ou la Commission n’est pas autorisée à faire ce réexamen.
 
 ### Choix
@@ -2099,7 +2505,9 @@ b) le délai de 72 mois prévu pour réexaminer les versements payables au trava
 ### Ententes : versements
 
 63 (1) Ne lie pas le travailleur ou le survivant du travailleur, à moins d’être approuvé par la Commission, l’entente conclue entre un employeur mentionné à l’annexe 2 et le travailleur ou le survivant qui, selon le cas :
+
 a) fixe le montant que l’employeur doit verser au travailleur ou au survivant dans le cadre du régime d’assurance;
+
 b) prévoit que le travailleur ou le survivant convient d’accepter une somme précisée à la place ou en acquittement des versements auxquels il a droit dans le cadre du régime d’assurance.
 
 ### Exception
@@ -2121,7 +2529,9 @@ b) prévoit que le travailleur ou le survivant convient d’accepter une somme p
 ### Idem
 
 (2) La Commission verse la totalité ou une partie du montant dû à la personne dans le cadre du régime d’assurance :
+
 a) soit conformément à un avis de saisie-arrêt délivré par un tribunal en Ontario;
+
 b) soit conformément à un avis d’ordonnance de retenue des aliments signifié à la Commission par le directeur du Bureau des obligations familiales.
 
 ### Limites et procédures
@@ -2147,18 +2557,27 @@ b) soit conformément à un avis d’ordonnance de retenue des aliments signifi�
 ### «Métier»
 
 68 L’exercice, par les entités suivantes, de leurs pouvoirs et de leurs fonctions est réputé constituer leur métier ou leur entreprise aux fins du régime d’assurance :
+
 1. Une municipalité.
+
 2. Une commission de services publics ou une autre commission ou un conseil (autre qu’un conseil d’hôpital) qui dirige le travail ou le service appartenant à une municipalité ou exploité pour son compte.
+
 3. Un conseil de bibliothèques publiques.
+
 4. Le conseil de syndics d’un village partiellement autonome.
+
 5. Un conseil scolaire.
 
 ### Organismes de formation et personnes en formation
 
 69 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «agent d’accueil» Personne auprès de qui une personne en formation est placée par un organisme de formation afin d’acquérir des compétences et de l’expérience professionnelles. («placement host»)
+
 «organisme de formation» S’entend, selon le cas :
+
 a) d’une personne qui est inscrite aux termes de la Loi de 2005 sur les collèges d’enseignement professionnel de l’Ontario pour exploiter un collège d’enseignement professionnel;
+
 b) d’un membre d’une catégorie prescrite qui fournit une formation professionnelle ou autre. («training agency») 1997, chap. 16, annexe A, par. 69 (1)
 
 ### Choix
@@ -2168,14 +2587,19 @@ b) d’un membre d’une catégorie prescrite qui fournit une formation professi
 ### Effet du choix
 
 (3) Dès que la Commission est avisée par écrit du choix effectué par un organisme de formation, les règles suivantes s’appliquent à l’égard de chaque personne en formation qui est placée auprès d’un agent d’accueil, à l’exclusion toutefois de celle à qui l’agent d’accueil verse un salaire :
+
 1. L’agent d’accueil est réputé ne pas être un employeur de la personne en formation pour l’application de la présente loi. Toutefois, il demeure l’employeur de celle-ci pour l’application de l’article 28 (droits d’action).
+
 2. L’organisme de formation est réputé être l’employeur de la personne en formation pour l’application de la présente loi.
+
 3. La personne en formation est réputée être un stagiaire employé par l’organisme de formation.
 
 ### Cas où la personne en formation subit une lésion
 
 (4) Si une personne en formation à l’égard de laquelle s’applique le paragraphe (3) subit une lésion corporelle accidentelle ou souffre d’une maladie professionnelle au cours d’un placement auprès d’un agent d’accueil :
+
 a) d’une part, les prestations, dans le cadre du régime d’assurance, de la personne en formation sont déterminées comme si l’agent d’accueil était l’employeur de la personne en formation;
+
 b) d’autre part, les articles 40 et 41 (retour au travail) ne s’appliquent pas à l’agent d’accueil ni à l’organisme de formation.
 
 ### Révocation du choix
@@ -2189,10 +2613,15 @@ b) d’autre part, les articles 40 et 41 (retour au travail) ne s’appliquent p
 ### Entité réputée employeur, certains travailleurs auxiliaires
 
 70 Une des entités suivantes, selon ce qui est approprié, est réputée être l’employeur d’un membre d’un corps municipal de pompiers auxiliaires ou d’un corps d’ambulanciers auxiliaires ou d’un membre auxiliaire d’un service de police :
+
 1. Une municipalité.
+
 2. Une commission de services publics ou une autre commission ou un conseil (autre qu’un conseil d’hôpital) qui dirige le corps de pompiers ou d’ambulanciers pour une municipalité.
+
 2.1 Toute autre personne qui dirige le corps d’ambulanciers auxiliaires pour une municipalité.
+
 3. Le conseil de syndics d’un village partiellement autonome.
+
 4. Un service de police.
 
 ### Entité réputée employeur, travailleurs dans une situation d’urgence
@@ -2288,7 +2717,9 @@ b) d’autre part, les articles 40 et 41 (retour au travail) ne s’appliquent p
 ### Idem, certains travailleurs auxiliaires
 
 (3) S’il est remis par l’employeur réputé être l’employeur d’un corps municipal de pompiers auxiliaires, d’un corps d’ambulanciers auxiliaires ou de membres auxiliaires d’un service de police, l’état énonce ce qui suit :
+
 a) le nombre de membres du corps de pompiers ou d’ambulanciers ou de membres auxiliaires du service de police;
+
 b) le montant des gains, fixé par cet employeur, à attribuer à chaque membre aux fins du régime d’assurance.
 
 ### États additionnels
@@ -2306,7 +2737,9 @@ b) le montant des gains, fixé par cet employeur, à attribuer à chaque membre 
 ### Effet de l’inobservation
 
 (7) La Commission peut exiger que l’employeur qui ne soumet pas un état, ou qui ne le fait pas au plus tard à la date précisée par elle, paie, selon le cas :
+
 a) des intérêts au taux fixé par la Commission sur les primes de l’employeur pour la période visée par l’état;
+
 b) un pourcentage supplémentaire, fixé par la Commission, des primes de l’employeur pour cette période.
 
 ### Idem
@@ -2362,7 +2795,9 @@ b) un pourcentage supplémentaire, fixé par la Commission, des primes de l’em
 ### Associés et dirigeants
 
 81.1 (1) La Commission peut fixer des taux de primes pour les personnes suivantes :
+
 a) les associés d’une société de personnes visés à la disposition 3 du paragraphe 12.2 (1) qui n’effectuent pas de travaux de construction;
+
 b) les dirigeants d’une personne morale visés à la disposition 4 du paragraphe 12.2 (1) qui n’effectuent pas de travaux de construction.
 
 ### Idem
@@ -2380,9 +2815,13 @@ b) les dirigeants d’une personne morale visés à la disposition 4 du paragrap
 ### Rajustement des primes pour certains employeurs
 
 82 La Commission peut augmenter ou diminuer les primes payables par ailleurs par un employeur donné dans les circonstances qu’elle estime appropriées, notamment dans les circonstances suivantes :
+
 1. Si, à son avis, l’employeur n’a pas pris de précautions suffisantes pour prévenir des accidents du travail ou les conditions de travail présentent un risque pour les travailleurs.
+
 2. Si les antécédents de l’employeur en matière d’accidents ont constamment été positifs et que ses procédés, ses installations, ses machines et ses appareils répondent à des normes modernes de façon à réduire au minimum les risques d’accident.
+
 3. Si l’employeur s’est conformé aux règlements pris en application de la présente loi ou de la Loi sur la santé et la sécurité au travail en matière de premiers soins.
+
 4. Si la fréquence et le coût des accidents du travail survenus aux travailleurs de l’employeur sont constamment plus élevés que ceux de la moyenne dans le secteur d’activité dans lequel oeuvre l’employeur.
 
 ### Programmes de tarification par incidence
@@ -2400,15 +2839,25 @@ b) les dirigeants d’une personne morale visés à la disposition 4 du paragrap
 ### Règlements : travailleurs temporaires
 
 (4) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) définir ce qu’est une agence de placement temporaire pour l’application du présent article;
+
 b) exiger que, malgré l’article 72, si une agence de placement temporaire prête ou loue les services d’un travailleur à un autre employeur qui participe à un programme établi en vertu du paragraphe (1) et que le travailleur subit une lésion pendant qu’il exécute un travail pour l’autre employeur, la Commission :
+
 (i) considère le montant total du salaire que l’agence de placement temporaire verse au travailleur durant l’année en cours pour un travail exécuté pour l’autre employeur comme étant versé par cet autre employeur,
+
 (ii) attribue la lésion et le coût de l’accident du travail à l’autre employeur,
+
 (iii) augmente ou diminue le montant des primes de l’autre employeur en se fondant sur la fréquence des accidents du travail ou leur coût, ou les deux,
+
 (iv) considère l’autre employeur comme un employeur pour l’application des articles 58 et 59 dans les circonstances prescrites;
+
 c) prescrire des circonstances pour l’application du sous-alinéa b) (iv);
+
 d) exiger que, si une agence de placement temporaire prête ou loue les services d’un travailleur à un autre employeur qui participe à un programme établi en vertu du paragraphe (1) et que le travailleur subit une lésion pendant qu’il exécute un travail pour l’autre employeur, ce dernier avise la Commission de la lésion;
+
 e) pour les besoins de tout avis exigé par un règlement pris en vertu de l’alinéa d), régir l’avis, notamment prescrire le mode et le délai de remise de l’avis de lésion et les parties auxquelles il doit être remis;
+
 f) prescrire des pénalités pour l’inobservation des exigences prescrites en vertu des alinéas d) et e).
 
 ### Transfert des coûts
@@ -2472,13 +2921,17 @@ f) prescrire des pénalités pour l’inobservation des exigences prescrites en 
 ### Exception : année civile 2021
 
 88.1 (1) Malgré le paragraphe 88 (3), pour la période qui commence le 1 er janvier 2021 et se termine le 31 décembre 2021 ou à la date ultérieure prescrite, la prime payable par l’employeur pour chacun de ses travailleurs ne s’applique qu’à l’égard du montant maximal des gains moyens de l’un ou l’autre des montants suivants :
+
 a) 97 308 $;
+
 b) le montant prescrit pour l’application du présent article, le cas échéant.
 
 ### Règlements
 
 (2) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire une date pour l’application du paragraphe (1);
+
 b) prescrire un montant pour l’application de l’alinéa (1) b).
 
 ### Idem
@@ -2584,7 +3037,9 @@ b) prescrire un montant pour l’application de l’alinéa (1) b).
 ### Exception, employeur mentionné à l’annexe 2
 
 (7) Malgré les articles 15, 15.1 et 15.2, le travailleur n’a droit à aucune prestation dans le cadre du régime d’assurance et l’employeur mentionné à l’annexe 2 n’est pas tenu de faire de versements dans le cadre du régime d’assurance au travailleur ou à ses survivants ou pour eux si les conditions suivantes sont réunies :
+
 a) la Commission n’a pas suffisamment de renseignements au sujet des employeurs antérieurs du travailleur pour rendre la décision visée au paragraphe (4);
+
 b) l’employeur prouve que le travailleur n’a pas contracté la maladie pendant qu’il était employé par lui.
 
 ### Augmentation des prestations
@@ -2596,7 +3051,9 @@ b) l’employeur prouve que le travailleur n’a pas contracté la maladie penda
 ### Aucune contribution de la part des travailleurs
 
 95.1 (1) Aucun employeur ne doit, selon le cas :
+
 a) directement ou indirectement, retenir sur le salaire d’un travailleur une somme que l’employeur est ou peut être tenu de verser au travailleur dans le cadre du régime d’assurance;
+
 b) exiger ou permettre qu’un travailleur contribue de quelque manière à l’indemnisation de l’employeur en ce qui concerne une obligation que ce dernier a contractée ou peut contracter dans le cadre du régime d’assurance.
 
 ### Droit d’action
@@ -2614,15 +3071,21 @@ b) exiger ou permettre qu’un travailleur contribue de quelque manière à l’
 ### Définitions
 
 96 (1) Les définitions qui suivent s’appliquent à la présente partie.
+
 «prestations courantes» Prestations payables durant l’année civile en cours dans le cadre du régime d’assurance. («current benefits»)
+
 «prestations futures» Valeur actualisée, calculée par l’actuaire de la Commission, des prestations qui deviendront exigibles à l’avenir dans le cadre du régime d’assurance à l’égard des demandes courantes ou antérieures. («future benefits») 2010, chap. 26, annexe 21, par. 1 (2).
 
 ### Caisse d’assurance
 
 (2) La Commission maintient une caisse d’assurance aux fins suivantes :
+
 1. Verser les prestations courantes aux travailleurs employés par les employeurs mentionnés à l’annexe 1 et aux survivants de travailleurs décédés et pourvoir à leurs prestations futures dans le cadre du régime d’assurance.
+
 2. Payer les dépenses de la Commission et les frais d’application de la présente loi.
+
 3. Payer les autres frais qui doivent, aux termes d’une loi, être payés par la Commission ou prélevés sur la caisse d’assurance.
+
 4. Faire les autres versements exigés par la présente loi.
 
 ### Actif suffisant
@@ -2636,8 +3099,11 @@ b) exiger ou permettre qu’un travailleur contribue de quelque manière à l’
 ### Idem
 
 (5) La Commission maintient la caisse d’assurance de façon à éviter d’imposer à une catégorie d’employeurs mentionnés à l’annexe 1 une charge injuste ou indue liée :
+
 a) soit à des versements, au cours d’une année quelconque, au titre des prestations courantes;
+
 b) soit à des versements, dans les années à venir, au titre des prestations futures.
+
 96.1 Abrogé : 2021, chap. 35, annexe 6, art. 1.
 
 ### Actif insuffisant après la date prescrite
@@ -2651,6 +3117,7 @@ b) soit à des versements, dans les années à venir, au titre des prestations f
 ### Fonds de réserve
 
 97 (1) Lorsque l’actif de la caisse d’assurance est suffisant aux fins énoncées au paragraphe 96 (3), la Commission peut créer et maintenir un ou plusieurs fonds de réserve pour pourvoir aux prestations futures.
+
 (2) Abrogé : 2021, chap. 35, annexe 6, art. 2.
 
 ### Idem
@@ -2688,7 +3155,9 @@ b) soit à des versements, dans les années à venir, au titre des prestations f
 ### Idem
 
 (2) Sauf dans les circonstances prescrites, si le montant de l’actif de la caisse d’assurance atteint un ratio de suffisance égal à 125 %, la Commission :
+
 a) soit distribue la différence entre le montant prescrit en vertu de l’alinéa 100 f.1) et le montant de l’actif de la caisse d’assurance entre les employeurs mentionnés à l’annexe 1;
+
 b) soit, si aucun montant n’est prescrit en vertu de l’alinéa 100 f.1), distribue tout montant dépassant le montant prescrit en vertu de l’alinéa 100 c) qu’elle estime approprié entre les employeurs mentionnés à l’annexe 1, compte tenu des critères prescrits et des autres facteurs qu’elle estime appropriés.
 
 ### Distribution de montants différents
@@ -2722,8 +3191,11 @@ b) soit, si aucun montant n’est prescrit en vertu de l’alinéa 100 f.1), dis
 ### Distribution de l’excédent, employeurs municipaux mentionnés à l’annexe 2
 
 97.3 (1) Sauf dans les circonstances prescrites, si le montant de l’actif de la caisse d’assurance est supérieur au montant prévu à l’alinéa 100 c), la Commission verse à un employeur mentionné à l’annexe 2 qui est une municipalité un montant égal aux prestations que l’employeur est tenu de verser aux termes de l’article 90 à l’égard d’un travailleur ou d’un survivant pour la période située entre le jour où le travailleur ou survivant a eu droit à des prestations et le jour de l’entrée en vigueur de l’article 4 de l’annexe 6 de la Loi de 2024 visant à œuvrer pour les travailleurs, six relativement à une maladie professionnelle :
+
 a) qui a été diagnostiquée au plus tard le jour de l’entrée en vigueur de l’article 4 de l’annexe 6 de la Loi de 2024 visant à œuvrer pour les travailleurs, six ;
+
 b) à laquelle s’applique la présomption énoncée au paragraphe 15.1 (4.7);
+
 c) qui est en lien avec une demande déposée ou redéposée en application de l’article 15.2 dans les 12 mois qui suivent le jour de l’entrée en vigueur de l’article 4 de l’annexe 6 de la Loi de 2024 visant à œuvrer pour les travailleurs, six ou qui est en instance devant la Commission ou le Tribunal le jour de l’entrée en vigueur de l’article 4 de l’annexe 6 de la Loi de 2024 visant à œuvrer pour les travailleurs, six.
 
 ### Employeurs mentionnés à l’annexe 2
@@ -2797,17 +3269,29 @@ c) qui est en lien avec une demande déposée ou redéposée en application de l
 ### Règlements
 
 100 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire tout ce qui est mentionné dans la présente partie comme étant prescrit;
+
 b) prescrire la date à laquelle l’actif de la caisse d’assurance doit, au plus tard, être devenu suffisant;
+
 c) prescrire le montant que doit atteindre l’actif de la caisse d’assurance pour être suffisant au plus tard à la date prescrite ou prescrire le mode de calcul de ce montant, notamment la formule, le ratio ou le pourcentage à utiliser pour effectuer le calcul;
+
 d) Abrogé : 2021, chap. 35, annexe 6, par. 4 (1).
+
 e) prescrire les exigences auxquelles la Commission doit se conformer pour l’application de l’article 96.2, notamment le délai dans lequel elle doit le faire;
+
 f) prescrire les conditions, restrictions ou exigences relatives à l’utilisation des fonds de réserve pour l’application du paragraphe 97 (2.1);
+
 f.1) prescrire, pour l’application du paragraphe 97.1 (2), un montant, exprimé sous forme de ratio ou de pourcentage, qui est supérieur à un ratio de suffisance de 115 % mais inférieur à un ratio de suffisance de 125 %;
+
 f.2) prescrire des circonstances pour l’application du paragraphe 97.1 (2);
+
 f.3) prescrire des critères pour l’application de l’article 97.1;
+
 f.4) prescrire des exigences pour l’application du paragraphe 97.1 (5);
+
 f.5) prescrire le mode de calcul du ratio de suffisance pour l’application de l’article 97.1, notamment la formule, le ratio ou le pourcentage à utiliser pour effectuer le calcul;
+
 g) prévoir les questions transitoires que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables à l’égard de la présente partie et des règlements pris en application de celle-ci.
 
 ## PARTIE IX RÈGLES TRANSITOIRES
@@ -2817,7 +3301,9 @@ g) prévoir les questions transitoires que le lieutenant-gouverneur en conseil e
 ### Définitions
 
 101 Les définitions qui suivent s’appliquent à la présente partie.
+
 «lésion d’avant 1998» Lésion corporelle résultant d’un accident qui survient avant le 1 er janvier 1998 ou maladie professionnelle qui survient avant cette date. («pre-1998 injury»)
+
 «Loi d’avant 1997» La Loi sur les accidents du travail telle qu’elle existait le 31 décembre 1997. («pre-1997 Act») 1997, chap. 16, annexe A, art. 101.
 
 ### Lésions d’avant 1998
@@ -2833,12 +3319,19 @@ g) prévoir les questions transitoires que le lieutenant-gouverneur en conseil e
 ### Définition de «conjoint»
 
 103.1 La définition de «conjoint» au paragraphe 1 (1) de la Loi d’avant 1997 est réputée abrogée et remplacée par ce qui suit :
+
 «conjoint» L’une ou l’autre de deux personnes qui, au décès de celle qui était le travailleur, cohabitaient et :
+
 a) soit étaient mariées ensemble;
+
 b) soit vivaient ensemble dans une union conjugale hors du mariage et :
+
 (i) ou bien avaient cohabité pendant au moins un an,
+
 (ii) ou bien avaient eu un enfant ensemble,
+
 (iii) ou bien avaient conclu un accord de cohabitation en vertu de l’article 53 de la Loi sur le droit de la famille.
+
 103.2 et 103.3 Abrogés : 2005, chap. 5, par. 73 (28).
 
 ### Prestations de décès
@@ -2876,11 +3369,13 @@ b) soit vivaient ensemble dans une union conjugale hors du mariage et :
 ### Deuil
 
 (3.4) Sur demande du conjoint, la Commission peut payer les coûts de services de counselling relativement au deuil pour le conjoint ou les enfants du travailleur. La demande doit être reçue au plus tard un an après le décès du travailleur.
+
 (3) à (12) Abrogés : 2005, chap. 5, par. 73 (36).
 
 ### Invalidité partielle à caractère temporaire
 
 105 Le sous-alinéa 37 (2) b) (i) de la Loi d’avant 1997 est réputé modifié par substitution, à «à un programme de réadaptation professionnelle ou médicale qui» aux première, deuxième et troisième lignes, de «à un programme de réadaptation médicale, à un programme de retour au travail rapide et sans danger ou à un programme de réintégration sur le marché du travail, selon les circonstances, qui».
+
 105.1 Abrogé : 2005, chap. 5, par. 73 (37).
 
 ### Perte non économique en cas de déficience permanente
@@ -2914,7 +3409,9 @@ b) soit vivaient ensemble dans une union conjugale hors du mariage et :
 ### Idem
 
 (4) Les alinéas 43 (9) a) et b) de la Loi d’avant 1997 sont réputés abrogés et remplacés par ce qui suit :
+
 a) soit qui a débuté dans les 24 mois suivant la date à laquelle est déterminée l’indemnité pour perte de gains future aux termes du présent article;
+
 b) soit qui a débuté dans les 12 mois suivant la détermination effectuée aux termes du paragraphe 47 (9) de la Loi de 1997 sur la sécurité professionnelle et l’assurance contre les accidents du travail.
 
 ### Indexation de l’indemnité pour perte de gains future
@@ -2928,6 +3425,7 @@ b) soit qui a débuté dans les 12 mois suivant la détermination effectuée aux
 ### Indexation
 
 (6.1) Le montant de l’indemnité payable aux termes du présent article est rajusté le 1 er janvier de chaque année au moyen du facteur d’indexation mentionné au paragraphe 148 (1).
+
 107.2 et 107.3 Abrogés : 2005, chap. 5, par. 73 (38).
 
 ### Réadaptation professionnelle
@@ -2965,11 +3463,17 @@ b) soit qui a débuté dans les 12 mois suivant la détermination effectuée aux
 ### Idem
 
 (8) La Loi d’avant 1997 est réputée modifiée comme suit :
+
 a) par substitution, à «de la réadaptation médicale et professionnelle du travailleur» aux première, deuxième et troisième lignes de l’alinéa 43 (7) d), de «de la réadaptation médicale du travailleur et de son retour au travail ou de sa réintégration sur le marché du travail»;
+
 b) par substitution, à «programme de réadaptation professionnelle» aux deuxième et troisième lignes de l’alinéa 43 (8) c), de «programme de réintégration sur le marché du travail»;
+
 c) par substitution, à «programme de réadaptation médicale ou professionnelle approuvé» aux troisième et quatrième lignes du paragraphe 43 (9), de «programme de réadaptation médicale, à un programme de retour au travail rapide et sans danger ou à un programme de réintégration sur le marché du travail approuvés»;
+
 d) par substitution, à «des programmes ou services de réadaptation professionnelle fournis» aux deuxième et troisième lignes du paragraphe 103 (4.1) de «un programme de retour au travail rapide et sans danger ou à un programme de réintégration sur le marché du travail qui est fourni au travailleur»;
+
 e) par substitution, à «aux programmes et services de réadaptation professionnelle» aux sixième, septième et huitième lignes du paragraphe 103 (4.2), de «à un programme de retour au travail rapide et sans danger ou à un programme de réintégration sur le marché du travail qui est fourni au travailleur».
+
 108.1 à 108.5 Abrogés : 2005, chap. 5, par. 73 (39).
 
 ### Rétablissement des droits
@@ -2979,12 +3483,15 @@ e) par substitution, à «aux programmes et services de réadaptation profession
 ### Supplément pour invalidité partielle à caractère permanent
 
 110 (1) Le paragraphe 147 (1) de la Loi d’avant 1997 est réputé modifié par adjonction de la définition suivante :
+
 «programme de réintégration sur le marché du travail» Programme de réintégration sur le marché du travail préparé conformément à l’article 42 de la Loi de 1997 sur la sécurité professionnelle et l’assurance contre les accidents du travail. («labour market re-entry plan»)
 
 ### Idem
 
 (2) Le paragraphe 147 (2) de la Loi d’avant 1997 est réputé modifié par substitution :
+
 a) à «programme de réadaptation professionnelle» aux quatrième et cinquième lignes, de «programme de réintégration sur le marché du travail»;
+
 b) à «de la réadaptation professionnelle» aux huitième et neuvième lignes, de «du programme».
 
 ### Idem
@@ -2994,12 +3501,15 @@ b) à «de la réadaptation professionnelle» aux huitième et neuvième lignes,
 ### Idem
 
 (4) Le paragraphe 147 (4) de la Loi d’avant 1997 est réputé modifié comme suit :
+
 a) par substitution, à «programme de réadaptation professionnelle» aux troisième et quatrième lignes de l’alinéa a), de «programme de réintégration sur le marché du travail»;
+
 b) par substitution, à «programme de réadaptation professionnelle» aux deuxième et troisième lignes de l’alinéa b), de «programme de réintégration sur le marché du travail».
 
 ### Idem
 
 (5) L’alinéa 147 (6) c) de la Loi d’avant 1997 est réputé abrogé et remplacé par ce qui suit :
+
 c) le jour où le travailleur cesse de participer à un programme de réintégration sur le marché du travail.
 
 ### Idem
@@ -3033,8 +3543,11 @@ c) le jour où le travailleur cesse de participer à un programme de réintégra
 ### Idem
 
 (11) Si la Commission a rendu une décision relativement au calcul d’une réduction effectuée en application du paragraphe 147 (16) ou (17) de la Loi d’avant 1997 avant le jour de l’entrée en vigueur du paragraphe 7 (2) de l’annexe 33 de la Loi de 2017 pour un Ontario plus fort et en meilleure santé (mesures budgétaires), le travailleur qui a reçu le versement réduit ou dont le versement a été réduit à zéro peut demander qu’elle réexamine la demande. La Commission fait ce qui suit :
+
 1. La Commission détermine si le versement a été réduit par suite de l’application de la disposition 4 du paragraphe 147 (16) ou (17) de la Loi d’avant 1997, selon le cas, tel qu’il s’appliquait avant le jour de l’entrée en vigueur du paragraphe 7 (2) de l’annexe 33 de la Loi de 2017 pour un Ontario plus fort et en meilleure santé (mesures budgétaires).
+
 2. Si elle détermine que le versement n’a pas été réduit de la manière mentionnée à la disposition 1, la Commission en avise le travailleur.
+
 3. Si elle détermine que le versement a été réduit de la manière mentionnée à la disposition 1, la Commission recalcule la réduction conformément au paragraphe (8) ou (9), selon le cas, et paie au travailleur toute différence qui lui est due.
 
 ### Idem
@@ -3056,7 +3569,9 @@ c) le jour où le travailleur cesse de participer à un programme de réintégra
 ### Rajustement annuel
 
 (2) Le 1 er janvier de chaque année à compter du 1 er janvier 2018, la Commission prend les mesures suivantes :
+
 a) elle rajuste les montants exprimés en dollars dans la présente loi et les dispositions maintenues en vigueur par la partie III au moyen du facteur d’indexation, qu’elle applique aux montants rajustés aux termes de la présente partie le mois de janvier précédent;
+
 b) elle rajuste les montants payables aux termes de la présente loi et des dispositions maintenues en vigueur par la partie III au moyen du facteur d’indexation, qu’elle applique aux montants payables rajustés aux termes de la présente partie le mois de janvier précédent.
 
 ### Augmentations
@@ -3070,7 +3585,9 @@ b) elle rajuste les montants payables aux termes de la présente loi et des disp
 ### Facteur d’indexation additionnel
 
 (3) Si un facteur d’indexation additionnel est prescrit pour l’application du présent paragraphe, à la date prescrite, la Commission prend l’une ou l’autre des mesures suivantes :
+
 a) rajuster les montants fixés dans la Loi d’avant 1997 et les montants payables en application de cette loi qui sont rajustés le 1 er janvier selon le facteur d’indexation prévu au paragraphe 49 (1) de la présente loi, selon le facteur d’indexation additionnel;
+
 b) si les montants fixés dans la Loi d’avant 1997 et les montants payables en application de cette loi qui sont rajustés le 1 er janvier selon le facteur d’indexation prévu au paragraphe 49 (1) de la présente loi ont été rajustés précédemment selon un facteur d’indexation additionnel prescrit au cours d’une même année civile, les rajuster selon le facteur d’indexation additionnel prescrit le plus récemment.
 
 ### Idem : le 1 er janvier
@@ -3080,7 +3597,9 @@ b) si les montants fixés dans la Loi d’avant 1997 et les montants payables en
 ### Idem : nouvelles demandes
 
 (5) Si la date prescrite pour l’application du paragraphe (3) est autre que le 1 er janvier, à la date prescrite, la Commission prend les mesures suivantes :
+
 a) rajuster les montants devenus payables pour la première fois aux termes de la Loi d’avant 1997 entre le 1 er janvier et la date prescrite selon le facteur d’indexation additionnel prescrit;
+
 b) si plus d’un facteur d’indexation additionnel est prescrit pour une même année civile, rajuster les montants rajustés précédemment selon le facteur d’indexation additionnel prescrit le plus récemment.
 
 ### Disposition transitoire : indexation de l’indemnité payable avant le 1 er janvier 2018
@@ -3102,6 +3621,7 @@ b) si plus d’un facteur d’indexation additionnel est prescrit pour une même
 ### Exception
 
 (1.2) Le deuxième facteur d’indexation calculé aux termes du paragraphe 50 (1) de la Loi de 1997 sur la sécurité professionnelle et l’assurance contre les accidents du travail, dans sa version du 31 décembre 2017, s’applique au calcul de ce qui suit :
+
 .....
 
 ### Idem
@@ -3135,8 +3655,11 @@ b) si plus d’un facteur d’indexation additionnel est prescrit pour une même
 ### Exception
 
 (4) Malgré les paragraphes (1) à (3), si, selon le cas :
+
 a) un comité du Tribunal d’appel a commencé à entendre une audience ou l’étude d’une requête ou d’un appel conformément à l’article 17, 23, 71 ou 84 de la Loi sur les accidents du travail ;
+
 b) le conseil d’administration de la Commission a, dans l’exercice de son pouvoir discrétionnaire, étudié une décision du Tribunal d’appel conformément à l’article 93 de la Loi sur les accidents du travail,
+
 et qu’aucune décision définitive n’a été rendue avant l’entrée en vigueur du présent article, le comité ou le conseil d’administration, selon le cas, peut exercer ses pouvoirs et fonctions relativement à la requête, à l’appel ou à l’étude comme si le présent article n’était pas entré en vigueur.
 
 ## PARTIE X EMPLOI NON COUVERT
@@ -3148,14 +3671,19 @@ et qu’aucune décision définitive n’a été rendue avant l’entrée en vig
 ### Idem
 
 (2) La présente partie s’applique aux genres suivants de travailleurs qui sont employés dans des secteurs d’activité qui sont compris dans l’annexe 1 ou l’annexe 2 :
+
 1. Les personnes dont l’emploi par un employeur est occasionnel et qui sont employées à des fins autres que celles du secteur d’activité de l’employeur.
+
 2. Les personnes à qui des articles ou des matériaux sont remis afin qu’elles les façonnent, les nettoient, les lavent, les modifient, les ornementent, les finissent, les réparent ou les adaptent pour la vente chez elles ou en d’autres lieux qui ne sont pas sous la direction ou sous la surveillance de la personne qui les a remis.
 
 ### Responsabilité de l’employeur
 
 114 (1) Un travailleur peut intenter une action en dommages-intérêts contre son employeur pour une lésion qui survient dans l’une ou l’autre des circonstances suivantes :
+
 1. Le travailleur est blessé par suite d’un défaut dans l’état ou l’aménagement des procédés, installations, machines, usines, bâtiments ou lieux utilisés dans le cadre des activités de l’employeur ou reliés ou destinés à celles-ci.
+
 2. Le travailleur est blessé par suite de la négligence de l’employeur.
+
 3. Le travailleur est blessé par suite de la négligence d’une personne au service de l’employeur qui agit dans le cadre de son emploi.
 
 ### Idem, travailleur décédé
@@ -3165,8 +3693,11 @@ et qu’aucune décision définitive n’a été rendue avant l’entrée en vig
 ### Responsabilité du propriétaire
 
 115 (1) Un travailleur peut intenter une action en dommages-intérêts contre la personne pour laquelle un travail est effectué aux termes d’un contrat et contre l’entrepreneur et le sous-traitant, le cas échéant, pour une lésion qui survient dans l’une ou l’autre des circonstances suivantes :
+
 1. La lésion survient par suite d’un défaut dans l’état ou l’aménagement des procédés, installations, machines, usines, bâtiments ou lieux, lesquels appartiennent à la personne pour laquelle le travail est effectué ou sont fournis par elle.
+
 2. La lésion survient par suite de la négligence de la personne pour laquelle tout ou partie du travail est effectué.
+
 3. La lésion survient par suite de la négligence d’une personne au service de la personne pour laquelle tout ou partie du travail est effectué et la personne qui a fait preuve de négligence agissait dans le cadre de son emploi.
 
 ### Idem
@@ -3188,7 +3719,9 @@ et qu’aucune décision définitive n’a été rendue avant l’entrée en vig
 ### Négligence concourante
 
 (3) Dans une action en dommages-intérêts intentée pour une lésion qui survient lorsqu’un travailleur est au service d’un employeur, la négligence concourante du travailleur ne constitue pas un obstacle au recouvrement de dommages-intérêts par les personnes suivantes :
+
 a) le travailleur blessé;
+
 b) si le travailleur décède par suite de la lésion, toute personne qui a droit à des dommages-intérêts aux termes de la partie V de la Loi sur le droit de la famille.
 
 ### Idem
@@ -3214,15 +3747,25 @@ b) si le travailleur décède par suite de la lésion, toute personne qui a droi
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), la Commission a compétence exclusive pour décider des questions suivantes :
+
 1. Si un secteur d’activité, ou une partie, une division ou un service d’un tel secteur, appartient à une catégorie ou un groupe de secteurs d’activité compris dans l’annexe 1 ou l’annexe 2 et, si c’est le cas, à quelle catégorie ou à quel groupe.
+
 2. Si la lésion corporelle ou le décès a été causé par un accident.
+
 3. Si l’accident est survenu du fait et au cours de l’emploi auprès d’un employeur mentionné à l’annexe 1 ou à l’annexe 2.
+
 4. Si une personne collabore à son rétablissement maximal, à son retour au travail ou à la préparation et à la mise en oeuvre d’un programme de réintégration sur le marché du travail.
+
 5. Si un employeur a rempli l’obligation qui lui incombe dans le cadre du régime d’assurance de réintégrer le travailleur dans ses fonctions ou de le réemployer.
+
 6. Si un programme de réintégration sur le marché du travail doit être préparé et mis en oeuvre à l’intention d’une personne.
+
 7. Si la perte de gains a résulté d’une lésion.
+
 8. Si la déficience permanente a résulté d’une lésion, et le degré de déficience.
+
 9. Le montant des gains moyens et des gains moyens nets d’une personne.
+
 10. Si, aux fins du régime d’assurance, une personne est un conjoint, un enfant ou une personne à charge d’un travailleur blessé.
 
 ### Décisions définitives
@@ -3254,7 +3797,9 @@ b) si le travailleur décède par suite de la lésion, toute personne qui a droi
 ### Opposition à la décision de la Commission
 
 120 (1) Le travailleur, le survivant, l’employeur, le parent ou toute autre personne qui agit à titre de parent aux termes du paragraphe 48 (20) ou le bénéficiaire désigné par le travailleur aux termes du paragraphe 45 (9) qui s’oppose à une décision de la Commission dépose un avis d’opposition auprès de celle-ci dans les délais suivants :
+
 a) dans les 30 jours qui suivent le jour où la décision a été rendue ou dans le délai plus long qu’autorise la Commission, dans le cas d’une décision concernant le retour au travail ou un programme de réintégration sur le marché du travail;
+
 b) dans les six mois qui suivent le jour où la décision a été rendue ou dans le délai plus long qu’autorise la Commission, dans les autres cas.
 
 ### Avis d’opposition
@@ -3282,18 +3827,27 @@ b) dans les six mois qui suivent le jour où la décision a été rendue ou dans
 ### Compétence
 
 123 (1) Le Tribunal d’appel a compétence exclusive pour entendre et décider de ce qui suit :
+
 a) les appels des décisions définitives que la Commission a rendues à l’égard du droit à des soins de santé, du retour au travail, de la réintégration sur le marché du travail et du droit à d’autres prestations dans le cadre du régime d’assurance;
+
 b) les appels des décisions définitives que la Commission a rendues à l’égard du transfert des coûts de la classification d’un employeur dans le cadre du régime d’assurance, du montant des primes et pénalités payables par un employeur mentionné à l’annexe 1 et des montants et pénalités payables par un employeur mentionné à l’annexe 2;
+
 c) toute autre question qui lui est confiée aux termes de la présente loi.
 
 ### Idem
 
 (2) Il est entendu que la compétence du Tribunal d’appel prévue au paragraphe (1) ne comprend pas la compétence pour entendre et décider d’un appel des décisions rendues en vertu des parties ou dispositions suivantes :
+
 1. Abrogée : 2011, chap. 11, art. 22.
+
 2. Les articles 26 à 30 (droits d’action) et l’article 36 (examen de santé).
+
 3. L’article 60, les paragraphes 62 (1) à (3) et les articles 64 et 65 (versement des prestations).
+
 4. Les paragraphes 81 (1) à (6), 81.1 (1) à (3) et 83 (1) et (2) et l’article 85 (affectation des versements).
+
 5. La partie VIII (caisse d’assurance).
+
 6. La partie XII (exécution), sauf les décisions concernant la question de savoir si une sûreté doit être fournie aux termes de l’article 137 ou si une personne est tenue aux termes du paragraphe 146 (2) de faire des versements.
 
 ### Décisions rendues en appel
@@ -3417,16 +3971,23 @@ c) toute autre question qui lui est confiée aux termes de la présente loi.
 ### Pouvoirs concernant les instances
 
 132 (1) La Commission et le Tribunal d’appel peuvent faire ce qui suit relativement à une instance :
+
 1. Assigner des témoins et les contraindre à comparaître et à témoigner oralement ou par écrit sous serment ou affirmation solennelle. Ils peuvent exercer ces pouvoirs comme une cour d’archives dans les instances civiles.
+
 2. Exiger que des personnes produisent les documents ou choses que la Commission ou le Tribunal estime nécessaires pour rendre sa décision. Ils peuvent exercer ce pouvoir comme une cour d’archives dans les instances civiles.
+
 3. Accepter les témoignages oraux ou écrits que la Commission ou le Tribunal estime appropriés, qu’ils soient admissibles ou non devant un tribunal judiciaire.
 
 ### Pouvoirs d’entrée et d’inspection
 
 (2) La Commission et le Tribunal d’appel peuvent faire ce qui suit dans l’exercice de leur pouvoir de rendre des décisions :
+
 1. Pénétrer dans des lieux où un travailleur exécute ou a exécuté un travail ou dans lequel un employeur exerce des activités, que ces lieux soient ou non ceux de l’employeur.
+
 2. Inspecter quoi que ce soit dans les lieux.
+
 3. Se renseigner auprès de quiconque se trouve dans les lieux.
+
 4. Afficher des avis dans les lieux.
 
 ### Affichage d’avis
@@ -3440,9 +4001,13 @@ c) toute autre question qui lui est confiée aux termes de la présente loi.
 ### Paiement des dépenses des témoins
 
 133 (1) La Commission ou le Tribunal d’appel peut payer les frais de déplacement et de subsistance raisonnables des personnes suivantes de même que d’autres allocations pour celles-ci :
+
 a) un travailleur et ses témoins;
+
 b) les survivants d’un travailleur décédé et leurs témoins;
+
 c) le parent ou l’autre personne visés au paragraphe 48 (20);
+
 d) un bénéficiaire désigné visé au paragraphe 45 (9).
 
 ### Idem
@@ -3468,9 +4033,13 @@ d) un bénéficiaire désigné visé au paragraphe 45 (9).
 ### Restriction
 
 (5) Le Tribunal d’appel ne peut pas faire appel à un professionnel de la santé en particulier pour l’aider dans l’une ou l’autre des circonstances suivantes, sauf avec le consentement écrit des parties à l’instance :
+
 1. Le professionnel de la santé a déjà examiné le travailleur dont la demande fait l’objet de l’instance.
+
 2. Le professionnel de la santé a déjà traité le travailleur ou un membre de sa famille.
+
 3. Le professionnel de la santé a agi en tant qu’expert-conseil en ce qui concerne le traitement du travailleur ou en tant qu’expert-conseil auprès de l’employeur.
+
 4. Le professionnel de la santé est un associé de celui visé à la disposition 1, 2 ou 3.
 
 ### Examen sur la santé
@@ -3494,25 +4063,37 @@ d) un bénéficiaire désigné visé au paragraphe 45 (9).
 ### Examen des dossiers
 
 135 (1) La Commission ou une personne qu’elle autorise peut examiner les livres et les comptes de l’employeur et effectuer les enquêtes qu’elle estime nécessaires aux fins suivantes :
+
 1. Vérifier l’exactitude d’un état remis à la Commission par l’employeur.
+
 2. Vérifier la masse salariale de l’employeur.
+
 3. Vérifier si l’employeur est un employeur mentionné à l’annexe 1 ou à l’annexe 2.
+
 4. Vérifier si l’employeur a contrevenu à l’article 22.1, 22.2, 80 ou 88.
 
 ### Inspection des lieux
 
 (2) La Commission peut pénétrer aux fins suivantes dans l’établissement de l’employeur et les lieux qui y sont rattachés :
+
 1. Vérifier si les procédés, installations, machines ou appareils qui se trouvent dans l’établissement ou les lieux sont sûrs, adéquats et suffisants.
+
 2. Vérifier si toutes les précautions nécessaires sont prises pour éviter des accidents aux travailleurs employés dans l’établissement ou les lieux ou aux alentours.
+
 3. Vérifier si les dispositifs de sécurité ou les mesures de protection exigés par la loi sont utilisés dans l’établissement ou les lieux.
+
 4. Toute autre fin que la Commission estime nécessaire pour déterminer la part que l’employeur devrait verser aux termes de la présente loi.
+
 5. Vérifier si l’employeur a contrevenu à l’article 22.1, 22.2, 80 ou 88.
 
 ### Ordonnance de perquisition et saisie
 
 (3) La Commission peut, par voie de requête et sans préavis, demander à un juge de la Cour supérieure de justice de rendre une ordonnance autorisant une ou plusieurs personnes désignées par la Commission (de même que les agents de police dont elles peuvent demander l’aide) à faire ce qui suit :
+
 a) pénétrer dans un bâtiment, un réceptacle ou un lieu pour y chercher les livres et les comptes de l’employeur, en utilisant la force au besoin;
+
 b) enlever les livres et les comptes afin de les examiner;
+
 c) garder les livres et les comptes jusqu’à ce que l’examen soit terminé.
 
 ### Idem
@@ -3604,7 +4185,9 @@ c) garder les livres et les comptes jusqu’à ce que l’examen soit terminé.
 ### Obligation de payer
 
 (6) Si elle n’est pas réputée être l’employeur en vertu du paragraphe (2), la personne :
+
 a) d’une part, veille à ce que l’entrepreneur ou le sous-traitant se conforme à ses obligations de faire des versements dans le cadre du régime d’assurance en tant qu’employeur;
+
 b) d’autre part, est tenue de s’acquitter de ces obligations dans la mesure où l’entrepreneur ou le sous-traitant ne s’y conforme pas.
 
 ### Droit d’être indemnisé
@@ -3632,7 +4215,9 @@ b) d’autre part, est tenue de s’acquitter de ces obligations dans la mesure 
 ### Obligation de la personne qui retient les services d’un entrepreneur ou d’un sous-traitant
 
 (2) La personne qui retient directement les services d’un entrepreneur ou d’un sous-traitant pour effectuer des travaux de construction :
+
 a) d’une part, veille à ce que l’entrepreneur ou le sous-traitant se conforme aux obligations en matière de versement que lui impose la présente loi à l’égard des travaux;
+
 b) d’autre part, est tenue de s’acquitter de ces obligations dans la mesure où l’entrepreneur ou le sous-traitant ne s’y conforme pas.
 
 ### Droit au remboursement
@@ -3676,7 +4261,9 @@ b) d’autre part, est tenue de s’acquitter de ces obligations dans la mesure 
 ### Délivrance par la Commission
 
 (3) Si elle est convaincue que l’entrepreneur ou le sous-traitant s’est inscrit auprès d’elle et s’est conformé aux obligations en matière de versement que lui impose la présente loi, la Commission, sur demande, lui délivre ou délivre à la personne un certificat qui :
+
 a) d’une part, confirme l’inscription et la conformité;
+
 b) d’autre part, indique sa période de validité.
 
 ### Révocation
@@ -3690,7 +4277,9 @@ b) d’autre part, indique sa période de validité.
 ### Nouveau certificat
 
 (6) La personne obtient un nouveau certificat auprès de la Commission ou auprès de l’entrepreneur ou du sous-traitant si, avant l’achèvement des travaux de construction :
+
 a) le certificat expire;
+
 b) le certificat est révoqué et la personne en a connaissance.
 
 ### Interdiction
@@ -3740,8 +4329,11 @@ b) le certificat est révoqué et la personne en a connaissance.
 ### Préférence
 
 144 (1) Le présent article s’applique lorsqu’une personne doit une somme aux termes de la présente loi à la Commission ou à une autre personne et que, selon le cas :
+
 a) la personne qui doit la somme est un particulier qui décède;
+
 b) la personne qui doit la somme est une personne morale qui est en cours de liquidation;
+
 c) tout ou partie des éléments d’actif de la personne qui doit la somme fait l’objet d’une cession.
 
 ### Idem
@@ -3763,7 +4355,9 @@ c) tout ou partie des éléments d’actif de la personne qui doit la somme fait
 ### Avis de privilège
 
 (2) Le privilège ne prend effet que si les conditions suivantes sont réunies :
+
 a) un avis du privilège est déposé au moyen d’un bref de saisie-exécution au bureau du shérif de la localité où se trouvent les biens concernés;
+
 b) une copie du bref est remise par le shérif ou expédiée par courrier recommandé au registrateur des droits immobiliers compétent, si le bien-fonds visé est enregistré aux termes de la Loi sur l’enregistrement des droits immobiliers.
 
 ### Obligations des employeurs qui succèdent
@@ -3829,6 +4423,7 @@ b) une copie du bref est remise par le shérif ou expédiée par courrier recomm
 ### Ordonnance de restitution
 
 (5) Si une personne est déclarée coupable d’une infraction prévue au présent article, le tribunal peut également lui ordonner de verser à la Commission les sommes qu’elle a reçues ou qu’elle a obtenues pour le compte d’une autre personne par suite de la commission de l’infraction. Les sommes payables à la Commission sont réputées être un montant dû aux termes de la présente loi.
+
 (6) a brogé : 2001, chap. 9, annexe I, par. 4 (3).
 
 ### Autres recours
@@ -3946,7 +4541,9 @@ b) une copie du bref est remise par le shérif ou expédiée par courrier recomm
 ### Peine
 
 158 (1) Quiconque est déclaré coupable d’une infraction est passible des peines suivantes :
+
 1. S’il s’agit d’une personne physique, une amende d’au plus 25 000 $ et un emprisonnement d’au plus six mois, ou une seule de ces peines.
+
 2. S’il ne s’agit pas d’une personne physique, une amende d’au plus 500 000 $.1997, chap. 16, annexe A, art. 158
 
 ### Idem : deux ou plusieurs déclarations de culpabilité pour une même infraction dans le cadre d’une même instance
@@ -3960,8 +4557,11 @@ b) une copie du bref est remise par le shérif ou expédiée par courrier recomm
 ### Circonstances aggravantes lorsque le défendeur est un employeur
 
 (3) Lorsque le défendeur est un employeur, est considérée comme circonstance aggravante aux fins de la détermination d’une peine prévue au présent article, chacune des circonstances suivantes :
+
 1. Le défendeur a déjà été déclaré coupable d’une infraction à la présente loi.
+
 2. Le défendeur a déjà été déclaré coupable sur deux ou plusieurs chefs d’une même infraction dans le cadre de l’instance judiciaire à laquelle se rapporte la détermination de la peine.
+
 3. Le défendeur a déjà contrevenu à la présente loi.
 
 ### Autres facteurs pertinents
@@ -3981,17 +4581,29 @@ b) une copie du bref est remise par le shérif ou expédiée par courrier recomm
 ### Pouvoirs de la Commission
 
 (2) Sous réserve de la présente loi, la Commission possède les pouvoirs d’une personne physique. Elle peut notamment :
+
 a) établir des politiques concernant les primes payables par les employeurs dans le cadre du régime d’assurance;
+
 a.1) établir des politiques concernant l’interprétation et l’application de la présente loi;
+
 a.2) établir des politiques concernant les exigences en matière de preuve à respecter pour établir le droit à des prestations dans le cadre du régime d’assurance;
+
 a.3) établir des politiques concernant les principes décisionnels à appliquer pour établir le droit à des prestations dans le cadre du régime d’assurance;
+
 b) revoir la présente loi et les règlements et recommander des modifications ou des révisions;
+
 c) étudier et approuver les budgets annuels de fonctionnement et des immobilisations;
+
 d) examiner et approuver ses politiques en matière de placements;
+
 e) examiner et approuver les changements importants à apporter à ses programmes;
+
 f) adopter des règlements administratifs et des résolutions pour l’adoption d’un sceau et la conduite de ses affaires;
+
 g) créer, maintenir et réglementer des conseils ou comités consultatifs, et en déterminer la composition et les fonctions;
+
 h) fournir, aux conditions qu’elle juge appropriées, une aide financière à un employeur qui modifie le travail ou le lieu de travail de sorte qu’un travailleur blessé ou le conjoint d’un travailleur décédé puisse réintégrer la population active;
+
 i) créer un programme pour désigner les fournisseurs de services relatifs au retour au travail et à la réintégration sur le marché du travail, surveiller le rendement de ces fournisseurs de services et exiger qu’ils versent des droits pour couvrir le coût du programme.
 
 ### Idem
@@ -4001,6 +4613,7 @@ i) créer un programme pour désigner les fournisseurs de services relatifs au r
 ### Employés
 
 (3) La Commission peut employer, aux conditions qu’elle approuve, les personnes qu’elle estime nécessaires à ses fins.
+
 (4) Périmé : 1997, chap. 16, annexe A, par. 159 (4).
 
 ### Enquêtes, recherches et formation
@@ -4034,7 +4647,9 @@ i) créer un programme pour désigner les fournisseurs de services relatifs au r
 ### Ententes visant le partage de renseignements
 
 (9) Avec l’approbation du lieutenant-gouverneur en conseil, la Commission peut, aux fins de l’application de la présente loi, conclure avec le gouvernement du Canada ou d’une province ou d’un territoire du Canada, ou un de leurs ministères, conseils, commissions ou organismes, des ententes aux termes desquelles :
+
 a) le gouvernement, le ministère, le conseil, la commission ou l’organisme aura accès aux renseignements obtenus par la Commission aux termes de la présente loi;
+
 b) le gouvernement, le ministère, le conseil, la commission ou l’organisme donnera à la Commission accès aux renseignements qu’il a obtenus en vertu d’un pouvoir conféré par une loi.
 
 ### Exception
@@ -4084,14 +4699,19 @@ b) le gouvernement, le ministère, le conseil, la commission ou l’organisme do
 ### Surveillance
 
 (3) La Commission surveille les progrès accomplis sur le plan de la compréhension des relations entre l’assurance contre les accidents du travail et les lésions et les maladies professionnelles aux fins suivantes :
+
 a) de sorte que les progrès généralement reconnus dans le domaine des sciences de la santé et dans les disciplines connexes soient reflétés dans les prestations, les services, les programmes et les politiques d’une façon qui est compatible avec les objets de la présente loi;
+
 b) de façon à améliorer l’efficience et l’efficacité du régime d’assurance.
 
 ### Conseil d’administration
 
 162 (1) Un conseil d’administration doit être constitué pour diriger la Commission et exercer les pouvoirs et fonctions que la présente loi ou toute autre loi confère à la Commission. Le conseil d’administration se compose des personnes suivantes :
+
 a) le président du conseil d’administration, nommé par le lieutenant-gouverneur en conseil;
+
 b) le président de la Commission, nommé par le lieutenant-gouverneur en conseil;
+
 c) de sept à neuf membres qui représentent les travailleurs, les employeurs et les autres personnes que le lieutenant-gouverneur en conseil estime appropriées, nommés par ce dernier.
 
 ### Idem
@@ -4121,6 +4741,7 @@ c) de sept à neuf membres qui représentent les travailleurs, les employeurs et
 ### Absence du président du conseil
 
 (7) Le président du conseil décide lequel des membres du conseil d’administration doit le remplacer en son absence. S’il ne le fait pas, le conseil d’administration peut prendre cette décision.
+
 (8) à (12) Abrogés : 2000, chap. 26, annexe I, par. 1 (22).
 
 ### Fonctions du conseil d’administration
@@ -4158,8 +4779,11 @@ c) de sept à neuf membres qui représentent les travailleurs, les employeurs et
 ### Contenu
 
 (2) Le protocole d’entente impose les obligations suivantes :
+
 1. Abrogée : 2023, chap. 2, annexe 9, par. 5 (2).
+
 2. La Commission remet au ministre un énoncé annuel des priorités qu’elle entend établir aux fins de l’application de la présente loi et des règlements.
+
 3. La Commission remet au ministre un énoncé annuel de ses politiques et objectifs en matière de placement.
 
 ### Idem
@@ -4169,8 +4793,11 @@ c) de sept à neuf membres qui représentent les travailleurs, les employeurs et
 ### Idem
 
 (4) Le protocole d’entente peut traiter des questions suivantes :
+
 1. Toute directive du ministre concernant les programmes qui doivent être examinés aux termes de l’article 168.
+
 2. Toute question que propose la Commission et dont le ministre a convenu.
+
 3. Toute autre question que le ministre estime appropriée.
 
 ### Conformité
@@ -4216,8 +4843,11 @@ c) de sept à neuf membres qui représentent les travailleurs, les employeurs et
 ### Idem
 
 (2) La Commission se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le présenter au ministre;
+
 c) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -4235,17 +4865,25 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Dépenses
 
 (2) Le coût du maintien et de l’administration du régime de retraite qui revient à la Commission est imputable à la caisse d’assurance.
+
 (3) Abrogé : 2018, chap. 8, annexe 37, par. 2 (1).
 
 ### Personnes réputées être des employés
 
 (4) Les personnes suivantes sont réputées être des employés de la Commission aux fins du régime de retraite :
+
 1. Les employés des associations pour la sécurité au travail qui étaient désignées en vertu de l’article 6 avant son abrogation par l’article 20 de la Loi de 2011 modifiant des lois en ce qui concerne la santé et la sécurité au travail.
+
 1.1 Les employés des associations pour la sécurité au travail désignées en vertu de l’article 22.5 de la Loi sur la santé et la sécurité au travail.
+
 2. Les personnes qui, le 1 er janvier 1998, sont réputées être des employés de la Commission des accidents du travail aux termes de la disposition 2 du paragraphe 68 (3) de la Loi sur les accidents du travail.
+
 3. Les personnes qui, le 1 er janvier 1998, sont réputées être des employés de la Commission des accidents du travail aux termes du paragraphe 68 (5) de la Loi sur les accidents du travail.
+
 4. Les employés des associations pour la sécurité et la prévention des accidents qui, le 1 er janvier 1998, sont désignées en vertu du sous-alinéa 16 (1) n) (ii) de la Loi sur la santé et la sécurité au travail.
+
 (5) et (6) Abrogés : 2000, chap. 26, annexe I, par. 1 (24).
+
 (7) et (8) Abrogés : 2018, chap. 8, annexe 37, par. 2 (2).
 
 ### Mines
@@ -4291,6 +4929,7 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Frais de fonctionnement
 
 (6) Les frais de fonctionnement du Tribunal d’appel sont des dépenses de la Commission.
+
 (7) Abrogé : 2000, chap. 26, annexe I, par. 1 (26).
 
 ### Tribunal d’appel habilité à conclure des contrats
@@ -4316,7 +4955,9 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Audition des appels
 
 174 (1) Outre le président nommé aux termes du paragraphe 173 (3), les personnes suivantes nommées au Tribunal d’appel par le lieutenant-gouverneur en conseil entendent les appels et les autres questions que la présente loi confie au Tribunal et en décident :
+
 1. Un ou plusieurs vice-présidents.
+
 2. Le nombre de membres représentant les employeurs et les travailleurs que le lieutenant-gouverneur en conseil estime approprié.
 
 ### Idem
@@ -4326,9 +4967,13 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Exception
 
 (3) S’il l’estime approprié dans les circonstances, le président peut constituer un comité de trois ou de cinq membres pour entendre un appel ou une autre question que la présente loi confie au Tribunal d’appel et en décider. La composition du comité est la suivante :
+
 1. Un comité de trois membres est composé du président ou d’un vice-président, d’un membre du Tribunal qui représente les employeurs et d’un autre qui représente les travailleurs.
+
 2. Un comité de cinq membres est composé des personnes suivantes :
+
 i. le président et deux vice-présidents, ou trois vice-présidents,
+
 ii. un membre du Tribunal qui représente les employeurs et un autre qui représente les travailleurs.
 
 ### Décision
@@ -4358,6 +5003,7 @@ ii. un membre du Tribunal qui représente les employeurs et un autre qui représ
 ### Frais
 
 (3) Le ministre fixe le montant des frais que peut engager chaque bureau dans l’exercice de ses fonctions et la Commission assume ces frais.
+
 (4) Abrogé : 2011, chap. 11, art. 27.
 
 ### Commissaire aux pratiques équitables
@@ -4373,7 +5019,9 @@ ii. un membre du Tribunal qui représente les employeurs et un autre qui représ
 ### Rapport annuel
 
 (3) Chaque année, le commissaire aux pratiques équitables :
+
 a) établit un rapport sur ses activités au cours de l’année précédente;
+
 b) fournit une copie du rapport au conseil d’administration et met le rapport à la disposition du public.
 
 ### Dispositions générales
@@ -4409,11 +5057,17 @@ b) fournit une copie du rapport au conseil d’administration et met le rapport 
 ### Immunité
 
 179 (1) Sont irrecevables les actions ou autres instances en dommages-intérêts introduites contre l’une ou l’autre des personnes suivantes pour un acte ou une omission qu’elle a commis de bonne foi dans l’exercice effectif ou censé tel des pouvoirs ou fonctions que lui attribue la présente loi :
+
 1. Les membres du conseil d’administration, les dirigeants et les employés de la Commission.
+
 2. Le président, les vice-présidents, les membres et les employés du Tribunal d’appel.
+
 3. Les personnes employées au Bureau des conseillers des travailleurs ou au Bureau des conseillers des employeurs.
+
 4. Abrogée : 2011, chap. 11, par. 28 (1).
+
 5. Les médecins qui effectuent une évaluation aux termes de l’article 47 (degré de déficience permanente).
+
 6. Les personnes engagées par la Commission pour effectuer un examen, une enquête, une inspection ou un essai ou autorisées à exercer toute fonction.
 
 ### Disposition transitoire
@@ -4437,11 +5091,17 @@ b) fournit une copie du rapport au conseil d’administration et met le rapport 
 ### Contraignabilité
 
 180 (1) Les personnes suivantes ne sont pas contraignables à témoigner devant un tribunal judiciaire ou administratif en ce qui concerne les renseignements ou les documents qui leur sont fournis ou qu’elles obtiennent, rédigent ou reçoivent dans le cadre de leur emploi aux termes de la présente loi :
+
 1. Les membres du conseil d’administration de la Commission.
+
 2. Le président, les vice-présidents et les membres du Tribunal d’appel.
+
 3. Les employés de la Commission ou du Tribunal d’appel.
+
 4. Les personnes employées au Bureau des conseillers des travailleurs ou au Bureau des conseillers des employeurs.
+
 5. Les personnes engagées par la Commission ou le Tribunal d’appel pour effectuer un examen, une enquête, une inspection ou un essai ou autorisées par la Commission ou le Tribunal d’appel à exercer toute fonction.
+
 6. Les praticiens de la santé qui fournissent des renseignements aux termes de l’article 37.
 
 ### Production de documents
@@ -4475,14 +5135,19 @@ b) fournit une copie du rapport au conseil d’administration et met le rapport 
 ### Préinscription volontaire
 
 182.1 (1) Avant le premier anniversaire du jour de l’entrée en vigueur de l’article 9 de la Loi de 2008 modifiant la Loi sur la sécurité professionnelle et l’assurance contre les accidents du travail, les personnes suivantes peuvent faire et déposer auprès de la Commission une déclaration sous la forme qu’elle approuve, pour lui permettre de se préparer à la mise en oeuvre des articles 12.2 et 12.3 :
+
 1. Les exploitants indépendants qui exercent des activités dans la construction.
+
 2. Les propriétaires uniques qui exercent des activités dans la construction et qui n’emploient pas de travailleurs.
+
 3. Les associés d’une société de personnes qui exerce des activités dans la construction et qui n’emploie pas de travailleurs.
 
 ### Travaux de rénovation domiciliaire exemptés
 
 (2) Le paragraphe (1) ne s’applique pas à l’égard des personnes suivantes :
+
 a) les exploitants indépendants et les propriétaires uniques visés à l’alinéa 12.2 (8) a);
+
 b) les associés et les dirigeants visés à l’alinéa 12.2 (8) b).
 
 ### Personne réputée s’être inscrite
@@ -4492,7 +5157,9 @@ b) les associés et les dirigeants visés à l’alinéa 12.2 (8) b).
 ### Règlements
 
 183 (1) Sous réserve de l’approbation du lieutenant-gouverneur en conseil, la Commission peut prendre les règlements qu’elle estime utiles à l’application de la présente loi. Elle peut notamment, par règlement :
+
 a) prescrire tout ce qui doit ou peut être prescrit aux termes de la présente loi, sauf tout ce à l’égard de quoi elle autorise expressément le lieutenant-gouverneur en conseil à prendre un règlement;
+
 b) prescrire la façon de tenir compte des versements reçus par une personne dans le cadre du Régime de pensions du Canada ou du Régime de rentes du Québec lors du calcul du montant des versements auxquels la personne a droit dans le cadre du régime d’assurance.
 
 ### Idem : questions transitoires
@@ -4506,22 +5173,35 @@ b) prescrire la façon de tenir compte des versements reçus par une personne da
 ### Idem
 
 (1.3) Sans préjudice de la portée générale du paragraphe (1.2), la Commission peut, par règlement, sous réserve de l’approbation du lieutenant-gouverneur en conseil :
+
 a) exiger des employeurs exerçant des activités dans la construction qu’ils lui fournissent aux intervalles prescrits :
+
 (i) le nom de chaque travailleur employé pendant une période prescrite,
+
 (ii) le numéro d’identification, le symbole ou l’autre signe individuel que l’employeur attribue au travailleur,
+
 (iii) des renseignements concernant les gains du travailleur pendant la période prescrite,
+
 (iv) tout autre renseignement, concernant l’emploi du travailleur pendant la période prescrite, que précise le règlement;
+
 b) exiger des travailleurs de la construction :
+
 (i) qu’ils portent ou soient en mesure de présenter aux fins d’inspection une carte d’identité approuvée par la Commission en tout temps lorsqu’ils effectuent des travaux de construction,
+
 (ii) qu’ils présentent la carte d’identité aux fins d’inspection à la demande de la Commission ou d’une personne nommée ou autorisée par celle-ci,
+
 (iii) qu’ils accomplissent relativement au système d’identification toute autre chose que précise le règlement.
 
 ### Idem, annexes 1 et 2
 
 (2) Sous réserve de l’approbation du lieutenant-gouverneur en conseil, la Commission peut, par règlement, établir les annexes 1 et 2 et faire ce qui suit :
+
 a) ajouter des catégories de secteurs d’activité à l’annexe 1 ou à l’annexe 2, retirer des catégories d’une annexe, redéfinir des catégories au sein d’une annexe ou transférer des catégories d’une annexe à l’autre;
+
 b) inclure tout ou partie d’un secteur d’activité dans une catégorie ou l’en exclure;
+
 c) exclure un métier, un emploi, une profession, un travail ou un service d’un secteur d’activité aux fins du régime d’assurance;
+
 d) subdiviser une catégorie d’employeurs en sous-catégories ou groupes selon le risque pouvant exister dans le secteur d’activité.
 
 ### Idem, annexes 3 et 4
@@ -4543,10 +5223,13 @@ d) subdiviser une catégorie d’employeurs en sous-catégories ou groupes selon
 ### Règlements relatifs au facteur d’indexation additionnel
 
 184 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire un facteur d’indexation additionnel, exprimé en pourcentage, pour l’application des paragraphes 52.0.1 (1), 54 (4) et 111 (3);
+
 b) prescrire une date pour l’application des paragraphes 52.0.1 (1), 54 (4) et 111 (3).
 
 ### Idem
 
 (2) L’application d’un facteur d’indexation additionnel prescrit peut être assortie de conditions, restrictions ou exclusions prévues dans le règlement.
+
 185 Omis (édicte le titre abrégé de la présente loi).

@@ -6,39 +6,60 @@ language: fr
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96a26"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # taxe sur l'alcool (Loi de 1996 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96a26) before relying on it.
 
 L.O. 1996, chap. 26, annexe
 
 ### Partie i (ART. 1 À 16) Abrogée : 2019, chap. 15, annexe 1, art. 18.
 
 1 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 1.1 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 2 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 3 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 4 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 4.1 et 4.2 Abrogés : 2019, chap. 15, annexe 1, art. 18.
+
 5 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 6 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 6.1 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 7 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 7.1 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 8 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 8.1 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 9 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 10 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 11 Abrogé : 2011, chap. 1, annexe 1, par. 1 (3).
+
 12 Abrogé : 2011, chap. 1, annexe 1, par. 1 (3).
+
 13 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 14 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 14.1 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 15 Abrogé : 2019, chap. 15, annexe 1, art. 18.
+
 16 Abrogé : 2019, chap. 15, annexe 1, art. 18.
 
 ## Partie II Taxes sur la bière, le vin et les spiritueux
@@ -48,67 +69,117 @@ L.O. 1996, chap. 26, annexe
 ### Définitions
 
 17 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «acheteur» Personne, y compris la Couronne du chef de l’Ontario, qui achète des boissons alcoolisées ou en reçoit livraison en Ontario :
+
 a) soit pour sa consommation ou son utilisation personnelles ou pour celles de quelqu’un d’autre, à ses frais;
+
 b) soit pour le compte ou en qualité de mandataire d’un mandant qui désire acquérir les boissons alcoolisées pour la consommation ou l’utilisation de ce mandant ou de quelqu’un d’autre aux frais du mandant. («purchaser»)
+
 «année de production» Relativement à une année de ventes dans le cas de la bière, la période de 12 mois qui se termine le 31 décembre précédant immédiatement le début de cette année. («production year»)
+
 «année de ventes» À l’égard de la bière, s’entend de la période d’environ 12 mois :
+
 a) qui commence le 1 er mars d’une année ou, si cette date tombe un samedi ou un dimanche, le lundi suivant;
+
 b) qui se termine le dernier jour de février de l’année suivante ou, si ce jour tombe un vendredi ou un samedi, le dimanche suivant. («sales year»)
+
 «bière» S’entend au sens de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools. («beer»)
+
 «bière non pression» Bière fabriquée aux fins de sa vente dans des contenants d’une capacité de moins de 18 litres chacun. («non-draft beer»)
+
 «bière pression» Selon le cas :
+
 a) bière, autre que de la bière non pression;
+
 b) bière fabriquée dans un bistrot-brasserie. («draft beer»)
+
 «bistrot-brasserie» Local à l’égard duquel le permis du titulaire comporte un avenant relatif à un bistrot-brasserie. («brew pub»)
+
 «boisson alcoolisée» S’entend au sens de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools. («liquor »)
+
 «Commission» La Commission des alcools et des jeux de l’Ontario prorogée en application de la Loi de 2019 sur la Commission des alcools et des jeux de l’Ontario. («Commission»)
+
 «date de rajustement» Date d’une année qui est prescrite pour l’application de l’article 26. («adjustment date»)
+
 «établissement vinicole» Fabricant titulaire d’un permis délivré en vertu de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools qui lui donne le droit de vendre du vin ou du vin panaché à la Régie des alcools ou dans des magasins dont il est le propriétaire-exploitant. («winery»)
+
 «fabricant de bière» Titulaire d’un permis de vente par le fabricant qui autorise la vente de bière. («beer manufacturer»)
+
 «fabricant de spiritueux» Fabricant titulaire d’un permis délivré en vertu de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools qui lui donne le droit de vendre les spiritueux qu’il fabrique à la Régie des alcools ou dans des magasins dont il est le propriétaire-exploitant. («spirits manufacturer»)
+
 «magasin-agence» Magasin de vente au détail exploité par un mandataire de la Régie des alcools comme le prévoit la disposition 1 de l’article 3 de la Loi de 2019 sur la Régie des alcools de l’Ontario. («agency store»)
+
 «magasin de détail de distillerie» Magasin en Ontario dont le propriétaire-exploitant est une distillerie, cette dernière étant titulaire d’un permis délivré en vertu de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools qui lui donne le droit d’y vendre des spiritueux à des acheteurs. («distillery retail store»)
+
 «magasin de détail d’établissement vinicole» Magasin en Ontario dont le propriétaire-exploitant est un établissement vinicole, ce dernier étant titulaire d’un permis délivré en vertu de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools qui lui donne le droit d’y vendre du vin et du vin panaché à des acheteurs. («winery retail store»)
+
 «magasin de détail d’établissement vinicole hors site» Magasin de détail d’établissement vinicole qui n’est pas situé sur le lieu de production du titulaire de permis. («offsite winery retail store»)
+
 «magasin de détail d’établissement vinicole sur les lieux» Magasin de détail d’établissement vinicole qui est situé sur le lieu de production du titulaire de permis. («onsite winery retail store»)
+
 «ministre» Le ministre des Finances ou l’autre membre du Conseil exécutif chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «percepteur» Titulaire de permis qui a le droit de vendre des boissons alcoolisées, magasin-agence, exploitant de l’emplacement secondaire d’un bistrot-brasserie ou, s’il remet des taxes au ministre, membre du même groupe qu’un établissement vinicole. («collector»)
+
 «permis» Permis délivré en vertu de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools. («licence»)
+
 «Régie des alcools» La Régie des alcools de l’Ontario prorogée en application de la Loi de 2019 sur la Régie des alcools de l’Ontario. («LCBO»)
+
 «règlements» Les règlements pris en vertu de la présente loi, sauf indication contraire du contexte. («regulations»)
+
 «spiritueux» S’entend au sens de la Loi sur les permis d’alcool. («spirits»)
+
 «titulaire de permis» Personne qui est titulaire d’un permis ou d’un permis de circonstance délivré en vertu de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools. («licensee»)
+
 «vin» S’entend au sens de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools. («wine»)
+
 «vin de l’Ontario» S’entend au sens de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools. («Ontario wine»)
+
 «vin panaché» Sauf disposition contraire des règlements, vin ou boisson contenant du vin dont la teneur en alcool ne dépasse pas 7 pour cent par unité de volume. («wine cooler»)
+
 «vin panaché de l’Ontario» Sauf disposition contraire des règlements, vin de l’Ontario ou boisson contenant du vin de l’Ontario dont la teneur en alcool ne dépasse pas 7 pour cent par unité de volume. («Ontario wine cooler») 2009, chap. 34, annexe A, art. 7
 
 ### Personnes réputées être des acheteurs
 
 (2) Si un percepteur distribue sans frais des boissons alcoolisées en Ontario ou achète des boissons alcoolisées qui ne sont pas vendues à une autre personne, le percepteur est réputé un acheteur qui est tenu de payer les taxes prévues par la présente loi à l’égard des boissons alcoolisées qui sont distribuées sans frais ou achetées et non vendues.
+
 (2.1) Abrogé : 2016, chap. 37, annexe 1, par. 2 (10).
 
 ### Cas où l’acheteur est exonéré des taxes
 
 (3) L’acheteur est exonéré des taxes prévues par la présente loi à l’égard de l’achat de boissons alcoolisées dans les cas suivants :
+
 a) l’achat est effectué par la Régie des alcools ou se fait auprès d’elle ou les boissons alcoolisées ont été, à un moment quelconque, achetées auprès de la Régie des alcools;
+
 b) l’achat se fait dans une boutique hors taxes au sens du paragraphe 2 (1) de la Loi sur les douanes (Canada);
+
 c) il s’agit de l’achat de bière ou de vin fabriqué par l’acheteur dans un centre de fermentation libre-service au sens de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools ;
+
 d) l’acheteur est un Indien et l’achat de boissons alcoolisées remplit les critères suivants :
+
 (i) il se fait dans une réserve,
+
 (ii) il se fait auprès d’un percepteur situé dans la réserve,
+
 (iii) il est destiné à l’usage exclusif d’un Indien;
+
 e) l’acheteur est une personne qui est en service ou qui est employée dans une mission diplomatique ou consulaire, un haut-commissariat ou une délégation commerciale avec l’autorisation d’Affaires étrangères et Commerce international Canada, son conjoint ou un membre de sa famille :
+
 (i) si cette personne n’est ni citoyen canadien ni résident permanent du Canada au sens de la Loi sur l’immigration et la protection des réfugiés (Canada),
+
 (ii) si cette personne a reçu son affectation de l’État qu’elle représente et n’est pas engagée sur place par la mission, le haut-commissariat ou la délégation;
+
 f) Abrogé : 2019, chap. 15, annexe 2, par. 5 (35);
+
 g) l’acheteur est le gouvernement du Canada et les boissons alcoolisées seront entreposées en Ontario pour être exportées par la suite en vue de leur utilisation à l’étranger par les bureaux diplomatiques ou consulaires canadiens.
 
 ### Définitions : al. (3) d)
 
 (4) Les définitions qui suivent s’appliquent à l’alinéa (3) d).
+
 «Indien» S’entend au sens du paragraphe 2 (1) de la Loi sur les Indiens (Canada). («Indian»)
+
 «réserve» Réserve au sens de la Loi sur les Indiens (Canada) ou établissement indien situé sur des terres de la Couronne et dont les habitants indiens sont traités de la même manière que les Indiens qui résident dans une réserve par le gouvernement du Canada. («reserve») 2009, chap. 34, annexe A, art. 7
 
 ### Membres du même groupe
@@ -118,18 +189,31 @@ g) l’acheteur est le gouvernement du Canada et les boissons alcoolisées seron
 ### Règles applicables aux membres du même groupe
 
 (6) Les règles suivantes s’appliquent lorsqu’il s’agit de déterminer si des sociétés sont membres du même groupe pour l’application de la présente loi :
+
 1. Une société est la filiale d’une société donnée si l’une des conditions suivantes est remplie :
+
 i. elle est contrôlée, selon le cas :
+
 A. par la société donnée,
+
 B. par la société donnée et une ou plusieurs autres sociétés qui sont toutes contrôlées par la société donnée,
+
 C. par deux sociétés ou plus qui sont toutes contrôlées par la société donnée,
+
 ii. elle est la filiale d’une société qui est elle-même une filiale de la société donnée dans le cadre de la sous-disposition i.
+
 2. Une société donnée est contrôlée par une autre personne ou société ou par deux sociétés ou plus si les conditions suivantes sont réunies :
+
 i. des valeurs mobilières avec droit de vote représentant plus de 50 pour cent des voix nécessaires à l’élection de ses administrateurs sont détenues, autrement qu’à titre de garantie seulement, par cette autre personne ou société ou ces autres sociétés, ou à leur profit,
+
 ii. le nombre de voix rattachées aux valeurs mobilières visées à la sous-disposition i est suffisant pour élire la majorité de ses administrateurs.
+
 3. Pour l’application de la disposition 2 :
+
 i. une personne est réputée propriétaire bénéficiaire des valeurs mobilières dont est propriétaire bénéficiaire une société qu’elle contrôle ou une société membre du même groupe que cette société,
+
 ii. une société est réputée propriétaire bénéficiaire des valeurs mobilières dont les sociétés membres du même groupe sont propriétaires bénéficiaires.
+
 4. Sauf disposition contraire des règlements, les mentions de valeurs mobilières aux dispositions 2 et 3 s’entendent au sens de la Loi sur les valeurs mobilières.
 
 ### Assujettissement des acheteurs aux taxes
@@ -141,11 +225,13 @@ ii. une société est réputée propriétaire bénéficiaire des valeurs mobili�
 ### Fabricant de bière
 
 18.1 (1) Le fabricant de bière et les membres du même groupe sont exonérés des taxes prévues par la présente loi à l’égard d’une quantité maximale de 10 000 litres de bière que l’un ou l’autre distribue sans frais en Ontario pendant une année de ventes.
+
 (2) Abrogé : 2016, chap. 37, annexe 1, par. 4 (1).
 
 ### Titulaire d’un permis de bistrot-brasserie
 
 (3) Le titulaire d’un permis de bistrot-brasserie et les membres du même groupe sont exonérés des taxes prévues par la présente loi à l’égard d’une quantité maximale de 10 000 litres de bière fabriquée dans le bistrot-brasserie que l’un ou l’autre distribue sans frais en Ontario pendant une année de ventes.
+
 (4) Abrogé : 2016, chap. 37, annexe 1, par. 4 (2).
 
 ### Établissement vinicole
@@ -163,6 +249,7 @@ ii. une société est réputée propriétaire bénéficiaire des valeurs mobili�
 ### Idem
 
 (7) Si un fabricant de bière ou le titulaire d’un permis de bistrot-brasserie exerce des activités commerciales en Ontario pendant une partie seulement d’une année de ventes, le montant de l’exonération à laquelle il a droit en vertu du présent article pendant cette année est réduit proportionnellement.
+
 (8) Abrogé : 2016, chap. 37, annexe 1, par. 4 (4).
 
 ### Répartition de l’exonération : vin et vin panaché
@@ -198,8 +285,11 @@ ii. une société est réputée propriétaire bénéficiaire des valeurs mobili�
 ### Taux de la taxe de base
 
 (2) Le taux de la taxe de base visé au paragraphe (1) est le suivant :
+
 a) 90 cents le litre pour la bière pression ou, si ce taux a été rajusté en application de l’article 26, le dernier taux calculé en application de cet article;
+
 b) 1,18 $ le litre pour la bière non pression ou, si ce taux a été rajusté en application de l’article 26, le dernier taux calculé en application de cet article.
+
 (3) Abrogé : 2019, chap. 15, annexe 2, par. 9 (3).
 
 ### Disposition transitoire : cas où le taux de la taxe est modifié
@@ -211,30 +301,43 @@ b) 1,18 $ le litre pour la bière non pression ou, si ce taux a été rajusté e
 ### Définition
 
 22 (0.1) La définition qui suit s’applique au présent article.
+
 «brasseur» Personne qui fabrique de la bière.
 
 ### Exception : bière fabriquée par un microbrasseur
 
 (1) Malgré l’article 21, dans le cas de l’achat de bière fabriquée par un brasseur qui est un microbrasseur pour l’année de ventes pendant laquelle a lieu l’achat, à l’exclusion de l’achat de bière fabriquée pour un brasseur qui n’est pas un microbrasseur, le taux de la taxe de base est le suivant :
+
 1. Dans le cas de bière pression, le taux calculé en soustrayant 54 cents du taux de la taxe de base par litre pour la bière pression, prévu à l’article 21, qui est en vigueur au moment de l’achat.
+
 2. Dans le cas de bière non pression, le taux calculé en soustrayant 72 cents du taux de la taxe de base par litre pour la bière non pression, prévu à l’article 21, qui est en vigueur au moment de l’achat.
 
 ### Idem
 
 (2) Pour l’application du paragraphe (1), la bière est réputée fabriquée par un brasseur qui est un microbrasseur si elle est fabriquée pour un microbrasseur conformément à une entente ou à un autre arrangement visés au paragraphe (3.2).
+
 (2.1) Abrogé : 2026, chap. 2, annexe 9, par. 3 (3).
 
 ### Microbrasseurs
 
 (3) Pour l’application du présent article, un brasseur est un microbrasseur pour une année de ventes si les conditions suivantes sont réunies :
+
 1. Pour une année de ventes commençant avant le 2 mars 2026, sa production mondiale de bière n’a pas dépassé 49 000 hectolitres pendant l’année de production précédente ou, s’il s’agit de la première année pendant laquelle il fabrique de la bière, on ne s’attend pas à ce qu’elle dépasse 49 000 hectolitres pendant l’année de production.
+
 1.1 Pour une année de ventes commençant le 2 mars 2026 ou par la suite :
+
 i. sa production mondiale annuelle moyenne de bière :
+
 A. soit, au cours de l’année de production, n’a pas dépassé 49 000 hectolitres,
+
 B. soit, au cours des cinq années de production précédentes, à l’exclusion des années de production au cours desquelles sa production mondiale était nulle, n’a pas dépassé 49 000 hectolitres,
+
 ii. s’il s’agit de la première année de production au cours de laquelle il fabrique de la bière, on ne s’attend pas à ce que sa production mondiale de bière dépasse 49 000 hectolitres au cours de l’année de production.
+
 2. Au cours de l’année de production précédente, il n’était pas partie à une entente ou à un autre arrangement selon lequel un autre brasseur qui n’est pas un microbrasseur a convenu de fabriquer de la bière pour lui.
+
 3. Abrogée : 2017, chap. 8, annexe 1, par. 1 (2).
+
 4. Toutes les personnes qui étaient membres du même groupe que lui et qui fabriquaient de la bière au cours de l’année de production précédente étaient des microbrasseurs.
 
 ### Exception : entente relative à l’embouteillage final ou à un autre conditionnement
@@ -244,26 +347,39 @@ ii. s’il s’agit de la première année de production au cours de laquelle il
 ### Exception
 
 (3.2) Malgré la disposition 2 du paragraphe (3), un brasseur peut être partie à une entente ou à un autre arrangement avec un autre brasseur qui n’est pas un microbrasseur sans que cela ait une incidence sur le statut de microbrasseur du premier brasseur aux termes du paragraphe (3) si, selon le cas :
+
 a) l’autre brasseur était un microbrasseur à un moment quelconque de l’année de production visée à la disposition 2 du paragraphe (3);
+
 b) pour une année de ventes commençant le 2 mars 2026 ou après cette date :
+
 i. soit le premier brasseur exploite une brasserie en Ontario où, au cours de l’année de production visée à la disposition 2 du paragraphe (3), il a fabriqué des quantités commerciales de bière,
+
 ii. soit d’autres circonstances prescrites par les règlements existent.
+
 (3.3) Abrogé : 2019, chap. 15, annexe 2, par. 10 (6).
 
 ### Production mondiale
 
 (4) Il est tenu compte de ce qui suit pour déterminer la production mondiale de bière d’un brasseur pour une année de production donnée pour l’application du présent article :
+
 1. La bière fabriquée au cours de l’année de production par le brasseur, y compris la bière qu’il fabrique sous contrat pour le compte d’un autre brasseur.
+
 2. La bière fabriquée au cours de l’année de production par un membre du même groupe que le brasseur, y compris la bière que ce membre fabrique sous contrat pour le compte d’un autre brasseur.
+
 3. La bière fabriquée au cours de l’année de production par un autre brasseur sous contrat pour le compte du brasseur ou d’un membre du même groupe que le brasseur.
+
 (5) Abrogé : 2015, chap. 20, annexe 1, par. 3 (3).
 
 ### Liste des microbrasseurs
 
 (6) Le ministre dresse tous les ans et met à la disposition du public, pour chaque année de ventes, une liste sur laquelle figure ce qui suit :
+
 a) les microbrasseurs qui vendent de la bière en Ontario qui est assujettie aux taxes prévues par la présente loi pour l’année;
+
 b) les marques de bière qu’ils fabriquent.
+
 23 Abrogé : 2026, chap. 2, annexe 9, art. 4.
+
 24 Abrogé : 2026, chap. 2, annexe 9, art. 4.
 
 ### Bière fabriquée dans un bistrot-brasserie
@@ -277,9 +393,13 @@ b) les marques de bière qu’ils fabriquent.
 ### Emplacement secondaire rattaché à un bistrot-brasserie
 
 (3) Un lieu est un emplacement secondaire rattaché à un bistrot-brasserie pour l’application de la présente loi si les conditions suivantes sont remplies :
+
 1. La bière pression fabriquée dans le bistrot-brasserie est vendue à un acheteur dans le lieu.
+
 2. Le lieu ne fait pas partie du bistrot-brasserie.
+
 3. Un permis valide a été délivré pour le lieu, ou la bière pression y est vendue conformément à un avenant relatif au traiteur qui est joint au permis de bistrot-brasserie.
+
 4. Si un permis distinct est en vigueur pour le lieu, le titulaire du permis de bistrot-brasserie détient, directement ou indirectement, au moins 51 pour cent des titres de participation de l’entreprise qui vend de la bière dans le lieu.
 
 ### Disposition transitoire : cas où le taux de la taxe est modifié
@@ -293,30 +413,43 @@ b) les marques de bière qu’ils fabriquent.
 ### Idem
 
 (2) Si, le 1 er avril 2026 ou par la suite, mais avant le jour où la Loi de 2026 sur le plan pour protéger l’Ontario (mesures budgétaires) reçoit la sanction royale, le percepteur perçoit une somme au titre des taxes en application de l’article 30 à l’égard de bière ou qu’un acheteur paie les taxes prévues par la présente loi à l’égard de l’achat de bière et que le paragraphe (1) ne s’applique pas à la bière à l’égard de laquelle la taxe est perçue ou payée, les règles suivantes s’appliquent :
+
 1. L’excédent de la somme perçue ou payée au titre de la présente loi, dans sa version antérieure à sa modification par l’annexe 9 de la Loi de 2026 sur le plan pour protéger l’Ontario (mesures budgétaires), sur la taxe que le percepteur ou l’acheteur aurait eu à percevoir ou à payer au titre de la présente loi, telle qu’elle est modifiée par cette annexe, est réputé ne pas avoir été perçu ou payé au titre des taxes.
+
 2. L’excédent visé à la disposition 1 est réputé avoir fait partie du prix d’achat par ailleurs dû à l’égard de la bière et avoir été perçu ou payé à ce titre.
 
 ### Rajustement du taux de la taxe de base
 
 26 (1) Le ministre peut, par règlement, prescrire la date d’une année à laquelle les taux de la taxe de base visés aux articles 21 et 25 doivent être rajustés conformément au présent article.
+
 (1.1) et (1.2) Abrogés : 2019, chap. 15, annexe 2, par. 14 (2).
 
 ### Calcul du taux de la taxe de base
 
 (2) Les taux de la taxe de base, exprimés en cents par litre, qui sont en vigueur à partir de la date prescrite par le ministre en vertu du paragraphe (1) sont calculés selon la formule suivante :
+
 A + (A × B)
+
 où :
+
 «A» représente le taux de la taxe de base qui est en vigueur immédiatement avant la date prescrite par le ministre;
+
 «B» représente le facteur d’indexation calculé conformément au paragraphe (2.1).
 
 ### Facteur d’indexation
 
 (2.1) Pour l’application du paragraphe (2), le facteur d’indexation est le plus élevé de zéro et de la valeur calculée selon la formule suivante et arrondie à la troisième décimale :
+
 [(C/D + D/E + E/F) / 3] − 1
+
 où :
+
 «C» représente l’indice des prix à la consommation pour la période de 12 mois se terminant le 30 novembre précédent;
+
 «D» représente l’indice des prix à la consommation pour la période de 12 mois précédant la période de 12 mois visée dans la définition de l’élément «C»;
+
 «E» représente l’indice des prix à la consommation pour la période de 12 mois précédant la période de 12 mois visée dans la définition de l’élément «D»;
+
 «F» représente l’indice des prix à la consommation pour la période de 12 mois précédant la période de 12 mois visée dans la définition de l’élément «E».
 
 ### Idem
@@ -330,8 +463,11 @@ où :
 ### Indice des prix à la consommation
 
 (5) Au présent article, l’indice des prix à la consommation pour une période de 12 mois est obtenu par :
+
 a) l’addition des indices mensuels des prix à la consommation pour l’Ontario (indice d’ensemble), publiés par Statistique Canada en application de la Loi sur la statistique (Canada);
+
 b) la division par 12 du total obtenu en application de l’alinéa a);
+
 c) l’arrêt du quotient obtenu en application de l’alinéa b) à la première décimale.
 
 ### vin et vin panaché
@@ -339,6 +475,7 @@ c) l’arrêt du quotient obtenu en application de l’alinéa b) à la premièr
 ### Taxe de base
 
 27 (1) Abrogé : 2024, chap. 12, annexe 6, par. 1 (1).
+
 (1.1) Abrogé : 2023, chap. 8, annexe 6, par. 4 (2).
 
 ### Autre vin ou vin panaché
@@ -348,25 +485,37 @@ c) l’arrêt du quotient obtenu en application de l’alinéa b) à la premièr
 ### Idem : achats dans des magasins de détail d’établissement vinicole hors site
 
 (2.1) L’acheteur qui achète, dans un magasin de détail d’établissement vinicole hors site, du vin ou du vin panaché fabriqué par le propriétaire de ce magasin paie, à l’égard de l’achat, une taxe de base au taux de 12 % du prix de détail du vin ou du vin panaché.
+
 (2.2) Abrogé : 2026, chap. 2, annexe 9, par. 6 (1).
 
 ### Prix de détail du vin ou du vin panaché
 
 (3) Le prix de détail du vin ou du vin panaché vendu à un acheteur dans un magasin de détail d’établissement vinicole correspond au montant calculé selon la formule suivante :
+
 (A – B – C) ÷ (1 + D)
+
 où :
+
 «A» représente le prix exigé de l’acheteur;
+
 «B» représente la consigne applicable au contenant du vin ou du vin panaché qui doit être perçue ou versée dans le cadre d’un programme de consignation créé en vertu de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools ;
+
 «C» représente le montant de la taxe prévue par la partie IX de la Loi sur la taxe d’accise (Canada) à l’égard de l’achat du vin ou du vin panaché calculé de la manière suivante :
+
 i. en divisant le montant qui reste après avoir soustrait l’élément «B» de l’élément «A» par le total de 1 et du taux de taxe prévu à la partie IX de la Loi sur la taxe d’accise (Canada),
+
 ii. en multipliant le résultat par le taux de taxe prévu à la partie IX de la Loi sur la taxe d’accise (Canada),
+
 iii. en arrondissant le résultat au cent le plus proche;
+
 «D» représente le taux de la taxe de base qui s’applique au vin ou au vin panaché aux termes du présent article.
 
 ### Échantillons
 
 (4) L’établissement vinicole qui vend un échantillon de vin ou de vin panaché sur lequel la taxe payée par l’acheteur au titre de la présente loi est inférieure à celle qui, compte tenu du prix de détail, peut raisonnablement être imputée à l’échantillon selon le volume paie une taxe égale à la différence dans le cadre de la présente loi en qualité d’acheteur.
+
 28 Abrogé : 2026, chap. 2, annexe 9, art. 7.
+
 29 Abrogé : 2026, chap. 2, annexe 9, art. 7.
 
 ### Spiritueux
@@ -376,21 +525,33 @@ iii. en arrondissant le résultat au cent le plus proche;
 ### Spiritueux : dispositions générales
 
 29.1 (1) L’acheteur qui achète un spiritueux dans un magasin de détail de distillerie paie une taxe de base correspondant à l’un ou l’autre des taux suivants :
+
 a) 20 % du prix de détail du spiritueux s’il contient au plus 7,1 % d’alcool par unité de volume;
+
 b) 25 % du prix de détail du spiritueux s’il contient plus de 7,1 %, mais au plus 18 % d’alcool par unité de volume;
+
 c) 30,75 % du prix de détail du spiritueux s’il contient plus de 18 % d’alcool par unité de volume.
 
 ### Prix de détail du spiritueux
 
 (2) Le prix de détail d’un spiritueux vendu à un acheteur dans un magasin de détail de distillerie correspond au montant calculé selon la formule suivante :
+
 (A – B – C) ÷ (1 + D)
+
 où :
+
 «A» représente le prix exigé de l’acheteur;
+
 «B» représente la consigne applicable au contenant du spiritueux qui doit être perçue ou versée dans le cadre d’un programme de consignation créé en vertu de la Loi de 2019 sur les permis d’alcool et la réglementation des alcools ;
+
 «C» représente le montant de la taxe prévue par la partie IX de la Loi sur la taxe d’accise (Canada) à l’égard de l’achat du spiritueux calculé de la manière suivante :
+
 i. en divisant le montant qui reste après avoir soustrait l’élément «B» de l’élément «A» par le total de 1 et du taux de taxe prévu à la partie IX de la Loi sur la taxe d’accise (Canada),
+
 ii. en multipliant le résultat par le taux de taxe prévu à la partie IX de la Loi sur la taxe d’accise (Canada),
+
 iii. en arrondissant le résultat au cent le plus proche;
+
 «D» représente le taux de la taxe de base qui s’applique au spiritueux aux termes du présent article.
 
 ### Échantillons
@@ -402,6 +563,7 @@ iii. en arrondissant le résultat au cent le plus proche;
 ### Disposition transitoire : taux fixés par la Loi de 2026 sur le plan pour protéger l’Ontario (mesures budgétaires)
 
 29.2 Si, le 1 er avril 2026 ou par la suite, mais avant le jour où la Loi de 2026 sur le plan pour protéger l’Ontario (mesures budgétaires) reçoit la sanction royale, l’acheteur paie les taxes prévues par la présente loi à l’égard de l’achat de vin, de vin panaché ou de spiritueux, l’excédent de la somme payée au titre de la présente loi, dans sa version antérieure à sa modification par l’annexe 9 de la Loi de 2026 sur le plan pour protéger l’Ontario (mesures budgétaires), sur la taxe que l’acheteur aurait eu à payer au titre de la présente loi, telle qu’elle est modifiée par cette annexe, est réputé ne pas avoir été payé à titre de taxe, mais plutôt avoir fait partie du prix d’achat par ailleurs dû à l’égard du vin, du vin panaché ou du spiritueux.
+
 29.3 Abrogé : 2026, chap. 2, annexe 9, art. 10.
 
 ### Boissons rafraîchissantes alcooliques
@@ -413,7 +575,9 @@ iii. en arrondissant le résultat au cent le plus proche;
 ### Interprétation
 
 (2) Pour l’application du paragraphe (1) et de l’alinéa 71 (2) f.1), la mention de «boisson rafraîchissante alcoolique» vaut mention de toute boisson alcoolisée dont la teneur en alcool par unité de volume ne dépasse pas 7,1 % et qui est, selon le cas :
+
 a) sauf selon ce que prescrivent les règlements, un panaché, un soda alcoolisé ou un autre cocktail prémélangé à base de spiritueux, de vin, de bière ou de sucre fermenté, ou d’une combinaison de ces quatre ingrédients, qui est prêt à consommer;
+
 b) un type précisé de boisson alcoolisée ou une combinaison ou un mélange précisés de boissons alcoolisées, selon ce que prescrivent les règlements.
 
 ### Section C — Perception et remise des taxes
@@ -445,7 +609,9 @@ b) un type précisé de boisson alcoolisée ou une combinaison ou un mélange pr
 ### Remise par l’intermédiaire d’un membre du même groupe
 
 (6) Malgré le paragraphe (4), l’établissement vinicole qui est une société peut remettre les taxes ou les sommes au titre des taxes à une société qui est membre du même groupe que l’établissement vinicole, laquelle :
+
 a) perçoit les taxes ou les sommes au titre des taxes en qualité de mandataire du ministre;
+
 b) remet les taxes ou les sommes au titre des taxes au ministre conformément aux règlements.
 
 ### Remise par le titulaire du permis de bistrot-brasserie
@@ -455,25 +621,33 @@ b) remet les taxes ou les sommes au titre des taxes au ministre conformément au
 ### Perception et remise après une modification du taux de la taxe sur la bière
 
 (8) La règle suivante s’applique si un percepteur prend livraison de bière avant une date de rajustement ou s’il est autrement tenu de payer les taxes au taux en vigueur immédiatement avant la date de rajustement, puis qu’il vend ou livre cette bière à un acheteur ou à un autre percepteur à la date de rajustement ou par la suite :
+
 1. Malgré les paragraphes (1), (2) et (3), le percepteur et tout percepteur subséquent qui prend livraison de la bière perçoit ou paie des taxes ou des sommes au titre des taxes à l’égard de la bière comme si ces taxes avaient été imposées à l’acheteur immédiatement avant la date de rajustement.
 
 ### Idem : fabricant de bière
 
 (9) La règle suivante s’applique si de la bière est mise en vente avant une date de rajustement dans un magasin dont un fabricant de bière est le propriétaire-exploitant, puis vendue ou livrée à un acheteur à la date de rajustement ou par la suite :
+
 1. Malgré le paragraphe (1), les taxes que doit percevoir le fabricant à l’égard de la bière sont calculées comme si celle-ci avait été vendue ou livrée à l’acheteur immédiatement avant la date de rajustement.
 
 ### Idem : titulaire du permis de bistrot-brasserie
 
 (10) Les règles suivantes s’appliquent si de la bière pression est fabriquée dans un bistrot-brasserie avant une date de rajustement, puis que le titulaire du permis du bistrot-brasserie vend ou livre cette bière à un acheteur ou à l’exploitant d’un emplacement secondaire rattaché au bistrot-brasserie à la date de rajustement ou par la suite :
+
 1. Malgré le paragraphe (1), les taxes que doit percevoir le titulaire du permis à l’égard de la bière pression vendue ou livrée à un acheteur sont calculées comme si celle-ci avait été vendue à l’acheteur immédiatement avant la date de rajustement.
+
 2. Malgré les paragraphes (2) et (3), la somme que doit percevoir le titulaire du permis auprès de l’exploitant de l’emplacement secondaire au titre des taxes imposées aux acheteurs à l’égard de l’achat de la bière pression est calculée comme si celle-ci avait été vendue immédiatement avant la date de rajustement.
 
 ### Idem : exploitant d’un emplacement secondaire
 
 (11) La règle suivante s’applique si de la bière pression est fabriquée dans un bistrot-brasserie avant une date de rajustement, puis que l’exploitant d’un emplacement secondaire rattaché au bistrot-brasserie vend ou livre cette bière à un acheteur à la date de rajustement ou par la suite :
+
 1. Malgré le paragraphe (1), les taxes que doit percevoir l’exploitant de l’emplacement secondaire à l’égard de la bière pression sont calculées comme si celle-ci avait été vendue ou livrée à l’acheteur immédiatement avant la date de rajustement.
+
 30.1 Abrogé : 2019, chap. 15, annexe 2, art. 19.
+
 30.2 Abrogé : 2019, chap. 15, annexe 2, art. 19.
+
 31 Abrogé : 2019, chap. 15, annexe 2, art. 19.
 
 ### paiements tenant lieu de la taxe
@@ -481,9 +655,13 @@ b) remet les taxes ou les sommes au titre des taxes au ministre conformément au
 ### Paiements tenant lieu de la taxe
 
 31.1 Les règles suivantes s’appliquent si une personne vend des boissons alcoolisées et qu’elle reçoit un paiement en tant que taxe payable en application de la présente loi ou au titre de cette taxe:
+
 1. La personne traite le paiement et en rend compte en tant que taxe prévue par la présente loi.
+
 2. Si elle ne traite pas le paiement ou n’en rend pas compte conformément à la présente loi et aux règlements, la personne est passible des mêmes peines et amendes et est coupable des mêmes infractions qui s’appliqueraient si le paiement était la taxe prévue par la présente loi.
+
 3. Le ministre peut percevoir et recevoir le paiement en utilisant les mêmes voies de droit et procédures que celles prévues par la présente loi et les règlements pour la perception et l’exécution de la taxe payable en application de la présente loi.
+
 4. Aux fins de l’établissement des cotisations et de la perception du paiement, la personne qui reçoit celui-ci est réputée un percepteur pour l’application de la section D. 2010, chap. 26, annexe 1, art. 9
 
 ### Section D — Administration
@@ -495,7 +673,9 @@ b) remet les taxes ou les sommes au titre des taxes au ministre conformément au
 ### Définitions
 
 33 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «créancier garanti» Personne qui détient une sûreté sur le bien d’une autre personne ou qui est mandataire de cette personne quant à cette sûreté, y compris un fiduciaire désigné dans un acte de fiducie portant sur une sûreté, un séquestre ou administrateur-séquestre nommé par un créancier garanti ou par un tribunal à la demande d’un créancier garanti ou une autre personne dont les fonctions sont semblables à celles de l’une de ces personnes. («secured creditor»)
+
 «sûreté» Intérêt sur un bien qui garantit le paiement d’une dette ou l’exécution d’une obligation, y compris un intérêt né ou découlant d’une débenture, d’une hypothèque, d’un privilège, d’un nantissement, d’une fiducie réputée ou réelle et d’une cession quelle qu’en soit la nature ou à quelque date qu’elle soit créée, réputée exister ou prévue par ailleurs, à l’exclusion d’une sûreté que le ministre prescrit comme n’étant pas assujettie au présent article. («security interest») 2009, chap. 34, annexe A, art. 7.
 
 ### Sommes réputées détenues en fiducie
@@ -505,7 +685,9 @@ b) remet les taxes ou les sommes au titre des taxes au ministre conformément au
 ### Non-versement
 
 (3) Malgré les autres dispositions de la présente loi ou toute autre loi, en cas de non-versement par le percepteur, contrairement à la section C ou aux règlements, d’une somme qui est réputée détenue en fiducie par le paragraphe (2), les biens du percepteur et les biens que détient son créancier garanti et qui, en l’absence d’une sûreté, seraient ceux du percepteur, d’une valeur égale à cette somme sont réputés :
+
 a) d’une part, détenus en fiducie pour la Couronne du chef de l’Ontario, à compter du moment où la somme a été perçue ou est devenue percevable par le percepteur, séparés des propres biens du percepteur, qu’ils soient ou non grevés d’une sûreté;
+
 b) d’autre part, ne pas faire partie du patrimoine ou des biens du percepteur à compter du moment où la somme a été perçue ou est devenue percevable, que ces biens aient été ou non tenus séparés du patrimoine ou des propres biens du percepteur et qu’ils soient ou non grevés d’une sûreté.
 
 ### Idem
@@ -543,7 +725,9 @@ b) d’autre part, ne pas faire partie du patrimoine ou des biens du percepteur 
 ### Imputation de la garantie par le ministre
 
 (2) Si le percepteur qui a déposé une garantie auprès du ministre en application du paragraphe (1) ne perçoit ou ne remet pas une somme au titre des taxes comme l’exige la présente loi :
+
 a) le ministre peut imputer la totalité ou une partie de la garantie à la somme qui aurait dû être perçue ou remise;
+
 b) s’il prend la mesure prévue à l’alinéa a), le ministre en donne immédiatement un avis écrit au percepteur par courrier recommandé ou par signification à personne.
 
 ### Cession de créances comptables
@@ -565,7 +749,9 @@ b) s’il prend la mesure prévue à l’alinéa a), le ministre en donne imméd
 ### Lieu de conservation des registres
 
 (2) Les registres et livres de comptes exigés par le paragraphe (1) sont conservés :
+
 a) soit à l’établissement ou à la résidence en Ontario du percepteur;
+
 b) soit à l’endroit, en Ontario ou ailleurs, que le ministre approuve par écrit, aux conditions qu’il impose.
 
 ### Registres exigés par le ministre
@@ -579,8 +765,11 @@ b) soit à l’endroit, en Ontario ou ailleurs, que le ministre approuve par éc
 ### Vérification et examen
 
 38 (1) Toute personne autorisée par le ministre à une fin liée à l’application ou à l’exécution de la présente loi peut, à toute heure raisonnable, pénétrer dans des locaux ou des lieux où le percepteur exerce des activités commerciales ou conserve des registres ou livres de comptes, y compris sous forme électronique, et elle peut :
+
 a) vérifier ou examiner les registres et livres de comptes ainsi que les comptes, pièces justificatives, lettres, télégrammes ou autres documents qui se rapportent ou peuvent se rapporter aux taxes établies par la présente loi ou à toute déclaration exigée par celle-ci;
+
 b) examiner les biens figurant à l’inventaire ou les biens, les procédés ou les éléments dont l’examen peut, à son avis, l’aider à établir l’exactitude d’un inventaire ou à vérifier les renseignements qui figurent ou devraient figurer dans les livres ou le montant d’une taxe établie par la présente loi;
+
 c) exiger qu’un percepteur ou ses employés ou mandataires lui prêtent toute aide raisonnable dans le cadre de sa vérification ou de son examen et répondent à toute question pertinente s’y rapportant, soit oralement, soit, sur demande, par écrit, sous serment ou par déclaration solennelle, et exiger à cette fin que ces personnes l’accompagnent dans les locaux ou sur les lieux.
 
 ### Entrave
@@ -606,8 +795,11 @@ c) exiger qu’un percepteur ou ses employés ou mandataires lui prêtent toute 
 ### Cotisation à l’égard des taxes perçues
 
 40 (1) Le ministre peut établir une cotisation ou une nouvelle cotisation à l’égard d’une somme perçue en application de la présente loi par un percepteur :
+
 a) qui n’a pas présenté de déclaration contrairement à la présente loi ou aux règlements;
+
 b) qui n’a pas remis une somme perçue en application de la présente loi, contrairement à la présente loi ou aux règlements;
+
 c) dont les registres n’appuient pas une déclaration qu’il a présentée en application de la présente loi.
 
 ### Montant de la cotisation réputé perçu
@@ -629,14 +821,19 @@ c) dont les registres n’appuient pas une déclaration qu’il a présentée en
 ### Montant de la pénalité
 
 (2) Le montant de la pénalité qui peut être imposée à un percepteur en vertu du paragraphe (1) est calculé de la façon suivante :
+
 1. Si le ministre a des motifs raisonnables de croire que la non-perception de la somme par le percepteur est imputable à une négligence, à un manque de diligence, à une omission volontaire ou à une fraude, la pénalité correspond au total de ce qui suit :
+
 i. la somme que le percepteur n’a pas perçue,
+
 ii. le plus élevé de 100 $ et de 25 pour cent de la somme que le percepteur n’a pas perçue.
+
 2. Si la disposition 1 ne s’applique pas, la pénalité est égale à la somme que le percepteur n’a pas perçue.
 
 ### Pénalité pour omission de présenter une déclaration
 
 (3) Le ministre peut imposer au percepteur qui ne présente pas de déclaration contrairement à la présente loi et aux règlements une pénalité égale à 10 pour cent de la taxe qu’il aurait dû percevoir ou à 5 pour cent de la taxe qu’il aurait dû payer, selon le cas, pendant la période visée par la déclaration.
+
 (4) Abrogé : 2010, chap. 26, annexe 1, art. 11.
 
 ### Pénalité pour omission de remettre les taxes
@@ -666,8 +863,11 @@ ii. le plus élevé de 100 $ et de 25 pour cent de la somme que le percepteur n�
 ### Cotisation visant les acheteurs et les percepteurs
 
 42 (1) Sous réserve des paragraphes (2) à (5), le ministre peut établir une cotisation ou une nouvelle cotisation à l’égard de ce qui suit dans les délais indiqués :
+
 a) une taxe payable par un acheteur, dans les quatre ans qui suivent le jour où elle devient payable;
+
 b) une pénalité imposée en vertu du paragraphe 41 (1) pour non-perception d’une somme prévue par la présente loi, dans les quatre ans qui suivent le jour où la somme devait être perçue;
+
 c) une pénalité imposée en vertu du paragraphe 41 (3) pour omission de présenter une déclaration, dans les quatre ans qui suivent le jour où elle devait l’être.
 
 ### Aucun délai en cas de négligence, de manque de diligence ou autre
@@ -697,14 +897,23 @@ c) une pénalité imposée en vertu du paragraphe 41 (3) pour omission de prése
 ### Calcul de la dette
 
 (2) Au présent article, le montant de la dette payable, un jour donné, par une personne en application de la présente loi correspond à l’excédent de «A» sur «B», où :
+
 «A» représente le total de ce qui suit :
+
 a) l’ensemble des sommes que la personne était tenue de payer ou de percevoir au titre des taxes prévues par la présente loi avant ce jour,
+
 b) l’ensemble des pénalités imposées à la personne en vertu de la présente loi à un moment quelconque avant ce jour,
+
 c) l’ensemble des remboursements retenus en vertu de la présente loi qui sont refusés à l’égard d’une période se terminant avant ce jour,
+
 d) l’ensemble des intérêts payables par la personne en application du présent article avant ce jour;
+
 «B» représente le total de ce qui suit :
+
 a) l’ensemble des sommes qui ont été payées ou remises par la personne au titre des taxes prévues par la présente loi avant ce jour et le montant de tout remboursement dû en application d’une autre loi que le ministre a imputé à la dette de la personne dans le cadre de la présente loi avant ce jour,
+
 b) l’ensemble des remboursements retenus en vertu de la présente loi avant ce jour,
+
 c) l’ensemble des intérêts portés au crédit de la personne avant ce jour.
 
 ### Intérêts composés
@@ -734,19 +943,25 @@ c) l’ensemble des intérêts portés au crédit de la personne avant ce jour.
 ### Paiement en trop
 
 46 (1) Si un percepteur lui remet ou lui paie, pour une période donnée, une somme supérieure à celle exigée par la présente loi, le ministre prend l’une ou l’autre des mesures suivantes :
+
 a) sous réserve du paragraphe (2), il rembourse le paiement en trop au percepteur;
+
 b) à son gré, il impute le paiement en trop à la dette du percepteur relative à une autre période et en avise ce dernier.
 
 ### Restriction
 
 (2) Le ministre ne doit effectuer un remboursement prévu au paragraphe (1) que dans les cas suivants :
+
 a) une demande de remboursement lui est adressée dans les quatre ans qui suivent le jour de la remise ou du paiement à l’égard duquel le percepteur demande un remboursement;
+
 b) une preuve de nature à le convaincre du droit du percepteur au remboursement lui est présentée.
 
 ### Réserve
 
 (3) Si une cotisation ou une nouvelle cotisation ou une décision définitive d’un tribunal dans le cadre d’une instance introduite en vertu de l’article 56 révèle qu’un percepteur a fait un paiement en trop en application de la présente loi, le ministre prend l’une ou l’autre des mesures suivantes :
+
 a) il rembourse le paiement en trop au percepteur sans exiger qu’il se conforme au paragraphe (2);
+
 b) à son gré, il impute le paiement en trop à la dette du percepteur relative à une autre période et en avise ce dernier.
 
 ### Intérêts sur les paiements en trop
@@ -800,7 +1015,9 @@ b) à son gré, il impute le paiement en trop à la dette du percepteur relative
 ### Recouvrement de sommes payables en application de la présente loi
 
 50 (1) En cas de défaut de paiement de la somme fixée dans une cotisation établie en vertu de la présente loi :
+
 a) d’une part, le ministre peut intenter une action en recouvrement devant tout tribunal où peuvent être recouvrées des dettes ou des sommes d’argent d’un montant similaire, auquel cas elle est intentée et menée à terme par lui, en son nom personnel ou sous sa désignation officielle, elle peut être poursuivie par son successeur comme si aucun changement n’était survenu et il y est procédé sans jury;
+
 b) d’autre part, le ministre peut décerner, à l’adresse du shérif d’un secteur dans lequel se trouve un bien quelconque de la personne ou de l’entité tenue d’effectuer un paiement ou une remise en application de la présente loi, un mandat pour le recouvrement de la somme dont la personne ou l’entité est redevable ainsi que des intérêts courus sur cette somme calculés à partir du jour où le mandat a été délivré, plus les frais et la commission du shérif, auquel cas ce mandat a la même valeur qu’un bref d’exécution délivré par la Cour supérieure de justice.
 
 ### Application du par. 60.07 (2) des Règles de procédure civile
@@ -826,10 +1043,15 @@ b) d’autre part, le ministre peut décerner, à l’adresse du shérif d’un 
 ### Recouvrement des frais
 
 50.1 Le ministre a le droit de recouvrer auprès d’une personne les frais raisonnables engagés par lui ou pour son compte pour le recouvrement de toute somme dont la présente loi exige le paiement par la personne, pourvu que ces frais se rapportent à l’une ou l’autre des choses suivantes :
+
 1. La signification d’un avis ou autre document.
+
 2. L’enregistrement d’un avis de privilège et de sûreté réelle, y compris les frais pour les recherches connexes et les activités d’exécution.
+
 3. Une action intentée en vertu de l’alinéa 50 (1) a) pour le recouvrement d’une somme due en application de la présente loi.
+
 4. La délivrance et l’exécution d’un mandat visé à l’alinéa 50 (1) b), dans la mesure où les frais n’ont pas été recouvrés par le shérif lors de l’exécution du mandat.
+
 5. Les autres paiements prescrits faits à un tiers par le ministre ou pour son compte.
 
 ### Privilège sur des biens immeubles
@@ -843,8 +1065,11 @@ b) d’autre part, le ministre peut décerner, à l’adresse du shérif d’un 
 ### Sommes comprises et priorité
 
 (3) Le privilège et la sûreté réelle accordés par le paragraphe (1) ou (2) portent sur toutes les sommes que la personne ou l’entité est tenue de payer ou de remettre en application de la présente loi au moment de l’enregistrement de l’avis ou du renouvellement de celui-ci et sur toutes celles qu’elle est tenue de payer ou de remettre par la suite tant que l’avis demeure enregistré. Dès l’enregistrement d’un avis de privilège et de sûreté réelle, ce privilège et cette sûreté réelle ont priorité sur :
+
 a) une sûreté opposable enregistrée après l’enregistrement de l’avis;
+
 b) une sûreté rendue opposable par possession après l’enregistrement de l’avis;
+
 c) une réclamation, notamment une charge, qui est enregistrée à l’égard du bien de la personne ou de l’entité, ou qui survient par ailleurs et a une incidence sur celui-ci, après l’enregistrement de l’avis.
 
 ### Exception
@@ -862,14 +1087,19 @@ c) une réclamation, notamment une charge, qui est enregistrée à l’égard du
 ### Cas où la personne ou l’entité n’est pas le propriétaire inscrit
 
 (7) Si la personne ou l’entité qui a un intérêt sur un bien immeuble n’est pas inscrite comme propriétaire de ce bien au bureau d’enregistrement immobilier compétent :
+
 a) l’avis qui doit être enregistré conformément au paragraphe (1) énonce l’intérêt de la personne ou de l’entité sur le bien immeuble;
+
 b) une copie de l’avis est envoyée au propriétaire inscrit, à l’adresse à laquelle le dernier avis d’évaluation prévu par la Loi sur l’évaluation foncière lui a été envoyé.
 
 ### Créancier garanti
 
 (8) En plus de ses autres droits et recours, si une somme que doit une personne ou une entité est impayée, le ministre, à l’égard d’un privilège et d’une sûreté réelle visés au paragraphe (2) :
+
 a) bénéficie de tous les droits et recours et remplit tous les devoirs d’un créancier garanti que prévoient les articles 17, 59, 61, 62, 63 et 64, les paragraphes 65 (4), (5), (6) et (7) et l’article 66 de la Loi sur les sûretés mobilières ;
+
 b) bénéficie d’une sûreté sur les biens grevés pour l’application de l’alinéa 63 (4) c) de cette loi;
+
 c) bénéficie d’une sûreté sur le bien meuble pour l’application des articles 15 et 16 de la Loi sur le privilège des réparateurs et des entreposeurs, s’il s’agit d’un article au sens de cette loi.
 
 ### Enregistrement de documents
@@ -903,8 +1133,11 @@ c) bénéficie d’une sûreté sur le bien meuble pour l’application des arti
 ### Idem
 
 (3) Malgré les autres dispositions de la présente loi ou toute autre loi, si le ministre sait ou soupçonne qu’une personne ou une entité est endettée envers l’une ou l’autre des personnes ou entités suivantes ou tenue de lui verser un paiement, ou qu’elle le sera dans les 365 jours :
+
 a) une personne ou une entité dont les biens sont assujettis à une fiducie réputée créée par l’article 33;
+
 b) un créancier garanti qui a droit au paiement qui, en l’absence de la sûreté en sa faveur, devrait être fait à la personne ou à l’entité visée à l’alinéa a),
+
 le ministre peut, par courrier ordinaire ou par demande signifiée à personne, exiger que la personne mentionnée en premier lieu lui verse sans délai, au titre de la dette de la personne ou de l’entité mentionnée à l’alinéa a), la totalité ou une partie des sommes d’argent qui seraient normalement payées. Ce paiement est acquis à la Couronne du chef de l’Ontario malgré toute sûreté le grevant et est fait au ministre par priorité sur la sûreté.
 
 ### Obligation du débiteur
@@ -930,7 +1163,9 @@ le ministre peut, par courrier ordinaire ou par demande signifiée à personne, 
 ### Cotisation : lien de dépendance
 
 53 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «conjoint» S’entend au sens de l’article 29 de la Loi sur le droit de la famille. («spouse»)
+
 «membre de sa famille» Relativement à l’auteur d’un transfert, son parent, son conjoint, son grand-parent, son enfant, son petit-enfant, son beau-fils, sa belle-fille, son beau-père ou sa belle-mère. («member of his or her family») 2009, chap. 34, annexe A, art. 7
 
 ### Obligation de payer
@@ -944,10 +1179,15 @@ le ministre peut, par courrier ordinaire ou par demande signifiée à personne, 
 ### Somme payable
 
 (4) La somme visée au paragraphe (2) est égale au moindre de «A» et de «B», où :
+
 «A» représente l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée par le bénéficiaire du transfert à l’auteur de celui-ci;
+
 «B» représente le total de l’ensemble des sommes dont chacune représente :
+
 a) une somme payable par l’auteur du transfert en application de la présente loi au moment du transfert ou auparavant mais non payée,
+
 b) une somme perçue ou percevable par l’auteur du transfert mais non remise, contrairement à la présente loi,
+
 c) une pénalité ou des intérêts que l’auteur du transfert est tenu de payer en application de la présente loi au moment du transfert.
 
 ### Idem
@@ -961,13 +1201,17 @@ c) une pénalité ou des intérêts que l’auteur du transfert est tenu de paye
 ### Effet du paiement
 
 (7) Si l’auteur et le bénéficiaire d’un transfert sont conjointement et individuellement responsables du paiement d’une somme en application du présent article :
+
 a) tout paiement fait par le bénéficiaire au titre de son obligation éteint d’autant l’obligation conjointe;
+
 b) tout paiement fait par l’auteur au titre de l’obligation que lui impose la présente loi n’éteint l’obligation imposée au bénéficiaire par le présent article que dans la mesure où le paiement ramène le solde de l’obligation de l’auteur à un montant inférieur à celui de l’obligation du bénéficiaire.
 
 ### Exception
 
 (8) Le paragraphe (2) ne s’applique pas à l’égard du transfert d’un bien, y compris une somme d’argent, entre conjoints aux termes :
+
 a) soit d’un jugement ou d’une ordonnance d’un tribunal compétent;
+
 b) soit d’un accord écrit de séparation si, au moment du transfert, l’auteur et le bénéficiaire de celui-ci vivaient séparés pour cause d’échec de leur union.
 
 ### Responsabilité des administrateurs
@@ -977,9 +1221,13 @@ b) soit d’un accord écrit de séparation si, au moment du transfert, l’aute
 ### Exception
 
 (2) La responsabilité mentionnée au paragraphe (1) ne s’applique à l’administrateur d’une société que dans les cas suivants :
+
 a) un mandat d’exécution du montant de la dette de la société visée au paragraphe (1) a été décerné en vertu de l’article 50 et renvoyé par le shérif sans paiement ou avec paiement partiel;
+
 a.1) la société a intenté des procédures sous le régime de la Loi sur les arrangements avec les créanciers des compagnies (Canada);
+
 b) la société est devenue un failli en raison d’une cession ou d’une ordonnance de séquestre ou a déposé un avis d’intention de déposer une proposition ou déposé une proposition en vertu de la Loi sur la faillite et l’insolvabilité (Canada) et une créance du montant de la dette de la société visée au paragraphe (1) a été prouvée dans les six mois suivant la date de la cession, de l’ordonnance de séquestre ou du dépôt de la proposition;
+
 c) la société fait l’objet d’une instance à laquelle s’applique l’article 33 et le ministre présente une demande au cours de la période commençant le jour où il aurait dû être avisé de l’introduction de cette instance et se terminant le jour qui tombe six mois après la disposition définitive des biens restants du percepteur.
 
 ### Prudence de l’administrateur
@@ -1009,7 +1257,9 @@ c) la société fait l’objet d’une instance à laquelle s’applique l’art
 ### Frais visés à l’art. 8.1 de la Loi sur l’administration financière
 
 54.1 (1) Les frais que le ministre des Finances enjoint à une personne de payer aux termes de l’article 8.1 de la Loi sur l’administration financière pour ne pas avoir fait un paiement ou un règlement complet et sans condition d’un montant payable aux termes de la présente loi :
+
 a) sont réputés une taxe établie et payable aux termes de la présente loi;
+
 b) peuvent être perçus et recouvrés à titre de taxe aux termes de la présente loi.
 
 ### Avis
@@ -1029,7 +1279,9 @@ b) peuvent être perçus et recouvrés à titre de taxe aux termes de la présen
 ### Faits et motifs
 
 (2) L’avis d’opposition remplit les conditions suivantes :
+
 a) il décrit clairement chaque question qui fait l’objet de l’opposition;
+
 b) il expose tous les faits et motifs sur lesquels se fonde la personne à l’égard de chaque question.
 
 ### Idem
@@ -1059,8 +1311,11 @@ b) il expose tous les faits et motifs sur lesquels se fonde la personne à l’�
 ### Modalités d’appel
 
 (2) L’appel est interjeté devant la Cour supérieure de justice comme suit :
+
 a) en déposant auprès du tribunal un avis d’appel rédigé selon le formulaire qu’approuve le ministre;
+
 b) en payant au tribunal des frais selon le même montant et les mêmes modalités que les frais payables dans le cadre des règlements pris en vertu de la Loi sur l’administration de la justice lors de la délivrance d’une déclaration;
+
 c) en signifiant au ministre une copie de l’avis d’appel qui a été déposé.
 
 ### Restriction
@@ -1086,7 +1341,9 @@ c) en signifiant au ministre une copie de l’avis d’appel qui a été dépos�
 ### Réponse à l’avis d’appel
 
 (8) Avec toute la diligence possible, le ministre signifie à l’appelant et dépose auprès du tribunal une réponse à l’avis d’appel, dans laquelle il admet ou nie les faits allégués et expose les allégations de fait supplémentaires, les dispositions législatives et les motifs qu’il entend invoquer. Si le ministre ne signifie pas sa réponse dans les 180 jours qui suivent celui où l’avis d’appel lui a été signifié :
+
 a) l’appelant peut, en donnant un préavis de 21 jours au ministre, présenter une motion à un juge de la Cour supérieure de justice afin d’obtenir une ordonnance enjoignant au ministre de signifier sa réponse dans le délai que fixe le juge;
+
 b) le juge peut aussi, s’il l’estime indiqué dans les circonstances, ordonner que, si le ministre ne signifie pas sa réponse dans le délai accordé dans l’ordonnance, la cotisation qui fait l’objet de l’appel soit annulée et que soit remboursée à l’appelant la somme versée à la suite de cette cotisation ou que lui soit accordé le remboursement refusé qui fait l’objet de l’appel.
 
 ### Procédure d’appel
@@ -1100,12 +1357,19 @@ b) le juge peut aussi, s’il l’estime indiqué dans les circonstances, ordonn
 ### Décision en appel
 
 (11) Le tribunal peut statuer sur l’appel :
+
 a) en le rejetant;
+
 b) en l’accueillant;
+
 c) en l’accueillant et, selon le cas :
+
 (i) en annulant la cotisation,
+
 (ii) en modifiant la cotisation,
+
 (iii) en rétablissant la cotisation,
+
 (iv) en renvoyant la cotisation au ministre pour nouvel examen et établissement d’une nouvelle cotisation.
 
 ### Ordonnance de remboursement
@@ -1127,11 +1391,17 @@ c) en l’accueillant et, selon le cas :
 ### Requête présentée en vertu du par. 14.05 (2) des Règles de procédure civile
 
 58 (1) Une personne peut présenter une requête à un juge de la Cour supérieure de justice en vertu du paragraphe 14.05 (2) des Règles de procédure civile si les conditions suivantes sont réunies :
+
 1. La requête vise à décider une ou plusieurs questions de droit qui dépendent uniquement de l’interprétation à donner :
+
 i. soit à la présente loi ou aux règlements,
+
 ii. soit à la présente loi ou aux règlements et à une autre loi ou à un autre règlement de l’Ontario.
+
 2. Le ministre a indiqué par écrit qu’il était convaincu qu’il était dans l’intérêt public que le requérant présente la requête.
+
 3. Le ministre et le requérant ont signé un exposé conjoint des faits qu’ils ont tous deux l’intention d’invoquer et le requérant dépose l’exposé à titre d’élément de son dossier de requête.
+
 4. Il ne reste plus, entre le ministre et le requérant, de fait en litige que l’un ou l’autre estime pertinent pour décider toute question de droit qui fait l’objet de la requête.
 
 ### Application de la règle 38.10 des Règles de procédure civile
@@ -1141,14 +1411,19 @@ ii. soit à la présente loi ou aux règlements et à une autre loi ou à un aut
 ### Décision
 
 (3) Le tribunal peut décider la requête autorisée par le présent article :
+
 a) soit en faisant une déclaration de droit à l’égard d’une ou de plusieurs des questions de droit qui font l’objet de la requête;
+
 b) soit en refusant de faire une déclaration de droit à l’égard de toute question de droit qui fait l’objet de la requête;
+
 c) soit en rejetant la requête.
 
 ### Effet de la déclaration de droit
 
 (4) Aucune déclaration de droit faite par suite d’une requête présentée en vertu du présent article :
+
 a) ne lie le ministre et le requérant, sauf en ce qui concerne les faits dont ils ont convenu dans l’instance;
+
 b) ne porte atteinte d’une autre façon aux droits du ministre ou du requérant dans tout appel interjeté en vertu de la présente loi.
 
 ### Interdiction de présenter une requête en vertu du par. 14.05 (3)
@@ -1162,9 +1437,13 @@ b) ne porte atteinte d’une autre façon aux droits du ministre ou du requéran
 ### Prorogation du délai d’opposition ou d’appel
 
 59 Le ministre peut proroger le délai dans lequel un avis d’opposition doit être signifié ou un appel interjeté si une demande à cet effet est présentée :
+
 a) relativement à un avis d’opposition :
+
 (i) soit avant l’expiration du délai accordé par le paragraphe 55 (1),
+
 (ii) soit dans un délai d’un an à compter de la date de mise à la poste ou de la signification à personne de l’avis de cotisation qui fait l’objet de l’opposition, si la personne qui souhaite s’opposer fournit au ministre une explication, de nature à le convaincre, de la raison pour laquelle l’avis d’opposition n’a pu être signifié conformément au paragraphe 55 (1);
+
 b) relativement à un appel, avant l’expiration du délai accordé par le paragraphe 56 (1).
 
 ### Opposition et appel : déclaration de refus
@@ -1186,30 +1465,43 @@ b) relativement à un appel, avant l’expiration du délai accordé par le para
 ### Non-présentation d’une déclaration ou non-remise des taxes
 
 60 (1) Le percepteur qui ne présente pas une déclaration au ministre ou ne lui remet pas une somme au titre des taxes conformément à la présente loi et aux règlements est coupable d’une infraction et passible, sur déclaration de culpabilité, en plus de toute pénalité imposée en vertu de la présente loi, d’une amende :
+
 a) d’au moins 500 $;
+
 b) d’au plus la somme de 10 000 $, majorée du double de la somme qui a été ou qui aurait dû être perçue au titre des taxes pendant la période visée par la déclaration.
 
 ### Fausses déclarations
 
 (2) Est coupable d’une infraction toute personne qui, selon le cas :
+
 a) fait des affirmations fausses ou trompeuses dans une déclaration, un état ou une réponse exigés par la présente loi ou les règlements, ou y participe, y consent ou y acquiesce;
+
 b) dans le but d’éluder la perception ou la remise des taxes établies par la présente loi, détruit, altère, mutile ou cache des registres ou des livres de compte ou en dispose autrement;
+
 c) inscrit des renseignements faux ou trompeurs ou consent ou acquiesce à leur inscription dans des registres ou livres de comptes, ou omet d’y inscrire un détail important ou consent ou acquiesce à cette omission;
+
 d) se soustrait ou tente de se soustraire délibérément, de quelque façon que ce soit, à l’observation de la présente loi.
 
 ### Idem : amende et emprisonnement
 
 (3) Toute personne qui est coupable d’une infraction prévue au paragraphe (2) est passible, sur déclaration de culpabilité, en plus de toute pénalité imposée en vertu de la présente loi :
+
 a) soit d’une amende :
+
 (i) d’au moins 500 $ ou 25 pour cent de la somme qui a été ou qui aurait dû être perçue au titre des taxes pendant la période visée par la déclaration, la somme la plus élevée étant retenue,
+
 (ii) d’au plus la somme de 10 000 $, majorée du double de la somme qui a été ou qui aurait dû être perçue au titre des taxes pendant la période visée par la déclaration;
+
 b) soit d’un emprisonnement d’au plus deux ans;
+
 c) soit à la fois de l’amende prévue à l’alinéa a) et de l’emprisonnement prévu à l’alinéa b).
 
 ### Non-perception des taxes
 
 (4) Le percepteur qui ne perçoit pas une somme au titre des taxes comme l’exige la présente loi est coupable d’une infraction et passible, sur déclaration de culpabilité, en plus de toute pénalité imposée en vertu de la présente loi, d’une amende égale au total de ce qui suit :
+
 a) la somme qui aurait dû être perçue, déterminée conformément au paragraphe (5);
+
 b) une somme d’au moins 500 $ et d’au plus le total de 10 000 $ et du double de la somme visée à l’alinéa a).
 
 ### Détermination d’une somme qui aurait dû être perçue
@@ -1223,18 +1515,27 @@ b) une somme d’au moins 500 $ et d’au plus le total de 10 000 $ et du double
 ### Remboursement obtenu par un moyen trompeur ou mensonger
 
 (7) Toute personne qui obtient ou tente d’obtenir, par un moyen trompeur ou mensonger ou par toute autre manoeuvre frauduleuse, un remboursement prévu par la présente loi alors qu’elle n’y a pas droit est coupable d’une infraction et passible, sur déclaration de culpabilité :
+
 a) soit des amendes suivantes :
+
 (i) une amende d’au moins 500 $ et d’au plus 10 000 $,
+
 (ii) une amende supplémentaire d’au plus le double du remboursement qu’elle a obtenu ou tenté d’obtenir;
+
 b) soit d’un emprisonnement d’au plus deux ans;
+
 c) soit à la fois des amendes prévues à l’alinéa a) et de l’emprisonnement prévu à l’alinéa b).
 
 ### Infraction
 
 (8) Toute personne qui contrevient ou ne se conforme pas à l’une ou l’autre des dispositions suivantes est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende de 50 $ multipliée par le nombre de jours pendant lesquels elle a contrevenu ou ne s’est pas conformée à la disposition :
+
 1. L’article 37.
+
 2. L’alinéa 38 (1) c).
+
 3. Le paragraphe 38 (2).
+
 4. Le paragraphe 39 (1).
 
 ### Infraction générale
@@ -1268,43 +1569,61 @@ c) soit à la fois des amendes prévues à l’alinéa a) et de l’emprisonneme
 ### Confidentialité
 
 62 (1) Sauf si elle y est autorisée par le présent article, aucune personne employée par le gouvernement de l’Ontario, la Régie des alcools ou la Commission ne doit :
+
 a) communiquer sciemment ou permettre sciemment que soient communiqués à qui que ce soit des renseignements obtenus par le ministre ou pour son compte pour l’application de la présente loi;
+
 b) permettre sciemment à quiconque d’inspecter un dossier ou une chose obtenus par le ministre ou pour son compte pour l’application de la présente loi, ou d’y avoir accès.
 
 ### Non-divulgation
 
 (2) Malgré toute autre loi, mais sous réserve du paragraphe (3), aucune personne employée par le gouvernement de l’Ontario, la Régie des alcools ou la Commission ne peut être tenue, dans le cadre d’une instance judiciaire :
+
 a) de témoigner au sujet d’un renseignement obtenu par le ministre ou pour son compte pour l’application de la présente loi;
+
 b) de produire un dossier ou une chose obtenus par le ministre ou pour son compte pour l’application de la présente loi.
 
 ### Exceptions
 
 (3) Les paragraphes (1) et (2) ne s’appliquent pas à l’égard des instances suivantes :
+
 a) les instances criminelles introduites en vertu d’une loi du Parlement du Canada;
+
 b) les instances rattachées au procès d’une personne pour infraction à une loi de la Législature;
+
 c) les instances relatives à l’application ou à l’exécution de la présente loi ou à la perception d’une somme prévue par la présente loi ou à une cotisation établie à son égard.
 
 ### Idem
 
 (4) Une personne employée par le gouvernement de l’Ontario, la Régie des alcools ou la Commission peut, dans l’exercice de ses fonctions dans le cadre de l’application ou de l’exécution de la présente loi :
+
 a) communiquer ou permettre que soient communiqués des renseignements obtenus par le ministre ou pour son compte pour l’application de la présente loi à un fonctionnaire ou à une personne autorisée qui est employé par le gouvernement de l’Ontario, la Régie des alcools ou la Commission et qui est affecté à l’application et à l’exécution de la loi;
+
 b) permettre à un fonctionnaire ou à une personne autorisée qui est employé par le gouvernement de l’Ontario, la Régie des alcools ou la Commission et qui est affecté à l’application et à l’exécution de la loi d’inspecter un dossier ou une chose obtenus par le ministre ou pour son compte pour l’application de la présente loi, ou d’y avoir accès.
 
 ### Copies
 
 (5) Malgré les autres dispositions de la présente loi, le ministre peut autoriser la remise de la copie d’un dossier ou d’une chose obtenus par lui ou pour son compte pour l’application de la présente loi aux personnes suivantes :
+
 a) la personne qui a fourni le dossier ou la chose;
+
 b) toute personne :
+
 (i) aux fins de toute opposition qu’elle a présentée ou peut présenter ou de tout appel qu’elle a interjeté ou peut interjeter sous le régime de la présente loi à propos d’une cotisation établie concernant les taxes, les intérêts ou les pénalités prévus par celle-ci et dans le cadre de laquelle le dossier ou la chose a été obtenu,
+
 (ii) qui doit payer ou a payé une somme payable en application de la présente loi;
+
 c) le représentant légal d’une personne visée à l’alinéa a) ou b);
+
 d) un mandataire qu’une personne mentionnée à l’alinéa a) ou b) autorise par écrit à agir comme tel.
 
 ### Communication à d’autres compétences
 
 (6) Malgré les autres dispositions de la présente loi ou toute autre loi, le ministre peut autoriser la remise de renseignements ou de la copie d’un dossier ou d’une chose obtenus par lui ou pour son compte pour l’application de la présente loi :
+
 a) à un ministre du gouvernement du Canada, ou à un fonctionnaire ou employé employé à son service, pour l’application ou l’exécution d’une loi du Parlement du Canada qui fixe une taxe ou des droits;
+
 b) à un ministre du gouvernement d’une province ou d’un territoire du Canada, ou à un fonctionnaire ou employé employé à son service, pour l’application ou l’exécution d’une loi ou d’une ordonnance de la Législature de cette province ou de ce territoire qui fixe une taxe ou des droits,
+
 à condition que le ministre de l’autre autorité législative soit autorisé à fournir au ministre des renseignements ou des copies d’un dossier ou d’une chose obtenus par lui ou pour son compte pour l’application ou l’exécution d’une loi du Parlement, de la province ou du territoire, selon le cas, aux fins de l’application ou de l’exécution de la présente loi.
 
 ### Communication à la Commission
@@ -1314,7 +1633,9 @@ b) à un ministre du gouvernement d’une province ou d’un territoire du Canad
 ### Infraction
 
 (8) Est coupable d’une infraction et passible, sur déclaration de culpabilité, d’une amende d’au plus 2 000 $ la personne :
+
 a) soit qui contrevient au paragraphe (1);
+
 b) soit à qui des renseignements ont été fournis en vertu du paragraphe (4), (5), (6) ou (7) et qui utilise ou communique ces renseignements ou en permet la communication à des fins autres que celles auxquelles ils ont été fournis.
 
 ### Renseignements nécessaires à l’application de la présente loi
@@ -1334,7 +1655,9 @@ b) soit à qui des renseignements ont été fournis en vertu du paragraphe (4), 
 ### Collecte et utilisation des renseignements par la Commission
 
 (3) La Commission peut, dans l’exercice des fonctions que lui attribue le paragraphe (1), recueillir et utiliser les renseignements :
+
 a) soit qu’elle a obtenus dans l’exercice de ses fonctions dans le cadre de la présente loi;
+
 b) soit qui lui ont été communiqués par le ministre.
 
 ### Communication des renseignements par la Commission et la Régie des alcools
@@ -1348,6 +1671,7 @@ b) soit qui lui ont été communiqués par le ministre.
 ### Présomption
 
 (6) Malgré toute autre loi, tous les renseignements recueillis par le ministre auprès de la Commission ou de la Régie des alcools dans le cadre de la présente loi sont réputés des renseignements recueillis directement par le ministre auprès de la personne ou de l’entité auprès de laquelle la Commission ou la Régie des alcools les a recueillis.
+
 64 Abrogé : 2019, chap. 15, annexe 2, art. 26.
 
 ### prix taxes comprises
@@ -1359,9 +1683,13 @@ b) soit qui lui ont été communiqués par le ministre.
 ### Obligation d’information
 
 (2) Les percepteurs mettent à la disposition des acheteurs, de la manière qu’approuve le ministre, les renseignements que précise ce dernier concernant le montant des taxes comprises dans le prix.
+
 66 Abrogé : 2019, chap. 15, annexe 2, art. 28.
+
 67 Abrogé : 2019, chap. 15, annexe 2, art. 28.
+
 68 Abrogé : 2019, chap. 15, annexe 2, art. 28.
+
 69 Abrogé : 2019, chap. 15, annexe 2, art. 28.
 
 ### Section F — Formulaires et règlements
@@ -1375,19 +1703,29 @@ b) soit qui lui ont été communiqués par le ministre.
 ### Lieutenant-gouverneur en conseil
 
 71 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) définir les termes ou les expressions employés, mais non définis, dans la présente partie;
+
 b) exclure un vin ou une boisson de la définition de «vin panaché» ou encore un vin de l’Ontario ou une boisson contenant du vin de l’Ontario de la définition de «vin panaché de l’Ontario» pour l’application de ces définitions au paragraphe 17 (1).
 
 ### Ministre des Finances
 
 (2) Le ministre des Finances peut, par règlement :
+
 a) prescrire tout ce que la présente loi mentionne comme étant prescrit par règlement;
+
 b) prescrire les règles relatives aux registres et livres de compte que doivent tenir les percepteurs, y compris des règles relatives à leur contenu et au moment où ils peuvent être détruits;
+
 c) prescrire les règles relatives au paiement des taxes ainsi qu’à la perception et à la remise des sommes au titre des taxes;
+
 d) prescrire les règles relatives aux déclarations que doivent présenter les percepteurs et à la façon dont elles doivent l’être;
+
 e) prévoir le calcul et le paiement d’intérêts sur les sommes payées en excédent des sommes payables en application de la présente loi et prescrire le taux d’intérêt ou son mode de fixation;
+
 f) prévoir le remboursement de tout ou partie des taxes ou des sommes à valoir sur des taxes dans des circonstances particulières et prescrire les conditions de ce remboursement;
+
 f.1) prévoir qu’une taxe par ailleurs payable en application de la présente loi sur une ou plusieurs catégories de boissons rafraîchissantes alcooliques ne s’applique pas et prescrire à la place un ou plusieurs autres taux de taxe qui doit être payée sur ces boissons, et traiter de toute autre question selon ce que le ministre juge souhaitable en ce qui concerne l’application de la taxe, notamment traiter des questions transitoires qui peuvent découler de l’imposition de l’autre taux;
+
 g) régir la marche à suivre pour qu’une personne ou une catégorie de personnes obtienne l’avantage de l’exonération prévue au paragraphe 17 (3) ou le remboursement prévu à la présente loi.
 
 ### Effet rétroactif

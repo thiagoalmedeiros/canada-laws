@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-05-12"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18c12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Cannabis Licence Act, 2018
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/18c12) before relying on it.
 
 S.O. 2018, c. 12, Sched. 2
 
@@ -21,26 +21,43 @@ S.O. 2018, c. 12, Sched. 2
 ### Definitions
 
 1 (1) In this Act,
+
 “Board” means the board of the Commission; (“conseil”)
+
 “cannabis” means cannabis with respect to which the Cannabis Control Act, 2017 applies; (“cannabis”)
+
 “cannabis retail store” means a store operated under the authority of a retail store authorization; (“magasin de vente au détail de cannabis”)
+
 “Commission” means the Alcohol and Gaming Commission of Ontario continued under the Alcohol and Gaming Commission of Ontario Act, 2019; (“Commission”)
+
 “council of the band” has the same meaning as in subsection 2 (1) of the Indian Act (Canada); (“conseil de bande”)
+
 “distribute”, “Ontario Cannabis Retail Corporation” and “sell” have the same meaning as in the Cannabis Control Act, 2017; (“distribuer”, “Société ontarienne de vente du cannabis”, “vente”)
+
 “Indian” has the same meaning as in subsection 2 (1) of the Indian Act (Canada); (“Indien”)
+
 “Minister” means the Attorney General or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “municipality” means a local municipality; (“municipalité”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “Registrar” means the Registrar under the Alcohol and Gaming Commission of Ontario Act, 2019; (“registrateur”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “reserve” means a reserve as defined in subsection 2 (1) of the Indian Act (Canada) or an Indian settlement located on Crown land, the Indian inhabitants of which are treated by Indigenous and Northern Affairs Canada in the same manner as Indians residing on a reserve; (“réserve”)
+
 “Tribunal” means the Licence Appeal Tribunal established under the Licence Appeal Tribunal Act, 1999. (“Tribunal”)
 
 ### Interpretation, interested in another person
 
 (2) For the purposes of this Act, a person is interested in another person if the first person,
+
 (a) has, or may have in the opinion of the Registrar based on reasonable grounds, a beneficial interest of any kind, either directly or indirectly, in the other person’s business, including but not limited to a holder, directly or indirectly, of shares or other securities;
+
 (b) exercises, or may exercise in the opinion of the Registrar based on reasonable grounds, direct or indirect control over the other person’s business; or
+
 (c) has provided, or may have provided in the opinion of the Registrar based on reasonable grounds, direct or indirect financing to the other person’s business.
 
 ### Non-application of Act to Ontario Cannabis Retail Corporation
@@ -64,19 +81,29 @@ S.O. 2018, c. 12, Sched. 2
 ### Eligibility
 
 (4) An applicant is not eligible to be issued a retail operator licence in any of the following circumstances:
+
 1. There are reasonable grounds to believe that the applicant will not be financially responsible in the conduct of the applicant’s cannabis retail business, having regard to the financial history of any of the persons referred to in subsection (5).
+
 2. There are reasonable grounds to believe that the applicant will not carry on business in accordance with the law, or with integrity, honesty or in the public interest, having regard to the past or present conduct of any of the persons referred to in subsection (5).
+
 3. A person referred to in subsection (5) has been convicted of or charged with an offence under this Act, the Cannabis Control Act, 2017, the Cannabis Act (Canada) or the regulations made under any of them that is prescribed for the purposes of this paragraph.
+
 4. There are reasonable grounds to believe that the applicant is carrying on activities that are, or would be if the applicant were the holder of a retail operator licence, in contravention of or not in compliance with a provision of this Act, the Cannabis Control Act, 2017, the Cannabis Act (Canada) or the regulations made under any of them that is prescribed for the purposes of this paragraph.
+
 5. The Registrar is not satisfied that the applicant will exercise sufficient control, either directly or indirectly, over the applicant’s cannabis retail business.
+
 6. The applicant or an employee or agent of the applicant makes a false statement or provides false information in the application.
+
 7. Any other circumstance that may be prescribed.
 
 ### Same
 
 (5) Paragraphs 1 to 3 of subsection (4) apply with respect to,
+
 (a) the applicant;
+
 (b) persons interested in the applicant; and
+
 (c) if the applicant is a corporation, the directors, officers or shareholders of the applicant and persons interested in those directors, officers or shareholders.
 
 ### Convictions, charges under Controlled Drugs and Substances Act (Canada)
@@ -86,7 +113,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Issuance, refusal of retail operator licence
 
 (7) The Registrar shall consider every application for a retail operator licence, and shall,
+
 (a) issue the retail operator licence, if the applicant has met the application requirements, is not ineligible to be issued a retail operator licence and has paid the required fee; or
+
 (b) issue a proposal to refuse the application.
 
 ### Conditions on consent
@@ -96,13 +125,17 @@ S.O. 2018, c. 12, Sched. 2
 ### Retail store authorization
 
 4 (1) Subject to the regulations, the following persons may apply to the Registrar for a retail store authorization to operate a specified proposed cannabis retail store:
+
 1. A holder of a retail operator licence, subject to any conditions attached to the licence.
+
 2. An applicant for a retail operator licence.
 
 ### Restriction, applicable resolution in effect
 
 (2) Despite subsection (1), an application may not be made for a retail store authorization in respect of a proposed cannabis retail store that would be located,
+
 (a) in a municipality in which cannabis retail stores may not be located in accordance with section 41; or
+
 (b) on a reserve on which cannabis retail stores may not be located in accordance with section 43.
 
 ### Restriction, prior refusal or revocation
@@ -112,8 +145,11 @@ S.O. 2018, c. 12, Sched. 2
 ### Restriction, producers
 
 (4) A person who is the holder of a prescribed licence issued under the Cannabis Act (Canada) to produce cannabis for commercial purposes or, if no licence or licences are prescribed, a person who is the holder of any such licence, is subject to the following restrictions in respect of an application that may be made by the person under subsection (1):
+
 1. Except as otherwise provided by the regulations, the proposed cannabis retail store must be located on or within the site set out in the licence.
+
 2. The person and its affiliates, as defined by the regulations, may not between them hold more than one retail store authorization or such other number of retail store authorizations as may be prescribed.
+
 3. Any other restriction that may be prescribed.
 
 ### One store per authorization
@@ -123,27 +159,41 @@ S.O. 2018, c. 12, Sched. 2
 ### Eligibility
 
 (6) An applicant is not eligible to be issued a retail store authorization in respect of a proposed cannabis retail store in any of the following circumstances:
+
 1. The applicant is not, or would not at the time of the issuance of the authorization be, the holder of a retail operator licence, or is a holder of a retail operator licence that is subject to conditions that prevent the application for or issuance of a retail store authorization in respect of the proposed store.
+
 2. A person referred to in clauses 3 (5) (a) to (c) has been convicted of or charged with an offence under this Act, the Cannabis Control Act, 2017, the Cannabis Act (Canada) or the regulations made under any of them that is prescribed for the purposes of this paragraph.
+
 3. There are reasonable grounds to believe that the applicant is carrying on activities that are, or would be if the applicant were the holder of a retail store authorization, in contravention of or not in compliance with a provision of this Act, the Cannabis Control Act, 2017, the Cannabis Act (Canada) or the regulations made under any of them that is prescribed for the purposes of this paragraph.
+
 4. The applicant employs or intends to employ an individual who is not the holder of a cannabis retail manager licence to perform any of the functions set out in subsection 5 (1).
+
 5. The issuance of the retail store authorization in respect of a proposed store is not in the public interest, having regard to the needs and wishes of the residents of the municipality in which the proposed cannabis retail store would be located.
+
 6. In the case of a proposed cannabis retail store that would be located on a reserve, the council of the band has not approved, by the passage of a resolution applicable to the proposed store, the location of the proposed store on the reserve.
+
 7. The premises, equipment and facilities of the proposed store are not, or would not be if the authorization were issued, in compliance with this Act, the regulations or the standards and requirements established under section 26, or the Registrar is satisfied that the applicant will not exercise sufficient control, either directly or indirectly, over the premises, equipment and facilities.
+
 8. The applicant or an employee or agent of the applicant makes a false statement or provides false information in the application.
+
 9. Any other circumstance that may be prescribed.
 
 ### Public notice
 
 (7) For the purposes of paragraph 5 of subsection (6), the Registrar shall give notice of an application for a retail store authorization,
+
 (a) by displaying a notice at the location of the proposed cannabis retail store specified in the application;
+
 (b) by posting a notice on the Commission’s website; and
+
 (c) in any other manner the Registrar considers appropriate.
 
 ### Exception
 
 (8) Subsection (7) does not apply if,
+
 (a) the applicant is ineligible on any other ground to be issued a retail store authorization; or
+
 (b) subsection (12) prevents the issuance of the retail store authorization.
 
 ### Same
@@ -153,7 +203,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Issuance, refusal of retail store authorization
 
 (10) The Registrar shall consider every application for a retail store authorization, and shall,
+
 (a) subject to subsection (12), issue the retail store authorization, if the applicant has met the application requirements, is not ineligible to be issued a retail store authorization and has paid the required fee; or
+
 (b) refuse the application.
 
 ### Submissions to be considered
@@ -163,9 +215,13 @@ S.O. 2018, c. 12, Sched. 2
 ### Circumstances where no issuance
 
 (12) The Registrar shall refuse to issue a retail store authorization,
+
 (a) if the proposed cannabis retail store would be located less than the distance specified by or determined in accordance with the regulations from,
+
 (i) a school as defined in the Education Act, or
+
 (ii) any other prescribed land use; or
+
 (b) in any other circumstance that may be prescribed.
 
 ### Conditions on consent
@@ -179,9 +235,13 @@ S.O. 2018, c. 12, Sched. 2
 ### Cannabis retail manager licence
 
 5 (1) Subject to the regulations, an individual who wishes to perform one or more of the following functions in respect of a cannabis retail store may apply to the Registrar for a cannabis retail manager licence:
+
 1. Supervising or managing employees of a cannabis retail store.
+
 2. Overseeing or co-ordinating the sale or distribution of cannabis.
+
 3. Managing compliance issues in relation to the sale of cannabis.
+
 4. Having signing authority to purchase cannabis, enter into contracts or make offers of employment.
 
 ### Restriction, age
@@ -195,10 +255,15 @@ S.O. 2018, c. 12, Sched. 2
 ### Eligibility
 
 (4) An applicant is not eligible to be issued a cannabis retail manager licence in any of the following circumstances:
+
 1. There are reasonable grounds to believe that the applicant will not, in acting as a cannabis retail manager, act in accordance with the law, or with integrity, honesty or in the public interest, having regard to the past or present conduct of the applicant.
+
 2. The applicant has been convicted of or charged with an offence under this Act, the Cannabis Control Act, 2017, the Cannabis Act (Canada) or the regulations made under any of them that is prescribed for the purposes of this paragraph.
+
 3. There are reasonable grounds to believe that the applicant is carrying on activities that are, or would be if the applicant were the holder of a cannabis retail manager licence, in contravention of or not in compliance with a provision of this Act, the Cannabis Control Act, 2017, the Cannabis Act (Canada) or the regulations made under any of them that is prescribed for the purposes of this paragraph.
+
 4. The applicant makes a false statement or provides false information in the application.
+
 5. Any other circumstance that may be prescribed.
 
 ### Convictions, charges under Controlled Drugs and Substances Act (Canada)
@@ -208,7 +273,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Issuance, refusal of cannabis retail manager licence
 
 (6) The Registrar shall consider every application for a cannabis retail manager licence, and shall,
+
 (a) issue the cannabis retail manager licence, if the applicant has met the application requirements, is not ineligible to be issued a cannabis retail manager licence and has paid the required fee; or
+
 (b) issue a proposal to refuse the application.
 
 ### Conditions on consent
@@ -220,27 +287,41 @@ S.O. 2018, c. 12, Sched. 2
 ### Retail operator licences
 
 6 (1) A retail operator licence is subject to the following conditions:
+
 1. That the holder must comply with this Act, the Cannabis Control Act, 2017, the Cannabis Act (Canada) and the regulations made under any of them.
+
 2. That if the holder is issued a retail store authorization, the holder must comply with the conditions of that retail store authorization.
+
 3. Any condition specified by the Registrar under this Act that attaches to the licence.
+
 4. Any condition imposed by the Tribunal.
+
 5. Any condition that may be prescribed.
 
 ### Retail store authorizations
 
 (2) A retail store authorization is subject to the following conditions:
+
 1. That the holder must comply with this Act, the Cannabis Control Act, 2017, the Cannabis Act (Canada) and the regulations made under any of them.
+
 2. Any condition specified by the Registrar under this Act that attaches to the authorization.
+
 3. Any condition imposed by the Tribunal.
+
 4. The conditions set out in section 7.
+
 5. Any condition that may be prescribed.
 
 ### Cannabis retail manager licences
 
 (3) A cannabis retail manager licence is subject to the following conditions:
+
 1. That the holder must comply with this Act, the Cannabis Control Act, 2017, the Cannabis Act (Canada) and the regulations made under any of them.
+
 2. Any condition specified by the Registrar under this Act that attaches to the licence.
+
 3. Any condition imposed by the Tribunal.
+
 4. Any condition that may be prescribed.
 
 ### Duty to comply
@@ -262,7 +343,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Conditions specified by Registrar
 
 (8) The Registrar may at any time review a retail operator licence, cannabis retail manager licence or retail store authorization and may,
+
 (a) attach to the licence or authorization any further conditions consented to by the holder; or
+
 (b) issue a proposal to attach to the licence or authorization any further conditions that the Registrar considers appropriate to give effect to the purposes of this Act.
 
 ### Removal of certain conditions by Registrar
@@ -290,9 +373,13 @@ S.O. 2018, c. 12, Sched. 2
 ### Restrictions on corporate operations, s. 69 of Cannabis Act (Canada)
 
 (4) The holder of a retail store authorization,
+
 (a) shall not sell or distribute cannabis unless the cannabis has been produced by a person or entity that is authorized under the Cannabis Act (Canada) to produce cannabis for commercial purposes;
+
 (b) shall not sell or distribute cannabis to an individual under 19 years of age and, for the purpose, subsections 7 (2) and (3) of the Cannabis Control Act, 2017 and the regulations made for the purposes of those subsections apply with necessary modifications;
+
 (c) shall keep appropriate records, in accordance with the regulations and any applicable standards and requirements established under section 26 of this Act, respecting its activities in relation to cannabis that it possesses;
+
 (d) shall take adequate measures, in accordance with the regulations and any applicable standards and requirements established under section 26, to reduce the risk of cannabis it possesses being diverted to an illicit market or activity.
 
 ### Intoxicated persons
@@ -310,24 +397,35 @@ S.O. 2018, c. 12, Sched. 2
 ### Renewal, refusal
 
 (3) The Registrar shall,
+
 (a) subject to clause (b), grant the renewal, if the holder has met the application requirements and paid the required fee; or
+
 (b) issue a proposal to refuse to renew the licence or authorization,
+
 (i) if the holder has contravened or failed to comply with this Act or the regulations, or
+
 (ii) on the basis of a ground under subsection 3 (4) in the case of a retail operator licence, subsection 4 (6), other than paragraphs 5 and 6, in the case of a retail store authorization or subsection 5 (4) in the case of a cannabis retail manager licence, that would disentitle the holder to be issued the licence or authorization if the holder were an applicant.
 
 ### Continuance pending decision
 
 (4) If the holder of a licence or authorization issued under this Act has met the renewal application requirements and paid the required fee, the licence or authorization is deemed to continue,
+
 (a) until the renewal is granted; or
+
 (b) if the Registrar issues a notice of a proposal to refuse to renew the licence or authorization, until the time for giving notice requesting a hearing has expired under subsection 14 (2) and, if a hearing is requested, until the order has become final.
 
 ### Inquiries
 
 9 (1) The Registrar may make such inquiries and conduct such investigations into the character, financial history and competence of any of the following persons as are necessary to determine, for the purposes of an application for a licence or authorization under this Act or for the renewal of a licence or authorization, whether the applicant or holder meets the requirements for a licence, authorization or renewal, as the case may be:
+
 1. The applicant or holder.
+
 2. Persons interested in the applicant or holder.
+
 3. In the case of an application for the renewal or issuance of a retail store authorization, persons interested in the cannabis retail store or proposed cannabis retail store with respect to which the authorization is or would be issued.
+
 4. If the applicant or holder is a corporation, a director, officer or shareholder of a person referred to in paragraph 1, 2 or 3.
+
 5. Any individual employed in a cannabis retail store.
 
 ### Interpretation, interested in store
@@ -359,7 +457,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Proposal to revoke or suspend
 
 11 (1) The Registrar may issue a proposal to revoke or to suspend a licence or authorization issued under this Act,
+
 (a) if the Registrar believes on reasonable grounds that the holder has contravened or failed to comply with this Act or the regulations; or
+
 (b) on the basis of a ground under subsection 3 (4) in the case of a retail operator licence, subsection 4 (6), other than paragraphs 5 and 6, in the case of a retail store authorization or subsection 5 (4) in the case of a cannabis retail manager licence, that would disentitle the holder to be issued the licence or authorization if the holder were an applicant.
 
 ### Suspension without proposal
@@ -369,8 +469,11 @@ S.O. 2018, c. 12, Sched. 2
 ### Revocation without proposal
 
 (3) Despite subsections (1) and (2), the Registrar shall revoke a licence or authorization issued under this Act without issuing a proposal if the holder or any other prescribed person is convicted for contravening,
+
 (a) section 6, 7 or 13 of the Cannabis Control Act, 2017;
+
 (b) section 10 of the Cannabis Act (Canada); or
+
 (c) any other prescribed provision of the Cannabis Control Act, 2017, the Cannabis Act (Canada) or the regulations made under either of them.
 
 ### Notice and immediate effect
@@ -398,15 +501,21 @@ S.O. 2018, c. 12, Sched. 2
 ### Effect of revocation, non-renewal of retail store authorization
 
 (3) If a retail store authorization is revoked or fails to be renewed and the Registrar considers it appropriate in the circumstances to do so, the Registrar may, without issuing a proposal, revoke or suspend,
+
 (a) any other retail store authorization held by the same holder;
+
 (b) the holder’s retail operator licence; or
+
 (c) both.
 
 ### Effect of suspension of retail store authorization
 
 (4) If a retail store authorization is suspended and the Registrar considers it appropriate in the circumstances to do so, the Registrar may, without issuing a proposal, suspend,
+
 (a) any other retail store authorization held by the same holder;
+
 (b) the holder’s retail operator licence; or
+
 (c) both.
 
 ### Notice
@@ -420,13 +529,17 @@ S.O. 2018, c. 12, Sched. 2
 ### Cancellation on holder’s request
 
 13 (1) Subject to subsection (2), the Registrar may cancel a licence or authorization issued under this Act on the holder’s request if the holder,
+
 (a) makes the request to the Registrar in writing; and
+
 (b) surrenders the licence or authorization to the Registrar.
 
 ### Holder of retail operator licence and authorization
 
 (2) If a holder of a retail operator licence who is also the holder of one or more retail store authorizations wishes to have the licence cancelled,
+
 (a) the holder shall surrender each authorization to the Registrar together with the licence; and
+
 (b) each authorization is cancelled together with the licence.
 
 ### Notice of proposal
@@ -452,7 +565,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Order
 
 (2) After holding a hearing, the Tribunal may by order,
+
 (a) confirm or set aside the proposal or decision of the Registrar; and
+
 (b) direct the Registrar to take any action specified by the Tribunal that it considers appropriate to give effect to the purposes of this Act.
 
 ### Discretion of Tribunal
@@ -482,7 +597,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Approval, refusal
 
 (3) The Registrar shall consider every application for a transfer, and shall,
+
 (a) approve the transfer, if the prescribed requirements are met; or
+
 (b) if the prescribed requirements are not met, refuse the application or issue a proposal to refuse the application, as specified by the regulations.
 
 ### Pre-existing conditions
@@ -498,7 +615,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Restriction on products, services
 
 18 The holder of a retail store authorization may only sell or charge for,
+
 (a) cannabis that was purchased by the holder directly from the Ontario Cannabis Retail Corporation, in the packaging in which it was purchased from the Ontario Cannabis Retail Corporation, subject to the regulations; and
+
 (b) any other products or services that may be prescribed.
 
 ### Purchase of cannabis by holder
@@ -508,12 +627,15 @@ S.O. 2018, c. 12, Sched. 2
 ### Distribution
 
 20 The holder of a retail store authorization shall ensure that cannabis sold by the holder is distributed only,
+
 (a) in person in the cannabis retail store or in an area immediately adjacent to it; or
+
 (b) by delivery.
 
 ### Limits on amount of cannabis sold, distributed
 
 21 (1) In this section,
+
 “maximum permissible cannabis amount” means 30 grams of dried cannabis or the equivalent amount of another class of cannabis determined in accordance with Schedule 3 to the Cannabis Act (Canada), or such other amount as may be prescribed.
 
 ### Limit on amount sold in person at cannabis retail store
@@ -547,7 +669,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Cannabis retail managers
 
 25 (1) No individual may perform any of the functions set out in subsection 5 (1) in respect of a cannabis retail store unless the individual is,
+
 (a) the holder of a cannabis retail manager licence; or
+
 (b) the holder of a retail operator licence.
 
 ### Same
@@ -561,14 +685,23 @@ S.O. 2018, c. 12, Sched. 2
 ### Standards and requirements
 
 26 (1) The Registrar may establish standards and requirements respecting the following matters relating to the conduct of holders of licences or authorizations issued under this Act or to the operation of cannabis retail stores:
+
 1. Store premises, equipment and facilities, including surveillance and security.
+
 2. The prevention of unlawful activities, including prohibiting or restricting certain individuals from entering cannabis retail stores.
+
 3. Advertising and promotional activities.
+
 4. Training and other measures relating to the responsible use, sale or distribution of cannabis.
+
 5. The protection of assets, including money and money equivalents.
+
 6. The keeping of records, including financial records.
+
 7. Reasonable measures to maintain the confidentiality and security of records, including measures to securely dispose of records and to prevent unauthorized access to records.
+
 8. Compliance with a cannabis tracking system established under section 81 of the Cannabis Act (Canada).
+
 9. Any other matter relating to the conduct of holders of licences or authorizations issued under this Act or to the operation of cannabis retail stores that may be prescribed.
 
 ### Conflict
@@ -608,12 +741,19 @@ S.O. 2018, c. 12, Sched. 2
 ### Powers of inspector
 
 (2) An inspector conducting an inspection may,
+
 (a) examine records or anything else that is relevant to the inspection, including examining and opening any receptacle or package;
+
 (b) demand the production of a record or any other thing that is relevant to the inspection;
+
 (c) on issuing a written receipt for it, remove a record or any other thing that is relevant to the inspection for review, examination or testing;
+
 (d) on issuing a written receipt for it, remove a record or any other thing that is relevant to the inspection for copying;
+
 (e) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place;
+
 (f) take photographs or make any other kind of recording; and
+
 (g) inquire into all financial transactions, records and other matters that are relevant to the inspection.
 
 ### Written demand
@@ -627,7 +767,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Records and things removed from place
 
 (5) A record or other thing that has been removed for review, examination, testing or copying,
+
 (a) shall be made available on request to the person from whom it was removed and at a time and place that are convenient for the person and for the inspector; and
+
 (b) shall be returned to the person within a reasonable time, unless, in the case of a thing that has been subject to testing, the thing has been made unsuitable for return as a result of the testing.
 
 ### Copy admissible in evidence
@@ -669,15 +811,21 @@ S.O. 2018, c. 12, Sched. 2
 ### Warrants
 
 30 (1) On application made without notice by an investigator, a justice of the peace may issue a warrant, if satisfied on information under oath that there are reasonable grounds to believe that,
+
 (a) there has been or is likely to be a contravention of or failure to comply with this Act or the regulations; and
+
 (b) there is in any place or conveyance anything relating to the contravention of or failure to comply with this Act or the regulations.
 
 ### Powers under warrant
 
 (2) Subject to any conditions contained in it, a warrant obtained under subsection (1) authorizes an investigator,
+
 (a) to enter or access the place or conveyance specified in the warrant and examine and seize anything described in the warrant;
+
 (b) to use any data storage, processing or retrieval device or system used in carrying on business in order to produce information or evidence described in the warrant, in any form;
+
 (c) to require a person to produce the evidence or information described in the warrant and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the evidence or information described in the warrant; and
+
 (d) to use any investigative technique or procedure or do anything described in the warrant.
 
 ### Obligation to produce and assist
@@ -687,7 +835,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Entry of dwelling
 
 (4) Despite subsection (2), an investigator shall not exercise the power under a warrant to enter a place or conveyance or part of a place or conveyance actually used as a dwelling, unless,
+
 (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice of the peace authorizes the entry into the dwelling.
 
 ### Conditions on warrant
@@ -737,13 +887,17 @@ S.O. 2018, c. 12, Sched. 2
 ### Warrantless search of conveyances
 
 32.1 (1) In this section,
+
 “vehicle” means a motor vehicle, trailer, traction engine, farm tractor, road-building machine, bicycle or motorized snow vehicle, other than a street car, and includes anything attached to the vehicle.
 
 ### Same
 
 (2) For any purpose relating to the administration and enforcement of this Act and the regulations, an investigator designated for this section by the Registrar who reasonably believes that a vehicle, a vessel, railway equipment on rails or an aircraft contains evidence of a contravention of this Act or the regulations may,
+
 (a) without warrant, stop and detain it;
+
 (b) examine its contents, including any cargo, manifests, records, accounts, vouchers, papers or other documents that may afford evidence of the contravention; and
+
 (c) subject to subsection (3), seize and take away any of the manifests, records, accounts, vouchers, papers or other documents and retain them until they are produced in a court proceeding.
 
 ### Application for retention of documents
@@ -785,15 +939,21 @@ S.O. 2018, c. 12, Sched. 2
 ### Order of restoration
 
 35 (1) The Ontario Court of Justice may, on the application of any person made within 30 days of a seizure authorized under this Act, order that the things seized be restored without delay to the applicant if the court is satisfied that,
+
 (a) the applicant is entitled to possession of the things seized;
+
 (b) the things seized are not required as evidence in any proceeding;
+
 (c) continued detention of the things seized is not necessary to prevent the commission of an offence; and
+
 (d) it is unlikely that the things will be forfeited on conviction in accordance with an order made under subsection (4).
 
 ### Same
 
 (2) If the court is satisfied that the applicant is entitled to possession of the things seized but is not satisfied as to all of the matters mentioned in clauses (1) (b), (c) and (d), it shall order that the things seized be restored to the applicant,
+
 (a) on the expiration of three months from the date of the seizure, if no proceeding in respect of an offence has been commenced; or
+
 (b) on the final conclusion of any such a proceeding.
 
 ### Forfeiture
@@ -807,8 +967,11 @@ S.O. 2018, c. 12, Sched. 2
 ### Relief against forfeiture
 
 (5) Any person with an interest in a thing forfeited under this Act may apply to the Superior Court of Justice for relief against the forfeiture, and the court may make an order providing for any relief that it considers just, including, but not limited to, one or more of the following orders:
+
 1. An order directing that the thing or any part of the thing be returned to the applicant.
+
 2. An order directing that any interest in the thing be vested in the applicant.
+
 3. An order directing that an amount be paid by the Crown to the applicant by way of compensation for the forfeiture.
 
 ### Same
@@ -822,7 +985,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Promotion to increase sales
 
 36 (1) No person shall, for the purpose of increasing the sale of a particular type of cannabis,
+
 (a) directly or indirectly offer or give a material inducement to the holder of a licence or authorization issued under this Act or to an agent or employee of the holder; or
+
 (b) engage in any prescribed practices respecting the promotion of cannabis.
 
 ### Officials
@@ -850,8 +1015,11 @@ S.O. 2018, c. 12, Sched. 2
 ### Interpretation, retaliation
 
 (3) For the purposes of subsection (1), retaliation includes,
+
 (a) dismissing, suspending or disciplining an employee of a holder of a retail operator licence or retail store authorization, or subjecting the employee to discriminatory treatment;
+
 (b) imposing a penalty on any person; or
+
 (c) intimidating, coercing or harassing any person.
 
 ### Disclosure not to be discouraged
@@ -867,7 +1035,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Offence
 
 39 (1) A person is guilty of an offence if the person contravenes or fails to comply with,
+
 (a) section 18, 19, 20, 21, 22 or 23, subsection 24 (2), section 25, subsection 28 (10), section 36 or 37 or subsection 38 (1) or (4); or
+
 (b) any prescribed provision of the regulations.
 
 ### Same, directors or officers
@@ -881,7 +1051,9 @@ S.O. 2018, c. 12, Sched. 2
 ### Penalty
 
 40 On conviction for an offence under this Act,
+
 (a) a corporation is liable to a fine of not more than $250,000; and
+
 (b) an individual is liable to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or both.
 
 ### Matters Respecting Municipalities
@@ -957,15 +1129,21 @@ S.O. 2018, c. 12, Sched. 2
 ### Same, requirement for agreement with other ministers
 
 (2) The Minister may only enter into the arrangement or agreement jointly with,
+
 (a) the Minister responsible for the administration of the Ontario Cannabis Retail Corporation Act, 2017;
+
 (b) the Minister of Finance, if the Minister referred to in clause (a) is not the Minister of Finance; and
+
 (c) the Minister responsible for the administration of the Cannabis Control Act, 2017.
 
 ### Agreement implementation
 
 (3) To implement an arrangement or agreement entered into under subsection (1), the Lieutenant Governor in Council may make regulations,
+
 (a) modifying or clarifying the application of a provision of this Act or the regulations to a person, place or thing, subject to any conditions or limitations;
+
 (b) establishing requirements that apply to the sale of cannabis on a reserve, subject to any conditions or limitations;
+
 (c) specifying that rules established by the council of the band apply to the sale of cannabis on a reserve, subject to any conditions or limitations.
 
 ### Access to rules established by the council of the band
@@ -977,8 +1155,11 @@ S.O. 2018, c. 12, Sched. 2
 ### Requests for information from Ontario Cannabis Retail Corporation
 
 45 The following persons may request information from the Ontario Cannabis Retail Corporation respecting cannabis sold by the Corporation to a holder of a retail store authorization:
+
 1. The Registrar, for the purposes of inquiries and investigations under section 9.
+
 2. An inspector conducting an inspection under this Act.
+
 3. An investigator conducting an investigation under this Act.
 
 ### Employment of 18 year olds by Commission
@@ -992,45 +1173,79 @@ S.O. 2018, c. 12, Sched. 2
 ### Testimony in civil proceeding
 
 47 No person engaged in the administration of this Act shall be required to give testimony in any civil proceeding with regard to information obtained by the person in the course of the person’s duties, except in a proceeding under this Act, the Cannabis Control Act, 2017 or the Cannabis Act (Canada).
+
 48 Repealed: 2024, c. 20, Sched. 9, s. 30.
 
 ### Regulations
 
 49 (1) The Lieutenant Governor in Council may make regulations for implementing the purposes, provisions and intent of this Act, including regulations,
+
 (a) respecting anything that, in this Act, may or must be prescribed or done by regulation;
+
 (b) governing applications for retail operator licences, cannabis retail manager licences and retail store authorizations, and for the renewal or transfer of licences and authorizations, and authorizing the Registrar to exempt any person from a requirement to provide information in respect of an application;
+
 (c) specifying classes of persons who may not apply for a retail operator licence, retail store authorization or cannabis retail manager licence;
+
 (d) governing the issuance, renewal, transfer and expiry of retail operator licences, cannabis retail manager licences and retail store authorizations;
+
 (d.1) for the purposes of subsection 4 (4),
+
 (i) specifying licences or classes of licences,
+
 (ii) providing that proposed cannabis retail stores may be located on or within sites or locations other than the site set out in the licence, as specified by the regulations, for the purposes of paragraph 1 of that subsection,
+
 (iii) specifying a different number of retail store authorizations, and defining “affiliate”, for the purposes of paragraph 2 of that subsection,
+
 (iv) prescribing additional restrictions for the purposes of paragraph 3 of that subsection;
+
 (e) setting out matters that are or are not matters of public interest, for the purposes of paragraph 5 of subsection 4 (6);
+
 (f) for the purposes of clause 4 (12) (b), setting out circumstances in which a retail store authorization may not be issued, including setting out maximums or methods of determining maximums respecting authorizations that may be issued, or that may be issued with respect to an applicant, a municipality, or any other person, place or thing;
+
 (g) prescribing conditions that apply to retail operator licences, to cannabis retail manager licences or to retail store authorizations;
+
 (h) governing the sale of cannabis under a retail store authorization, including the operation of cannabis retail stores and their hours of operation;
+
 (i) respecting varieties, forms and types of cannabis that may and may not be sold under a retail store authorization by holders of retail store authorizations;
+
 (j) regulating and controlling the possession and distribution of cannabis sold or to be sold under a retail store authorization;
+
 (j.1) authorizing and governing the sale, purchase or transfer of cannabis between holders of a retail store authorization in the prescribed circumstances;
+
 (k) for the purposes of subsection 7 (3), requiring that the holder of a retail store authorization not sell cannabis or a prescribed class of cannabis at a price that is lower than a price specified by or determined in accordance with the regulations, and governing such prices;
+
 (l) providing for how elements of an offence under this Act may be proved in a prosecution, including providing for presumptions that apply or inferences that may be made in the absence of evidence to the contrary;
+
 (m) governing records to be kept by holders of a licence or authorization issued under this Act;
+
 (n) requiring holders of a licence or authorization issued under this Act to take prescribed measures to reduce the risk that cannabis under the holder’s control is diverted to an illicit market or activity;
+
 (o) governing and requiring the provision of information by holders of a licence or authorization issued under this Act to the Registrar, including information respecting the sale of cannabis and the premises, methods and practices connected to the sale of cannabis, and requiring any information provided to the Registrar to be verified in any manner specified by the regulations, including by oath;
+
 (p) governing the advertising of cannabis, or the advertising of its availability for sale or distribution, and governing related promotional activities;
+
 (q) authorizing the Board to approve training courses or programs and requiring specified persons to successfully complete them;
+
 (r) establishing standards or requirements respecting any other matter referred to in subsection 26 (1) that is not otherwise provided for by this subsection;
+
 (r.1) providing for and governing rules and processes that apply if the Registrar receives a copy of a resolution of the council of the band in respect of a reserve containing a prescribed request relating to the delivery of cannabis or other products to the reserve, including,
+
 (i) prohibiting holders of a retail store authorization from delivering cannabis or other products to a reserve,
+
 (ii) governing notice to holders of a retail store authorization respecting a prohibition or restriction on delivering cannabis or other products to a reserve, including requiring the Registrar to publish information respecting the prohibition or restriction on the Commission’s website and governing the publication,
+
 (iii) providing for and governing rules and processes that apply if the Registrar receives a copy of a resolution of the council of the band in respect of a reserve amending or rescinding a resolution to which the regulations apply,
+
 (iv) requiring a council of the band to provide notice of a resolution to which the regulations apply, and governing the notice;
+
 (s) exempting any person, place or thing from this Act or the regulations or any provision of this Act or the regulations or providing that this Act or the regulations or any provision of this Act or the regulations does not apply in respect of any person, place, thing or circumstance, and prescribing conditions or restrictions for the exemption or non-application.
 
 ### Same
 
 (2) A regulation made under subsection (1) may be general or specific in its application to any person, place or thing or any class of them, may impose different requirements, conditions or restrictions on or in respect of any class, and may be limited as to time and place.
+
 50-62 Omitted (amends, repeals or revokes other legislation).
+
 63 Omitted (provides for coming into force of provisions of this Act).
+
 64 Omitted (enacts short title of this Act).

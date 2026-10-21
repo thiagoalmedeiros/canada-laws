@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2021-11-29"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15h38"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # licences de courses de chevaux (Loi de 2015 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15h38) before relying on it.
 
 L.O. 2015, chap. 38, annexe 9
 
@@ -21,20 +21,35 @@ L.O. 2015, chap. 38, annexe 9
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Comité» Le Comité d’appel des courses de chevaux constitué en application du paragraphe 7 (1). («Panel»)
+
 «Commission» La Commission des alcools et des jeux de l’Ontario prorogée en application de la Loi de 2019 sur la Commission des alcools et des jeux de l’Ontario. («Commission»)
+
 «conseil» Le conseil de la Commission des alcools et des jeux de l’Ontario prorogée en application de la Loi de 2019 sur la Commission des alcools et des jeux de l’Ontario. («Board»)
+
 «dossier» S’entend notamment d’un livre de comptes, d’un carnet de banque, d’une pièce justificative, d’une facture, d’un reçu, d’un contrat, d’une lettre et de tout autre document, qu’il soit sur papier, sur support électronique ou photographique ou sous une autre forme. («record»)
+
 «licence» Licence délivrée en vertu de la présente loi. («licence»)
+
 «moyen de transport» Véhicule, navire ou autre chose servant au transport de chevaux ou d’équipement utilisés dans le cadre des courses de chevaux. («conveyance»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «produit» S’entend, relativement à une infraction à la présente loi :
+
 a) des biens meubles, à l’exclusion de l’argent, qui proviennent en tout ou en partie, directement ou indirectement, de la commission de l’infraction;
+
 b) de l’argent provenant directement ou indirectement de la commission de l’infraction. («proceeds»)
+
 «registrateur» Le registrateur nommé en application de la Loi de 2019 sur la Commission des alcools et des jeux de l’Ontario. («Registrar»)
+
 «règlements» Règlements pris en vertu de la présente loi. («regulations»)
+
 «règles sur les courses» Les règles sur les courses de chevaux établies en vertu de l’article 5. («rules of racing»)
+
 «titulaire de licence» Personne qui détient une licence. («licensee»)
+
 «Tribunal» Le Tribunal d’appel en matière de permis créé en application de la Loi de 1999 sur le Tribunal d’appel en matière de permis, ou l’autre tribunal prévu dans les règlements. («Tribunal») 2015, chap. 38, annexe 9, art. 1
 
 ## PARTIE II Registrateur, règles sur les courses et appels en matière de non-délivrance de licences
@@ -42,18 +57,27 @@ b) de l’argent provenant directement ou indirectement de la commission de l’
 ### Pouvoirs du registrateur : dispositions générales
 
 2 Sous réserve de la présente loi et des règlements, le registrateur a les pouvoirs suivants :
+
 a) administrer, diriger, contrôler et réglementer les courses de chevaux de tout genre en Ontario;
+
 b) administrer, contrôler et réglementer l’exploitation des hippodromes et des installations de paris hors-piste en Ontario où ont lieu ou sont diffusées des courses de chevaux de tout genre.
 
 ### Exemples
 
 3 Sans préjudice de la portée générale de l’article 2, les questions relatives aux courses de chevaux à l’égard desquelles le registrateur peut exercer ses pouvoirs comprennent notamment les suivantes :
+
 a) toutes les formes de délivrance de licences;
+
 b) la nomination et le congédiement des officiels d’hippodromes et des autres personnes dont les fonctions se rapportent au déroulement des courses de chevaux;
+
 c) l’inscription de questions que le registrateur estime appropriées;
+
 d) la tenue de registres et de comptes;
+
 e) l’imposition de pénalités en cas de contravention aux règles sur les courses et le recouvrement des pénalités;
+
 f) l’assujettissement des licences à des conditions que le registrateur estime opportunes et la suppression de ces conditions;
+
 g) les examens et les normes.
 
 ### Autres questions
@@ -87,9 +111,13 @@ g) les examens et les normes.
 ### Délégation
 
 6 Les règles sur les courses peuvent, selon ce que le registrateur estime opportun, déléguer l’un ou l’autre des pouvoirs suivants aux commissaires, juges, vétérinaires, officiels d’hippodromes, associations ou organismes de courses, officiels d’associations ou d’ organismes de courses, agents de licence ou autres dirigeants ou agents, officiels de courses, inspecteurs, enquêteurs ou à toute autre personne :
+
 1. Le pouvoir de percevoir des droits ou autres frais pour la délivrance ou le renouvellement des licences, et de prévoir leur remboursement.
+
 2. Le pouvoir de faire observer la présente loi, les règlements et les règles sur les courses ainsi que toutes les exigences du registrateur prévues par la présente loi.
+
 3. Le pouvoir de fixer, d’imposer et de percevoir des pénalités en cas de contravention aux règles sur les courses.
+
 4. Le pouvoir d’assortir les licences de conditions et de supprimer ces conditions.
 
 ### Comité d’appel des courses de chevaux
@@ -193,14 +221,19 @@ g) les examens et les normes.
 ### Refus de délivrer ou de renouveler une licence
 
 14 Le registrateur refuse de délivrer une licence à l’auteur d’une demande de licence ou de renouvellement de licence si, selon le cas :
+
 a) il existe des motifs raisonnables de croire qu’à titre de titulaire de licence, l’auteur de la demande n’agira pas conformément à la loi et avec intégrité, honnêteté ou dans l’intérêt public, compte tenu de sa conduite antérieure;
+
 b) l’auteur de la demande exerce des activités qui contreviennent à la présente loi, aux règlements, aux règles sur les courses ou aux conditions de la licence, ou qui y contreviendront s’il est titulaire d’une licence.
 
 ### Conditions de la licence
 
 15 (1) La licence est assortie des conditions propres à réaliser l’objet de la présente loi :
+
 a) que propose le registrateur et qu’accepte l’auteur de la demande;
+
 b) qui sont imposées par l’effet des articles 16 et 20;
+
 c) qui sont imposées en application de la présente loi ou qui doivent l’être en application des règlements.
 
 ### Observation des règles
@@ -210,7 +243,9 @@ c) qui sont imposées en application de la présente loi ou qui doivent l’êtr
 ### Réexamen
 
 16 Le registrateur peut en tout temps réexaminer une licence et peut :
+
 a) soit l’assortir de toutes autres conditions auxquelles consent son titulaire;
+
 b) soit faire, en application de l’article 20, une proposition d’assujettissement de la licence à toutes autres conditions qu’il estime propres à réaliser l’objet de la présente loi.
 
 ### Suppression de conditions
@@ -252,7 +287,9 @@ b) soit faire, en application de l’article 20, une proposition d’assujettiss
 ### Ordonnance du Tribunal
 
 (6) Après avoir tenu l’audience, le Tribunal peut, par ordonnance, faire ce qui suit :
+
 a) confirmer ou annuler l’ordonnance envisagée;
+
 b) enjoindre au registrateur de prendre les mesures qu’il devrait prendre, selon le Tribunal, pour réaliser l’objet de la présente loi.
 
 ### Discrétion du Tribunal
@@ -328,12 +365,19 @@ b) enjoindre au registrateur de prendre les mesures qu’il devrait prendre, sel
 ### Pouvoirs de l’inspecteur
 
 (3) L’inspecteur qui effectue une inspection peut faire ce qui suit :
+
 a) examiner des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 b) demander la production de dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 c) sur remise d’un récépissé écrit à cet effet, enlever, pour procéder à des examens, des analyses ou des tests, des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 d) sur remise d’un récépissé écrit à cet effet, enlever, pour en tirer des copies, des dossiers ou d’autres choses qui se rapportent à l’inspection;
+
 e) afin de produire un dossier sous une forme lisible, recourir aux dispositifs ou systèmes de stockage, de traitement ou d’extraction des données qui sont utilisés habituellement pour exercer des activités commerciales dans le lieu;
+
 f) prendre des photographies ou procéder à tout autre genre d’enregistrement;
+
 g) se renseigner sur les opérations financières, les dossiers et les autres questions qui se rapportent à l’inspection.
 
 ### Demande par écrit
@@ -347,7 +391,9 @@ g) se renseigner sur les opérations financières, les dossiers et les autres qu
 ### Enlèvement de dossiers et de choses
 
 (6) Les dossiers ou autres choses enlevés pour examen, analyse, test ou copie sont :
+
 a) mis à la disposition de la personne à qui ils ont été enlevés, à la demande de celle-ci et aux date, heure et lieu qui conviennent à cette personne et à l’inspecteur;
+
 b) restitués à cette personne dans un délai raisonnable, sauf si, dans le cas d’une chose qui a fait l’objet de tests, la restitution de la chose est inappropriée à la suite de ces tests.
 
 ### Copie admissible en preuve
@@ -389,21 +435,29 @@ b) restitués à cette personne dans un délai raisonnable, sauf si, dans le cas
 ### Mandats
 
 28 (1) Sur demande sans préavis d’un enquêteur, un juge de paix peut délivrer un mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il existe des motifs raisonnables de croire ce qui suit :
+
 a) une contravention à la présente loi ou aux règlements s’est produite ou risque vraisemblablement de se produire;
+
 b) une chose quelconque se rapportant à la contravention à la présente loi ou aux règlements se trouve dans un lieu ou un moyen de transport.
 
 ### Pouvoirs conférés par le mandat
 
 (2) Sous réserve des conditions qui y figurent, le mandat délivré en vertu du paragraphe (1) autorise l’enquêteur à faire ce qui suit :
+
 a) pénétrer dans le lieu ou le moyen de transport précisé dans le mandat ou y accéder et examiner et saisir toute chose mentionnée dans le mandat;
+
 b) recourir aux dispositifs ou systèmes de stockage, de traitement ou d’extraction des données utilisés pour exercer des activités commerciales en vue de produire, sous quelque forme que ce soit, des renseignements ou des éléments de preuve mentionnés dans le mandat;
+
 c) exercer les pouvoirs précisés au paragraphe (10);
+
 d) utiliser toute technique ou méthode d’enquête ou accomplir tout acte qui est mentionné dans le mandat.
 
 ### Entrée dans un logement
 
 (3) Malgré le paragraphe (2), l’enquêteur ne doit exercer le pouvoir conféré par un mandat de pénétrer dans un lieu ou un moyen de transport ou une partie d’un lieu ou d’un moyen de transport qui sert effectivement de logement que s’il est satisfait aux conditions suivantes :
+
 a) le juge de paix est informé du fait que le mandat est demandé afin d’autoriser l’entrée dans un logement;
+
 b) le juge de paix autorise l’entrée dans le logement.
 
 ### Conditions du mandat
@@ -473,16 +527,23 @@ b) le juge de paix autorise l’entrée dans le logement.
 ### Ordonnance de restitution
 
 33 (1) La Cour de justice de l’Ontario peut, sur requête de toute personne présentée dans les 30 jours suivant la saisie autorisée en vertu de la présente loi, ordonner que les choses saisies soient restituées sans délai au requérant si elle est convaincue de ce qui suit :
+
 a) le requérant a droit à la possession des choses saisies;
+
 b) les choses saisies n’ont pas à servir de preuve dans une instance;
+
 c) la rétention continue des choses saisies n’est pas nécessaire pour empêcher la commission d’une infraction;
+
 d) l’intérêt véritable de l’ industrie des courses de chevaux et du bien-être des animaux ne requiert pas la rétention continue des choses saisies;
+
 e) il est peu probable que les choses seront confisquées sur déclaration de culpabilité visée au paragraphe (4).
 
 ### Idem
 
 (2) Si la Cour est convaincue que le requérant visé au paragraphe (1) a droit à la possession des choses saisies, mais n’est pas convaincue en ce qui concerne tout ce qui est mentionné aux alinéas (1) b), c) et d), elle ordonne que les choses saisies soient restituées au requérant :
+
 a) soit à l’expiration de trois mois à compter de la date de la saisie, si aucune instance relative à une infraction n’a été introduite;
+
 b) soit une fois que cette instance est définitivement réglée.
 
 ### Confiscation
@@ -496,7 +557,9 @@ b) soit une fois que cette instance est définitivement réglée.
 ### Redressement en raison de la confiscation
 
 (5) Quiconque ayant un intérêt dans une chose confisquée en vertu du présent article peut demander, par voie de requête, un redressement contre la confiscation à la Cour supérieure de justice; la Cour peut rendre une ordonnance prévoyant l’octroi d’un redressement qu’elle estime juste, notamment une ou plusieurs des ordonnances suivantes :
+
 1. Une ordonnance portant que la chose ou une partie de celle-ci doit être rendue au requérant.
+
 2. Une ordonnance portant que tout intérêt sur la chose doit être dévolu au requérant.
 
 ### Idem
@@ -546,6 +609,7 @@ b) soit une fois que cette instance est définitivement réglée.
 ### «Cheval de course»
 
 (2) La définition qui suit s’applique au présent article.
+
 «cheval de course» S’entend d’un cheval qui a participé à une course au cours des 60 derniers jours ou qui participera à une course dans les 60 jours à venir.
 
 ### Pratiques généralement reconnues
@@ -563,8 +627,11 @@ b) soit une fois que cette instance est définitivement réglée.
 ### Infractions
 
 41 (1) Est coupable d’une infraction quiconque :
+
 a) fournit sciemment des renseignements inexacts dans une demande présentée en vertu de la présente loi;
+
 b) omet sciemment de se conformer à une ordonnance rendue par le registrateur en vertu de la présente loi;
+
 c) contrevient à toute disposition de la présente loi ou des règlements.
 
 ### Administrateurs et dirigeants
@@ -592,28 +659,45 @@ c) contrevient à toute disposition de la présente loi ou des règlements.
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) régir tout ce que la présente loi mentionne comme étant prescrit, prévu ou exigé dans les règlements;
+
 b) régir les courses de chevaux, les hippodromes et les paris hors-piste;
+
 c) traiter des pouvoirs du registrateur;
+
 d) régir le contenu et l’application des règles sur les courses;
+
 e) régir la délivrance de licences sous le régime de la présente loi;
+
 f) régir la signification de documents pour l’application de la présente loi;
+
 g) prévoir des exemptions à l’application de la présente loi ou de toute disposition de celle-ci, sous réserve des éventuelles conditions que prévoient les règlements;
+
 h) régir les questions transitoires découlant de l’abrogation de la Loi de 2000 sur la Commission des courses de chevaux.
 
 ### Dispositions transitoires : questions générales
 
 43 L’entrée en vigueur de l’article 2 a les conséquences suivantes :
+
 1. La Commission des courses de l’Ontario est dissoute.
+
 2. Les droits, biens et actifs qui appartiennent à la Commission des courses de l’Ontario immédiatement avant l’entrée en vigueur du présent article passent à la Commission.
+
 3. Les dettes, engagements et obligations dont la Commission des courses de l’Ontario est responsable immédiatement avant l’entrée en vigueur du présent article deviennent la responsabilité de la Commission.
 
 ### Dispositions transitoires : questions se rapportant aux licences et règles sur les courses
 
 44 L’entrée en vigueur de l’article 9 a les conséquences suivantes :
+
 1. Les licences et inscriptions délivrées sous le régime de la Loi de 2000 sur la Commission des courses de chevaux sont maintenues en tant que licences et inscriptions respectivement délivrées sous le régime de la présente loi.
+
 2. Les règles sur les courses, les ordonnances, les ordres et les délégations de la Commission des courses de l’Ontario dans le cadre de la Loi de 2000 sur la Commission des courses de chevaux sont maintenus, selon le cas, en tant que règles sur les courses, ordonnances, ordres et délégations du registrateur dans le cadre de la présente loi jusqu’à ce qu’ils soient modifiés, abrogés ou remplacés par le registrateur.
+
 3. Les règlements administratifs de la Commission des courses de l’Ontario dans le cadre de la Loi de 2000 sur la Commission des courses de chevaux sont maintenus en tant que règlements administratifs de la Commission des alcools et des jeux de l’Ontario à l’égard de la présente loi jusqu’à ce qu’ils soient modifiés, abrogés ou remplacés par cette Commission.
+
 45 -47 Omis (modification ou abrogation d’autres textes législatifs).
+
 48 Omis (entrée en vigueur de dispositions de la présente loi).
+
 49 Omis (édiction du titre abrégé de la présente loi).

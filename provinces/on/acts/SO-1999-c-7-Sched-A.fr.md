@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-05-16"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99t07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # protection des contribuables (Loi de 1999 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99t07) before relying on it.
 
 L.O. 1999, chap. 7, annexe A
 
@@ -21,19 +21,33 @@ L.O. 1999, chap. 7, annexe A
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «directeur général des élections» Le directeur général des élections nommé aux termes de la Loi électorale. («Chief Electoral Officer»)
+
 «loi fiscale désignée» L’une ou l’autre des lois suivantes :
+
 1. La Loi sur l’imposition des sociétés.
+
 2. La Loi sur l’éducation.
+
 3. La Loi sur l’impôt-santé des employeurs.
+
 4. La Loi de la taxe sur les carburants.
+
 5. La Loi de la taxe sur l’essence.
+
 6. La Loi de l’impôt sur le revenu.
+
 7. La Loi de 2006 sur l’impôt foncier provincial.
+
 8. La Loi sur la taxe de vente au détail.
+
 9. La Loi de 2007 sur les impôts. («designated tax statute»)
+
 «organisateur de campagne» Personne ou entité que l’article 11 oblige à demander son inscription auprès du directeur général des élections. («campaign organizer»)
+
 «personne» S’entend en outre d’un syndicat. («person»)
+
 «pouvoir d’imposition» Pouvoir visé à l’article 3 de modifier un taux d’imposition prévu par une loi fiscale désignée, de prélever un nouvel impôt ou de fixer le taux des impôts scolaires ou la somme à prélever à ce titre. («authority to tax») 1999, chap. 7, annexe A, art. 1
 
 ### Non-application
@@ -45,25 +59,33 @@ L.O. 1999, chap. 7, annexe A
 ### Restriction relative aux augmentations d’impôt ou aux nouveaux impôts
 
 2 (1) Les membres du Conseil exécutif ne doivent inclure dans un projet de loi aucune disposition qui augmente un taux d’imposition prévu par une loi fiscale désignée, qui en permet l’augmentation ou qui crée un nouvel impôt, à moins que ne soient réunies les conditions suivantes :
+
 a) un référendum sur l’augmentation ou le nouvel impôt est tenu aux termes de la présente loi avant le dépôt du projet de loi devant l’Assemblée;
+
 b) le référendum autorise l’augmentation ou le nouvel impôt.
 
 ### Idem : impôts scolaires
 
 (2) Le ministre des Finances ne doit prendre, en application de la Loi sur l’éducation, aucun règlement qui augmente le taux moyen des impôts scolaires en Ontario, calculé par le ministre, à moins que ne soient réunies les conditions suivantes :
+
 a) un référendum sur l’augmentation est tenu aux termes de la présente loi avant la prise du règlement;
+
 b) le référendum autorise l’augmentation.
 
 ### Idem
 
 (3) Le ministre des Finances ne doit pas demander, en vertu de l’article 257.12.1 de la Loi sur l’éducation, de sommes qui visent à augmenter le taux moyen des impôts scolaires en Ontario, calculé par le ministre, à moins que ne soient réunies les conditions suivantes :
+
 a) un référendum sur l’augmentation du taux d’imposition est tenu aux termes de la présente loi avant que les sommes en sus ne soient demandées;
+
 b) le référendum autorise l’augmentation.
 
 ### Impôts prévus par la Loi de 2006 sur l’impôt foncier provincial
 
 (4) Le ministre des Finances ne doit prendre, en application de la Loi de 2006 sur l’impôt foncier provincial, aucun règlement qui augmente le taux moyen d’imposition au titre de cette loi, calculé par le ministre, à moins que ne soient réunies les conditions suivantes :
+
 a) un référendum sur l’augmentation est tenu aux termes de la présente loi avant la prise du règlement;
+
 b) le référendum autorise l’augmentation.
 
 ### Exception
@@ -77,27 +99,37 @@ b) le référendum autorise l’augmentation.
 ### Interprétation
 
 (5) Si une disposition d’une loi fiscale désignée a pour effet de réduire un taux d’imposition (ou un taux d’imposition effectif) à une date ultérieure précisée, les mesures suivantes sont réputées constituer une augmentation de ce taux :
+
 1. L’abrogation de la disposition avant la date ultérieure précisée.
+
 2. Le remplacement de la date ultérieure précisée par une date qui lui est postérieure.
+
 3. Le remplacement de la réduction précisée par une réduction moins importante.
 
 ### Exception : 2002
 
 (6) Le paragraphe (1) ne s’applique pas à un projet de loi qui comprend des dispositions qui seraient réputées constituer, en raison de la disposition 2 du paragraphe (5), des augmentations de taux d’imposition prévues par la Loi sur l’imposition des sociétés et la Loi de l’impôt sur le revenu ou l’une ou l’autre de ces lois, si les conditions suivantes sont réunies :
+
 a) le projet de loi reçoit la première lecture en 2002;
+
 b) les dispositions remplacent par des dates qui leur sont postérieures les dates ultérieures précisées auxquelles entrent en vigueur les réductions de taux d’imposition (ou de taux d’imposition effectifs) prévues par la Loi sur l’imposition des sociétés et la Loi de l’impôt sur le revenu ou l’une ou l’autre de ces lois;
+
 c) chacune des dates postérieures visées à l’alinéa b) est une date qui n’est pas postérieure au premier anniversaire de la date ultérieure précisée qu’elle remplace.
 
 ### Exception : 2004
 
 (7) Malgré le paragraphe (1), les dispositions suivantes peuvent être incluses dans un projet de loi qui reçoit la première lecture en 2004 :
+
 1. Une disposition qui modifie la Loi de l’impôt sur le revenu pour établir un nouvel impôt appelé contribution-santé de l’Ontario en français et Ontario Health Premium en anglais.
+
 2. Une disposition qui modifie l’article 4.1 de la Loi de l’impôt sur le revenu pour prévoir que l’impôt payable par une fiducie pour l’environnement admissible pour une année d’imposition est calculé au même taux que le taux de base déterminé de l’impôt payable par une société en application du paragraphe 38 (2) de la Loi sur l’imposition des sociétés.
 
 ### Exception : 2012
 
 (8) Le paragraphe (1) ne s’applique pas à tout projet de loi qui reçoit la première lecture en 2012 et qui comprend des dispositions qui produiraient l’un ou l’autre des effets suivants :
+
 1. Modifier le paragraphe 29 (2) de la Loi de 2007 sur les impôts pour prévoir que le taux d’imposition de base d’une société pour une année d’imposition qui se termine après le 30 juin 2012 est de 11,5 %.
+
 2. Modifier la Loi de 2007 sur les impôts pour augmenter, d’au plus deux points de pourcentage, le taux d’imposition des particuliers — autres que les fiducies non testamentaires — sur la tranche de leur revenu imposable qui dépasse 500 000 $, le taux d’imposition des fiducies non testamentaires et le taux d’imposition applicable au revenu fractionné d’un particulier qui est prévu à l’article 12 de cette loi.
 
 ### Déclaration à l’Assemblée
@@ -111,12 +143,19 @@ c) chacune des dates postérieures visées à l’alinéa b) est une date qui n�
 ### Exception : 2014
 
 (11) Le paragraphe (1) ne s’applique pas à tout projet de loi qui reçoit la première lecture en 2014 et qui comprend une disposition qui modifierait la Loi de 2007 sur les impôts de la façon suivante :
+
 1. En modifiant le paragraphe 3 (1) de cette loi pour définir le «taux d’imposition moyen» comme étant de 11,16 %, le «deuxième taux d’imposition le plus élevé» comme étant de 12,16 % et le «deuxième taux d’imposition le moins élevé» comme étant de 9,15 %.
+
 2. En réédictant le paragraphe 6 (1) de cette loi pour prévoir que l’impôt de base sur le revenu d’un particulier pour une année d’imposition qui se termine après le 31 décembre 2013 correspond à la somme des montants suivants :
+
 i. Le montant calculé en multipliant le taux d’imposition le moins élevé pour l’année par la portion de l’assiette fiscale du particulier pour l’année qui ne dépasse pas 40 120 $.
+
 ii. Le montant calculé en multipliant le deuxième taux d’imposition le moins élevé pour l’année par le montant de l’assiette fiscale du particulier pour l’année qui dépasse 40 120 $, mais ne dépasse pas 80 242 $.
+
 iii. Le montant calculé en multipliant le taux d’imposition moyen pour l’année par le montant de l’assiette fiscale du particulier pour l’année qui dépasse 80 242 $, mais ne dépasse pas 150 000 $.
+
 iv. Le montant calculé en multipliant le deuxième taux d’imposition le plus élevé pour l’année par le montant de l’assiette fiscale du particulier pour l’année qui dépasse 150 000 $, mais ne dépasse pas 220 000 $.
+
 v. Le montant calculé en multipliant le taux d’imposition le plus élevé pour l’année par le montant de l’assiette fiscale du particulier pour l’année qui dépasse 200 000 $. 2014, chap. 7, annexe 30, par. 1 (3).
 
 ### Exception : 2017
@@ -130,13 +169,17 @@ v. Le montant calculé en multipliant le taux d’imposition le plus élevé pou
 ### Restriction relative au pouvoir d’imposition
 
 3 (1) Les membres du Conseil exécutif ne doivent inclure dans un projet de loi aucune disposition qui attribue à une personne ou à un organisme, autre que la Couronne, le pouvoir de modifier un taux d’imposition prévu par une loi fiscale désignée ou de prélever un nouvel impôt, à moins que ne soient réunies les conditions suivantes :
+
 a) un référendum sur le pouvoir à attribuer à la personne ou à l’organisme est tenu aux termes de la présente loi avant le dépôt du projet de loi devant l’Assemblée;
+
 b) le référendum autorise l’attribution du pouvoir à la personne ou à l’organisme.
 
 ### Idem : impôts prélevés aux fins scolaires
 
 (2) Les membres du Conseil exécutif ne doivent inclure dans un projet de loi aucune disposition qui attribue à une personne ou à un organisme, autre que la Couronne ou un membre du Conseil exécutif, le pouvoir de fixer le taux des impôts scolaires ou la somme à prélever à ce titre, à moins que ne soient réunies les conditions suivantes :
+
 a) un référendum sur le pouvoir à attribuer à la personne ou à l’organisme est tenu aux termes de la présente loi avant le dépôt du projet de loi devant l’Assemblée;
+
 b) le référendum autorise l’attribution du pouvoir à la personne ou à l’organisme.
 
 ### Droits et privilèges constitutionnels
@@ -158,9 +201,13 @@ b) le référendum autorise l’attribution du pouvoir à la personne ou à l’
 ### Exception : programme électoral
 
 4 (1) Pendant une campagne électorale et au plus tard deux semaines avant le jour du scrutin, le chef d’un parti inscrit au sens de la Loi sur le financement des élections peut remettre au directeur général des élections une déclaration écrite portant que, s’il forme le gouvernement après les élections, son parti a l’intention, selon le cas :
+
 a) de procéder à une augmentation précisée du taux d’imposition prévu par une loi fiscale désignée;
+
 b) de créer un nouvel impôt;
+
 c) d’attribuer un pouvoir d’imposition, autre que celui visé au paragraphe 3.1 (1), à une municipalité;
+
 d) d’attribuer un pouvoir d’imposition à une personne ou à un organisme, autre que la Couronne, un membre du Conseil exécutif ou une municipalité.
 
 ### Déclaration
@@ -186,23 +233,33 @@ d) d’attribuer un pouvoir d’imposition à une personne ou à un organisme, a
 ### Aucun référendum requis : augmentation ou nouvel impôt
 
 (7) Un référendum n’est pas requis pour l’application de l’article 2 à l’égard d’une augmentation ou d’un nouvel impôt si les conditions suivantes sont réunies :
+
 a) l’augmentation ou le nouvel impôt a fait l’objet d’une déclaration remise au directeur général des élections en vertu du présent article;
+
 b) la déclaration est conforme aux paragraphes (2) et (3) selon l’avis du directeur général des élections donné conformément au présent article;
+
 c) le parti dont le chef a remis la déclaration au directeur général des élections forme le gouvernement après les élections.
 
 ### Idem : pouvoir d’imposition
 
 (8) Un référendum n’est pas requis pour l’application de l’article 3 à l’égard d’un pouvoir d’imposition si les conditions suivantes sont réunies :
+
 a) le projet d’attribution du pouvoir d’imposition a fait l’objet d’une déclaration remise au directeur général des élections en vertu du présent article;
+
 b) la déclaration est conforme au paragraphe (2) selon l’avis du directeur général des élections donné conformément au présent article;
+
 c) le parti dont le chef a remis la déclaration au directeur général des élections forme le gouvernement après les élections.
 
 ### Exception : faits précisés
 
 5 (1) Un référendum n’est pas requis pour l’application de l’article 2 si, de l’avis du ministre des Finances, survient l’un ou l’autre des faits suivants :
+
 1. L’augmentation ou le nouvel impôt ne vise pas à entraîner une augmentation nette de la somme des recettes provinciales et des recettes recueillies aux fins scolaires aux termes de la Loi sur l’éducation.
+
 2. L’augmentation ou le nouvel impôt découle de la modification des lois fiscales fédérales et est nécessaire pour maintenir les recettes provinciales.
+
 3. L’augmentation ou le nouvel impôt est nécessaire pour mettre en oeuvre un réaménagement des pouvoirs d’imposition entre le gouvernement fédéral et un ou plusieurs gouvernements provinciaux ou entre la province et une ou plusieurs municipalités ou un ou plusieurs conseils scolaires.
+
 4. L’augmentation ou le nouvel impôt est nécessaire par suite de la réorganisation ou de la restructuration d’un ou de plusieurs organismes de la Couronne.
 
 ### Avis public
@@ -246,8 +303,11 @@ c) le parti dont le chef a remis la déclaration au directeur général des éle
 ### Avis public
 
 (3) Avant de délivrer un bref référendaire, le lieutenant-gouverneur en conseil remet les documents suivants au greffier de l’Assemblée et les met à la disposition du public :
+
 1. Une copie de la question référendaire.
+
 2. Une copie de la question proposée remise au directeur général des élections et l’avis reçu de celui-ci à son propos.
+
 3. Une déclaration qui précise l’augmentation des recettes annuelles que le ministre des Finances attend de toute augmentation ou de tout nouvel impôt visé par la question référendaire.
 
 ### Effet du référendum
@@ -279,7 +339,9 @@ c) le parti dont le chef a remis la déclaration au directeur général des éle
 ### Exception
 
 (3) La personne ou l’entité n’est pas tenue de demander son inscription si elle satisfait aux exigences suivantes :
+
 1. Elle ne doit pas dépenser plus de 1 000 $ dans le cadre de la campagne organisée pour solliciter des suffrages ou pour favoriser l’obtention d’un résultat donné.
+
 2. Elle ne doit pas réunir ses fonds à ceux d’une autre personne ou entité puis les dépenser dans le cadre de la campagne organisée pour solliciter des suffrages ou pour favoriser l’obtention d’un résultat donné.
 
 ### Idem
@@ -337,6 +399,7 @@ c) le parti dont le chef a remis la déclaration au directeur général des éle
 ### Publicité constituant une contribution
 
 14 (1) La définition qui suit s’applique au présent article.
+
 «publicité liée à la campagne» S’entend en outre de l’impression de documents, mais non des reportages.
 
 ### Seuil
@@ -354,17 +417,25 @@ c) le parti dont le chef a remis la déclaration au directeur général des éle
 ### Dossiers
 
 (5) Le radiodiffuseur ou l’éditeur garde pendant au moins deux ans les renseignements suivants, qu’il met, sur demande, à la disposition du public aux fins d’examen :
+
 1. Une copie de la publicité liée à la campagne.
+
 2. Les dates et, le cas échéant, les heures de radiodiffusion ou de publication de la publicité.
+
 3. Les noms qui lui ont été fournis aux termes du paragraphe (4).
+
 4. La somme exigée pour radiodiffuser ou publier la publicité.
+
 5. La somme qu’il aurait normalement exigée pour radiodiffuser ou publier la publicité, si elle est différente de celle effectivement exigée.
 
 ### Période de diffusion de la publicité liée à la campagne
 
 15 (1) La définition qui suit s’applique au présent article.
+
 «période d’interdiction» S’entend de ce qui suit :
+
 a) la période qui commence lors de la délivrance du bref référendaire et qui se termine le 22 e jour précédant le jour du référendum;
+
 b) le jour du référendum et la veille.
 
 ### Idem
@@ -378,17 +449,25 @@ b) le jour du référendum et la veille.
 ### Exceptions
 
 (4) Les paragraphes (2) et (3) n’ont pas pour effet d’interdire ce qui suit :
+
 1. La publication d’une publicité liée à la campagne, le jour du référendum ou la veille, dans un journal qui est publié une fois par semaine ou moins souvent et dont le jour régulier de publication tombe ce jour-là.
+
 2. Une annonce publicitaire liée à la campagne qui paraît sur l’Internet ou dans un média électronique semblable, si elle y est affichée avant la période d’interdiction et qu’elle n’est pas modifiée pendant cette période.
+
 3. Une annonce publicitaire liée à la campagne sous forme d’affiche ou de panneau, si elle est affichée avant la période d’interdiction et qu’elle n’est pas modifiée pendant cette période.
 
 ### Exceptions assujetties aux lignes directrices
 
 (5) Les paragraphes (2) et (3) ne s’appliquent pas à l’égard des activités suivantes si elles sont exercées conformément aux lignes directrices du directeur général des élections :
+
 1. L’annonce d’assemblées publiques.
+
 2. L’annonce de l’emplacement du bureau central d’un organisateur de campagne inscrit.
+
 3. L’annonce visant à solliciter des travailleurs bénévoles pour la campagne.
+
 4. L’annonce des services qu’offrira un organisateur de campagne inscrit en ce qui a trait au recensement et à la révision des listes électorales.
+
 5. L’annonce des services qu’offrira le jour du référendum un organisateur de campagne inscrit.
 
 ### Plafond des dépenses liées à la campagne
@@ -410,8 +489,11 @@ b) le jour du référendum et la veille.
 ### Rapport financier
 
 17 Le directeur des finances d’un organisateur de campagne inscrit dépose les documents suivants auprès du directeur général des élections dans les six mois qui suivent le référendum :
+
 1. Les états financiers de l’organisateur de campagne relatifs à la campagne référendaire.
+
 2. Les renseignements qu’exige le paragraphe 13 (3) relativement à la campagne.
+
 3. Le rapport du vérificateur sur les états financiers et sur les renseignements qu’exige le paragraphe 13 (3).
 
 ### Application de la Loi sur le financement des élections
@@ -421,6 +503,7 @@ b) le jour du référendum et la veille.
 ### Définition
 
 (2) La définition qui suit s’applique pour l’application de la présente loi.
+
 «personne» Dans la Loi sur le financement des élections, ce terme est réputé s’entendre en outre d’une personne morale et d’un syndicat.
 
 ### Application de la Loi électorale
@@ -436,11 +519,17 @@ b) le jour du référendum et la veille.
 ### Infractions
 
 21 (1) Est coupable d’une infraction la personne ou l’entité qui contrevient ou ne se conforme pas à l’une ou l’autre des dispositions suivantes :
+
 1. Le paragraphe 11 (1) ou (2) (inscription de l’organisateur de campagne).
+
 2. Le paragraphe 12 (1) ou (2) (réception de contributions).
+
 3. Le paragraphe 13 (1) (plafond des contributions).
+
 4. Le paragraphe 14 (4) (restriction concernant la publicité liée à la campagne).
+
 5. Le paragraphe 15 (2) ou (3) (période de diffusion de la publicité liée à la campagne).
+
 6. L’article 17 (rapport financier sur la campagne).
 
 ### Idem
@@ -454,5 +543,7 @@ b) le jour du référendum et la veille.
 ### Idem
 
 (4) La personne morale, le syndicat ou l’autre entité qui est déclaré coupable d’une infraction est passible d’une amende maximale de 100 000 $. 1999, chap. 7, annexe A, par. 21 (4).
+
 22 et 23 Omis (modifient ou abrogent d’autres lois).
+
 24 Omis (édicte le titre abrégé de la présente loi).

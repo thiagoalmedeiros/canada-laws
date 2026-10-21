@@ -6,49 +6,76 @@ language: fr
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19s01"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Unité des enquêtes spéciales (Loi de 2019 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19s01) before relying on it.
 
 L.O. 2019, chap. 1, annexe 5
 
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «agent» S’entend des personnes suivantes :
+
 a) les agents de police;
+
 b) les constables spéciaux employés par la Commission des parcs du Niagara ;
+
 c) les personnes qui sont des agents de la paix en vertu de l’article 103.0.2 de la Loi sur l’Assemblée législative. («official»)
+
 «agent de nomination» et «commandant extraprovincial» S’entendent au sens de la Loi de 2009 sur les services policiers interprovinciaux. («appointing official», «extra-provincial commander»)
+
 «agent impliqué» Relativement à un incident visé au paragraphe 15 (1), s’entend d’un agent dont la conduite semble, de l’avis du directeur de l’UES, avoir été une cause de l’incident. («subject official»)
+
 «agent témoin» Agent qui, de l’avis du directeur de l’UES, est en cause dans un incident visé au paragraphe 15 (1), sans toutefois être un agent impliqué à l’égard de l’incident. («witness official»)
+
 «anonymiser» Relativement à des renseignements personnels concernant un particulier, s’entend du fait d’en retirer les renseignements qui permettent de l’identifier ou à l’égard desquels il est raisonnable de prévoir, dans les circonstances, qu’ils pourraient servir, seuls ou avec d’autres, à l’identifier. («de-identify»)
+
 «autorité désignée» S’entend :
+
 a) relativement à un agent qui est un agent de police autre qu’un chef de police, du chef de police du service de police dont l’agent de police est membre;
+
 b) relativement à tout autre agent, de la personne prescrite par le ministre pour l’agent à l’égard de la présente loi ou des règlements ou à l’égard d’une disposition particulière de la présente loi ou d’un règlement. («designated authority»)
+
 «blessure grave» Blessure énumérée au paragraphe (2) ou toute autre blessure subie par une personne susceptible d’avoir des répercussions sur la santé ou le confort de la personne et qui n’est pas de nature passagère ou bénigne. («serious injury»)
+
 «directeur de l’UES» Le directeur de l’Unité des enquêtes spéciales nommé en application du paragraphe 5 (1). («SIU Director»)
+
 «ministre» Le procureur général ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «personne concernée» Relativement à un incident visé au paragraphe 15 (1), s’entend d’une personne qui, selon le cas :
+
 a) est décédée ou a été gravement blessée;
+
 b) a été visée par la décharge d’une arme à feu;
+
 c) a signalé qu’elle a été agressée sexuellement. («affected person»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «renseignements personnels» S’entend au sens de la Loi sur l’accès à l’information et la protection de la vie privée. («personal information») 2019, chap. 1, annexe 5, par. 1 (1) et 40 (1)
 
 ### Blessures graves
 
 (2) Une personne subit une blessure grave dans les cas suivants :
+
 a) elle subit une blessure pour laquelle elle est admise à l’hôpital;
+
 b) elle souffre d’une fracture du crâne, d’un membre, d’une côte ou d’une vertèbre;
+
 c) elle souffre de brûlures sur une grande partie du corps;
+
 d) elle a perdu une partie du corps;
+
 e) elle subit une perte de la vision ou de l’ouïe par suite d’une blessure;
+
 f) elle subit une blessure prescrite.
 
 ### Interprétation : questions concernant la police
@@ -58,8 +85,11 @@ f) elle subit une blessure prescrite.
 ### Agents de police nommés en vertu de la Loi de 2009 sur les services policiers interprovinciaux
 
 2 Pour l’application de la présente loi, la personne nommée agent de police en vertu de la Loi de 2009 sur les services policiers interprovinciaux est réputée être, selon le cas :
+
 a) un membre de la Police provinciale de l’Ontario;
+
 b) si elle a été nommée par un membre d’un service de police dont le fonctionnement est assuré par une commission de service de police, un membre de ce service;
+
 c) si elle a été nommée par un membre d’une commission de service de police, un membre du service de police dont le fonctionnement est assuré par la commission.
 
 ### La Couronne est liée
@@ -75,7 +105,9 @@ c) si elle a été nommée par un membre d’une commission de service de police
 ### Composition
 
 (2) L’Unité des enquêtes spéciales est dirigée par le directeur de l’UES et comprend, outre le directeur, les personnes suivantes :
+
 a) les enquêteurs nommés en vertu de l’article 6;
+
 b) les personnes nommées à titre de personnes employées à l’Unité des enquêtes spéciales conformément à l’article 8.
 
 ### Directeur de l’Unité des enquêtes spéciales
@@ -101,11 +133,17 @@ b) les personnes nommées à titre de personnes employées à l’Unité des enq
 ### Fonctions
 
 (6) Le directeur de l’Unité des enquêtes spéciales :
+
 a) supervise les enquêtes menées en vertu de la présente loi;
+
 b) fournit aux personnes employées à l’Unité des enquêtes spéciales, conformément aux exigences prescrites par le ministre et en consultation avec les personnes qui représentent la diversité de l’Ontario que le directeur de l’UES estime appropriées, une formation qui favorise la reconnaissance et le respect, à la fois :
+
 (i) du caractère diversifié, multiracial et multiculturel de la société ontarienne,
+
 (ii) des droits et des cultures des Premières Nations, des Inuits et des Métis;
+
 c) publie des rapports statistiques en vue d’étayer l’évaluation, la gestion et l’amélioration des services policiers en Ontario;
+
 d) doit exercer les fonctions et peut exercer les pouvoirs qui sont énoncés dans la présente loi, ainsi que les autres fonctions et pouvoirs prescrits.
 
 ### Délégation
@@ -161,14 +199,19 @@ d) doit exercer les fonctions et peut exercer les pouvoirs qui sont énoncés da
 ### Avis de collecte directe
 
 (5) Avant de solliciter le consentement du particulier concerné par les renseignements personnels à la collecte de ces renseignements directement auprès de lui, le directeur de l’UES informe le particulier de ce qui suit :
+
 a) l’autorité invoquée pour la collecte et les fins visées par la collecte;
+
 b) le titre et les coordonnées, notamment l’adresse électronique, d’une personne employée à l’Unité des enquêtes spéciales qui peut répondre aux questions du particulier au sujet de la collecte.
 
 ### Avis de collecte indirecte
 
 (6) Si les règlements visés au paragraphe (4) prévoient la collecte de renseignements personnels autrement que directement auprès du particulier concerné par ces renseignements, le directeur de l’UES veille, avant de les recueillir d’une telle manière, à faire publier sur le site Web de l’Unité des enquêtes spéciales un avis de collecte comportant les renseignements suivants :
+
 a) une déclaration portant que la collecte est autorisée en application du paragraphe (1) et énonçant les fins visées par celle-ci;
+
 b) les renseignements personnels et les circonstances précisés par les règlements visés au paragraphe (4) aux fins de la collecte;
+
 c) le titre et les coordonnées, notamment l’adresse électronique, d’une personne employée à l’Unité des enquêtes spéciales qui peut répondre aux questions des particuliers au sujet de la collecte.
 
 ### Anonymisation
@@ -182,20 +225,31 @@ c) le titre et les coordonnées, notamment l’adresse électronique, d’une pe
 ### Restrictions en matière d’accès
 
 (9) Le directeur de l’UES restreint l’accès aux renseignements personnels recueillis en vertu du présent article aux personnes employées à l’Unité des enquêtes spéciales et aux enquêteurs, à l’une ou l’autre des fins suivantes :
+
 a) l’anonymisation des renseignements personnels en application du paragraphe (7);
+
 b) la divulgation des renseignements personnels en vertu du paragraphe (10).
 
 ### Restrictions en matière de divulgation
 
 (10) Le directeur de l’UES, une personne employée à l’Unité des enquêtes spéciales ou un enquêteur ne peut divulguer les renseignements personnels recueillis en vertu du présent article que si l’une des conditions suivantes est remplie :
+
 a) le particulier concerné par ces renseignements les a identifiés spécifiquement et a consenti à leur divulgation;
+
 b) la divulgation est exigée par la loi, y compris comme l’exige l’article 31 du Code des droits de la personne ;
+
 c) sous réserve du paragraphe (11), la divulgation est faite aux fins d’une instance poursuivie ou éventuelle, les renseignements concernent ou constituent une question en litige dans l’instance poursuivie ou éventuelle, et :
+
 (i) soit le directeur de l’UES est partie ou s’attend à l’être,
+
 (ii) soit l’une ou l’autre des personnes suivantes, est témoin, ou s’attend à l’être :
+
 (A) une personne actuellement ou anciennement employée à l’Unité des enquêtes spéciales,
+
 (B) un enquêteur actuel ou un ancien enquêteur,
+
 (C) une personne anciennement employée à l’unité des enquêtes spéciales ou un ancien enquêteur de l’unité, avant sa prorogation en application de la présente loi;
+
 d) la divulgation est faite au commissaire à l’information et à la protection de la vie privée.
 
 ### Idem
@@ -225,8 +279,11 @@ d) la divulgation est faite au commissaire à l’information et à la protectio
 ### Idem
 
 (2) Le directeur de l’UES se conforme aux directives que donne le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il doit être remis au ministre;
+
 c) le moment et la manière de le mettre à la disposition du public.
 
 ### Idem
@@ -236,10 +293,15 @@ c) le moment et la manière de le mettre à la disposition du public.
 ### Secret professionnel
 
 12 Le directeur de l’UES, tout enquêteur, toute personne employée à l’Unité des enquêtes spéciales et toute personne qui exerce des pouvoirs ou des fonctions sur les directives du directeur de l’UES sont tenus au secret à l’égard des renseignements qu’ils obtiennent dans le cadre de l’exercice des pouvoirs ou des fonctions que leur attribue la présente loi et ne doivent les communiquer à personne sauf, selon le cas :
+
 a) dans la mesure où l’exige l’application de la présente loi ou de la Loi de 2019 sur la sécurité communautaire et les services policiers, ou des règlements pris en vertu de l’une ou l’autre de ces lois;
+
 b) à leur avocat;
+
 c) dans la mesure où l’exige l’exécution de la loi;
+
 d) avec le consentement de la personne concernée par les renseignements, le cas échéant;
+
 e) si la divulgation est exigée par la loi.
 
 ### Immunité
@@ -263,22 +325,31 @@ e) si la divulgation est exigée par la loi.
 ### Pouvoir d’enquêter
 
 15 (1) Le directeur de l’UES peut faire mener une enquête sur tout incident impliquant l’un ou l’autre des événements suivants, si l’incident est susceptible d’être imputable à une conduite criminelle de la part d’un agent :
+
 1. Le décès d’une personne.
+
 2. Des blessures graves à une personne.
+
 3. La décharge d’une arme à feu contre une personne.
+
 4. L’agression sexuelle d’une personne, telle qu’elle est signalée par celle-ci.
 
 ### Application de l’article aux agents
 
 (2) Le présent article s’applique à l’égard d’un agent si, au moment de l’incident :
+
 a) soit l’agent était en service;
+
 b) soit l’agent était en période de repos mais, selon le cas :
+
 (i) il a participé à l’enquête sur une personne ou à la poursuite, à la détention ou à l’arrestation d’une personne ou a autrement exercé les pouvoirs d’un agent de police, d’un constable spécial ou d’un agent de la paix, selon le cas, que l’agent ait eu ou non l’intention d’exercer de tels pouvoirs ou qu’il se soit présenté ou non comme une personne pouvant exercer de tels pouvoirs,
+
 (ii) l’incident mettait en cause de l’équipement ou d’autres biens délivrés à l’agent relativement à ses fonctions.
 
 ### Interprétation : arme à feu
 
 (3) Pour l’application de la disposition 3 du paragraphe (1) :
+
 «arme à feu» S’entend au sens de l’article 2 du Code criminel (Canada). Sont toutefois exclues les armes à feu prescrites par le ministre.
 
 ### Ancien agent
@@ -304,11 +375,17 @@ b) soit l’agent était en période de repos mais, selon le cas :
 ### Avis d’incident
 
 16 (1) Une autorité désignée avise immédiatement le directeur de l’UES d’un incident visé au paragraphe 15 (1) mettant en cause un agent à l’égard duquel l’autorité est désignée dans l’une ou l’autre des circonstances suivantes :
+
 1. Dans le cas d’un incident visé à la disposition 1 ou 2 du paragraphe 15 (1), selon le cas :
+
 i. si l’agent a eu recours à la force contre la personne concernée,
+
 ii. si la personne concernée était détenue par l’agent ou sous sa garde,
+
 iii. si la personne concernée a été impliquée dans un accident de véhicule automobile mettant en cause l’agent ou une poursuite entreprise par l’agent,
+
 iv. dans toute autre circonstance dans laquelle l’autorité désignée croit, en se fondant sur des motifs raisonnables, que la conduite de l’agent a pu contribuer à l’incident.
+
 2. En cas de survenance d’un incident visé à la disposition 3 ou 4 du paragraphe 15 (1).
 
 ### Idem
@@ -338,7 +415,9 @@ iv. dans toute autre circonstance dans laquelle l’autorité désignée croit, 
 ### Enquêteur principal
 
 18 Sauf dans les circonstances prescrites, le directeur de l’UES est l’enquêteur principal dans l’enquête sur un incident ou une affaire menée en vertu de la présente loi et a préséance :
+
 a) sur tout service de police enquêtant sur l’incident ou l’affaire;
+
 b) sur tout autre organisme prescrit.
 
 ### Affectation d’enquêteurs
@@ -386,7 +465,9 @@ b) sur tout autre organisme prescrit.
 ### Notes sur l’incident
 
 23 (1) Si un enquêteur demande une copie des notes d’un agent témoin sur l’incident pour les besoins d’une enquête menée en vertu de l’article 15 :
+
 a) l’agent témoin fournit les notes originales à son autorité désignée dans les 24 heures qui suivent la demande;
+
 b) l’autorité désignée fournit une copie des notes à l’enquêteur dans les 24 heures qui suivent la demande ou dans le délai plus long que peut accorder l’enquêteur.
 
 ### Autres notes
@@ -414,7 +495,9 @@ b) l’autorité désignée fournit une copie des notes à l’enquêteur dans l
 ### Idem, lieu et délai
 
 (3) L’agent témoin rencontre l’enquêteur :
+
 a) dès que la première demande d’entrevue est présentée ou dans les 24 heures qui suivent, s’il existe des motifs valables de retarder l’entrevue;
+
 b) au moment ultérieur que peut préciser l’enquêteur.
 
 ### Idem
@@ -460,26 +543,35 @@ b) au moment ultérieur que peut préciser l’enquêteur.
 ### Confidentialité
 
 28 (1) Sauf dans la mesure permise ou requise par la présente loi, la Loi de 2019 sur la sécurité communautaire et les services policiers ou les règlements pris en vertu de l’une ou l’autre de ces lois, les personnes suivantes ne doivent pas divulguer à qui que ce soit des renseignements relatifs à une enquête ou une demande de renseignements préliminaires en cours menée ou effectuée en vertu de la présente loi ou à l’incident ou l’affaire faisant l’objet d’une enquête ou d’une demande de renseignements préliminaires :
+
 a) un membre d’un service de police;
+
 b) un agent;
+
 c) une autorité désignée.
 
 ### Exception : Loi de 2009 sur les services policiers interprovinciaux
 
 (2) Malgré le paragraphe (1), un agent de police nommé en vertu de la Loi de 2009 sur les services policiers interprovinciaux peut divulguer les renseignements à son commandant extraprovincial, et le chef de police du service de police dont un tel agent de police est membre peut divulguer les renseignements :
+
 a) au commandant extraprovincial de l’agent de police;
+
 b) si l’enquête ou la demande de renseignements préliminaires vise l’agent de police et que le chef de police n’est pas l’agent de nomination de l’agent de police, à l’agent de nomination.
 
 ### Divulgation autorisée dans certains cas
 
 (3) Le paragraphe (1) n’a pas pour effet d’empêcher ce qui suit :
+
 a) qu’un service de police divulgue à une personne le fait que le directeur de l’UES a été avisé d’un incident ou d’une affaire mettant en cause un agent qui est membre du service de police et qu’il a effectué une demande de renseignements préliminaires ou mène une enquête à ce sujet;
+
 b) toute divulgation autorisée par les règlements selon laquelle le directeur de l’UES a été avisé d’un incident ou d’une affaire mettant en cause un agent qui n’est pas membre d’un service de police et qu’il a effectué une demande de renseignements préliminaires ou mène une enquête à ce sujet.
 
 ### Déclarations publiques de l’UES
 
 29 Le directeur de l’UES peut faire des déclarations publiques en lien avec une enquête ou une demande de renseignements préliminaires en cours menée ou effectuée en vertu de la présente loi si les conditions suivantes sont réunies :
+
 a) la déclaration a pour but de préserver la confiance du public;
+
 b) les avantages de préserver la confiance du public l’emportent nettement sur le risque de compromettre l’intégrité de l’enquête ou de la demande de renseignements.
 
 ### Délégation
@@ -495,10 +587,15 @@ b) les avantages de préserver la confiance du public l’emportent nettement su
 ### Obligation de se conformer
 
 31 (1) Les personnes suivantes doivent se conformer, immédiatement ou à un autre moment prévu par la présente loi, à une directive ou demande raisonnable émanant du directeur de l’UES ou d’un enquêteur relativement à une enquête menée en vertu de la présente loi, à moins qu’il soit illégal ou matériellement impossible de le faire dans les circonstances :
+
 1. Un agent autre qu’un agent impliqué.
+
 2. Une autorité désignée ou une personne à qui des pouvoirs ou fonctions sont délégués en vertu de l’article 30.
+
 3. Les personnes, y compris des employés, sur lesquelles l’autorité désignée exerce un pouvoir.
+
 4. Un agent de nomination.
+
 5. Toute autre personne prescrite.
 
 ### Avis
@@ -508,7 +605,9 @@ b) les avantages de préserver la confiance du public l’emportent nettement su
 ### Infraction et peine
 
 (3) Quiconque ne se conforme pas au paragraphe (1) est coupable d’une infraction et passible, sur déclaration de culpabilité :
+
 a) dans le cas d’une première infraction, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines.
 
 ### Protection des lieux
@@ -522,9 +621,13 @@ b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonne
 ### Avis public en cas d’accusations contre un agent concernant un incident
 
 33 (1) Sous réserve des paragraphes (2) et (3), si une enquête menée en vertu de l’article 15 aboutit au dépôt d’accusations contre un agent, le directeur de l’UES en donne, dès que matériellement possible, un avis public où ne figurent que les renseignements suivants :
+
 1. Le nom de l’agent.
+
 2. Les accusations portées et la date de leur dépôt.
+
 3. Des renseignements au sujet de la première date de comparution de l’agent devant les tribunaux relativement aux accusations, si elle est connue.
+
 4. Les autres renseignements prescrits.
 
 ### Omission du nom d’un agent
@@ -538,12 +641,19 @@ b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonne
 ### Avis public en l’absence d’accusations contre un agent concernant un incident
 
 34 (1) Si une enquête menée en vertu de l’article 15 n’aboutit pas au dépôt d’accusations contre un agent, le directeur de l’UES publie sur le site Web de l’Unité des enquêtes spéciales un rapport où figurent les renseignements suivants :
+
 1. Les raisons pour lesquelles l’enquête avait été autorisée aux termes de l’article 15.
+
 2. Un récit détaillé des événements à l’origine de l’enquête.
+
 3. Un résumé du processus d’enquête dans lequel figure un calendrier des événements indiquant tout retard éventuel.
+
 4. Un résumé des preuves pertinentes examinées, sous réserve du paragraphe (2).
+
 5. Tous les éléments de preuve vidéo, audio ou photographiques pertinents, anonymisés dans la mesure du possible, sous réserve du paragraphe (2).
+
 6. Les raisons pour lesquelles aucune accusation n’a été portée contre l’agent.
+
 7. Les autres renseignements prescrits.
 
 ### Omission et motifs
@@ -553,25 +663,37 @@ b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonne
 ### Renseignements exclus
 
 (3) Le directeur de l’UES veille à ce que les renseignements suivants soient exclus du rapport :
+
 1. Le nom d’un agent impliqué, d’un agent témoin, d’un témoin civil ou d’une personne concernée, ainsi que tout renseignement permettant d’identifier ces personnes.
+
 2. Des renseignements qui pourraient amener à ce que l’identité d’une personne ayant signalé avoir été agressée sexuellement soit révélée dans le contexte de l’agression sexuelle.
+
 3. Des renseignements qui, de l’avis du directeur de l’UES, peuvent présenter un risque de préjudice grave pour une personne.
+
 4. Des renseignements qui divulguent des techniques ou méthodes d’enquête.
+
 5. Des renseignements dont la diffusion est interdite ou restreinte par la loi.
+
 6. Les autres renseignements prescrits.
 
 ### Copies du rapport
 
 (4) Le directeur de l’UES remet une copie du rapport à chacune des personnes suivantes :
+
 1. La personne concernée ou son plus proche parent, si la personne est décédée.
+
 2. Chaque agent impliqué dans l’enquête.
+
 3. Chaque autorité désignée d’un agent impliqué ou d’un agent témoin dans l’enquête.
+
 4. Le ministre.
 
 ### Idem : personne mineure ou incapable
 
 (5) Si la personne visée à la disposition 1 du paragraphe (4) est mineure ou incapable au sens de la Loi de 1992 sur la prise de décisions au nom d’autrui, la copie est remise, selon le cas :
+
 a) au parent ou au tuteur de la personne, dans le cas d’un mineur;
+
 b) à la personne incapable et à son mandataire spécial au sens de cette loi, dans le cas d’une personne incapable qui n’est pas mineure.
 
 ### Publication interdite
@@ -581,7 +703,9 @@ b) à la personne incapable et à son mandataire spécial au sens de cette loi, 
 ### Délai de l’enquête
 
 35 (1) Au plus tard 120 jours après l’ouverture d’une enquête menée en vertu de la présente loi sur la conduite d’un agent, le directeur de l’UES s’efforce de faire en sorte :
+
 a) que l’enquête soit terminée;
+
 b) qu’un avis public soit donné en application du paragraphe 33 (1) ou 34 (1).
 
 ### Rapport d’étape
@@ -615,7 +739,9 @@ b) qu’un avis public soit donné en application du paragraphe 33 (1) ou 34 (1)
 ### Renvoi au chef de police d’une conduite criminelle éventuelle de la part d’un agent
 
 36 (1) Si, pendant une enquête menée en vertu de la présente partie, le directeur de l’UES a connaissance d’une affaire qui ne constitue pas un incident susceptible de donner lieu à une enquête en vertu de l’article 15, mais qui pourrait néanmoins constituer une conduite criminelle de la part d’un agent ou une infraction aux termes de l’article 31 de la présente loi commise par un agent, le directeur de l’UES peut renvoyer l’affaire à la personne suivante :
+
 1. Si l’agent est un agent de police, au chef de police d’un service de police non concerné.
+
 2. Dans les autres cas, à n’importe quel chef de police.
 
 ### Application de l’article aux agents
@@ -641,38 +767,59 @@ b) qu’un avis public soit donné en application du paragraphe 33 (1) ou 34 (1)
 ### Lieutenant-gouverneur en conseil
 
 38 (1) Le lieutenant-gouverneur en conseil peut, par règlement et sous réserve de l’article 39, traiter de toute question nécessaire ou opportune pour réaliser efficacement l’objet de la présente loi, notamment :
+
 a) traiter de tout ce que la présente loi mentionne comme pouvant ou devant être fait ou prescrit par règlement autre qu’un règlement du ministre;
+
 b) permettre, exiger ou prévoir autrement la divulgation de renseignements concernant une enquête ou une demande de renseignements préliminaires en cours menée ou effectuée en vertu de la présente loi ou l’incident ou l’affaire faisant l’objet d’une enquête ou d’une demande de renseignements préliminaires, pour l’application de l’article 28;
+
 c) régir les questions transitoires liées à l’édiction de la présente loi.
 
 ### Ministre
 
 (2) Le ministre peut, par règlement :
+
 a) traiter de tout ce que la présente loi mentionne comme pouvant ou devant être prescrit par le ministre ou fait par règlement pris par le ministre;
+
 b) régir les politiques et procédures de fonctionnement de l’Unité des enquêtes spéciales, notamment exiger que ces politiques et procédures soient mises à la disposition du public;
+
 c) régir les exigences et les qualités requises pour la nomination à titre d’enquêteur en vertu de l’article 6, y compris en ce qui concerne la formation, l’évaluation et l’accréditation;
+
 d) établir des catégories d’enquêteurs nommés en vertu de l’article 6 et fixer les exigences et les qualités requises pour chaque catégorie;
+
 e) régir les demandes de renseignements préliminaires effectuées par le directeur de l’UES en vertu de l’article 17, notamment exiger du directeur de l’UES qu’il fasse rapport, de la manière précisée, à une ou plusieurs personnes précisées au sujet de la décision de ne pas mener une enquête et régir la publication d’un tel rapport;
+
 f) régir l’affectation d’enquêteurs en application de l’article 19 aux demandes de renseignements préliminaires et aux enquêtes effectuées ou menées en vertu de la présente loi, y compris :
+
 (i) d’une part, prévoir une limite au nombre ou à la proportion d’anciens agents qui peuvent être affectés à titre d’enquêteurs, ou à titre de catégorie d’enquêteurs prescrite en vertu de l’alinéa d), relativement à une demande de renseignements préliminaires ou à une enquête, ou à une catégorie de demandes de renseignements préliminaires ou d’enquêtes,
+
 (ii) d’autre part, restreindre l’affectation de certains enquêteurs en vue de la participation à des demandes de renseignements préliminaires ou à des enquêtes se rapportant aux agents ou catégories d’agents qui ne sont pas membres d’un service de police, et exiger que de tels enquêteurs ne participent pas à de telles demandes de renseignements préliminaires ou enquêtes.
 
 ### Consultation publique préalable à la prise de règlements par le lieutenant-gouverneur en conseil
 
 39 (1) Le lieutenant-gouverneur en conseil ne doit prendre un règlement en vertu du paragraphe 38 (1) que si les conditions suivantes sont réunies :
+
 a) le ministre a publié un avis du projet de règlement sur un site Web du gouvernement de l’Ontario et a donné l’avis par tout autre moyen qu’il juge approprié;
+
 b) l’avis est conforme aux exigences du présent article;
+
 c) le délai précisé dans l’avis qui est accordé aux membres du public pour exercer le droit visé à l’alinéa (2) b) a expiré;
+
 d) le ministre a examiné les commentaires et les observations que lui ont présentés les membres du public au sujet du projet de règlement conformément à l’alinéa (2) b);
+
 e) le ministre a fait rapport au lieutenant-gouverneur en conseil des éventuelles modifications qu’il estime approprié d’apporter au projet de règlement.
 
 ### Contenu de l’avis
 
 (2) L’avis visé à l’alinéa (1) a) comporte les renseignements suivants :
+
 a) la description du projet de règlement;
+
 b) l’indication du délai accordé aux membres du public pour présenter au ministre des commentaires écrits sur le projet de règlement, ainsi que le mode de présentation des commentaires;
+
 c) l’indication de l’endroit et du moment où les membres du public peuvent examiner les renseignements écrits concernant le projet de règlement;
+
 d) la date de publication de l’avis;
+
 e) les autres renseignements que le ministre estime appropriés.
 
 ### Délai de présentation des commentaires
@@ -682,8 +829,11 @@ e) les autres renseignements que le ministre estime appropriés.
 ### Délai raccourci
 
 (4) Le ministre peut raccourcir un délai s’il est d’avis que, selon le cas :
+
 a) l’urgence de la situation l’exige;
+
 b) le projet de règlement précise l’objet ou l’application de la présente loi ou des règlements;
+
 c) le projet de règlement a une importance mineure ou est de nature technique.
 
 ### Discrétion relative à la prise de règlements
@@ -697,7 +847,9 @@ c) le projet de règlement a une importance mineure ou est de nature technique.
 ### Idem
 
 (7) Si le ministre décide que le présent article ne devrait pas s’appliquer au pouvoir qu’a le lieutenant-gouverneur en conseil de prendre un règlement en vertu du paragraphe 38 (1) :
+
 a) d’une part, le présent article ne s’applique pas au pouvoir qu’a le lieutenant-gouverneur en conseil de prendre le règlement;
+
 b) d’autre part, le ministre donne avis de sa décision au public dès que raisonnablement possible après l’avoir prise.
 
 ### Publication de l’avis
@@ -719,7 +871,11 @@ b) d’autre part, le ministre donne avis de sa décision au public dès que rai
 ### Délai de présentation de la requête
 
 (12) Nul ne doit présenter une requête en vertu du paragraphe (11) à l’égard d’un règlement plus de 21 jours après celui où le ministre publie un avis à l’égard du règlement sur un site Web du gouvernement de l’Ontario.
+
 40 Omis (modification de la présente loi).
+
 41 à 43 Omis (modification ou abrogation d’autres textes législatifs).
+
 44 Omis (entrée en vigueur de dispositions de la présente loi).
+
 45 Omis (édiction du titre abrégé de la présente loi).

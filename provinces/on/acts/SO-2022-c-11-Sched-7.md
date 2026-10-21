@@ -6,20 +6,22 @@ language: en
 type: act
 document_date: "2022-04-14"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/22s11"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Supporting Retention in Public Services Act, 2022
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/22s11) before relying on it.
 
 S.O. 2022, c. 11, Sched. 7
 
 ### Interpretation
 
 1 In this Act,
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means regulations made under this Act. (“règlements”)
 
 ### Funding
@@ -49,7 +51,9 @@ S.O. 2022, c. 11, Sched. 7
 ### Rules re: labour matters
 
 5 (1) Despite any other Act and despite any regulation, order, policy, arrangement or agreement, including a collective agreement, the following rules apply with respect to prescribed compensation enhancement programs:
+
 1. An agreement between an employer and a trade union or a bargaining agent regarding the payment of compensation enhancements is not required for the employer to make payments under the compensation enhancement program to eligible employees.
+
 2. No employer, tribunal, arbitrator, arbitration board, officer or court may expand eligibility for or require the payment of a compensation enhancement under the compensation enhancement program to an employee who is not eligible under the terms of the program.
 
 ### Complaints
@@ -59,8 +63,11 @@ S.O. 2022, c. 11, Sched. 7
 ### P ay Equity Act — permanent compensation enhancement programs
 
 6 (1) This section applies if,
+
 (a) funding is provided under a prescribed compensation enhancement program that provides for a permanent compensation enhancement for employees;
+
 (b) the employer of the employees is an employer to which the Pay Equity Act applies; and
+
 (c) a pay equity gap exists in connection with job classes or positions of the employer’s employees.
 
 ### Same
@@ -82,8 +89,11 @@ S.O. 2022, c. 11, Sched. 7
 ### No cause of action re: enactment of Act, etc.
 
 8 (1) No cause of action arises against the Crown or any of the Crown’s current or former ministers, agents, appointees or employees,
+
 (a) as a direct or indirect result of the enactment or amendment of any provision of this Act;
+
 (b) as a direct or indirect result of the making, amending or revoking of any provision of a regulation or of a compensation enhancement program incorporated by reference in a regulation; or
+
 (c) as a direct or indirect result of anything done or not done in order to comply with this Act or the regulations.
 
 ### Proceedings barred
@@ -117,5 +127,7 @@ S.O. 2022, c. 11, Sched. 7
 ### Temporary or permanent
 
 (4) A regulation shall specify whether the program provides for a temporary compensation enhancement or a permanent compensation enhancement.
+
 12 Omitted (provides for coming into force of provisions of this Act).
+
 13 Omitted (enacts short title of this Act).

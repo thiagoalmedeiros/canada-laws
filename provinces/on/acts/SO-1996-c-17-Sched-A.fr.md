@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96a17a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # AgriCorp (Loi de 1996 sur)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96a17a) before relying on it.
 
 L.O. 1996, chap. 17, annexe A
 
@@ -35,9 +35,13 @@ L.O. 1996, chap. 17, annexe A
 ### Objets
 
 2 Les objets d’AgriCorp sont les suivants :
+
 a) gérer les régimes d’assurance-récolte visés par la Loi de 1996 sur l’assurance des produits agricoles et exercer les fonctions qui lui sont conférées par cette loi;
+
 b) exercer toutes les autres fonctions qui lui sont conférées par d’autres lois de l’Ontario, par des décrets du lieutenant-gouverneur en conseil ou du gouverneur en conseil ou par des accords conclus entre :
+
 (i) d’une part, le gouvernement de l’Ontario ou l’un de ses organismes,
+
 (ii) et d’autre part, le gouvernement du Canada, l’un de ses organismes, AgriCorp ou une personne, ou une combinaison quelconque de ceux-ci.
 
 ### Capacité et pouvoirs
@@ -47,8 +51,11 @@ b) exercer toutes les autres fonctions qui lui sont conférées par d’autres l
 ### Pouvoirs supplémentaires
 
 (2) AgriCorp peut :
+
 a) fixer et percevoir les droits et frais de gestion liés à l’exercice de ses pouvoirs ou de ses fonctions;
+
 b) fixer et percevoir les amendes en cas de paiement en retard des droits et des frais de gestion visés à l’alinéa a);
+
 c) aux conditions qu’elle juge opportunes, prêter des sommes entre les fonds qu’elle gère, si elle en gère plus d’un.
 
 ### Emprunts, garanties
@@ -58,24 +65,35 @@ c) aux conditions qu’elle juge opportunes, prêter des sommes entre les fonds 
 ### Placements
 
 (4) AgriCorp ne peut placer les sommes d’argent en sa possession que dans :
+
 a) des billets, des obligations, des débentures ou autres titres de créance émis ou garantis, en capital et intérêts, par :
+
 (i) le Canada, l’Ontario ou une autre province canadienne,
+
 (ii) une municipalité canadienne,
+
 (iii) un organisme du gouvernement du Canada ou d’une province canadienne,
+
 (iv) une banque ou une institution financière canadienne qui fait l’objet de contrôles et d’examens par un organisme gouvernemental du territoire dans lequel la banque ou l’institution financière exerce ses activités;
+
 b) des récépissés de dépôt, des billets de dépôt, des certificats de dépôt, des acceptations ou autres titres de placement émis, garantis ou endossés par une institution financière autorisée à exercer ses activités au Canada;
+
 c) d’autres valeurs mobilières, contrats ou accords financiers, placements, titres de créance, contrats à terme sur marchandises ou contrats à terme d’échange de devises étrangères qu’autorise le ministre des Finances ou qui font partie d’une catégorie qu’autorise ce même ministre.
 
 ### Personnes morales, accords
 
 (5) Sauf avec l’approbation du ministre de l’Agriculture, de l’Alimentation et des Affaires rurales, un membre d’AgriCorp ne peut pas, seul ou avec d’autres personnes, faire ce qui suit :
+
 a) créer des personnes morales qui ont des objets quelconques d’AgriCorp;
+
 b) conclure des accords avec le gouvernement du Canada ou l’un de ses organismes pour favoriser l’essor de l’agriculture ou de l’alimentation.
 
 ### Accords
 
 (6) AgriCorp peut exercer les pouvoirs et fonctions qui lui sont conférés par des accords conclus entre :
+
 a) d’une part, le gouvernement de l’Ontario ou l’un de ses organismes;
+
 b) et d’autre part, le gouvernement du Canada, l’un de ses organismes, AgriCorp ou une personne, ou une combinaison quelconque de ceux-ci.
 
 ### Aucun statut de règlement
@@ -157,7 +175,9 @@ b) et d’autre part, le gouvernement du Canada, l’un de ses organismes, AgriC
 ### Paiements
 
 11 (1) Le ministre des Finances peut :
+
 a) soit rembourser à AgriCorp, sur le Trésor, les paiements qu’elle effectue aux termes d’une garantie qu’elle a donnée;
+
 b) soit consentir des prêts sur le Trésor à AgriCorp.
 
 ### Garanties
@@ -167,9 +187,13 @@ b) soit consentir des prêts sur le Trésor à AgriCorp.
 ### Fonds
 
 12 Sous réserve du paragraphe 3 (4), AgriCorp conserve tous les fonds qu’elle gère dans l’une des institutions financières suivantes :
+
 a) une banque ou une banque étrangère autorisée au sens de l’article 2 de la Loi sur les banques (Canada);
+
 b) une société inscrite en application de la Loi sur les sociétés de prêt et de fiducie ;
+
 c) une caisse au sens de la Loi de 2020 sur les caisses populaires et les credit unions ;
+
 d) une association de détail au sens de la Loi sur les associations coopératives de crédit (Canada).
 
 ### Vérificateur général
@@ -183,7 +207,9 @@ d) une association de détail au sens de la Loi sur les associations coopérativ
 ### Idem
 
 (2) AgriCorp se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -201,9 +227,13 @@ b) le moment où il faut le mettre à la disposition du public et la manière de
 ### Règlements pris par Agricorp
 
 15 Sous réserve de l’approbation du ministre de l’Agriculture, de l’Alimentation et des Affaires rurales, AgriCorp peut, par règlement, relativement aux fonctions visées à l’alinéa (2) b) :
+
 a) fixer et imposer les taxes ou redevances, à l’exception des droits et des frais de gestion visés au paragraphe 3 (2), que doivent verser des catégories de personnes à AgriCorp ou à une personne morale visée au paragraphe 16 (1) ou 3 (5);
+
 b) préciser les conditions de paiement des taxes ou redevances;
+
 c) prévoir la perception des taxes ou redevances par AgriCorp, la personne morale à laquelle ces taxes et redevances doivent être versées ou une catégorie de personnes;
+
 d) exiger de la personne qui recouvre les taxes ou redevances qu’elle rende compte de celles-ci à AgriCorp ou à la personne morale à qui elles sont payables.
 
 ### Règlements créant des personnes morales
@@ -229,5 +259,7 @@ d) exiger de la personne qui recouvre les taxes ou redevances qu’elle rende co
 ### Mention du ministre
 
 (4) Une mention du ministre dans le programme ou les contrats est réputée une mention d’AgriCorp.
+
 18 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi). 1996, chap. 17, annexe A, art.18.
+
 19 Omis (édicte le titre abrégé de la présente loi).

@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2022-11-28"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21o04"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # tribunal ontarien de l'aménagement du territoire (Loi de 2021 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21o04) before relying on it.
 
 L.O. 2021, chap. 4, annexe 6
 
@@ -21,11 +21,17 @@ L.O. 2021, chap. 4, annexe 6
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «date de transition» Le jour de l’entrée en vigueur de l’article 2. («transition date»)
+
 «ministre» Le procureur général ou l’autre membre du Conseil exécutif à qui l’application de la présente loi peut être assignée ou transférée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «règles» Les règles établies par le Tribunal en vertu de l’article 13. («rules»)
+
 «Tribunal» S’entend du Tribunal ontarien de l’aménagement du territoire créé en application de l’article 2. («Tribunal»)
+
 «tribunal décisionnel prédécesseur» S’entend, selon le cas, de la commission de négociation, de la Commission des biens culturels, du Tribunal de l’environnement, du Tribunal d’appel de l’aménagement local ou du Tribunal des mines et des terres, avant leur fusion aux termes de l’article 2. («predecessor adjudicative tribunal»)
 
 ## Partie II Tribunal de l’aménagement du territoire issu de la fusion
@@ -55,7 +61,9 @@ L.O. 2021, chap. 4, annexe 6
 ### Fonctions du président
 
 (5) Le président détient un pouvoir général de supervision et de direction sur les activités du Tribunal et fait ce qui suit :
+
 a) il organise ses séances;
+
 b) il affecte ses membres à la présidence des instances selon ce que les circonstances exigent, en veillant à ce que, si plus de deux membres sont affectés à une instance donnée, seul un nombre impair de membres y soit affecté.
 
 ### Mandat
@@ -122,13 +130,17 @@ b) il affecte ses membres à la présidence des instances selon ce que les circo
 ### Redressement
 
 (4) Sauf indication contraire d’une autre loi, le Tribunal peut, selon ce qu’il estime approprié :
+
 a) rendre une ordonnance accordant tout ou partie du redressement demandé;
+
 b) rendre une ordonnance accordant un redressement qui s’ajoute à celui qui est demandé ou qui le remplace.
 
 ### Prorogation du délai
 
 (5) Si une de ses ordonnances ou décisions exige l’accomplissement de quoi que ce soit dans un délai imparti, le Tribunal peut proroger ce délai :
+
 a) soit sur préavis et en tenant une audience;
+
 b) soit sans la remise d’un préavis ou la tenue d’une audience, s’il l’estime nécessaire.
 
 ### Pouvoir d’ordonner l’entrée et l’inspection
@@ -166,8 +178,11 @@ b) soit sans la remise d’un préavis ou la tenue d’une audience, s’il l’
 ### Droits
 
 11 (1) Le Tribunal peut, sous réserve de l’approbation du ministre, fixer et exiger des droits pour ce qui suit :
+
 a) les instances;
+
 b) la fourniture de copies de formulaires, avis ou autres documents;
+
 c) les autres services qu’il fournit.
 
 ### Catégories
@@ -205,11 +220,17 @@ c) les autres services qu’il fournit.
 ### Règles
 
 13 (1) Le Tribunal peut établir des règles régissant sa pratique et sa procédure, notamment des règles qui, selon le cas :
+
 a) prévoient et exigent le recours à des audiences ou à la pratique et la procédure qui constituent des solutions de rechange à la procédure juridictionnelle ou accusatoire traditionnelle;
+
 b) précisent les circonstances dans lesquelles la participation à la médiation ou à d’autres processus de règlement des différends par les parties à une instance est obligatoire;
+
 c) prévoient et exigent la remise d’avis d’une manière particulière;
+
 d) autorisent le Tribunal à réunir deux instances ou plus, en totalité ou en partie, ou à les instruire simultanément;
+
 e) autorisent le Tribunal à nommer, parmi une catégorie de parties à l’instance qui, à son avis, ont un intérêt commun, une personne pour représenter cette catégorie;
+
 f) régissent le prononcé des ordonnances visées à l’article 10 et l’exercice des pouvoirs que confèrent ces ordonnances.
 
 ### Portée
@@ -231,14 +252,23 @@ f) régissent le prononcé des ordonnances visées à l’article 10 et l’exer
 ### Conférences de gestion de causes
 
 15 Le Tribunal peut enjoindre aux parties à une instance de participer à une conférence de gestion de la cause avant une audience aux fins suivantes :
+
 1. Identifier d’autres parties à l’instance.
+
 2. Préciser, définir ou restreindre les questions en litige soulevées dans l’instance.
+
 3. Préciser les faits ou les éléments de preuve sur lesquels les parties peuvent s’entendre.
+
 4. Donner des directives quant à la divulgation de renseignements.
+
 5. Discuter des possibilités de régler une ou plusieurs questions en litige dans l’instance, notamment le recours éventuel à la médiation ou à d’autres processus de règlement des différends.
+
 6. Fixer les délais dans lesquels des mesures doivent être prises ou entamées dans le cadre de l’instance.
+
 7. Préciser la durée et le calendrier d’une audience éventuelle et le mode de tenue de l’audience.
+
 8. Déterminer l’ordre de présentation des observations.
+
 9. Régir toute autre question susceptible de faciliter un règlement équitable, juste et expéditif des questions en litige.
 
 ### Règlement extrajudiciaire des différends
@@ -252,11 +282,17 @@ f) régissent le prononcé des ordonnances visées à l’article 10 et l’exer
 ### Témoins et éléments de preuve
 
 18 (1) À n’importe quelle étape d’une instance, le Tribunal peut :
+
 a) interroger l’une ou l’autre des personnes suivantes :
+
 (i) une partie à l’instance,
+
 (ii) un témoin dans l’instance,
+
 (iii) une personne qui lui a présenté des observations à l’égard de l’instance, autre qu’une partie;
+
 b) exiger qu’une partie à l’instance produise des éléments de preuve pour qu’il les examine ou produise un témoin pour qu’il l’interroge;
+
 c) exiger qu’une personne visée au sous-alinéa a) (iii) produise des éléments de preuve pour qu’il les examine.
 
 ### Divulgation aux parties
@@ -266,16 +302,23 @@ c) exiger qu’une personne visée au sous-alinéa a) (iii) produise des éléme
 ### Limites applicables à l’interrogatoire
 
 (3) Le Tribunal peut limiter l’interrogatoire ou le contre-interrogatoire d’un témoin :
+
 a) s’il est convaincu que tout ce qui touche aux questions en litige dans l’instance a été divulgué de manière complète ou impartiale;
+
 b) dans d’autres circonstances qu’il estime équitables et appropriées.
 
 ### Rejet
 
 19 (1) Sous réserve du paragraphe (4), le Tribunal peut, sur motion d’une partie ou de sa propre initiative, rejeter une instance sans tenir d’audience dans l’un ou l’autre des cas suivants :
+
 a) la partie qui a introduit l’instance n’a pas acquitté les droits dont le paiement est exigé aux termes de la présente loi;
+
 b) la partie qui a introduit l’instance n’a pas fourni au Tribunal les renseignements supplémentaires qu’il a demandés dans le délai qu’il a précisé;
+
 c) le Tribunal est d’avis que l’instance n’a aucune chance raisonnable de succès;
+
 d) dans toute circonstance indiquée au paragraphe 4.6 (1) de la Loi sur l’exercice des compétences légales ;
+
 e) dans toute circonstance prévue par une autre loi.
 
 ### Avis
@@ -303,11 +346,17 @@ e) dans toute circonstance prévue par une autre loi.
 ### Jonction d’audiences
 
 21 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «audience commune» Audience tenue par le Tribunal en application de l’alinéa (4) a). («consolidated hearing»)
+
 «entreprise» Entreprise ou activité, ou projet, plan ou programme liés à une entreprise ou à une activité. («undertaking»)
+
 «municipalité» S’entend en outre d’un conseil, d’une commission ou d’un autre office local qui exerce des pouvoirs à l’égard des affaires ou des fins municipales, y compris les fins scolaires, dans un territoire non érigé en municipalité. («municipality»)
+
 «personne» S’entend en outre d’une municipalité, de la Couronne, d’un organisme de la Couronne au sens de la Loi sur les organismes de la Couronne, d’un organisme public, d’une société en nom collectif, et d’une entreprise commune ou association sans personnalité morale. («person»)
+
 «promoteur» Quiconque exploite ou se propose d’exploiter une entreprise ou est propriétaire ou assume la responsabilité, la gestion ou le contrôle d’une entreprise. («proponent»)
+
 «tribunal administratif» S’entend d’une ou de plusieurs personnes, constituées en personnes morales ou non, et décrites de quelque façon que ce soit, auxquelles une loi confère le pouvoir, le droit ou le devoir de tenir une audience. («administrative tribunal»)
 
 ### Champ d’application
@@ -321,7 +370,9 @@ e) dans toute circonstance prévue par une autre loi.
 ### Effet de l’avis
 
 (4) Sauf disposition contraire des règlements, si un avis est donné au Tribunal à l’égard d’une entreprise :
+
 a) toutes les questions relatives à l’entreprise qui pourraient être examinées à une audience à l’égard de laquelle s’applique le présent article sont instruites par le Tribunal;
+
 b) aucune autre personne ni aucun autre organisme ne doit tenir d’audience à l’égard d’une question visée à l’alinéa a).
 
 ### Décision
@@ -389,23 +440,37 @@ b) aucune autre personne ni aucun autre organisme ne doit tenir d’audience à 
 ### Lieutenant-gouverneur en conseil
 
 29 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) régir les circonstances, périodes et fins pour l’application du paragraphe 4 (3);
+
 b) pour l’application de l’article 21 :
+
 (i) prescrire des lois pour l’application du paragraphe 21 (2),
+
 (ii) soustraire des entreprises ou des audiences à l’application de l’article 21, et prescrire les conditions qui s’appliquent à cette exemption,
+
 (iii) régir l’avis visé au paragraphe 21 (3), y compris prescrire sa forme et sa teneur,
+
 (iv) prévoir des exemptions à l’application du paragraphe 21 (4) et les régir,
+
 (v) préciser les parties à une audience commune,
+
 (vi) régir la pratique et la procédure du Tribunal à observer dans le cadre d’une audience commune.
 
 ### Ministre
 
 (2) Le ministre peut, par règlement :
+
 a) régir la pratique et la procédure du Tribunal, sauf en ce qui concerne une audience commune visée à l’article 21;
+
 b) régir les questions transitoires qui peuvent découler de l’édiction de la présente loi, de l’abrogation ou de la modification d’une loi ou de l’abrogation d’un règlement par la présente loi à l’égard des instances devant le Tribunal, notamment en ce qui concerne, selon le cas :
+
 (i) les instances dont a été saisi un tribunal décisionnel prédécesseur, qui ont été introduites mais non définitivement réglées avant la date de transition,
+
 (ii) les questions renvoyées pour la tenue d’une audience en application de l’article 7 de la Loi sur l’expropriation avant la date de transition,
+
 (iii) les instances introduites devant le Tribunal à la date de transition ou par la suite;
+
 c) prévoir l’application continue de toute disposition d’une loi abrogée ou modifiée ou de toute disposition d’un règlement abrogée par la présente loi, dans sa version immédiatement antérieure à la date de transition, avec les adaptations que précisent les règlements.
 
 ### Incompatibilité
@@ -427,4 +492,5 @@ c) prévoir l’application continue de toute disposition d’une loi abrogée o
 ### Partie VI (OMISE)
 
 100 Omis (entrée en vigueur de dispositions de la présente loi).
+
 101 Omis (édiction du titre abrégé de la présente loi).

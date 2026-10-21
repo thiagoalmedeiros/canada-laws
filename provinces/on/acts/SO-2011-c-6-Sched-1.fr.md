@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11h06"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # services de logement (Loi de 2011 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/11h06) before relying on it.
 
 L.O. 2011, chap. 6, annexe 1
 
@@ -21,29 +21,49 @@ L.O. 2011, chap. 6, annexe 1
 ### Objet de la Loi
 
 1 La présente loi a pour objet ce qui suit :
+
 a) prévoir la planification et la prestation, à l’échelle locale, de services liés au logement et à l’itinérance, cette planification et cette prestation devant s’effectuer sous la surveillance et la direction générales de la Province;
+
 b) offrir de la souplesse aux gestionnaires de services et aux fournisseurs de logements tout en maintenant les exigences relatives aux programmes de logement antérieurs à la présente loi et aux ensembles domiciliaires qu’ils visent.
 
 ### Définitions
 
 2 Les définitions qui suivent s’appliquent à la présente loi.
+
 «accord d’exploitation antérieur à la réforme» Accord, protocole d’entente, lettre d’engagement, ou combinaison de ceux-ci, oral ou écrit ou en partie oral et en partie écrit, conclu avant le 13 décembre 2000 entre un fournisseur de logements et la Couronne du chef de l’Ontario, la Couronne du chef du Canada, le ministre, le ministère du ministre, un ministre ou un ministère de la Couronne du chef du Canada, la Société ontarienne d’hypothèques et de logement, la Société canadienne d’hypothèques et de logement, une commission locale de logement, un mandataire de la Couronne du chef de l’Ontario ou de la Couronne du chef du Canada, ou une combinaison de ceux-ci, en vertu duquel le fournisseur de logements reçoit un financement à l’égard d’un ensemble domiciliaire visé par un programme de logement. S’entend également de toute modification apportée à compter du 13 décembre 2000. («pre-reform operating agreement»)
+
 «aire de service» Relativement à un gestionnaire de services, s’entend de la zone géographique précisée en application du paragraphe 11 (2) comme étant son aire de service. («service area»)
+
 «ancienne loi» La Loi de 2000 sur la réforme du logement social, abrogée par l’article 184. («former Act»)
+
 «conseil d’administration de district des services sociaux» Conseil créé en vertu de la Loi sur les conseils d’administration de district des services sociaux. («district social services administration board»)
+
 «conseil gestionnaire de services» Gestionnaire de services qui est un conseil d’administration de district des services sociaux. («dssab service manager»)
+
 «ensemble domiciliaire» S’entend de la totalité ou d’une partie de locaux d’habitation, y compris les installations servant à des fins accessoires, qui sont situés dans un ou plusieurs bâtiments utilisés en tout ou en partie à des fins résidentielles. («housing project»)
+
 «ensemble domiciliaire désigné» Relativement à un gestionnaire de services, s’entend d’un ensemble domiciliaire désigné dans les règlements pour l’application du paragraphe 68 (1) comme ensemble domiciliaire à l’égard duquel le gestionnaire de services est tenu d’administrer un programme de logement transféré, sous réserve du paragraphe 68 (6). («designated housing project»)
+
 «fournisseur de logements» Personne qui exploite un ensemble domiciliaire. («housing provider»)
+
 «gestionnaire de services» Gestionnaire de services désigné en application du paragraphe 11 (1). («service manager»)
+
 «logement» Relativement à un ensemble domiciliaire, s’entend d’un logement destiné à y être utilisé à des fins résidentielles. («unit»)
+
 «ménage» S’entend notamment d’un particulier qui vit seul. («household»)
+
 «ministre» Le ministre des Affaires municipales et du Logement ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «municipalité gestionnaire de services» Gestionnaire de services qui est une municipalité. («municipal service manager»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «programme de logement transféré» Relativement à un gestionnaire de services, s’entend d’un programme de logement dont la responsabilité a été transférée au gestionnaire de services en application de l’article 10 de l’ancienne loi et qui est prescrit pour l’application de la présente définition. («transferred housing program»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «renseignements personnels» S’entend au sens de la Loi sur l’accès à l’information et la protection de la vie privée. («personal information»)
+
 «société locale de logement» S’entend au sens de l’article 24. («local housing corporation») 2011, chap. 6, annexe 1, art. 2
 
 ### Interprétation : ensemble domiciliaire visé par un programme
@@ -57,17 +77,29 @@ b) offrir de la souplesse aux gestionnaires de services et aux fournisseurs de l
 ### Intérêt provincial
 
 4 (1) Pour l’application des articles 5 et 6, constitue une question d’intérêt provincial la mise en place d’un système de services liés au logement et à l’itinérance qui, à la fois :
+
 a) vise à produire des résultats positifs pour les particuliers et les familles;
+
 b) répond aux besoins des particuliers et des familles en matière de logement afin de mieux répondre aux autres défis auxquels ils font face;
+
 c) prévoit un rôle pour les personnes morales sans but lucratif et les coopératives de logement sans but lucratif;
+
 d) prévoit un rôle pour le marché privé dans la satisfaction des besoins en matière de logement;
+
 e) prévoit des partenariats entre des gouvernements et des intervenants communautaires;
+
 f) traite les particuliers et les familles avec respect et dignité;
+
 g) est coordonné avec d’autres services communautaires;
+
 h) tient compte des circonstances locales;
+
 i) permet différentes possibilités de logement afin de répondre à un large éventail de besoins;
+
 j) veille à ce qu’il y ait responsabilisation adéquate à l’égard du financement public;
+
 k) favorise la prospérité économique;
+
 l) est administré de façon à promouvoir la durabilité de l’environnement et la conservation de l’énergie.
 
 ### Idem
@@ -99,7 +131,9 @@ l) est administré de façon à promouvoir la durabilité de l’environnement e
 ### Publication et avis
 
 (3) Lorsqu’il fait une déclaration de principes, le ministre :
+
 a) d’une part, la publie dans la Gazette de l’Ontario ;
+
 b) d’autre part, en donne l’avis qu’il juge approprié à chaque gestionnaire de services.
 
 ### Loi de 2006 sur la législation
@@ -123,16 +157,23 @@ b) d’autre part, en donne l’avis qu’il juge approprié à chaque gestionna
 ### Contenu du plan
 
 (2) Le plan contient ce qui suit :
+
 a) une évaluation des besoins actuels et futurs en matière de logement dans l’aire de service du gestionnaire de services;
+
 b) les objectifs et cibles relatifs aux besoins en matière de logement;
+
 c) une description des mesures proposées pour atteindre les objectifs et cibles;
+
 d) une description de la façon de mesurer les progrès accomplis pour atteindre les objectifs et cibles;
+
 e) les autres éléments prescrits.
 
 ### Exigences relatives à l’intérêt provincial et aux déclarations de principes
 
 (3) Le plan satisfait aux exigences suivantes :
+
 a) il traite des questions d’intérêt provincial visées à l’article 4, y compris chaque aspect visé à un alinéa du paragraphe 4 (1);
+
 b) il est compatible avec les déclarations de principes faites en vertu de l’article 5.
 
 ### Exigences prescrites
@@ -192,8 +233,11 @@ b) il est compatible avec les déclarations de principes faites en vertu de l’
 ### Formes d’aide
 
 (2) L’aide se rapportant au logement mentionnée au paragraphe (1) consiste en :
+
 a) l’aide sous forme de loyer indexé sur le revenu prévue à la partie V;
+
 b) toute forme d’aide prévue par les règlements;
+
 c) tout programme précisé approuvé par le ministre pour l’application du présent article.
 
 ### Exigences prescrites pour le mécanisme
@@ -229,7 +273,9 @@ c) tout programme précisé approuvé par le ministre pour l’application du pr
 ### Pouvoirs d’une personne physique
 
 (2) Il est entendu que, pour l’application de la présente loi, le gestionnaire de services peut utiliser les pouvoirs que lui attribuent les dispositions suivantes :
+
 1. L’article 9 de la Loi de 2001 sur les municipalités ou l’article 7 de la Loi de 2006 sur la cité de Toronto, si le gestionnaire de services est une municipalité gestionnaire de services.
+
 2. L’article 15 de la Loi de 2010 sur les organisations sans but lucratif, si le gestionnaire de services est un conseil gestionnaire de services.
 
 ### Non exclusivité des pouvoirs
@@ -247,10 +293,15 @@ c) tout programme précisé approuvé par le ministre pour l’application du pr
 ### Dispositions de la Loi de 2001 sur les municipalités
 
 (2) Les dispositions suivantes de la Loi de 2001 sur les municipalités et les règlements s’y rapportant s’appliquent, avec les adaptations nécessaires, aux conseils gestionnaires de services pour l’application de la présente loi :
+
 1. L’article 6.
+
 2. Les articles 106 et 107.
+
 3. Les paragraphes 110 (1), (2), (3), (4), (10) et (11).
+
 4. Les paragraphes 417 (1), (2) et (3).
+
 5. Les paragraphes 418 (1), (2), (3) et (4).
 
 ### Pouvoirs des conseils gestionnaires de services : débentures
@@ -308,7 +359,9 @@ c) tout programme précisé approuvé par le ministre pour l’application du pr
 ### Exercice des pouvoirs et fonctions à l’extérieur des limites
 
 (4) Si le délégataire est, selon le cas :
+
 a) une municipalité, l’article 19 de la Loi de 2001 sur les municipalités ou l’article 15 de la Loi de 2006 sur la cité de Toronto n’a pas pour effet de l’empêcher d’exercer à l’extérieur de ses limites municipales les pouvoirs ou fonctions qui lui sont délégués;
+
 b) un conseil d’administration de district des services sociaux, le paragraphe 4 (1) de la Loi sur les conseils d’administration de district des services sociaux n’a pas pour effet de l’empêcher d’exercer à l’extérieur de son district les pouvoirs ou fonctions qui lui sont délégués.
 
 ### Responsabilité du gestionnaire de services
@@ -330,7 +383,9 @@ b) un conseil d’administration de district des services sociaux, le paragraphe
 ### Services délégués
 
 (3) Si la prestation de services est déléguée en vertu de l’article 17 :
+
 a) d’une part, l’exigence prévue au paragraphe (1) ne s’applique au délégataire que s’il fournit des services dans une région désignée pour l’application de l’alinéa 5 (1) b) de la Loi sur les services en français ;
+
 b) d’autre part, l’exigence prévue au paragraphe (2) s’applique au délégataire.
 
 ### Consentement du gestionnaire de services : politiques et directives ministérielles
@@ -360,13 +415,17 @@ b) d’autre part, l’exigence prévue au paragraphe (2) s’applique au délé
 ### Renseignements se rapportant au recensement
 
 (4) Le gestionnaire de services remet au ministre sous la forme et de la manière que précise celui-ci, aux moments que précisent les règlements et aux autres moments que peut préciser le ministre :
+
 a) les renseignements recueillis dans le cadre du recensement;
+
 b) les autres renseignements prescrits se rapportant au recensement.
 
 ### Rapport fait au public
 
 (5) Le gestionnaire de services met à la disposition du public sous la forme et de la manière que précise le ministre, aux moments que précisent les règlements et aux autres moments que peut préciser le ministre :
+
 a) un résumé des renseignements recueillis dans le cadre du recensement;
+
 b) les autres renseignements prescrits se rapportant au recensement.
 
 ### Résumé : exigences prescrites
@@ -376,8 +435,11 @@ b) les autres renseignements prescrits se rapportant au recensement.
 ### Rapports périodiques remis au ministre
 
 20 (1) Aux moments prescrits, le gestionnaire de services remet au ministre des rapports sur ce qui suit :
+
 a) la mise en oeuvre de son plan de logement et de lutte contre l’itinérance;
+
 b) l’administration et le financement de ses programmes de logement transférés;
+
 c) les autres questions prescrites.
 
 ### Forme, manière et contenu
@@ -391,7 +453,9 @@ c) les autres questions prescrites.
 ### Autres rapports remis au ministre
 
 21 (1) Le gestionnaire de services remet au ministre ce qui suit :
+
 a) les rapports qu’exigent les règlements;
+
 b) les rapports, documents et renseignements que le ministre demande.
 
 ### Délais de remise
@@ -413,27 +477,41 @@ b) les rapports, documents et renseignements que le ministre demande.
 ### Recours en cas de contravention par le gestionnaire de services
 
 23 (1) S’il est d’avis que le gestionnaire de services a contrevenu à une disposition de la présente loi ou des règlements, le ministre peut exercer les recours suivants :
+
 1. Cesser ou suspendre le versement au gestionnaire de services des subventions fédérales au logement effectué en application de l’article 102.
+
 2. Réduire le montant de toute subvention fédérale au logement versée au gestionnaire de services en application de l’article 102.
+
 3. Demander, par voie de requête, à un juge de la Cour supérieure de justice de rendre une ordonnance :
+
 i. soit enjoignant au gestionnaire de services d’exercer une activité précisée ou de prendre des mesures précisées en vue de remédier à la contravention ou de faire en sorte qu’elle ne se reproduise pas,
+
 ii. soit interdisant au gestionnaire de services d’exercer une activité précisée ou de prendre des mesures précisées qui mèneraient ou mèneraient vraisemblablement à la continuation ou à la répétition de la contravention.
+
 4. Retirer au gestionnaire de services n’importe lesquels des pouvoirs et fonctions que lui attribue la présente loi, sauf ceux que lui attribue la partie VIII, et :
+
 i. soit exercer lui-même les pouvoirs et fonctions retirés,
+
 ii. soit confier, au moyen d’un accord, à un autre gestionnaire de services l’exercice des pouvoirs et fonctions retirés.
 
 ### Recours : avis et conditions
 
 (2) Le ministre ne peut exercer un recours en vertu du paragraphe (1) que si les conditions suivantes sont réunies :
+
 a) il a donné au gestionnaire de services un avis écrit qui est conforme au paragraphe (3);
+
 b) le gestionnaire de services ne s’est pas conformé à l’avis au plus tard à la date limite qui y est précisée.
 
 ### Contenu de l’avis
 
 (3) L’avis visé à l’alinéa (2) a) précise ce qui suit :
+
 a) les détails de la contravention commise par le gestionnaire de services;
+
 b) ce que le gestionnaire de services doit faire ou s’abstenir de faire pour empêcher l’exercice d’un recours prévu au paragraphe (1);
+
 c) les questions dont doit traiter tout plan que le gestionnaire de services est tenu de présenter;
+
 d) la date limite pour se conformer à l’avis, qui est d’au moins 60 jours après la date de remise de celui-ci.
 
 ### Plan inacceptable
@@ -447,10 +525,15 @@ d) la date limite pour se conformer à l’avis, qui est d’au moins 60 jours a
 ### Pouvoir de retirer des pouvoirs et fonctions
 
 (6) Les règles suivantes s’appliquent à l’égard du recours prévu à la disposition 4 du paragraphe (1) :
+
 1. S’il compte exercer ce recours, le ministre peut demander au gestionnaire de services de lui remettre ou de remettre à l’autre gestionnaire de services avec qui il a conclu un accord en vertu de la sous-disposition 4 ii du paragraphe (1), tous les documents ou renseignements qui se rapportent à l’exercice du recours, auquel cas le gestionnaire de services obtempère.
+
 2. Les frais que le ministre engage dans l’exercice du recours, y compris les sommes qu’il a versées à l’autre gestionnaire de services avec qui il a conclu un accord en vertu de la sous-disposition 4 ii du paragraphe (1), peuvent être inclus dans les coûts de la Province en matière de logement visés à l’article 103.
+
 3. Le gestionnaire de services qui exerce un pouvoir ou une fonction aux termes d’un accord conclu en vertu de la sous-disposition 4 ii du paragraphe (1) dispose des pouvoirs nécessaires à cette fin. En outre, s’il s’agit, selon le cas :
+
 i. d’une municipalité gestionnaire de services, l’article 19 de la Loi de 2001 sur les municipalités ou l’article 15 de la Loi de 2006 sur la cité de Toronto n’a pas pour effet de l’empêcher d’exercer le pouvoir ou la fonction à l’extérieur de ses limites municipales,
+
 ii. d’un conseil d’administration de district des services sociaux, le paragraphe 4 (1) de la Loi sur les conseils d’administration de district des services sociaux n’a pas pour effet de l’empêcher d’exercer le pouvoir ou la fonction à l’extérieur de son district.
 
 ### Aucune limite sur les autres recours
@@ -464,9 +547,13 @@ ii. d’un conseil d’administration de district des services sociaux, le parag
 ### Définitions
 
 24 Les définitions qui suivent s’appliquent à la présente partie.
+
 «gestionnaire de services lié» Relativement à une société locale de logement, s’entend, selon le cas :
+
 a) du gestionnaire de services en faveur de qui, aux termes du paragraphe 23 (7) de l’ancienne loi, des actions ordinaires sont réputées avoir été émises;
+
 b) de tout autre gestionnaire de services prescrit pour l’application du présent alinéa. («related service manager»)
+
 «société locale de logement» Personne morale qui a été constituée conformément à l’article 23 de l’ancienne loi, y compris celle issue d’une fusion avec une telle personne morale, sous réserve de l’article 30. («local housing corporation») 2011, chap. 6, annexe 1, art. 24.
 
 ### Dispositions générales
@@ -478,13 +565,17 @@ b) de tout autre gestionnaire de services prescrit pour l’application du prés
 ### Statut : aspects municipaux
 
 26 Les sociétés locales de logement sont réputées n’être :
+
 a) ni des entreprises commerciales pour l’application du paragraphe 106 (1) de la Loi de 2001 sur les municipalités et du paragraphe 82 (1) de la Loi de 2006 sur la cité de Toronto ;
+
 b) ni des conseils locaux d’un gestionnaire de services ou d’une municipalité.
 
 ### Règles de fonctionnement
 
 27 (1) Le fonctionnement des sociétés locales de logement est conforme à ce qui suit :
+
 a) les règles prescrites;
+
 b) les règles établies par le gestionnaire de services lié.
 
 ### Contenu
@@ -502,7 +593,9 @@ b) les règles établies par le gestionnaire de services lié.
 ### Application des règles à une entité qui n’est pas une société locale de logement
 
 (5) Les règles peuvent prévoir qu’elles s’appliquent à une entité visée à la disposition 1 ou 2 du paragraphe 30 (1) qui est propriétaire d’un ensemble domiciliaire qui a été transféré dans le passé à une société locale de logement par un décret de transfert ou de mutation pris en vertu de la partie IV de l’ancienne loi. Toutefois, les règles peuvent s’appliquer à cette entité :
+
 a) uniquement à l’égard de l’ensemble domiciliaire;
+
 b) uniquement à l’égard de la période au cours de laquelle l’entité est propriétaire de l’ensemble domiciliaire.
 
 ### Subside versé par le gestionnaire de services lié
@@ -516,13 +609,17 @@ b) uniquement à l’égard de la période au cours de laquelle l’entité est 
 ### Pouvoir d’acquérir des actions
 
 29 Sans empêcher que d’autres puissent le faire, les entités suivantes sont autorisées à acquérir des actions d’une société locale de logement :
+
 1. Le gestionnaire de services lié.
+
 2. Une municipalité située dans l’aire de service du gestionnaire de services, sauf une municipalité qui fait partie de ce dernier aux fins municipales.
 
 ### Exigence relative au statut de société locale de logement
 
 30 (1) Une personne morale ne peut être une société locale de logement que si toutes ses actions sont détenues par les entités ou personnes morales suivantes :
+
 1. Toute entité autorisée à acquérir des actions en vertu de l’article 29.
+
 2. Toute personne morale dont un des objets consiste à fournir des logements et qui est sous le contrôle d’une entité autorisée à acquérir des actions en vertu de l’article 29.
 
 ### Idem
@@ -538,13 +635,17 @@ b) uniquement à l’égard de la période au cours de laquelle l’entité est 
 ### Restriction applicable à l’émission d’actions
 
 32 Une société locale de logement ne doit pas émettre d’actions, sauf si, selon le cas :
+
 a) le gestionnaire de services lié y consent par écrit;
+
 b) il est satisfait aux exigences prescrites pour l’application du présent alinéa.
 
 ### Restriction applicable au transfert d’actions
 
 33 (1) L’actionnaire d’une société locale de logement ne doit pas transférer ou grever des actions, sauf si, selon le cas :
+
 a) le gestionnaire de services lié y consent par écrit;
+
 b) il est satisfait aux exigences prescrites pour l’application du présent alinéa.
 
 ### Obligation de la société locale de logement
@@ -554,18 +655,23 @@ b) il est satisfait aux exigences prescrites pour l’application du présent al
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «transférer ou grever» S’entend notamment du transfert ou du grèvement de la propriété bénéficiaire d’actions.
 
 ### Restriction applicable aux fusions
 
 34 Une société locale de logement ne doit pas fusionner avec une autre personne morale, sauf si, selon le cas :
+
 a) le gestionnaire de services lié y consent par écrit;
+
 b) il est satisfait aux exigences prescrites pour l’application du présent alinéa.
 
 ### Restriction applicable aux liquidations ou dissolutions volontaires
 
 35 Une société locale de logement ne doit pas faire l’objet d’une liquidation ou dissolution volontaire, sauf si, selon le cas :
+
 a) le gestionnaire de services lié y consent par écrit;
+
 b) il est satisfait aux exigences prescrites pour l’application du présent alinéa.
 
 ### Avis de consentement
@@ -599,10 +705,15 @@ b) il est satisfait aux exigences prescrites pour l’application du présent al
 ### Définitions
 
 38 Les définitions qui suivent s’appliquent à la présente partie.
+
 «administrateur de logements adaptés» Relativement à un ensemble domiciliaire comptant des logements adaptés, s’entend :
+
 a) soit du gestionnaire de services de l’aire de service où est situé l’ensemble;
+
 b) soit du fournisseur de logements qui exploite l’ensemble, si les règlements le prévoient. («special needs housing administrator»)
+
 «aide sous forme de loyer indexé sur le revenu» Aide financière fournie à l’égard d’un ménage afin de réduire la somme qu’il doit autrement payer pour occuper un logement. («rent-geared-to-income assistance»)
+
 «logement adapté» Logement destiné à être utilisé par un ménage comptant un ou plusieurs membres qui ont besoin de modifications concernant l’accessibilité ou de services de soutien financés par la Province pour vivre de façon autonome dans la collectivité. («special needs housing») 2011, chap. 6, annexe 1, art. 38.
 
 ### Champ d’application de la partie
@@ -620,7 +731,9 @@ b) soit du fournisseur de logements qui exploite l’ensemble, si les règlement
 ### Niveaux de service : aide sous forme de loyer indexé sur le revenu
 
 40 (1) Le gestionnaire de services veille à ce que l’aide sous forme de loyer indexé sur le revenu visée par la présente partie soit fournie dans son aire de service pour au moins les nombres de ménages suivants :
+
 a) le nombre prescrit de ménages dont le revenu n’est pas supérieur au seuil de revenu des ménages;
+
 b) le nombre prescrit de ménages ayant des besoins importants.
 
 ### Ménages exclus
@@ -634,7 +747,9 @@ b) le nombre prescrit de ménages ayant des besoins importants.
 ### Idem
 
 (3.1) Un ménage peut être inclus pour répondre aux exigences énoncées à l’alinéa (1) a) ou b) même si aucune aide sous forme de loyer indexé sur le revenu ne lui est fournie en application de la présente partie, si les conditions suivantes sont remplies :
+
 1. Une autre forme d’aide financière se rapportant au logement est fournie au ménage.
+
 2. L’autre forme d’aide financière visée à la disposition 1 est précisée par les règlements ou a été approuvée par le ministre pour l’application de la présente disposition.
 
 ### Loi de 2006 sur la législation
@@ -644,18 +759,23 @@ b) le nombre prescrit de ménages ayant des besoins importants.
 ### Définitions
 
 (4) Les définitions qui suivent s’appliquent au présent article.
+
 «ménage ayant des besoins importants» Ménage qui répond aux critères prescrits pour l’application de la présente définition. («high need household»)
+
 «seuil de revenu des ménages» Le seuil de revenu des ménages prescrit pour l’application de la présente définition. («household income limit») 2011, chap. 6, annexe 1, par. 40 (4).
 
 ### Niveaux de service : logements modifiés
 
 41 (1) Les exigences suivantes s’appliquent à l’égard des ensembles domiciliaires qui sont visés par les programmes de logement transférés prescrits pour l’application du présent article :
+
 1. Le gestionnaire de services veille à ce que les ensembles domiciliaires comptent, au total, au moins le nombre prescrit de logements modifiés.
+
 2. Le gestionnaire de services veille à ce que les logements modifiés exigés en application de la disposition 1 répondent aux exigences prescrites.
 
 ### Définition : logement modifié
 
 (2) La définition qui suit s’applique au présent article.
+
 «logement modifié» Logement qui a été modifié de manière à le rendre accessible aux personnes ayant une déficience physique ou à permettre à de telles personnes de vivre de façon autonome.
 
 ### Aide sous forme de loyer indexé sur le revenu
@@ -663,7 +783,9 @@ b) le nombre prescrit de ménages ayant des besoins importants.
 ### Règles d’admissibilité
 
 42 (1) Il est décidé de l’admissibilité à l’aide sous forme de loyer indexé sur le revenu conformément aux règles suivantes :
+
 1. Les règles d’admissibilité provinciales prescrites.
+
 2. Les règles d’admissibilité locales établies par le gestionnaire de services.
 
 ### Règles locales exigées
@@ -697,7 +819,9 @@ b) le nombre prescrit de ménages ayant des besoins importants.
 ### Contenu de la demande
 
 (2) La demande comprend ce qui suit :
+
 a) les renseignements et les documents prescrits;
+
 b) les renseignements et les documents qu’exige le gestionnaire de services.
 
 ### Restrictions : renseignements et documents exigés
@@ -715,7 +839,9 @@ b) les renseignements et les documents qu’exige le gestionnaire de services.
 ### Règles régissant la décision
 
 (2) Le gestionnaire de services prend sa décision conformément à ce qui suit :
+
 1. Les règles d’admissibilité visées à l’article 42.
+
 2. Les exigences prescrites pour l’application de la présente disposition.
 
 ### Décision concernant la grandeur et le type de logement
@@ -733,8 +859,11 @@ b) les renseignements et les documents qu’exige le gestionnaire de services.
 ### Inclusions particulières
 
 (2) Le mécanisme de sélection comprend ce qui suit :
+
 a) les règles à suivre pour décider si un logement qui devient vacant devrait être occupé par un ménage qui recevra une aide sous forme de loyer indexé sur le revenu;
+
 b) les règles de priorité applicables aux ménages qui attendent une aide sous forme de loyer indexé sur le revenu;
+
 c) les règles régissant le choix par un fournisseur de logements des ménages qui occuperont les logements ou recevront une aide sous forme de loyer indexé sur le revenu.
 
 ### Exigences prescrites
@@ -744,7 +873,9 @@ c) les règles régissant le choix par un fournisseur de logements des ménages 
 ### Règles applicables à certains ménages en attente
 
 (4) Les règlements peuvent prévoir que le mécanisme de sélection peut comprendre des règles qui, à la fois :
+
 a) traitent des ménages qui attendent une aide sous forme de loyer indexé sur le revenu et ont accepté une offre visant une autre forme d’aide financière se rapportant au logement qui est précisée par les règlements ou a été approuvée par le ministre pour l’application du présent alinéa;
+
 b) s’appliquent malgré les exigences prescrites.
 
 ### Loi de 2006 sur la législation
@@ -758,7 +889,9 @@ b) s’appliquent malgré les exigences prescrites.
 ### Règles régissant la décision
 
 (2) Le gestionnaire de services prend sa décision conformément aux règles suivantes :
+
 1. Les règles de priorité provinciales prescrites.
+
 2. Les règles de priorité établies par le gestionnaire de services qui sont comprises dans son mécanisme de sélection en application de l’alinéa 47 (2) b).
 
 ### Incompatibilité
@@ -812,38 +945,59 @@ b) s’appliquent malgré les exigences prescrites.
 ### Règles régissant la décision
 
 (3) Le gestionnaire de services prend sa décision conformément à ce qui suit :
+
 1. Les règles d’admissibilité visées à l’article 42.
+
 2. Les exigences prescrites pour l’application de la présente disposition.
 
 ### Avis de certaines décisions
 
 53 (1) Le gestionnaire de services donne au ménage un avis écrit de ce qui suit conformément aux exigences prescrites :
+
 1. La décision, prise en application du paragraphe 45 (1), concernant l’admissibilité du ménage à une aide sous forme de loyer indexé sur le revenu.
+
 2. La décision, prise en application du paragraphe 46 (1), concernant la grandeur et le type de logement qui seraient permis si le ménage recevait une aide sous forme de loyer indexé sur le revenu.
+
 3. La décision, prise en application du paragraphe 48 (1), concernant l’inclusion du ménage dans une catégorie qui a la priorité sur d’autres.
+
 4. La détermination, faite en application du paragraphe 50 (1), du montant du loyer payable par le ménage.
+
 5. La décision, prise en application du paragraphe 52 (1), portant que le ménage n’est plus admissible à une aide sous forme de loyer indexé sur le revenu.
+
 6. La décision, prise en application du paragraphe 51 (1), concernant tout report du loyer ou toute renonciation au loyer.
+
 7. Toute décision prescrite pour l’application de la présente disposition.
 
 ### Avis au fournisseur de logements
 
 (2) Le gestionnaire de services donne au fournisseur de logements concerné un avis de ce qui suit :
+
 1. La détermination, visée à la disposition 4 du paragraphe (1), du montant du loyer payable par le ménage.
+
 2. La décision, visée à la disposition 5 du paragraphe (1), portant que le ménage n’est plus admissible à une aide sous forme de loyer indexé sur le revenu.
+
 3. La décision, visée à la disposition 6 du paragraphe (1), portant que le loyer est reporté ou qu’il y est renoncé.
+
 4. Toute décision prescrite pour l’application de la présente disposition.
 
 ### Renseignements mis à la disposition du public
 
 54 (1) Le gestionnaire de services met ce qui suit à la disposition du public conformément aux exigences prescrites :
+
 1. Les modalités qu’a établies le gestionnaire de services et qui régissent les demandes d’aide sous forme de loyer indexé sur le revenu, y compris les renseignements et les documents qu’il exige en application de l’alinéa 44 (2) b) et le formulaire qu’il autorise pour l’application du paragraphe 44 (4).
+
 2. Les règles d’admissibilité locales qu’a établies le gestionnaire de services en application de l’article 42.
+
 3. Les normes d’occupation qu’a établies le gestionnaire de services en application de l’article 43.
+
 4. Les règles qui, en application du paragraphe 47 (2), sont comprises dans le mécanisme de sélection des ménages mis en place par le gestionnaire de services en application de l’article 47.
+
 5. Les renseignements sur les ensembles domiciliaires situés dans l’aire de service du gestionnaire de services où une aide sous forme de loyer indexé sur le revenu est fournie.
+
 6. Les renseignements sur les règles d’admissibilité provinciales prescrites pour l’application de la disposition 1 du paragraphe 42 (1).
+
 7. Les renseignements sur les règles de priorité provinciales prescrites pour l’application de la disposition 1 du paragraphe 48 (2).
+
 8. Les renseignements ou documents prescrits pour l’application de la présente disposition.
 
 ### Renseignements demandés par le gestionnaire de services
@@ -869,7 +1023,9 @@ b) s’appliquent malgré les exigences prescrites.
 ### Irrégularités
 
 56 (1) Le présent article s’applique si un ménage a reçu une aide sous forme de loyer indexé sur le revenu à laquelle il n’était pas admissible pour l’une ou l’autre des raisons suivantes :
+
 a) le loyer indexé sur le revenu était inférieur à celui auquel le ménage était admissible;
+
 b) le ménage n’était pas admissible à une aide sous forme de loyer indexé sur le revenu.
 
 ### Remboursement par le ménage
@@ -887,7 +1043,9 @@ b) le ménage n’était pas admissible à une aide sous forme de loyer indexé 
 ### Recouvrement par augmentation du loyer
 
 (5) Sous réserve des restrictions ou exigences prescrites, le gestionnaire de services peut recouvrer la somme exigée en vertu du paragraphe (2) en augmentant le loyer indexé sur le revenu que le ménage doit payer au fournisseur de logements et, selon le cas :
+
 a) en déduisant l’augmentation de loyer du subside qu’il verse au fournisseur de logements en application de l’article 28 ou 78;
+
 b) en exigeant que le fournisseur de logements lui paie l’augmentation de loyer.
 
 ### Idem
@@ -951,7 +1109,9 @@ b) en exigeant que le fournisseur de logements lui paie l’augmentation de loye
 ### Contenu de la demande
 
 (2) La demande comprend ce qui suit :
+
 a) les renseignements et documents prescrits;
+
 b) les renseignements et les documents qu’exige l’administrateur de logements adaptés.
 
 ### Restrictions : renseignements et documents exigés
@@ -969,7 +1129,9 @@ b) les renseignements et les documents qu’exige l’administrateur de logement
 ### Règles régissant la décision
 
 (2) L’administrateur de logements adaptés prend sa décision conformément à ce qui suit :
+
 1. Les règles d’admissibilité visées à l’article 59.
+
 2. Les exigences prescrites pour l’application de la présente disposition.
 
 ### Mécanisme de sélection des ménages en attente
@@ -1003,31 +1165,45 @@ b) les renseignements et les documents qu’exige l’administrateur de logement
 ### Règles régissant les décisions
 
 (3) L’administrateur de logements adaptés prend sa décision conformément à ce qui suit :
+
 1. Les règles d’admissibilité visées à l’article 59.
+
 2. Les exigences prescrites pour l’application de la présente disposition.
 
 ### Avis de certaines décisions
 
 66 (1) L’administrateur de logements adaptés donne au ménage, conformément aux exigences prescrites, un avis écrit des décisions suivantes :
+
 1. La décision, prise en application du paragraphe 61 (1), concernant l’admissibilité du ménage à un logement adapté.
+
 2. La décision, prise en application du paragraphe 63 (1), concernant l’inclusion du ménage dans une catégorie qui a la priorité sur d’autres.
+
 3. La décision, prise en application du paragraphe 65 (1), portant que le ménage n’est plus admissible à un logement adapté.
+
 4. Toute décision prescrite pour l’application de la présente disposition.
 
 ### Avis au fournisseur de logements
 
 (2) L’administrateur de logements adaptés qui est un gestionnaire de services donne au fournisseur de logements concerné un avis des décisions suivantes :
+
 1. La décision, visée à la disposition 3 du paragraphe (1), portant que le ménage n’est plus admissible à un logement adapté.
+
 2. Toute décision prescrite pour l’application de la présente disposition.
 
 ### Renseignements mis à la disposition du public
 
 67 (1) L’administrateur de logements adaptés met ce qui suit à la disposition du public conformément aux exigences prescrites :
+
 1. Les modalités qu’a établies l’administrateur et qui régissent les demandes de logements adaptés, y compris les renseignements et les documents qu’il exige en application du paragraphe 60 (2) et le formulaire qu’il autorise pour l’application du paragraphe 60 (4).
+
 2. Les règles qui sont comprises dans le mécanisme de sélection des ménages que l’administrateur a mis en place en application de l’article 62.
+
 3. Les renseignements sur les ensembles domiciliaires de l’administrateur de logements adaptés qui comptent de tels logements.
+
 4. Les renseignements sur les règles d’admissibilité provinciales prescrites pour l’application de l’article 59.
+
 5. Les renseignements sur les règles de priorité provinciales prescrites pour l’application du paragraphe 63 (2).
+
 6. Les renseignements ou documents prescrits pour l’application de la présente disposition.
 
 ### Renseignements demandés par l’administrateur
@@ -1051,7 +1227,9 @@ b) les renseignements et les documents qu’exige l’administrateur de logement
 ### Exécution de l’obligation
 
 (2) Le gestionnaire de services s’acquitte de l’obligation prévue au paragraphe (1) conformément à ce qui suit :
+
 a) la présente loi et les règlements, y compris les règles et les critères prescrits à l’égard du programme pour l’application du présent alinéa;
+
 b) tout accord d’exploitation antérieur à la réforme qui est applicable.
 
 ### Incompatibilité
@@ -1073,15 +1251,21 @@ b) tout accord d’exploitation antérieur à la réforme qui est applicable.
 ### Cessation de la désignation de l’ensemble domiciliaire — accord de cessation
 
 68.1 (1) Un ensemble domiciliaire cesse d’être un ensemble domiciliaire désigné à une date fixée conformément aux règlements si les conditions suivantes sont réunies :
+
 a) l’ensemble domiciliaire satisfait aux éventuels critères prescrits;
+
 b) le fournisseur de logements et le gestionnaire de services ont conclu un accord de cessation conforme aux exigences prescrites;
+
 c) le fournisseur de logements et le gestionnaire de services ont avisé le ministre, conformément au paragraphe (2), de leur intention de faire en sorte que l’ensemble domiciliaire cesse d’être un ensemble domiciliaire désigné.
 
 ### Avis au ministre
 
 (2) L’avis prévu à l’alinéa (1) c) doit être, à la fois :
+
 a) donné conjointement par le fournisseur de logements et le gestionnaire de services par écrit;
+
 b) accompagné des documents et renseignements prescrits;
+
 c) conforme aux exigences prescrites.
 
 ### Liste
@@ -1099,6 +1283,7 @@ c) conforme aux exigences prescrites.
 ### Définition de «accord de cessation»
 
 (6) La définition qui suit s’applique au présent article.
+
 «accord de cessation» Accord entre un fournisseur de logements et un gestionnaire de services dans lequel ils prévoient qu’un ensemble domiciliaire cesse d’être un ensemble domiciliaire désigné.
 
 ### Obligation générale du fournisseur de logements
@@ -1152,16 +1337,23 @@ c) conforme aux exigences prescrites.
 ### Avis d’ensemble en difficulté
 
 72 (1) Le gestionnaire de services avise promptement le ministre par écrit si un de ses ensembles domiciliaires désignés :
+
 a) d’une part, connaît des difficultés;
+
 b) d’autre part, est grevé d’une hypothèque garantie par la Province de l’Ontario.
 
 ### Ensemble en difficulté
 
 (2) Pour l’application de l’alinéa (1) a), un ensemble domiciliaire désigné connaît des difficultés si, selon le cas :
+
 a) il y a défaut de paiement de l’hypothèque visée à l’alinéa (1) b);
+
 b) le gestionnaire de services est d’avis que l’une ou l’autre des éventualités suivantes se produira vraisemblablement dans les 12 mois suivant la fin de l’exercice en cours du fournisseur de logements, en raison de sa situation financière actuelle ou projetée :
+
 (i) il y aura défaut de paiement de l’hypothèque visée à l’alinéa (1) b),
+
 (ii) le fournisseur de logements ne s’acquittera pas d’une de ses obligations financières importantes;
+
 c) le gestionnaire de services est d’avis que le fournisseur de logements n’a pas respecté une obligation importante que lui impose la présente loi.
 
 ### Notification du fournisseur de logements
@@ -1179,6 +1371,7 @@ c) le gestionnaire de services est d’avis que le fournisseur de logements n’
 ### Définition
 
 73 La définition qui suit s’applique à la présente partie.
+
 «ensemble domiciliaire visé par la partie VII» Ensemble domiciliaire désigné qui est prescrit pour l’application de la présente définition.
 
 ### Champ d’application de la partie
@@ -1186,7 +1379,9 @@ c) le gestionnaire de services est d’avis que le fournisseur de logements n’
 ### Champ d’application de la partie
 
 74 La présente partie s’applique :
+
 a) à l’égard du fournisseur de logements qui exploite un ensemble domiciliaire visé par la partie VII;
+
 b) à l’égard du gestionnaire de services qui compte un ensemble domiciliaire visé par la partie VII dans son aire de service.
 
 ### Exploitation des ensembles
@@ -1194,7 +1389,9 @@ b) à l’égard du gestionnaire de services qui compte un ensemble domiciliaire
 ### Règles d’exploitation des ensembles
 
 75 (1) Le fournisseur de logements exploite un ensemble domiciliaire visé par la partie VII et régit ses affaires conformément à ce qui suit :
+
 a) les exigences provinciales prescrites;
+
 b) les normes locales établies par le gestionnaire de services.
 
 ### Limites des normes locales
@@ -1216,12 +1413,15 @@ b) les normes locales établies par le gestionnaire de services.
 ### Cibles pour logements à loyer indexé sur le revenu et logements modifiés
 
 77 (1) Pour chaque ensemble domiciliaire visé par la partie VII il est fixé une cible à l’égard de ce qui suit :
+
 a) le nombre de logements occupés par des ménages recevant une aide sous forme de loyer indexé sur le revenu au sens de l’article 38;
+
 b) le nombre de logements modifiés.
 
 ### Définition : logement modifié
 
 (2) La définition qui suit s’applique à l’alinéa (1) b).
+
 «logement modifié» Logement qui a été modifié de manière à le rendre accessible aux personnes ayant une déficience physique ou à permettre à de telles personnes de vivre de façon autonome.
 
 ### Exigences prescrites
@@ -1235,7 +1435,9 @@ b) le nombre de logements modifiés.
 ### Modification par le gestionnaire de services
 
 (5) Le gestionnaire de services peut modifier une cible sans l’accord du fournisseur de logements, sous réserve de ce qui suit :
+
 1. Le gestionnaire de services consulte le fournisseur de logements avant d’effectuer la modification.
+
 2. La modification est assujettie aux restrictions prescrites.
 
 ### Disposition transitoire : cibles initiales
@@ -1263,7 +1465,9 @@ b) le nombre de logements modifiés.
 ### Avis des déterminations faites par le ministre
 
 (5) S’il détermine des montants en vertu des règlements, le ministre donne les avis suivants conformément aux exigences prescrites :
+
 1. Un avis à chaque fournisseur de logements des montants utilisés pour déterminer le subside qui lui est versé.
+
 2. Un avis à chaque gestionnaire de services des montants utilisés pour déterminer le subside qu’il verse.
 
 ### Dossiers et rapports
@@ -1349,17 +1553,29 @@ b) le nombre de logements modifiés.
 ### Faits déclencheurs
 
 83 Les faits suivants sont des faits déclencheurs pour l’application des articles 84 à 98 :
+
 1. Le fournisseur de logements contrevient à la présente loi ou aux règlements.
+
 2. Le fournisseur de logements devient failli ou insolvable, se prévaut des lois visant les débiteurs faillis ou insolvables, ou encore fait une proposition ou une cession au profit de ses créanciers ou conclut un arrangement avec eux.
+
 3. Une personne prend des mesures ou introduit des instances en vue de dissoudre ou de liquider le fournisseur de logements.
+
 4. Le fournisseur de logements cesse d’exercer ses activités dans le cours normal de ses affaires ou menace de le faire.
+
 5. Un fiduciaire, un séquestre, un administrateur-séquestre ou une personne semblable est nommé à l’égard des activités ou des biens du fournisseur de logements.
+
 6. Abrogée : 2017, chap. 2, annexe 3, par. 5 (1).
+
 7. Les biens du fournisseur de logements font l’objet d’une saisie-exécution ou d’une saisie-arrêt.
+
 8. Le fournisseur de logements est incapable de respecter ses obligations.
+
 9. Le fournisseur de logements engage une dépense qui, de l’avis du gestionnaire de services, est importante et excessive.
+
 10. Le fournisseur de logements subit un déficit accumulé qui, de l’avis du gestionnaire de services, est important et excessif.
+
 11. Le gestionnaire de services est d’avis que le fournisseur de logements n’a pas exploité convenablement un ensemble domiciliaire désigné.
+
 12. Le fournisseur de logements contrevient à un bail aux termes duquel il a un intérêt à bail sur un ensemble domiciliaire désigné ou sur le bien-fonds où celui-ci est situé.
 
 ### Assistance offerte avant un fait déclencheur
@@ -1377,16 +1593,27 @@ b) le nombre de logements modifiés.
 ### Recours
 
 85 Lorsqu’un fait déclencheur survient, le gestionnaire de services peut exercer les recours suivants :
+
 1. Cesser ou suspendre le versement des subsides prévus à l’article 78.
+
 2. Réduire le montant des subsides prévus à l’article 78.
+
 3. Faire des déductions sur les subsides prévus à l’article 78 afin de payer tout ou partie d’une dette du fournisseur de logements.
+
 4. Selon le cas :
+
 i. exercer tout pouvoir ou toute fonction que la présente loi attribue au fournisseur de logements,
+
 ii. agir à titre de fournisseur de logements relativement à tout ou partie des éléments d’actif, des éléments de passif et des engagements de ce dernier, y compris ses ensembles domiciliaires.
+
 5. Nommer un conseiller auprès du fournisseur de logements.
+
 6. Nommer un séquestre intérimaire ou un administrateur-séquestre intérimaire pour le fournisseur de logements.
+
 7. Demander à la Cour supérieure de justice de nommer un séquestre ou un administrateur-séquestre pour le fournisseur de logements.
+
 8. Destituer la totalité ou une partie des administrateurs ou des administrateurs réputés tels du fournisseur de logements, qu’ils aient été élus ou nommés ou qu’ils occupent leur charge d’office.
+
 9. Nommer un ou plusieurs particuliers administrateurs du fournisseur de logements.
 
 ### Aucune limite sur les autres recours
@@ -1400,16 +1627,23 @@ ii. agir à titre de fournisseur de logements relativement à tout ou partie des
 ### Recours multiples
 
 87 Lorsqu’un fait déclencheur survient, le gestionnaire de services peut :
+
 a) exercer plus d’un recours;
+
 b) exercer le même recours ou des recours différents à des moments différents.
 
 ### Renonciation au recours
 
 88 Les règles suivantes s’appliquent lorsque le gestionnaire de services renonce au droit d’exercer un recours prévu à l’article 85 :
+
 1. Pour avoir effet, la renonciation est écrite et est signée par le gestionnaire de services.
+
 2. Aucun retard que met le gestionnaire de services à exercer un recours ne constitue une renonciation.
+
 3. La renonciation au droit d’exercer un recours à l’égard de la survenance d’un fait déclencheur ne constitue pas une renonciation :
+
 i. à l’exercice d’un autre recours à l’égard de cette survenance,
+
 ii. à l’exercice du même recours à l’égard de toute nouvelle survenance d’un fait déclencheur.
 
 ### Recours raisonnable
@@ -1419,60 +1653,91 @@ ii. à l’exercice du même recours à l’égard de toute nouvelle survenance 
 ### Avis : possibilité de rectification et présentation
 
 90 (1) Le gestionnaire de services ne peut exercer un recours en vertu de l’article 85 à l’égard d’un fait déclencheur que si les conditions suivantes sont réunies :
+
 a) il a donné au fournisseur de logements un avis écrit qui est conforme au paragraphe (2);
+
 b) le fait déclencheur continue après le dernier jour de la période visée à l’alinéa (2) c), et il a donné au fournisseur de logements un avis écrit subséquent qui est conforme au paragraphe (4);
+
 c) il a donné au fournisseur de logements l’occasion de lui présenter des observations conformément à l’alinéa (4) c);
+
 d) il a étudié les observations qui lui ont été présentées, le cas échéant, a pris une décision et a donné au fournisseur de logements un avis motivé de sa décision.
 
 ### Contenu de l’avis : fait déclencheur
 
 (2) L’avis visé à l’alinéa (1) a) précise ce qui suit :
+
 a) les détails du ou des faits déclencheurs;
+
 b) ce que le fournisseur de logements doit faire ou s’abstenir de faire, s’il y a lieu, afin de remédier à la situation qui a conduit au ou aux faits déclencheurs et d’éviter ainsi l’exercice d’un ou de plusieurs recours;
+
 c) le délai dans lequel le fournisseur de logements doit se conformer à l’avis, qui doit être d’au moins 60 jours à compter de la date de sa remise;
+
 d) si l’avis prévoit la présentation d’un plan par le fournisseur de logements, les questions dont ce plan doit traiter.
 
 ### Exigence en matière de formation
 
 (3) Sans préjudice de la portée générale de l’alinéa (2) b), pour l’application de cet alinéa, le gestionnaire de services peut exiger qu’un fournisseur de logements veille à ce que les personnes suivantes reçoivent une formation :
+
 1. Un administrateur, un employé ou un représentant du fournisseur de logements.
+
 2. Une personne avec qui le fournisseur de logements a conclu un contrat pour la gestion, pour le compte de ce dernier, d’un ensemble domiciliaire visé par la partie VII. 2011, chap. 6, annexe 1, par. 90 (3).
 
 ### Contenu de l’avis : observations
 
 (4) L’avis subséquent visé à l’alinéa (1) b) fait ce qui suit :
+
 a) il précise les détails du ou des faits déclencheurs;
+
 b) il précise le ou les recours que le gestionnaire de services envisage d’exercer par suite du ou des faits déclencheurs ainsi que les raisons pour lesquelles il les envisage;
+
 c) il informe le fournisseur de logements qu’il peut, au plus tard à une date qui tombe au moins 60 jours après celle de la remise de l’avis, présenter au gestionnaire de services des observations écrites sur le ou les recours que ce dernier envisage d’exercer;
+
 d) il informe le fournisseur de logements que si aucune observation n’est reçue dans le délai visé à l’alinéa c), le gestionnaire de services prendra sa décision en se fondant sur les renseignements dont il dispose;
+
 e) si le gestionnaire de services envisage d’exercer le recours prévu à la disposition 4 de l’article 85, il informe le fournisseur de logements des pouvoirs et des fonctions que le gestionnaire de services exercerait et des éléments d’actif, des éléments de passif et des engagements à l’égard desquels ce dernier agirait à titre de fournisseur de logements.
 
 ### Exceptions
 
 (5) Le paragraphe (1) ne s’applique pas si, selon le cas :
+
 a) le fait déclencheur constitue une contravention à l’article 162;
+
 b) le fournisseur de logements est incapable de payer ses dettes à échéance;
+
 c) le fournisseur de logements a exploité un ensemble domiciliaire désigné d’une façon qui a entraîné :
+
 (i) soit une détérioration physique importante de l’ensemble domiciliaire qui porte atteinte à son intégrité structurelle,
+
 (ii) soit un danger pour la santé ou la sécurité des résidents de l’ensemble;
+
 d) le rapport d’une vérification ou d’une enquête visant le fournisseur de logements fait état d’un acte frauduleux, d’une activité criminelle ou d’une mauvaise utilisation des biens du fournisseur de logements et l’acte reproché a été renvoyé à un organisme chargé de l’exécution de la loi;
+
 e) un ensemble domiciliaire désigné du fournisseur de logements est grevé d’une hypothèque garantie par la Province de l’Ontario et il y a défaut de paiement de l’hypothèque;
+
 f) le nombre d’administrateurs du fournisseur de logements est inférieur au quorum requis pour les réunions du conseil d’administration depuis 90 jours ou plus;
+
 g) il existe une circonstance qui est prescrite pour l’application du présent alinéa.
 
 ### Présentation d’observations sur un administrateur-séquestre nommé par un tribunal
 
 (6) Dans les cas où il a le droit de demander que soit nommé un séquestre ou un administrateur-séquestre en vertu de la disposition 7 de l’article 85 ou que soit prolongée, en vertu du paragraphe 95 (3), la période pour laquelle il peut y avoir un séquestre intérimaire ou un administrateur-séquestre intérimaire, le gestionnaire de services ne peut prendre la décision d’exercer ce droit qu’après avoir fait ce qui suit :
+
 a) il a préalablement donné au fournisseur de logements un avis écrit qui est conforme au paragraphe (7);
+
 b) il a donné au fournisseur de logements la possibilité de lui présenter des observations conformément à l’alinéa (7) c);
+
 c) il a étudié les observations qui lui ont été présentées, le cas échéant, a pris une décision et a donné au fournisseur de logements un avis motivé de sa décision.
 
 ### Contenu de l’avis
 
 (7) L’avis visé à l’alinéa (6) a) fait ce qui suit :
+
 a) il précise les détails du ou des faits déclencheurs ou de leur continuation, le cas échéant, ainsi que les circonstances visées au paragraphe (5) qui continuent d’exister;
+
 b) il précise que le gestionnaire de services envisage de demander que soit nommé un séquestre ou un administrateur-séquestre en vertu de la disposition 7 de l’article 85 ou que soit prolongée, en vertu du paragraphe 95 (3), la période pour laquelle il peut y avoir un séquestre intérimaire ou un administrateur-séquestre intérimaire et précise les motifs de la demande;
+
 c) il informe le fournisseur de logements qu’il peut, au plus tard une date qui tombe au moins 60 jours après celle de la remise de l’avis, présenter au gestionnaire de services des observations écrites sur le recours que ce dernier envisage d’exercer ou sur la prolongation qu’il envisage de demander;
+
 d) il informe le fournisseur de logements que si aucune observation n’est reçue dans le délai visé à l’alinéa c), le gestionnaire de services prendra sa décision en se fondant sur les renseignements dont il dispose.
 
 ### Décision de ne pas exercer le recours
@@ -1494,17 +1759,25 @@ d) il informe le fournisseur de logements que si aucune observation n’est reç
 ### Délai
 
 (2) Le gestionnaire de services a un maximum de deux ans pour exercer le recours à l’égard d’un ou de plusieurs faits déclencheurs, sauf si, selon le cas :
+
 a) le délai est prolongé avec l’accord du fournisseur de logements;
+
 b) le gestionnaire de services a prolongé le délai d’au plus un an pour chaque prolongation, après avoir donné au fournisseur de logements un autre avis écrit qui précise les détails de la continuation du ou des faits déclencheurs et après avoir répété les étapes énoncées aux alinéas 90 (1) c) et d).
 
 ### Exigence relative aux gestionnaires immobiliers
 
 (3) Le gestionnaire de services ne doit pas retenir les services d’un gestionnaire immobilier afin d’exercer pour son compte un recours à l’égard d’un fournisseur de logements, sauf s’il est d’avis :
+
 a) si le gestionnaire immobilier est un particulier, qu’il est bien renseigné sur la présente loi, sur le ou les programmes de logement transférés sous le régime desquels fonctionnent le ou les ensembles domiciliaires du fournisseur de logements, et :
+
 (i) sur la structure et le fonctionnement des sociétés de logement sans but lucratif, si le fournisseur de logements est une telle société,
+
 (ii) sur la structure et le fonctionnement des coopératives de logement sans but lucratif, si le fournisseur de logements est une telle coopérative;
+
 b) si le gestionnaire immobilier n’est pas un particulier, que son personnel est bien renseigné sur la présente loi, sur le ou les programmes de logement transférés sous le régime desquels fonctionnent le ou les ensembles domiciliaires du fournisseur de logements, et :
+
 (i) sur la structure et le fonctionnement des sociétés de logement sans but lucratif, si le fournisseur de logements est une telle société,
+
 (ii) sur la structure et le fonctionnement des coopératives de logement sans but lucratif, si le fournisseur de logements est une telle coopérative.
 
 ### Nomination aux termes d’un accord
@@ -1538,8 +1811,11 @@ b) si le gestionnaire immobilier n’est pas un particulier, que son personnel e
 ### Utilisation des pouvoirs
 
 (11) Le gestionnaire de services ne peut utiliser ses pouvoirs que dans le but de redonner le contrôle au fournisseur de logements et qu’aux fins suivantes :
+
 1. L’exercice des activités du fournisseur de logements.
+
 2. L’amélioration de la gouvernance du fournisseur de logements.
+
 3. La stabilisation ou l’amélioration de la situation financière du fournisseur de logements.
 
 ### Remise du contrôle
@@ -1557,14 +1833,19 @@ b) si le gestionnaire immobilier n’est pas un particulier, que son personnel e
 ### Libération
 
 (15) Le fournisseur de logements est réputé libérer le gestionnaire de services et le gestionnaire immobilier, et toute personne dont l’un ou l’autre est responsable, de toute demande de quelque nature que ce soit qui découle d’un acte ou d’une omission qui survient pendant l’exercice du recours, à l’exception des demandes suivantes :
+
 1. Une demande de comptabilisation des sommes d’argent et des autres biens reçus par le gestionnaire de services ou le gestionnaire immobilier ou une personne dont l’un ou l’autre est responsable.
+
 2. Une demande qui résulte d’une négligence ou d’un acte malhonnête de la part du gestionnaire de services ou du gestionnaire immobilier ou d’une personne dont l’un ou l’autre est responsable.
 
 ### Dépenses du gestionnaire de services
 
 (16) Si le gestionnaire de services exerce le recours :
+
 a) il peut facturer au fournisseur de logements les dépenses qu’il engage à cette fin;
+
 b) le fournisseur de logements acquitte la somme facturée en vertu de l’alinéa a) au moment que précise le gestionnaire de services;
+
 c) la somme facturée en vertu de l’alinéa a) constitue une dette du fournisseur de logements envers le gestionnaire de services et peut être recouvrée par la réduction de tout subside exigé aux termes de l’article 78, ou au moyen de tout recours ou de toute procédure dont le gestionnaire de services peut se prévaloir en droit.
 
 ### Rémunération
@@ -1582,11 +1863,17 @@ c) la somme facturée en vertu de l’alinéa a) constitue une dette du fourniss
 ### Exigence relative aux conseillers
 
 (2) Le gestionnaire de services ne doit nommer un conseiller auprès d’un fournisseur de logements que s’il est d’avis :
+
 a) si le conseiller est un particulier, qu’il est bien renseigné sur la présente loi, sur le ou les programmes de logement transférés sous le régime desquels fonctionnent le ou les ensembles domiciliaires du fournisseur de logements, et :
+
 (i) sur la structure et le fonctionnement des sociétés de logement sans but lucratif, si le fournisseur de logements est une telle société,
+
 (ii) sur la structure et le fonctionnement des coopératives de logement sans but lucratif, si le fournisseur de logements est une telle coopérative;
+
 b) si le conseiller n’est pas un particulier, que son personnel est bien renseigné sur la présente loi, sur le ou les programmes de logement transférés sous le régime desquels fonctionnent le ou les ensembles domiciliaires du fournisseur de logements, et :
+
 (i) sur la structure et le fonctionnement des sociétés de logement sans but lucratif, si le fournisseur de logements est une telle société,
+
 (ii) sur la structure et le fonctionnement des coopératives de logement sans but lucratif, si le fournisseur de logements est une telle coopérative.
 
 ### Nomination aux termes d’un accord
@@ -1692,15 +1979,21 @@ b) si le conseiller n’est pas un particulier, que son personnel est bien rense
 ### Libération
 
 (16) Le fournisseur de logements est réputé libérer le gestionnaire de services et le séquestre intérimaire ou l’administrateur-séquestre intérimaire, et toute personne dont ils sont responsables, de toute demande de quelque nature que ce soit qui découle d’un acte ou d’une omission qui survient pendant le mandat du séquestre intérimaire ou de l’administrateur-séquestre intérimaire, à l’exception des demandes suivantes :
+
 1. Une demande de comptabilisation des sommes d’argent et des autres biens reçus par le séquestre intérimaire ou l’administrateur-séquestre intérimaire ou une personne dont l’un ou l’autre est responsable.
+
 2. Une demande qui résulte d’une négligence ou d’un acte malhonnête de la part du séquestre intérimaire ou de l’administrateur-séquestre intérimaire ou d’une personne dont l’un ou l’autre est responsable.
 
 ### Rapports au fournisseur de logements
 
 (17) Tous les trois mois, le séquestre intérimaire ou l’administrateur-séquestre intérimaire donne au fournisseur de logements et au gestionnaire de services un rapport écrit qui comprend ce qui suit :
+
 a) un résumé des mesures qu’il a prises pendant la période que vise le rapport;
+
 b) un résumé des mesures à venir qu’il propose de prendre;
+
 c) un résumé du fonctionnement du fournisseur de logements pendant la période que vise le rapport;
+
 d) une description générale de la situation financière du fournisseur de logements.
 
 ### Les mesures proposées ne lient pas le séquestre intérimaire ou l’administrateur-séquestre intérimaire
@@ -1742,7 +2035,9 @@ d) une description générale de la situation financière du fournisseur de loge
 ### Restrictions sur le transfert au gestionnaire de services
 
 (3) Un séquestre ou administrateur-séquestre ne doit pas transférer un ensemble domiciliaire désigné, sauf si, selon le cas :
+
 a) il a utilisé un processus ouvert et concurrentiel pour choisir le destinataire du transfert qui continuerait à exploiter l’ensemble aux termes du programme de logement transféré administré par le gestionnaire de services;
+
 b) il était d’avis qu’il ne serait pas raisonnable d’utiliser un tel processus.
 
 ### Nomination d’administrateurs
@@ -1764,7 +2059,9 @@ b) il était d’avis qu’il ne serait pas raisonnable d’utiliser un tel proc
 ### Exigences, qualités requises et inhabilité
 
 (5) Ne s’applique pas à l’égard d’un administrateur nommé ce qui suit :
+
 1. L’exigence voulant qu’un administrateur soit un actionnaire ou un membre du fournisseur de logements ou qu’il soit un actionnaire, un membre, un administrateur ou un employé d’un membre du fournisseur de logements, même s’il s’agit d’une exigence prévue par une disposition législative.
+
 2. Une qualité requise ou une inhabilité prévue par les statuts, lettres patentes, règlements administratifs ou documents de régie interne similaires du fournisseur de logements.
 
 ### Consultation préalable
@@ -1796,8 +2093,11 @@ b) il était d’avis qu’il ne serait pas raisonnable d’utiliser un tel proc
 ### Lois précisées
 
 (2) Les lois visées au paragraphe (1) sont les suivantes :
+
 1. La Loi de 2010 sur les organisations sans but lucratif.
+
 2. La Loi sur les sociétés par actions.
+
 3. La Loi sur les sociétés coopératives.
 
 ## partie VII.1 Ensembles domiciliaires visés par la partie VII.1
@@ -1805,17 +2105,25 @@ b) il était d’avis qu’il ne serait pas raisonnable d’utiliser un tel proc
 ### Définitions
 
 101.1 Les définitions qui suivent s’appliquent à la présente partie.
+
 «accord de cessation» Accord conclu entre un fournisseur de logements et un gestionnaire de services dans lequel ils prévoient qu’un ensemble domiciliaire cesse d’être un ensemble domiciliaire visé par la partie VII.1. («exit agreement»)
+
 «accord de services» Accord conclu entre un fournisseur de logements et un gestionnaire de services portant sur l’administration d’un ensemble domiciliaire visé par la partie VII.1. («service agreement»)
+
 «ensemble domiciliaire visé par la partie VII.1» Ensemble domiciliaire qui est devenu un ensemble domiciliaire visé par la partie VII.1 conformément à l’article 101.2, à l’exclusion d’un ensemble domiciliaire qui a cessé d’être un ensemble domiciliaire visé par la partie VII.1 conformément à l’article 101.7. («Part VII.1 housing project») 2020, chap. 16, annexe 2, art. 10.
 
 ### Ensemble domiciliaire visé par la partie VII.1
 
 101.2 (1) Un ensemble domiciliaire devient un ensemble domiciliaire visé par la partie VII.1 à une date fixée conformément aux règlements si les conditions suivantes sont réunies :
+
 a) le fournisseur de logements et le gestionnaire de services dans l’aire de service desquels l’ensemble domiciliaire est situé ont conclu un accord de services qui est conforme aux exigences prescrites;
+
 b) le fournisseur de logements et le gestionnaire de services ont avisé le ministre, conformément au paragraphe (3), de leur intention de faire en sorte que l’ensemble domiciliaire devienne un ensemble domiciliaire visé par la partie VII.1;
+
 c) au moment où l’avis est donné en application de l’alinéa b), l’ensemble domiciliaire est, selon le cas :
+
 (i) un ensemble domiciliaire désigné qui satisfait aux éventuels critères prescrits;
+
 (ii) un autre type d’ensemble domiciliaire prescrit.
 
 ### Accord de services : exigences prescrites
@@ -1825,8 +2133,11 @@ c) au moment où l’avis est donné en application de l’alinéa b), l’ensem
 ### Avis au ministre
 
 (3) L’avis prévu à l’alinéa (1) b) doit être, à la fois :
+
 a) donné conjointement par le fournisseur de logements et le gestionnaire de services par écrit;
+
 b) accompagné des documents et renseignements prescrits;
+
 c) conforme aux exigences prescrites.
 
 ### Cessation de la désignation de l’ensemble domiciliaire visé par la partie VII.1
@@ -1878,7 +2189,9 @@ c) conforme aux exigences prescrites.
 ### Résiliation
 
 (4) Le fournisseur de logements et le gestionnaire de services ne doivent pas résilier un accord de services, sauf, selon le cas :
+
 a) dans le cadre du remplacement de l’accord conformément au paragraphe (3);
+
 b) dans la mesure permise par les règlements.
 
 ### Nullité en cas de contravention au par. (3) ou (4)
@@ -1892,7 +2205,9 @@ b) dans la mesure permise par les règlements.
 ### Directives ministérielles
 
 101.6 (1) Le ministre peut donner des directives à l’égard de ce qui suit :
+
 a) l’administration des ensembles domiciliaires visés par la partie VII.1 par les gestionnaires de services;
+
 b) l’exploitation des ensembles domiciliaires visés par la partie VII.1 par les fournisseurs de logements et la gouvernance des fournisseurs de logements qui exploitent des ensembles domiciliaires visés par la partie VII.1.
 
 ### Catégories
@@ -1918,14 +2233,19 @@ b) l’exploitation des ensembles domiciliaires visés par la partie VII.1 par l
 ### Ensemble domiciliaire non plus visé par la partie VII.1
 
 101.7 (1) Un ensemble domiciliaire cesse d’être un ensemble domiciliaire visé par la partie VII.1 à une date fixée conformément aux règlements si les conditions suivantes sont réunies :
+
 a) le fournisseur de logements et le gestionnaire de services ont conclu un accord de cessation conforme aux exigences prescrites;
+
 b) le fournisseur de logements et le gestionnaire de services ont avisé le ministre, conformément au paragraphe (2), de leur intention de faire en sorte que l’ensemble domiciliaire cesse d’être un ensemble domiciliaire visé par la partie VII.1.
 
 ### Avis au ministre
 
 (2) L’avis prévu à l’alinéa (1) b) doit être, à la fois :
+
 a) donné conjointement par le fournisseur de logements et le gestionnaire de services par écrit;
+
 b) accompagné des documents et renseignements prescrits;
+
 c) conforme aux exigences prescrites.
 
 ## partie viii paiement de certAins coûts en matière de logement
@@ -1939,12 +2259,15 @@ c) conforme aux exigences prescrites.
 ### Subvention fédérale au logement
 
 (2) La définition qui suit s’applique au présent article.
+
 «subvention fédérale au logement» Somme reçue de la Couronne du chef du Canada ou de la Société canadienne d’hypothèques et de logement aux fins du financement des programmes de logement transférés.
 
 ### Sommes réparties entre les gestionnaires de services
 
 (3) Pour chaque année, le ministre fait ce qui suit :
+
 a) il détermine le total des subventions fédérales au logement pour l’année;
+
 b) il répartit le total visé à l’alinéa a) entre les gestionnaires de services.
 
 ### Avis des sommes réparties
@@ -1958,8 +2281,11 @@ b) il répartit le total visé à l’alinéa a) entre les gestionnaires de serv
 ### Déductions
 
 (6) Le ministre peut déduire des sommes de tout versement qui serait autrement payable au gestionnaire de services en application du paragraphe (5) conformément à ce qui suit :
+
 1. Le ministre peut déduire des sommes que la Société ontarienne d’hypothèques et de logement aurait dues, si elle n’avait pas été dissoute, à la Couronne du chef de l’Ontario à l’égard d’un ensemble domiciliaire aménagé sous le régime de la Loi nationale sur l’habitation (Canada) et situé dans l’aire de service du gestionnaire de services.
+
 2. Le ministre peut déduire des sommes pour effectuer des paiements à l’égard des sommes dues à la Société canadienne d’hypothèques et de logement au titre d’une débenture émise pour garantir les fonds pour immobilisations qu’elle a avancés à l’égard d’un ensemble domiciliaire aménagé sous le régime de la Loi nationale sur l’habitation (Canada) et situé dans l’aire de service du gestionnaire de services.
+
 3. Le ministre peut déduire des sommes pour payer une somme que doit le gestionnaire de services en application du paragraphe 106 (3) ou 107 (4).
 
 ### Avis des déductions
@@ -1977,8 +2303,11 @@ b) il répartit le total visé à l’alinéa a) entre les gestionnaires de serv
 ### Coûts permis
 
 (9) Sont des coûts permis pour l’application du paragraphe (8) les coûts qui, à la fois :
+
 a) sont engagés par le gestionnaire de services à l’égard d’un programme de logement transféré;
+
 b) sont engagés à l’égard de locaux d’habitation ou d’installations, d’aires communes ou de services utilisés directement avec ceux-ci;
+
 c) ne sont pas engagés à l’égard des utilisations non résidentielles, comme les utilisations commerciales ou institutionnelles, les services sociaux ou récréatifs et les services ou installations liés aux soins de santé physique ou mentale, à l’enseignement, aux services correctionnels, aux services d’alimentation, au soutien social ou aux loisirs publics.
 
 ### Coûts de la Province en matière de logement
@@ -1986,9 +2315,13 @@ c) ne sont pas engagés à l’égard des utilisations non résidentielles, comm
 ### Coûts de la Province en matière de logement – définition
 
 103 (1) Pour l’application des articles 104 à 108, les coûts de la Province en matière de logement pour une période donnée représentent les coûts engagés ou à engager par le ministre ou la Couronne du chef de l’Ontario à l’égard de cette période qui sont :
+
 a) soit des coûts relatifs à un programme de logement transféré;
+
 b) soit des coûts relatifs à un ensemble domiciliaire qui est ou était anciennement visé par un programme de logement transféré;
+
 c) soit des coûts relatifs à une hypothèque qui grève un ensemble domiciliaire qui est ou était anciennement visé par un programme de logement transféré, même si elle n’est pas liée à un tel programme;
+
 d) soit des coûts aux termes de l’entente sur le logement social, dans ses versions successives, datée du 15 novembre 1999, conclue entre la Société canadienne d’hypothèques et de logement et Sa Majesté la Reine du chef de la province de l’Ontario représentée par le ministre des Affaires municipales et du Logement.
 
 ### Précisions
@@ -2014,8 +2347,11 @@ d) soit des coûts aux termes de l’entente sur le logement social, dans ses ve
 ### Avis
 
 (2) Si un montant, autre qu’un montant nul, est attribué à un gestionnaire de services, le ministre lui donne un avis écrit précisant ce qui suit :
+
 a) le montant qui lui est attribué;
+
 b) la date à laquelle il est tenu de payer le montant;
+
 c) tout autre renseignement prescrit.
 
 ### Paiement
@@ -2033,8 +2369,11 @@ c) tout autre renseignement prescrit.
 ### Révision modifiant le montant attribué
 
 (3) Si une révision visée au paragraphe (1) entraînerait la modification du montant attribué à un gestionnaire de services, le ministre donne à ce dernier un avis écrit précisant ce qui suit :
+
 a) le montant révisé qui lui est attribué;
+
 b) si le montant qui lui est attribué est augmenté, la date à laquelle il est tenu de payer la différence;
+
 c) tout autre renseignement prescrit.
 
 ### Augmentation du montant attribué
@@ -2044,7 +2383,9 @@ c) tout autre renseignement prescrit.
 ### Réduction du montant attribué
 
 (5) S’il y a réduction du montant attribué au gestionnaire de services, le ministre des Finances :
+
 a) soit paie la différence au gestionnaire de services;
+
 b) soit déduit la différence de tout montant futur que le gestionnaire de services doit payer.
 
 ### Recouvrement des dettes
@@ -2056,7 +2397,9 @@ b) soit déduit la différence de tout montant futur que le gestionnaire de serv
 ### Coûts en matière de logement : définition
 
 109 (1) Pour l’application des articles 110 à 116, les coûts d’un gestionnaire de services en matière de logement pour une période donnée représentent la somme de ce qui suit :
+
 a) les coûts engagés ou à engager par le gestionnaire de services à l’égard de cette période pour l’administration et le financement de ses programmes de logement transférés;
+
 b) le montant attribué au gestionnaire de services pour cette période en application du paragraphe 106 (1).
 
 ### Exclusion
@@ -2082,8 +2425,11 @@ b) le montant attribué au gestionnaire de services pour cette période en appli
 ### Avis
 
 (4) Le gestionnaire de services donne à chaque municipalité visée au paragraphe (1) un avis écrit précisant ce qui suit :
+
 a) le montant qui lui est attribué;
+
 b) la date à laquelle elle est tenue de payer le montant;
+
 c) tout autre renseignement prescrit.
 
 ### Paiement
@@ -2117,9 +2463,13 @@ c) tout autre renseignement prescrit.
 ### Paiement du montant attribué au territoire non érigé en municipalité
 
 (5) Le ministre paie les montants suivants au gestionnaire de services, conformément aux règlements :
+
 a) le montant attribué au territoire non érigé en municipalité;
+
 b) tout montant exclu en application du paragraphe 109 (2) s’il s’agit :
+
 (i) d’une part, d’un coût relatif à un programme de logement transféré,
+
 (ii) d’autre part, d’un coût engagé ou à engager à l’égard d’une municipalité qui, en application du paragraphe (6), est réputée faire partie du territoire non érigé en municipalité.
 
 ### Assimilation d’une municipalité au territoire non érigé en municipalité
@@ -2129,11 +2479,17 @@ b) tout montant exclu en application du paragraphe 109 (2) s’il s’agit :
 ### Règlements sur la répartition
 
 113 Les règles suivantes s’appliquent à l’égard des règlements visés aux paragraphes 111 (3) et 112 (3) qui se rapportent à la répartition des coûts du gestionnaire de services en matière de logement :
+
 1. Les règlements peuvent prévoir que la répartition est effectuée conformément à la méthode qu’ils précisent.
+
 2. Les règlements peuvent prévoir que la répartition est effectuée conformément au processus d’arbitrage qu’ils précisent.
+
 3. Les règlements peuvent prévoir que la répartition est effectuée :
+
 i. s’il s’agit d’une municipalité gestionnaire de services, conformément à un accord entre le gestionnaire de services et chaque municipalité visée au paragraphe 111 (1),
+
 ii. s’il s’agit d’un conseil gestionnaire de services, conformément à la méthode établie par le gestionnaire de services.
+
 4. Les règlements peuvent prévoir que la répartition est effectuée conformément à la méthode provisoire qu’ils précisent jusqu’à ce que l’arbitrage visé à la disposition 2 soit achevé ou que l’accord visé à la sous-disposition 3 i soit conclu. Ils peuvent également prévoir le rapprochement, après que l’arbitrage est achevé ou que l’accord est conclu, des montants payés de façon provisoire.
 
 ### Révisions des coûts ou de la répartition
@@ -2155,13 +2511,17 @@ ii. s’il s’agit d’un conseil gestionnaire de services, conformément à la
 ### Réduction du montant attribué
 
 (5) S’il y a réduction du montant attribué à une municipalité, le gestionnaire de services :
+
 a) soit paie la différence à la municipalité;
+
 b) soit déduit la différence de tout montant futur que la municipalité doit payer.
 
 ### Modification du montant attribué : territoire non érigé en municipalité
 
 (6) Les règles suivantes s’appliquent si une révision visée au paragraphe (1) entraînerait la modification du montant attribué à un territoire non érigé en municipalité en application du paragraphe 112 (3), y compris à une municipalité qui est réputée faire partie d’un tel territoire en application du paragraphe 112 (6) :
+
 1. S’il y a augmentation du montant, le ministre paie la différence au gestionnaire de services conformément aux règlements.
+
 2. S’il y a réduction du montant, le gestionnaire de services paie la différence au ministre conformément aux règlements.
 
 ### Intérêts et pénalités
@@ -2189,11 +2549,13 @@ b) soit déduit la différence de tout montant futur que la municipalité doit p
 ### Gestionnaire de services du GT
 
 117 La définition qui suit s’applique aux articles 118 et 119.
+
 «gestionnaire de services du GT» Tout gestionnaire de services dont l’aire de service est située dans la zone géographique constituée par la cité de Toronto et les municipalités régionales de Durham, de Halton, de Peel et de York.
 
 ### Non révision des coûts
 
 118 L’article 114 ne s’applique pas à l’égard des gestionnaires de services du GT. 2011, chap. 6, annexe 1, art. 118.
+
 119 Abrogé : 2011, chap. 6, annexe 1, par. 119 (8).
 
 ## partie ix Société des services de logement
@@ -2203,6 +2565,7 @@ b) soit déduit la différence de tout montant futur que la municipalité doit p
 ### Définition
 
 120 La définition qui suit s’applique à la présente partie.
+
 «Société» La Société des services de logement prorogée par l’article 121.
 
 ### Prorogation, objets, pouvoirs
@@ -2214,9 +2577,13 @@ b) soit déduit la différence de tout montant futur que la municipalité doit p
 ### Objets de la Société
 
 122 Les objets de la Société sont les suivants :
+
 1. Améliorer le fonctionnement, l’efficacité et la durabilité à long terme des fournisseurs de logements qui fournissent des logements aux ménages à moyen et à faible revenu.
+
 2. Améliorer la gestion, l’entretien et la durabilité et la viabilité à long terme des actifs corporels des fournisseurs de logements qui fournissent des logements aux ménages à moyen et à faible revenu.
+
 3. Améliorer la qualité de vie des résidents des logements destinés aux ménages à moyen et à faible revenu.
+
 4. Les autres objets prescrits.
 
 ### Pouvoirs d’une personne physique
@@ -2226,10 +2593,15 @@ b) soit déduit la différence de tout montant futur que la municipalité doit p
 ### Activités obligatoires
 
 124 La Société fait ce qui suit :
+
 a) elle crée et gère des programmes d’assurance pour les membres prescrits pour l’application du présent alinéa;
+
 b) elle crée et gère des régimes de mise en commun des fonds de réserve pour immobilisations pour les membres qui sont des fournisseurs de logements et qui sont prescrits pour l’application du présent alinéa;
+
 c) elle crée et gère des régimes d’achat en commun de gaz naturel par les membres qui sont des fournisseurs de logements et qui sont prescrits pour l’application du présent alinéa;
+
 d) elle effectue des recherches et conseille la Province de l’Ontario, les gestionnaires de services et les fournisseurs de logements à l’égard de l’établissement et de l’utilisation de mesures de performance et de bonnes pratiques pour la fourniture efficiente et efficace et la durabilité et la viabilité à long terme des logements destinés aux ménages à moyen et à faible revenu;
+
 e) elle exerce les autres activités prescrites.
 
 ### Pas un mandataire de la Couronne
@@ -2245,10 +2617,15 @@ e) elle exerce les autres activités prescrites.
 ### Membres
 
 127 Sont membres de la Société :
+
 a) tous les gestionnaires de services;
+
 b) toutes les sociétés locales de logement;
+
 c) les fournisseurs de logements qui sont des personnes morales sans but lucratif et qui sont prescrits pour l’application du présent alinéa;
+
 d) les fournisseurs de logements qui sont des coopératives de logement sans but lucratif au sens de la Loi sur les sociétés coopératives et qui sont prescrits pour l’application du présent alinéa;
+
 e) les fournisseurs de logements ou autres personnes qui satisfont aux exigences prescrites pour l’application du présent alinéa.
 
 ### Administrateurs et dirigeants
@@ -2260,13 +2637,21 @@ e) les fournisseurs de logements ou autres personnes qui satisfont aux exigences
 ### Composition
 
 (2) Le conseil d’administration se compose des personnes suivantes :
+
 1. Deux administrateurs nommés par le ministre.
+
 2. Un administrateur choisi par la cité de Toronto.
+
 3. Un administrateur choisi conjointement par les municipalités régionales de Durham, de Halton, de Peel et de York.
+
 4. Un administrateur choisi conjointement par la cité de Toronto et les municipalités régionales de Durham, de Halton, de Peel et de York.
+
 5. Un administrateur choisi conjointement par les conseils gestionnaires de services.
+
 6. Quatre administrateurs choisis conjointement par les gestionnaires de services.
+
 7. Trois administrateurs choisis conjointement par les fournisseurs de logements visés à l’alinéa 127 c).
+
 8. Deux administrateurs choisis conjointement par les fournisseurs de logements visés à l’alinéa 127 d).
 
 ### Processus de sélection
@@ -2296,13 +2681,17 @@ e) les fournisseurs de logements ou autres personnes qui satisfont aux exigences
 ### Destitution par le conseil d’administration
 
 131 Le conseil d’administration peut destituer tout administrateur qui, selon le cas :
+
 a) est incapable d’exercer ses fonctions;
+
 b) n’exerce pas ses fonctions pendant une période de 90 jours ou plus.
 
 ### Administrateur qui cesse d’être membre d’un conseil municipal
 
 132 Tout administrateur choisi en application des dispositions 2 à 8 du paragraphe 128 (2) cesse d’être administrateur si :
+
 a) d’une part, lorsqu’il a été choisi, il était membre du conseil municipal ou du conseil d’administration de l’entité ou d’une des entités qui l’ont choisi;
+
 b) d’autre part, il cesse d’être membre de ce conseil municipal ou conseil d’administration.
 
 ### Démission
@@ -2312,7 +2701,9 @@ b) d’autre part, il cesse d’être membre de ce conseil municipal ou conseil 
 ### Vacances
 
 134 (1) Si une vacance se produit au sein du conseil d’administration, un remplaçant peut être nommé :
+
 a) par le ministre, s’il a nommé l’administrateur devant être remplacé;
+
 b) par le conseil d’administration de la Société, dans tous les autres cas.
 
 ### Consultation préalable aux nominations
@@ -2406,7 +2797,9 @@ b) par le conseil d’administration de la Société, dans tous les autres cas.
 ### Tenue des élections
 
 (3) Le chef de la direction tient les élections suivantes :
+
 a) l’élection du président en application du paragraphe 135 (1);
+
 b) l’élection du remplaçant du président en application du paragraphe 135 (5).
 
 ### Conflit d’intérêts : administrateurs et dirigeants
@@ -2456,7 +2849,9 @@ b) l’élection du remplaçant du président en application du paragraphe 135 (
 ### Exigences particulières
 
 (2) Sans préjudice des autres programmes et activités auxquels elle peut être tenue de participer en application du paragraphe (1), toute société locale de logement participe à ce qui suit, sauf si le ministre consent par écrit à sa non-participation :
+
 1. Les programmes d’assurance visés à l’alinéa 124 a).
+
 2. Les régimes d’achat en commun de gaz naturel visés à l’alinéa 124 c).
 
 ### Rapport annuel
@@ -2490,7 +2885,9 @@ b) l’élection du remplaçant du président en application du paragraphe 135 (
 ### Application de certaines lois municipales
 
 154 Les règles suivantes s’appliquent à la Société :
+
 1. La Société est réputée une institution pour l’application de la Loi sur l’accès à l’information municipale et la protection de la vie privée.
+
 2. La Société est réputée un conseil local pour l’application de la Loi de 2006 sur le Régime de retraite des employés municipaux de l’Ontario. Toutefois, l’article 7 de cette loi ne s’applique ni à la Société ni à ses employés.
 
 ## partie x divers
@@ -2508,7 +2905,9 @@ b) l’élection du remplaçant du président en application du paragraphe 135 (
 ### Exigences
 
 (3) Le processus prévoit ce qui suit :
+
 a) un organe de révision, et notamment les règles ayant trait à la nomination et à la destitution des membres et à leur rémunération;
+
 b) les règles régissant les révisions.
 
 ### Exigences prescrites
@@ -2518,14 +2917,23 @@ b) les règles régissant les révisions.
 ### Révisions demandées par les ménages
 
 156 Un membre d’un ménage peut, au nom du ménage, demander la révision des décisions suivantes :
+
 1. La décision, prise en application du paragraphe 45 (1), portant que le ménage n’est pas admissible à une aide sous forme de loyer indexé sur le revenu.
+
 2. La décision, prise en application du paragraphe 46 (1), concernant la grandeur et le type de logement qui seraient permis si le ménage recevait une aide sous forme de loyer indexé sur le revenu.
+
 3. La décision, prise en application du paragraphe 48 (1), portant que le ménage n’est pas inclus dans une catégorie qui a la priorité sur d’autres.
+
 4. La détermination, faite en application du paragraphe 50 (1), du montant du loyer payable par le ménage.
+
 5. La décision, prise en application du paragraphe 52 (1), portant que le ménage n’est plus admissible à une aide sous forme de loyer indexé sur le revenu.
+
 6. La décision, prise en application du paragraphe 61 (1), portant que le ménage n’est pas admissible à un logement adapté.
+
 7. La décision, prise en application du paragraphe 63 (1), portant que le ménage n’est pas inclus dans une catégorie qui a la priorité sur d’autres.
+
 8. La décision, prise en application du paragraphe 65 (1), portant que le ménage n’est plus admissible à un logement adapté.
+
 9. Toute décision prescrite pour l’application de la présente disposition.
 
 ### Révisions demandées par les fournisseurs de logements
@@ -2535,24 +2943,35 @@ b) les règles régissant les révisions.
 ### Règles régissant les révisions
 
 158 Les règles suivantes s’appliquent aux révisions demandées en vertu de l’article 156 ou 157 :
+
 1. L’organe de révision peut substituer sa décision à celle qui a fait l’objet de la révision.
+
 2. L’organe de révision donne sa décision motivée par écrit.
+
 3. L’organe de révision donne avis de sa décision et des motifs de celle-ci aux personnes suivantes :
+
 i. la personne qui a demandé la révision,
+
 ii. la personne qui a pris la décision faisant l’objet de la révision,
+
 iii. tout fournisseur de logements à qui un avis de la décision faisant l’objet de la révision a été donné en application du paragraphe 53 (2) ou 66 (2).
+
 4. La Loi sur l’exercice des compétences légales ne s’applique pas.
 
 ### Date de prise d’effet des décisions
 
 159 (1) La date de prise d’effet des décisions suivantes est fixée conformément aux règlements :
+
 1. Les décisions pour lesquelles une révision peut être demandée en vertu de l’article 156 ou 157.
+
 2. Les décisions prises par l’organe de révision qui effectue une révision demandée en vertu de l’article 156 ou 157.
 
 ### Règlements
 
 (2) Sans limiter ce qu’ils peuvent prévoir, les règlements peuvent prévoir qu’une décision prend effet :
+
 a) soit à la date que précise la personne ou l’entité qui la prend;
+
 b) soit à une date antérieure à celle où elle est prise.
 
 ### Restrictions applicables à certains ensembles domiciliaires et à certains biens-fonds
@@ -2560,8 +2979,11 @@ b) soit à une date antérieure à celle où elle est prise.
 ### Définitions
 
 160 Les définitions qui suivent s’appliquent aux articles 161 à 165.
+
 «aménager» S’entend en outre de réaménager. («develop»)
+
 «hypothéquer» S’entend en outre de grever de quelque façon que ce soit et de prolonger ou de modifier une hypothèque ou un grèvement. («mortgage»)
+
 «transférer» S’entend en outre de transférer ou de concéder un intérêt, y compris un intérêt à bail. («transfer») 2011, chap. 6, annexe 1, art. 160.
 
 ### Transfert aux termes d’un décret de transfert ou de mutation
@@ -2579,14 +3001,19 @@ b) soit à une date antérieure à celle où elle est prise.
 ### Exceptions prescrites
 
 (4) Les règles suivantes s’appliquent à l’égard de toute opération ou activité prescrite pour l’application du présent paragraphe :
+
 1. Le consentement n’est pas requis en application du paragraphe (2) pour l’opération ou l’activité.
+
 2. Si un document est destiné à être enregistré ou déposé sous le régime de la Loi sur l’enregistrement des actes ou de la Loi sur l’enregistrement des droits immobiliers à l’égard d’une opération visée par la dispense prévue à la disposition 1, le document comprend une déclaration énonçant la raison pour laquelle le consentement n’est pas requis en application du paragraphe (2).
+
 3. La déclaration visée à la disposition 2 est réputée une preuve concluante des faits qui y sont énoncés lorsqu’il s’agit de décider si le consentement n’est pas requis en application du paragraphe (2).
 
 ### Disposition transitoire : déclarations sur le titre
 
 (5) Les règles suivantes s’appliquent à toute déclaration énonçant les restrictions imposées par l’article 50 de l’ancienne loi qui est comprise dans un document enregistré ou déposé en application de l’article 43 de l’ancienne loi :
+
 1. Les mentions des restrictions imposées par l’article 50 de l’ancienne loi sont réputées des mentions de celles imposées par le paragraphe (2).
+
 2. Toute mention du consentement du ministre est réputée une mention du consentement requis en application du paragraphe (2).
 
 ### Déclarations sur le titre sans effet
@@ -2596,7 +3023,9 @@ b) soit à une date antérieure à celle où elle est prise.
 ### Certains ensembles domiciliaires
 
 162 (1) Le présent article s’applique à l’égard des ensembles domiciliaires suivants :
+
 a) les ensembles domiciliaires visés par la partie VII au sens de l’article 73;
+
 b) les ensembles domiciliaires désignés à l’égard desquels s’applique un accord d’exploitation antérieur à la réforme.
 
 ### Consentement requis pour certaines opérations
@@ -2606,7 +3035,9 @@ b) les ensembles domiciliaires désignés à l’égard desquels s’applique un
 ### Idem : ministre
 
 (3) Dans le cas d’un transfert de l’ensemble domiciliaire ou du bien-fonds où il est situé, le consentement écrit requis en application du paragraphe (2) est celui du ministre dans l’un ou l’autre des cas suivants :
+
 a) un séquestre ou un administrateur-séquestre pour le fournisseur de logements a été nommé en vertu de la disposition 7 de l’article 85;
+
 b) le conseil d’administration du fournisseur de logements comprend un ou plusieurs administrateurs nommés en vertu de la disposition 9 de l’article 85.
 
 ### Exceptions prescrites
@@ -2616,8 +3047,11 @@ b) le conseil d’administration du fournisseur de logements comprend un ou plus
 ### Disposition transitoire : déclarations sur le titre
 
 (5) Les règles suivantes s’appliquent à une déclaration énonçant les restrictions imposées par l’article 95 de l’ancienne loi qui est comprise dans un document enregistré ou déposé en application de l’article 96 de l’ancienne loi :
+
 1. Les mentions des restrictions imposées par l’article 95 de l’ancienne loi sont réputées des mentions des restrictions imposées par les paragraphes (2) et (3).
+
 2. Toute mention du consentement du gestionnaire de services et du ministre est réputée une mention du consentement requis en application du paragraphe (2).
+
 3. Toute mention des exceptions prévues à l’article 95 de l’ancienne loi est réputée une mention des exceptions prévues au paragraphe (4).
 
 ### Déclarations sur le titre sans effet
@@ -2639,7 +3073,9 @@ b) le conseil d’administration du fournisseur de logements comprend un ou plus
 ### Renonciation à l’avis ou abrégement du délai
 
 (4) Le ministre peut, à n’importe quel moment, par écrit :
+
 a) soit renoncer à l’avis visé au paragraphe (2);
+
 b) soit abréger le délai prévu pour donner l’avis visé au paragraphe (2).
 
 ### Consentement du ministre à la place du gestionnaire de services
@@ -2663,7 +3099,9 @@ b) soit abréger le délai prévu pour donner l’avis visé au paragraphe (2).
 ### Fournisseurs de logements visés
 
 166 (1) Le présent article s’applique à l’égard de tout fournisseur de logements qui est une personne morale et qui exploite :
+
 a) soit un ensemble domiciliaire visé par la partie VII au sens de l’article 73;
+
 b) soit un ensemble domiciliaire désigné à l’égard duquel s’applique un accord d’exploitation antérieur à la réforme.
 
 ### Modification des statuts
@@ -2703,27 +3141,41 @@ b) soit un ensemble domiciliaire désigné à l’égard duquel s’applique un 
 ### Exclusion de certains textes législatifs
 
 167 (1) Sous réserve des conditions et restrictions prescrites, les textes législatifs suivants ne s’appliquent pas aux transferts visés au paragraphe (2) :
+
 1. La Loi sur les cessions et préférences.
+
 2. Abrogée : 2017, chap. 2, annexe 3, par. 5 (2).
+
 3. La Loi sur les évaluations environnementales.
+
 4. La Loi sur les cessions en fraude des droits des créanciers.
+
 5. La Loi sur les droits de cession immobilière.
+
 6. La Loi sur la taxe de vente au détail.
+
 7. Les autres lois, ou dispositions de lois, qui sont prescrites pour l’application de la présente disposition.
+
 8. Les règlements, ou dispositions de règlements, qui sont prescrits pour l’application de la présente disposition.
 
 ### Transferts exclus
 
 (2) Le paragraphe (1) s’applique aux transferts suivants :
+
 1. Le transfert d’un bien, d’une dette, d’un droit ou d’une obligation qui a été transféré à une société locale de logement par un décret de transfert ou de mutation pris en vertu de la partie IV de l’ancienne loi, si le transfert se fait de la société locale de logement à l’une des entités suivantes :
+
 i. le gestionnaire de services lié au sens de l’article 24,
+
 ii. une municipalité située dans l’aire de service du gestionnaire de services lié, sauf une municipalité qui fait partie du gestionnaire de services aux fins municipales,
+
 iii. une personne morale sans but lucratif sous le contrôle d’une entité visée à la sous-disposition i ou ii, à condition toutefois que la fourniture de logements soit un de ses objets.
+
 2. Un transfert qui se rapporte au logement et qui est prescrit pour l’application de la présente disposition.
 
 ### Pouvoir de prescrire des transferts
 
 (3) Un transfert peut être prescrit pour l’application de la disposition 2 du paragraphe (2) même s’il ne s’agit pas du transfert d’un bien, d’une dette, d’un droit ou d’une obligation qui a été transféré par un décret de transfert ou de mutation pris en vertu de la partie IV de l’ancienne loi, ou même si une entité visée à la disposition 1 du paragraphe (2) en n’est pas l’auteur ou le destinataire.
+
 168 Abrogé : Voir Tableau des dispositions de lois d’intérêt public abrogées en application de l’article 10.1 de la Loi de 2006 sur la législation.
 
 ### Traitement des renseignements
@@ -2739,8 +3191,11 @@ iii. une personne morale sans but lucratif sous le contrôle d’une entité vis
 ### Divulgation : institutions
 
 170 (1) Si la présente loi ou les règlements autorisent la divulgation de renseignements par ou à une institution, au sens de la Loi sur l’accès à l’information et la protection de la vie privée ou de la Loi sur l’accès à l’information municipale et la protection de la vie privée :
+
 a) le paragraphe 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée et le paragraphe 29 (2) de la Loi sur l’accès à l’information municipale et la protection de la vie privée ne s’appliquent pas, à l’égard de ces renseignements, à l’institution à laquelle ils sont divulgués;
+
 b) les renseignements sont réputés avoir été divulgués afin de se conformer au présent article;
+
 c) les renseignements sont réputés avoir été obtenus ou recueillis par l’institution à une fin compatible avec celle pour laquelle ils ont été obtenus ou recueillis à l’origine.
 
 ### Contrôle des documents
@@ -2750,30 +3205,47 @@ c) les renseignements sont réputés avoir été obtenus ou recueillis par l’i
 ### Conclusion d’ententes par le ministre : renseignements
 
 171 (1) Le ministre peut conclure avec l’un ou l’autre des gouvernements ou entités suivants une entente à l’égard de la collecte, de l’utilisation et de la divulgation de renseignements :
+
 1. Le gouvernement du Canada ou un de ses ministères ou organismes.
+
 2. Le gouvernement d’une province ou d’un territoire du Canada, ou un de ses ministères ou organismes.
+
 3. Le gouvernement des États-Unis ou le gouvernement d’un État des États-Unis ou un des ministères ou organismes de l’un ou l’autre de ces gouvernements.
+
 4. Le gouvernement d’un autre pays ou un de ses ministères ou organismes.
+
 5. Une institution au sens de la Loi sur l’accès à l’information et la protection de la vie privée ou de la Loi sur l’accès à l’information municipale et la protection de la vie privée.
+
 6. Toute autre entité prescrite.
 
 ### Divulgation de renseignements personnels
 
 (2) Le ministre peut divulguer à une partie à l’entente visée au paragraphe (1) les renseignements personnels recueillis aux fins de l’application ou de l’exécution de la présente loi et des règlements si les conditions suivantes sont réunies :
+
 a) la divulgation est faite conformément à l’entente;
+
 b) la partie administre, applique ou exécute un des programmes suivants ou une des lois suivantes ou effectue des recherches à son égard :
+
 (i) un régime de prestations sociales,
+
 (ii) un programme de logement social ou d’aide sous forme de loyer indexé sur le revenu,
+
 (iii) la Loi de 2007 sur les impôts, la Loi de l’impôt sur le revenu ou la Loi de l’impôt sur le revenu (Canada),
+
 (iv) la Loi sur l’immigration et la protection des réfugiés (Canada),
+
 (v) une loi prescrite;
+
 c) la partie convient de n’utiliser les renseignements qu’aux fins de l’administration, de l’application, de l’exécution ou des recherches visées à l’alinéa b).
 
 ### Avis non obligatoire
 
 (3) Le paragraphe 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée et le paragraphe 29 (2) de la Loi sur l’accès à l’information municipale et la protection de la vie privée ne s’appliquent pas à l’égard des renseignements recueillis aux termes d’une entente conclue en vertu du paragraphe (1) si, selon le cas :
+
 a) les renseignements ont été recueillis par comparaison de données;
+
 b) la remise d’un avis au particulier pourrait avoir pour effet de contrecarrer une enquête;
+
 c) la remise d’un avis au particulier n’est pas possible.
 
 ### Collecte de renseignements personnels
@@ -2783,7 +3255,9 @@ c) la remise d’un avis au particulier n’est pas possible.
 ### Divulgation par une institution
 
 (5) Une institution visée à la disposition 5 du paragraphe (1) qui est partie à l’entente visée au paragraphe (1) peut divulguer des renseignements personnels au ministre, à un gestionnaire de services ou à un fournisseur de logements si :
+
 a) d’une part, la divulgation est faite conformément à l’entente;
+
 b) d’autre part, les renseignements sont nécessaires à des fins liées aux pouvoirs et aux fonctions que la présente loi attribue au ministre, au gestionnaire de services ou au fournisseur de logements.
 
 ### Dispositions d’autres lois ayant trait au caractère confidentiel
@@ -2801,13 +3275,21 @@ b) d’autre part, les renseignements sont nécessaires à des fins liées aux p
 ### Divulgation de renseignements personnels
 
 (2) Le gestionnaire de services peut divulguer à une partie à l’entente visée au paragraphe (1) des renseignements personnels recueillis pour l’application ou l’exécution de la présente loi et des règlements si les conditions suivantes sont réunies :
+
 a) la divulgation est faite conformément à l’entente;
+
 b) la partie administre, applique ou exécute un des programmes suivants ou une des lois suivantes ou effectue des recherches à son égard :
+
 (i) un régime de prestations sociales,
+
 (ii) un programme de logement social ou d’aide sous forme de loyer indexé sur le revenu,
+
 (iii) la Loi de 2007 sur les impôts, la Loi de l’impôt sur le revenu ou la Loi de l’impôt sur le revenu (Canada),
+
 (iv) la Loi sur l’immigration et la protection des réfugiés (Canada),
+
 (v) une loi prescrite;
+
 c) la partie convient de n’utiliser les renseignements qu’aux fins de l’administration, de l’application, de l’exécution ou des recherches visées à l’alinéa b).
 
 ### Collecte de renseignements personnels
@@ -2821,8 +3303,11 @@ c) la partie convient de n’utiliser les renseignements qu’aux fins de l’ad
 ### Protection des renseignements
 
 (2) L’entente prévoit ce qui suit en ce qui concerne les renseignements personnels recueillis, utilisés ou divulgués aux termes de celle-ci :
+
 a) leur caractère confidentiel;
+
 b) un mécanisme de maintien de leur caractère confidentiel et de leur sécurité;
+
 c) les règles s’appliquant à leur disposition.
 
 ### Nom de particuliers
@@ -2836,14 +3321,19 @@ c) les règles s’appliquant à leur disposition.
 ### Communication des renseignements
 
 174 (1) Le ministre, la Société des services de logement, les gestionnaires de services, les délégataires visés à l’article 17, les fournisseurs de logements et les personnes ou organismes qui fournissent des services à contrat à l’une de ces personnes ou entités peuvent communiquer des renseignements personnels les uns aux autres ou aux autres personnes précisées au paragraphe (2) si :
+
 a) d’une part, les renseignements ont été recueillis en vertu de la présente loi, de la Loi de 1997 sur le programme Ontario au travail, de la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées, de la Loi de 2014 sur la garde d’enfants et la petite enfance ou de la Loi sur les garderies ;
+
 b) d’autre part, les renseignements sont nécessaires afin de prendre des décisions ou de vérifier l’admissibilité à l’aide en application de la présente loi ou des autres lois mentionnées à l’alinéa a).
 
 ### Autres personnes
 
 (2) Les autres personnes visées au paragraphe (1) sont les suivantes :
+
 1. Le directeur nommé en application de la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées et quiconque exerce ses pouvoirs et fonctions en vertu de l’article 37 ou 39 de cette loi.
+
 2. Le directeur nommé en application de la Loi de 1997 sur le programme Ontario au travail et quiconque exerce ses pouvoirs et fonctions en vertu de l’article 47 de cette loi.
+
 3. Un directeur nommé en application de la Loi de 2014 sur la garde d’enfants et la petite enfance.
 
 ### Restriction : renseignements personnels prescrits
@@ -2853,9 +3343,13 @@ b) d’autre part, les renseignements sont nécessaires afin de prendre des déc
 ### Avis
 
 176 Le gestionnaire de services ou l’administrateur de logements adaptés au sens de l’article 38 qui recueille des renseignements personnels auprès d’un ménage dans l’exercice des fonctions que lui attribue la présente loi fait ce qui suit :
+
 a) il avise le ménage que les renseignements qu’il fournit peuvent être communiqués :
+
 (i) soit dans la mesure nécessaire pour prendre des décisions ou vérifier l’admissibilité à l’aide en application de la présente loi, de la Loi de 1997 sur le programme Ontario au travail, de la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées ou de la Loi de 2014 sur la garde d’enfants et la petite enfance,
+
 (ii) soit conformément à une entente conclue en vertu de l’article 171 ou 172;
+
 b) il communique au ménage les nom, adresse et numéro de téléphone d’affaires d’une personne qui peut le renseigner au sujet de la collecte, de l’utilisation ou de la divulgation des renseignements et qui peut donner suite à ses plaintes à cet égard.
 
 ### Mécanisme provincial de refinancement pour les fournisseurs de logements
@@ -2881,7 +3375,9 @@ b) il communique au ménage les nom, adresse et numéro de téléphone d’affai
 ### Application de l’ancienne loi
 
 (2) Aux fins du décret de transfert ou de mutation pris ou modifié en application du paragraphe (1) :
+
 a) la partie IV de l’ancienne loi, à l’exception de l’article 50 et des paragraphes 61 (2) et (3), est réputée demeurer en vigueur pendant la période de deux ans qui suit l’abrogation de cette loi;
+
 b) la mention de l’article 50 à la sous-disposition 2 vi du paragraphe 43 (1) de l’ancienne loi, telle qu’elle s’applique aux termes de l’alinéa a), est réputée une mention de l’article 161 de la présente loi.
 
 ### Incompatibilité avec d’autres lois
@@ -2895,15 +3391,21 @@ b) la mention de l’article 50 à la sous-disposition 2 vi du paragraphe 43 (1)
 ### Règlements
 
 181 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire ou prévoir autrement tout ce que la présente loi, sauf les dispositions mentionnées à l’alinéa 182 a), exige ou permet que soit prescrit ou prévu autrement dans les règlements, y compris régir tout ce qui doit ou peut être accompli conformément aux règlements;
+
 b) soustraire des personnes, des lieux ou des choses, ou des combinaisons ou catégories de ceux-ci, à l’application d’une disposition de la présente loi ou des règlements et prescrire les conditions ou restrictions applicables à ces dispenses;
+
 c) prévoir les questions transitoires que le lieutenant-gouverneur en conseil estime nécessaires ou souhaitables relativement à la mise en application de la présente loi ou des règlements.
 
 ### Règlements de transition
 
 (2) Les règlements pris en vertu de l’alinéa (1) c) peuvent :
+
 a) prévoir que, malgré la proclamation de la présente loi ou d’une de ses dispositions, la présente loi ou la disposition ne prend effet dans tout ou partie de la province qu’à la date qu’ils précisent;
+
 b) prévoir que l’ancienne loi ou une de ses dispositions continue de s’appliquer, pendant une période déterminée et avec les adaptations nécessaires, aux choses précisées ou dans les circonstances précisées;
+
 c) préciser que, pendant une période déterminée, une personne peut exercer les pouvoirs ou doit exercer les fonctions à la place de la personne à qui la présente loi ou une autre loi les attribue, et prévoir que les mesures que prend la personne qui exerce ces pouvoirs ou fonctions à la place de l’autre personne sont réputées, pour l’application de la loi pertinente, des mesures prises par celle-ci.
 
 ### Règlements de transition : modifications de 2016
@@ -2925,14 +3427,19 @@ c) préciser que, pendant une période déterminée, une personne peut exercer l
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les règlements peuvent prévoir que :
+
 a) malgré le fait que l’ensemble domiciliaire cesse d’être désigné, certaines dispositions de la Loi continuent de s’appliquer au fournisseur de logements ou au gestionnaire de services à l’égard de l’ensemble domiciliaire, pendant une période déterminée et avec les adaptations nécessaires, dans les circonstances précisées;
+
 b) malgré le fait que l’ensemble domiciliaire cesse d’être visé par un programme de logement transféré, certaines dispositions de la Loi concernant de tels programmes continuent de s’appliquer à l’égard des droits et obligations d’un ménage qui occupait déjà un logement de l’ensemble.
 
 ### Règlements pris par le ministre
 
 182 Le ministre peut, par règlement :
+
 a) prescrire ou prévoir autrement tout ce que l’article 35.2, le paragraphe 40 (4) ou 68 (1) ou l’article 78 ou 164 exige ou permet que soit prescrit ou prévu autrement dans les règlements, y compris régir tout ce qui doit ou peut être accompli conformément aux règlements;
+
 b) soustraire des personnes, des lieux ou des choses, ou des combinaisons ou catégories de ceux-ci, à l’application d’une disposition des règlements pris par le ministre et prescrire les conditions ou restrictions applicables à ces dispenses;
+
 c) prévoir, à l’égard d’un règlement pris par le ministre, les questions transitoires qu’il estime nécessaires ou souhaitables relativement à sa mise en application.
 
 ### Conditions et restrictions
@@ -2942,10 +3449,13 @@ c) prévoir, à l’égard d’un règlement pris par le ministre, les questions
 ## partie XI (omise)
 
 184 Omis (modification ou abrogation d’autres textes législatifs).
+
 185 Omis (modification de la présente loi).
+
 186 à 188 Omis (modification ou abrogation d’autres textes législatifs).
 
 ## partie xii (omise)
 
 189 Omis (entrée en vigueur de dispositions de la présente loi).
+
 190 Omis (édiction du titre abrégé de la présente loi).

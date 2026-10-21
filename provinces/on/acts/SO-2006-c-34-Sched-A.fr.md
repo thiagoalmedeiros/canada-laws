@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2019-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06a34"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Archives publiques et la conservation des documents (Loi de 2006 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06a34) before relying on it.
 
 L.O. 2006, chap. 34, annexe A
 
@@ -23,41 +23,69 @@ Période de codification : du 1 er juillet 2019 à la date à laquelle Lois-en-l
 ### Objets de la Loi
 
 1 Les objets de la présente loi sont les suivants :
+
 a) veiller à ce que les documents publics de l’Ontario soient gérés, conservés et préservés sous une forme utilisable au profit des générations présentes et futures;
+
 b) favoriser la responsabilisation et la transparence du gouvernement et soutenir une administration gouvernementale efficace en encourageant et en facilitant la bonne conservation des documents par les organismes publics;
+
 c) encourager l’utilisation publique des documents d’archives de l’Ontario en tant que ressource essentielle pour l’étude et l’interprétation de l’histoire de la province.
 
 ### Interprétation
 
 2 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «archiviste» L’archiviste de l’Ontario nommé en application de l’article 8. («Archivist»)
+
 «document» Document reproduisant des renseignements, y compris des données, sous quelque forme que ce soit, y compris un document constitué, enregistré, transmis ou mis en mémoire sous une forme intangible, notamment numérique, par des moyens électroniques, magnétiques, optiques ou autres. Est exclu de la présente définition un mécanisme ou un système permettant de traiter des renseignements, notamment en vue de les constituer, de les transmettre, de les recevoir ou de les mettre en mémoire. («record»)
+
 «document privé» Document qui n’est pas un document public. («private record»)
+
 «document public» Document constitué ou reçu par un organisme public dans le cadre de ses activités. Sont exclus de la présente définition les dossiers de circonscription des ministres de la Couronne et les oeuvres publiées. («public record»)
+
 «ministre» Le membre du Conseil exécutif chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «organisme législatif» Selon le cas :
+
 a) l’Assemblée législative ou l’un de ses comités;
+
 b) un haut fonctionnaire de l’Assemblée législative ou de la Législature;
+
 c) un fonctionnaire ou un employé de l’Assemblée. («legislative body»)
+
 «organisme public» Selon le cas :
+
 a) le Conseil exécutif ou l’un de ses comités;
+
 b) un ministre de la Couronne;
+
 c) un ministère du gouvernement de l’Ontario;
+
 d) une commission constituée en vertu de la Loi de 2009 sur les enquêtes publiques ;
+
 e) tout organisme, conseil, commission, personne morale ou autre entité que les règlements désignent comme organisme public. («public body»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «règlement» Règlement pris en application de la présente loi. («regulation»)
+
 «sous-ministre» Le sous-ministre du ministre. («Deputy Minister») 2006, chap. 34, annexe A, par. 2 (1)
 
 ### Document ayant un intérêt archivistique
 
 (2) Pour l’application de la présente loi, un document est un document ayant un intérêt archivistique si, selon le cas :
+
 a) il se rapporte :
+
 (i) soit à l’origine, à l’histoire, à l’organisation ou aux activités d’un organisme public, d’un organisme législatif, d’un tribunal ou de toute autre personne ou entité,
+
 (ii) soit à l’élaboration ou à l’application d’une loi ou d’une politique ou décision d’un organisme public, d’un organisme législatif ou de toute autre personne ou entité,
+
 (iii) soit à l’histoire de l’Ontario ou d’une partie de celui-ci;
+
 b) il a les caractéristiques prescrites d’un document ayant un intérêt archivistique;
+
 c) il est désigné par les règlements comme document ayant un intérêt archivistique;
+
 d) il fait partie d’une catégorie de documents prescrite comme catégorie de documents ayant un intérêt archivistique.
 
 ### Lois sur la protection de la vie privée et l’accès à l’information, privilèges
@@ -85,9 +113,13 @@ d) il fait partie d’une catégorie de documents prescrite comme catégorie de 
 ### Objets des Archives publiques de l’Ontario
 
 7 Les objets des Archives publiques de l’Ontario sont les suivants :
+
 a) préserver les documents ayant un intérêt archivistique;
+
 b) offrir au public l’accès aux documents dont elles ont la garde ou la responsabilité;
+
 c) encourager la bonne conservation des dossiers par les organismes publics en vue de faciliter la préservation de documents ayant un intérêt archivistique et de soutenir une administration gouvernementale efficace;
+
 d) aider les recherches historiques et encourager les activités archivistiques en Ontario.
 
 ### Archiviste de l’Ontario
@@ -121,7 +153,9 @@ d) aider les recherches historiques et encourager les activités archivistiques 
 ### Archiviste intérimaire
 
 (8) Le sous-ministre peut nommer un archiviste intérimaire qui exerce les pouvoirs et les fonctions de l’archiviste :
+
 a) soit en cas d’absence ou d’empêchement de celui-ci;
+
 b) soit en cas de vacance de son poste.
 
 ### Immunité
@@ -151,11 +185,17 @@ b) soit en cas de vacance de son poste.
 ### Contenu
 
 (2) Le calendrier de conservation :
+
 a) cite et décrit les documents ou catégories de documents auxquels il s’applique;
+
 b) précise le délai de conservation des documents par l’organisme public;
+
 c) Abrogé : 2019, chap. 7, annexe 3, par. 6 (2).
+
 d) identifie les documents ou catégories de documents qui sont des documents ayant un intérêt archivistique;
+
 e) précise le transfert des documents ayant un intérêt archivistique aux Archives publiques de l’Ontario à l’expiration de leur délai de conservation ou la conservation continue de ces documents conformément à une convention conclue en vertu de l’alinéa 18 (1) a);
+
 f) contient les autres renseignements qu’exige l’archiviste.
 
 ### Approbation du calendrier de conservation par l’archiviste
@@ -209,18 +249,27 @@ f) contient les autres renseignements qu’exige l’archiviste.
 ### Interdiction de détruire les documents publics
 
 15 (1) Nul document public ne doit être :
+
 a) soit détruit ou endommagé;
+
 b) soit modifié de façon à supprimer des renseignements;
+
 c) soit rendu illisible;
+
 d) soit retiré de la garde ou de la responsabilité d’un organisme public ou des Archives publiques de l’Ontario;
+
 e) soit dissimulé à un organisme public ou à l’archiviste.
 
 ### Exception
 
 (2) Le paragraphe (1) ne s’applique pas à ce qui est fait :
+
 a) soit conformément à un calendrier de conservation approuvé;
+
 b) soit conformément à une directive de l’archiviste donnée en vertu sous-alinéa 20 (4) b) (i);
+
 c) soit conformément à une convention conclue avec l’archiviste et exigée en application du sous-alinéa 20 (4) b) (ii);
+
 d) soit avec le consentement écrit de l’archiviste.
 
 ### Documents des organismes législatifs et du lieutenant-gouverneur
@@ -244,9 +293,13 @@ d) soit avec le consentement écrit de l’archiviste.
 ### Convention
 
 (2) La convention conclue en vertu du paragraphe (1) peut prévoir :
+
 a) que l’archiviste donnera des conseils en matière de la conservation des documents à la personne ou à l’entité;
+
 b) que l’archiviste aidera la personne ou l’entité à établir lesquels de ses documents privés sont des documents ayant un intérêt archivistique ainsi qu’à les protéger et à les préserver;
+
 c) que les Archives publiques de l’Ontario feront l’acquisition, par don, legs, achat ou autre mode de libéralité, de tout ou partie des documents ayant un intérêt archivistique de la personne ou de l’entité;
+
 d) la protection et la préservation des documents ayant un intérêt archivistique de la personne ou de l’entité et l’accès à ceux-ci.
 
 ## partie iv documents ayant un intérêt archivistique
@@ -256,7 +309,9 @@ d) la protection et la préservation des documents ayant un intérêt archivisti
 ### Documents publics ayant un intérêt archivistique
 
 18 (1) L’archiviste peut conclure une convention :
+
 a) soit avec un organisme public prévoyant que celui-ci conserve la garde de tout ou partie de ses documents ayant un intérêt archivistique à la fin de leur délai de conservation, qu’il les conserve et les préserve et qu’il les rend accessibles au public conformément aux directives de l’archiviste;
+
 b) soit avec une autre personne ou entité prévoyant qu’elle assume la garde de tout ou partie des documents ayant un intérêt archivistique d’un organisme public à la fin de leur délai de conservation, qu’elle les conserve et les préserve et qu’elle les rend accessibles au public conformément aux directives de l’archiviste.
 
 ### Convention incorporée dans le calendrier de conservation
@@ -270,7 +325,9 @@ b) soit avec une autre personne ou entité prévoyant qu’elle assume la garde 
 ### Convention
 
 (2) L’archiviste peut conclure une convention :
+
 a) soit avec un organisme législatif prévoyant que celui-ci conserve la garde de tout ou partie de ses documents ayant un intérêt archivistique à la fin de leur délai de conservation, qu’il les conserve et les préserve et qu’il les rend accessibles au public conformément aux directives de l’archiviste;
+
 b) soit avec une autre personne ou entité prévoyant qu’elle assume la garde de tout ou partie des documents ayant un intérêt archivistique d’un organisme législatif à la fin de leur délai de conservation, qu’elle les conserve et les préserve et qu’elle les rend accessibles au public conformément aux directives de l’archiviste.
 
 ### Désignation par l’archiviste des documents ayant un intérêt archivistique
@@ -278,7 +335,9 @@ b) soit avec une autre personne ou entité prévoyant qu’elle assume la garde 
 ### Désignation des documents publics ayant un intérêt archivistique
 
 20 (1) Malgré les articles 13 et 14 ou une convention conclue en vertu de l’article 18, l’archiviste peut désigner un document public ou une catégorie de documents publics dont un organisme public a la garde ou la responsabilité s’il estime :
+
 a) d’une part, que le document ou la catégorie de documents peut avoir un intérêt archivistique;
+
 b) d’autre part, qu’il existe un risque imminent que le document ou la catégorie de documents soit endommagé ou qu’il en soit disposé, notamment par destruction.
 
 ### Avis
@@ -292,9 +351,13 @@ b) d’autre part, qu’il existe un risque imminent que le document ou la caté
 ### Pouvoirs de l’archiviste
 
 (4) L’archiviste peut faire ce qui suit avant la fin du délai de 45 jours :
+
 a) examiner le ou les documents désignés en vue d’en établir l’intérêt archivistique;
+
 b) s’il établit que le ou les documents ont un intérêt archivistique, ordonner à l’organisme public :
+
 (i) soit de les transférer sous la garde ou la responsabilité des Archives publiques de l’Ontario avant la date qu’il précise,
+
 (ii) soit de conclure avec lui une convention en vertu de l’alinéa 18 (1) a) ou de modifier une convention existante.
 
 ### Préséance de l’ordre ou de la convention
@@ -312,14 +375,19 @@ b) s’il établit que le ou les documents ont un intérêt archivistique, ordon
 ### Infraction
 
 (8) Est coupable d’une infraction quiconque :
+
 a) dans les 45 jours suivant la désignation, endommage un document que l’archiviste désigne en vertu du présent article ou en dispose, notamment en le détruisant, sauf s’il le fait soit en application d’un ordre que celui-ci donne en vertu du sous-alinéa (4) b) (i) ou d’une convention conclue ou modifiée en application d’un ordre qu’il donne en vertu du sous-alinéa (4) b) (ii), soit avec son consentement écrit;
+
 b) refuse de donner à l’archiviste accès aux documents désignés en vertu du présent article;
+
 c) omet de transférer un document désigné sous la garde et sous la responsabilité des Archives publiques de l’Ontario conformément à un ordre que l’archiviste donne en vertu du sous-alinéa (4) b) (i).
 
 ### Désignation des documents privés ayant un intérêt archivistique
 
 21 (1) L’archiviste peut désigner un document privé ayant un intérêt archivistique ou une catégorie de ces documents privés s’il estime que le document ou la catégorie :
+
 a) d’une part, est d’intérêt provincial;
+
 b) d’autre part, risque d’être endommagé ou détruit.
 
 ### Avis
@@ -361,9 +429,13 @@ b) d’autre part, risque d’être endommagé ou détruit.
 ### Refus d’accès
 
 (4) Malgré les paragraphes (1) et (2), l’archiviste :
+
 a) doit refuser de produire aux fins d’examen l’original ou une copie d’un document ayant un intérêt archivistique si la Loi sur l’accès à l’information et la protection de la vie privée ou une autre loi l’y oblige;
+
 b) peut refuser de produire aux fins d’examen l’original ou une copie d’un document ayant un intérêt archivistique si, selon le cas :
+
 (i) la Loi sur l’accès à l’information et la protection de la vie privée ou une autre loi le lui permet,
+
 (ii) l’article 65 de la Loi sur l’accès à l’information et la protection de la vie privée soustrait le document à l’application de cette loi.
 
 ### Préservation des documents
@@ -377,7 +449,9 @@ b) peut refuser de produire aux fins d’examen l’original ou une copie d’un
 ### Copie certifiée conforme
 
 23 La copie d’un document des Archives publiques de l’Ontario que l’archiviste ou son délégué certifie conforme à l’original :
+
 a) d’une part, constitue, en l’absence de preuve contraire, une preuve de son authenticité et de son exactitude, sans qu’il soit nécessaire de faire la preuve de l’authenticité de la signature de l’archiviste ou de son délégué ni de sa qualité;
+
 b) d’autre part, est admissible en preuve au même titre que l’original et a la même valeur probante.
 
 ### Disposition des documents par l’archiviste
@@ -407,15 +481,27 @@ b) d’autre part, est admissible en preuve au même titre que l’original et a
 ### Règlements
 
 26 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) désigner une agence, un conseil, une commission, une personne morale ou une autre entité comme organisme public;
+
 b) prescrire les caractéristiques d’un document ayant un intérêt archivistique;
+
 c) désigner un document comme document ayant un intérêt archivistique;
+
 d) prescrire une catégorie de documents comme documents ayant un intérêt archivistique;
+
 e) définir l’expression «intérêt provincial» pour l’application de l’article 21;
+
 f) exempter un organisme public ou une catégorie d’organismes publics de l’application d’une disposition de la présente loi et prescrire les circonstances dans lesquelles cette exemption s’applique et les conditions dont elle est assortie;
+
 g) attribuer d’autres pouvoirs et d’autres fonctions à l’archiviste.
+
 27. et 28 Omis (modifient ou abrogent d’autres lois).
+
 29 Omis (prévoit des modifications à la présente loi).
+
 30 Omis (modifie ou abroge d’autres lois).
+
 31 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 32 Omis (édicte le titre abrégé de la présente loi).

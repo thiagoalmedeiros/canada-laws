@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2025-09-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21s08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Commission des valeurs mobilières (Loi de 2021 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21s08) before relying on it.
 
 L.O. 2021, chap. 8, annexe 9
 
@@ -21,8 +21,11 @@ L.O. 2021, chap. 8, annexe 9
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Commission» La Commission des valeurs mobilières de l’Ontario prorogée aux termes de la présente loi. («Commission»)
+
 «ministre» Le ministre des Finances ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi. («Minister»)
+
 «Tribunal» Le Tribunal des marchés financiers établi aux termes de l’article 25. («Tribunal»)
 
 ### Commission des valeurs mobilières de l’Ontario
@@ -38,8 +41,11 @@ L.O. 2021, chap. 8, annexe 9
 ### Mission
 
 4 La Commission a pour mission :
+
 a) d’appliquer et de faire exécuter la Loi sur les valeurs mobilières ;
+
 b) d’appliquer et de faire exécuter la Loi sur les contrats à terme sur marchandises ;
+
 c) d’exercer les pouvoirs et fonctions attribués à la Commission aux termes de la présente loi ou de toute autre loi.
 
 ### Pouvoirs et fonctions
@@ -49,7 +55,9 @@ c) d’exercer les pouvoirs et fonctions attribués à la Commission aux termes 
 ### Idem
 
 (2) La Commission :
+
 a) exerce les pouvoirs qui lui sont conférés et les fonctions qui lui sont attribuées;
+
 b) applique et fait exécuter la présente loi et toute autre loi qui lui confère des pouvoirs ou lui attribue des fonctions.
 
 ### Décisions
@@ -89,7 +97,9 @@ b) applique et fait exécuter la présente loi et toute autre loi qui lui confè
 ### Conseil d’administration
 
 8 (1) Le conseil d’administration de la Commission se compose des personnes suivantes :
+
 a) au moins trois et au plus 11 particuliers nommés par le lieutenant-gouverneur en conseil sur la recommandation du ministre;
+
 b) le chef de la direction de la Commission, si les règlements administratifs de celle-ci le prévoient.
 
 ### Idem : chef de la direction comme membre
@@ -143,8 +153,11 @@ b) le chef de la direction de la Commission, si les règlements administratifs d
 ### Règlements administratifs en matière de finances
 
 (8) Les règles suivantes s’appliquent à l’égard des règlements administratifs qui traitent des questions d’emprunt ou de placement :
+
 1. Les paragraphes (3) à (7) ne s’appliquent pas.
+
 2. Les règlements administratifs n’entrent pas en vigueur à moins d’être approuvés par le ministre et, si ce dernier n’est pas le ministre des Finances, par le ministre des Finances.
+
 3. Les règlements administratifs entrent en vigueur le jour où ils sont approuvés aux termes de la disposition 2 ou à la date ultérieure qu’ils précisent.
 
 ### Publication
@@ -190,7 +203,9 @@ b) le chef de la direction de la Commission, si les règlements administratifs d
 ### Administrateurs et dirigeants : bonne foi
 
 14 Lorsqu’ils exercent leurs pouvoirs et fonctions, les administrateurs et les dirigeants de la Commission :
+
 a) agissent avec honnêteté, bonne foi et au mieux des intérêts de la Commission pour réaliser sa mission;
+
 b) font preuve de la prudence, de la diligence et de la compétence dont ferait preuve une personne d’une prudence raisonnable placée dans des circonstances semblables.
 
 ### Non-application du Régime de retraite des fonctionnaires
@@ -222,20 +237,31 @@ b) font preuve de la prudence, de la diligence et de la compétence dont ferait 
 ### Exceptions
 
 (2) La Commission verse au Trésor les sommes qu’elle reçoit conformément à une ordonnance visée à la disposition 9 du paragraphe 127 (1) de la Loi sur les valeurs mobilières ou à la disposition 9 du paragraphe 60 (1) de la Loi sur les contrats à terme sur marchandises, les sommes reçues en règlement de poursuites qu’elle a intentées, et les sommes visées aux paragraphes 128.1 (14) et (15) de la Loi sur les valeurs mobilières ou aux paragraphes 60.2.1 (14) et (15) de la Loi sur les contrats à terme sur marchandises, à l’exclusion de ce qui suit :
+
 a) les sommes qui sont versées à la Commission en remboursement des frais et dépens qu’elle a engagés pour exécuter une ordonnance du Tribunal ou doit engager à cette fin;
+
 b) les sommes que la Commission distribue, selon le cas :
+
 (i) à des tiers ou au profit de ces derniers,
+
 (ii) en vue de leur utilisation, par la Commission ou des tiers, afin d’instruire les investisseurs ou d’améliorer de quelque façon que ce soit les connaissances et l’information des personnes sur le fonctionnement des marchés des valeurs mobilières et des capitaux,
+
 (iii) en vue de leur utilisation pour le paiement des frais d’administration relativement à la distribution des sommes remises conformément au paragraphe 128.1 (9) ou (12) de la Loi sur les valeurs mobilières ou du paragraphe 60.2.1 (9) ou (12) de la Loi sur les contrats à terme sur marchandises,
+
 (iv) à toute autre fin précisée par les règlements;
+
 c) les sommes déjà désignées que la Commission distribue à une fin prévue à l’alinéa a) ou b);
+
 d) les sommes déjà désignées que la Commission distribue à toute fin supplémentaire précisée par les règlements.
 
 ### Définition de somme déjà désignée
 
 (2.1) La définition qui suit s’applique au paragraphe (2).
+
 «somme déjà désignée» Somme qui, à la fois :
+
 a) a été reçue par la Commission conformément aux termes d’une ordonnance ou en règlement de poursuites qu’elle a intentées;
+
 b) a été désignée aux termes de l’alinéa 3.4 (2) b) de la Loi sur les valeurs mobilières, dans sa version en vigueur avant son abrogation.
 
 ### Distribution : al. (2) b)
@@ -283,8 +309,11 @@ b) a été désignée aux termes de l’alinéa 3.4 (2) b) de la Loi sur les val
 ### Idem
 
 (2) La Commission respecte les directives que le Conseil de gestion du gouvernement donne à l’égard de ce qui suit :
+
 a) la forme et le contenu du plan d’activités;
+
 b) le moment où il faut le présenter au ministre;
+
 c) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -310,8 +339,11 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Idem
 
 (2) La Commission se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le présenter au ministre;
+
 c) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -381,6 +413,7 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Immunité de la Commission, des employés et d’autres personnes
 
 33 (1) Sont irrecevables les instances, y compris les instances judiciaires, administratives ou arbitrales, introduites contre la Commission, les administrateurs, employés ou mandataires, actuels ou anciens, de la Commission ou les chefs de la direction ou arbitres, actuels ou anciens, pour un acte accompli de bonne foi dans l’exercice effectif ou censé tel des pouvoirs qui leur sont conférés ou des fonctions qui leur sont attribuées aux termes de la présente loi, de la Loi sur les valeurs mobilières, de la Loi sur les contrats à terme sur marchandises ou de toute autre loi, ou pour une négligence ou un manquement qu’ils auraient commis dans l’exercice de bonne foi de ces pouvoirs ou de ces fonctions.
+
 (2) Abrogé : 2021, chap. 40, annexe 19, art. 5.
 
 ### Non-contraignabilité
@@ -396,7 +429,9 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Examen initial
 
 35.1 (1) Dans les cinq ans qui suivent le jour de l’entrée en vigueur de l’article 6 de l’annexe 19 de la Loi de 2021 visant à bâtir l’Ontario (mesures budgétaires), le ministre donne une directive à un fonctionnaire employé aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario ou à une autre personne afin que le fonctionnaire ou l’autre personne :
+
 a) examine les questions qu’il précise à l’égard de la présente loi, de la Loi sur les valeurs mobilières ou de la Loi sur les contrats à terme sur marchandises ou de tout autre aspect de la réglementation des marchés financiers;
+
 b) lui fasse des recommandations à l’égard de ces questions.
 
 ### Examens subséquents
@@ -416,7 +451,11 @@ b) lui fasse des recommandations à l’égard de ces questions.
 ### Règlements
 
 (1) Le lieutenant-gouverneur en conseil peut, par règlement, régir les questions transitoires découlant de l’édiction de la présente loi, y compris les questions transitoires relatives aux audiences dans des instances qui ont été introduites en vertu de la Loi sur les valeurs mobilières ou de la Loi sur les contrats à terme sur marchandises avant le jour de l’entrée en vigueur de la présente loi.
+
 37 Omis (modification de la présente loi).
+
 38-40 Omis (modification ou abrogation d’autres textes législatifs).
+
 41 Omis (entrée en vigueur de dispositions de la présente loi).
+
 42 Omis (édiction du titre abrégé de la présente loi).

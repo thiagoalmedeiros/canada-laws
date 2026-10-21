@@ -6,22 +6,26 @@ language: en
 type: act
 document_date: "2019-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10e01"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Electronic Land Registration Services Act, 2010
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10e01) before relying on it.
 
 S.O. 2010, c. 1, Sched. 6
 
 ### Definitions
 
 1 In this Act,
+
 “Commissioner” means the Electronic Land Registration Services Commissioner appointed under section 3; (“commissaire”)
+
 “minister” means a minister of the Crown who enters into a service provider agreement on behalf of the Crown in right of Ontario; (“ministre”)
+
 “service provider” means a person who has entered into a service provider agreement with the Crown in right of Ontario; (“fournisseur de services”)
+
 “service provider agreement” means an agreement entered into under subsection 2 (1). (“accord de services”)
 
 ### Service Provider Agreements
@@ -29,24 +33,35 @@ S.O. 2010, c. 1, Sched. 6
 ### Service provider agreements authorized
 
 2 (1) The Minister of Government Services, the Attorney General or such other minister of the Crown as may be designated by order of the Lieutenant Governor in Council may, on behalf of the Crown in right of Ontario, enter into one or more agreements,
+
 (a) for the provision of such land registration and related services as may be specified in the agreement;
+
 (b) for the provision of such services related to writs of execution as may be specified in the agreement;
+
 (c) for granting a licence to a service provider to access, use, copy, sell and otherwise deal with the land registration and writs data specified in the agreement with the service provider; and
+
 (d) authorizing or requiring a service provider to grant sublicences to third parties to access, use, copy, sell and otherwise deal with the land registration and writs data specified in the agreement with the service provider.
 
 ### Terms and conditions
 
 (2) A minister may determine the terms and conditions of a service provider agreement, including, without limitation, terms and conditions,
+
 (a) providing whether the agreement or licence will be exclusive or non-exclusive;
+
 (b) establishing the length of the term of the agreement or agreements, including a perpetual term;
+
 (c) establishing the amounts payable by a service provider, including amounts intended to defray the Province of Ontario’s continuing cost of administering the land registration and writs systems;
+
 (d) relating to sublicensing; and
+
 (e) relating to dispute resolution and arbitration in respect of any dispute between a service provider and the Province of Ontario or between a service provider and a third party.
 
 ### Fees
 
 (3) A minister may in a service provider agreement,
+
 (a) authorize the service provider to collect fees established under the Land Titles Act, the Land Registration Reform Act, the Registry Act, the Administration of Justice Act and such other Acts as may be designated by a regulation made under this section for its own account or on behalf of the Province of Ontario; an d
+
 (b) establish fees in addition to the fees referred to in clause (a) and authorize the service provider to collect and retain such fees for its own account.
 
 ### Fees to be specified in orders
@@ -94,7 +109,9 @@ S.O. 2010, c. 1, Sched. 6
 ### Duties
 
 (6) It is the duty of the Commissioner, subject to the applicable service provider agreement,
+
 (a) to investigate disputes filed with his or her office related to the provision of land registration services or to the provision of writs services provided by the service provider under the service provider agreement and attempt to resolve such disputes; and
+
 (b) to perform such other duties as the Minister of Government Services may assign to the Commissioner or as may be assigned to him or her under any other Act.
 
 ### Annual report
@@ -144,7 +161,9 @@ S.O. 2010, c. 1, Sched. 6
 ### Permitted disclosure
 
 (3) Despite subsection (1), the Commissioner may,
+
 (a) disclose to any person any written recommendation the Commissioner has made to a service provider, including any information in the written recommendation that the Commissioner views is reasonably necessary in order to explain the reasons for his or her recommendation; and
+
 (b) disclose any information in his or her annual report to the Minister of Government Services and the Attorney General that the Commissioner views is reasonably necessary to include in order to report on his or her activities.
 
 ### Commissioner, etc., not compellable
@@ -160,6 +179,9 @@ S.O. 2010, c. 1, Sched. 6
 ### Powers of arbitrator
 
 (2) An arbitrator appointed pursuant to an arbitration agreement referred to in subsection (1) has the authority to settle all disputes contemplated in the arbitration agreement, including the authority to impose the terms and conditions of agreements between the service provider and the third party in accordance with the terms of the arbitration agreement.
+
 8-11 Omitted (amends, repeals or revokes other legislation).
+
 12 Omitted (provides for coming into force of provisions of this Act).
+
 13 Omitted (enacts short title of this Act).

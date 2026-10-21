@@ -6,23 +6,28 @@ language: en
 type: act
 document_date: "2025-06-05"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/25s04a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Special Economic Zones Act, 2025
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/25s04a) before relying on it.
 
 S.O. 2025, c. 4, Sched. 9
 
 ### Definitions
 
 1 In this Act,
+
 “designated project” means a project designated under section 4; (“projet désigné”)
+
 “local board” means a local board as defined in the Municipal Affairs Act; (“conseil local”)
+
 “Minister” means the Minister of Economic Development, Job Creation and Trade or such other member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre”)
+
 “special economic zone” means a special economic zone designated under section 2; (“zone économique spéciale”)
+
 “trusted proponent” means a trusted proponent designated under section 3. (“promoteur fiable”)
 
 ### Special economic zones
@@ -68,7 +73,9 @@ S.O. 2025, c. 4, Sched. 9
 ### Modification of application of provisions of other Acts, etc.
 
 6 (1) The Lieutenant Governor in Council may, by regulation, modify the application of provisions of an Act or of a regulation or other instrument under an Act, subject to conditions specified in the regulation, as those provisions would apply,
+
 (a) with respect to a trusted proponent in a special economic zone; or
+
 (b) with respect to a designated project in a special economic zone.
 
 ### Municipal by-laws, etc.
@@ -78,14 +85,19 @@ S.O. 2025, c. 4, Sched. 9
 ### Extinguishment of causes of action
 
 7 (1) No cause of action arises against a person set out in subsection (2) as a direct or indirect result of,
+
 (a) the enactment, amendment or repeal of any provision of this Act;
+
 (b) the making, amendment or revocation of any provision of a regulation under this Act; or
+
 (c) anything done or not done in accordance with this Act or a regulation under this Act.
 
 ### Persons referred to
 
 (2) The persons referred to in subsection (1) are,
+
 (a) the Crown or any current or former member of the Executive Council or employee, officer or agent of or advisor to the Crown; or
+
 (b) a municipality or local board, or any current or former member of the council of the municipality or of the local board, or employee, officer or agent of or advisor to the municipality or local board.
 
 ### No remedy
@@ -115,13 +127,19 @@ S.O. 2025, c. 4, Sched. 9
 ### Certain proceedings by municipalities not prevented
 
 (9) This section does not apply with respect to proceedings brought by a municipality against,
+
 (a) any current or former member of the council of the municipality or of a local board of the municipality; or
+
 (b) any current or former employee, officer or agent of or advisor to the municipality or a local board of the municipality.
 
 ### Certain proceedings by local boards not prevented
 
 (10) This section does not apply with respect to proceedings brought by a local board against,
+
 (a) any current or former member of the local board; or
+
 (b) any current or former employee, officer or agent of or advisor to the local board.
+
 8 Omitted (provides for coming into force of provisions of this Act).
+
 9 Omitted (enacts short title of this Act).

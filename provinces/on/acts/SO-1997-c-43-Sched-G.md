@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2021-12-09"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o43"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Municipal Property Assessment Corporation Act, 1997
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97o43) before relying on it.
 
 S.O. 1997, c. 43, Sched. G
 
@@ -21,7 +21,9 @@ S.O. 1997, c. 43, Sched. G
 ### Definition
 
 1 In this Act,
+
 “Corporation” means the Municipal Property Assessment Corporation; (“Société”)
+
 “Minister” means Minister of Finance. (“ministre”)
 
 ### Establishment and Administration of the Corporation
@@ -45,8 +47,11 @@ S.O. 1997, c. 43, Sched. G
 ### Composition
 
 (2) The board of directors shall be appointed by the Minister and is composed of the following individuals:
+
 1. Seven individuals who are current or former elected officials of a municipality or current or former officers or employees of a municipality (“municipal representatives”).
+
 2. Four individuals who represent the interests of property taxpayers (“taxpayer representatives”).
+
 3. Two individuals who represent the interests of the Province (“provincial representatives”).
 
 ### Same
@@ -64,6 +69,7 @@ S.O. 1997, c. 43, Sched. G
 ### Appointment of municipal representatives
 
 (3.3) The Minister shall appoint individuals on the list as municipal representatives if the Minister receives the list at least 30 days before the expiry of the term of the existing municipal representatives.
+
 (3.4) Repealed: 2017, c. 8, Sched. 21, s. 1 (4).
 
 ### Taxpayer representatives
@@ -73,6 +79,7 @@ S.O. 1997, c. 43, Sched. G
 ### Term of office
 
 (4) A director shall hold office at pleasure for a term not exceeding three years and may be reappointed for no more than two further terms not exceeding three years each.
+
 (5) Repealed: 2015, c. 20, Sched. 29, s. 1.
 
 ### Vacancy, municipal representative
@@ -82,7 +89,9 @@ S.O. 1997, c. 43, Sched. G
 ### Deemed proper constitution of board
 
 (6.1) If there are fewer than 13 directors in office, the board is deemed to be properly constituted if,
+
 (a) there are at least nine directors in office; and
+
 (b) the majority of the directors in office are municipal representatives.
 
 ### Same
@@ -132,7 +141,9 @@ S.O. 1997, c. 43, Sched. G
 ### Transition
 
 (17) Despite subsection (2), every individual who was a member of the board on the day before the Stronger, Healthier Ontario Act (Budget Measures), 2017 received Royal Assent may continue to serve on the board at pleasure for the rest of his or her term of office even if the maximum number of municipal and taxpayer representatives set out in paragraphs 1 and 2 of subsection (2) is exceeded.
+
 (18)-(22) Repealed: 1997, c. 43, Sched. G, s. 3 (23).
+
 (23) Spent:
 
 ### Chief administrative officer
@@ -154,7 +165,9 @@ S.O. 1997, c. 43, Sched. G
 ### Duties
 
 (2) The quality service commissioner is responsible for the following:
+
 1. The development and implementation of quality service standards for the Corporation for the performance of its duties described in subsection 9 (1).
+
 2. Ensuring compliance with the policies, procedures and standards established by the Minister under subsection 10 (1) for the provision of assessment services by the Corporation.
 
 ### Regulation
@@ -270,7 +283,9 @@ S.O. 1997, c. 43, Sched. G
 ### Directives
 
 10.1 (1) The Minister may issue directives in writing to the Corporation on matters relating to,
+
 (a) corporate governance; and
+
 (b) activities described in subsection 9 (2).
 
 ### General or specific
@@ -308,17 +323,25 @@ S.O. 1997, c. 43, Sched. G
 ### Amount
 
 (2) Subject to subsection (3), the amount to be paid for a taxation year is calculated using the formula,
+
 (A + B) / 2 × C
+
 in which,
+
 “A” is the proportion that the total assessment on all property in the municipality bears to the total assessment of all property in Ontario,
+
 “B” is the proportion that the total number of properties set out in assessment rolls returned in the municipality bears to the total number of properties set out in all assessment rolls returned to all municipalities in Ontario plus the total number of properties in the assessment roll returned to the Minister for territory without municipal organization, and
+
 “C” is the amount that the Corporation considers necessary to pay for its operations during the taxation year.
 
 ### Different method of calculating the amount
 
 (3) The Corporation may establish by by-law a different method for calculating the amount to be paid for a taxation year if,
+
 (a) the by-law is approved by at least two-thirds of the directors; and
+
 (b) the Minister approves of the method of calculating the amount.
+
 (4) Repealed: 2001, c. 23, s. 170.
 
 ### Charges to other persons
@@ -340,14 +363,19 @@ in which,
 ### Interest and penalties
 
 (8) The Corporation may charge interest and impose penalties for the non-payment or late payment of amounts payable under this section.
+
 (9) Repealed: 2002, c. 17, Sched. F, Table.
+
 13 Repealed: 2001, c. 8, s. 201.
+
 14 Repealed: 2001, c. 8, s. 201.
 
 ### Disclosure of information
 
 15 (1) The Corporation shall give such information and documents to the following persons as the Minister may request and shall do so without charge:
+
 1. An employee of the Government of Ontario who is designated by the Minister.
+
 2. A person who is designated by the Minister and who provides a service to or for the Government of Ontario.
 
 ### Same
@@ -365,8 +393,13 @@ in which,
 ### Disclosure to the Corporation
 
 (5) A minister of the Crown may give to the Corporation any information and documents that the minister considers necessary to enable the Corporation to perform its duties under this or any other Act; the minister may impose such conditions as he or she considers appropriate when doing so.
+
 16 Repealed: 2001, c. 8, s. 201.
+
 17 Repealed: 2001, c. 8, s. 201.
+
 18-24 Omitted (amends or repeals other Acts).
+
 25 Omitted (provides for coming into force of provisions of this Act).
+
 26 Omitted (enacts short title of this Act).

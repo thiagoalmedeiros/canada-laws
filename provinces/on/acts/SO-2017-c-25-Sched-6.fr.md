@@ -6,23 +6,28 @@ language: fr
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17m25"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # technologues en radiation médicale et en imagerie médicale (Loi de 2017 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17m25) before relying on it.
 
 L.O. 2017, chap. 25, Annexe 6
 
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Code des professions de la santé» Le Code des professions de la santé figurant à l’annexe 2 de la Loi de 1991 sur les professions de la santé réglementées. («Health Professions Procedural Code»)
+
 «la présente loi» S’entend en outre du Code des professions de la santé. («this Act»)
+
 «membre» Membre de l’Ordre. («member»)
+
 «Ordre» L’Ordre des technologues en radiation médicale et en imagerie médicale de l’Ontario. («College»)
+
 «profession» La profession de technologue en radiation médicale et en imagerie médicale. («profession»)
 
 ### Code des professions de la santé
@@ -32,9 +37,13 @@ L.O. 2017, chap. 25, Annexe 6
 ### Termes figurant dans le Code
 
 (2) Dans la mesure où le Code des professions de la santé s’applique à la présente loi, les termes suivants qui y figurent s’interprètent comme suit :
+
 «loi sur une profession de la santé» La présente loi. («health profession Act»)
+
 «Ordre» L’Ordre des technologues en radiation médicale et en imagerie médicale de l’Ontario. («College»)
+
 «profession» La profession de technologue en radiation médicale et en imagerie médicale. («profession»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
 
 ### Définitions du Code
@@ -48,14 +57,23 @@ L.O. 2017, chap. 25, Annexe 6
 ### Actes autorisés
 
 4 Dans l’exercice de la profession de technologue en radiation médicale et en imagerie médicale, un membre est autorisé, sous réserve des conditions et restrictions dont est assorti son certificat d’inscription, à accomplir les actes suivants :
+
 1. Administrer des substances par voie d’injection ou d’inhalation.
+
 2. Pratiquer des aspirations trachéales d’une trachéostomie.
+
 3. Administrer des substances de contraste ou introduire un instrument, une main ou un doigt :
+
 i. au-delà du méat urinaire,
+
 ii. au-delà des grandes lèvres,
+
 iii. au-delà de la marge de l’anus,
+
 iv. dans une ouverture artificielle dans le corps.
+
 4. Pratiquer des interventions sur le tissu situé sous le derme.
+
 5. Appliquer une forme d’énergie prescrite.
 
 ### Exigences supplémentaires relatives aux actes autorisés
@@ -77,11 +95,17 @@ iv. dans une ouverture artificielle dans le corps.
 ### Conseil
 
 7 (1) Le conseil se compose :
+
 a) d’au moins six et d’au plus neuf personnes qui sont des membres élus conformément aux règlements administratifs;
+
 b) d’au moins cinq et d’au plus huit personnes que nomme le lieutenant-gouverneur en conseil et qui ne sont pas :
+
 (i) membres,
+
 (ii) membres d’un ordre au sens de la Loi de 1991 sur les professions de la santé réglementées,
+
 (iii) membres d’un conseil au sens de la Loi de 1991 sur les professions de la santé réglementées ;
+
 c) d’une ou deux personnes choisies, conformément à un règlement administratif adopté en vertu de l’article 13, parmi les membres qui font partie du corps professoral d’un établissement d’enseignement ontarien habilité à décerner des diplômes ou des grades dans une spécialité de la profession.
 
 ### Qui peut voter aux élections
@@ -103,7 +127,9 @@ c) d’une ou deux personnes choisies, conformément à un règlement administra
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «abréviation» S’entend en outre de l’abréviation d’une variante.
+
 10 Abrogé : 2021, chap. 25, annexe 25, art. 18.
 
 ### Infraction
@@ -113,7 +139,9 @@ c) d’une ou deux personnes choisies, conformément à un règlement administra
 ### Règlements du ministre
 
 12 Sous réserve de l’approbation du lieutenant-gouverneur en conseil, le ministre peut, par règlement :
+
 a) prescrire, pour l’application de l’article 3, des formes d’énergie autres que les rayonnements ionisants, l’électromagnétisme et les ondes sonores;
+
 b) soustraire une personne à l’application du paragraphe 9 (1) ou (2) et assortir cette exemption de conditions.
 
 ### Règlements administratifs
@@ -135,6 +163,9 @@ b) soustraire une personne à l’application du paragraphe 9 (1) ou (2) et asso
 ### Pouvoir du conseil
 
 (4) Le conseil de l’Ordre des technologues en radiation médicale de l’Ontario dispose du pouvoir de prendre des règlements et d’adopter des règlements administratifs en vertu de la présente loi qui entrent en vigueur au moment de l’entrée en vigueur de l’article 15 ou par la suite.
+
 15 à 17 Omis (modification ou abrogation d’autres textes législatifs).
+
 18 Omis (entrée en vigueur de dispositions de la présente loi).
+
 19 Omis (édiction du titre abrégé de la présente loi).

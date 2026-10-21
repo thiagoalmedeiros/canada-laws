@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/25g17"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # stockage géologique de carbone (Loi de 2025 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/25g17) before relying on it.
 
 L.O. 2025, chap. 17, annexe 2
 
@@ -21,25 +21,45 @@ L.O. 2025, chap. 17, annexe 2
 ### Interprétation
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «activités de recherche et d’évaluation» Les activités visées au paragraphe 3 (1). («research and evaluation activities»)
+
 «activités de stockage de carbone» Les activités visées au paragraphe 3 (2). («carbon storage activities»)
+
 «autorisation» S’entend d’une licence de recherche et d’évaluation, d’une licence de stockage, d’un permis de recherche et d’évaluation ou d’un permis de stockage délivrés en vertu de la présente loi. («authorization»)
+
 «Couronne» La Couronne du chef de l’Ontario. («Crown»)
+
 «dépôt» Aire géologique souterraine. («storage repository»)
+
 «espace poral» Espace qui consiste :
+
 a) en des pores qui se trouvent dans un dépôt et qui sont ou ont été occupés par de l’eau de formation, des hydrocarbures ou tout autre minéral;
+
 b) en toute autre forme de cavité ou de vide d’origine naturelle ou artificielle dans un dépôt. («pore space»)
+
 «espace poral public» S’entend :
+
 a) de l’espace poral sous-jacent aux terres dont la Couronne est propriétaire ou dont elle a le contrôle, peu importe si elles sont assujetties à un bail, à une servitude ou à une autre cession d’un moindre domaine, ou à une licence ou à un permis;
+
 b) de l’espace poral relativement auquel les droits ont fait l’objet d’une appropriation au profit de la Couronne et qui lui sont dévolus par application d’un règlement pris en vertu du paragraphe 8 (1). («public pore space»)
+
 «ministre» Le ministre des Richesses naturelles ou l’autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «ouvrage accessoire» S’entend au sens du paragraphe (2). («ancillary work»)
+
 «puits» Trou dans le sol, qu’il soit achevé ou en voie d’être foré. («well»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «site de stockage de carbone» Regroupement d’une quantité donnée de puits ou de dépôts ou de puits et de dépôts, ainsi que les ouvrages accessoires, s’il y en a, qui sert aux activités de recherche et d’évaluation ou aux activités de stockage de carbone. («carbon storage site»)
+
 «stockage de carbone» Stockage permanent de dioxyde de carbone dans un dépôt. («carbon storage»)
+
 «titulaire d’autorisation» Titulaire d’une autorisation. («authorization holder»)
+
 «titulaire de permis» Titulaire d’un permis de recherche et d’évaluation ou d’un permis de stockage délivrés en vertu de la présente loi. («permit holder»)
+
 «Tribunal» Le Tribunal ontarien de l’aménagement du territoire. («Tribunal»)
 
 ### Sens de «ouvrage accessoire»
@@ -53,9 +73,13 @@ b) de l’espace poral relativement auquel les droits ont fait l’objet d’une
 ### Interprétation : titulaire d’autorisation «réputé incapable d’agir»
 
 (4) La mention à la présente loi d’un titulaire d’autorisation qui est réputé incapable d’agir signifie que ce dernier se trouve dans l’une ou l’autre des circonstances suivantes :
+
 1. Il a fait une cession de faillite ou a intenté une procédure sous le régime de la Loi sur la faillite et l’insolvabilité (Canada) ou de la Loi sur les arrangements avec les créanciers des compagnies (Canada) ou en fait l’objet.
+
 2. Il est une personne morale qui a été liquidée sous le régime de la Loi sur les sociétés par actions ou dissoute.
+
 3. Il est un particulier qui est décédé.
+
 4. Toute autre circonstance prescrite par les règlements pris par le ministre.
 
 ### Objet
@@ -67,37 +91,61 @@ b) de l’espace poral relativement auquel les droits ont fait l’objet d’une
 ### Activités de recherche et d’évaluation
 
 3 (1) Pour l’application de la présente loi, les activités suivantes sont des activités de recherche et d’évaluation :
+
 1. La construction d’un puits, y compris son achèvement ou son approfondissement, l’utilisation d’un puits ou l’exercice d’autres activités sur ou dans un puits en vue de faire ce qui suit :
+
 i. rechercher des dépôts pouvant servir au stockage de carbone,
+
 ii. obtenir des renseignements sur les dépôts en ce qui concerne leurs éventuelles utilisation ou viabilité pour le stockage de carbone,
+
 iii. injecter du dioxyde de carbone ou d’autres substances dans un dépôt pour :
+
 A. évaluer ou tester la viabilité du dépôt pour le stockage de carbone,
+
 B. mener des recherches sur une technologie de stockage de carbone ou en faire la démonstration,
+
 iv. exercer des activités de surveillance, de mesurage ou de vérification relativement à des activités prévues au présent paragraphe.
+
 2. La construction, l’installation ou l’utilisation d’un ouvrage accessoire afin d’exercer des activités prévues au présent paragraphe.
+
 3. L’exercice d’activités d’exploration afin d’évaluer la viabilité d’un dépôt pour le stockage de carbone ou de recueillir les renseignements nécessaires pour appuyer la conception ou l’exploitation d’un site de stockage de carbone envisagé.
+
 4. L’entretien ou la désaffectation d’un puits foré aux fins d’activités prévues au présent paragraphe ou d’un puits, d’un dépôt ou d’un ouvrage accessoire utilisé aux fins de ces activités.
+
 5. L’exercice d’autres activités qui se rapportent à l’exploration de dépôts, à l’évaluation de la viabilité des dépôts pour le stockage de carbone, à la recherche sur les technologies de stockage de carbone ou à la démonstration de ces technologies, et qui sont prescrites par les règlements pris par le ministre.
 
 ### Activités de stockage de carbone
 
 (2) Pour l’application de la présente loi, les activités suivantes sont des activités de stockage de carbone :
+
 1. La construction d’un puits, y compris son achèvement ou son approfondissement, l’utilisation d’un puits ou l’exercice d’autres activités sur ou dans un puits en vue de faire ce qui suit :
+
 i. injecter du dioxyde de carbone ou d’autres substances dans un dépôt aux fins du stockage de carbone,
+
 ii. exercer des activités de surveillance, de mesurage ou de vérification relativement à des activités prévues au présent paragraphe.
+
 2. La construction, l’installation ou l’utilisation d’un ouvrage accessoire afin d’exercer des activités prévues au présent paragraphe.
+
 3. L’entretien ou la désaffectation d’un puits foré aux fins des activités prévues au présent paragraphe ou d’un puits, d’un dépôt ou d’un ouvrage accessoire utilisé aux fins de ces activités.
+
 4. La réhabilitation ou la remise en état des terres qui ont servi à un site de stockage de carbone.
+
 5. L’exercice d’autres activités qui font appel ou se rapportent à l’utilisation de puits, de dépôts ou d’ouvrages accessoires à des fins liées au stockage de carbone, et qui sont prescrites par les règlements pris par le ministre.
 
 ### Interdiction
 
 4 (1) Sous réserve du paragraphe (3), il est interdit à toute personne d’exercer des activités de recherche et d’évaluation ou des activités de stockage de carbone, sauf si, à la fois :
+
 a) les activités de recherche et d’évaluation ou les activités de stockage de carbone :
+
 (i) sont exercées dans une région de la province qui est prescrite par les règlements comme région où des sites de stockage de carbone peuvent se trouver,
+
 (ii) se rapportent à l’utilisation d’un type autorisé de dépôt, si les règlements indiquent les types de dépôt dont l’utilisation est autorisée dans cette région de la province;
+
 b) ces activités sont exercées :
+
 (i) dans le cas d’activités de recherche et d’évaluation, en vertu d’un permis de recherche et d’évaluation ou d’un permis de stockage,
+
 (ii) dans le cas d’activités de stockage de carbone, en vertu d’un permis de stockage.
 
 ### Autres interdictions
@@ -107,8 +155,11 @@ b) ces activités sont exercées :
 ### Non-application
 
 (3) Le paragraphe (1) ne s’applique pas à l’égard de ce qui suit :
+
 a) l’injection souterraine de dioxyde de carbone dans le cadre de travaux visant à accroître la récupération de pétrole ou de gaz entrepris conformément à la Loi sur les ressources en pétrole, en gaz et en sel ;
+
 b) les activités de recherche et d’évaluation ou les activités de stockage de carbone qui sont prescrites par les règlements pris par le ministre;
+
 c) l’exercice d’activités de recherche et d’évaluation ou d’activités de stockage de carbone dans les circonstances prescrites par les règlements pris par le ministre.
 
 ### Autres méthodes
@@ -120,7 +171,9 @@ c) l’exercice d’activités de recherche et d’évaluation ou d’activités
 ### Lieutenant-gouverneur en conseil
 
 5 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prévoir qu’une structure, y compris un pipeline, ou un équipement n’est pas un ouvrage accessoire pour l’application de la présente loi ou n’est pas un ouvrage accessoire pour l’application de la présente loi dans les circonstances indiquées, ou s’il a été satisfait aux conditions indiquées;
+
 b) prescrire pour l’application de l’alinéa 4 (1) a) les régions de la province où des sites de stockage de carbones peuvent se trouver et les types de dépôts dont l’utilisation y est autorisée.
 
 ### Ministre
@@ -132,6 +185,7 @@ b) prescrire pour l’application de l’alinéa 4 (1) a) les régions de la pro
 ### Définition
 
 6 La définition qui suit s’applique à la présente partie.
+
 «droits de surface» Tout droit foncier, à l’exception des droits aux minerais, aux mines et aux minéraux qui se trouvent dans, sur ou sous des terres.
 
 ### Propriété de l’espace poral
@@ -149,7 +203,9 @@ b) prescrire pour l’application de l’alinéa 4 (1) a) les régions de la pro
 ### Restriction
 
 (3) Le lieutenant-gouverneur en conseil ne peut prendre un règlement pour l’application du paragraphe (1) que si, à la fois :
+
 a) il estime qu’il est dans l’intérêt public de le faire;
+
 b) les droits que la Couronne se serait appropriés et qui lui seraient dévolus par application du règlement se rapportent à l’espace poral qui est sous-jacent à des terres qui consistent en celles dont la Couronne est propriétaire ou dont elle a le contrôle et celles qui sont des terres privées.
 
 ### Abrogation d’un règlement
@@ -167,14 +223,19 @@ b) les droits que la Couronne se serait appropriés et qui lui seraient dévolus
 ### Restriction
 
 (2) Le ministre ne délivre un permis de stockage qui accorde à son titulaire le droit exclusif d’exercer les droits à l’espace poral aux fins d’exercice d’activités de stockage de carbone que s’il est convaincu que la délivrance du permis produirait les résultats suivants :
+
 a) le stockage de la quantité minimale de dioxyde de carbone prescrite par les règlements;
+
 b) le stockage du dioxyde de carbone produit par le nombre minimal d’émetteurs industriels prescrit par les règlements.
 
 ### Règlements régissant l’indemnisation
 
 (3) Le lieutenant-gouverneur en conseil peut, par règlement, régir les indemnités que les titulaires d’autorisation à qui des droits ont été accordés en vertu du paragraphe (1) doivent verser aux propriétaires des droits à l’espace poral qui ont été retirés par la Couronne et sont dévolus à celle-ci, notamment :
+
 a) fixer le montant de l’indemnité ou préciser le mode de calcul de ce montant;
+
 b) énoncer le mode de versement de l’indemnité et le moment auquel elle doit l’être;
+
 c) exiger la confirmation du versement de l’indemnité.
 
 ### Droit à une indemnité
@@ -220,8 +281,11 @@ c) exiger la confirmation du versement de l’indemnité.
 ### Permis
 
 12 (1) Sous réserve du paragraphe (3), de l’article 14 et des autres restrictions prévues par les règlements, le ministre peut délivrer un permis de recherche et d’évaluation ou un permis de stockage à une personne si les conditions suivantes sont réunies :
+
 a) la personne a demandé le permis conformément aux règlements pris par le ministre et ce dernier a conclu que la demande est dûment remplie pour l’application de l’article 16;
+
 b) la personne a satisfait aux exigences en matière de remise d’avis ou de consultation prévues par les règlements pris par le ministre;
+
 c) dans le cas d’un permis de stockage, le ministre a reçu la confirmation écrite de l’aval municipal au projet envisagé, comme l’exigent les règlements pris par le ministre et conformément à ceux-ci.
 
 ### Permis équivalant à une licence
@@ -231,11 +295,17 @@ c) dans le cas d’un permis de stockage, le ministre a reçu la confirmation é
 ### Délivrance de permis
 
 (3) Le ministre ne délivre un permis de recherche et d’évaluation ou un permis de stockage que s’il est convaincu de ce qui suit :
+
 a) les activités pour lesquelles le permis est demandé seront exercées de façon à protéger la sécurité du public et l’environnement;
+
 b) les activités pour lesquelles le permis est demandé seraient autorisées sous le régime de la présente loi si le permis était délivré;
+
 c) l’auteur de la demande de permis a obtenu les droits d’utiliser les terres et l’espace poral nécessaires aux activités pour lesquelles le permis est demandé;
+
 d) les répercussions éventuelles sur les systèmes et exploitations agricoles, les sources d’eau potable, les utilisations et activités actuelles ou prévues de la surface et du sous-sol, notamment l’exploitation minière et la mise en valeur des minerais, les activités de pétrole et de gaz et le stockage géologique souterrain, ont été relevées et évaluées, et des mesures appropriées d’atténuation de ces répercussions existent et seront mises en œuvre;
+
 e) des consultations adéquates ont été menées auprès des collectivités autochtones, si les activités pour lesquelles le permis est demandé risquent d’avoir des conséquences préjudiciables sur les droits établis ou affirmés de façon crédible — ancestraux ou issus de traités — des peuples autochtones;
+
 f) il a été satisfait aux autres exigences de délivrance du permis énoncées par les règlements pris par le ministre.
 
 ### Activités autorisées
@@ -259,24 +329,35 @@ f) il a été satisfait aux autres exigences de délivrance du permis énoncées
 ### Définitions
 
 13 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «ordonnance d’exploitation concertée» Ordonnance visée au paragraphe (2). («unitization order»)
+
 «propriétaire foncier» Personne propriétaire des droits à l’espace poral dans un secteur unitaire qui fait l’objet d’une demande d’ordonnance d’exploitation concertée. («landowner»)
 
 ### Ordonnance d’exploitation concertée
 
 (2) À la demande d’une personne qui a demandé ou qui a l’intention de demander un permis de stockage en vertu de la présente loi, le Tribunal peut ordonner :
+
 a) la mise en commun, pour les besoins d’un site de stockage de carbone, des droits à l’espace poral dans un secteur unitaire;
+
 b) la gestion de la construction, de l’aménagement, de l’utilisation, de la désaffectation et de la supervision du site de stockage de carbone, de même que la gestion de la réhabilitation et de la remise en état des terres connexes, par la personne, les personnes ou la catégorie de personnes qu’indique l’ordonnance;
+
 c) la répartition des coûts et des bénéfices de l’exploitation à l’intérieur du secteur unitaire de la manière que précise l’ordonnance;
+
 d) la prise de toute autre mesure prévue par les règlements.
 
 ### Délivrance d’ordonnances
 
 (3) Le Tribunal ne délivre une ordonnance d’exploitation concertée que s’il est convaincu de ce qui suit :
+
 a) l’exploitation concertée faciliterait l’utilisation optimale des dépôts en Ontario;
+
 b) la personne ou les personnes demandant l’ordonnance ont fait un effort de bonne foi d’obtenir le consentement de tous les propriétaires fonciers à la cession de leurs droits à l’espace poral;
+
 c) la personne ou les personnes demandant l’ordonnance ont obtenu le consentement des propriétaires fonciers dont le droit de propriété représente la majorité des droits à l’espace poral dans le secteur unitaire, selon ce qui est établi conformément aux règlements;
+
 d) les propriétaires fonciers qui n’ont pas consenti ont été ou seront indemnisés de façon équitable;
+
 e) les autres circonstances prescrites par les règlements existent.
 
 ### Conditions
@@ -294,12 +375,19 @@ e) les autres circonstances prescrites par les règlements existent.
 ### Règlements
 
 (7) Le lieutenant-gouverneur en conseil peut, par règlement, régir les ordonnances d’exploitation concertée, et notamment :
+
 a) traiter de tout ce que le présent article mentionne comme étant fait par règlement;
+
 b) régir les demandes d’ordonnances d’exploitation concertée et établir les exigences à remplir avant qu’une telle ordonnance ne soit délivrée;
+
 c) prescrire les renseignements qui doivent figurer dans une ordonnance d’exploitation concertée;
+
 d) régir le moment où les ordonnances d’exploitation concertée entrent en vigueur, notamment préciser les conditions devant être remplies avant qu’une telle ordonnance n’entre en vigueur;
+
 e) régir la modification, le transfert ou la révocation des ordonnances d’exploitation concertée, notamment en énonçant des exigences de fond ou des exigences procédurales;
+
 f) prévoir l’expiration des ordonnances d’exploitation concertée, notamment lorsqu’une telle ordonnance n’est pas utilisée après sa délivrance;
+
 g) exiger que les ordonnances d’exploitation concertée soient enregistrées sur le titre des terres ou des biens-fonds qu’elles visent.
 
 ### Renvoi à la Commission de l’énergie de l’Ontario
@@ -307,15 +395,21 @@ g) exiger que les ordonnances d’exploitation concertée soient enregistrées s
 ### Définitions
 
 14 (1) Les définitions qui suivent s’appliquent au présent article et à l’article 15.
+
 «Commission» La Commission de l’énergie de l’Ontario. («Board»)
+
 «secteur de stockage de gaz» Secteur que la Commission désigne comme secteur de stockage de gaz en vertu de l’article 36.1 de la Loi de 1998 sur la Commission de l’énergie de l’Ontario. («gas storage area»)
 
 ### Interventions de la Commission
 
 (2) Pour l’application du présent article, la demande de permis de recherche et d’évaluation ou de permis de stockage, ou la demande de modification de l’un ou l’autre permis, nécessite une intervention de la Commission dans n’importe laquelle des circonstances suivantes :
+
 1. Les activités pour lesquelles un permis ou une modification du permis est demandé, selon le cas, impliquent, dans un secteur de stockage de gaz, la construction, l’utilisation, l’entretien ou la désaffectation d’un puits, ou l’exercice d’autres activités sur ou dans un puits.
+
 2. Les activités pour lesquelles un permis ou une modification du permis est demandé, selon le cas, impliquent, dans un rayon de 1,6 kilomètre d’un secteur de stockage de gaz, l’utilisation d’un puits pour injecter du dioxyde de carbone ou d’autres substances aux fins du stockage de carbone.
+
 3. Le ministre est d’avis que les activités pour lesquelles le permis ou une modification du permis, selon le cas, est demandé risquent d’avoir une incidence sur les activités dans un secteur de stockage de gaz.
+
 4. Les autres circonstances prescrites par les règlements pris par le ministre.
 
 ### Exception
@@ -365,7 +459,9 @@ g) exiger que les ordonnances d’exploitation concertée soient enregistrées s
 ### Ordonnance
 
 (4) Qu’il ait décidé ou non de tenir une audience, le Tribunal peut, par ordonnance, enjoindre au ministre de faire ce qui suit :
+
 a) dans le cas d’une demande de permis, délivrer le permis avec les conditions que le Tribunal estime appropriées, ou refuser de le délivrer;
+
 b) dans le cas d’une demande de modification d’un permis, modifier le permis et l’assortir des conditions que le Tribunal estime appropriées, ou refuser de le modifier.
 
 ### Conditions
@@ -379,7 +475,9 @@ b) dans le cas d’une demande de modification d’un permis, modifier le permis
 ### Demande dûment remplie
 
 16 (1) Pour l’application du présent article, une demande d’autorisation est dûment remplie si son auteur, à la fois :
+
 a) s’est conformé à toutes les exigences de la présente loi et des règlements qui s’y appliquent, notamment en fournissant tous les renseignements qu’il devait fournir;
+
 b) a fourni les renseignements supplémentaires que le ministre estime nécessaires pour qu’il puisse étudier intégralement la demande.
 
 ### Idem
@@ -397,7 +495,9 @@ b) a fourni les renseignements supplémentaires que le ministre estime nécessai
 ### Demande réputée retirée
 
 (5) Le ministre peut considérer qu’une demande qui n’est pas dûment remplie a été retirée si, à la fois :
+
 a) il a informé l’auteur de la demande en application du paragraphe (4) que la demande n’est pas dûment remplie;
+
 b) il est d’avis que l’auteur de la demande n’a pas fait de progrès concrets pour corriger les lacunes de la demande.
 
 ### Avis : demande réputée retirée
@@ -431,7 +531,9 @@ b) il est d’avis que l’auteur de la demande n’a pas fait de progrès concr
 ### Révocation
 
 19 (1) Le ministre peut révoquer une autorisation conformément aux éventuels règlements qu’il a pris si, selon le cas :
+
 a) le titulaire d’autorisation a contrevenu à la présente loi, aux règlements, à un ordre donné, à un arrêté pris ou à une ordonnance rendue ou à une autorisation délivrée sous le régime de la présente loi;
+
 b) le titulaire d’autorisation est réputé incapable d’agir au sens du paragraphe 1 (4).
 
 ### Ordre de transfert
@@ -457,7 +559,9 @@ b) le titulaire d’autorisation est réputé incapable d’agir au sens du para
 ### Révocation
 
 (5) Le ministre peut révoquer une autorisation suspendue si, à la fois :
+
 a) le titulaire d’autorisation ne s’est pas conformé aux exigences de l’avis à la satisfaction du ministre dans le délai imparti pour ce faire;
+
 b) le délai imparti pour demander au Tribunal de réviser la suspension en vertu de l’alinéa 31 (1) a) ou pour interjeter appel de la suspension devant le Tribunal en vertu de l’alinéa 31 (1) b), selon le cas, a expiré et aucune révision ou aucun appel n’a été demandé ou interjeté ou, à la suite d’une audience de révision ou d’appel, la suspension reste en vigueur.
 
 ### Effet de la suspension
@@ -467,10 +571,15 @@ b) le délai imparti pour demander au Tribunal de réviser la suspension en vert
 ### Contenu de l’avis
 
 (7) L’avis visé au paragraphe (1) énonce ce qui suit :
+
 1. Les motifs de la suspension.
+
 2. Les mesures que le titulaire d’autorisation doit prendre ou cesser de prendre.
+
 3. Une déclaration qui informe le titulaire d’autorisation des droits que lui confère le paragraphe 31 (1).
+
 4. Une mention indiquant que la suspension sera annulée dès que le titulaire d’autorisation se sera conformé à l’avis à la satisfaction du ministre, et que ce dernier peut révoquer l’autorisation si le titulaire ne se conforme pas à l’avis dans le délai imparti pour ce faire, à moins que le titulaire demande une révision ou interjette appel.
+
 5. Les renseignements supplémentaires prescrits par les règlements pris par le ministre.
 
 ### Règlements : partie III
@@ -478,18 +587,27 @@ b) le délai imparti pour demander au Tribunal de réviser la suspension en vert
 ### Lieutenant-gouverneur en conseil
 
 21 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire des restrictions pour l’application des paragraphes 11 (3), 12 (1) et (6) et 17 (2);
+
 b) prescrire de l’espace poral public qui est de l’espace poral public exclu pour l’application du paragraphe 11 (4).
 
 ### Ministre
 
 (2) Le ministre peut, par règlement :
+
 a) traiter de tout ce qui est mentionné dans la présente partie comme étant prescrit ou fait par ailleurs par les règlements pris par le ministre;
+
 b) prescrire des catégories de licences et de permis et les conditions types qui s’y appliquent;
+
 c) régir les demandes à l’égard des autorisations, notamment énoncer des exigences de fond et des exigences procédurales en matière de délivrance d’autorisations;
+
 d) régir la conclusion du ministre qu’une demande est ou n’est pas dûment remplie pour l’application de l’article 16 et les demandes réputées retirées en application de cet article, notamment préciser dans quelles circonstances il n’y a pas eu de progrès concrets pour l’application de l’alinéa 16 (5) b);
+
 e) régir la période de validité et le renouvellement des autorisations, notamment énoncer des exigences de fond et des exigences procédurales en matière de renouvellement d’autorisations, exiger le versement de droits relatifs aux demandes de renouvellement et fixer la date limite de réception de ces demandes;
+
 f) régir le transfert, la suspension, la révocation et la remise des autorisations;
+
 g) régir les droits et obligations des anciens titulaires d’autorisations expirées, suspendues ou révoquées.
 
 ## PARTIE IV OBLIGATIONS, EXPLOITATION ET FERMETURE DE SITES DE STOCKAGE DE CARBONE
@@ -497,9 +615,13 @@ g) régir les droits et obligations des anciens titulaires d’autorisations exp
 ### Obligations générales
 
 22 Toute personne qui exerce des activités prévues par la présente loi :
+
 a) prend toutes les précautions raisonnables selon les circonstances :
+
 (i) pour s’assurer que ses employés, ses mandataires, ses entrepreneurs et ses sous-traitants se conforment à la présente loi et aux règlements, à un ordre donné, à un arrêté pris ou à une ordonnance rendue ou à une autorisation délivrée sous le régime de la présente loi,
+
 (ii) pour éliminer ou atténuer les dangers et pour empêcher les dangers éventuels pour le public ou l’environnement qui découlent des activités exercées, telles qu’elles sont autorisées ou exigées par la présente loi ou les règlements, un ordre donné, un arrêté pris ou une ordonnance rendue ou une autorisation délivrée sous le régime de la présente loi;
+
 b) exerce les activités autorisées ou exigées par la présente loi ou les règlements, un ordre donné, un arrêté pris ou une ordonnance rendue ou une autorisation délivrée sous le régime de la présente loi de manière à protéger la sécurité du public et l’environnement.
 
 ### Droits sur les terrains accordés par le Tribunal : sites de stockage de carbone
@@ -507,13 +629,17 @@ b) exerce les activités autorisées ou exigées par la présente loi ou les rè
 ### Définition
 
 23 (1) La définition qui suit s’applique au présent article.
+
 «terrain» S’entend en outre d’un droit ou d’un intérêt sur un terrain. («land»)
 
 ### Ordonnance du Tribunal
 
 (2) À la demande d’un titulaire de permis, le Tribunal peut, par ordonnance, accorder au titulaire de permis le droit d’entrer sur des terrains et de les utiliser pour faire ce qui suit relativement au bon fonctionnement d’un site de stockage de carbone :
+
 1. Exercer les activités de surveillance, de mesurage ou de vérification exigées par la présente loi, les règlements, un ordre donné, un arrêté pris ou une ordonnance rendue ou une autorisation délivrée sous le régime de la présente loi.
+
 2. Recueillir des renseignements, effectuer des mesures ou effectuer des évaluations, notamment faire ou préparer des arpentages.
+
 3. Empêcher ou atténuer un danger pour la sécurité du public ou l’environnement.
 
 ### Terrains concédés ou non concédés par lettres patentes
@@ -527,7 +653,9 @@ b) exerce les activités autorisées ou exigées par la présente loi ou les rè
 ### Indemnisation
 
 (5) Le Tribunal n’accorde des droits en vertu du paragraphe (2) que si, à la fois :
+
 a) les préjudices ou dommages que causerait l’exercice de ces droits peuvent être indemnisés de façon suffisante;
+
 b) le Tribunal est d’avis que, compte tenu de toutes les circonstances, il est raisonnable d’accorder les droits.
 
 ### Idem
@@ -549,12 +677,19 @@ b) le Tribunal est d’avis que, compte tenu de toutes les circonstances, il est
 ### Contenu de la demande
 
 (10) La demande d’ordonnance visée au paragraphe (2) comprend :
+
 a) une mention claire de ce qui suit :
+
 (i) le ou les droits faisant l’objet de la demande,
+
 (ii) le terrain ou les biens touchés par le fait d’accorder ce droit ou ces droits ou l’exercice de ce droit ou de ces droits,
+
 (iii) le propriétaire ou les propriétaires du terrain ou des biens, dans la mesure où ils peuvent être identifiés;
+
 b) une carte ou un plan de la localité indiquant le terrain en jeu, y compris tout terrain submergé;
+
 c) les plans et les devis détaillés des ouvrages qu’il est proposé de construire ou des choses qu’il est proposé de faire;
+
 d) les renseignements ou documents supplémentaires prescrits par les règlements.
 
 ### Renseignements ou documents supplémentaires
@@ -596,30 +731,43 @@ d) les renseignements ou documents supplémentaires prescrits par les règlement
 ### Arrêté de cesser l’injection de carbone
 
 24 (1) Le ministre peut, par arrêté, enjoindre au titulaire de permis de cesser temporairement ou définitivement d’injecter du dioxyde de carbone dans un dépôt à compter de la date indiquée dans l’arrêté s’il a des motifs raisonnables de croire que l’une ou l’autre des situations suivantes existe :
+
 a) le dioxyde de carbone n’est plus confiné à la partie du dépôt indiqué dans le permis, ou risque de ne plus y être confiné;
+
 b) le titulaire de permis a contrevenu, contrevient ou contreviendra à la présente loi, aux règlements, à un ordre donné, à un arrêté pris ou à une ordonnance rendue ou à un permis délivré sous le régime de la présente loi;
+
 c) un puits, un dépôt ou un ouvrage accessoire qui fait partie d’un site de stockage de carbone constitue ou est sur le point de devenir un danger pour le public ou pour l’environnement, ou est utilisé ou est sur le point d’être utilisé d’une manière qui constitue un tel danger;
+
 d) aucun dioxyde de carbone n’a été injecté dans le dépôt au cours de la période prescrite par les règlements pris par le ministre;
+
 e) toute autre circonstance prescrite par les règlements pris par le ministre existe.
 
 ### Contenu de l’arrêté
 
 (2) L’arrêté pris en vertu du paragraphe (1) :
+
 a) indique les raisons pour lesquelles il a été pris et les motifs sur lesquels le ministre s’est appuyé pour le prendre;
+
 b) indique la date de prise d’effet de l’arrêté;
+
 c) comprend les renseignements supplémentaires prescrits par les règlements pris par le ministre.
 
 ### Arrêté de fermeture
 
 (3) Pendant que l’arrêté pris en vertu du paragraphe (1) est encore en vigueur, le ministre peut, par arrêté, enjoindre au titulaire de permis de fermer un site de stockage de carbone à la date indiquée dans l’arrêté si, selon le cas :
+
 a) les travaux de remédiation visant à résoudre le problème qui a donné lieu à la prise de l’arrêté et à empêcher que se reproduisent les circonstances qui ont donné lieu à la prise de l’arrêté, ou à produire un de ces résultats, n’ont pas été accomplis dans le délai prévu par l’arrêté;
+
 b) malgré leur accomplissement, les travaux de remédiation visés à l’alinéa a) n’ont pas traité adéquatement du problème qui a donné lieu à la prise de l’arrêté ou n’empêcheront pas adéquatement que se reproduisent les circonstances qui ont donné lieu à la prise de l’arrêté;
+
 c) à la date de prise d’effet de l’arrêté, aucun dioxyde de carbone n’avait été injecté dans le dépôt pendant au moins la période prescrite par les règlements pris par le ministre.
 
 ### Arrêté double
 
 (4) Un seul arrêté pris en vertu des paragraphes (1) et (3) peut exiger que l’injection de dioxyde de carbone dans un dépôt cesse définitivement et que le site de stockage de carbone soit fermé à une date précise si, selon le cas :
+
 a) l’arrêté est pris en vertu des alinéas (1) d) et (3) c);
+
 b) le ministre est d’avis qu’aucuns travaux de remédiation ne traiteraient adéquatement du problème donnant lieu à la prise de l’arrêté de cesser d’injecter du dioxyde de carbone dans le dépôt ou n’empêcheraient que se reproduisent les circonstances donnant lieu à la prise de l’arrêté.
 
 ### Conditions de l’arrêté de fermeture
@@ -649,31 +797,45 @@ b) le ministre est d’avis qu’aucuns travaux de remédiation ne traiteraient 
 ### Fermeture du site : obligations
 
 (5) Le titulaire de permis qui est tenu de fermer un site de stockage de carbone, ou qui souhaite fermer un site de stockage de carbone et qui est autorisé à le fermer en vertu du présent article :
+
 a) désaffecte tous les puits, les dépôts et les ouvrages accessoires qui font partie du site, et ce, conformément à la présente loi, aux règlements pris par le ministre, à son permis et, s’il y a lieu, aux conditions de l’approbation ou à l’arrêté de fermeture du site;
+
 b) réhabilite et remet en état les terres servant au site conformément aux règlements pris par le ministre, à son permis et, s’il y a lieu, aux conditions de l’approbation ou à l’arrêté de fermeture du site;
+
 c) jusqu’à la fin de la période prescrite par les règlements pris par le ministre, continue à gérer le site conformément à la présente loi, aux règlements pris par le ministre, aux ordres donnés, aux arrêtés pris ou aux ordonnances rendues ou aux autorisations délivrées sous le régime de la présente loi;
+
 d) exerce les activités et suit les formalités en matière d’avis et de consultation prévues par les règlements pris par le ministre;
+
 e) remplit les autres conditions de l’approbation ou de l’arrêté de fermeture du site, s’il y a lieu;
+
 f) satisfait aux autres exigences relatives à la fermeture du site qui sont prévues par toute autorisation donnée à son égard ou par les règlements pris par le ministre.
 
 ### Certificat de fermeture et transfert du passif
 
 26 (1) Le titulaire d’un permis de stockage est admissible à la présentation d’une demande de certificat de fermeture du site de stockage de carbone au ministre dès que surviennent tous les événements suivants :
+
 1. Il a obtenu l’approbation du ministre pour fermer le site ou a reçu l’arrêté lui enjoignant de le fermer ou, s’il est autorisé à fermer le site en vertu du paragraphe 25 (2), les mesures ou étapes prescrites par les règlements pris par le ministre ont été prises ou suivies.
+
 2. Il a satisfait aux exigences de l’article 25.
+
 3. La période visée à l’alinéa 25 (5) c) s’est écoulée.
 
 ### Délivrance du certificat
 
 (2) Le ministre délivre le certificat de fermeture au titulaire d’un permis de stockage qui est admissible à la présentation d’une demande et qui le demande conformément aux règlements pris par le ministre si, à la fois :
+
 a) le ministre est convaincu que le dioxyde de carbone stocké dans un dépôt se comporte de façon stable et prévisible et qu’il n’y a aucun risque important de fuite de dioxyde de carbone à l’avenir;
+
 b) il a été satisfait aux conditions prescrites par les règlements et les circonstances prescrites par les règlements existent.
 
 ### Prise en charge du passif après fermeture
 
 (3) Sous réserve des restrictions ou exceptions prévues par les règlements ou dans le certificat de fermeture, au moment de sa délivrance, la Couronne :
+
 a) prend en charge toutes les obligations du titulaire de permis de stockage relatives au site de stockage de carbone visé par le certificat qui a été délivré en ce qui concerne les puits, les dépôts et les ouvrages accessoires qui en font partie;
+
 b) devient le propriétaire des puits et des ouvrages accessoires qui font partie du site de stockage de carbone visé par le certificat qui a été délivré, tout en étant franc et quitte de l’ensemble des intérêts, charges et privilèges, et assume la responsabilité de l’exploitation de ces puits et ouvrages accessoires;
+
 c) assume les autres droits, les autres devoirs ou les autres obligations que prescrivent les règlements.
 
 ### Idem
@@ -691,7 +853,9 @@ c) assume les autres droits, les autres devoirs ou les autres obligations que pr
 ### Prise en charge des droits avant la délivrance du certificat de fermeture
 
 (7) En l’absence d’un certificat de fermeture, la Couronne peut, conformément aux règlements, assumer tout ou partie des droits, devoirs ou obligations visés au paragraphe (3) si, selon le cas :
+
 a) le titulaire du permis de stockage relatif au site est réputé incapable d’agir au sens du paragraphe 1 (4);
+
 b) le ministre révoque un permis de stockage de carbone conformément au paragraphe 19 (1) ou 20 (5).
 
 ### Couverture d’assurance
@@ -711,28 +875,47 @@ b) le ministre révoque un permis de stockage de carbone conformément au paragr
 ### Lieutenant-gouverneur en conseil
 
 29 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) régir les ordonnances que rend le Tribunal en vertu de l’article 23, notamment prescrire des renseignements et des documents pour l’application de l’alinéa 23 (10) d) et exiger l’enregistrement des ordonnances sur le titre des terrains qu’elles touchent;
+
 b) prescrire des conditions et des circonstances pour l’application de l’alinéa 26 (2) b);
+
 c) prescrire des restrictions ou des exceptions pour l’application du paragraphe 26 (3);
+
 d) prescrire des droits, des devoirs et des obligations pour l’application de l’alinéa 26 (3) c) et les régir, notamment prévoir que la Couronne assume des droits, des devoirs et des obligations qui sont prescrits pour l’application de cet alinéa à l’égard des certificats de fermeture déjà délivrés;
+
 e) régir le retour des droits, des devoirs et des obligations à la suite de la révocation d’un certificat de fermeture en vertu du paragraphe 26 (5);
+
 f) régir la prise en charge de droits, de devoirs et d’obligations par application du paragraphe 26 (7) en l’absence d’un certificat de fermeture;
+
 g) régir la couverture d’assurance que les titulaires d’autorisation sont tenus d’obtenir et de maintenir en application de l’article 27.
 
 ### Ministre
 
 (2) Le ministre peut, par règlement :
+
 a) traiter de tout ce qui est mentionné dans la présente partie comme étant prescrit ou fait par ailleurs par les règlements pris par le ministre;
+
 b) régir la construction, l’utilisation, l’entretien et la désaffectation de puits, de dépôts et d’ouvrages accessoires, ainsi que les autres activités sur ou dans un puits, un dépôt ou un ouvrage accessoire;
+
 c) régir la réhabilitation et la remise en état des terres utilisées relativement à un site de stockage de carbone;
+
 d) réglementer l’emplacement et l’espacement des puits;
+
 e) interdire le forage de puits dans les secteurs et dépôts indiqués;
+
 f) exiger que les titulaires d’autorisation conservent des carottes et des échantillons de forage et de production et qu’ils les fournissent aux personnes indiquées;
+
 g) exiger que les titulaires d’autorisation versent les frais de traitement des échantillons ou des carottes exigés par les personnes à qui les titulaires sont tenus de fournir les échantillons ou les carottes;
+
 h) régir l’établissement et la tenue de dossiers par les titulaires d’autorisation, actuels et anciens, notamment :
+
 (i) exiger qu’ils établissent et tiennent les dossiers ou rapports indiqués, prélèvent des échantillons, effectuent des tests ou des levés et établissent et tiennent des dossiers concernant ces échantillons, ces tests et ces levés, notamment à la demande du ministère du ministre,
+
 (ii) exiger qu’ils fournissent toute chose prévue au sous-alinéa (i) au ministère du ministre ou au public, sous la forme ou de la manière qu’indique le ministre;
+
 i) exiger que les titulaires d’autorisation qui sont des personnes morales avisent le ministère du ministre des changements indiqués touchant ces dernières, tel qu’un changement parmi ses dirigeants ou administrateurs, sa faillite ou sa dissolution;
+
 j) exiger que les titulaires d’autorisation fournissent des renseignements ou des rapports aux municipalités.
 
 ## PARTIE V EXAMENS ET APPELS DEVANT LE TRIBUNAL
@@ -740,32 +923,47 @@ j) exiger que les titulaires d’autorisation fournissent des renseignements ou 
 ### Avis de proposition
 
 30 (1) Sous réserve des paragraphes (4) et (5), le ministre remet à l’auteur d’une demande d’autorisation ou au titulaire d’autorisation, selon le cas, un avis écrit portant qu’il se propose de faire ce qui suit :
+
 a) assortir une autorisation de conditions, sauf les conditions types qu’exigent les règlements pris en vertu de l’alinéa 21 (2) b), ou refuser de la délivrer;
+
 b) modifier l’autorisation à sa discrétion;
+
 c) refuser tout ou partie d’une demande de modification d’une autorisation;
+
 d) refuser de consentir au transfert d’une autorisation;
+
 e) assortir le consentement au transfert d’une autorisation de conditions;
+
 f) révoquer une autorisation;
+
 g) prendre ou modifier un arrêté portant que l’injection de dioxyde de carbone dans un dépôt cesse temporairement ou définitivement, ou qu’un site de stockage de carbone soit fermé;
+
 h) ajouter des conditions à l’approbation de fermer un site de stockage de carbone en vertu du paragraphe 25 (4).
 
 ### Restriction : mise à l’exécution d’une proposition
 
 (2) Le ministre ne peut donner suite à la proposition que :
+
 a) si le destinataire de l’avis visé au paragraphe (1) n’entame pas un examen ou n’interjette pas appel de la proposition dans le délai prévu au paragraphe 31 (2) pour ce faire ou qu’il remet au ministre un avis écrit portant qu’il renonce à son droit de révision ou d’appel;
+
 b) s’il est autorisé à le faire aux termes de l’article 32 ou 33, advenant que le destinataire de l’avis visé au paragraphe (1) entame un examen ou interjette appel de la proposition.
 
 ### Contenu de l’avis
 
 (3) L’avis exigé par le paragraphe (1) :
+
 a) décrit la proposition et ses motifs;
+
 b) informe le destinataire des droits que lui confère l’article 31;
+
 c) comprend les renseignements supplémentaires prescrits par les règlements pris par le ministre.
 
 ### Aucun avis de proposition requis
 
 (4) Le ministre peut exécuter une décision visée au paragraphe (1) sans remettre l’avis de proposition prévu à ce paragraphe dans les circonstances suivantes :
+
 1. L’auteur de la demande d’autorisation ou le titulaire d’autorisation est réputé incapable d’agir au sens du paragraphe 1 (4) et, si le titulaire d’autorisation est un particulier décédé, aucun certificat de nomination à titre de fiduciaire de la succession n’a été délivré relatif à la succession à qui que ce soit et plus d’un an s’est écoulé depuis le décès.
+
 2. Les circonstances prescrites par les règlements.
 
 ### Idem : mesure prise à la suite du rapport de la Commission ou de l’ordonnance du Tribunal
@@ -775,14 +973,23 @@ c) comprend les renseignements supplémentaires prescrits par les règlements pr
 ### Examens et appels
 
 31 (1) Le destinataire de l’avis de proposition visé au paragraphe 30 (1) ou de l’avis de suspension visé au paragraphe 20 (1) peut, selon le cas :
+
 a) faire examiner la proposition, y compris un de ses aspects particuliers, par le Tribunal, si l’avis se rapporte :
+
 (i) à une licence de recherche et d’évaluation,
+
 (ii) à une licence de stockage;
+
 b) interjeter appel de la proposition, y compris un de ses aspects particuliers, devant le Tribunal, si l’avis se rapporte :
+
 (i) à un permis de recherche et d’évaluation,
+
 (ii) à un permis de stockage,
+
 (iii) à un arrêté de cesser d’injecter temporairement ou définitivement du dioxyde de carbone dans un dépôt,
+
 (iv) à une approbation conditionnelle visée au paragraphe 25 (4),
+
 (v) à un arrêté de fermeture d’un site de stockage de carbone.
 
 ### Procédure
@@ -812,12 +1019,19 @@ b) interjeter appel de la proposition, y compris un de ses aspects particuliers,
 ### Résolution de l’appel : permis
 
 33 (1) À l’issue de l’audience concernant un avis qui est susceptible d’appel en vertu de l’alinéa 31 (1) b), le Tribunal peut, par ordonnance :
+
 a) dans le cas d’un avis de proposition :
+
 (i) enjoindre au ministre de donner suite à la proposition énoncée dans l’avis,
+
 (ii) enjoindre au ministre de ne pas donner suite à la proposition énoncée dans l’avis,
+
 (iii) enjoindre au ministre de prendre toute autre mesure que la présente loi l’autorise à prendre et que le Tribunal estime appropriée;
+
 b) dans le cas d’un avis de suspension :
+
 (i) confirmer ou annuler la suspension,
+
 (ii) confirmer la suspension, mais en modifier les conditions, notamment en exigeant que le titulaire du permis prenne ou cesse de prendre des mesures supplémentaires ou des mesures différentes dans le délai qu’indique le Tribunal pour que la suspension soit annulée.
 
 ### Ministre : délai de conformité à l’ordonnance
@@ -843,9 +1057,13 @@ b) dans le cas d’un avis de suspension :
 ### Définitions
 
 35 Les définitions qui suivent s’appliquent à la présente partie.
+
 «agent d’exécution» Personne qui est un agent d’exécution selon l’article 49. («enforcement officer»)
+
 «inspecteur» Personne qui est un inspecteur selon l’article 37. («inspector»)
+
 «juge» Juge provincial ou juge de paix. («justice»)
+
 «véhicule» Tout genre de véhicule qui est mû, propulsé ou tiré sur le sol ou la glace par une force quelle qu’elle soit, y compris la force musculaire. S’entend en outre du matériel roulant d’un chemin de fer. («vehicle»)
 
 ### Examen par un tiers
@@ -883,24 +1101,39 @@ b) dans le cas d’un avis de suspension :
 ### Inspection en vue d’établir la conformité
 
 38 (1) L’inspecteur peut, sans mandat et sans le consentement du propriétaire ou de l’occupant, entrer dans un bien-fonds, un bâtiment ou un autre endroit et y effectuer une inspection s’il a des motifs raisonnables de croire que l’entrée et l’inspection l’aideraient à établir la conformité à ce qui suit :
+
 a) la présente loi ou les règlements;
+
 b) une autorisation;
+
 c) une approbation de fermer un site de stockage de carbone;
+
 d) un ordre donné par un inspecteur ou le ministre, un arrêté pris par le ministre ou une ordonnance rendue par le Tribunal ou un tribunal sous le régime de la présente loi.
 
 ### Pouvoirs d’inspection
 
 (2) Lorsqu’il effectue une inspection, l’inspecteur peut :
+
 a) autoriser quiconque agit sous ses ordres à entrer dans un bien-fonds, un bâtiment ou un autre endroit, avec ou sans lui, afin de l’aider;
+
 b) demander de se faire accompagner de toute personne ayant des connaissances spécialisées ou une expertise en toute matière se rapportant à un site de stockage de carbone ou au maniement ou à l’utilisation d’un puits, d’un dépôt ou d’un ouvrage accessoire ou un composant d’un puits, d’un dépôt ou d’un ouvrage accessoire;
+
 c) occuper ou utiliser un puits, un dépôt ou un ouvrage accessoire faisant partie d’un site de stockage de carbone, ou en assumer le contrôle, en tout temps;
+
 d) exiger la production de plans ou de devis de tout composant d’un site de stockage de carbone, ou la production d’une autorisation, d’un dossier ou d’un rapport;
+
 e) inspecter un plan, un devis, une autorisation, un dossier ou un rapport dont la production est exigée en vertu de l’alinéa d);
+
 f) exiger de quiconque des renseignements sur toute question se rapportant à un site de stockage de carbone ou au maniement ou à l’utilisation d’un puits, d’un dépôt ou d’un ouvrage accessoire qui en fait partie;
+
 g) exiger que le titulaire d’autorisation ou un de ses employés, ses mandataires, ses entrepreneurs ou ses sous-traitants fasse les examens ou les tests se rapportant à l’inspection ou qu’il se renseigne sur une question s’y rapportant et qu’il en rende compte à l’inspecteur de la façon que précise ce dernier;
+
 h) seul ou avec l’aide de personnes ayant des connaissances spécialisées ou une expertise, faire les examens ou les tests se rapportant à l’inspection ou se renseigner sur une question s’y rapportant et, à cette fin, prendre ou enlever tout document, toute matière ou toute substance, à condition d’avoir donné au titulaire d’autorisation un préavis aussi long que raisonnablement possible du fait que le document, la matière ou la substance sera pris ou enlevé;
+
 i) accéder ou exiger l’accès à un système informatique ou à un autre dispositif qui contient ou permet d’extraire des renseignements, pour examiner les renseignements qui pourraient se rapporter à l’inspection que le système ou le dispositif contient ou auxquels il donne accès, et produire ou faire produire, à partir du système ou du dispositif, un imprimé ou toute autre sortie des renseignements qui se rapportent à l’inspection;
+
 j) faire des copies des documents inspectés ou produits au cours de l’inspection qui pourraient se rapporter à celle-ci;
+
 k) enlever des documents ou des choses qui pourraient se rapporter à l’inspection pour en faire des copies ou une inspection supplémentaire; la copie ou l’inspection supplémentaire doit toutefois être effectuée promptement et les documents ou choses doivent être retournés promptement à la personne à qui ils ont été retirés.
 
 ### Logements
@@ -910,7 +1143,9 @@ k) enlever des documents ou des choses qui pourraient se rapporter à l’inspec
 ### Mandat relatif au logement
 
 (4) Sur demande présentée sans préavis, un juge peut décerner un mandat autorisant un inspecteur à entrer dans un bâtiment ou une partie de bâtiment qui sert de logement et à y effectuer une inspection s’il est convaincu, sur la foi d’une dénonciation faite sous serment ou par affirmation solennelle, qu’il existe des motifs raisonnables de croire :
+
 a) d’une part, qu’une inspection effectuée en vertu du présent article est nécessaire pour la fin visée au paragraphe (1);
+
 b) d’autre part, que l’entrée a été ou sera vraisemblablement refusée.
 
 ### Idem : demande de mandat
@@ -936,9 +1171,13 @@ b) d’autre part, que l’entrée a été ou sera vraisemblablement refusée.
 ### Arrêt et inspection des véhicules et bateaux
 
 39 (1) L’inspecteur peut arrêter un véhicule ou un bateau s’il a des motifs raisonnables de croire que cela aiderait à établir la conformité à ce qui suit :
+
 a) la présente loi ou les règlements;
+
 b) une autorisation;
+
 c) une approbation de fermer un site de stockage de carbone;
+
 d) une disposition d’un ordre donné par un inspecteur ou le ministre, d’un arrêté pris par le ministre ou d’une ordonnance rendue par le Tribunal ou un tribunal sous le régime de la présente loi.
 
 ### Arrêt par le conducteur
@@ -948,8 +1187,11 @@ d) une disposition d’un ordre donné par un inspecteur ou le ministre, d’un 
 ### Signaux d’arrêt
 
 (3) Pour l’application du paragraphe (2), les signaux d’arrêt comprennent :
+
 a) un signal d’arrêt manuel fait par l’inspecteur;
+
 b) un clignotement de lumière rouge ou de lumière rouge et bleu, si l’inspecteur est dans un véhicule;
+
 c) un clignotement de lumière bleue, si l’inspecteur est dans un bateau.
 
 ### Aide fournie à l’inspecteur
@@ -959,8 +1201,11 @@ c) un clignotement de lumière bleue, si l’inspecteur est dans un bateau.
 ### Entrave au travail de l’inspecteur
 
 41 Nul ne doit, selon le cas :
+
 a) faire sciemment une déclaration fausse ou trompeuse à l’inspecteur qui agit sous le régime de la présente loi;
+
 b) refuser de fournir des renseignements qu’exige l’inspecteur qui agit sous le régime de la présente loi;
+
 c) entraver d’une autre façon le travail de l’inspecteur qui agit sous le régime de la présente loi.
 
 ### Ordres des inspecteurs en cas de contravention
@@ -974,21 +1219,33 @@ c) entraver d’une autre façon le travail de l’inspecteur qui agit sous le r
 ### Contenu de l’ordre
 
 (3) L’ordre donné en vertu du paragraphe (1) :
+
 a) est écrit;
+
 b) en énonce les motifs, notamment en indiquant la disposition ou la condition à laquelle l’inspecteur estime qu’il est, a été ou est sur le point d’être contrevenu;
+
 c) indique ce que la personne doit faire pour remédier à la contravention ou en prévenir la répétition;
+
 d) indique le délai imparti pour obéir à l’ordre;
+
 e) indique la date à laquelle il a été donné;
+
 f) signale le fait que la personne peut interjeter appel de l’ordre au ministre conformément au paragraphe 47 (1);
+
 g) comprend les renseignements supplémentaires prescrits par les règlements.
 
 ### Ordre : mesures de prévention
 
 43 (1) S’il a des motifs raisonnables de croire qu’un site de stockage de carbone ou un puits, un dépôt ou un ouvrage accessoire qui en fait partie constitue un danger pour le public ou l’environnement ou est sur le point de devenir un tel danger, l’inspecteur peut, par écrit, ordonner au titulaire de permis en vertu duquel le site est exploité de prendre n’importe laquelle des mesures suivantes à l’égard du site ou d’un puits, d’un dépôt ou d’un ouvrage qui en fait partie :
+
 1. Évaluer le danger éventuel, réduire ou éliminer la probabilité qu’il se produise ou se reproduise et rédiger, à l’intention de l’inspecteur, un rapport écrit sur les mesures prises.
+
 2. Élaborer un plan ou une marche à suivre visant à évaluer le danger éventuel ou à réduire ou à éliminer la probabilité qu’il se produise ou se reproduise, mettre en œuvre le plan ou la marche à suivre et en fournir une copie à l’inspecteur, de même qu’un rapport écrit sur les mesures prises pour mettre en œuvre le plan ou la marche à suivre.
+
 3. Veiller à la disponibilité de l’équipement, du matériel et du personnel appropriés pour évaluer le danger éventuel ou réduire ou éliminer la probabilité qu’il se produise et dresser, à l’intention de l’inspecteur, un rapport écrit sur les mesures prises.
+
 4. Évaluer la présence éventuelle du danger ou la surveiller et documenter et communiquer, par écrit, les constats à l’inspecteur.
+
 5. Prendre ou cesser de prendre les autres mesures prescrites par les règlements.
 
 ### Plan ou marche à suivre
@@ -1002,14 +1259,19 @@ g) comprend les renseignements supplémentaires prescrits par les règlements.
 ### Directive de ne pas utiliser l’ouvrage accessoire entre autres
 
 45 L’ordre donné en vertu de l’article 42, 43 ou 44 peut inclure une directive selon laquelle :
+
 a) le puits, le dépôt ou l’ouvrage accessoire ne doit pas être utilisé tant qu’il n’a pas été obéi à l’ordre;
+
 b) une activité autorisée par une autorisation ne doit pas être exercée.
 
 ### Étiquettes
 
 46 (1) L’inspecteur peut apposer une étiquette à un puits ou à un ouvrage accessoire si, selon le cas :
+
 a) l’inspecteur a donné, en vertu de l’article 42, 43 ou 44, un ordre qui se rapporte au puits ou à l’ouvrage accessoire;
+
 b) le ministre a pris un arrêté ordonnant la fermeture d’un site de stockage de carbone et le puits ou l’ouvrage accessoire en fait partie;
+
 c) il n’est pas permis d’utiliser le puits ou l’ouvrage accessoire en raison d’un arrêté ordonnant la cessation temporaire ou définitive de l’injection du dioxyde de carbone.
 
 ### Avis d’apposition
@@ -1019,7 +1281,9 @@ c) il n’est pas permis d’utiliser le puits ou l’ouvrage accessoire en rais
 ### Utilisation d’un puits ou d’un ouvrage accessoire portant une étiquette
 
 (3) Si une étiquette est apposée à un puits ou à un ouvrage accessoire, nul ne doit :
+
 a) utiliser le puits ou l’ouvrage;
+
 b) sciemment enlever une substance du puits ou de l’ouvrage ou y effectuer l’approvisionnement d’une substance.
 
 ### Enlèvement de l’étiquette
@@ -1033,8 +1297,11 @@ b) sciemment enlever une substance du puits ou de l’ouvrage ou y effectuer l�
 ### Personne désignée par le ministre
 
 (2) Le ministre peut désigner, pour statuer sur l’appel interjeté en vertu du présent article, en tant que son délégué, selon le cas :
+
 a) un seul particulier;
+
 b) un comité de trois particuliers, ou d’un nombre impair supérieur de particuliers, qui agissent à la majorité des voix;
+
 c) le Tribunal.
 
 ### Organisme d’appel
@@ -1048,14 +1315,19 @@ c) le Tribunal.
 ### Rejet de l’appel sans audience
 
 (5) L’organisme d’appel peut rejeter l’appel interjeté en vertu du présent article sans tenir d’audience si, selon le cas :
+
 a) l’appel est frivole, vexatoire ou interjeté de mauvaise foi;
+
 b) l’appelant ne s’est pas conformé au paragraphe (1) en interjetant appel.
 
 ### Avis
 
 (6) Avant de rejeter l’appel sans tenir d’audience, l’organisme d’appel donne à l’appelant un avis écrit qui :
+
 a) signale son intention de rejeter l’appel;
+
 b) énonce les motifs du rejet;
+
 c) informe l’appelant de son droit de présenter des observations écrites à l’égard du rejet dans le délai qu’indique l’avis.
 
 ### Droit de présenter des observations
@@ -1069,8 +1341,11 @@ c) informe l’appelant de son droit de présenter des observations écrites à 
 ### Pouvoirs après l’audience
 
 (9) L’organisme d’appel qui entend un appel peut substituer ses conclusions ou opinions à celles de l’inspecteur dont l’ordre fait l’objet de l’appel et peut :
+
 a) donner un ordre annulant celui de l’inspecteur;
+
 b) donner un ordre confirmant celui de l’inspecteur;
+
 c) substituer un nouvel ordre à celui de l’inspecteur.
 
 ### Ordre de l’organisme d’appel
@@ -1088,15 +1363,21 @@ c) substituer un nouvel ordre à celui de l’inspecteur.
 ### Mesures du ministre relatives au site de stockage de carbone
 
 48 (1) Le ministre peut, par directive, exiger que toute mesure soit prise pour prévenir ou éliminer un danger pour le public ou l’environnement qui a résulté ou résultera vraisemblablement d’une contravention à la présente loi à l’égard de laquelle un ordre d’inspecteur a été donné, si la contravention a trait à un site de stockage de carbone ou à un puits, à un dépôt ou à un ouvrage accessoire qui en fait partie et que :
+
 a) le titulaire d’autorisation est réputé incapable d’agir au sens du paragraphe 1 (4);
+
 b) le ministre a des motifs raisonnables de croire que la mesure préviendrait ou éliminerait le danger si elle était prise.
 
 ### Entrée sur un bien-fonds
 
 (2) La personne qui agit sous la directive du ministre peut, sans le mandat visé au paragraphe (4), entrer sur un bien-fonds sur lequel un puits, un dépôt ou un ouvrage accessoire est situé ou sur un bien-fonds adjacent si, selon le cas :
+
 a) l’entrée se fait avec le consentement d’un occupant ou d’un propriétaire du bien-fonds;
+
 b) le ministre a des motifs raisonnables de croire que le délai nécessaire pour obtenir le mandat visé au paragraphe (4) entraînerait ce qui suit, selon le cas :
+
 (i) un danger pour la santé ou la sécurité de quiconque,
+
 (ii) des dommages ou un risque grave de dommages à l’environnement.
 
 ### Logements
@@ -1106,14 +1387,19 @@ b) le ministre a des motifs raisonnables de croire que le délai nécessaire pou
 ### Mandat autorisant l’entrée
 
 (4) Sur demande présentée sans préavis, un juge peut décerner un mandat autorisant la personne qui agit sous la directive du ministre à entrer sur le bien-fonds visé au paragraphe (2) et à entrer dans un bâtiment ou une partie de bâtiment qui sert de logement et y effectuer une inspection s’il est convaincu, sur la foi d’une dénonciation faite sous serment ou par affirmation solennelle, qu’il existe des motifs raisonnables de croire :
+
 a) d’une part, que la conformité à la directive nécessite l’entrée;
+
 b) d’autre part, que le consentement à l’entrée a été ou sera vraisemblablement refusé.
 
 ### Contenu du mandat
 
 (5) Le mandat décerné en vertu du paragraphe (4) :
+
 a) indique les périodes pendant lesquelles il peut être exécuté;
+
 b) indique que le mandat a pour but d’autoriser l’entrée dans un bâtiment ou une partie de bâtiment qui sert de logement, si c’est le cas;
+
 c) énonce la date de son expiration.
 
 ### Renouvellement
@@ -1135,9 +1421,13 @@ c) énonce la date de son expiration.
 ### Recouvrement des coûts
 
 (10) Le ministre peut recouvrer les coûts de ce qui est fait conformément à ses directives en prenant les mesures suivantes ou l’une d’elles :
+
 1. Exiger par avis écrit qu’un paiement soit fait au ministre des Finances :
+
 i. par le titulaire d’autorisation,
+
 ii. par la succession du titulaire d’autorisation, si ce dernier est un particulier décédé.
+
 2. Imputer à tout ou à partie des coûts la garantie fournie relativement au site de stockage de carbone sous le régime de la présente loi.
 
 ### Reconstitution de la garantie
@@ -1175,7 +1465,9 @@ ii. par la succession du titulaire d’autorisation, si ce dernier est un partic
 ### Ordinateurs
 
 (4) L’agent d’exécution qui effectue une perquisition autorisée par un mandat de perquisition ou par le paragraphe (2) peut faire ce qui suit :
+
 a) avoir accès ou exiger l’accès à un système informatique ou à un autre dispositif qui contient ou permet d’extraire des renseignements en vue d’examiner les renseignements que contient ou auxquels donne accès le système ou le dispositif;
+
 b) produire un imprimé ou toute autre sortie à partir du système ou de l’autre dispositif, ou en exiger la production.
 
 ### Mandat pour effectuer des tests
@@ -1201,8 +1493,11 @@ b) produire un imprimé ou toute autre sortie à partir du système ou de l’au
 ### Ordonnances de communication
 
 51 (1) Sur demande présentée sans préavis, un juge peut ordonner à une personne autre que celle qui fait l’objet d’une enquête relative à une infraction de prendre l’une ou l’autre des mesures suivantes :
+
 1. Produire des documents originaux ou des copies certifiées conformes.
+
 2. Produire des données.
+
 3. Préparer un document à partir de documents ou de données existants et le produire.
 
 ### Contenu de l’ordonnance
@@ -1212,8 +1507,11 @@ b) produire un imprimé ou toute autre sortie à partir du système ou de l’au
 ### Motifs de l’ordonnance
 
 (3) Le juge peut rendre une ordonnance s’il est convaincu, sur la foi d’une dénonciation faite sous serment ou par affirmation solennelle, qu’il existe des motifs raisonnables de croire ce qui suit :
+
 a) une infraction prévue par la présente loi a été ou est commise;
+
 b) le document ou les données fourniront des éléments de preuve relatifs à l’infraction;
+
 c) le document ou les données sont en la possession de la personne visée par l’ordonnance ou sous son contrôle.
 
 ### Conditions
@@ -1231,8 +1529,11 @@ c) le document ou les données sont en la possession de la personne visée par l
 ### Saisie et confiscation
 
 52 (1) L’agent d’exécution qui se trouve légalement dans un bâtiment ou un autre endroit peut, sans mandat, saisir toute chose qui est bien en vue s’il a des motifs raisonnables de croire que, selon le cas :
+
 a) elle a été utilisée pour commettre une infraction prévue par la présente loi;
+
 b) elle fournira des éléments de preuve de la commission d’une infraction prévue par la présente loi;
+
 c) elle est mêlée avec une chose visée à l’alinéa a) ou b).
 
 ### Présence conforme à un mandat
@@ -1246,8 +1547,11 @@ c) elle est mêlée avec une chose visée à l’alinéa a) ou b).
 ### Chose laissée auprès de l’occupant
 
 (4) Sous réserve du paragraphe (5), l’agent d’exécution peut laisser une chose qu’il a saisie sous la garde de l’occupant du bâtiment ou de l’autre endroit dans lequel elle a été saisie, auquel cas l’occupant préserve la chose jusqu’à ce que l’une ou l’autre des éventualités suivantes se présente :
+
 a) un agent d’exécution enlève la chose;
+
 b) l’occupant est avisé par un agent d’exécution que l’enquête est terminée et qu’aucune accusation ne sera déposée;
+
 c) si une accusation est déposée, le défendeur est acquitté ou l’accusation est rejetée ou retirée ou fait l’objet d’une décision définitive.
 
 ### Chose remise à un juge
@@ -1257,13 +1561,17 @@ c) si une accusation est déposée, le défendeur est acquitté ou l’accusatio
 ### Remise des choses saisies
 
 (6) Toute chose saisie et non confisquée au profit de la Couronne aux termes du présent article est retournée au saisi si :
+
 a) aucune accusation n’est déposée à l’issue de l’enquête;
+
 b) une accusation est déposée mais, à l’issue définitive de la poursuite, le défendeur est acquitté ou l’accusation est rejetée ou retirée.
 
 ### Paiement de l’amende
 
 (7) Si une personne est déclarée coupable d’une infraction prévue par la présente loi et qu’une amende est imposée :
+
 a) la chose qui est saisie relativement à l’infraction et qui n’est pas confisquée au profit de la Couronne aux termes du présent article ne doit pas être retournée tant que l’amende n’a pas été payée;
+
 b) si toute partie de l’amende est exigible et impayée depuis 15 jours ou plus, un juge peut ordonner que la chose soit confisquée au profit de la Couronne.
 
 ### Confiscation si l’identité du saisi n’est pas connue
@@ -1297,10 +1605,15 @@ b) si toute partie de l’amende est exigible et impayée depuis 15 jours ou plu
 ### Mise en liberté par l’agent d’exécution
 
 (2) S’il arrête une personne en vertu du présent article, l’agent d’exécution la met en liberté dès que possible dans les circonstances, à moins qu’il n’ait des motifs raisonnables de croire que, selon le cas :
+
 a) il est nécessaire, dans l’intérêt public, que la personne soit détenue, eu égard à toutes les circonstances, y compris la nécessité :
+
 (i) d’établir l’identité de la personne,
+
 (ii) de recueillir ou de conserver des éléments de preuve de l’infraction ou relatifs à celle-ci,
+
 (iii) d’empêcher que l’infraction se poursuive ou se répète ou qu’une autre infraction soit commise;
+
 b) la personne, si elle est mise en liberté, ne se conformera pas à une assignation ou à un avis d’infraction ou ne comparaîtra pas devant le tribunal.
 
 ### Comparution devant un juge
@@ -1314,19 +1627,29 @@ b) la personne, si elle est mise en liberté, ne se conformera pas à une assign
 ### Entrave au travail d’un agent d’exécution
 
 55 Nul ne doit, selon le cas :
+
 a) faire sciemment une déclaration fausse ou trompeuse à l’agent d’exécution qui agit sous le régime de la présente loi;
+
 b) refuser de fournir des renseignements qu’exige l’agent d’exécution qui agit sous le régime de la présente loi;
+
 c) entraver d’une autre façon le travail de l’agent d’exécution qui agit sous le régime de la présente loi.
 
 ### Infractions
 
 56 (1) Nul ne doit, selon le cas :
+
 a) contrevenir à une autorisation, y compris une condition dont elle est assortie;
+
 b) contrevenir à une approbation, y compris une approbation conditionnelle, de fermer un site de stockage de carbone;
+
 c) contrevenir à un ordre donné par un inspecteur ou le ministre, à un arrêté pris par le ministre ou à une ordonnance rendue par le Tribunal ou un tribunal sous le régime de la présente loi;
+
 d) faire sciemment une fausse déclaration ou fournir sciemment de faux renseignements dans un document exigé sous le régime de la présente loi;
+
 e) ne pas suivre les directives d’un inspecteur;
+
 f) altérer illégalement un site de stockage de carbone ou un puits, un dépôt ou un ouvrage accessoire qui en fait partie, ou en gêner illégalement le fonctionnement;
+
 g) faire en sorte ou permettre qu’un site de stockage de carbone ou un puits, un dépôt ou un ouvrage accessoire qui en fait partie soit exploité d’une façon qui entraîne un danger pour la sécurité du public ou l’environnement, ou faire en sorte ou permettre qu’une activité liée à un site de stockage de carbone soit exercée de cette façon.
 
 ### Peines
@@ -1340,7 +1663,9 @@ g) faire en sorte ou permettre qu’un site de stockage de carbone ou un puits, 
 ### Augmentation de la peine
 
 (4) L’amende maximale prévue au paragraphe (2) peut être augmentée d’un montant correspondant au montant des avantages financiers que la personne a tirés par suite de la commission de l’infraction, notamment :
+
 a) les coûts que la personne a évités d’engager ou dont elle a retardé l’engagement en commettant l’infraction;
+
 b) les gains que la personne a réalisés en commettant l’infraction.
 
 ### Administrateurs et dirigeants
@@ -1350,9 +1675,13 @@ b) les gains que la personne a réalisés en commettant l’infraction.
 ### Ordonnances par suite d’une déclaration de culpabilité
 
 (6) Si une personne est déclarée coupable d’une infraction, le tribunal peut, outre infliger toute autre peine, rendre une ou plusieurs des ordonnances suivantes :
+
 1. Une ordonnance exigeant que la personne prenne ou cesse de prendre, dans le délai indiqué, certaines mesures pour empêcher, réduire ou éliminer le tort ou les dommages résultant directement ou indirectement de l’infraction qu’elle a commise, y compris que la personne demande une autorisation en vertu de la présente loi.
+
 2. À la demande du poursuivant, une ordonnance exigeant que la personne verse à la Couronne tout ou partie des coûts que cette dernière a engagés pour remédier à tout danger pour le public ou l’environnement qui, directement ou indirectement, résulte ou pourrait avoir résulté de l’infraction qu’elle a commise, ou pour prévenir ce danger.
+
 3. Une ordonnance exigeant que la personne verse à la Couronne tout ou partie des coûts que cette dernière a engagés relativement à la saisie, à l’entreposage ou à la disposition de toute chose saisie en lien à l’infraction qu’elle a commise.
+
 4. Toute autre ordonnance que le tribunal estime appropriée pour faire observer la présente loi, les règlements, un ordre donné, un arrêté pris ou une ordonnance rendue ou une autorisation délivrée sous le régime de la présente loi, à l’exception d’une ordonnance de tribunal.
 
 ### Juge qui préside
@@ -1378,30 +1707,51 @@ b) les gains que la personne a réalisés en commettant l’infraction.
 ### Lieutenant-gouverneur en conseil
 
 63 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) définir les termes ou expressions qui sont utilisés mais non définis dans la présente loi;
+
 b) prescrire les questions ou les facteurs dont doit tenir compte le ministre, le délégué désigné par le ministre en vertu du paragraphe 47 (2), le Tribunal ou la Commission de l’énergie de l’Ontario lorsqu’il prend des décisions sous le régime de la présente loi;
+
 c) préciser les questions de propriété des terres, des terrains, des biens-fonds ou de l’espace poral, ou les questions de droits relatifs aux terres, aux terrains, aux biens-fonds ou à l’espace poral, y compris celles qui découlent de l’application de la partie II ou de la prise, de la modification ou de l’abrogation d’un règlement en vertu du paragraphe 8 (1);
+
 d) exiger et régir l’enregistrement sur le titre des avis visant les terres, les terrains ou les biens-fonds qui risquent d’être touchés par la construction, l’utilisation, l’entretien, la désaffectation et la fermeture d’un site de stockage de carbone;
+
 e) traiter de toute question nécessaire ou souhaitable pour réaliser efficacement l’objet de la présente loi.
 
 ### Ministre
 
 (2) Le ministre peut, par règlement :
+
 a) traiter de toute question qu’il juge nécessaire ou souhaitable pour protéger la sécurité du public ou l’environnement en ce qui concerne un site de stockage de carbone;
+
 b) régir les droits et autres paiements pour l’application de la présente loi, notamment :
+
 (i) exiger l’acquittement de droits relatifs à ce qui est prévu par la présente loi,
+
 (ii) exiger l’acquittement de droits, de frais, de redevances ou d’autres paiements relatifs à l’utilisation de terres dont la Couronne est propriétaire ou dont elle a le contrôle, ou d’un espace poral public;
+
 c) régir un régime de garanties financières, y compris la fourniture de garanties, au moyen duquel les auteurs de demandes d’autorisation et les titulaires d’autorisation fournissent des espèces ou des instruments à valeur monétaire pour garantir l’exercice de certaines activités, notamment prévoir la confiscation ou une autre forme de traitement des espèces ou des autres instruments dans les circonstances précisées;
+
 d) exiger que les personnes exerçant des activités qui se rapportent à la présente loi possèdent les compétences indiquées ou remplissent les critères indiqués;
+
 e) exiger que les documents préparés dans le cadre de la présente loi soient revus par un expert et régir cette révision, notamment :
+
 (i) énoncer les compétences que l’expert doit posséder et un processus de sélection de l’expert,
+
 (ii) énoncer les exigences ou les marches à suivre pour dresser les rapports de l’expert,
+
 (iii) régir les frais de la révision, notamment exiger que les auteurs de demandes d’autorisation ou les titulaires d’autorisation assument ces frais;
+
 f) exiger et régir les évaluations des ressources de stockage, notamment la façon d’évaluer et de caractériser la capacité de stockage d’un dépôt et d’un site de stockage de carbone;
+
 g) exiger et régir l’élaboration, la présentation, la révision, la mise en œuvre et l’actualisation des plans associés aux activités de recherche et d’évaluation ou aux activités de stockage de carbone, ou associés autrement aux autorisations délivrées sous le régime de la présente loi, notamment :
+
 (i) les plans sur la conception, la construction, l’installation, l’utilisation, l’entretien et la désaffectation de puits, de dépôts et d’ouvrages accessoires, et sur la fermeture de sites de stockage de carbone, y compris la réhabilitation et la remise en état des terres, des terrains et des biens-fonds utilisés par rapport à ces sites,
+
 (ii) les plans sur la gestion des risques, la surveillance, le mesurage, la vérification et l’intervention en cas d’urgence,
+
 (iii) la participation et les consultations publiques et locales au sujet des plans, notamment avec les collectivités autochtones;
+
 h) prescrire les règles régissant le moment où les avis ou autres documents préparés ou fournis sous le régime de la présente loi sont réputés reçus.
 
 ### Autres pouvoirs du lieutenant-gouverneur en conseil
@@ -1415,16 +1765,23 @@ h) prescrire les règles régissant le moment où les avis ou autres documents p
 ### Règlements : questions transitoires
 
 64 (1) Le lieutenant-gouverneur en conseil peut, par règlement, traiter des questions transitoires qu’il estime nécessaires ou souhaitables :
+
 a) pour faciliter la mise en œuvre de la présente loi;
+
 b) pour traiter des problèmes ou des questions qui découlent de l’abrogation, de la modification, de l’édiction ou de la réédiction d’une disposition d’une loi par l’annexe 2 de la Loi de 2025 sur la gestion des ressources et la sécurité.
 
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les règlements pris en vertu de ce paragraphe peuvent prévoir des questions transitoires relatives aux travaux particuliers prévus par la Loi sur les ressources en pétrole, en gaz et en sel, notamment :
+
 a) prévoir qu’un acte visé par cette loi est réputé un acte visé par la présente loi;
+
 b) soustraire une personne à qui est délivré un acte de désignation de travaux particuliers :
+
 (i) à des dispositions de la présente loi, y compris celles concernant une demande d’autorisation,
+
 (ii) à l’obligation d’être titulaire d’un permis afin d’exercer des activités de recherche et d’évaluation ou des activités de stockage de carbone;
+
 c) modifier l’application d’une disposition de la présente loi à l’égard de la personne visée à l’alinéa b).
 
 ### Aucune responsabilité personnelle
@@ -1446,7 +1803,9 @@ c) modifier l’application d’une disposition de la présente loi à l’égar
 ### Irrecevabilité de certaines instances
 
 66 (1) Sont irrecevables les instances qui sont introduites :
+
 a) contre toute personne mentionnée au paragraphe 65 (1) à l’égard d’une question visée à ce paragraphe;
+
 b) contre la Couronne ou toute personne mentionnée au paragraphe 65 (1) à l’égard d’une question visée au paragraphe 65 (3).
 
 ### Idem
@@ -1460,5 +1819,7 @@ b) contre la Couronne ou toute personne mentionnée au paragraphe 65 (1) à l’
 ## Partie ix (OMISE)
 
 67 Omis (modification ou abrogation d’autres textes législatifs).
+
 68 Omis (entrée en vigueur de dispositions d e la présente loi).
+
 69 Omis (édiction du titre abrégé de la présente loi).

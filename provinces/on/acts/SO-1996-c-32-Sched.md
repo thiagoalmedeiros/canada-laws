@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-05-07"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96m32"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Municipal Elections Act, 1996
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96m32) before relying on it.
 
 S.O. 1996, c. 32, Sched.
 
@@ -21,35 +21,65 @@ S.O. 1996, c. 32, Sched.
 ### Definitions
 
 1 (1) In this Act,
+
 “by-election” means an election other than a regular election; (“élection partielle”)
+
 “candidate” means a person who has been nominated under section 33; (“candidat”)
+
 “certified candidate” means a candidate whose nomination has been certified under section 35; (“candidat certifié”)
+
 “Chief Electoral Officer” means the Chief Electoral Officer who holds office under the Election Act; (“directeur général des élections”)
+
 “clerk” means the clerk of a municipality; (“secrétaire”)
+
 “compliance audit committee” means, in relation to a municipality or local board, the committee established under section 88.37; (“comité de vérification de conformité”)
+
 “fund-raising function” means an event or activity,
+
 (a) held by a candidate or under a candidate’s direction for the purpose of raising funds for his or her election campaign, or
+
 (b) held by a registered third party or under its direction for the purpose of raising funds in relation to third party advertisements; (“activité de financement”)
+
 “local board” means a local board as defined in the Municipal Affairs Act, including a police village; (“conseil local”)
+
 “locality” means territory without municipal organization that is deemed to be a district municipality under the Education Act; (“localité”)
+
 “office” means an office to which election is governed by this Act; (“poste”)
+
 “owner or tenant”, in relation to an election, means a person who is the owner or tenant shown on the assessment roll of land assessed under the Assessment Act and a non-residential tenant of land assessed under the Assessment Act, whether or not the tenant is shown on the assessment roll, but does not include an owner or tenant of land who is entitled to use the land under a time share contract unless the person is entitled to use the land,
+
 (a) on voting day, or
+
 (b) for a period of six weeks or more during the calendar year in which voting day of the election is held; (“propriétaire ou locataire”)
+
 “permanent register of electors” means the permanent register of electors for Ontario established and maintained by the Chief Electoral Officer under section 17.1 of the Election Act; (“registre permanent des électeurs”)
+
 “prescribed” means prescribed by the Minister; (“prescrit”)
+
 “qualifying address” means the address that qualifies an elector under section 17; (“adresse habilitante”)
+
 “registered third party” means, in relation to an election in a municipality, an individual, corporation or trade union that is registered under section 88.6; (“tiers inscrit”)
+
 “restricted period for third party advertisements” means the period described in subsection 88.4 (2); (“période de restriction pour la publicité de tiers”)
+
 “tenant” includes an occupant and a person in possession other than the owner; (“locataire”)
+
 “third party advertisement” means an advertisement in any broadcast, print, electronic or other medium that has the purpose of promoting, supporting or opposing,
+
 (a) a candidate, or
+
 (b) a “yes” or “no” answer to a question referred to in subsection 8 (1), (2) or (3),
+
 but does not include an advertisement by or under the direction of a candidate or an advertisement described in subsection (2) or (2.1); (“publicité de tiers)
+
 “time share contract” means a contract by which a person acquires the right to use a property for residential purposes,
+
 (a) for a period of time each year, or other interval, and
+
 (b) as part of a plan that provides for the use of the property to circulate among persons participating in the plan; (“contrat de multipropriété”)
+
 “trade union” means a trade union as defined in the Labour Relations Act, 1995 or the Canada Labour Code (Canada) and includes a central, regional or district labour council in Ontario; (“syndicat”)
+
 “voting day” means the day on which the final vote is to be taken in an election. (“jour du scrutin”)
 
 ### Interpretation: presiding judge
@@ -67,7 +97,9 @@ but does not include an advertisement by or under the direction of a candidate o
 ### Corporations deemed to be single corporation
 
 (3) For the purposes of this Act, two or more corporations are deemed to be a single corporation,
+
 (a) if one of the corporations controls the others, either directly or indirectly; or
+
 (b) if all of the corporations are owned or controlled by the same person or group of persons, either directly or indirectly.
 
 ### Residence
@@ -77,32 +109,47 @@ but does not include an advertisement by or under the direction of a candidate o
 ### Rules
 
 (2) The following rules apply in determining a person’s residence:
+
 1. A person may only have one residence at a time.
+
 2. The place where a person’s family resides is also his or her residence, unless he or she moves elsewhere with the intention of changing his or her permanent lodging place.
+
 3. If a person has no other permanent lodging place, the place where he or she occupies a room or part of a room as a regular lodger or to which he or she habitually returns is his or her residence.
 
 ### Exception, students
 
 (2.1) Despite paragraph 1 of subsection (2), a person may have residences in two local municipalities at the same time if,
+
 (a) the person lives in one of the local municipalities in order to attend an educational institution, but not with the intention of changing his or her permanent lodging place; and
+
 (b) the person’s permanent lodging place is in the other local municipality.
 
 ### Rules if no permanent lodging place
 
 (3) If a person has no permanent lodging place as described in subsections (1) and (2), the following rules apply in determining his or her residence:
+
 1. The place to which the person most frequently returned to sleep or eat during the five weeks preceding the determination is his or her residence.
+
 2. If the person returns with equal frequency to one place to sleep and to another to eat, the place to which he or she returns to sleep is his or her residence.
+
 3. Multiple returns to the same place during a single day, whether to eat or to sleep, shall be considered one return.
+
 4. A person’s declaration regarding the places to which he or she returned to eat or sleep during a given time period is conclusive, in the absence of evidence to the contrary.
 
 ### Application of Act
 
 3 This Act applies to:
+
 1. An election to an office on:
+
 i. the council of a local municipality,
+
 ii. the council of an upper-tier municipality, if the holder of the office is required to be elected by the electors of one or more local municipalities,
+
 iii. a local board, if the holder of the office is required to be elected in the same manner as members of the council of a local municipality.
+
 2. An election to obtain the assent of electors to a by-law as required or authorized by law.
+
 3. An election to obtain the opinion of the electors on any question as required or authorized by law.
 
 ### Transition
@@ -144,6 +191,7 @@ iii. a local board, if the holder of the office is required to be elected in the
 ### Term continues
 
 (3) The holders of offices continue to hold office until their successors are elected and the newly elected council or local board is organized.
+
 (4), (5) Repealed: 2016, c. 15, s. 5.
 
 ### Cost of election payable by local municipality
@@ -157,28 +205,39 @@ iii. a local board, if the holder of the office is required to be elected in the
 ### Exceptions: recounts, by-elections
 
 (3) Despite subsection (1), the local municipality shall be reimbursed for its reasonable costs in the following situations:
+
 1. When the clerk conducts a recount in a regular election with respect to,
+
 i. an office on a local board or upper-tier municipality,
+
 ii. a by-law or question submitted by an upper-tier municipality, or
+
 iii. a question submitted by a local board or the Minister.
+
 2. When the clerk conducts a by-election for a local board or an upper-tier municipality or the Minister, or a recount in such a by-election.
+
 3. Repealed: 2020, c. 26, Sched. 2, s. 3.
 
 ### Payment on certification
 
 (4) The local board or upper-tier municipality or the Minister, as the case may be, shall pay the costs referred to in subsection (3) as soon as possible after receiving a certificate verifying the amount and signed by the clerk of the local municipality.
+
 (5) Repealed: 2002, c. 17, Sched. D, s. 2.
 
 ### Submission of by-laws and questions
 
 8 (1) The council of a municipality may pass a by-law to submit to its electors,
+
 (a) a proposed by-law requiring their assent;
+
 (b) subject to section 8.1, a question not otherwise authorized by law but within the council’s jurisdiction;
+
 (c) subject to section 8.1, a question, the wording of which is established by an Act or a regulation under an Act.
 
 ### Submission of question, local board
 
 (2) A local board described in subparagraph iii of paragraph 1 of section 3 may pass a resolution to submit to its electors a question not otherwise authorized by law but within the local board’s jurisdiction.
+
 (2.1) Repealed: 2000, c. 5, s. 27 (2).
 
 ### Question by Minister
@@ -196,9 +255,13 @@ iii. a question submitted by a local board or the Minister.
 ### Restriction
 
 (5.1) For the purposes of a regular election, the clerk who is responsible for conducting the election is not required to submit a by-law or question to the electors unless on or before May 1 of the election year,
+
 (a) in the case of a question of the Minister, the order under subsection (3) is transmitted to the clerk;
+
 (b) in the case of a by-law or question of an upper-tier municipality, subsection (4) is complied with;
+
 (c) in the case of a question of a local board, subsection (5) is complied with; or
+
 (d) despite the Fluoridation Act, in the case of a petition under the Fluoridation Act, the petition is transmitted to the clerk.
 
 ### Deemed transmission of petition
@@ -216,7 +279,9 @@ iii. a question submitted by a local board or the Minister.
 ### Assent to by-law
 
 (8) A by-law is assented to,
+
 (a) in the case of a local municipality, if a majority of the votes cast in the municipality are in favour of the by-law;
+
 (b) in the case of an upper-tier municipality, if a majority of the votes cast in all the local municipalities are in favour of the by-law.
 
 ### Result of vote
@@ -238,16 +303,23 @@ iii. a question submitted by a local board or the Minister.
 ### Conditions re: submitting a question
 
 8.1 (1) A by-law to submit a question to the electors under clause 8 (1) (b) or (c),
+
 (a) shall be passed on or before March 1 in the year of a regular election at which it is intended to submit the question to the electors;
+
 (b) cannot be amended after the last date referred to in clause (a); and
+
 (c) despite clause (b), can be revoked on or before nomination day and, if the election does not include an election for an office, on or before the 31st day before voting day.
 
 ### Rules
 
 (2) A question authorized by by-law under clause 8 (1) (b) shall comply with the following rules:
+
 1. It shall concern a matter within the jurisdiction of the municipality.
+
 2. Despite rule 1, it shall not concern a matter which has been prescribed by the Minister as a matter of provincial interest.
+
 3. It shall be clear, concise and neutral.
+
 4. It shall be capable of being answered in the affirmative or the negative and the only permitted answers to the question are “yes” or “no”.
 
 ### Notice of intent
@@ -261,8 +333,11 @@ iii. a question submitted by a local board or the Minister.
 ### Contents
 
 (5) A notice under subsections (3) and (4) shall include,
+
 (a) the wording of the question;
+
 (b) in the case of a by-law under clause 8 (1) (b), a clear, concise and neutral description of the consequences of the question if it is approved and the consequences if it is rejected with the special majority under section 8.2, including an estimate of the costs, if any, that the municipality may incur in implementing the results of the question; and
+
 (c) in the case of a by-law under clause 8 (1) (b), a description of the right to appeal under subsection (6) including, in the case of a notice under subsection (4), the last day for filing a notice of appeal.
 
 ### Appeal
@@ -292,7 +367,9 @@ iii. a question submitted by a local board or the Minister.
 ### Results
 
 8.2 (1) The results of a question authorized by a by-law under clause 8 (1) (b) are binding on the municipality which passed the by-law if,
+
 (a) at least 50 per cent of the eligible electors in the municipality vote on the question; and
+
 (b) more than 50 per cent of the votes on the question are in favour of those results.
 
 ### Determination of number of votes
@@ -302,20 +379,27 @@ iii. a question submitted by a local board or the Minister.
 ### Implementation
 
 8.3 (1) If the results of a question authorized by a by-law under clause 8 (1) (b) are binding on a municipality,
+
 (a) if an affirmative answer received the majority of the votes, the municipality shall do everything in its power to implement the results of the question in a timely manner; and
+
 (b) if a negative answer received the majority of the votes, the municipality shall not do anything within its jurisdiction to implement the matter which was the subject of the question for a period of four years following voting day.
 
 ### Same
 
 (2) Without limiting subsection (1), the municipality shall, between 14 and 180 days after voting day,
+
 (a) if a by-law or resolution is required to implement the results of the question, ensure that it is prepared and placed before council or, if a series of by-laws are required to implement the results, ensure that the first of the series is prepared and placed before council;
+
 (b) despite clause (a), if passage of a by-law or resolution required to implement the results of the question is subject to a condition precedent under a regulation or statute (such as giving notice or holding a public hearing), ensure the initial steps have been taken to comply with the condition;
+
 (c) if administrative action to change a policy or practice is required to implement the results of the question, instruct municipal staff to take that action.
 
 ### Limitation
 
 (3) For the purpose of clause (1) (a), it is not within the jurisdiction of the municipality to eliminate or override any substantive or procedural legal right of any person or entity who is or may be affected by the implementation of the results of the question as illustrated by the following examples:
+
 1. If a zoning change under the Planning Act is necessary to implement the results, the binding effect of the question is subject to the Planning Act and the discretion of the municipality under that Act is not constrained. If the zoning change is approved, the municipality is bound to implement the results; if it is not approved, the municipality is not bound.
+
 2. If the results of the question require the passage of a by-law which requires notice to be given and at least one public meeting to be held to consider the matter before the by-law is passed, the binding effect of the question is subject to these procedural requirements and the discretion of the municipality to proceed following the public meeting is not constrained. If, after the public meeting, the municipality decides not to implement the results of the question, it is not required to do so.
 
 ### Order
@@ -329,7 +413,9 @@ iii. a question submitted by a local board or the Minister.
 ### Exception
 
 (6) Nothing in this section requires a municipality to do anything or prevents a municipality from doing anything if,
+
 (a) a subsequent binding question authorizes such action or inaction; or
+
 (b) the council is of the opinion, reasonably held, that there has been a material change in circumstances since the time it passed the by-law under clause 8 (1) (b) to put the binding question to the electors.
 
 ### Language of notices and forms
@@ -339,7 +425,9 @@ iii. a question submitted by a local board or the Minister.
 ### By-law
 
 (2) A municipal council may pass a by-law allowing the use of,
+
 (a) French, in addition to English, in prescribed forms;
+
 (b) French, other languages other than English, or both, in notices, forms (other than prescribed forms) and other information provided under this Act.
 
 ### Non-application
@@ -349,9 +437,13 @@ iii. a question submitted by a local board or the Minister.
 ### Bilingual notices and forms
 
 9.1 (1) This section applies with respect to notices, forms and other information provided under this Act in respect of the election of,
+
 (a) members of a French-language district school board; or
+
 (b) members of a school authority that,
+
 (i) has established, operated or maintained a French-language instructional unit within the year before voting day, or
+
 (ii) is subject to an agreement, resolution or order under Part XII of the Education Act that requires the school authority to establish, operate or maintain a French-language instructional unit.
 
 ### Language of notices, etc.
@@ -379,14 +471,19 @@ iii. a question submitted by a local board or the Minister.
 ### Deemed withdrawal of nominations
 
 10.1 (1) A person who, on or before the day the Better Regional Governance Act, 2026 received Royal Assent, has filed a nomination in the 2026 regular election for any of the following is deemed to have withdrawn their nomination under section 36 of this Act on the day the Better Regional Governance Act, 2026 received Royal Assent:
+
 1. The office of head of council of a municipality referred to in subsection 218.1 (2) of the Municipal Act, 2001.
+
 2. Any office on the council of The Regional Municipality of Niagara, other than the office of head of council mentioned in paragraph 1.
 
 ### Regulations
 
 (2) The Minister may make regulations that, in the opinion of the Minister, are advisable or necessary for the purposes of carrying out the 2026 regular election for the municipalities referred to in subsection 218.1 (2) or 218.2.2 (1) of the Municipal Act, 2001 and, without restricting the generality of the foregoing, the Minister may make regulations,
+
 (a) varying the operation of any of the provisions of this Act for those purposes;
+
 (b) governing transitional matters that arise under this Act as a result of the implementation of sections 218.1, 218.2 or 218.2.1 of the Municipal Act, 2001;
+
 (c) governing transitional matters that arise under this Act as a result of the implementation of section 218.2.2 of the Municipal Act, 2001, including transitional matters in respect of nominations that were filed in the 2026 regular election for any office on the council of a municipality referred to in subsection 218.2.2 (1) of the Municipal Act, 2001 on or before the day that subsection comes into force.
 
 ### Same
@@ -400,6 +497,7 @@ iii. a question submitted by a local board or the Minister.
 ### Conflict
 
 (5) In the event of a conflict between a regulation made under subsection (2) and a provision of this Act or of any other Act or regulation, the regulation made under subsection (2) prevails.
+
 10.2 Repealed: 2026, c. 3, Sched. 2, s. 1.
 
 ### Election Officials
@@ -407,17 +505,25 @@ iii. a question submitted by a local board or the Minister.
 ### Duties of clerk
 
 11 (1) The clerk of a local municipality is responsible for conducting elections within that municipality, subject to the following exceptions:
+
 1. The clerks specified in the regulations made under the Education Act are responsible for certain aspects of the elections of members of school boards, as set out in those regulations.
+
 2. The clerks specified in section 11.1 are responsible for certain aspects of the election of members of the council of an upper-tier municipality, as provided for in that section.
+
 3. Repealed: 2002, c. 17, Sched. F, Table.
+
 4. The clerks specified in subsection (5) are responsible for certain aspects of the election with respect to a question an upper-tier municipality submits to its electors under clause 8 (1) (b) or (c).
 
 ### Same
 
 (2) Responsibility for conducting an election includes responsibility for,
+
 (a) preparing for the election;
+
 (b) preparing for and conducting a recount in the election;
+
 (c) maintaining peace and order in connection with the election; and
+
 (d) in a regular election, preparing and submitting the report described in subsection 12.1 (2).
 
 ### Locality, secretary of school board
@@ -427,17 +533,25 @@ iii. a question submitted by a local board or the Minister.
 ### Police village
 
 (4) If a police village is situated in more than one local municipality, the clerk of each local municipality is responsible for conducting the election within that municipality, subject to the following:
+
 1. Nominations for office on the police village shall be filed with the clerk of the local municipality with the largest number of electors of the police village.
+
 2. As soon as possible after the close of nominations, the clerk with whom they were filed shall provide the clerks of the other local municipalities with a list of certified candidates.
+
 3. The clerk of each local municipality shall certify the results of the election to the clerk with whom nominations were filed.
+
 4. The clerk with whom nominations were filed shall prepare the final summary and announce the election results.
 
 ### Upper-tier municipality
 
 (5) Where an upper-tier municipality is submitting a question to its electors under clause 8 (1) (b) or (c), the clerk of the upper-tier municipality is responsible for conducting the election on the question except that the clerk of each local municipality which forms part of the upper-tier municipality for municipal purposes is responsible for recording the vote in the local municipality subject to the following:
+
 1. Registration to incur expenses with respect to the question shall be filed with the clerk of the upper-tier municipality.
+
 2. As soon as possible after the close of nominations or, in the case where the election does not involve an election for an office, no later than 28 days before voting day, the clerk of the upper-tier municipality shall provide the clerks of each of the local municipalities with a list of individuals, corporations or trade unions registered to incur expenses with respect to the question.
+
 3. The clerk of each local municipality shall, subject to subsection 8 (9), certify the results of the election to the clerk of the upper-tier municipality.
+
 4. The clerk of the upper-tier municipality shall prepare the final summary and announce the election results.
 
 ### Special case
@@ -471,7 +585,9 @@ iii. a question submitted by a local board or the Minister.
 ### Powers of clerk
 
 12 (1) A clerk who is responsible for conducting an election may provide for any matter or procedure that,
+
 (a) is not otherwise provided for in an Act or regulation; and
+
 (b) in the clerk’s opinion, is necessary or desirable for conducting the election.
 
 ### Forms
@@ -565,17 +681,25 @@ iii. a question submitted by a local board or the Minister.
 ### Qualifications
 
 (2) A person is entitled to be an elector at an election held in a local municipality if, on voting day, he or she,
+
 (a) resides in the local municipality or is the owner or tenant of land there, or the spouse of such owner or tenant;
+
 (b) is a Canadian citizen;
+
 (c) is at least 18 years old; and
+
 (d) is not prohibited from voting under subsection (3) or otherwise by law.
 
 ### Persons prohibited from voting
 
 (3) The following are prohibited from voting:
+
 1. A person who is serving a sentence of imprisonment in a penal or correctional institution.
+
 2. A corporation.
+
 3. A person acting as executor or trustee or in any other representative capacity, except as a voting proxy in accordance with section 44.
+
 4. A person who was convicted of the corrupt practice described in subsection 90 (3), if voting day in the current election is less than five years after voting day in the election in respect of which he or she was convicted.
 
 ### Status as tenant
@@ -593,6 +717,7 @@ iii. a question submitted by a local board or the Minister.
 ### Preliminary list
 
 19 (1) The Chief Electoral Officer shall prepare and maintain a preliminary list for each local municipality and make it available to the clerk.
+
 (1.1), (1.2) Repealed: 2020, c. 23, Sched. 4, s. 4 (1).
 
 ### Subdivisions
@@ -606,18 +731,23 @@ iii. a question submitted by a local board or the Minister.
 ### Access to list
 
 (3.1) The clerk may obtain the preliminary list, or any information from the preliminary list, at one or more times before September 1 in the year of a regular election.
+
 (3.2)-(3.4) Repealed: 2020, c. 23, Sched. 4, s. 4 (1).
 
 ### Contents
 
 (4) The preliminary list shall contain,
+
 (a) the name and address of each person who is entitled to be an elector under section 17; and
+
 (b) any additional information the clerk needs to determine for which offices each elector is entitled to vote.
 
 ### Voting subdivisions, residents and non-residents
 
 (5) If the local municipality is divided into voting subdivisions,
+
 (a) the name of each resident elector shall be included on the preliminary list for the voting subdivision in which he or she resides; and
+
 (b) the name of each non-resident elector shall be included on the preliminary list for the voting subdivision in which the elector or his or her spouse is an owner or tenant of land.
 
 ### One entry only
@@ -631,6 +761,7 @@ iii. a question submitted by a local board or the Minister.
 ### Homeless persons
 
 20 The Chief Electoral Officer is not required to include on a preliminary list the name of a person whose residence is determined under subsection 2 (3).
+
 21 Repealed: 2016, c. 15, s. 16.
 
 ### Correction of errors
@@ -652,16 +783,23 @@ iii. a question submitted by a local board or the Minister.
 ### Reproduction, revision arrangements
 
 (2) On or before September 1 in the year of a regular election, the clerk shall,
+
 (a) have the voters’ list reproduced; and
+
 (b) determine where and at what time applications for revisions to the voters’ list may be made under sections 24 and 25.
 
 ### Copies for local boards, municipalities, Minister
 
 (3) On written request, the clerk shall provide a copy of the voters’ list to,
+
 (a) the secretary of a local board any of whose members are required to be elected at an election conducted by the clerk, or that has submitted a question to the electors;
+
 (b) the clerk of the local municipality responsible for conducting the elections in any combined area for school board purposes;
+
 (c) the clerk of an upper-tier municipality any of whose members are required to be elected at an election conducted by the clerk, or that has submitted a by-law or question to the electors;
+
 (d) the Minister, if he or she has submitted a question to the electors; and
+
 (e) Repealed: 2016, c. 15, s. 17 (1).
 
 ### Copies for candidates
@@ -679,51 +817,77 @@ iii. a question submitted by a local board or the Minister.
 ### Restrictions
 
 (7) The clerk may not provide a copy of the voters’ list under subsection (3) or a part of the voters’ list under subsection (4) to a person unless the person provides a written acknowledgment that they,
+
 (a) shall only use it for electoral purposes and shall not use it for commercial purposes;
+
 (b) are bound by the restrictions in this subsection and subsection (8); and
+
 (c) may only disclose its content to others after obtaining their written acknowledgement that they are bound by the restrictions in this subsection and subsection (8).
 
 ### Further rules
 
 (8) The following rules apply to persons who are required to provide a written acknowledgment under subsection (7):
+
 1. In the case of a person who has been provided with a copy of the voters’ list from a person described in clauses (3) (a) to (c) or part of the voters’ list from a certified candidate under subsection (4),
+
 i. they shall not provide it to any other person, and shall not make further copies, either in printed form or electronically,
+
 ii. if they received a printed copy, they shall return it to the person who provided it, on or before the date specified by that person, and
+
 iii. if they received an electronic copy, they shall destroy it, and shall provide the person who provided it with a written acknowledgment of the destruction, on or before the date specified by that person.
+
 2. Where a person has been provided with a copy of the voters’ list under clauses (3) (a) to (c) or a certified candidate has been provided with part of the voters’ list under subsection (4), and they have provided it to another person, they shall retain the written acknowledgement provided by each person to whom they provided it, in accordance with paragraph 5.
+
 3. A person who has been provided with a copy of the voters’ list under clauses (3) (a) to (c) shall, on or before December 31 in the year of a regular election or 45 days after voting day in a by-election,
+
 i. destroy the copy of the voters’ list,
+
 ii. destroy any printed copies returned to them under subparagraph 1 ii, and
+
 iii. require the receipt of the written acknowledgments of destruction that are to be provided to them under subparagraph 1 iii.
+
 4. A certified candidate who has been provided with part of the voters’ list under subsection (4) shall, on or before the day when the candidate’s election campaign period ends under subsection 88.24 (1),
+
 i. destroy the part of the voters’ list,
+
 ii. destroy any printed copies returned to them under subparagraph 1 ii, and
+
 iii. require the receipt of the written acknowledgments of destruction that are to be provided to them under subparagraph 1 iii.
+
 5. The written acknowledgements received under this section shall be retained for the term of office of the council or local board and until their successors are elected and the newly elected council or local board is organized.
 
 ### Application for change re own name
 
 24 (1) During the period that begins on September 1 and ends at the close of voting on voting day, a person may make an application to the clerk requesting,
+
 (a) that the person’s name be added to or removed from the voters’ list; or
+
 (b) that information on the voters’ list relating to the person be amended.
 
 ### Form and manner of application
 
 (2) The application shall be in writing and shall be filed,
+
 (a) in person, by the applicant or his or her agent;
+
 (b) by mail, by the applicant; or
+
 (c) in any other format and manner that the clerk specifies.
 
 ### Application approved
 
 (3) If satisfied that the applicant is entitled to have the requested change made, the clerk shall,
+
 (a) endorse the application to indicate approval; and
+
 (b) return the endorsed application to the applicant or notify the applicant that the application has been approved and the voters’ list will be changed to reflect the approved application.
 
 ### Application refused
 
 (4) If not satisfied that the applicant is entitled to have the requested change made, the clerk shall,
+
 (a) note the reason for refusal on the application; and
+
 (b) return the annotated application to the applicant.
 
 ### Addition of name to permanent register
@@ -749,8 +913,11 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Form and manner of application
 
 (4) The application shall be in writing and shall be filed,
+
 (a) in person, by the applicant or his or her agent;
+
 (b) by mail, by the applicant; or
+
 (c) in any other format and manner that the clerk specifies.
 
 ### Clerk’s decision final
@@ -762,15 +929,21 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Interim list
 
 27 (1) During the period beginning on September 20 and ending on September 30 in the year of a regular election, the clerk shall,
+
 (a) prepare an interim list of changes to the voters’ list that,
+
 (i) must include changes approved under sections 24 and 25 on or before September 20, and
+
 (ii) may include changes based on updated information from the permanent register of electors that the clerk obtains on or before September 20; and
+
 (b) give a copy of the interim list to each person who received a copy of the voters’ list under section 23.
 
 ### Final list
 
 (2) Within 30 days after voting day, the clerk shall,
+
 (a) prepare a final list of the changes to the voters’ list approved under sections 24 and 25; and
+
 (b) give a copy of the final list of changes to the Chief Electoral Officer.
 
 ### Voters’ list
@@ -780,8 +953,11 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Same
 
 (2) In preparing the voters’ list, the clerk,
+
 (a) shall determine which electors appear on the voters’ list for each voting place;
+
 (b) shall remove the names that are shown in the interim list of changes as names to be removed; and
+
 (c) may make any other changes approved under section 24.
 
 ### Candidates
@@ -789,7 +965,9 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Who may be nominated
 
 29 (1) A person may be nominated for an office only if, as of the day the person is nominated,
+
 (a) he or she is qualified to hold that office under the Act that creates it; and
+
 (b) he or she is not ineligible under this or any other Act or otherwise prohibited by law to be nominated for or to hold the office.
 
 ### Certain persons eligible to be nominated
@@ -867,7 +1045,9 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Filing of nomination
 
 33 (1) A person may be nominated for an office by filing a nomination,
+
 (a) in the clerk’s office, in person or by an agent; or
+
 (b) if the clerk has provided for electronic filing under subsection (6), electronically.
 
 ### Endorsement of nominations for council
@@ -901,9 +1081,13 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Formal requirements
 
 (2) The nomination shall,
+
 (a) be in the prescribed form;
+
 (a.1) in the case of a nomination for an office on a council that must be endorsed by at least 25 persons, be endorsed in accordance with subsection (1.1) and be accompanied by a prescribed declaration by each of the persons endorsing the nomination;
+
 (b) be accompanied by a declaration of qualification in the prescribed form, signed by the person being nominated; and
+
 (c) be accompanied by the prescribed nomination filing fee.
 
 ### Exception, endorsement
@@ -917,7 +1101,9 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Time for filing
 
 (4) The nomination may be filed,
+
 (a) on any day on or after May 1 in the year of the regular election that is before nomination day, at a time when the clerk’s office is open; or
+
 (b) on nomination day, between 9 a.m. and 2 p.m.
 
 ### Same
@@ -951,7 +1137,9 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Notice of penalties
 
 33.1 The clerk shall, before voting day, give to each person nominated for an office notice of,
+
 (a) the penalties under subsections 88.23 (2) and 92 (1) related to election campaign finances; and
+
 (b) the refund of the nomination filing fee that the candidate is entitled to receive in the circumstances described in section 34.
 
 ### Refund
@@ -961,7 +1149,9 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Examination of nominations
 
 35 (1) The clerk shall examine each nomination that has been filed, in accordance with the following timetable:
+
 1. All nominations filed on or before nomination day shall be examined before 4 p.m. on the Monday following nomination day.
+
 2. Any additional nominations filed under subsection 33 (5) shall be examined before 4 p.m. on the Thursday following nomination day.
 
 ### Certification
@@ -983,7 +1173,9 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Withdrawal of nominations
 
 36 A person may withdraw his or her nomination by filing a written withdrawal in the clerk’s office,
+
 (a) before 2 p.m. on nomination day, if the person was nominated under subsection 33 (4);
+
 (b) before 2 p.m. on the Wednesday following nomination day, if the person was nominated under subsection 33 (5).
 
 ### Acclamations
@@ -997,7 +1189,9 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Filling vacancies, school boards
 
 (3) If an office remains vacant on a school board after the declaration of the election of candidates by acclamation under this section and the declaration of the election of candidates following the conduct of the election for offices on the board, the following rules apply:
+
 1. If the number of candidates declared elected is insufficient to fill the majority of positions on the board, a by-election shall be held.
+
 2. If the number of candidates declared elected is sufficient to fill the majority of positions on the board, section 38 applies. If it is not possible to fill the vacancies under that section, a by-election shall be held.
 
 ### By-election restricted to geographic area
@@ -1007,7 +1201,9 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Filling vacancies, other offices
 
 (4) If an office remains vacant on any other body after the declaration of the election of candidates by acclamation under this section and the declaration of the election of candidates following the conduct of the election for offices on the body, the following rules apply:
+
 1. If the number of candidates declared elected is insufficient to form a quorum, a by-election shall be held.
+
 2. If the number of candidates declared elected is sufficient to form a quorum, clause 263 (1) (a) of the Municipal Act, 2001 or clause 208 (1) (a) of the City of Toronto Act, 2006, as the case may be, applies.
 
 ### Appointment to fill vacancy on school board
@@ -1017,7 +1213,9 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Criteria
 
 (2) A person shall be appointed under subsection (1) only if he or she,
+
 (a) is qualified to be elected as a member of the school board; and
+
 (b) has consented to accept the office if appointed.
 
 ### Vote
@@ -1035,10 +1233,15 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Death or ineligibility of candidate
 
 39 If a certified candidate for an office, before the close of voting on voting day, dies or becomes ineligible to hold the office,
+
 (a) if no candidate would be elected by acclamation as a result of the death or ineligibility,
+
 (i) the election shall proceed as if the candidate had not been nominated, and
+
 (ii) the clerk shall omit the candidate’s name from the ballots or, if they have already been printed, shall cause notice of the candidate’s death or ineligibility to be made available to the public in every voting place;
+
 (b) if another candidate would be elected by acclamation as a result of the death or ineligibility, the election is void and a by-election shall be held to fill the office.
+
 39.1 Repealed: 2016, c. 15, s. 28.
 
 ### Before Voting Day
@@ -1046,9 +1249,13 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Notice of election information
 
 40 When an election is to be held, the clerk shall give the electors notice of,
+
 (a) the location of the voting places;
+
 (b) the dates and times on which the voting places will be open for voting;
+
 (c) if section 44 (voting proxies) applies, the manner in which electors may use voting proxies; and
+
 (d) if a by-law has been passed under clause 42 (1) (b), (alternative voting methods), the manner in which electors may use the alternative voting method.
 
 ### Ballots
@@ -1058,12 +1265,19 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Rules for ballots
 
 (2) The following rules apply to ballots:
+
 1. Only the names of certified candidates shall appear on the ballot.
+
 2. The candidates’ names shall appear on the ballot in alphabetical order, based on their surnames and, in the case of identical surnames, their forenames.
+
 3. If the candidate wishes and the clerk agrees, another name that the candidate also uses may appear on the ballot instead of or in addition to his or her legal name.
+
 4. No reference to a candidate’s occupation, degree, title, honour or decoration shall appear on the ballot.
+
 5. If the surnames of two or more candidates for an office are identical, or in the clerk’s opinion, so similar as to cause possible confusion, the clerk shall differentiate the candidates on the ballots as the clerk considers to be appropriate in the circumstances.
+
 6. A space for marking the ballot shall appear to the right of each candidate’s name or, in the case of a by-law or question, to the right of each answer.
+
 7. All ballots for the same office or relating to the same by-law or question shall be identical or as nearly alike as possible.
 
 ### Variations for electors with visual impairments
@@ -1081,43 +1295,61 @@ iii. require the receipt of the written acknowledgments of destruction that are 
 ### Form of composite ballot
 
 (6) The form of a composite ballot shall conform as closely as possible to the rules set out in subsection (2).
+
 41.1, 41.2 Repealed: 2020, c. 26, Sched. 2, s. 5.
 
 ### By-laws re voting and vote-counting equipment, alternative voting methods
 
 42 (1) The council of a local municipality may pass by-laws,
+
 (a) authorizing the use of voting and vote-counting equipment such as voting machines, voting recorders or optical scanning vote tabulators;
+
 (b) authorizing electors to use an alternative voting method, such as voting by mail or by telephone, that does not require electors to attend at a voting place in order to vote.
 
 ### Application of by-law
 
 (2) A by-law passed under subsection (1) or under a predecessor of it,
+
 (a) applies to a regular election if the by-law is passed on or before May 1 in the year of the election; and
+
 (b) applies to a by-election if the by-law is passed more than 60 days before voting day.
 
 ### Same
 
 (2.1) Despite clause (2) (b), in the case of a by-election,
+
 (a) if the council of a local municipality passes a by-law under clause (1) (a) authorizing the use of voting and vote-counting equipment, the municipality may pass another by-law providing that the first by-law does not apply to the by-election and the municipality may pass a by-law authorizing the use of any voting and vote-counting equipment for the by-election;
+
 (b) if the council of a local municipality passes a by-law under clause (1) (b) authorizing electors to use an alternative voting method, the municipality may pass another by-law providing that the first by-law does not apply to the by-election and the municipality may pass a by-law authorizing any alternative voting method for the by-election.
 
 ### Procedures and forms
 
 (3) The clerk shall,
+
 (a) establish procedures and forms for the use of,
+
 (i) any voting and vote-counting equipment authorized by by-law, and
+
 (ii) any alternative voting method authorized by by-law; and
+
 (b) provide a copy of the procedures and forms to each candidate when his or her nomination is filed.
 
 ### Same
 
 (4) The following rules apply with respect to the clerk’s duties under clause (3) (a):
+
 1. The clerk shall comply with subsection (3),
+
 i. in the case of a regular election, on or before June 1 in the year of the election, and
+
 ii. in the case of a by-election, at least 60 days before the first day on which an elector can vote.
+
 2. The procedures and forms, if they are consistent with the principles of this Act, prevail over anything in this Act and the regulations made under it.
+
 3. Without limiting the generality of clause (3) (a), procedures for the use of vote-counting equipment may provide that,
+
 i. at the time when and in the place where the votes are being counted, there shall be no more than one scrutineer for each certified candidate for each piece of vote-counting equipment, and
+
 ii. at a recount, the persons referred to in subsection 61 (5) are not entitled to examine each ballot as the votes are being counted by the clerk.
 
 ### Effect of by-law on advance votes and voting proxies
@@ -1135,8 +1367,11 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Same
 
 (2) Subject to subsection (3), the clerk shall establish,
+
 (a) the date or dates on which the advance vote is held;
+
 (b) the number and location of voting places for the advance vote; and
+
 (c) the hours during which the voting places shall be open for the advance vote, which may be different for different voting places.
 
 ### Same
@@ -1150,9 +1385,13 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Sealing of ballot box, etc.
 
 (5) On each day of the advance vote the deputy returning officer of the voting place shall,
+
 (a) immediately after the close of voting, seal the ballot box so that ballots cannot be deposited in or withdrawn from it without breaking the seal; and
+
 (b) as soon as possible after the close of voting,
+
 (i) prepare a list showing the name of each person who has voted on that day and identifying his or her voting place, and
+
 (ii) deliver to the clerk for safekeeping the ballot box, the list of names, and all other materials and documents related to the advance vote.
 
 ### Access for candidates
@@ -1170,7 +1409,9 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Restrictions
 
 (2) A person shall not,
+
 (a) appoint more than one voting proxy;
+
 (b) act as a voting proxy for more than one other person.
 
 ### Spouses, etc.
@@ -1180,7 +1421,9 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Timing
 
 (4) A person shall not appoint a voting proxy for an election until the later of,
+
 (a) the time for the withdrawal of nominations under section 36 has expired for all offices for which the election is being conducted; and
+
 (b) the time when the clerk has certified all persons qualified to be nominated under subsection 35 (2).
 
 ### Same
@@ -1190,7 +1433,9 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Application for clerk’s certificate
 
 (5) A person who has been appointed a voting proxy shall,
+
 (a) complete an application in the prescribed form, including a statutory declaration that he or she is the person appointed as a voting proxy; and
+
 (b) present the application and the appointing document to the clerk at the clerk’s office, or any place designated by the clerk, in person.
 
 ### Time and place
@@ -1204,7 +1449,9 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Production of certified appointing document
 
 (8) A person may vote as a voting proxy only if he or she,
+
 (a) produces to the deputy returning officer the appointing document with the clerk’s certificate; and
+
 (b) takes the prescribed oath.
 
 ### Voting in own right
@@ -1234,17 +1481,25 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Application of subss. (4) and (5)
 
 (6) Subsections (4) and (5) apply to:
+
 1. Landlords of buildings containing 100 or more dwelling units.
+
 1.1 Condominium corporations managing buildings containing 100 or more dwelling units.
+
 2. Municipalities.
+
 3. School boards.
+
 4. Provincially-funded institutions.
 
 ### Voting places in institutions, retirement homes
 
 (7) On voting day, a voting place shall be provided on the premises of the following:
+
 1. An institution for the reception, treatment or vocational training of members or former members of the Canadian Forces.
+
 2. An institution in which, on September 1, 20 or more beds are occupied by persons who are disabled, chronically ill or infirm.
+
 3. A retirement home in which, on September 1, 50 or more beds are occupied.
 
 ### Attendance on resident
@@ -1280,10 +1535,15 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Who may remain in voting place
 
 47 (1) No person shall remain in a voting place when the vote is being taken or the votes are being counted except,
+
 (a) the clerk and the deputy returning officer and any other election official appointed for the voting place;
+
 (b) a certified candidate, other than a candidate who has been declared to be elected by acclamation;
+
 (c) one scrutineer appointed by each person described in clause (b) for each ballot box in use at the voting place;
+
 (d) the scrutineers appointed by a municipality in relation to a by-law or question; and
+
 (e) the scrutineers appointed by a local board or the Minister in relation to a question.
 
 ### Same
@@ -1293,25 +1553,37 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Number of scrutineers re by-law
 
 (3) If the vote is on a by-law and scrutineers are to be appointed under subsection 16 (2),
+
 (a) equal numbers of scrutineers shall be appointed to represent supporters and opponents of the by-law; and
+
 (b) one scrutineer representing supporters and one representing opponents may be present for each ballot box in use at the voting place.
 
 ### Number of scrutineers re question
 
 (4) If the vote is on a question and scrutineers are to be appointed under subsections 16 (2) and (3),
+
 (a) equal numbers of scrutineers shall be appointed for each possible answer to the question; and
+
 (b) one scrutineer for each of the possible answers may be present for each ballot box in use at the voting place.
 
 ### Rights of candidates and scrutineers
 
 (5) The persons described in clauses (1) (b), (c), (d) and (e) are each entitled,
+
 (a) to be present when materials and documents related to the election are delivered to the clerk under subclause 43 (5) (b) (ii) and clause 55 (1) (d);
+
 (b) to enter the voting place 15 minutes before it opens and to inspect the ballot boxes and the ballots and all other papers, forms and documents relating to the vote (but not so as to delay the timely opening of the voting place);
+
 (c) to place his or her own seal on the ballot box, immediately before the opening of the voting place, so that ballots can be deposited in the box and cannot be withdrawn without breaking the seal;
+
 (d) to place his or her own seal on the ballot box immediately after the close of voting on each day of an advance vote under section 43, so that ballots cannot be deposited or withdrawn without breaking the seal;
+
 (e) to examine each ballot as the votes are being counted by the deputy returning officer under section 54 (but not to touch the ballot);
+
 (f) to object to a ballot or to the counting of votes in a ballot under subsection 54 (3);
+
 (g) to sign the statement of the results of the election prepared by the deputy returning officer under clause 55 (1) (a); and
+
 (h) to place his or her own seal on the ballot box after the counting of the votes, when the deputy returning officer seals the box under clause 55 (1) (c), so that ballots cannot be deposited or withdrawn without breaking the seal.
 
 ### Prohibition
@@ -1325,6 +1597,7 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Interpretation
 
 (3) For the purpose of this section,
+
 “voting place” includes any place in the immediate vicinity of the voting place designated by the clerk.
 
 ### Secrecy
@@ -1334,14 +1607,19 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Offences
 
 (2) No person shall,
+
 (a) interfere or attempt to interfere with an elector who is marking the ballot;
+
 (b) obtain or attempt to obtain, at a voting place, information about how an elector intends to vote or has voted; or
+
 (c) communicate any information obtained at a voting place about how an elector intends to vote or has voted.
 
 ### Same, revealing a vote
 
 (3) No elector shall,
+
 (a) take a photograph or video recording of his or her marked ballot; or
+
 (b) show his or her marked ballot to any person so as to reveal how he or she has voted, except in connection with obtaining assistance in voting under paragraph 4 of subsection 52 (1).
 
 ### No requirement of disclosure
@@ -1367,22 +1645,35 @@ ii. at a recount, the persons referred to in subsection 61 (5) are not entitled 
 ### Rules
 
 (2) The following rules apply to the exercise of the right to vote:
+
 1. An elector who is entitled to vote for offices on a municipal council or local board may vote in only one of the voting places established for the area of jurisdiction of the municipality or local board, as the case may be.
+
 2. However, an elector who is entitled to vote in more than one of the local municipalities forming part of an upper-tier municipality is entitled to vote in one voting place established for each of the local municipalities for offices on the local councils, even if the holders of the offices would or could under certain circumstances also be members of the upper-tier council.
+
 3. An elector is entitled to vote for as many candidates for an office as there are members to be elected to that office, but only once for each candidate.
+
 4. An elector is entitled to vote only once on a by-law or question.
+
 5. An elector may vote only in accordance with the information relating to him or her on the voters’ list.
+
 (3) Repealed: 2020, c. 26, Sched. 2, s. 7.
 
 ### Voting procedure
 
 52 (1) The following procedure shall be followed when a person enters a voting place and requests a ballot:
+
 1. Subject to paragraph 3, the deputy returning officer shall give the person a ballot only if,
+
 i. the deputy returning officer is satisfied that the person is entitled to vote at the voting place, and
+
 ii. the person presents the prescribed proof of identity and residence or completes an application in the prescribed form, including a statutory declaration that he or she is the elector shown on the voters’ list.
+
 2. If the deputy returning officer, a scrutineer or a certified candidate objects to the person voting, the deputy returning officer shall have the fact of the objection and by whom it was made recorded on the voters’ list next to the person’s name.
+
 3. When an objection has been made as described in paragraph 2, the deputy returning officer shall give the person a ballot if the person takes an oath or affirmation stating that he or she is entitled to be an elector for the voting place and has not already voted in the election.
+
 4. The deputy returning officer may permit an elector who needs assistance in voting to have such assistance as the deputy returning officer considers necessary.
+
 5. An elector is no longer entitled to vote if, after receiving a ballot, he or she leaves the voting place without returning the ballot.
 
 ### Amendment of voters’ list
@@ -1392,8 +1683,11 @@ ii. the person presents the prescribed proof of identity and residence or comple
 ### Marking ballot, etc.
 
 (3) On receiving the ballot from the deputy returning officer, the elector shall,
+
 (a) make a cross or other mark on the ballot, within the space designated for the marking of the ballot to the right of the name of each candidate for whom the elector wishes to vote (or, in the case of a by-law or question, to the right of the answer for which he or she wishes to vote);
+
 (b) fold the ballot in a manner that conceals its face; and
+
 (c) return the folded ballot to the deputy returning officer.
 
 ### Deposit in ballot box
@@ -1433,8 +1727,11 @@ ii. the person presents the prescribed proof of identity and residence or comple
 ### Counting of votes
 
 54 (1) Immediately after the close of voting on voting day, the deputy returning officer shall open the ballot box for his or her voting place and proceed to count,
+
 (a) in the case of an election for office, the number of votes for each candidate;
+
 (b) in the case of an election to obtain the assent of the electors to a by-law, the number of votes in favour of the by-law and the number opposed to it; and
+
 (c) in the case of an election to obtain the opinion of the electors on any question, the number of votes for each possible answer to the question.
 
 ### Rejection of ballots
@@ -1448,16 +1745,23 @@ ii. the person presents the prescribed proof of identity and residence or comple
 ### Duty of deputy returning officer
 
 (4) The deputy returning officer shall,
+
 (a) decide all objections;
+
 (b) establish a list in which the objections are summarized and individually numbered; and
+
 (c) write the number of each objection on the back of the relevant ballot and initial the number.
 
 ### Delivery of statement and ballot box to clerk
 
 55 (1) As soon as possible after counting the votes, the deputy returning officer shall,
+
 (a) prepare a statement, in duplicate, showing the results of the election at the voting place;
+
 (b) place the ballots and all other materials and documents related to the election, except the original statement of results, in the ballot box;
+
 (c) seal the ballot box so that ballots cannot be deposited in or withdrawn from it without breaking the seal; and
+
 (d) deliver the original statement of results and the ballot box to the clerk.
 
 ### Copies of statement
@@ -1471,14 +1775,19 @@ ii. the person presents the prescribed proof of identity and residence or comple
 ### Declaration
 
 (4) The clerk shall, as soon as possible after voting day,
+
 (a) declare the candidate or candidates, as the case may be, who received the highest number of votes to be elected; and
+
 (b) declare the result of any vote on a by-law or question.
 
 ### Information to be made available
 
 (4.1) As soon as possible after voting day, the clerk shall make the following information available at no charge for viewing by the public on a website or in another electronic format:
+
 1. The number of votes for each candidate.
+
 2. The number of declined and rejected ballots.
+
 3. The number of votes for the affirmative or negative on a by-law or question.
 
 ### Examination of documents and materials
@@ -1490,8 +1799,11 @@ ii. the person presents the prescribed proof of identity and residence or comple
 ### Recount, tied vote
 
 56 (1) The clerk shall hold a recount,
+
 (a) of the votes for two or more candidates who receive the same number of votes and cannot both or all be declared elected to the office;
+
 (b) of the votes on a by-law, if the votes for the affirmative and negative are equal;
+
 (c) of the votes for two or more answers to a question, if the votes are equal.
 
 ### Recount in accordance with policies
@@ -1513,19 +1825,29 @@ ii. the person presents the prescribed proof of identity and residence or comple
 ### Same
 
 (5) A by-law or resolution adopted under subsection (3) or (4),
+
 (a) applies to a regular election if it is passed on or before May 1 in the year of the election; and
+
 (b) applies to a by-election if it is passed more than 60 days before voting day.
 
 ### Recount for municipality, local board or Minister
 
 57 (1) Within 30 days after the clerk’s declaration of the results,
+
 (a) the council of a municipality may pass a resolution requiring a recount of the votes cast,
+
 (i) for all or specified candidates for an office on the council,
+
 (ii) for all or specified answers to a question submitted by the council,
+
 (iii) for and against a by-law submitted by the council;
+
 (b) a local board may pass a resolution requiring a recount of the votes cast,
+
 (i) for all or specified candidates for an office on the local board, or
+
 (ii) for all or specified answers to a question submitted by the local board;
+
 (c) the Minister may make an order requiring a recount of the votes cast for all or specified answers to a question submitted by him or her.
 
 ### Recount
@@ -1571,44 +1893,63 @@ ii. the person presents the prescribed proof of identity and residence or comple
 ### Order specifying different manner of doing recount
 
 (3) Despite subsection (1), if the judge who orders a recount under section 58 is of the opinion that the manner in which the original count was conducted caused or contributed to the doubtful result, he or she may, in the order, provide that the recount shall be held in a different manner and specify the manner.
+
 (4) Repealed: 2020, c. 26, Sched. 2, s. 8.
 
 ### Who may be present at recount, election to office
 
 61 (1) The following persons may be present at a recount under section 56, 57 or 58 that relates to an office:
+
 1. The clerk and any other election official appointed for the recount.
+
 2. Every certified candidate for the office.
+
 3. The applicant, in the case of a recount ordered under section 58.
+
 4. For each person referred to in paragraphs 2 and 3,
+
 i. a lawyer, and
+
 ii. one scrutineer for each recount station established by the clerk.
 
 ### Same, by-law or question
 
 (2) The following persons may be present at a recount that relates to a by-law or question:
+
 1. The clerk and any other election official appointed for the recount.
+
 2. The scrutineers appointed by the municipality or local board or by the Minister, as the case may be.
+
 3. The applicant, in the case of a recount ordered under section 58.
+
 4. For the applicant referred to in paragraph 3,
+
 i. a lawyer, and
+
 ii. one scrutineer for each recount station established by the clerk.
 
 ### Number of scrutineers re by-law
 
 (3) If the vote is on a by-law and scrutineers are to be appointed under subsection 16 (2),
+
 (a) equal numbers of scrutineers shall be appointed to represent supporters and opponents of the by-law; and
+
 (b) one scrutineer representing supporters and one representing opponents may be present for each recount station established by the clerk.
 
 ### Number of scrutineers re question
 
 (4) If the vote is on a question and scrutineers are to be appointed under subsections 16 (2) and (3),
+
 (a) equal numbers of scrutineers shall be appointed for each possible answer to the question; and
+
 (b) one scrutineer for each of the possible answers may be present for each recount station established by the clerk.
 
 ### Examination of ballot
 
 (5) A person referred to in paragraph 2, 3 or 4 of subsection (1) or (2) is entitled,
+
 (a) to examine each ballot as the votes are being counted by the clerk (but not to touch the ballot); and
+
 (b) to dispute the validity of a ballot or the counting of votes in a ballot.
 
 ### Determination of disputes
@@ -1622,10 +1963,15 @@ ii. one scrutineer for each recount station established by the clerk.
 ### Duty of clerk
 
 62 (1) When the recount is complete, the clerk shall,
+
 (a) announce the result of the recount; and
+
 (b) if there are disputed ballots,
+
 (i) announce the number of them,
+
 (ii) announce the result that would be obtained if the disputed ballots were excluded, and
+
 (iii) write the number of the voting place on the back of and initial each disputed ballot, place them in a separate envelope clearly marked so as to indicate its contents, and seal the envelope.
 
 ### Who may be present
@@ -1659,15 +2005,21 @@ ii. one scrutineer for each recount station established by the clerk.
 ### Clerk to attend and provide materials
 
 (5) The clerk shall attend the recount and provide the court with,
+
 (a) a certified copy of the result of the recount conducted by the clerk;
+
 (b) a certified copy of the result of the recount conducted by the clerk excluding the disputed ballots;
+
 (c) the sealed envelope containing the disputed ballots from the recount conducted by the clerk; and
+
 (d) any other documents relating to the election that are relevant to the application.
 
 ### Duty of court
 
 (6) The court shall conduct the recount by,
+
 (a) determining the validity of the disputed ballots or of the counting of votes in any disputed ballots; and
+
 (b) recalculating the result of the election using the determinations made under clause (a) and the certified results referred to in clause (5) (b).
 
 ### Who may be present
@@ -1677,11 +2029,17 @@ ii. one scrutineer for each recount station established by the clerk.
 ### Order
 
 (8) When the recount is complete the court shall,
+
 (a) make an order incorporating its decisions under subsection (6);
+
 (b) announce to the persons present,
+
 (i) the result of the recount, and
+
 (ii) how the court dealt with the disputed ballots;
+
 (c) place the disputed ballots in the original envelope and reseal it; and
+
 (d) return to the clerk the material provided under subsection (5).
 
 ### Copy of order
@@ -1725,69 +2083,129 @@ ii. one scrutineer for each recount station established by the clerk.
 ### Rules, by-election to office
 
 (4) If a by-election is to be held for an office, the following rules apply:
+
 1. The clerk shall fix the date of nomination day to be a day not less than 30 days and not more than 60 days after,
+
 i. the expiry of the appeal period with respect to a by-election ordered by a court, if no appeal has been filed,
+
 i.1 the final disposal of an appeal of a by-election ordered by a court,
+
 ii. the council of the clerk’s municipality passes a by-law indicating a by-election is required, or the clerk receives a copy of such a by-law from another municipality whose elections he or she is responsible for conducting,
+
 iii. the clerk receives from a local board whose elections he or she is responsible for conducting a copy of a resolution indicating a by-election is required,
+
 iv. the Minister makes an order under subsection 266 (1) of the Municipal Act, 2001 or subsection 211 (1) of the City of Toronto Act, 2006 declaring all of the offices of the members to be vacant,
+
 v. a candidate for the office dies or becomes ineligible to hold the office under the circumstances described in clause 39 (b), or
+
 vi. the last acclamations are declared under section 37, if the by-election is required by subsection 37 (3) or (4).
+
 2. Nominations may be filed during the period that begins on the date of the event described in paragraph 1 and ends at 2 p.m. on nomination day.
+
 2.1 If the by-election for an office is being held as a result of the death or ineligibility of a candidate or insufficient nominations in a regular election, a person may, despite section 29, only be nominated for the office if the person meets the requirements of clauses 29 (1) (a) and (b) both on nomination day of the regular election and on the day the person is nominated for the by-election.
+
 3. Voting day shall be 45 days after nomination day.
+
 4. The voters’ list shall be prepared as follows:
+
 i. the clerk shall notify the Chief Electoral Officer that a by-election is required,
+
 ii. the clerk shall, at least 21 days before nomination day, obtain the preliminary list or the part of it that is required for the by-election,
+
 iii. the clerk shall make corrections to the preliminary list as soon as possible after obtaining the list, and
+
 iv. the corrected list constitutes the voters’ list.
+
 5. Applications to revise the voters’ list may be made under section 24 or 25 during the period that begins when the clerk has made corrections as described in subparagraph iii of paragraph 4 and ends at the close of voting on voting day.
+
 5.1 Within 30 days after voting day, the clerk shall,
+
 i. prepare a final list of the changes to the voters’ list approved under sections 24 and 25, and
+
 ii. give a copy of the final list of changes to the Chief Electoral Officer.
+
 6. Despite paragraph 7, a voting proxy appointed under section 44 may be any person entitled to be an elector if a regular election was held on the day of the by-election.
+
 7. A person is not eligible to vote in a by-election for an office if the person could not vote for that office if a regular election was held on the day of the by-election.
 
 ### Rules, question or by-law
 
 (5) If the by-election relates to a question or by-law, the following rules apply:
+
 1. The clerk shall fix the date of voting day, to be a day not less than 60 days and not more than 90 days after,
+
 i. the council of the clerk’s municipality passes a by-law indicating a by-election is required, or the clerk receives a copy of such a by-law from another municipality whose elections he or she is responsible for conducting,
+
 ii. the clerk receives from a local board whose elections he or she is responsible for conducting a copy of a resolution indicating a by-election is required,
+
 iii. the clerk receives an order from the Minister indicating a by-election is required.
+
 2. Despite rule 1, in the case of a question under section 53 or 54 of the Liquor Licence Act, as it read immediately before it was repealed, or under any successors to those provisions in a regulation made under the Liquor Licence and Control Act, 2019, the date of voting day is fixed by the council of the municipality with the approval of the board of the Alcohol and Gaming Commission of Ontario under section 55 of the Liquor Licence Act, as it read immediately before it was repealed, or under any successor to that provision in a regulation made under the Liquor Licence and Control Act, 2019.
+
 2.1 Despite rules 1 and 2, in the case of a question authorized by a by-law under clause 8 (1) (b) or (c), the date of voting day shall be a day at least 180 days after the day the by-law is passed.
+
 3. The voters’ list shall be prepared as follows:
+
 i. the clerk shall notify the Chief Electoral Officer that a by-election is required and,
+
 A. for a by-law under clause 8 (1) (a) or a question under subsection 8 (2) or (3), the clerk shall, within 10 days after the clerk notifies the Chief Electoral Officer that a by-election is required, obtain the preliminary list that is required for the by-election, or
+
 B. for a question under clause 8 (1) (b) or (c), the clerk shall, at least 60 days before voting day, obtain the preliminary list that is required for the by-election,
+
 ii. the clerk shall make corrections to the preliminary list under section 22 as soon as possible after obtaining the list, and
+
 iii. the corrected list constitutes the voters’ list.
+
 3.1 Applications to revise the voters’ list may be made under section 24 or 25 during the period that begins when the clerk has made corrections as described in subparagraph 3 ii and ends at the close of voting on voting day.
+
 3.2 Within 30 days after voting day, the clerk shall,
+
 i. prepare a final list of the changes to the voters’ list approved under sections 24 and 25, and
+
 ii. give a copy of the final list of changes to the Chief Electoral Officer.
+
 4. The rule set out in paragraph 6 of subsection (4) applies to voting proxies.
+
 5. A person is not eligible to vote in a by-election relating to a question or by-law if the person could not vote with respect to that question or by-law if a regular election was held on the day of the by-election.
+
 (6) Repealed: 2016, c. 15, s. 42 (6).
+
 66 Repealed: 2016, c. 15, s. 43.
+
 67 Repealed: 2016, c. 15, s. 43.
+
 68 Repealed: 2016, c. 15, s. 43.
+
 69 Repealed: 2016, c. 15, s. 43.
+
 70 Repealed: 2016, c. 15, s. 43.
+
 70.1 Repealed: 2016, c. 15, s. 43.
+
 71 Repealed: 2016, c. 15, s. 43.
+
 72-74 Repealed: 2016, c. 15, s. 43.
+
 75 Repealed: 2016, c. 15, s. 43.
+
 76 Repealed: 2016, c. 15, s. 43.
+
 77 Repealed: 2016, c. 15, s. 43.
+
 78 Repealed: 2016, c. 15, s. 43.
+
 79 Repealed: 2016, c. 15, s. 43.
+
 79.1 Repealed: 2016, c. 15, s. 43.
+
 80 Repealed: 2016, c. 15, s. 43.
+
 81 Repealed: 2016, c. 15, s. 43.
+
 81.1 Repealed: 2016, c. 15, s. 43.
+
 82 Repealed: 2016, c. 15, s. 43.
+
 82.1 Repealed: 2016, c. 15, s. 43.
 
 ### Controverted Elections
@@ -1795,9 +2213,13 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Application
 
 83 (1) A person who is entitled to vote in an election may make an application to the Superior Court of Justice requesting that it determine,
+
 (a) whether the election is valid;
+
 (b) whether a person’s election to an office in the election is valid;
+
 (c) if a person’s election to an office is not valid, whether another person was validly elected or is entitled to the office;
+
 (d) if an election is not valid or a person’s election to an office is not valid, whether a by-election should be held.
 
 ### Time
@@ -1823,16 +2245,23 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Effect of procedural irregularities
 
 (6) The court shall not determine an election to be invalid if,
+
 (a) an irregularity described in subsection (7) occurred at the election but did not affect the result of the election; and
+
 (b) the election was conducted in accordance with the principles of this Act.
 
 ### Same
 
 (7) Clause (6) (a) applies to the following irregularities:
+
 1. An irregularity on the part of the clerk or in any of the procedures before voting day.
+
 2. Failure to have a voting place open at the appointed location and time.
+
 3. Non-compliance with a provision of this Act or of a regulation, by-law, resolution or procedure made, passed or established under this Act, dealing with voting, counting of votes or time requirements.
+
 4. A mistake in the use of forms, whether prescribed or not.
+
 5. Repealed: 2020, c. 26, Sched. 2, s. 9.
 
 ### Disclaimer before application
@@ -1850,8 +2279,11 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Manner of making disclaimer
 
 (4) The disclaimer shall be made in writing and delivered to,
+
 (a) the court;
+
 (b) the applicant or his or her lawyer; and
+
 (c) the clerk who conducted the election.
 
 ### Duty of clerk
@@ -1889,13 +2321,17 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### New hearing
 
 (3) If the Divisional Court orders a new hearing,
+
 (a) it may order that the hearing be held by the judge who held the original hearing, or by another judge of the General Division; and
+
 (b) unless the Divisional Court orders otherwise, the order made on the new hearing may be appealed under subsection (1) as if it had been the first hearing.
 
 ### Matters pending appeal
 
 87 (1) When an order is made under subsection 83 (1) determining a person’s election to an office to be invalid, the person is entitled to sit and vote on the council or local board until,
+
 (a) the appeal period expires without an appeal being filed; or
+
 (b) if an appeal is filed, it is finally disposed of.
 
 ### Effect of subsequent disqualification
@@ -1905,7 +2341,9 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Time for by-election
 
 (3) A by-election that would be required as a result of the order shall not be held until,
+
 (a) the appeal period expires without an appeal being filed; or
+
 (b) if an appeal is filed, it is finally disposed of.
 
 ### Election Records
@@ -1917,13 +2355,17 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Destruction of records
 
 (2) When the 120-day period has elapsed, the clerk,
+
 (a) shall destroy the ballots, in the presence of two witnesses; and
+
 (b) may destroy any other documents and materials related to the election.
 
 ### Exception, recount
 
 (3) However, the clerk shall not destroy the ballots, documents or materials if,
+
 (a) a court orders that they be retained; or
+
 (b) a recount has been commenced and not finally disposed of.
 
 ### Exception, election campaign finance documents
@@ -1973,7 +2415,9 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Voters’ list
 
 (11) A voters’ list prepared under this Act shall not be,
+
 (a) posted in a public place; or
+
 (b) made available to the public in another manner that is prescribed.
 
 ### The Election Campaign
@@ -2001,6 +2445,7 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Candidates’ election campaign advertisements
 
 88.3 (1) In this section,
+
 “election campaign advertisement” means an advertisement in any broadcast, print, electronic or other medium that has the purpose of promoting or supporting the election of a candidate.
 
 ### Mandatory information in advertisement
@@ -2010,7 +2455,9 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Mandatory information for broadcaster, etc.
 
 (3) A candidate shall not cause an election campaign advertisement to appear unless he or she provides the following information to the broadcaster or publisher in writing:
+
 1. The name of the candidate.
+
 2. The name, business address and telephone number of the individual who deals with the broadcaster or publisher under the direction of the candidate.
 
 ### Prohibition, broadcaster or publisher
@@ -2020,8 +2467,11 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Records
 
 (5) The broadcaster or publisher of an election campaign advertisement shall maintain records containing the following information for a period of four years after the date the advertisement appears and shall permit the public to inspect the records during normal business hours:
+
 1. The information provided under subsection (3).
+
 2. A copy of the advertisement, or the means of reproducing it for inspection.
+
 3. A statement of the charge made for its appearance.
 
 ### Third party advertisements
@@ -2039,15 +2489,21 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Mandatory information in third party advertisements
 
 88.5 (1) No registered third party shall cause a third party advertisement to appear during the restricted period unless the advertisement contains the following information:
+
 1. The name of the registered third party.
+
 2. The municipality where the registered third party is registered.
+
 3. A telephone number, mailing address or email address at which the registered third party may be contacted regarding the advertisement.
 
 ### Mandatory information for broadcaster, etc.
 
 (2) A registered third party shall not cause a third party advertisement to appear during the restricted period unless he, she or it provides the following information to the broadcaster or publisher in writing:
+
 1. The name of the registered third party.
+
 2. The name, business address and telephone number of the individual who deals with the broadcaster or publisher under the direction of the registered third party.
+
 3. The municipality where the registered third party is registered.
 
 ### Prohibition, broadcaster or publisher
@@ -2057,8 +2513,11 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Records
 
 (4) The broadcaster or publisher of a third party advertisement shall maintain records containing the following information for a period of four years after the date the advertisement appears and shall permit the public to inspect the records during normal business hours:
+
 1. The information provided under subsection (2).
+
 2. A copy of the advertisement, or the means of reproducing it for inspection.
+
 3. A statement of the charge made for its appearance.
 
 ### Registration of third party advertisers
@@ -2070,7 +2529,9 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Same
 
 (1.1) A notice of registration may be filed,
+
 (a) in person or by an agent; or
+
 (b) if the clerk has provided for electronic filing under subsection (12.1), electronically.
 
 ### Same
@@ -2084,16 +2545,23 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Eligibility for registration
 
 (4) Only the following persons and entities are eligible to file a notice of registration:
+
 1. An individual who is normally resident in Ontario.
+
 2. A corporation that carries on business in Ontario.
+
 3. A trade union that holds bargaining rights for employees in Ontario.
 
 ### Restriction
 
 (5) The following persons and entities are not eligible to file a notice of registration:
+
 1. A candidate whose nomination has been filed under section 33.
+
 2. A federal political party registered under the Canada Elections Act (Canada) or any federal constituency association or registered candidate at a federal election endorsed by that party.
+
 3. A provincial political party, constituency association, registered candidate or leadership contestant registered under the Election Finances Act.
+
 4. The Crown in right of Canada or Ontario, a municipality or local board.
 
 ### Same
@@ -2131,7 +2599,9 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Certification
 
 (13) The clerk shall examine each notice of registration that has been filed and do one of the following as soon as practicable upon filing:
+
 1. If satisfied that the individual, corporation or trade union is qualified to be registered and that the notice of registration complies with this Act, certify the notice of registration by signing it.
+
 2. If not satisfied that the individual, corporation or trade union is qualified to be registered or that the notice of registration complies with this Act, reject the notice of registration.
 
 ### Decision final
@@ -2163,16 +2633,23 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Who may contribute
 
 (3) Only the following persons may make contributions:
+
 1. An individual who is normally resident in Ontario.
+
 2. Subject to subsection (5), the candidate and his or her spouse.
 
 ### Who cannot contribute
 
 (4) For greater certainty, and without limiting the generality of subsection (3), the following persons and entities shall not make a contribution:
+
 1. A federal political party registered under the Canada Elections Act (Canada) or any federal constituency association or registered candidate at a federal election endorsed by that party.
+
 2. A provincial political party, constituency association, registered candidate or leadership contestant registered under the Election Finances Act.
+
 3. A corporation that carries on business in Ontario.
+
 4. A trade union that holds bargaining rights for employees in Ontario.
+
 5. The Crown in right of Canada or Ontario, a municipality or a local board.
 
 ### Non-resident candidate, spouse
@@ -2198,7 +2675,9 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Same
 
 (10) Without limiting the generality of subsection (9), the information referred to in that subsection includes the following:
+
 1. The phone number and email address provided by the candidate in the nomination filed under section 33.
+
 2. A hyperlink to the candidate’s website.
 
 ### Maximum contributions to candidates
@@ -2224,27 +2703,37 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Maximum contributions to a candidate’s own election campaign
 
 88.9.1 (1) A candidate for an office on a council and his or her spouse shall not make contributions to the candidate’s own election campaign that, combined, exceed an amount equal to the lesser of,
+
 (a) the amount calculated by adding,
+
 (i) in the case of a candidate for the office of head of council of a municipality, $7,500 plus 20 cents for each elector entitled to vote for the office, or
+
 (ii) in the case of a candidate for an office on a council of a municipality other than the office of head of council, $5,000 plus 20 cents for each elector entitled to vote for the office; and
+
 (b) $25,000.
 
 ### Number of electors, regular election
 
 (2) For the purposes of subsection (1), for a regular election the number of electors is the greater of the following:
+
 1. The number determined from the voters’ list from the previous regular election, as it existed on September 20 in the year of the previous election, adjusted for changes made under sections 24 and 25 that were approved as of that day and any changes based on updated information from the permanent register of electors that the clerk may obtain on or before that day.
+
 2. The number determined from the voters’ list for the current election, as it exists on September 20 in the year of the current election, adjusted for changes made under sections 24 and 25 that are approved as of that day and any changes based on updated information from the permanent register of electors that the clerk may obtain on or before that day.
 
 ### Same, by-election
 
 (3) For the purposes of subsection (1), for a by-election the number of electors is the greater of the following:
+
 1. The number determined from the voters’ list from the previous regular election, as it existed on September 20 in the year of the previous election, adjusted for changes made under sections 24 and 25 that were approved as of that day and any changes based on updated information from the permanent register of electors that the clerk may obtain on or before that day.
+
 2. The number determined from the voters’ list for the by-election, as it exists after the clerk has made corrections under subparagraph 4 iii of subsection 65 (4).
 
 ### Certificate of maximum amounts
 
 (4) The clerk shall calculate the maximum amounts permitted by subsection (1) for each office for which nominations were filed with him or her and, subject to subsection (5), give a certificate of the applicable maximum amounts to each candidate,
+
 (a) in the case of a regular election, on or before September 30; and
+
 (b) in the case of a by-election, within 10 days after the clerk makes the corrections under subparagraph 4 iii of subsection 65 (4).
 
 ### Exception
@@ -2258,6 +2747,7 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Transition
 
 (7) For the 2026 regular election, the maximum amount determined under subsection (1) shall be determined as if paragraph 1 of subsection (2) read as follows:
+
 1. The number determined from the voters’ list from the previous regular election, as it existed on September 15 in the year of the previous election, adjusted for applications under sections 24 and 25 that were approved as of that day.
 
 ### Non-application of s. 88.34
@@ -2299,16 +2789,23 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Who may contribute
 
 (3) Only the following may make contributions:
+
 1. An individual who is normally resident in Ontario.
+
 2. A corporation that carries on business in Ontario.
+
 3. A trade union that holds bargaining rights for employees in Ontario.
+
 4. Subject to subsection (5), the registered third party and, in the case of an individual, his or her spouse.
 
 ### Who cannot contribute
 
 (4) For greater certainty, and without limiting the generality of subsection (3), the following shall not make a contribution:
+
 1. A federal political party registered under the Canada Elections Act (Canada) or any federal constituency association or registered candidate at a federal election endorsed by that party.
+
 2. A provincial political party, constituency association, registered candidate or leadership contestant registered under the Election Finances Act.
+
 3. The Crown in right of Canada or Ontario, a municipality or local board.
 
 ### Non-resident spouse
@@ -2334,7 +2831,9 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Same
 
 (10) Without limiting the generality of subsection (9), the information referred to in that subsection includes the following:
+
 1. The phone number and email address provided by the registered third party in the notice of registration filed under section 88.6.
+
 2. A hyperlink to the website of the registered third party.
 
 ### Maximum contributions to registered third parties
@@ -2370,27 +2869,41 @@ ii. give a copy of the final list of changes to the Chief Electoral Officer.
 ### Contributions
 
 (3) Without restricting the generality of subsections (1) and (2), the following amounts are contributions:
+
 1. An amount charged for admission to a fund-raising function.
+
 2. If goods and services are sold for more than their market value at a fund-raising function, the difference between the amount paid and the market value. However, if the amount received for the goods or services is $25 or less, the amount is not a contribution.
+
 3. If goods and services used in the person’s election campaign or in relation to third party advertisements are purchased for less than their market value, the difference between the market value and the amount paid.
+
 4. Any unpaid but guaranteed balance in respect of a loan under section 88.17.
 
 ### Not contributions
 
 (4) Without restricting the generality of subsections (1) and (2), the following amounts are not contributions:
+
 1. The value of services provided by voluntary unpaid labour.
+
 2. The value of services provided voluntarily, under the direction of the person or the individual, corporation or trade union, by an employee whose compensation from all sources for providing the services does not exceed the compensation the employee would normally receive for the period the services are provided.
+
 3. An amount of $25 or less that is donated at a fund-raising function.
+
 4. The amount received for goods and services sold at a fund-raising function, if the amount is $25 or less.
+
 5. The amount of a loan under section 88.17.
+
 6. For a person referred to in subsection (1), the value of political advertising provided without charge on a broadcasting undertaking as defined in section 2 of the Broadcasting Act (Canada), if,
+
 i. it is provided in accordance with that Act and the regulations and guidelines made under it, and
+
 ii. it is provided equally to all candidates for office on the particular council or local board.
 
 ### Value of goods and services
 
 (5) The value of goods and services provided as a contribution is,
+
 (a) if the contributor is in the business of supplying these goods and services, the lowest amount the contributor charges the general public in the same market area for similar goods and services provided at or about the same time;
+
 (b) if the contributor is not in the business of supplying these goods and services, the lowest amount a business providing similar goods or services charges the general public for them in the same market area at or about the same time.
 
 ### No penalty
@@ -2416,7 +2929,9 @@ ii. it is provided equally to all candidates for office on the particular counci
 ### Who may guarantee
 
 (3) Only the following persons, as applicable, may guarantee a loan:
+
 1. The candidate and his or her spouse.
+
 2. The registered third party and, in the case of an individual, his or her spouse.
 
 ### Use of municipal, board resources
@@ -2438,27 +2953,41 @@ ii. it is provided equally to all candidates for office on the particular counci
 ### Expenses
 
 (3) Without restricting the generality of subsections (1) and (2), the following amounts are expenses:
+
 1. The replacement value of goods retained by the person, individual, corporation or trade union from any previous election in the municipality and used in the current election.
+
 2. The value of contributions of goods and services.
+
 3. Audit and accounting fees.
+
 4. Interest on loans under section 88.17.
+
 5. The cost of holding fund-raising functions.
+
 6. The cost of holding parties and making other expressions of appreciation after the close of voting.
+
 7. For a candidate, expenses relating to a recount or a proceeding under section 83 (controverted elections).
+
 8. Expenses relating to a compliance audit.
+
 9. Expenses that are incurred by a candidate with a disability or a registered third party who is an individual with a disability, are directly related to the disability, and would not have been incurred but for the election to which the expenses relate.
+
 10. The cost of election campaign advertisements (within the meaning of section 88.3) or third party advertisements, as the case may be.
 
 ### Exception
 
 (4) For greater certainty, the cost of holding fund-raising functions does not include costs related to,
+
 (a) events or activities that are organized for such purposes as promoting public awareness of a candidate and at which the soliciting of contributions is incidental; or
+
 (b) promotional materials in which the soliciting of contributions is incidental.
 
 ### Transition, candidates’ expenses
 
 (5) In the following circumstances, a candidate’s expenses for the 2018 regular election that are described in paragraphs 7 and 8 of subsection (3) may include his or her expenses as a candidate in the 2014 regular election for an office on the same council or local board:
+
 1. The circumstances described in paragraph 4 of subsection 88.24 (1) (deficit).
+
 2. The circumstances described in paragraph 5 of subsection 88.24 (1) (expenses relating to a recount, etc.).
 
 ### Candidates’ expenses
@@ -2504,19 +3033,25 @@ ii. it is provided equally to all candidates for office on the particular counci
 ### Number of electors, regular election
 
 (11) For the purposes of subsection (7), for a regular election the number of electors is the greater of the following:
+
 1. The number determined from the voters’ list from the previous regular election, as it existed on September 20 in the year of the previous election, adjusted for changes made under sections 24 and 25 that were approved as of that day and any changes based on updated information from the permanent register of electors that the clerk may obtain on or before that day.
+
 2. The number determined from the voters’ list for the current election, as it exists on September 20 in the year of the current election, adjusted for changes made under sections 24 and 25 that are approved as of that day and any changes based on updated information from the permanent register of electors that the clerk may obtain on or before that day.
 
 ### Same, by-election
 
 (12) For the purposes of subsection (7), for a by-election the number of electors is the greater of the following:
+
 1. The number determined from the voters’ list from the previous regular election, as it existed on September 20 in the year of the previous election, adjusted for changes made under sections 24 and 25 that were approved as of that day and any changes based on updated information from the permanent register of electors that the clerk may obtain on or before that day.
+
 2. The number determined from the voters’ list for the by-election, as it exists after the clerk has made corrections under subparagraph 4 iii of subsection 65 (4).
 
 ### Certificate of maximum amounts
 
 (13) The clerk shall calculate the maximum amounts permitted by subsections (6) and (9) for each office for which nominations were filed with him or her and give a certificate of the applicable maximum amounts to each candidate,
+
 (a) in the case of a regular election, on or before September 30; and
+
 (b) in the case of a by-election, within 10 days after the clerk makes the corrections under subparagraph 4 iii of subsection 65 (4).
 
 ### Calculations final
@@ -2526,6 +3061,7 @@ ii. it is provided equally to all candidates for office on the particular counci
 ### Transition
 
 (15) For the 2026 regular election, the maximum amount determined under subsection (6) shall be determined as if paragraph 1 of subsection (11) read as follows:
+
 1. The number determined from the voters’ list from the previous regular election, as it existed on September 15 in the year of the previous election, adjusted for applications under sections 24 and 25 that were approved as of that day.
 
 ### Registered third parties’ expenses
@@ -2571,25 +3107,33 @@ ii. it is provided equally to all candidates for office on the particular counci
 ### Number of electors, regular election
 
 (11) Subject to subsection (16), for the purpose of applying the prescribed formula for a regular election, the number of electors is the greater of the following:
+
 1. The number determined from the voters’ list from the previous regular election, as it existed on the day specified in subsection (13), adjusted for changes made under sections 24 and 25 that were approved as of that day and any changes based on updated information from the permanent register of electors that the clerk may obtain on or before that day.
+
 2. The number determined from the voters’ list for the current election, as it exists on September 20 in the year of the current election, adjusted for changes made under sections 24 and 25 that are approved as of that day and any changes based on updated information from the permanent register of electors that the clerk may obtain on or before that day.
 
 ### Same, by-election
 
 (12) Subject to subsection (16), for the purpose of applying the prescribed formula for a by-election, the number of electors is the greater of the following:
+
 1. The number determined from the voters’ list from the previous regular election, as it existed on the day specified in subsection (13), adjusted for changes made under sections 24 and 25 that were approved as of that day and any changes based on updated information from the permanent register of electors that the clerk may obtain on or before that day.
+
 2. The number determined from the voters’ list for the by-election, as it exists after the clerk has made corrections under subparagraph 4 iii of subsection 65 (4).
 
 ### Same, regular or by-election
 
 (13) For the purposes of paragraph 1 of subsection (11) and paragraph 1 of subsection (12), the number shall be determined using the voters’ list from the previous regular election as the list existed on,
+
 (a) September 15 in the year of the previous regular election, if the formula is being applied for the purposes of the 2026 regular election; or
+
 (b) September 20 in the year of the previous regular election, if the formula is being applied for the purposes of an election in any other year.
 
 ### When calculation must be made
 
 (14) The clerk shall calculate the maximum amounts under subsections (6) and (9),
+
 (a) for a regular election, no later than September 30 in the year of the election; and
+
 (b) for a by-election, within 10 days after the clerk makes the corrections under subparagraph 4 iii of subsection 65 (4) or subparagraph 3 ii of subsection 65 (5).
 
 ### Certificate of maximum amounts
@@ -2599,7 +3143,9 @@ ii. it is provided equally to all candidates for office on the particular counci
 ### Exception
 
 (16) Upon registering a registered third party before having calculated the amount under subsection (6), the clerk shall,
+
 (a) calculate an estimated amount using the number of electors described in paragraph 1 of subsection (11) and give the individual filing the registration a certificate setting out the estimated amount as of the day of the calculation; and
+
 (b) once the calculation under subsection (6) is made, give the individual who filed the registration a certificate setting out the amount calculated under subsection (6).
 
 ### Calculations final
@@ -2611,29 +3157,53 @@ ii. it is provided equally to all candidates for office on the particular counci
 ### Duties of candidates
 
 88.22 (1) A candidate shall ensure that,
+
 (a) no contributions of money are accepted or expenses are incurred unless one or more campaign accounts are first opened at a financial institution exclusively for the purposes of the election campaign;
+
 (b) all contributions of money are deposited into the campaign accounts;
+
 (c) all funds in the campaign accounts are used exclusively for the purposes of the election campaign;
+
 (d) all payments for expenses are made from the campaign accounts;
+
 (e) contributions of goods or services are valued;
+
 (f) receipts are issued for every contribution and obtained for every expense;
+
 (g) records are kept of,
+
 (i) the receipts issued for every contribution,
+
 (ii) the value of every contribution,
+
 (iii) whether a contribution is in the form of money, goods or services, and
+
 (iv) the contributor’s name and address;
+
 (h) records are kept of every expense including the receipts obtained for each expense;
+
 (i) records are kept of any claim for payment of an expense that the candidate disputes or refuses to pay;
+
 (j) records are kept of the gross income from a fund-raising function and the gross amount of money received at a fund-raising function by donations of $25 or less or by the sale of goods or services for $25 or less;
+
 (k) records are kept of any loan and its terms under section 88.17;
+
 (l) the records described in clauses (g), (h), (i), (j) and (k) are retained by the candidate for the term of office of the members of the council or local board and until their successors are elected and the newly elected council or local board is organized;
+
 (m) financial filings are made in accordance with sections 88.25 and 88.32;
+
 (n) proper direction is given to the persons who are authorized to incur expenses and accept or solicit contributions under the direction of the candidate;
+
 (o) a contribution of money made or received in contravention of this Act or a by-law passed under this Act is returned to the contributor as soon as possible after the candidate becomes aware of the contravention;
+
 (p) a contribution not returned to the contributor under clause (o) is paid to the clerk with whom the candidate’s nomination was filed;
+
 (q) an anonymous contribution is paid to the clerk with whom the candidate’s nomination was filed; and
+
 (r) each contributor is informed that a contributor shall not make contributions exceeding,
+
 (i) subject to subsection (2), a total of $1,200 to any one candidate in an election, and
+
 (ii) a total of $5,000 to two or more candidates for offices on the same council or local board.
 
 ### Candidate for mayor, City of Toronto
@@ -2651,22 +3221,31 @@ ii. it is provided equally to all candidates for office on the particular counci
 ### Effect of default by candidate
 
 88.23 (1) A candidate is subject to the penalties listed in subsection (2), in addition to any other penalty that may be imposed under this Act,
+
 (a) if the candidate fails to file a document as required under section 88.25 or 88.32 by the relevant date;
+
 (b) if a document filed under section 88.25 shows on its face a surplus, as described in section 88.31, and the candidate fails to pay the amount required by subsection 88.31 (4) to the clerk by the relevant date;
+
 (c) if a document filed under section 88.25 shows on its face that the candidate has incurred expenses exceeding what is permitted under section 88.20; or
+
 (d) if a document filed under section 88.32 shows on its face a surplus and the candidate fails to pay the amount required by that section by the relevant date.
 
 ### Penalties
 
 (2) Subject to subsection (7), in the case of a default described in subsection (1),
+
 (a) the candidate forfeits any office to which he or she was elected and the office is deemed to be vacant; and
+
 (b) until the next regular election has taken place, the candidate is ineligible to be elected or appointed to any office to which this Act applies.
 
 ### Notice of default
 
 (3) In the case of a default described in subsection (1), the clerk shall,
+
 (a) notify the candidate in writing that the default has occurred;
+
 (b) if the candidate was elected, notify the council or board to which he or she was elected in writing that the default has occurred; and
+
 (c) make available to the public the name of the candidate and a description of the nature of the default.
 
 ### Clerk’s report re filing requirements
@@ -2676,7 +3255,9 @@ ii. it is provided equally to all candidates for office on the particular counci
 ### Same
 
 (5) The report mentioned in subsection (4) shall be made available on a website or in another electronic format as soon as possible after,
+
 (a) April 30 in the year following a regular election; and
+
 (b) 90 days after voting day in a by-election.
 
 ### Application to court
@@ -2702,30 +3283,55 @@ ii. it is provided equally to all candidates for office on the particular counci
 ### Election campaign period for candidates
 
 88.24 (1) For the purposes of this Act, a candidate’s election campaign period for an office shall be determined in accordance with the following rules:
+
 1. The election campaign period begins on the day on which the clerk receives his or her nomination for the office under section 33.
+
 2. The election campaign period ends on December 31 in the case of a regular election and 45 days after voting day in the case of a by-election.
+
 3. Despite paragraph 2, the election campaign period ends,
+
 i. on the day the nomination is withdrawn under section 36 or is deemed to be withdrawn under subsection 29 (2),
+
 ii. on nomination day, if the nomination is rejected under section 35, or
+
 iii. on the day the candidate files the documents under section 88.25, as long as the documents are filed after voting day and before December 31 in the year of a regular election.
+
 4. Despite paragraphs 2 and 3, if the candidate has a deficit at the time the election campaign period would otherwise end and the candidate notifies the clerk in the prescribed form on or before December 31 in the case of a regular election and 45 days after voting day in the case of a by-election, the election campaign period is extended and is deemed to have run continuously from the date of nomination until the earliest of,
+
 i. June 30 in the year following the regular election,
+
 ii. the end of the six-month period following the 45th day after voting day, in the case of a by-election,
+
 iii. the day he or she is nominated in a subsequent election for an office on the council or local board in respect of which the deficit was incurred,
+
 iv. the day the candidate notifies the clerk in writing that he or she will not accept further contributions, and
+
 v. the day A equals the total of B and C, where,
+
 A = any further contributions,
+
 B = the expenses incurred during the extension of the election campaign period, and
+
 C = the amount of the candidate’s deficit at the start of the extension of the election campaign period.
+
 5. If, after the election campaign period ends under paragraph 2, 3 or 4, the candidate incurs expenses relating to a recount, a proceeding under section 83 (controverted elections) or a compliance audit and the candidate notifies the clerk in writing, the election campaign period is deemed to have recommenced, subject to subsection (2), and to have run continuously from the date of nomination until the earliest of,
+
 i. the day the total of A and B equals the total of C and D, where,
+
 A = any amount released to the candidate under subsection 88.31 (7),
+
 B = any further contributions,
+
 C = the expenses incurred after the election campaign period recommences, and
+
 D = the amount of the candidate’s deficit, if any, before the election campaign period recommenced,
+
 ii. the day he or she is nominated in a subsequent election for an office on the council or local board in respect of which the expenses referred to in subparagraph i were incurred,
+
 iii. the day the candidate notifies the clerk in writing that the candidate will not accept further contributions,
+
 iv. June 30 in the year following the regular election, and
+
 v. the end of the six-month period following the 45th day after voting day, in the case of a by-election.
 
 ### Same
@@ -2735,13 +3341,17 @@ v. the end of the six-month period following the 45th day after voting day, in t
 ### Multiple and combined campaigns
 
 (3) The following rules apply if a person is a candidate, at different times in the same election, for more than one office on the same council or local board:
+
 1. The person’s campaigns for offices for which the election is conducted by general vote shall be deemed to be one campaign for the last office for which he or she is nominated, but the election campaign period begins on the day of the first nomination.
+
 2. Each campaign for an office for which the election is conducted by ward is a separate campaign.
 
 ### Candidates’ financial statements, etc.
 
 88.25 (1) On or before 2 p.m. on the filing date, a candidate shall file with the clerk with whom the nomination was filed a financial statement and auditor’s report, each in the prescribed form, reflecting the candidate’s election campaign finances,
+
 (a) in the case of a regular election, as of December 31 in the year of the election; and
+
 (b) in the case of a by-election, as of the 45th day after voting day.
 
 ### Same
@@ -2775,14 +3385,19 @@ v. the end of the six-month period following the 45th day after voting day, in t
 ### Notice to candidates, before filing date
 
 (9) At least 30 days before the filing date, the clerk shall give notice of the following matters to every candidate whose nomination was filed with him or her:
+
 1. All the filing requirements of this section.
+
 2. The candidate’s entitlement to receive a refund of the nomination filing fee if he or she meets the requirements of section 34.
+
 3. The penalties set out in subsections 88.23 (2) and 92 (1).
 
 ### Same, before supplementary filing date
 
 (10) At least 30 days before the supplementary filing date, the clerk shall give notice of the filing requirements of this section and the penalties set out in subsections 88.23 (2) and 92 (1) to the following candidates:
+
 1. A candidate who notified the clerk under paragraph 4 of subsection 88.24 (1).
+
 2. A candidate who notified the clerk under paragraph 5 of subsection 88.24 (1).
 
 ### Electronic filing
@@ -2796,29 +3411,53 @@ v. the end of the six-month period following the 45th day after voting day, in t
 ### Duties of registered third parties
 
 88.26 (1) A registered third party shall ensure that,
+
 (a) no contributions of money are accepted or expenses are incurred in relation to third party advertisements that appear during an election in a municipality unless one or more campaign accounts are first opened at a financial institution exclusively for the purposes of the election campaign;
+
 (b) all contributions of money are deposited into the campaign accounts;
+
 (c) all funds in the campaign accounts are used exclusively for the purposes of the election campaign;
+
 (d) all payments for expenses are made from the campaign accounts;
+
 (e) contributions of goods or services are valued;
+
 (f) receipts are issued for every contribution and obtained for every expense;
+
 (g) records are kept of,
+
 (i) the receipts issued for every contribution,
+
 (ii) the value of every contribution,
+
 (iii) whether a contribution is in the form of money, goods or services, and
+
 (iv) the contributor’s name and address;
+
 (h) records are kept of every expense including the receipts obtained for each expense;
+
 (i) records are kept of any claim for payment of an expense that the registered third party disputes or refuses to pay;
+
 (j) records are kept of the gross income from a fund-raising function and the gross amount of money received at a fund-raising function by donations of $25 or less or by the sale of goods or services for $25 or less;
+
 (k) records are kept of any loan and its terms under section 88.17;
+
 (l) the records described in clauses (g), (h), (i), (j) and (k) are retained by the registered third party for the term of office of the members of the council or local board and until their successors are elected and the newly elected council or local board is organized;
+
 (m) financial filings are made in accordance with sections 88.29 and 88.32;
+
 (n) proper direction is given to the persons who are authorized to incur expenses and accept or solicit contributions under the direction of the registered third party;
+
 (o) a contribution of money made or received in contravention of this Act or a by-law passed under this Act is returned to the contributor as soon as possible after the registered third party becomes aware of the contravention;
+
 (p) a contribution not returned to the contributor under clause (o) is paid to the clerk of the municipality in which the registered third party is registered;
+
 (q) an anonymous contribution is paid to the clerk of the municipality in which the registered third party is registered; and
+
 (r) each contributor is informed that a contributor shall not make contributions exceeding,
+
 (i) a total of $1,200 to any one registered third party in relation to third party advertisements, and
+
 (ii) a total of $5,000 to two or more registered third parties registered in the same municipality in relation to third party advertisements.
 
 ### Exclusion of certain expenses
@@ -2832,9 +3471,13 @@ v. the end of the six-month period following the 45th day after voting day, in t
 ### Effect of default by registered third party
 
 88.27 (1) Subject to subsection (6) and in addition to any other penalty that may be imposed under this Act, an individual, corporation or trade union that is registered as a registered third party in relation to an election in a municipality is not entitled to register in relation to a subsequent election in the municipality until after the next regular election has taken place,
+
 (a) if the registered third party fails to file a document as required under section 88.29 or 88.32 by the relevant date;
+
 (b) if a document filed under section 88.29 shows on its face a surplus, as described in section 88.31, and the registered third party fails to pay the amount required by subsection 88.31 (4) to the clerk by the relevant date;
+
 (c) if a document filed under section 88.29 shows on its face that the registered third party has incurred expenses exceeding what is permitted under section 88.21; or
+
 (d) if a document filed under section 88.32 shows on its face a surplus and the registered third party fails to pay the amount required by that section by the relevant date.
 
 ### Notice of default
@@ -2864,33 +3507,57 @@ v. the end of the six-month period following the 45th day after voting day, in t
 ### Campaign period for registered third parties
 
 88.28 For the purposes of this Act, the campaign period for a registered third party in relation to an election in a municipality shall be determined in accordance with the following rules:
+
 1. The campaign period begins on the day on which the individual, corporation or trade union is registered as a registered third party in relation to the election in the municipality.
+
 2. The campaign period ends on December 31 in the case of a regular election and 45 days after voting day in the case of a by-election.
+
 2.1 Despite paragraph 2, the campaign period ends,
+
 i. on the day the third party’s registration is withdrawn under subsection 88.6 (15) or deemed to be withdrawn under subsection 88.6 (16), or
+
 ii. on the day the third party advertiser files the documents under section 88.29, as long as the documents are filed after voting day and before December 31 in the year of a regular election.
+
 3. Despite paragraph 2, if the registered third party has a deficit at the time the campaign period would otherwise end and the registered third party notifies the clerk in the prescribed form on or before December 31 in the case of a regular election and 45 days after voting day in the case of a by-election, the campaign period is extended and is deemed to have run continuously from the date on which the registered third party was registered until the earliest of,
+
 i. June 30 in the year following the regular election,
+
 ii. the end of the six-month period following the 45th day after voting day, in the case of a by-election,
+
 iii. the day the registered third party notifies the clerk in writing that he, she or it will not accept further contributions, and
+
 iv. the day A equals the total of B and C, where,
+
 A = any further contributions,
+
 B = the expenses incurred during the extension of the campaign period, and
+
 C = the amount of the registered third party’s deficit at the start of the extension of the campaign period.
+
 4. If, after the campaign period ends under paragraph 2 or 3, the registered third party incurs expenses relating to a compliance audit and he, she or it notifies the clerk in writing, the campaign period is deemed to have recommenced and to have run continuously from the day on which the registered third party was registered until the earliest of,
+
 i. the day the total of A and B equals the total of C and D, where,
+
 A = any amount released to the registered third party under subsection 88.31 (7),
+
 B = any further contributions,
+
 C = the expenses incurred after the campaign period recommences, and
+
 D = the amount of the registered third party’s deficit, if any, before the campaign period recommenced,
+
 ii. the day the registered third party notifies the clerk in writing that he, she or it will not accept further contributions,
+
 iii. June 30 in the year following the regular election, and
+
 iv. the end of the six-month period following the 45th day after voting day, in the case of a by-election.
 
 ### Financial statements, etc., of registered third parties
 
 88.29 (1) On or before 2 p.m. on the filing date, a registered third party shall file with the clerk of the municipality in which he, she or it registered a financial statement and auditor’s report, each in the prescribed form, reflecting the registered third party’s campaign finances in relation to third party advertisements,
+
 (a) in the case of a regular election, as of December 31 in the year of the election; and
+
 (b) in the case of a by-election, as of the 45th day after voting day.
 
 ### Same
@@ -2942,19 +3609,25 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Filing date
 
 88.30 (1) The filing date for documents that are to be filed under section 88.25 or 88.29 is the following:
+
 1. In the case of a regular election, the last Friday in March following the election.
+
 2. In the case of a by-election, 75 days after voting day.
 
 ### Supplementary filing date
 
 (2) The supplementary filing date for documents that are to be filed under section 88.25 or 88.29 is the following:
+
 1. In the case of a regular election, the last Friday in September in the year following the election.
+
 2. In the case of a by-election, 30 days after the expiry of the six-month period described in paragraph 2 of subsection (3).
 
 ### Supplementary reporting period
 
 (3) The supplementary reporting period for documents that are to be filed under section 88.25 or 88.29 is the following:
+
 1. In the case of a regular election, the six-month period following the year of the election.
+
 2. In the case of a by-election, the six-month period following the 45th day after voting day.
 
 ### Treatment of surplus and deficit
@@ -2964,10 +3637,15 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Total credits
 
 (2) For the purposes of subsection (1), the total credits are the sum of,
+
 (a) the contributions under section 88.15;
+
 (b) any amounts of $25 or less that were donated at fund-raising functions;
+
 (c) any amounts of $25 or less for goods or services that were sold at fund-raising functions;
+
 (d) interest earned on campaign accounts; and
+
 (e) revenue from the sale of election materials.
 
 ### Total debits
@@ -2985,7 +3663,9 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Refund
 
 (6) If a candidate or registered third party who has a surplus has made contributions to the campaign or, in the case of an individual, if his or her spouse has made contributions to the campaign, the candidate or registered third party may, after the campaign period ends but before filing the financial statement or supplementary financial statement, as the case may be, refund to the candidate or registered third party or to the spouse, as the case may be, an amount that does not exceed the lesser of,
+
 (a) the relevant contributions;
+
 (b) the surplus.
 
 ### Release of amount if campaign recommences
@@ -2995,17 +3675,25 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Amount to become property of municipality or local board
 
 (8) For a candidate, the amount held in trust becomes the property of the municipality or local board, as the case may be, when all of the following conditions are satisfied:
+
 1. The election campaign period has ended under paragraph 2, 3 or 4 of subsection 88.24 (1).
+
 2. It is no longer possible to recommence the campaign period under paragraph 5 of subsection 88.24 (1).
+
 3. No recount, proceeding under section 83 (controverted elections) or compliance audit has been commenced.
+
 4. The period for commencing a recount, a proceeding under section 83 or a compliance audit has expired.
 
 ### Same, for registered third party
 
 (9) For a registered third party, the amount held in trust becomes the property of the municipality when all of the following conditions are satisfied:
+
 1. The campaign period has ended under paragraph 2 or 3 of section 88.28.
+
 2. It is no longer possible to recommence the campaign period under paragraph 4 of section 88.28.
+
 3. No compliance audit has been commenced.
+
 4. The period for commencing a compliance audit has expired.
 
 ### Transition, candidate’s total debits
@@ -3015,17 +3703,25 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Total debits
 
 (3) For the purposes of subsection (1), the total debits of a candidate are the sum of,
+
 (a) the candidate’s expenses under section 88.19 or the predecessor to that section; and
+
 (b) any deficit from a previous election campaign of the candidate if that campaign,
+
 (i) related to an office on the same council or local board as the present campaign, and
+
 (ii) was in the previous regular election or a subsequent by-election.
 
 ### Return of surplus for subsequent expenses
 
 88.32 (1) This section applies if all of the following circumstances exist:
+
 1. A candidate or registered third party has paid a surplus to the clerk under subsection 88.31 (4).
+
 2. The candidate’s election campaign period has ended under paragraph 2, 3 or 4 of subsection 88.24 (1) or the registered third party’s campaign period has ended under paragraph 2 or 3 of section 88.28.
+
 3. It is no longer possible to recommence the campaign period under paragraph 5 of subsection 88.24 (1) or paragraph 4 of section 88.28.
+
 4. The candidate or registered third party subsequently incurs expenses relating to a compliance audit.
 
 ### Return of surplus
@@ -3079,9 +3775,13 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Deadline for applications
 
 (3) The application must be made within 90 days after the latest of the following dates:
+
 1. The filing date under section 88.30.
+
 2. The date the candidate filed a financial statement, if the statement was filed within 30 days after the applicable filing date under section 88.30.
+
 3. The candidate’s supplementary filing date, if any, under section 88.30.
+
 4. The date on which the candidate’s extension, if any, under subsection 88.23 (6) expires.
 
 ### Compliance audit committee
@@ -3135,7 +3835,9 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Powers of auditor
 
 (15) For the purpose of the audit, the auditor,
+
 (a) is entitled to have access, at all reasonable hours, to all relevant books, papers, documents or things of the candidate and of the municipality or local board; and
+
 (b) has the powers set out in section 33 of the Public Inquiries Act, 2009 and section 33 applies to the audit.
 
 ### Costs
@@ -3165,7 +3867,9 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Report, contributions to candidates for council
 
 (2) As soon as possible following the day that is 30 days after the filing date or supplementary filing date, as the case may be, under section 88.30, the clerk shall prepare a report identifying each contributor to a candidate for office on a council who appears to have contravened any of the contribution limits under section 88.9 and,
+
 (a) if the contributor’s total contributions to a candidate for office on a council appear to exceed the limit under section 88.9, the report shall set out the contributions made by that contributor to the candidate; and
+
 (b) if the contributor’s total contributions to two or more candidates for office on the same council appear to exceed the limit under section 88.9, the report shall set out the contributions made by that contributor to all candidates for office on the same council.
 
 ### Same
@@ -3179,7 +3883,9 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Report, contributions to candidates for a local board
 
 (5) As soon as possible following the day that is 30 days after the filing date or supplementary filing date, as the case may be, under section 88.30, the clerk shall prepare a report identifying each contributor to a candidate for office on a local board who appears to have contravened any of the contribution limits under section 88.9 and,
+
 (a) if the contributor’s total contributions to a candidate for office on a local board appear to exceed the limit under section 88.9, the report shall set out the contributions made by that contributor to the candidate; and
+
 (b) if the contributor’s total contributions to two or more candidates for office on the same local board appear to exceed the limit under section 88.9, the report shall set out the contributions made by that contributor to all candidates for office on the same local board.
 
 ### Same
@@ -3227,16 +3933,23 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Deadline
 
 (3) The application must be made within 90 days after the latest of the following dates:
+
 1. The filing date under section 88.30.
+
 2. The date the registered third party filed a financial statement, if the statement was filed within 30 days after the applicable filing date under section 88.30.
+
 3. The supplementary filing date, if any, for the registered third party under section 88.30.
+
 4. The date on which the registered third party’s extension, if any, under subsection 88.27 (3) expires.
 
 ### Application of s. 88.33 (4) to (20)
 
 (4) Subsections 88.33 (4) to (20) apply to a compliance audit under this section, with the following modifications:
+
 1. A reference to a candidate shall be read as a reference to the registered third party.
+
 2. A reference to the clerk with whom the candidate filed his or her nomination shall be read as a reference to the clerk of the municipality in which the registered third party is registered.
+
 3. A reference to election campaign finances shall be read as a reference to the campaign finances of the registered third party in relation to third party advertisements that appear during an election in the municipality.
 
 ### Review of contributions to registered third parties
@@ -3246,7 +3959,9 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Report by the clerk
 
 (2) As soon as possible following the day that is 30 days after the filing date or supplementary filing date, as the case may be, under section 88.30 for a registered third party, the clerk shall prepare a report identifying each contributor to the registered third party who appears to have contravened any of the contribution limits under section 88.13 and,
+
 (a) if the contributor’s total contributions to a registered third party that is registered in the municipality appear to exceed the limit under section 88.13, the report shall set out the contributions made by that contributor to the registered third party in relation to third party advertisements; and
+
 (b) if the contributor’s total contributions to two or more registered third parties that are registered in the municipality appear to exceed the limit under section 88.13, the report shall set out the contributions made by that contributor to all registered third parties in the municipality in relation to third party advertisements.
 
 ### Same
@@ -3284,9 +3999,13 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Composition
 
 (2) The committee shall be composed of not fewer than three and not more than seven members and shall not include,
+
 (a) employees or officers of the municipality or local board;
+
 (b) members of the council or local board;
+
 (c) any persons who are candidates in the election for which the committee is established; or
+
 (d) any persons who are registered third parties in the municipality in the election for which the committee is established.
 
 ### Eligibility for appointment
@@ -3314,18 +4033,31 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Offences
 
 89 A person is guilty of an offence if he or she,
+
 (a) votes without being entitled to do so;
+
 (b) votes more times than this Act allows;
+
 (c) votes in a voting place in which he or she is not entitled to vote;
+
 (d) induces or procures a person to vote when that person is not entitled to do so;
+
 (e) having appointed a voting proxy that remains in force, votes otherwise than by the proxy;
+
 (f) having been appointed a voting proxy, votes under the authority of the proxy when the elector has cancelled the proxy, is no longer entitled to vote or has died;
+
 (g) before or during an election, publishes a false statement of a candidate’s withdrawal;
+
 (h) furnishes false or misleading information to a person whom this Act authorizes to obtain information;
+
 (i) without authority, supplies a ballot to anyone;
+
 (j) delivers to the deputy returning officer to be placed in a ballot box a paper other than the ballot the deputy returning officer gave him or her;
+
 (k) takes a ballot away from the voting place;
+
 (l) at an election, takes, opens or otherwise deals with a ballot, a ballot box, or a book or package of ballots without having authority to do so;
+
 (m) attempts to do something described in clauses (a) to (l).
 
 ### Corrupt practices: certain offences committed knowingly
@@ -3339,11 +4071,17 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Same
 
 (3) No person shall, directly or indirectly,
+
 (a) offer, give, lend, or promise or agree to give or lend any valuable consideration, in connection with the exercise or non-exercise of an elector’s vote;
+
 (b) advance, pay or cause to be paid money intending that it be used to commit an offence referred to in clause (a), or knowing that it will be used to repay money used in that way;
+
 (c) give, procure or promise or agree to procure an office or employment in connection with the exercise or non-exercise of an elector’s vote;
+
 (d) apply for, accept or agree to accept any valuable consideration or office or employment in connection with the exercise or non-exercise of an elector’s vote;
+
 (e) give, procure or promise or agree to procure an office or employment to induce a person to become a candidate, refrain from becoming a candidate or withdraw his or her candidacy;
+
 (f) offer, give, lend, or promise or agree to give or lend any valuable consideration in order to induce a person to become a candidate, refrain from becoming a candidate or withdraw his or her candidacy.
 
 ### Corrupt practices by election officials: miscounting votes
@@ -3361,7 +4099,9 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Corrupt practice and ineligibility for office
 
 91 (1) If a person is convicted of a corrupt practice under this Act, or of an offence under the Criminal Code (Canada) in connection with an act or omission that relates to an election to which this Act applies, then, in addition to any other penalty provided for in this Act,
+
 (a) any office to which the person was elected is forfeited and becomes vacant; and
+
 (b) the person is ineligible to be nominated for, or elected or appointed to, any office until the next two regular elections have taken place after the election to which the offence relates.
 
 ### Exception
@@ -3373,7 +4113,9 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Offences by candidate
 
 92 (1) A candidate is guilty of an offence and, on conviction, in addition to any other penalty that may be imposed under this Act, is subject to the penalties described in subsection 88.23 (2),
+
 (a) if the candidate incurs expenses that exceed the amount determined for the office under section 88.20; or
+
 (b) if the candidate files a document under section 88.25 or 88.32 that is incorrect or otherwise does not comply with that section.
 
 ### Exception, action in good faith
@@ -3387,7 +4129,9 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Offences by registered third party
 
 (4) A registered third party is guilty of an offence and, on conviction, in addition to any other penalty that may be imposed under this Act, is subject to the penalty described in subsection 88.27 (1),
+
 (a) if the registered third party incurs expenses that exceed the amount determined under section 88.21; or
+
 (b) if the registered third party files a document under section 88.29 or 88.32 that is incorrect or otherwise does not comply with that section.
 
 ### Exception, action in good faith
@@ -3409,9 +4153,13 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### General penalty, individual
 
 94.1 (1) An individual who is convicted of an offence under this Act is liable to the following penalties in addition to any other penalty provided for in this Act:
+
 1. For any offence, a fine of not more than $25,000.
+
 2. For any offence other than a corrupt practice, the penalties described in subsection 88.23 (2) and 88.27 (1).
+
 3. For an offence under section 90, imprisonment for a term of not more than six months.
+
 4. For any offence that the presiding judge finds that the individual committed knowingly, imprisonment for a term of not more than six months.
 
 ### Same, corporation or trade union
@@ -3439,20 +4187,35 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Regulations
 
 95 (1) The Minister may, by regulation,
+
 (a) prescribe anything that is permitted or required to be prescribed or that is permitted or required to be done in accordance with the regulations or as provided in the regulations;
+
 (a.1) prescribe forms;
+
 (b) specify circumstances in which a person is, and is not, considered to be a tenant for the purpose of clause 17 (2) (a);
+
 (b.1) prescribe a date for the purpose of subsection 19 (1.1);
+
 (b.2) fix the amount of the nomination filing fee referred to in clause 33 (2) (c) and specify the manner in which it shall be paid;
+
 (c) prescribe formulas for the purposes of subsections 88.20 (6) and (9) and 88.21 (6) and (9);
+
 (c.1) prescribe documents or classes of documents for the purpose of paragraph 1 of subsection 52 (1);
+
 (d) prescribe rules for the purpose of section 54 (counting of votes);
+
 (e) prescribe rules for the purpose of section 60 (manner of doing recounts);
+
 (f) prescribe eligibility criteria for the purpose of subsection 88.37 (3) (compliance audit committee);
+
 (g) Repealed: 2016, c. 15, s. 71 (2).
+
 (h) prescribe matters of provincial interest for the purpose of paragraph 2 of subsection 8.1 (2);
+
 (i) Repealed: 2016, c. 15, s. 71 (2).
+
 (j) govern and clarify the application of the provisions of this Act related to questions under clauses 8 (1) (b) and (c);
+
 (k) vary the application of the provisions of this Act related to questions under clauses 8 (1) (b) and (c) if, in the opinion of the Minister, it is necessary or desirable to do so to further the purposes of this Act.
 
 ### General or particular
@@ -3482,7 +4245,9 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Same
 
 (2) A regulation made under subsection (1) may be made retroactive,
+
 (a) in the case of a regular election, to January 1 in that year;
+
 (b) in the case of a by-election, to the first day of the period described in paragraph 2 of subsection 65 (4).
 
 ### Same
@@ -3492,4 +4257,5 @@ iv. the end of the six-month period following the 45th day after voting day, in 
 ### Same
 
 (4) A regulation made under subsection (1) applies despite anything else in this or any other public or private Act.
+
 97 Omitted (enacts short title of this Act).

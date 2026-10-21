@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-12-31"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02c34"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Cabinet Ministers' and Opposition Leaders' Expenses Review and Accountability Act, 2002
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02c34) before relying on it.
 
 S.O. 2002, c. 34, Sched. A
 
@@ -21,13 +21,21 @@ S.O. 2002, c. 34, Sched. A
 ### Definitions
 
 1 In this Act,
+
 “allowable expense” means a reviewable expense that, according to subsection 4 (1), is an allowable expense; (“dépense autorisée”)
+
 “applicable rules” means the applicable rules described in subsection 4 (2) or (3), as the case may be; (“règles applicables”)
+
 “Cabinet minister” means a member of the Executive Council; (“ministre”)
+
 “Integrity Commissioner” or “Commissioner” means the Integrity Commissioner appointed under the Members’ Integrity Act, 1994; (“commissaire à l’intégrité”, “commissaire”)
+
 “Legislative Assembly Fund” has the same meaning as in section 81 of the Legislative Assembly Act; (“Caisse de l’Assemblée législative”)
+
 “Minister” means the member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre désigné”)
+
 “Opposition leader” means the leader of a recognized party, within the meaning of subsection 62 (5) of the Legislative Assembly Act, other than the Premier; (“chef d’un parti de l’opposition”)
+
 “reviewable expense” means an expense that, according to subsection 2 (1) or (2) or section 3, as the case may be, is a reviewable expense. (“dépense sujette à examen”)
 
 ### Reviewable Expenses
@@ -35,19 +43,25 @@ S.O. 2002, c. 34, Sched. A
 ### Reviewable expenses of Cabinet ministers, etc.
 
 2 (1) An expense of a Cabinet minister or a person employed in his or her office is a reviewable expense under this Act,
+
 (a) if the expense was incurred in the performance of a ministerial duty or function; and
+
 (b) if a claim was made for payment of the expense from the Consolidated Revenue Fund.
 
 ### Same, parliamentary assistants and staff
 
 (2) An expense of a parliamentary assistant or a person employed in his or her office is a reviewable expense under this Act,
+
 (a) if the expense was incurred in the performance of a ministerial duty or function, or in the performance of a duty or function of a parliamentary assistant; and
+
 (b) if a claim was made for payment of the expense from the Consolidated Revenue Fund.
 
 ### Reviewable expenses of Opposition leaders and staff
 
 3 An expense of an Opposition leader or a person employed in his or her office is a reviewable expense under this Act,
+
 (a) if the expense was for travel, hotels and similar accommodation, meals or hospitality; and
+
 (b) if a claim was made for payment of the expense from the Legislative Assembly Fund, but not a claim for payment pertaining to the leader’s constituency work as a member of the Assembly.
 
 ### Allowable Expenses
@@ -75,9 +89,13 @@ S.O. 2002, c. 34, Sched. A
 ### Same
 
 (2) Without limiting the generality of subsection (1), the rules may,
+
 (a) impose restrictions on the types of expenses or the amounts that may be claimed or on the circumstances in which claims may be made;
+
 (b) specify the circumstances in which expenses are considered to be reasonable or unreasonable and appropriate or inappropriate;
+
 (c) require specified information or documents to be supplied or kept in support of a claim;
+
 (d) establish procedural requirements for claiming expenses.
 
 ### Public notice
@@ -129,6 +147,7 @@ S.O. 2002, c. 34, Sched. A
 ### Supporting documents
 
 (3) The expense claims given to the Commissioner must be accompanied by the supporting documents.
+
 (4) Repealed: 2014, c. 13, Sched. 4, s. 5 (2).
 
 ### Review by the Commissioner
@@ -138,7 +157,9 @@ S.O. 2002, c. 34, Sched. A
 ### Authority re expenses that are not allowable expenses
 
 (2) If the Commissioner determines that a reviewable expense is not, in his or her opinion, an allowable expense in whole or in part, the Commissioner may notify the claimant and such other persons as the Commissioner considers appropriate and may,
+
 (a) direct the claimant to repay the Consolidated Revenue Fund or the Legislative Assembly Fund, as the case may be, and specify a deadline for doing so; and
+
 (b) recommend that other remedial action be taken and specify a deadline for doing so.
 
 ### Exception
@@ -172,7 +193,9 @@ S.O. 2002, c. 34, Sched. A
 ### Contents
 
 (3) The Commissioner’s report shall contain such information as the Commissioner considers appropriate relating only to,
+
 (a) expense claims for reviewable expenses that, in the Commissioner’s opinion, are allowable expenses;
+
 (b) expense claims for reviewable expenses in respect of which the Commissioner ordered an amount to be repaid but it was not repaid or in respect of which the Commissioner recommended remedial action but remedial action that the Commissioner considers appropriate was not taken.
 
 ### Restriction
@@ -214,7 +237,9 @@ S.O. 2002, c. 34, Sched. A
 ### Commissioner’s notification of allowable expenses to Minister and Speaker
 
 14 The Integrity Commissioner shall, after completing each review under section 9 and any additional review under section 12,
+
 (a) notify the Minister of the expenses included in that review that are claimed by Cabinet ministers, parliamentary assistants and persons employed in their offices and that are, in the Commissioner’s opinion, allowable expenses; and
+
 (b) notify the Speaker of the expenses included in that review that are claimed by Opposition leaders and persons employed in their offices and that are, in the Commissioner’s opinion, allowable expenses.
 
 ### Posting allowable expense information on website
@@ -234,12 +259,19 @@ S.O. 2002, c. 34, Sched. A
 ### Information required to be posted
 
 (4) Subject to the rules made under section 16, the following information is required to be posted on the applicable website with respect to each expense that, in the Commissioner’s opinion, is an allowable expense:
+
 1. The name and position title of the person who incurred the expense.
+
 2. The date on which the expense was incurred.
+
 3. The type of the expense.
+
 4. The total amount for each type of expense claimed by and paid to the person.
+
 5. The purpose of the expense.
+
 6. The travel destination or other geographic location where or in respect of which the expense was incurred.
+
 7. Any additional information that may be required under rules made under section 16.
 
 ### Duration of website posting
@@ -249,8 +281,11 @@ S.O. 2002, c. 34, Sched. A
 ### Authority to make rules re information to be posted
 
 16 (1) The Lieutenant Governor in Council may make rules for the purpose of section 15,
+
 (a) specifying additional information to be posted under paragraph 7 of subsection 15 (4);
+
 (b) respecting the information required to be posted under paragraphs 1 to 7 of subsection 15 (4);
+
 (c) governing the posting of information under subsections 15 (1) and (2).
 
 ### Rules re information not to be posted
@@ -270,5 +305,7 @@ S.O. 2002, c. 34, Sched. A
 ### Members’ Integrity Act, 1994
 
 17 Nothing in this Act affects or detracts from the role of the Integrity Commissioner under the Members’ Integrity Act, 1994.
+
 18 Omitted (provides for coming into force of provisions of this Act).
+
 19 Omitted (enacts short title of this Act).

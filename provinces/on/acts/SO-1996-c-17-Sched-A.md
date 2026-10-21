@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96a17a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # AgriCorp Act, 1996
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96a17a) before relying on it.
 
 S.O. 1996, c. 17, Sched. A
 
@@ -35,9 +35,13 @@ S.O. 1996, c. 17, Sched. A
 ### Objects
 
 2 The objects of AgriCorp are,
+
 (a) to administer plans of crop insurance under the Agricultural Products Insurance Act, 1996, and to perform the duties conferred on it by that Act; and
+
 (b) to perform any other duties conferred on it under any other Act of Ontario, any order of the Lieutenant Governor in Council or the Governor in Council or any agreement made between,
+
 (i) the Government of Ontario or any of its agencies, and
+
 (ii) any one or more of the Government of Canada, any of its agencies, AgriCorp or any person.
 
 ### Powers
@@ -47,8 +51,11 @@ S.O. 1996, c. 17, Sched. A
 ### Additional powers
 
 (2) AgriCorp may,
+
 (a) establish and collect fees and service charges related to the exercise of its powers or the carrying out of its duties;
+
 (b) establish and collect penalties for the late payment of the fees and service charges mentioned in clause (a); and
+
 (c) on such conditions as it considers proper, lend money between the funds that it administers, if it administers more than one fund.
 
 ### Borrowing, guarantees
@@ -58,24 +65,35 @@ S.O. 1996, c. 17, Sched. A
 ### Investments
 
 (4) AgriCorp may not invest any part of its money in any investment other than,
+
 (a) notes, bonds, debentures or other evidences of indebtedness issued or guaranteed as to principal and interest by,
+
 (i) Canada, Ontario or another province of Canada,
+
 (ii) a municipality in Canada,
+
 (iii) an agency of the Government of Canada or a province of Canada,
+
 (iv) a Canadian bank or financial institution that is supervised or examined by a governmental authority in the jurisdiction in which the bank or financial institution carries on business;
+
 (b) deposit receipts, deposit notes, certificates of deposit, acceptances or other investment instruments issued, guaranteed or endorsed by a financial institution authorized to carry on business in Canada; or
+
 (c) other securities, financial agreements, investments, evidences of indebtedness, commodity futures or foreign currency futures authorized by or belonging to a class authorized by the Minister of Finance.
 
 ### Corporations, agreements
 
 (5) Except with the approval of the Minister of Agriculture, Food and Rural Affairs, a member of AgriCorp, either alone or together with other persons, may not,
+
 (a) create corporations that have any of the objects of AgriCorp; or
+
 (b) enter into agreements with the Government of Canada or any of its agencies for the encouragement of agriculture or food.
 
 ### Agreements
 
 (6) AgriCorp may exercise any powers and perform any duties conferred on it under any agreement made between,
+
 (a) the Government of Ontario or any of its agencies; and
+
 (b) any one or more of the Government of Canada, any of its agencies, AgriCorp or any person.
 
 ### Not regulations
@@ -157,7 +175,9 @@ S.O. 1996, c. 17, Sched. A
 ### Payments received
 
 11 (1) The Minister of Finance may,
+
 (a) reimburse AgriCorp out of the Consolidated Revenue Fund for all payments that AgriCorp makes under a guarantee that it has given; or
+
 (b) make loans to AgriCorp out of the Consolidated Revenue Fund.
 
 ### Guarantees
@@ -167,9 +187,13 @@ S.O. 1996, c. 17, Sched. A
 ### Funds
 
 12 Subject to subsection 3 (4), AgriCorp shall maintain all funds that it administers in,
+
 (a) a bank or authorized foreign bank within the meaning of section 2 of the Bank Act (Canada);
+
 (b) a corporation registered under the Loan and Trust Corporations Act;
+
 (c) a credit union within the meaning of the Credit Unions and Caisses Populaires Act, 2020; or
+
 (d) a retail association as defined under the Cooperative Credit Associations Act (Canada).
 
 ### Auditor General
@@ -183,7 +207,9 @@ S.O. 1996, c. 17, Sched. A
 ### Same
 
 (2) AgriCorp shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report; and
+
 (b) when and how to make it available to the public.
 
 ### Same
@@ -201,9 +227,13 @@ S.O. 1996, c. 17, Sched. A
 ### Regulations of AgriCorp
 
 15 Subject to the approval of the Minister of Agriculture, Food and Rural Affairs, AgriCorp may, in respect of its duties mentioned in clause 2 (b), make regulations,
+
 (a) fixing and imposing levies or charges, other than the fees and service charges mentioned in subsection 3 (2), that any class of persons is required to pay to AgriCorp or a corporation described in subsection 16 (1) or 3 (5);
+
 (b) specifying terms for the payment of the levies or charges;
+
 (c) providing for the collection of the levies or charges by AgriCorp, the corporation to which they are payable or any class of persons; and
+
 (d) requiring the person who collects the levies or charges to account for them to AgriCorp or the corporation to which they are payable.
 
 ### Regulations for corporations
@@ -229,5 +259,7 @@ S.O. 1996, c. 17, Sched. A
 ### Reference to Minister
 
 (4) A reference to the Minister in the program or the contracts shall be deemed to be a reference to AgriCorp.
+
 18 Omitted (provides for coming into force of provisions of this Act).
+
 19 Omitted (enacts short title of this Act).

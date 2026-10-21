@@ -6,36 +6,50 @@ language: en
 type: act
 document_date: "2026-04-24"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02p08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Province of Ontario Savings Office Privatization Act, 2002
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02p08) before relying on it.
 
 S.O. 2002, c. 8, Sched. H
 
 ### Definitions
 
 1 In this Act,
+
 “books and records” means books, records and information that are in any form, including printed form, electronic form and film; (“livres et registres”)
+
 “business day” means a day other than Saturday or a holiday; (“jour ouvrable”)
+
 “Crown” means the Crown in right of Ontario and includes the Ontario Financing Authority; (“Couronne”)
+
 “demand deposit” means a deposit that is repayable to the depositor on demand or within a specified period of time following demand, and includes any interest that has accrued and has not been paid; (“dépôt à vue”)
+
 “deposit” means money on deposit and includes the assets of a home ownership savings plan; (“dépôt”)
+
 “home ownership savings plan” means an Ontario home ownership savings plan established under the Ontario Home Ownership Savings Plan Act; (“régime d’épargne-logement”)
+
 “maturity date” means, with respect to a term deposit that is transferred by the Crown to a transferee under an agreement authorized by section 2, the date of maturity of the term deposit that is determined, without regard for renewals or rollovers that may occur after the transfer, as of the day the term deposit is transferred; (“date d’échéance”)
+
 “Minister” means the Minister of Finance; (“ministre”)
+
 “prescribed” means prescribed by the regulations made under this Act; (“prescrit”)
+
 “Province of Ontario Savings Office” means the savings offices and agencies operated by the Ontario Financing Authority under the authority of clause 30 (1) (b) of the Capital Investment Plan Act, 1993; (“Caisse d’épargne de l’Ontario”)
+
 “term deposit” means a deposit that bears interest at a fixed rate and has a fixed term, and includes interest that has accrued and has not been paid; (“dépôt à terme”)
+
 “transferee” means a person with whom the Minister has entered into an agreement for the transfer of any or all deposits maintained at the Province of Ontario Savings Office and includes an assignee of the transferee’s rights and obligations under the agreement if the Minister approves the assignment to the assignee. (“destinataire du transfert”)
 
 ### Transfer of deposit
 
 2 (1) The Minister may,
+
 (a) enter into one or more agreements for the transfer and payment of one or more deposits maintained at the Province of Ontario Savings Office and recorded in the books and records of the Province of Ontario Savings Office at the time of the transfer, on such terms and conditions and with such transferees as the Minister may determine; and
+
 (b) pay from the Consolidated Revenue Fund to each transferee with whom the Minister has entered into an agreement described in clause (a) such amount or amounts of money as the Minister considers necessary or appropriate to transfer the deposits to the transferee in accordance with the terms and conditions of the agreement.
 
 ### No consent required
@@ -73,24 +87,35 @@ S.O. 2002, c. 8, Sched. H
 ### Demand deposits
 
 5 The following rules apply if the Minister transfers a demand deposit maintained at the Province of Ontario Savings Office to a transferee pursuant to an agreement authorized by section 2:
+
 1. The Crown shall cease to be liable in respect of the demand deposit as of the end of the day on which the transfer takes place.
+
 2. The transferee shall become liable for the demand deposit as of the end of the day on which the transfer takes place and the demand deposit shall be deemed to be deposited with the transferee as of that time.
+
 3. The transferee may rely on the signing authority and account authorizations relating to the transferred demand deposit, as if they had been provided directly to the transferee, until such time as the depositor and the transferee agree otherwise.
 
 ### Term deposits
 
 6 (1) The following rules apply if the Minister transfers a term deposit maintained at the Province of Ontario Savings Office to a transferee pursuant to an agreement authorized by section 2:
+
 1. Subject to its obligations as a guarantor under section 8, the Crown shall cease to be liable in respect of the term deposit as of the end of the day on which the transfer takes place.
+
 2. The transferee shall become liable for the term deposit as of the end of the day on which the transfer takes place and the term deposit shall be deemed to be deposited with the transferee as of that time.
+
 3. The terms and conditions and maturity date of the term deposit shall not change as a result of the transfer.
+
 4. The transferee may rely on the signing authority and account authorizations relating to the term deposit as if they had been provided directly to the transferee, until such time as the depositor and the transferee agree otherwise.
+
 5. The transferee shall not exercise any right of set-off or combination with respect to the proceeds of the term deposit at any time before the 31st day after the maturity date or the date of termination of the term deposit.
 
 ### Exception
 
 (2) Paragraph 5 of subsection (1) does not apply to a term deposit if,
+
 (a) the depositor agrees in writing that the transferee may exercise a right of set-off or combination with respect to the proceeds of the term deposit;
+
 (b) the right of set-off or combination is with respect to a claim that arises after the day the term deposit is transferred to the transferee; or
+
 (c) the principal amount of the term deposit is increased after the term deposit is transferred and the right of set-off or combination relates only to the amount of the increase.
 
 ### Instructions on maturity
@@ -104,10 +129,15 @@ S.O. 2002, c. 8, Sched. H
 ### Home ownership savings plans
 
 7 (1) The following applies if the Minister transfers a deposit that constitutes the assets of a home ownership savings plan maintained at a Province of Ontario Savings Office to a transferee pursuant to an agreement authorized by section 2:
+
 1. The assets comprising the home ownership savings plan shall be transferred directly to the transferee as of the end of the day on which the transfer of the home ownership savings plan takes place and the assets shall include all interest accrued to the end of that day.
+
 2. The transfer of assets described in paragraph 1 shall be deemed to be on behalf of and at the direction of the planholder.
+
 3. The transferee shall be deemed to be a replacement depositary within the meaning of the Ontario Home Ownership Savings Plan Act, with the consequences stipulated in section 8 of that Act, as of the end of the day on which the transfer of the assets of the home ownership savings plan takes place.
+
 4. The Crown shall cease to be liable in respect of the home ownership savings plan as of the end of the day on which the transfer takes place.
+
 5. The transferee may rely on the signing authority and account authorizations relating to the home ownership savings plan, as if they had been provided directly to the transferee, until such time as the planholder and the transferee agree otherwise.
 
 ### No consent required
@@ -117,32 +147,47 @@ S.O. 2002, c. 8, Sched. H
 ### Definition
 
 (3) In this section,
+
 “planholder” means, in respect of a home ownership savings plan, the planholder of the home ownership savings plan under the Ontario Home Ownership Savings Plan Act.
 
 ### Provincial guarantee of term deposits
 
 8 (1) Subject to subsection (3), if a term deposit maintained at the Province of Ontario Savings Office is transferred to a transferee pursuant to an agreement authorized by section 2 and in accordance with the rules in section 6, the Minister, on behalf of the Crown, shall guarantee to the depositor of the term deposit the payment by the transferee, on the earlier of the maturity date or termination date of the term deposit, of an amount equal to the sum of,
+
 (a) the lesser of,
+
 (i) the principal amount of the term deposit that was outstanding as of the end of the day on which the term deposit was transferred, and
+
 (ii) the principal amount of the term deposit that was outstanding as of the end of the day on which the depositor makes a claim under the guarantee; and
+
 (b) all interest on the amount referred to in clause (a) that is accrued and not paid to the end of the day on which the depositor makes the claim under the guarantee, calculated at the rate of interest applicable on the date of the transfer or the rate applicable on the date the claim is made, whichever is lower.
 
 ### Prerequisites for payment
 
 (2) Despite subsection (1), no claim under the guarantee shall be paid unless,
+
 (a) the depositor has demanded payment from the transferee;
+
 (b) before the depositor makes a claim under the guarantee, the demand referred to in clause (a) remains unpaid for 10 business days after the day the demand is made;
+
 (c) the depositor has not received payment at the time the claim under the guarantee is paid;
+
 (d) the maturity date of the term deposit has not been extended; and
+
 (e) the depositor satisfies the Minister that the claim is valid.
 
 ### Winding-up, etc., of transferee
 
 (3) Despite subsection (1), if a transferee is ordered to be wound-up under the Winding-up and Restructuring Act (Canada) or is adjudged bankrupt under the Bankruptcy and Insolvency Act (Canada), the amount guaranteed under this section to the depositor of the term deposit transferred to the transferee is the sum of,
+
 (a) the lesser of,
+
 (i) the principal amount of the term deposit that was outstanding as of the end of the day on which the term deposit was transferred, and
+
 (ii) the principal amount of the term deposit that was outstanding as of the date on which the transferee is ordered to be wound-up or is adjudged bankrupt;
+
 (b) all interest on the amount referred to in clause (a) that is accrued and unpaid to the end of the day on which the depositor makes a claim under the guarantee, calculated at the rate of interest applicable on the date of the transfer or the rate applicable on the date the claim is made, whichever is lower; and
+
 (c) the amount, if any, determined under the prescribed rules in respect of loss of future interest on the term deposit.
 
 ### Payment reduced for deposit insurance
@@ -176,9 +221,13 @@ S.O. 2002, c. 8, Sched. H
 ### Unclaimed contents of safety deposit boxes
 
 (4) The following rules apply if, before this section comes into force, the rental of a safety deposit box at the Province of Ontario Savings Office was terminated for non-payment of the rental fee:
+
 1. If the contents of the safety deposit box were removed by the Crown more than five years before this section came into force, the Ontario Financing Authority may, without further notice to the lessee of the safety deposit box, dispose of the contents as it sees fit, including by destruction, sale at auction or by private sale, and shall remit the proceeds, if any, to the Consolidated Revenue Fund.
+
 2. If the contents of the safety deposit box were removed by the Crown not more than five years before this section came into force,
+
 i. the Ontario Financing Authority shall send a notice by ordinary mail to the last address of the lessee of the safety deposit box in the books and records, specifying that the contents of the safety deposit box will be disposed of if the lessee fails to pay all outstanding safety deposit box rental fees and related charges and expenses on or before the 30th day after the date specified in the notice, and
+
 ii. the Ontario Financing Authority may dispose of the contents as it sees fit, including by destruction, sale at auction or by private sale, and shall remit the proceeds, if any, to the Consolidated Revenue Fund, if the lessee of the safety deposit box fails to pay the outstanding safety deposit box rental fees and related charges and expenses on or before the 30th day after the date specified in the notice.
 
 ### Crown not liable
@@ -188,17 +237,25 @@ ii. the Ontario Financing Authority may dispose of the contents as it sees fit, 
 ### No action against the Crown, etc.
 
 (6) No action or proceedings for damages or otherwise shall be commenced against the Crown, the Minister of Finance, the Ontario Financing Authority or any director, officer, employee or agent of the Crown or the Ontario Financing Authority in respect of,
+
 (a) a transfer or assignment referred to in subsection (1); or
+
 (b) a disposition of the contents of a safety deposit box under subsection (4) or the remittance of any contents, or the proceeds of disposition of any contents, of a safety deposit box to the Consolidated Revenue Fund.
+
 10 Repealed: 2017, c. 2, Sched. 3, s. 9.
 
 ### Credit unions
 
 11 (1) Despite any provision of the Credit Unions and Caisses Populaires Act, 2020, a transferee incorporated under that Act may, for the purposes of a transfer or other agreement under this Act,
+
 (a) administer, on behalf of the Crown, some or all of the deposits maintained at the Province of Ontario Savings Office;
+
 (b) receive and maintain deposits from depositors whose deposits were transferred to the transferee pursuant to this Act, whether or not the depositors are members of the credit union, so long as they remain depositors continuously;
+
 (c) assume from the Crown some or all of the liability to repay deposits;
+
 (d) promote merchandise and services to depositors of deposits transferred pursuant to this Act in the same manner as it may promote merchandise and services to its members; and
+
 (e) act as a depositary for the purposes of the Ontario Home Ownership Savings Plan Act with respect to home ownership savings plans transferred to it by the Minister pursuant to this Act.
 
 ### Deemed depositors of the credit union
@@ -232,14 +289,19 @@ ii. the Ontario Financing Authority may dispose of the contents as it sees fit, 
 ### Freedom of Information and Protection of Privacy Act not applicable
 
 (4) The Freedom of Information and Protection of Privacy Act and the regulations under that Act shall not apply,
+
 (a) to the books and records transferred under this section, after the books and records are transferred;
+
 (b) to books and records created by a transferee or by a person pursuant to an agreement entered into with the Minister under subsection 2 (4), after the day the agreement takes effect; or
+
 (c) to the contents of safety deposit boxes that are transferred to a transferee under section 9, after the transfer, or to the disposal of the contents of safety deposit boxes referred to in that section that are removed by the Crown.
 
 ### Conflict
 
 14 The provisions of this Act prevail over,
+
 (a) provisions of another Act or a regulation, unless the other Act specifically states that it prevails over the provisions of this Act; and
+
 (b) a provision in an agreement, whether the agreement was entered into before or after this section comes into force.
 
 ### Deemed interest rate
@@ -253,14 +315,25 @@ ii. the Ontario Financing Authority may dispose of the contents as it sees fit, 
 ### Regulations
 
 17 The Lieutenant Governor in Council may make regulations,
+
 (a) defining any word or expression used in this Act but not defined in this Act;
+
 (b) prescribing Acts or regulations that do not apply to a transfer or agreement under this Act;
+
 (c) governing the process for determining which deposits with the Province of Ontario Savings Office are unclaimed deposits and governing the administration, payment or disposition of them;
+
 (d) prescribing any matter which may be prescribed under this Act;
+
 (e) governing the transfer of assets, liabilities, rights and obligations under this Act;
+
 (f) governing the payment of deposits that are not transferred under an agreement authorized by section 2;
+
 (g) governing the administration and adjudication of claims made against the Crown under the guarantee provided in section 8;
+
 (h) prescribing the rules for determining an amount in respect of loss of future interest on a term deposit for the purposes of clause 8 (3) (c);
+
 (i) respecting any matter that the Lieutenant Governor in Council considers necessary or advisable to carry out the intent of this Act.
+
 18 Omitted (provides for coming into force of provisions of this Act).
+
 19 Omitted (enacts short title of this Act).

@@ -6,32 +6,46 @@ language: en
 type: act
 document_date: "2005-03-09"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02d14"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Declarations of Death Act, 2002
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/02d14) before relying on it.
 
 S.O. 2002, c. 14, Sched.
 
 ### Definitions
 
 1 In this Act,
+
 “interested person” means any person who is or would be affected by an order declaring that an individual is dead, including,
+
 (a) a person named as executor or estate trustee in the individual’s will,
+
 (b) a person who may be entitled to apply to be appointed administrator of the individual’s estate on intestacy,
+
 (c) the individual’s spouse,
+
 (d) the individual’s next of kin,
+
 (e) the individual’s guardian or attorney for personal care or property under the Substitute Decisions Act, 1992,
+
 (f) a person who is in possession of property owned by the individual,
+
 (g) if there is a contract of life insurance or group insurance insuring the individual’s life,
+
 (i) the insurer, and
+
 (ii) any potential claimant under the contract, and
+
 (h) if the individual has been declared an absentee under the Absentees Act, the committee of his or her estate; (“personne intéressée”)
+
 “spouse” means,
+
 (a) a spouse as defined in section 1 of the Family Law Act, or
+
 (b) either of two persons who live together in a conjugal relationship outside marriage. (“conjoint”)
 
 ### Order re declaration of death
@@ -41,7 +55,9 @@ S.O. 2002, c. 14, Sched.
 ### Notice
 
 (2) Notice under subsection (1),
+
 (a) if given by or to an insurer, shall be given at least 30 days before the application to court is made;
+
 (b) if not given by or to an insurer, shall be given as provided by the rules of court.
 
 ### Power of court
@@ -51,25 +67,37 @@ S.O. 2002, c. 14, Sched.
 ### Disappearance in circumstances of peril
 
 (4) This subsection applies if,
+
 (a) the individual has disappeared in circumstances of peril;
+
 (b) the applicant has not heard of or from the individual since the disappearance;
+
 (c) to the applicant’s knowledge, after making reasonable inquiries, no other person has heard of or from the individual since the disappearance;
+
 (d) the applicant has no reason to believe that the individual is alive; and
+
 (e) there is sufficient evidence to find that the individual is dead.
 
 ### Seven-year absence
 
 (5) This subsection applies if,
+
 (a) the individual has been absent for at least seven years;
+
 (b) the applicant has not heard of or from the individual during the seven-year period;
+
 (c) to the applicant’s knowledge, after making reasonable inquiries, no other person has heard of or from the individual during the seven-year period;
+
 (d) the applicant has no reason to believe that the individual is alive; and
+
 (e) there is sufficient evidence to find that the individual is dead.
 
 ### Scope of order
 
 (6) The declaration of death applies for all purposes unless the court,
+
 (a) determines that it should apply only for certain purposes; and
+
 (b) specifies those purposes in the order.
 
 ### Same
@@ -79,7 +107,9 @@ S.O. 2002, c. 14, Sched.
 ### Date of death
 
 (8) The order shall state the date of death, which shall be,
+
 (a) the date upon which the evidence suggests the person died, if subsection (4) applies; or
+
 (b) the date of the application, if subsection (5) applies.
 
 ### Same
@@ -113,7 +143,9 @@ S.O. 2002, c. 14, Sched.
 ### Notice
 
 (5) Notice under subsection (1), (2) or (3),
+
 (a) if given by or to an insurer, shall be given at least 30 days before the motion is made;
+
 (b) if not given by or to an insurer, shall be given as provided by the rules of court.
 
 ### Power of court
@@ -159,8 +191,11 @@ S.O. 2002, c. 14, Sched.
 ### Undistributed property
 
 (7) Property that has not been distributed when the individual is discovered to be alive,
+
 (a) remains the individual’s property;
+
 (b) is held in trust under the Trustee Act; and
+
 (c) shall be returned as the court directs.
 
 ### Payment, distribution under order discharges duty
@@ -170,6 +205,9 @@ S.O. 2002, c. 14, Sched.
 ### Appeals
 
 8 Any interested person may appeal an order made under this Act to the Divisional Court.
+
 9-12 Omitted (amends or repeals other Acts).
+
 13 Omitted (provides for coming into force of provisions of this Act).
+
 14 Omitted (enacts short title of this Act).

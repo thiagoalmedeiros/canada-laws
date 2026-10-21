@@ -6,24 +6,30 @@ language: fr
 type: act
 document_date: "2021-06-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97m06"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # transfert des installations d'eau et d'égout aux municipalités (Loi de 1997 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97m06) before relying on it.
 
 L.O. 1997, chap. 6, annexe A
 
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «Agence» L’Agence ontarienne des eaux créée aux termes de la Loi de 1993 sur le plan d’investissement. («OCWA»)
+
 «arrêté de transfert» Arrêté pris en vertu de l’article 2. («transfer order»)
+
 «ministre» Le ministre de l’Environnement. («Minister»)
+
 «municipalité» S’entend au sens de la Loi sur les ressources en eau de l’Ontario. («municipality»)
+
 «station d’épuration des eaux d’égout» S’entend au sens de la Loi sur les ressources en eau de l’Ontario. («sewage works»)
+
 «station de purification de l’eau» S’entend au sens de la Loi sur les ressources en eau de l’Ontario. («water works») 1997, chap. 6, annexe A, par. 1 (1)
 
 ### Interprétation - prédécesseurs de l’Agence
@@ -37,14 +43,19 @@ L.O. 1997, chap. 6, annexe A
 ### Champ d’application
 
 (2) Le paragraphe (1) ne s’applique qu’aux stations de purification de l’eau ou d’épuration des eaux d’égout qui, selon le cas :
+
 a) appartenaient à l’Agence immédiatement avant l’entrée en vigueur du présent article;
+
 b) ont été construites aux termes d’accords conclus avant l’entrée en vigueur du présent article.
 
 ### Portée de l’arrêté
 
 (3) L’arrêté pris en vertu du paragraphe (1) peut :
+
 a) s’appliquer à une ou plusieurs stations de purification de l’eau ou d’épuration des eaux d’égout;
+
 b) s’appliquer à tout ou partie d’une station de purification de l’eau ou d’épuration des eaux d’égout;
+
 c) transférer la propriété à une ou plusieurs municipalités.
 
 ### Autres éléments d’actif
@@ -54,8 +65,11 @@ c) transférer la propriété à une ou plusieurs municipalités.
 ### Exception
 
 (5) Le paragraphe (4) n’autorise pas le transfert de ce qui suit :
+
 a) une obligation découlant de l’exploitation, le 15 novembre 1993 ou après cette date, de la station de purification de l’eau ou d’épuration des eaux d’égout;
+
 b) une obligation qui a pris naissance avant la date d’effet de l’arrêté de transfert, si une action visant cette obligation a été introduite avant cette date;
+
 c) une obligation à l’égard de laquelle l’Agence effectue une retenue ou détient une somme en fiducie aux termes de la Loi sur le privilège dans l’industrie de la construction.
 
 ### Arrêté de transfert relatif à des biens-fonds
@@ -69,7 +83,9 @@ c) une obligation à l’égard de laquelle l’Agence effectue une retenue ou d
 ### Propriété des stations
 
 (8) Pour l’application du présent article, une station de purification de l’eau ou d’épuration des eaux d’égout est réputée appartenir à l’Agence si, selon le cas :
+
 a) l’Agence ou un de ses prédécesseurs en est le propriétaire bénéficiaire ou le propriétaire en common law;
+
 b) un prédécesseur de l’Agence en était le propriétaire bénéficiaire ou le propriétaire en common law à un moment donné, à moins qu’une autre personne n’en soit le propriétaire bénéficiaire et le propriétaire en common law.
 
 ### Propriété des biens-fonds
@@ -159,13 +175,17 @@ b) un prédécesseur de l’Agence en était le propriétaire bénéficiaire ou 
 ### Deux municipalités ou plus
 
 (4) Si la propriété de la station est transférée à deux municipalités ou plus, l’arrêté de transfert peut prévoir ce qui suit :
+
 a) tous les paiements auxquels l’Agence a droit aux termes du paragraphe (1) sont faits par une des municipalités auxquelles la propriété de la station est transférée ou par un conseil mixte créé conformément à l’arrêté;
+
 b) toute municipalité qui aurait été tenue par ailleurs de faire des paiements à l’Agence aux termes du paragraphe (1) les fait à la place à la municipalité ou au conseil mixte qui est tenu de faire des paiements à l’Agence aux termes de l’alinéa a).
 
 ### Accords de prestation de services à d’autres personnes
 
 9 (1) S’il est pris un arrêté de transfert qui a pour effet de transférer à une municipalité la propriété d’une station de purification de l’eau ou d’épuration des eaux d’égout et qu’un accord conclu avant la prise d’effet du transfert exige que l’Agence ou un de ses prédécesseurs fournisse des services d’eau ou d’égout à une personne autre que la municipalité par l’entremise de cette station, l’arrêté :
+
 a) peut exiger que la municipalité, une autre municipalité ou un conseil mixte qui gère la station fournisse les services;
+
 b) peut contenir des dispositions régissant le paiement des services.
 
 ### Perception des paiements
@@ -211,8 +231,13 @@ b) peut contenir des dispositions régissant le paiement des services.
 ### Incompatibilité
 
 15 En cas d’incompatibilité, la présente loi l’emporte sur ce qui suit :
+
 a) toute disposition de la Loi de 1993 sur le plan d’investissement ou de la Loi sur les ressources en eau de l’Ontario ;
+
 b) toute disposition de la Loi de 2001 sur les municipalités ou de la Loi de 2006 sur la cité de Toronto qui a trait à un service public d’approvisionnement en eau ou de collecte des eaux d’égout;
+
 c) un accord conclu en vertu de la Loi sur les ressources en eau de l’Ontario.
+
 16 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 17 Omis (édicte le titre abrégé de la présente loi).

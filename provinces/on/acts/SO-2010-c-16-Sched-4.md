@@ -6,20 +6,22 @@ language: en
 type: act
 document_date: "2023-06-08"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10c16b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Creditors' Relief Act, 2010
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10c16b) before relying on it.
 
 S.O. 2010, c. 16 , Sched. 4
 
 ### Definitions
 
 1 (1) In this Act,
+
 “county” means a county or district described in section 151 of the Courts of Justice Act; (“comté”)
+
 “judge” means, in respect of a county in which a sheriff carries out duties under this Act, a judge of the Superior Court of Justice who sits in that county. (“juge”)
 
 ### Application of Execution Act definitions
@@ -33,13 +35,17 @@ S.O. 2010, c. 16 , Sched. 4
 ### Exception, Small Claims Court
 
 (2) Subsection (1) does not affect the priority of,
+
 (a) a creditor by garnishment issued under the Small Claims Court Rules made under the Courts of Justice Act; or
+
 (b) a creditor by writ of seizure and sale of personal property issued under the Small Claims Court Rules made under the Courts of Justice Act.
 
 ### Exception, support or maintenance orders
 
 (3) A support or maintenance order has the following priority over other judgment debts, other than debts owing to the Crown in right of Canada, regardless of when an enforcement process is issued or served:
+
 1. If the maintenance or support order requires periodic payments, the order has priority to the extent of all arrears owing under the order at the time of seizure or attachment.
+
 2. If the support or maintenance order requires the payment of a lump sum, the order has priority to the extent of any portion of the lump sum that has not been paid.
 
 ### Support orders rank equally
@@ -49,8 +55,11 @@ S.O. 2010, c. 16 , Sched. 4
 ### Priority if execution creditors include the Crown
 
 (5) If there are no support or maintenance orders against a debtor and the Crown is an execution creditor, the priority among the execution creditors and creditors by garnishment is in the following order:
+
 1. The Crown in Right of Canada, with respect to writs of execution filed on its behalf, with all such writs ranking equally with one another.
+
 2. The Crown in right of Ontario with respect to writs of execution filed on its behalf, with all such writs ranking equally with one another.
+
 3. All other creditors by execution or garnishment.
 
 ### If federal Crown waives priority
@@ -94,14 +103,19 @@ S.O. 2010, c. 16 , Sched. 4
 ### Right of creditors to share
 
 (2) Subject to subsections (4) and (5) and any claims having priority under section 2, the money received shall be shared proportionately among,
+
 (a) all execution creditors whose executions were filed with the sheriff at the time the sheriff received the money or who filed an execution with the sheriff within a one-month period after the date the sheriff received the money; and
+
 (b) the garnishment creditor, if any of the money was received by reason of garnishment proceedings, but the garnishment creditor may share only to the extent of the amount received by reason of the garnishment proceedings unless the garnishment creditor is also an execution creditor referred to in clause (a).
 
 ### If sheriff receives additional money under same execution
 
 (3) The following rules apply if the sheriff receives additional money from the debtor’s property or receives additional money in respect of a debt of the debtor that has been attached or sold under the same execution from which money was originally received and recorded under subsection (1):
+
 1. If the money is received within the one-month period described in subsection (2), the sheriff shall promptly record the amount and the date the money is received and shall link that information to the record of the money originally received.
+
 2. The additional money referred to in paragraph 1 shall be distributed under subsection (2) with the money originally received.
+
 3. If the additional amount is received after the end of the one-month period described in subsection (2), the receipt of the additional money is considered to be unrelated to the original receipt of money and is dealt with under subsections (1) and (2) as if it were a new and unrelated receipt of money.
 
 ### When two-month period applies
@@ -111,8 +125,11 @@ S.O. 2010, c. 16 , Sched. 4
 ### Limit on amount to be distributed
 
 (5) The amount to be distributed to creditors described in clauses (2) (a) and (b) is subject to the following:
+
 1. The retention of any amount under section 11 by reason of an objection to the proposed scheme of distribution under that section.
+
 2. The payment of the costs of the creditor under whose execution an amount for distribution was received.
+
 3. The payment to a creditor of the costs of garnishment proceedings if an amount for distribution was received through garnishment proceedings.
 
 ### Right to share in subsequent distribution
@@ -134,13 +151,17 @@ S.O. 2010, c. 16 , Sched. 4
 ### Rights of creditors in case of interpleader proceedings
 
 5 (1) The following rules apply if proceedings are taken by an interested party for relief relating to interpleader:
+
 1. Only those execution creditors who are parties to the proceedings and who agree to contribute proportionately to the expense of contesting any adverse claim, according to the amount of their executions, are entitled to share in any benefit that may be derived from contesting the claim.
+
 2. The execution creditors referred to in paragraph 1 may share in any benefit that may be derived from contesting the claim only to the extent necessary to satisfy their executions.
 
 ### Order as to carriage of proceedings
 
 (2) The judge making the interpleader order may direct,
+
 (a) that one execution creditor have carriage of the interpleader proceedings on behalf of all interested creditors; and
+
 (b) that the costs of the proceedings be as between lawyer and client and be a first charge on the money or personal property that may be found to be applicable on the executions.
 
 ### Discretion to allow filing of executions
@@ -150,18 +171,27 @@ S.O. 2010, c. 16 , Sched. 4
 ### Effect of payment or withdrawal
 
 6 (1) Section 4, other than subsection 4 (1), does not apply if,
+
 (a) without a sale by the sheriff, a debtor pays,
+
 (i) the full amount owing in respect of all executions then filed with the sheriff, including costs, or
+
 (ii) part of the amount owing in respect of an execution and no other executions have been filed with the sheriff;
+
 (b) the money received is by reason of garnishment and is,
+
 (i) sufficient to pay the full amount of the debt in respect of which the garnishment was issued and all executions then filed with the sheriff, including costs, or
+
 (ii) part of the debt in respect of which the garnishment was issued and no executions have been filed with the sheriff; or
+
 (c) all executions filed with the sheriff are withdrawn.
 
 ### Sheriff may apply the money
 
 (2) In a situation described in clause (1) (a) or (b), the sheriff shall apply the money to satisfy,
+
 (a) the executions or the part of the execution, as the case may be, in the situation described in clause (1) (a); or
+
 (b) the debt and the executions or the part of the debt, as the case may be, in the situation described in clause (1) (b).
 
 ### Priority for costs of proceedings under Absconding Debtors Act
@@ -169,8 +199,11 @@ S.O. 2010, c. 16 , Sched. 4
 ### Application
 
 7 (1) This section applies if,
+
 (a) proceedings have been taken against a debtor under the Absconding Debtors Act;
+
 (b) the debtor’s property has been attached under an order of attachment before any executions have been filed with the sheriff; and
+
 (c) the money received by the sheriff is all or part of the proceeds from the property.
 
 ### Priority for costs
@@ -182,7 +215,9 @@ S.O. 2010, c. 16 , Sched. 4
 ### Application
 
 8 (1) This section applies if,
+
 (a) an amount has been paid into court that belongs to an execution debtor or to which the execution debtor is entitled; and
+
 (b) one or more executions have been filed with the sheriff.
 
 ### Payment to the sheriff
@@ -206,14 +241,19 @@ S.O. 2010, c. 16 , Sched. 4
 ### Application
 
 10 (1) This section applies if,
+
 (a) the sheriff does not find property of an execution debtor that is sufficient to satisfy all amounts in respect of executions filed with the sheriff; and
+
 (b) the sheriff is advised that the bailiff of the Small Claims Court holds personal property of the debtor or proceeds from personal property of the debtor under an execution or attachment against the debtor.
 
 ### Demand and delivery
 
 (2) At the request of an execution creditor, the sheriff shall demand the property or proceeds from the bailiff and the bailiff shall promptly deliver to the sheriff,
+
 (a) the property or proceeds;
+
 (b) a copy of every execution and attachment against the debtor that has been filed with the bailiff; and
+
 (c) a memorandum showing the amount to be paid under each execution, including the bailiff’s fees, and the date when each execution and attachment was filed with the bailiff.
 
 ### Priority, bailiff’s costs
@@ -229,15 +269,21 @@ S.O. 2010, c. 16 , Sched. 4
 ### Allocation
 
 11 (1) If the sheriff does not find money or property of an execution debtor that is sufficient to satisfy all amounts in respect of executions filed with the sheriff, the sheriff shall,
+
 (a) allocate an amount equal to the full taxed costs and the costs of the execution to the creditor at whose instance and under whose execution the seizure was made, if the creditor is entitled to priority for those costs under this Act; and
+
 (b) allocate the balance then remaining rateably among the creditors after taking into consideration any claims having priority under section 2.
 
 ### Schedule of proposed distribution
 
 (2) The sheriff shall prepare a schedule setting out,
+
 (a) the names of the creditors entitled to share in the distribution;
+
 (b) the amount due to each of the creditors for principal, interest and costs;
+
 (c) the total amount available for distribution to the creditors; and
+
 (d) opposite the name of each creditor, the amount the sheriff proposes to pay to that creditor on the distribution.
 
 ### Service
@@ -259,8 +305,11 @@ S.O. 2010, c. 16 , Sched. 4
 ### Partial distribution pending resolution of objection
 
 (7) If the sheriff receives an objection, the sheriff shall,
+
 (a) determine the portion of the money that would not be affected if the objection were successful;
+
 (b) distribute rateably among the creditors the amount determined under clause (a), after paying any claims having priority under section 2; and
+
 (c) retain the balance of the money pending the resolution of the objection.
 
 ### Direction by judge to seize additional money
@@ -276,7 +325,9 @@ S.O. 2010, c. 16 , Sched. 4
 ### Application to judge
 
 12 (1) Not more than eight days after filing an objection, the objector shall,
+
 (a) apply to the judge for an order resolving the matter in dispute; and
+
 (b) obtain from the court an appointment for a hearing on the matter.
 
 ### Objection deemed abandoned if fail to meet time limit
@@ -286,7 +337,9 @@ S.O. 2010, c. 16 , Sched. 4
 ### Service of appointment and notice
 
 (3) The objector shall serve a copy of the appointment and a notice in writing, in a form approved by the Attorney General, that sets out his or her objection and the facts and reasons on which the objector intends to rely, on,
+
 (a) the debtor, unless the debtor is the objector; and
+
 (b) on each creditor or his or her lawyer, or on such of them as the judge may direct.
 
 ### Application deemed abandoned
@@ -300,7 +353,9 @@ S.O. 2010, c. 16 , Sched. 4
 ### Directions by judge to avoid unnecessary parties and trials
 
 (6) If several creditors are interested in an objection, either for or against, the judge shall,
+
 (a) give such directions as he or she considers just to save the expense of an unnecessary number of parties and trials, and of unnecessary procedures; and
+
 (b) direct by whom and in what proportions any costs incurred in the application or in any related proceeding shall be paid and what if any costs are to be paid out of the money retained by the sheriff pending the disposition of the objection.
 
 ### If objection not upheld or partially upheld
@@ -320,17 +375,25 @@ S.O. 2010, c. 16 , Sched. 4
 ### Application
 
 14 (1) This section applies if,
+
 (a) one or more executions are filed with the sheriff; and
+
 (b) after at least one execution is filed with the sheriff, the debtor executes a mortgage or other charge that is otherwise valid on all or part of his or her property.
 
 ### Distribution
 
 (2) The following rules apply:
+
 1. The sheriff may sell the encumbered property under an execution filed before the mortgage or charge was given, as if the mortgage or charge had not been given.
+
 2. The sheriff shall prepare a scheme of distribution of the proceeds of sale of the encumbered property that proposes the distribution of the amount of the proceeds, before taking into consideration the amount owing under the mortgage or charge,
+
 i. firstly among any creditors who have priority under section 2, and
+
 ii. secondly among those creditors whose executions were filed with the sheriff before the mortgage or charge was given.
+
 3. To the extent the proceeds of sale exceed the total amount plus costs that would be distributed as described in paragraph 2, the scheme of distribution must provide for the distribution to the encumbrancer of the amount owing under the mortgage or charge, or all of the remaining amount if it does not exceed the amount owing.
+
 4. If proceeds would still remain after the payments proposed under paragraphs 2 and 3, the sheriff shall prepare a separate scheme of distribution of the balance among the creditors who filed executions with the sheriff after the mortgage or charge was given.
 
 ### Right to object
@@ -364,9 +427,15 @@ ii. secondly among those creditors whose executions were filed with the sheriff 
 ### Transitional, certificate of proof of claim
 
 21 The following rules apply with respect to a certificate issued to a claimant under subsection 9 (1) of the Creditors Relief Act that is still in force on the day that Act is repealed:
+
 1. The certificate continues to remain in force for three years from the date of the certificate and may from time to time be renewed in the same manner as an execution.
+
 2. On delivery of the certificate to the sheriff either before or after this Act comes into force, the claimant is deemed to be an execution creditor for the purposes of this Act whose execution is deemed to have been filed with the sheriff on the day the certificate is delivered to the sheriff, subject to the debt to which the certificate relates being disputed subsequently by another creditor under proceedings referred to in section 5.
+
 3. For the purpose of interpleader proceedings, the certificate is deemed to be an execution.
+
 22.-29 Omitted (amends, repeals or revokes other legislation).
+
 30 Omitted (provides for coming into force of provisions of this Act).
+
 31 Omitted (enacts short title of this Act).

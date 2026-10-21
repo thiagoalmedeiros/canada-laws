@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2021-12-02"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10w19"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Water Opportunities Act, 2010
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10w19) before relying on it.
 
 S.O. 2010, c. 19, Sched. 1
 
@@ -21,8 +21,11 @@ S.O. 2010, c. 19, Sched. 1
 ### Purposes
 
 1 (1) The purposes of this Act are,
+
 (a) to foster innovative water, wastewater and stormwater technologies, services and practices in the private and public sectors;
+
 (b) to create opportunities for economic development and clean-technology jobs in Ontario; and
+
 (c) to conserve and sustain water resources for present and future generations.
 
 ### Same
@@ -44,8 +47,11 @@ S.O. 2010, c. 19, Sched. 1
 ### Part II (s. 3-23) Repealed:
 
 3-12 Repealed: 2021, c. 34, Sched. 25, s. 1.
+
 13 Repealed: 2021, c. 34, Sched. 25, s. 1.
+
 14-22 Repealed: 2021, c. 34, Sched. 25, s. 1.
+
 23 Repealed: 2021, c. 34, Sched. 25, s. 1.
 
 ## Part III Municipal water sustainability plans and Performance Indicators and Targets
@@ -53,23 +59,33 @@ S.O. 2010, c. 19, Sched. 1
 ### Definitions
 
 24 In this Part,
+
 “Minister” means the Minister of the Environment or any other member of the Executive Council to whom responsibility for the administration of this Part is assigned or transferred under the Executive Council Act; (“ministre”)
+
 “municipal service” means, subject to the regulations, municipal water services, municipal wastewater services or municipal stormwater services; (“service municipal”)
+
 “municipal service provider” means a municipality, person or entity having jurisdiction over one or more municipal services; (“fournisseur de services municipaux”)
+
 “plan” means a municipal water sustainability plan required under section 25; (“plan”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means the regulations made under this Part. (“règlements”)
 
 ### Municipal water sustainability plan
 
 25 (1) On becoming a regulated entity under the regulations, a municipal service provider shall, in accordance with such requirements as may be prescribed, prepare, approve and submit to the Minister a municipal water sustainability plan for all municipal services,
+
 (a) that are under the municipal service provider’s jurisdiction; and
+
 (b) to which, under the regulations, the regulated entity’s initial plan is to apply.
 
 ### Amendments to plans
 
 (2) A regulated entity shall, in accordance with such requirements as may be prescribed, amend its plan if the regulations subsequently require the regulated entity’s plan to include,
+
 (a) a municipal service under its jurisdiction that was not previously required to be included in its plan; or
+
 (b) new or different information.
 
 ### Approval and submission of amended plans
@@ -95,14 +111,23 @@ S.O. 2010, c. 19, Sched. 1
 ### Contents of plan
 
 (2) Without limiting the generality of subsection (1), the regulations may require a plan to include any of the following matters, prepared in accordance with such requirements as may be prescribed, with respect to each municipal service to which the plan applies:
+
 1. An asset management plan for the physical infrastructure.
+
 2. A financial plan.
+
 3. If the municipal service is a municipal water service, a water conservation plan.
+
 4. An assessment of risks that may interfere with the future delivery of the municipal service, including, if required by the regulations, the risks posed by climate change and a plan to deal with those risks.
+
 5. Strategies for maintaining and improving the municipal service, including strategies to,
+
 i. ensure the municipal service can satisfy future demand,
+
 ii. consider technologies, services and practices that promote the efficient use of water and reduce negative impacts on Ontario’s water resources, and
+
 iii. increase co-operation with other municipal service providers.
+
 6. Such other information or things as may be prescribed relating to the municipal service.
 
 ### May include additional information
@@ -112,7 +137,9 @@ iii. increase co-operation with other municipal service providers.
 ### Requirement to assist
 
 (4) When, for the purpose of preparing, amending or reviewing a plan, a regulated entity requires information from a municipality, person or entity relating to a municipal service, the municipality, person or entity shall co-operate with the regulated entity and, on request, shall,
+
 (a) provide the regulated entity with a copy of any record or other document in its possession or under its control that relates to matters to be considered in the preparation, amendment or review of the plan; and
+
 (b) assist the regulated entity in obtaining such other information and things as the regulated entity may require to prepare, amend or review the plan.
 
 ### Joint plans
@@ -138,7 +165,9 @@ iii. increase co-operation with other municipal service providers.
 ### Same
 
 (2) Performance indicators established under subsection (1),
+
 (a) may relate to the financing, operation or maintenance of a municipal service or to any other matter in respect of which information may be required to be included in a plan; and
+
 (b) may be different for different municipal service providers or for municipal services in different areas of the Province.
 
 ### Publication
@@ -156,7 +185,9 @@ iii. increase co-operation with other municipal service providers.
 ### Review and evaluation of performance
 
 30 (1) A regulated entity shall, when directed to do so by the Minister, review and evaluate in accordance with the Minister’s directions and such requirements as may be prescribed, the performance of a municipal service under its jurisdiction with reference to the applicable performance indicators and shall,
+
 (a) report the results of its review and evaluation to the Minister in such manner and at such time as the Minister directs and, if a target has been established under section 29, include in the report information on the extent to which the target is being achieved; and
+
 (b) make available, in such manner and at such time as the Minister directs, the results of its review and evaluation to the public in the geographic area in which the regulated entity provides a municipal service.
 
 ### Public disclosure
@@ -166,9 +197,13 @@ iii. increase co-operation with other municipal service providers.
 ### Failure to achieve a target
 
 31 If a regulated entity fails to achieve a target established by the Minister under section 29, the Minister may do one or both of the following:
+
 1. Require the regulated entity to provide such additional information as the Minister specifies relating to the regulated entity’s efforts to achieve the target and the reasons for its failure to do so.
+
 2. Invite the regulated entity to prepare and submit to the Minister a report describing,
+
 i. proposed strategies to be included in the regulated entity’s plan to assist it in achieving the target, or
+
 ii. proposed steps to be taken by the regulated entity to assist it in achieving the target.
 
 ### Legislation Act, 2006
@@ -190,15 +225,25 @@ ii. proposed steps to be taken by the regulated entity to assist it in achieving
 ### Regulations
 
 35 The Lieutenant Governor in Council may make regulations for the purposes of this Part,
+
 (a) prescribing a municipality, person or entity to be a regulated entity and the date on which the municipality, person or entity becomes a regulated entity with respect to one or more municipal services under their jurisdiction;
+
 (b) deeming a water service, wastewater service or stormwater service under the jurisdiction of a regulated entity to be a municipal service;
+
 (c) governing the preparation, approval, submission, amendment and review of plans by regulated entities, including,
+
 (i) governing the content of plans, including the requirements for each part of a plan relating to a type of municipal service,
+
 (ii) requiring that prescribed parts of the plan be certified in the prescribed manner by persons with prescribed qualifications,
+
 (iii) requiring public consultation before a plan, an amendment to a plan or the report of a review under this Part is submitted to the Minister and prescribing the manner for carrying out the public consultation in each case,
+
 (iv) requiring that plans or a class of plans be reviewed within the period prescribed by the regulations and the process to be followed in reviewing the plans;
+
 (d) prescribing circumstances in which a plan, an amendment to a plan or the proposed report of any required review of a plan must be approved by each municipality in which a municipal service is provided to which the plan, amendment or report relates;
+
 (e) prescribing any time periods or time limits for doing anything required to be done under this Part or the regulations;
+
 (f) prescribing anything that this Part describes as being prescribed by the regulations.
 
 ## part IV public sector requirements
@@ -206,8 +251,11 @@ ii. proposed steps to be taken by the regulated entity to assist it in achieving
 ### Definitions
 
 36 In this Part,
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “public agency” means a ministry of the Government of Ontario or an entity, including a municipality, or class of entities that is prescribed as a public agency; (“organisme public”)
+
 “regulations” means the regulations made under this Part. (“règlements”)
 
 ### Water conservation plans
@@ -227,11 +275,17 @@ ii. proposed steps to be taken by the regulated entity to assist it in achieving
 ### Contents, public agencies
 
 (4) For the purposes of subsection (1), the plan must be prepared in accordance with the requirements, as may be prescribed, and must include the following information:
+
 1. A summary of annual water use for each of the public agency’s prescribed operations.
+
 2. A description and a forecast of the expected results of current and proposed activities and measures being taken or proposed to be taken by the public agency to conserve water, including prescribed measures.
+
 3. A summary of the progress and achievements in water conservation since the previous plan, including,
+
 i. progress and achievements relating to targets established by the public agency in the plan, and
+
 ii. progress and achievements relating to targets prescribed under subsection (3).
+
 4. Such additional information as may be prescribed.
 
 ### Publication
@@ -275,9 +329,13 @@ ii. progress and achievements relating to targets prescribed under subsection (3
 ### Definitions
 
 41 (1) In this section,
+
 “municipal water bill” means a bill for,
+
 (a) fees or charges imposed under the Municipal Act, 2001 or the City of Toronto Act, 2006 in respect of a water public utility, or
+
 (b) fees or charges imposed by a corporation established under section 203 of the Municipal Act, 2001 in respect of a water public utility; (“facture municipale d’eau”)
+
 “water public utility” means a public utility as defined in section 1 of the Municipal Act, 2001 that is used to provide water for the public. (“service public d’approvisionnement en eau”)
 
 ### Regulations
@@ -289,11 +347,17 @@ ii. progress and achievements relating to targets prescribed under subsection (3
 ### Triennial reports
 
 42 (1) The Minister of the Environment shall, at least once every three years, prepare a report that,
+
 (a) describes the extent to which each target established under section 2 is being achieved;
+
 (b) Repealed: 2021, c. 34, Sched. 25, s. 2.
+
 (c) summarizes the activities and achievements of the Ontario Clean Water Agency during the reporting period relating to financing and promoting the development, testing, demonstration and commercialization of technologies and services for the treatment and management of water, wastewater and stormwater;
+
 (d) describes actions taken and outcomes achieved during the reporting period by municipalities, persons and entities prescribed as regulated entities for the purposes of Part III in respect of their municipal water, wastewater and stormwater services;
+
 (e) describes actions taken and outcomes achieved during the reporting period by public agencies as defined in Part IV to conserve water and to use technologies, services and practices that promote the efficient use of water and reduce negative impacts on Ontario’s water resources; and
+
 (f) includes any other information that the Minister considers advisable.
 
 ### Report under Safe Drinking Water Act, 2002
@@ -309,7 +373,9 @@ ii. progress and achievements relating to targets prescribed under subsection (3
 ### Regulations
 
 43 The Lieutenant Governor in Council may make regulations,
+
 (a) defining any word or expression used in any Part of this Act that is not defined in that Part;
+
 (b) exempting any person or thing from this Act or any provision of this Act, subject to such conditions as may be prescribed by the regulations.
 
 ### Amendments to adopted documents
@@ -327,4 +393,5 @@ ii. progress and achievements relating to targets prescribed under subsection (3
 ## part IX (omitted)
 
 46 Omitted (provides for coming into force of provisions of this Act).
+
 47 Omitted (enacts short title of this Act).

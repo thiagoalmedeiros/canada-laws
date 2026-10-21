@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2024-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99c14e"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # City of Ottawa Act, 1999
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99c14e) before relying on it.
 
 S.O. 1999, c. 14, Sched. E
 
@@ -21,23 +21,41 @@ S.O. 1999, c. 14, Sched. E
 ### Interpretation
 
 1 (1) In this Act,
+
 “city” means the City of Ottawa incorporated by this Act; (“cité”)
+
 “collective agreement” means,
+
 (a) a collective agreement within the meaning of the Labour Relations Act, 1995,
+
 (b) a collective agreement within the meaning of Part IX of the Fire Protection and Prevention Act, 1997, or
+
 (c) an agreement under Part VIII of the Police Services Act; (“convention collective”)
+
 “local board” means a public utility commission, municipal service board, transportation commission, public library board, board of park management, board of health, police service board or other body established or exercising power under any general or special Act with respect to any of the affairs of an old municipality or of the city, but does not include,
+
 (a) the transition board,
+
 (b) a children’s aid society,
+
 (c) a conservation authority, or
+
 (d) a school board; (“conseil local”)
+
 “merged area” means all of an old municipality that forms part of the city; (“secteur fusionné”)
+
 “Minister” means the Minister of Municipal Affairs and Housing; (“ministre”)
+
 “municipal area” means the area that comprises the geographic area of jurisdiction of The Regional Municipality of Ottawa-Carleton under the Regional Municipality of Ottawa-Carleton Act on December 31, 2000; (“secteur municipal”)
+
 “municipal benefit” includes a direct or indirect benefit which is available immediately after an expenditure of money on a service or activity and a benefit which will be available only after an additional expenditure of money on the service or activity; (“avantage municipal”)
+
 “old municipality” means The Regional Municipality of Ottawa-Carleton and each area municipality under the Regional Municipality of Ottawa-Carleton Act on December 31, 2000; (“ancienne municipalité”)
+
 “passenger transportation system” means a system that provides, for compensation, transportation for passengers or passengers and freight in vehicles operated underground, on the ground or above the ground, but not in taxicabs; (“réseau de transport de passagers”)
+
 “special service” means a service or activity of the city that is not being provided or undertaken generally throughout the city or that is being provided or undertaken at different levels or in a different manner in different parts of the city; (“service spécial”)
+
 “transition board” means the transition board referred to in subsection 19 (1). (“conseil de transition”)
 
 ### Same
@@ -53,6 +71,7 @@ S.O. 1999, c. 14, Sched. E
 ### Status
 
 (2) The body corporate is a city and a local municipality for all purposes.
+
 (3) Repealed: 2002, c. 17, Sched. F, Table.
 
 ### Wards
@@ -70,23 +89,37 @@ S.O. 1999, c. 14, Sched. E
 ### Transition, first council
 
 (3) The following special rules apply to the members of the council elected in the 2000 regular election:
+
 1. Despite section 6 of the Municipal Elections Act, 1996, the members’ terms of office begin on January 1, 2001.
+
 2. Despite subsection 49 (1) of the Municipal Act, the first meeting of the council shall be held on or before January 9, 2001.
 
 ### Dissolution of old municipalities
 
 5 (1) The following municipalities are dissolved on January 1, 2001:
+
 1. The Regional Municipality of Ottawa-Carleton.
+
 2. The City of Cumberland.
+
 3. The City of Gloucester.
+
 4. The Township of Goulbourn.
+
 5. The City of Kanata.
+
 6. The City of Nepean.
+
 7. The Township of Osgoode.
+
 8. The City of Ottawa.
+
 9. The Township of Rideau.
+
 10. The Village of Rockcliffe Park.
+
 11. The City of Vanier.
+
 12. The Township of West Carleton.
 
 ### Rights and duties
@@ -96,7 +129,9 @@ S.O. 1999, c. 14, Sched. E
 ### Same
 
 (3) Without limiting the generality of subsection (2),
+
 (a) the city has every power and duty of an old municipality under any general or special Act, in respect of the part of the municipal area to which the power or duty applied on December 31, 2000; and
+
 (b) all the assets and liabilities of the old municipalities on December 31, 2000, including all rights, interests, approvals, status, registrations, entitlements and contractual benefits and obligations, become assets and liabilities of the city on January 1, 2001, without compensation.
 
 ### Same, debentures
@@ -292,12 +327,15 @@ S.O. 1999, c. 14, Sched. E
 ### Additional functions of the board
 
 (7) In addition to its duties and responsibilities under the Health Protection and Promotion Act, the board shall do the following things at the request of the city:
+
 1. Make recommendations on any issues within the city’s jurisdiction that involve public health considerations.
+
 2. Make an annual report to the city on the board’s operations.
 
 ### Continued effect of approvals, etc.
 
 (8) On the day that the board is established by subsection (1), every approval, by-law and resolution of the city made under the Health Protection and Promotion Act that was in force immediately before that day is deemed to have been made by the board and it remains in force until it expires or is revoked or amended to provide otherwise.
+
 12.1 Repealed: 2002, c. 17, Sched. F, Table.
 
 ### Powers re: supported group living residences
@@ -307,7 +345,9 @@ S.O. 1999, c. 14, Sched. E
 ### Same
 
 (2) Subsection (1) applies to a corporation without share capital having objects of a charitable nature,
+
 (a) to which the Not-for-Profit Corporations Act, 2010 applies; or
+
 (b) that is incorporated under a general or special Act of the Parliament of Canada.
 
 ### Powers re parks, etc.
@@ -341,6 +381,7 @@ S.O. 1999, c. 14, Sched. E
 ### Acquisition of land for commercial uses, etc.
 
 12.5 (1) The city may pass by-laws for acquiring and expropriating land and selling or leasing land for the purpose of sites for commercial and institutional uses and related uses.
+
 (2) Repealed: 2002, c. 17, Sched. F, Table.
 
 ### Sale of liquor in parks
@@ -354,30 +395,47 @@ S.O. 1999, c. 14, Sched. E
 ### By-laws re street vending
 
 12.7 (1) The city may pass by-laws,
+
 (a) designating all or any part of a highway under its jurisdiction, including the sidewalk portion, as a removal zone;
+
 (b) designating all highways under its jurisdiction in any area as a removal zone;
+
 (c) prohibiting the placing, stopping or parking in a removal zone of any object or vehicle used to sell or offer for sale goods or refreshments;
+
 (d) designating spaces in removal zones in which, despite clause (c), goods or refreshments may be sold or offered for sale; and
+
 (e) establishing a permit system granting the exclusive use of any designated space to the owner of an object or vehicle used to sell goods or refreshments.
 
 ### Contents of by-law
 
 (2) A by-law passed under subsection (1) may,
+
 (a) prescribe the types of goods or refreshments that may be offered for sale or sold and the types of objects and vehicles permitted in the designated space which may be different for each designated space, and prohibit any type;
+
 (b) establish design criteria for the object or vehicle permitted in the designated space;
+
 (c) define “goods”, “owner” and “refreshments”; and
+
 (d) exempt any type of vendor from all or part of the by-law.
 
 ### Permits
 
 (3) A by-law passed under subsection (1) may,
+
 (a) prescribe conditions for the issuance and continued use of a permit;
+
 (b) establish permit fees which may vary by location or type of goods sold;
+
 (c) fix the term of the permit which may vary with each permit;
+
 (d) provide for the issuance of identifying markers in connection with the permits and specifying the manner in which they are to be applied;
+
 (e) prohibit or restrict the transfer of permits;
+
 (f) establish the method of allocating designated spaces;
+
 (g) require that the applicant for a permit hold, or be eligible to hold, a valid licence for selling the goods or refreshments proposed to be sold from the designated space; and
+
 (h) regulate the hours of operation permitted under the permit, which may vary according to the location of the designated space.
 
 ### Power to suspend, etc., street vending permit
@@ -395,9 +453,13 @@ S.O. 1999, c. 14, Sched. E
 ### Special circumstances
 
 (4) A municipal official named in the by-law may suspend, without holding a hearing, the designation of all or part of a removal zone, the designation of a space or the operation of a permit for such time and subject to such conditions as the by-law may permit due to,
+
 (a) the holding of special events;
+
 (b) the construction, maintenance or repair of any highway;
+
 (c) the installation, maintenance or repair of public utilities and services; or
+
 (d) matters relating to pedestrian, vehicular or public safety.
 
 ### Duration
@@ -407,7 +469,9 @@ S.O. 1999, c. 14, Sched. E
 ### Inspection, removal re street vending
 
 12.9 (1) Any peace officer authorized by by-law to enforce a by-law passed under section 12.7 or 12.8 who has reason to believe that any object or vehicle is placed, stopped or parked in a designated space or in a removal zone in contravention of the by-law,
+
 (a) may, upon producing appropriate identification, require that a valid permit be produced for reasonable inspection; and
+
 (b) if no valid permit is produced, may, after informing the person, if any, in charge of the object or vehicle that it is in a removal zone or designated space contrary to the by-law and upon giving a receipt for it to that person, cause the object or vehicle to be moved and stored in a suitable place.
 
 ### Lien
@@ -429,7 +493,9 @@ S.O. 1999, c. 14, Sched. E
 ### Scope of by-law
 
 (2) The by-laws may regulate,
+
 (a) the manner, extent and nature of the reception and disposal of sewage and land drainage from any person; and
+
 (b) every other matter or thing related thereto that the city considers necessary and proper to secure for the inhabitants of the municipal area an adequate system of sewage and land drainage disposal.
 
 ### Control of sewage
@@ -443,7 +509,9 @@ S.O. 1999, c. 14, Sched. E
 ### By-laws re discharge
 
 (5) The city may pass by-laws requiring a person,
+
 (a) to install and maintain access openings, facilities, instruments or equipment suitable for the inspection and sampling of the discharge into any works owned or operated by or on behalf of the person; and
+
 (b) to inspect and test the discharge in the manner and at the times required by the city and to provide to the city the results of the inspections and tests and such other information, which, in the opinion of the city, is necessary to properly monitor the discharge.
 
 ### By-laws re treatment pond
@@ -453,6 +521,7 @@ S.O. 1999, c. 14, Sched. E
 ### Definition
 
 (2) In this section,
+
 “land drainage treatment pond” means a treatment work that has as its primary purpose the treatment of land drainage but does not include a treatment work the primary purpose of which is the collection and holding of land drainage.
 
 ### Powers re works and watercourses
@@ -486,6 +555,7 @@ S.O. 1999, c. 14, Sched. E
 ### Same
 
 (6) The decision of the Ontario Land Tribunal is final.
+
 (7) Repealed: 2009, c. 33, Sched. 2, s. 15 (1).
 
 ### Waste disposal
@@ -503,6 +573,7 @@ S.O. 1999, c. 14, Sched. E
 ### Same
 
 (4) The decision of the Ontario Land Tribunal is final.
+
 (5) Repealed: 2009, c. 33, Sched. 2, s. 15 (2).
 
 ### Fluoridation of water
@@ -538,7 +609,9 @@ S.O. 1999, c. 14, Sched. E
 ### Regulation of conduct
 
 (5) The city may make by-laws,
+
 (a) governing the conduct of persons on a vehicle or on any land or structure used for or in connection with a passenger transportation system; and
+
 (b) requiring persons to prove, upon the request of a city employee, that they paid the required fare to use the passenger transportation system.
 
 ### Enforcement
@@ -564,9 +637,13 @@ S.O. 1999, c. 14, Sched. E
 ### Exceptions
 
 (2) Subsection (1) does not apply with respect to the following types of passenger transportation systems:
+
 1. Buses used to transport pupils, including buses owned and operated by, or operated under a contract with, a school board, a private school or a charitable organization.
+
 2. Railways operated by railway companies incorporated under a federal or provincial Act.
+
 3. Ferries.
+
 4. Aviation systems.
 
 ### Authorization
@@ -580,6 +657,7 @@ S.O. 1999, c. 14, Sched. E
 ### Rights unaffected
 
 (5) Nothing in this section prevents a person from operating a passenger transportation system that is used to convey personal property and passengers from a point within an area designated in a by-law under subsection (1) to a point outside the area or from a point outside the area to a point inside the area.
+
 (6) Repealed: 2020, c. 34, Sched. 23, s. 4 (2).
 
 ### Financial Matters
@@ -587,34 +665,47 @@ S.O. 1999, c. 14, Sched. E
 ### By-law re special services
 
 13 (1) Subject to the restrictions set out in this section, the city may do the following things by by-law:
+
 1. Identify a special service.
+
 2. Determine the amount of the city’s costs (including capital costs, debenture charges and charges for depreciation or for a reserve fund) that are related to that special service.
+
 3. Subject to a regulation made under subsection (5), designate one or more merged areas of the city as an area in which the residents and property owners receive or will receive an additional municipal benefit from the special service that is not or will not be received in the other merged areas of the city.
+
 4. Determine the portion of the amount determined under paragraph 2 that represents the additional cost of providing the additional municipal benefit in each area designated under paragraph 3 and set out the method it used for making that determination.
+
 5. Determine the amount, if any, of the additional cost referred to in paragraph 4 that is to be raised under subsection (8).
 
 ### Restriction
 
 (2) A by-law may be made with respect to a special service,
+
 (a) that was being provided in a merged area of the city by or on behalf of an old municipality or a local board of an old municipality; and
+
 (b) that continued to be provided in the merged area by or on behalf of the city or a local board of the city at any time during 2001.
 
 ### Same
 
 (3) A by-law cannot designate a merged area under paragraph 3 of subsection (1) as one in which residents and property owners do not currently receive but will receive an additional municipal benefit from the special service in future unless,
+
 (a) the expenditures necessary to make the additional benefit available in the merged area appear in the city’s budget for the year (as adopted under section 290 of the Municipal Act, 2001); or
+
 (b) the city has established a reserve fund to finance those expenditures over a period of years.
 
 ### Same
 
 (4) The city cannot pass a by-law for a particular year (the “applicable year”) after 2002 with respect to a particular special service unless the following conditions are met:
+
 1. The city passed a by-law with respect to the special service in 2002.
+
 2. The city passed a by-law with respect to the special service for every year after 2002 and before the applicable year.
 
 ### Regulation, designated areas
 
 (5) For the purposes of paragraph 3 of subsection (1), the Minister may, by regulation,
+
 (a) specify an area that may be designated under that paragraph even though it is not composed of one or more merged areas;
+
 (b) prescribe circumstances in which an area may be designated under that paragraph even though it is not composed of one or more merged areas.
 
 ### Same
@@ -644,13 +735,17 @@ S.O. 1999, c. 14, Sched. E
 ### Decrease in tax rates
 
 (3) Subject to the restrictions set out in this section, the city may, by by-law, decrease the tax rates that would otherwise apply on the assessment within a merged area,
+
 (a) if the city council considers that it would be unfair that the taxpayers in the merged area not receive direct benefit from the assets or any class of assets of the merged area; and
+
 (b) if the amount of taxes lost by decreasing the tax rates does not exceed the value of the assets referred to in clause (a).
 
 ### Increase in tax rates
 
 (4) Subject to the restrictions set out in this section, the city may, by by-law, increase the tax rates that would otherwise apply on the assessment within a merged area,
+
 (a) if the city council considers that it would be unfair that the taxpayers outside the merged area be responsible for the liabilities or any class of liabilities of the merged area; and
+
 (b) if the amount of taxes gained by increasing the tax rates does not exceed the value of the liabilities referred to in clause (a).
 
 ### Restriction
@@ -660,7 +755,9 @@ S.O. 1999, c. 14, Sched. E
 ### Same
 
 (6) The city cannot pass a by-law under this section for a particular year (the “applicable year”) after 2002 with respect to a merged area unless the following conditions are met:
+
 1. The city passed a by-law under this section in 2002 with respect to the merged area.
+
 2. The city passed a by-law under this section with respect to the merged area for every year after 2002 and before the applicable year.
 
 ### Same
@@ -690,7 +787,9 @@ S.O. 1999, c. 14, Sched. E
 ### Definitions
 
 (13) In this section,
+
 “assets” means reserves, reserve funds and such other assets as may be prescribed; (“éléments d’actif”)
+
 “liabilities” means debts and such other liabilities as may be prescribed. (“éléments de passif”)
 
 ### Recovery of costs re: collection and disposal of sewage
@@ -700,10 +799,15 @@ S.O. 1999, c. 14, Sched. E
 ### Levies for various services
 
 16 (1) The city may establish one or more municipal service areas and levy one or more special local municipality levies under section 312 of the Municipal Act, 2001 in the municipal service areas for the purpose of raising all or part of its costs for the following services, including the costs of establishing, constructing, maintaining, operating, improving, extending and financing those services:
+
 1. The supply and distribution of water.
+
 2. Fire protection and prevention.
+
 3. Public transportation, other than highways.
+
 4. Street lighting.
+
 5. The collection and disposal of sewage.
 
 ### Same
@@ -713,6 +817,7 @@ S.O. 1999, c. 14, Sched. E
 ### Area taxing power
 
 17 (1) In this section,
+
 “area taxing power” means a power under section 13 or 16 of this Act or under any other provision of an Act, regulation or order that authorizes the city to raise costs related to services by imposing taxes on less than all the rateable property in the city.
 
 ### Duty
@@ -784,7 +889,9 @@ S.O. 1999, c. 14, Sched. E
 ### Function
 
 (5) The primary function of the transition board is to facilitate the transition from the old municipalities and their local boards to the city and its local boards,
+
 (a) by controlling the decisions of the old municipalities and their local boards that could have significant financial consequences for the city and its local boards; and
+
 (b) by developing business plans for the city and its local boards in order to maximize the efficiency and costs savings of this new municipal structure.
 
 ### Powers and duties
@@ -806,9 +913,13 @@ S.O. 1999, c. 14, Sched. E
 ### Same
 
 (10) Without limiting the generality of subsection (9), a regulation respecting the powers and duties of the transition board may,
+
 (a) set out the powers and duties of the board with respect to the Minister, the board itself, the city and its local boards and the old municipalities and their local boards;
+
 (b) provide that the board shall be deemed to be a municipality, including a regional municipality, for the purpose of any Act, which Act would then apply to the board with the modifications specified in the regulation;
+
 (c) authorize the board to issue guidelines with respect to the matters specified in the regulation;
+
 (d) specify matters relating to the procedures and operations of the board.
 
 ### Same
@@ -826,7 +937,9 @@ S.O. 1999, c. 14, Sched. E
 ### Same
 
 (2) The contract must be one of the following:
+
 1. A contract entered into after October 8, 1999, containing a provision described in subsection (3).
+
 2. A contract amended after October 8, 1999 to include a provision described in subsection (3).
 
 ### Provision
@@ -836,6 +949,7 @@ S.O. 1999, c. 14, Sched. E
 ### Definition
 
 (4) In this section,
+
 “compensation” includes severance payments and payments during a period of notice of termination or payments in lieu of such notice.
 
 ### Power to hire certain city employees
@@ -845,29 +959,49 @@ S.O. 1999, c. 14, Sched. E
 ### Same
 
 (2) When the transition board hires a person under subsection (1), the following rules apply:
+
 1. The transition board has the authority to negotiate the terms of the employment contract with the person.
+
 2. The city is bound by the employment contract.
+
 3. The employment contract may take effect on or before January 1, 2001.
+
 4. If the contract takes effect before January 1, 2001, the person is the employee of the transition board before January 1, 2001 and the employee of the city beginning on January 1, 2001. If the contract takes effect on January 1, 2001, the person is the employee of the city.
+
 5. While the person is an employee of the transition board, the person shall be deemed to be an employee under the Ontario Municipal Employees Retirement System Act, and the transition board shall be deemed, in respect of the person, to be an employer under that Act.
+
 6. On January 1, 2001, the city council shall be deemed to have taken all the steps that may be required to make the person the effective holder of his or her office.
 
 ### Powers re information, etc.
 
 22 (1) The transition board has the following powers to obtain information, records and documents from an old municipality and a local board of an old municipality:
+
 1. To require the old municipality or local board to submit a report to the transition board,
+
 i. identifying the assets and liabilities of the old municipality or local board, or specified categories of those assets and liabilities, and
+
 ii. naming the members and employees of the old municipality or local board and stating their position, terms of employment, remuneration and employment benefits.
+
 2. To require the old municipality to submit a report to the transition board listing the entities, including local boards,
+
 i. that were established by or for the old municipality and that exist when the report is made, or
+
 ii. that received funding from the old municipality in 1999.
+
 3. To require the old municipality to submit a report to the transition board,
+
 i. listing the entities, including local boards, to which the old municipality has the power to make appointments, and
+
 ii. for each entity, identifying the source of the power to make the appointments, naming each current appointee and stating when his or her term expires.
+
 4. To require the old municipality or local board to give the transition board information, records or documents that are in the possession or control of the municipality or local board and are relevant to the functions of the transition board.
+
 5. To require the old municipality or local board to create a new document or record that is relevant to the functions of the transition board by compiling existing information, and to give the document or record to the transition board.
+
 6. To require the old municipality or local board to give the transition board a report concerning any matter the transition board specifies that is relevant to the functions of the transition board.
+
 7. To require the old municipality or local board to update information previously given to the transition board under any of the preceding paragraphs.
+
 8. To impose a deadline for complying with a requirement imposed under any of the preceding paragraphs.
 
 ### Conflict
@@ -889,7 +1023,9 @@ ii. for each entity, identifying the source of the power to make the appointment
 ### Duty to co-operate, etc.
 
 23 (1) The members of the council of each old municipality, the employees and agents of the old municipality, and the members, employees and agents of each local board of an old municipality shall,
+
 (a) co-operate with the members, employees and agents of the transition board, assist them in the performance of their duties and comply with their requests under this Act; and
+
 (b) on request, allow any person described in clause (a) to examine and copy any document, record or other information in the possession or control of the old municipality or local board, as the case may be, that is relevant to the functions of the transition board.
 
 ### Conflict
@@ -903,7 +1039,9 @@ ii. for each entity, identifying the source of the power to make the appointment
 ### Same
 
 (2) Without limiting the generality of subsection (1), the personal information referred to in that subsection includes information relating to,
+
 (a) a financial transaction or proposed financial transaction of an old municipality or a local board of an old municipality;
+
 (b) anything done or proposed to be done in connection with the finances of an old municipality or a local board of an old municipality by a member of the council of the old municipality or local board or by an employee or agent of the old municipality or local board.
 
 ### Offence
@@ -921,8 +1059,11 @@ ii. for each entity, identifying the source of the power to make the appointment
 ### Same
 
 (2) Subsection (1) also applies in respect of an employee or agent of an old municipality or a local board of an old municipality who acts under the direction of,
+
 (a) the transition board or a member of it;
+
 (b) the council of the old municipality; or
+
 (c) the local board.
 
 ### Vicarious liability
@@ -950,9 +1091,13 @@ ii. for each entity, identifying the source of the power to make the appointment
 ### Regulations re powers and duties
 
 27 (1) The Minister may make regulations providing that an old municipality or a local board of an old municipality,
+
 (a) shall not exercise a specified power under a particular Act;
+
 (b) shall not exercise a specified power under a particular Act unless it is exercised in the manner specified in the regulation;
+
 (c) shall not exercise a specified power under a particular Act without the approval of the transition board or of such other person or body as is specified in the regulation;
+
 (d) shall not exercise a specified power under a particular Act unless it is exercised in accordance with the guidelines, if any, issued by the transition board under this Act.
 
 ### Same
@@ -962,13 +1107,21 @@ ii. for each entity, identifying the source of the power to make the appointment
 ### Same
 
 (3) The following rules apply with respect to regulations under subsection (1):
+
 1. A regulation cannot prevent an old municipality or local board from doing anything that it is otherwise required by law to do.
+
 2. A regulation cannot prevent an old municipality or local board from taking action in an emergency.
+
 3. A regulation cannot prevent the performance of a contract entered into before the day this subsection comes into force.
+
 4. A regulation cannot prevent an action that is approved by, or done in accordance with, guidelines of the transition board issued under this Act.
+
 5. A regulation cannot prevent an action that is provided for by a by-law or resolution that also contains provisions to the effect that the by-law or resolution does not come into force until,
+
 i. the approval of the transition board or other person or body specified by a regulation made under clause (1) (c) has been obtained, or
+
 ii. guidelines authorizing the action are issued by the transition board under this Act.
+
 6. If the transition board or another person or body is authorized to give an approval under this Act, it may approve an action in advance or retroactively and may impose conditions that apply to the approval.
 
 ### Expenses of the transition board in 2000
@@ -1032,7 +1185,9 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Agreement re change in bargaining units
 
 (2) The agreement does not come into effect until the later of,
+
 (a) the day on which the conditions described in subsections 20 (7) and (8) of the Public Sector Labour Relations Transition Act, 1997 are satisfied; and
+
 (b) January 1, 2001.
 
 ### Restrictions
@@ -1054,7 +1209,9 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Agreement re change of bargaining agents
 
 (7) If an agreement described in subsection (1) is made, any agreement made by the bargaining agents concerned under section 21 of the Public Sector Labour Relations Transition Act, 1997 does not come into effect until the later of,
+
 (a) the day on which the conditions described in subsection 21 (2) of that Act are satisfied; and
+
 (b) January 1, 2001.
 
 ### Notice of agreement
@@ -1114,7 +1271,9 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Terms extended
 
 34 (1) The following persons, if in office on November 30, 2000, shall continue in office until the first council of the city is organized:
+
 1. The members of the councils of the old municipalities.
+
 2. The members of the local boards of the old municipalities.
 
 ### Same
@@ -1128,12 +1287,19 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Rules for the regular election
 
 35 The following rules apply to the regular election in 2000 in the municipal area:
+
 1. The election shall be conducted as if sections 2, 3, 4, 5 and 8 were already in force.
+
 2. The transition board shall designate a person to conduct the regular election in 2000 under the Municipal Elections Act, 1996.
+
 3. The clerks of the old municipalities and the clerk of the city, if appointed, shall assist the person designated under paragraph 2 and act under his or her direction.
+
 4. The transition board acts as council for the purpose of making the decisions that council is required to make under the Municipal Elections Act, 1996 for the regular election. The city council shall make those decisions once the council is organized.
+
 5. The costs of the election that are payable in 2000 shall be included in the operating budget of The Regional Municipality of Ottawa-Carleton for 2000. The regional municipality shall pay those costs as directed by the person designated under paragraph 2. The costs of the election that are payable in 2001 shall be paid by the city.
+
 6. Each area municipality under the Regional Municipality of Ottawa-Carleton Act shall include in its operating budget for 2000 an amount equal to the amount it would have budgeted for the costs of the regular election in 2000 if this Act had not been passed, and shall pay that amount to The Regional Municipality of Ottawa-Carleton on or before July 1, 2000.
+
 7. The amount referred to in paragraph 6 shall be paid, first, from any reserve or reserve fund previously established by the area municipality for the costs of the regular election in 2000.
 
 ### General
@@ -1153,15 +1319,21 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Same, Minister
 
 (2) The Minister may make regulations,
+
 (a) prescribing anything that is required or permitted by this Act to be done or prescribed by a regulation under this Act;
+
 (b) defining any word or expression used in this Act that is not expressly defined in this Act;
+
 (c) providing for any transitional matter that, in the opinion of the Minister, is necessary or desirable for the effective implementation of this Act;
+
 (d) establishing wards for the purposes of section 3.
 
 ### Examples
 
 (3) A regulation under clause (2) (c) may provide, for example,
+
 (a) that the city may undertake long-term borrowing to pay for operational expenditures on transitional costs, as defined in the regulation, subject to such conditions and restrictions as may be prescribed;
+
 (b) that, for the purposes of section 8 of the Municipal Elections Act, 1996, the Minister may require a question to be submitted to the electors of all or any part of the municipal area set out in the regulation.
 
 ### General or specific
@@ -1179,5 +1351,7 @@ ii. guidelines authorizing the action are issued by the transition board under t
 ### Same
 
 (2) In the event of a conflict between a regulation made under this Act and a provision of this Act or of another Act or a regulation made under another Act, the regulation made under this Act prevails.
+
 39 Omitted (provides for coming into force of provisions of this Act).
+
 40 Omitted (enacts short title of this Act).

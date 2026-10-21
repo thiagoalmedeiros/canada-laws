@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2010-10-25"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10c16a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Commercial Mediation Act, 2010
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10c16a) before relying on it.
 
 S.O. 2010, c. 16, Sched. 3
 
@@ -27,7 +27,9 @@ S.O. 2010, c. 16, Sched. 3
 ### Agreement to opt out of or modify application of Act
 
 (2) The parties to a mediation of a commercial dispute may,
+
 (a) agree not to have this Act apply to the mediation; or
+
 (b) subject to subsections 4 (4) and 7 (5), apply this Act with such modifications as the parties have agreed on.
 
 ### Binds the Crown
@@ -37,23 +39,33 @@ S.O. 2010, c. 16, Sched. 3
 ### Exceptions
 
 (4) This Act does not apply to,
+
 (a) a mediation under or relating to the formation of a collective agreement;
+
 (b) a computerized or other form of mediation in which the mediation is not conducted with an individual as the mediator;
+
 (c) actions taken by a judge or arbitrator in the course of judicial or arbitral proceedings to promote settlement of a commercial dispute that is the subject of the proceedings; or
+
 (d) mediations for which procedures are prescribed in the Rules of Civil Procedure made under the Courts of Justice Act.
 
 ### Same, conflict of law, etc.
 
 (5) This Act does not apply to the mediation of a commercial dispute to the extent that,
+
 (a) this Act conflicts or is inconsistent with the requirements of another Act or a regulation made under another Act; or
+
 (b) the application of this Act is excluded or modified by the regulations.
 
 ### Definitions
 
 3 In this Act,
+
 “commercial dispute” means a dispute between parties relating to matters of a commercial nature, whether contractual or not, such as trade transactions for the supply or exchange of goods or services, distribution agreements, commercial representation or agency, factoring, leasing, construction of works, consulting, engineering, licensing, investment, financing, banking, insurance, exploitation agreements and concessions, joint ventures, other forms of industrial or business co-operation or the carriage of goods or passengers; (“différend commercial”)
+
 “mediation” means a collaborative process in which,
+
 (a) the parties to a commercial dispute agree to request a neutral person, referred to as a mediator, to assist them in their attempt to reach a settlement in their dispute, and
+
 (b) the mediator does not have authority to impose a solution to the dispute on the parties. (“médiation”)
 
 ### Interpretation
@@ -63,7 +75,9 @@ S.O. 2010, c. 16, Sched. 3
 ### Same
 
 (2) In interpreting this Act, recourse may be had to,
+
 (a) the Report of the United Nations Commission on International Trade Law on its 35th session; and
+
 (b) the UNCITRAL Model Law on International Commercial Conciliation with Guide to Enactment and Use 2002.
 
 ### Same
@@ -87,9 +101,13 @@ S.O. 2010, c. 16, Sched. 3
 ### Termination
 
 (3) The mediation terminates on the earliest of,
+
 (a) the day on which the parties reach a settlement agreement;
+
 (b) the day on which the parties jointly declare to the mediator that the mediation is terminated;
+
 (c) the day on which the mediator, after consultation with the parties, declares that further efforts at mediation are no longer justified and that the mediation is terminated; and
+
 (d) the first day that a party whose participation is necessary for the mediation to continue declares to the mediator and to the other party or parties that the mediation is terminated.
 
 ### Termination of party’s participation
@@ -107,7 +125,9 @@ S.O. 2010, c. 16, Sched. 3
 ### Duty to disclose
 
 (3) A person who is approached to be a mediator shall,
+
 (a) make sufficient inquiries to determine if he or she may have a current or potential conflict of interest or if any circumstances exist that may give rise to a reasonable apprehension of bias; and
+
 (b) without delay, disclose to the parties any such conflict of interest or circumstances.
 
 ### Same, duty continues during mediation
@@ -121,7 +141,9 @@ S.O. 2010, c. 16, Sched. 3
 ### Interpretation
 
 (6) For the purposes of this section, a person is deemed to have a conflict of interest with respect to a mediation if,
+
 (a) the person has a financial or personal interest in the outcome of the mediation; or
+
 (b) the person has an existing or previous relationship with a party or a person related to a party to the mediation.
 
 ### Conduct of mediation, by agreement
@@ -135,7 +157,9 @@ S.O. 2010, c. 16, Sched. 3
 ### Mediator’s authority
 
 (3) The mediator may,
+
 (a) meet or communicate with the parties together, separately or in any combination; and
+
 (b) make proposals for settlement of the dispute at any stage of the mediation.
 
 ### Obligation of fair treatment
@@ -153,36 +177,55 @@ S.O. 2010, c. 16, Sched. 3
 ### Duty to keep confidential
 
 (2) Information relating to the mediation must be kept confidential by the parties, the mediator and any other persons involved in the conduct of the mediation unless,
+
 (a) all the parties agree to the disclosure and, if the information relates to the mediator, the mediator agrees to the disclosure;
+
 (b) the disclosure is required by law;
+
 (c) the disclosure is required for the purposes of carrying out or enforcing a settlement agreement;
+
 (d) the disclosure is required for a mediator to respond to a claim of misconduct; or
+
 (e) the disclosure is required to protect the health or safety of any person.
 
 ### Exception
 
 (3) The requirement to keep information relating to the mediation confidential does not apply to information,
+
 (a) that is publicly available;
+
 (b) that the parties, by their conduct, do not treat as confidential; or
+
 (c) that is relevant in determining if the mediator has failed to make a disclosure required under subsection 6 (3).
 
 ### Admissibility of information
 
 9 (1) Subject to subsections (2) and (3), none of the following information, in any form, is discoverable or admissible in evidence in arbitral, judicial or administrative proceedings:
+
 1. An invitation by a party to mediate a commercial dispute, a party’s willingness or refusal to mediate the dispute, information exchanged between the parties before the mediation commences and any agreement to mediate the dispute.
+
 2. A document prepared solely for the purposes of the mediation.
+
 3. Views expressed or suggestions made by a party during the mediation concerning a possible settlement of the dispute.
+
 4. Statements or admissions made by a party during the mediation.
+
 5. Statements or proposals for settlement made by the mediator.
+
 6. The fact that a party indicated a willingness to accept a proposal for settlement made by the mediator.
+
 7. The fact that a party or the mediator terminated the mediation.
 
 ### Exceptions
 
 (2) The information referred to in subsection (1) may be admitted in evidence to the extent required,
+
 (a) by law;
+
 (b) for the purposes of carrying out or enforcing a settlement agreement;
+
 (c) by a mediator to respond to a claim of misconduct; or
+
 (d) if all of the parties to the mediation consent and, if the information relates to the mediator, the mediator consents.
 
 ### Same, to determine costs
@@ -200,7 +243,9 @@ S.O. 2010, c. 16, Sched. 3
 ### Acting as mediator and arbitrator
 
 10 Unless all parties to a mediation otherwise agree, a mediator shall not act as both a mediator and an arbitrator or as an arbitrator after acting as the mediator with respect to,
+
 (a) the commercial dispute that is the subject of the mediation; or
+
 (b) another dispute that arises from the same contract or legal relationship or from a related contract or legal relationship between the parties.
 
 ### Agreements respecting arbitral or judicial proceedings
@@ -210,7 +255,9 @@ S.O. 2010, c. 16, Sched. 3
 ### Exception
 
 (2) Despite subsection (1), an arbitrator or court may permit the proceedings to proceed and may make any order necessary if the arbitrator or court considers,
+
 (a) that proceedings are necessary to preserve the rights of any party; or
+
 (b) that proceedings are necessary in the interests of justice.
 
 ### Mediation not terminated by commencement of arbitral proceedings, etc.
@@ -226,13 +273,17 @@ S.O. 2010, c. 16, Sched. 3
 ### Definitions
 
 13 (1) In this section,
+
 “registrar” means the registrar of the Superior Court of Justice; (“greffier”)
+
 “settlement agreement” means an agreement signed by more than one party to the mediation, or minutes of settlement signed by more than one of the parties, that disposes of one or more issues in dispute in the mediation. (“accord issu d’un règlement amiable”)
 
 ### Application to judge or court
 
 (2) If a party to a settlement agreement fails to comply with the terms of a settlement agreement, another party wishing to enforce the agreement may, on notice to all other parties who signed the agreement,
+
 (a) apply to a judge of the Superior Court of Justice for judgment in the terms of the agreement; or
+
 (b) apply to the Superior Court of Justice for an order authorizing the registration of the agreement with the court.
 
 ### Application of the Rules of Civil Procedure
@@ -250,26 +301,35 @@ S.O. 2010, c. 16, Sched. 3
 ### Same
 
 (6) No judgment or order shall be granted or made if it is shown to the court that,
+
 (a) a party to the mediation against whom the applicant is seeking to enforce the settlement agreement did not sign the agreement or otherwise consent to the terms of the agreement that the applicant is seeking to enforce;
+
 (b) the settlement agreement was obtained by fraud; or
+
 (c) the settlement agreement does not accurately reflect the terms agreed to by the parties in settlement of the dispute to which the agreement relates.
 
 ### Effect of filing agreement
 
 (7) On the filing of a true copy of the settlement agreement with the registrar pursuant to an order authorizing the registration of the agreement,
+
 (a) the settlement agreement is registered with the court and has the same force and effect as if it were a judgment obtained and entered in the Superior Court of Justice on the date of the registration; and
+
 (b) the costs of and incidental to the registration of the settlement agreement and the application for registration are recoverable as if they were sums payable under a judgment.
 
 ### Costs
 
 (8) The costs referred to in clause (7) (b) shall be in the amount,
+
 (a) that is prescribed by the regulations or determined by the registrar in accordance with the regulations; or
+
 (b) that is determined by the registrar, in his or her discretion, if no regulation under clause 15 (b) is in force at the time the settlement agreement is filed with the registrar.
 
 ### Enforcement of mediator’s fees, etc.
 
 14 (1) This section applies if a settlement agreement, minutes of settlement or other written agreement or document signed by one or more parties to a mediation of a commercial dispute,
+
 (a) contains an undertaking by one or more of the parties to pay the fees and expenses of the mediator for performing the functions of a mediator in the mediation; and
+
 (b) sets out the amount of fees and expenses payable or the manner of calculating the fees and expenses, all the rates and other variables of which have been agreed to in the agreement, minutes or other document.
 
 ### Application of s. 13
@@ -279,9 +339,15 @@ S.O. 2010, c. 16, Sched. 3
 ### Regulations
 
 15 The Lieutenant Governor in Council may make regulations,
+
 (a) excluding or modifying the application of all or part of this Act;
+
 (b) prescribing the amount of costs recoverable by a party under clause 13 (7) (b) or principles to be applied by the registrar to determine the amount of those costs;
+
 (c) defining any word or expression used but not defined in this Act;
+
 (d) respecting any matter that the Lieutenant Governor in Council considers necessary or advisable to carry out effectively the intent and purpose of this Act.
+
 16 Omitted (provides for coming into force of provisions of this Act).
+
 17 Omitted (enacts short title of this Act).

@@ -6,21 +6,24 @@ language: en
 type: act
 document_date: "2026-06-02"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06c11"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # City of Toronto Act, 2006
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06c11) before relying on it.
 
 S.O. 2006, c. 11, Sched. A
 
 ### Preamble
 
 The Assembly recognizes that the City of Toronto, as Ontario’s capital city, is an economic engine of Ontario and of Canada. The Assembly recognizes that the City plays an important role in creating and supporting economic prosperity and a high quality of life for the people of Ontario.
+
 The Assembly recognizes that the success of the City requires the active participation of governments working together in a partnership based on respect, consultation and co-operation.
+
 The Assembly recognizes the importance of providing the City with a legislative framework within which the City can build a strong, vibrant and sustainable city that is capable of thriving in the global economy. The Assembly recognizes that the City is a government that is capable of exercising its powers in a responsible and accountable fashion.
+
 The Assembly recognizes that it is in the interests of the Province that the City be given these powers.
 
 ## part i interpretation
@@ -44,12 +47,19 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### Purposes of this Act
 
 2 The purpose of this Act is to create a framework of broad powers for the City which balances the interests of the Province and the City and which recognizes that the City must be able to do the following things in order to provide good government:
+
 1. Determine what is in the public interest for the City.
+
 2. Respond to the needs of the City.
+
 3. Determine the appropriate structure for governing the City other than with respect to the composition of city council and the division of the City into wards.
+
 4. Ensure that the City is accountable to the public and that the process for making decisions is transparent.
+
 5. Determine the appropriate mechanisms for delivering municipal services in the City.
+
 6. Determine the appropriate levels of municipal spending and municipal taxation for the City.
+
 7. Use fiscal tools to support the activities of the City.
 
 ### Interpretation
@@ -57,50 +67,95 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### Definitions
 
 3 (1) In this Act,
+
 “animal” means any member of the animal kingdom, other than a human; (“animal”)
+
 “assessment corporation” means the Municipal Property Assessment Corporation; (“société d’évaluation foncière”)
+
 “city board” means a city board established or deemed to be established by the City under this Act, but does not include a corporation incorporated by the City in accordance with section 148 or an appeal body established under section 115 for local land use planning matters; (“commission municipale”)
+
 “group home” means a residence licensed or funded under a federal or provincial statute for the accommodation of three to 10 persons, exclusive of staff, living under supervision in a single housekeeping unit and who, by reason of their emotional, mental, social or physical condition or legal status, require a group living arrangement for their well being; (“foyer de groupe”)
+
 “First Nation” means a band as defined in the Indian Act (Canada); (“Première Nation”)
+
 “highway” means a common and public highway and includes any bridge, trestle, viaduct or other structure forming part of the highway and, except as otherwise provided, includes a portion of a highway; (“voie publique”)
+
 “land” includes buildings; (“bien-fonds”)
+
 “licence”, in relation to a licence issued under this Act, includes a permit, an approval, a registration and any other type of permission, and “licensing” has a corresponding meaning; (“permis”)
+
 “local board” means a city board, transportation commission, public library board, board of health, police service board, planning board, or any other board, commission, committee, body or local authority established or exercising any power under any Act with respect to the affairs or purposes of one or more municipalities, excluding a school board and a conservation authority; (“conseil local”)
+
 “local municipality” means a single-tier municipality or a lower-tier municipality; (“municipalité locale”)
+
 “lower-tier municipality” means a municipality that forms part of an upper-tier municipality for municipal purposes; (“municipalité de palier inférieur”)
+
 “municipality” means a geographic area whose inhabitants are incorporated; (“municipalité”)
+
 “old Municipal Act ” means the Municipal Act, being chapter M.45 of the Revised Statutes of Ontario, 1990, as it read on December 31, 2002; (“ancienne Loi sur les municipalités ”)
+
 “person” includes a municipality unless the context otherwise requires; (“personne”)
+
 “power”, in relation to the authority of the City or other body, includes capacity, rights, powers and privileges; (“pouvoir”)
+
 “prescribed” means prescribed by regulations made under this Act; (“prescrit”)
+
 “public utility” means,
+
 (a) a system that is used to provide any of the following services or things for the public:
+
 (i) water,
+
 (ii) sewage,
+
 (iii) fuel, including natural and artificial gas,
+
 (iv) energy, excluding electricity,
+
 (v) heating and cooling, and
+
 (vi) telephone, and
+
 (b) the service or thing that is provided; (“service public”)
+
 “rateable property” means land that is subject to taxation under Part XI (Traditional Municipal Taxes) for municipal and school purposes; (“bien imposable”)
+
 “record” means information however recorded or stored, whether in printed form, on film, by electronic means or otherwise, and includes documents, financial statements, minutes, accounts, correspondence, memoranda, plans, maps, drawings, photographs and films; (“document”)
+
 “regional municipality” means an upper-tier municipality that was a regional or district municipality or the County of Oxford on December 31, 2002; (“municipalité régionale”)
+
 “regular election” means the regular election referred to in subsection 4 (1) of the Municipal Elections Act, 1996; (“élections ordinaires”)
+
 “sewage” includes,
+
 (a) storm water and other drainage from land, and
+
 (b) commercial wastes and industrial wastes that are disposed of in a sewage system; (“eaux d’égout”)
+
 “single-tier municipality” means a municipality, other than an upper-tier municipality, that does not form part of an upper-tier municipality for municipal purposes; (“municipalité à palier unique”)
+
 “spouse” means a person,
+
 (a) to whom the person is married, or
+
 (b) with whom the person is living outside marriage in a conjugal relationship, if the two persons,
+
 (i) have cohabited for at least one year,
+
 (ii) are together the parents of a child, or
+
 (iii) have together entered into a cohabitation agreement under section 53 of the Family Law Act; (“conjoint”)
+
 “system” means one or more programs or facilities (including real and personal property) of a person used to provide services and things to the person or to any other person and includes administration related to the programs, facilities, services and things; (“réseau”, “système”)
+
 “trailer” means any vehicle constructed to be attached and propelled by a motor vehicle and that is capable of being used by persons for living, sleeping or eating, even if the vehicle is jacked-up or its running gear is removed; (“roulotte”)
+
 “transportation system” includes harbours, ports and transportation terminals; (“réseau de transport”)
+
 “TTC” means the Toronto Transit Commission; (“CTT”)
+
 “unorganized territory” means a geographic area without municipal organization; (“territoire non érigé en municipalité”)
+
 “upper-tier municipality” means a municipality of which two or more lower-tier municipalities form part for municipal purposes. (“municipalité de palier supérieur”)
 
 ### Municipality
@@ -126,9 +181,13 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### Priority lien status
 
 (7) If an amount is added to the tax roll in respect of a property under subsection (5) or (6), that amount, including interest,
+
 (a) may be collected in the same manner as real property taxes levied on the property under Part XI (Traditional Municipal Taxes);
+
 (b) may be recovered with costs as a debt due to the City from the assessed owner of the property at the time the fee or charge was added to the tax roll and from any subsequent owner of the property or any part of it;
+
 (c) is a special lien on the property in the same manner as are real property taxes under subsection 314 (3); and
+
 (d) may be included in the cancellation price under Part XIV (Sale of Land for Tax Arrears (Real Property Taxes)) in the same manner as are real property taxes.
 
 ### Taxes of the City
@@ -138,20 +197,27 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### Special Acts
 
 4 (1) In this section,
+
 “special Act” means an Act, other than this Act, relating to the City in particular.
 
 ### Relationship between this Act and special Acts
 
 (2) Except where otherwise expressly or by necessary implication provided,
+
 (a) this Act does not limit or restrict the powers of the City under a special Act; and
+
 (b) a special Act does not limit or restrict the powers of the City under this Act.
 
 ### Override power
 
 (3) Despite subsection (2), the City may exercise its powers with respect to any of the following matters to override a special Act, even if the special Act is more specific and is enacted more recently:
+
 1. Changing the name of the City.
+
 2., 3. Repealed: 2018, c. 11, Sched. 1, s. 2.
+
 4. Dissolving or changing local boards.
+
 5. Any other matter dealt with by a provision of an Act which provides, expressly or by necessary implication, that the provision or the exercise of power under the provision prevails over the special Act.
 
 ### Exclusion
@@ -185,23 +251,37 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### City by-laws
 
 (2) The City may pass by-laws respecting the following matters:
+
 1. Governance structure of the City and its local boards (restricted definition) other than with respect to the composition of city council and the division of the City into wards.
+
 2. Accountability and transparency of the City and its operations and of its local boards (restricted definition) and their operations.
+
 3. Financial management of the City and its local boards (restricted definition).
+
 4. Public assets of the City acquired for the purpose of exercising its authority under this or any other Act.
+
 5. Economic, social and environmental well-being of the City, including respecting climate change.
+
 6. Health, safety and well-being of persons.
+
 7. Services and things that the City is authorized to provide under subsection (1).
+
 8. Protection of persons and property, including consumer protection.
+
 9. Animals.
+
 10. Structures, including fences and signs.
+
 11. Business licensing.
 
 ### Scope of by-law making power
 
 (3) Without limiting the generality of section 6, a by-law under this section respecting a matter may,
+
 (a) regulate or prohibit respecting the matter;
+
 (b) require persons to do things respecting the matter;
+
 (c) provide for a system of licences respecting the matter.
 
 ### One power not affecting another
@@ -215,18 +295,27 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### Exception
 
 (5.1) Nothing in subsection (5) prevents the City passing a by-law with respect to services or things provided by any person to the extent necessary,
+
 (a) to ensure that the physical operation of a system of the City or of a city board is not impaired; or
+
 (b) to ensure that the City, a city board or a system of the City or city board meets any provincial standards or regulations that apply to it.
 
 ### Definition
 
 (6) In this section,
+
 “local board (restricted definition)” means a local board other than,
+
 (a) a society as defined in subsection 2 (1) of the Child, Youth and Family Services Act, 2017,
+
 (b) a board of health as defined in subsection 1 (1) of the Health Protection and Promotion Act,
+
 (c) a committee of management under the Fixing Long-Term Care Act, 2021,
+
 (d) a police service board established under the Community Safety and Policing Act, 2019,
+
 (e) a board as defined in section 1 of the Public Libraries Act, or
+
 (f) a corporation established in accordance with section 148.
 
 ### Expropriation
@@ -248,7 +337,9 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### Conflict with legislation, etc.
 
 11 (1) A city by-law is without effect to the extent of any conflict with,
+
 (a) a provincial or federal Act or a regulation made under such an Act; or
+
 (b) an instrument of a legislative nature, including an order, licence or approval, made or issued under a provincial or federal Act or a provincial or federal regulation.
 
 ### Same
@@ -268,7 +359,9 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### Application to new and existing provisions
 
 (2) Subsection (1) applies whether the specific provision was enacted before or after,
+
 (a) the day this section comes into force; or
+
 (b) the day a by-law passed under section 7 or 8 comes into force.
 
 ### No retroactive effect
@@ -282,14 +375,23 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### Non-application of section
 
 (5) This section does not apply to a by-law under section 7 or 8,
+
 (a) respecting fences and signs;
+
 (b) requiring persons to clear away and remove snow and ice from land;
+
 (c) requiring persons to remove debris from land they own or occupy or from other private or public land;
+
 (d) requiring persons to cut and remove long grass and weeds, as defined in the by-law, from land they own or occupy or from highways abutting the land;
+
 (e) prescribing standards to protect against entry into vacant buildings, as defined in the Building Code Act, 1992, or to detect and signal the presence of a person in a vacant building;
+
 (f) authorizing front yard parking;
+
 (g) requiring owners or persons in charge of any premises to remove decayed, damaged or dangerous trees or branches that pose a danger to persons or property;
+
 (h) providing for any project or undertaking designed to provide housing accommodation in the City, including any public space or recreational, institutional, commercial or industrial facilities or buildings that, in the opinion of the City, may be reasonably necessary for that purpose; or
+
 (i) respecting such other matters as may be prescribed by the Minister of Municipal Affairs and Housing.
 
 ### Exception
@@ -299,9 +401,13 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### Restrictions, corporate and financial matters
 
 13 Sections 7 and 8 do not authorize the City to do any of the following:
+
 1. Impose any type of tax, including taxes under any Part of this Act.
+
 2. Make a grant or loan.
+
 3. Become a bankrupt under the Bankruptcy and Insolvency Act (Canada).
+
 4. As an insolvent person, make an assignment for the general benefit of creditors under section 49 of the Bankruptcy and Insolvency Act (Canada) or make a proposal under section 50 of that Act.
 
 ### Restriction re monopolies
@@ -315,14 +421,23 @@ The Assembly recognizes that it is in the interests of the Province that the Cit
 ### Exception, services
 
 (2) The City may exercise its powers to provide a municipal system for the provision of a service or thing in an area in another municipality or in unorganized territory if one of the purposes for so acting is for its own purposes and if one of the following conditions applies:
+
 1. The service or thing is provided only to inhabitants of the City.
+
 2. The other municipality is a single-tier municipality and the service or thing is provided with its consent.
+
 3. The other municipality is a lower-tier municipality and the service or thing is provided with the consent of,
+
 i. the lower-tier municipality, if it has jurisdiction to provide the service or thing in the area,
+
 ii. its upper-tier municipality, if it has that jurisdiction, or
+
 iii. both the lower-tier municipality and its upper-tier municipality, if they both have that jurisdiction.
+
 4. The service or thing is provided in unorganized territory,
+
 i. with the consent of a local body that has jurisdiction to provide the service or thing in the area, or
+
 ii. with the consent of the person who receives the service or thing, if no local body has jurisdiction.
 
 ### Same
@@ -336,6 +451,7 @@ ii. with the consent of the person who receives the service or thing, if no loca
 ### Definition
 
 (5) In subsection (2),
+
 “local body” means a local services board, local roads board, school board, district social services administration board, board of health and any other board, commission, body or local authority exercising any power with respect to municipal affairs or purposes in unorganized territory.
 
 ### Agreements
@@ -381,28 +497,43 @@ ii. with the consent of the person who receives the service or thing, if no loca
 ### Scope of power
 
 (2) The following rules apply to a by-law delegating any of the City’s powers or duties:
+
 1. A delegation may be revoked at any time without notice unless the delegation by-law specifically limits the City’s power to revoke the delegation.
+
 2. A delegation shall not limit the right to revoke the delegation beyond the term of the council which made the delegation.
+
 3. A delegation may provide that only the delegate can exercise the delegated power or that both the City and the delegate can exercise the power.
+
 4. A delegation or deemed delegation under paragraph 6 of a duty results in the duty being a joint duty of the City and the delegate.
+
 5. A delegation may be made subject to such conditions and limits as City council considers appropriate.
+
 6. Where a power is delegated, the power is deemed to be delegated subject to any limits on the power and to any procedural requirements, including conditions, approvals and appeals which apply to the power and any duties related to the power are deemed to be delegated with the power.
 
 ### Same
 
 (3) The conditions and limits referred to in paragraph 5 of subsection (2) may include such matters as the following:
+
 1. A requirement that the delegate act by by-law, resolution or otherwise, despite subsection 132 (3).
+
 2. Procedures that the delegate is required to follow.
+
 3. The accountability of the delegate and the transparency of the delegate’s actions and decisions.
 
 ### Restriction re: delegation of legislative and quasi-judicial powers
 
 21 (1) Sections 7 and 8 do not authorize the City to delegate legislative and quasi-judicial powers under any Act except those listed in subsection (2) and the legislative and quasi-judicial powers under the listed Acts may be delegated only to,
+
 (a) one or more members of city council or a council committee;
+
 (b) a body having at least two members of whom at least 50 per cent are,
+
 (i) members of city council,
+
 (ii) individuals appointed by city council,
+
 (iii) a combination of individuals described in subclauses (i) and (ii); or
+
 (c) an individual who is an officer, employee or agent of the City.
 
 ### Listed Acts
@@ -420,24 +551,39 @@ ii. with the consent of the person who receives the service or thing, if no loca
 ### Same
 
 (5) Without limiting subsection (4), the following are examples of powers considered to be of a minor nature:
+
 1. The power to close a highway temporarily.
+
 2. The power to issue and impose conditions on a licence.
+
 3. The powers of city council that are described in the following provisions of the old Municipal Act, as those provisions read on December 31, 2002:
+
 i. Paragraphs 107, 108, 109 and 110 of section 210.
+
 ii. Paragraph 3 of section 308.
+
 iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 
 ### Powers that cannot be delegated
 
 22 (1) Sections 7 and 8 do not authorize the City to delegate any of the following powers and duties:
+
 1. The power to appoint or remove from office an officer of the City whose appointment is required by this Act.
+
 2. The power to pass a by-law under section 267 and Parts XI, XII, XII.1 and XIII.
+
 3. The power to incorporate corporations in accordance with section 148.
+
 4. The power to adopt an official plan or an amendment to an official plan under the Planning Act.
+
 5. The power to pass a zoning by-law under the Planning Act, except as provided under section 39.2 of that Act.
+
 6. The power to pass a by-law in accordance with subsections 84 (1) and (2) and 252 (3), (6), (7) and (7.1).
+
 7. The power to adopt a community improvement plan under section 28 of the Planning Act, if the plan includes provisions that authorize the exercise of any power under subsection 28 (6) or (7) of that Act or under section 333 of this Act.
+
 8. The power to adopt or amend the budget of the City.
+
 9. Any other power or duty that may be prescribed.
 
 ### Exception
@@ -451,8 +597,11 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Limitation
 
 (2) If a municipal service or activity is under the control and management of a city board, nothing in this Act or a by-law made under this Act,
+
 (a) authorizes the city board to provide for the financing of the municipal service or activity otherwise than by fees and charges under Part IX (Fees and Charges) unless the city board has the consent of the City to do so;
+
 (b) removes from the City its power to finance the capital and operating costs of providing the service or activity as if the City had control and management of the service or activity; or
+
 (c) removes from the City its power to deal with real and personal property in connection with the service or activity as if the City had control and management of the service or activity.
 
 ### Delegation re hearings
@@ -468,22 +617,31 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Rules re effect of delegation
 
 (3) If the City delegates a power or duty as described in subsection (2) but does not delegate the power to make the decision or take the step, the following rules apply:
+
 1. If the person or body holds the hearing or provides the opportunity to be heard, the City is not required to do so.
+
 2. If the decision or step constitutes the exercise of a statutory power of decision to which the Statutory Powers Procedure Act applies, that Act, except sections 17, 17.1, 18 and 19, applies to the person or body and to the hearing conducted by the person or body.
 
 ### Community councils
 
 24.1 (1) Without limiting sections 7 and 8, those sections authorize the City to establish one or more community councils which are responsible for,
+
 (a) exercising the powers and duties that have been delegated to the community council by the City with respect to matters relating to all or part of the City; and
+
 (b) performing the functions assigned to the community council by the City with respect to matters relating to all or part of the City, which may include the function of making recommendations to council on any matter, such as the budget.
 
 ### Composition of community council
 
 (2) A community council may include,
+
 (a) a council committee; or
+
 (b) a body having at least two members that is composed of,
+
 (i) one or more members of council,
+
 (ii) individuals appointed by council, or
+
 (iii) a combination of individuals described in subclauses (i) and (ii).
 
 ### Regulations
@@ -515,9 +673,13 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Same
 
 (2) Subsection (1) applies to an undertaking that entails,
+
 (a) the development or redevelopment of a building, structure or part of a building or structure, where,
+
 (i) the development or redevelopment is funded in part pursuant to a funding agreement entered into by the Ministry of Labour, Immigration, Training and Skills Development, and
+
 (ii) the building, structure or part of the building or structure is to be used for training or skills development purposes agreed to in the funding agreement; or
+
 (b) the use of a building, structure or part of a building or structure referred to in clause (a), or the use of the parcel of land on which the building or structure is located, for training or skills development purposes agreed to in the funding agreement.
 
 ### Same
@@ -563,8 +725,11 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Regulations re delegation
 
 28 The Minister of Municipal Affairs and Housing may make regulations,
+
 (a) restricting or imposing conditions on the power of the City to delegate its powers and duties;
+
 (b) prescribing Acts for the purposes of subsection 21 (2);
+
 (c) prescribing powers and duties for the purposes of paragraph 9 of section 22.
 
 ## part III General Powers: limits and additions
@@ -574,7 +739,9 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Definitions
 
 29 In sections 30 to 55,
+
 “bridge” means a public bridge forming part of a highway or on, over or across which a highway passes; (“pont”)
+
 “provincial highway” means a highway under the jurisdiction of the Crown in right of Ontario. (“voie publique provinciale”)
 
 ### Provincial highways
@@ -584,9 +751,13 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### What constitutes highway
 
 31 The following are highways unless they have been closed:
+
 1. All highways of the City that existed on the day before this section comes into force.
+
 2. All highways established by city by-law on or after January 1, 2003.
+
 3. All highways transferred to the City under the Public Transportation and Highway Improvement Act.
+
 4. All road allowances, highways, streets and lanes shown on a registered plan of subdivision in the City.
 
 ### By-laws
@@ -600,9 +771,13 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Jurisdiction re highways
 
 33 Except as otherwise provided in this Act or under section 8 of the Public Transportation and Highway Improvement Act or in a by-law passed under this Act, the City has jurisdiction or joint jurisdiction, as the case may be, over the following highways:
+
 1. All highways over which the City had jurisdiction or joint jurisdiction the day before this section comes into force.
+
 2. All highways established by city by-law on or after January 1, 2003.
+
 3. All highways transferred to the City under the Public Transportation and Highway Improvement Act or any other Act.
+
 4. All road allowances, highways, streets and lanes shown on a registered plan of subdivision.
 
 ### Boundary lines
@@ -642,7 +817,9 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Exclusion
 
 (3) Section 42 does not apply to the following highways until the City has passed a by-law assuming the highway for public use:
+
 1. An unopened road allowance made by the Crown surveyors.
+
 2. A road allowance, highway, street or lane shown on a registered plan of subdivision.
 
 ### Other exclusions
@@ -660,12 +837,15 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Consent
 
 (2) A city by-law permanently closing a highway shall not be passed without the consent of the Government of Canada if the highway,
+
 (a) abuts on land, including land covered by water, owned by the Crown in right of Canada; or
+
 (b) leads to or abuts on a bridge, wharf, dock, quay or other work owned by the Crown in right of Canada.
 
 ### Removing and restricting common law right of passage
 
 39 (1) Without limiting sections 7 and 8, those sections authorize the City to remove or restrict the common law right of passage by the public over a highway and the common law right of access to the highway by an owner of land abutting a highway.
+
 (2) Repealed: 2006, c. 32, Sched. B, s. 9.
 
 ### Conveyance of closed highway
@@ -691,14 +871,19 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Defence
 
 (3) Despite subsection (2), the City is not liable for failing to keep a highway or bridge in a reasonable state of repair if,
+
 (a) the City did not know and could not reasonably have been expected to have known about the state of repair of the highway or bridge;
+
 (b) the City took reasonable steps to prevent the default from arising; or
+
 (c) at the time the cause of action arose, minimum standards established by a regulation made under section 117 applied to the highway or bridge and to the alleged default and those standards have been met.
 
 ### Untravelled portions of highway
 
 (4) No action shall be brought against the City for damages caused by,
+
 (a) the presence, absence or insufficiency of any wall, fence, rail or barrier along or on any highway; or
+
 (b) any construction, obstruction or erection, or any siting or arrangement of any earth, rock, tree or other material or object adjacent to or on any untravelled portion of a highway, whether or not an obstruction is created due to the construction, siting or arrangement.
 
 ### Sidewalks
@@ -708,7 +893,9 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Notice
 
 (6) No action shall be brought for the recovery of damages under subsection (2) unless, within 10 days after the occurrence of the injury, written notice of the claim and of the injury complained of, including the date, time and location of the occurrence, has been served upon or sent by registered mail to,
+
 (a) the city clerk; or
+
 (b) if the claim is against the City and one or more municipalities jointly responsible for the repair of the highway or bridge, the city clerk and the clerk of each of the other municipalities.
 
 ### Exception
@@ -722,7 +909,9 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### No responsibility for acts of others
 
 (9) Nothing in this section imposes any obligation or liability on the City for an act or omission of a person acting under a power conferred by law over which the City had no control unless,
+
 (a) the City participated in the act or omission; or
+
 (b) the power under which the person acted was a by-law, resolution or licence of the City.
 
 ### No liability
@@ -772,7 +961,9 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Entry on land, tree trimming
 
 49 (1) The City may, at any reasonable time, enter upon land lying along any of its highways,
+
 (a) to inspect trees and conduct tests on trees; and
+
 (b) to remove decayed, damaged or dangerous trees or branches of trees if, in the opinion of the City, the trees or branches pose a danger to the health or safety of any person using the highway.
 
 ### Immediate danger
@@ -786,7 +977,9 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Order
 
 (2) Upon application by the City under subsection (1), the judge may make an order, subject to the payment of such compensation to the owner or other conditions as the judge may fix,
+
 (a) requiring the owner of the land to remove or alter the vegetation, building or object in respect of which the application is made; or
+
 (b) authorizing the City to enter upon the land, upon such notice to the owner as the judge may fix, to remove or alter the vegetation, building or object.
 
 ### Impounding of objects, vehicles on highway
@@ -832,7 +1025,9 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Highways not opened on original road allowance
 
 53 (1) If, before January 1, 2003, a highway was opened by the City on land in the place of all or part of an original road allowance and compensation was not paid for the land, the owner of the land appropriated for the highway or the successor in title to the owner is entitled to the following:
+
 1. If that person owns the land abutting on the allowance, the owner is entitled to the soil and freehold of the original road allowance and to a conveyance of the original road allowance.
+
 2. If that person does not own the land abutting on the allowance and if the allowance is sold by the City, the owner is entitled to the part of the purchase price that bears the same proportion to the whole purchase price as the value of the part of the land occupied by the highway that belonged to the owner bears to the value of the land occupied by the highway.
 
 ### Multiple owners
@@ -864,17 +1059,25 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Passenger transportation systems
 
 56 (1) This section applies to passenger transportation systems other than the following:
+
 1. Vehicles used for sightseeing tours.
+
 2. Vehicles exclusively chartered to transport a group of persons for a specific trip within the municipality for a group fee.
+
 3. Buses used to transport pupils, including buses owned and operated by, or operated under a contract with, a school board, and private school.
+
 4. Buses owned and operated by a corporation or organization solely for its own purposes without charging a fee for transportation.
+
 5. Taxicabs.
+
 6. Railway systems of railway companies incorporated under federal or provincial statutes.
 
 ### Same
 
 (2) The City may,
+
 (a) by by-law provide that no person except the City shall establish, operate and maintain within the City all or any part of a passenger transportation system of a type that the City is authorized to provide; and
+
 (b) despite section 82 and any by-law under clause (a), enter into an agreement granting a person the exclusive or non-exclusive right to establish, operate or maintain within the City all or any part of a passenger transportation system of a type that the City is authorized to provide, and to do so under such conditions as the City provides, including a condition that the City pay any deficit incurred by the person in establishing, operating or maintaining the system.
 
 ### Deficit
@@ -884,6 +1087,7 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Rights unaffected
 
 (4) Nothing in this section prevents a person from establishing, operating or maintaining a passenger transportation system that is used to convey passengers or passengers and property through an area designated under subsection (2) from a point within the designated area to a point outside the designated area or from a point outside the designated area to a point inside the designated area.
+
 (5) Repealed: 2020, c. 34, Sched. 23, s. 5 (1).
 
 ### Toronto Islands, ferry service
@@ -941,7 +1145,9 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Entry on land served by public utility
 
 64 (1) The City may, at reasonable times, enter on land to which it supplies a public utility,
+
 (a) to inspect, repair, alter or disconnect the service pipe or wire, machinery, equipment and other works used to supply the public utility; or
+
 (b) to inspect, install, repair, replace or alter a public utility meter.
 
 ### Reduced supply
@@ -951,8 +1157,11 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Entry on land, discontinuance of utility
 
 (3) If a customer discontinues the use of a public utility on land or the City lawfully decides to cease supplying the public utility to land, the City may enter on the land,
+
 (a) to shut off the supply of the public utility;
+
 (b) to remove any property of the City; or
+
 (c) to determine whether the public utility has been or is being unlawfully used.
 
 ### Shut-off of public utility
@@ -990,15 +1199,21 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Exemption from seizure
 
 68 Personal property of the City which is used for or in connection with the supply of a public utility to land is exempt from seizure,
+
 (a) against the owner or occupant of the land under the Execution Act; and
+
 (b) against a person with a leasehold interest in the land for overdue rent.
 
 ### Mandatory supply
 
 69 (1) Despite section 15, the City shall supply a building with a water or sewage public utility if,
+
 (a) the building lies along a supply line of the City for the public utility;
+
 (b) in the case of a water public utility, there is a sufficient supply of water for the building;
+
 (c) in the case of a sewage public utility, there is sufficient capacity for handling sewage from the building; and
+
 (d) the owner, occupant or other person in charge of the building requests the supply in writing.
 
 ### Exception
@@ -1008,10 +1223,15 @@ iii. Subsection 312 (2) and clauses 312 (4) (a) and (b).
 ### Water supply and sewage capacity
 
 69.1 (1) Without limiting sections 7 and 8, the City may, by by-law, adopt a policy providing for the allocation of water supply and sewage capacity, which may include the following:
+
 1. A system for tracking the water supply and sewage capacity available to support approved developments.
+
 2. The criteria used to determine,
+
 i. the circumstances for when allocation of water supply and sewage capacity is assigned to an approved development,
+
 ii. the circumstances for when the allocation of water supply and sewage capacity is withdrawn, and
+
 iii. the circumstances for when an approved development, after having its allocation of water supply and sewage capacity withdrawn, may be reallocated water supply and sewage capacity.
 
 ### Same
@@ -1033,6 +1253,7 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Definition
 
 (6) In this section,
+
 “approved development” means a development application which has been given approval under the Planning Act.
 
 ### Entry on land re sewage systems
@@ -1056,6 +1277,7 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Definition
 
 72 (1) In this section,
+
 “public utility” includes a street lighting system and a transportation system.
 
 ### Easement
@@ -1069,7 +1291,9 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Interference with utilities
 
 (4) No person shall interfere with a part of the city public utility for which there is no city public utility easement unless,
+
 (a) the City consents; or
+
 (b) the interference is authorized by a court order under this section.
 
 ### Court orders with respect to utilities
@@ -1117,7 +1341,9 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Removal and impounding of vehicles, etc., in parks
 
 74.1 (1) Subject to subsection (2), this section applies if a by-law of the City has been passed for prohibiting the parking, standing, stopping or placing in a park under the jurisdiction of the City of any object or vehicle that is used to sell or display anything and that obstructs pedestrians, unless,
+
 (a) the owner of the object or vehicle holds a valid permit issued by the City granting the exclusive use of a designated area within the park; and
+
 (b) the by-law or another by-law of the City has designated the park or the area of the park as a removal zone.
 
 ### Signs required
@@ -1179,8 +1405,11 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Evidence re enforcement of parking by-laws
 
 79 (1) If it is alleged in a proceeding that a by-law under section 77 or 78 has been contravened, the oral or written evidence of a police officer, police cadet or municipal law enforcement officer is receivable in evidence as proof, in the absence of evidence to the contrary, of the facts stated in it in respect of,
+
 (a) the ownership or occupancy of the land;
+
 (b) the absence of the consent of the owner or occupant; and
+
 (c) whether any person is an occupant or is an owner.
 
 ### No notice
@@ -1194,7 +1423,9 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Same
 
 (2) If the City passes a by-law requiring the owners or operators of parking lots or other parking facilities to which the public has access, whether on payment of a fee or otherwise, to provide designated parking spaces for motor vehicles displaying an accessible parking permit, the City,
+
 (a) shall prescribe the conditions of use of the accessible parking permit and shall prohibit the improper use of the permit; and
+
 (b) despite section 78, may provide for the removal and impounding of any motor vehicle, at its owner’s expense, parked or left in contravention of the by-law and subsection 170 (15) of the Highway Traffic Act applies with necessary modifications to the by-law.
 
 ### Administrative penalties, parking by-laws
@@ -1214,9 +1445,13 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Same
 
 (2) Without limiting subsection (1), the City shall not grant assistance by,
+
 (a) giving or lending any property of the City, including money;
+
 (b) guaranteeing borrowing;
+
 (c) leasing or selling any property of the City at below fair market value; or
+
 (d) giving a total or partial exemption from any levy, charge or fee.
 
 ### Exception
@@ -1226,8 +1461,11 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Authority to grant assistance
 
 82.1 (1) If the Lieutenant Governor in Council considers that, despite section 82, it is necessary or desirable in the provincial interest to attract investment in Ontario, the Lieutenant Governor in Council may make regulations authorizing the City to grant assistance, directly or indirectly, to a specified manufacturing business or other industrial or commercial enterprise during a specified period, and governing the granting of the assistance, including,
+
 (a) setting out the types of assistance that may be granted;
+
 (b) imposing restrictions, limits or conditions on the granting of the assistance, including providing that specified assistance may only be granted with respect to specified areas within the City; and
+
 (c) specifying conditions that must be met before the assistance may be granted.
 
 ### Regulation prevails
@@ -1245,11 +1483,17 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Loans, guarantees, etc.
 
 (2) The power to make a grant includes the power,
+
 (a) to guarantee a loan and to make a grant by way of loan and to charge interest on the loan;
+
 (b) to sell or lease land for nominal consideration or to make a grant of land;
+
 (c) to provide for the use by any person of land owned or occupied by the City upon such terms as may be fixed by council;
+
 (d) to provide for the use of officers, employees or agents of the City by any person, upon such terms as may be fixed by council;
+
 (e) to sell, lease or otherwise dispose of at a nominal price, or make a grant of, any personal property of the City or to provide for the use of the personal property on such terms as may be fixed by council; and
+
 (f) to make donations of foodstuffs and merchandise purchased by the City for that purpose.
 
 ### Small business counselling
@@ -1259,19 +1503,29 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Small business programs
 
 (2) Without limiting sections 7 and 8, those sections authorize the City to do the following things in order to encourage the establishment and initial growth of small businesses or any class of them in the City:
+
 1. To establish and maintain programs for that purpose.
+
 2. To participate in programs administered by the Crown in right of Ontario.
 
 ### Permitted actions
 
 (3) Without limiting sections 7 and 8, those sections authorize the City to do the following for the purposes of a program referred to in subsection (2):
+
 1. To acquire land and erect and improve buildings and structures in order to provide leased premises for eligible small businesses or for a corporation described in paragraph 4.
+
 2. Despite section 82, to make grants to corporations described in paragraph 4.
+
 3. To lease land to small businesses included in a program.
+
 4. To enter into leases of land and other agreements related to the program with a corporation without share capital established by the City in accordance with section 148 for the purposes of encouraging the establishment and initial growth of small businesses or any class of them in the City.
+
 5. To sell, lease or otherwise dispose of any personal property of the City to an eligible small business or to a corporation described in paragraph 4 or provide for the use of such property by the small business or corporation.
+
 6. To provide for the use of the services of any city employee by an eligible small business or by a corporation described in paragraph 4.
+
 7. To establish a city board under this Act to administer a program or to administer the City’s participation in a program referred to in subsection (2).
+
 8. To appoint one or more of the directors of a corporation described in paragraph 4.
 
 ### Grant includes loans
@@ -1303,41 +1557,61 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Definition
 
 85 In sections 86 to 96,
+
 “business” means any business wholly or partly carried on within the City even if the business is being carried on from a location outside the City and includes,
+
 (a) trades and occupations,
+
 (b) exhibitions, concerts, festivals and other organized public amusements held for profit or otherwise,
+
 (c) the sale or hire of goods or services on an intermittent or one-time basis and the activities of a transient trader,
+
 (d) the display of samples, patterns or specimens of goods for the purpose of sale or hire.
 
 ### Powers re licences
 
 86 (1) Without limiting sections 7 and 8, those sections authorize the City to provide for a system of licences with respect to a business and,
+
 (a) to prohibit the carrying on or engaging in the business without a licence;
+
 (b) to refuse to grant a licence or to revoke or suspend a licence;
+
 (c) to impose conditions as a requirement of obtaining, continuing to hold or renewing a licence;
+
 (d) to impose special conditions on a business in a class that have not been imposed on all of the businesses in that class in order to obtain, continue to hold or renew a licence;
+
 (e) to impose conditions, including special conditions, as a requirement of continuing to hold a licence at any time during the term of the licence; and
+
 (f) to license, regulate or govern real and personal property used for the business and the persons carrying it on or engaged in it.
+
 (g) Repealed: 2017, c. 10, Sched. 2, s. 5 (1).
 
 ### Power to suspend a licence
 
 (2) Without limiting sections 7 and 8, for the purpose of clause (1) (b), if the City is satisfied that the continuation of a business poses an immediate danger to the health or safety of any person or to any property, the City may, for the time and on such conditions as it considers appropriate, without a hearing, suspend a licence subject to the following:
+
 1. Before suspending the licence, the City shall provide the licensee with the reasons for the suspension, either orally or in writing, and an opportunity to respond to them.
+
 2. The suspension shall not exceed 14 days.
 
 ### Same
 
 (3) Despite subsection (2) and without limiting sections 7 and 8, for the purpose of clause (1) (b), the City may, on such conditions as it considers appropriate, without a hearing, suspend a licence authorizing a business to operate on a highway or other property of the City or its local boards, for a period not exceeding 28 days for the following reasons:
+
 1. The holding of a special event.
+
 2. The construction, maintenance or repair of the property.
+
 3. The installation, maintenance or repair of a public utility or service.
+
 4. Pedestrian, vehicular or public safety or public health.
 
 ### Exercise of power
 
 (4) The exercise of a power under clause (1), (b), (d) or (e) is in the discretion of the City, and the City shall exercise its discretion,
+
 (a) upon such grounds as are set out by by-law; or
+
 (b) upon the grounds that the conduct of any person, including the officers, directors, employees or agents of a corporation, affords reasonable cause to believe that the person will not carry on or engage in the business in accordance with the law or with honesty and integrity.
 
 ### Application re system of licences
@@ -1355,8 +1629,11 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Restriction re systems of licences
 
 89 (1) The City shall not, under paragraph 11 of subsection 8 (2), provide for a system of licences which makes it illegal for a business listed below to carry on or engage in the business without a licence:
+
 1. A manufacturing or an industrial business, except to the extent that it sells its products or raw material by retail.
+
 2. The sale of goods by wholesale.
+
 3. The generation, exploitation, extraction, harvesting, processing, renewal or transportation of natural resources.
 
 ### Same
@@ -1386,13 +1663,17 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Restrictions re adult entertainment establishments
 
 92 (1) Without limiting sections 7 and 8, a by-law under those sections with respect to adult entertainment establishments may,
+
 (a) despite section 90, define the area of the City in which adult entertainment establishments may or may not operate and limit the number of adult entertainment establishments in any defined area in which they are permitted;
+
 (b) prohibit any person carrying on or engaged in an adult entertainment establishment business from permitting any person under the age of 18 years to enter or remain in the adult entertainment establishment or any part of it.
 
 ### Premises
 
 (2) Any premises or any part of them is an adult entertainment establishment if, in the pursuance of a business,
+
 (a) goods, entertainment or services that are designed to appeal to erotic or sexual appetites or inclinations are provided in the premises or part of the premises; or
+
 (b) body-rubs, including the kneading, manipulating, rubbing, massaging, touching or stimulating by any means of a person’s body, are performed, offered or solicited in the premises or part of the premises, but does not include premises or part of them where body-rubs performed, offered or solicited are for the purpose of medical or therapeutic treatment and are performed or offered by persons otherwise duly qualified, licensed or registered to do so under a statute of Ontario.
 
 ### Power of entry
@@ -1414,25 +1695,33 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Definition
 
 (3) In this section,
+
 “payday loan establishment” means any premises or any part of them in respect of which a licensee within the meaning of the Payday Loans Act, 2008 may operate a business pursuant to a licence issued under that Act.
 
 ### Licensing - vehicles, other than motor vehicles, for hire
 
 93 Without limiting sections 7 and 8, a by-law under those sections with respect to owners and drivers of vehicles, other than motor vehicles, used for hire, may,
+
 (a) establish the rates or fares to be charged for the conveyance of property or passengers either wholly within the City or from any point in the City to any point outside the City; and
+
 (b) provide for the collection of the rates or fares charged for the conveyance.
 
 ### Licensing taxicabs
 
 94 (1) Without limiting sections 7 and 8, a by-law under those sections with respect to the owners and drivers of taxicabs may,
+
 (a) establish the rates or fares to be charged for the conveyance of property or passengers either wholly within the City or from any point in the City to any point outside the City;
+
 (b) provide for the collection of the rates or fares charged for the conveyance; and
+
 (c) limit the number of taxicabs or any class of them.
 
 ### Restriction
 
 (2) A by-law made under paragraph 11 of subsection 8 (2) with respect to the owners and drivers of taxicabs is void to the extent that it restricts, limits or prevents the owners and drivers of taxicabs from engaging in conveyances that meet both of the following criteria:
+
 1. The purpose of the conveyance is to transport persons with physical, emotional or mental disabilities from any point in the City to any point outside the City.
+
 2. The conveyance is made pursuant to a written contract for the use of a taxicab which can legally operate in the municipality in which the conveyance begins or ends.
 
 ### Restrictions re trailers and trailer camps
@@ -1446,6 +1735,7 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Definition
 
 (3) In this section,
+
 “trailer camp” means any land on which a trailer is kept.
 
 ### Restrictions re group homes
@@ -1455,7 +1745,9 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Same
 
 (2) A by-law under paragraph 11 of subsection 8 (2) providing for a system of licences for group homes may prohibit a person from carrying on the business of a group home without a licence and may provide for the following conditions, but shall not provide for any additional conditions concerning the operation of the group home:
+
 1. The by-law may require the payment of licence fees.
+
 2. The by-law may require a licensee or an applicant for a licence to give the City such information as the City considers appropriate concerning the business name, ownership and method of contacting the licensee or applicant.
 
 ### Closing of Business Establishments
@@ -1471,8 +1763,11 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Exemptions
 
 (3) The by-law does not apply to the sale or offering for sale by retail of,
+
 (a) goods or services in the form of or in connection with prepared meals or living accommodation;
+
 (a.1) liquor, other than liquor sold at a retail store as defined in the Liquor Licence and Control Act, 2019; and
+
 (b) any other prescribed goods or services.
 
 ### Limits — Family Day and Victoria Day
@@ -1500,7 +1795,9 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Scope of by-law
 
 (4) The by-law may,
+
 (a) define “public place” for the purpose of the by-law;
+
 (b) require the owner or occupier of a public place, the employer of a workplace, other than a public transportation vehicle and a taxicab, or the owner or operator of a public transportation vehicle or a taxicab to ensure compliance with the by-law.
 
 ### Conflicts
@@ -1510,12 +1807,15 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Definitions
 
 (6) In this section,
+
 “workplace” includes a public transportation vehicle and a taxicab. (“lieu de travail”)
 
 ### Application
 
 (7) For greater certainty, a reference in this section to the smoking of tobacco or cannabis includes,
+
 (a) the holding of lighted tobacco or cannabis; and
+
 (b) the consumption of tobacco or cannabis through the use of an electronic cigarette.
 
 ### Entry on land re emergency communication system
@@ -1533,10 +1833,15 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Conditions
 
 (2) The following apply to a power of entry under a by-law under this section:
+
 1. The power of entry may be exercised by an employee or agent of the owner or occupant of land.
+
 2. A person exercising the power of entry must display or, on request, produce proper identification.
+
 3. Nothing in a by-law under this section authorizes entry into a building.
+
 4. The owner or occupant shall provide reasonable notice of the proposed entry to the occupier of the adjoining land.
+
 5. The owner or occupant of land shall, in so far as is practicable, restore the adjoining land to its original condition and shall provide compensation for any damages caused by the entry or by anything done on the adjoining land.
 
 ### Entry on land re maintenance, repairs or alterations
@@ -1550,13 +1855,17 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Fortification of land
 
 102 (1) This section applies to a city by-law,
+
 (a) regulating in respect of the fortification of and protective elements applied to land in relation to the use of the land; and
+
 (b) prohibiting the excessive fortification of land or excessive protective elements being applied to land in relation to the use of the land.
 
 ### Definitions
 
 (2) In this section,
+
 “land” means land, including buildings, mobile homes, mobile buildings, mobile structures, outbuildings, fences, erections, physical barriers and any other structure on the land or on or in any structure on the land; (“bien-fonds”)
+
 “protective elements” include surveillance equipment. (“éléments protecteurs”)
 
 ### By-law and building code
@@ -1588,40 +1897,63 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Exception from by-law
 
 (3) The by-law does not apply to,
+
 (a) activities or matters undertaken under a licence issued under the Crown Forest Sustainability Act, 1994;
+
 (b) the injuring or destruction of trees by a person licensed under the Surveyors Act to engage in the practice of cadastral surveying or his or her agent, while making a survey;
+
 (c) the injuring or destruction of trees imposed after December 31, 2002 as a condition to the approval of a site plan, a plan of subdivision or a consent under section 41, 51 or 53, respectively, of the Planning Act or as a requirement of a site plan agreement or subdivision agreement entered into under those sections;
+
 (c.1) the injuring or destruction of trees imposed under subsection 114 (11) as a condition to the approval of plans or drawings for a site plan control area;
+
 (d) the injuring or destruction of trees imposed after December 31, 2002 as a condition to a development permit authorized by regulation made under section 70.2 of the Planning Act or as a requirement of an agreement entered into under the regulation;
+
 (e) the injuring or destruction of trees by a transmitter or distributor, as those terms are defined in section 2 of the Electricity Act, 1998, for the purpose of constructing and maintaining a transmission system or a distribution system, as those terms are defined in that section;
+
 (f) the injuring or destruction of trees undertaken on land described in a licence for a pit or quarry or a permit for a wayside pit or wayside quarry issued under the Aggregate Resources Act; or
+
 (g) the injuring or destruction of trees undertaken on land in order to lawfully establish and operate or enlarge any pit or quarry on land,
+
 (i) that has not been designated under the Aggregate Resources Act or a predecessor of that Act, and
+
 (ii) on which a pit or quarry is a permitted land use under a by-law passed under section 34 of the Planning Act.
 
 ### Definition
 
 (4) In this section,
+
 “woodlands” means woodlands as defined in the Forestry Act that are one hectare or more in area.
 
 ### Site alteration
 
 105 (1) This section applies to a city by-law with respect to prohibiting or regulating,
+
 (a) the placing or dumping of fill;
+
 (b) the removal of topsoil; or
+
 (c) the alteration of the grade of land.
 
 ### Exemptions
 
 (2) The by-law does not apply to,
+
 (a) the placing or dumping of fill, removal of topsoil or alteration of the grade of land imposed after December 31, 2002 as a condition to the approval of a site plan, a plan of subdivision or a consent under section 41, 51 or 53, respectively, of the Planning Act or as a requirement of a site plan agreement or subdivision agreement entered into under those sections;
+
 (a.1) the placing or dumping of fill, removal of topsoil or alteration of the grade of land imposed under subsection 114 (11) as a condition to the approval of plans or drawings for a site plan control area;
+
 (b) the placing or dumping of fill, removal of topsoil or alteration of the grade of land imposed after December 31, 2002 as a condition to a development permit authorized by regulation made under section 70.2 of the Planning Act or as a requirement of an agreement entered into under that regulation;
+
 (c) the placing or dumping of fill, removal of topsoil or alteration of the grade of land undertaken by a transmitter or distributor, as those terms are defined in section 2 of the Electricity Act, 1998, for the purpose of constructing and maintaining a transmission system or a distribution system, as those terms are defined in that section;
+
 (d) the placing or dumping of fill, removal of topsoil or alteration of the grade of land undertaken on land described in a licence for a pit or quarry or a permit for a wayside pit or wayside quarry issued under the Aggregate Resources Act;
+
 (e) the placing or dumping of fill, removal of topsoil or alteration of the grade of land undertaken on land in order to lawfully establish and operate or enlarge any pit or quarry on land,
+
 (i) that has not been designated under the Aggregate Resources Act or a predecessor of that Act, and
+
 (ii) on which a pit or quarry is a permitted land use under a by-law passed under section 34 of the Planning Act;
+
 (f) the placing or dumping of fill, removal of topsoil or alteration of the grade of land undertaken as an incidental part of drain construction under the Drainage Act or the Tile Drainage Act.
 
 ### Exceptions
@@ -1631,11 +1963,13 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Exclusion
 
 (4) The exception described in subsection (3) respecting the removal of topsoil as an incidental part of a normal agricultural practice does not include the removal of topsoil for sale, exchange or other disposition.
+
 (5) Repealed: 2017, c. 10, Sched. 2, s. 7.
 
 ### Definition
 
 (6) In this section,
+
 “topsoil” means those horizons in a soil profile, commonly known as the “O” and the “A” horizons, containing organic material and includes deposits of partially decomposed organic matter such as peat.
 
 ### Power of entry re: dangerous trees
@@ -1669,7 +2003,9 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Same
 
 (2) Subsection (1) applies to an agreement that the City has entered into with the owner of land, under a City by-law, as a condition of a consent to destroy trees or other natural vegetation on a ravine, to excavate, grade or otherwise alter in elevation or contour any ravine or to provide facilities for and methods of disposal of storm, surface and waste water from any ravine and from any buildings or structures on the ravine and that deals with,
+
 (a) walls, fences, hedges, trees, shrubs or other groundcover or facilities for the landscaping of the land of the owner or the protection of adjoining lands; or
+
 (b) grading or alteration in elevation or contour of the land of the owner and the provision of facilities for and methods of disposal of storm, surface and waste water from the land and from any building or structure on the land.
 
 ### Energy planning
@@ -1685,10 +2021,15 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Impounding animals
 
 106 If the City passes a by-law regulating or prohibiting with respect to the being at large or trespassing of animals, it may provide for,
+
 (a) the seizure and impounding of animals being at large or trespassing contrary to the by-law;
+
 (b) the sale of impounded animals,
+
 (i) if they are not claimed within a reasonable time,
+
 (ii) if the expenses of the City respecting the impounding of the animals are not paid, or
+
 (iii) at such time and in such manner as is provided in the by-law.
 
 ### Muzzling of dogs
@@ -1706,6 +2047,7 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Structures, Including Fences and Signs
 
 108 Repealed: 2006, c. 11, Sched. A, s. 108 (4).
+
 108.1 Repealed: 2026, c. 8, Sched. 1, s. 3.
 
 ### Non-application of Line Fences Act
@@ -1737,14 +2079,19 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Same
 
 (2) The power to pass a by-law respecting a matter described in subsection (1) includes the power,
+
 (a) to prohibit the demolition of residential rental properties without a permit;
+
 (b) to prohibit the conversion of residential rental properties to a purpose other than the purpose of a residential rental property without a permit; and
+
 (c) to impose conditions as a requirement of obtaining a permit.
 
 ### Agreements
 
 (2.1) If a condition referred to in clause (2) (c) requires an owner of land to which a by-law passed under this section applies to enter into an agreement with the City, the City may,
+
 (a) register the agreement against the title to the land to which it applies; and
+
 (b) enforce the agreement against the owner and any subsequent owners of the land.
 
 ### Restriction
@@ -1766,19 +2113,29 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Regulations
 
 (7) The Minister of Municipal Affairs and Housing may make regulations,
+
 (a) governing the powers of the City under this section, including regulations,
+
 (i) imposing restrictions, limits and conditions on the powers of the City to prohibit and regulate the demolition and conversion of residential rental properties,
+
 (ii) prescribing requirements to be contained in by-laws made under this section,
+
 (iii) prescribing conditions that the City must include as a requirement for obtaining a permit, and
+
 (iv) prescribing requirements that the City must impose on owners of land to which a by-law passed under this section applies;
+
 (b) authorizing the City to require an owner of land to which a by-law passed under this section applies to make payments and to provide compensation;
+
 (c) for the purposes of clause (b), prescribing the amounts to be paid, the compensation to be provided, the persons to whom payments and compensation shall be made and the circumstances in which payments and compensation shall be made, and otherwise governing the payments and compensation;
+
 (d) prescribing steps the City must take or conditions that must be met before passing a by-law under this section and governing any transitional matters with respect to the implementation of such conditions;
+
 (e) defining, for the purposes of this section and any regulations under this section, any word or expression not defined in subsection 3 (1) of this Act.
 
 ### Conflict
 
 (8) If there is a conflict between a regulation made under this section and a provision of this Act, other than this section, or of any other Act or regulation, the regulation made under this section prevails.
+
 112 Repealed: 2006, c. 32, Sched. B, s. 24.
 
 ### Zoning by-laws
@@ -1796,8 +2153,11 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Same
 
 (3) When a prescribed condition is imposed under subsection (2),
+
 (a) the City may require an owner of land to which the by-law applies to enter into an agreement with the City relating to the condition;
+
 (b) the agreement may be registered against the land to which it applies; and
+
 (c) the City may enforce the agreement against the owner and any and all subsequent owners of the land.
 
 ### Notice or public meeting not required
@@ -1809,7 +2169,9 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Definitions
 
 113.2 (1) In this section,
+
 “front yard” means that portion of private property located between the front wall of a residential building on the property and the abutting public highway; (“cour avant”)
+
 “front yard parking” means the parking of a private passenger motor vehicle or motorcycle in a front yard. (“stationnement en cour avant”)
 
 ### Conflict between by-laws
@@ -1821,6 +2183,7 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Definition
 
 114 (1) In this section,
+
 “development” means the construction, erection or placing of one or more buildings or structures on land or the making of an addition or alteration to a building or structure that has the effect of substantially increasing the size or usability thereof, or the laying out and establishment of a commercial parking lot or of sites for the location of three or more trailers or of sites for the location of three or more mobile homes as defined in subsection 46 (1) of the Planning Act or of sites for the construction, erection or location of three or more land lease community homes as defined in subsection 46 (1) of the Planning Act.
 
 ### Exception
@@ -1846,6 +2209,7 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Consultations
 
 (4) The City shall permit applicants to consult with the City before submitting plans and drawings for approval under subsection (5).
+
 (4.1) Repealed: 2024, c. 16, Sched. 4, s. 3 (1).
 
 ### Prescribed information
@@ -1859,7 +2223,9 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Refusal and timing
 
 (4.4) Until the City has received the plans and drawings referred to in subsection (5), the information and material required under subsections (4.2) and (4.3), if any, and any fee under section 69 of the Planning Act,
+
 (a) the City may refuse to accept or further consider the application; and
+
 (b) the time period referred to in subsection 114 (15) of this Act does not begin.
 
 ### Information and material prepared by prescribed professionals
@@ -1873,8 +2239,11 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Motion re dispute
 
 (4.6) At any time after the applicant has begun to consult with the City before submitting plans and drawings for approval under subsection (4) or after the applicant has paid any fee required under section 69 of the Planning Act, the applicant or the City may make a motion for directions to have the Ontario Land Tribunal determine,
+
 (a) whether the plans and drawings and the information and material have in fact been provided; or
+
 (b) whether a requirement made under subsection (4.3) is reasonable.
+
 (4.7) Repealed: 2024, c. 16, Sched. 4, s. 3 (2).
 
 ### Final determination
@@ -1884,13 +2253,21 @@ iii. the circumstances for when an approved development, after having its alloca
 ### Approval of plans or drawings
 
 (5) No person shall undertake any development in an area designated under subsection (2) unless the authorized person referred to in subsection (5.1) or, where an appeal has been made under subsection (15), the Ontario Land Tribunal has approved one or both, as the authorized person may determine, of the following:
+
 1. Plans showing the location of all buildings and structures to be erected and showing the location of all facilities and works to be provided in conjunction therewith and of all facilities and works required under clause (11) (a), including facilities designed to have regard for accessibility for persons with disabilities.
+
 2. Drawings showing plan, elevation and cross-section views for each building to be erected, except a building to be used for residential purposes containing fewer than 25 dwelling units, which drawings are sufficient to display,
+
 i. the massing and conceptual design of the proposed building,
+
 ii. the relationship of the proposed building to adjacent buildings, streets, and exterior areas to which members of the public have access,
+
 iii. the provision of interior walkways, stairs, elevators and escalators to which members of the public have access from streets, open spaces and interior walkways in adjacent buildings,
+
 iv. Repealed: 2026, c. 8, Sched. 1, s. 4 (1).
+
 v. the elements on any adjoining highway under the City’s jurisdiction, including trees, shrubs, hedges, plantings or other ground cover, paving materials, street furniture, curb ramps, waste and recycling containers and bicycle parking facilities, if an official plan and a by-law passed under subsection (2) that both contain provisions relating to such matters are in effect in the City, but only to the extent that such elements are necessary to address matters of health, safety, accessibility or the protection of adjoining lands, and
+
 vi. facilities designed to have regard for accessibility for persons with disabilities.
 
 ### Authorized person
@@ -1900,9 +2277,13 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Exclusions from site plan control
 
 (6) The following matters are not subject to site plan control:
+
 1. The interior design.
+
 1.1 Exterior design, except to the extent that it is a matter relating to exterior access to a building that will contain affordable housing units or to any part of such a building.
+
 2. The layout of interior areas, excluding interior walkways, stairs, elevators and escalators referred to in subparagraph 2 iii of subsection (5).
+
 3. The manner of construction and standards for construction.
 
 ### Same
@@ -1932,20 +2313,35 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Conditions to approval of plans
 
 (11) As a condition to the approval of the plans and drawings referred to in subsection (5), the City may require the owner of the land to,
+
 (a) provide to the satisfaction of and at no expense to the City any or all of the following:
+
 (i) subject to subsection (12), widenings of highways that abut on the land,
+
 (ii) facilities to provide access to and from the land such as access ramps and curbings and traffic direction signs,
+
 (iii) subject to subsection (13.1), off-street vehicular loading and parking facilities, either covered or uncovered, access driveways, including driveways for emergency vehicles, and the surfacing of such areas and driveways,
+
 (iv) walkways and walkway ramps, including the surfacing thereof, and all other means of pedestrian access,
+
 (iv.1) facilities designed to have regard for accessibility for persons with disabilities;
+
 (v) facilities for the lighting, including floodlighting, of the land or of any buildings or structures thereon,
+
 (vi) walls, fences, hedges, trees, shrubs or other groundcover or facilities for the landscaping of the lands or the protection of adjoining lands,
+
 (vii) vaults, central storage and collection areas and other facilities and enclosures for the storage of garbage and other waste material,
+
 (viii) easements conveyed to the City for the construction, maintenance or improvement of watercourses, ditches, land drainage works, sanitary sewage facilities and other public utilities of the City on the land,
+
 (ix) grading or alteration in elevation or contour of the land and provision for the disposal of storm, surface and waste water from the land and from any buildings or structures thereon;
+
 (b) maintain to the satisfaction of the City and at the sole risk and expense of the owner any or all of the facilities or works mentioned in subclauses (a) (ii) to (ix), including the removal of snow from access ramps and driveways, parking and loading areas and walkways;
+
 (c) enter into one or more agreements with the City dealing with and ensuring the provision of any or all of the facilities, works or matters mentioned in clause (a) or (e) and the maintenance thereof as mentioned in clause (b) or with the provision and approval of the plans and drawings referred to in subsection (5);
+
 (d) enter into one or more agreements with the City ensuring that development proceeds in accordance with the plans and drawings approved under subsection (5);
+
 (e) subject to subsection (13), convey part of the land to the City to the satisfaction of and at no expense to the City for a public transit right of way.
 
 ### Lapse of approval
@@ -1955,8 +2351,11 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Same, time period
 
 (11.2) For the purposes of subsection (11.1), the time period specified by the authorized person shall not,
+
 (a) be less than such prescribed time period as may be applicable to the development;
+
 (b) exceed such prescribed time period as may applicable to the development; or
+
 (c) be less than three years, if a prescribed time period under clause (a) or (b) does not apply with respect to the development.
 
 ### Same, approval
@@ -1982,6 +2381,7 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Registration of agreements
 
 (14) Any agreement entered into under clause (11) (c) or (d) may be registered against the land to which it applies and the City is entitled to enforce the provisions thereof against the owner and, subject to the provisions of the Registry Act and the Land Titles Act, any and all subsequent owners of the land.
+
 (14.1)-(14.3) Repealed: 2024, c. 16, Sched. 4, s. 3 (4).
 
 ### Appeal to Tribunal re approval of plans or drawings
@@ -1995,10 +2395,15 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### City clerk to forward plans and drawings, etc. to Tribunal
 
 (15.2) If the city clerk receives a notice of appeal under subsection (15) or (15.1), the city clerk shall ensure that the following are forwarded to the Ontario Land Tribunal within 15 days after the notice is filed:
+
 1. The notice of appeal.
+
 2. The fee.
+
 3. The plans and drawings submitted for approval under subsection (5).
+
 3.1 Any information or material required under subsections (4.2) and (4.3).
+
 4. In the case of an appeal under subsection (15.1), documents that set out the requirements made by the municipality under subsection (11).
 
 ### Hearing
@@ -2020,8 +2425,11 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Same
 
 (20) In respect of plans and drawings submitted for approval under subsection (5) before the day subsection 2 (2) of Schedule 1 to the More Homes Built Faster Act, 2022 came into force,
+
 (a) subparagraph 2 iv of subsection (5) as it read immediately before the day subsection 2 (2) of Schedule 1 to the More Homes Built Faster Act, 2022 came into force continues to apply;
+
 (b) paragraph 1.1 of subsection (6) does not apply; and
+
 (c) subsection (6.1) does not apply.
 
 ### Same — refund of fee
@@ -2035,19 +2443,29 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Regulations
 
 (23) The Minister may make regulations,
+
 (0.a) governing the information or material that may be required under subsection (4.3), including specifying information or material that may or may not be required, and providing that such requirements prevail over any requirements in any official plan;
+
 (0.a.1) prescribing professions for the purposes of subsection (4.4.1);
+
 (a) prescribing a development or one or more classes of development to which subsections (11.1) and (11.2) do not apply;
+
 (b) prescribing time periods for the purposes of clauses (11.2) (a) or (b), including providing for a specific time period that applies to a particular development or providing for different time periods that apply with respect to different classes of development;
+
 (c) prescribing a development or one or more classes of development to which subsection (11.3) does not apply.
 
 ### Development permit system
 
 114.1 A regulation made under section 70.2 of the Planning Act may,
+
 (a) vary, supplement or override section 113 or 114 of this Act or any by-law passed under either of those sections as necessary to establish a development permit system;
+
 (b) authorize or require the City to pass a by-law to vary, supplement or override a by-law passed under section 113 or 114 as necessary to establish a development permit system;
+
 (c) if the City has adopted or established a development permit system,
+
 (i) exempt it from any provision of section 113 or 114 set out in the regulation,
+
 (ii) prohibit it from passing a by-law under those provisions of section 113 or 114 that are specified in the regulation.
 
 ### Non-application of s. 113 or 114 — houses, etc. on a parcel of urban residential land
@@ -2069,7 +2487,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Term and qualifications
 
 (2) A person who is appointed to the appeal body,
+
 (a) shall serve for the prescribed term, or if no term is prescribed, for the term specified in the by-law; and
+
 (b) shall have the prescribed qualifications, if any.
 
 ### Eligibility criteria
@@ -2079,29 +2499,41 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Restriction
 
 (4) The City shall not appoint to the appeal body a person who is,
+
 (a) a city employee;
+
 (b) a member of city council, a land division committee, a committee of adjustment or a planning advisory committee; or
+
 (c) a member of a prescribed class.
 
 ### Power to hear appeals, etc.
 
 (5) The City may by by-law empower the appeal body to hear appeals or motions for directions, as the case may be, under,
+
 (a) subsections 114 (7), (15) and (15.1);
+
 (b) subsection 45 (12) of the Planning Act;
+
 (c) subsections 53 (4.1), (14), (19) and (27) of the Planning Act; or
+
 (d) the provisions listed in any combination of clauses (a), (b) and (c).
 
 ### Interpretation re appeals
 
 (5.1) The following rules apply if a by-law has been passed under subsection (5) empowering the appeal body to hear motions for directions under subsection 114 (7) of this Act or subsection 53 (4.1) of the Planning Act, or both:
+
 1. References in this section to an appeal, other than in subsection (9), shall be read as including a reference to a motion for directions under either subsection 114 (7) of this Act or subsection 53 (4.1) of the Planning Act, or both, as the case may be.
+
 2. The reference in subsection (8) to an appellant shall be read as including a reference to a person or public body making a motion for directions under either subsection 114 (7) of this Act or subsection 53 (4.1) of the Planning Act, or both, as the case may be.
 
 ### Effect of by-law under subs. (5)
 
 (6) If a by-law has been passed under subsection (5),
+
 (a) the appeal body has all the powers and duties of the Ontario Land Tribunal under this section and the relevant provisions of the Planning Act;
+
 (b) all references in this section and section 114 and in the Planning Act to the Ontario Land Tribunal in connection with appeals under the relevant provisions shall be read as references to the appeal body; and
+
 (c) appeals under the relevant provisions shall be made to the appeal body, not to the Ontario Land Tribunal.
 
 ### Prescribed requirements
@@ -2123,13 +2555,17 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Exception, related appeals
 
 (10) Despite subsection (6), an appeal under a provision listed in subsection (5) shall be made to the Ontario Land Tribunal, not to the appeal body, if a related appeal,
+
 (a) has previously been made to the Tribunal and has not yet been finally disposed of; or
+
 (b) is made to the Tribunal together with the appeal under a provision listed in subsection (5).
 
 ### Same
 
 (11) For the purpose of subsections (10) and (14), an appeal is a related appeal with respect to an appeal under a provision listed in subsection (5) if it is made,
+
 (a) in respect of the same matter as the appeal under a provision listed in subsection (5); and
+
 (b) under another provision listed in subsection (5) in respect of which the appeal body has not been empowered, under section 17, 22, 34, 36, 38 or 51 of the Planning Act or under a regulation made under section 70.2 of that Act.
 
 ### Dispute about application of subs. (10) or (14)
@@ -2147,7 +2583,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Same
 
 (15) When the Ontario Land Tribunal assumes jurisdiction as described in subsection (14), the appeal body,
+
 (a) shall immediately forward to the Tribunal all information and material in its possession that relates to the appeal; and
+
 (b) shall not take any further action with respect to the appeal.
 
 ### Withdrawal of power
@@ -2161,7 +2599,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Effect of withdrawal
 
 (18) If an order is made under subsection (16),
+
 (a) the Ontario Land Tribunal shall hear all appeals to which the order applies; and
+
 (b) the appeal body shall forward to the Tribunal all information and material in its possession that relates to any appeal to which the order applies.
 
 ### Revocation of withdrawal
@@ -2175,7 +2615,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Effect of revocation
 
 (21) If an order is made under subsection (19),
+
 (a) the appeal body shall hear all appeals to which the order applies; and
+
 (b) the Ontario Land Tribunal shall forward to the appeal body all information and material in its possession that relates to any appeal to which the order applies.
 
 ### Dissolution of appeal body
@@ -2185,14 +2627,19 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Rules re dissolution order
 
 (21.2) If the Minister makes an order under subsection (21.1), the following rules apply:
+
 1. In respect of an appeal that is made to the appeal body on or before the date the order is made and for which a hearing before the appeal body has not begun on or before that date, the appeal shall be heard by the Ontario Land Tribunal and the appeal body shall forward to the Tribunal all information and material in its possession that relates to any such appeal.
+
 2. The appeal body shall continue to hear an appeal for which a hearing has begun on or before the date of the order.
+
 3. An appeal under a provision listed in subsection (5) shall be made to the Ontario Land Tribunal.
 
 ### Effective date of order under subs. (21.1)
 
 (21.3) An order made under subsection (21.1) shall take effect on the following:
+
 1. If there are no appeals referred to in subsection (21.2) before the appeal body, the date on which the order is made.
+
 2. If there are one or more appeals referred to in subsection (21.2) before the appeal body, the day on which the appeal body has finally disposed of all of those appeals.
 
 ### Not regulation
@@ -2202,8 +2649,11 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Transition
 
 (22) This section does not apply to the following:
+
 1. An appeal under subsection 45 (12) of the Planning Act, if the decision of the committee in respect of which a notice of appeal is filed is made before the day on which a by-law passed under subsection (5) of this section by the City that empowers the appeal body to hear that type of appeal comes into force.
+
 2. An appeal under subsection 53 (19) or (27) of the Planning Act, if the notice under subsection 53 (17) or (24) of that Act, as the case may be, is given before the day on which a by-law passed under subsection (5) of this section by the City that empowers the appeal body to hear that type of appeal comes into force.
+
 3. An appeal under subsection 114 (7), (15) or (15.1) of this Act or subsection 53 (4.1) or (14) of the Planning Act, if the appeal is made before the day on which a by-law passed under subsection (5) of this section by the City that empowers the appeal body to hear that type of appeal comes into force.
 
 ### Deeming rule re appeals under subs. 53 (4.1) of the Planning Act
@@ -2215,16 +2665,23 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Powers re delivery noise
 
 115.1 (1) Despite sections 7 and 8, the City does not have the power to prohibit and regulate with respect to noise made in the City in connection with the delivery of goods to any of the following, except as otherwise authorized by regulation:
+
 1. Retail business establishments.
+
 2. Restaurants, including cafes and bars.
+
 3. Hotels and motels.
+
 4. Goods distribution facilities.
 
 ### Regulations
 
 (2) The Minister may make regulations,
+
 (a) authorizing the City to prohibit and regulate with respect to noise made in the City in connection with the delivery of goods to any of the places described in subsection (1);
+
 (b) governing the powers of the City under clause (a), including authorizing the City to exercise those powers in specified parts of the City;
+
 (c) defining any word or expression referred to in paragraph 1, 2, 3 or 4 of subsection (1).
 
 ### Regulations
@@ -2246,8 +2703,11 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Regulations re administrative penalties, parking by-laws
 
 118 (1) Upon the recommendation of the Attorney General, the Lieutenant Governor in Council may make regulations providing for any matters which, in the opinion of the Lieutenant Governor in Council, are necessary or desirable for the purposes of section 81, including,
+
 (a) granting the City powers with respect to requiring that persons pay administrative penalties and with respect to other matters necessary for a system of administrative penalties;
+
 (b) imposing conditions and limitations on the City’s powers with respect to administrative penalties;
+
 (c) providing for the refusal by the Registrar of Motor Vehicles to validate vehicle permits issued, or to issue vehicle permits, to a person who had not paid an administrative penalty that is owing to the City.
 
 ### Conflict
@@ -2257,20 +2717,27 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Regulations re business licences
 
 119 (1) The Minister of Municipal Affairs and Housing may make regulations,
+
 (a) exempting any business or class of business from all or any part of a by-law providing for a system of licences with respect to a business under any Act, including self-regulated businesses;
+
 (b) imposing conditions and limitations on the powers of the City under this Act to provide for a system of licences with respect to a business;
+
 (c) prohibiting the City from imposing on any business, in respect of which a provincial certificate has been issued, a condition on a licence requiring testing on the subject matter of the certification.
 
 ### Scope
 
 (2) A regulation under this section may,
+
 (a) be retroactive for a period not exceeding one year;
+
 (b) require the City to return licence fees collected during that period;
+
 (c) require the City to use the licence fees in the prescribed manner.
 
 ### Definition
 
 (3) In this section,
+
 “business” means business as defined in section 85.
 
 ### Regulations re reciprocal licensing arrangements
@@ -2296,10 +2763,15 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Regulations re appeal body for local land use planning matters
 
 123 The Minister of Municipal Affairs and Housing may make regulations,
+
 (a) prescribing a term for the purpose of clause 115 (2) (a) and qualifications for the purpose of clause 115 (2) (b);
+
 (b) prescribing eligibility criteria for the purpose of subsection 115 (3);
+
 (c) prescribing classes for the purpose of clause 115 (4) (c);
+
 (d) prescribing requirements for the purpose of subsection 115 (7);
+
 (e) respecting appeals that are affected by orders made under subsections 115 (16), (18), (19) and (21).
 
 ## part iv the city and its Governance
@@ -2309,7 +2781,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Definitions
 
 124 In this Part,
+
 “proposal for minor restructuring” means a proposal that provides for one or more restructurings which the Minister of Municipal Affairs and Housing, after reviewing the proposal, is of the opinion is of a minor nature; (“proposition de restructuration mineure”)
+
 “restructuring” means annexing part of the City to another local municipality or annexing part of another local municipality to the City and making any changes to the boundaries of upper-tier municipalities necessary to reflect the annexation. (“restructuration”)
 
 ### The City
@@ -2337,17 +2811,25 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Regulations
 
 (6) The Lieutenant Governor in Council may, by regulation, prescribe for the purposes of subsection (5),
+
 (a) a local board;
+
 (b) the provisions of the Not-for-Profit Corporations Act, 2010 that are to apply to the local board; and
+
 (c) any modifications subject to which those provisions are to apply to the local board.
 
 ### Definition
 
 (7) In this section,
+
 “local board” means a local board other than,
+
 (a) a board of health as defined in subsection 1 (1) of the Health Protection and Promotion Act,
+
 (b) a board of management under the Fixing Long-Term Care Act, 2021,
+
 (c) a body corporate established under the Planning Act, or
+
 (d) a city board established under this Act.
 
 ### Change of name
@@ -2423,12 +2905,19 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Role of city council
 
 131 It is the role of city council,
+
 (a) to represent the public and to consider the well-being and interests of the City;
+
 (b) to develop and evaluate the policies and programs of the City;
+
 (c) to determine which services the City provides;
+
 (d) to ensure that administrative policies, practices and procedures and controllership policies, practices and procedures are in place to implement the decisions of council;
+
 (e) to ensure the accountability and transparency of the operations of the City, including the activities of the senior management of the City;
+
 (f) to maintain the financial integrity of the City; and
+
 (g) to carry out the duties of council under this or any other Act.
 
 ### Powers of city council
@@ -2450,10 +2939,15 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Role of the mayor as head of council
 
 133 (1) It is the role of the mayor of the City, as the head of council,
+
 (a) to act as chief executive officer of the City;
+
 (b) to preside over meetings of council so that its business can be carried out efficiently and effectively;
+
 (c) to provide leadership to council;
+
 (d) to represent the City at official functions; and
+
 (e) to carry out the duties of the head of council under this or any other Act.
 
 ### Same
@@ -2467,22 +2961,31 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Role of the mayor as chief executive officer
 
 134 As chief executive officer of the City, the mayor shall,
+
 (a) uphold and promote the purposes of the City;
+
 (b) promote public involvement in the City’s activities;
+
 (c) act as the representative of the City both within and outside the City, and promote the City locally, nationally and internationally; and
+
 (d) participate in and foster activities that enhance the economic, social and environmental well-being of the City and its residents.
 
 ### City council following 2018 regular election
 
 135 (1) Commencing with the city council that is organized following the 2018 regular election, city council shall be composed of,
+
 (a) the head of council; and
+
 (b) other members, the number of which equals the number of wards as determined under section 128.
 
 ### Rules re composition of city council
 
 (2) The following rules apply to the composition of city council:
+
 1. The members of city council shall be elected in accordance with the Municipal Elections Act, 1996.
+
 2. The head of council shall be elected by general vote.
+
 3. One member of council shall be elected for each of the wards determined under section 128.
 
 ### Conduct of 2018 regular election
@@ -2512,7 +3015,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Exception re s. 83 (1) of the Municipal Elections Act, 1996
 
 (2) An order shall not be made under subsection 83 (1) of the Municipal Elections Act, 1996 by reason only of the clerk of the City doing anything, before a by-law passed under section 135 of this Act, as it read immediately before the Better Local Government Act, 2018 received Royal Assent, in relation to the conduct of the 2018 regular election,
+
 (a) as if the by-law were not already in effect; or
+
 (b) as if the by-law were already in effect.
 
 ### Officers and Employees of the City
@@ -2520,17 +3025,25 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Role of officers and employees
 
 136 It is the role of the officers and employees of the City,
+
 (a) to implement the decisions of city council and to establish administrative practices and procedures to carry out those decisions;
+
 (b) to undertake research and provide advice to city council on the policies and programs of the City; and
+
 (c) to carry out other duties required under this or any Act and other duties assigned by the City.
 
 ### City clerk
 
 137 (1) The City shall appoint a clerk whose duty it is,
+
 (a) to record, without note or comment, all resolutions, decisions and other proceedings of city council;
+
 (b) if required by any member present at a vote, to record the name and vote of every member voting on any matter or question;
+
 (c) to keep the originals or copies of all by-laws and of all minutes of the proceedings of city council;
+
 (d) to perform the other duties required under this Act or under any other Act; and
+
 (e) to perform such other duties as are assigned by the City.
 
 ### Deputy clerks
@@ -2552,11 +3065,17 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### City treasurer
 
 138 (1) The City shall appoint a treasurer who is responsible for handling all of the financial affairs of the City on behalf of the City and in the manner directed by city council, including,
+
 (a) collecting money payable to the City and issuing receipts for those payments;
+
 (b) depositing all money received on behalf of the City in a financial institution designated by the City;
+
 (c) paying all debts of the City and other expenditures authorized by the City;
+
 (d) maintaining accurate records and accounts of the financial affairs of the City;
+
 (e) providing the council with such information with respect to the financial affairs of the City as it requires or requests;
+
 (f) ensuring investments of the City are made in compliance with the regulations made under Part VIII (Finances).
 
 ### Deputy treasurers
@@ -2582,7 +3101,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### City auditor
 
 139 (1) The City shall appoint an auditor licensed under the Public Accounting Act, 2004 who is responsible for,
+
 (a) annually auditing the accounts and transactions of the City and its local boards and expressing an opinion on the financial statements of these bodies based on the audit; and
+
 (b) performing duties required by the City or local board.
 
 ### Term
@@ -2596,6 +3117,7 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Reporting relationship
 
 (4) The auditor reports to city council.
+
 140 Repealed: 2022, c. 18, Sched. 1, s. 1.
 
 ### City Boards
@@ -2603,12 +3125,19 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Power to establish city boards
 
 141 (1) Without limiting sections 7 and 8, those sections authorize the City to establish a city board and to provide for the following matters:
+
 1. The name, composition, quorum and budgetary process of the board.
+
 2. The eligibility of persons to hold office as board members.
+
 3. The manner of selecting board members, the resignation of members, the determination of when a member’s seat becomes vacant and the filling of vacancies.
+
 4. The term of office and remuneration of board members.
+
 5. The number of votes of the board members.
+
 6. The requirement that the board follow rules, procedures and policies established by the City.
+
 7. The relationship between the City and the board, including their financial and reporting relationship.
 
 ### Restriction
@@ -2630,8 +3159,11 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Same
 
 (6) Except as otherwise provided by subsections (2) to (4), the following provisions apply with necessary modifications to a city board and its members as if they were city council and members of city council:
+
 1. Section 193 (Absence of head).
+
 2. Clauses 204 (c) to (h) (Vacant seat).
+
 3. Sections 205 (Resignation as member), 209 (Term of office, vacancy) and 210 (Application to court).
 
 ### Status of city boards
@@ -2657,8 +3189,11 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Powers and duties
 
 (2) The following provisions apply with necessary modifications to a city board, except as otherwise provided by a city by-law:
+
 1. Section 7 (Powers of a natural person).
+
 2. Part XV (Enforcement), except sections 374 (City entitlement to fines), 382 (Enforcement of agreements, etc.) and 388 (Closing premises, public nuisance).
+
 3. Part XVI (Liability of the City).
 
 ### Restriction
@@ -2704,13 +3239,21 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Restriction
 
 (3) Despite subsection (1), the City shall not, in accordance with that subsection, dissolve or change a local board which is,
+
 (a) a society as defined in subsection 2 (1) of the Child, Youth and Family Services Act, 2017;
+
 (b) a board of health as defined in subsection 1 (1) of the Health Protection and Promotion Act;
+
 (c) a committee of management under the Fixing Long-Term Care Act, 2021;
+
 (d) a board as defined in section 1 of the Public Libraries Act;
+
 (e) a police service board established under the Community Safety and Policing Act, 2019;
+
 (f) Repealed: 2017, c. 10, Sched. 2, s. 14 (1).
+
 (g) a corporation established in accordance with section 148;
+
 (h) such other local boards as may be prescribed.
 
 ### Restriction re appeal body under s. 115
@@ -2720,15 +3263,21 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Scope of power to change a local board
 
 146 Without limiting sections 7 and 8, the power of the City to change a local board under those sections includes the power to pass by-laws with respect to,
+
 (a) the matters described in paragraphs 1 to 7 of subsection 141 (1), subject to the restrictions set out in section 141;
+
 (b) the assumption of a power or duty of the board provided that, if the power or duty was delegated to the board by the City, the City cannot assume the power or duty if it cannot revoke the delegation;
+
 (c) the delegation of a power or duty to the board to the extent authorized under this Act;
+
 (d) the restriction or expansion of the mandate of the board.
 
 ### Dissolution, etc., of joint board
 
 147 If the City passes a by-law in accordance with subsection 145 (1) to dissolve or change a local board which is a local board of the City and one or more other municipalities,
+
 (a) the by-law does not come into force until at least half of the municipalities, excluding the City, have passed a resolution giving their approval to the by-law;
+
 (b) when the by-law comes into force, the by-law is deemed to be a by-law passed by each of the municipalities of which the board is a local board.
 
 ### Corporations
@@ -2736,10 +3285,15 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Power to establish corporations
 
 148 (1) Without limiting sections 7 and 8, those sections authorize the City to do the following things in accordance with such conditions and restrictions as may be prescribed:
+
 1. To establish corporations.
+
 2. To nominate or authorize a person to act as an incorporator, director, officer or member of a corporation.
+
 3. To exercise any power as a member of a corporation.
+
 4. To acquire an interest in or to guarantee such securities issued by a corporation as may be prescribed.
+
 5. To exercise any power as the holder of such securities issued by a corporation as may be prescribed.
 
 ### Duties of corporations, etc.
@@ -2753,6 +3307,7 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Definition
 
 (4) For the purposes of this section and section 154,
+
 “secondary corporation” means a corporation established by a corporation that was established under subsection (1) and a corporation deemed under the regulations to be a secondary corporation.
 
 ### Regulations
@@ -2764,11 +3319,17 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Proposal for minor restructuring
 
 149 (1) The City may, subject to subsection (2), make a proposal for minor restructuring of municipalities in a geographic area by submitting to the Minister of Municipal Affairs and Housing a restructuring report containing,
+
 (a) a description of the proposal in a form and in such detail as the Minister may require; and
+
 (b) proof in a form satisfactory to the Minister that,
+
 (i) the proposal has the prescribed degree of support of the prescribed municipalities in the geographic area,
+
 (ii) the support was determined in the prescribed manner,
+
 (iii) the municipalities which support the proposal meet the prescribed criteria, and
+
 (iv) the City consulted the public in the required manner.
 
 ### Limitation
@@ -2778,22 +3339,31 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Consultation
 
 (3) Before the council of the City or of another municipality votes on whether to support or oppose the proposal, the council shall or may, as applicable, do the following things when the proposal is being developed or after it is developed:
+
 1. Council shall consult with the public by giving notice of, and by holding, at least one public meeting.
+
 2. Council shall consult with such persons or bodies as the Minister may prescribe.
+
 3. Council may consult with such other persons and bodies as the council considers appropriate.
 
 ### Implementation
 
 (4) The Minister may, by order, implement the proposal in accordance with the regulations if,
+
 (a) the proposal and report under subsection (1) meet the requirements of this section; and
+
 (b) in the opinion of the Minister, the proposal and report comply with the restructuring principles and standards established under clause 155 (1) (a).
 
 ### Amendment of proposal
 
 (5) After the following requirements are met and despite subsection (4), the Minister may allow a proposal submitted under subsection (1) or under subsection 173 (1) of the Municipal Act, 2001 to be amended and, if an order implementing the proposal has already been made, the Minister may make another order to implement the amended proposal:
+
 1. An amended restructuring report setting out the amended proposal must be submitted to the Minister by the City.
+
 2. The amended proposal must have the prescribed degree of support of the prescribed municipalities in the geographic area whose support was required for the original proposal.
+
 3. The amended proposal must have the prescribed degree of support of the prescribed municipalities in the geographic area whose support would be required if the amended proposal were an original proposal.
+
 4. The provisions of any order implementing the original proposal which are to be amended are not in force.
 
 ### Same
@@ -2815,7 +3385,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Filing
 
 (10) The Minister shall,
+
 (a) publish an order under subsection (4) in The Ontario Gazette; and
+
 (b) file a copy of an order under subsection (4) with each municipality to which the order applies.
 
 ### Inspection
@@ -2833,15 +3405,21 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Effect of Minister’s order
 
 151 (1) An order of the Minister under section 149,
+
 (a) is conclusive evidence that all conditions precedent to the making of the order have been complied with and that the municipalities have been restructured in accordance with this Act; and
+
 (b) prevails over any Act or regulation, other than this section, with which it conflicts and prevails over a regulation made under section 155, with which it conflicts.
 
 ### Exceptions
 
 (2) Despite clause (1) (b), the City may exercise its powers with respect to any of the following matters before or after an order of the Minister under section 149 or under section 173 of the Municipal Act, 2001 comes into force, unless the order precludes it expressly or by necessary implication:
+
 1. Changing the name of the City.
+
 2. Dissolving or changing local boards.
+
 3., 4. Repealed: 2018, c. 11, Sched. 1, s. 8.
+
 5. Any other matter dealt with by a provision of an Act which provides, expressly or by necessary implication, that the provision or the exercise of power under the provision by the City prevails over an order of the Minister under section 149.
 
 ### Same
@@ -2857,15 +3435,25 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Regulations re city council, etc.
 
 152 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) requiring the City to establish an executive committee from among the members of council and prescribing the composition, powers and duties of the committee, including, for example, requiring the committee to provide strategic directions for the City;
+
 (b) requiring the head of council to appoint the chairs and vice-chairs of specified committees of council and specified local boards;
+
 (c) requiring the head of council to appoint one or more deputy heads of council from among the members of council and prescribing the duties of the persons appointed;
+
 (d) requiring the head of council to nominate or to appoint one or more persons who will have the prescribed responsibilities, powers and duties of a chief administrative officer for the City;
+
 (e) establishing procedures for the appointment of persons who are nominated under clause (d) by the head of council;
+
 (f) establishing procedures relating to the dismissal of persons who are nominated or appointed under clause (d);
+
 (g) prescribing transitional matters relating to the exercise of powers and performance of duties under clauses (d) and (e);
+
 (h) requiring council to appoint specified committees composed of members of council elected from specified geographic areas of the City and requiring the City to delegate prescribed powers and duties to the committees;
+
 (i) specifying procedures for the adoption by the City of a budget under section 228 or the adoption or readoption of a budget under section 229;
+
 (j) specifying the duties of the head of council in respect of the adoption or readoption of such a budget by the City.
 
 ### Conflict
@@ -2875,28 +3463,47 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Regulations re dissolution, etc., of local boards
 
 153 For the purposes of section 145, the Minister of Municipal Affairs and Housing may make regulations, despite this or any other Act,
+
 (a) providing that any body performing any public function is a local board;
+
 (b) providing that a local board is a local board of the City;
+
 (c) providing that the City does not have the power to dissolve or change a local board specified in the regulation;
+
 (d) imposing conditions and limitations on the powers of the City;
+
 (e) providing that, for the purposes specified in the regulation, the City is deemed to be a local board of the type dissolved or changed;
+
 (f) providing that, for the purposes specified in the regulation, the City shall stand in the place of a local board dissolved or changed;
+
 (g) providing for matters that, in the opinion of the Minister, are necessary or desirable to allow the City to act as a local board, to exercise the powers of a local board or to stand in the place of a local board for any purpose;
+
 (h) providing that the provisions of any Act specified in the regulation do not apply to the City acting as a local board, exercising the powers of a local board or standing in the place of a local board for any purpose;
+
 (i) providing for the continuation, cessation or amendment of any or all by-laws and resolutions of a local board which is dissolved or changed under this section;
+
 (j) providing that the City or local board pay money to each other or another municipality or local board;
+
 (k) providing for transitional matters related to a dissolution of or change to a local board.
 
 ### Regulations re corporations
 
 154 (1) For the purposes of section 148, the Lieutenant Governor in Council may make regulations governing the powers of the City referred to in that section and governing corporations established under subsection 148 (1) and secondary corporations, including regulations,
+
 (a) prescribing the purposes for which the City may exercise its powers referred to in that section and imposing conditions and restrictions on the use of those powers;
+
 (b) prescribing the purposes for which a corporation may carry on business or engage in activities;
+
 (c) prescribing securities for the purposes of paragraphs 4 and 5 of subsection 148 (1);
+
 (d) imposing conditions and requirements that apply to a corporation and its directors and officers;
+
 (e) providing that specified corporations are deemed not to be local boards for the purposes of any provision of this Act or for the purposes of the definition of “municipality” in such other Acts as may be specified;
+
 (f) providing that specified corporations are deemed for the purposes of any Act or specified provisions of an Act not to be operating a public utility in such circumstances as may be prescribed;
+
 (g) exempting the City from the application of section 82 with respect to specified corporations;
+
 (h) providing for transitional matters relating to the City’s exercise of its powers under that section or relating to a specified corporation’s exercise of its powers.
 
 ### Conflict
@@ -2916,17 +3523,29 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Minister
 
 155 (1) The Minister of Municipal Affairs and Housing may make regulations,
+
 (a) establishing restructuring principles and standards that relate to proposals for minor restructuring under section 149;
+
 (b) for the purposes of section 149,
+
 (i) establishing types of restructuring,
+
 (ii) providing which municipalities may support a proposal for minor restructuring with respect to each type of restructuring,
+
 (iii) providing for the degree of support required to support a proposal for minor restructuring with respect to each type of restructuring,
+
 (iv) providing for the manner of determining the support, and
+
 (v) providing for criteria which must be met by the municipalities supporting a proposal for minor restructuring;
+
 (c) providing that a municipality in a geographic area for which a proposal for minor restructuring has been submitted under subsection 149 (1),
+
 (i) shall not exercise a specified power under any Act,
+
 (ii) shall exercise, in the specified manner, a specified power under any Act,
+
 (iii) shall obtain the approval of a person or body specified in the regulation before exercising any of its powers under any Act;
+
 (d) for the purpose of paragraph 2 of subsection 149 (3), prescribing the persons or bodies to be consulted.
 
 ### Lieutenant Governor in Council
@@ -2940,22 +3559,39 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Definitions
 
 156 In this Part,
+
 “city-controlled corporation” means a corporation that has 50 per cent or more of its issued and outstanding shares vested in the City or that has the appointment of a majority of its board of directors made or approved by the City, but does not include a local board; (“société contrôlée par la cité”)
+
 “code of conduct” means a code of conduct established under section 157; (“code de déontologie”)
+
 “grant recipient” means person or entity that receives a grant directly or indirectly from the City, a local board (restricted definition) or a city-controlled corporation; (“bénéficiaire d’une subvention”)
+
 “local board (restricted definition)” means a local board other than,
+
 (a) a society as defined in subsection 2 (1) of the Child, Youth and Family Services Act, 2017,
+
 (b) a board of health as defined in subsection 1 (1) of the Health Protection and Promotion Act,
+
 (c) a committee of management under the Fixing Long-Term Care Act, 2021,
+
 (d) a police service board established under the Community Safety and Policing Act, 2019,
+
 (e) a board as defined in section 1 of the Public Libraries Act,
+
 (f) a corporation established in accordance with section 148,
+
 (g) such other local boards as may be prescribed; (“conseil local (définition restreinte)”)
+
 “public office holder” means,
+
 (a) a member of city council and any person on his or her staff,
+
 (b) an officer or employee of the City,
+
 (c) a member of a local board (restricted definition) of the City and any person on his or her staff,
+
 (d) an officer, director or employee of a local board (restricted definition) of the City, and
+
 (e) such other persons as may be determined by city council who are appointed to any office or body by city council or by a local board (restricted definition) of the City. (“titulaire d’une charge publique”)
 
 ### Code of Conduct
@@ -2993,12 +3629,19 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Integrity Commissioner
 
 159 (1) The Commissioner is responsible for performing in an independent manner the functions assigned by city council with respect to all of the following:
+
 1. The application of the code of conduct for members of city council and the code of conduct for members of local boards (restricted definition).
+
 2. The application of any procedures, rules and policies of the City and local boards (restricted definition) governing the ethical behaviour of members of city council and of local boards.
+
 3. The application of sections 5, 5.1, 5.2 and 5.3 of the Municipal Conflict of Interest Act to members of city council and of local boards (restricted definition).
+
 4. Requests from members of city council and of local boards (restricted definition) for advice respecting their obligations under the code of conduct applicable to the member.
+
 5. Requests from members of city council and of local boards (restricted definition) for advice respecting their obligations under a procedure, rule or policy of the City or of the local board (restricted definition), as the case may be, governing the ethical behaviour of members.
+
 6. Requests from members of city council and of local boards (restricted definition) for advice respecting their obligations under the Municipal Conflict of Interest Act.
+
 7. The provision of educational information to members of city council, members of local boards (restricted definition), the City and the public about the codes of conduct for members of city council and members of local boards (restricted definition) and about the Municipal Conflict of Interest Act.
 
 ### Powers and duties
@@ -3036,7 +3679,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Inquiry by Commissioner
 
 160 (1) This section applies if the Commissioner conducts an inquiry under this Part,
+
 (a) in respect of a request made by city council, a member of council or a member of the public about whether a member of council or of a local board (restricted definition) has contravened the code of conduct applicable to the member; or
+
 (b) in respect of a request made by a local board (restricted definition) or a member of a local board (restricted definition) about whether a member of the local board (restricted definition) has contravened the code of conduct applicable to the member.
 
 ### Application of Public Inquiries Act, 2009
@@ -3054,7 +3699,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Penalties
 
 (5) City council may impose either of the following penalties on a member of council or of a local board (restricted definition) if the Commissioner reports to council that, in his or her opinion, the member has contravened the code of conduct:
+
 1. A reprimand.
+
 2. Suspension of the remuneration paid to the member in respect of his or her services as a member of council or of the local board, as the case may be, for a period of up to 90 days.
 
 ### Same
@@ -3072,8 +3719,11 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Other rules that apply during regular election
 
 (9) The following rules apply during the period of time starting on nomination day for a regular election, as set out in section 31 of the Municipal Elections Act, 1996, and ending on voting day in a regular election, as set out in section 5 of that Act:
+
 1. There shall be no requests for an inquiry about whether a member of council or of a local board (restricted definition) has contravened the code of conduct applicable to the member.
+
 2. The Commissioner shall not report to the City council or local board (restricted definition) about whether, in his or her opinion, a member of council or of a local board (restricted definition) has contravened the code of conduct applicable to the member.
+
 3. The City council or local board (restricted definition) shall not consider whether to impose the penalties referred to in subsection (5) on a member of council or of a local board (restricted definition).
 
 ### Inquiry by Commissioner re s. 5, 5.1, 5.2 or 5.3 of Municipal Conflict of Interest Act
@@ -3095,7 +3745,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Exception
 
 (5) Despite subsection (4), an application may be made more than six weeks after the applicant became aware of the alleged contravention if both of the following are satisfied:
+
 1. The applicant became aware of the alleged contravention within the period of time starting six weeks before nomination day for a regular election, as set out in section 31 of the Municipal Elections Act, 1996, and ending on voting day in a regular election, as set out in section 5 of that Act.
+
 2. The applicant applies to the Commissioner under subsection (2) within six weeks after the day after voting day in a regular election, as set out in section 5 of the Municipal Elections Act, 1996.
 
 ### Content of application
@@ -3149,7 +3801,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Costs
 
 (18) The Commissioner’s costs of applying to a judge shall be paid by the following:
+
 1. If the member is alleged to have contravened section 5, 5.1, 5.2 or 5.3 of the Municipal Conflict of Interest Act as a member of city council, the City.
+
 2. If the member is alleged to have contravened section 5, 5.1, 5.2 or 5.3 of the Municipal Conflict of Interest Act as a member of a local board (restrictive definition), the local board.
 
 ### Duty of confidentiality
@@ -3159,7 +3813,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Confidentiality, information disclosed to Commissioner
 
 (2) Despite subsection (1), information may be disclosed,
+
 (a) in a criminal proceeding, as required by law; or
+
 (b) otherwise in accordance with this Part.
 
 ### Release of advice
@@ -3173,8 +3829,11 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Other circumstances
 
 (2.3) The Commissioner may disclose such information as in the Commissioner’s opinion is necessary,
+
 (a) for the purposes of a public meeting under subsection 160.1 (8);
+
 (b) in an application to a judge referred to in subsection 160.1 (15); or
+
 (c) in the written reasons given by the Commissioner under subsection 160.1 (17).
 
 ### Municipal Freedom of Information and Protection of Privacy Act
@@ -3214,16 +3873,27 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Requirement to file returns, etc.
 
 166 Without limiting sections 7 and 8, those sections authorize the City to provide for the registry described in subsection 165 (1), to provide for a system of registration of persons who lobby public office holders and to do the following things:
+
 1. Define “lobby”.
+
 2. Require persons who lobby public office holders to file returns and give information to the City.
+
 3. Specify the returns to be filed and the information to be given to the City by persons who lobby public office holders and specify the time within which the returns must be filed and the information provided.
+
 4. Exempt persons from the requirement to file returns and provide information.
+
 5. Specify activities with respect to which the requirement to file returns and provide information does not apply.
+
 6. Establish a code of conduct for persons who lobby public office holders.
+
 7. Prohibit former public office holders from lobbying current public office holders for the period of time specified in the by-law.
+
 8. Prohibit a person from lobbying public office holders without being registered.
+
 9. Impose conditions for registration, continued registration or a renewal of registration.
+
 10. Refuse to register a person, and suspend or revoke a registration.
+
 11. Prohibit persons who lobby public office holders from receiving payment that is in whole or in part contingent on the successful outcome of any lobbying activities.
 
 ### Prohibition on contingency fees
@@ -3307,7 +3977,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Decisions not reviewable
 
 (4) Nothing in this Part empowers the Ombudsman to investigate any decision, recommendation, act or omission,
+
 (a) in respect of which there is, under any Act, a right of appeal or objection, or a right to apply for a hearing or review, on the merits of the case to any court, or to any tribunal constituted by or under any Act, until that right of appeal or objection or application has been exercised in the particular case, or until after any time for the exercise of that right has expired; or
+
 (b) of any person acting as legal adviser to the City, a local board (restricted definition) or a city-controlled corporation or acting as counsel to any of them in relation to any proceedings.
 
 ### Delegation
@@ -3329,6 +4001,7 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Application of Ombudsman Act
 
 (3) Section 19 of the Ombudsman Act applies to the exercise of powers and the performance of duties by the Ombudsman under this Part and, for the purpose, references in section 19 of that Act to “any public sector body” are deemed to be references to “the City, a local board (restricted definition) or a city-controlled corporation”.
+
 (4) Repealed: 2014, c. 13, Sched. 9, s. 17.
 
 ### Duty of confidentiality
@@ -3428,7 +4101,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Same
 
 (2) Subject to subsection (3), the persons required to preserve secrecy under subsection (1) shall not communicate information to another person in respect of any matter described in subsection (1) except as may be required,
+
 (a) in connection with the administration of this Part, including reports made by the Auditor General, or with any proceedings under this Part; or
+
 (b) under the Criminal Code (Canada).
 
 ### Same
@@ -3476,7 +4151,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Deemed resignation
 
 (4) A person is deemed to have resigned from an office on city council unless the person,
+
 (a) in the case of a regular election or a by-election under section 211, takes the declaration of office with respect to that office on or before the day of the first council meeting of the new council; and
+
 (b) in the case of a by-election or appointment, other than a by-election under section 211, to fill a vacancy on the council, takes the declaration of office with respect to that office on or before the day of the first council meeting after the person is declared to be elected or is appointed.
 
 ### Extension
@@ -3506,9 +4183,13 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Definitions
 
 189 (1) In this section and in sections 190 to 190.2,
+
 “committee” means any advisory or other committee, subcommittee or similar entity of which at least 50 per cent of the members are also members of one or more municipal councils or local boards other than a police service board or public library board; (“comité”)
+
 “meeting” means any regular, special or other meeting of city council, of the local board or of a committee of either of them, where,
+
 (a) a quorum of members is present, and
+
 (b) members discuss or otherwise deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee. (“réunion”)
 
 ### Procedure by-laws respecting meetings
@@ -3526,12 +4207,15 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Electronic participation
 
 (4) The applicable procedure by-law may provide that a member of city council, of a local board of the City or of a committee of either of them, can participate electronically in a meeting to the extent and in the manner set out in the by-law.
+
 (4.1) Repealed: 2020, c. 18, Sched. 2, s. 1 (2).
 
 ### Same
 
 (4.2) The applicable procedure by-law may provide that,
+
 (a) a member of city council, of a local board of the City or of a committee of either of them who is participating electronically in a meeting may be counted in determining whether or not a quorum of members is present at any point in time; and
+
 (b) a member of city council, of a local board of the City or of a committee of either of them can participate electronically in a meeting that is open or closed to the public.
 
 ### Same, procedure by-law
@@ -3559,34 +4243,51 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Exceptions
 
 (2) A meeting or part of a meeting may be closed to the public if the subject matter being considered is,
+
 (a) the security of the property of the City or local board;
+
 (b) personal matters about an identifiable individual, including a city employee or a local board employee;
+
 (c) a proposed or pending acquisition or disposition of land by the City or local board;
+
 (d) labour relations or employee negotiations;
+
 (e) litigation or potential litigation, including matters before administrative tribunals, affecting the City or local board;
+
 (f) advice that is subject to solicitor-client privilege, including communications necessary for that purpose;
+
 (g) a matter in respect of which the city council, board, committee or other body may hold a closed meeting under another Act;
+
 (h) information explicitly supplied in confidence to the City or local board by Canada, a province or territory or a Crown agency of any of them;
+
 (i) a trade secret or scientific, technical, commercial, financial or labour relations information, supplied in confidence to the City or local board, which, if disclosed, could reasonably be expected to prejudice significantly the competitive position or interfere significantly with the contractual or other negotiations of a person, group of persons, or organization;
+
 (j) a trade secret or scientific, technical, commercial or financial information that belongs to the City or local board and has monetary value or potential monetary value; or
+
 (k) a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the City or local board.
 
 ### Other criteria
 
 (3) A meeting or part of a meeting shall be closed to the public if the subject matter being considered is,
+
 (a) a request under the Municipal Freedom of Information and Protection of Privacy Act, if the city council, board, commission or other body is the head of an institution for the purposes of that Act; or
+
 (b) an ongoing investigation respecting the City, a local board or a city-controlled corporation by the Ombudsman appointed under the Ombudsman Act, the Ombudsman appointed under subsection 170 (1) of this Act, or the investigator referred to in subsection 190.2 (1).
 
 ### Educational or training sessions
 
 (3.1) A meeting of the City council or local board or of a committee of either of them may be closed to the public if the following conditions are both satisfied:
+
 1. The meeting is held for the purpose of educating or training the members.
+
 2. At the meeting, no member discusses or otherwise deals with any matter in a way that materially advances the business or decision-making of the council, local board or committee.
 
 ### Resolution
 
 (4) Before holding a meeting or part of a meeting that is to be closed to the public, the City or local board or committee of either of them shall state by resolution,
+
 (a) the fact of the holding of the closed meeting and the general nature of the matter to be considered at the closed meeting; or
+
 (b) in the case of a meeting under subsection (3.1), the fact of the holding of the closed meeting, the general nature of its subject-matter and that it is to be closed under that subsection.
 
 ### Opening meeting
@@ -3596,7 +4297,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Exception
 
 (6) Despite subsection 194 (2), a meeting may be closed to the public during a vote if,
+
 (a) subsection (2) or (3) permits or requires the meeting to be closed to the public; and
+
 (b) the vote is for a procedural matter or for giving directions or instructions to officers, employees or agents of the City, to officers, employees or agents of a local board or of a committee of either of them or to persons retained by or under a contract with the City or local board.
 
 ### Non-application
@@ -3610,7 +4313,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Same
 
 (9) The record required by subsection (8) shall be made by,
+
 (a) the clerk, in the case of a meeting of the council; or
+
 (b) the appropriate officer, in the case of a meeting of a local board or committee.
 
 ### Record may be disclosed
@@ -3620,7 +4325,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Investigation
 
 190.1 (1) A person may request that an investigation of whether the City or a local board of the City has complied with section 190 or a procedure by-law under subsection 189 (2) in respect of a meeting or part of a meeting that was closed to the public be undertaken,
+
 (a) by an investigator referred to in subsection 190.2 (1); or
+
 (b) by the Ombudsman appointed under the Ombudsman Act, if the City has not appointed an investigator referred to in subsection 190.2 (1).
 
 ### Non-application
@@ -3646,8 +4353,11 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Same
 
 (5) The matters referred to in subsections (3) and (4) are,
+
 (a) the investigator’s independence and impartiality;
+
 (b) confidentiality with respect to the investigator’s activities; and
+
 (c) the credibility of the investigator’s investigative process.
 
 ### Delegation
@@ -3685,7 +4395,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Calling of meetings
 
 191 Subject to the procedure by-law passed under section 189,
+
 (a) the head of council may at any time call a special meeting; and
+
 (b) upon receipt of a petition of the majority of the members of city council, the clerk shall call a special meeting for the purpose and at the time mentioned in the petition.
 
 ### Presiding officer
@@ -3731,11 +4443,17 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Rules re proxy votes
 
 (2) The following rules apply with respect to the appointment of another member of city council to act as a proxy under subsection (1):
+
 1. A member shall not act as a proxy for more than one member of city council at any one time.
+
 2. The member appointing the proxy shall notify the clerk of the appointment in accordance with the process established by the clerk.
+
 3. For the purpose of determining whether or not a quorum of members is present at any point in time, a proxyholder shall be counted as one member and shall not be counted as both the appointing member and the proxyholder.
+
 4. A proxy shall be revoked if the appointing member or the proxyholder requests that the proxy be revoked and complies with the proxy revocation process established by the clerk.
+
 5. Where a recorded vote is requested under subsection 194 (4), the clerk shall record the name of each proxyholder, the name of the member of city council for whom the proxyholder is voting and the vote cast on behalf of that member.
+
 6. A member who appoints a proxy for a meeting shall be considered absent from the meeting for the purposes of determining whether the office of the member is vacant under clause 204 (1) (c).
 
 ### Pecuniary interest
@@ -3745,7 +4463,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Same, pre-meeting discovery
 
 (4) If, after appointing a proxy, a member discovers that they have a pecuniary interest described in subsection 5(1) of the Municipal Conflict of Interest Act in a matter to be considered at a meeting that is to be attended by the proxyholder, the member shall, as soon as possible,
+
 (a) notify the proxyholder of the interest in the matter and indicate that the proxy will be revoked in respect of the matter; and
+
 (b) request that the clerk revoke the proxy with respect to the matter in accordance with the proxy revocation process established by the clerk.
 
 ### Same, post-meeting discovery
@@ -3781,7 +4501,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Proviso
 
 (5) Nothing in this section,
+
 (a) affects an obligation imposed by or under any Act to make, keep, use, file, register or submit any record in the language or languages specified by or under the Act; or
+
 (b) affects any requirement at law to give reasonable notice.
 
 ### Translations
@@ -3791,13 +4513,17 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Municipal code
 
 196 If the City passes a comprehensive general by-law that consolidates and includes the provisions of any by-law previously passed by the City,
+
 (a) the provisions in the comprehensive general by-law are deemed to have come into force on the day the original by-law came into force; and
+
 (b) any condition or approval required by law to the making of the original by-law is, where such condition was satisfied or approval obtained, deemed to have been satisfied or obtained in respect of the corresponding provision in the comprehensive general by-law.
 
 ### Seal of the City
 
 197 (1) Every by-law of the City,
+
 (a) shall be under the seal of the City; and
+
 (b) shall be signed by the city clerk and by the head of council or presiding officer who was at the meeting at which the by-law was passed.
 
 ### Failure to seal
@@ -3821,10 +4547,15 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Inspection of records
 
 199 (1) Subject to the Municipal Freedom of Information and Protection of Privacy Act, any person may, at all reasonable times, inspect any of the records under the control of the clerk, including,
+
 (a) by-laws and resolutions of the City and of its local boards;
+
 (b) minutes and proceedings of regular, special or committee meetings of the city council or of the city’s local boards, whether the minutes and proceedings have been adopted or not;
+
 (c) records considered at a meeting, except those records considered during that part of a meeting that was closed to the public;
+
 (d) the records of city council;
+
 (e) statements of remuneration and expenses prepared under section 223.
 
 ### Certified copies
@@ -3866,7 +4597,9 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Destruction of records
 
 (2) Despite section 200, a record of the City or a local board of the City may be destroyed if a retention period for the record has been established under this section and,
+
 (a) the retention period has expired; or
+
 (b) the record is a copy of the original record.
 
 ### Retention periods
@@ -3884,6 +4617,7 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Interpretation
 
 (6) In this section,
+
 “record” does not include a record of the police service board of the City that is directly related to any law enforcement activity with respect to a person or body.
 
 ### Eligibility
@@ -3891,25 +4625,37 @@ vi. facilities designed to have regard for accessibility for persons with disabi
 ### Eligibility for office
 
 202 Every person is qualified to be elected or to hold office as a member of city council,
+
 (a) who is entitled to be an elector in the City under section 17 of the Municipal Elections Act, 1996; and
+
 (b) who is not disqualified by this or any other Act from holding the office.
 
 ### Ineligibility for office
 
 203 (1) The following persons are not eligible to be elected as a member of city council or to hold office as a member of city council:
+
 1. Except in accordance with section 30 of the Municipal Elections Act, 1996,
+
 i. a city employee,
+
 ii. a person who is not a city employee but who is the clerk, treasurer, Integrity Commissioner, Auditor General or Ombudsman or registrar referred to in section 168 or an investigator referred to in subsection 190.2 (1) of the City, or
+
 iii. a person who is not a city employee but who holds any administrative position of the City.
+
 2. A judge of any court.
+
 3. A member of the Assembly as provided in the Legislative Assembly Act or of the Senate or House of Commons of Canada.
+
 4. Except in accordance with Part V of the Public Service of Ontario Act, 2006 and any regulations made under that Part, a public servant within the meaning of that Act.
 
 ### Disqualification
 
 (2) A member of city council is disqualified from holding office if, at any time during the term of office of that member, he or she,
+
 (a) ceases to be a Canadian citizen;
+
 (b) is not a resident, the owner or tenant of land or the spouse of an owner or tenant of land in the City; or
+
 (c) would be prohibited under this or any other Act from voting in an election for the office of member of city council if an election was held at that time.
 
 ### Vacancies
@@ -3917,13 +4663,21 @@ iii. a person who is not a city employee but who holds any administrative positi
 ### Vacant seat
 
 204 (1) The office of a member of city council becomes vacant if the member,
+
 (a) becomes disqualified from holding the office of a member of council under section 202 or 203;
+
 (b) fails to make the declaration of office before the deadline in section 186;
+
 (c) is absent from the meetings of council for three successive months without being authorized to do so by a resolution of council;
+
 (d) resigns from his or her office and the resignation is effective under section 205;
+
 (e) is appointed or elected to fill any vacancy in any other office on the council;
+
 (f) has his or her office declared vacant in any judicial proceeding;
+
 (g) forfeits his or her office under this or any other Act; or
+
 (h) dies, whether before or after accepting office and making the declaration of office required by section 186.
 
 ### Exception
@@ -3953,7 +4707,9 @@ iii. a person who is not a city employee but who holds any administrative positi
 ### Filling vacancies
 
 208 (1) If a vacancy occurs in the office of a member of city council, the City shall, subject to this section,
+
 (a) fill the vacancy by appointing a person who has consented to accept the office if appointed; or
+
 (b) require a by-election to be held to fill the vacancy in accordance with the Municipal Elections Act, 1996.
 
 ### Court-ordered election
@@ -3963,10 +4719,15 @@ iii. a person who is not a city employee but who holds any administrative positi
 ### Rules applying to filling vacancies
 
 (3) The following rules apply to filling vacancies:
+
 1. Within 60 days after the day a declaration of vacancy is made with respect to the vacancy under section 207, the City shall,
+
 i. appoint a person to fill the vacancy under subsection (1), or
+
 ii. pass a by-law requiring a by-election be held to fill the vacancy under subsection (1).
+
 2. Despite paragraph 1, if a court declares an office to be vacant, the City shall act under subsection (1) within 60 days after the day the court makes its declaration.
+
 3. Despite subsections (1) and (2), if a vacancy occurs within 90 days before voting day of a regular election, the City is not required to fill the vacancy.
 
 ### Term of office, vacancy
@@ -4008,31 +4769,49 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### City policies
 
 212 (1) The City shall adopt and maintain policies with respect to the following matters:
+
 1. Its sale and other disposition of land.
+
 2. Its hiring of employees.
+
 2.1 The relationship between members of council and the officers and employees of the City.
+
 3. Its procurement of goods and services.
+
 4. The circumstances in which the City shall provide notice to the public and, if notice is to be provided, the form, manner and times notice shall be given.
+
 5. The manner in which the City will try to ensure that it is accountable to the public for its actions, and the manner in which the City will try to ensure that its actions are transparent to the public.
+
 6. Repealed: 2009, c. 33, Sched. 21, s. 4 (12).
+
 7. The delegation of its powers and duties.
+
 8. The financing of capital works, including the limits on the annual costs associated with the financing.
+
 9. The manner in which the City will protect and enhance the tree canopy and natural vegetation in the City.
+
 10. Pregnancy leaves and parental leaves of members of city council.
 
 ### Policies of certain local boards
 
 (2) A local board (restricted definition) shall adopt and maintain policies with respect to the following matters:
+
 1. Its sale and other disposition of land.
+
 2. Its hiring of employees.
+
 3. Its procurement of goods and services.
 
 ### Definition
 
 (3) In this section,
+
 “local board (restricted definition)” means,
+
 (a) a local board other than a police service board and a hospital board,
+
 (b) a local housing corporation as defined in the Housing Services Act, 2011, despite clause 26 (b) of that Act, and
+
 (c) any other prescribed body performing a public function.
 
 ### Integrated Planning for Service Delivery
@@ -4068,8 +4847,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Investigation by judge
 
 215 (1) If the City so requests by resolution, a judge of the Superior Court of Justice shall,
+
 (a) investigate any supposed breach of trust or other misconduct of a member of city council, a city employee or a person having a contract with the City in relation to the duties or obligations of that person to the City;
+
 (b) inquire into any matter connected with the good government of the City; or
+
 (c) inquire into the conduct of any part of the public business of the City, including business conducted by a commission appointed by city council or elected by the electors.
 
 ### Application of Public Inquiries Act, 2009
@@ -4097,22 +4879,31 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Restricted acts
 
 216 (1) City council shall not take any action described in subsection (3) after the first day during the election for a new council on which it can be determined that one of the following applies to the new council that will take office following the election:
+
 1. If the new council will have the same number of members as the outgoing council, the new council will include less than three-quarters of the members of the outgoing council.
+
 2. If the new council will have more members than the outgoing council, the new council will include less than three-quarters of the members of the outgoing council or, if the new council will include at least three-quarters of the members of the outgoing council, three-quarters of the members of the outgoing council will not constitute, at a minimum, a majority of the members of the new council.
+
 3. If the new council will have fewer members than the outgoing council, less than three-quarters of the members of the new council will have been members of the outgoing council or, if at least three-quarters of the members of the new council will have been members of the outgoing council, three-quarters of the members of the new council will not constitute, at a minimum, a majority of the members of the outgoing council.
 
 ### Basis for determination
 
 (2) If a determination under subsection (1) is made,
+
 (a) after nomination day but before voting day, the determination shall be based on the nominations to the new council that have been certified and any acclamations made to the new council; or
+
 (b) after voting day, the determination shall be based on the declaration of the results of the election including declarations of election by acclamation.
 
 ### Restrictions
 
 (3) The actions referred to in subsection (1) are,
+
 (a) the appointment or removal from office of any city officer;
+
 (b) the hiring or dismissal of any city employee;
+
 (c) the disposition of any real or personal property of the City which has a value exceeding $50,000 at the time of disposal; and
+
 (d) making any expenditures or incurring any other liability which exceeds $50,000.
 
 ### Exception
@@ -4132,21 +4923,33 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Definitions
 
 217 In this section and in sections 218 to 221,
+
 “designated employee” means any salaried officer, or any other person in the employ of the City or of a local board (extended definition) of the City and includes,
+
 (a) a member of the city police service,
+
 (b) persons that provide their services on behalf of the City without remuneration, exclusive of reimbursement of expenses or honoraria, if city council has passed a by-law designating such persons or classes of persons as designated employees for the purposes of this section, and
+
 (c) any other person or class of persons designated as a designated employee by the Minister of Municipal Affairs and Housing; (“employé désigné”)
+
 “designated former employee” means a person who was formerly a designated employee of the City or a local board (extended definition) of the City; (“ancien employé désigné”)
+
 “former member” means a person who was formerly a member of city council or of a local board (extended definition) of the City; (“ancien membre”)
+
 “local board (extended definition)” means a local board as defined in the Municipal Affairs Act. (“conseil local (définition élargie)”)
 
 ### Insurance
 
 218 (1) Despite the Insurance Act, the City may be or act as an insurer with respect to the following matters:
+
 1. Protection against risks that may involve pecuniary loss or liability on the part of the City or any local board (extended definition) of the City.
+
 2. The protection of its designated employees or designated former employees or those of any local board (extended definition) of the City against risks that may involve pecuniary loss or liability on the part of those employees.
+
 3. Subject to section 14 of the Municipal Conflict of Interest Act, the protection of the members or former members of city council or of any local board (extended definition) of the City or any class of those members against risks that may involve pecuniary loss or liability on the part of the members.
+
 4. Subject to section 14 of the Municipal Conflict of Interest Act, the payment of any damages or costs awarded against any of its designated employees, members, designated former employees or former members or expenses incurred by them as a result of any action or other proceeding arising out of acts or omissions done or made by them in their capacity as designated employees or members, including while acting in the performance of any statutory duty.
+
 5. Subject to section 14 of the Municipal Conflict of Interest Act, the payment of any sum required in connection with the settlement of an action or other proceeding referred to in paragraph 4 and for assuming the cost of defending the designated employees or members in the action or proceeding.
 
 ### Reciprocal contracts
@@ -4186,8 +4989,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Insurance, health, etc.
 
 221 (1) Subject to the Health Insurance Act, the City may provide, but only through contract either with an insurer licensed under the Insurance Act or with an association registered under the Prepaid Hospital and Medical Services Act,
+
 (a) group life insurance for members of city council or of any local board (extended definition) of the City, designated employees or designated former employees of the City or of such a local board or any class of them and their spouses and children;
+
 (b) group accident insurance or group sickness insurance for members of city council or of any local board (extended definition) of the City, designated employees or designated former employees of the City or of such a local board or any class of them and their spouses and children; and
+
 (c) hospital, medical, surgical, nursing or dental services or payments for those services for members of city council or of any local board (extended definition) of the City, designated employees or designated former employees of the City or of such a local board or any class of them and their spouses and children.
 
 ### Local board
@@ -4203,7 +5009,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Limitations
 
 (2) Despite any Act, the City may only pay the expenses of the members of city council or of a local board of the City, of the officers and employees of the City and of the officers and employees of the local board if the expenses are of those persons in their capacity as members, officers or employees and if,
+
 (a) the expenses are actually incurred; or
+
 (b) the expenses are, in lieu of the expenses actually incurred, a reasonable estimate, in the opinion of the council or local board, of the actual expenses that would be incurred.
 
 ### Local boards
@@ -4217,8 +5025,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Statement of remuneration and expenses
 
 223 (1) The treasurer shall in each year on or before March 31 provide to city council an itemized statement on remuneration and expenses paid in the previous year to,
+
 (a) each member of council in respect of his or her services as a member of the council or any other body, including a local board, to which the member has been appointed by council or on which the member holds office by virtue of being a member of council;
+
 (b) each member of council in respect of his or her services as an officer or employee of the City or as an officer or employee of another body described in clause (a); and
+
 (c) each person, other than a member of council, appointed by the City to serve as a member of any body, including a local board, in respect of his or her services as a member of the body.
 
 ### Mandatory item
@@ -4242,9 +5053,13 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Scope of power
 
 (2) Without limiting sections 7 and 8, the power described in subsection (1) includes the power,
+
 (a) to designate the person or body, including city council, that will conduct the review or appeal provided that the City cannot designate a person or body without his, her or its consent;
+
 (b) to provide for the powers the person or body conducting the review or appeal may exercise;
+
 (c) to establish procedures with respect to the review or appeal;
+
 (d) to provide for rules for authorizing the person or body conducting the review or appeal to determine when decisions subject to review or appeal come into force, including a retroactive date not earlier than the day on which the by-law was passed.
 
 ### Restriction
@@ -4270,7 +5085,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Directions to city employees
 
 226.1 For the purposes of exercising powers or performing duties under this Part, the head of council may, in writing, exercise the powers of the City to direct city employees to,
+
 (a) undertake research and provide advice to the head of council and city council on policies and programs of the City or of the head of council as they relate to the powers and duties under this Part; and
+
 (b) carry out duties related to the exercise of the power or performance of the duty, including implementing any decisions made by the head of council under this Part.
 
 ### In writing
@@ -4284,7 +5101,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Powers re chief administrative officer
 
 226.3 The head of council may appoint a chief administrative officer who shall be responsible for,
+
 (a) exercising general control and management of the affairs of the City for the purpose of ensuring the efficient and effective operation of the City; and
+
 (b) performing such other duties as are assigned by the head of council.
 
 ### Powers re organizational structure
@@ -4298,17 +5117,29 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Limitation
 
 (3) The powers assigned under subsection (1) do not include the power to hire, dismiss or exercise any other prescribed employment powers with respect to any of the following persons:
+
 1. The clerk or deputy clerk.
+
 2. A treasurer or deputy treasurer.
+
 3. An Integrity Commissioner.
+
 4. An Ombudsman.
+
 5. An Auditor General.
+
 6. A registrar, as described in section 168.
+
 7. A chief building official, as defined in the Building Code Act, 1992.
+
 8. A chief of police, as defined in the Community Safety and Policing Act, 2019.
+
 9. A fire chief, as defined in the Fire Protection and Prevention Act, 1997.
+
 10. A medical officer of health, as defined in the Health Protection and Promotion Act.
+
 11. Other officers or heads of divisions required to be appointed under this or any other Act.
+
 12. Any other prescribed persons.
 
 ### Transition
@@ -4330,8 +5161,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Powers re committees
 
 226.6 Subject to the regulations, if any, the following powers of the City with respect to prescribed committees, or committees within a prescribed class of committees, are assigned to the head of council:
+
 1. The power to establish or dissolve committees.
+
 2. The power to appoint the chairs and vice-chairs of committees.
+
 3. The power to assign functions to committees.
 
 ### Provincial priorities
@@ -4349,6 +5183,7 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Interpretation
 
 (2) In this section,
+
 “meeting” has the same meaning as in subsection 189 (1).
 
 ### Veto powers
@@ -4356,8 +5191,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Application
 
 226.9 (1) This section applies with respect to by-laws under,
+
 (a) this Act and the regulations, other than under any prescribed section;
+
 (b) the Planning Act and its regulations, other than any prescribed section; and
+
 (c) any other prescribed Act or regulation or prescribed section of an Act or regulation.
 
 ### By-law for consideration
@@ -4371,11 +5209,17 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### By-law commencement
 
 (4) Despite any other Act, a by-law that is subject to this section shall be deemed not to have been passed by city council until,
+
 (a) if notice has not been given under subsection (3), the earlier of,
+
 (i) the day written approval of the by-law is given by the head of council to the City, and
+
 (ii) two days after the day city council voted in favour of the by-law or the prescribed deadline, as the case may be; or
+
 (b) if notice has been given under subsection (3), the earlier of,
+
 (i) the day written approval of the by-law is given by the head of council to the City, and
+
 (ii) 14 days, or such other prescribed time period, after the day city council voted in favour of the by-law.
 
 ### Veto powers
@@ -4389,7 +5233,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Duties of clerk
 
 (7) If the head of council vetoes a by-law the clerk shall,
+
 (a) by the next business day after the clerk receives the written veto document under subsection (5), provide each member of city council, other than the head of council, a copy of the written veto document; and
+
 (b) make the written veto document available to the public in accordance with the regulations, if any.
 
 ### Effect of veto
@@ -4415,8 +5261,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Powers re by-laws
 
 226.9.1 (1) This section applies with respect to by-laws under,
+
 (a) this Act and the regulations, other than under any prescribed section;
+
 (b) the Planning Act and its regulations, other than under any prescribed section; and
+
 (c) any other prescribed Act or regulation or prescribed section of an Act or regulation.
 
 ### Procedure
@@ -4426,7 +5275,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Same
 
 (3) The head of council shall, in accordance with the regulations, provide to the clerk and to each member of city council,
+
 (a) a copy of any by-law proposed under subsection (2); and
+
 (b) the head of council’s reasons for the proposal.
 
 ### More than one-third vote required
@@ -4444,24 +5295,35 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Rules applying to filling vacancies
 
 (2) Subject to subsection (3) and the regulations, if any, the following rules apply to filling vacancies in the office of head of council:
+
 1. Within 60 days after the day a declaration of vacancy is made under section 207 with respect to the vacancy, the City shall pass a by-law requiring a by-election to be held to fill the vacancy.
+
 2. Despite paragraph 1, if a court declares the office of head of council to be vacant, the City shall act under subsection (1) within 60 days after the court makes its declaration.
+
 3. Despite subsection (1), if a vacancy occurs within 90 days before voting day of a regular election, the City is not required to fill the vacancy.
 
 ### Vacancy after March 31 in the year of a regular election
 
 (3) Subject to the regulations, if any, if a vacancy in the office of head of council occurs after March 31 in the year of a regular election,
+
 (a) within 60 days after the day a declaration of vacancy is made under section 207 with respect to the vacancy, the City shall fill the vacancy by appointing a person who has consented to accept the office if appointed; and
+
 (b) for the remainder of the term of the head of council appointed under clause (a),
+
 (i) the head of council appointed under clause (a) shall not exercise the powers or perform the duties in this Part, and
+
 (ii) the prescribed powers and duties of the head of council in this Part are assigned to the City.
 
 ### Delegation
 
 226.11 (1) Subject to the prescribed limitations, if any, the head of council may delegate their powers and duties under the following sections:
+
 1. Section 226.3 (chief administrative officer).
+
 2. Section 226.4 (organizational structure).
+
 3. Section 226.5 (local boards).
+
 4. Section 226.6 (committees).
 
 ### Same
@@ -4475,8 +5337,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Transition
 
 226.13 (1) A person who held one of the following positions immediately before the day section 2 of Schedule 1 to the Strong Mayors, Building Homes Act, 2022 came into force shall continue in that position unless they are dismissed or their appointment is revoked, as the case may be, by the head of council:
+
 1. Chief administrative officer.
+
 2. Chair or vice-chair of a local board.
+
 3. Chair or vice-chair of a committee.
 
 ### Same
@@ -4514,17 +5379,29 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Regulations
 
 226.15 (1) The Minister may make regulations for the purposes of this Part, including,
+
 (a) requiring the head of council to make information and documents available to city council, the public and other persons or classes of persons and prescribing the information and documents to be made available;
+
 (b) respecting the form, manner and timing in which information and documents are to be made available to city council, the public or other persons or classes of persons;
+
 (c) respecting procedures and rules the head of council, city council and the clerk are required to follow in connection with this Part;
+
 (d) respecting the powers assigned to the head of council in connection with committees, for the purposes of section 226.6;
+
 (e) governing by-elections with respect to the office of head of council for the purposes of section 226.10;
+
 (f) respecting procedures, rules and other matters in connection with filling a vacancy in the office of the head of council;
+
 (g) providing for such transitional matters as the Minister considers necessary or advisable in connection with the implementation of this Part;
+
 (h) defining, for the purposes of this Part and any regulations under this Part, any word or expression not defined in section 3 of this Act, and in so doing may define a word or expression differently for different provisions;
+
 (i) respecting the use of powers and performance of duties under this Part, including respecting conditions and limits with respect to their use or performance;
+
 (j) providing that the head of council cannot use a power or perform a duty, assigning those powers and duties to city council and prescribing procedures, rules and other matters in connection with such circumstances;
+
 (k) prescribing provisions of the Act or any other Act that apply or do not apply for the purposes of this Part and providing for such modifications to those provisions as the Minister considers appropriate;
+
 (l) prescribing deadlines, dates and time periods for the purposes of this Part.
 
 ### Same
@@ -4534,8 +5411,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Regulations, budget
 
 (3) The Minister may, for the purposes of section 226.14, make regulations,
+
 (a) respecting the powers and duties of the head of council and of city council in connection with preparing and adopting a budget;
+
 (b) respecting procedures, rules and other matters in connection with preparing and adopting a budget; and
+
 (c) providing for the circumstances in which the budget is deemed to be adopted.
 
 ### Retroactive
@@ -4559,8 +5439,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Yearly budget
 
 228 (1) For each year, the City shall in the year or the immediately preceding year prepare and adopt a budget including estimates of all sums required during the year for the purposes of the City, including,
+
 (a) amounts sufficient to pay all debts of the City falling due within the year;
+
 (b) amounts required to be raised for sinking funds or retirement funds;
+
 (c) amounts required for any board, commission or other body.
 
 ### Exception
@@ -4570,31 +5453,49 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Detail and form
 
 (3) The budget shall set out the following amounts:
+
 1. The estimated revenues, including the amount the City intends to raise on all the rateable property in the City by its general local municipality levy and the amount it intends to raise on less than all the rateable property in the City by a special local municipality levy under section 277.
+
 2. The estimated portion of the estimated revenues described in paragraph 1, if any, to be paid into the City’s reserve, sinking and retirement funds.
+
 3. The estimated expenses, subject to any regulation made under clause 241 (2) (a).
+
 4. The estimated portion of the estimated expenses described in paragraph 3, if any, to be paid out of the City’s reserve, sinking and retirement funds.
 
 ### Reserve fund adjustment
 
 (4) The total calculated under paragraph 1 shall be at least equal to the total calculated under paragraph 2:
+
 1. The amount described in paragraph 1 of subsection (3), added to the amount described in paragraph 4 of subsection (3).
+
 2. The amount described in paragraph 2 of subsection (3), added to the amount described in paragraph 3 of subsection (3).
 
 ### Allowance
 
 (5) In preparing the budget for a year, the City,
+
 (a) shall not include in the estimated revenues described in paragraph 1 of subsection (3) the estimated proceeds of any borrowing during the year;
+
 (b) shall treat as estimated revenues any surplus of any previous year that resulted because,
+
 (i) revenues for that year were greater than the amount described in paragraph 1 of subsection (3) for that year, or
+
 (ii) expenses for that year were less than the amount described in paragraph 3 of subsection (3) for that year;
+
 (c) shall provide for any deficit of any previous year that resulted because,
+
 (i) revenues for that year were less than the amount calculated by deducting for that year the amount described in paragraph 2 of subsection (3) from the amount described in paragraph 1 of subsection (3), or
+
 (ii) expenses were incurred by the City that were not in the budget for that year and were not paid for that year from a reserve, sinking or retirement fund;
+
 (d) shall provide for the cost of the collection of taxes and any abatement or discount of taxes;
+
 (e) shall provide for taxes and other revenues that in the opinion of the treasurer are uncollectible and for which provision has not been previously made;
+
 (f) may provide for taxes and other revenues that it is estimated will not be collected during the year; and
+
 (g) may provide for such reserve funds as the City considers necessary.
+
 (6) Repealed: 2017, c. 10, Sched. 2, s. 29.
 
 ### Yearly budget from boards, etc.
@@ -4604,7 +5505,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Definitions
 
 (8) In this section,
+
 “reserve fund” includes a reserve; (“fonds de réserve”)
+
 “taxes” means taxes imposed under any Part of this Act. (“impôts”)
 
 ### Multi-year budget
@@ -4622,8 +5525,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Other years, mandatory review of annual budget
 
 (4) For the second and each subsequent year to which a multi-year budget applies, the City shall, in the year or the immediately preceding year,
+
 (a) review the budget for that year;
+
 (b) make such changes as are required for the purpose of making the provisions of the budget for that year comply with the requirements of section 228, except clause 228 (5) (b); and
+
 (c) readopt the budget for that year and for subsequent years to which the budget applies.
 
 ### Exception
@@ -4633,7 +5539,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Power and duty not affected
 
 (6) Nothing in this section,
+
 (a) limits the power of the City to amend or revoke a budget adopted or readopted under this section; or
+
 (b) removes the obligation of the City to levy taxes in each year.
 
 ### Deemed adoption
@@ -4705,7 +5613,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Auditor may attend meetings
 
 (4) The auditor may attend any meeting of members of council or any local board of the City and is entitled,
+
 (a) to receive all notices relating to the meeting that any member is entitled to receive; and
+
 (b) to make representations at that meeting on any matter that concerns him or her as auditor.
 
 ### General
@@ -4717,6 +5627,7 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Information re municipal operations
 
 237 (1) In this section,
+
 “local board (extended definition)” includes a conservation authority and any other body performing a public function designated by the Minister of Municipal Affairs and Housing.
 
 ### Information to be provided
@@ -4734,6 +5645,7 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Financial assistance
 
 238 (1) In this section,
+
 “local board (extended definition)” includes a school board, a conservation authority and any other body performing a prescribed public function.
 
 ### Grants and loans
@@ -4753,14 +5665,19 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Regulations re changes in financial reporting requirements
 
 241 (1) If changes in the financial reporting requirements of the City or a local board of the City affect the surplus or deficit of the City or local board, the Minister of Municipal Affairs and Housing may make regulations,
+
 (a) phasing in or authorizing the City or local board to phase in the changes to its budgets over a period of years;
+
 (b) governing the phase-in.
 
 ### Regulations re budgets
 
 (2) The Minister of Municipal Affairs and Housing may make regulations,
+
 (a) prescribing types of expenses that the City or local board may exclude from the estimated expenses described in paragraph 3 of subsection 228 (3);
+
 (b) prescribing conditions that must be met before the City or local board may exclude from the estimated expenses the types of expenses prescribed under clause (a);
+
 (c) prescribing a date for the purposes of subsection (4).
 
 ### Retroactive
@@ -4774,12 +5691,19 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Regulations re reserve fund
 
 242 The Minister of Municipal Affairs and Housing may make regulations,
+
 (a) requiring the City to establish a reserve fund designated for prescribed liabilities of the City which are incurred but not payable until later years;
+
 (b) defining “liabilities” of the City which are incurred for the purpose of clause (a);
+
 (c) requiring the City to make payments into the reserve fund to fund all or part of a prescribed liability at the prescribed times and in the prescribed manner;
+
 (d) prohibiting the City from changing the purpose for which the reserve fund is designated;
+
 (e) prescribing the conditions under which and the purposes for which the City may,
+
 (i) change the designation of all or any part of the reserve fund, and
+
 (ii) borrow from the reserve fund.
 
 ### Regulations re financial information
@@ -4797,10 +5721,15 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Authorized financial activities
 
 245 Without limiting sections 7 and 8, those sections authorize the City to undertake the following financial activities in accordance with such conditions and restrictions as may be prescribed:
+
 1. Borrowing or investing money.
+
 2. Selling debt.
+
 3. Incurring debt without borrowing money for the purpose of obtaining long term financing of any capital undertaking.
+
 4. Entering into financial agreements or using financial instruments for the purpose of minimizing costs or financial risk associated with incurring debt or making investments.
+
 5. Engaging in such other financial activities as may be prescribed.
 
 ### Authorized borrowing
@@ -4818,6 +5747,7 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Definition
 
 (3) In this section,
+
 “debenture” includes any financial instrument for long term borrowing that the City describes as a debenture in a borrowing by-law.
 
 ### Limitation on term
@@ -4827,19 +5757,25 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Use of money received
 
 248 (1) Money received by the City from the sale of debentures or as proceeds of other long-term borrowing, including any premium, and any earnings derived from the investment of that money, shall be applied only,
+
 (a) for the purposes for which the debentures were issued or the other long-term borrowing was undertaken; or
+
 (b) to repay outstanding temporary borrowing with respect to the debentures or the other long-term borrowing.
 
 ### Money not required
 
 (2) If the money received by the City as described in subsection (1) is in excess of or is not required for the purposes for which the debentures were issued or the other long term borrowing was undertaken, it shall be applied,
+
 (a) to repay the principal or interest of the debentures or other long term borrowing; or
+
 (b) to repay any other capital expenditure of the City.
 
 ### Restrictions
 
 248.1 (1) After a debt has been contracted under a by-law, the City shall not, until the debt and interest have been paid,
+
 (a) repeal the by-law or any by-law appropriating money from any source for the payment of the debt or the interest, including the surplus income from any work financed by the debt; or
+
 (b) alter any by-law referred to in clause (a) so as to diminish the amount to be raised annually.
 
 ### Repeal where only part of amount raised
@@ -4861,7 +5797,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Exception, surplus
 
 (2) Despite subsection (1), if the balance of a sinking or retirement fund, including any estimated revenue, as audited by the city auditor is or will be sufficient to entirely repay the principal of the debt for which the fund was established on the date or dates the principal becomes due, the City may apply any surplus in the fund to one or both of the following purposes:
+
 1. Repayment of the principal and interest of any other sinking or retirement fund.
+
 2. Payment for any capital expenditure of the City.
 
 ### Same
@@ -4875,7 +5813,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Application to quash
 
 (2) Subject to section 432.0.9, if a by-law is registered under subsection (1) before the sale or other disposition of the debentures issued under it,
+
 (a) the debentures are valid according to the terms of the by-law; and
+
 (b) the by-law shall not be quashed unless, within three months after the registration, an application is made to a competent court to quash the by-law and a certified copy of the application under seal of the court is registered in the land registry office within that period.
 
 ### Timing
@@ -4893,8 +5833,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Illegal by-law not validated
 
 (6) Nothing in this section makes valid a by-law that requires but has not received the assent of the electors or a by-law which, on the face of it, does not substantially conform to any requirements that may be prescribed with respect to,
+
 (a) the term of the debt or any debenture issued for it;
+
 (b) raising a levy for the amounts of principal and interest payable in a year under a debenture by-law; and
+
 (c) the instalments of principal and interest payable under a debenture by-law.
 
 ### Failure to register
@@ -4910,10 +5853,15 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Agreements for municipal capital facilities
 
 252 (1) This section applies to an agreement entered into by the City for the provision of municipal capital facilities by any person, including another municipality, if the agreement provides for one or more of the following:
+
 1. Lease payments in foreign currencies as provided for in subsection (2).
+
 2. Assistance as provided for in subsection (3).
+
 3. Tax exemptions as provided for in subsection (6).
+
 4. Development charges exemptions as provided for in subsection (7).
+
 5. Transit station charges exemptions as provided for in subsection (7.1).
 
 ### Contents of agreements
@@ -4923,9 +5871,13 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Assistance by the City
 
 (3) Despite section 82, the City may provide financial or other assistance at less than fair market value or at no cost to any person who has entered into an agreement to provide facilities under this section and such assistance may include,
+
 (a) giving or lending money and charging interest;
+
 (b) giving, lending, leasing or selling property;
+
 (c) guaranteeing borrowing; and
+
 (d) providing the services of employees of the City.
 
 ### Restriction
@@ -4939,34 +5891,47 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Tax exemption
 
 (6) Despite any Act, the City may exempt from all or part of the taxes levied for municipal and school purposes land or a portion of it on which municipal capital facilities are or will be located that,
+
 (a) is the subject of an agreement under subsection (1);
+
 (b) is owned or leased by a person who has entered an agreement to provide facilities under subsection (1); and
+
 (c) is entirely occupied and used or intended for use for a service or function that may be provided by the City.
 
 ### Development charges exemption
 
 (7) Despite the Development Charges Act, 1997, the City may exempt from the payment of all or part of the development charges imposed by the city under that Act land or a portion of it on which municipal capital facilities are or will be located that,
+
 (a) is the subject of an agreement under subsection (1);
+
 (b) is owned or leased by a person who has entered an agreement to provide facilities under subsection (1); and
+
 (c) is entirely occupied and used or intended for use for a service or function that may be provided by the City.
 
 ### Transit station charges exemption
 
 (7.1) Despite the GO Transit Station Funding Act, 2023, the City may exempt from the payment of all or part of the transit station charges imposed by the City under that Act land or a portion of it on which municipal capital facilities are or will be located that,
+
 (a) is the subject of an agreement under subsection (1);
+
 (b) is owned or leased by a person who has entered an agreement to provide facilities under subsection (1); and
+
 (c) is entirely occupied and used or intended for use for a service or function that may be provided by the City.
 
 ### Notice of tax exemption by-law
 
 (8) Upon passing a by-law under subsection (6), the city clerk shall give written notice of the contents of the by-law to,
+
 (a) the assessment corporation; and
+
 (b) the secretary of any school board if the area of jurisdiction of the board includes the land exempted by the by-law.
 
 ### When agreement entered into
 
 (9) If a municipality designated as a service manager under the Housing Services Act, 2011 has entered into an agreement under section 110 of the Municipal Act, 2001 with respect to housing capital facilities, if the City has not entered into an agreement under this section with respect to the capital facilities and if the City contains all or part of the land on which the capital facilities are or will be located, the City may exercise the power under subsections (3), (6), (7) and (7.1) with respect to the land and the capital facilities but,
+
 (a) a tax exemption under subsection (6) applies to taxation for municipal purposes; and
+
 (b) clause (8) (b) does not apply.
 
 ### Reserve fund
@@ -4980,22 +5945,31 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Tax exemption by school board
 
 (12) Despite any Act, a school board that exercises jurisdiction in all or part of the City and that is authorized to enter into agreements for the provision of school capital facilities by any person may, by resolution, exempt from all or part of the taxes levied for municipal and school purposes land or a portion of the land on which the school capital facilities are or will be located in the City and that,
+
 (a) is the subject of the agreement;
+
 (b) is owned or leased by a person who has entered an agreement to provide school capital facilities; and
+
 (c) is entirely occupied and used or intended for use for a service or function that may be provided by a school board.
 
 ### Education development charges exemption
 
 (13) Despite Division E of Part IX of the Education Act, a school board that is authorized to enter into agreements for the provision of school capital facilities by any person may exempt from the payment of all or part of the education development charges imposed by the school board under that Part land or a portion of it on which school capital facilities are or will be located that,
+
 (a) is the subject of the agreement;
+
 (b) is owned or leased by a person who has entered an agreement to provide school capital facilities; and
+
 (c) is entirely occupied and used or intended for use for a service or function that may be provided by a school board.
 
 ### Notice of tax exemption by school board
 
 (14) Upon the passing of a resolution under subsection (12), the secretary of the school board shall give written notice of the contents of the resolution to,
+
 (a) the assessment corporation;
+
 (b) the city clerk and the city treasurer; and
+
 (c) the secretary of any other school board if the area of jurisdiction of the board includes the land exempted by the resolution.
 
 ### Restriction on tax exemption
@@ -5035,7 +6009,9 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Liability of members for diversion of funds
 
 255 (1) If city council applies any money raised for a special purpose or collected for a sinking or retirement fund otherwise than permitted by this Act, each member who votes for the application,
+
 (a) is personally liable for the amount so applied which may be recovered in a court of competent jurisdiction; and
+
 (b) is disqualified from holding any municipal office for two years.
 
 ### Action by ratepayer
@@ -5059,8 +6035,11 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Regulations re financial activities
 
 256 (1) The Lieutenant Governor in Council may make regulations governing the financial activities of the City described in section 245 and any other financial activities of the City, including regulations,
+
 (a) prescribing and defining types of investment, borrowing, debt financing and sale of debt, and financial activities;
+
 (b) prescribing and defining financial agreements and instruments that the City may issue or enter for or in relation to its financial activities;
+
 (c) prescribing rules, conditions and procedures for or in relation to its financial activities.
 
 ### Same, Minister
@@ -5070,11 +6049,17 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Regulations re municipal capital facilities
 
 257 The Lieutenant Governor in Council may make regulations,
+
 (a) defining municipal capital facilities for the purposes of section 252;
+
 (b) prescribing eligible municipal capital facilities that may and may not be the subject of agreements under subsection 252 (1);
+
 (c) prescribing rules, procedures, conditions and prohibitions for the City entering agreements under subsection 252 (1);
+
 (d) prescribing for the purposes of subsection 252 (2) foreign currencies in which the City may make lease payments under such conditions as may be prescribed;
+
 (e) prescribing eligible municipal capital facilities for which the City may and may not grant tax exemptions under subsection 252 (6), development charges exemptions under subsection 252 (7) or transit station charges exemptions under subsection 252 (7.1);
+
 (f) defining and prescribing eligible school capital facilities for which school boards may and may not grant tax exemptions under subsection 252 (12) or exemptions from education development charges under subsection 252 (13).
 
 ## part ix FEES AND CHARGES
@@ -5082,23 +6067,33 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Definitions
 
 258 In this Part,
+
 “by-law” includes a resolution for the purpose of a local board; (“règlement municipal”)
+
 “fee or charge” means, in relation to the City, a fee or charge imposed by the City under sections 7 and 8 and, in relation to a local board (extended definition), means a fee or charge imposed by the local board under subsection 259 (1.1); (“droits ou redevances”)
+
 “local board (extended definition)” includes any prescribed body performing a public function and a school board but, for the purpose of passing by-laws imposing fees or charges under this Part, does not include a school board or hospital board; (“conseil local (définition élargie)”)
+
 “person” includes a municipality, a local board (extended definition) and the Crown. (“personne”)
 
 ### By-laws re fees and charges
 
 259 (1) Without limiting sections 7 and 8, those sections authorize the City to pass by-laws imposing fees or charges on persons,
+
 (a) for services or activities provided or done by or on behalf of it;
+
 (b) for costs payable by it for services or activities provided or done by or on behalf of any other municipality or any local board; and
+
 (c) for the use of its property including property under its control.
 
 ### Local board
 
 (1.1) A local board (extended definition) of the City may impose fees or charges on persons,
+
 (a) for services or activities provided or done by or on behalf of it;
+
 (b) for costs payable by it for services or activities provided or done by or on behalf of any municipality or other local board (extended definition); and
+
 (c) for the use of its property including property under its control.
 
 ### Same
@@ -5124,10 +6119,15 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Restriction, fees and charges
 
 261 (1) No fee or charge by-law shall impose a fee or charge that is based on, is in respect of or is computed by reference to,
+
 (a) the income of a person, however it is earned or received, except that the City or local board (extended definition) may exempt, in whole or in part, any class of persons from all or part of a fee or charge on the basis of inability to pay;
+
 (b) the use, purchase or consumption by a person of property other than property belonging to or under the control of the City or local board (extended definition) that passes the by-law;
+
 (c) the use, consumption or purchase by a person of a service other than a service provided or performed by or on behalf of or paid for by the City or local board (extended definition) that passes the by-law;
+
 (d) the benefit received by a person from a service other than a service provided or performed by or on behalf of or paid for by the City or local board (extended definition) that passes the by-law; or
+
 (e) the generation, exploitation, extraction, harvesting, processing, renewal or transportation of natural resources.
 
 ### Basis of fee not limited
@@ -5153,22 +6153,35 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Amount owing added to tax roll
 
 (2) The city treasurer may, and upon the request of a local board (extended definition) whose area of jurisdiction includes any part of the City shall, add fees and charges imposed by the City or a local board (extended definition), respectively, to the tax roll for the following property in the City and collect them in the same manner as municipal taxes:
+
 1. In the case of fees and charges for the supply of a service or thing to a property, the property to which the service or thing was supplied.
+
 2. In all other cases, any property for which all of the owners are responsible for paying the fees and charges.
+
 265 Repealed: 2017, c. 23, Sched. 5, s. 15.
 
 ### Regulations re fees and charges
 
 266 The Minister of Municipal Affairs and Housing may make regulations providing for any matters which, in the opinion of the Minister, are necessary or desirable for the purposes of this Part, including,
+
 (a) providing that the City or a local board (extended definition) does not have the power to impose fees or charges for services or activities, for costs payable for services or activities, for use of municipal property or on the persons prescribed in the regulation;
+
 (b) imposing conditions and limitations on the powers of the City or a local board (extended definition) to impose fees or charges;
+
 (c) providing that a body is a local board (extended definition) for the purpose of this Part;
+
 (d) providing that fees or charges in a prescribed class of fees or charges which are added to the tax roll under subsection 264 (2) have priority lien status and designating all or any of those fees or charges to be fees or charges relating to a local improvement;
+
 (e) providing that fees or charges that have priority lien status under clause (d) are payable with respect to property that is exempt from taxation under section 3 of the Assessment Act;
+
 (f) requiring the City or a local board (extended definition) to give the prescribed notice of its intention to pass a by-law imposing the fees and charges which have priority lien status under clause (d) to the prescribed persons in the manner and form and at the times prescribed;
+
 (g) providing for a process of appealing a by-law to the extent that it imposes the fees or charges that have priority lien status under clause (d) and providing that the appeal may apply to all or any aspect of the by-law specified in the regulations;
+
 (h) providing for the powers the person or body hearing the appeal under clause (g) may exercise;
+
 (i) providing for rules or authorizing the person or body hearing the appeal under clause (g) to determine when by-laws subject to appeal come into force, including a retroactive date not earlier than the day on which the by-law was passed;
+
 (j) without limiting any of clauses (a) to (i), providing for any matter provided for in the Local Improvement Act, as it read immediately before its repeal on January 1, 2003, including delegations of authority.
 
 ## part x Power to Impose Taxes
@@ -5180,50 +6193,87 @@ ii. pass a by-law requiring a by-election be held to fill the vacancy under subs
 ### Exclusions, types of tax
 
 (2) The City is not authorized to impose any of the following taxes:
+
 1. A tax imposed on a person in respect of the person’s income, revenue, profits, receipts or other similar amounts.
+
 2. A tax imposed on a person in respect of the person’s paid up capital, reserves, earned surplus, capital surplus or any other surplus, indebtedness or in respect of similar amounts.
+
 3. A tax imposed on a person in respect of machinery and equipment used in research and development or used in manufacturing and processing and in respect of any assets used to enhance productivity, including computer hardware and software.
+
 4. A tax imposed on a person in respect of remuneration for services, including non-monetary remuneration, that is paid or payable by the person or that is conferred or to be conferred by the person.
+
 5. A sales tax imposed on a person in respect of the acquisition or purchase of any tangible personal property, any service or any intangible property, other than a tax imposed on the person,
+
 i. for the purchase of admission to a place of amusement as defined in the Retail Sales Tax Act,
+
 ii. for the purchase of liquor as defined in subsection 1 (1) of the Liquor Licence and Control Act, 2019 for use or consumption,
+
 iii. for the production by the person of beer or wine, as defined in subsection 1 (1) of the Liquor Licence and Control Act, 2019, at a ferment on premises facility, as defined in subsection 1 (1) of that Act, for use or consumption,
+
 iv. for the purchase of tobacco as defined in section 1 of the Tobacco Tax Act for use or consumption, or
+
 v. in respect of the purchase of transient accommodation.
+
 6. Revoked: 2017, c. 8, Sched. 4, s. 4 (3).
+
 7. A tax imposed on a person in respect of the acquisition of any gas or liquid that may be used for the purpose of generating power by means of internal combustion and in respect of any special product or any substance that may be added to the gas or liquid.
+
 8. A tax imposed on a person in respect of the person’s consumption or use of energy, including electricity.
+
 9. A tax on a person’s wealth, including an inheritance tax and a tax in respect of,
+
 i. the total value of assets or the total value of two or more classes of assets owned by the person, or
+
 ii. any monetary assets or financial instruments owned by the person.
+
 10. A poll tax imposed on an individual by reason only of his or her presence or residence in the City or in part of it.
+
 11. A tax on the generation, exploitation, extraction, harvesting, processing, renewal or transportation of natural resources.
+
 12. A tax on the supply of natural gas or artificial gas.
+
 13. A tax on the use of a highway (as defined in subsection 1 (1) of the Highway Traffic Act) by a person in respect of equipment placed under, on or over the highway for the purpose of supplying a service to the public.
+
 14. A tax imposed on an individual in respect of the issuance or validation of a permit under the Highway Traffic Act for a motor vehicle belonging to one of the following classes, within the meaning of that Act, for which a permit may be issued or validated under that Act:
+
 i. Passenger cars.
+
 ii. Motorcycles.
+
 iii. Motor assisted bicycles.
+
 iv. Commercial motor vehicles with a gross weight of not more than 3,000 kilograms and which are used primarily for personal transportation, but not including buses.
 
 ### Requirements for by-law
 
 (3) A by-law described in subsection (1) must satisfy the following criteria:
+
 1. It must state the subject of the tax to be imposed.
+
 2. It must state the tax rate or the amount of tax payable.
+
 3. It must state the manner in which the tax is to be collected, including the designation of any persons or entities who are authorized to collect the tax as agents for the City and any collection obligations of persons or entities who are required to collect the tax under subsection (5).
 
 ### Other contents of by-law
 
 (4) A by-law described in subsection (1) may provide for,
+
 (a) exemptions from the tax;
+
 (b) rebates of tax;
+
 (c) penalties for failing to comply with the by-law;
+
 (d) interest on outstanding taxes or penalties;
+
 (e) the assessment of outstanding tax, penalties or interest;
+
 (f) audit and inspection powers;
+
 (g) the establishment and use of dispute resolution mechanisms;
+
 (h) the establishment and use of such enforcement measures as the city council considers appropriate if an amount assessed for outstanding tax, penalties or interest remains unpaid after it is due, including measures such as garnishment, the seizure and sale of property and the creation and registration of liens;
+
 (i) such other matters as city council considers appropriate.
 
 ### By-law may require persons or entities to collect tax
@@ -5237,11 +6287,17 @@ iv. Commercial motor vehicles with a gross weight of not more than 3,000 kilogra
 ### Persons, etc., not subject to tax
 
 268 The City is not authorized to impose taxes under section 267 on any of the following:
+
 1. The Crown, every agency of the Crown in right of Ontario and every authority, board, commission, corporation, office or organization of persons a majority of whose directors, members or officers are appointed or chosen by or under the authority of the Lieutenant Governor in Council or a member of the Executive Council.
+
 2. Every board as defined in subsection 1 (1) of the Education Act.
+
 3. Every university in Ontario and every college of applied arts and technology and post-secondary institution in Ontario whether or not affiliated with a university, the enrolments of which are counted for purposes of calculating annual operating grants entitlements from the Crown.
+
 4. Every hospital referred to in the list of hospitals and their grades and classifications maintained by the Minister of Health and Long-Term Care under the Public Hospitals Act and every private hospital operated under the authority of a licence issued under the Private Hospitals Act.
+
 5. Every long-term care home as defined in subsection 2 (1) of the Fixing Long-Term Care Act, 2021.
+
 6. Such other persons and entities as may be prescribed.
 
 ### Effect re Part XI
@@ -5271,10 +6327,15 @@ iv. Commercial motor vehicles with a gross weight of not more than 3,000 kilogra
 ### Regulations re power to impose taxes
 
 272 On the recommendation of the Minister of Finance, the Lieutenant Governor in Council may make regulations providing for any matters which, in the opinion of the Lieutenant Governor in Council, are necessary or desirable for the purposes of this Part, including,
+
 (a) prescribing conditions and limits with respect to the imposition of a tax under a by-law made under subsection 267 (1);
+
 (b) governing the collection of a tax imposed under this Part;
+
 (c) prescribing, for the purposes of paragraph 6 of section 268, persons and entities who are not subject to taxes imposed under section 267;
+
 (d) defining any word or expression used in this Part;
+
 (e) governing the sharing of revenue from a tax on transient accommodation between the City and one or more non-profit entities for the exclusive purpose of the non-profit entity in promoting tourism in Ontario or in the City.
 
 ## part xi traditional municipal TAXes
@@ -5282,21 +6343,37 @@ iv. Commercial motor vehicles with a gross weight of not more than 3,000 kilogra
 ### Definitions
 
 273 In this Part,
+
 “assessment” means the assessment for real property made under the Assessment Act according to the last returned assessment roll; (“évaluation”)
+
 “commercial property class” means the commercial property class prescribed under the Assessment Act; (“catégorie des biens commerciaux”)
+
 “general reassessment” means the updating of assessments in a year in respect of which a new valuation date, as specified under subsection 19.2 (1) of the Assessment Act, applies; (“réévaluation générale”)
+
 “payment in lieu of taxes” means an amount referred to in subparagraph 24 iii of subsection 3 (1) of the Assessment Act, taxes for municipal and school purposes payable by a designated electricity utility within the meaning of section 19.0.1 of the Assessment Act or by a corporation referred to in clause (d) of the definition of “municipal electricity utility” in section 88 of the Electricity Act, 1998 or an amount that the City receives under,
+
 (a) subsection 27 (3), section 27.1 or 27.2 of the Assessment Act,
+
 (b) section 285 and subsection 286 (4) of this Act,
+
 (c) section 4 of the Municipal Tax Assistance Act,
+
 (d) section 71 of the Ontario Water Resources Act,
+
 (e) section 84 of the Electricity Act, 1998,
+
 (f) Repealed: 2006, c. 32, Sched. B, s. 58.
+
 (g) the Payments in Lieu of Taxes Act (Canada), or
+
 (h) any Act of Ontario or of Canada or any agreement where the payment is from any government or government agency and is in lieu of taxes on real property, but not including a payment referred to in section 336; (“paiement tenant lieu d’impôts”)
+
 “property class” means a class of real property prescribed under the Assessment Act; (“catégorie de biens”)
+
 “residential property class” means the residential property class prescribed under the Assessment Act; (“catégorie des biens résidentiels”)
+
 “school board” means a board as defined in subsection 1 (1) of the Education Act; (“conseil scolaire”)
+
 “tax rate” means the tax rate to be levied against property expressed as a percentage, to six decimal places, of the assessment of the property. (“taux d’imposition”, “taux de l’impôt”)
 
 ### Taxes to be levied equally
@@ -5306,7 +6383,9 @@ iv. Commercial motor vehicles with a gross weight of not more than 3,000 kilogra
 ### Tax ratios
 
 (2) If, in this or any other Act or any by-law passed under any Act, taxes, fees or charges are expressly or in effect directed or authorized to be levied upon rateable property of the City for municipal purposes, unless expressly provided otherwise,
+
 (a) such taxes, fees or charges shall be calculated as percentages of the assessment for real property in each property class; and
+
 (b) the tax rates and the rates to raise the fees or charges shall be in the same proportion to each other as the tax ratios established under section 275 for the property classes are to each other.
 
 ### Deemed imposition
@@ -5318,8 +6397,11 @@ iv. Commercial motor vehicles with a gross weight of not more than 3,000 kilogra
 ### Definitions
 
 275 (1) In this section,
+
 “commercial classes” means the commercial property class prescribed under the Assessment Act and optional property classes that contain property that, if city council did not opt to have the optional property class apply, would be in the commercial property class; (“catégories commerciales”)
+
 “industrial classes” means the industrial property class prescribed under the Assessment Act and optional property classes that contain property that, if city council did not opt to have the optional property class apply, would be in the industrial property class; (“catégories industrielles”)
+
 “optional property class” means a property class that city council may opt to have apply within the City under regulations made under the Assessment Act. (“catégorie de biens facultative”)
 
 ### Tax ratios
@@ -5345,53 +6427,77 @@ iv. Commercial motor vehicles with a gross weight of not more than 3,000 kilogra
 ### Exception
 
 (7) Despite subsection (6), the tax ratio for a property class for the City may be outside the allowable range in the following circumstances:
+
 1. For the first year for which the property class applies with respect to the City, the tax ratio may be,
+
 i. above the range if it is less than or equal to the transition ratio, for the property class for the City, that is prescribed or determined in accordance with the regulations, or
+
 ii. below the range if it is greater than or equal to the transition ratio, for the property class for the City, that is prescribed or determined in accordance with the regulations.
+
 2. For a subsequent year the tax ratio may be,
+
 i. above the range if it is less than or equal to the tax ratio for the property class for the previous year, or
+
 ii. below the range if it is greater than or equal to the tax ratio for the property class for the previous year.
 
 ### Exception, subsequent reassessment
 
 (8) Despite subsections (6) and (7), the Minister of Finance may prescribe a new transition ratio, including the average transition ratio, for a taxation year or any previous taxation year for a property class for the City and,
+
 (a) for the first year in respect of which the transition ratio is prescribed, the tax ratio may be,
+
 (i) above the allowable range if it is less than or equal to the transition ratio, for the property class for the City, that is prescribed or determined in accordance with the regulations, or
+
 (ii) below the allowable range if it is greater than or equal to the transition ratio, for the property class for the City, that is prescribed or determined in accordance with the regulations; and
+
 (b) for a subsequent year, the tax ratio may be,
+
 (i) above the allowable range if it is less than or equal to the tax ratio for the property class for the previous year, or
+
 (ii) below the allowable range if it is greater than or equal to the tax ratio for the property class for the previous year.
 
 ### Average transition ratios
 
 (9) For the City, there shall be an average transition ratio for the commercial classes and an average transition ratio for the industrial classes, determined in accordance with the following:
+
 1. For the first year that an optional property class applies or, subject to subsection (15) or (16), ceases to apply in the City, the average transition ratio shall be the average transition ratio that is prescribed or determined in accordance with the regulations.
+
 2. For a subsequent year, the average transition ratio shall be the weighted average, for the previous year, of the tax ratios for the property classes to which the average transition ratio relates.
 
 ### Special rule, commercial classes
 
 (10) The tax ratio for a property class that is one of the commercial classes may be greater than what would be allowed under subsection (6), (7) or (8) if the following are satisfied:
+
 1. The tax ratio is less than or equal to the average transition ratio for the commercial classes for the year.
+
 2. The weighted average, for the year, of the tax ratios for the commercial classes does not exceed the average transition ratio for the commercial classes for the year.
 
 ### Special rule, industrial classes
 
 (11) The tax ratio for a property class that is one of the industrial classes may be greater than what would be allowed under subsection (6), (7) or (8) if the following are satisfied:
+
 1. The tax ratio is less than or equal to the average transition ratio for the industrial classes for the year.
+
 2. The weighted average, for the year, of the tax ratios for the industrial classes does not exceed the average transition ratio for the industrial classes for the year.
 
 ### Weighted average
 
 (12) For the purposes of subsections (9) to (11), the weighted average, for a year, of the tax ratios for property classes shall be determined as follows:
+
 1. For each property class, multiply the tax ratio for the property class for the year by the total assessment of the properties in the property class for the year.
+
 2. Add the amounts determined under paragraph 1 for each property class together.
+
 3. Add the total assessments of the properties in the property classes for the year, used in the calculation under paragraph 1, together.
+
 4. The weighted average is the amount determined under paragraph 2 divided by the amount determined under paragraph 3.
 
 ### Optional classes, regulations
 
 (13) The Minister of Finance may make regulations prescribing transition ratios for a year,
+
 (a) for the commercial classes if the City opts to have a property class that is one of the commercial classes apply for the year and the property class did not apply within the City for the previous year;
+
 (b) for the industrial classes if the City opts to have a property class that is one of the industrial classes apply for the year and the property class did not apply within the City for the previous year.
 
 ### Effect of new transition ratios
@@ -5409,11 +6515,17 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Regulations
 
 (17) The Minister of Finance may make regulations,
+
 (a) Repealed: 2009, c. 33, Sched. 21, s. 4 (15).
+
 (b) governing the determination of the tax ratios by the City for a taxation year;
+
 (c) prescribing, for the purposes of subsection (6), the allowable ranges for the tax ratios for the property classes;
+
 (d) prescribing transition ratios for the property classes for the purposes of subsections (7) and (8) or prescribing a method for determining such ratios;
+
 (e) prescribing average transition ratios for the purposes of subsection (9) or prescribing a method for determining such ratios.
+
 (f) requiring the City, despite subsections (6), (7) and (8), to establish, as the tax ratio for the year for each property class specified in the regulations, the ratio specified in the regulations for the property class or determined in accordance with the regulations.
 
 ### Regulations can be retroactive
@@ -5423,7 +6535,9 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Regulations
 
 (19) The Minister of Municipal Affairs and Housing may make regulations,
+
 (a) requiring the City to provide the Minister with the information prescribed at the times and in the manner prescribed;
+
 (b) requiring the City to give notice of the tax ratios to such persons and in such manner as prescribed.
 
 ### Restriction, tax ratios for certain property classes
@@ -5441,6 +6555,7 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### By-law authority
 
 (4) If the City intends to apply a tax ratio of less than 0.25 to the farm property class for a tax year, the City shall pass a by-law in the year to establish the tax ratio for the farm property class for that year for the City.
+
 (5) Repealed: 2009, c. 33, Sched. 21, s. 4 (17).
 
 ### Local municipality levies
@@ -5448,10 +6563,15 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Definitions
 
 277 (1) In this section,
+
 “commercial classes” has the meaning given to that expression by subsection 275 (1); (“catégories commerciales”)
+
 “general local municipality levy” means the amount the City decided to raise in its budget for the year under section 228 on all rateable property in the City; (“impôt général local”)
+
 “industrial classes” has the meaning given to that expression by subsection 275 (1); (“catégories industrielles”)
+
 “optional property class” has the meaning given to that expression by subsection 275 (1); (“catégorie de biens facultative”)
+
 “special local municipality levy” means, where the City is authorized under a provision of any Act, other than this section, or under a regulation under section 287 or any other Act to raise an amount for any purpose on less than all the rateable property in the City, the amount the City decided to raise in its budget for the year under section 228 for that purpose on less than all the rateable property. (“impôt extraordinaire local”)
 
 ### General local municipality levies
@@ -5473,7 +6593,9 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Restrictions on rates
 
 (6) The tax rates to be levied under subsection (2) or (4) are subject to the following restrictions:
+
 1. The rates must be set so that, when they are levied on the applicable assessment rateable for municipal purposes, an amount equal to the general local municipality levy or special local municipality levy, as the case may be, is raised.
+
 2. The rates on the different classes of property must be in the same proportion to each other as the tax ratios established under section 275 for the property classes are to each other.
 
 ### Exception, tax increases
@@ -5491,15 +6613,21 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Regulations
 
 (10) The Minister of Finance may make regulations,
+
 (a) prescribing a tax ratio for a property class for the purpose of subsection (7), including a single tax ratio for the commercial classes or industrial classes;
+
 (b) providing the manner in which the tax rates on property in a property class are to be determined under subsection (7);
+
 (c) providing for the determination of changes in taxes for municipal purposes for a property class.
 
 ### Regulations, funding of rebates
 
 (11) The Minister of Finance may make regulations allowing, subject to conditions prescribed in the regulations, the tax rate for a property class to be greater than would be allowed under paragraph 2 of subsection (6) for the purpose of allowing additional taxes to be levied on property in the property class to fund rebates under section 329 on the following property:
+
 1. Property in the property class.
+
 2. If the property class is one of the commercial classes within the meaning of subsection 275 (1), property in those classes.
+
 3. If the property class is one of the industrial classes within the meaning of subsection 275 (1), property in those classes.
 
 ### Funding of rebates, commercial
@@ -5517,10 +6645,15 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Prescribed subclass tax reductions
 
 278 (1) The tax rates that would otherwise be levied for municipal purposes for the subclasses prescribed under subsection 8 (1) of the Assessment Act shall be reduced in accordance with the following rules:
+
 1. The tax rates that would otherwise be levied for municipal purposes for the subclasses prescribed under paragraph 1 of subsection 8 (1) of the Assessment Act shall be reduced by the percentages prescribed by, or determined in accordance with, the regulations.
+
 2. The tax rates that would otherwise be levied for municipal purposes for the subclasses prescribed under subparagraph 2 i of subsection 8 (1) of the Assessment Act shall be reduced by 30 per cent or such other percentage prescribed by, or determined in accordance with, the regulations.
+
 3. The tax rates that would otherwise be levied for municipal purposes for the subclasses prescribed under subparagraph 2 ii of subsection 8 (1) of the Assessment Act shall be reduced by 35 per cent or such other percentage prescribed by, or determined in accordance with, the regulations.
+
 4. The tax rates that would otherwise be levied for municipal purposes for the subclasses prescribed under subparagraph 3 i of subsection 8 (1) of the Assessment Act shall be reduced by 30 per cent or such other percentage prescribed by, or determined in accordance with, the regulations.
+
 5. The tax rates that would otherwise be levied for municipal purposes for the subclasses prescribed under subparagraph 3 ii of subsection 8 (1) of the Assessment Act shall be reduced by 35 per cent or such other percentage prescribed by, or determined in accordance with, the regulations.
 
 ### City option
@@ -5542,18 +6675,27 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Same
 
 (1.3) Despite subsection (1), the City,
+
 (a) may pass a by-law providing that a tax rate reduction in paragraph 2, 3, 4 or 5 of subsection (1) does not apply; and
+
 (b) may, if authorized by the regulations, pass a by-law providing that a tax rate reduction in paragraph 1 of subsection (1) does not apply.
 
 ### Regulations
 
 (2) The Minister of Finance may make regulations,
+
 (a) prescribing percentages or the manner of determining percentages for the purposes of subsection (1);
+
 (b) prescribing ranges of percentages or the manner of determining ranges of percentages for the purposes of subsection (1.2);
+
 (c) prescribing ranges for the purposes of subsection (1.2);
+
 (d) authorizing the City to pass a by-law referred to in subsection (1.3);
+
 (e) imposing conditions on the ability of the City to pass a by-law referred to in this section.
+
 (3) Repealed: 2017, c. 8, Sched. 4, s. 6 (6).
+
 (4) Repealed: 2016, c. 5, Sched. 5, s. 1 (4).
 
 ### Overlap with graduated tax rates
@@ -5563,7 +6705,9 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Further prescribed subclass tax reductions
 
 278.1 (1) Subject to subsection (2), the tax rate that would be levied for municipal purposes for a subclass prescribed under subsection 8 (1.1) of the Assessment Act because of the class to which the subclass belongs shall be reduced by either,
+
 (a) the percentage prescribed by, or determined in accordance with, the regulations; or
+
 (b) if the regulations prescribe a range of percentages, and the City passes a by-law providing for the application in the City of a percentage within the range, the percentage set out in the by-law.
 
 ### Same
@@ -5573,22 +6717,31 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Regulations
 
 (3) The Minister of Finance may make regulations,
+
 (a) prescribing percentages, ranges of percentages or the manner of determining percentages or ranges for the purposes of subsection (1); and
+
 (b) authorizing the City to pass a by-law referred to in subsection (2).
 
 ### Graduated tax rates
 
 279 (1) The City may, by by-law passed in the year to which it relates,
+
 (a) establish two or three bands of assessment of property for the purposes of facilitating graduated tax rates for any one or more of the classes prescribed under clause (4) (0.a) or included in the commercial classes or the industrial classes; and
+
 (b) set the ratios that the tax rates for each band must bear to each other.
 
 ### Restrictions on bands
 
 (2) The bands for each property class are subject to the following:
+
 1. The lowest band must be the portion of the assessment of a property that is less than or equal to an amount set out in the by-law.
+
 2. The highest band must be the portion of the assessment of a property that is greater than an amount set out in the by-law.
+
 3. If there is a third band, it must cover the portion of the assessment between the lowest and highest bands.
+
 4. The bands must be established so that they cover all of the assessment of a property and do not overlap.
+
 5. The bands must be the same for all properties in the property class.
 
 ### Setting of rates for bands
@@ -5598,33 +6751,45 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Regulations
 
 (4) The Minister of Finance may make regulations,
+
 (0.a) prescribing classes of real property for the purposes of clause (1) (a), other than the residential property class, the multi-residential property class, the farm property class, the pipe line property class or the managed forests property class;
+
 (a) governing the ratios set under clause (1) (b);
+
 (b) governing the setting of tax rates in accordance with the ratios set under clause (1) (b);
+
 (c) varying the application of subsection (5) with respect to a unit or proposed unit within the meaning of the Condominium Act, 1998.
 
 ### Determination of taxes
 
 (5) The taxes for municipal purposes on a property shall be determined by applying the tax rate for each band to the portion of the assessment of the property within that band.
+
 (6) Repealed: 2009, c. 33, Sched. 21, s. 4 (19).
 
 ### Definitions
 
 (7) In this section,
+
 “commercial classes” has the meaning given to that expression by subsection 275 (1); (“catégories commerciales”)
+
 “industrial classes” has the meaning given to that expression by subsection 275 (1). (“catégories industrielles”)
 
 ### Taxation of certain railway, power utility lands
 
 280 (1) The City shall impose taxes, in accordance with the regulations, on the following land:
+
 1. The roadway or right-of-way of a railway company, other than the structures, substructures and superstructures, rails, ties, poles and other property on the roadway or right-of-way, not including land leased by the railway company to another person for rent or other valuable consideration.
+
 2. Land owned by a power utility prescribed by the Minister of Finance, other than a public utility defined in subsection 27 (1) of the Assessment Act, and used as a transmission or distribution corridor, not including land leased by the power utility to another person for rent or other valuable consideration.
 
 ### Regulations
 
 (2) The Minister of Finance may make regulations,
+
 (a) prescribing the rate of tax to be imposed by the City on the land described in subsection (1);
+
 (b) prescribing the rate of tax to be imposed by the City on certain land described in subsection (1) instead of the rate of tax prescribed under clause (a);
+
 (c) prescribing power utilities for the purposes of paragraph 2 of subsection (1).
 
 ### Scope
@@ -5650,14 +6815,19 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Rules
 
 (3) The amounts to be levied are subject to the following rules:
+
 1. The amount levied on a property shall not exceed the prescribed percentage, or 50 per cent if no percentage is prescribed, of the total amount of taxes for municipal and school purposes levied on the property for the previous year.
+
 2. The percentage under paragraph 1 may be different for different property classes but shall be the same for all properties in a property class.
+
 3. For the purposes of calculating the total amount of taxes for the previous year under paragraph 1, if any taxes for municipal and school purposes were levied on a property for only part of the previous year because assessment was added to the tax roll during the year, an amount shall be added equal to the additional taxes that would have been levied on the property if the taxes for municipal and school purposes had been levied for the entire year.
 
 ### By-law passed before assessment roll returned
 
 (4) If a by-law is passed under subsection (1) before the assessment roll for taxation in the current year is returned, the amounts under subsection (1) shall be levied on the assessment according to,
+
 (a) the tax roll for taxation in the previous year as most recently revised before the by-law is passed; or
+
 (b) a preliminary assessment roll provided by the assessment corporation for that purpose.
 
 ### Added assessment
@@ -5695,8 +6865,11 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Definitions
 
 (2) In this section,
+
 “eligible property” means property classified in any property class prescribed under the Assessment Act; (“bien admissible”)
+
 “first taxation year” means a taxation year in respect of which there is a general reassessment; (“première année d’imposition”)
+
 “preceding year” means the taxation year immediately preceding the first taxation year. (“année précédente”)
 
 ### Tax increase to be phased in
@@ -5714,25 +6887,41 @@ ii. below the range if it is greater than or equal to the tax ratio for the prop
 ### Same
 
 (6) For properties that are not subject to Part XII (Limits on Traditional Municipal Taxes) and for the purposes of subsections (3) and (4), the taxes for municipal and school purposes for the preceding year shall be determined as follows:
+
 1. Determine the taxes for municipal and school purposes that were levied on the property in the year.
+
 2. If a supplementary assessment or change in classification was made under section 34 of the Assessment Act during that year or if an assessment or change in classification could have been made under section 34 of that Act and the appropriate change is made to the assessment roll for taxation in the first taxation year, recalculate the taxes determined under paragraph 1 as if the increase in the assessment or change in classification, as the case may be, had applied to the property for all of the year.
+
 3. If city council cancels, reduces or refunds taxes under section 323 for the year on an application under clause 323 (1) (a), (c), (d) or (f) or under section 325 for the year, recalculate the taxes determined under paragraph 1 as if the event that caused the cancellation, reduction or refund had occurred on January 1 of that year.
 
 ### By-law requirements
 
 (7) A by-law under subsection (1) is subject to the following:
+
 1. The by-law may apply to the first taxation year and up to the next seven taxation years.
+
 2. The by-law may replace a by-law made under section 318 of the Municipal Act, 2001 or made under this section so long as the first-mentioned by-law applies for at least the same number of years as remains outstanding under the by-law made under section 318 or this section.
+
 3. The by-law may modify the phase-in on individual properties subject to a phase-in under a by-law made under section 318 of the Municipal Act, 2001 or made under this section in order to reflect tax increases or decreases determined under subsection (3) or (4).
+
 4. The amount to be phased in in a year, other than in the first taxation year, must be the same or less than the amount phased in in the previous year.
+
 5. The amount phased in in the last year in which a tax increase or decrease is phased in plus the total amounts phased in in the previous years must equal the tax increase or decrease for each property as determined under subsection (3) or (4).
+
 6. The by-law may treat different property classes differently and it may provide for no phase-ins for some classes but, if the by-law applies to property in a property class, it must apply to all properties in the property class.
+
 7. For the purposes of paragraph 6, the residential property class, the farm property class and the managed forests property class shall be treated as a single property class.
+
 8. In the first taxation year, the amounts recovered from all properties in the property class whose tax decreases are being phased in shall not exceed the revenues foregone from all properties in the property class whose tax increases are being phased-in for the City.
+
 9. The by-law may provide for a threshold amount in each taxation year, determined in dollars or as a percentage.
+
 10. For the purposes of paragraph 9, the threshold amount for eligible properties in a property class in the City to which subsection (3) applies may be different from the threshold amount for eligible properties in the property class in the City to which subsection (4) applies.
+
 11. If an assessment is made for a property under subsection 32 (2) or 33 (1) of the Assessment Act in or after the first taxation year but the assessment applies to a year prior to the first taxation year,
+
 i. the by-law made under subsection (1) shall apply to the property, and
+
 ii. the taxes for municipal and school purposes on the property shall be recalculated for the first taxation year and for any subsequent taxation year that is subject to the by-law under subsection (1).
 
 ### If change in use, character, classification of property
@@ -5766,15 +6955,21 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Certain changes in first taxation year assessments
 
 (15) The following apply if the assessment of an eligible property for the first taxation year changes as a result of a request under section 39.1 of the Assessment Act, an appeal under section 40 of that Act or an application under section 46 of that Act:
+
 1. The tax increase or decrease for the property shall be redetermined under subsection (3) or (4) using the new assessment for the property.
+
 2. The taxes on the property shall be recalculated using the amount determined under paragraph 1 for each year in which there is a tax increase or decrease.
+
 3. The tax roll shall be amended to reflect the recalculated taxes.
 
 ### Certain changes in assessment in preceding year
 
 (16) The following apply if the assessment of an eligible property for the preceding year changes as a result of a request under section 39.1 of the Assessment Act, an appeal under section 40 of that Act or an application under section 46 of that Act:
+
 1. The tax increase or decrease for the property shall be redetermined under subsection (3) or (4) using the new assessment for the property to determine the taxes for the preceding year.
+
 2. The taxes on the property shall be recalculated using the amount determined under paragraph 1 for each year in which there is a tax increase or decrease.
+
 3. The tax roll shall be amended to reflect the recalculated taxes.
 
 ### Mixed use
@@ -5784,7 +6979,9 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Regulations
 
 (18) The Minister of Finance may make regulations,
+
 (a) prescribing a later deadline for the purposes of subsection (1), either before or after the deadline has passed;
+
 (b) governing by-laws under this section and the calculation of tax increases and decreases to be phased in under such by-laws.
 
 ### Restructuring orders
@@ -5794,7 +6991,9 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Tax deferrals, relief of financial hardship
 
 283 (1) For the purposes of relieving financial hardship, the City may pass a by-law providing for deferrals or cancellation of, or other relief in respect of, all or part of a tax increase for a year on property in the residential property class for persons assessed as owners who are, or whose spouses are,
+
 (a) low-income seniors as defined in the by-law; or
+
 (b) low-income persons with disabilities as defined in the by-law.
 
 ### Tax relief must be given
@@ -5836,7 +7035,9 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Interest and penalties
 
 (11) If the City passes a by-law under subsection (1), the City,
+
 (a) may waive interest and penalties on amounts that were not paid when they were due and that, as a result of the deferral, cancellation or other relief, are no longer owed; and
+
 (b) may pay interest on amounts paid on account of taxes that, as a result of the deferral, cancellation or other relief, exceed the taxes.
 
 ### Different due dates
@@ -5854,8 +7055,11 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Same
 
 (2) Regulations under this section may,
+
 (a) govern which school boards payments in lieu of taxes shall be distributed to;
+
 (b) govern how much shall be distributed to each school board;
+
 (c) govern when the distribution shall be made.
 
 ### Different rules for different payments
@@ -5905,6 +7109,7 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Annual levy on residences for the developmentally disabled
 
 (4) Despite any Act, if there are situate in the City one or more residences that are supported group living residences or intensive support residences under the Services and Supports to Promote the Social Inclusion of Persons with Developmental Disabilities Act, 2008 and that are designated by the Minister of Community and Social Services, the City may by by-law levy an annual amount payable on or after July 1 upon those residences, not exceeding the prescribed amount for each provincially rated bed in the residences as determined by the Minister of Community and Social Services.
+
 (4.1) Repealed: 2008, c. 14, s. 49 (2).
 
 ### Annual levy on provincial education institutions
@@ -5936,6 +7141,7 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Definition
 
 286 (1) In this section,
+
 “non-profit hospital service corporation” means a corporation without share capital that provides laundry or food services to one or more public hospitals, as defined in the Public Hospitals Act.
 
 ### Tax exemption
@@ -5953,18 +7159,27 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### By-laws re special services
 
 287 (1) The City may by by-law,
+
 (a) identify a special service;
+
 (b) determine which of the costs, including capital costs, debenture charges, charges for depreciation or a reserve fund, of the City are related to that special service;
+
 (c) designate the area of the City in which the residents and property owners receive or will receive an additional benefit from the special service that is not received or will not be received in other areas of the City;
+
 (d) determine the portion and set out the method of determining the portion of the costs determined in clause (b) which represent the additional costs to the City of providing the additional benefit in the area designated in clause (c);
+
 (e) determine whether all or a specified portion of the additional costs determined in clause (d) shall be raised under subsection (4).
 
 ### Definitions
 
 (2) In this section,
+
 “benefit” means a direct or indirect benefit that is currently available or will be available in the future; (“avantage”)
+
 “special service” means a service or activity of the City or a local board of the City that is,
+
 (a) not being provided or undertaken generally throughout the City, or
+
 (b) being provided or undertaken at different levels or in a different manner in different parts of the City. (“service spécial”)
 
 ### Limitation
@@ -5978,14 +7193,23 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Regulations
 
 (5) The Minister of Municipal Affairs and Housing may make regulations providing for any matters which, in the opinion of the Minister, are necessary or desirable for the purposes of this section, including,
+
 (a) prescribing services that cannot be identified as a special service under clause (1) (a);
+
 (b) establishing conditions and limits on the exercise of the City’s powers under this section, including making the exercise of the powers subject to the approval of any person or body;
+
 (c) prescribing the amount of the costs or the classes of costs for the purpose of clause (1) (b);
+
 (d) prescribing the area or rules for determining the area for the purpose of clause (1) (c);
+
 (e) prescribing the amount of the additional costs or the rules for determining the additional costs for the purpose of clause (1) (d);
+
 (f) providing for a process of appealing a by-law under this section and the powers the person or body hearing the appeal may exercise;
+
 (g) providing that an appeal under clause (f) may apply to all or any aspect of the by-law;
+
 (h) providing for rules or authorizing the person or body hearing an appeal under clause (f) to determine when by-laws subject to appeal come into force, including a retroactive date not earlier than the day on which the by-law was passed;
+
 (i) for the purpose of subsection (4), exempting or delegating to the City the power to exempt speci fied rateable property from all or part of a special local municipality levy for a specified special service.
 
 ### Retroactive
@@ -6001,9 +7225,13 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Interpretation
 
 288 (1) In this Part,
+
 “commercial classes” means the commercial property class prescribed under the Assessment Act and optional property classes that contain property that, if city council did not opt to have the optional property class apply, would be in the commercial property class; (“catégories commerciales”)
+
 “industrial classes” means the industrial property class prescribed under the Assessment Act and optional property classes that contain property that, if city council did not opt to have the optional property class apply, would be in the industrial property class; (“catégories industrielles”)
+
 “optional property class” means a property class that city council may opt to have apply within the City under regulations made under the Assessment Act; (“catégorie de biens facultative”)
+
 “payment in lieu of taxes” and “property class” have the same meaning as in section 273. (“paiement tenant lieu d’impôts”, “catégorie de biens”)
 
 ### Reference to property class
@@ -6013,6 +7241,7 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Portions of a property
 
 (3) If portions of a property are classified in different property classes on the assessment roll, each portion is deemed to be a separate property for the purposes of this Part.
+
 (4) Repealed: 2016, c. 37, Sched. 3, s. 3.
 
 ### Application to traditional municipal taxes
@@ -6026,10 +7255,15 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Non-application
 
 (3) This Part does not apply to,
+
 (a) property in the subclasses prescribed under paragraph 1 of subsection 8 (1) of the Assessment Act;
+
 (b) property or a portion of the property to which a payment in lieu of taxes relates, except the property of a designated electricity utility within the meaning of subsection 19.0.1 (5) of the Assessment Act or a corporation referred to in clause (d) of the definition of “municipal electricity utility” in section 88 of the Electricity Act, 1998;
+
 (c) an eligible convention centre that is exempt from taxes for school purposes under subsection 257.6 (6) of the Education Act;
+
 (d) despite clause (b), land, buildings and structures to which subsection 19.0.1 (1) of the Assessment Act applies; and
+
 (e) property classified in the residential property class, the farm property class, the managed forests property class or the pipe line property class.
 
 ### Exception
@@ -6051,8 +7285,11 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Regulations
 
 (8) The Minister of Finance may by regulation,
+
 (a) prescribe classes of real property that this Part applies to, other than the residential property class, the farm property class, the pipe line property class or the managed forests property class;
+
 (b) exempt property, including a portion of a property, from the application of this Part;
+
 (c) provide that this Part does not apply in the City.
 
 ### Same
@@ -6070,37 +7307,57 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Determination of maximum taxes
 
 291 (1) Except as otherwise provided in this section and under sections 293 and 294, the taxes for municipal and school purposes for a taxation year to be levied on a property in the City shall be the amount determined in accordance with the following:
+
 1. Determine the taxes for the previous year in accordance with subsection (2).
+
 2. Add 5 per cent of the amount determined under paragraph 1 to the amount determined under paragraph 1.
+
 3. The amount determined under paragraph 2 shall be adjusted, in accordance with the regulations, in respect of changes in taxes for municipal and school purposes.
+
 4. The taxes for the property for the taxation year shall be equal to the amount determined under paragraph 2 and adjusted under paragraph 3, if applicable.
+
 5. Despite paragraph 4, in such circumstances as may be prescribed, the amount of taxes for the property for the taxation year is determined in accordance with the regulations if the difference between the amount of the uncapped taxes and the taxes determined under paragraph 4 for the taxation year exceeds the difference between the amount of the uncapped taxes and the taxes determined under this section for the previous year.
+
 6. Despite paragraphs 4 and 5, in such circumstances as may be prescribed, the amount of taxes for the property for the taxation year is determined in accordance with the regulations in connection with the phasing out of the application of this Part.
 
 ### Previous year
 
 (2) The taxes for the previous year for a property shall be determined as follows:
+
 1. Determine the taxes for municipal and school purposes that were levied on the property for the year.
+
 2. If a supplementary assessment or change in classification is made under section 34 of the Assessment Act during the year or if an assessment or change in classification could have been made under section 34 of that Act and the appropriate change is made on the assessment roll for taxation in the taxation year, recalculate the taxes determined under paragraph 1 as if the increase in the assessment or change in classification, as the case may be, had applied to the property for all of the year.
+
 2.1 If there is a change to the permitted uses of the land in the year that would result in the assessment made under section 36 of the Assessment Act for the taxation year differing from the assessment made for the year, recalculate the taxes determined under paragraph 1 as if the change to the permitted uses of the land had applied for the entire year.
+
 3. If section 294 applied to the property for a part of the year, recalculate the taxes determined under paragraph 1 as if section 294 had applied to the property for all of the year.
+
 4. If the assessment of a property whose classification is in the subclass for vacant land on the assessment roll for taxation in the taxation year increases as a result of an improvement to that property during the year and if no portion of any building on the property begins to be used for any purpose during the year, recalculate the taxes determined under paragraph 1 as if the increase in the assessment had applied to the property for all of the year.
+
 5. If city council cancels, reduces or refunds taxes under section 323 for the year on an application under clause 323 (1) (a), (b), (c), (d) or (f) or under section 325 for the year, recalculate the taxes determined under paragraph 1 as if the event that caused the cancellation, reduction or refund had occurred on January 1 of the year.
 
 ### Regulations re: adjustments
 
 (3) The Minister of Finance may make regulations,
+
 (a) providing for adjustments under paragraph 3 of subsection (1) in respect of changes in taxes for municipal and school purposes;
+
 (b) governing the calculation of taxes for a taxation year in the circumstances described in paragraph 5 of subsection (1);
+
 (c) governing the calculation of taxes for a taxation year under paragraph 6 of subsection (1) in prescribed circumstances in connection with the phasing out of the application of this Part.
 
 ### Adjustment
 
 (4) If the taxes for municipal and school purposes for a property for the previous year are recalculated as a result of one of the following, the amount under paragraph 1 of subsection (2) shall be adjusted accordingly:
+
 1. A request under section 39.1 of the Assessment Act.
+
 2. An appeal under section 40 of the Assessment Act.
+
 3. An application under section 46 of the Assessment Act.
+
 4. An application under section 297 of this Act or section 447.26 of the old Municipal Act.
+
 5. A determination under section 447.26.1 of the old Municipal Act.
 
 ### Omitted assessments
@@ -6110,10 +7367,15 @@ ii. the taxes for municipal and school purposes on the property shall be recalcu
 ### Cancellation, reduction or refund of tax under s. 323
 
 (6) If the City cancels, reduces or refunds taxes for a taxation year on an application made under clause 323 (1) (d) or under such other provision of this Act as the Minister of Finance may prescribe, the amount of the cancellation, reduction or refund is calculated using the formula,
+
 B/C × D
+
 in which,
+
 “B” is the amount of the cancellation, reduction or refund of taxes for the year but for the application of this Part,
+
 “C” is the amount of taxes for the year (without deducting the amount of the cancellation, reduction or refund of taxes) that would have been payable but for the application of this Part, and
+
 “D” is the amount of taxes for the year that would be payable under this Part if no application were made.
 
 ### Prescribed provision
@@ -6123,34 +7385,55 @@ in which,
 ### Omitted and supplementary assessments in the taxation year
 
 (8) If an assessment is made in respect of property, other than property described in subsection 293 (2), under section 33 or 34 of the Assessment Act increasing the assessment of the property in the taxation year,
+
 (a) subsection (1) does not apply to the additional taxes for municipal and school purposes attributable to the increase in the assessment; and
+
 (b) the additional taxes for municipal and school purposes shall be determined in accordance with the following formula:
+
 [Image]
+
 where,
+
 “T” is the additional taxes for municipal and school purposes,
+
 “CT” is the amount determined under subsection (1),
+
 “NT” is the uncapped taxes, but does not include CVAT,
+
 “CVAT” is the supplementary taxes for municipal and school purposes that would be payable but for the application of this subsection.
 
 ### Same
 
 (9) Despite subsection (8), the taxes for municipal and school purposes for the property for the taxation year or portion of the taxation year shall be recalculated under section 294 if,
+
 (a) there was an additional assessment that relates to a new building or structure erected on the property that was, prior to the assessment, assessed for the taxation year as being in the subclass for vacant land under paragraph 2 of subsection 8 (1) of the Assessment Act; or
+
 (b) as a result of an additional assessment for the taxation year or for the previous year and the taxation year or any portion thereof, the assessment of the property is increased by an amount equal to or greater than 50 per cent of the assessment on the assessment roll before the additional assessment was made.
 
 ### Additional assessment
 
 (10) If an additional assessment is made for the previous year and for the taxation year, the percentage for the purposes of clause (9) (b) shall be determined as follows:
+
 1. Determine the additional assessment for the previous year.
+
 2. Determine the assessment on the assessment roll for taxation in the previous year before the additional assessment referred to in paragraph 1 was made.
+
 3. Divide the amount in paragraph 1 by the amount in paragraph 2.
+
 4. Multiply the quotient in paragraph 3 by 100.
+
 5. Add the amounts in paragraphs 1 and 2.
+
 6. Divide the amount in paragraph 2 by the amount in paragraph 5.
+
 7. Multiply the quotient determined in paragraph 6 by the assessment on the assessment roll for taxation in the taxation year.
+
 8. Determine the additional assessment for the taxation year.
+
 9. Divide the amount in paragraph 8 by the amount in paragraph 7.
+
 10. Multiply the quotient in paragraph 9 by 100.
+
 11. Add the percentages in paragraphs 4 and 10.
 
 ### Same
@@ -6168,35 +7451,61 @@ where,
 ### Definitions
 
 (14) In this section,
+
 “additional assessment” means one or more assessments made under section 33 or 34 of the Assessment Act; (“évaluation additionnelle”)
+
 “previous year” means the year immediately preceding the taxation year; (“année précédente”)
+
 “taxation year” means the year in respect of which taxes are determined under subsection (1); (“année d’imposition”)
+
 “uncapped taxes” means the taxes for municipal and school purposes that would have been imposed for the taxation year but for the application of this Part. (“impôts non plafonnés”)
 
 ### City option: application of certain provisions of the Act
 
 292 (1) The City may pass a by-law to have one or more of the following paragraphs apply in the calculation of the amount of taxes for municipal and school purposes payable in respect of property in the commercial classes, the industrial classes, the multi-residential property class or a class prescribed under clause 289 (8) (a) for a taxation year:
+
 1. In determining the amount of taxes for municipal and school purposes for the year under subsection 291 (1) and the amount of the tenant’s cap under subsection 295 (5),
+
 i. 10 per cent or such other percentage as may be prescribed, or a percentage specified in the by-law for the purposes of this paragraph that exceeds 5 per cent, whichever is lower, shall be used, instead of 5 per cent, in determining the amount to be added under paragraph 2 of subsection 291 (1), and
+
 ii. the same percentage used under subparagraph i, instead of 5 per cent, shall be used in increasing under paragraph 2 of subsection 295 (5) the amount calculated under paragraph 1 of that subsection.
+
 2. In determining the amount of taxes for municipal and school purposes for the year under subsection 291 (1) and the amount of the tenant’s cap under subsection 295 (5),
+
 i. the amount to be added under paragraph 2 of subsection 291 (1) shall be the greatest of,
+
 A. the amount of the taxes for municipal and school purposes that would have been levied in respect of the property for the previous year but for the application of this Part, subject to such adjustments as may be prescribed, multiplied by 5 per cent or such other percentage as may be prescribed, or a percentage specified in the by-law for the purposes of this subparagraph that is less than 5 per cent or than such other percentage as may be prescribed,
+
 B. the amount that would be added under paragraph 2 of subsection 291 (1) for the year using the percentage used under subparagraph 1 i, if the City passes a by-law to have paragraph 1 apply for the year to property in the class in which the property is included, and
+
 C. 5 per cent of the amount determined under paragraph 1 of subsection 291 (1) for the property for the year, and
+
 ii. the amount determined under paragraph 1 of subsection 295 (5) shall be increased under paragraph 2 of that subsection by the amount determined under the following, instead of the amount specified in paragraph 2 of that subsection:
+
 A. the amount on account of taxes levied for municipal and school purposes that the tenant would have been required to pay under the tenant’s lease in the previous year but for the application of section 295 multiplied by the percentage used in determining the amount under sub-subparagraph i A, if the amount determined under sub-subparagraph i A is the greatest of the amounts determined under subparagraph i,
+
 B. the amount calculated under paragraph 1 of subsection 295 (5) multiplied by the percentage used in determining the amount under sub-subparagraph i B, if the amount determined under sub-subparagraph i B is the greatest of the amounts determined under subparagraph i, or
+
 C. the amount calculated under paragraph 1 of subsection 295 (5) multiplied by the percentage used under sub-subparagraph i C, if the amount determined under sub-subparagraph i C is the greatest of the amounts determined under subparagraph i.
+
 3. The amount of the taxes for municipal and school purposes for a property for a taxation year shall be the amount of the uncapped taxes for the property for the year if the amount of the uncapped taxes exceeds the amount of the taxes for municipal and school purposes for the property for the taxation year as determined under section 291 by the lesser of,
+
 i. $250 or such other amount as may be prescribed, and
+
 ii. the amount, if any, specified in the by-law for the purposes of this paragraph.
+
 4. The amount of the taxes for municipal and school purposes for a property for a taxation year shall be the amount of the uncapped taxes for the property for the year if the amount of the taxes for municipal and school purposes for the property for the taxation year as determined under section 293 exceeds the amount of the uncapped taxes by the lesser of,
+
 i. $250 or such other amount as may be prescribed, and
+
 ii. the amount, if any, specified in the by-law for the purposes of this paragraph.
+
 5. Repealed: 2015, c. 38, Sched. 2, s. 2 (5).
+
 6. If, for all or part of 2008 or a subsequent taxation year, a property becomes an eligible property within the meaning of subsection 294 (19), the taxes for municipal and school purposes for the year or portion of the year shall be the greater of,
+
 i. the amount of the taxes determined for the property for the taxation year under subsection 294 (2), and
+
 ii. the amount of the uncapped taxes for the property for the taxation year multiplied by 100 per cent or the percentage specified in the by-law for the purposes of this subparagraph, whichever is lower.
 
 ### Time limit for passing by-law
@@ -6206,17 +7515,21 @@ ii. the amount of the uncapped taxes for the property for the taxation year mult
 ### Application of ss. 291 and 295 as modified
 
 (3) If the City passes a by-law under subsection (1),
+
 (a) a reference to section 291 in any section of this Part other than section 291 and this section is deemed to be a reference to section 291 as modified by the application of the paragraph or paragraphs specified in the by-law, if applicable; and
+
 (b) the reference to subsection 295 (5) in subsection 337 (12) is deemed to be a reference to subsection 295 (5) as modified by the application of the paragraph or paragraphs specified in the by-law, if applicable.
 
 ### Regulations
 
 (4) The Minister of Finance may make regulations prescribing, for the purposes of sub-subparagraph 2 i A of subsection (1), adjustments to be made in determining the amount of taxes for municipal and school purposes that would have been levied in the previous year on a property but for the application of this Part and prescribing the circumstances in which those adjustments are to be made.
+
 (5) Repealed: 2009, c. 33, Sched. 21, s. 4 (21).
 
 ### Definition
 
 (6) In this section,
+
 “uncapped taxes” means, in respect of a taxation year, the taxes for municipal and school purposes that would be levied for the taxation year but for the application of this Part.
 
 ### By-law to provide for recoveries
@@ -6234,9 +7547,13 @@ ii. the amount of the uncapped taxes for the property for the taxation year mult
 ### Limitation
 
 (4) The percentage established by a by-law under subsection (1) shall be limited as follows:
+
 1. Calculate the total revenues foregone as a result of the application of section 291 to properties in the property class.
+
 2. Calculate the total difference between the taxes for municipal and school purposes for all properties in the property class referred to in subsection (2) for the previous year, as determined under subsection 291 (2), and the taxes for municipal and school purposes for properties in the same property class for the taxation year as adjusted in accordance with the regulations in respect of changes in taxes for municipal purposes and changes in taxes for school purposes.
+
 3. Calculate the percentage of the amount determined under paragraph 2 that would yield sufficient revenues to recover all of the foregone revenues calculated under paragraph 1.
+
 4. The percentage established under the by-law shall not exceed the percentage determined under paragraph 3 or 100 per cent, whichever is the lesser percentage, unless otherwise prescribed by the Minister of Finance.
 
 ### Single property class
@@ -6246,18 +7563,27 @@ ii. the amount of the uncapped taxes for the property for the taxation year mult
 ### Taxes for the taxation year
 
 (6) The taxes for municipal and school purposes for the taxation year on a property to which a by-law made under this section applies shall be determined as follows:
+
 1. Determine the taxes for municipal and school purposes for the property for the previous year under subsection 291 (2).
+
 2. Determine the amount of the difference between the taxes for municipal and school purposes for the property for the previous year, as determined under subsection 291 (2), and the taxes for municipal and school purposes for the property for the taxation year, as adjusted in accordance with the regulations, in respect of changes in the taxes for municipal purposes and for school purposes.
+
 3. Multiply the percentage established for the property class the property is in under subsection (1) by the amount determined under paragraph 2.
+
 4. Deduct the amount determined under paragraph 3 from the amount determined under paragraph 2.
+
 5. Deduct the amount determined under paragraph 4 from the amount determined under paragraph 1.
+
 6. The amount determined under paragraph 5 shall be adjusted, in accordance with the regulations, in respect of changes in taxes for municipal purposes and for school purposes.
+
 7. The taxes for municipal and school purposes for the taxation year shall be equal to the amount determined under paragraph 5 and adjusted under paragraph 6, if applicable.
 
 ### Regulations
 
 (7) The Minister of Finance may make regulations,
+
 (a) providing for adjustments under subsection (2), (4) or (6) in respect of changes in taxes for municipal purposes or for school purposes;
+
 (b) governing the determination of the percentage under subsection (1) and the limitation on such percentage under subsection (4).
 
 ### Taxes for school purposes
@@ -6275,9 +7601,13 @@ ii. the amount of the uncapped taxes for the property for the taxation year mult
 ### Determination of taxes
 
 (2) Despite any other provision in this Part, the City shall determine the taxes for municipal and school purposes for each eligible property for the year or portion of the year as follows:
+
 1. Determine the level of taxation for each property identified by the assessment corporation under subsection (6) as a comparable property by dividing the taxes for municipal and school purposes levied for the year by the taxes for municipal and school purposes that would have been imposed but for the application of this Part.
+
 2. Determine the average of the levels of taxation for all comparable properties determined under paragraph 1.
+
 3. Determine the taxes for municipal and school purposes for the eligible property for the year by multiplying the average level of taxation determined under paragraph 2 by the taxes for municipal and school purposes that would have been imposed on the eligible property but for the application of this Part.
+
 4. The taxes for municipal and school purposes for an eligible property for the year shall be the lesser of the amount determined for the year or portion of the year but for the application of this Part and the amount determined under paragraph 3.
 
 ### Adjustments
@@ -6299,13 +7629,17 @@ ii. the amount of the uncapped taxes for the property for the taxation year mult
 ### Mixed use properties
 
 (7) For the purposes of this section,
+
 (a) if an eligible property or a comparable property is classified in more than one class of real property under section 7 of the Assessment Act, each portion shall be treated as a separate property; and
+
 (b) up to six comparable properties or, if there are fewer than six comparable properties, as many as there are, shall be identified for each portion of an eligible property under clause (a).
 
 ### List provided to City
 
 (8) The assessment corporation shall provide a list of the comparable properties under subsection (6) or (7) with respect to an eligible property to the City as soon as is practicable,
+
 (a) after the return of the assessment roll for eligible properties that are on the assessment roll; or
+
 (b) after the delivery of the notice of the assessment of the eligible property under section 33 or 34 of the Assessment Act.
 
 ### List to be mailed to the owner
@@ -6315,7 +7649,9 @@ ii. the amount of the uncapped taxes for the property for the taxation year mult
 ### If no comparable property
 
 (10) If the assessment corporation determines that there are no comparable properties with respect to an eligible property,
+
 (a) the assessment corporation shall give notice to the City of its determination; and
+
 (b) the City shall, within 60 days of receiving the notice under clause (a), give notice to the owner of the property of the assessment corporation’s determination and of the amount determined for the year or portion of the year under this Part.
 
 ### Complaint
@@ -6337,7 +7673,9 @@ ii. the amount of the uncapped taxes for the property for the taxation year mult
 ### Authority of the Assessment Review Board
 
 (15) In a complaint under this section, the Assessment Review Board shall,
+
 (a) identify up to six comparable properties from among the comparable properties proposed by the complainant or by the assessment corporation; or
+
 (b) determine that there are no comparable properties.
 
 ### Application to court
@@ -6355,19 +7693,29 @@ ii. the amount of the uncapped taxes for the property for the taxation year mult
 ### Definitions
 
 (19) In this section,
+
 “comparable properties” means properties identified by the assessment corporation to be similar lands in the vicinity of the eligible property; (“biens comparables”)
+
 “eligible property” means a property,
+
 (a) to which subsection 291 (9) applies,
+
 (b) that ceases to be exempt from taxation,
+
 (c) that was subdivided or was subject to a severance,
+
 (d) whose classification changes, or
+
 (e) that is prescribed by the Minister of Finance; (“bien admissible”)
+
 “vicinity” has the same meaning as under subsection 44 (2) of the Assessment Act, except that the vicinity shall not exceed the boundaries of the City. (“à proximité”)
 
 ### Regulations
 
 (20) The Minister of Finance may make regulations,
+
 (a) prescribing properties and classes of properties that are deemed to be “eligible property” for the purposes of this section;
+
 (b) prescribing properties and classes of properties that are deemed not to be “eligible property” for the purposes of this section.
 
 ### Retroactivity
@@ -6377,7 +7725,9 @@ ii. the amount of the uncapped taxes for the property for the taxation year mult
 ### Tenants of leased premises
 
 295 (1) This section applies with respect to a tenant of leased premises that form all or part of a property in the City if,
+
 (a) Part XXII.1 or XXII.2 of the old Municipal Act applied and this Part applies to the leased premises; and
+
 (b) the tenant’s tenancy commenced on or before December 31, 1997 and has been continuous since that date.
 
 ### Exception
@@ -6395,31 +7745,45 @@ ii. the amount of the uncapped taxes for the property for the taxation year mult
 ### Tenant’s cap
 
 (5) For each taxation year, the tenant’s cap referred to in subsection (4) shall be determined in accordance with the following:
+
 1. Calculate the amount the tenant was required to pay on account of taxes for the immediately preceding year.
+
 2. Increase the amount calculated under paragraph 1 by 5 per cent.
+
 3. Adjust the amount determined under paragraph 2 in respect of any changes in taxes for municipal purposes applicable to the property as provided for in regulations referred to in paragraph 3 of subsection 291 (1).
+
 4. The tenant’s cap is the amount determined under paragraph 2 and adjusted under paragraph 3.
 
 ### Recouping of landlord’s shortfall
 
 (6) A landlord may require a tenant to pay an amount on account of taxes levied for municipal and school purposes that is more than the tenant would otherwise be required to pay under the tenant’s lease subject to the following:
+
 1. The landlord may not require the tenant to pay an amount that would result in the tenant paying more on account of taxes levied for municipal and school purposes than is allowed under subsection (4).
+
 2. The landlord may require a tenant to pay an amount under this subsection only to the extent necessary for the landlord to recoup any shortfall, within the meaning of paragraph 3, in respect of other leased premises that form part of the property.
+
 3. The shortfall referred to in paragraph 2 shall be calculated by,
+
 i. determining, for each of the other leased premises to which this section applies that form part of the property, the amount, if any, by which the amount that the landlord could have required the tenant to pay under the tenant’s lease in the absence of subsection (4) exceeds the amount that the landlord may require the tenant to pay under the tenant’s lease under subsection (4), and
+
 ii. adding together the amounts determined under subparagraph i.
 
 ### Same
 
 (7) The following apply with respect to the amount a tenant is required to pay under subsection (6):
+
 1. The amount is deemed to be additional rent.
+
 2. The amount is payable in the proportions and at the times that amounts in respect of taxes are payable under the lease.
+
 3. If the lease does not provide for the payment of amounts in respect of taxes, the amount the tenant is required to pay under subsection (6) is due on the last day of the year.
 
 ### Amounts under gross lease flow-through
 
 (8) The following apply with respect to amounts a tenant is required to pay under section 337 or 338:
+
 1. For the purposes of subsections (4), (5) and (6), an amount the tenant is required to pay under section 337 is deemed to be an amount the tenant is required to pay under the lease on account of taxes levied for municipal and school purposes.
+
 2. For the purposes of subsections (4), (5) and (6), an amount the tenant is required to pay under section 338 is deemed not to be an amount the tenant is required to pay under the lease on account of taxes levied for municipal and school purposes.
 
 ### Partial year
@@ -6449,7 +7813,9 @@ ii. adding together the amounts determined under subparagraph i.
 ### Application
 
 (3) This section applies with respect to a tenant only if,
+
 (a) section 295 does not apply with respect to the tenant; and
+
 (b) the tenant’s lease was entered into before June 11, 1998 if Part XXII.1 of the old Municipal Act applied to the property or before December 18, 1998 if Part XXII.2 of the old Municipal Act applied to the property and the tenant’s tenancy has been continuous since that date.
 
 ### Application for cancellation, etc.
@@ -6475,7 +7841,9 @@ ii. adding together the amounts determined under subparagraph i.
 ### Adjustments
 
 301 (1) If the City is required to make payments to a body under section 318, the City shall,
+
 (a) in the case of a deficiency of taxes for the body caused by the cancellation, reduction, refund or writing off of taxes, charge back to every such body its share of the deficiency in the same proportions as the bodies share in the revenues from taxes;
+
 (b) in the case of a surplus of taxes for the body caused by the application of this Part, credit every such body with its share of the surplus in the same proportions as the bodies share in the revenues from taxes.
 
 ### Interpretation
@@ -6485,8 +7853,11 @@ ii. adding together the amounts determined under subparagraph i.
 ### Regulations
 
 302 (1) The Minister of Finance may make regulations,
+
 (a) governing and clarifying the application of this Part;
+
 (b) prescribing anything that, under this Part, may or must be prescribed;
+
 (c) varying the application of this Part if, in the opinion of the Minister, it is necessary or desirable to do so in order to further the purposes of this Part, including varying the application of this Part in connection with a municipal restructuring or a general reassessment.
 
 ### Regulations re: maximum taxes and tenant’s cap
@@ -6496,8 +7867,11 @@ ii. adding together the amounts determined under subparagraph i.
 ### Same
 
 (1.2) A regulation under subsection (1.1) may,
+
 (a) provide for different amounts for a property for different years; or
+
 (b) set out the circumstances in which the regulation prevails over paragraph 2 of subsection 291 (1), paragraph 2 of subsection 295 (5) or over an option adopted in a by-law passed under section 292.
+
 (c) Repealed: 2016, c. 37, Sched. 3, s. 7 (1).
 
 ### Application of regulations under this Part
@@ -6507,10 +7881,15 @@ ii. adding together the amounts determined under subparagraph i.
 ### Definitions
 
 (2) In this section,
+
 “general reassessment” has the same meaning as in section 273; (“réévaluation générale”)
+
 “municipal restructuring” means,
+
 (a) the amalgamation of the City and another municipality,
+
 (b) the alteration of the boundaries of the City, or
+
 (c) the dissolution of the City. (“restructuration municipale”)
 
 ## PART XII.1 OPTIONAL tax on vacant residential units
@@ -6522,26 +7901,39 @@ ii. adding together the amounts determined under subparagraph i.
 ### Requirements for by-law
 
 (2) A by-law described in subsection (1) must satisfy the following criteria:
+
 1. It must state the tax rate.
+
 2. It must state the conditions of vacancy that, if met, make a unit subject to the tax.
 
 ### Other contents of by-law
 
 (3) A by-law described in subsection (1) may provide for such matters as city council considers appropriate, including,
+
 (a) exemptions from the tax;
+
 (b) rebates of tax;
+
 (c) audit and inspection powers; and
+
 (d) except as otherwise provided for in the regulations, the establishment and use of dispute resolution mechanisms.
 
 ### Regulations re power to impose tax
 
 302.2 (1) The Minister of Finance may make regulations prescribing such matters as the Minister considers necessary or desirable in relation to this Part, including,
+
 (a) prescribing conditions and limits with respect to the imposition of a tax under a by-law made under this Part;
+
 (b) prescribing persons and entities who are not subject to a tax imposed under this Part;
+
 (c) defining “vacant unit” for the purposes of this Part;
+
 (d) governing the collection of a tax imposed under this Part;
+
 (e) prescribing provisions of this Act that apply or do not apply for the purposes of this Part and providing for such modifications to those provisions as the Minister considers appropriate;
+
 (f) governing the manner for apportioning an assessment that is attributable to vacant units;
+
 (g) governing dispute resolution.
 
 ### Same
@@ -6563,14 +7955,19 @@ ii. adding together the amounts determined under subparagraph i.
 ### Sharing of tax information
 
 302.4 (1) In this section,
+
 “land transfer tax information” means information obtained by the Minister of Finance in the administration or enforcement of the Land Transfer Tax Act; (“renseignements sur les droits de cession immobilière”)
+
 “personal information” has the same meaning as in the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
 “vacant units tax information” means information obtained by the City in the administration or enforcement of a by-law mentioned in subsection 302.1 (1). (“renseignements sur l’impôt sur les logements vacants”)
 
 ### Disclosure
 
 (2) The Minister of Finance, or a person authorized by the Minister of Finance, may disclose to the City land transfer tax information that relates to conveyances of land in the City, and the City may disclose vacant units tax information to the Minister of Finance, if the information to be disclosed is for use by the Minister of Finance or the City, as the case may be, for any of the following purposes:
+
 1. The administration or enforcement of a tax.
+
 2. The development or evaluation of economic, fiscal or tax policy.
 
 ### Personal information
@@ -6584,7 +7981,9 @@ ii. adding together the amounts determined under subparagraph i.
 ### Notice
 
 (5) The notice required by subsection 39 (2) of the Freedom of Information and Protection of Privacy Act or subsection 29 (2) of the Municipal Freedom of Information and Protection of Privacy Act may be given by a public notice posted on,
+
 (a) if personal information is being collected by the Minister of Finance, a website of the Government of Ontario; or
+
 (b) if personal information is being collected by the City, a website of the City.
 
 ## part xiii COLLECTION of traditional municipal taxes
@@ -6596,7 +7995,9 @@ ii. adding together the amounts determined under subparagraph i.
 ### Definitions
 
 304 In this Part,
+
 “property class” means a class of real property prescribed under the Assessment Act; (“catégorie de biens”)
+
 “taxpayer” means a person whose name is shown on the tax roll. (“contribuable”)
 
 ### Tax roll
@@ -6606,16 +8007,27 @@ ii. adding together the amounts determined under subparagraph i.
 ### Contents
 
 (2) The tax roll shall show for each separately assessed property in the City,
+
 (a) the assessment roll number of the property;
+
 (b) a description of the property sufficient to identify it;
+
 (c) the name of every person against whom land is assessed, including a tenant assessed under section 18 of the Assessment Act;
+
 (d) the assessed value of the property;
+
 (e) the total amount of taxes payable;
+
 (f) the amounts of taxes payable for,
+
 (i) the general local municipality levy,
+
 (ii) each special local municipality levy,
+
 (iii) each school board,
+
 (iv) all other purposes; and
+
 (g) if parts of the property are in two or more property classes, the matters set out in clauses (d), (e) and (f) for each part.
 
 ### Certification
@@ -6633,7 +8045,9 @@ ii. adding together the amounts determined under subparagraph i.
 ### Consequences of adjustments
 
 (2) Taxes for the year shall be collected in accordance with the adjusted tax roll as if the adjustments had formed part of the original tax roll and the City,
+
 (a) shall refund any overpayment to the owner of the land as shown on the tax roll on the date the adjustment is made; or
+
 (b) shall send another tax bill to raise the amount of any underpayment.
 
 ### Same, refund to include credit
@@ -6643,18 +8057,27 @@ ii. adding together the amounts determined under subparagraph i.
 ### By-laws re instalments
 
 307 (1) The City may pass by-laws providing for,
+
 (a) the payment of taxes in one amount or by instalments and the date or dates in the year for which the taxes are imposed on which the taxes or instalments are due;
+
 (b) alternative instalments and due dates in the year for which the taxes are imposed other than those established under clause (a) to allow taxpayers to spread the payment of taxes more evenly over the year;
+
 (c) the division of the City into parts and for each part establishing a different due date for the payment of any instalment;
+
 (d) an extension of the due dates for any instalments if earlier instalments are paid on time;
+
 (e) the immediate payment of any instalments if earlier instalments are not paid on time; and
+
 (f) if the use of the alternative instalments and due dates under clause (b) ceases other than at the end of a year, the recalculation of late payment charges and discounts for advance payments as if the instalments and due dates under clause (c) had applied for the full year.
 
 ### Differing instalment, due dates
 
 (2) A by-law under clause (1) (a) may establish different instalments and due dates for taxes on property,
+
 (a) for municipal purposes and for school purposes;
+
 (b) in different property classes; and
+
 (c) in a property class to which section 294 applies and to which that section does not apply.
 
 ### Payment
@@ -6668,8 +8091,11 @@ ii. adding together the amounts determined under subparagraph i.
 ### Cessation
 
 (5) The use by a taxpayer of the alternative instalments and due dates under clause (1) (b) ceases if,
+
 (a) the taxpayer requests the cessation in writing;
+
 (b) the taxes of the taxpayer are unpaid after the due date and the treasurer gives written notice to the taxpayer that the alternative instalments and due dates may no longer be used; or
+
 (c) the City, for any year, does not establish such alternative instalments and due dates.
 
 ### Tax bill
@@ -6679,17 +8105,29 @@ ii. adding together the amounts determined under subparagraph i.
 ### Contents of tax bill
 
 (2) A tax bill shall contain,
+
 (a) the name of the taxpayer;
+
 (b) the assessment roll number of the property;
+
 (c) a description of the property sufficient to identify it;
+
 (d) the assessed value of the property;
+
 (e) the total amount of taxes payable;
+
 (f) the amounts of the new taxes required to be shown separately on the tax roll unless the bill is for an interim tax;
+
 (g) the amount of any taxes previously billed for the year, including any accrued late payment charges;
+
 (h) the date or dates on which the taxes are due and any alternative schedule of due dates;
+
 (i) the place or places where the taxes may be paid;
+
 (j) the late payment charges which will be imposed on overdue taxes;
+
 (k) the discount which will be given for taxes paid in advance; and
+
 (l) if portions of the property are in two or more property classes, the matters set out in clauses (d), (e), (f) and (g) for each portion.
 
 ### Separate tax bills
@@ -6739,9 +8177,13 @@ ii. adding together the amounts determined under subparagraph i.
 ### Contents of tax bill
 
 (3) The Minister of Finance may make regulations,
+
 (a) prescribing information that must or that may be included on or with tax bills under section 308 and prohibiting other information from being included on the tax bill without the express authorization of the Minister;
+
 (a.1) prescribing the method of calculating information relating to tax changes that must or that may be included on or with tax bills under section 308;
+
 (b) respecting the manner in which tax bills under section 308 are provided to the taxpayer;
+
 (c) prescribing the form of the tax bill that must or that may be used under section 308.
 
 ### Application of regulations
@@ -6771,10 +8213,15 @@ ii. adding together the amounts determined under subparagraph i.
 ### Other interest
 
 (6) The City shall pay interest at the same rate and in the same manner as interest is paid under subsection 257.11 (4) of the Education Act on overpayments arising as a result of,
+
 (a) an error of the City, a local board or other body for which the tax was being raised; and
+
 (b) a change under the Assessment Act,
+
 (i) in an assessment on a property,
+
 (ii) in the property class in which a property is placed, or
+
 (iii) if parts of a property are placed in different property classes, in the allocation of the assessment on the property between the parts.
 
 ### Cancellation
@@ -6788,8 +8235,11 @@ ii. adding together the amounts determined under subparagraph i.
 ### Not retroactive
 
 (9) Interest under subsection (6) begins to accrue after the later of,
+
 (a) in the case of overpayments described in clause (6) (a), the day the error is corrected and, in the case of overpayments described in clause (6) (b), 120 days after the day the City is notified of the change by the assessment corporation, the Assessment Review Board or a court; and
+
 (b) January 1, 2003.
+
 (10) Repealed: 2017, c. 10, Sched. 2, s. 36.
 
 ### Interest payments to be apportioned
@@ -6811,15 +8261,21 @@ ii. adding together the amounts determined under subparagraph i.
 ### Definition
 
 (3) In this section,
+
 “financial institution” means,
+
 (a) a bank listed in Schedule I or II to the Bank Act (Canada),
+
 (b) a trust corporation registered under the Loan and Trust Corporations Act, and
+
 (c) subject to the Credit Unions and Caisses Populaires Act, 2020, a credit union as defined in that Act.
 
 ### Allocation of payment
 
 312 (1) Subject to subsections (2) and (3), where any payment is received on account of taxes, the following apply:
+
 1. The payment shall first be applied against late payment charges owing in respect of those taxes according to the length of time the charges have been owing, with the charges imposed earlier being discharged before charges imposed later.
+
 2. The payment shall then be applied against the taxes owing according to the length of time they have been owing, with the taxes imposed earlier being discharged before taxes imposed later.
 
 ### Part payment
@@ -6853,7 +8309,9 @@ ii. adding together the amounts determined under subparagraph i.
 ### Taxes on escheated, etc. land
 
 (2.1) For greater certainty, taxes that are levied or charges that are imposed on the following land under section 208 of the Municipal Act, 2001, by virtue of the operation of subsection 429 (2) of this Act, may not be recovered as a debt due to the City from the Crown:
+
 1. Land that is vested in the Crown in right of Ontario because of an escheat or forfeiture as a result of the dissolution of a corporation.
+
 2. Land that belongs to the Crown in right of Ontario as a result of the death of an individual who did not have any lawful heirs.
 
 ### Special lien
@@ -6883,16 +8341,23 @@ ii. adding together the amounts determined under subparagraph i.
 ### Seizure
 
 316 (1) If taxes on land remain unpaid after the due date, the city treasurer or the treasurer’s agent may seize the following to recover the taxes and costs of the seizure:
+
 1. The personal property belonging to or in the possession of the taxpayer.
+
 2. The interest of the taxpayer in personal property, including the taxpayer’s right to possession of any personal property under a contract for purchase or a contract by which the taxpayer becomes the owner of the property upon performance of any condition.
+
 3. The personal property on the land and any interest therein as described in paragraph 2 of the owner of the land, even if the owner’s name does not appear on the tax roll.
+
 4. Any personal property on the land, title to which is claimed under any assignment or transfer made for the purpose of defeating the seizure.
 
 ### Exception
 
 (2) Despite subsection (1), the treasurer or treasurer’s agent may seize personal property under this section after a tax bill has been sent but before the due date if,
+
 (a) the treasurer or treasurer’s agent has good reason to believe that personal property subject to seizure is about to be removed from the City before the due date;
+
 (b) the treasurer or treasurer’s agent makes an affidavit to that effect before a justice of the peace or the head of city council; and
+
 (c) the justice of the peace or the head of council issues a warrant authorizing the treasurer or the treasurer’s agent to seize in accordance with this section.
 
 ### Exemption from seizure
@@ -6906,7 +8371,9 @@ ii. adding together the amounts determined under subparagraph i.
 ### Property of assignee, liquidator
 
 (5) Despite subsection (1), personal property in the hands of an assignee for the benefit of creditors or in the hands of a liquidator under a winding-up order may only be seized for,
+
 (a) the taxes of the assignor or of the company that is being wound up; and
+
 (b) the taxes on the land on which the personal property was located at the time of the assignment or winding-up order for so long as the assignee or liquidator occupies the land or the personal property remains on the land.
 
 ### Other exemptions
@@ -6944,8 +8411,11 @@ ii. adding together the amounts determined under subparagraph i.
 ### Priority after notice
 
 (14) A sheriff, bailiff, assignee, liquidator, trustee or licensed trustee in bankruptcy, as appropriate, shall, upon receiving notice from the treasurer of the amount due for taxes, pay the amount to the treasurer in preference and priority to all other fees, charges, liens and claims in respect of personal property liable to seizure for taxes under this section that,
+
 (a) is under seizure or attachment or has been seized by the sheriff or by the bailiff of any court;
+
 (b) is claimed by or in the possession of the assignee for the benefit of creditors or the liquidator or the trustee or licensed trustee in bankruptcy; or
+
 (c) has been converted into cash and is undistributed by the sheriff, bailiff, assignee, liquidator, trustee or licensed trustee in bankruptcy.
 
 ### Statement
@@ -6959,7 +8429,9 @@ ii. adding together the amounts determined under subparagraph i.
 ### Taxes collected on behalf of other bodies
 
 318 (1) If the City is required by law to impose a tax for a body, the City shall pay the body,
+
 (a) the amount of the taxes collected; and
+
 (b) except where otherwise provided, any amount imposed for the body but not collected due to the non-payment of taxes.
 
 ### Exception
@@ -6977,16 +8449,27 @@ ii. adding together the amounts determined under subparagraph i.
 ### Liens in favour of the Crown
 
 (4.1) Despite subsection (4), if on the day before the date of registration of a notice of vesting there are liens or other encumbrances registered against the title to the land in favour of the Crown in right of Ontario or any execution or warrant in favour of the Crown respecting the land appearing in the index of executions maintained by the sheriff for the area in which the land is situate and the City subsequently sells the land, the proceeds of the sale shall be distributed among the City, a body charged back under subsection (3) and the Crown in accordance with the following:
+
 1. Subject to paragraph 2, calculate the total of,
+
 i. the amount of unpaid taxes owing to the City,
+
 ii. the amounts charged back under subsection (3), and
+
 iii. the total amount outstanding under any liens or other encumbrances in favour of the Crown registered on the day before the notice of vesting is registered and any amount outstanding under any execution or warrant in favour of the Crown appearing in the index of executions maintained by the sheriff for the area in which the land is situate on the day before the notice of vesting is registered.
+
 2. The amount under each of subparagraph 1 i, ii or iii is the lesser of,
+
 i. the actual amount, and
+
 ii. the assessed value of the land as shown on the last assessment roll returned for the year in which the sale of the land occurred.
+
 3. Subject to paragraph 2, the percentage of the proceeds of the sale that the City is entitled to is determined by dividing the amount of unpaid taxes owing to the City as determined under subparagraph 1 i by the total calculated under paragraph 1.
+
 4. Subject to paragraph 2, the percentage of the proceeds of the sale that a body charged back under subsection (3) is entitled to is determined by dividing the amount charged back under subsection (3) to that body as determined under subparagraph 1 ii by the total calculated under paragraph 1.
+
 5. Subject to paragraph 2, the percentage of the proceeds of the sale that the Crown is entitled to is determined by dividing the amount determined under subparagraph 1 iii by the total calculated under paragraph 1.
+
 (4.2) Repealed: 2017, c. 10, Sched. 2, s. 39 (1).
 
 ### Deduction
@@ -7004,8 +8487,11 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Conditions
 
 (2) The city treasurer shall remove unpaid taxes from the tax roll if,
+
 (a) the city council, on the recommendation of the treasurer, writes off the taxes as uncollectible;
+
 (b) the taxes are no longer payable as a result of tax relief under section 283, 310, 323, 325, 330, 331, 332, 333 or 334 or a decision of any court; or
+
 (c) the taxes are no longer payable because the tax liability arose as a result of the assessment of land under subsection 33 (1) of the Assessment Act for a period during which a regulation made under subsection 33 (1.1) of that Act provides that subsection 33 (1) of that Act does not apply to the land.
 
 ### Same
@@ -7015,8 +8501,11 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Exception
 
 (4) Despite subsection (3), the City may write off taxes under clause (2) (a) without conducting a tax sale under Part XIV (Sale of Land for Tax Arrears (Real Property Taxes)),
+
 (a) if the property is owned by Canada, a province or territory or a Crown agency of any of them or by a municipality;
+
 (b) if the recommendation of the treasurer under clause (2) (a) includes a written explanation of why conducting a tax sale would be ineffective or inappropriate; or
+
 (c) in any of the prescribed circumstances.
 
 ### Regulations
@@ -7034,16 +8523,23 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Same
 
 (2) In a by-law under subsection (1), the City may specify two tax amounts and provide that,
+
 (a) where the total amount of taxes would be less than the lower specified amount, the amount of actual taxes payable shall be zero; and
+
 (b) where the total amount of taxes would be greater than or equal to the lower specified amount and less than the higher specified amount, the amount of the actual taxes payable shall not exceed the higher specified amount.
 
 ### Division into parcels
 
 322 (1) Upon application by the city treasurer or to the treasurer by an owner of land, the City may,
+
 (a) divide, for the purposes of this section, land which is assessed in one block into two or more parcels if each parcel is one that can be legally conveyed under the Planning Act;
+
 (b) apportion the unpaid taxes on the land among the parcels,
+
 (i) in proportion to their relative value at the time the assessment roll for the year in which the application is made was returned, or
+
 (ii) if council is of the opinion that an apportionment under subclause (i) is not appropriate due to special circumstances, any other manner; and
+
 (c) direct what proportion of any part payment of taxes on the land is to be applied to each of the parcels.
 
 ### Statement
@@ -7053,8 +8549,11 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Meeting
 
 (3) On or before September 30 of the year following the year in which the application is made, council shall,
+
 (a) hold a meeting at which the applicants and owners of any part of the land may make representations to council;
+
 (b) notify the applicants and owners of the meeting by mail sent at least 14 days before the meeting; and
+
 (c) make its decision.
 
 ### Notice
@@ -7096,15 +8595,25 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Cancellation, reduction, refund of taxes
 
 323 (1) Upon application to the city treasurer made in accordance with this section, the City may cancel, reduce or refund all or part of taxes levied on land in the year in respect of which the application is made if,
+
 (a) as a result of a change event, as defined in clause (a) of the definition of “change event” in subsection 34 (2.2) of the Assessment Act, during the taxation year, the property or portion of the property is eligible to be reclassified in a different class of real property, as defined in regulations made under that Act, and that class has a lower tax ratio for the taxation year than the class the property or portion of the property is in before the change event, and no supplementary assessment is made in respect of the change event under subsection 34 (2) of the Assessment Act;
+
 (b) the land has become vacant land or excess land during the year or during the preceding year after the return of the assessment roll for the preceding year;
+
 (c) the land has become exempt from taxation during the year or during the preceding year after the return of the assessment roll for the preceding year;
+
 (d) during the year or during the preceding year after the return of the assessment roll, a building on the land,
+
 (i) was razed by fire, demolition or otherwise, or
+
 (ii) was damaged by fire, demolition or otherwise so as to render it substantially unusable for the purposes for which it was used immediately prior to the damage;
+
 (e) the applicant is unable to pay taxes because of sickness or extreme poverty;
+
 (f) a mobile unit on the land was removed during the year or during the preceding year after the return of the assessment roll for the preceding year;
+
 (g) a person was overcharged due to a gross or manifest error that is clerical or factual in nature, including the transposition of figures, a typographical error or similar error but not an error in judgment in assessing the property; or
+
 (h) repairs or renovations to the land prevented the normal use of the land for a period of at least three months during the year.
 
 ### Exception, vacant unit rebate
@@ -7118,8 +8627,11 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Application
 
 (2) An application may only be made by the owner of the land or by another person who,
+
 (a) has an interest in the land as shown on the records of the appropriate land registry office and the sheriff’s office;
+
 (b) is a tenant, occupant or other person in possession of the land; or
+
 (c) is the spouse of the owner or other person described in clause (a) or (b).
 
 ### Timing
@@ -7133,8 +8645,11 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Meeting
 
 (5) On or before September 30 of the year following the year in respect of which the application is made, council shall,
+
 (a) hold a meeting at which the applicants may make representations to council;
+
 (b) notify the applicants of the meeting by mail sent at least 14 days before the meeting; and
+
 (c) make its decision.
 
 ### Notice
@@ -7172,7 +8687,9 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Restriction
 
 (14) A decision cannot be made under subsection (13) unless,
+
 (a) it is made on or before the last day of February in the year following the year in respect of which the application is made; and
+
 (b) every person who, according to the tax roll, would be liable for the restored taxes, is given an opportunity to make representations to the council or board, as the case may be.
 
 ### Appeal
@@ -7182,7 +8699,9 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Restored taxes payable
 
 (16) Taxes restored to the tax roll for a year, after a tax bill is sent to the person liable for the taxes, are payable,
+
 (a) as part of the next instalment of taxes payable in that year; or
+
 (b) if no instalment remains payable in that year or the tax bill is not sent until the following year, on the 22nd day after the tax bill is sent.
 
 ### Decision final
@@ -7212,18 +8731,23 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Definition
 
 (5) In this section,
+
 “payment in lieu of taxes” means an amount that the City is eligible to receive in lieu of taxes in a year in respect of real property that is exempt from taxation under the Assessment Act, where the amount is equal to the taxes for municipal or for municipal and school purposes that would have been payable in respect of that real property in that year if the real property had been taxable.
 
 ### Overcharges
 
 325 (1) Upon application to the city treasurer made in accordance with this section, the City may cancel, reduce or refund all or part of the taxes levied on land,
+
 (a) in one or both of the two years preceding the year in which the application is made for any overcharge caused by a gross or manifest error in the preparation of the assessment roll that is clerical or factual in nature, including the transposition of figures, a typographical error or similar errors, but not an error in judgment in assessing the property; or
+
 (b) in the year or years in respect of which an assessment is made under section 33 or 34 of the Assessment Act for any overcharge caused by a gross or manifest error in the preparation of the assessment that is clerical or factual in nature, including the transposition of figures, a typographical error or similar errors, but not an error in judgment in assessing the property.
 
 ### Application
 
 (2) An application may only be made by,
+
 (a) the owner of the land or by another person described in subsection 323 (2); or
+
 (b) the city treasurer.
 
 ### Timing — error in assessment roll
@@ -7241,12 +8765,19 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Restriction
 
 (5) Despite subsections (3) and (3.1), an application shall not be made for taxes levied in a year if the assessment on the land for that year was subject to an appeal or application under section 40 or 46 of the Assessment Act unless,
+
 (a) the error is made subsequent to the commencement of all appeals or applications;
+
 (b) the appeal or application,
+
 (i) is made by a person other than the taxpayer,
+
 (ii) is withdrawn before the appeal or application is actually heard,
+
 (iii) is made in respect of a change to or the addition of the school support of the taxpayer on or to the assessment roll, or
+
 (iv) is made in respect of a change to the name or mailing address of the taxpayer on the assessment roll; or
+
 (c) the appeal or application is in a prescribed class of appeals or applications.
 
 ### Copy to be provided
@@ -7264,8 +8795,11 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Meeting
 
 (9) On or before September 30 of the year following the year in which the application is made, council shall,
+
 (a) hold a meeting at which the applicant may make representations to council;
+
 (b) notify the applicant of the meeting by mail sent at least 14 days before the meeting; and
+
 (c) make its decision.
 
 ### Notice
@@ -7307,8 +8841,11 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Meeting
 
 (4) Council shall,
+
 (a) hold a meeting at which the treasurer and the person in respect of whom the application is made may make representations to council;
+
 (b) notify the treasurer and the person in respect of whom the application is made of the meeting by mail sent at least 14 days before the meeting; and
+
 (c) make its decision.
 
 ### Notice
@@ -7354,7 +8891,9 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Overcharges
 
 (13.2) If a decision of council under this section is appealed and the Assessment Review Board determines there is an overcharge of taxes on the land,
+
 (a) the City shall refund the overpayment, if any; and
+
 (b) subsections 310 (6) to (11) apply with necessary modifications to the overcharges.
 
 ### Notice
@@ -7368,7 +8907,9 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Meeting
 
 (2) Before making a decision under subsection (1), council shall,
+
 (a) hold a meeting at which the treasurer and the person in respect of whom the application is made may make representations to council; and
+
 (b) notify the treasurer and the person in respect of whom the application is made of the meeting by mail sent at least 14 days before the meeting.
 
 ### Notice
@@ -7394,26 +8935,39 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Eligible charities, property
 
 (2) For the purposes of this section,
+
 (a) a charity is eligible if it is a registered charity as defined in subsection 248 (1) of the Income Tax Act (Canada) that has a registration number issued by the Canada Revenue Agency;
+
 (b) a property is eligible if it is in one of the commercial classes or industrial classes, within the meaning of subsection 275 (1) of this Act, or if it is in a class prescribed under clause (11) (b.1) of this section.
 
 ### Program requirements
 
 (3) A tax rebate program under this section is subject to the following requirements:
+
 1. The program must provide for a rebate for an eligible charity that pays taxes or amounts on account of taxes on eligible property it occupies.
+
 2. The amount of a rebate required under paragraph 1 must be at least 40 per cent, or such other percentage as the Minister of Finance may prescribe, of the taxes or amounts on account of taxes paid by the eligible charity on the property it occupies. If the eligible charity is required to pay an amount under section 337 or 338, the amount of the rebate shall be the total of the amounts paid by the eligible charity under those sections.
+
 3. The program must provide that payment of one-half of the rebate must be made within 60 days after the receipt by the City of the application of the eligible charity for the rebate for the taxation year and the balance of the rebate must be paid within 120 days of the receipt of the application.
+
 4. The program must permit the eligible charity to make an application for a rebate for a taxation year based on an estimate of the taxes or amounts on account of taxes payable by the eligible charity on the property it occupies.
+
 5. The program must provide for final adjustments, to be made after the taxes or amounts on account of taxes paid by the charity can be determined, in respect of differences between the estimated rebate paid by the City and the rebate to which the charity is entitled.
+
 6. The program must require, as a condition of receiving a rebate for a year, that a charity repay any other municipality amounts by which the rebates the charity received for the year from that other municipality exceed the rebates from that other municipality to which the charity is entitled for the year.
+
 7. An application for a taxation year must be made after January 1 of the year and no later than the last day of February of the following year. However, the City may accept applications after that deadline if, in the opinion of the City, extenuating circumstances justify the applicant being unable to make the application by the deadline.
 
 ### Program options
 
 (4) The following apply with respect to what a tax rebate program under this section may provide but is not required to provide:
+
 1. The program may provide for rebates to organizations that are similar to eligible charities or a class of such organizations defined by the City.
+
 2. The program may provide for rebates to eligible charities or similar organizations for taxes or amounts on account of taxes on property that is in any class of real property prescribed under the Assessment Act.
+
 3. The program may provide for rebates that are greater than those required under subsection (3) and may provide for different rebate amounts for different eligible charities or similar organizations up to 100 per cent of the taxes paid by the eligible charity or similar organization.
+
 4. The program may provide for adjustments in respect of the rebates for a year to be deducted from amounts payable in the next year for the next year’s rebates.
 
 ### Procedural requirements
@@ -7439,34 +8993,51 @@ ii. the assessed value of the land as shown on the last assessment roll returned
 ### Change of assessment
 
 (10) The following apply if the assessment of an eligible property for a year changes as a result of a request under section 39.1 of the Assessment Act, an appeal under section 40 of that Act, an application under section 46 of that Act or a correction made under subsection 32 (1.1) of that Act:
+
 1. A rebate under subsection (3) with respect to the year shall be redetermined using the new taxes on property for the year based on the new assessment.
+
 2. If, as a result of a redetermination under paragraph 1, the amount of the rebate is increased, the increased amount shall be paid to the eligible charity in accordance with this section.
+
 3. If, as a result of a redetermination under paragraph 1, the amount of the rebate is decreased and amounts paid on account of the rebate exceed the redetermined amount of the rebate, the excess payments are a debt due to the City, but the City shall not take any action to collect the debt, including the imposition of interest, until 120 days after providing the eligible charity with notice of the debt.
 
 ### Regulations
 
 (11) The Minister of Finance may make regulations,
+
 (a) governing programs under this section, including prescribing additional requirements for the programs;
+
 (b) governing procedural requirements the programs must include;
+
 (b.1) prescribing classes of real property for the purposes of clause (2) (b) and paragraph 2 of subsection (13), other than the residential property class, the multi-residential property class, the farm property class, the pipe line property class or the managed forests property class;
+
 (c) prescribing a percentage for the purpose of paragraph 2 of subsection (3);
+
 (d) prescribing a time period for the purpose of subsection (8).
 
 ### Definition
 
 (12) In this section,
+
 “tax” includes,
+
 (a) charges that are imposed under section 208 of the Municipal Act, 2001 by virtue of the operation of subsection 429 (2) of this Act, and
+
 (b) fees and charges, other than charges described in clause (a), that are imposed under this Act and satisfy the conditions set out in paragraphs 1, 2 and 3 of subsection (13).
 
 ### Same
 
 (13) The conditions referred to in clause (b) of the definition of “tax” in subsection (12) are:
+
 1. The fees and charges are imposed to raise an amount for at least one of the following purposes:
+
 i. Promotion of an area as a business or shopping area.
+
 ii. Improvement, beautification and maintenance of City-owned land, buildings and structures in the area beyond that provided at the City’s expense generally.
+
 iii. Interest payable by the City on money it borrows for the purposes of subparagraph i or ii.
+
 2. The fees and charges are imposed on owners of land that is included in the commercial classes or industrial classes within the meaning of subsection 275 (1), or in a class prescribed under clause (11) (b.1).
+
 3. The fees and charges have priority lien status and are added to the tax roll.
 
 ### Tax reductions
@@ -7492,6 +9063,7 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Definition
 
 (6) In this section,
+
 “eligible amount” means, in relation to a property, the amount by which the taxes for the year, but for the application of Part XII (Limits on Traditional Municipal Taxes), exceed the taxes determined under section 291.
 
 ### Vacant unit rebate
@@ -7505,20 +9077,31 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Requirements of program
 
 (2) A tax rebate program under this section must meet the following requirements:
+
 1. The program shall apply to eligible property as prescribed by the Minister of Finance for the purposes of this section and as set out in a by-law passed under subsection (2.1).
+
 2. If the property is in any of the commercial classes, the rebate shall be equal to 30 per cent, or such other percentage prescribed by, or determined in accordance with, the regulations or a by-law passed under subsection (2.1), of the taxes applicable to the eligible property as determined under clause (12) (b).
+
 3. If the property is in any of the industrial classes, the rebate shall be equal to 35 per cent, or such other percentage prescribed by, or determined in accordance with, the regulations or a by-law passed under subsection (2.1), of the taxes applicable to the eligible property as determined under clause (12) (b).
+
 3.1 If the property is in a class prescribed under clause (12) (a.0.1), the rebate shall be equal to the percentage prescribed by, or determined in accordance with, the regulations or a by-law passed under subsection (2.1).
+
 4. An application may be made by or on behalf of the owner.
+
 5. The application shall be made to the City by the last day of February of the year following the taxation year in respect of which the application is made or such other date as the Minister of Finance may prescribe, either before or after the expiry of the time limit.
+
 6. Subject to paragraph 7, an owner or a person on behalf of the owner shall submit one application for a taxation year unless the Minister of Finance prescribes that more than one application may be submitted.
+
 7. An interim application for the first six months of the taxation year may be made unless the Minister of Finance has made a regulation exempting the City from this paragraph.
 
 ### Options for by-law
 
 (2.1) The City may, by by-law,
+
 (a) provide for requirements for the program in addition to the requirements under this section, including additional requirements or criteria for a property or portion of a property to be eligible property;
+
 (b) specify circumstances under which no rebate is payable in respect of a property that would otherwise be eligible property; and
+
 (c) specify, for each class in respect of which the rebate applies, a percentage for the rebate for eligible property of up to 35 per cent.
 
 ### Alternate requirements
@@ -7528,9 +9111,13 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Mixed use
 
 (3) If different portions of a property are classified on the assessment roll in any of the commercial classes, any of the industrial classes or in a class prescribed under clause (12) (a.0.1),
+
 (a) the portion classified in the commercial classes, if any, shall be deemed to be one property for the purposes of this section;
+
 (b) the portion classified in the industrial classes, if any, shall be deemed to be another property for the purposes of this section; and
+
 (c) the portions in each class prescribed under clause (12) (a.0.1), if any, shall each be deemed to be a separate property for the purposes of this section.
+
 (4) Revoked: 2020, c. 36, Sched. 4, s. 2 (7).
 
 ### Evidentiary requirements
@@ -7564,20 +9151,35 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Regulations
 
 (12) The Minister of Finance may make regulations,
+
 (0.a) prescribing that the City is not required to have a program to provide tax rebates for the purposes of subsection (1);
+
 (a) prescribing the requirements for a property or portion of a property to be eligible property;
+
 (a.0.0.1) prescribing circumstances under which no rebate is payable in respect of a property that would otherwise be eligible property;
+
 (a.0.1) prescribing classes of real property for the purposes of this section, other than the residential property class, the multi-residential property class, the farm property class, the pipe line property class or the managed forests property class;
+
 (a.1) prescribing percentages or the manner of determining percentages for the purposes of paragraphs 2, 3 and 3.1 of subsection (2);
+
 (b) respecting how to determine the amount of tax to which the percentages specified in paragraphs 2 and 3 of subsection (2) are to be applied;
+
 (c) respecting the determination of the value of eligible property by the assessment corporation;
+
 (d) prescribing the number or frequency of applications under paragraph 6 of subsection (2);
+
 (d.1) exempting the City from paragraph 7 of subsection (1);
+
 (d.2) prescribing restrictions or conditions for the purpose of subsection (2.1);
+
 (e) governing programs under this section, including prescribing additional requirements for those programs, and governing the procedural requirements that those programs must include;
+
 (f) prescribing a date for the purposes of subsections (2) and (15);
+
 (g) prescribing times for the purposes of subsections (6) and (8);
+
 (h) prescribing how the amount of a tax rebate with respect to a property shall be shared by the City and the school boards that share in the revenue from the taxes on the property, including prescribing that the amount of a tax rebate shall not be shared by the City and the school boards;
+
 (i) prescribing a timeline or a date for the purposes of subsection (20).
 
 ### Conflict
@@ -7615,7 +9217,9 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Interest
 
 (20) The City shall pay interest, at the same rate of interest that applies under subsection 257.11 (4) of the Education Act, on the amount of any rebate to which the applicant is entitled under this section if the City fails to rebate or credit such amount,
+
 (a) within 120 days after receiving the application or interim application; or
+
 (b) within such other timeline or by such other date as may be prescribed by the Minister of Finance.
 
 ### No fee
@@ -7637,6 +9241,7 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Definition
 
 (25) In this section,
+
 “tax” has the same meaning as in section 329.
 
 ### Retroactive
@@ -7654,6 +9259,7 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Definition
 
 (3) In this section,
+
 “eligible property” means a property classified in the residential property class, the farm property class or the managed forests property class.
 
 ### Cancellation of taxes, environmental remediation
@@ -7661,27 +9267,41 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Definitions
 
 333 (1) In this section,
+
 “assistance period” means, with respect to an eligible property, the period of time starting on the date on which the by-law under subsection (2) providing tax assistance for the property is passed and ending on the earlier of,
+
 (a) the date specified in the by-law, and
+
 (b) the date that the tax assistance provided for the property equals the sum of,
+
 (i) the cost of any action taken to reduce the concentration of contaminants on, in or under the property to permit a record of site condition to be filed in the Environmental Site Registry under section 168.4 of the Environmental Protection Act, and
+
 (ii) the cost of complying with any certificate of property use issued under section 168.6 of the Environmental Protection Act; (“période d’aide”)
+
 “community improvement plan” and “community improvement project area” have the same meaning as in subsection 28 (1) of the Planning Act; (“plan d’améliorations communautaires”, “zone d’améliorations communautaires”)
+
 “eligible property” means property for which a phase two environmental site assessment has been conducted,
+
 (a) that is included under section 28 of the Planning Act in a community improvement project area for which a community improvement plan is in effect containing provisions in respect of tax assistance under this section, and
+
 (b) that, as of the date the phase two environmental site assessment was completed, did not meet the standards that must be met under subparagraph 4 i of subsection 168.4 (1) of the Environmental Protection Act to permit a record of site condition to be filed under that subsection in the Environmental Site Registry; (“bien admissible”)
+
 “phase two environmental site assessment” has the same meaning as in Part XV.1 of the Environmental Protection Act; (“évaluation environnementale de site de phase II”)
+
 “tax assistance” means, with respect to an eligible property, the cancellation or deferral of taxes pursuant to a by-law passed under subsection (2). (“aide fiscale”)
 
 ### By-law to cancel taxes
 
 (2) Subject to subsection (7), the City may pass by-laws providing for the cancellation of all or a portion of the taxes for municipal and school purposes levied during the assistance period on one or more specified eligible properties, on such conditions as the City may determine.
+
 (3) Repealed: 2006, c. 32, Sched. B, s. 65 (4).
 
 ### Payment of tax if conditions not met
 
 (4) If the City passes a by-law under subsection (2) and the by-law contains conditions which must be met before tax assistance is provided, the by-law may also provide,
+
 (a) that all or some of the taxes that are the subject of the tax assistance may be levied but not collected during the period before the City determines whether the conditions have been met; and
+
 (b) that the taxes shall become payable only upon notice in writing by the City to the owner of the property that the conditions have not been met as required under the by-law.
 
 ### Same
@@ -7691,9 +9311,13 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Notice to Minister of Finance
 
 (6) If the City passes a by-law under subsection (2), it shall, within 30 days after the passage of the by-law, give the Minister of Finance a copy of the by-law as well as the following information:
+
 1. An estimate of the cost of the tax assistance to be provided under the by-law, broken down by taxes levied for municipal purposes and, if applicable, taxes levied for school purposes.
+
 2. The tax rates currently applicable to the eligible property and its assessment and property class.
+
 3. The taxes currently levied on the eligible property for municipal purposes and for school purposes.
+
 4. Such other information as may be prescribed by the Minister of Finance.
 
 ### Approval of Minister of Finance
@@ -7719,6 +9343,7 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Approval by City
 
 (10) Upon approval of an application made under subsection (9), the City shall advise the owner of the eligible property of the commencement date of the tax assistance and provide the owner with an estimate of the maximum amount of the tax assistance.
+
 (11), (12) Repealed: 2006, c. 32, Sched. B, s. 65 (10).
 
 ### Tax cancellation for portion of a year
@@ -7732,12 +9357,15 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Where by-law does not apply to taxes for school purposes
 
 (15) Despite subsection (14), if a by-law made under subsection (2) does not apply to taxes for school purposes, the amount of the tax assistance does not affect the amount of taxes for school purposes to be paid to the school boards.
+
 (16), (17) Repealed: 2006, c. 32, Sched. B, s. 65 (10).
 
 ### Refund or credit
 
 (18) In providing tax assistance for an eligible property, the City may,
+
 (a) refund the taxes to the extent required to provide the tax assistance, if the taxes have been paid; or
+
 (b) credit the amount to be refunded to an outstanding tax liability of the owner of the eligible property with respect to the property, if the taxes have not been paid.
 
 ### Tax roll
@@ -7767,8 +9395,11 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Regulations by Minister of Finance
 
 (24) The Minister of Finance may make regulations,
+
 (a) prescribing information for the purposes of paragraph 4 of subsection (6);
+
 (b) prescribing circumstances in which the approval of the Minister of Finance under subsection (7) is not required.
+
 (25) Repealed: 2021, c. 40, Sched. 3, s. 2 (11).
 
 ### Tax reduction for heritage property
@@ -7778,27 +9409,41 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Definition
 
 (2) In this section,
+
 “eligible heritage property” means a property or portion of a property,
+
 (a) that is designated under Part IV of the Ontario Heritage Act or is part of a heritage conservation district under Part V of the Ontario Heritage Act,
+
 (b) that is subject to,
+
 (i) an easement agreement with the City under section 37 of the Ontario Heritage Act,
+
 (ii) an easement agreement with the Ontario Heritage Trust under section 22 of the Ontario Heritage Act, or
+
 (iii) an agreement with the City respecting the preservation and maintenance of the property, and
+
 (c) that complies with any additional eligibility criteria set out in the by-law passed under this section by the City.
 
 ### Amount of tax reduction
 
 (3) The amount of the tax reduction or refund provided by the City in respect of an eligible heritage property must be between 10 and 40 per cent of the taxes for municipal and school purposes levied on the property that are attributable to,
+
 (a) the building or structure or portion of the building or structure that is the eligible heritage property; and
+
 (b) the land used in connection with the eligible heritage property, as determined by the City.
 
 ### By-law requirements
 
 (4) In a by-law under this section, the City,
+
 (a) must specify a percentage that satisfies the requirements of subsection (3) that will be used in calculating the amount of the tax reduction or refund to be provided in respect of eligible heritage properties;
+
 (b) may specify different percentages of tax that satisfy the requirements of subsection (3) for different property classes or different types of properties within a property class;
+
 (c) may specify a minimum or maximum amount of taxes for a year to be reduced or refunded under the by-law;
+
 (d) may specify additional criteria that must be satisfied in order for a property to qualify as an eligible heritage property and may specify different criteria for properties in different property classes;
+
 (e) may establish procedures for applying for a tax reduction or refund for one or more years.
 
 ### Notice to Minister of Finance
@@ -7812,7 +9457,9 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Application
 
 (7) The following rules apply if the City passes a by-law under this section:
+
 1. An owner of an eligible heritage property in the City may obtain the tax reduction or refund for a year if the owner applies to the City not later than the last day of February in the year following the first year for which the owner is seeking to obtain the tax reduction or refund.
+
 2. The City may, in the by-law, require owners of eligible heritage properties to submit applications for the tax reduction or refund in one or more years following the year of initial application.
 
 ### Apportionment by assessment corporation
@@ -7850,7 +9497,9 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Regulations
 
 (16) The Minister of Finance may make regulations,
+
 (a) governing by-laws under this section, including procedures for a tax reduction or refund;
+
 (b) governing the provision of tax reductions or refunds under by-laws passed under this section, including the establishment of deadlines for payments of refunds by the City.
 
 ### Change of assessment
@@ -7868,16 +9517,23 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Where payment accepted
 
 (3) If the City accepts a payment under this section,
+
 (a) the taxes or charges in respect of which the payment was made are deemed to be paid in full;
+
 (b) the amount paid in lieu of taxes shall be distributed to any body for which the City is required by law to levy taxes or raise money as if the taxes had been levied and collected in the usual way; and
+
 (c) subject to clause (b), the payment shall be credited to the general funds of the City.
 
 ### Gross leases (property taxes)
 
 337 (1) This section applies with respect to a lease of all or part of a property if all the following are satisfied:
+
 1. The lease was entered into on or before June 11, 1998. A lease entered into on or before June 11, 1998 that is renewed or extended after that day continues to satisfy this paragraph only if, at the time of the renewal or extension, the landlord did not have the right to renegotiate the rent under the lease.
+
 2. The tenant is not required under the lease to pay any part of the property taxes on the property.
+
 3. The property, or a portion of it, is in a property class that is one of the commercial classes or industrial classes within the meaning of subsection 275 (1).
+
 4. For a lease entered into after January 16, 1997 and on or before June 11, 1998, the parties to the lease did not take into account, in determining the rent and other consideration paid to the landlord, that business taxes imposed on persons carrying on business on properties would be eliminated in 1998.
 
 ### Requirement to pay an amount
@@ -7887,20 +9543,35 @@ iii. Interest payable by the City on money it borrows for the purposes of subpar
 ### Maximum amount
 
 (3) The maximum amount the tenant may be required to pay shall be determined in accordance with the following:
+
 [Image]
+
 where,
+
 “Property taxes” means,
+
 (a) except as provided in clause (b), the property taxes for the year on the property or, if only a portion of the property is in one of the commercial classes or industrial classes within the meaning of subsection 275 (1), the property taxes for the year on that portion,
+
 (b) in the case of a landlord who is not the owner of the property but who has acquired an interest in the property under a lease,
+
 (i) the property taxes for the year described in clause (a) that the landlord is required to pay under the landlord’s lease, on the leased premises and any other part of the property in which the landlord acquired an interest under the landlord’s lease, or
+
 (ii) the amount the landlord, as the tenant of another person, is required to pay under this section for the year in respect of the leased premises and any other part of the property in which the landlord acquired an interest under the landlord’s lease;
+
 “1997 Assessment (tenant)” means the portion of the 1997 Assessment (landlord) apportioned to the leased premises in the assessment roll for 1997, as most recently revised;
+
 “1997 Assessment (landlord)” means,
+
 (a) except as provided in clause (b), the total of the following assessments for the property,
+
 (i) the assessment, as set out in the assessment roll for 1997, as most recently revised, used to determine business assessment,
+
 (ii) the vacant commercial assessment or vacant industrial assessment, as the case may be, as set out in the assessment roll for 1997, as most recently revised, and
+
 (iii) the assessment other than residential assessment, as set out in the assessment roll for 1997, as most recently revised, for a portion of the property occupied by persons not liable to business assessment under the Assessment Act,
+
 (b) in the case of a landlord who is not the owner of the property but who has acquired an interest in the property under a lease, the amount determined under clause (a), but only for assessment in respect of the leased premises and any other part of the property in which the landlord acquired an interest under the landlord’s lease;
+
 “Business rate factor” means the business rate factor determined under subsection (9).
 
 ### Reduction if lease for part of the year
@@ -7918,12 +9589,19 @@ where,
 ### Notice requiring payment
 
 (7) The following apply to the notice referred to in subsection (5):
+
 1. The notice must set out,
+
 i. the amount the tenant is required to pay and the date it is due,
+
 ii. the landlord’s calculation of the maximum amount the tenant may be required to pay, and
+
 iii. the amount of the property taxes for the property for the year or an estimate of the amount of the property taxes for the property for the year if not yet determined.
+
 2. The notice must be given at least 30 days before the day the amount or the first instalment of the amount the tenant is required to pay is due.
+
 3. The landlord shall provide the tenant with a notice of adjustments, if any, to be made after the taxes for the taxation year have been determined.
+
 4. The notice must be given by September 30 of the taxation year or 30 days after the day the final tax notice for the taxation year is received by the landlord, whichever is later.
 
 ### If notice requires more than the maximum
@@ -7933,9 +9611,13 @@ iii. the amount of the property taxes for the property for the year or an estima
 ### Business rate factor
 
 (9) The business rate factor referred to in subsection (3) shall be determined in accordance with the following:
+
 [Image]
+
 where,
+
 “Total business assessment (class)” means the total business assessment in the City, according to the assessment roll for 1997 as most recently revised, for property that, for 1998, is in the same property class the property is in;
+
 “Total commercial assessment (class)” means the total commercial assessment and industrial assessment in the City, according to the assessment roll for 1997 as most recently revised, for property that, for 1998, is in the same property class the property is in.
 
 ### Property classes
@@ -7953,7 +9635,9 @@ where,
 ### Notices under this section
 
 (13) The following apply with respect to a notice under this section:
+
 1. The notice must be given by personal service or by mail.
+
 2. If the notice is given by mail, it is deemed to have been given on the day it is mailed.
 
 ### Subleases
@@ -7963,14 +9647,19 @@ where,
 ### Definitions
 
 (15) In this section,
+
 “landlord’s lease” means the lease under which the landlord acquired the landlord’s interest in the leased premises; (“propre bail”)
+
 “property class” means a class of real property prescribed under the Assessment Act; (“catégorie de biens”)
+
 “property taxes” means taxes under section 277 and taxes for school purposes under the Education Act. (“impôts fonciers”)
 
 ### Gross leases (business improvement area charges)
 
 338 (1) This section applies with respect to a lease of all or part of a property if,
+
 (a) all the requirements in paragraphs 1 to 3 of subsection 337 (1) are satisfied; and
+
 (b) the tenant is not required under the lease to pay any part of the business improvement area charges on the property.
 
 ### Requirement to pay an amount
@@ -7980,19 +9669,33 @@ where,
 ### Maximum amount
 
 (3) The maximum amount the tenant may be required to pay shall be determined in accordance with the following:
+
 [Image]
+
 where,
+
 “Business improvement area charges” means,
+
 (a) except as provided in clause (b), the business improvement area charges on the property for the year,
+
 (b) in the case of a landlord who is not the owner of the property but who has acquired an interest in the property under a lease,
+
 (i) the business improvement area charges for the year that the landlord is required to pay under the landlord’s lease, on the leased premises and any other part of the property in which the landlord acquired an interest under the landlord’s lease, or
+
 (ii) the amount the landlord, as the tenant of another person, is required to pay under this section for the year in respect of the leased premises and any other part of the property in which the landlord acquired an interest under the landlord’s lease;
+
 “1997 Assessment (tenant)” means the portion of the 1997 Assessment (landlord) apportioned to the leased premises in the assessment roll for 1997, as most recently revised;
+
 “1997 Assessment (landlord)” means,
+
 (a) except as provided in clause (b), the total of the following assessments for the property,
+
 (i) the assessment, as set out in the assessment roll for 1997, as most recently revised, used to determine business assessment,
+
 (ii) the vacant commercial assessment or vacant industrial assessment, as the case may be, as set out in the assessment roll for 1997, as most recently revised, and
+
 (iii) the assessment other than residential assessment, as set out in the assessment roll for 1997, as most recently revised, for a portion of the property occupied by persons not liable to business assessment under the Assessment Act,
+
 (b) in the case of a landlord who is not the owner of the property but who has acquired an interest in the property under a lease, the amount determined under clause (a), but only for assessment in respect of the leased premises and any other part of the property in which the landlord acquired an interest under the landlord’s lease.
 
 ### Reduction if lease for part of the year
@@ -8010,12 +9713,19 @@ where,
 ### Notice requiring payment
 
 (7) The following apply to the notice referred to in subsection (5):
+
 1. The notice must set out,
+
 i. the amount the tenant is required to pay and the date it is due,
+
 ii. the landlord’s calculation of the maximum amount the tenant may be required to pay, and
+
 iii. the amount of the business improvement area charges for the property for the year or an estimate of the amount of the charges for the property for the year if not yet determined.
+
 2. The notice must be given at least 30 days before the day the amount or the first instalment of the amount the tenant is required to pay is due.
+
 3. The landlord shall provide the tenant with a notice of the adjustments, if any, to be made after the business improvement area charges for the taxation year are determined.
+
 4. The notice must be given by September 30 of the taxation year or 30 days after the day the final tax notice for the taxation year is received by the landlord, whichever is later.
 
 ### If notice requires more than the maximum
@@ -8025,7 +9735,9 @@ iii. the amount of the business improvement area charges for the property for th
 ### Notices under this section
 
 (9) The following apply with respect to a notice under this section:
+
 1. The notice must be given by personal service or by mail.
+
 2. If the notice is given by mail, it is deemed to have been given on the day it is mailed.
 
 ### Subleases
@@ -8035,7 +9747,9 @@ iii. the amount of the business improvement area charges for the property for th
 ### Definitions
 
 (11) In this section,
+
 “business improvement area charges” means the fees and charges described in clauses (a) and (b) of the definition of “tax” in subsection 329 (12); (“redevances d’aménagement commercial”)
+
 “landlord’s lease” means the lease under which the landlord acquired the landlord’s interest in the leased premises. (“propre bail”)
 
 ### Offence
@@ -8063,24 +9777,39 @@ iii. the amount of the business improvement area charges for the property for th
 ### Definitions
 
 343 (1) In this Part,
+
 “cancellation price” means an amount equal to all the tax arrears owing at any time in respect of land together with all current real property taxes owing, interest and penalties thereon and all reasonable costs incurred by the City after the treasurer becomes entitled to register a tax arrears certificate under section 344 or 344.1 in a proceeding under this Part or in contemplation of a proceeding under this Part and may include,
+
 (a) legal fees and disbursements,
+
 (b) the costs of preparing an extension agreement under section 349,
+
 (c) the costs of preparing any survey required to register a document under this Part, and
+
 (d) a reasonable allowance for costs that may be incurred subsequent to advertising under section 350; (“coût d’annulation”)
+
 “environmental site assessment” means an investigation in relation to land to determine the environmental condition of the land, and includes a phase one environmental site assessment or phase two environmental site assessment, both within the meaning of Part XV.1 of the Environmental Protection Act; (“évaluation environnementale de site”)
+
 “mobile home” means a dwelling that is designed to be made mobile and that is assessed under the Assessment Act as part of the land on which it is situate; (“maison mobile”)
+
 “notice of vesting” means a notice of vesting prepared under section 350 and includes the title conferred by the registration of the notice of vesting; (“avis de dévolution”)
+
 “public sale” means a sale by public auction or public tender conducted in accordance with this Part and the prescribed rules; (“vente publique”)
+
 “real property taxes” means the amount of taxes levied on real property under this Act and the Education Act and any amounts owed under the Drainage Act, the Tile Drainage Act and the Shoreline Property Assistance Act with respect to the real property, and includes any amounts deemed to be taxes by or under any Act and any amounts given priority lien status by or under any Act; (“impôts fonciers”)
+
 “spouse” means spouse as defined in subsection 1 (1) of the Family Law Act; (“conjoint”)
+
 “tax arrears” means any real property taxes placed on or added to a tax roll that remain unpaid on January 1 in the year following that in which they were placed on or added to the roll; (“arriérés d’impôts”)
+
 “tax deed” means a tax deed prepared under section 350 and includes the title conferred by the registration of the tax deed. (“acte d’adjudication”)
 
 ### Same
 
 (2) For the purposes of this Part,
+
 “abstract index” and “parcel register” include an instrument received for registration on the day the tax arrears certificate was registered even if the instrument has not been abstracted or entered in the index or register on that day; (“répertoire par lot”, “registre des parcelles”)
+
 “index of executions” means the electronic database that the sheriff maintains for writs of execution. (“répertoire des brefs d’exécution”)
 
 ### Registration of tax arrears certificate
@@ -8098,6 +9827,7 @@ iii. the amount of the business improvement area charges for the property for th
 ### Land that belongs to the Crown as a result of a death
 
 (3.1) This section applies to land that belongs to the Crown in right of Ontario as a result of the death of an individual who did not have any lawful heirs, whether the death occurred before or after the registration of a tax arrears certificate, and that land may be sold under this Act for tax arrears.
+
 (3.2) Repealed: 2017, c. 10, Sched. 2, s. 47 (3).
 
 ### Scope of certificate
@@ -8119,8 +9849,11 @@ iii. the amount of the business improvement area charges for the property for th
 ### Limits on registration
 
 344.2 (1) No tax arrears certificate may be registered against title to land if,
+
 (a) an order cancelling encumbrances against the land under section 18 of the Forfeited Corporate Property Act, 2015 is registered on title to the land;
+
 (b) a notice under section 24 of the Forfeited Corporate Property Act, 2015, indicating that the Crown intends to use the property for Crown purposes, is registered on title to the land; or
+
 (c) a notice indicating that the Crown intends to use the land for Crown purposes is registered against land that belongs to the Crown as a result of the death of an individual who did not have any lawful heirs.
 
 ### Exception, Minister’s consent
@@ -8130,13 +9863,21 @@ iii. the amount of the business improvement area charges for the property for th
 ### Notice of registration
 
 345 (1) Within 60 days after the registration of a tax arrears certificate under section 344, or within 30 days after the registration of a tax arrears certificate under section 344.1, the treasurer shall send a notice of the registration of the certificate to the following persons:
+
 1. The assessed owner of the land.
+
 2. Where the land is registered under the Land Titles Act, every person appearing by the parcel register and by the index of executions maintained by the sheriff for the area in which the land is situate to have an interest in the land on the day the tax arrears certificate was registered, other than a person who has an interest referred to in clause 350 (7.1) (a) or (b).
+
 3. Where the Registry Act applies to the land, every person appearing by the abstract index and by the index of executions maintained by the sheriff for the area in which the land is situate to have an interest in the land on the day the tax arrears certificate was registered, other than a person who has an interest referred to in clause 350 (7.1) (a) or (b).
+
 4. Where the assessed owner of the land is shown as the Crown as a result of an escheat or forfeiture, to,
+
 i. every person who is named, as a director or officer of the corporation whose dissolution resulted in the Crown becoming the assessed owner, in the most recent notice or return filed under the Corporations Information Act or in the corporation’s articles or letters patent, whichever was most current as of the day before the dissolution, and
+
 ii. the Minister responsible for the administration of the Forfeited Corporate Property Act, 2015.
+
 5. Where the treasurer is aware that the corporation that is shown as the assessed owner of the land is dissolved, to the Minister responsible for the administration of the Forfeited Corporate Property Act, 2015.
+
 6. The Public Guardian and Trustee, if the Public Guardian and Trustee has registered a notice or other document on title to the land.
 
 ### Spouse of owner
@@ -8154,7 +9895,9 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Limitation
 
 (5) A person is not entitled to notice under this section if,
+
 (a) after a reasonable search of the records mentioned in subsection 352 (1), the treasurer is unable to find the person’s address and the treasurer is not otherwise aware of the address; or
+
 (b) the person has expressly waived the right to notice, either before or after the notice should have been sent.
 
 ### Cancellation of tax arrears certificate
@@ -8184,7 +9927,9 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Exception for certain land
 
 (6) Subsection (3) does not apply to land that,
+
 (a) is vested in the Crown because of an escheat or forfeiture as a result of the dissolution of a corporation; or
+
 (b) belongs to the Crown as a result of the death of an individual who did not have any lawful heirs.
 
 ### Accounting for cancellation price
@@ -8206,19 +9951,29 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Extension agreements
 
 349 (1) The City may, after the registration of the tax arrears certificate and before the expiry of the one-year period mentioned in subsection 350 (1), enter into an extension agreement, extending the period of time in which the cancellation price is to be paid, with any of the following persons:
+
 1. Any owner of the land.
+
 2. The spouse of any owner.
+
 3. Any mortgagee.
+
 4. Any tenant in occupation of the land.
+
 5. Any person the treasurer is satisfied has an interest in the land.
 
 ### Same, tax arrears certificate under s. 344.1
 
 (1.1) Subject to subsection (1.2), the City may, after the registration of the tax arrears certificate and before the expiry of the 90-day period mentioned in subsection 350 (2.0.1), enter into an extension agreement extending the period of time in which the cancellation price is to be paid, with any of the following persons:
+
 1. Any owner of the land.
+
 2. The spouse of any owner.
+
 3. Any mortgagee.
+
 4. Any tenant in occupation of the land.
+
 5. Any person the treasurer is satisfied has an interest in the land.
 
 ### Same
@@ -8228,14 +9983,19 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Conditions
 
 (2) The agreement may be subject to such conditions relating to payment as are set out in it but shall not,
+
 (a) reduce the amount of the cancellation price; or
+
 (b) prohibit any person from paying the cancellation price at any time.
 
 ### Mandatory contents
 
 (3) Every extension agreement shall state,
+
 (a) when and under what conditions it shall cease to be considered a subsisting agreement;
+
 (b) that any person may pay the cancellation price at any time; and
+
 (c) that it terminates upon payment of the cancellation price by any person.
 
 ### Calculation of time
@@ -8257,13 +10017,17 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Advertisement
 
 (2) If, at the end of the one-year period following the date of the registration of the tax arrears certificate registered under section 344, the cancellation price remains unpaid and there is no subsisting extension agreement, the land shall be offered for public sale by public auction or public tender, as the treasurer shall decide, and the treasurer shall immediately,
+
 (a) make a statutory declaration stating the names and addresses of the persons to whom notice was sent under subsection (1); and
+
 (b) advertise the land for sale in accordance with the regulations.
 
 ### Expedited public sale of forfeited corporate land
 
 (2.0.1) If, at the end of the 90-day period following the date of the registration of the tax arrears certificate registered under section 344.1, the cancellation price remains unpaid and there is no subsisting extension agreement,
+
 (a) the land shall be offered for public sale by public auction or public tender, as the treasurer shall decide; and
+
 (b) the treasurer shall immediately advertise the land for sale in accordance with the regulations.
 
 ### Public auction or public tender
@@ -8281,7 +10045,9 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Conduct of sale
 
 (5) The treasurer, in accordance with the prescribed rules, shall conduct a public sale and determine whether there is a successful purchaser and,
+
 (a) if there is a successful purchaser, shall prepare and register a tax deed in the name of the successful purchaser or in such name as the successful purchaser may direct; or
+
 (b) if there is no successful purchaser, may prepare and register, in the name of the City, a notice of vesting.
 
 ### Statement
@@ -8295,17 +10061,25 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Effect of conveyance
 
 (7) A tax deed, when registered, vests in the person named in it an estate in fee simple in the land, together with all rights, privileges and appurtenances and free from all estates and interests, except,
+
 (a) easements and restrictive covenants that run with the land;
+
 (b) any estates and interests of the Crown in right of Canada or in right of Ontario, other than an estate or interest in land that,
+
 (i) is vested in the Crown in right of Ontario because of an escheat or forfeiture as a result of the dissolution of a corporation, or
+
 (ii) belongs to the Crown in right of Ontario as a result of the death of an individual who did not have any lawful heirs;
+
 (c) any interest or title acquired by adverse possession by abutting landowners before the registration of the tax deed.
 
 ### Effect of registration of notice of vesting
 
 (7.1) Despite subsection 3.6.1 (2) of the Fuel Tax Act, subsection 18 (2) of the Gasoline Tax Act, subsection 22 (2) of the Retail Sales Tax Act and subsection 24.1 (2) of the Tobacco Tax Act, a notice of vesting, when registered, vests in the City an estate in fee simple in the land, together with all rights, privileges and appurtenances and free from all estates and interests, including all estates and interests of the Crown in right of Ontario, except,
+
 (a) easements and restrictive covenants that run with the land, including those for the benefit of the Crown in right of Ontario;
+
 (b) any estates and interests of the Crown in right of Canada; and
+
 (c) any interest or title acquired by adverse possession by abutting landowners, including the Crown in right of Ontario, before registration of the notice of vesting.
 
 ### Restriction
@@ -8319,7 +10093,9 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### No warranty
 
 (10) A tax deed does not,
+
 (a) impose an obligation on the City to provide vacant possession; or
+
 (b) invalidate or affect the collection of a rate that has been assessed, imposed or charged on the land under any Act by the City before the registration of the tax deed and that accrues or becomes due after the registration of the tax deed.
 
 ### Municipal bid or tender
@@ -8345,14 +10121,19 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Effect
 
 (16) Subsection (15) does not,
+
 (a) prevent the treasurer from registering a new tax arrears certificate with respect to the land and proceeding under this Part; or
+
 (b) relieve the taxpayer of any liability to pay any real property taxes imposed before the sale.
 
 ### Application of proceeds
 
 351 (1) The proceeds of a sale under section 350 shall,
+
 (a) firstly, be applied to pay the cancellation price;
+
 (b) secondly, be paid to all persons having an interest in the land according to their priority at law, except the person who immediately before the registration of the tax deed was the owner of the land; and
+
 (c) thirdly, be paid to the person who immediately before the registration of the tax deed was the owner of the land.
 
 ### Same
@@ -8366,10 +10147,15 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Notice of payment into court
 
 (3) Within 60 days after making a payment into court under subsection (2), the treasurer shall send a copy of the statement to the following persons:
+
 1. The person who was the assessed owner of the land immediately before the registration of the tax deed.
+
 2. Where the land is registered under the Land Titles Act, every person appearing by the parcel register and by the index of executions for the area in which the land is situate to have an interest in the land immediately before the registration of the tax deed, other than a person who has an interest referred to in clause 350 (7.1) (a) or (b).
+
 3. Where the Registry Act applies to the land, every person appearing by the abstract index and by the index of executions for the area in which the land is situate to have an interest in the land immediately before the registration of the tax deed, other than a person who has an interest referred to in clause 350 (7.1) (a) or (b).
+
 4. The Minister responsible for the administration of the Forfeited Corporate Property Act, 2015.
+
 5. The Public Guardian and Trustee.
 
 ### Same, spouse of owner
@@ -8379,7 +10165,9 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Same, limitation
 
 (3.2) A person is not entitled to a copy of the statement under this section if,
+
 (a) after a reasonable search of the records mentioned in subsection 352 (1), the treasurer is unable to find the person’s address and the treasurer is not otherwise aware of the address; or
+
 (b) the person has expressly waived the right to a copy of the statement, either before or after the copy of the statement should have been sent.
 
 ### Payment out of court
@@ -8393,6 +10181,7 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Notice of application
 
 (6) The applicant under subsection (4) shall serve the notice of application on the persons referred to in subsection (3).
+
 (6.1) Repealed: 2017, c. 10, Sched. 2, s. 55 (6).
 
 ### Judgment
@@ -8434,11 +10223,17 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Methods of giving notice
 
 352 (1) Any notice required to be sent to any person under this Part may be given by personal delivery or be sent by certified or registered mail,
+
 (a) in the case of the assessed owner, to the address of the person as shown on the last returned assessment roll of the City;
+
 (b) in the case of any person whose interest is registered against the title of the land, to the address for service of the person furnished under the Land Registration Reform Act or, if none, to the address of the solicitor whose name appears on the registered instrument;
+
 (c) in the case of a person appearing to have an interest in the land by the index of executions maintained by the sheriff for the area in which the land is situate, to the address of the person or person’s solicitor as shown in the index of executions or in the records of the sheriff for the area in which the land is situate;
+
 (d) in the case of a spouse of the person appearing by the records of the land registry office to be the owner of the land, addressed to the spouse of (name of person) at the usual or last known address of such spouse or, if unknown, at the address of the land;
+
 (e) in the case of the Public Guardian and Trustee, addressed to the Public Guardian and Trustee; and
+
 (f) in the case of the Minister responsible for the administration of the Forfeited Corporate Property Act, 2015, addressed to the Minister.
 
 ### Statutory declaration, effect
@@ -8460,7 +10255,9 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Same
 
 (2) Subject to subsection (4) and to section 354, the proceedings under this Part are voidable if there is,
+
 (a) a failure on the part of the treasurer to substantially comply with section 345 or subsection 350 (1); or
+
 (b) an error or omission in the registration or sale of the land, other than an error or omission mentioned in subsection (5).
 
 ### Duty of treasurer
@@ -8474,16 +10271,23 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Proceeding not voidable
 
 (5) No proceedings under this Part are rendered voidable by reason of,
+
 (a) a failure on the part of the treasurer to distrain for any reason or take any other action for the collection of taxes;
+
 (b) an error in the cancellation price other than a substantial error;
+
 (c) any error in the notices sent or delivered under this Part if the error has not substantially misled the person complaining of the error;
+
 (d) any error in the publishing or posting of advertisements if the error has not substantially misled the person complaining of the error; or
+
 (e) any error in the description of the land in the tax arrears certificate if the error has not substantially misled the person complaining of the error.
 
 ### Treasurer may halt proceedings
 
 (6) The treasurer may register a cancellation certificate if, in his or her opinion,
+
 (a) it is not in the financial interests of the City to continue with proceedings under this Part; or
+
 (b) because of some neglect, error or omission, it is not practical or desirable to continue proceedings under this Part.
 
 ### Effect
@@ -8493,7 +10297,9 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Effect of registration
 
 354 (1) Subject to proof of fraud, every tax deed and notice of vesting, when registered, is final, binding and conclusive and not subject to challenge for any reason, including,
+
 (a) the invalidity of any assessment upon which the tax arrears were based; and
+
 (b) the breach of any requirements, including notice requirements, imposed by this or any other Act or otherwise by law.
 
 ### No action
@@ -8531,26 +10337,39 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Inspections
 
 (2) In carrying out an inspection, the City may do anything reasonably necessary to carry out an environmental site assessment of the land, including,
+
 (a) conduct surveys, examinations, investigations and tests of the land, including the excavation of test pits, and for those purposes, place equipment on the land for such period as the City considers necessary;
+
 (b) take and remove samples or extracts;
+
 (c) make inquiries of any person; and
+
 (d) record or copy information by any method.
 
 ### Entry to dwellings
 
 (3) A person who is carrying out an inspection on behalf of the City under this Part shall not enter or remain in any room or place actually being used as a dwelling unless,
+
 (a) the consent of the occupier is obtained, the occupier first having been informed that the right of entry may be refused and, if refused, entry made only under the authority of a warrant issued under section 360; or
+
 (b) a warrant issued under section 360 is obtained.
 
 ### Inspection without warrant
 
 359 (1) The following apply to an inspection under this Part carried out without a warrant:
+
 1. At least seven days before entering to carry out an inspection, the City shall, by personal service or by prepaid mail, serve a written notice of the inspection on the owners and occupants of the land as shown by the records of the land registry office and by the last returned assessment roll for the City.
+
 2. The notice shall specify the date on which the City intends to enter on the land to commence the inspection.
+
 3. If the City intends to enter on the land more than once during a period of time, the notice shall specify that period.
+
 4. If the City intends to leave equipment on the land for a period of time, the notice shall set out a description of the equipment and the period of time during which the City intends to leave it on the land.
+
 5. A notice served under this section by prepaid mail is deemed to have been received on the fifth day after the date of mailing of the notice.
+
 6. The City shall not use force against any individual in carrying out the inspection.
+
 7. The City shall only enter on land to carry out an inspection between the hours of 6 a.m. and 9 p.m. unless, after or concurrent with serving the notice under paragraph 1, the City has given at least 24 hours written notice of the intent to inspect the land at other hours to the occupants by personal service, prepaid mail or by posting the notice on the land in a conspicuous place.
 
 ### Waiver of requirements
@@ -8568,10 +10387,15 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Notice of application for warrant
 
 (2) The City shall give the owners and occupiers of the land seven days written notice of,
+
 (a) the time when and the place where the application for the issuance or extension of a warrant is to be considered;
+
 (b) the purpose of the application and the effect of the application being granted;
+
 (c) the length of time the City is asking for a warrant to be issued or extended;
+
 (d) the right of an owner or occupant or an agent of an owner or occupant to appear and make representations; and
+
 (e) the fact that if the owner, occupant or agent fails to appear, the judge or justice of the peace may issue or extend the warrant in their absence.
 
 ### Right to be heard
@@ -8581,8 +10405,11 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Issue of warrant
 
 (4) The judge or justice of the peace may issue a warrant authorizing a person to inspect land if the judge or justice of the peace is satisfied by evidence under oath that,
+
 (a) inspection of the land is reasonably necessary for the purposes set out in subsection 358 (1);
+
 (b) a notice has been served upon the owners and occupants of the land in accordance with paragraphs 1, 2, 3, 4 and 5 of subsection 359 (1); and
+
 (c) the City has been prevented or is likely to be prevented from entering on the land or exercising any of its other powers or the entrance to the land is locked or the land is otherwise inaccessible.
 
 ### Execution
@@ -8592,7 +10419,9 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Inspection with warrant
 
 361 The following apply to an inspection carried out by a person with a warrant:
+
 1. The warrant shall be executed between the hours of 6 a.m. and 9 p.m. unless it provides otherwise.
+
 2. The person may use such force as is reasonably necessary to execute the warrant and call on police officers to assist in the execution of the warrant.
 
 ### Obstruction
@@ -8606,14 +10435,19 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Regulations
 
 363 (1) The Minister of Municipal Affairs and Housing may make regulations prescribing rules for the sale of land under this Part by public sale and the rules,
+
 (a) shall set out the method of determining a successful purchaser;
+
 (b) may require the submission of deposits, in such amount and in such form as may be set out in the rules, and for the forfeiture and disposition thereof.
 
 ### Forms
 
 (2) The Minister of Municipal Affairs and Housing may make regulations,
+
 (a) requiring that any certificate, notice, statutory declaration, advertisement, tender, tax deed or statement referred to in this Part contain the provisions prescribed, be in a prescribed form or be in a form approved by the Minister, including an electronic form;
+
 (b) providing for the use of the forms described in clause (a), which may vary for different land registration systems and areas;
+
 (c) governing advertising under clause 350 (2) (b) and clause 350 (2.0.1) (b).
 
 ### Regulations, s. 352 (3)
@@ -8635,14 +10469,19 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Effect of registration
 
 (4) Registration of a tax arrears cancellation certificate in accordance with subsection (3) does not,
+
 (a) prevent the treasurer from registering a new tax arrears certificate and proceeding under this Part; or
+
 (b) relieve the taxpayer of any liability to pay real property taxes imposed under this Act or a predecessor of this Act before registration of the certificate.
 
 ### No registration
 
 (5) If, before January 1, 2004, no notice of forfeiture or tax arrears cancellation certificate was registered in accordance with subsection (2) or (3), the land is deemed to vest in the City in fee simple, together with all rights, privileges and appurtenances, free from all estates and interest, except,
+
 (a) easements and restrictive covenants that run with the land;
+
 (b) any estates and interests of the Crown in right of Canada or in right of Ontario; and
+
 (c) any interest or title acquired by adverse possession by abutting landowners before the day of the deemed vesting.
 
 ### Transition, certificate registered before Forfeited Corporate Property Act, 2015
@@ -8708,16 +10547,23 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Same
 
 (2) Without limiting subsection (1), a system of fines may,
+
 (a) designate an offence as a continuing offence and provide for a minimum and maximum fine for each day or part of a day that the offence continues;
+
 (b) designate an offence as a multiple offence and provide for a minimum and maximum fine for each offence included in the multiple offence;
+
 (c) establish escalating fines for a second and subsequent convictions for the same offence; and
+
 (d) establish special fines in addition to the regular fine for an offence which are designed to eliminate or reduce any economic advantage or gain from contravening the by-law.
 
 ### Restrictions
 
 (3) The following rules apply to the system of fines:
+
 1. A minimum fine shall not exceed $500 and a maximum fine shall not exceed $100,000. However, a special fine may exceed $100,000.
+
 2. In the case of a continuing offence, for each day or part of a day that the offence continues, a minimum fine shall not exceed $500 and a maximum fine shall not exceed $10,000. However, despite paragraph 1, the total of all of the daily fines for the offence is not limited to $100,000.
+
 3. In the case of a multiple offence, for each offence included in the multiple offence, a minimum fine shall not exceed $500 and a maximum fine shall not exceed $10,000. However, despite paragraph 1, the total of all fines for each included offence is not limited to $100,000.
 
 ### Same, fine under another Act
@@ -8727,6 +10573,7 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Definition
 
 (5) In this section,
+
 “multiple offence” means an offence in respect of two or more acts or omissions each of which separately constitutes an offence and is a contravention of the same provision of a by-law.
 
 ### Additional penalty re adult entertainment establishments
@@ -8748,8 +10595,11 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Deemed by-law re ozone depleting substances
 
 371.2 (1) On the day section 371.1 comes into force, the City is deemed to have passed a by-law under sections 366 and 370 providing that,
+
 (a) a person who contravenes a by-law described in subsection 371.1 (2) is guilty of an offence and upon conviction is liable to a fine not exceeding $5,000;
+
 (b) a corporation that contravenes a by-law described in subsection 371.1 (2) is guilty of an offence and upon conviction is liable to a fine not exceeding $50,000; and
+
 (c) a director or officer of a corporation who knowingly concurs in the contravention of a by-law described in subsection 371.1 (2) by the corporation is guilty of an offence and subject to a fine not exceeding $10,000.
 
 ### Power of City
@@ -8759,13 +10609,17 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Additional order to discontinue or remedy
 
 372 If any city by-law or by-law of a local board of the City under this or any other Act is contravened and a conviction entered, in addition to any other remedy and to any penalty imposed by the by-law, the court in which the conviction has been entered and any court of competent jurisdiction thereafter may make an order,
+
 (a) prohibiting the continuation or repetition of the offence by the person convicted; and
+
 (b) in the case of a by-law described in section 104 or 105, requiring the person convicted to correct the contravention in the manner and within the period that the court considers appropriate.
 
 ### Payments out of court
 
 373 A by-law under section 366 may establish a procedure for the voluntary payment of penalties out of court where it is alleged that any of the following by-laws have been contravened:
+
 1. By-laws related to the parking, standing or stopping of vehicles.
+
 2. By-laws related to animals being at large or trespassing.
 
 ### City entitlement to fines
@@ -8787,7 +10641,9 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Monetary limit
 
 (3) The amount of an administrative penalty established by the City,
+
 (a) shall not be punitive in nature; and
+
 (b) shall not exceed the amount reasonably required to promote compliance with a by-law of the City.
 
 ### Effect on offences
@@ -8797,7 +10653,9 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Regulations
 
 (5) The Minister may make regulations providing for any matters which, in the Minister’s opinion, are necessary or desirable for the purposes of this section, including,
+
 (a) granting the City powers with respect to requiring that persons pay administrative penalties and with respect to other matters necessary for a system of administrative penalties;
+
 (b) imposing conditions and limitations on the City’s powers with respect to administrative penalties.
 
 ### Debt
@@ -8821,46 +10679,71 @@ ii. the Minister responsible for the administration of the Forfeited Corporate P
 ### Conditions governing powers of entry
 
 375 (1) Unless otherwise provided in this Act, in an order under section 378 or in a warrant under section 379, the following conditions apply to the exercise of a power of entry under this Act:
+
 1. The power of entry shall be exercised by an employee, officer or agent of the City or a member of the city police service.
+
 2. The person exercising the power must on request display or produce proper identification.
+
 3. The person exercising the power may be accompanied by a person under his or her direction.
+
 4. Notice of the proposed entry shall be provided to the occupier of the land, except,
+
 i. where the entry is authorized under section 376, clause 377 (a) or (d) or section 379,
+
 ii. where the entry is authorized under section 378 in respect of a premises other than a room or place actually used as a dwelling,
+
 iii. where entry is authorized onto land under section 49, 70 or 76 or Part XIV (Sale of Land for Tax Arrears (Real Property Taxes)), or
+
 iv. where the delay necessary to give notice of the entry would result in an immediate danger to the health or safety of any person.
+
 5. The City shall restore the land to its original condition in so far as is practicable and shall provide compensation for any damages caused by the entry or by anything done on the land except where the entry,
+
 i. is under section 386, or
+
 ii. is under Part XIV if, under that Part, the treasurer registers a notice of vesting, in the name of the City, in respect of the land.
 
 ### Notice
 
 (2) Where subsection (1) requires that notice of a proposed exercise of a power of entry be given, the notice must satisfy the following requirements:
+
 1. The notice must be given to the occupier of the land in respect of which the power of entry will be exercised.
+
 2. The notice must be given within a reasonable time before the power of entry is exercised.
+
 3. The notice must be given by personal service in the case of a proposed exercise of a power of entry under section 63, 64 or 386 in respect of a room or place actually used as a dwelling.
+
 4. In the case of a proposed exercise of a power of entry other than one described in paragraph 3, the notice must be given by personal service or prepaid mail or by posting the notice on the land in a conspicuous place.
 
 ### Power of entry re inspection
 
 376 (1) The City has the power to pass by-laws providing that the City may enter on land at any reasonable time for the purpose of carrying out an inspection to determine whether or not the following are being complied with:
+
 1. A by-law passed under this Act.
+
 2. A direction or order of the City made under this Act or made under a by-law passed under this Act.
+
 3. A condition of a licence issued under a by-law passed under this Act.
+
 4. An order made under section 372.
 
 ### Inspection powers
 
 (2) By-laws passed under subsection (1) may provide that for the purposes of an inspection the City may,
+
 (a) require the production for inspection of documents or things relevant to the inspection;
+
 (b) inspect and remove documents or things relevant to the inspection for the purpose of making copies or extracts;
+
 (c) require information from any person concerning a matter related to the inspection; and
+
 (d) alone or in conjunction with a person possessing special or expert knowledge, make examinations or take tests, samples or photographs necessary for the purposes of the inspection.
 
 ### Samples
 
 (3) A sample taken under clause (2) (d) shall be divided into two parts, and one part shall be delivered to the person from whom the sample is taken, if,
+
 (a) the person requests that the sample be divided at the time it is taken and provides the necessary facilities; and
+
 (b) it is technically feasible to divide the sample.
 
 ### Same
@@ -8878,11 +10761,17 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Restriction re dwellings
 
 377 Despite any provision of this Act, a person exercising a power of entry on behalf of the City under this Act shall not enter or remain in any room or place actually being used as a dwelling unless,
+
 (a) the consent of the occupier is obtained, the occupier first having been informed that the right of entry may be refused and, if refused, may only be made under the authority of an order issued under section 378 or a warrant issued under section 360 or 379;
+
 (b) an order issued under section 378 is obtained;
+
 (c) a warrant issued under section 379 is obtained;
+
 (c.1) a warrant issued under section 360 is obtained;
+
 (d) the delay necessary to obtain an order under section 378, to obtain a warrant under section 379 or to obtain the consent of the occupier would result in an immediate danger to the health or safety of any person; or
+
 (e) the City has given notice of its intention to enter to the occupier of the land as required under subsection 375 (2) and the entry is authorized under section 63, 64 or 386.
 
 ### Inspection pursuant to order
@@ -8892,10 +10781,15 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Order
 
 (2) A provincial judge or justice of the peace may issue an order authorizing the City to enter on land for the purpose of carrying out an inspection for a purpose described in subsection 376 (1) and to exercise powers described in clauses 376 (2) (a) to (d) as specified in the order if he or she is satisfied by evidence under oath,
+
 (a) that the circumstances of the inspection are provided for in a by-law under subsection (1);
+
 (b) that the inspection is reasonably necessary; and
+
 (c) that one of the following conditions exists:
+
 (i) where there is no by-law under section 376 which provides for inspections in such circumstances, the City has made a reasonable attempt to obtain the occupier’s consent for the inspection,
+
 (ii) where there is a by-law under section 376 which provides for inspections in such circumstances, the City has been prevented or is likely to be prevented from doing anything set out in subsection 376 (1) or (2).
 
 ### Expiry of order
@@ -8925,7 +10819,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Search warrant
 
 379 (1) A provincial judge or justice of the peace may issue a warrant authorizing a person named in the warrant to enter and search a building, receptacle or place for the evidence specified in the warrant if he or she is satisfied by information on oath that there is reasonable ground to believe that,
+
 (a) an offence under this Act or a by-law passed under this Act has been committed; and
+
 (b) the entry into and search of the building, receptacle or place will afford evidence relevant to the commission of the offence.
 
 ### Seizure
@@ -8935,7 +10831,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Same
 
 (3) A person who seizes something under a search warrant shall,
+
 (a) give a receipt for the thing seized to the person from whom it was seized; and
+
 (b) bring the thing seized before the provincial judge or justice of the peace issuing the warrant or another provincial judge or justice to be dealt with according to law.
 
 ### Time for execution
@@ -8971,8 +10869,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Enforcement of agreements, etc.
 
 382 Where a duty or liability is imposed by statute or agreement upon any person in favour of the City or in favour of some or all of the residents of the City, the City may enforce it and obtain such relief and remedy as could be obtained,
+
 (a) in a proceeding by the Attorney General;
+
 (b) in a relator proceeding by any person in the name of the Attorney General; or
+
 (c) in a proceeding by the residents on their own behalf or on behalf of themselves and other residents.
 
 ### Enforcement of loans made by the City
@@ -8996,7 +10897,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Same
 
 (2) An order under subsection (1) shall set out,
+
 (a) reasonable particulars of the contravention adequate to identify the contravention and the location of the land on which the contravention occurred; and
+
 (b) the date by which there must be compliance with the order.
 
 ### Offence
@@ -9010,7 +10913,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Same
 
 (2) An order under subsection (1) shall set out,
+
 (a) reasonable particulars of the contravention adequate to identify the contravention and the location of the land on which the contravention occurred;
+
 (b) the work to be done and the date by which the work must be done.
 
 ### Same
@@ -9062,13 +10967,17 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Suspension of closing order
 
 (3) Upon application of any person who has an interest in the premises ordered closed under this section, the Superior Court of Justice may suspend any closing order for such period and upon such conditions as are specified by the court,
+
 (a) if the court is satisfied that the use to which the premises will be put will not contravene a licensing by-law under this Act; and
+
 (b) if the applicant posts a cash bond for $10,000 or such greater sum as the court determines, for such term as the court determines, to ensure that the premises will not be used in contravention of any by-law.
 
 ### Discharge of closing order
 
 (4) The Superior Court of Justice may discharge a closing order if, upon application, the court is satisfied that,
+
 (a) there has been or will be a change in the effective ownership of the premises subsequent to the commission of an offence described in subsection (1) or (2); and
+
 (b) the new owner can ensure that there will be no contravention of any licensing by-law passed under this Act.
 
 ### Barring of entry
@@ -9106,19 +11015,29 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Definition
 
 (13) In subsections (1) and (2),
+
 “court” means the Ontario Court of Justice or a court to which an appeal may be taken under Part VII of the Provincial Offences Act.
 
 ### Closing premises, public nuisance
 
 388 (1) Upon application by the City, the Superior Court of Justice may make an order requiring that all or part of a premises within the City be closed to any use for a period not exceeding two years if, on the balance of probabilities, the court is satisfied that,
+
 (a) activities or circumstances on or in the premises constitute a public nuisance or cause or contribute to activities or circumstances constituting a public nuisance in the vicinity of the premises;
+
 (b) the public nuisance has a detrimental impact on the use and enjoyment of property in the vicinity of the premises, including, but not limited to, impacts such as,
+
 (i) trespass to property,
+
 (ii) interference with the use of highways and other public places,
+
 (iii) an increase in garbage, noise or traffic or the creation of unusual traffic patterns,
+
 (iv) activities that have a significant impact on property values,
+
 (v) an increase in harassment or intimidation, or
+
 (vi) the presence of graffiti; and
+
 (c) the owner or occupants of the premises or part of the premises knew or ought to have known that the activities or circumstances constituting the public nuisance were taking place or existed and did not take adequate steps to eliminate the public nuisance.
 
 ### Consent
@@ -9132,8 +11051,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Resulting action
 
 (4) The following conditions apply with respect to a notice given to the Attorney General under subsection (3):
+
 1. If the Attorney General does not provide any comment to the City with respect to the application within the 15-day period, the City may proceed with the application.
+
 2. If the Attorney General provides comments to the City supporting the application within the 15-day period, the City may immediately proceed with the application.
+
 3. If the Attorney General provides comments to the City opposing the application within the 15-day period, the City may not proceed with the application.
 
 ### Action by Attorney General
@@ -9143,8 +11065,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Contents of notice
 
 (6) A notice under subsection (3) shall include a description of,
+
 (a) the premises with respect to which the City intends to make the application;
+
 (b) the activities or circumstances on or in the premises which, in the opinion of the City, constitute a public nuisance or cause or contribute to activities or circumstances constituting a public nuisance in the vicinity of the premises; and
+
 (c) the detrimental impact on the use and enjoyment of property in the vicinity of the premises which, in the opinion of the City, is caused by the activities or circumstances described in clause (b).
 
 ### Suspension of closing order
@@ -9190,7 +11115,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Persons who may conduct inspection
 
 (2) An inspection referred to in subsection (1) may be conducted by,
+
 (a) a by-law enforcement officer of any municipality or of any local board of any municipality; or
+
 (b) an officer, employee or agent of any municipality or of any local board of any municipality whose responsibilities include the enforcement of a by-law, an Act or a regulation under an Act.
 
 ### Nature of inspection
@@ -9208,6 +11135,7 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Definition
 
 (6) In this section,
+
 “police service” means a police service as defined under the Community Safety and Policing Act, 2019 or the Royal Canadian Mounted Police.
 
 ### Co-ordination of enforcement
@@ -9233,8 +11161,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Immunity re policy decisions
 
 390 No proceeding based on negligence in connection with the exercise or non-exercise of a discretionary power or the performance or non-performance of a discretionary function, if the action or inaction results from a policy decision of the City or a local board of the City made in a good faith exercise of the discretion, shall be commenced against,
+
 (a) the City or a local board of the City;
+
 (b) a member of city council or a member of a local board of the City; or
+
 (c) an officer, employee or agent of the City or an officer, employee or agent of a local board of the City.
 
 ### Immunity re performance of duty
@@ -9260,9 +11191,13 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Calming measures by-law
 
 (2) A by-law for the purpose of subsection (1) is a by-law that,
+
 (a) designates a highway or portion of a highway under the jurisdiction of the City as a speed control zone;
+
 (b) authorizes the installation of devices in any part of the highway in a speed control zone so as to alter the surface of the highway;
+
 (c) permits or requires that signs identifying a speed control zone be posted; and
+
 (d) contains a description of the devices that are authorized for installation, the signs permitted or required to be posted and the placement of signs identifying a speed control zone.
 
 ### No exemption from negligence
@@ -9272,14 +11207,19 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Liability in nuisance re water and sewage
 
 393 (1) No proceeding based on nuisance, in connection with the escape of water or sewage from sewage works or water works shall be commenced against,
+
 (a) the City or a local board of the City;
+
 (b) a member of city council or a member of a local board of the City; or
+
 (c) an officer, employee or agent of the City or an officer, employee or agent of a local board of the City.
 
 ### Definitions
 
 (2) In this section,
+
 “sewage works” means all or any part of facilities for the collection, storage, transmission, treatment or disposal of sewage, including a sewage system to which the Building Code Act, 1992 applies; (“station d’épuration des eaux d’égout”)
+
 “water works” means facilities for the collection, production, treatment, storage, supply or distribution of water, or any part of the facilities. (“station de purification de l’eau”)
 
 ### Rights preserved
@@ -9313,16 +11253,27 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Exceptions
 
 (3) Subsection (1) does not apply in respect of,
+
 (a) rickshaws;
+
 (b) pedicabs;
+
 (c) railway companies incorporated under federal or provincial statutes;
+
 (d) taxicabs;
+
 (e) vehicles used for providing sightseeing tours;
+
 (f) vehicles exclusively chartered to transport a group of persons for a specified trip within the City, for a group fee;
+
 (g) buses owned and operated by or operated under a contract with a school board or private school;
+
 (h) buses owned and operated by a corporation or organization solely for its own purposes, without charging a fee for transportation;
+
 (i) ferries to the Toronto Islands;
+
 (j) public buses on the Toronto Islands.
+
 (k) Repealed: 2011, c. 9, Sched. 41, s. 2.
 
 ### Agreements
@@ -9348,19 +11299,25 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Agreements re local passenger transportation services
 
 397 (1) The TTC may enter into an agreement with a municipality situated within 40 kilometres of the City providing that,
+
 (a) the TTC will operate a local passenger transportation service in accordance with the agreement.
+
 (b), (c) Repealed: 2015, c. 27, Sched. 5, s. 3 (2).
 
 ### By-laws, surplus and deficit
 
 (2) A municipality that enters into an agreement described in subsection (1) may pass by-laws providing that,
+
 (a) any deficit charged to the municipality is payable out of the general funds of the municipality, and any surplus shall be credited to the general funds; or
+
 (b) with the approval of the Ontario Land Tribunal, any deficit shall be assessed against the rateable property in an area or areas of the municipality defined in the by-law, and any surplus shall be credited to that rateable property.
 
 ### Agreement with person other than municipality
 
 (3) The TTC may enter into an agreement with a person other than a municipality providing that,
+
 (a) the TTC will operate a local passenger transportation system in accordance with the agreement; and
+
 (b) the person will pay any operating deficit.
 
 ### Claims against TTC
@@ -9402,7 +11359,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Contributions
 
 (3) The TTC shall make contributions only in respect of,
+
 (a) regular employees who have been employed by the TTC for at least 60 days, and their spouses and dependent children; and
+
 (b) retired employees who reside in Ontario and elect to continue the benefits.
 
 ### Temporary and seasonal employees excluded
@@ -9446,8 +11405,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Additional policing services
 
 403 In addition to performing the policing required by the Community Safety and Policing Act, 2019, the Toronto Police Service may,
+
 (a) maintain a safety and lifesaving patrol of the waters of Lake Ontario within the limits of the City;
+
 (b) provide lifeguard service on the beaches in the City; and
+
 (c) provide The Toronto Harbour Commissioners with the security and port policing for the Port of Toronto that they may require from time to time.
 
 ### Indemnifying members of police service
@@ -9475,8 +11437,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Functions of city council
 
 (5) Despite the Health Protection and Promotion Act, the City has the following functions with respect to the Board:
+
 1. The functions that the Board would otherwise have in respect of the appointment, reappointment and dismissal of its medical officer of health and associate medical officers of health.
+
 2. The duty of providing to the Board the city employees, including public health nurses, that the City considers necessary to carry out the Board’s functions, including its duties in respect of mandatory health programs and services.
+
 3. The duty of appointing the Board’s auditor.
 
 ### Exhibition Place
@@ -9484,20 +11449,27 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Powers, duties re Exhibition Place
 
 406 (1) In this section and in section 407,
+
 “Exhibition Place” means the land known as Exhibition Park and adjacent land to the south created by fill, which was vested in the City on January 1, 1998 by the City of Toronto Act, 1997, except for any interest of the Crown in right of Ontario.
 
 ### Use of Exhibition Place
 
 (2) Exhibition Place shall be used,
+
 (a) for parks and exhibition purposes;
+
 (b) for the purposes of trade centres and trade and agricultural fairs such as, but not limited to, the annual Canadian National Exhibition and Royal Agricultural Winter Fair;
+
 (c) for displays, agricultural activities, sporting events, athletic contests, public entertainments and meetings;
+
 (d) for highway, electrical transmission or public utility purposes;
+
 (e) for any other purpose that the City may approve.
 
 ### Canadian National Exhibition
 
 (3) An exhibition shall be held annually at Exhibition Place.
+
 (4) Repealed: 2017, c. 10, Sched. 2, s. 65.
 
 ### Board continued
@@ -9515,7 +11487,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Former employees of Association or Exhibition Stadium Corporation
 
 408 (1) Every person employed by the Canadian National Exhibition Association or the Exhibition Stadium Corporation who accepted employment with The Board of Governors of Exhibition Place under subsection 232 (1) of the Municipality of Metropolitan Toronto Act, being chapter M.62 of the Revised Statutes of Ontario, 1990, as that Act read before its repeal,
+
 (a) continues as, or is deemed to have become a member of, the Ontario Municipal Employees Retirement System, as the case requires, on his or her transfer date; and
+
 (b) with respect to pension benefits accrued before the coming into force of an agreement under subsections 229 (11) and (12) of that Act, is deemed, during the course of his or her employment by the Association or the Corporation, to have been employed by the Board of Governors.
 
 ### Participation in OMERS
@@ -9531,6 +11505,7 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Board continued
 
 409 (1) The Board of Management of the Toronto Zoo is continued as a city board and its purposes are the operation, management and maintenance of the Toronto Zoo.
+
 (2) Repealed: 2009, c. 33, Sched. 21, s. 4 (31).
 
 ### Taxation
@@ -9544,6 +11519,7 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Definition
 
 (5) In this section,
+
 “Toronto Zoo” means the zoological garden and related facilities of the City.
 
 ### Former employees of Society
@@ -9571,7 +11547,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Definition
 
 (4) In this section,
+
 “Centre” means the land and building vested in the City known as the Hummingbird Centre, formerly known as the O’Keefe Centre.
+
 (5) Repealed: 2017, c. 10, Sched. 2, s. 66.
 
 ### North York Performing Arts Centre Corporation
@@ -9581,7 +11559,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Definitions
 
 411.1 (1) In this section,
+
 “arts centre” means any land, building, fixtures and undertakings owned or available to or used by the corporation and located within the part of the City that on December 31, 1997 constituted the City of North York; (“centre des arts”)
+
 “corporation” means the North York Performing Arts Centre Corporation continued under subsection (2). (“société”)
 
 ### Continuation of corporation
@@ -9599,13 +11579,21 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Objects
 
 (5) The objects of the corporation are, for charitable purposes, to maintain, operate and manage the arts centre for the benefit of the public and, without limiting these general objects,
+
 (a) to provide facilities and services for the performing arts, the fine arts and other charitable and cultural activities;
+
 (b) to establish educational facilities and provide instruction in all areas of the arts;
+
 (c) to provide facilities and services for holding receptions, meetings, conferences, conventions, exhibitions and displays;
+
 (d) to operate an art gallery, gift shop, theatre, music hall, studio theatre, concert hall, ballroom, film, television or recording studio, refreshment stands and restaurants;
+
 (e) to promote the advancement of the performing and fine arts;
+
 (f) to present, produce, manage and conduct performances of the performing arts, including plays, dramas, comedies, revues, operas, concerts, musicals, television shows, video tapes, sound recordings, films, variety, ballets, shows and other artistic undertakings;
+
 (g) to promote and market the arts centre;
+
 (h) to oversee, arrange or contract for and supervise the design, construction and promotion of any building or structure for the arts centre.
 
 ### Claims, etc.
@@ -9625,8 +11613,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Additional functions
 
 413 (1) In addition to its functions under the Public Libraries Act, the Toronto Public Library Board shall,
+
 (a) provide a reference and research service that reflects the unique needs of the City;
+
 (b) maintain a comprehensive collection of books, periodicals, films and other material for the purpose of clause (a); and
+
 (c) provide library resources and services to the Ontario library community.
 
 ### Special library services board
@@ -9704,7 +11695,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Temporary authority for by-laws, etc.
 
 420 (1) If, as a result of the coming into force of any provision of Schedule B or C to the Stronger City of Toronto for a Stronger Ontario Act, 2006, the City no longer has the authority to pass a by-law or resolution that was in force immediately before the continuation of the City, despite the absence of authority,
+
 (a) the by-law or resolution continues in force until its repeal, expiration or January 1, 2010, whichever occurs first; and
+
 (b) the authority, as it read immediately before the continuation of the City, continues to apply to the by-law or resolution passed under it before the day this section comes into force.
 
 ### Restrictions
@@ -9718,7 +11711,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Temporary authority for by-laws, etc.
 
 420.1 (1) If, as a result of the repeal of a private Act described in Table 1 of Schedule B to the Municipal Statute Law Amendment Act, 2006, the City no longer has the authority to pass a by-law or resolution that was in force immediately before the repeal, despite the absence of authority,
+
 (a) the by-law or resolution continues in force until its repeal, expiration or January 1, 2010, whichever occurs first; and
+
 (b) the authority, as it read immediately before its repeal, continues to apply to the by-law or resolution passed under it before its repeal.
 
 ### Restrictions
@@ -9732,13 +11727,17 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Deemed by-law re powers and duties
 
 420.2 (1) This section applies if a person or body, other than a city board, ceases to be authorized to exercise powers or perform duties on behalf of, or in relation to, the City by virtue of the coming into force of any provision of,
+
 (a) the Stronger City of Toronto for a Stronger Ontario Act, 2006; or
+
 (b) Schedule B to the Municipal Statute Law Amendment Act, 2006.
 
 ### Same
 
 (2) On the day on which the applicable provision comes into force, the City is deemed to have passed any by-law necessary under this Act to give the person or body any power or duty,
+
 (a) that the City is capable of giving to the person or body under this Act; and
+
 (b) that the person or body was authorized to exercise or perform, on behalf of or in relation to the City, immediately before that day.
 
 ### Same
@@ -9752,7 +11751,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Status of official plans
 
 421 Every official plan of the City that was in force on January 1, 1998 by virtue of section 45 of the City of Toronto Act, 1997 (No. 2) and that remains in force on the day on which this section comes into force,
+
 (a) is deemed to be an official plan of the City; and
+
 (b) remains in force, in respect of the part of the City to which it applied on December 31, 1997, until city council repeals it or amends it to provide otherwise.
 
 ### Temporary duty to give notice
@@ -9766,6 +11767,7 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Effect of duty
 
 (3) Nothing in subsection (2) has the effect of making any other procedural requirement or any substantive requirement of the Municipal Act, 2001 apply to the City in the circumstances.
+
 423 Repealed: 2006, c. 32, Sched. B, s. 84.
 
 ### Tax status of property used by veterans
@@ -9797,9 +11799,13 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Same
 
 (2) Without limiting the provision of Part XVII that continues a local board as a city board, the following circumstances exist on the day on which the local board is continued:
+
 1. The matters described in paragraphs 1 to 7 of subsection 141 (1) relating to the city board, and the rules with respect to those matters, are the same as they were immediately before continuation of the local board as a city board.
+
 2. The city board has the same control and management of the same municipal services and activities that the local board had immediately before the continuation.
+
 3. The powers and duties of the city board are the same as the local board’s powers and duties immediately before the continuation.
+
 4. The by-laws, resolutions, rules, procedures and policies of the local board that were in effect immediately before the continuation remain in effect, subject to section 428.
 
 ### Deemed by-law
@@ -9821,14 +11827,19 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Same
 
 (2) Without limiting the provision of Part XVII that continues a local board, the following circumstances exist on the day on which the local board is continued:
+
 1. The composition of the local board is the same as it was immediately before continuation.
+
 2. The powers and duties of the local board are the same as they were immediately before the continuation.
+
 3. The by-laws, resolutions, rules, procedures and policies of the local board that were in effect immediately before the continuation remain in effect, subject to section 428.
 
 ### Temporary authority for by-laws, etc., of boards
 
 428 (1) If, as a result of the coming into force of any provision of Schedule B or C to the Stronger City of Toronto for a Stronger Ontario Act, 2006, a city board or other local board no longer has the authority to pass a by-law or resolution that was in force immediately before the continuation of the board, despite the absence of authority,
+
 (a) the by-law or resolution continues in force until its repeal, expiration or January 1, 2010, whichever occurs first; and
+
 (b) the authority, as it read immediately before the continuation of the city board or other local board, continues to apply to the by-law or resolution passed under it before the day this section comes into force.
 
 ### Restrictions
@@ -9872,8 +11883,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Proceedings under Part VI of Metro Act
 
 431 Part VI of the Municipality of Metropolitan Toronto Act, being chapter M.62 of the Revised Statutes of Ontario, 1990, as that Act read on December 31, 1997, continues to apply to the following, despite the repeal of that Act:
+
 1. Applications made under subsection 93 (2) of that Act (dispute re bridge or highway) on or before December 31, 1997 and not finally disposed of by the date on which this section comes into force.
+
 2. Applications for approval made under subsection 97 (2) of that Act (road closing) on or before December 31, 1997 and not finally disposed of by the date on which this section comes into force.
+
 3. Claims filed under subsection 97 (3) of that Act (injurious affection) on or before December 31, 1997 and not finally disposed of by the date on which this section comes into force.
 
 ### Regulations
@@ -9881,10 +11895,15 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Regulations, transitional matters
 
 432 (1) The Minister of Municipal Affairs and Housing may make regulations providing for transitional matters which, in the opinion of the Minister, are necessary or desirable,
+
 (a) to facilitate the implementation of this Act or any provision of this Act;
+
 (b) to deal with problems or issues arising as a result of the repeal of the City of Toronto Act, 1997 (No. 1) and the City of Toronto Act, 1997 (No. 2) and the enactment of this Act;
+
 (c) to deal with problems or issues arising as a result of the enactment of section 7.1 of the Municipal Act, 2001 by subsection 9 (2) of Schedule B to the Stronger City of Toronto for a Stronger Ontario Act, 2006;
+
 (d) to deal with problems or issues arising as a result of the amendment or repeal of a provision of another Act by Schedule B or C of the Stronger City of Toronto for a Stronger Ontario Act, 2006;
+
 (e) to deal with problems or issues arising as a result of the repeal of a private Act described in Table 1 of Schedule B to the Municipal Statute Law Amendment Act, 2006.
 
 ### Conflicts
@@ -9896,15 +11915,25 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Definitions
 
 432.0.1 In this Part,
+
 “City” includes a local board; (“cité”)
+
 “local board” means a local board as defined in subsection 3 (1), except that it includes a school board; (“conseil local”)
+
 “municipality” includes,
+
 (a) a local board of a municipality other than the City, and
+
 (b) a board, commission or other local authority exercising any power with respect to municipal affairs or purposes, including school purposes, in unorganized territory; (“municipalité”)
+
 “public utility” means, in addition to a public utility as defined in subsection 3 (1),
+
 (a) a system that is used to provide,
+
 (i) electric heat, light and power works, or
+
 (ii) any other service or thing that supplies the general public with necessaries or conveniences, and
+
 (b) the service or thing that is provided. (“service public”)
 
 ### Municipal Affairs
@@ -9912,16 +11941,27 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Jurisdiction and powers
 
 432.0.2 (1) The Ontario Land Tribunal has jurisdiction and power in relation to municipal affairs,
+
 (a) to approve the exercise in whole or in part of any of the powers by the City under any Act that may or will involve or require the borrowing of money by the issue of debentures, or the incurring of any debt or the issuing of any debentures, which approval the City voluntarily applies for or is required by law to obtain;
+
 (b) to approve any by-law or proposed by-law of the City, which approval the City voluntarily applies for or is required by law to obtain;
+
 (c) to authorize the issue by the City, without the assent of the electors, of debentures to pay any floating indebtedness that it may have incurred, on such terms, in such manner and at such times as the Tribunal may approve, or to direct that the floating indebtedness be paid in such other manner and within such time as the Tribunal may require;
+
 (d) to authorize the issue by the City, without the assent of the electors, of debentures to retire debentures that are redeemable before maturity, and the raising of the sum required for payment of the new debentures in the same manner as the sum required for payment of the retired debentures;
+
 (e) to certify to the validity of debentures issued under the authority of any by-law of the City that the Tribunal has approved;
+
 (f) to direct that before any approval is given by the Tribunal to the exercise of any powers by the City or to any by-law passed by it, or before any authorization is given by the Tribunal to the issue by the City of debentures to pay any floating indebtedness, the assent of the electors of the City or those who are qualified to vote on money by-laws first be obtained, even though the assent is not otherwise required;
+
 (g) to supervise, where considered necessary, the expenditure of any money borrowed by the City with the approval of the Tribunal;
+
 (h) to require and obtain from the City, at any time and for any definite period, statements in detail of any of its affairs, financial and otherwise;
+
 (i) to inquire at any time into any or all of the affairs, financial and otherwise, of the City and hold hearings and make investigations respecting those affairs as may appear necessary to be made in the interest of the City, its ratepayers, inhabitants and creditors and particularly to make and hold inquiries, hearings and investigations for the purpose of avoiding any default or recurrence of a default by any municipality in meeting its obligations;
+
 (j) when authorized by an agreement entered into by the City and one or more municipalities in which the parties to the agreement agree to be bound by the decision of the Tribunal, to hear and determine disputes in relation to the agreement; and
+
 (k) where water or sewage service is supplied or to be supplied by the City to another municipality, or supplied or to be supplied by another municipality to the City, to hear and determine the application of either municipality to confirm, vary or fix rates charged or to be charged in connection with the water or sewage service.
 
 ### Same
@@ -9935,8 +11975,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Application to Tribunal for approval of by-law authorizing borrowing
 
 432.0.4 (1) A person may apply to the Ontario Land Tribunal for approval of a by-law of the City authorizing a debenture, borrowing or other debt if the person is,
+
 (a) the holder of the debenture or entitled to receive the debenture or the proceeds of its sale;
+
 (b) the person to whom the borrowing is owed by the City; or
+
 (c) the person to whom the other debt is owed by the City.
 
 ### Tribunal may approve
@@ -9978,17 +12021,25 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Scope of Tribunal inquiry
 
 432.0.10 (1) The Ontario Land Tribunal may, before approving an application by the City for any of the following, make inquiries into the matters described in subsection (2):
+
 1. Approval of the exercise by the City of any of its powers.
+
 2. Approval of the incurring of any debt.
+
 3. Approval of the issue of any debentures.
+
 4. Approval of a by-law.
 
 ### Same
 
 (2) For the purposes of subsection (1), the matters are the following:
+
 1. The nature of the power sought to be exercised or undertaking that is proposed to be or has been proceeded with.
+
 2. The financial position and obligations of the City.
+
 3. The burden of taxation on the ratepayers.
+
 4. Any other matter that the Tribunal considers to be relevant.
 
 ### When electors’ assent may be dispensed with
@@ -10038,10 +12089,15 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Matters not requiring Tribunal approval
 
 (3) Subsection (1) does not apply to,
+
 (a) anything done with the approval of the Ontario Land Tribunal, if the approval is,
+
 (i) provided for by another Act or by another provision of this Act, and
+
 (ii) obtained in advance;
+
 (b) a by-law of a local board mentioned in subsection (2) containing a provision to the effect that it shall not come into force until the approval of the Tribunal has been obtained; or
+
 (c) a by-law or resolution of a local board mentioned in subsection (2) containing a provision to the effect that it shall not come into force until the approval of the City has been obtained.
 
 ### Approval of Tribunal
@@ -10051,6 +12107,7 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Definition
 
 (5) In this section,
+
 “work” includes any undertaking, project, scheme, act, matter or thing.
 
 ### Inquiry by Tribunal
@@ -10066,7 +12123,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Jurisdiction and powers
 
 432.0.15 (1) The Ontario Land Tribunal has jurisdiction and power,
+
 (a) to hear and determine any application with respect to any public utility, its construction, maintenance or operation by reason of the contravening of or failure to comply on the part of the City or any person, firm, company or corporation with the requirements of any Act, or of any regulation, rule, by-law or order made under any Act, or of any agreement entered into in relation to such public utility, its construction, maintenance or operation; and
+
 (b) to hear and determine any application with respect to any tolls charged by the City or any person, firm, company or corporation operating a public utility in excess of those approved or prescribed by lawful authority, or which are otherwise unlawful.
 
 ### Jurisdiction over receivers, liquidators, etc.
@@ -10106,36 +12165,55 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Interpretation
 
 433 In sections 434 to 440,
+
 “local board” has the same meaning as in the City of Toronto Act, 1997 (No. 1) as that Act read immediately before its repeal by section 1 of Schedule B to the Stronger City of Toronto for a Stronger Ontario Act, 2006; (“conseil local”)
+
 “Metro” means The Municipality of Metropolitan Toronto under the Metro Act; (“communauté urbaine”)
+
 “Metro Act” means the Municipality of Metropolitan Toronto Act, being chapter M.62 of the Revised Statutes of Ontario, 1990, as that Act read immediately before its repeal; (“loi sur la communauté urbaine”)
+
 “old municipalities” has the same meaning as in the City of Toronto Act, 1997 (No. 1) as that Act read immediately before its repeal by section 1 of Schedule B to the Stronger City of Toronto for a Stronger Ontario Act, 2006. (“anciennes municipalités”)
 
 ### Pensions, benefits
 
 434 (1) In this section,
+
 “benefits” includes,
+
 (a) life, accident, liability, health, hospital or other insurance benefits,
+
 (b) liability, medical, health, hospital, sick leave, holiday or similar benefits or gratuities,
+
 (c) retirement allowances, severances or incentives, and
+
 (d) gratuities in respect of work-related injuries or death; (“avantages sociaux”)
+
 “employee” means,
+
 (a) employees and retired employees, both as defined in paragraph 46 of section 207 of the old Municipal Act, and
+
 (b) former employees. (“employé”)
 
 ### Rights preserved
 
 (2) Nothing in this Act, the City of Toronto Act, 1997 (No. 1) or the City of Toronto Act, 1997 (No. 2) affects the rights that any of the following persons have with respect to pensions or benefits on December 31, 1997:
+
 1. Employees of an old municipality or one of its local boards.
+
 2. Members or former members of a council of an old municipality, or of a local board of an old municipality.
+
 3. Persons entitled, under paragraph 50 of section 207 of the old Municipal Act, to benefits from an old municipality or one of its local boards.
+
 4. The beneficiaries of persons referred to in paragraphs 1, 2 and 3.
 
 ### Plans and funds continued
 
 (3) Subject to any other Act, all pension and benefit plans and funds that meet the following conditions are continued:
+
 1. They existed on December 31, 1997 and, by virtue of section 3 of the City of Toronto Act, 1997 (No. 2), they were continued.
+
 2. They have been established under the authority of a general or special Act.
+
 3. They provide for pensions or benefits for persons listed in subsection (2).
 
 ### Administrative bodies continued
@@ -10157,7 +12235,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Local boards, pension contributions
 
 436 When a pension plan established under clause 24 (3) (b) of the Metro Act, or under a predecessor of that clause, applies to an employee of a local board of the City, the local board shall,
+
 (a) deduct from the employee’s remuneration, by instalments, the amounts that the plan requires him or her to contribute, and pay them to the city treasurer; and
+
 (b) pay to the city treasurer the employer contributions that the plan requires in respect of the employee.
 
 ### Corporate status of certain plan and fund
@@ -10167,13 +12247,17 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Accrued benefits, former plan
 
 438 (1) Subsection (2) applies if an employee of the City or of one of its local boards was, on December 31, 1997, a member of a pension plan established by Metro by virtue of,
+
 (a) an election under subsection 24 (5) of the Metro Act, as it read on December 31, 1997, or a predecessor of that subsection; or
+
 (b) an agreement under clause 24 (3) (c) of the Metro Act, as it read on December 31, 1997, or a predecessor of that clause.
 
 ### Same
 
 (2) When the employee’s services with the City or local board terminate,
+
 (a) the employee or his or her beneficiaries are entitled to all the benefits under the pension plan of the former employer referred to in subsection 24 (9) of the Metro Act, as it read on December 31, 1997, or a predecessor of that subsection, accrued up to the date the employee became a member of the plan established by Metro; and
+
 (b) for the purpose of determining eligibility for those accrued benefits, the employee’s service with the City or local board (and, up to December 31, 1997, with Metro or its local board) is deemed to be service with the former employer.
 
 ### Transfer from other plan
@@ -10191,7 +12275,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Same
 
 (6) The money may be transferred earlier,
+
 (a) at the option of the Toronto Transit Commission or the Toronto Police Services Board, as the case may be, if the Toronto Transit Commission or the Toronto Police Services Board, as the case may be, or a predecessor is the former employer;
+
 (b) at the City’s option, in all other cases.
 
 ### Certain members of police force
@@ -10237,7 +12323,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Persons administering certain pension funds
 
 443.1 (1) This section applies to a person who is a member of a pension committee, as defined in the Pension Benefits Act, which is the administrator of,
+
 (a) the Toronto Fire Department Superannuation and Benefit Fund; or
+
 (b) The Toronto Civic Employees Pension and Benefit Fund.
 
 ### Indemnification
@@ -10247,6 +12335,7 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Alternate member
 
 (3) For the purposes of this section, a person who is an alternate member of a pension committee is also a member of the committee.
+
 444 Repealed: 2006, c. 32, Sched. B, s. 93.
 
 ### Restrictions on Supply of Water, Sewage Disposal
@@ -10268,7 +12357,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Long-term care homes
 
 447 A long-term care home that the City maintains under Part IX of the Fixing Long-Term Care Act, 2021 may be located inside or outside of the City if,
+
 (a) the long-term care home was established by the City and is continued under Part IX of that Act; or
+
 (b) the long-term care home is established by the City under Part IX of that Act.
 
 ### Grants, homes for care of elderly persons
@@ -10282,6 +12373,7 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Distribution
 
 (2) The City may, in its absolute discretion, distribute both the fund and interest accruing on it for any purpose, other than the ordinary operation and maintenance of the long-term care homes of the City, that is for the general benefit of their residents.
+
 450 Repealed: 2007, c. 8, s. 198 (7).
 
 ### Agreement with conservation authority
@@ -10291,15 +12383,21 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Powers of City
 
 (2) Without limiting sections 7 and 8, those sections authorize the City to do the following things:
+
 1. To exercise all or any of the powers conferred by subsection 57 (1) and by paragraphs 52 and 58 of section 207 of the old Municipal Act, as those paragraphs read on December 31, 2002, in respect of the land.
+
 2. To lay out, construct and maintain roads on the land.
+
 3. To assume the maintenance of all or part of the existing roads.
+
 4. To regulate traffic on roads referred to in paragraphs 2 and 3, subject to the Highway Traffic Act.
 
 ### Additional powers
 
 (3) The City may,
+
 (a) prescribe the rate of speed for motor vehicles driven on the roads referred to in paragraphs 2 and 3 of subsection (2), in accordance with section 128 of the Highway Traffic Act; and
+
 (b) despite any other Act, exempt the land from municipal taxation for so long as it is managed and controlled by the City and used for park purposes.
 
 ### Tax exemption
@@ -10309,7 +12407,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Emergency measures
 
 452 Without limiting sections 7 and 8, those sections authorize the City to do the following things for emergency response purposes:
+
 1. To acquire alternative headquarters for the City government outside the City.
+
 2. To designate evacuation routes and empower members of the city police service to require persons to use them.
 
 ### Payment of damages to employees
@@ -10333,10 +12433,15 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Definition
 
 453.1 (1) In this section,
+
 “social housing program” means a program or project that,
+
 (a) is entirely owned or operated by or is leased to and operated by a non-profit housing co-operative as defined in the Co-operative Corporations Act or a non-profit corporation as defined in the National Housing Act (Canada) and that, in the opinion of the City, is designed to provide housing accommodation primarily for persons with low to moderate incomes, at a charge not exceeding the greater of,
+
 (i) the amount required to finance, operate and maintain such accommodation without profit, and
+
 (ii) the amount required to be charged for such accommodation under the terms of an agreement respecting the financing of the accommodation where one party is the provincial or federal government or an agent of either, or
+
 (b) provides housing accommodation that is owned and operated by or on behalf of Toronto Housing Company Inc. or Toronto Community Housing Corporation.
 
 ### Zoning densities
@@ -10358,8 +12463,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Consent required
 
 (6) If an agreement has been registered under subsection (4), no person shall, during the term of the agreement in respect of any unit of housing accommodation that is part of a social housing program, without the written consent of the City,
+
 (a) convey the unit, by way of deed or transfer, or grant, assign or exercise a power of appointment with respect to the unit;
+
 (b) mortgage or charge the unit or enter into an agreement of purchase and sale respecting the unit; or
+
 (c) enter into an agreement that has the effect of granting the use of or right in the unit directly or by entitlement to renewal for a period of 21 years or more.
 
 ### Effect of lack of consent
@@ -10369,8 +12477,11 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Restriction
 
 (8) If notice of an agreement has been registered against land to which the Land Titles Act applies under subsection (4), the City shall apply to the land registrar to have an entry made on the register that, unless the City has given its consent,
+
 (a) no transfer shall be made or charge created;
+
 (b) no notice of agreement of sale and purchase shall be registered; and
+
 (c) no lease or notice of lease having the effect of granting the use of or right in land directly or by entitlement to renewal for a period of 21 years or more shall be registered.
 
 ### Certificate of clerk
@@ -10512,7 +12623,9 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Power to adopt other codes, etc.
 
 458 (1) A by-law of the City or of a local board of the City made under this or any other Act may,
+
 (a) adopt by reference, in whole or in part, with such changes as city council considers appropriate, any code, standard, procedure or regulation as it stands at a specific date, as it stands at the time of adoption or as amended from time to time; and
+
 (b) require compliance with any code, standard, procedure or regulation so adopted.
 
 ### Inspection
@@ -10526,5 +12639,7 @@ ii. is under Part XIV if, under that Part, the treasurer registers a notice of v
 ### Scope of regulations
 
 459 A regulation made under this Act may be general or specific in its application and may differentiate in any way and on any basis that the maker of the regulation considers appropriate.
+
 460 Omitted (provides for coming into force of provisions of this Act).
+
 461 Omitted (enacts short title of this Act).

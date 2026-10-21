@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2019-05-29"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c07"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Cannabis Taxation Coordination Act, 2019
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c07) before relying on it.
 
 S.O. 2019, c. 7, Sched. 7
 
@@ -31,5 +31,7 @@ S.O. 2019, c. 7, Sched. 7
 ### Minister may make payments
 
 (4) The Minister of Finance is authorized to make payments from the Consolidated Revenue Fund in accordance with the Coordinated Cannabis Taxation Agreement, and any agreement entered into under subsection (3), from amounts appropriated by the Legislature for those purposes.
+
 2 Omitted (provides for coming into force of provisions of this Act).
+
 3 Omitted (enacts short title of this Act).

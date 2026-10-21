@@ -6,34 +6,50 @@ language: en
 type: act
 document_date: "2026-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17c14"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Child, Youth and Family Services Act, 2017
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17c14) before relying on it.
 
 S.O. 2017, c. 14, Sched. 1
 
 ### Preamble
 
 The Government of Ontario acknowledges that children are individuals with rights to be respected and voices to be heard.
+
 The Government of Ontario is committed to the following principles:
+
 Services provided to children and families should be child-centred.
+
 Children and families have better outcomes when services build on their strengths. Prevention services, early intervention services and community support services build on a family’s strengths and are invaluable in reducing the need for more disruptive services and interventions.
+
 Services provided to children and families should respect their diversity and the principle of inclusion, consistent with the Human Rights Code and the Canadian Charter of Rights and Freedoms.
+
 Systemic racism and the barriers it creates for children and families receiving services must continue to be addressed. All children should have the opportunity to meet their full potential. Awareness of systemic biases and racism and the need to address these barriers should inform the delivery of all services for children and families.
+
 Services to children and families should, wherever possible, help maintain connections to their communities.
+
 In furtherance of these principles, the Government of Ontario acknowledges that the aim of the Child, Youth and Family Services Act, 2017 is to be consistent with and build upon the principles expressed in the United Nations Convention on the Rights of the Child.
+
 With respect to First Nations, Inuit and Métis children, the Government of Ontario acknowledges the following:
+
 The Province of Ontario has unique and evolving relationships with First Nations, Inuit and Métis peoples.
+
 First Nations, Inuit and Métis peoples are constitutionally recognized peoples in Canada, with their own laws, and distinct cultural, political and historical ties to the Province of Ontario.
+
 Where a First Nations, Inuk or Métis child is otherwise eligible to receive a service under this Act, an inter-jurisdictional or intra-jurisdictional dispute should not prevent the timely provision of that service, in accordance with Jordan’s Principle.
+
 The United Nations Declaration on the Rights of Indigenous Peoples recognizes the importance of belonging to a community or nation, in accordance with the traditions and customs of the community or nation concerned.
+
 Further, the Government of Ontario believes the following:
+
 First Nations, Inuit and Métis children should be happy, healthy, resilient, grounded in their cultures and languages and thriving as individuals and as members of their families, communities and nations.
+
 Honouring the connection between First Nations, Inuit and Métis children and their distinct political and cultural communities is essential to helping them thrive and fostering their well-being.
+
 For these reasons, the Government of Ontario is committed, in the spirit of reconciliation, to working with First Nations, Inuit and Métis peoples to help ensure that wherever possible, they care for their children in accordance with their distinct cultures, heritages and traditions.
 
 ## PART I purposes and interpretation
@@ -49,18 +65,31 @@ For these reasons, the Government of Ontario is committed, in the spirit of reco
 ### Other purposes
 
 (2) The additional purposes of this Act, so long as they are consistent with the best interests, protection and well-being of children, are to recognize the following:
+
 1. While parents may need help in caring for their children, that help should give support to the autonomy and integrity of the family unit and, wherever possible, be provided on the basis of mutual consent.
+
 2. The least disruptive course of action that is available and is appropriate in a particular case to help a child, including the provision of prevention services, early intervention services and community support services, should be considered.
+
 3. Services to children and young persons should be provided in a manner that,
+
 i. respects a child’s or young person’s need for continuity of care and for stable relationships within a family and cultural environment,
+
 ii. takes into account physical, emotional, spiritual, mental and developmental needs and differences among children and young persons,
+
 iii. takes into account a child’s or young person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, family diversity, disability, creed, sex, sexual orientation, gender identity and gender expression,
+
 iv. takes into account a child’s or young person’s cultural and linguistic needs,
+
 v. provides early assessment, planning and decision-making to achieve permanent plans for children and young persons in accordance with their best interests, and
+
 vi. includes the participation of a child or young person, the child’s or young person’s parents and relatives and the members of the child’s or young person’s extended family and community, where appropriate.
+
 4. Services to children and young persons and their families should be provided in a manner that respects regional differences, wherever possible.
+
 5. Services to children and young persons and their families should be provided in a manner that builds on the strengths of the families, wherever possible.
+
 6. First Nations, Inuit and Métis peoples should be entitled to provide, wherever possible, their own child and family services, and all services to First Nations, Inuit and Métis children and young persons and their families should be provided in a manner that recognizes their cultures, heritages, traditions, connection to their communities, and the concept of the extended family.
+
 7. Appropriate sharing of information, including personal information, in order to plan for and provide services is essential for creating successful outcomes for children and families.
 
 ### Interpretation
@@ -70,98 +99,179 @@ vi. includes the participation of a child or young person, the child’s or youn
 ### Definitions
 
 2 (1) In this Act,
+
 “agency” means a corporation; (“agence”)
+
 “band” has the same meaning as in the Indian Act (Canada); (“bande”)
+
 “Board” means the Child and Family Services Review Board continued under section 333; (“Commission”)
+
 “child” means a person younger than 18; (“enfant”)
+
 “child in care” means a child or young person who is receiving residential care from a service provider and includes,
+
 (a) a child who is in the care of a foster parent, and
+
 (b) a young person who is,
+
 (i) detained in a place of temporary detention under the Youth Criminal Justice Act (Canada),
+
 (ii) committed to a place of secure or open custody designated under subsection 24.1 (1) of the Young Offenders Act (Canada), whether in accordance with section 88 of the Youth Criminal Justice Act (Canada) or otherwise, or
+
 (iii) held in a place of open custody under section 150 of this Act; (“enfant recevant des soins”, “enfant qui reçoit des soins”)
+
 “court” means the Ontario Court of Justice or the Family Court of the Superior Court of Justice; (“tribunal”)
+
 “creed” includes religion; (“croyance”)
+
 “customary care” means the care and supervision of a First Nations, Inuk or Métis child by a person who is not the child’s parent, according to the custom of the child’s band or First Nations, Inuit or Métis community; (“soins conformes aux traditions”)
+
 “Director” means a Director appointed under subsection 53 (1); (“directeur”)
+
 “extended family” means persons to whom a child is related, including through a spousal relationship or adoption and, in the case of a First Nations, Inuk or Métis child, includes any member of,
+
 (a) a band of which the child is a member,
+
 (b) a band with which the child identifies,
+
 (c) a First Nations, Inuit or Métis community of which the child is a member, and
+
 (d) a First Nations, Inuit or Métis community with which the child identifies; (“famille élargie”)
+
 “First Nations, Inuit or Métis community” means a community listed by the Minister in a regulation made under section 68; (“communauté inuite, métisse ou de Premières Nations”)
+
 “foster care” means the provision of residential care to a child, by and in the home of a person who,
+
 (a) receives compensation for caring for the child, except under the Ontario Works Act, 1997 or the Ontario Disability Support Program Act, 1997, and
+
 (b) is not the child’s parent or a person with whom the child has been placed for adoption under Part VIII (Adoption and Adoption Licensing),
+
 and “foster home” and “foster parent” have corresponding meanings; (“soins fournis par une famille d’accueil”, “famille d’accueil”, “parent de famille d’accueil”)
+
 “licence” means a licence issued under Part VIII (Adoption and Adoption Licensing) or Part IX (Residential Licensing); a reference to a licence in Part VIII is to a licence issued under that Part and a reference to a licence in Part IX is to a licence issued under that Part; (“permis”)
+
 “licensee” means the holder of a licence; (“titulaire de permis”)
+
 “local director” means a local director appointed under section 38; (“directeur local”)
+
 “mechanical restraints” means a device, material or equipment that reduces the ability of a person to move freely, and includes handcuffs, flex cuffs, leg irons, restraining belts, belly chains and linking chains; (“contentions mécaniques”)
+
 “Minister” means the Minister of Children and Youth Services or such other member of the Executive Council as may be designated under the Executive Council Act to administer this Act; (“ministre”)
+
 “Ministry” means the ministry of the Minister; (“ministère”)
+
 “old Act” means the Child and Family Services Act; (“ancienne loi”)
+
 “order” includes a refusal to make an order; (“arrêté, ordre et ordonnance”)
+
 “personal information” has the same meaning as in the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
 “physical restraint” means a holding technique to restrict a person’s ability to move freely but, for greater certainty, does not include,
+
 (a) restricting movement, physical redirection or physical prompting, if the restriction, redirection or prompting is brief, gentle and part of a behaviour teaching program, or
+
 (b) the use of helmets, protective mitts or other equipment to prevent a person from physically injuring or further physically injuring themself; (“contention physique”)
+
 “place of open custody” means a place or facility designated as a place of open custody under subsection 24.1 (1) of the Young Offenders Act (Canada), whether in accordance with section 88 of the Youth Criminal Justice Act (Canada) or otherwise; (“lieu de garde en milieu ouvert”)
+
 “place of open temporary detention” means a place of temporary detention in which the Minister has established an open detention program; (“lieu de détention provisoire en milieu ouvert”)
+
 “place of secure custody” means a place or facility designated for the secure containment or restraint of young persons under subsection 24.1 (1) of the Young Offenders Act (Canada), whether in accordance with section 88 of the Youth Criminal Justice Act (Canada) or otherwise; (“lieu de garde en milieu fermé”)
+
 “place of secure temporary detention” means a place of temporary detention in which the Minister has established a secure detention program; (“lieu de détention provisoire en milieu fermé”)
+
 “place of temporary detention” means a place or facility designated as a place of temporary detention under the Youth Criminal Justice Act (Canada); (“lieu de détention provisoire”)
+
 “prescribed” means prescribed by regulations; (“prescrit”)
+
 “program supervisor” means a program supervisor appointed under subsection 53 (2); (“superviseur de programme”)
+
 “provincial director” means,
+
 (a) a person, the group or class of persons or the body appointed or designated by the Lieutenant Governor in Council or the Lieutenant Governor in Council’s delegate to perform any of the duties or functions of a provincial director under the Youth Criminal Justice Act (Canada), or
+
 (b) a person appointed under clause 146 (1) (a); (“directeur provincial”)
+
 “record” means a record of information in any form or in any medium, whether in written, printed, photographic or electronic form or otherwise, but does not include a computer program or other mechanism that can produce a record; (“dossier”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “relative” means, with respect to a child, a person who is the child’s grandparent, great-uncle, great-aunt, uncle or aunt, including through a spousal relationship or adoption; (“membre de la parenté”)
+
 “residential care” means boarding, lodging and associated supervisory, sheltered or group care provided for a child away from the home of the child’s parent, other than boarding, lodging or associated care for a child who has been placed in the lawful care and custody of a relative or member of the child’s extended family or the child’s community; (“soins en établissement”)
+
 “residential placement” means a place where residential care is provided; (“placement en établissement”, “placé dans un établissement”)
+
 “service” includes,
+
 (a) a service for a child with a developmental or physical disability or the child’s family,
+
 (b) a mental health service for a child or the child’s family,
+
 (c) a service related to residential care for a child,
+
 (d) a service for a child who is or may be in need of protection or the child’s family,
+
 (e) a service related to adoption for a child, the child’s family or others,
+
 (f) counselling for a child or the child’s family,
+
 (g) a service for a child or the child’s family that is in the nature of support or prevention and that is provided in the community,
+
 (h) a service or program for or on behalf of a young person for the purposes of the Youth Criminal Justice Act (Canada) or the Provincial Offences Act, or
+
 (i) a prescribed service; (“service”)
+
 “service provider” means,
+
 (a) the Minister,
+
 (b) a licensee,
+
 (c) a person or entity, including a society, that provides a service funded under this Act, or
+
 (d) a prescribed person or entity,
+
 but does not include a foster parent; (“fournisseur de services”)
+
 “society” means an agency designated as a children’s aid society under subsection 34 (1); (“société”)
+
 “treatment” has the same meaning as in subsection 2 (1) of the Health Care Consent Act, 1996; (“traitement”)
+
 “Tribunal” means the Licence Appeal Tribunal; (‘‘Tribunal”)
+
 “young person” means,
+
 (a) a person who is or, in the absence of evidence to the contrary, appears to be 12 or older but younger than 18 and who is charged with or found guilty of an offence under the Youth Criminal Justice Act (Canada) or the Provincial Offences Act, or
+
 (b) if the context requires, any person who is charged under the Youth Criminal Justice Act (Canada) with having committed an offence while they were a young person or who is found guilty of an offence under the Youth Criminal Justice Act (Canada). (“adolescent”)
 
 ### Interpretation, “parent”
 
 (2) Unless this Act provides otherwise, a reference in this Act to a parent of a child is deemed to be a reference to,
+
 (a) the person who has lawful custody of the child; or
+
 (b) if more than one person has lawful custody of the child, all of the persons who have lawful custody of the child, excluding any person who is unavailable or unable to act, as the context requires.
 
 ### Member of child’s or young person’s community
 
 (3) For the purposes of this Act, the following persons are members of a child’s or young person’s community:
+
 1. A person who has ethnic, cultural or creedal ties in common with the child or young person or with a parent, sibling or relative of the child or young person.
+
 2. A person who has a beneficial and meaningful relationship with the child or young person or with a parent, sibling or relative of the child or young person.
 
 ### Interpretation, child’s or young person’s bands and First Nations, Inuit or Métis communities
 
 (4) In this Act, a reference to a child’s or young person’s bands and First Nations, Inuit or Métis communities includes all of the following:
+
 1. Any band of which the child or young person is a member.
+
 2. Any band with which the child or young person identifies.
+
 3. Any First Nations, Inuit or Métis community of which the child or young person is a member.
+
 4. Any First Nations, Inuit or Métis community with which the child or young person identifies.
 
 ## part II children’s and Young Persons’ rights
@@ -171,11 +281,17 @@ but does not include a foster parent; (“fournisseur de services”)
 ### Rights of children, young persons receiving services
 
 3 Every child and young person receiving services under this Act has the following rights:
+
 1. To express their own views freely and safely about matters that affect them.
+
 2. To be engaged through an honest and respectful dialogue about how and why decisions affecting them are made and to have their views given due weight, in accordance with their age and maturity.
+
 3. To be consulted on the nature of the services provided or to be provided to them, to participate in decisions about the services provided or to be provided to them and to be advised of the decisions made in respect of those services.
+
 4. To raise concerns or recommend changes with respect to the services provided or to be provided to them without interference or fear of coercion, discrimination or reprisal and to receive a response to their concerns or recommended changes.
+
 5. To be informed, in language suitable to their understanding, of their rights under this Part.
+
 6. Repealed: 2018, c. 17, Sched. 34, s. 6 (1).
 
 ### Corporal punishment prohibited
@@ -199,15 +315,21 @@ but does not include a foster parent; (“fournisseur de services”)
 ### Offences
 
 7.1 (1) A person is guilty of an offence if the person contravenes,
+
 (a) section 4 (corporal punishment prohibited);
+
 (b) section 5 (detention restricted);
+
 (c) section 6 (physical restraint restricted);
+
 (d) section 7 (mechanical restraints restricted).
 
 ### Penalty
 
 (2) A person convicted of an offence under subsection (1) is liable to,
+
 (a) a fine of not more than $250,000 or imprisonment for a term of not more than one year or both, in the case of an individual; or
+
 (b) a fine of not more than $250,000 if the person is not an individual.
 
 ### Limitation
@@ -227,8 +349,11 @@ but does not include a foster parent; (“fournisseur de services”)
 ### Right to be heard in respect of decisions
 
 8 (1) For greater certainty, the rights under section 3 of a child in care apply to decisions affecting them, including decisions with respect to,
+
 (a) the child’s or young person’s treatment, education or training or work programs;
+
 (b) the child’s or young person’s creed, community identity and cultural identity; and
+
 (c) the child’s or young person’s placement in or discharge from a residential placement or transfer to another residential placement.
 
 ### Views to be given due weight
@@ -238,11 +363,17 @@ but does not include a foster parent; (“fournisseur de services”)
 ### Right to be informed re residential placement admission
 
 9 Upon admission to a residential placement, and at regular intervals thereafter, or, where intervals are prescribed, at the prescribed intervals thereafter, a child in care has a right to be informed, in language suitable to their understanding, of,
+
 (a) their rights under this Part;
+
 (b) the complaints procedures established under subsection 18 (1) and the further review available under section 19;
+
 (c) the review procedures available for children under sections 64, 65 and 66;
+
 (d) the review procedures available under section 152, in the case of a young person described in clause (b) of the definition of “child in care” in subsection 2 (1);
+
 (e) their responsibilities while in the placement; and
+
 (f) the rules governing day-to-day operation of the residential care, including disciplinary procedures.
 
 ### Rights re Ombudsman
@@ -252,12 +383,19 @@ but does not include a foster parent; (“fournisseur de services”)
 ### Rights of communication, etc.
 
 10 (1) A child in care has a right,
+
 (a) to speak in private with, visit and receive visits from members of their family or extended family regularly, subject to subsection (2);
+
 (b) without unreasonable delay, to speak in private with and receive visits from,
+
 (i) their lawyer,
+
 (ii) another person representing the child or young person,
+
 (iii) the Ombudsman appointed under the Ombudsman Act and members of the Ombudsman’s staff, and
+
 (iv) a member of the Legislative Assembly of Ontario or of the Parliament of Canada; and
+
 (c) to send and receive written communications that are not read, examined or censored by another person, subject to subsections (3) and (4).
 
 ### When child is in extended society care
@@ -267,24 +405,35 @@ but does not include a foster parent; (“fournisseur de services”)
 ### Opening, etc., of written communications to child in care
 
 (3) Subject to subsection (4), written communications to a child in care,
+
 (a) may be opened by the service provider or a member of the service provider’s staff in the child’s or young person’s presence and may be inspected for articles prohibited by the service provider;
+
 (b) subject to clause (c), may be examined or read by the service provider or a member of the service provider’s staff in the child’s or young person’s presence, where the service provider believes on reasonable grounds that the contents of the written communication may cause the child or young person physical or emotional harm;
+
 (c) shall not be examined or read by the service provider or a member of the service provider’s staff if it is to or from a person described in subclause (1) (b) (i), (ii), (iii) or (iv); and
+
 (d) shall not be censored or withheld from the child or young person, except that articles prohibited by the service provider may be removed from the written communication and withheld from the child or young person.
 
 ### Opening, etc., of young person’s written communications
 
 (4) Written communications to and from a young person who is detained in a place of temporary detention or held in a place of secure custody or of open custody,
+
 (a) may be opened by the service provider or a member of the service provider’s staff in the young person’s presence and may be inspected for articles prohibited by the service provider;
+
 (b) may be examined or read by the service provider or a member of the service provider’s staff and may be withheld from the recipient in whole or in part where the service provider or the member of their staff believes on reasonable grounds that the contents of the written communications,
+
 (i) may be prejudicial to the best interests of the young person, the public safety or the safety or security of the place of detention or custody, or
+
 (ii) may contain communications that are prohibited under the Youth Criminal Justice Act (Canada) or by court order;
+
 (c) shall not be examined or read under clause (b) if it is to or from the young person’s lawyer; and
+
 (d) shall not be opened and inspected under clause (a) or examined or read under clause (b) if it is to or from a person described in subclause (1) (b) (ii), (iii) or (iv).
 
 ### Definition
 
 (5) In this section,
+
 “written communications” includes mail and electronic communication in any form.
 
 ### Conditions and limitations on visitors
@@ -298,15 +447,21 @@ but does not include a foster parent; (“fournisseur de services”)
 ### Limited exception
 
 (3) Despite subsection (2), the service provider may not suspend visits from,
+
 (a) Repealed: 2018, c. 17, Sched. 34, s. 6 (3).
+
 (b) the Ombudsman appointed under the Ombudsman Act and members of the Ombudsman’s staff; or
+
 (c) a member of the Legislative Assembly of Ontario or of the Parliament of Canada,
+
 unless the provincial director determines that suspension is necessary to ensure public safety or the safety of staff or young persons in the facility.
 
 ### Personal liberties
 
 12 A child in care has a right,
+
 (a) to have reasonable privacy and possession of their own personal property, subject to section 155; and
+
 (b) to receive instruction and participate in activities of their choice related to their creed, community identity and cultural identity, subject to section 14.
 
 ### Plan of care
@@ -316,17 +471,25 @@ unless the provincial director determines that suspension is necessary to ensure
 ### Rights to care
 
 (2) A child in care has a right,
+
 (a) to participate in the development of their individual plan of care and in any changes made to it;
+
 (b) to have access to food that is of good quality and appropriate for the child or young person, including meals that are well balanced;
+
 (c) to be provided with clothing that is of good quality and appropriate for the child or young person, given their size and activities and prevailing weather conditions;
+
 (d) to receive medical and dental care, subject to section 14, at regular intervals and whenever required, in a community setting whenever possible;
+
 (e) to receive an education that corresponds to their aptitudes and abilities, in a community setting whenever possible; and
+
 (f) to participate in recreational, athletic and creative activities that are appropriate for their aptitudes and interests, in a community setting whenever possible.
 
 ### Parental consent, etc.
 
 14 Subject to subsection 94 (7) and sections 110 and 111 (custody during adjournment, interim and extended society care), the parent of a child in care retains any right that the parent may have,
+
 (a) to direct the child’s or young person’s education and upbringing, in accordance with the child’s or young person’s creed, community identity and cultural identity; and
+
 (b) to consent to treatment on behalf of an incapable child or young person, if the parent is the child’s or young person’s substitute decision-maker in accordance with section 20 of the Health Care Consent Act, 1996.
 
 ### Service Providers’ Duties in respect of Children’s and Young Persons’ Rights
@@ -346,6 +509,7 @@ unless the provincial director determines that suspension is necessary to ensure
 ### Criteria and safeguards re decisions
 
 (4) Service providers shall ensure that decisions affecting the interests and rights of children and young persons and their parents are made according to clear, consistent criteria and are subject to appropriate procedural safeguards.
+
 (5) Repealed: 2018, c. 17, Sched. 34, s. 6 (4).
 
 ### Provision of information re Ombudsman
@@ -353,21 +517,33 @@ unless the provincial director determines that suspension is necessary to ensure
 ### Societies and residential licensees
 
 15.1 (1) A society or a licensee whose licence is issued under Part IX shall provide the information described in subsection 14.0.1 (1) of the Ombudsman Act to a child or young person when,
+
 (a) the society or licensee begins to provide a service to the child or young person; or
+
 (b) the child or young person makes a complaint under clause 18 (1) (a) or (b) or when the child or young person requests a further review of the complaint under subsection 19 (1) once the review by the society or licensee is completed.
 
 ### Societies
 
 (2) A society shall provide the information described in subsection 14.0.1 (1) of the Ombudsman Act to,
+
 (a) a child when,
+
 (i) the child requests that the society support them through a written agreement for services and supports under subsection 77 (1),
+
 (ii) the child enters into an agreement made under subsection 77 (1) or renews such an agreement under subsection 77 (2),
+
 (iii) the society who is a party to an agreement under subsection 77 (1) with the child issues a written notice to terminate the agreement under subsection 77 (4) or the child issues such a notice to the society, or
+
 (iv) the society provides information to the child about entering into an agreement referred to in section 124;
+
 (b) a person when the society provides information to the person about entering into an agreement referred to in section 124;
+
 (c) a person when the person enters into an agreement referred to in section 124; or
+
 (d) a person who is a party to an agreement under section 124 when,
+
 (i) the society renews the agreement, or
+
 (ii) the person provides the society with a written notice to terminate the agreement.
 
 ### Other circumstances
@@ -405,17 +581,25 @@ unless the provincial director determines that suspension is necessary to ensure
 ### Complaints procedure
 
 18 (1) A service provider who provides residential care to children or young persons or who places children or young persons in residential placements shall establish a written procedure, in accordance with the regulations, for hearing and dealing with,
+
 (a) complaints regarding alleged violations of the rights under this Part of children in care; and
+
 (b) complaints by children in care or other persons affected by conditions or limitations imposed on visitors under subsection 11 (1) or suspensions of visits under subsection 11 (2).
+
 (2) Repealed: 2018, c. 17, Sched. 34, s. 6 (5).
 
 ### Review of complaint
 
 (3) A service provider shall conduct a review or ensure that a review is conducted, in accordance with the procedure established under clause (1) (a) or (b), on the complaint of,
+
 (a) a child in care or a group of children in care;
+
 (b) the parent of a child in care who makes a complaint;
+
 (c) another person representing the child in care who makes a complaint; or
+
 (d) a person affected by a condition or limitation imposed on visitors under subsection 11 (1) or a suspension of visits under subsection 11 (2),
+
 and shall seek to resolve the complaint.
 
 ### Response to complainants
@@ -441,8 +625,11 @@ and shall seek to resolve the complaint.
 ### Review and report within 30 days
 
 (5) A person appointed under subsection (1) shall, within 30 days after the day of the appointment, complete the review, set out in a report the person’s findings and recommendations, including the reasons for not holding a hearing if none was held, and provide copies of the report to,
+
 (a) each person who made the complaint, whether as an individual or as part of a group;
+
 (b) the service provider; and
+
 (c) the Minister.
 
 ### Minister to advise persons affected of any decision
@@ -458,15 +645,21 @@ and shall seek to resolve the complaint.
 ### Consents and agreements
 
 21 (1) In this section,
+
 “capacity” means the capacity to understand and appreciate the nature of a consent or agreement and the consequences of giving, withholding or withdrawing the consent or making, not making or terminating the agreement; (“jouit de toutes ses facultés mentales”)
+
 “nearest relative”, when used in reference to a person who is younger than 16, means the person with lawful custody of the person, and when used in reference to a person who is 16 or older, means the person who would be authorized to give or refuse consent to a treatment on the person’s behalf under the Health Care Consent Act, 1996 if the person were incapable with respect to the treatment under that Act. (“membre de la parenté le plus proche”)
 
 ### Elements of valid consent or agreement, etc.
 
 (2) A person’s consent or withdrawal of a consent or participation in or termination of an agreement under this Act is valid if, at the time the consent is given or withdrawn or the agreement is made or terminated, the person,
+
 (a) has capacity;
+
 (b) is reasonably informed as to the nature and consequences of the consent or agreement, and of alternatives to it;
+
 (c) gives or withdraws the consent or executes the agreement or notice of termination voluntarily, without coercion or undue influence; and
+
 (d) has had a reasonable opportunity to obtain independent advice.
 
 ### Where person lacks capacity
@@ -494,8 +687,11 @@ and shall seek to resolve the complaint.
 ### Consent to residential care: child younger than 16 or in society’s care
 
 (2) A service provider may provide residential care to a child,
+
 (a) if the child is younger than 16, with the consent of the child’s parent; and
+
 (b) if the child is in a society’s lawful custody, with the society’s consent,
+
 except where this Act provides otherwise.
 
 ### Exception — Part VI
@@ -505,8 +701,11 @@ except where this Act provides otherwise.
 ### Discharge from residential placement
 
 (4) A child who is placed in a residential placement with the consent referred to in subsection (1) or (2) may only be discharged from the placement,
+
 (a) with the consent that would be required for a new residential placement;
+
 (b) where the placement is made under the authority of an agreement made under subsection 75 (1) (temporary care agreements), in accordance with section 76 (notice of termination); or
+
 (c) where the placement is made under the authority of an agreement made under subsection 77 (1) (agreements with 16 and 17 year olds), in accordance with subsection 77 (4) (notice of termination).
 
 ### Transfer to another placement
@@ -516,7 +715,9 @@ except where this Act provides otherwise.
 ### Child’s views and wishes
 
 (6) Before a child is placed in or discharged from a residential placement or transferred from one residential placement to another with the consent referred to in subsection (2), the service provider shall,
+
 (a) ensure that the child and the person whose consent is required under subsection (2) are made aware of and understand, as far as possible, the reasons for the placement, discharge or transfer; and
+
 (b) take the child’s views and wishes into account, given due weight in accordance with the child’s age and maturity.
 
 ### Application of Health Care Consent Act, 1996
@@ -536,6 +737,7 @@ except where this Act provides otherwise.
 ### Definition
 
 24 In this Part,
+
 “lead agency” means an entity designated as a lead agency under subsection 30 (1).
 
 ### Funding of Services and Lead Agencies
@@ -543,14 +745,23 @@ except where this Act provides otherwise.
 ### Provision of services directly or by others
 
 25 The Minister may,
+
 (a) provide services;
+
 (b) establish, operate and maintain premises for the provision of services;
+
 (c) provide funding, pursuant to agreements, to persons, agencies, municipalities, organizations and other prescribed entities,
+
 (i) for the provision or coordination of services by them,
+
 (ii) for the acquisition, maintenance or operation of premises used for the provision or coordination of services,
+
 (iii) for the establishment of advisory groups or committees with respect to services,
+
 (iv) for research, evaluation, planning, development, co-ordination or redesign with respect to services,
+
 (v) for any other prescribed purpose; and
+
 (d) provide funding, pursuant to agreements, to lead agencies with respect to the performance of the functions referred to in subsection 30 (5).
 
 ### Services to persons older than 18
@@ -610,7 +821,9 @@ except where this Act provides otherwise.
 ### Non-application
 
 32 (1) This section and section 33 do not apply in respect of,
+
 (a) licensees under Part IX (Residential Licensing), when acting in their capacity as licensees under that Part; or
+
 (b) societies, when performing their functions under subsection 35 (1).
 
 ### Directives
@@ -642,18 +855,27 @@ except where this Act provides otherwise.
 ### Grounds
 
 33 (1) A program supervisor may make an order under subsection (2) if the program supervisor believes on reasonable grounds that a service provider or lead agency has failed to comply with,
+
 (a) this Act or the regulations;
+
 (b) a directive issued under section 32;
+
 (c) in the case of a service provider, an agreement referred to in clause 25 (c) or section 26; or
+
 (d) in the case of a lead agency,
+
 (i) an agreement referred to in clause 25 (d);
+
 (ii) a condition imposed on the lead agency’s designation under subsection 30 (2), or
+
 (iii) subsection 30 (5) (functions of lead agencies).
 
 ### Order
 
 (2) For the purposes of subsection (1), a program supervisor may issue an order to the service provider or lead agency that requires either or both of the following:
+
 1. That the service provider or lead agency do anything, or refrain from doing anything, to achieve compliance within the time period specified in the order.
+
 2. That the service provider or lead agency prepare, submit and implement, within the time period specified in the order, a plan for achieving compliance.
 
 ### Compliance required
@@ -663,7 +885,9 @@ except where this Act provides otherwise.
 ### Public availability
 
 (4) The Minister,
+
 (a) may make orders under this section available to the public; and
+
 (b) shall make a summary of each order under this section available to the public in accordance with the regulations.
 
 ### Failure to comply
@@ -701,18 +925,27 @@ except where this Act provides otherwise.
 ### Functions
 
 35 (1) The functions of a children’s aid society are to,
+
 (a) investigate allegations or evidence that children may be in need of protection;
+
 (b) protect children where necessary;
+
 (c) provide guidance, counselling and other services to families for protecting children or for the prevention of circumstances requiring the protection of children;
+
 (d) provide care for children assigned or committed to its care under this Act;
+
 (e) supervise children assigned to its supervision under this Act;
+
 (f) place children for adoption under Part VIII (Adoption and Adoption Licensing); and
+
 (g) perform any other duties given to it by this Act or the regulations or any other Act.
 
 ### Prescribed standards, etc.
 
 (2) A society shall,
+
 (a) provide the prescribed standard of services in its performance of its functions; and
+
 (b) follow the prescribed procedures and practices.
 
 ### Governance matters
@@ -804,15 +1037,21 @@ except where this Act provides otherwise.
 ### Grounds
 
 43 (1) A Director may make an order under subsection (2) if the Director believes on reasonable grounds that a society has failed to comply with,
+
 (a) this Act or the regulations;
+
 (b) a condition imposed on the society’s designation under subsection 34 (2);
+
 (c) an accountability agreement entered into under section 41; or
+
 (d) a directive issued under section 42.
 
 ### Order
 
 (2) For the purposes of subsection (1), a Director may issue an order to the society that requires either or both of the following:
+
 1. That the society do anything, or refrain from doing anything, to achieve compliance within the time period specified in the order.
+
 2. That the society prepare, submit and implement, within the time period specified in the order, a plan for achieving compliance.
 
 ### Compliance required
@@ -822,7 +1061,9 @@ except where this Act provides otherwise.
 ### Public availability
 
 (4) The Minister,
+
 (a) may make orders under this section available to the public; and
+
 (b) shall make a summary of each order under this section available to the public in accordance with the regulations.
 
 ### Minister’s Powers
@@ -832,28 +1073,43 @@ except where this Act provides otherwise.
 ### Grounds
 
 44 (1) The Minister may exercise a power set out in subsection (3) if,
+
 (a) a society has failed to comply with a compliance order made under section 43 within the time specified in it; or
+
 (b) the Minister considers it to be in the public interest to do so.
 
 ### Public interest
 
 (2) In considering the public interest under clause (1) (b), the Minister may consider any matter the Minister regards as relevant including,
+
 (a) the quality of the financial and operational management of the society;
+
 (b) the society’s capabilities with respect to its corporate governance; and
+
 (c) the quality of services provided by the society.
 
 ### Powers
 
 (3) For the purposes of subsection (1), the Minister may do one or more of the following:
+
 1. Order that the society cease a particular activity or take other corrective action within the time specified in the order.
+
 2. Impose or amend conditions on the society’s designation under subsection 34 (1).
+
 3. Suspend, amend or revoke the designation of the society.
+
 4. Appoint members of the society’s board of directors if,
+
 i. there are vacancies on the board, or
+
 ii. there are no vacancies, but the appointment is for the purposes of designating that member as chair of the board under paragraph 7.
+
 5. Remove members of the board and appoint others in their place.
+
 6. Designate a chair of the board, if the office of chair is vacant.
+
 7. Designate another chair of the board in place of the current chair.
+
 8. Appoint a supervisor to operate and manage the affairs and activities of the society.
 
 ### Notice of proposal
@@ -863,8 +1119,11 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Immediate action
 
 (5) Subsection (4) does not apply if,
+
 (a) in the Minister’s opinion, the society has, by its conduct, acquiesced to the Minister’s proposal;
+
 (b) the society has consented to the proposal; or
+
 (c) there are not enough members on the board to form a quorum.
 
 ### Right to respond
@@ -896,17 +1155,25 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Members
 
 45 (1) If the Minister appoints members of a society’s board of directors under paragraph 4 or 5 of subsection 44 (3), the following rules apply:
+
 1. The Minister shall ensure that the members do not constitute a majority of the number of members required to be on the board.
+
 2. The members shall be appointed at the pleasure of the Minister for a period that does not exceed two years.
+
 3. The members may serve as appointed members for no more than two consecutive years.
+
 4. The members shall have the same rights and responsibilities as the members of the board that have been elected.
 
 ### Chair
 
 (2) If the Minister designates a chair of the board of directors under paragraph 6 or 7 of subsection 44 (3), the following rules apply:
+
 1. The chair may be designated from among the members of the board, including any members appointed by the Minister under paragraph 4 or 5 of subsection 44 (3).
+
 2. The chair shall be designated at the pleasure of the Minister for a period that does not exceed two years.
+
 3. The chair may serve as chair for no more than two consecutive years.
+
 4. In the case of a designation under paragraph 7 of subsection 44 (3), the former chair may remain a member of the board.
 
 ### Appointment of supervisor
@@ -928,12 +1195,19 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Examples of powers and duties
 
 (5) Without limiting the generality of subsection (4), the supervisor’s powers and duties may include the following:
+
 1. Carrying on the society’s affairs and activities.
+
 2. Entering into contracts on the society’s behalf.
+
 3. Arranging for bank accounts to be opened in the society’s name.
+
 4. Authorizing persons to sign financial and other documents on the society’s behalf.
+
 5. Hiring or dismissing employees of the society.
+
 6. Making, amending or revoking the society’s by-laws.
+
 7. Executing and filing documents on the society’s behalf, including applications under the Not-for-Profit Corporations Act, 2010 and notices and returns under the Not-for-Profit Corporations Act, 2010.
 
 ### Continued powers and duties of society, etc.
@@ -1003,19 +1277,29 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Restructuring by Minister’s order
 
 48 (1) If the Minister considers it to be in the public interest, including to enhance the efficiency, effectiveness and consistency of services, the Minister may order a society to do any of the following on or after the date set out in the order:
+
 1. To amalgamate with one or more other societies.
+
 2. To transfer all or any part of its operations to one or more other societies.
+
 3. To cease operating, to dissolve or to wind up its operations.
+
 4. To do anything or refrain from doing anything in order for the society to achieve anything under paragraphs 1 to 3.
 
 ### Minister’s directions
 
 (2) The Minister may, in the order, include directions to provide the following to the Minister within the time set out in the order:
+
 1. A plan to implement the order, including with respect to the transfer of assets, liabilities, rights and obligations, and of employees.
+
 2. A timeline according to which the order will be implemented.
+
 3. A proposed budget for implementation of the order.
+
 4. Information about the status of the implementation of the order.
+
 5. In the case of an order made under paragraph 1 of subsection (1), an amalgamation agreement for the Minister’s approval.
+
 6. Information with respect to any other matter specified by the Minister.
 
 ### Notice of proposed order
@@ -1041,7 +1325,9 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Duty of society
 
 (8) Each society that receives an order under subsection (7) shall,
+
 (a) give notice of the order to affected employees and their bargaining agents and to other persons or entities whose contracts are affected by the order; and
+
 (b) make the order available to the public.
 
 ### Additional changes
@@ -1055,7 +1341,9 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Corporate powers
 
 (11) A society that is the subject of an order under this section is deemed to have the necessary powers to comply with the order, despite any of the following:
+
 1. Any Act or regulation.
+
 2. Any other instrument related to the corporate governance of a society, including the Not-for-Profit Corporations Act, 2010 or any articles or by-laws.
 
 ### Non-application of Legislation Act, 2006
@@ -1073,7 +1361,9 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Appointment of supervisor for restructuring
 
 49 (1) The Minister may appoint a supervisor to implement or facilitate the implementation of an order made under section 48 if,
+
 (a) an affected society has failed to comply with the order; or
+
 (b) in the Minister’s opinion, there is undue delay, lack of progress or disagreement between or among affected parties that is preventing or is likely to prevent an affected society from complying with the order.
 
 ### Application of other provisions
@@ -1157,7 +1447,9 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Reports and information to Minister
 
 56 Every service provider and lead agency shall,
+
 (a) make the prescribed reports and provide the prescribed information, including personal information, to the Minister, in the prescribed form and at the prescribed intervals; and
+
 (b) make a report and provide information, including personal information, to the Minister whenever the Minister requests it.
 
 ### Reports and information to prescribed entities
@@ -1173,9 +1465,13 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Inspection by program supervisor without a warrant
 
 59 (1) For the purpose of determining compliance with this Act, the regulations and the directives issued under this Act, a program supervisor may, at any reasonable time and without a warrant or notice, enter the following premises in order to conduct an inspection:
+
 1. Premises where a service is provided under this Act.
+
 2. Premises where a lead agency’s function referred to in subsection 30 (5) is performed.
+
 3. Business premises of a service provider.
+
 4. Business premises of a lead agency.
 
 ### Limitation, dwelling
@@ -1197,14 +1493,23 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Issuance of warrant
 
 (2) A justice may issue a warrant authorizing a program supervisor named in the warrant to enter the premises specified in the warrant and to exercise any of the powers mentioned in subsection 276 (1), if the justice is satisfied on information under oath or affirmation,
+
 (a) that the premises is a premises described in subsection 59 (1);
+
 (b) in the case of a premises that is not used as a dwelling,
+
 (i) that the program supervisor has been prevented from exercising a right of entry to the premises under section 59 or a power under subsection 276 (1), or
+
 (ii) that there are reasonable grounds to believe that the program supervisor will be prevented from exercising a right of entry to the premises under section 58 or a power under subsection 276 (1); and
+
 (c) in the case of a premises that is used as a dwelling,
+
 (i) that,
+
 (A) the program supervisor believes on reasonable grounds that a service being provided, or the manner of providing it, is causing harm or is likely to cause harm to a person’s health, safety or well-being as a result of non-compliance with this Act, the regulations or the directives issued under this Act, and
+
 (B) it is necessary for the program supervisor to exercise the powers mentioned in subsection 276 (1) in order to inspect the service or the manner of providing it, or
+
 (ii) that a ground exists that is prescribed for the purposes of this subclause.
 
 ### Expert help
@@ -1234,13 +1539,17 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Definition
 
 (9) In this section,
+
 “justice” means a provincial judge or a justice of the peace.
 
 ### Inspection report
 
 61 (1) After completing an inspection, a program supervisor shall prepare an inspection report and give a copy of the report to,
+
 (a) a Director;
+
 (b) the service provider or lead agency; and
+
 (c) any other prescribed person.
 
 ### All non-compliance to be documented
@@ -1252,14 +1561,23 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Definitions
 
 62 In sections 63 to 66,
+
 “advisory committee” means a residential placement advisory committee established under subsection 63 (1); (“comité consultatif”)
+
 “institution” means,
+
 (a) a children’s residence operated by the Minister or under the authority of a licence issued under Part IX (Residential Licensing) in which residential care can be provided to 10 or more children at a time, or
+
 (b) a building, group of buildings or part of a building, designated by a Director, in which residential care can be provided to 10 or more children at a time; (“foyer”)
+
 “residential placement” does not include,
+
 (a) a placement made under the Youth Criminal Justice Act (Canada) or under Part VI (Youth Justice),
+
 (b) commitment to a secure treatment program under Part VII (Extraordinary Measures), or
+
 (c) a placement with a person who is neither a service provider nor a foster parent; (“placement en établissement”)
+
 “special need” means a need that is related to or caused by a developmental disability or a behavioural, emotional, physical, mental or other disability. (“besoin particulier”)
 
 ### Residential placement advisory committees
@@ -1269,9 +1587,13 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Composition
 
 (2) Each residential placement advisory committee shall consist of persons whom the Minister considers appropriate, which may include,
+
 (a) persons engaged in providing services;
+
 (b) other persons who have demonstrated an informed concern for the welfare of children;
+
 (c) one representative of the Ministry; and
+
 (d) if the Minister wishes, a representative of a band or First Nations, Inuit or Métis community.
 
 ### Payments to members, hiring of staff
@@ -1291,13 +1613,21 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Mandatory review
 
 64 (1) An advisory committee shall review,
+
 (a) every residential placement in an institution of a child who resides within the advisory committee’s jurisdiction, if the residential placement is intended to last or actually lasts 90 days or more,
+
 (i) as soon as possible, but no later than 45 days after the day on which the child is placed in the institution,
+
 (ii) unless the residential placement is reviewed under subclause (i), within 12 months of the establishment of the advisory committee or within such longer period as the Minister allows, and
+
 (iii) while the residential placement continues, at least once during each nine-month period after the review under subclause (i) or (ii);
+
 (b) every residential placement of a child who objects to the residential placement and resides within the advisory committee’s jurisdiction,
+
 (i) within the week immediately following the day that is 14 days after the child is placed, and
+
 (ii) while the residential placement continues, at least once during each nine-month period after the review under subclause (i); and
+
 (c) an existing or proposed residential placement of a child that the Minister refers to the advisory committee, within 30 days of the referral.
 
 ### Discretionary review
@@ -1307,9 +1637,13 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Review to be informal, etc.
 
 (3) An advisory committee shall conduct a review under this section in an informal manner and in the absence of the public, and in the course of the review may,
+
 (a) interview the child, members of the child’s family and any representatives of the child and family;
+
 (b) interview persons engaged in providing services and other persons who may have an interest in the matter or may have information that would assist the advisory committee;
+
 (c) examine documents and reports that are presented to the committee; and
+
 (d) examine records relating to the child and members of the child’s family that are disclosed to the committee.
 
 ### Service providers to assist advisory committee
@@ -1319,12 +1653,19 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Matters to be considered
 
 (5) In conducting a review, an advisory committee shall,
+
 (a) consider whether the child has a special need;
+
 (b) consider the child’s views and wishes, given due weight in accordance with the child’s age and maturity;
+
 (c) consider what programs are available for the child in the residential placement or proposed residential placement, and whether a program available to the child is likely to benefit the child;
+
 (d) consider whether the residential placement or proposed residential placement is appropriate for the child in the circumstances;
+
 (e) if it considers that a less restrictive alternative to the residential placement would be more appropriate for the child in the circumstances, specify that alternative;
+
 (f) consider the importance of continuity in the child’s care and the possible effect on the child of disruption of that continuity; and
+
 (g) in the case of a First Nations, Inuk or Métis child, also consider the importance, in recognition of the uniqueness of First Nations, Inuit and Métis cultures, heritages and traditions, of preserving the child’s cultural identity and connection to community.
 
 ### Advisory committee’s recommendations
@@ -1332,10 +1673,15 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Persons to be advised
 
 65 (1) An advisory committee that conducts a review shall advise the following persons of its recommendations as soon as the review has been completed:
+
 1. The service provider.
+
 2. Any representative of the child.
+
 3. The child’s parent or, where the child is in a society’s lawful custody, the society.
+
 4. The child, in language suitable to the child’s understanding.
+
 5. In the case of a First Nations, Inuk or Métis child, the persons described in paragraphs 1, 2, 3 and 4 and a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### Child to be advised of right to review by Board of residential placement
@@ -1355,7 +1701,9 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Child may request review
 
 66 (1) A child who is in a residential placement to which the child objects may apply to the Board for a determination of where the child should remain or be placed, if the residential placement has been reviewed by an advisory committee under section 64 and,
+
 (a) the child is dissatisfied with the advisory committee’s recommendations; or
+
 (b) the advisory committee’s recommendations are not followed.
 
 ### Board to conduct review
@@ -1369,22 +1717,31 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Parties
 
 (4) The parties to a hearing under this section are,
+
 (a) the child;
+
 (b) the child’s parent or, where the child is in a society’s lawful custody, the society;
+
 (c) in the case of a First Nations, Inuk or Métis child, the persons described in clauses (a) and (b) and a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities; and
+
 (d) any other persons that the Board specifies.
 
 ### Time for determination
 
 (5) The Board shall complete its review and make a determination within 30 days of receiving a child’s application, unless,
+
 (a) the Board holds a hearing with respect to the application; and
+
 (b) the parties consent to a longer period for the Board’s determination.
 
 ### Board’s order
 
 (6) After conducting a review under subsection (2), the Board may,
+
 (a) order that the child be transferred to another residential placement, if the Board is satisfied that the other residential placement is available;
+
 (b) order that the child be discharged from the residential placement; or
+
 (c) confirm the existing residential placement.
 
 ### Offences
@@ -1392,9 +1749,13 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Offences
 
 67 (1) A person or entity is guilty of an offence if the person or entity,
+
 (a) contravenes section 56 (reports and information);
+
 (b) contravenes section 57 (reports and information to prescribed entities);
+
 (c) contravenes section 58 (information available to public);
+
 (d) knowingly provides false information in a statement, report or return required to be provided under this Part or the regulations.
 
 ### Penalty
@@ -1434,7 +1795,9 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Agreements with bands and First Nations, Inuit or Métis communities
 
 69 The Minister may, for the provision of services,
+
 (a) make agreements with bands and First Nations, Inuit or Métis communities and with any other parties whom the bands or communities choose to involve; and
+
 (b) provide funding to the persons or entities referred to in clause (a) pursuant to such agreements.
 
 ### Designation of child and family service authority
@@ -1444,8 +1807,11 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Agreements, etc.
 
 (2) Where a band or First Nations, Inuit or Métis community has designated a First Nations, Inuit or Métis child and family service authority, the Minister,
+
 (a) shall, at the band’s or community’s request, enter into negotiations for the provision of services by the child and family service authority;
+
 (b) may enter into agreements with the child and family service authority and, if the band or community agrees, any other person, for the provision of services; and
+
 (c) may designate the child and family service authority, with its consent, as a society under subsection 34 (1).
 
 ### Subsidy for customary care
@@ -1455,14 +1821,23 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Consultation with bands and First Nations, Inuit or Métis communities
 
 72 A society, person or entity that provides services or exercises powers under this Act with respect to First Nations, Inuit or Métis children or young persons shall regularly consult with their bands and First Nations, Inuit or Métis communities about the provision of the services or the exercise of the powers and about matters affecting the children or young persons, including,
+
 (a) bringing children to a place of safety and the placement of children in residential care;
+
 (b) the provision of family support services;
+
 (c) the preparation of plans for the care of children;
+
 (d) status reviews under Part V (Child Protection);
+
 (e) temporary care agreements under Part V (Child Protection);
+
 (f) society agreements with 16 and 17 year olds under Part V (Child Protection);
+
 (g) adoption placements;
+
 (h) the establishment of emergency houses; and
+
 (i) any other matter that is prescribed.
 
 ### Consultation in specified cases
@@ -1478,83 +1853,141 @@ ii. there are no vacancies, but the appointment is for the purposes of designati
 ### Definitions
 
 74 (1) In this Part,
+
 “child protection worker” means a Director, a local director or a person who meets the prescribed requirements and who is authorized by a Director or local director for the purposes of section 81 (commencing child protection proceedings) and for other prescribed purposes; (“préposé à la protection de l’enfance”)
+
 “extra-provincial child protection order” means a temporary or final order made by a court of another province or a territory of Canada, or of a prescribed jurisdiction outside Canada if it meets prescribed conditions, pursuant to child welfare legislation of that province, territory or other jurisdiction, placing a child into the care and custody of a child welfare authority or other person named in the order; (“ordonnance extraprovinciale de protection d’un enfant”)
+
 “parent”, when used in reference to a child, means each of the following persons, but does not include a foster parent:
+
 1. A parent of the child under section 6, 8, 9, 10, 11 or 13 of the Children’s Law Reform Act.
+
 2. In the case of a child conceived through sexual intercourse, an individual described in one of paragraphs 1 to 5 of subsection 7 (2) of the Children’s Law Reform Act, unless it is proved on a balance of probabilities that the sperm used to conceive the child did not come from the individual.
+
 3. An individual who has been found or recognized by a court of competent jurisdiction outside Ontario to be a parent of the child.
+
 4. In the case of an adopted child, a parent of the child as provided for under section 217 or 218.
+
 5. An individual who has lawful custody of the child.
+
 6. An individual who, during the 12 months before intervention under this Part, has demonstrated a settled intention to treat the child as a child of the individual’s family, or has acknowledged parentage of the child and provided for the child’s support.
+
 7. An individual who, under a written agreement or a court order, is required to provide for the child, has custody of the child or has a right of access to the child.
+
 8. An individual who acknowledged parentage of the child by filing a statutory declaration under section 12 of the Children’s Law Reform Act as it read before the day subsection 1 (1) of the All Families Are Equal Act (Parentage and Related Registrations Statute Law Amendment), 2016 came into force; (“parent”)
+
 “place of safety” means a foster home, a hospital, a person’s home that satisfies the requirements of subsection (4) or a place or one of a class of places designated as a place of safety by a Director or local director under section 39, but does not include a place of temporary detention, of open custody or of secure custody; (“lieu sûr”)
 
 ### Child sex trafficking
 
 (1.1) A child is subjected to child sex trafficking for the purposes of this Part where another person does any of the following for the purposes of sexually exploiting the child:
+
 1. Recruits, transports, transfers, receives, holds, conceals or harbours the child.
+
 2. Exercises control, direction or influence over the movements of the child.
 
 ### Child in need of protection
 
 (2) A child is in need of protection where,
+
 (a) the child has suffered physical harm, inflicted by the person having charge of the child or caused by or resulting from that person’s,
+
 (i) failure to adequately care for, provide for, supervise or protect the child, or
+
 (ii) pattern of neglect in caring for, providing for, supervising or protecting the child;
+
 (b) there is a risk that the child is likely to suffer physical harm inflicted by the person having charge of the child or caused by or resulting from that person’s,
+
 (i) failure to adequately care for, provide for, supervise or protect the child, or
+
 (ii) pattern of neglect in caring for, providing for, supervising or protecting the child;
+
 (c) the child has been sexually abused or sexually exploited, by the person having charge of the child or by another person where the person having charge of the child knows or should know of the possibility of sexual abuse or sexual exploitation and fails to protect the child;
+
 (d) there is a risk that the child is likely to be sexually abused or sexually exploited as described in clause (c);
+
 (d.1) the child has been sexually exploited as a result of being subjected to child sex trafficking;
+
 (d.2) there is a risk that the child is likely to be sexually exploited as a result of being subjected to child sex trafficking;
+
 (e) the child requires treatment to cure, prevent or alleviate physical harm or suffering and the child’s parent or the person having charge of the child does not provide the treatment or access to the treatment, or, where the child is incapable of consenting to the treatment under the Health Care Consent Act, 1996 and the parent is a substitute decision-maker for the child, the parent refuses or is unavailable or unable to consent to the treatment on the child’s behalf;
+
 (f) the child has suffered emotional harm, demonstrated by serious,
+
 (i) anxiety,
+
 (ii) depression,
+
 (iii) withdrawal,
+
 (iv) self-destructive or aggressive behaviour, or
+
 (v) delayed development,
+
 and there are reasonable grounds to believe that the emotional harm suffered by the child results from the actions, failure to act or pattern of neglect on the part of the child’s parent or the person having charge of the child;
+
 (g) the child has suffered emotional harm of the kind described in subclause (f) (i), (ii), (iii), (iv) or (v) and the child’s parent or the person having charge of the child does not provide services or treatment or access to services or treatment, or, where the child is incapable of consenting to treatment under the Health Care Consent Act, 1996, refuses or is unavailable or unable to consent to the treatment to remedy or alleviate the harm;
+
 (h) there is a risk that the child is likely to suffer emotional harm of the kind described in subclause (f) (i), (ii), (iii), (iv) or (v) resulting from the actions, failure to act or pattern of neglect on the part of the child’s parent or the person having charge of the child;
+
 (i) there is a risk that the child is likely to suffer emotional harm of the kind described in subclause (f) (i), (ii), (iii), (iv) or (v) and that the child’s parent or the person having charge of the child does not provide services or treatment or access to services or treatment, or, where the child is incapable of consenting to treatment under the Health Care Consent Act, 1996, refuses or is unavailable or unable to consent to treatment to prevent the harm;
+
 (j) the child suffers from a mental, emotional or developmental condition that, if not remedied, could seriously impair the child’s development and the child’s parent or the person having charge of the child does not provide treatment or access to treatment, or where the child is incapable of consenting to treatment under the Health Care Consent Act, 1996, refuses or is unavailable or unable to consent to the treatment to remedy or alleviate the condition;
+
 (k) the child’s parent has died or is unavailable to exercise the rights of custody over the child and has not made adequate provision for the child’s care and custody, or the child is in a residential placement and the parent refuses or is unable or unwilling to resume the child’s care and custody;
+
 (l) the child is younger than 12 and has killed or seriously injured another person or caused serious damage to another person’s property, services or treatment are necessary to prevent a recurrence and the child’s parent or the person having charge of the child does not provide services or treatment or access to services or treatment, or, where the child is incapable of consenting to treatment under the Health Care Consent Act, 1996, refuses or is unavailable or unable to consent to treatment;
+
 (m) the child is younger than 12 and has on more than one occasion injured another person or caused loss or damage to another person’s property, with the encouragement of the person having charge of the child or because of that person’s failure or inability to supervise the child adequately;
+
 (n) the child’s parent is unable to care for the child and the child is brought before the court with the parent’s consent and, where the child is 12 or older, with the child’s consent, for the matter to be dealt with under this Part; or
+
 (o) the child is 16 or 17 and a prescribed circumstance or condition exists.
 
 ### Best interests of child
 
 (3) Where a person is directed in this Part to make an order or determination in the best interests of a child, the person shall,
+
 (a) consider the child’s views and wishes, given due weight in accordance with the child’s age and maturity, unless they cannot be ascertained;
+
 (b) in the case of a First Nations, Inuk or Métis child, consider the importance, in recognition of the uniqueness of First Nations, Inuit and Métis cultures, heritages and traditions, of preserving the child’s cultural identity and connection to community, in addition to the considerations under clauses (a) and (c); and
+
 (c) consider any other circumstance of the case that the person considers relevant, including,
+
 (i) the child’s physical, mental and emotional needs, and the appropriate care or treatment to meet those needs,
+
 (ii) the child’s physical, mental and emotional level of development,
+
 (iii) the child’s race, ancestry, place of origin, colour, ethnic origin, citizenship, family diversity, disability, creed, sex, sexual orientation, gender identity and gender expression,
+
 (iv) the child’s cultural and linguistic heritage,
+
 (v) the importance for the child’s development of a positive relationship with a parent and a secure place as a member of a family,
+
 (vi) the child’s relationships and emotional ties to a parent, sibling, relative, other member of the child’s extended family or member of the child’s community,
+
 (vii) the importance of continuity in the child’s care and the possible effect on the child of disruption of that continuity,
+
 (viii) the merits of a plan for the child’s care proposed by a society, including a proposal that the child be placed for adoption or adopted, compared with the merits of the child remaining with or returning to a parent,
+
 (ix) the effects on the child of delay in the disposition of the case,
+
 (x) the risk that the child may suffer harm through being removed from, kept away from, returned to or allowed to remain in the care of a parent, and
+
 (xi) the degree of risk, if any, that justified the finding that the child is in need of protection.
 
 ### Place of safety
 
 (4) For the purposes of the definition of “place of safety” in subsection (1), a person’s home is a place of safety for a child if,
+
 (a) the person is a relative of the child or a member of the child’s extended family or community; and
+
 (b) a society or, in the case of a First Nations, Inuk or Métis child, a society or a child and family service authority, has conducted an assessment of the person’s home in accordance with the prescribed procedures and is satisfied that the person is willing and able to provide a safe home environment for the child.
 
 ### Definition, child and family service authority
 
 (5) In subsection (4),
+
 “child and family service authority” means a First Nations, Inuit or Métis child and family service authority designated under section 70.
 
 ### Voluntary Agreements
@@ -1574,7 +2007,9 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Duty of society
 
 (4) A society shall not make a temporary care agreement unless the society,
+
 (a) has determined that an appropriate residential placement that is likely to benefit the child is available; and
+
 (b) is satisfied that no course of action less disruptive to the child, such as care in the child’s own home, is able to adequately protect the child.
 
 ### Term of agreement limited
@@ -1584,14 +2019,19 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Time limit
 
 (6) No temporary care agreement shall be made or extended so as to result in a child being in a society’s care and custody, for a period exceeding,
+
 (a) 12 months, if the child is younger than 6 on the day the agreement is entered into or extended; or
+
 (b) 24 months, if the child is 6 or older on the day the agreement is entered into or extended.
 
 ### Calculating time in care
 
 (7) The time during which a child has been in a society’s care and custody pursuant to the following shall be counted in calculating the period referred to in subsection (6):
+
 1. An interim society care order made under paragraph 2 of subsection 101 (1).
+
 2. A temporary care agreement under subsection (1) of this section.
+
 3. A temporary order made under clause 94 (2) (d).
 
 ### Previous periods to be counted
@@ -1605,12 +2045,19 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Contents of temporary care agreement
 
 (10) A temporary care agreement shall include the following:
+
 1. A statement by all the parties to the agreement that the child’s care and custody are transferred to the society.
+
 2. A statement by all the parties to the agreement that the child’s placement is voluntary.
+
 3. A statement, by the person referred to in subsection (1), that the person is temporarily unable to care for the child adequately and has discussed with the society alternatives to residential placement of the child.
+
 4. An undertaking by the person referred to in subsection (1) to maintain contact with the child and be involved in the child’s care.
+
 5. If it is not possible for the person referred to in subsection (1) to maintain contact with the child and be involved in the child’s care, the person’s designation of another person who is willing to do so.
+
 6. The name of the individual who is the primary contact between the society and the person referred to in subsection (1).
+
 7. Such other provisions as are prescribed.
 
 ### Designation by advisory committee
@@ -1636,23 +2083,33 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Society response to notice of termination
 
 (3) Where notice of a wish to terminate a temporary care agreement is given by or to a society under subsection (1), the society shall as soon as possible, and in any event before the agreement terminates under subsection (2),
+
 (a) cause the child to be returned to the person who made the agreement, or to a person who has obtained an order for the child’s custody since the agreement was made;
+
 (b) where the society is of the opinion that the child would be in need of protection if returned to the person referred to in clause (a), bring the child before the court under this Part to determine whether the child would be in need of protection in that case; or
+
 (c) where the child is 16 or 17 and the criteria set out in clauses 77 (1) (a), (b), (c) and (d) are met, make a written agreement with the child under subsection 77 (1).
 
 ### Expiry of agreement
 
 (4) Where a temporary care agreement expires or is about to expire and is not extended, the society shall, before the agreement expires or as soon as practicable thereafter, but in any event within 21 days after the agreement expires,
+
 (a) cause the child to be returned to the person who made the agreement, or to a person who has obtained an order for the child’s custody since the agreement was made;
+
 (b) where the society is of the opinion that the child would be in need of protection if returned to the person referred to in clause (a), bring the child before the court under this Part to determine whether the child would be in need of protection in that case; or
+
 (c) where the child is 16 or 17 and the criteria set out in clauses 77 (1) (a), (b), (c) and (d) are met, make a written agreement with the child under subsection 77 (1).
 
 ### Society agreements with 16 and 17 year olds
 
 77 (1) The society and a child who is 16 or 17 may make a written agreement for services and supports to be provided for the child where,
+
 (a) the society has jurisdiction where the child resides;
+
 (b) the society has determined that the child is or may be in need of protection;
+
 (c) the society is satisfied that no course of action less disruptive to the child, such as care in the child’s own home or with a relative, neighbour or other member of the child’s community or extended family, is able to adequately protect the child; and
+
 (d) the child wants to enter into the agreement.
 
 ### Term of agreement
@@ -1684,13 +2141,21 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Removal to offer services, children 16 or 17
 
 77.1 (1) A child protection worker or a peace officer may bring a child who is 16 or 17 to another location for up to 12 hours for the purpose of offering services and supports to the child, including the possibility of entering into an agreement under section 77, if the child protection worker or the peace officer has reasonable and probable grounds to believe that the child is in need of protection within the meaning of clause 74 (2) (d.1) and that,
+
 (a) the child has suffered physical harm inflicted by a person involved in subjecting the child to child sex trafficking or received threats of physical harm by such a person;
+
 (b) the child is dependent on alcohol or controlled substances as defined in the Controlled Drugs and Substances Act (Canada) or is being provided with alcohol or such controlled substances by another person in order to facilitate the sexual exploitation of the child;
+
 (c) the child has a disorder of emotional processes, thought or cognition, a developmental disability or a brain injury and the disorder, disability or injury significantly impairs the child’s capacity to make reasoned judgements regarding the circumstances surrounding their sexual exploitation;
+
 (d) the child does not have access to housing other than as provided by a person involved in subjecting the child to child sex trafficking;
+
 (e) the child’s finances are being controlled by a person involved in subjecting the child to child sex trafficking or such a person is threatening to control their finances;
+
 (f) the child’s personal effects or identification documents are under the control of a person involved in subjecting the child to child sex trafficking;
+
 (g) the child does not have Canadian citizenship and information about their immigration status is being used by another person in order to coerce the child into being sexually exploited; or
+
 (h) the child is otherwise unable to exercise mature and independent judgement regarding the circumstances of their sexual exploitation because the child is being coerced, manipulated or unduly influenced by a person involved in subjecting the child to child sex trafficking.
 
 ### Police assistance
@@ -1710,8 +2175,11 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Court to consider issue
 
 (2) Where a child does not have legal representation in a proceeding under this Part, the court,
+
 (a) shall, as soon as practicable after the commencement of the proceeding; and
+
 (b) may, at any later stage in the proceeding,
+
 determine whether legal representation is desirable to protect the child’s interests.
 
 ### Direction for legal representation
@@ -1721,11 +2189,17 @@ determine whether legal representation is desirable to protect the child’s int
 ### Criteria
 
 (4) Where,
+
 (a) the court is of the opinion that there is a difference of views between the child and a parent or a society, and the society proposes that the child be removed from a person’s care or be placed in interim or extended society care under paragraph 2 or 3 of subsection 101 (1);
+
 (b) the child is in the society’s care and,
+
 (i) no parent appears before the court, or
+
 (ii) it is alleged that the child is in need of protection within the meaning of clause 74 (2) (a), (c), (f), (g) or (j); or
+
 (c) the child is not permitted to be present at the hearing,
+
 legal representation is deemed to be desirable to protect the child’s interests, unless the court is satisfied, taking into account the child’s views and wishes, given due weight in accordance with the child’s age and maturity, that the child’s interests are otherwise adequately protected.
 
 ### Where parent a minor
@@ -1737,9 +2211,13 @@ legal representation is deemed to be desirable to protect the child’s interest
 ### Parties
 
 79 (1) The following are parties to a proceeding under this Part:
+
 1. The applicant.
+
 2. The society having jurisdiction in the matter.
+
 3. The child’s parent.
+
 4. In the case of a First Nations, Inuk or Métis child, the persons described in paragraphs 1, 2 and 3 and a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### Director to be added
@@ -1749,10 +2227,15 @@ legal representation is deemed to be desirable to protect the child’s interest
 ### Right to participate
 
 (3) Any person, including a foster parent, who has cared for the child continuously during the six months immediately before the hearing,
+
 (a) is entitled to the same notice of the proceeding as a party;
+
 (b) may be present at the hearing;
+
 (c) may be represented by a lawyer; and
+
 (d) may make submissions to the court,
+
 but shall take no further part in the hearing without leave of the court.
 
 ### Child 12 or older
@@ -1762,8 +2245,11 @@ but shall take no further part in the hearing without leave of the court.
 ### Child younger than 12
 
 (5) A child younger than 12 who is the subject of a proceeding under this Part is not entitled to receive notice of the proceeding or to be present at the hearing unless the court is satisfied that the child,
+
 (a) is capable of understanding the hearing; and
+
 (b) will not suffer emotional harm by being present at the hearing,
+
 and orders that the child receive notice of the proceeding and be permitted to be present at the hearing.
 
 ### Child’s participation
@@ -1779,8 +2265,11 @@ and orders that the child receive notice of the proceeding and be permitted to b
 ### Customary care
 
 80 A society shall make all reasonable efforts to pursue a plan for customary care for a First Nations, Inuk or Métis child if the child,
+
 (a) is in need of protection;
+
 (b) cannot remain in or be returned to the care and custody of the person who had charge of the child immediately before intervention under this Part or, where there is an order for the child’s custody that is enforceable in Ontario, of the person entitled to custody under the order; and
+
 (c) is a member of or identifies with a band, or is a member of or identifies with a First Nations, Inuit or Métis community.
 
 ### Commencing Child Protection Proceedings
@@ -1794,8 +2283,11 @@ and orders that the child receive notice of the proceeding and be permitted to b
 ### Warrant to bring child to place of safety
 
 (2) A justice of the peace may issue a warrant authorizing a child protection worker to bring a child to a place of safety if the justice of the peace is satisfied on the basis of a child protection worker’s sworn information that there are reasonable and probable grounds to believe that,
+
 (a) the child is younger than 16;
+
 (b) the child is in need of protection; and
+
 (c) a less restrictive course of action is not available or will not protect the child adequately.
 
 ### When warrant may not be refused
@@ -1805,10 +2297,15 @@ and orders that the child receive notice of the proceeding and be permitted to b
 ### Order to produce child or bring child to place of safety
 
 (4) Where the court is satisfied, on a person’s application upon notice to a society, that there are reasonable and probable grounds to believe that,
+
 (a) a child is in need of protection, the matter has been reported to the society, the society has not made an application under subsection (1), and no child protection worker has sought a warrant under subsection (2) or brought the child to a place of safety under subsection (7); and
+
 (b) the child cannot be protected adequately otherwise than by being brought before the court,
+
 the court may order,
+
 (c) that the person having charge of the child produce the child before the court at the time and place named in the order for a hearing under subsection 90 (1) to determine whether the child is in need of protection; or
+
 (d) where the court is satisfied that an order under clause (c) would not protect the child adequately, that a child protection worker employed by the society bring the child to a place of safety.
 
 ### Child’s name, location not required
@@ -1822,9 +2319,13 @@ the court may order,
 ### Bring child to place of safety without warrant
 
 (7) A child protection worker who believes on reasonable and probable grounds that,
+
 (a) a child is in need of protection;
+
 (b) the child is younger than 16; and
+
 (c) there would be a substantial risk to the child’s health or safety during the time necessary to bring the matter on for a hearing under subsection 90 (1) or obtain a warrant under subsection (2),
+
 may without a warrant bring the child to a place of safety.
 
 ### Police assistance
@@ -1858,6 +2359,7 @@ may without a warrant bring the child to a place of safety.
 ### Temporary or final supervision order
 
 (2) In this section,
+
 “temporary or final supervision order” means an order under clause 94 (2) (b) or (c), paragraph 1 or 4 of subsection 101 (1), subsection 112 (8) or 115 (10) or clause 116 (1) (a).
 
 ### Special Cases of Bringing Children to a Place of Safety
@@ -1867,9 +2369,13 @@ may without a warrant bring the child to a place of safety.
 ### With warrant
 
 83 (1) A justice of the peace may issue a warrant authorizing a peace officer or a child protection worker to bring a child to a place of safety if the justice of the peace is satisfied on the basis of a peace officer’s or a child protection worker’s sworn information that,
+
 (a) the child is actually or apparently younger than 16, and,
+
 (i) has left or been removed from a society’s lawful care and custody without its consent, or
+
 (ii) is the subject of an extra-provincial child protection order and has left or been removed from the lawful care and custody of the child welfare authority or other person named in the order; and
+
 (b) there are reasonable and probable grounds to believe that there is no course of action available other than bringing the child to a place of safety that would adequately protect the child.
 
 ### When warrant may not be refused
@@ -1883,15 +2389,21 @@ may without a warrant bring the child to a place of safety.
 ### Without warrant
 
 (4) A peace officer or child protection worker may without a warrant bring the child to a place of safety if the peace officer or child protection worker believes on reasonable and probable grounds that,
+
 (a) the child is actually or apparently younger than 16, and,
+
 (i) has left or been removed from a society’s lawful care and custody without its consent, or
+
 (ii) is the subject of an extra-provincial child protection order and has left or been removed from the lawful care and custody of the child welfare authority or other person named in the order; and
+
 (b) there would be a substantial risk to the child’s health or safety during the time necessary to obtain a warrant under subsection (1).
 
 ### Bringing child younger than 12 home or to place of safety
 
 84 (1) A peace officer who believes on reasonable and probable grounds that a child actually or apparently younger than 12 has committed an act in respect of which a person 12 or older could be found guilty of an offence may bring the child to a place of safety without a warrant and on doing so,
+
 (a) shall return the child to the child’s parent or other person having charge of the child as soon as practicable; or
+
 (b) where it is not possible to return the child to the parent or other person within a reasonable time, shall bring the child to a place of safety until the child can be returned to the parent or other person.
 
 ### Notice to parent, etc.
@@ -1907,8 +2419,11 @@ may without a warrant bring the child to a place of safety.
 ### Warrant to bring child to a place of safety
 
 85 (1) A justice of the peace may issue a warrant authorizing a peace officer or child protection worker to bring a child to a place of safety if the justice of the peace is satisfied on the basis of the sworn information of a person that,
+
 (a) the child is younger than 16;
+
 (b) the child has withdrawn from the person’s care and control without the person’s consent; and
+
 (c) the person believes on reasonable and probable grounds that the child’s health or safety may be at risk if the child is not brought to a place of safety.
 
 ### Child to be returned or brought to a place of safety
@@ -1934,7 +2449,9 @@ may without a warrant bring the child to a place of safety.
 ### Child protection proceedings
 
 (7) Where a peace officer or child protection worker believes on reasonable and probable grounds that a child brought to a place of safety under this section is in need of protection and there may be a substantial risk to the health or safety of the child if the child were returned to the person with care and control of the child,
+
 (a) the peace officer or child protection worker may bring the child to a place of safety under subsection 81 (7); or
+
 (b) where the child has been brought to a place of safety under subsection (4), the child is deemed to have been brought there under subsection 81 (7).
 
 ### Authority to enter, etc.
@@ -1968,6 +2485,7 @@ may without a warrant bring the child to a place of safety.
 ### Definition
 
 87 (1) In this section,
+
 “media” means the press, radio and television media.
 
 ### Application
@@ -1981,7 +2499,9 @@ may without a warrant bring the child to a place of safety.
 ### Hearings private unless court orders otherwise
 
 (4) A hearing shall be held in the absence of the public, subject to subsection (5), unless the court orders that the hearing be held in public after considering,
+
 (a) the wishes and interests of the parties; and
+
 (b) whether the presence of the public would cause emotional harm to a child who is a witness at or a participant in the hearing or is the subject of the proceeding.
 
 ### Media representatives may attend
@@ -1991,15 +2511,21 @@ may without a warrant bring the child to a place of safety.
 ### Selection of media representatives
 
 (6) The media representatives who may be present at a hearing that is held in the absence of the public shall be chosen as follows:
+
 1. The media representatives in attendance shall choose not more than two persons from among themselves.
+
 2. Where the media representatives in attendance are unable to agree on a choice of persons, the court may choose not more than two media representatives who may be present at the hearing.
+
 3. The court may permit additional media representatives to be present at the hearing.
 
 ### Order excluding media representatives or prohibiting publication
 
 (7) Where the court is of the opinion that the presence of the media representative or representatives or the publication of the report, as the case may be, would cause emotional harm to a child who is a witness at or a participant in the hearing or is the subject of the proceeding, the court may make an order,
+
 (a) excluding a particular media representative from all or part of a hearing;
+
 (b) excluding all media representatives from all or a part of a hearing; or
+
 (c) prohibiting the publication of a report of the hearing or a specified part of the hearing.
 
 ### Prohibition re identifying child
@@ -2021,16 +2547,23 @@ may without a warrant bring the child to a place of safety.
 ### Time in place of safety limited
 
 88 As soon as practicable, but in any event within five days after a child is brought to a place of safety under section 81, subclause 83 (1) (a) (ii) or subsection 136 (5),
+
 (a) the matter shall be brought before a court for a hearing under subsection 90 (1) (child protection hearing);
+
 (b) the child shall be returned to the person who last had charge of the child or, where there is an order for the child’s custody that is enforceable in Ontario, to the person entitled to custody under the order;
+
 (c) if the child is the subject of an extra-provincial child protection order, the child shall be returned to the child welfare authority or other person named in the order;
+
 (d) a temporary care agreement shall be made under subsection 75 (1); or
+
 (e) an agreement shall be made under section 77 (agreements with 16 and 17 year olds).
 
 ### Time in place of safety limited, 16 or 17 year old
 
 89 As soon as practicable, but in any event within five days after a child who is 16 or 17 is brought to a place of safety with the child’s consent under section 82,
+
 (a) the matter shall be brought before a court for a hearing under subsection 90 (1); or
+
 (b) the child shall be returned to the person entitled to custody of the child under an order made under this Part.
 
 ### Child protection hearing
@@ -2040,20 +2573,27 @@ may without a warrant bring the child to a place of safety.
 ### Child’s name, age, etc.
 
 (2) As soon as practicable, and in any event before determining whether a child is in need of protection, the court shall determine,
+
 (a) the child’s name and age;
+
 (b) whether the child is a First Nations, Inuk or Métis child and, if so, the child’s bands and First Nations, Inuit or Métis communities; and
+
 (c) where the child was brought to a place of safety before the hearing, the location of the place from which the child was removed.
 
 ### Territorial jurisdiction
 
 91 (1) In this section,
+
 “territorial jurisdiction” means a society’s territorial jurisdiction under subsection 34 (1).
 
 ### Place of hearing
 
 (2) A hearing under this Part with respect to a child shall be held in the territorial jurisdiction in which the child ordinarily resides, except that,
+
 (a) where the child is brought to a place of safety before the hearing, the hearing shall be held in the territorial jurisdiction in which the place from which the child was removed is located;
+
 (b) where the child is in interim society care under an order made under paragraph 2 or 4 of subsection 101 (1) or extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c), the hearing shall be held in the society’s territorial jurisdiction; and
+
 (c) where the child is the subject of an order for society supervision under paragraph 1 of subsection 101 (1) or clause 116 (1) (a), the hearing may be held in the society’s territorial jurisdiction or in the territorial jurisdiction in which the parent or other person with whom the child is placed resides.
 
 ### Transfer of proceeding
@@ -2073,7 +2613,9 @@ may without a warrant bring the child to a place of safety.
 ### Past conduct toward children
 
 93 (1) Despite anything in the Evidence Act, in any proceeding under this Part,
+
 (a) the court may consider the past conduct of a person toward any child if that person is caring for or has access to or may care for or have access to a child who is the subject of the proceeding; and
+
 (b) any oral or written statement or report that the court considers relevant to the proceeding, including a transcript, exhibit or finding or the reasons for a decision in an earlier civil or criminal proceeding, is admissible into evidence.
 
 ### Evidence re disposition and finding
@@ -2083,15 +2625,21 @@ may without a warrant bring the child to a place of safety.
 ### Adjournments
 
 94 (1) The court shall not adjourn a hearing for more than 30 days,
+
 (a) unless all the parties present and the person who will be caring for the child during the adjournment consent; or
+
 (b) if the court is aware that a party who is not present at the hearing objects to the longer adjournment.
 
 ### Custody during adjournment
 
 (2) Where a hearing is adjourned, the court shall make a temporary order for care and custody providing that the child,
+
 (a) remain in or be returned to the care and custody of the person who had charge of the child immediately before intervention under this Part;
+
 (b) remain in or be returned to the care and custody of the person referred to in clause (a), subject to the society’s supervision and on such reasonable terms and conditions as the court considers appropriate;
+
 (c) be placed in the care and custody of a person other than the person referred to in clause (a), with the consent of that other person, subject to the society’s supervision and on such reasonable terms and conditions as the court considers appropriate; or
+
 (d) remain or be placed in the care and custody of the society, but not be placed in a place of temporary detention, of open or of secure custody.
 
 ### Where child is subject to extra-provincial order
@@ -2109,8 +2657,11 @@ may without a warrant bring the child to a place of safety.
 ### Terms and conditions in order
 
 (6) A temporary order for care and custody of a child under clause (2) (b) or (c) may impose,
+
 (a) reasonable terms and conditions relating to the child’s care and supervision;
+
 (b) reasonable terms and conditions on the child’s parent, the person who will have care and custody of the child under the order, the child and any other person, other than a foster parent, who is putting forward a plan or who would participate in a plan for care and custody of or access to the child; and
+
 (c) reasonable terms and conditions on the society that will supervise the placement, but shall not require the society to provide financial assistance or to purchase any goods or services.
 
 ### Application of s. 107
@@ -2140,17 +2691,25 @@ may without a warrant bring the child to a place of safety.
 ### Delay: court to fix date
 
 96 Where an application is made under subsection 81 (1) or a matter is brought before the court to determine whether a child is in need of protection and the determination has not been made within three months after the commencement of the proceeding, the court,
+
 (a) shall by order fix a date for the hearing of the application, and the date may be the earliest date that is compatible with the just disposition of the application; and
+
 (b) may give such directions and make such orders with respect to the proceeding as are just.
 
 ### Reasons, etc.
 
 97 (1) Where the court makes an order under this Part, the court shall give,
+
 (a) a statement of any terms or conditions imposed on the order;
+
 (b) a statement of every plan for the child’s care proposed to the court;
+
 (c) a statement of the plan for the child’s care that the court is applying in its decision; and
+
 (d) reasons for its decision, including,
+
 (i) a brief statement of the evidence on which the court bases its decision, and
+
 (ii) where the order has the effect of removing or keeping the child from the care of the person who had charge of the child immediately before intervention under this Part, a statement of the reasons why the child cannot be adequately protected while in the person’s care.
 
 ### No requirement to identify person or place
@@ -2162,14 +2721,19 @@ may without a warrant bring the child to a place of safety.
 ### Order for assessment
 
 98 (1) In the course of a proceeding under this Part, the court may order that one or more of the following persons undergo an assessment within a specified time by a person appointed in accordance with subsections (3) and (4):
+
 1. The child.
+
 2. A parent of the child.
+
 3. Any other person, other than a foster parent, who is putting forward or would participate in a plan for the care and custody of or access to the child.
 
 ### Criteria for ordering assessment
 
 (2) An assessment may be ordered if the court is satisfied that,
+
 (a) an assessment of one or more of the persons specified in subsection (1) is necessary for the court to make a determination under this Part; and
+
 (b) the evidence sought from an assessment is not otherwise available to the court.
 
 ### Assessor selected by parties
@@ -2179,7 +2743,9 @@ may without a warrant bring the child to a place of safety.
 ### Appointment of person selected by parties
 
 (4) The court shall appoint the person selected by the parties to perform the assessment if the court is satisfied that the person meets the following criteria:
+
 1. The person is qualified to perform medical, emotional, developmental, psychological, educational or social assessments.
+
 2. The person has consented to perform the assessment.
 
 ### Appointment of a person not selected by parties
@@ -2197,12 +2763,19 @@ may without a warrant bring the child to a place of safety.
 ### Copies of report
 
 (8) At least seven days before the court considers the report at a hearing, the court or, where the assessment was requested by a party, that party, shall provide a copy of the report to,
+
 (a) the person assessed, subject to subsections (9) and (10);
+
 (b) the child’s lawyer or agent;
+
 (c) a parent appearing at the hearing, or the parent’s lawyer;
+
 (d) the society caring for or supervising the child;
+
 (e) a Director, where the Director requests a copy;
+
 (f) in the case of a First Nations, Inuk or Métis child, the persons described in clauses (a), (b) (c), (d) and (e) and a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities; and
+
 (g) any other person who, in the opinion of the court, should receive a copy of the report for the purposes of the case.
 
 ### Child younger than 12
@@ -2228,33 +2801,53 @@ may without a warrant bring the child to a place of safety.
 ### Report inadmissible
 
 (14) The report of an assessment ordered under subsection (1) is not admissible into evidence in any other proceeding except,
+
 (a) a proceeding under this Part, including an appeal under section 121;
+
 (b) a proceeding referred to in section 138;
+
 (c) a proceeding under Part VIII (Adoption and Adoption Licensing) respecting an application to make, vary or terminate an openness order; or
+
 (d) a proceeding under the Coroners Act,
+
 without the consent of the person or persons assessed.
 
 ### Consent order: special requirements
 
 99 Where a child is brought before the court on consent as described in clause 74 (2) (n), the court shall, before making an order under section 101 or 102 that would remove the child from the parent’s care and custody,
+
 (a) ask whether,
+
 (i) the society has offered the parent and child services that would enable the child to remain with the parent, and
+
 (ii) the parent and, where the child is 12 or older, the child, has consulted independent legal counsel in connection with the consent; and
+
 (b) be satisfied that,
+
 (i) the parent and, where the child is 12 or older, the child, understands the nature and consequences of the consent,
+
 (ii) every consent is voluntary, and
+
 (iii) the parent and, where the child is 12 or older, the child, consents to the order being sought.
 
 ### Society’s plan for child
 
 100 The court shall, before making an order under section 101, 102, 114 or 116, obtain and consider a plan for the child’s care prepared in writing by the society and including,
+
 (a) a description of the services to be provided to remedy the condition or situation on the basis of which the child was found to be in need of protection;
+
 (b) a statement of the criteria by which the society will determine when its care or supervision is no longer required;
+
 (c) an estimate of the time required to achieve the purpose of the society’s intervention;
+
 (d) where the society proposes to remove or has removed the child from a person’s care,
+
 (i) an explanation of why the child cannot be adequately protected while in the person’s care, and a description of any past efforts to do so, and
+
 (ii) a statement of what efforts, if any, are planned to maintain the child’s contact with the person;
+
 (e) where the society proposes to remove or has removed the child from a person’s care permanently, a description of the arrangements made or being made for the child’s long-term stable placement; and
+
 (f) a description of the arrangements made or being made to recognize the importance of the child’s culture and to preserve the child’s heritage, traditions and cultural identity.
 
 ### Order where child in need of protection
@@ -2292,8 +2885,11 @@ without the consent of the person or persons assessed.
 ### First Nations, Inuk or Métis child
 
 (5) Where the child referred to in subsection (4) is a First Nations, Inuk or Métis child, unless there is a substantial reason for placing the child elsewhere, the court shall place the child with a member of the child’s extended family if it is possible or, if it is not possible,
+
 (a) in the case of a First Nations child, another First Nations family;
+
 (b) in the case of an Inuk child, another Inuit family; or
+
 (c) in the case of a Métis child, another Métis family.
 
 ### Further hearing with notice for orders for interim or extended society care
@@ -2303,12 +2899,19 @@ without the consent of the person or persons assessed.
 ### Terms and conditions of supervision order
 
 (7) If the court makes a supervision order under paragraph 1 of subsection (1), the court may impose,
+
 (a) reasonable terms and conditions relating to the child’s care and supervision;
+
 (b) reasonable terms and conditions on,
+
 (i) the child’s parent,
+
 (ii) the person who will have care and custody of the child under the order,
+
 (iii) the child, and
+
 (iv) any other person, other than a foster parent, who is putting forward or would participate in a plan for the care and custody of or access to the child; and
+
 (c) reasonable terms and conditions on the society that will supervise the placement, but shall not require the society to provide financial assistance or purchase any goods or services.
 
 ### Order for child to remain or return to person who had charge before intervention
@@ -2326,7 +2929,9 @@ without the consent of the person or persons assessed.
 ### Deemed to be order under s. 28 Children’s Law Reform Act
 
 (2) An order made under subsection (1) and any access order under section 104 that is made at the same time as the order under subsection (1) is deemed to be a parenting order or contact order, as the case may be, made under section 28 of the Children’s Law Reform Act and the court,
+
 (a) may make any order under subsection (1) that the court may make under section 28 of that Act; and
+
 (b) may give any directions that it may give under section 34 of that Act.
 
 ### Restraining order
@@ -2344,7 +2949,9 @@ without the consent of the person or persons assessed.
 ### Conflict of laws
 
 (6) No order shall be made under this section if,
+
 (a) an order granting decision-making responsibility with respect to the child has been made under the Divorce Act (Canada); or
+
 (b) in the case of an order that would be made by the Ontario Court of Justice, the order would conflict with an order made by a superior court.
 
 ### Application of s. 101 (3)
@@ -2360,15 +2967,21 @@ without the consent of the person or persons assessed.
 ### Access order
 
 104 (1) The court may, in the child’s best interests,
+
 (a) when making an order under this Part; or
+
 (b) upon an application under subsection (2),
+
 make, vary or terminate an order respecting a person’s access to the child or the child’s access to a person, and may impose such terms and conditions on the order as the court considers appropriate.
 
 ### Who may apply
 
 (2) Where a child is in a society’s care and custody or supervision, the following may apply to the court at any time for an order under subsection (1):
+
 1. The child.
+
 2. Any other person, including a sibling of the child and, in the case of a First Nations, Inuk or Métis child, a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
+
 3. The society.
 
 ### Notice
@@ -2378,9 +2991,13 @@ make, vary or terminate an order respecting a person’s access to the child or 
 ### Society to give notice of application
 
 (4) A society making or receiving an application under subsection (2) shall give notice of the application to,
+
 (a) the child, subject to subsections 79 (4) and (5) (notice to child);
+
 (b) the child’s parent;
+
 (c) the person caring for the child at the time of the application; and
+
 (d) in the case of a First Nations, Inuk or Métis child, the persons described in clauses (a), (b) and (c) and a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### Child older than 16
@@ -2390,17 +3007,25 @@ make, vary or terminate an order respecting a person’s access to the child or 
 ### Six-month period
 
 (6) No application shall be made under subsection (2) by a person other than a society within six months of,
+
 (a) the making of an order under section 101;
+
 (b) the disposition of a previous application by the same person under subsection (2);
+
 (c) the disposition of an application under section 113 or 115; or
+
 (d) the final disposition or abandonment of an appeal from an order referred to in clause (a), (b) or (c),
+
 whichever is later.
 
 ### No application where child placed for adoption
 
 (7) No person or society shall make an application under subsection (2) where the child,
+
 (a) is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c);
+
 (b) has been placed in a person’s home by the society or by a Director for the purpose of adoption under Part VIII (Adoption and Adoption Licensing); and
+
 (c) still resides in that person’s home.
 
 ### Access: where child removed from person in charge
@@ -2426,13 +3051,17 @@ whichever is later.
 ### Additional considerations for best interests test
 
 (6) The court shall consider, as part of its determination of whether an order or variation would be in the child’s best interests under subsection (5),
+
 (a) whether the relationship between the person and the child is beneficial and meaningful to the child; and
+
 (b) if the court considers it relevant, whether the ordered access will impair the child’s future opportunities for adoption.
 
 ### Court to specify access holders and access recipients
 
 (7) Where a court makes or varies an access order under section 104 with respect to a child who is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c), the court shall specify,
+
 (a) every person who has been granted a right of access; and
+
 (b) every person with respect to whom access has been granted.
 
 ### When court to terminate access to child in extended society care
@@ -2456,20 +3085,31 @@ whichever is later.
 ### Order for payment by parent
 
 108 (1) Where the court places a child in the care of,
+
 (a) a society; or
+
 (b) a person other than the child’s parent, subject to a society’s supervision,
+
 the court may order a parent or a parent’s estate to pay the society a specified amount at specified intervals for each day the child is in the society’s care or supervision.
 
 ### Criteria
 
 (2) In making an order under subsection (1), the court shall consider those of the following circumstances of the case that the court considers relevant:
+
 1. The assets and means of the child and of the parent or the parent’s estate.
+
 2. The child’s capacity to provide for their own support.
+
 3. The capacity of the parent or the parent’s estate to provide support.
+
 4. The child’s and the parent’s age and physical and mental health.
+
 5. The child’s mental, emotional and physical needs.
+
 6. Any legal obligation of the parent or the parent’s estate to provide support for another person.
+
 7. The child’s aptitude for and reasonable prospects of obtaining an education.
+
 8. Any legal right of the child to support from another source, other than out of public money.
 
 ### Order ends at 18
@@ -2497,13 +3137,21 @@ the court may order a parent or a parent’s estate to pay the society a specifi
 ### Placement
 
 (2) The society having care of a child shall choose a residential placement for the child that,
+
 (a) represents the least restrictive alternative for the child;
+
 (b) where possible, respects the child’s race, ancestry, place of origin, colour, ethnic origin, citizenship, family diversity, creed, sex, sexual orientation, gender identity and gender expression;
+
 (c) where possible, respects the child’s cultural and linguistic heritage;
+
 (d) in the case of a First Nations, Inuk or Métis child, is with, if possible, a member of the child’s extended family or, if that is not possible,
+
 (i) in the case of a First Nations child, another First Nations family,
+
 (ii) in the case of an Inuk child, another Inuit family, or
+
 (iii) in the case of a Métis child, another Métis family; and
+
 (e) takes into account the child’s views and wishes, given due weight in accordance with the child’s age and maturity, and the views and wishes of any parent who is entitled to access to the child.
 
 ### Education
@@ -2517,7 +3165,9 @@ the court may order a parent or a parent’s estate to pay the society a specifi
 ### Rights of child, parent and foster parent
 
 (5) The society having care of a child shall ensure that,
+
 (a) the child is afforded all the rights referred to in Part II (Children’s and Young Persons’ Rights); and
+
 (b) the wishes of any parent who is entitled to access to the child and, where the child is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c), of any foster parent with whom the child has lived continuously for two years are taken into account in the society’s major decisions concerning the child.
 
 ### Change of placement
@@ -2527,9 +3177,13 @@ the court may order a parent or a parent’s estate to pay the society a specifi
 ### Notice of proposed removal
 
 (7) If a child is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c) and has lived continuously with a foster parent for two years and a society proposes to remove the child from the foster parent under subsection (6), the society shall,
+
 (a) give the foster parent at least 10 days notice in writing of the proposed removal and of the foster parent’s right to apply for a review under subsection (8); and
+
 (b) in the case of a First Nations, Inuk or Métis child, give the notice required by clause (a), and
+
 (i) give at least 10 days notice in writing of the proposed removal to a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities, and
+
 (ii) after the notice is given under subclause (i), consult with representatives chosen by the bands and communities relating to the plan of care for the child.
 
 ### Application for review
@@ -2555,9 +3209,13 @@ the court may order a parent or a parent’s estate to pay the society a specifi
 ### Parties
 
 (13) The following persons are parties to a hearing under this section:
+
 1. The applicant.
+
 2. The society.
+
 3. If the child is a First Nations, Inuk or Métis child, the persons described in paragraphs 1 and 2 and a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
+
 4. Any person that the Board adds under subsection (14).
 
 ### Additional parties
@@ -2571,7 +3229,9 @@ the court may order a parent or a parent’s estate to pay the society a specifi
 ### No removal before decision
 
 (16) Subject to subsection (17), the society shall not carry out the proposed removal of the child unless,
+
 (a) the time for applying for a review of the proposed removal under subsection (8) has expired and an application is not made; or
+
 (b) if an application for a review of the proposed removal is made under subsection (8), the Board has confirmed the proposed removal under subsection (15).
 
 ### Where child at risk
@@ -2585,6 +3245,7 @@ the court may order a parent or a parent’s estate to pay the society a specifi
 ### Definition
 
 (19) In this section,
+
 “residential placement” has the same meaning as in section 62.
 
 ### Child in interim society care
@@ -2618,11 +3279,17 @@ the court may order a parent or a parent’s estate to pay the society a specifi
 ### Society’s obligation to pursue family relationship for child in extended society care
 
 112 Where a child is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c), the society shall make all reasonable efforts to assist the child to develop a positive, secure and enduring relationship within a family through one of the following:
+
 1. An adoption.
+
 2. A custody order under subsection 116 (1).
+
 3. In the case of a First Nations, Inuk or Métis child,
+
 i. a plan for customary care,
+
 ii. an adoption, or
+
 iii. a custody order under subsection 116 (1).
 
 ### Review
@@ -2634,8 +3301,11 @@ iii. a custody order under subsection 116 (1).
 ### Society to seek status review
 
 (2) The society having care, custody or supervision of a child,
+
 (a) may apply to the court at any time for a review of the child’s status;
+
 (b) shall apply to the court for a review of the child’s status before the order expires, unless the expiry is by reason of section 123; and
+
 (c) shall apply to the court for a review of the child’s status within five days after removing the child, if the society has removed the child from the care of a person with whom the child was placed under an order for society supervision.
 
 ### Application of subs. (2) (a) and (c)
@@ -2645,25 +3315,37 @@ iii. a custody order under subsection 116 (1).
 ### Others may seek status review
 
 (4) An application for review of a child’s status may be made on notice to the society by,
+
 (a) the child, if the child is at least 12;
+
 (b) a parent of the child;
+
 (c) the person with whom the child was placed under an order for society supervision; or
+
 (d) in the case of a First Nations, Inuk or Métis child, a person described in clause (a), (b) or (c) or a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### Notice
 
 (5) A society making an application under subsection (2) or receiving notice of an application under subsection (4) shall give notice of the application to,
+
 (a) the child, except as otherwise provided under subsection 79 (4) or (5);
+
 (b) the child’s parent;
+
 (c) the person with whom the child was placed under an order for society supervision;
+
 (d) any foster parent who has cared for the child continuously during the six months immediately before the application; and
+
 (e) in the case of a First Nations, Inuk or Métis child, the persons described in clauses (a), (b), (c) and (d) and a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### Six-month period
 
 (6) No application shall be made under subsection (4) within six months after the latest of,
+
 (a) the day the original order was made under subsection 101 (1);
+
 (b) the day the last application by a person under subsection (4) was disposed of; or
+
 (c) the day any appeal from an order referred to in clause (a) or the disposition referred to in clause (b) was finally disposed of or abandoned.
 
 ### Exception
@@ -2677,9 +3359,13 @@ iii. a custody order under subsection 116 (1).
 ### Court may vary, etc.
 
 114 Where an application for review of a child’s status is made under section 113, the court may, in the child’s best interests,
+
 (a) vary or terminate the original order made under subsection 101 (1), including a term or condition or a provision for access that is part of the order;
+
 (b) order that the original order terminate on a specified future date;
+
 (c) make a further order or orders under section 101; or
+
 (d) make an order under section 102.
 
 ### Status review for children in, or formerly in, extended society care
@@ -2689,26 +3375,39 @@ iii. a custody order under subsection 116 (1).
 ### Society to seek status review
 
 (2) The society that has or had care, custody or supervision of the child,
+
 (a) may apply to the court at any time, subject to subsection (9), for a review of the child’s status;
+
 (b) shall apply to the court for a review of the child’s status before the order expires if the order is for society supervision, unless the expiry is by reason of section 123; and
+
 (c) shall apply to the court for a review of the child’s status within five days after removing the child, if the society has removed the child,
+
 (i) from the care of a person with whom the child was placed under an order for society supervision described in clause 116 (1) (a), or
+
 (ii) from the custody of a person who had custody of the child under a custody order described in clause 116 (1) (b).
 
 ### Application of subs. (2) (a) and (c)
 
 (3) Clauses (2) (a) and (c) also apply to the society that has jurisdiction in the county or district,
+
 (a) in which the parent or other person with whom the child is placed resides, if the child is the subject of an order for society supervision under clause 116 (1) (a); or
+
 (b) in which the person who has custody resides, if the child is the subject of a custody order under clause 116 (1) (b).
 
 ### Others may seek status review
 
 (4) An application for review of a child’s status under this section may be made on notice to the society by,
+
 (a) the child, if the child is at least 12;
+
 (b) a parent of the child;
+
 (c) the person with whom the child was placed under an order for society supervision described in clause 116 (1) (a);
+
 (d) the person to whom custody of the child was granted, if the child is subject to an order for custody described in clause 116 (1) (b);
+
 (e) a foster parent, if the child has lived continuously with the foster parent for at least two years immediately before the application; or
+
 (f) in the case of a First Nations, Inuk or Métis child, a person described in clause (a), (b), (c), (d) or (e) or a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### When leave to apply required
@@ -2718,27 +3417,41 @@ iii. a custody order under subsection 116 (1).
 ### Notice
 
 (6) A society making an application under subsection (2) or receiving notice of an application under subsection (4) shall give notice of the application to,
+
 (a) the child, except as otherwise provided under subsection 79 (4) or (5);
+
 (b) the child’s parent, if the child is younger than 16;
+
 (c) the person with whom the child was placed, if the child is subject to an order for society supervision described in clause 116 (1) (a);
+
 (d) the person to whom custody of the child was granted, if the child is subject to an order for custody described in clause 116 (1) (b);
+
 (e) any foster parent who has cared for the child continuously during the six months immediately before the application; and
+
 (f) in the case of a First Nations, Inuk or Métis child, the persons described in clause (a), (b), (c), (d) or (e) and a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### Six-month period
 
 (7) No application shall be made under subsection (4) within six months after the latest of,
+
 (a) the day the order was made under subsection 101 (1) or 116 (1), whichever is applicable;
+
 (b) the day the last application by a person under subsection (4) was disposed of; or
+
 (c) the day any appeal from an order referred to in clause (a) or a disposition referred to in clause (b) was finally disposed of or abandoned.
 
 ### Exception
 
 (8) Subsection (7) does not apply if,
+
 (a) the child is the subject of,
+
 (i) an order for society supervision made under clause 116 (1) (a),
+
 (ii) an order for custody made under clause 116 (1) (b), or
+
 (iii) an order for extended society care made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c) and an order for access under section 104; and
+
 (b) the court is satisfied that a major element of the plan for the child’s care that the court applied in its decision is not being carried out.
 
 ### No review if child placed for adoption
@@ -2752,9 +3465,13 @@ iii. a custody order under subsection 116 (1).
 ### Court order
 
 116 (1) If an application for review of a child’s status is made under section 115, the court may, in the child’s best interests,
+
 (a) order that the child be placed in the care and custody of a parent or another person, subject to the supervision of the society, for a specified period of at least three months and not more than 12 months;
+
 (b) order that custody be granted to one or more persons, including a foster parent, with the consent of the person or persons;
+
 (c) order that the child be placed in extended society care until the order is terminated under this section or expires under section 123; or
+
 (d) terminate or vary any order made under section 101 or this section.
 
 ### Variation, termination or new order
@@ -2768,12 +3485,19 @@ iii. a custody order under subsection 116 (1).
 ### Terms and conditions of supervision order
 
 (4) If the court makes a supervision order described in clause (1) (a), the court may impose,
+
 (a) reasonable terms and conditions relating to the child’s care and supervision;
+
 (b) reasonable terms and conditions on,
+
 (i) the child’s parent,
+
 (ii) the person who will have care and custody of the child under the order,
+
 (iii) the child, and
+
 (iv) any other person, other than a foster parent, who is putting forward a plan or who would participate in a plan for care and custody of or access to the child; and
+
 (c) reasonable terms and conditions on the society that will supervise the placement, but shall not require the society to provide financial assistance or purchase any goods or services.
 
 ### Access
@@ -2791,8 +3515,11 @@ iii. a custody order under subsection 116 (1).
 ### Director’s annual review of children in extended society care
 
 117 (1) A Director or a person authorized by a Director shall, at least once during each calendar year, review the status of every child,
+
 (a) who is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c);
+
 (b) who was in extended society care under an order described in clause (a) throughout the immediately preceding 24 months; and
+
 (c) whose status has not been reviewed under this section or under section 116 during that time.
 
 ### Direction to society
@@ -2826,7 +3553,9 @@ iii. a custody order under subsection 116 (1).
 ### Application for review by Board
 
 (5) If a complaint relates to one of the following matters, the complainant may apply to the Board in accordance with the regulations for a review of the decision made by the society upon completion of the complaint review procedure:
+
 1. A matter described in subsection 120 (4).
+
 2. Any other prescribed matter.
 
 ### Review by Board
@@ -2848,21 +3577,29 @@ iii. a custody order under subsection 116 (1).
 ### Board decision
 
 (10) Upon completing its review of a decision by a society in relation to a complaint, the Board may,
+
 (a) in the case of a matter described in subsection 120 (4), make any order described in subsection 120 (7), as appropriate;
+
 (b) redirect the matter to the society for further review;
+
 (c) confirm the society’s decision; or
+
 (d) make such other order as may be prescribed.
 
 ### No review if matter within purview of court
 
 (11) A society shall not conduct a review of a complaint under this section if the subject of the complaint,
+
 (a) is an issue that has been decided by the court or is before the court; or
+
 (b) is subject to another decision-making process under this Act or the Labour Relations Act, 1995.
 
 ### Complaint to Board
 
 120 (1) If a complaint in respect of a service sought or received from a society relates to a matter described in subsection (4), the person who sought or received the service may,
+
 (a) decide not to make the complaint to the society under section 119 and make the complaint directly to the Board under this section; or
+
 (b) where the person first makes the complaint to the society under section 119, submit the complaint to the Board before the society’s complaint review procedure is completed.
 
 ### Notice to society
@@ -2876,11 +3613,17 @@ iii. a custody order under subsection 116 (1).
 ### Matters for Board review
 
 (4) The following matters may be reviewed by the Board under this section:
+
 1. Allegations that the society has refused to proceed with a complaint made by the complainant under subsection 119 (1) as required under subsection 119 (2).
+
 2. Allegations that the society has failed to respond to the complainant’s complaint within the timeframe required by regulation.
+
 3. Allegations that the society has failed to comply with the complaint review procedure or with any other procedural requirements under this Act relating to the review of complaints.
+
 4. Allegations that the society has failed to comply with subsection 15 (2).
+
 5. Allegations that the society has failed to provide the complainant with reasons for a decision that affects the complainant’s interests.
+
 6. Such other matters as may be prescribed.
 
 ### Review by Board
@@ -2894,17 +3637,25 @@ iii. a custody order under subsection 116 (1).
 ### Board decision
 
 (7) After reviewing the complaint, the Board may,
+
 (a) order the society to proceed with the complaint made by the complainant in accordance with the complaint review procedure established by regulation;
+
 (b) order the society to provide a response to the complainant within a period specified by the Board;
+
 (c) order the society to comply with the complaint review procedure established by regulation or with any other requirements under this Act;
+
 (d) order the society to provide written reasons for a decision to a complainant;
+
 (e) dismiss the complaint; or
+
 (f) make such other order as may be prescribed.
 
 ### No review if matter within purview of court
 
 (8) The Board shall not conduct a review of a complaint under this section if the subject of the complaint,
+
 (a) is an issue that has been decided by the court or is before the court; or
+
 (b) is subject to another decision-making process under this Act or the Labour Relations Act, 1995.
 
 ### Appeals
@@ -2912,10 +3663,15 @@ iii. a custody order under subsection 116 (1).
 ### Appeal
 
 121 (1) An appeal from a court’s order under this Part may be made by,
+
 (a) the child, if the child is entitled to participate in the proceeding under subsection 79 (6) (child’s participation);
+
 (b) any parent of the child;
+
 (c) the person who had charge of the child immediately before intervention under this Part;
+
 (d) a Director or local director; or
+
 (e) in the case of a First Nations, Inuk or Métis child, a person described in clause (a), (b), (c) or (d) or a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### Exception
@@ -2925,14 +3681,19 @@ iii. a custody order under subsection 116 (1).
 ### Court
 
 (2.1) The appeal shall be made to,
+
 (a) the Superior Court of Justice, if the order was made at the Ontario Court of Justice; or
+
 (b) the Divisional Court, if the order was made at the Family Court of the Superior Court of Justice.
 
 ### Care and custody pending appeal
 
 (3) Where a decision regarding the care and custody of a child is appealed under subsection (1), execution of the decision shall be stayed for the 10 days immediately following service of the notice of appeal on the court that made the decision, and where the child is in the society’s care and custody at the time the decision is made, the child shall remain in the care and custody of the society until,
+
 (a) the 10-day period of the stay has expired; or
+
 (b) an order is made under subsection (4),
+
 whichever is earlier.
 
 ### Temporary order
@@ -2958,7 +3719,9 @@ whichever is earlier.
 ### Transition
 
 (9) This section, as it read immediately before the day subsection 5 (2) of Schedule 2 to the Moving Ontario Family Law Forward Act, 2020 came into force, continues to apply to,
+
 (a) any case in which a notice of appeal was filed before that day; and
+
 (b) any further appeals or proceedings arising from a case described in clause (a).
 
 ### Expiry of Orders
@@ -2966,13 +3729,17 @@ whichever is earlier.
 ### Time limit
 
 122 (1) Subject to subsections (4) and (5), the court shall not make an order for interim society care under paragraph 2 of subsection 101 (1) that results in a child being in the care and custody of a society for a period exceeding,
+
 (a) 12 months, if the child is younger than 6 on the day the court makes the order; or
+
 (b) 24 months, if the child is 6 or older on the day the court makes the order.
 
 ### Calculation of time limit
 
 (2) The time during which a child has been in a society’s care and custody pursuant to the following shall be counted in calculating the period referred to in subsection (1):
+
 1. An agreement made under subsection 75 (1) (temporary care agreement).
+
 2. A temporary order made under clause 94 (2) (d) (custody during adjournment).
 
 ### Previous periods to be counted
@@ -2982,8 +3749,11 @@ whichever is earlier.
 ### Deemed extension of time limit
 
 (4) Where the period referred to in subsection (1) or (5) expires and,
+
 (a) an appeal of an order made under subsection 101 (1) has been commenced and is not yet finally disposed of; or
+
 (b) the court has adjourned a hearing under section 114 (status review),
+
 the period is deemed to be extended until the appeal has been finally disposed of and any new hearing ordered on appeal has been completed or an order has been made under section 114, as the case may be.
 
 ### Six-month extension
@@ -2993,8 +3763,11 @@ the period is deemed to be extended until the appeal has been finally disposed o
 ### Expiry of orders
 
 123 An order under this Part expires when the child who is the subject of the order,
+
 (a) turns 18; or
+
 (b) marries,
+
 whichever comes first.
 
 ### Continued Care and Support
@@ -3002,9 +3775,13 @@ whichever comes first.
 ### Continued care and support
 
 124 A society or prescribed entity shall enter into an agreement to provide care and support to a person in accordance with the regulations in each of the following circumstances:
+
 1. A custody order under clause 116 (1) (b) or an order for extended society care under paragraph 3 of subsection 101 (1) or clause 116 (1) (c) was made in relation to that person as a child and the order expires under section 123.
+
 2. The person entered into an agreement with the society under section 77 and the agreement expires on the person’s 18th birthday.
+
 3. The person is 18 or older and was eligible for the prescribed support services.
+
 4. In the case of a First Nations, Inuk or Métis person who is 18 or older, paragraph 1, 2 or 3 applies or the person was being cared for under customary care immediately before their 18th birthday and the person who was caring for them was receiving a subsidy from the society or an entity under section 71.
 
 ### Duty to Report
@@ -3012,30 +3789,55 @@ whichever comes first.
 ### Duty to report child in need of protection
 
 125 (1) Despite the provisions of any other Act, if a person, including a person who performs professional or official duties with respect to children, has reasonable grounds to suspect one of the following, the person shall immediately report the suspicion and the information on which it is based to a society:
+
 1. The child has suffered physical harm inflicted by the person having charge of the child or caused by or resulting from that person’s,
+
 i. failure to adequately care for, provide for, supervise or protect the child, or
+
 ii. pattern of neglect in caring for, providing for, supervising or protecting the child.
+
 2. There is a risk that the child is likely to suffer physical harm inflicted by the person having charge of the child or caused by or resulting from that person’s,
+
 i. failure to adequately care for, provide for, supervise or protect the child, or
+
 ii. pattern of neglect in caring for, providing for, supervising or protecting the child.
+
 3. The child has been sexually abused or sexually exploited by the person having charge of the child or by another person where the person having charge of the child knows or should know of the possibility of sexual abuse or sexual exploitation and fails to protect the child.
+
 4. There is a risk that the child is likely to be sexually abused or sexually exploited as described in paragraph 3.
+
 4.1 The child has been sexually exploited as a result of being subjected to child sex trafficking.
+
 4.2 There is a risk that the child is likely to be sexually exploited as a result of being subjected to child sex trafficking.
+
 5. The child requires treatment to cure, prevent or alleviate physical harm or suffering and the child’s parent or the person having charge of the child does not provide the treatment or access to the treatment, or, where the child is incapable of consenting to the treatment under the Health Care Consent Act, 1996, refuses or is unavailable or unable to consent to, the treatment on the child’s behalf.
+
 6. The child has suffered emotional harm, demonstrated by serious,
+
 i. anxiety,
+
 ii. depression,
+
 iii. withdrawal,
+
 iv. self-destructive or aggressive behaviour, or
+
 v. delayed development,
+
 and there are reasonable grounds to believe that the emotional harm suffered by the child results from the actions, failure to act or pattern of neglect on the part of the child’s parent or the person having charge of the child.
+
 7. The child has suffered emotional harm of the kind described in subparagraph 6 i, ii, iii, iv or v and the child’s parent or the person having charge of the child does not provide services or treatment or access to services or treatment, or, where the child is incapable of consenting to treatment under the Health Care Consent Act, 1996, refuses or is unavailable or unable to consent to, treatment to remedy or alleviate the harm.
+
 8. There is a risk that the child is likely to suffer emotional harm of the kind described in subparagraph 6 i, ii, iii, iv or v resulting from the actions, failure to act or pattern of neglect on the part of the child’s parent or the person having charge of the child.
+
 9. There is a risk that the child is likely to suffer emotional harm of the kind described in subparagraph 6 i, ii, iii, iv or v and the child’s parent or the person having charge of the child does not provide services or treatment or access to services or treatment, or, where the child is incapable of consenting to treatment under the Health Care Consent Act, 1996, refuses or is unavailable or unable to consent to, treatment to prevent the harm.
+
 10. The child suffers from a mental, emotional or developmental condition that, if not remedied, could seriously impair the child’s development and the child’s parent or the person having charge of the child does not provide the treatment or access to the treatment, or where the child is incapable of consenting to the treatment under the Health Care Consent Act, 1996, refuses or is unavailable or unable to consent to, treatment to remedy or alleviate the condition.
+
 11. The child’s parent has died or is unavailable to exercise the rights of custody over the child and has not made adequate provision for the child’s care and custody, or the child is in a residential placement and the parent refuses or is unable or unwilling to resume the child’s care and custody.
+
 12. The child is younger than 12 and has killed or seriously injured another person or caused serious damage to another person’s property, services or treatment are necessary to prevent a recurrence and the child’s parent or the person having charge of the child does not provide services or treatment or access to services or treatment, or, where the child is incapable of consenting to treatment under the Health Care Consent Act, 1996, refuses or is unavailable or unable to consent to treatment.
+
 13. The child is younger than 12 and has on more than one occasion injured another person or caused loss or damage to another person’s property, with the encouragement of the person having charge of the child or because of that person’s failure or inability to supervise the child adequately.
 
 ### Ongoing duty to report
@@ -3053,23 +3855,33 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Offence
 
 (5) A person referred to in subsection (6) is guilty of an offence if,
+
 (a) the person contravenes subsection (1) or (2) by not reporting a suspicion; and
+
 (b) the information on which it was based was obtained in the course of the person’s professional or official duties.
 
 ### Professionals and officials
 
 (6) Subsection (5) applies to every person who performs professional or official duties with respect to children including,
+
 (a) a health care professional, including a physician, nurse, dentist, pharmacist and psychologist;
+
 (b) a teacher, early childhood educator, person appointed to a position designated by a board of education as requiring an early childhood educator, school principal, social worker, family counsellor, youth and recreation worker, and operator or employee of a child care centre or home child care agency or provider of licensed child care within the meaning of the Child Care and Early Years Act, 2014;
+
 (c) a religious official;
+
 (d) a mediator and an arbitrator;
+
 (e) a peace officer and a coroner;
+
 (f) a lawyer; and
+
 (g) a service provider and an employee of a service provider.
 
 ### Volunteer excluded
 
 (7) In clause (6) (b),
+
 “youth and recreation worker” does not include a volunteer.
 
 ### Director, officer or employee of corporation
@@ -3107,13 +3919,17 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Definition
 
 (2) In this section and in sections 129 and 133,
+
 “to suffer abuse”, when used in reference to a child, means to be in need of protection within the meaning of clause 74 (2) (a), (c), (e), (f), (g) or (j).
 
 ### Duty to report child’s death
 
 128 A person or society that obtains information that a child has died shall report the information to a coroner if,
+
 (a) a court made an order under this Act denying access to the child by a parent of the child or making the access subject to supervision;
+
 (b) on the application of a society, a court varied the order to grant the access or to make it no longer subject to supervision; and
+
 (c) the child subsequently died as a result of a criminal act committed by a parent or family member who had custody or charge of the child at the time of the act.
 
 ### Review Teams
@@ -3121,12 +3937,15 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Review team
 
 129 (1) In this section,
+
 “review team” means a team established by a society under subsection (2).
 
 ### Composition
 
 (2) Every society shall establish a review team that includes,
+
 (a) persons who are professionally qualified to perform medical, psychological, developmental, educational or social assessments; and
+
 (b) at least one legally qualified medical practitioner.
 
 ### Chair
@@ -3136,7 +3955,9 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Duty of team
 
 (4) Whenever a society refers the case of a child who may be suffering or may have suffered abuse to its review team, the review team or a panel of at least three of its members, designated by the chair, shall,
+
 (a) review the case; and
+
 (b) recommend to the society how the child may be protected.
 
 ### Disclosure to team permitted
@@ -3150,9 +3971,13 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Where child not to be returned without review or hearing
 
 (7) Where a society with a review team has information that a child placed in its care under subsection 94 (2) (custody during adjournment) or subsection 101 (1) (order where child in need of protection) may have suffered abuse, the society shall not return the child to the care of the person who had charge of the child at the time of the possible abuse unless,
+
 (a) the society has,
+
 (i) referred the case to its review team, and
+
 (ii) obtained and considered the review team’s recommendations; or
+
 (b) the court has terminated the order placing the child in the society’s care.
 
 ### Court-Ordered Access to Records
@@ -3162,6 +3987,7 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Definition
 
 130 (1) In this section and sections 131 and 132,
+
 “record of personal health information” has the same meaning as in the Mental Health Act.
 
 ### Motion or application for production of record
@@ -3175,12 +4001,19 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Order on application
 
 (4) Where the court is satisfied that a record or part of a record that is the subject of an application referred to in subsection (2) may be relevant to assessing compliance with one of the following and that the person in possession or control of the record has refused to permit a Director or the society to inspect it, the court may order that the person in possession or control of the record produce it or a specified part of it for inspection and copying by the Director, by the society or by the court:
+
 1. An order under clause 94 (2) (b) or (c) that is subject to supervision.
+
 2. An order under clause 94 (2) (c) or (d) with respect to access.
+
 3. A supervision order under paragraph 1 or 4 of subsection 101 (1).
+
 4. An access order under section 104.
+
 5. An order with respect to access or supervision on an application under section 113 or 115.
+
 6. A custody order under section 116.
+
 7. A restraining order under section 137.
 
 ### Court may examine record
@@ -3190,7 +4023,9 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Information confidential
 
 (6) No person who obtains information by means of an order made under subsection (3) or (4) shall disclose the information except,
+
 (a) as specified in the order; and
+
 (b) in testimony in a proceeding under this Part.
 
 ### Conflict
@@ -3204,13 +4039,17 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Application of Mental Health Act
 
 (9) Where a motion or an application under subsection (2) concerns a record of personal health information, subsection 35 (6) (attending physician’s statement, hearing) of the Mental Health Act applies and the court shall give equal consideration to,
+
 (a) the matters to be considered under subsection 35 (7) of that Act; and
+
 (b) the need to protect the child.
 
 ### Application of s. 294
 
 (10) Where a motion or an application under subsection (2) concerns a record that is a record of a mental disorder within the meaning of section 294, that section applies and the court shall give equal consideration to,
+
 (a) the matters to be considered under subsection 294 (6); and
+
 (b) the need to protect the child.
 
 ### Warrant for access to record
@@ -3220,8 +4059,11 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Authority conferred by warrant
 
 (2) The warrant authorizes the Director or the person designated by the society to,
+
 (a) inspect the record specified in the warrant during normal business hours or during the hours specified in the warrant;
+
 (b) make copies from the record in any manner that does not damage the record; and
+
 (c) remove the record for the purpose of making copies.
 
 ### Return of record
@@ -3247,13 +4089,17 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Application of Mental Health Act
 
 (8) If a warrant issued under this section concerns a record of personal health information and the warrant is challenged under subsection 35 (6) (attending physician’s statement, hearing) of the Mental Health Act, equal consideration shall be given to,
+
 (a) the matters set out in subsection 35 (7) of that Act; and
+
 (b) the need to protect the child.
 
 ### Application of s. 294
 
 (9) If a warrant issued under this section concerns a record of a mental disorder within the meaning of section 294 and the warrant is challenged under section 294, equal consideration shall be given to,
+
 (a) the matters set out in subsection 294 (6); and
+
 (b) the need to protect the child.
 
 ### Telewarrant
@@ -3263,13 +4109,17 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Same
 
 (2) The information shall,
+
 (a) include a statement of the grounds to believe that the record or part of the record is relevant to investigate an allegation that a child is or may be in need of protection; and
+
 (b) set out the circumstances that make it impracticable for the Director or person designated by the society to appear personally before a court or justice of the peace.
 
 ### Warrant to be issued
 
 (3) The justice may issue a warrant for access to the record or the specified part of it if the justice is satisfied that the application discloses,
+
 (a) reasonable grounds to believe that the record or the part of a record is relevant to investigate an allegation that a child is or may be in need of protection; and
+
 (b) reasonable grounds to dispense with personal appearance for the purpose of an application under section 131.
 
 ### Validity of warrant
@@ -3283,6 +4133,7 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Definition
 
 (6) In this section,
+
 “justice” means justice of the peace, a judge of the Ontario Court of Justice or a judge of the Family Court of the Superior Court of Justice.
 
 ### Child Abuse Register
@@ -3290,10 +4141,15 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Register
 
 133 (1) In this section and in section 134,
+
 “Director” means the person appointed under subsection (2); (“directeur”)
+
 “register” means the register maintained under subsection (5); (“registre”)
+
 “registered person” means a person identified in the register, but does not include,
+
 (a) a person who reports to a society under subsection 125 (1) or (2) and is not the subject of the report, or
+
 (b) the child who is the subject of a report. (“personne inscrite”)
 
 ### Director
@@ -3319,16 +4175,23 @@ and there are reasonable grounds to believe that the emotional harm suffered by 
 ### Coroner’s inquest, etc.
 
 (7) The following persons may inspect, remove and disclose information in the register in accordance with that person’s authority:
+
 1. A coroner, or a legally qualified medical practitioner or peace officer authorized in writing by a coroner, acting in connection with an investigation or inquest under the Coroners Act.
+
 2. The Children’s Lawyer or the Children’s Lawyer’s authorized agent.
 
 ### Minister or Director may permit access to register
 
 (8) The Minister or the Director may permit the following persons to inspect and remove information in the register and to disclose the information to a person referred to in subsection (7) or to another person referred to in this subsection, subject to such terms and conditions as the Director may impose:
+
 1. A person who is employed,
+
 i. in the Ministry,
+
 ii. by a society, or
+
 iii. by a child welfare authority outside Ontario.
+
 2. A person who is providing or proposes to provide counselling or treatment to a registered person.
 
 ### Minister or Director may disclose information
@@ -3338,7 +4201,9 @@ iii. by a child welfare authority outside Ontario.
 ### Research
 
 (10) A person who is engaged in research may, with the Director’s written approval, inspect and use the information in the register, but shall not,
+
 (a) use or communicate the information for any purpose except research, academic pursuits or the compilation of statistical data; or
+
 (b) communicate any information that may have the effect of identifying a person named in the register.
 
 ### Access by child or registered person
@@ -3352,15 +4217,21 @@ iii. by a child welfare authority outside Ontario.
 ### Amendment of register
 
 (13) The Director or an employee in the Ministry acting under the Director’s authority,
+
 (a) shall remove a name from or otherwise amend the register where the regulations require the removal or amendment; and
+
 (b) may amend the register to correct an error.
 
 ### Register inadmissible: exceptions
 
 (14) The register shall not be admitted into evidence in a proceeding except,
+
 (a) to prove compliance or non-compliance with this section;
+
 (b) in a hearing or appeal under section 134;
+
 (c) in a proceeding under the Coroners Act; or
+
 (d) in a proceeding referred to in section 138.
 
 ### Hearing re registered person
@@ -3368,13 +4239,17 @@ iii. by a child welfare authority outside Ontario.
 ### Definition
 
 134 (1) In this section,
+
 “hearing” means a hearing held under clause (4) (b).
 
 ### Notice to registered person
 
 (2) Where an entry is made in the register, the Director shall as soon as possible give written notice to each registered person referred to in the entry indicating that,
+
 (a) the person is identified in the register;
+
 (b) the person or the person’s lawyer or agent is entitled to inspect the information in the register that refers to or identifies the person; and
+
 (c) the person is entitled to request that the Director remove the person’s name from or otherwise amend the register.
 
 ### Request to amend register
@@ -3384,7 +4259,9 @@ iii. by a child welfare authority outside Ontario.
 ### Director’s response
 
 (4) On receiving a request under subsection (3), the Director may,
+
 (a) grant the request; or
+
 (b) hold a hearing, on 10 days written notice to the parties, to determine whether to grant or refuse the request.
 
 ### Delegation
@@ -3398,8 +4275,11 @@ iii. by a child welfare authority outside Ontario.
 ### Hearing
 
 (7) The parties to a hearing are,
+
 (a) the registered person;
+
 (b) the society that verified the information referring to or identifying the registered person; and
+
 (c) any other person specified by the Director.
 
 ### Director’s decision
@@ -3427,14 +4307,19 @@ iii. by a child welfare authority outside Ontario.
 ### Director’s power to transfer
 
 135 (1) A Director may direct, in the best interests of a child in the care or supervision of a society, that the child,
+
 (a) be transferred to the care or supervision of another society; or
+
 (b) be transferred from one placement to another placement designated by the Director.
 
 ### Criteria
 
 (2) In determining whether to direct a transfer under clause (1) (b), the Director shall take into account,
+
 (a) the length of time the child has spent in the existing placement;
+
 (b) the views of the foster parents; and
+
 (c) the views and wishes of the child, given due weight in accordance with the child’s age and maturity.
 
 ### Offences, Restraining Orders, Recovery on Child’s Behalf and Injunctions
@@ -3444,14 +4329,19 @@ iii. by a child welfare authority outside Ontario.
 ### Definition
 
 136 (1) In this section,
+
 “abuse” means a state or condition of being physically harmed, sexually abused or sexually exploited.
 
 ### Child abuse
 
 (2) No person having charge of a child shall,
+
 (a) inflict abuse on the child; or
+
 (b) by failing to care and provide for or supervise and protect the child adequately,
+
 (i) permit the child to suffer abuse, or
+
 (ii) permit the child to suffer from a mental, emotional or developmental condition that, if not remedied, could seriously impair the child’s development.
 
 ### Leaving child unattended
@@ -3461,7 +4351,9 @@ iii. by a child welfare authority outside Ontario.
 ### Allowing child to loiter, etc.
 
 (4) No parent of a child younger than 16 shall permit the child to,
+
 (a) loiter in a public place between the hours of midnight and 6 a.m.; or
+
 (b) be in a place of public entertainment between the hours of midnight and 6 a.m., unless the parent accompanies the child or authorizes a specified individual 18 or older to accompany the child.
 
 ### Police may bring child home or to place of safety
@@ -3475,7 +4367,9 @@ iii. by a child welfare authority outside Ontario.
 ### Restraining order
 
 137 (1) Instead of making an order under subsection 101 (1) or section 116 or in addition to making a temporary order under subsection 94 (2) or an order under subsection 101 (1) or section 116, the court may make one or more of the following orders in the child’s best interests:
+
 1. An order restraining or prohibiting a person’s access to or contact with the child, and may include in the order such directions as the court considers appropriate for implementing the order and protecting the child.
+
 2. An order restraining or prohibiting a person’s contact with the person who has lawful custody of the child following a temporary order made under subsection 94 (2) or an order made under subsection 101 (1) or clause 116 (1) (a) or (b).
 
 ### Notice
@@ -3485,34 +4379,47 @@ iii. by a child welfare authority outside Ontario.
 ### Duration of the order
 
 (3) An order made under subsection (1) shall continue in force for such period as the court considers in the best interests of the child and,
+
 (a) if the order is made in addition to a temporary order made under subsection 94 (2) or an order made under subsection 101 (1) or clause 116 (1) (a), (b) or (c), the order may provide that it continues in force, unless it is varied, extended or terminated by the court, as long as the temporary order made under subsection 94 (2) or the order made under subsection 101 (1) or clause 116 (1) (a), (b) or (c), as the case may be, remains in force; or
+
 (b) if the order is made instead of an order under subsection 101 (1) or clause 116 (1) (a), (b) or (c) or if the order is made in addition to an order under clause 116 (1) (d), the order may provide that it continues in force until it is varied or terminated by the court.
 
 ### Application for extension, variation or termination
 
 (4) An application for the extension, variation or termination of an order made under subsection (1) may be made by,
+
 (a) the person who is the subject of the order;
+
 (b) the child;
+
 (c) the person having charge of the child;
+
 (d) a society;
+
 (e) a Director; or
+
 (f) in the case of a First Nations, Inuk or Métis child, a person described in clause (a), (b), (c), (d) or (e) or a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### Order for extension, variation or termination
 
 (5) Where an application is made under subsection (4), the court may, in the child’s best interests,
+
 (a) extend the order for such period as the court considers to be in the best interests of the child, in the case of an order described in clause (3) (a); or
+
 (b) vary or terminate the order.
 
 ### Child in society’s care not to be returned while order in force
 
 (6) Where a society has care of a child and an order made under subsection (1) prohibiting a person’s access to the child is in force, the society shall not return the child to the care of,
+
 (a) the person named in the order; or
+
 (b) a person who may permit that person to have access to the child.
 
 ### Legal claim for recovery because of abuse
 
 138 (1) In this section,
+
 “to suffer abuse”, when used in reference to a child, means to be in need of protection within the meaning of clause 74 (2) (a), (c), (e), (f), (g) or (j).
 
 ### Recovery on child’s behalf
@@ -3530,36 +4437,55 @@ iii. by a child welfare authority outside Ontario.
 ### Offences re interfering, etc. with child in society supervision or care
 
 140 If a child is the subject of a temporary order for care and custody made under clause 94 (2) (b), (c) or (d) or an order for society supervision, interim society care or extended society care made under paragraph 1, 2 or 3 of subsection 101 (1) or clause 116 (1) (a) or (c), no person shall,
+
 (a) induce or attempt to induce the child to leave the care of the person with whom the child is placed by the court or by the society, as the case may be;
+
 (b) detain or harbour the child after the person or society referred to in clause (a) requires that the child be returned;
+
 (c) interfere with the child or remove or attempt to remove the child from any place; or
+
 (d) for the purpose of interfering with the child, visit or communicate with the person referred to in clause (a).
 
 ### Offences re false information, obstruction, etc.
 
 141 No person shall,
+
 (a) knowingly give false information in an application under this Part; or
+
 (b) obstruct, interfere with or attempt to obstruct or interfere with a child protection worker or a peace officer who is acting under section 77.1, 81, 83, 84, 85 or 86.
 
 ### Other offences
 
 142 (1) A person who contravenes,
+
 (a) an order for access made under subsection 104 (1);
+
 (b) subsection 130 (6) (disclosure of information);
+
 (c) subsection 133 (6) or (10) (confidentiality of child abuse register);
+
 (d) an order made under subsection 134 (8) (amendment of society’s records);
+
 (e) subsection 136 (3) or (4) (leaving child unattended, etc.);
+
 (f) a restraining order made under subsection 137 (1);
+
 (g) section 139 (unauthorized placement); or
+
 (h) clause 141 (a) (false information),
+
 (i) Repealed: 2021, c. 21, Sched. 3, s. 6 (1).
+
 and a director, officer or employee of a corporation who authorizes, permits or concurs in such a contravention by the corporation is guilty of an offence and on conviction is liable to a fine of not more than $5,000 or to imprisonment for a term of not more than one year, or to both.
 
 ### Same
 
 (1.1) A person who contravenes,
+
 (a) any provision of section 140 (interference with child, etc.); or
+
 (b) clause 141 (b) (obstruction, etc.),
+
 and a director, officer or employee of a corporation who authorizes, permits or concurs in such a contravention by the corporation is guilty of an offence and on conviction is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than two years, or to both.
 
 ### Offence of child abuse
@@ -3591,10 +4517,15 @@ and a director, officer or employee of a corporation who authorizes, permits or 
 ### Definitions
 
 144 In this Part,
+
 “bailiff” means a bailiff appointed under clause 146 (1) (c); (“huissier”)
+
 “Board” means the Custody Review Board continued under subsection 151 (1); (“Commission”)
+
 “probation officer” means,
+
 (a) a person appointed or designated by the Lieutenant Governor in Council or their delegate to perform any of the duties or functions of a youth worker under the Youth Criminal Justice Act (Canada), or
+
 (b) a probation officer appointed under clause 146 (1) (b); (“agent de probation”)
 
 ### Programs and Officers
@@ -3604,7 +4535,9 @@ and a director, officer or employee of a corporation who authorizes, permits or 
 ### Secure and open temporary detention programs
 
 145 (1) The Minister may establish the following in places of temporary detention:
+
 1. Secure temporary detention programs, in which restrictions are continuously imposed on the liberty of young persons by physical barriers, close staff supervision or limited access to the community.
+
 2. Open temporary detention programs, in which restrictions that are less stringent than in a secure temporary detention program are imposed on the liberty of young persons.
 
 ### Secure custody programs
@@ -3622,13 +4555,21 @@ and a director, officer or employee of a corporation who authorizes, permits or 
 ### Appointments by Minister
 
 146 (1) The Minister may appoint any person or class of persons as,
+
 (a) a provincial director, to perform any or all of the duties and functions of a provincial director,
+
 (i) under the Youth Criminal Justice Act (Canada), and
+
 (ii) under this Act and the regulations;
+
 (b) a probation officer, to perform any or all of the duties and functions,
+
 (i) of a youth worker under the Youth Criminal Justice Act (Canada),
+
 (ii) of a probation officer for purposes related to young persons under the Provincial Offences Act, and
+
 (iii) of a probation officer under this Act and the regulations; and
+
 (c) a bailiff, to perform any or all of the duties and functions of a bailiff under the regulations.
 
 ### Conditions or limitations on appointments
@@ -3642,7 +4583,9 @@ and a director, officer or employee of a corporation who authorizes, permits or 
 ### Designation of peace officers
 
 (4) The Minister may designate in writing,
+
 (a) a person who is an employee in the Ministry or is employed in a place of open custody, of secure custody or of temporary detention to be a peace officer while performing the person’s duties and functions; or
+
 (b) a class of persons, from among the persons described in clause (a), to be peace officers while performing their duties and functions.
 
 ### Conditions or limitations on designations
@@ -3656,7 +4599,9 @@ and a director, officer or employee of a corporation who authorizes, permits or 
 ### Reports and information
 
 147 A person in charge of a place of temporary detention, of open custody or of secure custody, a bailiff and a probation officer,
+
 (a) shall make the prescribed reports and provide the prescribed information to the Minister, in the prescribed form and at the prescribed intervals; and
+
 (b) shall make a report and provide information to the Minister whenever the Minister requests it.
 
 ### Temporary Detention
@@ -3670,14 +4615,23 @@ and a director, officer or employee of a corporation who authorizes, permits or 
 ### Where secure temporary detention available
 
 (2) A provincial director may detain a young person in a place of secure temporary detention if the provincial director is satisfied that it is necessary on one of the following grounds:
+
 1. The young person is charged with an offence for which an adult would be liable to imprisonment for five years or more and,
+
 i. the offence includes causing or attempting to cause serious bodily harm to another person,
+
 ii. the young person has, at any time, failed to appear in court when required to do so under the Youth Criminal Justice Act (Canada) or escaped or attempted to escape from lawful detention, or
+
 iii. the young person has, within the 12 months immediately preceding the offence on which the current charge is based, been convicted of an offence for which an adult would be liable to imprisonment for five years or more.
+
 2. The young person is detained in a place of temporary detention and leaves or attempts to leave without the consent of the person in charge or is charged with having escaped or attempting to escape from lawful custody or being unlawfully at large under the Criminal Code (Canada).
+
 3. The provincial director is satisfied, having regard to all the circumstances, including any substantial likelihood the young person will commit a criminal offence or interfere with the administration of justice if placed in a place of open temporary detention, that it is necessary to detain the young person in a place of secure temporary detention,
+
 i. to ensure the young person’s attendance at court,
+
 ii. for the protection and safety of the public, or
+
 iii. for the safety or security within a place of temporary detention.
 
 ### Until return to secure custody
@@ -3699,7 +4653,9 @@ iii. for the safety or security within a place of temporary detention.
 ### Application for return to secure temporary detention
 
 (7) A provincial director may apply to a youth justice court for a review of an order directing that a young person be transferred to a place of open temporary detention under subsection (6) on the basis that it is necessary that the young person be returned to a place of secure temporary detention because of either of the following:
+
 1. A material change in the circumstances.
+
 2. Any other grounds that the provincial director considers appropriate.
 
 ### Powers of youth justice court
@@ -3717,8 +4673,11 @@ iii. for the safety or security within a place of temporary detention.
 ### Open custody for provincial offences
 
 (2) Where a young person is sentenced to a term of imprisonment under the Provincial Offences Act,
+
 (a) the term of imprisonment shall be served in a place of open custody, subject to subsections (3) and (4);
+
 (b) section 91 (reintegration leave) of the Youth Criminal Justice Act (Canada) applies with necessary modifications; and
+
 (c) sections 28 (remission) and 28.1 (determinations of remission) and Part III (Ontario Parole and Earned Release Board) of the Ministry of Correctional Services Act apply with necessary modifications.
 
 ### Transfer to place of secure custody
@@ -3732,7 +4691,9 @@ iii. for the safety or security within a place of temporary detention.
 ### Young persons in open custody
 
 150 Where a young person is sentenced to a term of imprisonment for breach of probation under clause 75 (d) of the Provincial Offences Act, to be served in open custody as set out in section 103 of that Act,
+
 (a) the young person shall be held in a place of open custody specified by a provincial director; and
+
 (b) the provisions of section 91 (reintegration leave) of the Youth Criminal Justice Act (Canada) apply with necessary modifications.
 
 ### Custody Review Board
@@ -3764,8 +4725,11 @@ iii. for the safety or security within a place of temporary detention.
 ### Application to Board
 
 152 (1) A young person may apply to the Board for a review of,
+
 (a) the particular place where the young person is held or to which the young person has been transferred;
+
 (b) a provincial director’s refusal to authorize the young person’s reintegration leave under section 91 of the Youth Criminal Justice Act (Canada); or
+
 (c) the young person’s transfer from a place of open custody to a place of secure custody under subsection 24.2 (9) of the Young Offenders Act (Canada) in accordance with section 88 of the Youth Criminal Justice Act (Canada).
 
 ### 30 day time limit
@@ -3787,16 +4751,23 @@ iii. for the safety or security within a place of temporary detention.
 ### Time period for review
 
 (6) The Board shall complete its review and make a determination within 30 days of receiving a young person’s application, unless,
+
 (a) the Board holds a hearing with respect to the application; and
+
 (b) the young person and the provincial director whose decision is being reviewed consent to a longer period for the Board’s determination.
 
 ### Board’s recommendations
 
 (7) After conducting a review under subsection (3), the Board may,
+
 (a) recommend to the provincial director,
+
 (i) where the Board is of the opinion that the place where the young person is held or to which the young person has been transferred is not appropriate to meet the young person’s needs, that the young person be transferred to another place,
+
 (ii) that the young person’s reintegration leave be authorized under section 91 of the Youth Criminal Justice Act (Canada), or
+
 (iii) where the young person has been transferred as described in clause (1) (c), that the young person be returned to a place of open custody; or
+
 (b) confirm the decision, placement or transfer.
 
 ### Apprehension of Young Persons who are Absent from Custody without Permission
@@ -3810,8 +4781,11 @@ iii. for the safety or security within a place of temporary detention.
 ### Apprehension of young person absent from place of open custody
 
 (2) A peace officer, the person in charge of a place of open custody or that person’s delegate, who believes on reasonable and probable grounds that a young person held in a place of open custody as described in section 150,
+
 (a) has left the place without the consent of the person in charge and fails or refuses to return there; or
+
 (b) fails or refuses to return to the place of open custody upon completion of a period of reintegration leave under clause 150 (b),
+
 may apprehend the young person with or without a warrant and take the young person or arrange for the young person to be taken to a place of open custody or a place of temporary detention.
 
 ### Young person to be returned within 48 hours
@@ -3821,8 +4795,11 @@ may apprehend the young person with or without a warrant and take the young pers
 ### Warrant to apprehend young person
 
 (4) A justice of the peace who is satisfied on the basis of a sworn information that there are reasonable and probable grounds to believe that a young person held in a place of temporary detention or open custody,
+
 (a) has left the place without the consent of the person in charge and fails or refuses to return there; or
+
 (b) fails or refuses to return to a place of open custody upon completion of a period of reintegration leave under clause 150 (b),
+
 may issue a warrant authorizing a peace officer, the person in charge of the place of temporary detention or open custody or that person’s delegate to apprehend the young person.
 
 ### Authority to enter, etc.
@@ -3848,9 +4825,13 @@ may issue a warrant authorizing a peace officer, the person in charge of the pla
 ### Permissible searches
 
 155 (1) The person in charge of a place of open custody, of secure custody or of temporary detention may authorize a search, to be carried out in accordance with the regulations, of the following:
+
 1. The place of open custody, of secure custody or of temporary detention.
+
 2. The person of any young person or any other person on the premises of the place of open custody, of secure custody or of temporary detention.
+
 3. The property of any young person or any other person on the premises of the place of open custody, of secure custody or of temporary detention.
+
 4. Any vehicle entering or on the premises of the place of open custody, of secure custody or of temporary detention.
 
 ### Contraband
@@ -3860,9 +4841,13 @@ may issue a warrant authorizing a peace officer, the person in charge of the pla
 ### Meaning of contraband
 
 (3) For the purposes of subsection (2),
+
 “contraband” means,
+
 (a) anything that a young person is not authorized to have,
+
 (b) anything that a young person is authorized to have but in a place where they are not authorized to have it, and
+
 (c) anything that a young person is authorized to have but that is being used for a purpose for which they are not authorized to use it.
 
 ### Mechanical Restraints
@@ -3872,17 +4857,25 @@ may issue a warrant authorizing a peace officer, the person in charge of the pla
 ### Limits on use
 
 156 (1) The person in charge of a place of secure custody or of secure temporary detention shall ensure that no young person who is detained in the place of secure custody or of secure temporary detention is,
+
 (a) restrained by the use of mechanical restraints, other than in accordance with this section and the regulations;
+
 (b) restrained by the use of mechanical restraints as a means of punishment.
 
 ### Conditions for use
 
 (2) The person in charge of a place of secure custody or of secure temporary detention may authorize the use of mechanical restraints on a young person who is detained in the place of secure custody or of secure temporary detention only if all of the following are satisfied:
+
 1. There is an imminent risk, if mechanical restraints were not used, that:
+
 i. the young person or another person would suffer physical injury,
+
 ii the young person would escape the place of secure custody or of secure temporary detention, or
+
 iii. the young person would cause significant property damage.
+
 2. Alternatives to the use of mechanical restraints would not be, or have not been, effective to reduce or eliminate the risk referred to in paragraph 1.
+
 3. The use of the mechanical restraints is reasonably necessary to reduce or eliminate the risk referred to in paragraph 1.
 
 ### Exception for transportation
@@ -3894,14 +4887,23 @@ iii. the young person would cause significant property damage.
 ### Definitions
 
 157 In this Part,
+
 “administrator” means the person in charge of a secure treatment program; (“administrateur”)
+
 “intrusive procedure” means,
+
 (a) the use of mechanical restraints,
+
 (b) an aversive stimulation technique, or
+
 (c) any other procedure that is prescribed as an intrusive procedure; (“technique d’ingérence”)
+
 “mental disorder” means a substantial disorder of emotional processes, thought or cognition which grossly impairs a person’s capacity to make reasoned judgments; (“trouble mental”)
+
 “psychotropic drug” means a drug or combination of drugs prescribed as a psychotropic drug; (“psychotrope”)
+
 “secure de-escalation room” means a locked room approved under subsection 173 (1) for use for the de-escalation of situations and behaviour involving children or young persons; (“pièce de désescalade sous clé”)
+
 “secure treatment program” means a program established or approved by the Minister under subsection 158 (1). (“programme de traitement en milieu fermé”)
 
 ### Secure Treatment Programs
@@ -3911,8 +4913,11 @@ iii. the young person would cause significant property damage.
 ### Minister may establish or approve programs
 
 158 (1) The Minister may,
+
 (a) establish, operate and maintain; or
+
 (b) approve,
+
 programs for the treatment of children with mental disorders, in which continuous restrictions are imposed on the liberty of the children.
 
 ### Terms and conditions
@@ -3938,13 +4943,17 @@ programs for the treatment of children with mental disorders, in which continuou
 ### Limitations
 
 (3) An administrator shall ensure that mechanical restraints are not used on a child in a secure treatment program except,
+
 (a) in accordance with this Part, the policies established under subsection (4) and the regulations; and
+
 (b) in an emergency situation under the common law duty of a caregiver to restrain or confine a person when immediate action is necessary to prevent serious bodily harm to the person or others.
 
 ### Policy
 
 (4) A service provider that is approved to provide a secure treatment program shall,
+
 (a) establish a policy on the use of mechanical restraints that complies with this Act and the regulations; and
+
 (b) ensure that the administrator and the employees of the program comply with the policy.
 
 ### Commitment to Secure Treatment
@@ -3952,14 +4961,23 @@ programs for the treatment of children with mental disorders, in which continuou
 ### Application for order for child’s commitment
 
 161 (1) Any one of the following persons may, with the administrator’s written consent, apply to the court for an order for the child’s commitment to a secure treatment program:
+
 1. Where the child is younger than 16,
+
 i. the child’s parent,
+
 ii. a person other than an administrator who is caring for the child, if the child’s parent consents to the application, or
+
 iii. a society that has custody of the child under an order made under Part V (Child Protection).
+
 2. Where the child is 16 or older,
+
 i. the child,
+
 ii. the child’s parent, if the child consents to the application,
+
 iii. a society that has custody of the child under an order made under Part V (Child Protection), if the child consents to the application, or
+
 iv. a physician.
 
 ### Time for hearing
@@ -3989,7 +5007,9 @@ iv. a physician.
 ### Child entitled to be present
 
 (8) The child who is the subject of an application under subsection (1) is entitled to be present at the hearing unless,
+
 (a) the court is satisfied that being present at the hearing would cause the child emotional harm; or
+
 (b) the child, after obtaining legal advice, consents in writing to the holding of the hearing without the child’s presence.
 
 ### Court may require child’s presence
@@ -4023,12 +5043,19 @@ iv. a physician.
 ### Copies of report
 
 (4) The court shall provide a copy of the report to,
+
 (a) the applicant;
+
 (b) the child, subject to subsection (6);
+
 (c) the child’s lawyer;
+
 (d) a parent appearing at the hearing;
+
 (e) a society that has custody of the child under an order made under Part V (Child Protection);
+
 (f) the administrator; and
+
 (g) in the case of a First Nations, Inuk or Métis child, the persons described in clauses (a), (b), (c), (d), (e) and (f) and a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### Same
@@ -4042,17 +5069,29 @@ iv. a physician.
 ### Commitment to secure treatment: criteria
 
 164 (1) The court may order that a child be committed to a secure treatment program only where the court is satisfied that,
+
 (a) the child has a mental disorder;
+
 (b) the child has, as a result of the mental disorder, within the 45 days immediately preceding,
+
 (i) the application under subsection 161 (1),
+
 (ii) the child’s detention or custody under the Youth Criminal Justice Act (Canada) or under the Provincial Offences Act, or
+
 (iii) the child’s admission to a psychiatric facility under the Mental Health Act as an involuntary patient,
+
 caused or attempted to cause serious bodily harm to themself or another person;
+
 (c) the child has,
+
 (i) within the 12 months immediately preceding the application, but on another occasion than that referred to in clause (b), caused, attempted to cause or by words or conduct made a substantial threat to cause serious bodily harm to themself or another person, or
+
 (ii) in committing the act or attempt referred to in clause (b), caused or attempted to cause a person’s death;
+
 (d) the secure treatment program would be effective to prevent the child from causing or attempting to cause serious bodily harm to themself or another person;
+
 (e) treatment appropriate for the child’s mental disorder is available at the place of secure treatment to which the application relates; and
+
 (f) no less restrictive method of providing treatment appropriate for the child’s mental disorder is appropriate in the circumstances.
 
 ### Where child younger than 12
@@ -4070,8 +5109,11 @@ caused or attempted to cause serious bodily harm to themself or another person;
 ### Where society is applicant
 
 (2) Where a child is committed to a secure treatment program on a society’s application and the period specified in the court’s order is greater than 60 days, the child shall be released on a day 60 days after the child’s admission to the secure treatment program unless before that day,
+
 (a) the child’s parent consents to the child’s commitment for a longer period; or
+
 (b) the child is made the subject of an order for interim society care under paragraph 2 of subsection 101 (1) or for extended society care under paragraph 3 of subsection 101 (1) or clause 116 (1) (c),
+
 but in no case shall the child be committed to the secure treatment program for longer than the period specified under subsection (1).
 
 ### How time calculated
@@ -4085,8 +5127,11 @@ but in no case shall the child be committed to the secure treatment program for 
 ### Reasons, plans, etc.
 
 166 (1) Where the court makes an order under subsection 164 (1) or 167 (5), the court shall give,
+
 (a) reasons for its decision;
+
 (b) a statement of the plan, if any, for the child’s care on release from the secure treatment program; and
+
 (c) a statement of the less restrictive alternatives considered by the court, and the reasons for rejecting them.
 
 ### Plan for care on release
@@ -4098,17 +5143,25 @@ but in no case shall the child be committed to the secure treatment program for 
 ### Extension
 
 167 (1) Where a child is the subject of an order made under subsection 164 (1) (commitment) or subsection (5),
+
 (a) a person referred to in subsection 161 (1), with the administrator’s written consent; or
+
 (b) the administrator, with a parent’s written consent or, where the child is in a society’s lawful custody, the society’s consent,
+
 may, before the expiry of the period of commitment, apply for an order extending the child’s commitment to the secure treatment program.
 
 ### Same
 
 (2) Where a person is kept in the secure treatment program under subsection 165 (4) after turning 18,
+
 (a) the person, with the written consent of the administrator;
+
 (b) the person’s parent, with the written consent of the person and the administrator;
+
 (c) a physician, with the written consent of the administrator and the person; or
+
 (d) the administrator, with the written consent of the person,
+
 may, before the expiry of the period of commitment, apply for one further order extending the person’s commitment to the secure treatment program.
 
 ### Person may be kept in program while application pending
@@ -4122,10 +5175,15 @@ may, before the expiry of the period of commitment, apply for one further order 
 ### Criteria for extension
 
 (5) The court may make an order extending a child’s commitment to a secure treatment program only where the court is satisfied that,
+
 (a) the child has a mental disorder;
+
 (b) the secure treatment program would be effective to prevent the child from causing or attempting to cause serious bodily harm to themself or another person;
+
 (c) no less restrictive method of providing treatment appropriate for the child’s mental disorder is appropriate in the circumstances;
+
 (d) the child is receiving the treatment proposed at the time of the original order under subsection 164 (1), or other appropriate treatment; and
+
 (e) there is an appropriate plan for the child’s care on release from the secure treatment program.
 
 ### Period of extension
@@ -4139,9 +5197,13 @@ may, before the expiry of the period of commitment, apply for one further order 
 ### Unconditional release by administrator
 
 168 (1) The administrator may release a child from a secure treatment program unconditionally where the administrator,
+
 (a) has given the person with lawful custody of the child reasonable notice of the intention to release the child; and
+
 (b) is satisfied that,
+
 (i) the child no longer requires the secure treatment program, and
+
 (ii) there is an appropriate plan for the child’s care on release from the secure treatment program.
 
 ### Conditional release
@@ -4157,8 +5219,11 @@ may, before the expiry of the period of commitment, apply for one further order 
 ### Review of commitment
 
 169 (1) Any one of the following persons may apply to the court for an order terminating an order made under subsection 164 (1) (commitment) or 167 (5) (extension):
+
 1. The child, where the child is 12 or older.
+
 2. The child’s parent.
+
 3. The society having care, custody or supervision of the child.
 
 ### ss. 161 (3), (6-9), 162, 163 apply
@@ -4168,9 +5233,13 @@ may, before the expiry of the period of commitment, apply for one further order 
 ### Termination of order
 
 (3) The court shall make an order terminating a child’s commitment unless the court is satisfied that,
+
 (a) the child has a mental disorder;
+
 (b) the secure treatment program would continue to be effective to prevent the child from causing or attempting to cause serious bodily harm to themself or another person;
+
 (c) no less restrictive method of providing treatment appropriate for the child’s mental disorder is appropriate in the circumstances; and
+
 (d) the child is receiving the treatment proposed at the time of the most recent order under subsection 164 (1) or 167 (5), or other appropriate treatment.
 
 ### Same
@@ -4186,31 +5255,49 @@ may, before the expiry of the period of commitment, apply for one further order 
 ### Emergency admission
 
 171 (1) Any one of the following persons may apply to the administrator for the emergency admission of a child to a secure treatment program:
+
 1. Where the child is younger than 16,
+
 i. the child’s parent,
+
 ii. a person who is caring for the child with a parent’s consent,
+
 iii. a child protection worker who brought the child to a place of safety under section 81, or
+
 iv. a society that has custody of the child under an order made under Part V (Child Protection).
+
 2. Where the child is 16 or older,
+
 i. the child,
+
 ii. the child’s parent, if the child consents to the application,
+
 iii. a society that has custody of the child under an order made under Part V (Child Protection), if the child consents to the application, or
+
 iv. a physician.
 
 ### Criteria for admission
 
 (2) The administrator may admit a child to the secure treatment program on an application under subsection (1) for a period not to exceed 30 days where the administrator believes on reasonable grounds that,
+
 (a) the child has a mental disorder;
+
 (b) the child has, as a result of the mental disorder, caused, attempted to cause or by words or conduct made a substantial threat to cause serious bodily harm to themself or another person;
+
 (c) the secure treatment program would be effective to prevent the child from causing or attempting to cause serious bodily harm to themself or another person;
+
 (d) treatment appropriate for the child’s mental disorder is available at the place of secure treatment to which the application relates; and
+
 (e) no less restrictive method of providing treatment appropriate for the child’s mental disorder is appropriate in the circumstances.
 
 ### Admission on consent
 
 (3) The administrator may admit the child under subsection (2) although the criterion set out in clause (2) (b) is not met, where,
+
 (a) the other criteria set out in subsection (2) are met;
+
 (b) the child, after obtaining legal advice, consents to the admission; and
+
 (c) if the child is younger than 16, the child’s parent or, where the child is in a society’s lawful custody, the society consents to the child’s admission.
 
 ### Where child younger than 12
@@ -4224,7 +5311,9 @@ iv. a physician.
 ### Notices required
 
 (6) The administrator shall ensure that within 24 hours after a child is admitted to a secure treatment program under subsection (2),
+
 (a) the child is given written notice of the child’s right to a review under subsection (9); and
+
 (b) the Children’s Lawyer and the prescribed person, if any, are given notice of the admission.
 
 ### Mandatory advice
@@ -4262,7 +5351,9 @@ iv. a physician.
 ### Police may take child for secure treatment
 
 172 (1) A peace officer may take a child to a place where there is a secure treatment program,
+
 (a) for emergency admission, at the request of an applicant referred to in subsection 171 (1); or
+
 (b) where an order for the child’s commitment to the secure treatment program has been made under section 164.
 
 ### Apprehension of child who leaves
@@ -4294,9 +5385,13 @@ iv. a physician.
 ### Criteria for use of a secure de-escalation room
 
 (3) A child or young person may be placed in a secure de-escalation room where,
+
 (a) in the service provider’s opinion,
+
 (i) the child’s or young person’s conduct indicates that the child or young person is likely, in the immediate future, to cause serious property damage or to cause another person serious bodily harm, and
+
 (ii) no less restrictive method of restraining the child or young person is practicable; and
+
 (b) where the child is younger than 12, a Director gives permission for the child to be placed in a secure de-escalation room because of exceptional circumstances.
 
 ### One-hour limit
@@ -4322,17 +5417,25 @@ iv. a physician.
 ### Exception
 
 (9) A service provider is not required to comply with subsections (5) and (8) with respect to a young person who is 16 or older and who is held in a place of secure custody or of secure temporary detention, but a service provider shall comply with the following standards and procedures and with any additional standards and procedures that may be prescribed:
+
 1. The young person must be observed every 15 minutes by a responsible person and these observations must be recorded in the young person’s case record.
+
 2. The service provider must determine whether, given the needs of the young person, the young person should be observed at regular intervals that are more frequent than every 15 minutes, and, if that determination is made, the young person must be observed by a responsible person at the more frequent intervals determined by the service provider and these observations must be recorded in the young person’s case record.
+
 3. The young person must not be kept in a secure de-escalation room for a continuous period in excess of 24 hours or for a period or periods that exceed an aggregate of 24 hours in a seven-day period.
+
 4. Despite paragraph 3, the service provider may extend a young person’s placement in a secure de-escalation room for a continuous period beyond 24 hours or for an aggregate of more than 24 hours in a given seven-day period, if the provincial director approves the extension.
+
 5. The provincial director may approve the extension of the placement of a young person in a secure de-escalation room beyond 24 continuous hours or beyond an aggregate of 24 hours in a given seven-day period if the provincial director has reasonable and probable grounds to believe that the young person’s continued placement in a secure de-escalation room is necessary for the safety of staff or young persons in the facility.
 
 ### Review of use of secure de-escalation
 
 175 A person in charge of premises containing a secure de-escalation room shall review,
+
 (a) the need for the secure de-escalation room; and
+
 (b) the prescribed matters,
+
 every three months or, in the case of secure custody or secure temporary detention, every six months from the date on which the secure de-escalation room is approved under subsection 173 (1), shall make a written report of each review to a Director and shall make such additional reports as are prescribed.
 
 ### Psychotropic Drugs
@@ -4346,8 +5449,11 @@ every three months or, in the case of secure custody or secure temporary detenti
 ### Professional Advisory Board
 
 177 (1) The Minister may establish a Professional Advisory Board, composed of physicians and other professionals who,
+
 (a) have special knowledge in the use of intrusive procedures and psychotropic drugs;
+
 (b) have demonstrated an informed concern for the welfare and interests of children; and
+
 (c) are not employed in the Ministry.
 
 ### Chair
@@ -4357,12 +5463,19 @@ every three months or, in the case of secure custody or secure temporary detenti
 ### Duties of Board
 
 (3) The Professional Advisory Board shall, at the Minister’s request,
+
 (a) advise the Minister on prescribing procedures as intrusive procedures;
+
 (b) investigate and review the use of intrusive procedures and psychotropic drugs and make recommendations to the Minister; and
+
 (c) review the practices and procedures of service providers with respect to,
+
 (i) secure de-escalation,
+
 (ii) intrusive procedures, and
+
 (iii) psychotropic drugs,
+
 and make recommendations to the Minister.
 
 ### Request for review
@@ -4376,33 +5489,57 @@ and make recommendations to the Minister.
 ### Interpretation
 
 179 (1) In this Part,
+
 “birth parent” means a person who satisfies the prescribed criteria; (“parent de naissance”)
+
 “birth relative” means,
+
 (a) in respect of a child who has not been adopted, a relative of the child, and
+
 (b) in respect of a child who has been adopted, a person who would have been a relative of the child if the child had not been adopted; (“membre de la parenté de naissance”)
+
 “birth sibling” means, in respect of a person, a child of the same birth parent as the person, and includes a child adopted by the birth parent and a person whom the birth parent has demonstrated a settled intention to treat as a child of their family; (“frère ou soeur de naissance”)
+
 “openness agreement” means an agreement referred to in section 212; (“accord de communication”)
+
 “openness order” means an order made by a court in accordance with this Act for the purposes of facilitating communication or maintaining a relationship between the child and,
+
 (a) a birth parent, birth sibling or birth relative of the child,
+
 (b) a person with whom the child has a significant relationship or emotional tie, including a foster parent of the child or a member of the child’s extended family or community, or
+
 (c) in the case of a First Nations, Inuk or Métis child,
+
 (i) a person described in clause (a) or (b), or
+
 (ii) a member of the child’s bands and First Nations, Inuit or Métis communities who may not have had a significant relationship or emotional tie with the child in the past but will help the child to develop or maintain a connection with the child’s First Nations, Inuit or Métis cultures, heritages and traditions and to preserve the child’s cultural identity and connection to community; (“ordonnance de communication”)
+
 “spouse” has the same meaning as in Parts I and II of the Human Rights Code. (“conjoint”)
 
 ### Best interests of child
 
 (2) Where a person is directed in this Part to make an order or determination in the best interests of a child, the person shall,
+
 (a) consider the child’s views and wishes, given due weight in accordance with the child’s age and maturity, unless they cannot be ascertained;
+
 (b) in the case of a First Nations, Inuk or Métis child, consider the importance, in recognition of the uniqueness of First Nations, Inuit and Métis cultures, heritages and traditions, of preserving the child’s cultural identity and connection to community, in addition to the considerations under clauses (a) and (c); and
+
 (c) consider any other circumstance of the case that the person considers relevant, including,
+
 (i) the child’s physical, mental and emotional needs, and the appropriate care or treatment to meet those needs,
+
 (ii) the child’s physical, mental and emotional level of development,
+
 (iii) the child’s race, ancestry, place of origin, colour, ethnic origin, citizenship, family diversity, disability, creed, sex, sexual orientation, gender identity and gender expression,
+
 (iv) the child’s cultural and linguistic heritage,
+
 (v) the importance for the child’s development of a positive relationship with a parent and a secure place as a member of a family,
+
 (vi) the child’s relationships and emotional ties to a parent, sibling, relative, other member of the child’s extended family or member of the child’s community,
+
 (vii) the importance of continuity in the child’s care and the possible effect on the child of disruption of that continuity, and
+
 (viii) the effects on the child of delay in the disposition of the case.
 
 ### Consent to Adoption
@@ -4410,20 +5547,31 @@ and make recommendations to the Minister.
 ### Consents
 
 180 (1) In this section,
+
 “parent”, when used in reference to a child, means each of the following persons, but does not include a licensee or a foster parent:
+
 1. A parent of the child under section 6, 8, 9, 10, 11 or 13 of the Children’s Law Reform Act.
+
 2. In the case of a child conceived through sexual intercourse, an individual described in one of paragraphs 1 to 5 of subsection 7 (2) of the Children’s Law Reform Act, unless it is proved on a balance of probabilities that the sperm used to conceive the child did not come from the individual.
+
 3. An individual who has been found or recognized by a court of competent jurisdiction outside Ontario to be a parent of the child.
+
 4. In the case of an adopted child, a parent of the child as provided for under section 217 or 218 of this Act.
+
 5. An individual who has lawful custody of the child.
+
 6. An individual who, during the 12 months before the child is placed for adoption under this Part, has demonstrated a settled intention to treat the child as a child of the individual’s family, or has acknowledged parentage of the child and provided for the child’s support.
+
 7. An individual who, under a written agreement or a court order, is required to provide for the child, has custody of the child or has a right of access to the child.
+
 8. An individual who acknowledged parentage of the child by filing a statutory declaration under section 12 of the Children’s Law Reform Act as it read before the day subsection 1 (1) of the All Families Are Equal Act (Parentage and Related Registrations Statute Law Amendment), 2016 came into force.
 
 ### Consent of parent, etc.
 
 (2) An order for the adoption of a child who is younger than 16, or is 16 or older but has not withdrawn from parental control, shall not be made without,
+
 (a) the written consent of every parent; or
+
 (b) where the child is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c), the written consent of a Director.
 
 ### Same
@@ -4433,18 +5581,27 @@ and make recommendations to the Minister.
 ### Same
 
 (4) Where a child is being placed for adoption by a society or licensee, a consent under clause (2) (a) shall not be given until,
+
 (a) the society or licensee has advised the parent of the parent’s right,
+
 (i) to withdraw the consent under subsection (8), and
+
 (ii) to be informed, on their request, whether an adoption order has been made in respect of the child;
+
 (b) the society or licensee has advised the parent of such other matters as may be prescribed; and
+
 (c) the society or licensee has given the parent an opportunity to seek counselling and independent legal advice with respect to the consent.
 
 ### Custody of child
 
 (5) Where,
+
 (a) a child is being placed for adoption by a society or licensee;
+
 (b) every consent required under subsection (2) has been given and has not been withdrawn under subsection (8); and
+
 (c) the 21-day period referred to in subsection (8) has expired,
+
 the rights and responsibilities of the child’s parents with respect to the child’s custody, care and control are transferred to the society or licensee, until the consent is withdrawn under subsection 182 (1) (late withdrawal with leave of court) or an order is made for the child’s adoption under section 199.
 
 ### Consent of person to be adopted
@@ -4462,7 +5619,9 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Dispensing with person’s consent
 
 (9) The court may dispense with a person’s consent required under subsection (6) where the court is satisfied that,
+
 (a) obtaining the consent would cause the person emotional harm; or
+
 (b) the person is not able to consent because of a developmental disability.
 
 ### Consent of applicant’s spouse
@@ -4484,7 +5643,9 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Dispensing with consent
 
 181 The court may dispense with a consent required under section 180 for the adoption of a child, except the consent of the child or of a Director, where the court is satisfied that,
+
 (a) it is in the child’s best interests to do so; and
+
 (b) the person whose consent is required has received notice of the proposed adoption and of the application to dispense with consent, or a reasonable effort to give the notice has been made.
 
 ### Late withdrawal of consent
@@ -4500,7 +5661,9 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Only societies and licensees may place children, etc.
 
 183 (1) No person except a society or licensee shall,
+
 (a) place a child with another person for adoption; or
+
 (b) take, send or attempt to take or send a child who is a resident of Ontario out of Ontario to be placed for adoption.
 
 ### Only societies and certain licensees may bring children into Ontario
@@ -4510,13 +5673,17 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Director’s approval of proposed placement
 
 (3) No licensee except a licensee exempted under subsection (6) shall do the following without first obtaining a Director’s approval of the proposed placement under section 188:
+
 1. Place a child who is a resident of Canada with another person for adoption.
+
 2. Take, send or attempt to take or send a child who is a resident of Ontario out of Ontario to be placed for adoption.
 
 ### Placement of child from outside Canada
 
 (4) No licensee described in subsection (2) shall bring a child who is not a resident of Canada into Ontario to be placed for adoption without,
+
 (a) first obtaining a Director’s approval of the person with whom the child is to be placed as eligible and suitable to adopt under section 189; and
+
 (b) after the approval referred to in clause (a) is obtained, obtaining a Director’s approval of the proposed placement under section 190.
 
 ### Director’s approval required
@@ -4538,13 +5705,17 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Exception: family adoptions within Canada, etc.
 
 (9) Subsections (1), (2), (3), (5), (7) and (8) do not apply to,
+
 (a) the placement for adoption of a child with the child’s relative, the child’s parent or a spouse of the child’s parent, if the child to be placed is a resident of Canada and the placement is within Ontario; or
+
 (b) the taking or sending of a child out of Ontario for adoption by the child’s relative, the child’s parent or a spouse of the child’s parent, if the placement is within Canada.
 
 ### Limitation on placement by society
 
 184 A society shall not place a child who is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c) for adoption until,
+
 (a) the time for commencing an appeal of the order has expired; or
+
 (b) any appeal of the order has been finally disposed of or abandoned.
 
 ### Adoption planning
@@ -4562,13 +5733,17 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Care plan proposed by band or community
 
 (2) If a representative chosen by each of the child’s bands or First Nations, Inuit or Métis communities receives notice under subsection (1), each band and community may, within 60 days of the representative receiving the notice,
+
 (a) prepare its own plan for the care of the child; and
+
 (b) submit its plan to the society.
 
 ### Condition for placement
 
 (3) A society shall not place a First Nations, Inuk or Métis child with another person for adoption until,
+
 (a) at least 60 days after notice is given to a representative chosen by each of the bands and First Nations, Inuit or Métis communities have elapsed; or
+
 (b) if a band or First Nations, Inuit or Métis community has submitted a plan for the care of the child, the society has considered the plan.
 
 ### First Nations, Inuk or Métis child, openness, etc.
@@ -4578,7 +5753,9 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Openness agreement or openness order
 
 (2) For the purposes of subsection (1), the society shall include consideration of the benefits of,
+
 (a) an openness agreement in respect of the child and a member of the child’s bands and First Nations, Inuit or Métis communities; or
+
 (b) where the child is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c), an openness order in respect of the child and a representative of the child’s bands and First Nations, Inuit or Métis communities.
 
 ### Child from inside Canada: proposed placement
@@ -4592,16 +5769,23 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Review by Director
 
 (3) The Director shall review the report of the adoption homestudy promptly and,
+
 (a) approve the proposed placement;
+
 (b) approve the proposed placement subject to any conditions the Director considers appropriate, including supervision by,
+
 (i) a specified society, licensee or person, or
+
 (ii) in the case of a placement outside Ontario, a specified child welfare authority recognized in the jurisdiction of the placement or a prescribed person; or
+
 (c) refuse to approve the proposed placement.
 
 ### Notice
 
 (4) The Director shall promptly give notice of the approval, the approval subject to conditions or the refusal, as the case may be,
+
 (a) to the person with whom the placement is proposed; and
+
 (b) to the licensee.
 
 ### Right to hearing
@@ -4615,7 +5799,9 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Extension of time
 
 (7) If the Board is satisfied that there are reasonable grounds for the person with whom placement is proposed or the licensee to apply for an extension of the time fixed for requiring the hearing and for the Board to grant relief, it may,
+
 (a) extend the time either before or after the expiration of the time; and
+
 (b) give the directions that it considers proper as a result of extending the time.
 
 ### Recording of evidence
@@ -4637,14 +5823,19 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Review by Director
 
 (3) The Director shall review the report of the adoption homestudy promptly and,
+
 (a) approve the person unconditionally as eligible and suitable to adopt;
+
 (b) approve the person subject to any conditions the Director considers appropriate; or
+
 (c) refuse to approve the person.
 
 ### Notice
 
 (4) The Director shall promptly give notice of the approval, the approval subject to conditions or the refusal, as the case may be,
+
 (a) to the person who is the subject of the homestudy; and
+
 (b) to the licensee.
 
 ### Right to hearing
@@ -4654,7 +5845,9 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Application of other provisions
 
 (6) The following provisions apply to the hearing:
+
 1. Sections 233 (hearings), 234 (review of conditions), 266 (parties) and 267 (appeal), with necessary modifications and for that purpose references to the Tribunal are deemed to be references to the Board.
+
 2. Subsections 188 (7) (extension of time) and (8) (recording of evidence).
 
 ### Child from outside Canada: review of proposed placement
@@ -4664,14 +5857,19 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Review by Director
 
 (2) The Director shall promptly review the proposed placement and,
+
 (a) approve the proposed placement unconditionally;
+
 (b) approve the proposed placement subject to any conditions the Director considers appropriate, including supervision by a specified society, licensee or person; or
+
 (c) refuse to approve the proposed placement.
 
 ### Notice
 
 (3) The Director shall promptly give notice of the approval, the approval subject to conditions or the refusal, as the case may be,
+
 (a) to the person with whom the placement is proposed; and
+
 (b) to the licensee.
 
 ### Right to hearing
@@ -4681,7 +5879,9 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Application of other provisions
 
 (5) The following provisions apply to the hearing:
+
 1. Sections 233 (hearings), 234 (review of conditions), 266 (parties) and 267 (appeal), with necessary modifications and for that purpose references to the Tribunal are deemed to be references to the Board.
+
 2. Subsections 188 (7) (extension of time) and (8) (recording of evidence).
 
 ### Access orders terminate
@@ -4691,7 +5891,9 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### No interference, etc., with child in placement
 
 (2) Where a child has been placed for adoption by a society or licensee and no adoption order has been made, no person shall,
+
 (a) interfere with the child; or
+
 (b) for the purpose of interfering with the child, visit or communicate with the child or with the person with whom the child has been placed.
 
 ### Decision to Refuse to Place Child or to Remove Child after Placement
@@ -4699,16 +5901,23 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Decision of society or licensee
 
 192 (1) This section applies if,
+
 (a) a society decides to refuse an application to adopt a particular child made by a foster parent or other person; or
+
 (b) a society or licensee decides to remove a child who has been placed with a person for adoption.
 
 ### Notice of decision
 
 (2) The society or licensee who makes a decision referred to in subsection (1) shall,
+
 (a) give at least 10 days notice in writing of the decision to the person who applied to adopt the child or with whom the child had been placed for adoption;
+
 (b) include in the notice under clause (a) notice of the person’s right to apply for a review of the decision under subsection (3); and
+
 (c) in the case of a First Nations, Inuk or Métis child, give the notice required by clauses (a) and (b) and,
+
 (i) give at least 10 days notice in writing of the decision to a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities, and
+
 (ii) after the notice is given, consult with the band or community representatives relating to the planning for the care of the child.
 
 ### Application for review
@@ -4738,9 +5947,13 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Parties
 
 (9) The following persons are parties to a hearing under this section:
+
 1. The applicant.
+
 2. The society or licensee.
+
 3. In the case of a First Nations, Inuk or Métis child, the persons described in paragraphs 1 and 2 and a representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
+
 4. Any person that the Board adds under subsection (10).
 
 ### Additional parties
@@ -4754,13 +5967,17 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Subsequent placement
 
 (12) After a society or licensee has made a decision referred to in subsection (1) in relation to a child, the society shall not place the child for adoption with a person other than the person who has a right to apply for a review under subsection (3) unless,
+
 (a) the time for applying for a review of the decision under subsection (3) has expired and an application is not made; or
+
 (b) if an application for a review of the decision is made under subsection (3), the Board has confirmed the decision.
 
 ### No removal before Board decision
 
 (13) Subject to subsection (14), if a society or licensee has decided to remove a child from the care of a person with whom the child was placed for adoption, the society or licensee, as the case may be, shall not carry out the proposed removal of the child unless,
+
 (a) the time for applying for a review of the decision under subsection (3) has expired and an application is not made; or
+
 (b) if an application for a review of the decision is made under subsection (3), the Board has confirmed the decision.
 
 ### Where child at risk
@@ -4770,15 +5987,21 @@ the rights and responsibilities of the child’s parents with respect to the chi
 ### Notice to Director
 
 193 (1) Where a child has been placed for adoption under this Part, no order for the child’s adoption has been made and,
+
 (a) the person with whom the child is placed asks the society or licensee that placed the child to remove the child; or
+
 (b) the society or licensee proposes to remove the child from the person with whom the child was placed,
+
 the society or licensee shall notify a Director.
 
 ### Same
 
 (2) Where no order for a child’s adoption has been made and a year has expired since,
+
 (a) the earlier of the child’s placement for adoption or the giving of the most recent consent under clause 180 (2) (a); or
+
 (b) the most recent review under subsection (3) of this section,
+
 whichever is later, the society or licensee shall notify a Director, unless the child is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c).
 
 ### Director to review
@@ -4796,27 +6019,41 @@ whichever is later, the society or licensee shall notify a Director, unless the 
 ### Notice of application
 
 (2) A society making an application under this section shall give notice of the application to,
+
 (a) the child;
+
 (b) every person who will be permitted to communicate with or have a relationship with the child if the order is made;
+
 (c) any person with whom the society has placed or plans to place the child for adoption; and
+
 (d) any society that will supervise or participate in the arrangement under the openness order.
 
 ### Method of giving notice to a child
 
 (3) Notice to a child under subsection (2) shall be given by leaving a copy with,
+
 (a) the Children’s Lawyer;
+
 (b) the child’s lawyer, if any; and
+
 (c) the child if they are 12 or older.
 
 ### Openness order
 
 (4) The court may make an openness order under this section in respect of a child if the court is satisfied that,
+
 (a) the openness order is in the best interests of the child;
+
 (b) the openness order will permit the continuation of a relationship with a person that is beneficial and meaningful to the child; and
+
 (c) the following entities and persons have consented to the order:
+
 (i) the society,
+
 (ii) the person who will be permitted to communicate with or have a relationship with the child if the order is made,
+
 (iii) the person with whom the society has placed or plans to place the child for adoption, and
+
 (iv) the child if they are 12 or older.
 
 ### Termination of openness order if extended society care order terminates
@@ -4828,47 +6065,69 @@ whichever is later, the society or licensee shall notify a Director, unless the 
 ### Notice of intent to place for adoption
 
 195 (1) This section applies where,
+
 (a) a society intends to place a child who is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c) for adoption; and
+
 (b) an order under Part V (Child Protection) is in effect respecting a person’s access to the child or the child’s access to another person.
 
 ### Notice
 
 (2) In the circumstances described in subsection (1), the society shall give notice to the following persons:
+
 1. Every person who has been granted a right of access under the access order.
+
 2. Every person with respect to whom access has been granted under the access order.
 
 ### Contents of notice
 
 (3) The society shall include in the notice the following information:
+
 1. Notice that the society intends to place the child for adoption.
+
 2. Notice that the access order terminates upon placement for adoption.
+
 3. In the case of notice to a person described in paragraph 1 of subsection (2), the fact that the person has a right to apply for an openness order within 30 days after notice is received.
+
 4. In the case of notice to a person described in paragraph 2 of subsection (2), the fact that the person described in paragraph 1 of subsection (2) has the right to apply for an openness order within 30 days after notice is received.
 
 ### Method of giving notice
 
 (4) Notice may be given by,
+
 (a) if the person is not a child, leaving a copy,
+
 (i) with the person,
+
 (ii) if the person appears to be mentally incapable in respect of an issue in the notice, with the person and with the guardian of the person’s property or, if none, with the Public Guardian and Trustee, or
+
 (iii) with a lawyer who accepts the notice in writing on a copy of the document; or
+
 (b) if the person is a child, leaving a copy,
+
 (i) with the Children’s Lawyer,
+
 (ii) with the child’s lawyer, if any, and
+
 (iii) with the child, if they are 12 or older.
 
 ### Alternate method
 
 (5) On application without notice by a society, the court may order that notice under subsection (2) be given by another method chosen by the court if the society,
+
 (a) provides detailed evidence showing,
+
 (i) what steps have been taken to locate the person to whom the notice is to be given, and
+
 (ii) if the person has been located, what steps have been taken to give the notice to the person; and
+
 (b) shows that the method of giving notice could reasonably be expected to bring the notice to the person’s attention.
 
 ### Notice not required
 
 (6) On application without notice by a society, the court may order that the society is not required to give notice under subsection (2) if,
+
 (a) reasonable efforts to locate the person to whom the notice is to be given have not been or would not be successful; and
+
 (b) there is no method of giving notice that could reasonably be expected to bring the notice to the person’s attention.
 
 ### Access order in effect
@@ -4880,15 +6139,21 @@ whichever is later, the society or licensee shall notify a Director, unless the 
 ### Notice of application
 
 (2) A person making an application for an openness order under this section shall give notice of the application to,
+
 (a) the society having care and custody of the child;
+
 (b) if someone other than the child is bringing the application, the child; and
+
 (c) if the child is bringing the application, the person who will be permitted to communicate with or have a relationship with the child if the order is made.
 
 ### Method of giving notice to child
 
 (3) Notice to a child under subsection (2) shall be given by leaving a copy with,
+
 (a) the Children’s Lawyer;
+
 (b) the child’s lawyer, if any; and
+
 (c) the child if they are 12 or older.
 
 ### Limitation on placement
@@ -4898,8 +6163,11 @@ whichever is later, the society or licensee shall notify a Director, unless the 
 ### Information before placement
 
 (5) Where an application for an openness order under this section has been made, a society shall, before placing the child for adoption, advise the person with whom it plans to place the child of the following:
+
 1. The fact that such an application has been made.
+
 2. The relationship of the applicant to the child or, if the child is the applicant, the relationship of the child to the person with whom the child will be permitted to communicate or have a relationship if the order is made.
+
 3. The details of the openness arrangement requested.
 
 ### Outcome of application
@@ -4909,8 +6177,11 @@ whichever is later, the society or licensee shall notify a Director, unless the 
 ### Openness order
 
 (7) The court may make an openness order under this section in respect of a child if it is satisfied that,
+
 (a) the openness order is in the best interests of the child;
+
 (b) the openness order will permit the continuation of a relationship with a person that is beneficial and meaningful to the child; and
+
 (c) the child has consented to the order, if they are 12 or older.
 
 ### Same
@@ -4936,25 +6207,37 @@ whichever is later, the society or licensee shall notify a Director, unless the 
 ### Notice
 
 (2) In the circumstances described in subsection (1), the society shall give notice to the following persons:
+
 1. A representative chosen by each of the child’s bands and First Nations, Inuit or Métis communities.
+
 2. The child.
 
 ### Contents of notice
 
 (3) The society shall include in the notice the following information:
+
 1. Notice that the society intends to place the child for adoption.
+
 2. The fact that the person has a right to apply for an openness order within 30 days after notice is received.
+
 3. The fact that the society has a right to apply for an openness order within 30 days after notice is given.
 
 ### Method of giving notice, etc.
 
 (4) Where notice is required under subsection (2),
+
 (a) notice shall be given by,
+
 (i) if the person is not a child, leaving a copy with the person or with a lawyer who accepts the notice in writing on a copy of the document, or
+
 (ii) if the person is a child, leaving a copy,
+
 (A) with the Children’s Lawyer,
+
 (B) with the child’s lawyer, if any, and
+
 (C) with the child, if they are 12 or older; and
+
 (b) subsections 195 (5) and (6) apply with necessary modifications.
 
 ### Application for openness order
@@ -4972,15 +6255,21 @@ whichever is later, the society or licensee shall notify a Director, unless the 
 ### Method of giving notice to a child
 
 (8) Notice to a child under subsection (7) shall be given by leaving a copy with,
+
 (a) the Children’s Lawyer;
+
 (b) the child’s lawyer, if any; and
+
 (c) the child if they are 12 or older.
 
 ### Openness order
 
 (9) The court may make an openness order under this section in respect of a child if it is satisfied that,
+
 (a) the openness order is in the best interests of the child;
+
 (b) the openness order will help the child to develop or maintain a connection with the child’s First Nations, Inuit or Métis cultures, heritages and traditions and to preserve the child’s cultural identity and connection to community;
+
 (c) the child has consented to the order, if they are 12 or older.
 
 ### Application of other provisions
@@ -4998,32 +6287,47 @@ whichever is later, the society or licensee shall notify a Director, unless the 
 ### Notice of application
 
 (3) A society or person making an application under this section shall give notice of the application to,
+
 (a) the child;
+
 (b) every person who is permitted to communicate with or have a relationship with the child under the openness order;
+
 (c) any person with whom the society has placed or plans to place the child for adoption, if the application under this section is made by the society; and
+
 (d) any society that supervises or participates in the arrangement under the openness order that is the subject of the application.
 
 ### Method of giving notice to a child
 
 (4) Notice to a child under subsection (3) shall be given by leaving a copy with,
+
 (a) the Children’s Lawyer;
+
 (b) the child’s lawyer, if any; and
+
 (c) the child if they are 12 or older.
 
 ### Order to vary openness order before adoption
 
 (5) The court shall not make an order to vary an openness order under this section unless the court is satisfied that,
+
 (a) a material change in circumstances has occurred;
+
 (b) the proposed order is in the child’s best interests; and
+
 (c) either,
+
 (i) the proposed order would continue a relationship that is beneficial and meaningful to the child, or
+
 (ii) in the case of an openness order made under section 197, the proposed order would help the child to develop or maintain a connection with the child’s First Nations, Inuit or Métis cultures, heritages and traditions and to preserve the child’s cultural identity and connection to community.
 
 ### Order to terminate openness order before adoption
 
 (6) The court shall not terminate an openness order under this section unless the court is satisfied that,
+
 (a) a material change in circumstances has occurred;
+
 (b) termination of the order is in the child’s best interests; and
+
 (c) in the case of an openness order made under section 194 or 196, the relationship that is the subject of the order is no longer beneficial and meaningful to the child.
 
 ### Consent of society required
@@ -5045,28 +6349,39 @@ whichever is later, the society or licensee shall notify a Director, unless the 
 ### Adoption of child
 
 199 (1) The court may make an order for the adoption of a child who is younger than 16, or is 16 or older but has not withdrawn from parental control, and,
+
 (a) has been placed for adoption by a society or licensee; or
+
 (b) has been placed for adoption by a person other than a society or licensee and has resided with the applicant for at least two years,
+
 in the child’s best interests, on the application of the person with whom the child is placed.
 
 ### Family adoption
 
 (2) The court may make an order for the adoption of a child, in the child’s best interests, on the application of,
+
 (a) a relative of the child;
+
 (b) the child’s parent; or
+
 (c) the spouse of the child’s parent.
 
 ### Adoption of adult, etc.
 
 (3) The court may make an order for the adoption of,
+
 (a) a person 18 or older; or
+
 (b) a child who is 16 or older and has withdrawn from parental control,
+
 on another person’s application.
 
 ### Who may apply
 
 (4) An application under this section may only be made,
+
 (a) by one individual; or
+
 (b) jointly, by two individuals who are spouses of one another.
 
 ### Residency requirement
@@ -5080,17 +6395,25 @@ on another person’s application.
 ### Where order not to be made
 
 201 Where the court has made an order,
+
 (a) dispensing with a consent under section 181; or
+
 (b) refusing to permit the late withdrawal of a consent under subsection 182 (1),
+
 the court shall not make an order under section 199 until the later of,
+
 (c) the time for commencing an appeal of the order has expired; or
+
 (d) any appeal of the order has been finally disposed of or abandoned.
 
 ### Director’s statement
 
 202 (1) Where an application is made for an order for the adoption of a child under subsection 199 (1), a Director shall, before the hearing, file a written statement with the court indicating,
+
 (a) that the child has resided with the applicant for at least six months or, in the case of an application under clause 199 (1) (b), for at least two years and, in the Director’s opinion, it would be in the child’s best interests to make the order;
+
 (b) in the case of an application under clause 199 (1) (a), that for specified reasons it would be in the child’s best interests, in the Director’s opinion, to make the order although the child has resided with the applicant for less than six months; or
+
 (c) that the child has resided with the applicant for at least six months or, in the case of an application under clause 199 (1) (b), for at least two years and, in the Director’s opinion, it would not be in the child’s best interests to make the order.
 
 ### Additional circumstances
@@ -5112,20 +6435,27 @@ the court shall not make an order under section 199 until the later of,
 ### Report of child’s adjustment
 
 (6) The written statement shall be based on a report of the child’s adjustment in the applicant’s home, prepared by,
+
 (a) the society that placed the child or has jurisdiction where the child is placed; or
+
 (b) a person approved by the Director or local director.
 
 ### Family adoptions
 
 (7) Where an application is made for an order for the adoption of a child under subsection 199 (2),
+
 (a) subsections (1), (2), (4), (5) and (6) apply to the application, if the child was not a resident of Canada before being placed for adoption; and
+
 (b) the court may order that subsections (1), (2), (4), (5) and (6) apply to the application, if the child was a resident of Canada before being placed for adoption.
 
 ### Place of hearing
 
 203 (1) An application for an adoption order shall be heard and dealt with in the county or district in which,
+
 (a) the applicant; or
+
 (b) the person to be adopted,
+
 resides at the time the application is filed.
 
 ### Transfer of proceeding
@@ -5141,21 +6471,29 @@ resides at the time the application is filed.
 ### Court files private
 
 (2) No person shall have access to the court file concerning an application for an adoption order, except,
+
 (a) the court and authorized court employees;
+
 (b) the parties and the persons representing them under the authority of the Law Society Act; and
+
 (c) a Director and a local director.
 
 ### Stale applications
 
 (3) Where an application for an adoption order is not heard within 12 months of the day on which the applicant signed it,
+
 (a) the court shall not hear the application unless the court is satisfied that it is just to do so; and
+
 (b) the applicant may make another application.
 
 ### No right to notice
 
 (4) A person is not entitled to receive notice of an application under section 199 if,
+
 (a) the person has given a consent under clause 180 (2) (a) and has not withdrawn it;
+
 (b) the person’s consent has been dispensed with under section 181; or
+
 (c) the person is a parent of a child who is in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c) who is placed for adoption.
 
 ### Power of court
@@ -5165,14 +6503,19 @@ resides at the time the application is filed.
 ### Duty of court
 
 (2) The court shall not make an order for the adoption of a child under subsection 199 (1) or (2) unless the court is satisfied that,
+
 (a) every person who has given a consent under section 180 understands the nature and effect of the adoption order; and
+
 (b) every applicant understands and appreciates the special role of an adoptive parent.
 
 ### Participation of child
 
 (3) Where an application is made for an order for the adoption of a child under subsection 199 (1) or (2), the court,
+
 (a) shall inquire into the child’s capacity to understand and appreciate the nature of the application;
+
 (b) shall take the child’s views and wishes into account and give them due weight in accordance with the child’s age and maturity; and
+
 (c) where it is practical to do so, shall hear the child.
 
 ### Participation of adult, etc.
@@ -5182,17 +6525,25 @@ resides at the time the application is filed.
 ### Change of name
 
 206 (1) Subject to subsection (1.1), when the court makes an order under section 199, the court may, at the request of the applicant or applicants,
+
 (a) change the person’s surname to any surname that the person could have been given if the person had been born in Ontario to the applicant or applicants at the time of the order;
+
 (b) change the person’s forename;
+
 (c) change the person’s surname as described in clause (a) and change the person’s forename;
+
 (d) change the person’s single name to a single name that is determined in accordance with the traditional culture of the person or the applicant or applicants if the Registrar General under the Vital Statistics Act approves the single name;
+
 (e) change the person’s single name to a name with at least one forename and a surname as described in clause (a); or
+
 (f) change the person’s forename and surname to a single name that is determined in accordance with the traditional culture of the person or the applicant or applicants if the Registrar General under the Vital Statistics Act approves the single name.
 
 ### Same
 
 (1.1) A court shall not make a change described in subsection (1) unless,
+
 (a) doing so is in the best interests of the child, if the person adopted is a child; and
+
 (b) the person adopted consents, if the person is 12 or older.
 
 ### When child’s consent not required
@@ -5202,9 +6553,13 @@ resides at the time the application is filed.
 ### Varying or terminating openness orders after adoption
 
 207 (1) Any of the following persons may apply to the court to vary or terminate an openness order made under section 194, 196 or 197 after an order for adoption has been made under section 199:
+
 1. An adoptive parent.
+
 2. The adopted child.
+
 3. A person who is permitted to communicate or have a relationship with the child under the openness order.
+
 4. Any society that supervises or participates in the arrangement under the openness order that is the subject of the application.
 
 ### Leave
@@ -5214,7 +6569,9 @@ resides at the time the application is filed.
 ### Jurisdiction
 
 (3) An application under subsection (1) shall be made in the county or district,
+
 (a) in which the child resides, if the child resides in Ontario; or
+
 (b) in which the adoption order for the child was made if the child does not reside in Ontario, unless the court is satisfied that the preponderance of convenience favours having the matter dealt with by the court in another county or district.
 
 ### Notice
@@ -5224,24 +6581,35 @@ resides at the time the application is filed.
 ### Method of giving notice to a child
 
 (5) Notice to a child under subsection (4) shall be given by leaving a copy with,
+
 (a) the Children’s Lawyer;
+
 (b) the child’s lawyer, if any; and
+
 (c) the child if they are 12 or older.
 
 ### Order to vary openness order
 
 (6) The court shall not make an order to vary an openness order under this section unless the court is satisfied that,
+
 (a) a material change in circumstances has occurred;
+
 (b) the proposed order is in the child’s best interests; and
+
 (c) either,
+
 (i) the proposed order would continue a relationship that is beneficial and meaningful to the child, or
+
 (ii) in the case of an openness order made under section 197, the proposed order would help the child to develop or maintain a connection with the child’s First Nations, Inuit or Métis cultures, heritages and traditions and to preserve the child’s cultural identity and connection to community.
 
 ### Order to terminate openness order
 
 (7) The court shall not terminate an openness order under this section unless the court is satisfied that,
+
 (a) a material change in circumstances has occurred;
+
 (b) termination of the order is in the child’s best interests; and
+
 (c) in the case of an openness order made under section 194 or 196, the relationship that is the subject of the order is no longer beneficial and meaningful to the child.
 
 ### Consent of society required
@@ -5255,13 +6623,17 @@ resides at the time the application is filed.
 ### Appeal of order to vary or terminate openness order
 
 208 (1) (1) An appeal from a court’s order under section 198 or 207 may be made by,
+
 (a) any person who was entitled to apply for the order to vary or terminate the openness order; or
+
 (b) any person who was entitled to notice of the application to vary or terminate the openness order.
 
 ### Same
 
 (1.1) The appeal shall be made to,
+
 (a) the Superior Court of Justice, if the order was made at the Ontario Court of Justice; or
+
 (b) the Divisional Court, if the order was made at the Family Court of the Superior Court of Justice.
 
 ### Temporary order
@@ -5283,7 +6655,9 @@ resides at the time the application is filed.
 ### Transition
 
 (6) This section, as it read immediately before the day subsection 5 (5) of Schedule 2 to the Moving Ontario Family Law Forward Act, 2020 came into force, continues to apply to,
+
 (a) any case in which a notice of appeal was filed before that day; and
+
 (b) any further appeals or proceedings arising from a case described in clause (a).
 
 ### Application of s. 204
@@ -5311,12 +6685,19 @@ resides at the time the application is filed.
 ### Who may enter into openness agreement
 
 212 (1) For the purposes of facilitating communication or maintaining relationships, an openness agreement may be made by an adoptive parent of a child or by a person with whom a society or licensee has placed or plans to place a child for adoption and any of the following persons:
+
 1. A birth parent, birth relative or birth sibling of the child.
+
 2. A foster parent of the child or another person who cared for the child or in whose custody the child was placed at any time.
+
 3. A member of the child’s extended family or community with whom the child has a significant relationship or emotional tie.
+
 4. An adoptive parent of a birth sibling of the child or a person with whom a society or licensee has placed or plans to place a birth sibling of the child for adoption.
+
 5. In the case of a First Nations, Inuk or Métis child,
+
 i. a person described in paragraph 1, 2, 3 or 4, or
+
 ii. a member of the child’s bands and First Nations, Inuit or Métis communities who may not have had a significant relationship or emotional tie with the child in the past but will help the child to develop or maintain a connection with the child’s First Nations, Inuit or Métis cultures, heritages and traditions and to preserve the child’s cultural identity and connection to community.
 
 ### When agreement may be made
@@ -5340,8 +6721,11 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Terms and conditions
 
 (2) The court may make an order under subsection (1) subject to any terms and conditions that the court considers appropriate respecting,
+
 (a) the child’s maintenance and education;
+
 (b) supervision of the child; and
+
 (c) any other matter the court considers advisable in the child’s best interests.
 
 ### Not an adoption order
@@ -5367,25 +6751,33 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Appeal: adoption order
 
 215 (1) An appeal from a court’s order under section 199 may be made by,
+
 (a) the applicant for the adoption order; and
+
 (b) the Director or local director who made the statement under subsection 202 (1).
 
 ### Same: dispensing with consent
 
 (2) An appeal from a court’s order under section 181 dispensing with a consent may be made by,
+
 (a) the persons referred to in subsection (1) of this section; and
+
 (b) the person whose consent was dispensed with.
 
 ### Same: late withdrawal of consent
 
 (3) An appeal from a court’s order under subsection 182 (1) permitting the late withdrawal of a consent may be made by,
+
 (a) the persons referred to in subsection (1) of this section; and
+
 (b) the person who gave the consent.
 
 ### Court
 
 (3.1) An appeal under this section shall be made to,
+
 (a) the Superior Court of Justice, if the order was made at the Ontario Court of Justice; or
+
 (b) the Divisional Court, if the order was made at the Family Court of the Superior Court of Justice.
 
 ### No extension of time for appeal
@@ -5403,7 +6795,9 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Transition
 
 (7) This section, as it read immediately before the day subsection 5 (9) of Schedule 2 to the Moving Ontario Family Law Forward Act, 2020 came into force, continues to apply to,
+
 (a) any case in which a notice of appeal was filed before that day; and
+
 (b) any further appeals or proceedings arising from a case described in clause (a).
 
 ### Effect of Adoption Order
@@ -5419,12 +6813,15 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Status of adopted child
 
 217 (1) In this section,
+
 “adopted child” means a person who was adopted in Ontario.
 
 ### Same
 
 (2) For all purposes of law, as of the date of the making of an adoption order,
+
 (a) the adopted child becomes the child of the adoptive parent and the adoptive parent becomes the parent of the adopted child; and
+
 (b) the adopted child ceases to be the child of the person who was the adopted child’s parent before the adoption order was made and that person ceases to be the parent of the adopted child, except where the person is the spouse of the adoptive parent.
 
 ### How relationships determined
@@ -5438,7 +6835,9 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Application of section
 
 (5) This section applies and is deemed always to have applied with respect to any adoption made under any Act that is in force, but not so as to affect,
+
 (a) any interest in property or right of the adopted child that has indefeasibly vested before the date of the making of an adoption order; and
+
 (b) any interest in property or right that has indefeasibly vested before the day this subsection comes into force.
 
 ### Exception
@@ -5452,7 +6851,9 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### No order for access by birth parent, etc.
 
 219 Where an order for the adoption of a child has been made under this Part, no court shall make an order under this Part for access to the child by,
+
 (a) a birth parent; or
+
 (b) a member of a birth parent’s family.
 
 ### Maintenance of Relationships
@@ -5460,13 +6861,17 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Maintenance of relationships
 
 220 (1) A society shall make all reasonable efforts to assist a child to maintain relationships with persons that are beneficial and meaningful to the child in the following circumstances:
+
 1. The child was placed for adoption by the society and the society has decided not to finalize the adoption of the child by the person with whom the child was placed.
+
 2. A child returns to the care of a society after an adoption order was made.
 
 ### Openness order or agreement or access order
 
 (2) For the purposes of subsection (1), in addition to what is permitted under subsection 105 (9), a society shall,
+
 (a) facilitate contact or communication provided for under an existing openness order or openness agreement in respect of the child and the persons who are subject to or parties to the openness order or openness agreement, as the case may be; and
+
 (b) consider whether to apply for an order for access under Part V (Child Protection) in respect of the child and the persons.
 
 ### Existing openness order continues in force
@@ -5482,6 +6887,7 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Court papers
 
 222 (1) In this section,
+
 “court” includes the Superior Court of Justice.
 
 ### Requirement to seal documents
@@ -5491,16 +6897,23 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Transmission of order
 
 (3) Within 30 days after an adoption order is made under this Part, the proper officer of the court shall cause a sufficient number of certified copies of it to be made, under the seal of the proper certifying authority, and shall provide,
+
 (a) the original order to the adoptive parent;
+
 (b) one certified copy to the Registrar General under the Vital Statistics Act, or, if the adopted child was born outside Ontario, two certified copies;
+
 (c) if the adopted child is registered or entitled to be registered under the Indian Act (Canada), one certified copy to the Registrar under that Act; and
+
 (d) one certified copy to such other persons as may be prescribed.
 
 ### Other court files
 
 (4) Unless the court orders otherwise, only the court may examine identifying information that comes from the records of any of the following persons that is contained in any court file respecting the judicial review of a decision made by any of them:
+
 1. A designated custodian under section 223.
+
 2. A person who, by virtue of a regulation made under paragraph 18 of subsection 346 (1), reviews or hears appeals of decisions concerning the disclosure of information under section 224 or 225.
+
 3. A person referred to in subsection 224 (1) or 225 (1).
 
 ### Same
@@ -5510,6 +6923,7 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Definition
 
 (6) In subsections (4) and (5),
+
 “identifying information” means information whose disclosure, alone or in combination with other information, will in the circumstances reveal the identity of the person to whom it relates.
 
 ### Designation of custodians of information
@@ -5563,7 +6977,9 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Confidentiality of adoption information
 
 227 (1) Despite any other Act, after an adoption order is made, no person shall inspect, remove, alter or disclose information that relates to the adoption and is kept by the Ministry, a society, a licensee or a designated custodian under section 223 and no person shall permit it to be inspected, removed, altered or disclosed unless the inspection, removal, alteration or disclosure is,
+
 (a) necessary for the maintenance or updating of the information by the Ministry, society, licensee or designated custodian or their staff; or
+
 (b) authorized by this Act or the regulations.
 
 ### Powers of courts and tribunals
@@ -5619,8 +7035,11 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Definition
 
 (7) In this section,
+
 “non-profit agency” means a corporation without share capital that has objects of a charitable nature and,
+
 (a) to which the Not-for-Profit Corporations Act, 2010 or a predecessor of that Act applies, or
+
 (b) that is incorporated by or under a general or special Act of the Parliament of Canada.
 
 ### Conditions of licence
@@ -5652,20 +7071,31 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Grounds for refusal
 
 231 A Director may propose to refuse to issue a licence where, in the Director’s opinion,
+
 (a) the applicant or an employee of the applicant, or, where the applicant is a corporation, an officer or director of the corporation is not competent to place children for adoption in a responsible manner in accordance with this Act and the regulations;
+
 (b) the past conduct of any person mentioned in clause (a) affords reasonable grounds for belief that the placement of children for adoption will not be carried on in a responsible manner in accordance with this Act and the regulations; or
+
 (c) a ground exists that is prescribed as a ground for refusing to issue a licence.
 
 ### Grounds for revocation, refusal to renew
 
 232 A Director may propose to revoke or refuse to renew a licence where, in the Director’s opinion,
+
 (a) the licensee or an employee of the licensee, or where the licensee is a corporation, an officer or director of the corporation has contravened or has knowingly permitted a person under their control or direction or associated with them to contravene,
+
 (i) this Act or the regulations,
+
 (ii) any other applicable law, or
+
 (iii) a condition of the licence;
+
 (b) the placement of children for adoption is carried on in a manner that is prejudicial to the children’s health, safety or welfare;
+
 (c) a person has made a false statement in the application for the licence or for its renewal, or in a report or document required to be furnished by this Act or the regulations or any other applicable law;
+
 (d) a change has occurred in the employees, officers or directors of the licensee that would, if the licensee were applying for the licence in the first instance, afford grounds under clause 231 (b) for refusing to issue the licence; or
+
 (e) a ground exists that is prescribed as a ground for revoking or refusing to renew a licence.
 
 ### Licensing — Hearing by Tribunal
@@ -5687,7 +7117,9 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Powers of Tribunal where hearing requested
 
 (4) Where an applicant or licensee requests a hearing under subsection (2), the Tribunal shall appoint a time for and hold a hearing and may, on hearing the matter,
+
 (a) order the Director to carry out the proposal; or
+
 (b) order the Director to take such other action as the Tribunal considers appropriate, in accordance with this Part and the regulations.
 
 ### Discretion of Tribunal
@@ -5701,14 +7133,19 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Powers of Tribunal
 
 (2) Where a licensee requests a hearing under subsection (1), the Tribunal shall appoint a time for and hold a hearing and may, on hearing the matter,
+
 (a) confirm any or all of the conditions;
+
 (b) strike out any or all of the conditions; or
+
 (c) impose such other conditions as the Tribunal considers appropriate.
 
 ### Continuation of licence pending renewal
 
 235 Subject to section 236, where a licensee has applied for renewal of a licence and paid the prescribed fee within the prescribed time or, if no time is prescribed, before the licence expires, the licence is deemed to continue,
+
 (a) until the renewal is granted; or
+
 (b) where the licensee is served with notice that the Director proposes to revoke the licence or to refuse to grant the renewal, until the time for requiring a hearing has expired and, where a hearing is required, until the Tribunal has made its decision.
 
 ### Suspension of licence
@@ -5732,7 +7169,9 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### Licence and record to be delivered
 
 238 If a licence is revoked or renewal of it refused, or if a licensee ceases to place children for adoption, the licensee shall,
+
 (a) promptly deliver the licence to the Minister; and
+
 (b) deliver all the records in the licensee’s possession or control that relate to the children to whom services were being provided to a prescribed person or entity within the prescribed time.
 
 ### Licensing — Injunctions
@@ -5750,12 +7189,19 @@ ii. a member of the child’s bands and First Nations, Inuit or Métis communiti
 ### No payments for adoption
 
 240 No person, whether before or after a child’s birth, shall give, receive or agree to give or receive a payment or reward of any kind in connection with,
+
 (a) the child’s adoption or placement for adoption;
+
 (b) a consent under section 180 to the child’s adoption; or
+
 (c) negotiations or arrangements with a view to the child’s adoption,
+
 except for,
+
 (d) the prescribed expenses of a licensee, or such greater expenses as are approved by a Director;
+
 (e) proper legal fees and disbursements; and
+
 (f) a subsidy paid by a society or by the Minister to an adoptive parent or to a person with whom a child is placed for adoption.
 
 ### Offences
@@ -5781,7 +7227,9 @@ except for,
 ### Offences — licensing
 
 242 (1) A person is guilty of an offence if the person,
+
 (a) knowingly provides false information in an application for a licence or renewal of a licence under this Part or in a statement, report or return required to be provided in respect of a licensing matter under this Part or the regulations; or
+
 (b) fails to comply with an order or direction made by a court in relation to a licensing matter under this Part.
 
 ### Directors, officers and employees
@@ -5797,24 +7245,43 @@ except for,
 ### Definitions
 
 243 In this Part,
+
 “children’s residence” means any of the following residences where children live and receive residential care:
+
 1. A parent model residence having five or more children not of common parentage.
+
 2. A staff model residence having three or more children not of common parentage, including an institution that is supervised or operated by a society or a place of temporary detention, of secure custody or of open custody.
+
 3. Any other prescribed residence.
+
 A children’s residence does not include the following:
+
 4. A house licensed under the Private Hospitals Act.
+
 5. A child care centre as defined in the Child Care and Early Years Act, 2014.
+
 6. A recreational camp under the Health Protection and Promotion Act.
+
 7. A home for special care under the Homes for Special Care Act.
+
 8. A school or private school as defined in the Education Act.
+
 9. A hostel intended for short term accommodation.
+
 10. A hospital that receives financial aid from the Government of Ontario.
+
 11. A group home or similar facility that receives financial assistance from the Minister of Community Safety and Correctional Services but receives no financial assistance from the Minister under this Act.
+
 12. Any other prescribed place; (“foyer pour enfants”)
+
 “designated senior employee” means a person employed in the Ministry as a deputy minister, associate deputy minister, assistant deputy minister or a person designated by the deputy minister, or in a prescribed position; (“titulaire d’un poste supérieur désigné”)
+
 “directive” means a directive issued by the Minister under section 252; (“directive”)
+
 “parent model residence” means a building, group of buildings or part of a building where not more than two adult persons live and provide care for children on a continuous basis; (“foyer de type familial”)
+
 “placing agency” means a person or entity, including a society, that places a child in residential care or in foster care and includes a licensee; (“agence de placement”)
+
 “staff model residence” means a building, group of buildings or part of a building where adult persons are employed to provide care for children on the basis of scheduled periods of duty. (“foyer avec rotation de personnel”)
 
 ### Protective Measures
@@ -5822,9 +7289,13 @@ A children’s residence does not include the following:
 ### Licence required
 
 244 No person shall do any of the following except under the authority of a licence:
+
 1. Operate a children’s residence.
+
 2. Provide residential care, directly or indirectly, in places that are not children’s residences,
+
 i. for three or more children not of common parentage, or
+
 ii. in such circumstances as may be prescribed.
 
 ### Prohibition — past offence
@@ -5842,7 +7313,9 @@ ii. in such circumstances as may be prescribed.
 ### Duty to keep licence
 
 248 (1) A licensee shall keep a copy of the licence at the following premises and shall ensure that the licence is available for public inspection:
+
 1. In the case of a children’s residence, at the residence.
+
 2. In the case of any other place where residential care is provided under the authority of a licence, at the business premises of the licensee or other prescribed premises.
 
 ### Duty to post information
@@ -5852,19 +7325,25 @@ ii. in such circumstances as may be prescribed.
 ### Duty to provide licence and other information
 
 249 (1) Before a child is placed in a children’s residence or other place where residential care is provided under the authority of a licence, the licensee shall give the following to the placing agency, where the placing agency is not the licensee, or to the person placing the child:
+
 1. A copy of the licence to operate the children’s residence or to provide residential care, as the case may be.
+
 2. Any other prescribed information.
 
 ### Record of compliance
 
 (2) The licensee shall make and keep a record of its compliance with subsection (1),
+
 (a) in the case of a children’s residence, at the residence; or
+
 (b) in the case of any other place where residential care is provided under the authority of a licence, at the business premises of the licensee or other prescribed premises.
 
 ### Report certain matters to a Director
 
 250 (1) A person described in subsection (1.2) shall immediately report their suspicion and the information on which it is based to a Director every time the person has reasonable grounds to suspect that,
+
 (a) there is an immediate threat to the health, safety or welfare of a child while the child is at a children’s residence or other place where residential care is provided under the authority of a licence; or
+
 (b) there is an immediate threat to the health, safety or welfare of a child that is caused by a licensee, a person employed or otherwise engaged by the licensee to provide residential care to a child, including a foster parent, or by another resident of the children’s residence or other place where residential care is provided under the authority of a licence.
 
 ### Same
@@ -5874,16 +7353,23 @@ ii. in such circumstances as may be prescribed.
 ### Persons required to report
 
 (1.2) The following persons shall report to the Director under subsection (1):
+
 1. The licensee, or if the licensee is a corporation, an officer or director of the corporation.
+
 2. A person employed or otherwise engaged by the licensee to provide residential care to a child, including a foster parent.
+
 3. A society, including a child protection worker or person designated by the society to provide services to the child.
+
 4. The child’s probation officer, if any.
+
 5. Any prescribed person.
 
 ### Persons exempt
 
 (1.3) The following persons are exempt from the reporting requirement set out under subsection (1):
+
 1. A person with whom a child has been placed for adoption under Part VIII (Adoption and Adoption Licensing).
+
 2. A volunteer providing services in a children’s residence or another place where residential care is provided under the authority of a licence.
 
 ### Inspection
@@ -5913,7 +7399,9 @@ ii. in such circumstances as may be prescribed.
 ### Director may exempt
 
 251 A Director may, in the prescribed circumstances, exempt the following from any provision of this Part, the regulations under this Part or a directive for the time period and on the conditions specified by the Director:
+
 1. A place or class of places where residential care is provided under the authority of a licence.
+
 2. A person or class of persons who provide, or are applying to provide, residential care under the authority of a licence.
 
 ### Directives by Minister
@@ -5943,25 +7431,45 @@ ii. in such circumstances as may be prescribed.
 ### Publication of information by Minister
 
 253 (1) The Minister may publish the following information with respect to licences and applications for licences:
+
 1. The name of the licensee and prescribed contact information.
+
 2. The name of the children’s residence or other place where residential care is provided.
+
 3. The conditions, if any, imposed on the licence under section 255.
+
 4. The term of the licence specified under section 256.
+
 5. The class, if any, assigned to the licence under section 258.
+
 6. The maximum number of children for whom residential care may be provided by the licensee, set out in the licence under section 259.
+
 7. Information about the programs and services to be provided under the authority of the licence.
+
 8. A summary of each proposal to refuse to issue a licence under section 261, or under section 195 of the old Act, or to revoke or refuse to renew a licence under section 262, or under section 196 of the old Act, unless the refusal or revocation was not carried out.
+
 9. A summary of each notice of a suspension under section 264, or under section 200 of the old Act.
+
 10. The amount that the licensee shall charge for the provision of residential care under section 268.
+
 11. A summary of each inspection report prepared under section 278.
+
 11.1 A summary of each of the following:
+
 i. A written notification issued under section 279.1.
+
 ii. A compliance order made under section 279.2.
+
 iii. A restraining order made under section 279.3.
+
 iv. An order requiring management under section 279.4.
+
 v. A Director’s order made under section 279.5.
+
 vi. A notice of administrative penalty issued under section 279.8.
+
 vii. A designated senior employee’s decision under section 279.10.
+
 12. Any other prescribed licensing information.
 
 ### Not in force
@@ -5979,13 +7487,21 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Application
 
 254 (1) An application for a licence or the renewal of a licence to operate a children’s residence or to provide residential care shall be made by submitting to a Director,
+
 (a) an application completed by the applicant or licensee in a form approved by the Minister;
+
 (b) an attestation, to be completed by the applicant in a form approved by the Minister, confirming that the applicant is not prohibited from operating a children’s residence or from providing residential care under the authority of a licence under section 245;
+
 (b.1) documentation of,
+
 (i) the services that are or will be provided for children by the children’s residence or other place where residential care is or will be provided under the authority of a licence, and
+
 (ii) a description of how such services can or will be accessed by children and how they are appropriate for children;
+
 (b.2) documentation of consultation with service providers that will or do provide services to children placed in the children’s residence or other place where residential care is or will be provided under the authority of a licence.
+
 (c) any other information or documentation that may be specified by the Minister; and
+
 (d) payment of the prescribed fee.
 
 ### Additional requirements
@@ -5995,8 +7511,11 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Director’s duty to issue or renew
 
 (3) A Director shall issue or renew a licence if the applicant applied in accordance with subsections (1) and (2) unless,
+
 (a) the Director proposes to refuse to do so in accordance with section 261 or 262;
+
 (b) the applicant is under 18 years old, is a partnership or is an association of persons; or
+
 (c) the Minister has determined that a licence should not be issued pursuant to section 261.1.
 
 ### Not transferable
@@ -6018,7 +7537,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Contents of notice
 
 (4) The notice shall,
+
 (a) set out the reasons for imposing or amending the conditions and any other prescribed information with respect to those conditions; and
+
 (b) state that the licensee is entitled to a hearing by the Tribunal if they request one in accordance with subsection 265 (2) and set out an explanation of how to request a hearing, including the deadline for doing so.
 
 ### Conditions take effect upon notice
@@ -6032,7 +7553,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Notice to placing agency or other person
 
 (7) An inspector or the Director may provide to every placing agency or person who has a child placed in the children’s residence or other place where residential care is provided under the authority of a licence notice that,
+
 (a) a condition has been imposed under subsection (1) or amended under subsection (2); and
+
 (b) the licensee or other person who is the subject of the condition has complied with that condition.
 
 ### Notice to representative of a First Nations, Inuit or Métis community
@@ -6042,7 +7565,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Information upon request
 
 (9) For the purposes of assisting the Director or inspector in providing notice under subsection (7) or (8), the licensee shall, upon request, provide the Director or inspector with,
+
 (a) the name of any placing agency or person who has a child placed in the children’s residence or other place where residential care is provided under the authority of a licence; and
+
 (b) in the case of a First Nations, Inuk or Métis child, with the name of the representative chosen by each of the child’s bands or First Nations, Inuit or Métis communities.
 
 ### No personal information
@@ -6052,7 +7577,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Term of licence
 
 256 (1) A licence shall be issued or renewed,
+
 (a) for a term specified by the Director in accordance with the regulations; or
+
 (b) if there are no regulations governing the term, for a term specified by the Director that does not exceed one year.
 
 ### Expiry at end of term
@@ -6066,13 +7593,17 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Continuation of licence pending renewal
 
 257 Subject to a suspension under section 264, if a licensee has applied for renewal of a licence and paid the prescribed fee before the licence expires, the licence is deemed to continue,
+
 (a) until the renewal is granted; or
+
 (b) if the licensee is given notice that the Director proposes to revoke or refuse to renew the licence under section 262, until the time for requiring a hearing by the Tribunal has expired and, if a hearing is required, until the Tribunal has made its decision.
 
 ### Class of licence
 
 258 A Director may assign a class to a licence in accordance with the regulations,
+
 (a) when issuing or renewing a licence; or
+
 (b) at any other time, if authorized by the regulations.
 
 ### Maximum number of children
@@ -6090,9 +7621,13 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Appeals of class or maximum number
 
 260 If authorized by the regulations, a licensee may, in accordance with the regulations,
+
 (a) require a review by the Tribunal of,
+
 (i) the class assigned to a licence under section 258, or
+
 (ii) the maximum number of children set out in a licence under section 259; and
+
 (b) appeal the Tribunal’s decision to the Divisional Court.
 
 ### Refusals and revocations
@@ -6100,23 +7635,37 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Proposal to refuse to issue
 
 261 A Director may propose to refuse to issue a licence if, in the Director’s opinion,
+
 (a) the applicant or a person the applicant has employed or otherwise engaged to provide residential care or to supervise those providing residential care is not competent to operate a children’s residence or to provide residential care,
+
 (i) in a responsible manner in accordance with this Act, the regulations or any other applicable law, or
+
 (ii) with honesty and integrity;
+
 (b) the past conduct of any person mentioned in clause (a) affords reasonable grounds to believe that the operation of the children’s residence or the provision of residential care will not be carried on in a responsible manner in accordance with this Act, the regulations or any other applicable law or will not be carried on with honesty and integrity;
+
 (c) the premises in which the applicant proposes to operate the children’s residence or to provide residential care do not comply with the requirements of this Part, the regulations or any other applicable law;
+
 (d) any person has made a false statement in the application for the licence, or in any report, document or other information required to be furnished by this Act or the regulations or any other applicable law;
+
 (e) a licence held by the applicant has been revoked or the renewal of such a licence has been refused and there has been no material change in the applicant’s circumstances; or
+
 (f) a ground exists that is prescribed as a ground for refusing to issue a licence.
 
 ### Licences, public interest
 
 261.1 (1) The Minister may determine that a licence should not be issued if the Minister believes that issuing the licence would be contrary to the public interest, having regard to,
+
 (a) the number of licensed residential placements available in the area where the applicant proposes to provide residential care and the maximum number of children for whom residential care may be provided in those placements;
+
 (b) the number of licensed residential placements available in Ontario and the maximum number of children for whom residential care may be provided in those residential placements;
+
 (c) the other services, as defined in subsection 2 (1), available in the geographic area where the applicant proposes to provide residential care and any other area in Ontario;
+
 (d) the other residential placement options available in the geographic area where the applicant proposes to provide residential care and any other area, where that information is available to the Minister;
+
 (e) any other matters that may be prescribed; or
+
 (f) any other matters that the Minister considers to be relevant.
 
 ### Determination at Minister’s discretion
@@ -6126,20 +7675,35 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Proposal to revoke or refuse to renew
 
 262 A Director may propose to revoke or refuse to renew a licence if, in the Director’s opinion,
+
 (a) the licensee or a person the licensee has employed or otherwise engaged to provide residential care or to supervise those providing residential care has contravened or has knowingly permitted a person under their control or direction or associated with them to contravene,
+
 (i) this Act or the regulations,
+
 (ii) any other applicable law, or
+
 (iii) a condition of the licence;
+
 (b) the conduct of any person mentioned in clause (a) affords reasonable grounds to believe,
+
 (i) that the person is not competent to operate a children’s residence or to provide residential care in a responsible manner in accordance with this Act, the regulations or any other applicable law,
+
 (ii) that the children’s residence or other place where residential care is provided is not being or will not be operated in accordance with this Act, the regulations or any other applicable law, or
+
 (iii) that the children’s residence or other place where residential care is provided is not being or will not be operated with honesty or integrity;
+
 (c) the premises where the children’s residence is located or the residential care is provided do not comply with the requirements of this Part, the regulations or any other applicable law;
+
 (d) the operation of the children’s residence or the provision of residential care is carried on in a manner that is prejudicial to the children’s health, safety or welfare;
+
 (e) any person has made a false statement in the application for the licence or for its renewal, or in a report or document required to be furnished by this Act or the regulations or any other applicable law;
+
 (f) a change has occurred in the persons the licensee has employed or otherwise engaged to provide residential care or to supervise those providing residential care that would, if the licensee were applying for the licence in the first instance, afford grounds under clause 261 (b) for refusing to issue the licence;
+
 (f.1) where the licensee is a corporation, a change has occurred in the officers or directors of the licensee that would, if the licensee were applying for the licence in the first instance, afford grounds under clause 261 (b) for refusing to issue the licence;
+
 (g) a ground exists that is prescribed as a ground for refusing to renew or for revoking a licence; or
+
 (h) the licensee has failed to pay a penalty imposed by a notice of administrative penalty issued under section 279.8.
 
 ### Interpretation
@@ -6149,19 +7713,25 @@ vii. A designated senior employee’s decision under section 279.10.
 ### No application
 
 262.2 An applicant or licensee to whom a notice is issued under section 263 may not submit a new application for a licence,
+
 (a) until the period to request a hearing by the Tribunal under clause 265 (2) (b) has expired; or
+
 (b) where the applicant or licensee has requested a hearing respecting the notice, until the Tribunal has made an order under subsection 265 (5) and until all other appeals, including any appeal commenced under section 267, have been disposed of.
 
 ### Notice of proposal
 
 263 (1) The Director shall serve notice on the applicant or licensee, as the case may be, if the Director proposes to,
+
 (a) refuse to issue a licence under section 261; or
+
 (b) revoke or refuse to renew a licence under section 262.
 
 ### Contents and service of notice
 
 (2) The notice shall,
+
 (a) set out the reasons for the proposed action and any other prescribed information; and
+
 (b) state that the applicant or licensee is entitled to a hearing by the Tribunal if they request one in accordance with subsection 265 (2) and set out an explanation of how to request a hearing, including the deadline for doing so.
 
 ### Filing with court
@@ -6183,7 +7753,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Contents of notice
 
 (3) The notice shall,
+
 (a) set out the reasons for the suspension of the licence and any other prescribed information; and
+
 (b) state that the licensee is entitled to a hearing by the Tribunal if they request one in accordance with subsection 265 (2) and set out an explanation of how to request a hearing, including the deadline for doing so.
 
 ### Filing with court
@@ -6205,7 +7777,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Posting of summary of notice
 
 (8) A Director may post a summary of a notice of suspension,
+
 (a) in the case of a children’s residence, at the residence; or
+
 (b) in the case of any other place where residential care is provided under the authority of a licence, at the business premises of the licensee or at any other prescribed premises.
 
 ### No personal information
@@ -6225,27 +7799,41 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Hearings by Tribunal
 
 265 (1) An applicant or licensee may request a hearing by the Tribunal in accordance with subsection (2) if they receive any of the following:
+
 1. A notice of proposal to refuse to issue a licence under section 261.
+
 2. A notice of proposal to revoke or refuse to renew a licence under section 262.
+
 3. A notice to impose or amend conditions on a licence under section 255.
+
 4. A notice to suspend a licence under section 264.
+
 5. An order requiring management under section 279.4.
 
 ### Request for hearing
 
 (2) The applicant or licensee may request a hearing by giving a written request to the Director who gave the notice or order referred to in subsection (1), and to the Tribunal,
+
 (a) in the case of a notice to impose or amend conditions on a licence, within 15 days after the person is served with the notice;
+
 (b) in the case of all other notices, within 10 days after the person is served with the notice; or
+
 (c) in the case of an order requiring management under section 279.4, within 10 days after the person is served with the order.
 
 ### Content of request
 
 (2.1) No later than 20 days after the notice or the order has been served, the applicant or licensee must provide the Director, as part of their request for a hearing, with the following:
+
 1. The portions of the notice or order in respect of which the hearing is requested.
+
 2. The reasons for requesting a hearing.
+
 3. Where applicable, any measures that the licensee has put in place to protect the health and safety of children receiving residential care.
+
 4. Any provisions of the Act or regulations that the applicant or licensee thinks are relevant to their request.
+
 5. An address for service to the applicant or licensee.
+
 6. An email address for the applicant or licensee, if available.
 
 ### If hearing regarding proposal is not requested
@@ -6259,17 +7847,29 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Powers of tribunal
 
 (5) After holding the hearing, the Tribunal may by order,
+
 (a) in the case of a proposal to refuse to issue a licence or to revoke or refuse to renew a licence,
+
 (i) direct the Director to carry out the proposal,
+
 (ii) direct the Director to take such other action as the Tribunal considers appropriate, in accordance with this Part and the regulations, or
+
 (iii) substitute its opinion for that of the Director with respect to the reasons for the refusal or revocation;
+
 (b) in the case of the imposition or amendment of conditions on a licence,
+
 (i) confirm any or all of the conditions,
+
 (ii) strike out any or all of the conditions, or
+
 (iii) impose such other conditions as the Tribunal considers appropriate; or
+
 (c) in the case of a suspension of a licence or an order requiring management under section 279.4,
+
 (i) rescind or confirm the suspension or order, or
+
 (ii) substitute its opinion for that of the Director with respect to the reasons for the suspension or order.
+
 (6) Repealed: 2024, c. 17, s. 18 (10).
 
 ### Rules for proceedings
@@ -6277,8 +7877,11 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Parties
 
 266 (1) The following persons are parties to a proceeding under this Part:
+
 1. The applicant or licensee requiring the hearing.
+
 2. The Director.
+
 3. Any other person specified by the Tribunal.
 
 ### Members with prior involvement
@@ -6296,6 +7899,7 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Examination of documentary evidence
 
 (5) A party to a proceeding under this Part shall be given an opportunity, before the hearing, to examine any written or documentary evidence that will be produced and any report whose contents will be given in evidence at the hearing.
+
 (6), (7) Repealed: 2024, c. 28, Sched. 25, s. 4.
 
 ### Final decision by Tribunal
@@ -6343,14 +7947,19 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Licence and records to be delivered
 
 269 If a licence is revoked or renewal of it refused, or if a licensee ceases to operate a children’s residence or to provide residential care, the licensee shall,
+
 (a) promptly deliver the licence to the Minister; and
+
 (b) deliver all the records in the licensee’s possession or control that relate to the children to whom services were being provided to a prescribed person or entity within the prescribed time.
 
 ### Notice to placing agency or other person; removal of children
 
 270 (1) If a licence is revoked or suspended or renewal of it refused, or if a licensee ceases to operate a children’s residence or to provide residential care,
+
 (a) the licensee shall, within 24 hours of the revocation, refusal or cessation, or immediately in the case of a suspension, notify in writing every placing agency or person who has a child placed in the children’s residence or other place where residential care is provided;
+
 (b) the placing agency or person who placed a child shall, having regard to the child’s best interests, arrange for the child’s removal from the residence or other place as soon as is practicable, or immediately in the case of a suspension, and the Minister may assist in finding an alternative placement for the child; and
+
 (c) in the case of a First Nations, Inuk or Métis child, the licensee shall, within 24 hours of the revocation, refusal or cessation, or immediately in the case of a suspension, notify in writing the representative chosen by each of the child’s bands or First Nations, Inuit or Métis communities of the revocation, suspension, refusal or cessation.
 
 ### Notice to Director
@@ -6362,9 +7971,13 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Order for Minister’s occupation
 
 271 (1) If a Director’s notice of proposal to revoke or refuse to renew a licence under clause 263 (1) (b) or notice of suspension under subsection 264 (2) has been given to a licensee and the matter has not yet been finally disposed of, the Minister may apply without notice to the Superior Court of Justice for an order,
+
 (a) authorizing the Minister or a person appointed by the Minister, pending the outcome of the proceeding and until alternative accommodation may be found for the children who are being cared for, to,
+
 (i) occupy and operate the children’s residence or the other premises where residential care is provided, or
+
 (ii) provide the residential care, directly or indirectly; and
+
 (b) directing a peace officer to assist the Minister or a person appointed by the Minister as may be necessary in occupying the premises under subclause (a) (i).
 
 ### Where court may make order
@@ -6378,7 +7991,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Injunction
 
 272 (1) A Director may apply to the Superior Court of Justice for an order enjoining any person from,
+
 (a) contravening section 244 (licence required); or
+
 (b) operating a children’s residence or providing residential care while the licence is suspended under section 264.
 
 ### Variance or discharge
@@ -6414,34 +8029,51 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Inspections without warrant
 
 275 An inspector may, at any reasonable time and without a warrant or notice, enter and inspect,
+
 (a) the business premises of a licensee;
+
 (b) the premises of a children’s residence;
+
 (c) a premises, other than a children’s residence, where residential care is provided under the authority of a licence; or
+
 (d) a premises where the inspector suspects on reasonable grounds that residential care is provided without the authority of a licence, where a licence is required under this Part.
 
 ### Powers on inspection
 
 276 (1) An inspector conducting an inspection may,
+
 (a) examine the services provided;
+
 (b) examine a record or other thing that is relevant to the inspection;
+
 (c) demand the production for inspection of a record or other thing that is relevant to the inspection, including a record or other thing that is not kept on the premises;
+
 (d) on issuing a written receipt, remove for review or copying a record or other thing that is relevant to the inspection;
+
 (e) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business at the premises;
+
 (f) photograph, film or make any other kind of recording that is relevant to the inspection, including of a child or other person at the premises, but only in a manner that does not intercept any private communications and that is in keeping with reasonable expectations of privacy;
+
 (g) question a person, including a child, on matters relevant to the inspection;
+
 (h) call upon experts for assistance in carrying out the inspection; and
+
 (i) exercise any other prescribed power.
 
 ### Demand
 
 (2) A demand that a record or other thing be produced for inspection may be made orally or in writing and must indicate,
+
 (a) the nature of the record or thing required; and
+
 (b) when the record or thing is to be produced.
 
 ### Obligation to produce and assist
 
 (3) If an inspector demands that a record or other thing be produced for inspection, the person having custody of the record or other thing shall produce it for the inspector within the time provided for in the demand, and shall, on the inspector’s demand,
+
 (a) provide whatever assistance is reasonably necessary to produce the record or thing in readable form, including using a data storage, processing or retrieval device or system; and
+
 (b) provide whatever assistance is reasonably necessary to interpret the record or thing for the inspector.
 
 ### Child’s right to refuse
@@ -6459,7 +8091,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Return of things
 
 (7) A record or other thing that has been removed for review or copying,
+
 (a) shall be made available to the person from whom it was removed on request and at a time and place that are convenient for the person and the inspector; and
+
 (b) shall be returned to the person within a reasonable time.
 
 ### Warrant
@@ -6469,19 +8103,29 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Issuance of warrant
 
 (2) A justice may issue a warrant authorizing an inspector named in the warrant to enter the premises specified in the warrant, and to exercise any of the powers mentioned in subsection 276 (1), if the justice is satisfied on information under oath or affirmation,
+
 (a) that the premises,
+
 (i) is the business premises of a licensee,
+
 (ii) is a children’s residence,
+
 (iii) is a place, other than a children’s residence, where residential care is provided under the authority of a licence, or
+
 (iv) is a place where the inspector suspects on reasonable grounds that residential care is provided without the authority of a licence, where a licence is required under this Part; and
+
 (b) that,
+
 (i) the inspector has been prevented from exercising a right of entry to the premises under section 275 or a power under subsection 276 (1), or
+
 (ii) there are reasonable grounds to believe that the inspector will be prevented from exercising a right of entry to the premises under section 275 or a power under subsection 276 (1).
 
 ### Dwellings
 
 (3) The power to enter a premises described in clause (2) (a) with a warrant shall not be exercised to enter a premises that is used as a dwelling, except if,
+
 (a) the justice is informed that the warrant is being sought to authorize entry into a dwelling; and
+
 (b) the justice authorizes the entry into the dwelling.
 
 ### Expert help
@@ -6511,13 +8155,17 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Definition
 
 (10) In this section,
+
 “justice” means a provincial judge or a justice of the peace.
 
 ### Inspection report
 
 278 (1) After completing an inspection, an inspector shall prepare an inspection report and give a copy of the report to,
+
 (a) a Director;
+
 (b) the licensee; and
+
 (c) any other prescribed person.
 
 ### All non-compliance to be documented
@@ -6545,9 +8193,13 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Actions by inspector in case of non-compliance
 
 279.1 (1) If an inspector finds that a licensee has not complied with a requirement under this Act, with a directive issued under section 252 or with a condition of their licence, the inspector shall take one or more of the following actions:
+
 1. Issue a written notification of non-compliance to the licensee.
+
 2. Issue a written notification to the licensee and refer the matter to the Director for further action.
+
 3. Make a compliance order under section 279.2.
+
 4. Issue a notice of administrative penalty under section 279.8.
 
 ### Non-compliance remedied
@@ -6557,8 +8209,11 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Compliance orders
 
 279.2 (1) If an inspector or a Director believes on reasonable grounds that a licensee or a person providing residential care on behalf of the licensee has contravened or failed to comply with a requirement under this Act, with a condition of the licence or with a directive issued under section 252, the inspector or Director may order them to,
+
 (a) do anything or refrain from doing anything to achieve compliance;
+
 (b) prepare, submit and implement a written plan that is acceptable to the inspector or Director for achieving compliance; or
+
 (c) arrange for a person specified in the order to complete specified educational courses or training.
 
 ### Term
@@ -6580,7 +8235,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Notice to placing agency or other person
 
 (6) An inspector or the Director may provide to every placing agency or person who has a child placed in the children’s residence or other place where residential care is provided under the authority of a licence notice that,
+
 (a) an order has been made under subsection (1) or amended or revoked under subsection (3); and
+
 (b) the licensee or other person who is the subject of the order has complied with it.
 
 ### Notice to representative of a First Nations, Inuit or Métis community
@@ -6590,7 +8247,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Information upon request
 
 (8) For the purposes of assisting the Director or inspector in providing notice under subsection (6) or (7), the licensee shall, upon request, provide the Director or inspector with,
+
 (a) the name of any placing agency or person who has a child placed in the children’s residence or other place where residential care is provided under the authority of a licence; and
+
 (b) in the case of a First Nations, Inuk or Métis child, with the name of the representative chosen by each of the child’s bands or First Nations, Inuit or Métis communities.
 
 ### No personal information
@@ -6620,7 +8279,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Order requiring management
 
 279.4 (1) A Director may order a licensee to retain, at the licensee’s expense, one or more persons acceptable to the Director to manage or assist in managing,
+
 (a) the entire operation of the children’s residence or other place where residential care is provided under the authority of a licence; or
+
 (b) a specific issue related to the operation of the children’s residence or other place where residential care is provided under the authority of a licence.
 
 ### Contents of order
@@ -6630,9 +8291,13 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Grounds
 
 (3) An order may be made under subsection (1) if,
+
 (a) there are reasonable grounds to believe that the licensee has not complied with a requirement under this Act, with a condition of their licence or with a directive issued under section 252;
+
 (b) there are reasonable grounds to believe that the licensee cannot or will not properly manage the children’s residence or other place where residential care is provided under the authority of a licence, or that they cannot do so without assistance;
+
 (c) there are circumstances present in the residence or other place where residential care is provided under the authority of a licence that are prejudicial to the child’s health, safety or welfare; or
+
 (d) there is an emergency situation in the residence or other place, or a situation comparable to an emergency, including an outbreak of disease of public health significance, a communicable disease as defined in the Health Protection and Promotion Act or a pandemic.
 
 ### Director’s authority to collect information
@@ -6662,7 +8327,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Information upon request
 
 (10) For the purposes of assisting the Director in providing notice under subsection (8) or (9), the licensee shall, upon request, provide the Director or inspector with,
+
 (a) the name of any placing agency or person who has a child placed in the children’s residence or other place where residential care is provided under the authority of a licence; and
+
 (b) in the case of a First Nations, Inuk or Métis child, with the name of the representative chosen by each of the child’s bands or First Nations, Inuit or Métis communities.
 
 ### No personal information
@@ -6680,21 +8347,29 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Grounds
 
 (3) An order may be made under subsection (1) if the Director has determined that,
+
 (a) the licensee has misused or failed to use all or part of the funding provided to them in accordance with the terms of an agreement for the provision of residential care to a child entered into with a person or entity; or
+
 (b) the licensee has misused or failed to use funding provided to them by a person or entity for the provision of residential care under the authority of a licence in any of the prescribed circumstances.
 
 ### Determination of amount
 
 (4) In determining the amount of money to be returned or paid, the Director shall take into account the following principles:
+
 1. The amount of money returned or paid should be sufficient to encourage compliance with the terms of any agreement in place respecting funding to be provided to the licensee for the provision of residential care.
+
 2. The amount of money returned or paid shall be reasonably proportionate to the amount of funding that the licensee misused or failed to use for the provision of residential care to a child.
+
 3. Any other principles that may be prescribed.
 
 ### Financial information
 
 (5) For the purposes of deciding whether to make an order under subsection (1) or determining the amount to be returned or paid under subsection (4), the Director may, if the Director believes that a licensee has misused or failed to use all or part of the funding provided to or collected by the licensee for the provision of residential care from a person or entity, require the person or entity to provide,
+
 (a) documentation of all funding provided to the licensee for the provision of residential care in respect of children placed with the licensee;
+
 (b) a copy of any agreements entered into with the licensee for the provision of residential care, including details of the financial arrangements with respect to the licensee’s provision of residential care to the children; and
+
 (c) any other prescribed information.
 
 ### Interpretation
@@ -6716,7 +8391,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Information upon request
 
 (10) For the purposes of assisting the Director in providing notice under subsection (8) or (9), the licensee shall, upon request, provide the Director or inspector with,
+
 (a) the name of any placing agency or person who has a child placed in the children’s residence or other place where residential care is provided under the authority of a licence; and
+
 (b) in the case of a First Nations, Inuk or Métis child, with the name of the representative chosen by each of the child’s bands or First Nations, Inuit or Métis communities.
 
 ### No personal information
@@ -6726,7 +8403,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Production order
 
 279.6 (1) On application without notice by a provincial offences officer, a justice may at any time issue a production order to a person, other than a person under investigation for an offence, requiring the person to,
+
 (a) produce documents or data, or copies of documents or data certified by affidavit to be true copies; or
+
 (b) prepare a document based on documents or data already in existence and produce it.
 
 ### Contents of order
@@ -6736,8 +8415,11 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Grounds
 
 (3) A justice may make a production order if satisfied by information given under oath or affirmation that there are reasonable grounds to believe that,
+
 (a) an offence under this Act has been or is being committed;
+
 (b) the document or data will provide evidence respecting the offence or suspected offence; and
+
 (c) the person who is subject to the order has possession or control of the document or data.
 
 ### Conditions
@@ -6759,10 +8441,15 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Form and service of orders
 
 279.7 An order under section 279.2, 279.4 or 279.5 shall,
+
 (a) be in writing;
+
 (b) set out the reasons for the order and any other prescribed information;
+
 (c) set out, if there is a right of review under subsection 279.9 (1), a statement of that right and an explanation of how to exercise that right, including the deadline for requesting a review;
+
 (d) set out, if there is a right to a hearing under section 265, a statement of that right and an explanation of how to exercise that right, including the deadline for requesting a hearing; and
+
 (e) be served on the licensee against whom it is made or issued and, in the case of a compliance order, on the person whom the Director or inspector believes is not in compliance with a requirement under this Act, any licence conditions or a directive issued under section 252, if that person is not the licensee.
 
 ### Administrative Penalties
@@ -6774,28 +8461,39 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Purposes of administrative penalty
 
 (2) A notice of administrative penalty may be issued under this section for the purpose of,
+
 (a) encouraging compliance with a requirement under this Act or with a directive issued under section 252; or
+
 (b) preventing a licensee from deriving, directly or indirectly, any economic benefit as a result of contravening or failing to comply with a requirement under this Act or with a directive issued under section 252.
 
 ### Content and service of notice of administrative penalty
 
 (3) A notice of administrative penalty shall be served on the licensee against whom it is issued and shall,
+
 (a) set out the reasons for the notice, including details of the contravention or failure to comply, and any other prescribed information;
+
 (b) set out the amount of the penalty to be paid and specify the time and manner of the payment; and
+
 (c) state that the licensee is entitled to request a review of the notice by a designated senior employee under subsection 279.9 (1) and an explanation of how to request the review, including the deadline for doing so.
 
 ### Amount of administrative penalty
 
 (4) Subject to subsections (5) and (6), the amount of an administrative penalty in respect of a contravention or failure to comply,
+
 (a) shall be determined by the inspector or Director in accordance with the prescribed rules;
+
 (b) shall not exceed $100,000; and
+
 (c) shall reflect the purposes referred to in subsection (2).
 
 ### Same, considerations
 
 (5) In determining the amount of an administrative penalty under clause (4) (a), the inspector or Director may consider,
+
 (a) whether the licensee has previously contravened or failed to comply with a requirement under this Act or with a directive issued under section 252;
+
 (b) whether an order has previously been made under section 279.2 because the licensee contravened or failed to comply with the same requirement under this Act or with a directive issued under section 252, including an order made before this section came into force; or
+
 (c) any other prescribed criteria.
 
 ### Same, reduced amount
@@ -6805,7 +8503,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Notice to placing agency or other person
 
 (7) An inspector or the Director may provide to every placing agency or person who has a child placed in the children’s residence or other place where residential care is provided under the authority of a licence notice that,
+
 (a) a notice of administrative penalty has been issued under subsection (1) or amended or revoked under subsection (13); and
+
 (b) the licensee who is the subject of the notice has paid the administrative penalty.
 
 ### Notice to representative of a First Nations, Inuit or Métis community
@@ -6815,7 +8515,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Information upon request
 
 (9) For the purposes of assisting the Director or inspector in providing notice under subsection (7) or (8), the licensee shall, upon request, provide the Director or inspector with,
+
 (a) the name of any placing agency or person who has a child placed in the children’s residence or other place where residential care is provided under the authority of a licence; and
+
 (b) in the case of a First Nations, Inuk or Métis child, with the name of the representative chosen by each of the child’s bands or First Nations, Inuit or Métis communities.
 
 ### No personal information
@@ -6825,7 +8527,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Posting of summary of notice
 
 (11) A Director or inspector may post a summary of the notice of administrative penalty, a summary of any amendments to the notice or a summary of the revocation of the notice,
+
 (a) in the case of a children’s residence, at the residence; or
+
 (b) in the case of any other place where residential care is provided under the authority of a licence, at the business premises of the licensee or at any other prescribed premises.
 
 ### Removal of summary of notice prohibited
@@ -6853,7 +8557,9 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Review of order to return or pay funds and of notice of administrative penalty
 
 279.9 (1) A licensee may request that a designated senior employee conduct a review in the following circumstances:
+
 1. The licensee has been ordered to return or pay a specified amount of money under subsection 279.5 (1).
+
 2. A notice of administrative penalty has been issued against the licensee under section 279.8.
 
 ### Request for review
@@ -6863,9 +8569,13 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Contents of request for review
 
 (3) The request for review must include,
+
 (a) the portions of the order or notice of administrative penalty in respect of which the review is requested;
+
 (b) any submissions that the licensee wishes the designated senior employee to consider;
+
 (c) an address for service on the licensee; and
+
 (d) an email address for the licensee, if available.
 
 ### Copy of request
@@ -6883,16 +8593,23 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Decision of the designated senior employee re administrative penalty
 
 (2) On review of a notice of administrative penalty, the designated senior employee may,
+
 (a) find that the licensee did not contravene or fail to comply with a requirement under this Act or a directive issued under section 252 specified in the notice, and rescind the notice;
+
 (b) find that the licensee did contravene or fail to comply with a requirement under this Act or a directive issued under section 252, and confirm the notice;
+
 (c) find that the licensee did contravene or fail to comply with a requirement under this Act or a directive issued under section 252, but that the penalty is excessive in the circumstances or is, by its magnitude, punitive in nature having regard to all the circumstances, in which case the employee shall amend the notice by reducing the amount of the penalty; or
+
 (d) find that the amount of the administrative penalty was calculated incorrectly, and increase or decrease the amount to correct the calculation.
 
 ### Form and service of decision
 
 (3) The decision of the designated senior employee shall,
+
 (a) be in writing;
+
 (b) set out the reasons for the decision and any other prescribed information; and
+
 (c) be served on the licensee and, in the case of an order made under subsection 279.5 (1), on the person or entity that is named in the order.
 
 ### Compliance after review
@@ -6922,8 +8639,11 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Enforcement of order to return or pay funds and administrative penalty
 
 279.12 (1) Subject to subsection (2), if a licensee fails to comply with an order made under section 279.5 or fails to pay an administrative penalty in accordance with the terms set out in the notice, a certified copy of any of the following may be filed with a local registrar of the Superior Court of Justice and, on filing, is deemed to be an enforceable order of that court:
+
 1. An order made under section 279.5.
+
 2. A notice of administrative penalty issued under section 279.8.
+
 3. A designated senior employee’s decision made under section 279.10.
 
 ### Same
@@ -6943,33 +8663,53 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Offences
 
 280 (1) A person is guilty of an offence if the person,
+
 (a) contravenes section 244 (licence required);
+
 (b) contravenes section 245 (prohibition — past offence);
+
 (c) contravenes section 246 (prohibition — holding out as licensed);
+
 (d) contravenes subsection 259 (3) (licensee must comply with maximum number of children);
+
 (e) contravenes clause 269 (b) (records to be delivered);
+
 (f) causes a child to be cared for in a children’s residence operated by a person who is not licensed, or in another place where residential care is provided by a person who is required to be but is not licensed to provide residential care;
+
 (g) is a child’s parent or a person under a legal duty to provide for the child and permits the child to be cared for in a children’s residence or other place referred to in clause (f);
+
 (h) fails to comply with an order or direction made by a court under this Part;
+
 (i) contravenes any other provision of this Act or the regulations prescribed for the purposes of this subsection;
+
 (j) contravenes section 249 (duty to provide licence and other information);
+
 (k) fails to comply with a notice issued under section 264 (suspension);
+
 (l) fails to comply with an order made under section 279.2 (compliance orders);
+
 (m) fails to comply with an order made under section 279.4 (order requiring management);
+
 (n) fails to comply with an order made under section 279.5 (order to return funds or pay);
+
 (o) fails to pay an administrative penalty issued under section 279.8.
 
 ### Penalty
 
 (2) A person convicted of an offence under subsection (1) is liable to,
+
 (a) a fine of not more than $250,000 or imprisonment for a term of not more than one year or both, in the case of an individual; or
+
 (b) a fine of not more than $250,000 if the person is not an individual.
 
 ### Offence — obstruction of inspector, false information, etc.
 
 (3) A person is guilty of an offence if the person,
+
 (a) hinders, obstructs, or interferes with an inspector conducting an inspection under this Part, or otherwise impedes an inspector in exercising the powers or performing the duties of an inspector under this Part.
+
 (b) knowingly provides false information in an application under this Part or in a statement, report or return required to be provided under this Part or the regulations; or
+
 (c) contravenes any other provision of this Act or the regulations prescribed for the purposes of this subsection.
 
 ### Penalty
@@ -6993,8 +8733,11 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Service
 
 280.1 (1) Anything that is required to be served by a Director, an inspector or a designated senior employee under this Part shall be served,
+
 (a) personally;
+
 (b) by registered mail or commercial courier to the person who is to be served at the last address appearing on the records of the Ministry for that person; or
+
 (c) by email to the person who is to be served at the last email address appearing on the records of the Ministry for that person.
 
 ### Same
@@ -7004,8 +8747,11 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Personal service
 
 (3) For the purposes of clause (1) (a), a document is served personally if,
+
 (a) in the case of an individual, a copy of the document is delivered personally to the individual;
+
 (b) in the case of a sole proprietorship, a copy of the document is delivered personally to the sole proprietor or to a person apparently authorized to accept the delivery in an office of the proprietor; or
+
 (c) in the case of a corporation, a copy of the document is delivered personally to an officer or director of the corporation or to a person apparently authorized to accept the delivery in an office of the corporation.
 
 ### Same
@@ -7039,14 +8785,23 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Definitions
 
 281 In this Part,
+
 “Assistant Commissioner” means an Assistant Commissioner appointed under the Freedom of Information and Protection of Privacy Act; (“commissaire adjoint”)
+
 “capable” means able to understand the information that is relevant to deciding whether to consent to the collection, use or disclosure of personal information and able to appreciate the reasonably foreseeable consequences of giving, withholding or withdrawing the consent and “capacity” has a corresponding meaning; (“capable”)
+
 “Commissioner” means the Information and Privacy Commissioner appointed under the Freedom of Information and Protection of Privacy Act; (“commissaire”)
+
 “incapable” means not capable, and “incapacity” has a corresponding meaning; (“incapable”)
+
 “information practices” means the policy or policies respecting the collection, use, modification, disclosure, retention or disposal of personal information and the administrative, technical and physical safeguards and practices that the service provider maintains with respect to the information; (“pratiques relatives aux renseignements”)
+
 “proceeding” includes a proceeding held in, before or under the rules of a court, a tribunal, a commission, a justice of the peace, a coroner, a committee of a College within the meaning of the Regulated Health Professions Act, 1991, a committee of the Ontario College of Social Workers and Social Service Workers under the Social Work and Social Service Work Act, 1998, the Council or a committee of the College of Early Childhood Educators under the Early Childhood Educators Act, 2007, a committee of the Ontario College of Teachers under the Ontario College of Teachers Act, 1996, an arbitrator or a mediator; (“instance”)
+
 “service” means a service or program that is provided or funded under this Act or provided under the authority of a licence; (“service”)
+
 “service provider” includes a lead agency designated under section 30; (“fournisseur de services”)
+
 “substitute decision-maker” means a person who is authorized under this Part to consent, withhold or withdraw consent on behalf of an individual to the collection, use or disclosure of personal information about the individual. (“mandataire spécial”)
 
 ### Confidentiality provisions prevail
@@ -7060,20 +8815,31 @@ vii. A designated senior employee’s decision under section 279.10.
 ### Collection of personal information
 
 283 (1) The Minister may collect personal information, directly or indirectly, for purposes related to the following matters, and may use it for those purposes:
+
 1. Administering this Act and the regulations.
+
 2. Determining compliance with this Act and the regulations.
+
 3. Planning, managing or delivering services that the Ministry provides or funds, in whole or in part, allocating resources to any of them, evaluating or monitoring any of them or detecting, monitoring and preventing fraud or any unauthorized receipt of services or benefits related to any of them.
+
 4. Conducting risk management and error management activities in respect of the services that the Ministry provides or funds, in whole or in part.
+
 5. Conducting activities to improve or maintain the quality of the services that the Ministry provides or funds, in whole or in part.
+
 6. Conducting research and analysis that relate to children and their families, including longitudinal studies, by or on behalf of the Ministry that relate to,
+
 i. a service,
+
 ii. the transition of children and their families between and out of services, including the resulting outcomes, or
+
 iii. programs that support the learning, development, health and well-being of children and their families, including programs provided or funded in whole or in part by the Ministry or any other ministry of the Government of Ontario.
 
 ### Personal information required by Minister
 
 (2) The Minister may require any of the following persons to disclose to the Minister such personal information as is reasonably necessary for the purposes described in subsection (1):
+
 1. A service provider.
+
 2. Any other prescribed person who has information that is relevant to any of the purposes described in subsection (1).
 
 ### Information other than personal information
@@ -7099,7 +8865,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Notice required by s. 39 (2) of FIPPA
 
 (8) If the Minister collects personal information indirectly under subsection (1), the notice required by subsection 39 (2) of the Freedom of Information and Protection of Privacy Act may be given by,
+
 (a) a public notice posted on a government of Ontario website; or
+
 (b) any other method that may be prescribed.
 
 ### Information requested by Minister
@@ -7115,7 +8883,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Notice required by s. 39 (2) of FIPPA
 
 (3) If the Minister collects personal information indirectly under subsection (1), the notice required by subsection 39 (2) of the Freedom of Information and Protection of Privacy Act may be given by,
+
 (a) a public notice posted on a government of Ontario website; or
+
 (b) any other method that may be prescribed.
 
 ### Notice to and by service providers
@@ -7139,14 +8909,19 @@ iii. programs that support the learning, development, health and well-being of c
 ### Exceptions — adoption matters
 
 (4) Sections 286 to 332 do not apply to,
+
 (a) the use or disclosure under section 227 by a licensee or a society of information that relates to an adoption; or
+
 (b) the collection, use or disclosure of information given to a designated custodian under section 224 or to another person under section 225.
 
 ### Exceptions — other matters
 
 (5) Sections 286 to 332 do not apply to,
+
 (a) records in the register maintained under subsection 133 (5);
+
 (b) records to which subsection 130 (6) or (8) apply;
+
 (c) reports for which an order was made under subsection 163 (6).
 
 ### Service provider’s records
@@ -7160,7 +8935,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Collection, use and disclosure of personal information — requirement for consent
 
 286 A service provider shall not collect personal information about an individual for the purpose of providing a service or use or disclose that information unless,
+
 (a) the service provider has the individual’s consent under this Act and the collection, use or disclosure, to the best of the service provider’s knowledge, is necessary for a lawful purpose; or
+
 (b) the collection, use or disclosure without the individual’s consent is permitted or required by this Act.
 
 ### Collection, use and disclosure of information other than personal information
@@ -7184,19 +8961,29 @@ iii. programs that support the learning, development, health and well-being of c
 ### Without consent
 
 (2) A service provider may collect personal information indirectly for the purpose of providing a service and without the consent of the individual to whom the information relates if,
+
 (a) the information to be collected is reasonably necessary to provide a service or to assess, reduce or eliminate a risk of serious harm to a person or group of persons and it is not reasonably possible to collect personal information directly from the individual,
+
 (i) that can reasonably be relied on as accurate and complete, or
+
 (ii) in a timely manner;
+
 (b) the information is to be collected by a society from another society or from a child welfare authority outside of Ontario and the information is reasonably necessary to assess, reduce or eliminate a risk of harm to a child;
+
 (c) the information is to be collected by a society and the information is reasonably necessary for a prescribed purpose related to a society’s functions under subsection 35 (1);
+
 (d) the indirect collection of information is authorized by the Commissioner; or
+
 (e) subject to the requirements and restrictions, if any, that are prescribed, the indirect collection of information is permitted or required by law or by a treaty, agreement or arrangement made under an Act or an Act of Canada.
 
 ### Direct collection without consent
 
 289 A service provider may collect personal information directly from the individual to whom the information relates, even if the individual is not capable, if,
+
 (a) the collection is reasonably necessary for the provision of a service and it is not reasonably possible to obtain consent in a timely manner;
+
 (b) the collection is reasonably necessary to assess, reduce or eliminate a risk of serious harm to a person or group of persons; or
+
 (c) the service provider is a society and the information is reasonably necessary to assess, reduce or eliminate a risk of harm to a child.
 
 ### Notice to individual re use or disclosure of information
@@ -7206,52 +8993,83 @@ iii. programs that support the learning, development, health and well-being of c
 ### Permitted use
 
 291 (1) A service provider may use personal information collected for the purpose of providing a service,
+
 (a) for the purpose for which the information was collected or created and for all the functions reasonably necessary for carrying out that purpose, including providing the information to an officer, employee, consultant or agent of the service provider, but not if the information was collected with the consent of the individual or under clause 288 (2) (a) and the individual expressly instructs otherwise;
+
 (b) if the service provider believes on reasonable grounds that the use is reasonably necessary to assess, reduce or eliminate a risk of serious harm to a person or group of persons;
+
 (c) for a purpose for which this Act, another Act or an Act of Canada permits or requires a person to disclose it to the service provider;
+
 (d) for planning, managing or delivering services that the service provider provides or funds, in whole or in part, allocating resources to any of them, evaluating or monitoring any of them or detecting, monitoring or preventing fraud or any unauthorized receipt of services or benefits related to any of them;
+
 (e) for the purpose of risk management and error management activities;
+
 (f) for the purpose of activities to improve or maintain the quality of a service;
+
 (g) for the purpose of disposing of the information or modifying the information in order to conceal the identity of the individual;
+
 (h) for the purpose of seeking the individual’s consent, or the consent of the individual’s substitute-decision maker, when the personal information used by the service provider for this purpose is limited to the name and contact information of the individual and the name and contact information of the substitute decision-maker, where applicable;
+
 (i) for the purpose of a proceeding or contemplated proceeding in which the service provider or an officer, employee, agent or former officer, employee or agent of the service provider is, or is expected to be, a party or witness, if the information relates to or is a matter in issue in the proceeding or contemplated proceeding;
+
 (j) for research conducted by the service provider, subject to the requirements and restrictions, if any, that may be prescribed; or
+
 (k) subject to the requirements and restrictions, if any, that are prescribed, if permitted or required by law or by a treaty, agreement or arrangement made under an Act or an Act of Canada.
 
 ### Exception
 
 (2) Despite clause (1) (a), where the individual to whom the personal information relates expressly instructs otherwise,
+
 (a) a society may nonetheless use that personal information,
+
 (i) if it is reasonably necessary to assess, reduce or eliminate a risk of harm to a child, or
+
 (ii) for a prescribed purpose related to a society’s functions under subsection 35 (1); and
+
 (b) a service provider may nonetheless use that personal information if it is reasonably necessary to assess, reduce or eliminate a risk of serious harm to a person or group of persons.
 
 ### No use of personal information
 
 291.1 (1) Despite sections 286 and 291, no society or prescribed person or entity shall use personal information about an individual that was collected by the society or prescribed person or entity when the individual was receiving care and support pursuant to an agreement made under section 124 or when the individual was a child who was or may have been in need of protection or that was collected in other prescribed circumstances, if,
+
 (a) the personal information is held in a prescribed record or relates to care and support received pursuant to an agreement made under section 124 or to prescribed services provided to the individual; and
+
 (b) the individual is no longer eligible to receive care and support pursuant to an agreement made under section 124 or prescribed services.
 
 ### Exceptions
 
 (2) A society or prescribed person or entity may, in accordance with any regulations and subject to any prescribed restrictions, use the personal information described in subsection (1) if,
+
 (a) the society or prescribed person or entity is required to use the information for purposes of providing the information to the Minister pursuant to a request made under subsection 283 (2) or 284 (2);
+
 (b) the society or prescribed person or entity is using the personal information to respond to a request for access to personal information under section 313;
+
 (c) the use is for the purposes of section 320; or
+
 (d) the use is for a prescribed purpose.
 
 ### Disclosure without consent
 
 292 (1) A service provider may, without the consent of the individual, disclose personal information about an individual that has been collected for the purpose of providing a service,
+
 (a) to a law enforcement agency in Canada to aid an investigation undertaken with a view to a law enforcement proceeding or to allow the agency to determine whether to undertake such an investigation;
+
 (b) to a proposed litigation guardian or legal representative of the individual for the purpose of having the person appointed as such;
+
 (c) to a litigation guardian or legal representative who is authorized under the Rules of Civil Procedure, or by a court order, to commence, defend or continue a proceeding on behalf of the individual or to represent the individual in a proceeding;
+
 (d) for the purpose of contacting a relative, member of the extended family, friend or potential substitute decision-maker of the individual, if the individual is injured, incapacitated or otherwise not capable;
+
 (e) for the purpose of contacting a relative, member of the extended family or friend of the individual if the individual is deceased;
+
 (f) subject to section 294, for the purpose of complying with,
+
 (i) a summons, order or similar requirement issued in a proceeding by a person having jurisdiction to compel the production of information, or
+
 (ii) a procedural rule that relates to the production of information in a proceeding;
+
 (g) if the service provider believes on reasonable grounds that the disclosure is necessary to assess, reduce or eliminate a risk of serious harm to a person or group of persons; or
+
 (h) if permitted or required by law or by a treaty, agreement or arrangement made under an Act or an Act of Canada, subject to the requirements and restrictions, if any, that are prescribed.
 
 ### To assess, etc. risk of harm to a child
@@ -7265,20 +9083,27 @@ iii. programs that support the learning, development, health and well-being of c
 ### Definition
 
 (4) In this section,
+
 “law enforcement” has the same meaning as in subsection 2 (1) of the Freedom of Information and Protection of Privacy Act.
 
 ### No disclosure of personal information
 
 292.1 (1) Despite sections 286 and 292, no society or prescribed person or entity shall disclose personal information about an individual that was collected by the society or prescribed person or entity when the individual was receiving care and support pursuant to an agreement made under section 124 or when the individual was a child who was or may have been in need of protection or that was collected in other prescribed circumstances, if,
+
 (a) the personal information is held in a prescribed record or relates to care and support received pursuant to an agreement made under section 124 or to prescribed services provided to the individual; and
+
 (b) the individual is no longer eligible to receive care and support pursuant to an agreement made under section 124 or prescribed services.
 
 ### Exceptions
 
 (2) A society or prescribed person or entity may, in accordance with any regulations and subject to any prescribed restrictions, disclose the personal information described in subsection (1) if,
+
 (a) the society or prescribed person or entity is required to disclose the information for purposes of providing the information to the Minister pursuant to a request made under subsection 283 (2) or 284 (2);
+
 (b) the society or prescribed person or entity is disclosing the personal information to respond to a request for access to personal information under section 313;
+
 (c) the disclosure is for the purposes of section 320; or
+
 (d) the disclosure is for a prescribed purpose.
 
 ### Disclosure for planning and managing services, etc.
@@ -7302,7 +9127,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Requirements for prescribed entity
 
 (5) A service provider may disclose personal information to a prescribed entity under subsection (1) or (3) if,
+
 (a) the prescribed entity has in place practices and procedures to protect the privacy of the individuals whose personal information it receives and to maintain the confidentiality of the information; and
+
 (b) the Commissioner has approved the practices and procedures.
 
 ### Exception
@@ -7330,15 +9157,21 @@ iii. programs that support the learning, development, health and well-being of c
 ### Definitions
 
 294 (1) In this section,
+
 “court” includes the Divisional Court; (“tribunal”)
+
 “record of a mental disorder” means a record or a part of a record made about an individual concerning a substantial disorder of the individual’s emotional processes, thought or cognition which grossly impairs the individual’s capacity to make reasoned judgments. (“dossier relatif à un trouble mental”)
 
 ### Disclosure pursuant to summons, etc.
 
 (2) A service provider shall disclose, transmit or permit the examination of a record of a mental disorder pursuant to a summons, order, direction, notice or similar requirement in respect of a matter in issue or that may be in issue in a court or other body unless a physician states in writing that the physician believes that to do so,
+
 (a) is likely to detrimentally affect the treatment or recovery of the individual to whom the record relates; or
+
 (b) is likely to result in,
+
 (i) injury to the mental condition of another individual, or
+
 (ii) bodily harm to another individual.
 
 ### Court or body to determine whether to disclose
@@ -7370,9 +9203,13 @@ iii. programs that support the learning, development, health and well-being of c
 ### Elements of consent for collection, use and disclosure of personal information
 
 295 (1) If this Act or any other Act requires the consent of an individual to the collection, use or disclosure of personal information by a service provider, the consent,
+
 (a) must be a consent of the individual;
+
 (b) must be knowledgeable;
+
 (c) must relate to the information; and
+
 (d) must not be obtained through deception or coercion.
 
 ### Implied consent for collection and use
@@ -7382,22 +9219,31 @@ iii. programs that support the learning, development, health and well-being of c
 ### Consent may be written or oral
 
 (3) A consent may be written or oral, but an oral consent may be relied on only if the service provider that obtains the consent makes a written record that sets out the following information:
+
 1. The name of the individual who gave the consent.
+
 2. The information to which the consent relates.
+
 3. The manner in which the notice of purposes required by subsection (5) was provided to the individual.
 
 ### Knowledgeable consent
 
 (4) A consent to the collection, use or disclosure of personal information is knowledgeable if it is reasonable in the circumstances to believe that the individual to whom the information relates knows,
+
 (a) the purposes of the collection, use or disclosure; and
+
 (b) that the individual may give, withhold or withdraw consent.
 
 ### Notice of purposes
 
 (5) Unless it is not reasonable in the circumstances, an individual is deemed to know the purposes of the collection, use or disclosure of personal information about the individual if the service provider,
+
 (a) posts a notice describing the purposes where it is likely to come to the individual’s attention;
+
 (b) makes such a notice readily available to the individual;
+
 (c) gives the individual a copy of such notice; or
+
 (d) otherwise communicates the content of such notice to the individual.
 
 ### Transition
@@ -7439,7 +9285,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### For child younger than 16
 
 (2) If the individual is a child younger than 16, the child’s parent or a society or other person who is authorized to give, withhold or withdraw consent in the place of the parent may be the child’s substitute decision-maker unless the information relates to,
+
 (a) treatment about which the child has made a decision in accordance with the Health Care Consent Act, 1996; or
+
 (b) counselling to which the child has consented on their own under this Act or the old Act.
 
 ### Capable child prevails over substitute decision-maker
@@ -7453,11 +9301,17 @@ iii. programs that support the learning, development, health and well-being of c
 ### Factors to consider for consent
 
 302 (1) A person who consents under this Part on behalf of or in the place of an individual to a collection, use or disclosure of personal information by a service provider, who withholds or withdraws such a consent or who provides an express instruction under clause 291 (1) (a) shall take into consideration,
+
 (a) the wishes, values and beliefs that,
+
 (i) if the individual is capable, the person knows the individual holds and believes the individual would want reflected in decisions made concerning the individual’s personal information, or
+
 (ii) if the individual is incapable or deceased, the person knows the individual held when capable or alive and believes the individual would have wanted reflected in decisions made concerning the individual’s personal information;
+
 (b) whether the benefits that the person expects from the collection, use or disclosure of the information outweigh the risk of negative consequences occurring as a result of the collection, use or disclosure;
+
 (c) whether the purpose for which the collection, use or disclosure is sought can be accomplished without the collection, use or disclosure; and
+
 (d) whether the collection, use or disclosure is necessary to satisfy any legal obligation.
 
 ### Determination of compliance
@@ -7471,9 +9325,13 @@ iii. programs that support the learning, development, health and well-being of c
 ### Parties
 
 (4) The parties to the application are:
+
 1. The service provider.
+
 2. The incapable individual.
+
 3. The substitute decision-maker.
+
 4. Any other person whom the prescribed body specifies.
 
 ### Power of prescribed body
@@ -7527,8 +9385,11 @@ iii. programs that support the learning, development, health and well-being of c
 ### Parties
 
 (5) The parties to an application made under subsection (3) are,
+
 (a) the individual or prescribed person who applied for the review of the determination;
+
 (b) the service provider who made the determination of incapacity; and
+
 (c) any other persons whom the prescribed body specifies.
 
 ### Powers of review body
@@ -7562,39 +9423,57 @@ iii. programs that support the learning, development, health and well-being of c
 ### Parties
 
 (5) The parties to the application are:
+
 1. The individual to whom the personal information relates.
+
 2. The proposed representative named in the application.
+
 3. Every person who is described in paragraph 4, 5, 6 or 7 of subsection 26 (1) of the Personal Health Information Protection Act, 2004.
+
 4. All other persons whom the prescribed body specifies.
 
 ### Appointment
 
 (6) In an appointment under this section, the prescribed body may authorize the representative to consent, on behalf of the individual to whom the personal information relates, to,
+
 (a) a particular collection, use or disclosure at a particular time;
+
 (b) a collection, use or disclosure of the type specified by the prescribed body in circumstances specified by the prescribed body, if the individual is determined to be incapable at the time the consent is sought; or
+
 (c) any collection, use or disclosure at any time, if the individual is determined to be incapable at the time the consent is sought.
 
 ### Criteria for appointment
 
 (7) The prescribed body may make an appointment under this section if it is satisfied that the following requirements are met:
+
 1. The individual to whom the personal information relates does not object to the appointment.
+
 2. The representative consents to the appointment, is at least 16 and is capable.
+
 3. The appointment is in the best interests of the individual to whom the personal information relates.
 
 ### Powers of prescribed body
 
 (8) Unless the individual to whom the personal information relates objects, the prescribed body may,
+
 (a) appoint as representative a different individual than the one named in the application;
+
 (b) limit the duration of the appointment;
+
 (c) impose any other condition on the appointment; or
+
 (d) on any person’s application, remove, vary or suspend a condition imposed on the appointment or impose an additional condition on the appointment.
 
 ### Termination
 
 (9) A body prescribed for the purposes of this section may, on any person’s application, terminate an appointment made under this section if,
+
 (a) the individual to whom the personal information relates or the representative requests the termination;
+
 (b) the representative is no longer capable;
+
 (c) the appointment is no longer in the best interests of the individual to whom the personal information relates; or
+
 (d) the individual to whom the personal information relates has a guardian of the person, a guardian of property, an attorney for personal care or an attorney for property, who has authority to give or refuse consent to the types of collections, uses and disclosures for which the appointment was made and in the circumstances to which the appointment applies.
 
 ### Procedure
@@ -7612,7 +9491,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Personal information disclosed by service provider
 
 (2) A service provider that discloses personal information that has been collected for the purpose of providing a service shall,
+
 (a) take reasonable steps to ensure that the information is as accurate, complete and up-to-date as is necessary for the purposes of the disclosure that are known to the service provider at the time of the disclosure; or
+
 (b) clearly set out for the recipient of the disclosure the limitations, if any, on the accuracy, completeness or up-to-date character of the information.
 
 ### Record of disclosed personal information
@@ -7630,7 +9511,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Notice of theft, loss, etc. to individual
 
 (2) Subject to any prescribed exceptions and additional requirements, if personal information that has been collected for the purpose of providing a service and that is in a service provider’s custody or control is stolen or lost or if it is used or disclosed without authority, the service provider shall,
+
 (a) notify the individual to whom the information relates at the first reasonable opportunity of the theft, loss or unauthorized use or disclosure; and
+
 (b) include in the notice a statement that the individual is entitled to make a complaint to the Commissioner under section 316.
 
 ### Notice to Commissioner and Minister
@@ -7640,7 +9523,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Handling of records
 
 309 (1) A service provider,
+
 (a) shall take reasonable steps to ensure that the records of personal information collected for the purpose of providing a service that are in its custody or control are retained, transferred and disposed of in a secure manner; and
+
 (b) shall comply with any prescribed requirements in respect of the retention, transfer and disposal of those records.
 
 ### Retention of records subject to access request
@@ -7658,21 +9543,29 @@ iii. programs that support the learning, development, health and well-being of c
 ### Definitions
 
 (3) In this section,
+
 “potential successor” and “successor” mean a potential successor or a successor that is a service provider or that will be a service provider if it becomes a successor.
 
 ### Written public statement by service provider
 
 311 (1) A service provider shall, in a manner that is practical in the circumstances, make available to the public a written statement in plain, easy-to-understand language that,
+
 (a) provides a general description of the service provider’s information practices;
+
 (b) describes how to contact the service provider;
+
 (c) describes how an individual may obtain access to or request correction of a record of personal information about the individual that is in the custody or control of the service provider; and
+
 (d) describes how to make a complaint to the service provider and to the Commissioner under this Part.
 
 ### Use or disclosure contrary to service provider’s information practices
 
 (2) If a service provider uses or discloses personal information about an individual, without the individual’s consent, in a manner that is outside the scope of the service provider’s description of its information practices under clause (1) (a), the service provider shall,
+
 (a) inform the individual of the uses and disclosures at the first reasonable opportunity, unless the individual does not have a right of access under section 312 to a record of the information;
+
 (b) make a note of the uses and disclosures; and
+
 (c) keep the note as part of the record of personal information about the individual that it has in its custody or under its control or in a form that is linked to that record.
 
 ### Individual’s Access to Personal Information
@@ -7680,12 +9573,19 @@ iii. programs that support the learning, development, health and well-being of c
 ### Individual’s right of access
 
 312 (1) An individual has a right of access to a record of personal information about the individual that is in a service provider’s custody or control and that relates to the provision of a service to the individual unless,
+
 (a) the record or the information in the record is subject to a legal privilege that restricts its disclosure to the individual;
+
 (b) another Act, an Act of Canada or a court order prohibits its disclosure to the individual;
+
 (c) the information in the record was collected or created primarily in anticipation of or for use in a proceeding, and the proceeding, together with all appeals or processes resulting from it, has not been concluded; or
+
 (d) granting the access could reasonably be expected to,
+
 (i) result in a risk of serious harm to the individual or another individual,
+
 (ii) lead to the identification of an individual who was required by law to provide information in the record to the service provider, or
+
 (iii) lead to the identification of an individual who provided information in the record to the service provider explicitly or implicitly in confidence if the service provider considers it appropriate in the circumstances that the identity of the individual be kept confidential.
 
 ### Right of access to part of record not restricted
@@ -7723,12 +9623,19 @@ iii. programs that support the learning, development, health and well-being of c
 ### Response of service provider
 
 314 (1) A service provider that receives a request from an individual for access to a record of personal information shall,
+
 (a) make the record available to the individual for examination and, at the request of the individual, provide a copy of the record to the individual and if reasonably practical, an explanation of the purpose and nature of the record and any term, code or abbreviation used in the record;
+
 (b) give a written notice to the individual stating that, after a reasonable search, the service provider has concluded that the record does not exist, cannot be found, or is not a record to which this Part applies;
+
 (c) if the service provider refuses the request, in whole or in part, under any provision of this Part other than clause 312 (1) (c) or (d), give a written notice to the individual stating that the service provider is refusing the request, in whole or in part, providing a reason for the refusal and stating that the individual is entitled to make a complaint about the refusal to the Commissioner under section 316; or
+
 (d) subject to subsection (2), if the service provider refuses the request, in whole or in part, under clause 312 (1) (c) or (d), give a written notice to the individual stating that the individual is entitled to make a complaint about the refusal to the Commissioner under section 316 and that the service provider is refusing,
+
 (i) the request, in whole or in part, while citing which of clauses 312 (1) (c) and (d) apply,
+
 (ii) the request, in whole or in part, under one or both of clauses 312 (1) (c) and (d), while not citing which of those provisions apply, or
+
 (iii) to confirm or deny the existence of any record subject to clauses 312 (1) (c) and (d).
 
 ### Exception
@@ -7738,13 +9645,17 @@ iii. programs that support the learning, development, health and well-being of c
 ### Time for response
 
 (3) As soon as possible, but no later than 30 days after receiving the request, the service provider shall, by written notice to the individual, give the response required by subsection (1) or extend the deadline for responding by not more than 90 days if,
+
 (a) responding to the request within 30 days would unreasonably interfere with the operations of the service provider because the information consists of numerous pieces of information or locating the information would necessitate a lengthy search; or
+
 (b) the time required to undertake an assessment under subsection 312 (1) necessary to respond to the request within 30 days after receiving it would make it not reasonably practical to respond within that time.
 
 ### Extension of time — notice and response
 
 (4) A service provider that extends the time limit under subsection (3) shall,
+
 (a) give the individual written notice of the extension setting out the length of the extension and the reason for it; and
+
 (b) respond as required by subsection (1) as soon as possible but no later than the expiry of the time limit as extended.
 
 ### Expedited access
@@ -7762,7 +9673,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Right to complain
 
 (8) If the service provider refuses or is deemed to have refused the request, in whole or in part,
+
 (a) the individual is entitled to make a complaint about the refusal to the Commissioner under section 316; and
+
 (b) in the complaint, the burden of proof in respect of the refusal lies on the service provider.
 
 ### Identity of individual
@@ -7792,13 +9705,17 @@ iii. programs that support the learning, development, health and well-being of c
 ### Time for response
 
 (4) As soon as possible, but no later than 30 days after receiving a request for a correction under subsection (2), the service provider shall, by written notice to the individual, grant or refuse the individual’s request or extend the deadline for responding by not more than 90 days if,
+
 (a) responding to the request within 30 days would unreasonably interfere with the operations of the service provider; or
+
 (b) the time required to undertake the consultations necessary to respond to the request within 30 days would make it not reasonably practical to respond within that time.
 
 ### Extension of time
 
 (5) A service provider that extends the time limit under subsection (4) shall by written notice to the individual,
+
 (a) set out the length of the extension and the reason for it; and
+
 (b) grant or refuse the individual’s request as soon as possible in the circumstances but no later than the expiry of the time limit as extended.
 
 ### Frivolous or vexatious requests
@@ -7812,7 +9729,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Right to complain
 
 (8) If the service provider refuses or is deemed to have refused the request, in whole or in part,
+
 (a) the individual is entitled to make a complaint about the refusal to the Commissioner under section 316; and
+
 (b) in the complaint, the burden of proof in respect of the refusal lies on the service provider.
 
 ### Duty to correct
@@ -7822,26 +9741,39 @@ iii. programs that support the learning, development, health and well-being of c
 ### Exceptions
 
 (10) Despite subsection (9), a service provider is not required to correct a record of personal information if,
+
 (a) it consists of a record that was not originally created by the service provider and the service provider does not have sufficient knowledge, expertise or authority to correct the record; or
+
 (b) it consists of a professional opinion or observation that was made in good faith about the individual.
 
 ### Manner of making the correction
 
 (11) Upon granting a request for a correction, the service provider shall,
+
 (a) make the requested correction by,
+
 (i) recording the correct information in the record and,
+
 (A) striking out the incorrect information in a manner that does not obliterate the record, or
+
 (B) if that is not possible, labelling the information as incorrect, severing the incorrect information from the record, storing it separately from the record and maintaining a link in the record that enables a person to trace the incorrect information, or
+
 (ii) if it is not possible to make the requested correction in the manner set out in subclause (i), ensuring that there is a practical system in place to inform a person who accesses the record that the information in the record is incorrect and to direct the person to the correct information;
+
 (b) give notice to the individual of what has been done under clause (a); and
+
 (c) at the request of the individual, give written notice of the requested correction, to the extent reasonably possible, to the persons to whom the service provider has disclosed the information with respect to which the individual requested the correction of the record, unless the correction cannot reasonably be expected to have an effect on the ongoing provision of services.
 
 ### Notice of refusal
 
 (12) A notice of refusal under subsection (4) or (5) must give the reasons for the refusal and inform the individual that the individual is entitled to,
+
 (a) prepare a concise statement of disagreement that sets out the correction that the service provider has refused to make;
+
 (b) require that the service provider attach the statement of disagreement as part of the records that it holds of the individual’s personal information and disclose the statement of disagreement whenever the service provider discloses information to which the statement relates;
+
 (c) require that the service provider make all reasonable efforts to disclose the statement of disagreement to any person who would have been notified under clause (11) (c) if the service provider had granted the requested correction; and
+
 (d) make a complaint about the refusal to the Commissioner under section 316.
 
 ### Rights of individual
@@ -7865,7 +9797,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Time for complaint
 
 (2) A complaint made under subsection (1) must be in writing and must be filed within,
+
 (a) one year after the subject-matter of the complaint first came to the attention of the complainant or should reasonably have come to the attention of the complainant, whichever is the shorter; or
+
 (b) whatever longer period of time that the Commissioner permits if the Commissioner is satisfied that it does not result in prejudice to any person.
 
 ### Same, refusal of request
@@ -7875,15 +9809,21 @@ iii. programs that support the learning, development, health and well-being of c
 ### Response of Commissioner
 
 317 (1) Upon receiving a complaint made under this Part, the Commissioner may inform the person about whom the complaint is made of the nature of the complaint and,
+
 (a) inquire as to what means, other than the complaint, that the complainant is using or has used to resolve the subject-matter of the complaint;
+
 (b) require the complainant to try to effect a settlement, within the time period that the Commissioner specifies, with the person about which the complaint is made; or
+
 (c) authorize a mediator to review the complaint and to try to effect a settlement, within the time period that the Commissioner specifies, between the complainant and the person about which the complaint is made.
 
 ### Dealings without prejudice
 
 (2) If the Commissioner takes an action described in clause (1) (b) or (c) but no settlement is effected within the time period specified,
+
 (a) none of the dealings between the parties to the attempted settlement shall prejudice the rights and duties of the parties under this Part;
+
 (b) none of the information disclosed in the course of trying to effect a settlement shall prejudice the rights and duties of the parties under this Part; and
+
 (c) none of the information disclosed in the course of trying to effect a settlement and that is subject to mediation privilege shall be used or disclosed outside the attempted settlement, including in a review of a complaint under this section or in an inspection under section 320, unless all parties expressly consent.
 
 ### Commissioner’s review
@@ -7893,10 +9833,15 @@ iii. programs that support the learning, development, health and well-being of c
 ### No review
 
 (4) The Commissioner may decide not to review the subject-matter of the complaint for whatever reason the Commissioner considers proper, including if satisfied that,
+
 (a) the person about which the complaint is made has responded adequately to the complaint;
+
 (b) the complaint has been or could be more appropriately dealt with, initially or completely, by means of a procedure, other than a complaint under this Part;
+
 (c) the length of time that has elapsed between the date when the subject-matter of the complaint arose and the date the complaint was made is such that a review under this section would likely result in undue prejudice to any person;
+
 (d) the complainant does not have a sufficient personal interest in the subject-matter of the complaint; or
+
 (e) the complaint is frivolous or vexatious or is made in bad faith.
 
 ### Notice
@@ -7926,18 +9871,27 @@ iii. programs that support the learning, development, health and well-being of c
 ### Inspection powers
 
 320 (1) In conducting a review under section 317 or 318, the Commissioner may, without a warrant or court order, enter and inspect any premises in accordance with this section if,
+
 (a) the Commissioner has reasonable grounds to believe that,
+
 (i) the person about whom the complaint was made or the person whose activities are being reviewed is using the premises for a purpose related to the subject-matter of the complaint or the review, as the case may be, and
+
 (ii) the premises contains books, records or other documents relevant to the subject-matter of the complaint or the review, as the case may be; and
+
 (b) the Commissioner is conducting the inspection for the purpose of determining whether the person has contravened or is about to contravene a provision of this Part or the regulations.
 
 ### Review powers
 
 (2) In conducting a review under section 317 or 318, the Commissioner may,
+
 (a) demand the production of any books, records or other documents relevant to the subject-matter of the review or copies of extracts from the books, records or other documents;
+
 (b) inquire into all information, records, information practices of a service provider and other matters that are relevant to the subject-matter of the review;
+
 (c) demand the production for inspection of anything described in clause (b);
+
 (d) use any data storage, processing or retrieval device or system belonging to the person being investigated in order to produce a record in readable form of any books, records or other documents relevant to the subject-matter of the review; or
+
 (e) on the premises that the Commissioner has entered, review or copy any books, records or documents that a person produces to the Commissioner, if the Commissioner pays the reasonable cost recovery fee that the service provider or person being reviewed may charge.
 
 ### Entry to dwellings
@@ -7983,7 +9937,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Inspection of record without consent
 
 (13) Despite subsections (2) and (12), the Commissioner shall not inspect a record of, require evidence of, or inquire into, personal information without the consent of the individual to whom it relates, unless,
+
 (a) the Commissioner first determines that it is reasonably necessary to do so, subject to any conditions or restrictions that the Commissioner specifies, which shall include a time limitation, in order to carry out the review and that the public interest in carrying out the review justifies dispensing with obtaining the individual's consent in the circumstances; and
+
 (b) the Commissioner provides a statement to the person who has custody or control of the record to be inspected, or the evidence or information to be inquired into, setting out the Commissioner’s determination under clause (a) together with brief written reasons and any restrictions and conditions that the Commissioner has specified.
 
 ### Limitation on delegation
@@ -8013,7 +9969,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Access to representations
 
 (20) The Commissioner may permit a person to be present during the representations that another person makes to the Commissioner or to have access to them unless doing so would reveal,
+
 (a) the substance of a record of personal information, for which a service provider claims to be entitled to refuse a request for access made under section 313; or
+
 (b) personal information to which an individual is not entitled to request access under section 313.
 
 ### Proof of appointment
@@ -8023,14 +9981,23 @@ iii. programs that support the learning, development, health and well-being of c
 ### Powers of Commissioner
 
 321 (1) After conducting a review under section 317 or 318, the Commissioner may,
+
 (a) if the review relates to a complaint into a request by an individual under subsection 313 (1) for access to a record of personal information, make an order directing the service provider about whom the complaint was made to grant the individual access to the requested record;
+
 (b) if the review relates to a complaint into a request by an individual under subsection 315 (2) for correction of a record of personal information, make an order directing the service provider about whom a complaint was made to make the requested correction;
+
 (c) make an order directing any person whose activities the Commissioner reviewed to perform a duty imposed by this Part or the regulations;
+
 (d) make an order directing any person whose activities the Commissioner reviewed to cease collecting, using or disclosing personal information if the Commissioner determines that the person is collecting, using or disclosing the information, as the case may be, or is about to do so in contravention of this Part or the regulations or an agreement entered into under this Part;
+
 (e) make an order directing any person whose activities the Commissioner reviewed to dispose of records of personal information that the Commissioner determines the person collected, used or disclosed in contravention of this Part or the regulations or an agreement entered into under this Part but only if the disposal of the records is not reasonably expected to adversely affect the provision of services to an individual;
+
 (f) make an order directing any service provider whose activities the Commissioner reviewed to change, cease or not implement any information practices specified by the Commissioner, if the Commissioner determines that the information practices contravene this Part or the regulations;
+
 (g) make an order directing any service provider whose activities the Commissioner reviewed to implement information practices specified by the Commissioner, if the Commissioner determines that the information practices are reasonably necessary in order to achieve compliance with this Part and the regulations;
+
 (h) make an order directing any person who is an agent or employee of a service provider, whose activities the Commissioner reviewed and that an order made under any of clauses (a) to (g) directs to take any action or to refrain from taking any action, to take the action or to refrain from taking the action if the Commissioner considers that it is necessary to make the order against the agent or employee to ensure that the service provider will comply with the order made against the service provider; or
+
 (i) make comments and recommendations on the privacy implications of any matter that is the subject of the review.
 
 ### Terms of order
@@ -8040,10 +10007,15 @@ iii. programs that support the learning, development, health and well-being of c
 ### Copy of order, etc.
 
 (3) Upon making comments, recommendations or an order under subsection (1), the Commissioner shall provide a copy of them, including reasons for any order made, to,
+
 (a) the complainant and the person about whom the complaint was made, if the Commissioner made the comments, recommendations or order after conducting a review under section 317 of a complaint;
+
 (b) the person whose activities the Commissioner reviewed, if the Commissioner made the comments, recommendations or order after conducting a review under section 318;
+
 (c) all other persons to whom the order is directed;
+
 (d) the body or bodies that are legally entitled to regulate or review the activities of a service provider directed in the order or to whom the comments or recommendations relate; and
+
 (e) any other person whom the Commissioner considers appropriate.
 
 ### No order
@@ -8057,9 +10029,13 @@ iii. programs that support the learning, development, health and well-being of c
 ### Certificate of Commissioner
 
 (2) In an appeal under this section, the Commissioner shall certify to the Divisional Court,
+
 (a) the order and a statement of the Commissioner’s reasons for making the order;
+
 (b) the record of all hearings that the Commissioner has held in conducting the review on which the order is based;
+
 (c) all written representations that the Commissioner received before making the order; and
+
 (d) all other material that the Commissioner considers is relevant to the appeal.
 
 ### Confidentiality of information
@@ -8069,7 +10045,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Court order
 
 (4) On hearing an appeal under this section, the court may, by order,
+
 (a) direct the Commissioner to make the decisions and to do the acts that the Commissioner is authorized to do under this Part and that the court considers proper; and
+
 (b) if necessary, vary or set aside the Commissioner’s order.
 
 ### Compliance by Commissioner
@@ -8091,7 +10069,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Copy of order, etc.
 
 (3) Upon making a further order under subsection (1), the Commissioner shall provide a copy of it to the persons described in clauses 321 (3) (a) to (e) and shall include with the copy a notice setting out,
+
 (a) the Commissioner’s reasons for making the order; and
+
 (b) if the order was made under any of clauses 321 (1) (c) to (h), a statement that the persons affected by the order have the right to appeal described in subsection (4).
 
 ### Appeal
@@ -8113,11 +10093,17 @@ iii. programs that support the learning, development, health and well-being of c
 ### General powers of Commissioner
 
 326 The Commissioner may,
+
 (a) engage in or commission research into matters affecting the carrying out of the purposes of this Part;
+
 (b) conduct public education programs and provide information concerning this Part and the Commissioner’s role and activities;
+
 (c) receive representations from the public concerning the operation of this Part;
+
 (d) on the request of a service provider, offer comments on the service provider’s actual or proposed information practices;
+
 (e) assist in investigations and similar procedures conducted by a person who performs similar functions to the Commissioner under the laws of Canada, except that in providing assistance, the Commissioner shall not use or disclose information collected by or for the Commissioner under this Part; and
+
 (f) in appropriate circumstances, authorize the collection of personal information about an individual in a manner other than directly from the individual.
 
 ### Delegation by Commissioner
@@ -8139,9 +10125,13 @@ iii. programs that support the learning, development, health and well-being of c
 ### Confidentiality
 
 (3) The Commissioner and any person acting under the Commissioner’s authority shall not disclose any information that comes to their knowledge in the course of exercising their functions under this Part unless,
+
 (a) the disclosure is required for the purpose of exercising those functions;
+
 (b) the information relates to a service provider, the disclosure is made to a body that is legally entitled to regulate or review the activities of the service provider and the Commissioner or an Assistant Commissioner is of the opinion that the disclosure is justified;
+
 (c) the Commissioner obtained the information under subsection 320 (12) and the disclosure is required in a prosecution for an offence under section 131 of the Criminal Code (Canada) in respect of sworn testimony; or
+
 (d) the disclosure is made to the Attorney General, the information relates to the commission of an offence against an Act or an Act of Canada and the Commissioner is of the view that there is evidence of such an offence.
 
 ### Same
@@ -8159,7 +10149,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Immunity
 
 329 No action or other proceeding for damages may be instituted against the Commissioner or any person acting under the Commissioner’s authority for,
+
 (a) anything done, reported or said in good faith and in the exercise or intended exercise of any of their powers or duties under this Part; or
+
 (b) any alleged neglect or default in the exercise in good faith of any of their powers or duties under this Part.
 
 ### Prohibitions, Immunity and Offences
@@ -8167,15 +10159,21 @@ iii. programs that support the learning, development, health and well-being of c
 ### Non-retaliation
 
 330 No one shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage a person by reason that,
+
 (a) the person, acting in good faith and on the basis of reasonable belief, has disclosed to the Commissioner that any other person has contravened or is about to contravene a provision of this Part or the regulations;
+
 (b) the person, acting in good faith and on the basis of reasonable belief, has done or stated an intention of doing anything that is required to be done in order to avoid having any person contravene a provision of this Part or the regulations;
+
 (c) the person, acting in good faith and on the basis of reasonable belief, has refused to do or stated an intention of refusing to do anything that is in contravention of a provision of this Part or the regulations; or
+
 (d) any person believes that the person will do anything described in clause (a), (b) or (c).
 
 ### Immunity
 
 331 (1) No action or other proceeding for damages may be instituted against a service provider or any other person for,
+
 (a) anything done, reported or said, in good faith and reasonably in the circumstances, in the exercise or intended exercise of any of their powers or duties under this Part; or
+
 (b) any alleged neglect or default that was reasonable in the circumstances in the exercise in good faith of any of their powers or duties under this Part.
 
 ### Crown liability
@@ -8189,23 +10187,37 @@ iii. programs that support the learning, development, health and well-being of c
 ### Reliance on assertion
 
 (4) Unless it is not reasonable to do so in the circumstances, a person is entitled to rely on the accuracy of an assertion made by another person, in connection with a collection, use or disclosure of, or access to, the information under this Part, to the effect that the other person,
+
 (a) is a person who is authorized to request access to a record of personal information under subsection 313 (1); or
+
 (b) is a person who is authorized under subsection 301 (1), (2) or (4) to consent to the collection, use or disclosure of personal information about another individual.
 
 ### Offences
 
 332 (1) A person is guilty of an offence if the person,
+
 (a) wilfully collects, uses or discloses personal information in contravention of this Part or the regulations made for the purposes of this Part;
+
 (b) makes a request under this Act, under false pretences, for access to or correction of a record of personal information;
+
 (c) in connection with the collection, use or disclosure of personal information or access to a record of personal information, makes an assertion, knowing that it is untrue, to the effect that the person,
+
 (i) is a person who is authorized to consent to the collection, use or disclosure of personal information about another individual, or
+
 (ii) is a person entitled to access to a record of personal information under section 312;
+
 (d) disposes of a record of personal information in the custody or under the control of a service provider with an intent to evade a request for access to the record that the service provider has received under subsection 313 (1);
+
 (e) wilfully disposes of a record of personal information in contravention of section 309;
+
 (f) wilfully fails to comply with clause 308 (2) (a);
+
 (g) wilfully obstructs the Commissioner or a person known to be acting under the authority of the Commissioner in the performance of their functions in relation to this Part;
+
 (h) wilfully makes a false statement to mislead or attempt to mislead the Commissioner or a person known to be acting under the authority of the Commissioner in the performance of their functions in relation to this Part;
+
 (i) wilfully fails to comply with an order made by the Commissioner or a person known to be acting under the authority of the Commissioner in relation to this Part; or
+
 (j) contravenes section 330.
 
 ### Penalty
@@ -8231,9 +10243,13 @@ iii. programs that support the learning, development, health and well-being of c
 ### Protection of information
 
 (7) In a prosecution for an offence under subsection (1) or where documents or materials are filed with a court under sections 158 to 160 of the Provincial Offences Act in relation to an investigation into an offence under this Part, the court may, at any time, take precautions to avoid the disclosure by the court or any person of any personal information, including, where appropriate,
+
 (a) removing the identifying information of any person whose personal information is referred to in any documents or materials;
+
 (b) receiving representations without notice;
+
 (c) conducting hearings or parts of hearings in private; or
+
 (d) sealing all or part of the court files.
 
 ### No limitation
@@ -8245,16 +10261,23 @@ iii. programs that support the learning, development, health and well-being of c
 ### Investigations with warrant
 
 332.1 (1) Upon application made without notice by an inspector, a justice may issue a warrant if satisfied on information under oath that there are reasonable grounds to believe that a person has committed or is committing an offence under this Act and that there is,
+
 (a) information or evidence relating to the offence in any building, dwelling, receptacle or place; or
+
 (b) information or evidence relating to the offence that may be obtained through the use of an investigative technique or procedure or from doing of anything described in the warrant.
 
 ### Powers under warrant
 
 (2) A warrant authorizes an inspector to exercise the following powers, subject to any conditions contained in the warrant:
+
 1. To enter or access the building, dwelling, receptable or place specified in the warrant and seize, examine and remove anything described in the warrant.
+
 2. To make reasonable inquiries of any person, orally or in writing, with respect to anything relevant to the investigation.
+
 3. To use any data storage, processing or retrieval device or system used in carrying on business in order to produce information or evidence described in the warrant, in any form.
+
 4. To require a person to produce the information or evidence described in the warrant and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the information or evidence described in the warrant.
+
 5. To use any investigative technique or procedure described in the warrant or do anything described in the warrant.
 
 ### Dwellings
@@ -8346,14 +10369,19 @@ iii. programs that support the learning, development, health and well-being of c
 ### Police record checks
 
 334 The Lieutenant Governor in Council may, by regulation, require the following persons to provide a police record check concerning the person to any other person or body in accordance with the regulations:
+
 1. A person who provides or receives services under this Act.
+
 2. A person residing, employed or volunteering in premises where services are provided or received under this Act.
+
 3. Such other persons who may be prescribed.
 
 ### Declarations and notices
 
 334.1 The Lieutenant Governor in Council may, by regulation, require prescribed persons to provide to any person or body, in accordance with the regulations, declarations and notices that,
+
 (a) relate to the person’s criminal convictions, charges and offences, including offences where there are outstanding warrants; and
+
 (b) include the prescribed information.
 
 ### Society may request police record checks from police, etc.
@@ -8391,7 +10419,9 @@ iii. programs that support the learning, development, health and well-being of c
 ### Review to address First Nations, Inuit and Métis issues
 
 338 Every review of this Act shall address the following matters:
+
 1. The additional purpose of the Act described in paragraph 6 of subsection 1 (2), with a view to evaluating the progress that has been made in working with First Nations, Inuit and Métis peoples to achieve that purpose.
+
 2. The provisions imposing obligations on societies when providing services to a First Nations, Inuk or Métis person or in respect of First Nations, Inuit or Métis children, with a view to ensuring compliance by societies with those provisions.
 
 ## Part xii regulations
@@ -8401,16 +10431,27 @@ iii. programs that support the learning, development, health and well-being of c
 ### Lieutenant Governor in Council regulations
 
 339 (1) The Lieutenant Governor in Council may make regulations for the purposes of this Act,
+
 1. prescribing and governing a dispute resolution mechanism, in accordance with Jordan’s Principle, to resolve inter-jurisdictional and intra-jurisdictional disputes in respect of services provided under this Act;
+
 2. prescribing additional services that are services under this Act;
+
 3. prescribing additional powers and duties of Directors and program supervisors;
+
 4. prescribing additional persons and entities who are service providers;
+
 5. governing the use of physical restraint under this Act, including prescribing standards and procedures for its use, requiring service providers to develop policies governing its use and prescribing provisions that must be or may not be included in those policies;
+
 6. governing the use of mechanical restraints under this Act, including prescribing standards and procedures for their use;
+
 7. prescribing and governing an internal procedure by which complaints, other than complaints under section 18 or 119, may be made to service providers, and prescribing and governing an external review by a specified entity of specified classes of such complaints;
+
 8. exempting a service provider, lead agency or service, or any class of them, from any provision or requirement of this Act or the regulations for a specified period or periods;
+
 9. defining any word or expression used in this Act that is not already defined in this Act and further defining any word or expression used in this Act that is already defined in this Act;
+
 10. prescribing or otherwise providing for anything required or permitted by this Act to be prescribed or otherwise provided for in the regulations, including governing anything required or permitted to be done in accordance with the regulations, which is not already provided for in this Part, except as otherwise provided in paragraph 1 of subsection 347 (2);
+
 11. governing transitional matters that may arise due to the enactment of this Act or the repeal of the old Act.
 
 ### Conflicts
@@ -8420,32 +10461,55 @@ iii. programs that support the learning, development, health and well-being of c
 ### Minister’s regulations
 
 (3) The Minister may make regulations for the purposes of this Act,
+
 1. prescribing performance standards and performance measures for the provision of services to children in care, including prescribing a process for determining what the performance standards and performance measures should be, and implementing the performance standards and performance measures that are prescribed;
+
 2. governing the determination of the bands and First Nations, Inuit or Métis communities with which a First Nations, Inuit or Métis child identifies;
+
 3. governing how service providers, in making decisions in respect of any child, are to take into account the child’s race, ancestry, place of origin, colour, ethnic origin, citizenship, family diversity, disability, creed, sex, sexual orientation, gender identity and gender expression in order to give effect to the purpose set out in subparagraph 3 iii of subsection 1 (2);
+
 4. governing how service providers, in making decisions in respect of any child, are to take into account the child’s cultural and linguistic needs in order to give effect to the purpose set out in subparagraph 3 iv of subsection 1 (2);
+
 5. governing how service providers, in making decisions in respect of any child, are to take into account regional differences in order to give effect to the purpose set out in paragraph 4 of subsection 1 (2);
+
 6. governing how service providers, in the case of a First Nations, Inuk or Métis child, are to take into account the child’s cultures, heritages, traditions, connection to community and the concept of the extended family, in order to give effect to the purpose set out in paragraph 6 of subsection 1 (2);
+
 7. prescribing persons who may represent children and their parents in order to assist service providers in taking into account all the characteristics and needs of a child, and all the other factors referred to in subparagraphs 3 iii and iv and paragraphs 4 and 6 of subsection 1 (2) for the purposes set out in those subparagraphs and paragraphs, and respecting how such persons shall be selected or appointed and governing their roles and duties as representatives;
+
 8. prescribing procedures and conditions of eligibility for the admission of children and other persons to and their discharge from places where services are provided;
+
 9. governing the residential placement of children and prescribing procedures for placements, discharge, assessments and case management;
+
 10. requiring that residential placements with or by service providers be made in accordance with written agreements, and prescribing their form and contents;
+
 11. prescribing the qualifications, powers and duties of persons employed in providing services;
+
 12. prescribing classes of persons employed or to be employed in providing services who must undertake training, prescribing that training and prescribing the circumstances under which that training must be undertaken;
+
 13. requiring and prescribing medical and other related or ancillary services for the care and treatment of children and other persons in places where services are provided;
+
 14. permitting notices, orders or other documents that are required under this Act to be provided in writing to be provided in electronic or other form instead, subject to the conditions or restrictions that are specified;
+
 15. governing how notices, orders and other documents or things are to be given or served under this Act, including providing rules for when they are deemed to be received;
+
 16. prescribing forms and providing for their use;
+
 17. modifying any provision or requirement of this Act or the regulations to accommodate persons with disabilities within the meaning of the Accessibility for Ontarians with Disabilities Act, 2005.
 
 ### Regulations: Part II (Children’s and Young Persons’ Rights)
 
 340 The Lieutenant Governor in Council may make regulations for the purposes of Part II,
+
 1. governing how the rights of children and young persons in this Act are to be respected and promoted by service providers;
+
 1.1 prescribing a person or entity to perform prescribed functions relating to the promotion of the rights of children and young persons in this Act;
+
 2. prescribing intervals for the purpose of section 9;
+
 3. governing internal complaints procedures to be established under section 18;
+
 4. establishing procedures for reviews under section 19;
+
 5. prescribing an alternative dispute resolution method for the purpose of subsection 17 (1) and an alternative dispute resolution process other than the one established by the bands and communities referred to in subsection 17 (2) for the purpose of that subsection.
 
 ### Regulations: Part III (Funding and Accountability)
@@ -8453,35 +10517,61 @@ iii. programs that support the learning, development, health and well-being of c
 ### Minister’s regulations
 
 341 (1) The Minister may make regulations for the purposes of Part III,
+
 1. prescribing entities to whom funding may be provided for the purposes of clause 25 (c);
+
 2. prescribing other purposes for which funding may be provided under clause 25 (c);
+
 3. prescribing the information to be contained in or excluded from a summary of an order made available to the public under clause 33 (4) (b) or 43 (4) (b);
+
 4. prescribing standards of services and procedures and practices to be followed by societies for the purposes of subsection 35 (2);
+
 5. governing the management and operation of societies;
+
 6. prescribing a system for determining the amounts of payments under subsection 40 (1);
+
 7. prescribing terms that shall or may be included in accountability agreements for the purposes of subsection 41 (4);
+
 8. governing the provision of services;
+
 9. governing the accommodation, facilities and equipment to be provided,
+
 i. in buildings in which services are provided, and
+
 ii. in the course of the provision of services;
+
 10. governing the establishment, management, operation, location, construction, alteration and renovation of buildings in which services are provided;
+
 11. prescribing the accounts and records to be kept by societies, the claims, returns and reports to be made and budgets to be submitted to the Minister and the methods, time and manner in which they shall be made or submitted;
+
 12. requiring service providers to keep records, and prescribing the form and content of those records;
+
 13. providing for the recovery, by an agency or by the Minister, from the person or persons in whose charge a child is or has been or from the estate of that person or persons of amounts paid by the agency for the child’s care and maintenance, and prescribing the circumstances and the manner in which such a recovery may be made;
+
 14. providing for the recovery of payments made to societies under Part III and the regulations;
+
 15. governing the construction, alteration, renovation, extension, furnishing and equipping of homes operated or supervised by societies, other than children’s residences as defined in Part IX (Residential Licensing), where residential care is provided to children;
+
 16. prescribing reports to be made and information to be provided under section 56, their form and the intervals at which they are to be made or provided;
+
 17. prescribing entities and the reports and information to be provided to them and the manner in which they are to be provided for the purpose of section 57;
+
 18. prescribing information and the manner of making it public for the purpose of section 58;
+
 19. prescribing other persons to whom a program supervisor shall give an inspection report for the purposes of clause 61 (1) (c);
+
 20. prescribing rules to determine whether a child resides within an advisory committee’s jurisdiction;
+
 21. prescribing practices, procedures and further duties for advisory committees.
 
 ### Standards of service, etc.
 
 (2) A regulation made under paragraph 4 of subsection (1),
+
 (a) may exempt one or more societies from anything that is prescribed under that paragraph;
+
 (b) may prescribe standards of services that only apply to one or more societies provided for in the regulations;
+
 (c) may prescribe procedures and practices that are only required to be followed by one or more societies provided for in the regulations.
 
 ### Amounts of payments to societies
@@ -8491,17 +10581,29 @@ ii. in the course of the provision of services;
 ### Lieutenant Governor in Council regulations
 
 (4) The Lieutenant Governor in Council may make regulations for the purposes of Part III,
+
 1. governing the transfer and assignment of assets of service providers and lead agencies for the purposes of section 29;
+
 2. establishing and respecting categories of lead agencies for the purposes of subsection 30 (4);
+
 3. prescribing the functions of each lead agency category for the purposes of subsection 30 (5);
+
 4. prescribing matters about which the Minister may issue directives for the purposes of subsection 32 (2);
+
 5. prescribing other duties of a society for the purposes of clause 35 (1) (g);
+
 6. respecting the composition of boards of directors of societies, including prescribing qualifications or eligibility criteria for board members, and requiring board members to undertake training programs and prescribing those programs;
+
 7. prescribing the number of First Nations, Inuit or Métis representatives on the boards of directors of societies, the manner of their appointment and their terms, for the purpose of subsection 36 (1);
+
 8. prescribing provisions to be included in the by-laws of societies for the purpose of subsection 36 (3);
+
 9. providing for an executive committee of the board of directors of a society, its composition, quorum, powers and duties;
+
 10. prescribing fees that may be charged for services and the conditions under which a fee may be charged;
+
 11. respecting matters that relate to or arise as a result of an amalgamation under section 47 or a Minister’s order under section 48, including rules governing court orders made with respect to a society;
+
 12. prescribing grounds for the purposes of subclause 60 (2) (c) (ii).
 
 ### Restructuring
@@ -8513,14 +10615,19 @@ ii. in the course of the provision of services;
 ### Lieutenant Governor in Council regulations
 
 342 (1) The Lieutenant Governor in Council may make regulations for the purposes of Part IV,
+
 1. modifying or excluding the application of any provision or requirement of this Act or the regulations to a First Nations, Inuit or Métis child and family service authority, a band or First Nations, Inuit or Métis community or specified persons or classes of persons, including persons caring for children under customary care, and providing for other provisions or requirements to apply instead of or in addition to the provisions or requirements of this Act and the regulations.
 
 ### Minister’s regulations
 
 (2) The Minister may make regulations for the purposes of Part IV,
+
 1. governing the process for establishing lists of First Nations, Inuit or Métis communities in a regulation made under subsection 68 (1), including procedures that a community must follow and requirements that a community must meet;
+
 2. prescribing matters requiring consultation between societies, persons or entities and bands or First Nations, Inuit or Métis communities for the purposes of clause 72 (i);
+
 3. governing consultations with bands and First Nations, Inuit or Métis communities under sections 72 and 73 and prescribing the procedures and practices to be followed by societies, persons and entities and the duties of societies, persons and entities during the consultations;
+
 4. prescribing services and powers for the purposes of section 73.
 
 ### Regulations: Part V (Child Protection)
@@ -8528,107 +10635,189 @@ ii. in the course of the provision of services;
 ### Lieutenant Governor in Council regulations
 
 343 (1) The Lieutenant Governor in Council may make regulations for the purposes of Part V,
+
 1. prescribing jurisdictions outside Canada whose court orders may be recognized as extra-provincial child protection orders, and conditions for such recognition;
+
 2. prescribing additional circumstances and conditions that constitute a 16 or 17 year old being in need of protection for the purpose of clause 74 (2) (o);
+
 3. governing the exercise of the powers of entry set out in subsections 81 (6) and (10) and 86 (1) and (2);
+
 4. prescribing methods of alternative dispute resolution for the purpose of section 95;
+
 5. assigning to a Director any powers, duties or obligations of the Crown with respect to children who are in extended society care under an order made under paragraph 3 of subsection 101 (1) or clause 116 (1) (c);
+
 6. prescribing additional criteria for when an assessment may be ordered under section 98, and governing the scope of an assessment and the form of an assessment report under that section;
+
 7. respecting applications for a review by the Board under subsection 109 (8);
+
 8. prescribing additional practices and procedures for the purposes of subsection 109 (11);
+
 9. prescribing the qualifications or experience a member of the Board is required to have in order to conduct reviews under subsection 109 (9), 119 (6) or 120 (5);
+
 10. respecting the making of complaints to a society under subsection 119 (1) or to the Board under subsection 119 (5) or 120 (3);
+
 11. prescribing matters for the purposes of paragraph 2 of subsection 119 (5) and paragraph 6 of subsection 120 (4);
+
 12. prescribing additional orders that may be made by the Board for the purposes of clauses 119 (10) (d) and 120 (7) (f);
+
 13. prescribing practices and procedures for the purposes of hearings conducted by the Board under subsection 119 (8) or during a review of a complaint under section 120;
+
 14. respecting the format of warrants under sections 131 and 132 and the procedures to be followed in applying for, issuing, receiving and filing warrants of different formats;
+
 15. prescribing manners of applying for a warrant under section 132, including a manner other than submitting an information on oath, setting out the circumstances under which those manners may be used and providing for any additional requirements that must be met if those manners are used;
+
 16. respecting the manner in which the register referred to in subsection 133 (5) is to be kept;
+
 17. requiring the removal of a name from the register referred to in subsection 133 (5), or the amendment of the register, under specified circumstances, and specifying those circumstances;
+
 18. prescribing practices and procedures for hearings held under clause 134 (4) (b).
 
 ### Minister’s regulations
 
 (2) The Minister may make regulations for the purposes of Part V,
+
 1. prescribing requirements and purposes for the purpose of the definition of child protection worker;
+
 2. respecting the procedures to be followed by a society or a child and family service authority for the purposes of subsection 74 (4);
+
 3. prescribing additional provisions to be included in a temporary care agreement for the purpose of paragraph 7 of subsection 75 (10);
+
 4. prescribing the manner of varying a temporary care agreement under subsection 75 (12);
+
 5. prescribing duties and obligations of societies and rights and responsibilities of children in respect of agreements made under section 77 (agreements with 16 and 17 year olds), including prescribing the services and supports that may be provided under them, prescribing additional circumstances for making such agreements and provisions to be contained in them and governing their variation and termination;
+
 6. prescribing the complaint review procedure that societies are required to follow for the purpose of subsection 119 (2);
+
 7. governing agreements entered into under section 124, including prescribing entities required to enter into the agreements, the expiry, renewal and termination of the agreements, the provisions to be included in the agreements, the care and support to be provided to persons under the agreements, the terms and conditions on which the care and support is to be provided and any exceptions to the requirement that an agreement be entered into or that care and support be provided under section 124;
+
 8. prescribing support services for the purposes of paragraph 3 of subsection 124 (1);
+
 9. prescribing circumstances and conditions for the purposes of subsection 125 (4);
+
 10. respecting assessments to be made under subsection 126 (1).
 
 ### Regulations: Part VI (Youth Justice)
 
 344 The Lieutenant Governor in Council may make regulations for the purposes of Part VI,
+
 1. governing the establishment, operation, maintenance, management and use of places of temporary detention, of open custody and of secure custody;
+
 2. governing the establishment and operation of and the accommodation, equipment and services to be provided in any premises established, operated, maintained or designated for the purposes of the Youth Criminal Justice Act (Canada);
+
 3. prescribing additional duties and functions of,
+
 i. probation officers, and
+
 ii. provincial directors;
+
 4. prescribing the duties and functions of bailiffs;
+
 5. prescribing the qualifications of probation officers;
+
 6. prescribing additional duties and functions of persons in charge of places of temporary detention, of open custody and of secure custody;
+
 7. prescribing reports to be made and information to be furnished under section 147, their form and the intervals at which they are to be made or furnished;
+
 8. governing the conduct, discipline, rights and privileges of young persons in places of temporary detention, of open custody or of secure custody;
+
 9. prescribing procedures for the admission of young persons to and their discharge from places of temporary detention, of open custody or of secure custody or premises in which a service is provided;
+
 10. prescribing the number of members of the Board and the number of members that is a quorum;
+
 11. prescribing additional powers, duties and procedures of the Board;
+
 12. governing the exercise of the power of entry given under subsection 153 (5);
+
 13. governing searches under subsection 155 (1);
+
 14. prescribing procedures for the seizure and disposition of contraband found during a search;
+
 15. respecting any matter considered necessary or advisable to carry out effectively the intent and purpose of Part VI.
 
 ### Regulations: Part VII (Extraordinary Measures)
 
 345 The Lieutenant Governor in Council may make regulations for the purposes of Part VII,
+
 1. prescribing procedures for the admission of persons to and their discharge from secure treatment programs;
+
 2. prescribing standards for secure treatment programs;
+
 3. governing policies on the use of mechanical restraints required by section 160, including prescribing provisions that must be or may not be included;
+
 4. prescribing standards for secure de-escalation rooms;
+
 5. prescribing procedures to be followed when a child or young person is placed in or released from a secure de-escalation room;
+
 6. prescribing the frequency of reviews under subsection 174 (6);
+
 7. prescribing additional standards and procedures with which a service provider must comply under subsection 174 (9);
+
 8. prescribing matters to be reviewed and prescribing additional reports under section 175;
+
 9. prescribing procedures as intrusive procedures;
+
 10. prescribing drugs, combinations of drugs or classes of drugs as psychotropic drugs.
 
 ### Regulations: Part VIII (Adoption and Adoption Licensing)
 
 346 (1) The Lieutenant Governor in Council may make regulations for the purposes of Part VIII,
+
 1. designating a person or body to exercise powers and perform duties with respect to adoption;
+
 2. governing the person or body designated under paragraph 1, including prescribing the powers and duties of the person or body;
+
 3. prescribing criteria for the purposes of the definition of “birth parent” in subsection 179 (1);
+
 4. prescribing matters for the purposes of clause 180 (4) (b);
+
 5. prescribing special circumstances for the purposes of subsection 188 (9) (placement outside Canada);
+
 6. governing applications for review under subsection 192 (3);
+
 7. prescribing additional practices and procedures for the purposes of subsection 192 (7);
+
 8. prescribing the qualifications or experience a member of the Board is required to have for the purpose of subsection 192 (8);
+
 9. governing procedures to be followed by a Director in making a review under subsection 193 (3), what types of decisions and directions the Director is authorized to make after conducting a review, and any consequences following as a result of a decision or direction;
+
 10. prescribing an alternative dispute resolution method for the purposes of subsections 198 (8) and 207 (9);
+
 11. governing the placement of children for adoption;
+
 12. prescribing rules and standards governing the placement of children for adoption by licensees;
+
 13. governing openness orders under Part VIII;
+
 14. prescribing persons for the purposes of clause 222 (3) (d);
+
 15. prescribing the powers and duties of a designated custodian under section 223 and governing the fees that the designated custodian may charge in connection with the exercise of its powers and the performance of its duties;
+
 16. governing the disclosure of information under section 224 to a designated custodian;
+
 17. governing the disclosure of information under section 225 by the Minister, a society, a licensee or a designated custodian;
+
 18. establishing and governing a mechanism for the review or appeal of a decision made by the Minister, a society, a licensee or a designated custodian concerning the disclosure of information under section 224 or 225;
+
 19. governing the fees that a society, licensee or designated custodian may charge for the disclosure of information under section 224 or 225;
+
 20. governing the inspection, removal or alteration of information related to an adoption for the purposes of clause 227 (1) (b);
+
 21. exempting a licensee or class of licensees from any or all provisions or requirements of Part VIII or the regulations under it, either indefinitely or for a specified period;
+
 22. governing the issuing, renewal and expiry of licences and prescribing fees payable by an applicant for a licence or its renewal;
+
 23. prescribing grounds for which the issuance of a licence may be refused for the purposes of clause 231 (c);
+
 24. prescribing grounds for which a licence may be revoked or the renewal of a licence may be refused for the purposes of clause 232 (e);
+
 25. prescribing expenses that may be charged under clause 240 (d) and the conditions under which such expenses may be charged.
 
 ### Functions of Central Authority
 
 (2) In subsection (3),
+
 “Central Authority” means the Central Authority designated under clause 24 (a) of the Intercountry Adoption Act, 1998; (“Autorité centrale”)
+
 “Convention” means the Convention on Protection of Children and Co-operation in respect of Intercountry Adoption, set out in the Schedule to the Intercountry Adoption Act, 1998. (“Convention”)
 
 ### Same
@@ -8638,14 +10827,23 @@ ii. provincial directors;
 ### Minister’s regulations
 
 (4) The Minister may make regulations for the purposes of Part VIII,
+
 1. prescribing the form of an affidavit of execution for the purposes of subsection 180 (12);
+
 2. prescribing the manner in which placements are to be registered under subsection 183 (7);
+
 3. prescribing persons for the purposes of subclause 188 (3) (b) (ii);
+
 4. prescribing persons and entities and timing requirements for the purposes of clause 238 (b);
+
 5. prescribing the accounts and records to be kept by licensees;
+
 6. requiring licensees and applicants for a licence or renewal of a licence to provide information, returns and reports, and respecting the manner in which the information, returns and reports must be provided;
+
 7. providing for the inspection of the records of licensees;
+
 8. governing the qualifications of persons employed by licensees;
+
 9. requiring licensees to be bonded or to submit letters of credit in the prescribed form and terms and with the prescribed collateral security, prescribing the form, terms and collateral security and providing for the forfeiture of bonds and letters of credit and the disposition of the proceeds.
 
 ### Regulations: Part IX (Residential Licensing)
@@ -8653,93 +10851,167 @@ ii. provincial directors;
 ### Lieutenant Governor in Council regulations
 
 347 (1) The Lieutenant Governor in Council may make regulations for the purposes of Part IX,
+
 1. prescribing other residences for the purposes of paragraph 3 of the definition of “children’s residence” in section 243;
+
 2. prescribing other places for the purposes of paragraph 12 of the definition of “children’s residence” in section 243;
+
 3. prescribing circumstances in which a licence is required to provide residential care for the purposes of subparagraph 2 ii of section 244;
+
 4. prescribing circumstances for the purposes of section 251;
+
 5. prescribing matters about which the Minister may issue directives for the purposes of subsection 252 (1);
+
 6. governing reviews and appeals under section 260;
+
 7. governing the issuance, renewal and expiry of licences and prescribing fees payable by an applicant for a licence or its renewal;
+
 8. prescribing grounds for which the issuance of a licence may be refused for the purposes of clause 261 (f);
+
 9. prescribing grounds for which a licence may be revoked or the renewal of a licence may be refused for the purposes of clause 262 (g);
+
 10. prescribing other powers and duties of an inspector for the purposes of subsection 273 (3);
+
 11. prescribing other powers of an inspector for the purposes of clause 276 (1) (i);
+
 11.1 governing the determination of administrative penalties, including prescribing rules for the purposes of subsection 279.8 (4), criteria for the purposes of clause 279.8 (5) (c) and circumstances in which a notice of administrative penalty may be removed for the purposes of subsection 279.8 (12), and all matters necessary and incidental to the administration of a system of administrative penalties under this Act;
+
 12. prescribing provisions of Part IX or the regulations for the purposes of clause 280 (1) (i);
+
 13. prescribing provisions of Part IX or the regulations for the purposes of clause 280 (3) (c).
 
 ### Minister’s regulations
 
 (2) The Minister may make regulations for the purposes of Part IX,
+
 1. prescribing or otherwise providing for anything required or permitted by Part IX, except anything referred to in subsection (1) of this section, to be prescribed or otherwise provided for in the regulations, including governing anything required or permitted to be done in accordance with the regulations;
+
 1.1 prescribing positions for the purposes of the definition of “designated senior employee” set out in section 243;
+
 2. specifying and governing classes of licence that may be assigned for the purposes of section 258;
+
 2.1 prescribing circumstances in which a summary of notice may be removed for the purposes of subsection 264 (10);
+
 3. governing the amount or method of determining the amount that a licensee may charge for the provision of residential care under the authority of a licence for the purposes of section 268, including governing reviews and variation of the amount or method and circumstances in which a licensee may charge a different amount than the amount that could otherwise be charged;
+
 4. governing the management and operation of, and the accommodation, facilities, equipment and services to be provided in, children’s residences and other places where residential care is provided under the authority of a licence;
+
 5. specifying and governing performance standards and performance measures with respect to the provision of services in children’s residences or other places where residential care is provided under the authority of a licence, including standards with respect to quality of care and responsiveness to cultural needs;
+
 6. prescribing the accounts and records to be kept by licensees;
+
 7. prescribing the qualifications, powers and duties of persons supervising children in children’s residences or other places where residential care is provided under the authority of a licence;
+
 7.1 prescribing qualifications of the persons to be retained pursuant to an order made under subsection 279.4 (1);
+
 8. prescribing screening measures to be conducted for licensees, applicants for a licence or renewal of a licence and other persons providing residential care to children in children’s residences or other places where residential care is provided under the authority of a licence;
+
 9. governing procedures for the admission to and discharge of children from children’s residences or other places where residential care is provided under the authority of a licence;
+
 10. requiring licensees and applicants for a licence or renewal of a licence to provide information, returns and reports, and respecting the manner in which the information, returns and reports must be provided;
+
 11. governing the order made under section 279.5, including,
+
 i. circumstances in which an order may be made for the purposes of clause 279.5 (3) (b),
+
 ii. principles that a Director shall take into account for the purposes of paragraph 3 of subsection 279.5 (4), and
+
 iii. information that a Director may require when deciding whether to make an order under subsection 279.5 (1) or determining the amount to be returned or paid under subsection 279.5 (4);
+
 12. setting out procedures to be followed by a designated senior employee in conducting a review under section 279.9.
 
 ### Regulations: Part X (Personal Information)
 
 348 The Lieutenant Governor in Council may make regulations for the purposes of Part X,
+
 1. prescribing persons for the purpose of paragraph 2 of subsection 283 (2);
+
 2. prescribing other ministers with whom the Minister may share information for the purposes of subsection 283 (5);
+
 3. prescribing requirements and restrictions in relation to research and analysis for the purposes of subsection 283 (7);
+
 4. prescribing and governing methods of giving notice under clauses 283 (8) (b) and 284 (3) (b);
+
 5. prescribing the purposes for the collection under section 284;
+
 6. prescribing purposes related to a society’s functions for the purposes of clause 288 (2) (c), subclause 291 (2) (a) (ii) and subsection 292 (3);
+
 7. specifying requirements that an express instruction mentioned in clause 291 (1) (a) must meet;
+
 7.1. with respect to personal information described in section 291.1 or 292.1, or class of such personal information,
+
 i. establishing procedures and requirements that apply to the manner in which a society or prescribed person may use or disclose the personal information,
+
 ii. establishing requirements, restrictions or prohibitions with respect to the collection, use, disclosure, maintenance and keeping of the personal information by a society or prescribed person in addition to the requirements, restrictions or prohibitions set out in this Act, and
+
 iii. exempting, including temporarily exempting, any type of record or information from the restrictions set out in sections 291.1 and 292.1.
+
 8. prescribing requirements and restrictions for the purposes of clauses 288 (2) (e), 291 (1) (j) and (k) and 292 (1) (h) and subsections 293 (2) and (3), 302 (10), 304 (1) and (4) and 305 (10);
+
 9. prescribing entities for the purpose of section 293;
+
 10. prescribing information and circumstances for the purposes of subsection 293 (4);
+
 11. prescribing exceptions and additional requirements for the purposes of subsection 293 (9);
+
 12. prescribing a body for the purposes of sections 302, 304 and 305;
+
 13. prescribing information for the purpose of subsection 304 (2);
+
 14. prescribing persons for the purpose of subsection 304 (3);
+
 15. prescribing provisions and prescribing and governing the manner of recording disclosures for the purpose of subsection 306 (3);
+
 16. prescribing exceptions and additional requirements for the purposes of subsection 308 (2);
+
 17. prescribing requirements for the purposes of subsection 308 (3) and clause 309 (1) (b);
+
 18. prescribing circumstances for the purposes of subsection 314 (10) and governing the fees that may be charged in those circumstances;
+
 19. permitting notices, statements or any other things, that under this Part are required to be provided in writing, to be provided in electronic or other form instead, subject to the conditions or restrictions that are specified by the regulations made under this section;
+
 20. requiring service providers to provide information to the Commissioner and specifying the type of information to be provided and the time at which and manner in which it is to be provided.
 
 ### Regulations: Part XI (Miscellaneous Matters)
 
 349 The Lieutenant Governor in Council may make regulations for the purposes of Part XI,
+
 1. prescribing the number of members of the Board and the number of members that is a quorum;
+
 2. prescribing additional powers, duties and procedures of the Board;
+
 3. respecting police record checks for the purposes of section 334, including,
+
 i. requiring different classes of persons to provide different types of police record checks or different types of information as part of a check,
+
 ii. prescribing procedures and practices to be followed when a police record check is required,
+
 iii. prescribing other persons for the purposes of paragraph 3 of section 334, and
+
 iv. requiring police record checks to be obtained from jurisdictions outside Ontario in specified circumstances;
+
 3.1 respecting declarations and notices for the purposes of section 334.1, including,
+
 i. requiring different classes of persons to provide declarations and notices that include different types of information,
+
 ii. prescribing the procedures and practices to be followed when a declaration or notice is required, and
+
 iii. requiring persons who are required to provide declarations or notices to provide other information and prescribing that information.
+
 4. respecting police record checks for the purposes of section 335, including,
+
 i. prescribing other entities from whom a society may request police record checks or other information,
+
 ii. prescribing other information that may be requested,
+
 iii. prescribing circumstances in which and purposes for which the request may be made, and
+
 iv. prescribing procedures and practices to be followed when a police record check or other information is requested.
 
 ### Part XIII (OMITTED)
 
 350 Omitted (amends, repeals or revokes other legislation).
+
 351 Omitted (provides for coming into force of provisions of this Act).
+
 352 Omitted (enacts short title of this Act).

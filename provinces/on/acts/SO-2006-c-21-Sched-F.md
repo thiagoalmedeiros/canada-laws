@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06l21"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Legislation Act, 2006
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06l21) before relying on it.
 
 S.O. 2006, c. 21, Sched. F
 
@@ -21,13 +21,21 @@ S.O. 2006, c. 21, Sched. F
 ### Definitions
 
 1 (1) In this Act,
+
 “consolidated law” means a source law into which are incorporated,
+
 (a) amendments, if any, that are enacted by the Legislature or filed with the Registrar of Regulations under Part III (Regulations) or under a predecessor of that Part, and
+
 (b) changes, if any, that are made under Part V (Change Powers); (“ texte législatif codifié”)
+
 “e-Laws website” means the website of the Government of Ontario for statutes, regulations and related materials that is available on the Internet at www.e-laws.gov.on.ca or at another website address specified by a regulation made under subsection (3); (“site Web Lois-en-ligne”)
+
 “legislation” means Acts and regulations; (“législation”)
+
 “source law” means,
+
 (a) in the case of an Act, the Act as enacted by the Legislature, and
+
 (b) in the case of a regulation, the regulation as filed with the Registrar of Regulations under Part III (Regulations) or under a predecessor of that Part. (“texte législatif source”)
 
 ### Reference to amendment includes reference to repeal, revocation
@@ -41,8 +49,11 @@ S.O. 2006, c. 21, Sched. F
 ### Role of Attorney General
 
 2 The Attorney General shall,
+
 (a) maintain the electronic database of source law and consolidated law for the e-Laws website so as to facilitate convenient and reliable public access to Ontario legislation;
+
 (b) safeguard the accuracy and integrity of the electronic database of source law and consolidated law that appears on the e-Laws website; and
+
 (c) safeguard the accuracy and integrity of publications of source law and consolidated law published by the King’s Printer for Ontario or by an entity prescribed under clause 41 (1) (a).
 
 ### Designation by Chief Legislative Counsel
@@ -58,7 +69,9 @@ S.O. 2006, c. 21, Sched. F
 ### Citation of Acts
 
 5 (1) An Act may be cited,
+
 (a) by its long or short title;
+
 (b) in English as “Statutes of Ontario” or “S.O.” and in French as “Lois de l’Ontario” or “L.O.”, followed by its year of enactment and its chapter number.
 
 ### Same
@@ -92,9 +105,13 @@ S.O. 2006, c. 21, Sched. F
 ### Provisions coming into force on a day to be named by order
 
 (3) If an Act provides that any provisions of an Act are to come into force on a day to be named by order of the Lieutenant Governor in Council, the following rules apply to such an order:
+
 1. Orders may be issued at different times for different parts, portions or sections of those provisions.
+
 2. The order may be amended or revoked by a further order of the Lieutenant Governor in Council.
+
 3. The order may be amended or revoked before the date named by the order, but not on or after that date.
+
 4. If the order names different dates for different provisions, the order may be amended or revoked with respect to a particular provision before the date named for that provision, but not on or after that date.
 
 ### Effect of amendment to order
@@ -122,7 +139,9 @@ S.O. 2006, c. 21, Sched. F
 ### Limitation
 
 (2) Unless otherwise provided, an Act that comes into force on Royal Assent is not effective against a person before the earlier of the following times:
+
 1. When the person has actual notice of it.
+
 2. The last instant of the day on which it comes into force.
 
 ### Repeal
@@ -142,14 +161,19 @@ S.O. 2006, c. 21, Sched. F
 ### Annual report
 
 10.1 (1) On one of the first five days on which the Legislative Assembly sits in each calendar year, the Attorney General shall table in the Assembly a report listing every Act or provision of an Act that,
+
 (a) is to come into force on a day to be named by order of the Lieutenant Governor in Council;
+
 (b) was enacted nine years or more before December 31 of the preceding calendar year; and
+
 (c) was not in force on December 31 of the preceding calendar year.
 
 ### Repeal
 
 (2) Every Act or provision listed in the annual report is repealed on December 31 of the calendar year in which the report is tabled unless,
+
 (a) it comes into force or is repealed on or before December 31 of that calendar year; or
+
 (b) during that calendar year, the Assembly adopts a resolution that the Act or provision listed in the report not be repealed.
 
 ### Publication
@@ -191,7 +215,9 @@ S.O. 2006, c. 21, Sched. F
 ### Same
 
 (2) Judicial notice shall be taken of the issuing and contents of,
+
 (a) every order of the Lieutenant Governor in Council that names a day on which provisions of an Act are to come into force; and
+
 (b) every order of the Lieutenant Governor in Council that amends or revokes an order described in clause (a).
 
 ### Copies for publication
@@ -225,7 +251,9 @@ S.O. 2006, c. 21, Sched. F
 ### Regulations
 
 16 The Attorney General may make regulations,
+
 (a) prescribing methods of citing Acts to supplement or provide alternatives to the methods set out in section 5;
+
 (b) prescribing the manner of publishing Acts on the e-Laws website and in print for the purposes of subsection 15 (1).
 
 ## Part III Regulations
@@ -233,9 +261,13 @@ S.O. 2006, c. 21, Sched. F
 ### Definitions
 
 17 In this Part,
+
 “Registrar” means the Registrar of Regulations appointed under section 31; (“registrateur”)
+
 “regulation” means a regulation, rule, order or by-law of a legislative nature made or approved under an Act of the Legislature by the Lieutenant Governor in Council, a minister of the Crown, an official of the government or a board or commission all the members of which are appointed by the Lieutenant Governor in Council, but does not include,
+
 (a) a by-law of a municipality or local board as defined in the Municipal Affairs Act, or
+
 (b) an order of the Ontario Land Tribunal. (“règlement”)
 
 ### Filing of regulations
@@ -285,7 +317,9 @@ S.O. 2006, c. 21, Sched. F
 ### Timing of consent
 
 (4) A consent to extend the filing date and any subsequent consents may be given at any time,
+
 (a) whether before or after the four-month period described in subsection (1) has expired; and
+
 (b) whether or not a date set out in an earlier consent has expired.
 
 ### Filing restriction
@@ -299,6 +333,7 @@ S.O. 2006, c. 21, Sched. F
 ### Same
 
 (7) A consent filed under this section need not be published.
+
 (8) Repealed: 2024, c. 2, Sched. 15, s. 6.
 
 ### Registrar’s discretion not to file
@@ -346,8 +381,11 @@ S.O. 2006, c. 21, Sched. F
 ### Limitation
 
 (2) Unless otherwise provided in a regulation or in the Act under which the regulation is made, a regulation is not effective against a person before the earliest of the following times:
+
 1. When the person has actual notice of it.
+
 2. The last instant of the day on which it is published on the e-Laws website.
+
 3. The last instant of the day on which it is published in The Ontario Gazette.
 
 ### Revocation
@@ -387,7 +425,9 @@ S.O. 2006, c. 21, Sched. F
 ### When published
 
 25 (1) Every regulation shall be published,
+
 (a) on the e-Laws website promptly after its filing; and
+
 (b) in The Ontario Gazette within one month after its filing or in accordance with such other timelines as may be specified in a regulation made under clause 32 (c).
 
 ### Date of filing, publication, etc.
@@ -409,8 +449,11 @@ S.O. 2006, c. 21, Sched. F
 ### Pre-publication corrections
 
 26 (1) At any time before a filed regulation is first published under subsection 25 (1), the Registrar may,
+
 (a) correct spelling, punctuation or grammatical errors, or errors that are of a clerical, typographical or similar nature;
+
 (b) alter the style or presentation of text or graphics to be consistent with the editorial or drafting practices of Ontario, or to improve electronic or print presentation; and
+
 (c) correct errors in the numbering of provisions and make any changes in cross-references that are required as a result.
 
 ### Same
@@ -434,6 +477,7 @@ S.O. 2006, c. 21, Sched. F
 ### Same
 
 (4) A notice of correction published under subsection (3) may include a corrected regulation, if the Registrar considers it appropriate.
+
 (5) Repealed: 2009, c. 33, Sched. 2, s. 43 (15).
 
 ### No validation
@@ -455,7 +499,9 @@ S.O. 2006, c. 21, Sched. F
 ### Same
 
 (3) A regulation set out in the Revised Regulations of Ontario may be cited,
+
 (a) in English as “Revised Regulations of Ontario, (year), Regulation (number)” or as “R.R.O. (year), Reg. (number)”; and
+
 (b) in French as “Règlements refondus de l’Ontario de (year), Règlement (number)” or as “R.R.O. (year), Règl. (number)”.
 
 ### Same
@@ -473,8 +519,11 @@ S.O. 2006, c. 21, Sched. F
 ### Other duties
 
 (3) The Registrar shall,
+
 (a) be responsible for the numbering, indexing and publication of all regulations filed under this Part;
+
 (b) set standards respecting the format in which regulations shall be submitted for filing;
+
 (c) exercise the powers given and perform the duties assigned under this Part.
 
 ### Assistant Registrars
@@ -484,9 +533,13 @@ S.O. 2006, c. 21, Sched. F
 ### Regulations
 
 32 The Attorney General may make regulations,
+
 (a) prescribing methods and rules for filing regulations that supplement or provide alternatives to the rules described in section 18, to permit the establishment of an electronic regulations filing system or otherwise address technological change;
+
 (b) prescribing methods of citing regulations to supplement or provide alternatives to the methods set out in section 30;
+
 (c) prescribing timelines for the purposes of clause 25 (1) (b);
+
 (d) respecting the powers and duties of the Registrar.
 
 ### Standing committee
@@ -522,8 +575,11 @@ S.O. 2006, c. 21, Sched. F
 ### Official copy
 
 35 (1) A copy of a source law or a consolidated law is an official copy of that law if,
+
 (a) it is printed by the King’s Printer for Ontario or by an entity that is prescribed under clause 41 (1) (a);
+
 (b) it is accessed from the e-Laws website in a form or format prescribed under clause 41 (1) (b); or
+
 (c) it is prescribed under clause 41 (1) (c) as an official copy.
 
 ### Disclaimer
@@ -549,8 +605,11 @@ S.O. 2006, c. 21, Sched. F
 ### Official copies of consolidated law as evidence
 
 39 Unless the contrary is proved, an official copy of a consolidated law is an accurate statement of that law,
+
 (a) in the case of an official copy described in clause 35 (1) (a), on the consolidation date shown on the copy;
+
 (b) in the case of an official copy accessed from the e-Laws website in a form or format prescribed under clause 41 (1) (b), during the period indicated on the e-Laws website in respect of the copy when the copy is accessed;
+
 (c) in the case of an official copy prescribed under clause 41 (1) (c), on the date or during the period prescribed under clause 41 (1) (d).
 
 ### e-Laws, provisions not in force
@@ -564,16 +623,23 @@ S.O. 2006, c. 21, Sched. F
 ### Regulations
 
 41 (1) The Attorney General may make regulations,
+
 (a) prescribing an entity for the purposes of clause 35 (1) (a);
+
 (b) prescribing forms or formats, including print-outs, on-screen displays or other output of electronic data, for the purposes of clause 35 (1) (b);
+
 (c) prescribing official copies for the purposes of clause 35 (1) (c);
+
 (d) prescribing the date on or period during which a copy prescribed under clause (c) is an accurate statement of a consolidated law.
 
 ### Same
 
 (2) A regulation made under clause (1) (b), (c) or (d) may be made with respect to,
+
 (a) the manner in which a copy is created, recorded, transmitted, stored, authenticated, received, displayed or perceived;
+
 (b) the person, body or thing that created, recorded, transmitted, stored, authenticated, received, displayed or perceived the copy; and
+
 (c) any statement, mark or certification associated with the creation, recording, transmission, storage, authentication, reception, display or perception of the copy.
 
 ## PART V change powers
@@ -585,34 +651,55 @@ S.O. 2006, c. 21, Sched. F
 ### Same
 
 (2) The Chief Legislative Counsel may make the following changes to consolidated laws:
+
 1. Correct spelling, punctuation or grammatical errors, or errors that are of a clerical, typographical or similar nature.
+
 2. Alter the style or presentation of text or graphics to be consistent with the editorial or drafting practices of Ontario, or to improve electronic or print presentation.
+
 2.1 Make such minor changes as may be required to ensure a consistent form of expression.
+
 2.2 Make such minor changes as may be required to make the form of expression of an Act or regulation in French or in English more compatible with its form of expression in the other language.
+
 3. Replace a form of reference to an Act or regulation, or a provision or other portion of an Act or regulation, with a different form of reference, in accordance with Ontario drafting practices.
+
 4. Replace a description of a date or time with the actual date or time.
+
 5. After a bill has been enacted, replace a reference to the bill or a provision or other portion of the bill with a reference to the Act or provision or other portion of the Act.
+
 6. If a provision provides that it is contingent on the occurrence of a future event and the event occurs, remove text referring to the contingency and make any other changes that are required as a result.
+
 7. Make such changes to the title of an Act or regulation, including but not limited to omitting the year from the title of an Act, as are required to accord with changes in methods of citing Acts or regulations or changes in the electronic or print presentation of Acts or regulations, and make any other changes that are required as a result.
+
 8. If an Act or regulation provides that references to a body, office, person, place or thing are deemed or considered to be references to another body, office, person, place or thing, replace a reference to the original body, office, person, place or thing with a reference to the other.
+
 9. When the name, title, location or address of a body, office, person, place or thing has been altered, change references to the name, title, location or address to reflect the alteration, if the body, office, person, place or thing continues under the new name or title or at the new location or address.
+
 9.1 Make such changes as may be required to reflect a change of reigning sovereign or to otherwise change the terminology used to refer to the Crown in accordance with Ontario drafting practices.
+
 10. Correct errors in the numbering of provisions or other portions of an Act or regulation and make any changes in cross-references that are required as a result.
+
 11. If a provision of a transitional nature is contained in an amending Act or regulation, incorporate it as a provision of the relevant consolidated law and make any other changes that are required as a result.
+
 12. Make a correction, if it is patent both that an error has been made and what the correction should be.
 
 ### Exception, par. 9 of subs. (2)
 
 (3) Paragraph 9 of subsection (2) does not apply to alterations to the name or title of,
+
 (a) a Minister or Ministry of the Government of Ontario;
+
 (b) a municipality, as defined in the Municipal Act, 2001;
+
 (c) a non-legislative document incorporated by reference into an Act or regulation; or
+
 (d) an Act or regulation.
 
 ### Error in consolidation
 
 (4) If the Chief Legislative Counsel discovers that an error was made in the process of publishing or consolidating a consolidated law,
+
 (a) in the case of a consolidated law published on the e-Laws website, he or she shall ensure that a corrected consolidated law is published on the e-Laws website; and
+
 (b) in the case of a consolidated law printed by the King’s Printer for Ontario or by an entity that is prescribed under clause 41 (1) (a), he or she may cause a corrected consolidated law to be published in print, if he or she considers it appropriate in the circumstances.
 
 ### Notice
@@ -626,7 +713,9 @@ S.O. 2006, c. 21, Sched. F
 ### Same
 
 (3) In determining whether to provide notice of a change made under paragraphs 1 to 3 of subsection 42 (2) or of a correction made under subsection 42 (4), the Chief Legislative Counsel shall consider,
+
 (a) the nature of the change or correction; and
+
 (b) the extent to which notice, and the information provided in it, would provide assistance in understanding the relevant legislative history.
 
 ### Same
@@ -640,7 +729,9 @@ S.O. 2006, c. 21, Sched. F
 ### Interpretation
 
 45 Regardless of when a change is made to a consolidated law under this Part, the change may be read, if it is appropriate to do so,
+
 (a) into the source law as of the date it was enacted or filed; or
+
 (b) into earlier consolidations of the Act or regulation.
 
 ## PART VI Interpretation
@@ -654,7 +745,9 @@ S.O. 2006, c. 21, Sched. F
 ### Contrary intention or context requiring otherwise
 
 47 Section 46 applies unless,
+
 (a) a contrary intention appears; or
+
 (b) its application would give to a term or provision a meaning that is inconsistent with the context.
 
 ### Existing and future legislation
@@ -664,11 +757,17 @@ S.O. 2006, c. 21, Sched. F
 ### Other documents
 
 49 The following provisions also apply, in the same way as to a regulation, to every document that is made under an Act but is not a regulation:
+
 1. Subsection 52 (6) (regulation continues).
+
 2. Section 54 (regulations – power to make, amend, etc.).
+
 3. Section 58 (reference to Act or regulation includes reference to individual provisions).
+
 4. Section 59 (rolling incorporation of Ontario legislation), but only with respect to the document that contains the reference.
+
 5. Section 86 (terms used in regulations).
+
 6. Section 89 (computation of time).
 
 ### Interpretation and definition provisions
@@ -680,11 +779,17 @@ S.O. 2006, c. 21, Sched. F
 ### Effect of repeal and revocation
 
 51 (1) The repeal of an Act or the revocation of a regulation does not,
+
 (a) affect the previous operation of the repealed or revoked Act or regulation;
+
 (b) affect a right, privilege, obligation or liability that came into existence under the repealed or revoked Act or regulation;
+
 (c) affect a contravention of or offence committed against the repealed or revoked Act or regulation, or any penalty, forfeiture or punishment incurred in connection with the contravention or offence; or
+
 (d) affect an investigation, proceeding or remedy in respect of,
+
 (i) a right, privilege, obligation or liability described in clause (b), or
+
 (ii) a penalty, forfeiture or punishment described in clause (c).
 
 ### Same
@@ -700,8 +805,11 @@ S.O. 2006, c. 21, Sched. F
 ### Application
 
 52 (1) This section applies,
+
 (a) if an Act is repealed and replaced;
+
 (b) if a regulation is revoked and replaced;
+
 (c) if an Act or regulation is amended.
 
 ### Authorized persons continue to act
@@ -751,7 +859,9 @@ S.O. 2006, c. 21, Sched. F
 ### Same
 
 (2) The Lieutenant Governor in Council may, by regulation, revoke a regulation,
+
 (a) that has ceased to have effect under subsection (1); or
+
 (b) that has been rendered obsolete by events or the passage of time.
 
 ### No implication
@@ -779,8 +889,11 @@ S.O. 2006, c. 21, Sched. F
 ### References to Ontario legislation
 
 59 (1) A reference in an Act or regulation to a provision of another Act or regulation is a reference to the provision,
+
 (a) as amended;
+
 (b) as changed under Part V (Change Powers); or,
+
 (c) if the provision has been replaced, to the replacement provision.
 
 ### Same
@@ -790,14 +903,19 @@ S.O. 2006, c. 21, Sched. F
 ### Reference to repealed and unreplaced provision
 
 (3) If the provision referred to is repealed or revoked, without being replaced,
+
 (a) the repealed or revoked provision continues to have effect, but only to the extent that is necessary to give effect to the Act or regulation that contains the reference; and
+
 (b) the reference is to the provision as it read immediately before the repeal or revocation.
 
 ### References to other Canadian legislation
 
 60 (1) A reference in an Act or regulation to a provision of an Act or regulation of Canada or of another province or territory of Canada is a reference to the provision,
+
 (a) as amended;
+
 (b) as changed in the exercise of a statutory power to make non-substantive changes; or,
+
 (c) if the provision has been replaced, to the replacement provision.
 
 ### Same
@@ -827,7 +945,9 @@ S.O. 2006, c. 21, Sched. F
 ### Access to incorporated document and earlier versions
 
 (4) When a document is incorporated by reference as described in subsection (1), the Minister responsible for the administration of the Act under which the regulation is made shall take steps to ensure that,
+
 (a) the incorporated document is readily available to the public, on and after the day the regulation or amending regulation containing the reference is filed under Part III (Regulations); and
+
 (b) the incorporated document and any earlier versions of it that were previously incorporated into the regulation or into a predecessor of the regulation remain readily available to the public.
 
 ### Transition
@@ -891,7 +1011,9 @@ S.O. 2006, c. 21, Sched. F
 ### Same, offices and oaths
 
 (2) For greater certainty, a change of reigning sovereign,
+
 (a) does not affect any appointment or the holding of any office under the Crown; and
+
 (b) does not require the retaking of any related oath or affirmation.
 
 ### Proclamations
@@ -899,12 +1021,15 @@ S.O. 2006, c. 21, Sched. F
 ### How proclamations issued
 
 73 When an Act authorizes the Lieutenant Governor to do anything by proclamation, the proclamation,
+
 (a) shall be issued under an order of the Lieutenant Governor in Council recommending that the proclamation be issued; and
+
 (b) need not refer to the order in council.
 
 ### Judicial notice
 
 74 Judicial notice shall be taken of the issuing and contents of every proclamation.
+
 75 Repealed: 2024, c. 2, Sched. 15, s. 15.
 
 ### Appointments, Powers and Delegation
@@ -920,8 +1045,11 @@ S.O. 2006, c. 21, Sched. F
 ### Implied powers
 
 77 Power to appoint a person to a public office includes power to,
+
 (a) reappoint or remove the person;
+
 (b) appoint a deputy with the same powers as the holder of the office, subject to specified conditions, or with limited powers as specified; and
+
 (c) temporarily appoint another person to the office if it is vacant or if the holder of the office is absent or unable to act.
 
 ### Incidental powers
@@ -961,7 +1089,9 @@ S.O. 2006, c. 21, Sched. F
 ### Same
 
 (3) For the purposes of subsection (2), a class may be defined,
+
 (a) in terms of any attribute or combination of attributes; or
+
 (b) as consisting of, including or excluding a specified member.
 
 ### Fee regulations
@@ -971,7 +1101,9 @@ S.O. 2006, c. 21, Sched. F
 ### Deviations from required form
 
 84 Deviations from a form whose use is required under an Act do not invalidate the form if,
+
 (a) they do not affect the substance and are unlikely to mislead; and
+
 (b) the form is organized in the same or substantially the same way as the form whose use is required.
 
 ### Definitions
@@ -987,30 +1119,55 @@ S.O. 2006, c. 21, Sched. F
 ### Definitions
 
 87 In every Act and regulation,
+
 “Act” means an Act of the Legislature, and “statute” has the same meaning; (“loi”)
+
 “Assembly” and “Legislative Assembly” mean the Legislative Assembly of Ontario; (“Assemblée”, “Assemblée législative”)
+
 “Court of Appeal” means the Court of Appeal for Ontario; (“Cour d’appel”)
+
 “Divisional Court” means the Divisional Court of the Superior Court of Justice; (“Cour divisionnaire”)
+
 “Her Majesty”, “His Majesty”, “the Queen”, “the King” or “the Crown” means the Sovereign of the United Kingdom, Canada and His other Realms and Territories, and Head of the Commonwealth; (“Sa Majesté”, “la Reine”, “le Roi”, “la Couronne”)
+
 “holiday” means a holiday as described in section 88; (“jour férié”)
+
 “individual” means a natural person; (“particulier”)
+
 “legally qualified medical practitioner” and similar expressions indicating legal recognition of a person as a member of the medical profession mean a member of the College of Physicians and Surgeons of Ontario; (“médecin dûment qualifié”)
+
 “Legislature” means the Lieutenant Governor acting by and with the advice and consent of the Assembly; (“Législature”)
+
 “Lieutenant Governor” means the Lieutenant Governor of Ontario, or the person administering the Government of Ontario for the time being in His Majesty’s name, by whatever title he or she is designated; (“lieutenant-gouverneur”)
+
 “Lieutenant Governor in Council” means the Lieutenant Governor acting by and with the advice of the Executive Council of Ontario; (“lieutenant-gouverneur en conseil”)
+
 “mentally ill”, when used in reference to a person, means suffering from such a disorder of the mind that he or she requires care, supervision and control for his or her own protection or welfare, or for the protection of others; (“mentalement malade”)
+
 “newspaper”, in a provision requiring publication, means a document that,
+
 (a) is printed in sheet form, published at regular intervals of a week or less and circulated to the general public, and
+
 (b) consists primarily of news of current events of general interest; (“journal”)
+
 “now”, “next”, “heretofore” and “hereafter” relate to the date of coming into force of the provision in which they are used; (“maintenant”, “prochainement”, “jusqu’ici”, “dorénavant”)
+
 “peace officer” includes,
+
 (a) a person employed to serve or execute civil process, including a sheriff, deputy sheriff and sheriff’s officer, and a bailiff of the Small Claims Court,
+
 (b) a justice of the peace,
+
 (c) an officer or permanent employee of a correctional institution, or of a place of detention or custody, and
+
 (d) a person employed to maintain the public peace, including a police officer and constable; (“agent de la paix”)
+
 “person” includes a corporation; (“personne”)
+
 “proclamation” means a proclamation issued by the Lieutenant Governor under the Great Seal; (“proclamation”)
+
 “regulation” means a regulation that is filed under Part III (Regulations); (“règlement”)
+
 “rules of court” means rules made under Part IV of the Courts of Justice Act, or otherwise by an authority having power to make rules regulating court practices and procedures. (“règles de pratique”)
 
 ### Time
@@ -1022,18 +1179,31 @@ S.O. 2006, c. 21, Sched. F
 ### Same
 
 (2) The following days are holidays:
+
 1. Sunday.
+
 2. New Year’s Day.
+
 2.1 Family Day.
+
 3. Good Friday.
+
 4. Easter Monday.
+
 5. Victoria Day.
+
 6. Canada Day.
+
 7. Labour Day.
+
 8. Thanksgiving Day.
+
 9. Remembrance Day.
+
 10. Christmas Day.
+
 11. Boxing Day.
+
 12. Any day fixed as a holiday by proclamation of the Governor General or Lieutenant Governor.
 
 ### Same
@@ -1073,8 +1243,11 @@ S.O. 2006, c. 21, Sched. F
 ### Months
 
 (6) If a period of time is described as a number of months before or after a specified day, the following rules apply:
+
 1. The number of months is counted from the specified day, excluding the month in which the specified day falls.
+
 2. The period includes the day in the last month counted that has the same calendar number as the specified day or, if that month has no day with that number, its last day.
+
 3. Repealed: 2009, c. 33, Sched. 2, s. 43 (33).
 
 ### Leap years
@@ -1098,8 +1271,11 @@ S.O. 2006, c. 21, Sched. F
 ### Corporations, implied provisions
 
 92 (1) A provision of an Act that creates a corporation,
+
 (a) gives it power to have perpetual succession, to sue and be sued and to contract by its corporate name, to have a seal and to change it, and to acquire, hold and dispose of personal property for the purposes for which the corporation is incorporated;
+
 (b) gives a majority of the members of the corporation power to bind the others by their acts; and
+
 (c) exempts the members of the corporation from personal liability for its debts, acts and obligations, if they do not contravene the Act that incorporates them.
 
 ### Restricted application
@@ -1149,16 +1325,23 @@ S.O. 2006, c. 21, Sched. F
 ### French version
 
 (5) If the Chief Legislative Counsel causes an Act to be consolidated under subsection (4), he or she shall, in the case of a public Act, or may, in the case of a private Act,
+
 (a) prepare a French version of the Act; and
+
 (b) cause the French version to be consolidated and published on the e-Laws website as consolidated law together with the English version.
 
 ### Revision
 
 (6) For the purposes of consolidating an Act under subsection (4), Part V (Change Powers) applies in respect of the consolidated Act with the following modifications:
+
 1. Subsection 42 (2) shall be read as including power to,
+
 i. omit provisions that are obsolete, and
+
 ii. alter the numbering and arrangement of provisions.
+
 2. Subsection 42 (3) does not apply.
+
 3. Subsection 43 (1) shall be read as including reference to the changes referred to in subparagraphs 1 i and ii.
 
 ### Unconsolidated regulations
@@ -1172,16 +1355,23 @@ ii. alter the numbering and arrangement of provisions.
 ### French version
 
 (4) If the Chief Legislative Counsel causes a regulation to be consolidated under subsection (3), he or she may,
+
 (a) prepare a French version of the regulation; and
+
 (b) cause the French version to be consolidated and published on the e-Laws website as consolidated law together with the English version.
 
 ### Revision
 
 (5) For the purposes of consolidating a regulation under subsection (3), Part V (Change Powers) applies in respect of the consolidated regulation with the following modifications:
+
 1. Subsection 42 (2) shall be read as including power to,
+
 i. omit provisions that are obsolete, and
+
 ii. alter the numbering and arrangement of provisions.
+
 2. Subsection 42 (3) does not apply.
+
 3. Subsection 43 (1) shall be read as including reference to the changes referred to in subparagraphs 1 i and ii.
 
 ### Resolution of Uncertainty or Transition
@@ -1189,9 +1379,13 @@ ii. alter the numbering and arrangement of provisions.
 ### Resolution of uncertainty or transition
 
 100 (1) The Lieutenant Governor in Council may make regulations in respect of an Act repealed by section 98 or a regulation revoked by section 99,
+
 (a) to resolve any uncertainty in respect of,
+
 (i) any right, privilege, obligation or liability related to the Act or regulation, or
+
 (ii) the effect of the repeal of the Act or the revocation of the regulation;
+
 (b) to resolve any transitional matters that may arise in relation to the repeal or revocation.
 
 ### Same
@@ -1205,4 +1399,5 @@ ii. alter the numbering and arrangement of provisions.
 ## part ix (omitted)
 
 143 Omitted (provides for coming into force of provisions of this Act).
+
 144 Omitted (enacts short title of this Act).

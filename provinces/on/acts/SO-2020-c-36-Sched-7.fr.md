@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-07-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20c36"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # caisses populaires et les credit unions (Loi de 2020 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20c36) before relying on it.
 
 L.O. 2020, chap. 36, annexe 7
 
@@ -21,52 +21,99 @@ L.O. 2020, chap. 36, annexe 7
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «action» S’entend en outre d’une part sociale, à moins que la présente loi ne l’exclue expressément. («share»)
+
 «actionnaire» Actionnaire au sens du paragraphe 8 (1). («shareholder»)
+
 «Autorité» L’Autorité ontarienne de réglementation des services financiers maintenue aux termes du paragraphe 2 (1) de la Loi de 2016 sur l’Autorité ontarienne de réglementation des services financiers. («Authority»)
+
 «caisse» ou «caisse populaire» Personne morale constituée en caisse populaire ou en credit union en vertu de la présente loi ou d’une loi que celle-ci remplace, ou prorogée à ce titre. («credit union»)
+
 «capital réglementaire» Relativement à la caisse, s’entend au sens des règles de l’Autorité. («regulatory capital»)
+
 «conjoint» Conjoint au sens de la partie III de la Loi sur le droit de la famille. («spouse»)
+
 «conseil» Relativement à la caisse, s’entend de son conseil d’administration. («board»)
+
 «déposant» Personne qui a des fonds en dépôt dans une caisse. («depositor»)
+
 «dépôt» S’entend en outre des sommes déposées auprès d’une caisse aux termes d’un régime ou d’un fonds d’épargne enregistré fédéral ou provincial. («deposit»)
+
 «directeur général» Le directeur général nommé aux termes du paragraphe 10 (2) de la Loi de 2016 sur l’Autorité ontarienne de réglementation des services financiers. («Chief Executive Officer»)
+
 «emprunter» Ne s’entend pas du fait d’accepter des dépôts. («borrow»)
+
 «entité» Personne morale, fiducie, société en nom collectif, fonds, organisme sans personnalité morale, la Couronne du chef du Canada ou d’une province et ses organismes ainsi que le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques et ses organismes. («entity»)
+
 «état financier» État financier visé à l’article 177. («financial statement»)
+
 «exigence prévue par la présente loi» Exigence imposée par la présente loi ou par un règlement ou une règle de l’Autorité, ou exigence imposée par ordonnance. («requirement under this Act»)
+
 «fédération» Personne morale constituée en fédération ou en centrale de caisses en vertu de la présente loi. («central»)
+
 «fondateur» Particulier qui signe des statuts constitutifs. («incorporator»)
+
 «institution financière» S’entend des entités suivantes :
+
 a) une banque ou une banque étrangère autorisée au sens de l’article 2 de la Loi sur les banques (Canada);
+
 b) un assureur titulaire d’un permis délivré en vertu de la Loi sur les assurances ;
+
 c) une personne morale inscrite aux termes de la Loi sur les sociétés de prêt et de fiducie ;
+
 d) une entité qui :
+
 (i) d’une part, est constituée en personne morale ou formée sous le régime d’une loi du Parlement du Canada ou de la législature d’une province,
+
 (ii) d’autre part, se livre principalement au commerce des valeurs mobilières, y compris la gestion de portefeuilles et la fourniture de conseils en placement;
+
 e) une caisse;
+
 f) une fédération;
+
 g) une association de détail au sens de la Loi sur les associations coopératives de crédit (Canada);
+
 h) les autres entités ou catégories d’entités prescrites par règlement. («financial institution»)
+
 «membre du même groupe» Personne morale qui fait partie du même groupe qu’une autre au sens de l’article 5. («affiliate»)
+
 «ministre» Le ministre des Finances ou tout autre membre du Conseil exécutif à qui la responsabilité de l’application de la présente loi est assignée ou transférée en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «part de ristourne» Action d’une catégorie que prévoient les statuts de la caisse conformément à l’article 45. («patronage share»)
+
 «part sociale» Participation à l’actif de la caisse qui confère les droits visés au paragraphe 44 (1). («membership share»)
+
 «personne liée» S’il s’agit d’indiquer un rapport avec une personne physique :
+
 a) le conjoint de cette personne;
+
 b) le fils ou la fille de cette personne;
+
 c) un membre de la famille, par le sang, le mariage ou l’adoption, de cette personne ou des personnes visées à l’alinéa a) ou b). («related person»)
+
 «personne morale» Personne morale avec ou sans capital social, que la présente loi s’applique à elle ou non. («body corporate»)
+
 «règle de l’Autorité» Règle établie en vertu du paragraphe 285 (1) de la présente loi ou du paragraphe 21 (2) de la Loi de 2016 sur l’Autorité ontarienne de réglementation des services financiers. («Authority rule»)
+
 «règlement» Règlement pris en application de la présente loi. («regulations»)
+
 «représentant personnel» Personne qui agit en lieu et place d’une autre, notamment, selon les circonstances, le fiduciaire, l’exécuteur testamentaire, l’administrateur successoral, le curateur à la personne ou aux biens, le cessionnaire, le séquestre, le mandataire ou le procureur d’une personne, mais non son délégué. («personal representative»)
+
 «résolution extraordinaire» Résolution adoptée aux deux tiers au moins des voix exprimées par les personnes qui ont voté sur cette résolution ou pour leur compte. («special resolution»)
+
 «sociétaire» Personne qui est sociétaire d’une caisse en vertu de la présente loi et des statuts et règlements administratifs de la caisse qui régissent l’adhésion. («member»)
+
 «statuts constitutifs» ou «statuts» Les statuts constitutifs initiaux ou mis à jour, les statuts de fusion ou de modification, ou l’acte constitutif, la loi spéciale ou tout autre acte qui constitue la caisse en personne morale, ainsi que les modifications qui leur sont apportées. («articles of incorporation», «articles»)
+
 «titre de créance» Toute preuve d’une créance sur une entité, avec ou sans sûreté, notamment une obligation, une débenture ou un billet. («debt obligation»)
+
 «titre secondaire» Titre de créance délivré par une caisse et dont les conditions prévoient qu’en cas d’insolvabilité ou de liquidation de celle-ci, le paiement de la créance prend rang après celui du passif-dépôts de la caisse et de tous ses autres éléments de passif, à l’exclusion de ceux dont le paiement, selon leurs conditions, est de rang égal ou inférieur. («subordinated indebtedness»)
+
 «tribunal» Sauf si le contexte exige une autre interprétation, s’entend de la Cour supérieure de justice. («court»)
+
 «Tribunal» Le Tribunal des services financiers prorogé aux termes de la Loi de 2017 sur le Tribunal des services financiers. («Tribunal»)
+
 «valeur mobilière» Valeur mobilière au sens de la Loi sur les valeurs mobilières, à l’exclusion d’un dépôt dans une institution financière ou d’un effet attestant le dépôt. («security»).
 
 ### Actions détenues conjointement
@@ -80,10 +127,15 @@ c) un membre de la famille, par le sang, le mariage ou l’adoption, de cette pe
 ### Filiale
 
 3 Pour l’application de la présente loi, une personne morale est la filiale d’une autre personne morale si l’une des conditions suivantes est remplie :
+
 a) elle est sous le contrôle :
+
 (i) soit de cette autre personne morale,
+
 (ii) soit de cette autre personne morale et d’une ou de plusieurs personnes morales qui sont toutes sous le contrôle de cette autre personne morale,
+
 (iii) soit de deux personnes morales ou plus qui sont les filiales de cette autre personne morale;
+
 b) elle est la filiale d’une personne morale qui est elle-même la filiale de cette autre personne morale.
 
 ### Personne morale mère
@@ -109,7 +161,9 @@ b) elle est la filiale d’une personne morale qui est elle-même la filiale de 
 ### Contrôle d’une personne morale
 
 6 Pour l’application de la présente loi, une personne morale est sous le contrôle d’une autre personne ou de deux personnes morales ou plus si les conditions suivantes sont réunies :
+
 a) des valeurs mobilières avec droit de vote de la première personne morale auxquelles sont rattachées plus de 50 % des voix nécessaires à l’élection des administrateurs sont détenues, autrement qu’à titre de sûreté seulement, par l’autre personne ou les autres personnes morales ou à leur profit;
+
 b) le nombre de voix rattachées aux valeurs mobilières est suffisant pour élire la majorité des administrateurs de la première personne morale.
 
 ### Sociétaire
@@ -147,8 +201,11 @@ b) le nombre de voix rattachées aux valeurs mobilières est suffisant pour éli
 ### Restriction
 
 (2) Ne peut être fondateur le particulier qui, selon le cas :
+
 a) est âgé de moins de 18 ans;
+
 b) a été jugé incapable de gérer ses biens aux termes de la Loi de 1992 sur la prise de décisions au nom d’autrui ou de la Loi sur la santé mentale ou jugé incapable par un tribunal canadien ou étranger;
+
 c) est un failli qui n’a pas été libéré ou qui l’a été dans les cinq ans qui précèdent la date à laquelle la demande de constitution de la caisse est présentée en vertu du paragraphe 12 (1).
 
 ### Teneur des statuts
@@ -170,7 +227,9 @@ c) est un failli qui n’a pas été libéré ou qui l’a été dans les cinq a
 ### Affidavit
 
 (5) Les statuts doivent être accompagnés d’un affidavit attestant ce qui suit :
+
 1. La signature de chaque fondateur et de chaque premier administrateur.
+
 2. Le fait que chaque premier administrateur satisfait aux critères d’admissibilité prévus à l’article 83 et que chaque fondateur et premier administrateur n’est pas inadmissible aux termes du paragraphe 10 (2) ou de l’article 84, selon le cas.
 
 ### Cas où le consentement est exigé
@@ -188,8 +247,11 @@ c) est un failli qui n’a pas été libéré ou qui l’a été dans les cinq a
 ### Étude antérieure à la constitution
 
 (2) Le directeur général étudie les circonstances relatives aux statuts et aux règlements administratifs ainsi que le caractère suffisant et la régularité de ceux-ci. Avant de délivrer un certificat de constitution, il peut prendre l’une ou l’autre des mesures suivantes :
+
 1. Exiger que les fondateurs fournissent les renseignements supplémentaires qu’il estime pertinents en ce qui concerne la demande.
+
 2. Exiger qu’un élément figurant dans les statuts, les règlements administratifs ou les renseignements supplémentaires qui lui sont fournis soit attesté sous serment.
+
 3. Exiger que les statuts ou les règlements administratifs soient modifiés s’il estime qu’ils sont incompatibles avec la présente loi, les règlements ou les règles de l’Autorité.
 
 ### Certificat de constitution
@@ -199,10 +261,15 @@ c) est un failli qui n’a pas été libéré ou qui l’a été dans les cinq a
 ### Motifs de refus
 
 (2) Le directeur général ne doit pas délivrer de certificat de constitution si les statuts ne satisfont pas aux exigences de l’article 11 ou 12 ou que les fondateurs ne le convainquent pas de ce qui suit :
+
 1. Les plans de conduite et d’expansion des activités commerciales de la caisse sont réalisables et solides.
+
 2. La caisse sera exploitée selon le mode coopératif conformément au paragraphe 23 (2).
+
 3. La caisse sera exploitée de manière que les dépôts soient protégés sans risque qu’une demande de règlement soit présentée à l’endroit de l’Autorité.
+
 4. La caisse sera exploitée de façon responsable par des particuliers qui, du point de vue de la moralité, de la compétence et de l’expérience, sont aptes à exploiter une institution financière.
+
 5. La constitution de la caisse servira l’intérêt véritable du système financier coopératif ontarien.
 
 ### Effet du certificat
@@ -240,7 +307,9 @@ c) est un failli qui n’a pas été libéré ou qui l’a été dans les cinq a
 ### Restriction relative à l’approbation
 
 (2) Le directeur général ne doit pas approuver, en application du paragraphe (1), un nom qui, selon le cas :
+
 a) comprend le terme «caisse populaire», «caisse» ou «credit union», à moins qu’il ne soit dérivé de la dénomination sociale de la caisse;
+
 b) serait interdit comme dénomination sociale aux termes de l’article 19.
 
 ### Dénomination sociale à utiliser dans tous les documents
@@ -254,18 +323,27 @@ b) serait interdit comme dénomination sociale aux termes de l’article 19.
 ### Restrictions relatives à la dénomination sociale
 
 19 (1) La caisse ne peut être constituée en vertu de la présente loi sous une dénomination sociale :
+
 a) dont une loi du Parlement du Canada ou d’une province ou d’un territoire du Canada interdit l’utilisation;
+
 b) qui ne satisfait pas aux exigences prescrites par règlement;
+
 c) qui est réservée, en vertu de l’article 20, à une autre caisse;
+
 d) qui est identique à une marque de commerce ou à un nom commercial existant ou à une dénomination sociale d’une personne morale, ou qui lui est similaire au point de prêter à confusion;
+
 e) qui est identique au nom sous lequel une autre entité exerce ses activités commerciales ou est connue, ou qui lui est similaire au point de prêter à confusion;
+
 f) qui contient un terme indiquant ou laissant croire que la caisse est constituée pour réaliser des objets autres que ceux qui sont énoncés dans ses statuts;
+
 g) qui est fausse ou trompeuse.
 
 ### Exception : marques de commerce et autres
 
 (2) L’alinéa (1) d) ne s’applique pas si le directeur général est convaincu de ce qui suit :
+
 a) la marque de commerce ou le nom commercial est en voie d’être changé ou la personne morale est en train d’être dissoute ou de changer sa dénomination sociale;
+
 b) dans le cas d’une dénomination sociale, il est consenti à son utilisation.
 
 ### Exception pour les membres d’un même groupe
@@ -313,14 +391,23 @@ b) dans le cas d’une dénomination sociale, il est consenti à son utilisation
 ### Mode coopératif
 
 (2) La caisse est exploitée selon le mode coopératif de sorte à remplir les conditions suivantes :
+
 a) l’adhésion y est volontaire et ouverte à ceux qui partagent ses liens d’association, si ses règlements administratifs le prévoient;
+
 b) elle exerce ses activités commerciales principalement au profit de ses sociétaires;
+
 c) le bénéfice de ses activités commerciales est affecté à l’une ou l’autre des fins suivantes :
+
 (i) il sert à fournir des services à ses sociétaires,
+
 (ii) il sert à l’expansion de ses activités commerciales,
+
 (iii) il sert à accroître ses réserves ou ses bénéfices non répartis,
+
 (iv) il est réparti entre ses sociétaires et actionnaires,
+
 (v) il sert à une autre fin approuvée par les sociétaires;
+
 d) chaque sociétaire n’a qu’une voix aux assemblées générales des sociétaires ou pour l’élection de ses administrateurs.
 
 ### Exception
@@ -342,8 +429,11 @@ d) chaque sociétaire n’a qu’une voix aux assemblées générales des socié
 ### Absence de capacité légale
 
 25 (1) Aucun acte d’une caisse ni transfert de biens meubles ou immeubles à une caisse ou par celle-ci, avant ou après l’entrée en vigueur du présent article, qui est par ailleurs légal n’est invalide parce que la caisse n’avait pas la capacité ni le pouvoir d’accomplir cet acte ou encore d’effectuer ou d’accepter ce transfert. Toutefois, un tel défaut de capacité ou de pouvoir peut être invoqué :
+
 a) dans une instance qu’un sociétaire introduit contre la caisse en vertu du paragraphe (2);
+
 b) dans une instance que la caisse introduit, directement ou par l’intermédiaire d’un séquestre, d’un liquidateur, d’un fiduciaire ou du représentant légal de celui-ci, ou de sociétaires qui la représentent, contre un administrateur, un dirigeant, un ancien administrateur ou un ancien dirigeant de la caisse;
+
 c) comme motif d’annulation du certificat de constitution de la caisse.
 
 ### Ordonnance de ne pas faire
@@ -357,9 +447,13 @@ c) comme motif d’annulation du certificat de constitution de la caisse.
 ### Présence d’un contrat
 
 (4) Si l’acte ou le transfert dont le sociétaire sollicite l’interdiction doit être accompli ou effectué aux termes d’un contrat auquel la caisse est partie :
+
 a) toutes les parties au contrat sont parties à l’instance;
+
 b) le tribunal peut :
+
 (i) rendre l’ordonnance et annuler le contrat,
+
 (ii) accorder à la caisse ou aux autres parties au contrat une indemnité pour les dommages ou la perte qu’elles ont subis, à l’exclusion des bénéfices escomptés, parce que l’ordonnance est rendue et que le contrat est annulé.
 
 ### Dispositions diverses
@@ -367,12 +461,19 @@ b) le tribunal peut :
 ### Règle de la régie interne
 
 26 (1) La caisse ou ses cautions ne doivent pas alléguer l’un ou l’autre des faits suivants contre une personne qui traite avec la caisse ou avec une personne qui a acquis des droits de la caisse :
+
 1. Il y a eu absence de conformité aux statuts ou aux règlements administratifs.
+
 2. Les particuliers dont le nom figure dans le dernier avis déposé aux termes de la Loi sur les renseignements exigés des personnes morales ou dans les statuts, si ceux-ci sont plus récents, ne sont pas les administrateurs de la caisse.
+
 3. Le siège social de la caisse, tel qu’il figure dans ses règlements administratifs ou dans ses statuts, si ceux-ci sont plus récents, ne se trouve pas à l’endroit indiqué dans un avis déposé aux termes de la Loi sur les renseignements exigés des personnes morales.
+
 4. La personne que la caisse a présentée comme un administrateur, un dirigeant ou un mandataire n’a pas été dûment nommée ou n’a pas l’autorité nécessaire pour exercer les pouvoirs et fonctions qui découlent normalement soit du poste, soit des activités commerciales de la caisse.
+
 5. Un document délivré par un administrateur, un dirigeant ou un mandataire de la caisse qui a effectivement ou normalement l’autorité nécessaire pour le faire n’est pas valable ou n’est pas authentique.
+
 6. L’aide financière n’a pas été autorisée.
+
 7. La vente, la location, l’échange ou la disposition de biens de la caisse n’a pas été autorisé aux termes de l’article 174.
 
 ### Exception
@@ -430,7 +531,9 @@ b) le tribunal peut :
 ### Relevé et renseignements relatifs à la qualité de membre
 
 33 (1) Toute personne ou entité dont le nom figure dans le registre prévu à l’article 202 a droit :
+
 a) à un relevé indiquant les sommes qu’elle a versées pour la souscription de parts sociales ainsi que pour ses dépôts et ses emprunts;
+
 b) aux autres renseignements précisés par les règlements administratifs de la caisse.
 
 ### Idem
@@ -462,7 +565,9 @@ b) aux autres renseignements précisés par les règlements administratifs de la
 ### Exercice des droits rattachés aux parts sociales détenues en fiducie
 
 (3) Les règles suivantes s’appliquent à l’égard des parts sociales qu’un sociétaire détient en fiducie au profit d’un bénéficiaire :
+
 1. Le sociétaire exerce les droits rattachés aux parts, sous réserve de la disposition 2.
+
 2. Le sociétaire n’a pas de voix supplémentaire lors d’une assemblée des sociétaires du fait qu’il détient les parts sociales en fiducie.
 
 ### Divulgation concernant le bénéficiaire
@@ -490,13 +595,17 @@ b) aux autres renseignements précisés par les règlements administratifs de la
 ### Types de versement
 
 (2) Le versement visé au paragraphe (1) porte sur les sommes suivantes :
+
 1. Une somme, qui ne dépasse pas la somme prescrite par règlement, prélevée sur les dépôts effectués au nom du défunt ou en contrepartie de ses parts sociales.
+
 2. Une somme, qui ne dépasse pas la somme prescrite par règlement, prélevée sur l’indemnité versée à la caisse aux termes d’une police d’assurance-vie sur la tête du défunt.
 
 ### Restrictions
 
 (3) Le paragraphe (1) ne s’applique que si la caisse verse la somme de bonne foi et qu’elle reçoit, avant de faire le versement :
+
 a) soit une déclaration solennelle attestant que la personne a droit à cette somme;
+
 b) soit une autre preuve du droit de la personne à cette somme que la caisse estime appropriée dans les circonstances.
 
 ### Exigences supplémentaires de la caisse
@@ -514,7 +623,9 @@ b) soit une autre preuve du droit de la personne à cette somme que la caisse es
 ### Cas où le sociétaire décédé était un fiduciaire
 
 (7) Au décès du sociétaire qui détient des parts sociales ou des dépôts en fiducie au profit d’un bénéficiaire désigné, la caisse peut verser le montant de ces parts ou de ces dépôts ainsi que les intérêts ou les dividendes qui s’y rattachent ou les transférer, selon le cas :
+
 a) à l’exécuteur testamentaire ou à l’administrateur de la succession du sociétaire décédé;
+
 b) en l’absence d’exécuteur testamentaire ou d’administrateur de la succession du sociétaire décédé, au bénéficiaire ou, s’il est mineur, à son parent ou à son tuteur.
 
 ### Privilèges
@@ -566,8 +677,11 @@ b) en l’absence d’exécuteur testamentaire ou d’administrateur de la succe
 ### Ordonnance du tribunal
 
 (4) Le tribunal peut rendre l’ordonnance, selon les conditions qu’il estime appropriées, s’il est convaincu de ce qui suit :
+
 a) le sociétaire était sociétaire au moment de l’opération ou de l’autre événement qui a donné lieu à la cause d’action;
+
 b) le sociétaire a fait des efforts raisonnables pour que la caisse intente ou poursuive elle-même l’action avec diligence pour son propre compte;
+
 c) le sociétaire agit de bonne foi et il semble être dans l’intérêt de la caisse ou de ses sociétaires d’intenter l’action.
 
 ### Dépens
@@ -633,9 +747,13 @@ c) le sociétaire agit de bonne foi et il semble être dans l’intérêt de la 
 ### Droits rattachés aux catégories
 
 46 (1) Pour chaque catégorie d’actions, les statuts doivent prévoir ce qui suit :
+
 a) les droits, privilèges, restrictions et conditions qui se rattachent aux actions de la catégorie, notamment :
+
 (i) la question de savoir si la catégorie d’actions peut être émise à des non-sociétaires,
+
 (ii) dans le cas d’une catégorie d’actions autres que des parts sociales et des parts de ristourne, la question de savoir si la catégorie d’actions comporte le droit de partager le reliquat des biens de la caisse à sa dissolution;
+
 b) le nombre maximal éventuel d’actions de la catégorie que la caisse est autorisée à émettre.
 
 ### Restrictions
@@ -681,15 +799,21 @@ b) le nombre maximal éventuel d’actions de la catégorie que la caisse est au
 ### Exception
 
 (3) L’actionnaire n’a pas de droit de préemption à l’égard d’actions qui doivent être émises, selon le cas :
+
 a) comme dividende;
+
 b) à la suite de l’exercice de privilèges de conversion, d’options ou de droits accordés antérieurement par la caisse;
+
 c) si la présente loi interdit l’émission d’actions à l’actionnaire;
+
 d) si, à la connaissance du conseil, il ne devrait pas être offert d’actions à un actionnaire dont l’adresse enregistrée se trouve dans un territoire situé à l’extérieur de l’Ontario sans que soient fournis aux autorités compétentes de ce territoire des renseignements s’ajoutant à ceux présentés aux actionnaires à la dernière assemblée annuelle.
 
 ### Privilèges de conversion
 
 49 (1) La caisse peut octroyer des privilèges de conversion ainsi que des options ou des droits d’acquérir ses valeurs mobilières autres que ses parts sociales ou ses parts de ristourne et doit énoncer les conditions applicables :
+
 a) soit dans les documents qui attestent les privilèges de conversion, les options ou les droits;
+
 b) soit sur les valeurs mobilières auxquelles sont rattachés les privilèges de conversion, les options ou les droits.
 
 ### Droits transmissibles
@@ -731,8 +855,11 @@ b) soit sur les valeurs mobilières auxquelles sont rattachés les privilèges d
 ### Détention par la caisse de ses propres actions
 
 53 (1) Sauf dans les cas permis par la présente loi ou prescrits par règlement, la caisse ne doit :
+
 a) ni détenir ses propres actions;
+
 b) ni permettre à une filiale de détenir un nombre de parts sociales supérieur au nombre minimal exigé pour devenir sociétaire de la caisse;
+
 c) ni permettre à une filiale de détenir d’autres actions de la caisse.
 
 ### Détention à titre de représentant personnel
@@ -788,10 +915,15 @@ c) ni permettre à une filiale de détenir d’autres actions de la caisse.
 ### Modalités de versement
 
 (2) Le dividende peut être versé :
+
 a) en argent;
+
 b) par l’émission de parts de ristourne;
+
 c) par l’émission d’actions entièrement libérées, autres que des parts sociales, ou par l’octroi d’options ou de droits d’acquérir de telles actions, autres que des parts sociales, de toute catégorie ou série d’actions;
+
 d) selon plusieurs des modalités visées aux alinéas a), b) et c);
+
 e) en biens, avec l’approbation du directeur général.
 
 ### Déclaration de ristourne
@@ -801,9 +933,13 @@ e) en biens, avec l’approbation du directeur général.
 ### Modalités de versement de la ristourne
 
 (2) La ristourne peut être versée :
+
 a) en argent;
+
 b) par l’émission de parts de ristourne;
+
 c) par l’émission d’actions entièrement libérées, autres que des parts sociales, ou par l’octroi d’options ou de droits d’acquérir de telles actions, autres que des parts sociales, de toute catégorie ou série d’actions;
+
 d) selon plusieurs des modalités visées aux alinéas a), b) et c).
 
 ### Remise d’intérêts
@@ -827,7 +963,9 @@ d) selon plusieurs des modalités visées aux alinéas a), b) et c).
 ### Régularisation par suite d’une conversion
 
 61 (1) Lors de la conversion de ses actions en circulation, autres que des parts sociales ou des parts de ristourne, en actions d’une autre catégorie ou série, la caisse :
+
 a) déduit du compte capital déclaré tenu pour la catégorie ou la série d’actions converties un montant égal au résultat obtenu en multipliant le capital déclaré des actions de cette catégorie ou série par le nombre d’actions qui sont converties et en divisant ce produit par le nombre d’actions de cette catégorie ou série en circulation immédiatement avant la conversion;
+
 b) porte au compte capital déclaré tenu pour la catégorie ou la série d’actions dans laquelle les actions ont été converties le résultat visé à l’alinéa a) et toute autre contrepartie reçue lors de la conversion.
 
 ### Capital déclaré des actions convertibles
@@ -841,12 +979,15 @@ b) porte au compte capital déclaré tenu pour la catégorie ou la série d’ac
 ### Définition
 
 (4) La définition qui suit s’applique au présent article.
+
 «conversion» S’agissant d’une action, s’entend en outre d’un changement effectué aux termes du paragraphe 253 (1) qui entraîne le passage de l’action dans une autre catégorie ou série.
 
 ### Augmentation par suite de la conversion de titres de créance
 
 62 Lors de la conversion d’un titre de créance de la caisse en actions, la caisse :
+
 a) déduit de son passif la valeur nominale du titre de créance;
+
 b) porte au compte capital déclaré tenu pour la catégorie ou la série d’actions dans laquelle le titre de créance a été converti le résultat visé à l’alinéa a) et toute autre contrepartie reçue lors de la conversion.
 
 ### Réduction par suite de l’acquisition d’actions
@@ -920,11 +1061,17 @@ b) porte au compte capital déclaré tenu pour la catégorie ou la série d’ac
 ### Vente de valeurs mobilières
 
 68 (1) La caisse peut vendre ses valeurs mobilières ou accepter, directement ou indirectement, une contrepartie en échange de ses valeurs mobilières dans l’un ou l’autre des cas suivants :
+
 a) les valeurs mobilières sont vendues à un sociétaire ou une contrepartie est acceptée d’un sociétaire en échange des valeurs mobilières et la caisse a obtenu un reçu aux termes de l’article 71 pour une note d’information portant sur ces valeurs mobilières et ce reçu n’a pas été révoqué ni n’est arrivé à expiration;
+
 b) la caisse a remis au directeur général une copie des reçus qu’elle a obtenus de la Commission des valeurs mobilières de l’Ontario aux termes de la Loi sur les valeurs mobilières pour ce qui suit :
+
 (i) un prospectus provisoire, s’il y en a un,
+
 (ii) un prospectus portant sur ces valeurs mobilières;
+
 c) la vente est dispensée des obligations de prospectus de la Loi sur les valeurs mobilières dans le cadre d’une dispense prévue par cette loi ou les règlements pris en vertu de cette loi ou les règles établies en vertu de celle-ci;
+
 d) une ordonnance a été rendue à l’égard de la vente en vertu de l’article 74 ou du paragraphe 143.11 (2) de la Loi sur les valeurs mobilières.
 
 ### Non-application de la Loi sur les valeurs mobilières
@@ -934,8 +1081,11 @@ d) une ordonnance a été rendue à l’égard de la vente en vertu de l’artic
 ### Exception
 
 (3) Le paragraphe (1) et la Loi sur les valeurs mobilières ne s’appliquent :
+
 a) ni à l’émission de parts sociales;
+
 b) ni à l’émission de parts de ristourne;
+
 c) ni à l’émission d’actions visée à l’article 57 ou 58.
 
 ### Interprétation
@@ -949,8 +1099,11 @@ c) ni à l’émission d’actions visée à l’article 57 ou 58.
 ### Vendeurs permis
 
 69 Les valeurs mobilières vendues dans les circonstances visées à l’alinéa 68 (1) a) peuvent l’être par les personnes suivantes :
+
 a) les administrateurs, les dirigeants et les employés de la caisse émettrice;
+
 b) dans le cas d’une fédération émettrice, les administrateurs, les dirigeants et les employés de la fédération ou d’une caisse qui en est membre;
+
 c) les personnes inscrites comme courtier en placement aux termes de la Loi sur les valeurs mobilières.
 
 ### Note d’information
@@ -972,7 +1125,9 @@ c) les personnes inscrites comme courtier en placement aux termes de la Loi sur 
 ### Pièces supplémentaires
 
 (5) Le directeur général peut exiger :
+
 a) que la caisse fournisse des documents, rapports et autres pièces supplémentaires;
+
 b) que les renseignements contenus dans les pièces visées à l’alinéa a) fassent partie de la note d’information.
 
 ### Examen
@@ -982,18 +1137,27 @@ b) que les renseignements contenus dans les pièces visées à l’alinéa a) fa
 ### Reçu pour une note d’information
 
 71 (1) Le directeur général délivre un reçu pour une note d’information, sauf s’il lui semble, selon le cas :
+
 a) que la note ou tout document qui l’accompagne :
+
 (i) soit n’est pas conforme sur un point essentiel à la présente loi ou aux règlements,
+
 (ii) soit contient une déclaration, une promesse, une estimation ou une prévision qui est fallacieuse, fausse ou trompeuse,
+
 (iii) soit contient un extrait d’une opinion ou d’une déclaration d’un expert qui ne donne pas une image fidèle de l’opinion ou de la déclaration,
+
 (iv) soit dissimule ou omet un fait important dont la divulgation est nécessaire pour éviter qu’une déclaration contenue dans la note ne porte à confusion compte tenu des circonstances dans lesquelles elle a été faite;
+
 b) que le produit de la vente des valeurs mobilières, ajouté aux autres ressources de la caisse, n’est pas suffisant pour atteindre l’objectif de l’émission qui est énoncé dans la note;
+
 c) qu’il ne serait pas dans l’intérêt public de délivrer un reçu pour la note.
 
 ### Refus de délivrer ou révocation
 
 (2) Le directeur général peut refuser de délivrer un reçu pour la note d’information ou le révoquer dans l’un ou l’autre des cas suivants :
+
 1. La caisse contrevient à l’article 77.
+
 2. La caisse est assujettie à la supervision du directeur général ou est placée sous son administration.
 
 ### Idem
@@ -1007,7 +1171,9 @@ c) qu’il ne serait pas dans l’intérêt public de délivrer un reçu pour la
 ### Expiration du reçu
 
 (5) Le reçu pour une note d’information expire le premier en date des jours suivants :
+
 a) le jour qui tombe six mois après celui de sa délivrance;
+
 b) le jour où l’offre de valeurs mobilières sur laquelle porte la note d’information qu’il vise se termine conformément à cette note.
 
 ### Renouvellement du reçu
@@ -1025,7 +1191,9 @@ b) le jour où l’offre de valeurs mobilières sur laquelle porte la note d’i
 ### Changement important
 
 73 (1) S’il se produit un changement important dans les faits énoncés dans la note d’information, la caisse dépose auprès du directeur général :
+
 a) une modification de la note, si aucun reçu n’a été délivré à son égard;
+
 b) un état des changements importants, si un reçu pour la note a été délivré et que le reçu n’a pas été révoqué ni n’est arrivé à expiration.
 
 ### Délai
@@ -1043,6 +1211,7 @@ b) un état des changements importants, si un reçu pour la note a été délivr
 ### Contenu
 
 (5) Les articles 70 et 71 s’appliquent à un état des changements importants comme s’il s’agissait d’une note d’information.
+
 (6) Abrogé : 2021, chap. 40, annexe 5, art. 5.
 
 ### Diffusion
@@ -1064,8 +1233,11 @@ b) un état des changements importants, si un reçu pour la note a été délivr
 ### Jour ouvrable
 
 (5) La définition qui suit s’applique au paragraphe (3).
+
 «jour ouvrable» Jour qui n’est :
+
 a) ni un samedi;
+
 b) ni un dimanche ou tout autre jour férié, sauf le lundi de Pâques et le jour du Souvenir.
 
 ### Effet d’une présentation inexacte des faits
@@ -1079,10 +1251,15 @@ b) ni un dimanche ou tout autre jour férié, sauf le lundi de Pâques et le jou
 ### Droit d’action
 
 (3) L’acheteur a le droit d’intenter une action en dommages-intérêts contre :
+
 a) la caisse;
+
 b) les personnes qui vendent la valeur mobilière pour le compte de la caisse, autres que des employés de la caisse;
+
 c) les administrateurs de la caisse en poste au moment où la note d’information ou l’état des changements importants a été déposé auprès du directeur général;
+
 d) les personnes qui ont déposé le consentement exigé par les règlements, mais uniquement à l’égard de leurs propres rapports, opinions ou déclarations;
+
 e) les personnes qui ont signé la note d’information ou l’état des changements importants, autres que celles visées aux alinéas a) à d).
 
 ### Idem
@@ -1092,15 +1269,21 @@ e) les personnes qui ont signé la note d’information ou l’état des changem
 ### Moyens de défense
 
 (5) Le signataire de l’attestation de divulgation exigée au paragraphe 70 (4) ou l’administrateur n’encourt aucune responsabilité aux termes du présent article s’il prouve l’un ou l’autre des faits suivants :
+
 1. La note d’information ou l’état des changements importants a été déposé auprès du directeur général à l’insu ou sans le consentement du signataire ou de l’administrateur qui, dès qu’il en a eu connaissance, a informé le directeur général qu’il a été déposé auprès de celui-ci à son insu ou sans son consentement.
+
 2. Le signataire ou l’administrateur n’avait pas connaissance de la présentation inexacte des faits lorsque la note d’information ou l’état des changements importants a été déposé auprès du directeur général. Après la délivrance du reçu pour la note ou l’état, mais avant l’achat de la valeur mobilière par l’acheteur, il a informé le directeur général, dès qu’il a eu connaissance de la présentation inexacte, qu’il retirait son consentement au dépôt de la note ou de l’état auprès du directeur général.
+
 3. Le signataire ou l’administrateur n’avait pas de motifs raisonnables de croire ni ne croyait qu’il y avait eu une présentation inexacte des faits.
 
 ### Interprétation
 
 (6) La définition qui suit s’applique au présent article.
+
 «présentation inexacte des faits» S’entend, selon le cas :
+
 a) d’une déclaration erronée au sujet d’un fait important;
+
 b) de l’omission d’un fait important dont la divulgation est exigée ou nécessaire pour éviter qu’une déclaration ne soit trompeuse, compte tenu des circonstances dans lesquelles elle a été faite.
 
 ### Restriction applicable à la commission lors de l’achat ou de la vente
@@ -1108,8 +1291,11 @@ b) de l’omission d’un fait important dont la divulgation est exigée ou néc
 ### Commission interdite : administrateurs, dirigeants, employés
 
 76 Aucune des personnes suivantes ne doit demander ni accepter de commission lors de l’achat ou de la vente d’une valeur mobilière de la caisse :
+
 1. Les administrateurs, les dirigeants et les employés de la caisse.
+
 2. Les personnes liées à un administrateur, à un dirigeant ou à un employé de la caisse.
+
 3. Les administrateurs, les dirigeants et les employés de la fédération dont la caisse est membre.
 
 ### Aucune renonciation
@@ -1155,14 +1341,19 @@ b) de l’omission d’un fait important dont la divulgation est exigée ou néc
 ### Exigences supplémentaires
 
 79 (1) Le directeur général peut ordonner à la caisse de prendre l’une ou l’autre des mesures suivantes :
+
 a) augmenter son capital;
+
 b) prévoir les formes et les montants supplémentaires de liquidité qu’il exige.
 
 ### Circonstances
 
 (2) Même si la caisse se conforme aux règles de l’Autorité régissant la suffisance du capital et des liquidités, le directeur général peut imposer les exigences énoncées au paragraphe (1) dans l’un ou l’autre des cas suivants :
+
 a) il existe des motifs raisonnables de croire que la caisse ne se conforme pas aux exigences de la présente loi, des règlements et des règles de l’Autorité concernant la gestion des risques dans le cadre des prêts et des placements et dans la gestion d’ensemble de ses activités commerciales;
+
 b) le directeur général estime qu’il est nécessaire d’imposer l’exigence pour protéger les intérêts des sociétaires, des actionnaires ou des déposants;
+
 c) le directeur général estime qu’il est nécessaire d’imposer l’exigence pour assurer la sécurité et l’intégrité financières de la caisse.
 
 ### Conformité
@@ -1216,8 +1407,11 @@ c) le directeur général estime qu’il est nécessaire d’imposer l’exigenc
 ### Qualités requises des administrateurs
 
 83 Seul peut être administrateur de la caisse le particulier qui satisfait aux critères suivants :
+
 1. Il est sociétaire.
+
 2. Il est âgé d’au moins 18 ans.
+
 3. Il est de citoyenneté canadienne ou a été légalement admis au Canada en qualité de résident permanent et il y réside ordinairement.
 
 ### Incapacité d’exercice
@@ -1255,7 +1449,9 @@ c) le directeur général estime qu’il est nécessaire d’imposer l’exigenc
 ### Élection par des non-sociétaires
 
 (2) Malgré le paragraphe (1) et sous réserve des règlements administratifs de la caisse, si les détenteurs d’une catégorie ou série d’une catégorie d’actions de la caisse, autres que des parts sociales ou des parts de ristourne, ont le droit exclusif d’élire un ou plusieurs administrateurs, les vacances survenues parmi ces administrateurs peuvent être pourvues :
+
 a) sous réserve du paragraphe (3), et à l’exception des vacances résultant du défaut d’élire le nombre requis d’administrateurs de cette catégorie ou série ou d’une augmentation de ce nombre, par les administrateurs en fonction élus par les détenteurs de cette catégorie ou cette série;
+
 b) en l’absence d’administrateurs en fonction, à l’assemblée que les détenteurs d’actions de cette catégorie ou série peuvent convoquer pour pourvoir les vacances.
 
 ### Idem
@@ -1281,7 +1477,9 @@ b) en l’absence d’administrateurs en fonction, à l’assemblée que les dé
 ### Destitution par le directeur général
 
 94 (1) Le directeur général peut, par ordre, destituer un administrateur de la caisse s’il est d’avis :
+
 a) soit qu’il n’est pas apte à exercer les fonctions d’administrateur eu égard à sa moralité ou à sa compétence;
+
 b) soit que sa destitution est dans l’intérêt véritable de la caisse.
 
 ### Risque de préjudice
@@ -1345,9 +1543,13 @@ b) soit que sa destitution est dans l’intérêt véritable de la caisse.
 ### Questions devant être prévues
 
 (2) Les règlements administratifs de la caisse prévoient les questions suivantes :
+
 1. La nomination des dirigeants de la caisse et la description de leurs fonctions.
+
 2. La convocation des réunions du conseil, y compris le nombre minimal de réunions que le conseil doit tenir chaque exercice si ce nombre est supérieur au nombre minimal prescrit par règlement, le ou les lieux où le conseil peut tenir ses réunions et le mode de convocation de ces réunions.
+
 3. Toute autre question prescrite par règlement.
+
 (3) Abrogé : 2021, chap. 40, annexe 5, par. 10 (2).
 
 ### Restriction
@@ -1451,12 +1653,19 @@ b) soit que sa destitution est dans l’intérêt véritable de la caisse.
 ### Exceptions
 
 (3) Malgré le paragraphe (1), les administrateurs, les dirigeants, les membres des comités ou les employés autorisés par le conseil peuvent divulguer des renseignements aux personnes suivantes :
+
 a) une personne qui a des rapports professionnels ou confidentiels avec la caisse, notamment un employé d’une fédération dont la caisse est membre;
+
 b) une institution financière avec laquelle la caisse effectue des opérations susceptibles de faire intervenir des questions confidentielles;
+
 c) une autre caisse avec laquelle la caisse de l’administrateur, du dirigeant, du membre du comité ou de l’employé se propose de fusionner, aux fins de la fusion, si les caisses ont signé une lettre d’intention de conclure une convention de fusion;
+
 d) une personne à laquelle la caisse se propose de vendre des éléments d’actif, aux fins de la vente, si la caisse et la personne ont signé une lettre d’intention de conclure une convention de vente à l’égard de la vente;
+
 e) un octroyeur de crédit ou une agence de renseignements, si la divulgation a pour but d’établir la solvabilité du sociétaire;
+
 f) le directeur général et l’Autorité;
+
 g) les autres personnes qui ont le droit de recevoir les renseignements conformément à la loi.
 
 ### Diligence
@@ -1480,9 +1689,13 @@ g) les autres personnes qui ont le droit de recevoir les renseignements conform�
 ### Divulgation des intérêts
 
 111 (1) Le présent article s’applique à l’administrateur, au dirigeant, au membre d’un comité ou à l’employé de la caisse qui, selon le cas :
+
 a) est partie à un contrat ou projet de contrat importants avec la caisse;
+
 b) est administrateur ou dirigeant d’une entité partie à un contrat ou projet de contrat importants avec la caisse;
+
 c) possède un intérêt important dans une personne partie à un contrat ou projet de contrat importants avec la caisse;
+
 d) est le conjoint, le parent ou l’enfant d’un particulier partie à un contrat ou projet de contrat importants avec la caisse.
 
 ### Idem
@@ -1492,16 +1705,23 @@ d) est le conjoint, le parent ou l’enfant d’un particulier partie à un cont
 ### Moment de la divulgation : administrateur
 
 (3) L’administrateur fait la divulgation à la première réunion du conseil :
+
 a) au cours de laquelle le projet de contrat est étudié;
+
 b) suivant le moment où il acquiert un intérêt dans le projet de contrat, s’il n’en avait aucun;
+
 c) suivant le moment où il acquiert un intérêt dans un contrat déjà conclu;
+
 d) suivant le moment où devient administrateur toute personne ayant un intérêt dans un contrat.
 
 ### Idem : dirigeant ou membre d’un comité
 
 (4) Le dirigeant, le membre d’un comité ou l’employé fait la divulgation promptement après, selon le cas :
+
 a) avoir appris que le projet de contrat sera examiné ou que le contrat a été examiné à une réunion du conseil;
+
 b) avoir acquis un intérêt dans un contrat déjà conclu;
+
 c) être devenu dirigeant, membre d’un comité ou employé s’il le devient après l’acquisition d’un intérêt dans un contrat.
 
 ### Idem : pas d’approbation du conseil
@@ -1519,9 +1739,13 @@ c) être devenu dirigeant, membre d’un comité ou employé s’il le devient a
 ### Exception
 
 (2) Le paragraphe (1) ne s’applique pas s’il s’agit d’un contrat :
+
 a) garantissant un emprunt ou des obligations que l’administrateur a contractées pour le compte de la caisse ou d’une de ses filiales;
+
 b) portant essentiellement sur la rémunération de l’administrateur en sa qualité d’administrateur, de membre d’un comité ou de dirigeant, d’employé ou de mandataire de la caisse ou d’une de ses filiales ou d’une entité que la caisse contrôle;
+
 c) portant sur l’indemnité prévue à l’article 123 ou l’assurance prévue à l’article 122;
+
 d) conclu avec une filiale de la caisse.
 
 ### Inéligibilité
@@ -1531,7 +1755,9 @@ d) conclu avec une filiale de la caisse.
 ### Normes relatives à la nullité
 
 113 (1) Le contrat visé au paragraphe 111 (1) à l’égard duquel l’administrateur, le dirigeant, le membre d’un comité ou l’employé a fait la divulgation exigée, que le conseil ou les sociétaires ont approuvé et qui était alors raisonnable et équitable pour la caisse n’est pas entaché de nullité :
+
 a) pour le seul motif des rapports entre la personne ou l’entité et l’administrateur, le dirigeant, le membre d’un comité ou l’employé;
+
 b) pour le seul motif qu’un administrateur intéressé est présent ou permet d’atteindre le quorum à la réunion du conseil qui a autorisé le contrat.
 
 ### Requête au tribunal
@@ -1579,10 +1805,15 @@ b) pour le seul motif qu’un administrateur intéressé est présent ou permet 
 ### Idem
 
 (3) Les répartitions et versements visés au paragraphe (2) sont les suivants :
+
 1. L’achat ou le rachat d’actions contraire à la présente loi.
+
 2. Une réduction du capital contraire à la présente loi.
+
 3. Le versement d’un dividende contraire à la présente loi.
+
 4. Le versement d’une indemnité contraire à la présente loi.
+
 5. Une opération avec une personne assujettie à des restrictions contraire à la présente loi.
 
 ### Répétition
@@ -1592,32 +1823,43 @@ b) pour le seul motif qu’un administrateur intéressé est présent ou permet 
 ### Recours
 
 (2) L’administrateur tenu responsable aux termes de l’article 119 peut demander au tribunal, par voie de requête, une ordonnance obligeant un sociétaire, un actionnaire ou une autre personne à lui remettre :
+
 a) soit les fonds ou les biens versés ou donnés au sociétaire, à l’actionnaire ou à l’autre personne contrairement à la présente loi;
+
 b) soit un montant égal à la valeur de la perte subie par la caisse par suite d’une opération contraire à la partie IX ou aux règlements pris pour l’application de celle-ci.
 
 ### Ordonnance du tribunal
 
 (3) Le tribunal qui est saisi d’une requête visée au paragraphe (2) peut, s’il est convaincu que cela est équitable :
+
 a) ordonner au sociétaire, à l’actionnaire ou à l’autre personne de remettre à l’administrateur les fonds ou biens qui lui ont été versés ou donnés contrairement à la présente loi ou le montant visé à l’alinéa (2) b);
+
 b) ordonner à la caisse de rétrocéder les parts sociales ou les actions au sociétaire ou à l’actionnaire de qui elle les a acquises, notamment par achat ou rachat, ou d’en émettre en sa faveur;
+
 c) rendre toute autre ordonnance qu’il estime appropriée.
 
 ### Diligence raisonnable et foi à des déclarations
 
 121 (1) L’administrateur, le dirigeant, le membre d’un comité ou l’employé de la caisse n’engage pas sa responsabilité au titre de l’article 119 ou 196 et s’est acquitté des devoirs imposés à l’article 110 s’il a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne d’une prudence raisonnable, notamment en s’appuyant de bonne foi, selon le cas :
+
 a) sur les états financiers de la caisse qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+
 b) sur les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations, notamment les comptables et les avocats.
 
 ### Idem
 
 (2) L’administrateur, le dirigeant, le membre d’un comité ou l’employé de la caisse s’est acquitté des devoirs imposés à l’article 109 s’il s’appuie de bonne foi, selon le cas :
+
 a) sur les états financiers de la caisse qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+
 b) sur les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations, notamment les comptables et les avocats.
 
 ### Assurance souscrite pour les administrateurs et les dirigeants
 
 122 (1) La caisse peut souscrire, au profit d’une personne admissible au sens de l’article 123, une assurance contre la responsabilité qu’encourt celle-ci en sa qualité :
+
 a) soit d’administrateur, de dirigeant ou de membre d’un comité;
+
 b) soit d’administrateur ou de dirigeant d’une autre entité, si la personne agit ou a agi en cette qualité à la demande de la caisse.
 
 ### Exception
@@ -1627,9 +1869,13 @@ b) soit d’administrateur ou de dirigeant d’une autre entité, si la personne
 ### Indemnisation des administrateurs et autres
 
 123 (1) La définition qui suit s’applique au présent article.
+
 «personne admissible» S’entend, relativement à la caisse, de l’une ou l’autre des personnes suivantes :
+
 a) un administrateur, un dirigeant ou un membre d’un comité;
+
 b) un ancien administrateur, dirigeant ou membre d’un comité;
+
 c) une personne qui agit ou a agi, à la demande de la caisse, en qualité d’administrateur ou de dirigeant d’une entité dont la caisse est ou était membre, actionnaire ou créancière.
 
 ### Indemnisation
@@ -1655,13 +1901,17 @@ c) une personne qui agit ou a agi, à la demande de la caisse, en qualité d’a
 ### Restriction
 
 (7) La caisse ne peut indemniser la personne admissible aux termes du présent article que si les conditions suivantes sont réunies :
+
 a) la personne a agi avec intégrité et de bonne foi, dans l’intérêt véritable de la caisse;
+
 b) dans le cas d’une instance aboutissant au paiement d’une amende, la personne avait des motifs raisonnables de croire que sa conduite était conforme à la loi.
 
 ### Droit à l’indemnité
 
 (8) La personne admissible a le droit de recevoir une indemnité de la caisse pour la défense d’une instance à laquelle elle est partie parce qu’elle exerce ou a exercé une fonction admissible si les conditions suivantes sont réunies :
+
 a) la personne a obtenu gain de cause sur la plupart de ses moyens de défense au fond;
+
 b) la personne remplit les conditions énoncées aux alinéas (7) a) et b).
 
 ### Étendue de l’indemnité
@@ -1675,7 +1925,9 @@ b) la personne remplit les conditions énoncées aux alinéas (7) a) et b).
 ### Interprétation
 
 (11) Dans le présent article, «exercer une fonction admissible» s’entend du fait :
+
 a) soit d’agir ou d’avoir agi en qualité d’administrateur, de dirigeant ou de membre d’un comité;
+
 b) soit d’agir ou d’avoir agi, à la demande de la caisse, en qualité d’administrateur ou de dirigeant d’une entité dont la caisse est ou était membre, actionnaire ou créancière.
 
 ### Requête en indemnisation
@@ -1761,8 +2013,11 @@ b) soit d’agir ou d’avoir agi, à la demande de la caisse, en qualité d’a
 ### Droit d’assister aux assemblées
 
 133 (1) Le vérificateur a le droit :
+
 a) d’assister aux assemblées des sociétaires ou des actionnaires de la caisse;
+
 b) de recevoir les avis de convocation et les autres communications relatives aux assemblées auxquels ont droit les sociétaires ou les actionnaires;
+
 c) d’être entendu aux assemblées sur tout point à l’ordre du jour qui le concerne en sa qualité de vérificateur.
 
 ### Présence exigée
@@ -1820,8 +2075,11 @@ c) d’être entendu aux assemblées sur tout point à l’ordre du jour qui le 
 ### Extension de la portée de la vérification exigée par le directeur général
 
 136 (1) Le directeur général peut exiger, par écrit, que le vérificateur de la caisse :
+
 a) lui fasse un rapport sur l’étendue des méthodes qu’il a utilisées lors de sa vérification des états financiers de la caisse;
+
 b) étende la portée de la vérification;
+
 c) mette en oeuvre d’autres méthodes précisées.
 
 ### Idem
@@ -1859,11 +2117,17 @@ c) mette en oeuvre d’autres méthodes précisées.
 ### Activités permises
 
 138 Sous réserve de la présente loi, la caisse ne doit pas exercer d’autres activités commerciales que les activités commerciales suivantes :
+
 1. Fournir des services financiers principalement à ses sociétaires, à ses déposants, à ses filiales et aux membres du même groupe qu’elle.
+
 2. Détenir des biens immeubles et effectuer des opérations à leur égard.
+
 3. Agir comme gardien de biens pour le compte de ses sociétaires, de ses déposants, de ses filiales et des membres du même groupe qu’elle.
+
 4. Fournir des services d’éducation, de promotion et de recherche ainsi que des services administratifs, consultatifs et techniques à ses sociétaires, à ses déposants, à ses filiales et aux membres du même groupe qu’elle.
+
 5. Consentir des prêts à ses dirigeants et employés.
+
 6. Les autres activités commerciales autorisées par la présente loi ou prescrites par les règles de l’Autorité.
 
 ### Restriction des pouvoirs
@@ -1903,7 +2167,9 @@ c) mette en oeuvre d’autres méthodes précisées.
 ### Réserve
 
 (2) Le présent article n’a pas pour effet d’empêcher la caisse :
+
 a) d’exiger qu’un sociétaire souscrive une assurance pour la sûreté de la caisse;
+
 b) d’obtenir une assurance collective pour ses employés, pour ses sociétaires ou pour les employés d’une filiale.
 
 ### Idem
@@ -1933,7 +2199,9 @@ b) d’obtenir une assurance collective pour ses employés, pour ses sociétaire
 ### Garanties
 
 143 (1) La caisse ne peut garantir le paiement d’une somme d’argent pour le compte d’une autre personne que si les conditions suivantes sont réunies :
+
 a) il s’agit d’une somme d’argent fixe, avec ou sans intérêt;
+
 b) la personne s’est engagée inconditionnellement à rembourser à la caisse le montant intégral que garantit celle-ci.
 
 ### Autorisation du directeur général
@@ -1969,29 +2237,45 @@ b) la personne s’est engagée inconditionnellement à rembourser à la caisse 
 ### Dépôts acceptés des sociétaires et autres
 
 145 (1) La caisse ne peut accepter de dépôts que :
+
 a) de ses sociétaires;
+
 b) de l’Autorité;
+
 c) de la Couronne du chef du Canada ou d’une province;
+
 d) d’un organisme de la Couronne du chef du Canada ou d’une province;
+
 e) du gouvernement d’un pays étranger;
+
 f) d’une subdivision politique d’un pays étranger ou d’un organisme de son gouvernement;
+
 g) de municipalités;
+
 h) d’organismes de la Couronne;
+
 i) d’entités directement financées par le gouvernement fédéral, un gouvernement provincial ou une municipalité;
+
 j) de fédérations;
+
 k) sous réserve des restrictions énoncées dans ses règlements administratifs, des personnes qui ne sont pas devenues ses sociétaires mais dont elle a acquis les comptes de dépôt par suite de l’achat de la totalité ou d’une partie des activités commerciales d’une autre institution financière qui n’est pas une caisse;
+
 l) des autres personnes ou entités approuvées par le directeur général.
 
 ### Pouvoir d’accepter des dépôts
 
 (2) La caisse peut, sans l’intervention de tiers :
+
 a) d’une part, accepter un dépôt d’une personne visée au paragraphe (1) ayant ou non la capacité juridique de contracter;
+
 b) d’autre part, payer, en tout ou en partie, le principal et les intérêts correspondants à cette personne ou à son ordre.
 
 ### Exception
 
 (3) L’alinéa (2) b) ne s’applique pas si, avant le paiement, les fonds déposés auprès de la caisse sont réclamés par une autre personne :
+
 a) soit dans le cadre d’une action ou d’une procédure à laquelle la caisse est partie et à l’égard de laquelle une demande ou un autre acte introductif d’instance lui a été signifié;
+
 b) soit dans le cadre d’une action ou d’une procédure en vertu de laquelle une injonction ou une ordonnance du tribunal enjoignant à la caisse de ne pas verser ces fonds ou de les verser à une autre personne que le déposant a été signifiée à la caisse.
 
 ### Idem
@@ -2009,6 +2293,7 @@ b) soit dans le cadre d’une action ou d’une procédure en vertu de laquelle 
 ### Définition
 
 (7) La définition qui suit s’applique au paragraphe (5).
+
 «REÉR» Régime enregistré d’épargne-retraite au sens du paragraphe 146 (1) de la Loi de l’impôt sur le revenu (Canada).
 
 ### Mise à exécution de fiducies
@@ -2102,8 +2387,11 @@ b) soit dans le cadre d’une action ou d’une procédure en vertu de laquelle 
 ### Prêt
 
 154 (1) La caisse peut prêter de l’argent :
+
 a) en consentant des prêts à ses sociétaires;
+
 b) en consentant des prêts à des non-sociétaires;
+
 c) sous réserve des exigences prescrites par règlement, en participant à un prêt syndiqué.
 
 ### Exception : acquisition de prêts par suite d’un achat
@@ -2133,9 +2421,13 @@ c) sous réserve des exigences prescrites par règlement, en participant à un p
 ### Défaut
 
 156 (1) Malgré la présente partie, si la caisse a consenti un prêt et qu’un défaut s’est produit, elle peut, sous réserve de l’accord régissant le prêt qui est conclu entre la caisse et l’entité, acquérir, selon le cas :
+
 a) si l’entité est une personne morale, tout ou partie de ses actions;
+
 b) si l’entité est une entité sans personnalité morale, tout ou partie de ses titres de participation;
+
 c) tout ou partie des actions ou des titres de participation d’une entité qui fait partie du même groupe que l’entité en question;
+
 d) tout ou partie des actions de la personne morale dont l’activité principale est de détenir des actions ou des titres de participation de l’entité ou des membres du même groupe qu’elle, ou des éléments d’actif acquis de ceux-ci.
 
 ### Disposition pour cause de non-conformité
@@ -2163,10 +2455,15 @@ d) tout ou partie des actions de la personne morale dont l’activité principal
 ### Définition de «coût d’emprunt»
 
 158 (1) Sous réserve du paragraphe (2), la définition qui suit s’applique aux articles 159 à 166.
+
 «coût d’emprunt» À l’égard d’un prêt consenti par la caisse, s’entend de ce qui suit :
+
 a) les intérêts ou l’escompte applicables au prêt;
+
 b) les frais afférents au prêt que l’emprunteur doit payer à la caisse;
+
 c) les frais afférents au prêt que l’emprunteur doit payer à une personne autre que la caisse dans les cas où la personne demande ces frais directement ou indirectement à la caisse;
+
 d) les frais prescrits par règlement comme faisant partie du coût d’emprunt.
 
 ### Idem
@@ -2176,9 +2473,13 @@ d) les frais prescrits par règlement comme faisant partie du coût d’emprunt.
 ### Remise du coût d’emprunt
 
 159 (1) Le présent article s’applique lorsque les conditions suivantes sont remplies :
+
 a) la caisse consent un prêt à une personne physique;
+
 b) le prêt n’est pas garanti par une hypothèque immobilière;
+
 c) le prêt est remboursable à une date fixe ou en plusieurs versements;
+
 d) le prêt est remboursé intégralement avant échéance.
 
 ### Idem
@@ -2196,21 +2497,33 @@ d) le prêt est remboursé intégralement avant échéance.
 ### Idem
 
 (2) Aux fins de la divulgation exigée aux termes du paragraphe (1), le coût d’emprunt est conforme à ce qui suit :
+
 a) il est calculé comme si l’emprunteur respectait scrupuleusement ses engagements;
+
 b) il est calculé conformément aux règlements;
+
 c) il est exprimé sous forme de taux annuel;
+
 d) il est exprimé sous forme de somme lorsque les règlements l’exigent.
 
 ### Autres renseignements à divulguer : prêts à terme
 
 161 La caisse qui consent à une personne physique un prêt remboursable à date fixe ou en plusieurs versements divulgue ce qui suit à l’emprunteur :
+
 1. Le fait de savoir si l’emprunteur a le droit de rembourser le prêt avant échéance.
+
 2. Les conditions applicables au droit visé à la disposition 1, notamment les renseignements sur les circonstances dans lesquelles l’emprunteur peut l’exercer.
+
 3. Le fait de savoir si l’emprunteur bénéficiera de la remise d’une partie du coût d’emprunt ou si des frais ou pénalités lui seront imposés, s’il exerce le droit visé à la disposition 1.
+
 4. Le mode de calcul de la remise, des frais ou des pénalités visés à la disposition 3.
+
 5. Les renseignements sur les frais ou pénalités qui seront imposés à l’emprunteur s’il ne rembourse pas le prêt à l’échéance ou ne fait pas un versement à la date fixée.
+
 6. Les renseignements sur les changements prescrits par les règlements qui sont apportés à la convention de prêt ou au coût d’emprunt du prêt.
+
 7. Les renseignements sur les droits ou obligations de l’emprunteur que prescrivent les règlements pour l’application du présent article.
+
 8. Les autres renseignements que prescrivent les règlements pour l’application du présent article.
 
 ### Divulgation dans les demandes de carte de crédit et autres
@@ -2220,19 +2533,29 @@ d) il est exprimé sous forme de somme lorsque les règlements l’exigent.
 ### Divulgation en cas d’émission de cartes de crédit et autres
 
 163 La caisse qui émet une carte de crédit, de paiement ou de débit à une personne physique lui divulgue ce qui suit :
+
 1. Les renseignements sur les frais ou pénalités qui seront imposés à la personne si elle ne fait pas un versement conformément à l’accord relatif à la carte.
+
 2. Les renseignements sur les frais qui incombent à la personne par suite de l’acceptation ou de l’utilisation de la carte.
+
 3. Les renseignements sur les changements prescrits par les règlements qui sont apportés à la convention de prêt ou au coût d’emprunt du prêt obtenu au moyen de la carte.
+
 4. Les renseignements sur les droits ou obligations de la personne que prescrivent les règlements pour l’application du présent article.
+
 5. Les autres renseignements que prescrivent les règlements pour l’application du présent article.
 
 ### Autres renseignements à divulguer : prêts non visés par les art. 161 et 163
 
 164 (1) La caisse qui conclut un arrangement qui prévoit l’octroi d’un prêt à une personne physique et auquel ni l’article 161 ni l’article 163 ne s’applique divulgue ce qui suit à la personne :
+
 1. Les renseignements sur les frais ou pénalités qui seront imposés à la personne si elle ne fait pas un versement conformément à l’arrangement.
+
 2. Les renseignements sur les frais qui incombent à la personne par suite de la conclusion de l’arrangement.
+
 3. Les renseignements sur les changements prescrits par les règlements qui sont apportés à l’arrangement ou au coût d’emprunt dans le cadre de celui-ci.
+
 4. Les renseignements sur les droits ou obligations de la personne que prescrivent les règlements pour l’application du présent article.
+
 5. Les autres renseignements que prescrivent les règlements pour l’application du présent article.
 
 ### Interprétation
@@ -2246,7 +2569,9 @@ d) il est exprimé sous forme de somme lorsque les règlements l’exigent.
 ### Divulgation dans la publicité
 
 166 (1) Le présent article s’applique aux annonces publicitaires qui :
+
 a) d’une part, concernent les prêts ou les cartes de crédit, de paiement ou de débit qu’offre la caisse aux personnes physiques ou les arrangements auxquels s’applique l’article 164 qu’offre la caisse à ces personnes;
+
 b) d’autre part, se présentent comme renfermant des renseignements sur le coût d’emprunt ou une autre question prescrite par règlement.
 
 ### Idem
@@ -2274,7 +2599,9 @@ b) d’autre part, se présentent comme renfermant des renseignements sur le co�
 ### Révocation de l’approbation
 
 (4) Le directeur général peut, par ordre, révoquer son approbation si, selon le cas :
+
 a) la caisse ne s’est pas conformée aux conditions et restrictions applicables au placement;
+
 b) Abrogé : 2021, chap. 40, annexe 5, art. 14.
 
 ### Effet de la révocation
@@ -2324,11 +2651,17 @@ b) Abrogé : 2021, chap. 40, annexe 5, art. 14.
 ### Traitement des placements lors d’une fusion
 
 171 (1) Le directeur général peut autoriser la caisse à accepter des valeurs mobilières ou autres éléments d’actif non conformes aux exigences de la présente loi s’ils sont obtenus, selon le cas :
+
 a) aux termes d’un arrangement conclu de bonne foi en vue de la réorganisation d’une personne morale dont les valeurs mobilières étaient auparavant la propriété de la caisse;
+
 b) aux termes de la fusion, avec une autre personne morale, d’une personne morale dont les valeurs mobilières étaient auparavant la propriété de la caisse;
+
 c) de bonne foi dans le but de protéger les placements de la caisse;
+
 d) du fait de l’acquisition par la caisse de l’actif d’une autre caisse;
+
 e) du fait de la réalisation de la sûreté garantissant un prêt qui est constituée d’actions d’une personne morale;
+
 f) en contrepartie totale ou partielle de valeurs mobilières vendues par la caisse.
 
 ### Disposition
@@ -2362,13 +2695,17 @@ f) en contrepartie totale ou partielle de valeurs mobilières vendues par la cai
 ### Opposition au placement
 
 (6) L’administrateur qui est présent à la réunion des administrateurs à laquelle un placement auquel il s’oppose est autorisé peut :
+
 a) immédiatement remettre à la caisse ou lui envoyer une protestation contre le placement;
+
 b) dans les 30 jours qui suivent la remise ou l’envoi de la protestation visée à l’alinéa a), en envoyer une copie au directeur général.
 
 ### Idem
 
 (7) L’administrateur qui est absent de la réunion à laquelle un placement auquel il s’oppose est autorisé peut :
+
 a) dans les 14 jours qui suivent le moment où il prend connaissance du placement et où il peut le faire, remettre à la caisse ou lui envoyer une protestation contre le placement;
+
 b) dans les 30 jours qui suivent la remise ou l’envoi de la protestation visée à l’alinéa a), en envoyer une copie au directeur général.
 
 ### Exonération
@@ -2384,7 +2721,9 @@ b) dans les 30 jours qui suivent la remise ou l’envoi de la protestation visé
 ### Achat ou vente d’éléments d’actif importants
 
 174 (1) La caisse ne doit pas faire ce qui suit à moins d’y être autorisée par résolution extraordinaire de ses sociétaires :
+
 1. Vendre des éléments d’actif si leur valeur marchande correspond à 15 % ou plus de la valeur de son actif total.
+
 2. Acheter des éléments d’actif d’une institution financière si leur valeur marchande correspond à 15 % ou plus de la valeur de son propre actif total.
 
 ### Autres modalités dans le cadre de certaines ventes
@@ -2422,9 +2761,13 @@ b) dans les 30 jours qui suivent la remise ou l’envoi de la protestation visé
 ### Prix d’achat : opération entre caisses
 
 (10) Lors d’un achat ou d’une vente visé au paragraphe (1) où l’acheteur et le vendeur sont des caisses, l’acheteur ne peut payer le prix d’achat que selon une ou plusieurs des modalités suivantes :
+
 1. En prenant en charge des éléments du passif du vendeur.
+
 2. En payant comptant.
+
 3. En émettant des actions.
+
 4. En émettant des billets.
 
 ### Anti-évitement
@@ -2492,7 +2835,9 @@ b) dans les 30 jours qui suivent la remise ou l’envoi de la protestation visé
 ### Propositions
 
 179 (1) Les sociétaires peuvent :
+
 a) donner avis des questions qu’ils proposent de soulever au cours de l’assemblée annuelle;
+
 b) discuter, au cours de l’assemblée annuelle, des questions à propos desquelles ils auraient eu le droit de soumettre une proposition.
 
 ### Idem : formulaire et autres exigences
@@ -2568,7 +2913,9 @@ b) discuter, au cours de l’assemblée annuelle, des questions à propos desque
 ### Désaccord d’un administrateur absent
 
 (3) L’administrateur absent d’une réunion à laquelle une résolution est adoptée ou une mesure prise est réputé avoir acquiescé à la résolution ou à la mesure, sauf s’il fait l’une des choses suivantes, dans les sept jours qui suivent le moment où il prend connaissance de la résolution ou de la mesure :
+
 a) il fait consigner son désaccord au procès-verbal de la réunion;
+
 b) il communique son désaccord à la caisse.
 
 ### Réunion exigée par le directeur général
@@ -2616,7 +2963,9 @@ b) il communique son désaccord à la caisse.
 ### États financiers des filiales
 
 192 (1) Des exemplaires des états financiers les plus récents de chacune des filiales de la caisse :
+
 a) sont conservés par la caisse dans le lieu de l’Ontario que précisent les règlements administratifs;
+
 b) peuvent être examinés par les sociétaires et les actionnaires de la caisse, ainsi que par leurs mandataires.
 
 ### Extraits
@@ -2650,9 +2999,13 @@ b) peuvent être examinés par les sociétaires et les actionnaires de la caisse
 ### Règlement des assemblées de succursale
 
 (6) Les règlements administratifs de la caisse qui prévoient la tenue d’assemblées de succursale ou de groupe de sociétaires précisent :
+
 a) le nombre de délégués et de voix auxquels chaque succursale ou groupe de sociétaires a droit à l’assemblée générale des sociétaires de la caisse, établi sur une base raisonnable compte tenu du nombre de sociétaires que compte la succursale ou le groupe;
+
 b) les date, heure et lieu des assemblées de succursale et de groupe de sociétaires, ainsi que leur mode de convocation;
+
 c) le nombre de sociétaires de la succursale ou du groupe de sociétaires qui constitue le quorum;
+
 d) le règlement des assemblées de succursale et de groupe de sociétaires.
 
 ### Majorité
@@ -2680,7 +3033,9 @@ d) le règlement des assemblées de succursale et de groupe de sociétaires.
 ### Annulation d’opérations
 
 196 (1) S’il est effectué avec une personne soumise à des restrictions une opération qui est interdite par la présente loi, les règlements ou les règles de l’Autorité ou à l’égard de laquelle ceux-ci prévoient des restrictions, toute personne intéressée, y compris le directeur général, peut demander au tribunal, par voie de requête, une ordonnance :
+
 a) annulant l’opération et enjoignant à la personne soumise à des restrictions de rembourser à la caisse tout profit ou gain réalisé;
+
 b) portant que chaque personne qui a participé à l’opération ou qui l’a facilitée paie conjointement et individuellement à la caisse les dommages subis, la valeur nominale de l’opération ou la somme engagée par la caisse dans l’opération.
 
 ### Ordonnance
@@ -2698,6 +3053,7 @@ b) portant que chaque personne qui a participé à l’opération ou qui l’a f
 ### Interprétation
 
 197 La définition qui suit s’applique à la présente partie.
+
 «personne soumise à des restrictions» et «opération» S’entendent au sens des règlements.
 
 ## PARTIE X Rapports, examens et dossiers
@@ -2751,7 +3107,9 @@ b) portant que chaque personne qui a participé à l’opération ou qui l’a f
 ### Documents à fournir
 
 (5) Aux fins de l’examen :
+
 a) la caisse ou une de ses filiales dresse et soumet à la personne qui effectue l’examen les états relatifs à ses activités commerciales, à ses finances ou à ses autres affaires internes qu’elle exige;
+
 b) la personne qui effectue l’examen peut exiger des administrateurs, des dirigeants et du vérificateur de la caisse ou d’une de ses filiales qu’ils lui fournissent, dans la mesure du possible, les renseignements et les éclaircissements qu’elle réclame sur la situation et les affaires internes de la caisse ou d’une de ses filiales et de toute entité dans laquelle la caisse ou la filiale a fait un placement.
 
 ### Copies
@@ -2769,15 +3127,21 @@ b) la personne qui effectue l’examen peut exiger des administrateurs, des diri
 ### Ordonnance : entrée et examen
 
 (2) Un juge de paix peut rendre, en vertu du présent paragraphe, une ordonnance autorisant le directeur général ou son délégué, selon la personne nommée dans l’ordonnance, à pénétrer dans des locaux précisés dans l’ordonnance, autre que la partie qui est utilisée comme logement, et à exercer, sous réserve des restrictions qu’il estime appropriées dans les circonstances, les pouvoirs énoncés à l’article 201, s’il est convaincu, sur la foi d’une dénonciation faite sous serment, de l’un ou l’autre de ce qui suit :
+
 a) le directeur général ou son délégué a été empêché d’exercer le droit de pénétrer dans les locaux prévu à l’article 201 ou d’exercer un pouvoir énoncé à cet article;
+
 b) il existe des motifs raisonnables de croire que le directeur général ou son délégué sera empêché d’exercer le droit de pénétrer dans les locaux prévu à l’article 201 ou d’exercer un pouvoir énoncé à cet article.
 
 ### Idem : logement
 
 (3) Un juge de paix peut rendre, en vertu du présent paragraphe, une ordonnance autorisant le directeur général ou son délégué, selon la personne nommée dans l’ordonnance, à pénétrer dans une partie des locaux précisée dans l’ordonnance qui est utilisée comme logement et à exercer, sous réserve des restrictions qu’il estime appropriées dans les circonstances, les pouvoirs énoncés à l’article 201, s’il est convaincu, sur la foi d’une dénonciation faite sous serment, de ce qui suit :
+
 a) il est nécessaire que le directeur général ou son délégué pénètre dans cette partie des locaux afin d’y demander des renseignements ou d’y effectuer un examen en vertu de l’article 201;
+
 b) selon le cas :
+
 (i) le directeur général ou son délégué a été empêché de pénétrer dans cette partie des locaux en application de l’article 201 ou d’exercer un pouvoir énoncé à cet article,
+
 (ii) il existe des motifs raisonnables de croire que le directeur général ou son délégué sera empêché de pénétrer dans cette partie des locaux en application de l’article 201 ou d’exercer un pouvoir énoncé à cet article.
 
 ### Recours à la force
@@ -2807,13 +3171,17 @@ b) selon le cas :
 ### Assignation
 
 201.2 (1) Le directeur général peut délivrer une assignation s’il croit, à la fois :
+
 a) que cela est nécessaire pour établir si une personne observe la présente loi ou une exigence établie en application de la présente loi;
+
 b) que cela est dans l’intérêt public dans les circonstances.
 
 ### Idem
 
 (2) L’assignation délivrée en vertu du paragraphe (1) peut exiger d’une personne, à la fois :
+
 a) qu’elle produise les documents et les choses que précise le directeur général;
+
 b) qu’elle donne, sous serment, les renseignements que le directeur général ou la personne qu’il désigne estime pertinents pour établir si une personne ou une entité observe une exigence établie en application de la présente loi.
 
 ### Preuve de désignation
@@ -2841,9 +3209,13 @@ b) qu’elle donne, sous serment, les renseignements que le directeur général 
 ### Teneur du registre
 
 (2) Le registre contient les renseignements suivants :
+
 a) les nom et adresse de chaque sociétaire, actionnaire ou autre détenteur de valeurs mobilières;
+
 b) le nombre de parts sociales ou d’actions de chaque catégorie que détient chaque sociétaire ou actionnaire ainsi que le nombre et le type des valeurs mobilières que détient chacun des détenteurs d’autres valeurs mobilières;
+
 c) la date à laquelle le nom d’une personne ou d’une entité a été inscrit dans le registre comme sociétaire, actionnaire ou détenteur d’autres valeurs mobilières;
+
 d) la date à laquelle une personne ou une entité a cessé d’être sociétaire.
 
 ### Preuve
@@ -2857,7 +3229,9 @@ d) la date à laquelle une personne ou une entité a cessé d’être sociétair
 ### Conservation des dossiers hors de l’Ontario
 
 (2) Malgré le paragraphe (1), mais sous réserve de toute autre loi, notamment les lois fiscales du Canada et de l’Ontario, la caisse peut conserver tout ou partie de ses dossiers hors de l’Ontario si les conditions suivantes sont réunies :
+
 a) les dossiers peuvent être consultés, à l’aide de quelque moyen technologique que ce soit, pendant les heures normales de bureau au siège de la caisse;
+
 b) la caisse fournit l’aide technique nécessaire à une telle consultation.
 
 ### Ordre du directeur général : emplacement
@@ -2895,13 +3269,17 @@ b) la caisse fournit l’aide technique nécessaire à une telle consultation.
 ### Ordres du directeur général : disposition générale
 
 206 (1) Le directeur général peut donner un ordre en vertu du présent article contre :
+
 a) une personne qui, à son avis, fait quoi que ce soit qui contrevient à la présente loi, aux règlements ou aux règles de l’Autorité ou dont on pourrait raisonnablement s’attendre à ce que la continuation entraîne une contravention à la présente loi, aux règlements ou aux règles de l’Autorité;
+
 b) la caisse ou un de ses administrateurs, dirigeants ou employés qui, à son avis, fait quoi que ce soit qui constitue une pratique risquant de nuire ou de porter atteinte aux intérêts de ses sociétaires, déposants ou actionnaires.
 
 ### Mesure pouvant être exigée par l’ordre
 
 (2) L’ordre visé au présent article peut enjoindre à quiconque :
+
 a) soit de mettre un terme à un acte ou de s’abstenir d’une conduite;
+
 b) soit de commettre un acte ou d’adopter une conduite.
 
 ### Règles de procédure
@@ -2977,8 +3355,11 @@ b) soit de commettre un acte ou d’adopter une conduite.
 ### Procédure extraordinaire en l’absence d’observations
 
 (9) La procédure suivante s’applique aux ordres donnés en vertu du paragraphe (8) :
+
 1. La personne que vise l’ordre ou toute personne qu’il touche peut demander que lui soit accordée l’occasion de présenter des observations écrites en donnant un avis écrit au directeur général, au plus tard 15 jours après sa réception par la personne qu’il vise.
+
 2. Si la personne que vise l’ordre ou toute autre personne qu’il touche demande que lui soit accordée l’occasion de présenter des observations écrites, le directeur général peut suspendre l’obligation de s’y conformer tant que les observations n’ont pas été étudiées ou qu’un appel n’est pas terminé et que l’ordre n’est pas confirmé, modifié ou révoqué.
+
 3. Après avoir étudié les observations, le directeur général peut le confirmer, le modifier ou le révoquer.
 
 ### Modification des ordres
@@ -3020,8 +3401,11 @@ b) soit de commettre un acte ou d’adopter une conduite.
 ### Parties
 
 (7) Sont parties à l’appel :
+
 a) l’appelant;
+
 b) le directeur général;
+
 c) les autres personnes que précise le Tribunal.
 
 ### Pouvoirs du Tribunal
@@ -3045,9 +3429,13 @@ c) les autres personnes que précise le Tribunal.
 ### Objets
 
 (2) Les objets de la fédération sont les suivants :
+
 a) offrir des services principalement à ses membres;
+
 b) offrir un système de liquidité aux caisses et le gérer;
+
 c) gérer les placements que détient la fédération pour ses membres;
+
 d) réaliser les autres objets prescrits par règlement.
 
 ### Restriction générale
@@ -3089,7 +3477,9 @@ d) réaliser les autres objets prescrits par règlement.
 ### Membres
 
 217 Sous réserve des restrictions prescrites par règlement, peuvent être membres d’une fédération :
+
 1. Les caisses.
+
 2. Les entités prescrites par règlement.
 
 ## PARTIE XIII Assurance-dépôts
@@ -3103,7 +3493,9 @@ d) réaliser les autres objets prescrits par règlement.
 ### Exceptions
 
 (2) Ne sont pas assurés :
+
 1. Les dépôts qui ne sont pas payables au Canada ou qui ne sont pas en devise canadienne.
+
 2. L’excédent de tout dépôt assurable sur le montant prescrit par règlement.
 
 ### Conditions de l’assurance-dépôts
@@ -3129,9 +3521,13 @@ d) réaliser les autres objets prescrits par règlement.
 ### Paiement à l’égard des dépôts assurés
 
 219 (1) L’Autorité a l’obligation de faire un paiement, prélevé sur le Fonds de réserve d’assurance-dépôts, à l’égard d’un dépôt qu’elle assure dans l’un ou l’autre des cas suivants :
+
 a) les sociétaires de la caisse qui détient le dépôt adoptent une résolution de liquidation et de dissolution volontaires de la caisse;
+
 b) la caisse devient un failli au sens de la Loi sur la faillite et l’insolvabilité (Canada) ou un liquidateur est nommé à son égard en vertu de la présente loi ou de la Loi sur les liquidations et les restructurations (Canada);
+
 c) l’Autorité est convaincue que la caisse sera empêchée de payer intégralement et sans délai les dépôts couverts par l’assurance-dépôts;
+
 d) le directeur général, en qualité d’administrateur, exige que la caisse procède à sa liquidation en vertu de la sous-disposition 6 iii du paragraphe 234 (1).
 
 ### Paiement à une personne qui semble y avoir droit
@@ -3141,7 +3537,9 @@ d) le directeur général, en qualité d’administrateur, exige que la caisse p
 ### Montant du paiement
 
 (3) L’Autorité peut payer :
+
 a) soit le montant du dépôt selon les conditions de celui-ci;
+
 b) soit, avant que le dépôt n’arrive à échéance, un montant égal au principal du dépôt, majoré des intérêts courus et impayés le jour du paiement.
 
 ### Retenue d’un paiement pour couvrir le montant d’un privilège
@@ -3187,7 +3585,9 @@ b) soit, avant que le dépôt n’arrive à échéance, un montant égal au prin
 ### Examen préparatoire
 
 221 (1) Si elle croit qu’un paiement qu’elle doit effectuer en application de la présente loi à l’égard d’un dépôt détenu par une caisse est imminent et qu’il est dans son intérêt véritable et dans celui des déposants de la caisse de se préparer à effectuer ce paiement, l’Autorité peut examiner les dossiers et les documents :
+
 a) de la caisse et de ses filiales;
+
 b) des administrateurs, dirigeants et employés, actuels et anciens, de la caisse et de ses filiales.
 
 ### Idem
@@ -3205,10 +3605,15 @@ b) des administrateurs, dirigeants et employés, actuels et anciens, de la caiss
 ### Annulation de l’assurance-dépôts
 
 222 (1) L’Autorité peut, sur préavis d’au moins 30 jours donné à la caisse, annuler l’assurance-dépôts d’une caisse dans l’un ou l’autre des cas suivants :
+
 a) la caisse n’observe pas les normes de pratiques commerciales et financières établies par l’Autorité ou une condition de son assurance-dépôts;
+
 b) la caisse cesse d’accepter des dépôts;
+
 c) une ordonnance a été rendue nommant le directeur général ou une autre personne liquidateur de la caisse;
+
 d) la caisse ne paie pas ses primes d’assurance-dépôts;
+
 e) l’Autorité détermine, en se fondant sur des motifs raisonnables, que la caisse n’est pas en mesure de s’acquitter de ses obligations à leur échéance.
 
 ### Effet de l’annulation
@@ -3244,11 +3649,17 @@ e) l’Autorité détermine, en se fondant sur des motifs raisonnables, que la c
 ### Emploi du Fonds
 
 (2) Le Fonds de réserve d’assurance-dépôts ne peut servir à payer que ce qui suit :
+
 1. Les demandes de règlement d’assurance-dépôts.
+
 2. Les coûts liés à la liquidation ordonnée des caisses en difficulté financière.
+
 3. L’aide financière accordée en vertu de l’alinéa 228 (1) a).
+
 4. Les paiements effectués en vertu de l’alinéa 228 (1) b).
+
 5. Tout actif acquis ou passif pris en charge en vertu de l’alinéa 228 (1) c).
+
 6. Les frais relatifs aux conventions de crédit conclues par l’Autorité pour accorder une aide financière au secteur des caisses.
 
 ### Idem
@@ -3270,7 +3681,9 @@ e) l’Autorité détermine, en se fondant sur des motifs raisonnables, que la c
 ### Prime annuelle
 
 225 (1) Dans les 120 jours qui suivent le début de l’exercice de chaque caisse, l’Autorité fait ce qui suit :
+
 1. Elle établit la prime annuelle de la caisse pour l’exercice conformément aux règlements.
+
 2. Elle perçoit la prime annuelle établie en application de la disposition 1.
 
 ### Dépôt de la prime annuelle
@@ -3292,22 +3705,35 @@ e) l’Autorité détermine, en se fondant sur des motifs raisonnables, que la c
 ### Pouvoirs de l’Autorité
 
 228 (1) L’Autorité peut, pour la réalisation de ses objets en ce qui concerne les caisses, tels qu’ils sont énoncés à l’article 3 de la Loi de 2016 sur l’Autorité ontarienne de réglementation des services financiers :
+
 a) accorder, à sa discrétion, une aide financière en vue :
+
 (i) soit d’aider une caisse placée sous administration à continuer ses activités,
+
 (ii) soit de favoriser la liquidation ordonnée des activités d’une caisse;
+
 b) consentir une avance ou accorder une subvention en vue du paiement des demandes de règlement légitimes contre une caisse à l’égard des retraits de leurs dépôts que lui demandent ses sociétaires;
+
 c) acquérir l’actif d’une caisse ou prendre en charge son passif;
+
 d) avec l’approbation du ministre, exiger des caisses qu’elles versent une cotisation extraordinaire;
+
 e) accepter les pouvoirs que lui confère la Loi sur la Société d’assurance-dépôts du Canada ;
+
 f) déclarer des remises de prime et en payer aux caisses;
+
 g) prendre les autres mesures compatibles avec la présente loi qui sont nécessaires à l’exercice de ses pouvoirs.
 
 ### Idem
 
 (2) L’Autorité peut assortir de conditions l’aide financière qu’elle accorde en vertu de l’alinéa (1) a) et, sans préjudice de la forme que celle-ci peut prendre, elle peut l’accorder en prenant l’une ou l’autre des mesures suivantes :
+
 a) l’achat de valeurs mobilières de la caisse;
+
 b) l’octroi de prêts, avec ou sans sûreté, ou d’avances à la caisse ou la garantie de prêts ou d’avances consentis à celle-ci, ou le versement d’un dépôt à la caisse ou la garantie d’un dépôt qui y est fait;
+
 c) l’acceptation d’une sûreté pour des prêts ou des avances consentis à la caisse;
+
 d) la garantie du paiement des honoraires du liquidateur d’une caisse et des frais qu’il engage.
 
 ### Subrogation
@@ -3327,10 +3753,15 @@ d) la garantie du paiement des honoraires du liquidateur d’une caisse et des f
 ### Supervision par le directeur général
 
 230 (1) Le directeur général peut ordonner qu’une caisse soit placée sous sa supervision dans l’un ou l’autre des cas suivants :
+
 1. La caisse demande par écrit d’être placée sous supervision.
+
 2. La caisse contrevient à l’article 77.
+
 3. Le directeur général a des motifs raisonnables de croire que la caisse conduit ses affaires internes d’une manière dont on pourrait s’attendre à ce qu’elle nuise aux intérêts des sociétaires ou des déposants ou qui a tendance à augmenter le risque que des demandes de règlement soient présentées par des déposants à l’endroit de l’Autorité.
+
 4. La caisse ou un de ses dirigeants ou administrateurs omet de déposer, de présenter ou de remettre un rapport ou un document qui doit être déposé, présenté ou remis aux termes de la présente loi dans le délai fixé par celle-ci.
+
 5. La caisse ne s’est pas conformée à un ordre du directeur général.
 
 ### Interprétation
@@ -3340,7 +3771,9 @@ d) la garantie du paiement des honoraires du liquidateur d’une caisse et des f
 ### Fin de la supervision
 
 (3) La caisse reste placée sous supervision :
+
 a) soit jusqu’au début de sa liquidation ou jusqu’à ce qu’elle soit placée sous administration;
+
 b) soit jusqu’à ce que le directeur général annule l’ordre de mise sous supervision de la caisse.
 
 ### Idem
@@ -3362,11 +3795,17 @@ b) soit jusqu’à ce que le directeur général annule l’ordre de mise sous s
 ### Pouvoirs en cas de supervision de la caisse
 
 231 (1) Si la caisse est sous sa supervision, le directeur général peut :
+
 a) lui ordonner de rectifier les pratiques qui, selon le directeur général, contribuent au problème ou à la situation qui a justifié l’ordre de mise sous supervision;
+
 b) lui ordonner, ainsi qu’à ses administrateurs, membres de comités, dirigeants et employés, de ne pas exercer l’un quelconque de leurs pouvoirs;
+
 c) établir des lignes directrices en ce qui concerne son fonctionnement;
+
 d) lui ordonner de ne pas déclarer ou verser un dividende ou de limiter le montant d’un dividende qui doit être versé au taux ou montant fixé par le directeur général;
+
 e) assister aux réunions de son conseil et de son comité de vérification;
+
 f) proposer des règlements administratifs à son intention et des modifications de ses statuts.
 
 ### Approbation des règlements administratifs et autres documents
@@ -3376,7 +3815,9 @@ f) proposer des règlements administratifs à son intention et des modifications
 ### Exécution
 
 (3) Le directeur général peut, si la caisse ne se conforme pas à un ordre qu’il donne en vertu du présent article, demander au tribunal, par voie de requête :
+
 a) soit une ordonnance enjoignant à la caisse de se conformer à l’ordre;
+
 b) soit toute autre ordonnance que le tribunal estime appropriée.
 
 ### Frais du directeur général
@@ -3388,11 +3829,17 @@ b) soit toute autre ordonnance que le tribunal estime appropriée.
 ### Administration par le directeur général
 
 233 (1) Le directeur général peut ordonner qu’une caisse soit placée sous son administration dans l’un ou l’autre des cas suivants :
+
 1. Le directeur général croit, en se fondant sur des motifs raisonnables, que la caisse conduit ses affaires internes d’une manière dont on pourrait s’attendre à ce qu’elle nuise aux intérêts des sociétaires, des déposants ou des actionnaires ou qui a tendance à augmenter le risque que des demandes de règlement soient présentées par les déposants à l’endroit du directeur général, mais que la supervision ne serait pas appropriée en l’occurrence.
+
 2. La caisse ne s’est pas conformée à un ordre que le directeur général a donné pendant que la caisse était sous sa supervision.
+
 3. Le directeur général est d’avis que l’actif de la caisse n’est pas suffisant pour protéger adéquatement ses déposants.
+
 4. La caisse n’a pas acquitté ses obligations à leur échéance ou, de l’avis du directeur général, ne sera pas en mesure de le faire.
+
 5. Après la tenue d’une assemblée générale et tout ajournement d’au plus deux semaines, les sociétaires de la caisse n’ont pas élu le nombre minimal d’administrateurs exigé aux termes de l’article 86.
+
 6. Le directeur général a donné un ordre en vertu de l’article 207.
 
 ### Règles de procédure
@@ -3406,18 +3853,31 @@ b) soit toute autre ordonnance que le tribunal estime appropriée.
 ### Pouvoirs de l’administrateur
 
 234 (1) En sa qualité d’administrateur, le directeur général peut exercer les pouvoirs suivants :
+
 1. Poursuivre, gérer et mener les activités de la caisse.
+
 2. Préserver, entretenir et réaliser les biens de la caisse, les aliéner et en acquérir d’autres.
+
 3. Recevoir les bénéfices et les revenus de la caisse.
+
 4. Exercer les pouvoirs de la caisse et ceux de ses administrateurs, dirigeants et comités.
+
 5. Empêcher les administrateurs de la caisse et ses dirigeants, membres de comités, employés et mandataires d’accéder aux biens de la caisse et de participer à ses activités commerciales.
+
 6. Exiger que la caisse, selon le cas :
+
 i. fusionne, en exigeant qu’elle conclue une convention de fusion visée à l’article 251,
+
 ii. se départisse de son actif et de son passif,
+
 iii. soit liquidée.
+
 7. Ordonner à la caisse de rectifier les pratiques qui, selon le directeur général, contribuent au problème ou à la situation qui a justifié l’ordre plaçant la caisse sous son administration.
+
 8. Ordonner à la caisse, ainsi qu’à ses administrateurs, membres de comités, dirigeants et employés, de ne pas exercer l’un quelconque de leurs pouvoirs.
+
 9. Ordonner à la caisse de ne pas déclarer ou verser un dividende ou de limiter le montant d’un dividende qui doit être versé au taux ou montant fixé par le directeur général.
+
 10. Donner un ordre de règlement en vertu de l’article 234.1.
 
 ### Idem
@@ -3435,27 +3895,41 @@ iii. soit liquidée.
 ### Ordres de règlement
 
 234.1 (1) Le directeur général peut donner un ordre de règlement à l’égard d’une caisse qui est visée par un ordre donné en vertu de l’article 233 s’il est satisfait aux conditions suivantes :
+
 1. Le directeur général a des motifs raisonnables de croire que le risque de faillite de la caisse pourrait entraîner l’une ou l’autre des conséquences suivantes en Ontario :
+
 i. des risques pour la caisse, les systèmes de services financiers ou une partie de ceux-ci,
+
 ii. des risques financiers pour les sociétaires de la caisse, les institutions financières ou d’autres intermédiaires financiers découlant des activités qu’exerce la caisse à titre d’intermédiaire financier,
+
 iii. d’autres conséquences économiques préjudiciables pour la caisse, le secteur des services financiers ou une partie de celui-ci.
+
 2. Le directeur général remet au ministre une copie de l’ordre de règlement qu’il a l’intention de donner et le ministre ne s’oppose pas à l’ordre dans un délai d’un jour ouvrable suivant sa réception.
 
 ### Types d’ordres de règlement
 
 (2) Les types d’ordres de règlement suivants peuvent être donnés en vertu du présent article :
+
 1. Un ordre de règlement à l’égard de questions contractuelles et d’adhésion, visées au paragraphe (3).
+
 2. Un ordre de règlement à l’égard des procédures et de l’exécution, visées au paragraphe (5).
+
 3. Un ordre de règlement à l’égard de la rémunération des administrateurs et des cadres supérieurs de la caisse, visée au paragraphe (6).
 
 ### Ordre : questions contractuelles et d’adhésion
 
 (3) Si un ordre de règlement visé à la disposition 1 du paragraphe (2) est donné, nul ne peut résilier ou modifier un contrat conclu avec la caisse ni exiger un règlement de toute somme exigible au titre d’un tel contrat ou exercer une clause de déchéance du terme comprise dans un tel contrat, et nul ne peut mettre fin à l’adhésion de la caisse à une organisation pour l’une ou l’autre des raisons suivantes :
+
 1. Le prononcé d’un ordre en vertu de l’article 233.
+
 2. La détérioration de la situation financière de la caisse.
+
 3. Le défaut par la caisse ou une de ses filiales, avant que l’ordre de règlement soit donné, de se conformer à une obligation non pécuniaire prévue au contrat, auquel la caisse ou une de ses filiales a remédié dans les 60 jours suivant la date à laquelle l’ordre est donné.
+
 4. Le défaut par la caisse ou une de ses filiales, avant que l’ordre de règlement soit donné, de se conformer à une obligation pécuniaire prévue au contrat, auquel la caisse ou une de ses filiales a remédié dans les 60 jours suivant la date à laquelle l’ordre est donné.
+
 5. Le prononcé d’un ordre de règlement visé au présent article ou un changement de contrôle ou de propriété de la caisse, ou d’une de ses filiales, lié au prononcé de l’ordre de règlement.
+
 6. Le transfert à un tiers, ou l’acquisition par celui-ci, de tout ou partie de l’actif ou du passif de la caisse ou d’une de ses filiales.
 
 ### Incompatibilité
@@ -3465,17 +3939,25 @@ iii. d’autres conséquences économiques préjudiciables pour la caisse, le se
 ### Ordre : procédures, exécution
 
 (5) Si un ordre de règlement visé à la disposition 2 du paragraphe (2) est donné :
+
 a) aucune action ou autre procédure civile devant un organisme judiciaire ou quasi judiciaire ni aucune procédure d’arbitrage ne peut être engagée ou poursuivie contre la caisse;
+
 b) aucune saisie, saisie-exécution ou autre mesure d’exécution d’un jugement ou d’une ordonnance contre la caisse ou son actif ne peut être mise en œuvre ou poursuivie;
+
 c) aucun créancier de la caisse n’a de recours contre la caisse ou son actif;
+
 d) sauf dans le cadre normal des processus de règlement et de compensation, notamment la consolidation des comptes à l’égard de tels processus, aucun créancier n’a le droit d’opérer compensation à l’égard de la caisse.
 
 ### Ordre : rémunération des cadres supérieurs
 
 (6) Si un ordre de règlement visé à la disposition 3 du paragraphe (2) est donné, la caisse ne doit pas verser les paiements suivants aux administrateurs ou cadres supérieurs de la caisse :
+
 1. Les sommes versées à titre de cadeaux ou de primes qui, à la fois :
+
 i. ont été approuvées par le conseil avant le jour où le directeur général a donné un ordre relatif à l’administration en vertu de l’article 233 à l’égard de la caisse, mais n’avaient pas été versées avant ce même jour,
+
 ii. sont laissées à la discrétion du conseil et ne sont pas liées au nombre d’heures de travail, à la production ou à l’efficacité.
+
 2. Un paiement versé lorsqu’il est mis fin à l’emploi d’un administrateur ou d’un cadre supérieur qui n’est pas une condition habituelle des contrats de travail des employés de la caisse, mais qui est une condition expressément approuvée par le conseil pour le contrat de travail de l’administrateur ou du cadre supérieur.
 
 ### Non-application : règles de l’Autorité
@@ -3493,19 +3975,29 @@ ii. sont laissées à la discrétion du conseil et ne sont pas liées au nombre 
 ### Contrats financiers admissibles
 
 (10) Le présent article n’a pas pour effet d’empêcher l’accomplissement, conformément au contrat financier admissible, des opérations suivantes :
+
 1. La résiliation ou la modification du contrat.
+
 2. Le règlement de toute somme exigible au titre du contrat ou l’exercice de toute clause de déchéance du terme comprise dans le contrat.
+
 3. L’exercice de recours en cas de défaut d’exécution de toute obligation en vertu du contrat ou à son égard, notamment le défaut de verser toute somme due ou de livrer tout bien à livrer en application du contrat ou à son égard.
+
 4. La compensation relativement à toute somme due en application du contrat ou à son égard.
+
 5. Toute opération à l’égard de la garantie financière afférente.
 
 ### Suspension : contrats financiers admissibles
 
 (11) Si un ordre de règlement est donné en vertu du présent article, les opérations visées aux dispositions 1, 2 et 5 du paragraphe (10) ne peuvent être accomplies du seul fait de l’un ou l’autre de ce qui suit :
+
 1. Le prononcé d’un ordre en vertu de l’article 233.
+
 2. La détérioration de la situation financière de la caisse.
+
 3. Le défaut par la caisse ou une de ses filiales, avant que l’ordre de règlement soit donné, de se conformer à une obligation non pécuniaire prévue au contrat, auquel la caisse ou une de ses filiales a remédié dans les 60 jours suivant la date à laquelle l’ordre est donné.
+
 4. Le prononcé d’un ordre de règlement visé au présent article ou un changement de contrôle ou de propriété de la caisse, ou d’une de ses filiales, lié au prononcé de l’ordre de règlement.
+
 5. Le transfert à un tiers, ou l’acquisition par celui-ci, de tout ou partie de l’actif ou du passif de la caisse ou d’une de ses filiales.
 
 ### Cessation de la suspension : avis
@@ -3519,9 +4011,13 @@ ii. sont laissées à la discrétion du conseil et ne sont pas liées au nombre 
 ### Exception
 
 (14) Le paragraphe (11) ne s’applique pas aux contrats financiers admissibles conclus entre une caisse et l’une des entités suivantes :
+
 a) la Couronne;
+
 b) une banque centrale;
+
 c) un agent de compensation, sauf si l’Autorité a pris un engagement visé au paragraphe (16) à l’égard de la caisse;
+
 d) une chambre de compensation, sauf si l’Autorité a pris un engagement visé au paragraphe (18) à l’égard de la caisse.
 
 ### Accords de compensation
@@ -3535,7 +4031,9 @@ d) une chambre de compensation, sauf si l’Autorité a pris un engagement visé
 ### Chambre de compensation
 
 (17) Les paragraphes (3) à (5) n’ont pas pour effet d’empêcher une chambre de compensation :
+
 a) d’agir ou de cesser d’agir à ce titre pour le compte d’une caisse;
+
 b) d’exercer ses droits en vertu des règles applicables au règlement, au sens du paragraphe 8 (5) de la Loi sur la compensation et le règlement des paiements (Canada).
 
 ### Exception
@@ -3549,7 +4047,9 @@ b) d’exercer ses droits en vertu des règles applicables au règlement, au sen
 ### Autorisation du tribunal
 
 (20) Une cour supérieure peut, aux conditions qu’elle estime appropriées, soit autoriser une personne à accomplir un acte qui lui serait par ailleurs interdit aux termes du présent article, soit lever la suspension visée au présent article ou en réduire la durée, si elle est convaincue que, selon le cas :
+
 a) la personne subirait un préjudice grave si l’autorisation lui était refusée;
+
 b) il est juste pour d’autres raisons d’accorder l’autorisation.
 
 ### Autorité partie à la demande
@@ -3567,11 +4067,17 @@ b) il est juste pour d’autres raisons d’accorder l’autorisation.
 ### Définitions
 
 (24) Les définitions qui suivent s’appliquent au présent article.
+
 «agent de compensation» S’entend au sens de la définition donnée à ce terme au paragraphe 39.15 (9) de la Loi sur la Société d’assurance-dépôts du Canada. («clearing agent»)
+
 «cadre supérieur» Toute personne qui occupe la charge de chef de la direction, de président, de chef des services administratifs, de chef de l’exploitation, de chef des finances, de chef de l’information, de chef des affaires juridiques, de chef des ressources humaines ou de chef du développement de l’entreprise, ou qui occupe un autre poste de premier dirigeant. («executive»)
+
 «chambre de compensation» S’entend, selon le cas :
+
 a) d’une chambre de compensation, au sens de la définition donnée à ce terme à l’article 2 de la Loi sur la compensation et le règlement des paiements (Canada), qui fournit des services de compensation, de règlement ou d’échange de messages de paiement pour un système de compensation et de règlement désigné aux termes de l’article 4 de cette loi;
+
 b) d’une chambre spécialisée au sens de la définition donnée à ce terme au paragraphe 13.1 (3) de la Loi sur la compensation et le règlement des paiements (Canada). («clearing house»)
+
 «contrat financier admissible» S’entend au sens des règles de l’Autorité. («eligible financial contract») 2024, chap. 20, annexe 5, art. 11.
 
 ### Frais du directeur général
@@ -3583,6 +4089,7 @@ b) d’une chambre spécialisée au sens de la définition donnée à ce terme a
 ### Définition
 
 236 La définition qui suit s’applique à la présente partie.
+
 «contribuable» S’entend d’une personne tenue de faire un apport en biens à la caisse qui est liquidée en vertu de la présente loi.
 
 ### Dissolution
@@ -3614,13 +4121,17 @@ b) d’une chambre spécialisée au sens de la définition donnée à ce terme a
 ### Idem
 
 (4) Seules les personnes suivantes peuvent être nommées liquidateur aux termes du présent article :
+
 1. Le directeur général.
+
 2. Un syndic de faillite autorisé.
 
 ### Rémunération et frais du liquidateur
 
 (5) La rémunération du liquidateur ainsi que les frais de la liquidation sont établis conformément à ce qui suit :
+
 1. Si le liquidateur est le directeur général, il fixe la rémunération et les frais, qui commencent à courir le jour de l’adoption de la résolution.
+
 2. Si le liquidateur est un syndic de faillite autorisé, la rémunération et les frais sont fixés dans son acte de nomination.
 
 ### Dépôt auprès du directeur général
@@ -3634,7 +4145,9 @@ b) d’une chambre spécialisée au sens de la définition donnée à ce terme a
 ### Vacance du poste de liquidateur
 
 (8) Les règles suivantes s’appliquent si le poste du liquidateur nommé aux termes du présent article devient vacant pour cause de décès, de démission ou autre :
+
 1. Les sociétaires de la caisse peuvent, à la majorité des voix exprimées à une assemblée générale convoquée à cette fin, nommer une personne pour pourvoir au poste.
+
 2. Si les sociétaires ne nomment pas une personne en vertu de la disposition 1, le directeur général en nomme une pour pourvoir au poste.
 
 ### Destitution du liquidateur
@@ -3664,7 +4177,9 @@ b) d’une chambre spécialisée au sens de la définition donnée à ce terme a
 ### Liste des contribuables
 
 (15) Lors de la liquidation volontaire, le liquidateur :
+
 a) d’une part, dresse la liste des contribuables;
+
 b) d’autre part, peut, avant de s’assurer si les biens de la caisse sont suffisants, faire appel à tout contribuable dont le nom figure alors sur la liste des contribuables, pour qu’il verse, jusqu’à concurrence de son obligation, la somme qu’il estime nécessaire à l’acquittement du passif de la caisse et des frais de liquidation ainsi qu’à la juste répartition des droits des contribuables entre eux.
 
 ### Idem
@@ -3726,9 +4241,13 @@ b) d’autre part, peut, avant de s’assurer si les biens de la caisse sont suf
 ### Liquidation judiciaire
 
 240 (1) La caisse peut être liquidée par ordonnance du tribunal dans l’un ou l’autre des cas suivants :
+
 a) les sociétaires ont autorisé, par résolution extraordinaire adoptée lors d’une assemblée générale convoquée à cette fin, la présentation d’une requête à cet effet au tribunal;
+
 b) la procédure de liquidation volontaire de la caisse est engagée et le tribunal estime qu’il est dans l’intérêt des contribuables et des créanciers que cette procédure se poursuive sous sa surveillance;
+
 c) il est prouvé à la satisfaction du tribunal que la caisse, bien qu’elle puisse être solvable, ne peut, en raison de son passif, poursuivre ses activités commerciales et que la liquidation est à conseiller;
+
 d) de l’avis du tribunal, il est juste et équitable pour des motifs autres que la faillite ou l’insolvabilité de la caisse que celle-ci soit liquidée.
 
 ### Pluralité des catégories d’actions
@@ -3738,8 +4257,11 @@ d) de l’avis du tribunal, il est juste et équitable pour des motifs autres qu
 ### Auteur de la requête
 
 (3) L’ordonnance de liquidation peut être rendue à la requête d’une des personnes suivantes :
+
 a) la caisse;
+
 b) en cas de liquidation volontaire de la caisse, le liquidateur ou un contribuable;
+
 c) le directeur général.
 
 ### Avis à la caisse
@@ -3753,10 +4275,15 @@ c) le directeur général.
 ### Pouvoirs du tribunal
 
 (6) Le tribunal peut :
+
 a) rendre l’ordonnance demandée;
+
 b) rejeter la requête avec ou sans dépens;
+
 c) reporter l’audience avec ou sans conditions;
+
 d) rendre toute ordonnance provisoire ou autre qu’il estime appropriée;
+
 e) renvoyer la procédure de liquidation à un officier de justice pour enquête et rapport et autoriser cet officier à exercer les pouvoirs du tribunal nécessaires à cette fin.
 
 ### Nomination d’un liquidateur
@@ -3786,7 +4313,9 @@ e) renvoyer la procédure de liquidation à un officier de justice pour enquête
 ### Procédure de liquidation postérieure à l’ordonnance
 
 (13) Si une ordonnance de liquidation a été rendue par le tribunal, la procédure de liquidation de la caisse est engagée de la même manière et produit les mêmes effets qu’une liquidation volontaire, sauf que :
+
 a) la liste des contribuables est dressée par le tribunal, à moins d’avoir été dressée par le liquidateur avant l’ordonnance de liquidation;
+
 b) toute la procédure de liquidation est assujettie aux ordonnances et directives du tribunal.
 
 ### Révision judiciaire
@@ -3828,10 +4357,15 @@ b) toute la procédure de liquidation est assujettie aux ordonnances et directiv
 ### Dissolution par le directeur général
 
 241 (1) Le directeur général peut, par ordre, dissoudre la caisse s’il est convaincu que, selon le cas :
+
 a) elle a été constituée par fraude ou par erreur;
+
 b) elle poursuit des fins illégales;
+
 c) le nombre de ses sociétaires passe à un nombre inférieur au nombre minimal de sociétaires prescrit par règle de l’Autorité;
+
 d) elle n’exerce aucune activité commerciale ou est inactive;
+
 e) elle a contrevenu à la présente loi, aux règlements ou aux règles de l’Autorité.
 
 ### Règles de procédure
@@ -3869,8 +4403,11 @@ e) elle a contrevenu à la présente loi, aux règlements ou aux règles de l’
 ### Responsabilités du liquidateur
 
 244 Lors de la liquidation d’une caisse :
+
 a) le liquidateur impute les biens de la caisse à l’acquittement de ses dettes et obligations et, sous réserve de celles-ci, répartit le reliquat entre les sociétaires ou les actionnaires au prorata de leurs droits et de leurs intérêts respectifs dans la caisse;
+
 b) lors de la répartition des biens de la caisse, les dettes envers les employés de la caisse pour services rendus qui sont exigibles au début de la liquidation ou au cours du mois précédent, jusqu’à concurrence de trois mois de salaire et des indemnités de maladie ou de vacances accumulées sur douze mois au plus, sont payées par préférence aux créances des créanciers ordinaires, les employés ayant rang de créanciers ordinaires pour le solde éventuel des salaires qui leur sont dus;
+
 c) la nomination d’un liquidateur met fin aux pouvoirs du conseil de la caisse qui est liquidée, sauf dans la mesure où le liquidateur permet leur maintien afin d’aider à la procédure de liquidation.
 
 ### Répartition des biens
@@ -3884,19 +4421,33 @@ c) la nomination d’un liquidateur met fin aux pouvoirs du conseil de la caisse
 ### Pouvoirs du liquidateur
 
 247 (1) Le liquidateur peut :
+
 a) ester en justice dans toute instance, civile ou pénale, au nom et pour le compte de la caisse;
+
 b) exercer les activités commerciales de la caisse dans la mesure nécessaire à sa liquidation avantageuse;
+
 c) vendre les biens meubles et immeubles de la caisse aux enchères publiques ou de gré à gré;
+
 d) emprunter pour le compte de la caisse les sommes nécessaires à la liquidation;
+
 e) tirer, accepter, souscrire et endosser des lettres de change ou des billets au nom et pour le compte de la caisse;
+
 f) se procurer, sur la garantie des biens de la caisse, les sommes qui peuvent être nécessaires;
+
 g) obtenir en sa qualité officielle les lettres d’administration de la succession d’un contribuable décédé et accomplir en cette qualité tout autre acte nécessaire pour obtenir d’un contribuable ou de sa succession le paiement des sommes qu’il doit à la caisse, si cet acte ne peut pas être accompli au nom de la caisse sans inconvénient;
+
 h) au nom et pour le compte de la caisse, accomplir les actes et les autres choses nécessaires à la liquidation de ses affaires et à la répartition de ses biens et signer, notamment sous son sceau, les documents nécessaires à cette fin;
+
 i) retenir les services d’un avocat pour l’aider dans l’exercice de ses fonctions;
+
 j) employer un mandataire pour accomplir les actes qu’il ne peut accomplir directement;
+
 k) demander de la succession d’un contribuable l’acquittement d’une dette ou d’une obligation contractée envers la caisse et, au besoin, en établir l’existence;
+
 l) recevoir des dividendes lors de la répartition de la succession d’un contribuable à l’égard d’une dette ou d’une obligation visée à l’alinéa k);
+
 m) transiger sur les appels de fonds, même éventuels, les dettes et les obligations génératrices de dette, ainsi que les créances, actuelles ou futures, certaines ou éventuelles, déterminées ou indéterminées, impayées ou présumées impayées, entre la caisse et une autre personne;
+
 n) effectuer toutes les autres choses nécessaires à la liquidation des affaires de la caisse et à la répartition de ses biens.
 
 ### Lettres de change réputées tirées dans le cadre des activités commerciales
@@ -3906,7 +4457,9 @@ n) effectuer toutes les autres choses nécessaires à la liquidation des affaire
 ### Cas où une autorisation est nécessaire
 
 (3) Le liquidateur ne doit pas exercer les pouvoirs qui lui sont conférés par l’alinéa (1) a), d), f), m) ou n) :
+
 a) dans le cas d’une liquidation volontaire ou s’il est nommé par le directeur général en vertu de l’article 241, à moins d’avoir obtenu l’autorisation écrite de celui-ci;
+
 b) dans le cas d’une liquidation par ordonnance du tribunal, à moins d’avoir obtenu l’autorisation de celui-ci.
 
 ### Exception
@@ -3932,7 +4485,9 @@ b) dans le cas d’une liquidation par ordonnance du tribunal, à moins d’avoi
 ### Manière de disposer des dossiers
 
 (9) Il peut être disposé des dossiers et des documents de la caisse qui a été liquidée en vertu de la présente loi et qui est sur le point d’être dissoute et de ceux du liquidateur :
+
 a) soit comme le précise le directeur général, dans le cas d’une liquidation volontaire ou s’il a nommé le liquidateur en vertu de l’article 241;
+
 b) soit comme l’ordonne le tribunal, dans le cas d’une liquidation par ordonnance judiciaire.
 
 ### Conservation des dossiers
@@ -3964,15 +4519,25 @@ b) soit comme l’ordonne le tribunal, dans le cas d’une liquidation par ordon
 ### Convention de fusion
 
 (2) Les caisses qui se proposent de fusionner concluent une convention qui indique les conditions de la fusion, la façon de la réaliser et, notamment :
+
 1. La dénomination sociale de la caisse issue de la fusion.
+
 2. Les restrictions relatives à l’adhésion à la caisse issue de la fusion.
+
 3. Le nom au complet, la profession et le lieu de résidence des premiers administrateurs de la caisse issue de la fusion.
+
 4. Le moment auquel a lieu l’élection des administrateurs ultérieurs de la caisse issue de la fusion, et la manière de les élire.
+
 5. La manière de convertir le capital social de chacune des caisses qui fusionnent en capital social de la caisse issue de la fusion.
+
 6. Si des parts sociales d’une des caisses ne doivent pas être converties en parts sociales de la caisse issue de la fusion, la somme d’argent ou les valeurs mobilières que les sociétaires doivent recevoir en plus ou au lieu des parts sociales de la caisse issue de la fusion.
+
 7. Si des actions d’une des caisses ne doivent pas être converties en actions ou autres valeurs mobilières de la caisse issue de la fusion, la somme d’argent ou les valeurs mobilières que les détenteurs de ces actions doivent recevoir en plus ou au lieu des actions ou autres valeurs mobilières de la caisse issue de la fusion.
+
 8. Le mode de paiement en argent qui remplace l’émission de fractions d’actions de la caisse issue de la fusion ou de toute autre personne morale qui doivent être émises à l’occasion de la fusion.
+
 9. Les autres modalités nécessaires au parachèvement de la fusion ainsi qu’à la gestion et au fonctionnement ultérieurs de la caisse issue de la fusion.
+
 10. La date d’effet projetée de la fusion.
 
 ### Dépôt de la convention
@@ -4030,8 +4595,11 @@ b) soit comme l’ordonne le tribunal, dans le cas d’une liquidation par ordon
 ### Effets de la fusion
 
 (16) À compter de la date d’effet de la fusion :
+
 a) les caisses visées fusionnent et sont prorogées en une seule et même caisse sous la dénomination sociale précisée dans le certificat;
+
 b) les biens, droits, privilèges et concessions de chacune des caisses qui fusionnent passent à la caisse issue de la fusion, qui devient liée par les responsabilités, contrats, incapacités et dettes de ces caisses;
+
 c) les statuts de fusion sont réputés les statuts constitutifs de la caisse issue de la fusion et le certificat de fusion est réputé son certificat de constitution.
 
 ### Avis
@@ -4049,9 +4617,13 @@ c) les statuts de fusion sont réputés les statuts constitutifs de la caisse is
 ### Application de l’art. 250
 
 (2) Si le directeur général exige que la caisse qui est sous son administration conclue une convention de fusion en vertu de l’article 250, les dispositions suivantes s’appliquent dans le cadre de cet article :
+
 1. L’adoption, aux termes du paragraphe 250 (4), de la convention de fusion par les sociétaires et les actionnaires de la caisse sous administration n’est pas nécessaire.
+
 2. Le directeur général ne doit pas délivrer de certificat de fusion en vertu du paragraphe 250 (14) sauf dans le cas où la fusion :
+
 i. d’une part, protégerait l’intérêt des déposants ou des sociétaires des caisses qui fusionnent,
+
 ii. d’autre part, favoriserait la sécurité et l’intégrité financières de la caisse issue de la fusion.
 
 ### Réorganisation
@@ -4059,10 +4631,15 @@ ii. d’autre part, favoriserait la sécurité et l’intégrité financières d
 ### Statuts de modification
 
 252 (1) La caisse peut modifier ses statuts constitutifs afin de :
+
 a) restreindre ou modifier autrement ses pouvoirs ou ses activités commerciales;
+
 b) changer sa dénomination sociale;
+
 c) ajouter, modifier ou supprimer une disposition :
+
 (i) soit qui, en vertu de la présente loi, peut être énoncée dans les statuts,
+
 (ii) soit qui pourrait faire l’objet d’un règlement administratif de la caisse.
 
 ### Autorisation
@@ -4072,16 +4649,27 @@ c) ajouter, modifier ou supprimer une disposition :
 ### Vote par catégorie
 
 253 (1) Les détenteurs d’actions d’une catégorie ou série ont le droit de voter séparément sur les propositions de modification des statuts visant :
+
 a) à augmenter ou à diminuer le nombre maximal d’actions autorisées de cette catégorie ou à augmenter le nombre maximal d’actions autorisées d’une catégorie conférant des droits ou des privilèges égaux ou supérieurs à ceux des actions de cette catégorie;
+
 b) à faire échanger, reclasser ou annuler tout ou partie des actions de cette catégorie;
+
 c) à étendre, à modifier ou à supprimer les droits, privilèges, restrictions ou conditions rattachés aux actions de cette catégorie, notamment :
+
 (i) en supprimant ou modifiant, de manière préjudiciable, le droit aux dividendes accumulés ou cumulatifs,
+
 (ii) en étendant, supprimant ou modifiant, de manière préjudiciable, les droits de rachat,
+
 (iii) en réduisant ou supprimant une préférence en matière de dividende ou de liquidation,
+
 (iv) en étendant, supprimant ou modifiant, de manière préjudiciable, les privilèges de conversion, options, droits de vote, de transfert, de préemption ou d’acquisition de valeurs mobilières de la caisse;
+
 d) à accroître les droits ou privilèges rattachés aux actions d’une autre catégorie, conférant des droits ou des privilèges égaux ou supérieurs à ceux des actions de cette catégorie;
+
 e) à créer une catégorie d’actions égales ou supérieures à celles de cette catégorie;
+
 f) à rendre égales ou supérieures aux actions de cette catégorie les actions d’une autre catégorie conférant des droits ou des privilèges inférieurs;
+
 g) à faire échanger tout ou partie des actions d’une autre catégorie contre celles de cette catégorie, ou à créer un droit à cette fin.
 
 ### Exception
@@ -4103,16 +4691,23 @@ g) à faire échanger tout ou partie des actions d’une autre catégorie contre
 ### Documents exigés
 
 254 Dans les 60 jours qui suivent la confirmation de la résolution extraordinaire par les sociétaires et les actionnaires touchés, la caisse remet au directeur général les statuts de modification, signés par deux de ses dirigeants ou par un de ses administrateurs et un de ses dirigeants et attestés par l’affidavit d’un dirigeant ou administrateur signataire. L’affidavit comprend les renseignements suivants :
+
 a) la dénomination sociale de la caisse;
+
 b) une copie certifiée conforme de la résolution extraordinaire;
+
 c) le fait que la modification a été dûment confirmée et autorisée;
+
 d) la date à laquelle la résolution extraordinaire a été confirmée par les sociétaires et les actionnaires touchés.
 
 ### Certificat de modification
 
 255 (1) Si les statuts de modification sont conformes à la loi, le directeur général, après l’acquittement des droits fixés par règle de l’Autorité, prend les mesures suivantes :
+
 a) il appose à l’endos des statuts de modification le terme «Filed/Déposé» en indiquant le jour, le mois et l’année du dépôt;
+
 b) il dépose une copie électronique à son bureau;
+
 c) il délivre à la caisse ou à son mandataire un certificat de modification auquel il joint l’original.
 
 ### Date d’effet du certificat
@@ -4126,14 +4721,19 @@ c) il délivre à la caisse ou à son mandataire un certificat de modification a
 ### Dépôt des statuts mis à jour
 
 (2) La caisse remet au directeur général les statuts mis à jour, signés par deux de ses dirigeants ou par un de ses administrateurs et un de ses dirigeants et attestés par l’affidavit d’un dirigeant ou administrateur signataire. L’affidavit comprend les renseignements suivants :
+
 a) les dispositions énoncées dans les statuts constitutifs initiaux tels qu’ils sont modifiés;
+
 b) une déclaration selon laquelle les statuts mis à jour reproduisent correctement et fidèlement les dispositions correspondantes des statuts constitutifs initiaux tels qu’ils sont modifiés.
 
 ### Certificat de constitution mis à jour
 
 (3) Si les statuts constitutifs mis à jour sont conformes à la loi, le directeur général, après l’acquittement des droits fixés par règle de l’Autorité, prend les mesures suivantes :
+
 a) il appose à l’endos des statuts mis à jour le terme «Filed/Déposé» en indiquant le jour, le mois et l’année du dépôt;
+
 b) il dépose une copie électronique à son bureau;
+
 c) il délivre à la caisse ou à son mandataire un certificat de constitution mis à jour auquel il joint l’original.
 
 ### Date d’effet du certificat
@@ -4169,21 +4769,29 @@ c) il délivre à la caisse ou à son mandataire un certificat de constitution m
 ### Effets de la délivrance du certificat
 
 (7) Les statuts de prorogation entrent en vigueur à la date indiquée dans le certificat de prorogation et, à compter de cette date :
+
 a) la personne morale est prorogée en tant que caisse régie par la présente loi comme si elle avait été constituée en vertu de celle-ci;
+
 b) les statuts de prorogation sont réputés les statuts constitutifs de la caisse prorogée;
+
 c) le certificat de prorogation est réputé le certificat de constitution de la caisse prorogée.
 
 ### Envoi d’une copie du certificat à d’autres autorités législatives
 
 (8) Le directeur général envoie une copie du certificat de prorogation :
+
 a) au fonctionnaire ou à l’organisme public compétents relevant de l’autorité législative où a été constituée la personne morale;
+
 b) si la personne morale a été constituée en vertu d’une autre loi de l’Ontario, au fonctionnaire ou à l’organisme public compétent chargé de l’application de cette loi.
 
 ### Maintien des droits et obligations
 
 (9) Si une personne morale est prorogée en tant que caisse régie par la présente loi :
+
 a) ses biens, droits, privilèges et concessions passent à la caisse, qui liée par ses responsabilités – que ce soit sur le plan civil, pénal ou quasi-pénal –, contrats, incapacités et dettes;
+
 b) toute décision judiciaire ou quasi judiciaire rendue en faveur de la personne morale ou contre elle est exécutoire à l’égard de la caisse;
+
 c) la caisse est réputée partie demanderesse ou partie défenderesse, selon le cas, dans toute action civile intentée par ou contre la personne morale.
 
 ### Avis
@@ -4193,14 +4801,19 @@ c) la caisse est réputée partie demanderesse ou partie défenderesse, selon le
 ### Disposition transitoire : titres de créance en circulation et éléments d’actif
 
 (11) Le directeur général peut, par ordre, autoriser la caisse prorogée à faire ce qui suit :
+
 a) maintenir en circulation des titres de créance que la présente loi n’autorise pas dans la mesure où ils étaient déjà en circulation à la date de la demande du certificat de prorogation, pour la période et aux conditions qu’ordonne le directeur général;
+
 b) détenir des éléments d’actif, y compris des prêts, prohibés par la présente loi dans la mesure où elle les détenait déjà à la date de la demande du certificat de prorogation, pour la période et aux conditions qu’ordonne le directeur général;
+
 c) acquérir et détenir des éléments d’actif, y compris des prêts, prohibés par la présente loi dans la mesure où la personne morale prorogée comme caisse était obligée, à la date de la demande du certificat de prorogation, de les acquérir, pour la période et aux conditions qu’ordonne le directeur général.
 
 ### Restrictions relatives à la période transitoire
 
 (12) Les restrictions suivantes s’appliquent à l’égard d’une période visée à l’alinéa (11) a), b) ou c) :
+
 1. La période ne peut dépasser la période maximale prescrite par règlement.
+
 2. Le directeur général ne peut prolonger la période que pour une période supplémentaire qui ne dépasse pas la période de prolongation maximale prescrite par règlement.
 
 ### Transfert dans une autre autorité législative
@@ -4222,7 +4835,9 @@ c) acquérir et détenir des éléments d’actif, y compris des prêts, prohib�
 ### Délivrance du certificat d’approbation
 
 (5) Le directeur général peut, sous réserve des conditions prescrites par règlement, délivrer un certificat d’approbation de prorogation s’il est convaincu qu’il a été satisfait aux conditions suivantes :
+
 1. Si la caisse doit être prorogée comme institution de dépôt, les dépôts de cette dernière seront assurés ou garantis par l’Autorité ou l’entité analogue de l’autorité législative sous le régime des lois de laquelle elle doit être prorogée.
+
 2. Si la caisse doit être prorogée comme personne morale autre qu’une institution de dépôt, la personne morale ne détiendra aucun dépôt au moment de sa prorogation.
 
 ### Copie du certificat à une autre autorité législative
@@ -4284,7 +4899,9 @@ c) acquérir et détenir des éléments d’actif, y compris des prêts, prohib�
 ### Peine
 
 (3) Quiconque est coupable d’une infraction visée au présent article est passible :
+
 a) s’il s’agit d’une entité, d’une amende d’au plus 1 000 000 $;
+
 b) s’il s’agit d’un particulier, d’une amende d’au plus 500 000 $ et d’un emprisonnement d’au plus deux ans, ou d’une seule de ces peines.
 
 ### Ordonnance de conformité
@@ -4328,7 +4945,9 @@ b) s’il s’agit d’un particulier, d’une amende d’au plus 500 000 $ et d
 ### Pénalités administratives
 
 268 (1) Une pénalité administrative peut être imposée en vertu de l’article 269 à l’une ou l’autre des fins suivantes :
+
 1. Encourager la conformité aux exigences établies aux termes de la présente loi.
+
 2. Empêcher qu’une personne ou une entité tire, directement ou indirectement, un avantage économique de la contravention à une disposition de la présente loi, des règlements ou des règles de l’Autorité.
 
 ### Idem
@@ -4358,6 +4977,7 @@ b) s’il s’agit d’un particulier, d’une amende d’au plus 500 000 $ et d
 ### Absence de demande d’audience
 
 (6) Le directeur général peut donner suite à son intention si la personne ou l’entité ne demande pas d’audience ou qu’elle n’en demande pas une conformément au paragraphe (4).
+
 (7) Abrogé : 2024, chap. 20, annexe 5, art. 12.
 
 ### Effet du paiement de la pénalité
@@ -4367,7 +4987,9 @@ b) s’il s’agit d’un particulier, d’une amende d’au plus 500 000 $ et d
 ### Pénalités administratives maximales
 
 271 Les pénalités administratives imposées en vertu de l’article 269 ne doivent pas être supérieures aux sommes suivantes :
+
 1. Dans le cas d’une entité, 500 000 $.
+
 2. Dans le cas d’un particulier, 100 000 $.
 
 ### Exécution forcée des pénalités administratives
@@ -4407,14 +5029,19 @@ b) s’il s’agit d’un particulier, d’une amende d’au plus 500 000 $ et d
 ### Inscription des caisses en vue de leur participation à des prêts syndiqués
 
 (6) Le directeur général peut, sous réserve des conditions prescrites par règlement :
+
 a) soit inscrire une caisse au registre des caisses extraprovinciales afin de lui permettre de participer à des prêts syndiqués au titre de la présente loi, même si aucun accord conclu en vertu du paragraphe (1) ne s’applique à la caisse;
+
 b) soit annuler l’inscription.
 
 ### Règles spéciales pour les caisses inscrites en vertu du par. (4) ou de l’al. (6) a)
 
 (7) Les règles suivantes s’appliquent à l’égard de la caisse inscrite en vertu du paragraphe (4) ou de l’alinéa (6) a) :
+
 1. Les mentions d’une caisse dans la Loi sur les sociétés de prêt et de fiducie et dans les autres lois et règlements prescrits par règlement valent également mention d’une caisse inscrite en vertu du paragraphe (4) ou de l’alinéa (6) a).
+
 2. La caisse se conforme aux règlements régissant la conduite des caisses inscrites en vertu du présent article.
+
 3. La présente loi ne s’applique pas à l’égard de la caisse, sous réserve de ce que prévoient les règlements.
 
 ### Examen
@@ -4460,10 +5087,15 @@ b) soit annuler l’inscription.
 ### Remise de certains documents
 
 (2) La remise d’un avis écrit ou d’un document à toute fin prévue par la présente loi peut se faire par la poste :
+
 a) dans le cas d’une caisse, adressé à celle-ci à son établissement principal;
+
 b) dans le cas d’un administrateur, adressé à celui-ci à sa dernière adresse figurant dans les dossiers de l’Autorité;
+
 c) dans le cas du directeur général, adressé à celui-ci à son bureau;
+
 d) dans le cas de l’Autorité, adressé à celle-ci à son bureau;
+
 e) dans le cas d’un sociétaire, adressé à celui-ci à sa dernière adresse figurant dans les dossiers de la caisse ou livré à personne à son lieu de travail.
 
 ## PARTIE XVIII RÈGLEMENTS, RÈGLES, formulaires et droits
@@ -4473,42 +5105,79 @@ e) dans le cas d’un sociétaire, adressé à celui-ci à sa dernière adresse 
 ### Règlements de nature générale
 
 277 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) traiter de toute question à l’égard de laquelle l’Autorité peut établir des règles en vertu de l’article 285, avec les adaptations nécessaires;
+
 b) régir les caisses et les fédérations;
+
 c) régir le fonctionnement et les pouvoirs des succursales des caisses;
+
 d) définir, pour l’application de la présente loi et des règlements, tout terme utilisé mais non défini dans la présente loi;
+
 e) prescrire les questions que la présente loi permet ou exige de prescrire ou de faire par ailleurs par règlement ou conformément aux règlements;
+
 e.1) autoriser le directeur général à obliger une caisse, un administrateur d’une caisse ou le conseil d’une caisse à fournir des renseignements ou à accomplir un acte précisé;
+
 e.2) autoriser le directeur général à accorder des approbations ou des autorisations;
+
 f) définir les intérêts d’une caisse sur des biens immeubles et déterminer le mode de calcul de la valeur de ces intérêts;
+
 g) traiter des rapports entre les caisses et :
+
 (i) les entités qui se livrent au commerce de l’assurance,
+
 (ii) les agents ou courtiers d’assurance;
+
 h) traiter des ententes de réseau conclues entre des caisses et des personnes qui fournissent des produits ou des services aux caisses ou à leurs sociétaires;
+
 h.1) régir la limite relative au nombre de parts sociales qui peuvent être émises à un sociétaire;
+
 i) interdire ou restreindre les ententes de réseau;
+
 j) régir la conduite des caisses dans le cadre des ententes de réseau;
+
 k) traiter de la gestion des risques dans le cadre des prêts et des placements et dans la gestion d’ensemble des activités commerciales des caisses;
+
 l) interdire ou restreindre la vente, par les caisses, d’un produit ou d’un service à la condition qu’un autre produit ou service soit acquis d’une autre personne;
+
 m) traiter de la protection des sociétaires des caisses et du public dans leurs rapports avec les caisses, y compris réglementer les assertions que les caisses peuvent faire;
+
 n) prescrire la procédure que les caisses doivent suivre pour traiter des plaintes des sociétaires ou des déposants;
+
 o) prévoir des limites ou des restrictions, pour l’application de l’article 85, à l’égard du directeur général d’une caisse qui agit en qualité d’administrateur de la caisse;
+
 o.1) permettre la destitution des administrateurs par les sociétaires;
+
 o.2) prescrire les questions que doivent ou peuvent prévoir les règlements administratifs de la caisse;
+
 p) prescrire les exigences relatives aux rapports, visés à l’article 103, sur la diversité des genres;
+
 p.1) régir les renseignements que les vérificateurs doivent fournir au directeur général;
+
 q) traiter de la rétention au Canada de l’actif d’une caisse;
+
 r) exiger la divulgation aux déposants du taux d’intérêt sur leurs comptes, ainsi que le mode de calcul et de paiement des intérêts;
+
 s) exiger le cautionnement des administrateurs, dirigeants, mandataires et employés d’une caisse, ainsi que la souscription d’une assurance à leur égard et à l’égard des biens de la caisse ou de ceux qu’elle détient;
+
 s.1) prescrire les personnes qui ne peuvent être nommées séquestres, administrateurs-séquestres ou liquidateurs d’une caisse;
+
 s.2) régir les fonctions des vérificateurs qui sont présents aux assemblées des sociétaires ou des actionnaires;
+
 t) prescrire et réglementer les plafonds de prêt, globaux et individuels, que doivent respecter les caisses et le mode de calcul de ces plafonds pour l’application du paragraphe 155 (1);
+
 u) prescrire le type et la valeur de la sûreté qu’une caisse doit avoir avant de consentir un prêt et le mode d’évaluation d’une telle sûreté;
+
 v) prescrire les éléments qui doivent être indiqués dans les états financiers visés au paragraphe 177 (1) et les périodes auxquelles ils se rapportent;
+
 w) prescrire le mandat discrétionnaire que peut accorder la procuration, et exclure l’application de dispositions analogues des règlements pris en application de la partie VIII de la Loi sur les sociétés par actions ;
+
 x) régir, pour l’application de la partie IX, les opérations entre la caisse ou une filiale et une personne assujettie à des restrictions;
+
 y) traiter des livres, des registres et des autres dossiers et documents que les caisses doivent tenir et conserver pour l’application du paragraphe 203 (1) et la durée pendant laquelle ils doivent l’être;
+
 z) autoriser l’Autorité à fournir les services que prescrivent les règlements et qui sont accessoires ou semblables à ceux qu’elle rend aux personnes, organismes ou catégories de personnes ou d’organismes que prescrivent les règlements, ou qui leur sont complémentaires, et en régir la prestation;
+
 z.1) régir les caisses inscrites en vertu de l’article 273, y compris prévoir que des dispositions de la présente loi s’appliquent à elles avec les adaptations que précisent les règlements.
 
 ### Idem
@@ -4518,39 +5187,65 @@ z.1) régir les caisses inscrites en vertu de l’article 273, y compris prévoi
 ### Règlements sur les notes d’information
 
 278 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) préciser les états financiers, rapports et autres documents que doit comprendre une note d’information;
+
 b) traiter de la divulgation des faits importants se rapportant aux valeurs mobilières à placer;
+
 c) traiter de la diffusion d’une note d’information;
+
 d) soustraire une catégorie de placements à l’application des articles 68 à 75;
+
 e) d’une façon générale, prendre toute mesure d’application des articles 67 à 75.
 
 ### Règlements sur la suffisance du capital
 
 279 Le lieutenant-gouverneur peut, par règlement :
+
 a) adopter par renvoi un code, une norme ou une ligne directrice à l’égard des exigences en matière de suffisance du capital;
+
 b) exiger, à l’égard de la suffisance du capital, la conformité à un règlement, à une directive administrative ou à une exigence, un code, une norme ou une ligne directrice prescrit.
 
 ### Règlements sur le coût d’emprunt
 
 280 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire, pour l’application de l’article 158, les frais qui sont compris dans le coût d’emprunt et ceux qui en sont exclus;
+
 b) régir les remises qui doivent être consenties en application de l’article 159;
+
 c) prescrire les renseignements, autres que le coût d’emprunt, qui doivent être divulgués en application de l’article 160;
+
 d) prescrire le mode de calcul du coût d’emprunt pour l’application de l’article 160;
+
 e) prescrire les circonstances dans lesquelles le coût d’emprunt doit être exprimé sous forme de somme pour l’application de l’article 160;
+
 f) prescrire le mode de calcul des remises visées à la disposition 4 de l’article 161;
+
 g) prescrire les changements pour l’application de la disposition 6 de l’article 161, de la disposition 3 de l’article 163 et de la disposition 3 du paragraphe 164 (1);
+
 h) prescrire les droits et obligations des emprunteurs pour l’application de la disposition 7 de l’article 161, de la disposition 4 de l’article 163 et de la disposition 4 du paragraphe 164 (1);
+
 i) prescrire les renseignements qui doivent être divulgués en application de la disposition 8 de l’article 161, de la disposition 5 de l’article 163 et de la disposition 5 du paragraphe 164 (1);
+
 j) prescrire des renseignements pour l’application de l’article 162;
+
 k) prescrire des renseignements pour l’application de l’article 165;
+
 l) prescrire des questions pour l’application de l’alinéa 166 (1) b) et traiter, pour l’application du paragraphe 166 (2), de la forme et de la manière sous lesquelles les annonces publicitaires doivent être présentées et de leur contenu;
+
 m) prescrire le moment auquel la divulgation exigée aux termes des articles 160 à 166 doit être faite, la manière dont elle doit l’être et la forme qu’elle doit prendre;
+
 n) prescrire les catégories de prêts à l’égard desquelles ne s’applique pas tout ou partie des exigences prévues aux articles 159 à 166;
+
 o) interdire l’imposition des frais ou pénalités visés à l’article 161, 163 ou 164;
+
 p) régir la nature et le montant des frais ou pénalités visés à l’article 161, 163 ou 164 que peut imposer la caisse, notamment :
+
 i. prévoir que ces frais ou pénalités ne doivent pas dépasser le plafond prescrit par le règlement,
+
 ii. traiter du coût supporté par la caisse qui peut être inclus dans le calcul des frais ou pénalités ou qui doit en être exclu;
+
 q) traiter de toute autre mesure d’application des articles 159 à 166.
 
 ### Idem
@@ -4580,13 +5275,21 @@ q) traiter de toute autre mesure d’application des articles 159 à 166.
 ### Idem
 
 (2) Sans préjudice de la portée générale du paragraphe (1), les règlements qui régissent les pénalités administratives peuvent faire ce qui suit :
+
 a) prescrire les critères dont le directeur général doit ou peut tenir compte lors de l’imposition d’une pénalité en vertu de l’article 269;
+
 b) autoriser le directeur général à fixer le montant d’une pénalité qui n’est pas prescrit et prescrire les critères dont il doit ou peut tenir compte à cette fin;
+
 c) fixer des pénalités différentes ou des fourchettes différentes de pénalités pour des genres différents de contraventions et pour des catégories différentes de personnes et d’entités;
+
 d) autoriser l’imposition d’une pénalité pour chaque journée ou partie de journée pendant laquelle la contravention se poursuit;
+
 e) autoriser des pénalités plus élevées dans le cas d’une deuxième contravention ou d’une contravention subséquente par une personne ou une entité;
+
 f) exiger que la pénalité soit acquittée avant une date limite précisée ou avant la date limite que précise le directeur général;
+
 g) autoriser l’imposition de frais pour paiement tardif à l’égard des pénalités qui ne sont pas acquittées avant la date limite, y compris celle de frais pour paiement tardif progressifs;
+
 h) fixer la pénalité cumulative maximale payable à l’égard d’une contravention ou à l’égard de contraventions survenant au cours d’une période précisée.
 
 ### Incorporation par renvoi
@@ -4608,66 +5311,127 @@ h) fixer la pénalité cumulative maximale payable à l’égard d’une contrav
 ### Règles de l’Autorité
 
 285 (1) L’Autorité peut, par règle :
+
 1. Établir, à l’intention des caisses, des normes de pratiques commerciales et financières saines.
+
 2. Fixer les droits que la présente loi mentionne comme étant fixés par règle de l’Autorité.
+
 3. Traiter de la tenue des premières assemblées, des avis de convocation, du quorum et des questions à délibérer.
+
 4. Prescrire le nombre de particuliers nécessaires pour constituer une caisse en personne morale aux termes de l’article 10.
+
 5. Prescrire les renseignements pour l’application du paragraphe 12 (1).
+
 6. Préciser la date à laquelle se termine l’exercice de la caisse pour l’application de l’article 27.
+
 7. Régir l’adhésion à la caisse pour l’application de la partie III.
+
 8. Régir le retrait des sociétaires des caisses pour l’application de l’article 40.
+
 9. Régir la révocation de l’adhésion des sociétaires aux caisses pour l’application de l’article 41.
+
 10. Réglementer le maintien, par les caisses, de formes suffisantes et appropriées de capital et de liquidités.
+
 11. Traiter du capital réglementaire et de l’actif total des caisses.
+
 12. Prescrire les périodes d’application graduelle des exigences en matière de suffisance du capital selon une échelle progressive.
+
 13. Prescrire des catégories de filiales dont les actions peuvent être incluses dans le capital réglementaire des caisses.
+
 14. Régir les opérations entre les caisses ou leurs filiales et les personnes assujetties à des restrictions.
+
 14.1 Régir, pour l’application de l’article 82.1, la provision mensuelle pour prêts douteux et l’établissement de réserves.
+
 15. Prescrire les particuliers qui ne peuvent pas être administrateurs de la caisse pour l’application de l’article 84.
+
 16. Prescrire le nombre minimal d’administrateurs que doit avoir la caisse pour l’application de l’article 86.
+
 17. Régir l’élection des administrateurs pour l’application de l’article 87.
+
 18. Régir la composition des conseils d’administration pour l’application de l’article 88.
+
 19. Régir le mandat des administrateurs pour l’application de l’article 89.
+
 20. Régir le quorum pour l’application de l’article 90.
+
 21. Régir la dotation des vacances au sein du conseil pour l’application de l’article 91.
+
 22. Prescrire les circonstances pour l’application de l’article 92.
+
 23. Régir la destitution des administrateurs pour l’application de l’article 93.
+
 24. Régir la démission des administrateurs pour l’application de l’article 95.
+
 25. Régir la rémunération des administrateurs pour l’application de l’article 99.
+
 26. Régir la constitution des comités ainsi que la délégation des pouvoirs et l’attribution des fonctions aux comités pour l’application de l’article 101.
+
 27. Prescrire les pouvoirs et les fonctions des comités de vérification pour l’application du paragraphe 104 (2).
+
 28. Régir les dirigeants des caisses ainsi que leurs pouvoirs et fonctions pour l’application de l’article 105.
+
 29. Établir la marche à suivre pour fixer, verser et déclarer la rémunération et les dépenses des dirigeants pour l’application de l’article 106.
+
 30. Régir les cautionnements pour l’application du paragraphe 117 (2).
+
 31. Régir la nomination des vérificateurs et prescrire les qualités requises de ceux-ci pour l’application de l’article 125.
+
 32. Régir la destitution des vérificateurs pour l’application de l’article 126.
+
 33. Régir la démission des vérificateurs pour l’application de l’article 128.
+
 34. Régir le remplacement des vérificateurs pour l’application de l’article 129.
+
 35. Établir la marche à suivre pour fixer, verser et déclarer la rémunération des vérificateurs pour l’application de l’article 130.
+
 36. Prescrire les renseignements pour l’application du paragraphe 137 (2).
+
 37. Régir la transmission des rapports des vérificateurs pour l’application du paragraphe 137 (2).
+
 38. Prescrire les activités commerciales pour l’application de l’article 138.
+
 39. Autoriser le commerce d’articles ou de marchandises ou l’exercice d’activités commerciales pour l’application du paragraphe 139 (1).
+
 40. Régir les demandes d’approbation et les approbations pour l’application du paragraphe 139 (3).
+
 41. Prescrire les services interdits pour l’application du paragraphe 139 (4).
+
 42. Prescrire les personnes et les entités pour l’application du paragraphe 139 (5).
+
 43. Régir la mesure dans laquelle les caisses peuvent se livrer au commerce de l’assurance ou agir comme agents pour la souscription d’assurance pour l’application de l’article 141.
+
 44. Autoriser les caisses à exercer des activités fiduciaires pour l’application de l’article 142.
+
 46. Régir les restrictions applicables aux emprunts pour l’application du paragraphe 148 (2).
+
 47. Prescrire le sens de «emprunter» pour l’application du paragraphe 148 (3).
+
 48. Régir les sûretés grevant des biens pour l’application de l’article 149.
+
 49. Prescrire les types de valeurs mobilières ou de biens et prescrire les conditions pour l’application de l’article 167.
+
 50. Régir les avis de convocation pour l’application de l’article 175.
+
 51. Régir les assemblées annuelles des caisses pour l’application de l’article 176.
+
 52. Régir les propositions pour l’application de l’article 179.
+
 53. Prescrire les modes de scrutin pour l’application de l’article 182.
+
 54. Prescrire les exigences relatives aux règlements administratifs, visés à l’article 185, portant sur la participation à distance aux réunions des sociétaires.
+
 55. Prescrire les exigences relatives aux règlements administratifs, visés à l’article 186, portant sur la participation à distance aux réunions des administrateurs.
+
 56. Prescrire les renseignements pour l’application de l’article 191 et établir des limites ou restrictions à l’égard de leur utilisation.
+
 57. Prescrire les conditions pour l’application du paragraphe 218 (3).
+
 57.1 Définir «contrat financier admissible» pour l’application de l’article 234.1.
+
 58. Autoriser, surveiller et exiger l’utilisation par les caisses de marques, de signes, d’annonces ou autres moyens qui indiquent que les dépôts confiés aux caisses sont assurés par l’Autorité.
+
 59. Prescrire le nombre minimal de sociétaires pour l’application de l’alinéa 241 (1) c).
+
 60. Traiter de la procédure à suivre lors d’une liquidation pour l’application du paragraphe 247 (11).
 
 ### Loi de 2006 sur la législation
@@ -4713,12 +5477,17 @@ h) fixer la pénalité cumulative maximale payable à l’égard d’une contrav
 ### Droits
 
 290 Le ministre peut, par règlement, régir les droits exigibles en vertu de la présente loi, notamment :
+
 a) exiger le paiement de droits à l’égard d’une question visée à la présente loi, y compris les services fournis par le ministère des Finances ou par son intermédiaire;
+
 b) prescrire le montant des droits ou leur mode de calcul;
+
 c) prescrire le mode et le délai de paiement des droits.
 
 ### Partie xix (OMISE)
 
 291 à 339 Omis (modification ou abrogation d’autres textes législatifs).
+
 340 Omis (entrée en vigueur de dispositions de la présente loi).
+
 341 Omis (édiction du titre abrégé de la présente loi).

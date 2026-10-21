@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07o10"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Ontario Agency for Health Protection and Promotion Act, 2007
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07o10) before relying on it.
 
 S.O. 2007, c. 10, Sched. K
 
@@ -25,15 +25,25 @@ S.O. 2007, c. 10, Sched. K
 ### Definitions
 
 2 In this Act,
+
 “board of directors” means the board of directors of the Corporation; (“conseil d’administration”)
+
 “Chief Medical Officer of Health” means the Chief Medical Officer of Health under the Health Protection and Promotion Act; (“médecin-hygiéniste en chef”)
+
 “Corporation” means the Ontario Agency for Health Protection and Promotion established under section 3; (“Agence”)
+
 “fiscal year” means the period commencing on April 1 in each year and ending on March 31 of the following year; (“exercice”)
+
 “Minister” means the Minister of Health and Long-Term Care or such other member of the Executive Council to whom the administration of this Act may be assigned under the Executive Council Act; (“ministre”)
+
 “Ministry” means the Ministry of the Minister; (“ministère”)
+
 “personal health information” has the same meaning as in the Personal Health Information Protection Act, 2004; (“renseignements personnels sur la santé”)
+
 “personal information” has the same meaning as in the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
 “prescribed” means prescribed by regulation made under this Act, and “prescribe” has a corresponding meaning; (“prescrit”, “prescrire”)
+
 “revenue” includes all money or money’s worth received by the Corporation, whether by grant, gift, contribution, income, profit or otherwise. (“recettes”)
 
 ## part ii Corporation
@@ -53,16 +63,27 @@ S.O. 2007, c. 10, Sched. K
 ### Objects
 
 6 The objects of the Corporation are,
+
 (a) to provide scientific and technical advice and support to the health care system and the Government of Ontario in order to protect and promote the health of Ontarians and reduce health inequities;
+
 (b) to develop, disseminate and advance public health knowledge, best practices, and research in the areas of population health assessment, infectious diseases, health promotion, chronic diseases, injury prevention, and environmental health;
+
 (c) to inform and contribute to policy development processes across sectors of the health care system and within the Government of Ontario through advice and impact analysis of public health issues;
+
 (d) to develop, collect, use, analyse and disclose data, including population health, surveillance and epidemiological data, across sectors, including human health, environmental, animal, agricultural, education, community and social services and housing sectors, in a manner that informs and enhances healthy public policy and public health planning, evaluation and action;
+
 (e) to undertake, promote and co-ordinate public health research in co-operation with academic and research experts as well as the community;
+
 (f) to provide education and professional development for public health professionals, scientists, researchers, and policymakers across sectors;
+
 (g) to establish, operate and maintain laboratory centres and to provide laboratory services;
+
 (h) to serve as a model for bridging the areas of infection control and occupational health and safety;
+
 (i) to undertake research related to evaluating the modes of transmission of febrile respiratory illnesses and the risk to health workers;
+
 (j) as directed by the Chief Medical Officer of Health, to provide scientific and technical advice and operational support to any person or entity in an emergency or outbreak situation that has health implications; and
+
 (k) any additional objects the Lieutenant Governor in Council may prescribe.
 
 ### Powers
@@ -80,10 +101,15 @@ S.O. 2007, c. 10, Sched. K
 ### Lieutenant Governor in Council approval
 
 (4) The Corporation shall not exercise the following powers without the approval of the Lieutenant Governor in Council:
+
 1. Acquiring, disposing, leasing, mortgaging, charging, hypothecating or otherwise transferring or encumbering any interest in real property, except for leasing office and laboratory space that is reasonably necessary for the purposes of the Corporation.
+
 2. Borrowing or lending money.
+
 3. Investing money.
+
 4. Pledging, charging or encumbering any of its personal property.
+
 5. Creating a subsidiary.
 
 ### Additional limitations
@@ -97,8 +123,11 @@ S.O. 2007, c. 10, Sched. K
 ### Areas of expertise
 
 (2) In appointing the members of the board of directors, regard may be had to the desirability of appointing,
+
 (a) persons with skills and expertise in the areas covered by the Corporation’s objects, or in corporate governance;
+
 (b) a person with expertise in public accounting or with related financial experience; and
+
 (c) a lay person with demonstrated interest or experience in health issues.
 
 ### Term of office
@@ -108,7 +137,9 @@ S.O. 2007, c. 10, Sched. K
 ### Termination
 
 (4) A member ceases to be a member of the board of directors if, before the term of the member expires,
+
 (a) the Lieutenant Governor in Council revokes the member’s appointment; or
+
 (b) the member dies, resigns or becomes bankrupt.
 
 ### Successor’s term
@@ -154,8 +185,11 @@ S.O. 2007, c. 10, Sched. K
 ### Standing committees
 
 14 (1) The board of directors shall by by-law establish the following standing committees:
+
 1. A governance standing committee.
+
 2. A strategic planning standing committee.
+
 3. An audit standing committee.
 
 ### Additional standing committees
@@ -205,8 +239,11 @@ S.O. 2007, c. 10, Sched. K
 ### CMOH to be informed
 
 (3) The Corporation shall provide the Chief Medical Officer of Health with,
+
 (a) reasonable notice of any meeting of the board of directors;
+
 (b) the agenda for that meeting; and
+
 (c) any material that is to be considered at that meeting.
 
 ### Attendance of CMOH
@@ -228,7 +265,9 @@ S.O. 2007, c. 10, Sched. K
 ### Other audits
 
 (2) In addition to the requirement for an annual audit,
+
 (a) the Minister may, at any time, direct that one or more auditors licensed under the Public Accounting Act, 2004 audit the accounts and the financial transactions of the Corporation; and
+
 (b) the Auditor General may, at any time, audit any aspect of the operations of the Corporation.
 
 ### Annual business plan
@@ -250,8 +289,11 @@ S.O. 2007, c. 10, Sched. K
 ### Same
 
 (2) The Corporation shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -297,7 +339,9 @@ S.O. 2007, c. 10, Sched. K
 ### Immunity re transfer
 
 (5) Despite subsection (1), no proceeding for damages or otherwise shall be commenced against the Corporation, a director or officer of the Corporation, a member of a standing committee, or any person employed by the Corporation in respect of a claim,
+
 (a) that arises in connection with anything transferred under subsection (1); and
+
 (b) that arises solely in connection with events that occurred prior to the effective date of the transfer.
 
 ## PART V IMMUNITY and UNPAID JUDGMENts
@@ -337,18 +381,29 @@ S.O. 2007, c. 10, Sched. K
 ### Regulations
 
 30 (1) The Minister may make regulations,
+
 (a) prescribing, for the purposes of section 5, provisions of the Not-for-Profit Corporations Act, 2010 and the Corporations Information Act that apply to the Corporation, and any modifications to which those provisions are subject;
+
 (b) prescribing provisions of the Business Corporations Act, other than those mentioned in subsection 9 (7), that apply to the Corporation, and any modifications to which those provisions are subject;
+
 (c) governing the establishment of standing committees by the board of directors.
 
 ### Same, LG in C
 
 (2) The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing additional objects of the Corporation under clause 6 (k);
+
 (b) prescribing additional limitations to the Corporation’s powers under section 8;
+
 (c) respecting matters that relate to or arise as a result of a transfer under section 25, including matters related to present and future rights, obligations, privileges and liabilities;
+
 (d) respecting provisions of the Laboratory and Specimen Collection Centre Licensing Act and regulations under that Act that do not apply to a laboratory centre established by the Corporation, and any modifications to which those provisions are subject;
+
 (e) respecting any matter that the Lieutenant Governor in Council considers necessary or advisable to carry out effectively the intent and purpose of this Act.
+
 31, 32 Omitted (amends or repeals other Acts).
+
 33 Omitted (provides for coming into force of provisions of this Act).
+
 34 Omitted (enacts short title of this Act).

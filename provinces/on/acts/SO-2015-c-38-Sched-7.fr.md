@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2021-10-19"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15f38"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # biens sociaux confisqués (Loi de 2015 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/15f38) before relying on it.
 
 L.O. 2015, chap. 38, annexe 7
 
@@ -21,27 +21,49 @@ L.O. 2015, chap. 38, annexe 7
 ### Interprétation
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «biens immeubles sociaux confisqués» S’entend des biens décrits aux paragraphes (4) et (5). («forfeited corporate real property»)
+
 «biens meubles sociaux confisqués» S’entend des biens décrits au paragraphe (6). («forfeited corporate personal property»)
+
 «biens sociaux confisqués» Biens immeubles sociaux confisqués et biens meubles sociaux confisqués. («forfeited corporate property»)
+
 «Couronne» Sauf indication contraire, la Couronne du chef de l’Ontario. («Crown»)
+
 «fins de bienfaisance» S’entend :
+
 a) du soulagement de la pauvreté;
+
 b) de l’éducation;
+
 c) de l’avancement de la religion;
+
 d) de toute autre fin favorisant les intérêts de la collectivité. («charitable purposes»)
+
 «grèvement» Sous réserve des paragraphes (2) et (3), s’entend :
+
 a) d’une réclamation qui garantit un paiement ou l’exécution d’une obligation, y compris une charge prévue par la Loi sur l’enregistrement des droits immobiliers, une hypothèque, un privilège, une fiducie en garantie d’un prêt d’argent et un bref d’exécution;
+
 b) d’une sûreté, qu’elle garantisse un paiement ou l’exécution d’une obligation;
+
 c) d’une clause restrictive;
+
 d) d’un certificat d’affaire en instance;
+
 e) d’un droit au profit à prendre;
+
 f) de tout intérêt prescrit comme grèvement. («encumbrance»)
+
 «impôts fonciers» S’entend au sens de la partie XI de la Loi de 2001 sur les municipalités ou de la partie XIV de la Loi de 2006 sur la cité de Toronto, selon le cas. («real property taxes»)
+
 «ministre» Sauf indication contraire du contexte, le ministre du Développement économique, de l’Emploi et de l’Infrastructure ou l’autre membre du Conseil exécutif à qui la responsabilité de la présente loi est assignée ou transférée en vertu de la Loi sur le Conseil exécutif. Le terme «ministère» a un sens correspondant. («Minister»)
+
 «organisation caritative» Personne morale constituée à des fins de bienfaisance. («charitable corporation»)
+
 «personne morale anciennement propriétaire» Relativement à des biens sociaux confisqués, s’entend de la personne morale dont la dissolution a fait que les biens sont devenus des biens sociaux confisqués. («prior corporate owner»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
 
 ### Privilèges particuliers non des grèvements
@@ -59,17 +81,25 @@ f) de tout intérêt prescrit comme grèvement. («encumbrance»)
 ### Idem
 
 (5) Les biens immeubles et les intérêts sur ceux-ci mentionnés au paragraphe (4) comprennent ce qui suit :
+
 a) les charges prévues par la Loi sur l’enregistrement des droits immobiliers ou les hypothèques;
+
 b) les bâtiments ou les constructions qui sont détenus séparément du bien-fonds sur lequel ils se trouvent ou les intérêts sur de tels bâtiments ou constructions.
 
 ### Biens meubles sociaux confisqués
 
 (6) Les biens meubles, et les intérêts sur ceux-ci, sont des biens meubles sociaux confisqués dans les cas suivants :
+
 1. En raison de la dissolution d’une personne morale, les biens ont été confisqués au profit de la Couronne ou sont devenus la propriété de la Couronne à titre de biens vacants et, selon le cas :
+
 i. ils se trouvent dans, sur ou sous des biens immeubles sociaux confisqués,
+
 ii. ils ne se trouvent pas dans, sur ou sous des biens immeubles sociaux confisqués mais le ministre, après avoir consulté le tuteur et curateur public, est d’avis que le contrôle des biens meubles est nécessaire à l’une ou l’autre des fins suivantes :
+
 A. l’administration des biens immeubles sociaux confisqués,
+
 B. la gestion, sur des biens immeubles sociaux confisqués, des activités courantes ou d’une entreprise de la personne morale anciennement propriétaire de ces biens.
+
 2. Les biens meubles sont laissés dans, sur ou sous des biens immeubles sociaux confisqués, quel que soit le propriétaire des biens meubles.
 
 ### Dévolution
@@ -87,10 +117,15 @@ B. la gestion, sur des biens immeubles sociaux confisqués, des activités coura
 ### Non-application de la Loi
 
 (3) La présente loi ne s’applique pas aux biens sociaux confisqués dans les cas suivants :
+
 a) les biens sont des terrains miniers au sens de la Loi sur les mines ;
+
 b) les biens sont des droits miniers au sens de la Loi sur les mines, qui sont dissociés ou séparés des droits de surface au sens de cette loi;
+
 c) les biens sont assujettis au paragraphe 53 (1) de la Loi sur les mines ;
+
 d) les biens sont situés dans, sur ou sous un bien-fonds réservé en tant que parc provincial ou réserve de conservation en vertu de la Loi de 2006 sur les parcs provinciaux et les réserves de conservation ;
+
 e) les biens sont situés dans, sur ou sous des terres publiques au sens de la Loi sur les terres publiques.
 
 ### Biens qui deviennent des biens sociaux confisqués : effets généraux
@@ -116,17 +151,25 @@ e) les biens sont situés dans, sur ou sous des terres publiques au sens de la L
 ### Immunité
 
 (3) Sont irrecevables les actions ou autres instances, les ordonnances et les arrêtés introduits, rendus ou pris contre la Couronne, le ministre, le sous-ministre, un préposé ou mandataire de la Couronne ou un autre fonctionnaire ou employé de la Couronne au titre de ce qui suit :
+
 1. Un acte, une négligence, un manquement ou une omission de l’une des personnes suivantes qui a lieu sur un bien social confisqué ou qui l’affecte autrement :
+
 i. Une personne qui a conclu une entente ou une prétendue entente, selon ce qui est prévu au paragraphe 15 (6), lui donnant le droit d’occuper tout ou partie du bien.
+
 ii. Une personne qui utilise ou occupe le bien ou dont la présence sur le bien n’est pas autorisée.
+
 2. Un acte, une négligence, un manquement ou une omission de toute personne morale anciennement propriétaire.
+
 3. Un acte, une négligence, un manquement ou une omission d’une personne qui détient un intérêt sur un bien social confisqué, soit qui est lié à l’exécution de l’intérêt, soit qui a lieu sur le bien ou qui l’affecte autrement.
+
 4. Un acte, une négligence, un manquement ou une omission d’un administrateur, dirigeant, employé, mandataire, entrepreneur indépendant, invité, actionnaire ou membre d’une personne visée à la disposition 1, 2 ou 3.
 
 ### Idem
 
 (4) Sont irrecevables les actions ou autres instances, les ordonnances et les arrêtés introduits, rendus ou pris contre le ministre, le sous-ministre, un préposé ou mandataire de la Couronne ou un autre fonctionnaire ou employé de la Couronne au titre de ce qui suit :
+
 1. Un acte accompli de bonne foi dans l’exercice effectif ou censé tel des fonctions ou des pouvoirs que la présente loi attribue à la personne.
+
 2. Une négligence, un manquement ou une omission que la personne a commis dans l’exercice de bonne foi des fonctions ou des pouvoirs que la présente loi lui attribue.
 
 ### Idem
@@ -136,8 +179,11 @@ ii. Une personne qui utilise ou occupe le bien ou dont la présence sur le bien 
 ### Effet des par. (1) à (4)
 
 (6) Les paragraphes (1), (2), (3) et (4) :
+
 a) n’empêchent pas la délivrance d’une ordonnance ou d’un arrêté contre la Couronne à l’égard des biens sociaux confisqués si l’ordonnance ou l’arrêté est autorisé par une autre loi et que les dispositions de cette loi autorisant l’ordonnance ou l’arrêté lient la Couronne;
+
 b) ne s’appliquent pas aux instances introduites pour exécuter contre la Couronne les obligations que lui impose une entente écrite à laquelle elle est partie;
+
 c) n’imposent à la Couronne aucune nouvelle obligation à l’égard des biens sociaux confisqués.
 
 ### Décisions du ministre définitives
@@ -147,7 +193,9 @@ c) n’imposent à la Couronne aucune nouvelle obligation à l’égard des bien
 ### Aucun droit à un avis
 
 6 (1) Une personne n’a pas le droit de recevoir un avis prévu par la présente loi si, selon le cas :
+
 a) elle a expressément renoncé à ce droit, avant ou après la remise de l’avis;
+
 b) le ministre ne réussit pas à trouver son adresse après une recherche raisonnable et il ne la connaît pas par ailleurs.
 
 ### Idem : personne morale anciennement propriétaire dissoute depuis plus de 20 ans
@@ -205,8 +253,11 @@ b) le ministre ne réussit pas à trouver son adresse après une recherche raiso
 ### Idem
 
 (5) Un arrêté annulant un intérêt peut comprendre ce qui suit :
+
 1. Si l’intérêt est enregistré sur le titre d’un bien immeuble, des directives visant à supprimer du titre les documents précisés.
+
 2. Si l’intérêt porte sur un bien meuble et qu’un enregistrement a été effectué à l’égard de l’intérêt dans le réseau d’enregistrement établi en application de la Loi sur les sûretés mobilières, des directives visant à modifier de la façon précisée les renseignements enregistrés dans le registre central du réseau d’enregistrement.
+
 3. Dans les circonstances prescrites, des directives visant à modifier ou à supprimer des renseignements enregistrés dans tout autre registre public prescrit.
 
 ### Non-opposabilité et invalidité des intérêts
@@ -216,8 +267,11 @@ b) le ministre ne réussit pas à trouver son adresse après une recherche raiso
 ### Intérêts réputés opposables et valides
 
 (7) Un intérêt visé au paragraphe (1) à l’égard d’un bien immeuble social confisqué est réputé opposable et valide si les conditions suivantes sont réunies :
+
 a) le document qui donne effet à l’intérêt montre que la personne morale anciennement propriétaire y était partie;
+
 b) le document a été enregistré sur le titre du bien le jour où le bien a été enregistré en vertu de la Loi sur l’enregistrement des droits immobiliers ou par la suite et avant le jour où la Loi de 2015 sur les mesures budgétaires a reçu la première lecture;
+
 c) n’eût été la dissolution de la personne morale anciennement propriétaire, l’intérêt aurait été opposable et valide.
 
 ### Arrêté concernant un bien immeuble
@@ -255,30 +309,47 @@ c) n’eût été la dissolution de la personne morale anciennement propriétair
 ### Pouvoirs de l’administrateur-séquestre
 
 (3) L’entente peut autoriser l’administrateur-séquestre à prendre l’une ou l’autre des mesures suivantes, sous réserve de toutes conditions, restrictions ou exigences prévues dans l’entente :
+
 1. Exercer tout pouvoir que la présente loi confère au ministre conformément aux exigences de la présente loi, avec les adaptations nécessaires.
+
 2. Exercer un contrôle sur le bien et préserver et protéger celui-ci.
+
 3. Faire les paiements nécessaires à l’exploitation continue du bien.
+
 4. Demander à une autorité publique la délivrance ou le renouvellement de licences, permis, approbations, certificats ou autorisations.
+
 5. Faire tout ce que l’administrateur-séquestre estime opportun pour l’administration ou l’exploitation continue du bien, notamment :
+
 i. faire des réparations et apporter des améliorations,
+
 ii. percevoir des sommes d’argent et gérer des comptes,
+
 iii. gérer les dépenses,
+
 iv. gérer et exploiter toute activité commerciale associée au bien, y compris cesser d’exploiter tout ou partie de l’activité,
+
 v. mener des enquêtes à l’égard du bien,
+
 vi. conclure des ententes avec des experts-conseils, des évaluateurs ou d’autres experts pour qu’ils l’aident à exercer ses pouvoirs et ses fonctions.
+
 6. Faire tout ce qui est prescrit comme pouvoirs supplémentaires pour l’application du présent article.
 
 ### Fonctions de l’administrateur-séquestre
 
 (4) L’administrateur-séquestre :
+
 a) fait tout ce que l’administrateur-séquestre est tenu de faire en application de l’entente;
+
 b) conserve des dossiers détaillés de toutes les activités qu’il mène à l’égard du bien et fournit ces dossiers au ministre, sur demande;
+
 c) fournit au ministre un rapport définitif une fois qu’il a accompli les fonctions prévues par l’entente.
 
 ### Enregistrement
 
 (5) Le ministre enregistre l’arrêté visé au présent article :
+
 a) si l’arrêté concerne un bien immeuble, sur le titre du bien;
+
 b) si l’arrêté concerne un bien meuble, sur le titre du bien immeuble dans, sur ou sous lequel le bien meuble est situé.
 
 ### Administrateur-séquestre nommé par le tribunal
@@ -296,8 +367,11 @@ b) si l’arrêté concerne un bien meuble, sur le titre du bien immeuble dans, 
 ### Avis ordonnant de quitter les lieux : absence d’entente
 
 15 (1) Sous réserve du paragraphe (5), si un bien immeuble social confisqué est occupé, le ministre peut donner un avis :
+
 a) ordonnant aux occupants de quitter les lieux au plus tard à la date précisée;
+
 b) ordonnant aux occupants d’enlever leurs biens meubles des lieux au plus tard à la date précisée;
+
 c) avisant les occupants qu’il pourra disposer de tout bien meuble laissé dans, sur ou sous les lieux après la date précisée.
 
 ### Idem
@@ -319,11 +393,17 @@ c) avisant les occupants qu’il pourra disposer de tout bien meuble laissé dan
 ### Idem
 
 (6) Pour l’application du paragraphe (5), l’avis n’est pas opposable à une personne qui a conclu :
+
 a) soit une entente par écrit qui, à la fois :
+
 (i) était en vigueur le jour où le bien est devenu un bien social confisqué,
+
 (ii) donnait à la personne le droit d’occuper tout ou partie du bien;
+
 b) soit une prétendue entente par écrit qui, à la fois :
+
 (i) a été conclue après le jour où le bien est devenu un bien social confisqué,
+
 (ii) donnerait à la personne le droit d’occuper tout ou partie du bien.
 
 ### Avis ordonnant de quitter les lieux : entente
@@ -333,8 +413,11 @@ b) soit une prétendue entente par écrit qui, à la fois :
 ### Avis
 
 (2) Le ministre peut donner un avis, conformément aux règlements éventuels, à toute personne qui se trouve sur le bien conformément à une entente ou à une prétendue entente visée au paragraphe (1) :
+
 a) ordonnant à toute personne qui occupe le bien de quitter les lieux au plus tard à la date précisée dans l’avis;
+
 b) ordonnant l’enlèvement des lieux des biens meubles de toute personne qui occupe le bien au plus tard à la date précisée;
+
 c) l’avisant qu’il pourra disposer de tout bien meuble laissé dans, sur ou sous les lieux après la date précisée.
 
 ### Délai minimal de 60 jours
@@ -344,7 +427,9 @@ c) l’avisant qu’il pourra disposer de tout bien meuble laissé dans, sur ou 
 ### Délai plus court
 
 (4) Le délai peut être plus court si le ministre est d’avis :
+
 a) soit que la présence ou les actes de la personne présentent un risque lié au bien, un risque pour la santé ou la sécurité humaine ou un risque pour l’environnement;
+
 b) soit que la libre possession est nécessaire pour gérer un risque lié au bien, un risque pour la santé ou la sécurité humaine ou un risque pour l’environnement.
 
 ### Refus de quitter les lieux
@@ -384,14 +469,19 @@ b) soit que la libre possession est nécessaire pour gérer un risque lié au bi
 ### Annulation de grèvements
 
 18 (1) Le ministre peut prendre des arrêtés d’annulation de grèvements sur des biens sociaux confisqués qui :
+
 a) soit étaient opposables et valides à l’égard des biens avant qu’ils ne soient devenus des biens sociaux confisqués;
+
 b) soit sont réputés opposables et valides à l’égard des biens en application du paragraphe 11 (7).
 
 ### Idem
 
 (2) L’arrêté d’annulation de grèvements peut comprendre ce qui suit :
+
 1. Si le grèvement est enregistré sur le titre d’un bien immeuble, des directives visant à supprimer du titre les documents précisés.
+
 2. Si le grèvement porte sur un bien meuble et qu’un enregistrement a été effectué à l’égard du grèvement dans le réseau d’enregistrement établi en application de la Loi sur les sûretés mobilières, des directives visant à modifier de la façon précisée les renseignements enregistrés dans le registre central du réseau d’enregistrement.
+
 3. Dans les circonstances prescrites, des directives visant à modifier ou à supprimer des renseignements enregistrés dans tout autre registre public prescrit.
 
 ### Champ d’application
@@ -401,14 +491,19 @@ b) soit sont réputés opposables et valides à l’égard des biens en applicat
 ### Restriction ou annulation de clauses restrictives
 
 (4) Le ministre ne peut prendre un arrêté en vertu du présent article annulant une clause restrictive à l’égard d’un bien immeuble social confisqué que s’il est d’avis que la clause restrictive risque :
+
 a) soit de réduire la valeur ou la qualité marchande du bien ou d’en restreindre l’utilisation;
+
 b) soit d’affecter autrement la capacité du ministre à gérer le bien ou à en disposer.
 
 ### Délai de prise de l’arrêté
 
 (5) L’arrêté visé au présent article ne peut être pris avant le troisième anniversaire de la dissolution de la personne morale anciennement propriétaire si celle-ci a été dissoute en application de l’une des dispositions suivantes :
+
 1. Le paragraphe 241 (4) de la Loi sur les sociétés par actions ou une disposition qu’il remplace.
+
 2. Le paragraphe 317 (9) de la Loi sur les personnes morales ou une disposition qu’il remplace.
+
 3. Le paragraphe 170 (2) de la Loi de 2010 sur les organisations sans but lucratif ou une disposition qu’il remplace.
 
 ### Idem
@@ -430,30 +525,47 @@ b) soit d’affecter autrement la capacité du ministre à gérer le bien ou à 
 ### Remise de copie et publication de l’arrêté
 
 (10) Le ministre fait ce qui suit :
+
 a) il remet une copie de l’arrêté aux personnes suivantes :
+
 (i) toute personne à qui un avis a été donné en application de l’article 19 à l’égard du bien,
+
 (ii) toute personne qui a répondu au ministre en application de l’article 22 à l’égard du bien,
+
 (iii) toute autre personne qui en fait la demande;
+
 b) il publie l’arrêté sur un site Web du gouvernement ou sur un autre site Web accessible au public.
 
 ### Effet de l’arrêté
 
 (11) Malgré toute autre loi, l’arrêté d’annulation de grèvements pris en vertu du présent article éteint le droit d’exécuter le grèvement sur le bien ou le produit de sa disposition :
+
 a) à compter du jour de l’enregistrement de l’arrêté sur le titre, dans le cas d’un grèvement enregistré sur le titre du bien immeuble;
+
 b) à compter de la date de l’arrêté, pour tout autre grèvement.
 
 ### Exceptions
 
 (12) L’arrêté visé au présent article n’a pas pour effet d’annuler :
+
 1. Les intérêts de la Couronne du chef du Canada.
+
 2. Les intérêts de la Couronne du chef de l’Ontario.
+
 3. Les servitudes.
+
 4. Les conventions de mitoyenneté.
+
 5. Les empiètements enregistrés.
+
 6. Les intérêts ou titres acquis par possession adversative avant que le bien ne soit devenu un bien immeuble social confisqué.
+
 7. Les dettes de la personne morale anciennement propriétaire contractées au titre des impôts fonciers.
+
 8. Les dettes de la personne morale anciennement propriétaire contractées au titre des impôts fonciers au sens de la Loi de 2006 sur l’impôt foncier provincial.
+
 9. Les intérêts qui sont indiqués dans l’arrêté comme n’étant pas annulés.
+
 10. Les intérêts prescrits pour l’application du présent paragraphe.
 
 ### Avis d’intention d’annuler des grèvements
@@ -463,14 +575,23 @@ b) à compter de la date de l’arrêté, pour tout autre grèvement.
 ### Contenu de l’avis
 
 (2) L’avis contient les renseignements suivants :
+
 1. La dénomination sociale de la personne morale anciennement propriétaire.
+
 2. La date à laquelle la personne morale anciennement propriétaire a été dissoute.
+
 3. Des renseignements qui permettent d’identifier le bien, tels que :
+
 i. la cote foncière, la description légale et l’adresse municipale, dans le cas d’un bien immeuble,
+
 ii. le numéro d’identification du véhicule, dans le cas d’un véhicule automobile,
+
 iii. une description du bien, dans le cas d’un autre type de bien meuble.
+
 4. Une déclaration indiquant qu’à la date précisée dans l’avis ou par la suite, tout grèvement visé dans l’avis concernant le bien identifié, qu’il soit enregistré ou non, peut être annulé sans nouvel avis.
+
 5. Une déclaration expliquant les effets de l’arrêté.
+
 6. Une déclaration expliquant que la personne peut répondre à l’avis selon les modalités indiquées à l’article 22.
 
 ### Description des grèvements non couverts
@@ -480,28 +601,47 @@ iii. une description du bien, dans le cas d’un autre type de bien meuble.
 ### Mentions supplémentaires dans certains avis
 
 (4) L’avis peut contenir :
+
 a) dans le cas d’un avis à une municipalité à l’égard d’un bien immeuble, une demande pour qu’elle indique les éventuels impôts fonciers impayés et les pénalités et intérêts sur ces impôts ainsi que toute autre dette due à la municipalité à l’égard du bien;
+
 b) dans le cas d’un avis à la Couronne du chef du Canada, une demande pour qu’elle indique toute dette de la personne morale anciennement propriétaire envers elle ou toute dette qui existait à l’égard du bien;
+
 c) dans le cas d’un avis à un ministre de la Couronne du chef de l’Ontario, une demande pour qu’il indique :
+
 (i) toute dette de la personne morale anciennement propriétaire envers la Couronne du chef de l’Ontario ou toute dette qui existait à l’égard du bien,
+
 (ii) les éventuels coûts et dépenses engagés par la Couronne du chef de l’Ontario à l’égard du bien.
 
 ### Personnes ayant droit à l’avis d’intention
 
 20 L’avis visé à l’article 19 par lequel le ministre indique son intention de prendre un arrêté d’annulation de grèvements sur des biens sociaux confisqués est donné aux personnes suivantes :
+
 1. Dans le cas de biens comprenant un bien immeuble enregistré en application de la Loi sur l’enregistrement des droits immobiliers, toute personne qui, la veille de la délivrance de l’avis, semble avoir un intérêt sur le bien, d’après le registre des parcelles.
+
 2. Dans le cas de biens comprenant un bien immeuble auquel s’applique la Loi sur l’enregistrement des actes, toute personne qui, la veille de la délivrance de l’avis, semble avoir un intérêt sur le bien, d’après le répertoire par lot.
+
 3. Toute personne qui semble être un créancier saisissant de la personne morale anciennement propriétaire, d’après la base de données électronique maintenue par le shérif du secteur dans lequel le bien est situé.
+
 4. Dans le cas d’un bien immeuble, le secrétaire de chaque municipalité dans laquelle le bien est situé ou, s’il est situé dans un territoire non érigé en municipalité, le ministre chargé de l’application de la Loi de 2006 sur l’impôt foncier provincial.
+
 5. Dans le cas d’un bien meuble, toute personne qui, la veille de la délivrance de l’avis, bénéficie d’une sûreté sur le bien ou revendique un privilège à l’égard du bien, si la sûreté ou la revendication a été enregistrée dans le réseau d’enregistrement établi en application de la Loi sur les sûretés mobilières :
+
 i. soit à l’égard de la personne morale anciennement propriétaire,
+
 ii. soit à l’égard du numéro d’identification du véhicule automobile, au sens des règlements pris en vertu de la Loi sur les sûretés mobilières, si le bien est un véhicule automobile.
+
 6. Dans le cas d’un bien meuble à l’égard duquel un avis de sûreté est enregistré sur le titre d’un bien immeuble, chaque personne qui, la veille de la remise de l’avis d’intention de prendre un arrêté d’annulation de grèvements, semble bénéficier d’une sûreté sur le bien meuble.
+
 7. La personne morale anciennement propriétaire.
+
 8. Toute personne figurant en qualité d’administrateur ou de dirigeant de la personne morale anciennement propriétaire sur les plus récents avis ou déclarations déposés en application de la Loi sur les renseignements exigés des personnes morales, ou sur les statuts ou les lettres patentes de la personne morale, selon ce qui était le plus à jour la veille de sa dissolution.
+
 9. Dans le cas d’un bien faisant partie d’une propriété, au sens de la Loi de 1998 sur les condominiums, à laquelle s’appliquent la mission et les devoirs d’une association condominiale prévus à l’article 17 de cette loi, cette association.
+
 10. La Couronne du chef du Canada.
+
 11. Tout ministre de la Couronne du chef de l’Ontario qui, d’après le ministre, peut avoir un intérêt sur le bien.
+
 12. Les autres personnes prescrites.
 
 ### Moyens de remise de l’avis d’intention
@@ -515,8 +655,11 @@ ii. soit à l’égard du numéro d’identification du véhicule automobile, au
 ### Moyens additionnels de donner l’avis
 
 (3) Le ministre peut donner l’avis à l’aide des moyens additionnels qu’il estime appropriés, notamment :
+
 a) en affichant l’avis à l’emplacement du bien;
+
 b) en publiant l’avis dans un journal à grande diffusion du secteur dans lequel le bien est situé;
+
 c) en publiant l’avis sur un site Web du gouvernement ou sur un autre site Web accessible au public.
 
 ### Avis à la personne morale anciennement propriétaire
@@ -534,15 +677,21 @@ c) en publiant l’avis sur un site Web du gouvernement ou sur un autre site Web
 ### Coordonnées
 
 (3) La personne qui répond au ministre fournit ce qui suit :
+
 a) ses coordonnées, notamment ses nom, adresse et numéro de téléphone, et son adresse électronique, si elle en a une;
+
 b) si elle est représentée par un mandataire ou un autre représentant, les coordonnées de ce dernier, notamment ses nom, adresse et numéro de téléphone, et son adresse électronique, s’il en a une.
 
 ### Avis prévu par d’autres lois insuffisant
 
 (4) L’avis d’instance relatif à un bien social confisqué signifié à la Couronne en application de l’une ou l’autre des dispositions suivantes n’est pas une réponse pour l’application du paragraphe (1) :
+
 1. L’article 242 de la Loi sur les sociétés par actions.
+
 2. L’article 318 de la Loi sur les personnes morales.
+
 3. L’article 31 de la Loi sur les hypothèques.
+
 4. L’article 171 de la Loi de 2010 sur les organisations sans but lucratif ou une disposition qu’il remplace.
 
 ### Arrêté supprimant un avis donné en application de l’art. 19
@@ -552,10 +701,15 @@ b) si elle est représentée par un mandataire ou un autre représentant, les co
 ### Copie de l’arrêté
 
 (2) S’il prend un arrêté ordonnant la suppression d’un avis en vertu du paragraphe (1), le ministre fait ce qui suit :
+
 a) il remet une copie de l’arrêté aux personnes suivantes :
+
 (i) toute personne à qui un avis a été donné en application de l’article 19 à l’égard du bien,
+
 (ii) toute personne qui a répondu au ministre en application de l’article 22 à l’égard du bien,
+
 (iii) toute autre personne qui en fait la demande;
+
 b) il en donne avis à l’aide des moyens additionnels qu’il a utilisés, le cas échéant, en vertu du paragraphe 21 (3) pour donner l’avis à l’égard du bien.
 
 ### Enregistrement : arrêté concernant un bien immeuble
@@ -577,8 +731,11 @@ b) il en donne avis à l’aide des moyens additionnels qu’il a utilisés, le 
 ### Restriction : certaines dissolutions
 
 (2) Le ministre ne doit pas enregistrer l’avis avant le troisième anniversaire de la dissolution de la personne morale anciennement propriétaire si celle-ci a été dissoute en application de l’une des dispositions suivantes :
+
 1. Le paragraphe 241 (4) de la Loi sur les sociétés par actions ou une disposition qu’il remplace.
+
 2. Le paragraphe 317 (9) de la Loi sur les personnes morales ou une disposition qu’il remplace.
+
 3. Le paragraphe 170 (2) de la Loi de 2010 sur les organisations sans but lucratif ou une disposition qu’il remplace.
 
 ### Idem : coopératives
@@ -596,7 +753,9 @@ b) il en donne avis à l’aide des moyens additionnels qu’il a utilisés, le 
 ### Restriction : dissolutions involontaires
 
 (6) La Couronne ne doit pas commencer à utiliser à ses fins des biens meubles sociaux confisqués avant :
+
 a) soit le troisième anniversaire de la dissolution de la personne morale anciennement propriétaire si celle-ci a été dissoute en application de l’une des dispositions énumérées au paragraphe (2);
+
 b) soit le deuxième anniversaire de la dissolution de la personne morale anciennement propriétaire s’il s’agissait d’une coopérative dissoute en application du paragraphe 167 (2) de la Loi sur les sociétés coopératives ou d’une disposition qu’il remplace.
 
 ### Exception
@@ -606,7 +765,9 @@ b) soit le deuxième anniversaire de la dissolution de la personne morale ancien
 ### Restriction : processus de vente pour impôts municipaux
 
 (8) Si une municipalité a enregistré un certificat d’arriérés d’impôts à l’égard d’un bien-fonds en vertu de l’article 373 ou 373.1 de la Loi de 2001 sur les municipalités ou de l’article 344 ou 344.1 de la Loi de 2006 sur la cité de Toronto, le ministre ne doit pas enregistrer l’avis prévu au paragraphe (1) à l’égard du bien-fonds avant :
+
 a) soit le jour où le trésorier de la municipalité enregistre un certificat d’annulation des arriérés d’impôts à l’égard du bien-fonds;
+
 b) soit le jour où le certificat d’arriérés d’impôts est réputé annulé en application du paragraphe 379 (15) de la Loi de 2001 sur les municipalités ou du paragraphe 350 (15) de la Loi de 2006 sur la cité de Toronto.
 
 ### Loi qui ne s’applique plus
@@ -618,15 +779,21 @@ b) soit le jour où le certificat d’arriérés d’impôts est réputé annul�
 ### Disposition des biens sociaux confisqués
 
 25 (1) Le ministre peut, en vertu de la présente loi, disposer des biens sociaux confisqués :
+
 a) au prix qu’il estime approprié;
+
 b) sous réserve des conditions qu’il estime appropriées;
+
 c) de la manière et au moment qu’il estime appropriés.
 
 ### Restriction : dissolutions involontaires
 
 (2) Le ministre ne doit pas disposer des biens avant le troisième anniversaire de la dissolution de la personne morale anciennement propriétaire si celle-ci a été dissoute en application de l’une des dispositions suivantes :
+
 1. Le paragraphe 241 (4) de la Loi sur les sociétés par actions ou une disposition qu’il remplace.
+
 2. Le paragraphe 317 (9) de la Loi sur les personnes morales ou une disposition qu’il remplace.
+
 3. Le paragraphe 170 (2) de la Loi de 2010 sur les organisations sans but lucratif ou une disposition qu’il remplace.
 
 ### Idem : coopératives
@@ -636,16 +803,27 @@ c) de la manière et au moment qu’il estime appropriés.
 ### Exceptions
 
 (4) Malgré les paragraphes (2) et (3), le ministre peut disposer des biens à tout moment :
+
 a) après avoir donné avis de la disposition :
+
 (i) d’une part, conformément aux règlements éventuels, à la personne morale anciennement propriétaire et à toute personne figurant en qualité d’administrateur ou de dirigeant de la personne morale sur les plus récents avis ou déclarations déposés en application de la Loi sur les renseignements exigés des personnes morales, ou sur les statuts ou les lettres patentes de la personne morale, selon ce qui était le plus à jour la veille de sa dissolution,
+
 (ii) d’autre part, en le publiant sur un site Web du gouvernement ou sur un autre site Web accessible au public et en l’affichant :
+
 (A) dans le cas d’un bien immeuble, à l’emplacement du bien immeuble,
+
 (B) dans le cas d’un bien meuble, à l’emplacement du bien meuble ou du bien immeuble dans, sur ou sous lequel le bien meuble est situé;
+
 b) sans donner avis de la disposition conformément à l’alinéa a), s’il est d’avis :
+
 (i) dans le cas d’un bien immeuble ou d’un bien meuble, que le bien présente un risque pour la santé ou la sécurité humaine ou un risque pour l’environnement,
+
 (ii) dans le cas d’un bien meuble, que, selon le cas :
+
 (A) le bien est périssable,
+
 (B) le bien est susceptible de se déprécier rapidement,
+
 (C) il y aurait des frais associés à la gestion ou à l’entreposage du bien.
 
 ### Loi de 1998 sur les condominiums
@@ -659,9 +837,13 @@ b) sans donner avis de la disposition conformément à l’alinéa a), s’il es
 ### Délai de présentation de la demande
 
 (2) Sous réserve du paragraphe (3), la demande visée au présent article doit être présentée avant le premier en date des jours suivants :
+
 1. Le jour qui tombe 10 ans après le jour où le bien est devenu un bien social confisqué.
+
 2. Le jour où le ministre dispose de l’intérêt de la Couronne sur le bien.
+
 3. Dans le cas d’un bien immeuble, le jour où un avis est enregistré sur le titre du bien en vertu de l’article 24, indiquant que la Couronne a l’intention d’utiliser le bien à ses fins.
+
 4. Dans le cas d’un bien meuble, le jour où la Couronne commence à utiliser le bien à ses fins.
 
 ### Exception
@@ -679,28 +861,47 @@ b) sans donner avis de la disposition conformément à l’alinéa a), s’il es
 ### Considérations
 
 (6) Lorsqu’il décide de disposer ou non d’un bien en vertu du présent article, le ministre peut tenir compte de ce qui suit :
+
 a) la question de savoir si l’auteur de la demande aurait pu présenter une réclamation contre la personne morale anciennement propriétaire mais ne l’a pas fait, et les motifs invoqués par lui, le cas échéant, pour ne pas l’avoir fait;
+
 b) la nature de la réclamation juridique ou morale de l’auteur de la demande à l’égard du bien;
+
 b.1) la question de savoir si le bien appartenait à la personne morale anciennement propriétaire en qualité de tenant conjoint;
+
 c) la relation de l’auteur de la demande avec la personne morale anciennement propriétaire ou les actionnaires ou membres de celle-ci;
+
 d) la question de savoir si l’auteur de la demande a conclu une convention en vue d’acheter le bien et, le cas échéant, la date à laquelle il l’a conclue;
+
 e) la question de savoir si des sommes sont dues à la Couronne relativement au bien et, le cas échéant, la manière de les recouvrer;
+
 f) la question de savoir si l’auteur de la demande a engagé des frais relativement au bien après que celui-ci est devenu un bien social confisqué;
+
 g) la question de savoir si l’auteur de la demande a des dettes envers la Couronne;
+
 h) la question de savoir si le bien est un bien destiné à des fins de bienfaisance;
+
 i) la question de savoir s’il existe des impôts fonciers en souffrance à l’égard du bien, et s’ils ont été payés après que celui-ci est devenu un bien social confisqué, comme s’ils étaient exigibles;
+
 j) la question de savoir s’il existe des impôts fonciers au sens de la Loi de 2006 sur l’impôt foncier provincial en souffrance à l’égard du bien, et s’ils ont été payés après que celui-ci est devenu un bien social confisqué, comme s’ils étaient exigibles;
+
 k) la question de savoir s’il existe des dettes envers une municipalité à l’égard du bien et si elles ont été remboursées après que celui-ci est devenu un bien social confisqué;
+
 l) la question de savoir s’il existe des grèvements à l’égard du bien et si le ministre a pris un arrêté d’annulation de grèvements sur le bien;
+
 m) la question de savoir si des réclamations concurrentes existent à l’égard du bien;
+
 n) toute autre question que le ministre estime pertinente.
 
 ### Idem : habitation
 
 (7) Lorsqu’il décide, en vertu du présent article, de disposer ou non d’un bien qui est utilisé à des fins d’habitation, le ministre peut également tenir compte de ce qui suit :
+
 a) la question de savoir si le bien est un foyer conjugal;
+
 b) la question de savoir si l’auteur de la demande est le conjoint du particulier qui était l’unique actionnaire ou membre de la personne morale anciennement propriétaire;
+
 c) la question de savoir si l’auteur de la demande et son conjoint étaient les seuls actionnaires ou membres de la personne morale anciennement propriétaire;
+
 d) la question de savoir si l’auteur de la demande occupe le bien à titre de résidence principale.
 
 ### Biens destinés à des fins de bienfaisance
@@ -710,18 +911,27 @@ d) la question de savoir si l’auteur de la demande occupe le bien à titre de 
 ### Disposition en faveur d’une personne autre qu’un organisme de bienfaisance
 
 (2) S’il dispose d’un bien destiné à des fins de bienfaisance qui est un bien social confisqué en le transférant ou en le cédant par n’importe quel moyen à une personne autre qu’un organisme de bienfaisance, le ministre peut verser une somme ne dépassant pas le montant du produit de la disposition à l’organisme de bienfaisance qu’il juge approprié dans les circonstances après avoir consulté le tuteur et curateur public, en prélevant ce montant sur les fonds affectés à cette fin par la Législature.
+
 28 Abrogé : 2020, chap. 34, annexe 6, art. 6.
 
 ### Arrêté de transfert de certains biens immeubles
 
 29 (1) Le ministre peut, par arrêté, transférer un bien immeuble social confisqué, conformément aux paragraphes (1.1) et (2), à l’une ou l’autre des personnes ou entités suivantes, selon ce qu’il estime approprié :
+
 0.1 Tout autre copropriétaire enregistré sur le titre.
+
 1. Une municipalité dans laquelle le bien est situé.
+
 2. L’office de protection de la nature qui a compétence sur toute zone dans laquelle le bien est situé.
+
 2.1 Une régie chargée d’une zone de routes locales établie en vertu de la Loi sur les régies des routes locales.
+
 2.2 Une Régie locale des services publics créée en vertu de la partie 1 de la Loi sur les régies des services publics du Nord.
+
 3. Dans le cas d’un bien faisant partie d’une propriété, au sens de la Loi de 1998 sur les condominiums, à laquelle s’appliquent la mission et les devoirs d’une association condominiale prévus à l’article 17 de cette loi, cette association.
+
 4. Une personne ou entité propriétaire d’un bien attenant.
+
 5. Une personne ou entité prescrite.
 
 ### Transfert à un copropriétaire
@@ -731,29 +941,45 @@ d) la question de savoir si l’auteur de la demande occupe le bien à titre de 
 ### Biens pouvant être transférés
 
 (2) Les biens suivants peuvent être transférés en vertu du présent article s’ils ne sont pas transférés à un copropriétaire :
+
 1. Une unité condominiale qui n’est ni habitable ni utilisable à des fins commerciales, y compris :
+
 i. une unité affectée au stationnement accessible,
+
 ii. une unité affectée à l’entreposage, notamment l’entreposage des ordures,
+
 iii. une unité conçue pour servir d’espace pour les services ou les installations, notamment les installations mécaniques.
+
 2. Un lot ou une pièce figurant dans un plan de lotissement, si, selon le cas :
+
 i. le lot ou la pièce est une emprise de un pied, constitue un moyen d’accès tel qu’un passage pour piétons, une chaussée, un chemin, une allée, une lagune ou une autre voie navigable, ou est affecté à la gestion des eaux pluviales ou à un autre service susceptible de profiter aux biens-fonds du lotissement ou à la zone environnante,
+
 ii. les conditions d’approbation de l’ébauche du plan de lotissement exigent le transfert du lot ou de la pièce à une entité particulière si le plan est approuvé,
+
 iii. le lot ou la pièce se situe dans une zone qui relève de la compétence d’un office de protection de la nature.
+
 3. Les biens prescrits.
 
 ### Cessionnaire
 
 (3) Lorsqu’il décide de la personne ou de l’entité à laquelle il convient de transférer un bien en vertu du présent article, le ministre peut tenir compte de ce qui suit :
+
 a) l’usage auquel est destiné le bien;
+
 b) les caractéristiques physiques du bien, notamment ses dimensions, la pente et la végétation;
+
 c) les intérêts de chaque municipalité dans laquelle le bien est situé;
+
 d) les observations reçues par le ministre de la part du cessionnaire prévu;
+
 e) tout autre renseignement qu’il considère pertinent.
 
 ### Avis
 
 (4) Si le ministre a l’intention de prendre un arrêté en vertu du présent article, il en donne avis conformément aux règlements éventuels :
+
 a) à chaque municipalité dans laquelle le bien est situé;
+
 b) si le cessionnaire prévu n’est pas une municipalité, au cessionnaire prévu.
 
 ### Observations
@@ -763,7 +989,9 @@ b) si le cessionnaire prévu n’est pas une municipalité, au cessionnaire pré
 ### Consentement requis
 
 (6) Le ministre ne doit pas prendre d’arrêté en vertu du présent article sans le consentement du cessionnaire prévu si, selon le cas :
+
 a) le transfert proposé sera effectué en faveur d’une personne ou entité mentionnée à la disposition 4 du paragraphe (1) qui n’est pas aussi visée à la disposition 1, 2 ou 3 de ce paragraphe;
+
 b) le transfert proposé sera effectué en faveur d’une personne ou entité prescrite en vertu de la disposition 5 du paragraphe (1) et que le règlement prescrivant la personne ou l’entité précise que le consentement de cette dernière est exigé.
 
 ### Contenu de l’arrêté
@@ -783,21 +1011,33 @@ b) le transfert proposé sera effectué en faveur d’une personne ou entité pr
 ### Sommes dues à la Couronne
 
 30 (1) Le ministre peut établir, conformément aux règlements éventuels, les sommes suivantes relativement à chaque bien social confisqué :
+
 1. Les frais engagés par la Couronne, notamment :
+
 i. les frais engagés avant le jour de l’entrée en vigueur du présent article,
+
 ii. les frais engagés relativement à la disposition du bien.
+
 2. Les sommes que la Couronne pourrait être tenue de payer aux termes d’une entente.
+
 2.1 Les sommes qui constituent une créance de la Couronne aux termes d’une entente.
+
 3. Les frais raisonnables au titre du temps et des ressources consacrés relativement au bien par les employés de la Couronne.
+
 4. Le montant des droits imposés en application de la présente loi.
 
 ### Créances de la Couronne
 
 (2) Les sommes établies en vertu du paragraphe (1) sont des créances de la Couronne qui peuvent être recouvrées notamment :
+
 a) par prélèvement sur le produit :
+
 (i) de tout ou partie du bien,
+
 (ii) de tout autre bien social confisqué qui appartenait à la même personne morale anciennement propriétaire;
+
 b) par ordonnance rendue en vertu de l’article 31 enjoignant à un ancien administrateur ou dirigeant de la personne morale anciennement propriétaire de payer tout ou partie des sommes;
+
 c) par recouvrement des sommes couvertes par un privilège particulier qui est réputé opposable à l’égard du bien en application de l’article 32.
 
 ### Idem
@@ -807,7 +1047,9 @@ c) par recouvrement des sommes couvertes par un privilège particulier qui est r
 ### Ordonnance contre les anciens administrateurs et dirigeants
 
 31 (1) Le ministre peut demander à la Cour supérieure de justice de rendre une ordonnance :
+
 a) déterminant les particuliers qui étaient les administrateurs ou dirigeants de la personne morale anciennement propriétaire du bien;
+
 b) enjoignant aux particuliers déterminés en vertu de l’alinéa a) de payer tout ou partie des sommes établies en vertu de l’article 30.
 
 ### Idem
@@ -833,8 +1075,11 @@ b) enjoignant aux particuliers déterminés en vertu de l’alinéa a) de payer 
 ### Privilège particulier
 
 32 (1) Dans les circonstances visées au paragraphe (2) ou (3), les sommes établies en vertu de l’article 30 constituent un privilège particulier :
+
 a) sur le bien immeuble social confisqué auquel elles se rapportent;
+
 b) si elles se rapportent à un bien meuble décrit à la sous-disposition 1 i du paragraphe 1 (6), sur le bien immeuble social confisqué décrit à cette sous-disposition;
+
 c) si elles se rapportent à un bien meuble décrit à la sous-disposition 1 ii du paragraphe 1 (6), sur le bien immeuble social confisqué décrit à cette sous-disposition.
 
 ### Personne morale reconstituée
@@ -868,7 +1113,9 @@ c) si elles se rapportent à un bien meuble décrit à la sous-disposition 1 ii 
 ### Idem : exceptions
 
 (9) Le paragraphe (8) ne s’applique pas dans les circonstances suivantes :
+
 1. Une personne agissant pour le compte de la Couronne dispose du bien.
+
 2. Le bien est un bien immeuble vendu par une municipalité pour arriérés d’impôts.
 
 ### Distribution du produit
@@ -890,14 +1137,23 @@ c) si elles se rapportent à un bien meuble décrit à la sous-disposition 1 ii 
 ### Ordre de priorité pour le reliquat du produit
 
 (5) Les paiements prélevés sur le produit de la disposition sont effectués selon l’ordre de priorité suivant :
+
 1. Pour payer, selon leur rang de priorité établi par la loi, toutes sommes dues à l’égard de fiducies créées en faveur de la Couronne du chef du Canada par une loi du Parlement, si les fiducies établissent des intérêts bénéficiaires sur le bien.
+
 2. Pour payer, selon leur rang de priorité établi par la loi, toutes sommes dues à l’égard de fiducies créées en faveur de la Couronne du chef de l’Ontario par une loi, si les fiducies établissent des intérêts bénéficiaires sur le bien.
+
 3. Pour payer, selon le cas :
+
 i. les impôts fonciers impayés et les pénalités et intérêts sur ces impôts,
+
 ii. les impôts fonciers dus à la Couronne en application de la Loi de 2006 sur l’impôt foncier provincial.
+
 4. Pour payer, selon leur rang de priorité établi par la loi, les sommes nécessaires pour acquitter les grèvements auxquels le bien est assujetti au moment de la disposition, si la disposition est assortie d’une condition exigeant l’acquittement des grèvements.
+
 5. Pour payer toutes autres sommes dues, à l’égard du bien, à la Couronne du chef du Canada, à la Couronne du chef de l’Ontario ou à une municipalité, selon les modalités suivantes :
+
 i. Si le total des sommes dues est inférieur ou égal au reliquat du produit de la disposition, pour les payer intégralement.
+
 ii. Si le total des sommes dues est supérieur au reliquat du produit de la disposition, pour payer la Couronne du chef du Canada, la Couronne du chef de l’Ontario et chaque municipalité, au prorata de leur part respective dans le total qui est dû.
 
 ### Exception : entente à propos de l’ordre de priorité
@@ -907,7 +1163,9 @@ ii. Si le total des sommes dues est supérieur au reliquat du produit de la disp
 ### Différends
 
 (7) S’il établit qu’il existe un différend concernant la distribution, le ministre peut, selon le cas :
+
 a) consigner à la Cour supérieure de justice la somme totale qui peut être distribuée et y joindre une déclaration indiquant les personnes ou entités qui, selon lui, pourraient avoir droit à des paiements ainsi que les motifs pour lesquels il a établi qu’il existait un différend;
+
 b) suivre le processus prescrit, le cas échéant, en matière de résolution des différends.
 
 ### Idem : publication
@@ -947,8 +1205,11 @@ b) suivre le processus prescrit, le cas échéant, en matière de résolution de
 ### Possibilité de certains recours
 
 34.1 Il est entendu :
+
 a) qu’une ordonnance de cession ne peut être accordée en vertu de l’article 100 de la Loi sur les tribunaux judiciaires à l’égard d’un bien social confisqué;
+
 b) qu’un jugement déclaratoire peut être accordé à l’égard d’un bien social confisqué;
+
 c) qu’un bien immeuble social confisqué peut être vendu par suite d’une instance visant l’exercice d’un pouvoir de vente conformément à l’alinéa 242 (1) d) de la Loi sur les sociétés par actions.
 
 ### Collecte et utilisation de renseignements
@@ -960,20 +1221,27 @@ c) qu’un bien immeuble social confisqué peut être vendu par suite d’une in
 ### Collecte directe ou indirecte
 
 (2) La collecte autorisée par le paragraphe (1) peut être effectuée :
+
 a) soit directement;
+
 b) soit indirectement, si une collecte indirecte est raisonnablement nécessaire dans les circonstances.
 
 ### Avis général concernant la collecte
 
 (3) S‘il recueille des renseignements personnels indirectement, le ministre donne un avis général concernant la collecte selon les modalités suivantes ou l’une d’entre elles :
+
 1. En affichant l’avis sur le bien social confisqué concerné.
+
 2. En publiant l’avis sur un site Web du gouvernement ou sur un autre site Web accessible au public.
 
 ### Contenu
 
 (4) L’avis prévu au paragraphe (3) contient les renseignement suivants :
+
 a) une description du type de renseignements personnels recueillis;
+
 b) une déclaration de la principale fin à laquelle on prévoit d’utiliser les renseignements personnels;
+
 c) les titre, adresse et numéro de téléphone d’affaires d’un fonctionnaire public susceptible de fournir des renseignements au sujet de cette collecte.
 
 ### Conformité au par. 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée
@@ -983,8 +1251,11 @@ c) les titre, adresse et numéro de téléphone d’affaires d’un fonctionnair
 ### Demande de renseignements
 
 36 (1) Sous réserve des règlements éventuels, le ministre peut donner un avis exigeant qu’une personne ou une entité lui fournisse les renseignements qui sont en sa possession ou sous son contrôle et qui, de l’avis du ministre, sont liés aux biens sociaux confisqués, et notamment les renseignements suivants :
+
 1. Des renseignements personnels, y compris les coordonnées d’une personne ou d’une entité à laquelle le ministre a l’intention de donner un avis prévu par la présente loi.
+
 2. Des renseignements sur des biens sociaux confisqués, notamment les dossiers officiels d’une personne morale anciennement propriétaire des biens et des renseignements sur les activités de toute personne qui, après la dissolution, prétend agir à l’égard des biens.
+
 3. Des renseignements sur tout intérêt sur le bien qui existait avant qu’il ne soit devenu un bien social confisqué.
 
 ### Idem : serment ou affirmation solennelle
@@ -994,7 +1265,9 @@ c) les titre, adresse et numéro de téléphone d’affaires d’un fonctionnair
 ### Forme, manière et délai
 
 (3) L’avis peut :
+
 a) préciser sous quelle forme et de quelle manière les renseignements doivent être fournis;
+
 b) exiger que les renseignements soient fournis avant la date qui y est précisée, sous réserve de l’article 37.
 
 ### Obligation de se conformer
@@ -1016,6 +1289,7 @@ b) exiger que les renseignements soient fournis avant la date qui y est précis�
 ### Utilisation et divulgation de renseignements
 
 38 Les renseignements recueillis au titre de la présente loi peuvent être utilisés et divulgués pour l’application de la présente loi, de la Loi de 2015 sur les biens en déshérence ou de tout autre texte législatif de l’Ontario régissant les biens tombés en déshérence ou confisqués au profit de la Couronne ou la dissolution des personnes morales.
+
 39 Abrogé : 2020, chap. 34, annexe 6, art. 10.
 
 ### Règlements et dispositions transitoires
@@ -1023,23 +1297,37 @@ b) exiger que les renseignements soient fournis avant la date qui y est précis�
 ### Règlements : ministre
 
 40 Le ministre peut, par règlement :
+
 a) prescrire les pouvoirs supplémentaires d’un administrateur-séquestre visés à la disposition 6 du paragraphe 13 (3);
+
 b) traiter des avis qui peuvent ou doivent être donnés en application des articles 15, 16, 17 et 25, du paragraphe 29 (4) et de l’article 36;
+
 c) prescrire les personnes ayant le droit de recevoir l’avis en application de la disposition 12 de l’article 20;
+
 d) régir les demandes en vue d’être relevé de la confiscation présentées en vertu du paragraphe 26 (4).
 
 ### Règlements : lieutenant-gouverneur en conseil
 
 41 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire les mesures que le ministre est tenu de prendre à l’égard d’un arrêté comprenant les directives visées à la disposition 3 du paragraphe 11 (5) ou à la disposition 3 du paragraphe 18 (2);
+
 b) prescrire les mesures qu’une personne responsable d’un registre public prescrit est tenue de prendre en réponse à un arrêté visé à l’alinéa a);
+
 c) traiter des transferts de biens visés à l’article 29, notamment régir l’exigence de consentement visée à l’alinéa 29 (6) b);
+
 d) régir l’établissement des sommes mentionnées à l’article 30;
+
 e) traiter des questions nécessaires pour l’application de l’article 33, notamment établir un processus pour régler les différends à propos de la distribution du produit de la disposition de biens sociaux confisqués;
+
 f) exiger le paiement de droits pour tout acte accompli en vertu de la présente loi et prescrire le montant des droits ou leur mode de calcul;
+
 g) prévoir les circonstances dans lesquelles le montant d’un droit peut être réduit et les cas où il peut être renoncé au paiement;
+
 h) définir des mots et des expressions employés mais non expressément définis dans la présente loi;
+
 i) prévoir les questions transitoires qu’il estime nécessaires ou souhaitables relativement à la mise en application de la présente loi;
+
 j) prescrire tout ce que la présente loi mentionne comme pouvant ou devant être prescrit ou fait par règlement, autre que les questions à l’égard desquelles le ministre peut prendre des règlements en vertu de l’article 40.
 
 ### Questions transitoires
@@ -1047,9 +1335,13 @@ j) prescrire tout ce que la présente loi mentionne comme pouvant ou devant êtr
 ### Jour où la dissolution est réputée avoir lieu
 
 42 (1) Pour l’application des dispositions suivantes, la date de dissolution de la personne morale anciennement propriétaire est réputée correspondre au jour de l’entrée en vigueur de l’article 2 si la personne morale a été dissoute avant ce jour :
+
 1. Le paragraphe 18 (5).
+
 2. Le paragraphe 24 (2).
+
 3. L’alinéa 24 (6) a).
+
 4. Le paragraphe 25 (2).
 
 ### Idem : personne morale dissoute depuis plus de 20 ans
@@ -1063,9 +1355,15 @@ j) prescrire tout ce que la présente loi mentionne comme pouvant ou devant êtr
 ### Maintien de l’application de la Loi sur les biens en déshérence
 
 (4) Malgré toute disposition de la présente loi, la Loi sur les biens en déshérence, dans sa version antérieure au jour de l’entrée en vigueur de l’article 31 de l’annexe 4 de la Loi de 2015 sur les mesures budgétaires, continue de s’appliquer à ce qui suit :
+
 a) les biens qui font l’objet d’une pétition reçue par le tuteur et curateur public en vertu de l’article 3 ou 5 de la Loi sur les biens en déshérence avant le jour de l’entrée en vigueur de l’article 2 de la présente loi, sauf si la pétition est retirée;
+
 b) les biens qui font l’objet d’une convention écrite conclue avant le jour de l’entrée en vigueur de l’article 2 de la présente loi entre le tuteur et curateur public et une personne à propos du prix et des conditions applicables au transfert, à la cession ou à la libération des biens par le tuteur et curateur public en vertu de l’article 6 de la Loi sur les biens en déshérence.
+
 43 Omis (modification de la présente loi).
+
 44 -61 Omis (modification ou abrogation d’autres textes législatifs).
+
 62 Omis (entrée en vigueur de dispositions de la présente loi).
+
 63 Omis (édiction du titre abrégé de la présente loi).

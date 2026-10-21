@@ -6,23 +6,28 @@ language: en
 type: regulation
 document_date: "2018-02-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/regulation/180006"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario regulations, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # GENERAL
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/regulation/180006) before relying on it.
 
 O. Reg. 6/18
 
 ### Information relating to clinics
 
 1 For information purposes,
+
 (a) the names and locations of the clinics in Ontario are set out in Table 1;
+
 (b) the access zone established under section 6 of the Act for each clinic is the property on which the clinic is located and the area around the property, as described in Table 1, subject to subsection 6 (5) of the Act; and
+
 (c) for each property referred to in clause (b) on which a clinic is located, Table 1 sets out the Property Identification Number for the property and the Land Registry Office number for the Land Titles Division or Registry Division in which the property is located.
+
 2 Omitted (provides for coming into force of provisions of this Regulation).
+
 Table 1 Names and locations of clinics in Ontario
 
 | Item | Name and address of clinic | Municipality | Extent of access zone | Property Identification Number and Land Registry Office number |

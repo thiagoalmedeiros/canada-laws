@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07o10"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Agence ontarienne de protection et de promotion de la santé (Loi de 2007 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07o10) before relying on it.
 
 L.O. 2007, chap. 10, annexe K
 
@@ -25,15 +25,25 @@ L.O. 2007, chap. 10, annexe K
 ### Définitions
 
 2 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Agence» L’Agence ontarienne de protection et de promotion de la santé créée en application de l’article 3. («Corporation»)
+
 «conseil d’administration» Le conseil d’administration de l’Agence. («board of directors»)
+
 «exercice» La période qui commence le 1 er avril de chaque année et se termine le 31 mars de l’année suivante. («fiscal year»)
+
 «médecin-hygiéniste en chef» Médecin-hygiéniste en chef nommé en vertu de la Loi sur la protection et la promotion de la santé. («Chief Medical Officer of Health»)
+
 «ministère» Le ministère du ministre. («Ministry»)
+
 «ministre» Le ministre de la Santé et des Soins de longue durée ou l’autre membre du Conseil exécutif chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «prescrit» Prescrit par les règlements pris en application de la présente loi. Le verbe «prescrire» a un sens correspondant. («prescribed», «prescribe»)
+
 «recettes» S’entend notamment de toutes les sommes ou autres prestations que reçoit l’Agence par voie de subvention, de don, de contribution, de revenu, de profit ou autrement. («revenue»)
+
 «renseignements personnels» S’entend au sens de la Loi sur l’accès à l’information et la protection de la vie privée. («personal information»)
+
 «renseignements personnels sur la santé» S’entend au sens de la Loi de 2004 sur la protection des renseignements personnels sur la santé. («personal health information») 2007, chap. 10, annexe K, art. 2.
 
 ## partie ii Agence
@@ -53,16 +63,27 @@ L.O. 2007, chap. 10, annexe K
 ### Objets
 
 6 Les objets de l’Agence sont les suivants :
+
 a) fournir des conseils et un soutien scientifiques et techniques au système de soins de santé et au gouvernement de l’Ontario de façon à protéger et à promouvoir la santé de la population ontarienne ainsi qu’à réduire les injustices en matière de santé;
+
 b) accroître les connaissances, faire connaître les meilleures pratiques et pousser la recherche en matière de santé publique, notamment dans les domaines de l’évaluation de l’état de santé de la population, des maladies infectieuses, de la promotion de la santé, des maladies chroniques, de la prévention des blessures et de l’hygiène du milieu;
+
 c) guider le processus d’élaboration de politiques dans l’ensemble des secteurs du système de soins de santé et au sein du gouvernement de l’Ontario et y contribuer en fournissant des conseils et une analyse des répercussions des questions ayant trait à la santé publique;
+
 d) élaborer, recueillir, utiliser, analyser et divulguer des données, notamment des données sur l’état de santé de la population et la surveillance, et des données épidémiologiques dans l’ensemble des secteurs, y compris ceux qui touchent à la santé humaine, à l’environnement, aux animaux, à l’agriculture, à l’éducation, aux services sociaux et communautaires et au logement de manière à guider et à renforcer les politiques publiques favorables à la santé de même que la planification, l’évaluation et les interventions en matière de santé publique;
+
 e) entreprendre, promouvoir et coordonner des recherches en santé publique en collaboration avec des spécialistes universitaires et des experts en recherche ainsi qu’avec la collectivité;
+
 f) offrir des possibilités de formation et de perfectionnement professionnel aux professionnels, aux scientifiques, aux chercheurs et aux responsables des politiques dans l’ensemble des secteurs du domaine de la santé publique;
+
 g) ouvrir, exploiter et faire fonctionner des laboratoires et fournir des services de laboratoire;
+
 h) servir de modèle qui permette de combler les écarts existant dans les domaines du contrôle des infections ainsi que de la santé et de la sécurité au travail;
+
 i) entreprendre des recherches qui permettent d’évaluer les modes de transmission de maladies respiratoires fébriles de même que le risque qu’elles présentent pour les travailleurs de la santé;
+
 j) conformément aux directives du médecin-hygiéniste en chef, fournir des conseils scientifiques et techniques et un soutien opérationnel à toute personne ou entité dans toute situation d’urgence, ou lorsque se déclare une maladie, qui a des répercussions sur la santé;
+
 k) réaliser les autres objets que prescrit le lieutenant-gouverneur en conseil.
 
 ### Pouvoirs
@@ -80,10 +101,15 @@ k) réaliser les autres objets que prescrit le lieutenant-gouverneur en conseil.
 ### Approbation du lieutenant-gouverneur en conseil
 
 (4) L’Agence ne doit pas exercer les pouvoirs suivants sans l’approbation du lieutenant-gouverneur en conseil :
+
 1. Transférer ou grever, notamment en les acquérant, en en disposant, en les louant à bail ou en les nantissant, ou encore par hypothèque ou charge, un intérêt sur des biens immeubles, sauf s’il s’agit de la location de locaux à bureaux et de locaux devant servir de laboratoire qui sont raisonnablement nécessaires à ses fins.
+
 2. Contracter des emprunts ou accorder des prêts.
+
 3. Placer son argent.
+
 4. Nantir ou grever, notamment par charge, ses biens meubles.
+
 5. Créer une filiale.
 
 ### Autres restrictions
@@ -97,8 +123,11 @@ k) réaliser les autres objets que prescrit le lieutenant-gouverneur en conseil.
 ### Domaines d’expertise
 
 (2) Lors de la nomination des membres du conseil d’administration, il peut être tenu compte de l’avantage d’y nommer :
+
 a) des personnes qui ont des habiletés et des compétences spécialisées dans les domaines couverts par les objets de l’Agence ou en régie interne;
+
 b) une personne qui a des compétences spécialisées en matière d’expertise comptable ou une expérience connexe dans le domaine financier;
+
 c) un non-spécialiste qui a un intérêt marqué ou une expérience manifeste dans le domaine de la santé.
 
 ### Mandat
@@ -108,7 +137,9 @@ c) un non-spécialiste qui a un intérêt marqué ou une expérience manifeste d
 ### Fin du mandat
 
 (4) Un membre cesse d’être membre du conseil d’administration si, avant la fin de son mandat :
+
 a) soit le lieutenant-gouverneur en conseil révoque sa nomination;
+
 b) soit il décède, démissionne ou devient un failli.
 
 ### Mandat du successeur
@@ -154,8 +185,11 @@ b) soit il décède, démissionne ou devient un failli.
 ### Comités permanents
 
 14 (1) Le conseil d’administration crée, par règlement administratif, les comités permanents suivants :
+
 1. Un comité permanent de la régie interne.
+
 2. Un comité permanent de la planification stratégique.
+
 3. Un comité permanent de vérification.
 
 ### Autres comités permanents
@@ -205,8 +239,11 @@ b) soit il décède, démissionne ou devient un failli.
 ### Avis donné au médecin-hygiéniste en chef
 
 (3) L’Agence fournit au médecin-hygiéniste en chef :
+
 a) un préavis raisonnable de la convocation de toute réunion du conseil d’administration;
+
 b) l’ordre du jour de la réunion;
+
 c) les documents devant être examinés lors de la réunion.
 
 ### Participation du médecin-hygiéniste en chef aux réunions
@@ -228,7 +265,9 @@ c) les documents devant être examinés lors de la réunion.
 ### Autres vérifications
 
 (2) Outre l’obligation de vérification annuelle :
+
 a) le ministre peut, en tout temps, enjoindre à un ou à plusieurs vérificateurs titulaires d’un permis délivré en vertu de la Loi de 2004 sur l’expertise comptable de vérifier les comptes et les opérations financières de l’Agence;
+
 b) le vérificateur général peut, en tout temps, vérifier un aspect quelconque des activités de l’Agence.
 
 ### Plan d’activités annuel
@@ -250,8 +289,11 @@ b) le vérificateur général peut, en tout temps, vérifier un aspect quelconqu
 ### Idem
 
 (2) L’Agence se conforme aux directives données par le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il faut le présenter au ministre;
+
 c) le moment où il faut le mettre à la disposition du public et la manière de le faire.
 
 ### Idem
@@ -297,7 +339,9 @@ c) le moment où il faut le mettre à la disposition du public et la manière de
 ### Immunité en ce qui concerne le transfert
 
 (5) Malgré le paragraphe (1), sont irrecevables les instances en dommages-intérêts ou autres qui sont introduites contre l’Agence, un administrateur ou un dirigeant de celle-ci, un membre d’un comité permanent ou un employé de l’Agence à l’égard d’une réclamation fondée :
+
 a) d’une part, sur ce qui est visé par le transfert effectué en vertu du paragraphe (1);
+
 b) d’autre part, sur des événements survenus avant la date d’effet du transfert uniquement.
 
 ## PARTie V IMMUNITé et Jugements impayés
@@ -337,18 +381,29 @@ b) d’autre part, sur des événements survenus avant la date d’effet du tran
 ### Règlements
 
 30 (1) Le ministre peut, par règlement :
+
 a) prescrire, pour l’application de l’article 5, les dispositions de la Loi de 2010 sur les organisations sans but lucratif et de la Loi sur les renseignements exigés des personnes morales qui s’appliquent à l’Agence, ainsi que les adaptations auxquelles elles sont assujetties;
+
 b) prescrire les dispositions de la Loi sur les sociétés par actions qui s’appliquent à l’Agence, autres que celles visées au paragraphe 9 (7), ainsi que les adaptations auxquelles elles sont assujetties;
+
 c) régir la création de comités permanents par le conseil d’administration.
 
 ### Idem, lieutenant-gouverneur en conseil
 
 (2) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire d’autres objets de l’Agence visés à l’alinéa 6 k);
+
 b) prescrire d’autres restrictions, visées à l’article 8, à l’égard des pouvoirs de l’Agence;
+
 c) traiter de questions ayant trait à un transfert visé à l’article 25 ou découlant d’un tel transfert, notamment de questions ayant trait aux droits, obligations, privilèges et responsabilités actuels et futurs;
+
 d) traiter des dispositions de la Loi autorisant des laboratoires médicaux et des centres de prélèvement et de ses règlements d’application qui ne s’appliquent pas à un laboratoire ouvert par l’Agence, ainsi que des adaptations auxquelles elles sont assujetties;
+
 e) traiter de toute question que le lieutenant-gouverneur en conseil estime nécessaire ou souhaitable pour réaliser efficacement l’objet de la présente loi.
+
 31 et 32 Omis (modifient ou abrogent d’autres lois).
+
 33 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 34 Omis (édicte le titre abrégé de la présente loi).

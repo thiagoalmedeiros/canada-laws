@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2024-06-28"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97p21b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # relations de travail liées à la transition dans le secteur public (Loi de 1997 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/97p21b) before relying on it.
 
 L.O. 1997, chap. 21, annexe B
 
@@ -21,25 +21,41 @@ L.O. 1997, chap. 21, annexe B
 ### Objets
 
 1 Les objets de la présente loi sont les suivants :
+
 1. Encourager les meilleures pratiques possibles pour assurer la prestation de services publics de qualité et efficaces qui soient abordables pour les contribuables.
+
 2. Faciliter l’établissement de structures d’unités efficaces et rationalisées au sein des organisations restructurées du secteur parapublic.
+
 3. Faciliter la négociation collective entre les employeurs et les syndicats qui sont les représentants volontairement désignés des employés, à la suite de la restructuration dans le secteur parapublic et dans d’autres circonstances précisées.
+
 4. Favoriser le règlement rapide des différends relatifs au lieu de travail qui découlent de la restructuration.
 
 ### Définitions
 
 2 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Commission» La Commission des relations de travail de l’Ontario. («Board»)
+
 «conseil local» Conseil local au sens de l’article 1 de la Loi sur les affaires municipales. Sont toutefois exclus de la présente définition les conseils scolaires et les commissions de service de police. («local board»)
+
 «convention de remplacement» Convention collective qui remplace une convention mixte par suite d’un accord prévu à l’article 29 ou d’une ordonnance prévue à l’article 30. («replacement agreement»)
+
 «convention mixte» La convention collective qui est réputée exister aux termes du paragraphe 24 (5). («composite agreement»)
+
 «employeur précédent» Employeur précédent visé à l’article 3, 4, 5, 6, 7, 8 ou 10. («predecessor employer»)
+
 «employeur qui succède» Employeur qui succède visé à l’article 3, 4, 5, 6, 7, 8 ou 10. («successor employer»)
+
 «entreprise» S’entend en outre d’une ou de plusieurs parties de l’entreprise de même que d’une activité au sens du paragraphe 10 (4) de la Loi de 1993 sur la négociation collective des employés de la Couronne. («business»)
+
 «grève» Grève au sens du paragraphe 1 (1) de la Loi de 1995 sur les relations de travail. («strike»)
+
 «hôpital» Hôpital au sens de l’article 1 de la Loi sur les hôpitaux publics, hôpital privé exploité aux termes d’un permis délivré aux termes de la Loi sur les hôpitaux privés, établissement psychiatrique figurant à l’annexe 1 du Règlement 741 des Règlements refondus de l’Ontario de 1990 (« Champ d’application de la loi») pris en application de la Loi sur la santé mentale et la Fondation de recherche sur l’alcoolisme et la toxicomanie. («hospital»)
+
 «lock-out» Lock-out au sens du paragraphe 1 (1) de la Loi de 1995 sur les relations de travail. («lock-out»)
+
 «période de transition» Période commençant le jour de l’entrée en vigueur du présent article et se terminant le 31 décembre 2001 ou à la date ultérieure prescrite. («transitional period»)
+
 «vend» S’entend en outre des termes «loue» et «transfère», y compris au sens que le paragraphe 10 (4) de la Loi de 1993 sur la négociation collective des employés de la Couronne donne à ce dernier terme, et de tout autre mode de disposition et les termes «vendu» et «vente» ont un sens correspondant. («sells», «sold», «sale») 1997, chap. 21, annexe B, art. 2
 
 ### Champ d’application
@@ -47,27 +63,37 @@ L.O. 1997, chap. 21, annexe B
 ### Secteur municipal
 
 3 (1) La présente loi s’applique, selon le cas :
+
 a) dès la fusion de deux municipalités ou plus ou de deux conseils locaux ou plus;
+
 b) dès la dissolution de deux municipalités ou plus et la constitution de leurs habitants en une nouvelle municipalité;
+
 c) dès la dissolution de deux conseils locaux ou plus et l’établissement d’un nouveau conseil local qui assume les pouvoirs des conseils locaux dissous;
+
 d) dès la dissolution d’une municipalité de palier supérieur si, dans le cadre de cette restructuration, deux municipalités ou plus qui font partie de la municipalité de palier supérieur aux fins municipales sont fusionnées ou dissoutes et leurs habitants constitués en une nouvelle municipalité.
 
 ### Employeurs précédents et employeur qui succède
 
 (2) Sous réserve du paragraphe (2.1), pour l’application de la présente loi :
+
 a) les municipalités ou les conseils locaux qui sont fusionnés et les municipalités ou les conseils locaux qui sont dissous sont les employeurs précédents;
+
 b) la municipalité ou le conseil local issu de la fusion, la nouvelle municipalité qui est constituée ou le conseil local qui assume les pouvoirs des conseils locaux dissous est l’employeur qui succède.
 
 ### Idem
 
 (2.1) Pour l’application de la présente loi, si les faits visés aux alinéas (1) b) et c) se produisent à la même date de changement et que le nouveau conseil local qui assume les pouvoirs des conseils locaux dissous est un conseil local de la nouvelle municipalité, les entités suivantes sont les employeurs précédents et les employeurs qui succèdent dans les circonstances visées :
+
 1. Si un employé d’une municipalité dissoute devient un employé d’un conseil local de la nouvelle municipalité à la date du changement, la municipalité dissoute est l’employeur précédent et le conseil local est l’employeur qui succède.
+
 2. Si un employé d’un conseil local dissous devient un employé de la nouvelle municipalité à la date du changement, le conseil local dissous est l’employeur précédent et la nouvelle municipalité est l’employeur qui succède.
 
 ### Idem
 
 (3) Pour l’application de la présente loi, dans le cas d’une restructuration visée à l’alinéa (1) d) :
+
 a) d’une part, la municipalité de palier supérieur qui est dissoute et les municipalités qui sont fusionnées ou dissoutes sont les employeurs précédents;
+
 b) d’autre part, les municipalités issues de la fusion ou les nouvelles municipalités qui sont constituées et les autres personnes prescrites relativement à la restructuration sont les employeurs qui succèdent.
 
 ### Date du changement
@@ -77,9 +103,13 @@ b) d’autre part, les municipalités issues de la fusion ou les nouvelles munic
 ### Nouvelle cité de Toronto
 
 4 (1) Les définitions qui suivent s’appliquent au présent article et aux articles 5 et 6.
+
 «anciennes municipalités» Anciennes municipalités au sens de l’article 1 de la Loi de 1997 sur la cité de Toronto. («old municipalities»)
+
 «conseil local» Conseil local au sens de l’article 1 de la Loi de 1997 sur la cité de Toronto. Sont toutefois exclues de la présente définition les commissions de service de police. («local board»)
+
 « Loi de 1997 sur la cité de Toronto » S’entend de cette loi telle qu’elle existait la veille de son abrogation par la Loi de 2006 créant un Toronto plus fort pour un Ontario plus fort. (« City of Toronto Act, 1997 »)
+
 «nouvelle cité de Toronto» ou «nouvelle cité» La cité de Toronto constituée par la Loi de 1997 sur la cité de Toronto. («new City of Toronto», «new city») 1997, chap. 21, annexe B, par. 4 (1)
 
 ### Application à la nouvelle cité
@@ -141,7 +171,9 @@ b) d’autre part, les municipalités issues de la fusion ou les nouvelles munic
 ### Fusion menant à la création de l’Organisme de services
 
 8.0.1 (1) Les définitions qui suivent s’appliquent au présent article.
+
 «Organisme de services» S’entend au sens de la Loi de 2019 pour des soins interconnectés. («Service Organization»)
+
 «personnes morales remplacées» S’entend au sens de la partie III.1 de la Loi de 2019 pour des soins interconnectés. («predecessor corporations») 2023, chap. 19, par. 25 (1).
 
 ### Champ d’application
@@ -159,24 +191,31 @@ b) d’autre part, les municipalités issues de la fusion ou les nouvelles munic
 ### Fournisseurs de services de santé
 
 8 (1) La présente loi s’applique dès que se produisent les événements suivants :
+
 a) la fusion d’au moins deux fournisseurs de services de santé;
+
 b) le transfert de la totalité ou de la quasi-totalité des actifs d’un fournisseur de services de santé à un autre fournisseur de services de santé.
 
 ### Employeurs précédents et employeur qui succède
 
 (2) Pour l’application de la présente loi :
+
 a) dans le cas visé à l’alinéa (1) a), les fournisseurs de services de santé qui sont fusionnés sont les employeurs précédents et le fournisseur de services de santé issu de la fusion lorsqu’elle prend effet est l’employeur qui succède;
+
 b) dans le cas visé à l’alinéa (1) b), le fournisseur de services de santé dont les actifs sont transférés est l’employeur précédent et celui auquel sont transférés les actifs est l’employeur qui succède.
 
 ### Date du changement
 
 (3) Pour l’application de la présente loi :
+
 a) dans le cas visé à l’alinéa (1) a), la date du changement est la date à laquelle la fusion prend effet;
+
 b) dans le cas visé à l’alinéa (1) b), la date du changement est la date à laquelle le transfert prend effet.
 
 ### Définition
 
 (4) La définition qui suit s’applique au présent article.
+
 «fournisseur de services de santé» S’entend au sens du paragraphe 1 (2) de la Loi de 2019 pour des soins interconnectés.
 
 ### Sociétés d’aide à l’enfance
@@ -194,7 +233,9 @@ b) dans le cas visé à l’alinéa (1) b), la date du changement est la date à
 ### Définition
 
 (4) La définition qui suit s’applique au présent article.
+
 «société d’aide à l’enfance» Personne morale qui est une société d’aide à l’enfance sous le régime de la Loi de 2017 sur les services à l’enfance, à la jeunesse et à la famille.
+
 9 Abrogé : 2019, chap. 7, annexe 53, art. 3.
 
 ### Application dans d’autres circonstances
@@ -224,14 +265,19 @@ b) dans le cas visé à l’alinéa (1) b), la date du changement est la date à
 ### Application restreinte : vente d’une entreprise
 
 12 (1) L’article 36 (ancienneté) de la présente loi s’applique à l’égard de la vente d’une entreprise, mais seulement si la personne à qui l’entreprise est vendue est, selon le cas :
+
 a) une municipalité ou un conseil local;
+
 b) un conseil scolaire de district au sens du paragraphe 1 (1) de la Loi sur l’éducation ;
+
 c) une personne qui exploite un hôpital ou qui le fera après la vente;
+
 d) une personne prescrite ou un membre d’une catégorie prescrite de personnes.
 
 ### Exception
 
 (2) L’article 36 ne s’applique pas à l’égard d’un événement auquel s’applique la présente loi conformément aux articles 3 à 10.
+
 (3) Abrogé : 2006, chap. 35, annexe D, par. 7 (2).
 
 ### Application, même en l’absence d’un agent négociateur
@@ -245,9 +291,13 @@ d) une personne prescrite ou un membre d’une catégorie prescrite de personnes
 ### Idem
 
 (2) Si, en l’absence du paragraphe 11 (2), la Couronne devenait un employeur qui succède au moment où se produit un événement visé au paragraphe (1), les dispositions suivantes s’appliquent :
+
 1. La présente loi n’a pas pour effet d’empêcher l’application de l’article 69 de la Loi de 1995 sur les relations de travail à l’égard de :
+
 i. la Couronne et l’événement,
+
 ii. la Couronne et la partie de l’événement qui se rapporte à celle-ci, s’il y a d’autres employeurs qui succèdent.
+
 2. Si un ou plusieurs employeurs autres que la Couronne deviennent des employeurs qui succèdent au moment où se produit l’événement, l’article 69 de la Loi de 1995 sur les relations de travail ne s’applique pas à l’égard de ces employeurs et de la partie de l’événement qui se rapporte à ceux-ci.
 
 ### État des conventions collectives à la date du changement
@@ -255,14 +305,19 @@ ii. la Couronne et la partie de l’événement qui se rapporte à celle-ci, s�
 ### Unités de négociation
 
 14 (1) À la date du changement, chaque agent négociateur qui, immédiatement avant la date du changement, avait le droit de négocier à l’égard d’une unité de négociation d’un employeur précédent a le droit de négocier à l’égard d’une unité de négociation semblable de l’employeur qui succède, mais la description de l’unité de négociation est telle qu’elle ne comprend que :
+
 a) d’une part, des employés qui, immédiatement avant la date du changement, étaient des employés de l’employeur précédent compris dans l’unité de négociation à l’égard de laquelle l’agent négociateur avait le droit de négocier;
+
 b) d’autre part, des employés qui sont engagés pour remplacer les employés visés à l’alinéa a).
+
 (2) Abrogé : 2006, chap. 35, annexe D, par. 9 (1).
 
 ### Exclusion de certains employés
 
 (3) Il est entendu qu’aucune des personnes suivantes, autres que les employés visés à l’alinéa (1) b), ne devient membre d’une unité de négociation par suite de l’application du présent article :
+
 1. Abrogée : 2006, chap. 35, annexe D, par. 9 (2).
+
 2. Les employés de l’employeur qui succède qui, immédiatement avant la date du changement, n’étaient pas des employés compris dans une unité de négociation d’un employeur précédent.
 
 ### Conventions collectives
@@ -280,8 +335,11 @@ b) d’autre part, des employés qui sont engagés pour remplacer les employés 
 ### Nouveaux agents négociateurs
 
 (4) Si un agent négociateur a le droit de négocier aux termes de l’article 14, mais que n’a jamais été conclue entre lui et l’employeur précédent une convention collective qui s’appliquait aux employés compris dans l’unité de négociation semblable de l’employeur précédent ou que, après la date du changement, un agent négociateur est accrédité ou reconnu volontairement comme agent négociateur d’une unité de négociation de l’employeur qui succède, mais que n’a jamais été conclue de convention collective entre lui et l’employeur qui succède, les règles suivantes s’appliquent :
+
 1. Avant l’entrée en vigueur d’une convention collective s’appliquant aux employés compris dans l’unité de négociation de l’employeur qui succède, l’employeur ne doit pas, sans le consentement de l’agent négociateur, modifier le taux des salaires ou toute autre condition d’emploi ou tout droit, privilège ou obligation de l’employeur, de l’agent négociateur ou des employés compris dans l’unité de négociation tant que le droit de l’agent négociateur de représenter les employés n’a pas pris fin.
+
 2. Avant l’entrée en vigueur d’une convention collective s’appliquant aux employés compris dans l’unité de négociation de l’employeur qui succède, l’agent négociateur ne doit pas, sans le consentement de l’employeur, modifier toute condition d’emploi ou tout droit, privilège ou obligation de l’employeur, de l’agent négociateur ou des employés compris dans l’unité de négociation.
+
 (5) Abrogé : 2006, chap. 35, annexe D, par. 10 (1).
 
 ### Employés non compris dans une unité de négociation
@@ -291,7 +349,9 @@ b) d’autre part, des employés qui sont engagés pour remplacer les employés 
 ### Embauche, maintien de l’emploi
 
 (7) Aucune disposition d’une convention collective qui lie un employeur qui succède aux termes du présent article ne doit être appliquée de façon à empêcher l’employeur qui succède d’engager ou de continuer d’employer un particulier pour effectuer un travail ou de lui assigner un travail si les conditions suivantes sont réunies :
+
 a) immédiatement avant la date du changement, le particulier était employé par un employeur précédent mais n’était pas un employé compris dans une unité de négociation;
+
 b) le travail qu’effectue le particulier pour l’employeur qui succède est essentiellement le même que celui qu’il effectuait immédiatement avant la date du changement pour l’employeur précédent.
 
 ### Idem
@@ -349,13 +409,21 @@ b) le travail qu’effectue le particulier pour l’employeur qui succède est e
 ### Interprétation
 
 (2) Les définitions qui suivent s’appliquent aux articles 19.2 à 19.6.
+
 «intégration partielle» Événement auquel s’applique la présente loi lorsque les conditions suivantes sont réunies :
+
 a) tout ou partie des programmes que dispensent, des services que fournissent ou des fonctions qu’exercent les employés compris dans une unité de négociation particulière d’un employeur précédent sont transférés à un employeur qui succède ou intégrés par ailleurs à ceux d’un tel employeur;
+
 b) à compter de la date du changement, l’employeur précédent poursuit ses activités. («partial integration»)
+
 «unité de négociation non touchée» À l’égard d’un employeur précédent qui est assujetti à une intégration partielle, s’entend d’une unité de négociation de l’employeur dont aucun des programmes que dispensent, des services que fournissent ou des fonctions qu’exercent les employés compris dans l’unité n’est transféré à un employeur qui succède ou intégré par ailleurs à ceux d’un tel employeur. («non-affected bargaining unit»)
+
 «unité de négociation précédente» Unité de négociation de l’employeur précédent à l’égard de laquelle :
+
 a) d’une part, un agent négociateur a le droit de négocier;
+
 b) d’autre part, tout ou partie des programmes que dispensent, des services que fournissent ou des fonctions qu’exercent les employés compris dans l’unité sont transférés à un employeur qui succède ou intégrés par ailleurs à ceux d’un tel employeur. («predecessor bargaining unit»)
+
 «unité de négociation qui succède» Unité de négociation d’un employeur qui succède à l’égard de laquelle, à compter de la date du changement, un agent négociateur a le droit de négocier conformément au paragraphe 19.2 (2). («successor bargaining unit») 2006, chap. 4, par. 42 (9).
 
 ### Unités de négociation de l’employeur qui succède
@@ -365,9 +433,13 @@ b) d’autre part, tout ou partie des programmes que dispensent, des services qu
 ### Idem
 
 (2) À la date du changement, chaque agent négociateur qui, immédiatement avant la date du changement, a le droit de négocier à l’égard d’une unité de négociation précédente a le droit de négocier à l’égard d’une unité de négociation semblable de l’employeur qui succède, mais la description de l’unité de négociation est telle qu’elle ne comprend que :
+
 a) d’une part, des employés qui, immédiatement avant la date du changement :
+
 (i) étaient des employés de l’employeur précédent compris dans l’unité de négociation à l’égard de laquelle l’agent négociateur a le droit de négocier,
+
 (ii) étaient employés à dispenser des programmes, à fournir des services ou à exercer des fonctions qui sont transférés à l’employeur qui succède ou intégrés par ailleurs à ceux d’un tel employeur;
+
 b) d’autres part, des employés qui sont engagés pour remplacer les employés visés à l’alinéa a).
 
 ### Aucun droit : unité de négociation non touchée
@@ -459,7 +531,9 @@ b) d’autres part, des employés qui sont engagés pour remplacer les employés
 ### Exception
 
 (6) Malgré le paragraphe (5), un accord peut avoir pour effet qu’une unité de négociation comprenne à la fois des employés dont les relations de travail sont régies par la Loi sur l’arbitrage des conflits de travail dans les hôpitaux et des employés dont les relations de travail ne sont pas régies par cette loi si l’un des agents négociateurs qui est partie à l’accord a le droit de négocier aux termes de l’article 14 à l’égard d’une telle unité de l’employeur qui succède et que l’unité de négociation qui résulte de l’accord ne comprend que des employés qui, avant l’entrée en vigueur de l’accord :
+
 a) soit sont compris dans une unité de négociation qui comprend à la fois des employés dont les relations de travail sont régies par la Loi sur l’arbitrage des conflits de travail dans les hôpitaux et des employés dont les relations de travail ne sont pas régies par cette loi;
+
 b) soit ne sont compris dans aucune unité de négociation.
 
 ### Entrée en vigueur
@@ -501,7 +575,9 @@ b) soit ne sont compris dans aucune unité de négociation.
 ### Définitions
 
 (4) Les définitions qui suivent s’appliquent au paragraphe (3).
+
 «syndicat de la construction» Syndicat ou conseil de syndicats, au sens de l’article 126 de la Loi de 1995 sur les relations de travail, ou agent négociateur affilié ou organisme négociateur syndical, au sens de l’article 151 de cette loi. («construction union»)
+
 «travaux de construction» Construction, transformation, décoration, réparation ou démolition de bâtiments, d’ouvrages, de routes, d’égouts, de conduites d’eau ou de gaz, de canalisations, de tunnels, de ponts, de canaux et autres travaux accessoires, effectués sur les lieux. («construction work») 1997, chap. 21, annexe B, par. 22 (4).
 
 ### Restriction
@@ -511,7 +587,9 @@ b) soit ne sont compris dans aucune unité de négociation.
 ### Exception
 
 (6) Malgré le paragraphe (5), une ordonnance prévue au paragraphe (1) peut avoir pour effet qu’une unité de négociation comprenne à la fois des employés dont les relations de travail sont régies par la Loi sur l’arbitrage des conflits de travail dans les hôpitaux et des employés dont les relations de travail ne sont pas régies par cette loi si :
+
 a) d’une part, une unité de négociation d’un employeur précédent comprenait à la fois des employés dont les relations de travail étaient régies par la Loi sur l’arbitrage des conflits de travail dans les hôpitaux et des employés dont les relations de travail n’étaient pas régies par cette loi;
+
 b) d’autre part, la Commission est d’avis qu’il serait approprié de rendre une telle ordonnance.
 
 ### Objets
@@ -533,11 +611,13 @@ b) d’autre part, la Commission est d’avis qu’il serait approprié de rendr
 ### Résultat du scrutin
 
 (3) L’ordonnance nomme agent négociateur d’une unité de négociation le candidat qui reçoit le plus grand nombre de voix, si celui-ci reçoit plus de 50 pour cent des voix exprimées.
+
 (4) Abrogé : 2006, chap. 35, annexe D, art. 12.
 
 ### Idem
 
 (5) Si 40 pour cent ou plus des employés compris dans l’unité de négociation n’étaient pas représentés par un agent négociateur immédiatement avant la date du changement, les bulletins de vote doivent comprendre la non-représentation par un agent négociateur comme choix.
+
 (6) Abrogé : 2006, chap. 35, annexe D, art. 12.
 
 ### Idem, unité de négociation dissoute
@@ -571,6 +651,7 @@ b) d’autre part, la Commission est d’avis qu’il serait approprié de rendr
 ### Idem : décision en cas de différend
 
 (11.3) Si un différend survient au sujet de l’application du paragraphe (11) ou (11.1), la Commission tranche la question.
+
 (12) Abrogé : 2006, chap. 35, annexe D, art. 12.
 
 ### Pratique et procédure concernant le scrutin
@@ -580,8 +661,11 @@ b) d’autre part, la Commission est d’avis qu’il serait approprié de rendr
 ### Tenue du scrutin dans certains cas
 
 (14) Si 40 pour cent ou plus des employés compris dans l’unité de négociation n’étaient pas représentés par un agent négociateur immédiatement avant la date du changement ou sont des employés visés au paragraphe (4) et que, immédiatement avant cette date, au moins deux agents négociateurs représentaient des employés compris dans l’unité de négociation, les règles suivantes s’appliquent à l’égard de la tenue du scrutin aux termes du présent article :
+
 1. Le scrutin doit être constitué de scrutins successifs.
+
 2. Au premier scrutin, les choix devant figurer sur les bulletins de vote doivent être la non-représentation par un agent négociateur constituant un choix et chacun des agents négociateurs constituant chacun un choix distinct.
+
 3. Chaque choix figurant sur les bulletins de vote lors d’un scrutin, autre que celui qui a reçu le plus petit nombre de voix, doit figurer sur les bulletins de vote du scrutin suivant.
 
 ### Scrutin secret
@@ -647,7 +731,9 @@ b) d’autre part, la Commission est d’avis qu’il serait approprié de rendr
 ### Application de deux conventions ou plus
 
 (3) Si deux conventions collectives ou plus qui contiennent des dispositions sur l’ancienneté s’appliquent à des employés compris dans l’unité de négociation, les règles suivantes s’appliquent :
+
 1. Si l’agent négociateur qui représente les employés compris dans l’unité de négociation était partie à l’une des conventions collectives immédiatement avant la date du changement, les dispositions sur l’ancienneté que contient cette convention collective s’appliquent à tous les employés compris dans l’unité de négociation.
+
 2. Si l’agent négociateur qui représente les employés compris dans l’unité de négociation était partie à plus d’une des conventions collectives immédiatement avant la date du changement, l’employeur et l’agent négociateur peuvent convenir, parmi ces conventions collectives, de celle dont les dispositions sur l’ancienneté doivent s’appliquer aux employés compris dans l’unité de négociation ou, s’ils n’arrivent pas à en convenir, l’un ou l’autre peut, par voie de requête, demander à la Commission de rendre une ordonnance afin d’en décider.
 
 ### Nouvel agent négociateur
@@ -665,31 +751,41 @@ b) d’autre part, la Commission est d’avis qu’il serait approprié de rendr
 ### Modification par les parties
 
 (7) Les dispositions sur l’ancienneté que contient une convention collective peuvent être modifiées par accord conclu entre l’agent négociateur représentant l’unité de négociation et l’employeur, sous réserve de ce qui suit :
+
 1. Malgré une telle modification, les paragraphes 33 (3) et (4), tels qu’ils s’appliquent aux termes du paragraphe (5), continuent de s’appliquer.
+
 2. Les dispositions, telles qu’elles sont modifiées, prévoient que, dans la mesure du possible, l’ancienneté des employés est fondée uniquement sur une définition commune de l’ancienneté et est déterminée par rapport à toute l’unité de négociation et non par rapport seulement à une ou plusieurs de ses parties.
 
 ### Modification par la Commission
 
 (8) La Commission peut, sur requête de l’employeur ou de l’agent négociateur représentant l’unité de négociation, modifier les dispositions sur l’ancienneté que contient une convention collective à moins que celles-ci ne s’appliquent, aux termes de l’article 24, à tous les employés compris dans l’unité de négociation, sous réserve de ce qui suit :
+
 1. Malgré une telle modification, les paragraphes 33 (3) et (4), tels qu’ils s’appliquent aux termes du paragraphe (5), continuent de s’appliquer.
+
 2. À moins que la Commission ne l’estime inapproprié dans les circonstances, les dispositions, telles qu’elles sont modifiées, prévoient que, dans la mesure du possible, l’ancienneté des employés est fondée uniquement sur une définition commune de l’ancienneté et est déterminée par rapport à toute l’unité de négociation et non par rapport seulement à une ou plusieurs de ses parties.
 
 ### Certaines autres dispositions
 
 (9) Si les dispositions sur l’ancienneté que contient une convention collective deviennent applicables à tous les employés compris dans une unité de négociation aux termes du présent article, les règles suivantes s’appliquent :
+
 1. Les dispositions que contient cette convention collective sur l’affichage des postes vacants et des nouveaux postes et sur les promotions, les mutations, les mises à pied et les rappels s’appliquent également aux employés compris dans l’unité de négociation.
+
 2. Toute autre disposition que contient cette convention collective et dont l’employeur et l’agent négociateur conviennent qu’elle devrait s’appliquer s’applique également aux employés compris dans l’unité de négociation.
+
 3. Les paragraphes (7) et (8) s’appliquent, avec les adaptations nécessaires, aux dispositions applicables aux termes de la disposition 1 ou 2.
 
 ### Non-application de l’article
 
 (10) Le présent article cesse de s’appliquer lorsqu’est conclue la première convention collective après qu’un avis d’intention de négocier est donné dans les circonstances suivantes :
+
 1. Une partie donne un avis de son intention de négocier aux termes de la présente loi.
+
 2. Une partie à une convention collective maintenue aux termes du paragraphe 24 (2), à une convention mixte ou à une convention de remplacement donne un avis de son intention de négocier en vertu du paragraphe 47 (2) de la Loi de 1997 sur la prévention et la protection contre l’incendie ou de l’article 59 de la Loi de 1995 sur les relations de travail.
 
 ### Définition
 
 (11) La définition qui suit s’applique au présent article.
+
 «dispositions sur l’ancienneté» Dispositions qui donnent aux employés des droits qui sont fondés sur leur ancienneté.
 
 ### Dispositions sur les griefs
@@ -703,7 +799,9 @@ b) d’autre part, la Commission est d’avis qu’il serait approprié de rendr
 ### Application de deux conventions ou plus
 
 (3) Si deux conventions collectives ou plus qui contiennent des dispositions sur les griefs s’appliquent à des employés compris dans l’unité de négociation, les règles suivantes s’appliquent :
+
 1. Si l’agent négociateur qui représente les employés compris dans l’unité de négociation était partie à l’une des conventions collectives immédiatement avant la date du changement, les dispositions sur les griefs que contient cette convention collective s’appliquent à tous les employés compris dans l’unité de négociation.
+
 2. Si l’agent négociateur qui représente les employés compris dans l’unité de négociation était partie à plus d’une des conventions collectives immédiatement avant la date du changement, les dispositions sur les griefs que contient la convention collective qui contient les dispositions sur l’ancienneté qui s’appliquent aux termes de la disposition 2 du paragraphe 25 (3) s’appliquent aux employés compris dans l’unité de négociation.
 
 ### Nouvel agent négociateur
@@ -717,12 +815,15 @@ b) d’autre part, la Commission est d’avis qu’il serait approprié de rendr
 ### Non-application de l’article
 
 (6) Le présent article cesse de s’appliquer lorsqu’est conclue la première convention collective après qu’un avis d’intention de négocier est donné dans les circonstances suivantes :
+
 1. Une partie donne un avis de son intention de négocier aux termes de la présente loi.
+
 2. Une partie à une convention collective maintenue aux termes du paragraphe 24 (2), à une convention mixte ou à une convention de remplacement donne un avis de son intention de négocier en vertu du paragraphe 47 (2) de la Loi de 1997 sur la prévention et la protection contre l’incendie ou de l’article 59 de la Loi de 1995 sur les relations de travail.
 
 ### Définition
 
 (7) La définition qui suit s’applique au présent article.
+
 «disposition sur les griefs» Disposition qui énonce une procédure de grief, y compris la procédure d’arbitrage d’un grief et toute restriction imposée au droit d’exercer un grief.
 
 ### Requête présentée à la Commission : différend quant à l’application de l’art. 24, 25 ou 26
@@ -740,8 +841,11 @@ b) d’autre part, la Commission est d’avis qu’il serait approprié de rendr
 ### Idem, employés compris dans une unité de négociation
 
 (3) Pendant la période commençant lorsque l’ordonnance est demandée et se terminant lorsque la première convention collective conclue par les parties entre en vigueur après l’expiration d’une convention collective maintenue aux termes du paragraphe 24 (2) ou d’une convention mixte, nul ne peut demander, par voie de requête :
+
 a) soit une déclaration selon laquelle le syndicat ne représente plus les employés compris dans l’unité de négociation;
+
 b) soit l’accréditation d’un agent négociateur différent pour représenter les employés compris dans l’unité de négociation.
+
 Par la suite, le droit qu’a une personne de présenter la requête est déterminé aux termes de la loi qui régit par ailleurs la négociation collective à l’égard des employés.
 
 ### Idem, accord
@@ -813,10 +917,15 @@ Par la suite, le droit qu’a une personne de présenter la requête est déterm
 ### Facteurs
 
 (3) Pour rendre une décision aux termes de l’article 43 de la Loi de 1995 sur les relations de travail, tel que cet article s’applique aux termes du paragraphe (1), le conseil d’arbitrage prend en considération les facteurs qu’il estime pertinents, notamment les critères suivants :
+
 1. La capacité de payer de l’employeur compte tenu de sa situation financière.
+
 2. La mesure dans laquelle des services devront peut-être être réduits, compte tenu de la décision du conseil, si les niveaux de financement et d’imposition actuels ne sont pas relevés.
+
 3. La situation économique prévalant en Ontario et dans la partie de l’Ontario où est situé l’employeur.
+
 4. La comparaison, établie entre les employés et des employés comparables des secteurs public et privé, des conditions d’emploi et de la nature du travail exécuté.
+
 5. La capacité de l’employeur d’attirer et de garder des employés qualifiés.
 
 ### Champ d’application de l’article
@@ -832,19 +941,25 @@ Par la suite, le droit qu’a une personne de présenter la requête est déterm
 ### Idem
 
 (2) Les exigences ne s’appliquent qu’à l’égard de la première convention collective après qu’un avis d’intention de négocier est donné dans les circonstances suivantes :
+
 1. Une partie donne un avis de son intention de négocier aux termes de la présente loi.
+
 2. Une partie à une convention collective maintenue aux termes du paragraphe 24 (2), à une convention mixte ou à une convention de remplacement donne un avis de son intention de négocier en vertu du paragraphe 47 (2) de la Loi de 1997 sur la prévention et la protection contre l’incendie, de l’article 59 de la Loi de 1995 sur les relations de travail ou de l’article 224 de la Loi de 2019 sur la sécurité communautaire et les services policiers.
 
 ### Ancienneté relative à un emploi antérieur
 
 (3) Si un employé compris dans l’unité de négociation était employé par un employeur précédent immédiatement avant la date du changement, mais qu’il n’était pas membre d’une unité de négociation, son ancienneté est calculée de la même façon que pour les autres employés compris dans l’unité de négociation et, sans préjudice de la portée générale de ce qui précède :
+
 a) si la convention collective prévoit que l’ancienneté comprend toutes les périodes d’emploi auprès de l’employeur et toutes les périodes d’emploi auprès d’un employeur précédent, son ancienneté les comprend toutes;
+
 b) si la convention collective prévoit que l’ancienneté comprend toutes les périodes d’emploi pendant qu’il est membre de l’unité de négociation de l’employeur et toutes les périodes d’emploi pendant qu’il était membre d’une unité de négociation d’un employeur précédent, son ancienneté comprend toutes les périodes d’emploi pendant qu’il est membre de l’unité de négociation de l’employeur et toutes les périodes d’emploi auprès d’un employeur précédent à un poste comportant des fonctions, responsabilités et autres caractéristiques telles que, si l’emploi était exercé auprès de l’employeur, l’employé aurait été membre de l’unité de négociation;
+
 c) si la convention collective prévoit que l’ancienneté comprend toutes les périodes d’emploi pendant qu’il est membre de l’unité de négociation ou d’une unité de négociation semblable de l’employeur et toutes les périodes d’emploi pendant qu’il était membre d’une unité de négociation d’un employeur précédent, son ancienneté comprend toutes les périodes d’emploi pendant qu’il est membre de l’unité de négociation ou d’une unité de négociation semblable de l’employeur et toutes les périodes d’emploi auprès d’un employeur précédent à un poste comportant des fonctions, responsabilités et autres caractéristiques telles que, si l’emploi était exercé auprès de l’employeur, l’employé aurait été membre de l’unité de négociation ou d’une unité de négociation semblable.
 
 ### Exception, certains employés municipaux
 
 (4) Le paragraphe (3) ne s’applique pas à l’égard d’un employé à qui s’applique un arrêté pris ou un ordre donné en vertu du paragraphe 12.9 (5) du Règlement de l’Ontario 143/96 (« Pouvoirs du ministre ou d’une commission visant la mise en oeuvre d’une proposition de restructuration »).
+
 (5) Abrogé : 2006, chap. 35, annexe D, art. 13.
 
 ### Ordonnance : convention de remplacement
@@ -894,8 +1009,11 @@ c) si la convention collective prévoit que l’ancienneté comprend toutes les 
 ### Exigences à respecter après la vente d’une entreprise
 
 36 (1) Le présent article ne s’applique que comme le prévoit l’article 12 et qu’à l’égard de ce qui suit :
+
 a) une convention collective conclue entre l’employeur d’une entreprise qui vend celle-ci et un agent négociateur, si, aux termes du paragraphe 69 (2) de la Loi de 1995 sur les relations de travail, la convention collective lie la personne à qui l’entreprise est vendue;
+
 b) si aucune convention collective visée à l’alinéa a) n’est en vigueur lorsque l’entreprise est vendue, la première convention collective conclue entre la personne à qui l’entreprise est vendue et l’agent négociateur, le cas échéant, qui a le droit aux termes du paragraphe 69 (3) de la Loi de 1995 sur les relations de travail de représenter les employés compris dans l’unité de négociation;
+
 c) une convention collective conclue entre un employeur à qui une entreprise est vendue et un agent négociateur.
 
 ### Règles obligatoires
@@ -931,7 +1049,9 @@ c) une convention collective conclue entre un employeur à qui une entreprise es
 ### Aucun comité
 
 (2) Lorsqu’est conféré à la Commission le pouvoir de rendre une décision ou une ordonnance ou de décider d’une question en vertu de la présente loi, le pouvoir est exercé :
+
 a) soit par le président ou, en cas d’absence ou d’empêchement de celui-ci, par le président suppléant;
+
 b) soit par un vice-président désigné par le président à sa seule discrétion ou, en cas d’absence ou d’empêchement de celui-ci, par un vice-président désigné par le président suppléant à sa seule discrétion.
 
 ### Agents des relations de travail
@@ -979,30 +1099,43 @@ b) soit par un vice-président désigné par le président à sa seule discréti
 ### Idem, secteur hospitalier
 
 (2) En cas d’incompatibilité entre les dispositions de la présente loi et celles d’un plan de ressources humaines dont ont convenu un employeur et un agent négociateur, les dispositions du plan l’emportent, sauf dans les circonstances et aux égards suivants :
+
 1. L’article 33 de la présente loi l’emporte sur les dispositions d’un plan, sauf s’il s’agit d’un plan dont il a été convenu avant l’entrée en vigueur du présent paragraphe. Toutefois, cet article l’emporte sur les dispositions d’un tel plan si celui-ci est modifié à la date d’entrée en vigueur du présent paragraphe ou par la suite.
+
 2. Abrogé : 2006, chap. 35, annexe D, art. 17.
+
 3. Les dispositions d’un plan ne l’emportent pas sur celles de la présente loi dans les circonstances prescrites. Elles ne l’emportent pas non plus sur les dispositions prescrites de la présente loi.
 
 ### Règlements
 
 40 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) Abrogé : 2006, chap. 35, annexe D, par. 18 (1).
+
 b) régir comment la présente loi s’applique à l’égard des employés d’un employeur précédent qui effectuent des travaux de construction et qui, immédiatement avant la date du changement, sont compris dans une unité de négociation à l’égard de laquelle un syndicat de la construction a le droit de négocier;
+
 c) prescrire tout ce qui doit ou peut être prescrit aux termes de la présente loi;
+
 d) définir, pour l’application de tout ou partie de la présente loi, les termes non définis dans celle-ci;
+
 e) régir toute question jugée utile ou nécessaire à la réalisation des objets de la présente loi.
 
 ### Définitions
 
 (2) Les définitions qui suivent s’appliquent à l’alinéa (1) b).
+
 «syndicat de la construction» Syndicat ou conseil de syndicats, au sens de l’article 126 de la Loi de 1995 sur les relations de travail, ou agent négociateur affilié ou organisme négociateur syndical, au sens de l’article 151 de cette loi. («construction union»)
+
 «travaux de construction» Construction, transformation, décoration, réparation ou démolition de bâtiments, d’ouvrages, de routes, d’égouts, de conduites d’eau ou de gaz, de canalisations, de tunnels, de ponts, de canaux et autres travaux accessoires, effectués sur les lieux. («construction work») 1997, chap. 21, annexe B, par. 40 (2).
 
 ### Règlements relatifs à l’industrie de la construction
 
 (3) Les règlements pris en application de l’alinéa (1) b) peuvent :
+
 a) modifier l’application de la présente loi;
+
 b) prescrire des dispositions qui s’appliquent à la place de toute partie de la présente loi;
+
 c) prescrire des dispositions qui s’appliquent en plus de la présente loi.
 
 ### Idem
@@ -1016,7 +1149,9 @@ c) prescrire des dispositions qui s’appliquent en plus de la présente loi.
 ### Portée des règlements et catégories
 
 (5) Les règlements pris en application du présent article peuvent :
+
 a) avoir une portée générale ou particulière;
+
 b) s’appliquer à toute catégorie de personnes, de parties, d’organisations ou d’activités.
 
 ### Effet rétroactif
@@ -1030,5 +1165,7 @@ b) s’appliquer à toute catégorie de personnes, de parties, d’organisations
 ### Incompatibilité
 
 (8) En cas d’incompatibilité entre la présente loi et un règlement pris en vertu du paragraphe (7), le règlement l’emporte.
+
 41 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 42 Omis (édicte le titre abrégé de la présente loi).

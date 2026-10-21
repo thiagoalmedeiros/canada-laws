@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-01-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96m06"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # régime de retraite des députés (Loi de 1996 sur le)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96m06) before relying on it.
 
 L.O. 1996, chap. 6, annexe A
 
@@ -23,23 +23,41 @@ L.O. 1996, chap. 6, annexe A
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «compte de régime enregistré» Le compte de régime enregistré établi aux termes du paragraphe 23 (1). («registered plan account»)
+
 «compte de régime supplémentaire» Le compte de régime supplémentaire établi aux termes du paragraphe 39 (1). («supplementary plan account»)
+
 «conjoint» L’une ou l’autre de deux personnes qui, selon le cas :
+
 a) sont mariées ensemble;
+
 b) ont contracté, de bonne foi selon la personne qui fait valoir un droit en vertu du régime, un mariage nul de nullité relative ou absolue;
+
 c) ont vécu ensemble dans une union conjugale hors du mariage de façon continue pendant au moins trois ans;
+
 d) ont vécu ensemble dans une union conjugale hors du mariage dans une relation d’une certaine permanence, si elles sont les parents d’un enfant comme il est énoncé à l’article 4 de la Loi portant réforme du droit de l’enfance. («spouse»)
+
 «enfant à charge» Relativement à une personne, s’entend de son enfant qui satisfait à l’une ou l’autre des conditions suivantes :
+
 a) il est âgé de moins de 18 ans;
+
 b) il est âgé de 18 ans ou plus et, depuis qu’il a atteint l’âge de 18 ans, il a poursuivi sans interruption des études à plein temps dans l’un ou l’autre des établissements suivants ou les deux :
+
 (i) une école secondaire,
+
 (ii) un établissement d’enseignement postsecondaire reconnu par la Commission de régie interne de l’Assemblée, pendant les cinq années qui suivent l’école secondaire. («dependent child»)
+
 «indice des prix à la consommation» S’entend au sens du paragraphe 8500 (1) du Règlement de l’impôt sur le revenu (Canada). («Consumer Price Index»)
+
 «moyenne de l’indice des prix à la consommation» S’entend au sens du paragraphe 8500 (1) du Règlement de l’impôt sur le revenu (Canada). («average Consumer Price Index»)
+
 «régime» Le régime de retraite maintenu aux termes du paragraphe 2 (1). S’entend en outre du régime enregistré et du régime supplémentaire. («plan»)
+
 «régime antérieur à la réforme» La Loi sur les allocations de retraite des députés à l’Assemblée législative, telle qu’elle existait le 31 décembre 1991, y compris les modifications qui sont réputées y être apportées par les paragraphes 50 (3) et (4) de la présente loi. («pre-reform plan»)
+
 «régime enregistré» Le régime de retraite établi dans les parties III, IV et V de la présente loi. («registered plan»)
+
 «régime supplémentaire» Le régime de retraite établi dans les parties VI, VII et VIII de la présente loi. («supplementary plan») 1996, chap. 6, annexe A, par. 1 (1)
 
 ### Rémunération
@@ -65,8 +83,11 @@ b) il est âgé de 18 ans ou plus et, depuis qu’il a atteint l’âge de 18 an
 ### Calcul des services
 
 (6) Les règles suivantes s’appliquent au calcul des services d’une durée de moins d’un an aux termes de la présente loi :
+
 a) le calcul se fait sur une base mensuelle;
+
 b) une fraction de mois inférieure à 15 jours ne compte pas;
+
 c) une fraction de mois égale ou supérieure à 15 jours est réputée un mois entier.
 
 ### Calcul tenant compte de l’âge
@@ -140,7 +161,9 @@ c) une fraction de mois égale ou supérieure à 15 jours est réputée un mois 
 ### Idem, commissaire à l’information et à la protection de la vie privée et ombudsman
 
 (5) Si, dans les quatre mois qui suivent le jour où la présente loi reçoit la sanction royale, le commissaire à l’information et à la protection de la vie privée ou l’ombudsman, selon le cas, avise le président de l’Assemblée qu’il a l’intention de racheter des éléments de retraite du Régime de retraite des fonctionnaires pour les services auxquels le remboursement se rattache, le montant qui lui est remboursé (majoré des intérêts) est versé :
+
 a) d’une part, au Régime de retraite des fonctionnaires, dans la mesure nécessaire pour acquitter les cotisations prévues par celui-ci au titre de ces services;
+
 b) d’autre part, au commissaire ou à l’ombudsman, selon le cas, dans la mesure où le versement prévu à l’alinéa a) laisse un reliquat.
 
 ### Droit à une allocation
@@ -150,7 +173,9 @@ b) d’autre part, au commissaire ou à l’ombudsman, selon le cas, dans la mes
 ### Idem
 
 (2) L’allocation prévue au paragraphe (1) commence à être versée le premier du mois qui coïncide avec le dernier en date des jours suivants ou qui le suit :
+
 a) le jour où la personne cesse de participer au régime;
+
 b) le jour où la somme de son âge et de ses années de service à titre de député est de 55.
 
 ### Allocation versée à l’âge de 69 ans
@@ -160,30 +185,51 @@ b) le jour où la somme de son âge et de ses années de service à titre de dé
 ### Montant de l’allocation
 
 10 (1) Le montant de l’allocation qu’une personne touche aux termes de l’article 9 pour l’année civile au cours de laquelle elle commence à être versée est calculé selon la formule suivante :
+
 (A × B)×(1 – 0,0025 × C) + D
+
 où :
+
 «A» est égal au moindre des montants suivants :
+
 a) 2 pour cent de la rémunération annuelle moyenne de la personne,
+
 b) le plafond des prestations déterminées pour l’année au cours de laquelle l’allocation commence à être versée;
+
 «B» est égal aux services que la personne a accomplis à titre de député après 1991, mais avant le 8 juin 1995;
+
 «C» est égal au nombre de mois compris dans la période qui débute le jour où l’allocation commence à être versée et qui se termine le premier en date des jours suivants :
+
 a) le jour où la personne atteint l’âge de 60 ans,
+
 b) le jour où elle aurait terminé 30 années de service à titre de député si elle était encore député,
+
 c) le jour où la somme de son âge et de ses années de service à titre de député aurait été de 80 si elle était encore député;
+
 «D» est égal à l’un ou l’autre des montants suivants :
+
 a) dans le cas d’une personne qui était député le 1 er janvier 1992 ou avant cette date, l’allocation annuelle qui lui aurait été payable dans le cadre du régime antérieur à la réforme pour l’année, calculée à l’égard des services qu’elle a accomplis à titre de député avant 1992, mais sans l’augmentation ou l’indexation prévue par ce régime, si ce dernier s’était appliqué à elle,
+
 b) dans les autres cas, zéro.
 
 ### Idem
 
 (2) Le montant de l’allocation d’une personne pour une année civile postérieure à celle au cours de laquelle elle commence à être versée est calculé selon la formule suivante :
+
 E × (F/G) + H
+
 où :
+
 «E» est égal au montant calculé aux termes du paragraphe (1) pour la personne, en supposant que la valeur du terme «D» utilisé dans ce calcul est de zéro;
+
 «F» est égal à la moyenne de l’indice des prix à la consommation pour l’année civile;
+
 «G» est égal à la moyenne de l’indice des prix à la consommation pour l’année civile au cours de laquelle l’allocation a commencé à être versée;
+
 «H» est égal à l’un ou l’autre des montants suivants :
+
 a) dans le cas d’une personne qui était député le 1 er janvier 1992 ou avant cette date, l’allocation annuelle qui lui aurait été payable dans le cadre du régime antérieur à la réforme pour l’année, calculée à l’égard des services qu’elle a accomplis à titre de député avant 1992, si ce régime s’était appliqué à elle,
+
 b) dans les autres cas, zéro.
 
 ### Rémunération annuelle moyenne
@@ -197,19 +243,25 @@ b) dans les autres cas, zéro.
 ### Rémunération mensuelle indexée
 
 (5) La rémunération indexée d’une personne pour un mois correspond à la rémunération de ce mois multipliée par le rapport entre «A» et «B» où :
+
 «A» est égal au salaire moyen de la dernière en date de 1986 et de l’année civile au cours de laquelle l’allocation commence à être versée à la personne;
+
 «B» est égal au salaire moyen de la dernière en date de 1986 et de l’année civile au cours de laquelle la rémunération est versée.
 
 ### Définitions
 
 (6) Les définitions qui suivent s’appliquent au présent article.
+
 «plafond des prestations déterminées» S’entend au sens du paragraphe 8500 (1) du Règlement de l’impôt sur le revenu (Canada). («defined benefit limit»)
+
 «salaire moyen» S’entend au sens du paragraphe 147.1 (1) de la Loi de l’impôt sur le revenu (Canada). («average wage») 1996, chap. 6, annexe A, par. 10 (3) à (6).
 
 ### Plafond global
 
 10.1 (1) Malgré toute autre disposition de la présente partie, l’allocation annuelle totale payable aux termes de la présente partie à un participant au régime enregistré ne doit pas dépasser les montants suivants :
+
 a) pour l’année civile au cours de laquelle l’allocation commence à être versée, 5 pour cent de la rémunération annuelle moyenne du participant, multiplié par ses années de service à titre de député postérieures au 8 juin 1995, jusqu’à concurrence de 75 pour cent de sa rémunération annuelle moyenne;
+
 b) pour toute année civile postérieure, le montant visé à l’alinéa a), majoré de la manière prévue au paragraphe 30 (6).
 
 ### Rémunération annuelle moyenne
@@ -223,7 +275,9 @@ b) pour toute année civile postérieure, le montant visé à l’alinéa a), ma
 ### Idem
 
 (2) Le montant de l’allocation prévue au paragraphe (1) est égal au total des montants suivants :
+
 a) les deux tiers de l’allocation que l’ancien participant aurait touchée, calculée aux termes de l’article 10 en supposant que la valeur des termes «D» et «H» des paragraphes 10 (1) et (2) est de zéro;
+
 b) 60 pour cent de l’allocation que l’ancien participant aurait touchée, calculée aux termes de l’article 10 en supposant que la valeur de tous les termes des paragraphes 10 (1) et (2) autres que les termes «D» et «H» est de zéro, plus 10 pour cent de cette allocation ainsi calculée à l’égard de chacun des enfants à sa charge le jour de son décès, jusqu’à concurrence de trois.
 
 ### Allocation aux enfants
@@ -241,13 +295,17 @@ b) 60 pour cent de l’allocation que l’ancien participant aurait touchée, ca
 ### Montant de l’allocation au conjoint
 
 (2) Le montant de l’allocation prévue au paragraphe (1) pour l’année civile au cours de laquelle décède le participant est égal au total des montants suivants :
+
 a) les deux tiers de l’allocation que le participant avait accumulée jusqu’au jour de son décès, calculée conformément au paragraphe 10 (1) en supposant que la valeur des termes «C» et «D» de ce paragraphe est de zéro;
+
 b) 60 pour cent de l’allocation que le participant avait accumulée jusqu’au jour de son décès, calculée conformément au paragraphe 10 (1) en supposant que la valeur des termes «A», «B» et «C» de ce paragraphe est de zéro, plus 10 pour cent de cette allocation ainsi calculée à l’égard de chacun des enfants à charge du participant le jour de son décès, jusqu’à concurrence de trois.
 
 ### Idem
 
 (3) Le montant de l’allocation prévue au paragraphe (1) pour une année civile postérieure à l’année du décès est égal au total des montants suivants :
+
 a) les deux tiers de l’allocation que le participant avait accumulée jusqu’au jour de son décès, calculée conformément au paragraphe 10 (2) en supposant que la valeur du terme «H» de ce paragraphe est de zéro;
+
 b) 60 pour cent de l’allocation que le participant avait accumulée jusqu’au jour de son décès, calculée conformément au paragraphe 10 (2) en supposant que la valeur des termes «E», «F» et «G» de ce paragraphe est de zéro, plus 10 pour cent de cette allocation ainsi calculée à l’égard de chacun des enfants à charge du participant le jour de son décès, jusqu’à concurrence de trois.
 
 ### Allocation aux enfants
@@ -273,7 +331,9 @@ b) 60 pour cent de l’allocation que le participant avait accumulée jusqu’au
 ### Montant de l’allocation au conjoint
 
 (3) Le montant de l’allocation prévue au paragraphe (1) est égal au total des montants suivants :
+
 a) les deux tiers de l’allocation que l’ancien participant aurait touchée, calculée aux termes de l’article 10 en supposant que la valeur des termes «D» et «H» des paragraphes 10 (1) et (2) est de zéro;
+
 b) 60 pour cent de l’allocation que l’ancien participant aurait touchée, calculée aux termes de l’article 10 en supposant que la valeur de tous les termes des paragraphes 10 (1) et (2) autres que les termes «D» et «H» est de zéro, plus 10 pour cent de cette allocation ainsi calculée à l’égard de chacun des enfants à sa charge le jour de son décès, jusqu’à concurrence de trois.
 
 ### Allocation réduite
@@ -303,9 +363,13 @@ b) 60 pour cent de l’allocation que l’ancien participant aurait touchée, ca
 ### Idem
 
 (2) Pour l’application du paragraphe (1) :
+
 «A» est égal au montant des cotisations de l’ancien participant ou du participant, majoré des intérêts calculés au taux annuel de 6 pour cent jusqu’au premier en date des jours suivants :
+
 a) le jour où il a commencé à toucher l’allocation, le cas échéant,
+
 b) le jour du décès;
+
 «B» est égal au montant total éventuel de l’allocation qu’il a touchée jusqu’au jour du décès.
 
 ### Validation des services antérieurs
@@ -341,8 +405,11 @@ b) le jour du décès;
 ### Prestations visées à la partie III
 
 (3) Pour l’application du paragraphe (2), les prestations visées à la partie III sont calculées conformément à cette partie avec les adaptations suivantes :
+
 1. La personne est réputée avoir droit à ces prestations même si elle n’était pas député pendant au moins cinq ans avant le 8 juin 1995.
+
 2. Les prestations se fondent sur la rémunération annuelle moyenne de la personne, calculée au 7 juin 1995 conformément à l’article 10.
+
 3. Il est présumé que la personne a cessé d’être député à la date de transformation que fixe le ministre des Finances.
 
 ### Valeur de rachat
@@ -388,12 +455,15 @@ b) le jour du décès;
 ### Idem
 
 (3) Le ministre effectue le versement dans les 90 jours qui suivent celui où le président de l’Assemblée est avisé du choix que fait la personne.
+
 (4) Abrogé : 1999, chap. 15, par. 20 (1).
 
 ### Idem
 
 (5) Le compte de retraite avec immobilisation des fonds ne doit pas permettre le versement d’un montant à la personne avant le dernier en date des jours suivants :
+
 a) le jour où elle cesse de participer au régime;
+
 b) le jour où elle atteint l’âge de 55 ans.
 
 ### Effet du versement
@@ -403,13 +473,17 @@ b) le jour où elle atteint l’âge de 55 ans.
 ### Modification : compte de retraite avec immobilisation des fonds
 
 (7) La personne visée au paragraphe (1) qui a conclu un contrat constituant un compte de retraite avec immobilisation des fonds a le droit d’en exiger la modification, malgré ses autres clauses, si les conditions suivantes sont réunies :
+
 a) son conjoint au moment où elle exige la modification y consent par écrit;
+
 b) le contrat modifié est conforme au paragraphe (5) et satisfait aux exigences de la Loi de l’impôt sur le revenu (Canada) relatives aux régimes enregistrés d’épargne-retraite ou aux fonds enregistrés de revenu de retraite au sens de cette loi.
 
 ### Idem : fonds de revenu viager
 
 (8) La personne visée au paragraphe (1) qui, en se prévalant des droits prévus par un contrat conclu pour constituer un compte de retraite avec immobilisation des fonds, a conclu un contrat constituant un fonds de revenu viager a le droit d’exiger la modification du contrat constitutif du fonds, malgré ses autres clauses, si les conditions suivantes sont réunies :
+
 a) son conjoint au moment où elle exige la modification y consent par écrit;
+
 b) le contrat modifié est conforme au paragraphe (5) et satisfait aux exigences de la Loi de l’impôt sur le revenu (Canada) relatives aux régimes enregistrés d’épargne-retraite ou aux fonds enregistrés de revenu de retraite au sens de cette loi.
 
 ### Modification obligatoire
@@ -423,7 +497,9 @@ b) le contrat modifié est conforme au paragraphe (5) et satisfait aux exigences
 ### Définitions
 
 (11) Les définitions qui suivent s’appliquent aux paragraphes (7) à (10).
+
 «compte de retraite avec immobilisation des fonds» Compte de retraite avec immobilisation des fonds qui est constitué avant le jour où la Loi de 1999 modifiant des lois concernant les régimes de retraite reçoit la sanction royale et qui, lors de sa constitution, se veut conforme au présent article, tel qu’il existe alors. («locked-in retirement account»)
+
 «fonds de revenu viager» Fonds de revenu viager qui est constitué avant le jour où la Loi de 1999 modifiant des lois concernant les régimes de retraite reçoit la sanction royale et qui, lors de sa constitution, est visé par l’annexe 1 du Règlement 909 («Dispositions générales») pris en application de la Loi sur les régimes de retraite, telle que cette annexe existe alors. («life income fund») 1999, chap. 15, par. 20 (2).
 
 ## PARTIE V FLUX DE TRÉSORERIE DU RÉGIME ENREGISTRÉ
@@ -499,11 +575,17 @@ b) le contrat modifié est conforme au paragraphe (5) et satisfait aux exigences
 ### Forme de pension
 
 (3) La pension doit satisfaire aux exigences suivantes :
+
 1. Elle doit avoir une forme acceptable pour les pensions payables sur des régimes de retraite à cotisations déterminées agréés en vertu de la Loi de l’impôt sur le revenu (Canada).
+
 2. Elle doit être réversible si le participant a un conjoint lorsqu’il cesse de participer au régime. Le participant doit être autorisé à renoncer à la réversibilité des versements avec le consentement de son conjoint.
+
 3. Si le participant a un conjoint lorsqu’il cesse de participer au régime et que la pension est réversible, le conjoint doit avoir droit à 60 pour cent du montant payable au participant aux termes de la pension.
+
 4. La pension doit commencer à être versée :
+
 i. au plus tôt le dernier en date du jour où la personne a cessé de participer au régime et du jour où elle atteint l’âge de 55 ans,
+
 ii. au plus tard le dernier jour de l’année civile au cours de laquelle la personne atteint l’âge de 69 ans.
 
 ### Préférences quant à la pension
@@ -513,8 +595,11 @@ ii. au plus tard le dernier jour de l’année civile au cours de laquelle la pe
 ### Idem
 
 (5) Si la personne n’avise pas le président de ses préférences quant à la forme de pension dans le délai de 60 jours, il lui est versé une pension qui satisfait aux exigences énoncées au paragraphe (3) et qui :
+
 a) n’a pas de période garantie;
+
 b) n’est pas indexée;
+
 c) remplit les autres conditions qu’impose le président.
 
 ### Transférabilité
@@ -566,25 +651,37 @@ c) remplit les autres conditions qu’impose le président.
 ### Idem
 
 (2) L’allocation commence à être versée le premier du mois qui coïncide avec le dernier en date des jours suivants ou qui le suit :
+
 a) le jour où la personne cesse de participer au régime;
+
 b) le jour où la somme de son âge et de ses années de service à titre de député est de 55.
 
 ### Montant de l’allocation
 
 (3) Le montant de l’allocation pour l’année civile au cours de laquelle elle commence à être versée est calculé selon la formule suivante :
+
 A – B
+
 où :
+
 «A» est égal à 5 pour cent de la rémunération annuelle moyenne de la personne, multiplié par ses années de service à titre de député antérieures au 8 juin 1995, jusqu’à concurrence de 15;
+
 «B» est égal au montant payable dans le cadre du régime enregistré pour l’année, calculé aux termes du paragraphe 10 (1).
 
 ### Idem
 
 (4) Sous réserve du paragraphe (6), le montant de l’allocation pour une année civile postérieure à celle au cours de laquelle elle commence à être versée est calculé selon la formule suivante :
+
 A × (C/D) – E
+
 où :
+
 «A» est égal à 5 pour cent de la rémunération annuelle moyenne de la personne, multiplié par ses années de service à titre de député antérieures au 8 juin 1995, jusqu’à concurrence de 15;
+
 «C» est égal à la moyenne de l’indice des prix à la consommation pour la dernière en date de 1995 et de l’année civile;
+
 «D» est égal à la moyenne de l’indice des prix à la consommation pour la dernière en date de 1995 et de l’année civile au cours de laquelle l’allocation a commencé à être versée;
+
 «E» est égal au montant payable dans le cadre du régime enregistré pour l’année, calculé aux termes du paragraphe 10 (2).
 
 ### Rémunération annuelle moyenne
@@ -602,7 +699,9 @@ où :
 ### Idem
 
 (2) Le montant de l’allocation prévue au paragraphe (1) est égal au montant de l’excédent éventuel de «A» sur «B» où :
+
 «A» est égal au montant de l’allocation qui aurait été versée au conjoint aux termes du paragraphe 19 (1) du régime antérieur à la réforme, si ce paragraphe s’était appliqué à l’ancien participant le jour du décès;
+
 «B» est égal au montant de l’allocation payable au conjoint aux termes du paragraphe 11 (1).
 
 ### Allocation aux enfants
@@ -620,7 +719,9 @@ où :
 ### Montant de l’allocation au conjoint
 
 (2) L’allocation prévue au paragraphe (1) est égale au montant de l’excédent éventuel de «A» sur «B» où :
+
 «A» est égal au montant de l’allocation qui aurait été versée au conjoint aux termes de l’alinéa 19 (3) a) du régime antérieur à la réforme, si cet alinéa s’était appliqué au participant le jour du décès;
+
 «B» est égal au montant de l’allocation payable au conjoint aux termes du paragraphe 12 (1).
 
 ### Allocation aux enfants
@@ -646,10 +747,15 @@ où :
 ### Montant de l’allocation au conjoint
 
 (3) Le montant de l’allocation prévue au paragraphe (1) est calculé selon la formule suivante :
+
 A + B – C
+
 où :
+
 «A» est égal à 60 pour cent de l’allocation à laquelle l’ancien participant aurait eu droit dans le cadre du régime antérieur à la réforme le jour où l’allocation prévue au paragraphe (1) commence à être versée, si ce régime s’était appliqué à lui;
+
 «B» est égal à 10 pour cent de l’allocation mentionnée dans la définition du terme «A» à l’égard de chacun des enfants à charge de l’ancien participant le jour de son décès, jusqu’à concurrence de trois;
+
 «C» est égal au montant de l’allocation payable au conjoint aux termes du paragraphe 13 (1).
 
 ### Allocation réduite
@@ -677,8 +783,11 @@ où :
 ### Prestations visées à la partie VI
 
 (3) Pour l’application du paragraphe (2), les prestations visées à la partie VI sont calculées conformément à cette partie avec les adaptations suivantes :
+
 1. La personne est réputée avoir droit à ces prestations même si elle n’était pas député pendant au moins cinq ans avant le 8 juin 1995.
+
 2. Les prestations se fondent sur la rémunération annuelle moyenne de la personne, calculée au 7 juin 1995 conformément au paragraphe 30 (5).
+
 3. Il est présumé que la personne a cessé d’être député à la date de transformation que fixe le ministre des Finances.
 
 ### Valeur de rachat
@@ -824,7 +933,9 @@ où :
 ### Prorogation des délais
 
 46 (1) Le président de l’Assemblée peut proroger tout délai imparti aux termes de la présente loi avant ou après son expiration si, à son avis :
+
 a) d’une part, des circonstances particulières justifient la prorogation;
+
 b) d’autre part, la prorogation n’entraînera pas de coût supplémentaire pour le régime.
 
 ### Restriction
@@ -896,7 +1007,9 @@ b) d’autre part, la prorogation n’entraînera pas de coût supplémentaire p
 ### Idem
 
 (2) Tous les ans à compter de 1997, le 1 er janvier, le montant d’une allocation payable par ailleurs aux termes de la présente loi est augmenté du moindre des pourcentages suivants :
+
 a) 2 pour cent;
+
 b) l’augmentation de la moyenne de l’indice des prix à la consommation pour l’année.
 
 ### Taux d’inflation supérieur à 2 pour cent
@@ -906,6 +1019,7 @@ b) l’augmentation de la moyenne de l’indice des prix à la consommation pour
 ### Définition
 
 (4) La définition qui suit s’applique au présent article.
+
 «moyenne de l’indice des prix à la consommation» S’entend au sens du paragraphe 8500 (1) du Règlement de l’impôt sur le revenu (Canada).
 
 ### Augmentation discrétionnaire
@@ -953,14 +1067,19 @@ b) l’augmentation de la moyenne de l’indice des prix à la consommation pour
 ### Interprétation
 
 52 (1) Les définitions qui suivent s’appliquent à la présente partie et à l’annexe 1.
+
 «régime de retraite complémentaire des députés» Tout régime de retraite complémentaire constitué par décret en vertu de l’article 54. («MPP supplemental pension plan»)
+
 «Régime de retraite des fonctionnaires» Le régime de retraite maintenu aux termes de la Loi sur le Régime de retraite des fonctionnaires. («Public Service Pension Plan») 2025, chap. 2, art. 8.
 
 ### Idem
 
 (2) Pour l’application de la présente partie, de l’annexe 1, du Régime de retraite des fonctionnaires et de tout régime de retraite complémentaire applicable constitué en vertu de la Loi sur le Régime de retraite des fonctionnaires :
+
 a) l’employeur des députés à l’Assemblée est l’Assemblée;
+
 b) la période de service des députés à l’Assemblée est calculée conformément au paragraphe 61 (2) de la Loi sur l’Assemblée législative ;
+
 c) le traitement des députés à l’Assemblée correspond au montant qui leur est versé aux termes de la Loi sur l’Assemblée législative, à l’exclusion des montants versés en remboursement des frais qu’ils ont réellement engagés et au traitement qui leur est versé, le cas échéant, aux termes de la Loi sur le Conseil exécutif.
 
 ### Participation des députés au Régime de retraite des fonctionnaires
@@ -970,7 +1089,9 @@ c) le traitement des députés à l’Assemblée correspond au montant qui leur 
 ### Acquisition de prestations : députés en fonction au cours de la 44 e législature
 
 (2) Pour la personne qui est député à l’Assemblée au cours de la 44 e législature, les prestations prévues par le Régime de retraite des fonctionnaires à l’égard des services à titre de député de l’Assemblée sont acquises, malgré la Loi sur les régimes de retraite :
+
 a) le jour de la dissolution de la 44 e législature, si elle est encore député à l’Assemblée ce jour-là;
+
 b) le jour de son décès, si elle décède avant que la 44 e législature soit dissoute et que, le jour où elle décède, elle est encore député à l’Assemblée.
 
 ### Régime de retraite complémentaire
@@ -1008,15 +1129,21 @@ b) le jour de son décès, si elle décède avant que la 44 e législature soit 
 ### Allocations
 
 57 (1) Le lieutenant-gouverneur en conseil peut, par décret, prévoir le versement d’une allocation à un député à l’Assemblée qui n’est pas, selon le cas :
+
 a) admissible à titre de participant au Régime de retraite des fonctionnaires;
+
 b) admissible à titre de participant à un régime de retraite complémentaire des députés.
 
 ### Idem
 
 (2) Le lieutenant-gouverneur en conseil peut, par décret, prévoir le versement d’une allocation à une personne qui n’est pas un député à l’Assemblée mais qui :
+
 a) d’une part, était un député à l’Assemblée le 1 er janvier 2026 ou après cette date;
+
 b) d’autre part, pendant qu’elle était un député à l’Assemblée le 1 er janvier 2026 ou après cette date, n’était pas, selon le cas :
+
 (i) admissible à titre de participant au Régime de retraite des fonctionnaires,
+
 (ii) admissible à titre de participant à un régime de retraite complémentaire des députés.
 
 ### Trésor
@@ -1042,9 +1169,13 @@ b) d’autre part, pendant qu’elle était un député à l’Assemblée le 1 e
 ### Options
 
 (2) La personne peut choisir une ou plusieurs des options suivantes pour utiliser le solde :
+
 1. Elle peut toucher une pension constituée avec la totalité ou une partie du solde en vertu de l’article 27.
+
 2. Elle peut exiger que la totalité ou une partie du solde soit transférée à un compte de retraite avec immobilisation des fonds ou à un fonds de revenu viager en vertu de l’article 28.
+
 3. Elle peut exiger que la totalité ou une partie du solde soit transférée à un autre régime de retraite enregistré en vertu de la Loi de l’impôt sur le revenu (Canada), pourvu que l’administrateur de ce régime de retraite consente au transfert, auquel cas l’article 28 s’applique à ce transfert, avec les adaptations nécessaires.
+
 4. Elle peut exiger que la totalité ou une partie du solde soit transférée à la Caisse de retraite des fonctionnaires maintenue aux termes de la Loi sur le Régime de retraite des fonctionnaires afin de racheter des droits à pension pour service antérieur à titre de député à l’Assemblée dans le Régime de retraite des fonctionnaires, conformément aux modalités de ce régime.
 
 ### Option en l’absence d’un choix
@@ -1072,9 +1203,13 @@ b) d’autre part, pendant qu’elle était un député à l’Assemblée le 1 e
 ### Acquisition des prestations
 
 1 Les prestations sont acquises :
+
 a) pour la personne qui est député à l’Assemblée au cours de la 44 e législature :
+
 (i) le jour de la dissolution de la 44 e législature, si elle est encore député ce jour-là et, que ce même jour, elle a accumulé au moins six années de service à titre de député à l’Assemblée,
+
 (ii) le jour de son décès, si elle décède avant que la 44 e législature soit dissoute et que, le jour où elle décède, elle est encore député et a accumulé au moins six années de service à titre de député à l’Assemblée;
+
 b) pour la personne qui est député à l’Assemblée au cours d’une législature postérieure à la 44 e législature, mais à laquelle le sous-alinéa a) (i) ne s’applique pas, le jour où elle a accumulé au moins six années de cotisation au régime de retraite complémentaire des députés.
 
 ### Admissibilité à une pension
@@ -1092,9 +1227,13 @@ b) pour la personne qui est député à l’Assemblée au cours d’une législa
 ### Réduction à 65 ans
 
 5 Le montant annuel de la pension d’une personne est réduit, lorsqu’elle atteint l’âge de 65 ans ou si elle est déjà âgée d’au moins 65 ans lorsqu’elle commence à toucher la pension, du produit des montants suivants :
+
 a) 0,7 % du moindre de ce qui suit :
+
 (i) le traitement annuel moyen de la personne,
+
 (ii) la moyenne des maximums des gains annuels ouvrant droit à pension de la personne;
+
 b) les années de cotisation de la personne au régime de retraite complémentaire des députés, jusqu’à concurrence de 35 années de service.
 
 ### Réduction : début de la pension avant 65 ans
@@ -1120,5 +1259,7 @@ b) les années de cotisation de la personne au régime de retraite complémentai
 ### Définitions
 
 11 Les définitions qui suivent s’appliquent à la présente annexe.
+
 «moyenne des maximums des gains annuels ouvrant droit à pension» Relativement à un participant, s’entend de la moyenne des maximums des gains annuels ouvrant droit à pension prévue par le Régime de pensions du Canada pour l’année au cours de laquelle le participant cesse de participer au régime de retraite complémentaire des députés et pour chacune des deux années antérieures. («average year’s maximum pensionable earnings»)
+
 «traitement annuel moyen» Le traitement moyen le plus élevé visé à l’article 3 de la présente annexe. («average annual salary»)

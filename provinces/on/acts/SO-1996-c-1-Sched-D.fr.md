@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "1996-01-30"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96o01"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # emprunts de l'Ontario (Loi de 1996 sur les)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/96o01) before relying on it.
 
 L.O. 1996, chap. 1 , Annexe D
 
@@ -27,5 +27,7 @@ L.O. 1996, chap. 1 , Annexe D
 ### Cessation d’effet
 
 2 Nul décret autorisant un emprunt en vertu de la présente loi n’est pris après le 31 décembre 1996.
+
 3 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 4 Omis (édicte le titre abrégé de la présente loi).

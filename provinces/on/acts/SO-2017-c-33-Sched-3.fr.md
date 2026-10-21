@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2026-06-10"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17t33"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # vente de billets (Loi de 2017 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/17t33) before relying on it.
 
 L.O. 2017, chap. 33, annexe 3
 
@@ -21,20 +21,35 @@ L.O. 2017, chap. 33, annexe 3
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «abonnement» Abonnement qui permet à l’abonné de recevoir des billets pour plusieurs événements différents. («season ticket subscription»)
+
 «acheteur de billet» Personne qui participe en tant qu’acheteur à une opération mettant en jeu la vente d’un billet. («ticket purchaser»)
+
 «billet» Carte, laissez-passer, feuillet, document ou chose, sous forme électronique ou autre, dont la présentation donne le droit à son détenteur d’être admis à un événement récréatif, sportif ou culturel ou à tout autre événement prescrit en Ontario. («ticket»)
+
 «billetterie» Vendeur, revendeur ou exploitant d’une plateforme de revente de billets. («ticket business»)
+
 «directeur» La personne désignée directeur en vertu de la Loi sur le ministère des Services aux consommateurs et aux entreprises. («Director»)
+
 «exploitant de plateforme de revente de billets» La personne qui est propriétaire ou a le contrôle d’une plateforme de revente de billets. («operator of a secondary ticketing platform»)
+
 «ministère» Le ministère du ministre. («Ministry»)
+
 «ministre» Le membre du Conseil exécutif qui est chargé de tout ou partie de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «plateforme de revente de billets» Site Web, service en ligne, application électronique, publication sous forme imprimée ou emplacement physique qui facilite la vente de billets en offrant aux personnes qui mettent en vente des billets, autres que les vendeurs, un moyen pour ce faire. («secondary ticketing platform»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «prix total» À l’égard d’un billet, le prix de base majoré des frais de service et autres et des taxes applicables. («total price»)
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «revendeur» Personne qui a comme activité commerciale de mettre en vente des billets initialement mis en vente par un vendeur. («secondary seller»)
+
 «Tribunal» Le Tribunal d’appel en matière de permis créé en application de la Loi de 1999 sur le Tribunal d’appel en matière de permis. («Tribunal»)
+
 «vendeur» Personne, autre qu’un revendeur, qui a comme activité commerciale de mettre en vente des billets. S’entend en outre du propriétaire du lieu auquel un billet donne le droit d’être admis, du promoteur de l’événement qui se déroule dans ce lieu et de tout mandataire de ces personnes. («primary seller») 2017, chap. 33, annexe 3, art. 1
 
 ### Interprétation : marché secondaire
@@ -52,12 +67,19 @@ L.O. 2017, chap. 33, annexe 3
 ### Vente de billets sur le marché secondaire
 
 2 (1) Quiconque met en vente un billet sur le marché secondaire ou en facilite la vente sur le marché secondaire donne l’une ou l’autre des garanties ou des confirmations suivantes au moment de la mise en vente du billet :
+
 1. Une garantie écrite de remboursement intégral à l’acheteur du billet, fournie par un revendeur ou l’exploitant d’une plateforme de revente de billets, si, selon le cas :
+
 i. l’événement auquel le billet donne le droit d’être admis est annulé avant d’être utilisé,
+
 ii. le billet ne donne pas à l’acheteur du billet le droit d’être admis à l’événement qu’il vise, à moins que cela ne soit dû à une mesure prise par le vendeur ou le site après sa vente,
+
 iii. le billet est falsifié,
+
 iv. le billet ne correspond pas à sa description dans une publicité ou dans sa représentation à l’acheteur du billet.
+
 2. Une confirmation écrite de la validité du billet de la part du vendeur, fournie directement ou par l’intermédiaire d’un service qui offre de confirmer pour toute personne en Ontario, à titre gratuit ou moyennant des frais uniformes uniques, si un billet initialement mis en vente par le vendeur est valide ou non.
+
 3. Toute autre garantie ou confirmation prescrite.
 
 ### Exception
@@ -85,16 +107,23 @@ iv. le billet ne correspond pas à sa description dans une publicité ou dans sa
 ### Interdiction : utilisation ou vente de certains logiciels
 
 4 (1) Nul ne doit utiliser ou vendre un logiciel, y compris un logiciel d’achat automatisé de billets, conçu pour contourner en tout ou en partie ce qui suit sur un site Web, un service en ligne ou une application électronique d’une billetterie :
+
 1. Une mesure de sécurité visant à assurer un processus équitable d’achat de billets.
+
 2. Un système de contrôle d’accès visant à assurer un processus équitable d’achat de billets.
+
 3. Un autre contrôle ou une autre mesure visant à assurer un processus équitable d’achat de billets.
+
 4. Un contrôle, une mesure ou un système prescrit.
 
 ### Exception
 
 (2) Le paragraphe (1) ne s’applique pas à l’utilisation ou à la vente d’un logiciel conçu, selon le cas :
+
 a) pour enquêter sur une contravention à la présente loi ou à toute autre règle de droit;
+
 b) pour se livrer à des recherches en vue de révéler et d’analyser des défaillances et des vulnérabilités des mesures, systèmes ou contrôles visés au paragraphe (1) en vue d’approfondir les connaissances en matière de sécurité informatique ou d’aider la mise au point d’un produit de sécurité informatique;
+
 c) à des fins de recherche ou d’éducation prescrites.
 
 ### Interdiction : vente de billets obtenus au moyen de certains logiciels
@@ -108,7 +137,9 @@ c) à des fins de recherche ou d’éducation prescrites.
 ### Divulgation avant la vente
 
 5 (1) Avant de mettre en vente les billets d’un événement, le vendeur divulgue publiquement les renseignements suivants sur son site Web ou ailleurs :
+
 1. Le mode de distribution de l’ensemble des billets de l’événement qui seront mis en vente par le vendeur, y compris toute vente qui aura lieu avant que les billets soient mis en vente dans le grand public.
+
 2. Le nombre maximal de places à l’événement.
 
 ### Exception
@@ -118,7 +149,9 @@ c) à des fins de recherche ou d’éducation prescrites.
 ### Divulgation de la valeur nominale et du prix total
 
 6 (1) Le vendeur qui met en vente un billet veille à ce qui suit :
+
 a) l’offre divulgue le prix total du billet et comprend une liste détaillée des frais de service, des autres frais et des taxes applicables;
+
 b) le prix total du billet payé par l’acheteur du billet est imprimé sur le billet ou y figure par ailleurs lorsqu’il est remis à l’acheteur du billet.
 
 ### Fourniture de billets sans paiement
@@ -128,17 +161,25 @@ b) le prix total du billet payé par l’acheteur du billet est imprimé sur le 
 ### Revente
 
 (3) La personne qui met en vente un billet sur le marché secondaire veille à ce que l’offre donne les renseignements suivants :
+
 a) le prix total du billet au moment de son achat auprès du vendeur;
+
 b) le prix total exigé pour la revente du billet;
+
 c) les frais de service et autres et les taxes applicables à la revente sous la forme d’une liste détaillée;
+
 d) les autres renseignements que prescrit le ministre.
 
 ### Plateforme de revente de billets
 
 (4) L’exploitant de plateforme de revente de billets qui facilite la vente d’un billet veille à ce que l’offre donne les renseignements suivants :
+
 a) le prix total du billet au moment de son achat auprès du vendeur;
+
 b) le prix total exigé pour la revente du billet;
+
 c) les frais de service et autres et les taxes applicables à la revente sous la forme d’une liste détaillée;
+
 d) les autres renseignements que prescrit le ministre.
 
 ### Divulgation du prix à l’exploitant
@@ -156,7 +197,9 @@ d) les autres renseignements que prescrit le ministre.
 ### Devise canadienne
 
 (2) La billetterie veille à ce que, à la fois :
+
 a) les sommes figurant dans l’offre soient exprimées en devise canadienne;
+
 b) l’acheteur du billet soit facturé en devise canadienne.
 
 ### Divulgation de l’emplacement de la place assise ou debout
@@ -170,7 +213,9 @@ b) l’acheteur du billet soit facturé en devise canadienne.
 ### Divulgation de l’identité des revendeurs
 
 8 (1) La personne qui met en vente un billet sur le marché secondaire :
+
 a) soit inscrit son nom ou sa raison sociale, de même que son emplacement et ses coordonnées sur l’offre au moment de mettre en vente le billet;
+
 b) soit fournit à l’exploitant d’une plateforme de revente de billets son nom ou sa raison sociale, son emplacement et ses coordonnées, de même que les autres renseignements que prescrit le ministre, si le billet sera mis en vente par l’intermédiaire d’une telle plateforme, et ce, au moment de chercher à le mettre en vente.
 
 ### Idem
@@ -182,10 +227,15 @@ b) soit fournit à l’exploitant d’une plateforme de revente de billets son n
 ### Dossiers
 
 8.1 (1) L’exploitant de plateforme de revente de billets fait ce qui suit :
+
 a) pour chaque billet mis en vente par l’intermédiaire de la plateforme de revente de billets, il prépare un dossier comprenant ce qui suit :
+
 (i) le nom ou la raison sociale, l’emplacement et les coordonnées de la personne qui met le billet en vente,
+
 (ii) les détails sur l’offre et toute vente subséquente du billet,
+
 (iii) les autres renseignements ou documents que prescrit le ministre;
+
 b) il conserve le dossier pendant au moins trois ans suivant la date à laquelle l’événement pour lequel a été émis le billet a eu lieu ou s’est terminé.
 
 ### Accessibilité
@@ -209,7 +259,9 @@ b) il conserve le dossier pendant au moins trois ans suivant la date à laquelle
 ### Constitution en personne morale ou adresse
 
 10 Nulle billetterie ne doit mettre en vente un billet ou en faciliter la vente sans que, selon le cas :
+
 a) elle soit constituée en personne morale sous le régime des lois du Canada ou de l’Ontario;
+
 b) elle maintienne une adresse en Ontario.
 
 ## Partie IV Droit d’action
@@ -225,10 +277,15 @@ b) elle maintienne une adresse en Ontario.
 ### Ordonnance du tribunal
 
 (3) S’il conclut que le défendeur a commis une contravention à la disposition, le tribunal peut :
+
 a) ordonner la restitution de toute contrepartie, notamment une somme d’argent, donnée ou fournie par le demandeur;
+
 b) adjuger au demandeur des dommages-intérêts selon le montant de la perte subie en raison de la contravention, y compris des dommages-intérêts exemplaires;
+
 c) accorder une injonction interdisant à la personne de continuer la contravention;
+
 d) rendre une ordonnance d’exécution en nature contre la personne;
+
 e) rendre toute autre ordonnance qu’il juge indiquée.
 
 ### Dommages-intérêts exemplaires
@@ -242,7 +299,9 @@ e) rendre toute autre ordonnance qu’il juge indiquée.
 ### Plaintes et demandes de renseignements
 
 12 (1) Le ministère peut :
+
 a) recevoir des plaintes relatives à une conduite qui peut contrevenir à la présente loi, qu’il y ait infraction ou non;
+
 b) demander et recueillir des renseignements et tenter de régler par la médiation ou de résoudre des plaintes, selon ce qui est indiqué, relativement aux questions portées à son attention qui peuvent contrevenir à la présente loi, qu’il y ait infraction ou non.
 
 ### Médiation
@@ -278,7 +337,9 @@ b) demander et recueillir des renseignements et tenter de régler par la médiat
 ### Inspecteurs
 
 13 Le directeur peut, par écrit :
+
 a) nommer des personnes inspecteurs pour l’application de la présente loi;
+
 b) désigner des personnes, y compris des personnes engagées à titre d’inspecteurs pour l’application de toute autre loi, comme inspecteurs pour l’application de la présente loi ou aux fins précises visées par la présente loi qui sont prévues dans la désignation.
 
 ### Pouvoirs d’inspection
@@ -304,10 +365,15 @@ b) désigner des personnes, y compris des personnes engagées à titre d’inspe
 ### Pouvoirs de l’inspecteur
 
 (6) L’inspecteur qui effectue une inspection peut :
+
 a) examiner un dossier ou une autre chose qui, à son avis, peut se rapporter à l’inspection;
+
 b) exiger la production d’un dossier ou d’une autre chose qui, à son avis, peut se rapporter à l’inspection;
+
 c) enlever un dossier ou une autre chose qui, à son avis, peut se rapporter à l’inspection pour en faire l’examen ou en tirer des copies;
+
 d) recourir aux dispositifs ou systèmes de stockage, de traitement ou d’extraction des données utilisés normalement pour exploiter une entreprise sur les lieux de l’inspection en vue de produire un document sous forme lisible;
+
 e) interroger quiconque sur des questions qui, à son avis, peuvent se rapporter à l’inspection.
 
 ### Demande écrite
@@ -329,7 +395,9 @@ e) interroger quiconque sur des questions qui, à son avis, peuvent se rapporter
 ### Communication supplémentaire
 
 (11) En plus du pouvoir de pénétrer dans un lieu prévu au présent article, l’inspecteur peut, de quelque façon que ce soit, communiquer avec n’importe quelle personne ayant le contrôle des activités de la billetterie, et exercer ses pouvoirs d’inspection prévus au présent article à l’égard de la billetterie ou de la personne sans pénétrer dans un lieu, s’il établit ce qui suit :
+
 a) la billetterie est assujettie à la présente loi;
+
 b) la personne a le contrôle des activités de la billetterie.
 
 ### Identification
@@ -347,19 +415,29 @@ b) la personne a le contrôle des activités de la billetterie.
 ### Entrave
 
 (15) Nul ne doit :
+
 a) gêner ou entraver le travail d’un inspecteur qui effectue une inspection ou tenter de le faire;
+
 b) refuser de répondre à des questions concernant des sujets qui, de l’avis de l’inspecteur, peuvent se rapporter à une inspection;
+
 c) fournir à l’inspecteur des renseignements sur des sujets qui, de l’avis de l’inspecteur, peuvent se rapporter à une inspection en sachant qu’ils sont faux ou trompeurs;
+
 d) empêcher un inspecteur d’interroger une personne au cours d’une entrevue privée en vertu de l’alinéa (6) e) ou tenter de le faire.
 
 ### Délégation des pouvoirs de prendre une ordonnance
 
 15 (1) Le directeur peut déléguer à un inspecteur, sous réserve des conditions énoncées dans la délégation, le pouvoir d’envisager de prendre une ordonnance ou le pouvoir de prendre une ordonnance qu’a le directeur en vertu des articles suivants, auquel cas l’ordonnance envisagée ou prise par un inspecteur en vertu d’une telle délégation a, à toutes fins, le même effet que si elle avait été envisagée ou prise par le directeur :
+
 1. L’article 20.
+
 2. L’article 21.
+
 3. L’article 22.
+
 4. L’article 23.
+
 5. L’article 25.
+
 6. L’article 26.
 
 ### Délégation écrite
@@ -387,24 +465,35 @@ d) empêcher un inspecteur d’interroger une personne au cours d’une entrevue
 ### Mandat de perquisition
 
 17 (1) Sur demande sans préavis d’un enquêteur, un juge de paix peut délivrer un mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il existe des motifs raisonnables de croire, selon le cas :
+
 a) qu’un inspecteur est empêché de faire une chose qu’il est en droit de faire en vertu de l’article 14;
+
 b) qu’une personne a contrevenu ou contrevient à une disposition de la présente loi ou des règlements et :
+
 (i) soit qu’une chose quelconque se rapportant à la contravention se trouve dans un bâtiment, un logement, un contenant ou un lieu,
+
 (ii) soit que des renseignements ou des éléments de preuve se rapportant à la contravention pourront être obtenus au moyen d’une technique ou méthode d’enquête ou d’un acte qui est mentionné dans le mandat.
 
 ### Pouvoirs
 
 (2) Sous réserve des conditions qu’il précise, le mandat obtenu en vertu du paragraphe (1) autorise un enquêteur à faire ce qui suit :
+
 a) pénétrer dans le bâtiment, le logement, le contenant ou le lieu précisé dans le mandat ou y avoir accès et examiner et saisir toute chose mentionnée dans le mandat;
+
 b) présenter des demandes raisonnables de renseignements, verbalement ou par écrit, relativement à toute chose pertinente dans le cadre de l’enquête;
+
 c) exiger d’une personne qu’elle produise les renseignements ou les éléments de preuve mentionnés dans le mandat et qu’elle fournisse l’aide qui est raisonnablement nécessaire, notamment en recourant à un dispositif ou système de stockage, de traitement ou d’extraction des données pour produire, sous quelque forme que ce soit, les renseignements ou les éléments de preuve mentionnés dans le mandat;
+
 d) recourir à tout dispositif ou système de stockage, de traitement ou d’extraction des données utilisé pour exploiter une entreprise en vue de produire, sous quelque forme que ce soit, les renseignements ou les éléments de preuve mentionnés dans le mandat;
+
 e) employer toute technique ou méthode d’enquête ou accomplir tout acte mentionné dans le mandat.
 
 ### Entrée dans un logement
 
 (3) Malgré le paragraphe (2), un enquêteur ne doit exercer le pouvoir, conféré par un mandat, de pénétrer dans un endroit ou une partie d’un endroit utilisé comme logement que s’il est satisfait aux conditions suivantes :
+
 a) le juge de paix est informé du fait que le mandat est demandé afin d’autoriser l’entrée dans un logement;
+
 b) le juge de paix autorise l’entrée dans le logement.
 
 ### Conditions : mandat
@@ -476,12 +565,15 @@ b) le juge de paix autorise l’entrée dans le logement.
 ### Assertion fausse, trompeuse ou mensongère dans une offre
 
 20 (1) Si le directeur croit, en se fondant sur des motifs raisonnables, qu’une personne fait une assertion fausse, trompeuse ou mensongère dans l’offre d’un billet, il peut :
+
 a) lui ordonner de cesser de faire l’assertion;
+
 b) lui ordonner de rétracter l’assertion ou de publier une correction de même importance que l’original.
 
 ### Définition
 
 (2) La définition qui suit s’applique au paragraphe (1).
+
 «assertion fausse, trompeuse ou mensongère» S’entend au sens du paragraphe 14 (2) de la Loi de 2002 sur la protection du consommateur.
 
 ### Ordonnance exécutoire
@@ -511,7 +603,9 @@ b) lui ordonner de rétracter l’assertion ou de publier une correction de mêm
 ### Pouvoirs du Tribunal
 
 (9) Après avoir tenu l’audience, le Tribunal peut, selon le cas :
+
 a) confirmer l’ordonnance et l’assortir des modifications qu’il estime propres à la réalisation de l’objet de la présente loi;
+
 b) annuler l’ordonnance.
 
 ### Idem
@@ -525,15 +619,21 @@ b) annuler l’ordonnance.
 ### Ordonnance de blocage
 
 21 (1) Si les conditions énoncées au paragraphe (2) sont réunies, le directeur peut, par écrit :
+
 a) soit ordonner à la personne qui est le dépositaire ou qui a le contrôle de fonds en fiducie ou de biens d’une billetterie ou d’une ancienne billetterie de les retenir;
+
 b) soit ordonner à une billetterie ou à une ancienne billetterie de s’abstenir de retirer des fonds en fiducie ou des biens des mains de la personne qui en est le dépositaire ou qui en a le contrôle;
+
 c) soit ordonner à une billetterie ou à une ancienne billetterie de détenir en fiducie pour la personne qui y a droit les fonds en fiducie ou les biens d’un acheteur de billet ou d’une autre personne.
 
 ### Conditions
 
 (2) Le directeur peut prendre une ordonnance en vertu du paragraphe (1) s’il l’estime souhaitable pour la protection des acheteurs de billets et :
+
 a) soit qu’un mandat de perquisition a été décerné en vertu de la présente loi;
+
 b) soit qu’une ordonnance a été prise ou rendue en vertu de l’article 22 ou 23;
+
 c) soit qu’un engagement d’observation volontaire a été pris en application de l’article 25.
 
 ### Soustraction de biens
@@ -543,15 +643,21 @@ c) soit qu’un engagement d’observation volontaire a été pris en applicatio
 ### Exception
 
 (4) Le paragraphe (1) ne s’applique pas si la personne dépose auprès du directeur, de la manière et selon le montant qu’il détermine :
+
 a) soit un cautionnement personnel accompagné d’une garantie accessoire;
+
 b) soit le cautionnement d’un assureur titulaire d’un permis délivré en vertu de la Loi sur les assurances qui l’autorise à faire souscrire de l’assurance de cautionnement et de l’assurance contre les détournements;
+
 c) soit le cautionnement d’un garant accompagné d’une garantie accessoire;
+
 d) soit l’autre forme de garantie qui est prescrite.
 
 ### Présentation d’une requête au tribunal
 
 (5) L’une ou l’autre des personnes suivantes peut présenter une requête à la Cour supérieure de justice pour qu’il soit statué sur la disposition d’un fonds en fiducie ou d’un bien :
+
 a) quiconque a reçu une ordonnance prise en vertu du paragraphe (1), s’il a un doute quant à son application au fonds en fiducie ou au bien;
+
 b) quiconque revendique un intérêt sur le fonds en fiducie ou le bien visé par l’ordonnance.
 
 ### Avis
@@ -565,7 +671,9 @@ b) quiconque revendique un intérêt sur le fonds en fiducie ou le bien visé pa
 ### Décision du Tribunal
 
 (8) Le Tribunal doit décider de la requête après la tenue d’une audience et peut annuler l’ordonnance ou radier l’enregistrement, en totalité ou en partie, s’il conclut :
+
 a) soit que l’ordonnance ou l’enregistrement n’est pas en totalité ou en partie nécessaire pour protéger les acheteurs de billets ou les autres titulaires d’intérêts sur le bien-fonds;
+
 b) soit que l’ordonnance ou l’enregistrement porte indûment atteinte aux intérêts d’autres personnes.
 
 ### Parties
@@ -623,13 +731,17 @@ b) soit que l’ordonnance ou l’enregistrement porte indûment atteinte aux in
 ### Expiration de l’ordonnance
 
 (4) Si une audience devant le Tribunal est demandée :
+
 a) l’ordonnance expire 15 jours après la réception de la demande écrite d’audience par le Tribunal;
+
 b) le Tribunal peut proroger l’expiration jusqu’à la conclusion de l’audience, si elle commence dans le délai de 15 jours visé à l’alinéa a).
 
 ### Idem
 
 (5) Malgré le paragraphe (4), s’il est convaincu que la conduite de la personne désignée dans l’ordonnance a retardé le début de l’audience, le Tribunal peut proroger la date d’expiration de l’ordonnance :
+
 a) jusqu’au début de l’audience;
+
 b) une fois l’audience commencée, jusqu’à sa conclusion.
 
 ### Parties
@@ -643,10 +755,15 @@ b) une fois l’audience commencée, jusqu’à sa conclusion.
 ### Engagement d’observation volontaire
 
 25 (1) La personne visée par une ordonnance d’observation que le directeur envisage de prendre ou a prise en vertu de l’article 22 ou 23 peut, avant l’épuisement de tous les droits d’appel ou l’expiration du délai d’appel sans qu’un appel ait été introduit, prendre par écrit les engagements d’observation volontaire suivants :
+
 a) ne pas se livrer, après la date de l’engagement, à l’acte précisé;
+
 b) indemniser tout acheteur de billet qui a subi une perte;
+
 c) annoncer l’engagement ou les mesures prises à la suite de celui-ci;
+
 d) payer les frais engagés pour enquêter sur ses activités, les frais de justice engagés relativement à ces activités et les frais liés aux engagements;
+
 e) prendre les mesures que le directeur estime indiquées dans les circonstances.
 
 ### Engagement réputé une ordonnance
@@ -656,9 +773,13 @@ e) prendre les mesures que le directeur estime indiquées dans les circonstances
 ### Garantie relative à l’engagement
 
 (3) Le directeur peut exiger que la personne qui prend un engagement d’observation volontaire fournisse, de la manière et selon le montant qu’il détermine, une garantie sous forme :
+
 a) soit d’un cautionnement personnel accompagné d’une garantie accessoire;
+
 b) soit du cautionnement d’un assureur titulaire d’un permis délivré en vertu de la Loi sur les assurances qui l’autorise à faire souscrire de l’assurance de cautionnement et de l’assurance contre les détournements;
+
 c) soit du cautionnement d’un garant accompagné d’une garantie accessoire;
+
 d) soit d’une autre forme de garantie prescrite.
 
 ### Libération de la garantie
@@ -682,9 +803,13 @@ d) soit d’une autre forme de garantie prescrite.
 ### Signification par le directeur
 
 27 (1) Les avis ou ordonnances que doit remettre ou signifier le directeur en application de la présente loi sont suffisamment remis ou signifiés s’ils sont :
+
 a) remis à personne;
+
 b) envoyés par courrier recommandé;
+
 c) envoyés par un mode prescrit;
+
 d) envoyés d’une autre manière qui permet au directeur d’en prouver la réception.
 
 ### Signification réputée faite
@@ -698,7 +823,9 @@ d) envoyés d’une autre manière qui permet au directeur d’en prouver la ré
 ### Déclaration admissible en preuve
 
 28 (1) Les déclarations concernant l’une ou l’autre des questions suivantes qui se présentent comme étant attestées par le directeur sont admissibles en preuve dans toute instance comme preuve, en l’absence de preuve contraire, des faits qui y sont énoncés, sans qu’il soit nécessaire d’établir sa qualité officielle ni l’authenticité de sa signature :
+
 a) le dépôt ou le non-dépôt d’un document dont la présente loi exige ou autorise le dépôt;
+
 b) la date à laquelle les faits sur lesquels l’instance est fondée sont venus à la connaissance du directeur.
 
 ### Idem
@@ -712,12 +839,19 @@ b) la date à laquelle les faits sur lesquels l’instance est fondée sont venu
 ### Confidentialité
 
 29 (1) Quiconque obtient des renseignements dans l’exercice de pouvoirs ou de fonctions qui se rapportent à l’application de la présente loi ou des règlements est tenu au secret à leur égard et ne doit rien en divulguer à qui que ce soit, sauf, selon le cas :
+
 a) dans la mesure où l’exige toute instance introduite en vertu de la présente loi ou l’application de celle-ci ou des règlements;
+
 b) à un ministère ou à un organisme d’un gouvernement chargé de l’application de textes législatifs qui protègent les consommateurs, ou à une autre entité à laquelle est confiée l’application de tels textes;
+
 c) dans la mesure où l’autorise la Loi de 2007 sur la modernisation de la réglementation ;
+
 d) à une entité ou à une organisation prescrite, si la divulgation a pour objet la protection des consommateurs;
+
 e) à un organisme chargé de l’exécution de la loi;
+
 f) à son avocat;
+
 g) avec le consentement de la personne à laquelle se rapportent les renseignements.
 
 ### Témoignage
@@ -745,7 +879,9 @@ g) avec le consentement de la personne à laquelle se rapportent les renseigneme
 ### Responsabilité absolue
 
 (5) L’ordonnance prise en vertu du paragraphe (1) qui impose une pénalité administrative à une billetterie s’applique même si, selon le cas :
+
 a) la billetterie a pris toutes les mesures raisonnables pour empêcher la contravention sur laquelle se fonde l’ordonnance;
+
 b) au moment de la contravention, la billetterie croyait raisonnablement et en toute honnêteté à l’existence de faits erronés qui, avérés, auraient rendu la contravention non blâmable.
 
 ### Aucun effet sur les infractions
@@ -829,10 +965,15 @@ b) au moment de la contravention, la billetterie croyait raisonnablement et en t
 ### Infractions
 
 35 (1) Est coupable d’une infraction quiconque, selon le cas :
+
 a) n’observe pas une ordonnance prise ou rendue, une directive donnée ou une autre exigence imposée en vertu de la présente loi;
+
 b) contrevient aux dispositions suivantes ou ne les observe pas :
+
 (i) à l’égard de la partie II, l’article 2, 3 ou 4,
+
 (ii) à l’égard de la partie III, l’article 5, 6, 7, 8, 9 ou 10,
+
 (iii) à l’égard de la partie V, le paragraphe 14 (15) ou 17 (9).
 
 ### Idem
@@ -860,21 +1001,33 @@ b) contrevient aux dispositions suivantes ou ne les observe pas :
 ### Règlements du lieutenant-gouverneur en conseil
 
 36 Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) régir toute question ou chose que la présente loi mentionne comme étant prescrite, faite conformément aux règlements ou prévue dans les règlements, autre qu’une question ou chose que la présente loi mentionne comme étant prescrite par le ministre ou prévue dans les règlements pris par le ministre;
+
 b) définir tout terme utilisé mais non défini dans la présente loi à l’exception du terme «coordonnées»;
+
 c) soustraire des personnes, des catégories de personnes, des événements ou des billets à l’application de dispositions de la présente loi et assortir la dispense de conditions.
+
 f) régir les frais de service ou autres frais applicables à la vente ou à la facilitation de la vente d’un billet, notamment limiter le montant des frais de service ou autres frais.
 
 ### Règlements du ministre
 
 37 Le ministre peut, par règlement :
+
 a) régir toute question que la présente loi mentionne comme étant prescrite par lui ou prévue dans les règlements qu’il prend;
+
 a.1) définir «coordonnées» pour l’application de la présente loi ou préciser son sens pour l’application de certaines dispositions de la présente loi;
+
 a.2) préciser ce qui constitue une preuve du prix total d’un billet dans le cadre des paragraphes 6 (5) et (6);
+
 a.3) préciser, pour l’application du sous-alinéa 8.1 (1) a) (ii), les détails sur l’offre et toute vente subséquente du billet qui doivent figurer dans un dossier que prépare l’exploitant de plateforme de revente de billets;
+
 a.4) prescrire des renseignements ou des documents pour l’application du sous-alinéa 8.1 (1) a) (iii), lesquels peuvent comprendre des documents sur la preuve fournie en application du paragraphe 6 (5) du prix total d’un billet au moment de son achat auprès du vendeur;
+
 b) préciser des pénalités administratives pour contravention qui diffèrent selon les dispositions prescrites de la présente loi ou des règlements, les parties de ces dispositions prescrites ou les exigences prescrites de ces dispositions prescrites;
+
 c) prévoir que le montant prescrit d’une pénalité administrative visée au paragraphe 30 (3) doit être calculé sur la base précisée dans le règlement, notamment en fonction du nombre d’opérations comprises dans la contravention sur laquelle se fonde l’ordonnance imposant la pénalité;
+
 d) régir la marche à suivre pour la prise, en vertu de l’article 30, d’une ordonnance qui impose une pénalité administrative ainsi que les droits des parties visées par la marche à suivre, y compris le moment où l’ordonnance est réputée signifiée à la billetterie qu’elle vise.
 
 ## PARTIE X AUCUN DROIT À UNE INDEMNISATION
@@ -890,9 +1043,11 @@ d) régir la marche à suivre pour la prise, en vertu de l’article 30, d’une
 ### Ni expropriation ni effet préjudiciable
 
 (3) Aucune mesure prise ou qu’on a omis de prendre conformément à la présente loi ou aux règlements ne constitue une expropriation ou un effet préjudiciable pour l’application de la Loi sur l’expropriation ou par ailleurs en droit.
+
 39-40 Omis (modification ou abrogation d’autres textes législatifs).
 
 ### Partie XI (OMISE)
 
 41 Omis (entrée en vigueur de dispositions de la présente loi).
+
 42 Omis (édiction du titre abrégé de la présente loi).

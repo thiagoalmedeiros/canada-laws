@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2016-12-08"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06p33"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # impôt foncier provincial (Loi de 2006 sur l')
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/06p33) before relying on it.
 
 L.O. 2006, chap. 33, annexe Z.2
 
@@ -21,12 +21,19 @@ L.O. 2006, chap. 33, annexe Z.2
 ### Définitions
 
 1 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «catégorie de biens» Catégorie de biens immeubles prescrite en application de la Loi sur l’évaluation foncière. («property class»)
+
 «Commission» La Commission de révision de l’évaluation foncière. («Board»)
+
 «impôt foncier» Relativement à un bien-fonds pour l’année d’imposition, le montant de l’impôt calculé en application de l’article 5. S’entend en outre de la somme exigible à l’égard du bien-fonds en application d’une autre loi qui peut être perçue comme s’il s’agissait d’un impôt fixé par la présente loi. («property tax»)
+
 «ministre» Le ministre des Finances. («Minister»)
+
 «prescrit» Prescrit par les règlements pris en application de la présente loi. («prescribed»)
+
 «propriétaire inscrit» Relativement à un bien-fonds, personne inscrite au rôle d’imposition à titre de propriétaire. («assessed owner»)
+
 «territoire non municipalisé» Territoire non érigé en municipalité. («non-municipal territory») 2006, chap. 33, annexe Z.2, par. 1 (1).
 
 ### Interprétation
@@ -70,12 +77,15 @@ L.O. 2006, chap. 33, annexe Z.2
 ### Biens-fonds miniers
 
 4. Les biens-fonds assujettis à l’impôt en application de la partie XIII de la Loi sur les mines à l’exception :
+
 i. soit des biens-fonds qui sont utilisés à une fin autre que l’exploitation minière ou qui le sont pour l’exploitation minière et à une ou plusieurs autres fins,
+
 ii. soit des biens-fonds sur lesquels se trouve du bois dont la valeur moyenne est supérieure à 2 $ l’acre, à l’exclusion du bois d’une forêt de la Couronne au sens de la Loi de 1994 sur la durabilité des forêts de la Couronne ou du bois réservé à la Couronne.
 
 ### Définition
 
 (2) La définition qui suit s’applique au présent article.
+
 «association de services aux hôpitaux sans but lucratif» Personne morale sans capital-actions qui fournit des services de buanderie ou d’alimentation à un ou à plusieurs hôpitaux publics au sens de la Loi sur les hôpitaux publics.
 
 ### Taux d’imposition
@@ -91,21 +101,29 @@ ii. soit des biens-fonds sur lesquels se trouve du bois dont la valeur moyenne e
 ### Calcul de l’impôt
 
 5 (1) Sous réserve des règlements pris en application du paragraphe (3), l’impôt exigible à l’égard d’un bien-fonds en application de l’article 2 pour une année d’imposition est calculé selon la formule suivante :
+
 A × B
+
 où :
+
 «A» représente le taux d’imposition prescrit pour l’année d’imposition à l’égard de la catégorie de biens à laquelle appartient le bien-fonds,
+
 «B» représente la valeur imposable du bien-fonds pour l’année d’imposition selon le dernier rôle d’évaluation révisé de l’année.
 
 ### Idem : compagnies de chemins de fer et services publics d’électricité
 
 (2) Malgré le paragraphe (1) et sous réserve des règlements pris en application du paragraphe (3), l’impôt exigible à l’égard des biens-fonds suivants est calculé conformément aux règlements :
+
 1. L’emprise d’une compagnie de chemin de fer, à l’exclusion des constructions, des infrastructures et des superstructures, des rails, des traverses, des poteaux et des autres biens qui se trouvent sur l’emprise et à l’exclusion également des biens-fonds donnés à bail par la compagnie à une autre personne moyennant un loyer ou une autre contrepartie de valeur.
+
 2. Les biens-fonds appartenant à un service public d’électricité prescrit et utilisés en tant que couloirs pour le transport ou la distribution d’électricité, à l’exclusion des biens-fonds donnés à bail par le service à une autre personne moyennant un loyer ou une autre contrepartie de valeur.
 
 ### Règlements
 
 (3) Le ministre peut, par règlement :
+
 a) régir le montant minimal de l’impôt foncier exigible à l’égard d’un bien-fonds pour une année d’imposition et en prescrire le mode de calcul;
+
 b) limiter la variation, d’une année d’imposition à l’autre, de l’impôt exigible en application de l’article 2 ou des dispositions de la Loi sur l’impôt foncier provincial, selon le cas, et prescrire des règles de calcul de l’impôt exigible en application de l’article 2 pour l’année.
 
 ### Relevé d’imposition
@@ -155,24 +173,39 @@ b) limiter la variation, d’une année d’imposition à l’autre, de l’imp�
 ### Annulation d’impôt
 
 8 (1) Sur présentation d’une demande, le ministre peut annuler ou rembourser la totalité ou une partie de l’impôt foncier prélevé à l’égard d’un bien-fonds en application de la présente loi ou de la Loi sur l’éducation pour une année d’imposition déterminée, y compris les intérêts et les pénalités, si, selon le cas :
+
 a) par suite d’un événement, au sens de l’alinéa a) de la définition de «événement» au paragraphe 34 (2.2) de la Loi sur l’évaluation foncière, qui se produit pendant l’année d’imposition, tout ou partie du bien peut être classé dans une catégorie différente de biens immeubles, au sens des règlements pris en application de cette loi, qui est assortie d’un coefficient d’impôt inférieur pour l’année à celui dont est assortie la catégorie à laquelle le bien ou la partie du bien appartient avant l’événement et qu’aucune évaluation supplémentaire n’est effectuée à l’égard de l’événement en application du paragraphe 34 (2) de la Loi sur l’évaluation foncière ;
+
 b) le bien-fonds est devenu un bien-fonds vacant ou un bien-fonds excédentaire au cours de l’année ou l’année précédente après le dépôt du rôle d’évaluation de cette dernière année;
+
 c) le bien-fonds s’est vu exonérer d’impôt au cours de l’année ou l’année précédente après le dépôt du rôle d’évaluation de cette dernière année;
+
 d) au cours de l’année ou l’année précédente après le dépôt du rôle d’évaluation de cette dernière année, un bâtiment qui se trouve sur le bien-fonds :
+
 (i) a été démoli ou détruit, notamment par un incendie,
+
 (ii) a subi des dommages, notamment à cause d’un incendie ou de travaux de démolition, de telle sorte qu’il est, en grande partie, inutilisable aux fins auxquelles il servait immédiatement avant son endommagement;
+
 e) l’auteur de la demande est dans l’impossibilité de payer l’impôt foncier pour cause de maladie, de difficultés financières ou de pauvreté extrême;
+
 f) le ministre croit que l’impôt foncier impose un fardeau financier excessif à l’auteur de la demande conformément aux critères prescrits;
+
 g) une unité mobile qui se trouvait sur le bien-fonds a été retirée au cours de l’année ou l’année précédente après le dépôt du rôle d’évaluation de cette dernière année;
+
 h) une personne est assujettie à un impôt excessif pour l’année par suite d’une erreur grossière ou manifeste, soit de fait ou d’écriture, au rôle d’évaluation, notamment une inversion de chiffres, une faute de frappe ou erreur semblable, mais non d’une erreur de jugement commise lors de l’évaluation du bien;
+
 i) des réparations ou des rénovations effectuées sur le bien-fonds ont empêché son utilisation aux fins habituelles pendant au moins trois mois au cours de l’année;
+
 j) les conditions prescrites par règlement sont remplies.
 
 ### Demande
 
 (2) Une demande ne peut être présentée en application du présent article que par le propriétaire du bien-fonds ou par une autre personne qui, selon le cas :
+
 a) a un intérêt sur le bien-fonds comme l’indiquent les registres du bureau d’enregistrement immobilier compétent et du bureau du shérif;
+
 b) a la possession du bien-fonds, notamment à titre de locataire ou d’occupant;
+
 c) est le conjoint du propriétaire ou de la personne visée à l’alinéa a) ou b).
 
 ### Décision
@@ -262,12 +295,15 @@ c) est le conjoint du propriétaire ou de la personne visée à l’alinéa a) o
 ### Perception
 
 (6) L’augmentation de l’impôt foncier prévue au présent article peut être perçue comme si elle avait été prélevée au moyen du relevé d’imposition initial et y était incluse. Toutefois :
+
 a) elle n’est pas exigible avant l’expiration du délai d’appel ou, en cas d’interjection d’un appel, avant que la Commission n’ait rendu sa décision;
+
 b) elle ne peut faire l’objet de frais de paiement tardif qu’à compter du 22 e jour qui suit celui où elle devient exigible.
 
 ### Définition
 
 (7) La définition qui suit s’applique au présent article.
+
 «contribuable» Personne tenue de payer l’impôt foncier.
 
 ### Répartition de l’impôt
@@ -337,10 +373,15 @@ b) elle ne peut faire l’objet de frais de paiement tardif qu’à compter du 2
 ### Saisie-arrêt : prêts et avances
 
 (1.1) Si le ministre sait ou soupçonne que, dans les 365 jours :
+
 a) une banque, une caisse populaire, une société de fiducie ou une autre personne semblable (appelée au présent article l’«institution») consentira un prêt ou une avance à un propriétaire inscrit qui est endetté envers elle et qui a donné une garantie à l’égard de cette dette, ou versera un paiement pour le compte de ce propriétaire ou à l’égard d’un effet négociable émis par lui;
+
 b) une personne, autre qu’une institution, consentira un prêt ou une avance à un propriétaire inscrit — ou versera un paiement pour le compte de ce propriétaire — dont le ministre sait ou soupçonne :
+
 (i) soit qu’il est ou a été employé par la personne ou lui fournit ou lui a fourni des services ou des biens, ou qu’il en sera ainsi dans les 365 jours,
+
 (ii) soit qu’il a un lien de dépendance avec la personne,
+
 il peut, par lettre recommandée ou signifiée à personne, exiger de l’institution ou de la personne, selon le cas, qu’elle lui verse sans délai, au titre de l’obligation du propriétaire inscrit, la totalité ou une partie des sommes qui auraient normalement été prêtées, avancées ou payées. Les sommes ainsi versées au ministre sont réputées avoir été prêtées, avancées ou payées, selon le cas, au propriétaire inscrit.
 
 ### Idem
@@ -366,7 +407,9 @@ il peut, par lettre recommandée ou signifiée à personne, exiger de l’instit
 ### Idem
 
 (6.1) Toute institution ou personne qui ne se conforme pas à une exigence prévue au paragraphe (1.1) à l’égard des sommes à prêter, à avancer ou à payer est tenue de payer à la Couronne du chef de l’Ontario un montant égal au moindre des montants suivants :
+
 a) le total des sommes ainsi prêtées, avancées ou payées;
+
 b) le montant qu’elle était tenue de payer au ministre en application du paragraphe (1.1).
 
 ### Saisie-arrêt des salaires
@@ -390,7 +433,9 @@ b) le montant qu’elle était tenue de payer au ministre en application du para
 ### Avis de confiscation possible
 
 (3) Le ministre avise les personnes suivantes que le bien-fonds et tout intérêt s’y rattachant sont susceptibles de confiscation en faveur de la Couronne à moins que la somme totale exigible en application de la présente loi ne soit acquittée avant le 1 er décembre de l’année qui suit celle où l’avis exigé au paragraphe (5) est publié dans la Gazette de l’Ontario :
+
 1. Le propriétaire du bien-fonds selon les dossiers du bureau d’enregistrement immobilier ou, en l’absence de tels dossiers, selon le dernier rôle d’évaluation révisé.
+
 2. Les autres personnes qui, selon les dossiers du bureau d’enregistrement immobilier, s’il y en a, ont un intérêt sur le bien-fonds.
 
 ### Idem
@@ -458,18 +503,27 @@ b) le montant qu’elle était tenue de payer au ministre en application du para
 ### Contenu
 
 (2) Le rôle d’imposition indique ce qui suit pour chaque bien-fonds situé dans le territoire non municipalisé qui est évalué séparément :
+
 1. Le numéro assigné au bien-fonds sur le rôle d’évaluation.
+
 2. Une description du bien-fonds suffisante pour en permettre l’identification.
+
 3. Le nom de chaque personne qui est visée par l’évaluation du bien-fonds, y compris un locataire visé par celle-ci en application de l’article 18 de la Loi sur l’évaluation foncière.
+
 4. La valeur imposable du bien-fonds et, s’il est évalué selon plusieurs catégories de biens, sa valeur imposable dans chaque catégorie.
+
 5. La somme totale exigible en application de la présente loi et de toute autre loi et, si le bien-fonds est évalué selon plusieurs catégories de biens, la somme totale exigible à l’égard de chaque catégorie.
+
 6. S’il s’agit d’un bien-fonds visé au paragraphe 5 (2), sa superficie et l’impôt calculé en application de ce paragraphe.
+
 7. L’impôt exigible en application de la présente loi, pénalités et intérêts compris, ainsi que toute somme exigible en application d’une autre loi, pénalités et intérêts compris, et, si le bien-fonds est évalué selon plusieurs catégories de biens, la somme exigible à l’égard de chaque catégorie.
 
 ### Effet de la modification de l’évaluation
 
 18 Si l’évaluation d’un bien-fonds pour une année est modifiée par suite d’une demande présentée en vertu de l’article 39.1 de la Loi sur l’évaluation foncière, d’un appel interjeté en vertu de l’article 40 de cette loi ou d’une requête présentée en vertu de l’article 46 de la même loi :
+
 a) d’une part, l’allégement fiscal prévu à l’article 8 ou l’augmentation d’impôt prévue à l’article 9 sont calculés de nouveau en fonction du nouvel impôt qui frappe le bien pour l’année par suite de la nouvelle évaluation;
+
 b) d’autre part, le rôle d’imposition de l’année est modifié en conséquence.
 
 ### Relevé des sommes exigibles au titre de l’impôt
@@ -547,19 +601,33 @@ b) d’autre part, le rôle d’imposition de l’année est modifié en conséq
 ### Règlements
 
 25 (1) Le ministre peut, par règlement :
+
 a) régir et préciser l’application de la présente loi;
+
 b) prescrire les questions qui doivent ou peuvent l’être;
+
 c) régir les mesures qui doivent ou peuvent être prises conformément aux règlements;
+
 d) définir les termes ou expressions utilisés mais non définis dans la présente loi;
+
 e) prévoir le report ou l’annulation de la totalité ou d’une partie de l’augmentation de l’impôt qui est prélevé sur les biens de la catégorie des biens résidentiels, ou une autre forme d’allégement portant sur cette augmentation, dans le cas des propriétaires inscrits qui satisfont à l’une ou l’autre des conditions suivantes ou dont le conjoint y satisfait :
+
 (i) il s’agit de personnes âgées à faible revenu au sens des règlements,
+
 (ii) il s’agit de personnes à faible revenu atteintes d’une invalidité au sens des règlements;
+
 f) prévoir des remises de la totalité ou d’une partie de l’impôt en faveur des organismes de bienfaisance admissibles afin d’alléger les impôts ou les sommes au titre des impôts qui sont prélevés sur les biens qu’ils occupent et prescrire les circonstances dans lesquelles la remise est consentie, les catégories de biens auxquelles elle s’applique ainsi que les conditions à remplir;
+
 g) prévoir des remises de la totalité ou d’une partie de l’impôt en faveur des propriétaires de biens dont des parties sont vacantes, à l’exclusion des biens de la catégorie des biens résidentiels, de la catégorie des immeubles à logements multiples, de la catégorie des biens agricoles, de la catégorie des pipelines ou de la catégorie des forêts aménagées, et prescrire les circonstances dans lesquelles la remise est consentie ainsi que les conditions à remplir;
+
 h) prévoir l’annulation de la totalité ou d’une partie de l’impôt prélevé sur des biens afin d’encourager leur assainissement sur le plan de l’environnement et prévoir les circonstances de l’annulation, les catégories de biens auxquelles elle s’applique ainsi que les conditions à remplir;
+
 i) prévoir la réduction ou le remboursement de l’impôt prélevé sur les biens patrimoniaux et prévoir les circonstances de la réduction ou du remboursement, les catégories de biens auxquelles il s’applique ainsi que les conditions à remplir;
+
 j) régir l’affectation et l’imputation des sommes perçues en application de la présente loi tant en ce qui concerne les sommes exigibles en application de celle-ci que celles qui le sont en application d’une ou de plusieurs lois prescrites;
+
 k) prévoir le paiement d’intérêts sur tout remboursement, toute remise, tout report ou toute annulation de l’impôt foncier qu’autorise la présente loi et en prescrire le taux;
+
 l) prescrire le mode de facturation et de paiement, pour l’application du paragraphe 6 (1.1), de l’impôt foncier exigible.
 
 ### Catégories
@@ -579,5 +647,7 @@ l) prescrire le mode de facturation et de paiement, pour l’application du para
 ### Rajustements des sommes prévues par la Loi que la présente loi remplace
 
 26 Les rajustements apportés après l’année 2008 à l’égard de sommes exigibles mais impayées avant l’année 2009 en application de la Loi sur l’impôt foncier provincial ou à l’égard de paiements en trop faits avant l’année 2009 en application de cette loi sont imputés ou crédités au propriétaire du bien-fonds en application de la présente loi comme si la somme avait été exigible ou que les paiements en trop avaient été faits en application de la même loi.
+
 27 Omis (prévoit l’entrée en vigueur des dispositions de la présente loi).
+
 28 Omis (édicte le titre abrégé de la présente loi).

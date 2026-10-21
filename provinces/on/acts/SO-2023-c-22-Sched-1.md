@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2023-12-06"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23d22"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Duffins Rouge Agricultural Preserve Act, 2023
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/23d22) before relying on it.
 
 S.O. 2023, c. 22, Sched. 1
 
@@ -21,7 +21,9 @@ S.O. 2023, c. 22, Sched. 1
 ### Definition
 
 1 In this Act,
+
 “DRAPA covenant” means any covenant that an owner of land entered into or purportedly entered into with a conservation body under the Conservation Land Act on or before February 28, 2005 with respect to land in the area described in Schedule 1; (“engagement visé par la Loi sur la Réserve agricole de Duffins-Rouge ”)
+
 “DRAPA easement” means any easement that an owner of land granted or purportedly granted to a conservation body under the Conservation Land Act on or before February 28, 2005 with respect to land in the area described in Schedule 1. (“servitude visée par la Loi sur la Réserve agricole de Duffins-Rouge ”)
 
 ### Duffins Rouge Agricultural Preserve
@@ -37,7 +39,9 @@ S.O. 2023, c. 22, Sched. 1
 ### Land Titles Act
 
 (3) Despite the Land Titles Act, the covenants and easements that are deemed to be valid under subsection (1) are binding on a person who has an interest in land described in Schedule 1 regardless of,
+
 (a) whether the person acquired the interest before, on or after the day subsection (1) came into force; and
+
 (b) whether a notice of this section was registered against the affected land at the time the person acquired the interest.
 
 ### Notice deemed valid
@@ -47,11 +51,17 @@ S.O. 2023, c. 22, Sched. 1
 ### Limitations on remedies
 
 3 (1) No cause of action arises as a direct or indirect result of,
+
 (a) the enactment, amendment or repeal of any provision of this Act, the Duffins Rouge Agricultural Preserve Act, 2005 or the Duffins Rouge Agricultural Preserve Repeal Act, 2022;
+
 (b) anything done or not done in accordance with this Act, the Duffins Rouge Agricultural Preserve Act, 2005 or the Duffins Rouge Agricultural Preserve Repeal Act, 2022; or
+
 (c) any representation or other conduct by current or former employees, officers, or agents of the Crown in right of Ontario or current or former members of the Executive Council that is related, directly or indirectly, to,
+
 (i) the validity or legal effect of any DRAPA covenant, DRAPA easement or notice registered under this Act or the Duffins Rouge Agricultural Preserve Act, 2005,
+
 (ii) the actual or potential enactment of any Act or the actual or potential making of any regulation or other instrument concerning the validity or legal effect of any DRAPA covenant, DRAPA easement or notice registered under this Act or the Duffins Rouge Agricultural Preserve Act, 2005, or
+
 (iii) the actual or potential acquisition, disposal, use or development of any land referred to in Schedule 1.
 
 ### No remedy
@@ -85,9 +95,13 @@ S.O. 2023, c. 22, Sched. 1
 ### Person defined
 
 (9) In this section,
+
 “person” includes the Crown in right of Ontario and its current and former employees, officers and agents, current and former members of the Executive Council and conservation bodies as defined in subsection 3 (1) of the Conservation Land Act and their current and former employees, officers and agents.
+
 4 Omitted (repeals other legislation).
+
 5 Omitted (provides for coming into force of provisions of this Act).
+
 6 Omitted (enacts short title of this Act).
 
 ### SCHEDULE 1

@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-12-11"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16r12"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Resource Recovery and Circular Economy Act, 2016
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/16r12) before relying on it.
 
 S.O. 2016, c. 12, Sched. 1
 
@@ -23,20 +23,35 @@ S.O. 2016, c. 12, Sched. 1
 ### Definitions
 
 1 In this Act,
+
 “Authority” means the Resource Productivity and Recovery Authority continued under Part III; (“Office”)
+
 “circular economy” means an economy in which participants strive,
+
 (a) to minimize the use of raw materials,
+
 (b) to maximize the useful life of materials and other resources through resource recovery, and
+
 (c) to minimize waste generated at the end of life of products and packaging; (“économie circulaire”)
+
 “Minister” means the Minister of the Environment, Conservation and Parks or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”)
+
 “Ministry” means the ministry of the Minister; (“ministère”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “recovered resources” means material recovered from collected products and packaging or from other sources; (“ressources récupérées”)
+
 “Registry” means, except where the context requires otherwise, the Registry described in section 50; (“Registre”)
+
 “regulations” means the regulations made under this Act; (“règlements”)
+
 “resource recovery” means the extraction of useful materials or other resources from things that might otherwise be waste, including through reuse, recycling, reintegration, regeneration or other activities; (“récupération des ressources”)
+
 “Strategy” means the document developed under section 3, including any amendments made to it under that section; (“Stratégie”)
+
 “Tribunal” means the Ontario Land Tribunal; (“Tribunal”)
+
 “waste reduction” means the minimization of waste generated at the end of life of products or packaging, including through activities related to design, manufacturing and material use. (“réduction des déchets”)
 
 ### Provincial Interest
@@ -44,22 +59,39 @@ S.O. 2016, c. 12, Sched. 1
 ### Provincial interest
 
 2 It is in the provincial interest that Ontario have a system of resource recovery and waste reduction that aims to,
+
 (a) protect the natural environment and human health;
+
 (b) foster the continued growth and development of the circular economy;
+
 (c) minimize greenhouse gas emissions resulting from resource recovery activities and waste reduction activities;
+
 (d) minimize the generation of waste, including waste from products and packaging;
+
 (e) increase the durability, reusability and recyclability of products and packaging;
+
 (f) hold persons who are most responsible for the design of products and packaging responsible for the products and packaging at the end of life;
+
 (g) decrease hazardous and toxic substances in products and packaging;
+
 (h) minimize the need for waste disposal;
+
 (i) minimize the environmental impacts that result from resource recovery activities and waste reduction activities, including from waste disposal;
+
 (j) provide efficient, effective, convenient and reliable services related to resource recovery and waste reduction, including waste management services;
+
 (k) increase the reuse and recycling of waste across all sectors of the economy;
+
 (l) increase opportunities and markets for recovered resources;
+
 (m) promote public education and awareness with respect to resource recovery and waste reduction;
+
 (n) promote cooperation and coordination among various persons and entities involved in resource recovery activities and waste reduction activities;
+
 (o) promote competition in the provision of resource recovery services and waste reduction services;
+
 (p) foster fairness for consumers;
+
 (q) do any other related thing that may be prescribed.
 
 ### Strategy
@@ -67,7 +99,9 @@ S.O. 2016, c. 12, Sched. 1
 ### Strategy
 
 3 (1) In order to support the provincial interest, the Minister shall, no later than 90 days after the day this section comes into force,
+
 (a) develop a strategy entitled Strategy for a Waste-Free Ontario: Building the Circular Economy in English and Stratégie pour un Ontario sans déchets: Vers une économie circulaire in French; and
+
 (b) publish it on a website of the Government of Ontario.
 
 ### Same
@@ -81,7 +115,9 @@ S.O. 2016, c. 12, Sched. 1
 ### Same
 
 (4) As part of a review of the Strategy, the Minister shall,
+
 (a) consult on the Strategy, in the manner the Minister considers appropriate, with any person or entity the Minister considers may have an interest in the Strategy, including the public; and
+
 (b) based on the consultation, amend the Strategy, as he or she considers advisable.
 
 ### Amendments
@@ -91,20 +127,27 @@ S.O. 2016, c. 12, Sched. 1
 ### Contents
 
 4 The Strategy shall set out the following:
+
 1. The Strategy’s goals.
+
 2. A summary of actions that may be taken under this Act or any other Act, and any non-legislative actions that may be taken, to support the Strategy’s goals.
+
 3. The performance measures by which progress in achieving the Strategy’s goals can be assessed.
+
 4. Such other matters as the Minister considers advisable.
 
 ### Progress reports
 
 5 At least once every five years, the Minister shall prepare a report setting out the following and publish it on a website of the Government of Ontario:
+
 1. A description of actions that have been taken during the period covered by the report to address the Strategy’s goals.
+
 2. A description of progress made in achieving the Strategy’s goals, as assessed by the performance measures established under paragraph 3 of section 4.
 
 ### E nvironmental Bill of Rights, 1993, “policy”
 
 6 Section 15 of the Environmental Bill of Rights, 1993, and the other provisions of that Act that apply to proposals for a policy, apply with necessary modifications to the Strategy and, for that purpose, the Strategy is deemed to be a proposal for a policy under consideration in the Ministry.
+
 7 Repealed: 2020, c. 18, Sched. 6, s. 64 (1).
 
 ### Miscellaneous
@@ -122,10 +165,15 @@ S.O. 2016, c. 12, Sched. 1
 ### Regard for provincial interest
 
 10 (1) The following persons and entities shall have regard to the provincial interest described in section 2 when doing the following things:
+
 1. A person or entity when exercising a power or performing a duty under this Act.
+
 2. A person or entity when exercising a power or performing a duty under another Act, if the exercise of the power or the performance of the duty relates to resource recovery or waste reduction.
+
 3. A person or entity retained to provide services in relation to another person’s responsibilities under section 67, 68, 69 or 70 when performing those services.
+
 4. An owner or operator of a waste management system when engaging in waste management activities.
+
 5. A prescribed person or entity when carrying out prescribed activities related to resource recovery or waste reduction.
 
 ### Exception
@@ -143,6 +191,7 @@ S.O. 2016, c. 12, Sched. 1
 ### Interpretation
 
 (5) For the purposes of paragraph 4 of subsection (1),
+
 “operator”, “owner” and “waste management system” have the same meaning as in Part V of the Environmental Protection Act.
 
 ### Policy statements
@@ -152,10 +201,15 @@ S.O. 2016, c. 12, Sched. 1
 ### Development of policy statements
 
 (2) In developing a policy statement, the Minister shall consult, in the manner the Minister considers appropriate, with,
+
 (a) representatives of municipalities;
+
 (b) representatives of persons engaging in resource recovery activities and waste reduction activities;
+
 (c) representatives of environmental organizations;
+
 (d) the public; and
+
 (e) such other persons as the Minister considers advisable.
 
 ### Timing requirement
@@ -177,8 +231,11 @@ S.O. 2016, c. 12, Sched. 1
 ### Publication
 
 (7) The Minister shall publish each new or amended policy statement on a website of the Government of Ontario and in The Ontario Gazette and shall give further notice of it, in the manner the Minister considers appropriate,
+
 (a) to the members of the Legislative Assembly;
+
 (b) to the Authority; and
+
 (c) to any persons or entities that the Minister considers to have an interest in it.
 
 ### Continued publication
@@ -188,6 +245,7 @@ S.O. 2016, c. 12, Sched. 1
 ### Environmental Bill of Rights, 1993, “policy”
 
 (9) Section 15 of the Environmental Bill of Rights, 1993, and the other provisions of that Act that apply to proposals for a policy, apply with necessary modifications to policy statements and, for that purpose, a policy statement is deemed to be a proposal for a policy under consideration in the Ministry.
+
 (10) Repealed: 2020, c. 18, Sched. 6, s. 64 (2).
 
 ### Non-application of Legislation Act, 2006, Part III
@@ -197,50 +255,79 @@ S.O. 2016, c. 12, Sched. 1
 ### Consistency with policy statements
 
 12 (1) Subject to section 13, the following persons and entities shall, when doing the following things, ensure the things are done in a manner that is consistent with all applicable policy statements:
+
 1. A person or entity when exercising a power or performing a duty under this Part or Part III, IV or V.
+
 2. A person or entity when exercising a power or performing a duty under an Act mentioned in subsection (2) or a provision mentioned in subsection (3), if the exercise of the power or the performance of the duty relates to resource recovery or waste reduction.
+
 3. A person or entity retained to provide services in relation to another person’s responsibilities under section 67, 68, 69 or 70 when performing those services.
+
 4. An owner or operator of a waste management system when engaging in waste management activities.
+
 5. A prescribed person or entity when carrying out prescribed activities related to resource recovery or waste reduction.
 
 ### List of Acts
 
 (2) The following are the Acts referred to in paragraph 2 of subsection (1):
+
 1. City of Toronto Act, 2006.
+
 2. Condominium Act, 1998.
+
 3. Consumer Protection Act, 2002.
+
 4. Environmental Assessment Act.
+
 5. Environmental Protection Act.
+
 6. Municipal Act, 2001.
+
 7. Nutrient Management Act, 2002.
+
 8. Ontario Water Resources Act.
+
 9. Planning Act.
+
 10. Any prescribed Acts.
 
 ### List of provisions
 
 (3) The following are the provisions referred to in paragraph 2 of subsection (1):
+
 1. Section 11.6 of the City of Greater Sudbury Act, 1999.
+
 2. Section 11.7 of the City of Hamilton Act, 1999.
+
 3. Section 12.13 of the City of Ottawa Act, 1999.
+
 4. Section 13.6 of the Town of Haldimand Act, 1999.
+
 5. Section 13.6 of the Town of Norfolk Act, 1999.
+
 6. A prescribed provision of a prescribed Act.
 
 ### Interpretation
 
 (4) For the purposes of paragraph 4 of subsection (1),
+
 “operator”, “owner” and “waste management system” have the same meaning as in Part V of the Environmental Protection Act.
 
 ### Application and exceptions
 
 13 (1) Subject to subsections (3) to (5), a resource recovery and waste reduction policy statement is applicable in respect of all persons and entities listed in subsection 12 (1), unless,
+
 (a) the policy statement specifies that it is applicable only,
+
 (i) to one or more persons or entities listed in subsection 12 (1), or
+
 (ii) to a class of persons or entities listed in that subsection based on any attribute or combination of attributes;
+
 (b) the policy statement specifies that it is not applicable,
+
 (i) to one or more persons or entities listed in subsection 12 (1), or
+
 (ii) to a class of persons or entities listed in that subsection based on any attribute or combination of attributes; or
+
 (c) the person or entity is exempted by regulation.
 
 ### Geographic areas
@@ -268,7 +355,9 @@ S.O. 2016, c. 12, Sched. 1
 ### Same, timing
 
 (2) Any amendments required under subsection (1) shall be made before the earlier of,
+
 (a) the date specified in the applicable policy statement, if any; and
+
 (b) the end of the period determined under subsection 26 (1) of the Planning Act.
 
 ### Zoning by-laws
@@ -294,13 +383,17 @@ S.O. 2016, c. 12, Sched. 1
 ### Conflicts
 
 15 (1) Despite any Act, if there is a conflict between a resource recovery and waste reduction policy statement issued under section 11 and a provision in an instrument described in subsection (2), the following rules apply:
+
 1. The policy statement or provision that provides the greatest protection to the natural environment and human health governs, to the extent of the conflict.
+
 2. If the policy statement and the provision provide equal protection to the natural environment and human health, the policy that best promotes the provincial interest described in section 2 governs, to the extent of the conflict.
 
 ### Instruments
 
 (2) The instruments referred to in subsection (1) are,
+
 (a) a policy statement issued under subsection 3 (1) of the Planning Act; and
+
 (b) any prescribed instruments.
 
 ### Clarification guidelines
@@ -310,10 +403,15 @@ S.O. 2016, c. 12, Sched. 1
 ### List of provincial plans
 
 (4) The plans referred to in subsection (3) are,
+
 (a) the Greenbelt Plan established under section 3 of the Greenbelt Act, 2005;
+
 (b) the Niagara Escarpment Plan continued under section 3 of the Niagara Escarpment Planning and Development Act;
+
 (c) the Oak Ridges Moraine Conservation Plan established under section 3 of the Oak Ridges Moraine Conservation Act, 2001;
+
 (d) a growth plan approved under section 7 of the Places to Grow Act, 2005; or
+
 (e) a plan or provisions of a plan prescribed by the regulations that is made or approved by the Lieutenant Governor in Council, a minister, or a board, commission or agency of the government.
 
 ### Appointment of Directors
@@ -331,8 +429,11 @@ S.O. 2016, c. 12, Sched. 1
 ### Application
 
 (2) This section applies to the following persons in respect of the following activities:
+
 1. A person mentioned in section 61 or 62 of this Act carrying out the person’s responsibilities under section 67, 68, 69 or 70.
+
 2. A person or entity retained to provide services in relation to another person’s responsibilities under section 67, 68, 69 or 70 performing those services.
+
 3. A prescribed person or entity carrying out prescribed activities related to resource recovery or waste reduction.
 
 ### Manner
@@ -342,13 +443,17 @@ S.O. 2016, c. 12, Sched. 1
 ### Reporting and publication
 
 (4) The person or entity shall,
+
 (a) report the results of the review in the manner and within the time the Director directs and, if a target has been established under the policy statement, shall include information on the extent to which the target is being achieved; and
+
 (b) make the results of the review available to the public in the manner and within the time the Director directs.
 
 ### Failure to ensure consistency
 
 (5) If, in the Director’s opinion, a person or entity described in subsection (2) fails to act in accordance with the person’s or entity’s obligation under section 12 to ensure that it performs its duties and carries out its activities in a manner that is consistent with all applicable resource recovery and waste reduction policy statements, the Director may do one or both of the following:
+
 1. Require the person or entity to provide information the Director specifies with respect to the person’s or entity’s efforts to meet the obligation and the reasons for the failure to do so.
+
 2. Require the person or entity to prepare and submit to the Director a report describing the proposed steps to be taken to meet the obligation and the proposed timelines for doing so.
 
 ### Manner
@@ -398,8 +503,11 @@ S.O. 2016, c. 12, Sched. 1
 ### Limitation
 
 (7) This section does not apply,
+
 (a) to a proceeding that is an application for leave to appeal under subsection 38 (1) of the Environmental Bill of Rights, 1993; or
+
 (b) to a proceeding before the Tribunal under section 21 of the Ontario Land Tribunal Act, 2021 to which the Minister is a party.
+
 (8) Repealed: 2021, c. 4, Sched. 10, s. 6.
 
 ## Part III RESOURCE PRODUCTIVITY AND RECOVERY Authority
@@ -431,11 +539,17 @@ S.O. 2016, c. 12, Sched. 1
 ### Authority’s objects
 
 24 (1) The Authority’s objects are,
+
 (a) to perform the duties and exercise the powers given to the Authority under this Act or any other Act;
+
 (b) to provide information relating to resource recovery or waste in Ontario, the Authority’s activities and the Acts and regulations in respect of which the Authority has duties or powers;
+
 (c) with respect to such programs relating to resource recovery or waste as the Minister may specify in a written direction,
+
 (i) to prepare for the performance of duties and exercise of powers in respect of registration, information management, reporting and fee collection and any related matters, and
+
 (ii) to perform those duties and exercise those powers; and
+
 (d) such other objects as may be prescribed.
 
 ### Minister’s direction, subs. (1) (c)
@@ -453,7 +567,9 @@ S.O. 2016, c. 12, Sched. 1
 ### Members
 
 (2) The board shall consist of the following members:
+
 1. Members appointed by the Minister.
+
 2. Members elected by the board in accordance with any procedures that may be prescribed by the regulations.
 
 ### Maximum number
@@ -475,7 +591,9 @@ S.O. 2016, c. 12, Sched. 1
 ### Length of terms, etc.
 
 (7) The Minister may make a regulation prescribing restrictions on the length of a member’s term or on a member’s reappointment or re-election, and if the Minister makes such a regulation an appointment or election must comply with those restrictions, but if there is no such regulation,
+
 (a) the term of an appointed member is the term specified in the appointment; and
+
 (b) the term of an elected member is the term, not to exceed three years, determined by the board of directors at the time of the election.
 
 ### Appointment of chair
@@ -521,10 +639,15 @@ S.O. 2016, c. 12, Sched. 1
 ### Appointees’ qualifications
 
 (2) In appointing individuals under subsection (1), the Minister shall, to the extent possible, ensure that the initial board is composed of individuals who collectively have experience and expertise in the following areas:
+
 1. Resource recovery and waste reduction.
+
 2. Corporate governance and management.
+
 3. Finance.
+
 4. Business management.
+
 5. Compliance and enforcement.
 
 ### Election of members under para. 2 of subs. 25 (2)
@@ -558,16 +681,23 @@ S.O. 2016, c. 12, Sched. 1
 ### End date for initial board
 
 (10) On the day the maximum number of members under paragraph 2 of subsection 25 (2) is elected under subsection (3),
+
 (a) the board is duly constituted for the purposes of section 25;
+
 (b) the members of the initial board appointed by the Minister under subsection (1) or (9) continue as the board members mentioned in paragraph 1 of subsection 25 (2); and
+
 (c) the members of the initial board elected under subsection (3) or (9) continue as the board members mentioned in paragraph 2 of subsection 25 (2).
 
 ### By-laws
 
 27 (1) The board of directors may pass by-laws,
+
 (a) regulating the board’s proceedings, specifying the powers and duties of the officers and employees of the Authority and generally for the management of the Authority’s affairs;
+
 (b) respecting the appointment of officers and employees of the Authority and providing for payment of their remuneration and reimbursement of their expenses;
+
 (c) providing for payment of the remuneration and reimbursement of the expenses of members of the board;
+
 (d) establishing requirements with respect to conflict of interest for members of the board and for the Authority’s officers and employees.
 
 ### Subcommittees
@@ -593,7 +723,9 @@ S.O. 2016, c. 12, Sched. 1
 ### Contents
 
 (3) The operating agreement shall deal with matters that the Minister considers advisable in the public interest relating to carrying out the Authority’s objects under this Act, including, without limitation,
+
 (a) matters relating to its governance and operations; and
+
 (b) any matters required to be included in it under any other Act.
 
 ### Replacement agreement
@@ -643,10 +775,15 @@ S.O. 2016, c. 12, Sched. 1
 ### Consultations, etc.
 
 30 The Minister may require the Authority to do any of the following:
+
 1. Conduct consultations with the public, or with persons or entities that have relevant experience or knowledge, on any matter that the Minister specifies related to resource recovery, waste reduction or the circular economy.
+
 2. Advise or report to the Minister on any matter related to,
+
 i. resource recovery, waste reduction or the circular economy, or
+
 ii. the Authority’s objects.
+
 3. Establish one or more advisory councils to provide advice to the Authority on matters related to carrying out its objects.
 
 ### Review
@@ -656,7 +793,9 @@ ii. the Authority’s objects.
 ### Manner
 
 (2) The Minister may specify that the review be carried out,
+
 (a) by or on behalf of the Authority; or
+
 (b) by a person specified by the Minister.
 
 ### Access to records and information
@@ -674,12 +813,19 @@ ii. the Authority’s objects.
 ### Contents
 
 (2) The business plan shall include,
+
 (a) a description of the Authority’s major activities and objectives for the fiscal year and for the following two fiscal years;
+
 (b) a description of the Authority’s plan to achieve the objectives mentioned in clause (a);
+
 (c) a performance measures report for the Authority that,
+
 (i) establishes targets for the fiscal year, and
+
 (ii) explains any significant variances between the targets for the preceding fiscal year and the actual results for that fiscal year;
+
 (d) a description of any measures the Authority intends to take in the fiscal year with respect to the efficient management of the Authority; and
+
 (e) any other information that is required by the operating agreement.
 
 ### Availability to public
@@ -739,8 +885,11 @@ ii. the Authority’s objects.
 ### Costs
 
 (3) The amount fixed under subsection (1) may include,
+
 (a) costs that are attributable to the oversight of the Authority under this Act, including costs associated with appeals to the Tribunal of orders issued under Part V;
+
 (b) with respect to programs mentioned in clause 24 (1) (c), costs relating to policy development, program implementation, compliance and enforcement; and
+
 (c) costs in respect of any objects prescribed under clause 24 (1) (d).
 
 ### Forecast
@@ -754,23 +903,33 @@ ii. the Authority’s objects.
 ### Fees
 
 41 (1) For the purpose of recovering its costs, the Authority may,
+
 (a) set and collect fees, costs or other charges due to the Authority related to the performance of its duties and exercise of its powers under this Act or any other Act in accordance with processes and criteria established by the Authority;
+
 (b) require persons to pay the fees, costs and charges described in clause (a); and
+
 (c) provide for the refund or credit of all or part of a fee, cost or charge described in clause (a).
 
 ### Setting fees
 
 (2) Subject to any prescribed requirements, i n setting the fees, costs and charges described in clause (1) (a), the Authority may specify their amounts or the method for determining them.
+
 (3) Repealed: 2019, c. 14, Sched. 8, s. 57 (2).
 
 ### Establishment and publication of fees, etc.
 
 (4) The following rules apply with respect to the establishment and publication of the fees, costs and charges described in clause (1) (a), the processes and criteria described in that clause and the requirements described in clause (1) (b):
+
 1. Before establishing, amending or replacing a fee, cost, charge, process, criterion or requirement, the Authority shall engage in public consultation and shall post the proposed new or amended fee, cost, charge, process, criterion or requirement on the Registry for public comment for at least 45 days.
+
 2. After public consultation and posting under paragraph 1, the Authority shall publish the final version of the new or amended fee, cost, charge, process, criterion or requirement on the Registry and a description of how the Authority considered public comments in determining the final version.
+
 3. The fee, cost, charge, process, criterion or requirement is not effective until the later of,
+
 i. 30 days after its publication under paragraph 2, and
+
 ii. the day specified by the Authority.
+
 4. The Authority shall ensure that every fee, cost, charge, process, criterion or requirement that has been replaced by a new or amended one remains available to the public on the Registry.
 
 ### Payment of fees
@@ -800,8 +959,11 @@ ii. the day specified by the Authority.
 ### Contents of audit
 
 (2) When the Auditor General conducts an audit under subsection (1), he or she shall examine,
+
 (a) whether the Authority expended money for a purpose that is not within its objects;
+
 (b) whether the Authority expended money without due regard to economy and efficiency; and
+
 (c) where procedures could be used to measure and report on the effectiveness of the Authority’s activities, whether the procedures were not established or the established procedures were not satisfactory.
 
 ### Access to information and records
@@ -815,18 +977,27 @@ ii. the day specified by the Authority.
 ### Annual report
 
 44 (1) The Authority shall, not later than June 1 in each year,
+
 (a) prepare a report in accordance with this section on its activities during the previous fiscal year; and
+
 (b) provide a copy of the report to the Minister and make the report available to the public on the Registry.
+
 (2) Repealed: 2020, c. 14, Sched. 6, s. 2.
 
 ### Contents
 
 (3) The report shall include the following:
+
 1. Information about activities engaged in by persons required to carry out responsibilities under Part IV.
+
 2. A summary of compliance and enforcement activities carried out under this Act during the previous fiscal year.
+
 3. Audited financial statements for the Authority and a copy of the auditor’s report under subsection 42 (2).
+
 4. Information specified in the operating agreement.
+
 5. Information requested in writing by the Minister.
+
 6. Information required to be included under any other Act.
 
 ### Signature
@@ -880,16 +1051,27 @@ ii. the day specified by the Authority.
 ### Purposes
 
 (2) The purposes of the Registry are the following:
+
 1. To receive information submitted to the Authority,
+
 i. by or on behalf of a person who is responsible for registering under section 66,
+
 ii. by or on behalf of a person who is responsible for reporting under section 72,
+
 iii. by or on behalf of a person who is required to submit information in relation to a program mentioned in clause 24 (1) (c),
+
 iv. by or on behalf of a person who is required to submit information in respect of an object prescribed under clause 24 (1) (d), and
+
 v. under any other Act.
+
 2. Subject to the regulations, to provide public access to information submitted under paragraph 1, other than commercially sensitive information.
+
 3. To provide public notice of,
+
 i. information relating to fees set under section 41, and
+
 ii. other information required to be made available on the Registry under this Act or any other Act.
+
 4. Any prescribed purposes.
 
 ### Organization, form
@@ -899,7 +1081,9 @@ ii. other information required to be made available on the Registry under this A
 ### Requirements re information, fees, etc.
 
 (3.1) The Registry may be operated in such a manner that it may require a person to do one or both of the following before the person is able to complete the submission of information to the Authority:
+
 1. Provide additional information.
+
 2. Pay a fee, cost or charge set by the Authority under section 41.
 
 ### Complete and accurate information, etc.
@@ -937,9 +1121,13 @@ ii. other information required to be made available on the Registry under this A
 ### Minister may require collection of information, etc.
 
 52.1 (1) The Minister may, by order, require the Authority to collect any of the following information, records or documents, as specified by the Minister in the order, from specified persons or classes of persons who are required to carry out responsibilities under Part IV, or persons performing activities that relate to resource recovery or waste reduction in Ontario, and to provide the information, records or documents to the Minister within a specified period of time:
+
 1. Contracts, agreements, offers of service, bills of lading, invoices, remittances or correspondence related to the carrying out of responsibilities under Part IV.
+
 2. Financial information, including costs and fees incurred, charged or proposed, and revenues generated in relation to the carrying out of responsibilities under Part IV.
+
 3. Information about the operation of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act, including collection, management and promotion and education activities engaged in as part of carrying out responsibilities under Part IV.
+
 4. Such other information, records or documents as the Minister may specify for the purposes of assessing the effectiveness of this Act and the regulations and developing and evaluating policy respecting resource recovery and waste reduction.
 
 ### Authority to collect information, etc.
@@ -981,7 +1169,9 @@ ii. other information required to be made available on the Registry under this A
 ### Disclosure of compensation and other payments
 
 53.1 (1) The Minister may, by order, require the Authority to make available to the public any information specified by the Minister relating to,
+
 (a) the compensation that the Authority pays to members of its board of directors, its officers and its employees; and
+
 (b) any other payments that the Authority makes or is required to make to the persons mentioned in clause (a).
 
 ### Posting required
@@ -995,12 +1185,15 @@ ii. other information required to be made available on the Registry under this A
 ### Effect of compliance
 
 (4) If the Authority makes information available to the public in accordance with an order under subsection (1), or in the reasonable belief that the action is required by the order, no court, person or other entity shall find that the Authority,
+
 (a) has contravened any Act enacted or regulation made before or after this section came into force; or
+
 (b) is in breach of or has contravened any agreement that purports to restrict or prohibit that action, regardless of whether the agreement was made before or after this section came into force.
 
 ### Definition
 
 (5) In this section,
+
 “compensation” means anything paid or provided, directly or indirectly, to or for the benefit of a person who performs duties and functions that entitle the person to be paid, and includes salary, benefits, perquisites and all forms of non-discretionary and discretionary payments.
 
 ### Administrator
@@ -1012,11 +1205,17 @@ ii. other information required to be made available on the Registry under this A
 ### Condition precedent
 
 (2) The Minister may appoint an administrator under subsection (1) only if he or she considers it advisable in the public interest to do so because at least one of the following conditions is satisfied:
+
 1. The Authority has failed to comply with a provision of this Act, the regulations, the operating agreement, the by-laws or a provision of any other Act or regulation, and the consequences of the breach put the Authority’s ability to carry out its objects at risk.
+
 2. The Authority has,
+
 i. expended money for a purpose that is not within its objects or diverted money to another person or entity for an improper purpose, or
+
 ii. expended money without due regard to economy and efficiency.
+
 3. The Authority is insolvent or insolvency is imminent.
+
 4. There are not enough members on the Authority’s board of directors to form a quorum for the transaction of business.
 
 ### Notice of appointment
@@ -1092,8 +1291,11 @@ ii. expended money without due regard to economy and efficiency.
 ### Definition
 
 (2) In subsection (1),
+
 “service” means any service or procedure that is provided to the public by the Authority in carrying out its powers and performing its duties under this Act or any other Act and includes,
+
 (a) responding to inquiries from members of the public, and
+
 (b) any other communications for the purpose of providing the service or procedure.
 
 ### Authority’s duty
@@ -1107,33 +1309,49 @@ ii. expended money without due regard to economy and efficiency.
 ### Confidentiality of information
 
 57 (1) In this section,
+
 “law enforcement proceeding” means a proceeding in a court or tribunal that could result in a penalty or sanction being imposed; (“procédure d’exécution de la loi”)
+
 “peace officer” means a person or a member of a class of persons set out in the definition of “peace officer” in section 2 of the Criminal Code (Canada). (“agent de la paix”)
 
 ### Secrecy and permissible disclosure
 
 (2) The persons and entities mentioned in subsection (3) shall preserve secrecy with respect to any information obtained in performing a duty or exercising a power under this Act and shall not communicate the information to any person or entity except,
+
 (a) as may be required in connection with a proceeding under this Act or in connection with the administration of this Act and the regulations under this Act;
+
 (b) to the Minister, the Ministry or an employee or agent of the Ministry;
+
 (c) to a peace officer, as required under a warrant, to aid an inspection, investigation or similar proceeding undertaken with a view to a law enforcement proceeding or from which a law enforcement proceeding is likely to result;
+
 (d) with the consent of the person to whom the information relates;
+
 (e) to the counsel of the person to whom the information relates;
+
 (f) to the extent that the information is required or permitted to be made available to the public under this Act or any other Act; or
+
 (g) under further circumstances that are prescribed.
 
 ### Same
 
 (3) The persons and entities referred to in subsection (2) are,
+
 (a) the Authority, the members of its board of directors and its officers, employees and agents, including the Registrar, a Deputy Registrar and an inspector, and any other person who performs the duties and exercises the powers of those persons;
+
 (b) any person carrying out a review under section 31;
+
 (c) an administrator appointed under section 54; and
+
 (d) a provincial offences officer designated under the Provincial Offences Act for the purposes of section 98 or 99 of this Act.
 
 ### Testimony in civil proceeding
 
 (4) No person shall be compelled to give testimony in a civil proceeding with regard to information obtained in the course of exercising a power or performing a duty under this Act, other than,
+
 (a) a proceeding under this Act;
+
 (b) a proceeding under any other Act that relates to the Authority’s objects; or
+
 (c) an appeal or a judicial review relating to a proceeding described in clause (a) or (b).
 
 ### Conflict
@@ -1147,17 +1365,29 @@ ii. expended money without due regard to economy and efficiency.
 ### Interpretation
 
 59 In this Part,
+
 “brand” means any mark, word, name, symbol, design, device or graphical element, or a combination thereof, including a registered or unregistered trade-mark, which identifies a product and distinguishes it from other products; (“marque”)
+
 “brand holder” means a person who owns or licences a brand or who otherwise has rights to market a product under the brand; (“titulaire de marque”)
+
 “consumer”, in respect of material in a designated class, means a person who obtains the material for the person’s own use, subject to any alternative meaning or meanings that may be provided for in the regulations; (“consommateur”)
+
 “convenience packaging” means material used in addition to primary packaging to facilitate consumers’ handling or transportation of one or more products, such as boxes and bags, subject to any alternative meaning or meanings that may be provided for in the regulations; (“emballage pratique”)
+
 “designated class” means a class described in section 60; (“catégorie désignée”)
+
 “market”, in respect of a product, includes,
+
 (a) to offer the product for sale, expose it for sale or possess it for sale,
+
 (b) to distribute the product, whether for consideration or not, and
+
 (c) to lease the product, offer it for lease, expose it for lease or have it in possession for lease; (“commercialiser”)
+
 “primary packaging” means material that is used for the containment, protection, handling, delivery and presentation of a product that is provided to a consumer at the point of sale, and includes packaging designed to group one or more products for the purposes of sale, but does not include convenience packaging or transport packaging, subject to any alternative meaning or meanings that may be provided for in the regulations; (“emballage primaire”)
+
 “product” means material that is a thing, part of a thing, or combination of things intended for use by a consumer, subject to any alternative meaning or meanings that may be provided for in the regulations; (“produit”)
+
 “transport packaging” means material used in addition to primary packaging to facilitate the handling or transportation of one or more products by persons other than consumers, such as pallets, bail wrap and boxes, but does not include shipping containers designed for transporting things by road, ship, rail or air, subject to any alternative meaning or meanings that may be provided for in the regulations. (“emballage de transport”)
 
 ### Designated classes
@@ -1167,9 +1397,13 @@ ii. expended money without due regard to economy and efficiency.
 ### Same
 
 (2) The classes of materials designated under subsection (1) shall be in respect of one or more of the following:
+
 1. Products.
+
 2. Primary packaging associated with a product.
+
 3. Convenience packaging.
+
 4. Transport packaging.
 
 ### Persons Who May Have Responsibilities
@@ -1179,17 +1413,25 @@ ii. expended money without due regard to economy and efficiency.
 ### Brand holders
 
 61 (1) Under this Part, a person who is the holder of a brand associated with a product in a designated class may be required to carry out any of the following responsibilities with respect to the product and its primary packaging:
+
 1. Registration, as described in section 66.
+
 2. Waste reduction, as described in section 67.
+
 3. Collection, as described in section 68.
+
 4. Management, as described in section 69.
+
 5. Promotion and education, as described in section 70.
+
 6. Reporting, auditing and record keeping, as described in section 72.
 
 ### Alternate or additional person
 
 (2) Either or both of the following may be required to carry out responsibilities under this Part instead of, or in addition to, a brand holder described in subsection (1):
+
 1. A person who has a commercial connection to a product in a designated class.
+
 2. A person who meets prescribed conditions in respect of a product or its primary packaging in a designated class.
 
 ### Same, agreement
@@ -1199,7 +1441,9 @@ ii. expended money without due regard to economy and efficiency.
 ### Commercial connection
 
 (3) For the purposes of subsection (2), a person who has a commercial connection to a product in a designated class means a person who,
+
 (a) imports, wholesales, leases or retails the product, or is otherwise involved in the product’s distribution; or
+
 (b) meets the prescribed conditions.
 
 ### Same, determination
@@ -1213,16 +1457,23 @@ ii. expended money without due regard to economy and efficiency.
 ### Limitation
 
 (6) A regulation shall not require a person mentioned in subsection (1) or (2) to carry out responsibilities under this Part in respect of material in a designated class unless,
+
 (a) the person is the brand holder of a product in the class that is marketed to a consumer in Ontario, including through the Internet, using a catalogue order system, using a telephone order system, or by a similar remote sales method;
+
 (b) the person markets a product in the class to a consumer in Ontario, including through the Internet, using a catalogue order system, using a telephone order system, or by a similar remote sales method; or
+
 (c) the person satisfies the prescribed criteria.
 
 ### Convenience packaging and transport packaging
 
 62 (1) Under this Part, a person may be required to carry out any one or more of the responsibilities mentioned in subsection 61 (1) with respect to convenience packaging or transport packaging in a designated class if,
+
 (a) the person is the brand holder of a product that is or was contained in, on or under the packaging;
+
 (b) in the case of convenience packaging, the person supplies convenience packaging in the class to a consumer in Ontario;
+
 (c) in the case of transport packaging, the person first causes transport packaging in the class to be used in the handling or transportation of a product marketed to a consumer in Ontario, if the final destination of the packaging is in Ontario; or
+
 (d) the person satisfies the prescribed criteria.
 
 ### Same, determination
@@ -1236,22 +1487,35 @@ ii. expended money without due regard to economy and efficiency.
 ### Interpretation
 
 63 For the purposes of sections 61 and 62,
+
 (a) a brand holder includes,
+
 (i) a person who has been a brand holder but who no longer is, and
+
 (ii) a person who was a brand holder before the day this section comes into force;
+
 (b) a person who has a commercial connection to a product includes,
+
 (i) a person who had a commercial connection to the product but who no longer does, and
+
 (ii) a person who had a commercial connection to the product before the day this section comes into force;
+
 (c) a person who supplies convenience packaging includes a person who has supplied the packaging but who no longer does; and
+
 (d) a person who markets a product includes,
+
 (i) a person who has marketed the product but who no longer does, and
+
 (ii) a person who marketed the product before the day this section comes into force.
 
 ### Other persons performing activity related to resource recovery or waste reduction
 
 64 Under this Part, persons who are not described in section 61 or 62 but who perform an activity that relates to resource recovery or waste reduction in Ontario may be required to carry out responsibilities in any one or more of the following categories:
+
 1. Registration, as described in section 66.
+
 2. Promotion and education, as described in section 70.
+
 3. Reporting, auditing and record keeping, as described in section 72.
 
 ### More than one responsible person
@@ -1267,10 +1531,15 @@ ii. expended money without due regard to economy and efficiency.
 ### Requirements
 
 (2) Without limiting the generality of subsection (1), a regulation may require that a person include the following information in a registration:
+
 1. A list or description of products and packaging in respect of which the person is required to carry out a responsibility under a regulation under section 67, 68, 69, or 70.
+
 2. A description of how the person is fulfilling or plans to fulfil the person’s responsibilities under this Part.
+
 3. The name of anyone the person retains to arrange for the establishment or operation of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act in relation to the person’s responsibilities under this Part and a description of the arrangements that person is retained to provide.
+
 4. The name of anyone the person retains to operate a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act in relation to the person’s responsibilities under this Part and a description of the services that person is retained to provide.
+
 5. Other information in respect of activities the person engages in that affect resource recovery or waste reduction in Ontario.
 
 ### Other persons performing activity relating to resource recovery or waste reduction
@@ -1280,10 +1549,15 @@ ii. expended money without due regard to economy and efficiency.
 ### Requirements
 
 (4) Without limiting the generality of subsection (3), a regulation may require that a person include the following information in a registration:
+
 1. Information in respect of activities the person engages in that affect resource recovery or waste reduction in Ontario.
+
 2. A description of how the person is fulfilling or plans to fulfil the person’s responsibilities under this Part.
+
 3. The name of anyone the person retains to arrange for the establishment or operation of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act in relation to another person’s responsibilities under this Part and a description of the arrangements that person is retained to provide.
+
 4. The name of anyone the person retains to operate a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act in relation to another person’s responsibilities under this Part and a description of the services that person is retained to provide.
+
 5. The name of anyone who retains the person in respect of responsibilities under this Part and a description of the services the person is retained to provide.
 
 ### Responsibility to reduce waste
@@ -1293,19 +1567,29 @@ ii. expended money without due regard to economy and efficiency.
 ### Limitation
 
 (2) The following limitations apply to a regulation under subsection (1):
+
 1. A person’s responsibility for reducing waste applies only in respect of the material with which the person is associated within a designated class.
+
 2. A person shall not be prescribed as being responsible for reducing waste unless the person,
+
 i. is a brand holder of a product,
+
 ii. supplies convenience packaging that displays a brand the person holds, or
+
 iii. causes the use of transport packaging that displays a brand the person holds.
 
 ### Design of product and packaging
 
 (3) Without limiting the generality of subsection (1), a regulation may require that a person with a waste reduction responsibility in respect of a designated class take steps to design material in the class so as to,
+
 (a) increase the material’s reusability and recyclability;
+
 (b) reduce or eliminate any impact the material may have on the recyclability of other materials in the class;
+
 (c) reduce the amount of waste generated at the end of the product’s or packaging’s life;
+
 (d) reduce or eliminate the use of any substance in the material; or
+
 (e) increase the use of recovered resources in the making of the material.
 
 ### Responsibility for collection system
@@ -1315,13 +1599,21 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Requirements
 
 (2) Without limiting the generality of subsection (1), a regulation may require that a person responsible for establishing and operating a collection system,
+
 (a) must collect prescribed material in the designated class in accordance with the prescribed requirements;
+
 (b) must collect the person’s own product, collect the packaging associated with the person’s own product, collect any product in the designated class, or collect any packaging in the designated class;
+
 (c) must ensure that the collection system is operated for the prescribed period of time;
+
 (d) must ensure that the prescribed services, facilities and activities for the collection of the material are provided in accordance with the prescribed requirements;
+
 (e) must ensure that services, facilities and activities for the collection of the material that are prohibited under the regulations are not provided;
+
 (f) must ensure that the material is collected in the prescribed quantities;
+
 (g) must collect the material from a person who offers the material for collection or from another prescribed person; or
+
 (h) must not engage in methods of collection that are prohibited under the regulations.
 
 ### No charge
@@ -1343,10 +1635,15 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Requirements
 
 (2) Without limiting the generality of subsection (1), a regulation may provide that a person responsible for managing material shall handle, reuse, recycle, recover resources from, and dispose of the material in accordance with the prescribed requirements, and may provide that a person,
+
 (a) must allow for the material or part of the material to be,
+
 (i) reused,
+
 (ii) used in the making of new products, packaging or other things, or
+
 (iii) used as a nutrient for improving the quality of soil, agriculture or landscaping; or
+
 (b) must not engage in methods of handling, reusing, recycling, recovering resources from, or disposing of the material that are prohibited under the regulations.
 
 ### Part V of the Environmental Protection Act
@@ -1356,8 +1653,11 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Requirement to offer services
 
 69.1 A regulation may provide that a person who satisfies the condition of having entered into an agreement described in subsection 61 (2.1) is required to offer to provide the following services with respect to prescribed material, products or packaging in a designated class to municipalities or other prescribed entities:
+
 1. Collection services.
+
 2. Management services.
+
 3. Implementation of a promotion and education program.
 
 ### Responsibility for promotion and education
@@ -1427,8 +1727,11 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Requirement for agreements
 
 74 (1) This section applies to the following persons:
+
 1. A person mentioned in section 61 or 62 who is required to carry out responsibilities under section 68 or 69.
+
 2. A person who arranges for the establishment or operation of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act in relation to another person’s responsibilities under this Part.
+
 3. A person who operates a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act and provides services in relation to another person’s responsibilities under this Part.
 
 ### Same
@@ -1444,7 +1747,9 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Same
 
 (2) The Lieutenant Governor in Council may prescribe material for the purpose of subsection (1) if,
+
 (a) a collection system is required to be established and operated under section 68 in respect of the designated class to which the material belongs and a person obligated by the regulations to establish and operate the collection system has failed to establish it or has ceased to operate it; or
+
 (b) a person who is required to carry out one or more responsibilities under this Part in respect of the material has habitually failed to carry out any of the responsibilities.
 
 ## Part V enforcement
@@ -1454,7 +1759,9 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Definitions
 
 76 In this Part,
+
 “Part IV regulations” means the regulations made under Part IV (Resource Recovery and Waste Reduction Responsibilities); (“règlements de la partie IV”)
+
 “place” includes a building, structure, machine, vehicle or vessel. (“lieu”)
 
 ### Non-application of provisions of Part re s. 24 (1) (c)
@@ -1472,14 +1779,19 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Inspection
 
 78 (1) An inspector may, at any reasonable time, enter any place described in subsection (2) and conduct an inspection for the purpose of determining any person’s compliance with this Act or the regulations if the inspector reasonably believes that,
+
 (a) the place contains documents or data relating to the person’s compliance; or
+
 (b) an activity relating to the person’s compliance is occurring or has occurred at the place.
 
 ### Same
 
 (2) Subsection (1) authorizes an inspector to enter a place only if it is owned or occupied by,
+
 (a) a person required under Part IV to carry out a responsibility under that Part;
+
 (b) a person who arranges for the establishment or operation of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act in relation to another person’s responsibilities under this Part; or
+
 (c) the owner or operator of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act.
 
 ### Entry to dwellings
@@ -1489,12 +1801,19 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Powers during inspection
 
 (4) An inspector may do any one or more of the following in the course of entering a place and conducting an inspection:
+
 1. Examine, record or copy any document or data, in any form, by any method.
+
 2. Make a record of anything by any method.
+
 3. Require the production of any document or data, in any form, required to be kept under this Act and of any form of other document or data related to the purpose of the inspection.
+
 4. Remove from the place, for the purpose of making copies, documents or data produced under paragraph 3.
+
 5. Make reasonable inquiries of any person, orally or in writing.
+
 6. Take samples for analysis.
+
 7. Conduct tests or take measurements.
 
 ### Limitation
@@ -1516,10 +1835,15 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Power to require response to inquiries
 
 79 (1) For the purpose of determining a person’s compliance with this Act or the regulations, an inspector may, at any reasonable time and with any reasonable assistance, require any of the following persons to respond to reasonable inquiries:
+
 1. A person required under Part IV to carry out a responsibility under that Part.
+
 2. A person who arranges for the establishment or operation of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act in relation to another person’s responsibilities under this Part.
+
 3. The owner or operator of a waste disposal site or waste management system within the meaning of Part V of the Environmental Protection Act.
+
 4. A person required to pay a fee under subsection 41 (5).
+
 5. A director, officer, employee or agent of a person described in paragraphs 1 to 4.
 
 ### Same
@@ -1541,12 +1865,19 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Order for entry or inspection
 
 81 (1) A justice may issue an order authorizing an inspector to do anything set out in subsection 78 (1) or (4) or section 79 if the justice is satisfied, on evidence under oath by an inspector, that there are reasonable grounds to believe that,
+
 (a) it is appropriate for the inspector to do anything set out in subsection 78 (1) or (4) or section 79 for the purpose of determining any person’s compliance with this Act or the regulations;
+
 (b) the inspector may not be able to carry out his or her duties effectively without an order under this section because,
+
 (i) no occupier is present to grant access to a place that is locked or otherwise inaccessible,
+
 (ii) a person has prevented or may prevent the inspector from doing anything set out in subsection 78 (1) or (4) or section 79,
+
 (iii) it is impractical, because of the remoteness of the place to be inspected or for any other reason, for an inspector to obtain an order under this section without delay if access is denied, or
+
 (iv) an attempt by an inspector to do anything set out in subsection 78 (1) or (4) or section 79 might not achieve its purpose without the order; or
+
 (c) a person is refusing or is likely to refuse to respond to reasonable inquiries.
 
 ### Same
@@ -1608,25 +1939,37 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Order by inspector: contraventions of Act and regulations
 
 86 (1) If an inspector reasonably believes any of the following persons is contravening or has contravened this Act or the regulations, the inspector may issue an order to the person, subject to the regulations:
+
 1. A person required under Part IV to carry out a responsibility under that Part.
+
 2. A person required to pay a fee under subsection 41 (5).
+
 3. A person required to comply with a rule pursuant to subsection 107.1 (6).
 
 ### Information to be included in order
 
 (2) The order shall,
+
 (a) specify the provision of this Act or the regulations that the inspector believes is being or has been contravened;
+
 (b) briefly describe the nature and, where applicable, the location of the contravention; and
+
 (c) state that a review of the order may be requested in accordance with section 87.
 
 ### What order may require
 
 (3) The order may require the person to whom it is directed to comply with any directions set out in the order within the time specified, relating to,
+
 (a) remedying a contravention of Part III or IV of this Act or the regulations made in respect of those Parts;
+
 (b) preventing the continuation or repetition of the contravention;
+
 (c) submitting a plan prepared by or on behalf of the person for achieving compliance with a provision of this Act or the regulations to the inspector’s satisfaction;
+
 (d) engaging contractors or consultants satisfactory to an inspector to prepare a plan or carry out work required by the order;
+
 (e) sampling, testing, measuring, monitoring and reporting with respect to material in a class designated under the Part IV regulations; or
+
 (f) posting notice of the order.
 
 ### Consequential authority
@@ -1648,8 +1991,11 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Contents of request for review
 
 (4) A written request for review under subsection (1) or a written confirmation of an oral request under subsection (3) shall include,
+
 (a) the portions of the order in respect of which the review is requested;
+
 (b) any submissions that the person requesting the review wishes the Deputy Registrar to consider; and
+
 (c) for the purpose of subsection (8), an address that may be used for service.
 
 ### No automatic stay
@@ -1659,7 +2005,9 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Decision of Deputy Registrar
 
 (6) After reviewing the request, the Deputy Registrar may,
+
 (a) revoke the inspector’s order; or
+
 (b) by order directed to the person requesting the review, confirm or amend the inspector’s order.
 
 ### Same
@@ -1669,7 +2017,9 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Notice of decision
 
 (8) The Deputy Registrar shall serve the person requesting the review with a copy of,
+
 (a) a decision to revoke the inspector’s order; or
+
 (b) an order to confirm or amend the inspector’s order, together with reasons.
 
 ### Automatic confirmation of order
@@ -1679,13 +2029,17 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Same
 
 (10) For the purpose of section 91 and a hearing required under that section, a confirming order deemed to have been made by the Deputy Registrar under subsection (9),
+
 (a) is deemed to be directed to each person to whom the inspector’s order was directed; and
+
 (b) is deemed to have been served, on each person to whom the inspector’s order was directed, at the expiry of the time period referred to in subsection (9).
 
 ### Additional time
 
 (11) Subsections (9) and (10) do not apply if, within seven days after receiving the request for review, the Deputy Registrar stays the order under subsection (5) and serves written notice on the person requesting the review specifying,
+
 (a) that the Deputy Registrar requires additional time to make a decision under subsection (6); and
+
 (b) the date by which the decision will be made.
 
 ### Renewal
@@ -1705,26 +2059,39 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Administrative penalties
 
 89 (1) An administrative penalty may be imposed under this section for one or more of the following purposes:
+
 1. To ensure compliance with this Act and the regulations.
+
 2. To prevent a person from deriving, directly or indirectly, any economic benefit as a result of contravening a provision of this Act or of the regulations.
 
 ### Order by Registrar or Deputy Registrar
 
 (2) The Registrar or a Deputy Registrar may, subject to the regulations, issue an order requiring a person described in subsection (3) to pay an administrative penalty to the Authority if the Registrar or Deputy Registrar is of the opinion that the person has contravened,
+
 (a) subsection 41 (5);
+
 (b) a requirement under subsection 50 (4) to file information, reports, records or documents that are complete and accurate;
+
 (c) subsection 68 (3);
+
 (d) subsection 75 (1);
+
 (e) section 79; or
+
 (f) a provision of this Act or of the regulations that is prescribed for the purposes of this section.
 
 ### Same
 
 (3) An order may be issued under subsection (2),
+
 (a) to a person required to pay a fee under subsection 41 (5);
+
 (b) to a person required under Part IV to carry out a responsibility under that Part;
+
 (c) to a person who fails to respond to an inquiry made under section 79;
+
 (d) to a person prohibited from marketing a product under subsection 75 (1); or
+
 (e) to a prescribed person.
 
 ### Limitation
@@ -1742,15 +2109,21 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Contents
 
 (7) An order under subsection (2) shall be served on the person who is required to pay the administrative penalty and shall,
+
 (a) contain a description of the contravention to which the order relates, including, if appropriate, the date of the contravention;
+
 (b) specify the amount of the penalty;
+
 (c) give particulars respecting the time for paying the penalty and the manner of payment; and
+
 (d) provide details of the person’s right to require a hearing under section 91.
 
 ### Absolute liability
 
 (8) A requirement that a person pay an administrative penalty applies even if,
+
 (a) the person took all reasonable steps to prevent the contravention; or
+
 (b) at the time of the contravention, the person had an honest and reasonable belief in a mistaken set of facts that, if true, would have rendered the contravention innocent.
 
 ### Same
@@ -1774,9 +2147,13 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Appeal of order
 
 91 (1) A person to whom any of the following orders is directed may require a hearing by the Tribunal in accordance with subsection (2):
+
 1. An order made under subsection 86 (1) by an inspector who is also the Registrar or a Deputy Registrar.
+
 2. An order made under clause 87 (6) (b) by a Deputy Registrar.
+
 3. An order deemed to have been confirmed by order of a Deputy Registrar under subsection 87 (9).
+
 4. An order made under subsection 89 (2) by the Registrar or a Deputy Registrar.
 
 ### Same
@@ -1794,7 +2171,9 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Contents of notice requiring hearing
 
 93 (1) An applicant for a hearing by the Tribunal shall state in the notice requiring the hearing,
+
 (a) the portions of the order in respect of which the hearing is required; and
+
 (b) the grounds on which the applicant intends to rely at the hearing.
 
 ### Effect of contents of notice
@@ -1828,9 +2207,13 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Parties
 
 95 The following persons are parties to the proceeding:
+
 1. The person requiring the hearing.
+
 2. The Registrar, if he or she made the order being appealed.
+
 3. A Deputy Registrar, if he or she made the order being appealed.
+
 4. Any other person specified by the Tribunal.
 
 ### Powers of Tribunal
@@ -1852,7 +2235,9 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Divisional Court may grant or set aside stay
 
 (3) If a decision of the Tribunal is appealed to the Divisional Court under this section, the Divisional Court may,
+
 (a) stay the operation of the decision; or
+
 (b) set aside a stay ordered by the Tribunal under subsection (2).
 
 ### Offences
@@ -1864,13 +2249,21 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### List
 
 (2) The following provisions are listed for the purposes of subsection (1):
+
 1. Subsection 41 (5).
+
 2. Subsection 68 (3).
+
 2.1 Section 72.1.
+
 3. Section 73.
+
 4. Section 74.
+
 5. Subsection 75 (1).
+
 6. Section 88.
+
 7. Subsection 107.1 (6).
 
 ### Failure to comply with Director’s direction under section 17
@@ -1892,13 +2285,17 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Penalty, individual
 
 (7) An individual who is guilty of an offence under this section is liable, on conviction,
+
 (a) in the case of a first conviction, to a fine of not more than $50,000 for each day or part of a day on which the offence occurs or continues; and
+
 (b) in the case of a subsequent conviction, to a fine of not more than $100,000 for each day or part of a day on which the offence occurs or continues.
 
 ### Same, corporation
 
 (8) A corporation that is guilty of an offence under this section is liable, on conviction,
+
 (a) in the case of a first conviction, to a fine of not more than $250,000 for each day or part of a day on which the offence occurs or continues; and
+
 (b) in the case of a subsequent conviction, to a fine of not more than $500,000 for each day or part of a day on which the offence occurs or continues.
 
 ### Penalty re monetary benefit
@@ -1908,8 +2305,11 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Additional orders
 
 (10) The court that convicts a person of an offence under this section may, on its own initiative or on the motion of counsel for the prosecutor, make one or more of the following orders:
+
 1. An order requiring the person, within the period or periods specified in the order, to do or refrain from doing anything specified in the order.
+
 2. An order imposing requirements that the court considers appropriate to prevent similar unlawful conduct or to contribute to the person’s rehabilitation.
+
 3. An order prohibiting the continuation or repetition of the offence by the person.
 
 ### Other remedies and penalties preserved
@@ -1927,9 +2327,13 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### False information
 
 (2) No person shall give or submit false or misleading information, orally, in writing or electronically, in any statement, document or data in respect of any matter related to this Act or the regulations to,
+
 (a) the Authority, an inspector, the Registrar, a Deputy Registrar, or any other officer, employee or agent of the Authority;
+
 (b) a person required to carry out a review under clause 31 (2) (b);
+
 (c) an administrator appointed under section 54; or
+
 (d) the Minister, the Ministry, or an employee or agent of the Ministry.
 
 ### Same
@@ -1939,10 +2343,15 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Refusal to provide information
 
 (4) No person shall refuse to provide information required for the purpose of this Act or the regulations to,
+
 (a) the Authority, the Registrar, a Deputy Registrar, an inspector, or any other officer, employee or agent of the Authority;
+
 (b) a person required to carry out a review under clause 31 (2) (b);
+
 (c) an administrator appointed under section 54;
+
 (d) a person appointed as a Director under section 16; or
+
 (e) the Minister, the Ministry, or an employee or agent of the Ministry.
 
 ### Offence
@@ -1954,26 +2363,39 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Serving a document
 
 100 (1) Any notice, order or other document that is required to be served on a person under this Act is sufficiently served if it is,
+
 (a) delivered directly to the person;
+
 (b) left at the person’s last known address, in a place that appears to be for incoming mail or with an individual who appears to be 16 years old or older;
+
 (c) sent by regular mail to the person’s last known address;
+
 (d) sent by commercial courier to the person’s last known address;
+
 (e) sent by email to the person’s last known email address;
+
 (f) sent by fax to the person’s last known fax number; or
+
 (g) given by other means specified by the regulations.
 
 ### Deemed receipt
 
 (2) Subject to subsection (4),
+
 (a) a document left under clause (1) (b) is deemed to have been received on the first business day after the day it was left;
+
 (b) a document sent under clause (1) (c) is deemed to have been received on the fifth business day after the day it was mailed;
+
 (c) a document sent under clause (1) (d) is deemed to have been received on the second business day after the day the commercial courier received it;
+
 (d) a document sent under clause (1) (e) or (f) is deemed to have been received on the first business day after the day it was sent; and
+
 (e) a document given under clause (1) (g) is deemed to have been received on the day specified by the regulations.
 
 ### Definition
 
 (3) In subsection (2),
+
 “business day” means a day from Monday to Friday, other than a holiday as defined in section 87 of the Legislation Act, 2006.
 
 ### Failure to receive document
@@ -1993,7 +2415,9 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Same, statement
 
 (2) A statement that purports to be certified by the Registrar, a Deputy Registrar or an inspector is, without proof of the person’s office or signature, admissible in evidence in any proceeding as proof, in the absence of evidence to the contrary, of the facts stated in it in relation to,
+
 (a) the receipt or non-receipt of any document required or permitted to be given to the Registrar, Deputy Registrar or inspector; and
+
 (b) the day on which evidence of an offence under this Act first came to the attention of the Authority or an officer, employee or agent of the Authority.
 
 ## Part VI Regulations
@@ -2003,11 +2427,17 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Regulations, Lieutenant Governor in Council
 
 102 The Lieutenant Governor in Council may make regulations,
+
 (a) respecting anything that may or must be prescribed, done or provided for by regulation, and for which a specific power is not otherwise provided in this Act;
+
 (b) exempting any person or entity from any provision of this Act or the regulations and prescribing conditions for the exemptions from this Act and the regulations;
+
 (c) defining any word or expression used in this Act that is not already defined;
+
 (d) prescribing related things for the purposes of the provincial interest described in section 2;
+
 (e) governing such transitional matters as the Lieutenant Governor in Council considers necessary or advisable to facilitate the implementation of this Act;
+
 (f) respecting any matter that the Lieutenant Governor in Council considers advisable to effectively carry out the purpose of this Act.
 
 ### Regulations, general rules
@@ -2033,37 +2463,65 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Regulations, Part II
 
 104 The Lieutenant Governor in Council may make regulations,
+
 (a) prescribing persons and entities for the purpose of paragraph 5 of subsection 10 (1);
+
 (b) prescribing persons, entities and activities for the purpose of paragraph 5 of subsection 12 (1);
+
 (c) prescribing Acts for the purpose of paragraph 10 of subsection 12 (2);
+
 (d) prescribing provisions and Acts for the purpose of paragraph 6 of subsection 12 (3);
+
 (e) prescribing instruments for the purpose of subsection 14 (5);
+
 (f) prescribing instruments for the purpose of clause 15 (2) (b);
+
 (g) prescribing plans and provisions of plans for the purpose of clause 15 (4) (e);
+
 (h) prescribing persons, entities and activities for the purpose of paragraph 3 of subsection 17 (2);
+
 (i) governing reviews and reports and the provision of information and reports under section 17, including,
+
 (i) governing their contents, and
+
 (ii) requiring that specified parts of a report be certified in the specified way by a person with specified qualifications.
 
 ### Regulations, Part III, Lieutenant Governor in Council
 
 105 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) limiting the capacity, rights, powers or privileges of the Authority for the purposes of subsection 34 (1);
+
 (b) permitting and governing, for the purposes of subsection 34 (2), the establishment of subsidiary corporations of the Authority, including,
+
 (i) specifying the objects, powers and duties of subsidiary corporations,
+
 (ii) providing for their management,
+
 (iii) prescribing provisions of this Act and the regulations that apply, with prescribed modifications, to subsidiary corporations, and
+
 (iv) prescribing provisions of the Corporations Act, the Corporations Information Act and the Not-for-Profit Corporations Act, 2010 that apply to subsidiary corporations;
+
 (c) governing commercial activities referred to in subsection 34 (3) that the Authority may engage in through an individual, corporation or other entity, including respecting the manner in which an entity may or may not be related to the Authority, to a member of its board of directors or to an officer of the Authority for the purposes of that subsection;
+
 (d) subject to subsection (2), prescribing requirements for fees, costs or charges;
+
 (e) governing the establishment, maintenance and operation of the Registry, including requiring electronic submissions;
+
 (f) governing or prohibiting the posting of information on the Registry;
+
 (g) governing procedures for submitting information through the Registry or to the Authority;
+
 (h) prescribing the timing and requirements relating to periodic updating of submissions;
+
 (i) respecting the manner in which the Authority must provide information to the Minister under section 53, including, without limitation, requiring the Authority to identify information the Authority is providing to the Minister in confidence before providing it to the Minister;
+
 (j) requiring the Authority to follow processes and procedures with respect to providing access to the public to records of the Authority or with respect to managing personal information contained in those records and governing those processes and procedures;
+
 (k) prescribing purposes for the Registry;
+
 (l) prescribing further circumstances, for the purposes of clause 57 (2) (g), under which disclosure is permitted;
+
 (m) requiring the Authority to disclose, to the public, information relating to compensation and any other payments that it makes or is required to make to members of the Authority’s board of directors, officers or employees and governing the disclosure. 
 
 ### Regulations re fees, etc.
@@ -2073,13 +2531,21 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Regulations, Part III, Minister
 
 106 (1) The Minister may make regulations,
+
 (a) prescribing the maximum number of board members to be appointed under paragraph 1 of subsection 25 (2);
+
 (b) prescribing the maximum number of board members to be elected under paragraph 2 of subsection 25 (2);
+
 (c) prescribing the procedures for the election of board members under paragraph 2 of subsection 25 (2);
+
 (d) prescribing qualifications of and eligibility criteria for board members;
+
 (e) prescribing restrictions on the length of terms of board members and on their reappointment or re-election;
+
 (f) prescribing the number of board members that constitutes a quorum for the purposes of subsection 25 (13);
+
 (g) prescribing a date for the purpose of subsection 26 (3);
+
 (h) prescribing provisions of the Corporations Act, the Corporations Information Act and the Not-for-Profit Corporations Act, 2010 that apply to the Authority.
 
 ### Restriction, maximum numbers of board members
@@ -2089,24 +2555,39 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Regulations, Part IV
 
 107 The Lieutenant Governor in Council may make regulations,
+
 (a) respecting anything that, under Part IV, may or must be prescribed, done or provided for by regulation;
+
 (b) respecting convenience packaging, primary packaging and transport packaging, and what constitutes each type of packaging for the purposes of Part IV;
+
 (b.1) requiring persons who satisfy the condition of having entered into an agreement described in subsection 61 (2.1) to provide specified information, including financial and operational information, within specified time periods, to the parties to the agreement, the public and the Authority;
+
 (b.2) governing agreements mentioned in clause (b.1);
+
 (b.3) governing offers mentioned in section 69.1, including,
+
 (i) specifying circumstances in which offers must be made and time periods within which offers must be made,
+
 (ii) governing terms and conditions to be included in an offer, and
+
 (iii) prescribing requirements respecting the services offered;
+
 (c) prescribing information, reports, records or documents to be included with a registration;
+
 (d) prescribing the location at which documents or data must be created, stored or made available;
+
 (e) providing for the preparation and signing of documents by electronic means, the filing of documents by direct electronic transmission and the printing of documents filed by direct electronic transmission;
+
 (f) governing reports required under section 72;
+
 (g) governing audits required under section 72, including governing standards for independent audits required under that section, qualifications for auditors and requirements for certification of audits.
 
 ### Blue box material
 
 107.1 (1) Without limiting the generality of section 68, the Lieutenant Governor in Council may make regulations governing the collection of blue box material, including, without limiting the generality of the foregoing,
+
 (a) defining “blue box material” for the purposes of this section and the regulations; and
+
 (b) establishing procedures and requirements for the determination of which persons are required to collect blue box material, and from which sources.
 
 ### Rules
@@ -2116,14 +2597,19 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Persons or entities
 
 (3) A regulation made under the authority of subsection (2) that authorizes or requires one or more prescribed persons or entities to make rules may,
+
 (a) specify the person or entity;
+
 (b) set out a method for determining the person or entity; or
+
 (c) specify criteria that a person or entity must meet.
 
 ### Some powers
 
 (4) Without limiting the generality of subsection (2), a regulation that authorizes or requires one or more prescribed persons or entities to make rules may,
+
 (a) authorize or require different prescribed persons or entities to make rules in different prescribed circumstances; and
+
 (b) provide for substituting, in whole or in part, rules made by one person or entity for those that were made or that should have been made by a different person or entity.
 
 ### Restriction
@@ -2145,27 +2631,43 @@ iii. causes the use of transport packaging that displays a brand the person hold
 ### Regulations, Part V
 
 108 (1) The Lieutenant Governor in Council may make regulations,
+
 (a) specifying the form and content of orders under Part V;
+
 (b) governing the administrative penalties that may be imposed under section 89;
+
 (c) prescribing provisions of this Act or the regulations for the purposes of clause 89 (2) (f);
+
 (d) prescribing persons to whom an order may be issued for the purposes of clause 89 (3) (e);
+
 (e) prescribing criteria for the purposes of subsection 94 (2);
+
 (f) specifying other means of giving a document for the purposes of clause 100 (1) (g), and specifying the day on which a document given by those means is deemed to have been received.
 
 ### Same, administrative penalties
 
 (2) Without limiting the generality of clause (1) (b), a regulation governing administrative penalties may,
+
 (a) despite subsection 89 (2), prescribe circumstances in which an administrative penalty may not be imposed;
+
 (b) prescribe criteria the Registrar or a Deputy Registrar is required or permitted to consider when imposing a penalty under section 89;
+
 (c) governing the determination of the amount of administrative penalties for the purposes of subsection 89 (6);
+
 (d) authorize a penalty to be imposed for each day or part of a day on which a contravention continues;
+
 (e) authorize higher penalties for a second or subsequent contravention;
+
 (f) require that the penalty be paid before a specified deadline or before a deadline specified by the Registrar or a Deputy Registrar;
+
 (g) authorize the imposition of late payment fees respecting penalties that are not paid before the deadline, including graduated late payment fees;
+
 (h) establish a maximum cumulative penalty payable in respect of a contravention or in respect of contraventions during a specified period.
 
 ## Part VII (OMITTED)
 
 109 Omitted (provides for amendments to this Act).
+
 110 Omitted (provides for coming into force of provisions of this Act).
+
 111 Omitted (enacts short title of this Act).

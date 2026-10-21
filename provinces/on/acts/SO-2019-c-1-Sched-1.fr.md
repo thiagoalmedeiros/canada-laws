@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2025-06-05"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c01"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # sécurité communautaire et les services policiers (Loi de 2019 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19c01) before relying on it.
 
 L.O. 2019, chap. 1, annexe 1
 
@@ -21,99 +21,181 @@ L.O. 2019, chap. 1, annexe 1
 ### Déclaration de principes
 
 1 Les services policiers sont offerts dans l’ensemble de l’Ontario conformément aux principes suivants :
+
 1. Le besoin d’assurer la sécurité de toutes les personnes et de tous les biens en Ontario, y compris sur les réserves de Première Nation.
+
 2. L’importance de préserver les droits et libertés fondamentaux garantis par la Charte canadienne des droits et libertés et le Code des droits de la personne.
+
 3. Le besoin de coopération entre les prestataires de services policiers et les collectivités qu’ils desservent.
+
 4. L’importance qu’il y a à respecter les victimes d’actes criminels et à comprendre leurs besoins.
+
 5. Le besoin d’être sensibles au caractère pluraliste, multiracial et multiculturel de la société ontarienne.
+
 6. Le besoin d’être adaptés aux histoires et aux cultures uniques des collectivités inuites, métisses et de Premières Nations.
+
 7. Le besoin de veiller à ce que les services de police et les commissions de service de police représentent les collectivités qu’ils desservent.
+
 8. Le besoin de veiller à ce que toutes les parties de l’Ontario, y compris les réserves de Première Nation, reçoivent des services policiers à un niveau équitable.
 
 ### Interprétation
 
 2 (1) Les définitions qui suivent s’appliquent à la présente loi.
+
 «agent de police» Membre d’un service de police qui est nommé agent de police ou personne qui est nommée agent de police en vertu de la Loi de 2009 sur les services policiers interprovinciaux. Il est entendu que la présente définition exclut un constable spécial, un agent de Première Nation, un agent d’exécution des règlements municipaux, un cadet de la police ou un membre auxiliaire d’un service de police. («police officer»)
+
 «agent de Première Nation» Personne nommée à titre d’agent de Première Nation en vertu de l’article 101. («First Nation Officer»)
+
 «ancien membre d’un service de police» S’entend en outre de toute personne qui a été nommée en vertu de la Loi sur les services policiers, dans sa version antérieure, à titre de membre auxiliaire du service de police. («former member of a police service»)
+
 «dépersonnaliser» Relativement à des renseignements personnels concernant un particulier, s’entend du fait d’en retirer les renseignements qui permettent de l’identifier ou à l’égard desquels il est raisonnable de prévoir, dans les circonstances, qu’ils pourraient servir, seuls ou avec d’autres, à l’identifier. («de-identify»)
+
 «association de policiers» S’entend, selon le cas :
+
 a) de l’Association de la Police provinciale de l’Ontario;
+
 b) d’une association, autre qu’un syndicat, dont les membres sont des employés d’une seule commission de service de police qui sont membres du service de police dont le fonctionnement est assuré par la commission. («police association»)
+
 «chef de police» Chef de police d’un service de police dont le fonctionnement est assuré par une commission de service de police ou le commissaire; s’entend en outre d’un chef de police intérimaire. Le terme «chef» a un sens correspondant. («chief of police»)
+
 «commandant local» Chef de police d’un service de police ou commandant d’un détachement, ou son représentant désigné. («local commander»)
+
 «commissaire» Le commissaire de la Police provinciale de l’Ontario nommé en vertu du paragraphe 56 (1). S’entend en outre d’un commissaire intérimaire. («Commissioner»)
+
 «Commission d’arbitrage et de décision» La Commission ontarienne d’arbitrage et de décision pour la police prorogée par le paragraphe 147 (1). («Arbitration and Adjudication Commission»)
+
 «commission de Première Nation» Commission constituée en vertu de l’article 32. («First Nation board»)
+
 «commission de service de police» Selon le cas, s’entend :
+
 a) d’une commission municipale;
+
 b) d’une commission de Première Nation. («police service board»)
+
 «commission municipale» Commission constituée par une municipalité ou des municipalités en vertu de l’article 22, 23, 24 ou 25. («municipal board»)
+
 «conjoint» S’entend :
+
 a) soit d’un conjoint au sens de l’article 1 de la Loi sur le droit de la famille ;
+
 b) soit de l’une ou l’autre de deux personnes qui vivent ensemble dans une union conjugale hors du mariage. («spouse»)
+
 «conseil de bande» S’entend au sens de «conseil de la bande» au paragraphe 2 (1) de la Loi sur les Indiens (Canada). («band council»)
+
 «conseil de détachement de la Police provinciale» Conseil visé à l’article 67. («O.P.P. detachment board»)
+
 «conseil de Première Nation sur la Police provinciale» Conseil constitué en vertu de l’article 77. («First Nation O.P.P. board»)
+
 «constable spécial» Personne nommée à titre de constable spécial en vertu de l’article 92. («special constable»)
+
 «délinquance juvénile» S’entend des infractions, au sens de la Loi sur le système de justice pénale pour les adolescents (Canada), commises par une personne lorsqu’elle était un adolescent au sens de cette loi. («youth crime»)
+
 «directeur de l’UES» Le directeur de l’Unité des enquêtes spéciales nommé en application du paragraphe 5 (1) de la Loi de 2019 sur l’Unité des enquêtes spéciales. («SIU Director»)
+
 «directeur des plaintes» Le directeur des plaintes nommé en application du paragraphe 131 (1). («Complaints Director»)
+
 «employeur de constables spéciaux» Personne autorisée à employer des constables spéciaux en vertu de l’article 97. («special constable employer»)
+
 «entité prescrite» Entité qui est prescrite en vue d’assurer une fonction policière dans un secteur conformément à l’article 14. («prescribed entity»)
+
 «faute» S’entend :
+
 a) dans le cas d’un agent de police ou d’un constable spécial, d’une faute telle qu’elle est énoncée à l’article 195;
+
 b) dans le cas d’un membre d’une commission de service de police, d’un conseil de détachement de la Police provinciale ou d’un conseil de Première Nation sur la Police provinciale, de l’inobservation du code de conduite prescrit applicable;
+
 c) dans le cas d’un agent de la paix du Service de protection de l’Assemblée législative, de l’inobservation des règles de conduite applicables. («misconduct»)
+
 «fonction policière» Fonction mentionnée au paragraphe 11 (1) ou partie d’une telle fonction. («policing function»)
+
 «inspecteur général» L’inspecteur général des services policiers nommé en vertu du paragraphe 102 (1). («Inspector General»)
+
 «membre auxiliaire» Membre d’un service de police nommé en vertu de l’article 91. («auxiliary member»)
+
 «membre de la Police provinciale de l’Ontario» S’entend, selon le cas :
+
 a) du commissaire;
+
 b) d’une personne employée aux termes de la partie III de la Loi de 2006 sur la fonction publique de l’Ontario qui est sous la direction du commissaire;
+
 c) d’un membre auxiliaire de la Police provinciale de l’Ontario. («member of the Ontario Provincial Police»)
+
 «membre d’un service de police» S’entend, selon le cas :
+
 a) d’un membre de la Police provinciale de l’Ontario;
+
 b) du chef de tout autre service de police;
+
 c) d’un employé d’une commission de service de police qui est sous la direction d’un chef de police;
+
 d) d’un membre auxiliaire d’un service de police;
+
 e) d’une personne nommée agent de police en vertu de la Loi de 2009 sur les services policiers interprovinciaux. («member of a police service»)
+
 «ministère» Le ministère qui relève du ministre. («Ministry»)
+
 «ministre» Le solliciteur général ou l’autre membre du Conseil exécutif qui est chargé de l’application de la présente loi en vertu de la Loi sur le Conseil exécutif. («Minister»)
+
 «organisme du secteur public» S’entend des entités suivantes :
+
 a) un ministère, une commission, une régie ou un autre service administratif du gouvernement de l’Ontario, y compris un organisme de l’un ou l’autre;
+
 b) une municipalité;
+
 c) un conseil local au sens du paragraphe 1 (1) de la Loi de 2001 sur les municipalités ou du paragraphe 3 (1) de la Loi de 2006 sur la cité de Toronto ;
+
 d) une société contrôlée par la municipalité au sens de l’article 223.1 de la Loi de 2001 sur les municipalités ;
+
 e) une société contrôlée par la cité au sens de l’article 156 de la Loi de 2006 sur la cité de Toronto. («public sector body»)
+
 «plan de sécurité et de bien-être communautaires» Le plan de sécurité et de bien-être communautaires visé à l’article 251. («community safety and well-being plan»)
+
 «Première Nation» Bande au sens de la Loi sur les Indiens (Canada). («First Nation»)
+
 «prescrit» Prescrit par les règlements. («prescribed»)
+
 «président de la Commission» Le président de la Commission d’arbitrage et de décision. («Commission Chair»)
+
 «prestataire de services policiers prescrit» Organisme du secteur public qui est une institution, au sens de la Loi sur l’accès à l’information et la protection de la vie privée ou de la Loi sur l’accès à l’information municipale et la protection de la vie privée, et qui est prescrit en vue d’assurer une fonction policière dans un secteur conformément à l’article 12. («prescribed policing provider»)
+
 «recherche» S’entend d’une enquête systématique visant à élaborer ou à établir des principes, des faits ou des connaissances généralisables ou une combinaison de ceux-ci. S’entend en outre de l’élaboration, de l’essai et de l’évaluation d’une recherche. («research»).
+
 «règlements» Les règlements pris en vertu de la présente loi. («regulations»)
+
 «renseignements personnels» S’entend au sens de la Loi sur l’accès à l’information et la protection de la vie privée. («personal information»)
+
 «réserve de Première Nation» Réserve au sens de la Loi sur les Indiens (Canada). («First Nation reserve»)
+
 «service de police» La Police provinciale de l’Ontario ou un service de police dont le fonctionnement est assuré par une commission de service de police. («police service»)
+
 «services policiers convenables et efficaces» S’entend au sens du paragraphe 11 (1). («adequate and effective policing»)
+
 «syndicat» S’entend au sens de la Loi de 1995 sur les relations de travail. («trade union»)
+
 «vérification de dossier de police» Recherche effectuée dans les bases de données du Centre d’information de la police canadienne ou dans une autre base de données policières tenue par un service de police au Canada pour établir si les bases de données contiennent des entrées portant sur un particulier aux fins de filtrage. («police record check») 2019, chap. 1, annexe 1, par. 2 (1)
 
 ### Agent nommé en vertu de la Loi de 2009 sur les services policiers interprovinciaux réputé membre d’un service de police donné
 
 (2) Pour l’application des articles 89 et 258 à 260 de la présente loi, de l’article 25.1 du Code criminel (Canada) et de toute désignation d’un corps policier effectuée par le ministre en vertu de l’article 2 du Règlement sur l’exécution policière de la Loi réglementant certaines drogues et autres substances (Canada) ou du paragraphe 2 (1) du Règlement sur l’exécution policière de la Loi sur le cannabis (Canada), la personne nommée agent de police en vertu de la Loi de 2009 sur les services policiers interprovinciaux est réputée être, selon le cas :
+
 a) si elle a été nommée par un membre d’un service de police dont le fonctionnement est assuré par une commission de service de police, un membre de ce service de police;
+
 b) si elle a été nommée par un membre d’un service de police dont le fonctionnement est assuré par une commission de service de police, un membre de ce service;
+
 c) dans les autres cas, un membre de la Police provinciale de l’Ontario.
 
 ### Sens de «municipalité»
 
 (3) Pour l’application de chaque disposition de la présente loi et des règlements, à l’exclusion des articles 25 et 55 :
+
 «municipalité» S’entend des municipalités suivantes :
+
 a) une municipalité à palier unique;
+
 b) une municipalité de palier inférieur située dans un comté ou dans le comté d’Oxford;
+
 c) une municipalité régionale, à l’exclusion du comté d’Oxford;
+
 d) toute autre municipalité qui a constitué une commission municipale en vertu du paragraphe 25 (2).
 
 ### Accord sur le comté d’Oxford
@@ -135,24 +217,43 @@ d) toute autre municipalité qui a constitué une commission municipale en vertu
 ### Fonctions générales du ministre
 
 3 (1) Le ministre :
+
 a) participe à la coordination des services policiers;
+
 b) mène des activités, y compris des recherches et des analyses, pour faciliter la coordination des services policiers avec les activités des poursuivants et autres prestataires de services du secteur de la justice;
+
 c) appuie les activités visant la prestation de fonctions policières;
+
 d) consulte et conseille les commissions de service de police, les chefs de police, les employeurs de constables spéciaux, les prestataires de services policiers prescrits, les entités prescrites, les municipalités, les Premières Nations, les entités qui emploient des agents de Première Nation, les conseils de détachement de la Police provinciale, les conseils de Première Nation sur la Police provinciale et les associations de policiers en ce qui concerne les services policiers, l’administration des services de police et les questions connexes, y compris ce qui suit :
+
 (i) l’efficacité, l’efficience, la viabilité et la légitimité de différents modes de prestation des services policiers,
+
 (ii) le respect de la Charte canadienne des droits et libertés et du Code des droits de la personne ;
+
 e) effectue des recherches et des analyses en ce qui concerne les questions mentionnées à l’alinéa d);
+
 f) consulte et conseille les commissions de service de police, les chefs de police, les municipalités et les Premières Nations en ce qui concerne la préparation, l’adoption et la mise en oeuvre des plans de sécurité et de bien-être communautaires;
+
 g) effectue des recherches et des analyses afin d’éclairer l’élaboration des politiques et des programmes, la planification du système et l’évaluation de la prestation des services et des résultats en ce qui concerne les services policiers, les plaintes du public et les questions connexes;
+
 h) crée, tient et administre des dossiers relatifs à la nomination, l’éducation, la formation, la suspension et la discipline des agents de police et des constables spéciaux;
+
 i) élabore des programmes de services policiers adaptés à la collectivité et en fait la promotion;
+
 j) surveille et évalue les programmes, y compris leurs résultats, qui se rapportent aux services policiers ou aux plans de sécurité et de bien-être communautaires et qui sont financés en tout ou en partie par le ministère;
+
 k) conseille les ministères et les organismes de la Couronne au sujet des risques pour la sécurité et des stratégies visant à atténuer ceux-ci;
+
 l) élabore et offre un enseignement et une formation :
+
 (i) visant à améliorer la prestation professionnelle des services policiers,
+
 (ii) visant à aider les membres des commissions de service de police, des conseils de détachement de la Police provinciale et des conseils de Première Nation sur la Police provinciale dans l’exercice de leurs fonctions;
+
 m) élabore et actualise les normes d’enseignement et de formation qui doivent être appliquées dans l’enseignement et la formation dispensés aux personnes qui assurent des fonctions policières et aux autres personnes régies par la présente loi;
+
 n) assure le fonctionnement du Collège de police de l’Ontario;
+
 o) exerce les autres fonctions qui lui sont attribuées par la présente loi ou en vertu de celle-ci.
 
 ### Prorogation du Collège de police de l’Ontario
@@ -204,6 +305,7 @@ o) exerce les autres fonctions qui lui sont attribuées par la présente loi ou 
 ### Dépersonnalisation et établissement de liens
 
 (5) Le ministre se conforme aux exigences prescrites concernant la dépersonnalisation des renseignements personnels recueillis en vertu du paragraphe 4 (1) ou (2) de la Loi et l’établissement de liens avec ceux-ci.
+
 (6) à (9) Abrogés : 2023, chap. 12, annexe 1, art. 3.
 
 ### Sécurisation
@@ -213,12 +315,15 @@ o) exerce les autres fonctions qui lui sont attribuées par la présente loi ou 
 ### Avis exigé par le par. 39 (2) de la loi sur l’accès à l’information
 
 (11) Si le ministre recueille indirectement des renseignements personnels en vertu du paragraphe (1), l’avis exigé par le paragraphe 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée peut être donné :
+
 a) soit au moyen d’un avis public affiché sur un site Web du gouvernement de l’Ontario;
+
 b) soit par un autre mode prescrit.
 
 ### Droit d’accès et droit à la rectification
 
 (12) Le présent article n’a pas pour effet de limiter le droit conféré par une loi à un particulier d’accéder aux renseignements personnels qui le concernent et d’en demander la rectification.
+
 6 à 8 Abrogés : 2023, chap. 12, annexe 1, art. 4.
 
 ### Examen des dispositions portant sur les renseignements
@@ -268,23 +373,33 @@ b) soit par un autre mode prescrit.
 ### Disposition transitoire
 
 (7) Malgré les paragraphes (2) et (5), la responsabilité des services policiers continue d’incomber au commissaire à l’égard d’une réserve de Première Nation qui se trouverait autrement dans le secteur pour lequel la responsabilité des services policiers incombe à une commission municipale si les conditions suivantes sont réunies :
+
 a) le commissaire offrait des services policiers à la Première Nation aux termes de la Loi sur les services policiers immédiatement avant le jour où le présent article est entré en vigueur;
+
 b) aucun accord n’a été conclu en vertu de l’article 27 en vue d’attribuer à une commission municipale la responsabilité des services policiers à l’égard de la réserve.
 
 ### Services policiers convenables et efficaces
 
 11 (1) Des services policiers convenables et efficaces s’entendent de l’ensemble des fonctions suivantes assurées conformément aux normes prévues dans les règlements, y compris les normes portant sur la prévention des conflits d’intérêts, et aux exigences de la Charte canadienne des droits et libertés et du Code des droits de la personne :
+
 1. La lutte contre la criminalité.
+
 2. L’exécution de la loi.
+
 3. Le maintien de la paix publique.
+
 4. L’intervention dans les situations d’urgence.
+
 5. L’aide aux victimes d’actes criminels.
+
 6. Toute autre fonction policière prescrite.
 
 ### Exclusion de certaines fonctions
 
 (2) Sont exclues des services policiers convenables et efficaces les fonctions suivantes :
+
 a) l’exécution des règlements municipaux ou des règlements administratifs de Première Nation, à l’exception des règlements municipaux ou administratifs prescrits;
+
 b) la sécurisation des tribunaux conformément à la partie XV.
 
 ### Dépassement des normes
@@ -298,16 +413,23 @@ b) la sécurisation des tribunaux conformément à la partie XV.
 ### Prestataire de services policiers prescrit
 
 12 (1) Les règlements peuvent prévoir qu’un prestataire de services policiers prescrit assure dans un secteur une fonction policière qui, selon le cas :
+
 a) ne fait pas partie des principales fonctions d’un agent en common law;
+
 b) est une fonction policière spécialisée.
 
 ### Prestation d’une fonction policière par les prestataires de services policiers prescrits
 
 (2) Les règles suivantes s’appliquent si les règlements prévoient qu’un prestataire de services policiers prescrit assure une fonction policière dans un secteur :
+
 1. Le prestataire de services policiers prescrit assure la fonction policière dans le secteur conformément aux normes en matière de services policiers convenables et efficaces.
+
 2. La commission de service de police ou le commissaire à qui incombe la responsabilité des services policiers pour le secteur :
+
 i. n’est pas tenu d’assurer la fonction policière dans le secteur,
+
 ii. ne doit pas assurer la fonction policière dans le secteur si les règlements le prévoient,
+
 iii. collabore avec le prestataire de services policiers prescrit pour lui permettre d’exercer la fonction policière dans le secteur conformément aux normes en matière de services policiers convenables et efficaces.
 
 ### Utilisation de personnel
@@ -323,7 +445,9 @@ iii. collabore avec le prestataire de services policiers prescrit pour lui perme
 ### Renvoi
 
 (3) Si la responsabilité d’assurer une fonction policière relativement à une enquête particulière, à une poursuite en véhicule particulière ou à un autre cas est renvoyée au chef de police d’un autre service de police ou est autrement transférée à un membre d’un autre service de police ou à une commission de service de police qui assure le fonctionnement d’un autre service de police, les règles suivantes s’appliquent :
+
 1. Si l’autre service de police est la Police provinciale de l’Ontario, il incombe au commissaire de se conformer aux paragraphes (1) et (2).
+
 2. Si une commission de service de police assure le fonctionnement de l’autre service de police, il incombe à cette commission de se conformer aux paragraphes (1) et (2).
 
 ### Autre mode de prestation
@@ -339,7 +463,9 @@ iii. collabore avec le prestataire de services policiers prescrit pour lui perme
 ### Prestation de certaines fonctions
 
 (3) Une commission de service de police ou le commissaire ne fait appel qu’à des membres d’un service de police, ou qu’à des personnes qui aident ces membres lorsqu’elles agissent sous leur direction, pour assurer une fonction policière qui, à la fois :
+
 a) est liée à la prévention du crime, à l’exécution de la loi, à l’intervention dans les situations d’urgence ou au maintien de la paix publique;
+
 b) nécessite l’exercice des pouvoirs d’un agent de la paix ou d’un agent de police.
 
 ### Exigences prescrites
@@ -353,22 +479,31 @@ b) nécessite l’exercice des pouvoirs d’un agent de la paix ou d’un agent 
 ### Teneur de l’accord
 
 (6) Un accord visé au paragraphe (1) ou (2) doit :
+
 a) indiquer les fonctions policières dont la prestation sera assurée aux termes de l’accord;
+
 b) préciser s’il faut payer pour l’exécution des fonctions policières;
+
 c) exiger de l’entité qu’elle fournisse des renseignements à la commission de service de police ou au commissaire afin que la commission ou le commissaire puisse s’acquitter de son obligation juridique de présenter des rapports en application de la présente loi ou d’une autre loi;
+
 d) dans le cas d’un accord conclu en vertu du paragraphe (2), contenir une reconnaissance de la part de l’entité portant qu’elle est assujettie à des inspections par l’inspecteur général;
+
 e) traiter de toute autre question prescrite.
 
 ### Idem
 
 (7) Si un accord visé au paragraphe (2) est conclu avec une entité prescrite qui n’est pas une institution au sens de la Loi sur l’accès à l’information et la protection de la vie privée ou de la Loi sur l’accès à l’information municipale et la protection de la vie privée, ou n’est pas soumis à une loi comparable d’une autre autorité législative, il doit également traiter des questions suivantes :
+
 a) l’accès aux dossiers de l’entité pour permettre à la commission de service de police ou au ministère de s’acquitter de ses obligations relativement au paragraphe (8);
+
 b) la protection des renseignements personnels dont l’entité a la garde ou le contrôle et qui sont liés à la prestation des fonctions policières aux termes de l’accord.
 
 ### Dossiers de l’entité prescrite
 
 (8) Si une entité prescrite n’est pas une institution au sens de la Loi sur l’accès à l’information et la protection de la vie privée ou de la Loi sur l’accès à l’information municipale et la protection de la vie privée, ses dossiers concernant la prestation des fonctions policières conformément à un accord conclu en vertu du paragraphe (2) sont, pour l’application de la Loi sur l’accès à l’information et la protection de la vie privée ou de la Loi sur l’accès à l’information municipale et la protection de la vie privée, selon le cas, réputés être sous la garde et le contrôle :
+
 a) de la commission de service de police, dans le cas d’un accord conclu avec une commission de service de police;
+
 b) du ministère, dans le cas d’un accord conclu avec le commissaire.
 
 ### Non-application
@@ -386,7 +521,9 @@ b) du ministère, dans le cas d’un accord conclu avec le commissaire.
 ### Responsabilité de la commission ou du commissaire
 
 (12) La commission de service de police ou le commissaire, selon le cas, veille à ce que :
+
 a) les services policiers offerts conformément à un accord conclu en vertu du paragraphe (1) ou (2) respectent les normes en matière de services policiers convenables et efficaces;
+
 b) dans le cas d’un accord conclu en vertu du paragraphe (2), l’entité prescrite se conforme au paragraphe (11).
 
 ### Qualités requises prescrites
@@ -428,7 +565,9 @@ b) dans le cas d’un accord conclu en vertu du paragraphe (2), l’entité pres
 ### Coût des services policiers supplémentaires
 
 18 (1) Le coût d’une augmentation temporaire des services policiers convenables et efficaces offerts dans un secteur qu’une personne cause en organisant un événement, tel qu’un défilé ou un festival, en se livrant à une activité qui suppose la fermeture d’une voie publique, en exploitant une entreprise commerciale ou en se livrant à toute autre activité prescrite, peut lui être facturé :
+
 a) par une commission de service de police, si son service de police a offert les services policiers;
+
 b) par le ministre, si le commissaire a offert les services policiers.
 
 ### Entente
@@ -464,53 +603,77 @@ b) par le ministre, si le commissaire a offert les services policiers.
 ### Avis d’aide temporaire
 
 (2) Si un chef de police présente une demande d’aide temporaire en vertu du présent article, il en avise dès que possible les personnes et entités suivantes :
+
 a) l’inspecteur général;
+
 b) la commission de service de police du chef de police ou, dans le cas d’une demande présentée par le commissaire, le ministre.
 
 ### Contenu de l’avis
 
 (3) L’avis remis en application du paragraphe (2) comprend les renseignements suivants :
+
 a) une description des circonstances de la demande d’aide temporaire;
+
 b) les fonctions policières qui sont demandées;
+
 c) le délai dans lequel l’aide doit être fournie;
+
 d) l’étendue de l’aide nécessaire;
+
 e) la question de savoir si le chef de police ou l’entité employant des agents de Première Nation qui reçoit la demande a accepté de fournir l’aide, en tout ou en partie;
+
 f) les conséquences financières prévues par suite de l’obtention de l’aide;
+
 g) toute autre question prescrite.
 
 ### Avis de changement
 
 (4) S’il se produit un changement dans l’une ou l’autre des questions énumérées au paragraphe (3) après la remise de l’avis de demande d’aide temporaire, le chef de police en avise dès que possible les personnes et entités suivantes :
+
 a) l’inspecteur général;
+
 b) la commission de service de police du chef de police ou, dans le cas d’une demande présentée par le commissaire, le ministre.
 
 ### Évaluation à la réception d’un avis
 
 (5) À la réception d’un avis de demande d’aide temporaire visé au paragraphe (2) ou d’un avis de changement visé au paragraphe (4), la commission de service de police du chef de police ou le ministre, selon le cas, établit ce qui suit :
+
 a) la question de savoir si le recours à l’aide temporaire est utilisé ou s’il est prévu de l’utiliser de façon récurrente pour veiller à ce que des services policiers convenables et efficaces soient offerts;
+
 b) la question de savoir si les fonctions policières pour lesquelles l’aide temporaire est demandée devrait faire l’objet d’un accord visé au paragraphe 14 (1) ou (2) pour garantir la prestation de services policiers convenables et efficaces et le respect de l’article 13.
 
 ### Règles concernant l’aide temporaire
 
 (6) Les règles suivantes s’appliquent aux demandes d’aide temporaire présentées en vertu du présent article :
+
 1. Si la demande est présentée au commissaire, celui-ci fournit l’aide temporaire qu’il juge nécessaire et cesse de la fournir lorsqu’il le juge approprié.
+
 2. Si la demande est présentée à un chef de police autre que le commissaire, à une entité qui emploie des agents de Première Nation ou à une entité régie par la loi d’une autre autorité législative canadienne, le chef ou l’entité peut :
+
 i. soit refuser de fournir l’aide,
+
 ii. soit fournir l’aide temporaire jugée nécessaire et cesser de la fournir lorsqu’il ou elle le juge approprié.
 
 ### Avis après la fin de l’aide fournie par le chef de police
 
 (6.1) Le chef de police qui a fourni l’aide temporaire remet, après la fin de l’aide, à l’inspecteur général et à la commission de service de police du chef de police ou, si le chef est le commissaire, au ministre, un avis qui comprend les renseignements suivants :
+
 1. La décision du chef de police de fournir l’aide temporaire.
+
 2. La question de savoir si on a répondu à la demande d’aide temporaire en tout ou en partie.
+
 3. Les conséquences financières de la fourniture de l’aide.
+
 4. Toute autre question prescrite.
 
 ### Avis après la fin de l’aide fournie par d’autres entités
 
 (6.2) Si l’aide temporaire a été fournie par une entité qui emploie des agents de Première Nation ou par une entité régie par la loi d’une autre autorité législative canadienne, le chef de police qui a demandé l’aide remet, après la fin de l’aide, à l’inspecteur général un avis qui comprend les renseignements suivants :
+
 1. La question de savoir si l’entité a répondu à la demande d’aide temporaire en tout ou en partie.
+
 2. Les conséquences financières de la fourniture de l’aide pour l’entité, si elles sont connues.
+
 3. Toute autre question prescrite.
 
 ### Fonctions policières pouvant être comprises
@@ -540,6 +703,7 @@ ii. soit fournir l’aide temporaire jugée nécessaire et cesser de la fournir 
 ### Coût : commissaire
 
 (11) L’article 65 s’applique au coût de l’aide temporaire fournie par le commissaire.
+
 (12) abrogé : 2024, chap. 27, annexe 6, par. 4 (6).
 
 ### Pouvoirs de l’inspecteur général
@@ -549,9 +713,13 @@ ii. soit fournir l’aide temporaire jugée nécessaire et cesser de la fournir 
 ### Règles
 
 (2) Les règles suivantes s’appliquent aux ordonnances prises en vertu du paragraphe (1) :
+
 1. Si l’ordonnance vise le commissaire, celui-ci offre dans le secteur des services policiers jusqu’à ce que l’inspecteur général décide autrement.
+
 2. Si l’ordonnance vise une commission de service de police, elle peut :
+
 i. soit refuser d’offrir les services policiers,
+
 ii. soit offrir dans le secteur les services policiers qu’elle juge nécessaires et cesse de les offrir lorsqu’elle le juge approprié.
 
 ### Coût
@@ -585,22 +753,31 @@ ii. soit offrir dans le secteur les services policiers qu’elle juge nécessair
 ### Modes de prestation des services policiers municipaux
 
 22 (1) Sous réserve du paragraphe (2), chaque municipalité peut prendre, avec l’approbation du ministre, l’une des mesures suivantes :
+
 1. La constitution d’une commission municipale à laquelle incombera la responsabilité des services policiers pour la municipalité.
+
 2. La conclusion d’un accord écrit prévu à l’article 23 avec une ou plusieurs autres municipalités afin de fusionner leurs services de police et de constituer conjointement une commission municipale à laquelle incombera la responsabilité des services policiers pour les municipalités.
+
 3. La conclusion d’un accord écrit prévu à l’article 24 avec une ou plusieurs autres municipalités afin de constituer conjointement une commission municipale à laquelle incombera la responsabilité des services policiers pour les municipalités.
+
 4. La conclusion, avec une autre municipalité, d’un accord écrit en vertu de l’article 26 pour que la commission municipale de cette municipalité assume la responsabilité des services policiers pour la municipalité.
+
 5. La conclusion avec une commission de Première Nation d’un accord écrit pour qu’elle assume la responsabilité des services policiers pour la municipalité, en demandant la modification du règlement qui a constitué la commission en vertu de l’article 32.
 
 ### Idem — modes de prestation différents dans une même municipalité
 
 (2) Dans les circonstances énumérées au paragraphe (3) et avec l’approbation du ministre, la municipalité peut permettre que des services policiers soient offerts de plusieurs façons dans différents secteurs de la municipalité en prenant l’une ou l’autre des mesures suivantes ou les deux :
+
 1. Offrir des services policiers de différentes façons dans différents secteurs en prenant plus d’une des mesures énumérées au paragraphe (1).
+
 2. Conclure un accord avec le ministre pour confier au commissaire la responsabilité des services policiers pour le secteur.
 
 ### Circonstances
 
 (3) Le paragraphe (2) s’applique si, selon le cas :
+
 a) la municipalité se compose de deux ou plusieurs collectivités très dispersées ou comprend dans ses limites une ou plusieurs collectivités éloignées du reste de son territoire et la responsabilité des services policiers sera partagée entre ces collectivités;
+
 b) les services policiers ont traditionnellement été offerts dans une ou plusieurs des parties distinctes de la municipalité selon un mode différent de celui utilisé dans le reste de son territoire et le partage maintiendra cette différence historique.
 
 ### Constitution d’une seule commission municipale
@@ -610,7 +787,9 @@ b) les services policiers ont traditionnellement été offerts dans une ou plusi
 ### Critères de l’approbation du ministre
 
 (5) Le ministre peut approuver un arrangement en vue de la prestation de services policiers prévu au paragraphe (1) ou (2) s’il est convaincu que les conditions suivantes sont réunies :
+
 a) cet arrangement permettra d’offrir des services policiers convenables et efficaces dans la municipalité dans un avenir prévisible;
+
 b) il est satisfait aux exigences prescrites.
 
 ### Idem : secteurs non contigus
@@ -628,7 +807,9 @@ b) il est satisfait aux exigences prescrites.
 ### Disposition transitoire
 
 (9) Malgré le paragraphe (1), toute commission de service de police qui offrait des services policiers immédiatement avant le jour de l’entrée en vigueur du paragraphe (1) :
+
 a) est prorogée, même sans l’approbation du ministre;
+
 b) n’a pas besoin de l’approbation du ministre pour continuer d’offrir des services policiers selon essentiellement le même mode que celui qu’elle utilisait immédiatement avant le jour de l’entrée en vigueur du paragraphe (1).
 
 ### Idem
@@ -646,15 +827,25 @@ b) n’a pas besoin de l’approbation du ministre pour continuer d’offrir des
 ### Teneur de l’accord de fusion
 
 (3) L’accord doit préciser ce qui suit :
+
 a) la composition de la commission de service de police, notamment :
+
 (i) si le nombre de membres qui la composera sera de cinq, sept ou neuf,
+
 (ii) celle des municipalités dont le président pourra être membre de la commission aux termes de l’alinéa 31 (4) a), (5) a) ou (6) a),
+
 (iii) celle des municipalités qui nommera un membre si le président visé au sous-alinéa (ii) refuse de devenir membre de la commission ou ne peut le devenir,
+
 (iv) celle des municipalités qui nommera les membres de la commission aux termes des alinéas 31 (4) b) et c), (5) b) et c) ou (6) b) et c), ou le mode de répartition de ces nominations entre les municipalités;
+
 b) la fusion des services de police et la nomination ou la mutation de leurs membres;
+
 c) l’utilisation, par la commission municipale, de l’actif lié aux services de police fusionnés, et sa responsabilité à l’égard du passif y afférent;
+
 d) les responsabilités des différentes municipalités à l’égard des prévisions des dépenses de la commission de service de police et l’établissement du budget de la commission;
+
 e) la façon dont les municipalités exerceront conjointement les fonctions d’une municipalité à l’égard de la commission municipale;
+
 f) toute autre question nécessaire ou souhaitable aux fins de la fusion.
 
 ### Exception : nominations
@@ -676,13 +867,21 @@ f) toute autre question nécessaire ou souhaitable aux fins de la fusion.
 ### Teneur obligatoire
 
 (3) L’accord doit préciser ce qui suit :
+
 a) la composition de la commission de service de police, notamment :
+
 (i) si le nombre de membres qui la composera sera de cinq, sept ou neuf,
+
 (ii) celle des municipalités dont le président pourra être membre de la commission aux termes de l’alinéa 31 (4) a), (5) a) ou (6) a),
+
 (iii) celle des municipalités qui nommera un membre si le président visé au sous-alinéa (ii) refuse de devenir membre de la commission ou ne peut le devenir,
+
 (iv) celle des municipalités qui nommera les membres de la commission aux termes des alinéas 31 (4) b) et c), (5) b) et c) ou (6) b) et c), ou le mode de répartition de ces nominations entre les municipalités;
+
 b) les responsabilités des différentes municipalités à l’égard des prévisions des dépenses de la commission de service de police et l’établissement du budget de la commission;
+
 c) la façon dont les municipalités exerceront conjointement les fonctions d’une municipalité à l’égard de la commission municipale;
+
 d) toute autre question nécessaire ou souhaitable pour réaliser la constitution de la commission de service de police.
 
 ### Application d’autres exigences
@@ -742,7 +941,9 @@ d) toute autre question nécessaire ou souhaitable pour réaliser la constitutio
 ### Effet sur le secteur de responsabilité en matière de services policiers
 
 (3) Lorsque l’accord entre en vigueur :
+
 a) la réserve de Première Nation est incorporée dans le secteur de responsabilité en matière de services policiers de la commission municipale, si elle n’en faisait pas déjà partie;
+
 b) la responsabilité des services policiers pour le secteur n’incombe plus à l’entité qui auparavant l’assumait.
 
 ### Exigences en matière de résiliation
@@ -770,7 +971,9 @@ b) la responsabilité des services policiers pour le secteur n’incombe plus à
 ### Disposition transitoire
 
 (5) Le premier plan de diversité de la municipalité visé au paragraphe (1) doit être approuvé avant la dernière en date des échéances suivantes :
+
 a) 12 mois après le jour de l’entrée en vigueur du présent article;
+
 b) 12 mois après la constitution par la municipalité de sa commission municipale.
 
 ### Promotion des nominations par la municipalité
@@ -784,6 +987,7 @@ b) 12 mois après la constitution par la municipalité de sa commission municipa
 ### Définition
 
 (3) La définition qui suit s’applique au présent article.
+
 «nomination provinciale» Nomination faite par le lieutenant-gouverneur en conseil ou le ministre.
 
 ### Dissolution d’une commission municipale
@@ -817,25 +1021,37 @@ b) 12 mois après la constitution par la municipalité de sa commission municipa
 ### Commissions composées de cinq membres
 
 (4) La commission municipale qui se compose de cinq membres comprend les personnes suivantes :
+
 a) le président du conseil municipal ou, s’il choisit de ne pas être membre de la commission ou qu’il ne peut l’être, un autre conseiller municipal nommé par résolution de la municipalité;
+
 b) un conseiller municipal nommé par résolution de la municipalité;
+
 c) une personne nommée par résolution de la municipalité, qui n’est ni un conseiller municipal ni un employé de la municipalité;
+
 d) deux personnes nommées par le lieutenant-gouverneur en conseil.
 
 ### Commissions composées de sept membres
 
 (5) La commission municipale qui se compose de sept membres comprend les personnes suivantes :
+
 a) le président du conseil municipal ou, s’il choisit de ne pas être membre de la commission ou qu’il ne peut l’être, un autre conseiller municipal nommé par résolution de la municipalité;
+
 b) deux conseillers municipaux nommés par résolution de la municipalité;
+
 c) une personne nommée par résolution de la municipalité, qui n’est ni un conseiller municipal ni un employé de la municipalité;
+
 d) trois personnes nommées par le lieutenant-gouverneur en conseil.
 
 ### Commissions composées de neuf membres
 
 (6) La commission municipale qui se compose de neuf membres comprend les personnes suivantes :
+
 a) le président du conseil municipal ou, s’il choisit de ne pas être membre de la commission ou qu’il ne peut l’être, un autre conseiller municipal nommé par résolution de la municipalité;
+
 b) trois conseillers municipaux nommés par résolution de la municipalité;
+
 c) une personne nommée par résolution de la municipalité, qui n’est ni un conseiller municipal ni un employé de la municipalité;
+
 d) quatre personnes nommées par le lieutenant-gouverneur en conseil.
 
 ### Vacances des postes à pourvoir par le lieutenant-gouverneur en conseil
@@ -845,7 +1061,9 @@ d) quatre personnes nommées par le lieutenant-gouverneur en conseil.
 ### Réduction de la taille
 
 (8) Si la municipalité réduit la taille de sa commission municipale :
+
 a) d’une part, les mandats de tous les membres de la commission sont révoqués;
+
 b) d’autre part, le lieutenant-gouverneur en conseil et la municipalité, s’il y a lieu, nomment les nouveaux membres de la commission pour satisfaire aux exigences énoncées aux paragraphes (4) à (6), ce qui peut comprendre de nouvelles nominations pour certains des membres dont le mandat a été révoqué.
 
 ### Augmentation de la taille
@@ -867,13 +1085,17 @@ b) d’autre part, le lieutenant-gouverneur en conseil et la municipalité, s’
 ### Disposition transitoire : commissions existantes
 
 (13) Malgré le paragraphe (2), une commission municipale peut conserver le même nombre de membres qu’elle comptait aux termes de la Loi sur les services policiers jusqu’au premier en date des jours suivants :
+
 a) le jour où la municipalité adopte une résolution prévue au paragraphe (3);
+
 b) le jour où un nouveau conseil municipal est constitué à la suite des premières élections municipales ordinaires qui ont lieu après le jour de l’entrée en vigueur du présent paragraphe.
 
 ### Idem
 
 (14) Si la municipalité n’adopte pas de résolution prévue au paragraphe (3) avant le jour visé à l’alinéa (13) b), le paragraphe (2) commence à s’appliquer à la commission municipale ce jour-là, auquel cas :
+
 a) si l’application du paragraphe (2) a pour effet de réduire le nombre de membres de la commission municipale, la procédure énoncée au paragraphe (8) est suivie;
+
 b) si l’application du paragraphe (2) a pour effet d’augmenter le nombre de membres de la commission municipale, la procédure énoncée au paragraphe (9) est suivie.
 
 ### Commissions de Première Nation
@@ -893,10 +1115,15 @@ b) si l’application du paragraphe (2) a pour effet d’augmenter le nombre de 
 ### Teneur de la demande
 
 (4) La demande présentée en vertu du paragraphe (1) doit préciser :
+
 a) le secteur pour lequel la responsabilité des services policiers incomberait à la commission envisagée;
+
 b) la composition de la commission envisagée;
+
 c) le mode de nomination des membres de la commission envisagée;
+
 d) le nom de la commission envisagée;
+
 e) la durée envisagée du mandat des membres de la commission envisagée.
 
 ### Demande du ministre
@@ -910,10 +1137,15 @@ e) la durée envisagée du mandat des membres de la commission envisagée.
 ### Règlements portant sur une commission de Première Nation
 
 (7) Le ministre peut, par règlement :
+
 a) constituer une commission de Première Nation en vue de lui confier la responsabilité des services policiers pour le secteur demandé;
+
 b) régir la composition de la commission de Première Nation;
+
 c) préciser le nom de la commission de Première Nation;
+
 d) régir les nominations à la commission de Première Nation;
+
 e) régir la durée du mandat des membres de la commission de Première Nation.
 
 ### Compatibilité avec la demande
@@ -927,22 +1159,31 @@ e) régir la durée du mandat des membres de la commission de Première Nation.
 ### Critères de modification ou d’abrogation
 
 (10) Lorsqu’il décide s’il doit modifier ou abroger un règlement pris en vertu du paragraphe (7), le ministre tient compte des questions suivantes :
+
 a) l’importance du choix par les Premières Nations des moyens à employer pour offrir des services policiers adaptés à leur réalité culturelle dans leurs réserves de Première Nation;
+
 b) l’effet de l’abrogation ou de la modification sur la viabilité à long terme de la prestation de services policiers par les commissions de Première Nation.
 
 ### Restriction en matière de modification ou d’abrogation
 
 (11) Le ministre ne doit pas modifier ou abroger un règlement pris en vertu du paragraphe (7), sauf s’il est convaincu que des dispositions appropriées satisfaisant aux exigences prescrites ont été prises pour que les Premières Nations qui se trouvent dans le secteur de responsabilité en matière de services policiers de la commission de Première Nation reçoivent des services policiers convenables et efficaces après l’entrée en vigueur de la modification ou de l’abrogation et qu’au moins une des conditions suivantes est remplie :
+
 1. La modification ou l’abrogation est compatible avec une demande de tous les conseils de bande des Premières Nations qui se trouvent dans le secteur de responsabilité en matière de services policiers de la commission de Première Nation.
+
 2. Il est survenu un changement important des circonstances sur lesquelles est fondé le règlement.
+
 3. La commission de Première Nation a été dissoute en vertu de l’article 126.
+
 4. La modification est nécessaire pour donner effet à un accord conclu entre la commission de Première Nation et une municipalité pour que la commission assume la responsabilité des services policiers pour la municipalité.
+
 5. Il s’agit d’une modification rédactionnelle ou de forme.
 
 ### Restriction en matière d’abrogation
 
 (12) En plus de respecter les exigences énoncées au paragraphe (11), le ministre ne doit pas abroger un règlement pris en vertu du paragraphe (7), sauf s’il est convaincu que, selon le cas :
+
 a) la commission de service de police et les membres du service de police ont conclu une entente au sujet de l’indemnité de cessation d’emploi;
+
 b) la question de l’indemnité de cessation d’emploi a été soumise à l’arbitrage.
 
 ### Arbitrage
@@ -980,8 +1221,11 @@ b) la question de l’indemnité de cessation d’emploi a été soumise à l’
 ### Facteurs à prendre en compte
 
 33 (1) Lorsque la personne ou l’organisme qui effectue une nomination nomme ou renomme un membre d’une commission de service de police, la personne ou l’organisme tient compte des facteurs suivants :
+
 a) la nécessité de veiller à ce que la commission de service de police soit représentative du secteur qu’elle dessert, eu égard à la diversité de sa population;
+
 b) la nécessité pour les membres de la commission de service de police de posséder les compétences prescrites, le cas échéant;
+
 c) tout plan de diversité applicable.
 
 ### Vérification de dossier de police
@@ -995,16 +1239,23 @@ c) tout plan de diversité applicable.
 ### Autres personnes non admissibles
 
 (4) Les personnes suivantes ne peuvent pas être membres d’une commission de service de police :
+
 1. Les juges et les juges de paix.
+
 2. Les membres d’un service de police, les constables spéciaux et les agents de Première Nation.
+
 3. Les personnes qui exercent le droit criminel à titre d’avocats de la défense ou de poursuivants.
+
 4. Les administrateurs, les dirigeants et les employés d’un prestataire de services policiers prescrit.
+
 5. Les autres personnes prescrites.
 
 ### Anciens membres d’un service de police
 
 (5) Les anciens membres d’un service de police ne peuvent être membres d’une commission de service de police, sauf si les conditions suivantes sont remplies :
+
 a) la commission de service de police n’assure pas le fonctionnement du service de police dont la personne a été membre;
+
 b) au moins une année s’est écoulée depuis que la personne a cessé d’être membre de n’importe quel service de police.
 
 ### Poste devenu vacant pour cause de non-admissibilité
@@ -1032,7 +1283,9 @@ b) au moins une année s’est écoulée depuis que la personne a cessé d’êt
 ### Idem
 
 (2) Tout membre d’une commission municipale nommé par résolution d’une municipalité peut continuer de siéger jusqu’à la première en date des échéances suivantes :
+
 a) six mois après l’expiration de son mandat;
+
 b) le jour de la nomination de son successeur par la municipalité.
 
 ### Vacance
@@ -1052,11 +1305,17 @@ b) le jour de la nomination de son successeur par la municipalité.
 ### Formation requise
 
 (2) Les membres d’une commission de service de police ou d’un comité de la commission terminent avec succès les formations suivantes :
+
 1. La formation approuvée par le ministre en ce qui concerne le rôle d’une commission de service de police et les responsabilités des membres de la commission ou d’un comité.
+
 2. La formation approuvée par le ministre en matière de droits de la personne et de racisme systémique.
+
 3. La formation approuvée par le ministre qui favorise la reconnaissance et le respect, à la fois :
+
 i du caractère diversifié, multiracial et multiculturel de la société ontarienne,
+
 ii des droits et des cultures des Premières Nations, des Inuits et des Métis.
+
 4. Toute autre formation prescrite par le ministre.
 
 ### Formation incomplète
@@ -1088,16 +1347,27 @@ ii des droits et des cultures des Premières Nations, des Inuits et des Métis.
 ### Fonctions des commissions de service de police
 
 37 (1) Toute commission de service de police :
+
 a) veille à ce que des services policiers convenables et efficaces soient offerts dans le secteur pour lequel la responsabilité des services policiers lui incombe, comme l’exige l’article 10;
+
 b) emploie des membres du service de police;
+
 c) nomme des membres du service de police à titre d’agents de police;
+
 d) recrute et nomme le chef de police et tout chef de police adjoint, et détermine leur rémunération ainsi que leurs conditions de travail, en tenant compte de leurs observations;
+
 e) prépare et adopte un plan de diversité pour veiller à ce que les membres du service de police reflètent la diversité du secteur pour lequel la responsabilité des services policiers incombe à la commission;
+
 f) surveille la façon dont le chef de police s’acquitte de ses responsabilités;
+
 g) procède à l’examen de la façon dont le chef de police s’acquitte de ses responsabilités, au moins une fois par année conformément aux éventuels règlements pris par le ministre;
+
 h) surveille les décisions du chef de police concernant les restrictions relatives aux activités secondaires énoncées à l’article 89 et examine les rapports de ce dernier sur ces décisions;
+
 i) surveille la façon dont le chef de police gère la discipline au sein du service de police;
+
 j) veille à ce que les installations policières, y compris les lieux de détention temporaire, qu’elle utilise soient conformes aux éventuelles normes prescrites;
+
 k) exerce les autres fonctions qui lui sont attribuées par la présente loi ou une autre loi ou en vertu de celles-ci, y compris les fonctions prescrites.
 
 ### Normes prescrites
@@ -1111,12 +1381,19 @@ k) exerce les autres fonctions qui lui sont attribuées par la présente loi ou 
 ### Politiques des commissions de service de police
 
 38 (1) Toute commission de service de police établit des politiques concernant ce qui suit :
+
 a) l’administration du service de police;
+
 b) la prestation de services policiers convenables et efficaces selon les besoins de la population du secteur pour lequel la responsabilité des services policiers lui incombe;
+
 c) la divulgation par le chef de police de renseignements personnels sur des particuliers;
+
 d) la divulgation des activités secondaires en application de l’article 89 et les décisions prises en application de cet article;
+
 e) la gestion de la discipline au sein du service de police;
+
 f) sous réserve du paragraphe (4), l’indemnisation des membres du service de police pour les frais de justice qu’ils engagent;
+
 g) les autres questions prescrites.
 
 ### Autres politiques
@@ -1126,7 +1403,9 @@ g) les autres questions prescrites.
 ### Consultations et prise en compte des traditions
 
 (3) Une commission de Première Nation à laquelle incombe la responsabilité des services policiers pour une réserve de Première Nation :
+
 a) consulte une personne désignée par le conseil de bande en ce qui concerne les traditions culturelles de la Première Nation avant d’établir une politique en application de l’alinéa (1) b);
+
 b) tient compte des traditions culturelles de la Première Nation au moment d’établir la politique.
 
 ### Politique d’indemnisation
@@ -1140,7 +1419,9 @@ b) tient compte des traditions culturelles de la Première Nation au moment d’
 ### Autres restrictions relatives aux politiques
 
 (6) La commission de service de police ne doit pas élaborer de politiques qui, selon le cas :
+
 a) exigeraient d’un membre du service de police qu’il fasse ou s’abstienne de faire quoi que ce soit qui serait incompatible avec les fonctions que lui attribuent la présente loi ou les règlements;
+
 b) empêcheraient un membre du service de police de tenter de recueillir des renseignements dans le but d’enquêter sur une infraction ou d’aider à la poursuite relative à une infraction.
 
 ### Publication
@@ -1150,27 +1431,49 @@ b) empêcheraient un membre du service de police de tenter de recueillir des ren
 ### Plan stratégique
 
 39 (1) La commission de service de police prépare et adopte, conformément aux éventuels règlements, un plan stratégique pour la prestation de services policiers, qui traite au minimum des questions suivantes :
+
 1. La façon dont la commission de service de police assurera la prestation de services policiers convenables et efficaces selon les besoins de la population du secteur.
+
 2. Les objectifs, les priorités et les fonctions de base du service de police.
+
 3. Les objectifs de rendement quantitatifs et qualitatifs et les indicateurs quantitatifs et qualitatifs des résultats en ce qui concerne ce qui suit :
+
 i. l’offre d’initiatives communautaires de prévention du crime, de services de patrouille dans la collectivité et de services d’enquête en matière criminelle,
+
 ii. le degré de satisfaction de la collectivité à l’égard des services policiers offerts,
+
 iii. les appels d’urgence,
+
 iv. les crimes violents et les taux d’affaires classées en la matière,
+
 v. les crimes contre les biens, et les taux d’affaires classées en la matière,
+
 vi. la délinquance juvénile, et les taux d’affaires classées en la matière,
+
 vii. l’aide policière aux victimes d’actes criminels, et les taux de revictimisation,
+
 viii. les interactions avec les personnes mentionnées aux dispositions 4 et 5 du présent paragraphe,
+
 ix. la sécurité routière,
+
 x. les autres questions prescrites.
+
 4. Les interactions avec les personnes suivantes :
+
 i. les jeunes,
+
 ii. les membres des groupes racisés,
+
 iii. les membres des collectivités inuites, métisses et de Première Nation.
+
 5. Les interactions avec les personnes qui paraissent avoir une maladie mentale ou des troubles neurodéveloppementaux.
+
 6. La technologie de l’information.
+
 7. La planification des ressources.
+
 8. Les installations policières.
+
 9. Les autres questions prescrites.
 
 ### Idem
@@ -1180,18 +1483,27 @@ iii. les membres des collectivités inuites, métisses et de Première Nation.
 ### Consultations
 
 (3) Lorsqu’elle prépare ou révise le plan stratégique, la commission de service de police consulte :
+
 a) le chef de police;
+
 b) le conseil municipal des municipalités qui se trouvent dans le secteur de responsabilité en matière de services policiers de la commission;
+
 c) les conseils de bande des Premières Nations qui se trouvent dans le secteur de responsabilité en matière de services policiers de la commission;
+
 d) des groupes représentant les collectivités diverses qui se trouvent dans le secteur de responsabilité en matière de services policiers de la commission;
+
 e) des conseils scolaires, des organismes communautaires, des entreprises et des membres du public qui se trouvent dans le secteur de responsabilité en matière de services policiers de la commission;
+
 f) les autres personnes, organismes ou groupes prescrits.
 
 ### Questions à prendre en compte
 
 (4) Lorsqu’elle prépare ou révise le plan stratégique, la commission de service de police tient compte, au minimum, de ce qui suit :
+
 a) les résultats des consultations menées en application du paragraphe (3);
+
 b) tout plan de sécurité et de bien-être communautaires adopté par les municipalités ou les Premières Nations qui se trouvent dans le secteur de responsabilité en matière de services policiers de la commission;
+
 c) les besoins des membres des collectivités diverses dans le secteur de responsabilité en matière de services policiers de la commission, y compris les besoins des membres des groupes racisés et des collectivités inuites, métisses et de Première Nation.
 
 ### Examen et révision
@@ -1233,8 +1545,11 @@ c) les besoins des membres des collectivités diverses dans le secteur de respon
 ### Autres restrictions relatives aux directives
 
 (7) La commission de service de police ne doit pas donner au chef de police la directive de faire quoi que ce soit qui, selon le cas :
+
 a) contreviendrait à la présente loi ou aux règlements, ou à toute autre loi ou tout autre règlement;
+
 b) exigerait qu’un membre du service de police fasse ou s’abstienne de faire quoi que ce soit qui serait incompatible avec les fonctions que lui attribuent la présente loi ou les règlements;
+
 c) empêcherait un membre du service de police de tenter de recueillir des renseignements dans le but d’enquêter sur une infraction ou d’aider à la poursuite relative à une infraction.
 
 ### Refus possible par le chef de police
@@ -1250,9 +1565,13 @@ c) empêcherait un membre du service de police de tenter de recueillir des rense
 ### Rapport annuel
 
 41 (1) Au plus tard le 30 juin de chaque année, la commission de service de police dépose auprès de sa municipalité ou de son conseil de bande un rapport annuel concernant ce qui suit :
+
 a) la mise en oeuvre du plan stratégique de la commission et la réalisation des objectifs de rendement déterminés dans le plan stratégique;
+
 b) les activités du service de police;
+
 c) la prestation de services policiers en ce qu’elle se rapporte aux plans de sécurité et de bien-être communautaires adoptés par les municipalités ou les Premières Nations qui se trouvent dans le secteur de responsabilité en matière de services policiers de la commission;
+
 d) les autres questions prescrites.
 
 ### Publication
@@ -1272,7 +1591,9 @@ d) les autres questions prescrites.
 ### Délégation
 
 42 (1) La commission de service de police peut, par règlement administratif :
+
 a) créer un comité et déléguer à ce dernier les pouvoirs que lui confère la présente loi;
+
 b) si un pouvoir que lui confère la présente loi est prescrit pour l’application du présent article, déléguer ce pouvoir à un de ses employés qui n’est pas membre du service de police ou au chef de police.
 
 ### Teneur d’un règlement administratif
@@ -1282,7 +1603,9 @@ b) si un pouvoir que lui confère la présente loi est prescrit pour l’applica
 ### Composition
 
 (3) Le comité se compose des personnes suivantes :
+
 a) au moins deux membres de la commission de service de police, sous réserve du paragraphe (4);
+
 b) un nombre quelconque de membres supplémentaires, pourvu que les membres de la commission de service de police en forment la majorité.
 
 ### Exception
@@ -1320,9 +1643,13 @@ b) un nombre quelconque de membres supplémentaires, pourvu que les membres de l
 ### Teneur de l’avis
 
 (7) L’avis doit comprendre :
+
 a) l’ordre du jour proposé pour la réunion;
+
 b) l’un ou l’autre de ce qui suit :
+
 (i) le compte rendu de la dernière réunion de la commission de service de police qui était ouverte au public, à l’exclusion du compte rendu de toute partie de la réunion qui s’est tenue à huis clos,
+
 (ii) les instructions sur la façon dont un membre du public peut avoir accès au compte rendu visé au sous-alinéa (i).
 
 ### Huis clos
@@ -1330,25 +1657,41 @@ b) l’un ou l’autre de ce qui suit :
 ### Étude
 
 44 (1) Avant de tenir une réunion, une commission de service de police ou un de ses comités fait ce qui suit :
+
 a) elle ou il examine s’il y a lieu ou non que la réunion, en totalité ou en partie, se tienne à huis clos, compte tenu des questions énumérées aux paragraphes (2) et (3);
+
 b) si la commission ou le comité décide que la réunion se tiendra, en totalité ou en partie, à huis clos, elle ou il énonce ce qui suit par résolution :
+
 (i) le fait que la réunion doit se tenir à huis clos et la nature générale de la question devant y être étudiée,
+
 (ii) dans le cas d’une réunion visée au paragraphe (6), le fait que la réunion doit se tenir à huis clos, la nature générale du sujet de celle-ci et le fait qu’elle se tiendra à huis clos en vertu de ce paragraphe.
 
 ### Questions à l’étude
 
 (2) La totalité ou une partie de la réunion peut se tenir à huis clos si l’une des questions suivantes doit y être étudiée :
+
 a) la sécurité des biens de la commission;
+
 b) des questions personnelles au sujet d’un particulier qui peut être identifié, y compris les membres du service de police ou tout autre employé de la commission;
+
 c) l’acquisition ou la disposition projetée ou en cours d’un bien-fonds par la commission;
+
 d) les relations de travail ou les négociations avec les employés;
+
 e) les litiges actuels ou éventuels touchant la commission, y compris les questions dont sont saisis les tribunaux administratifs;
+
 f) les conseils qui seraient inadmissibles devant un tribunal en raison d’un privilège reconnu en droit de la preuve, y compris les communications nécessaires à cette fin;
+
 g) des renseignements explicitement communiqués à titre confidentiel à la commission par le Canada, une province, un territoire ou un organisme de la Couronne de l’un d’eux, une municipalité ou une Première Nation;
+
 h) un secret industriel ou des renseignements d’ordre scientifique, technique, commercial, financier ou qui ont trait aux relations de travail, communiqués à titre confidentiel à la commission et qui, s’ils étaient divulgués, pourraient, selon toutes attentes raisonnables, avoir pour effet de nuire gravement à la situation concurrentielle ou d’entraver gravement les négociations contractuelles ou autres d’une personne, d’un groupe de personnes ou d’une organisation;
+
 i) un secret industriel ou des renseignements d’ordre scientifique, technique, commercial ou financier qui sont la propriété de la commission et qui ont une valeur pécuniaire réelle ou éventuelle;
+
 j) une position, un projet, une ligne de conduite, un critère ou une instruction devant être observés par la commission, ou pour son compte, dans le cadre d’une négociation réelle ou éventuelle;
+
 k) des renseignements dont la divulgation pourrait être refusée en vertu de l’article 8 de la Loi sur l’accès à l’information municipale et la protection de la vie privée s’ils étaient contenus dans un dossier;
+
 l) une enquête en cours concernant la commission de service de police.
 
 ### Huis clos obligatoire
@@ -1358,9 +1701,13 @@ l) une enquête en cours concernant la commission de service de police.
 ### Obligation de confidentialité
 
 (4) Les membres de la commission ou du comité préservent le caractère confidentiel de toute question à l’étude lors d’une réunion tenue à huis clos en vertu du paragraphe (2) ou (3), y compris de tout renseignement obtenu dans le but d’étudier la question confidentielle, sauf, selon le cas :
+
 a) en vue de se conformer à un ordre d’un inspecteur exerçant les pouvoirs ou les fonctions que lui attribue la présente loi;
+
 b) dans la mesure où ils sont tenus de ne pas le faire dans le cadre de l’application de la présente loi, de la Loi de 2019 sur l’Unité des enquêtes spéciales ou des règlements pris en vertu de l’une ou l’autre de ces lois;
+
 c) dans la mesure où l’exige l’exécution de la loi;
+
 d) lorsque la divulgation est par ailleurs exigée par la loi.
 
 ### Divulgation par résolution
@@ -1370,7 +1717,9 @@ d) lorsque la divulgation est par ailleurs exigée par la loi.
 ### Séances d’éducation ou de formation
 
 (6) Toute réunion de la commission de service de police ou d’un de ses comités peut se tenir à huis clos s’il est satisfait aux deux conditions suivantes :
+
 1. La réunion a pour but l’éducation ou la formation des membres de la commission ou du comité.
+
 2. Lors de la réunion, aucun membre de la commission ou du comité n’étudie une question ou n’en traite autrement d’une manière qui fait avancer de façon importante les travaux ou la prise de décision de la commission.
 
 ### Admissibilité en preuve des règlements administratifs
@@ -1392,8 +1741,11 @@ d) lorsque la divulgation est par ailleurs exigée par la loi.
 ### Indemnisation par une commission de service de police
 
 (2) Une commission de service de police peut, conformément aux politiques établies en application de l’alinéa 38 (1) f), indemniser un membre de son service de police des frais de justice raisonnables qu’il a engagés dans l’un ou l’autre des cas suivants :
+
 a) pour sa défense dans une instance civile, s’il est conclu qu’il n’est pas responsable;
+
 b) pour sa défense dans une poursuite criminelle, s’il est conclu qu’il n’est pas coupable;
+
 c) dans toute autre instance mettant en cause la façon dont il a exercé les fonctions rattachées à son emploi, s’il est conclu qu’il a agi de bonne foi.
 
 ### Convention
@@ -1427,13 +1779,17 @@ c) dans toute autre instance mettant en cause la façon dont il a exercé les fo
 ### Finances de la commission municipale
 
 50 (1) La municipalité qui assure le fonctionnement d’une commission municipale lui fournit un financement suffisant aux fins suivantes :
+
 a) observe la présente loi et les règlements;
+
 b) couvrir les dépenses de fonctionnement de la commission, à l’exclusion de la rémunération de ses membres.
 
 ### Prévisions de dépenses
 
 (2) Une commission municipale présente à la municipalité ses prévisions de dépenses de fonctionnement et de dépenses en immobilisations qui font état séparément des sommes qui seront nécessaires aux fins suivantes :
+
 a) observer la présente loi et les règlements, y compris les sommes nécessaires pour fournir au service de police le matériel et les installations nécessaires, eu égard aux diverses façons dont la commission peut s’acquitter de cette obligation;
+
 b) couvrir les dépenses de fonctionnement de la commission, à l’exclusion de la rémunération de ses membres.
 
 ### Idem
@@ -1451,7 +1807,9 @@ b) couvrir les dépenses de fonctionnement de la commission, à l’exclusion de
 ### Différend
 
 (6) Si la commission municipale n’est pas convaincue que le budget établi à son intention par la municipalité est suffisant aux fins prévues aux alinéas (1) a) et b) :
+
 a) soit la commission municipale et la municipalité peuvent demander par requête conjointe au président de la Commission de nommer un agent de conciliation pour tenter de régler l’affaire;
+
 b) soit la commission municipale peut donner à la municipalité un avis écrit de soumission de la question à l’arbitrage.
 
 ### Procédure de conciliation
@@ -1469,7 +1827,9 @@ b) soit la commission municipale peut donner à la municipalité un avis écrit 
 ### Nomination par le président de la Commission
 
 (10) Le président de la Commission nomme un arbitre si, selon le cas :
+
 a) la commission municipale et la municipalité ne nomment pas conjointement un arbitre dans le délai prévu au paragraphe (9) et le président de la Commission a été avisé par l’une ou l’autre partie;
+
 b) la commission municipale et la municipalité demandent conjointement au président de la Commission de nommer un arbitre.
 
 ### Conclusions
@@ -1487,13 +1847,17 @@ b) la commission municipale et la municipalité demandent conjointement au prés
 ### Examen du financement d’une commission de Première Nation
 
 51 (1) Le présent article s’applique si une commission de Première Nation croit que les fonds qu’elle reçoit du ministre et de toutes les autres sources ne sont pas suffisants aux fins suivantes :
+
 a) observer la présente loi et les règlements, y compris les sommes nécessaires pour fournir au service de police le matériel et les installations nécessaires, eu égard aux diverses façons dont la commission peut s’acquitter de cette obligation;
+
 b) couvrir les dépenses de fonctionnement de la commission.
 
 ### Différend
 
 (2) Si une commission de Première Nation n’est pas convaincue que le financement est suffisant aux fins prévues aux alinéas (1) a) et b) :
+
 a) soit la commission de Première Nation et le ministre peuvent demander par requête conjointe au président de la Commission de nommer un agent de conciliation pour tenter de régler l’affaire;
+
 b) soit la commission de Première Nation peut donner au ministre un avis écrit de soumission de la question à l’arbitrage.
 
 ### Procédure de conciliation
@@ -1511,7 +1875,9 @@ b) soit la commission de Première Nation peut donner au ministre un avis écrit
 ### Nomination par le président de la Commission
 
 (6) Le président de la Commission nomme un arbitre si, selon le cas :
+
 a) la commission de Première Nation et le ministre ne nomment pas conjointement un arbitre dans le délai prévu au paragraphe (5) et le président de la Commission a été avisé par l’une ou l’autre partie;
+
 b) la commission de Première Nation et le ministre demandent conjointement au président de la Commission de nommer un arbitre.
 
 ### Facteurs à prendre en compte
@@ -1547,7 +1913,9 @@ b) la commission de Première Nation et le ministre demandent conjointement au p
 ### Approbation de l’inspecteur général
 
 (3) L’inspecteur général peut approuver le licenciement d’un membre d’un service de police en vertu du paragraphe (1) ou un plan d’attrition en vertu du paragraphe (2) s’il est convaincu que :
+
 a) des dispositions appropriées ont été prises à l’égard de la prestation de services policiers convenables et efficaces dans le secteur une fois que la taille du service de police aura été réduite ou que celui-ci aura été aboli;
+
 b) en cas de licenciement, le membre licencié et la commission de service de police ont conclu une entente au sujet de l’indemnité de cessation d’emploi ou ont soumis la question à l’arbitrage en vertu du paragraphe (4).
 
 ### Arbitrage
@@ -1589,6 +1957,7 @@ b) en cas de licenciement, le membre licencié et la commission de service de po
 ### Nominations
 
 (3) Le commissaire peut, conformément à tout plan, politique ou directive en matière de diversité applicable à la fonction publique de l’Ontario, nommer des membres de la Police provinciale de l’Ontario à titre d’agents de police.
+
 (4) Abrogé : 2023, chap. 12, annexe 1, par. 21 (1).
 
 ### Disposition transitoire
@@ -1602,18 +1971,27 @@ b) en cas de licenciement, le membre licencié et la commission de service de po
 ### Fonctions du commissaire
 
 57 Le commissaire a les fonctions suivantes :
+
 a) offrir des services policiers convenables et efficaces dans le secteur pour lequel la responsabilité des services policiers lui incombe, comme l’exige l’article 10;
+
 b) exercer les fonctions en vertu de la présente loi ou d’une autre loi liées à l’emploi de membres de la Police provinciale de l’Ontario conformément à tout plan, politique ou directive en matière de diversité applicable à la fonction publique de l’Ontario;
+
 c) maintenir une patrouille de la circulation sur la route principale, à l’exclusion des sections prescrites par le ministre;
+
 d) maintenir une patrouille de la circulation sur une voie publique ou une section de voie publique qui est désignée comme voie de jonction visée à l’article 21 de la Loi sur l’aménagement des voies publiques et des transports en commun, sauf prescription contraire du ministre;
+
 e) maintenir des services d’enquête pour aider d’autres services de police conformément aux politiques du ministre;
+
 f) exercer les autres fonctions qui lui sont attribuées par la présente loi ou une autre loi ou en vertu de celles-ci, y compris les fonctions prescrites.
 
 ### Rapport annuel
 
 58 (1) Au plus tard le 30 juin de chaque année, le commissaire dépose auprès du ministre un rapport annuel, qui traite au minimum des questions suivantes :
+
 1. La mise en oeuvre du plan stratégique du ministre et la réalisation des objectifs de rendement déterminés dans le plan stratégique.
+
 2. Les activités de la Police provinciale de l’Ontario.
+
 3. Les autres questions prescrites.
 
 ### Publication et dépôt
@@ -1625,21 +2003,33 @@ f) exercer les autres fonctions qui lui sont attribuées par la présente loi ou
 ### Fonctions du ministre relatives à la Police provinciale
 
 59 Le ministre :
+
 a) surveille la façon dont le commissaire s’acquitte de ses responsabilités;
+
 b) procède à l’examen de la façon dont le commissaire s’acquitte de ses responsabilités, au moins une fois par année conformément aux éventuels règlements;
+
 c) surveille la façon dont le commissaire gère la discipline au sein de la Police provinciale de l’Ontario;
+
 d) veille à ce que les installations policières, y compris les lieux de détention temporaire, que la Police provinciale de l’Ontario utilise soient conformes aux éventuelles normes prescrites;
+
 e) exerce toute autre fonction à l’égard de la Police provinciale de l’Ontario qui lui est attribuée par la présente loi ou en vertu de celle-ci, notamment toute fonction prescrite.
 
 ### Politiques du ministre
 
 60 (1) Sous réserve du paragraphe (2), le ministre établit des politiques concernant ce qui suit :
+
 a) la prestation de services policiers convenables et efficaces par le commissaire selon les besoins de la population des secteurs pour lesquels la responsabilité des services policiers incombe à ce dernier;
+
 b) la divulgation par le commissaire de renseignements personnels sur des particuliers;
+
 c) les services d’enquête que le commissaire doit offrir à d’autres services de police;
+
 d) la gestion de la discipline au sein de la Police provinciale de l’Ontario;
+
 e) sous réserve du paragraphe (4) et des règlements, l’indemnisation des membres de la Police provinciale de l’Ontario pour les frais de justice qu’ils engagent;
+
 f) les autres questions prescrites.
+
 (2) Abrogé : 2023, chap. 12, annexe 1, art. 23.
 
 ### Autres politiques
@@ -1657,7 +2047,9 @@ f) les autres questions prescrites.
 ### Autres restrictions relatives aux politiques
 
 (6) Le ministre ne doit pas élaborer de politiques qui, selon le cas :
+
 a) exigeraient d’un membre de la Police provinciale de l’Ontario qu’il fasse ou s’abstienne de faire quoi que ce soit qui serait incompatible avec les fonctions que lui attribuent la présente loi ou les règlements;
+
 b) empêcheraient un membre de la Police provinciale de l’Ontario de tenter de recueillir des renseignements dans le but d’enquêter sur une infraction ou d’aider à la poursuite relative à une infraction.
 
 ### Publication
@@ -1667,27 +2059,49 @@ b) empêcheraient un membre de la Police provinciale de l’Ontario de tenter de
 ### Plan stratégique
 
 61 (1) Le ministre prépare et adopte, conformément aux éventuels règlements, un plan stratégique pour la prestation de services policiers par le commissaire, qui traite au minimum des questions suivantes :
+
 1. La façon dont le commissaire assurera la prestation de services policiers convenables et efficaces selon les besoins de la population des secteurs pour lesquels la responsabilité des services policiers incombe à ce dernier.
+
 2. Les objectifs, les priorités et les fonctions de base de la Police provinciale de l’Ontario.
+
 3. Les objectifs de rendement quantitatifs et qualitatifs et les indicateurs quantitatifs et qualitatifs des résultats en ce qui concerne ce qui suit :
+
 i. l’offre d’initiatives communautaires de prévention du crime, de services de patrouille dans la collectivité et de services d’enquête en matière criminelle,
+
 ii. le degré de satisfaction de la collectivité à l’égard des services policiers offerts,
+
 iii. les appels d’urgence,
+
 iv. les crimes violents et les taux d’affaires classées en la matière,
+
 v. les crimes contre les biens, et les taux d’affaires classées en la matière,
+
 vi. la délinquance juvénile, et les taux d’affaires classées en la matière,
+
 vii. l’aide policière aux victimes d’actes criminels, et les taux de revictimisation,
+
 viii. les interactions avec les personnes mentionnées aux dispositions 4 et 5 du présent paragraphe,
+
 ix. la sécurité routière,
+
 x. les autres questions prescrites.
+
 4. Les interactions avec les personnes suivantes :
+
 i. les jeunes,
+
 ii. les membres des groupes racisés,
+
 iii. les membres des collectivités inuites, métisses et de Première Nation.
+
 5. Les interactions avec les personnes qui paraissent avoir une maladie mentale ou des troubles neurodéveloppementaux.
+
 6. La technologie de l’information.
+
 7. La planification des ressources.
+
 8. Les installations policières.
+
 9. Les autres questions prescrites.
 
 ### Idem
@@ -1725,8 +2139,11 @@ iii. les membres des collectivités inuites, métisses et de Première Nation.
 ### Autres restrictions relatives aux directives
 
 (6) Le ministre ne doit pas donner au commissaire la directive de faire quoi que ce soit qui, selon le cas :
+
 a) contreviendrait à la présente loi ou aux règlements, ou à toute autre loi ou tout autre règlement;
+
 b) exigerait qu’un membre de la Police provinciale de l’Ontario fasse ou s’abstienne de faire quoi que ce soit qui serait incompatible avec les fonctions que lui attribuent la présente loi ou les règlements;
+
 c) empêcherait un membre de la Police provinciale de l’Ontario de tenter de recueillir des renseignements dans le but d’enquêter sur une infraction ou d’aider à la poursuite relative à une infraction.
 
 ### Refus possible du commissaire
@@ -1746,8 +2163,11 @@ c) empêcherait un membre de la Police provinciale de l’Ontario de tenter de r
 ### Indemnisation des membres de la Police provinciale
 
 (2) Le ministre des Finances peut indemniser, en prélevant les sommes sur le Trésor, un membre de la Police provinciale de l’Ontario des frais de justice raisonnables qu’il a engagés dans l’un ou l’autre des cas suivants :
+
 a) pour sa défense dans une instance civile, s’il est conclu qu’il n’est pas responsable;
+
 b) pour sa défense dans une poursuite criminelle, s’il est conclu qu’il n’est pas coupable;
+
 c) dans toute autre instance mettant en cause la façon dont il a exercé les fonctions rattachées à son emploi, s’il est conclu qu’il a agi de bonne foi.
 
 ### Convention
@@ -1819,25 +2239,41 @@ c) dans toute autre instance mettant en cause la façon dont il a exercé les fo
 ### Application d’autres dispositions
 
 (6) Les dispositions suivantes s’appliquent, avec les adaptations nécessaires, aux conseils de détachement de la Police provinciale comme s’il s’agissait de commissions de service de police :
+
 1. L’article 33 (Nomination).
+
 2. Les paragraphes 35 (1) à (5) (Serment, formation et conduite).
+
 3. L’article 36 (Élection du président).
+
 4. L’article 42 (Délégation).
+
 5. L’article 43 (Réunions).
+
 6. L’article 44 (Huis clos).
+
 7. L’article 45 (Admissibilité en preuve des règlements administratifs).
+
 8. L’article 46 (Règles et procédures).
+
 9. L’article 48 (Immunité).
+
 10. L’article 49 (Pouvoir de la commission de service de police de conclure des contrats et d’ester en justice).
 
 ### Rôle
 
 68 (1) Le conseil de détachement de la Police provinciale exerce les fonctions suivantes :
+
 a) participer à la sélection, par le commissaire, d’un commandant de détachement permanent conformément au processus établi par le commissaire;
+
 b) établir des objectifs et des priorités pour le détachement qui ne soient pas incompatibles avec le plan stratégique préparé par le ministre, après consultation du commandant de détachement ou de son représentant désigné;
+
 c) donner des conseils au commandant de détachement à l’égard des services policiers offerts par le détachement;
+
 d) surveiller la façon dont le commandant de détachement s’acquitte de ses responsabilités;
+
 e) examiner les rapports du commandant de détachement concernant les services policiers offerts par le détachement;
+
 f) au plus tard le 30 juin de chaque année, remettre aux municipalités et aux conseils de bande un rapport annuel concernant les services policiers qu’offre le détachement dans leurs municipalités ou dans leurs réserves de Première Nation.
 
 ### Commandant de détachement : processus de sélection
@@ -1867,15 +2303,25 @@ f) au plus tard le 30 juin de chaque année, remettre aux municipalités et aux 
 ### Exigences relatives aux politiques locales
 
 (2) Les politiques locales établies en vertu du paragraphe (1) doivent satisfaire aux exigences suivantes :
+
 1. Les politiques locales doivent être compatibles avec, selon le cas :
+
 i. le plan stratégique préparé par le ministre,
+
 ii. les politiques établies par le ministre en application de l’article 60,
+
 iii. les procédures établies par le commissaire,
+
 iv. le plan d’action local préparé par le commandant de détachement.
+
 2. Les politiques locales ne doivent pas se rapporter à des enquêtes particulières, à la conduite d’opérations particulières, à la gestion ou à la discipline d’agents de police particuliers ou à d’autres questions prescrites.
+
 3. Les politiques locales ne doivent pas exiger qu’un membre de la Police provinciale de l’Ontario fasse ou s’abstienne de faire quoi que ce soit qui serait incompatible avec les fonctions que lui attribuent la présente loi ou les règlements.
+
 4. Les politiques locales ne doivent pas empêcher un membre de la Police provinciale de l’Ontario de tenter de recueillir des renseignements afin d’enquêter sur une infraction ou d’aider à la poursuite relative à une infraction.
+
 5. Les politiques locales ne doivent pas exiger qu’un membre de la Police provinciale de l’Ontario offre des services policiers qui ne constituent pas une composante nécessaire des services policiers convenables et efficaces.
+
 6. Les politiques locales doivent être conformes aux exigences prescrites.
 
 ### Respect des politiques locales par le commandant de détachement
@@ -1885,7 +2331,9 @@ iv. le plan d’action local préparé par le commandant de détachement.
 ### Différend
 
 (4) Si un commandant de détachement croit qu’une politique locale de son conseil de détachement de la Police provinciale n’est pas conforme au paragraphe (2) :
+
 a) d’une part, il informe le conseil de détachement de la Police provinciale, par écrit, des raisons qui lui font croire que cette politique n’est pas conforme au paragraphe (2);
+
 b) d’autre part, malgré le paragraphe (3), il n’est pas tenu de veiller à ce que des services policiers soient offerts conformément à cette politique, sauf si le commissaire lui donne la directive de le faire en vertu du paragraphe (5).
 
 ### Demande d’examen
@@ -1903,23 +2351,41 @@ b) d’autre part, malgré le paragraphe (3), il n’est pas tenu de veiller à 
 ### Plan d’action local
 
 70 (1) Le commandant de détachement prépare et adopte, conformément aux éventuels règlements, un plan d’action local pour la prestation des services policiers offerts par le détachement. Le plan d’action traite au minimum des questions suivantes :
+
 1. La façon dont des services policiers convenables et efficaces seront offerts dans le secteur desservi par le détachement, selon les besoins de la population du secteur et eu égard à la diversité de cette population.
+
 2. Les objectifs et les priorités du détachement établis par le conseil de détachement de la Police provinciale et ceux établis par le commandant de détachement.
+
 3. Les objectifs de rendement quantitatifs et qualitatifs et les indicateurs quantitatifs et qualitatifs des résultats en ce qui concerne ce qui suit :
+
 i. l’offre d’initiatives communautaires de prévention du crime, de services de patrouille dans la collectivité et de services d’enquête en matière criminelle,
+
 ii. le degré de satisfaction de la collectivité à l’égard des services policiers offerts,
+
 iii. les appels d’urgence,
+
 iv. les crimes violents et les taux d’affaires classées en la matière,
+
 v. les crimes contre les biens, et les taux d’affaires classées en la matière,
+
 vi. la délinquance juvénile, et les taux d’affaires classées en la matière,
+
 vii. l’aide policière aux victimes d’actes criminels, et les taux de revictimisation,
+
 viii. les interactions avec les personnes mentionnées aux dispositions 4 et 5 du présent paragraphe,
+
 ix. la sécurité routière,
+
 x. les autres questions prescrites.
+
 4. Les interactions avec les personnes suivantes :
+
 i. les jeunes,
+
 ii. les membres des groupes racisés,
+
 iii. les membres des collectivités inuites, métisses et de Première Nation.
+
 5. Les interactions avec les personnes qui paraissent avoir une maladie mentale ou des troubles neurodéveloppementaux.
 
 ### Idem
@@ -1929,18 +2395,27 @@ iii. les membres des collectivités inuites, métisses et de Première Nation.
 ### Consultations
 
 (3) Lorsqu’il prépare ou révise le plan d’action local, le commandant de détachement consulte :
+
 a) son conseil de détachement de la Police provinciale;
+
 b) le conseil municipal des municipalités qui reçoivent des services policiers du détachement;
+
 c) les conseils de bande des Premières Nations qui reçoivent des services policiers du détachement;
+
 d) des groupes représentant les collectivités diverses du secteur qui reçoit des services policiers du détachement;
+
 e) des conseils scolaires, des organismes communautaires, des entreprises et des membres du public du secteur qui reçoit des services policiers du détachement;
+
 f) les autres personnes, organismes ou groupes prescrits.
 
 ### Questions à prendre en compte
 
 (4) Lorsqu’il prépare ou révise le plan d’action local, le commandant de détachement tient compte, au minimum, de ce qui suit :
+
 a) les résultats des consultations menées en application du paragraphe (3);
+
 b) les éventuels plans de sécurité et de bien-être communautaires adoptés par les municipalités ou les Premières Nations qui reçoivent des services policiers du détachement;
+
 c) les besoins des membres des collectivités diverses du secteur qui reçoit des services policiers du détachement, y compris les besoins des membres des groupes racisés et des collectivités inuites, métisses et de Première Nation.
 
 ### Présentation d’ébauche
@@ -1990,6 +2465,7 @@ c) les besoins des membres des collectivités diverses du secteur qui reçoit de
 ### Idem
 
 (8) Si le conseil de détachement de la Police provinciale et la municipalité ou les municipalités ne nomment pas conjointement un arbitre, le conseil de détachement ou la municipalité ou les municipalités peuvent demander au président de la Commission d’en nommer un.
+
 72 à 75 Abrogés : 2023, chap. 12, annexe 1, art. 32.
 
 ### Accords conclus avec les Premières Nations
@@ -2005,17 +2481,25 @@ c) les besoins des membres des collectivités diverses du secteur qui reçoit de
 ### Contenu optionnel
 
 (3) L’accord peut traiter d’autres questions, notamment :
+
 a) de la façon dont les services policiers et les autres services seront offerts, y compris exiger qu’ils soient offerts par des agents de police ou d’autres membres de la Police provinciale de l’Ontario qui travaillent principalement ou exclusivement dans la réserve de Première Nation ou dans l’autre secteur précisé;
+
 b) des mesures qui seront prises pour veiller à ce que les services policiers et les autres services reflètent les traditions culturelles de la Première Nation;
+
 c) des qualités requises des membres de la Police provinciale de l’Ontario qui assurent la prestation des services policiers et des autres services;
+
 d) de l’uniforme des membres de la Police provinciale de l’Ontario qui assurent la prestation des services policiers et des autres services;
+
 e) de la médiation, de l’arbitrage ou du règlement des différends qui peuvent survenir relativement à l’accord;
+
 f) du financement d’un conseil de Première Nation sur la Police provinciale.
 
 ### Effet sur le secteur de responsabilité en matière de services policiers
 
 (4) Lorsque l’accord entre en vigueur :
+
 a) la réserve de Première Nation est incorporée dans le secteur de responsabilité en matière de services policiers du commissaire, si elle n’en faisait pas déjà partie;
+
 b) la responsabilité des services policiers pour le secteur n’incombe plus à la commission de service de police qui auparavant l’assumait.
 
 ### Obligation du commissaire
@@ -2037,10 +2521,15 @@ b) la responsabilité des services policiers pour le secteur n’incombe plus à
 ### Teneur de la demande
 
 (4) La demande présentée en vertu du paragraphe (1) doit préciser :
+
 a) le secteur qui relève ou est destiné à relever du secteur de responsabilité en matière de services policiers du commissaire pour lequel le conseil envisagé aura les pouvoirs et les fonctions énoncés à l’article 78;
+
 b) la composition du conseil envisagé;
+
 c) le mode de nomination des membres du conseil envisagé;
+
 d) le nom du conseil envisagé;
+
 e) la durée envisagée du mandat des membres du conseil envisagé.
 
 ### Demande du ministre
@@ -2054,10 +2543,15 @@ e) la durée envisagée du mandat des membres du conseil envisagé.
 ### Règlements portant sur un conseil de Première Nation sur la Police provinciale
 
 (7) Le ministre peut, par règlement :
+
 a) constituer un conseil de Première Nation sur la Police provinciale pour le conseil ou les conseils de bande qui ont présenté la demande;
+
 b) régir la composition du conseil de Première Nation sur la Police provinciale;
+
 c) préciser le nom du conseil de Première Nation sur la Police provinciale;
+
 d) régir les nominations au conseil de Première Nation sur la Police provinciale;
+
 e) régir la durée du mandat des membres du conseil de Première Nation sur la Police provinciale.
 
 ### Compatibilité avec la demande
@@ -2071,9 +2565,13 @@ e) régir la durée du mandat des membres du conseil de Première Nation sur la 
 ### Restriction en matière de modification ou d’abrogation
 
 (10) Le ministre ne doit pas modifier ou abroger un règlement pris en vertu du paragraphe (7), sauf s’il est convaincu que des dispositions appropriées satisfaisant aux exigences prescrites ont été prises pour que la Première Nation qui a demandé la constitution du conseil de Première Nation sur la Police provinciale reçoive des services policiers convenables et efficaces après l’entrée en vigueur de la modification ou de l’abrogation et qu’au moins l’une des conditions suivantes est remplie :
+
 1. La modification ou l’abrogation est compatible avec une demande du conseil de bande de la Première Nation qui a demandé la constitution du conseil de Première Nation sur la Police provinciale.
+
 2. Il est survenu un changement important des circonstances sur lesquelles est fondé le règlement.
+
 3. Le conseil de Première Nation sur la Police provinciale a été dissous en vertu de l’article 126.
+
 4. Il s’agit d’une modification rédactionnelle ou de forme.
 
 ### Restriction en matière d’abrogation
@@ -2135,15 +2633,21 @@ e) régir la durée du mandat des membres du conseil de Première Nation sur la 
 ### Idem : commissaire
 
 (2) Le commissaire :
+
 a) administre la Police provinciale de l’Ontario et surveille ses activités conformément aux politiques et au plan stratégique du ministre;
+
 b) se conforme aux enquêtes menées par le directeur des plaintes ou le directeur de l’UES et aux inspections effectuées par l’inspecteur général;
+
 c) observe les directives légitimes du ministre.
 
 ### Idem : autre chef de police
 
 (3) Le chef de police d’un service de police dont le fonctionnement est assuré par une commission de service de police :
+
 a) administre le service de police et surveille ses activités conformément aux politiques et au plan stratégique de la commission;
+
 b) se conforme aux enquêtes menées par le directeur des plaintes ou le directeur de l’UES et aux inspections effectuées par l’inspecteur général;
+
 c) observe les directives légitimes de la commission.
 
 ### Procédures écrites
@@ -2165,13 +2669,21 @@ c) observe les directives légitimes de la commission.
 ### Objet de la divulgation
 
 (2) Toute divulgation de renseignements faite en vertu du paragraphe (1) l’est à l’une ou plusieurs des fins suivantes :
+
 1. La protection du public.
+
 2. La protection des victimes d’actes criminels.
+
 3. L’information des victimes d’actes criminels à l’égard des procédures d’exécution de la loi ou des procédures judiciaires ou correctionnelles qui se rapportent aux actes criminels qui les ont touchées.
+
 4. L’exécution de la loi.
+
 5. Des fins correctionnelles.
+
 6. L’administration de la justice, y compris la conduite d’instances civiles.
+
 7. L’exécution et le respect de lois, de règlements ou de programmes gouvernementaux fédéraux ou provinciaux.
+
 8. L’information du public à l’égard des procédures d’exécution de la loi ou des procédures judiciaires ou correctionnelles qui se rapportent à un particulier.
 
 ### Idem
@@ -2185,16 +2697,23 @@ c) observe les directives légitimes de la commission.
 ### Enquête de l’UES au sujet d’un membre d’un service de police
 
 81 (1) Si le directeur de l’UES fait mener une enquête sur un incident en vertu de l’article 15 de la Loi de 2019 sur l’Unité des enquêtes spéciales mettant en cause un membre d’un service de police autre qu’un chef de police adjoint, le chef de police du service de police mène une enquête sur ce qui suit :
+
 a) la conduite du membre relativement à l’incident;
+
 b) les services policiers offerts par le membre relativement à l’incident;
+
 c) les procédures établies par le chef de police pour autant qu’elles ont trait à l’incident.
 
 ### Moment de la tenue de l’enquête
 
 (2) L’enquête a lieu promptement, sous réserve des règles suivantes :
+
 1. L’enquête ne doit pas être menée pendant la période visée au paragraphe 208 (3).
+
 2. Si la question faisant l’objet d’une enquête prévue par le présent article fait aussi l’objet d’une poursuite relative à une infraction prévue par une loi du Canada, d’une province ou d’un territoire, les règles suivantes s’appliquent :
+
 i. Le chef de police consulte un procureur de la Couronne ou un poursuivant et, dans le cas où l’un ou l’autre le lui conseille, reporte l’ouverture de l’enquête prévue par le présent article ou la suspend aussi longtemps que le procureur de la Couronne ou le poursuivant l’estime nécessaire pour éviter d’entraver la poursuite.
+
 ii. Que soit requis ou non le report ou la suspension en application de la sous-disposition i, le chef de police peut reporter l’ouverture de l’enquête prévue par le présent article ou la suspendre aussi longtemps qu’il l’estime nécessaire pour éviter d’entraver la poursuite.
 
 ### Enquête externe
@@ -2218,15 +2737,25 @@ ii. Que soit requis ou non le report ou la suspension en application de la sous-
 ### Fonctions d’un agent de police
 
 82 (1) L’agent de police a notamment pour fonctions :
+
 a) de préserver la paix;
+
 b) de prévenir les actes criminels et autres infractions et d’apporter aide et encouragement aux autres personnes qui participent à leur prévention;
+
 c) d’aider les victimes d’actes criminels;
+
 d) d’appréhender les criminels et autres contrevenants ainsi que les autres personnes qui peuvent légalement être placées sous garde;
+
 e) de porter des accusations et de participer à des poursuites;
+
 f) d’exécuter les mandats qui doivent être exécutés par des agents de police et d’exercer des fonctions connexes;
+
 g) d’exercer les fonctions légitimes que le chef de police lui confie;
+
 h) de suivre la formation exigée par la présente loi ou les règlements;
+
 i) d’observer le code de conduite prescrit;
+
 j) d’exercer les autres fonctions qui lui sont attribuées par la présente loi ou une autre loi ou en vertu de celles-ci, y compris les fonctions prescrites.
 
 ### Compétence partout en Ontario
@@ -2240,23 +2769,41 @@ j) d’exercer les autres fonctions qui lui sont attribuées par la présente lo
 ### Nomination des agents de police
 
 83 (1) Nul ne peut être nommé agent de police, à moins de remplir les exigences suivantes :
+
 a) être citoyen canadien ou un résident permanent du Canada;
+
 b) avoir au moins 18 ans;
+
 c) être physiquement et mentalement en mesure d’exercer les fonctions reliées au poste, en tenant compte de sa sécurité personnelle et de celle des membres du public;
+
 d) être de bonne moralité;
+
 e) avoir terminé avec succès les formations suivantes :
+
 (i) la formation prescrite par le ministre, y compris les techniques de désamorçage des situations conflictuelles et les autres questions prescrites par le ministre, à moins que la personne n’ait été dispensée de tout ou partie de cette formation conformément aux règlements pris par le ministre,
+
 (ii) la formation approuvée par le ministre en matière de droits de la personne et de racisme systémique,
+
 (iii) la formation approuvée par le ministre qui favorise la reconnaissance et le respect, à la fois :
+
 (A) du caractère diversifié, multiracial et multiculturel de la société ontarienne,
+
 (B) des droits et des cultures des Premières Nations, des Inuits et des Métis;
+
 f) remplir l’une des conditions suivantes :
+
 (i) être titulaire d’un diplôme d’études secondaires ou de l’équivalent,
+
 (ii) être titulaire :
+
 (A) soit d’un grade universitaire,
+
 (B) soit d’un grade d’un collège d’arts appliqués et de technologie ouvert en vertu de la Loi de 2002 sur les collèges d’arts appliqués et de technologie de l’Ontario qui est autorisé à décerner le grade,
+
 (C) soit d’un grade d’un établissement autochtone autorisé en vertu de la Loi de 2017 sur les établissements autochtones à décerner le grade,
+
 (iii) être titulaire d’un diplôme ou d’un diplôme de niveau avancé décerné par un collège d’arts appliqués et de technologie visé au sous-sous-alinéa (ii) (B) ou par un établissement autochtone visé au sous-sous-alinéa (ii) (C), après avoir terminé avec succès un programme qui équivaut, en heures de cours, à un programme à temps plein d’au moins quatre semestres d’études,
+
 (iv) être titulaire d’un certificat ou d’un autre document décerné par un établissement postsecondaire et attestant qu’un programme que les règlements prescrivent comme équivalant à un grade ou diplôme visé au sous-alinéa (ii) ou (iii) a été terminé avec succès.
 
 ### Licenciement antérieur pour un motif valable
@@ -2332,7 +2879,9 @@ f) remplir l’une des conditions suivantes :
 ### Incapacité après la prise en compte des besoins
 
 (2) La commission de service de police ou le commissaire peut licencier le membre, ou le mettre à la retraite s’il a le droit de prendre sa retraite avec une pension non réduite, si, après avoir tenu une audience conformément aux éventuels règlements au cours de laquelle deux médecins dûment qualifiés ont témoigné, la commission ou le commissaire établit :
+
 a) d’une part, sur la foi des renseignements disponibles, que le membre est mentalement ou physiquement incapable et ne peut en conséquence exercer les fonctions essentielles de son poste;
+
 b) d’autre part, qu’il ne peut être tenu compte des besoins du membre conformément au Code des droits de la personne sans faire subir un préjudice injustifié à la commission ou à la Couronne du chef de l’Ontario, selon le cas.
 
 ### Motifs écrits
@@ -2342,15 +2891,21 @@ b) d’autre part, qu’il ne peut être tenu compte des besoins du membre confo
 ### Restrictions relatives aux activités secondaires
 
 89 (1) Aucun membre d’un service de police dont le fonctionnement est assuré par une commission de service de police ne doit entreprendre une activité :
+
 a) qui l’entrave ou lui nuit dans l’exercice de ses fonctions en tant que membre d’un service de police, ou qui le fera vraisemblablement;
+
 b) qui le place ou le placera vraisemblablement dans une situation de conflit d’intérêts;
+
 c) qui constituerait autrement un emploi à temps plein pour une autre personne;
+
 d) qui lui procure un avantage du fait qu’il est membre d’un service de police.
 
 ### Exception : agents interprovinciaux et membres auxiliaires
 
 (2) L’alinéa (1) c) ne s’applique pas :
+
 a) aux agents de police nommés en vertu de la Loi de 2009 sur les services policiers interprovinciaux ;
+
 b) aux membres auxiliaires d’un service de police.
 
 ### Divulgation au chef de police
@@ -2400,7 +2955,9 @@ b) aux membres auxiliaires d’un service de police.
 ### Compétence des membres auxiliaires du service de police
 
 (5) Les membres auxiliaires d’un service de police ont la compétence d’un agent de police si :
+
 a) d’une part, ils sont accompagnés ou supervisés par un agent de police, conformément aux règlements pris par le ministre et aux procédures établies par le chef de police;
+
 b) d’autre part, le chef de police les a autorisés à exercer des fonctions dévolues à la police.
 
 ### Restriction
@@ -2424,35 +2981,61 @@ b) d’autre part, le chef de police les a autorisés à exercer des fonctions d
 ### Emploi
 
 91.1 Un constable spécial ne peut être que membre ou employé, selon le cas, de l’une des entités suivantes :
+
 1. Membre de la Police provinciale de l’Ontario.
+
 2. Employé par une commission de service de police.
+
 3. Employé par un employeur de constables spéciaux.
 
 ### Nomination
 
 92 (1) Une commission de service de police ou le commissaire peut nommer une personne à titre de constable spécial si celle-ci remplit les conditions suivantes :
+
 a) elle reçoit une offre d’emploi comme constable spécial de la part de l’une des entités ou personnes suivantes ou est actuellement employée comme constable spécial par l’une des entités ou personnes suivantes :
+
 (i) la commission ou le commissaire,
+
 (ii) un employeur de constables spéciaux situé dans le secteur pour lequel la responsabilité des services policiers incombe à la commission ou au commissaire;
+
 b) elle est citoyenne canadienne ou résidente permanente du Canada;
+
 c) elle est âgée d’au moins 18 ans;
+
 d) elle est physiquement et mentalement en mesure d’exercer les fonctions reliées au poste, en tenant compte de sa sécurité personnelle et de celle des membres du public;
+
 e) elle est de bonne moralité;
+
 f) elle a terminé avec succès les formations suivantes :
+
 (i) la formation prescrite par le ministre, y compris les techniques de désamorçage des situations conflictuelles et les autres questions prescrites par le ministre, à moins que la personne n’ait été dispensée de tout ou partie de cette formation conformément aux règlements pris par le ministre,
+
 (ii) la formation approuvée par le ministre en matière de droits de la personne et de racisme systémique,
+
 (iii) la formation approuvée par le ministre qui favorise la reconnaissance et le respect, à la fois :
+
 (A) du caractère diversifié, multiracial et multiculturel de la société ontarienne,
+
 (B) des droits et des cultures des Premières Nations, des Inuits et des Métis;
+
 g) elle remplit l’une des conditions suivantes :
+
 (i) être titulaire d’un diplôme d’études secondaires ou de l’équivalent,
+
 (ii) être titulaire :
+
 (A) soit d’un grade universitaire,
+
 (B) soit d’un grade d’un collège d’arts appliqués et de technologie ouvert en vertu de la Loi de 2002 sur les collèges d’arts appliqués et de technologie de l’Ontario qui est autorisé à décerner le grade,
+
 (C) soit d’un grade d’un établissement autochtone autorisé en vertu de la Loi de 2017 sur les établissements autochtones à décerner le grade,
+
 (iii) être titulaire d’un diplôme ou d’un diplôme de niveau avancé décerné par un collège d’arts appliqués et de technologie visé au sous-sous-alinéa (ii) (B) ou par un établissement autochtone visé au sous-sous-alinéa (ii) (C), après avoir terminé avec succès un programme qui équivaut, en heures de cours, à un programme à temps plein d’au moins quatre semestres d’études,
+
 (iv) être titulaire d’un certificat ou d’un autre document décerné par un établissement postsecondaire et attestant qu’un programme que les règlements prescrivent comme équivalant à un grade ou diplôme visé au sous-alinéa (ii) ou (iii) a été terminé avec succès;
+
 h) elle satisfait aux critères de formation additionnels exigés par les règlements pour pouvoir être nommée aux fins précisées à l’alinéa (7) c);
+
 i) elle satisfait à tout critère prescrit additionnel.
 
 ### Exception
@@ -2470,7 +3053,9 @@ i) elle satisfait à tout critère prescrit additionnel.
 ### Exception
 
 (5) Le paragraphe (4) ne s’applique pas si la commission de service de police ou le commissaire a conclu, avec l’entité à laquelle incombe la responsabilité des services policiers pour le secteur, un accord écrit qui :
+
 a) d’une part, autorise la commission ou le commissaire à faire une telle nomination;
+
 b) d’autre part, traite de toute autre question prescrite.
 
 ### Attestation de nomination
@@ -2480,11 +3065,17 @@ b) d’autre part, traite de toute autre question prescrite.
 ### Contenu de l’attestation de nomination
 
 (7) La commission de service de police ou le commissaire précise ce qui suit dans l’attestation de nomination :
+
 a) le nom de l’employeur qui peut employer la personne nommée comme constable spécial;
+
 b) la durée du mandat, qui ne doit pas dépasser l’éventuelle période prescrite;
+
 c) les fins auxquelles la personne peut agir à titre de constable spécial, parmi celles énoncées dans les règlements;
+
 d) les pouvoirs d’un agent de police que le constable spécial peut exercer, le cas échéant, dans la mesure et aux fins précisées à l’alinéa c);
+
 e) les armes ou l’équipement prescrit que le constable spécial est autorisé à porter ou à utiliser dans l’exercice de ses fonctions;
+
 f) toute autre condition que la commission de service de police ou le commissaire estime appropriée.
 
 ### Exception : employeur de constables spéciaux
@@ -2494,9 +3085,13 @@ f) toute autre condition que la commission de service de police ou le commissair
 ### Armes à feu
 
 (9) L’attestation de nomination ne doit pas autoriser le constable spécial à porter ou à utiliser une arme à feu dans l’exercice de ses fonctions, sauf si, selon le cas :
+
 a) le constable spécial offre des services policiers dans un autre territoire et est autorisé à porter ou à utiliser une arme à feu dans l’exercice de ses fonctions dans ce territoire;
+
 b) le constable spécial est autorisé par une loi du Canada à offrir des services policiers en Ontario et à porter ou à utiliser une arme à feu dans l’exercice de ses fonctions;
+
 c) le constable spécial est employé par la Commission des parcs du Niagara ;
+
 d) le constable spécial appartient à une catégorie prescrite par le ministre.
 
 ### Renouvellement de mandat
@@ -2510,9 +3105,13 @@ d) le constable spécial appartient à une catégorie prescrite par le ministre.
 ### Disposition transitoire
 
 (12) Les règles suivantes s’appliquent à la personne qui était titulaire d’une nomination de constable spécial en vertu de l’article 53 de la Loi sur les services policiers immédiatement avant son abrogation :
+
 1. La nomination demeure valide sous le régime de la présente loi et est réputée avoir été faite en vertu du présent article, et le constable spécial peut, malgré toute autre exigence du présent article, continuer d’exercer ses fonctions pour la durée, dans le secteur et à la fin énoncés dans sa nomination, jusqu’à l’expiration ou la révocation de son mandat ou jusqu’au renouvellement de celui-ci.
+
 2. Malgré le paragraphe 95 (6), le constable spécial continue d’être assujetti aux restrictions relatives à l’utilisation ou au port par ce dernier d’une arme à feu ou de tout autre équipement qui ont été précisées dans sa nomination, jusqu’à l’expiration ou la révocation de son mandat ou jusqu’au renouvellement de celui-ci.
+
 3. Le mandat est réputé expirer trois ans après le jour de l’entrée en vigueur du présent paragraphe s’il n’expire pas d’ici là.
+
 4. La personne peut être nommée de nouveau constable spécial, même si elle ne remplit pas les exigences en matière d’éducation énoncées à l’alinéa (1) g); par la suite, son mandat peut être renouvelé à plusieurs reprises consécutives sans qu’elle ait à remplir ces exigences.
 
 ### Modification de l’attestation de nomination
@@ -2550,17 +3149,25 @@ d) le constable spécial appartient à une catégorie prescrite par le ministre.
 ### Fonctions
 
 (5) Le constable spécial :
+
 a) exerce ses fonctions conformément aux conditions et aux fins énoncées dans l’attestation de nomination;
+
 b) exerce les pouvoirs policiers qui lui sont conférés :
+
 (i) uniquement dans la mesure et aux fins précises qui sont énoncées dans l’attestation de nomination,
+
 (ii) conformément aux éventuels règlements;
+
 c) observe le code de conduite prescrit;
+
 d) exerce les autres fonctions qui lui sont attribuées par la présente loi ou une autre loi ou en vertu de celles-ci, y compris les fonctions prescrites.
 
 ### Armes à feu, autres armes et autre équipement
 
 (6) Le constable spécial ne doit ni porter ni utiliser une arme à feu, toute autre arme ou tout autre équipement prescrit dans l’exercice de ses fonctions, sauf si, selon le cas :
+
 a) son attestation de nomination en autorise le port ou l’utilisation;
+
 b) une loi du Canada l’autorise à offrir des services policiers en Ontario et à porter ou à utiliser l’arme à feu, l’autre arme ou l’équipement dans l’exercice de ses fonctions.
 
 ### Préavis donné en cas d’exercice hors du secteur de responsabilité en matière de services policiers
@@ -2574,7 +3181,9 @@ b) une loi du Canada l’autorise à offrir des services policiers en Ontario et
 ### Exception : accord
 
 (3) Le paragraphe (1) ne s’applique pas si la commission de service de police, ou le commissaire, qui a nommé le constable spécial a conclu, avec l’entité à laquelle incombe la responsabilité des services policiers pour le secteur, un accord écrit qui :
+
 a) d’une part, autorise le constable spécial à exercer le pouvoir ou la fonction dans ce secteur;
+
 b) d’autre part, traite de toute autre question prescrite.
 
 ### Exception : préavis peu pratique
@@ -2622,27 +3231,37 @@ b) d’autre part, traite de toute autre question prescrite.
 ### Dossiers de l’employeur de constables spéciaux
 
 (9) Si un employeur de constables spéciaux n’est pas une institution au sens de la Loi sur l’accès à l’information et la protection de la vie privée ou de la Loi sur l’accès à l’information municipale et la protection de la vie privée ou n’est pas soumis à une loi comparable d’une autre autorité législative :
+
 a) ses dossiers concernant les activités et la surveillance des constables spéciaux qu’il emploie sont, pour l’application de la Loi sur l’accès à l’information et la protection de la vie privée, réputés être sous la garde et le contrôle du ministère;
+
 b) le ministre assortit de conditions l’autorisation de l’employeur de constables spéciaux de traiter des questions suivantes :
+
 (i) l’accès aux dossiers de l’employeur de constables spéciaux en vue de l’acquittement des obligations du ministère relativement à l’alinéa a),
+
 (ii) la protection des renseignements personnels dont l’employeur de constables spéciaux a la garde ou le contrôle et qui concernent les activités et la surveillance des constables spéciaux qu’il emploie.
 
 ### Définition
 
 (10) La définition qui suit s’applique au paragraphe (1).
+
 «entité à but lucratif» Société qui est constituée sous le régime de la Loi sur les sociétés par actions ou de la Loi canadienne sur les sociétés par actions, ou toute autre entité qui est prescrite.
 
 ### Fonctions de l’employeur de constables spéciaux
 
 98 (1) L’employeur de constables spéciaux :
+
 a) respecte les conditions de l’autorisation;
+
 b) exerce les autres fonctions qui lui sont attribuées par la présente loi ou une autre loi ou en vertu de celles-ci, y compris les fonctions prescrites.
 
 ### Enquête sur la conduite
 
 (2) Si le constable spécial employé par l’employeur de constables spéciaux paraît s’être conduit d’une façon qui constitue une faute, avoir contrevenu aux conditions de son attestation de nomination ou avoir contrevenu à toute autre disposition de la présente loi ou aux règlements, l’employeur de constables spéciaux :
+
 a) enquête sur la conduite et décide s’il s’agit d’une telle contravention;
+
 b) fait rapport de la contravention ou de la contravention reprochée à la commission de service de police, ou au commissaire, qui a nommé le constable spécial;
+
 c) prend les mesures appropriées pour remédier à la contravention.
 
 ### Avis de mesure prise
@@ -2660,18 +3279,27 @@ c) prend les mesures appropriées pour remédier à la contravention.
 ### Avis à la commission de service de police ou au commissaire
 
 (6) L’employeur de constables spéciaux avise la commission de service de police ou le commissaire qui a nommé un constable spécial qu’emploie l’employeur si, selon le cas :
+
 a) la situation d’emploi du constable spécial qu’il emploie a changé de quelque façon que ce soit;
+
 b) il a connaissance d’un renseignement qui pourrait raisonnablement avoir une incidence sur une évaluation visant à établir si le constable spécial remplit les conditions énoncées au paragraphe 92 (1).
 
 ### Suspension ou révocation de l’autorisation d’emploi de constables spéciaux
 
 99 (1) Sous réserve du paragraphe (2), le ministre peut suspendre ou révoquer l’autorisation de l’employeur de constables spéciaux dans les cas suivants :
+
 a) l’employeur a fourni des renseignements faux ou trompeurs dans le cadre de la présente loi ou des règlements;
+
 b) l’employeur a agi contrairement aux conditions de l’autorisation;
+
 c) le ministre est d’avis que l’employeur n’a pas pris les mesures appropriées alors qu’il savait ou aurait dû raisonnablement savoir que le constable spécial qu’il emploie a contrevenu aux conditions de son attestation de nomination ou a contrevenu à toute autre disposition de la présente loi ou aux règlements;
+
 d) l’employeur ne remplit plus les exigences prescrites pour la délivrance de l’autorisation;
+
 e) l’employeur n’a pas observé une directive donnée par l’inspecteur général en vertu de l’article 125;
+
 f) l’employeur n’observe pas toute autre disposition de la présente loi ou des règlements;
+
 g) le ministre est d’avis que l’autorisation n’est pas dans l’intérêt public.
 
 ### Occasion de répondre
@@ -2711,7 +3339,9 @@ g) le ministre est d’avis que l’autorisation n’est pas dans l’intérêt 
 ### Infraction
 
 (7) Le constable spécial qui contrevient au paragraphe (1) est coupable d’une infraction et passible, sur déclaration de culpabilité :
+
 a) dans le cas d’une première infraction, d’une amende maximale de 5 000 $;
+
 b) en cas de récidive, d’une amende maximale de 10 000 $.2019, chap. 1, annexe 1, par. 100 (7)
 
 ### Idem
@@ -2757,8 +3387,11 @@ b) en cas de récidive, d’une amende maximale de 10 000 $.2019, chap. 1, annex
 ### Commissions sous le grand sceau
 
 101.1 (1) Le lieutenant-gouverneur en conseil peut autoriser la délivrance d’une commission sous le grand sceau à l’égard de l’une ou l’autre des personnes suivantes :
+
 a) le chef de police;
+
 b) un chef de police adjoint;
+
 c) un agent de police qui a atteint un grade prescrit.
 
 ### Agents de Première Nation nommés au grade d’officier
@@ -2788,27 +3421,41 @@ c) un agent de police qui a atteint un grade prescrit.
 ### Maintien en fonction
 
 (3) Le lieutenant-gouverneur en conseil peut, par décret, autoriser une personne nommée inspecteur général à demeurer en fonction après l’expiration de son mandat jusqu’à la première en date des échéances suivantes :
+
 a) neuf mois après l’expiration de son mandat;
+
 b) le jour de la nomination de son successeur.
 
 ### Fonctions de l’inspecteur général
 
 (4) L’inspecteur général a les fonctions suivantes :
+
 a) surveiller les commissions de service de police, les conseils de détachement de la Police provinciale, les conseils de Première Nation sur la Police provinciale, les chefs de police, les employeurs de constables spéciaux, les services de police et les prestataires de services policiers prescrits et effectuer des inspections auprès de ceux-ci pour veiller à ce qu’ils observent la présente loi et les règlements;
+
 b) consulter et conseiller, en ce qui concerne l’observation de la présente loi et des règlements, les commissions de service de police, les conseils de détachement de la Police provinciale, les conseils de Première Nation sur la Police provinciale, les chefs de police, les employeurs de constables spéciaux, les services de police, les prestataires de services policiers prescrits et les entités prescrites;
+
 c) surveiller les membres des commissions de service de police, des conseils de détachement de la Police provinciale et des conseils de Première Nation sur la Police provinciale et effectuer des inspections auprès de ceux-ci pour veiller à ce qu’ils ne commettent pas de faute;
+
 d) établir, tenir et administrer des dossiers et effectuer des recherches et des analyses en ce qui concerne l’observation de la présente loi et des règlements;
+
 e) traiter les plaintes déposées en vertu des articles 106 et 107 et les divulgations de fautes faites en vertu de l’article 185;
+
 f) présenter un rapport annuel au ministre;
+
 g) exercer les autres fonctions qui lui sont attribuées par la présente loi ou une autre loi ou en vertu de celles-ci, y compris les fonctions prescrites.
 
 ### Formation requise
 
 (5) L’inspecteur général et tout sous-inspecteur général ne doivent exercer aucun des pouvoirs ou fonctions que leur attribue la présente loi à moins d’avoir terminé avec succès :
+
 a) la formation approuvée par le ministre en matière de droits de la personne et de racisme systémique;
+
 b) la formation approuvée par le ministre qui favorise la reconnaissance et le respect, à la fois :
+
 (i) du caractère diversifié, multiracial et multiculturel de la société ontarienne,
+
 (ii) des droits et des cultures des Premières Nations, des Inuits et des Métis;
+
 c) toute autre formation prescrite par le ministre.
 
 ### Rôle relatif aux agents de police et constables spéciaux
@@ -2830,13 +3477,21 @@ c) toute autre formation prescrite par le ministre.
 ### Rapport annuel
 
 103 (1) Au plus tard le 30 juin de chaque année, l’inspecteur général dépose auprès du ministre un rapport annuel, qui traite au minimum des questions suivantes :
+
 1. Les activités de l’inspecteur général, notamment :
+
 i. les inspections effectuées,
+
 ii. les plaintes traitées aux termes des articles 106 et 107,
+
 iii. les avis envoyés au directeur des plaintes ou au directeur de l’UES,
+
 iv. les directives données en vertu de l’article 125,
+
 v. les mesures imposées en vertu de l’article 126.
+
 2. L’observation de la présente loi et des règlements par les commissions de service de police, les conseils de détachement de la Police provinciale, les conseils de Première Nation sur la Police provinciale, les chefs de police, les employeurs de constables spéciaux, les services de police et les prestataires de services policiers prescrits.
+
 3. Les autres questions prescrites.
 
 ### Publication et dépôt
@@ -2864,7 +3519,9 @@ v. les mesures imposées en vertu de l’article 126.
 ### Renseignements personnels
 
 105 (1) L’inspecteur général ne peut recueillir, directement ou indirectement, des renseignements personnels en vertu du paragraphe 104 (1) ou (2) que s’il est nécessaire de le faire à l’une ou l’autre des fins suivantes :
+
 a) s’acquitter de ses fonctions prévues à l’alinéa 102 (4) a), c), d) ou e);
+
 b) s’acquitter de ses fonctions prévues par la présente loi ou les règlements ayant trait aux renvois des cas de conduite pouvant constituer une conduite criminelle ou une faute.
 
 ### Autres renseignements permettant de réaliser la fin visée
@@ -2890,7 +3547,9 @@ b) s’acquitter de ses fonctions prévues par la présente loi ou les règlemen
 ### Avis exigé par le par. 39 (2) de la loi sur l’accès à l’information
 
 (7) Si l’inspecteur général recueille indirectement des renseignements personnels en vertu du paragraphe (1), l’avis exigé par le paragraphe 39 (2) de la Loi sur l’accès à l’information et la protection de la vie privée peut être donné :
+
 a) soit au moyen d’un avis public affiché sur un site Web du gouvernement de l’Ontario;
+
 b) soit par un autre mode prescrit.
 
 ### Droit d’accès et droit à la rectification
@@ -2906,15 +3565,21 @@ b) soit par un autre mode prescrit.
 ### Plainte frivole, vexatoire ou de mauvaise foi
 
 (2) L’inspecteur général peut refuser d’enquêter sur une plainte déposée en vertu du paragraphe (1) ou émanant du directeur des plaintes s’il estime que, selon le cas :
+
 a) la plainte est frivole ou vexatoire ou a été faite de mauvaise foi;
+
 b) eu égard à toutes les circonstances, il n’est pas dans l’intérêt public de traiter la plainte.
 
 ### Idem
 
 (3) Pour établir, en application de l’alinéa (2) b), s’il est dans l’intérêt public ou non d’enquêter sur une plainte, l’inspecteur général tient compte de ce qui suit :
+
 a) la question de savoir si l’objet de la plainte a fait ou fait actuellement l’objet d’une enquête ou d’une inspection sous le régime de la présente loi ou d’une loi qu’elle remplace;
+
 b) la question de savoir s’il serait plus approprié de traiter l’objet de la plainte, en totalité ou en partie, sous le régime d’une autre loi ou d’une autre règle de droit, ou dans un autre cadre plus adapté;
+
 c) la question de savoir si la décision de ne pas mener d’enquête aurait des répercussions négatives sur la confiance du public à l’égard des services policiers;
+
 d) la question de savoir s’il est raisonnablement possible dans les circonstances de mener une enquête compte tenu des renseignements ou des preuves disponibles.
 
 ### Devoir d’informer
@@ -2924,7 +3589,9 @@ d) la question de savoir s’il est raisonnablement possible dans les circonstan
 ### Motifs d’enquête
 
 (5) S’il semble y avoir des motifs de croire que le membre a commis une faute, l’inspecteur général :
+
 a) d’une part, enquête sur la question, y compris, s’il y a lieu, en nommant un inspecteur chargé d’exercer les pouvoirs que la présente partie confère aux inspecteurs;
+
 b) d’autre part, informe le plaignant de l’enquête et le tient au courant des mesures prises pour régler la plainte.
 
 ### Aucun motif de complément d’enquête
@@ -2938,23 +3605,33 @@ b) d’autre part, informe le plaignant de l’enquête et le tient au courant d
 ### Plaintes au sujet des services policiers
 
 107 (1) Toute personne, autre qu’une personne prescrite, peut déposer une plainte auprès de l’inspecteur général conformément aux éventuels règlements, en ce qui concerne l’une ou l’autre des questions suivantes :
+
 a) le caractère convenable et l’efficacité des services policiers offerts en application de la présente loi ou des règlements, notamment les services policiers offerts par un prestataire de services policiers prescrit, un employeur de constables spéciaux ou une entité prescrite;
+
 b) l’inobservation de la présente loi ou des règlements, y compris un manquement systémique, autre que la commission d’une faute, par une commission de service de police, un conseil de détachement de la Police provinciale, un conseil de Première Nation sur la Police provinciale, un chef de police, un employeur de constables spéciaux, un service de police ou un prestataire de services policiers prescrit;
+
 c) les politiques, les règlements administratifs, les règles ou les procédures d’une commission de service de police, d’un conseil de détachement de la Police provinciale, d’un conseil de Première Nation sur la Police provinciale ou du ministre;
+
 d) les procédures établies par un chef de police.
 
 ### Plainte frivole, vexatoire ou de mauvaise foi
 
 (2) L’inspecteur général peut refuser d’enquêter sur une plainte reçue en vertu du paragraphe (1) s’il estime que, selon le cas :
+
 a) la plainte est frivole ou vexatoire ou a été faite de mauvaise foi;
+
 b) eu égard à toutes les circonstances, il n’est pas dans l’intérêt public de traiter la plainte.
 
 ### Idem
 
 (3) Pour établir, en application de l’alinéa (2) b), s’il est dans l’intérêt public ou non d’enquêter sur une plainte, l’inspecteur général tient compte de ce qui suit :
+
 a) la question de savoir si l’objet de la plainte a fait ou fait actuellement l’objet d’une enquête ou d’une inspection sous le régime de la présente loi ou d’une loi qu’elle remplace;
+
 b) la question de savoir s’il serait plus approprié de traiter l’objet de la plainte, en totalité ou en partie, sous le régime d’une autre loi ou d’une autre règle de droit, ou dans un autre cadre plus adapté;
+
 c) la question de savoir si la décision de ne pas mener d’enquête aurait des répercussions négatives sur la confiance du public à l’égard des services policiers;
+
 d) la question de savoir s’il est raisonnablement possible dans les circonstances de mener une enquête compte tenu des renseignements ou des preuves disponibles.
 
 ### Devoir d’informer
@@ -2964,23 +3641,33 @@ d) la question de savoir s’il est raisonnablement possible dans les circonstan
 ### Motifs d’enquête
 
 (5) S’il semble y avoir des motifs de croire que la question faisant l’objet de la plainte justifie une enquête, l’inspecteur général :
+
 a) d’une part, enquête sur la question, y compris, s’il y a lieu, en nommant un inspecteur chargé d’exercer les pouvoirs que la présente partie confère aux inspecteurs;
+
 b) d’autre part, informe le plaignant de l’enquête et le tient au courant des mesures prises pour régler la plainte.
 
 ### Plainte touchant les politiques ou procédures
 
 (6) Si la plainte ne se rapporte pas aux questions visées à l’alinéa (1) a) ou b), ou s’il ne semble pas y avoir de motifs pour procéder à un complément d’enquête sur ces questions, et que la plainte se rapporte aux politiques, aux règlements administratifs, aux règles ou aux procédures visés à l’alinéa (1) c) ou d), l’inspecteur général :
+
 a) d’une part, transmet la plainte au ministre et, selon le cas :
+
 (i) Abrogé : 2023, chap. 12, annexe 1, par. 46 (3).
+
 (ii) à la commission de service de police qui assure le fonctionnement du service de police, si elle se rapporte aux politiques, aux règlements administratifs, aux règles ou aux procédures de la commission ou aux procédures établies par le chef de police,
+
 (iii) au conseil de détachement de la Police provinciale ou au conseil de Première Nation sur la Police provinciale, si elle se rapporte aux politiques locales, aux règlements administratifs, aux règles ou aux procédures du conseil;
+
 b) d’autre part, informe le plaignant de la décision ainsi que des personnes ou des organismes auxquels la plainte a été transmise.
 
 ### Rapport
 
 (7) La commission de service de police, le conseil de détachement de la Police provinciale ou le conseil de Première Nation sur la Police provinciale qui reçoit une plainte en vertu du paragraphe (6) :
+
 a) examine la plainte en ce qu’elle se rapporte aux politiques, aux règlements administratifs, aux règles ou aux procédures visés à l’alinéa (1) c) ou d);
+
 b) fait rapport à l’inspecteur général dans le délai précisé par ce dernier, le cas échéant, des mesures prises en réponse à la plainte;
+
 c) présente un rapport au ministre au sujet des mesures prises en réponse à la plainte.
 
 ### Idem
@@ -2998,17 +3685,29 @@ c) présente un rapport au ministre au sujet des mesures prises en réponse à l
 ### Transmission des plaintes
 
 108 (1) Si une personne qui peut déposer une plainte à l’inspecteur général en vertu de l’article 106 ou 107 la dépose plutôt auprès de l’une ou l’autre des personnes ou entités suivantes, cette personne ou entité transmet la plainte à l’inspecteur général, informe la personne qui a déposé la plainte que celle-ci a été transmise et lui fournit des renseignements sur le rôle de l’inspecteur général :
+
 1. Le ministre.
+
 2. Le directeur des plaintes, un directeur adjoint des plaintes ou un enquêteur nommé en vertu de l’article 136.
+
 3. Le directeur de l’UES ou un employé ou un enquêteur au sein de l’Unité des enquêtes spéciales.
+
 4. Un chef de police.
+
 5. Une commission de service de police ou un membre d’une telle commission.
+
 6. Un conseil de détachement de la Police provinciale ou un membre d’un tel conseil.
+
 7. Un conseil de Première Nation sur la Police provinciale ou un membre d’un tel conseil.
+
 8. Abrogée : 2023, chap. 12, annexe 1, art. 47.
+
 9. Un employeur de constables spéciaux.
+
 10. Une entité prescrite.
+
 11. Un prestataire de services policiers prescrit.
+
 12. Toute autre personne ou entité prescrite par le ministre.
 
 ### Plainte reçue par un membre d’un service de police ou un constable spécial
@@ -3048,18 +3747,27 @@ c) présente un rapport au ministre au sujet des mesures prises en réponse à l
 ### Imposition de mesures provisoires
 
 (2) L’inspecteur général peut imposer une ou plusieurs des mesures provisoires prévues au paragraphe (3) si les circonstances suivantes sont réunies :
+
 1. L’inspecteur général n’a pas refusé de donner suite à la plainte, refus que permet le paragraphe 109 (2).
+
 2. Il semble y avoir des motifs de croire que le membre a commis une faute.
+
 3. L’inspecteur général a fait effectuer une inspection en vertu du paragraphe 111 (2) pour répondre à la plainte, mais l’inspection n’a pas été menée à terme.
+
 4. L’inspecteur général estime qu’il est urgent que la mesure soit prise à l’une des fins suivantes :
+
 i. dans le cas d’une plainte relative à un membre d’une commission de service de police, veiller à ce que la confiance du public dans le service de police dont le fonctionnement est assuré par la commission ne soit pas minée,
+
 ii. dans le cas d’une plainte relative à un membre d’une commission de service de police, d’un conseil de détachement de la Police provinciale ou d’un conseil de Première Nation sur la Police provinciale, veiller à ce que la confiance du public dans la commission ou le conseil ne soit pas minée.
 
 ### Mesures provisoires
 
 (3) Les mesures provisoires visées au paragraphe (2) sont les suivantes :
+
 1. La suspension du membre.
+
 2. L’imposition de conditions au membre dans l’exercice de ses pouvoirs ou fonctions à titre de membre de la commission ou du conseil.
+
 3. Toute autre mesure prescrite.
 
 ### Révocation, modification ou réimposition
@@ -3077,8 +3785,11 @@ ii. dans le cas d’une plainte relative à un membre d’une commission de serv
 ### Fin d’une mesure provisoire
 
 (7) Une mesure provisoire cesse d’avoir effet le premier en date des jours suivants :
+
 1. Le jour où la mesure est révoquée.
+
 2. Le jour où le membre reçoit de l’inspecteur général un avis l’informant qu’aucune autre mesure ne sera prise à l’égard de l’enquête.
+
 3. Le jour où l’inspecteur général exerce un pouvoir en vertu de l’article 124 par suite de l’enquête.
 
 ### Nombre insuffisant de membres
@@ -3088,9 +3799,13 @@ ii. dans le cas d’une plainte relative à un membre d’une commission de serv
 ### Idem
 
 (9) L’inspecteur général :
+
 a) précise dans l’acte de la nomination faite en vertu du paragraphe (8) que la personne nommée ne peut exercer que les pouvoirs ou les fonctions nécessaires au bon fonctionnement de la commission ou du conseil, pendant l’enquête sur la plainte et, à cette fin, peut préciser les pouvoirs ou les fonctions que la personne nommée peut ou ne peut pas exercer;
+
 b) annule la nomination faite en vertu du paragraphe (8) le premier en date des jours suivants :
+
 (i) le jour où la nomination n’est plus nécessaire pour permettre à la commission ou au conseil d’avoir suffisamment de membres pouvant exercer leurs pouvoirs ou fonctions afin de constituer un quorum,
+
 (ii) le jour où se termine la période visée au paragraphe (7).
 
 ### Rapport
@@ -3106,15 +3821,21 @@ b) annule la nomination faite en vertu du paragraphe (8) le premier en date des 
 ### Imposition de mesures provisoires
 
 (2) L’inspecteur général peut imposer une ou plusieurs des mesures provisoires prévues au paragraphe (3) si les circonstances suivantes sont réunies :
+
 1. L’inspecteur général n’a pas refusé de donner suite à la plainte, refus que permet le paragraphe 109 (2).
+
 2. Il semble y avoir des motifs de croire que la question faisant l’objet de la plainte justifie une enquête.
+
 3. L’inspecteur général a fait effectuer une inspection en vertu du paragraphe 111 (2) pour répondre à la plainte, mais l’inspection n’a pas été menée à terme.
+
 4. L’inspecteur général estime qu’il est urgent que la mesure soit prise pour assurer la prestation de services policiers convenables et efficaces.
 
 ### Mesures provisoires
 
 (3) Les mesures provisoires visées au paragraphe (2) sont les suivantes :
+
 1. Sous réserve des règlements, une directive écrite donnée à une commission de service de police, à un chef de police, à un service de police ou à un prestataire de services policiers prescrit.
+
 2. La nomination d’un administrateur.
 
 ### Directives
@@ -3152,7 +3873,9 @@ b) annule la nomination faite en vertu du paragraphe (8) le premier en date des 
 ### Fin d’une mesure provisoire
 
 (12) Une mesure provisoire cesse d’avoir effet le premier en date des jours suivants :
+
 1. Le jour où la mesure est révoquée.
+
 2. Le jour où l’inspecteur général avise la personne ou l’entité qui est visée par l’imposition d’une mesure provisoire de sa décision de donner ou non une directive visée à l’article 125.
 
 ### Rapport
@@ -3172,8 +3895,11 @@ b) annule la nomination faite en vertu du paragraphe (8) le premier en date des 
 ### Pouvoir d’inspecter
 
 (2) L’inspecteur général peut faire effectuer par un inspecteur une inspection à l’une des fins suivantes :
+
 a) établir si un membre d’une commission de service de police, d’un conseil de détachement de la Police provinciale ou d’un conseil de Première Nation sur la Police provinciale a commis ou commet une faute;
+
 b) établir si une commission de service de police, un conseil de détachement de la Police provinciale, un conseil de Première Nation sur la Police provinciale, un chef de police, un employeur de constables spéciaux, un service de police ou un prestataire de services policiers prescrit observe ou a observé la présente loi et les règlements;
+
 c) exercer toute autre fonction que la présente loi ou les règlements attribuent à l’inspecteur général.
 
 ### Pouvoir d’inspecter en réponse aux plaintes
@@ -3183,10 +3909,15 @@ c) exercer toute autre fonction que la présente loi ou les règlements attribue
 ### Formation requise
 
 (3) Un inspecteur nommé en vertu du présent article ne doit exercer aucun des pouvoirs ou fonctions que lui attribue la présente loi à moins d’avoir terminé avec succès :
+
 a) la formation approuvée par le ministre en matière de droits de la personne et de racisme systémique;
+
 b) la formation approuvée par le ministre qui favorise la reconnaissance et le respect, à la fois :
+
 (i) du caractère diversifié, multiracial et multiculturel de la société ontarienne,
+
 (ii) des droits et des cultures des Premières Nations, des Inuits et des Métis;
+
 c) toute autre formation prescrite par le ministre.
 
 ### Conduite constituant une faute
@@ -3242,7 +3973,9 @@ c) toute autre formation prescrite par le ministre.
 ### Inspections sans ordonnance
 
 113 (1) L’inspecteur peut, à toute heure raisonnable, pénétrer dans un lieu, y compris un réceptacle ou véhicule, dont le propriétaire ou l’occupant est une commission de service de police, un conseil de détachement de la Police provinciale, un conseil de Première Nation sur la Police provinciale, un employeur de constables spéciaux, un prestataire de services policiers prescrit ou une entité prescrite, ou qui est utilisé par des membres d’un service de police, à une fin prévue au paragraphe 111 (2) s’il croit, en se fondant sur des motifs raisonnables :
+
 a) soit qu’il s’y trouve des choses, des documents ou des données se rapportant à cette fin;
+
 b) soit qu’il s’y déroule ou s’y est déroulée une activité ayant trait à l’objet de l’inspection.
 
 ### Experts
@@ -3260,15 +3993,21 @@ b) soit qu’il s’y déroule ou s’y est déroulée une activité ayant trait
 ### Ordonnance d’inspection
 
 114 (1) L’inspecteur peut, sans préavis, demander à un juge de paix ou à un juge provincial de rendre une ordonnance prévue au présent article l’autorisant à pénétrer et à effectuer une inspection :
+
 a) soit dans un lieu visé au paragraphe 113 (1) qui est un logement ou qui comporte un logement;
+
 b) soit dans un lieu, y compris un réceptacle ou un véhicule, qui est utilisé par un chef de police ou un membre d’une commission de service de police, d’un conseil de détachement de la Police provinciale ou d’un conseil de Première Nation sur la Police provinciale, relativement à l’exercice des fonctions que lui attribuent la présente loi ou les règlements.
 
 ### Prononcé de l’ordonnance
 
 (2) Un juge de paix ou un juge provincial peut rendre une ordonnance autorisant l’inspecteur à pénétrer dans un lieu visé au paragraphe (1) et à y exercer l’un ou l’autre des pouvoirs énoncés dans l’ordonnance si le juge est convaincu, sur la foi d’une dénonciation faite sous serment ou affirmation solennelle, de ce qui suit :
+
 a) l’inspection vise une fin prévue au paragraphe 111 (2);
+
 b) il existe des motifs raisonnables de croire :
+
 (i) soit qu’il s’y trouve des choses, des documents ou des données se rapportant à l’objet de l’inspection,
+
 (ii) soit qu’il s’y déroule ou s’y est déroulée une activité ayant trait à l’objet de l’inspection.
 
 ### Pouvoirs en cas d’entrée
@@ -3306,12 +4045,19 @@ b) il existe des motifs raisonnables de croire :
 ### Pouvoirs au cours de l’inspection
 
 115 (1) L’inspecteur peut faire une ou plusieurs des choses suivantes lorsqu’il pénètre dans un lieu et y effectue une inspection en vertu de la présente partie :
+
 1. Examiner tout ce qui a trait à l’inspection.
+
 2. Examiner, enregistrer ou copier des choses, des données ou des renseignements, sous quelque forme que ce soit et par quelque moyen que ce soit.
+
 3. Exiger la production de choses, de documents ou de données, sous quelque forme que ce soit, qui doivent être conservés en application de la présente loi ou des règlements, et celle d’autres choses, documents ou données, sous quelque forme que ce soit, qui sont liés à l’objet de l’inspection.
+
 4. Enlever du lieu, afin d’en faire des copies, les choses, les documents ou les données produits en application de la disposition 3.
+
 5. Présenter à une personne des demandes raisonnables de renseignements, oralement ou par écrit.
+
 6. Prélever des échantillons à des fins d’analyse.
+
 7. Effectuer des tests ou prendre des mesures.
 
 ### Restriction
@@ -3337,7 +4083,9 @@ b) il existe des motifs raisonnables de croire :
 ### Réunions à huis clos
 
 (7) L’inspecteur est autorisé à s’introduire dans une réunion d’une commission de service de police, d’un conseil de détachement de la Police provinciale, d’un conseil de Première Nation sur la Police provinciale ou d’un comité d’une telle commission ou d’un tel conseil afin de surveiller la réunion ou d’effectuer une inspection aux termes de la présente partie, sauf, selon le cas :
+
 a) pendant toute partie de la réunion au cours de laquelle le sujet à l’étude consiste en des conseils qui seraient inadmissibles devant un tribunal en raison d’un privilège reconnu en droit de la preuve;
+
 b) dans des circonstances prescrites.
 
 ### Avis
@@ -3347,10 +4095,15 @@ b) dans des circonstances prescrites.
 ### Pouvoir d’exiger des réponses
 
 116 (1) L’inspecteur peut, à toute heure raisonnable, exiger que l’une ou l’autre des personnes ou entités suivantes réponde aux demandes raisonnables de renseignements ayant trait à l’objet de l’inspection :
+
 1. Un membre ou un employé d’une commission de service de police, y compris un membre d’un service de police dont le fonctionnement est assuré par une commission de service de police.
+
 2. Un membre de la Police provinciale de l’Ontario.
+
 3. Un membre ou un employé d’un conseil de détachement de la Police provinciale ou d’un conseil de Première Nation sur la Police provinciale.
+
 4. Un employeur de constables spéciaux, un prestataire de services policiers prescrit ou une entité prescrite, ou un dirigeant, un administrateur ou un employé d’un tel employeur, d’un tel prestataire ou d’une telle entité.
+
 5. Une entité qui emploie des agents de Première Nation qui assurent des fonctions policières conformément à un accord visé à l’article 27.
 
 ### Idem
@@ -3384,10 +4137,15 @@ b) dans des circonstances prescrites.
 ### Secret professionnel
 
 119 L’inspecteur général, les sous-inspecteurs généraux et les inspecteurs nommés en vertu de l’article 111 sont tenus au secret à l’égard des renseignements qu’ils obtiennent dans le cadre de l’exercice des pouvoirs ou fonctions que leur attribue la présente loi et ne doivent pas les communiquer à qui que ce soit, sauf, selon le cas :
+
 a) dans la mesure où l’exige l’application de la présente loi ou des règlements;
+
 b) à leur avocat;
+
 c) dans la mesure où l’exige l’exécution de la loi;
+
 d) avec le consentement de la personne concernée par les renseignements, le cas échéant;
+
 e) lorsque la divulgation est par ailleurs exigée par la loi.
 
 ### Avis
@@ -3403,7 +4161,9 @@ e) lorsque la divulgation est par ailleurs exigée par la loi.
 ### Avis de faute
 
 (2) Si l’inspecteur a connaissance, au cours d’une inspection effectuée aux termes de la présente partie, qu’un agent de police, un constable spécial employé par la Commission des parcs du Niagara, un membre d’une commission de service de police, d’un conseil de détachement de la Police provinciale ou d’un conseil de Première Nation sur la Police provinciale, ou un agent de la paix du Service de protection de l’Assemblée législative pourrait s’être conduit d’une façon qui constitue une faute :
+
 a) l’inspecteur avise l’inspecteur général;
+
 b) s’il est allégué que la faute a été commise par un agent de police, un constable spécial employé par la Commission des parcs du Niagara ou un agent de la paix du Service de protection de l’Assemblée législative, l’inspecteur général avise le directeur des plaintes.
 
 ### Avis d’infraction criminelle ou d’incapacité
@@ -3421,13 +4181,17 @@ b) s’il est allégué que la faute a été commise par un agent de police, un 
 ### Renvoi à un autre chef de police
 
 121 Si l’inspecteur général est avisé, en application du paragraphe 120 (3) ou (5), du fait qu’une infraction criminelle pourrait avoir été commise :
+
 a) l’inspecteur général renvoie la question au chef de police d’un service de police non concerné;
+
 b) le chef de police visé à l’alinéa a) enquête sur la question.
 
 ### Fonctions des membres d’une commission ou d’un conseil pendant et après l’enquête
 
 122 (1) L’inspecteur général peut ordonner au membre d’une commission de service de police, d’un conseil de détachement de la Police provinciale ou d’un conseil de Première Nation sur la Police provinciale de refuser d’exercer les pouvoirs ou les fonctions en tant que membre de la commission ou du conseil à partir de la période qui commence au début d’une enquête sur sa conduite aux termes de la présente partie et qui se termine le premier en date des jours suivants :
+
 1. Le jo ur où le membre reçoit de l’inspecteur général un avis l’informant qu’aucune autre mesure ne sera prise à l’égard de l’enquête.
+
 2. Le jo ur où l’inspecteur général exerce un pouvoir en vertu de l’article 124 par suite de l’enquête.
 
 ### Nombre insuffisant de membres
@@ -3437,7 +4201,9 @@ b) le chef de police visé à l’alinéa a) enquête sur la question.
 ### Idem
 
 (3) L’inspecteur général :
+
 a) précise dans l’acte de la nomination faite en vertu du paragraphe (2) que la personne nommée ne peut exercer que les pouvoirs ou les fonctions nécessaires au bon fonctionnement de la commission ou du conseil, pendant l’enquête et, à cette fin, peut préciser les pouvoirs ou les fonctions que la personne nommée peut ou ne peut pas exercer;
+
 b) annule la nomination faite en vertu du paragraphe (2) dès que se termine la période visée au paragraphe (1).
 
 ### Résultats de l’inspection
@@ -3457,8 +4223,11 @@ b) annule la nomination faite en vertu du paragraphe (2) dès que se termine la 
 ### Pouvoirs de l’inspecteur général
 
 124 (1) Si, à son avis, le rapport présenté aux termes du paragraphe 123 (1) révèle des preuves de la commission d’une faute par un membre d’une commission ou d’un conseil, l’inspecteur général peut :
+
 a) réprimander le membre de la commission ou du conseil, selon le cas;
+
 b) suspendre le membre de la commission ou du conseil, selon le cas, pour la période fixée ou jusqu’à ce qu’il ait satisfait aux conditions précisées;
+
 c) révoquer le membre de la commission ou du conseil.
 
 ### Avis donné avant l’imposition de mesures
@@ -3512,8 +4281,11 @@ c) révoquer le membre de la commission ou du conseil.
 ### Directive
 
 (5) La directive :
+
 a) est donnée par écrit;
+
 b) précise la disposition de la présente loi ou des règlements qui, de l’avis de l’inspecteur général, n’a pas été observée ou ne sera probablement pas observée;
+
 c) contient une brève description de la nature de l’inobservation ou de l’inobservation probable.
 
 ### Réexamen
@@ -3531,21 +4303,37 @@ c) contient une brève description de la nature de l’inobservation ou de l’i
 ### Inobservation d’une directive de l’inspecteur général
 
 126 (1) Si la personne visée par une directive donnée en vertu de l’article 125 n’observe pas celle-ci, l’inspecteur général peut imposer une ou plusieurs des mesures suivantes pour remédier à l’inobservation :
+
 1. Dans le cas d’un service de police autre que la Police provinciale de l’Ontario, d’une commission de service de police ou d’un chef de police autre que le commissaire, l’inspecteur général peut :
+
 i. suspendre le chef de police, un ou plusieurs membres de la commission de service de police ou la totalité de ses membres pour la période fixée,
+
 ii. révoquer le chef de police, un ou plusieurs membres de la commission de service de police ou la totalité de ses membres,
+
 iii. nommer un administrateur chargé d’administrer le service de police ou d’accomplir d’autres fonctions précises relativement aux services policiers offerts dans le secteur que dessert le service de police conformément à l’article 127,
+
 iv. dissoudre la commission de service de police et démanteler le service de police.
+
 2. Dans le cas de la Police provinciale de l’Ontario ou du commissaire, l’inspecteur général peut :
+
 i. ordonner au commissaire d’observer la directive,
+
 ii. recommander au lieutenant-gouverneur en conseil la suspension ou la destitution du commissaire,
+
 iii. avec l’approbation du lieutenant-gouverneur en conseil, nommer un administrateur chargé d’administrer la Police provinciale de l’Ontario ou d’accomplir d’autres fonctions précises relativement aux services policiers offerts dans le secteur que dessert le service de police conformément à l’article 127.
+
 3. Dans le cas d’un conseil de détachement de la Police provinciale ou d’un conseil de Première Nation sur la Police provinciale, l’inspecteur général peut :
+
 i. suspendre un ou plusieurs membres du conseil ou la totalité de ses membres pour la période fixée,
+
 ii. révoquer un ou plusieurs membres du conseil ou la totalité de ses membres,
+
 iii. dans le cas d’un conseil de Première Nation sur la Police provinciale dissoudre le conseil.
+
 4. Abrogée : 2023, chap. 12, annexe 1, par. 57 (1).
+
 5. Dans le cas d’un employeur de constables spéciaux, l’inspecteur général peut révoquer son autorisation d’emploi de constables spéciaux ou l’assortir de conditions.
+
 6. Dans le cas d’un prestataire de services policiers prescrit, l’inspecteur général peut nommer un administrateur chargé de l’administrer conformément à l’article 127.
 
 ### Examen de mesures moins sévères
@@ -3563,7 +4351,9 @@ iii. dans le cas d’un conseil de Première Nation sur la Police provinciale di
 ### Avis
 
 (4) L’inspecteur général donne immédiatement avis au ministre de toute mesure mise en oeuvre en vertu du présent article et, si la mesure est prise à l’encontre d’un particulier, l’inspecteur général avise également immédiatement :
+
 a) dans le cas d’un chef de police ou d’un chef de police adjoint, autre que le commissaire ou un sous-commissaire, la commission de service de police;
+
 b) dans le cas d’un membre d’une commission de service de police, d’un conseil de détachement de la Police provinciale ou d’un conseil de Première Nation sur la Police provinciale, la personne ou l’entité qui a nommé le membre.
 
 ### Critères de dissolution et de démantèlement
@@ -3675,7 +4465,9 @@ b) dans le cas d’un membre d’une commission de service de police, d’un con
 ### Infraction
 
 (5) Le particulier qui contrevient au paragraphe (1), (2), (3) ou (4) est coupable d’une infraction et passible, sur déclaration de culpabilité :
+
 a) dans le cas d’une première infraction, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines.
 
 ### Idem
@@ -3691,7 +4483,9 @@ b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonne
 ### Composition
 
 (2) L’Agence des plaintes contre les forces de l’ordre est dirigée par le directeur des plaintes nommé en application du paragraphe 131 (1) et comprend, outre le directeur, les personnes suivantes :
+
 a) les éventuels directeurs adjoints des plaintes nommés en application de ce paragraphe;
+
 b) les personnes nommées à titre de personnes employées à l’Agence conformément à l’article 135.
 
 ### Directeur des plaintes
@@ -3721,18 +4515,27 @@ b) les personnes nommées à titre de personnes employées à l’Agence conform
 ### Fonctions
 
 132 (1) Le directeur des plaintes :
+
 a) traite les plaintes du public déposées en vertu de la partie X conformément à cette partie et aux règlements;
+
 b) met en oeuvre des programmes et des services pour aider les membres du public lorsqu’ils déposent une plainte en vertu de la partie X;
+
 c) publie des rapports statistiques en vue d’étayer l’évaluation, la gestion et l’amélioration des services policiers en Ontario, ainsi que la gestion des plaintes du public déposées en vertu de la partie X;
+
 d) doit exercer les fonctions et peut exercer les pouvoirs énoncés dans la présente loi, notamment les autres fonctions et pouvoirs prescrits.
 
 ### Formation requise
 
 (2) Le directeur des plaintes ou un directeur adjoint des plaintes ne doit exercer aucun des pouvoirs ou fonctions que lui attribue la présente loi à moins d’avoir terminé avec succès :
+
 a) la formation approuvée par le ministre en matière de droits de la personne et de racisme systémique;
+
 b) la formation approuvée par le ministre qui favorise la reconnaissance et le respect, à la fois :
+
 (i) du caractère diversifié, multiracial et multiculturel de la société ontarienne,
+
 (ii) des droits et des cultures des Premières Nations, des Inuits et des Métis;
+
 c) toute autre formation prescrite par le ministre.
 
 ### Directives du ministre
@@ -3742,7 +4545,9 @@ c) toute autre formation prescrite par le ministre.
 ### Examen de questions d’ordre systémique
 
 133 (1) Le directeur des plaintes peut examiner des questions d’ordre systémique qui, selon le cas :
+
 a) ont fait l’objet de plaintes déposées ou d’enquêtes menées en vertu de la partie X à l’égard d’une personne visée à l’article 152;
+
 b) sont liées à une faute commise par une personne visée à l’article 152, ou pourraient s’y rapporter.
 
 ### Préavis à l’inspecteur général
@@ -3752,7 +4557,9 @@ b) sont liées à une faute commise par une personne visée à l’article 152, 
 ### Recommandations
 
 (3) À la suite d’un examen visé au paragraphe (1), le directeur des plaintes peut, à la fois :
+
 a) faire des recommandations écrites à l’inspecteur général, au ministre, à un chef de police, à une commission de service de police ou à toute autre personne ou tout autre organisme;
+
 b) exiger par écrit qu’une personne ou un organisme à qui des recommandations sont faites en vertu de l’alinéa a) fournisse une réponse écrite indiquant si les recommandations ont été acceptées et, à défaut, les raisons du refus.
 
 ### Délai prévu pour la réponse
@@ -3814,10 +4621,15 @@ b) exiger par écrit qu’une personne ou un organisme à qui des recommandation
 ### Formation requise
 
 (5) Un enquêteur nommé en vertu du présent article ne doit exercer aucun des pouvoirs ou fonctions que lui attribue la présente loi à moins d’avoir terminé avec succès :
+
 a) la formation approuvée par le ministre en matière de droits de la personne et de racisme systémique;
+
 b) la formation approuvée par le ministre qui favorise la reconnaissance et le respect, à la fois :
+
 (i) du caractère diversifié, multiracial et multiculturel de la société ontarienne,
+
 (ii) des droits et des cultures des Premières Nations, des Inuits et des Métis;
+
 c) toute autre formation prescrite par le ministre.
 
 ### Attestation de nomination
@@ -3847,8 +4659,11 @@ c) toute autre formation prescrite par le ministre.
 ### Pouvoirs en cas d’entrée
 
 (2) L’enquêteur qui mène une enquête dans un lieu visé au paragraphe (1) peut faire ce qui suit :
+
 a) exiger qu’une personne produise les dossiers, les choses, les données ou les renseignements qui se rapportent à l’enquête ou y donne accès;
+
 b) rechercher, examiner, copier ou enlever des dossiers, des choses, des données ou des renseignements qui se rapportent à l’enquête;
+
 c) avoir recours à tout dispositif ou système de stockage, de traitement ou de récupération des données utilisé ou disponible dans le lieu afin de produire, sous une forme lisible, des dossiers, des données ou des renseignements qui se rapportent à l’enquête.
 
 ### Experts
@@ -3870,7 +4685,9 @@ c) avoir recours à tout dispositif ou système de stockage, de traitement ou de
 ### Ordonnance
 
 (7) Un juge de paix ou un juge provincial peut, sur requête de l’enquêteur présentée sans préavis, rendre une ordonnance autorisant ce dernier à pénétrer dans un lieu visé au paragraphe (1) et à y perquisitionner, et à exercer l’un ou l’autre des pouvoirs énoncés au paragraphe (2), (3) ou (4), si le juge de paix ou le juge provincial est convaincu, sur la foi d’une dénonciation faite sous serment ou affirmation solennelle, qu’il existe des motifs raisonnables de soupçonner :
+
 a) soit que l’enquêteur a été empêché d’exercer le droit de pénétrer dans le lieu que lui confère le paragraphe (1) ou a été empêché d’exercer un pouvoir que lui confère le paragraphe (2), (3) ou (4);
+
 b) soit que l’enquêteur sera vraisemblablement empêché d’exercer le droit de pénétrer dans le lieu que lui confère le paragraphe (1) ou sera vraisemblablement empêché d’exercer un pouvoir que lui confère le paragraphe (2), (3) ou (4).
 
 ### Conditions
@@ -3892,14 +4709,19 @@ b) soit que l’enquêteur sera vraisemblablement empêché d’exercer le droit
 ### Définition
 
 (12) La définition qui suit s’applique au présent article et à l’article 139.
+
 «lieu» S’entend en outre d’un bâtiment, d’un réceptacle et d’un véhicule.
 
 ### Pouvoirs d’enquête : autres lieux
 
 139 (1) Un juge de paix ou un juge provincial peut, sur requête d’un enquêteur présentée sans préavis, rendre une ordonnance relativement à un lieu autre que celui auquel s’applique l’article 138, qui autorise l’enquêteur à pénétrer dans le lieu à l’égard duquel l’ordonnance est rendue et à exercer l’un ou l’autre des pouvoirs qui y sont énoncés relativement à des dossiers, des choses, des données ou des renseignements qui y sont énumérés, si le juge de paix ou le juge provincial est convaincu, sur la foi d’une dénonciation faite sous serment ou affirmation solennelle, de ce qui suit :
+
 a) l’enquête se rapporte à la conduite d’une personne visée à l’article 152;
+
 b) il existe des motifs raisonnables de croire que la conduite constitue une faute;
+
 c) il existe des motifs raisonnables de croire que des dossiers, des choses, des données ou des renseignements se rapportant à l’enquête se trouvent dans ce lieu;
+
 d) il est dans l’intérêt véritable de l’administration de la justice que l’ordonnance soit rendue, compte tenu de toutes les questions pertinentes, y compris la nature du lieu visé par la requête en autorisation de pénétrer.
 
 ### Pouvoirs en cas d’entrée
@@ -3949,7 +4771,9 @@ d) il est dans l’intérêt véritable de l’administration de la justice que 
 ### Enlèvement aux termes d’une ordonnance
 
 (4) S’il enlève des dossiers ou d’autres choses aux termes d’une ordonnance rendue en vertu du paragraphe 139 (1), l’enquêteur ou la personne qu’il désigne prend, dès qu’il est raisonnablement possible de le faire, l’une ou l’autre des mesures suivantes :
+
 a) il apporte les dossiers ou les choses devant un juge de paix ou un juge provincial;
+
 b) il présente un rapport sur l’enlèvement des dossiers ou des choses à un juge de paix ou à un juge provincial.
 
 ### Idem
@@ -4007,15 +4831,21 @@ b) il présente un rapport sur l’enlèvement des dossiers ou des choses à un 
 ### Avis de collecte directe
 
 (5) Avant de solliciter le consentement du particulier concerné par les renseignements personnels à la collecte de ces renseignements directement auprès de lui, le directeur des plaintes informe le particulier de ce qui suit :
+
 a) l’autorité invoquée pour la collecte et les fins visées par la collecte;
+
 b) le titre et les coordonnées, notamment l’adresse électronique, d’une personne employée à l’Agence des plaintes contre les forces de l’ordre qui peut répondre aux questions du particulier au sujet de la collecte.
 
 ### Avis de collecte indirecte
 
 (6) Si les règlements visés au paragraphe (4) prévoient la collecte de renseignements personnels autrement que directement auprès du particulier concerné par ces renseignements, le directeur des plaintes veille, avant de les recueillir d’une telle manière, à faire publier sur le site Web de l’Agence des plaintes contre les forces de l’ordre un avis de collecte comportant les renseignements suivants :
+
 a) une déclaration portant que la collecte est autorisée en application du paragraphe (1) et énonçant les fins visées par celle-ci;
+
 b) les renseignements personnels et les circonstances précisés par les règlements visés au paragraphe (4) aux fins de la collecte;
+
 c) le titre et les coordonnées, notamment l’adresse électronique, d’une personne employée à l’Agence des plaintes contre les forces de l’ordre qui peut répondre aux questions des particuliers au sujet de la collecte.
+
 (7) Abrogé : 2023, chap. 12, annexe 1, par. 59 (1).
 
 ### Restrictions en matière d’utilisation
@@ -4025,20 +4855,31 @@ c) le titre et les coordonnées, notamment l’adresse électronique, d’une pe
 ### Restrictions en matière d’accès
 
 (9) Le directeur des plaintes restreint l’accès aux renseignements personnels recueillis en vertu du présent article aux personnes employées à l’Agence des plaintes contre les forces de l’ordre et aux enquêteurs, à l’une ou l’autre des fins suivantes :
+
 a) la dépersonnalisation des renseignements personnels;
+
 b) la divulgation des renseignements personnels en vertu du paragraphe (10).
 
 ### Restrictions en matière de divulgation
 
 (10) Le directeur des plaintes, une personne employée à l’Agence des plaintes contre les forces de l’ordre ou un enquêteur ne peut divulguer les renseignements personnels recueillis en vertu du présent article que si l’une des conditions suivantes est remplie :
+
 a) le particulier concerné par ces renseignements les a identifiés spécifiquement et a consenti à leur divulgation;
+
 b) la divulgation est exigée par la loi, y compris comme l’exige l’article 31 du Code des droits de la personne ;
+
 c) sous réserve du paragraphe (11), la divulgation est faite aux fins d’une instance poursuivie ou éventuelle, les renseignements concernent ou constituent une question en litige dans l’instance poursuivie ou éventuelle, et :
+
 (i) soit le directeur des plaintes est partie ou s’attend à l’être,
+
 (ii) soit l’une ou l’autre des personnes suivantes est témoin ou s’attend à l’être :
+
 (A) une personne actuellement ou anciennement employée à l’Agence des plaintes contre les forces de l’ordre,
+
 (B) un enquêteur actuel ou ancien enquêteur nommé en vertu de l’article 136,
+
 (C) une personne anciennement employée au bureau du directeur indépendant de l’examen de la police ou un ancien enquêteur de celui-ci, avant sa prorogation en application de la présente partie;
+
 d) la divulgation est faite au commissaire à l’information et à la protection de la vie privée.
 
 ### Idem
@@ -4064,8 +4905,11 @@ d) la divulgation est faite au commissaire à l’information et à la protectio
 ### Idem
 
 (2) Le directeur des plaintes se conforme aux directives que donne le Conseil de gestion du gouvernement à l’égard de ce qui suit :
+
 a) la forme et le contenu du rapport annuel;
+
 b) le moment où il doit être remis au ministre;
+
 c) le moment et la manière de le mettre à la disposition du public, en plus de le publier comme l’exige le paragraphe (1).
 
 ### Idem
@@ -4075,10 +4919,15 @@ c) le moment et la manière de le mettre à la disposition du public, en plus de
 ### Secret professionnel
 
 145 Le directeur des plaintes, chaque directeur adjoint des plaintes, personne employée à l’Agence des plaintes contre les forces de l’ordre, enquêteur nommé en vertu de l’article 136, et personne qui exerce des pouvoirs ou des fonctions sur les directives du directeur des plaintes sont tenus au secret à l’égard des renseignements qu’ils obtiennent dans le cadre de l’exercice des pouvoirs ou des fonctions que leur attribue la présente loi et ne doivent les communiquer à personne sauf, selon le cas :
+
 a) dans la mesure où l’exige l’application de la présente loi ou des règlements;
+
 b) à leur avocat;
+
 c) dans la mesure où l’exige l’exécution de la loi;
+
 d) avec le consentement de la personne concernée, le cas échéant;
+
 e) si la divulgation est exigée par la loi.
 
 ### Immunité
@@ -4106,19 +4955,29 @@ e) si la divulgation est exigée par la loi.
 ### Responsabilités de la Commission d’arbitrage et de décision
 
 (4) Les responsabilités de la Commission d’arbitrage et de décision sont les suivantes :
+
 1. Choisir les membres du ou des registres d’arbitres pouvant être nommés pour mener un arbitrage en vertu de la partie XIII et tenir ce registre ou ces registres.
+
 2. Choisir les membres du tableau de décisionnaires pouvant être nommés pour tenir des audiences en vertu de la présente loi et tenir ce tableau.
+
 3. Aider les arbitres et les décisionnaires nommés par le président de la Commission en prenant les arrangements administratifs nécessaires à la conduite des arbitrages et des audiences décisionnelles, notamment en fixant les dates des audiences.
+
 4. Fixer les honoraires des arbitres nommés par le président de la Commission en vertu de l’article 229.
+
 5. Parrainer la publication et la distribution de renseignements sur les conventions, les arbitrages et les sentences arbitrales visés à la présente loi.
+
 6. Tenir des dossiers sur les conventions conclues et les décisions et sentences arbitrales rendues aux termes de la partie XIII.
+
 7. Toute autre responsabilité prescrite.
 
 ### Comités
 
 (5) La Commission d’arbitrage et de décision comporte, conformément aux règlements :
+
 a) un comité chargé de choisir les membres du ou des registres d’arbitres pouvant être nommés pour mener un arbitrage en vertu de la partie XIII et de tenir ce registre ou ces registres, comme il est prescrit;
+
 b) un comité chargé de choisir les membres du tableau de décisionnaires pouvant être nommés pour tenir des audiences en vertu de la présente loi et de tenir ce tableau, comme il est prescrit;
+
 c) les autres comités prescrits.
 
 ### Composition du comité
@@ -4140,14 +4999,19 @@ c) les autres comités prescrits.
 ### Consultation préalable aux nominations
 
 (10) Nul ne doit être nommé président de la Commission ou vice-président de la Commission, à moins que le ministre ou son délégué n’ait au préalable consulté ou tenté de consulter les personnes ou entités suivantes :
+
 a) les agents négociateurs qui, de l’avis du ministre ou de son délégué, sont raisonnablement représentatifs des agents négociateurs qui représentent les membres des services de police;
+
 b) les employeurs ou les organisations d’employeurs qui, de l’avis du ministre ou de son délégué, sont raisonnablement représentatifs des employeurs des membres des services de police;
+
 c) les autres entités prescrites.
 
 ### Fonctions d’un vice-président de la Commission
 
 (11) Un vice-président de la Commission fait ce qui suit :
+
 a) en cas d’absence ou d’empêchement du président de la Commission, il assure la suppléance, pendant laquelle il peut exercer l’ensemble des pouvoirs de ce dernier et doit en exercer l’ensemble des fonctions;
+
 b) il exerce les autres fonctions prescrites.
 
 ### Règlements
@@ -4181,15 +5045,25 @@ b) il exerce les autres fonctions prescrites.
 ### Définitions
 
 151 (1) Les définitions qui suivent s’appliquent à la présente partie.
+
 «agent de la paix du Service de protection de l’Assemblée législative» Personne qui est un agent de la paix en vertu de l’article 103.0.2 de la Loi sur l’Assemblée législative. («peace officer in the Legislative Protective Service»)
+
 «autorité désignée» S’entend :
+
 a) relativement à un agent de police autre qu’un agent de police visé à l’alinéa b), c) ou d), du chef de police du service de police dont l’agent de police est membre;
+
 b) relativement au commissaire de la Police provinciale de l’Ontario ou au sous-commissaire, du ministre;
+
 c) relativement à tout autre chef de police ou tout autre chef de police adjoint, de la commission de service de police qui assure le fonctionnement du service de police dont le chef ou le chef adjoint est membre;
+
 d) relativement à un agent de police nommé en vertu de la Loi de 2009 sur les services policiers interprovinciaux, de l’agent de nomination ou du commandant local qui a nommé l’agent de police sous le régime de cette loi;
+
 e) relativement à un constable spécial employé par la Commission des parcs du Niagara, de la Commission des parcs du Niagara;
+
 f) relativement à un agent de la paix du Service de protection de l’Assemblée législative, du président de l’Assemblée. («designated authority»)
+
 «enquêteur» Enquêteur visé à la partie VIII. («investigator»)
+
 «plaignant» Personne qui dépose une plainte en vertu du paragraphe 154 (1). («complainant») 2019, chap. 1, annexe 1, par. 151 (1)
 
 ### Interprétation : partie d’une plainte
@@ -4203,16 +5077,23 @@ f) relativement à un agent de la paix du Service de protection de l’Assemblé
 ### Application de la partie
 
 152 La présente partie s’applique à l’égard de la conduite des personnes suivantes :
+
 1. Les agents de police.
+
 2. Les constables spéciaux employés par la Commission des parcs du Niagara.
+
 3. Les agents de la paix du Service de protection de l’Assemblée législative.
 
 ### Détermination de l’intérêt public dans une enquête
 
 153 Pour établir, en application de la présente partie, s’il est dans l’intérêt public ou non de faire mener une enquête sur la conduite d’une personne visée à l’article 152 ou de poursuivre une telle enquête, le directeur des plaintes tient compte de ce qui suit :
+
 a) la question de savoir si la conduite a fait ou fait actuellement l’objet d’une enquête sous le régime de la présente loi ou d’une loi qu’elle remplace;
+
 b) la question de savoir s’il serait plus approprié de traiter la conduite, en totalité ou en partie, sous le régime d’une autre loi ou d’une autre règle de droit, ou dans un autre cadre plus adapté;
+
 c) la question de savoir si la décision de ne pas mener d’enquête ou de ne pas poursuivre une enquête aurait des répercussions négatives sur la confiance du public envers les services policiers;
+
 d) la question de savoir s’il est raisonnablement possible de mener une enquête compte tenu des renseignements ou des preuves disponibles.
 
 ### Plaintes du public
@@ -4224,21 +5105,33 @@ d) la question de savoir s’il est raisonnablement possible de mener une enquê
 ### Restriction
 
 (2) Sont irrecevables les plaintes déposées en vertu du paragraphe (1) par les personnes suivantes :
+
 a) le ministre;
+
 b) l’inspecteur général, un sous-inspecteur général ou un inspecteur nommé en vertu de l’article 111;
+
 c) un directeur adjoint des plaintes, une personne employée à l’Agence des plaintes contre les forces de l’ordre ou un enquêteur;
+
 d) le directeur de l’UES, une personne employée à l’Unité des enquêtes spéciales ou un enquêteur de l’Unité;
+
 e) un membre d’un service de police, à l’égard d’un autre membre de ce service;
+
 f) un constable spécial employé par la Commission des parcs du Niagara, à l’égard d’un autre constable spécial employé par la Commission des parcs du Niagara ;
+
 g) la Commission des parcs du Niagara, à l’égard d’un constable spécial employé par la Commission des parcs du Niagara;
+
 h) un membre ou un employé d’une commission de service de police, à l’égard d’un membre d’un service de police dont le fonctionnement est assuré par la commission;
+
 i) une personne choisie par le conseil d’une municipalité pour conseiller la commission de service de police d’une autre municipalité en vertu du paragraphe 26 (2), à l’égard d’un agent de police qui est membre d’un service de police dont le fonctionnement est assuré par cette commission;
+
 j) toute autre personne prescrite.
 
 ### Plaignant agissant au nom d’une personne mineure ou d’une personne incapable
 
 (3) Une plainte peut être déposée en vertu du paragraphe (1) au nom des personnes suivantes :
+
 a) une personne mineure, par un parent ou un tuteur de la personne;
+
 b) une personne incapable, au sens de la Loi de 1992 sur la prise de décisions au nom d’autrui, mais non mineure, par le mandataire spécial prévu par cette loi.
 
 ### Plainte déposée par l’entremise d’un représentant
@@ -4256,17 +5149,29 @@ b) une personne incapable, au sens de la Loi de 1992 sur la prise de décisions 
 ### Transmission des plaintes au directeur des plaintes
 
 155 (1) Si une personne qui peut déposer une plainte en vertu du paragraphe 154 (1) auprès du directeur des plaintes la dépose plutôt auprès de l’une ou l’autre des personnes ou entités suivantes, cette personne ou entité transmet la plainte au directeur des plaintes, informe la personne qui a déposé la plainte que celle-ci a été transmise et lui fournit des renseignements sur le rôle du directeur des plaintes :
+
 1. Le ministre.
+
 2. L’inspecteur général, un sous-inspecteur général ou un inspecteur nommé en vertu de l’article 111.
+
 3. Le directeur de l’UES, une personne employée à l’Unité des enquêtes spéciales ou un enquêteur de l’Unité.
+
 4. Un chef de police.
+
 5. Une commission de service de police ou un membre d’une commission de service de police.
+
 6. Un conseil de détachement de la Police provinciale ou un membre d’un conseil de détachement de la Police provinciale.
+
 7. Un conseil de Première Nation sur la Police provinciale ou un membre d’un conseil de Première Nation sur la Police provinciale.
+
 8. Abrogée : 2023, chap. 12, annexe 1, art. 63.
+
 9. Un employeur de constables spéciaux.
+
 10. Une entité prescrite.
+
 11. Un prestataire de services policiers prescrit.
+
 12. Toute autre personne ou entité prescrite par le ministre.
 
 ### Idem
@@ -4304,27 +5209,41 @@ b) une personne incapable, au sens de la Loi de 1992 sur la prise de décisions 
 ### Refus d’enquêter
 
 158 (1) Le directeur des plaintes peut refuser de faire mener une enquête sur une plainte si, selon cas :
+
 a) les faits sur lesquels la plainte est fondée se sont produits plus de six mois avant le dépôt de la plainte;
+
 b) le plaignant n’a pas été touché par la conduite de la personne faisant l’objet de la plainte, selon ce qui est établi en application du paragraphe (3);
+
 c) la conduite visée par la plainte ne constitue pas, à première vue, une faute;
+
 d) le directeur des plaintes estime que, selon le cas :
+
 (i) la plainte est frivole ou vexatoire ou a été faite de mauvaise foi,
+
 (ii) eu égard à toutes les circonstances, il n’est pas dans l’intérêt public de traiter la plainte.
 
 ### Prescription de six mois
 
 (2) Pour l’application de l’alinéa (1) a), le directeur des plaintes examine :
+
 a) si le plaignant est une personne mineure ou une personne handicapée au sens de la Loi de 2005 sur l’accessibilité pour les personnes handicapées de l’Ontario ou s’il s’agit d’un plaignant visé au paragraphe 154 (3) agissant au nom d’une personne mineure ou incapable;
+
 b) si le plaignant fait ou a fait l’objet d’une enquête ou instance criminelle à l’égard des événements sous-jacents à la plainte;
+
 c) si, eu égard à toutes les circonstances, il est dans l’intérêt public de mener une enquête sur la plainte.
 
 ### Personnes touchées par la conduite
 
 (3) Pour l’application de l’alinéa (1) b), seules les personnes suivantes sont considérées comme ayant été touchées par la conduite :
+
 1. Une personne visée par la conduite.
+
 2. Une personne qui a vu ou entendu la conduite ou ses effets du fait qu’elle était présente au moment et à l’endroit où se sont produits la conduite ou ses effets.
+
 3. Une personne qui :
+
 i. d’une part, avait des rapports personnels avec une personne visée à la disposition 1 au moment où s’est produite la conduite,
+
 ii. d’autre part, a encouru une perte, un préjudice, un danger ou des inconvénients, ou s’est trouvée en détresse, par suite de la conduite.
 
 ### Idem
@@ -4334,15 +5253,21 @@ ii. d’autre part, a encouru une perte, un préjudice, un danger ou des inconv�
 ### Avis
 
 (5) S’il refuse d’enquêter sur une plainte conformément au présent article, le directeur des plaintes donne un avis du refus, accompagné des motifs de celui-ci, et de la teneur de la plainte, aux personnes suivantes :
+
 a) le plaignant;
+
 b) la personne qui fait l’objet de la plainte;
+
 c) l’autorité désignée compétente.
 
 ### Enquête sur les plaintes
 
 159 (1) S’il décide de faire mener une enquête sur une plainte, le directeur des plaintes prend l’une ou l’autre des mesures suivantes :
+
 a) dans le cas d’une plainte portant sur la conduite d’un agent de police autre qu’un chef de police ou un chef de police adjoint, il donne une directive au chef de police de l’agent ou au chef de police d’un service de police non concerné pour qu’il mène l’enquête;
+
 b) dans le cas d’une plainte portant sur la conduite d’un constable spécial employé par la Commission des parcs du Niagara, il donne une directive au chef de police pour qu’il mène l’enquête;
+
 c) dans tout autre cas, il retient la plainte et fait mener une enquête sur celle-ci par un enquêteur.
 
 ### Exception : plainte retenue
@@ -4368,8 +5293,11 @@ c) dans tout autre cas, il retient la plainte et fait mener une enquête sur cel
 ### Intervention du directeur des plaintes
 
 (7) À tout moment après qu’il a ordonné à un chef de police de mener une enquête sur une plainte, mais avant la conclusion de celle-ci, le directeur des plaintes peut prendre l’une ou l’autre des mesures suivantes :
+
 a) ordonner au chef de police de traiter la plainte de la façon qu’il précise;
+
 b) ordonner qu’un autre chef de police enquête sur la plainte, sous réserve du paragraphe (4);
+
 c) faire mener une enquête sur la plainte par un enquêteur.
 
 ### Retrait d’une plainte
@@ -4391,8 +5319,11 @@ c) faire mener une enquête sur la plainte par un enquêteur.
 ### Avis
 
 (5) Le directeur des plaintes donne un avis du retrait de la plainte en vertu du paragraphe (1) et, s’il y a lieu, un avis motivé de la décision de continuer de traiter la plainte ou de poursuivre l’enquête sur celle-ci malgré le retrait de la plainte en vertu du paragraphe (3), aux personnes suivantes :
+
 a) le plaignant;
+
 b) la personne qui fait l’objet de la plainte;
+
 c) l’autorité désignée compétente.
 
 ### Exception
@@ -4412,8 +5343,11 @@ c) l’autorité désignée compétente.
 ### Idem
 
 (2) Le paragraphe (1) comprend une conduite qui est portée à la connaissance du directeur des plaintes par suite d’un avis donné par l’une des personnes suivantes :
+
 a) le directeur de l’UES en application de l’article 35.1 de la Loi de 2019 sur l’Unité des enquêtes spéciales ;
+
 b) l’inspecteur général en application de l’alinéa 120 (2) b) ou 189 (2) a) de la présente loi;
+
 c) un chef de police, une commission de service de police ou le ministre en application de l’article 197 de la présente loi.
 
 ### Directive au chef de police
@@ -4467,9 +5401,13 @@ c) un chef de police, une commission de service de police ou le ministre en appl
 ### Avis
 
 (2) Si le directeur des plaintes décide de faire interrompre une enquête, il donne un avis motivé de sa décision aux personnes suivantes :
+
 a) l’éventuel plaignant;
+
 b) la personne qui fait l’objet de l’enquête;
+
 c) l’autorité désignée compétente;
+
 d) si l’enquête est menée par un chef de police qui n’est pas l’autorité désignée applicable, le chef de police.
 
 ### Délai de l’enquête
@@ -4479,9 +5417,13 @@ d) si l’enquête est menée par un chef de police qui n’est pas l’autorit�
 ### Rapport d’étape
 
 (2) Si le délai prévu au paragraphe (1) n’est pas respecté à l’égard d’une enquête, le directeur des plaintes ou le chef de police donne, sous réserve du paragraphe (3), un avis de l’état de l’enquête, tous les 30 jours suivant l’expiration du délai de 120 jours et ce jusqu’à la conclusion de l’enquête, aux personnes suivantes :
+
 a) l’éventuel plaignant;
+
 b) la personne qui fait l’objet de l’enquête;
+
 c) l’autorité désignée compétente, sauf si c’est elle qui mène l’enquête;
+
 d) le directeur des plaintes, si l’enquête est menée par un chef de police.
 
 ### Idem : exception
@@ -4503,8 +5445,11 @@ d) le directeur des plaintes, si l’enquête est menée par un chef de police.
 ### Copies remises à d’autres personnes
 
 (4) Sous réserve du paragraphe (5), le directeur des plaintes ou le chef de police remet une copie du rapport aux personnes suivantes :
+
 a) l’éventuel plaignant;
+
 b) la personne qui faisait l’objet de l’enquête;
+
 c) l’autorité désignée compétente, sauf si c’est elle qui a mené l’enquête.
 
 ### Délai
@@ -4518,9 +5463,13 @@ c) l’autorité désignée compétente, sauf si c’est elle qui a mené l’en
 ### Décision concluant à l’absence de faute
 
 167 (1) Si, après avoir étudié le rapport d’enquête, le directeur des plaintes ou le chef de police, selon le cas, n’a pas de motifs raisonnables de croire que la conduite de la personne qui faisait l’objet de l’enquête constitue une faute, il donne un avis écrit motivé de la décision aux personnes suivantes :
+
 a) l’éventuel plaignant;
+
 b) la personne qui faisait l’objet de l’enquête;
+
 c) l’autorité désignée compétente, sauf si c’est elle qui a mené l’enquête;
+
 d) le directeur des plaintes, si l’enquête a été menée par un chef de police.
 
 ### Publication du résumé
@@ -4538,10 +5487,15 @@ d) le directeur des plaintes, si l’enquête a été menée par un chef de poli
 ### Pouvoirs relatifs à l’examen
 
 (5) Une fois son examen terminé, le directeur des plaintes peut, selon le cas :
+
 a) confirmer la décision;
+
 b) ordonner au chef de police qui a mené l’enquête de mener une nouvelle enquête de la façon qu’il précise;
+
 c) ordonner qu’un autre chef de police enquête sur l’affaire;
+
 d) faire mener une enquête sur l’affaire par un enquêteur;
+
 e) prendre ou exiger que soit prise, à l’égard de l’affaire, toute autre mesure qu’il estime nécessaire dans les circonstances, sous réserve des éventuels règlements.
 
 ### Avis
@@ -4551,15 +5505,21 @@ e) prendre ou exiger que soit prise, à l’égard de l’affaire, toute autre m
 ### Décision concluant à l’existence d’une faute
 
 168 (1) Si, après avoir étudié le rapport d’enquête, le directeur des plaintes ou le chef de police, selon le cas, a des motifs raisonnables de croire que la conduite de la personne qui faisait l’objet de l’enquête constitue une faute, il donne un avis écrit motivé de la décision aux personnes suivantes :
+
 a) l’éventuel plaignant;
+
 b) la personne qui faisait l’objet de l’enquête;
+
 c) l’autorité désignée compétente, sauf si c’est elle qui a mené l’enquête;
+
 d) le directeur des plaintes, si l’enquête a été menée par un chef de police.
 
 ### Mesures disciplinaires
 
 (2) Sur réception de l’avis de la décision, l’autorité désignée :
+
 a) décide s’il y a lieu d’imposer des mesures disciplinaires et, le cas échéant, impose les mesures disciplinaires appropriées;
+
 b) donne, à l’éventuel plaignant et au directeur des plaintes, un avis écrit de la décision prise en application de l’alinéa a) et de toute mesure disciplinaire imposée ou devant être imposée.
 
 ### Idem : constables spéciaux
@@ -4611,8 +5571,11 @@ b) donne, à l’éventuel plaignant et au directeur des plaintes, un avis écri
 ### Avis
 
 (2) L’autorité désignée de la personne donne promptement un avis écrit de la démission aux personnes suivantes :
+
 a) le plaignant éventuel;
+
 b) le directeur des plaintes;
+
 c) si la personne fait l’objet d’une enquête menée par un chef de police qui n’est pas son autorité désignée, ce chef de police.
 
 ### Exception
@@ -4636,7 +5599,9 @@ c) si la personne fait l’objet d’une enquête menée par un chef de police q
 ### Coût : chef de police, à l’exception du commissaire
 
 (2) Dans le cas d’une enquête menée par un chef de police, à l’exception du commissaire, sur la conduite d’un agent de police d’un autre service de police ou d’un constable spécial employé par la Commission des parcs du Niagara, le chef de police peut exiger que le coût de l’enquête, ainsi que l’atteste le chef de police, soit payé à la commission de service de police du chef de police :
+
 a) soit par la commission de service de police qui emploie l’agent de police ou par la Commission des parcs du Niagara, selon le cas ;
+
 b) soit, dans le cas d’une enquête sur la conduite d’un agent de police qui est membre de la Police provinciale de l’Ontario, par le ministre.
 
 ### Créance
@@ -4656,8 +5621,11 @@ b) soit, dans le cas d’une enquête sur la conduite d’un agent de police qui
 ### Avis donné par le directeur
 
 173 (1) Si, après examen d’une plainte ou à n’importe quel moment pendant une enquête menée en vertu de la présente partie, le directeur des plaintes établit que l’objet de la plainte ou de l’enquête pourrait constituer une affaire susceptible de donner lieu à une enquête du directeur de l’UES en vertu de la Loi de 2019 sur l’Unité des enquêtes spéciales, il en avise le directeur de l’UES, ainsi que les personnes suivantes :
+
 a) l’éventuel plaignant;
+
 b) la personne qui fait l’objet de la plainte ou de l’enquête;
+
 c) l’autorité désignée compétente.
 
 ### Exception
@@ -4671,8 +5639,11 @@ c) l’autorité désignée compétente.
 ### Suspension de l’enquête menée en vertu de la présente partie
 
 (3) Sous réserve du paragraphe (6), si le directeur des plaintes avise le directeur de l’UES en application du paragraphe (1), ou a connaissance d’une autre manière du fait que l’objet d’une plainte déposée ou d’une enquête menée en vertu de la présente partie fait l’objet d’une enquête menée par le directeur de l’UES, aucune autre mesure ne doit être prise par le directeur des plaintes en vertu de la présente partie à l’égard de la plainte ou de l’enquête avant que ne se produise l’un des événements suivants :
+
 1. Le directeur de l’UES décide que lui-même ne doit pas enquêter sur l’affaire.
+
 2. Si l’affaire fait l’objet d’une enquête du directeur de l’UES et que l’enquête ne donne lieu à aucune accusation contre la personne qui fait l’objet de la plainte ou de l’enquête menée en vertu de la présente partie, la conclusion de l’enquête du directeur de l’UES.
+
 3. Si une accusation est portée contre la personne qui fait l’objet de la plainte déposée ou de l’enquête menée en vertu de la présente partie par suite d’une enquête menée par le directeur de l’UES sur l’affaire, le règlement définitif de l’accusation.
 
 ### Accès aux dossiers de l’Agence
@@ -4710,15 +5681,21 @@ c) l’autorité désignée compétente.
 ### Déclarations publiques du directeur des plaintes
 
 177 Le directeur des plaintes peut faire des déclarations publiques à propos d’une enquête en cours menée en vertu de la présente partie si les conditions suivantes sont réunies :
+
 a) la déclaration a pour but de préserver la confiance du public;
+
 b) les avantages de préserver la confiance du public l’emportent nettement sur le risque de compromettre l’intégrité de l’enquête.
 
 ### Obligation de se conformer
 
 178 (1) Les personnes suivantes doivent se conformer, immédiatement ou à un autre moment précisé par la présente partie, à une directive ou demande raisonnable émanant d’une personne qui mène une enquête en vertu de la présente partie, à moins qu’il soit illégal ou matériellement impossible de le faire :
+
 1. Une personne visée à l’article 152.
+
 2. Une autorité désignée.
+
 3. Les personnes, y compris des employés, sur lesquelles l’autorité désignée exerce un pouvoir.
+
 4. Toute autre personne prescrite.
 
 ### Avis
@@ -4736,7 +5713,9 @@ b) les avantages de préserver la confiance du public l’emportent nettement su
 ### Infractions et peine
 
 180 (1) Le particulier qui ne se conforme pas au paragraphe 178 (1) ou contrevient au paragraphe 179 (1) ou (2) est coupable d’une infraction et passible, sur déclaration de culpabilité :
+
 a) dans le cas d’une première infraction, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines.
 
 ### Idem
@@ -4790,8 +5769,11 @@ b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonne
 ### Contenu de la procédure
 
 (5) Sans préjudice de la portée générale des paragraphes (1), (2), (3) et (4), la procédure visée à ces paragraphes :
+
 a) traite de la façon dont un membre ou ancien membre du service de police ou un employé ou ancien employé de l’employeur de constables spéciaux peut divulguer une faute, y compris donner des directives quant aux personnes auxquelles la divulgation peut être faite;
+
 b) établit la procédure de protection de l’identité des personnes en cause dans le processus de divulgation, y compris les divulgateurs, les témoins et les auteurs présumés de fautes;
+
 c) prévoit des exceptions à la procédure visée à l’alinéa b) lorsque l’identité d’une personne doit être divulguée à une ou plusieurs personnes pour des raisons d’équité.
 
 ### Information des membres du service de police
@@ -4815,8 +5797,11 @@ c) prévoit des exceptions à la procédure visée à l’alinéa b) lorsque l�
 ### Divulgation à l’inspecteur général
 
 185 Un membre d’un service de police ou un constable spécial employé par un employeur de constables spéciaux peut divulguer une faute à l’inspecteur général conformément à d’éventuels règlements si, selon le cas :
+
 a) il a des motifs de croire que la divulgation de la faute conformément à la procédure établie en application de l’article 183 ne serait pas appropriée;
+
 b) il a déjà divulgué la faute conformément à la procédure établie en application de l’article 183 et craint que la question ne soit pas traitée de façon appropriée;
+
 c) aucune procédure applicable n’a été établie en application de l’article 183.
 
 ### Divulgation au directeur de l’UES
@@ -4826,11 +5811,17 @@ c) aucune procédure applicable n’a été établie en application de l’artic
 ### Évaluation initiale par l’inspecteur général
 
 187 (1) L’inspecteur général refuse de donner suite à la divulgation d’une faute, ou à une partie de celle-ci, en vertu de l’article 185 si une ou plusieurs des circonstances suivantes s’appliquent :
+
 1. L’objet de la divulgation est traité par une autre personne ou un organisme dans le cadre de l’exécution de la loi ou conformément à la procédure établie en vertu de la présente loi ou d’une autre loi.
+
 2. L’objet de la divulgation a trait à une question d’emploi ou de relations de travail qui pourrait être traitée par un mécanisme de règlement des différends, notamment une procédure de règlement des griefs, établi en vertu de la présente loi ou d’une autre loi ou aux termes d’une convention collective ou d’un accord d’un autre genre.
+
 3. La divulgation est frivole, vexatoire ou faite de mauvaise foi.
+
 4. Un laps de temps important s’est écoulé entre la divulgation et l’incident qui en est l’objet.
+
 5. Il existe d’autres circonstances prescrites.
+
 6. Il existe une raison valable, autre qu’une circonstance visée aux dispositions 1 à 5, de ne pas donner suite à la divulgation.
 
 ### Devoir d’informer le divulgateur
@@ -4840,7 +5831,9 @@ c) aucune procédure applicable n’a été établie en application de l’artic
 ### Allégation de conduite criminelle
 
 188 (1) S’il reçoit la divulgation d’une faute en application de l’article 185 et ne refuse pas d’y donner suite contrairement à l’article 187, ou si le directeur des plaintes lui donne avis d’une éventuelle conduite criminelle, l’inspecteur général renvoie la question au chef de police d’un service de police non concerné s’il croit, en se fondant sur des motifs raisonnables :
+
 a) d’une part, que les événements allégués pourraient constituer une infraction criminelle;
+
 b) d’autre part, que la question n’a pas déjà donné lieu à une enquête d’un service de police non concerné ou de l’Unité des enquêtes spéciales.
 
 ### Enquête du chef de police
@@ -4854,9 +5847,13 @@ b) d’autre part, que la question n’a pas déjà donné lieu à une enquête 
 ### Idem
 
 (2) L’inspecteur général :
+
 a) s’il est allégué que la faute a été commise par une personne visée à l’article 152, fournit au directeur des plaintes ce qui suit :
+
 (i) un résumé écrit de la divulgation,
+
 (ii) tout autre renseignement qu’il a reçu en ce qui concerne la question et qui, selon lui, peut aider à la traiter;
+
 b) dans les autres cas, traite la question comme s’il s’agissait d’une plainte déposée en vertu du paragraphe 107 (1), y compris, s’il y a lieu, en nommant un inspecteur chargé d’exercer les pouvoirs que la partie VII confère aux inspecteurs.
 
 ### Devoir d’informer le divulgateur
@@ -4868,17 +5865,25 @@ b) dans les autres cas, traite la question comme s’il s’agissait d’une pla
 ### Interdiction d’exercer des représailles
 
 190 (1) Nulle personne ne doit exercer de représailles contre un membre d’un service de police ou contre un constable spécial employé par un employeur de constables spéciaux parce qu’il a, selon le cas :
+
 a) demandé des conseils au sujet de la divulgation de fautes conformément à la présente partie;
+
 b) divulgué des fautes conformément à la présente partie;
+
 c) collaboré à une enquête ou autre procédure liée à la divulgation de fautes faite conformément à la présente partie;
+
 d) cherché à faire respecter la présente partie.
 
 ### Idem
 
 (2) Pour l’application du paragraphe (1), constitue des représailles toute mesure qui est prise contre un membre d’un service de police ou contre un constable spécial employé par un employeur de constables spéciaux et qui nuit à son emploi ou à son mandat, notamment :
+
 a) licencier la personne ou révoquer son mandat ou menacer de le faire;
+
 b) imposer une mesure disciplinaire à la personne ou la suspendre, ou menacer de le faire;
+
 c) prendre des sanctions à l’égard de l’emploi ou du mandat de la personne, ou menacer de le faire;
+
 d) intimider ou contraindre la personne à l’égard de son emploi ou de son mandat.
 
 ### Plainte contre des représailles
@@ -4900,9 +5905,13 @@ d) intimider ou contraindre la personne à l’égard de son emploi ou de son ma
 ### Idem
 
 (5) Sans préjudice de la portée générale du paragraphe (4), l’ordonnance rendue en vertu de ce paragraphe peut enjoindre à la personne ou à l’entité de faire une ou plusieurs des choses suivantes :
+
 1. Cesser tout acte faisant l’objet de la plainte visée au paragraphe (1).
+
 2. Prendre des mesures afin de remédier au préjudice lié à la plainte visée au paragraphe (1).
+
 3. Réintégrer dans son emploi la personne licenciée ou nommer de nouveau la personne dont le mandat a été révoqué.
+
 4. Indemniser la personne pour sa perte de rémunération, y compris les avantages sociaux.
 
 ### Idem
@@ -4930,7 +5939,9 @@ d) intimider ou contraindre la personne à l’égard de son emploi ou de son ma
 ### Procédures d’évaluation et de discipline
 
 194 (1) Chaque chef de police établit des procédures écrites ayant trait à ce qui suit :
+
 a) l’évaluation de l’exécution du travail des membres du service de police;
+
 b) l’imposition de mesures disciplinaires aux membres du service de police.
 
 ### Mise à disposition des procédures
@@ -4942,16 +5953,23 @@ b) l’imposition de mesures disciplinaires aux membres du service de police.
 ### Faute
 
 195 L’agent de police ou le constable spécial se conduit d’une façon qui constitue une faute si, selon le cas :
+
 a) il contrevient à son code de conduite prescrit applicable;
+
 b) il contrevient à l’article 129, 179 ou 196;
+
 c) il ne répond pas sciemment aux demandes raisonnables de renseignements d’un inspecteur, contrairement à ce qu’exige l’article 116;
+
 d) il ne se conforme pas sciemment à une directive ou à une demande, contrairement à ce qu’exige l’article 31 de la Loi de 2019 sur l’Unité des enquêtes spéciales ou l’article 178 de la présente loi;
+
 e) il n’avise pas sciemment le directeur de l’UES, contrairement à ce qu’exige l’article 16 de la Loi de 2019 sur l’Unité des enquêtes spéciales.
 
 ### Incitation à commettre une faute et refus d’offrir des services
 
 196 (1) Nul ne doit :
+
 a) inciter ou tenter d’inciter un membre d’un service de police à refuser ses services;
+
 b) inciter ou tenter d’inciter un agent de police ou un constable spécial à se conduire d’une façon qui constitue une faute.
 
 ### Refus d’offrir des services
@@ -4961,7 +5979,9 @@ b) inciter ou tenter d’inciter un agent de police ou un constable spécial à 
 ### Infraction
 
 (3) Le particulier qui contrevient au paragraphe (1) ou (2) est coupable d’une infraction et passible, sur déclaration de culpabilité :
+
 a) dans le cas d’une première infraction, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines;
+
 b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonnement maximal d’un an, ou d’une seule de ces peines.
 
 ### Idem
@@ -5041,11 +6061,17 @@ b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonne
 ### Suspension, confiscation de paie, réprimandes et autres mesures
 
 200 (1) Sous réserve de l’article 201, un chef de police peut imposer toute combinaison des mesures disciplinaires suivantes à un agent de police qui est un membre de son service de police, autre qu’un chef de police adjoint, si une enquête menée en vertu de l’article 198 ou de la partie X donne au chef de police des motifs raisonnables de croire que l’agent s’est conduit d’une façon qui constitue une faute ou une exécution insatisfaisante du travail :
+
 1. Suspendre l’agent de police sans paie pendant au plus 30 jours ou 240 heures, selon le cas.
+
 2. Ordonner une confiscation équivalant, selon le cas, à au plus trois jours ou 24 heures de paie de l’agent de police.
+
 3. Ordonner un retrait d’au plus 20 jours ou 160 heures, selon le cas, de la banque de congés de l’agent de police.
+
 4. Réprimander l’agent de police.
+
 5. Ordonner que l’agent de police reçoive des conseils professionnels précisés ou suive un traitement précisé ou une formation précisée.
+
 6. Ordonner que l’agent de police participe à un programme précisé ou à une activité précisée.
 
 ### Restriction relative à l’imposition conjointe de mesures disciplinaires
@@ -5075,17 +6101,25 @@ b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonne
 ### Procédure et audiences
 
 201 (1) Avant d’imposer une mesure disciplinaire ou une combinaison des mesures disciplinaires prévues à l’article 200, le chef de police, la commission de service de police ou le ministre :
+
 a) donne à l’agent de police des renseignements pertinents au sujet de l’affaire, y compris le rapport rédigé en vertu du paragraphe 198 (6), ainsi qu’un avis écrit énonçant les motifs pour lesquels la ou les mesures disciplinaires lui sont imposées;
+
 b) donne à l’agent de police l’occasion de répondre à l’avis donné en application de l’alinéa a), oralement ou par écrit, comme en décide le chef de police, la commission de service de police ou le ministre;
+
 c) respecte les autres exigences prescrites.
 
 ### Exécution insatisfaisante du travail : exigences supplémentaires
 
 (2) Avant de donner avis, en application de l’alinéa (1) a), d’une mesure disciplinaire envisagée ou d’une combinaison de mesures disciplinaires envisagées à un agent de police pour s’être conduit d’une façon qui constitue une exécution insatisfaisante du travail, le chef de police :
+
 a) veille à ce que l’exécution du travail de l’agent de police ait été évaluée conformément aux procédures établies en application du paragraphe 194 (1);
+
 b) conseille l’agent de police sur la façon dont il peut améliorer l’exécution de son travail;
+
 c) tient compte des besoins de l’agent de police conformément au Code des droits de la personne si ce dernier a un handicap, au sens du Code des droits de la personne, qui nécessite des adaptations;
+
 d) recommande que l’agent de police cherche une aide d’appoint, telle que des conseils professionnels, de la formation ou la participation à un programme ou à une activité, s’il estime que cela améliorerait l’exécution de son travail;
+
 e) donne à l’agent de police une possibilité raisonnable d’améliorer l’exécution de son travail.
 
 ### Consentement à la mesure disciplinaire
@@ -5139,24 +6173,35 @@ e) donne à l’agent de police une possibilité raisonnable d’améliorer l’
 ### Exécution insatisfaisante du travail — exigences supplémentaires
 
 (2) Avant de présenter une requête au président de la Commission en vertu du paragraphe (1) relativement à la rétrogradation ou au licenciement d’un agent de police qui s’est conduit d’une façon qui constitue une exécution insatisfaisante du travail, le chef de police :
+
 a) veille à ce que l’exécution du travail de l’agent de police ait été évaluée conformément aux procédures établies en application du paragraphe 194 (1);
+
 b) conseille l’agent de police sur la façon dont il peut améliorer l’exécution de son travail;
+
 c) tient compte des besoins de l’agent de police conformément au Code des droits de la personne si ce dernier a un handicap, au sens du Code des droits de la personne, qui nécessite des adaptations;
+
 d) recommande que l’agent de police cherche une aide d’appoint, telle que des conseils professionnels, de la formation ou la participation à un programme ou à une activité, s’il estime que cela améliorerait l’exécution de son travail;
+
 e) donne à l’agent de police une possibilité raisonnable d’améliorer l’exécution de son travail.
 
 ### Avis
 
 (3) Le chef de police donne un avis écrit de la requête :
+
 a) à l’agent de police;
+
 b) si la requête découlait d’une enquête menée en vertu de la partie X, à l’éventuel plaignant dans cette enquête;
+
 c) si le directeur des plaintes a enjoint au chef de police de commencer l’audience, au directeur des plaintes.
 
 ### Parties
 
 (4) Sont parties à l’audience les personnes suivantes :
+
 a) le chef de police;
+
 b) l’agent de police;
+
 c) si la requête découlait d’une enquête menée en vertu de la partie X, l’éventuel plaignant dans cette enquête.
 
 ### Idem : directeur des plaintes
@@ -5178,8 +6223,11 @@ c) si la requête découlait d’une enquête menée en vertu de la partie X, l�
 ### Ordonnance
 
 (9) Si, après l’audience, le décisionnaire établit qu’il a été démontré, sur la foi de preuves claires et convaincantes, que l’agent de police s’est conduit d’une façon qui constitue une faute ou une exécution insatisfaisante du travail et que sa rétrogradation ou son licenciement constitue une réponse appropriée, il peut rendre une ordonnance imposant l’une des mesures disciplinaires suivantes :
+
 1. Licencier l’agent de police.
+
 2. Ordonner que l’agent de police soit licencié dans un délai de sept jours à moins que ce dernier ne démissionne avant.
+
 3. Rétrograder l’agent de police, en précisant la nature et la durée de la rétrogradation.
 
 ### Idem
@@ -5245,25 +6293,33 @@ c) si la requête découlait d’une enquête menée en vertu de la partie X, l�
 ### Mesures du chef de police
 
 (3) Dans les circonstances prévues au paragraphe (2), si l’agent de police est nouvellement nommé à titre d’agent de police au sein d’un service de police qui n’est pas celui duquel il a démissionné :
+
 a) le chef de police du nouveau service de police peut prendre des mesures en vertu du paragraphe (2) à l’égard de la conduite antérieure de l’agent comme s’il était le chef de police de l’ancien service de police de l’agent;
+
 b) le chef de police de l’ancien service de police remet au chef de police du nouveau service de police les notes ou autres dossiers se rapportant à l’enquête ou à la procédure disciplinaire antérieure.
 
 ### Suppression de mention dans le dossier d’emploi
 
 207 (1) Un chef de police supprime la mention d’une mesure disciplinaire inscrite dans le dossier d’emploi d’un agent de police deux ans après le jour de l’imposition de celle-ci si les conditions suivantes sont réunies :
+
 a) la mesure disciplinaire est indiquée à la disposition 2, 3, 4, 5 ou 6 du paragraphe 200 (1);
+
 b) aucune autre mention de mesure disciplinaire n’a été inscrite dans le dossier d’emploi de l’agent dans les deux ans suivant ce jour.
 
 ### Idem
 
 (2) Un chef de police supprime la mention d’une mesure disciplinaire inscrite dans le dossier d’emploi d’un agent de police cinq ans après le jour de l’imposition de celle-ci si les conditions suivantes sont réunies :
+
 a) la mesure disciplinaire est indiquée à la disposition 1 du paragraphe 200 (1);
+
 b) aucune autre mention de mesure disciplinaire n’a été inscrite dans le dossier d’emploi de l’agent dans les cinq ans suivant ce jour.
 
 ### Prolongation
 
 (3) Malgré les paragraphes (1) et (2), la mention d’une mesure disciplinaire prévue à la disposition 1 ou 3 du paragraphe 200 (1) peut être conservée dans le dossier d’emploi d’un agent de police pendant plus de deux ou cinq ans, selon ce qui s’applique, si, selon le cas :
+
 a) l’agent y consent;
+
 b) le décisionnaire ordonne la prolongation de la période à l’issue de l’audience qu’il a tenue en vertu du présent article.
 
 ### Audience
@@ -5297,7 +6353,9 @@ b) le décisionnaire ordonne la prolongation de la période à l’issue de l’
 ### Chefs de police et chefs de police adjoints
 
 (9) Les paragraphes (1) à (8) s’appliquent, avec les adaptations nécessaires, aux chefs de police et aux chefs de police adjoints à l’égard de mentions de mesures disciplinaires inscrites dans leur dossier d’emploi et :
+
 a) le ministre exerce les pouvoirs et les fonctions énoncés aux paragraphes (1) à (8) à l’égard du commissaire et de tout sous-commissaire;
+
 b) la commission de service de police concernée exerce les pouvoirs et les fonctions énoncés aux paragraphes (1) à (8) à l’égard de tout autre chef de police ou chef de police adjoint.
 
 ### Mentions inscrites en vertu d’une loi antérieure
@@ -5309,8 +6367,11 @@ b) la commission de service de police concernée exerce les pouvoirs et les fonc
 ### Restriction portant sur les enquêtes, la discipline
 
 208 (1) Pendant la période prévue au paragraphe (3) qui se rapporte à une affaire, le chef de police et la commission de service de police ou le ministre, selon le cas, ne doit pas, selon le cas :
+
 a) enquêter sur l’affaire en vertu de l’article 198, sous réserve du paragraphe (4) du présent article;
+
 b) imposer des mesures disciplinaires à l’égard de l’affaire en vertu de l’article 200;
+
 c) présenter une requête à l’égard de l’affaire en vertu de l’article 202.
 
 ### Idem
@@ -5320,22 +6381,35 @@ c) présenter une requête à l’égard de l’affaire en vertu de l’article 
 ### Période
 
 (3) Les périodes visées aux paragraphes (1) et (2) sont les suivantes :
+
 1. La période :
+
 i. qui commence le jour où le directeur de l’UES fait mener une enquête sur l’affaire,
+
 ii. qui prend fin le jour où le directeur de l’UES, ou le chef de police à qui l’affaire est renvoyée en vertu du paragraphe 36 (1) de la Loi de 2019 sur l’Unité des enquêtes spéciales, décide que des accusations seront ou ne seront pas portées à l’égard de l’affaire.
+
 2. La période :
+
 i. qui commence le jour où le chef de police, la commission de service de police ou le ministre :
+
 A. soit donne un avis de faute au directeur des plaintes en application de l’article 197,
+
 B. soit reçoit un avis du directeur des plaintes indiquant qu’il enquêtera sur l’affaire,
+
 ii. qui prend fin le jour où le chef de police, la commission de service de police ou le ministre reçoit un avis indiquant, selon le cas :
+
 A. s’il y a lieu, que le directeur des plaintes ne fera pas mener d’enquête sur l’affaire,
+
 B. que l’enquête sera suspendue,
+
 C. que le directeur des plaintes n’a pas de motifs raisonnables de croire que la conduite de l’agent de police ou du constable spécial qui faisait l’objet de l’enquête constitue une faute.
 
 ### Exception
 
 (4) Le paragraphe (1) n’a pas pour effet de restreindre, selon le cas :
+
 a) une enquête menée afin d’établir s’il y a lieu d’imposer une suspension sans paie en vertu de l’article 210;
+
 b) l’imposition d’une suspension sans paie en vertu de l’article 210.
 
 ### Suspension
@@ -5379,14 +6453,23 @@ b) l’imposition d’une suspension sans paie en vertu de l’article 210.
 ### Suspension sans paie
 
 210 (1) Un chef de police peut suspendre sans paie un agent de police qui est un membre de son service de police, autre qu’un chef de police adjoint, dans les cas suivants :
+
 1. L’agent de police est déclaré coupable d’une infraction et condamné à une peine d’emprisonnement, même si la déclaration de culpabilité ou la peine fait l’objet d’un appel.
+
 2. L’agent de police est détenu ou assujetti à des conditions de mise en liberté provisoire par voie judiciaire, ou aux conditions d’une promesse remise à un agent de la paix lors de sa mise en liberté en application de l’article 498 ou 499 du Code criminel (Canada), qui entravent de façon importante sa capacité d’exercer ses fonctions d’agent de police.
+
 3. L’agent de police est inculpé d’une infraction grave, au sens des règlements, à une loi du Canada et les conditions suivantes sont réunies :
+
 i. l’infraction reprochée n’a pas été commise dans le cadre de l’exercice de ses fonctions,
+
 ii. le chef de police :
+
 A. soit a introduit une instance en vue du licenciement de l’agent de police relativement aux faits qui ont donné lieu aux accusations,
+
 B. soit a avisé l’agent de police qu’il a l’intention d’introduire une telle instance, mais qu’il en est empêché par l’article 208,
+
 iii. l’issue probable de l’instance, si les faits donnant lieu aux accusations étaient prouvés, serait son licenciement ou sa démission, conformément à une ordonnance rendue en vertu de la disposition 2 du paragraphe 202 (9),
+
 iv. le fait de ne pas le suspendre sans paie jetterait le discrédit sur la réputation du service de police.
 
 ### Incapacité d’exercer ses fonctions
@@ -5420,13 +6503,17 @@ iv. le fait de ne pas le suspendre sans paie jetterait le discrédit sur la rép
 ### Date de prise d’effet d’une suspension sans paie
 
 (9) Une suspension sans paie prend effet comme suit :
+
 1. S’agissant de la suspension prévue à la disposition 1 ou 2 du paragraphe (1), le jour où le chef de police remet un avis écrit de la suspension à l’agent de police.
+
 2. S’agissant de la suspension prévue à la disposition 3 du paragraphe (1), le soixantième jour qui suit le jour où le chef de police remet un avis écrit de la suspension à l’agent de police.
 
 ### Audience concernant certaines suspensions sans paie
 
 (10) L’agent de police peut demander par requête au président de la Commission de nommer un décisionnaire afin qu’il tienne une audience concernant la décision d’imposer une suspension sans paie si, selon le cas :
+
 a) il s’agit d’une suspension prévue à la disposition 2 du paragraphe (1) et l’agent croit que les conditions de mise en liberté provisoire par voie judiciaire auxquelles il est assujetti n’entravent pas de façon importante sa capacité à exercer ses fonctions d’agent de police;
+
 b) il s’agit d’une suspension prévue à la disposition 3 du paragraphe (1).
 
 ### Idem
@@ -5456,8 +6543,11 @@ b) il s’agit d’une suspension prévue à la disposition 3 du paragraphe (1).
 ### Infirmation de la décision
 
 (17) Si le décisionnaire infirme la décision de suspendre l’agent de police sans paie :
+
 a) la suspension sans paie prend fin;
+
 b) le chef de police veille à ce que l’agent de police soit indemnisé pour toute perte de traitement, de salaire ou d’autre rémunération;
+
 c) le paragraphe (7) ne s’applique pas à l’égard de toute période de suspension.
 
 ### Chef de police ou chef de police adjoint
@@ -5499,7 +6589,9 @@ c) le paragraphe (7) ne s’applique pas à l’égard de toute période de susp
 ### Témoignage dans les instances civiles
 
 (2) Nul n’est tenu de témoigner dans une instance civile relativement à des renseignements qu’il a obtenus dans le cadre d’une enquête menée en vertu de la présente partie, sauf dans les instances suivantes :
+
 a) une audience tenue en application de la présente partie;
+
 b) une instance disciplinaire concernant un membre d’un service de police qui n’est pas agent de police.
 
 ### Admissibilité des documents
@@ -5527,7 +6619,9 @@ b) une instance disciplinaire concernant un membre d’un service de police qui 
 ### Publication et transmission des rapports
 
 (2) La commission de service de police et le ministre :
+
 a) publient les rapports sur Internet conformément aux éventuels règlements pris par le ministre;
+
 b) transmettent les rapports au directeur des plaintes.
 
 ### Dispositions transitoires
@@ -5555,19 +6649,25 @@ b) transmettent les rapports au directeur des plaintes.
 ### Idem
 
 (5.1) Jusqu’à sa dissolution, la Commission civile de l’Ontario sur la police :
+
 a) conclut les audiences ou les appels visés à l’article 25 ou à la partie V de la Loi sur les services policiers qui ont été entamés avant le jour de l’abrogation de cette loi, mais qui n’ont pas fait l’objet d’une décision définitive ce jour-là;
+
 b) exerce les autres fonctions prescrites que lui attribue la Loi sur les services policiers, comme si cette loi était toujours en vigueur, sous réserve des adaptations prescrites.
 
 ### Témoignage
 
 (6) Nul n’est tenu de témoigner dans une instance civile relativement à des renseignements qu’il a obtenus dans le cadre d’une enquête menée en vertu de la partie II ou V de la Loi sur les services policiers, dans sa version antérieure à son abrogation, sauf :
+
 a) lors d’une audience tenue en application de la partie XII de la présente loi;
+
 b) lors d’une audience ou d’un appel traité conformément au paragraphe (1) ou (2) du présent article.
 
 ### Documents
 
 (7) Les documents préparés dans le cadre du traitement d’une plainte en vertu de la partie V de la Loi sur les services policiers sont inadmissibles dans une instance civile, sauf :
+
 a) lors d’une audience tenue en application de la partie XII de la présente loi;
+
 b) lors d’une audience tenue ou d’un appel interjeté en vertu de la partie V de la Loi sur les services policiers par suite de l’application du paragraphe (1) ou (2) du présent article.
 
 ## PARTIE XIII RELATIONS DE TRAVAIL
@@ -5577,6 +6677,7 @@ b) lors d’une audience tenue ou d’un appel interjeté en vertu de la partie 
 ### Définition : partie XIII
 
 217 La définition qui suit s’applique à la présente partie.
+
 «agent supérieur» Membre d’un service de police qui détient le grade d’inspecteur ou un grade plus élevé ou qui exerce des fonctions de surveillance ou de nature confidentielle.
 
 ### Non-employés des commissions de service de police
@@ -5624,10 +6725,15 @@ b) lors d’une audience tenue ou d’un appel interjeté en vertu de la partie 
 ### Application
 
 220 (1) Le présent article s’applique aux membres suivants d’un service de police :
+
 1. Le directeur des finances, quelle que soit la description de cette personne.
+
 2. Le directeur des services administratifs, quelle que soit la description de cette personne.
+
 3. Le dirigeant principal des ressources humaines, quelle que soit la description de cette personne.
+
 4. Le chef du contentieux, quelle que soit la description de cette personne.
+
 5. Abrogée : 2024, chap. 2, annexe 4, par. 5 (1). 2019, chap. 1, annexe 1, par. 220 (1); 2024, chap. 2, annexe 4, par. 5 (1).
 
 ### Restriction
@@ -5641,8 +6747,11 @@ b) lors d’une audience tenue ou d’un appel interjeté en vertu de la partie 
 ### Différend concernant le statut de la personne
 
 222 (1) Une personne peut demander par requête au président de la Commission de nommer un arbitre pour trancher l’un ou l’autre des différends suivants si ses droits ou obligations prévus à la présente partie sont touchés par l’objet du différend :
+
 1. Un différend sur la question de savoir si une personne est subordonnée à la présente partie du fait qu’elle est un membre d’un service de police qui est un employé d’une commission de service de police.
+
 2. Un différend sur la question de savoir si une personne est un agent supérieur.
+
 3. Un différend sur la question de savoir s’il est interdit à une personne d’être membre d’une association de policiers par suite de l’application de l’article 220.
 
 ### Parties
@@ -5742,9 +6851,13 @@ b) lors d’une audience tenue ou d’un appel interjeté en vertu de la partie 
 ### Composition du conseil d’arbitrage
 
 (2) Les règles suivantes s’appliquent à la composition du conseil d’arbitrage :
+
 1. Les parties déterminent s’il se composera d’une seule ou de trois personnes. Si elles n’arrivent pas à s’entendre à ce sujet, ou qu’elles conviennent que le conseil d’arbitrage se composera de trois personnes, mais que l’une des parties néglige ensuite de nommer quelqu’un conformément à l’accord, le conseil d’arbitrage se compose alors d’une seule personne.
+
 2. Si le conseil d’arbitrage doit se composer d’une seule personne, les parties la nomment ensemble. Si elles n’arrivent pas à s’entendre sur une nomination commune, la nomination est effectuée par le président de la Commission.
+
 3. Si le conseil d’arbitrage doit se composer de trois personnes, les parties en nomment chacune une et nomment ensemble le président. Si elles n’arrivent pas à s’entendre sur une nomination commune, la nomination du président est effectuée par le président de la Commission.
+
 4. Si le conseil d’arbitrage se compose d’une seule personne nommée par le président de la Commission, ou s’il se compose de trois personnes et que son président a été nommé par le président de la Commission, ce dernier choisit la méthode d’arbitrage et en avise le conseil d’arbitrage. La méthode choisie est la médiation-arbitrage, à moins que le président de la Commission ne soit d’avis qu’une autre méthode est plus appropriée. La méthode choisie ne doit pas être l’arbitrage des propositions finales sans médiation et ne doit pas être la médiation-arbitrage des propositions finales, à moins que le président de la Commission ne choisisse cette dernière, à sa seule discrétion, parce qu’il est d’avis qu’elle est la méthode la plus appropriée compte tenu de la nature du différend. Si la méthode choisie est la médiation-arbitrage des propositions finales, le président du conseil d’arbitrage est le médiateur ou, si le conseil d’arbitrage se compose d’une seule personne, cette dernière est le médiateur.
 
 ### Début des audiences
@@ -5758,8 +6871,11 @@ b) lors d’une audience tenue ou d’un appel interjeté en vertu de la partie 
 ### Date de présentation de renseignements
 
 (5) Si la méthode d’arbitrage que choisit le président de la Commission est la médiation-arbitrage ou la médiation-arbitrage des propositions finales, le président du conseil d’arbitrage ou, si le conseil d’arbitrage se compose d’une seule personne, cette personne peut, après avoir consulté les parties, fixer une date après laquelle une partie ne peut plus présenter de renseignements au conseil, à moins que les conditions suivantes ne soient réunies :
+
 a) les renseignements n’étaient pas disponibles avant cette date;
+
 b) le président ou, si le conseil d’arbitrage se compose d’une seule personne, cette personne autorise la présentation des renseignements;
+
 c) l’autre partie a l’occasion de présenter des observations au sujet des renseignements.
 
 ### Audience
@@ -5773,7 +6889,9 @@ c) l’autre partie a l’occasion de présenter des observations au sujet des r
 ### Délai
 
 (8) Le conseil d’arbitrage rend une décision au plus tard au premier en date des jours suivants :
+
 1. Le 90 e jour qui suit le jour de la nomination du président ou, si le conseil d’arbitrage se compose d’une seule personne, le 90 e jour qui suit le jour de la nomination de la personne.
+
 2. Le 30 e jour qui suit la fin de l’audience d’arbitrage.
 
 ### Prorogation
@@ -5783,7 +6901,9 @@ c) l’autre partie a l’occasion de présenter des observations au sujet des r
 ### Rémunération et indemnités
 
 (10) La rémunération et les indemnités des membres d’un conseil d’arbitrage sont versées selon les modalités suivantes :
+
 1. Une partie verse la rémunération et les indemnités d’un membre nommé par elle ou en son nom.
+
 2. Chaque partie verse la moitié de la rémunération et des indemnités du président ou, si le conseil d’arbitrage se compose d’une seule personne, la moitié de la rémunération et des indemnités de celle-ci.
 
 ### Observations de la municipalité
@@ -5797,12 +6917,19 @@ c) l’autre partie a l’occasion de présenter des observations au sujet des r
 ### Critères
 
 (13) Pour rendre une décision ou une sentence arbitrale, le conseil d’arbitrage prend en considération tous les facteurs qu’il estime pertinents, notamment les critères suivants :
+
 1. La capacité de payer de l’employeur compte tenu de sa situation financière.
+
 2. La mesure dans laquelle des services devront peut-être être réduits, compte tenu de la décision ou de la sentence arbitrale, si les niveaux de financement et d’imposition actuels ne sont pas relevés.
+
 3. La situation économique prévalant en Ontario et, s’il y a lieu, dans la municipalité.
+
 4. La comparaison, établie entre les employés et des employés comparables des secteurs public et privé, des conditions d’emploi et de la nature du travail exécuté.
+
 5. La capacité de l’employeur d’attirer et de garder des employés qualifiés.
+
 6. L’intérêt et le bien-être de la collectivité que dessert le service de police.
+
 7. Les facteurs locaux qui influent sur la collectivité.
 
 ### Restriction
@@ -5816,8 +6943,11 @@ c) l’autre partie a l’occasion de présenter des observations au sujet des r
 ### Litige : nomination d’un agent de conciliation
 
 228 (1) Le président de la Commission nomme un agent de conciliation, à la demande d’une partie, dans les cas suivants :
+
 a) aucun arbitre n’est saisi de la question;
+
 b) en cas de litige entre les parties sur une convention ou sur une décision ou une sentence arbitrale rendue aux termes de la présente partie, ou s’il est allégué qu’une convention ou une sentence arbitrale a été violée.
+
 (2) Abrogé : 2023, chap. 12, annexe 1, art. 72.
 
 ### Devoir de l’agent de conciliation
@@ -5851,8 +6981,11 @@ b) en cas de litige entre les parties sur une convention ou sur une décision ou
 ### Composition du conseil d’arbitrage
 
 (3) Les règles suivantes s’appliquent à la composition du conseil d’arbitrage :
+
 1. Les parties déterminent s’il se composera d’une ou de trois personnes. Si elles n’arrivent pas à s’entendre à ce sujet, ou qu’elles conviennent que le conseil d’arbitrage se composera de trois personnes, mais que l’une des parties néglige ensuite de nommer quelqu’un conformément à l’accord, le conseil d’arbitrage se compose alors d’une seule personne.
+
 2. Si le conseil d’arbitrage doit se composer d’une personne, les parties la nomment ensemble. Si elles n’arrivent pas à s’entendre sur une nomination commune, la nomination revient alors au président de la Commission.
+
 3. Si le conseil d’arbitrage doit se composer de trois personnes, les parties en nomment chacune une et nomment ensemble le président. Si elles n’arrivent pas à s’entendre sur une nomination commune, la nomination du président revient alors au président de la Commission.
 
 ### Délai d’arbitrage
@@ -5866,8 +6999,11 @@ b) en cas de litige entre les parties sur une convention ou sur une décision ou
 ### Frais et débours
 
 (6) Les règles suivantes s’appliquent à l’égard des frais et débours reliés à la procédure d’arbitrage :
+
 1. La Commission d’arbitrage et de décision paie les honoraires et tous types d’indemnités prescrits des personnes que le président de la Commission nomme au conseil d’arbitrage.
+
 2. Chaque partie supporte ses propres frais à l’égard de la procédure d’arbitrage, y compris les honoraires des personnes qu’elle nomme au conseil d’arbitrage.
+
 3. Les parties se partagent également les frais et débours reliés à des questions communes, y compris les honoraires des personnes qu’elles nomment ensemble au conseil d’arbitrage.
 
 ### Exécution
@@ -5935,7 +7071,9 @@ b) en cas de litige entre les parties sur une convention ou sur une décision ou
 ### Décision de l’arbitre
 
 (4) S’il est convaincu qu’une personne a agi contrairement à la présente partie, l’arbitre décide, s’il y a lieu, de quelle façon la personne doit rétablir la situation. À cet effet, il peut notamment, malgré les dispositions d’une convention collective, rendre une ou plusieurs des ordonnances suivantes :
+
 1. Une ordonnance portant que la personne s’abstienne de poser à l’avenir l’acte ou les actes faisant l’objet de la plainte.
+
 2. Une ordonnance prescrivant la réparation par la personne du préjudice qui a résulté de l’acte ou des actes faisant l’objet de la plainte.
 
 ### Dépôt à la Cour
@@ -5959,8 +7097,11 @@ b) en cas de litige entre les parties sur une convention ou sur une décision ou
 ### Définitions
 
 (2) Les définitions qui suivent s’appliquent à la présente partie.
+
 «employé d’un service de police admissible» Employé qui est membre d’un service de police et qui remplit les exigences énoncées à l’article 241. («eligible police service employee»)
+
 «premier régime de retraite» S’entend au sens du paragraphe 79.2 (1) de la Loi sur les régimes de retraite. («original pension plan»)
+
 «régime de retraite subséquent» S’entend au sens du paragraphe 79.2 (1) de la Loi sur les régimes de retraite. («successor pension plan»)
 
 ### Accord régissant les transferts
@@ -6006,7 +7147,9 @@ b) en cas de litige entre les parties sur une convention ou sur une décision ou
 ### Application de la Loi sur les régimes de retraite
 
 (3) Les règles suivantes s’appliquent au transfert d’éléments d’actif conformément à la présente partie :
+
 1. Les articles 21 et 79.2, l’alinéa 80 (6) b) et les paragraphes 80 (9) à (15) et 81 (4) à (7) de la Loi sur les régimes de retraite ne s’appliquent pas au transfert.
+
 2. Pour l’application de l’article 79.1 de la Loi sur les régimes de retraite, le transfert est réputé autorisé en vertu de l’article 80 ou 81 de cette loi s’il est effectué conformément aux paragraphes 80 (1) à (8) ou 81 (1) à (3) de cette loi, respectivement.
 
 ### Transfert à un arrangement d’épargne-retraite prescrit
@@ -6024,7 +7167,9 @@ b) en cas de litige entre les parties sur une convention ou sur une décision ou
 ### Statut des éléments d’actif transférés et obligations de l’administrateur remplies
 
 (7) Lorsque les éléments d’actif sont transférés conformément à la présente partie :
+
 a) d’une part, l’employeur qui est le promoteur du régime de retraite subséquent assume la responsabilité d’offrir les prestations de retraite et autres prestations prévues par le premier régime de retraite aux participants et aux autres personnes ayant droit à des paiements aux termes de ce régime qui sont transférés et ceux-ci ne peuvent plus réclamer quoi que ce soit d’autre du premier régime de retraite;
+
 b) d’autre part, l’administrateur du premier régime de retraite s’acquitte de ses obligations lorsqu’il transfère les éléments d’actif.
 
 ## PARTIE XV SÉCURITÉ DES TRIBUNAUX
@@ -6034,9 +7179,13 @@ b) d’autre part, l’administrateur du premier régime de retraite s’acquitt
 ### Commissions de service de police
 
 243 (1) La commission de service de police à laquelle incombe la responsabilité des services policiers pour un secteur a les responsabilités suivantes à l’égard des lieux où se déroulent des instances judiciaires :
+
 1. Assurer la sécurité des juges et des autres fonctionnaires judiciaires ainsi que des personnes qui prennent part ou qui assistent au déroulement des instances.
+
 2. Assurer la sécurité des lieux pendant les heures où les juges, les autres fonctionnaires judiciaires et les membres du public sont normalement présents.
+
 3. Assurer la bonne garde des détenus qui se trouvent sur les lieux ou à proximité de ceux-ci, y compris des personnes placées sous garde au cours des instances.
+
 4. Établir les degrés appropriés de sécurité pour l’application des dispositions 1, 2 et 3 conformément aux éventuels règlements.
 
 ### Commissaire
@@ -6050,31 +7199,53 @@ b) d’autre part, l’administrateur du premier régime de retraite s’acquitt
 ### Pouvoirs d’une personne assurant la sécurité des tribunaux
 
 244 (1) La personne qui est autorisée par une commission de service de police à agir relativement aux responsabilités qu’impose à celle-ci le paragraphe 243 (1) ou qui est autorisée par le commissaire à agir relativement aux responsabilités qu’impose à celui-ci le paragraphe 243 (2) peut exercer les pouvoirs suivants si cet exercice est raisonnable afin de s’acquitter de ces responsabilités :
+
 1. Exiger qu’une personne qui pénètre ou tente de pénétrer dans des lieux où se déroulent des instances judiciaires ou qui s’y trouve :
+
 i. d’une part, donne son identité,
+
 ii. d’autre part, fournisse des renseignements afin d’évaluer si elle représente un risque pour la sécurité.
+
 2. Procéder, sans mandat, à la fouille :
+
 i. d’une personne qui pénètre ou tente de pénétrer dans des lieux où se déroulent des instances judiciaires ou qui s’y trouve,
+
 ii. de tout véhicule que la personne conduit ou à bord duquel elle est un passager pendant qu’elle se trouve sur des lieux où se déroulent des instances judiciaires, y pénètre ou tente d’y pénétrer,
+
 iii. de tout bien dont la personne a la garde ou le soin.
+
 3. Procéder, sans mandat et en employant au besoin la force raisonnable, à la fouille :
+
 i. d’un détenu qui se trouve sur les lieux où se déroulent des instances judiciaires ou qui est transporté à destination ou en provenance de ces lieux,
+
 ii. de tout bien dont le détenu a la garde ou le soin.
+
 4. Refuser de permettre à une personne de pénétrer dans des lieux où se déroulent des instances judiciaires et employer au besoin la force raisonnable afin de l’empêcher d’y pénétrer dans les cas suivants :
+
 i. si la personne refuse de donner son identité ou de fournir des renseignements conformément à la disposition 1 ou refuse de se soumettre à une fouille conformément à la disposition 2,
+
 ii. s’il existe des motifs de croire que la personne représente un risque pour la sécurité,
+
 iii. pour tout autre motif se rapportant à l’acquittement des responsabilités de la commission de service de police prévues au paragraphe 243 (1) ou des responsabilités du commissaire prévues au paragraphe 243 (2).
+
 5. Ordonner qu’une personne quitte immédiatement des lieux où se déroulent des instances judiciaires et employer au besoin la force raisonnable pour faire partir la personne dans les cas suivants :
+
 i. si la personne refuse de donner son identité ou de fournir des renseignements conformément à la disposition 1 ou refuse de se soumettre à une fouille conformément à la disposition 2,
+
 ii. s’il existe des motifs de croire que la personne représente un risque pour la sécurité,
+
 iii. pour tout autre motif se rapportant à l’acquittement des responsabilités de la commission de service de police prévues au paragraphe 243 (1) ou des responsabilités du commissaire prévues au paragraphe 243 (2).
 
 ### Arrestation
 
 (2) La personne qui est autorisée par une commission de service de police ou par le commissaire conformément au paragraphe (1) peut arrêter, sans mandat, quiconque, selon le cas :
+
 a) pénètre ou tente de pénétrer dans des lieux où se déroulent des instances judiciaires sans donner son identité ni fournir des renseignements après qu’il a été requis de donner son identité ou de les fournir en vertu de la disposition 1 du paragraphe (1);
+
 b) pénètre ou tente de pénétrer dans des lieux où se déroulent des instances judiciaires sans se soumettre à une fouille après qu’il lui a été ordonné de s’y soumettre en vertu de la disposition 2 du paragraphe (1);
+
 c) pénètre ou tente de pénétrer dans des lieux où se déroulent des instances judiciaires après qu’un refus lui a été donné en vertu de la disposition 4 du paragraphe (1);
+
 d) ne quitte pas immédiatement des lieux où se déroulent des instances judiciaires après qu’il lui a été ordonné de le faire en vertu de la disposition 5 du paragraphe (1).
 
 ### Force raisonnable
@@ -6096,15 +7267,21 @@ d) ne quitte pas immédiatement des lieux où se déroulent des instances judici
 ### Infractions
 
 245 (1) Est coupable d’une infraction quiconque, selon le cas :
+
 a) pénètre ou tente de pénétrer dans des lieux où se déroulent des instances judiciaires sans donner son identité ni fournir des renseignements après qu’il a été requis de donner son identité ou de les fournir en vertu de la disposition 1 du paragraphe 244 (1);
+
 b) pénètre ou tente de pénétrer dans des lieux où se déroulent des instances judiciaires sans se soumettre à une fouille après qu’il lui a été ordonné de s’y soumettre en vertu de la disposition 2 du paragraphe 244 (1);
+
 c) pénètre ou tente de pénétrer dans des lieux où se déroulent des instances judiciaires après qu’un refus lui a été donné en vertu de la disposition 4 du paragraphe 244 (1);
+
 d) ne quitte pas immédiatement des lieux où se déroulent des instances judiciaires après qu’il lui a été ordonné de le faire en vertu de la disposition 5 du paragraphe 244 (1).
 
 ### Peine
 
 (2) Quiconque est déclaré coupable d’une infraction prévue au présent article est passible :
+
 a) dans le cas d’une première infraction, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de 60 jours, ou d’une seule de ces peines;
+
 b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonnement maximal de 60 jours, ou d’une seule de ces peines.
 
 ### Intégrité des pouvoirs
@@ -6148,7 +7325,9 @@ b) en cas de récidive, d’une amende maximale de 10 000 $ et d’un emprisonne
 ### Idem : plan réputé conforme
 
 (5) Le ministre peut considérer un plan de sécurité et de bien-être communautaires comme étant conforme à toutes les exigences prévues à l’article 250 si les conditions suivantes sont réunies :
+
 a) les consultations visant à élaborer le plan ont été menées à terme avant le 1 er janvier 2019;
+
 b) à son avis, les consultations étaient pour l’essentiel conformes aux obligations énoncées à l’article 250.
 
 ### Idem : délai
@@ -6174,16 +7353,27 @@ b) à son avis, les consultations étaient pour l’essentiel conformes aux obli
 ### Composition du comité
 
 (3) Le comité consultatif doit, au minimum, être composé des membres suivants :
+
 1. Une personne qui représente :
+
 i. Santé Ontario,
+
 ii. soit une entité qui fournit des services visant à améliorer la santé physique ou mentale des particuliers au sein de la collectivité ou des collectivités.
+
 2. Une personne qui représente une entité qui fournit des services éducatifs dans la municipalité.
+
 3. Une personne qui représente une entité qui fournit des services communautaires ou sociaux dans la municipalité, si une telle entité existe.
+
 4. Une personne qui représente une entité qui fournit des services communautaires ou sociaux aux enfants ou aux jeunes dans la municipalité, si une telle entité existe.
+
 5. Une personne qui représente une entité qui fournit des services de garde aux enfants ou aux jeunes dans la municipalité, si une telle entité existe.
+
 6. Un employé de la municipalité ou un conseiller municipal.
+
 7. Une personne qui représente la commission de service de police ou, en l’absence d’une telle commission, le commandant de détachement de la Police provinciale de l’Ontario qui offre des services policiers dans le secteur ou son délégué.
+
 8. Le chef de police d’un service de police qui offre des services policiers dans le secteur ou son délégué.
+
 9. Toute autre personne prescrite par le ministre.
 
 ### Particulier pouvant satisfaire à de multiples exigences
@@ -6193,7 +7383,9 @@ ii. soit une entité qui fournit des services visant à améliorer la santé phy
 ### Idem : plans conjoints
 
 (5) Si le plan de sécurité et de bien-être communautaires est préparé par un groupe de municipalités ou de conseils de bande :
+
 a) d’une part, les membres du comité consultatif sont nommés avec l’accord des municipalités et conseils de bande participants;
+
 b) d’autre part, les dispositions de la présente loi qui s’appliquent aux plans de sécurité et de bien-être communautaires s’appliquent, avec les adaptations nécessaires, aux plans conjoints de sécurité et de bien-être communautaires.
 
 ### Questions à prendre en compte
@@ -6203,9 +7395,13 @@ b) d’autre part, les dispositions de la présente loi qui s’appliquent aux p
 ### Consultations
 
 (7) La municipalité ou les municipalités qui préparent un plan de sécurité et de bien-être communautaires :
+
 a) consultent le comité consultatif;
+
 b) consultent les membres du public, notamment les jeunes, les particuliers qui ont bénéficié ou bénéficient de services de santé mentale ou de traitement de dépendances, les membres des groupes racisés et des collectivités inuites, métisses et de Première Nation, dans la municipalité ou les municipalités et, dans le cas d’un plan conjoint préparé avec une Première Nation, dans la réserve de Première Nation;
+
 c) consultent les organismes communautaires, notamment les organismes inuits, métis et de Première Nation et les organismes communautaires qui représentent des jeunes ou des membres des groupes racisés, dans la municipalité ou les municipalités et, dans le cas d’un plan conjoint préparé avec une Première Nation, dans la réserve de Première Nation;
+
 d) respectent les exigences de consultation prescrites par le ministre.
 
 ### Utilisation de renseignements
@@ -6223,11 +7419,17 @@ d) respectent les exigences de consultation prescrites par le ministre.
 ### Contenu du plan de sécurité et de bien-être communautaires
 
 251 Le plan de sécurité et de bien-être communautaires :
+
 a) détermine les facteurs de risque dans la municipalité ou pour la Première Nation, notamment la discrimination systémique et les autres facteurs sociaux qui contribuent à la criminalité, à la victimisation, à la dépendance, aux surdoses de drogues et au suicide ainsi qu’à tout autre facteur de risque prescrit par le ministre;
+
 b) détermine les facteurs de risque auxquels la municipalité ou la Première Nation accordera la priorité en vue de leur réduction;
+
 c) détermine des stratégies pour réduire les facteurs de risque priorisés, y compris offrir de nouveaux services, modifier les services existants, améliorer l’intégration des services existants ou coordonner les services existants de façon différente;
+
 d) énonce les résultats mesurables que les stratégies visent à produire;
+
 e) traite des autres questions prescrites par le ministre;
+
 f) contient tout autre renseignement prescrit par le ministre.
 
 ### Publication du plan de sécurité et de bien-être communautaires
@@ -6265,8 +7467,11 @@ f) contient tout autre renseignement prescrit par le ministre.
 ### Renseignements à fournir au ministre
 
 256 (1) Chaque municipalité fournit au ministre les renseignements prescrits par le ministre concernant ce qui suit :
+
 a) le plan de sécurité et de bien-être communautaires de la municipalité, y compris sa préparation, son adoption ou sa mise en oeuvre;
+
 b) les résultats du plan de sécurité et de bien-être communautaires de la municipalité;
+
 c) toute autre question prescrite par le ministre relative au plan de sécurité de bien-être communautaires.
 
 ### Délai de conformité
@@ -6322,7 +7527,9 @@ c) toute autre question prescrite par le ministre relative au plan de sécurité
 ### Biens en la possession du service de police
 
 258 (1) Le présent article s’applique aux biens meubles, à l’exclusion des armes à feu et de l’argent, qui entrent en la possession d’un service de police dans l’une ou l’autre des circonstances suivantes :
+
 1. Le bien a été volé ou a été abandonné dans un lieu public et le chef de police ne parvient pas à déterminer qui en est le propriétaire.
+
 2. Le bien a été saisi par un membre du service de police dans l’exercice légitime de ses fonctions, toutes les instances judiciaires à l’égard du bien sont terminées, aucune ordonnance du tribunal ne prévoit son aliénation et aucune exigence légale, à l’exclusion du présent article, ne prévoit sa conservation ou son aliénation.
 
 ### Vente par un service de police dont le fonctionnement est assuré par une commission de service de police
@@ -6340,10 +7547,15 @@ c) toute autre question prescrite par le ministre relative au plan de sécurité
 ### Bien non périssable
 
 (4) Si le bien est non périssable, les règles suivantes s’appliquent à la vente :
+
 1. Le bien peut être vendu au plus tôt un mois après être entré en la possession du service de police s’il s’agit d’un véhicule automobile au sens du Code de la route ou d’une bicyclette, ou au plus tôt trois mois après s’il s’agit d’un autre bien.
+
 2. La vente se fait par enchères publiques en salle ou en ligne, ou par appel d’offres public.
+
 3. Dans le cas d’une vente aux enchères publiques en salle, un préavis d’au moins 10 jours des lieu, date et heure de la vente aux enchères est publié sur Internet, conformément aux éventuels règlements pris par le ministre.
+
 4. Une vente aux enchères publiques en ligne doit être ouverte au public pendant au moins sept jours et peut être prolongée jusqu’à ce que le bien soit vendu.
+
 5. Une vente aux enchères publiques peut être ajournée, plusieurs fois au besoin, jusqu’à ce que le bien soit vendu.
 
 ### Réclamation du propriétaire du bien
@@ -6353,8 +7565,11 @@ c) toute autre question prescrite par le ministre relative au plan de sécurité
 ### Registre des biens
 
 (6) Le chef de police tient un registre des biens et veille à ce que les règles suivantes soient respectées :
+
 1. La description et l’emplacement de chaque bien sont consignés.
+
 2. Si le bien est vendu, tous les détails de la vente sont consignés.
+
 3. Si le bien est retourné à son propriétaire, les nom, adresse et numéro de téléphone de ce dernier sont consignés.
 
 ### Exception
@@ -6408,15 +7623,21 @@ c) toute autre question prescrite par le ministre relative au plan de sécurité
 ### Registre des armes à feu
 
 (8) Le chef de police tient un registre des armes à feu et veille à ce que les règles suivantes soient respectées :
+
 1. La description et l’emplacement de chaque arme à feu sont consignés.
+
 2. Lorsqu’une arme à feu cesse d’être en la possession de la commission de service de police ou d’un membre du service de police, tous les détails sont consignés, y compris le nom de la personne qui a procédé à sa disposition, la date et le moyen.
+
 3. Si l’arme à feu est remise à son propriétaire, les nom, adresse et numéro de téléphone de celui-ci sont également consignés.
 
 ### Déclaration
 
 (9) Chaque chef de police fournit, conformément aux règlements pris par le ministre, les renseignements suivants au ministre :
+
 1. Une liste des armes à feu qui sont entrées en la possession du service de police au cours de l’année civile précédente.
+
 2. Une liste des armes à feu qui sont toujours conservées et de celles dont il a été disposé, ainsi que les détails de cette disposition;
+
 3. Tout autre renseignement prescrit par le ministre.
 
 ### Règlements
@@ -6424,149 +7645,293 @@ c) toute autre question prescrite par le ministre relative au plan de sécurité
 ### Lieutenant-gouverneur en conseil
 
 261 (1) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 1. traiter de tout ce que la présente loi mentionne comme pouvant ou devant être fait ou prescrit par règlement autre qu’un règlement du ministre;
+
 2. prescrire les normes régissant les services policiers, y compris celles qui doivent être respectées lors de la prestation de services policiers convenables et efficaces;
+
 3. régir la prestation des fonctions policières, notamment :
+
 i. prescrire les fonctions policières à l’égard desquelles une commission de service de police ou le commissaire peut conclure un accord en vertu du paragraphe 14 (1) ou (2),
+
 ii. prescrire les entités qui peuvent assurer des fonctions policières conformément à un accord conclu en vertu de l’article 14 et préciser les fonctions policières qu’elles peuvent assurer,
+
 iii. interdire la prestation d’une fonction policière par des personnes qui ne sont pas des agents de la paix,
+
 iv. interdire la prestation d’une fonction policière par des personnes qui ne sont pas des agents de police,
+
 v. prescrire les exigences auxquelles doit se conformer une commission de service de police ou le commissaire relativement à la conclusion d’un accord en vertu de l’article 14,
+
 vi. prescrire les autres questions dont doit traiter un accord conclu en vertu de l’article 14;
+
 4. prescrire des codes de conduite et régir leur application;
+
 5. prescrire des entités à titre de prestataires de services policiers prescrits, préciser les fonctions policières qu’il leur incombera d’assurer, préciser le secteur dans lequel elles assureront la prestation de ces fonctions et préciser si une commission de service de police, ou le commissaire, peut continuer à assurer ces fonctions dans le secteur;
+
 5.1 pour l’application du paragraphe 10 (2), déterminer le secteur pour lequel la responsabilité des services policiers incombe à une commission municipale d’une manière autre que celle prévue à la partie IV;
+
 6. traiter de la gouvernance, du fonctionnement et de l’administration des services de police;
+
 7. autoriser un chef de police à refuser de fournir des renseignements en vertu de l’article 4, 40 ou 104 ou autoriser le commissaire à refuser de fournir des renseignements en vertu de l’article 62, et prescrire les circonstances dans lesquelles les renseignements peuvent être refusés;
+
 8. préciser des exigences, des restrictions ou des interdictions, outre celles énoncées dans la présente loi, à l’égard de la collecte, de l’utilisation ou de la divulgation par le ministre ou l’inspecteur général de toute catégorie de renseignements personnels;
+
 9. clarifier ou préciser à quel moment une personne aide les membres d’un service de police lorsqu’elle agit sous leur direction pour l’application des articles 13 et 14;
+
 10. préciser ou définir l’expression «circonstances particulières» pour l’application de l’article 16 ou du paragraphe 91 (6);
+
 10.1 régir les demandes d’aide temporaire en vue de la prestation de services policiers convenables et efficaces visées au paragraphe 19 (1.1), notamment :
+
 i. prescrire des circonstances dans lesquelles un chef de police peut demander une aide temporaire,
+
 ii. prescrire des restrictions relatives à l’aide qui peut être fournie ou à la façon dont elle peut être fournie;
+
 11. régir le processus à suivre pour obtenir l’approbation du ministre prévue à l’article 22;
+
 12. préciser ou modifier les modalités d’application de la présente loi à l’égard, selon le cas :
+
 i. d’une commission de service de police qui a été constituée conjointement en vertu de l’article 23 ou 24,
+
 ii. d’une commission de Première Nation qui a été demandée conjointement en vertu de l’article 32,
+
 iii. d’un conseil de Première Nation sur la Police provinciale qui a été demandé conjointement en vertu de l’article 77,
+
 iv. d’un plan de sécurité et de bien-être communautaires qui a été préparé conjointement en application de la partie XVI;
+
 13. régir le processus à suivre pour demander que le ministre constitue une commission de Première Nation ou un conseil de Première Nation sur la Police provinciale et prescrire les questions dont le ministre doit tenir compte, y compris le poids qu’il doit accorder aux questions prescrites;
+
 14. établir des normes relatives à la nomination par le lieutenant-gouverneur en conseil des membres des commissions municipales, lesquelles peuvent comprendre des normes minimales touchant la représentation de groupes sous-représentés au sein de ces commissions;
+
 15. régir les recommandations que le ministre fait au lieutenant-gouverneur en conseil en vertu de l’article 33 concernant les nominations aux commissions de service de police;
+
 16. régir les plans stratégiques et les plans d’action locaux, notamment :
+
 i. la préparation, l’examen et la révision des plans,
+
 ii. le contenu des plans;
+
 17. régir les examens annuels du commissaire;
+
 18. régir les paiements pour les services policiers offerts à des municipalités par le commissaire en application de l’article 64, y compris les frais liés à l’équipement et aux installations nécessaires, notamment :
+
 i. régir le calcul des sommes à payer pour ces services, suivant lequel les municipalités pourraient devoir payer une somme supérieure ou inférieure pour les services qu’elles ont reçus, en fonction de leur capacité de payer,
+
 ii. régir le paiement de ces sommes, notamment prévoir le calcul et le paiement d’intérêts et de pénalités,
+
 iii. régir la perception de ces sommes, y compris prévoir les crédits de paiement et les remboursements accordés pour les paiements excédentaires,
+
 iv. fixer des exigences différentes selon des catégories différentes de territoires aux fins décrites aux sous-dispositions i, ii et iii;
+
 19. régir les paiements pour les services policiers offerts aux territoires non érigés en municipalité par le commissaire, y compris les frais liés à l’équipement et aux installations nécessaires, notamment :
+
 i. régir le calcul des sommes à payer pour ces services, lequel peut être fonction de la capacité de payer,
+
 ii. régir le paiement de ces sommes, notamment prévoir le calcul et le paiement d’intérêts et de pénalités,
+
 iii. régir la perception de ces sommes, y compris prévoir les crédits de paiement et les remboursements accordés pour les paiements excédentaires, ou prévoir qu’ils puissent en totalité ou en partie être perçus en application de la Loi de 2006 sur l’impôt foncier provincial comme s’il s’agissait d’un impôt fixé dans le cadre de cette loi,
+
 iv. fixer des exigences différentes selon des catégories différentes de territoires aux fins décrites aux sous-dispositions i, ii et iii;
+
 19.1 régir les paiements pour les services policiers qui sont offerts par une commission municipale ou le commissaire par application d’un règlement pris en vertu de la disposition 5.1, y compris les frais liés à l’équipement et aux installations nécessaires, notamment :
+
 i. déterminer les personnes qui doivent payer, en totalité ou en partie, les coûts de ces services,
+
 ii. régir le calcul des sommes à payer pour ces services, lequel peut être fonction de la capacité de payer,
+
 iii. régir le paiement de ces sommes, notamment prévoir le calcul et le paiement d’intérêts et de pénalités,
+
 iv. régir la perception de ces sommes, y compris prévoir les crédits de paiement et les remboursements accordés pour les paiements excédentaires,
+
 v. fixer des exigences différentes selon des catégories différentes de territoires aux fins décrites aux sous-dispositions i, ii, iii et iv;
+
 20. à 25. Abrogées : 2023, chap. 12, annexe 1, par. 75 (1).
+
 26. régir l’indemnisation des agents, au sens de la Loi de 2019 sur l’Unité des enquêtes spéciales, pour les frais juridiques raisonnables qu’ils engagent à l’égard d’une enquête de l’Unité des enquêtes spéciales, y compris préciser la personne ou l’entité qui accorde l’indemnisation;
+
 27. prescrire la nature des renseignements qui peuvent être divulgués en vertu du paragraphe 80 (1) par le chef de police ou la personne que celui-ci désigne, ainsi que les personnes auxquelles ces renseignements peuvent être divulgués et les circonstances dans lesquelles ils peuvent l’être;
+
 28. établir les normes qui doivent être respectées et la procédure qui doit être suivie pour évaluer si un particulier est physiquement et mentalement en mesure d’exercer les fonctions d’agent de police ou de constable spécial pour l’application de la présente loi;
+
 29. préciser le sens de l’obligation d’être de bonne moralité pour pouvoir être nommé agent de police ou constable spécial;
+
 30. prescrire les certificats ou autres documents équivalant à un grade ou diplôme visé aux sous-alinéas 83 (1) f) (iv) et 92 (1) g) (iv), y compris prescrire les caractéristiques d’un programme menant à l’obtention du certificat ou du document qui font de l’un ou l’autre l’équivalent d’un tel grade ou diplôme;
+
 31. définir ou préciser l’expression «activité politique» pour l’application de l’article 86 et préciser les activités politiques auxquelles sont autorisés à participer les agents de police qui sont membres d’un service de police dont le fonctionnement est assuré par une commission de service de police;
+
 32. établir des grades pour tout service de police;
+
 33. régir les qualités requises pour la nomination de personnes à titre d’agents de police et régir les qualités requises pour l’accession à des postes au sein d’un service de police, y compris les qualités requises pour l’accession à des grades précisés;
+
 34. régir la conduite et les fonctions des membres des services de police et des constables spéciaux;
+
 35. décrire les circonstances dans lesquelles les membres des services de police ou les constables spéciaux sont autorisés ou non à poursuivre des personnes au moyen d’un véhicule automobile, et prescrire la procédure à suivre dans de telles poursuites;
+
 36. régir la suspension et le licenciement des membres des services de police, autres que les agents de police;
+
 37. régir l’utilisation de tout équipement par un service de police ou l’un ou l’autre de ses membres ou par un employeur de constables spéciaux ou un constable spécial, notamment réglementer ou interdire l’utilisation d’armes à feu et autres armes;
+
 38. régir la tenue d’audiences en vertu de l’article 88, notamment prescrire une procédure normale ou des règles de procédure normale et une procédure accélérée ou des règles de procédure accélérée applicables à ces audiences;
+
 39. régir l’usage de normes applicables aux données, de systèmes et de processus électroniques, de technologies de l’information et de technologies de communications par un service de police ou l’un ou l’autre de ses membres ou par un employeur de constables spéciaux ou un constable spécial;
+
 40. régir l’usage de la force par les membres des services de police et les constables spéciaux et régir la présentation de rapports à cet égard;
+
 41. régir la nomination des membres auxiliaires d’un service de police, y compris prescrire les conditions ou les restrictions dont sont assorties les nominations;
+
 42. préciser ou modifier les modalités d’application de la présente loi à l’égard des membres d’un service de police qui prennent un congé autorisé ou qui sont en détachement;
+
 43. prescrire les fins qui peuvent être précisées dans la nomination d’un constable spécial et préciser les conditions qui s’appliquent au constable spécial nommé à une telle fin;
+
 44. prescrire les critères de formation que doit remplir un constable spécial pour pouvoir être nommé à une fin précisée;
+
 45. régir les pouvoirs d’un agent de police qui peuvent être attribués à un constable spécial et régir l’exercice de ces pouvoirs policiers;
+
 46. régir la suspension et la révocation du mandat des constables spéciaux;
+
 47. régir le processus relatif aux plaintes déposées auprès de l’inspecteur général;
+
 47.1 régir la procédure pour imposer des mesures provisoires en vertu de l’article 109.1 ou 109.2 et les demandes de révocation ou de modification de ces mesures;
+
 47.2 régir les directives visées à la disposition 1 du paragraphe 109.2 (3);
+
 48. régir les exigences en matière de remise d’avis en application des parties VII (Inspecteur général des services policiers) et XII (Discipline et licenciement), y compris prescrire le contenu obligatoire des avis et prescrire les circonstances dans lesquelles un avis est réputé avoir été donné;
+
 49. établir et régir des règles permettant aux commissions de service de police ou au ministre de facturer le coût des enquêtes renvoyées par l’inspecteur général à un chef de police ou au commissaire;
+
 50. régir les avis que l’inspecteur général donne et les rapports qu’il présente en application de l’article 123, notamment :
+
 i. prescrire le délai dans lequel l’inspecteur général doit donner l’avis,
+
 ii. prescrire les circonstances dans lesquelles l’inspecteur général ne doit pas présenter ou publier un rapport,
+
 iii. prescrire les renseignements qui ne doivent pas figurer dans les rapports,
+
 iv. régir la publication des rapports;
+
 51. régir la publication des directives données en vertu de l’article 125 ou des rapports visés à l’article 126, notamment :
+
 i. prescrire le délai dans lequel l’inspecteur général doit publier la directive ou le rapport,
+
 ii. prescrire les circonstances dans lesquelles l’inspecteur général ne doit pas publier une directive ou un rapport,
+
 iii. prescrire les renseignements qui ne doivent pas figurer dans les directives ou les rapports à publier,
+
 iv. régir le mode de publication des directives ou des rapports;
+
 52. régir les fonctions que doit exercer un administrateur nommé en vertu de la partie VII;
+
 53. Abrogée : 2023, chap. 12, annexe 1, par. 75 (3).
+
 54. régir la composition de la Commission ontarienne d’arbitrage et de décision pour la police;
+
 55. régir les registres d’arbitres et le tableau de décisionnaires que la Commission d’arbitrage et de décision est tenue d’établir et de tenir;
+
 56. régir les comités de la Commission d’arbitrage et de décision, notamment en régir les noms, la composition, les responsabilités, les pouvoirs, les fonctions et le quorum;
+
 57. régir la conduite des arbitrages prévus par la présente loi, y compris :
+
 i. prescrire la procédure applicable à ceux-ci,
+
 ii. dans le cas d’arbitrages autres que ceux qui sont menés en application de l’article 227 ou 229 :
+
 A. exclure l’application d’une disposition de la Loi de 1991 sur l’arbitrage, ou en modifier les modalités d’application,
+
 B. régir les ordonnances que peut rendre un arbitre dans sa décision,
+
 C. prescrire les règles relatives au paiement de la rémunération et des indemnités de l’arbitre,
+
 D. prévoir les appels de l’arbitrage;
+
 58. régir la tenue d’audiences décisionnelles en vertu de la présente loi, notamment :
+
 i. prescrire une procédure normale ou des règles de procédure normale et une procédure accélérée ou des règles de procédure accélérée pour la tenue d’audiences décisionnelles,
+
 ii. autoriser les décisionnaires à rendre les ordonnances qu’ils estiment nécessaires pour empêcher la divulgation dans le public des questions dont il a été fait état lors d’une audience décisionnelle, et notamment proscrire la publication ou la radiodiffusion de ces questions,
+
 iii. prescrire les délais relatifs à la tenue d’audiences décisionnelles,
+
 iv. établir des lignes directrices pour la détermination de la peine qui comportent des critères dont doivent tenir compte les décisionnaires lorsqu’ils décident s’il y a lieu d’imposer une mesure disciplinaire;
+
 59. régir les exigences et les qualités requises pour la nomination à titre de décisionnaire;
+
 60. régir les procédures, les conditions ou les exigences applicables à l’enquête sur les plaintes prévue à la partie X;
+
 61. régir la poursuite du traitement d’une plainte ou la reprise d’une enquête dans les circonstances visées au paragraphe 170 (3);
+
 61.1 régir le processus relatif à la divulgation des fautes en vertu de l’article 185;
+
 62. régir l’utilisation des renseignements obtenus au cours d’enquêtes ou d’audiences prévues à la partie XII (Discipline et licenciement), y compris restreindre ou interdire cette utilisation;
+
 63. régir la poursuite des enquêtes ou des procédures disciplinaires visées à l’article 206;
+
 64. Abrogée : 2023, chap. 12, annexe 1, par. 75 (5).
+
 65. régir les responsabilités énoncées au paragraphe 243 (1), y compris l’établissement des degrés appropriés de sécurité visés à la disposition 4 de ce paragraphe, à l’égard des lieux où se déroulent des instances judiciaires;
+
 66. régir l’exercice des pouvoirs conférés par l’article 244, notamment :
+
 i. assortir cet exercice de restrictions, de limites et de conditions,
+
 ii. fixer des exigences visant à préserver les droits et libertés garantis par la Charte canadienne des droits et libertés et le Code des droits de la personne, y compris des exigences prévoyant la prise de mesures d’adaptation à l’égard de personnes relativement à leur croyance ou handicap;
+
 67. régir l’obligation de donner l’occasion de répondre prévue dans des dispositions de la présente loi, y compris prescrire les exigences relatives aux avis qui doivent être donnés et prescrire le délai minimal qui doit être imparti pour remplir l’obligation;
+
 68. autoriser la production de dossiers dont un service de police a la garde et qui sont nécessaires aux fins d’une instance civile à laquelle n’est pas partie la commission de service de police qui assure le fonctionnement du service de police ou, en ce qui concerne la Police provinciale de l’Ontario, la Couronne du chef de l’Ontario, y compris :
+
 i. régir la procédure à suivre pour obtenir de tels dossiers,
+
 ii. prescrire les droits à acquitter pour les obtenir;
+
 69. préciser ou définir l’un ou l’autre des termes ou expressions suivants pour l’application de la présente loi :
+
 i. «De mauvaise foi».
+
 ii. «Conduite d’opérations particulières».
+
 iii. «Infraction criminelle».
+
 iv. «Fonctionnement au quotidien».
+
 v. «Discipline d’agents de police particuliers».
+
 vi. «Arme à feu».
+
 vii. «Motif valable».
+
 viii. «Frivole ou vexatoire».
+
 ix. «Congé autorisé»
+
 x. «Lieu de détention temporaire».
+
 xi. «Plan d’attrition».
+
 xii. «Fonction policière spécialisée».
+
 xiii. «Enquêtes particulières».
+
 xiv. «Peine d’emprisonnement».
+
 xv. «Jeunes».
+
 69.1 préciser ou définir le terme «situation d’urgence» ou prescrire les critères qui doivent être remplis pour conclure qu’une situation d’urgence existe pour l’application de la présente loi;
+
 70. adapter les modalités d’application de la Loi sur les services policiers, dans sa version antérieure à son abrogation, aux plaintes et aux affaires visées à l’article 216;
+
 71. régir les questions transitoires pouvant découler de l’édiction de la présente loi ou des modifications apportées par l’annexe 2, 3 ou 4 de la Loi de 2019 sur la refonte complète des services de police de l’Ontario ;
+
 72. régir la prestation de services policiers dans un secteur qui est du ressort d’une entité autochtone qui n’est pas une Première Nation, notamment :
+
 i. désigner l’entité autochtone,
+
 ii. constituer une commission de service de police à laquelle incombera la responsabilité des services policiers pour le secteur et régir sa composition, son nom, la nomination de ses membres et la durée de leur mandat,
+
 iii. modifier les modalités d’application de toute disposition de la présente loi ou des règlements pour permettre à la commission de service de police d’offrir des services policiers dans le secteur,
+
 iv. modifier les modalités d’application de toute disposition de la présente loi ou des règlements pour permettre la constitution d’un conseil semblable à un conseil de Première Nation sur la Police provinciale et permettre à ce conseil d’exercer les pouvoirs et les fonctions d’un conseil de Première Nation sur la Police provinciale en ce qui concerne l’entité autochtone,
+
 v. modifier les modalités d’application de toute disposition de la présente loi ou des règlements pour qu’elle s’applique à l’entité autochtone et au secteur relevant de celle-ci;
+
 73. régir les questions nécessaires ou souhaitables aux fins de l’application efficace de la présente loi.
 
 ### Aucun paiement dû
@@ -6576,72 +7941,139 @@ v. modifier les modalités d’application de toute disposition de la présente 
 ### Ministre
 
 (2) Le ministre peut, par règlement :
+
 1. traiter de tout ce que la présente loi mentionne comme pouvant ou devant être prescrit par le ministre ou fait par règlement pris par le ministre;
+
 2. régir la formation et prescrire des exigences de formation additionnelles, y compris une formation approuvée par le ministre sur des questions prescrites additionnelles, à l’intention des membres de commissions de service de police, de conseils de détachement de la Police provinciale et de conseils de Première Nation sur la Police provinciale, de l’inspecteur général, des inspecteurs en vertu de la présente loi, du directeur des plaintes et des enquêteurs en vertu de la présente loi;
+
 3. régir la fourniture de renseignements en application du paragraphe 4 (1) ou 104 (1), y compris prescrire :
+
 i. les renseignements qui doivent être fournis,
+
 ii. le mode de fourniture des renseignements, ce qui peut comprendre l’obligation de les fournir automatiquement au ministère ou à l’inspecteur général par voie électronique,
+
 iii. la fréquence à laquelle les renseignements doivent être fournis;
+
 4. prescrire une division du ministère chargé de recueillir et d’utiliser, au nom du ministre, des renseignements personnels en vertu du paragraphe 5 (1);
+
 5. régir le coût des services policiers supplémentaires visé à l’article 18, y compris préciser les modalités d’application de cet article et définir tout terme qui y est utilisé;
+
 6. régir les rapports sur la mise en oeuvre des plans de diversité en application du paragraphe 28 (4), y compris préciser le contenu obligatoire de ces rapports;
+
 7. régir les questions transitoires que peut soulever la prise, la modification ou l’abrogation d’un règlement pris en vertu de l’article 32 ou 77;
+
 8. régir la procédure relative à la remise d’avis et à la réception de commentaires sur tout projet de modification ou d’abrogation d’un règlement pris en vertu de l’article 32 ou 77;
+
 9. préciser la personne ou l’entité qui rémunère les membres d’une commission municipale qui sont nommés par le lieutenant-gouverneur en conseil ou par le ministre et régir leur rémunération et leurs dépenses;
+
 10. régir les examens annuels des chefs de police, à l’exclusion du commissaire;
+
 11. établir et régir les exigences à l’égard de la remise au public d’avis relatifs aux réunions des commissions de service de police;
+
 12. régir la publication des politiques visées à l’article 38 ou des politiques locales visées à l’article 69, notamment :
+
 i. prescrire le délai de publication des politiques,
+
 ii. prescrire les politiques qui ne doivent pas être publiées,
+
 iii. prescrire les renseignements qui ne doivent pas être inclus dans les politiques publiées,
+
 iv. régir le mode de publication des politiques;
+
 13. établir la procédure que les commissions de service de police, les conseils de détachement de la Police provinciale ou les conseils de Première Nation sur la Police provinciale, ou leurs comités, doivent suivre et les endroits où doivent se tenir leurs réunions;
+
 14. régir la publication des directives visées à l’article 40, notamment :
+
 i. prescrire le délai de publication des directives,
+
 ii. prescrire les directives qui ne doivent pas être publiées,
+
 iii. prescrire les renseignements qui ne doivent pas être inclus dans les directives publiées,
+
 iv. régir le mode de publication des directives;
+
 15. définir le terme «réunion» pour l’application de l’article 43 ou 44;
+
 16. régir les rapports présentés en application de l’article 81 ou 215 et les rapports sur les plans de sécurité et de bien-être communautaires, y compris préciser à qui ils doivent être présentés et en préciser le contenu obligatoire;
+
 16.1 régir la composition des conseils de détachement de la Police provinciale, y compris le nombre de membres d’un conseil, l’admissibilité à une nomination au conseil et le processus de nomination des membres du conseil;
+
 16.2 régir la durée du mandat, la rémunération et les indemnités des membres des conseils de détachement de la Police provinciale;
+
 16.3 établir et régir les exemptions de l’exigence, prévue au paragraphe 67 (1), de se doter d’un conseil de détachement de la Police provinciale par détachement et préciser ou modifier les modalités d’application de toute disposition de la présente loi à l’égard de l’exemption;
+
 16.4 régir la participation des conseils de détachement de la Police provinciale et des conseils de Première Nation sur la Police provinciale au choix du commandant de détachement;
+
 16.5 régir les prévisions de dépenses préparées par un conseil de détachement de la Police provinciale en application de l’article 71, y compris établir les règles de calcul de la part des coûts qui revient à une municipalité, suivant lesquelles les municipalités pourraient devoir payer une somme supérieure ou inférieure pour les services qu’elles ont reçus, en fonction de leur capacité de payer;
+
 17. régir les frais que les commissions de service de police, le commissaire et les prestataires de services policiers prescrits peuvent facturer pour la prestation de services policiers ou d’autres services, y compris :
+
 i. prescrire le montant des frais pour la prestation d’une fonction policière ou d’un service policier,
+
 ii. prescrire le montant minimal ou maximal qui peut être facturé pour la prestation d’une fonction policière ou d’un service policier,
+
 iii. prescrire que des frais ne peuvent être facturés pour la prestation d’une fonction policière ou d’un service policier;
+
 18. régir la formation que doivent suivre les agents de police et les constables spéciaux, y compris :
+
 i. prescrire la formation visée aux sous-alinéas 83 (1) e) (i) et 92 (1) f) (i), ce qui peut comprendre prescrire la formation qu’approuve le ministre,
+
 ii. dispenser des personnes de l’obligation de suivre la formation visée à la sous-disposition i pour pouvoir être nommées à titre d’agents de police ou de constables spéciaux, sous réserve des éventuelles conditions précisées,
+
 iii. prescrire la formation que les agents de police ou les constables spéciaux doivent suivre et le délai dans lequel ils doivent la suivre,
+
 iv. prescrire des exigences de formation additionnelles, y compris une formation approuvée par le ministre sur des questions prescrites additionnelles;
+
 19. prescrire le formulaire des attestations de nomination délivrées en application de la présente loi;
+
 20. prescrire les sommes minimales que doit recevoir comme salaire, indemnité ou autre forme de rémunération le membre d’un service de police dont le fonctionnement est assuré par une commission de service de police;
+
 21. prescrire les normes vestimentaires des agents de police et des constables spéciaux qui sont de service et les exigences concernant leurs uniformes;
+
 22. préciser l’obligation, prévue au paragraphe 91 (5), pour un membre auxiliaire d’un service de police d’être «accompagné ou supervisé» par un agent de police, y compris prescrire le niveau requis d’accompagnement ou de supervision;
+
 23. régir l’habilitation d’un chef de police à autoriser les membres auxiliaires du service de police à posséder ou à utiliser des armes à feu dans l’exercice de leurs fonctions;
+
 24. prescrire les dossiers, rapports, livres et comptes que doivent tenir les commissions de service de police et leurs membres et les employeurs de constables spéciaux;
+
 25. prescrire la méthode de comptabilisation des frais et débours qui sont remis aux membres des services de police et aux constables spéciaux;
+
 26. régir les exigences et les qualités requises pour la nomination à titre d’inspecteur en vertu de l’article 111;
+
 27. régir les exigences à remplir et les qualités requises pour la nomination à titre d’enquêteur en vertu de l’article 136;
+
 28. établir des catégories d’enquêteurs nommés en vertu de l’article 136 et fixer les exigences à remplir et les qualités requises pour chaque catégorie;
+
 29. établir et régir les règles à suivre par la Commission d’arbitrage et de décision pour facturer le coût de la tenue d’audiences décisionnelles à des commissions de service de police;
+
 30. régir la publication des résumés des décisions prises par le directeur des plaintes en application du paragraphe 167 (2), notamment exiger qu’ils soient publiés dans un délai précisé et, sous réserve de l’exigence de dépersonnalisation des résumés énoncée à ce paragraphe, traiter des renseignements que les résumés doivent contenir;
+
 31. pour l’application du paragraphe 172 (1) :
+
 i. prévoir que le coût d’une enquête menée par un enquêteur sur la conduite d’un agent de police, autre qu’un agent de police qui est membre de la Police provinciale de l’Ontario, ou d’un constable spécial employé par la Commission des parcs du Niagara, soit pris en charge par la commission de service de police qui emploie l’agent de police ou par la Commission des parcs du Niagara,
+
 ii. régir le calcul du coût d’une enquête,
+
 iii. régir la prise en charge du coût d’une enquête, notamment en ce qui concerne le délai et le mode de paiement,
+
 iv. prévoir les circonstances dans lesquelles l’obligation de prendre en charge le coût d’une enquête ne s’applique pas;
+
 32. préciser ou définir les termes utilisés au paragraphe 250 (3);
+
 33. prescrire les personnes qui doivent composer un comité consultatif aux termes du paragraphe 250 (3), ce qui peut comprendre prescrire différentes personnes pour différentes municipalités;
+
 34. régir les consultations concernant les plans de sécurité et de bien-être communautaires, y compris les consultations avec le comité consultatif, et prescrire les exigences en matière de consultation;
+
 35. régir les exigences supplémentaires que doit respecter une municipalité ou un conseil de bande qui prépare un plan de sécurité et de bien-être communautaires;
+
 36. régir le contenu des plans de sécurité et de bien-être communautaires, y compris :
+
 i. prescrire les questions dont doivent traiter ces plans ou les renseignements qu’ils doivent contenir,
+
 ii. prescrire les facteurs de risque que ces plans doivent déterminer;
+
 37. régir la surveillance et l’évaluation des plans de sécurité et de bien-être communautaires;
+
 38. prescrire et régir la rémunération et les indemnités qu’une municipalité doit verser au planificateur de la sécurité et du bien-être communautaires.
 
 ### Incompatibilité
@@ -6663,16 +8095,23 @@ ii. prescrire les facteurs de risque que ces plans doivent déterminer;
 ### Règlement transitoire
 
 (7) Tout règlement pris en vertu de la disposition 71 du paragraphe (1) peut, sans préjudice de la portée générale de cette disposition :
+
 a) dissoudre la Commission civile de l’Ontario sur la police et prévoir les éventuelles questions transitoires portant sur la dissolution;
+
 b) transférer les dossiers liés aux services policiers et établir des règles relatives à leur transfert;
+
 c) exiger d’une entité qu’elle reporte ou retarde des audiences ou exiger que des questions soient traitées par un nouvel organisme en application de la présente loi;
+
 d) modifier ou annuler une entente conclue en vertu de l’article 10 de la Loi sur les services policiers avant son abrogation;
+
 e) dissoudre une commission de police qui exerçait des fonctions en vertu de l’article 10 de la Loi sur les services policiers avant son abrogation;
+
 f) régir le calcul des sommes impayées relativement à une entente conclue en vertu de l’article 10 de la Loi sur les services policiers avant son abrogation et prévoir le paiement de ces sommes ou le remboursement des paiements excédentaires ou leur imputation au crédit d’un compte.
 
 ### Idem
 
 (8) Tout transfert de dossiers contenant des renseignements personnels qu’exige un règlement pris en vertu de la disposition 71 du paragraphe (1) est réputé conforme à l’article 38 et à l’alinéa 42 (1) c) de la Loi sur l’accès à l’information et la protection de la vie privée.
+
 262 Abrogé : 2024, chap. 2, annexe 4, art. 6.
 
 ### La Couronne est liée
@@ -6686,4 +8125,5 @@ f) régir le calcul des sommes impayées relativement à une entente conclue en 
 ### Partie XIX (OMISE)
 
 265 Omis (entrée en vigueur de dispositions de la présente loi).
+
 266 Omis (édiction du titre abrégé de la présente loi).

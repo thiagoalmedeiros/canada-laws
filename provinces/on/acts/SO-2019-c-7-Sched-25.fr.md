@@ -6,13 +6,13 @@ language: fr
 type: act
 document_date: "2023-05-18"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19f07b"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # protection du titre des professionnels des finances (Loi de 2019 sur la)
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/19f07b) before relying on it.
 
 L.O. 2019, chap. 7, annexe 25
 
@@ -21,13 +21,21 @@ L.O. 2019, chap. 7, annexe 25
 ### Définitions
 
 1 Les définitions qui suivent s’appliquent à la présente loi.
+
 «Autorité» L’Autorité ontarienne de réglementation des services financiers maintenue en application du paragraphe 2 (1) de la Loi de 2016 sur l’Autorité ontarienne de réglementation des services financiers. («Authority»)
+
 «directeur général» Le directeur général nommé en application du paragraphe 10 (2) de la Loi de 2016 sur l’Autorité ontarienne de réglementation des services financiers. («Chief Executive Officer»)
+
 «exigence établie en vertu de la présente loi» Exigence imposée par la présente loi ou par un règlement ou une règle de l’Autorité, condition d’une approbation ou exigence imposée par ordonnance. («requirement established under this Act»)
+
 «prescrit» Selon le cas :
+
 a) prescrit par les règlements;
+
 b) en ce qui concerne les questions énumérées au paragraphe 15 (1), prescrit par les règles de l’Autorité, sous réserve du paragraphe 15 (5). («prescribed»)
+
 «règlement» Règlement pris en vertu de la présente loi. («regulation»)
+
 «Tribunal» Le Tribunal des services financiers maintenu en vertu de la Loi de 2017 sur le Tribunal des services financiers. («Tribunal»)
 
 ### Interdictions concernant les titres
@@ -35,13 +43,17 @@ b) en ce qui concerne les questions énumérées au paragraphe 15 (1), prescrit 
 ### Titre protégé : «planificateur financier»
 
 2 Un particulier ne doit utiliser, en Ontario, le titre de «planificateur financier» ou de «Financial Planner», une abréviation de ce titre, un équivalent dans une autre langue ou un titre qui pourrait raisonnablement être confondu avec ce titre que si les conditions suivantes sont réunies :
+
 a) il a obtenu d’un organisme d’accréditation approuvé en vertu de l’article 4 un titre de compétence en planification financière approuvé en vertu du paragraphe 7 (1);
+
 b) son titre de compétence en planification financière est en règle, au sens énoncé dans les règles de l’Autorité, auprès d’un organisme d’accréditation approuvé.
 
 ### Titre protégé : «conseiller financier»
 
 3 Un particulier ne doit utiliser, en Ontario, le titre de «conseiller financier» ou de «Financial Advisor», une abréviation de ce titre, un équivalent dans une autre langue ou un titre qui pourrait raisonnablement être confondu avec ce titre que si les conditions suivantes sont réunies :
+
 a) il a obtenu d’un organisme d’accréditation approuvé en vertu de l’article 4 un titre de compétence en consultation financière approuvé en vertu du paragraphe 7 (2);
+
 b) son titre de compétence en consultation financière est en règle, au sens énoncé dans les règles de l’Autorité, auprès d’un organisme d’accréditation.
 
 ### Approbations
@@ -53,7 +65,9 @@ b) son titre de compétence en consultation financière est en règle, au sens �
 ### Critères et droits
 
 (2) Le directeur général ne doit approuver, en tant qu’organisme d’accréditation, la personne ou l’entité qui présente une demande que si elle réunit les conditions suivantes :
+
 a) elle remplit les critères énoncés dans les règles de l’Autorité concernant les organismes d’accréditation;
+
 b) elle acquitte les droits qu’exigent les règles de l’Autorité.
 
 ### Conditions
@@ -67,7 +81,9 @@ b) elle acquitte les droits qu’exigent les règles de l’Autorité.
 ### Fonctions de l’organisme d’accréditation approuvé
 
 5 (1) L’organisme d’accréditation approuvé encadre les particuliers qui détiennent un titre de compétence approuvé qu’il a délivré conformément à ce qui suit :
+
 a) les conditions de son approbation;
+
 b) les règles de l’Autorité régissant les organismes d’accréditation approuvés.
 
 ### Droits à verser à l’Autorité
@@ -91,7 +107,9 @@ b) les règles de l’Autorité régissant les organismes d’accréditation app
 ### Critères et droits
 
 (3) Le directeur général ne doit approuver un titre de compétence que si l’organisme d’accréditation approuvé qui présente la demande réunit les conditions suivantes :
+
 a) il remplit les critères énoncés dans les règles de l’Autorité concernant les titres de compétence;
+
 b) il acquitte les droits qu’exigent les règles de l’Autorité.
 
 ### Révocation
@@ -129,11 +147,17 @@ b) il acquitte les droits qu’exigent les règles de l’Autorité.
 ### Pouvoirs
 
 (4) Le directeur général ou son délégué peut prendre l’une ou l’autre des mesures suivantes dans le cadre d’une demande de renseignements ou d’un examen :
+
 1. Pénétrer à toute heure raisonnable dans les locaux utilisés relativement aux activités commerciales ou autres du particulier, de la personne ou de l’entité, et les inspecter.
+
 2. Examiner tous les documents et dossiers du particulier, de la personne ou de l’entité qui peuvent se rapporter à la demande de renseignements ou à l’examen.
+
 3. Exiger d’une personne qui semble être employée ou travailler par ailleurs dans les locaux qu’elle réponde à des questions sur tout ce qui peut se rapporter à la demande de renseignements ou à l’examen.
+
 4. Recourir, en vue de produire des renseignements, aux dispositifs ou systèmes de stockage, de traitement ou d’extraction des données utilisés relativement aux activités commerciales ou autres du particulier, de la personne ou de l’entité.
+
 5. Exiger d’une personne qui semble être employée ou travailler par ailleurs dans les locaux qu’elle produise un document ou un dossier ou qu’elle fournisse toute aide raisonnablement nécessaire, y compris en recourant à des dispositifs ou systèmes de stockage, de traitement ou d’extraction des données en vue de produire des renseignements.
+
 6. Prendre, afin de l’examiner et d’en tirer des copies, tout ce qui peut se rapporter à la demande de renseignements ou à l’enquête, y compris des dispositifs de stockage, de traitement ou d’extraction des données en vue de produire des renseignements.
 
 ### Entrée dans un logement
@@ -159,8 +183,11 @@ b) il acquitte les droits qu’exigent les règles de l’Autorité.
 ### Ordonnance de mise en conformité
 
 12 (1) Le présent article s’applique si, de l’avis du directeur général :
+
 a) soit une personne ou une entité commet un acte ou suit une ligne de conduite qui contrevient ou n’est pas conforme à une exigence établie en vertu de la présente loi;
+
 b) soit une personne ou une entité commet un acte ou suit une ligne de conduite qui, selon toute attente raisonnable, risque de créer une situation qui contreviendrait ou ne serait pas conforme à une exigence établie en vertu de la présente loi;
+
 c) soit une personne ou une entité a commis un acte ou suivi une ligne de conduite qui contrevient ou n’est pas conforme à une exigence établie en vertu de la présente loi.
 
 ### Proposition : ordonnance
@@ -220,8 +247,11 @@ c) soit une personne ou une entité a commis un acte ou suivi une ligne de condu
 ### Droits
 
 14 Le ministre peut, par règlement, régir les droits prévus par la présente loi, notamment :
+
 a) exiger le paiement de droits relativement à toute question visée par la présente loi, y compris les services fournis par l’Autorité ou par son entremise;
+
 b) prescrire le montant des droits ou la manière de les calculer;
+
 c) prescrire la manière dont les droits doivent être payés et le délai prévu pour les payer.
 
 ### Règles de l’Autorité : règlements du lieutenant-gouverneur en conseil
@@ -229,30 +259,51 @@ c) prescrire la manière dont les droits doivent être payés et le délai prév
 ### Règles de l’Autorité
 
 15 (1) L’Autorité peut, par règle :
+
 1. Traiter du sens de «en règle» pour l’application des articles 2 et 3.
+
 2. Établir les critères que doivent remplir les organismes d’accréditation pour être approuvés en vertu de l’article 4, notamment des critères relatifs à ce qui suit :
+
 i. la structure et les méthodes de gouvernance de l’auteur de la demande,
+
 ii. les processus disciplinaires que l’auteur de la demande doit avoir en place à l’égard des particuliers qui détiennent des titres de compétence approuvés qu’il a délivrés.
+
 3. Établir les critères que doivent remplir les titres de compétence pour être approuvés en vertu de l’article 7, notamment des critères relatifs à ce qui suit :
+
 i. les exigences en matière de formation,
+
 ii. les exigences en matière d’examen,
+
 iii. le code de déontologie et les normes professionnelles,
+
 iv. les exigences en matière d’éducation permanente.
+
 4. Régir les demandes d’approbation.
+
 5. Régir les organismes d’accréditation approuvés.
+
 6. Abrogée : 2021, chap. 8, annexe 4, par. 2 (2).
+
 7. Traiter des titres de compétence approuvés.
+
 8. Traiter des questions transitoires découlant de l’édiction de l’annexe 25 de la Loi de 2019 pour protéger l’essentiel (mesures budgétaires), y compris le traitement des titres de compétence et des autres qualités que possédaient les particuliers avant l’entrée en vigueur des articles 2, 3, 9 et 10.
+
 9. Soustraire des particuliers ou des catégories de particuliers à l’application de l’article 2 ou 3 dans les circonstances énoncées dans la règle, sous réserve des conditions et restrictions énoncées dans celle-ci.
+
 10. Régir l’utilisation des titres protégés dans les cas où l’approbation d’un organisme d’accréditation approuvé est révoquée ou lorsqu’un tel organisme cesse ses activités ou cesse d’être un organisme d’accréditation approuvé pour l’application de la présente loi.
 
 ### Règlements du lieutenant-gouverneur en conseil
 
 (2) Le lieutenant-gouverneur en conseil peut, par règlement :
+
 a) prescrire tout ce qui doit ou peut être prescrit ou qui doit ou peut être fait conformément aux règlements ou comme le prévoient ceux-ci;
+
 b) traiter de toute question à l’égard de laquelle l’Autorité peut établir des règles, avec les adaptations nécessaires;
+
 c) Abrogé : 2019, chap. 15, annexe 12, par. 1 (2).
+
 d) Abrogé : 2023, chap. 8, annexe 2, par. 1 (2).
+
 e) Abrogé : 2019, chap. 15, annexe 12, par. 1 (2).
 
 ### Loi de 2006 sur la législation
@@ -266,7 +317,11 @@ e) Abrogé : 2019, chap. 15, annexe 12, par. 1 (2).
 ### Prépondérance des règlements
 
 (5) En cas d’incompatibilité entre un règlement pris par le lieutenant-gouverneur en conseil en vertu de la présente loi et une règle de l’Autorité, le règlement l’emporte. Toutefois, les règles de l’Autorité ont la même valeur et le même effet que les règlements à tous autres égards.
+
 16 Omis (modification de la présente loi).
+
 17 à 20 Omis (modification ou abrogation d’autres textes législatifs).
+
 21 Omis (entrée en vigueur de dispositions de la présente loi).
+
 22 Omis (édiction du titre abrégé de la présente loi).

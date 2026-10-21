@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2025-09-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21s08"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Securities Commission Act, 2021
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/21s08) before relying on it.
 
 S.O. 2021, c. 8, Sched. 9
 
@@ -21,8 +21,11 @@ S.O. 2021, c. 8, Sched. 9
 ### Definitions
 
 1 In this Act,
+
 “Commission” means the Ontario Securities Commission continued under this Act; (“Commission”)
+
 “Minister” means the Minister of Finance or such other member of the Executive Council to whom the administration of this Act may be assigned; (“ministre”)
+
 “Tribunal” means the Capital Markets Tribunal established under section 25. (“Tribunal”)
 
 ### Ontario Securities Commission
@@ -38,8 +41,11 @@ S.O. 2021, c. 8, Sched. 9
 ### Objects
 
 4 The Commission’s objects are,
+
 (a) to administer and enforce the Securities Act;
+
 (b) to administer and enforce the Commodity Futures Act; and
+
 (c) to carry out the powers, duties and functions given to the Commission under this or any other Act.
 
 ### Powers and duties
@@ -49,7 +55,9 @@ S.O. 2021, c. 8, Sched. 9
 ### Same
 
 (2) The Commission shall,
+
 (a) exercise the powers conferred on and perform the duties given to it; and
+
 (b) administer and enforce this Act and every other Act that confers powers on or gives duties to it.
 
 ### Decisions of one or more director
@@ -89,7 +97,9 @@ S.O. 2021, c. 8, Sched. 9
 ### Board of directors
 
 8 (1) The Commission’s board of directors shall be composed of,
+
 (a) at least three and not more than 11 individuals appointed by the Lieutenant Governor in Council on the recommendation of the Minister; and
+
 (b) the Chief Executive Officer of the Commission, if the Commission’s by-laws so provide.
 
 ### Same, Chief Executive Officer membership
@@ -143,8 +153,11 @@ S.O. 2021, c. 8, Sched. 9
 ### Financial by-laws
 
 (8) The following apply with respect to a by-law relating to borrowing or investing:
+
 1. Subsections (3) to (7) do not apply.
+
 2. The by-law does not take effect unless it is approved by the Minister and, if the Minister is not the Minister of Finance, the Minister of Finance.
+
 3. The by-law becomes effective on the day it is approved under paragraph 2 or on such later date as the by-law may specify.
 
 ### Publication
@@ -190,7 +203,9 @@ S.O. 2021, c. 8, Sched. 9
 ### Directors and officers — good faith, etc.
 
 14 Every director and officer of the Commission shall, in exercising their powers and performing their duties,
+
 (a) act honestly and in good faith in the best interests of the Commission in carrying out its objects; and
+
 (b) exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances.
 
 ### Public Service Pension Plan not to apply
@@ -222,20 +237,31 @@ S.O. 2021, c. 8, Sched. 9
 ### Exceptions
 
 (2) The Commission shall pay into the Consolidated Revenue Fund money received by the Commission pursuant to an order under paragraph 9 of subsection 127 (1) of the Securities Act or paragraph 9 of subsection 60 (1) of the Commodity Futures Act, money received as payment to settle enforcement proceedings commenced by the Commission, and money described in subsections 128.1 (14) and (15) of the Securities Act or subsections 60.2.1 (14) and (15) of the Commodity Futures Act, other than,
+
 (a) money to reimburse the Commission for costs incurred to enforce an order of the Tribunal or for costs to be incurred for that purpose;
+
 (b) money that the Commission allocates,
+
 (i) to or for the benefit of third parties,
+
 (ii) for use, by the Commission or third parties, for the purpose of educating investors or promoting or otherwise enhancing knowledge and information of persons regarding the operation of the securities and financial markets,
+
 (iii) for use to pay administrative costs in relation to the distribution of disgorged amounts in accordance with subsection 128.1 (9) or (12) of the Securities Act or subsection 60.2.1 (9) or (12) of the Commodity Futures Act, or
+
 (iv) for any other purpose specified in the regulations;
+
 (c) previously designated money that the Commission allocates for a purpose described in clause (a) or (b); or
+
 (d) previously designated money that the Commission allocates for any additional purpose specified in the regulations.
 
 ### Interpretation, previously designated money
 
 (2.1) In subsection (2),
+
 “previously designated money” means money that,
+
 (a) has been received by the Commission according to the terms of an order or as a payment to settle enforcement proceedings commenced by the Commission, and
+
 (b) was designated under clause 3.4 (2) (b) of the Securities Act, as that clause read immediately before its repeal.
 
 ### Allocation, subs. (2) (b)
@@ -283,8 +309,11 @@ S.O. 2021, c. 8, Sched. 9
 ### Same
 
 (2) The Commission shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the business plan;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -310,8 +339,11 @@ S.O. 2021, c. 8, Sched. 9
 ### Same
 
 (2) The Commission shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide it to the Minister; and
+
 (c) when and how to make it available to the public.
 
 ### Same
@@ -381,6 +413,7 @@ S.O. 2021, c. 8, Sched. 9
 ### Immunity of Commission, employees and others
 
 33 (1) No proceeding, including a court, administrative or arbitral proceeding, shall be commenced against the Commission, any current or former director, employee or agent of the Commission or any current or former Chief Executive Officer or adjudicator for any act done in good faith in the exercise or performance, or intended exercise or performance, of the person’s powers, duties or functions under this Act, the Securities Act, the Commodity Futures Act or any other Act or for any alleged neglect or default in the exercise or performance of those powers, duties or functions.
+
 (2) Repealed: 2021, c. 40, Sched. 19, s. 5.
 
 ### Non-compellability
@@ -396,7 +429,9 @@ S.O. 2021, c. 8, Sched. 9
 ### Initial review
 
 35.1 (1) Within five years after the day section 6 of Schedule 19 to the Build Ontario Act (Budget Measures), 2021 comes into force, the Minister shall direct a public servant employed under Part III of the Public Service of Ontario Act, 2006 or another person to,
+
 (a) review the matters the Minister specifies with respect to this Act, the Securities Act or the Commodity Futures Act or any other aspect of the regulation of the capital markets; and
+
 (b) make recommendations to the Minister in respect of those matters.
 
 ### Subsequent reviews
@@ -416,7 +451,11 @@ S.O. 2021, c. 8, Sched. 9
 ### Regulations
 
 (1) The Lieutenant Governor in Council may make regulations governing transitional matters arising from the enactment of this Act, including transitional matters relating to hearings in proceedings that were commenced under the Securities Act or the Commodity Futures Act before the day this Act came into force.
+
 37 Omitted (provides for amendments to this Act).
+
 38-40 Omitted (amends, repeals or revokes other legislation).
+
 41 Omitted (provides for coming into force of provisions of this Act).
+
 42 Omitted (enacts short title of this Act).

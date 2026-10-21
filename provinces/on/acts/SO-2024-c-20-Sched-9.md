@@ -6,13 +6,13 @@ language: en
 type: act
 document_date: "2026-04-01"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24i20a"
 upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
 ---
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # iGaming Ontario Act, 2024
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/24i20a) before relying on it.
 
 S.O. 2024, c. 20, Sched. 9
 
@@ -21,20 +21,31 @@ S.O. 2024, c. 20, Sched. 9
 ### Purposes
 
 1 The purposes of this Act are to,
+
 (a) enhance the economic development of the Province;
+
 (b) generate revenue for the Province;
+
 (c) promote responsible gaming with respect to online lottery schemes; and
+
 (d) ensure that anything done for a purpose set out in clause (a) to (c) is also done for the public good and in the best interests of the Province.
 
 ### Definitions
 
 2 In this Act,
+
 “Corporation” means iGaming Ontario; (“Société”)
+
 “electronic gaming site” means an electronic channel maintained for the purpose of playing or operating a lottery scheme; (“site de jeu électronique”)
+
 “lottery scheme” has the same meaning as in subsection 207 (4) of the Criminal Code (Canada); (“loterie”)
+
 “Minister” means the member of the Executive Council to whom responsibility for the administration of this Act may be assigned or transferred under the Executive Council Act; (“ministre”)
+
 “online lottery scheme” means a lottery scheme offered through an electronic gaming site that is operated by a supplier registered as an operator under the Gaming Control Act, 1992; (“loterie en ligne”)
+
 “prescribed” means prescribed by the regulations; (“prescrit”)
+
 “regulations” means the regulations made under this Act. (“règlements”)
 
 ### iGaming Ontario
@@ -50,10 +61,15 @@ S.O. 2024, c. 20, Sched. 9
 ### Objects and duties
 
 4 (1) The Corporation has the following objects and duties:
+
 1. To develop, undertake, organize, conduct and manage online lottery schemes.
+
 2. To ensure that online lottery schemes are conducted and managed in accordance with the Criminal Code (Canada) and the Gaming Control Act, 1992, and the regulations made under them.
+
 3. To promote responsible gaming with respect to online lottery schemes.
+
 4. Subject to the Minister’s approval, to enter into agreements to develop, undertake, organize, conduct and manage lottery schemes on behalf of, or in conjunction with, the governments of one or more provinces or territories of Canada.
+
 5. Any other prescribed objects or duties.
 
 ### Same
@@ -67,9 +83,13 @@ S.O. 2024, c. 20, Sched. 9
 ### Limitations
 
 (2) The Corporation shall not exercise any of the following powers without the approval of the Lieutenant Governor in Council:
+
 1. Create a subsidiary.
+
 2. Acquire, hold or dispose of any interest in real property.
+
 3. Borrow money or give security against property.
+
 4. Any prescribed power.
 
 ### Application of corporate statutes to Corporation
@@ -103,15 +123,21 @@ S.O. 2024, c. 20, Sched. 9
 ### Composition
 
 (2) The board of directors shall be composed of,
+
 (a) no more than nine individuals appointed by the Minister; and
+
 (b) a president and chief executive officer appointed under section 11 who shall be a member by virtue of office, subject to the limitations provided for by this Act.
 
 ### Disqualifying factors
 
 (3) An individual is not eligible to be appointed as a member of the board of directors under clause (2) (a) if the individual,
+
 (a) is less than 18 years of age;
+
 (b) has been found under the Substitute Decisions Act, 1992 or the Mental Health Act to be incapable of managing property or has been found to be incapable by a court in Canada or elsewhere;
+
 (c) has been convicted of fraud or a similar offence by any court in Canada or elsewhere; or
+
 (d) has the status of bankrupt.
 
 ### Remuneration, expenses
@@ -129,7 +155,9 @@ S.O. 2024, c. 20, Sched. 9
 ### Acting chair
 
 (3) If the chair is absent or otherwise unavailable to act, or if the office of the chair is vacant,
+
 (a) the vice-chair shall act as the chair; or
+
 (b) if the office of the vice-chair is vacant, or the vice-chair is also absent or otherwise unavailable to act, the members present shall appoint an acting chair from among themselves to act as the chair.
 
 ### Quorum
@@ -163,8 +191,11 @@ S.O. 2024, c. 20, Sched. 9
 ### By-laws
 
 12 (1) The board of directors may make by-laws regulating its proceedings and generally for the management of the Corporation’s affairs, including by-laws to,
+
 (a) set out the powers, duties and functions of the president and chief executive officer and any other officers of the Corporation;
+
 (b) establish committees of the board; and
+
 (c) effect the orderly transaction of the Corporation’s business.
 
 ### Limitation
@@ -174,10 +205,15 @@ S.O. 2024, c. 20, Sched. 9
 ### Delegation of powers, duties and functions
 
 13 (1) The board of directors may delegate, in writing, to a committee of the board or to an officer or employee of the Corporation any of the board’s powers, duties or functions, other than a power to,
+
 (a) approve the Corporation’s budget, including the budget for capital expenditures and staffing;
+
 (b) approve the Corporation’s business plan, annual report or financial statements;
+
 (c) appoint or remove the president and chief executive officer;
+
 (d) establish committees of the board and fill vacancies on those committees; or
+
 (e) make, amend or repeal by-laws or resolutions of the Corporation.
 
 ### Conditions
@@ -221,14 +257,19 @@ S.O. 2024, c. 20, Sched. 9
 ### Annual report
 
 19 (1) The Corporation shall prepare an annual report and,
+
 (a) provide it to the Minister; and
+
 (b) make it available to the public.
 
 ### Directives
 
 (2) The Corporation shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,
+
 (a) the form and content of the annual report;
+
 (b) when to provide the annual report to the Minister; and
+
 (c) when and how to make the annual report available to the public.
 
 ### Additional content
@@ -274,8 +315,11 @@ S.O. 2024, c. 20, Sched. 9
 ### Proceedings barred
 
 23 (1) No proceeding shall be commenced,
+
 (a) against any person specified in subsection 21 (1) in respect of a matter referred to in that subsection;
+
 (b) against the Crown or any person specified in subsection 21 (1) in respect of a matter referred to in subsection 21 (3); or
+
 (c) against any person specified in subsection 22 (1) in respect of a matter referred to in that subsection.
 
 ### Same
@@ -305,17 +349,31 @@ S.O. 2024, c. 20, Sched. 9
 ### Regulations
 
 26 The Lieutenant Governor in Council may make regulations,
+
 (a) respecting anything that, in this Act, may or must be prescribed or done by regulation;
+
 (b) governing the payment out of the Corporation’s revenues, including,
+
 (i) requiring or authorizing the Corporation to make payments out of its revenues,
+
 (ii) requiring that payments be made according to a specified priority,
+
 (iii) providing that payments must or may be made at the direction of a minister of the Crown,
+
 (iv) requiring or authorizing the Minister or the Corporation to make information related to payments publicly available and governing the manner in which the information is made publicly available;
+
 (c) governing transitional matters that may arise from the implementation of,
+
 (i) this Act, including any amendments made to it,
+
 (ii) the amendments made to the Alcohol and Gaming Commission of Ontario Act, 2019 by Schedule 9 to the Building Ontario For You Act (Budget Measures), 2024 in respect of the lottery subsidiary or the revocation of Ontario Regulation 722/21 (Lottery Subsidiary – iGaming Ontario) made under the Alcohol and Gaming Commission of Ontario Act, 2019;
+
 (d) respecting any matter that the Lieutenant Governor in Council considers necessary or advisable to effectively carry out the purposes of this Act.
+
 27 Omitted (provides for amendments to this Act).
+
 28-31 Omitted (amends, repeals or revokes other legislation).
+
 32 Omitted (provides for coming into force of provisions of this Act).
+
 33 Omitted (enacts short title of this Act).
