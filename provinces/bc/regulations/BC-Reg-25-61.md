@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: ""
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/25_61/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Hospital Insurance Act Regulations
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/25_61/xml) before relying on it.
 
 BC Reg 25/61
 
@@ -387,6 +387,7 @@ Where the treatment is provided
 8.3 Repealed. [B.C. Reg. 282/2009, Sch., s. 4.]
 
 ### Monthly charge for beneficiaries residing
+
  in extended care or general hospitals
 
 8.4 (1) Subject to subsections (2), (3) and (4), a beneficiary who resides in an extended care hospital or a general hospital must pay a monthly charge that equals

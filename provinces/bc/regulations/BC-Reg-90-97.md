@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "1997-03-13"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/90_97/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Pension Fund Societies Act Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/90_97/xml) before relying on it.
 
 BC Reg 90/97
 
@@ -47,6 +47,7 @@ SIGNATURES OF OFFICIALS:
 SIGNED IN THE PRESENCE OF:
 
 .........................................
+
  Signature of Witness
 
 .........................................
@@ -54,6 +55,7 @@ SIGNED IN THE PRESENCE OF:
 .........................................
 
 .........................................
+
  Address
 
 [Provisions of the Pension Fund Societies Act, R.S.B.C. 1996, c. 354, relevant to the enactment of this regulation: section 17]

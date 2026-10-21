@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "1985-03-15"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_85/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Weed Control Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_85/xml) before relying on it.
 
 BC Reg 66/85
 
@@ -195,6 +195,7 @@ The following additional weeds listed are designated as noxious weeds within the
 ## Schedule B
 
 PROVINCE OF BRITISH COLUMBIA
+
  MINISTRY OF AGRICULTURE AND LANDS
 
 Weed Control Act (section 4)
@@ -204,11 +205,15 @@ Weed Control Regulation (section 3)
 NOTICE TO OCCUPIER TO CONTROL WEEDS
 
 You must, within .................. days from the date of this notice, control the listed noxious weeds growing on the following lands:
+
  ......................................................................................................................................................................
+
  ......................................................................................................................................................................
 
 Weeds to be controlled:
+
  ......................................................................................................................................................................
+
  ......................................................................................................................................................................
 
 To control the weeds, you must take the steps that are checked on the following list:
@@ -234,6 +239,7 @@ The land will be inspected after ................... days from the date of this 
 ## Schedule C
 
 PROVINCE OF BRITISH COLUMBIA
+
  MINISTRY OF AGRICULTURE AND LANDS
 
 PERMIT FOR REMOVAL OF SCREENINGS
@@ -257,6 +263,7 @@ Dated at .............................., this .......... day of ................
 ## Schedule D
 
 PROVINCE OF BRITISH COLUMBIA
+
  MINISTRY OF AGRICULTURE AND LANDS
 
 FEEDER'S PERMIT

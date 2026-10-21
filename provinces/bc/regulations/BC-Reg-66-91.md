@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "1991-03-12"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_91/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Residential Flat Rate Tax Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_91/xml) before relying on it.
 
 BC Reg 66/91
 

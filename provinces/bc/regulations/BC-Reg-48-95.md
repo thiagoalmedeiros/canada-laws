@@ -6,17 +6,18 @@ language: en
 type: regulation
 document_date: "1995-02-06"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/48_95/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Remission Regulation No. 3 (Commonwealth of Learning Agency)
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/48_95/xml) before relying on it.
 
 BC Reg 48/95
 
 # Remission Regulation No. 3
+
  (Commonwealth of Learning Agency)
 
 ### Remission authorized

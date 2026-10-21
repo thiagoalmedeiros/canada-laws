@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "1988-02-18"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/63_88_00_multi/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Hazardous Waste Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/63_88_00_multi/xml) before relying on it.
 
 BC Reg 63/88
 
@@ -2044,6 +2044,7 @@ is not a hazardous waste.
 (b) rinse it using the appropriate method indicated in the following table:
 
 **TABLE
+
 Methods for Rinsing Waste Pest Control Product Containers**
 
 | | |
@@ -3551,14 +3552,17 @@ Manifest Supplement - Multiple Consignors
 File No. ............... (for official use)
 
 APPLICATION FOR A CHANGE IN REQUIREMENTS
+
 OF THE HAZARDOUS WASTE REGULATION
 
 Notice: A person who may be adversely affected by a change in requirements of the Hazardous Waste Regulation may, within 30 days from the last date of publishing, write to a director at ............................... stating how the person is affected by the change.
 
 1. I/We, ....................................................................................................................................................
+
 (Full name, if a company, British Columbia registered name)
 
 of ...........................................................................................................................................................
+
 (Address, if a company, British Columbia registered address)
 
 hereby apply for a change in requirements of the Hazardous Waste Regulation.
@@ -3608,11 +3612,15 @@ hereby apply for a change in requirements of the Hazardous Waste Regulation.
 8. The proposed changes are summarized as follows:
 
 (a) Before:..............................................................
+
 ..........................................................................
+
 ..........................................................................
 
 (b) After:..............................................................
+
 ........................................................................
+
 ........................................................................
 
 9. On .............................................................., 20..., a copy of this application was posted at or near the point where the hazardous waste is produced or managed.

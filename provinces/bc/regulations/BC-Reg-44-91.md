@@ -6,17 +6,18 @@ language: en
 type: regulation
 document_date: "1991-02-15"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/44_91/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Regional District of Bulkley-Nechako Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/44_91/xml) before relying on it.
 
 BC Reg 44/91
 
 # Regional District of
+
 Bulkley-Nechako Regulation
 
 ### Economic Development

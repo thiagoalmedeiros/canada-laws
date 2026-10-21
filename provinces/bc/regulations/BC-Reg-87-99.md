@@ -6,17 +6,18 @@ language: en
 type: regulation
 document_date: "1999-03-30"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/87_99/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Greater Vancouver Transit Conduct and Safety Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/87_99/xml) before relying on it.
 
 BC Reg 87/99
 
 # Greater Vancouver Transit Conduct and
+
 Safety Regulation
 
 ### Definitions

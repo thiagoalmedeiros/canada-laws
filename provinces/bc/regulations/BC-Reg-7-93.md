@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "1993-01-14"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/7_93/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Labour Relations Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/7_93/xml) before relying on it.
 
 BC Reg 7/93
 
@@ -250,6 +250,7 @@ the board may make orders varying or suspending a provision that are not inconsi
 ## Schedule 2
 
 **Return of Poll
+
 (Strike or Lockout Vote)**
 
 | | | |
@@ -271,9 +272,11 @@ I certify that this vote has been conducted in accordance with the Labour Relati
 | Dated ........................................................ | Signed .................................................................................... Returning Officer |
 
 ....................................................................................
+
  Name of Employer or Employers' Organization (as applicable)
 
 ....................................................................................
+
  Name of Trade Union or Council of Trade Unions (as applicable)
 
 [Provisions relevant to the enactment of this regulation: Labour Relations Code, R.S.B.C. 1996, c. 244, s. 159.]

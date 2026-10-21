@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: ""
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/26_58_00_multi/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Motor Vehicle Act Regulations
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/26_58_00_multi/xml) before relying on it.
 
 BC Reg 26/58
 
@@ -1035,6 +1035,7 @@ that are capable of displaying only red light.
 ## Schedule
 
 Table 1 — Standards for Approval of a Motor Vehicle Headlamp
+
 and Other Illuminating Lamps Aiming Requirements
 
 Visual aim based in millimetres at 7.62 metres
@@ -2574,6 +2575,7 @@ The side or centre stand of a motorcycle when placed in the stored position shal
 (2) Subsection (1) does not apply to a vehicle equipped with a suspension controller accessible in the passenger compartment provided the controller is designed and installed by the original vehicle manufacturer at the time of manufacture.
 
 ### Division 7E — Speed Limiters
+
  in Heavy Commercial Vehicles
 
 ### Exclusions from definition of "heavy commercial vehicle"
@@ -2647,6 +2649,7 @@ The side or centre stand of a motorcycle when placed in the stored position shal
 (c) the forces of nature.
 
 ### Exemption by director for vehicles
+
  incapable of meeting speed limiter requirements
 
 7E.07 (1) On application by the owner of a heavy commercial vehicle, the director may, in writing, unconditionally or on conditions the director considers desirable, exempt drivers or operators of the heavy commercial vehicle from one or both of the provisions set out in section 7E.06 (1) if the director can reasonably form the opinion that the vehicle is equipped with an electronic control module that is incapable of meeting the speed limiter requirements under section 146.1 (2) of the Act.
@@ -4164,6 +4167,7 @@ Note: For any of the following signs displaying a maximum speed, the abbreviatio
 | [Image] 60 x 60 cm | NO PASSING (Regulatory) Vehicles are prohibited from passing. This sign may be supplemented with a tab below it reading "PASSING PROHIBITED". Colour: Black and red on white reflectorized background. |
 
 TURN CONTROL SIGNS (Regulatory)
+
  The following 4 signs each mean that all vehicles are restricted to making only the movement or movements permitted by the sign.
 
 | | | |
@@ -4182,6 +4186,7 @@ TURN CONTROL SIGNS (Regulatory)
 | 4:00‒6:00 p.m. Mon.‒Fri. | OR | Buses Exempt. |
 
 LANE USE SIGNS (Regulatory)
+
  The following 5 signs each mean that all vehicles within a traffic lane, over which any of these signs is suspended, must make only the movement or movements indicated on the sign when arriving at the next intersection:
 
 | | | |
@@ -4281,6 +4286,7 @@ Spent.
 Repealed. [B.C. Reg. 39/2010, App. B, s. 6.]
 
 ### Division 24 — Vehicles of Unusual Size,
+
  Weight or Operating Characteristics
 
 ## Part 1 — Interpretation
@@ -6394,6 +6400,7 @@ unless paragraph (b.1) or (b.2) applies,
 (11) The qualifications and requirements set out in subsections (1) to (9) are in addition to and not in place of any other requirement, restriction or condition imposed under the Act or the regulations for the application.
 
 ### Class 1 mandatory entry-level training requirements —
+
  applications
 
 30.051 (1) Subject to sections 30.052 and 30.053, an applicant for a Class 1 licence must demonstrate that the applicant has successfully completed, to the satisfaction of the Insurance Corporation of British Columbia,
@@ -6405,6 +6412,7 @@ unless paragraph (b.1) or (b.2) applies,
 (2) For the purposes of subsection (1) (b), the Insurance Corporation of British Columbia may determine that an applicant is required to complete a part of the Class 1 mandatory entry-level training course for the corporation to consider the training course in another Canadian jurisdiction similar to the Class 1 mandatory entry-level training course.
 
 ### Class 1 mandatory entry-level training requirements —
+
  exemptions for Class 1 licence holders and reciprocal exemptions
 
 30.052 (1) In this section and section 30.053, *Class 1 road test* means a road test required by the Insurance Corporation of British Columbia to determine an applicant's driving experience, driving skills, qualifications, fitness and ability to drive and operate a motor vehicle for which a Class 1 licence is required.
@@ -6780,6 +6788,7 @@ is exempt from the requirement to submit to tests required under section 25 (3) 
 (2) If a person who holds a driver's licence that indicates the driver is a Canadian citizen ceases to be a Canadian citizen, the Insurance Corporation of British Columbia may cancel the licence.
 
 ### Division 30C — Drivers' Licences — Exemption for
+
  Non-Resident Temporary Workers
 
 ### Seasonal agricultural workers
@@ -9246,6 +9255,7 @@ Specified Conditions of Carriage — Household Goods
 *mobility scooter* means a scooter that is designed and manufactured to transport persons who have limited mobility as a result of a permanent or temporary disability that makes it impossible or difficult to walk, has an electric motor that is not capable of propelling the device at a speed exceeding 25 km/h when the device is being operated on a clean, paved and level surface, and meets the criteria set out in section 182.01 (2) (a) to (c) of the Act.
 
 ### Electric wheelchairs and mobility scooters
+
  prescribed as designated personal mobility devices
 
 38A.02 For the purposes of section 182.01 (1) of the Act, electric wheelchairs and mobility scooters are prescribed as designated personal mobility devices.
@@ -9535,16 +9545,19 @@ Repealed. [B.C. Reg. 133/2019, App. 3, s. 3.]
 ## Schedule A.1
 
 Certificate of Enforcement Officer
+
  Speeding Offences
 
 ## Schedule A.2
 
 Certificate of Enforcement Officer
+
  Posted Speed Limit (Section 83.1 (14))
 
 ## Schedule A.3
 
 Certificate of Enforcement Officer
+
  Posted Speed Limit
 
 ## Schedules B to V
@@ -9592,6 +9605,7 @@ b) in this certificate all times referred to are indicated in the 24 hour clock 
 Date Certificate Completed: ...............................
 
 Enforcement Officer's Signature
+
  and ITCU ID. #: ........................................................................................
 
 Certificate of Enforcement Officer
@@ -9697,6 +9711,7 @@ IMAGE FOUR (Enlargement of Licence Plate Area from Image Three)
 ### Division 43 — Administrative and Immediate Roadside Driving Prohibitions and Vehicle Impoundment Programs
 
 ### Prescribed blood drug concentrations
+
  and blood alcohol concentrations
 
 43.001 (1) In this section, *BDCR* means the Blood Drug Concentration Regulations (Canada).
@@ -9816,6 +9831,7 @@ Repealed. [B.C. Reg. 238/2010, Sch., s. 2.]
 [section 43.01 (2)]
 
 Notice of Prohibition
+
  Immediate Roadside Prohibition
 
 ### Division 44 — Mobility Aid Accessible Taxi Standards
@@ -10094,6 +10110,7 @@ and the longer dimension must be parallel to the vehicle's longitudinal centre l
 (2) The prescribed fee for an ignition interlock program under section 25.1, 25.2 or 233 (3) of the Act is $150.
 
 ### Division 47 — Speed Limits and Traffic Rules
+
 if Official Vehicle Parked on a Highway
 
 ### Definition

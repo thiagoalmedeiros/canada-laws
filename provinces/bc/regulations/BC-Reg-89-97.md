@@ -6,17 +6,18 @@ language: en
 type: regulation
 document_date: "1997-03-13"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/89_97_00_multi/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Violation Ticket Administration and Fines Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/89_97_00_multi/xml) before relying on it.
 
 BC Reg 89/97
 
 # Violation Ticket Administration
+
  and Fines Regulation
 
 ### Interpretation

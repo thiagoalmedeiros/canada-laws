@@ -6,17 +6,18 @@ language: en
 type: regulation
 document_date: "1997-01-14"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/5_97/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Weld Repair of Aluminum Alloy Wheels Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/5_97/xml) before relying on it.
 
 BC Reg 5/97
 
 # Weld Repair of Aluminum
+
  Alloy Wheels Regulation
 
 ### Definitions
@@ -190,6 +191,7 @@ BC Reg 5/97
 ## Schedule 1
 
 Test Methods and Acceptance Criteria
+
  for Welding Performance
 
 1 Refer to the procedures outlined in Canadian Standards Association W47.2-M1987 standard or the GTAW or GMAW process for welding in a "flat position" of weld bead overlay, weld buildup and full penetration groove weld.

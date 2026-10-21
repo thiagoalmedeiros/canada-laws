@@ -6,17 +6,18 @@ language: en
 type: regulation
 document_date: "1996-01-25"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/22_96/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Timber Harvesting Contract and Subcontract Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/22_96/xml) before relying on it.
 
 BC Reg 22/96
 
 # Timber Harvesting Contract
+
 and Subcontract Regulation
 
 ## Part 1 — Interpretation, Application and Notice
@@ -1708,6 +1709,7 @@ Q × (R ÷ S)
 (Section 4 (1))
 
 **Standard Provision — Assignability of
+
 Replaceable Contracts**
 
 | | | | |
@@ -1720,6 +1722,7 @@ Replaceable Contracts**
 (Section 4 (2))
 
 **Standard Provision — Assignability of
+
 Replaceable Subcontracts**
 
 | | | | |
@@ -1900,6 +1903,7 @@ Repealed. [B.C. Reg. 278/2004, s. 37.]
 (Section 33)
 
 **Standard Provision — Termination
+
 Due to Work Reduction**
 
 | | | | |
@@ -1993,6 +1997,7 @@ Due to Work Reduction**
 (Section 37 (2))
 
 **Standard Provision — Termination of Replacement
+
 Subcontract Due to Insufficient Work**
 
 | | | | |
@@ -2004,6 +2009,7 @@ Subcontract Due to Insufficient Work**
 (Section 37.1)
 
 **Standard Provision — Replacement of Subcontract on
+
  Licence, Transfer, Subdivision or Consolidation**
 
 | | | | |
@@ -2015,6 +2021,7 @@ Subcontract Due to Insufficient Work**
 (Section 37.2)
 
 **Standard Provision — Replacement of Subcontract
+
  on Assignment of Contract**
 
 | | | | |

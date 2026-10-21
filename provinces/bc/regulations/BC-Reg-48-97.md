@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "1997-02-21"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/48_97/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # National Instrument 14-101 Definitions
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/48_97/xml) before relying on it.
 
 BC Reg 48/97
 
@@ -119,6 +119,7 @@ BC Reg 48/97
 ## Appendix A
 
 PROVINCIAL AND TERRITORIAL SECURITIES DIRECTIONS/
+
  CANADIAN SECURITIES DIRECTIONS
 
 | | |
@@ -141,6 +142,7 @@ PROVINCIAL AND TERRITORIAL SECURITIES DIRECTIONS/
 ## Appendix B
 
 PROVINCIAL AND TERRITORIAL SECURITIES LEGISLATION/
+
  CANADIAN SECURITIES LEGISLATION
 
 | | |
@@ -163,6 +165,7 @@ PROVINCIAL AND TERRITORIAL SECURITIES LEGISLATION/
 ## Appendix C
 
 PROVINCIAL AND TERRITORIAL SECURITIES REGULATORY AUTHORITIES/
+
  CANADIAN SECURITIES REGULATORY AUTHORITIES
 
 | | |

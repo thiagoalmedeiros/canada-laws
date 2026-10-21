@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "1982-02-26"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/69_82/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Vital Statistics Act Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/69_82/xml) before relying on it.
 
 BC Reg 69/82
 
@@ -235,9 +235,11 @@ Fees
 3 For correcting an error or omission under section 29 of the Act .....................................................$27
 
 4 For a search for an event specified under section 35 (1) of the Act for each 3 year
+
 period or part thereof ..................................................................................................................$27
 
 5 For a certificate of a registration or record under section 36 (1), 38 (1) or
+
 39 (1) of the Act, including the search fee covering one 3 year period,
 
 (a) when provided at convenience, per certificate or copy thereof ....................................$27
@@ -245,12 +247,17 @@ period or part thereof .........................................................
 (b) when same day service is requested and provided, one certificate ..............................$60
 
 (c) when a certificate of marriage registration is issued under section
+
 37 (1) of the Act at the time of the registration of marriage by
+
 the director, if the marriage licence required under section 15
+
 of the Marriage Act is issued on or after April 1, 1998 .....................................................$0
 
 6 For a certified copy, photostatic copy or photographic print of a registration
+
 under section 36 (4), 37 (1) or (2) or 38 (3) of the Act, including the fee for a
+
 search covering one 3 year period,
 
 (a) when provided at convenience, per copy thereof ......................................................$50
@@ -268,6 +275,7 @@ search covering one 3 year period,
 9 For each electronic extract or verification of a record of registration under section 36 (4), 37 (2), 38 (3) or 39 (1) of the Act if the extract is provided in either electronic or printed form,
 
 (a) if a standard format data extract is requested by a person acting on behalf of
+
 a ministry or agency of the Government of British Columbia
 
 (i) per monthly extract .........................................................................................$100
@@ -277,6 +285,7 @@ a ministry or agency of the Government of British Columbia
 (iii) per annual extract ..........................................................................................$300
 
 (b) if a standard format data extract is requested by a person not acting on behalf
+
 of a ministry or agency of the Government of British Columbia
 
 (i) per monthly extract .........................................................................................$200
@@ -286,6 +295,7 @@ of a ministry or agency of the Government of British Columbia
 (iii) per annual extract ..........................................................................................$500
 
 (c) if a specially developed data extract is requested by a person acting on behalf
+
 of a ministry or agency of the Government of British Columbia
 
 (i) minimum ........................................................................................................$200
@@ -293,6 +303,7 @@ of a ministry or agency of the Government of British Columbia
 (ii) per record over 800 records ...........................................................................$0.25
 
 (d) if a specially developed data extract is requested by a person not acting on
+
 behalf of a ministry or agency of the Government of British Columbia
 
 (i) minimum .......................................................................................................$300

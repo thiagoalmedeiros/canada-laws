@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "1981-02-23"
 retrieved: "2026-10-17"
-source: ""
+source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_81/xml"
 upstream_license: ""
 ---
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Pound Districts Regulation
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_81/xml) before relying on it.
 
 BC Reg 66/81
 
@@ -289,6 +289,7 @@ And further take notice that unless you appear at the pound within 5 days after 
 Dated ...................................[date].
 
 ..............................................................................
+
 KEEPER
 
 ## Schedule B
@@ -300,6 +301,7 @@ Notice is given that on ...................................[date] I will sell at
 Dated ...................................[date].
 
 ..............................................................................
+
 KEEPER
 
 [Provisions relevant to the enactment of this regulation: Livestock Act, R.S.B.C. 1996, c. 270, s. 20 (2).]
