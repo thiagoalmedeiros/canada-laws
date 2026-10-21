@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "2026-06-18"
 retrieved: "2026-10-17"
-source: ""
+source: "https://kings-printer.alberta.ca/1266.cfm?page=2018_042.cfm&leg_type=Regs&isbncln=9780779863235&display=html"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 ---
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Conflicts of Interest Act Part 4.3 Designation Order
+
+> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2018_042.cfm&leg_type=Regs&isbncln=9780779863235&display=html) before relying on it.
 
 Alta Reg 42/2018
 
@@ -21,18 +21,27 @@ Alta Reg 42/2018
 ### Definitions
 
 1 In this Order,
+
 (a) “Act” means the Conflicts of Interest Act ;
+
 (b) “CEO” means Chief Executive Officer;
+
 (c) “subsidiaries” means one or more subsidiaries within the meaning of section 2 of the Business Corporations Act ;
+
 (d) “successor body” means a successor to a public agency listed in column 1 of the Schedule, or to a body that is to be treated as a public agency pursuant to section 23.921(1)(c) of the Act and which is listed in column 1 if, in the opinion of the Minister, there is a successor body;
+
 (e) “successor position” means a successor to a position listed in column 2 or 3 of the Schedule if, in the opinion of the Minister, there is a successor position.
 
 ### Designations
 
 2 For the purposes of section 23.921(3) and (4) of the Act,
+
 (a) the public agencies listed in column 1 of Table 1 of the Schedule, their subsidiaries and any successor body, are designated as public agencies whose senior officials may be designated under section 23.921(4)(b) of the Act,
+
 (b) the bodies listed in column 1 of Table 2 of the Schedule that, pursuant to section 23.921(1)(c) of the Act, are to be treated as a public agency for the purposes of Part 4.3 of the Act, their subsidiaries and any successor body are designated as public agencies whose senior officials may be designated under section 23.921(4)(b) of the Act,
+
 (c) the public agency positions identified in column 2 of Tables 1 and 2 of the Schedule and any successor positions are, for the purposes of section 23.921(3) of the Act, senior official positions, and
+
 (d) the senior official positions identified in column 3 of Tables 1 and 2 of the Schedule and any successor positions are designated, for the purposes of section 23.921(4)(b) of the Act as having the obligations of designated senior officials for the purposes of Part 4.3 of the Act.
 
 ## Schedule Table 1

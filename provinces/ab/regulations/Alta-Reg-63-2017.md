@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "2026-03-13"
 retrieved: "2026-10-17"
-source: ""
+source: "https://kings-printer.alberta.ca/1266.cfm?page=2017_063.cfm&leg_type=Regs&isbncln=9780779861590&display=html"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 ---
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Procedures Regulation
+
+> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2017_063.cfm&leg_type=Regs&isbncln=9780779861590&display=html) before relying on it.
 
 Alta Reg 63/2017
 
@@ -21,104 +21,175 @@ Alta Reg 63/2017
 ### Definitions
 
 1 In this Regulation,
+
 (a) “Act” means the Provincial Offences Procedure Act ;
+
 (b) “electronic violation ticket” means a violation ticket that is in the form of an electronic document;
+
 (b.1) “First Nation bylaw” means a by-law made by a council of a band in Alberta under the authority of the Indian Act (Canada);
+
 (c) “JOIN” means the Justice Online Information Network administered by the Minister of Justice;
+
 (d) “Minister” means the Minister of Justice;
+
 (e) “motor vehicle” means a motor vehicle as defined in the Traffic Safety Act ;
+
 (f) “municipal bylaw” means a bylaw of a municipality or a Metis settlement.
 
 ### Violation tickets
 
 2 A violation ticket may be used in respect of an offence under the following enactments:
+
 (a) Blind Persons’ Rights Act ;
+
 (b) Dangerous Goods Transportation and Handling Act ;
+
 (b.1) Education Act , section 256;
+
 (c) Fisheries (Alberta) Act ;
+
 (d) Forest and Prairie Protection Act ;
+
 (e) Forests Act ;
+
 (f) Fuel Tax Act ;
+
 (g) Gaming, Liquor and Cannabis Act ;
+
 (h) Insurance Act , Part 7;
+
 (i) Livestock Identification and Commerce Act ;
+
 (j) Livestock and Livestock Products Act ;
+
 (k) Occupational Health and Safety Act ;
+
 (l) Petty Trespass Act ;
+
 (m) Provincial Parks Act ;
+
 (m.01) Public Health Act ;
+
 (m.1) Public Lands Act ;
+
 (n) Residential Tenancies Act ;
+
 (n.1) Scrap Metal Dealers and Recyclers Identification Act ;
+
 (o) repealed AR 81/2019 s27;
+
 (p) Security Services and Investigators Act ;
+
 (q) Service Dogs Act ;
+
 (r) Stray Animals Act ;
+
 (s) Tobacco, Smoking and Vaping Reduction Act ;
+
 (t) Tobacco Tax Act ;
+
 (u) Traffic Safety Act ;
+
 (v) Trespass to Premises Act ;
+
 (w) Wildlife Act ;
+
 (x) any Regulation or orders made under any one or more of the Acts referred to in clauses (a) to (w);
+
 (y) a provision of
+
 (i) the Environmental Protection and Enhancement Act , or
+
 (ii) a regulation made under that Act
+
 for which a specified penalty is set out in the Schedule;
+
 (z) repealed AR 54/2018 s2;
+
 (aa) the Recreational Access Regulation (AR 228/2003) for which a specified penalty is set out in the Schedule;
+
 (bb) any regulation made under Schedule 11 to the Government Organization Act ;
+
 (cc) any municipal bylaw;
+
 (dd) any First Nation bylaw.
 
 ### Part 2, Part 3 proceedings
 
 3 (1) Where a violation ticket is used, proceedings must be commenced under Part 2 of the Act in respect of an offence that
+
 (a) has no specified penalty, or
+
 (b) has a specified penalty of more than $1000, excluding any applicable surcharge.
+
 (2) Subject to section 22(3) of the Act, proceedings must be commenced under Part 3 of the Act in respect of an offence that has a specified penalty of $1000 or less, excluding any applicable surcharge.
+
 (3) If a person is issued a violation ticket in respect of an offence referred to in subsection (1)(b), that person may make a voluntary payment in accordance with the Act.
 
 ### Public interest
 
 4 (1) In determining whether to issue a summons in the public interest under section 22(3) or 27(3) of the Act, a peace officer must consider the following factors:
+
 (a) the seriousness of the nature or consequences of the offence;
+
 (b) the number of previous convictions and outstanding fines levied against the defendant;
+
 (c) the number of outstanding proceedings commenced against the defendant under either Part 2 or Part 3 of the Act;
+
 (d) whether the defendant’s operator’s licence is an out-of-province operator's licence.
+
 (2) Subject to subsection (3), a peace officer, if the peace officer determines it is in the public interest, shall issue a summons respecting any offence for which a voluntary payment may be made that does not give the defendant the alternative of making a voluntary payment.
+
 (3) Notwithstanding subsection (2), where the defendant has an out-of-province operator’s licence, a peace officer may issue a summons that gives the defendant the alternative of making a voluntary payment.
+
 (4) Nothing in this section restricts a peace officer from exercising the peace officer's discretion to instead of issuing a violation ticket to a person for contravening an enactment, use other measures as are appropriate, given the circumstances of the person involved.
 
 ### Specified penalty
 
 5 (1) The specified penalty for a contravention of a provision of an Act or regulation is set out in the Schedule.
+
 (2) The specified penalty for a contravention of a provision of a bylaw or ministerial order under section 44 of the Act is set out in the bylaw or ministerial order.
+
 (3) If the owner of a vehicle that is involved in a contravention under the Traffic Safety Act or a municipal bylaw is charged with an offence under section 160 of the Traffic Safety Act , the specified penalty is the same as that provided for the driver of a vehicle involved in such a contravention.
+
 (4) If the owner of an off-highway vehicle as defined in the Traffic Safety Act that is involved in a contravention under the Traffic Safety Act is charged with an offence under section 160 of the Traffic Safety Act , the specified penalty is the same as that provided for the driver of an off-highway vehicle involved in such a contravention.
 
 ### Identification of offence
 
 6 (1) An offence shall be designated on a violation ticket in a manner, including the use of abbreviations, that is sufficient to permit the defendant to identify the offence.
+
 (2) In addition to any other method of designating an offence, an offence may be designated on a violation ticket by either
+
 (a) placing a mark beside the name of the enactment, if the enactment is named on the violation ticket, or
+
 (b) stating the name of the enactment in the appropriate space, if the enactment is not named on the violation ticket,
+
 and specifying the section number of the provision under which the offence is alleged.
+
 (3) For the purpose of subsection (2), the name of a municipal bylaw may be stated by specifying
+
 (a) the number of the bylaw, and
+
 (b) the name commonly applied to the municipality or Metis settlement that made the bylaw.
 
 ### Late payment charge
 
 7 (1) A defendant who is convicted of an offence pursuant to proceedings under Part 3 of the Act and fails to pay a fine imposed by a justice within the time allowed for payment or, if no time is allowed, forthwith shall be liable to pay a late payment charge equal to
+
 (a) $20, or
+
 (b) 20% of the outstanding balance of the fine imposed,
+
 whichever is greater.
+
 (2) The amount calculated under subsection (1)(b) shall be rounded down to the nearest dollar.
+
 (3) Unless otherwise ordered by a justice, a late payment charge shall not apply if the full amount of the fine is received within 48 hours after the date on which the fine is required to be paid.
 
 ### Revenue offset
 
 8 (1) Section 14(3) of the Act applies to the fines imposed for convictions under the Traffic Safety Act and regulations made under that Act.
+
 (2) The Crown may retain 40% of any amount collected in respect of each fine, rounded to the nearest dollar, imposed for a conviction under an enactment referred to in subsection (1).
 
 ### Ex parte trial payment time
@@ -136,69 +207,109 @@ whichever is greater.
 ### Criminal Code provisions
 
 12 (1) Sections 730, 734.7(1) and (3) and 809 and Part XVII of the Criminal Code (Canada) are not applicable to any proceedings to which the Act applies.
+
 (2) Sections 731, 732, 732.1, 732.2, 733 and 734 of the Criminal Code (Canada) are not applicable to proceedings that are commenced under Part 3 of the Act.
 
 ### Violation ticket
 
 13 (1) A violation ticket under Part 2 of the Act must contain at least the following elements:
+
 (a) the following heading:
 
 ### Province of Alberta
 
 (b) a reasonably clear description of the defendant to facilitate identification;
+
 (c) the offence with which the defendant is charged;
+
 (d) the date on which the offence is alleged to have occurred;
+
 (e) the place at or near which the offence is alleged to have occurred;
+
 (f) the manner in which the defendant may respond to the summons;
+
 (g) the response time and date and court location;
+
 (h) the consequences to the defendant if the summons is not responded to by the date indicated.
+
 (2) A violation ticket under Part 3 of the Act must contain at least the following elements:
+
 (a) the following heading:
 
 ### Province of Alberta
 
 (b) a reasonably clear description of the defendant to facilitate identification;
+
 (c) the offence with which the defendant is charged;
+
 (d) the date on which the offence is alleged to have occurred;
+
 (e) the place at or near which the offence is alleged to have occurred;
+
 (f) the manner in which the defendant may respond to the offence notice;
+
 (g) the response time and date and court location;
+
 (h) the consequences to the defendant if the offence notice is not responded to by the date indicated.
+
 (3) A violation ticket under Part 2 of the Act shall be in a form approved by the Minister.
+
 (4) A violation ticket under Part 3 of the Act shall be in a form approved by the Minister.
+
 (5) A violation ticket under Part 2 or Part 3 of the Act must use the numbering convention set by the Minister.
 
 ### Electronic violation tickets under Part 2
 
 14 (1) The Court may use electronic violation tickets in carrying out the Court’s functions in proceedings under Part 2 of the Act if
+
 (a) the complaint included in the electronic violation ticket
+
 (i) is endorsed in accordance with section 16 by the peace officer who issued the electronic violation ticket, and
+
 (ii) is filed with the Court in accordance with subsection (2),
+
 and
+
 (b) the information included in the electronic violation ticket cannot be altered after the electronic violation ticket has been transmitted to JOIN.
+
 (2) The complaint included in an electronic violation ticket is filed with the Court if
+
 (a) it has been transmitted to JOIN, and
+
 (b) the data necessary to display or print the complaint in a form approved by the Minister for any purpose under the Act has been stored in JOIN.
 
 ### Electronic violation tickets under Part 3
 
 15 (1) Subject to subsection (2), the Court may use electronic violation tickets in carrying out the Court’s functions in proceedings under Part 3 of the Act if
+
 (a) the certificate of offence included in the electronic violation ticket
+
 (i) is endorsed in accordance with section 16 by the peace officer who issued the electronic violation ticket, and
+
 (ii) is filed with the Court in accordance with subsection (3),
+
 and
+
 (b) the information included in the electronic violation ticket cannot be altered after the electronic violation ticket has been transmitted to JOIN.
+
 (2) If the defendant described in the electronic violation ticket is charged under section 160 of the Traffic Safety Act or the offence notice relates to an alleged parking violation, in addition to the requirements set out in subsection (1), the certificate of offence must contain the date that the offence notice was sent by ordinary mail to the defendant’s address.
+
 (3) The certificate of offence included in an electronic violation ticket is filed with the Court if
+
 (a) it has been transmitted to JOIN, and
+
 (b) the data necessary to display or print the certificate of offence in a form approved by the Minister for any purpose under the Act has been stored in JOIN.
 
 ### Endorsement of electronic violation tickets
 
 16 (1) In this section, “identification information” means a peace officer’s name, badge or regiment number and the name of the law enforcement agency that the peace officer represents.
+
 (2) The certificate of offence or complaint included in an electronic violation ticket must, instead of being signed by the peace officer who is the complainant referred to in section 25(2)(a) of the Act or the peace officer referred to in section 31(2)(a) of the Act, be endorsed by the peace officer in a manner
+
 (a) that electronically generates the peace officer’s identification information and associates it with the complaint or the certificate of offence, and
+
 (b) that is reasonably secure against unauthorized use.
+
 (3) A manner of endorsement is presumed to be reasonably secure against unauthorized use if it is protected by a password issued in confidence to the peace officer whose identification information it generates.
 
 ### Repeal
@@ -224,7 +335,9 @@ and
 ### Part 2 Regulation under the Dangerous Goods Transportation and Handling Act Dangerous Goods Transportation and Handling Regulation
 
 1 The specified penalty payable in respect of a contravention of a provision of the English version of Parts II, IV, V and VIII of the Transportation of Dangerous Goods Regulations (SOR/2001-286) (Canada), as adopted and modified by the Dangerous Goods Transportation and Handling Regulation (AR 157/97), is $600.
+
 2 The specified penalty payable in respect of a contravention of a provision of the English version of Part III of the Transportation of Dangerous Goods Regulations (SOR/2001-286) (Canada), as adopted and modified by the Dangerous Goods Transportation and Handling Regulation (AR 157/97), is $400.
+
 3 The specified penalty payable in respect of a contravention of a provision of the English version of Part VI of the Transportation of Dangerous Goods Regulations (SOR/2001-286) (Canada), as adopted and modified by the Dangerous Goods Transportation and Handling Regulation (AR 157/97), shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 (Specified Penalty in Dollars) |
@@ -239,7 +352,9 @@ and
 ### Part 3 Environmental Protection and Enhancement Act
 
 1 The specified penalty payable for a contravention of section 61 of the Environmental Protection and Enhancement Act in respect of the activity designated by Division 1, clause (k) of Schedule 1 to the Activities Designation Regulation (AR 276/2003) is $100.
+
 2 The specified penalty payable for a contravention of section 108(2) of the Environmental Protection and Enhancement Act in respect of visible emissions prescribed by section 4 of the Substance Release Regulation (AR 124/93) is $100.
+
 3 The specified penalty payable in respect of a contravention of a provision of the Environmental Protection and Enhancement Act shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Act) | Column 2 (Specified Penalty in Dollars) |
@@ -275,15 +390,21 @@ and
 ### Part 6 Fisheries (Alberta) Act
 
 1 The specified penalty payable in respect of a contravention of section 10(1) of the Fisheries (Alberta) Act for engaging in sportfishing without a sportfishing licence is $100.
+
 2 The specified penalty payable for the contravention of section 18(1) of the Act for failing to carry a licence is $50.
+
 2.1 The specified penalty payable for a contravention of section 33.2(3) of the Act for failing to stop a conveyance for inspection at an open inspection station is $3500.
+
 3 The specified penalty payable in respect of a contravention of section 34.2(1) of the Act for failing to comply with a term or condition of a licence is $200.
+
 4 The specified penalty payable for the contravention of section 34.4(3) of the Act for failing to comply with an order under section 23 is $50.
 
 ### Part 7 Regulation under the Fisheries (Alberta) Act General Fisheries (Alberta) Regulation
 
 1 (1) The specified penalty for the contravention of section 14.1(6) of the General Fisheries (Alberta) Regulation (AR 203/97) is $200 plus $50 for each fish possessed or retained in contravention of that section.
+
 (2) Where a person exceeds by more than 10 the number of fish possessed or retained in contravention of section 14.1(6), the person is required to appear before a justice without the alternative of making a voluntary payment.
+
 2 The specified penalty payable in respect of a contravention of the General Fisheries (Alberta) Regulation (AR 203/97) shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 (Specified Penalty in Dollars) |
@@ -299,6 +420,7 @@ and
 ### Part 7.1 Regulation under the Fisheries (Alberta) Act Fisheries (Ministerial) Regulation
 
 1 The specified penalty payable in respect of a contravention of section 2.2 of the Fisheries (Ministerial) Regulation (AR 220/97) for improper disposal of bait is $50.
+
 2 The specified penalty payable in respect of a contravention of section 6.1 of the Fisheries (Ministerial) Regulation (AR 220/97) for transporting an item of watercraft on a highway by means of a conveyance if the watercraft has a drainage hole in the lower hull that is blocked with a plug is $500.
 
 ### Part 8 Forest and Prairie Protection Act
@@ -372,11 +494,17 @@ and
 ### Part 12 Gaming, Liquor and Cannabis Act
 
 1 (1) Subject to subsections (2) and (3), the specified penalty payable in respect of a contravention of section 36(1) of the Gaming, Liquor and Cannabis Act is $500.
+
 (2) The specified penalty payable for a 2nd contravention of section 36(1) of the Gaming, Liquor and Cannabis Act that occurs within 5 years from the date of the first contravention is $1000.
+
 (3) Where a person is charged with a 3rd or subsequent offence for the contravention of section 36(1) of the Gaming, Liquor and Cannabis Act that is alleged to have occurred within 5 years of the 2nd or subsequent contravention, the person is required to appear before a justice without the alternative of making a voluntary payment.
+
 1.1 The specified penalty payable in respect of a contravention of section 50 of the Gaming, Liquor and Cannabis Act for the unlawful possession of liquor is $200.
+
 2 The specified penalty for the contravention of section 90.03(1) of the Act of a minor entering or being in a licensed premises is $100.
+
 3 The specified penalty for the contravention of section 90.03(1) of the Act of a licensee permitting a minor to enter or be in a licensed premises is $500.
+
 4 (1) The specified penalty payable in respect of a contravention of a provision of the Gaming, Liquor and Cannabis Act shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Act) | Column 2 ( Specified Penalty in Dollars) |
@@ -436,6 +564,7 @@ and
 ### Part 17 Regulation under the Occupational Health and Safety Act Occupational Health and Safety Code
 
 1 In this Part, “Code” means the Occupational Health and Safety Code .
+
 2 The specified penalty payable in respect of a contravention of a provision of the Code shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Code) | Column 2 (Specified Penalty in Dollars) |
@@ -507,7 +636,9 @@ and
 ### Part 18 Petty Trespass Act
 
 1 (1) The specified penalty payable in respect of a contravention of section 2(1) or (1.1) of the Petty Trespass Act is $500.
+
 (2) Where a person is charged with a 2nd or subsequent offence for the contravention of section 2(1) or (1.1) of the Petty Trespass Act with respect to the same land, the person is required to appear before a justice without the alternative of making a voluntary payment.
+
 2 The specified penalty payable for the contravention of section 2.1(4) of the Petty Trespass Act is $250.
 
 ### Part 19 Regulation under the Provincial Parks Act Provincial Parks (General) Regulation
@@ -807,8 +938,11 @@ and
 ### Part 29 Tobacco, Smoking and Vaping Reduction Act
 
 1 The specified penalty payable in respect of a contravention of section 7.5(1) of the Tobacco, Smoking and Vaping Reduction Act is
+
 (a) if the person is an individual, $250, and
+
 (b) if the person is a retailer, $750.
+
 2 The specified penalty payable in respect of a contravention of the Tobacco, Smoking and Vaping Reduction Act shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 Specified Penalty in Dollars) |
@@ -829,46 +963,83 @@ and
 ### Part 30 Tobacco Tax Act
 
 1 The specified penalty payable in respect of a contravention of section 3(1) of the Tobacco Tax Act is $500.
+
 2(1) The specified penalty payable in respect of a contravention of section 4(1) of the Tobacco Tax Act
+
 (a) if the person is a consumer,
+
 (i) for the purchase, possession, storing, selling or offering for sale of 400 cigarettes or grams of tobacco or less is $250, and
+
 (ii) for the purchase, possession, storing, selling or offering for sale of more than 400 cigarettes or grams of tobacco, but not more than 1000 cigarettes or grams of tobacco, is $500,
+
 and
+
 (b) if the person is not a consumer, for the purchase, possession, storing, selling or offering for sale of 1000 cigarettes or grams of tobacco or less is $1000.
+
 (2) Where the person purchases, possesses, stores, sells or offers for sale more than 1000 cigarettes or grams of tobacco in contravention of section 4(1) of the Tobacco Tax Act , the person is required to appear before a justice without the alternative of making a voluntary payment.
+
 3 (1) The specified penalty payable in respect of a contravention of section 4(3) of the Tobacco Tax Act
+
 (a) for the purchase or possession of 400 cigarettes or grams of tobacco or less is $250, and
+
 (b) for the purchase or possession of more than 400 cigarettes or grams of tobacco but not more than 1000 cigarettes or grams of tobacco is $500.
+
 (2) Where the person purchases or possesses more than 1000 cigarettes or grams of tobacco in contravention of section 4(3) of the Tobacco Tax Act , the person is required to appear before a justice without the alternative of making a voluntary payment.
+
 4 (1) The specified penalty payable for the contravention of section 4(4) of the Tobacco Tax Act for the possession of 1000 cigarettes or grams of tobacco or less over the permitted amount is $250.
+
 (2) Where a person is charged with a 2nd or subsequent offence for the contravention of section 4(4) of the Tobacco Tax Act for the possession of 1000 cigarettes or grams of tobacco or less over the permitted amount, the person is required to appear before a justice without the alternative of making a voluntary payment.
+
 (3) Where a person is charged with possession of more than 1000 cigarettes or grams of tobacco over the permitted amount in contravention of section 4(4) of the Tobacco Tax Act , the person is required to appear before a justice without the alternative of making a voluntary payment.
+
 5 (1) The specified penalty payable for the contravention of section 4(5) of the Tobacco Tax Act is $500.
+
 (2) Where a person is charged with a 2nd or subsequent offence for contravening section 4(5) of the Tobacco Tax Act , the person is required to appear before a justice without the alternative of making a voluntary payment.
+
 6 (1) The specified penalty payable in respect of a contravention of section 4.1 of the Tobacco Tax Act for the possession of
+
 (a) 2000 cigarettes or less,
+
 (b) 2000 grams of tobacco or less or cigars containing 2000 grams of tobacco or less, or
+
 (c) any combination containing 2000 grams of tobacco or less,
+
 over the permitted amount is $1000.
+
 (2) Where a person possesses more than
+
 (a) 2000 cigarettes,
+
 (b) 2000 grams of tobacco or cigars containing 2000 grams of tobacco, or
+
 (c) any combination containing 2000 grams of tobacco,
+
 over the permitted amount in contravention of section 4.1 of the Tobacco Tax Act , the person is required to appear before a justice without the alternative of making a voluntary payment.
+
 7 (1) The specified penalty payable in respect of a contravention of section 7(3) of the Tobacco Tax Act
+
 (a) if the person is a consumer,
+
 (i) for the sale, offering for sale or purchase of 400 cigarettes or grams of tobacco or less is $250, and
+
 (ii) for the sale, offering for sale or purchase of more than 400 cigarettes or grams of tobacco, but not more than 1000 cigarettes or grams of tobacco, is $500,
+
 and
+
 (b) if the person is not a consumer, for the sale, offering for sale or purchase of 1000 cigarettes or grams of tobacco or less is $1000.
+
 (2) Where a person sells, offers for sale or purchases more than 1000 cigarettes or grams of tobacco in contravention of section 7(3) of the Tobacco Tax Act , the person is required to appear before a justice without the alternative of making a voluntary payment.
 
 ### Part 31 Traffic Safety Act
 
 1 The specified penalty for the contravention of section 65(1)(a) or (b) of the Traffic Safety Act is the amount provided for the contravention of the relevant provision of the Vehicle Equipment Regulatio n (AR 122/2009).
+
 2 The specified penalty for the contravention of section 111 or 115(2)(a) of the Traffic Safety Act is the amount provided for the contravention of the relevant provision of the Use of Highway and Rules of the Road Regulation (AR 304/2002).
+
 3 (1) The specified penalty for the contravention of section 131(1)(f) of the Traffic Safety Act is $27 per 100 kg for overloads up to 5000 kg and $47 per 100 kg for overloads over 5000 kg.
+
 (2) The specified penalty for the contravention of sections 131(1)(h), (i), (j), (k) and (l) of the Traffic Safety Act is $34 per 100 kg for overloads up to 5000 kg and $47 per 100 kg for overloads over 5000 kg.
+
 4 The specified penalty payable in respect of a contravention of a provision of the Traffic Safety Act shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Act) | Column 2 (Specified Penalty in Dollars) |
@@ -950,6 +1121,7 @@ and
 ### Part 32 Traffic Safety Act and Use of Highway and Rules of the Road Regulation (speeding offences)
 
 1 The specified penalty payable in respect of contraventions of section 115(2)(p), (p.1) and (r) of the Traffic Safety Act and section 53(5)(c) of the Use of Highway and Rules of the Road Regulation (AR 304/2002) are those set out in the Table in this Part.
+
 2 Where a person exceeds the speed limits referred to in the sections referred to in section 1 by more than 50 kilometres per hour, the person is required to appear before a justice without the alternative of making a voluntary payment.
 
 ### Table
@@ -985,6 +1157,7 @@ and
 ### Part 33 Traffic Safety Act (speeding offences — construction zone/emergency vehicles)
 
 1 The specified penalty payable in respect of contraventions of section 115(2)(p.2) and (t) of the Traffic Safety Act are those set out in the Table in this Part.
+
 2 Where a person exceeds the speed limits referred to in the sections referred to in section 1 by more than 50 kilometres per hour, the person is required to appear before a justice without the alternative of making a voluntary payment.
 
 ### Table
@@ -1051,7 +1224,9 @@ and
 ### Part 36 Regulation under the Traffic Safety Act Commercial Vehicle Dimension and Weight Regulation
 
 1 The specified penalty for the contravention of section 9(1) and (3) of the Commercial Vehicle Dimension and Weight Regulation (AR 315/2002) is $27 per 100 kg for overloads of up to 5000 kg and $47 per 100 kg for overloads over 5000 kg.
+
 2 The specified penalty for the contravention of sections 11(2) and 12(4) of the Commercial Vehicle Dimension and Weight Regulation (AR 315/2002) is $34 per 100 kg for overloads of up to 5000 kg and $47 per 100 kg for overloads over 5000 kg.
+
 3 The specified penalty payable in respect of a contravention of a provision of the Commercial Vehicle Dimension and Weight Regulation (AR 315/2002) shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 Specified Penalty in Dollars) |
@@ -1120,8 +1295,11 @@ and
 | 44 | 39 | 270 |
 
 2 (1) In this Part, “Standard” means the National Safety Code for Motor Carriers Standard 10 (Cargo Securement) made by the Canadian Council of Motor Transport Administrators dated June 2013, as amended from time to time, and adopted under section 2 of the Commercial Vehicle Safety Regulation (AR 121/2009).
+
 (2) The specified penalty for the contravention of section 17(3) of the Commercial Vehicle Safety Regulation (AR 121/2009) is the amount provided for the contravention of the relevant provision in the Standard provided for in this section.
+
 (3) The specified penalty payable in respect of a contravention of a provision of section 3(1), (2), (3) or (5) of Part 1, Division 1 of the Standard is $675.
+
 (4) The specified penalty payable in respect of a contravention of a provision of Part 1, Division 2 of the Standard shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Code) | Column 2 Specified Penalty in Dollars) |
@@ -1290,6 +1468,7 @@ and
 | 5 | 100 | 675 |
 
 3 (1) The specified penalty for the contravention of section 4(1) of the Commercial Vehicle Safety Regulation (AR 121/2009) is the amount provided for the contravention of the relevant provision in Schedule 1 to the Commercial Vehicle Safety Regulation (AR 121/2009) provided for in subsection (2).
+
 (2) The specified penalty payable in respect of a provision of Schedule 1 to the Commercial Vehicle Safety Regulation (AR 121/2009) shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 Specified Penalty in Dollars) |
@@ -1313,6 +1492,7 @@ and
 | 17 | 17(1), (2), (3), (4) or (5) | 270 |
 
 3.1 (1) The specified penalty for the contravention of section 4.1(2) of the Commercial Vehicle Safety Regulation (AR 121/2009) is the amount provided for the contravention of the relevant provision in Schedule 8 to the Commercial Vehicle Safety Regulation (AR 121/2009) provided for in subsection (2).
+
 (2) The specified penalty payable in respect of a contravention of a provision of Schedule 8 to the Commercial Vehicle Safety Regulation (AR 121/2009) shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 Specified Penalty in Dollars) |
@@ -1321,6 +1501,7 @@ and
 | 2 | 1(2) | 135 |
 
 4 (1) The specified penalty for the contravention of section 5(2)(a) of the Commercial Vehicle Safety Regulation (AR 121/2009) is the amount provided for the contravention of the relevant provision in Schedule 2 to the Commercial Vehicle Safety Regulation (AR 121/2009) provided for in subsection (2).
+
 (2) The specified penalty payable in respect of a provision of Schedule 2 to the Commercial Vehicle Safety Regulation (AR 121/2009) shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 Specified Penalty in Dollars) |
@@ -1360,6 +1541,7 @@ and
 | 33 | 33 | 270 |
 
 5 (1) The specified penalty for the contravention of section 5(3) of the Commercial Vehicle Safety Regulation (AR 121/2009) is the amount provided for the contravention of the relevant provision in Schedule 3 to the Commercial Vehicle Safety Regulation (AR 121/2009) provided for in subsection (2).
+
 (2) The specified penalty payable in respect of a provision of Schedule 3 to the Commercial Vehicle Safety Regulation (AR 121/2009) shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 Specified Penalty in Dollars) |
@@ -1375,6 +1557,7 @@ and
 | 9 | 9(1) or (2) | 270 |
 
 6 (1) The specified penalty for the contravention of section 5(4) of the Commercial Vehicle Safety Regulation (AR 121/2009) is the amount provided for the contravention of the relevant provision in Schedule 4 to the Commercial Vehicle Safety Regulation (AR 121/2009) provided for in subsection (2).
+
 (2) The specified penalty payable in respect of a provision of Schedule 4 to the Commercial Vehicle Safety Regulation (AR 121/2009) shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 Specified Penalty in Dollars) |
@@ -1394,6 +1577,7 @@ and
 | 13 | 14(1) or (2) | 270 |
 
 7 (1) The specified penalty for the contravention of section 5(5)(a) of the Commercial Vehicle Safety Regulation (AR 121/2009) is the amount provided for the contravention of the relevant provision in Schedule 5 to the Commercial Vehicle Safety Regulation (AR 121/2009) provided for in subsection (2).
+
 (2) The specified penalty payable in respect of a provision of Schedule 5 to the Commercial Vehicle Safety Regulation (AR 121/2009) shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 Specified Penalty in Dollars) |
@@ -1430,6 +1614,7 @@ and
 | 30 | 31 | 270 |
 
 8 (1) The specified penalty for the contravention of section 31(2) of the Commercial Vehicle Safety Regulation (AR 121/2009) is the amount provided for the contravention of the relevant provision in Schedule 6 to the Commercial Vehicle Safety Regulation (AR 121/2009) provided for in subsection (2).
+
 (2) The specified penalty payable in respect of a provision of Schedule 6 to the Commercial Vehicle Safety Regulation (AR 121/2009) shown in Column 1 is the amount shown in Column 2 in respect of that provision.
 
 | Item Number | Column 1 (Section Number of Regulation) | Column 2 Specified Penalty in Dollars) |
@@ -1798,6 +1983,7 @@ and
 ### Part 44 Trespass to Premises Act
 
 1 (1) The specified penalty payable in respect of a contravention of section 3 of the Trespass to Premises Act is $500.
+
 (2) Where a person is charged with a 2nd or subsequent offence for the contravention of section 3 of the Trespass to Premises Act with respect to the same land, the person is required to appear before a justice without the alternative of making a voluntary payment.
 
 ### Part 45 Wildlife Act
@@ -1843,8 +2029,11 @@ and
 | 33 | 101(7) | 100 |
 
 2 Where a person commits an offence
+
 (a) under section 40(1) of the Wildlife Act relating to an item described in number 5 or 9 of Item 2 in the Schedule to that Act, or
+
 (b) under section 40(3) of the Wildlife Act relating to an item described in number 2 or 3 of Item 3 in the Schedule to that Act,
+
 the person is required to appear before a justice without the alternative of making a voluntary payment.
 
 ### Part 46 Regulation under the Wildlife Act Wildlife Regulation

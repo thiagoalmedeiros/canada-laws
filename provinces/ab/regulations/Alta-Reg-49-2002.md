@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "2002-03-20"
 retrieved: "2026-10-17"
-source: ""
+source: "https://kings-printer.alberta.ca/1266.cfm?page=2002_049.cfm&leg_type=Regs&isbncln=0779709500&display=html"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 ---
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # RSA 2000 Correction Regulation
+
+> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2002_049.cfm&leg_type=Regs&isbncln=0779709500&display=html) before relying on it.
 
 Alta Reg 49/2002
 
@@ -41,6 +41,7 @@ Alta Reg 49/2002
 ### Amends RSA 2000 cM-26
 
 6 The Municipal Government Act is amended
+
 (a) by adding the following after section 694:
 
 ### Division 13 Transitional
@@ -50,9 +51,13 @@ Alta Reg 49/2002
 ### Zoning caveat
 
 697 (1) On September 1, 1995 a zoning caveat prepared and signed by the Director of Town and Rural Planning or the Provincial Planning Director and registered in a land titles office under a former Act ceases to have effect.
+
 ( 2) On and after September 1, 1995, the owner of a parcel of land that is affected by a caveat referred to in subsection (1) may apply to the Registrar to endorse the certificate of title with a memorandum cancelling the registration of the zoning caveat.
+
 ( 3) On receipt of an application under subsection (2) and on being satisfied that the caveat is a zoning caveat, the Registrar must cancel the registration of the caveat.
+
 698 to 708 Repealed by Revision.
+
 (b) in Part 18 by striking out “ 695 to 709 Repealed by Revision.” and substituting “709 Repealed by Revision.”
 
 ### Amends RSA 2000 cP-31
@@ -74,5 +79,7 @@ Alta Reg 49/2002
 ### Amends SA 2001 c28
 
 11 The Trustee Amendment Act, 2001 is amended in section 17(2)
+
 (a) by striking out “27(3)” and substituting “27(2)”;
+
 (b) by renumbering the new subsection (3) as subsection (2).

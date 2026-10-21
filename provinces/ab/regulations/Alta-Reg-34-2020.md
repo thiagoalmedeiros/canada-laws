@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "2020-03-17"
 retrieved: "2026-10-17"
-source: ""
+source: "https://kings-printer.alberta.ca/1266.cfm?page=2020_034.cfm&leg_type=Regs&isbncln=9780779816675&display=html"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 ---
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Canmore Undermining Review Regulation
+
+> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2020_034.cfm&leg_type=Regs&isbncln=9780779816675&display=html) before relying on it.
 
 Alta Reg 34/2020
 
@@ -21,42 +21,79 @@ Alta Reg 34/2020
 ### Definitions
 
 1 (1) In this Regulation,
+
 (a) “Act” means the Municipal Government Act ;
+
 (b) “Area Mining Impact Overview Report Compliance Certificate” means the compliance certificate referred to in section 4(b);
+
 (c) “Area Mining Impact Overview Report Compliance Review Certificate” means the review certificate referred to in section 4(d);
+
 (d) “Canmore” means The Town of Canmore;
+
 (e) “Canmore agents” means
+
 (i) Canmore’s councillors, chief administrative officer, designated officers and employees,
+
 (ii) members of Canmore’s council committees, and
+
 (iii) a volunteer member of a fire ambulance service or emergency measures organization established by Canmore or any other volunteer performing duties under the direction of Canmore;
+
 (f) “compliance certificate” means
+
 (i) an Area Mining Impact Overview Report Compliance Certificate,
+
 (ii) a Subdivision Mining Impact Assessment Report Compliance Certificate, or
+
 (iii) a Project Undermining Assessment Report Compliance Certificate;
+
 (g) “designated land” means
+
 (i) the land described in Part 2 of Schedule 1 and within the boundaries shown on the map in Part 1 of Schedule 1, including the Government road allowances,
+
 (ii) the land required for access roads from Highway 1 to the land described in subclause (i), and
+
 (iii) the land required for access roads from Highway 742 to the land described in subclause (i);
+
 (h) “developer” means a person who, in respect of the designated land, is planning a development, applies for subdivision approval or undertakes a development through an application for a development permit;
+
 (i) “development” means development as defined in section 616(b) of the Act;
+
 (j) “independent third party engineer” means a professional engineer who did not assist in the preparation of the original undermining report and is not associated with or employed by the individuals or firm that prepared the original undermining report;
+
 (k) “landowner” means, in respect of land, the person who is registered under the Land Titles Act as the owner of a fee simple estate in the land;
+
 (l) “Minister’s guidelines” means the guidelines established under section 7;
+
 (m) “professional engineer” means an individual who holds a certificate of registration to engage in the practice of engineering under the Engineering and Geoscience Professions Act ;
+
 (n) “Project Undermining Assessment Report Compliance Certificate” means the compliance certificate referred to in section 6(1)(b);
+
 (o) “Project Undermining Assessment Report Compliance Review Certificate” means the review certificate referred to in section 6(1)(d);
+
 (p) “review certificate” means
+
 (i) an Area Mining Impact Overview Report Compliance Review Certificate,
+
 (ii) a Subdivision Mining Impact Assessment Report Compliance Review Certificate, or
+
 (iii) a Project Undermining Assessment Report Compliance Review Certificate;
+
 (q) “Subdivision Mining Impact Assessment Report Compliance Certificate” means the compliance certificate referred to in section 5(1)(c);
+
 (r) “Subdivision Mining Impact Assessment Report Compliance Review Certificate” means the review certificate referred to in section 5(1)(e);
+
 (s) “undermining and related conditions” means the presence of coal and methane gas and any abandoned opening or excavation in, or working of, the surface or subsurface for the purpose of working, recovering, opening up or proving any coal, coal-bearing substance or methane gas, and includes abandoned works, waste piles and machinery at or below the surface belonging to or used in connection with any or all of the openings, excavations or workings;
+
 (t) “undermining report” means
+
 (i) an Area Mining Impact Overview Report,
+
 (ii) a Subdivision Mining Impact Assessment Report, or
+
 (iii) a Project Undermining Assessment Report.
+
 (2) A compliance certificate must be in Form 1 of Schedule 2.
+
 (3) A review certificate must be in Form 2 of Schedule 2.
 
 ### Scope
@@ -66,38 +103,59 @@ Alta Reg 34/2020
 ### Undermining review exemption
 
 3 (1) Part 17 of the Act and the Subdivision and Development Regulation (AR 43/2002) do not apply with respect to undermining and related conditions in designated land to the extent that those provisions deal with the matters dealt with under this Regulation.
+
 (2) Canmore and Canmore’s agents have no responsibility, duty or obligation to consider undermining and related conditions in designated land with respect to the adoption of an area structure plan or the subdivision, development or other land use planning function of Canmore under Part 17 of the Act and the Subdivision and Development Regulation (AR 43/2002), including, without restricting the generality of the foregoing, with respect to the enforcement, maintenance or inspection of undermining and related conditions in designated land.
+
 (3) Except as provided in subsection (2), Canmore has all the duties, obligations and responsibilities of a municipality under Part 17 of the Act.
 
 ### Area Mining Impact Overview Report
 
 4 Before the adoption of or an amendment to an area structure plan with respect to the development of the designated lands,
+
 (a) the developer must, at the developer’s expense, engage a professional engineer to prepare an Area Mining Impact Overview Report in accordance with the Minister’s guidelines and accepted professional practice,
+
 (b) if after reviewing the land the professional engineer is satisfied that the land is suitable for the intended development, the engineer must issue to the developer an Area Mining Impact Overview Report Compliance Certificate attesting to that fact and confirming that the Area Mining Impact Overview Report was prepared in accordance with the Minister’s guidelines and accepted professional practice,
+
 (c) on receipt of the Area Mining Impact Overview Report Compliance Certificate, the developer must, at the developer’s expense, engage an independent third party engineer to review the Area Mining Impact Overview Report to determine whether the Report was prepared in accordance with the Minister’s guidelines and accepted professional practice, and
+
 (d) if the independent third party engineer is satisfied that the Area Mining Impact Overview Report was prepared in accordance with the Minister’s guidelines and accepted professional practice, the independent third party engineer must issue an Area Mining Impact Overview Report Compliance Review Certificate.
 
 ### Subdivision Mining Impact Assessment Report
 
 5 (1) Following approval of an area structure plan and before a subdivision application is submitted with respect to the development of the designated lands,
+
 (a) the developer must, at the developer’s expense, engage a professional engineer to prepare a Subdivision Mining Impact Assessment Report in accordance with the Minister’s guidelines and accepted professional practice,
+
 (b) if municipal infrastructure is to be constructed the Subdivision Mining Impact Assessment Report must identify any necessary mitigative measures for the land that is to receive the municipal infrastructure,
+
 (c) if after reviewing the land the professional engineer is satisfied that the land is suitable for the intended development, the engineer must issue to the developer a Subdivision Mining Impact Assessment Report Compliance Certificate attesting to that fact and confirming that the Subdivision Mining Impact Assessment Report was prepared in accordance with the Minister’s guidelines and accepted professional practice,
+
 (d) on receipt of the Subdivision Mining Impact Assessment Report Compliance Certificate, the developer must, at the developer’s expense, engage an independent third party engineer to review the Subdivision Mining Impact Assessment Report to determine whether the Report was prepared in accordance with the Minister’s guidelines and accepted professional practice, and
+
 (e) if the independent third party engineer is satisfied that the Subdivision Mining Impact Assessment Report was prepared in accordance with the Minister’s guidelines and accepted professional practice, the independent third party engineer must issue a Subdivision Mining Impact Assessment Report Compliance Review Certificate.
+
 (2) If any mitigative measures, actions or duties are recommended in the Subdivision Mining Impact Assessment Report, including but not limited to monitoring of conditions and maintenance of mitigative measures as set out in that Report, the developer and any future landowners
+
 (a) must carry out the mitigative measures, actions and duties in accordance with the recommendations, and
+
 (b) must engage a professional engineer to certify that the mitigative measures, actions and duties have been carried out in accordance with the recommendations.
 
 ### Project Undermining Assessment Report
 
 6 (1) Before Canmore issues a development permit with respect to the development of the designated lands,
+
 (a) the developer must, at the developer’s expense, engage a professional engineer to prepare a Project Undermining Assessment Report in accordance with the Minister’s guidelines and accepted professional practice,
+
 (b) if after reviewing the land the professional engineer is satisfied that the land is suitable for the intended development, the engineer must issue to the developer a Project Undermining Assessment Report Compliance Certificate attesting to that fact and confirming that the Project Undermining Assessment Report was prepared in accordance with the Minister’s guidelines and accepted professional practice,
+
 (c) on receipt of the Project Undermining Assessment Report Compliance Certificate, the developer must, at the developer’s expense, engage an independent third party engineer to review the Project Undermining Assessment Report in order to determine whether the Report was prepared in accordance with the Minister’s guidelines and accepted professional practice, and
+
 (d) if the independent third party engineer is satisfied that the Project Undermining Assessment Report was prepared in accordance with the Minister’s guidelines and accepted professional practice, the independent third party engineer must issue a Project Undermining Assessment Report Compliance Review Certificate.
+
 (2) If any mitigative measures, actions or duties are recommended in the Project Undermining Assessment Report, including but not limited to monitoring of conditions and maintenance of mitigative measures as set out in that Report, the developer and any future landowners
+
 (a) must carry out the mitigative measures, actions and duties in accordance with the recommendations, and
+
 (b) must engage a professional engineer to certify that the mitigative measures, actions and duties have been carried out in accordance with the recommendations.
 
 ### Minister may make guidelines
@@ -111,22 +169,31 @@ Alta Reg 34/2020
 ### Notification of reports and certificates
 
 9 (1) On completing a review certificate, a professional engineer engaged by a developer must
+
 (a) send the original undermining report, a copy of the applicable compliance certificate and a copy of the relevant review certificate to the Minister,
+
 (b) send a copy of the undermining report, a copy of the applicable compliance certificate and a copy of the relevant review certificate to Canmore, and
+
 (c) send a copy of the undermining report, a copy of the applicable compliance certificate and a copy of the relevant review certificate to the developer.
+
 (2) The Minister must notify Canmore and the developer on receipt of an undermining report, a compliance certificate and a review certificate provided by an independent third party engineer.
+
 (3) Canmore must retain a copy of any undermining report, compliance certificate and review certificate and make it available at a location within the municipal boundaries of Canmore that is open to the general public during normal business hours.
+
 (4) The requirement to send undermining reports, compliance certificates and review certificates, or copies of them, to the Minister under this Regulation is solely for record-keeping purposes and does not require the Minister or any department administered by the Minister to undertake any further review or any assessment of a report or certificate.
 
 ### Insurance
 
 10 (1) The developer must ensure that every professional engineer and independent third party engineer engaged by the developer under this Regulation maintains professional errors and omissions liability insurance coverage to insure against claims for damages arising from the engineer’s professional errors and omissions while performing professional services referred to in this Regulation, in an amount of at least $5 000 000 per claim and in the aggregate and for a period of 10 years from the date the documents referred to in section 9(1)(b) are sealed by the applicable engineer.
+
 (2) The developer must maintain general liability insurance, in an amount of at least $5 000 000 per occurrence, insuring against bodily injury, personal injury and property damage, including loss of use of the property, for the period of time that the developer is involved in the development plus 2 years.
+
 (3) The developer must, on an annual basis, submit to the Minister a certificate providing proof of the insurance required under subsections (1) and (2).
 
 ### Caveat
 
 11 (1) A developer must, within 90 days of receipt of an undermining report and the applicable review certificate, file with the Registrar of Land Titles a caveat against any title to land for which an undermining report was prepared and a review certificate issued under this Regulation, and the Registrar may register the caveat.
+
 (2) A caveat under subsection (1) must describe the undermining and related conditions of the land and the duties of a landowner with respect to the undermining and related conditions.
 
 ### Repeal
@@ -200,17 +267,27 @@ If there is a discrepancy between the map in Part 1 and the description in this 
 ## Schedule 2 Certificates Form 1 Compliance Certificate
 
 Pursuant to the Canmore Undermining Review Regulation , a review of the land described in (name of undermining report) dated was carried out to determine whether the area is suitable for the intended development, , having regard to undermining and related conditions. The review was made in accordance with the guidelines established by order of the Minister and accepted professional practice and accordingly includes the investigations considered necessary in the circumstances.
+
 In my opinion, the land described in the above report is considered suitable for the intended development, subject to any mitigative measures outlined in the (name of undermining report) with respect to the undermining and related conditions.
+
 Professional Seal
+
 Municipality:
+
 Date:
 
 ## Form 2 Compliance Review Certificate
 
 Pursuant to the Canmore Undermining Review Regulation , I have made a review of the (name of undermining report) dated _______ to determine whether the report complies with the guidelines established by order of the Minister and whether the review of the land described in the report was made in accordance with accepted professional practice and accordingly included the investigations necessary in the circumstances.
+
 In my opinion, the (name of undermining report) complies with the guidelines established by order of the Minister.
+
 In my opinion, the review of the land described in the (name of undermining report) was made in accordance with accepted professional practice and accordingly included the investigations necessary in the circumstances.
+
 I certify that I did not assist in the preparation of the (name of undermining report) and I am not associated with or employed by the individuals or firm that prepared the undermining report.
+
 Professional Seal
+
 Municipality:
+
 Date:

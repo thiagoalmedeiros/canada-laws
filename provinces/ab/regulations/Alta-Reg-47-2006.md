@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "2025-09-17"
 retrieved: "2026-10-17"
-source: ""
+source: "https://kings-printer.alberta.ca/1266.cfm?page=2006_047.cfm&leg_type=Regs&isbncln=9780779857814&display=html"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 ---
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Resource Rebate Regulation
+
+> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2006_047.cfm&leg_type=Regs&isbncln=9780779857814&display=html) before relying on it.
 
 Alta Reg 47/2006
 
@@ -25,10 +25,15 @@ Alta Reg 47/2006
 ### Administration of refunds
 
 2 (1) The Trustee Act does not apply to the director in the administration of the refunds held by the director under section 128.1 of the Act.
+
 (2) The director may expend the refund paid to a beneficiary in any manner the director considers appropriate.
+
 (3) The director may be a depositor in the Consolidated Cash Investment Trust Fund.
+
 (4) Interest is payable on refunds not expended before June 1, 2006.
+
 (5) Commencing June 1, 2006, the annual interest rate is the annual rate of return earned by the Consolidated Cash Investment Trust Fund.
+
 (6) If the amount of accrued interest at the time that the refund is to be expended is less than $10, interest is not required to be paid.
 
 ### Lapsing of obligation to pay
@@ -38,4 +43,5 @@ Alta Reg 47/2006
 ### General Revenue Fund
 
 4 Money deposited in the Consolidated Cash Investment Trust Fund under this Regulation, including any accrued interest, that is not expended after having complied with section 3 shall be deposited in the General Revenue Fund.
+
 5 Repealed AR 215/2025 s2.

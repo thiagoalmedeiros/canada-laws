@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "2024-07-26"
 retrieved: "2026-10-17"
-source: ""
+source: "https://kings-printer.alberta.ca/1266.cfm?page=2019_095.cfm&leg_type=Regs&isbncln=9780779849277&display=html"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 ---
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # School Fees Regulation
+
+> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2019_095.cfm&leg_type=Regs&isbncln=9780779849277&display=html) before relying on it.
 
 Alta Reg 95/2019
 
@@ -33,10 +33,15 @@ Alta Reg 95/2019
 ### Contents of policies and procedures
 
 4 The policies and procedures established under section 3 must, at a minimum, include the following:
+
 (a) a requirement to consult with parents prior to setting, increasing or decreasing school fees;
+
 (b) a requirement to demonstrate to parents the need to charge school fees;
+
 (c) a requirement to maintain financial statements in a form set by the Minister demonstrating that the school fees collected have been spent for the same purpose for which they were collected;
+
 (d) the circumstances in which school fees may be waived;
+
 (e) the process a parent must follow in order to request a school fee be waived.
 
 ### School fee waiver

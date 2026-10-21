@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "2026-03-02"
 retrieved: "2026-10-17"
-source: ""
+source: "https://kings-printer.alberta.ca/1266.cfm?page=2026_044.cfm&leg_type=Regs&isbncln=9780779861149&display=html"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 ---
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Literacy and Numeracy Screening Assessments Regulation
+
+> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2026_044.cfm&leg_type=Regs&isbncln=9780779861149&display=html) before relying on it.
 
 Alta Reg 44/2026
 
@@ -33,6 +33,7 @@ Alta Reg 44/2026
 ### Screening assessments of students — grades 1 to 3
 
 4 (1) Screening assessments of all students in grades 1 to 3 must be conducted and concluded twice every year within a 3-week period in fall and winter in accordance with the dates set out in the Schedule.
+
 (2) Where the result of a screening assessment referred to in subsection (1) demonstrates that a student has difficulties in the development, ability or knowledge in literacy or numeracy, or both, a third screening assessment of that student must be conducted and concluded within a 3-week period in spring in accordance with the dates set out in the Schedule.
 
 ### Expiry

@@ -6,13 +6,13 @@ language: en
 type: regulation
 document_date: "2021-01-20"
 retrieved: "2026-10-17"
-source: ""
+source: "https://kings-printer.alberta.ca/1266.cfm?page=2000_022.cfm&leg_type=Regs&isbncln=9780779822980&display=html"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 ---
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
-
 # Metric Conversion Regulation
+
+> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2000_022.cfm&leg_type=Regs&isbncln=9780779822980&display=html) before relying on it.
 
 Alta Reg 22/2000
 
@@ -21,8 +21,11 @@ Alta Reg 22/2000
 ### Definitions
 
 1 In this Regulation,
+
 (a) “Act” means the Land Titles Act ;
+
 (b) “Canadian Units” means the Canadian units of measurement, as set out and defined in Schedule II to the Weights and Measures Act (Canada);
+
 (c) “International System of Units” means the International System of Units (including the customary units of measurement) referred to in section 4(1) to (3) of the Weights and Measures Act (Canada).
 
 ### Expression of measurements according to certificate of title
@@ -32,6 +35,7 @@ Alta Reg 22/2000
 ### Expression of measurements according to specific systems
 
 3 (1) A plan or any other instrument or a caveat that contains or results in a land description that is different from the land description in the applicable certificate of title must, when presented for registration under the Act, express all measurements of the land described in it in the International System of Units.
+
 (2) If a plan or any other instrument or a caveat referred to in subsection (1) includes a measurement of area, the area may, in addition to being expressed in the International System of Units, be expressed in Canadian Units.
 
 ### Exception to section 3(1)
@@ -53,4 +57,5 @@ Alta Reg 22/2000
 ### Repeal
 
 8 The Metric Conversion Regulation (AR 348/78) is repealed.
+
 9 Repeal AR 10/2021 s2.
