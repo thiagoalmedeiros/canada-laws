@@ -20,7 +20,7 @@ C.R.C., c. 931 · Consolidated: 2025-07-24 · Last amended: 2011-06-20
 
 Enabling authority: [HAZARDOUS PRODUCTS ACT](../acts/H-3.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._931/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._931/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2011-17, s. 44\]
 

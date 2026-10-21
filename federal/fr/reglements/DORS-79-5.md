@@ -24,7 +24,7 @@ Enregistrement: 1978-12-18
 
 C.P. 1978-3738 1978-12-14
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-79-5/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-79-5/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Sur avis conforme du ministre de l’Industrie et du Commerce et en vertu de l’article 12 de la [Loi sur les licences d’exportation et d’importation](../lois/E-19.md), il plaît à Son Excellence le Gouverneur général en conseil d’abroger les Règlements sur les licences d’importation établis et édictés par le décret C.P. 1954-789 du 27 mai 1954[^nbp_1f] et d’établir en remplacement le [Règlement concernant les licences d’importation](DORS-79-5.md), ci-après.
 

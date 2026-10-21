@@ -20,7 +20,7 @@ C.R.C., c. 1105 · Consolidated: 2025-07-24 · Last amended: 2016-09-24
 
 Enabling authority: [DEPARTMENT OF HEALTH ACT](../acts/H-3.2.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1105/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1105/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2016-43, s. 24\]
 

@@ -21,7 +21,7 @@ Enregistrement: 1961-12-21
 
 C.P. 1961-1820 1961-12-21
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-62-1/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-62-1/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 VU les dispositions de la Loi sur l’organisation du marché des produits agricoles, en vertu desquelles le Gouverneur en conseil peut, par décret, autoriser, en ce qui concerne le marché interprovincial et le commerce d’exportation, tout office ou organisme auquel la législation d’une province permet d’exercer les pouvoirs de réglementation sur la vente de tout produit agricole, localement, dans les limites de la province, et, pour ces fins, à exercer tous pouvoirs semblables à ceux que l’office ou organisme en question peut exercer quant au placement dudit produit agricole, localement, dans les limites de la province;
 

@@ -20,7 +20,7 @@ C.R.C., c. 1235 · Consolidated: 2025-07-24 · Last amended: 2006-03-22
 
 Enabling authority: [NORTHWEST TERRITORIES ACT](../acts/N-27.05.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1235/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1235/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 ## Short Title
 

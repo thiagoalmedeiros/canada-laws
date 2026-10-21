@@ -20,7 +20,7 @@ C.R.C., c. 603 · Consolidated: 2026-07-21 · Last amended: 2026-06-22
 
 Enabling authority: [EXPORT AND IMPORT PERMITS ACT](../acts/E-19.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._603/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._603/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 ## Short Title
 

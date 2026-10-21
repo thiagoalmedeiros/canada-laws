@@ -24,7 +24,7 @@ Enregistrement: 1980-12-22
 
 C.P. 1980-3475 1980-12-18
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-81-33a/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-81-33a/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Vu que la Commission de la Fonction publique a décidé qu’il n’est ni praticable, ni dans les meilleurs intérêts de la Fonction publique d’appliquer la [Loi sur l’emploi dans la Fonction publique](../lois/P-33.01.md) aux personnes qui ne sont habituellement pas tenues de travailler plus du tiers de la durée de travail quotidienne ou hebdomadaire normale fixée pour les personnes qui effectuent un travail semblable;
 

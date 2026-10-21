@@ -20,7 +20,7 @@ C.R.C., c. 664 · Consolidated: 2025-07-24 · Last amended: 2007-12-13
 
 Enabling authority: [FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS ACT](../acts/F-7.8.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._664/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._664/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2007-303, s. 44\]
 

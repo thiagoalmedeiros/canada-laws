@@ -17,7 +17,7 @@ C.R.C., c. 398 · Consolidated: 2025-07-24 · Last amended: 2006-03-22
 
 Enabling authority: [CARRIAGE BY AIR ACT](../acts/C-26.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._398/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._398/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 Now Know You that We, by and with the advice of Our Privy Council for Canada, do by this Our Proclamation certify
 

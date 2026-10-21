@@ -22,7 +22,7 @@ Autorité habilitante: [LOI SUR L’OFFICE NATIONAL DE L’ÉNERGIE](../lois/N-7
 
 Enregistrement: 1990-12-13
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-91-7/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-91-7/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Attendu que l’Office national de l’énergie juge que des frais sont afférents à l’exercice de ses attributions dans le cadre de la [Loi sur l’Office national de l’énergie](../lois/N-7.md)et de toute autre loi fédérale,
 

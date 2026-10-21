@@ -17,7 +17,7 @@ C.R.C., c. 646 · Consolidated: 2025-07-24 · Last amended: 2006-03-22
 
 Enabling authority: [FARM PRODUCTS AGENCIES ACT](../acts/F-4.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._646/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._646/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 Know You that We, by and with the advice of Our Privy Council for Canada, do by this Our Proclamation establish an agency to be known as the Canadian Egg Marketing Agency, consisting of fifteen members appointed in the manner and for the terms set out in the schedule hereto.
 

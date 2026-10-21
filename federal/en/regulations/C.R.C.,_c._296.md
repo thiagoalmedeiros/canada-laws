@@ -20,7 +20,7 @@ C.R.C., c. 296 · Consolidated: 2025-12-02 · Last amended: 2025-09-19
 
 Enabling authority: [HEALTH OF ANIMALS ACT](../acts/H-3.3.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._296/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._296/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 ## Short Title
 

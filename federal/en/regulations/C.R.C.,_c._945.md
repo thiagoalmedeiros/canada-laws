@@ -17,7 +17,7 @@ C.R.C., c. 945 · Consolidated: 2026-06-21 · Last amended: 2026-06-18
 
 Enabling authority: [INCOME TAX ACT](../acts/I-3.3.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._945/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._945/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Note: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.\]
 

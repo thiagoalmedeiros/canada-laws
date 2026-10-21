@@ -20,7 +20,7 @@ C.R.C., c. 446 · Consolidated: 2025-07-24 · Last amended: 2014-05-15
 
 Enabling authority: [ADVANCE PAYMENTS FOR CROPS ACT](../acts/C-49.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._446/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._446/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed by operation of law, 1997, c. 20, s. 45
 

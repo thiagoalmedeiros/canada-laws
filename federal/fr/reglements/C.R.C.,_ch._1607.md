@@ -20,7 +20,7 @@ C.R.C., ch. 1607 · Codification: 2025-07-24 · Dernière modification: 2017-05-
 
 Autorité habilitante: [LOI SUR LA PROTECTION DU REVENU AGRICOLE](../lois/F-3.3.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1607/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1607/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 \[Abrogé, DORS/2017-84, art. 1\]
 

@@ -24,7 +24,7 @@ Enregistrement: 1990-12-13
 
 C.P. 1990-2680 1990-12-13
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-91-8/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-91-8/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Sur avis conforme du ministre de l’Environnement et en vertu du paragraphe 7(1)[^nbp_SOR-91-8_f_hq_5049] de la Loi sur les parcs nationaux, il plaît à Son Excellence le Gouverneur général en conseil d’abroger le Règlement sur la désignation des lotissements urbains et de villégiature et de prendre en remplacement le [Règlement concernant la désignation des périmètres urbains, des centres d’accueil et des centres de villégiature dans les parcs nationaux](DORS-91-8.md), ci-après.
 

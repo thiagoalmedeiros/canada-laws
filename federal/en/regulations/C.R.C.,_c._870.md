@@ -20,7 +20,7 @@ C.R.C., c. 870 · Consolidated: 2026-06-17 · Last amended: 2026-06-17
 
 Enabling authority: [FOOD AND DRUGS ACT](../acts/F-27.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 ## PART A — Administration
 

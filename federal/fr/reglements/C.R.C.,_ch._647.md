@@ -17,7 +17,7 @@ C.R.C., ch. 647 · Codification: 2025-07-24 · Dernière modification: 2006-03-2
 
 Autorité habilitante: [LOI SUR LES OFFICES DES PRODUITS AGRICOLES](../lois/F-4.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._647/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._647/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Sachez que, sur et avec l’avis de Notre Conseil privé pour le Canada, Nous établissons, en vertu de Notre présente proclamation, un office qui sera appelé Office canadien de commercialisation des dindons et sera composé de onze membres nommés de la manière et pour la durée mentionnées dans l’annexe ci-jointe;
 

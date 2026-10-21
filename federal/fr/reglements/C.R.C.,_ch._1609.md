@@ -17,7 +17,7 @@ C.R.C., ch. 1609 · Codification: 2026-09-30 · Dernière modification: 2025-03-
 
 Autorité habilitante: [LOI SUR LES ESPÈCES SAUVAGES DU CANADA](../lois/W-9.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1609/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1609/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 **1** \[Abrogé, DORS/2020-256, art. 2\]
 

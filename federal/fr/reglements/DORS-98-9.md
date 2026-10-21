@@ -21,7 +21,7 @@ Enregistrement: 1997-12-17
 
 C.P. 1997-1905 1997-12-17
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-98-9/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-98-9/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 \[Abrogé, DORS/2006-145, art. 1\]
 

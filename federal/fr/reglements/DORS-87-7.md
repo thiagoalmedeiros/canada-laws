@@ -24,7 +24,7 @@ Enregistrement: 1986-12-18
 
 C.P. 1986-2844 1986-12-18
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-87-7/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-87-7/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Vu que, conformément à l’article 4.5[^nbp_1f] de la [Loi sur l’aéronautique](../lois/A-2.md), le projet de [Règlement de zonage concernant l’aéroport de Wabush](DORS-87-7.md), conforme en substance à l’annexe ci-après, a été publié dans la Gazette du Canada Partie I le 22 mars 1986 et que les intéressés ont ainsi eu la possibilité de présenter au ministre des Transports leurs observations à cet égard;
 

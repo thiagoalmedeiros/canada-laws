@@ -22,7 +22,7 @@ Autorité habilitante: [LOI SUR LA COMMERCIALISATION DES PRODUITS AGRICOLES](../
 
 Enregistrement: 1983-12-19
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-84-1/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-84-1/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 En vertu de l’article 4 du [Décret sur le porc du Nouveau-Brunswick](DORS-82-42.md) établi par le décret C.P. 1981-3629 du 17 décembre 1981[^nbp_1f], l’Office de commercialisation des porcs du Nouveau-Brunswick prend l’Ordonnance concernant la fixation, l’imposition et la perception des contributions à payer par certains producteurs de porcs du Nouveau-Brunswick sur le marché interprovincial et dans le commerce d’exportation.
 

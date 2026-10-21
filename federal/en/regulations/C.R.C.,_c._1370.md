@@ -17,7 +17,7 @@ C.R.C., c. 1370 · Consolidated: 2025-10-14 · Last amended: 2025-10-09
 
 Enabling authority: [RADIATION EMITTING DEVICES ACT](../acts/R-1.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1370/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1370/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 **1** \[Repealed, SOR/2022-197, s. 24\]
 

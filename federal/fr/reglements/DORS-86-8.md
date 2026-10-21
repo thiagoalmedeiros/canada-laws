@@ -22,7 +22,7 @@ Autorité habilitante: [LOI SUR LES OFFICES DES PRODUITS AGRICOLES](../lois/F-4.
 
 Enregistrement: 1985-12-17
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-86-8/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-86-8/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Attendu qu’en vertu du paragraphe 17(1) de la Loi sur les offices de commercialisation des produits de ferme[^nbp_DORS_86-8_FR_Order_hq_9337], le gouverneur général en conseil a, par la [Proclamation visant l’Office canadien de commercialisation des œufs](C.R.C.,_ch._646.md), C.R.C., c. 646, établi l’Office canadien de commercialisation des œufs;
 

@@ -17,7 +17,7 @@ C.R.C., c. 413 · Consolidated: 2025-07-24 · Last amended: 2022-09-27
 
 Enabling authority: [COASTAL FISHERIES PROTECTION ACT](../acts/C-33.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._413/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._413/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 **1** \[Repealed, SOR/2017-58, s. 42\]
 

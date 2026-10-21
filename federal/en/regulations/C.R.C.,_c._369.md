@@ -17,7 +17,7 @@ C.R.C., c. 369 · Consolidated: 2025-07-24 · Last amended: 2015-04-01
 
 Enabling authority: [BANKRUPTCY AND INSOLVENCY ACT](../acts/B-3.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._369/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._369/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 **1** \[Repealed, SOR/2005-168, s. 2\]
 

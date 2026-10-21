@@ -20,7 +20,7 @@ C.R.C., c. 396 · Consolidated: 2025-12-29 · Last amended: 2025-12-17
 
 Enabling authority: [CANADIAN FORCES SUPERANNUATION ACT](../acts/C-17.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._396/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._396/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 ## Short Title
 

@@ -20,7 +20,7 @@ C.R.C., c. 1023 · Consolidated: 2025-07-24 · Last amended: 2022-10-20
 
 Enabling authority: [HEALTH OF ANIMALS ACT](../acts/H-3.3.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1023/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1023/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2022-218, s. 4\]
 

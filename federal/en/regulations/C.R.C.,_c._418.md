@@ -20,7 +20,7 @@ C.R.C., c. 418 · Consolidated: 2025-07-24 · Last amended: 2008-01-31
 
 Enabling authority: [CANADA COOPERATIVES ACT](../acts/C-1.7.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._418/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._418/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2008-31, s. 1\]
 

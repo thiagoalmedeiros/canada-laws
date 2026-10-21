@@ -20,7 +20,7 @@ C.R.C., c. 397 · Consolidated: 2025-07-24 · Last amended: 2013-08-01
 
 Enabling authority: [CANADIAN WHEAT BOARD ACT](../acts/C-24.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._397/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._397/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2013-19, s. 6\]
 

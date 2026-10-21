@@ -20,7 +20,7 @@ C.R.C., c. 869 · Consolidated: 2026-04-28 · Last amended: 2026-04-12
 
 Enabling authority: [FOOD AND DRUGS ACT](../acts/F-27.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._869/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._869/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 ## Short Title
 

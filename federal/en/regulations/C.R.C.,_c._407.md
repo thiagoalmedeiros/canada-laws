@@ -17,7 +17,7 @@ C.R.C., c. 407 · Consolidated: 2025-07-24 · Last amended: 2017-06-02
 
 Enabling authority: [CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999](../acts/C-15.31.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._407/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._407/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 **1** \[Repealed, SOR/2017-110, s. 2\]
 

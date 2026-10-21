@@ -20,7 +20,7 @@ C.R.C., c. 234 · Consolidated: 2025-07-24 · Last amended: 2016-03-17
 
 Enabling authority: [AGRICULTURAL PRODUCTS MARKETING ACT](../acts/A-6.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._234/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._234/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2016-49, s. 4\]
 

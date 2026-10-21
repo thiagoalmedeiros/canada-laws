@@ -20,7 +20,7 @@ C.R.C., c. 210 · Consolidated: 2025-07-24 · Last amended: 2013-10-04
 
 Enabling authority: [AGRICULTURAL PRODUCTS MARKETING ACT](../acts/A-6.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._210/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._210/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2013-173, s. 1\]
 

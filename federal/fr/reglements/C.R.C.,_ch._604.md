@@ -17,7 +17,7 @@ C.R.C., ch. 604 · Codification: 2026-09-03 · Dernière modification: 2026-09-0
 
 Autorité habilitante: [LOI SUR LES LICENCES D’EXPORTATION ET D’IMPORTATION](../lois/E-19.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._604/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._604/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 ## LISTE DES MARCHANDISES D’IMPORTATION CONTRÔLÉE
 

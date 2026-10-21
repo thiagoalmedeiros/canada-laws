@@ -20,7 +20,7 @@ C.R.C., c. 1518 · Consolidated: 2025-07-24 · Last amended: 2006-03-22
 
 Enabling authority: [TERRITORIAL LANDS ACT](../acts/T-7.md)[FEDERAL REAL PROPERTY AND FEDERAL IMMOVABLES ACT](../acts/F-8.4.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1518/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1518/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 ## Short Title
 

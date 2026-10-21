@@ -24,7 +24,7 @@ Enregistrement: 1993-02-23
 
 C.P. 1993-323 1993-02-23
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-93-95a/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-93-95a/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Attendu que la Commission de la fonction publique estime qu’il est difficilement réalisable et contraire aux intérêts de la fonction publique d’appliquer la [Loi sur l’emploi dans la fonction publique](../lois/P-33.01.md) aux personnes nommées à compter du 1<sup>er</sup> mars 1993 pour une ou plusieurs périodes déterminées de moins de trois mois totalisant moins de six mois par période de 12 mois consécutifs, afin d’être employées au ministère des Forêts, dans le groupe Commis aux écritures et aux règlements et le groupe Secrétariat, sténographie, dactylographie de la Catégorie du soutien administratif, dans le groupe Soutien technique et scientifique et le groupe Soutien des sciences sociales de la Catégorie technique, dans le groupe Chauffage, force motrice et opération de machines fixes, le groupe Manoeuvres et personnes de métier et le groupe Services divers de la Catégorie de l’exploitation, au cours de la période commençant le 1<sup>er</sup> mars 1993 et se terminant le 31 décembre 1993;
 

@@ -22,7 +22,7 @@ Autorité habilitante: [LOI SUR LA SANTÉ DES ANIMAUX](../lois/H-3.3.md)
 
 Enregistrement: 1990-12-13
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-91-2/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-91-2/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 En vertu du paragraphe 2(2) de la [Loi sur la santé des animaux](../lois/H-3.3.md)[^nbp_SOR-91-2_f_hq_5046], le ministre de l’Agriculture prend le [Règlement désignant les maladies déclarables](DORS-91-2.md), ci-après.
 

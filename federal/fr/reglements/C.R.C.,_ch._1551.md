@@ -20,7 +20,7 @@ C.R.C., ch. 1551 · Codification: 2025-07-24 · Dernière modification: 2019-06-
 
 Autorité habilitante: [LOI SUR L’ÉTIQUETAGE DES TEXTILES](../lois/T-10.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1551/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1551/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 ## Titre abrégé
 

@@ -17,7 +17,7 @@ C.R.C., c. 1041 · Consolidated: 2025-12-02 · Last amended: 2024-06-05
 
 Enabling authority: [CONTROLLED DRUGS AND SUBSTANCES ACT](../acts/C-38.8.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1041/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1041/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 **1** \[Repealed, SOR/2019-169, s. 2\]
 

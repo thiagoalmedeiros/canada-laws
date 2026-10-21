@@ -17,7 +17,7 @@ C.R.C., c. 385 · Consolidated: 2026-01-19 · Last amended: 2026-01-01
 
 Enabling authority: [CANADA PENSION PLAN](../acts/C-8.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._385/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._385/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 **1** \[Repealed, SOR/2024-265, s. 2\]
 

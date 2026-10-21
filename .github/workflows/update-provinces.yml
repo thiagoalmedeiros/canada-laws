@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       jurisdictions:
-        description: "Space-separated codes (AB BC MB NB NL NS NT ON PE QC SK YT). Empty = the PROVINCES repo variable, or AB BC ON."
+        description: "Space-separated codes (AB BC MB NB NL NS NT ON PE QC SK YT). Empty = the PROVINCES repo variable, or all."
         required: false
         default: ""
   schedule:
@@ -39,9 +39,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
-          # Default: only jurisdictions whose terms clearly allow public redistribution.
+          # Default: all jurisdictions covered by the A2AJ dataset.
           # Set the repository variable PROVINCES to change this (see README).
-          codes="${CODES:-AB BC ON}"
+          codes="${CODES:-AB BC MB NB NL NS NT ON PE QC SK YT}"
           for code in $codes; do
             python3 tools/provincial_to_md.py . "$code"
             git add -A provinces

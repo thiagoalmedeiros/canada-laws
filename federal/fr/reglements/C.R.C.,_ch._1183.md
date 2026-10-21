@@ -22,7 +22,7 @@ Autorité habilitante: [LOI SUR LES TRANSPORTS AU CANADA](../lois/C-10.4.md)
 
 COMMISSION CANADIENNE DES TRANSPORTS ORDONNANCE GÉNÉRALE No E-6
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1183/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1183/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 \[Abrogé, DORS/2014-275, art. 111\]
 

@@ -17,7 +17,7 @@ C.R.C., c. 666 · Consolidated: 2025-07-24 · Last amended: 2020-10-26
 
 Enabling authority: [FERTILIZERS ACT](../acts/F-10.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._666/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._666/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 **1** \[Repealed, SOR/2020-232, s. 2\]
 

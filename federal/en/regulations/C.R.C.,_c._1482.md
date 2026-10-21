@@ -20,7 +20,7 @@ C.R.C., c. 1482 · Consolidated: 2025-07-24 · Last amended: 2023-12-20
 
 Enabling authority: [CANADA SHIPPING ACT, 2001](../acts/C-10.15.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1482/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1482/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2023-257, s. 536\]
 

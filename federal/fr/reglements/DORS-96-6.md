@@ -24,7 +24,7 @@ Enregistrement: 1995-12-19
 
 C.P. 1995-2151 1995-12-19
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-96-6/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-96-6/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Sur recommandation du ministre des Finances et en vertu de l’article 35 du [Tarif des douanes](../lois/C-54.011.md)[^nbp_SOR-96-6_f_hq_3915], il plaît à Son Excellence le Gouverneur général en conseil de prendre le [Décret concernant la réduction des taux de droits de douane du tarif de préférence général](DORS-96-6.md), ci-après.
 

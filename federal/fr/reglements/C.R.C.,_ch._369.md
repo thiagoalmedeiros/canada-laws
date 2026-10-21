@@ -17,7 +17,7 @@ C.R.C., ch. 369 · Codification: 2025-07-24 · Dernière modification: 2015-04-0
 
 Autorité habilitante: [LOI SUR LA FAILLITE ET L’INSOLVABILITÉ](../lois/B-3.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._369/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._369/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 **1** \[Abrogé, DORS/2005-168, art. 2\]
 

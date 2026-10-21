@@ -20,7 +20,7 @@ C.R.C., ch. 353 · Codification: 2025-07-24 · Dernière modification: 2017-12-1
 
 Autorité habilitante: [LOI SUR LA PRÉVENTION DE LA POLLUTION DES EAUX ARCTIQUES](../lois/A-12.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._353/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._353/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 \[Abrogé, DORS/2017-286, art. 34\]
 

@@ -20,7 +20,7 @@ C.R.C., c. 1314 · Consolidated: 2025-07-24 · Last amended: 2023-03-28
 
 Enabling authority: [FOREIGN MISSIONS AND INTERNATIONAL ORGANIZATIONS ACT](../acts/F-29.4.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1314/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1314/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2023-63, s. 3\]
 

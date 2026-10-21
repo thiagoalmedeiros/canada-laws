@@ -21,7 +21,7 @@ Enregistrement: 1995-12-19
 
 C.P. 1995-2196 1995-12-19
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-96-8/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-96-8/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Attendu que le Conseil de la radiodiffusion et des télécommunications canadiennes a, le 31 octobre 1995, rendu la décision Télécom CRTC 95-21, intitulée « Mise en oeuvre du cadre de réglementation — Partage de la base tarifaire et questions connexes », dans laquelle il a adopté, sous la rubrique « Rééquilibrage des tarifs », un plan de majoration des tarifs locaux et de réduction parallèle des tarifs du service interurbain et a ordonné expressément aux compagnies membres de Stentor (sauf Maritime Tel & Tel Limited) visées par la décision de déposer, sous forme de requêtes en révisions tarifaires, des propositions de rééquilibrage des tarifs représentant des hausses de tarifs locaux de 2 $ par mois et des réductions parallèles de tarifs interurbains, qui prendront effet le 1<sup>er</sup> janvier des années 1996 et 1997;
 

@@ -24,7 +24,7 @@ Enregistrement: 1988-12-27
 
 C.P. 1988-2798 1988-12-22
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-89-30b/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-89-30b/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Vu que la Commission de la fonction publique a décidé qu’il est difficilement réalisable et contraire aux intérêts de la fonction publique, au cours de la période commençant le 1<sup>er</sup> janvier 1989 et se terminant le 31 mars 1993 :
 

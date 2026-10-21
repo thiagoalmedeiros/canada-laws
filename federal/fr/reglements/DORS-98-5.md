@@ -21,7 +21,7 @@ Enregistrement: 1997-12-17
 
 C.P. 1997-1897 1997-12-17
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-98-5/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-98-5/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Sur recommandation du ministre de la Santé et du Conseil du Trésor et en vertu de l’alinéa 19.1a)[^nbpa_f] de la [Loi sur la gestion des finances publiques](../lois/F-11.md) ainsi que, estimant que l’intérêt public justifie la remise de certaines dettes, en vertu du paragraphe 23(2.1)[^nbpb_f] de cette loi, Son Excellence le Gouverneur général en conseil prend le Règlement sur les prix à payer pour les licences de distributeurs autorisés de drogues contrôlées et de stupéfiants (1056), ci-après.
 

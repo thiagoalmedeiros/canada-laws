@@ -33,12 +33,20 @@ L10N = {
                image="Image", where="where", consolidated="Consolidated", amended="Last amended",
                source="Official source", enabling="Enabling authority", registration="Registration",
                index_acts="Federal Acts (English)", index_regs="Federal Regulations (English)",
-               notinforce="not in force"),
+               notinforce="not in force",
+               notice=("> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the "
+                       "[official source]({url}) under the [Reproduction of Federal Law Order]"
+                       "(https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the "
+                       "Justice Laws Website is official.")),
     "fr": dict(history="Historique", repealed="Abrogé", footnotes="Notes de bas de page",
                recent="Modifications récentes", image="Image", where="où", consolidated="Codification",
                amended="Dernière modification", source="Source officielle", enabling="Autorité habilitante",
                registration="Enregistrement", index_acts="Lois fédérales (français)",
-               index_regs="Règlements fédéraux (français)", notinforce="non en vigueur"),
+               index_regs="Règlements fédéraux (français)", notinforce="non en vigueur",
+               notice=("> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la "
+                       "[source officielle]({url}) en vertu du [Décret sur la reproduction de la législation fédérale]"
+                       "(https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la "
+                       "législation (Justice) fait foi.")),
 }
 
 BLOCKS_LIST = ["Paragraph", "Subparagraph", "Clause", "Subclause", "Subsubclause"]
@@ -803,7 +811,7 @@ class Conv:
                 t = " ".join(p for p in parts if p)
                 if t.strip():
                     body += [esc(t.strip()), ""]
-        body += [f"[{self.t['source']}]({src_url})", ""]
+        body += [self.t["notice"].format(url=src_url), ""]
         self.head_level = 1
         for k in root:
             kn = ln(k)

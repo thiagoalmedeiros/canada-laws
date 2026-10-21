@@ -22,7 +22,7 @@ Autorité habilitante: [LOI SUR LA SÉCURITÉ FERROVIAIRE](../lois/R-4.2.md)
 
 COMMISSION CANADIENNE DES TRANSPORTS ORDONNANCE GÉNÉRALE No E-12
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1185/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1185/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 ## Titre abrégé
 

@@ -20,7 +20,7 @@ C.R.C., c. 1240 · Consolidated: 2025-07-24 · Last amended: 2017-01-01
 
 Enabling authority: [NUCLEAR LIABILITY ACT](../acts/N-28.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1240/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1240/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2016-89, s. 1\]
 

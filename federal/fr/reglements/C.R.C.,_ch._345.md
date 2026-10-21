@@ -20,7 +20,7 @@ C.R.C., ch. 345 · Codification: 2025-07-24 · Dernière modification: 2006-03-2
 
 Autorité habilitante: LOI DES SUBSIDES NO 2 DE 1965[LOIS DE CRÉDITS](../lois/Z-01.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._345/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._345/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 ## Titre abrégé
 

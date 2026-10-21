@@ -20,7 +20,7 @@ C.R.C., c. 1049 · Consolidated: 2025-07-24 · Last amended: 2024-08-19
 
 Enabling authority: [NATIONAL DEFENCE ACT](../acts/N-5.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1049/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1049/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 ## Short Title
 

@@ -17,7 +17,7 @@ C.R.C., c. 1112 · Consolidated: 2026-09-03 · Last amended: 2026-08-07
 
 Enabling authority: [CANADA NATIONAL PARKS ACT](../acts/N-14.01.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1112/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1112/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 ## National Historic Sites of Canada
 

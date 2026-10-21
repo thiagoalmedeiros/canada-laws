@@ -17,7 +17,7 @@ C.R.C., ch. 1041 · Codification: 2025-12-02 · Dernière modification: 2024-06-
 
 Autorité habilitante: [LOI RÉGLEMENTANT CERTAINES DROGUES ET AUTRES SUBSTANCES](../lois/C-38.8.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1041/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1041/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 **1** \[Abrogé, DORS/2019-169, art. 2\]
 

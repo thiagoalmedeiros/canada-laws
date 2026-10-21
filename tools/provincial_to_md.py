@@ -32,11 +32,31 @@ JURIS = {
 
 
 
-def disclaimer(name, url):
-    src = f"the [official source]({url})" if url else "the official source"
-    return (f"> **Unofficial version.** Text obtained from the official {name} website via the "
+# Copyright holder and official publication site for each jurisdiction (used for credits).
+CREDITS = {
+    "AB": ("Alberta King's Printer", "https://kings-printer.alberta.ca"),
+    "BC": ("King's Printer for British Columbia", "https://www.bclaws.gov.bc.ca"),
+    "MB": ("King's Printer for Manitoba", "https://web2.gov.mb.ca/laws/"),
+    "NB": ("Government of New Brunswick", "https://laws.gnb.ca"),
+    "NL": ("Government of Newfoundland and Labrador / House of Assembly", "https://www.assembly.nl.ca/legislation/sr/"),
+    "NS": ("Province of Nova Scotia", "https://nslegislature.ca/legislative-business/legislative-documents"),
+    "NT": ("Government of the Northwest Territories", "https://www.justice.gov.nt.ca/en/legislation/"),
+    "ON": ("King's Printer for Ontario", "https://www.ontario.ca/laws"),
+    "PE": ("Government of Prince Edward Island", "https://www.princeedwardisland.ca/en/legislation"),
+    "QC": ("Gouvernement du Québec", "https://www.legisquebec.gouv.qc.ca"),
+    "SK": ("Office of the King's Printer, Saskatchewan", "https://publications.saskatchewan.ca"),
+    "YT": ("Government of Yukon", "https://laws.yukon.ca"),
+}
+
+
+def disclaimer(code, url):
+    holder, site = CREDITS[code]
+    src = f"[official source]({url})" if url else f"[official source]({site})"
+    return (f"> **Unofficial version, for personal and non-commercial use only.** "
+            f"© {holder}. Not endorsed by or affiliated with the Government of {JURIS[code]}. "
+            f"Text obtained from the {src} via the "
             f"[A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). "
-            f"Always check {src} before relying on it.")
+            f"Always check the official version before relying on it.")
 
 
 def paragraphs(text):
@@ -124,7 +144,7 @@ def doc(row, lang, code, kind):
         body = [f"# {name or cit}", ""]
         if cit and cit != name:
             body += [f"*{cit}*", ""]
-    body += [disclaimer(JURIS[code], url), "", text, ""]
+    body += [disclaimer(code, url), "", text, ""]
     return "\n".join(fm + body), name or cit, cit
 
 
@@ -174,7 +194,10 @@ def run(out, codes):
 def write_index(d, code, kind, index):
     rows = sorted(index, key=lambda fs: fs[0][2].lower())
     lines = [f"# {JURIS[code]} — {'Acts' if kind == 'acts' else 'Regulations'}", "",
-             f"{len(rows)} documents. Unofficial text; see each file for its official source and licence.", "",
+             f"{len(rows)} documents. Unofficial copies for personal and non-commercial use only. "
+             f"© {CREDITS[code][0]}; official versions at {CREDITS[code][1]}. "
+             "Text obtained via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). "
+             "Each file links to its official source.", "",
              "| Title | Citation | Files |", "|---|---|---|"]
     for fs in rows:
         lang, fname, title, cit = fs[0]
@@ -194,8 +217,10 @@ def write_overview(out, summary):
     for code, kind, n in summary:
         counts.setdefault(code, {})[kind] = n
     lines = ["# Provincial and territorial laws", "",
-             "Unofficial Markdown copies from the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). "
-             "Nunavut is not covered by that dataset. Licence terms differ by jurisdiction; see the main README.", "",
+             "Unofficial Markdown copies, **for personal and non-commercial use only**, from the "
+             "[A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws), which collects them from "
+             "each government's official site. Nunavut is not covered by that dataset. "
+             "Credits, sources and terms are in the [main README](../README.md#credits-and-sources).", "",
              "| Jurisdiction | Acts | Regulations |", "|---|---|---|"]
     for code in sorted(counts):
         c = counts[code]

@@ -20,7 +20,7 @@ C.R.C., ch. 1393 · Codification: 2026-07-21 · Dernière modification: 2026-06-
 
 Autorité habilitante: [LOI SUR LA PENSION DE RETRAITE DE LA GENDARMERIE ROYALE DU CANADA](../lois/R-11.md)[LOI SUR LA GESTION DES FINANCES PUBLIQUES](../lois/F-11.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1393/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1393/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 ## Titre abrégé
 

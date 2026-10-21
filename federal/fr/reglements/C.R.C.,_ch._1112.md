@@ -17,7 +17,7 @@ C.R.C., ch. 1112 · Codification: 2026-09-03 · Dernière modification: 2026-08-
 
 Autorité habilitante: [LOI SUR LES PARCS NATIONAUX DU CANADA](../lois/N-14.01.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1112/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1112/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 ## Lieux historiques nationaux du Canada
 

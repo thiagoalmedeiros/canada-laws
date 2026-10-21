@@ -20,7 +20,7 @@ C.R.C., ch. 1386 · Codification: 2025-07-24 · Dernière modification: 2006-03-
 
 Autorité habilitante: [LOI SUR LES SUBVENTIONS AU DÉVELOPPEMENT RÉGIONAL](../lois/R-4.9.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1386/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1386/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 ## Titre abrégé
 

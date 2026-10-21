@@ -17,7 +17,7 @@ C.R.C., ch. 869 · Codification: 2026-04-28 · Dernière modification: 2026-04-1
 
 Autorité habilitante: [LOI SUR LES ALIMENTS ET DROGUES](../lois/F-27.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._869/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._869/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 ## Titre abrégé
 

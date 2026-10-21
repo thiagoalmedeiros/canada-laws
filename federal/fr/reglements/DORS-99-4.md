@@ -21,7 +21,7 @@ Enregistrement: 1998-12-14
 
 C.T. 826779 1998-12-10
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-99-4/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/DORS-99-4/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 Sur recommandation du président du Conseil du Trésor et en vertu de l’alinéa 42.1(1)u)[^nbp_SOR-99-4_f_hq_3941] de la [Loi sur la pension de la fonction publique](../lois/P-36.md) et de l’alinéa 7(2)a) de la [Loi sur la gestion des finances publiques](../lois/F-11.md), le Conseil du Trésor prend le [Règlement sur la protection de l’admissibilité aux prestations — Centre d’essais pour véhicules automobiles de Blainville](DORS-99-4.md), ci-après.
 

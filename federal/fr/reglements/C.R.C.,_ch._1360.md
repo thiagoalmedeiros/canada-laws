@@ -17,7 +17,7 @@ C.R.C., ch. 1360 · Codification: 2025-07-24 · Dernière modification: 2024-06-
 
 Autorité habilitante: [LOI SUR LA PENSION DE LA FONCTION PUBLIQUE](../lois/P-36.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1360/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1360/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 **1** \[Abrogé, DORS/2024-85, art. 2\]
 

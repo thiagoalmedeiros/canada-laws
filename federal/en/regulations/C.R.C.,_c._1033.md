@@ -17,7 +17,7 @@ C.R.C., c. 1033 · Consolidated: 2025-07-24 · Last amended: 2020-08-25
 
 Enabling authority: [MEMBERS OF PARLIAMENT RETIRING ALLOWANCES ACT](../acts/M-5.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1033/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1033/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 **1** \[Repealed, SOR/2003-111, s. 2\]
 

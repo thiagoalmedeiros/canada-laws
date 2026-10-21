@@ -20,7 +20,7 @@ C.R.C., c. 1035 · Consolidated: 2025-07-24 · Last amended: 2022-07-30
 
 Enabling authority: [MIGRATORY BIRDS CONVENTION ACT, 1994](../acts/M-7.01.md)
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1035/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1035/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2022-105, s. 91\]
 

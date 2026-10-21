@@ -17,7 +17,7 @@ C.R.C., ch. 1370 · Codification: 2025-10-14 · Dernière modification: 2025-10-
 
 Autorité habilitante: [LOI SUR LES DISPOSITIFS ÉMETTANT DES RADIATIONS](../lois/R-1.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1370/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1370/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 **1** \[Abrogé, DORS/2022-197, art. 24\]
 

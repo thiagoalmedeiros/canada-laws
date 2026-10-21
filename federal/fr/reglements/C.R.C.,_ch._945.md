@@ -17,7 +17,7 @@ C.R.C., ch. 945 · Codification: 2026-06-21 · Dernière modification: 2026-06-1
 
 Autorité habilitante: [LOI DE L’IMPÔT SUR LE REVENU](../lois/I-3.3.md)
 
-[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._945/)
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._945/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
 
 \[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.\]
 

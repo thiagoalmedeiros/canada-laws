@@ -22,7 +22,7 @@ Enabling authority: [CANADA TRANSPORTATION ACT](../acts/C-10.4.md)
 
 CANADIAN TRANSPORT COMMISSION GENERAL ORDER NO. E-6
 
-[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1183/)
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1183/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
 
 \[Repealed, SOR/2014-275, s. 111\]
 
