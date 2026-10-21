@@ -15,3 +15,4 @@ Unofficial Markdown copies, **for personal and non-commercial use only**, from t
 | [Prince Edward Island](pe/) | 341 | 396 |
 | [Quebec](qc/) | 541 | 2540 |
 | [Saskatchewan](sk/) | 506 | 667 |
+| [Yukon](yt/) | 279 | 1355 |
