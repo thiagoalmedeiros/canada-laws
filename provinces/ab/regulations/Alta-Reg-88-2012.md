@@ -12,7 +12,7 @@ upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta K
 
 # Crown's Right of Recovery (Ministerial) Regulation
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2012_088.cfm&leg_type=Regs&isbncln=9780779859344&display=html) before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2012_088.cfm&leg_type=Regs&isbncln=9780779859344&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 88/2012
 

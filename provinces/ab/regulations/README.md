@@ -1,6 +1,6 @@
 # Alberta — Regulations
 
-925 documents. Unofficial text; see each file for its official source and licence.
+925 documents. Unofficial copies for personal and non-commercial use only. © Alberta King's Printer; official versions at https://kings-printer.alberta.ca. Text obtained via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Each file links to its official source.
 
 | Title | Citation | Files |
 |---|---|---|

@@ -12,7 +12,7 @@ upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta K
 
 # Professional Governance General Regulation
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2026_011.cfm&leg_type=Regs&isbncln=9780779860081&display=html) before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2026_011.cfm&leg_type=Regs&isbncln=9780779860081&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 11/2026
 

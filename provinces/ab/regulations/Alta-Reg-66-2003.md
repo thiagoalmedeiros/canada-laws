@@ -12,7 +12,7 @@ upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta K
 
 # Guarantees Acknowledgment Forms Regulation
 
-> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2003_066.cfm&leg_type=Regs&isbncln=9780779850228&display=html) before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2003_066.cfm&leg_type=Regs&isbncln=9780779850228&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 66/2003
 
