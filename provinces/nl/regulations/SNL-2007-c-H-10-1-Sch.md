@@ -1,0 +1,1080 @@
+---
+title: "Members’ Resources and Allowances Rules"
+citation: "SNL 2007, c H-10.1, Sch"
+jurisdiction: "Newfoundland and Labrador"
+language: en
+type: regulation
+document_date: "2007-01-01"
+retrieved: "2026-10-17"
+source: "https://www.assembly.nl.ca/Legislation/sr/regulations/rc07rules.htm"
+upstream_license: "See upstream license: https://perma.cc/H9XC-S2WF © King's Printer for Newfoundland and Labrador. Reproduced from the House of Assembly statutes and regulations site (assembly.nl.ca), subject to its copyright statement (https://www.assembly.nl.ca/CopyrightPrivacyStatement.aspx). NOTE: This is an unofficial reproduction of Newfoundland and Labrador regulations, made without endorsement or affiliation by the Government of Newfoundland and Labrador."
+---
+
+# Members’ Resources and Allowances Rules
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Newfoundland and Labrador / House of Assembly. Not endorsed by or affiliated with the Government of Newfoundland and Labrador. Text obtained from the [official source](https://www.assembly.nl.ca/Legislation/sr/regulations/rc07rules.htm) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+SNL 2007, c H-10.1, Sch
+
+*Made under the House of Assembly Accountability, Integrity and Administration Act*
+
+### Short title
+
+1 These rules may be cited as the Members’ Resources and Allowances Rules.
+
+### Definitions
+
+2 In these rules
+
+(a) " Act" means the House of Assembly Accountability, Integrity and Administration Act;
+
+(b) "allowance" means a category of allowance referred to in section 14;
+
+(c) "associated person" means
+
+(i) a person who is not at arm’s length,
+
+(ii) a related person, and
+
+(iii) an associated corporation,
+
+within the meaning of the Income Tax Act (Canada);
+
+(d) "capital region" means the area encompassing the following electoral districts as described and delineated in the House of Assembly Act as follows:
+
+(i) Cape St. Francis,
+
+(ii) Conception Bay East - Bell Island,
+
+(iii) Conception Bay South,
+
+(iv) Ferryland (north of Witless Bay Line),
+
+(v) Mount Pearl - Southlands,
+
+(vi) Mount Pearl North,
+
+(vii) Mount Scio,
+
+(viii) St. John's Centre,
+
+(ix) St. John's East - Quidi Vidi,
+
+(x) St. John's West,
+
+(xi) Topsail - Paradise,
+
+(xii) Virginia Waters - Pleasantville,
+
+(xiii) Waterford Valley, and
+
+(xiv) Windsor Lake;
+
+(e) "comptroller general" means the Comptroller General of Finance as defined in the Financial Administration Act;
+
+(f) "constituency business" means an activity directly connected with a member’s responsibilities as a member in relation to the ordinary and proper representation of electors and their families and other residents in the constituency, but does not include partisan political activities;
+
+(g) "direct", "directed" and "directive" mean a direction or directive made by the commission in accordance with the Act; and
+
+(h) "House", unless the context indicates otherwise, means the House of Assembly service as that phrase is understood in the House of Assembly Accountability, Integrity and Administration Ac t.
+
+## PART I PURPOSES AND PRINCIPLES
+
+### Purpose
+
+3 The purpose of these rules is
+
+(a) to provide resources to members to assist them to fulfill their public duties and responsibilities as members of the House, for the benefit of the residents of the province;
+
+(b) to promote accountability in, and transparency with respect to, the expenditure of public funds; and
+
+(c) to facilitate public understanding of the use of public funds in fulfillment of members’ obligations.
+
+### Presumptions
+
+4 (1) Where the commission makes a direction or requires an action, that direction or requirement shall be made in writing or evidenced by written minutes of the proceedings or decision of the commission.
+
+(2) The clerk may establish the forms necessary for the purposes of the implementation of these rules.
+
+(3) Notwithstanding subsection (2), the commission may by directive, establish forms necessary for the implementation of these rules.
+
+(4) Where in these rules an expense claim is permitted, that claim shall be made for the time and amount permitted under these rules or as directed or limited by the commission.
+
+(5) Where the clerk or speaker makes a ruling that approves additional expenditures greater than that authorized under these rules the clerk or speaker shall report his or her approval at the next meeting of the commission and a notation of that approval shall be recorded in the minutes of the commission.
+
+### Principles
+
+5 (1) All claims and invoices submitted by or on behalf of a member or to provide resources to a member and all payments and reimbursements made under these rules shall
+
+(a) be submitted and made in accordance with the purpose and intent of the Act and these rules;
+
+(b) be submitted by or on behalf of a member and made only if and in a manner that does not call into question the integrity of the member and the House;
+
+(c) be documented and supported in accordance with sound financial management principles;
+
+(d) not relate to partisan political activities; and
+
+(e) shall not relate to a personal benefit to a member or an associated person of a member.
+
+(2) The clerk and all staff of the House shall, subject to directives and approval of the commission, develop and maintain proper administrative and financial policies and procedures with respect to documentation to be provided in support of claims and invoices submitted for reimbursement or payment, and the clerk shall include those policies and procedures in the manual.
+
+(3) The commission shall periodically, and at least once every year, review the adequacy of the policies and procedures being applied by the clerk and staff of the House and may direct changes that it considers appropriate to those policies and procedures to improve controls and accountability.
+
+### Member responsibility
+
+6 (1) A member making or incurring an expenditure is the person responsible for compliance with requirements for claims, payments and reimbursements of expenses under the Act and these rules.
+
+(2) A member is not relieved of his or her responsibility under subsection (1) either because he or she has delegated that responsibility to a constituency assistant or another person or because a claim has been accepted for payment by an official of the House or has been paid by the comptroller general.
+
+(3) A member may be required to certify to the clerk, the commission or an auditor of the House that an expense that he or she is claiming or has claimed payment or reimbursement for has been actually incurred in compliance with the Act, these rules and directives of the commission.
+
+(4) A member is responsible for maintaining appropriate records, operating his or her constituency office and engaging and training support staff in a manner that will facilitate compliance with the Act, the rules, directives and the manual.
+
+(5) A member who is entitled to claim reimbursement under the Act and these rules for expenses or for daily amounts or mileage in accordance with policies relating to ministers, parliamentary assistants or other officers who,
+
+(a) engages in activity; or
+
+(b) travels in circumstances,
+
+where the activity or travel relates both to constituency business and business governed by those policies, shall prorate the claim based on the proportion of time spent on constituency business.
+
+### Restrictions on claims
+
+7 (1) Allowances allocated to a member may be expended by that member during a fiscal year.
+
+(2) A claim against an allowance for a payment or reimbursement shall be made in respect of the fiscal year in which the expenditure was made or incurred, and shall be submitted and received by the clerk not more than 30 days after the end of that fiscal year.
+
+(3) An expenditure shall be considered to have been made or incurred when the goods and services to which that expenditure relates have been received.
+
+(4) An unused balance of an allowance of a member at the end of a fiscal year may not be carried over for use in the following fiscal year.
+
+(5) A purported expenditure or commitment to an expenditure by a member that exceeds the maximum allowed for that category of expenditure shall not be carried forward and reimbursed or paid from an allowance available in the next fiscal year unless it amounts to a precommitment of expenditure in a future fiscal year that is authorized by a directive or in accordance with a minute of the proceedings of the commission.
+
+(6) A claim against an allowance for payment or reimbursement shall not be made more than 60 days after the date on which the expenditure was made.
+
+### Member personal liability
+
+8 (1) Where a member makes an expenditure or a commitment to an expenditure that exceeds the maximum allowed for that category of expenditure in a fiscal year, he or she shall be personally responsible for payment of that expenditure unless it amounts to a pre-commitment of expenditure in a future fiscal year that is authorized by directive or minute of the commission.
+
+(2) Where through inadvertence or otherwise a claim made by a member is paid from public funds and it is discovered that the claim should not have been paid or honoured because it was in excess of the maximum allowed for that category of expenditure, the member is liable for repayment of that amount to the extent of the excess and shall, upon request by the comptroller general, immediately pay that excess amount to the Consolidated Revenue Fund.
+
+## PART II RECORDS AND DISCLOSURE
+
+### Records
+
+9 (1) A member shall keep records of all
+
+(a) expenditures made or committed; and
+
+(b) claims made against allowances,
+
+by him or her, together with copies of supporting documents for those expenditures and claims.
+
+(2) A member shall make the records referred to in subsection (1) available for inspection and copying by the speaker, the auditor general, another auditor employed by the commission on behalf of the House and the comptroller general.
+
+### Monthly reports
+
+10 (1) Before the twenty-first day of each month, the clerk shall prepare and provide to each member a written report outlining for the preceding month
+
+(a) reimbursements made to the member; and
+
+(b) payments made on the member’s behalf,
+
+together with
+
+(c) a statement highlighting the total amount spent by the member during the current fiscal year in each category of allowance; and
+
+(d) the amount in each category that remains unspent or uncommitted for the current fiscal year.
+
+(2) The clerk shall advise the speaker and a member whenever the amount spent by that member, expressed as a percentage of the total allowable allowance permitted for that year, is an amount that is in excess of more than 10% of the amount permitted for the portion of the fiscal year that has elapsed and the allowance amount permitted for the fiscal year shall be considered to be allocated in equal monthly amounts throughout that year.
+
+(2.1) Subsection (2) does not apply to an allowance claimed under subsection 19(4).
+
+(3) An electronic system accessible by a member from which he or she may obtain the information required under subsection (1) shall be considered to satisfy the requirements of that subsection.
+
+### Statements
+
+11 (1) Twice in each fiscal year the clerk shall prepare a statement summarizing by category of expenditure the amounts paid in respect of which claims were made and paid against the allowances that each member is entitled to access.
+
+(2) The clerk shall provide each statement prepared under subsection (1) to the member to whom the statement relates for review and approval by that member.
+
+(3) Within 21 days of receipt of a statement under this section, a member shall sign the statement acknowledging its accuracy or may state in writing to the speaker objections that he or she has with respect to its accuracy.
+
+(4) Failure to respond to the statement within the time specified under subsection (3) shall be considered to be an acceptance by the member of its accuracy.
+
+(5) A statement prepared under this section that is sent by ordinary mail shall be considered to have been received 5 days after its date of posting.
+
+### Public access to statements
+
+12 (1) After the expiration of 21 days referred to in subsection 11 (3), a member shall
+
+(a) file a copy of the statement, together with any objection in response and that copy shall be kept on file in his or her constituency office, or in his or her residence in the constituency if the member does not maintain a constituency office; and
+
+(b) make a copy of the statement and any objection available for inspection by any person within a reasonable time of receiving the request for inspection.
+
+(2) Notwithstanding subsections (1) and 11(1), the clerk may, for the purpose of public access under section 13, have the name of a payee in respect of whom a claim or payment is made or other information that could reasonably be said to identify a payee, suppressed from a statement where, in the opinion of the speaker, the privacy interest of a person who is not a member outweighs the interest of the public in having full and complete disclosure of a member’s use of public funds.
+
+### Speaker requirements
+
+13 (1) The clerk shall maintain and file a copy of statements prepared under section 11, and objections in response, in the office of the speaker and shall make them available for inspection by persons within a reasonable time after the making of the request for inspection.
+
+(2) The clerk shall post for public access and inspection a copy of each statement and objections, on a website maintained and operated by or on behalf of the office of the speaker.
+
+(3) A statement prepared under section 11 need not be maintained by the member or the clerk for public inspection after 5 years following the end of the fiscal year to which the statement relates.
+
+## PART III ALLOWANCES AND CLAIMS
+
+### Categories of allowances
+
+14 (1) A member may claim from public monies payment or reimbursement against the following categories of allowances:
+
+(a) office allowances;
+
+(b) operational resources;
+
+(c) travel and living allowances; and
+
+(d) constituency allowances.
+
+(2) Unused portions of an allowance in a fiscal year shall not be transferred to another allowance for use by the member in respect of the type of expenditures contemplated for that other allowance.
+
+(3) An allowance provided for in these rules shall include harmonized sales tax as defined in the agreement of the Tax Agreement Act and other taxes imposed on the sale or use of goods and services by the government of the province or of Canada.
+
+### Disagreement with speaker decision
+
+15 (1) Except in circumstances referred to in sections 24 and 52 of the Act, a member who is dissatisfied with a decision of the clerk made under these rules may appeal that decision to the commission.
+
+(2) A decision of the commission with respect to an appeal under subsection (1) shall be made not more than 45 days after receipt of the member’s appeal by the commission, is final and the decision and reasons for that decision shall be recorded in the minutes of the commission.
+
+(3) The commission shall determine and direct the procedure to be followed for dealing with an appeal contemplated under this section.
+
+### Forms and documentation
+
+16 (1) A member shall claim payment or reimbursement in respect of an allowance in the manner and on the forms prescribed by the clerk or as directed by the commission.
+
+(2) A form prescribed by the commission shall contain a provision whereby the member shall be required personally to certify that the expenses to which the claim relates were actually incurred in compliance with the Act, these rules and applicable directives of the commission.
+
+(3) A member’s claim shall not be paid unless, in the opinion of the clerk, there is sufficient documentation supplied verifying that each expenditure of the member was incurred.
+
+(4) A member’s claim, except a daily allowance or mileage claim, shall not be paid unless it is supported by the original invoice together with the instrument evidencing payment, such as a credit card voucher or notification, debit card voucher, cancelled cheque or cash receipt.
+
+(5) Where an original document is unavailable, a copy, photocopy, faxed copy or statement itemizing the expenditure may be accepted by the clerk upon provision of an explanation from the member, in writing, for the absence of the original.
+
+### Processing of claims
+
+17 The clerk shall ensure that the processing of member claims, including their acceptance, verification and approval for payment under these rules is undertaken in accordance with proper principles of internal control.
+
+## PART IV OFFICE ALLOWANCES
+
+### Eligibility for office expenses
+
+18 (1) A member may seek reimbursement or have payment made on his or her behalf, for the provision of office expenses in order to conduct his or her constituency business.
+
+(2) A member is entitled to the constituency office accommodation expenses described in subsection 19(1).
+
+(3) The maximum allowance available to a member for office operations and supplies is $12,000.
+
+(4) [Rep. by 44/13 s2]
+
+### Eligibility for constituency office accommodation
+
+19 (1) The constituency office accommodation expenses referred to in subsection 18 (2) includes accommodation expenses related to the rental of permanent or temporary offices such as
+
+(a) rent;
+
+(b) utilities;
+
+(c) taxes;
+
+(d) insurance;
+
+(e) security;
+
+(f) janitorial services; and
+
+(g) signage identifying the office as the member’s constituency office without any reference to a political party.
+
+(2) A member, who is unable to establish and operate an office to adequately serve his or her constituents, may claim expenses for the rental of meeting rooms.
+
+(3) A member shall not use a constituency office to further partisan political activities.
+
+(4) Following a general election or by-election, a new member who was not a member in the preceding session of the House of Assembly is, in addition to the constituency office accommodation allowance, entitled to claim amounts associated with the start-up of the member's office in an amount of not more than $1,000 to defray expenses for supplies and equipment as follows
+
+(a) office supplies such as paper trays, 3 hole punch, staplers, pencil holders, scissors, hanging folders, kettle and coffee maker;
+
+(b) office equipment such as a computer monitor stand and non glare screen; and
+
+(c) other non-consumable items directly related, in the opinion of the Clerk, to establishing a constituency office.
+
+### Nature and location
+
+20 (1) Office accommodation to which a member is entitled shall consist of space to provide
+
+(a) a private office for the member;
+
+(b) space for a constituency assistant; and
+
+(c) a waiting area for that office.
+
+(2) A member shall be provided with office accommodation in the Confederation Building complex in St. John’s in a location that may be determined by the speaker.
+
+(3) The quality and size of office accommodation in the Confederation Building complex for a member of one political party shall not be materially different than that for a member of another political party.
+
+(4) A member who chooses to have his or her constituency assistant work in the Confederation Building complex shall, with respect to the assignment of office accommodation in that complex, be given priority over a member who chooses to have his or her constituency assistant work in an office in the member’s constituency.
+
+(5) In addition to choosing office accommodation in the Confederation Building complex, a member may choose office accommodation in one of the following ways:
+
+(a) office space in the member’s constituency;
+
+(b) instead of an office in a specific location, the rental of shortterm accommodation in one or more locations in the member’s constituency from time to time to facilitate the travel of the member throughout the district to meet with residents on constituency issues;
+
+(c) subject to the limitations in subsection 21 (2), operate an office in his or her residence in, or within commuting distance of the constituency; or
+
+(d) if he or she is a minister, a parliamentary assistant or a special assistant to a minister, operate a constituency office in the building or department where his or her ministerial or assistant’s office is located.
+
+(5.1) Notwithstanding paragraph (5)(a), the Speaker may, upon the written request of a member, approve the locating of that member's constituency office space within a constituency that is not a constituency of that member provided that the requested office space is located in a constituency that is adjacent to the member's constituency.
+
+(6) Notwithstanding paragraph (5)(a) or (d), where a member chooses office accommodation in the member’s constituency in a Crown-owned building or in a building where his or her ministerial or assistant’s office is located, the member may not access the constituency office accommodation allowance.
+
+(7) [Rep. by 44/13 s4]
+
+(8) Where choosing office accommodation in a member’s constituency under paragraph (5)(a), a member shall
+
+(a) not make rental or lease commitments without prior approval of the speaker;
+
+(b) where accommodation, suitable in size, quality and location to the member, can be obtained in a Crown-owned building in the constituency, choose that space; and
+
+(c) where accommodation referred to in paragraph (b) cannot be obtained, the member shall decide in which community his or her office will be located and the member shall obtain in that community commercial office accommodation in accordance with the tender processes for leasing space under the Public Tender Act.
+
+(9) A tender for accommodation under paragraph (8)(c) shall stipulate that the lease shall be terminable at or before the expected date of the next general election.
+
+(9.1) Proposal documentation submitted by a landlord responding to a tender made under paragraph (8)(c) shall include the total monthly cost, including utilities, taxes, insurance, security, janitorial services, signage and snow-clearing.
+
+(10) A lease contract for office accommodation acquired under this section shall be prepared between "Her Majesty in Queen in Right of the Province of Newfoundland and Labrador, represented here by the Honourable the Speaker of the House of Assembly" and the owner of the office space and the cost of that preparation shall, unless stipulated otherwise by the speaker in exceptional cases, be paid directly by the House of Assembly in accordance with the approved office lease.
+
+(11) Notwithstanding section 22, following a by-election, a new member who was not a member in the preceding session of the House shall utilize the previous members’ constituency office until the next general election unless that office was in the former member’s home or a community in which the new member does not reside.
+
+### Renting from self
+
+21 (1) A lease of office accommodation shall not be entered into with a landlord who is an associated person.
+
+(2) Notwithstanding subsection (1), a member may operate a constituency office from his or her residence in his or her constituency but in that event, is not entitled to claim reimbursement for provision of those accommodation except for the creation and erection of a sign identifying the constituency office.
+
+### Changing arrangements
+
+22 Where a member chooses accommodation under subsection 20 (5), he or she may elect to use a different accommodation arrangement provided he or she is able to withdraw from an existing lease arrangement without penalty or cost to the Crown or without having to give more than two month’s notice or payment of rent.
+
+### Eligibility for space
+
+23 (1) Where a member has chosen office accommodation in the Confederation Building complex, the speaker shall, to the extent possible, group the office accommodations for members of the same political party together in the same area as part of a caucus office.
+
+(2) Where a member has chosen to have his or her constituency assistant work in office accommodation in the member’s constituency or in the member’s ministerial or parliamentary or special assistant’s offices, the speaker shall provide funding to the caucus with which the member is associated to provide shared secretarial assistance in the Confederation Building complex for all members of that caucus in the same circumstances.
+
+(3) The cost of providing shared secretarial assistance, telephone, computer and secretarial services and associated operational costs shall be a part of the estimates of the House of Assembly and paid for out of the funds allocated for its operations.
+
+### Office operations, supplies and communications allowance
+
+24 (1) A member may claim against the office operations and supplies allowance for reimbursement to cover operational costs of operating a constituency office including,
+
+(a) office supplies;
+
+(b) printing;
+
+(c) photocopies;
+
+(d) newspapers;
+
+(e) answering services;
+
+(f) staff professional development;
+
+(g) courier services and postage;
+
+(h) database maintenance;
+
+(i) advertising in the form and with the content outlined in the policies of the commission;
+
+(j) special occasion cards;
+
+(k) those other items identified and directed by the commission.
+
+(2) For the purpose of subsection (1), “special occasion cards” means anniversary, birthday, sympathy, Christmas or seasonal cards.
+
+## PART V MEMBERS OPERATIONAL RESOURCES
+
+### Standard office allocation
+
+25 (1) A member is entitled to office furniture, equipment and services for his or her constituency office based on a standard office allocation approved by directive of the commission and may include
+
+(a) an office furniture and equipment package;
+
+(b) artwork from the Government procurement program;
+
+(c) telephone and facsimile services;
+
+(d) a computer or laptop computer;
+
+(e) personal data communication services;
+
+(f) photocopier, printer and scanner services;
+
+(g) internet services; and
+
+(h) other items that may be identified and approved by a directive of the commission.
+
+(2) All purchases within the standard office allocation remain the property of the government of the province and shall be identified by appropriate markings as House assets.
+
+(3) A member shall not personally fund, in whole or in part, the purchase of House assets.
+
+(4) The clerk shall maintain and update an inventory report of all House assets entrusted to each member.
+
+(5) A member is personally responsible for all items in an inventory and shall account on an annual basis or on demand to the speaker for the items listed in his or her inventory report.
+
+(6) A member shall not dispose of or purport to dispose of a House asset.
+
+(7) Where a member wishes to dispose of a House asset or have it written off, he or she shall submit a request to the clerk identifying the item and stating the reason for the request.
+
+(8) The clerk shall consult with the Government Purchasing Agency to determine whether the item should be disposed of or written off and the member having that item shall return it to the House for disposal or otherwise comply with the clerk’s directions, at which time the item will be removed from the member's inventory.
+
+(9) A new member shall utilize the furniture, furnishings and equipment provided to the outgoing member for that constituency.
+
+(10) Where a member wishes to have a House asset replaced from the outgoing member’s standard office allocation, he or she shall submit a request to the clerk identifying the item and stating the reason for the request and the clerk shall consult with the Government Purchasing Agency to determine whether the asset should be replaced.
+
+(11) Where an asset is to be replaced, the member shall return it to the House for disposal or otherwise comply with the clerk’s directions, whereupon he or she shall be provided with a replacement item.
+
+(12) Arrangements for the hook-up of constituency fax lines, telephone lines and telephone directory advertising shall be made by or under the direction of the clerk.
+
+### Support staff
+
+26 (1) A member is entitled to engage the services of one constituency assistant.
+
+(2) The salaries and benefits for constituency assistants shall be set by directive of the commission and, unless otherwise contrary to law or a directive of the commission, the member may set the terms and conditions of employment.
+
+(3) An employment contract of a constituency assistant shall be between the constituency assistant and "Her Majesty the Queen in Right of the Province of Newfoundland and Labrador, represented here by the Honourable the Speaker of the House of Assembly".
+
+(4) Expenses related to constituency assistant salaries and benefits shall be paid directly to constituency employees by the office of the speaker.
+
+(5) Where a member considers it necessary to engage a temporary replacement for a constituency assistant due to vacation, illness or other absence of the regular assistant that the speaker considers acceptable the member may, with the consent of the speaker, engage a temporary replacement, and the costs associated with that engagement shall be reimbursed by the office of the speaker to the member.
+
+(6) Where a district is not represented by a member, the constituency assistant for the last member representing that district may remain employed as a constituency assistant until a new member is officially declared elected for that district and the required notice period applicable to the constituency assistant has elapsed.
+
+### Other resources
+
+27 (1) Subject to descriptions, limitations and directions respecting standardization that the commission may direct, a member is entitled to be supplied from the House with the following:
+
+(a) certificate folders and frames for certificates of recognition to be given by members to their constituents;
+
+(b) promotional items such as pins and flags for distribution to constituents and others in the course of their duties; and
+
+(c) stationery for his or her constituency office including business cards, letterhead and other items as directed by the commission.
+
+(2) The clerk shall, in consultation with a member, make resources referred to in this section available to the member as may be required.
+
+(3) The cost of resources in this section shall be made part of the estimates of the House of Assembly and paid for out of the funds allocated for its operations.
+
+## PART VI TRAVEL AND LIVING ALLOWANCE
+
+### Definitions
+
+28 In this Part
+
+(a) "commuting distance" means 60 kilometres or less;
+
+(b) "constituency business" means an activity directly connected with a member’s responsibilities as a member in relation to the ordinary and proper representation of electors and their families and other residents in the constituency, but does not include partisan political activities;
+
+(c) "in session" in relation to the House of Assembly means the period of time between the day prior to the commencement of a sitting of the House of Assembly and the day following an adjournment, where the period of adjournment is greater than 7 days;
+
+(d) "permanent residence" means the place that a member declares in an affidavit to the speaker is
+
+(i) the place where a member in fact resides on a settled basis with his or her family, or
+
+(ii) where there is no single place where the member resides on a settled basis, the place that the member otherwise regards as his or her permanent residence,
+
+and does not include a seasonal or recreational dwelling or cabin;
+
+(e) "private accommodation" means accommodation maintained by a person other than the member or the member's spouse and which may be used by the member when traveling;
+
+(f) "secondary residence" means a residence that is not a permanent residence but is owned or leased by the member and is available for occupancy by the member but does not include a seasonal or recreational dwelling or cabin; and
+
+(g) "temporary accommodation" means short-term, temporary or transient accommodation such as a hotel, motel, bed and breakfast or boarding house.
+
+### Principles
+
+29 (1) A member who travels
+
+(a) to and from the capital region when the House of Assembly is in session;
+
+(b) to and from the capital region for constituency business when the House of Assembly is not in session; or
+
+(c) to and from his or her permanent residence which is not in his or her district to that district
+
+may claim for travel and living allowance only where the member
+
+(d) is engaged in constituency business; and
+
+(e) is outside commuting distance of the member's permanent residence.
+
+(2) Entitlement to claim a particular type of travel and living allowance and the extent of that claim is affected by
+
+(a) whether the member’s permanent residence is located in
+
+(i) the member’s constituency,
+
+(ii) another constituency outside the capital region, or
+
+(iii) the capital region;
+
+(b) whether or not the House of Assembly is in session; and
+
+(c) whether the member maintains a secondary residence.
+
+(3) For the purpose of these rules, a member may operate and maintain only one permanent residence but a member may operate and maintain a secondary residence.
+
+(4) Where a member changes a permanent residence or a secondary residence, the member shall immediately notify the speaker by way of affidavit of that change.
+
+(5) A member shall not claim reimbursement for a travel or a living allowance relating to travel from his or her permanent residence to the Confederation Building complex where his or her permanent residence is located in the capital region.
+
+(5.1) Notwithstanding subsection 29(1), paragraphs 30(a), (b) and (d), 31(1)(a), 32(2)(a), 33(a), subsection 33.1(1), paragraphs 35(a), 36(2)(a) and section 37.2 a member shall not claim reimbursement for travel to and from the capital region within commuting distance of the Confederation Building Complex.
+
+(6) A member shall not claim reimbursement for a travel or a living allowance relating to travel from his or her permanent residence to his or her constituency where the permanent residence is outside the constituency but within commuting distance of the constituency.
+
+(7) On a day when a member may claim a meal allowance while on constituency business, but only a portion of that day is spent on constituency business, his or her daily meal allowance shall be prorated as follows,
+
+(a) breakfast, $10;
+
+(b) lunch, $15; and
+
+(c) dinner, $25.
+
+(8) When traveling, a member may avail of temporary accommodation or may stay in a secondary residence or in private accommodation.
+
+(9) On a day when a member is on constituency business where there is no associated travel expense claimed under these Rules, the member may claim for accommodations and a meal allowance in accordance with these Rules.
+
+### Types of travel and living allowance
+
+30 A member may claim reimbursement for travel and associated accommodation and meal costs related to travel
+
+(a) between his or her constituency or permanent residence and the Confederation Building complex to attend sittings of the House of Assembly and to attend to constituency business and other duties of the member that may require his or her presence in the capital region;
+
+(b) between his or her permanent residence, where that residence is not located in the constituency, and his or her constituency, where that constituency is located outside the capital region;
+
+(c) within his or her constituency to attend to constituency business;
+
+(c.1) between his or her constituency and another constituency to attend to constituency business;
+
+(d) between his or her constituency or the capital region and another constituency outside the capital region in relation to matters affecting his or her constituency;
+
+(e) to attend conferences and training courses relating to his or her member responsibilities;
+
+(f) to and from other parts of Canada where the purpose of the trip is directly related to constituency business;
+
+(f.1) to and from St. Pierre-et-Miquelon where the purpose of the trip is directly related to constituency business; and
+
+(g) for travel, meals and accommodation of his or her constituency assistant where it is necessary to attend to constituency business, at the same rate for expenses that apply to the member.
+
+### Travel and living allowances: residence outside capital
+
+31 (1) A member who travels from his or her permanent residence outside the capital region to temporary accommodation or a secondary residence in the capital region to attend a sitting of the House of Assembly may claim reimbursement for the following costs:
+
+(a) for each week or part of the week that the House of Assembly is in session the actual transportation cost of one return trip;
+
+(b) for each day that the House of Assembly is in session,
+
+(i) with receipts, the actual cost of temporary standard room accommodations for each night the member actually occupies the accommodations, or
+
+(ii) without receipts,
+
+(A) a daily amount, of $53 on the island portion of the province and $71 in Labrador when staying in private accommodations, or
+
+(B) $53 for each night the member actually occupies his or her secondary residence; and
+
+(c) for each day that the House of Assembly is in session, a daily amount of $50, without receipts, as a contribution to the cost of meals.
+
+(2) [Rep. by NLR 11/10 s1]
+
+### Sessional travel and living allowances: residence within capital
+
+32 (1) Where a member travels from his or her permanent residence that is within the capital region to attend a sitting of the House of Assembly that member is not entitled to claim reimbursement for that travel or for accommodation or meals associated with that travel.
+
+(2) A member who maintains a permanent residence within the capital region but represents a constituency outside the capital region may claim reimbursement for the following costs while the House of Assembly is in session:
+
+(a) for each week or part of a week that the House of Assembly is in session, the actual transportation cost of one return trip to his or her constituency to attend to constituency business;
+
+(b) for a maximum of 3 nights during a trip,
+
+(i) with receipts, the actual cost of temporary standard room accommodations for each night the member actually occupies the accommodations, or
+
+(ii) without receipts,
+
+(A) a daily amount, of $53 on the island portion of the province and $71 in Labrador when staying in private accommodations, or
+
+(B) $53 for each night the member actually occupies his or her secondary residence; and
+
+(c) without receipts, a daily amount of $50, as a contribution to the cost of meals.
+
+### Travel and living allowances: residence outside capital and constituency
+
+33 A member who maintains a permanent residence outside the capital region in a location that is not in his or her constituency and the constituency is outside the capital region may, in addition to claiming reimbursement under subsection 31 (1), claim reimbursement for the following additional costs while the House of Assembly is in session:
+
+(a) for each week or part of a week that the House of Assembly is in session, the actual transportation cost of one return trip to his or her constituency from either the capital region or from his or her permanent residence, whichever is the shorter distance, to attend to constituency business;
+
+(b) for a maximum of 3 nights during a trip,
+
+(i) with receipts, the actual cost of temporary standard room accommodations for each night the member actually occupies the accommodations, or
+
+(ii) without receipts,
+
+(A) a daily amount, of $53 on the island portion of the province and $71 in Labrador when staying in private accommodations, or
+
+(B) $53 for each night the member actually occupies his or her secondary residence; and
+
+(c) without receipts, a daily amount of $50, as a contribution to the cost of meals.
+
+### Commuting from outside capital region
+
+33.1 (1) Notwithstanding sections 31 and 33, a member whose permanent residence is outside the capital region at a distance greater than commuting distance may opt to travel between that residence and the capital region each day that the House of Assembly is in session and sitting and may claim the actual transportation cost of each daily return trip.
+
+(2) A member who opts to claim an actual transportation cost for a day under subsection (1) cannot claim for costs described in paragraphs 31(1)(b) and (c) and 33(b) and (c).
+
+(3) This section shall only apply to members who represent the districts of
+
+(a) Carbonear - Trinity - Bay de Verde;
+
+(b) Ferryland (south of Witless Bay Line);
+
+(c) Harbour Grace - Port de Grave;
+
+(d) Harbour Main;
+
+(e) Placentia - St. Mary's; and
+
+(f) Placentia West - Bellevue.
+
+### No banking of weekly travel
+
+34 Where a member does not travel under paragraph 31 (1)(a), 32(2)(a) or 33(a) in respect of a particular week, the entitlement to claim for that week ceases.
+
+### Intersessional travel and living expenses: residence outside capital
+
+35 A member who travels from his or her permanent residence that is outside the capital region to the capital region when the House of Assembly is not in session to attend to constituency business or other duties may claim reimbursement for the following costs:
+
+(a) the actual transportation cost of not more than 20 return trips per year;
+
+(b) for not more than 50 nights
+
+(i) with receipts, the actual cost of temporary standard room accommodations for each night the member actually occupies the accommodations, or
+
+(ii) without receipts,
+
+(A) a daily amount, of $53 on the island portion of the province and $71 in Labrador when staying in private accommodations, or
+
+(B) $53 for each night the member actually occupies his or her secondary residence; and
+
+(c) without receipts, a daily amount of $50 as a contribution to the cost of meals.
+
+### Intersessional travel and living expenses: residence within capital
+
+36 (1) A member who maintains a permanent residence within the capital region is not entitled to claim for accommodation or meals while attending constituency business in the capital region.
+
+(2) A member who maintains a permanent residence within the capital region but represents a constituency outside the capital region may claim reimbursement for the following travel and accommodation costs to and from his or her constituency when the House of Assembly is not in session:
+
+(a) the actual transportation cost of not more than 20 return trips per year;
+
+(b) for not more than 50 nights
+
+(i) with receipts, the actual cost of temporary standard room accommodations for each night the member actually occupies the accommodations, or
+
+(ii) without receipts,
+
+(A) a daily amount, of $53 on the island portion of the province and $71 in Labrador when staying in private accommodations, or
+
+(B) $53 for each night the member actually occupies his or her secondary residence; and
+
+(c) without receipts, a daily amount of $50 as contribution to the cost of meals.
+
+### Intersessional travel and living expenses: residence outside capital and constituency
+
+37 A member who maintains a permanent residence outside the capital region in a location not in the member’s constituency and outside commuting distance of that constituency where that constituency is outside the capital region may, in addition to claiming reimbursement under section 35, claim reimbursement relating to travel and accommodation between his or her permanent residence and constituency for the following additional costs when the House of Assembly is not in session:
+
+(a) the actual transportation cost of up to 20 return trips between his or her permanent residence and his or her constituency, per year;
+
+(b) for not more than 50 nights
+
+(i) with receipts, the actual cost of temporary standard room accommodations for each night the member actually occupies the accommodations, or
+
+(ii) without receipts,
+
+(A) a daily amount, of $53 on the island portion of the province and $71 in Labrador when staying in private accommodations, or
+
+(B) $53 for each night the member actually occupies his or her secondary residence; and
+
+(c) without receipts, a daily amount of $50, as a contribution towards meals.
+
+### Accommodations when traveling long distances
+
+37.1 (1) Notwithstanding anything to the contrary in sections 31 to 37, where a member maintains
+
+(a) a permanent residence in his or her constituency that is outside the capital region;
+
+(b) a permanent residence within the capital region but represents a constituency outside the capital region; or
+
+(c) a permanent residence outside the capital region in a location that is not in his or her constituency and the constituency is outside the capital region,
+
+and his or her permanent residence or constituency is in a district listed in subsection (2), that member may claim reimbursement for the costs associated with travel between his or her constituency or permanent residence and the capital region, as follows:
+
+(d) with receipts, the actual cost of temporary standard room accommodations for one night while in transit; or
+
+(e) without receipts, $53 on the island portion of the province and $71 in Labrador for one night while in transit when staying in private accommodations; and
+
+(f) without receipts, the prorated portion of the $50 daily meal allowance, as contribution to the cost of meals while in transit.
+
+(2) The districts to which subsection (1) applies are
+
+(a) Baie Verte - Green Bay;
+
+(b) Burgeo - La Poile;
+
+(c) Burin - Grand Bank;
+
+(d) Cartwright - L'Anse au Clair;
+
+(e) Corner Brook;
+
+(f) Exploits;
+
+(g) Fogo Island - Cape Freels;
+
+(h) Fortune Bay - Cape La Hune;
+
+(i) Grand Falls-Windsor - Buchans;
+
+(j) Humber - Bay of Islands;
+
+(k) Humber - Gros Morne;
+
+(l) Labrador West;
+
+(m) Lake Melville;
+
+(n) Lewisporte - Twillingate;
+
+(o) St. Barbe - L'Anse aux Meadows;
+
+(p) St. George's - Humber;
+
+(q) Stephenville - Port au Port; and
+
+(r) Torngat Mountains.
+
+(3) Where a claim is made under subsection (1), the night for which an amount was claimed shall not be included in the number of nights of allowable accommodation permitted under this Part.
+
+### Midweek sessional travel for constituency business
+
+37.2 (1) Where, while the House of Assembly is in session, a member travels between the capital region and his or her constituency or permanent residence in order to attend to constituency business, that member may claim the costs associated with that travel.
+
+(2) For the purpose of subsection (1), travel costs may be claimed as if the claim were for one of the 20 return trips permitted under section 35, 36 or 37.
+
+### Business requested by House
+
+37.3 (1) Where, at the request of the clerk, while the House of Assembly is not in session, a member travels between the capital region and his or her constituency or permanent residence in order to participate in orientation, training or other services provided by the House of Assembly, that member may claim the costs associated with that travel.
+
+(2) For the purposes of subsection (1), travel costs are not included in the 20 return trips permitted under section 35, 36 or 37 but shall be claimed in the same amounts permitted under those sections.
+
+(3) The number of nights and daily amounts that may be claimed under this section are as established by the clerk at the time of the request.
+
+### Vacating office
+
+37.4 (1) Where a member retires, is not elected or otherwise vacates his or her office, that member shall vacate his or her office within one day and may be reimbursed for travel costs for that day, the day before and the day after that day.
+
+(2) For the purposes of subsection (1), travel costs are not included in the 20 return trips permitted under section 35, 36 or 37 but shall be claimed in the same amounts permitted under those sections.
+
+### Intra-constituency travel allowance
+
+38 (1) A member may be reimbursed in accordance with this section for reasonable travel, accommodation and meal expenses incurred while acting on constituency business within his or her constituency.
+
+(2) The allowance provided for in this section may include
+
+(a) the cost of transportation by motor vehicle, all-terrain vehicle, boat, snowmobile, fixed wing aircraft or helicopter;
+
+(b) within his or her constituency
+
+(i) with receipts, the actual cost of temporary standard room accommodations for each night the member actually occupies the accommodations, or
+
+(ii) without receipts,
+
+(A) a daily amount, of $53 on the island portion of the province and $71 in Labrador when staying in private accommodations, or
+
+(B) $53 for each night the member actually occupies his or her secondary residence; and
+
+(c) a daily amount of $50, without receipts, as a contribution to the cost of meals.
+
+(2.1) Notwithstanding paragraph (2)(a), a member who represents the district of Corner Brook or a district in the capital region may elect to receive the sum of $200 per month for an entire fiscal year in lieu of receiving the cost of transportation referred to in that paragraph provided that
+
+(a) the election is made before April 1 of the fiscal year to which the election applies; and
+
+(b) the $200 per month shall be a taxable benefit to the member.
+
+(3) The maximum amount in respect of an electoral district for which a member who represents that district may claim in a fiscal year for intra-constituency travel is the amount set out in Schedule A.
+
+### Helicopter travel
+
+38.1 (1) Where less expensive travel is not available, a member from a district listed in Schedule B may, with the prior approval of the Speaker, be reimbursed for the cost of helicopter travel while acting on constituency business within his or her constituency.
+
+(2) The maximum amount which a member may claim in a fiscal year for intra-constituency travel under this section is the amount set out in Schedule B.
+
+### Extra constituency travel allowance
+
+39 (1) A member may be reimbursed in accordance with this section for reasonable travel, accommodation and meal expenses incurred with respect to circumstances referred to in paragraphs 30(c.1), (d), (e) (f) and (g).
+
+(2) The maximum amount that a member may claim in a fiscal year for extra-constituency travel is the amount unexpended on intraconstituency travel under section 38.
+
+### Modes of travel
+
+40 (1) A member may travel by means of
+
+(a) his or her own motor vehicle;
+
+(b) a rental vehicle;
+
+(c) commercial scheduled fixed wing aircraft;
+
+(d) bus transportation;
+
+(e) ferry transportation; and
+
+(f) taxis.
+
+(2) Where a member proposes to travel by means other than the means mentioned in subsection (1), the member shall first make a proposal in writing to the speaker outlining the nature of the travel, the reasons for that travel, the details of the proposed engagement of the mode of travel and its estimated costs, and if the speaker is of the opinion that it is a reasonable expenditure to enable the member to fulfill his or her duties to constituents and there is sufficient money available within the existing travel budget of the House of Assembly, the speaker may approve the proposal subject to conditions that he or she considers reasonable in the circumstances.
+
+(3) A decision of the speaker under subsection (2) shall be reported at the next meeting of the commission and recorded in the minutes of the commission.
+
+(3.1) Notwithstanding subsection (2), where, on a regular basis, a member proposes to travel by means other than the means mentioned in subsection (1), the member may make a proposal to the commission respecting that travel and the commission may, by directive approve that travel upon those terms and conditions that the commission considers to be appropriate without further need for the member to make an application under subsection (2).
+
+(4) Subject to subsection 29 (5), where a member whose constituency is in the capital region travels by his or her own vehicle, he or she may claim reimbursement for the number of kilometres reasonably necessary to accomplish the travel objectives multiplied by the rate per kilometre payable to government employees.
+
+(5) Subject to subsection 29 (6), where a member whose constituency is outside the capital region travels by his or her own vehicle, he or she may claim reimbursement for the number of kilometres reasonably necessary to accomplish the travel objectives multiplied by the rates per kilometre payable to government employees who are required to use private vehicles as a condition of employment rate.
+
+(6) The member for the electoral district of Cartwright-L’Anse au Clair and the members of those other electoral districts as may be designated by directive of the commission are entitled, on filing an affidavit with the speaker verifying that the member has travelled in her or his private vehicle in excess of 5,000 kilometres on unpaved roads on constituency business, to payment of a sum of $1,000 annually to be paid toward deterioration of the vehicle.
+
+(7) Where a member travels by his or her own vehicle, he or she shall at all times maintain a vehicle travel log in which he or she shall record the dates and destinations of a trip, the number of kilometers actually and reasonably traveled in connection with the trip, and in the case of members referred to in subsection (6) the number of kilometers traveled on unpaved roads.
+
+(8) A member shall make his or her vehicle travel log available for inspection by the clerk, the speaker, the commission and an auditor appointed by the commission within the 3 year period following the date when a particular trip was undertaken.
+
+(9) Where a member travels by rental vehicle or commercial scheduled fixed wing aircraft, the member may claim reimbursement for the actual cost provided it does not exceed the actual cost of a full fare economy ticket.
+
+(10) Where a member travels by rental vehicle for more than 15 consecutive days, the member shall first obtain the approval of the clerk who shall report his or her approval at the next meeting of the commission and a notation of that approval shall be recorded in the minutes of the commission.
+
+(11) Where a member travels by bus, he or she may claim reimbursement for the actual cost of the trip provided that it does not exceed the cost of a full fare economy air fare.
+
+### Taxable accommodation allowance: capital region
+
+40.1 (1) Notwithstanding paragraphs 31(1)(b), 32(2)(b), 33(b), 35(b), 36(2)(b) and 37(b), not fewer than 30 days before the commencement of a fiscal year, a member entitled to accommodation costs in the capital region may elect to receive a lump sum amount for temporary or private accommodation in the capital region in lieu of receiving the accommodation costs referred to in those paragraphs.
+
+(2) An election made by a member under subsection (1) is
+
+(a) for the fiscal year immediately following that election; and
+
+(b) a taxable benefit of that member.
+
+(3) A lump sum received under this section shall be an amount that is calculated by multiplying the number of sitting days for the fiscal year as stated in the parliamentary calendar by the average daily cost of all member accommodation under the paragraphs referred to in subsection (1) for the previous calendar year.
+
+(4) If a member who has elected to receive a lump sum amount under this section leaves office before the end of the fiscal year to which the lump sum applies, the balance of the amount of that sum shall be repaid to the House of Assembly on a pro rata basis.
+
+### Accommodation expenses
+
+41 (1) Where a member claims expenses related to temporary standard room accommodations, those expenses may include
+
+(a) room charges;
+
+(b) long distance telephone and internet charges related to constituency business;
+
+(c) overnight parking fees;
+
+(d) incidental hotel, motel, bed and breakfast or boarding house charges; and
+
+(e) those other items that may be specified by a directive of the commission.
+
+(2) [Rep. by NLR 11/10 s10]
+
+(3) [Rep. by NLR 11/10 s10]
+
+(4) [Rep. by NLR 11/10 s10]
+
+### Restriction on meal allowance
+
+42 Where a member makes a claim under subsection 46(3) relating to a meal expense, the member shall not claim a meal allowance under this Part for that meal expense.
+
+### Special circumstances
+
+43 (1) Where it is unsafe or otherwise impractical for a member who is traveling to return to his or her permanent residence when scheduled to do so and when he or she would not otherwise be entitled to claim reimbursement for accommodations and meals under this Part, the member is entitled to claim for additional expenses at the same rates and under the same circumstances that relate to the original travel.
+
+(2) A member shall contact the clerk or the speaker before incurring the additional expenses contemplated by this section, explain the reason for and estimated amount of the additional expenses and obtain the approval of the speaker for that expenditure and that approval shall not be unreasonably withheld.
+
+(3) Notwithstanding subsection (2), where a member has been unable to contact the clerk or the speaker before incurring an expense, the member shall at the earliest reasonable opportunity notify the speaker of the incurring of the expense.
+
+(4) The speaker shall, in writing, report the nature and amount of additional expenditures incurred under this section, together with the reasons for those expenditures to the next meeting of the commission and that information shall be recorded in the minutes of the meeting.
+
+### Budgetary requests
+
+44 (1) A member shall, on or before a date in each year prescribed by the speaker submit an estimate of the amount of money that the member reasonably estimates will be required by him or her for travel in the following fiscal year.
+
+(2) An estimate submitted under subsection (1) shall be provided to the clerk in the form that he or she may require.
+
+(3) In preparing the estimates of the House of Assembly under section 26 of the Act the speaker shall take account of the estimates submitted by the member under subsection (1) but the commission may vary those estimates if in its opinion the amount is not appropriate.
+
+(4) The clerk may issue guidelines for members with respect to the matters to be dealt with, and the manner of presentation of those matters, in the preparation of the estimates under subsection (1).
+
+## PART VII COMMITTEE ALLOWANCE
+
+### Committee expenses
+
+45 (1) A member who is a member of a standing or select committee of the House of Assembly, the commission or a committee of the commission may claim for reasonable expenses related to attendance at a committee or commission meeting when the House is not in session.
+
+(2) Reasonable expenses claimed under subsection (1) shall be
+
+(a) in accordance with the travel and allowance rates permitted under these rules; and
+
+(b) approved by the speaker before being reimbursed to the member.
+
+## PART VIII CONSTITUENCY ALLOWANCE
+
+### Expenses related to constituency work
+
+46 (1) A member is entitled to be reimbursed for his or her constituency expenses necessarily incurred by that member to carry out his or her constituency business.
+
+(2) The maximum amount in respect of each electoral district for which the member from that electoral district may be reimbursed from the constituency allowance in each fiscal year shall not exceed $3,000.
+
+(3) The following expenses necessarily incurred by a member to carry out his or her constituency business may be reimbursed:
+
+(a) the purchase of food, non-alcoholic beverages and other supplies for meetings with constituents or other members of the public in relation to constituency business and food and non-alcoholic beverages for other constituency related events provided that the member or his or her constituency assistant is in attendance at those events;
+
+(b) memberships in community or other organizations;
+
+(c) equipment not provided by the House;
+
+(d) magazine, newspaper and journal subscriptions;
+
+(e) travel, accommodations, meals and registration fees for conferences and training courses for the member or constituency assistant if approved by the speaker;
+
+(e.1) memorial wreaths used to commemorate veterans and others who served in the armed forces, peace officers, workers killed on the job or who died as a result of work-related illness, and similar memorial commemorations of a public nature;
+
+(e.2) the expenses of renting short term accommodation in one or more locations in the member's constituency to facilitate travel of the member throughout the district to meet with residents on constituency issues;
+
+(f) expenses associated with attending at meetings and hearings involving advocacy on behalf of a constituent; and
+
+(g) other categories of items as directed by the commission.
+
+(4) The following types of expenses shall not be reimbursed:
+
+(a) the acquisition, creation or distribution of anything that uses or includes a word, initial, or device that identifies a political party;
+
+(b) artwork including paintings, prints, sculptures, carvings and crafts;
+
+(c) alcoholic beverages, either individually or in bulk;
+
+(c.1) cannabis in any form;
+
+(d) sponsorship of individuals or groups;
+
+(e) donations;
+
+(f) raffle tickets;
+
+(g) meal expenses in restaurants, pubs, delicatessens and similar establishments for meetings with constituents, their family members and other guests and hospitality food and beverages except as provided for in paragraph (3)(a);
+
+(h) gifts;
+
+(i) items, services or activities of a personal nature, including clothing and laundry expenses;
+
+(j) travel costs for constituents;
+
+(k) travel costs for spouses or dependants;
+
+(l) financial assistance for constituents; and
+
+(m) those other items directed by the commission.
+
+(5) A member, in his or her capacity as a member, shall not make a donation or gift, whether of a charitable nature or not, to any person, group or community except as may be contemplated by subsection (3) and section 27.
+
+(6) Where a member makes a donation or gift, whether of a charitable nature or not, in a personal capacity, the member shall, in making the donation or gift, stipulate that any acknowledgment of the donation or gift shall not identify him or her as a member.
+
+### Prohibition
+
+47 (1) An expense of a type listed in subsection 46 (3) may not be
+
+reimbursed if
+
+(a) it is not directly connected with the member’s responsibilities as a member in relation to the ordinary and proper representation of constituents and the public;
+
+(b) it is incurred in relation to partisan political activities or promotion; or
+
+(c) one or more of the following persons has a financial interest in the contract or other arrangement under which the expense is incurred or in a corporation that has a financial interest in the contract or other arrangement under which the expense is incurred:
+
+(i) the member,
+
+(ii) an associated person in relation to the member,
+
+(iii) another member, and
+
+(iv) the spouse or child of another member.
+
+(2) Notwithstanding subsection (1), an expense of a type listed in subsection 46 (3) may be reimbursed in the circumstances described in subsection (1) where the reimbursement is specifically approved and directed by the commission.
+
+## Schedule A
+
+### House Operations Estimates of Intra-constituency Costs
+
+| District No. | Electoral District | Total |
+| --- | --- | --- |
+| 1 | Baie Verte - Green Bay | $14,100 |
+| 2 | Bonavista | $12,200 |
+| 3 | Burgeo - La Poile | $14,100 |
+| 4 | Burin - Grand Bank | $12,200 |
+| 5 | Cape St. Francis | $5,600 |
+| 6 | Carbonear - Trinity - Bay de Verde | $8,200 |
+| 7 | Cartwright - L'Anse au Clair | $26,800 |
+| 8 | Conception Bay East - Bell Island | $8,400 |
+| 9 | Conception Bay South | $5,600 |
+| 10 | Corner Brook | $5,600 |
+| 11 | Exploits | $8,200 |
+| 12 | Ferryland | $12,200 |
+| 13 | Fogo Island - Cape Freels | $14,100 |
+| 14 | Fortune Bay - Cape La Hune | $12,200 |
+| 15 | Gander | $8,200 |
+| 16 | Grand Falls - Windsor - Buchans | $8,200 |
+| 17 | Harbour Grace - Port de Grave | $5,600 |
+| 18 | Harbour Main | $8,200 |
+| 19 | Humber - Bay of Islands | $8,200 |
+| 20 | Humber - Gros Morne | $12,200 |
+| 21 | Labrador West | $5,600 |
+| 22 | Lake Melville | $12,200 |
+| 23 | Lewisporte - Twillingate | $12,200 |
+| 24 | Mount Pearl - Southlands | $5,600 |
+| 25 | Mount Pearl North | $5,600 |
+| 26 | Mount Scio | $5,600 |
+| 27 | Placentia - St. Mary's | $12,200 |
+| 28 | Placentia West - Bellevue | $14,100 |
+| 29 | St. Barbe - L'Anse aux Meadows | $14,100 |
+| 30 | St. George's - Humber | $14,100 |
+| 31 | St. John's Centre | $5,600 |
+| 32 | St. John's East - Quidi Vidi | $5,600 |
+| 33 | St. John's West | $5,600 |
+| 34 | Stephenville - Port au Port | $8,200 |
+| 35 | Terra Nova | $12,200 |
+| 36 | Topsail - Paradise | $5,600 |
+| 37 | Torngat Mountains | $20,700 |
+| 38 | Virginia Waters - Pleasantville | $5,600 |
+| 39 | Waterford Valley | $5,600 |
+| 40 | Windsor Lake | $5,600 |
+|  | Total | $391,700 |
+
+## Schedule B
+
+### Helicopter Allocation
+
+| Electoral District | Total |
+| --- | --- |
+| Burgeo - LaPoile | $21,000 |
+| Cartwright - L'Anse au Clair | 21,000 |
+| Fortune Bay - Cape La Hune | 24,600 |
+| Torngat Mountains | 10,500 |

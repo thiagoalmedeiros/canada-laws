@@ -8,4 +8,5 @@ Unofficial Markdown copies, **for personal and non-commercial use only**, from t
 | [British Columbia](bc/) | 573 | 1474 |
 | [Manitoba](mb/) | 516 | 1091 |
 | [New Brunswick](nb/) | 422 | 676 |
+| [Newfoundland and Labrador](nl/) | 403 | 1665 |
 | [Ontario](on/) | 856 | 2217 |
