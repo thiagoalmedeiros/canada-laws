@@ -1,0 +1,102 @@
+---
+title: "Regional District Special Voting Regulation"
+citation: "BC Reg 41/91"
+jurisdiction: "British Columbia"
+language: en
+type: regulation
+document_date: "1991-02-06"
+retrieved: "2026-10-17"
+source: ""
+upstream_license: ""
+---
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
+
+# Regional District Special Voting Regulation
+
+BC Reg 41/91
+
+# Regional District
+Special Voting Regulation
+
+### Interpretation
+
+1 In this regulation *urgent* means requiring immediate action as a result of unforeseen circumstances.
+
+### Special vote may be taken on urgent matters
+
+2 (1) Subject to subsection (2), the voting by the directors of a regional district board, including voting on passing a resolution or on reading or adopting a bylaw, may be conducted in accordance with section 3 where the chairperson and one other director consider
+
+(a) that the issue to be voted on is urgent, and
+
+(b) that calling a regular or special meeting to conduct the voting is impractical.
+
+(2) Voting on the second or third reading of the following bylaws may not be conducted in accordance with section 3:
+
+(a) annual budget bylaws;
+
+(b) zoning bylaws;
+
+(c) bylaws adopting official community plans;
+
+(d) rural land use bylaws.
+
+### How special voting is to be conducted
+
+3 (1) The secretary shall make all reasonable attempts in the circumstances to ensure that each director entitled to vote has the opportunity to do so.
+
+(2) Before a director votes, the secretary shall ensure that the resolution or bylaw to be voted on is communicated to the director either
+
+(a) orally, including by telephone or other means of telecommunication, or
+
+(b) by delivery, including by delivery in writing, by facsimile transmission or other means of electronic transmission or by delivery in electronic form.
+
+(3) A director shall vote by informing the secretary, in any manner referred to in subsection (2), of the director's approval or disapproval of the resolution or bylaw and the secretary shall at that time record the director's vote.
+
+(4) Each director who votes shall have the number of votes that the director would have had in voting on the matter at a regular meeting of the board.
+
+(5) The rules under sections 206 to 214 of the Act regarding the counting of votes at meetings of the board, except section 207 (3), apply to the counting of votes taken in accordance with this section.
+
+(6) After ensuring that each director has an opportunity to vote as required by subsection (1), the secretary shall inform the chairperson of the results of the voting and the chairperson shall declare the vote to have passed or failed in accordance with those results.
+
+(7) At the time of the chairperson's declaration under subsection (6), the results of the voting shall have the same effect as if the voting had been conducted at a regular meeting of the board and shall then be recorded by the secretary as a minute of the board.
+
+(8) If the secretary is absent, ill or otherwise disabled, the chairperson may appoint another director to conduct voting under this section in the place of the secretary.
+
+### Special vote must be reported at next regular meeting
+
+4 At the next regular meeting of the board following a vote under section 3, the chairperson shall report the results of the vote.
+
+### Application of regulation
+
+5 This regulation applies only to the districts listed in the Schedule.
+
+## Schedule
+
+the Cariboo Regional District
+
+the Central Coast Regional District
+
+the Regional District of Central Kootenay
+
+the Columbia-Shuswap Regional District
+
+the Regional District of East Kootenay
+
+the Regional District of Fraser-Fort George
+
+the Fraser Valley Regional District
+
+the Regional District of Kitimat-Stikine
+
+the Regional District of Kootenay Boundary
+
+the Regional District of Mount Waddington
+
+the North Coast Regional District
+
+the Squamish-Lillooet Regional District
+
+the Thompson-Nicola Regional District
+
+[Provisions of the Local Government Act, R.S.B.C. 2015, c. 1, s. 222.]

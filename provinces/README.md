@@ -5,3 +5,4 @@ Unofficial Markdown copies from the [A2AJ Canadian Laws dataset](https://hugging
 | Jurisdiction | Acts | Regulations |
 |---|---|---|
 | [Alberta](ab/) | 442 | 925 |
+| [British Columbia](bc/) | 573 | 1474 |

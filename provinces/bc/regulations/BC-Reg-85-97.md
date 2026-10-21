@@ -1,0 +1,117 @@
+---
+title: "Forms Regulation"
+citation: "BC Reg 85/97"
+jurisdiction: "British Columbia"
+language: en
+type: regulation
+document_date: "1997-03-13"
+retrieved: "2026-10-17"
+source: ""
+upstream_license: ""
+---
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
+
+# Forms Regulation
+
+BC Reg 85/97
+
+### Forms prescribed
+
+1 The forms in the attached Schedule are prescribed for the purposes of section 15 of the Land (Spouse Protection) Act.
+
+## Schedule
+
+**Form A**
+
+I, ........................................................, of ................................................., in the Province of ...................................., make oath and say:
+
+(1) That my spouse, ............................................, of ................................................, is the registered owner of all and singular [here give complete legal description].
+
+Or
+
+(1) That I, ........................................................., of .............................................................., am the registered owner of all and singular [here give complete legal description].
+
+(2) That I am the lawful spouse of .............................., of ..................................
+
+(3) That on the land there is a dwelling occupied by ....................................... and myself as our residence.
+
+Or
+
+(3) That on the land there is a dwelling that was last occupied by ................................. and myself as our residence on ......................... [month, day, year].
+
+SWORN before me at .............................., in
+
+the Province of ....................................,
+
+........................................[month, day, year].
+
+............................................................ ............................................................................
+
+A Commissioner, etc. [or as the case may be].
+
+**Form B**
+
+Application for Entry
+
+Date ..........................[month, day, year].
+
+I, ..................................., solemnly declare that I am [in case of solicitor (solicitor for .........................................., and that)] [in case of agent (of the full age of 19 years, that I reside in the Province of British Columbia, and that I am the authorized agent of ..................................., and that)] [in case the spouse in whose name the homestead is registered makes the entry on the other spouse's behalf (the spouse of ..................................................., and that)] .......................................entitled to an entry on the title to the land hereunder described, and make application under the Land (Spouse Protection) Act for entry.
+
+The full name, address and occupation of the person entitled is ...........................................
+
+[Description of homestead]
+
+[Documents in support]
+
+And I make this solemn declaration conscientiously believing it to be true, and knowing that it is of the same force and effect as if made under oath and the Canada Evidence Act.
+
+Declared before me ............................
+
+................................ [month, day, year]
+
+at .........................................,
+
+..................................... British Columbia.
+
+(Signature) ............................................................
+
+(Full post office address).......................................
+
+**Form C**
+
+I, ........................., of ................................., in the Province of ............................., abandon all homestead rights in the land described as [here describe the property].
+
+Dated this .......................[month, day, year].
+
+(Signed) ...................................................
+
+Witness: ....................................................
+
+**Form D**
+
+Application for Cancellation of an Entry
+
+Dated this .......................[month, day, year].
+
+I,......................................., solemnly declare that I am [in case of solicitor (solicitor for .................................., and that)] [in case of agent (of the full age of 19 years, that I reside in the Province of British Columbia, and that I am the authorized agent of ...................................., and that)] this person is entitled to the *............................... cancellation of the entry under the Land (Spouse Protection) Act and I apply for cancellation accordingly.
+
+[Description of (part of) homestead]
+
+[Documents in support]
+
+And I make this solemn declaration conscientiously believing it to be true, and knowing that it is of the same force and effect as if made under oath and the Canada Evidence Act.
+
+Declared before me ...........................
+
+..................[month, day, year]
+
+at ....................................................., British Columbia.
+
+(Signature) ............................................................
+
+(Full post office address).......................................
+
+* If "partial", so state here.
+
+[Provisions relevant to the enactment of this regulation: Land (Spouse Protection) Act, R.S.B.C. 1996, c. 246, s. 15.]

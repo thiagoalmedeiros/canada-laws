@@ -1,0 +1,52 @@
+---
+title: "Regional District of Bulkley-Nechako Regulation"
+citation: "BC Reg 44/91"
+jurisdiction: "British Columbia"
+language: en
+type: regulation
+document_date: "1991-02-15"
+retrieved: "2026-10-17"
+source: ""
+upstream_license: ""
+---
+
+> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
+
+# Regional District of Bulkley-Nechako Regulation
+
+BC Reg 44/91
+
+# Regional District of
+Bulkley-Nechako Regulation
+
+### Economic Development
+
+1 The Regional District of Bulkley-Nechako is granted the additional power to provide Economic Development as an extended service.
+
+### Para-Transit
+
+2 The Regional District of Bulkley-Nechako is granted the additional power to provide Para-Transit as a local service.
+
+### Cemetery Grant-in-Aid
+
+3 The Regional District of Bulkley-Nechako is granted the additional power to provide Cemetery Grant-in-Aid as a local service.
+
+### Electric Power Distribution
+
+4 The Regional District of Bulkley-Nechako is granted the additional power to provide, as a local service, Electric Power Distribution to Birch Bay on Francois Lake.
+
+### Telephone Capital Financing
+
+5 The Regional District of Bulkley-Nechako is granted the additional power to authorize the acquisition of Telephone Capital Financing as a local service.
+
+### Water diversion works and maintenance
+
+6 The Regional District of Bulkley-Nechako is granted the additional power to establish a water diversion works and maintenance service specifically for the Glacier Gulch project, including the powers of a municipality under sections 551 and 552 of the Municipal Act, as a local service.
+
+### Emergency Program Act
+
+7 The Regional District of Bulkley-Nechako is granted the same power that a municipality has as a local authority under the Emergency Program Act.
+
+1 R.S.B.C 1996-323-551 and 552, repealed by 1999-37-121
+
+[Provisions of the Local Government Act, R.S.B.C. 1996, c. 323, relevant to the enactment of this regulation: section 799]
