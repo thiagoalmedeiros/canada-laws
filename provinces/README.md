@@ -6,3 +6,4 @@ Unofficial Markdown copies from the [A2AJ Canadian Laws dataset](https://hugging
 |---|---|---|
 | [Alberta](ab/) | 442 | 925 |
 | [British Columbia](bc/) | 573 | 1474 |
+| [Ontario](on/) | 856 | 2217 |

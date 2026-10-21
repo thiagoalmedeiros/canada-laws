@@ -1,0 +1,148 @@
+---
+title: "Queen's Park Restoration Secretariat Act, 2023"
+citation: "SO 2023, c 7, Sched 1"
+jurisdiction: "Ontario"
+language: en
+type: act
+document_date: "2023-07-31"
+retrieved: "2026-10-17"
+source: ""
+upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
+---
+
+> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
+
+# Queen's Park Restoration Secretariat Act, 2023
+
+S.O. 2023, c. 7, Sched. 1
+
+### Definitions
+
+1 In this Act,
+“Board of Internal Economy” means the Board of Internal Economy continued under section 87 of the Legislative Assembly Act; (“Commission de régie interne”)
+“Deputy Minister” means the Deputy Minister appointed under subsection 2 (4); (“sous-ministre”)
+“Minister” means the Minister responsible for the Queen’s Park Restoration Secretariat; (“ministre”)
+“Queen’s Park Restoration Project” means the project to restore, refurbish, rehabilitate and preserve the Legislative Building including the associated systems and infrastructure, the building grounds and Lieutenant Governor’s office, as well as everything required for the temporary relocation and continuous functioning of the Legislative Assembly; (“Projet de restauration de Queen’s Park”)
+“Secretariat” means the ministry known as the Queen's Park Restoration Secretariat established under subsection 2 (1); (“Secrétariat”)
+
+### Secretariat
+
+2 (1) A ministry, to be known as the Queen's Park Restoration Secretariat in English and Secrétariat de la restauration de Queen’s Park in French, is established.
+
+### Minister to have charge
+
+(2) The Minister shall preside over and have charge of the Secretariat.
+
+### Responsibilities of Minister
+
+(3) It is the responsibility of the Minister to,
+(a) have charge of the Queen’s Park Restoration Project;
+(b) identify, secure and prepare a location suitable for the continued functionality of the Legislative Assembly of Ontario for the duration of the Queen’s Park Restoration Project;
+(c) seek stable and secure funding for the Queen’s Park Restoration Project; and
+(d) carry out any other functions assigned by the Lieutenant Governor in Council.
+
+### Deputy Minister
+
+(4) The Lieutenant Governor in Council shall appoint a Deputy Minister of the Queen’s Park Restoration Secretariat who shall be the deputy head of the Secretariat.
+
+### Employees
+
+3 Such employees as are required from time to time for the proper conduct of the business of the Secretariat may be appointed under Part III of the Public Service of Ontario Act, 2006.
+
+### Contracts
+
+4 (1) The Minister, for and in the name of the Crown, may enter into any contract or agreement that the Minister considers advisable for the purpose of carrying out any responsibility of the Minister under this Act.
+
+### Same
+
+(2) Public servants, under the direction of the Minister and the Deputy Minister, may enter into contracts or agreements for and in the name of the Crown to carry out the responsibilities of the Minister under this Act.
+
+### Executive project working group
+
+5 The Minister shall establish an executive project working group to advise the Minister on the Queen’s Park Restoration Project that shall include, at minimum, representatives chosen by each of,
+(a) the Minister;
+(b) the Deputy Minister; and
+(c) the Board of Internal Economy.
+
+### Advisory committees
+
+6 (1) The Lieutenant Governor in Council or the Minister may,
+(a) establish advisory committees to advise the Minister on the Queen’s Park Restoration Project;
+(b) appoint the members of the committees, and designate one member as chair and one or more members as vice-chair; and
+(c) determine the terms of reference of the committees.
+
+### Remuneration and expenses
+
+(2) The Lieutenant Governor in Council may determine the remuneration and expenses of persons appointed under clause (1) (b).
+
+### Consultation and reports
+
+7 (1) The Minister shall consult with, and provide reports to, a Standing Committee of the Legislative Assembly on the general plans for the Queen’s Park Restoration Project and seek input on matters that, in the Minister’s opinion, constitute substantive decisions affecting the Queen’s Park Restoration Project.
+
+### Advice of Board
+
+(2) The Minister shall seek the advice of the Board of Internal Economy on the Queen’s Park Restoration Project.
+
+### Minister to consider all advice
+
+(3) The Minister shall take into consideration all advice of the Board of Internal Economy with respect to the Queen’s Park Restoration Project and, subject to subsection (4), shall take reasonable steps to implement requests of the Board.
+
+### Where advice is not taken
+
+(4) If a request mentioned in subsection (3), should not, in the opinion of the Minister, be implemented, the Minister shall provide a report to the Board of Internal Economy with a detailed explanation of the factors preventing implementation.
+
+### Progress reports
+
+(5) The Minister shall provide the Board of Internal Economy with periodic progress reports on the Queen’s Park Restoration Project at least every three months, and at any other times requested by the Board.
+
+### Deputy Minister
+
+(6) The Deputy Minister, or their representative, shall routinely consult with the Clerk of the Assembly or their representative. in respect of the Office of the Assembly and Board of Internal Economy’s needs and interests in the Queen’s Park Restoration Project.
+
+### Additional reporting
+
+8 The Minister and Deputy Minister shall comply with such additional reporting or consultation requirements as may be prescribed in the regulations made under this Act.
+
+### Crown liability
+
+### No personal liability
+
+9 (1) No cause of action arises against any current or former member of the Executive Council, current or former Deputy Minister, current or former employee or agent of the Secretariat or any current or former employee of the Office of the Assembly for any act done in good faith in the exercise or performance, or intended exercise or performance, of the person’s powers, duties or functions under this Act or for any alleged neglect, default or other omission in the exercise or performance in good faith of those powers, duties or functions.
+
+### Crown remains vicariously liable
+
+(2) Despite subsection 8 (3) of the Crown Liability and Proceedings Act, 2019, subsection (1) does not relieve the Crown of liability to which it would otherwise be subject as a result of the acts or omissions of any current or former member of the executive Council, current or former Deputy Minister or current or former employee or agent of the Secretariat.
+
+### Speaker remains vicariously liable
+
+(3) Subsection (1) does not relieve the Speaker of liability to which the Speaker would otherwise be subject as a result of the acts or omissions of any current or former employee of the Office of the Assembly.
+
+### Proceedings barred
+
+(4) No proceeding shall be commenced against any person specified in subsection (1) in respect of a matter referred to in that subsection.
+
+### Same
+
+(5) Subsection (4) does not apply with respect to an application for judicial review, but does apply with respect to any other court, administrative or arbitral proceeding claiming any remedy or relief, including specific performance, an injunction, declaratory relief, a remedy in contract, restitution, unjust enrichment or tort, a remedy for breach of trust or fiduciary obligation or any equitable remedy, enforcement of a judgment, order or award made outside Ontario or any form of compensation or damages including loss of revenue or profit.
+
+### Proceedings by Crown, Speaker not prevented
+
+(6) This section does not apply with respect to proceedings brought by the Crown or the Speaker.
+
+### Rights and privileges preserved
+
+10 Nothing in this Act shall be construed to deprive the Legislative Assembly, a committee of the Legislative Assembly or a member of the Legislative Assembly of any right, immunity, privilege or power that the Assembly, committee or member might otherwise have been entitled to exercise or enjoy.
+
+### Delegation of authority
+
+11 Where, under this or any other Act, power or authority is granted to or vested in the Minister, the Minister may in writing delegate that power or authority to the Deputy Minister, to a public servant or to a Crown agent, subject to such limitations, restrictions, conditions and requirements as the Minister may set out in the delegation.
+
+### Conclusion of Restoration Project
+
+12 When, in the opinion of the Minister, the Queen’s Park Restoration Project is completed the Minister shall report this determination to the Standing Committee of the Legislative Assembly responsible for consultation with the Minister pursuant to section 108.3 of the Legislative Assembly Act.
+
+### Regulations
+
+13 The Lieutenant Governor in Council may make regulations prescribing additional reporting and consultation requirements for the purposes of section 8.
+14 Omitted (provides for coming into force of provisions of this Act).
+15 Omitted (enacts short title of this Act).
