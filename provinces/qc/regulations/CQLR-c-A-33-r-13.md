@@ -1,0 +1,105 @@
+---
+title: "Regulation respecting refresher training periods for hearing-aid acousticians"
+citation: "CQLR c A-33, r 13"
+jurisdiction: "Quebec"
+language: en
+type: regulation
+document_date: "2016-01-01"
+retrieved: "2026-10-09"
+source: "https://www.legisquebec.gouv.qc.ca/en/document/cr/A-33,%20r.%2013"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+---
+
+# Regulation respecting refresher training periods for hearing-aid acousticians
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/A-33,%20r.%2013) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c A-33, r 13*
+
+*Enabling statute: Hearing-aid Acousticians Act (chapter A-33, s. 3)*
+
+*Updated to 2016-01-01*
+
+## I — GENERAL PROVISIONS
+
+**1.01** In this Regulation, unless the context indicates otherwise
+
+(a) “Order” means the Ordre des audioprothésistes du Québec;
+
+(b) “hearing-aid acoustician” means a person entered on the roll of the Order;
+
+(c) “training period” means a period of refresher training contemplated by this Regulation;
+
+(d) “trainee hearing-aid acoustician” means a hearing-aid acoustician who is required to serve a training period; and
+
+(e) “tutor” means a hearing-aid acoustician responsible for verifying whether a training period or part of a training period is in conformity with the objectives and terms and conditions determined by the board of directors and who has been entered on the roll of the Order for at least 2 years.
+
+**1.02** The Interpretation Act (chapter I-16) applies to this Regulation.
+
+**1.03** The sending of reports, notices or documents, as provided for in sections 2.07, 2.08, 2.09, 2.10, 3.02, 4.01 and 4.02, shall be by registered mail, by personal delivery to the addressee, or by bailiff in accordance with the Code of Civil Procedure (chapter C-25.01).
+
+## II — TRAINING PERIOD
+
+**2.01** If the board of directors considers that the level of competence of a hearing-aid acoustician does not meet the standards required for the protection of the public, it may oblige a hearing-aid acoustician to serve a refresher training period where:
+
+(a) his name is entered on the roll more than 5 years since he obtained his permit or more than 3 years from the date on which he was entitled to the issuance of such permit;
+
+(b) his name is re-entered on the roll after failing to have it entered thereon for more than 5 years;
+
+(c) his name is re-entered on the roll after he has been struck off for more than 5 years;
+
+(d) he is the subject of a recommendation to that effect by the professional inspection committee or the disciplinary council pursuant to section 113 or 160 of the Professional Code (chapter C-26);
+
+(e) he has served a training period considered, in virtue of section 2.10, not in conformity with the objectives and the terms and conditions determined by the board of directors.
+
+**2.02** A training period may not be prescribed more than 120 days after the time at which a hearing-aid acoustician is liable to have to serve such training period.
+
+**2.03** A training period may, in particular, consist of one or more of the following activities:
+
+(a) a period of practical training;
+
+(b) studies;
+
+(c) courses;
+
+(d) research work related to the practice of the profession.
+
+**2.04** A training period may not exceed 1 000 hours nor extend over a period of more than 12 consecutive months.
+
+**2.05** The decision of the board of directors to oblige a hearing-aid acoustician to serve a training period must specify the objectives, duration and the terms and conditions of that training period.
+
+**2.06** The board of directors shall determine the place where and time when the training period must be held and, where necessary, shall designate one or more tutors.
+
+**2.07** A tutor must submit a report to the board of directors within 10 days after completion of his mandate, stating, with reasons in support thereof, whether the trainee hearing-aid acoustician acted, while under his supervision, in conformity with the objectives and the terms and conditions determined by the board of directors.
+
+**2.08** The trainee hearing-aid acoustician or his tutor may be required to submit additional reports to the board of directors on the dates determined by the latter.
+
+**2.09** The tutor must also send the trainee hearing-aid acoustician a copy of the report pursuant to section 2.07 or 2.08 at the same time as he sends it to the board of directors.
+
+**2.10** After study of each of the reports required under sections 2.07 and 2.08, the board of directors shall decide, within 60 days after completion of the training period, whether it is in conformity with the determined objectives and terms and conditions.
+
+## III — LIMITATION OF PROFESSIONAL ACTIVITIES
+
+**3.01** The board of directors may, if it so considers necessary for the protection of the public, limit the trainee hearing-aid acoustician’s right to practise during all or part of the training period, in particular in one or more of the following ways:
+
+(a) by determining when and where he is or is not authorized to practise;
+
+(b) by determining the professional acts which he is or is not authorized to perform;
+
+(c) by requiring that the professional acts that he is authorized to perform, or that certain of them, be performed under the supervision of another hearing-aid acoustician or a group of hearing-aid acousticians.
+
+**3.02** The decision of the board of directors to limit a trainee hearing-aid acoustician’s right to practise must be transmitted to his employer, where applicable.
+
+## IV — DECISIONS OF THE BOARD OF DIRECTORS
+
+**4.01** Before prescribing a training period or limiting a trainee hearing-aid acoustician’s right to practise, the board of directors must give the hearing-aid acoustician concerned the opportunity to be heard. For such purpose, the board of directors must give the hearing-aid acoustician a written notice of at least 10 days prior to the date of the hearing.
+
+**4.02** The reasons for a decision prescribing a training period, limiting a trainee hearing-aid acoustician’s right to practise, or ruling on the validity of a completed training period, must be given in writing and transmitted to the hearing-aid acoustician concerned.
+
+**4.03** The decision of the board of directors prescribing a training period or limiting a trainee hearing-aid acoustician’s right to practise shall take effect 30 days after being sent or served on the latter.
+
+**4.04** During the training period, the board of directors may, upon a duly justified request by the trainee hearing-aid acoustician and communicated to his tutor, reduce the duration and requirements of the training period and, where applicable, reduce the conditions of limitation of the trainee hearing-aid acoustician’s right to practise.
+
+**4.05** A hearing-aid acoustician must comply with every decision of the board of directors rendered in accordance with this Regulation.
+
+**4.06** (Omitted).

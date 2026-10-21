@@ -1,0 +1,43 @@
+---
+title: "Règlement sur les frais d’arbitrage de la Commission des transports du Québec"
+citation: "RLRQ c T-12, r 8.1"
+jurisdiction: "Quebec"
+language: fr
+type: regulation
+document_date: "2026-04-01"
+retrieved: "2026-10-09"
+source: "https://www.legisquebec.gouv.qc.ca/en/document/cr/T-12,%20r.%208.1"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+---
+
+# Règlement sur les frais d’arbitrage de la Commission des transports du Québec
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/T-12,%20r.%208.1) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c T-12, r 8.1*
+
+*Loi habilitante: Loi sur les transports (chapitre T-12, a. 47.22)*
+
+*À jour au 2026-04-01*
+
+> Les droits prévus au règlement ont été indexés à compter du 1^er avril 2026 selon l’avis publié à la Partie 1 de la Gazette officielle du Québec le 20 décembre 2025, page 687. (a. 1)
+
+## I — FRAIS PAYABLES À LA COMMISSION
+
+**1** Les frais d’arbitrage payables à la Commission pour tout différend décidé par un arbitre nommé par elle sont de 1 287 $ par différend.
+
+## II — DÉSISTEMENT ET RÈGLEMENT À L’AMIABLE
+
+**2** Lorsque la partie qui demande l’arbitrage se désiste de sa demande ou que les parties conviennent de régler à l’amiable le différend qui les oppose avant qu’une décision arbitrale en disposant ne soit rendue, aucuns frais d’arbitrage ne sont alors exigibles.
+
+## III — INDEXATION
+
+**3** Les frais prévus au présent règlement sont indexés de plein droit, le 1^er avril de chaque année, selon le taux prévu à l’article 83.3 de la Loi sur l’administration financière (chapitre A-6.001). Ce taux ne peut être inférieur à zéro.
+
+Le Règlement sur l’arrondissement des tarifs indexés (chapitre A-6.001, r. 0.1) s’applique à cette indexation, compte tenu des adaptations nécessaires.
+
+La Commission publie à la *Gazette officielle du Québec* le résultat de l’indexation de ces frais.
+
+## IV — DISPOSITION FINALE
+
+**4** (Omis).

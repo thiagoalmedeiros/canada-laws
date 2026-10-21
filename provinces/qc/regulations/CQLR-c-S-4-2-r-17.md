@@ -1,0 +1,29 @@
+---
+title: "Regulation respecting the applicable amounts for the purposes of the authorization required from the agency for certain work relating to the immovables of a public institution or a private institution under agreement"
+citation: "CQLR c S-4.2, r 17"
+jurisdiction: "Quebec"
+language: en
+type: regulation
+document_date: "2022-02-17"
+retrieved: "2026-10-09"
+source: "https://www.legisquebec.gouv.qc.ca/en/document/cr/S-4.2,%20r.%2017"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+---
+
+# Regulation respecting the applicable amounts for the purposes of the authorization required from the agency for certain work relating to the immovables of a public institution or a private institution under agreement
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/S-4.2,%20r.%2017) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c S-4.2, r 17*
+
+*Enabling statute: Act respecting health services and social services (chapter S-4.2, s. 505)*
+
+*Updated to 2022-02-17*
+
+**1** Every public institution or private institution under agreement must obtain prior authorization from the agency concerned before carrying out construction, enlargement, development, conversion, demolition, reconstruction or major repair work on its immovables where the estimated total cost of the project is less than $20,000,000.
+
+Such prior authorization is not required for development, repair, improvement or maintenance work the cost of which is less than the amount determined in the first paragraph and which requires no borrowing for its financing.
+
+**2** (Omitted).
+
+**3** (Omitted).

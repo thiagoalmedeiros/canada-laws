@@ -1,0 +1,27 @@
+---
+title: "Regulation respecting the implementation of the provisions on industrial accidents and occupational diseases in the Agreement on Social Security between the Gouvernement du Québec and the Government of the Kingdom of Denmark"
+citation: "CQLR c S-2.1, r 19"
+jurisdiction: "Quebec"
+language: en
+type: regulation
+document_date: "2012-09-01"
+retrieved: "2026-10-09"
+source: "https://www.legisquebec.gouv.qc.ca/en/document/cr/S-2.1,%20r.%2019"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+---
+
+# Regulation respecting the implementation of the provisions on industrial accidents and occupational diseases in the Agreement on Social Security between the Gouvernement du Québec and the Government of the Kingdom of Denmark
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/S-2.1,%20r.%2019) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c S-2.1, r 19*
+
+*Enabling statute: Act respecting occupational health and safety (chapter S-2.1, s. 223, 1st par., subpar. 39)*
+
+*Updated to 2012-09-01*
+
+**1** The benefits of the Act respecting industrial accidents and occupational diseases (chapter A-3.001) and the regulations made under the Act are extended to any person covered by the Agreement on Social Security between the Gouvernement du Québec and the Government of the Kingdom of Denmark, concluded on 23 November 1987, appearing in Schedule 1 to the Regulation respecting the implementation of the Agreement on Social Security between the Gouvernement du Québec and the Government of the Kingdom of Denmark (chapter R-9, r. 15).
+
+**2** The benefits apply in the manner prescribed in the Agreement and the Administrative Arrangement appearing in Schedule 2 to that Regulation.
+
+**3** (Omitted).

@@ -1,0 +1,33 @@
+---
+title: "Règlement sur le taux par mètre cube de bois applicable au calcul de la contribution payable par le titulaire d’un permis d’exploitation d’usine de transformation du bois aux agences régionales de mise en valeur des forêts privées"
+citation: "RLRQ c A-18.1, r 13"
+jurisdiction: "Quebec"
+language: fr
+type: regulation
+document_date: "2013-04-01"
+retrieved: "2026-10-09"
+source: "https://www.legisquebec.gouv.qc.ca/en/document/cr/A-18.1,%20r.%2013"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+---
+
+# Règlement sur le taux par mètre cube de bois applicable au calcul de la contribution payable par le titulaire d’un permis d’exploitation d’usine de transformation du bois aux agences régionales de mise en valeur des forêts privées
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/A-18.1,%20r.%2013) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c A-18.1, r 13*
+
+*Loi habilitante: Loi sur l’aménagement durable du territoire forestier (chapitre A-18.1, a. 173)*
+
+*À jour au 2013-04-01*
+
+> Ce règlement portait auparavant la désignation alphanumérique suivante: chapitre F-4.1, r. 14.
+
+**1** Le taux par mètre cube de bois applicable à la contribution que le titulaire d’un permis d’exploitation d’usine de transformation du bois doit verser aux agences régionales de mise en valeur des forêts privées en application de l’article 162 de la Loi sur l’aménagement durable du territoire forestier (chapitre A-18.1) est de 1 $.
+
+**2** La déclaration visée à l’article 163 de la Loi doit être produite par le titulaire le premier de chaque mois.
+
+Toutefois le titulaire qui a acquis un volume de bois inférieur à 100 m^*3* en provenance du territoire d’une agence pendant une période de référence pour laquelle il doit normalement produire une déclaration visée au premier alinéa, peut ne produire sa déclaration qu’à la fin de la période de référence pendant laquelle il complète cet achat minimum. Il doit cependant transmettre sa déclaration au plus tard le 1^er mars.
+
+**3** La première déclaration d’un titulaire suite à la constitution d’une agence sur le territoire de laquelle il a acquis du bois doit être produite au plus tard le 1^er mars qui suit cette constitution, si le deuxième alinéa de l’article 2 lui est applicable.
+
+**4** (Omis).

@@ -1,0 +1,37 @@
+---
+title: "Règlement sur le fichier des producteurs forestiers des Laurentides et de l'Outaouais"
+citation: "RLRQ c M-35.1, r 95"
+jurisdiction: "Quebec"
+language: fr
+type: regulation
+document_date: "2017-05-17"
+retrieved: "2026-10-09"
+source: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%2095"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+---
+
+# Règlement sur le fichier des producteurs forestiers des Laurentides et de l'Outaouais
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%2095) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c M-35.1, r 95*
+
+*Loi habilitante: Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1, a. 71)*
+
+*À jour au 2017-05-17*
+
+**1** L'Alliance des propriétaires forestiers des Laurentides et de l’Outaouais dresse et tient à jour un fichier indiquant les nom et adresse de chaque producteur visé par le Plan qu’elle administre dont elle connaît l’identité ainsi que la date de l’inscription, si possible.
+
+Le fichier indique si le producteur est membre de l'Alliance et, le cas échéant, la catégorie de producteurs à laquelle il appartient.
+
+**2** L'Alliance conserve à son siège le fichier des producteurs visés par le Plan.
+
+**3** Toute demande d’inscription, de radiation ou de correction doit être adressée par écrit à l'Alliance, avec un exposé sommaire des faits à l’appui; avant de rendre une décision, l'Alliance peut requérir toute autre preuve qu’elle juge nécessaire.
+
+Lorsque l'Alliance refuse de faire suite à une demande qui lui est soumise, l'Alliance doit en informer le producteur et lui indiquer les motifs justifiant la décision.
+
+**4** Il appartient au producteur de vérifier son inscription au fichier en s’adressant au bureau de l'Alliance soit personnellement, soit par téléphone. Il peut exiger de l'Alliance une confirmation écrite de son inscription.
+
+**5** Tout producteur visé par le Plan conjoint peut consulter le fichier des producteurs au bureau de l'Alliance aux heures normales d’affaires. Il ne peut cependant en exiger de copie à moins qu’il n’en démontre la nécessité pour les fins de l’article 74 de la Loi.
+
+**6** (Omis).

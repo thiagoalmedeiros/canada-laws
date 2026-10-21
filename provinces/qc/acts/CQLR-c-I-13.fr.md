@@ -1,0 +1,27 @@
+---
+title: "Loi sur certaines installations d’utilité publique"
+citation: "RLRQ c I-13"
+jurisdiction: "Quebec"
+language: fr
+type: act
+document_date: "2008-06-12"
+retrieved: "2026-10-09"
+source: "https://www.legisquebec.gouv.qc.ca/en/document/cs/I-13"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+---
+
+# Loi sur certaines installations d’utilité publique
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cs/I-13) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c I-13*
+
+*À jour au 2008-06-12*
+
+**1** Dans la présente loi, l’expression **installation d’utilité publique** désigne tout poteau, tour, canalisation ou conduit souterrain et toute autre structure de support ou de soutien, et toute tranchée, de même que leurs accessoires, qui sont susceptibles d’être utilisés aux fins d’un service de distribution d’électricité, de téléphone, de télégraphe, de câblodistribution, de signalisation ou d’un autre service analogue.
+
+**2** Aux fins visées à l’article 1, la Commission municipale du Québec peut ordonner, aux conditions qu’elle détermine, l’utilisation partagée d’une installation d’utilité publique.
+
+**3** La Commission peut rendre l’ordonnance visée à l’article 2 après avoir convoqué les parties intéressées; elle doit s’assurer que l’utilisation de l’installation d’utilité publique par un utilisateur n’affecte pas indûment le service des autres utilisateurs. Dans tous les cas où sa décision est susceptible de déroger à un règlement municipal, la Commission doit aussi convoquer la municipalité intéressée.
+
+**4** (Cet article a cessé d’avoir effet le 17 avril 1987).

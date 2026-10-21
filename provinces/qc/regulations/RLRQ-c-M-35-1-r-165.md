@@ -1,0 +1,29 @@
+---
+title: "Règlement sur les contributions des pêcheurs de crevette du Québec"
+citation: "RLRQ c M-35.1, r 165"
+jurisdiction: "Quebec"
+language: fr
+type: regulation
+document_date: "2026-04-01"
+retrieved: "2026-10-09"
+source: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20165"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+---
+
+# Règlement sur les contributions des pêcheurs de crevette du Québec
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20165) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c M-35.1, r 165*
+
+*Loi habilitante: Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1, a. 123)*
+
+*À jour au 2026-04-01*
+
+**1** Tout pêcheur visé par le Plan conjoint des pêcheurs de crevette du Québec (chapitre M-35.1, r. 167) doit verser à l’Office 0,0075 $ par livre, pesée à quai, de crevette débarquée dans un port situé au Québec et transformée en Gaspésie ou au Bas-St-Laurent.
+
+Toutefois, pour la saison de pêche 2026, la contribution prévue au premier alinéa n’est pas exigible.
+
+**2** La contribution due pour chaque livre débarquée doit être payée à l’Office au plus tard le 30 novembre qui suit le débarquement.
+
+**3** (Omis).
