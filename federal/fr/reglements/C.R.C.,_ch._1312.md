@@ -1,0 +1,45 @@
+---
+title: "Décret sur les privilèges et immunités de la Banque de développement inter-américaine"
+long_title: "Décret concernant les privilèges et immunités de la Banque de développement inter-américaine"
+id: "C.R.C.,_ch._1312"
+number: "C.R.C., ch. 1312"
+jurisdiction: Canada (federal)
+language: fr
+type: regulation
+current_to: "2025-07-24"
+last_amended: "2006-03-22"
+in_force: "yes"
+source: https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1312/
+---
+
+# Décret sur les privilèges et immunités de la Banque de développement inter-américaine
+
+*Décret concernant les privilèges et immunités de la Banque de développement inter-américaine*
+
+C.R.C., ch. 1312 · Codification: 2025-07-24 · Dernière modification: 2006-03-22
+
+Autorité habilitante: [LOI SUR LES MISSIONS ÉTRANGÈRES ET LES ORGANISATIONS INTERNATIONALES](../lois/F-29.4.md)
+
+[Source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1312/)
+
+## Titre abrégé
+
+**1** Le présent décret peut être cité sous le titre : [Décret sur les privilèges et immunités de la Banque de développement inter-américaine](C.R.C.,_ch._1312.md).
+
+## Interprétation
+
+**2** Dans le présent décret,
+
+***Convention*** désigne la Convention sur les privilèges et immunités des Nations Unies; (***Convention***)
+
+***Organisation*** désigne la Banque de développement inter-américaine. (***Organization***)
+
+## Privilèges et immunités
+
+**3** **(1)** L’Organisation possède, au Canada, la capacité juridique d’un corps constitué et jouit, dans la mesure où peut l’exiger l’exercice de ses fonctions, des privilèges et immunités prévus aux Articles II et III de la Convention.
+
+**(2)** Les représentants d’États et gouvernements membres de l’Organisation jouissent, au Canada, dans la mesure où peut l’exiger l’exercice de leurs fonctions, des privilèges et immunités prévus à l’Article IV de la Convention pour les représentants de membres.
+
+**(3)** Les représentants de l’Organisation jouissent, au Canada, dans la mesure où peut l’exiger l’exercice de leurs fonctions, des privilèges et immunités prévus à l’Article V de la Convention pour les fonctionnaires de l’Organisation des Nations Unies.
+
+**(4)** Les experts qui s’acquittent de missions pour l’Organisation jouissent, au Canada, dans la mesure où peut l’exiger l’exercice de leurs fonctions, des privilèges et immunités prévus à l’Article VI de la Convention pour les experts en mission pour l’Organisation des Nations Unies.

@@ -1,0 +1,33 @@
+---
+title: "Dipropylacetic Acid (also known as 2-Propylpentanoic Acid) Remission Order"
+long_title: "Order Respecting the Remission of Customs Duties nn Dipropylacetic Acid also known as 2-Propylpentanoic Acid or its Sodium Salt"
+id: "C.R.C.,_c._758"
+number: "C.R.C., c. 758"
+jurisdiction: Canada (federal)
+language: en
+type: regulation
+current_to: "2025-07-24"
+last_amended: "2006-03-22"
+in_force: "yes"
+source: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._758/
+---
+
+# Dipropylacetic Acid (also known as 2-Propylpentanoic Acid) Remission Order
+
+*Order Respecting the Remission of Customs Duties nn Dipropylacetic Acid also known as 2-Propylpentanoic Acid or its Sodium Salt*
+
+C.R.C., c. 758 · Consolidated: 2025-07-24 · Last amended: 2006-03-22
+
+Enabling authority: [FINANCIAL ADMINISTRATION ACT](../acts/F-11.md)
+
+[Official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._758/)
+
+## Short Title
+
+**1** This Order may be cited as the [Dipropylacetic Acid (also known as 2-Propylpentanoic Acid) Remission Order](C.R.C.,_c._758.md).
+
+## Remission
+
+**2** Remission is hereby granted of the customs duties paid or payable under the [Customs Tariff](../acts/C-54.011.md) on dipropylacetic acid, also known as 2-propylpentanoic acid, or its sodium salt, whether or not with admixture, imported on or after January 1, 1976, for use in the treatment of epilepsy.
+
+<sub>History: SI/88-17, s. 2(E)</sub>

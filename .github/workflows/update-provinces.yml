@@ -1,0 +1,57 @@
+name: Update provincial laws
+
+on:
+  workflow_dispatch:
+    inputs:
+      jurisdictions:
+        description: "Space-separated codes (AB BC MB NB NL NS NT ON PE QC SK YT). Empty = the PROVINCES repo variable, or AB BC ON."
+        required: false
+        default: ""
+  schedule:
+    - cron: "17 7 * * 1" # Mondays 07:17 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-to-main
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pandas pyarrow requests
+
+      - name: Convert and commit one jurisdiction at a time
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          CODES: ${{ github.event.inputs.jurisdictions || vars.PROVINCES }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          # Default: only jurisdictions whose terms clearly allow public redistribution.
+          # Set the repository variable PROVINCES to change this (see README).
+          codes="${CODES:-AB BC ON}"
+          for code in $codes; do
+            python3 tools/provincial_to_md.py . "$code"
+            git add -A provinces
+            if git diff --cached --quiet; then
+              echo "$code: no changes"
+              continue
+            fi
+            git commit -q -m "Update $code laws from A2AJ dataset ($(date -u +%Y-%m-%d))"
+            for i in 1 2 3; do
+              git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && break
+              sleep 10
+            done
+          done

@@ -1,0 +1,47 @@
+name: Update federal laws
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "43 6 * * 1" # Mondays 06:43 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-to-main
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install lxml
+
+      - name: Fetch official XML from justicecanada/laws-lois-xml
+        run: git clone --depth 1 https://github.com/justicecanada/laws-lois-xml.git "$RUNNER_TEMP/laws-lois-xml"
+
+      - name: Convert
+        run: python3 tools/federal_to_md.py "$RUNNER_TEMP/laws-lois-xml" .
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          src_sha=$(git -C "$RUNNER_TEMP/laws-lois-xml" rev-parse --short HEAD)
+          git add -A federal
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -q -m "Update federal laws from justicecanada/laws-lois-xml@${src_sha}"
+          for i in 1 2 3; do
+            git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && break
+            sleep 10
+          done
