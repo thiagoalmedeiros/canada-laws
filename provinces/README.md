@@ -12,3 +12,4 @@ Unofficial Markdown copies, **for personal and non-commercial use only**, from t
 | [Nova Scotia](ns/) | 627 | 1507 |
 | [Northwest Territories](nt/) | 239 | 563 |
 | [Ontario](on/) | 856 | 2217 |
+| [Prince Edward Island](pe/) | 341 | 396 |
