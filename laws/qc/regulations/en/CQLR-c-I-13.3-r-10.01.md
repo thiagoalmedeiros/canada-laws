@@ -1,0 +1,81 @@
+---
+type: "Regulation"
+title: "Regulation respecting the rules of conduct in elementary and secondary schools"
+description: "Quebec regulation, CQLR c I-13.3, r 10.01."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/I-13.3,%20r.%2010.01"
+tags: ["qc", "regulation", "en"]
+jurisdiction: "qc"
+language: "en"
+citation: "CQLR c I-13.3, r 10.01"
+document_date: "2026-01-01"
+translation: "../fr/CQLR-c-I-13.3-r-10.01.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/I-13.3,%20r.%2010.01"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Regulation respecting the rules of conduct in elementary and secondary schools
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/I-13.3,%20r.%2010.01) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c I-13.3, r 10.01*
+
+*Enabling statute: Education Act (chapter I-13.3, s. 76, 2nd par.)*
+
+*Updated to 2026-01-01*
+
+**1** This Regulation prescribes the mandatory content of the rules of conduct referred to in section 76 of the Education Act (chapter I-13.3) and section 63.3 of the Act respecting private education (chapter E-9.1).
+
+The objective of the Regulation is to establish a framework regarding civics at elementary and secondary schools by defining a series of behaviours and attitudes that demonstrate respect towards persons, rules and the values of the educational community.
+
+In this Regulation, **school** has the meaning given in the Education Act or means a private educational institution within the meaning of the Act respecting private education.
+
+**2** The rules of conduct must state the following principles
+
+(1) the right of students and school staff to evolve in an environment that is conducive to learning and development, and in a setting that is respectful, considerate, welcoming, tolerant, secure, healthy and inclusive in which cooperation, mutual aid and attentiveness are shared values;
+
+(2) the duty of students to show civility at all times towards other students and school staff, respect authority and their learning environment, and develop positive behaviours that favour the involvement of students in their academic success.
+
+**3** The rules of conduct must prescribe that students conduct themselves in a civil manner and, more specifically,
+
+(1) respect the authority of school staff and the rules of the school, including those of the classroom;
+
+(2) act and communicate with other students and school staff in a respectful, courteous and polite manner at all times, irrespective of the communication method used;
+
+(3) refrain from committing any acts of intimidation or violence;
+
+(4) use a formal form of address when speaking to school staff;
+
+(5) use the title “madam” or “sir” to address school staff;
+
+(6) respect the reputation and privacy of other students and school staff, in particular by obtaining their consent and the consent of the person having parental authority over the student or the student’s tutor, as applicable, before capturing images or recording voices, and by using social media appropriately;
+
+(7) be diligent and punctual by respecting in particular the applicable schedules and deadlines;
+
+(8) take good care of school materials, infrastructures and equipment; and
+
+(9) comply with the school dress code, where applicable.
+
+**4** The rules of conduct must prohibit students from using, from the beginning to the end of the school day, a cell phone, earphones or any other personal mobile device on school grounds or in school buildings, or outside school grounds or buildings during school activities, except where such use is required by
+
+(1) the methods of instruction selected by the teacher;
+
+(2) a student’s state of health or to provide assistance to any person due to their state of health or any other emergency situation; or
+
+(3) the special needs of a handicapped student or a student with a social maladjustment or a learning disability.
+
+**5** Penalties must be provided for in the rules of conduct in cases where a student fails to comply with those rules, including in particular warnings, behaviour reflection sheets, the removal of cell phones, earphones or any other personal mobile device, detentions, suspensions and expulsion. The rules of conduct must specify that penalties are to be determined based on the nature, gravity, frequency and recurrence of the rule violations and applied using a gradual approach.
+
+The rules of conduct must also provide for the possibility of imposing reparative gestures, including in particular making a verbal or written apology, repairing or replacing damaged property, participating in talking circles and mediation sessions, and performing community work.
+
+**6** (Omitted).

@@ -1,0 +1,35 @@
+---
+type: "Regulation"
+title: "Squamish-Lillooet Regional District Regulation"
+description: "British Columbia regulation, BC Reg 24/94."
+resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/24_94/xml"
+tags: ["bc", "regulation", "en"]
+jurisdiction: "bc"
+language: "en"
+citation: "BC Reg 24/94"
+document_date: "1994-01-13"
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/24_94/xml"
+    title: "King's Printer for British Columbia: official text"
+    author: "org:bc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# Squamish-Lillooet Regional District Regulation
+
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for British Columbia. Not endorsed by or affiliated with the Government of British Columbia. Text obtained from the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/24_94/xml) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+BC Reg 24/94
+
+### Dyking and drainage works
+
+1 The Squamish-Lillooet Regional District is granted the additional power to provide dyking and drainage works as a local service.
+
+[Provisions of the Local Government Act, R.S.B.C. 1996, c. 323, relevant to the enactment of this regulation: section 799]

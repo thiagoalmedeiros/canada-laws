@@ -1,0 +1,1276 @@
+---
+type: "Act"
+title: "Coroners Act"
+description: "Prince Edward Island Act, RSPEI 1988, c C-25.1."
+resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/c-25-1-coroners_act.pdf"
+tags: ["pe", "act", "en"]
+jurisdiction: "pe"
+language: "en"
+citation: "RSPEI 1988, c C-25.1"
+document_date: "2024-11-29"
+upstream_license: "See upstream license: https://perma.cc/V9XJ-HTR4 © Government of Prince Edward Island. The consolidated statutes and regulations and the annual statutes from Prince Edward Island were updated by the A2AJ (Access to Algorithmic Justice project) on August 15, 2026 from the Legislative Counsel Office website (https://www.princeedwardisland.ca/en/legislation), maintained by the Government of Prince Edward Island. Copyright: Reproduction of Acts and regulations available in the A2AJ Canadian Laws dataset is governed by the Prince Edward Island's government copyright policy: https://www.princeedwardisland.ca/en/information/executive-council-office/website-disclaimer-and-copyright-policy. NOTE: This is an unofficial reproduction of Prince Edward Island legislation, made without endorsement or affiliation by the Government of Prince Edward Island. The official versions should be consulted for all purposes of interpreting and applying the law. Reproduced with the permission of the Legislative Counsel Office of Prince Edward Island (granted by email on July 20, 2026)."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-08-15T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/c-25-1-coroners_act.pdf"
+    title: "Government of Prince Edward Island: official text"
+    author: "org:pe-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-PE/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-08-15T00:00:00Z"
+---
+
+# Coroners Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Prince Edward Island. Not endorsed by or affiliated with the Government of Prince Edward Island. Text obtained from the [official source](https://www.princeedwardisland.ca/sites/default/files/legislation/c-25-1-coroners_act.pdf) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RSPEI 1988, c C-25.1
+
+BE IT ENACTED by the Lieutenant Governor and the Legislative Assembly of the Province of
+
+Prince Edward Island as follows:
+
+### Definitions
+
+1. In this Act
+
+(a) “chief coroner ” means the chief coroner appointed under section 3;
+
+(b) “coroner” means a coroner appointed by the Minister under section 4;
+
+(c) “death” includes a stillbirth within the meaning of the Vital Statistics Act R.S.P.E.I.
+
+1988, Cap. V-4.1;
+
+(c.1) “field investigator” means a field investigator appointed under clause 3(3)(e.1) or
+
+subsection 6(1.1);
+
+(d) “inquest” means a formal inquiry into the death of a person, conducted by a coroner
+
+under this Act;
+
+(d.1) “medical assistance in dying” means medical assistance in dying within the
+
+meaning of section 241.1 of the Criminal Code (Canada);
+
+(d.2) “nurse practitioner” means a nurse practitioner as defined in the Registered Nurses
+
+and Registered Psychiatric Nurses Regulations (EC551/23) made under the
+
+Regulated Health Professions Act R.S.P.E.I. 1988, Cap. R-10.1;
+
+(e) “Minister” means the Minister of Justice and Public Safety and Attorney General.
+
+### Purpose
+
+2. The purpose of this Act is to facilitate a coroner system that
+
+(a) provides for independent and impartial investigations into, and inquests respecting,
+
+the circumstances surrounding unexpected, unnatural or unexplained deaths;
+
+(b) determines the identity of a deceased and how, when, where and by what means that
+
+person died;
+
+(c) uncovers dangerous practices or conditions that may lead to a death;
+
+(d) educates the public respecting dangerous practices and conditions; and
+
+(e) publicizes, and maintains records of, and the circumstances surrounding, causes of
+
+death.
+
+## PART 1 — CORONERS
+
+### Chief coroner
+
+3.(1) The Lieutenant Governor in Council shall appoint a medical practitioner to be chief coroner
+
+for the province who shall be responsible for the administration of this Act and the
+
+regulations.
+
+### Deputy chief coroner
+
+(2) The Lieutenant Governor in Council, upon the recommendation of the chief coroner, may
+
+appoint a deputy chief coroner for the province who may act as and have all of the powers of
+
+the chief coroner where
+
+(a) the office of chief coroner is vacant; or
+
+(b) the chief coroner is absent or unable to act.
+
+### Powers of chief coroner
+
+(3) The chief coroner has all of the powers of a coroner and, in addition, has the power to
+
+(a) administer this Act and the regulations;
+
+(b) supervise, direct and exercise control over all coroners in the performance of their
+
+duties, including the assignment of areas of responsibility and such other assignments
+
+as the chief coroner considers necessary;
+
+(c) assign the responsibility to investigate a death or a category of deaths to a coroner;
+
+(d) establish and conduct programs for the instruction of coroners in their duties;
+
+(e) prepare, publish and distribute a code of ethics for coroners;
+
+(e.1) appoint as field investigator one or more persons who, in the opinion of the chief
+
+coroner, have the prescribed qualifications and the ability to carry out death
+
+investigations if directed to do so under this Act;
+
+(e.2) establish and conduct programs for the instruction of field investigators in their
+
+duties;
+
+(f) assist coroners in obtaining medical and other experts where necessary;
+
+(g) determine, for the purposes of this Act, when a coroner may require, under
+
+subsection 10(2), the assistance of a pathologist;
+
+(h) bring the findings and recommendations of coroners and juries to the attention of the
+
+appropriate Ministers, persons, agencies or departments of government;
+
+(i) issue public reports;
+
+(j) suspend a coroner for cause or who is unable to act; and
+
+(k) perform any other duties that may be prescribed in the regulations.
+
+### Appointment of coroners
+
+4. The Lieutenant Governor in Council may appoint one or more medical practitioners to be
+
+coroners.
+
+## PART 2 — DUTY TO REPORT DEATH TO CORONER
+
+### Duty to notify of a death
+
+5.(1) Where a death has occurred in the province, or as a result of events that occurred in the
+
+province, every person shall immediately report the death to a coroner or a police officer, if
+
+the person has reason to believe that the death
+
+(a) occurred as a result of violence, accident, suicide or other cause other than disease,
+
+sickness or old age;
+
+(b) occurred as a result of negligence, misconduct or malpractice;
+
+(c) occurred suddenly and unexpectedly when the deceased had been in apparent good
+
+health;
+
+(d) occurred under circumstances in which the body is not available because the body or
+
+part of the body
+
+(i) has been destroyed,
+
+(ii) is in a place from which it cannot be recovered, or
+
+(iii) cannot be located;
+
+(e) occurred within 10 days after a surgical procedure or while the deceased was under
+
+or recovering from anaesthesia;
+
+(f) occurred as a direct or immediate consequence of the deceased being engaged in
+
+employment, an occupation or a business;
+
+(g) was a stillbirth that occurred without the presence of a medical practitioner or a nurse
+
+practitioner;
+
+(h) occurred while the deceased was detained or in custody involuntarily pursuant to law
+
+in a jail, lock-up, correctional facility, medical facility or other institution;
+
+(i) occurred while the deceased was detained by or in the custody of a police officer;
+
+(j) occurred while the deceased was under the care, custody or supervision of the
+
+Director of Child Protection;
+
+(k) occurred in circumstances that require investigation; or
+
+(l) occurred in the prescribed circumstances.
+
+### Exceptions
+
+(2) Subject to subsection (3), subsection (1) does not apply where
+
+(a) the person knows that a coroner or a police officer is already aware of the death; or
+
+(b) the death occurred as a result of medical assistance in dying.
+
+### Medical assistance in dying
+
+(3) A medical practitioner or nurse practitioner who provides medical assistance in dying to a
+
+person shall notify a coroner of the death if the medical practitioner or nurse practitioner has
+
+reason to believe that the person who received medical assistance in dying had a grievous and
+
+irremediable medical condition caused by circumstances that were not natural.
+
+### Duty of police officer
+
+(4) A police officer who has knowledge of a death reportable under subsection (1) shall
+
+immediately report the death to a coroner.
+
+### Special reporting arrangements
+
+(5) The chief coroner may make special arrangements with persons in charge of medical facilities
+
+and correctional facilities and with the police for the efficient reporting of deaths under
+
+subsection (1) or (3).
+
+## PART 3 — INVESTIGATIONS
+
+### Warrant to take possession of body
+
+6.(1) Where a coroner has reason to believe that a death has occurred under circumstances that
+
+require the death to be reported under subsection 5(1) or (3), and the death occurred in an
+
+area or as a result of events that occurred in an area in which the coroner ordinarily exercises
+
+the coroner’s responsibilities, the coroner
+
+(a) shall issue a warrant in the prescribed form to take possession of the body, if the body
+
+is in the province; and
+
+(b) may conduct any investigation into the death that the coroner considers necessary
+
+including by directing a field investigator to carry out the investigation on the
+
+coroner’s behalf.
+
+### Appointment of field investigator
+
+(1.1) Where, in the opinion of a coroner, it is necessary that a field investigator be appointed to
+
+carry out a death investigation under clause (1)(b), the coroner may, for that purpose, appoint
+
+as field investigator an individual who, in the opinion of the coroner, has the prescribed
+
+qualifications and the ability to do the investigation on the coroner’s behalf.
+
+### One coroner per investigation
+
+(2) Where a coroner has begun, or has directed a field investigator to begin, an investigation
+
+under subsection (1), no other coroner shall become involved in the investigation unless
+
+otherwise directed by the chief coroner.
+
+### Coroner disqualified from investigation or inquest
+
+(3) A coroner is disqualified from conducting an investigation or inquest where
+
+(a) the coroner has attended on the deceased as a medical practitioner within six months
+
+prior to the death;
+
+(b) the coroner has performed a post-mortem examination of the body of the deceased; or
+
+(c) the death may have been caused at a place, in a business or at an event with respect to
+
+which the coroner has a financial interest.
+
+### Idem
+
+(4) A coroner who has investigated a death is disqualified from conducting an inquest in relation
+
+to that death.
+
+### Reassignment of investigator
+
+(5) Where, in the opinion of the chief coroner, the conduct of a coroner or a field investigator or
+
+of a partner, associate, employee or employer of a coroner or a field investigator might be
+
+called into question during an investigation, the chief coroner may reassign the investigation
+
+to another coroner or another field investigator.
+
+### Investigation without warrant
+
+7. Notwithstanding subsection 6(1), a coroner, who becomes aware that a death has occurred
+
+that is reportable under subsection 5(1) or (3), may conduct an investigation without issuing a
+
+warrant to take possession of the body if the body
+
+(a) has been destroyed in whole or in part;
+
+(b) is in a place from which it cannot be recovered; or
+
+(c) has been removed from the province.
+
+### Powers of a coroner
+
+8.(1) For the purposes of an investigation under this Act, a coroner, or a police officer requested
+
+under subsection 12(1) to assist in the conduct of the investigation
+
+(a) may enter and inspect any place where a dead body is and any place from which the
+
+coroner or police officer has reasonable grounds for believing the body was removed;
+
+and
+
+(b) may examine and make copies of any records relating to the deceased or the
+
+deceased’s circumstances where the coroner or police officer believes on reasonable
+
+grounds that it is necessary to do so for the purposes of the investigation.
+
+### Coroner may destroy clothing not required
+
+9. The coroner may destroy soiled or damaged clothing that was taken into possession with a
+
+body and which is not required for the purposes of this Act or an investigation or proceeding
+
+conducted under another Act of the province or of Canada.
+
+### Warrant issued by coroner
+
+10.(1) A coroner may, at any time during an investigation or inquest, issue a warrant for a post-
+
+mortem examination of the body, an analysis of the blood, urine or contents of the stomach or
+
+intestines or any other examination or analysis of the body that the coroner considers
+
+necessary.
+
+### Pathologist to perform post-mortem
+
+(2) A warrant issued under subsection (1) shall require a pathologist to perform a post-mortem
+
+examination and report the results of the post-mortem examination to the coroner.
+
+### Report
+
+(3) Every pathologist who performs a post-mortem examination shall report the results of the
+
+post-mortem examination to the coroner before the coroner releases the body.
+
+### Removal of part or object from body
+
+(4) The pathologist who performs a post-mortem examination may remove and retain any part of
+
+the body or object found in the body for the purpose of establishing the cause and manner of
+
+death.
+
+### Disinterment of body
+
+11.(1) The chief coroner may order the disinterment of a body for the purposes of any investigation
+
+or inquest.
+
+### Notice to spouse or next of kin
+
+(2) The chief coroner shall send a copy of an order for disinterment by registered mail at least 48
+
+hours before the disinterment to
+
+(a) the spouse of the deceased or, if there is no spouse, the nearest next of kin, if any; and
+
+(b) the owner or the person in charge of the cemetery or mausoleum where the body is
+
+buried or stored.
+
+### Assistance by police
+
+12.(1) A coroner may obtain the assistance of police officers in the conduct of an investigation or
+
+inquest.
+
+### Assistance by other persons
+
+(2) A coroner may, with the consent of the Minister, obtain the assistance of persons other than
+
+police officers for all or part of the investigation or inquest.
+
+### Consent not required
+
+(3) For greater certainty, the consent of the Minister is not required before the assistance of a
+
+field investigator is obtained for the purposes of an investigation under this Act.
+
+### No obstruction, interference with coroner, etc.
+
+13. No person shall knowingly hinder, obstruct or interfere with
+
+(a) a coroner in the performance of the coroner’s duties; or
+
+(b) a person authorized or directed by a coroner to act in connection with an
+
+investigation or inquest.
+
+### No interference with body
+
+14.(1) No person, other than a police officer performing the officer’s duty, who has reason to
+
+believe that a death occurred under circumstances that require it to be reported to a coroner or
+
+police officer shall in any way interfere with or alter the body or its condition unless the
+
+coroner provides direction to do so.
+
+### Medical certificate of death required
+
+(2) No person shall
+
+(a) cremate a body or otherwise dispose of a body by any means or method that will
+
+prevent future examination of the body; or
+
+(b) ship or take a body from a place in the province to a place outside of the province,
+
+until a coroner issues a certificate in the prescribed form stating that the coroner has
+
+examined the medical certificate of death and releases the body for burial, cremation or
+
+transport.
+
+### Body brought into province
+
+(3) Every person who brings a body into the province shall notify a coroner.
+
+### Investigation
+
+(4) A coroner notified under subsection (3) shall
+
+(a) inspect the medical certificate of death or other documents that accompany the body;
+
+(b) make such investigation that may be necessary to establish or confirm the cause of
+
+the death; and
+
+(c) either
+
+(i) sign, and provide a funeral director with, the prescribed form to release the
+
+body, or
+
+(ii) determine that further investigation of the death is required.
+
+### Permission to bury body
+
+15.(1) Where, after an investigation, the coroner is of the opinion that an inquest is not necessary,
+
+the coroner shall give permission to bury the body and shall, as soon as is practicable
+
+(a) send to the chief coroner a report respecting the investigation; and
+
+(b) file any information that may be required by the Vital Statistics Act.
+
+### Idem
+
+(2) A coroner who intends to hold an inquest may authorize the burial of the body before the
+
+inquest is held by completion of the medical certificate of death.
+
+### Direction to hold inquest
+
+16. Notwithstanding subsection 15(1), the Minister or the chief coroner may direct any coroner to
+
+hold an inquest.
+
+## PART 4 — INQUESTS
+
+### Inquest considered necessary
+
+17. A coroner, with the approval of the chief coroner, shall hold an inquest where, after
+
+conducting an investigation, the chief coroner is of the opinion that an inquest is necessary to
+
+(a) ascertain the identity of the deceased and determine how, when, where and by what
+
+means the deceased died;
+
+(b) inform the public of the circumstances surrounding a death;
+
+(c) bring dangerous practices or conditions to light and facilitate the making of
+
+recommendations to avoid preventable deaths; or
+
+(d) educate the public about dangerous practices or conditions to avoid preventable
+
+deaths.
+
+### Inquest into death of inmate
+
+18. A coroner shall hold an inquest into the death of a person who dies while an inmate in a place
+
+referred to in clause 5(1)(h) unless the coroner is satisfied that the death was due entirely to
+
+natural causes and was not preventable.
+
+### Direction by Minister to hold inquest
+
+19. The Minister may direct the chief coroner or any other coroner to hold an inquest into the
+
+death of a person, and the chief coroner or other coroner shall hold the inquest whether or not
+
+another coroner has conducted an investigation, held an inquest or done any other act in
+
+connection with the death.
+
+### Related deaths
+
+20. Where two or more deaths appear to have occurred from the same event or from a common
+
+cause, the chief coroner may direct that one inquest be held respecting all of the deaths.
+
+### Inquest not a criminal court of record
+
+21. The powers conferred on a coroner to conduct an inquest are not to be construed as creating a
+
+criminal court of record.
+
+## PART 5 — JURIES
+
+### Jury
+
+22.(1) Every inquest shall be held with a jury composed of six jurors.
+
+### Finding by five jurors
+
+(2) Any five jurors may return a finding, and a finding returned by five jurors has the same effect
+
+as a finding returned by six jurors.
+
+### New jury if less than five jurors
+
+(3) If there are fewer than five jurors, the coroner shall summon a new jury.
+
+### Sheriff to summon persons
+
+23.(1) The coroner holding an inquest shall direct the sheriff to summon good and lawful persons to
+
+appear before the coroner at a specified time and place to inquire into the death of a person.
+
+### Sheriff’s power to summon
+
+(2) On being directed to summon a jury under subsection (1), the sheriff has the power to
+
+summon and shall summon such persons as may be necessary to form a jury to serve at an
+
+inquest to be held under this Act.
+
+### Failure to appear or serve as juror
+
+(3) Where a person duly summoned under subsection (2)
+
+(a) does not appear before the coroner as required by the summons; or
+
+(b) refuses, at the inquest and without reasonable excuse, to serve as a juror,
+
+the coroner may impose on such person a fine not exceeding $100.
+
+### No derogation from other powers under the Act
+
+(4) Any power by this Act vested in a coroner of imposing a fine on a juror shall be deemed to be
+
+in addition to and not in derogation of any power the coroner may possess independently of
+
+this Act for compelling any person to appear before him or her at any inquest or other
+
+proceeding, or for punishing any person for contempt of court in not so appearing, with this
+
+qualification, that a person shall not be fined by a coroner under this Act and also be punished
+
+under the power of a coroner exercised independently of this Act.
+
+### Coroner may question persons summoned
+
+24. The coroner may question the persons who are present as a result of a summons issued under
+
+subsection 23(2) to determine their eligibility and suitability as jurors and shall select six
+
+persons from among those present to serve as jurors at the inquest.
+
+### Persons who shall not be jurors
+
+25.(1) No officer, employee, inmate, resident or patient of a jail, lock-up, correctional facility,
+
+medical facility or other institution where a death occurred, or that person’s spouse, shall
+
+serve as a juror at an inquest respecting a person whose death was caused or occurred in that
+
+place.
+
+### Idem
+
+(2) No owner of a building or place where a death was caused or occurred, or the owner’s
+
+spouse, shall serve as a juror at an inquest respecting a person whose death was caused or
+
+occurred in that building or place.
+
+### Idem
+
+(3) No owner or employee of a business, or spouse of an owner or employee of a business, shall
+
+serve as a juror at an inquest respecting a person whose death was caused or occurred at the
+
+place of business or whose death was related to the operation of the business.
+
+### Disqualification for interest or bias
+
+(4) The coroner shall disqualify from serving as a juror any person whom the coroner believes
+
+would be unable to render a true finding in accordance with the evidence because of interest
+
+or bias.
+
+### Coroner may excuse person
+
+26. The coroner may excuse any person from serving as a juror on the grounds of illness,
+
+hardship or other good reason.
+
+### Swearing in of jurors
+
+27. When the jurors are assembled, they shall choose a foreperson and be sworn by or before the
+
+coroner to diligently inquire into the death of the person with respect to whom the inquest
+
+will be held and to give a true finding according to the evidence.
+
+### Errors not grounds for impeaching finding
+
+28. A failure to observe the provisions contained in this Act respecting the qualifications,
+
+exclusion or selection of jurors is not a ground for impeaching the finding returned, unless the
+
+omission has resulted in a substantial miscarriage of justice.
+
+## PART 6 — PROCEDURE AT AN INQUEST
+
+### Inquest public
+
+29.(1) An inquest shall be held in public.
+
+### Exception
+
+(2) Notwithstanding subsection (1), the Minister may direct that an inquest, or a part thereof, be
+
+held in private where the Minister is of the opinion that national security may be endangered
+
+or that such direction will avoid serious harm or injury to any person.
+
+### Exclusion of witnesses
+
+(3) A coroner may order that witnesses be excluded from an inquest until they are called to give
+
+evidence.
+
+### Inquest where a person is charged with the death
+
+30.(1) Notwithstanding any other provision of this Act, where a person has been charged with an
+
+offence arising out of a death, an inquest into the death shall be held only on the direction of
+
+the Minister.
+
+### Person charged not compellable
+
+(2) No person charged with an offence arising out of a death may be compelled to give evidence
+
+at an inquest respecting that death.
+
+### Person charged after inquest underway
+
+(3) If a person is charged with an offence arising out of a death for which an inquest is underway,
+
+the coroner shall, unless the Minister orders otherwise, discharge the jury and close the
+
+inquest and shall reopen the inquest only on the direction of the Minister.
+
+### Reopened inquest
+
+(4) Where the inquest has been reopened under subsection (3), a new jury shall be summoned
+
+only if, in the opinion of the coroner, it is necessary.
+
+### After charge and appeal dealt with
+
+(5) Notwithstanding any other provisions of this section, where a person is charged with an
+
+offence arising out of a death and the charge or an appeal from any conviction or acquittal has
+
+been finally disposed of or the time for taking an appeal has expired
+
+(a) the chief coroner may direct a coroner to hold an inquest into the death; and
+
+(b) the person who was charged is a compellable witness at the inquest.
+
+### Delay on waiting for charge to be laid
+
+31.(1) Where it appears likely to the chief coroner that a person will be charged with an offence
+
+arising out of a death, the chief coroner shall
+
+(a) notify the Minister; and
+
+(b) unless otherwise directed by the Minister, direct the coroner to delay the holding of
+
+an inquest until the charges have been dealt with.
+
+### Evidence not to be published or broadcast
+
+(2) Where a person has been charged or it appears that a person may be charged with an offence
+
+arising out of a death, the coroner may order that no evidence be published or broadcast
+
+without the coroner’s permission until
+
+(a) a charge is laid and the charge or an appeal from any conviction or acquittal of the
+
+offence has been finally disposed of or the time for taking the appeal has expired; or
+
+(b) it appears to the coroner that no charge will be laid.
+
+### Offence under other federal Act
+
+32.(1) Where a person has been charged or where it appears likely to the chief coroner that a person
+
+will be charged with an offence under an Act of Parliament, other than an offence under the
+
+Criminal Code (Canada) arising out of a death, or an offence under an Act or regulation, the
+
+chief coroner may direct that an inquest not be held.
+
+### Application of s. 30, 31
+
+(2) Where the chief coroner directs under subsection (1) that an inquest not be held, sections 30
+
+and 31 apply.
+
+### Death, self-inflicted
+
+33.(1) Where, at an inquest, it appears that the death may have been self-inflicted, the coroner may
+
+order that no evidence of the proceedings be published or broadcast until a finding is
+
+returned.
+
+### No publication or broadcast
+
+(2) Where the finding is that a death was self-inflicted, the coroner may order that no evidence of
+
+the proceedings be published or broadcast without the coroner’s permission other than the
+
+name, address and occupation of the deceased, the fact that an inquest has been held and that
+
+the death was found to have been self-inflicted.
+
+### Publication or broadcast, medical assistance in dying
+
+(3) Where a coroner holds an inquest in relation to a death that occurred as a result of medical
+
+assistance in dying, the coroner may order that no evidence of the proceedings be published
+
+or broadcast without the coroner’s permission other than the name, address and occupation of
+
+the deceased, the fact that an inquest has been held and that the death occurred as a result of
+
+medical assistance in dying.
+
+### Standing at inquest
+
+34.(1) A coroner may grant standing at an inquest to any person whom the coroner considers to have
+
+a substantial interest in the inquest.
+
+### Representation
+
+(2) A person who has standing at an inquest may
+
+(a) be represented by legal counsel or an agent; and
+
+(b) examine and cross-examine witnesses.
+
+### Notice to Minister
+
+35.(1) A coroner shall notify the Minister of the time and place at which an inquest will be held.
+
+### Minister has standing
+
+(2) The Minister has standing at an inquest and may be represented by legal counsel.
+
+### Legal counsel to the coroner
+
+36. On the request of the chief coroner, the Minister may appoint legal counsel to attend at an
+
+inquest and to act as legal counsel to the coroner.
+
+### Notice
+
+37.(1) The coroner shall give written notice of the time and place of the inquest to the following
+
+persons of whom the coroner has knowledge:
+
+(a) the immediate surviving spouse or next of kin of the deceased;
+
+(b) persons who have, in the opinion of the coroner, a substantial interest in the inquest;
+
+(c) persons whose conduct is, in the opinion of the coroner, likely to be called into
+
+question at the inquest.
+
+### Idem
+
+(2) Any person may make a written request to the coroner in charge of an investigation to be
+
+notified of the time and place of an inquest, and the coroner shall give written notice of the
+
+time and place of the inquest to that person.
+
+### Idem
+
+(3) Where the conduct of a person who has not been notified of and is not present at the inquest
+
+is brought into question, the coroner shall adjourn the inquest and notify that person if it is
+
+reasonably practicable to do so and adjourn the inquest for such period of time as the coroner
+
+considers appropriate for the purpose of allowing the person to be given notice of the inquest.
+
+### Failure to notify does not invalidate
+
+(4) Failure to notify a person of an inquest does not invalidate the proceedings.
+
+## PART 7 — WITNESSES AND EVIDENCE
+
+### Summons
+
+38.(1) A coroner may summon any person to
+
+(a) give evidence on oath at an inquest that is relevant to the subject-matter of the
+
+inquest; or
+
+(b) produce in evidence at an inquest any document or thing in the person’s control that
+
+the coroner may specify that is relevant to the subject-matter of the inquest.
+
+### Service of summons
+
+(2) The coroner shall cause a summons issued under subsection (1) to be personally served on the
+
+person summoned.
+
+### Coroner’s order for witness to be brought before inquest
+
+(3) Where a witness who is required to attend an inquest is confined to a place referred to in
+
+clause 5(1)(h), the coroner may order in writing that the witness be brought before the
+
+coroner in order to testify at the inquest and direct in the order the manner in which the
+
+witness shall be kept in custody until the witness is returned to the place of detention.
+
+### Failure to appear or to answer question
+
+39.(1) Where a person duly summoned to give evidence at any inquest
+
+(a) does not attend at the inquest as required by the summons; or
+
+(b) refuses, at the inquest, and without reasonable excuse, to answer a question put to
+
+him or her,
+
+the coroner may impose on such person a fine not exceeding $100.
+
+### No derogation from other powers under the Act
+
+(2) Any power by this Act vested in a coroner of imposing a fine on a witness shall be deemed to
+
+be in addition to and not in derogation of any power the coroner may possess independently
+
+of this Act for compelling any person to appear and give evidence before him or her on any
+
+inquest or other proceeding, or for punishing any person for contempt of court in not so
+
+appearing and giving evidence, with this qualification, that a person shall not be fined by a
+
+coroner under this Act and also be punished under the power of a coroner exercised
+
+independently of this Act.
+
+### Evidence
+
+40.(1) The coroner may permit any person who wishes to give evidence at an inquest to testify, if, in
+
+the coroner’s opinion, the evidence is not frivolous or vexatious.
+
+### Legal counsel, agent as advisor
+
+(2) A witness at an inquest is entitled to be advised by the witness’ legal counsel or agent as to
+
+the witness’ rights, but the legal counsel or agent may not participate in any other manner in
+
+the inquest without the leave of the coroner.
+
+### Legal counsel, agent present when witness present
+
+(3) Where an inquest is held in the absence of the public, a legal counsel or agent for a witness is
+
+not entitled to be present except when that witness is giving evidence.
+
+### Jury questions
+
+41.(1) Members of the jury may ask questions of the witnesses at an inquest.
+
+### View the body, scene
+
+(2) Members of the jury shall
+
+(a) view the body; or
+
+(b) view the scene where the death may have occurred,
+
+if directed by the coroner to do so.
+
+### Maintenance of order at inquest
+
+42. A coroner may make any orders or give any directions that the coroner considers necessary
+
+for the maintenance of order at an inquest and may call on a sheriff or a police officer to
+
+enforce those orders or directions.
+
+### Coroner’s powers at inquest
+
+43.(1) At an inquest, a coroner may
+
+(a) subject to subsection (2), admit any oral testimony, including any testimony obtained
+
+by telephone conference call or other electronic means, document or other thing as
+
+evidence, whether or not it is admissible as evidence in a judicial proceeding;
+
+(b) exclude anything that the coroner considers to be unduly repetitious or that, in his or
+
+her opinion, fails to meet the standards of proof that are commonly relied on by
+
+reasonably prudent persons in the conduct of their affairs;
+
+(c) comment on the weight to be given any evidence; or
+
+(d) limit examination or cross-examination of a witness where it is frivolous or
+
+vexatious.
+
+### No derogation from statute or privilege
+
+(2) Nothing in this section derogates from
+
+(a) the provisions of the Canada Evidence Act (Canada), the Evidence Act R.S.P.E.I.
+
+1988, Cap. E-11 or any other Act expressly limiting the extent to or purposes for
+
+which any oral testimony, documents or other things may be admitted or used in
+
+evidence; or
+
+(b) any privilege under the law of evidence.
+
+### Evidence Acts
+
+(3) Before a person gives evidence at the inquest, the coroner shall advise the person of the
+
+provisions of section 5 of the Canada Evidence Act (Canada) and section 6 of the Evidence
+
+Act.
+
+### Interpreter
+
+(4) A coroner may employ an interpreter at an inquest.
+
+### Copy as evidence
+
+44.(1) A copy of a document or other thing may be admitted as evidence at an inquest if the coroner
+
+is satisfied of its authenticity.
+
+### Photocopy
+
+(2) Where a document has been admitted as evidence at an inquest, the coroner, or with the leave
+
+of the coroner the person who produced it or is entitled to it, may cause the document to be
+
+photocopied, and the coroner may
+
+(a) authorize the photocopy to be admitted in evidence in place of the document and
+
+order the release of the document; or
+
+(b) furnish a photocopy of the document certified by the coroner to the person who
+
+produced or is entitled to it.
+
+### Reports
+
+45.(1) The coroner may accept a report, a medical report, a plan, a sketch, a photograph or another
+
+document containing information of a factual nature in place of the oral testimony of the
+
+maker of that document, and the document is, in the absence of evidence to the contrary,
+
+proof of the facts stated in it.
+
+### Evidence by maker of document
+
+(2) The coroner may, at the request of a person granted standing under section 34 or a juror,
+
+require the maker of a document to attend and give evidence at the inquest.
+
+### Adjournment
+
+46.(1) The coroner may adjourn an inquest from time to time on the coroner’s own motion or if it is
+
+shown to the coroner’s satisfaction that the adjournment is required to permit a proper inquest
+
+to be held.
+
+### Recognizance
+
+(2) Where an inquest is adjourned, the coroner shall obtain the oral or written recognizances of
+
+the jurors and witnesses for their attendance at the resumption of the inquest.
+
+### Juror ill, absent
+
+(3) Where a juror, by reason of illness, death or absence from the province, does not attend at the
+
+resumption of the inquest, the coroner may proceed with the inquest if at least five jurors are
+
+present.
+
+### If coroner cannot complete inquest
+
+47. Where, for any cause, a coroner cannot complete an inquest, another coroner assigned by the
+
+chief coroner may complete it and may act on the evidence as if it had been given before him
+
+or her.
+
+### Court reporter
+
+48.(1) A court reporter appointed under the Court Reporters Act R.S.P.E.I. 1988, Cap. C-27.03 shall
+
+record the proceedings or any part of the proceedings by shorthand or by a recording device.
+
+### Oath
+
+(2) The court reporter shall take an oath to accurately report the proceedings and the transcript of
+
+the proceedings shall be accompanied by an affidavit of the court reporter stating that it is a
+
+true report of the proceedings.
+
+### Transcription of proceedings
+
+(3) The proceedings recorded by a court reporter do not need to be transcribed unless a
+
+transcription is ordered by the Minister, by legal counsel appointed by the Minister to act for
+
+the coroner at the inquest, by the chief coroner or by any person who requests a transcript and
+
+pays to the Supreme Court the fee prescribed under the Court Fees Act R.S.P.E.I. 1988, Cap.
+
+C-27.001 for transcripts of judicial proceedings.
+
+## PART 8 — FINDINGS
+
+### Jury retires to consider
+
+49.(1) The jury shall, at the conclusion of the inquest, retire to consider the evidence and determine
+
+the identity of the deceased and how, when, where and by what means the deceased died.
+
+### No finding of legal responsibility
+
+(2) The jury shall not make any finding of legal responsibility.
+
+### Jury recommendations
+
+(3) The jury may make any recommendations that it considers to be of assistance in preventing
+
+similar deaths.
+
+### Information to chief coroner
+
+50. At the conclusion of an inquest, the coroner shall forward to the Minister and the chief
+
+coroner
+
+(a) the finding; and
+
+(b) any recommendations of the jury.
+
+### No majority agreement
+
+51.(1) If the jury cannot agree by a majority on a finding or recommendation, the coroner may
+
+discharge the jury after obtaining any findings of fact or recommendations that they have
+
+been able to agree on.
+
+### Evidence and findings to chief coroner
+
+(2) The coroner shall submit the evidence taken at the inquest, together with any findings of fact
+
+that the jury has been able to agree on, to the chief coroner.
+
+### Another jury
+
+(3) The Minister or the chief coroner may direct the coroner to summon another jury and hold
+
+another inquest or to take any other action that the Minister or the chief coroner may direct.
+
+### Information to Director of Vital Statistics
+
+52. Immediately on the close of an investigation or inquest, the coroner shall send to the Director
+
+of Vital Statistics any information that is required by the Vital Statistics Act.
+
+## PART 9 — GENERAL
+
+### Limitation of action
+
+53. No action lies or shall be commenced or instituted against the chief coroner, a coroner, a field
+
+investigator, a police officer or an agent acting on behalf of the chief coroner or a coroner, for
+
+any loss or damage suffered by a person by reason of anything in good faith done, caused,
+
+permitted or authorized to be done, attempted to be done or omitted to be done, by any of
+
+them, pursuant to or in the exercise of or supposed exercise of any power conferred by this
+
+Act or the regulations or in the carrying out or supposed carrying out of any order made under
+
+this Act or any responsibility imposed by this Act or the regulations.
+
+### Copy of document
+
+54. Where the Minister considers it to be appropriate and in the public interest, the Minister may,
+
+at any person’s request, provide a copy of one or more of the following documents to that
+
+person on such conditions as the Minister considers appropriate:
+
+(a) a report prepared under clause 15(1)(a);
+
+(b) the findings or recommendations of a jury at an inquest;
+
+(c) a post-mortem report prepared under this Act; or
+
+(d) a report signed by a medical practitioner, nurse practitioner or a coroner as to the
+
+cause of death of a person.
+
+### Offence
+
+55. Every person who
+
+(a) contravenes a provision of this Act or the regulations; or
+
+(b) fails to comply with an order or direction of a coroner or the chief coroner,
+
+is, unless otherwise provided in this Act, guilty of an offence and liable on summary
+
+conviction to a fine of not more than $2,000, to imprisonment for a term not exceeding six
+
+months, or to both.
+
+### Regulations
+
+56. The Lieutenant Governor in Council may make regulations
+
+(a) prescribing the remuneration or allowances to be paid to the chief coroner, coroners,
+
+field investigators, jurors, witnesses, interpreters and other persons;
+
+(a.1) prescribing circumstances under which a death is reportable for the purposes of
+
+clause 5(1)(l);
+
+(b) prescribing forms and providing for their use;
+
+(c) prescribing additional rules and procedures for inquests;
+
+(d) respecting the summoning of jurors for the purposes of section 24 and witnesses for
+
+the purposes of section 38;
+
+(e) prescribing fees for reports and other documents, except transcripts, prepared under
+
+this Act;
+
+(f) prescribing any other matter or thing that is required or authorized by this Act to be
+
+prescribed in the regulations;
+
+(g) defining, enlarging or restricting the meaning of any word or expression used in this
+
+Act but not defined in this Act;
+
+(h) respecting any other matter or thing the Lieutenant Governor in Council considers
+
+necessary to carry out the intent of this Act.
+
+### Transitional
+
+57.(1) Any person who holds the office of chief coroner or coroner on the day before this section
+
+comes into force continues to hold such office and is deemed to have been appointed under
+
+this Act.
+
+### Idem
+
+(2) Every proceeding and process initiated, pending or heard in part immediately before the
+
+coming into force of this section shall be continued as if it had been initiated under this Act,
+
+and this Act applies with any necessary modification.
+
+### Consequential amendments
+
+58. Sections 58 to 61 make consequential amendments to other Acts. The amendments have been
+
+incorporated into those Acts.
+
+### Repeal
+
+62. The Coroners Act R.S.P.E.I. 1988, Cap. C-25 is repealed.

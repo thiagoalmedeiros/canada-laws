@@ -1,0 +1,353 @@
+---
+type: "Regulation"
+title: "Décret concernant la constitution de la réserve écologique de la Tourbière-de-Shannon"
+description: "Règlement (Québec), RLRQ c C-61.01, r 66.1."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-61.01,%20r.%2066.1"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c C-61.01, r 66.1"
+document_date: "2012-09-01"
+translation: "../en/CQLR-c-C-61.01-r-66.1.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-61.01,%20r.%2066.1"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Décret concernant la constitution de la réserve écologique de la Tourbière-de-Shannon
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/C-61.01,%20r.%2066.1) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c C-61.01, r 66.1*
+
+*Loi habilitante: Loi sur la conservation du patrimoine naturel (chapitre C-61.01, a. 43)*
+
+*À jour au 2012-09-01*
+
+**1** Est conféré au territoire dont le plan et la description technique apparaissent en annexe du présent décret, le statut permanent de réserve écologique, sous le toponyme «Réserve écologique de la Tourbière-de-Shannon».
+
+**2** (Omis).
+
+## Annexe
+
+(**1**) **Toponyme officiel**
+
+Toponyme officiel: Réserve écologique de la Tourbière-de-Shannon. Cette appellation fait référence au nom de la tourbière dont la réserve écologique assure la protection.
+
+(**2**) **Description du territoire**
+
+La réserve écologique de la Tourbière-de-Shannon est située sur le territoire de la municipalité de Shannon, municipalité régionale de comté (MRC) de la Jacques-Cartier, dans la région administrative de la Capitale-Nationale (région 03), soit à environ 30 km au nord-ouest de la ville de Québec. La tourbière de Shannon couvre une superficie d’environ 250 ha et se trouve à une altitude de 180 m, sur le flanc nord de la rivière Jacques-Cartier. La réserve écologique permettra de conserver d’une façon intégrale la majeure partie de l’écosystème de la tourbière de Shannon. La superficie de la réserve écologique de la Tourbière-de-Shannon est de 168,77 ha. Le plan de la réserve écologique, préparé par l’arpenteur-géomètre Bertrand Bussière est présenté à la fin de ce document.
+
+La tourbière de Shannon est principalement ombrotrophe (Buteau, 1989). Ce type de tourbière, de forme bombée, est caractérisé par un pH acide, soit entre 3,5 et 4,6 ainsi que par un apport en eau et en minéraux provenant uniquement des précipitations (Gorham & Janssens, 1992). Les sphaignes contribuent fortement à l’acidité du milieu (Clymo, 1964). Le profil saisonnier de recharge de ce type de tourbière correspond étroitement au régime des précipitations, mis à part au cours de l’été, où l’évapotranspiration est importante, ainsi qu’en hiver, où la surface de la tourbe est gelée (Bastien, 2007). On observe également un lagg^1 en périphérie de la tourbière, qui fait la jonction avec le sol minéral environnant. Les apports d’eau ayant circulé sur le sol minéral adjacent ruissellent vers la marge de la tourbière, l’enrichissant ainsi en minéraux disponibles. Le lagg se caractérise par la présence simultanée d’espèces minérotrophes, facultatives ou même ombrotrophes.
+
+La réserve écologique est située au sein de la province naturelle des Laurentides méridionales, dans le district écologique des Basses collines du lac Saint-Joseph. Ce territoire s’inscrit à l’intérieur du domaine bioclimatique de l’érablière à tilleul. Il se caractérise par un climat de type subpolaire et continental avec un régime de précipitation subhumide et une saison de croissance longue.
+
+Le socle rocheux sous la tourbière de Shannon est principalement constitué de gneiss et de paragneiss (gneiss dont l’origine est une roche sédimentaire) (Grondin P., Leboeuf P., Noël J., Hotte D., 2003).
+
+Un document administratif du ministère du Développement durable, de l’Environnement et des Parcs intitulé «Portrait du territoire» regroupe l’ensemble de l’information écologique concernant la réserve écologique de la Tourbière-de-Shannon et est mis à jour selon l’état des connaissances de ce territoire.
+
+(**3**) **Statut de protection**
+
+La réserve écologique permettra de protéger d’une façon intégrale et permanente une partie importante de la tourbière de Shannon.
+
+(**4**) **Régime des activités**
+
+Les activités exercées à l’intérieur de la réserve écologique de la Tourbière-de-Shannon sont régies par les dispositions de la Loi sur la conservation du patrimoine naturel (chapitre C-61.01) et comprennent exclusivement des activités à des fins d’études scientifiques, d’éducation ou de gestion. Toutefois, ces activités devront faire l’objet d’une autorisation préalable du ministre du Développement durable, de l’Environnement et des Parcs.
+
+Le présent plan de conservation ne prévoit pas d’interdiction additionnelle aux activités déjà interdites pour les réserves écologiques en vertu de cette loi; il n’en autorise pas non plus, ni n’ajoute de contraintes aux activités permises en vertu de cette Loi.
+
+Le statut de protection accordé étant un statut de protection intégrale aucune mesure de conservation supplémentaire n’est envisagée. Les objectifs de conservation étant les mêmes sur l’ensemble du territoire, la réserve écologique n’est constituée que d’une seule zone.
+
+(**4.1**) **Activités interdites**
+
+Pour fins de commodité, rappelons qu’en vertu de la Loi sur la conservation du patrimoine naturel, les principales activités interdites dans un territoire bénéficiant d’un statut de réserve écologique sont les suivantes:
+
+— les activités d’aménagement forestier au sens de l’article 4 de la Loi sur l’aménagement durable du territoire forestier (chapitre A-18.1);
+
+— l’exploitation minière, gazière ou pétrolière;
+
+— les activités d’exploration minière, gazière ou pétrolière, de recherche de saumure ou de réservoir souterrain, de prospection, de fouille ou de sondage;
+
+— l’exploitation des forces hydrauliques et toute production commerciale ou industrielle d’énergie.
+
+— la chasse, le piégeage, la pêche, les travaux de terrassement ou de construction, les activités agricoles, industrielles ou commerciales ainsi que généralement toute activité de nature à modifier l’état ou l’aspect des écosystèmes;
+
+De plus, sauf pour une inspection ou pour l’exercice d’une activité autorisée en vertu de la loi, il est également interdit de se trouver dans une réserve écologique. Le ministre du Développement durable, de l’Environnement et des Parcs peut cependant autoriser, par écrit et aux conditions qu’il détermine, toute activité liée à la poursuite des fins d’une réserve écologique ou à la gestion de celle-ci.
+
+(**4.2**) **Activités régies par d’autres lois**
+
+Les activités à des fins d’études scientifiques, d’éducation et de gestion réalisées à l’intérieur de la réserve écologique de la Tourbière-de-Shannon demeurent également régies par les autres dispositions législatives et réglementaires applicables, dont celles qui requièrent la délivrance d’un permis ou d’une autorisation ou le paiement de certains droits.
+
+Dans le territoire de cette réserve écologique, un encadrement juridique particulier peut, notamment dans les domaines suivants, baliser des activités préalablement autorisées par le Ministère:
+
+— Recherche archéologique: mesures prévues en particulier par la Loi sur les biens culturels (chapitre B-4);
+
+— Protection de l’environnement: mesures prévues en particulier par la Loi sur la qualité de l’environnement (chapitre Q-2) et sa réglementation;
+
+— Espèces floristiques désignées menacées ou vulnérables: mesures interdisant notamment le prélèvement de ces espèces en vertu de la Loi sur les espèces menacées ou vulnérables (chapitre E-12.01);
+
+— Exploitation et conservation des ressources fauniques: mesures prévues par la Loi sur la conservation et la mise en valeur de la faune et sa réglementation (chapitre C-61.1);
+
+— Accès et droits fonciers liés au domaine de l’État: mesures prévues par la Loi sur les terres du domaine de l’État (chapitre T-8.1) et la Loi sur le régime des eaux (chapitre R-13);
+
+— Circulation: mesures prévues en particulier par la Loi sur les terres du domaine de l’État (chapitre T-8.1) ainsi que par la réglementation sur la circulation de véhicules motorisés dans certains milieux fragiles édictée en vertu de la Loi sur la qualité de l’environnement (chapitre Q-2).
+
+(**4.3**) **Contrôle des activités**
+
+Le ministre du Développement durable, de l’Environnement et des Parcs est responsable de l’application de la Loi sur la conservation du patrimoine naturel; il est ainsi responsable de la gestion des réserves écologiques constituées en vertu de cette Loi et détient l’autorité sur ces terres qui font partie du domaine de l’État. Le ministre assure le contrôle et le suivi des mesures prévues par cette Loi quant au régime desactivités permises dans ces aires protégées. Dans sa gestion, le ministre bénéficie de la collaboration et de la participation d’autres intervenants gouvernementaux qui détiennent des responsabilités spécifiques sur ce territoire ou à proximité de celui-ci, tels que le ministre des Ressources naturelles et de la Faune et la municipalité de Shannon. L’exercice de leurs attributions tiendra notamment compte de la protection souhaitée pour ce milieu naturel et du statut de protection qui lui est maintenant accordé
+
+CANADA
+
+PROVINCE DE QUÉBEC
+
+DISTRICT DE QUÉBEC
+
+DESCRIPTION TECHNIQUE
+
+LOT(S): UNE PARTIE DES LOTS 395 À 407, 409 À 411, 424 À 435 ET 430-5
+
+MUNICIPALITÉ: SHANNON
+
+MUNICIPALITÉ RÉGIONALE DE COMTÉ:
+
+LA JACQUES-CARTIER
+
+RÉGION ADMINISTRATIVE:
+
+CAPITALE-NATIONALE
+
+CIRCONSCRIPTION FONCIÈRE: PORTNEUF
+
+CADASTRE: PAROISSE DE SAINTE-CATHERINE
+
+Pour: Ministère du Développement durable, de l’Environnement et des Parcs
+
+Objet: Réserve écologique de la Tourbière-de-Shannon
+
+Dossier Direction du patrimoine écologique et des parcs: 5143-03-03 (3.25)
+
+Un territoire comprenant les vingt-neuf (29) parcelles de terrain connues et désignées comme étant:
+
+**Lot 395 Ptie**
+
+Une partie du lot trois cent quatre-vingt-quinze (lot 395 Ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 436, mesurant le long de cette limite dix mètres et quatre-vingt-un centièmes (10,81 m); vers le Nord-Est, par une partie du lot 396, mesurant le long de cette limite deux cent douze mètres et onze centièmes (212,11 m); vers le Sud-Est, par une partie du lot 856 (chemin de fer désaffecté), mesurant le long de cette limite trente-sept mètres et quarante centièmes (37,40 m) et vers le Sud-Ouest, par une partie du lot 395, mesurant successivement le long de cette limite cent trente-quatre mètres et quatre-vingt-un centièmes (134,81 m) et quatre-vingt-huit mètres et huit centièmes (88,08 m).
+
+SUPERFICIE: 5 279,3 m^2
+
+(0,528 ha)
+
+**Lot 396 Ptie**
+
+Une partie du lot trois cent quatre-vingt-seize (lot 396 Ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 436 et partie du lot 435, mesurant le long de cette limite quatre-vingt-sept mètres et soixante-trois centièmes (87,63 m); vers le Nord-Est, par une partie du lot 397, mesurant le long de cette limite cent quatre-vingt-huit mètres et dix centièmes (188,10 m); vers le Sud-Est, par une partie du lot 856 (chemin de fer désaffecté), mesurant le long de cette limite quatre-vingt-dix mètres et vingt-quatre centièmes (90,24 m) et vers le Sud-Ouest, par une partie du lot 395, mesurant le long de cette limite deux cent douze mètres et onze centièmes (212,11 m).
+
+SUPERFICIE: 1,753 ha
+
+**Lot 397 Ptie**
+
+Une partie du lot trois cent quatre-vingt-dix-sept (lot 397 Ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 435 et 434, mesurant le long de cette limite cent soixante-dix-huit mètres et dix-sept centièmes (178,17 m); vers le Nord-Est, par une partie du lot 398, mesurant le long de cette limite cent quarante-six mètres et soixante centièmes (146,60 m); vers le Sud-Est, par une partie du lot 856 (chemin de fer désaffecté), mesurant successivement le long de cette limite soixante-douze mètres et cinquante-huit centièmes (72,58 m), le long d’un arc de cercle de 369,96 m de rayon et cent neuf mètres et soixante et un centièmes (109,61 m) et vers le Sud-Ouest, par une partie du lot 396, mesurant le long de cette limite cent quatre-vingt-huit mètres et dix centièmes (188,10 m).
+
+SUPERFICIE: 2,933 ha
+
+**Lot 398 Ptie**
+
+Une partie du lot trois cent quatre-vingt-dix-huit (lot 398 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie lot 434, mesurant le long de cette limite quatre-vingt-sept mètres et soixante-dix-neuf centièmes (87,79 m); vers le Nord-Est, une partie du lot 399, mesurant le long de cette limite cent cinquante mètres et soixante-six centièmes (150,66 m); vers le Sud-Est, par une partie du lot 856 (chemin de fer désaffecté), mesurant le long de cette limite quatre-vingt-huit mètres et vingt centièmes (88,20 m), le long d’un arc de cercle de 369,96 mètres de rayon et vers le Sud-Ouest, par une partie du lot 397, mesurant le long de cette limite cent quarante-six mètres et soixante centièmes (146,60 m).
+
+SUPERFICIE: 1,289 ha
+
+**Lot 399 Ptie**
+
+Une partie du lot trois cent quatre-vingt-dix-neuf (lot 399 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 434 et 433, mesurant le long de cette limite quatre-vingt-sept mètres et quarante-neuf centièmes (87,49 m); vers le Nord-Est, par une partie du lot 400, mesurant le long de cette limite cent soixante-cinq mètres et trente centièmes (165,30 m); vers le Sud-Est, par une partie du lot 856 (chemin de fer désaffecté), mesurant le long de cette limite quatre-vingt-neuf mètres et neuf centièmes (89,09 m) et vers le Sud-Ouest, par une partie du lot 398, mesurant le long de cette limite cent cinquante mètres et soixante-six centièmes (150,66 m).
+
+SUPERFICIE: 1,382 ha
+
+**Lot 400 Ptie**
+
+Une partie du lot quatre cents (lot 400 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 433 et 432, mesurant le long de cette limite cent soixante et onze mètres et neuf centièmes (171,09 m); vers le Nord-Est, une partie du lot 401, mesurant le long de cette limite cent soixante-dix-huit mètres et quatre-vingt-quatorze centièmes (178,94 m); vers le Sud-Est, par une partie du lot 400, mesurant le long de cette limite neuf mètres et quatorze centièmes (9,14 m); vers le Nord-Est, une partie du lot 400, mesurant le long de cette limite treize mètres et quarante centièmes (13,40 m); vers le Sud-Est, par une partie du lot 856 (chemin de fer désaffecté), mesurant le long de cette limite cent soixante-six mètres et vingt-deux centièmes (166,22 m) et vers le Sud-Ouest, par une partie du lot 399, mesurant le long de cette limite cent soixante-cinq mètres et trente centièmes (165,30 m).
+
+SUPERFICIE: 3,071 ha
+
+**Lot 401 Ptie**
+
+Une partie du lot quatre cent un (lot 401 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 432 et 431, mesurant le long de cette limite cent quatre-vingt-dix mètres (190,00 m); vers le Nord-Est, par une partie du lot 402, mesurant le long de cette limite deux cent cinquante-deux mètres et dix centièmes (252,10 m); vers le Sud-Est, par une partie du lot 856 (chemin de fer désaffecté), mesurant successivement le long de cette limite cent quarante-cinq mètres et soixante centièmes (145,60 m), le long d’un arc de cercle de 467,26 m de rayon et cinquante-trois mètres et soixante-trois centièmes (53,63 m) et vers le Sud-Ouest, une partie du lot 400, mesurant le long de cette limite cent quatre-vingt-quatorze mètres et dix-huit centièmes (194,18 m).
+
+SUPERFICIE: 4,111 ha
+
+**Lot 402 Ptie**
+
+Une partie du lot quatre cent deux (lot 402 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 431, mesurant le long de cette limite soixante et un mètres et trente-neuf centièmes (61,39 m); vers le Nord-Est, par une partie du lot 403, mesurant le long de cette limite deux cent quatre-vingt-onze mètres et quatre-vingt-dix-neuf centièmes (291,99 m); vers le Sud, par une partie du lot 856 (chemin de fer désaffecté), mesurant le long de cette limite soixante-treize mètres et soixante-deux centièmes (73,62 m), le long d’un arc de cercle de 467,26 m de rayon et vers le Sud-Ouest, par une partie du lot 401, mesurant le long de cette limite deux cent cinquante-deux mètres et dix centièmes (252,10 m).
+
+SUPERFICIE: 1,663 ha
+
+**Lot 403 Ptie**
+
+Une partie du lot quatre cent trois (lot 403 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 431 et 430, mesurant le long de cette limite cent seize mètres et quatre-vingt-quinze centièmes (116,95 m); vers le Nord-Est, par une partie du lot 404, mesurant le long de cette limite quatre cent dix-huit mètres et trente centièmes (418,30 m); vers le Sud, par une partie du lot 856 (chemin de fer désaffecté), mesurant successivement le long de cette limite cinquante-cinq mètres et quatre-vingt-seize centièmes (55,96 m) et cent dix-sept mètres et soixante-quatre centièmes (117,64 m), le long d’un arc de cercle de 467,26 m de rayon et vers le Sud-Ouest, par une partie du lot 402, mesurant le long de cette limite deux cent quatre-vingt-onze mètres et quatre-vingt-dix-neuf centièmes (291,99 m).
+
+SUPERFICIE: 4,083 ha
+
+**Lot 404 Ptie**
+
+Une partie du lot quatre cent quatre (lot 404 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 430 et 429, mesurant le long de cette limite cent quatre-vingt-dix mètres et quatre centièmes (190,04 m); vers le Nord-Est, par une partie du lot 405, mesurant le long de cette limite six cent soixante-deux mètres et soixante-quatorze centièmes (662,74 m); vers le Sud, par une partie du lot 856 (chemin de fer désaffecté), mesurant le long de cette limite trois cent onze mètres et onze centièmes (311,11 m) et vers le Sud-Ouest, par une partie du lot 403, mesurant le long de cette limite quatre cent dix-huit mètres et trente centièmes (418,30 m).
+
+SUPERFICIE: 10,271 ha
+
+**Lot 405 Ptie**
+
+Une partie du lot quatre cent cinq (lot 405 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 429 et 428, mesurant le long de cette limite deux cent soixante-dix mètres et soixante-dix-neuf centièmes (270,79 m); vers le Nord-Est, par une partie du lot 406, mesurant successivement le long de cette limite neuf cent vingt-trois mètres et quatre-vingt-huit centièmes (923,88 m) et trente et un mètres et quatorze centièmes (31,14 m); vers le Sud, par une partie du lot 856 (chemin de fer désaffecté), mesurant le long de cette limite trois cent soixante et onze mètres et vingt-six centièmes (371,26 m) et vers le Sud-Ouest, par une partie du lot 404, mesurant le long de cette limite six cent soixante-deux mètres et soixante-quatorze centièmes (662,74 m).
+
+SUPERFICIE: 20,422 ha
+
+**Lot 406 Ptie**
+
+Une partie du lot quatre cent six (lot 406 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 428, 427 et 426, mesurant le long de cette limite cent soixante-quinze mètres et quarante-deux centièmes (175,42 m); vers le Nord-Est, par une partie du lot 407, mesurant le long de cette limite mille treize mètres et quatre-vingt-quinze centièmes (1013,95 m); vers l’Est, par une partie du lot 406, mesurant le long de cette limite soixante-cinq mètres et soixante-quatorze centièmes (65,74 m); vers le Sud, par une partie du lot 406, mesurant le long de cette limite cent soixante et onze mètres et vingt-sept centièmes (171,27 m) et vers le Sud-Ouest, par une partie du lot 405, mesurant le long de cette limite neuf cent vingt-trois mètres et quatre-vingt-huit centièmes (923,88 m).
+
+SUPERFICIE: 16,717 ha
+
+**Lot 407 Ptie**
+
+Une partie du lot quatre cent sept (lot 407 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 426 et 425, mesurant le long de cette limite cent soixante-quinze mètres et quarante-deux centièmes (175,42 m); vers le Nord-Est, par une partie du lot 409, mesurant le long de cette limite neuf cent cinq mètres et quarante-quatre centièmes (905,44 m); vers le Sud-Est, par une partie du lot 407, mesurant le long de cette limite quarante-huit mètres et soixante-quatorze centièmes (48,74 m); vers l’Est, par une partie du lot 407, mesurant le long de cette limite cent soixante-dix-neuf mètres et un centième (179,01 m) et vers le Sud-Ouest, par une partie du lot 406, mesurant le long de cette limite mille treize mètres et quatre-vingt-quinze centièmes (1013,95 m).
+
+SUPERFICIE: 16,227 ha
+
+**Lot 409 Ptie**
+
+Une partie du lot quatre cent neuf (lot 409 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 425 et 424, mesurant le long de cette limite cent soixante-quinze mètres et quarante-deux centièmes (175,42 m); vers le Nord-Est, par une partie du 410, mesurant le long de cette limite neuf cent quatorze mètres et cinquante-cinq centièmes (914,55 m); vers l’Est, par une partie du lot 763 (Chemin de Gosford), mesurant le long de cette limite quarante-cinq mètres et quatre-vingt-onze centièmes (45,91 m); vers le Sud-Est, par une partie du lot 409, mesurant le long de cette limite cent quarante-sept mètres et trente-huit centièmes (147,38 m) et vers le Sud-Ouest, par une partie du lot 407, mesurant le long de cette limite neuf cent cinq mètres et quarante-quatre centièmes (905,44 m).
+
+SUPERFICIE: 16,154 ha
+
+**Lot 410 Ptie**
+
+Une partie du lot quatre cent dix (lot 410 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie des lots 424 et 422, mesurant le long de cette limite cent soixante-quinze mètres et quarante et un centièmes (175,41 m); vers le Nord-Est, par les lots 411-27, 411-1, 411-28, 411-10, 411-25, 411 ptie et 411-9, mesurant successivement le long de cette limite soixante mètres et quatre-vingt-quinze centièmes (60,95 m), quarante-trois mètres et cinquante-neuf centièmes (43,59 m), quarante-trois mètres et quatre-vingt-quinze centièmes (43,95 m), trente mètres et quatre-vingt-un centièmes (30,81 m), trente mètres et soixante-dix-neuf centièmes (30,79 m), trente mètres et quatre-vingt-deux centièmes (30,82 m) et quarante et un mètres et soixante-seize centièmes (41,76 m); vers le Sud-Est, par une partie du lot 411, mesurant le long de cette limite vingt et un mètres et quarante-deux centièmes (21,42 m); vers le Nord-Est, par une partie des lots 411 et 410, mesurant successivement le long de cette limite trente mètres et cinquante centièmes (30,50 m) et cent cinquante-deux mètres et cinquante centièmes (152,50 m); vers le Nord-Ouest, par une partie du lot 410, mesurant le long de cette limite trente et un mètres et quatre-vingt-sept centièmes (31,87 m); vers le Nord-Est, par une partie du lot 411, mesurant le long de cette limite cent quarante-trois mètres et trente et un centièmes (143,31 m); vers l’Est, par une partie du lot 763 (Chemin de Gosford), mesurant successivement le long de cette limite vingt-trois mètres et deux centièmes (23,02 m), cinquante-huit mètres et vingt-trois centièmes (58,23 m), deux cent vingt-huit mètres et quatorze centièmes (228,14 m), le long d’un arc de cercle de 680,88 m de rayon et soixante mètres et cinquante-deux centièmes (60,52 m) et vers le Sud-Ouest, par une partie du lot 409, mesurant le long de cette limite neuf cent quatorze mètres et cinquante-cinq centièmes (914,55 m).
+
+SUPERFICIE: 14,019 ha
+
+**Lot 411 Ptie**
+
+Une partie du lot quatre cent onze (lot 411 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 411, mesurant le long de cette limite quarante-cinq mètres et quatre-vingt-quatorze centièmes (45,94 m); vers le Nord-Est et l’Est, par une partie du lot 763 (Chemin de Gosford), mesurant successivement le long de cette limite quatre-vingt-onze mètres et dix-sept centièmes (91,17 m), vingt-sept mètres et deux centièmes (27,02 m) et vingt-deux mètres et quatre-vingt-dix centièmes (22,90 m) et vers le Sud-Ouest, par une partie du lot 410, mesurant le long de cette limite cent quarante-trois mètres et trente et un centièmes (143,31 m).
+
+SUPERFICIE: 3 465,1 m^2
+
+(0,347 ha)
+
+**Lot 424 Ptie**
+
+Le lot quatre cent vingt-quatre (lot 424 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 424, mesurant le long de cette limite cent soixante-quinze mètres et quarante-deux centièmes (175,42 m); vers le Nord-Est, par une partie du lot 422, mesurant le long de cette limite cent soixante-douze mètres et soixante et onze centièmes (172,71 m); vers le Sud-Est, par une partie des lots 410 et 409, mesurant le long de cette limite cent soixante-quinze mètres et quarante-deux centièmes (175,42 m) et vers le Sud-Ouest, par une partie du lot 425, mesurant le long de cette limite cent soixante-douze mètres et soixante et onze centièmes (172,71 m).
+
+SUPERFICIE: 3,030 ha
+
+**Lot 425 Ptie**
+
+Une partie du lot quatre cent vingt-cinq (lot 425 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par le chemin de Wexford (montré à l’originaire), mesurant successivement le long de cette limite soixante-six mètres et quatre centièmes (66,04 m), cinquante-huit mètres et soixante-douze centièmes (58,72 m) et soixante mètres et trente-deux centièmes (60,32 m), le long d’un arc de cercle de 549,24 m de rayon; vers le Nord-Est, par une partie du lot 424, mesurant le long de cette limite trois cent cinquante-neuf mètres et quarante-deux centièmes (359,42 m); vers le Sud-Est, par une partie des lots 409 et 407, mesurant le long de cette limite cent soixante-quinze mètres et quarante et un centièmes (175,41 m) et vers le Sud-Ouest, par une partie du lot 426, mesurant le long de cette limite trois cent quatre-vingt-cinq mètres et soixante-deux centièmes (385,62 m).
+
+SUPERFICIE: 6,700 ha
+
+**Lot 426 Ptie**
+
+Une partie du lot quatre cent vingt-six (lot 426 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 426, mesurant le long de cette limite cent soixante-dix-huit mètres et cinquante-huit centièmes (178,58 m); vers le Nord-Est, par une partie du lot 425, mesurant le long de cette limite deux cent cinquante mètres et huit centièmes (250,08 m); vers le Sud-Est, par une partie des lots 407 et 406, mesurant le long de cette limite cent soixante-quinze mètres et soixante-sept centièmes (175,67 m) et vers le Sud-Ouest, par une partie du lot 427, mesurant le long de cette limite deux cent cinquante mètres et dix-huit centièmes (250,18 m).
+
+SUPERFICIE: 4,427 ha
+
+**Lot 427 Ptie**
+
+Une partie du lot quatre cent vingt-sept (lot 427 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 427, mesurant le long de cette limite cent soixante-dix mètres et trente-deux centièmes (170,32 m); vers le Nord-Est, par une partie du lot 426, mesurant le long de cette limite deux cent cinquante mètres et dix-huit centièmes (250,18 m); vers le Sud-Est, par une partie du lot 406, mesurant le long de cette limite cent soixante-treize mètres et quatre centièmes (173,04 m) et vers le Sud-Ouest, par une partie du lot 428, mesurant le long de cette limite deux cent cinquante mètres et neuf centièmes (250,09 m).
+
+SUPERFICIE: 4,292 ha
+
+**Lot 428 Ptie**
+
+Une partie du lot quatre cent vingt-huit (lot 428 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 428, mesurant le long de cette limite cent quatre-vingt-dix mètres et quatorze centièmes (190,14 m); vers le Nord-Est, par une partie du lot 427, mesurant le long de cette limite deux cent cinquante mètres et neuf centièmes (250,09 m); vers le Sud-Est, par une partie des lots 406 et 405, mesurant le long de cette limite cent quatre-vingt-dix mètres et douze centièmes (190,12 m) et vers le Sud-Ouest, par une partie du lot 429, mesurant le long de cette limite deux cent cinquante mètres et neuf centièmes (250,09 m).
+
+SUPERFICIE: 4,753 ha
+
+**Lot 429 Ptie**
+
+Une partie du lot quatre cent vingt-neuf (lot 429 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 429, mesurant le long de cette limite cent soixante-quinze mètres et soixante et un centièmes (175,61 m); vers le Nord-Est, par une partie du lot 428, mesurant le long de cette limite deux cent cinquante mètres et neuf centièmes (250,09 m); vers le Sud-Est, par une partie des lots 405 et 404, mesurant le long de cette limite cent soixante-quinze mètres et soixante-dix huit centièmes (175,78 m) et vers le Sud-Ouest, par une partie du lot 430, mesurant le long de cette limite deux cent cinquante mètres et neuf centièmes (250,09 m).
+
+SUPERFICIE: 4,392 ha
+
+**Lot 430 Ptie**
+
+Une partie du lot quatre cent trente (lot 430 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 430, mesurant le long de cette limite cent sept mètres et vingt-sept centièmes (107,27 m); vers le Nord-Est, par une partie du lot 429, mesurant le long de cette limite deux cent cinquante mètres et neuf centièmes (250,09 m); vers le Sud-Est, par une partie des lots 404 et 403, mesurant le long de cette limite cent soixante-quinze mètres et quarante-cinq centièmes (175,45 m); vers le Sud-Ouest, par une partie du lot 431, mesurant le long de cette limite cent vingt-quatre mètres et vingt-sept centièmes (124,27 m); vers le Nord-Ouest, par une partie du lot 430-5, mesurant le long de cette limite soixante-huit mètres et quinze centièmes (68,15 m) et vers le Sud-Ouest, par une partie du lot 430-5, mesurant le long de cette limite cent vingt-quatre mètres et quatre centièmes (124,04 m).
+
+SUPERFICIE: 3,535 ha
+
+**Lot 430-5 Ptie**
+
+Une partie de la subdivision cinq du lot quatre cent trente (430-5 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 430-5, mesurant le long de cette limite soixante-huit mètres et dix-huit centièmes (68,18 m); vers le Nord-Est, par une partie du lot 430, mesurant le long de cette limite cent vingt-quatre mètres et quatre centièmes (124,04 m); vers le Sud-Est, par une partie du lot 430, mesurant le long de cette limite soixante-huit mètres et quinze centièmes (68,15 m) et vers le Sud-Ouest, par une partie du lot 431, mesurant le long de cette limite cent vingt-cinq mètres et quatre-vingt-deux centièmes (125,82 m).
+
+SUPERFICIE: 8 514,6 m^2
+
+(0,851 ha)
+
+**Lot 431 Ptie**
+
+Une partie du lot quatre cent trente et un (lot 431 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 431, mesurant le long de cette limite cent soixante-quinze mètres et dix centièmes (175,10 m); vers le Nord-Est, par lune partie des lots 430-5 et 430, mesurant le long de cette limite deux cent cinquante mètres et neuf centièmes (250,09 m); vers le Sud-Est, par une partie des lots 403, 402 et 401, mesurant le long de cette limite cent soixante-treize mètres et quatre-vingt-onze centièmes (173,91 m) et vers le Sud-Ouest, par une partie du lot 432, mesurant le long de cette limite deux cent cinquante mètres et douze centièmes (250,12 m).
+
+SUPERFICIE: 4,363 ha
+
+**Lot 432 Ptie**
+
+Une partie du lot quatre cent trente-deux (432 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 432, mesurant successivement le long de cette limite soixante-six mètres et soixante-dix-huit centièmes (66,78 m) et cent quatre mètres et soixante-deux centièmes (104,62 m); vers le Nord-Est, par une partie du lot 431, mesurant le long de cette limite deux cent cinquante mètres et douze centièmes (250,12 m); vers le Sud-Est, par une partie des lots 401 et 400, mesurant successivement le long de cette limite cent quatorze mètres et cinquante-six centièmes (114,56 m) et cinquante-six mètres et quatre-vingt-quatre centièmes (56,84 m) et vers le Sud-Ouest, par une partie du lot 433, mesurant le long de cette limite deux cent cinquante mètres et trente centièmes (250,30 m).
+
+SUPERFICIE: 4,285 ha
+
+**Lot 433 Ptie**
+
+Une partie du lot quatre cent trente-trois (lot 433 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 433, mesurant le long de cette limite cent soixante-quinze mètres et soixante-deux centièmes (175,62 m); vers le Nord-Est, par une partie du lot 432, mesurant le long de cette limite deux cent cinquante mètres et trente centièmes (250,30 m); vers le Sud-Est, par une partie des lots 400 et 399, mesurant le long de cette limite cent soixante-quinze mètres et soixante-deux centièmes (175,62 m) et vers le Sud-Ouest, par une partie du lot 434, mesurant le long de cette limite deux cent cinquante mètres et trente centièmes (250,30 m).
+
+SUPERFICIE: 4,391 ha
+
+**Lot 434 Ptie**
+
+Une partie du lot quatre cent trente-quatre (lot 434 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 434, mesurant le long de cette limite cent soixante-quinze mètres et soixante-deux centièmes (175,62 m); vers le Nord-Est, par une partie du lot 433, mesurant le long de cette limite deux cent cinquante mètres et trente centièmes (250,30 m); vers le Sud-Est, par une partie des lots 399, 398 et 397, mesurant le long de cette limite cent soixante-quinze mètres et soixante-deux centièmes (175,62 m) et vers le Sud-Ouest, par une partie du lot 435, mesurant le long de cette limite deux cent cinquante mètres et trente centièmes (250,30 m).
+
+SUPERFICIE: 4,390 ha
+
+**Lot 435 Ptie**
+
+Une partie du lot quatre cent trente-cinq (lot 435 ptie), du cadastre de la Paroisse de Sainte-Catherine, de la circonscription foncière de Portneuf, de la municipalité de Shannon, de figure irrégulière, bornée et décrite comme suit: vers le Nord-Ouest, par une partie du lot 435, mesurant le long de cette limite cent soixante-quinze mètres et soixante-deux centièmes (175,62 m); vers le Nord-Est, par une partie du lot 434, mesurant le long de cette limite deux cent cinquante mètres et trente centièmes (250,30 m); vers le Sud-Est, par une partie des lots 397 et 396, mesurant le long de cette limite cent soixante-quinze mètres et soixante-deux centièmes (175,62 m) et vers le Sud-Ouest, par une partie du lot 436, mesurant le long de cette limite deux cent cinquante mètres et trente centièmes (250,30 m).
+
+SUPERFICIE: 4,390 ha
+
+La superficie totale de la réserve écologique est de 168,77 ha (1,69 km^2).
+
+Le tout tel que montré sur le plan ci-annexé, préparé à Québec, le 12 mars 2009, par l’arpenteur-géomètre soussigné, sous le numéro 1455 de ses minutes.
+
+Dossier: 47-395
+
+Minute: 1455
+
+Vaillancourt Robitaille
+
+Savoie Bédard et Associés
+
+______________________________
+
+Bertrand Bussière,
+
+*arpenteur-géomètre*
+
+Copie conforme à l’original
+
+Québec, le 7 avril 2009
+
+par: ____________________________
+
+Bertrand Bussière,
+
+*arpenteur-géomètre*
+
+PLAN DE LA RÉSERVE ÉCOLOGIQUE DE LA TOURBIÈRE-DE-SHANNON
+
+[PDF: Document C-61.01 r. 66.1#01 - Ann (1 p.)]
+
+^1 Lagg: Partie surbaissée et minérotrophe d’une tourbière bombée.

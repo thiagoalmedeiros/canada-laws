@@ -1,0 +1,129 @@
+---
+type: "Regulation"
+title: "Regulation respecting the application of various provisions concerning detection systems"
+description: "Quebec regulation, CQLR c C-24.2, r 1.001."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-24.2,%20r.%201.001"
+tags: ["qc", "regulation", "en"]
+jurisdiction: "qc"
+language: "en"
+citation: "CQLR c C-24.2, r 1.001"
+document_date: "2025-05-08"
+translation: "../fr/CQLR-c-C-24.2-r-1.001.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-24.2,%20r.%201.001"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Regulation respecting the application of various provisions concerning detection systems
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/C-24.2,%20r.%201.001) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c C-24.2, r 1.001*
+
+*Enabling statute: Highway Safety Code (chapter C-24.2, s. 602.2)*
+
+*Updated to 2025-05-08*
+
+## I — PROVISIONS OF THE HIGHWAY SAFETY CODE WITH WHICH COMPLIANCE MAY BE MONITORED BY MEANS OF A DETECTION SYSTEM
+
+**1** Compliance with the following provisions may be monitored by means of a detection system:
+
+(1) with respect to compliance with speed limits: the second paragraph of section 299, sections 303.2 and 328, the third paragraph of section 329 and sections 496.4 and 496.7 of the Highway Safety Code (chapter C-24.2); and
+
+(2) with respect to compliance with stops at red lights: section 359 of the Code.
+
+## I.1 — CRITERIA FOR DESIGNATING A PUBLIC HIGHWAY OR PART OF A PUBLIC HIGHWAY
+
+**1.1** The designation of a public highway by the Minister under subparagraph 3 of the first paragraph of section 519.80 of the Highway Safety Code (chapter C-24.2) is made taking into account the following criteria:
+
+(1) the difference between the number of accidents that occurred on that public highway and the average number of accidents that occurred on public highways of its reference family;
+
+(2) the difference between the severity index of the accidents that occurred on that public highway and the average severity index of the accidents that occurred on public highways of its reference family;
+
+(3) the difference between the average annual daily flow of that public highway and the average annual daily flow of public highways of its reference family;
+
+(4) the factors likely to increase the concentration of vulnerable users in the vicinity of that public highway, in particular the presence of schools, sports or cultural facilities, parks or bicycle paths;
+
+(5) the existence of an issue of non-compliance with the speed limit on that public highway;
+
+(6) the fact that the characteristics of the public highway make its monitoring by officers of the peace difficult or inappropriate.
+
+**1.2** For the purposes of section 1.1,
+
+(1) **reference family** means a set of public highways grouped together on the basis of similar characteristics having an impact on accident rates, in particular the speed limit, number of lanes and geometric configuration;
+
+(2) **severity index** means an index determined according to the following formula:
+
+[9.5×(F+SI)+3.5×MI+MDO]/N
+
+where
+
+F is the number of fatal accidents;
+
+SI is the number of accidents involving serious injuries;
+
+MI is the number of accidents involving minor injuries;
+
+MDO is the number of accidents involving material damage only;
+
+N is the total number of accidents;
+
+(3) **average annual daily flow** means the number of road vehicles operated on a public highway in a year, divided by the number of days in the year.
+
+For the purposes of this Chapter, the expression **public highway** includes a part of a public highway.
+
+## II — FAILURES TO COMPLY GIVING RISE TO THE IMPOSITION OF A MONETARY ADMINISTRATIVE PENALTY
+
+**2** In the case of a failure to comply with the second paragraph of section 299, section 328, the third paragraph of section 329 or sections 496.4 and 496.7 of the Highway Safety Code (chapter C-24.2) observed by means of a detection system, a monetary administrative penalty may be imposed on the owner of the road vehicle with which the failure to comply was committed, in the amount of $30, plus
+
+(1) if the speed exceeds the speed limit by 1 to 20 km/h, $10 for each 5 km/h by which the speed exceeds the speed limit;
+
+(2) if the speed exceeds the speed limit by 21 to 30 km/h, $15 for each 5 km/h by which the speed exceeds the speed limit;
+
+(3) if the speed exceeds the speed limit by 31 to 45 km/h, $20 for each 5 km/h by which the speed exceeds the speed limit; or
+
+(4) if the speed exceeds the speed limit by 46 to 59 km/h, $25 for each 5 km/h by which the speed exceeds the speed limit.
+
+No monetary administrative penalty may be imposed in the case of a failure to comply with the provisions set out in the first paragraph in the following cases:
+
+(1) in a zone where the maximum authorized speed limit is 60 km/h or less, if the speed of the road vehicle measured by means of a detection system is 40 km/h or more over the posted speed limit;
+
+(2) in a zone where the maximum authorized speed limit is over 60 km/h but not over 90 km/h, if the speed of the road vehicle measured by means of a detection system is 50 km/h or more over the posted speed limit;
+
+(3) in a zone where the maximum authorized speed limit is over 90 km/h, if the speed of the road vehicle measured by means of a detection system is 60 km/h or more over the posted speed limit;
+
+(4) in a school zone, during the school period within the meaning of the Regulation to govern the establishment of school zones and define the school period (chapter C-24.2, r. 24.01); or
+
+(5) in a place where, in accordance with section 303.1, signs or signals indicate, for the duration of work for the construction or maintenance of a public highway, a speed limit to be respected other than the prescribed speed limit.
+
+## III — ELEMENTS OF A PHOTOGRAPH OR SERIES OF PHOTOGRAPHS THAT ARE PROOF OF THEIR ACCURACY
+
+**3** The photograph or series of photographs taken by a detection system is proof of the accuracy of the following elements that are affixed to or visible in one or more of the photographs:
+
+(1) the place where the photograph or series of photographs was taken, with reference to an identifier or otherwise;
+
+(2) the date and time on which the photograph was taken;
+
+(3) the road vehicle; and
+
+(4) the registration plate number of the road vehicle.
+
+**4** The photograph or series of photographs taken by a detection system is also proof of the accuracy of the following elements that are affixed to or visible in one or more of the photographs:
+
+(1) if the detection system is used to measure or calculate speed,
+
+(a) the authorized speed limit, except the speed limit set under any of sections 299, 303.1 and 329, and
+
+(b) the speed of the road vehicle recorded by the detection system; and
+
+(2) if the detection system is used to monitor traffic at red lights, the traffic light involved.

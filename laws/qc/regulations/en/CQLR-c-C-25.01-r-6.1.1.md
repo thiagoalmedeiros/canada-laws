@@ -1,0 +1,183 @@
+---
+type: "Regulation"
+title: "Pilot project to amend certain rules of the Code of Civil Procedure or by making new rules to facilitate proceedings or applications between provinces or between a province and a designated jurisdiction for support orders under the Divorce Act"
+description: "Quebec regulation, CQLR c C-25.01, r 6.1.1."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-25.01,%20r.%206.1.1"
+tags: ["qc", "regulation", "en"]
+jurisdiction: "qc"
+language: "en"
+citation: "CQLR c C-25.01, r 6.1.1"
+document_date: "2024-02-29"
+translation: "../fr/CQLR-c-C-25.01-r-6.1.1.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-25.01,%20r.%206.1.1"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Pilot project to amend certain rules of the Code of Civil Procedure or by making new rules to facilitate proceedings or applications between provinces or between a province and a designated jurisdiction for support orders under the Divorce Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/C-25.01,%20r.%206.1.1) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c C-25.01, r 6.1.1*
+
+*Enabling statute: Code of Civil Procedure (chapter C-25.01, a. 28)*
+
+*Updated to 2024-02-29*
+
+## I — GENERAL
+
+**1** This Regulation applies to a proceeding or application between provinces or between a province and a designated jurisdiction to obtain, vary, rescind or suspend a support order made under sections 18 to 19.1 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)). It also applies to a procedure related to such a proceeding or application.
+
+Any such proceeding or application instituted in Québec and any procedure related thereto are deemed to be family matters within the meaning of the Code of Civil Procedure (chapter C-25.01).
+
+**2** This Regulation applies in all judicial districts.
+
+**3** A rule set out in this Regulation overrides any provision to the contrary in the Code of Civil Procedure (chapter C-25.01).
+
+The following provisions of the Code are not applicable to a proceeding or application referred to in section 1 that is submitted in Québec:
+
+(1) the third paragraph of article 1;
+
+(2) articles 17 and 20;
+
+(3) articles 99 to 104;
+
+(4) article 107;
+
+(5) articles 145 to 152;
+
+(6) articles 161 to 165;
+
+(7) the third paragraph of article 170;
+
+(8) articles 171 to 183;
+
+(9) articles 206 to 208;
+
+(10) article 210;
+
+(11) articles 212 to 230;
+
+(12) articles 246 to 320;
+
+(13) article 336;
+
+(14) articles 339 to 344;
+
+(15) articles 391 to 408;
+
+(16) article 410;
+
+(17) the second paragraph of article 411;
+
+(18) articles 412 to 443;
+
+(19) articles 445, 448 and 449;
+
+(20) articles 451 to 456.1;
+
+(21) articles 458 to 488;
+
+(22) articles 490 and 492;
+
+(23) articles 494 to 655;
+
+(24) articles 778 to 836;
+
+(25) Schedule I.
+
+Similarly, section 26.1 of the Regulation of the Superior Court of Québec in family matters (chapter C-25.01, r. 0.2.4) is not applicable to a proceeding or application referred to in section 1 that is submitted in Québec.
+
+**4** For the purposes of article 45 of the Code of Civil Procedure (chapter C-25.01), if the Québec respondent has no domicile in Québec but is habitually resident there within the meaning of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)), that residence is deemed to be the domicile of the Québec respondent for the purposes of that article.
+
+**5** Where, under the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)), evidence or submissions may be presented by affidavit, article 105 of the Code of Civil Procedure (chapter C-25.01) is applicable to the affidavit provided that the examination of the person who swore the oath may be conducted in writing or by any technological means.
+
+**6** Child support payable by a parent in relation to any application or proceeding referred to in section 1 is determined in accordance with the Federal Child Support Guidelines (SOR/97-175).
+
+## II — APPLICATION PROCEDURE
+
+**7** An application for a support order filed under paragraph *a* of subsection 1 of section 18.1 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)) by a Québec applicant is submitted by means of the form prescribed by the designated authority of the Canadian province or territory in which the respondent resides. The application is sent to the Minister of Justice, who forwards it to the designated authority in the Canadian province or territory concerned.
+
+An application for a support order filed under paragraph *a* of subsection 1 of section 18.1 of the Divorce Act by an applicant who resides in another Canadian province or territory is submitted by means of the form attached in the schedule and the documents that must be produced with it.
+
+**8** The response of the Québec respondent to an application for a support order under paragraph *a* of subsection 1 of section 18.1 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)) is submitted by means of the form attached in the schedule and the documents that must be produced with it. Within 30 days after service of the application, the response is filed with the office of the Superior Court and a copy is forwarded to the Minister of Justice.
+
+If the respondent fails to produce a response within the specified time, the order is rendered by default.
+
+**9** An application for a support order filed under paragraph *a* of subsection 1 of section 19 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)) by an applicant who resides in a designated jurisdiction within the meaning of section 18 of that Act is submitted by means of the form attached in the schedule and the documents that must be produced with it.
+
+The response of the Québec respondent is submitted by means of the form attached in the schedule and the documents that must be produced with it. Within 30 days after service of the application, the response is filed with the office of the Superior Court and a copy is forwarded to the Minister of Justice.
+
+If the respondent fails to produce a response within the specified time, the order is rendered by default.
+
+**10** On receipt of an application under section 7 or 9, the clerk of the Superior Court records the application in the registers of the Court and, where applicable, opens and assigns an identification number to the case record.
+
+**11** If, under subsection 13 of section 18.1 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)), the Superior Court of Québec requires further evidence from an applicant who resides in another Canadian province or territory, it asks the Minister of Justice to communicate with the designated authority in the province or territory in which the applicant resides.
+
+Similarly, if the court of another Canadian province or territory requires further evidence from a Québec applicant, the designated authority in the other province or territory asks the Minister of Justice to communicate with that applicant.
+
+**12** If, under subsection 11 of section 19 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)), the Superior Court requires further evidence from an applicant who resides in a designated jurisdiction within the meaning of section 18 of that Act, it asks the Minister of Justice to communicate with the applicant or the responsible authority in the designated jurisdiction.
+
+**13** The clerk of the Superior Court serves the Québec respondent, in accordance with articles 116 to 120 of the Code of Civil Procedure (chapter C-25.01), any application for a support order that concerns the respondent and that is filed by an applicant who resides in another Canadian province or territory or in a designated jurisdiction within the meaning of section 18 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)).
+
+The application is accompanied by the documents it contains and by a notice that explains the manner in which the respondent must respond to the application and sets out the respondent’s obligation, where applicable, to provide documents or information.
+
+## III — CONDUCT OF THE PROCEEDING
+
+**14** The provisions of the Code of Civil Procedure (chapter C-25.01) that are applicable to applications for a support order referred to in section 18.1 or 19 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)) are adapted so that any reference to the case protocol referred to in articles 148 to 152 are removed.
+
+**15** Where the Superior Court convenes a case management conference under articles 153 to 156 of the Code of Civil Procedure (chapter C-25.01) in respect of an application for a support order referred to in section 18.1 or 19 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)) submitted by an applicant who resides in another Canadian province or territory or in a designated jurisdiction within the meaning of section 18 of that Act, the court clerk calls the Minister of Justice to the conference.
+
+Articles 153 to 156 are applicable taking into account the participation of the Minister.
+
+**16** When the court clerk sets down the case for trial and judgment, the court clerk notifies a notice of the scheduled trial date, unless a trial date was set by the Superior Court under article 154 of the Code of Civil Procedure (chapter C-25.01), to the Québec respondent, the Québec respondent’s attorney, where applicable, and to the Minister of Justice. The Court notice is presumed to have been received if the notification is recorded in the court register.
+
+The fact that a party did not receive the notice is not grounds for postponing the trial if its lawyer received it.
+
+If the Québec respondent fails to attend the trial, the order is rendered by default.
+
+## IV — DISCONTINUANCE
+
+**17** Discontinuance by an applicant who resides in another Canadian province or territory or in a designated jurisdiction within the meaning of section 18 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)) is made by means of the form attached in the schedule and the documents that must be produced with it.
+
+Discontinuance terminates the proceeding as soon as the Minister of Justice files the form with the office of the Superior Court. The discontinuance is notified to the other parties by the court clerk.
+
+Discontinuance restores matters to their former state.
+
+## V — ORDER
+
+**18** The order of the Superior Court under section 18.1 or 19 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)) pertains to support only.
+
+**19** A decision referred to in section 19.1 or an order referred to in section 20 of the Divorce Act (R.S.C. 1985, c. 3 (2nd Suppl.)) is enforceable as soon as it is filed with the office of the Superior Court. The court clerk forwards the order to the Québec parties and to the Minister of Justice.
+
+The filing under the first paragraph constitutes the registration prescribed by section 19.1 or 20 of the Divorce Act.
+
+The enforcement of a decision or order referred to in the first paragraph is carried out by the Agence du revenu du Québec under the Act to facilitate the payment of support (chapter P-2.2).
+
+## VI — FINAL
+
+**20** (Omitted in part).
+
+This pilot project ceases to have effect on 1 March 2026.
+
+## Schedule I — s. 7, 2nd par. and s. 9, 1st par. — APPLICATION FOR A SUPPORT ORDER AND APPLICATION TO VARY, RESCIND OR SUSPEND A SUPPORT ORDER
+
+[PDF: C-25.01R6.1.1_EN_001_001.pdf (15 p.)]
+
+## Schedule II — s. 8, 2nd par. and s. 9, 2nd par. — RESPONSE OF THE RESPONDENT TO THE APPLICATION TO OBTAIN, VARY, RESCIND OR SUSPEND A SUPPORT ORDER
+
+[PDF: C-25.01R6.1.1_EN_002_001.pdf (9 p.)]
+
+## Schedule III — s. 17, 1st par. — Discontinuance
+
+[PDF: C-25.01R6.1.1_EN_003_001.pdf (1 p.)]

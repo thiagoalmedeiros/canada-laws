@@ -1,0 +1,397 @@
+---
+type: "Regulation"
+title: "Règlement sur la discipline interne des membres du corps de police spécialisé dans la lutte contre la corruption"
+description: "Règlement (Québec), RLRQ c P-13.1, r 2.001."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/P-13.1,%20r.%202.001"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c P-13.1, r 2.001"
+document_date: "2022-09-01"
+translation: "../en/CQLR-c-P-13.1-r-2.001.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/P-13.1,%20r.%202.001"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur la discipline interne des membres du corps de police spécialisé dans la lutte contre la corruption
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/P-13.1,%20r.%202.001) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c P-13.1, r 2.001*
+
+*Loi habilitante: Loi sur la police (chapitre P-13.1, a. 257, 3e al.)*
+
+*À jour au 2022-09-01*
+
+## I — OBJET, CHAMP D’APPLICATION ET DISPOSITIONS INTERPRÉTATIVES
+
+**1** Le présent règlement a pour objet de favoriser le maintien de la discipline et de l’éthique nécessaires pour assurer l’intégrité organisationnelle du corps de police spécialisé dans la lutte contre la corruption formé à l’article 8.4 de la Loi concernant la lutte contre la corruption (chapitre L-6.1).
+
+À cette fin, il impose aux membres de ce corps de police, lesquels sont visés au paragraphe 1 de l’article 8.4 de cette loi, des devoirs et des normes de conduite propres à assurer leur efficacité, la qualité de leur service et le respect des autorités dont ils relèvent.
+
+De plus, il définit les comportements constituant des fautes disciplinaires, établit une procédure disciplinaire, détermine les pouvoirs des autorités en matière de discipline et établit des sanctions.
+
+**2** Les pouvoirs attribués au commissaire à la lutte contre la corruption par le présent règlement, à l’exception de celui relatif à la nomination du responsable du traitement des plaintes, peuvent être exercés par un membre de la direction du corps de police que le commissaire désigne.
+
+Pour l’application du présent règlement, on entend par **membre de la direction** le commissaire associé aux enquêtes et toute autre personne faisant partie de la haute direction du corps de police, tout membre du corps de police visé au sous-paragraphe *i* du sous-paragraphe *c* du paragraphe 1 de l’article 8.4 de la Loi concernant la lutte contre la corruption (chapitre L-6.1) ainsi que le responsable des ressources humaines.
+
+Lorsqu’un membre du corps de police visé au sous-paragraphe *i* du sous-paragraphe *c* du paragraphe 1 de l’article 8.4 de la Loi concernant la lutte contre la corruption exerce un pouvoir à titre de membre de la direction désigné par le commissaire conformément au premier alinéa ou un pouvoir confié à un membre de la direction par une disposition du présent règlement, il doit être de rang égal ou supérieur à celui du membre qui fait l’objet de la plainte.
+
+**3** Le présent règlement ne doit pas être interprété comme restreignant, notamment, le pouvoir administratif du commissaire ou d’un membre de la direction de relever provisoirement, avec ou sans traitement, un membre soupçonné d’avoir commis une infraction criminelle ou pénale ou une faute disciplinaire grave ou pour tout autre motif nécessitant un relevé provisoire ou de mettre fin à la période probatoire d’un membre, même pour un motif d’ordre disciplinaire.
+
+## II — DEVOIRS ET NORMES DE CONDUITE DES MEMBRES
+
+**4** Le membre doit respecter son serment professionnel ainsi que son serment de discrétion.
+
+Le membre doit notamment:
+
+(1) s’abstenir d’utiliser à des fins personnelles ou dans le but d’en tirer un avantage ou un profit toute information obtenue dans l’exercice ou à l’occasion de l’exercice de ses fonctions, ou en raison de son statut, de ses fonctions ou de sa situation au sein du corps de police;
+
+(2) s’abstenir de détruire, de soustraire ou de modifier tout document officiel du corps de police ou tout document obtenu ou rédigé pour celui-ci, sauf autorisation du commissaire;
+
+(3) s’abstenir de révéler, de transmettre ou de communiquer des informations ou de faire des déclarations relatives à une enquête ou aux activités du corps de police ou aux activités des équipes désignées par le gouvernement conformément à l’article 8.5 de la Loi concernant la lutte contre la corruption (chapitre L-6.1), sauf autorisation de la loi ou du commissaire.
+
+**5** Le membre doit exercer ses fonctions avec désintéressement et intégrité et éviter toute situation de conflit d’intérêts ou d’apparence de conflit d’intérêts de nature à compromettre son impartialité dans l’accomplissement de ses fonctions ou de nature à influencer défavorablement son jugement et sa loyauté.
+
+Le membre doit notamment:
+
+(1) refuser ou éviter la recherche d’avantages ou de faveurs pour lui-même ou pour autrui, quelle qu’en soit la nature ou la provenance, en raison de son statut, sauf autorisation du commissaire;
+
+(2) s’abstenir d’utiliser son statut à des fins personnelles ou à l’avantage d’autrui;
+
+(3) s’abstenir, directement ou indirectement, de se livrer à du trafic d’influence, d’obtenir ou de tenter d’obtenir une somme d’argent, une faveur ou tout autre avantage en échange d’une faveur quelconque;
+
+(4) s’abstenir d’accepter, de solliciter ou d’exiger, directement ou indirectement, une somme d’argent, une faveur ou tout autre avantage ou considération de nature à compromettre son impartialité dans l’accomplissement de ses fonctions;
+
+(5) s’abstenir de se placer dans une situation où il serait en conflit d’intérêts lorsqu’il sollicite, recueille ou permet qu’on sollicite ou recueille auprès du public de l’argent par la vente d’annonces publicitaires ou de billets ou de quelque autre façon, au profit d’une personne, d’une organisation ou d’une association;
+
+(6) s’abstenir de verser, d’offrir de verser ou de s’engager à offrir une somme d’argent, une faveur ou tout autre avantage ou considération à une personne de nature à compromettre l’impartialité de cette personne dans l’accomplissement de ses fonctions ou pour qu’elle intercède en sa faveur dans le but d’obtenir de l’avancement ou tout autre changement dans son statut;
+
+(7) s’abstenir de suggérer ou de recommander à une personne avec laquelle il a été en contact dans l’exercice de ses fonctions, les biens et les services d’un professionnel, d’un commerçant ou de toute autre entreprise;
+
+(8) s’abstenir d’agir à titre de caution dans une affaire de la compétence d’un tribunal de juridiction criminelle ou pénale, sauf dans les cas où des relations familiales avec la personne inculpée le justifient;
+
+(9) s’abstenir de signer une lettre de recommandation ou tout autre attestation qu’il sait ou devrait raisonnablement savoir fausse ou inexacte;
+
+(10) s’abstenir d’occuper un emploi ou d’exercer une activité incompatible avec la fonction de membre du corps de police;
+
+(11) s’abstenir d’exploiter un commerce ou une entreprise, d’occuper un emploi, d’exercer un métier ou une activité ou d’avoir un intérêt direct ou indirect dans une entreprise qui serait de nature à compromettre son indépendance ou celle du corps de police, les valeurs du corps de police ou à diminuer son rendement pendant les heures de travail;
+
+(12) s’abstenir de solliciter, de recueillir ou de permettre qu’on sollicite ou recueille de l’argent, des biens ou des services auprès d’une personne, d’une entreprise ou de tout autre organisme qu’il sait ou devrait raisonnablement savoir ne pas être de bonnes mœurs.
+
+**6** Le membre doit faire preuve de neutralité politique dans l’exercice de ses fonctions.
+
+Le membre doit notamment:
+
+(1) s’abstenir d’être présent en uniforme à une assemblée de nature politique ou d’y porter un effet avec un nom, un logo, un signe distinctif, un dessin ou une image associé au corps de police ou à l’Unité permanente anticorruption, sauf s’il est dans l’exercice de ses fonctions;
+
+(2) s’abstenir de manifester ou d’exprimer publiquement ses opinions politiques, de solliciter des fonds pour un candidat à une élection, pour une instance politique ou pour un parti politique ou de s’afficher publiquement comme appuyant un candidat à une élection ou un parti politique;
+
+(3) s’abstenir de se livrer à toute activité politique prohibée par la Loi sur la police (chapitre P-13.1).
+
+**7** Le membre doit respecter les autorités dont il relève et obéir promptement à leurs ordres verbaux ou écrits, à leurs demandes ainsi qu’à leurs directives. Le membre doit également faire preuve de loyauté envers le corps de police, ses supérieurs et les autres membres.
+
+Le membre doit notamment:
+
+(1) respecter toute procédure, toute directive ou toute politique en vigueur au sein du corps de police;
+
+(2) s’abstenir de refuser ou d’omettre de rendre compte à un supérieur des gestes et des activités effectués pendant ses heures de travail, ou en dehors de celles-ci lorsqu’il agit ou s’identifie à titre de membre du corps de police;
+
+(3) fournir, à la demande d’un supérieur, un rapport concernant les activités qu’il a effectuées dans l’exercice de ses fonctions;
+
+(4) rendre compte, sur demande d’un supérieur, des gestes et des activités incompatibles avec l’exercice de ses fonctions;
+
+(5) accomplir le travail assigné de façon générale ou spécifique et se trouver au lieu désigné par son supérieur, sauf si des motifs sérieux reliés à l’exercice de ses fonctions justifient d’accomplir une autre tâche ou de quitter ce lieu et qu’il en informe promptement son supérieur;
+
+(6) s’abstenir d’inciter quiconque au refus d’accomplir le travail;
+
+(7) faire rapport par écrit à son supérieur chaque fois que, dans l’exercice de ses fonctions, il fait usage d’une arme de service ou qu’il participe à une poursuite automobile;
+
+(8) respecter une citation à comparaître à titre de témoin;
+
+(9) adopter une attitude respectueuse et polie à l’égard de ses supérieurs, de ses collègues ou de ses subalternes;
+
+(10) s’abstenir de diffamer les autorités du corps de police, ses supérieurs, ses collègues, ses subalternes ainsi que les personnes qui forment les équipes désignées par le gouvernement conformément à l’article 8.5 de la Loi concernant la lutte contre la corruption (chapitre L-6.1).
+
+**8** Le membre doit faire preuve de dignité et de réserve et éviter tout comportement de nature à lui faire perdre la confiance ou la considération que requièrent ses fonctions ou de nature à compromettre l’image, l’indépendance ou l’efficacité du corps de police.
+
+Le membre doit notamment:
+
+(1) s’abstenir de fréquenter sans justification des personnes qu’il sait ou devrait raisonnablement savoir ne pas être de bonnes mœurs, de même que de fraterniser sans justification avec de telles personnes;
+
+(2) s’abstenir de fréquenter sans justification professionnelle des lieux où se trouvent habituellement des personnes qu’il sait ou devrait raisonnablement savoir ne pas être de bonnes mœurs;
+
+(3) traiter toute personne avec courtoisie et respect;
+
+(4) s’abstenir d’utiliser tout langage obscène ou injurieux;
+
+(5) s’abstenir d’abuser de son autorité ou de faire de l’intimidation ou du harcèlement;
+
+(6) s’abstenir de recourir à une force plus grande que nécessaire pour accomplir ce qui lui est enjoint ou permis de faire;
+
+(7) s’abstenir d’endommager ou de détruire malicieusement, de perdre par négligence ou de céder illégalement un bien public ou privé;
+
+(8) s’abstenir d’exhiber, de manipuler ou de pointer une arme de service sans justification;
+
+(9) s’abstenir, lorsqu’il est dans l’exercice de ses fonctions, ou en tout temps lorsqu’il porte un effet avec un nom, un logo, un signe distinctif, un dessin ou une image associé au corps de police ou à l’Unité permanente anticorruption, d’acheter, de transporter, de consommer ou de vendre des boissons alcooliques ou du cannabis, sauf si son travail le requiert ou sauf autorisation du commissaire;
+
+(10) s’abstenir, lorsqu’il est dans l’exercice de ses fonctions, ou en tout temps lorsqu’il porte un effet avec un nom, un logo, un signe distinctif, un dessin ou une image associé au corps de police ou à l’Unité permanente anticorruption, d’être sous l’influence de boissons alcooliques, de stupéfiants, d’hallucinogènes, de préparations narcotiques ou anesthésiques ou de toute autre substance de même nature pouvant produire l’ivresse, l’affaiblissement ou la perturbation des facultés ou l’inconscience;
+
+(11) s’abstenir de garder dans un véhicule ou dans un local du corps de police ou qui est mis à la disposition de ce dernier des boissons alcooliques, des stupéfiants, des hallucinogènes, des préparations narcotiques ou anesthésiques ou toute autre substance de même nature pouvant produire l’ivresse, l’affaiblissement ou la perturbation des facultés ou l’inconscience, sauf autorisation du commissaire;
+
+(12) s’abstenir d’acheter, de vendre ou de posséder des stupéfiants ou toute autre substance de même nature dont la vente est prohibée ou réglementée, de même que d’agir à titre d’intermédiaire dans un de ces cas, sauf si son travail le requiert;
+
+(13) s’abstenir de consommer immodérément des boissons alcooliques ou du cannabis dans un lieu public;
+
+(14) s’abstenir, lorsqu’il est dans l’exercice de ses fonctions, ou en tout temps lorsqu’il porte un effet avec un nom, un logo, un signe distinctif, un dessin ou une image associé au corps de police ou à l’Unité permanente anticorruption, d’avoir une tenue ou une attitude négligée ou non conforme aux directives du corps de police;
+
+(15) s’abstenir de porter ou d’utiliser, lorsqu’il est dans l’exercice de ses fonctions, une arme ou une pièce d’équipement autre que celles qui lui ont été remises par le corps de police, sauf autorisation du commissaire;
+
+(16) s’abstenir de faire toute manœuvre ou fausse déclaration visant à prolonger un congé, à retarder un retour au travail ou à s’absenter du travail;
+
+(17) observer toute loi ou tout règlement;
+
+(18) s’abstenir d’amener ou d’inciter un autre membre à commettre une infraction à toute loi ou à tout règlement par son aide, ses encouragements, ses conseils, son consentement, son autorisation ou un ordre;
+
+(19) s’abstenir de porter son arme de service ou son insigne ou d’utiliser d’autres effets appartenant au corps de police ou à l’Unité permanente anticorruption lorsqu’il n’est pas en devoir, sauf autorisation du commissaire, ou lorsque, alors qu’il est censé être en devoir, il exerce des activités qui n’entrent pas dans ses attributions.
+
+**9** Le membre doit accomplir ses tâches consciencieusement, avec diligence et efficacité.
+
+Le membre doit notamment:
+
+(1) se conformer à son horaire de travail et accomplir le travail qui lui est assigné;
+
+(2) s’abstenir de faire preuve de négligence, d’insouciance ou d’un manque de rigueur dans l’accomplissement de ses tâches;
+
+(3) s’abstenir de manquer de vigilance dans l’accomplissement de ses tâches;
+
+(4) s’abstenir de s’absenter du travail sans permission;
+
+(5) s’abstenir d’échanger avec un autre membre des tâches ou un quart de travail sans la permission de son supérieur;
+
+(6) transmettre avec célérité à son supérieur tout renseignement sur les crimes, les infractions, les faits ou les événements d’importance dont il est témoin ou dont il a connaissance;
+
+(7) maintenir en bon état de fonctionnement une arme ou des munitions qui lui sont confiées et les remiser conformément aux lois, aux règlements et aux directives applicables;
+
+(8) s’abstenir de faire preuve de négligence dans la garde ou la surveillance d’un détenu ou de toute autre personne dont il a la responsabilité;
+
+(9) protéger, conserver et assurer l’intégrité de tout bien dont le corps de police ou l’un de ses membres a l’usage ou la garde;
+
+(10) maintenir en bon état tout équipement et tout effet fourni par le corps de police.
+
+**10** Le membre doit agir avec probité.
+
+Le membre doit notamment:
+
+(1) remettre toute somme d’argent ou tout autre bien reçu à titre de membre du corps de police et en rendre compte sans délai;
+
+(2) réclamer ou autoriser seulement le remboursement de dépenses engagées, le paiement d’heures de travail effectuées ou le paiement de primes justifiées;
+
+(3) s’abstenir d’utiliser ou de permettre d’utiliser, à des fins autres que celles autorisées, un véhicule du corps de police ou tout autre bien lui appartenant;
+
+(4) s’abstenir de faire monter une personne dans un véhicule du corps de police autrement que dans le cadre des activités de ce dernier, sauf autorisation du commissaire;
+
+(5) s’abstenir de présenter ou de signer un rapport ou un autre écrit qu’il sait ou devrait raisonnablement savoir faux ou inexact;
+
+(6) s’abstenir de prêter, de vendre ou de céder un effet ou une pièce d’équipement fourni par le corps de police, sauf autorisation du commissaire;
+
+(7) informer sans délai et par écrit le commissaire qu’il fait l’objet d’une enquête criminelle, d’une poursuite criminelle ou d’une décision le déclarant coupable d’une infraction criminelle;
+
+(8) informer sans délai et par écrit le commissaire du comportement d’un autre membre susceptible de constituer une infraction criminelle ou, s’il en a une connaissance personnelle, susceptible de constituer une faute disciplinaire ou déontologique touchant la protection des droits ou la sécurité du public;
+
+(9) participer ou collaborer à toute enquête relative à un comportement visé au paragraphe 8;
+
+(10) informer sans délai et par écrit le commissaire que son permis de conduire est révoqué, suspendu ou restreint et en donner les raisons;
+
+(11) informer sans délai et par écrit le commissaire de toute autre fonction, charge ou emploi qu’il occupe, des autres revenus dont il bénéficie et qui proviennent d’un bien ou d’une entreprise ainsi que de toute situation potentiellement incompatible avec l’exercice de ses fonctions.
+
+**11** Le membre doit respecter l’autorité de la loi et des tribunaux et collaborer à l’administration de la justice.
+
+Le membre doit notamment:
+
+(1) s’abstenir de contrevenir à toute loi ou à tout règlement lorsqu’une telle contravention est susceptible de compromettre l’exercice de ses fonctions;
+
+(2) s’abstenir de nuire ou de contribuer à nuire au bon déroulement de la justice;
+
+(3) s’abstenir de cacher une preuve ou un renseignement dans le but de nuire à une personne, notamment un inculpé, un plaignant ou un témoin, ou de la favoriser;
+
+(4) s’abstenir d’omettre ou de retarder indûment la transmission à son supérieur de tout renseignement sur des crimes et des infractions dont le membre est témoin ou dont il a connaissance.
+
+## III — PROCÉDURE DISCIPLINAIRE
+
+### 1 — Faute disciplinaire
+
+**12** Tout manquement par un membre à un devoir ou à une norme de conduite prévu au présent règlement constitue une faute disciplinaire et peut entraîner l’imposition d’une sanction disciplinaire.
+
+### 2 — Plainte disciplinaire
+
+**13** Le commissaire nomme un membre de la direction à titre de responsable du traitement des plaintes.
+
+En cas d’absence ou d’empêchement du responsable du traitement des plaintes, il est remplacé pour la durée de cette absence ou de cet empêchement par un autre membre de la direction désigné par le commissaire.
+
+**14** Le responsable du traitement des plaintes a notamment pour fonctions de recevoir et d’examiner toute plainte formulée contre un membre et de s’assurer qu’elle soit traitée conformément au présent règlement.
+
+Le commissaire peut également exercer les pouvoirs conférés au responsable du traitement des plaintes par le présent règlement.
+
+**15** Tout membre doit informer sans délai son supérieur lorsqu’il constate la commission d’une faute disciplinaire, qu’il est informé ou a des motifs raisonnables de croire qu’une faute disciplinaire a été commise ou est sur le point de l’être par un autre membre.
+
+Toute autre personne peut également porter une plainte relative à la conduite d’un membre.
+
+**16** Toute plainte doit être transmise par écrit au responsable du traitement des plaintes et indiquer sommairement, au meilleur de la connaissance de la personne qui porte la plainte, la nature et les circonstances de temps et de lieu de la faute disciplinaire reprochée au membre. La plainte peut également être accompagnée de tout document au soutien de celle-ci.
+
+Le responsable du traitement des plaintes tient un registre de toutes les plaintes qu’il reçoit, selon les modalités qu’il détermine.
+
+**17** Malgré le premier alinéa de l’article 16, une plainte qui concerne le responsable du traitement des plaintes doit être transmise au commissaire. Le responsable du traitement des plaintes transmet également au commissaire une plainte qui concerne un membre d’un rang supérieur au sien.
+
+Lorsque le commissaire reçoit une plainte conformément au premier alinéa, il exerce alors les fonctions confiées au responsable du traitement des plaintes par le présent règlement, avec les adaptations nécessaires.
+
+**18** Le responsable du traitement des plaintes transmet au secrétaire général associé responsable des emplois supérieurs au ministère du Conseil exécutif une plainte qui concerne le commissaire ou le commissaire associé aux enquêtes.
+
+Le processus disciplinaire prévu au Règlement sur l’éthique et la déontologie des administrateurs publics (chapitre M-30, r. 1) s’applique alors en lieu et place de la procédure disciplinaire prévue par la présente section, sous réserve de l’application des articles 5.2.1, 5.2.2 ou 8.2 de la Loi concernant la lutte contre la corruption (chapitre L-6.1), selon le cas.
+
+**19** Le responsable du traitement des plaintes transmet copie d’une plainte au supérieur du membre qui en fait l’objet ainsi qu’au responsable des ressources humaines et, si la plainte concerne un membre dont les services sont prêtés, au corps de police qui en a prêté les services.
+
+**20** Le supérieur immédiat ou hiérarchique du membre qui fait l’objet d’une plainte peut, après consultation du responsable des ressources humaines et du responsable du traitement des plaintes, lui donner un avertissement écrit dans le cas où la faute disciplinaire qui lui est reprochée dans la plainte ne justifie aucune autre mesure disciplinaire. Copie de l’avertissement écrit est transmise au responsable des ressources humaines et au responsable du traitement des plaintes.
+
+Toutefois, si la plainte vise un membre dont les services sont prêtés, le commissaire peut recommander aux autorités disciplinaires compétentes du corps de police qui en a prêté les services qu’un avertissement écrit soit donné à ce membre. Le cas échéant, copie de l’avertissement écrit est transmise au responsable des ressources humaines et au responsable du traitement des plaintes.
+
+**21** Le droit de porter une plainte disciplinaire se prescrit par un délai de 2 ans à compter de la date des faits donnant lieu à la plainte ou de leur connaissance par la direction du corps de police, sauf dans le cas où ces faits sont également susceptibles de constituer une infraction criminelle.
+
+**22** Un membre peut faire l’objet d’une plainte disciplinaire malgré le fait qu’il ait été acquitté ou reconnu coupable, par un tribunal de juridiction criminelle ou pénale, d’une infraction pour laquelle les faits qui ont donné lieu à l’accusation sont les mêmes que ceux de la faute disciplinaire qui lui est reprochée dans la plainte.
+
+**23** À moins que le responsable du traitement des plaintes n’en décide autrement, il n’y a pas suspension de la procédure disciplinaire lorsque le membre visé par une plainte disciplinaire fait également l’objet d’une plainte, d’une enquête ou d’une procédure de nature civile, déontologique, criminelle ou pénale devant tout tribunal judiciaire ou quasi judiciaire en lien avec les mêmes faits que ceux de la faute disciplinaire qui lui est reprochée dans la plainte.
+
+**24** Sur réception d’une plainte, le responsable du traitement des plaintes peut, après une évaluation préliminaire, soit:
+
+(1) la rejeter s’il juge qu’elle est frivole, vexatoire, mal fondée ou portée de mauvaise foi;
+
+(2) la soumettre au supérieur immédiat ou hiérarchique du membre pour qu’il décide de l’opportunité de lui donner un avertissement écrit conformément à l’article 20 ou, si la plainte vise un membre dont les services sont prêtés, la soumettre au commissaire pour qu’il décide, conformément à cet article, de l’opportunité de recommander aux autorités disciplinaires compétentes du corps de police qui en a prêté les services qu’un avertissement écrit soit donné à ce membre;
+
+(3) mettre un terme à la procédure disciplinaire si un avertissement écrit a été donné au membre suivant l’article 20;
+
+(4) effectuer une enquête ou charger une autre personne de l’effectuer;
+
+(5) citer le membre en discipline.
+
+Le responsable du traitement des plaintes peut également, d’office, effectuer une enquête ou charger une autre personne de l’effectuer lorsqu’il a des motifs raisonnables de croire qu’un membre a commis une faute disciplinaire.
+
+**25** À toute étape de la procédure disciplinaire, le responsable du traitement des plaintes peut, après consultation du responsable des ressources humaines, recommander au commissaire d’imposer au membre concerné toute mesure non disciplinaire justifiée par les circonstances, notamment:
+
+(1) une mesure de rétroaction visant à communiquer au membre des remarques ou des observations de nature à développer sa conscience professionnelle ou à prévenir la commission d’une faute disciplinaire, ou visant à identifier les causes et les effets d’un comportement ou d’un événement et, le cas échéant, les moyens d’atteindre des objectifs déterminés;
+
+(2) l’obligation du membre de se soumettre à un examen médical ou à toute autre évaluation de capacité;
+
+(3) l’obligation d’effectuer une formation, un cours de perfectionnement ou toute autre mesure de mise à niveau des connaissances.
+
+Dans le cas où la plainte vise un membre dont les services sont prêtés, le commissaire peut recommander aux autorités disciplinaires compétentes du corps de police qui en a prêté les services l’imposition de toute mesure non disciplinaire justifiée par les circonstances.
+
+Le membre qui omet ou refuse de se conformer à une telle mesure commet une faute disciplinaire.
+
+### 3 — Enquête disciplinaire
+
+**26** Selon la nature de l’affaire, la personne chargée d’une enquête conformément à l’article 24 communique avec la personne qui a porté la plainte et avec les témoins, le cas échéant, et recueille la preuve documentaire ainsi que tout autre renseignement pertinent.
+
+Elle communique également avec le membre visé par l’enquête, sauf si une telle communication est susceptible de nuire au déroulement de celle-ci.
+
+**27** Le membre visé par l’enquête doit fournir, conformément à la demande d’un supérieur, un rapport concernant les activités effectuées pendant son travail ou dans le cadre de son travail.
+
+**28** Au terme de son enquête, la personne qui en est chargée soumet au responsable du traitement des plaintes un rapport d’enquête contenant les éléments de preuve recueillis. Copie de ce rapport est transmise au responsable des ressources humaines.
+
+**29** Après analyse du rapport d’enquête et consultation du responsable des ressources humaines, le responsable du traitement des plaintes peut soit:
+
+(1) rejeter la plainte s’il estime qu’elle est frivole, vexatoire, mal fondée ou portée de mauvaise foi;
+
+(2) mettre un terme à la procédure disciplinaire s’il y a insuffisance de preuve;
+
+(3) soumettre le dossier au supérieur immédiat ou hiérarchique du membre pour qu’il décide de l’opportunité de lui donner un avertissement écrit conformément à l’article 20 ou, si la plainte vise un membre dont les services sont prêtés, la soumettre au commissaire pour qu’il décide, conformément à cet article, de l’opportunité de recommander aux autorités disciplinaires compétentes du corps de police qui en a prêté les services qu’un avertissement écrit soit donné à ce membre, et mettre un terme à la procédure disciplinaire si un tel avertissement est donné au membre;
+
+(4) demander un complément d’enquête;
+
+(5) citer le membre en discipline.
+
+### 4 — Citation en discipline
+
+**30** La citation en discipline vise à faire décider si la conduite du membre concerné constitue un manquement aux devoirs et aux normes de conduite prévus par le présent règlement pouvant entraîner l’imposition d’une sanction.
+
+La citation comporte autant de chefs que de manquements reprochés. Chaque chef d’une citation doit relater sommairement la conduite constituant un manquement au présent règlement et indiquer la disposition dont on allègue la violation. La citation est notifiée au membre qui en fait l’objet et copie en est transmise au responsable des ressources humaines et, si elle vise un membre dont les services sont prêtés, aux autorités disciplinaires compétentes du corps de police qui en a prêté les services.
+
+**31** Le responsable du traitement des plaintes fixe la date, l’heure et le lieu de la rencontre disciplinaire devant le commissaire afin que le membre ait l’opportunité de s’expliquer. Il en donne avis au membre au moins 24 heures à l’avance. Si la citation vise un membre dont les services sont prêtés, un membre de la direction du corps de police qui en a prêté les services, désigné par le directeur de ce corps de police, participe également à la rencontre.
+
+Lors de cette rencontre, le membre peut être accompagné d’une personne de son choix.
+
+Le commissaire est assisté du responsable des ressources humaines. Il peut également être assisté par au plus 2 autres personnes dont une qui peut ne pas faire partie du corps de police.
+
+**32** Lorsque le membre refuse ou néglige, sans motif valable, de se présenter à la rencontre disciplinaire ou la quitte sans autorisation, la procédure disciplinaire peut être poursuivie en son absence. Le commissaire et, s’il y a lieu, le membre de la direction du corps de police qui a prêté les services du membre peuvent alors prendre les mesures appropriées.
+
+**33** Lors de la rencontre disciplinaire ou après celle-ci, le commissaire rend une décision disciplinaire statuant sur la citation. Cette décision est écrite, motivée et signée. S’il s’agit d’un membre dont les services sont prêtés, il recommande une décision disciplinaire statuant sur la citation aux autorités disciplinaires compétentes du corps de police qui en a prêté les services, après consultation du membre de la direction de ce corps de police qui a participé à la rencontre disciplinaire. Le commissaire peut préalablement demander à un membre de la direction de préparer un rapport complémentaire.
+
+### 5 — Sanction disciplinaire
+
+**34** Lorsque le commissaire conclut qu’il y a eu faute disciplinaire à l’égard d’un manquement reproché, qu’elle ait été alléguée dans la citation ou révélée lors de la rencontre disciplinaire, il impose au membre l’une des sanctions suivantes pour chaque manquement:
+
+(1) l’avertissement;
+
+(2) la réprimande;
+
+(3) la suspension disciplinaire sans traitement;
+
+(4) la réaffectation disciplinaire;
+
+(5) la rétrogradation;
+
+(6) la destitution.
+
+Cependant, s’il s’agit d’un membre dont les services sont prêtés, le commissaire recommande aux autorités disciplinaires compétentes du corps de police qui en a prêté les services, après consultation du membre de la direction de ce corps de police qui a participé à la rencontre disciplinaire, l’imposition de l’une des sanctions prévues au premier alinéa pour chaque manquement.
+
+La décision imposant plusieurs sanctions peut prévoir qu’elles sont purgées de façon consécutive.
+
+**35** Dans la détermination de la sanction, il est tenu compte de la gravité de la faute, compte tenu de toutes les circonstances, ainsi que du comportement général du membre et de la teneur de ses dossiers disciplinaire et déontologique.
+
+**36** Le commissaire peut imposer, en plus d’une sanction disciplinaire ou même s’il conclut qu’il n’y a pas eu faute disciplinaire, toute mesure non disciplinaire justifiée par les circonstances, dont celles prévues à l’article 25.
+
+Cependant, s’il s’agit d’un membre dont les services sont prêtés, le commissaire peut recommander aux autorités disciplinaires compétentes du corps de police qui en a prêté les services l’imposition d’une telle mesure, après consultation du membre de la direction de ce corps de police qui a participé à la rencontre disciplinaire.
+
+Le membre qui omet ou refuse de se conformer à une telle mesure commet une faute disciplinaire.
+
+**37** À toute étape de la procédure disciplinaire, lorsqu’un membre reconnaît par écrit avoir commis une faute disciplinaire, le membre de la direction duquel il relève peut lui imposer, après consultation du responsable des ressources humaines et du responsable du traitement des plaintes, l’une des sanctions suivantes:
+
+(1) l’avertissement;
+
+(2) la réprimande;
+
+(3) la réaffectation disciplinaire;
+
+(4) la suspension disciplinaire sans traitement pour une période d’au plus 15 jours ouvrables;
+
+(5) l’obligation de se conformer aux conditions raisonnables qu’il juge souhaitables pour assurer sa bonne conduite et prévenir toute récidive.
+
+Cependant, s’il s’agit d’un membre dont les services sont prêtés, le commissaire peut recommander aux autorités disciplinaires compétentes du corps de police qui en a prêté les services l’imposition, après consultation du responsable des ressources humaines et du responsable du traitement des plaintes, de l’une des sanctions prévues au premier alinéa.
+
+Le membre de la direction doit aviser par écrit dans un délai de 10 jours le commissaire, le responsable des ressources humaines ainsi que le responsable du traitement des plaintes de la sanction imposée en vertu du premier alinéa et des motifs la justifiant. Dans le même délai, le commissaire doit aviser par écrit le responsable du traitement des plaintes et le responsable des ressources humaines de la sanction recommandée en vertu du deuxième alinéa et des motifs la justifiant.
+
+**38** Suivant une recommandation du commissaire en vertu de l’un ou l’autre des articles 33, 34 ou 37, les autorités disciplinaires compétentes d’un corps de police qui a prêté les services d’un de ses membres sont alors saisies de plein droit du dossier et peuvent imposer une sanction à ce membre en vertu de leur propre règlement de discipline interne.
+
+Les décisions prises par les autorités disciplinaires compétentes à la suite d’une recommandation ne peuvent être invoquées à titre de précédent auprès du commissaire lorsqu’une sanction est imposée en vertu du présent règlement. Nonobstant ces décisions, le commissaire peut mettre fin à un prêt de service sans autre avis ni délai. La résiliation de l’entente de prêt de services ne constitue pas une sanction disciplinaire aux fins de l’application du présent règlement.
+
+**39** Le commissaire ou les autorités disciplinaires compétentes du corps de police qui prête les services d’un membre, selon le cas, veille à l’application des sanctions disciplinaires.
+
+Le commissaire fixe les modalités d’une suspension disciplinaire sans traitement, notamment quant à son caractère continu ou discontinu et aux dates de cette suspension. Les autorités disciplinaires compétentes d’un corps de police qui a prêté les services d’un membre consultent le commissaire avant de fixer les modalités d’une suspension disciplinaire sans traitement imposée à ce membre.
+
+**40** Le membre à qui une suspension disciplinaire sans traitement ou une réaffectation disciplinaire a été imposée par le commissaire en vertu du présent règlement peut, après 3 ans, demander par écrit au commissaire la radiation de cette sanction.
+
+Il en est de même dans le cas d’une réprimande, sous réserve que cette demande peut être faite après 2 ans.
+
+## IV — DISPOSITION FINALE
+
+**41** (Omis).

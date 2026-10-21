@@ -1,0 +1,428 @@
+---
+type: "Act"
+title: "Hospitals Act"
+description: "Prince Edward Island Act, RSPEI 1988, c H-10.1."
+resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/h-10-1-hospitals_act.pdf"
+tags: ["pe", "act", "en"]
+jurisdiction: "pe"
+language: "en"
+citation: "RSPEI 1988, c H-10.1"
+document_date: "2020-12-04"
+upstream_license: "See upstream license: https://perma.cc/V9XJ-HTR4 © Government of Prince Edward Island. The consolidated statutes and regulations and the annual statutes from Prince Edward Island were updated by the A2AJ (Access to Algorithmic Justice project) on August 15, 2026 from the Legislative Counsel Office website (https://www.princeedwardisland.ca/en/legislation), maintained by the Government of Prince Edward Island. Copyright: Reproduction of Acts and regulations available in the A2AJ Canadian Laws dataset is governed by the Prince Edward Island's government copyright policy: https://www.princeedwardisland.ca/en/information/executive-council-office/website-disclaimer-and-copyright-policy. NOTE: This is an unofficial reproduction of Prince Edward Island legislation, made without endorsement or affiliation by the Government of Prince Edward Island. The official versions should be consulted for all purposes of interpreting and applying the law. Reproduced with the permission of the Legislative Counsel Office of Prince Edward Island (granted by email on July 20, 2026)."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-08-15T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/h-10-1-hospitals_act.pdf"
+    title: "Government of Prince Edward Island: official text"
+    author: "org:pe-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-PE/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-08-15T00:00:00Z"
+---
+
+# Hospitals Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Prince Edward Island. Not endorsed by or affiliated with the Government of Prince Edward Island. Text obtained from the [official source](https://www.princeedwardisland.ca/sites/default/files/legislation/h-10-1-hospitals_act.pdf) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RSPEI 1988, c H-10.1
+
+### Definitions
+
+1.(1) In this Act
+
+(a) “administrator” means the person who is responsible for the day to day operation
+
+and management of the affairs of a hospital, known as “the administrator” in a
+
+community hospital and known as “the executive director” in a provincial hospital;
+
+(b) “community hospital” means a hospital that is designated as a community hospital
+
+under subsection 3(1.1);
+
+(c) “Department” means the Department of Health and Wellness;
+
+(d) “hospital”, unless the context indicates otherwise, means a community hospital or a
+
+provincial hospital;
+
+(e) repealed by 2009,c.7,s.39(2);
+
+(f) “Minister” means the Minister of Health and Wellness;
+
+(g) “provincial hospital” means a hospital designated as a provincial hospital under
+
+subsection 3(1);
+
+(h) “treatment” means the observation, delivery of care and supervision of a patient,
+
+together with such necessary diagnostic procedures and special services as are
+
+provided for under the Hospital and Diagnostic Services Insurance Act R.S.P.E.I.
+
+1988, Cap. H-8.
+
+### Application
+
+(2) This Act does not apply to
+
+(a) a nursing home or community care facility licensed under the Community Care
+
+Facilities and Nursing Homes Act R.S.P.E.I. 1988, Cap. C-13;
+
+(b) a youth custody facility, correctional centre, infirmary or other institution in which
+
+persons are held in custody under the Criminal Code (Canada) or the Youth Criminal
+
+Justice Act (Canada);
+
+(c) the Provincial Addictions Treatment Facility; or
+
+(d) any facility, institution or premises, or a class or type of facility, institution or
+
+premises, that is exempted by the regulations from the application of this Act.
+
+### Act prevails
+
+(3) If a provision of this Act or the regulations made under this Act is inconsistent or in conflict
+
+with a provision of another enactment, the provision of this Act or the regulations made under
+
+this Act prevails to the extent of the inconsistency or conflict.
+
+### Minister responsible for Act
+
+2.(1) The Minister is responsible for the administration of this Act.
+
+### Delegation
+
+(2) The Minister may delegate, in writing, such authority, power, duty or function conferred or
+
+imposed on the Minister under this Act to one or more persons, as may be specified in the
+
+delegation.
+
+### Provincial hospitals
+
+3.(1) The hospitals of the province listed in Schedule A are designated as provincial hospitals for
+
+the purposes of this Act.
+
+### Community hospitals
+
+(1.1) The hospitals of the province listed in Schedule B are designated as community hospitals for
+
+the purposes of this Act.
+
+### Schedule changes
+
+(2) Repealed by 2020,c.69,s.1.
+
+### Publication
+
+(3) Repealed by 2020,c.69,s.1.
+
+### Definitions
+
+4.(1) In this section,
+
+(a) “insured service” means a basic health service as defined under the Health Services
+
+Payment Act R.S.P.E.I. 1988, Cap. H-2 or an insured service as defined under the
+
+Hospital and Diagnostic Services Insurance Act;
+
+(b) “hospital” means any facility, institution, building, premises or place that provides to
+
+any person health services that are not insured services.
+
+### Approval of hospital
+
+(2) The Lieutenant Governor in Council may, on the recommendation of the Minister, approve in
+
+accordance with the regulations, the operation of a hospital.
+
+### Revocation of approval
+
+(3) The Lieutenant Governor in Council may revoke an approval granted under subsection (2), in
+
+accordance with the regulations.
+
+### Prohibition re hospitals
+
+(4) No person shall operate a hospital in the province unless the person holds an approval granted
+
+under subsection (2).
+
+### Application
+
+(5) This section does not apply to a community hospital or a provincial hospital.
+
+### Add building or make significant renovations
+
+5. Repealed by 2009,c.75,s.4(6). 2005,c.9,s.5; 2009,c.75,s.4(6).
+
+### Bylaws committee of provincial hospital
+
+6.(1) Repealed by 2009,c.7,s.39(3).
+
+### Establish committees
+
+(2) The administrator of a hospital may, in accordance with the regulations, establish committees
+
+to further carry out the purposes of this Act, including a utilization committee, a staff review
+
+committee and a quality assurance committee.
+
+### Previously existing committees
+
+(3) Any committees that existed in a hospital immediately before the coming into force of this
+
+Act shall continue to function until they are replaced under this Act.
+
+### Medical bylaws
+
+7. Repealed by 2009,c.7,s.39(4). 2005,c.9,s.7; 2009,c.75,s.4(7); 2009,c.7,s.39(4).
+
+### Hospital records
+
+8.(1) A record regarding a patient compiled for hospital purposes by a member of the staff of the
+
+hospital is the property of the Department.
+
+### Disclosure of information
+
+(2) No person shall disclose information relating to the health services provided to, or the
+
+medical condition of, any patient, without the consent of the patient, except
+
+(a) to the patient who received the services;
+
+(b) to the staff of a hospital;
+
+(c) for the purposes of the administration and enforcement of this Act and the
+
+regulations;
+
+(d) in connection with the administration of the Workers Compensation Act R.S.P.E.I.
+
+1988, Cap. W-7.1;
+
+(e) to surveyors carrying out an accreditation survey;
+
+(f) as non-identifying information, disclosed for the purpose of improving the delivery
+
+of hospital services;
+
+(g) as authorized by the regulations; or
+
+(h) as otherwise required by law.
+
+### Electronic systems access
+
+(3) The Minister may authorize persons responsible for the implementation, support,
+
+maintenance and development of the electronic information systems used by a provincial or
+
+community hospital to have access to the electronic information maintained within the
+
+systems.
+
+### Liability
+
+9. The Minister, the administrator of a hospital, the employees of the Department and any
+
+person acting on their instructions or under the authority of this Act or the regulations, are not
+
+personally liable for any loss or damage suffered by any person by reason of any act done or
+
+not done by any of them in good faith in the exercise or purported exercise of their duties or
+
+functions.
+
+### Offences
+
+10. Every person who contravenes a provision of this Act or the regulations made under this Act
+
+is guilty of an offence and is liable, on summary conviction, for a first offence to a fine of not
+
+more than $1,000 or imprisonment of up to three months, or both.
+
+### Regulations
+
+11.(1) The Lieutenant Governor in Council may make regulations,
+
+(a) respecting the classifications, grades and standards of hospitals;
+
+(b) respecting the operation, management, control and use of hospitals;
+
+(c) respecting
+
+(i) the records respecting patients to be maintained by staff at a hospital
+
+including medical records, orders for treatment, nursing notes, charts, record
+
+sheets, x-rays and other diagnostic tests and records made by the staff of a
+
+hospital,
+
+(ii) the preparation, maintenance, storage, retention, removal and destruction of
+
+records,
+
+(iii) the confidentiality, release, inspection and disclosure of records, and
+
+(iv) information management and procedures;
+
+(d) respecting services provided at a hospital, including medical, nursing and diagnostic
+
+services, the services of other health professionals, blood services and all other
+
+services rendered at a hospital;
+
+(e) repealed by 2009,c.7,s.39(5);
+
+(f) respecting the disposal of bodily fluids and medical or hazardous waste;
+
+(g) respecting the disposal of human tissue and the pathology reports required for such
+
+disposal;
+
+(h) respecting the establishment and duties of the committees of a hospital;
+
+(i) respecting incident reports;
+
+(j) respecting deaths in a hospital and post mortem examinations;
+
+(k) respecting disaster planning and procedures;
+
+(l) respecting the handling of drugs, medications, vitamins and other therapeutic fluids
+
+or substances administered to a patient in a hospital;
+
+(m) respecting the records, books, accounting systems, audits, reports and returns to be
+
+kept or made by an administrator;
+
+(n) requiring reports and returns to be provided to the Minister concerning the operation
+
+of a hospital and prescribing the times at which and the form in which they shall be
+
+provided and the period to be covered by a report or return;
+
+(o) exempting a facility or premises or a class or type of hospital from the application of
+
+this Act;
+
+(p) respecting an approval, or the revocation of an approval, of a hospital under
+
+subsections 4(3) and (4) of this Act;
+
+(q) defining words and expressions used but not defined in this Act; and
+
+(r) generally, to give effect to the purposes of this Act.
+
+### Application of regulations
+
+(2) The Lieutenant Governor in Council may declare that regulations made under this Act apply
+
+to any one or more hospitals or class of hospitals as the Lieutenant Governor in Council
+
+considers appropriate.
+
+### Transitional
+
+12. Any regulations made under the Hospitals Act R.S.P.E.I. 1988, Cap. H-10 remain in force
+
+and shall be deemed to have been made under this Act insofar as they are not inconsistent
+
+with this Act, until those regulations are repealed or other regulations are made in their stead.
+
+### Community hospital authorities, transitional matters
+
+12.1.(1) For greater certainty, on the date this section comes into force,
+
+(a) the interests of a community hospital authority in any contract or agreement entered
+
+into by the community hospital authority prior to that date are assigned to the
+
+Government;
+
+(b) a reference in any will or other document effecting a bequest or donation to a
+
+community hospital authority shall be construed as referring to the hospital
+
+foundation associated with the community hospital that was operated by the
+
+community hospital authority immediately before the date this section comes into
+
+force; and
+
+(c) the bylaws and policies of a community hospital authority respecting the operation of
+
+a community hospital, as they exist immediately before the date this section comes
+
+into force, shall continue to apply to the community hospital on and after the date this
+
+section comes into force, until replaced under this Act.
+
+### Idem
+
+(2) For greater certainty,
+
+(a) any legal proceeding to which a community hospital authority is a party immediately
+
+before the date this section comes into force, may be continued on and after the date
+
+this section comes into force by or against the Government; and
+
+(b) any right of action of or against a community hospital authority that exists
+
+immediately before the date this section comes into force, may be brought on and
+
+after the date this section comes into force by or against the Government.
+
+community hospital authority
+
+(3) In this section, “community hospital authority” means a community hospital authority as
+
+defined in the Community Hospital Authorities Act R.S.P.E.I. 1988, Cap. C-13.1, as that Act
+
+read on November 17, 2008.
+
+### CONSEQUENTIAL AMENDMENTS
+
+### Consequential amendments
+
+13. Sections 13 to 15 make consequential amendments to other Acts. The amendments have been
+
+incorporated into those Acts.
+
+### Repeal
+
+16. The Hospitals Act R.S.P.E.I. 1988, Cap. H-10 is repealed.
+
+## SCHEDULE A
+
+PROVINCIAL HOSPITALS
+
+Queen Elizabeth Hospital
+
+Prince County Hospital
+
+Hillsborough Hospital
+
+## SCHEDULE B
+
+COMMUNITY HOSPITALS
+
+Western Hospital
+
+Community Hospital
+
+Souris Hospital
+
+King’s County Memorial Hospital

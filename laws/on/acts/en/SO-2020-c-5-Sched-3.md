@@ -1,0 +1,125 @@
+---
+type: "Act"
+title: "Hearings in Tribunal Proceedings (Temporary Measures) Act, 2020"
+description: "Ontario Act, SO 2020, c 5, Sched 3."
+resource: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20h05"
+tags: ["on", "act", "en"]
+jurisdiction: "on"
+language: "en"
+citation: "SO 2020, c 5, Sched 3"
+document_date: "2020-03-25"
+translation: "../fr/SO-2020-c-5-Sched-3.md"
+upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20h05"
+    title: "King's Printer for Ontario: official text"
+    author: "org:on-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-ON/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# Hearings in Tribunal Proceedings (Temporary Measures) Act, 2020
+
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for Ontario. Not endorsed by or affiliated with the Government of Ontario. Text obtained from the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/20h05) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+S.O. 2020, c. 5, Sched. 3
+
+### Definitions
+
+1 In this Act,
+
+“hearing” means,
+
+(a) a hearing in a proceeding, and
+
+(b) any other appearance before a tribunal or a member of a tribunal in the course of a proceeding, including a case management or other pre-hearing conference or an alternative dispute resolution process; (“audience”)
+
+“regulations” means the regulations made under this Act; (“règlements”)
+
+“tribunal” means a tribunal as defined in the Statutory Powers Procedure Act. (“tribunal”)
+
+### Application
+
+2 This Act applies with respect to,
+
+(a) every hearing in a proceeding to which the Statutory Powers Procedure Act applies;
+
+(b) every hearing in a proceeding to which the Statutory Powers Procedure Act would apply if the application of that Act were not excluded under another Act; and
+
+(c) every hearing in any proceeding before a tribunal that may be specified by the regulations.
+
+### Conduct of hearings
+
+3 (1) A tribunal may conduct a hearing in person, electronically, in writing or by a combination of any of them, as the tribunal considers appropriate.
+
+### Directions, orders
+
+(2) For the purposes of subsection (1), a tribunal may make any orders or give any directions that it considers appropriate in the circumstances respecting,
+
+(a) the format of a hearing and its conduct; and
+
+(b) any matters ancillary to the holding of the hearing, including respecting notice of the hearing, the service or filing of materials for the hearing, attendance at the hearing, any recording of the hearing or public access to the hearing.
+
+### Rules
+
+(3) Unless the regulations provide otherwise, a tribunal may make rules for the purposes of subsection (1) respecting any matters referred to in clause (2) (a) or (b) as they relate to hearings before the tribunal.
+
+### Same
+
+(4) Rules made under subsection (3) may be general or particular in their application.
+
+### Same
+
+(5) The tribunal shall make the rules available to the public in English and in French.
+
+### Same
+
+(6) Part III (Regulations) of the Legislation Act, 2006 does not apply with respect to rules made under subsection (3).
+
+### Conflict
+
+4 (1) In the event of a conflict between this Act and any of the following, this Act prevails:
+
+1. The Statutory Powers Procedure Act and any regulations made under that Act.
+
+2. Any other Act and any regulations made under any other Act.
+
+3. Any rules made by a tribunal under the Statutory Powers Procedure Act or any other Act.
+
+### Same
+
+(2) In the event of a conflict between a determination, order, direction or rule made by a tribunal under section 3 and any of the following, the determination, order, direction or rule prevails:
+
+1. Any other Act or regulation that applies with respect to the tribunal including, if applicable, the Statutory Powers Procedure Act and its regulations.
+
+2. Any rules made by the tribunal under any other Act.
+
+### Transition, application to on-going proceedings
+
+5 This Act applies with respect to a proceeding commenced before, on or after the day this Act comes into force.
+
+### Regulations
+
+6 (1) The Attorney General or such other member of the Executive Council to whom the administration of this Act may be assigned may make regulations,
+
+(a) specifying proceedings to which this Act applies, for the purposes of clause 2 (c);
+
+(b) providing that subsection 3 (3) does not apply with respect to a tribunal or class of tribunals;
+
+(c) respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act.
+
+### Same
+
+(2) A regulation made under clause (1) (a) may specify any proceedings listed under subsection 3 (2) of the Statutory Powers Procedure Act, other than in clause 3 (2) (a) of that Act.
+
+7 Omitted (provides for amendments to this Act).
+
+8 Omitted (provides for coming into force of provisions of this Act).
+
+9 Omitted (enacts short title of this Act).

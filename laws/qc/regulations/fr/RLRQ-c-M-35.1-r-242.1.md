@@ -1,0 +1,80 @@
+---
+type: "Regulation"
+title: "Règlement sur les contributions des producteurs d’ovins"
+description: "Règlement (Québec), RLRQ c M-35.1, r 242.1."
+resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20242.1"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c M-35.1, r 242.1"
+document_date: "2025-09-01"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20242.1"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur les contributions des producteurs d’ovins
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20242.1) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c M-35.1, r 242.1*
+
+*Loi habilitante: Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1, a. 123 et 124)*
+
+*À jour au 2025-09-01*
+
+## I — CONTRIBUTIONS
+
+**1** Tout producteur doit payer une contribution:
+
+(1) annuelle de 6,50 $ par brebis productive en inventaire. Cette contribution est portée à 6,75 $ à compter du 1^er septembre 2026, à 7,00 $ à compter du 1^er septembre 2027 et à 7,25 $ à compter du 1^er septembre 2028;
+
+(2) de 0,15 $/kg par carcasse chaude d’agneau lourd mis en marché par l’entremise des Éleveurs en vertu du Règlement sur la mise en marché des agneaux lourds (chapitre M-35.1, r. 244.1). Cette contribution est versée dans le fonds constitué en vertu de ce règlement;
+
+(3) de 3,10 $ par agneau lourd vendu directement à un consommateur ou à un abattoir de proximité, conditionnellement à sa revente à un consommateur qu’il a préalablement identifié, ou pour fins de reproduction.
+
+On entend par:
+
+**agneau lourd**, un agneau destiné à l’abattage, ayant moins d’un an, moins de 2 incisives permanentes et un poids d’au moins 36,3 kg vivant ou 16,4 kg pour une carcasse chaude;
+
+**carcasse chaude**, la carcasse non refroidie d’un agneau lourd abattu dont on a enlevé la peau, la partie de la tête et du cou antérieure à la première vertèbre cervicale, la partie des membres postérieurs et antérieurs située en dessous de l’articulation tibiotarsienne, le système respiratoire, digestif, reproductif et urinaire, ainsi que les organes thoraciques et abdominaux, la partie membraneuse du diaphragme, les masses graisseuses du cœur et du scrotum ou du pis, la partie de la queue postérieure à la troisième vertèbre coccygienne et toute partie dont l’enlèvement est exigé pour des raisons d’ordre pathologique.
+
+**2** Tout producteur doit payer une contribution pour la promotion de l’agneau de 0,60 $ par agneau mis en marché.
+
+On entend par:
+
+**agneau**: un agneau ayant moins d’un an, moins de 2 incisives permanentes.
+
+**3** Aucune contribution n’est exigée pour tout agneau condamné par les autorités compétentes.
+
+## II — MODALITÉS DE PAIEMENT ET DE RETENUE
+
+**4** Les Éleveurs retiennent toute contribution exigible à même le prix de vente des agneaux qui leur est versé par l’acheteur.
+
+Autrement, les Éleveurs peuvent convenir avec toute personne des modalités de retenue des contributions. Dès lors, les contributions sont retenues et payées conformément aux conventions intervenues.
+
+**5** Au plus tard le 15 de chaque mois et pour les agneaux mis en marché pour abattage le mois précédent, le producteur doit remettre aux Éleveurs, par virement bancaire ou par chèque mis à la poste, le montant représentant les contributions qui n’ont pas été retenues.
+
+**6** Les Éleveurs peuvent conclure avec tout organisme des protocoles arrêtant les modalités d’échange de renseignements personnels ou commerciaux nécessaires à l’application du présent règlement et de leurs programmes respectifs encadrant la mise en marché des agneaux.
+
+Les Éleveurs peuvent, notamment, convenir avec La Financière agricole du Québec d’un protocole pour obtenir, pour chaque producteur dont les agneaux sont assurés aux termes du Programme d’assurance stabilisation des revenus, des informations quant au nombre de brebis indiquées à l’inventaire dressé par cette dernière.
+
+**7** Lorsque les contributions payées par un producteur ne correspondent pas à celles qui auraient dû l’être selon les renseignements détenus par les Éleveurs, ceux-ci peuvent calculer le montant total des contributions pour toute période qu’ils déterminent à partir des renseignements qu’ils détiennent et en estimant le nombre d’agneaux qu’il a mis en marché pour abattage ou le nombre de brebis en inventaire au cours de cette période.
+
+Les Éleveurs expédient au producteur une facture indiquant le montant total des contributions calculées conformément au premier alinéa. Le producteur doit, dans les 30 jours ouvrables de la réception de cette facture, la payer ou soumettre aux Éleveurs les motifs de sa contestation.
+
+**8** Toute contribution impayée à échéance porte intérêt au taux de 12% par année.
+
+**9** Le présent règlement remplace le Règlement sur les contributions des producteurs d’ovins du Québec (chapitre M-35.1, r. 242).
+
+**10** (Omis).

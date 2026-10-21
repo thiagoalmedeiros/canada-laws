@@ -1,0 +1,74 @@
+---
+type: "Regulation"
+title: "Règlement sur le regroupement en catégories des producteurs d’oeufs de consommation et de poulettes du Québec"
+description: "Règlement (Québec), RLRQ c M-35.1, r 239.1."
+resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20239.1"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c M-35.1, r 239.1"
+document_date: "2020-02-16"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20239.1"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur le regroupement en catégories des producteurs d’oeufs de consommation et de poulettes du Québec
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20239.1) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c M-35.1, r 239.1*
+
+*Loi habilitante: Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1, a. 84)*
+
+*À jour au 2020-02-16*
+
+**1** La Fédération des producteurs d’oeufs du Québec regroupe les producteurs en catégories aux fins de la consultation de ceux-ci sur des matières ou sur des règlements les concernant principalement ou exclusivement.
+
+On entend par «producteur», un producteur visé par le Plan conjoint des producteurs d’oeufs de consommation et de poulettes du Québec (chapitre M-35.1, r. 238.1) ou par le Plan conjoint des producteurs d’oeufs d’incubation du Québec (chapitre M-35.1, r. 227) si une partie de sa production n’est pas utilisée à des fins d’incubation.
+
+**2** Les catégories visées à l’article 1 sont au nombre de 4:
+
+(1) catégorie des producteurs d’oeufs de consommation qui détiennent un quota émis par la Fédération;
+
+(2) catégorie des producteurs d’oeufs d’incubation qui détiennent un quota émis par Les Producteurs d’oeufs d’incubation du Québec en vertu du Règlement des producteurs d’oeufs d’incubation sur le contingentement (chapitre M-35.1, r. 223) et dont une partie de la production n’est pas utilisée pour l’incubation;
+
+(3) catégorie des producteurs d’oeufs destinés à la fabrication de vaccins détenant un contingent spécial à cet effet émis par la Fédération en vertu du Règlement sur les quotas des producteurs d’oeufs de consommation du Québec (chapitre M-35.1, r. 239);
+
+(4) catégorie des producteurs de poulettes.
+
+**3** La Fédération inscrit le producteur dans la catégorie appropriée à sa production, suivant les renseignements qu’elle détient et, dans le cas d’un producteur d’oeufs, au plus tard dans les 30 jours suivant l’émission d’un quota.
+
+Dès que la Fédération a inscrit les producteurs dans une des catégories, elle en avise chacun d’eux par écrit.
+
+**4** L’inscription d’un producteur faite en vertu de l’article 3 est valable jusqu’à ce qu’elle soit modifiée par la Fédération, d’office ou à la demande du producteur.
+
+**5** La convocation d’une catégorie de producteurs à une assemblée est faite par le secrétaire de la Fédération et adressée à chaque producteur inscrit dans la catégorie au moins 20 jours avant la date prévue de cette assemblée.
+
+Cet avis de convocation doit indiquer le lieu, la date et l’heure de la tenue de cette assemblée ainsi qu’un énoncé suffisant du sujet de la consultation ou du règlement discuté au cours de cette assemblée.
+
+**6** Le quorum de l’assemblée d’une catégorie de producteurs est constitué des producteurs présents. L’assemblée de la catégorie est présidée par le président de la Fédération.
+
+**7** Le vote à cette assemblée doit se tenir à main levée, à moins que le scrutin secret ne soit demandé par au moins 10% des producteurs présents et ayant droit de vote. Le vote à une assemblée de catégorie doit être appuyé par une majorité de producteurs présents à cette assemblée.
+
+**8** Tout litige survenant dans le cadre de l’application du présent règlement est exclusivement réglé selon les modalités ci-après déterminées et sous réserve des pouvoirs de la Régie des marchés agricoles et alimentaires du Québec.
+
+**9** Tout litige quant à l’inscription d’un producteur dans l’une ou l’autre des catégories doit être soumis sans délai et par écrit au secrétaire de la Fédération.
+
+**10** Le conseil d’administration de la Fédération, à sa prochaine assemblée, entend, s’il y a lieu, le producteur concerné et rend sa décision immédiatement.
+
+Sa décision est finale.
+
+**11** (Abrogé).
+
+**12** (Omis).

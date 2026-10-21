@@ -1,0 +1,98 @@
+---
+type: "Regulation"
+title: "Règlement sur le fichier des producteurs de lait et sur la conservation et l’accès aux documents des Producteurs de lait du Québec"
+description: "Règlement (Québec), RLRQ c M-35.1, r 195.1."
+resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20195.1"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c M-35.1, r 195.1"
+document_date: "2014-05-01"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20195.1"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur le fichier des producteurs de lait et sur la conservation et l’accès aux documents des Producteurs de lait du Québec
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20195.1) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c M-35.1, r 195.1*
+
+*Loi habilitante: Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1, a. 71)*
+
+*À jour au 2014-05-01*
+
+## I — FICHIER DES PRODUCTEURS
+
+**1** Le présent règlement établit le fichier des producteurs visés par le Plan conjoint (1980) des producteurs de lait du Québec ainsi que les règles de conservation et d’accès aux documents des Producteurs de lait du Québec se rapportant à l’application du Plan conjoint (1980) des producteurs de lait du Québec (chapitre M-35.1, r. 205).
+
+**2** Les Producteurs de lait du Québec dressent et tiennent à jour un fichier dans lequel sont inscrits les nom et adresse de chaque producteur visé par le Plan dont ils connaissent l’identité.
+
+**3** Toute demande d’inscription, de radiation ou de correction doit être adressée par écrit ou par courrier électronique aux Producteurs, avec un exposé sommaire des faits la justifiant.
+
+**4** Lorsqu’elle refuse de donner suite à une demande qui lui est soumise en vertu de l’article 3, elle doit en informer le producteur et lui indiquer les motifs justifiant sa décision.
+
+**5** Conformément à l’article 71 de la Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1), il appartient au producteur de vérifier son inscription au fichier en s’adressant aux Producteurs. Il peut exiger des Producteurs une confirmation écrite de son inscription.
+
+## II — CONSERVATION ET ACCÈS AUX DOCUMENTS
+
+### I — CONSERVATION DES DOCUMENTS
+
+**6** Les Producteurs conservent à leur siège le fichier des producteurs et les documents se rapportant à l’application du Plan. Ils peuvent cependant déterminer, par résolution, un autre lieu d’entreposage.
+
+**7** Les Producteurs doivent conserver les documents suivants pour une durée illimitée:
+
+(1) les documents constitutifs et leurs amendements;
+
+(2) les règlements généraux et les règlements de régie interne;
+
+(3) les rapports annuels d’activités et les états financiers requis par la Loi;
+
+(4) les procès-verbaux des assemblées générales et des réunions du conseil d’administration et du comité exécutif.
+
+**8** Les Producteurs doivent conserver les documents suivants pour une durée d’au moins 6 ans à compter de la date de la fin de l’exercice financier concerné ou de leur échéance:
+
+(1) les conventions de mise en marché, les contrats relatifs à des services ou à la vente, l’achat ou la location de biens;
+
+(2) les chèques, lettres de change et autres effets de commerce;
+
+(3) les livres et registres comptables;
+
+(4) tout document justifiant une transaction financière et qui n’est pas autrement visé par une disposition du présent règlement.
+
+**9** Les Producteurs doivent conserver, pour une durée d’au moins 5 ans à partir de la fin de l’année au cours de laquelle ils cessent leurs activités, les dossiers des producteurs, des entreprises de transformation laitière et des transporteurs.
+
+### II — ACCÈS AUX DOCUMENTS
+
+**10** Sous réserve des dispositions de la Loi sur la protection des renseignements personnels dans le secteur privé (chapitre P-39.1), tout producteur qui en fait la demande aux Producteurs, a droit d’accès aux documents.
+
+Ce droit ne s’étend toutefois pas aux procès-verbaux du conseil d’administration, du conseil exécutif ainsi qu’aux documents ayant trait aux opérations financières et commerciales courantes des Producteurs.
+
+**11** Un document contenant des renseignements personnels n’est accessible qu’au producteur concerné.
+
+Il ne peut être divulgué à un tiers sans le consentement écrit de la personne concernée.
+
+**12** Le droit d’accès à un document s’exerce par consultation sur place pendant les heures habituelles de travail en présence du secrétaire des Producteurs ou d’une personne qu’il désigne.
+
+Le requérant peut également obtenir une copie du document, à moins que sa reproduction ne nuise à sa conservation ou ne soulève des difficultés pratiques en raison de sa forme. Toutefois, il ne peut transmettre à quiconque un document ainsi obtenu, en tout ou en partie, sans le consentement du secrétaire des Producteurs.
+
+Sous réserve de l’application de l’article 74 de la Loi, le deuxième alinéa ne s’applique pas au fichier des producteurs.
+
+**13** L’accès à un document est gratuit.
+
+Toutefois, des frais n’excédant pas le coût de sa transcription, de sa reproduction ou de sa transmission peuvent être exigés.
+
+**14** Le présent règlement remplace le Règlement sur le fichier des producteurs visés par le Plan conjoint (1980) des producteurs de lait du Québec (chapitre M-35.1, r. 196) et le Règlement sur la conservation et l’accès aux documents de la Fédération des producteurs de lait du Québec (chapitre M-35.1, r. 189).
+
+**15** (Omis).

@@ -1,0 +1,69 @@
+---
+type: "Regulation"
+title: "Residential Flat Rate Tax Regulation"
+description: "British Columbia regulation, BC Reg 66/91."
+resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_91/xml"
+tags: ["bc", "regulation", "en"]
+jurisdiction: "bc"
+language: "en"
+citation: "BC Reg 66/91"
+document_date: "1991-03-12"
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_91/xml"
+    title: "King's Printer for British Columbia: official text"
+    author: "org:bc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# Residential Flat Rate Tax Regulation
+
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for British Columbia. Not endorsed by or affiliated with the Government of British Columbia. Text obtained from the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_91/xml) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+BC Reg 66/91
+
+### Interpretation
+
+1 In this regulation:
+
+*Act* means the Local Government Act;
+
+*Charter* means the Vancouver Charter;
+
+*flat rate tax* means tax imposed on residential property under section 273.2 (1) of the Act or section 374.3 (1) of the Charter;
+
+*municipality* has the same meaning as in section 1 of the Act, except that it includes the City of Vancouver;
+
+*parcel of real property* includes a manufactured home that is assessable and taxable under section 2 or 3 of the Manufactured Home Tax Act.
+
+*residential tax* means tax imposed on residential property under sections 331 (1) (a) and (b), 332 and 273.2 of the Act, or sections 373, 374.2 and 374.3 of the Charter;
+
+*residential property* means any property classified as class 1 property under section 19 of the Assessment Act.
+
+### System of classification
+
+2 (1) For the purposes of section 273.2 (1) (b) of the Act and section 374.3 (1) (a) of the Charter, all residential property within a municipality may be divided into a maximum of 10 geographic area classes each of which contains at least 10% of the total number of residential parcels of real property within the municipality.
+
+(2) Any geographic area class may itself be classified into a maximum of 5 residential land use classes each of which may be further classified on the basis of whether or not property within it is vacant land.
+
+(3) No class of any type may contain fewer than 20 parcels of real property.
+
+### Relationship between the amount of property value tax and the amount of flat rate tax
+
+3 The maximum amount that a municipality may raise from the flat rate tax in any year is the greater of the following amounts:
+
+(a) an amount equal to that percentage of the total amount of residential tax that the municipality raised from the flat rate tax in 1990;
+
+(b) an amount equal to 40% of the total amount of residential tax raised by the municipality in that year.
+
+1 R.S.B.C. 1979-290-273.2, repealed by 1992-70-25.
+
+Note: this regulation remains in force until repealed by the Lieutenant Governor in Council; see S.B.C. 1992-70-42 (2) (a).
+
+[Provisions relevant to the enactment of this regulation: Local Government Act, R.S.B.C. 1996, c. 323 — section 333; Vancouver Charter, S.B.C. 1953, c. 55 — section 374.4]

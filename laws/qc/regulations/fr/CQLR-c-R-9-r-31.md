@@ -1,0 +1,591 @@
+---
+type: "Regulation"
+title: "Règlement sur la mise en oeuvre de l’Entente en matière de sécurité sociale entre le gouvernement du Québec et le gouvernement du Royaume des Pays-Bas"
+description: "Règlement (Québec), RLRQ c R-9, r 31."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/R-9,%20r.%2031"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c R-9, r 31"
+document_date: "2012-09-01"
+translation: "../en/CQLR-c-R-9-r-31.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/R-9,%20r.%2031"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur la mise en oeuvre de l’Entente en matière de sécurité sociale entre le gouvernement du Québec et le gouvernement du Royaume des Pays-Bas
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/R-9,%20r.%2031) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c R-9, r 31*
+
+*Loi habilitante: Loi sur le régime de rentes du Québec (chapitre R-9, a. 215)*
+
+*À jour au 2012-09-01*
+
+**1** La Loi sur le régime de rentes du Québec (chapitre R-9) et les règlements édictés en vertu de celle-ci s’appliquent à toute personne visée à l’Entente en matière de sécurité sociale entre le gouvernement du Québec et le gouvernement du Royaume des Pays-Bas, signée à Québec le 4 décembre 2001, et apparaissant à l’annexe I.
+
+**2** Cette Loi et ces règlements s’appliquent de la manière prévue à cette Entente et à l’Arrangement administratif pour l’application de cette Entente, lequel apparaît à l’annexe II.
+
+**3** (Omis).
+
+## ANNEXE I
+
+ENTENTE EN MATIÈRE DE SÉCURITÉ SOCIALE ENTRE LE QUÉBEC ET LE ROYAUME DES PAYS-BAS
+
+LE GOUVERNEMENT DU QUÉBEC
+
+ET
+
+LE GOUVERNEMENT DU ROYAUME DES PAYS-BAS
+
+D*ÉSIREUX* d’assurer à leurs ressortissants respectifs les avantages de la coordination des législations de sécurité sociale du Québec et des Pays-Bas ;
+
+S*ONT CONVENUS DES DISPOSITIONS SUIVANTES* :
+
+**TITRE I**
+
+DISPOSITIONS GÉNÉRALES
+
+**ARTICLE 1**
+
+DÉFINITIONS
+
+Dans l’Entente, à moins que le contexte n’indique un sens différent, les expressions suivantes signifient :
+
+(a) « autorité compétente » : pour le Québec, le ministre chargé de l’application de la législation visée à l’article 2 ; et pour les Pays-Bas, le ministre chargé de l’administration de la législation visée à l’article 2 ;
+
+(b) « institution compétente » : pour le Québec, le ministère ou l’organisme chargé de l’administration de la législation visée à l’article 2 ; et pour les Pays-Bas, l’institution responsable de l’administration de la législation visée à l’article 2 ;
+
+(c) « période d’assurance » : pour le Québec, toute année pour laquelle des cotisations ont été versées ou une rente d’invalidité a été payée en vertu de la Loi sur le régime de rentes du Québec ou toute autre année considérée comme équivalente ; et pour les Pays-Bas, toute période de cotisation, d’assurance, d’emploi ou de résidence en vertu de la législation visée à l’article 2 ;
+
+(d) « prestation » : une pension, une rente, un montant forfaitaire, ou toute autre prestation en espèces prévue par la législation de chaque Partie, incluant tout complément, supplément ou majoration en vertu de la législation visée à l’article 2 ;
+
+(e) « ressortissant » : pour le Québec, une personne de citoyenneté canadienne qui est ou a été soumise à la législation visée à l’alinéa *a* du paragraphe 1 de l’article 2 ; et pour les Pays-Bas, une personne de nationalité néerlandaise ;
+
+(f) « territoire » : pour les Pays-Bas, le territoire du Royaume en Europe ;
+
+(g) « législation » : la législation visée à l’article 2 ;
+
+et tout terme non défini dans l’Entente a le sens qui lui est donné dans la législation applicable.
+
+**ARTICLE 2**
+
+CHAMP D’APPLICATION MATÉRIEL
+
+(1) L’Entente s’applique :
+
+(a) pour le Québec, à la Loi sur le régime de rentes du Québec relative aux prestations de retraite, d’invalidité et de survivants et aux règlements qui en découlent ;
+
+(b) pour les Pays-Bas, à la législation relative :
+
+(i) à l’assurance vieillesse générale ;
+
+(ii) à l’assurance générale des survivants ;
+
+(iii) à l’assurance invalidité des travailleurs non salariés ;
+
+(iv) à l’assurance invalidité des salariés ;
+
+et pour l’application de l’article 8, des paragraphes 1 et 2 de l’article 9 et des paragraphes 1 et 2 de l’article 10,
+
+(v) à la législation relative à l’assurance maladie y compris l’obligation du Code civil des employeurs de payer l’indemnité journalière en cas de maladie ;
+
+(vi) à l’assurance chômage ; et
+
+(vii) aux allocations familiales.
+
+(2) Sous réserve des dispositions des paragraphes 3 et 4, l’Entente s’applique aussi à tout acte législatif ou réglementaire modifiant, complétant ou remplaçant la législation visée au paragraphe 1.
+
+(3) L’Entente s’applique également à un acte législatif ou réglementaire d’une Partie qui étend les régimes existants à de nouvelles catégories de bénéficiaires ; toutefois, cette Partie a un délai de trois mois à compter de la publication officielle de cet acte pour notifier à l’autre Partie que l’Entente ne s’applique pas.
+
+(4) L’Entente ne s’applique pas à un acte législatif ou réglementaire couvrant une branche nouvelle de la sécurité sociale non mentionnée au paragraphe 1 à moins que l’Entente ne soit modifiée à cet effet.
+
+(5) Pour les Pays-Bas, l’Entente ne s’applique pas aux régimes d’assistance sociale et médicale, aux régimes spéciaux des fonctionnaires ou des personnes considérées comme telles, ou aux régimes de prestations aux victimes de la guerre ou de ses conséquences.
+
+**ARTICLE 3**
+
+CHAMP D’APPLICATION PERSONNEL
+
+Sauf disposition contraire, l’Entente s’applique aux ressortissants des Parties, aux personnes qui sont ou ont été soumises à la législation de l’une ou l’autre des Parties, ainsi qu’aux ayants droit de ces personnes.
+
+**ARTICLE 4**
+
+ÉGALITÉ DE TRAITEMENT
+
+(1) Concernant la législation du Québec, toutes les personnes visées à l’article 3 sont soumises aux obligations de cette législation et sont admissibles à ses prestations sans égard à leur nationalité.
+
+(2) Concernant la législation des Pays-Bas, sauf disposition contraire de la présente Entente :
+
+(a) les ressortissants du Québec ;
+
+(b) les réfugiés définis par la Convention du 28 juillet 1951 relative au statut des réfugiés et par le Protocole du 31 janvier 1967 à cette Convention ;
+
+(c) les apatrides définis par la Convention du 28 septembre 1954 relative au statut des apatrides ;
+
+(d) les autres personnes pour autant que leurs droits dérivent des personnes énumérées aux alinéas *a*, *b* ou *c* ;
+
+sont soumis aux obligations de cette législation et sont admissibles à ses prestations aux mêmes conditions que les ressortissants des Pays-Bas.
+
+**ARTICLE 5**
+
+EXPORTATION DES PRESTATIONS
+
+(1) Sauf disposition contraire de l’Entente, toute prestation de vieillesse, d’invalidité ou de survivants visée aux alinéas *a* et *b*, *i*, *ii*, *iii*, *iv* du paragraphe 1 de l’article 2, acquise en vertu de la législation d’une Partie, ainsi que celle acquise en vertu de l’Entente, ne peut subir aucune réduction, modification, suspension, suppression ni confiscation, du seul fait que le bénéficiaire réside ou séjourne sur le territoire de l’autre Partie, et cette prestation est payable sur le territoire de l’autre Partie.
+
+(2) Toute prestation payable en vertu de l’Entente, par une Partie sur le territoire de l’autre Partie, l’est aussi à l’extérieur du territoire des deux Parties dans les mêmes conditions que la première Partie applique à ses ressortissants en vertu de sa législation interne.
+
+**TITRE II**
+
+DISPOSITIONS RELATIVES À LA LÉGISLATION APPLICABLE
+
+**ARTICLE 6**
+
+RÈGLE GÉNÉRALE
+
+Sauf disposition contraire de l’Entente et sous réserve des articles 7, 8, 9, 10 et 11, une personne n’est soumise qu’à la législation de la Partie sur le territoire de laquelle elle travaille.
+
+**ARTICLE 7**
+
+PERSONNE TRAVAILLANT À SON PROPRE COMPTE
+
+Une personne qui réside sur le territoire d’une Partie et qui travaille à son propre compte sur le territoire de l’autre Partie n’est soumise, en ce qui a trait à ce travail, qu’à la législation de son lieu de résidence.
+
+**ARTICLE 8**
+
+PERSONNE DÉTACHÉE
+
+Une personne soumise à la législation d’une Partie et exerçant une activité salariée pour le compte de son employeur sur le territoire de l’autre Partie pour une période n’excédant pas soixante mois demeure soumise, en ce qui a trait à ce travail, à la législation de la première Partie pendant la durée de son détachement.
+
+**ARTICLE 9**
+
+PERSONNEL NAVIGANT EMPLOYÉ PAR UN TRANSPORTEUR INTERNATIONAL
+
+(1) Une personne qui travaille sur le territoire des deux Parties en qualité de personnel navigant d’un transporteur international qui effectue, pour le compte d’autrui ou pour son propre compte, des transports aériens ou maritimes de passagers ou de marchandises, et qui a son siège social sur le territoire d’une Partie, n’est, en ce qui a trait à ce travail, soumise qu’à la législation de cette Partie.
+
+(2) Toutefois, si cette personne est employée par une succursale ou une représentation permanente que l’entreprise possède sur le territoire de la Partie autre que celle sur le territoire de laquelle elle a son siège, elle n’est soumise, en ce qui a trait à ce travail, qu’à la législation de la Partie sur le territoire de laquelle cette succursale ou cette représentation permanente se trouve.
+
+(3) Malgré les deux paragraphes précédents, si une personne travaille uniquement ou de manière prépondérante sur le territoire de la Partie où elle réside, elle n’est soumise, en ce qui a trait à ce travail, qu’à la législation de cette Partie.
+
+**ARTICLE 10**
+
+PERSONNE OCCUPANT UN EMPLOI DE LA FONCTION PUBLIQUE
+
+(1) Toute personne occupant un emploi de la fonction publique pour l’une des Parties et affectée à un travail sur le territoire de l’autre Partie n’est soumise qu’à la législation de la première Partie en ce qui a trait à cet emploi.
+
+(2) Une personne résidant sur le territoire d’une Partie et y occupant un emploi de la fonction publique pour l’autre Partie n’est soumise, en ce qui a trait à cet emploi, qu’à la législation qui s’applique sur ce territoire.
+
+**ARTICLE 11**
+
+DÉROGATION AUX DISPOSITIONS SUR L’ASSUJETTISSEMENT
+
+Les autorités compétentes des deux Parties ou les institutions désignées par ces autorités peuvent, d’un commun accord, déroger aux dispositions des articles 6, 7, 8, 9 et 10 à l’égard d’une personne ou d’une catégorie de personnes.
+
+**ARTICLE 12**
+
+ASSUJETTISSEMENT À LA LÉGISLATION DES PAYS-BAS
+
+Aux fins de la législation des Pays-Bas, une personne soumise à la législation néerlandaise conformément aux dispositions du présent titre est considérée comme résidant aux Pays-Bas.
+
+**TITRE III**
+
+DISPOSITIONS RELATIVES AUX PRESTATIONS
+
+**ARTICLE 13**
+
+PRINCIPE DE LA TOTALISATION
+
+(1) Lorsqu’une personne a accompli des périodes d’assurance en vertu de la législation de l’une et l’autre des Parties et qu’elle n’est pas admissible à une prestation en vertu des seules périodes d’assurance accomplies en vertu de la législation d’une Partie, l’institution compétente de cette Partie totalise, dans la mesure nécessaire pour ouvrir le droit à une prestation en vertu de la législation qu’elle applique, les périodes d’assurance accomplies en vertu de la législation de chacune des Parties, pour autant qu’elles ne se superposent pas.
+
+(2) Si une personne n’a pas droit à une prestation après la totalisation prévue par le paragraphe 1, les périodes d’assurance accomplies en vertu de la législation d’une tierce partie liée à chacune des Parties par un instrument juridique de sécurité sociale contenant des dispositions relatives à la totalisation de périodes d’assurance sont prises en compte pour établir le droit à des prestations, selon les modalités prévues par le présent titre.
+
+**ARTICLE 14**
+
+PRESTATIONS EN VERTU DE LA LÉGISLATION DU QUÉBEC
+
+(1) Si une personne qui a été soumise à la législation de l’une et l’autre des Parties satisfait aux conditions requises pour ouvrir le droit, pour elle-même ou pour les personnes à sa charge, ses survivants ou ses ayants droit, à une prestation en vertu de la législation du Québec, sans avoir recours à la totalisation prévue par l’article 13, l’institution compétente du Québec détermine le montant de la prestation selon les dispositions de la législation qu’elle applique.
+
+(2) Si la personne visée au paragraphe 1 ne satisfait pas aux conditions requises pour ouvrir le droit à une prestation sans avoir recours à la totalisation, l’institution compétente du Québec procède de la façon suivante :
+
+(a) elle reconnaît une année de cotisation lorsque l’institution compétente des Pays-Bas atteste qu’une période d’assurance d’au moins trois mois dans une année civile, a été créditée en vertu de la législation des Pays-Bas, pourvu que cette année soit comprise dans la période cotisable définie dans la législation du Québec ;
+
+(b) les années reconnues en vertu de l’alinéa *a* sont totalisées avec les périodes d’assurance accomplies en vertu de la législation du Québec, conformément à l’article 13.
+
+(3) Lorsque le droit à une prestation est acquis en vertu de la totalisation prévue au paragraphe 2, l’institution compétente du Québec détermine le montant de la prestation payable comme suit :
+
+(a) le montant de la partie de la prestation reliée aux gains est calculé selon les dispositions de la législation du Québec ;
+
+(b) le montant de la partie uniforme de la prestation est ajusté en proportion de la période à l’égard de laquelle des cotisations ont été payées en vertu de la législation du Québec par rapport à la période cotisable définie dans cette législation.
+
+**ARTICLE 15**
+
+PRESTATIONS EN VERTU DE LA LÉGISLATION DES PAYS-BAS
+
+Si une personne qui a été soumise à la législation de l’une et l’autre des Parties satisfait aux conditions requises pour ouvrir le droit, pour elle-même ou pour les personnes à sa charge, ses survivants ou ses ayants droit, à une prestation en vertu de la législation des Pays-Bas sans avoir recours à la totalisation prévue par l’article 13, l’institution compétente des Pays-Bas détermine le montant de la prestation selon les dispositions de la législation qu’elle applique.
+
+**ARTICLE 16**
+
+PRESTATIONS EN VERTU DES LOIS SUR L’INVALIDITÉ
+
+(1) Sous réserve des dispositions du paragraphe 2, le ressortissant d’une Partie ou la personne visée aux alinéas *b* ou *c* du paragraphe 2 de l’article 4 qui, au moment où est survenue l’incapacité de travail suivie d’invalidité, avait préalablement accompli une période totale d’assurance au moins égale à douze mois en vertu de la législation des Pays-Bas relative à l’assurance invalidité, a droit aux prestations déterminées conformément à ladite législation et calculées selon les dispositions de l’article 17.
+
+(2) Le paragraphe 1 s’applique à condition que le droit à une prestation d’invalidité soit ouvert en vertu de la législation visée à l’alinéa *a* du paragraphe 1 de l’article 2, compte tenu, si nécessaire, de l’application de l’article 13, ou que ce droit aurait été ouvert en l’absence du droit à une pleine indemnisation de remplacement en vertu du régime québécois de santé et de sécurité au travail.
+
+**ARTICLE 17**
+
+MÉTHODE DE CALCUL POUR L’APPLICATION DE L’ARTICLE 16
+
+(1) Si le droit à une prestation est ouvert grâce à l’application de l’article 16, le montant de la prestation payable est calculé en proportion du ratio obtenu en divisant la durée totale des périodes d’assurance accomplies par la personne concernée à compter de l’âge de quinze ans en vertu de la législation des Pays-Bas, par la période située entre la date du quinzième anniversaire de cette personne et celle de son incapacité de travail suivie d’invalidité.
+
+(2) Si au moment où est survenue l’incapacité de travail suivie d’invalidité, la personne concernée était salariée, la prestation payable est déterminée selon les dispositions de la Loi sur l’assurance incapacité de travail des travailleurs salariés du 18 février 1966 (WAO). Dans tout autre cas, la prestation payable est déterminée conformément à la Loi sur l’assurance incapacité de travail des travailleurs non salariés du 24 avril 1997 (WAZ).
+
+(3) Les périodes d’assurance reconnues en vertu de la législation des Pays-Bas sont les suivantes :
+
+(a) les périodes d’assurance en cours d’emploi, accomplies en vertu de la Loi sur l’assurance incapacité de travail des travailleurs salariés du 18 février 1966 (WAO) ;
+
+(b) les périodes d’assurance en cours d’emploi, accomplies en vertu de la Loi générale sur l’assurance invalidité du 11 décembre 1975 (AAW) ;
+
+(c) les périodes d’assurance accomplies en vertu de la Loi sur l’assurance incapacité de travail des travailleurs non salariés du 24 avril 1997(WAZ) ;
+
+(d) les périodes d’emploi, et celles reconnues comme telles, accomplies aux Pays-Bas avant le 1^er juillet 1967.
+
+(4) Pour l’application de la première phrase du paragraphe 2, lorsqu’une période d’assurance accomplie en vertu de la WAO coïncide avec une période d’assurance accomplie en vertu de l’AAW et/ou de la WAZ, seule la période accomplie en vertu de la WAO est prise en compte.
+
+(5) Pour l’application de la deuxième phrase du paragraphe 2, lorsqu’une période d’assurance accomplie en vertu de l’AAW et/ou de la WAZ coïncide avec une période d’assurance accomplie en vertu de la WAO, seule la période d’assurance accomplie en vertu de l’AAW et/ou de la WAZ est prise en compte.
+
+**ARTICLE 18**
+
+PRESTATIONS EN VERTU DE LA LÉGISLATION RELATIVE À L’ASSURANCE VIEILLESSE GÉNÉRALE
+
+(1) L’institution compétente des Pays-Bas détermine la pension de vieillesse directement et exclusivement à partir des périodes d’assurance accomplies en vertu de la Loi générale sur l’assurance vieillesse des Pays-Bas.
+
+(2) Sous réserve du paragraphe 3, les périodes antérieures au 1^er janvier 1957 durant lesquelles le ressortissant d’une Partie ou la personne visée aux alinéas *b*, *c* ou *d* du paragraphe 2 de l’article 4 ont résidé sur le territoire des Pays-Bas, à compter de l’âge de quinze ans, ou durant lesquelles, tout en résidant dans un autre pays, ces personnes occupaient un emploi rémunérateur aux Pays-Bas, sont aussi considérées comme périodes d’assurance si ces personnes ne satisfont pas aux conditions de la législation néerlandaise quant à la reconnaissance de ces périodes à titre de périodes d’assurance.
+
+(3) Les périodes visées au paragraphe 2 sont prises en compte pour le calcul de la pension de vieillesse seulement si la personne a été assurée au sens de l’article 6 de la Loi générale sur l’assurance vieillesse des Pays-Bas et qu’elle a résidé durant un minimum de six ans sur le territoire de l’une ou des deux Parties après avoir atteint l’âge de cinquante-neuf ans et ce, seulement pendant que cette personne réside sur le territoire de l’une ou l’autre des Parties. Toutefois ces périodes ne sont pas prises en compte si elles coïncident avec des périodes prises en compte dans le calcul d’une pension de vieillesse en vertu de la législation d’un autre pays que les Pays-Bas.
+
+**ARTICLE 19**
+
+PRESTATIONS EN VERTU DE LA LÉGISLATION RELATIVE À L’ASSURANCE GÉNÉRALE DES SURVIVANTS
+
+Lorsque le ressortissant d’une Partie ou la personne visée aux alinéas *b* ou *c* du paragraphe 2 de l’article 4 était, au moment du décès, soumis à la législation identifiée à l’alinéa *a* du paragraphe 1 de l’article 2 et avait préalablement accompli une période totale d’assurance au moins égale à douze mois en vertu de la législation des Pays-Bas relative à l’assurance des survivants, ses survivants ont droit à une prestation déterminée conformément à cette législation et calculée selon les dispositions de l’article 20.
+
+**ARTICLE 20**
+
+MÉTHODE DE CALCUL POUR L’APPLICATION DE L’ARTICLE 19
+
+Si le droit à une prestation est ouvert grâce à l’application de l’article 19, le montant de la prestation payable est calculé en proportion du ratio obtenu en divisant :
+
+— la durée totale des périodes d’assurance en vertu de la législation des Pays-Bas accomplies avant l’âge de 65 ans, par la personne décédée
+
+par
+
+— la période comprise entre la date du quinzième anniversaire de cette personne, ou la date de prise d’effet de la Loi générale sur l’assurance des survivants si ultérieure, et la date du décès, sans toutefois dépasser la date du soixante-cinquième anniversaire de la personne décédée.
+
+**ARTICLE 21**
+
+PRESTATIONS EN VERTU DE LA LOI GÉNÉRALE SUR LES ALLOCATIONS FAMILIALES
+
+L’institution compétente des Pays-Bas détermine les allocations familiales directement et exclusivement en vertu de la Loi générale sur les allocations familiales des Pays-Bas. Une personne recevant une allocation ou admissible à celle-ci en vertu de la Loi générale sur les allocations familiales demeure admissible au paiement de cette allocation lorsqu’elle-même, à titre d’ayant droit, ou l’enfant concerné résident sur le territoire du Québec.
+
+**TITRE IV**
+
+DISPOSITIONS DIVERSES
+
+**ARTICLE 22**
+
+ARRANGEMENT ADMINISTRATIF
+
+(1) Les modalités d’application de l’Entente sont fixées par un Arrangement administratif qui doit être arrêté par l’autorité compétente du Québec et les autorités compétentes des Pays-Bas.
+
+(2) L’organisme de liaison de chaque Partie est désigné dans l’Arrangement administratif.
+
+**ARTICLE 23**
+
+DEMANDE DE PRESTATIONS
+
+(1) Pour bénéficier d’une prestation en vertu de l’Entente, une personne doit présenter une demande selon les modalités prévues par l’Arrangement administratif.
+
+(2) Une demande de prestation présentée après l’entrée en vigueur de l’Entente en vertu de la législation d’une Partie est réputée être une demande pour la prestation correspondante en vertu de la législation de l’autre Partie dans les cas suivants :
+
+(a) lorsqu’une personne indique son intention que sa demande soit considérée comme une demande en vertu de la législation de l’autre Partie ;
+
+(b) lorsqu’une personne indique, au moment de la demande, que des périodes d’assurance ont été accomplies en vertu de la législation de l’autre Partie.
+
+La date de réception d’une telle demande est présumée être la date à laquelle cette demande a été reçue en vertu de la législation de la première Partie.
+
+(3) La présomption du paragraphe 2 n’empêche pas une personne de requérir que sa demande de prestation en vertu de la législation de l’autre Partie soit différée.
+
+**ARTICLE 24**
+
+PAIEMENT DES PRESTATIONS
+
+(1) Toute prestation en espèces est payable directement à un bénéficiaire dans la monnaie de la Partie qui effectue le paiement ou dans une monnaie ayant cours dans le lieu de résidence du bénéficiaire, sans aucune déduction pour frais d’administration.
+
+(2) Pour l’application du paragraphe 1 par les Pays-Bas, lorsqu’il est nécessaire d’avoir recours à un taux de change, ce taux de change est celui qui est en vigueur le jour où le paiement est effectué, tel que recommandé par la Banque centrale des Pays-Bas.
+
+**ARTICLE 25**
+
+DÉLAI DE PRÉSENTATION
+
+(1) Une requête, une déclaration ou un appel qui doivent, en vertu de la législation d’une Partie, être présentés dans un délai déterminé à l’autorité, à l’institution ou au tribunal de cette Partie sont recevables s’ils sont présentés dans le même délai à l’autorité ou à l’institution correspondantes ou au tribunal de l’autre Partie. Dans ce cas, l’autorité, l’institution ou le tribunal de la dernière Partie transmet sans délai cette requête, cette déclaration ou cet appel à l’autorité, à l’institution ou au tribunal de la première Partie.
+
+(2) La date à laquelle cette requête, cette déclaration ou cet appel sont présentés à l’autorité, à l’institution ou au tribunal de l’autre Partie est considérée comme la date de présentation à l’autorité, à l’institution ou au tribunal de l’autre Partie.
+
+**ARTICLE 26**
+
+EXPERTISES MÉDICALES
+
+(1) Lorsque l’institution compétente d’une Partie le requiert, l’institution compétente de l’autre Partie prend les mesures nécessaires pour fournir les expertises médicales requises concernant une personne qui réside ou séjourne sur le territoire de la dernière Partie. Les expertises médicales qui ne sont pas déjà en possession de l’institution compétente de la dernière Partie sont soumises au remboursement des coûts selon les modalités prévues à l’Arrangement administratif.
+
+(2) Les expertises visées au paragraphe 1 ne peuvent être invalidées du seul fait qu’elles ont été effectuées sur le territoire de l’autre Partie.
+
+**ARTICLE 27**
+
+EXEMPTION DE FRAIS ET DE VISA
+
+(1) Toute exemption ou réduction de frais prévue par la législation d’une Partie relativement à la délivrance d’un certificat ou d’un document requis pour l’application de cette législation est étendue aux certificats et aux documents requis pour l’application de la législation de l’autre Partie.
+
+(2) Tout document requis pour l’application de l’Entente est dispensé du visa de légalisation par les autorités responsables ou de toute autre formalité similaire.
+
+**ARTICLE 28**
+
+PROTECTION DES RENSEIGNEMENTS PERSONNELS
+
+(1) À moins que la divulgation ne soit requise en vertu de la législation d’une Partie, tout renseignement personnel communiqué par une institution d’une Partie à une institution de l’autre Partie est confidentiel et est exclusivement utilisé en vue de l’application de l’Entente.
+
+(2) L’accès à des renseignements personnels est soumis à la législation de la Partie sur le territoire de laquelle se trouvent ces renseignements.
+
+(3) Lorsque requis pour le traitement des demandes ou pour le paiement de prestations en vertu de la présente Entente, les renseignements personnels détenus par une tierce personne ou autorité sont communiqués par un organisme de liaison, tel que désigné à l’Arrangement administratif, à l’organisme de liaison de l’autre Partie à partir de l’autorisation écrite du bénéficiaire, de son partenaire ou de ses ayants droit.
+
+**ARTICLE 29**
+
+ASSISTANCE MUTUELLE
+
+Les autorités et les institutions compétentes :
+
+(a) se communiquent tout renseignement requis pour le traitement des demandes entre les Parties conformément à la présente Entente ;
+
+(b) se fournissent assistance sans frais pour toute question relative à l’application de l’Entente ;
+
+(c) se transmettent tout renseignement sur les mesures adoptées aux fins de l’application de l’Entente ou sur les modifications apportées à leur législation pour autant que de telles modifications affectent l’application de l’Entente ;
+
+(d) s’informent des difficultés rencontrées dans l’interprétation ou dans l’application de l’Entente.
+
+**ARTICLE 30**
+
+COMMUNICATIONS
+
+(1) Les autorités et institutions compétentes et les organismes de liaison des deux Parties peuvent communiquer entre eux dans leur langue officielle.
+
+(2) Une décision d’une autorité, d’un tribunal ou d’une institution peut être adressée directement à une personne résidant sur le territoire de l’autre Partie.
+
+**ARTICLE 31**
+
+RÈGLEMENT DES DIFFÉRENDS
+
+(1) Tout différend entre les deux Parties au sujet de l’interprétation ou de l’application de l’Entente doit, autant que possible, être réglé par les autorités compétentes.
+
+(2) Si un différend ne peut être réglé de la façon prévue au paragraphe 1, il est soumis, à la demande d’une Partie, à une commission paritaire.
+
+(3) La commission paritaire est constituée ad hoc.
+
+(4) La commission paritaire étudie le différend et tente de concilier les Parties en leur soumettant des recommandations susceptibles de régler le différend.
+
+**TITRE V**
+
+DISPOSITIONS TRANSITOIRES ET FINALES
+
+**ARTICLE 32**
+
+DISPOSITIONS TRANSITOIRES
+
+(1) L’Entente n’ouvre aucun droit au paiement d’une prestation pour une période antérieure à la date de son entrée en vigueur.
+
+(2) Pour l’application du titre III et sous réserve des dispositions du paragraphe 1 du présent article :
+
+(a) une période d’assurance accomplie avant la date d’entrée en vigueur de l’Entente est prise en compte pour déterminer le droit à une prestation en vertu de l’Entente ;
+
+(b) une prestation, autre qu’une prestation de décès, est due en vertu de l’Entente même si elle se rapporte à un événement antérieur à la date de son entrée en vigueur ;
+
+(c) lorsqu’une prestation est payable suite à l’application de l’article 13 et que la demande pour cette prestation est produite dans les deux ans de la date de l’entrée en vigueur de l’Entente, les droits résultant de l’Entente sont acquis à compter de cette date, ou à compter de la date de la retraite, du décès ou de l’invalidité médicalement confirmée ouvrant droit à la prestation si celle-ci lui est postérieure, nonobstant les dispositions de la législation des deux Parties relatives à la prescription des droits ;
+
+(d) une prestation qui, en raison de la nationalité ou de la résidence, a été refusée, diminuée ou suspendue est, à la demande de la personne intéressée, accordée ou rétablie à partir de la date de l’entrée en vigueur de l’Entente ;
+
+(e) une prestation accordée avant la date de l’entrée en vigueur de l’Entente est révisée à la demande de la personne intéressée. Elle peut également être révisée d’office. Si la révision conduit à une prestation moindre que celle versée avant l’entrée en vigueur de l’Entente, la prestation est maintenue à son niveau antérieur ;
+
+(f) si la demande visée aux alinéas *d* et *e* du présent paragraphe est présentée dans un délai de deux ans à partir de la date de l’entrée en vigueur de l’Entente, les droits ouverts en vertu de l’Entente sont acquis à partir de cette date, malgré les dispositions de la législation des deux Parties relatives à la prescription des droits ;
+
+(g) si la demande visée aux alinéas *d* et *e* du présent paragraphe est présentée après l’expiration du délai de deux ans suivant l’entrée en vigueur de l’Entente, les droits qui ne sont pas prescrits sont acquis à partir de la date de la demande, sous réserve de dispositions plus favorables de la législation applicable.
+
+(3) Pour l’application de l’article 8, une personne qui était détachée à la date de l’entrée en vigueur de l’Entente est présumée n’avoir été détachée qu’à compter de cette date.
+
+**ARTICLE 33**
+
+ENTRÉE EN VIGUEUR ET DURÉE DE L’ENTENTE
+
+(1) Les Parties se notifient par écrit que leurs procédures internes respectives pour l’entrée en vigueur de l’Entente ont été accomplies. La présente Entente entre en vigueur, après la conclusion de l’Arrangement administratif visé à l’article 22, le premier jour du troisième mois suivant la date de la dernière notification.
+
+(2) L’Entente est conclue pour une durée indéfinie. Elle peut être dénoncée par l’une des Parties par notification à l’autre Partie. L’Entente prend fin le 31 décembre qui suit d’au moins douze mois la date de la notification.
+
+(3) Si la présente Entente prend fin, tout droit acquis par une personne en vertu des dispositions qu’elle prévoit sera maintenu et des négociations seront entreprises afin de statuer sur les droits en cours d’acquisition en vertu de ces dispositions.
+
+Fait à Québec, le 4 décembre 2001, en deux exemplaires, en langue française.
+
+Pour le gouvernement Pour le gouvernement
+
+du Québec du Royaume des Pays-Bas
+
+___________________ ____________________________
+
+M*ME* D*IANE* L*EMIEUX,* M. A*DRIANUS* C*ORNELIS* B*ROUWER*,
+
+*Ministre d’État à la Culture* *Consul général*
+
+*et aux Communications*
+
+## ANNEXE II
+
+ARRANGEMENT ADMINISTRATIF POUR L’APPLICATION DE L’ENTENTE EN MATIÈRE DE SÉCURITÉ SOCIALE
+
+ENTRE
+
+LE QUÉBEC
+
+ET
+
+LE ROYAUME DES PAYS-BAS
+
+C*ONSIDÉRANT* l’article 22 de l’Entente en matière de sécurité sociale entre le gouvernement du Québec et le gouvernement du Royaume des Pays-Bas signée le 4 décembre 2001 ;
+
+C*ONSIDÉRANT* la volonté desdits Gouvernements de donner application à l’Entente ;
+
+L*ES AUTORITÉS COMPÉTENTES DE CHACUNE DES PARTIES SONT CONVENUES DES DISPOSITIONS SUIVANTEWS :*
+
+**ARTICLE 1**
+
+DÉFINITIONS
+
+Dans le présent Arrangement administratif :
+
+(a) le terme « Entente » désigne l’Entente en matière de sécurité sociale entre le gouvernement du Québec et le gouvernement du Royaume des Pays-Bas, signée le 4 décembre 2001 ;
+
+(b) les autres termes utilisés ont le sens qui leur est attribué dans l’Entente.
+
+**ARTICLE 2**
+
+ORGANISMES DE LIAISON
+
+(1) Conformément aux dispositions du paragraphe 2 de l’article 22 de l’Entente, les organismes de liaison désignés par chacune des Parties sont :
+
+(a) pour le Québec, la Direction des ententes de sécurité sociale du ministère des Relations avec les citoyens et de l’Immigration ou tout autre organisme que l’autorité compétente du Québec pourra subséquemment désigner ;
+
+(b) pour les Pays-Bas :
+
+(i) en ce qui a trait à l’assurance vieillesse et survivants : Sociale Verzekeringsbank (Banque des assurances sociales), Amstelveen ;
+
+(ii) en ce qui a trait à l’assurance invalidité : Landelijk Instituut Sociale Verzekeringen (Lisv) (Institut national des assurances sociales) a/s de la GAK Nederland BV, Amsterdam.
+
+(2) Les fonctions des organismes de liaison sont stipulées dans le présent Arrangement. Pour l’application de l’Entente, les organismes de liaison peuvent communiquer directement entre eux ainsi qu’avec les personnes concernées ou leurs représentants. Les organismes de liaison des Parties se prêtent assistance dans l’application de l’Entente. En particulier, l’organisme de liaison du Québec valide, pour le compte des Pays-Bas, les périodes de résidence au Québec pour l’application de la Loi générale sur l’assurance vieillesse et la Loi générale sur l’assurance des survivants.
+
+**ARTICLE 3**
+
+INSTITUTION COMPÉTENTE DES PAYS-BAS
+
+Malgré les dispositions de l’alinéa *b* de l’article 2, en ce qui concerne les Pays-Bas, l’institution compétente pour l’application des articles 16 et 17 de l’Entente est le Landelijk Instituut Sociale Verzekeringen (Lisv) (Institut national des assurances sociales), a/s de la GAK Nederland BV, Amsterdam.
+
+**ARTICLE 4**
+
+CERTIFICAT D’ASSUJETTISSEMENT
+
+(1) Pour l’application des articles 7 à 11 de l’Entente, lorsqu’une personne demeure soumise à la législation d’une Partie alors qu’elle travaille sur le territoire de l’autre Partie, un certificat d’assujettissement est délivré :
+
+(a) par l’organisme de liaison du Québec, lorsque la personne demeure soumise à la législation du Québec ;
+
+(b) par la Sociale Verzekeringsbank (Banque des assurances sociales), Amstelveen, lorsque la personne demeure soumise à la législation des Pays-Bas.
+
+(2) L’organisme de liaison ou l’institution, selon le cas, qui délivre le certificat d’assujettissement envoie une copie de ce certificat à l’autre organisme de liaison ou institution mentionné au paragraphe 1, à la personne concernée et, le cas échéant, à son employeur.
+
+**ARTICLE 5**
+
+PRESTATIONS DE VIEILLESSE OU DE RETRAITE, D’INVALIDITÉ ET DE SURVIVANTS
+
+(1) Pour l’application du titre III de l’Entente, une demande de prestation en vertu de l’Entente peut être présentée à l’organisme de liaison de l’une ou l’autre des Parties, ou à l’institution compétente de la Partie dont la législation est applicable.
+
+(2) Lorsque la demande de prestation mentionnée au paragraphe 1 est présentée à un organisme de liaison, celui-ci transmet cette demande à l’institution compétente de la Partie dont la législation est applicable, accompagnée des pièces justificatives requises.
+
+(3) L’institution compétente d’une Partie qui reçoit une demande de prestation visée au paragraphe 2 de l’article 23 de l’Entente la fait parvenir à l’organisme de liaison de la même Partie. L’organisme de liaison transmet cette demande à l’institution compétente de l’autre Partie, accompagnée des pièces justificatives requises.
+
+(4) Tout renseignement relatif à l’état civil inscrit sur un formulaire de demande est certifié par l’organisme de liaison qui transmet la demande, ce qui le dispense de faire parvenir les pièces justificatives.
+
+(5) Un formulaire de liaison accompagne la demande et les pièces justificatives visées dans cet article.
+
+(6) Lorsque l’institution compétente ou l’organisme de liaison d’une Partie le requiert, l’organisme de liaison ou l’institution compétente de l’autre Partie indique sur le formulaire de liaison les périodes d’assurance reconnues en vertu de la législation qu’il applique.
+
+(7) Dès qu’elle a pris une décision en vertu de la législation qu’elle applique, l’institution compétente en avise la personne requérante et lui fait part des voies et délais de recours prévus par cette législation ; l’institution compétente informe également de la décision, l’organisme de liaison ou l’institution compétente de l’autre Partie, selon le cas, en utilisant le formulaire de liaison.
+
+(8) Afin de vérifier la légitimité des paiements versés à ses propres bénéficiaires de prestations, l’institution compétente de l’une des Parties peut adresser une demande de renseignements à l’institution compétente ou à l’organisme de liaison de la Partie sur le territoire de laquelle lesdits bénéficiaires séjournent ou résident.
+
+(9) Pour l’application du paragraphe 8, l’institution compétente ou l’organisme de liaison du territoire de séjour ou de résidence des bénéficiaires n’est tenu de transmettre que les renseignements déjà en sa possession et ce, sous réserve de l’article 28 de l’Entente.
+
+**ARTICLE 6**
+
+CONTRÔLE MÉDICAL
+
+(1) Les contrôles médicaux prévus par la législation néerlandaise des requérants ou des ayants droit qui résident au Québec sont effectués, à la requête de l’institution compétente, par la Régie des rentes du Québec.
+
+(2) Les contrôles médicaux prévus par la législation québécoise des requérants ou des ayants droit qui résident aux Pays-Bas sont effectués, à la requête de l’institution compétente, par la GAK Nederland BV.
+
+(3) Pour l’appréciation du degré d’inaptitude au travail, les institutions de chaque Partie peuvent s’appuyer sur les rapports médicaux fournis par l’autre Partie.
+
+(4) Sauf dans les cas visés au paragraphe 2 de l’article 16 de l’Entente, l’institution compétente des Pays-Bas conserve la faculté de faire examiner ses bénéficiaires par un médecin de son choix au Québec ou aux Pays-Bas.
+
+(5) Si l’examen médical est effectué aux Pays-Bas, les frais médicaux ainsi que les frais de déplacement et d’hospitalisation sont à la charge de l’institution compétente des Pays-Bas.
+
+**ARTICLE 7**
+
+REMBOURSEMENT ENTRE INSTITUTIONS
+
+Pour l’application de l’article 26 de l’Entente, à la fin de chaque année civile, lorsque l’institution compétente d’une Partie a fait effectuer des expertises, pour le compte ou à la charge de l’institution compétente de l’autre Partie, l’organisme de liaison de la première Partie transmet à l’organisme de liaison de l’autre Partie un état des honoraires afférents aux expertises effectuées au cours de l’année considérée, en indiquant le montant dû. Cet état est accompagné des pièces justificatives.
+
+**ARTICLE 8**
+
+FORMULAIRES
+
+Tout formulaire ou autre document nécessaires à la mise en oeuvre de la procédure prévue par l’Arrangement administratif sont établis d’un commun accord par les organismes de liaison ou l’institution compétente responsables de l’application de l’Entente pour chacune des Parties.
+
+**ARTICLE 9**
+
+DONNÉES STATISTIQUES
+
+Les organismes de liaison des deux Parties s’échangent, dans la forme convenue, les données statistiques concernant les versements effectués aux bénéficiaires pendant chaque année civile en vertu de l’Entente. Ces données peuvent comprendre le nombre de bénéficiaires et le montant total des prestations, par catégorie de prestation.
+
+**ARTICLE 10**
+
+ENTRÉE EN VIGUEUR ET DÉNONCIATION
+
+L’Arrangement administratif entre en vigueur à la même date que l’Entente. La dénonciation de l’Entente vaut dénonciation de l’Arrangement administratif.
+
+Fait à Québec, le 4 décembre 2001, en deux exemplaires, en langue française.
+
+Pour l’autorité compétente Pour les autorités compétentes
+
+du Québec des Pays-Bas
+
+___________________ ____________________________
+
+M*ME* D*IANE* L*EMIEUX,* M. A*DRIANUS* C*ORNELIS* B*ROUWER*,
+
+*Ministre d’État à la Culture* *Consul général*
+
+*et aux Communications*

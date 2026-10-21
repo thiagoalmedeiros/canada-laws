@@ -1,0 +1,62 @@
+---
+type: "Regulation"
+title: "Protection of Privacy Regulations"
+description: "Federal regulation C.R.C., c. 440, made under the Criminal Code."
+resource: "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._440/"
+tags: ["federal", "regulation", "en"]
+jurisdiction: "federal"
+language: "en"
+number: "C.R.C., c. 440"
+source_id: "C.R.C.,_c._440"
+current_to: "2025-07-24"
+last_amended: "2006-03-22"
+in_force: true
+translation: "../fr/CRC-ch-440.md"
+status: "stable"
+generated: { by: process:canada-laws-federal-converter, at: 2025-07-24T00:00:00Z }
+sources:
+  - id: "justice-xml"
+    resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.,_c._440.xml"
+    title: "Justice Canada consolidated XML (laws-lois-xml)"
+    author: "org:justice-canada"
+    last_modified: "2025-07-24T00:00:00Z"
+  - id: "justice-laws"
+    resource: "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._440/"
+    title: "Justice Laws Website"
+    author: "org:justice-canada"
+    last_modified: "2006-03-22T00:00:00Z"
+---
+
+# Protection of Privacy Regulations
+
+*Regulations Prescribing the Manner of Certification of Certain Matters Relating to the Interception of Private Communications under Authorizations*
+
+C.R.C., c. 440 · Consolidated: 2025-07-24 · Last amended: 2006-03-22
+
+Enabling authority: [CRIMINAL CODE](../../acts/en/C-46.md)
+
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._440/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
+
+## Short Title
+
+**1** These Regulations may be cited as the [Protection of Privacy Regulations](CRC-c-440.md).
+
+## General
+
+**2** For the purposes of subsection 178.23(1) of the [Criminal Code](../../acts/en/C-46.md), the Attorney General of a province who gave a notice required to be given by that subsection, or the Solicitor General of Canada where the notice was given by him, shall certify to the court that issued the authorization that such notice was given by filing with a judge of the court a certificate signed by the person who gave the notice specifying
+
+- **(a)** the name and address of the person who was the object of the interception;
+
+- **(b)** the date on which the authorization and any renewal thereof expired;
+
+- **(c)** if any delay for the giving of notice was granted under section 178.23 or subsection 178.12(3) of the [Criminal Code](../../acts/en/C-46.md), the period of such delay; and
+
+- **(d)** the date, place and method of the giving of the notice.
+
+<sub>History: SOR/81-859, s. 1</sub>
+
+**3** \[Revoked, SOR/81-859, s. 2\]
+
+**4** A certificate filed pursuant to section 2 shall be treated as a confidential document, shall be placed in a packet, sealed by the judge with whom it is filed and kept with the packet sealed pursuant to section 178.14 of the [Criminal Code](../../acts/en/C-46.md) that relates to the authorization to which the certificate relates.
+
+<sub>History: SOR/81-859, s. 3</sub>

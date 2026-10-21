@@ -1,0 +1,493 @@
+---
+type: "Regulation"
+title: "Regulation respecting the procedure followed by the Commission sur les soins de fin de vie to assess compliance with the criteria for the administration of medical aid in dying and the information to be sent to the Commission by a competent professional and by a pharmacist"
+description: "Quebec regulation, CQLR c S-32.0001, r 1."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/S-32.0001,%20r.%201"
+tags: ["qc", "regulation", "en"]
+jurisdiction: "qc"
+language: "en"
+citation: "CQLR c S-32.0001, r 1"
+document_date: "2025-01-17"
+translation: "../fr/CQLR-c-S-32.0001-r-1.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/S-32.0001,%20r.%201"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Regulation respecting the procedure followed by the Commission sur les soins de fin de vie to assess compliance with the criteria for the administration of medical aid in dying and the information to be sent to the Commission by a competent professional and by a pharmacist
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/S-32.0001,%20r.%201) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c S-32.0001, r 1*
+
+*Enabling statute: Act respecting end-of-life care (chapter S-32.0001, ss. 46 and 47)*
+
+*Updated to 2025-01-17*
+
+## I — INFORMATION TO BE SENT TO THE COMMISSION BY A COMPETENT PROFESSIONAL TO ASSESS COMPLIANCE WITH THE CRITERIA FOR THE ADMINISTRATION OF MEDICAL AID IN DYING
+
+### I — OBLIGATION OF COMPETENT PROFESSIONAL
+
+**1** The competent professional who administers medical aid in dying must give notice to the Commission sur les soins de fin de vie established under section 38 of the Act respecting end-of-life care (chapter S-32.0001) within the next 10 days by sending the information provided for in Division II.
+
+### II — INFORMATION
+
+**2** The information to be sent to the Commission is divided into the following 2 separate components:
+
+(1) the information provided for in section 3, in the case of a contemporaneous request for medical aid in dying, or in section 3.1, in the case of an advance request for medical aid in dying;
+
+(2) the information provided for in section 4.
+
+**3** If medical aid in dying was administered following a contemporaneous request, the information constituting the component referred to in paragraph 1 of section 2 is the following:
+
+(1) concerning the person who requested medical aid in dying:
+
+(a) the date of birth;
+
+(b) sex;
+
+(c) an indication that the competent professional verified that the person was insured within the meaning of the Health Insurance Act (chapter A-29) or that the person is considered an insured person within the meaning of the second paragraph of section 26 of the Act respecting end-of-life care (chapter S-32.0001);
+
+(d) the main medical diagnosis, assessment of the prognosis for the illness or a description of the anticipated clinical course of the physical impairment as well as the detailed clinical picture;
+
+(e) the nature and description of the person’s disabilities;
+
+(f) the nature and description of physical or psychological suffering and the fact that it is persistent and unbearable;
+
+(g) the reasons why the suffering cannot be relieved in a manner the person deems tolerable;
+
+(h) an indication that the competent professional made sure that the person was capable of giving consent to care and the reasons leading the competent professional to that conclusion and, if the person had become incapable of giving consent to care before the administration of medical aid in dying, that the following criteria were complied with:
+
+(i) when the person was at the end of life and before becoming incapable of giving consent to care:
+
+(I) the criteria set out in the first paragraph of section 29 of the Act respecting end-of-life care had been met;
+
+(II) the person had given consent, in writing by means of the form prescribed by the Minister of Health and Social Services and in the presence of a competent professional, within 90 days before the date of administration of the medical aid in dying, to receiving the aid even if they were to become incapable of giving consent to care before the administration of the aid;
+
+(ii) when the person was at the end of life and after becoming incapable of giving consent to care, the person did not express any refusal to receive medical aid in dying;
+
+(h.1) the date on which the form referred to in subparagraph i of subparagraph *h* was completed, if applicable;
+
+(i) the date of the discussions with the person to ascertain the persistence of suffering and that the wish to obtain medical aid in dying remains unchanged, and the reasons why the competent professional was convinced of the persistence of suffering and of the constancy of the person’s wish to obtain medical aid in dying;
+
+(j) an indication of whether or not the person wished that the competent professional discuss the person’s request with the person’s close relations or any other person the person has identified and, if applicable, the date of the discussions;
+
+(k) an indication of whether or not the person had the opportunity to discuss the request with all the persons that he or she wished to contact and, if applicable, the reasons why the person could not do so;
+
+(l) a description of the palliative care received by the person, if applicable;
+
+(m) if the person had a physical impairment, an indication that the competent professional made sure that the person evaluated the possibility of obtaining support, advisory or assistance service and, if applicable, a description of the services received by the person;
+
+(2) concerning the request for medical aid in dying:
+
+(a) the date on which the request was completed;
+
+(b) an indication that the competent professional verified that it was made using the form prescribed by the Minister of Health and Social Services under the fourth paragraph of section 26 of the Act respecting end-of-life care;
+
+(c) an indication that the competent professional verified that it was indeed dated and signed by the person personally and, where it was signed by a third person, that the reasons why the third person acted comply with the reasons provided for in section 27 of the Act respecting end-of-life care;
+
+(d) if the request was completed by a third person in the presence of the competent professional, an indication that the competent professional had no apparent reason to doubt the fact that the third person met the criteria provided for in section 27 of the Act respecting end-of-life care;
+
+(e) if the request was not completed in the presence of the competent professional, an indication that the competent professional verified that the request was completed in the presence of a health or social services professional and, if it was completed by a third person, that the professional had no apparent reason to doubt the fact that the third person met the criteria provided for in section 27 of the Act respecting end-of-life care;
+
+(f) (subparagraph revoked);
+
+(g) a description of the verifications made by the competent professional to make sure that the request is made freely and more specifically that it is not made as a result of external pressure;
+
+(h) an indication that the competent professional made sure that the request is an informed one, in particular by ascertaining that the person was fully informed of the following elements and that the person fully understood the information given in their regard:
+
+(i) the medical diagnosis and the prognosis for the illness or the anticipated clinical course of the physical impairment;
+
+(ii) therapeutic possibilities and their consequences, as well as, if applicable, the appropriate measures for compensating for the person’s disabilities and any other care that can be offered;
+
+(iii) other end-of-life care if indicated, in particular palliative care, including continuous palliative sedation, as well as the right to refuse care;
+
+(iv) the progress of the administration of medical aid in dying and possible risks;
+
+(v) the fact that the person may at all times and by any means withdraw the request for medical aid in dying or postpone it;
+
+(i) the date of the discussions with the person to make sure that the person was fully informed of the elements provided for in subparagraph *h* and that the person fully understood the information given in their regard as well as a summary of the discussions;
+
+(j) an indication of whether or not discussions with respect to the person were conducted between the competent professional and the members of the care team who are in regular contact with the person and, if applicable, the conclusions of those discussions;
+
+(2.1) concerning the competent professional who administered medical aid in dying, an indication that he or she is a physician or a specialized nurse practitioner and, if applicable, was treating the person who requested the medical aid in dying before the request was made;
+
+(3) concerning the second competent professional consulted to confirm that the criteria set out in section 26 of the Act respecting the end-of-life care are met:
+
+(a) an indication that the physician made sure of his or her independence with respect to the person having requested medical aid in dying and the competent professional having administered it;
+
+(b) (subparagraph revoked);
+
+(c) the date or dates on which the competent professional consulted the record of the person who requested medical aid in dying;
+
+(d) the date or dates on which the competent professional personally examined the person who requested medical aid in dying;
+
+(e) the competent professional’s opinion regarding compliance with the criteria set out in section 26 of the Act respecting end-of-life care and the date on which the physician signed the opinion;
+
+(f) an indication that he or she is a physician or a specialized nurse practitioner and, if applicable, was treating the person who requested the medical aid in dying before the request was made;
+
+(4) concerning medical aid in dying:
+
+(a) the date of administration;
+
+(b) (subparagraph revoked);
+
+(c) the health region where the death occurred;
+
+(d) the type of location at which the death occurred, namely,
+
+(i) the domicile of the person who requested medical aid in dying;
+
+(ii) an institution; in that case, specify whether the institution is public or private and the centre operated in the facility in which the death occurred;
+
+(iii) a palliative care hospice; or
+
+(iv) another type of location; in that case, specify the type and indicate if that place was authorized in accordance with the second paragraph of section 4 of the Act respecting end-of-life care.
+
+The competent professional who administered medical aid in dying also sends to the Commission any other information or comment the competent professional deems relevant for examination by the Commission within the framework of its mandate.
+
+**3.1** If medical aid in dying was administered following an advance request, the information constituting the component referred to in paragraph 1 of section 2 is the following:
+
+(1) concerning the person who requested medical aid in dying:
+
+(a) the date of birth;
+
+(b) sex;
+
+(c) an indication that the competent professional verified that the person was insured within the meaning of the Health Insurance Act (chapter A-29) or that the person is considered an insured person within the meaning of the second paragraph of section 29.1 of the Act respecting end-of-life care (chapter S-32.0001);
+
+(d) the main medical diagnosis, vital prognosis and detailed clinical picture;
+
+(e) a description of the clinical manifestations related to the serious and incurable illness leading to the incapacity to consent to care that the person described in the request, as observed by the competent professional along with their recurrent nature;
+
+(f) the nature and description of the person’s disabilities;
+
+(g) the nature and description of physical or psychological suffering and a description of the signs of suffering that the competent professional has observed;
+
+(h) the reasons for which the person’s medical situation leads the competent professional to believe that the person is experiencing enduring and unbearable physical or psychological suffering that cannot be relieved under conditions considered tolerable;
+
+(i) a description of the services other than medical aid in dying the person has received to relieve the suffering, if any;
+
+(j) an indication that the competent professional made sure that the person was incapable of giving consent to care when medical aid in dying was administered and the reasons leading to that conclusion;
+
+(k) an indication that the competent professional ensured that the person had become incapable of giving consent to care because of the serious and incurable illness leading to the incapacity to consent to care identified in the request;
+
+(l) a description of the behavioural symptoms resulting from the person’s medical state, presented by the person, and the reasons for which the competent professional ruled out the possibility that the patient was refusing to receive medical aid in dying, if applicable;
+
+(m) an indication that the competent professional recorded in writing the behavioural symptoms arising from the person’s medical state that the professional observed and the conclusions of the assessment, if applicable;
+
+(n) the date or dates on which the person was examined as required by section 29.13, 29.14 or 29.15 of the Act respecting end-of-life care;
+
+(2) concerning the request for medical aid in dying:
+
+(a) the date on which the request was completed;
+
+(b) an indication that the competent professional verified that it was made using the form prescribed by the Minister of Health and Social Services under the first paragraph of section 29.2 of the Act respecting end-of-life care;
+
+(c) an indication that the competent professional verified that it was completed fully and correctly;
+
+(d) an indication that the competent professional verified that the request was the most recent one made by the person and recorded in the register referred to in section 29.10 of the Act respecting end-of-life care;
+
+(e) the serious and incurable illness leading to the inability to consent to care identified in the request;
+
+(f) the clinical manifestations of the serious and incurable illness leading to the incapacity to consent to care described by the person in the request;
+
+(g) a medical description of the clinical manifestations made by the competent professional in the request;
+
+(3) concerning the competent professional who administered medical aid in dying:
+
+(a) the date or dates on which the competent professional
+
+(i) consulted the record of the person who requested medical aid in dying, and in particular the form used to make the request for medical aid in dying;
+
+(ii) examined the person who requested medical aid in dying;
+
+(iii) consulted the members of the healthcare team responsible for the person who requested medical aid in dying, if applicable;
+
+(b) an indication that he or she is a physician or a specialized nurse practitioner and, if applicable, was treating the person who requested the medical aid in dying before it was administered;
+
+(c) an indication that the competent professional did or did not carry out the examination required by section 29.13, 29.14 or 29.15 of the Act respecting end-of-life care;
+
+(4) concerning the second competent professional consulted to confirm compliance with the criteria set out in subparagraph 2 of the first paragraph of section 29.1 and the first paragraph of section 29.2 of the Act respecting end-of-life care:
+
+(a) an indication that the professional was independent of both the person who requested medical aid in dying and the competent professional who administered the medical aid in dying;
+
+(b) the date or dates on which the second competent professional consulted the record of the person who requested medical aid in dying, and in particular the form used to make the request for medical aid in dying;
+
+(c) the date or dates on which the second competent professional personally examined the person who requested medical aid in dying;
+
+(d) the second competent professional’s opinion concerning compliance with the criteria set out in subparagraph 2 of the first paragraph of section 29.1 and the first paragraph of section 29.2 of the Act respecting end-of-life care and the date on which the opinion was signed;
+
+(e) an indication that the second competent professional is a physician or a specialized nurse practitioner and, if applicable, was treating the person who requested the medical aid in dying before it was administered;
+
+(f) an indication that the second competent professional did or did not carry out the examination required by section 29.13, 29.14 or 29.15 of the Act respecting end-of-life care;
+
+(5) the information on medical aid in dying referred to in subparagraph 4 of the first paragraph of section 3.
+
+The competent professional who administered medical aid in dying also sends to the Commission any other information or comment the competent professional deems relevant for examination by the Commission within the framework of its mandate.
+
+**4** The information constituting the component referred to in paragraph 2 of section 2 is the following:
+
+(1) the record number of the person who requested medical aid in dying in the institution or the private health facility in which the competent professional who administered medical aid in dying practises and in which the notes concerning medical aid in dying are recorded, as well as the identification of the institution or private health facility concerned and of the institution’s facility concerned, if applicable;
+
+(2) concerning the competent professional who administered medical aid in dying:
+
+(a) the competent professional’s name and signature;
+
+(b) the number of the competent professional’s licence to practise;
+
+(c) professional contact information;
+
+(3) concerning the second competent professional who gave a second opinion pursuant to subparagraph 3 of the first paragraph of section 29 of the Act respecting end-of-life care (chapter S-32.0001), in the case of a contemporaneous request for medical aid in dying, or subparagraph 2 of the first paragraph of section 29.19 of the Act, in the case of an advance request for medical aid in dying:
+
+(a) the competent professional’s name;
+
+(b) the number of the competent professional’s licence to practise;
+
+(c) professional contact information.
+
+### III — FORM
+
+**5** The Minister of Health and Social Services makes a form available to every competent professional who administers medical aid in dying enabling the competent professional to fulfill the obligation provided for in section 1.
+
+The form must be designed in such a way that the competent professional may seal the information constituting the component referred to in paragraph 2 of section 2 in a manner that prevents the members of the Commission from consulting the information. The members of the Commission may consult the information only in the circumstances provided for in sections 9 and 13.
+
+**6** The form completed by the competent professional is sent to the Commission by any means that ensures the protection of the information the form contains.
+
+**7** (Revoked).
+
+## II — PROCEDURE TO BE FOLLOWED BY THE COMMISSION TO ASSESS COMPLIANCE WITH THE CRITERIA FOR THE ADMINISTRATION OF MEDICAL AID IN DYING
+
+**8** The Commission assesses, in each case of administration of medical aid in dying and using the information referred to in paragraph 1 of section 2 sent to the Commission, compliance with section 29 or section 29.19 of the Act respecting end-of-life care (chapter S-32.0001).
+
+Each case is examined in plenary session.
+
+**9** Where the information sent to the Commission is incomplete or the Commission is of the opinion that it may not reach a decision on compliance with section 29 or section 29.19 of the Act respecting end-of-life care (chapter S-32.0001) in a particular case without obtaining particulars, its members may consult the information referred to in paragraph 2 of section 2.
+
+It may then request that the additional information or particulars it deems necessary to the assessment be provided by the competent professional who administered medical aid in dying, by the second competent professional consulted to confirm compliance with the criteria set out in section 26 of the Act respecting end-of-life care or the criteria set out in subparagraph 2 of the first paragraph of section 29.1 and the first paragraph of section 29.2 of that Act or by any other person who could be able to do so.
+
+The decision to consult the content of the information referred to in the first paragraph must be made by the majority of the members present.
+
+**10** Where the Commission requests that additional information or particulars be provided, the Commission always acts in a manner that protects the confidentiality of the personal information concerning the person who requested medical aid in dying, the person’s close relations and the health and social services professionals involved.
+
+**11** Every person to whom the Commission requests additional information or particulars must reply to the Commission within 10 working days after receiving the request.
+
+**12** The Commission must examine each case of administration of medical aid in dying within 2 months after the information concerning the case is received.
+
+The period is extended by 1 month where the additional information or particulars are requested without exceeding 3 months after the information concerning the case is received.
+
+**13** Where following the assessment of compliance with section 29 or section 29.19 of the Act respecting end-of-life care (chapter S-32.0001) in a case of administration of medical aid in dying, two thirds or more of the members of the Commission present are of the opinion that a competent professional administered medical aid in dying while either section was not complied with, the members consult the information referred to in paragraph 2 of section 2.
+
+Where this is the case, the Commission must inform the Collège des médecins du Québec or, as the case may be, the Ordre des infirmières et infirmiers du Québec and, when the competent professional provided the medical aid in dying as a physician or specialized nurse practitioner practising in a centre operated by an institution, the institution concerned so that they can take appropriate measures. The Commission sends a summary of its conclusions to the Collège or, as the case may be, to the Ordre and the institution, if applicable. The summary describes the irregularities identified by the Commission and, if applicable, the steps taken to obtain additional information or particulars as well as the result of the steps.
+
+The Commission may conclude that section 29 or section 29.19 of the Act respecting end-of-life care has not been complied with whether or not a request for additional information or particulars under the second paragraph of section 9 has been made.
+
+**14** Every decision of the Commission is substantiated in writing and recorded in the minutes of the sitting at which the decision is made.
+
+## II.1 — INFORMATION TO BE SENT TO THE COMMISSION BY A COMPETENT PROFESSIONAL IF MEDICAL AID IN DYING WAS NOT ADMINISTERED
+
+### I — OBLIGATION OF COMPETENT PROFESSIONAL
+
+**15** A competent professional having received a request for medical aid in dying who does not administer such aid to the person having made the request must, within 30 days after any of the events referred to in the first paragraph of section 47.1 of the Act respecting end-of-life care (chapter S-32.0001), notify the Commission by sending, according to the event that took place, the information provided for in Division II.
+
+### II — INFORMATION
+
+**15.1** The information to be sent to the Commission is divided into the following 2 separate components:
+
+(1) the information provided for, according to the event that took place, in sections 15.2 to 15.6;
+
+(2) the information provided for in section 15.7.
+
+**15.2** If the competent professional found that the person who made the request for medical aid in dying did not meet the criteria set out in section 29 or section 29.19 of the Act respecting end-of-life care (chapter S-32.0001), the information constituting the component referred to in paragraph 1 of section 15.1 is the following:
+
+(1) the person’s date of birth and sex;
+
+(2) if known by the competent professional, the person’s main medical diagnosis and, as applicable,
+
+(a) the prognosis for the illness or a description of the anticipated clinical course of the physical impairment, in the case of a contemporaneous request;
+
+(b) the person’s vital prognosis, in the case of an advance request;
+
+(3) the date on which the request for medical aid in dying was completed;
+
+(4) the health region in which the person’s domicile is located;
+
+(5) the reasons leading the competent professional to conclude that the person no longer meets the criteria set out in section 29 or 29.19 of the Act respecting end-of-life care and the date on which that conclusion was made;
+
+(6) the information concerning any service other than medical aid in dying offered to and received by the person to relieve suffering, if applicable;
+
+(7) an indication that the competent professional is a physician or a specialized nurse practitioner.
+
+**15.3** If the competent professional found or was informed that the person who made the request for medical aid in dying withdrew the request, the information constituting the component referred to in paragraph 1 of section 15.1 is, in addition to the reasons why the person withdrew the request, if known by the competent professional, the following:
+
+(1) in the case of a contemporaneous request:
+
+(a) the competent professional’s opinion regarding compliance with the criteria set out in section 26 of the Act respecting end-of-life care (chapter S-32.0001) before the person withdrew their request, if applicable;
+
+(b) the information referred to in paragraphs 1 to 4, 6 and 7 of section 15.2;
+
+(2) in the case of an advance request:
+
+(a) the date on which the request was deleted from the register referred to in section 29.10 of the Act respecting end-of-life care;
+
+(b) the information referred to in paragraphs 1, 3, 4 and 7 of section 15.2;
+
+(3) (paragraph replaced).
+
+**15.4** If the competent professional found or was informed that the person who made the request for medical aid in dying refused to receive such aid, the information constituting the component referred to in paragraph 1 of section 15.1 is the following:
+
+(1) the date on which the administration of medical aid in dying was to take place;
+
+(2) the person’s main medical diagnosis and, as applicable,
+
+(a) the prognosis for the illness or a description of the anticipated clinical course of the physical impairment, in the case of a contemporaneous request;
+
+(b) the person’s vital prognosis, in the case of an advance request;
+
+(3) the date on which the competent professional concluded that the person met the criteria set out in section 29 or 29.19 of the Act respecting end-of-life care (chapter S-32.0001);
+
+(4) the information referred to in paragraphs 1, 3, 4, 6 and 7 of section 15.2;
+
+(5) (subparagraph replaced).
+
+In addition to the information provided for in the first paragraph, the following information is also required:
+
+(1) in the case of a contemporaneous request:
+
+(a) the facts that made it possible to find that the person had expressed his or her refusal;
+
+(b) the date on which the person’s inability to consent to care was observed;
+
+(c) an indication that the person had given consent, in writing by means of the form prescribed by the Minister of Health and Social Services and in the presence of a competent professional, to receive medical aid in dying even if the person became incapable of giving consent to care before the administration of the aid as well as the date on which the form was completed, if applicable;
+
+(2) in the case of an advance request:
+
+(a) the date or dates on which the examination required by section 29.13, 29.14 or 29.15 of the Act respecting end-of-life care was carried out;
+
+(b) the facts that made it possible to find that the person had expressed his or her refusal and the reasons leading the competent professional to conclude that they did not constitute behavioural symptoms resulting from the person’s medical state that would have led the competent professional to rule out the possibility that the person was refusing to receive medical aid in dying;
+
+(c) the date on which the request was deleted from the register referred to in section 29.10 of the Act respecting end-of-life care.
+
+**15.5** If the competent professional forwarded a notice of refusal pursuant to section 31 of the Act respecting end-of-life care (chapter S-32.0001), the information constituting the component referred to in paragraph 1 of section 15.1 is, in addition to the date on which the professional forwarded the notice, the following:
+
+(1) in the case of a notice of refusal of a request for a reason not based on section 29 or section 29.19 of the Act respecting end-of-life care, the information referred to in paragraphs 1, 3, 4 and 7 of section 15.2;
+
+(2) in the case of a notice of refusal to provide assistance to a person in making an advance request:
+
+(a) the date on which the competent professional was asked to assist the person;
+
+(b) the information referred to in paragraphs 1, 4 and 7 of section 15.2;
+
+(3) in the case of a notice of refusal de provide assistance to a person for the withdrawal of an advance request or a notice of refusal to carry out the examination required by section 29.13, 29.14 or 29.15 of the Act respecting end-of-life care, the information referred to in paragraphs 1, 3, 4 and 7 of section 15.2.
+
+**15.6** If the competent professional found or was informed that the person who made the request for medical aid in dying died before the administration of such aid, the information constituting the component referred to in paragraph 1 of section 15.1 is the following:
+
+(1) the date of death of the person, if known by the competent professional;
+
+(2) the competent professional’s opinion regarding compliance with the criteria set out in section 26 or 29.19 of the Act respecting end-of-life care (chapter S-32.0001) before the person died, if applicable;
+
+(3) the date on which the administration of medical aid in dying was to take place, if applicable;
+
+(4) the information referred to in paragraphs 1 to 4, 6 and 7 of section 15.2.
+
+In addition to the information provided for in the first paragraph, the following information is also required, in the case of an advance request:
+
+(1) the date or dates on which the examination required by section 29.13, 29.14 or 29.15 of the Act respecting end-of-life care was carried out, if applicable;
+
+(2) the date or dates on which the criteria set out in section 29.19 of the Act respecting end-of-life care were assessed, if applicable.
+
+**15.7** The information constituting the component referred to in paragraph 2 of section 15.1 is the following:
+
+(1) the record number of the person concerned by a request for medical aid in dying in the institution or the private health facility in which the competent professional having received the request practises and in which the notes concerning that request are recorded, as well as the identification of the institution or private health facility concerned and of the institution’s facility concerned, if applicable;
+
+(2) concerning the competent professional who did not administer medical aid in dying:
+
+(a) his or her name and signature;
+
+(b) number of his or her licence to practise;
+
+(c) professional contact information.
+
+**15.8** The competent professional must also send to the Commission any other information or comment he or she deems relevant.
+
+**15.9** Where the information sent to the Commission is incomplete, Commission members may consult the information referred to in paragraph 2 of section 15.1.
+
+The Commission may then ask the competent professional to provide the additional information.
+
+The decision to consult the information referred to in the first paragraph must be made by the majority of the members present.
+
+**15.10** Every competent professional from whom the Commission requests additional information must reply to the Commission within 20 working days after receiving the request.
+
+### III — FORM
+
+**15.11** The Minister of Health and Social Services makes a form available to every competent professional having received a request for medical aid in dying who does not administer such aid to the person having made the request to fulfill the obligation provided for in section 15.
+
+The form must be designed in such a way that the competent professional may seal the information constituting the component referred to in paragraph 2 of section 15.1 in a manner that prevents the members of the Commission from consulting the information. The members of the Commission may consult the information only in the circumstances provided for in section 15.9.
+
+**15.12** The form completed by the competent professional is sent to the Commission by any means that ensures the protection of the information contained therein.
+
+## II.2 — INFORMATION TO BE SENT TO THE COMMISSION BY A PHARMACIST RELATING TO THE PROVISION OF A MEDICATION OR A SUBSTANCE FOR THE PURPOSE OF THE ADMINISTRATION OF MEDICAL AID IN DYING
+
+### I — OBLIGATION OF PHARMACIST
+
+**15.13** A pharmacist who provides a medication or a substance to a competent professional for the purpose of the administration of medical aid in dying to a person must notify the Commission within 30 days by sending it the information provided for in Division II.
+
+### II — INFORMATION
+
+**15.14** The information to be sent to the Commission is divided into the following 2 separate components:
+
+(1) the information provided for in section 15.15;
+
+(2) the information provided for in section 15.16 that identifies the pharmacist who provided a medication or a substance to a competent professional for the purpose of the administration of medical aid in dying to a person.
+
+**15.15** The information constituting the component referred to in paragraph 1 of section 15.14 is the following:
+
+(1) the date on which the medication or substance was provided;
+
+(2) an indication that the medication or substance came from a centre operated by an institution or from a community pharmacy;
+
+(3) the health region in which that centre or community pharmacy is located;
+
+(4) the date of birth of the person who requested medical aid in dying and for whom the medication or substance was provided;
+
+(5) the date on which the administration of medical aid in dying was to take place, if known by the pharmacist.
+
+The pharmacist must also send to the Commission any other information or comment he or she deems relevant.
+
+**15.16** The information constituting the component referred to in paragraph 2 of section 15.14 is the following:
+
+(1) the pharmacist’s name and signature;
+
+(2) number of his or her licence to practise;
+
+(3) professional contact information.
+
+**15.17** Where the information sent to the Commission is incomplete, Commission members may consult the information referred to in paragraph 2 of section 15.14.
+
+The Commission may then ask the pharmacist to provide the additional information.
+
+The decision to consult the information referred to in the first paragraph must be made by the majority of the members present.
+
+**15.18** Every pharmacist from whom the Commission requests additional information must reply to the Commission within 20 working days after receiving the request.
+
+### III — FORM
+
+**15.19** The Minister of Health and Social Services makes a form available to every pharmacist who provides a medication or a substance to a competent professional for the purpose of the administration of medical aid in dying to a person to fulfill the obligation provided for in section 15.13.
+
+The form must be designed in such a way that the pharmacist may seal the information constituting the component referred to in paragraph 2 of section 15.14 in a manner that prevents the members of the Commission from consulting the information. The members of the Commission may consult the information only in the circumstances provided for in section 15.17.
+
+**15.20** The form completed by the pharmacist is sent to the Commission by any means that ensures the protection of the information contained therein.
+
+## III — FINAL
+
+**16** (Omitted).

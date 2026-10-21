@@ -1,0 +1,425 @@
+---
+type: "Regulation"
+title: "Code de déontologie des criminologues"
+description: "Règlement (Québec), RLRQ c C-26, r 90.01.2."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-26,%20r.%2090.01.2"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c C-26, r 90.01.2"
+document_date: "2025-08-14"
+translation: "../en/CQLR-c-C-26-r-90.01.2.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-26,%20r.%2090.01.2"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Code de déontologie des criminologues
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/C-26,%20r.%2090.01.2) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c C-26, r 90.01.2*
+
+*Loi habilitante: Code des professions (chapitre C-26, a. 87)*
+
+*À jour au 2025-08-14*
+
+## I — DISPOSITIONS GÉNÉRALES
+
+**1** Le présent code détermine les devoirs et obligations dont le criminologue doit s’acquitter, quel que soit le cadre ou le mode d’exercice de ses activités professionnelles ou la nature de sa relation professionnelle avec son client.
+
+Le criminologue doit s’acquitter de ces devoirs et obligations avec professionnalisme, dans le respect des valeurs et des principes éthiques inhérents à la profession de criminologue, dont la valorisation de l’autonomie de la personne, le respect de la vie privée et la croyance en la capacité de changement de la personne et en son pouvoir d’agir sur sa situation.
+
+Ces devoirs et obligations ne sont aucunement modifiés du fait que le criminologue exerce ses activités professionnelles au sein d’une organisation ou qu’il utilise les technologies de l’information.
+
+**2** Le criminologue prend les moyens raisonnables à sa disposition pour que toute personne qui collabore avec lui dans l’exercice de sa profession ainsi que toute organisation au sein de laquelle il exerce ses activités professionnelles respectent le Code des professions (chapitre C-26) et les règlements pris pour son application.
+
+**3** Aux fins de l’application du présent code, à moins que le contexte n’indique un sens différent, on entend par **client** une personne, un couple, une famille, un groupe ou un organisme à qui le criminologue rend ou s’engage à rendre des services professionnels.
+
+## II — DEVOIRS GÉNÉRAUX
+
+### 1 — Conduite
+
+**4** Le criminologue ne peut poser un acte ou avoir un comportement contraire à ce qui est généralement admis dans l’exercice de la profession ou qui est susceptible de porter atteinte à l’honneur ou à la dignité de la profession ou de briser le lien de confiance du public envers celle-ci.
+
+**5** Le criminologue doit, peu importe le milieu où il exerce, collaborer à l’application de toute loi visant à protéger les personnes vulnérables.
+
+**6** Le criminologue tient compte de l’ensemble des conséquences prévisibles de son activité professionnelle, non seulement sur le client, mais aussi sur la collectivité.
+
+**7** Le criminologue favorise et appuie toute mesure susceptible d’améliorer la qualité et l’accessibilité des services professionnels en criminologie.
+
+Le criminologue reconnaît que l’objectif d’information et d’éducation en matière de criminologie est important pour la protection du public; il pose ainsi les gestes qu’il juge appropriés en fonction de cet objectif.
+
+**8** Le criminologue s’abstient d’exercer sa profession lorsque les conditions ou l’état dans lesquels il se trouve peuvent compromettre la qualité de ses services professionnels ou la dignité et l’image de la profession.
+
+**9** Le criminologue s’abstient de toute conduite pouvant porter atteinte à l’intégrité physique, mentale ou affective de toute personne avec laquelle il entre en relation dans l’exercice de sa profession. Constitue notamment une telle conduite de la part du criminologue le fait d’abuser de son rôle d’autorité.
+
+### 2 — Responsabilité
+
+**10** Le criminologue engage pleinement sa responsabilité professionnelle. Il ne peut l’éluder ou tenter de l’éluder de quelque façon que ce soit, notamment en invoquant la responsabilité de l’organisation au sein de laquelle il exerce ses activités professionnelles ou celle d’une autre personne qui y exerce ses activités, ou en requérant de son client ou de son représentant une renonciation à ses recours en cas de faute professionnelle de sa part.
+
+### 3 — Intégrité
+
+**11** Le criminologue s’acquitte de ses obligations professionnelles avec intégrité et objectivité.
+
+**12** Le criminologue évite toute fausse représentation en ce qui a trait à sa compétence ou à l’efficacité de ses propres services, de ceux généralement rendus par les membres de sa profession ou, le cas échéant, de ceux généralement rendus par les personnes qui collaborent avec lui ou qui exercent leurs activités au sein de la même organisation que lui.
+
+Lorsque le criminologue exerce des activités qui ne relèvent pas de sa profession, notamment dans le cadre d’un emploi, d’une fonction, d’une charge ou de l’exploitation d’une entreprise, il évite de créer ou de laisser perdurer toute ambiguïté sur la qualité en vertu de laquelle il agit.
+
+Si son droit d’exercer des activités professionnelles fait l’objet d’une limitation, le criminologue prend les moyens pour que ses clients et les personnes avec qui il est en relation dans l’exercice de ses activités en soient informés.
+
+**13** Le criminologue ne doit pas commettre ni tenter de commettre un acte impliquant de la collusion, de la corruption, de la fraude, de la malversation, de l’abus de confiance ou du trafic d’influence, ni conseiller ou encourager la commission d’un tel acte, ni comploter en vue de sa commission.
+
+Le criminologue ne doit pas conseiller à un client de poser un geste autrement illégal ni l’en encourager.
+
+**14** Le criminologue ne doit pas, au regard du dossier d’un client ou de tout rapport, registre, reçu ou autre document:
+
+(1) les falsifier, notamment en y altérant des notes déjà inscrites ou en y insérant des notes sous une fausse signature;
+
+(2) en fabriquer des faux;
+
+(3) y inscrire de fausses informations;
+
+(4) omettre d’y inscrire les informations nécessaires.
+
+### 4 — Compétence
+
+**15** Le criminologue doit agir avec compétence dans l’accomplissement de ses obligations professionnelles.
+
+Il exerce sa profession selon des principes scientifiques généralement reconnus et dans le respect des règles de l’art et des normes de pratique en criminologie.
+
+**16** Dans le but d’offrir et de maintenir des services professionnels de qualité, le criminologue assure la mise à jour et le développement de ses compétences.
+
+**17** Avant et pendant la prestation de services professionnels, le criminologue évalue ses habiletés, ses connaissances, les limites de sa compétence et les moyens dont il dispose.
+
+**18** Le criminologue n’émet des conclusions ou des recommandations, ou ne donne des avis, des conseils ou des opinions professionnelles, que s’il possède les données suffisantes pour le faire et une compréhension appropriée de la situation.
+
+**19** Le criminologue qui produit un rapport, verbal ou écrit, en limite le contenu à des interprétations, à des conclusions et à des recommandations fondées sur sa compétence professionnelle, en lien avec l’exercice de sa profession et la demande de service.
+
+**20** Le criminologue qui utilise des outils d’évaluation doit respecter les normes de pratique et les principes scientifiques généralement reconnus pour leur utilisation, leur administration, leur interprétation et la manière d’en communiquer les résultats.
+
+**21** Le criminologue qui est appelé à effectuer une expertise ou une évaluation:
+
+(1) informe clairement la personne qui fait l’objet de l’expertise ou de l’évaluation de l’identité du destinataire de son rapport et de la manière d’en demander une copie;
+
+(2) s’abstient d’obtenir de cette personne tout renseignement ou de lui faire toute interprétation ou tout commentaire non pertinent à l’expertise ou à l’évaluation;
+
+(3) limite son rapport ou ses recommandations et, s’il y a lieu, sa déposition devant le tribunal aux seuls éléments pertinents de l’expertise ou de l’évaluation.
+
+## III — DEVOIRS ET OBLIGATIONS ENVERS LE CLIENT
+
+### 1 — Consentement
+
+**22** Avant et pendant la prestation de services professionnels, le criminologue tient compte des considérations éthiques ainsi que de la demande et des attentes du client. Il tient également compte du contexte dans lequel il va œuvrer et des moyens dont il dispose.
+
+**23** Le criminologue doit, sauf urgence, obtenir de son client, de son représentant légal ou, s’il s’agit d’un mineur de moins de 14 ans, du titulaire de l’autorité parentale ou du tuteur, un consentement libre et éclairé avant d’entreprendre toute prestation de services professionnels.
+
+Afin d’obtenir un tel consentement, le criminologue lui communique les éléments suivants et s’assure qu’il les comprend:
+
+(1) le but, la nature et la pertinence des services professionnels ainsi que leurs principales modalités de réalisation;
+
+(2) les solutions de rechange à la prestation de services professionnels ainsi que ses limites et ses contraintes;
+
+(3) l’utilisation des renseignements recueillis;
+
+(4) les implications d’un partage de renseignements avec des tiers ou la transmission d’un rapport à des tiers;
+
+(5) le montant des honoraires, la perception d’intérêts sur les comptes et les modalités de paiement, s’il y a lieu.
+
+La communication de ces éléments est adaptée au contexte de la prestation de services professionnels.
+
+**24** Le criminologue s’assure que le consentement du client demeure libre et éclairé tout au long de la prestation de services professionnels.
+
+**25** Le criminologue reconnaît à son client le droit de révoquer en tout temps son consentement et il lui explique les conséquences éventuelles d’une telle révocation.
+
+### 2 — Qualité de la relation professionnelle
+
+**26** Le criminologue exerce sa profession dans le respect de la dignité et du libre choix de la personne et s’abstient de toute forme de discrimination fondée sur un motif visé à l’article 10 de la Charte des droits et libertés de la personne (chapitre C-12).
+
+**27** Le criminologue agit avec disponibilité et diligence. S’il ne peut répondre à la demande d’un client dans un délai raisonnable, il l’en avise et, s’il en résulte un risque de préjudice pour le client, il le réfère à une ressource appropriée.
+
+**28** Le criminologue fait preuve de transparence et cherche à établir et à maintenir une relation de confiance mutuelle avec son client.
+
+**29** Le criminologue reconnaît en tout temps le droit de son client de consulter un autre criminologue, un professionnel membre d’un autre ordre ou toute autre personne compétente. Le cas échéant, il apporte sa collaboration à ce dernier.
+
+**30** Lorsque l’intérêt du client l’exige, le criminologue doit, avec son autorisation, consulter un autre criminologue, un professionnel membre d’un autre ordre ou toute autre personne compétente, ou le diriger vers l’une de ces personnes.
+
+**31** Le criminologue respecte la vie privée des personnes avec qui il entre en relation professionnelle. Il s’abstient de s’immiscer dans les affaires personnelles de son client sur des sujets qui n’ont pas de lien avec la demande de service ou qui ne relèvent pas de l’exercice de sa profession.
+
+**32** Durant la relation professionnelle, le criminologue n’établit pas de liens susceptibles de compromettre la qualité de ses services professionnels tels que des liens d’amitié, intimes, amoureux ou sexuels avec son client ou un proche de ce dernier. Il ne tient pas de propos abusifs à caractère sexuel et ne pose pas de gestes abusifs à caractère sexuel à l’égard de son client ou d’un proche de ce dernier.
+
+La durée de la relation professionnelle est déterminée en tenant compte notamment de la nature et de la durée de la prestation de services professionnels, de la vulnérabilité du client et de la probabilité d’avoir à lui rendre à nouveau des services professionnels.
+
+**33** Le criminologue informe le plus tôt possible son client de toute action préjudiciable qu’il a commise en lui rendant un service professionnel. Il doit, en outre, prendre sans délai les moyens nécessaires pour corriger, atténuer ou pallier les conséquences de cette action.
+
+### 3 — Confidentialité et secret professionnel
+
+**34** Le criminologue respecte le secret de tout renseignement de nature confidentielle qui vient à sa connaissance dans l’exercice de sa profession.
+
+Il n’est relevé du secret professionnel qu’avec l’autorisation de son client ou lorsque la loi l’ordonne ou l’autorise par une disposition expresse.
+
+En vue d’obtenir l’autorisation du client, le criminologue l’informe des implications possibles de la levée du secret professionnel.
+
+**35** Le criminologue qui, en application de l’article 60.4 du Code des professions (chapitre C-26), communique des renseignements protégés par le secret professionnel doit:
+
+(1) procéder sans délai et communiquer uniquement les renseignements nécessaires aux fins poursuivies par la communication;
+
+(2) choisir le moyen le plus efficace adapté aux circonstances pour communiquer les renseignements;
+
+(3) informer la personne à qui il communique ces renseignements que ceux-ci sont protégés par le secret professionnel;
+
+(4) consigner le plus tôt possible au dossier l’objet de la communication, les motifs à son soutien, la date et l’heure à laquelle elle a été faite, le nom de la personne à qui elle a été faite et le mode de communication utilisé.
+
+**36** Afin de préserver le secret professionnel, le criminologue:
+
+(1) s’abstient, entre autres sur les réseaux sociaux, de toute conversation indiscrète au sujet de son client et des services professionnels qui lui sont rendus;
+
+(2) s’abstient de consulter un dossier pour des motifs autres que professionnels et en limite la consultation aux éléments pertinents au regard des services professionnels qu’il rend;
+
+(3) prend les moyens raisonnables à l’égard de ses collaborateurs et des personnes sous sa supervision pour que soit préservé le secret professionnel;
+
+(4) limite la transmission de renseignements de nature confidentielle, notamment à l’intérieur d’une équipe multidisciplinaire ou interdisciplinaire, à ceux qui sont pertinents et nécessaires pour l’atteinte des objectifs poursuivis;
+
+(5) obtient préalablement du client ou de son représentant légal une autorisation écrite pour faire un enregistrement audio ou vidéo d’une entrevue ou d’une activité; cette autorisation spécifie l’usage ultérieur de cet enregistrement ainsi que les modalités de révocation de cette autorisation et de destruction de l’enregistrement;
+
+(6) ne doit pas révéler qu’une personne a fait appel à ses services professionnels ou qu’elle a l’intention d’y faire appel.
+
+**37** Le criminologue ne doit pas faire usage d’un renseignement confidentiel en vue d’obtenir un avantage pour lui-même ou pour un tiers.
+
+**38** Lorsque le criminologue exerce sa profession auprès d’un couple, d’une famille ou d’un groupe, il sauvegarde le droit au secret professionnel de chaque membre de ce couple, de cette famille ou de ce groupe.
+
+**39** Lorsque le criminologue exerce sa profession auprès d’un groupe, il informe les membres de ce groupe de la possibilité que soit révélé un aspect de leur vie privée ou de celle d’un tiers. Il les engage à respecter le caractère confidentiel de ces renseignements.
+
+**40** À moins que la loi n’en dispose autrement, le criminologue doit, avant de transmettre un rapport à un tiers, obtenir l’autorisation explicite du client concerné après lui avoir exposé les renseignements qu’il contient.
+
+### 4 — Indépendance professionnelle et conflit d’intérêts
+
+**41** Le criminologue fait preuve d’objectivité et subordonne son intérêt personnel ou, le cas échéant, celui de son employeur, des personnes qui collaborent avec lui ou de l’organisation au sein de laquelle il exerce ses activités professionnelles ou du tiers qui paie les honoraires à l’intérêt de son client.
+
+**42** Le criminologue exerce dans un cadre qui lui permet d’assurer la qualité de ses services professionnels. Lorsque des pressions ou des contraintes d’ordre pécuniaire, institutionnel ou politique nuisent à l’exercice de sa profession, il doit indiquer clairement à son client les conséquences qui peuvent en découler.
+
+**43** Le criminologue sauvegarde en tout temps son indépendance professionnelle en évitant toute situation de conflit d’intérêts réel ou apparent, notamment en ignorant l’intervention d’un tiers qui pourrait influer sur l’exercice de son jugement professionnel ou de ses activités professionnelles au préjudice de son client et en n’entretenant aucun lien économique avec celui-ci, sauf en ce qui concerne ses honoraires.
+
+À cette fin, il évite également d’utiliser sa relation professionnelle avec le client afin d’obtenir, pour lui ou pour un tiers, des avantages de toute nature.
+
+**44** Dès qu’il constate qu’il se trouve ou qu’il risque de se trouver dans une situation de conflit d’intérêts réel ou apparent, le criminologue définit la nature de ses obligations et de ses responsabilités, en informe son client et convient avec lui, le cas échéant, des mesures appropriées pour lui éviter tout préjudice.
+
+Le criminologue consigne ces informations à son dossier.
+
+**45** Le criminologue ne doit pas effectuer ou multiplier des actes professionnels sans raison suffisante, ou effectuer un acte inapproprié ou disproportionné au besoin de son client.
+
+**46** Le criminologue n’incite pas de façon insidieuse, pressante ou répétée une personne à recourir à ses services professionnels.
+
+**47** Le criminologue s’abstient, sauf en cas de nécessité, de rendre des services professionnels à des personnes avec qui il entretient une relation susceptible de nuire à la qualité de ces services, notamment les membres de sa famille, ses amis intimes, ses collègues de travail, ses employés et les étudiants à qui il enseigne.
+
+**48** Le criminologue qui rend des services professionnels à un client dans le cadre de sa pratique dans une organisation ne peut l’inciter à devenir son client dans le cadre de sa pratique privée.
+
+**49** À l’exception de la rémunération à laquelle il a droit, de remerciements d’usage et de cadeaux de valeur modeste, le criminologue s’abstient de recevoir, de verser ou de s’engager à verser tout avantage, ristourne ou commission relié à l’exercice de sa profession.
+
+### 5 — Accès aux dossiers et rectification
+
+**50** Lorsque le criminologue exerce dans un milieu visé par une loi qui prévoit des règles particulières sur l’accessibilité du client à son dossier et sur la rectification de son contenu, il respecte ces règles et en facilite l’application.
+
+Dans les autres cas, il doit se conformer aux dispositions des articles 27 à 41 de la Loi sur la protection des renseignements personnels dans le secteur privé (chapitre P-39.1) et faciliter l’exercice par le client des droits qui y sont prévus. Ces dispositions sont complétées par les dispositions particulières de la présente sous-section.
+
+**51** Le criminologue donne suite sans délai à toute demande écrite d’un client afin de faire supprimer tout renseignement périmé ou non justifié par l’objet du dossier constitué à son sujet.
+
+**52** Le criminologue qui refuse d’acquiescer à une demande d’accès ou de rectification ou à une demande visée à l’article 51 doit inscrire les motifs de ce refus au dossier du client concerné et y verser une copie de la décision transmise au client.
+
+La décision doit informer le client de son droit de formuler des commentaires par écrit et de requérir qu’ils soient déposés à son dossier. Le cas échéant, le criminologue transmet sans délai au client une attestation suivant laquelle ses commentaires y ont été déposés.
+
+**53** Le criminologue donne suite, avec diligence et au plus tard dans les 30 jours de sa réception, à toute demande écrite d’un client qui a pour objet:
+
+(1) de reprendre possession d’un document qu’il lui a confié;
+
+(2) de transférer son dossier ou une partie de celui-ci à un autre criminologue ou à un professionnel membre d’un autre ordre.
+
+### 6 — Honoraires et autres frais
+
+**54** Le criminologue demande et accepte des honoraires justes et raisonnables en tenant compte notamment:
+
+(1) de son expérience et de ses compétences particulières;
+
+(2) du temps consacré à la prestation des services professionnels convenus;
+
+(3) de la nature et de la complexité des services professionnels;
+
+(4) de la prestation de services inhabituels ou dispensés hors des conditions habituelles;
+
+(5) de la compétence et de la célérité exceptionnelles nécessaires à la prestation des services professionnels;
+
+(6) des dépenses et frais encourus.
+
+**55** Le criminologue s’assure que le client est informé par écrit du coût approximatif et prévisible de ses honoraires et des autres frais. Il doit également l’informer sans délai de toute modification à cet égard.
+
+**56** Le criminologue ne réclame des honoraires que pour les services professionnels rendus.
+
+Il peut toutefois réclamer des frais d’annulation raisonnables préalablement convenus pour des rendez-vous manqués, à condition que ces frais ne dépassent pas le montant des honoraires perdus.
+
+**57** Le criminologue ne peut, par complaisance ou pour tout autre motif, remettre des reçus inexacts ni fournir, d’une quelconque façon, des informations fausses ou non vérifiées, notamment pour favoriser l’obtention d’une couverture d’assurance.
+
+Le criminologue doit utiliser dans tout reçu remis au client le titre «criminologue» ou l’abréviation «crim.».
+
+**58** Le criminologue produit un relevé d’honoraires intelligible et détaillé au client, et il lui fournit toutes les explications nécessaires à la compréhension de ce relevé et des modalités de paiement.
+
+**59** Le criminologue ne peut partager ses honoraires que dans la mesure où ce partage correspond à une répartition des services professionnels rendus et des responsabilités assumées et qu’il n’affecte pas son indépendance professionnelle.
+
+**60** En matière de perception de comptes, le criminologue:
+
+(1) s’abstient de percevoir des intérêts sur les comptes en souffrance, à moins d’en avoir préalablement convenu avec son client par écrit et que les intérêts ainsi exigés soient à un taux raisonnable;
+
+(2) épuise les autres moyens dont il dispose pour obtenir le paiement de ses honoraires avant de recourir à des procédures judiciaires;
+
+(3) s’assure, dans la mesure du possible, que la personne à qui il confie la perception de ses comptes procède avec tact et mesure dans le respect de la confidentialité et des pratiques en matière de recouvrement de créances autorisées par la loi.
+
+### 7 — Cessation de services professionnels
+
+**61** Le criminologue ne peut, sauf pour un motif juste et raisonnable, cesser d’agir pour le compte d’un client. Constituent notamment un tel motif:
+
+(1) l’incapacité d’établir ou de maintenir une relation de confiance ou de respect avec le client;
+
+(2) une situation de conflit d’intérêts réel ou apparent, ou un contexte tel que son indépendance professionnelle pourrait être mise en doute;
+
+(3) l’incitation du client ou d’un proche de ce dernier à accomplir un acte illégal ou frauduleux, ou qui va à l’encontre des dispositions du présent code;
+
+(4) le comportement abusif du client tel que du harcèlement, des menaces ou des actes agressifs ou à caractère sexuel;
+
+(5) le non-respect par le client des conditions convenues pour la prestation des services professionnels, incluant les honoraires, et l’impossibilité de négocier avec ce dernier une entente raisonnable pour les rétablir;
+
+(6) le risque que le maintien de la prestation des services professionnels puisse, au jugement du criminologue, devenir plus dommageable que bénéfique pour le client, sauf si cette prestation est ordonnée par le tribunal;
+
+(7) la décision du criminologue de réduire sa pratique ou d’y mettre fin pour des raisons personnelles ou professionnelles.
+
+**62** Avant de cesser d’agir pour le compte d’un client, le criminologue l’en informe dans un délai raisonnable et prend les mesures nécessaires pour lui éviter un préjudice, notamment en le référant à un autre criminologue ou à un professionnel membre d’un autre ordre.
+
+**63** Lorsqu’il cesse d’exercer ses fonctions pour le compte d’un employeur, le criminologue l’informe du caractère confidentiel des renseignements contenus dans les dossiers dont il avait la responsabilité et lui propose les mesures nécessaires pour en préserver la confidentialité.
+
+Dans le cas où la confidentialité de ces renseignements risque d’être compromise, le criminologue en avise le secrétaire de l’Ordre professionnel des criminologues du Québec.
+
+## IV — DEVOIRS ET OBLIGATIONS ENVERS LA PROFESSION
+
+### 1 — Collaboration professionnelle et relations avec l’Ordre
+
+**64** Le criminologue ne doit pas dénigrer une personne avec laquelle il est en relation dans l’exercice de sa profession ni utiliser de procédés déloyaux à son endroit.
+
+**65** Le criminologue ne s’attribue pas le mérite de travaux qui ne lui revient pas.
+
+**66** Le criminologue qui est consulté par un autre criminologue fournit son opinion et ses recommandations dans un délai raisonnable. S’il est dans l’incapacité de le faire, il l’en avise rapidement.
+
+**67** Le criminologue collabore avec l’Ordre dans l’accomplissement de ses fonctions, dont celle d’assurer la protection du public.
+
+**68** Le criminologue doit, dans les 10 jours de la date où il en est informé, aviser le secrétaire de l’Ordre qu’il fait ou a fait l’objet d’une décision criminelle, pénale ou disciplinaire ou d’une poursuite pour une infraction punissable de 5 ans d’emprisonnement ou plus.
+
+**69** Le criminologue s’abstient de faire toute pression indue ou collusion pour influencer le Conseil d’administration de l’Ordre, l’un de ses comités ou toute autre personne agissant pour le compte de l’Ordre.
+
+**70** Le criminologue doit:
+
+(1) informer le secrétaire de l’Ordre qu’il a des raisons de croire:
+
+(a) qu’un candidat à l’exercice de la profession ne respecte pas les conditions de délivrance de permis ou d’inscription au tableau;
+
+(b) qu’un criminologue ne respecte pas les limites imposées à son droit de pratique;
+
+(c) qu’une personne qui n’est pas membre de l’Ordre utilise le titre de «criminologue» ou l’abréviation «crim.», ou un titre, une abréviation ou des initiales pouvant laisser croire qu’il l’est;
+
+(d) qu’une personne exerce illégalement une activité professionnelle réservée aux membres de l’Ordre;
+
+(2) informer le syndic de l’Ordre qu’il a des raisons de croire:
+
+(a) qu’une infraction au Code des professions (chapitre C-26) ou aux règlements pris pour son application a été commise par un autre criminologue;
+
+(b) qu’un criminologue ne possède pas la compétence ou affiche un comportement qui serait dérogatoire à la dignité de la profession;
+
+(c) qu’il existe une situation susceptible de porter atteinte à la compétence ou à l’intégrité d’un autre criminologue.
+
+La divulgation de tels renseignements est faite en respectant le secret professionnel.
+
+**71** Le criminologue doit collaborer avec toute personne qui agit dans l’exercice des fonctions que lui confèrent le Code des professions (chapitre C-26) et les règlements pris pour son application.
+
+Le criminologue doit, dans les plus brefs délais, répondre de façon complète et véridique à toute demande verbale ou écrite provenant de cette personne, selon le mode de communication qu’elle détermine, et se rendre disponible pour toute rencontre avec elle.
+
+**72** Le criminologue qui reçoit signification d’une plainte ou qui est informé de la tenue d’une enquête sur sa conduite ne peut, directement ou indirectement, et sous aucun prétexte, communiquer avec la personne qui en est à l’origine ou avec toute autre personne qui y est impliquée, à moins d’avoir obtenu la permission écrite du syndic.
+
+**73** Le criminologue ne doit pas influencer, intimider, menacer ou harceler une personne ni exercer des représailles contre elle au motif qu’elle a dénoncé ou qu’elle entend dénoncer un comportement qui est contraire à ses obligations professionnelles ou qu’elle collabore ou entend collaborer à une inspection ou à une enquête à ce sujet.
+
+**74** Le criminologue doit se conformer à toute décision de l’Ordre et respecter tout engagement qu’il a conclu avec le Conseil d’administration, le secrétaire de l’Ordre, un syndic ou le comité d’inspection professionnelle ainsi qu’avec tout comité à qui le Conseil d’administration a délégué des pouvoirs en conformité avec les dispositions du Code des professions (chapitre C-26).
+
+### 2 — Projets de recherche
+
+**75** Le criminologue qui entreprend, participe ou collabore à un projet de recherche impliquant des personnes s’assure que ce projet est approuvé par un comité d’éthique de la recherche reconnu qui respecte les normes en vigueur, notamment dans sa composition et dans ses modalités de fonctionnement.
+
+À cette fin, pour chacun des participants ou son représentant, il se réfère et se conforme à la méthodologie approuvée par ce comité, notamment pour:
+
+(1) l’informer de la nature du projet de recherche, de son but, de ses objectifs et de son déroulement ainsi que des avantages, des risques ou des inconvénients liés à sa participation;
+
+(2) obtenir son consentement libre et éclairé;
+
+(3) l’informer que son consentement est révocable en tout temps;
+
+(4) s’assurer des mesures de protection de la confidentialité des renseignements colligés dans le cadre du projet de recherche.
+
+**76** Le criminologue s’abstient d’exercer toute pression sur une personne susceptible de se qualifier pour un projet de recherche.
+
+**77** Avant d’entreprendre un projet de recherche, le criminologue évalue les conséquences prévisibles pour les participants ainsi que pour la collectivité.
+
+Lorsque le déroulement d’un projet de recherche est susceptible de porter préjudice aux participants ou à la collectivité, le criminologue qui y participe en avise le comité d’éthique de la recherche ou toute autre instance compétente.
+
+**78** Le criminologue doit s’assurer que tous ceux qui collaborent avec lui à un projet de recherche soient informés de ses devoirs et de ses obligations professionnelles.
+
+**79** Le criminologue cesse toute forme de participation à un projet de recherche dont les inconvénients pour les participants lui semblent plus importants que les avantages escomptés, après en avoir avisé le comité d’éthique de la recherche ou toute autre instance compétente.
+
+**80** Le criminologue ne cache pas les résultats négatifs d’un projet de recherche auquel il a participé.
+
+### 3 — Contribution au développement de la profession
+
+**81** Dans la mesure de ses ressources, de ses qualifications et de son expérience, le criminologue participe au développement et à la qualité de la profession notamment par l’accompagnement d’étudiants et de stagiaires et par l’échange avec les autres criminologues.
+
+## V — DEVOIRS ET OBLIGATIONS ENVERS LE PUBLIC
+
+### 1 — Publicité
+
+**82** Le criminologue ne peut faire ou permettre que soit faite, par quelque moyen que ce soit, y compris par l’entremise des réseaux sociaux, de la publicité:
+
+(1) qui est destinée spécifiquement à des personnes vulnérables notamment du fait de leur âge, de leur condition ou de la survenance d’un événement spécifique;
+
+(2) qui est fausse, incomplète, trompeuse ou susceptible d’induire le public en erreur, notamment en ce qui a trait à sa compétence ainsi qu’à l’efficacité de ses services professionnels et de ceux rendus par les autres criminologues;
+
+(3) qui dénigre un autre professionnel ou qui va à l’encontre de l’honneur ou de la dignité de la profession;
+
+(4) qui est susceptible de dévaloriser l’image de la profession;
+
+(5) qui donne à la profession un caractère mercantile.
+
+**83** Toute publicité indique le nom du criminologue suivi de son titre professionnel.
+
+**84** Le criminologue s’abstient de participer en tant que criminologue à toute forme de publicité recommandant au public l’achat ou l’utilisation d’un produit ou d’un service qui n’est pas relié au domaine de la criminologie.
+
+**85** Le criminologue conserve une copie de toute publicité qu’il a faite ou permis de faire pendant une période de 3 ans suivant la date de sa dernière diffusion ou publication. Sur demande, cette copie est remise sans délai au secrétaire de l’Ordre, à un syndic, à un enquêteur, à un inspecteur ou à un membre du comité d’inspection professionnelle.
+
+### 2 — Déclarations publiques
+
+**86** Dans ses déclarations publiques relatives à la criminologie, le criminologue tient des propos qui s’appuient sur des données généralement admises dans la profession, qui sont empreints d’objectivité et de modération et qui évitent toute forme de sensationnalisme.
+
+Dans toute activité de nature professionnelle s’adressant au public, le criminologue souligne la valeur relative des renseignements ou des conseils donnés à cette occasion.
+
+### 3 — Symbole graphique de l’Ordre
+
+**87** Lorsqu’il utilise le symbole graphique de l’Ordre dans sa publicité, le criminologue:
+
+(1) s’assure que ce symbole est conforme à l’original que possède le secrétaire de l’Ordre;
+
+(2) s’assure qu’elle ne laisse pas croire qu’il s’agit d’une publicité de l’Ordre ou autorisée par celui-ci.
+
+## VI — DISPOSITION FINALE
+
+**88** (Omis).

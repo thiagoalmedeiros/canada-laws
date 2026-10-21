@@ -1,0 +1,56 @@
+---
+type: "Regulation"
+title: "Règlement sur les formules relatives au patrimoine"
+description: "Règlement (Manitoba), Règl du Man 99/86."
+resource: "https://web2.gov.mb.ca/laws/regs/current/099-86.php?lang=en"
+tags: ["mb", "regulation", "fr"]
+jurisdiction: "mb"
+language: "fr"
+citation: "Règl du Man 99/86"
+document_date: "1986-04-30"
+translation: "../en/Man-Reg-99-86.md"
+upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://web2.gov.mb.ca/laws/regs/current/099-86.php?lang=en"
+    title: "King's Printer for Manitoba: official text"
+    author: "org:mb-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# Règlement sur les formules relatives au patrimoine
+
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for Manitoba. Not endorsed by or affiliated with the Government of Manitoba. Text obtained from the [official source](https://web2.gov.mb.ca/laws/regs/current/099-86.php?lang=en) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+R.M. 99/86
+
+Loi sur les richesses du patrimoine, c. H39.1 de la C.P.L.M.
+
+Le recours aux formules 1 à 16 annexées aux présentes est requis en application de la Loi sur les richesses du patrimoine.
+
+### Formules à utiliser en application de la Loi sur les richesses du patrimoine
+
+| N o de la Formule | Titre | Renvoi |
+| --- | --- | --- |
+| 1 | Avis d'intention | art. 4 |
+| 2 | Avis d'opposition | par. 5(1) |
+| 3 | Avis de qualification | par. 6(2) |
+| 4 | Avis d'annulation d'avis d'intention | par. 8(2) |
+| 5 | Avis d'appel | par. 9(1) |
+| 6 | Avis de révocation de qualification | par. 9(3) |
+| 7 | Avis de qualification modifié | par. 9(4) |
+| 8 | Demande de permis en matière de patrimoine dans le cadre des paragraphes 12(1) et 12(2) | par. 12(3) |
+| 9 | Étude d'impact en matière de richesse du patrimoine (ÉIRP) | par. 12(3) |
+| 10 | Plan de mise en valeur | par. 12(3) |
+| 11 | Permis en matière de patrimoine | par. 14(2), art. 52 et 53 |
+| 12 | Avis municipal d'intention | art. 26 |
+| 13 | Avis d'appel en matière municipale | art. 30 |
+| 14 | Avis municipal de qualification | par. 33(2) |
+| 15 | Demande de permis en matière de patrimoine aux fins de sortir des objets du patrimoine du Manitoba | art. 52 |
+| 16 | Demande de permis en matière de patrimoine aux fins de fouilles | art. 53 |

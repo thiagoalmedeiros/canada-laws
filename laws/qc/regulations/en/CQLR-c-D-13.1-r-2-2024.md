@@ -1,0 +1,39 @@
+---
+type: "Regulation"
+title: "Regulation respecting the 2024-2025 upper limit of kill for moose"
+description: "Quebec regulation, CQLR c D-13.1, r 2 (2024)."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/D-13.1,%20r.%202%20%282024%29"
+tags: ["qc", "regulation", "en"]
+jurisdiction: "qc"
+language: "en"
+citation: "CQLR c D-13.1, r 2 (2024)"
+document_date: "2024-08-15"
+translation: "../fr/CQLR-c-D-13.1-r-2-2024.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/D-13.1,%20r.%202%20%282024%29"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Regulation respecting the 2024-2025 upper limit of kill for moose
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/D-13.1,%20r.%202%20%282024%29) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c D-13.1, r 2 (2024)*
+
+*Enabling statute: Act respecting hunting and fishing rights in the James Bay and New Québec territories (chapter D-13.1, s. 78, 1st par., subpar. f, and 3rd par)*
+
+*Updated to 2024-08-15*
+
+**1** The upper limit of kill for moose allocated to the Native people and non-Natives in Area 17 determined by the Regulation respecting fishing and hunting areas (chapter C-61.1, r. 34) is 104 moose for the period from 1 July 2024 to 30 June 2025.
+
+**2** (Omitted).

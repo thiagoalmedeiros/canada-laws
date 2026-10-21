@@ -1,0 +1,73 @@
+---
+type: "Regulation"
+title: "Pension Fund Societies Act Regulation"
+description: "British Columbia regulation, BC Reg 90/97."
+resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/90_97/xml"
+tags: ["bc", "regulation", "en"]
+jurisdiction: "bc"
+language: "en"
+citation: "BC Reg 90/97"
+document_date: "1997-03-13"
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/90_97/xml"
+    title: "King's Printer for British Columbia: official text"
+    author: "org:bc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# Pension Fund Societies Act Regulation
+
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for British Columbia. Not endorsed by or affiliated with the Government of British Columbia. Text obtained from the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/90_97/xml) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+BC Reg 90/97
+
+### Declaration of incorporation
+
+1 A declaration of incorporation to establish a pension fund society must be in Form 1 of the Schedule to this regulation.
+
+## Schedule
+
+Form 1
+
+Declaration of Incorporation
+
+We, the undersigned, declare that we have associated ourselves together to establish a pension fund society in connection with the administration of a pension fund under the Pension Fund Societies Act.
+
+The proposed corporation name of the society is "The Pension Fund Society of [name of the company].........................................................".
+
+The chief place of business of the society is in ............................................................................[city], ......................................................................[province].
+
+We have executed this document in duplicate at ...............................[city], ....................[province], in the presence of ....................................................................... ...........................[month, day, year].
+
+SIGNATURES OF OFFICIALS:
+
+| | | |
+| --- | --- | --- |
+| ...................................................... Signature | ...................................................... Signature | ...................................................... Signature |
+| ......................................................... | .......................................................... | .......................................................... |
+| .......................................................... | .......................................................... | ........................................................... |
+| ........................................................... Address | .......................................................... Address | .......................................................... Address |
+| .......................................................... Position of Official | .......................................................... Position of Official | .......................................................... Position of Official |
+
+SIGNED IN THE PRESENCE OF:
+
+.........................................
+
+ Signature of Witness
+
+.........................................
+
+.........................................
+
+.........................................
+
+ Address
+
+[Provisions of the Pension Fund Societies Act, R.S.B.C. 1996, c. 354, relevant to the enactment of this regulation: section 17]

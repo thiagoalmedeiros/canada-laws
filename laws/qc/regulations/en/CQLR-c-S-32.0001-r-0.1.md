@@ -1,0 +1,229 @@
+---
+type: "Regulation"
+title: "Regulation respecting the conditions for accessing the advance medical directives register and advance requests for medical aid in dying and operation of the register"
+description: "Quebec regulation, CQLR c S-32.0001, r 0.1."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/S-32.0001,%20r.%200.1"
+tags: ["qc", "regulation", "en"]
+jurisdiction: "qc"
+language: "en"
+citation: "CQLR c S-32.0001, r 0.1"
+document_date: "2025-05-15"
+translation: "../fr/CQLR-c-S-32.0001-r-0.1.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/S-32.0001,%20r.%200.1"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Regulation respecting the conditions for accessing the advance medical directives register and advance requests for medical aid in dying and operation of the register
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/S-32.0001,%20r.%200.1) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c S-32.0001, r 0.1*
+
+*Enabling statute: Act respecting end-of-life care (chapter S-32.0001, s. 64)*
+
+*Updated to 2025-05-15*
+
+## I — PURPOSE
+
+**1** This Regulation sets out the conditions for accessing and operating the register established by the Minister pursuant to section 63 of the Act.
+
+## II — MANAGEMENT OF ACCESS TO THE REGISTER
+
+### I — ACCESS AUTHORIZATIONS MANAGER
+
+**2** The function of the access authorization manager is to assign the necessary access authorizations to intervening parties so that they have access to the register, except where such an access is otherwise authorized by this Regulation.
+
+Before assigning access authorizations, the access authorization manager must ensure that the intervening party requesting access to the register needs access within the scope of the party’s functions.
+
+**3** The following persons may be authorized to act as access authorization manager:
+
+(1) a person designated by the president and executive director or the executive director of a health and social services institution;
+
+(2) a person designated by the executive director of a palliative care hospice;
+
+(3) a person designated by the register manager to ensure the management of the register.
+
+**4** Not more than 2 persons may act as access authorization manager in a health and social services institution.
+
+Only one person may act as access authorization manager in a palliative care hospice.
+
+**5** A person requests from the Minister the authorizations required to act as access authorization manager by providing to the Minister the name of the institution or palliative care hospice for which the person wishes to act and the documents proving that the person has been designated by the president and executive director or the executive director of the institution or palliative care hospice, as the case may be.
+
+### II — ACCESS AUTHORIZATIONS
+
+#### 1 — Advance medical directives
+
+**6** With respect to advance medical directives, an authorization for access to the register may be assigned to
+
+(1) a physician practising in a centre operated by a health and social services institution or in a private health facility;
+
+(2) a nurse practising in a centre operated by a health and social services institution, in a palliative care hospice or in a private health facility;
+
+(3) the holder of a training card issued by the secretary of the Collège des médecins du Québec, practising in a centre operated by a health and social services institution or in a private health facility;
+
+(4) the holder of an authorization issued by the Collège des médecins du Québec under section 42.4 of the Professional Code (chapter C-26), practising in a centre operated by a health and social services institution or in a private health facility;
+
+(5) a person providing technical support services to a physician;
+
+(6) a person employed by the register manager to whom the Minister entrusted the management of the register, if applicable.
+
+**7** Before assigning authorizations for access to the register, the access authorization manager must verify the identity of the intervening party.
+
+#### 2 — Advance requests for medical aid in dying
+
+**7.1** With respect to advance requests for medical aid in dying,
+
+(1) a competent professional is an intervening party who is authorized to have access to the register;
+
+(2) a person employed by the register manager to whom the Minister entrusted the management of the register, if applicable, is an intervening party who may be assigned authorizations for access to the register.
+
+Section 7 applies, with the necessary adaptations, to the assignment of an access authorization to an intervening party referred to in subparagraph 2 of the first paragraph.
+
+## III — OPERATION OF THE REGISTER
+
+### I — GENERAL
+
+**8** For the purposes of this Chapter, a reference to the Minister is a reference, if applicable, to the manager to whom the Minister entrusted the management of the register pursuant to the second paragraph of section 63 of the Act.
+
+### II — ADVANCE MEDICAL DIRECTIVES
+
+#### 1 — Recording of advance medical directives
+
+**9** Advance medical directives are sent to the Minister by their author using the prescribed form.
+
+At the request of their author, advance medical directives may also be sent to the Minister by the notary who received the notarial act. The notary then sends a copy of the directives using an information technology medium and indicating the date on which they were signed.
+
+**10** As soon as the Minister receives advance medical directives, the Minister records them in the register after ascertaining the unique identification of their author using, in particular, the following information:
+
+(1) name;
+
+(2) date of birth;
+
+(3) sex;
+
+(4) health insurance number.
+
+**11** Where advance medical directives are sent by their author, the Minister refuses to record them in the register if they are not signed and dated or if their author is under 18 years of age. In such a case, the Minister returns the directives to their author specifying the reasons why the Minister refused to record them in the register.
+
+#### 2 — Modification of advance medical directives
+
+**12** Where advance medical directives are sent to the Minister and such directives have already been filed in the register for the author of the directives, the Minister removes the previous directives and replaces them by the most recent.
+
+#### 3 — Revocation of advance medical directives
+
+**13** Where the author of advance medical directives wishes to revoke them, the author must send to the Minister, in paper form, the revocation form prescribed under section 54 of the Act.
+
+On receipt of the revocation form, the Minister removes the advance medical directives from the register.
+
+As soon as the Minister receives a revocation form, the Minister records the form in the register after ascertaining the unique identification of the author of advance medical directives by means of the information provided for in section 10.
+
+#### 4 — Withdrawal of advance medical directives
+
+**14** Where the author of advance medical directives wishes to remove them from the register without revoking them, the author must send to the Minister, in paper form, the removal form that has been sent to the author, at the author’s request, by the Minister.
+
+On receipt of the removal form and after ascertaining the unique identification of the author of advance medical directives by means of the information provided for in section 10, the Minister removes the advance medical directives from the register. All information relating to the existence of the directives is also removed from the register.
+
+Where advance medical directives were made on the prescribed form, the Minister returns them to their author.
+
+**15** Where the Minister is informed of the death of the author of advance medical directives, the Minister removes them from the register.
+
+#### 5 — Consultation of the register and advance medical directives
+
+**16** Where an intervening party requests access to the register, the party’s access authorizations are verified.
+
+**17** Where it is noted that a person is incapable of giving consent to care, the intervening party consults the register to verify the existence of advance medical directives. The intervening party must use the following information relating to their author:
+
+(1) name;
+
+(2) date of birth;
+
+(3) sex;
+
+(4) health insurance number.
+
+**18** Where advance medical directives were recorded in the register, the intervening party consulting them files them in the person’s record.
+
+Where no advance medical directives have been recorded in the register or they have been removed from the register without being revoked, the register indicates that no advance medical directives exist.
+
+Where advance medical directives have been revoked, the form for the revocation of advance medical directives is disclosed to the intervening party consulting the register.
+
+### III — ADVANCE REQUESTS FOR MEDICAL AID IN DYING
+
+#### 1 — Recording an advance request
+
+**18.1** The competent professional who provided assistance to the patient who made an advance request or the notary who receives such a request by notarial act en minute must send the request to the Minister.
+
+**18.2** Upon receipt of an advance request, the Minister records it in the register after ascertaining the unique identification of the person who made it, in particular by means of the person’s
+
+(1) name;
+
+(2) date of birth;
+
+(3) sex; and
+
+(4) health insurance number.
+
+Similarly, the Minister must ensure that
+
+(1) the request is legible;
+
+(2) the person making the request was an insured person within the meaning of the Health Insurance Act (chapter A-29) on the date that the person signed the request; and
+
+(3) the request is signed and dated by the competent professional, the person who made the advance request or, where applicable, by a third person referred to in the second paragraph of section 29.2 of the Act and, as the case may be, by 2 witnesses and by any trusted third person designated in the request.
+
+**18.3** The Minister will refuse to record an advance request in the register if the Minister is unable to ascertain one of the elements provided for in the second paragraph of section 18.2. In such a case, the Minister returns the advance request to the competent professional concerned specifying the reasons why the Minister refused to record it in the register.
+
+#### 2 — Modification of an advance request
+
+**18.4** Where an advance request is sent to the Minister and such a request has already been recorded in the register for the same person who is making the request, the Minister withdraws the previous request and replaces it by the most recent one.
+
+#### 3 — Withdrawal of an advance request
+
+**18.5** The competent professional who provided assistance to a patient who wants to withdraw an advance request must send the Minister the withdrawal form prescribed by the Minister pursuant to the first paragraph of section 29.11 of the Act.
+
+Upon receipt of the withdrawal form, the Minister removes the advance request from the register.
+
+**18.6** Once the advance request is removed from the register, the Minister records the withdrawal form after ascertaining
+
+(1) the unique identification of the person who made the advance request by means of the information provided for in the first paragraph of section 18.2;
+
+(2) that the form is signed and dated by the competent professional and the person who made the advance request or, where applicable, by a third person referred to in the second paragraph of section 29.2 of the Act.
+
+#### 4 — Consultation of the register and an advance request
+
+**18.7** When an intervening party asks to access the register, a verification is made of the intervening party’s title as a competent professional or other access authorizations, as applicable.
+
+**18.8** An intervening party who consults the register to verify the existence of an advance request must use the following information relating to the person who made the request:
+
+(1) name;
+
+(2) date of birth;
+
+(3) sex; and
+
+(4) health insurance number.
+
+**18.9** Where an advance request was recorded in the register, the intervening party consulting that request files it in the patient’s record, unless the request is already in the record.
+
+Where an advance request was removed from the register, the register indicates that an advance request was removed and the date of its removal.
+
+Where no advance request was recorded in the register, the register indicates that no advance request exists.
+
+## IV — LOG
+
+**19** The Minister logs the access of the authorized intervening parties who access the register, the date and time of access and the results obtained by the intervening parties.
+
+## V — FINAL
+
+**20** (Omitted).

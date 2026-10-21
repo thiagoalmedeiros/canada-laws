@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       jurisdictions:
-        description: "Space-separated codes (AB BC MB NB NL NS NT ON PE QC SK YT). Empty = the PROVINCES repo variable, or all."
+        description: "Space-separated module codes (ab bc mb nb nl ns nt on pe qc sk yt). Empty = the PROVINCES repo variable, or all."
         required: false
         default: ""
   schedule:
@@ -30,26 +30,30 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install pandas pyarrow requests
+      - run: pip install pandas pyarrow requests pyyaml
 
-      - name: Convert and commit one jurisdiction at a time
+      - name: Convert, log, validate and commit one module at a time
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           CODES: ${{ github.event.inputs.jurisdictions || vars.PROVINCES }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
-          # Default: all jurisdictions covered by the A2AJ dataset.
-          # Set the repository variable PROVINCES to change this (see README).
-          codes="${CODES:-AB BC MB NB NL NS NT ON PE QC SK YT}"
+          codes=$(echo "${CODES:-ab bc mb nb nl ns nt on pe qc sk yt}" | tr 'A-Z' 'a-z')
           for code in $codes; do
-            python3 tools/provincial_to_md.py . "$code"
-            git add -A provinces
+            python3 tools/provincial_to_md.py laws "$code"
+            python3 tools/okf_bundle.py credits laws
+            git add -A laws
             if git diff --cached --quiet; then
               echo "$code: no changes"
               continue
             fi
-            git commit -q -m "Update $code laws from A2AJ dataset ($(date -u +%Y-%m-%d))"
+            n=$(git diff --cached --name-only -- "laws/$code" | grep -v -E '/(index|log|overview)\.md$' | wc -l)
+            python3 tools/okf_bundle.py log laws "$code" "**Update**: Refreshed from the A2AJ Canadian Laws dataset (${n} laws added, changed or removed)."
+            python3 tools/okf_bundle.py log laws . "**Update**: [${code}](${code}/): ${n} laws added, changed or removed."
+            python3 tools/okf_bundle.py check laws
+            git add -A laws
+            git commit -q -m "Update ${code} laws from A2AJ dataset ($(date -u +%Y-%m-%d))"
             for i in 1 2 3; do
               git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && break
               sleep 10

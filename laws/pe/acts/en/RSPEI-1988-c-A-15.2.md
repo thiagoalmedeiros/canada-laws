@@ -1,0 +1,1376 @@
+---
+type: "Act"
+title: "Apprenticeship and Trades Qualification Act"
+description: "Prince Edward Island Act, RSPEI 1988, c A-15.2."
+resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/A-15-2-Apprenticeship%20And%20Trades%20Qualification%20Act.pdf"
+tags: ["pe", "act", "en"]
+jurisdiction: "pe"
+language: "en"
+citation: "RSPEI 1988, c A-15.2"
+document_date: "2012-12-08"
+upstream_license: "See upstream license: https://perma.cc/V9XJ-HTR4 © Government of Prince Edward Island. The consolidated statutes and regulations and the annual statutes from Prince Edward Island were updated by the A2AJ (Access to Algorithmic Justice project) on August 15, 2026 from the Legislative Counsel Office website (https://www.princeedwardisland.ca/en/legislation), maintained by the Government of Prince Edward Island. Copyright: Reproduction of Acts and regulations available in the A2AJ Canadian Laws dataset is governed by the Prince Edward Island's government copyright policy: https://www.princeedwardisland.ca/en/information/executive-council-office/website-disclaimer-and-copyright-policy. NOTE: This is an unofficial reproduction of Prince Edward Island legislation, made without endorsement or affiliation by the Government of Prince Edward Island. The official versions should be consulted for all purposes of interpreting and applying the law. Reproduced with the permission of the Legislative Counsel Office of Prince Edward Island (granted by email on July 20, 2026)."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-08-15T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/A-15-2-Apprenticeship%20And%20Trades%20Qualification%20Act.pdf"
+    title: "Government of Prince Edward Island: official text"
+    author: "org:pe-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-PE/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-08-15T00:00:00Z"
+---
+
+# Apprenticeship and Trades Qualification Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Prince Edward Island. Not endorsed by or affiliated with the Government of Prince Edward Island. Text obtained from the [official source](https://www.princeedwardisland.ca/sites/default/files/legislation/A-15-2-Apprenticeship%20And%20Trades%20Qualification%20Act.pdf) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RSPEI 1988, c A-15.2
+
+## INTERPRETATION AND APPLICATION
+
+### Definitions
+
+1. In this Act
+
+(a) “apprentice” means a person who has entered into a registered apprenticeship
+
+agreement with an employer;
+
+(b) “apprenticeship agreement” means an agreement between a person and an
+
+employer in which
+
+(i) the person undertakes to learn the designated trade specified in the agreement
+
+through apprenticeship training, and
+
+(ii) the employer undertakes to employ the person and provide the person with
+
+practical training and the opportunity to obtain technical training in the
+
+designated trade specified in the agreement;
+
+(c) “apprenticeship plan” means a written plan of apprenticeship training established or
+
+deemed to be established by the Board under subsection 8(1), that leads to a
+
+certificate of qualification in a designated trade;
+
+(d) “apprenticeship training” means practical training and technical training in a
+
+designated trade;
+
+(e) “Board” means the Provincial Apprenticeship Board continued under section 4;
+
+(f) “certificate” means a certificate of achievement, a certificate of apprenticeship, a
+
+certificate of proficiency or a certificate of qualification;
+
+(g) “certificate of achievement” means a certificate of achievement in a segment of a
+
+designated trade issued or deemed to be issued under section 14;
+
+(h) “certificate of apprenticeship” means a certificate of apprenticeship in a designated
+
+trade issued or deemed to be issued under section 14;
+
+(i) “certificate of proficiency” means a certificate of proficiency referred to in
+
+subsection 25(10);
+
+(j) “certificate of qualification” means a certificate of qualification in a designated
+
+trade issued or deemed to be issued under section 14;
+
+(k) “compulsory certified trade” means a designated trade that is designated as a
+
+compulsory certified trade under regulations made pursuant to section 17;
+
+(l) “designated trade” means a trade that is designated as a designated trade by an order
+
+made by the Minister pursuant to section 6;
+
+(m) “employer” means any person, firm, corporation, association or public authority that
+
+employs persons in a designated trade;
+
+(n) “journeyperson” means a trades person who holds a certificate of qualification;
+
+(o) “Manager” means the Manager of Apprenticeship appointed under section 3;
+
+(p) “Minister” means the member of the Executive Council charged by the Lieutenant
+
+Governor in Council with the administration of this Act;
+
+(q) “permit” means a permit in a compulsory certified trade issued or deemed to be
+
+issued under subsection 18(3);
+
+(r) “pocket card” means a pocket card that represents a certificate of qualification or a
+
+certificate of achievement issued or deemed to be issued under section 14 in respect
+
+of a designated trade, a segment of a designated trade or a specialty trade area of a
+
+designated trade;
+
+(s) “practical training” means training in which an apprentice works on a job site, in
+
+accordance with an apprenticeship agreement, learning the skills of a designated
+
+trade;
+
+(t) “registered apprenticeship agreement” means an apprenticeship agreement that is
+
+registered or deemed to be registered with the Manager under subsection 9(4);
+
+(u) “segment”, in respect of a designated trade, means a set of tasks, activities and
+
+functions designated as a segment of the designated trade by the Board under
+
+clause 8(3)(a);
+
+(v) “specialty trade area”, in respect of a designated trade, means a set of tasks,
+
+activities and functions designated as a specialty trade area of the designated trade by
+
+the Board under clause 8(3)(b);
+
+(w) “technical training” means training in which an apprentice receives formal
+
+instruction in a designated trade, including theoretical aspects of the designated trade,
+
+that is designed to supplement the skills acquired by an apprentice by means of
+
+practical training;
+
+(x) “trade” includes an industry, craft, occupation, vocation or business or any branch
+
+thereof;
+
+(y) “trade advisory committee” means a trade advisory committee established or
+
+deemed to be established under subsection 7(1);
+
+(z) “trades person” means any person other than an apprentice who works for
+
+remuneration at any designated trade, including an employer who so works.
+
+### Application
+
+2.(1) Subject to subsection (3), this Act applies to all designated trades.
+
+### Idem
+
+(2) This Act applies to apprenticeship and to the qualification of trades persons.
+
+### Geographical or other limitation
+
+(3) The Lieutenant Governor in Council may, on the recommendation of the Board, by order
+
+exempt any trade or segment of a trade, employer or class of employer or geographical area
+
+of the province from the application of this Act or the regulations.
+
+## MANAGER OF APPRENTICESHIP
+
+### Manager, appointment
+
+3.(1) There may be appointed pursuant to the Civil Service Act R.S.P.E.I. 1988, Cap. C-8 a
+
+Manager of Apprenticeship and such other staff as are necessary to carry out the provisions of
+
+this Act.
+
+(2) The Manager is the secretary to the Board.
+
+(3) The Manager shall, in accordance with this Act and the regulations,
+
+(a) register apprentices;
+
+(b) register apprenticeship agreements and the transfer and cancellation of registered
+
+apprenticeship agreements;
+
+(c) maintain and promote interest in the role of apprenticeship;
+
+(d) administer apprenticeship plans;
+
+(e) conduct studies or investigations of trades and of the requirements for the supply and
+
+training of persons in respect of trades, and collaborate with appropriate authorities in
+
+carrying out such studies and investigations;
+
+(f) provide such information to the Minister or the Board as the Minister or Board, as the
+
+case may be, requires;
+
+(g) conduct such investigations as the Manager considers necessary, or as the Minister or
+
+the Board directs, to ensure compliance with this Act and the regulations;
+
+(h) monitor the training of apprentices and conduct such inspections of facilities used for
+
+apprenticeship training as the Manager considers necessary;
+
+(i) submit an annual report to the Minister with respect to activities undertaken under
+
+this Act; and
+
+(j) perform the functions assigned to the Manager by the regulations or by the Minister.
+
+## PROVINCIAL APPRENTICESHIP BOARD
+
+### Apprenticeship Board continued
+
+4.(1) The Provincial Apprenticeship Board established under the Apprenticeship and Trades
+
+Qualification Act R.S.P.E.I. 1988, Cap. A-15.1 is hereby continued.
+
+### Composition
+
+(2) The Board shall be composed of the following members appointed by the Lieutenant
+
+Governor in Council:
+
+(a) three persons representative of employers;
+
+(b) three persons representative of employees;
+
+(c) one person representing a postsecondary apprenticeship training provider;
+
+(d) one or more members at large; and
+
+(e) a chairperson.
+
+### Term of office
+
+(3) Each member of the Board shall be appointed for a three-year term and, subject to
+
+subsection (4), may be reappointed.
+
+### Re-appointment
+
+(4) Where a person has served two consecutive terms, that person may not be re-appointed until
+
+three years after the expiry of that person’s last term of office.
+
+### Vice-chairperson
+
+(5) The members of the Board shall appoint, from among themselves, one person to be vice-
+
+chairperson who shall act as chairperson whenever the chairperson is for any reason unable to
+
+act.
+
+### Administrative support
+
+(6) The Minister may designate persons who are public officers to assist the Board in its duties.
+
+### Quorum
+
+(7) A majority of members that includes one member representing employers and one member
+
+representing employees constitutes a quorum.
+
+### Honorarium
+
+(8) Each member of the Board who is not in the public service of the province may be paid
+
+(a) an honorarium in such amount as the Lieutenant Governor in Council determines;
+
+and
+
+(b) such reasonable and necessary expenses incurred in carrying out his or her duties as
+
+the Minister determines.
+
+### Procedure
+
+(9) The Board may adopt its own rules of procedure and shall keep a record of its proceedings
+
+and decisions.
+
+### Meetings
+
+(10) The Board shall hold a minimum of three meetings in each calendar year and may hold
+
+special meetings when considered necessary by the chairperson.
+
+### Board powers and duties
+
+5. The Board
+
+(a) shall advise the Minister in matters relating to the suitability of the provincial
+
+apprenticeship training and certification system as a means to meet the labour market
+
+needs of the province;
+
+(b) may recommend to the Minister the designation of trades for apprenticeship and
+
+certification;
+
+(c) may, subject to the approval of the Minister, enter into agreements with any
+
+organization or government for the purpose of facilitating, providing or managing
+
+apprenticeship training; and
+
+(d) shall perform other functions assigned to the Board by the Minister.
+
+### Designation of designated trade
+
+6. Where the Board recommends to the Minister that a trade is appropriate for apprenticeship
+
+and the issuance of certificates of qualification, the Minister may, by order published in the
+
+Gazette, designate the trade to be a designated trade.
+
+## TRADE ADVISORY COMMITTEE
+
+### Trade advisory committee
+
+7.(1) The Board may establish, in consultation with the Manager, a trade advisory committee for a
+
+designated trade or for two or more designated trades that are related.
+
+### Members
+
+(2) The Board shall appoint at least four persons as members of a trade advisory committee, of
+
+whom
+
+(a) at least two persons are
+
+(i) trades persons with at least five years’ experience, and
+
+(ii) representative of the views of employees; and
+
+(b) at least two persons are representative of the views of employers.
+
+### Term
+
+(3) A member of a trade advisory committee shall be appointed for a three-year term and may be
+
+reappointed.
+
+### Chairperson
+
+(4) The Board shall appoint a person other than a person referred to in subsection (2) as the
+
+chairperson of a trade advisory committee.
+
+### Functions
+
+(5) A trade advisory committee shall perform the functions assigned to the trade advisory
+
+committee by the regulations or by the Board.
+
+## APPRENTICESHIP PLAN
+
+### Apprenticeship plan
+
+8.(1) The Board shall, in consultation with the appropriate trade advisory committee, if any,
+
+establish an apprenticeship plan for every designated trade.
+
+### Contents of apprenticeship plan
+
+(2) The Board shall include the following in an apprenticeship plan it establishes for a designated
+
+trade under subsection (1):
+
+(a) the required form and contents of the apprentice agreement to be used by employers
+
+and apprentices in the designated trade;
+
+(b) the standards for completion of the apprenticeship plan;
+
+(c) the term of apprenticeship required under the apprenticeship plan;
+
+(d) the tasks, activities and functions that are included in the designated trade;
+
+(e) the minimum educational standing required to be held by an apprentice, or to be
+
+obtained by an apprentice before completion of the apprenticeship plan;
+
+(f) the ratio of apprentices to journeypersons who may be employed by an employer in
+
+the designated trade;
+
+(g) the requirements that must be met by an employer that proposes to employ an
+
+apprentice and the responsibilities of an employer during the term of an
+
+apprenticeship agreement;
+
+(h) the technical training and practical training requirements that must be met by an
+
+apprentice under the apprenticeship plan and the standards for determining apprentice
+
+achievement;
+
+(i) guidelines for the granting of credits toward the completion of the technical training
+
+and practical training requirements referred to in clause (h);
+
+(j) the practical, written and oral examinations for
+
+(i) assessing the progress of an apprentice in the designated trade or a segment
+
+of the designated trade,
+
+(ii) assessing the successful completion of an apprenticeship under the
+
+apprenticeship plan, and
+
+(iii) the granting of certificates;
+
+(k) any other matter that the Board considers to be essential to a successful
+
+apprenticeship.
+
+### Segment or specialty trade area of designated trade
+
+(3) The Board may designate a set of tasks, activities and functions within a designated trade as
+
+(a) a segment of the designated trade; or
+
+(b) a specialty trade area of the designated trade.
+
+### Adoption by reference
+
+(4) The Board may, in an apprenticeship plan established under subsection (1), adopt by
+
+reference, in whole or in part and with such changes as are considered necessary, any written
+
+standard, classification system or examination relating to a trade or occupation or to
+
+apprenticeship.
+
+### Standard, classification system or examination as amended
+
+(5) The Board may, in an apprenticeship plan established under subsection (1), adopt a written
+
+standard, classification system or examination referred to in subsection (4) as amended from
+
+time to time.
+
+### Requirements of Board
+
+(6) The Board shall
+
+(a) maintain a complete and accurate record of the apprenticeship plans established
+
+under subsection (1);
+
+(b) make a copy of each apprenticeship plan established under subsection (1), and a copy
+
+of each standard or classification system referred to in subsection (4), available for
+
+public inspection, free of charge, during regular business hours in the office of the
+
+Manager; and
+
+(c) make a copy of each apprenticeship plan made under subsection (1) for a designated
+
+trade available, in print or electronically, to each apprentice in that designated trade.
+
+## REGISTRATION OF APPRENTICESHIP AGREEMENT
+
+### Apprenticeship agreement
+
+9.(1) A person who wishes to obtain a certificate of qualification in a designated trade and an
+
+employer who wishes to employ the person as an apprentice to learn the designated trade
+
+shall
+
+(a) enter into an apprenticeship agreement; and
+
+(b) apply to the Manager, in a form approved by the Manager, for registration of the
+
+apprenticeship agreement referred to in clause (a).
+
+### Apprenticeship agreement invalid unless registered
+
+(2) An apprenticeship agreement is invalid and has no effect under this Act or the regulations
+
+unless it is registered with the Manager under subsection (4).
+
+### Application for registration of apprenticeship agreement
+
+(3) The applicants shall provide the following with an application made under clause (1)(b):
+
+(a) a copy of the apprenticeship agreement referred to in clause (1)(a);
+
+(b) proof satisfactory to the Manager that the applicants meet the requirements of
+
+subsection (4).
+
+### Eligibility for registration of apprenticeship agreement
+
+(4) The Manager shall register an apprenticeship agreement where the Manager is satisfied that
+
+(a) the applicants have submitted an application in accordance with subsections (1)
+
+and (3);
+
+(b) the apprenticeship agreement and the apprenticeship training to be provided under the
+
+apprenticeship agreement comply with this Act, and the apprenticeship plan for the
+
+designated trade specified in the apprenticeship agreement;
+
+(c) the parties to the apprenticeship agreement will carry out their respective
+
+responsibilities under the agreement;
+
+(d) the person who wishes to become an apprentice in a designated trade under the
+
+apprenticeship agreement
+
+(i) is at least 16 years of age, and
+
+(ii) has the minimum educational standing required under the apprenticeship plan
+
+for the designated trade, or will obtain that educational standing before
+
+completing the term of apprenticeship for the designated trade; and
+
+(e) the employer under the apprenticeship agreement
+
+(i) meets the requirements set out in the apprenticeship plan, and
+
+(ii) can provide suitable practical experience in the designated trade specified in
+
+the apprenticeship agreement in accordance with the apprenticeship plan.
+
+### Refusal to register apprenticeship agreement
+
+(5) The Manager may refuse to register an apprenticeship agreement where the Manager is not
+
+satisfied that all of the requirements described in subsection (4) are met.
+
+### Joint training agreement
+
+(6) The Board may authorize an association or organization, whether incorporated or not, and
+
+whether or not engaged in carrying on a trade, including a trade union, an employer
+
+association or an employee association, to enter into joint training agreements with
+
+apprentices on such terms as the Board may specify.
+
+### Liability of person under the age of majority
+
+10.(1) An apprenticeship agreement entered into by a person who is under the age of majority is
+
+binding on the person as if the person had attained the age or majority at the time the
+
+apprenticeship agreement was entered into.
+
+### Idem
+
+(2) Subsection (1) applies to an apprenticeship agreement notwithstanding that the apprenticeship
+
+agreement was entered into before the coming into force of this section.
+
+## TRANSFER OF REGISTERED APPRENTICESHIP AGREEMENT
+
+### Application for transfer of registered apprenticeship agreement
+
+11.(1) An apprentice or an employer who is a party to a registered apprenticeship agreement may
+
+apply to the Manager, in a form approved by the Manager, for the transfer of the registered
+
+apprenticeship agreement to another employer.
+
+### Eligibility for transfer of registered apprenticeship agreement
+
+(2) The Manager shall transfer a registered apprenticeship agreement to an employer specified in
+
+an application made under subsection (1) where the Manager is satisfied that
+
+(a) the applicant has submitted an application in accordance with subsection (1); and
+
+(b) the employer to whom the registered apprenticeship agreement will be transferred
+
+(i) consents to the transfer,
+
+(ii) meets the requirements set out in the apprenticeship plan, and
+
+(iii) will carry out the responsibilities of the employer under the registered
+
+apprenticeship agreement and the apprenticeship plan.
+
+### Party to registered apprenticeship agreement
+
+(3) On the transfer of a registered apprenticeship agreement under subsection (2),
+
+(a) the employer to whom the registered apprenticeship agreement is transferred is a
+
+party to the registered apprenticeship agreement; and
+
+(b) the employer from whom the registered apprenticeship agreement was transferred
+
+ceases to be a party to the registered apprenticeship agreement.
+
+### Refusal to transfer registered apprenticeship agreement
+
+(4) The Manager may refuse to transfer a registered apprenticeship agreement where the
+
+Manager is not satisfied that all of the requirements described in subsection (2) are met.
+
+## NOTICE OF REFUSAL AND REASONS
+
+### Notice of refusal and right to appeal
+
+12. Where the Manager refuses, under subsection 9(5), to register an apprenticeship agreement,
+
+or refuses, under subsection 11(5), to transfer a registered apprenticeship agreement, the
+
+Manager shall, within seven days of the refusal, serve on each applicant
+
+(a) written notice of and reasons for the refusal; and
+
+(b) written notice of the right to appeal under subsection 16(1).
+
+## CANCELLATION OF REGISTERED APPRENTICESHIP AGREEMENT
+
+### Cancellation of registration
+
+13.(1) The Manager shall cancel the registration of a registered apprenticeship agreement if both the
+
+apprentice and the employer under the registered apprenticeship agreement request the
+
+cancellation.
+
+### Idem
+
+(2) The Manager may cancel the registration of a registered apprenticeship agreement if the
+
+Manager is satisfied that the apprentice or the employer under the registered apprenticeship
+
+agreement has
+
+(a) contravened section 21 or 22 of the Act;
+
+(b) failed to comply with a term or condition of the registered apprenticeship
+
+agreement; or
+
+(c) failed to meet the requirements of the apprenticeship plan for the designated trade
+
+specified in the registered apprenticeship agreement.
+
+### Exception
+
+(3) Notwithstanding subsection (2), the Manager shall not cancel the registration of a registered
+
+apprenticeship agreement by reason only that a labour dispute prevents the apprentice from
+
+working.
+
+### Notice and opportunity to respond
+
+(4) Before cancelling the registration of a registered apprenticeship agreement under
+
+subsection (2) the Manager shall serve on the apprentice and the employer under the
+
+registered apprenticeship agreement
+
+(a) fourteen days’ written notice of the Manager’s intention to cancel the registration,
+
+and the reasons for the intended cancellation; and
+
+(b) an opportunity to respond.
+
+### Notice of cancellation and right to appeal
+
+(5) Where the Manager cancels the registration of a registered apprenticeship agreement under
+
+subsection (2), the Manager shall, within 14 days of the cancellation, serve on the apprentice
+
+and the employer under the registered apprenticeship agreement
+
+(a) written notice of and reasons for the cancellation; and
+
+(b) written notice of the right to appeal under subsection 16(1).
+
+### Cancellation not effective until served
+
+(6) A cancellation of the registration of a registered apprenticeship agreement under
+
+subsection (2) is not effective until notice of the cancellation is served on the apprentice and
+
+employer affected by it.
+
+### Certificates and Pocket Cards
+
+14. The Manager may, on application made in accordance with the regulations and payment of
+
+the prescribed fee, issue one or more of the following to a person who meets the requirements
+
+for the issuance as set out in the regulations:
+
+(a) a certificate of qualification in a designated trade, and a certificate of qualification
+
+pocket card;
+
+(b) a certificate of achievement in a segment of a designated trade and a certificate of
+
+achievement pocket card;
+
+(c) a certificate of apprenticeship in a designated trade;
+
+(d) a pocket card in a specialty trade area of a designated trade.
+
+## SUSPENSION OR CANCELLATION OF CERTIFICATE OR POCKET CARD
+
+### Suspension or Cancellation of Certificate or Pocket Card
+
+15.(1) The Manager may suspend or cancel a certificate or pocket card if the Manager has
+
+reasonable grounds to believe that the person holding the certificate or pocket card
+
+(a) obtained the certificate or pocket card by fraud or misrepresentation; or
+
+(b) has acted in a manner that
+
+(i) is not consistent with good practice in the designated trade, the segment of
+
+the designated trade or the specialty trade area for which the certificate or
+
+pocket card, as the case may be, was issued, or
+
+(ii) is detrimental or hazardous to property or public safety.
+
+### Written notice and reasons
+
+(2) Where the Manager suspends or cancels a certificate or pocket card under subsection (1), the
+
+Manager shall, within seven days of the suspension or cancellation, serve on the person
+
+holding the certificate or pocket card
+
+(a) written notice of and reasons for the suspension or cancellation; and
+
+(b) written notice of the right to appeal under clause 6(1)(c).
+
+### Surrender of certificate and pocket card
+
+(3) Where the Manager serves notice of the suspension or cancellation of a certificate under
+
+subsection (2),
+
+(a) the certificate and any pocket card issued in relation to the certificate is invalid; and
+
+(b) the person holding the certificate shall, without delay, surrender the certificate and
+
+any pocket card issued in relation to the certificate, to the Manager.
+
+### Surrender of pocket card
+
+(4) Where the Manager serves notice of the suspension or cancellation of a pocket card under
+
+subsection (2),
+
+(a) the pocket card is invalid; and
+
+(b) the person holding the pocket card shall, without delay, surrender the pocket card to
+
+the Manager.
+
+### Expiry of suspension
+
+(5) Upon the expiry of the suspension of a certificate or a pocket card, the Manager shall return
+
+any certificate or pocket card surrendered under subsection (3) or pocket card surrendered
+
+under subsection (4).
+
+## APPEAL
+
+### Appeal to Board
+
+16.(1) A person who is aggrieved by
+
+(a) a refusal, under subsection 9(5), to register an apprenticeship agreement;
+
+(b) a refusal, under subsection 11(5) to transfer a registered apprenticeship agreement;
+
+(c) the cancellation, under subsection 13(2), of a registered apprenticeship agreement; or
+
+(d) the suspension or cancellation, under subsection 15(1), of a certificate or
+
+endorsement pocket card,
+
+may appeal the refusal, suspension or cancellation to the Board.
+
+### Notice of appeal
+
+(2) An appeal pursuant to subsection (1) may be taken by filing with the chairperson of the Board
+
+a notice of appeal in written form within thirty days after being served with notice of the
+
+refusal, suspension or cancellation appealed from.
+
+### Hearing
+
+(3) Where a notice of appeal is filed pursuant to subsection (1), the Board shall hear the appeal
+
+within thirty days after the notice is filed.
+
+### Powers
+
+(4) After hearing an appeal pursuant to subsection (3), the Board may confirm, vary or reverse
+
+the refusal, suspension or cancellation appealed from.
+
+### Decision
+
+(5) A decision of the Board pursuant to this section is final.
+
+## DESIGNATION OF COMPULSORY CERTIFIED TRADE
+
+### Compulsory certified trade
+
+17. The Lieutenant Governor in Council may make regulations designating a designated trade as
+
+a compulsory certified trade.
+
+## PERMIT
+
+### Application for permit
+
+18.(1) Where a designated trade is designated as a compulsory certified trade under section 17, a
+
+person who, immediately before the designation, was engaged in the designated trade, may
+
+apply to the Manager for a permit.
+
+### Application requirements
+
+(2) An application under subsection (1) shall be made
+
+(a) in accordance with the regulations; and
+
+(b) within one year of the designation of the designated trade as a compulsory certified
+
+trade.
+
+### Eligibility for permit
+
+(3) The Manager shall issue a permit in a compulsory certified trade to an applicant where the
+
+Manager is satisfied that the applicant
+
+(a) has submitted an application in accordance with subsections (1) and (2); and
+
+(b) meets the requirements for the permit set out in the regulations.
+
+### Training facilities
+
+19. The Minister shall arrange courses of related technical instruction for the purpose of this Act
+
+and may bear the expenses, in total or in part, involved in connection with those courses.
+
+## NOTICES
+
+### Manner of service
+
+20.(1) Any notice or other document required to be served on a person under this Act or the
+
+regulations is deemed to be sufficiently served
+
+(a) when a copy is personally served on the person to whom it is directed;
+
+(b) when a copy is sent by facsimile or other electronic means to the person to whom it is
+
+directed and an acknowledgement of receipt is received; or
+
+(c) five days after a copy is sent by mail addressed to the person to whom it is directed at
+
+the last known address for that person.
+
+### Service on corporation
+
+(2) Where the person to be served is a corporation, service on a director, officer or recognized
+
+agent of the corporation in accordance with subsection (1) is deemed to be service on the
+
+corporation for the purposes of this Act or the regulations.
+
+### Substituted service
+
+(3) Where it is impractical for any reason to serve an order in a manner referred to in
+
+subsection (2), an ex parte application may be made to a judge of the Supreme Court who
+
+may make an order for substituted service providing for such steps to be taken to bring the
+
+matter to the attention of the person to be served.
+
+## OFFENCES
+
+### Engagement in compulsory certified trade
+
+21.(1) No person shall engage in a compulsory certified trade unless the person holds a certificate of
+
+qualification, or is an apprentice, in the compulsory certified trade.
+
+### Employment of person in compulsory certified trade
+
+(2) No person shall employ another person in a compulsory certified trade unless the person
+
+employed holds a certificate of qualification, or is an apprentice, in the compulsory certified
+
+trade.
+
+### Exception
+
+(3) Notwithstanding subsections (1) and (2), a person who holds a permit in a compulsory
+
+certified trade may continue to engage in that compulsory certified trade until the person
+
+abandons the trade.
+
+### Use of title - apprentice
+
+22.(1) No person shall use any title, name, abbreviation or description implying that he or she is an
+
+apprentice in a designated trade unless he or she is an apprentice in that designated trade.
+
+### Use of title – certificate of qualification
+
+(2) No person shall use any title, name, abbreviation or description implying that he or she holds
+
+a certificate of qualification in a designated trade unless he or she holds, or is deemed to hold,
+
+a certificate of qualification in that designated trade.
+
+### Use of title – certificate of achievement
+
+(3) No person shall use any title, name, abbreviation or description implying that he or she holds
+
+a certificate of achievement in a segment of a designated trade unless he or she holds, or is
+
+deemed to hold, a certificate of achievement in that segment of the designated trade.
+
+### Use of title – certificate of apprenticeship
+
+(4) No person shall use any title, name, abbreviation or description implying that he or she holds
+
+a certificate of apprenticeship in a designated trade unless he or she holds, or is deemed to
+
+hold, a certificate of apprenticeship in that designated trade.
+
+### Use of title – certificate of proficiency
+
+(5) No person shall use any title, name, abbreviation or description implying that he or she holds
+
+a certificate of proficiency in a designated trade unless he or she holds a certificate of
+
+proficiency in that designated trade.
+
+### Use of title – pocket card
+
+(6) No person shall use any title, name, abbreviation or description implying that he or she holds
+
+a pocket card in respect of a specialty trade area of a designated trade unless he or she holds,
+
+or is deemed to hold, a pocket card in that specialty trade area of the designated trade.
+
+### Use of title – permit
+
+(7) No person shall use any title, name, abbreviation or description implying that he or she holds
+
+a permit in a compulsory certified trade unless he or she holds, or is deemed to hold, a permit
+
+in that compulsory certified trade.
+
+### Use of title - Red Seal Endorsement
+
+(8) No person shall use any title, name, abbreviation or description implying that the person
+
+holds an interprovincial standards (Red Seal) endorsement to a certificate of qualification in
+
+respect of a designated trade unless he or she holds, or is deemed to hold, an interprovincial
+
+standards (Red Seal) endorsement to a certificate of qualification in that designated trade.
+
+### Offence
+
+23. A person who contravenes section 21 or 22 is guilty of an offence and is liable on summary
+
+conviction to a fine not exceeding $5,000.
+
+## REGULATIONS
+
+### Regulations
+
+24.(1) The Lieutenant Governor in Council may make regulations
+
+(a) respecting the procedures and requirements for an application for registration of an
+
+apprenticeship agreement or the transfer of a registered apprenticeship agreement,
+
+and the information, evidence and supporting material that must be included with an
+
+application;
+
+(b) respecting additional requirements that must be met for the registration of an
+
+apprenticeship agreement and for the transfer or cancellation of a registered
+
+apprenticeship agreement;
+
+(c) respecting the registration of apprentices;
+
+(d) respecting the circumstances in which the holder of an extra-provincial certificate or
+
+endorsement may apply for a certificate or endorsement under this Act;
+
+(e) respecting certificates and establishing additional types of certificates that may be
+
+issued;
+
+(f) respecting endorsements, and establishing different types of endorsements that may
+
+be issued;
+
+(g) respecting permits, and establishing different types of permits that may be issued;
+
+(h) respecting the requirements for the issuance of each type of certificate, endorsement
+
+or permit, including the examinations to be written by an applicant for a certificate or
+
+endorsement;
+
+(i) respecting the procedures and requirements for an application for issuance or renewal
+
+of each type of certificate or endorsement, or for the issuance of a permit, and the
+
+information, evidence and supporting material that must be included with an
+
+application;
+
+(j) respecting the terms and conditions upon which each type of certificate, endorsement
+
+or permit may be issued;
+
+(k) respecting the granting of credits toward a term of apprenticeship;
+
+(l) providing for the issuing of certificates to persons from other provinces;
+
+(m) respecting fees to be paid for examinations, the issuance, renewal or replacement of
+
+certificates, endorsements or permits, or the issuance of any document, including
+
+penalties for late payment;
+
+(n) prescribing the additional responsibilities and duties of the Manager;
+
+(o) respecting the functions of a trade advisory committee;
+
+(p) respecting the establishment of joint trade advisory committees, including the
+
+membership, management and functions of joint trade advisory committees;
+
+(q) respecting the conduct of investigations by the Manager for the purposes of ensuring
+
+compliance with this Act and the regulations, including the powers and duties of the
+
+Manager and other persons in respect of investigations;
+
+(r) respecting the monitoring of apprenticeship training and the entry and inspection of
+
+apprenticeship training facilities by the Manager, including the powers and duties of
+
+the Manager and other persons in respect of inspections;
+
+(s) respecting examinations for, and the issuance of, interprovincial standards (Red Seal)
+
+endorsements, and the recognition of interprovincial standards (Red Seal)
+
+endorsements issued by other provinces, under the Canadian Council of Directors of
+
+Apprenticeship Interprovincial Standards (Red Seal) Program;
+
+(t) providing that the contravention of any specified provision of the regulations
+
+constitutes an offence and providing the penalties or range of penalties that apply in
+
+respect of such an offence;
+
+(u) providing for any transitional matters the Lieutenant Governor in Council considers
+
+necessary or advisable to facilitate the implementation of this Act;
+
+(v) defining any word or expression used but not defined in this Act;
+
+(w) further defining any word or expression defined in this Act; and
+
+(x) respecting such other matters as the Lieutenant Governor in Council considers
+
+necessary to give effect to the purposes of this Act.
+
+### Application of regulations
+
+(2) A regulation made under subsection (1), or any provision of a regulation made under
+
+subsection (1), may apply to a designated trade or a compulsory certified trade, to a group of
+
+designated trades or compulsory certified trades, or to all designated trades or compulsory
+
+certified trades.
+
+## TRANSITIONAL
+
+### “former regulations” defined
+
+25.(1) In this section, “former regulations” means the Apprenticeship and Trades Qualification Act
+
+Regulations (EC712/95) as they read immediately before the coming into force of this
+
+section.
+
+### Transitional - trade advisory committee
+
+(2) Where
+
+(a) immediately before the date this section comes into force, a trade advisory committee
+
+is established under subsection 14(1) of the former regulations in respect of a
+
+designated trade; and
+
+(b) the trade referred to in clause (a) is, on the coming into force of this section,
+
+designated as a designated trade by an order made by the Minister pursuant to
+
+section 6 of the Act,
+
+the trade advisory committee referred to in clause (a) is deemed, on the commencement of the
+
+order, to have been established as a trade advisory committee in respect of the designated
+
+trade referred to in clause (b) under subsection 7(1) of this Act.
+
+### Transitional - members
+
+(3) Where a trade advisory committee is deemed, under subsection (2), to have been established
+
+as a trade advisory committee under subsection 7(1) of this Act,
+
+(a) the persons who had appointments under subsection 14(2) of the former regulations
+
+as members of the trade advisory committee that were in effect immediately before
+
+the date this section comes into force, are deemed to have been appointed under
+
+subsection 7(2) as members of the trade advisory committee until such time as their
+
+appointments under the regulations would otherwise have expired, unless they sooner
+
+cease to hold office; and
+
+(b) the person who had an appointment under subsection 14(3) of the former regulations
+
+as the independent chairperson of the trade advisory committee that was in effect
+
+immediately before the date this section comes into force is deemed to have been
+
+appointed under subsection 7(3) as the chairperson of the trade advisory committee
+
+until such time as his or her appointment under the regulations would otherwise have
+
+expired unless he or she sooner ceases to hold office.
+
+### Transitional – apprenticeship agreement
+
+(4) Where
+
+(a) immediately before the date this section comes into force, an apprenticeship
+
+agreement is in effect and is registered with the Manager; and
+
+(b) the trade specified in the apprenticeship agreement is, on the coming into force of this
+
+section, designated as a designated trade by an order made by the Minister pursuant
+
+to section 6 of the Act,
+
+the apprenticeship agreement referred to in clause (a) is deemed, on the commencement of
+
+the order, to be in effect and registered with the Manager under subsection 9(4) of
+
+this Act.
+
+### Transitional – plan of apprenticeship training
+
+(5) Where
+
+(a) immediately before the date this section comes into force, a plan of apprenticeship
+
+training referred to in subsection 13(1) of the former regulations for a designated
+
+trade is in effect; and
+
+(b) the trade referred to in clause (a) is, on the coming into force of this section,
+
+designated as a designated trade by an order made by the Minister pursuant to
+
+section 6 of the Act,
+
+the plan of apprenticeship training referred to in clause (a) is deemed, on the commencement
+
+of the order, to have been established as an apprenticeship plan in respect of the
+
+designated trade referred to in clause (b) under subsection 8(1) of this Act.
+
+### Transitional – completion of apprenticeship certificate
+
+(6) Where
+
+(a) immediately before the date this section comes into force, a person holds a valid
+
+Completion of Apprenticeship certificate issued under clause 9(2)(a) of the former
+
+regulations in respect of a designated trade; and
+
+(b) the trade referred to in clause (a) is, on the coming into force of this section,
+
+designated as a designated trade by an order made by the Minister pursuant to
+
+section 6 of the Act,
+
+the person referred to in clause (a) is deemed, on the commencement of the order, to hold a
+
+certificate of apprenticeship in the designated trade referred to in clause (b) issued under
+
+section 14 of this Act.
+
+### Transitional – certificate of qualification
+
+(7) Where
+
+(a) immediately before the date this section comes into force, a person holds a valid
+
+Certificate of Qualification issued under clause 9(2)(b) or section 11 of the former
+
+regulations in respect of a designated trade; and
+
+(b) the trade referred to in clause (a) is, on the coming into force of this section,
+
+designated as a designated trade by an order made by the Minister pursuant to
+
+section 6 of the Act,
+
+the person referred to in clause (a) is deemed, on the commencement of the order, to hold a
+
+certificate of qualification in the designated trade referred to in clause (b) issued under
+
+section 14 of this Act.
+
+### Transitional – certificate of achievement
+
+(8) Where
+
+(a) immediately before the date this section comes into force, a person holds a valid
+
+Certificate of Achievement issued under section 11 of the former regulations in
+
+respect of a segment of a designated trade; and
+
+(b) the trade referred to in clause (a) is, on the coming into force of this section,
+
+designated as a designated trade by an order made by the Minister pursuant to
+
+section 6 of the Act,
+
+the person referred to in clause (a) is deemed, on the commencement of the order, to hold a
+
+certificate of achievement issued under section 14 of this Act in the segment of the designated
+
+trade referred to in clause (b) identified in the certificate.
+
+### Transitional – certificate of achievement
+
+(9) Where
+
+(a) immediately before the date this section comes into force, a person holds a valid
+
+pocket card issued by the Minister in respect of a designated trade; and
+
+(b) the trade referred to in clause (a) is, on the coming into force of this section,
+
+designated as a designated trade by an order made by the Minister pursuant to
+
+section 6 of the Act,
+
+the person referred to in clause (a) is deemed, on the commencement of the order, to hold a
+
+pocket card issued under section 14 of this Act in the designated trade identified in the pocket
+
+card.
+
+### Certificate of proficiency remains valid and in effect
+
+(10) Where
+
+(a) immediately before the date this section come into force, a person holds a valid
+
+Certificate of Proficiency issued under section 11 of the former regulations in respect
+
+of a trade; and
+
+(b) the trade referred to in clause (a) is, on the coming into force of this section,
+
+designated as a designated trade by an order made by the Minister pursuant to
+
+section 6 of the Act,
+
+the Certificate of Proficiency referred to in clause (a) remains valid and in effect according to
+
+its terms after the coming into force of this section and is deemed to be a certificate of
+
+proficiency for the purposes of this Act.
+
+### Transitional - permit
+
+(11) Where
+
+(a) immediately before the date this section comes into force, a person holds a valid
+
+permit in respect of a certified trade issued under subsection 7(3) of the
+
+Apprenticeship and Trades Qualification Act R.S.P.E.I. 1988, Cap. A-15.1 as it read
+
+immediately before the coming into force of this section; and
+
+(b) the certified trade referred to in clause (a) is, on the coming into force of this section,
+
+designated as a compulsory certified trade under regulations made pursuant to
+
+section 17,
+
+the person referred to in clause (a) is deemed, on the coming into force of this section, to hold
+
+a permit in the compulsory certified trade referred to in clause (b) issued under
+
+subsection 18(3) of this Act.
+
+## REPEAL
+
+### Repeal
+
+26. The Apprenticeship and Trades Qualification Act R.S.P.E.I. 1988, Cap. A-15.1 and the
+
+Apprenticeship and Trades Qualification Act S.P.E.I. 2010, Cap. 24 are repealed.

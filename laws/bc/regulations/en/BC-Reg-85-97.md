@@ -1,0 +1,129 @@
+---
+type: "Regulation"
+title: "Forms Regulation"
+description: "British Columbia regulation, BC Reg 85/97."
+resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/85_97/xml"
+tags: ["bc", "regulation", "en"]
+jurisdiction: "bc"
+language: "en"
+citation: "BC Reg 85/97"
+document_date: "1997-03-13"
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/85_97/xml"
+    title: "King's Printer for British Columbia: official text"
+    author: "org:bc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# Forms Regulation
+
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for British Columbia. Not endorsed by or affiliated with the Government of British Columbia. Text obtained from the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/85_97/xml) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+BC Reg 85/97
+
+### Forms prescribed
+
+1 The forms in the attached Schedule are prescribed for the purposes of section 15 of the Land (Spouse Protection) Act.
+
+## Schedule
+
+**Form A**
+
+I, ........................................................, of ................................................., in the Province of ...................................., make oath and say:
+
+(1) That my spouse, ............................................, of ................................................, is the registered owner of all and singular [here give complete legal description].
+
+Or
+
+(1) That I, ........................................................., of .............................................................., am the registered owner of all and singular [here give complete legal description].
+
+(2) That I am the lawful spouse of .............................., of ..................................
+
+(3) That on the land there is a dwelling occupied by ....................................... and myself as our residence.
+
+Or
+
+(3) That on the land there is a dwelling that was last occupied by ................................. and myself as our residence on ......................... [month, day, year].
+
+SWORN before me at .............................., in
+
+the Province of ....................................,
+
+........................................[month, day, year].
+
+............................................................ ............................................................................
+
+A Commissioner, etc. [or as the case may be].
+
+**Form B**
+
+Application for Entry
+
+Date ..........................[month, day, year].
+
+I, ..................................., solemnly declare that I am [in case of solicitor (solicitor for .........................................., and that)] [in case of agent (of the full age of 19 years, that I reside in the Province of British Columbia, and that I am the authorized agent of ..................................., and that)] [in case the spouse in whose name the homestead is registered makes the entry on the other spouse's behalf (the spouse of ..................................................., and that)] .......................................entitled to an entry on the title to the land hereunder described, and make application under the Land (Spouse Protection) Act for entry.
+
+The full name, address and occupation of the person entitled is ...........................................
+
+[Description of homestead]
+
+[Documents in support]
+
+And I make this solemn declaration conscientiously believing it to be true, and knowing that it is of the same force and effect as if made under oath and the Canada Evidence Act.
+
+Declared before me ............................
+
+................................ [month, day, year]
+
+at .........................................,
+
+..................................... British Columbia.
+
+(Signature) ............................................................
+
+(Full post office address).......................................
+
+**Form C**
+
+I, ........................., of ................................., in the Province of ............................., abandon all homestead rights in the land described as [here describe the property].
+
+Dated this .......................[month, day, year].
+
+(Signed) ...................................................
+
+Witness: ....................................................
+
+**Form D**
+
+Application for Cancellation of an Entry
+
+Dated this .......................[month, day, year].
+
+I,......................................., solemnly declare that I am [in case of solicitor (solicitor for .................................., and that)] [in case of agent (of the full age of 19 years, that I reside in the Province of British Columbia, and that I am the authorized agent of ...................................., and that)] this person is entitled to the *............................... cancellation of the entry under the Land (Spouse Protection) Act and I apply for cancellation accordingly.
+
+[Description of (part of) homestead]
+
+[Documents in support]
+
+And I make this solemn declaration conscientiously believing it to be true, and knowing that it is of the same force and effect as if made under oath and the Canada Evidence Act.
+
+Declared before me ...........................
+
+..................[month, day, year]
+
+at ....................................................., British Columbia.
+
+(Signature) ............................................................
+
+(Full post office address).......................................
+
+* If "partial", so state here.
+
+[Provisions relevant to the enactment of this regulation: Land (Spouse Protection) Act, R.S.B.C. 1996, c. 246, s. 15.]

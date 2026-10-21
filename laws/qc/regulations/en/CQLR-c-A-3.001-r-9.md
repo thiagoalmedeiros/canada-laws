@@ -1,0 +1,97 @@
+---
+type: "Regulation"
+title: "Regulation respecting the standards and tables of personal home assistance"
+description: "Quebec regulation, CQLR c A-3.001, r 9."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/A-3.001,%20r.%209"
+tags: ["qc", "regulation", "en"]
+jurisdiction: "qc"
+language: "en"
+citation: "CQLR c A-3.001, r 9"
+document_date: "2024-12-01"
+translation: "../fr/CQLR-c-A-3.001-r-9.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/A-3.001,%20r.%209"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Regulation respecting the standards and tables of personal home assistance
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/A-3.001,%20r.%209) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c A-3.001, r 9*
+
+*Enabling statute: Act respecting industrial accidents and occupational diseases (chapter A-3.001, ss. 160 and 454, 1st par., subpar. 2.1)*
+
+*Updated to 2024-12-01*
+
+## I — PERSONAL HOME ASSISTANCE
+
+**1** In accordance with sections 145 and 158 of the Act respecting industrial accidents and occupational diseases (chapter A-3.001), personal home assistance may be granted to a worker who, as a result of the employment injury he has suffered, meets the following conditions:
+
+(1) he has sustained permanent physical or mental impairment;
+
+(2) he is unable to care for himself and to perform, without assistance, the household tasks that he would normally perform himself; and
+
+(3) such assistance proves to be necessary for him to remain in or return to his residence.
+
+**2** In accordance with section 159 of the Act, personal home assistance includes payment of the cost of hiring a person to provide for the worker’s assistance and supervision needs.
+
+That person may be the worker’s spouse.
+
+**3** The assistance measures are intended, in accordance with the worker’s needs, to help him to care for himself and to perform the household tasks he would normally perform himself were it not for his injury.
+
+**4** The supervision measures are intended to help the worker to care for himself between the periods during which he is performing his personal activities and his household tasks, described in section 2.1 of Schedule 1, where he has permanent impairment entailing neurological or mental aftereffects and he has assistance needs in accordance with the standards established in the form for evaluating the personal home assistance needs provided for in that Schedule.
+
+## II — EVALUATION OF PERSONAL HOME ASSISTANCE
+
+**5** Personal home assistance needs shall be evaluated by the Commission des normes, de l’équité, de la santé et de la sécurité du travail taking into account the worker’s situation before the employment injury, the changes resulting therefrom and its impact on the worker’s autonomy.
+
+Those needs may be evaluated through consultations with the worker’s immediate family, the attending health professional or other resource persons.
+
+That evaluation shall be made in accordance with the standards provided for in this Regulation and by filling out the evaluation form in Schedule 1.
+
+## III — MONTHLY AMOUNT OF PERSONAL HOME ASSISTANCE
+
+**6** The amount of personal home assistance shall be established on a monthly basis according to the evaluation form in Schedule 1 and shall be paid to the worker once every 2 weeks, in accordance with section 163 of the Act.
+
+The monthly amount granted shall be, subject to the maximum amount of assistance determined in section 160 of the Act, the sum of the amount determined according to the table in section 2.3 of Schedule 1 for personal assistance needs and, where applicable, of the amount determined according to the table in section 3.3 of that Schedule for supervision needs to the extent that the amount established for assistance needs does not reach the maximum prescribed by the Act.
+
+## IV — REEVALUATION OF PERSONAL HOME ASSISTANCE
+
+**7** Personal home assistance shall be reevaluated periodically, in accordance with section 161 of the Act, to take into account changes in the worker’s health and the needs arising therefrom.
+
+**8** The reevaluation shall be made in accordance with the standards provided for in this Regulation and by filling out the evaluation form in Schedule 1.
+
+**9** The amount of personal home assistance shall be adjusted, in accordance with section 163 of the Act, from the first due date after the occurrence giving rise to the adjustment.
+
+## V — CESSATION OF PERSONAL HOME ASSISTANCE
+
+**10** Personal home assistance shall cease, in accordance with sections 162 and 163 of the Act, when:
+
+(1) the worker is again able to care for himself or to perform, without assistance, the household tasks he was unable to perform himself by reason of his employment injury; or
+
+(2) the worker is lodged or hospitalized in a facility maintained by an institution governed by the Act respecting the governance of the health and social services system (chapter G-1.021) or the Act respecting health services and social services for the Inuit and Naskapi (chapter S-4.2) or by the Act respecting health services and social services for Cree Native persons (chapter S-5).
+
+The amount of personal home assistance shall be cancelled from the first due date after the occurrence giving rise to the cancellation.
+
+## VI — FINAL
+
+**11** (Omitted).
+
+## SCHEDULE 1 — ss. 4, 5, 6 and 8
+
+FORM FOR EVALUATING PERSONAL HOME ASSISTANCE NEEDS
+
+[PDF: Document A-3.001 r. 9#01 - Sch 1 (9 p.)]
+
+1. GENERAL INFORMATION 1.1 Worker’s identity: Surname: Given Name: Date of birth: CSST No: S.I.N.: Address: (No) (Street) (Municipality) (Postal Code) Telephone Date of occurrence area code 1.2 Type of evaluation: Initial * Periodical reevaluation * Change in * since situation Where the situation has changed, state any new developments: 1.3 Worker’s medical check-up: Diagnosis: Date of consolidation: Expected Yes __________ Known No __________ Permanent physical or mental impairment: Expected * Confirmed * _____% Description of permanent functional disability: 1.4 Worker’s home situation: Resides alone * Lives with spouse, * relative or friend Dependants No * Adaptation of home Yes * Yes * No * Number and ages: in progress or yet to come * 2. EVALUATION OF PERSONAL CARE AND HOME ASSISTANCE NEEDS 2.1 Table of evaluation of assistance needs: A- Complete assistance required B- Partial assistance required Circle the points corresponding to the assistance needs for performing each of the following activities or tasks C- No assistance required D- No points Enter D-1, D-2 or D-3 Getting out of bed 3 1.5 0 Going to bed 3 1.5 0 Washing 5 2.5 0 Dressing 3 1.5 0 Undressing 3 1.5 0 Bladder relief 3 1.5 0 Bowel movements 3 1.5 0 Eating 5 2.5 0 use of home facilities 4 2 0 Preparation of breakfast 2 1 0 Preparation of lunch 4 2 0 Preparation of dinner 4 2 0 Light housekeeping 1 0.5 0 House cleaning 1 0.5 0 Laundry 1 0.5 0 Shopping 3 1.5 0 Total /48 points Assistance needs A: Complete assistance required: The worker is incapable of performing the activity or task alone, even taking into consideration, where applicable, the use of an orthesis, a prosthesis or a technical aid or adaptation of the residence, since his contribution to performing the activity or task is not significant or presents an obvious danger for his safety. B: Partial assistance required: The worker is capable of safety performing a significant part of the activity or task, taking into consideration, where applicable, the use of an orthesis, a prosthesis or a technical aid or adaptation of the residence, but he requires significant assistance by another person to perform the activity completely. C: No assistance required: The worker is capable of performing the activity or task alone, taking into consideration, where applicable, the use of an orthesis, a prosthesis or a technical aid or adaptation of the residence. The activity or task can be performed safely. D: No points: Even though the worker is incapable of performing the activity or task and even though he may be eligible for personal care assistance, no points are granted for one of the following reasons: D-1: The worker did not usually perform the activity or task before the occurrence. D-2 The need is already covered by a specialized resource such as a nurse, or by some other rehabilitation measure. D-3 Another reason explained in section 2.2 “Explanation or comments”. 2.2 Explanations or comments: (needs that must specified, explanations concerning points assigned in certain cases or certain aspects of the evaluation) 2.3 Table for determining the monthly amount of personal home assistance for personal care and home assistance The total points obtained after the evaluation of each item in Table 2.1 correspond to a percentage, shown below, that applies to the maximum monthly amount of assistance prescribed in section 160 of the Act. The Commission determines the amount of assistance for personal care and home assistance by multiplying the maximum monthly amount by that percentage. On 1 January of each year, the Commission revalorizes the amount of assistance, adjusted where applicable under Division IV of this Regulation, by multiplying the maximum amount of assistance, as revalorized at that date in accordance with the obtained is rounded off to the nearest dollar. Total points Percentage Total points Percentage 0 - 2 0.0% 24.5 - 28 56.5% 2.5 - 4 4.3% 28.5 - 32 65.2% 4.5 - 8 13.0% 32.5 - 36 73.9% 8.5 - 12 21.7% 36.5 - 40 82.6% 12.5 - 16 30.4% 40.5 - 44 91.3% 16.5 - 20 39.1% 44.5 - 48 100% 20.5 - 24 47.8% Results to be carried over to section 4 entitled “Summary”. 2.4 Description of items evaluated: • Getting out of bed: the ability to get out of bed unassisted, taking into consideration, where applicable, the use of an orthesis, a prosthesis or a technical aid or adaptation of the residence. • Going to bed: the ability to get into bed unassisted, taking into consideration, where applicable, the use of an orthesis, a prosthesis or a technical aid or adaptation of the residence. • Washing: the ability to wash oneself unassisted, without taking into consideration the ability to use a bathtub or a shower. This includes basic selfcare such as hair grooming, shaving and applying make-up. • Dressing: the ability to dress oneself unassisted, including outdoor clothing. • Undressing: the ability to undress oneself unassisted, including outdoor clothing. • Bladder relief: the ability to relieve one’s bladder by the unassisted use, where applicable, of special equipment for that purpose. • Bower movements: the ability to relieve one’s bowels by the unassisted use, where applicable, of special equipment for that purpose. • Eating: the ability to lift properly prepared food from the plate to one’s mouth unassisted, by using, where applicable, special equipment for that activity. • Use of home facilities: the ability to use, unassisted, common household appliances and devices such as bathroom facilities, the telephone and television, taking into consideration, where applicable, the use of a technical aid or adaptation of the residence. • Preparation of breakfast, lunch and dinner: the ability to prepare meals and to wash dishes. Preparation of each meal is evaluated separately. • Light housekeeping: the ability to perform, unassisted, regular housekeeping activities such as dusting, sweeping, carrying out garbage cans and making beds. • Housecleaning: the ability to perform, unassisted, housecleaning activities such as cleaning the refrigerator and the oven, washing floors and windows, spring cleaning. • Laudry: the ability to use, unassisted, appliances for washing and drying clothes, including activities related thereto such as folding, ironing and putting away clothes. • Shopping: the ability to use, unassisted, the facilities required to make the necessary purchases of groceries, hardware, pharmaceuticals, or to use public services such as banking and postal services, taking into consideration, where applicable, the use of a technical aid or adaptation of the residence. 3. EVALUATION OF SUPERVISION NEEDS 3.1 Table OF EVALUATION OF SUPERVISION NEEDS: Higher cerebral functions A- Clause supervision required B- Moderate supervision required Circle the points corresponding to the supervision need pertaining to each of the following functions C- No supervision required D- No points Enter D-1, D-2 or D-3 Memory 2 1 0 Temporal orientation 2 1 0 Spatial orientation 2 1 0 Communication 2 1 0 Self-control 2 1 0 Contact with reality 2 1 0 Supervision needs A: Close supervision required: The occurrence has altered this higher cerebral function and the worker must usually be kept under constant supervision except in certain daily situations where he may be left alone. B: Moderate supervision required: The occurrence has altered this higher cerebral function and the worker must be supervised in certain daily situations. He may be left alone outside of those daily situations. Those situations are foreseeable and probable on a daily basis. C: No supervision required: The occurrence has not significantly altered the worker’s abilities with respect to this higher cerebral function and he requires no supervisions or only in occasional or unforeseeable circumstances. D: No points: (enter D-1, D-2 or D-3) Even though the worker is incapable of performing the activity or task and even though he may be eligible for personal care assistance, no points are granted for one of the following reasons: D-1: The worker already had significant difficulties before the occurrence. D-2 The need is already covered by a specialized resource or other rehabilitation measure. D-3 Another reason explained in section 3.2 “Explanations or comments”. 3.2 Explanations or comments: (specify the activities affected, the ability to stay by oneself for a few hours or a day and the degree of supervision required) 3.3 Table for determining the monthly amount of personal home assistance for supervision needs A single score is assigned. The highest score (2, 1 or 0) is kept and corresponds to a percentage, shown below, that applies to the maximum monthly amount of assistance prescribed in section 160 of the Act. By multiplying the maximum monthly amount by that percentage, the Commission determines the amount of personal home assistance for supervision needs, which is added to the amount determined in Table 2.3 (subject to the maximum amount prescribed in section 160 of the Act). On 1 January of each year, the Commission revalorizes the amount of assistance, adjusted where applicable under Division IV of this Regulation, by multiplying the maximum monthly amount of assistance, as revalorized on that date in accordance with the Act, by the percentage corresponding to the total of points. The product thus obtained is rounded off to the nearest dollar. Score Percentage 0 0.0% 1 13.0% 2 39.1% Results to be carried over to section 4 entitled “Summary”. 3.4 Description of items evaluated Higher cerebral functions: • Memory: the ability to recall very recent events such as a running bath or something cooking on the stove, recent events such as an activity that took place a few hours earlier or more distant events such as paying one’s rent, and the ability to act accordingly. • Temporal orientation: the ability to situate oneself in the context of passing hours and days such that one can follow a schedule and keep appointments, and the ability to act accordingly. • Spatial orientation: the ability to situate oneself in a known or familiar environment such that one can find the rooms in a house, recognize one’s address and find one’s way around the neighbourhood, and the ability to act accordingly. • Communication: the ability to express one’s needs in a comprehensible manner, verbally, in writing, with gestures and with sounds and to understand simple orders and instructions in everyday life, and the ability to act accordingly. • Self-control: the ability to behave appropriately in terms of the surroundings or the people present and to control one’s impulses or inhibitions so as to avoid placing oneself or others in a dangerous or socially unacceptable situation. • Contact with reality: the ability to analyze and solve problems of everyday life and to make reasonable, safe and opportune decisions on the social, financial and personal level. 4. SUMMARY Scores and amounts determined: Assistance needs: /48 points $ Supervision needs (0, 1 or 2): points + $ Total monthly amount of assistance granted: $ (may not exceed the maximum amount provided for in section 160 of the Act) Evaluation covering the period: From To Personal assistance services given by: Evaluation made by (name of rehabilitation counsellor): Date Resource persons consulted:

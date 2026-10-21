@@ -1,0 +1,176 @@
+---
+type: "Act"
+title: "Autism Coordination Act"
+description: "Prince Edward Island Act, RSPEI 1988, c A-24.1."
+resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/a-24-1-autism_coordination_act_0.pdf"
+tags: ["pe", "act", "en"]
+jurisdiction: "pe"
+language: "en"
+citation: "RSPEI 1988, c A-24.1"
+document_date: "2018-12-05"
+upstream_license: "See upstream license: https://perma.cc/V9XJ-HTR4 © Government of Prince Edward Island. The consolidated statutes and regulations and the annual statutes from Prince Edward Island were updated by the A2AJ (Access to Algorithmic Justice project) on August 15, 2026 from the Legislative Counsel Office website (https://www.princeedwardisland.ca/en/legislation), maintained by the Government of Prince Edward Island. Copyright: Reproduction of Acts and regulations available in the A2AJ Canadian Laws dataset is governed by the Prince Edward Island's government copyright policy: https://www.princeedwardisland.ca/en/information/executive-council-office/website-disclaimer-and-copyright-policy. NOTE: This is an unofficial reproduction of Prince Edward Island legislation, made without endorsement or affiliation by the Government of Prince Edward Island. The official versions should be consulted for all purposes of interpreting and applying the law. Reproduced with the permission of the Legislative Counsel Office of Prince Edward Island (granted by email on July 20, 2026)."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-08-15T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/a-24-1-autism_coordination_act_0.pdf"
+    title: "Government of Prince Edward Island: official text"
+    author: "org:pe-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-PE/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-08-15T00:00:00Z"
+---
+
+# Autism Coordination Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Prince Edward Island. Not endorsed by or affiliated with the Government of Prince Edward Island. Text obtained from the [official source](https://www.princeedwardisland.ca/sites/default/files/legislation/a-24-1-autism_coordination_act_0.pdf) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RSPEI 1988, c A-24.1
+
+BE IT ENACTED by the Lieutenant Governor and the Legislative Assembly of the Province of
+
+Prince Edward Island as follows:
+
+### Definitions
+
+1.(a) “Committee” means the Prince Edward Island Autism Coordinating Committee
+
+established under section 2;
+
+(b) “deputy minister” means a deputy minister appointed pursuant to the Public
+
+Departments Act R.S.P.E.I. 1988, Cap. P-29.
+
+### Committee established
+
+2. The Prince Edward Island Autism Coordinating Committee is hereby established, consisting
+
+of deputy ministers designated by the Lieutenant Governor in Council, reporting to a Minister
+
+designated by the Lieutenant Governor in Council.
+
+### Objects and purposes
+
+3. The objects and purposes of the Committee are
+
+(a) to facilitate and coordinate the planning, development and delivery of services and
+
+programs for people with autism spectrum disorders;
+
+(b) to heighten awareness of the needs and aspirations of people with autism spectrum
+
+disorders;
+
+(c) to encourage persons and groups providing voluntary and professional services to
+
+people with autism spectrum disorders;
+
+(d) to consult with stakeholders on matters that affect people with autism spectrum
+
+disorders, including legislation, regulations, policies or programs; and
+
+(e) to be responsive to the needs and concerns of people with autism spectrum disorders
+
+and their caregivers by
+
+(i) seeking feedback and advice regarding the improvement of autism programs
+
+and services from persons and groups interested in providing voluntary
+
+services to people with autism spectrum disorders,
+
+(ii) reviewing existing programs and services, and
+
+(iii) making recommendations as to how those programs and services may be
+
+made more responsive to the needs and aspirations of people with autism
+
+spectrum disorders.
+
+### Duties
+
+4. The duties of the Committee are to initiate and coordinate government work
+
+(a) to undertake research to identify and study matters with respect to people with autism
+
+spectrum disorders and make recommendations based on the findings of the research;
+
+(b) to collect and disseminate information to the public with respect to people with
+
+autism spectrum disorders;
+
+(c) to publish reports, studies and surveys with respect to people with autism spectrum
+
+disorders;
+
+(d) to develop legislation, policies or programs to achieve the objects of this Act;
+
+(e) to collaborate with other governments and with community-based organizations on
+
+the development and delivery of policies and programs respecting people with autism
+
+spectrum disorders;
+
+(f) to deliver programs and navigation supports for people with autism spectrum
+
+disorders or for the benefit of people diagnosed with autism spectrum disorders;
+
+(g) to review or participate in the review of programs and services delivered to or on
+
+behalf of people with autism spectrum disorders by other government departments;
+
+(h) to promote awareness within the government of issues experienced by people with
+
+autism spectrum disorders; and
+
+(i) to support programs and activities that recognize the contributions of people with
+
+autism spectrum disorders to the community.
+
+### Co-operation
+
+5. In carrying out the duties of the Committee, the Committee shall work closely with
+
+government agencies and boards, Crown corporations, physical and mental health
+
+professionals, registered charities and non-profit organizations.
+
+### Committees
+
+6. The Committee may establish the sub-committees that it considers appropriate for the
+
+carrying out of its objects and purposes and may delegate to those sub-committees any of its
+
+powers, duties or functions.
+
+### Report to Lieutenant Governor in Council
+
+7.(1) The Committee shall report from time to time and at least annually to the Lieutenant
+
+Governor in Council.
+
+### Tabling or filing annual report
+
+(2) The Minister designated by the Lieutenant Governor in Council under section 2 shall table
+
+the committee’s annual report in the Legislative Assembly, if the Legislative Assembly is
+
+sitting when the report is made, or file the annual report with the Clerk of the Legislative
+
+Assembly, if the Legislative Assembly is not sitting when the report is made.
+
+### Regulations
+
+8. The Lieutenant Governor in Council may make regulations
+
+(a) respecting the powers, duties and functions of the Committee;
+
+(b) respecting the conduct of the business and affairs of the Committee;
+
+(c) defining any word or expression used but not defined in this Act;
+
+(d) respecting any matter or thing necessary or advisable for effectively carrying out the
+
+objects and purposes of this Act.

@@ -1,92 +1,33 @@
 #!/usr/bin/env python3
-"""Download provincial/territorial laws from the A2AJ "canadian-laws" dataset and write Markdown.
+"""Build provincial/territorial modules of the OKF bundle from the A2AJ "canadian-laws" dataset.
 
-Source: https://huggingface.co/datasets/a2aj/canadian-laws (Access to Algorithmic Justice,
-York University). A2AJ scrapes each jurisdiction's official site; texts are UNOFFICIAL.
+Source: https://huggingface.co/datasets/a2aj/canadian-laws (Access to Algorithmic Justice).
+A2AJ collects each jurisdiction's laws from its official website; the texts are UNOFFICIAL.
 
 Usage:
-    python3 tools/provincial_to_md.py <output dir> [JURISDICTION ...]
+    python3 tools/provincial_to_md.py <bundle dir, e.g. laws> [CODE ...]
 
-Jurisdiction codes: AB BC MB NB NL NS NT ON PE QC SK YT (default: all).
-Writes <out>/provinces/<code>/{acts,regulations}/<slug>.md (+ <slug>.fr.md when a
-French text exists) and README indexes. Needs: pandas, pyarrow, requests.
+Codes: ab bc mb nb nl ns nt on pe qc sk yt (default: all). For each code, writes
+<bundle>/<code>/{acts,regulations}/{en,fr}/<slug>.md (one OKF concept per law), the
+index.md files, the module overview.md, and refreshes the bundle-root index.md.
+Needs: pandas, pyarrow, requests.
 """
 import io
 import os
 import re
 import shutil
 import sys
-import unicodedata
 
 import pandas as pd
 import requests
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import okf  # noqa: E402
+
 BASE = "https://huggingface.co/datasets/a2aj/canadian-laws/resolve/main/{ds}/train.parquet"
-
-JURIS = {
-    "AB": "Alberta", "BC": "British Columbia", "MB": "Manitoba", "NB": "New Brunswick",
-    "NL": "Newfoundland and Labrador", "NS": "Nova Scotia", "NT": "Northwest Territories",
-    "ON": "Ontario", "PE": "Prince Edward Island", "QC": "Quebec", "SK": "Saskatchewan",
-    "YT": "Yukon",
-}
-
-
-
-# Copyright holder and official publication site for each jurisdiction (used for credits).
-CREDITS = {
-    "AB": ("Alberta King's Printer", "https://kings-printer.alberta.ca"),
-    "BC": ("King's Printer for British Columbia", "https://www.bclaws.gov.bc.ca"),
-    "MB": ("King's Printer for Manitoba", "https://web2.gov.mb.ca/laws/"),
-    "NB": ("Government of New Brunswick", "https://laws.gnb.ca"),
-    "NL": ("Government of Newfoundland and Labrador / House of Assembly", "https://www.assembly.nl.ca/legislation/sr/"),
-    "NS": ("Province of Nova Scotia", "https://nslegislature.ca/legislative-business/legislative-documents"),
-    "NT": ("Government of the Northwest Territories", "https://www.justice.gov.nt.ca/en/legislation/"),
-    "ON": ("King's Printer for Ontario", "https://www.ontario.ca/laws"),
-    "PE": ("Government of Prince Edward Island", "https://www.princeedwardisland.ca/en/legislation"),
-    "QC": ("Gouvernement du Québec", "https://www.legisquebec.gouv.qc.ca"),
-    "SK": ("Office of the King's Printer, Saskatchewan", "https://publications.saskatchewan.ca"),
-    "YT": ("Government of Yukon", "https://laws.yukon.ca"),
-}
-
-
-def disclaimer(code, url):
-    holder, site = CREDITS[code]
-    src = f"[official source]({url})" if url else f"[official source]({site})"
-    return (f"> **Unofficial version, for personal and non-commercial use only.** "
-            f"© {holder}. Not endorsed by or affiliated with the Government of {JURIS[code]}. "
-            f"Text obtained from the {src} via the "
-            f"[A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). "
-            f"Always check the official version before relying on it.")
-
-
-def paragraphs(text):
-    """Upstream text separates provisions with single newlines, which Markdown would
-    merge into one paragraph. Make every line its own paragraph, except inside tables
-    and code blocks."""
-    out = []
-    fence = False
-    prev = ""
-    for line in text.replace("\r\n", "\n").split("\n"):
-        line = line.rstrip()
-        if line.lstrip().startswith("```"):
-            fence = not fence
-        table = line.lstrip().startswith("|") and prev.lstrip().startswith("|")
-        if out and line and prev and not fence and not table:
-            out.append("")
-        out.append(line)
-        prev = line
-    return re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip()
-
-
-def slugify(s, maxlen=120):
-    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
-    s = re.sub(r"[^A-Za-z0-9]+", "-", s).strip("-")
-    return (s[:maxlen].rstrip("-") or "untitled")
-
-
-def yaml_str(s):
-    s = "" if s is None or (isinstance(s, float) and pd.isna(s)) else str(s)
-    return '"' + s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", " ") + '"'
+DATASET = "https://huggingface.co/datasets/a2aj/canadian-laws"
+PRODUCER = "process:canada-laws-provincial-converter"
+CODES = ["ab", "bc", "mb", "nb", "nl", "ns", "nt", "on", "pe", "qc", "sk", "yt"]
 
 
 def val(row, col):
@@ -98,9 +39,9 @@ def val(row, col):
             return ""
     except (TypeError, ValueError):
         pass
-    if hasattr(v, "date"):
+    if hasattr(v, "isoformat"):
         try:
-            return v.date().isoformat()
+            return v.isoformat()
         except Exception:
             pass
     return str(v).strip()
@@ -120,22 +61,77 @@ def fetch(ds):
     return pd.read_parquet(io.BytesIO(r.content))
 
 
-def doc(row, lang, code, kind):
-    sfx = "en" if lang == "en" else "fr"
-    name = val(row, f"name_{sfx}") or val(row, f"name_{'fr' if sfx == 'en' else 'en'}")
-    cit = val(row, f"citation_{sfx}") or val(row, f"citation_{'fr' if sfx == 'en' else 'en'}")
-    url = val(row, f"url_{sfx}") or val(row, f"url_{'fr' if sfx == 'en' else 'en'}")
-    text = val(row, f"unofficial_text_{sfx}")
+def disclaimer(code, url):
+    info = okf.JURISDICTION_INFO[code]
+    name = okf.MODULES[code][0]
+    return (f"> **Unofficial version, for personal and non-commercial use only.** "
+            f"© {info['holder']}. Not endorsed by or affiliated with the Government of {name}. "
+            f"Text obtained from the [official source]({url or info['site']}) via the "
+            f"[A2AJ Canadian Laws dataset]({DATASET}). Always check the official version before relying on it.")
+
+
+def paragraphs(text):
+    """Upstream text separates provisions with single newlines, which Markdown would
+    merge into one paragraph. Make every line its own paragraph, except inside tables
+    and code blocks."""
+    out = []
+    fence = False
+    prev = ""
+    for line in okf.clean(text.replace("\r\n", "\n")).split("\n"):
+        line = line.rstrip()
+        if line.lstrip().startswith("```"):
+            fence = not fence
+        table = line.lstrip().startswith("|") and prev.lstrip().startswith("|")
+        if out and line and prev and not fence and not table:
+            out.append("")
+        out.append(line)
+        prev = line
+    text = re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip()
+    # Bracketed amendment notes like "[(2)](b)" would render as links: escape them.
+    return re.sub(r"\]\((?=[^)/:#.\s]{1,8}\))", r"]\\(", text)
+
+
+def pick(row, field, lang):
+    other = "fr" if lang == "en" else "en"
+    return val(row, f"{field}_{lang}") or val(row, f"{field}_{other}")
+
+
+def concept(row, lang, code, kind, slug, has_other):
+    name = okf.clean(pick(row, "name", lang))
+    cit = okf.clean(pick(row, "citation", lang))
+    url = val(row, f"url_{lang}") or val(row, f"url_{'fr' if lang == 'en' else 'en'}")
     if not url:  # some jurisdictions store the link under another column name
         url = next((val(row, k) for k in sorted(row) if "url" in k.lower() and val(row, k).startswith("http")), "")
-    fm = ["---", f"title: {yaml_str(name)}", f"citation: {yaml_str(cit)}",
-          f"jurisdiction: {yaml_str(JURIS[code])}", f"language: {lang}",
-          f"type: {'act' if kind == 'acts' else 'regulation'}",
-          f"document_date: {yaml_str(val(row, f'document_date_{sfx}'))}",
-          f"retrieved: {yaml_str(val(row, f'scraped_timestamp_{sfx}'))}",
-          f"source: {yaml_str(url)}",
-          f"upstream_license: {yaml_str(val(row, 'upstream_license'))}", "---", ""]
-    text = paragraphs(text.strip())
+    text = paragraphs(val(row, f"unofficial_text_{lang}"))
+    retrieved = okf.iso_date(val(row, f"scraped_timestamp_{lang}"))
+    jname = okf.MODULES[code][0]
+    other_lang = "fr" if lang == "en" else "en"
+    if kind == "acts":
+        desc = f"{jname} Act, {cit}." if lang == "en" else f"Loi ({okf.MODULES[code][1]}), {cit}."
+    else:
+        desc = f"{jname} regulation, {cit}." if lang == "en" else f"Règlement ({okf.MODULES[code][1]}), {cit}."
+    info = okf.JURISDICTION_INFO[code]
+    fm = okf.frontmatter([
+        ("type", "Act" if kind == "acts" else "Regulation"),
+        ("title", name or cit),
+        ("description", desc),
+        ("resource", url),
+        ("tags", [code, "act" if kind == "acts" else "regulation", lang]),
+        ("jurisdiction", code),
+        ("language", lang),
+        ("citation", cit),
+        ("document_date", (val(row, f"document_date_{lang}") or "")[:10]),
+        ("translation", f"../{other_lang}/{slug}.md" if has_other else ""),
+        ("upstream_license", val(row, "upstream_license")),
+        ("status", "stable"),
+        ("generated", okf.generated_yaml(PRODUCER, retrieved)),
+        ("sources", okf.sources_yaml([
+            {"id": "official", "resource": url or info["site"], "title": f"{info['holder']}: official text",
+             "author": f"org:{code}-government", "last_modified": ""},
+            {"id": "a2aj", "resource": f"{DATASET}/blob/main/{'LEGISLATION' if kind == 'acts' else 'REGULATIONS'}-{code.upper()}/train.parquet",
+             "title": "A2AJ Canadian Laws dataset", "author": "org:a2aj", "last_modified": retrieved},
+        ])),
+    ])
     m = re.match(r"^\s*# [^\n]*\n", text)
     if m:  # upstream text already has a title: keep it first
         body = [m.group(0).strip(), ""]
@@ -145,95 +141,119 @@ def doc(row, lang, code, kind):
         if cit and cit != name:
             body += [f"*{cit}*", ""]
     body += [disclaimer(code, url), "", text, ""]
-    return "\n".join(fm + body), name or cit, cit
+    return fm + "\n" + "\n".join(body), name or cit, desc
 
 
 def run(out, codes):
-    summary = []
     for code in codes:
-        root = os.path.join(out, "provinces", code.lower())
-        for kind, ds in (("acts", f"LEGISLATION-{code}"), ("regulations", f"REGULATIONS-{code}")):
+        mdir = os.path.join(out, code)
+        counts = {}
+        for kind, ds in (("acts", f"LEGISLATION-{code.upper()}"), ("regulations", f"REGULATIONS-{code.upper()}")):
             df = fetch(ds)
             if df is None:
                 print(f"{ds}: not available")
                 continue
-            d = os.path.join(root, kind)
-            if os.path.isdir(d):
-                shutil.rmtree(d)  # full refresh so repealed laws disappear
-            os.makedirs(d)
+            kdir = os.path.join(mdir, kind)
+            if os.path.isdir(kdir):
+                shutil.rmtree(kdir)  # full refresh so repealed laws disappear
             used = set()
-            index = []
+            listing = {"en": [], "fr": []}
             for _, row in df.iterrows():
                 row = row.to_dict()
-                has_en = bool(val(row, "unofficial_text_en"))
-                has_fr = bool(val(row, "unofficial_text_fr"))
-                if not (has_en or has_fr):
+                langs = [l for l in ("en", "fr") if val(row, f"unofficial_text_{l}")]
+                if not langs:
                     continue
-                base_name = val(row, "citation_en") or val(row, "citation_fr") or val(row, "name_en") or val(row, "name_fr")
-                slug = slugify(base_name)
+                base = (val(row, "citation_en") or val(row, "citation_fr") or val(row, "name_en")
+                        or val(row, "name_fr"))
+                s = okf.slug(base)
                 n = 2
-                while slug in used:
-                    slug = f"{slugify(base_name)}-{n}"; n += 1
-                used.add(slug)
-                files = []
-                for lang, has in (("en", has_en), ("fr", has_fr)):
-                    if not has:
-                        continue
-                    fname = f"{slug}.md" if (lang == "en" or not has_en) else f"{slug}.fr.md"
-                    text, title, cit = doc(row, lang, code, kind)
-                    with open(os.path.join(d, fname), "w", encoding="utf-8") as f:
+                while s in used:
+                    s = f"{okf.slug(base)}-{n}"
+                    n += 1
+                used.add(s)
+                for lang in langs:
+                    d = os.path.join(kdir, lang)
+                    os.makedirs(d, exist_ok=True)
+                    text, title, desc = concept(row, lang, code, kind, s, len(langs) == 2)
+                    with open(os.path.join(d, s + ".md"), "w", encoding="utf-8") as f:
                         f.write(text)
-                    files.append((lang, fname, title, cit))
-                index.append(files)
-            write_index(d, code, kind, index)
-            summary.append((code, kind, len(index)))
-            print(f"{ds}: {len(index)} documents")
-    write_overview(out, summary)
+                    listing[lang].append(okf.index_entry(title, s + ".md", desc))
+            for lang, entries in listing.items():
+                if entries:
+                    counts[(kind, lang)] = len(entries)
+                    entries.sort(key=lambda e: e.lower())
+                    okf.write_index(os.path.join(kdir, lang), [(okf.KIND_LABEL[(kind, lang)], entries)])
+            print(f"{ds}: " + ", ".join(f"{len(v)} {k}" for k, v in listing.items() if v))
+        if counts:
+            write_overview(mdir, code, counts)
+            okf.write_module_index(out, code, counts)
+    okf.write_root_index(out)
 
 
-def write_index(d, code, kind, index):
-    rows = sorted(index, key=lambda fs: fs[0][2].lower())
-    lines = [f"# {JURIS[code]} — {'Acts' if kind == 'acts' else 'Regulations'}", "",
-             f"{len(rows)} documents. Unofficial copies for personal and non-commercial use only. "
-             f"© {CREDITS[code][0]}; official versions at {CREDITS[code][1]}. "
-             "Text obtained via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). "
-             "Each file links to its official source.", "",
-             "| Title | Citation | Files |", "|---|---|---|"]
-    for fs in rows:
-        lang, fname, title, cit = fs[0]
-        links = " · ".join(f"[{l}]({fn})" for l, fn, _, _ in fs)
-        lines.append(f"| [{title.replace('|', '/')}]({fname}) | {cit.replace('|', '/')} | {links} |")
-    with open(os.path.join(d, "README.md"), "w", encoding="utf-8") as f:
-        f.write("\n".join(lines) + "\n")
+def write_overview(mdir, code, counts):
+    name, fr_name, _ = okf.MODULES[code]
+    info = okf.JURISDICTION_INFO[code]
+    acts = max(counts.get(("acts", "en"), 0), counts.get(("acts", "fr"), 0))
+    regs = max(counts.get(("regulations", "en"), 0), counts.get(("regulations", "fr"), 0))
+    srcs = [{"id": "official", "resource": info["site"], "title": f"{info['holder']}: official laws website",
+             "author": f"org:{code}-government"},
+            {"id": "a2aj", "resource": DATASET, "title": "A2AJ Canadian Laws dataset", "author": "org:a2aj"}]
+    if info["terms_url"]:
+        srcs.append({"id": "terms", "resource": info["terms_url"], "title": f"{name} reuse terms",
+                     "author": f"org:{code}-government"})
+    fm = okf.frontmatter([
+        ("type", "Jurisdiction"),
+        ("title", name),
+        ("description", f"{acts} Acts and {regs} regulations of {name}, from the official laws website via the "
+                        "A2AJ dataset. Unofficial; personal and non-commercial use."),
+        ("resource", info["site"]),
+        ("tags", [code, "jurisdiction"]),
+        ("jurisdiction", code),
+        ("acts_en", counts.get(("acts", "en"), 0)), ("acts_fr", counts.get(("acts", "fr"), 0)),
+        ("regulations_en", counts.get(("regulations", "en"), 0)),
+        ("regulations_fr", counts.get(("regulations", "fr"), 0)),
+        ("status", "stable"),
+        ("generated", okf.generated_yaml(PRODUCER, "")),
+        ("sources", okf.sources_yaml(srcs)),
+    ])
+    rows = []
+    for kind, label in (("acts", "Acts / Lois"), ("regulations", "Regulations / Règlements")):
+        cells = [f"[{counts[(kind, l)]}]({kind}/{l}/)" if counts.get((kind, l)) else "—" for l in ("en", "fr")]
+        rows.append(f"| {label} | {cells[0]} | {cells[1]} |")
+    terms_ref = "[^terms]" if info["terms_url"] else ""
+    body = f"""
+# {name}
 
+The Acts and regulations of {name} ({fr_name}), as published by {info['holder']} on its
+[official laws website]({info['site']}).[^official] The texts were collected from that site by the
+[A2AJ Canadian Laws dataset]({DATASET}).[^a2aj]
 
-def write_overview(out, summary):
-    path = os.path.join(out, "provinces", "README.md")
-    # Merge with counts already recorded for jurisdictions not refreshed in this run.
-    counts = {}
-    if os.path.exists(path):
-        for m in re.finditer(r"^\| \[[^\]]+\]\(([a-z]{2})/\) \| (\d+) \| (\d+) \|", open(path, encoding="utf-8").read(), re.M):
-            counts[m.group(1).upper()] = {"acts": int(m.group(2)), "regulations": int(m.group(3))}
-    for code, kind, n in summary:
-        counts.setdefault(code, {})[kind] = n
-    lines = ["# Provincial and territorial laws", "",
-             "Unofficial Markdown copies, **for personal and non-commercial use only**, from the "
-             "[A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws), which collects them from "
-             "each government's official site. Nunavut is not covered by that dataset. "
-             "Credits, sources and terms are in the [main README](../README.md#credits-and-sources).", "",
-             "| Jurisdiction | Acts | Regulations |", "|---|---|---|"]
-    for code in sorted(counts):
-        c = counts[code]
-        lines.append(f"| [{JURIS[code]}]({code.lower()}/) | {c.get('acts', 0)} | {c.get('regulations', 0)} |")
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines) + "\n")
+| | English | Français |
+|---|---|---|
+{chr(10).join(rows)}
+
+# Concepts
+
+Every law is one concept (`type: Act` or `type: Regulation`) named after its citation, with the
+official page in `resource` and, where both languages exist, a `translation` link to the other
+version. Formatting follows the upstream scrape and is plainer than the federal module.
+
+# Terms of use
+
+© {info['holder']}. {info['terms']}{terms_ref} These are unofficial copies provided for personal
+and non-commercial use; always check the official version before relying on a provision.
+
+[^official]: {info['holder']}: official laws website
+[^a2aj]: A2AJ Canadian Laws dataset
+""" + (f"[^terms]: {name} reuse terms\n" if info["terms_url"] else "")
+    with open(os.path.join(mdir, "overview.md"), "w", encoding="utf-8") as f:
+        f.write(fm + body)
 
 
 if __name__ == "__main__":
     out = sys.argv[1]
-    codes = [c.upper() for c in sys.argv[2:]] or sorted(JURIS)
-    bad = [c for c in codes if c not in JURIS]
+    codes = [c.lower() for c in sys.argv[2:]] or CODES
+    bad = [c for c in codes if c not in CODES]
     if bad:
         sys.exit(f"unknown jurisdiction(s): {bad}")
     run(out, codes)

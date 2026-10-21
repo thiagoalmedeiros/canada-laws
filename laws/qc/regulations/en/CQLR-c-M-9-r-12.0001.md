@@ -1,0 +1,121 @@
+---
+type: "Regulation"
+title: "Regulation respecting certain professional activities that may be engaged in by dietitians"
+description: "Quebec regulation, CQLR c M-9, r 12.0001."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/M-9,%20r.%2012.0001"
+tags: ["qc", "regulation", "en"]
+jurisdiction: "qc"
+language: "en"
+citation: "CQLR c M-9, r 12.0001"
+document_date: "2022-07-28"
+translation: "../fr/CQLR-c-M-9-r-12.0001.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/M-9,%20r.%2012.0001"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Regulation respecting certain professional activities that may be engaged in by dietitians
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/M-9,%20r.%2012.0001) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c M-9, r 12.0001*
+
+*Enabling statute: Medical Act (chapter M-9, s. 19, 1st par., subpar. b)*
+
+*Updated to 2022-07-28*
+
+## I — PURPOSE
+
+**1** The purpose of this Regulation is to determine, among the professional activities that may be engaged in by physicians, those that, under certain prescribed terms and conditions, may be engaged in by dietitians.
+
+## II — AUTHORIZED ACTIVITIES
+
+**2** As part of the determination of the nutritional treatment plan, provided that a prescription indicates that nutrition is a determining factor in the treatment of an illness, and during the monitoring of the nutritional status of a patient whose nutritional treatment plan has been determined, dietitians may
+
+(1) prescribe
+
+(a) nutritional formulas, macronutrients and micronutrients to ensure the nutritional needs are met;
+
+(b) pancreatic enzyme solutions used to restore the functionality of a feeding tube;
+
+(c) laboratory analyses; and
+
+(2) adjust the patient’s insulin and antidiabetic medication.
+
+Dietitians engage in the activities provided for in the first paragraph in accordance with the provisions applicable to individual prescriptions provided for in the Règlement sur les normes relatives aux ordonnances faites par un médecin (chapter M-9, r. 25.1).
+
+**3** Dietitians may administer, according to a prescription, medications or other substances, orally or enterally, as part of the determination of the nutritional treatment plan and during the monitoring of the nutritional status of persons whose nutritional treatment plan has been determined.
+
+**4** Before prescribing nutritional formulas, macronutrients and micronutrients, adjusting a patient’s insulin and antidiabetic medication or administering a prescribed medication, dietitians must
+
+(1) ensure that there are no contra-indications or drug interactions; and
+
+(2) ensure to have an up-to-date assessment of the patient’s state of health.
+
+In addition, before adjusting the patient’s insulin and antidiabetic medication, dietitians must ensure that the scientifically recognized therapeutic targets have been achieved, except where dietitians obtain specific therapeutic targets from a professional in charge of the patient’s clinical follow-up and, if applicable, special limits or contraindications.
+
+Before prescribing a laboratory analysis, dietitians must ensure that no results from an equivalent analysis are available.
+
+**5** Dietitians must enter in a patient’s record the nutritional formulas, macronutrients and micronutrients, pancreatic enzyme solutions and laboratory analyses they prescribed, as well as the insulin and antidiabetic medication they adjusted and the reasons for which they are prescribed or for which the dosage is changed. They must also enter the name of the prescribed medications they administer.
+
+Dietitians must also enter in the record the follow-up required following their interventions.
+
+**6** Dietitians must communicate, to the professional in charge of a patient’s clinical follow-up, the name of the nutritional formulas, macronutrients and micronutrients, and pancreatic enzyme solutions prescribed, the insulin and antidiabetic medication adjusted, as well as the results of the laboratory analyses prescribed.
+
+In the absence of an attending physician, dietitians must establish, before their interventions, the follow-up and management of the patient.
+
+**7** Dietitians may permanently remove a feeding tube under a prescription.
+
+## III — TRAINING
+
+**8** To engage in the activities referred to in this Regulation, dietitians must, as the case may be, meet the following conditions:
+
+(1) for the purpose of prescribing the nutritional formulas, macronutrients, micronutrients and pancreatic enzyme solutions, hold an attestation issued by the Ordre professionnel des diététistes-nutritionnistes du Québec according to which they have successfully completed 15 hours of theoretical training on
+
+(a) indications for the prevention and treatment of conditions that require nutritional formulas, macronutrients and micronutrients;
+
+(b) drug and nutritional interactions and contra-indications;
+
+(c) dietary reference intakes (DRIs) and tolerable upper intake levels (UL) of vitamins and minerals; and
+
+(d) the standards for writing a prescription;
+
+(1.1) for the purposes of prescribing laboratory analyses and adjusting the insulin and antidiabetic medication, hold, in addition to the attestation referred to in paragraph 1, an attestation issued by the Ordre professionnel des diététistes-nutritionnistes du Québec according to which they have successfully completed 3 hours of theoretical training on
+
+(a) indications for adjusting insulin and antihyperglycemic medication;
+
+(b) the judicious use of values and the safe management of laboratory analyses;
+
+(2) for the purposes of the permanent removal of the feeding tube referred to in section 7, hold an attestation issued by the Ordre professionnel des diététistes-nutritionnistes du Québec according to which they have successfully completed 15 hours of training on
+
+(a) theoretical training on
+
+(i) the types of tubes, sterile material and removal methods;
+
+(ii) the immediate contra-indications for removing a tube;
+
+(iii) the interventions and follow-up required after the removal of the tube, including referral to another professional where required;
+
+(iv) the potential complications associated with the removal of a tube and the associated signs and symptoms;
+
+(b) practical training on
+
+(i) tube removal methods;
+
+(ii) hygiene and application of a clean method;
+
+(iii) monitoring and identification of signs and symptoms of potential complications;
+
+(3) where dietitians do not practise in the clinical nutrition sector or have not acquired competence in that sector of activity, they must take refresher training whose content and number of hours are determined by the Ordre professionnel des diététistes-nutritionnistes du Québec.
+
+**9** (Omitted).

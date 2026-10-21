@@ -1,0 +1,60 @@
+---
+type: "Regulation"
+title: "Règlement sur le fonds relatif à l’amélioration des conditions de mise en marché du lait et l’imposition d’une contribution spéciale"
+description: "Règlement (Québec), RLRQ c M-35.1, r 197.1."
+resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20197.1"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c M-35.1, r 197.1"
+document_date: "2024-01-01"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20197.1"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur le fonds relatif à l’amélioration des conditions de mise en marché du lait et l’imposition d’une contribution spéciale
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20197.1) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c M-35.1, r 197.1*
+
+*Loi habilitante: Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1, a. 124)*
+
+*À jour au 2024-01-01*
+
+**1** Les Producteurs de lait du Québec, ci-après dénommés Producteurs, créent un fonds dont l’objet est d’améliorer les conditions de mise en marché du lait.
+
+Les dépenses prises en charge par le fonds visent celles découlant des obligations contractées par les Producteurs en vertu du chapitre VIII de la Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1) aux fins de contribuer aux dépenses encourues dans le cadre du Programme de croissance des marchés.
+
+Le conseil d’administration des Producteurs est responsable de la gestion du fonds.
+
+**2** Tout producteur assujetti au Plan conjoint (1980) des producteurs de lait (chapitre M-35.1, r. 205) verse aux Producteurs, pour alimenter le fonds, une contribution de 0,35 $ par hectolitre de lait mis en marché, à l’exception du lait:
+
+(1) produit dans le cadre du programme de dons de lait et de produits laitiers prévu aux conventions de mise en marché du lait;
+
+(2) produit et transformé par un producteur transformateur.
+
+Alimentent également le fonds les intérêts générés dans le cadre de l’administration de celui-ci.
+
+**3** La perception de la contribution est suspendue par les Producteurs le premier jour du mois qui suit l’atteinte d’un solde au fonds de 50 millions de dollars. Un avis aux producteurs est publié en temps opportun sur l’Extranet des Producteurs.
+
+Lorsque les dépenses anticipées le justifient et afin de conserver un fonds de roulement suffisant, les Producteurs reprennent la perception de la contribution interrompue en application des dispositions du présent article. Un avis aux producteurs est publié sur l’Extranet des Producteurs au moins 90 jours avant le début de la reprise.
+
+**4** Les Producteurs établissent et tiennent une comptabilité distincte pour le fonds. Ils en font rapport aux producteurs lors de l’assemblée générale annuelle.
+
+**5** Les producteurs réunis en assemblée générale peuvent décider d’abolir le fonds et la contribution et déterminent, le cas échéant, les modalités de redistribution ou d’utilisation des sommes accumulées au fonds. Cette abolition s’effectue en respect des engagements souscrits par les Producteurs.
+
+**6** Les Producteurs ne perçoivent pas de frais d’administration pour l’application du présent règlement.
+
+**7** (Omis).

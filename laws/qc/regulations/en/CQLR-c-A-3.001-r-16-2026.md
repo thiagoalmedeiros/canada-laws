@@ -1,0 +1,69 @@
+---
+type: "Regulation"
+title: "Regulation respecting the table of gross annual income from suitable employments for 2026"
+description: "Quebec regulation, CQLR c A-3.001, r 16 (2026)."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/A-3.001,%20r.%2016%20%282026%29"
+tags: ["qc", "regulation", "en"]
+jurisdiction: "qc"
+language: "en"
+citation: "CQLR c A-3.001, r 16 (2026)"
+document_date: "2025-12-11"
+translation: "../fr/CQLR-c-A-3.001-r-16-2026.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/A-3.001,%20r.%2016%20%282026%29"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Regulation respecting the table of gross annual income from suitable employments for 2026
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/A-3.001,%20r.%2016%20%282026%29) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c A-3.001, r 16 (2026)*
+
+*Enabling statute: Act respecting industrial accidents and occupational diseases (chapter A-3.001, s. 50)*
+
+*Updated to 2025-12-11*
+
+**1** The table of gross annual income from suitable employments for the year 2026 is as follows:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Bracket |  | Lower limit |  | Higher limit |
+| 1. | from | $33,578 | to less than | $34,500 |
+| 2. | ” | $34,500 | ” | $36,500 |
+| 3. | ” | $36,500 | ” | $39,500 |
+| 4. | ” | $39,500 | ” | $42,500 |
+| 5. | ” | $42,500 | ” | $45,500 |
+| 6. | ” | $45,500 | ” | $48,500 |
+| 7. | ” | $48,500 | ” | $51,500 |
+| 8. | ” | $51,500 | ” | $54,500 |
+| 9. | ” | $54,500 | ” | $57,500 |
+| 10. | ” | $57,500 | ” | $60,500 |
+| 11. | ” | $60,500 | ” | $63,500 |
+| 12. | ” | $63,500 | ” | $66,500 |
+| 13. | ” | $66,500 | ” | $69,500 |
+| 14. | ” | $69,500 | ” | $72,500 |
+| 15. | ” | $72,500 | ” | $75,500 |
+| 16. | ” | $75,500 | ” | $78,500 |
+| 17. | ” | $78,500 | ” | $81,500 |
+| 18. | ” | $81,500 | ” | $84,500 |
+| 19. | ” | $84,500 | ” | $87,500 |
+| 20. | ” | $87,500 | ” | $90,500 |
+| 21. | ” | $90,500 | ” | $93,500 |
+| 22. | ” | $93,500 | ” | $96,500 |
+| 23. | ” | $96,500 | ” | $99,500 |
+| 24. | ” | $99,500 | ” | $102,500 |
+| 25. | ” | $102,500 | ” | $103,000 |
+| 26. | ” | $103,000 | or more |  |
+
+**2** (Omitted).

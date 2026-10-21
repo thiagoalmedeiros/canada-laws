@@ -1,0 +1,55 @@
+---
+type: "Regulation"
+title: "Règlement sur les recycleurs de véhicules routiers"
+description: "Règlement (Québec), RLRQ c C-24.2, r 40.01."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-24.2,%20r.%2040.01"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c C-24.2, r 40.01"
+document_date: "2015-10-19"
+translation: "../en/CQLR-c-C-24.2-r-40.01.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-24.2,%20r.%2040.01"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur les recycleurs de véhicules routiers
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/C-24.2,%20r.%2040.01) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c C-24.2, r 40.01*
+
+*Loi habilitante: Code de la sécurité routière (chapitre C-24.2, a. 620, par. 4.1 et 4.2)*
+
+*À jour au 2015-10-19*
+
+**1** Le registre du recycleur de véhicules routiers est un répertoire sur support papier ou informatique dans lequel sont consignés tous les renseignements prévus à l’article 155 du Code de la sécurité routière (chapitre C-24.2).
+
+**2** Les renseignements contenus dans le registre doivent être conservés pour une période de 2 ans après la date de la vente du véhicule routier ou de la pièce majeure.
+
+**3** Le registre doit être conservé en tout temps à l’établissement du recycleur de véhicules routiers.
+
+**4** Pour l’application de l’article 155 du Code de la sécurité routière (chapitre C-24.2), on entend par «pièce majeure»:
+
+(1) pour tous les véhicules routiers: le moteur, le cadre du châssis et les roues en alliage léger;
+
+(2) pour tous les véhicules routiers à l’exception de la motocyclette et du cyclomoteur: la boîte de vitesse, les ponts avant et arrière, le capot, les ailes, les panneaux latéraux, le couvercle du coffre, les portes, les sièges, le tableau de bord, les longerons complets ou non, le panneau de calandre, le pavillon, le pied avant, le pied milieu et le pied arrière, le bas de caisse et le hayon;
+
+(3) la fourche et le carénage d’une motocyclette et d’un cyclomoteur;
+
+(4) la cabine et la boîte d’un camion et d’une camionnette.
+
+**5** Le présent règlement remplace le Règlement sur les commerçants et les recycleurs (chapitre C-24.2, r. 7).
+
+**6** (Omis).

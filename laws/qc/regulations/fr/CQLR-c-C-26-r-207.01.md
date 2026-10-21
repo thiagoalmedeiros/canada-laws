@@ -1,0 +1,51 @@
+---
+type: "Regulation"
+title: "Règlement sur certaines activités professionnelles pouvant être exercées par des personnes autres que des psychoéducateurs"
+description: "Règlement (Québec), RLRQ c C-26, r 207.01."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-26,%20r.%20207.01"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c C-26, r 207.01"
+document_date: "2013-11-21"
+translation: "../en/CQLR-c-C-26-r-207.01.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-26,%20r.%20207.01"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur certaines activités professionnelles pouvant être exercées par des personnes autres que des psychoéducateurs
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/C-26,%20r.%20207.01) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c C-26, r 207.01*
+
+*Loi habilitante: Code des professions (chapitre C-26, a. 94, par. h)*
+
+*À jour au 2013-11-21*
+
+**1** Un étudiant inscrit à un programme d’études en psychoéducation menant au diplôme donnant ouverture au permis délivré par l’Ordre des psychoéducateurs et psychoéducatrices du Québec peut exercer, parmi les activités professionnelles que peuvent exercer les psychoéducateurs, celles qui sont requises aux fins de compléter ce programme à la condition d’être supervisé dans le cadre d’activités d’apprentissage du programme de 2^e cycle.
+
+**2** La personne qui doit compléter un stage ou une formation aux fins de la reconnaissance d’une équivalence conformément au Règlement sur les normes d’équivalence pour la délivrance d’un permis de l’Ordre des psychoéducateurs et psychoéducatrices du Québec (chapitre C-26, r. 208.01) peut exercer, parmi les activités professionnelles que peuvent exercer les psychoéducateurs, celles qui sont requises aux fins de compléter la formation ou le stage qui lui permettrait de bénéficier d’une équivalence, à la condition d’être supervisée.
+
+**2.1** Lorsqu’elle agit hors du cadre d’un programme d’études, d’un stage ou d’une formation, une personne visée aux articles 1 et 2 qui possède les connaissances et les habiletés nécessaires peut exercer, dans le cadre d’un emploi, les activités professionnelles que peuvent exercer les psychoéducateurs à la condition d’être supervisée. Cette personne doit également être inscrite au registre tenu à cette fin par l’Ordre.
+
+**3** Le superviseur visé aux articles 1, 2 et 2.1 doit satisfaire aux conditions suivantes:
+
+(1) il est membre de l’Ordre des psychoéducateurs et psychoéducatrices du Québec;
+
+(2) il n’a fait l’objet d’aucune sanction du conseil de discipline de l’Ordre ou du Tribunal des professions;
+
+(3) il n’a pas fait l’objet, au cours des 5 années précédant la date à laquelle il doit agir comme superviseur, d’une décision du Conseil d’administration de l’Ordre lui imposant un stage ou un cours de perfectionnement, une limitation ou une suspension de son droit d’exercer des activités professionnelles ou la radiation du tableau de l’Ordre.
+
+**4** (Omis).

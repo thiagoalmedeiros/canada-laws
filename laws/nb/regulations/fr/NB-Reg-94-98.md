@@ -1,0 +1,97 @@
+---
+type: "Regulation"
+title: "Routes à accès limité dans le comté de Sunbury"
+description: "Règlement (Nouveau-Brunswick), Règl du N-B 94-98."
+resource: "https://laws.gnb.ca/en/document/cr/94-98"
+tags: ["nb", "regulation", "fr"]
+jurisdiction: "nb"
+language: "fr"
+citation: "Règl du N-B 94-98"
+document_date: "1994-07-27"
+translation: "../en/NB-Reg-94-98.md"
+upstream_license: "See upstream license: https://perma.cc/8442-YF8V © King's Printer for New Brunswick. Reproduced from laws.gnb.ca subject to the Government of New Brunswick disclaimer and copyright notice (https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html). NOTE: This is an unofficial reproduction of New Brunswick regulations, made without endorsement or affiliation by the Government of New Brunswick. Official versions should be consulted for all purposes of interpreting and applying the law."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://laws.gnb.ca/en/document/cr/94-98"
+    title: "Government of New Brunswick: official text"
+    author: "org:nb-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-NB/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# Routes à accès limité dans le comté de Sunbury
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of New Brunswick. Not endorsed by or affiliated with the Government of New Brunswick. Text obtained from the [official source](https://laws.gnb.ca/en/document/cr/94-98) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RÈGLEMENT DU NOUVEAU-BRUNSWICK 94-98
+
+pris en vertu de la Loi sur la voirie (D.C. 94-502)
+
+Déposé le 27 juillet 1994
+
+En vertu de l’article 67 de la Loi sur la voirie, le lieutenant-gouverneur en conseil prend le règlement suivant :
+
+1 Le présent règlement peut être cité sous le titre : Règlement sur les routes à accès limité dans le comté de Sunbury - Loi sur la voirie.
+
+2 Les routes ou les parties des routes du comté de Sunbury décrites à l’annexe A sont désignés comme des routes à accès limité suivant les catégories précisées dans l’annexe.
+
+3 Le présent règlement entre en vigueur le 15 août 1994.
+
+## ANNEXE A
+
+COMTÉ DE SUNBURY
+
+PARTIE I - Route 2
+
+Route 2 - De la limite séparant les comtés de York et de Sunbury jusqu’à la limite séparant les comtés de Sunbury et de Queens
+
+1 Toute la partie de la Route 2, à partir de la limite séparant les comtés de York et de Sunbury jusqu’à la limite séparant les comtés de Sunbury et de Queens, située dans les paroisses de Lincoln et de Burton, comté de Sunbury, désignée comme une route à accès limité de niveau I et plus précisément délimitée comme suit :
+
+Partant du point d’intersection de la ligne centrale de la partie servant à la circulation de la Route 2 et de la limite séparant les comtés de York et de Sunbury; de là, en direction est le long de la ligne centrale de la Route 2 sur une distance approximative de 32,770 kilomètres jusqu’à la limite séparant les comtés de Sunbury et de Queens, y compris tous les échangeurs, existants et futurs, ou les bretelles de raccordement à niveau, et les voies d’accès et de sortie, y compris les sections en biseau, de toutes les routes qui lui sont reliées.
+
+Chemin Nevers
+
+2 Toutes les parties du chemin Nevers situées dans la paroisse de Lincoln, comté de Sunbury, désignées comme une route à accès limité de niveau III et plus précisément délimitées comme suit :
+
+Partant du point d’intersection de la ligne centrale de la partie servant à la circulation du chemin Nevers et du centre de la médiane de la Route 2; de là, en direction nord le long de la ligne centrale du chemin Nevers sur une distance approximative de 248 mètres jusqu’à l’intersection des lignes centrales des parties servant à la circulation du chemin Nevers et de l’allée Cynthia, et
+
+Partant du point d’intersection de la ligne centrale de la partie servant à la circulation du chemin Nevers et du centre de la médiane de la Route 2; de là, en direction sud le long de la ligne centrale du chemin Nevers sur une distance approximative de 226 mètres jusqu’à l’intersection des lignes centrales des parties servant à la circulation du chemin Nevers et du chemin d’accès se prolongeant vers l’ouest.
+
+Chemin Miramichi
+
+3 Toutes les parties du chemin Miramichi situées dans la paroisse de Burton, comté de Sunbury, désignées comme une route à accès limité de niveau III et plus précisément délimitées comme suit :
+
+Partant du point d’intersection de la ligne centrale de la partie servant à la circulation du chemin Miramichi et du centre de la médiane de la Route 2; de là, en direction est le long de la ligne centrale du chemin Miramichi sur une distance de 230 mètres, et
+
+Partant du point d’intersection de la ligne centrale de la partie servant à la circulation du chemin Miramichi et du centre de la médiane de la Route 2; de là, en direction ouest le long de la ligne centrale du chemin Miramichi sur une distance de 293 mètres.
+
+PARTIE II - Route 7
+
+Division A
+
+Route 7 - De la voie de contournement de Lincoln à la Route 2
+
+4 Toute la partie de la Route 7, à partir de la limite séparant les comtés de York et de Sunbury jusqu’à la Route 2, située dans la paroisse de Lincoln, comté de Sunbury, désignée comme une route à accès limité de niveau I et plus précisément délimitée comme suit :
+
+Partant du point d’intersection de la ligne centrale de la partie servant à la circulation de la Route 7 et de la limite séparant les comtés de York et de Sunbury; de là, en direction sud le long de la ligne centrale de la Route 7 sur une distance approximative de 2,962 kilomètres jusqu’à l’intersection des lignes centrales des parties servant à la circulation de la Route 7 et de la Route 2, y compris tous les échangeurs, existants et futurs, ou les bretelles de raccordement à niveau, et les voies d’accès et de sortie, y compris les sections en biseau, de toutes les routes qui lui sont reliées.
+
+Division B
+
+Route 7 - De Oromocto à Geary
+
+5 Toute la partie de la Route 7, à partir de l’intersection de la Route 2 à Oromocto et du chemin Broad, située dans la paroisse de Burton, comté de Sunbury, désignée comme une route à accès limité de niveau I et plus précisément délimitée comme suit :
+
+Partant du point d’intersection des lignes centrales des parties servant à la circulation de la Route 7 et de la Route 2; de là, en direction sud le long de la ligne centrale de la Route 7 sur une distance approximative de 9,069 kilomètres jusqu’à l’intersection des lignes centrales des parties servant à la circulation de la Route 7 et du chemin Broad, y compris tous les échangeurs, existants et futurs, ou les bretelles de raccordement à niveau, et les voies d’accès et de sortie, y compris les sections en biseau, de toutes les routes qui lui sont reliées.
+
+Division C
+
+Route 7 - De Geary jusqu’à la limite séparant les comtés de Sunbury et de Queens
+
+6 Toute la partie de la Route 7, à partir du chemin Broad jusqu’à la limite séparant les comtés de Sunbury et de Queens, située dans les paroisses de Burton et de Blissville, comté de Sunbury, désignée comme une route à accès limité de niveau II et plus précisément délimitée comme suit :
+
+Partant du point d’intersection des lignes centrales des parties servant à la circulation de la Route 7 et du chemin Broad; de là, en direction sud le long de la ligne centrale de la Route 7 sur une distance approximative de 11,915 kilomètres jusqu’à la limite séparant les comtés de Sunbury et de Queens, y compris tous les échangeurs, existants et futurs, ou les bretelles de raccordement à niveau, et les voies d’accès et de sortie, y compris les sections en biseau, de toutes les routes qui lui sont reliées.

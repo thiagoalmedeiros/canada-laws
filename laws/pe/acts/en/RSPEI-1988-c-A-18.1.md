@@ -1,0 +1,1658 @@
+---
+type: "Act"
+title: "Architects Act"
+description: "Prince Edward Island Act, RSPEI 1988, c A-18.1."
+resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/a-18-1-architects_act_0.pdf"
+tags: ["pe", "act", "en"]
+jurisdiction: "pe"
+language: "en"
+citation: "RSPEI 1988, c A-18.1"
+document_date: "2024-11-29"
+upstream_license: "See upstream license: https://perma.cc/V9XJ-HTR4 © Government of Prince Edward Island. The consolidated statutes and regulations and the annual statutes from Prince Edward Island were updated by the A2AJ (Access to Algorithmic Justice project) on August 15, 2026 from the Legislative Counsel Office website (https://www.princeedwardisland.ca/en/legislation), maintained by the Government of Prince Edward Island. Copyright: Reproduction of Acts and regulations available in the A2AJ Canadian Laws dataset is governed by the Prince Edward Island's government copyright policy: https://www.princeedwardisland.ca/en/information/executive-council-office/website-disclaimer-and-copyright-policy. NOTE: This is an unofficial reproduction of Prince Edward Island legislation, made without endorsement or affiliation by the Government of Prince Edward Island. The official versions should be consulted for all purposes of interpreting and applying the law. Reproduced with the permission of the Legislative Counsel Office of Prince Edward Island (granted by email on July 20, 2026)."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-08-15T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/a-18-1-architects_act_0.pdf"
+    title: "Government of Prince Edward Island: official text"
+    author: "org:pe-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-PE/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-08-15T00:00:00Z"
+---
+
+# Architects Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Prince Edward Island. Not endorsed by or affiliated with the Government of Prince Edward Island. Text obtained from the [official source](https://www.princeedwardisland.ca/sites/default/files/legislation/a-18-1-architects_act_0.pdf) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RSPEI 1988, c A-18.1
+
+### Definitions
+
+1. In this Act
+
+(a) “architect” means a qualified member or licensee of the Association;
+
+(b) “Association” means the Architects Association of Prince Edward Island;
+
+(c) “Board” means the Board of Examiners of the Association;
+
+(d) “building” means any structure used or intended for supporting or sheltering any use
+
+or occupancy;
+
+(d.1) “building area” means the greatest horizontal area of a building above grade within
+
+the outside surface of exterior walls or within the outside surface and the centre line
+
+of firewalls;
+
+(e) “bylaw” means a bylaw of the Association;
+
+(f) “certificate of practice” means a certificate of practice issued pursuant to section 15;
+
+(g) “certificate of registration” means a certificate of registration issued pursuant to
+
+section 10;
+
+(g.1) “combined total floor area” means the total combined area of all storeys of a
+
+building within the outside surface of exterior walls or within the outside surface and
+
+the centre line of firewalls;
+
+(h) “construction” means the erection, installation, enlargement, alteration or repair of a
+
+building and includes the installation of a building unit fabricated or moved from
+
+elsewhere;
+
+(h.1) “construction documents” means drawings, specifications and other documents that
+
+describe the size and character of a construction project, including architectural,
+
+structural, mechanical and electrical systems, materials and elements, setting out in
+
+detail the requirements for the construction of the project;
+
+(i) “Council” means the Council of the Association;
+
+(j) “design” means a plan, sketch, drawing, graphic representation or specification
+
+intended to govern the construction of a building or part of a building and related site
+
+development;
+
+(k) “general review”, in relation to the construction of a building, means an examination
+
+of the building to determine whether the construction is in general conformity with
+
+the design governing the construction, and reporting thereon;
+
+(l) “graphic representation” means a representation produced by digital, electrical,
+
+electronic, photographic, hand-drawn or printing methods, and includes a
+
+representation produced on a video display terminal or by another method;
+
+(m) “licence” means a licence issued pursuant to section 11;
+
+(n) “licensee” means a person who holds a licence issued pursuant to section 11;
+
+(n.1) “major occupancy classification” means a major occupancy classification as set out
+
+in the National Building Code of Canada 2015;
+
+(o) “member” means a member of the Association;
+
+(o.1) “partnership”, in the case of the practice of architecture, means an architect engaged
+
+in the practice of architecture under a partnership name;
+
+(p) “practice of architecture” means rendering or offering to render services, in
+
+connection with the design and construction, enlargement or alteration of a building
+
+or group of buildings and the space within the site surrounding the buildings, that
+
+have as their principal purpose human occupancy or habitation, including
+
+(i) pre-design services,
+
+(ii) the preparation of drawings and related documents necessary to elicit
+
+planning, development or permitting approvals from municipalities or related
+
+authorities having jurisdiction,
+
+(iii) programming, planning, providing designs, drawings, specifications and
+
+other technical submissions, and
+
+(iv) the administration of construction contracts and the co-ordination of elements
+
+of technical submissions prepared by others;
+
+(q) “prescribed” means prescribed by bylaw;
+
+(r) “proprietorship” means a business entity owned by a person carrying on business
+
+under a name other than the person’s own and, in the case of the practice of
+
+architecture, means an architect engaged in the practice of architecture under a name
+
+other than the architect’s own;
+
+(r.1) “qualified member” means a registered member or a reciprocal member, within the
+
+meaning of the bylaws;
+
+(s) “Registrar” means the Registrar of the Association;
+
+(t) “registration” means the admission of a person to membership in the Association
+
+and the enrollment of that person’s name in a register maintained pursuant to
+
+section 12.
+
+## PART I - ADMINISTRATION
+
+### Association
+
+2. The Architects Association of Prince Edward Island is hereby continued as a body corporate.
+
+### Objects
+
+3. The objects of the Association are
+
+(a) to promote and advance the knowledge, skill and proficiency of its members in all
+
+matters relating to the practising of the profession of architecture and to this end
+
+(i) to assist in the establishment and maintenance of exhibitions or lectures in
+
+architecture,
+
+(ii) to collaborate with educational institutions in the advancement of knowledge,
+
+skill and research in all aspects of architecture; and
+
+(iii) to facilitate interchange of professional knowledge among its members;
+
+(b) to assure the general public of high standards of technical competence and ethical
+
+conduct by the members in the practice of their profession and to this end
+
+(i) to regulate admission to the practice of architecture, and
+
+(ii) to regulate standards of professional conduct by its members; and
+
+(c) to do other things as may be necessary for or conducive to the advancement of
+
+architecture in the province.
+
+### Powers
+
+4. The Association may
+
+(a) draw, make, accept, endorse, discount, execute and issue promissory notes, bills of
+
+exchange, warrants and other negotiable and transferable instruments;
+
+(b) engage employees;
+
+(c) expend the moneys of the Association in the advancement of its objects;
+
+(d) establish and maintain offices and agencies;
+
+(e) invest and deal with any moneys and funds of the Association;
+
+(f) borrow money for the use of the Association on its credit, issue bonds, debentures,
+
+debenture stock and other securities on the credit of the Association, and pledge or
+
+sell such securities; and
+
+(g) do such things as it considers appropriate to advance the objects of the Association.
+
+### Membership
+
+5. The membership of the Association shall consist of such classes of members as may be
+
+prescribed and the qualifications, rights, privileges and obligations of each class shall be as
+
+prescribed.
+
+### Annual meeting
+
+6. An annual meeting of the members shall be held in accordance with the bylaws at such time
+
+and place as the Council may determine.
+
+### Council
+
+7.(1) The Association shall elect or appoint a Council of the Association who shall control, govern
+
+and manage the business and affairs of the Association and all aspects of the practice of
+
+architecture.
+
+### Council, membership
+
+(2) The Council shall consist of not less than five and not more than fifteen councillors, as
+
+prescribed by the bylaws, who shall have the prescribed qualifications and shall be elected by
+
+the members from the membership of the Association at each annual meeting in the manner
+
+and for the prescribed terms, together with the Registrar who shall be a member having the
+
+qualifications prescribed by bylaw and appointed annually by the other members of the
+
+Council.
+
+### Termination of membership
+
+(3) A member of the Council ceases to be a member of the Council if
+
+(a) the member ceases to hold the qualifications required to be a member of the Council
+
+as prescribed by the bylaws;
+
+(b) the member resigns from the Council; or
+
+(c) the member is removed by a resolution of the members duly passed at a meeting of
+
+the members called for that purpose.
+
+### Officers
+
+(4) The officers of the Association shall consist of a President, a Vice-President and a Treasurer
+
+who shall be elected in the manner and for the prescribed terms by the members of the
+
+Council from the membership of the Council at the first meeting of the Council.
+
+### President
+
+(5) The President shall be the chief executive officer of the Association and shall preside at all
+
+meetings of the members and the Council.
+
+### Vice-President
+
+(6) The Vice-President shall have such duties and responsibilities as may be prescribed and, in
+
+the absence or inability of the President to act, shall assume the duties and responsibilities of
+
+the President.
+
+### Treasurer
+
+(7) The Treasurer shall have such duties and responsibilities as may be prescribed.
+
+### Executive Director
+
+(8) The Council may appoint an Executive Director of the Association who shall hold office
+
+during the pleasure of the Council and who shall have such duties and responsibilities as may
+
+be prescribed.
+
+### Registrar
+
+(9) The Registrar shall have such duties and responsibilities as may be prescribed.
+
+### Acting President
+
+(10) In the event that the office of President becomes vacant, the Vice-President shall assume the
+
+office of President until the first meeting of the Council following the annual meeting.
+
+### Vacancy
+
+(11) In the event of a vacancy in any other office of the Association or in the Council, other than
+
+in the office of the immediate Past-President, the Council may fill such vacancy by the
+
+appointment thereto of any duly qualified person.
+
+### Bylaws
+
+8.(1) The Council may make bylaws not inconsistent with the provisions of this Act respecting
+
+(a) the management of the Association and its property and affairs;
+
+(b) classes of members and licensees of the Association, and the qualifications, rights,
+
+privileges and obligations thereof;
+
+(c) the duties and responsibilities of officers and employees of the Association;
+
+(d) the holding of annual and other meetings of the members and of the Council and the
+
+rules of procedure to govern the conduct of meetings;
+
+(e) the discipline and honour of the profession, and the discipline and control of the
+
+members, licensees and persons authorized to practise architecture;
+
+(f) the fixing, levying and collecting of annual and other fees from members, licensees
+
+and persons authorized to practise architecture;
+
+(g) the standards for qualification, examination and admission or approval of members or
+
+licensees;
+
+(h) the form, class and duration of and the terms and conditions upon which licenses may
+
+be issued;
+
+(i) the form and duration of certificates of practice and the terms and conditions upon
+
+which a certificate of practice may be issued;
+
+(j) the qualifications, terms and manner of election of members of the Council and
+
+officers of the Association, and the acceptance of resignations therefrom;
+
+(k) conditions of engagement between architect and client;
+
+(l) a schedule of suggested fees for architectural services;
+
+(m) standards of practice, professional conduct and advertising, an inspection program,
+
+and a code of ethics;
+
+(n) minimum requirements of professional liability insurance to be maintained by
+
+persons authorized to practise architecture;
+
+(o) the definition of terms used in this Act or in the bylaws;
+
+(p) the registration of members and licensing of non-members, and the educational,
+
+residential and other qualifications of applicants for membership or licensing;
+
+(q) the qualifications of applicants for a certificate of practice;
+
+(r) the establishment of a Board of Examiners and rules regarding examinations to be
+
+taken by applicants for registration or licensing;
+
+(s) the relationship between the Association and any corresponding association outside
+
+Prince Edward Island, including any central certification board established in
+
+Canada; and
+
+(t) such other subjects, matters and things as the Council considers appropriate to
+
+advance or protect the interests of the public, the Association or its members, or to
+
+carry out its obligations.
+
+### Confirmation, etc., by meeting of Association
+
+(2) Every bylaw made by the Council shall remain in effect until the next annual meeting of the
+
+Association or until the next special or general meeting called for the purpose of dealing with
+
+the bylaw, at which annual, special or general meeting the Association shall confirm, amend
+
+or repeal the bylaw.
+
+### Lapse
+
+(3) Any bylaw not confirmed or amended pursuant to subsection (2) shall cease to have effect as
+
+of the date of the adjournment of the next annual meeting.
+
+### Notice
+
+(4) The Council shall cause a copy of any bylaw made by it to be forwarded by ordinary mail
+
+with a notice of the annual meeting following such making or of any special or general
+
+meeting of the Association called for the purpose of considering the bylaw.
+
+### Validity of actions
+
+(5) No act or thing done in reliance upon, or right acquired under or pursuant to, a bylaw that is
+
+subsequently repealed or amended shall be rendered unlawful or prejudicially affected by
+
+such repeal or amendment.
+
+### Inspection of bylaws
+
+(6) The bylaws shall be available for inspection by any person, free of charge, at the office of the
+
+Association during business hours.
+
+### Proof
+
+(7) A certificate purporting to be signed by the Registrar stating that any bylaw of the
+
+Association was on a specified day or during a specified period, a duly made bylaw of the
+
+Association in full force and effect on such day or during such specified period, constitutes
+
+proof in any court of that fact without proof as to the authenticity of such signature.
+
+### Joint Practice Committee with professional engineers
+
+8.1. The Council may, in conjunction with the Council of the Association of Professional
+
+Engineers of the Province of Prince Edward Island, establish a Joint Practice Committee
+
+(a) to examine matters of mutual interest to architects and professional engineers;
+
+(b) to promote a harmonious professional relationship between architects and engineers;
+
+(c) to develop joint rules of practice governing the responsibilities of architects and
+
+engineers; and
+
+(d) to resolve complaints regarding professional activities pursuant to the respective
+
+Acts.
+
+## PART II - REGISTRATION AND LICENSING
+
+### Designation as architect
+
+9.(1) Except as otherwise provided in this Act or in the bylaws, only qualified members or
+
+licensees, or persons holding a certificate of practice shall be entitled within Prince Edward
+
+Island to take or use the title “architect” or any like word, initials or expression.
+
+### References to architect
+
+(2) The words “architect”, “duly qualified architect”, “qualified architect” or any like words or
+
+expressions used alone or in combination with other words or expressions connoting a person
+
+recognized by law as an architect entitled to carry on the practice of architecture or connoting
+
+a qualified member of the Association, when used in any provision of an Act of the
+
+Legislature or any regulation, rule, order or bylaw made under an Act of the Legislature
+
+enacted or made before or after the enactment of this Act or when used in any public
+
+document, shall be read as including a qualified member or licensee of the Association or a
+
+person authorized to practise architecture under the provisions of this Act.
+
+### Registration
+
+10.(1) Upon the approval of the Council and upon payment of the prescribed fees, the Registrar
+
+shall issue a certificate of registration as a qualified member to any person entitled thereto in
+
+accordance with this Act or the bylaws.
+
+### Form of certificate
+
+(2) A certificate of registration shall be issued in the prescribed form and in the prescribed
+
+manner by bylaw and shall be signed by the Registrar or any other officer authorized by
+
+bylaw and bear the seal of the Association.
+
+### Refusal
+
+(3) The Council may refuse to issue a certificate of registration unless the applicant has
+
+completed the prescribed application forms, fulfilled the requirements of the bylaws
+
+respecting applications for membership and paid the prescribed fee.
+
+### Licensing
+
+11.(1) The Council may, on application, issue to any person who is a member in good standing of an
+
+association of architects recognized by the Council, a licence to practise architecture in Prince
+
+Edward Island in accordance with this Act and the bylaws.
+
+### Form and conditions of license
+
+(2) A licence to practise architecture in Prince Edward Island shall be issued in such form, and
+
+for such period and upon such terms and conditions as this Act or the bylaws may authorize
+
+or permit, and shall be signed by the Registrar and bear the seal of the Association.
+
+### Refusal
+
+(3) The Council shall refuse to issue a licence unless the applicant has completed the prescribed
+
+application forms, fulfilled the requirements of the bylaws respecting applications for a
+
+licence and paid the prescribed fee.
+
+### Registers
+
+12.(1) The Registrar shall maintain a register of members, a register of licensees, and a register of
+
+approved proprietorships, partnerships and corporations holding certificates of practice.
+
+### Evidence
+
+(2) A certificate purporting to be signed by the Registrar stating that any person named therein
+
+was or was not, on a specified day or during a specified period, a member or licensee of the
+
+Association constitutes proof in any court of that fact without proof of the authenticity of
+
+such signature.
+
+### Idem
+
+(3) A certificate purporting to be signed by the Registrar stating that an architect, proprietorship,
+
+partnership or corporation named therein was or was not, on a specified day or during a
+
+specified period, the holder of a valid certificate of practice issued pursuant to this Act or the
+
+bylaws, constitutes proof in any court of that fact without proof of the authenticity of such
+
+signature.
+
+### Practice
+
+13.(1) A qualified member or licensee may practise architecture as an individual in the member’s or
+
+licensee’s own name as long as the member or licensee complies with this Act and the bylaws
+
+and holds a valid certificate of practice.
+
+### Government employment
+
+(2) A qualified member who is an employee of the Government of Prince Edward Island or
+
+Canada, including the Armed Forces, or an employee of a Crown Corporation of Prince
+
+Edward Island or Canada, or an employee of a Prince Edward Island public utility, and who
+
+by such service is required to practise as an architect in Prince Edward Island, may so practise
+
+with respect to work directly related to the member’s employment or service without holding
+
+a valid certificate of practice.
+
+### Non-resident, government employment
+
+(3) Any non-resident of Prince Edward Island who is an employee of the Government of Canada,
+
+including the Armed Forces, and who by such service is required to practise as an architect in
+
+Prince Edward Island, may so practise with respect to work directly related to the employee’s
+
+employment or service without holding a license or a certificate of practice and without
+
+payment of any fee if the employee is a member of an association of architects of another
+
+province in Canada having an Act of incorporation similar to that of the Association and is
+
+authorized to practise architecture in such province.
+
+### Corporate, etc., practice
+
+14.(1) A proprietorship, partnership or corporation shall not be granted membership in or be a
+
+licensee of the Association.
+
+### Proprietorship
+
+(2) Qualified members or licensees may practise architecture in a name other than their own and
+
+conduct their business as a proprietorship if
+
+(a) one of the principal and customary functions of the proprietorship is the practice of
+
+architecture;
+
+(b) the practice of architecture is carried out under the responsibility and supervision of
+
+the principal of the proprietorship who is an architect; and
+
+(c) the proprietorship holds a valid certificate of practice.
+
+### Partnership
+
+(3) Qualified members or licensees may practise architecture in a name other than their own and
+
+conduct their business as a partnership with other members, licensees or other individuals, or
+
+with corporations meeting the requirements of clauses (4)(a) and (c) if
+
+(a) at least one of the individual partners is an architect having an interest in the
+
+partnership of not less than that of any other individual or corporate partner;
+
+(b) one of the principal and customary functions of the partnership is the practice of
+
+architecture;
+
+(c) the practice of architecture is carried out under the responsibility and supervision of
+
+an architect who is a partner, or an officer or director of a corporate partner; and
+
+(d) the partnership holds a valid certificate of practice.
+
+### Corporation
+
+(4) A corporation may practise architecture in its own name or in partnership with a member,
+
+licensee or other corporation if
+
+(a) one of the principal and customary functions of the corporation or of each corporate
+
+partner is the practice of architecture;
+
+(b) the practice of architecture is carried out under the responsibility and supervision of a
+
+director, officer or employee of the corporation or partnership who is an architect;
+
+(c) at least one of the directors of the corporation or each corporate partner is an architect
+
+and is the beneficial and registered owner of no fewer of each class of voting shares
+
+in the corporation than the number of such shares held by any other shareholder or
+
+director; and
+
+(d) the corporation holds a valid certificate of practice.
+
+### Non-resident corporations, etc.
+
+(5) Repealed by 2024,c.59,s.9(2).
+
+### Practice of architecture incidental to comprehensive services
+
+(6) Any qualified member, licensee, proprietorship, partnership or corporation holding a valid
+
+certificate of practice may practise architecture in Prince Edward Island as part of a more
+
+comprehensive service which may include construction, engineering, landscaping, surveying,
+
+soil testing and analysis, construction inspection, management, finance and computer
+
+programming of building construction and operation if the practice of architecture within
+
+such comprehensive service is performed under the responsibility and supervision of an
+
+architect.
+
+### Notice to Association
+
+(7) Any qualified member, licensee, proprietorship, partnership or corporation entitled to practise
+
+architecture in Prince Edward Island who practises architecture as part of a more
+
+comprehensive service referred to in subsection (6) shall immediately advise the Association
+
+in writing of the name under which the architectural services are being offered, the terms of
+
+the arrangement under which the services are being offered and the individuals,
+
+proprietorships, partnerships, persons, firms or corporations with whom the more
+
+comprehensive service is being offered.
+
+### Certificate of practice
+
+15.(1) The Council shall approve an application for a certificate of practice to practise architecture
+
+in Prince Edward Island if it is satisfied that the member, licensee, proprietorship, partnership
+
+or corporation applying for a certificate has fulfilled all of the requirements of this Act and
+
+the bylaws.
+
+### Form of certificate
+
+(2) The Registrar, upon the approval of Council, shall issue a certificate of practice to practise
+
+architecture in Prince Edward Island in the prescribed form and signed in the prescribed
+
+manner by bylaw.
+
+### Validity of certificate
+
+(3) A certificate of practice is no longer valid and becomes void when the member, licensee,
+
+proprietorship, partnership or corporation to which it was issued undergoes any changes
+
+which would result in the member, licensee, proprietorship, partnership or corporation being
+
+ineligible to receive a certificate of practice under the provisions of this Act or the bylaws.
+
+### Stamps
+
+16.(1) The Council shall issue to every qualified member or licensee who holds a certificate of
+
+practice a stamp of a prescribed design.
+
+### Design of stamp
+
+(2) The Council shall issue to every proprietorship, partnership or corporation which holds a
+
+certificate of practice a stamp of a prescribed design.
+
+### Use of stamp
+
+(3) Every qualified member or licensee practising architecture in Prince Edward Island in the
+
+member’s or licensee’s own name shall sign and affix the member’s or licensee’s stamp to
+
+construction documents, reports, contracts and other documents pertaining to the practice of
+
+architecture, as set out in the bylaws, that have been prepared by or under the supervision of
+
+the member or licensee.
+
+### Idem
+
+(4) Every proprietorship, partnership or corporation practising architecture in Prince Edward
+
+Island shall affix its stamp to construction documents, reports, contracts and other documents
+
+pertaining to the practice of architecture, as set out in the bylaws, that have been prepared by
+
+the proprietorship, partnership or corporation, and have the construction documents, reports,
+
+contracts and other documents signed by a qualified member or licensee of the Association
+
+designated on the certificate of practice.
+
+### Failure to affix stamp
+
+(5) Every person authorized to practise architecture under this Act who fails to sign and affix the
+
+person’s stamp to a construction document, as required by this section, is guilty of
+
+professional misconduct.
+
+## PART III - DISCIPLINE
+
+### Complaints
+
+17.(1) In this Part
+
+(a) “complaint” means any complaint in writing and signed by the complainant
+
+regarding the conduct, actions, competence, character, fitness, health or ability of an
+
+architect;
+
+(b) “architect” includes qualified members, licensees, former members and former
+
+licensees.
+
+### Functions of Registrar
+
+(2) All complaints against an architect shall be in writing and delivered to the Registrar, who
+
+shall forthwith
+
+(a) notify the architect of the complaint in accordance with section 35;
+
+(b) include with the notification a copy of the complaint; and
+
+(c) invite the architect to respond in writing to the Registrar regarding the complaint.
+
+### Investigation and report
+
+(3) Within sixty days from the date on which the Registrar received the complaint, the Registrar
+
+shall, in an informal manner, consider and investigate the complaint and, upon the completion
+
+of such investigation as the Registrar considers necessary, the Registrar may make
+
+recommendations to the complainant and the architect in question as to how the complaint
+
+may be resolved and, in any event, shall report to the Council respecting the Registrar’s
+
+investigation and send a copy of the report to the architect, against whom the complaint was
+
+made.
+
+### Powers of Council
+
+(4) The Council may after considering the report of the Registrar on the Registrar’s investigation
+
+of the complaint
+
+(a) conduct an investigation pursuant to section 18;
+
+(b) appoint a committee of inquiry consisting of a chairman, two members of the
+
+Association who are not members of the Council, and a lay person, to deal with the
+
+complaint by means of a disciplinary hearing pursuant to the procedure set out in this
+
+Act and the bylaws; or
+
+(c) take no further action with respect to the complaint.
+
+### Institution by Council
+
+(5) A complaint under this section may be instituted by the Council.
+
+### Examination, health
+
+18.(1) If the Council in its absolute discretion at any time after the receipt or institution of a
+
+complaint considers it necessary or advisable, it may without a hearing, require the architect
+
+in respect of whom a complaint is made to submit to a physical or mental health examination
+
+by such qualified medical practitioner as the Council may designate, and if the architect fails
+
+to submit to any such examination, the Council may, without further notice, revoke or
+
+suspend the architect’s certificate of practice, membership or licence until the architect does
+
+so.
+
+### Examination, skill and competence
+
+(2) If the Council at any time after the receipt or institution of a complaint considers it necessary
+
+or advisable, it may without a hearing, require the architect in respect of whom a complaint is
+
+made to undergo such examinations as the Council may designate in order to determine
+
+whether the architect has adequate skill and knowledge to practise architecture, and if the
+
+architect fails to undergo any such examination, the Council may, without further notice,
+
+revoke or suspend the architect’s certificate of practice, membership or licence until the
+
+architect does so.
+
+### Examination, records
+
+(3) If the Council at any time after the receipt or institution of a complaint considers it necessary
+
+or advisable, it may without a hearing, require any architect to produce records and
+
+documents in the architect’s possession or custody or control of any corporation of which the
+
+architect is a director, officer or shareholder, or of any partnership of which the architect is a
+
+member, and if the architect fails to produce such records and documents the Council may
+
+without further notice revoke the architect’s certificate of practice and, if applicable, revoke
+
+or suspend the architect’s membership or licence until the architect does so, unless the
+
+architect is by law prohibited from producing such records and documents.
+
+### Examination, audit
+
+(4) If the Council at any time after the receipt or institution of a complaint considers it necessary
+
+or advisable, it may, without a hearing, require any qualified member or licensee, or any
+
+proprietorship, partnership or corporation to which a certificate of practice has been issued, to
+
+submit to an audit or other examination of the qualified member’s, licensee’s,
+
+proprietorship’s, partnership’s or corporation’s business, books and records by a person
+
+designated by the Council, and if the qualified member, licensee, proprietorship, partnership
+
+or corporation fails to submit to the audit or examination, the Council may, without further
+
+notice, revoke or suspend the certificate of practice, membership or licence of the qualified
+
+member, licensee, proprietorship, partnership or corporation until that qualified member,
+
+licensee, proprietorship, partnership or corporation submits to the audit or examination.
+
+### Committee of inquiry
+
+19. Where a complaint is referred to it by the Council, the committee of inquiry shall
+
+(a) consider and investigate written complaints regarding the actions or conduct of any
+
+architect;
+
+(b) consider and investigate written complaints that an architect may be an incapacitated
+
+or unfit architect; and
+
+(c) perform such other duties as may be assigned to it by council.
+
+### Procedure
+
+20.(1) A committee of inquiry may establish the rules under which the inquiry is to be held, and
+
+may do all things necessary to provide a full and proper inquiry.
+
+### Notice of hearing
+
+(2) Where a committee of inquiry is established for the purpose of a disciplinary hearing, the
+
+architect concerned and any person whose complaint has given rise to the inquiry shall be
+
+entitled to at least 14 days notice of the hearing.
+
+### Representation at inquiry
+
+(3) The following have the right to be represented by counsel at an inquiry by a committee of
+
+inquiry:
+
+(a) the committee of inquiry;
+
+(a.1) the Council, if the Council instituted the complaint;
+
+(b) the architect against whom the complaint was made; and
+
+(c) the person whose complaint has given rise to the inquiry.
+
+### Testimony
+
+(4) The testimony of witnesses shall be taken under oath or affirmation given by the chairman of
+
+the committee, and there shall be a full right to examine, cross-examine and re-examine
+
+witnesses, in accordance with such rules of procedure as may be established by the
+
+committee.
+
+### Subpoenas
+
+(5) Upon the application of
+
+(a) any party to the inquiry;
+
+(b) the chairman of the committee; or
+
+(c) the counsel for the committee,
+
+the Registrar may issue subpoenas for the purposes of procuring the attendance and evidence
+
+of witnesses before the committee.
+
+### Enforcement of subpoenas
+
+(6) A subpoena which is issued pursuant to this section shall be equally enforceable and shall
+
+have equal effect as if issued pursuant to the rules of court, and the rules of court with respect
+
+to the attendance of witnesses shall apply to a subpoena issued pursuant to this section.
+
+### Rules of evidence
+
+(7) The rules of evidence in an inquiry shall be the same as in civil proceedings in the Supreme
+
+Court, but the committee may adopt alternative procedures which in its opinion are
+
+appropriate to the circumstances of the inquiry, having regard to the principles of fair hearing
+
+and natural justice.
+
+### Transcripts
+
+(8) The committee shall have the proceedings and the evidence recorded by a sound recording
+
+machine, and transcribed and certified by a stenographer.
+
+### Non-attendance
+
+(9) It is the duty of the architect against whom the complaint has been made to appear at the
+
+inquiry, but in the event of non-attendance by that architect, the committee, upon proof by an
+
+affidavit of the service of notice required under subsection (2), may proceed with the inquiry,
+
+and without further notice to the architect, make a report of its findings and take such other
+
+action as it is authorized to take under this Act.
+
+### Hearing in private
+
+(10) Hearings under this Part shall be held in private, but if the architect being investigated
+
+requests otherwise by a notice in writing delivered to the Registrar before the day fixed for
+
+the hearing, the committee of inquiry may conduct the hearing in public or otherwise as it
+
+sees fit.
+
+### Adjournment
+
+(11) The committee of inquiry may adjourn any hearing to such time and place, and upon such
+
+terms, as it considers appropriate.
+
+### Disability, etc. of member of committee
+
+(12) Notwithstanding the death, disability or inability for any reason of a member of a committee
+
+of inquiry to act or continue to act with respect to a hearing in progress, such hearing may
+
+continue with the remaining two members whose decision shall constitute and be for all
+
+purposes a decision of the committee of inquiry, or if the taking of evidence has not
+
+commenced at the time when such member of the committee dies or becomes disabled or
+
+unable to continue to act, the Council may appoint another member to take the place of that
+
+member or reconstitute the committee of inquiry.
+
+### Definitions
+
+21.(1) In this section
+
+(a) “unfit architect” means an architect who has demonstrated a lack of knowledge,
+
+skill or judgment of a nature and extent making it desirable in the interests of the
+
+public or the architect that the architect no longer be permitted to practise
+
+architecture;
+
+(b) “incapacitated architect” means an architect suffering from a physical or mental
+
+condition, emotional disturbance or excessive use of alcohol or drugs, of a nature and
+
+extent making it desirable in the interests of the public or the architect that the
+
+architect no longer be permitted to practise architecture.
+
+### Professional misconduct
+
+(2) For the purposes of this Act, an architect may be found guilty of professional misconduct if
+
+(a) the architect has been found guilty by a court of competent jurisdiction of an offence
+
+which in the opinion of a committee of inquiry relates to the architect’s suitability to
+
+practise architecture;
+
+(b) the architect has been found guilty of professional negligence by a court of competent
+
+jurisdiction;
+
+(c) the architect has committed a breach of any provisions of this Act or the bylaws; or
+
+(d) the architect’s conduct has, in the opinion of a committee of inquiry, brought the
+
+profession of architecture into disrepute.
+
+### Penalties, professional misconduct
+
+(3) Where a committee of inquiry finds that an architect is guilty of professional misconduct, the
+
+Council may order one or more of the following actions:
+
+(a) the membership, licence or certificate of practice of the architect be revoked, and that
+
+the architect’s name be struck from the registers in which the architect’s name is
+
+entered;
+
+(b) the membership, licence or certificate of practice of the architect be suspended
+
+(i) for a fixed period, or
+
+(ii) for an indefinite period until the occurrence of some specified future event,
+
+or upon the carrying out of some condition fixed by the Council;
+
+(c) restrictions be imposed on the membership, licence or certificate of practice of the
+
+architect for such period and on such conditions as the committee designates;
+
+(d) the architect be reprimanded and, if considered warranted, the fact of reprimand be
+
+entered in the registers in which the architect’s name is entered;
+
+(e) such fine as the committee considers appropriate to a maximum of $10,000 be paid
+
+by the architect to the Association;
+
+(f) the imposition of a penalty be suspended for such period and upon such terms as the
+
+committee considers appropriate.
+
+### Unfitness and incapacity, orders
+
+(4) Where a committee of inquiry finds that an architect is an incapacitated or an unfit architect,
+
+the Council may order one or more of the following actions:
+
+(a) the membership, licence or certificate of practice of the architect be revoked and that
+
+the architect’s name be stricken from the registers in which it is entered;
+
+(b) the membership, licence or certificate of practice of the architect be suspended
+
+(i) for a fixed period, or
+
+(ii) for an indefinite period until the occurrence of some specified future event,
+
+or upon the carrying out of some condition fixed by the Council;
+
+(c) restrictions be imposed on the membership, licence or certificate of practice of the
+
+architect for such period and subject to such conditions as the committee considers
+
+necessary;
+
+(d) that the architect undergo such treatment or re-education as the committee considers
+
+necessary.
+
+### Powers of Council
+
+(5) Upon the committee reporting its findings and recommendations to the Council,
+
+(a) the Registrar shall cause to be served upon the architect and the person at whose
+
+request the committee was established, a copy of the report and recommendations of
+
+the committee; and
+
+(b) the Council may adopt in whole or in part the recommendations of the committee and
+
+may make such order indicating the disposition of the matter as the Council considers
+
+just.
+
+### Service of order
+
+(6) The Registrar shall cause to be served on the architect and the person whose complaint gave
+
+rise to the inquiry a copy of the order of the Council.
+
+### Stay of order pending appeal
+
+(7) The order of the Council has effect immediately upon the service thereof on the member, or
+
+from such time as the order may direct, but the Court of Appeal or any judge thereof may stay
+
+the order upon good cause pending an appeal from the order, or such further hearing as may
+
+be ordered by the Court of Appeal.
+
+### Publication of decision
+
+(8) The Council may in its discretion publish or advertise the decision of a committee of inquiry
+
+or of the order of Council relating to any complaint, in such manner or medium Council
+
+considers appropriate.
+
+### Costs
+
+22.(1) The Council, and on appeal, the Court of Appeal, may order that the costs of the Association
+
+for any investigation, proceeding, hearing or appeal pursuant to this Act be paid, in whole or
+
+in part,
+
+(a) by the architect against whom the complaint was made, unless the complaint is
+
+dismissed without any decision or order adverse to the architect; or
+
+(b) by the complainant at whose request the complaint was made or an investigation was
+
+commenced where the Council or Court of Appeal is of the opinion that the
+
+complaint was frivolous, vexatious or malicious,
+
+and may make it a condition of the architect’s membership or licence, or issuance of a
+
+certificate of practice to the architect, that any such costs awarded against the architect be
+
+paid.
+
+### Assessment of costs
+
+(2) The costs including disbursements payable under subsection (1) may be assessed by the
+
+Prothonotary on a solicitor and client basis on filing with the Prothonotary the order as to
+
+costs and a proposed bill of costs and judgment may be entered in the Supreme Court for such
+
+costs.
+
+### Definition of costs
+
+(3) For the purposes of this Act “costs” when awarded to the Association shall include
+
+(a) all costs, expenses and disbursements and all legal and other expenses of any kind
+
+incurred by the Association, the Council, a committee of inquiry, or the Registrar, in
+
+relation to an investigation, proceeding, hearing or appeal; and
+
+(b) honoraria and expenses paid to the Registrar, members of the Council or committee
+
+of inquiry, in relation to an investigation, proceeding, hearing or appeal.
+
+### Amendment of registers
+
+23.(1) Where an architect has had the architect’s membership, licence or certificate of practice
+
+suspended, cancelled or revoked under this Part, he shall return to the Association forthwith
+
+any certificates or licenses issued by the Association, and shall return to the Association the
+
+stamp issued pursuant to section 16, and the Registrar shall make a note of such suspension,
+
+cancellation or revocation in the proper register.
+
+### Suspension for failure to pay fine
+
+(2) Where an architect has been ordered to pay a fine, costs or disbursements pursuant to this
+
+Part, and where such fine, costs or disbursements have not been paid in the time provided
+
+therefor, the Council may suspend the membership or license or certificate of practice of the
+
+architect, pending payment by the architect of all monies owing to the Association.
+
+### Duration of suspension or cancellation
+
+(3) Where an architect has had the architect’s membership, licence or certificate of practice
+
+cancelled or revoked under this Part, the architect may not apply for membership, licensing or
+
+a certificate of practice, as the case may be, until at least two years from the time of such
+
+cancellation or revocation or at least one year from the date of the Council’s refusal of the
+
+architect’s most recent application for membership, licensing or a certificate of practice.
+
+## PART IV - APPEALS
+
+### Appeal
+
+24.(1) Any architect may appeal from an order of the Council made following a committee of
+
+inquiry, or from a decision of a committee of inquiry
+
+(a) on a question of law alone; or
+
+(b) on the extent or nature of any penalty,
+
+to the Court of Appeal by giving notice of appeal within thirty days of service of the order of
+
+the Council or within such further time as may be allowed by the Court of Appeal or a judge
+
+thereof.
+
+### Notice
+
+(2) The notice of appeal shall be served personally upon the Registrar and upon any person at
+
+whose request the committee of inquiry was established.
+
+### Record
+
+(3) The record of appeal
+
+(a) from the findings of the committee of inquiry shall consist of a certified copy of the
+
+transcript of the proceedings and the evidence before the committee; or
+
+(b) from an order of the Council shall consist of a copy of the order of the Council
+
+certified by the Registrar.
+
+### Costs
+
+(4) The Court of Appeal may make such order as to costs as may be just.
+
+## PART V - OFFENCES
+
+### Unauthorized practice of architecture
+
+25.(1) Except as provided in this Act and the bylaws, no person other than a qualified member or
+
+licensee holding a valid certificate of practice and no corporation other than a corporation
+
+holding a valid certificate of practice, shall
+
+(a) engage in or offer to engage in the practice of architecture;
+
+(b) purport verbally or otherwise in any way to be entitled to practise architecture;
+
+(c) assume or use any title, description, stamp or seal implying, or designated to lead the
+
+public to believe, that the person is an architect or is entitled to practise architecture,
+
+or that the corporation is entitled to practise architecture; or
+
+(d) design any building or part of a building that falls under the following major
+
+occupancy classifications:
+
+(i) Group A: Assembly Occupancy,
+
+(ii) Group B: Care, Treatment or Detention Occupancy,
+
+(iii) Group F-1: High-hazard Industrial Occupancy.
+
+### Recovery of fees
+
+(2) No person other than a qualified member or licensee and no proprietorship, partnership or
+
+corporation is entitled to receive or to bring an action in any court of competent jurisdiction
+
+for the recovery of, any fee, reward or remuneration for the provision of professional
+
+architectural services unless the qualified member, licensee, proprietorship, partnership or
+
+corporation was entitled to engage in the practice of architecture at the time the services were
+
+provided.
+
+### Application
+
+(3) Subsections (1) and (2) do not apply to
+
+(a) the preparation or provision of a design for the construction of a building or part of a
+
+building as specified in the following major occupancy classifications or types of
+
+projects:
+
+(i) in Group C: Residential Occupancy,
+
+(A) a single family home of not more than 3 storeys,
+
+(B) a side-by-side duplex of not more than 3 storeys, or
+
+(C) a building that contains row houses of not more than 3 storeys, where
+
+the total building area is not more than 300 m2 and no dwelling unit
+
+is located above another dwelling unit,
+
+(ii) in Group D: Business and Personal Services Occupancy, a building that is
+
+not more than 3 storeys and not more than 300 m2 in combined total floor
+
+area,
+
+(iii) in Group E: Mercantile Occupancy, a building that is not more than 3 storeys
+
+and not more than 300 m2 in combined total floor area,
+
+(iv) in Group F-2: Medium-hazard Industrial Occupancy, a building that is not
+
+more than 1 storey and not more than 300 m2 in building area,
+
+(v) in Group F-3: Low-hazard Industrial Occupancy, a building that is not more
+
+than 1 storey and not more than 300 m2 in building area,
+
+(vi) a farm building, as defined in the National Farm Building Code of Canada
+
+1995, with an expected human occupant load of not more than one person
+
+per 40 m2 of floor area under normal use,
+
+(vii) temporary public structures such as stages, tents or carnival rides,
+
+(viii) interior alterations or renovation of
+
+(A) residential occupancies specified in paragraphs (i)(A), (B) and (C)
+
+where there is no expected or intended adverse effect on structural
+
+integrity or building safety,
+
+(B) buildings specified in subclauses (ii), (iii), (iv), (v) and (vi) above
+
+where there is no expected or intended adverse effect on any of the
+
+following:
+
+(I) fire safety or suppression systems or fire separations,
+
+(II) means of egress,
+
+(III) barrier-free accessibility,
+
+(IV) structural integrity, or
+
+(V) increase in the usable floor space;
+
+(b) the preparation or provision of a design for the construction of a building used
+
+directly in the extraction, processing or storage of ore from a mine;
+
+(c) the preparation or provision, under the supervision and direction of a member or
+
+licensee of the Association, of a design for the construction of a building;
+
+(d) repealed by 2021,c.3,s.2(2)(b);
+
+(e) repealed by 2021,c.3,s.2(2)(b);
+
+(f) repealed by 2021,c.3,s.2(2)(b); or
+
+(g) a professional engineer or partnership, association of persons or corporation entitled
+
+under the Engineering Profession Act R.S.P.E.I. 1988, Cap. E-8.1, to practise or
+
+undertake the practice of engineering or a person employed by or acting under the
+
+supervision of such professional engineer, partnership, association or corporation
+
+while engaged in the practice of engineering within the meaning of that Act.
+
+### Offences re membership
+
+26. Every person who
+
+(a) wilfully procures or attempts to procure membership or licensing or a certificate of
+
+practice under this Act for that person or for another person, proprietorship,
+
+partnership or corporation by making, producing or causing to be made or produced,
+
+any fraudulent representation or declaration, either verbal or written; or
+
+(b) knowingly provides any false information in any application, declaration, statement
+
+or return furnished by the person under this Act,
+
+commits an offence.
+
+### Offence
+
+27.(1) Every person who uses or relies upon a design that was prepared or provided by a person
+
+acting in contravention of section 25 commits an offence.
+
+### Unlawful use of stamp
+
+(2) Every person who uses or relies upon a design that is required by section 25 to be prepared by
+
+an architect, but has not been signed and stamped as required by section 16, commits an
+
+offence.
+
+### Penalty
+
+28.(1) A person or corporation who violates any provisions of this Act or its bylaws, of the
+
+contravention of which constitutes an offence, is liable on summary conviction to a fine not
+
+exceeding $50,000, or to imprisonment for a term not exceeding six months, or both.
+
+### Limitation period
+
+29. No prosecution for an offence under this Act or the bylaws shall be commenced after the later
+
+of two years from
+
+(a) the date when the offence is alleged to have been committed; and
+
+(b) the date on which the offence became known to the Council.
+
+### Injunction
+
+30. Where a member, licensee or any other person or corporation does or attempts to do anything
+
+contrary to the provisions of this Act or any bylaw passed under the authority of this Act, the
+
+doing of such thing may be restrained by an injunction at the instance of the Council.
+
+## PART VI - GENERAL
+
+### Liability
+
+31. The members of the Council or a committee thereof, the Executive Secretary and any other
+
+person acting on their instructions or under the authority of this Act, are not personally liable
+
+for any loss or damage suffered by any person by reason of any act done by any of them in
+
+good faith in the exercise or purported exercise of the powers conferred under this Act.
+
+### Annual fees
+
+32.(1) The annual fees for membership, licensing or issuance of certificates of practice are due and
+
+payable on January 2 of each year.
+
+### Failure to pay
+
+(2) Failure to pay the appropriate annual fee within the time prescribed shall be cause for the
+
+Registrar to suspend a person’s membership, license or certificate of practice or a
+
+corporation’s certificate of practice.
+
+### Resignation
+
+33.(1) Any person may resign from membership in the Association upon giving notice in writing to
+
+the Registrar, and the name of the member shall be erased from the register effective from the
+
+date of acceptance of the resignation by the Council.
+
+### Idem
+
+(2) Notwithstanding subsection (1), the Council may in its discretion refuse to accept the
+
+resignation of any person.
+
+### Limitation of actions
+
+34.(1) No action shall be brought against an architect or former architect or corporation for
+
+negligence or malpractice by reason of professional services requested, given or rendered,
+
+except within
+
+(a) two years from the day when, in the matter complained of, the alleged negligence or
+
+malpractice occurred;
+
+(b) two years after the person commencing the action knew or ought to have known the
+
+facts upon which the person alleges the cause of action; or
+
+(c) where the person entitled to bring an action is, at the time the cause of action arises,
+
+an infant or mentally incompetent, two years from the date when the person becomes
+
+of full age or of full competence, as the case may be,
+
+whichever period is longest.
+
+### Ultimate limitation period
+
+(2) Notwithstanding subsection (1), where the period calculated pursuant to clause (1)(b) is
+
+longer than the period set out in clause (1)(a), an action described in subsection (1) shall not
+
+be brought after the earlier of the last day of the period calculated pursuant to clause (1)(b)
+
+and 15 years from the day on which the alleged negligence or malpractice occurred.
+
+### Manner of service
+
+35.(1) Subject to subsection 24(2), any notice, order or other document required to be served on a
+
+person under this Act or the bylaws is deemed to be sufficiently served
+
+(a) when a copy is personally served on the person to whom it is directed;
+
+(b) when a copy is sent by electronic means to the person to whom it is directed and an
+
+acknowledgement of receipt is received;
+
+(c) five days after a copy is sent by registered mail addressed to the person to whom it is
+
+directed at the last known address for that person; or
+
+(d) in the case of a member, five days after a copy is sent by registered mail addressed to
+
+the member at the address shown in the records of the Registrar.
+
+### Service on corporation
+
+(2) Where the person to be served is a corporation, service on a director, officer or recognized
+
+agent of the corporation in accordance with subsection (1) is deemed to be service on the
+
+corporation for the purposes of this Act.
+
+### Service on Council
+
+(3) Service of any document on the Council may be made by service on the Registrar.
+
+### Substituted service
+
+(4) Where it is impractical for any reason to serve an order in a manner referred to in subsection
+
+(1), an application may be made, without notice, to the Supreme Court for an order for
+
+substituted service and the court may make an order providing for the steps to be taken to
+
+bring the matter to the attention of the person to be served.
+
+## PART VII - TRANSITIONAL
+
+### Existing membership, etc.
+
+36.(1) Every person who at the coming into force of this Act is a member or licensee of the
+
+Association or a member of the Council of the Association pursuant to the Architects Act
+
+R.S.P.E.I. 1988, Cap. A-18, and the bylaws made thereunder shall be deemed to be a member
+
+or licensee of the Association or member of the Council, as the case may be, under this Act.
+
+### Existing certificates
+
+(2) Every person who at the coming into force of this Act holds a valid certificate of approval
+
+issued pursuant to the Architects Act R.S.P.E.I. 1988, Cap. A-18, and the bylaws made
+
+thereunder shall be deemed to hold a valid certificate of practice under this Act.
+
+### Repeal
+
+37. Act repealed.

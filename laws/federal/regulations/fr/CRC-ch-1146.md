@@ -1,0 +1,43 @@
+---
+type: "Regulation"
+title: "Règlement sur le stockage de l’ammoniac anhydre"
+description: "Règlement fédéral C.R.C., ch. 1146, pris en vertu de : Loi Sur La Sécurité Ferroviaire."
+resource: "https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1146/"
+tags: ["federal", "regulation", "fr"]
+jurisdiction: "federal"
+language: "fr"
+number: "C.R.C., ch. 1146"
+source_id: "C.R.C.,_ch._1146"
+current_to: "2026-01-19"
+last_amended: "2025-12-31"
+in_force: true
+status: "stable"
+generated: { by: process:canada-laws-federal-converter, at: 2026-01-19T00:00:00Z }
+sources:
+  - id: "justice-xml"
+    resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/fra/reglements/C.R.C.,_ch._1146.xml"
+    title: "Justice Canada consolidated XML (laws-lois-xml)"
+    author: "org:justice-canada"
+    last_modified: "2026-01-19T00:00:00Z"
+  - id: "justice-laws"
+    resource: "https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1146/"
+    title: "Justice Laws Website"
+    author: "org:justice-canada"
+    last_modified: "2025-12-31T00:00:00Z"
+---
+
+# Règlement sur le stockage de l’ammoniac anhydre
+
+*Règlement concernant l’étude, l’implantation, la construction, l’exploitation et l’entretien des installations fixes de stockage de l’ammoniac anhydre*
+
+C.R.C., ch. 1146 · Codification: 2026-01-19 · Dernière modification: 2025-12-31
+
+Autorité habilitante: [LOI SUR LA SÉCURITÉ FERROVIAIRE](../../acts/fr/R-4.2.md)
+
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1146/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
+
+\[Abrogé, DORS/2025-277, art. 1\]
+
+## Modifications récentes
+
+- DORS/2025-277 2025-12-31

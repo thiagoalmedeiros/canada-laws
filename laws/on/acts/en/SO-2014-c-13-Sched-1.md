@@ -1,0 +1,491 @@
+---
+type: "Act"
+title: "Broader Public Sector Executive Compensation Act, 2014"
+description: "Ontario Act, SO 2014, c 13, Sched 1."
+resource: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14b13"
+tags: ["on", "act", "en"]
+jurisdiction: "on"
+language: "en"
+citation: "SO 2014, c 13, Sched 1"
+document_date: "2020-09-18"
+translation: "../fr/SO-2014-c-13-Sched-1.md"
+upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario legislation, made without endorsement or affiliation by the Government of Ontario."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14b13"
+    title: "King's Printer for Ontario: official text"
+    author: "org:on-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-ON/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# Broader Public Sector Executive Compensation Act, 2014
+
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for Ontario. Not endorsed by or affiliated with the Government of Ontario. Text obtained from the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14b13) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+S.O. 2014, c. 13, Sched. 1
+
+### Interpretation
+
+### Definitions
+
+1 (1) In this Act,
+
+“cash compensation” means compensation that is the sum of salary and non-discretionary and discretionary payments, including, but not limited to, performance pay, incentive pay, bonuses and allowances; (“rémunération en espèces”)
+
+“compensation” means anything paid or provided, directly or indirectly, to or for the benefit of a person who performs duties and functions that entitle him or her to be paid, and includes salary, benefits, perquisites and all forms of non-discretionary and discretionary payments; (“rémunération”)
+
+“compensation framework” means a compensation framework established by the regulations under section 6; (“cadre de rémunération”)
+
+“compensation plan” means the provisions, however established, for the determination and administration of a person’s compensation; (“régime de rémunération”)
+
+“designated employer” means an employer to which this Act applies under section 3; (“employeur désigné”)
+
+“designated executive” means an employee or office holder referred to in subsection 4 (1) or (2); (“cadre désigné”)
+
+“directive” means a directive made under this Act; (“directive”)
+
+“Minister” means the minister to whom the administration of this Act is assigned under the Executive Council Act, except in,
+
+(a) Repealed: 2019, c. 7, Sched. 5, s. 1.
+
+(b) sections 13 and 15, where it means the minister whose ministry funds, oversees or otherwise usually deals with the relevant designated employer; (“ministre”)
+
+“prescribed” means prescribed in the regulations; (“prescrit”)
+
+“regulations” means regulations made under this Act. (“règlements”)
+
+### Interpretation re Crown agent
+
+(2) Nothing in this Act makes an organization a Crown agent where that organization would not otherwise be a Crown agent.
+
+### Purpose
+
+2 The purpose of this Act is to manage executive compensation in the broader public sector by authorizing the establishment of compensation frameworks applicable to designated employers and designated executives.
+
+### Application
+
+### Application to employers
+
+3 (1) This Act applies to the following employers:
+
+1. Every hospital within the meaning of the Public Hospitals Act and the University of Ottawa Heart Institute/Institut de cardiologie de l’Université d’Ottawa.
+
+2. Every board within the meaning of the Education Act.
+
+3. Every university in Ontario and every college of applied arts and technology and post-secondary institution in Ontario whether or not affiliated with a university, the enrolments of which are counted for purposes of calculating annual operating grants and entitlements.
+
+4. Repealed: 2015, c. 20, Sched. 5, s. 1 (1).
+
+5. Independent Electricity System Operator.
+
+6. Repealed: 2014, c. 7, Sched. 7, s. 16.
+
+7. Ontario Power Generation Inc. and each of its subsidiaries.
+
+8. Repealed: 2016, c. 30, s. 32.
+
+9. Every body prescribed as a public body under the Public Service of Ontario Act, 2006 that is not also prescribed as a Commission public body under that Act.
+
+10. The corporation known as Ornge, incorporated under the Canada Corporations Act on October 8, 2004 as Ontario Air Ambulance Services Co.
+
+11. Subject to subsection (2), every other authority, board, commission, committee, corporation, council, foundation or organization that may be prescribed for the purposes of this section.
+
+### Non-application
+
+(2) This Act does not apply to the following employers:
+
+1. A municipality.
+
+2. A local board as defined in subsection 1 (1) of the Municipal Act, 2001.
+
+3. Every authority, board, commission, corporation, office or organization of persons a majority of whose members, directors or officers are appointed or chosen by or under the authority of the council of a municipality.
+
+4. Unless otherwise specifically provided for in the regulations, an organization that undertakes its activities for the purpose of profit to its shareholders.
+
+5. Repealed: 2016, c. 37, Sched. 18, s. 6.
+
+6. Hydro One Inc. and each of its subsidiaries.
+
+### Designated executives
+
+4 (1) The provisions of this Act applying to designated executives apply to employees and office holders of designated employers who meet both of the following qualifications:
+
+1. The employee or office holder,
+
+i. is the head of the designated employer, regardless of whether the title of the position or office is chief executive officer, president or something else,
+
+ii. is a vice president, chief administrative officer, chief operating officer, chief financial officer or chief information officer of the designated employer or holds any other executive position or office with the designated employer, regardless of the title of the position or office, or
+
+iii. is the director of education or a supervisory officer of a designated employer that is a board within the meaning of the Education Act.
+
+2. Under his or her compensation plan, the employee or office holder is entitled to receive or could potentially receive annual cash compensation of $100,000 or more in a calendar year. For the purpose of this paragraph, if the employee or office holder works only a portion of a year, his or her cash compensation for the whole year shall be calculated as if he or she were entitled to receive or could potentially receive cash compensation for the remainder of the year at the same rate or level.
+
+### Additional designated executives
+
+(2) The Lieutenant Governor in Council may make regulations designating as designated executives other employees and office holders who hold executive positions or offices with one or more designated employers, and where the Lieutenant Governor in Council has done so, the provisions of this Act applying to designated executives also apply to those executives and office holders.
+
+### Employer of office holders
+
+(3) A reference in this Act to the employer of an office holder is a reference to the employer to which the office holder is appointed, and the use of this terminology is not intended to create a deemed employment relationship between them for the purposes of this or any other Act or any law.
+
+(4) Repealed: 2017, c. 34, Sched. 1, s. 2.
+
+### Compensation information
+
+5 (1) The Management Board of Cabinet may issue directives to designated employers requiring the employer to provide information that the Board considers appropriate relating to compensation and any other payments that designated executives and other employees and office holders of the employer may be entitled to.
+
+### Same
+
+(2) Without restricting the generality of subsection (1), a directive may include requirements to provide information with respect to,
+
+(a) salaries, salary ranges, benefits, perquisites, discretionary and non-discretionary payments, payments payable on or in connection with termination, performance plans, incentive plans, bonus plans, allowances and any other form of remuneration;
+
+(b) agreements between an employer and one or more employees or office holders relating to anything mentioned in clause (a);
+
+(c) compensation policies, plans, guidelines and programs; and
+
+(d) compensation studies.
+
+### Deemed compliance FOI Acts
+
+(3) Any disclosure of personal information made by a designated employer in compliance with a directive shall be deemed to be in compliance with clause 42 (1) (e) of the Freedom of Information and Protection of Privacy Act and clause 32 (e) of the Municipal Freedom of Information and Protection of Privacy Act.
+
+### Confidentiality
+
+(4) Where an organization that has provided information described in subsection (1) meets both of the conditions set out in paragraphs 1 and 2, the Minister and any other person or entity in receipt of the information shall maintain the information in confidence, and shall not disclose this information except in accordance with a directive of the Management Board of Cabinet:
+
+1. The organization is not an institution within the meaning of the Freedom of Information and Protection of Privacy Act or the Municipal Freedom of Information and Protection of Privacy Act.
+
+2. The organization,
+
+i. is an organization that undertakes its activities for the purpose of profit to its shareholders, or
+
+ii. is a publicly funded organization that received public funds, within the meaning of the Broader Public Sector Accountability Act, 2010, of less than $10,000,000 in the previous fiscal year of the Government of Ontario.
+
+### Directives
+
+(5) The Management Board of Cabinet may issue directives authorizing the disclosure of information described in subsection (1) to,
+
+(a) a minister of the Crown;
+
+(b) a person employed in the office of a minister;
+
+(c) a person employed under Part III of the Public Service of Ontario Act, 2006; or
+
+(d) a consultant or advisor retained to provide advice or services in relation to compensation matters.
+
+### Prevails over FIPPA
+
+(6) Subsections (4) and (5) prevail over the Freedom of Information and Protection of Privacy Act.
+
+### Compensation Frameworks
+
+### Compensation frameworks
+
+6 (1) The Lieutenant Governor in Council may make regulations establishing one or more compensation frameworks governing designated employers and designated executives.
+
+### Scope of frameworks
+
+(2) Without restricting the generality of subsection (1), regulations under this section may be general or specific in application, and may apply,
+
+(a) to all designated employers and designated executives;
+
+(b) to classes of designated employers and classes of designated executives;
+
+(c) to specific employers and specific designated executives; or
+
+(d) any combination of anybody mentioned in clauses (a) to (c).
+
+### Nature of framework
+
+(3) A compensation framework may govern the compensation that may be provided by a designated employer to a designated executive and, without limiting the generality of the foregoing, may provide for and limit the compensation and payments and elements of compensation and payments that may be provided to designated executives, including salaries, salary ranges, benefits, perquisites, discretionary and non-discretionary payments, payments payable on or in connection with termination, performance plans, incentive plans, bonus plans, allowances and any other form of remuneration.
+
+### Governing performance assessment indicators
+
+(4) A compensation framework may authorize the Management Board of Cabinet to establish rules governing a designated employer’s use of performance assessment indicators in determining a designated executive’s compensation.
+
+### Limiting increases in pay
+
+(5) A compensation framework may authorize the Minister to limit, in writing, the increase in salary or the pay-for-performance that a designated employer may give to a designated executive, including by limiting,
+
+(a) the number of designated executives to whom a designated employer may,
+
+(i) give an increase in salary or a category of increase in salary, or
+
+(ii) give pay-for-performance or a category of pay-for-performance; and
+
+(b) the time periods for which a designated employer may give a performance-related increase in salary or pay-for-performance.
+
+### Exempting from compensation framework
+
+(6) A compensation framework may authorize the Minister to exempt, in writing, a designated employer or a designated executive from a requirement in the compensation framework and to set conditions for the exemption.
+
+### Non-application of Legislation Act, 2006, Part III, Board and Minister decisions
+
+(7) Part III (Regulations) of the Legislation Act, 2006 does not apply to,
+
+(a) rules established by the Management Board of Cabinet that are authorized by a provision in a compensation framework made under subsection (4); or
+
+(b) a limit imposed by the Minister or an exemption granted by the Minister as authorized by a compensation framework.
+
+### Effect of frameworks
+
+### When effective
+
+7 (1) A compensation framework applicable to a designated employer and its designated executives is effective as of the date or dates provided for in the regulations, and the regulations may provide for different effective dates for,
+
+(a) different designated employers or classes of designated employers; and
+
+(b) different designated executives or classes of designated executives.
+
+### Must comply
+
+(2) Subject to section 9, a designated employer to which a compensation framework applies shall comply with the terms of the compensation framework and, without limiting the generality of the foregoing, shall not, with respect to any element of compensation addressed in the framework, provide compensation to a designated executive to whom the compensation framework applies that is greater than that authorized in the framework.
+
+### Effect on executive
+
+(3) Subject to section 9, a designated executive to whom a compensation framework applies is not entitled to receive compensation in excess of the amounts authorized in the compensation framework in respect of any element of compensation addressed in the compensation framework.
+
+### Effect on agreements
+
+(4) Subject to section 9, any provision in an agreement between a designated employer and a designated executive that authorizes or requires an amount to be paid in excess of the limits set out in the applicable compensation framework is void and unenforceable to the extent of the conflict.
+
+(5) Repealed: 2019, c. 7, Sched. 5, s. 3.
+
+### Newly created employers
+
+### Application
+
+7.1 (1) This section applies to,
+
+(a) a designated employer that has never hired any designated executives; and
+
+(b) a designated employer that has hired designated executives but has not become fully operational and does not intend for any of the designated executives to remain executives of the employer once the employer becomes fully operational.
+
+### Restriction on hiring
+
+(2) A designated employer to which this section applies shall not hire a designated executive that it intends to have remain an executive of the employer once the employer becomes fully operational, unless,
+
+(a) the compensation plan for that designated executive position has been approved by the Minister in writing; or
+
+(b) the Minister has exempted the designated employer in writing from that requirement.
+
+### Approval process
+
+(3) The designated employer shall submit such material and follow such procedure as may be prescribed for seeking the Minister’s approval of compensation plans.
+
+### New hire
+
+8 If a person becomes a designated executive on or after the effective date of the applicable compensation framework, his or her compensation plan must not provide for compensation greater than that authorized under the applicable compensation framework.
+
+### Existing employees and office holders
+
+9 (1) Where a person is a designated executive immediately before the effective date of an applicable compensation framework and continues to be employed in the same position or office, whether under the same contract or agreement or through a renewal of an existing contract or agreement, the following rules apply, regardless of when the contract or agreement was entered into:
+
+1. Subject to paragraphs 2 and 3, the designated executive’s compensation plan that is in effect immediately before the effective date of the applicable compensation framework remains in effect.
+
+2. On or after August 13, 2021, any element of compensation in the designated executive’s compensation plan that is greater than that authorized under an applicable compensation framework is not valid or payable to the extent that it is not in accordance with the applicable compensation framework.
+
+3. Any increase in an element of compensation that is provided for in the designated executive’s compensation plan, but that has not been implemented on or before the effective date, is not valid or payable to the extent that it is not in accordance with the applicable compensation framework.
+
+### Application of par. 2 of subs. (1)
+
+(2) The Minister may, in writing,
+
+(a) provide that paragraph 2 of subsection (1) applies in respect of a designated employer or a designated executive beginning on a date that is before August 13, 2021; or
+
+(b) exempt a designated employer or a designated executive from the application of that paragraph until a specified date.
+
+### Change of position
+
+10 If a designated executive employed by or holding an office with a designated employer immediately before the effective date of the applicable compensation framework accepts a new position or office with a designated employer but continues to be a designated executive, his or her new compensation plan must not provide for compensation greater than that authorized under the applicable compensation framework.
+
+### Restructuring, etc.
+
+11 A designated employer shall not alter the title of a position or office or carry out any other restructuring or amend any compensation plan applicable to a designated executive,
+
+(a) for the purposes of circumventing any of the parameters or limits set out in a compensation framework; or
+
+(b) so as to result in a compensation framework not applying to one or more designated executives to whom the compensation framework would otherwise have applied, unless the title alteration or other restructuring or change to compensation plan is carried out solely for a bona fide purpose other than to prevent a compensation framework from applying to one or more designated executives.
+
+### Compliance, Enforcement, etc.
+
+### Compliance reports
+
+12 (1) The Minister may issue directives requiring designated employers to submit reports concerning compliance with compensation frameworks and providing for the information to be contained in such reports.
+
+### Signature
+
+(2) Each report must include a statement signed by the designated employer’s highest ranking officer attesting whether the employer has complied with any applicable compensation frameworks.
+
+### Audit
+
+13 (1) The Minister may appoint a public accountant licensed under the Public Accounting Act, 2004 to audit the records of a designated employer for the purpose of determining whether the compensation provided to a designated executive complies with the applicable compensation framework.
+
+### Co-operation by employer
+
+(2) A designated employer shall co-operate fully with the person performing the audit to facilitate the audit.
+
+### No notice to individual required
+
+(3) Subsection 39 (2) of the Freedom of Information and Protection of Privacy Act and subsection 29 (2) of the Municipal Freedom of Information and Protection of Privacy Act do not apply with respect to any personal information disclosed or collected under the authority of an audit.
+
+### Results submitted to minister
+
+(4) The auditor shall submit the results of the audit to the Minister within the time specified by the Minister in the appointment.
+
+### Obligation
+
+14 Every obligation of a designated employer under this Act is deemed to be an obligation it is required to comply with under the terms of every agreement or other funding arrangement between the designated employer and the Government of Ontario or between the designated employer and an agency of the Government of Ontario.
+
+### Overpayments
+
+15 (1) Every payment by a designated employer to a designated executive that exceeds what is authorized under this Act is an overpayment.
+
+### Notice of overpayment
+
+(2) The Minister may give a designated employer notice in writing of a determination that an overpayment exists and requiring the designated employer to pay an amount not exceeding the amount of the overpayment to the Crown in the time specified in the notice.
+
+### Effect of failure to pay
+
+(3) If a designated employer fails to pay to the Crown the amount set out in the notice within the period specified by the Minister under subsection (2), the amount shall be deemed to be a debt due to the Crown.
+
+### Recovery, Minister from designated employer
+
+(4) The Minister may recover the debt to the Crown created by subsection (3) from the designated employer,
+
+(a) by reducing the amount of any future grant or transfer payment from the Crown to the designated employer or the amount payable under any other funding arrangement between the Crown and the designated employer; or
+
+(b) by any remedy or procedure available to the Crown by law to enforce the payment of a debt.
+
+### Debt to employer
+
+(5) An overpayment to which this section applies is a debt to the designated employer that made the overpayment from the designated executive to whom it was made, and may be recovered by the designated employer by any remedy or procedure available to it by law to enforce the payment of a debt.
+
+### Public to be protected
+
+(6) The designated employer shall endeavour to minimize any impact of the application of this section on its provision of services to the public.
+
+### Offence
+
+16 (1) No person who is required under this Act to provide a report, statement or attestation shall,
+
+(a) wilfully fail to provide a report, statement or attestation; or
+
+(b) wilfully make a false report, statement or attestation.
+
+### Same
+
+(2) No person shall wilfully obstruct an auditor appointed under section 13 in the performance of his or her audit.
+
+### Penalty
+
+(3) Every person who contravenes subsection (1) or (2) is guilty of an offence and on conviction is liable to a fine not exceeding $5,000.
+
+### Rights not reduced
+
+17 Nothing in this Act or in its regulations or directives shall be interpreted or applied so as to reduce a right or entitlement under,
+
+(a) the Human Rights Code;
+
+(b) section 42 or 44 of the Employment Standards Act, 2000; or
+
+(c) the Pay Equity Act.
+
+### No constructive dismissal
+
+18 (1) An employer shall not be considered to have constructively dismissed an employee under clause 56 (1) (b) or 63 (1) (b) of the Employment Standards Act, 2000 or under the common law as a result of having done anything required by this Act or the regulations or as a result of not having done anything prohibited by this Act or the regulations.
+
+### Same
+
+(2) Nothing in subsection (1) shall be read as suggesting that an employer’s compliance with the law can be the basis for a finding of constructive dismissal.
+
+### No expropriation or injurious affection
+
+19 Nothing done or not done in accordance with this Act or a regulation or directive constitutes an expropriation or injurious affection for the purposes of the Expropriations Act or otherwise at law.
+
+### No cause of action re enactment of Act, etc.
+
+20 (1) No cause of action arises against the Crown or any of the Crown’s ministers, agents, appointees and employees or against a designated employer including the employees, officers, directors, members or governing body of a designated employer,
+
+(a) as a direct or indirect result of the enactment or repeal of any provision of this Act;
+
+(b) as a direct or indirect result of the making, amending or revoking of any provision of a regulation or directive; or
+
+(c) as a direct or indirect result of anything done or not done in order to comply with this Act or a regulation or directive, including any denial or reduction of compensation that would otherwise have been payable to any person.
+
+### Same
+
+(2) Without limiting the generality of subsection (1), that subsection applies to an action or other proceeding claiming any remedy or relief, including specific performance, injunction, declaratory relief or any form of damages or any other remedy or relief, or a claim to be compensated for any losses, including loss of earnings, loss of revenue or loss of profit.
+
+### Proceedings barred
+
+(3) No proceeding, including but not limited to any proceeding in contract, restitution, tort, trust, fiduciary obligation or otherwise, that is directly or indirectly based on or related to anything referred to in clause (1) (a), (b) or (c) may be brought or maintained against the Crown or any of the Crown’s ministers, agents, appointees and employees or against a designated employer including the employees, officers, directors, members or governing body of a designated employer.
+
+### Rights preserved
+
+21 Nothing in this Act prevents the Attorney General from bringing an application or commencing proceedings to require a designated employer to comply with this Act or a regulation or directive, or from commencing a prosecution under section 16.
+
+### Not entitled to be compensated
+
+22 Despite any other Act or law, no person is entitled to be compensated for any loss or damages, including loss of revenues, loss of profit or loss of expected earnings or denial or reduction of compensation that would otherwise have been payable to any person, arising from the enactment or application of this Act or anything done in accordance with this Act, the regulations or directives.
+
+### Conflict with this Act
+
+23 (1) This Act prevails over any provision of a compensation plan and, if there is a conflict between this Act and a compensation plan, the compensation plan is inoperative to the extent of the conflict.
+
+### Same
+
+(2) This Act prevails over any other Act and over any regulation, by-law or other statutory instrument.
+
+### No deemed employment relationship
+
+24 Nothing in this Act changes the status of a designated employer as the employer of designated executives and the implementation of a compensation framework does not create an employment relationship between the Crown and employees or office holders of designated employers or a deemed employment relationship between them for the purposes of this or any other Act or any law.
+
+### Miscellaneous
+
+### Directives
+
+25 (1) Every designated employer to which a directive under this Act applies shall comply with it.
+
+### General or particular
+
+(2) A directive may be general or particular in its application, and may provide for different classes or categories.
+
+### Form, manner, timing
+
+(3) A directive may provide for the form and manner in which it is to be complied with, and the time frame within which it is to be complied.
+
+### No notice to individual required
+
+(4) Subsection 39 (2) of the Freedom of Information and Protection of Privacy Act and subsection 29 (2) of the Municipal Freedom of Information and Protection of Privacy Act do not apply with respect to any personal information disclosed or collected under the authority of a directive.
+
+### Public inspection
+
+(5) The Minister shall ensure that the directives are readily available for inspection by the public by posting them on a public website.
+
+### Non-application of Legislation Act, 2006, Part III
+
+(6) Part III (Regulations) of the Legislation Act, 2006 does not apply with respect to directives.
+
+### Regulations
+
+26 (1) The Lieutenant Governor in Council may make regulations for carrying out the purposes and provisions of this Act.
+
+### Same
+
+(2) Without restricting the generality of subsection (1), the Lieutenant Governor in Council may make regulations,
+
+(a) providing for any matter that this Act refers to as being provided for, prescribed or specified in the regulations;
+
+(b) defining, for the purposes of this Act and its regulations, any word or expression used in this Act that has not already been expressly defined in this Act.
+
+27 Omitted (provides for coming into force of provisions of this Act).
+
+28 Omitted (enacts short title of this Act).

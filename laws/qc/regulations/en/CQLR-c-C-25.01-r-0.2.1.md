@@ -1,0 +1,669 @@
+---
+type: "Regulation"
+title: "Regulation of the Superior Court of Québec in civil matters"
+description: "Quebec regulation, CQLR c C-25.01, r 0.2.1."
+resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-25.01,%20r.%200.2.1"
+tags: ["qc", "regulation", "en"]
+jurisdiction: "qc"
+language: "en"
+citation: "CQLR c C-25.01, r 0.2.1"
+document_date: "2024-08-01"
+translation: "../fr/CQLR-c-C-25.01-r-0.2.1.md"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/en/document/cr/C-25.01,%20r.%200.2.1"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Regulation of the Superior Court of Québec in civil matters
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/en/document/cr/C-25.01,%20r.%200.2.1) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*CQLR c C-25.01, r 0.2.1*
+
+*Enabling statute: Code of Civil Procedure (chapter C-25.01, a. 63)*
+
+*Updated to 2024-08-01*
+
+## I — GENERAL PROVISIONS
+
+**1** **Application.** This Regulation applies in all judicial districts of Québec, subject to any special rules adopted pursuant to article 63 of the Code of Civil Procedure (chapter C-25.01).
+
+Subject to any provision to the contrary, it also applies in family matters and in bankruptcy.
+
+**1.1** **Lexius applications.** The applications covered by the Regulation respecting the Pilot project relating to digital transformation of the administration of justice (chapter C-25.01, r. 6.3) that concern class actions, commercial cases and applications dealt with according to the procedure for non-contentious proceedings, are governed for the duration of the pilot project by the special procedural rules provided therein, by those specifically adopted in Schedule 1 to this Regulation and by directives of the Superior Court of Québec, as a complement to the terms of use for the Lexius platform.
+
+**2** **Access to registers and records.** The records of the Court and the registers of the clerk may be consulted during the opening hours of the court offices.
+
+A record may be consulted only in the presence of the clerk or of a designated person. If the clerk cannot be present, he or she must require that a written acknowledgement of it be kept in the record.
+
+**3** **Designation of parties and format of pleadings.** Pleadings must be legibly written on one side of a good quality paper measuring 21.25 cm × 28 cm (8.5 inches × 11 inches) – the nature and object of the pleading must be indicated on the back, with the record number and the names of the parties, the party filing it, as well as the name, address, postal code, telephone number, e-mail address and computer code of that party’s attorney or notary.
+
+Agreements to be attached to a judgment must be drafted on one side only of a good quality paper measuring 21.25 cm × 28 cm (8.5 inches by 11 inches).
+
+An originating application indicates the name, address and postal code of the parties.
+
+Every pleading of a party must be signed by the party’s lawyer or notary, in the cases provided for by law. If a party is not represented by a lawyer or notary, the pleading must be signed by the party.
+
+In every pleading, the parties keep the same order and designation as in the originating application.
+
+**4** **Change of address, lawyer or notary.** In the event of a change of address the parties, or their lawyers and notaries, must inform the court office without delay.
+
+In the event of a change or substitution of lawyer in the course of a proceeding, the new lawyer must inform the court office without delay.
+
+**5** **Jurisprudence and doctrine.** A party relying on a judgment or excerpt from doctrine must indicate the relevant pages and identify the passages cited.
+
+**6** **Laws and regulations.** A party relying on regulatory or legislative provisions other than those in the Civil Code of Québec, the Code of Civil Procedure (chapter C-25.01) or the Divorce Act (R.S.C., 1985, c. 3 (2nd Supp.)) must provide a copy for the judge and indicate the relevant articles or sections.
+
+## II — COURT OFFICE
+
+**7** **Registers and index.** The clerk keeps, in the form of books, cards, films, magnetic recordings, information technology medium, or as otherwise decided by the Chief Justice in agreement with the administration, the following registers and indexes:
+
+(a) an index of plaintiffs, defendants and other parties;
+
+(b) an index of elections of domicile;
+
+(c) an index of the cases taken under advisement, with respect to both incidental proceedings and the merits, containing:
+
+(i) the number of the record;
+
+(ii) the names of the parties;
+
+(iii) the name of the judge;
+
+(iv) the date on which the matter was taken under advisement;
+
+(d) a court ledger containing:
+
+(i) the number of the case;
+
+(ii) the names of the parties;
+
+(iii) the nature of the application, the amount claimed and the date on which the copy of the application was deposited;
+
+(iv) the nature and the date of receipt of all pleadings;
+
+(v) a concise description of each document filed;
+
+(vi) a concise summary of all judicial orders, judgments rendered in the course of a proceeding or that terminate the proceeding, or judgments on the merits, with their date;
+
+(vii) the date of each session of the Court and the date of the deposit of the minutes of the hearing at that session;
+
+(viii) the date on which the record is complete and the date on which it is sent to the Judge for advisement;
+
+(ix) the nature of any notice of execution requested;
+
+(x) the date of any notice of execution filed in the court office and the date on which the bailiff files a bailiff’s report in the court office;
+
+(xi) the orders made since the filing of the notice of execution;
+
+(xii) the nature and date of receipt of all oppositions, applications for annulment, claims or contestations filed, and the names and addresses of the lawyers concerned, if any;
+
+(xiii) the amount realized, if any;
+
+(e) a register containing the original copies of judgments except those written and signed on the minutes of a hearing or on an application;
+
+(f) a journal of the judgments included in the preceding register;
+
+(g) if applicable, the rolls determined by this Regulation;
+
+(h) an index of applications for an injunction, habeas corpus applications and applications for judicial review, containing:
+
+(i) the number of the record;
+
+(ii) the names of the parties and of their lawyers;
+
+(iii) the date and nature of the application;
+
+(i) an index of expropriations containing:
+
+(i) the number of the record;
+
+(ii) the names of the parties and of their lawyers;
+
+(iii) the date of commencement of the proceeding;
+
+(j) an index of class actions containing:
+
+(i) the number of the record;
+
+(ii) the names of the parties and of their lawyers;
+
+(iii) the date of commencement of the proceeding;
+
+(k) a register of non-contentious matters containing:
+
+(i) the designation of the parties;
+
+(ii) the object of the proceedings;
+
+(iii) the date of the judgment;
+
+(iv) a mention of the proceedings after judgment;
+
+(l) all other registers, indexes or cards which may be required by law or ordered by the Chief Justice or determined by the Clerk.
+
+**8** **Updating of court ledger.** Where the record is forwarded to the Court or to the judge, an extract of the updated court ledger must be filed in the record and the previous extracts destroyed.
+
+**9** **Receipt of pleadings and exhibits.** Upon receipt of an exhibit or pleading, the clerk must number it and enter the date and time of its reception, after payment, if applicable, of the required court office fees.
+
+## III — APPLICATIONS IN THE COURSE OF A PROCEEDING
+
+**10** **Reference to relevant provisions.** An application made in the course of a proceeding must include a reference to the article of the Code of Civil Procedure (chapter C-25.01), the section of this Regulation, or the section of the law under which it is filed.
+
+**11** **Amendments.** If a proceeding is amended, the additions or substitutions must be underlined, or indicated in the margin by a vertical line, and deletions must be indicated by means of dots in brackets.
+
+**12** **Application for clarification.** Every paragraph of an application for clarification must be numbered in the same way as the paragraph of the pleading concerned.
+
+**13** **Clarification.** When clarifications to a pleading have been ordered, a new pleading incorporating the clarifications must be filed in the record within the time limit set.
+
+**14** **Seizure before judgment and forced surrender.** An application to annul a seizure before judgment and an application to annul an order issued under article 2767 of the Civil Code of Québec, based on the falsity of the allegations in the affidavit, must specify which allegations are contested and the reasons for contesting them.
+
+**15** **Protective supervision.** Upon reception of an opposition under article 280 of the Civil Code of Québec or article 320 of the Code of Civil Procedure (chapter C-25.01), the clerk enters the case on the roll for the Practice Chamber and sends a notice of presentation to all interested persons at least 10 days prior to the date fixed in the notice.
+
+## IV — EXHIBITS AND EXCERPTS FROM DEPOSITIONS
+
+**16** **Medical records and expert reports.** A medical record or an expert report prepared by a physician, psychologist or social worker that is filed in the record is kept in a sealed envelope and no person, except an authorized person, may have access to it without the permission of the Court or a judge. Access to such a document includes the right to make copies of it at the person’s expense.
+
+**17** **Curriculum vitae and expert’s fees.** A party that produces an expert report must also produce the author’s curriculum vitae and the invoice for the expert’s fees up to that date and for the expert’s fees to attend the trial.
+
+**18** **Identification of exhibits and pagination.** An exhibit that has been disclosed and produced must be identified by one letter for each party, followed by a consecutive number from the beginning to the end of the record.
+
+Exhibits retain the same identification for all applications, on the merits and in the course of a proceeding.
+
+The identification of the exhibit and the number of the record must appear on the front and back of each exhibit, if applicable. The number of the record need not be repeated if several exhibits are joined together.
+
+The party that produces a document must paginate it if it is not already paginated.
+
+**19** **Excerpts of depositions.** Any excerpt of a deposition adduced as evidence under articles 105, 222 and 227 of the Code of Civil Procedure (chapter C-25.01) must indicate the date and place of the deposition and the name and capacity of the deponent, and must be certified by the authorized person who transcribed it. The clerk may issue a certified true copy of the excerpt.
+
+## V — READINESS FOR TRIAL
+
+**20** (a) **Record without case protocol**
+
+If the record is complete and ready for trial, the Court may try the application immediately or, after estimating the length of the trial, set a date for a hearing or refer it to the clerk for that purpose.
+
+(b) **Record with case protocol**
+
+(i) In all cases with an oral or written defence, the request for setting down for trial and judgment is made in accordance with article 174 of the Code of Civil Procedure (chapter C-25.01) using the form provided for that purpose.
+
+(ii) Grounds of defence: If the defence is oral, the grounds of defence must be stated in the case protocol.
+
+(iii) Date of hearing: If the defence is oral and the circumstances so justify, the judge may, on his or her own initiative and before the expiry of the time limit set in article 173 of the Code of Civil Procedure, exempt the parties from the obligation of filing a request for setting down for trial and judgment and proceed in accordance with paragraph *a* of this section.
+
+(iv) When the case is ready for trial, a party may convene the other parties before the Court to verify the status of the record. If it is complete and ready for trial, the judge may refer it to the clerk to set a date for the hearing.
+
+**21** Setting down for trial
+
+(a) **Attestation that a record is complete (ARC):** After the request for setting down for trial and judgment has been filed in the court office, the clerk verifies whether the record is complete and ready for trial and, if appropriate, signs an attestation specifying the estimated duration of the trial on the merits, and so informs the parties.
+
+(b) **Notice that a record is incomplete:** If the Clerk ascertains that the record is incomplete after verification, the Clerk sends a notice to the parties, and the party in default has 30 days to correct the situation.
+
+**22** **Provisional roll.** After the request for setting down for trial and judgment has been filed, the clerk prepares a list of the cases that may be called in the following weeks and, at least 15 days before the date of the session referred to hereafter, mails to each lawyer of record, or to the parties if not represented, an extract of that list containing mention of their cases and convenes them to a calling of the provisional roll presided by the Chief Justice or a judge designated by the Chief Justice or, with the latter’s consent, by the clerk.
+
+At that session, the judge or clerk presiding determines the means of simplifying the procedure and shortening the hearing.
+
+Having consulted the lawyers, the judge or clerk presiding fixes the dates of hearing for the cases on the list. Any request for postponement must be presented at that session.
+
+The clerk draws up the minutes of the session and enters in the record of each case called the presence or absence of the lawyers or parties that are not represented.
+
+**23** **Pre-trial conference.** The Chief Justice or the judge designated by the Chief Justice determines the cases in which a pre-trial conference must be held.
+
+**24** **Settlement conference.** An application for a settlement conference must be addressed to the Chief Justice or the judge designated by the Chief Justice and include the information specified in the form published on the website of the Superior Court.
+
+## VI — ROLL FOR HEARING
+
+**25** **Roll for hearing.** As soon as possible, the clerk sends the roll for hearing to the judges who will be hearing the cases appearing on the roll and, where applicable, to the judge who presided at the session mentioned in section 22 of this Regulation.
+
+The roll for hearing indicates:
+
+(a) the name of the judge;
+
+(b) the number of the record;
+
+(c) the names of all the parties;
+
+(d) the names of the lawyers of record;
+
+(e) the date and time of the hearing;
+
+(f) the place of the hearing and, where applicable, the room number; and
+
+(g) any other information ordered by the judge or clerk who presided at the session mentioned in section 22.
+
+An extract from that roll is also sent by the clerk to each lawyer of record or unrepresented parties concerning their cases.
+
+**26** **Cases added to the roll.** The Chief Justice or the judge designated by the Chief Justice or, under their authority, the clerk or the master of the rolls, may add to the roll for hearing any cases deemed ready to proceed.
+
+**27** **Cases fixed by preference.** An application to fix a case by preference must be accompanied by a notice in which the date and time of presentation have been previously determined by the Chief Justice or the judge designated by the Chief Justice.
+
+**28** **Notice to lawyers and parties.** The extract from the roll for hearing sent to the lawyers and parties concerning their case constitutes the notice required by article 178 of the Code of Civil Procedure (chapter C-25.01).
+
+**29** **Inaccuracies in the certificate of readiness.** A judge presiding at the trial who finds that the declaration made under article 174 of the Code of Civil Procedure (chapter C-25.01) contains inaccuracies without which the case would not have been put on the roll for hearing may strike the case from the roll, adjourn it or take any other appropriate measure in the interest of justice.
+
+**30** **Postponement.** No case may be postponed solely by the consent of the parties or by reason of their absence. If this occurs, the case is struck from the roll.
+
+A case which has been once postponed at the request of any party and for which the parties are still not ready when the case re-appears on the roll for hearing is struck from the roll, and may not re-appear again unless the Chief Justice or the Judge designated by the Chief Justice, after receiving a written application, orders otherwise.
+
+**31** **Priority on the roll.** Cases which must be heard and decided without delay pursuant to a provision of the law or a decision of the Chief Justice or a judge designated by the Chief Justice for that purpose have priority on the roll, and in particular the following cases:
+
+(a) cases incidental to the forced execution of judgments (Code of Civil Procedure (chapter C-25.01), a. 659);
+
+(b) cases to contest a claim produced by a creditor in connection with a seizure in the hands of third persons (Code of Civil Procedure, a. 711);
+
+(c) cases to contest a claim produced in a case of voluntary deposit (Code of Civil Procedure, a. 667);
+
+(d) cases relating to applications for authorization for seizure before judgment (Code of Civil Procedure, aa. 518, 519, 522 and 523).
+
+## VII — HEARING
+
+### I — DECORUM
+
+**32** **Persons present.** All persons attending a hearing must rise when the judge enters the room and remain standing until the judge is seated. When the hearing is over, they stand again and refrain from moving until the Judge has retired.
+
+**33** **Court usher.** At the opening of the session, the court usher says aloud: “Silence. All rise please. The Superior Court is now in session, the Honourable ........................... presiding.”
+
+As soon as the judge is seated, the court usher invites those present to be seated.
+
+**34** **Dress and conduct at the hearing.** Every person appearing before the court must be suitably attired.
+
+**35** **Gown.** In the court room, a male lawyer wears either a black gown with a black jacket, dark trousers and a shirt with a white collar and bands, or a black gown closed in front, with a raised neck opening, long sleeves and white bands. A female lawyer wears a black gown with white bands and a black long-sleeved dress or a dark skirt or trousers and a white long-sleeved blouse.
+
+A male articled student wears either a black gown with a dark suit, white shirt and dark tie, or a black gown closed in front, with a raised neck opening and long sleeves. A female articled student wears a black gown with a dark skirt or trousers and a white long-sleeved blouse or dark clothing.
+
+However, it is not required to wear a gown during the months of July and August, nor in the Practice Chamber for civil matters. When a gown is not required, male attorneys and male articled students wear plain trousers, jacket, shirt and tie; female attorneys or female articled students wear a plainskirt or trousers with a blouse and jacket, a dress or a tailor-made suit.
+
+**36** **Dress for court clerks and ushers.** When the Court is in session, court clerks and ushers must always wear one of the attires described in section 35 for articled students.
+
+**37** **Order.** Anything that disturbs the decorum and good order of the court is prohibited.
+
+More specifically, the reading of newspapers and the inappropriate use of electronic devices of any kind that hinder the conduct of the hearing or infringe the propriety of the court are prohibited.
+
+**38** **Interviews and the use of cameras.** In order to ensure the fair administration of justice, the serenity of judicial hearings and the respect of the rights of litigants and witnesses, interviews and the use of cameras in a courthouse are only permitted in the areas designated for such purposes by the directives of the Chief Justices.
+
+### II — MINUTES
+
+**39** **Role of court clerk.** The clerk draws up the minutes of the hearing, noting
+
+(a) the name of the presiding Judge;
+
+(b) the various stages of the hearing;
+
+(c) the names of the lawyers and witnesses;
+
+(d) the names of the clerk and the stenographer;
+
+(e) the exhibits filed;
+
+(f) the Court orders, and the decisions rendered without being taken under advisement, except those concerning the evidence given in the depositions;
+
+(g) the admissions dictated to the stenographer or mechanically recorded;
+
+(h) the admissions dictated to the court clerk, which must be signed by the parties or their lawyers; and
+
+(i) where applicable, the reasons stated by the Court for not proceeding with the case.
+
+Similarly, the court clerk marks the exhibits with a letter and series of numbers previously used, and indicates and initials the case number; the clerk indicates on the copies of doctrine and jurisprudence the name of the lawyer or party who filed it.
+
+The clerk prepares a separate list of exhibits filed by each of the parties and describes each exhibit.
+
+**40** **Swearing in of witnesses.** The court clerk stands and says to the witness: “Do you swear to tell the truth, the whole truth and nothing but the truth? Raise your right hand and say I do.”
+
+## VIII — STENOGRAPHY AND RECORDING OF PROCEEDINGS
+
+**41** **Application.** The rules in this Chapter apply, adapted as required, to any person required to record or transcribe depositions by any authorized mode.
+
+**42** **Role of the stenographer.** The stenographer is required to record the depositions of the witnesses, the admissions dictated to the stenographer, the undertakings made, the objections to the evidence, the argument upon the objections if the judge so requires, and the decisions made on the objections.
+
+**43** **Name of witness.** Each page of a deposition must mention the name of the witness at the top.
+
+**44** **Letter format.** The transcript of a recording or deposition may be presented in the format prescribed in section 3.
+
+It may also be filed in “four in one” format, with an alphabetical index.
+
+**45** **Respect of witnesses.** The respect due witnesses requires that any examination outside the presence of the court be conducted in the same manner as if it was before the court. If there is indecorous or disorderly conduct, the stenographer may suspend the examination in order to obtain directions from a judge for its continuation.
+
+**46** **Videoconferencing.** The court may authorize the examination of a witness by videoconferencing or by any other means of communication if, having regard to the guiding principles of the Code of Civil Procedure (chapter C-25.01), the means proposed appears to the court to be reliable and proportional to the circumstances of the case, taking into account the technological facilities available.
+
+## IX — JUDGMENTS
+
+**47** **Record under advisement.** Before giving the record to the judge, the court clerk ensures that it contains the pleadings, exhibits, applications in the course of the proceeding and examinations taken outside the presence of the court, consecutively numbered according to the date of their filing, as well as any written argument required by the court.
+
+If the record is incomplete, the clerk notifies the lawyers so that they may remedy the default.
+
+No case is taken under advisement and no record sent to the judge until it has been completed, unless the judge decides otherwise.
+
+**48** **Incomplete arguments.** If either party fails to complete its oral or written argument within the time period fixed at the hearing, the judge may send or have the clerk send to the parties or their lawyers a notice to remedy the default within the time fixed by the Judge and take the case under advisement as it stands upon the expiry of that period. The judge informs the Chief Justice of this situation.
+
+**49** **Evidence outside the presence of the court.** When evidence taken outside the presence of the court has been filed in the record, the special clerk must, if having no jurisdiction to render judgment and if the Court is not sitting in the district, send the record to the judge who authorized the taking of evidence outside the presence of the court.
+
+**50** **Judgment at the hearing.** When a judge renders judgment at a hearing, anyone requesting a transcript of the judgment or a copy of the recording must direct the request to the judge.
+
+**51** **Access to the recording by other judges of the Superior Court.** Judges of the Superior Court have direct access to the recording of a hearing or a judgment rendered by another judge of that court, in all matters.
+
+**52** **Judgment rendered in the course of a proceeding.** A judgment rendered in the course of a proceeding that is written out and signed on an application submitted to the court need not be written out and signed again on a separate paper, and the clerk may issue true copies of such a judgment.
+
+## X — CLASS ACTION
+
+**53** **Compulsory indications.** All class action pleadings must include the words “Class Action” immediately above “Superior Court” on the front and back.
+
+**54** **Content of the application for authorization.** The application for authorization is drafted using the form published on the website of the Superior Court.
+
+**55** **Documents accompanying the application.** The application for authorization is accompanied by a copy of all other applications for authorization to bring a class action dealing in whole or in part with the same subject matter and an attestation from the applicant or the applicant’s lawyer indicating that the application will be entered in the national class action register. These documents must be served on the adverse party at the same time as the application for authorization.
+
+Failure by the applicant to comply with this section does not entail dismissal of the application; however, the judge, at the request of any interested person or on the judge’s own initiative, may postpone the date of presentation of the application and order the applicant to remedy the failure.
+
+**56** **Registry of class actions.** Within 5 days of filing, a copy of the application for authorization to institute a class action must be registered in the registry of class actions in accordance with article 573 of the Code of Civil Procedure (chapter C-25.01).
+
+**57** **Relevant evidence.** An application for authorization to submit relevant evidence in accordance with article 574 of the Code of Civil Procedure (chapter C-25.01) must be accompanied by the documentary evidence or affidavit that that applicant wishes to submit.
+
+**58** **Transaction.** A transaction submitted for the approval of the court indicates the amounts that will be reimbursed to the Fonds d’aide aux actions collectives if it contributed financial assistant to the representative in accordance with section 30 of the Act respecting the Fonds d’aide aux actions collective (chapter F-3.2.0.1.1). Every application for approval must be served on the Fonds d’aide aux actions collectives, with a notice of presentation.
+
+**59** **Report on administration.** If a judgment orders the collective recovery of the claims made with individual payment of the members’ claims, the special clerk or third person designated by the court must file with the court, after the time limit for members to file their claim has expired, a detailed report on its administration and give notice to the parties and the Fonds d’aide aux actions collectives.
+
+The report lists the members who filed a claim, the amount paid to each member, the remaining balance and the amount withheld for the Fonds d’aide aux actions collectives pursuant to section 42 of the Act and Regulation respecting the percentage withheld by the Fonds d’aide aux actions collectives (chapter F-3.2.0.1.1, r. 2).
+
+**60** **Remaining balance.** If the report filed under section 59 mentions a remaining balance the representative, within 30 after the report is filed, must present an application to the court to dispose of the amounts, giving notice of presentation to the special clerk or the third person designated by the court and to the Fonds d’aide aux actions collectives, if applicable.
+
+**61** **Legal costs and fees.** When the Fonds d’aide aux actions collectives has granted financial assistance, an application to determine the legal costs and the fees of the representative’s lawyer, or to obtain the approval of a transaction on fees, legal costs, or professional fees is served on the Fonds d’aide aux actions collectives with notice of presentation.
+
+**62** **Multi-jurisdictional class action.** In the case of a prospective, authorized or certified class action having the same object as a prospective, authorized or certified class action instituted in 2 or more provinces, the court may, on application, direct the parties to apply the Canadian Judicial Protocol for the Management of MultiJurisdictional Class Actions.
+
+## XI — COMMERCIAL CHAMBER
+
+**63** **Commercial cases.** All cases where the initial application is based principally, in whole or in part, on any of the following legislative provisions is a commercial case and is tried in the Commercial Chamber:
+
+(Statutes of Canada)
+
+— The Bankruptcy and Insolvency Act (R.S.C. 1985, c. B-3);
+
+— The Companies and Creditors’ Arrangement Act (R.S.C. 1985, c. C-36);
+
+— The Winding-Up and Restructuring Act (R.S.C. 1985, c. W-11);
+
+— The Canada Business Corporations Act (R.S.C. 1985, c. C-44);
+
+— The Bank Act (S.C. 1991, c. 46 [R.S.C. 1985, c. B-1.01]);
+
+— The Farm Debt Mediation Act (S.C. 1997, c. 21);
+
+— The Commercial Arbitration Act (R.S.C. 1985, c. 17 (2nd Suppl.) [R.S.C. 1985, c. C-34.6]);
+
+(Statutes of Québec)
+
+— Code of Civil Procedure (chapter C-25.01):
+
+– articles 527, 645 and 647 (homologation of an arbitration award);
+
+– articles 507 and 508 (recognition and enforcement of an arbitration award made outside Québec);
+
+— Companies Act (chapter C-38);
+
+— Winding-Up Act (chapter L-4);
+
+— Securities Act (chapter V-1.1);
+
+— Act respecting the regulation of the financial sector (chapter E-6.1).
+
+The same applies to any other case of a commercial nature, on a decision of the Chief Justice or a judge designated by the Chief Justice, made on initiative or on application.
+
+**64** **Registry and jurisdictional numeration.** The Commercial Chamber has its own Registry and a distinct jurisdictional numeration.
+
+**65** **Compulsory indications.** A pleading in the Commercial Chamber must include the words “Commercial Chamber” on the front page and on the backing beneath the words “Superior Court”, as well as a reference to the law that governs the proceeding.
+
+**66** **Multiple cases within the same record.** Whenever there are multiple cases within the same record, each new originating application must bear the indication “New Case”. In subsequent pleadings relative to the new application, the sequential number given to the new application must be mentioned in the heading “Case sequence number ________” under the court number of the record.
+
+**67** **Exception.** If the volume of commercial cases in any judicial district is limited, the coordinating judge of the district or the judge designated by the coordinating judge may have commercial cases dealt with in the general court office and tried in the civil practice chamber.
+
+## XII — QUARRELSOME CONDUCT
+
+**68** **Necessity to obtain prior authorization.** If a person acts in a quarrelsome manner, by exercising litigious rights in an excessive or unreasonable manner, the court may, on initiative or on request, in addition to the measures provided for in the Code of Civil Procedure (chapter C-25.01), prohibit that person from instituting a judicial application or from producing or presenting a pleading in a previously instituted proceeding without prior authorization from the Chief Justice or a judge designated by the Chief Justice, and on the conditions the latter determines.
+
+**69** **Order.** The order may be general or limited to certain proceedings, courts or bodies subject to the judicial control of the Superior Court, and may apply in one or more judicial districts, or with respect to one or more persons. It may also be limited in time. In exceptional circumstances, the order of prohibition may prohibit or limit access to a court house.
+
+**70** **Application for authorization.** The application to institute or to continue a proceeding or application is introduced by way of a written application bearing the number of the record in which the order was made.
+
+The application is addressed to the Chief Justice or the judge designated by the Chief Justice. It may be adjudicated on the basis of the record, without a hearing.
+
+**71** **Exhibits.** The application for authorization must be accompanied by the order of prohibition and the pleading the applicant seeks to file.
+
+**72** **Presentation.** The Chief Justice or the judge designated by the Chief Justice may refer the application to the court, in which case the applicant must serve it on the parties concerned by the proposed pleading, with a 10-day notice of presentation.
+
+**73** **Nullity.** An unauthorized pleading is deemed never to have existed. When informed of an order of prohibition, the clerk must refuse to accept it, unless it is a notice of appeal or an application for leave to appeal.
+
+**74** **Forwarding of the order of prohibition.** The clerk forwards a copy of any order of prohibition filed in the court office to the Chief Justice or Associate Chief Justice, according to the Chamber involved, and to any other court offices concerned.
+
+**75** **Public registry.** Québec’s Ministère de la Justice keeps a public registry of litigants subject to authorization.
+
+The clerk transmits to the Ministère a copy of all orders of prohibition filed at the court office for registration in the public registry.
+
+## XIII — FINAL PROVISIONS
+
+**76** **Coming into force**. This Regulation replaces the Rules of Practice of the Superior Court of Québec in Civil Matters (chapter C-25.01, r. 4).
+
+## SCHEDULE 1 — s. 1.1 — REGULATION OF THE SUPERIOR COURT OF QUÉBEC RELATING TO LEXIUS APPLICATIONS IN CIVIL MATTERS
+
+(1) For the duration of the pilot project as regards applications relating to class actions, commercial cases and applications dealt with according to the procedure for non-contentious proceedings provided for in the Regulation respecting the Pilot project relating to digital transformation of the administration of justice (chapter C-25.01, r. 6.3) the following provisions of this Regulation are amended or revoked as indicated in this Schedule where they apply to an application covered by the pilot project.
+
+The text that differs from the text otherwise in force is highlighted by the underlining of added text and a strikethrough line for deleted portions.
+
+(2) Section 2 is replaced by the following:
+
+“**2. Access to registers and records.** Any person may have access free of charge to the digital registers and judicial records using the technological means put in place in the courthouses, during the opening hours of the court offices.
+
+Subject to section 3 of the Regulation respecting the Pilot project relating to digital transformation of the administration of justice, only the persons designated in section 17 of that Regulation may remotely consult their Lexius record at any time of the day.”.
+
+(3) Section 3 is replaced by the following:
+
+“**3. Form and designation of parties.** Pleadings and agreements to be attached to a judgment must be legibly written in a document measuring 21.25 cm × 28 cm (8.5 inches by 11 inches) and indicate the nature and object of the document, the record number, the names of the parties and the party filing it.
+
+Pleadings and other documents filed in Lexius must also satisfy the conditions regarding form set out in the directives of the Court and the terms of use for the platform. Each document must be filed in a separate file. Exhibits may, however, be filed in a bundle in a single file if they have the same identification.
+
+The hard copy of an originating application must also indicate the address and postal code of the parties and on the back, as applicable, the contact information of the lawyer.
+
+A self-represented natural person who, as provided in the provisions of the Regulation respecting the Pilot project relating to digital transformation of the administration of justice, may file a pleading in hard copy, must in addition indicate the email address of the parties, if any.
+
+In every pleading, the parties keep the same order and designation as in the originating application.”.
+
+(4) Section 4 is amended as follows:
+
+“**4. Change of address, lawyer or notary.** In the event of a change of address*in contact information*, the parties and their lawyers and notaries must inform the court office without delay.
+
+In the event of a change or substitution of lawyer in the course of a proceeding, the new lawyer must inform the court office without delay.
+
+*The notice to the court office must comply with the terms of use for the Lexius platform, if applicable.*”.
+
+(5) Section 5 is replaced by the following:
+
+“**5. Laws, regulations, jurisprudence and doctrine.** A party relying on a law, regulation, judgment or excerpt from doctrine must provide a permanent hyperlink allowing access thereto free of charge, with a reference to the relevant excerpt, page or paragraph. If there is no permanent hyperlink, the party must file a copy on a technological medium in Lexius.
+
+A self-represented natural person who, as provided in the provisions of the Regulation respecting the Pilot project relating to digital transformation of the administration of justice, may file a document in hard copy, must indicate on it the full permanent hyperlink allowing access free of charge to the law, regulation, judgment or excerpt from doctrine relied on. If there is no permanent hyperlink, the person must provide a hard copy.”.
+
+(6) Sections 6 and 8 are revoked:
+
+“**6. Laws and regulations.** A party relying on regulatory or legislative provisions other than those in the Civil Code of Québec, the Code of Civil Procedure (chapter C-25.01) or the Divorce Act (R.S.C., 1985, c. 3 (2nd Supp.)) must provide a copy for the judge and indicate the relevant articles or sections. (*Revoked*).”;
+
+“**8. Updating of court ledger.** Where the record is forwarded to the Court or to the judge, an extract of the updated court ledger must be filed in the record and the previous extracts destroyed. (*Revoked*).”.
+
+(7) Section 9 is replaced by the following:
+
+“**9. Receipt of pleadings and exhibits.** Pleadings and exhibits must be numbered as provided in the terms of use for the Lexius platform.”.
+
+(8) Section 16 is replaced by the following:
+
+“**16. Medical records and expert reports**. A medical record or an expert report prepared by a physician, psychologist or social worker must be identified as confidential when filed in Lexius; it must be confidentially kept and no person, except an authorized person, may have access to it without the permission of the Court or a judge.”.
+
+(9) Section 18 is replaced by the following:
+
+“**18. Identification of exhibits and pagination.** Identification and pagination of an exhibit filed in the Lexius record are determined as provided in the directives of the Court and the terms of use for the Lexius platform.”.
+
+(10) Section 21 is amended as follows:
+
+“**21. Setting down for trial**
+
+(a) Attestation that a record is complete (ARC): After the request for setting down for trial and judgment has been filed in the *Lexius* court office, the clerk verifies whether the record is complete and ready for trial and, if appropriate, signs an attestation*so attests as provided in the terms of use for the Lexius platform,* specifying the estimated duration of the trial on the merits, and so informs the parties.
+
+(b) Notice that a record is incomplete: If the Clerk ascertains that the record is incomplete after verification, the Clerk sends a notice to the parties, and the party in default has 30 days to correct the situation.”.
+
+(11) Section 22 is amended as follows:
+
+“**22. Provisional roll**. After the request for setting down for trial and judgment has been filed, the clerk prepares a list of the cases that may be called in the following weeks and, at least 15 days before the date of the session referred to hereafter, mails*sends by a technological means* to each lawyer of record, or *by any means* to the parties if not represented, an extract of that list containing mention of their cases and convenes them to a calling of the provisional roll presided by the Chief Justice or a judge designated by the Chief Justice or, with the latter’s consent, by the clerk.
+
+At that session, the judge or clerk presiding determines the means of simplifying the procedure and shortening the hearing.
+
+Having consulted the lawyers, the judge or clerk presiding fixes the dates of hearing for the cases on the list. Any request for postponement must be presented at that session.
+
+The clerk draws up the minutes of the session and enters in the record of each case called the presence or absence of the lawyers or parties that are not represented.”.
+
+(12) Section 25 is amended as follows:
+
+“**25. Roll for hearing.** As soon as possible, the clerk sends the roll for hearing to the judges who will be hearing the cases appearing on the roll and, where applicable, to the judge who presided at the session mentioned in section 22 of this Regulation.
+
+The roll for hearing indicates:
+
+(a) the name of the judge;
+
+(b) the number of the record;
+
+(c) the names of all the parties;
+
+(d) the names of the lawyers of record;
+
+(e) the date and time of the hearing;
+
+(f) the place of the hearing and, where applicable, the room number; and
+
+(g) any other information ordered by the judge or clerk who presided at the session mentioned in section 22.
+
+An extract from that roll is also sent by the clerk *by a technological means* to each lawyer of record or *by any means to* unrepresented parties concerning their cases.”.
+
+(13) Section 39 is amended as follows:
+
+“**39. Role of court clerk.** The clerk draws up the minutes of the hearing, noting
+
+(a) the name of the presiding Judge;
+
+(b) the various stages of the hearing;
+
+(c) the names of the lawyers and witnesses;
+
+(d) the names of the clerk and the stenographer;
+
+(e) the exhibits filed;
+
+(f) the Court orders, and the decisions rendered without being taken under advisement, except those concerning the evidence given in the depositions;
+
+(g) the admissions dictated to the stenographer or mechanically recorded;
+
+(h) the admissions dictated to the court clerk, which must be signed by the parties or their lawyers; and
+
+(i) where applicable, the reasons stated by the Court for not proceeding with the case.
+
+Similarly, the court clerk marks the exhibits with a letter and series of numbers previously used, and indicates and initials the case number; the clerk indicates on the copies of doctrine and jurisprudence the name of the lawyer or party who filed it.
+
+The clerk prepares a separate list of exhibits filed by each of the parties and describes each exhibit.”.
+
+(14) Section 47 is replaced by the following:
+
+“**47. Record under advisement.** No case is taken under advisement until the clerk has ascertained that the Lexius record is complete, unless the judge decides otherwise.
+
+If the record is incomplete, the clerk notifies the lawyers so that they may remedy the default.”.
+
+(15) Section 48 is amended as follows:
+
+“**48. Incomplete arguments.** If either party fails to complete its oral or written argument within the time period fixed at the hearing, the judge may send or have the clerk send to the parties or their lawyers*, by a technological means to each of the parties of record or by any means to the parties if not represented*, a notice to remedy the default within the time fixed by the Judge and take the case under advisement as it stands upon the expiry of that period. The judge informs the Chief Justice of *that* situation.”.
+
+(16) Section 49 is amended as follows:
+
+“**49. Evidence outside the presence of the court.** When evidence taken outside the presence of the court has been filed in the record, the special clerk must, if having no jurisdiction to render judgment and if the Court is not sitting in the district, send the record to*so inform* the judge who authorized the taking of evidence outside the presence of the court.”.
+
+(17) Section 52 is revoked:
+
+“**52. Judgment rendered in the course of a proceeding.** A judgment rendered in the course of a proceeding that is written out and signed on an application submitted to the court need not be written out and signed again on a separate paper, and the clerk may issue true copies of such a judgment. (*Revoked*).”.
+
+(18) Section 53 is replaced by the following:
+
+“**53. Compulsory indications.** All class action pleadings must include the words “Class Action” immediately above “Superior Court”.
+
+The back of an originating application for a class action also must include those words.”.
+
+(19) Section 55 is amended as follows:
+
+“**55. Documents accompanying the application.** The application for authorization is accompanied by a copy of all other applications for authorization to bring a class action dealing in whole or in part with the same subject matter and an attestation from the applicant or the applicant’s lawyer indicating that the application will be entered in the national class action register. These documents must be served on the adverse party at the same time as the application for authorization.
+
+Failure by the applicant to comply with this section does not entail dismissal of the application; however, the judge, at the request of any interested person or on the judge’s own initiative, may postpone the date of presentation of the application and order the applicant to remedy the failure.”.
+
+(20) Section 56 is amended as follows:
+
+“**56. Registry of class actions.** Within 5 days of filing, a copy of the application for authorization to institute a class action must be registered in the registry of class actions in accordance with article 573 of the Code of Civil Procedure (chapter C-25.01).”.
+
+(21) Section 57 is amended as follows:
+
+“**57. Relevent evidence.** An application for authorization to submit relevant evidence in accordance with article 574 of the Code of Civil Procedure (chapter C-25.01) must be accompanied by the documentary evidence*, the affidavit or the written statement deemed to be sworn* that *the* applicant wishes to submit.”.
+
+(22) Section 63 is amended as follows:
+
+“**63. Commercial cases:** All cases where the initial application is based principally, in whole or in part, on any of the following legislative provisions is a commercial case and is tried in the Commercial Chamber:
+
+(Statutes of Canada)
+
+— The Bankruptcy and Insolvency Act (R.S.C. 1985, c. B-3);
+
+— The Companies and Creditors’ Arrangement Act (R.S.C. 1985, c. C-36);
+
+— The Winding-Up and Restructuring Act (R.S.C. 1985, c. W-11);
+
+— The Canada Business Corporations Act (R.S.C. 1985, c. C-44);
+
+— The Bank Act (S.C. 1991, c. 46);
+
+— The Farm Debt Mediation Act (S.C. 1997, c. 21);
+
+— The Commercial Arbitration Act (R.S.C. 1985, c. 17 (2nd Suppl.));
+
+(Statutes of Québec)
+
+— Code of Civil Procedure (chapter C-25.01):
+
+– articles 527, 645 and 647 (homologation of an arbitration award);
+
+– articles 507 and 508 (recognition and enforcement of an arbitration award made outside Québec);
+
+— Companies Act (chapter C-38);
+
+— Winding-Up Act (chapter L-4);
+
+— Securities Act (chapter V-1.1);
+
+— Act respecting the regulation of the financial sector (chapter E-6.1);
+
+— *Business Corporations Act (chapter S-31.1).*
+
+The same applies to any other case of a commercial nature, on a decision of the Chief Justice or a judge designated by the Chief Justice, made on initiative or on application.”.
+
+(23) Section 64 is revoked:
+
+“**64. Registry and jurisdictional numeration.** The Commercial Chamber has its own Registry and a distinct jurisdictional numeration. (*Revoked*).”.
+
+(24) Section 65 is replaced by the following:
+
+“**65. Compulsory indications.** A pleading in the Commercial Chamber must include, beneath the words “Superior Court”, the words “Commercial Chamber” and, beneath those latter words, a reference to the law that governs the proceeding.
+
+The back of an originating application must also include those words.”.
+
+(25) Sections 66 and 67 are revoked:
+
+“**66. Multiple cases within the same record.** Whenever there are multiple cases within the same record, each new originating application must bear the indication “New Case”. In subsequent pleadings relative to the new application, the sequential number given to the new application must be mentioned in the heading “Case sequence number ________” under the court number of the record. (*Revoked*).”;
+
+“**67. Exception.** If the volume of commercial cases in any judicial district is limited, the coordinating judge of the district or the judge designated by the coordinating judge may have commercial cases dealt with in the general court office and tried in the civil practice chamber. (*Revoked*).”.
+
+(26) This Regulation comes into force on the fifteenth day following the date of its publication in the *Gazette officielle du Québec*.

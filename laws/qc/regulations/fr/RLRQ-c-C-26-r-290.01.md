@@ -1,0 +1,88 @@
+---
+type: "Regulation"
+title: "Règlement sur la délivrance d’un permis de travailleur social de l’Ordre des travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec pour donner effet à l’arrangement conclu par l’Ordre en vertu de l’Entente entre le Québec et la France en matière de reconnaissance mutuelle des qualifications professionnelles"
+description: "Règlement (Québec), RLRQ c C-26, r 290.01."
+resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-26,%20r.%20290.01"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c C-26, r 290.01"
+document_date: "2023-07-20"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-26,%20r.%20290.01"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur la délivrance d’un permis de travailleur social de l’Ordre des travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec pour donner effet à l’arrangement conclu par l’Ordre en vertu de l’Entente entre le Québec et la France en matière de reconnaissance mutuelle des qualifications professionnelles
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-26,%20r.%20290.01) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c C-26, r 290.01*
+
+*Loi habilitante: Code des professions (chapitre C-26, a. 93, par. c.2)*
+
+*À jour au 2023-07-20*
+
+## I — DISPOSITION GÉNÉRALE
+
+**1** Le présent règlement a pour objet de déterminer les conditions et les modalités de délivrance d’un permis de travailleur social de l’Ordre des travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec nécessaires pour donner effet à l’arrangement en vue de la reconnaissance mutuelle des qualifications professionnelles conclu le 27 avril 2009 par l’Ordre avec le ministre du Travail, des Relations sociales, de la Famille, de la Solidarité et de la Ville français, tel que modifié par les avenants des 6 novembre 2009 et 22 avril 2022.
+
+## II — DÉLIVRANCE D’UN PERMIS
+
+**2** Pour obtenir un permis de travailleur social de l’Ordre des travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec, le demandeur doit satisfaire aux conditions suivantes:
+
+(1) avoir obtenu, sur le territoire de la France, le diplôme d’État français d’assistant de service social conformément au premier alinéa de l’article L-411 du Code de l’action sociale et des familles délivré à la suite d’une formation suivie en France;
+
+(2) avoir complété avec succès une formation d’appoint, d’au plus 17 heures, dispensée ou reconnue par l’Ordre, portant sur la législation, la réglementation et les aspects déontologiques liés à l’exercice de la profession de travailleur social au Québec;
+
+(3) faire parvenir à l’Ordre par voie électronique une demande de permis au moyen du formulaire fourni par l’Ordre, accompagnée des frais prescrits, des renseignements et des documents suivants:
+
+(a) une copie certifiée conforme d’un document avec photo faisant preuve de son identité;
+
+(b) une copie certifiée conforme de son titre de formation faisant preuve qu’il détient un titre de formation mentionné au paragraphe 1;
+
+(c) une preuve qu’il a rempli la condition prévue au paragraphe 2;
+
+(d) une copie certifiée conforme de toute sanction pénale, décision judiciaire relative à une infraction criminelle ou décision disciplinaire rendue à son encontre et, le cas échéant, une dénonciation du demandeur des instances en cours, à son encontre, pouvant donner lieu à une condamnation ou à une sanction;
+
+(e) une adresse de courrier électronique destinée aux communications de l’Ordre avec le demandeur.
+
+**3** L’Ordre accuse réception de la demande de permis dans les 30 jours suivant la date de sa réception et, le cas échéant, informe le demandeur de tout document manquant.
+
+**4** Le comité, formé à cette fin par le Conseil d’administration, décide si le demandeur a satisfait à toutes les conditions prévues à l’article 2 et notifie le demandeur de sa décision motivée, par écrit, dans les 60 jours suivant la date où le demandeur lui en fournit la preuve. Ce délai peut être prorogé de 30 jours.
+
+Si le comité décide que la condition prévue au paragraphe 2 de l’article 2 n’est pas remplie, il doit informer le demandeur de la condition à remplir dans le délai qu’il fixe ainsi que du recours en révision prévu à l’article 5.
+
+## III — RÉVISION
+
+**5** Le demandeur peut demander la révision de la décision au comité de révision formé par le Conseil d’administration. Pour ce faire, il doit transmettre au secrétaire de l’Ordre, dans les 30 jours suivant la date de la réception de la décision, une demande de révision, par écrit, dans laquelle il expose les motifs à son soutien.
+
+Le comité de révision est composé de personnes autres que les membres du comité visé à l’article 4.
+
+**6** Le secrétaire de l’Ordre informe, par écrit, le demandeur de la date, de l’heure et du lieu de la séance au cours de laquelle sa demande de révision sera examinée en lui transmettant, au moins 15 jours avant la date prévue pour cette séance, un avis à cet effet.
+
+**7** Le demandeur qui désire présenter des observations, par écrit, doit les faire parvenir au secrétaire de l’Ordre au moins 2 jours ouvrables avant la tenue de la séance au cours de laquelle sa demande de révision sera examinée.
+
+**8** Le comité examine la demande de révision et rend, par écrit, une décision motivée dans un délai de 60 jours suivant la date de la réception de la demande de révision.
+
+**9** La décision du comité de révision est finale et doit être transmise au demandeur dans les 30 jours suivant la date de la séance à laquelle elle a été rendue.
+
+## IV — DISPOSITIONS TRANSITOIRE ET FINALES
+
+**10** Une demande de permis reçue par l’Ordre avant la date d’entrée en vigueur du présent règlement est traitée en conformité avec le Règlement sur la délivrance d’un permis de travailleur social de l’Ordre des travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec pour donner effet à l’arrangement conclu par l’Ordre en vertu de l’Entente entre le Québec et la France en matière de reconnaissance mutuelle des qualifications professionnelles (chapitre C-26, r. 290).
+
+Les dispositions du présent règlement s’appliquent à une demande de permis reçue par l’Ordre avant sa date d’entrée en vigueur, avec les adaptations nécessaires, à un demandeur qui en fait la demande, par écrit, à l’Ordre.
+
+**11** Le présent règlement remplace le Règlement sur la délivrance d’un permis de travailleur social de l’Ordre des travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec pour donner effet à l’arrangement conclu par l’Ordre en vertu de l’Entente entre le Québec et la France en matière de reconnaissance mutuelle des qualifications professionnelles (chapitre C-26, r. 290).
+
+**12** (Omis).

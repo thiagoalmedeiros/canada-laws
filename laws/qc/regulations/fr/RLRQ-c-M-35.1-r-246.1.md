@@ -1,0 +1,60 @@
+---
+type: "Regulation"
+title: "Règlement sur les renseignements des producteurs qui vendent des agneaux lourds aux consommateurs"
+description: "Règlement (Québec), RLRQ c M-35.1, r 246.1."
+resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20246.1"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c M-35.1, r 246.1"
+document_date: "2022-03-30"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20246.1"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur les renseignements des producteurs qui vendent des agneaux lourds aux consommateurs
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/fr/document/rc/M-35.1,%20r.%20246.1) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c M-35.1, r 246.1*
+
+*Loi habilitante: Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1, a. 97)*
+
+*À jour au 2022-03-30*
+
+**1** Le présent règlement s’applique à un producteur qui vend un agneau lourd directement à un consommateur ou à un abattoir de proximité afin qu’il soit revendu à un consommateur déjà identifié par le producteur.
+
+On entend par:
+
+**abattoir de proximité**, un abattoir pour lequel est émis un permis d’abattoir de proximité conformément à la Loi sur les produits alimentaires (chapitre P-29);
+
+**agneau lourd**, un agneau ayant moins d’un an, moins de 2 incisives permanentes et un poids d’au moins 36,3 kg vivant ou 16,4 kg pour une carcasse chaude;
+
+**carcasse chaude**, la carcasse non refroidie d’un agneau lourd abattu dont on a enlevé la peau, la partie de la tête et du cou antérieure à la première vertèbre cervicale, la partie des membres postérieurs et antérieurs située en dessous de l’articulation tibiotarsienne, le système respiratoire, digestif, reproductif et urinaire, ainsi que les organes thoraciques et abdominaux, la partie membraneuse du diaphragme, les masses graisseuses du cœur et du scrotum ou du pis, la partie de la queue postérieure à la troisième vertèbre coccygienne et toute partie dont l’enlèvement est exigé pour des raisons d’ordre pathologique.
+
+**2** Le producteur doit consigner toute vente visée à l’article 1 dans un registre mensuel qui contient la date de la vente, le nom du consommateur, le numéro d’identification de chaque agneau vendu et le lieu d’abattage.
+
+Le producteur peut à cette fin remplir le registre des Éleveurs disponible sur leur site Internet.
+
+**3** Au plus tard le 15^e jour de chaque mois, le producteur doit transmettre aux Éleveurs une copie de son registre pour les ventes effectuées le mois précédent.
+
+**4** Les Éleveurs inscrivent dans leurs registres les informations transmises des producteurs au plus tard dans les 30 jours qui suivent leur réception.
+
+**5** Le producteur doit conserver pendant 2 ans et les remettre sur demande aux Éleveurs, toutes les preuves attestant d’une vente visée à l’article 1 et les reçus d’abattage, le cas échéant.
+
+**6** Les documents conservés doivent permettre de constater le type de vente, directe ou par l’entremise d’un abattoir de proximité, et d’identifier les nom et adresse du consommateur, de l’abattoir ainsi que le poids de l’animal vendu.
+
+**7** Malgré les articles 2 et 3, le producteur doit transmettre aux Éleveurs, au plus tard le 15 avril 2022, le détail de ses ventes à un consommateur pour les mois de janvier, février et mars 2022, soit la date de la vente, le nom du consommateur, le numéro d’identification de chaque agneau vendu et le lieu d’abattage.
+
+(Omis en partie).

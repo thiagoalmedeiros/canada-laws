@@ -2,11 +2,13 @@
 """Convert Justice Canada consolidated-law XML (justicecanada/laws-lois-xml) to Markdown.
 
 Usage:
-    python3 tools/federal_to_md.py <laws-lois-xml checkout> <output dir>
+    python3 tools/federal_to_md.py <laws-lois-xml checkout> <bundle dir, e.g. laws> [id]
 
-Writes <out>/federal/{en/acts,en/regulations,fr/lois,fr/reglements}/<id>.md
-plus an index README in each folder. File names match the source XML names,
-so cross-references between laws become relative Markdown links.
+Writes the "federal" module of the OKF bundle (see tools/okf.py):
+<bundle>/federal/{acts,regulations}/{en,fr}/<slug>.md, one OKF concept per law,
+plus index.md files, the module overview.md and the bundle-root index.md.
+Cross-references between laws become relative links; each concept links to its
+other-language version through the `translation` key.
 """
 import html
 import os
@@ -16,17 +18,29 @@ from concurrent.futures import ProcessPoolExecutor
 
 from lxml import etree
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import okf  # noqa: E402
+
+PRODUCER = "process:canada-laws-federal-converter"
+
 LIMS = "{http://justice.gc.ca/lims}"
 
 SETS = [
     ("en", "acts", "eng/acts", "https://laws-lois.justice.gc.ca/eng/acts/{id}/"),
     ("en", "regulations", "eng/regulations", "https://laws-lois.justice.gc.ca/eng/regulations/{id}/"),
-    ("fr", "lois", "fra/lois", "https://laws-lois.justice.gc.ca/fra/lois/{id}/"),
-    ("fr", "reglements", "fra/reglements", "https://laws-lois.justice.gc.ca/fra/reglements/{id}/"),
+    ("fr", "acts", "fra/lois", "https://laws-lois.justice.gc.ca/fra/lois/{id}/"),
+    ("fr", "regulations", "fra/reglements", "https://laws-lois.justice.gc.ca/fra/reglements/{id}/"),
 ]
+XML_URL = "https://github.com/justicecanada/laws-lois-xml/blob/main/{sub}/{file}"
 
-# Index of existing ids per (lang, kind) so links only point at files that exist.
+# (lang, kind) -> {source id: slug}, so links only point at files that exist.
 EXISTING = {}
+# (lang, kind, source id) -> source id of the other-language version
+TRANSLATION = {}
+
+
+def fed_slug(src_id):
+    return okf.slug(src_id)
 
 L10N = {
     "en": dict(history="History", repealed="Repealed", footnotes="Footnotes", recent="Recent amendments",
@@ -221,16 +235,16 @@ class Conv:
         if not link:
             return None
         if rtype == "act":
-            kind = "acts" if self.lang == "en" else "lois"
+            kind = "acts"
         elif rtype == "regulation":
-            kind = "regulations" if self.lang == "en" else "reglements"
+            kind = "regulations"
         else:
             return None
-        if link not in EXISTING.get((self.lang, kind), ()):
+        target = EXISTING.get((self.lang, kind), {}).get(link)
+        if not target:
             return None
-        fname = link + ".md"
-        rel = fname if kind == self.kind else f"../{kind}/{fname}"
-        return rel.replace(" ", "%20")
+        fname = target + ".md"
+        return fname if kind == self.kind else f"../../{kind}/{self.lang}/{fname}"
 
     # ---------------- blocks ----------------
     def label(self, e):
@@ -759,21 +773,65 @@ class Conv:
         if ident is not None:
             ch = ident.find("{*}Chapter")
             if ch is not None:
-                number = "; ".join(norm("".join(x.itertext())).strip() for x in ch if ln(x) in ("ConsolidatedNumber", "AnnualStatuteId"))
+                parts = []
+                for x in ch:
+                    if ln(x) == "ConsolidatedNumber":
+                        parts.append(norm("".join(x.itertext())).strip())
+                    elif ln(x) == "AnnualStatuteId":
+                        num = norm(x.findtext("{*}AnnualStatuteNumber") or "").strip()
+                        yr = norm("".join(y.text or "" for y in x.iter("{*}YYYY"))).strip()
+                        c = "c." if self.lang == "en" else "ch."
+                        parts.append(f"{yr}, {c} {num}" if yr and num else norm("".join(x.itertext())).strip())
+                number = "; ".join(p for p in parts if p)
             inum = ident.find("{*}InstrumentNumber")
             if inum is not None:
                 number = norm("".join(inum.itertext())).strip()
         cur = root.get(LIMS + "current-date") or ""
         last = root.get(LIMS + "lastAmendedDate") or ""
-        fm = ["---", f"title: {yaml_str(strip_md(title))}"]
-        if long_ and long_ != title:
-            fm.append(f"long_title: {yaml_str(strip_md(long_))}")
-        fm += [f"id: {yaml_str(self.id)}", f"number: {yaml_str(number)}",
-               f"jurisdiction: Canada (federal)", f"language: {self.lang}",
-               f"type: {'act' if n == 'Statute' else 'regulation'}",
-               f"current_to: {yaml_str(cur)}", f"last_amended: {yaml_str(last)}",
-               f"in_force: {yaml_str(root.get('in-force', 'yes'))}",
-               f"source: {src_url}", "---", ""]
+        is_act = n == "Statute"
+        in_force = root.get("in-force", "yes")
+        enabling = ""
+        if ident is not None and ident.find("{*}EnablingAuthority") is not None:
+            enabling = strip_md(self.inline(ident.find("{*}EnablingAuthority")).strip())
+        if is_act:
+            desc = strip_md(long_) if long_ and long_ != title else (
+                f"Federal Act {number}." if self.lang == "en" else f"Loi fédérale {number}.")
+        else:
+            if self.lang == "en":
+                desc = f"Federal regulation {number}" + (f", made under the {enabling.title() if enabling.isupper() else enabling}" if enabling else "") + "."
+            else:
+                desc = f"Règlement fédéral {number}" + (f", pris en vertu de : {enabling.title() if enabling.isupper() else enabling}" if enabling else "") + "."
+        other = TRANSLATION.get((self.lang, self.kind, self.id))
+        other_lang = "fr" if self.lang == "en" else "en"
+        other_slug = EXISTING.get((other_lang, self.kind), {}).get(other) if other else None
+        tags = ["federal", "act" if is_act else "regulation", self.lang]
+        if in_force == "no":
+            tags.append("not-in-force")
+        sub = {(l, k): sb for l, k, sb, _ in SETS}[(self.lang, self.kind)]
+        fm = okf.frontmatter([
+            ("type", "Act" if is_act else "Regulation"),
+            ("title", strip_md(title)),
+            ("description", desc),
+            ("resource", src_url),
+            ("tags", tags),
+            ("jurisdiction", "federal"),
+            ("language", self.lang),
+            ("number", number),
+            ("source_id", self.id),
+            ("current_to", cur),
+            ("last_amended", last),
+            ("in_force", in_force != "no"),
+            ("translation", f"../{other_lang}/{other_slug}.md" if other_slug else ""),
+            ("status", "stable"),
+            ("generated", okf.generated_yaml(PRODUCER, okf.iso_date(cur))),
+            ("sources", okf.sources_yaml([
+                {"id": "justice-xml", "resource": XML_URL.format(sub=sub, file=self.id + ".xml"),
+                 "title": "Justice Canada consolidated XML (laws-lois-xml)", "author": "org:justice-canada",
+                 "last_modified": okf.iso_date(cur)},
+                {"id": "justice-laws", "resource": src_url, "title": "Justice Laws Website",
+                 "author": "org:justice-canada", "last_modified": okf.iso_date(last)},
+            ])),
+        ]).split("\n")
         body = [f"# {title}", ""]
         if long_ and long_ != title:
             body += [f"*{long_}*", ""]
@@ -831,7 +889,7 @@ class Conv:
             body += ["---", ""]
             for key, txt in self.footnotes:
                 body += [f"[^{key}]: {txt or ' '}", ""]
-        text = "\n".join(fm + body)
+        text = "\n".join(fm + [""] + body)
         text = re.sub(r"\n{3,}", "\n\n", text)
         # Drop empty blockquote runs left by empty amended text.
         text = re.sub(r"(\n>\n)+(\n|$)", r"\n\2", text)
@@ -871,8 +929,9 @@ def date_str(d):
 
 
 def work(args):
-    path, out_path, lang, kind, src_url, existing = args
+    path, out_path, lang, kind, src_url, existing, translation = args
     EXISTING.update(existing)
+    TRANSLATION.update(translation)
     src_id = os.path.splitext(os.path.basename(path))[0]
     try:
         root = etree.parse(path, etree.XMLParser(huge_tree=True, remove_comments=True)).getroot()
@@ -880,9 +939,30 @@ def work(args):
         text, title, number, cur = conv.convert(root, src_url)
         with open(out_path, "w", encoding="utf-8") as f:
             f.write(text)
-        return (src_id, strip_md(title), number, cur, root.get("in-force", "yes"), None)
+        fm = okf.read_frontmatter(out_path)
+        return (src_id, strip_md(title), fm.get("description", ""), root.get("in-force", "yes"), None)
     except Exception as ex:  # keep going; report at the end
-        return (src_id, "", "", "", "", f"{type(ex).__name__}: {ex}")
+        return (src_id, "", "", "", f"{type(ex).__name__}: {ex}")
+
+
+def load_translations(src):
+    """Pair English and French versions using Justice Canada's lookup.xml."""
+    pairs = {}
+    # Acts share the same consolidated number (and file name) in both languages.
+    for f in os.listdir(os.path.join(src, "eng/acts")):
+        if f.endswith(".xml") and os.path.exists(os.path.join(src, "fra/lois", f)):
+            pairs[("en", "acts", f[:-4])] = f[:-4]
+            pairs[("fr", "acts", f[:-4])] = f[:-4]
+    # Regulations: <Regulation id=".." olid=".."><AlphaNumber>SOR/2007-151</AlphaNumber>
+    lk = etree.parse(os.path.join(src, "lookup", "lookup.xml")).getroot()
+    regs = {}
+    for r in lk.iter("{*}Regulation"):
+        an = r.findtext("{*}AlphaNumber") or ""
+        regs[r.get("id")] = (r.findtext("{*}Language"), an.replace("/", "-").replace(" ", "_"), r.get("olid"))
+    for rid, (lang, fid, olid) in regs.items():
+        if olid in regs:
+            pairs[(lang, "regulations", fid)] = regs[olid][1]
+    return pairs
 
 
 def main():
@@ -891,10 +971,15 @@ def main():
     existing = {}
     for lang, kind, sub, url in SETS:
         d = os.path.join(src, sub)
-        existing[(lang, kind)] = frozenset(os.path.splitext(f)[0] for f in os.listdir(d) if f.endswith(".xml"))
+        existing[(lang, kind)] = {f[:-4]: fed_slug(f[:-4]) for f in os.listdir(d) if f.endswith(".xml")}
+    translation = load_translations(src)
+    mdir = os.path.join(out, "federal")
     jobs = []
     for lang, kind, sub, url in SETS:
-        od = os.path.join(out, "federal", lang, kind)
+        od = os.path.join(mdir, kind, lang)
+        if not only and os.path.isdir(od):
+            import shutil
+            shutil.rmtree(od)  # full rebuild so repealed laws disappear
         os.makedirs(od, exist_ok=True)
         for f in sorted(os.listdir(os.path.join(src, sub))):
             if not f.endswith(".xml"):
@@ -902,21 +987,23 @@ def main():
             sid = f[:-4]
             if only and sid != only:
                 continue
-            jobs.append((os.path.join(src, sub, f), os.path.join(od, sid + ".md"), lang, kind,
-                         url.format(id=sid), existing))
+            jobs.append((os.path.join(src, sub, f), os.path.join(od, fed_slug(sid) + ".md"), lang, kind,
+                         url.format(id=sid), existing, translation))
     results = {}
     errors = []
     with ProcessPoolExecutor() as ex:
         for job, res in zip(jobs, ex.map(work, jobs, chunksize=16)):
-            key = (job[2], job[3])
+            key = (job[3], job[2])
             results.setdefault(key, []).append(res)
-            if res[5]:
-                errors.append((job[0], res[5]))
+            if res[4]:
+                errors.append((job[0], res[4]))
     if not only:
-        write_indexes(out, results)
+        write_indexes(out, results, existing)
     print(f"converted {len(jobs) - len(errors)} / {len(jobs)}")
     for p, e in errors[:50]:
         print("ERROR", p, e)
+    if errors:
+        sys.exit(1)
 
 
 def sort_key(title):
@@ -925,23 +1012,79 @@ def sort_key(title):
     return re.sub(r"^(an |a |the |l'|la |le |les )", "", t)
 
 
-def write_indexes(out, results):
-    for (lang, kind), rows in results.items():
-        t = L10N[lang]
-        name = {"acts": t["index_acts"], "regulations": t["index_regs"], "lois": t["index_acts"],
-                "reglements": t["index_regs"]}[kind]
-        rows = sorted((r for r in rows if not r[5]), key=lambda r: sort_key(r[1]))
-        lines = [f"# {name}", "", f"{len(rows)} documents.", "",
-                 "| Title | Number | Current to |" if lang == "en" else "| Titre | Numéro | À jour au |",
-                 "|---|---|---|"]
-        for sid, title, number, cur, inforce, _ in rows:
-            link = (sid + ".md").replace(" ", "%20")
-            title = title.replace("|", "\\|")
-            if inforce == "no":
-                title += f" *({t['notinforce']})*"
-            lines.append(f"| [{title}]({link}) | {number.replace('|', '/')} | {cur} |")
-        with open(os.path.join(out, "federal", lang, kind, "README.md"), "w", encoding="utf-8") as f:
-            f.write("\n".join(lines) + "\n")
+def write_indexes(out, results, existing):
+    mdir = os.path.join(out, "federal")
+    counts = {}
+    for (kind, lang), rows in results.items():
+        rows = sorted((r for r in rows if not r[4]), key=lambda r: sort_key(r[1]))
+        counts[(kind, lang)] = len(rows)
+        in_force = [r for r in rows if r[3] != "no"]
+        not_in_force = [r for r in rows if r[3] == "no"]
+        ent = lambda r: okf.index_entry(r[1], existing[(lang, kind)][r[0]] + ".md", r[2])
+        heading = {("acts", "en"): "Federal Acts", ("acts", "fr"): "Lois fédérales",
+                   ("regulations", "en"): "Federal Regulations", ("regulations", "fr"): "Règlements fédéraux"}[(kind, lang)]
+        sections = [(heading, [ent(r) for r in in_force])]
+        if not_in_force:
+            sections.append(("Not in force" if lang == "en" else "Non en vigueur", [ent(r) for r in not_in_force]))
+        okf.write_index(os.path.join(mdir, kind, lang), sections)
+    write_overview(mdir, counts)
+    okf.write_module_index(out, "federal", counts)
+    okf.write_root_index(out)
+
+
+def write_overview(mdir, counts):
+    acts = counts.get(("acts", "en"), 0)
+    regs = counts.get(("regulations", "en"), 0)
+    fm = okf.frontmatter([
+        ("type", "Jurisdiction"),
+        ("title", "Canada (federal)"),
+        ("description", f"{acts} consolidated federal Acts and {regs} regulations, in English and French, "
+                        "converted from Justice Canada's official XML."),
+        ("resource", "https://laws-lois.justice.gc.ca/"),
+        ("tags", ["federal", "jurisdiction"]),
+        ("jurisdiction", "federal"),
+        ("acts_en", acts), ("acts_fr", counts.get(("acts", "fr"), 0)),
+        ("regulations_en", regs), ("regulations_fr", counts.get(("regulations", "fr"), 0)),
+        ("status", "stable"),
+        ("generated", okf.generated_yaml(PRODUCER, "")),
+        ("sources", okf.sources_yaml([
+            {"id": "justice-xml", "resource": "https://github.com/justicecanada/laws-lois-xml",
+             "title": "Justice Canada consolidated XML (laws-lois-xml)", "author": "org:justice-canada"},
+            {"id": "reproduction-order", "resource": "https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/",
+             "title": "Reproduction of Federal Law Order (SI/97-5)", "author": "org:justice-canada"},
+        ])),
+    ])
+    body = f"""
+# Canada (federal)
+
+The consolidated Acts and regulations of Canada, as published by the Department of Justice on the
+[Justice Laws Website](https://laws-lois.justice.gc.ca/). Each concept is converted from the official
+XML in [justicecanada/laws-lois-xml](https://github.com/justicecanada/laws-lois-xml).[^justice-xml]
+
+| | English | Français |
+|---|---|---|
+| Acts / Lois | [{acts}](acts/en/) | [{counts.get(("acts", "fr"), 0)}](acts/fr/) |
+| Regulations / Règlements | [{regs}](regulations/en/) | [{counts.get(("regulations", "fr"), 0)}](regulations/fr/) |
+
+# Concepts
+
+Every law is one concept (`type: Act` or `type: Regulation`) with its official URL in `resource`,
+its consolidation date in `current_to`, and a `translation` link to the other-language version.
+File names follow the official identifiers (`C-46` is the Criminal Code; `SOR-98-106` the Federal
+Courts Rules; `C.R.C., c. 870` becomes `CRC-c-870`); the original identifier is kept in `source_id`.
+
+# Terms of use
+
+© His Majesty the King in Right of Canada. Reproduced under the Reproduction of Federal Law
+Order,[^reproduction-order] which allows anyone to reproduce federal law without charge or
+permission, provided it is reproduced accurately and not represented as an official version.
+These are unofficial copies; only the Justice Laws Website versions are official.
+
+[^justice-xml]: Justice Canada consolidated XML (laws-lois-xml)
+[^reproduction-order]: Reproduction of Federal Law Order (SI/97-5)
+"""
+    with open(os.path.join(mdir, "overview.md"), "w", encoding="utf-8") as f:
+        f.write(fm + body)
 
 
 if __name__ == "__main__":

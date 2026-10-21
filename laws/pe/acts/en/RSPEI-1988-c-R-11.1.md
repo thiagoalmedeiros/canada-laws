@@ -1,0 +1,212 @@
+---
+type: "Act"
+title: "Regulatory Accountability and Reporting Act"
+description: "Prince Edward Island Act, RSPEI 1988, c R-11.1."
+resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/R-11-1%20-Regulatory%20Accountability%20And%20Reporting%20Act.pdf"
+tags: ["pe", "act", "en"]
+jurisdiction: "pe"
+language: "en"
+citation: "RSPEI 1988, c R-11.1"
+document_date: "2016-05-13"
+upstream_license: "See upstream license: https://perma.cc/V9XJ-HTR4 © Government of Prince Edward Island. The consolidated statutes and regulations and the annual statutes from Prince Edward Island were updated by the A2AJ (Access to Algorithmic Justice project) on August 15, 2026 from the Legislative Counsel Office website (https://www.princeedwardisland.ca/en/legislation), maintained by the Government of Prince Edward Island. Copyright: Reproduction of Acts and regulations available in the A2AJ Canadian Laws dataset is governed by the Prince Edward Island's government copyright policy: https://www.princeedwardisland.ca/en/information/executive-council-office/website-disclaimer-and-copyright-policy. NOTE: This is an unofficial reproduction of Prince Edward Island legislation, made without endorsement or affiliation by the Government of Prince Edward Island. The official versions should be consulted for all purposes of interpreting and applying the law. Reproduced with the permission of the Legislative Counsel Office of Prince Edward Island (granted by email on July 20, 2026)."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-08-15T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/R-11-1%20-Regulatory%20Accountability%20And%20Reporting%20Act.pdf"
+    title: "Government of Prince Edward Island: official text"
+    author: "org:pe-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-PE/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-08-15T00:00:00Z"
+---
+
+# Regulatory Accountability and Reporting Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Prince Edward Island. Not endorsed by or affiliated with the Government of Prince Edward Island. Text obtained from the [official source](https://www.princeedwardisland.ca/sites/default/files/legislation/R-11-1%20-Regulatory%20Accountability%20And%20Reporting%20Act.pdf) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RSPEI 1988, c R-11.1
+
+### Preamble
+
+WHEREAS the Government of Prince Edward Island recognizes that the climate for economic
+
+growth and prosperity in the Province, including the productivity of its private and public sectors, is
+
+directly affected by the efficiency, transparency and accountability of regulation and the quality of
+
+regulatory governance;
+
+AND WHEREAS the Government of Prince Edward Island recognizes that regulation is essential to
+
+protect interests such as public health and safety, the environment, workers and consumers;
+
+AND WHEREAS the Government of Prince Edward Island endeavours to ensure that regulations are
+
+enacted only after full identification and examination of their impact and that they are not more broad,
+
+intrusive, complex or costly to citizens, businesses and other organizations than is necessary;
+
+AND WHEREAS the Government of Prince Edward Island is committed to improving the efficiency,
+
+transparency and accountability of regulation;
+
+AND WHEREAS the Governments of Nova Scotia, New Brunswick and Prince Edward Island have
+
+entered into an agreement dated November 6, 2015, under which they have established and become
+
+partners in a Joint Office of Regulatory Reform and Service Effectiveness, comprising Nova Scotia’s
+
+Office of Regulatory Affairs and Service Effectiveness and its counterparts in New Brunswick and
+
+Prince Edward Island;
+
+AND WHEREAS the purpose of the Joint Office is to take action on opportunities for regional
+
+regulatory reform among the governments of the three provinces and such other governments as may
+
+from time to time agree to become partners in the Joint Office;
+
+### Definitions
+
+1. In this Act,
+
+(a) “Charter” means the Charter of Governing Principles for Regulation established
+
+under this Act;
+
+(b) “Joint Office” means the Joint Office of Regulatory Affairs and Service
+
+Effectiveness established by agreement between the Government and the
+
+Governments of New Brunswick and Nova Scotia, and with such other governments
+
+as may from time to time partner in it;
+
+(c) “Minister” means the Premier of Prince Edward Island;
+
+(d) “regulation” includes a statutory, regulatory, procedural or administrative rule or
+
+other requirement governing citizens, businesses or other organizations;
+
+(e) “regulatory governance” includes the principles, processes, procedures and
+
+practices by which regulation is developed, assessed, proposed, scrutinized, measured
+
+and monitored for impact and publicly reported on.
+
+### Charter
+
+2.(1) The Minister may adopt a Charter of Governing Principles for Regulation to promote sound
+
+regulatory governance.
+
+### Principles to be included
+
+(2) The Charter shall include principles that the Minister believes, based on the advice of the
+
+Joint Office, will further the purpose of this Act and reflect best practice in regulatory
+
+governance.
+
+### Duties of Office
+
+3.(1) The Minister shall oversee, monitor and, in accordance with this Act, report on the
+
+application of the Charter.
+
+### Idem
+
+(2) The Joint Office shall advise and assist the Minister and departments, offices and agencies of
+
+the Government in achieving the purpose of this Act and the Charter.
+
+### Annual report
+
+4.(1) The Minister shall, on or before June 30th of each year, make available to the public an
+
+annual report with respect to the work of the Joint Office, including
+
+(a) the progress made in improving regulation and reducing regulatory burden; and
+
+(b) the goals and objectives of the Joint Office for the coming year.
+
+### Report by Joint Office
+
+(2) The report may be presented as part of a report by the Joint Office on regional regulatory
+
+reform.
+
+### Regulations
+
+5. The Lieutenant Governor in Council may make regulations
+
+(a) respecting the form, publication and contents of the annual report referred to in
+
+section 4;
+
+(b) respecting principles, practices, procedures, measures, targets, goals or other
+
+requirements, the adoption of which, in the opinion of the Minister, is necessary or
+
+desirable for ensuring the efficiency, accountability or transparency of regulation and
+
+good regulatory practice and governance;
+
+(c) classifying regulations and prescribing different requirements by class for the
+
+purposes of this Act;
+
+(d) requiring that a class or classes of regulations proposed to be adopted and affecting
+
+businesses come into force on a common designated date or dates each year;
+
+(e) designating a date or dates for the purposes of clause (d);
+
+(f) excluding any class, form or type of regulation from the scope of application of this
+
+Act;
+
+(g) defining any word or expression used but not defined in this Act;
+
+(h) further defining any word or expression defined in this Act; and
+
+(i) any other matter or thing that the Lieutenant Governor in Council considers
+
+necessary or advisable to carry out effectively the intent and purpose of this Act.
+
+### No right of action
+
+6. For greater certainty, nothing in this Act
+
+(a) creates a right of action; or
+
+(b) entitles a person to commence a legal proceeding or affects any legal proceeding.
+
+### Failure to comply, effect
+
+7. No regulation is of no legal force or effect by reason only that it does not comply with the
+
+principles set out in this Act or the Charter.
+
+### Review
+
+8.(1) Within three years of this Act coming into force, a comprehensive review of the Joint Office
+
+and the provisions and operation of this Act shall be undertaken as determined by the
+
+Minister.
+
+### Minister’s report
+
+(2) The Minister shall, within a year after the review is undertaken or within any further time
+
+authorized by the Legislative Assembly, submit a report on the review to the Legislative
+
+Assembly, including a statement of any changes that the Minister recommends.
+
+### Expiration of Act
+
+9. This Act ceases to have effect on the fifth anniversary of its coming into force.

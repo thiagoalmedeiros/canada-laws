@@ -1,0 +1,136 @@
+---
+type: "Regulation"
+title: "Règlement sur les normes d’équivalence de diplôme et de formation aux fins de la délivrance d’un permis de l’Ordre professionnel des urbanistes du Québec"
+description: "Règlement (Québec), RLRQ c C-26, r 307.01."
+resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-26,%20r.%20307.01"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c C-26, r 307.01"
+document_date: "2026-03-19"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-26,%20r.%20307.01"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur les normes d’équivalence de diplôme et de formation aux fins de la délivrance d’un permis de l’Ordre professionnel des urbanistes du Québec
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-26,%20r.%20307.01) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c C-26, r 307.01*
+
+*Loi habilitante: Code des professions (chapitre C-26, a. 93, par. c et c.1)*
+
+*À jour au 2026-03-19*
+
+## I — DISPOSITIONS GÉNÉRALES
+
+**1** Dans le présent règlement, on entend par:
+
+**crédit** unité représentant 45 heures d’activités d’apprentissage planifiées, incluant les heures de travail personnel généralement reconnues nécessaires à l’atteinte des objectifs de ces activités d’apprentissage;
+
+**diplôme donnant ouverture au permis** diplôme déterminé par l’article 1.16 du Règlement sur les diplômes délivrés par les établissements d’enseignement désignés qui donnent droit aux permis et aux certificats de spécialistes des ordres professionnels (chapitre C 26, r. 2) et qui donne ouverture au permis de l’Ordre professionnel des urbanistes du Québec.
+
+## II — NORMES D’ÉQUIVALENCE DE DIPLÔME
+
+**2** Une personne titulaire d’un diplôme délivré par un établissement universitaire situé hors du Québec dont le programme est, ou était au moment de sa délivrance, accrédité par les organismes suivants bénéficie d’une équivalence de diplôme:
+
+(1) le Conseil des normes professionnelles pour la profession de l’urbanisme au Canada;
+
+(2) l’Association pour la Promotion de l’Enseignement et de la Recherche en Aménagement et Urbanisme.
+
+**3** Une personne titulaire d’un diplôme délivré par un établissement d’enseignement universitaire situé hors du Québec et qui n’est pas visé par l’article 2 bénéficie d’une équivalence de diplôme si elle démontre que son diplôme a été obtenu au terme d’un programme d’études universitaires au moins équivalent au diplôme donnant ouverture au permis d’urbaniste.
+
+Ce programme doit comporter un minimum de 90 crédits, s’il s’agit d’études de premier cycle, ou de 45 crédits, s’il s’agit d’études de deuxième cycle, dont au moins 42 crédits doivent porter sur les matières suivantes et être répartis comme suit:
+
+(1) 12 crédits sur les théories de la planification et des sciences sociales;
+
+(2) 3 crédits sur le droit de l’urbanisme qui porte sur des concepts, règles et institutions juridiques substantiellement semblables à ceux prévalant au Québec;
+
+(3) 3 crédits sur l’économie et le développement du territoire;
+
+(4) 9 crédits sur les méthodes, pratiques et instruments de l’urbanisme;
+
+(5) 6 crédits sur les outils et les techniques de communication et de représentation de l’espace;
+
+(6) 9 crédits sur les enjeux contemporains de l’urbanisme.
+
+**4** Lorsque le diplôme qui fait l’objet d’une demande de reconnaissance d’équivalence atteste de compétences qui ne correspondent pas ou correspondent partiellement à ce qui est enseigné dans un programme d’études conduisant à l’obtention d’un diplôme donnant ouverture au permis, la personne peut bénéficier d’une équivalence de la formation conformément à l’article 5.
+
+## III — NORMES D’ÉQUIVALENCE DE LA FORMATION
+
+**5** Une personne bénéficie d’une équivalence de la formation si elle démontre qu’elle possède, au terme d’une formation et d’une expérience de travail pertinentes à l’exercice de la profession d’urbaniste, des compétences équivalentes à celles acquises par la personne titulaire d’un diplôme donnant ouverture au permis.
+
+Dans la démonstration de l’équivalence de la formation d’une personne, il est tenu compte de l’ensemble des facteurs suivants:
+
+(1) le fait qu’elle détienne un ou plusieurs diplômes en urbanisme ou dans un domaine connexe;
+
+(2) la nature et le contenu des cours, des stages de formation, des travaux pratiques et des autres activités de formation ou de perfectionnement qu’elle a suivies;
+
+(3) la nature et la durée de son expérience de travail pertinente.
+
+## IV — PROCÉDURE DE RECONNAISSANCE DE L’ÉQUIVALENCE
+
+**6** La personne qui veut faire reconnaître une équivalence de diplôme ou une équivalence de la formation transmet sa candidature à l’Ordre sur le formulaire établi par ce dernier accompagné des frais prescrits et y joint les documents et les renseignements suivants au soutien de sa demande:
+
+(1) une copie certifiée conforme des diplômes dont elle est titulaire ou d’une attestation de leur obtention;
+
+(2) une copie certifiée conforme de ses relevés de notes comportant les résultats obtenus;
+
+(3) son dossier scolaire incluant la description des cours et des stages suivis et le nombre d’heures qui s’y rapportent;
+
+(4) le cas échéant, une attestation de l’établissement d’enseignement ou de l’organisme en autorité de sa participation à tout stage de formation et à tout travail pratique et de leur réussite;
+
+(5) le cas échéant, une attestation et une description de son expérience pertinente de travail;
+
+(6) le cas échéant, tout autre document ou renseignement relatif aux facteurs dont il est tenu compte en application de l’article 5.
+
+**7** Les documents transmis à l’appui de la demande d’équivalence de diplôme ou de formation qui ne sont pas rédigés en français doivent être accompagnés de leur traduction en français. Les documents rédigés ou traduits en anglais sont acceptés. La traduction doit être certifiée conforme à l’original par un traducteur membre de l’Ordre des traducteurs, terminologues et interprètes agréés du Québec ou, s’il n’est pas du Québec, reconnu par l’autorité compétente de sa province ou de son pays.
+
+**8** Le secrétaire de l’Ordre accuse réception de la demande de reconnaissance d’équivalence de diplôme ou de formation dans les 30 jours suivant la date de sa réception et, le cas échéant, informe le candidat de tout document ou renseignement visé à l’article 6 qui est manquant.
+
+**9** La demande de reconnaissance d’une équivalence est évaluée par un comité formé à cette fin par le Conseil d’administration, en application du paragraphe 2° de l’article 86.0.1 du Code des professions (chapitre C 26).
+
+Malgré l’obtention d’un diplôme par la personne qui veut faire reconnaître une équivalence de diplôme ou de la formation, seuls les cours, stages, travaux pratiques et autres activités de formation ou de perfectionnement qu’elle a réussis sont tenus en compte par le comité dans l’étude du dossier.
+
+Aux fins de rendre sa décision, le comité peut demander à la personne candidate de se présenter à une entrevue.
+
+**10** Dans les 90 jours qui suivent la date de la réception de la demande de reconnaissance d’une équivalence, le comité prend l’une des décisions suivantes:
+
+(1) il reconnaît l’équivalence de diplôme ou de la formation;
+
+(2) il reconnaît partiellement l’équivalence de la formation; dans ce cas, le comité identifie les matières manquantes et, afin de reconnaître une telle équivalence, détermine les cours, les programmes d’études, les stages, les activités de formation ou les examens que la personne candidate devra compléter avec succès dans le délai fixé;
+
+(3) il refuse de reconnaître une équivalence de diplôme ou de la formation.
+
+**11** Le comité informe par écrit la personne candidate de sa décision dans les 15 jours de la date où elle a été rendue.
+
+Lorsque le comité refuse de reconnaître l’équivalence demandée ou reconnaît partiellement l’équivalence de formation, il doit, par la même occasion, informer la personne candidate de son droit de demander une révision de la décision conformément à l’article 12.
+
+**12** La personne candidate qui est informée de la décision du comité de refuser l’équivalence demandée ou de la reconnaître partiellement peut en demander la révision à la condition qu’elle en fasse la demande par écrit au secrétaire de l’Ordre, exposant les motifs qui la justifient, dans les 30 jours suivant la réception de cette décision.
+
+La révision est effectuée dans les 30 jours suivant la date de réception de cette demande par un comité de révision, formé par le Conseil d’administration en application du paragraphe 2° de l’article 86.0.1 du Code des professions (chapitre C-26), et composé de personnes autres que celles composant le comité visé à l’article 9.
+
+Le comité de révision doit, avant de prendre une décision, informer la personne candidate de la date à laquelle il tiendra la réunion et de son droit d’y présenter ses observations au moins 10 jours avant la date de cette réunion. La personne candidate peut faire parvenir ses observations écrites en tout temps avant la date prévue pour cette réunion.
+
+La personne candidate qui désire plutôt être présente pour faire ses observations doit en informer le secrétaire au moins 5 jours avant la date prévue pour la réunion.
+
+La décision du comité de révision doit être transmise par écrit à la personne candidate dans les 30 jours suivant la date de cette réunion. La décision est définitive.
+
+## V — DISPOSITIONS TRANSITOIRES ET FINALES
+
+**13** Une demande de reconnaissance d’équivalence reçue par l’Ordre avant la date d’entrée en vigueur du présent règlement mais dont l’évaluation n’a pas commencé est traitée conformément au présent règlement.
+
+**14** Le présent règlement remplace le Règlement sur les normes d’équivalence de diplôme et de formation aux fins de la délivrance d’un permis de l’Ordre professionnel des urbanistes du Québec (chapitre C 26, r. 307).
+
+**15** (Omis).

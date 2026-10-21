@@ -1,0 +1,1228 @@
+---
+type: "Act"
+title: "Reviewable Transactions Act"
+description: "Prince Edward Island Act, RSPEI 1988, c R-14.1."
+resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/r-14-1-_reviewable_transactions_act.pdf"
+tags: ["pe", "act", "en"]
+jurisdiction: "pe"
+language: "en"
+citation: "RSPEI 1988, c R-14.1"
+document_date: "2024-04-23"
+upstream_license: "See upstream license: https://perma.cc/V9XJ-HTR4 © Government of Prince Edward Island. The consolidated statutes and regulations and the annual statutes from Prince Edward Island were updated by the A2AJ (Access to Algorithmic Justice project) on August 15, 2026 from the Legislative Counsel Office website (https://www.princeedwardisland.ca/en/legislation), maintained by the Government of Prince Edward Island. Copyright: Reproduction of Acts and regulations available in the A2AJ Canadian Laws dataset is governed by the Prince Edward Island's government copyright policy: https://www.princeedwardisland.ca/en/information/executive-council-office/website-disclaimer-and-copyright-policy. NOTE: This is an unofficial reproduction of Prince Edward Island legislation, made without endorsement or affiliation by the Government of Prince Edward Island. The official versions should be consulted for all purposes of interpreting and applying the law. Reproduced with the permission of the Legislative Counsel Office of Prince Edward Island (granted by email on July 20, 2026)."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-08-15T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/r-14-1-_reviewable_transactions_act.pdf"
+    title: "Government of Prince Edward Island: official text"
+    author: "org:pe-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-PE/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-08-15T00:00:00Z"
+---
+
+# Reviewable Transactions Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Prince Edward Island. Not endorsed by or affiliated with the Government of Prince Edward Island. Text obtained from the [official source](https://www.princeedwardisland.ca/sites/default/files/legislation/r-14-1-_reviewable_transactions_act.pdf) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RSPEI 1988, c R-14.1
+
+## PART 1 - INTERPRETATION AND APPLICATION
+
+### Definitions
+
+1.(1) In this Act,
+
+(a) “claim” means the right to satisfaction of an obligation owed by a debtor, whether the
+
+obligation is
+
+(i) liquidated or unliquidated,
+
+(ii) absolute or contingent,
+
+(iii) certain or disputed, or
+
+(iv) payable immediately or at a future time;
+
+(b) “confer” includes to create, grant, provide or transfer;
+
+(c) “court” means, unless the context requires otherwise, the Supreme Court;
+
+(d) “creditor” means, subject to section 13, a person who holds a claim;
+
+(e) “creditor transaction” means a transaction in which a debtor directly or indirectly
+
+benefits a creditor by satisfying a claim in whole or in part or by providing security for
+
+the satisfaction of a claim in whole or in part, but does not include
+
+(i) a transaction under which a debtor satisfies an obligation that is secured by a
+
+security interest in property of the debtor to the extent that the security interest
+
+has priority over the rights of unsecured creditors of the debtor,
+
+(ii) a transaction under which a debtor confers an interest in property as security
+
+for new value advanced by the transferee,
+
+(iii) a transaction under which a debtor gives a security interest in property in
+
+substitution for another security interest in property that is of equivalent value
+
+and that was given to secure the same obligation, or
+
+(iv) a transaction effected by obtaining or enforcing a court order, or by operation
+
+of law;
+
+(f) “exempt property” means property that is exempt by law from seizure, attachment or
+
+any other measure to enforce a money judgment;
+
+(g) “insolvent”, with respect to a person, means that
+
+(i) the person is for any reason unable to meet the person’s obligations as they
+
+generally become payable,
+
+(ii) the person has ceased paying for the person’s obligations in the ordinary course
+
+of business as they generally become payable, or
+
+(iii) the aggregate of the person’s property, other than exempt property, is not, at
+
+fair valuation, sufficient to enable payment of all the person’s obligations,
+
+whether or not those obligations are currently payable;
+
+(h) “security interest” means an interest in property that secures payment or performance
+
+of an obligation and, in sections 3 and 4, includes an interest that is a security interest
+
+under clause 1(1)(rr) of the Personal Property Security Act R.S.P.E.I. 1988, Cap. P-
+
+3.1;
+
+(i) “separation agreement” means an agreement between a debtor and a person who is
+
+or was the debtor’s spouse that
+
+(i) results from or relates to the breakdown of the parties’ relationship, and
+
+(ii) provides for the division of property and financial resources or for support of
+
+the person who is or was the debtor’s spouse or for a member of the debtor’s
+
+family;
+
+(j) “spousal transaction” means a transaction in which the parties are or were spouses
+
+and that is effected by
+
+(i) a separation agreement, or
+
+(ii) a court order for the division of property and financial resources or for support
+
+resulting from the breakdown of the parties’ relationship;
+
+(k) “spouse” means a person who, in respect of another person,
+
+(i) is married to the other person,
+
+(ii) has entered into a marriage with the other person that is voidable or void, or
+
+(iii) is not married to the other person but is cohabitating with the other person in
+
+a conjugal relationship and has done so continuously for a period of at least
+
+three years, or
+
+(iv) is not married to the other person but is cohabiting with the other person in a
+
+conjugal relationship and together they are the natural or adoptive parents of a
+
+child;
+
+(l) “transaction” means the conferral of a benefit and includes
+
+(i) the conferral of an interest in existing property or property to be acquired in
+
+the future, whether or not the property is exempt property in the hands of the
+
+transferor, including a settlement on the transferor as a trustee under a trust,
+
+(ii) the provision of services,
+
+(iii) the payment of money,
+
+(iv) the release of an interest or obligation,
+
+(v) the conferral of a security interest, charge, lien or encumbrance,
+
+(vi) the conferral of a licence, quota, right to use or right to payment,
+
+(vii) the designation of a beneficiary,
+
+(viii) the voluntary purchase or redemption of its shares by a corporation or the
+
+voluntary payment of a dividend by a corporation, other than a dividend in the
+
+form of its shares,
+
+(ix) the refusal by a debtor to act under a power of appointment to confer an interest
+
+in property on the debtor,
+
+(x) the disclaimer of an interest in property, whether before or after the interest
+
+has vested,
+
+(xi) the creation or augmentation of a security interest held by a creditor in property
+
+of a debtor as a result of the satisfaction of an obligation owed to another
+
+person that is secured by a security interest in the same property where
+
+(A) an unsecured claim of the creditor in that property becomes secured in
+
+whole or in part, or
+
+(B) a claim of the creditor in that property that was unsecured in part
+
+becomes secured in whole or to a greater extent,
+
+(xii) the satisfaction of an obligation owed by a person other than the debtor,
+
+(xiii) the conferral of a benefit by a court order or by operation of law, and
+
+(xiv) the assumption of an obligation to do or to bring about in the future any of the
+
+events or actions referred to in subclauses (i) to (xiii);
+
+(m) “transferee” means a person who benefits under a transaction and includes a creditor
+
+who benefits under a creditor transaction.
+
+### Nature of transaction
+
+(2) A transaction may be a single event or may comprise a series of closely related events,
+
+including the provision of services over time.
+
+### Date of transaction
+
+(3) The date of a transaction is the date on which a benefit is conferred and, if the transaction
+
+comprises a series of closely related events, the date when the events are substantially
+
+completed.
+
+### Knowledge of relevant information
+
+(4) For the purposes of this Act,
+
+(a) an individual has knowledge when the relevant information is acquired by the
+
+individual under circumstances in which a reasonable person would take cognizance
+
+of it;
+
+(b) a partnership has knowledge when the relevant information comes to the attention of
+
+one of the general partners or a person having control or management of the partnership
+
+business under circumstances in which a reasonable person would take cognizance of
+
+it;
+
+(c) a corporation has knowledge when
+
+(i) the relevant information comes to the attention of
+
+(A) a managing director or officer of the corporation under circumstances
+
+in which a reasonable person would take cognizance of it, or
+
+(B) a senior employee of the corporation with responsibility for the matter
+
+to which the information relates under circumstances in which a
+
+reasonable person would take cognizance of it, or
+
+(ii) the relevant information in writing is delivered to the corporation’s registered
+
+office or attorney for service;
+
+(d) the members of an association have knowledge when the relevant information comes
+
+to the attention of
+
+(i) a managing director or officer of the association under circumstances in which
+
+a reasonable person would take cognizance of it,
+
+(ii) a senior employee of the association with responsibility for matters to which
+
+the information relates under circumstances in which a reasonable person
+
+would take cognizance of it, or
+
+(iii) all members under circumstances in which a reasonable person would take
+
+cognizance of it; and
+
+(e) a government has knowledge when the relevant information comes to the attention of
+
+a senior employee of the government with responsibility for the matter to which the
+
+information relates under circumstances in which a reasonable person would take
+
+cognizance of it.
+
+### Applications to Supreme Court
+
+2. All applications for relief under this Act shall be made to the Supreme Court.
+
+### Application by creditor - claim in excess of security interest
+
+3.(1) A creditor whose claim is secured by a security interest in property of the debtor may apply for
+
+an order for relief under this Act but only with respect to the amount of the claim, if any, that
+
+exceeds the value of the property against which the security interest may be enforced.
+
+### Effect of other Act on security interest
+
+(2) Where a debtor transfers property that is subject to a security interest and another Act provides
+
+that the security interest is subordinated to the interest of the transferee or that the transferee
+
+takes the property free of the security interest,
+
+(a) the property is not to be considered property against which the security interest may be
+
+enforced for the purposes of subsection (1) in proceedings relating to that transfer or
+
+to another transaction; and
+
+(b) where an order for relief is made under this Act in relation to the property transferred,
+
+whether in proceedings by the creditor or by another person, the creditor may not assert
+
+a claim to the property on the basis of the security interest.
+
+### Application may be made
+
+4.(1) An application for an order for relief may be made in relation to a transaction that involves
+
+property that is subject to a security interest, judgment or writ of execution even if under
+
+another Act
+
+(a) the security interest, judgment or writ of execution is subordinated to the interest of the
+
+transferee; or
+
+(b) the transferee takes the property free of the security interest, judgment or writ of
+
+execution.
+
+### Order for relief - condition
+
+(2) Where a transaction involves property that is subject to a security interest at the date of the
+
+transaction, an order for relief may be made only if the transaction reduces the amount or value
+
+of property that would have been available to unsecured creditors under judgment enforcement
+
+measures if the transaction had not occurred.
+
+### Factors in determination
+
+(3) In determining under subsection (2) whether property would have been available to unsecured
+
+creditors under judgment enforcement measures if the transaction had not occurred,
+
+(a) no regard is to be had to whether the property is or was exempt property; and
+
+(b) where the security interest is subordinated to the interest of the transferee or the
+
+transferee takes free of the security interest, the security interest is to be considered
+
+unenforceable against unsecured creditors.
+
+### Application in conjunction with proceedings
+
+5.(1) An application for an order for relief under this Act may be made whether or not the person
+
+who applies for relief has commenced proceedings or obtained a judgment against the debtor
+
+in relation to a claim.
+
+### Judgment against debtor necessary
+
+(2) A person who applies for an order for relief under this Act is entitled to a benefit under an order
+
+for relief only if a judgment has been granted against the debtor on the person’s claim.
+
+### Proceedings without judgment
+
+(3) Where a person does not have a judgment against the debtor in relation to a claim,
+
+(a) the person may make the debtor a defendant in the proceedings and the court may
+
+(i) grant judgment against the debtor for the amount of the claim that is proven in
+
+the proceedings or that is not contested by the debtor, or
+
+(ii) direct a separate trial to determine the validity and amount of the claim; and
+
+(b) the court may
+
+(i) stay the proceedings or suspend the operation of an order for relief until a
+
+judgment is obtained either as part of the proceedings related to the application
+
+for relief or in another action, and
+
+(ii) make any supplementary orders that the court considers appropriate.
+
+## PART 2 - TRANSACTIONS AT UNDERVALUE AND FRAUDULENT
+
+## TRANSACTIONS
+
+### Who may apply
+
+6.(1) An application for an order for relief under this Part may be made by
+
+(a) a person who holds a claim that existed at the date of the transaction that is the subject
+
+of the application for relief; and
+
+(b) in the case of relief claimed on the grounds of relief referred to in clause 7(1)(b) or (c),
+
+a person who holds a claim that arose after the date of the transaction that is the subject
+
+of the application for relief.
+
+### Interpretation
+
+(2) For the purposes of permitting an application for relief to be made under this section,
+
+(a) a person who has commenced legal proceedings seeking an interest in the property of
+
+a debtor or an order for the payment of money against a debtor is to be regarded as a
+
+person who holds a claim; and
+
+(b) a person who is a defendant in the legal proceedings referred to in clause (a) is to be
+
+regarded as a debtor whether or not a judgment has been granted against that person at
+
+the time the application is made.
+
+### Application of Part
+
+7.(1) Except as otherwise provided in this Act, an order for relief may be made under this Part
+
+(a) in relation to a transaction in which the debtor receives no consideration or
+
+consideration worth conspicuously less than the value conferred by the debtor under
+
+the transaction, where the debtor
+
+(i) is insolvent at the time of the transaction,
+
+(ii) becomes insolvent as a result of the transaction, or
+
+(iii) enters into the transaction in circumstances in which the debtor is
+
+demonstrably at risk of insolvency and the debtor becomes insolvent within
+
+six months after the date of the transaction;
+
+(b) in relation to a transaction in which the debtor’s primary intention is to hinder or defeat
+
+the right of a creditor or creditors to recover in whole or in part claims that, at the time
+
+of the transaction, were existing or were reasonably foreseeable, where
+
+(i) the ability of the creditor or creditors to recover the claims is materially
+
+hindered as a result of the transaction, and
+
+(ii) the debtor receives no consideration or consideration worth conspicuously less
+
+than the value conferred by the debtor under the transaction; or
+
+(c) in relation to a transaction in which the debtor’s primary intention is to hinder or defeat
+
+the right of a creditor or creditors to recover in whole or in part claims that, at the time
+
+of the transaction, were existing or were reasonably foreseeable, where
+
+(i) the ability of the creditor or creditors to recover the claims is materially
+
+hindered as a result of the transaction, and
+
+(ii) the transferee knew of the debtor’s intention and intended to assist the debtor
+
+by entering into the transaction.
+
+### Repurchase, redemption of shares not consideration
+
+(2) For the purposes of subsection (1), where the transaction involves a corporation repurchasing
+
+or redeeming shares issued by the corporation, neither receipt of the shares by the corporation
+
+nor their surrender by the holder is to be regarded as consideration received by the corporation
+
+under the transaction.
+
+### Factors in determining intention
+
+(3) The court may consider the following factors, among others, in determining the intention of
+
+the debtor or the transferee:
+
+(a) in the case of the debtor, whether the debtor was insolvent at the date of the transaction
+
+or became insolvent as a result of the transaction;
+
+(b) in the case of the transferee, whether the transferee knew that the debtor was insolvent
+
+at the date of the transaction or would likely become insolvent as a result of the
+
+transaction;
+
+(c) whether the transaction occurred at a time when the debtor or the transferee, as the case
+
+may be, knew of the existence of a claim against the debtor or had reasonable grounds
+
+to anticipate that a claim would arise in the foreseeable future;
+
+(d) where the transaction was effected by a court order,
+
+(i) in the case of the debtor, whether the debtor failed to disclose to the court in
+
+the proceedings under which that court order was made
+
+(A) an existing or reasonably foreseeable claim that may be prejudiced by
+
+the order, or
+
+(B) the extent of an existing or reasonably foreseeable claim, or
+
+(ii) in the case of the transferee, whether the transferee failed to disclose to the
+
+court in the proceedings under which that court order was made
+
+(A) an existing or reasonably foreseeable claim that may be prejudiced by
+
+the order and that was known to the transferee, or
+
+(B) the extent of an existing or reasonably foreseeable claim that was
+
+known to the transferee;
+
+(e) whether the value of the consideration received by the debtor was less than the value
+
+of the benefit conferred on the transferee;
+
+(f) whether the parties to the transaction were related or closely affiliated;
+
+(g) whether the debtor retained the possession, use or benefit of property or value
+
+transferred under the transaction;
+
+(h) whether the transaction was entered into in haste;
+
+(i) whether the debtor or the transferee attempted to keep the transaction or circumstances
+
+material to the availability of relief under this Act hidden from creditors or others;
+
+(j) whether the transaction was not documented in the manner that would ordinarily be
+
+expected in relation to a transaction of that kind.
+
+### “Contingent obligation” defined
+
+8.(1) In this section, “contingent obligation” means an obligation to pay money, transfer property or
+
+otherwise give value, the performance of which is contingent on an event that may or may not
+
+occur, and includes an obligation under a guarantee or an agreement to indemnify against loss
+
+occasioned by the default or non-performance of another person.
+
+### Order for relief conditional on specific grounds
+
+(2) An order for relief may be made in relation to the following transactions only if the grounds
+
+for relief referred to in clause 7(1)(c) are established:
+
+(a) a spousal transaction;
+
+(b) a transaction involving the refusal by a debtor to act under a power of appointment to
+
+confer an interest in property on the debtor or the disclaimer of an interest in property
+
+before the interest has vested;
+
+(c) a transaction involving the assumption of a contingent obligation by the debtor.
+
+### Order for relief - transactions other than spousal
+
+(3) Where a transaction, other than a spousal transaction, is effected by a court order or by
+
+operation of law, an order for relief may be made only if the grounds for relief referred to in
+
+clause 7(1)(b) or (c) are established.
+
+### Court order
+
+(4) Where a transaction is effected by a court order, an order for relief may be made by the court,
+
+whether or not the court is the court that made the order effecting the transaction.
+
+### Debtor corporation - purchase or redemption of shares
+
+9.(1) This section applies to a transaction that consists of the purchase or redemption of its shares by
+
+a debtor corporation or the declaration of dividends by a debtor corporation.
+
+### Where order against shareholder not satisfied
+
+(2) Where an order for relief is made against a shareholder as transferee in a transaction, the court
+
+may make an order for relief against a director or directors of the corporation, jointly and
+
+severally, to take effect if and to the extent that the order against the shareholder is not satisfied
+
+within six months after the date that the order is made.
+
+### Conditions
+
+(3) An order for relief shall not be made under this section against
+
+(a) a director who is not liable in relation to the actions constituting the transaction under
+
+any applicable Act or other law governing the corporation that provides for a remedy
+
+against a director in relation to a resolution or action authorizing the purchase or
+
+redemption of shares or the declaration of a dividend; or
+
+(b) a director who had reasonable grounds to believe that the circumstances of the
+
+transaction were such that the transaction did not give rise to a remedy under the Act
+
+or law referred to in clause (a).
+
+### Determination of reasonable grounds
+
+(4) In determining whether a director had reasonable grounds within the meaning of subsection
+
+(3), the court shall consider whether the director in good faith relied on, and whether a
+
+reasonable person in the director’s position could be expected to rely on,
+
+(a) financial statements of the corporation represented to the director by an officer of the
+
+corporation or in a written report of the auditor of the corporation to reflect fairly the
+
+financial condition of the corporation; or
+
+(b) a report of a lawyer, accountant, engineer, appraiser or other person whose position or
+
+profession lends credibility to the person’s statement.
+
+### No order for relief against shareholder
+
+(5) An order for relief shall not be granted against a shareholder who, in proceedings taken under
+
+the Canada Business Corporations Act (Canada), the Business Corporations Act R.S.P.E.I.
+
+1988, Cap. B-6.01 or the Companies Act R.S.P.E.I. 1988, Cap. C-14, by the corporation or
+
+another person, has been ordered to restore to the corporation or to a director of the corporation
+
+any amount paid or the value of property distributed under the transaction.
+
+### No order for relief against director
+
+(6) An order for relief shall not be granted against a director who, in proceedings taken under the
+
+Canada Business Corporations Act (Canada), the Business Corporations Act or the Companies
+
+Act by the corporation or another person, has been ordered
+
+(a) to restore to the corporation any amount paid or the value of property distributed under
+
+the transaction; or
+
+(b) to make a payment to satisfy a right of contribution held by another director who has
+
+been ordered to restore to the corporation any amount paid or the value of property
+
+distributed under the transaction.
+
+### Effect of subsequent proceedings
+
+(7) Where an order for relief is made against a shareholder or a director in relation to a transaction,
+
+(a) the order is not enforceable against that person if the person is subsequently ordered in
+
+proceedings under the Canada Business Corporations Act (Canada), the Business
+
+Corporations Act or the Companies Act
+
+(i) to restore to the corporation an amount paid or the value of property distributed
+
+under the transaction, or
+
+(ii) to satisfy an order for contribution; and
+
+(b) the court may suspend enforcement of the order for relief until proceedings against that
+
+person under the Canada Business Corporations Act (Canada), the Business
+
+Corporations Act or the Companies Act are concluded.
+
+### Creditor transaction
+
+10.(1) Subject to subsection (2), where a transaction is a creditor transaction, an order for relief may
+
+be made under this Part only to the extent that the value of the benefit conferred on the creditor
+
+exceeds the claim satisfied or secured by the creditor transaction.
+
+### Part applies to spousal transaction
+
+(2) This Part applies to a spousal transaction, whether or not the spousal transaction is a creditor
+
+transaction in whole or in part.
+
+### Order for relief on listed grounds - section 7
+
+11.(1) Where grounds for relief listed in section 7 are established, the court may make an order for
+
+relief against either or both of the following:
+
+(a) a transferee who received a benefit from the debtor under the transaction;
+
+(b) subject to subsection (2), a person who has received all or part of the benefit conferred
+
+under the transaction from a person described in clause (a) or a subsequent transferee.
+
+### Exception
+
+(2) An order for relief shall not be made against a person referred to in clause (1)(b) if the person
+
+gave consideration that, in the opinion of the court, is worth not conspicuously less than the
+
+value of the benefit received and
+
+(a) where the grounds for relief fall within clause 7(1)(a), the person did not know that the
+
+benefit derived from a transaction that occurred in the circumstances described in that
+
+clause; or
+
+(b) where the grounds for relief fall within clause 7(1)(b) or (c), the person did not know
+
+that the benefit derived from a transaction in which the debtor’s primary intention was
+
+to hinder or defeat the enforcement of the rights of a creditor or creditors.
+
+### Order for relief on listed grounds - section 9
+
+(3) Where grounds for relief listed in section 9 are established, the court may make an order for
+
+relief against a director of a corporation.
+
+## PART 3 - PREFERENTIAL CREDITOR TRANSACTIONS
+
+### Who may apply
+
+12.(1) Subject to subsection (2), an application for an order for relief under this Part may be made by
+
+a person who holds a claim that existed at the date of the creditor transaction that is the subject
+
+of the application for relief.
+
+### Condition - contingent obligation
+
+(2) Where a claim is a right to satisfaction of an obligation that is contingent on a future uncertain
+
+event, the person who holds the claim may apply for relief only if, at the date of the creditor
+
+transaction that is the subject of the application for relief, it was reasonably foreseeable that the
+
+event would occur.
+
+### Creditor transaction - applicable conditions
+
+13.(1) Except as otherwise provided in this Act, an order for relief may be made under this Part in
+
+relation to a creditor transaction where
+
+(a) the creditor receiving the benefit conferred under the creditor transaction is not dealing
+
+at arm’s length with the debtor; and
+
+(b) the debtor
+
+(i) is insolvent at the time of the creditor transaction,
+
+(ii) becomes insolvent as a result of the creditor transaction, or
+
+(iii) enters into the creditor transaction in circumstances in which the debtor is
+
+demonstrably at risk of insolvency and the debtor becomes insolvent within
+
+six months after the date of the creditor transaction.
+
+### Rebuttable presumption - relationship
+
+(2) Persons who are related to each other are presumed not to deal with each other at arm’s length
+
+while so related but the presumption may be rebutted by proof that they are dealing at arm’s
+
+length.
+
+### Where persons not related
+
+(3) It is a question of fact whether persons not related to one another were at a particular time
+
+dealing with each other at arm’s length.
+
+### Relationship under Bankruptcy and Insolvency Act
+
+(4) Persons are related to each other when they are related to each other for the purposes of the
+
+Bankruptcy and Insolvency Act (Canada).
+
+### Arm’s-length dealings
+
+(5) Persons are deemed to be dealing with each other at arm’s length with respect to
+
+(a) a margin deposit made by a clearing member with a clearing house; or
+
+(b) a transfer, charge or payment made in connection with financial collateral and in
+
+accordance with the provisions of an eligible financial contract.
+
+### Terms defined
+
+(6) In this section,
+
+(a) “clearing house” means a body that acts as an intermediary for its clearing members
+
+in effecting securities transactions;
+
+(b) “clearing member” means a person engaged in the business of effecting securities
+
+transactions who uses a clearing house as an intermediary;
+
+(c) “creditor” includes a surety or guarantor for the debt due to the creditor;
+
+(d) “financial collateral” and “eligible financial contract” have the meaning ascribed by
+
+the Bankruptcy and Insolvency Act (Canada);
+
+(e) “margin deposit” means a payment, deposit or transfer to a clearing house under the
+
+rules of the clearing house to assure the performance of the obligations of a clearing
+
+member in connection with security transactions, including, without limiting the
+
+generality of the foregoing, transactions respecting futures, options or other derivatives
+
+or to fulfil any of those obligations.
+
+### Part does not apply to spousal transaction
+
+14. This Part does not apply to a spousal transaction, notwithstanding that the spousal transaction
+
+may be a creditor transaction in whole or in part.
+
+### Court may make order for relief
+
+15. Where grounds for relief under this Part are established, the court may make an order for relief
+
+against either or both of the following:
+
+(a) the creditor receiving the benefit conferred under the creditor transaction;
+
+(b) a person who has received all or part of the benefit conferred under the creditor
+
+transaction
+
+(i) in a transaction with the creditor referred to in clause (a), where the person was
+
+not dealing at arm’s length with the creditor, or
+
+(ii) in a transaction with a transferee who received all or part of the benefit from
+
+the creditor referred to in clause (a) or a subsequent transferee, where the
+
+parties to each transaction leading to receipt of the benefit by the person
+
+against whom relief is claimed were not dealing at arm’s length.
+
+## PART 4 - ORDERS AND REMEDIES
+
+### Order for relief under Part 2
+
+16. In granting relief under Part 2, the court shall make any orders that it considers necessary to
+
+make available to the person who applies for relief the value conferred on the transferee under
+
+the transaction to the extent of that person’s claim against the debtor, taking into account the
+
+provisions of section 18.
+
+### Order for relief under Part 3
+
+17.(1) In granting relief under Part 3, the court shall make any orders that it considers necessary to set
+
+aside the creditor transaction, taking into account the provisions of section 18.
+
+### Discharged obligation is revived
+
+(2) Where an order for relief is made under Part 3 in relation to a creditor transaction that had the
+
+effect of discharging an obligation under a guarantee or indemnity or an obligation secured by
+
+a guarantee or indemnity, the obligation so discharged is revived to the extent that the payment
+
+is set aside, subject to any defences that the person who owes the obligation may otherwise be
+
+entitled to assert.
+
+### “Proceeds” defined
+
+18.(1) In this section, “proceeds” means
+
+(a) identifiable or traceable property that is derived directly or indirectly from any dealing
+
+with
+
+(i) the property that is the subject of the transaction, or
+
+(ii) the proceeds of the property that is the subject of the transaction; and
+
+(b) the right to an insurance payment or any other payment as indemnity or compensation
+
+for loss of or damage to
+
+(i) the property that is the subject of the transaction, or
+
+(ii) the proceeds of property that is the subject of the transaction.
+
+### Powers of court to make orders
+
+(2) In making an order for relief, the court may make an order or orders that may be required to
+
+achieve the result indicated in sections 16 and 17, including
+
+(a) an order vesting in the debtor, or in another person, property that is the subject of the
+
+transaction or the proceeds of the property;
+
+(b) an order declaring that property that is the subject of the transaction or the proceeds of
+
+that property be subject to judgment enforcement measures in the hands of the
+
+transferee;
+
+(c) an order directing that property that is the subject of the transaction or the proceeds of
+
+the property be sold and the money realized on the sale distributed as the court may
+
+direct;
+
+(d) an order requiring the transferee to pay a sum equivalent to the value of property or
+
+other benefits received under the transaction;
+
+(e) except in the case of an order made under Part 3, an order requiring the transferee to
+
+pay a sum in recognition of income earned through the use or exploitation of property
+
+or of a licence, quota, right to use or right to payment received under the transaction;
+
+(f) an order directing the release or discharge of any debt incurred, or security or guarantee
+
+given, by the debtor under the transaction;
+
+(g) an order reviving any obligation or security released by the debtor under the
+
+transaction;
+
+(h) an order setting aside a designation in favour of a beneficiary;
+
+(i) an order declaring that property that would otherwise be exempt as against creditors is
+
+subject to judgment enforcement measures;
+
+(j) an order setting aside or varying a court order if the order constitutes a transaction
+
+giving rise to the entitlement to relief;
+
+(k) an order appointing a receiver to take possession of and deal with property in the
+
+manner directed; or
+
+(l) an order granting an injunction against the debtor or another person.
+
+### Proceeds to be shared by qualified persons
+
+(3) An order for relief shall be made in those terms or subject to those conditions that the court
+
+considers necessary to make money payable or the value of property to be transferred under
+
+the order available for distribution to the persons qualified under the Judgment and Execution
+
+Act R.S.P.E.I. 1988, Cap. J-2, to share in the proceeds of judgment enforcement measures taken
+
+against the debtor.
+
+### Order for relief under Part 2 - factors to be considered
+
+(4) In granting relief under Part 2,
+
+(a) subject to subsection (5), the court may refuse an order or adjust the terms of an order,
+
+or make an order in favour of the transferee for recovery of an identified sum against
+
+the debtor, in recognition of the following:
+
+(i) the value given by the transferee,
+
+(ii) expenditures and non-monetary investments made by the transferee that have
+
+increased the value of property received by the transferee under the
+
+transaction, or that have generated income through the use of property or of a
+
+licence, quota, right to use or right to payment conferred by the debtor, to the
+
+extent of the expenditures made or the value invested, or
+
+(iii) actions taken by the transferee in reasonable reliance on the finality of the
+
+transaction under which a benefit was received; and
+
+(b) where the court orders that property received by the transferee under a transaction or
+
+the proceeds of the property be vested in the debtor, the court may grant the transferee
+
+a security interest in the property that secures
+
+(i) the value given by the transferee under the transaction, to the extent of that
+
+value, and
+
+(ii) expenditures and non-monetary investments made by the transferee that have
+
+increased the value of the property, to the extent of the expenditures made or
+
+the value invested.
+
+### Exception
+
+(5) The factors referred to in subsection (4) shall not operate in favour of a transferee who knew
+
+that the debtor entered the transaction with the primary intention of hindering or defeating the
+
+enforcement of the rights of a creditor or creditors.
+
+### Order for relief under Part 3 - factors to be considered
+
+(6) In granting relief under Part 3,
+
+(a) the court may, in recognition of expenditures and non-monetary investments made by
+
+the creditor that have increased the value of property received under the creditor
+
+transaction,
+
+(i) adjust the terms of an order, or
+
+(ii) make an order in favour of the creditor receiving the benefits conferred under
+
+the creditor transaction for recovery of an identified sum against the debtor;
+
+and
+
+(b) where the court orders that property received by the creditor under the creditor
+
+transaction or its proceeds be vested in the debtor, the court may grant the creditor a
+
+security interest in the property securing expenditures and non-monetary investments
+
+made by the creditor that have increased the value of the property, to the extent of the
+
+expenditures made or the value invested.
+
+### Priority of security interest over certain creditors
+
+19.(1) A security interest granted under subclause 18(4)(b)(i) has priority over the rights of creditors
+
+of the debtor that exist in relation to the property when the property vests in the debtor or that
+
+arise as a result of the vesting, other than rights associated with a perfected security interest
+
+that attached to the property before the transaction occurred.
+
+### Priority of security interest over all creditors
+
+(2) A security interest granted under subclause 18(4)(b)(ii) or clause 18(6)(b) has priority over the
+
+rights of all creditors of the debtor that exist in relation to the property when the property vests
+
+in the debtor or that arise as a result of the vesting, including the rights of secured creditors.
+
+### Security interest may be registered
+
+(3) A security interest in property granted under subsection 18(4) or (6) may be registered
+
+(a) in the Personal Property Registry in accordance with the Personal Property Security
+
+Act where the property is personal property; or
+
+(b) in accordance with the Registry Act R.S.P.E.I. 1988, Cap. R-10, where the property is
+
+land.
+
+### Effect of registration
+
+(4) Subject to subsections (1) and (2), a security interest granted under subsection 18(4) or (6)
+
+(a) that is registered in the Personal Property Registry under clause (3)(a) has the status of
+
+a security interest perfected by registration under the Personal Property Security Act;
+
+or
+
+(b) that is registered under clause (3)(b) has the status of an interest in land registered under
+
+the Registry Act.
+
+### Suspension of enforcement
+
+20. Where an order for relief is granted in relation to a transaction involving exempt property and
+
+the debtor continues to use the property in the manner that attracted the exemption, the court
+
+(a) may suspend enforcement of the order for relief until the time that the debtor ceases to
+
+use the property in that manner; and
+
+(b) where the enforcement of an order for relief is suspended under clause (a), may order
+
+that a writ of execution be registered against the transferee or the property of the
+
+transferee.
+
+### Application of Part
+
+21. This Part applies, with any necessary modification, to an order for relief made against a person
+
+referred to in clause 11(1)(b) or 15(b).
+
+### Factors to be considered
+
+22.(1) Where an application for relief is made in relation to a transaction referred to in subsection
+
+9(1), subsections 9(2) to (7) shall be taken into account in the making or refusal of an order for
+
+relief.
+
+### Order for payment of money
+
+(2) Where an order for relief is made against a director under section 9, the order shall require the
+
+director to pay a sum of money equivalent to the amount paid by the corporation under the
+
+transaction, and the provisions of this Part, other than subsection 18(3) and sections 23 and 24,
+
+do not apply.
+
+### Court may grant injunction
+
+23.(1) Whether or not an application for an order for relief has been made, the court may grant an
+
+injunction to a person who is, or who may become, entitled to apply for an order for relief under
+
+this Act if the court is satisfied that there is a reasonable likelihood that a transaction giving
+
+rise to a right to relief has occurred or is about to occur.
+
+### Court may make orders
+
+(2) In granting an injunction, the court may make any orders against the debtor or another person
+
+that the court considers necessary to
+
+(a) preserve the benefit of any final order for relief that may be granted;
+
+(b) allow an appropriate order for relief to be made; or
+
+(c) prevent a transaction from occurring.
+
+### Interested person may apply to vary or terminate order
+
+(3) Any interested person may apply to the court to vary or terminate an order made under this
+
+section.
+
+### Time limit for application
+
+24.(1) Subject to subsections (2) and (3), no application for an order for relief is to be commenced
+
+more than one year after the date of a transaction.
+
+### Effect of concealment by transferee
+
+(2) Where the transferee conceals or assists in the concealment of the transaction that is the subject
+
+of the application for relief or of facts material to the grounds for relief, the one-year period
+
+referred to in subsection (1) commences at the time that the person making the application
+
+knew of the transaction or the material facts, but no application for relief is to be commenced
+
+more than five years from the date of the transaction.
+
+### Effect of debtor’s bankruptcy
+
+(3) Where the debtor becomes bankrupt before the end of the one-year period referred to in
+
+subsection (1), the debtor’s trustee in bankruptcy may bring an application for an order for
+
+relief if the transaction that is the subject of the application for relief occurred during the period
+
+that begins on the day that is one year before the date of bankruptcy and that ends on the date
+
+of bankruptcy, but no application for an order for relief is to be commenced by the trustee more
+
+than one year after the date of bankruptcy.
+
+## PART 5 - REPEALS
+
+### Statute of Fraudulent Conveyances
+
+25. The Act of the Parliament of England commonly called the Statute of Fraudulent Conveyances,
+
+13 Eliz. I, c. 5 (1571), is not in force in Prince Edward Island.
+
+### Frauds on Creditors Act
+
+26. The Frauds on Creditors Act R.S.P.E.I. 1988, Cap. F-15, is repealed.

@@ -1,0 +1,462 @@
+---
+type: "Act"
+title: "Housing Corporation Act"
+description: "Prince Edward Island Act, RSPEI 1988, c H-11.1."
+resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/h-11-1-housing_corporation_act.pdf"
+tags: ["pe", "act", "en"]
+jurisdiction: "pe"
+language: "en"
+citation: "RSPEI 1988, c H-11.1"
+document_date: "2026-05-29"
+upstream_license: "See upstream license: https://perma.cc/V9XJ-HTR4 © Government of Prince Edward Island. The consolidated statutes and regulations and the annual statutes from Prince Edward Island were updated by the A2AJ (Access to Algorithmic Justice project) on August 15, 2026 from the Legislative Counsel Office website (https://www.princeedwardisland.ca/en/legislation), maintained by the Government of Prince Edward Island. Copyright: Reproduction of Acts and regulations available in the A2AJ Canadian Laws dataset is governed by the Prince Edward Island's government copyright policy: https://www.princeedwardisland.ca/en/information/executive-council-office/website-disclaimer-and-copyright-policy. NOTE: This is an unofficial reproduction of Prince Edward Island legislation, made without endorsement or affiliation by the Government of Prince Edward Island. The official versions should be consulted for all purposes of interpreting and applying the law. Reproduced with the permission of the Legislative Counsel Office of Prince Edward Island (granted by email on July 20, 2026)."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-08-15T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/h-11-1-housing_corporation_act.pdf"
+    title: "Government of Prince Edward Island: official text"
+    author: "org:pe-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-PE/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-08-15T00:00:00Z"
+---
+
+# Housing Corporation Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Prince Edward Island. Not endorsed by or affiliated with the Government of Prince Edward Island. Text obtained from the [official source](https://www.princeedwardisland.ca/sites/default/files/legislation/h-11-1-housing_corporation_act.pdf) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RSPEI 1988, c H-11.1
+
+### Definitions
+
+1. In this Act
+
+(a) “Corporation” means the Prince Edward Island Housing Corporation established
+
+pursuant to this Act;
+
+(b) “Department” means the Department of Housing and Communities;
+
+(c) “housing” means any buildings or structures suitable for human habitation and which
+
+are primarily used for that purpose;
+
+(d) “low income” means an income that, in the opinion of the Corporation, is insufficient
+
+to allow an individual or family with that income to obtain adequate and suitable
+
+housing;
+
+(e) “Minister” means the Minister of Housing and Communities;
+
+(f) “social housing” means housing for individuals or families of low income;
+
+(g) “public housing authority” means a body constituted under section 10.
+
+### Administration
+
+2.(1) The Minister has the general supervision and management of this Act.
+
+### Management
+
+(2) The Minister may designate a senior public officer who, under the direction of the Minister,
+
+shall
+
+(a) supervise the administration and management of the Corporation; and
+
+(b) perform such duties as the Minister or the Lieutenant Governor in Council assigns.
+
+### Personnel
+
+3. There shall be appointed such persons as are necessary for the administration of this Act and
+
+the regulations.
+
+### Delegation
+
+4. The Minister may delegate the administration of any function of the Corporation upon such
+
+terms and conditions as the Minister may determine.
+
+### Housing Corporation
+
+5.(1) The Minister is hereby constituted a corporation sole under the name Prince Edward Island
+
+Housing Corporation.
+
+### Agent of the Government
+
+(2) The Corporation is for all purposes an agent of the Government and its powers under this Act
+
+may be exercised only as such agent.
+
+### Property vested in
+
+(3) Property acquired by the Corporation is the property of the Government, and title thereto may
+
+be vested in the name of the Government or in the name of the Corporation.
+
+### Actions in name of Corporation
+
+(4) Actions, suits or other legal proceedings in respect of any right or obligation acquired or
+
+incurred by the Corporation, whether in its name or in the name of the Government, may be
+
+brought or taken by or against the Corporation, in the name of the Corporation, in any court
+
+that would have jurisdiction if the Corporation were not an agent of the Government.
+
+### Objects of the Corporation
+
+6. The objects of the Corporation are to
+
+(a) establish housing projects and construct housing accommodation of all types for sale
+
+or rent;
+
+(b) plan, design, build and own, housing projects;
+
+(c) construct, acquire and renovate housing of all types and sell, lease or otherwise
+
+dispose of such housing upon such terms and conditions as may be determined;
+
+(d) promote and carry out the construction and provision of more adequate and improved
+
+housing for
+
+(i) low income families and individuals,
+
+(ii) such elderly persons or class or classes of elderly persons as may be
+
+designated by the Corporation,
+
+(iii) generally, persons or groups which, in the opinion of the Corporation, require
+
+assistance;
+
+(e) improve the quality of housing; and
+
+(f) improve the quality of amenities related to housing.
+
+### Powers, generally
+
+7.(1) For the purpose of carrying into effect the objects of the Corporation or any provision of this
+
+Act or any project, the Corporation, subject to the approval of the Lieutenant Governor in
+
+Council, may enter into and carry out agreements with
+
+(a) the Government of Canada or a Minister, department or agency thereof;
+
+(b) the Canada Mortgage and Housing Corporation;
+
+(c) the province or a Minister, department or agency thereof;
+
+(d) any municipality;
+
+(e) a company that is subject to this Act;
+
+(f) any housing authority;
+
+(g) any person, firm or corporation; or
+
+(h) any combination of the authorities set out in clauses (a) to (g).
+
+### Powers of the Corporation - agreements
+
+(2) The Corporation may
+
+(a) notwithstanding any express or implied limitation under the Public Works Act
+
+R.S.P.E.I. 1988, Cap. P-34, acquire, take and hold by purchase, lease, donation,
+
+mortgage or otherwise, real and personal property;
+
+(b) provide services to or otherwise develop real property;
+
+(c) acquire, construct, hold, maintain, manage or sell housing projects or housing
+
+accommodation;
+
+(d) acquire, improve, convert, rehabilitate or sell existing buildings for a housing project
+
+or for housing accommodation;
+
+(e) make contributions toward capital costs, provide loans, make grants and pay
+
+subsidies for the purposes of this Act, and prescribe the conditions upon which such
+
+funds may be provided;
+
+(f) prescribe the terms and conditions on which loans and advances shall be paid and
+
+repaid;
+
+(g) prescribe the portion of any loan or class of loans made by the Corporation that may
+
+be forgiven and prescribing the conditions pursuant to which any such portion of any
+
+loan or class of loans shall be forgiven;
+
+(h) sell, convey, lease, mortgage or otherwise dispose of real or personal property or any
+
+part thereof and for such purposes execute any agreement, deed, lease, mortgage,
+
+pledge, lien or conveyance and designate officials authorized to sign the required
+
+documents or conveyances;
+
+(i) advance or lend moneys, or guarantee moneys loaned to persons, companies,
+
+corporations or groups for the purposes of acquiring land, constructing or improving
+
+housing accommodation of all types including cooperative multiple housing, or
+
+acquiring and rehabilitating housing units;
+
+(j) advance or lend moneys, or guarantee moneys loaned to any municipality, for the
+
+purposes of acquiring land, constructing housing accommodation, acquiring and
+
+rehabilitating housing units, or undertaking urban renewal or neighbourhood
+
+improvement measures;
+
+(k) borrow money for the purposes of carrying out the objects and purposes of the
+
+Corporation, or any of them and enter into any mortgage, contract, pledge or other
+
+agreement as may be necessary or expedient, and issue bills, notes or debentures for
+
+the security of any borrowings of the Corporation;
+
+(l) borrow money by temporary loans, or loans from any savings institution or in any
+
+other manner as the Corporation may determine;
+
+(m) provide, on a rental basis or otherwise, living quarters for senior citizens with or
+
+without furniture, furnishings, services, means or other necessities or amenities of
+
+life;
+
+(n) subject to the approval of the Lieutenant Governor in Council, without the consent of
+
+the owner, enter upon, take and expropriate any land which the Corporation considers
+
+necessary for the purpose of any of its undertakings or for a purpose relative to the
+
+use, construction, maintenance or repair of any of its undertakings and in such cases
+
+the Expropriation Act R.S.P.E.I. 1988, Cap. E-13 applies with the necessary changes
+
+and in that Act a reference to the Minister shall be deemed to include a reference to
+
+an undertaking of the Corporation;
+
+(o) generally take such steps as it may consider necessary or advisable to promote the
+
+construction of housing that in its opinion is sound and economical and to encourage
+
+the development of better housing and related amenities;
+
+(p) do such other things as may be required to be done and exercise any other power
+
+required to be exercised for the purposes of carrying out the provisions of this Act.
+
+### Limitations on powers
+
+(3) The powers exercisable by the Corporation
+
+(a) under clause (2)(j), are subject to the Municipal Debenture Guarantee Act R.S.P.E.I.
+
+1988, Cap. M-12;
+
+(b) under clauses (2)(i), (k) and (l), are subject to such limitations as may be imposed by
+
+the Lieutenant Governor in Council.
+
+### Powers of Lieutenant Governor in Council
+
+8. The Lieutenant Governor in Council may
+
+(a) authorize the Minister of Finance and Affordability to pay over to the Corporation as
+
+an accountable advance or otherwise, working capital in such amounts as the
+
+Lieutenant Governor in Council may direct;
+
+(b) authorize the Minister of Finance and Affordability to pay over to the Corporation as
+
+capital grants such amounts as the Lieutenant Governor in Council may direct;
+
+(c) authorize the Minister of Finance and Affordability to guarantee the payment of
+
+moneys borrowed by the Corporation.
+
+### Mortgage, etc not charge against the Government
+
+9. Notwithstanding any provision of this Act or any other Act, no mortgage, pledge or charge
+
+against the real and personal property of the Corporation shall be or be deemed to be a
+
+mortgage, pledge or charge against any real and personal property of the Government.
+
+### Public housing agreements
+
+10.(1) The Corporation may, with the approval of the Lieutenant Governor in Council, enter into
+
+agreements to provide suitable social housing at rentals or charges that may be less than
+
+would be required to provide for the operation and complete amortization of the cost of
+
+providing the housing.
+
+### Contents of agreements
+
+(2) The agreements entered into under this section may
+
+(a) provide for sharing of the capital cost, and operating profits or losses, of housing
+
+provided under subsection (1);
+
+(b) establish the rentals or charges to be made in respect of the housing provided; and
+
+(c) specify the responsibilities of the parties to the agreements respecting the provision,
+
+management, operation and administration of housing projects.
+
+### Public housing authorities
+
+(3) For the purpose of carrying out agreements entered into under subsection (1), the Lieutenant
+
+Governor in Council may by order
+
+(a) incorporate bodies with no share capital as public housing authorities consisting of
+
+such number of persons as the Lieutenant Governor in Council determines;
+
+(b) appoint the members of a public housing authority;
+
+(c) fix the term of office of members of a public housing authority;
+
+(d) designate a member of a public housing authority to be the chairperson of the
+
+authority and one other member thereof to be the vice-chairperson of the authority;
+
+(e) fix the amount of remuneration and travelling and other expenses to be paid to
+
+members of the public housing authority, which amounts shall be an expense
+
+chargeable to the projects; and
+
+(f) vest in the public housing authority such functions as the Lieutenant Governor in
+
+Council considers necessary or advisable to carry out any agreement, including the
+
+power to acquire, operate and maintain housing projects.
+
+### Reports and returns
+
+(4) A public housing authority shall make such reports and returns as may be prescribed by the
+
+Corporation.
+
+### Accounting system
+
+11. The Corporation shall
+
+(a) establish and maintain an accounting system; and
+
+(b) prepare detailed statements of its receipts and expenditures.
+
+### Audit
+
+12.(1) The accounts of the Corporation shall be audited by a qualified auditor appointed by the
+
+Corporation, and the audited statements of those accounts shall be included in the
+
+Corporation’s annual report.
+
+### Appointment of auditor
+
+(2) The Corporation may appoint a qualified auditor for the purposes of subsection (1).
+
+### Fiscal year
+
+(3) The fiscal year of the Corporation shall correspond to the fiscal year of the province.
+
+### Reports by Corporation
+
+13. The Corporation shall
+
+(a) annually prepare a report of its affairs and operations for the preceding twelve
+
+months containing its financial statements, and such report shall be tabled in the
+
+Legislative Assembly by the Minister, if the Legislative Assembly is then in session,
+
+or within fifteen days of the commencement of the next session of the Legislative
+
+Assembly.
+
+(b) in addition to the annual report, make such other reports of its affairs and operations
+
+or of any particular transaction or part of its business as the Lieutenant Governor in
+
+Council may require.
+
+### Bank accounts
+
+14. The Corporation may establish and maintain in its own name one or more accounts in savings
+
+institutions and shall deposit therein all moneys received and shall pay out of the said
+
+accounts all administrative, operating and other costs and expenses.
+
+### Regulations
+
+15. The Lieutenant Governor in Council may make regulations.
+
+### Transitional
+
+16.(1) In this section “existing corporation’’ means the Prince Edward Island Housing Corporation
+
+as constituted immediately before this Act comes into force.
+
+### Idem
+
+(2) On the date this Act comes into force
+
+(a) the Corporation assumes responsibility for the loans, credit and security agreements
+
+of the existing corporation;
+
+(b) all interests in real and personal property vested in the existing corporation shall be
+
+vested in the Corporation;
+
+(c) the assets and liabilities of the existing corporation are transferred to and become the
+
+assets and liabilities of the Corporation;
+
+(d) agreements entered into by the existing corporation are assumed by the Corporation
+
+and may be enforced by and against the Corporation as if it had been a party thereto
+
+instead of the existing corporation;
+
+(e) all legal proceedings and rights of action by or against the existing corporation may
+
+be brought or continued by or against the Corporation;
+
+(f) references in any enactment or document to the existing corporation shall be
+
+construed as references to the Corporation.
+
+### Repeal
+
+17. Repeal.

@@ -1,0 +1,45 @@
+---
+type: "Regulation"
+title: "TRANSITION BOARD"
+description: "Ontario regulation, O Reg 9/00."
+resource: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/regulation/000009"
+tags: ["on", "regulation", "en"]
+jurisdiction: "on"
+language: "en"
+citation: "O Reg 9/00"
+document_date: "2000-03-17"
+translation: "../fr/O-Reg-9-00.md"
+upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Printer for Ontario. NOTE: This is an unofficial reproduction of Ontario regulations, made without endorsement or affiliation by the Government of Ontario."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/regulation/000009"
+    title: "King's Printer for Ontario: official text"
+    author: "org:on-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-ON/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# TRANSITION BOARD
+
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for Ontario. Not endorsed by or affiliated with the Government of Ontario. Text obtained from the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/regulation/000009) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+O. Reg. 9/00
+
+1 A transition board is established for the purposes of section 18 of the Act.
+
+2 (1) The board shall be composed of at least six members appointed by the Minister.
+
+(2) One of the members of the board shall be designated as chair of the board by the Minister.
+
+3 The chair of the board shall be paid a daily allowance of $450 and the other members shall be paid a daily allowance of $400.
+
+4 The members of the Board shall be reimbursed for reasonable expenses incurred by them in performing their duties under the Act.
+
+5 The Municipal Conflict of Interest Act, the Municipal Freedom of Information and Protection of Privacy Act and section 55 of the Municipal Act apply with necessary modifications to the board and its members in the same manner as they apply to a municipality and the members of its council.
+
+6 Omitted (provides for coming into force of provisions of this Regulation).

@@ -1,0 +1,2212 @@
+---
+type: "Act"
+title: "Fire Safety Act"
+description: "Prince Edward Island Act, RSPEI 1988, c F-11.1."
+resource: "https://www.princeedwardisland.ca/sites/default/files/f121/F-11-01-%20Fire%20Safety%20Act.pdf"
+tags: ["pe", "act", "en"]
+jurisdiction: "pe"
+language: "en"
+citation: "RSPEI 1988, c F-11.1"
+document_date: "2026-05-29"
+upstream_license: "See upstream license: https://perma.cc/V9XJ-HTR4 © Government of Prince Edward Island. The consolidated statutes and regulations and the annual statutes from Prince Edward Island were updated by the A2AJ (Access to Algorithmic Justice project) on August 15, 2026 from the Legislative Counsel Office website (https://www.princeedwardisland.ca/en/legislation), maintained by the Government of Prince Edward Island. Copyright: Reproduction of Acts and regulations available in the A2AJ Canadian Laws dataset is governed by the Prince Edward Island's government copyright policy: https://www.princeedwardisland.ca/en/information/executive-council-office/website-disclaimer-and-copyright-policy. NOTE: This is an unofficial reproduction of Prince Edward Island legislation, made without endorsement or affiliation by the Government of Prince Edward Island. The official versions should be consulted for all purposes of interpreting and applying the law. Reproduced with the permission of the Legislative Counsel Office of Prince Edward Island (granted by email on July 20, 2026)."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-08-15T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.princeedwardisland.ca/sites/default/files/f121/F-11-01-%20Fire%20Safety%20Act.pdf"
+    title: "Government of Prince Edward Island: official text"
+    author: "org:pe-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-PE/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-08-15T00:00:00Z"
+---
+
+# Fire Safety Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Prince Edward Island. Not endorsed by or affiliated with the Government of Prince Edward Island. Text obtained from the [official source](https://www.princeedwardisland.ca/sites/default/files/f121/F-11-01-%20Fire%20Safety%20Act.pdf) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RSPEI 1988, c F-11.1
+
+## PART 1 - INTERPRETATION AND APPLICATION
+
+### Definitions
+
+1. In this Act,
+
+(a) “code” means a code of fire safety rules or standards for fire safety that has been
+
+adopted in regulations made pursuant to subsection 64(2);
+
+(b) “court” means the Supreme Court;
+
+(c) “Department” means the Department of Justice and Public Safety;
+
+(d) “Deputy Fire Marshal” means the Deputy Fire Marshal of Prince Edward Island,
+
+appointed under subsection 8(2);
+
+(e) “fire company” means a fire company incorporated or continued under Part 6;
+
+(f) “fire detection system” means a fire safety system that is designed and installed to
+
+provide early warning of a fire, including but not limited to,
+
+(i) a fire alarm,
+
+(ii) a smoke alarm or smoke detector,
+
+(iii) a carbon monoxide alarm;
+
+(g) “fire district” means an area designated under section 42 for the purpose of obtaining
+
+fire protection;
+
+(h) “Fire Marshal” means the Fire Marshal of Prince Edward Island, appointed under
+
+subsection 8(1);
+
+(i) “fire official” means
+
+(i) the Deputy Fire Marshal,
+
+(ii) an inspector, including an official of a fire service appointed as an inspector
+
+under subsection 13(1), and
+
+(iii) a local assistant;
+
+(j) “fire protection system” means a fire safety system that is designed to protect
+
+property or persons from fire, including but not limited to
+
+(i) an automatic fire sprinkler system, and
+
+(ii) alternative automatic fire extinguishing systems;
+
+(k) “fire service” means
+
+(i) a municipal fire department, or
+
+(ii) a fire company;
+
+(l) “inspector” includes the Deputy Fire Marshal and any other person appointed by the
+
+Fire Marshal as an inspector under subsection 13(1);
+
+(m) “Minister” means the Minister of Justice and Public Safety and Attorney General;
+
+(n) “municipality” means, in accordance with the context, either an area incorporated as
+
+a municipality as defined in the Municipal Government Act R.S.P.E.I. 1988, Cap. M-
+
+12.1, or the corporation into which the residents of an area have been incorporated as
+
+a municipality;
+
+(o) “occupant” means a person who
+
+(i) owns or is in physical possession of premises, or
+
+(ii) has responsibility for and control over the condition of the premises or the
+
+activities carried on there, or control over persons allowed to enter the
+
+premises;
+
+(p) “police officer” means a police officer as defined in the Police Act R.S.P.E.I. 1988,
+
+Cap. P-11.1;
+
+(q) “police service” means a police service as defined in the Police Act;
+
+(r) “premises” includes
+
+(i) lands and structures, or either of them,
+
+(ii) trailers and portable structures designed or used for residence, business or
+
+shelter, and
+
+(iii) ships and vessels, motorized vehicles and aircraft, and any other motorized or
+
+non-motorized conveyance;
+
+(s) “professional” means a professional as defined in the Building Codes Act R.S.P.E.I.
+
+1988, Cap. B-5.1;
+
+(t) “Prothonotary” means the Prothonotary as defined in the Judicature Act R.S.P.E.I.
+
+1988, Cap. J-2.1.
+
+### Municipal bylaws may be made, enforced
+
+2.(1) Subject to subsection (2), nothing in this Act prevents a municipality from making and
+
+enforcing bylaws related to matters dealt with by this Act or the regulations, including bylaws
+
+that impose higher or more stringent standards or requirements than those provided by this Act
+
+or the regulations.
+
+### Act prevails in event of conflict
+
+(2) Where a municipal bylaw conflicts with this Act or the regulations, this Act and the regulations
+
+prevail to the extent of the conflict.
+
+### Act, regulations prevail over less restrictive bylaw
+
+(3) Where a municipality has enacted a bylaw to regulate subjects which are regulated by this Act
+
+or the regulations and the bylaw is, in the opinion of the Fire Marshal, less restrictive than this
+
+Act, the regulations or the code, the provisions of this Act, the regulations or the code prevail.
+
+### Other enactments
+
+3. Nothing in this Act affects the powers, obligations and duties of persons or bodies
+
+(a) to comply with, carry out or enforce any other enactment; or
+
+(b) under any other enactment with respect to an investigation or examination into the
+
+origin, cause or circumstances of a fire.
+
+### Municipal duties of Fire Marshal limited
+
+4.(1) Nothing in this Act requires the Fire Marshal or inspectors to perform in a municipality any of
+
+the duties set out in the bylaws of the municipality other than the investigation of, or inquiry
+
+into, the origins of fires.
+
+### Authority of Fire Marshal prevails in event of conflict
+
+(2) Where there is a conflict between the authority of the Fire Marshal and that of any official of a
+
+municipality in respect of a matter falling within the duties and powers of the Fire Marshal
+
+under this Act, the authority of the Fire Marshal shall prevail.
+
+## PART 2 - ADMINISTRATION
+
+### Administration by Minister
+
+5.(1) The Minister is responsible for the administration of this Act.
+
+### Delegation by Minister
+
+(2) The Minister may delegate, in writing, to an employee of the Department any of the powers,
+
+responsibilities and functions of the Minister under this Act, as may be specified in the
+
+delegation.
+
+### Obligations of Minister
+
+6.(1) The Minister shall promote fire safety, fire prevention and the efficiency, adequacy and
+
+effectiveness of fire services.
+
+### Minister may issue orders
+
+(2) The Minister may, for the purposes of carrying out the purposes of subsection (1), issue orders
+
+to
+
+(a) a fire service;
+
+(b) an employer of a firefighter; or
+
+(c) a person who provides instruction or training in firefighting.
+
+### Compliance required
+
+(3) A fire service, employer or other person shall comply with an order issued under subsection
+
+(2).
+
+### Provision of directive, etc.
+
+(4) Where the Minister issues an order under subsection (2), the Minister shall ensure that the order
+
+is provided, as soon as possible, to the fire service, employer or other person subject to it.
+
+### Minister’s order - fire protection services
+
+7.(1) The Minister may, at any time the Minister considers it appropriate to do so, by order, require
+
+a fire service to provide fire protection services for another fire district or municipality.
+
+### Provision of copy of order
+
+(2) Where the Minister makes an order under subsection (1), the Minister shall ensure that a copy
+
+of the order is provided, as soon as possible, to each fire service affected by it.
+
+### Reimbursement for expenses
+
+(3) Where a fire service has, pursuant to an order under subsection (1), provided fire protection
+
+services for another fire district or municipality, the Government shall, on the written request
+
+of the fire company or municipality whose municipal fire department provided the fire
+
+protection services, reimburse that fire company or municipality for the salaries and other
+
+expenses incurred in the provision of the fire protection services.
+
+### Reimbursement by municipality
+
+(4) A municipality that receives fire protection services pursuant to an order under subsection (1)
+
+shall reimburse the Government for the costs incurred by Government in respect of the
+
+provision of fire protection services pursuant to subsection (3), unless the Government waives
+
+the payment of those costs under subsection (6).
+
+### Reimbursement by fire district
+
+(5) Where a fire district receives fire protection services pursuant to an order under subsection (1),
+
+the Government shall be reimbursed for the costs incurred by Government in respect of the
+
+provision of fire protection services pursuant to subsection (3) from the taxes collected for the
+
+fire district under subsection 44(5), unless the Government waives the payment of those costs
+
+under subsection (6).
+
+### Waiver of payment
+
+(6) The Government may, on the request of a fire district or municipality, waive the payment of
+
+all or any part of a debt due for fire protection services provided in the fire district or
+
+municipality that is owed to the Government under this section.
+
+### Appointment of Fire Marshal
+
+8.(1) The Minister shall appoint a Fire Marshal to perform the duties specified in this Act and the
+
+regulations.
+
+### Appointment of Deputy Fire Marshal
+
+(2) The Minister may appoint a Deputy Fire Marshal to perform the duties specified in this Act
+
+and the regulations.
+
+### Employees may be designated
+
+(3) The Minister may designate one or more employees of the Department to carry out the duties
+
+assigned by the Fire Marshal.
+
+### Duties and Powers of Fire Marshal and Other Officers
+
+### Duties and powers of Fire Marshal
+
+9.(1) The Fire Marshal shall exercise the powers and perform the duties that are assigned to the Fire
+
+Marshal
+
+(a) under this Act and the regulations;
+
+(b) under another enactment; and
+
+(c) by the Minister.
+
+### Enforcement of laws
+
+(2) The Fire Marshal shall enforce all laws in force in the province relating to
+
+(a) the prevention of fires, other than a fire in a forest as defined in the Forest Fire
+
+Protection Act R.S.P.E.I. 1988, Cap. F-13.2;
+
+(b) the storage, sale and use of combustives and explosives;
+
+(c) the installation and maintenance of fire detection and fire protection systems and fire
+
+extinguishing equipment;
+
+(d) the construction, maintenance and regulation of fire escapes;
+
+(e) the means and adequacy of exit in case of fire from any place in which individuals
+
+work, live, congregate or are detained; and
+
+(f) the suppression of arson and investigation of the cause, origin and circumstances of
+
+fires, including a fire in a forest as defined in the Forest Fire Protection Act.
+
+### Other duties
+
+(3) The Fire Marshal shall
+
+(a) collect and disseminate information with regard to fires in the province;
+
+(b) investigate conditions under which fires are likely to occur;
+
+(c) study methods of fire prevention; and
+
+(d) provide advice and make recommendations as the Fire Marshal considers advisable to
+
+fire district committees, fire services, municipalities, the Minister and other persons
+
+regarding
+
+(i) the establishment and administration of fire companies and municipal fire
+
+departments,
+
+(ii) the provision of adequate water supply for firefighting,
+
+(iii) the enactment and enforcement by municipalities of bylaws for the prevention
+
+of fire or the protection of life and property against fire, and
+
+(iv) the means and adequacy of fire detection and fire protection systems in
+
+buildings and of exits from buildings in case of fire.
+
+### Enforcement of Forest Fire Protection Act
+
+(4) The Fire Marshal may, at the written request of the Minister responsible for the Forest Fire
+
+Protection Act, enforce all or part of that Act, as specified in the request.
+
+### Delegation by Fire Marshal
+
+(5) The Fire Marshal may delegate, in writing, to a fire official any of the powers, responsibilities
+
+and functions of the Fire Marshal under this Act, as may be specified in the delegation.
+
+### Peace officer status
+
+10.(1) The Fire Marshal is a peace officer and has, while carrying out the duties of the Fire Marshal
+
+under this Act, the regulations or another enactment, all the powers, authority, privileges, rights
+
+and immunities of a peace officer and constable under the Criminal Code (Canada) and any
+
+other federal or provincial enactment.
+
+### Exception
+
+(2) Despite subsection (1), the Fire Marshal is not empowered to carry a firearm.
+
+### Duty of Deputy Fire Marshal
+
+11.(1) The Deputy Fire Marshal may act in the place of the Fire Marshal
+
+(a) when the Fire Marshal is unable, for any reason, to fulfil the duties of the Fire Marshal
+
+under this Act;
+
+(b) in the case of a vacancy in the office of the Fire Marshal; or
+
+(c) when ordered to do so by the Fire Marshal.
+
+### Powers and authority of Deputy Fire Marshal
+
+(2) The Deputy Fire Marshal has all the powers and authority of the Fire Marshal
+
+(a) when acting in the place of the Fire Marshal under subsection (1); or
+
+(b) when conducting an inquiry into the cause, origin and circumstances of a fire.
+
+### Peace officer status
+
+(3) The Deputy Fire Marshal is a peace officer and has, while carrying out the duties of the Deputy
+
+Fire Marshal under this Act, the regulations or another enactment, all the powers, authority,
+
+privileges, rights and immunities of peace officer and constable under the Criminal Code
+
+(Canada) and any other federal or provincial enactment.
+
+### Exception
+
+(4) Despite subsection (3), the Deputy Fire Marshal is not empowered to carry a firearm.
+
+### Appointment of local assistants
+
+12.(1) The Fire Marshal may appoint the following persons as local assistants:
+
+(a) in a municipality with a municipal fire department,
+
+(i) the chief of the fire department, and
+
+(ii) any other member of the fire department authorized by the chief of the fire
+
+department to act as a local assistant;
+
+(b) in any other place in the province, a person who, in the opinion of the Fire Marshal,
+
+has the appropriate skills and experience to act as a local assistant.
+
+### Jurisdiction
+
+(2) The appointment of a person as a local assistant shall specify the jurisdiction for which the
+
+local assistant is appointed.
+
+### Duties, powers of local assistant
+
+(3) A local assistant
+
+(a) shall perform the duties required of a local assistant under this Act; and
+
+(b) may, within the jurisdiction for which the local assistant is appointed, administer this
+
+Act and the regulations.
+
+### Issuance of identification
+
+(4) The Fire Marshal shall issue an identification card to each person appointed as a local assistant
+
+under subsection (1).
+
+### Consent required
+
+(5) A local assistant shall not commence proceedings to enforce this Act or the regulations without
+
+the written consent of the Fire Marshal.
+
+### Appointment of inspector
+
+13.(1) The Fire Marshal may appoint any person as an inspector for the purposes of this Act.
+
+### Issuance of identification
+
+(2) The Fire Marshal shall issue an identification card to each person appointed as an inspector
+
+under subsection (1).
+
+### Duties, authority
+
+(3) An inspector may, subject to the direction of the Fire Marshal, perform the duties and exercise
+
+the authority assigned to an inspector under this Act.
+
+### Fire Marshal as inspector
+
+(4) The Fire Marshal may, on the Fire Marshal’s own initiative, act as an inspector, and when
+
+acting in that capacity has all the powers and authority of an inspector under this Act.
+
+## PART 3 - FIRE SAFETY
+
+### General Duties
+
+### Duty to comply
+
+14. Subject to this Act and the regulations, every person shall take reasonable precautions to
+
+achieve fire safety and to comply with
+
+(a) this Act and the regulations; and
+
+(b) any code that has been adopted under subsection 64(2).
+
+### Submission of plans, etc. for review
+
+15.(1) Where required by the regulations, an occupant of land or premises shall, before the
+
+commencement of construction of a new building or alterations or repairs to an existing
+
+building, submit the plans and specifications to the Fire Marshal or a municipal fire inspector
+
+for review under subsection (2).
+
+### Advice respecting plans, etc.
+
+(2) On receipt of plans and specifications described in subsection (1), the Fire Marshal or
+
+municipal fire inspector shall review the plans and specifications and advise the occupant and
+
+a building inspector or building official of any apparent contravention of this Act, the
+
+regulations or a code that would result if the construction, alterations or repairs were to proceed
+
+without a change in the plans or specifications.
+
+### Professionally-designed building, etc.
+
+16. Where a building or a fire detection or fire protection system has been designed by a
+
+professional, the occupant of the land or premises shall, at the request of the Fire Marshal,
+
+provide the Fire Marshal with a certificate of compliance in respect of this Act, the regulations
+
+or a code, as the case may be.
+
+### Installation of Fire Detection and Protection Systems
+
+### Installers
+
+17.(1) A person who meets the requirements specified in the regulations in respect of a class of
+
+installers of fire detection or fire protection systems may, when acting as an installer of that
+
+class,
+
+(a) install a fire detection or fire protection system in accordance with the regulations; and
+
+(b) maintain a fire detection or fire protection system in accordance with the regulations.
+
+### Regulations
+
+(2) The Lieutenant Governor in Council may make regulations
+
+(a) prescribing the classes of installers for the purposes of this Act;
+
+(b) establishing the qualifications required in respect of each class of installer;
+
+(c) authorizing the Minister to designate an employee of the Department to
+
+(i) receive applications from persons requesting certification as an installer under
+
+this Act and the regulations,
+
+(ii) issue and renew certification to qualified persons, and
+
+(iii) carry out the other functions and responsibilities assigned to the employee by
+
+the Minister;
+
+(d) establishing standards of practice that apply to each class of installer; and
+
+(e) specifying the level of professional liability insurance that an installer or the installer’s
+
+employer is required to maintain.
+
+### Proof of certification
+
+(3) An installer shall provide proof of certification to the Fire Marshal or a fire official on request.
+
+### Prohibition
+
+18.(1) No person shall install a fire detection or fire protection system unless a permit for the
+
+installation has been issued by the Fire Marshal and the proposed installation conforms to
+
+(a) the requirements of this Act, the regulations and a code; and
+
+(b) the terms and conditions of the permit.
+
+### Exception
+
+(2) Subsection (1) does not apply to the installation
+
+(a) of a single station battery-powered fire detection system; or
+
+(b) interconnected smoke alarms that create an audible alarm.
+
+### Application for permit
+
+(3) An occupant, or a certified installer of fire detection or fire protection systems on behalf of an
+
+occupant, may apply for a permit by submitting the prescribed information, in the form
+
+approved by the Fire Marshal, to the Fire Marshal.
+
+### Prescribed fee required
+
+(4) An application submitted under subsection (3) shall be accompanied by the prescribed fee.
+
+### Issuance of permit
+
+(5) The Fire Marshal shall review the application and shall issue a permit for the proposed
+
+installation of a fire detection or fire protection system where the Fire Marshal is satisfied that
+
+(a) based on the information provided with the application, the proposed installation will
+
+comply with this Act, the regulations and a code;
+
+(b) the accompanying documents, if any, required for the application contain the
+
+prescribed information;
+
+(c) the application is otherwise complete; and
+
+(d) the fee specified in the regulations has been paid.
+
+### Revocation of permit
+
+(6) The Fire Marshal may revoke a permit issued under this section where
+
+(a) it was issued based on mistaken, false or incorrect information;
+
+(b) within two years after the date of its issuance, the installation of the fire detection or
+
+fire protection system in respect of which it was issued has not, in the opinion of the
+
+Fire Marshal, been substantially commenced;
+
+(c) the installation of the fire detection or fire protection system in respect of which it was
+
+issued has been, in the opinion of the Fire Marshal, substantially suspended or
+
+discontinued for a period of more than 12 months;
+
+(d) it was issued in error; or
+
+(e) the holder of the permit requests in writing that it be revoked.
+
+### Permit shall be posted
+
+(7) The occupant or a person acting on behalf of the occupant shall post a permit or a copy of a
+
+permit in a prominent place on the premises in respect of which the permit was issued.
+
+### Capacity Permits
+
+### Requirement for capacity permit
+
+19.(1) This section applies where the Lieutenant Governor in Council has, on the recommendation of
+
+the Minister, made regulations under subsection 64(2) adopting a code of fire safety rules or
+
+standards for fire safety in respect of premises used for gatherings for a purpose specified in
+
+the regulations.
+
+### Prohibition
+
+(2) No occupant shall use premises, or allow the occupant’s premises to be used, for a gathering
+
+specified in the regulations unless a capacity permit for the premises has been issued by the
+
+Fire Marshal and the use conforms
+
+(a) to the requirements of this Act, the regulations and the code referred to in subsection
+
+(1); and
+
+(b) to the terms and conditions of the capacity permit.
+
+### Application
+
+(3) An occupant may apply for a capacity permit to the Fire Marshal in the form approved by the
+
+Fire Marshal.
+
+### Issuance of capacity permit
+
+(4) The Fire Marshal may issue a capacity permit for premises referred to in subsection (2) on
+
+which shall be specified the maximum number of persons who may enter, be in, or remain in
+
+the premises at one time.
+
+### Permit shall be posted
+
+(5) The occupant of premises for which a capacity permit has been issued shall post the capacity
+
+permit in a prominent place within the public area of the premises, and shall ensure that the
+
+capacity permit remains posted during the time it is valid.
+
+### Suspension, revocation of permit
+
+(6) The Fire Marshal may, by order, suspend or revoke a capacity permit issued under this section
+
+where
+
+(a) it was issued based on mistaken, false or incorrect information;
+
+(b) the occupant allows a number of persons to enter, be in, or remain in the premises at
+
+one time that exceeds the maximum number of persons allowed to enter, be in, or
+
+remain in the premises in accordance with the capacity permit;
+
+(c) in the Fire Marshal’s opinion, there is noncompliance with the requirements of this
+
+Act, the regulations or the code, and the suspension or revocation is necessary to
+
+protect the health or safety of persons who may occupy the premises;
+
+(d) it was issued in error; or
+
+(e) the holder of the capacity permit requests that it be revoked.
+
+### Effect of suspension
+
+(7) Where the Fire Marshal suspends a capacity permit under subsection (6),
+
+(a) the suspension
+
+(i) is in effect for at least 24 hours, and
+
+(ii) continues until, in the opinion of the Fire Marshal, the occupant of the premises
+
+has corrected any noncompliance with the requirements of this Act, the
+
+regulations or the code; and
+
+(b) the premises shall not be occupied by any person, except for the purposes of
+
+completing work on the premises to comply with the requirements of this Act, the
+
+regulations or the code.
+
+### Application to court
+
+(8) Where the Fire Marshal has reasonable grounds to believe that the occupant of premises
+
+(a) for which a capacity permit is required, has not obtained the required permit; or
+
+(b) in respect of which a capacity permit has been suspended or cancelled, has failed to
+
+comply with the suspension or cancellation,
+
+the Fire Marshal may apply to the court in accordance with section 28 for an injunction to
+
+compel the occupant to comply with the requirements of this section or the terms of the
+
+suspension or cancellation of the permit, as the case may be.
+
+### Fire Hazards
+
+### Heaters and burners
+
+20.(1) The Fire Marshal may
+
+(a) at any time order the inspection of the installation and operation of any oil, gas or solid
+
+fuel heaters or burners, wherever used; and
+
+(b) order the use of an oil, gas or solid fuel heater or burner to be discontinued until safe
+
+for use where, in the opinion of the Fire Marshal, the heater or burner is in a hazardous
+
+condition or location.
+
+### Information respecting installation required
+
+(2) For the purposes of an inspection under subsection (1), the Fire Marshal may require the
+
+occupant of the premises to provide confirmation that the installation was completed by a
+
+person qualified in accordance with the Boilers and Pressure Vessels Act R.S.P.E.I. 1988, Cap.
+
+B-5 to install heaters or burners, as the case may be.
+
+### Fire Marshal may issue order
+
+(3) The Fire Marshal may issue an order that requires the occupant referred to in subsection (2) to
+
+have the installation inspected by a qualified person specified by the Fire Marshal and to
+
+provide the results of the inspection to the Fire Marshal, where
+
+(a) the occupant of the premises fails to provide confirmation as required under subsection
+
+(2); or
+
+(b) the heater or burner was not installed by a qualified person.
+
+### Order to discontinue use
+
+(4) Where an inspection conducted under subsection (3) shows that the heater or burner is in a
+
+hazardous condition or location, the Fire Marshal may order that the use of the heater or burner
+
+be discontinued until it is made safe for use.
+
+### Authority in emergency - Fire Marshal or inspector
+
+21. Where an emergency arises from a fire hazard or from a risk of explosion that causes the Fire
+
+Marshal or an inspector to be apprehensive of imminent and serious danger to life or property,
+
+the Fire Marshal or inspector may
+
+(a) take the steps that the Fire Marshal or inspector thinks advisable to remove the hazard
+
+or risk;
+
+(b) cause the evacuation of any premises; and
+
+(c) direct members of the relevant police service, fire company or municipal fire
+
+department to assist the Fire Marshal or inspector under this section.
+
+### Authority to deal with fire hazard - fire official
+
+22.(1) Where a fire official believes on reasonable and probable grounds that a fire hazard may exist
+
+at any premises, the fire official
+
+(a) shall investigate or cause an investigation to be carried out to determine whether the
+
+fire hazard exists and report the results to the Fire Marshal; and
+
+(b) may issue a direction in the form required by the Fire Marshal in respect of any fire
+
+hazard found to exist
+
+(i) to the occupant of the premises where the fire hazard is located,
+
+(ii) to the person who owns or appears to be responsible for the fire hazard, or
+
+(iii) to the person who is engaged in or administers an enterprise or activity in or
+
+on the premises.
+
+### Contents of direction
+
+(2) A direction issued by a fire official under subsection (1) shall contain
+
+(a) the reasons for the direction;
+
+(b) the remedial action to be taken and the time limit for taking that action; and
+
+(c) a statement advising that where the direction is not followed, the Fire Marshal may
+
+issue an order under section 23 in respect of the fire hazard.
+
+### Order of Fire Marshal
+
+23.(1) Where the Fire Marshal has reasonable and probable grounds to believe that a fire hazard exists
+
+at a premises, or an occupant or other person has failed to comply with a direction issued under
+
+section 22, and the criteria set out in subsection (2) are satisfied, the Fire Marshal may issue an
+
+order to prevent, decrease the effect of or eliminate the fire hazard, including but not limited to
+
+an order
+
+(a) that the occupant remove or destroy a building or structure;
+
+(b) that the occupant alter or repair a building or structure;
+
+(c) that the occupant close the premises for the period specified in the order;
+
+(d) that the occupant alter the use or occupancy of any premises;
+
+(e) that the occupant remove combustive or explosive material;
+
+(f) that the occupant remedy inflammable conditions that endanger life or property;
+
+(g) where a fire hazard exists in or around premises, that the occupant remove or take
+
+proper precautions against the fire hazard;
+
+(h) where, in contravention of any applicable codes of fire safety rules, there are no
+
+suitable and efficient automatic or other approved fire detection or fire protection
+
+systems and no suitable and efficient fire extinguishing equipment maintained in a
+
+premises, that the occupant
+
+(i) install an approved automatic or other approved fire detection or fire protection
+
+system and approved fire extinguishing equipment suitable to the use and
+
+occupancy of the premises, or
+
+(ii) change the existing fire detection or fire protection system and change or
+
+supplement the fire extinguishing equipment to provide reasonable protection
+
+from fire to the persons occupying the premises;
+
+(i) where there are no fire escapes maintained in a premises, or the fire escapes and means
+
+of access to the fire escapes are not suitable for the safe and rapid evacuation of persons
+
+from the premises in the event of a fire, that the occupant
+
+(i) install, and maintain in good repair, fire escapes and exits suitable to and
+
+sufficient for the type and class of building or structure, and
+
+(ii) ensure that the means of access to the fire escapes and exits referred to in
+
+subclause (i) is by means of doors opening outward; and
+
+(j) where a premises, or its use, does not comply with the code, that the occupant make
+
+the changes specified in the order to comply with the code.
+
+### Criteria
+
+(2) The criteria to be satisfied for the purposes of subsection (1) are
+
+(a) the remedial action to be specified in the order is necessary to eliminate, reduce or
+
+control the fire hazard; and
+
+(b) less intrusive means of dealing with the matter are, in the opinion of the Fire Marshal,
+
+not sufficiently effective.
+
+### Meaning of closing of premises
+
+(3) An order under this section that requires the closing of premises is an order
+
+(a) to shut the premises so as to prevent the entrance or access to the premises by any
+
+person; and
+
+(b) to suspend the operation of any enterprise, occupancy or activity on or in the premises,
+
+except for the purpose of taking remedial action as ordered by the Fire Marshal.
+
+### Persons to whom order may be directed
+
+(4) An order under this section may be directed to any one or more of
+
+(a) the occupant of the premises to which the order relates;
+
+(b) the person who appears to be responsible for the fire hazard; and
+
+(c) the person who is engaged in or administers an enterprise or activity in or on the
+
+premises.
+
+### Contents of order
+
+(5) Subject to subsection (6), an order made under this section shall be in writing and shall contain
+
+(a) the reasons for the order;
+
+(b) the remedial action to be taken and time within which that action shall be taken; and
+
+(c) a statement advising that where an order is not followed, the Fire Marshal may take
+
+action under section 26 or apply to the court under section 28 to enforce the order and
+
+for costs.
+
+### Oral order
+
+(6) Where the delay necessary to put an order under this section in writing will or is likely to
+
+substantially increase the fire hazard, the Fire Marshal may issue an order orally containing the
+
+information contained in clauses (5)(a) to (c).
+
+### Service of written order
+
+(7) Where an order is issued orally under this section, the order shall be put into writing and served
+
+on each person to whom the order was directed within 72 hours after the making of the oral
+
+order, but a failure to comply with this section does not invalidate the order.
+
+### Compliance required
+
+(8) A person to whom an order is directed under this section shall comply with the order.
+
+### Missing name does not invalidate order
+
+24.(1) It is sufficient in an order under section 23 to direct the order to a person or persons described
+
+in the order and an order is not invalid by reason only of the fact that a person to whom the
+
+order is directed is not named in the order.
+
+### Requirement to communicate to others
+
+(2) An order may require the person to whom the order is directed to communicate the contents of
+
+the order to other persons as specified in the order.
+
+### Public notice of order
+
+(3) Where it is not practicable to serve a copy of an order directed to a class of persons on each
+
+member of the class, the Fire Marshal may instead provide public notice of the order by any
+
+means of communication that the Fire Marshal considers will make it known to the majority of
+
+the members of the class.
+
+### Contents of public notice
+
+(4) The public notice of an order referred to in subsection (3) shall include
+
+(a) information to enable members of the class to understand to whom the order is directed;
+
+(b) the details of the order; and
+
+(c) information on where to direct inquiries about the order and where to obtain a copy of
+
+it.
+
+### Seizure of substance or thing
+
+25.(1) Where the Fire Marshal believes on reasonable and probable grounds that a condition of any
+
+substance or thing is a fire hazard, the Fire Marshal may seize or cause the seizure of the
+
+substance or thing.
+
+### Detention of substance or thing
+
+(2) The Fire Marshal may retain and remove a substance or thing seized under subsection (1)
+
+pending the examination or inspection that is necessary, in the Fire Marshal’s opinion, to
+
+determine the existence of the fire hazard.
+
+### Notification, release of substance or thing
+
+(3) Where the examination or inspection of a substance or thing seized under subsection (1)
+
+indicates that a fire hazard is not present, the Fire Marshal shall notify the owner or person
+
+from whom it is seized and shall release it to the owner or person.
+
+### Disposal of unclaimed substance or thing
+
+(4) Where the owner or person from whom a substance or thing is seized does not reclaim it within
+
+three working days after receiving notification under subsection (3), the Fire Marshal may
+
+cause it to be disposed of or destroyed.
+
+### Where fire hazard present
+
+(5) Where the examination or inspection of a substance or thing that was seized indicates that a
+
+fire hazard is present, the Fire Marshal shall destroy it, dispose of it or take such other action
+
+as the Fire Marshal considers necessary to eliminate or decrease the fire hazard.
+
+### Costs may be recovered by Fire Marshal
+
+(6) Where a substance or thing was seized and subsequently found to be a fire hazard, the Fire
+
+Marshal may recover from the owner or person from whom it was seized the cost of the seizure,
+
+destruction, disposal or other action that was taken to eliminate or decrease the fire hazard, and
+
+section 27 applies to the recovery with the necessary modifications.
+
+### Authority of Fire Marshal to deal with fire hazard
+
+26. Where the Fire Marshal believes on reasonable and probable grounds that a fire hazard exists
+
+at a premises and the person to whom an order is or would be directed under section 23
+
+(a) has refused to comply with or is not complying with the order;
+
+(b) is not likely to comply with the order promptly;
+
+(c) cannot readily be identified or located and as a result the order would not be carried
+
+out promptly; or
+
+(d) requests the assistance of the Fire Marshal in preventing or decreasing the effects of or
+
+eliminating the fire hazard,
+
+the Fire Marshal may enter the premises with persons, materials and equipment, and use force,
+
+as the Fire Marshal considers necessary, and may take the action the Fire Marshal considers
+
+necessary to carry out or give effect to a provision of an order to eliminate or decrease the fire
+
+hazard.
+
+### Recovery of expenses, costs
+
+27. The expenses incurred by the Fire Marshal to remediate any fire hazard may be recovered with
+
+costs from any person to whom an order is or would be directed under section 23 in respect of
+
+the fire hazard by application in the court as a debt owed to the Government.
+
+### Application to court for enforcement
+
+28.(1) The Fire Marshal may apply to the court for an order or an injunction where a person
+
+contravenes this Act or the regulations, or a person to whom an order has been directed under
+
+this Part
+
+(a) refuses to comply with a provision of the Act or regulations or the order, or, in the Fire
+
+Marshal’s opinion, is likely to refuse to do so; or
+
+(b) cannot be readily identified or located and, as a result, the order cannot be carried out
+
+promptly.
+
+### Suspension or cancellation of permit
+
+(2) For greater certainty, the suspension or cancellation of a permit, including a capacity permit
+
+under section 19, is an order of the Fire Marshal for the purposes of this section.
+
+### Order, injunction
+
+(3) Where the court is satisfied that the conditions for an application under subsection (1) are met,
+
+the court may
+
+(a) make an order directing a person, including any or all peace officers in the province,
+
+to assist the Fire Marshal in carrying out the order issued under this Part, using any
+
+force that is reasonably necessary in the circumstances; or
+
+(b) grant an injunction prohibiting an occupant from allowing persons to enter, be in or
+
+remain in premises for which a capacity permit under section 19 is required but has not
+
+been issued or has been suspended or cancelled.
+
+### Prior notice not required
+
+(4) An order under this section may be made or an injunction granted without providing prior
+
+notice to
+
+(a) an owner of a substance or thing that is a fire hazard;
+
+(b) a person from whom a substance or thing was seized;
+
+(c) the occupant of the place or premises where the fire hazard is located; or
+
+(d) the occupant of premises for which a capacity permit under section 19 is required.
+
+## PART 4 - INVESTIGATION OF FIRES
+
+### Authority to investigate fires
+
+29.(1) The Fire Marshal, an inspector or a local assistant may investigate or cause to be investigated
+
+the origin and circumstances of every fire, including a fire in a forest as defined in the Forest
+
+Fire Protection Act, by which
+
+(a) any person has died or suffered injury; or
+
+(b) property has been destroyed or damaged.
+
+### Duties of local assistant
+
+(2) An inspector or a local assistant shall complete the form approved by the Fire Marshal setting
+
+out the facts related to a fire, its cause and its origin where
+
+(a) the inspector or local assistant is investigating the fire and finds that
+
+(i) the fire has been caused by negligence or design,
+
+(ii) any person died as a result of the fire, or
+
+(iii) property in respect of which no contract of insurance was in effect, was
+
+damaged or destroyed; or
+
+(b) the inspector or local assistant is instructed to do so by the Fire Marshal.
+
+### Authority of Fire Marshal
+
+30. The Fire Marshal may, in relation to any investigation of a fire under this Part,
+
+(a) summon any person before the Fire Marshal and require that person to give oral or
+
+written evidence on oath and to produce those documents and things under that
+
+person’s control that the Fire Marshal considers necessary to the full review of the
+
+matter;
+
+(b) administer oaths and solemn affirmations; and
+
+(c) receive and accept on oath or solemn affirmation, or by affidavit, the evidence and
+
+other information that the Fire Marshal considers appropriate, whether or not the
+
+evidence or information would be admissible in a court of law.
+
+### Evidence of crime
+
+31. Where, in the opinion of the Fire Marshal, there is sufficient evidence to charge a person with
+
+the crime of arson or an attempt to commit arson, the Fire Marshal shall report the matter to
+
+the police service with territorial jurisdiction and shall provide to the police service the
+
+evidence and information obtained by the Fire Marshal.
+
+## PART 5 - REPORTING AND RECORDS OF FIRES
+
+### Statement by licensed fire insurance company
+
+32.(1) Every licensed fire insurance company shall furnish to the Fire Marshal, in the form approved
+
+by the Fire Marshal, a statement of every fire that occurs in the province and in which that
+
+company is interested as insurer.
+
+### Contents of statement
+
+(2) The statement shall show
+
+(a) the name of the insured;
+
+(b) the address of the insured;
+
+(c) the location of the risk;
+
+(d) the value of the premises and contents;
+
+(e) the amount of insurance carried; and
+
+(f) the amount of loss sustained.
+
+### Filing of statement
+
+(3) The licensed fire insurance company shall file the statement in the office of the Fire Marshal
+
+within seven days after the end of the calendar month for which it is made.
+
+### Report of loss by fire
+
+(4) Any person who sustains or claims to have sustained loss by fire on property in the province
+
+shall, upon the request of the Fire Marshal, notify the Fire Marshal of the date of the fire and
+
+the amount of loss sustained, and furnish the Fire Marshal with any further information
+
+concerning the fire that the Fire Marshal may require.
+
+### Duty of insurance adjuster
+
+(5) An insurance adjuster who makes adjustments of a loss or damage by fire
+
+(a) shall report the adjustments to the Fire Marshal in the form required by the Fire
+
+Marshal; and
+
+(b) shall file the form with the Fire Marshal within seven days after the end of the calendar
+
+month to which the report applies.
+
+### Duty to report suspicious fires
+
+(6) Any insurance adjuster and any person who has any knowledge that indicates the origin of a
+
+fire is open to suspicion shall forthwith make a report to the Fire Marshal or a local assistant
+
+including
+
+(a) the location of the premises where the fire occurred;
+
+(b) the date of the fire; and
+
+(c) any facts and circumstances that have come to the person’s attention and tend to
+
+establish the cause or origin of the fire.
+
+### Fire Marshal’s record of fires
+
+33.(1) The Fire Marshal shall maintain a record of fires occurring in the province together with all
+
+facts, statistics and circumstances that have been determined by inquiry, including
+
+(a) the origin of fires;
+
+(b) location;
+
+(c) time and date of occurrence;
+
+(d) suggested cause; and
+
+(e) name of the owner of the property affected.
+
+### Public inspection
+
+(2) The records referred to in subsection (1) shall be open to public inspection during normal
+
+business hours at the office of the Fire Marshal.
+
+## PART 6 - FIRE COMPANIES
+
+### Definitions
+
+34. In this Part,
+
+(a) “rural community” means a rural community as defined in the regulations;
+
+(b) “Director of Corporations” means the Director of Corporations appointed under
+
+section 2 of the Companies Act R.S.P.E.I. 1988, Cap. C-14.
+
+### Incorporation of fire company
+
+35.(1) Subject to subsection (2), persons in a rural community or a municipality who meet the
+
+requirements set out in the regulations may submit to the Minister an application, in the
+
+prescribed form and in accordance with the regulations, for the incorporation of a fire company
+
+to serve a specified area.
+
+### Review by Fire Marshal
+
+(2) The persons referred to in subsection (1) shall submit their application, together with any
+
+additional information requested by the Fire Marshal, to the Fire Marshal for review before
+
+submitting the application to the Minister.
+
+### Approval by Fire Marshal
+
+(3) The Fire Marshal may approve the application submitted under subsection (2) where, in the
+
+opinion of the Fire Marshal, the incorporation of the fire company is in the public interest.
+
+### Supporting documentation
+
+(4) An application for the incorporation of a fire company shall be accompanied by proof
+
+acceptable to the Minister that the application has been reviewed and approved by the Fire
+
+Marshal.
+
+### Ministerial approval
+
+(5) Where, in the opinion of the Minister, the application and accompanying documents provided
+
+under subsection (1) and (2) comply with any prescribed requirements, and the incorporation
+
+of the fire company is in the public interest, the Minister may approve the application.
+
+### Issuance of certificate of incorporation
+
+(6) On approval, the Minister shall forward the application to the Director of Corporations who
+
+shall issue a certificate of incorporation in the form approved by the Director, and
+
+(a) remit the certificate of incorporation to the fire company; and
+
+(b) remit a copy of the certificate of incorporation to the Fire Marshal and the Minister.
+
+### Body corporate
+
+(7) A fire company incorporated under this Part is a body corporate and has the obligations of a
+
+fire company incorporated under the Rural Community Fire Companies Act R.S.P.E.I. 1988,
+
+Cap. R-16 and all the powers of a company incorporated under Part II of the Companies Act
+
+R.S.P.E.I. 1988, Cap. C-14.
+
+### Annual report
+
+(8) Each fire company shall provide an annual report to the Minister in accordance with the
+
+regulations.
+
+### Continuation of fire companies previously incorporated
+
+36.(1) A fire company that was incorporated under the Rural Community Fire Companies Act
+
+R.S.P.E.I. 1988, Cap. R-16, is continued under this Act as a fire company and continues to
+
+have all the powers of a company incorporated under Part II of the Companies Act.
+
+### Authority to establish, impose fee or charge
+
+(2) A fire company continued under subsection (1) or incorporated under section 35 may fix a fee
+
+or charge, or a method for determining a fee or charge, for responses by the fire company to
+
+false alarms caused by an automatic fire detection system.
+
+### Recovery of fee or charge
+
+(3) A fee or charge imposed pursuant to subsection (2) is a debt due to the fire company by the
+
+occupant of the premises where the automatic fire detection system is installed, and may be
+
+recovered by proceedings for the recovery of a debt in court.
+
+### Register of fire companies
+
+37. The Director of Corporations shall keep a register of fire companies.
+
+### Application for permission to dissolve fire company
+
+38.(1) A fire company that intends to dissolve shall apply to the Minister in the form required by the
+
+Minister for permission to dissolve the fire company.
+
+### Required information
+
+(2) The application referred to in subsection (1) shall include information respecting any measures
+
+that have been taken or are proposed to ensure continuation of fire protection services in the
+
+area previously served by the fire company and the proposed disposition of the fire company’s
+
+assets and the winding up of its affairs.
+
+### Approval by Minister
+
+(3) The Minister may approve the application referred to in subsection (1) only where
+
+(a) the Fire Marshal has recommended approval of the application; and
+
+(b) in the opinion of the Minister, the dissolution of the fire company is in the public
+
+interest.
+
+### Notice to Director of Corporations
+
+(4) Where the Minister approves the dissolution of the fire company, the Minister shall notify the
+
+Director of Corporations that the fire company is authorized to proceed with the dissolution.
+
+### Application to change area served
+
+39.(1) A fire company may apply to the Fire Marshal for the purpose of changing the area to be served
+
+by the fire company.
+
+### Approval by Fire Marshal
+
+(2) The Fire Marshal may by order approve the application referred to in subsection (1).
+
+### Effective date of change
+
+(3) Where the Fire Marshal approves the application referred to in subsection (1), the change shall
+
+become effective on the date stated in the order of the Fire Marshal.
+
+### Regulations
+
+40. The Lieutenant Governor in Council may make regulations
+
+(a) respecting the number and qualifications of signatories to a petition to establish a fire
+
+company;
+
+(b) respecting the contents of an application for incorporation of a fire company;
+
+(c) requiring a petition for incorporation of a fire company to be accompanied by a
+
+memorandum of agreement that sets out the bylaws of the fire company;
+
+(d) respecting the register of fire companies;
+
+(e) respecting provisional directors of a fire company;
+
+(f) respecting the election of directors of a fire company;
+
+(g) respecting the remuneration of directors of a fire company;
+
+(h) respecting the dissolution of a fire company;
+
+(i) requiring a fire company to provide an annual report to the Minister;
+
+(j) respecting the information that is required to be included in an annual report; and
+
+(k) respecting the provisions of the Companies Act that apply to fire companies.
+
+## PART 7 - RURAL FIRE SERVICES
+
+### Definitions
+
+41. In this Part,
+
+(a) “fire district committee” means a committee comprised of three residents elected to
+
+represent the residents of a fire district;
+
+(b) “resident” means a person who is 18 years of age or older and is ordinarily resident
+
+within the boundaries of the fire district or area proposed to be a fire district.
+
+### Designation of fire district by Lieutenant Governor in Council
+
+42.(1) The Lieutenant Governor in Council, on the recommendation of the Minister, may designate
+
+an area of the province as a fire district and appoint an interim fire district committee.
+
+### Criteria for designation
+
+(2) The Lieutenant Governor in Council shall not designate an area of the province as a fire district
+
+or appoint an interim fire district committee unless the following criteria have been satisfied:
+
+(a) the proposed designation of the area as a fire district has been discussed at a public
+
+meeting of the residents;
+
+(b) the residents in attendance at the public meeting supported the proposal to designate
+
+the area as a fire district;
+
+(c) the names and addresses of at least 25 residents supporting the designation of the area
+
+as a fire district has been received by the Minister;
+
+(d) a boundary plan of the proposed fire district has been provided for the consideration of
+
+the Lieutenant Governor in Council.
+
+### Electronic means
+
+(3) A public meeting referred to in clause (2)(b) may be attended at any location by telephone,
+
+videoconference or other electronic means.
+
+### Duty of interim fire district committee
+
+43. The interim fire district committee shall negotiate the first contract for fire protection services
+
+from a fire service, arrange for the first election of the members of the fire district committee
+
+and arrange for the first annual meeting of the fire district committee.
+
+### Duty of fire district committee
+
+44.(1) The fire district committee shall, after negotiating the cost of fire protection services from a
+
+fire service, hold an annual meeting of residents at which it shall propose a rate of taxation
+
+sufficient to defray the cost of fire protection services and the expenses of the committee.
+
+### Notice of annual meeting
+
+(2) The fire district committee shall provide notice of the annual meeting of residents on at least
+
+two occasions, and the first notice shall be provided at least seven days prior to the date of the
+
+meeting.
+
+### Majority vote determines rate
+
+(3) A majority vote of the residents attending and voting at the meeting shall determine the rate of
+
+taxation to be levied within the fire district for the calendar year.
+
+### Notification to Minister of Finance
+
+(4) Prior to March 15 in each calendar year, the fire district committee shall notify the Minister of
+
+Finance and Affordability of the rate of taxation to be levied in the fire district for that year.
+
+### Collection of tax
+
+(5) Where a rate of taxation for fire protection is levied under this section, the tax shall be collected
+
+in the manner provided in the Real Property Tax Act R.S.P.E.I. 1988, Cap. R-5, for the
+
+collection of municipal real property tax.
+
+### Result of failure to notify
+
+(6) Where the fire district committee fails to notify the Minister of Finance and Affordability in
+
+accordance with subsection (4), the rate of taxation for that year is the rate applicable in respect
+
+of the previous year.
+
+### Electronic means
+
+(7) An annual meeting may be attended at any location by telephone, videoconference or other
+
+electronic means.
+
+### Members of fire district committee
+
+45.(1) A fire district committee shall be composed of a chairperson, a secretary and a treasurer.
+
+### Resignation of interim fire district committee
+
+(2) At the first annual meeting following its appointment, the interim fire district committee shall
+
+resign to permit the residents to elect a fire district committee.
+
+### Term of office
+
+(3) Elected members of the fire district committee shall hold office for three years and are eligible
+
+for re-election.
+
+### Ministerial appointment
+
+(4) Where an election for a fire district committee produces fewer than three elected members, the
+
+Minister shall appoint, from among the residents, the members necessary to fill the vacant
+
+positions.
+
+### Dismissal of fire district committee
+
+(5) Where a fire district committee has become inoperative or, in the opinion of the Minister,
+
+functions in a manner contrary to the best interests of the residents, the Lieutenant Governor in
+
+Council may, by order, dismiss the committee and appoint a special commissioner
+
+(a) to carry on the administration of the fire district on an interim basis; and
+
+(b) to arrange for the election of a new fire district committee.
+
+### Regulations
+
+46. The Lieutenant Governor in Council may make regulations
+
+(a) respecting the designation of a fire district;
+
+(b) respecting the extension and modification of a fire district boundary, including
+
+corrections and adjustments to the boundary;
+
+(c) respecting dissolutions and amalgamations of fire districts;
+
+(d) respecting the election of the fire district committee;
+
+(e) respecting the fire district committee, including
+
+(i) providing for the administration of the committee, and
+
+(ii) respecting the procedures to be followed by the committee in carrying out its
+
+functions under this Part.
+
+## PART 8 - FIREFIGHTERS LONG SERVICE MEDAL
+
+### Definition, “firefighter”
+
+47. In this Part, “firefighter” means a person who, in the opinion of the Fire Marshal, has served
+
+in the fighting or prevention of fires and, for greater certainty, includes a volunteer firefighter.
+
+### Continuation of PEI Firefighters Long Service Medal
+
+48. The PEI Firefighters Long Service Medal established under section 2 of the PEI Firefighters
+
+Long Service Medal Act R.S.P.E.I. 1988, Cap. F-10.1, is continued.
+
+### Any person may apply
+
+49.(1) Subject to subsection (2), an application to award a PEI Firefighters Long Service Medal to a
+
+firefighter may be made to the Fire Marshal by any person.
+
+### Exception
+
+(2) A firefighter may not apply for PEI Firefighters Long Service Medal on the firefighter’s own
+
+behalf.
+
+### Application requirements
+
+(3) An application under subsection (1) shall
+
+(a) be in a form approved and provided by the Fire Marshal; and
+
+(b) contain evidence, as required by the Fire Marshal, that the firefighter has at least 20
+
+years of service in the province as a firefighter.
+
+### Award of medal
+
+50.(1) The Fire Marshal shall award the PEI Firefighters Long Service Medal to a firefighter where
+
+(a) an application has been made in accordance with section 49; and
+
+(b) in the opinion of the Fire Marshal, the firefighter has served at least 20 years in the
+
+province as a firefighter.
+
+### Award of bar
+
+(2) The Fire Marshal shall award a bar representative of 10 years’ additional service to a firefighter
+
+to be worn with the PEI Firefighters Long Service Medal where
+
+(a) the firefighter has been awarded the PEI Firefighters Long Service Medal; and
+
+(b) the Fire Marshal is satisfied that the firefighter has served at least 30 years in the
+
+province as a firefighter.
+
+### Additional bar
+
+(3) The Fire Marshal shall award a bar to a firefighter, in addition to the bar referred to in
+
+subsection (2), for every 10 years of additional service as a firefighter in the province.
+
+### Application of section
+
+(4) For greater certainty, this section applies to both active and retired firefighters.
+
+### Prohibition
+
+51.(1) No person who has not been awarded or permitted under this Part to wear a PEI Firefighters
+
+Long Service Medal or bar shall
+
+(a) wear a PEI Firefighters Long Service Medal or bar; or
+
+(b) purport to have been awarded a PEI Firefighters Long Service Medal or bar.
+
+### Status of Fire Marshal
+
+(2) The Fire Marshal is, by virtue of the office, permitted to wear a PEI Firefighters Long Service
+
+Medal.
+
+## PART 9 - ENFORCEMENT AND PENALTIES
+
+### Inspection, Investigation or Inquiry
+
+### Investigative powers
+
+52.(1) For the purposes of administering and enforcing this Act, the Fire Marshal or any other person
+
+conducting an inspection or investigation may
+
+(a) make any inspection, investigation or inquiry that the person considers necessary;
+
+(b) at any reasonable time enter, without a warrant, any premises other than an occupied
+
+dwelling where a fire has occurred and other premises adjoining or near the premises
+
+where the fire occurred;
+
+(c) conduct any tests, take any samples and make any examinations that the person
+
+considers necessary;
+
+(d) require any other person at a premises to provide the person conducting the
+
+investigation with any information known to the person that might be relevant to the
+
+investigation;
+
+(e) require the production of, inspect and take copies of any records that might be relevant
+
+to the investigation;
+
+(f) require the production of any substance or thing for the purposes of the investigation;
+
+(g) require that any thing be dismantled, operated, used or set in motion under specified
+
+conditions for the purposes of the investigation; and
+
+(h) subject to subsection (2), remove any records examined under this section for the
+
+purpose of making copies.
+
+### Removal of records
+
+(2) Where a person conducting an investigation removes any records for copying under this
+
+section, the person shall
+
+(a) provide the occupant of the premises from which the records were obtained with a
+
+receipt for the records removed;
+
+(b) make copies as soon as is reasonably possible; and
+
+(c) after making copies, return the records to the premises from which the records were
+
+obtained or some other place agreed to by the person and the occupant of the premises.
+
+### Entry to dwelling only with consent or warrant
+
+(3) No person conducting an investigation under this Act shall enter a dwelling without a warrant
+
+unless the occupant consents to the entry.
+
+### Application for warrant
+
+(4) The Fire Marshal may make an application to a justice of the peace or a judge for a warrant to
+
+enter and search a dwelling without notice to any person.
+
+### Warrant to enter and search premises
+
+(5) Where the Fire Marshal makes an application under subsection (4), the justice of the peace or
+
+a judge may issue a warrant authorizing any fire official named in the warrant to enter and
+
+search the premises named in the warrant, where the justice of the peace or the judge is satisfied,
+
+on information under oath,
+
+(a) that a contravention of this Act, the regulations or the code is being or has been
+
+committed and there is evidence of the contravention at the premises proposed to be
+
+searched; or
+
+(b) a fire hazard is present at the premises proposed to be searched that is or may become
+
+a significant risk to public safety or property.
+
+### Entry without warrant in exigent circumstances
+
+(6) Notwithstanding subsection (3), the person conducting an investigation may enter a dwelling
+
+without a warrant and exercise any of the powers under clauses (1)(c) to (f) where the person
+
+believes on reasonable and probable grounds that
+
+(a) a fire described in subsection (1) occurred in the dwelling; and
+
+(b) the delay caused by obtaining a warrant would
+
+(i) result in the loss or destruction of evidence, or
+
+(ii) increase the risk to public safety or property presented by a fire hazard.
+
+### Prohibition - hindering, obstructing
+
+53.(1) No person shall hinder or obstruct
+
+(a) the conduct of an inspection, investigation, inquiry or search under this Act or the
+
+regulations; or
+
+(b) the enforcement of an order made under this Act or the regulations.
+
+### Exception
+
+(2) A refusal of consent to enter a dwelling is not and shall not be deemed to be hindering or
+
+obstructing within the meaning of subsection (1), except where an entry warrant has been
+
+obtained.
+
+### Prohibition - tampering
+
+(3) No person shall tamper with
+
+(a) any equipment or materials used by a person in the course of an inspection,
+
+investigation, inquiry or search under this Act or the regulations;
+
+(b) any results obtained from an inspection, investigation, inquiry or search under this Act
+
+or the regulations; or
+
+(c) any notices, directions or orders posted on the premises.
+
+### Prohibition - providing false or misleading information
+
+(4) No person shall knowingly provide false or misleading information, either orally or in writing,
+
+to a person conducting an inspection, investigation, inquiry or search under this Act or the
+
+regulations.
+
+### Assistance of other persons
+
+54. A person conducting an inspection, investigation, inquiry or search under this Act or the
+
+regulations may be accompanied by other persons for any purposes mentioned in subsection
+
+52(1), and those persons may carry out inspections, examinations, tests and inquiries and take
+
+any samples or do other things as directed by the person conducting the inspection,
+
+investigation, inquiry or search.
+
+### Duty of occupant
+
+55. An occupant of a place or premises and any employees or agents of the occupant shall
+
+(a) give all reasonable assistance to a person conducting an inspection, investigation,
+
+inquiry or search under this Act and the regulations; and
+
+(b) furnish the person conducting an inspection, investigation, inquiry or search with the
+
+information that is reasonably required for purposes referred to in subsection 52(1).
+
+### Review and Appeal of Orders
+
+### Request for review of order
+
+56.(1) Where an order is made under this Act, any owner or occupant aggrieved by the order may,
+
+within 10 days of receiving notice of the order, request the Fire Marshal to review the order
+
+and indicate the reasons why the order should not be revoked.
+
+### Review by Fire Marshal
+
+(2) On receipt of a request under subsection (1), the Fire Marshal shall review the order and may
+
+affirm, modify or revoke it.
+
+### Notice of decision
+
+(3) The Fire Marshal shall provide notice of the decision to be served upon the aggrieved person
+
+who requested the review.
+
+### Appeal to court
+
+57.(1) Where the aggrieved person is dissatisfied with the decision of the Fire Marshal referred to in
+
+subsection 56(2), the person may appeal the decision to the court.
+
+### Time for appeal
+
+(2) An appeal to the court shall be made within five days of receiving notice of the Fire Marshal’s
+
+decision under subsection 56(3).
+
+### Requirements for appeal
+
+(3) The appellant shall
+
+(a) file the appeal with the Prothonotary; and
+
+(b) within five days of filing the appeal, unless otherwise ordered by the court, file with
+
+the Prothonotary a bond
+
+(i) in an amount to be fixed by the court, which shall not be less than $100,
+
+(ii) with at least two sufficient sureties to be approved by the court, and
+
+(iii) with the condition that, if the appellant fails to sustain the appeal, the appellant
+
+will pay all costs on the appeal or any costs that the court may award against
+
+the appellant.
+
+### Offences and Penalties
+
+### Contravention by individual
+
+58.(1) An individual who contravenes a provision of this Act or the regulations for which no other
+
+penalty is specified is guilty of an offence punishable on summary conviction and is liable
+
+(a) to a fine of not less than $500 and not more than $10,000;
+
+(b) to a term of imprisonment of not more than 12 months; or
+
+(c) to both a fine and imprisonment.
+
+### Contravention by occupant
+
+(2) An occupant of premises who permits more persons to be in a premises than the maximum
+
+number specified in the capacity permit for those premises at one time is guilty of an offence
+
+and liable, upon summary conviction,
+
+(a) for a first offence, to a fine of not less than $200 and not more than $1,000; and
+
+(b) for a subsequent offence, to a fine of not less than $500 and not more than $10,000.
+
+### Failure to provide statement, report
+
+(3) A person who neglects or fails to provide a statement or report required by this Act is guilty of
+
+an offence and liable upon summary conviction to a fine not exceeding $200.
+
+### Failure to comply with code, standard
+
+(4) An occupant of premises that does not comply with a code adopted pursuant to subsection 64(2)
+
+is guilty of an offence and liable upon summary conviction to a fine of not less than $200 and
+
+not more than $1,000.
+
+### Contravention by corporation
+
+(5) A corporation that contravenes a provision of this Act or the regulations for which no other
+
+provision is made is guilty of an offence punishable on summary conviction and is liable to a
+
+fine of not less than $1,000 and not more than $50,000.
+
+### Continuing offence
+
+(6) A contravention of this Act or the regulations, or a failure to comply with an order of the
+
+Minister under section 6 or 7 or of the Fire Marshal, that is of a continuing nature constitutes a
+
+separate offence in respect of each day or part of a day that it continues.
+
+### Time limit
+
+(7) No information or complaint in respect of an offence under this Act shall be made or laid except
+
+within two years after the time when the matter of the information or complaint arose.
+
+## PART 10 - GENERAL
+
+### Protection from personal liability
+
+59. No action for damages or other legal proceedings lies or shall be instituted against the Minister,
+
+the Fire Marshal, the Deputy Fire Marshal, a local assistant, an inspector or any other person
+
+acting under the authority of this Act or the regulations for anything done or omitted to be done,
+
+in good faith, in the exercise or intended exercise of any power or performance of any duty
+
+under this Act or the regulations.
+
+### Service of documents
+
+60. A document to be served or given to a person under this Act for which no other method of
+
+service is specified may be served
+
+(a) by personal delivery to the person to whom it is directed; or
+
+(b) by sending it by registered mail to the person’s last known address.
+
+### Evidentiary value of copy of order
+
+61. A copy of an order purporting to be made by the Fire Marshal is, without proof of the office or
+
+signature of the Fire Marshal, receivable in evidence as proof, in the absence of evidence to the
+
+contrary, of the making of the order and of its contents for all purposes in any action, proceeding
+
+or prosecution.
+
+### Assistance of police officers
+
+62.(1) The Fire Marshal may request the assistance of one or more police officers to assist the Fire
+
+Marshal for the service of any summons or order issued by the Fire Marshal.
+
+### Duty of police officer
+
+(2) It is the duty of a police officer to provide assistance to the Fire Marshal where requested under
+
+subsection (1).
+
+### Annual report by Fire Marshal
+
+63. The Fire Marshal shall
+
+(a) submit annually to the Minister a detailed report of the official actions of the Fire
+
+Marshal under this Act; and
+
+(b) publish any portion of the report as directed by the Minister.
+
+### Regulations
+
+64.(1) The Lieutenant Governor in Council may make regulations
+
+(a) governing the sale, installation and maintenance in any premises of any appliance,
+
+fixture or thing that, in the opinion of the Fire Marshal, is likely to present a fire hazard;
+
+(b) governing the manufacture, sale, storage, carriage and disposal of any combustible,
+
+explosive or flammable matter or substance;
+
+(c) governing the location, construction, occupancy, equipment and general fire safety of
+
+places where persons work, live, congregate or are detained;
+
+(d) defining any term used but not defined in this Act; and
+
+(e) respecting any matter necessary and advisable to carry out effectively the intent and
+
+purposes of this Act.
+
+### Adoption of code, standard
+
+(2) Where a code of fire safety rules or standards for fire safety has been promulgated by any
+
+association or body of persons, the Lieutenant Governor in Council may, on the
+
+recommendation of the Minister, make regulations adopting the code or standard to be in force
+
+either in whole or in part and with the variations that are specified in the regulations.
+
+## PART 11 - TRANSITIONAL, CONSEQUENTIAL AMENDMENTS, REPEAL AND
+
+## COMMENCEMENT
+
+### Order under Fire Prevention Act
+
+65.(1) Subject to subsection (6), an order made under the Fire Prevention Act that is valid and in force
+
+on the coming into force of this section may be varied, rescinded, appealed or enforced in
+
+accordance with this Act as if the order were issued under this Act.
+
+### Proceeding under Fire Prevention Act
+
+(2) Subject to subsection (6), a proceeding commenced under the Fire Prevention Act before the
+
+date on which this section comes into force and not finally disposed of before that date shall be
+
+dealt with and disposed of in accordance with this Act.
+
+### Appointment of Fire Marshal, Deputy Fire Marshal
+
+(3) On the coming into force of this section, the appointment of a person as the Fire Marshal or
+
+Deputy Fire Marshal that was in effect on the coming into force of this section is continued as
+
+an appointment of the person as Fire Marshal or Deputy Fire Marshal, as the case may be,
+
+under this Act.
+
+### Appointment of local assistant
+
+(4) On the coming into force of this section, the appointment of a person as a local assistant that
+
+was in effect on the coming into force of this section is continued as an appointment of the
+
+person as a local assistant under this Act.
+
+### Designation of inspector
+
+(5) On the coming into force of this section, the designation of a person as an inspector that was in
+
+effect on the coming into force of this section is continued as a designation of the person as an
+
+inspector under this Act.
+
+### Exception
+
+(6) Subsections (1) and (2) do not apply to an order or a proceeding, as the case may be, under Part
+
+VII of the Fire Prevention Act.
+
+### Sections 66 to 69
+
+66.(These sections make consequential amendments to other Acts. The amendments have been
+
+incorporated into those Acts.)
+
+### Repeals
+
+70.(1) The Fire Prevention Act R.S.P.E.I. 1988, Cap. F-11, except for Part VII, is repealed.
+
+(2) The PEI Firefighters Long Service Medal Act R.S.P.E.I. 1988, Cap. F-10.1, is repealed.
+
+(3) The Rural Community Fire Companies Act R.S.P.E.I. 1988, Cap. R-16, is repealed.

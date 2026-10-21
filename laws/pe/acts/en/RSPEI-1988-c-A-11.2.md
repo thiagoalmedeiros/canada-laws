@@ -1,0 +1,2120 @@
+---
+type: "Act"
+title: "Animal Welfare Act"
+description: "Prince Edward Island Act, RSPEI 1988, c A-11.2."
+resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/a-11-2-animal_welfare_act.pdf"
+tags: ["pe", "act", "en"]
+jurisdiction: "pe"
+language: "en"
+citation: "RSPEI 1988, c A-11.2"
+document_date: "2025-11-01"
+upstream_license: "See upstream license: https://perma.cc/V9XJ-HTR4 © Government of Prince Edward Island. The consolidated statutes and regulations and the annual statutes from Prince Edward Island were updated by the A2AJ (Access to Algorithmic Justice project) on August 15, 2026 from the Legislative Counsel Office website (https://www.princeedwardisland.ca/en/legislation), maintained by the Government of Prince Edward Island. Copyright: Reproduction of Acts and regulations available in the A2AJ Canadian Laws dataset is governed by the Prince Edward Island's government copyright policy: https://www.princeedwardisland.ca/en/information/executive-council-office/website-disclaimer-and-copyright-policy. NOTE: This is an unofficial reproduction of Prince Edward Island legislation, made without endorsement or affiliation by the Government of Prince Edward Island. The official versions should be consulted for all purposes of interpreting and applying the law. Reproduced with the permission of the Legislative Counsel Office of Prince Edward Island (granted by email on July 20, 2026)."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-08-15T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.princeedwardisland.ca/sites/default/files/legislation/a-11-2-animal_welfare_act.pdf"
+    title: "Government of Prince Edward Island: official text"
+    author: "org:pe-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-PE/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-08-15T00:00:00Z"
+---
+
+# Animal Welfare Act
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of Prince Edward Island. Not endorsed by or affiliated with the Government of Prince Edward Island. Text obtained from the [official source](https://www.princeedwardisland.ca/sites/default/files/legislation/a-11-2-animal_welfare_act.pdf) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RSPEI 1988, c A-11.2
+
+### Definitions
+
+1.(1) In this Act
+
+(a) “abandoned” means, in respect of an animal, that the animal
+
+(i) is apparently ownerless but is under control,
+
+(ii) is found on rental premises after the expiration or termination of a tenancy
+
+agreement for the premises,
+
+(iii) is found on premises after the animal’s owner has sold or vacated the premises,
+
+(iv) has been left by the animal’s owner in the care of another person and has not
+
+been retrieved from the other person for more than four days after the expected
+
+retrieval time, or
+
+(v) has been without the care or treatment required under section 3 for 24 hours or
+
+more because the animal’s owner is confined to a medical facility or
+
+correctional institution;
+
+(b) “animal” means any species of animal with a developed nervous system, other than a
+
+human and an animal excluded under section 2;
+
+(c) “animal protection officer” means
+
+(i) a person appointed as an animal protection officer under section 17, and
+
+(ii) any person who has the powers of an animal protection officer by virtue of his
+
+or her office;
+
+(d) “Appeal Board” means the Appeal Board established under section 28;
+
+(e) “assembly yard” means any place where commercial animals are assembled for
+
+shipment by any form of transportation;
+
+(f) “care” means, in respect of an animal, the care or treatment required under section 3;
+
+(g) “caregiver” means a person or organization selected by the Director to provide care to
+
+an animal that has been seized or taken into custody;
+
+(h) “commercial animal” means any of the following animals:
+
+(i) alpacas,
+
+(ii) bison,
+
+(iii) cattle,
+
+(iv) chinchilla raised for fur production,
+
+(v) deer,
+
+(vi) donkeys,
+
+(vii) horses,
+
+(viii) elk,
+
+(ix) foxes raised for fur production,
+
+(x) goats,
+
+(xi) llamas,
+
+(xii) mink raised for fur production,
+
+(xiii) mules,
+
+(xiv) poultry,
+
+(xv) rabbits raised for fur production or as a source of food,
+
+(xvi) sheep,
+
+(xvii) swine,
+
+(xviii) vicunas,
+
+(xix) wildlife that is not the property of the Government,
+
+(xx) any other animal prescribed as a commercial animal;
+
+(i) “commercial market” means a stockyard or auction market that is operated as a public
+
+market for the purchase or sale of commercial animals;
+
+(j) “companion animal” means any animal that is not a commercial animal;
+
+(k) “companion animal retail store” means commercial premises where companion
+
+animals are kept and offered for sale to the public;
+
+(l) “costs of care” means any amount established under section 25 or the regulations to
+
+be the costs of care;
+
+(m) “Director” means the person appointed under section 15;
+
+(n) “distress” means, in respect of an animal,
+
+(i) any pain, suffering, harm, extreme anxiety or other impairment of health or
+
+well-being,
+
+(ii) any lack of care or treatment required under section 3, or
+
+(iii) any occurrence of an activity prohibited under section 4, 5 or 6;
+
+(o) “license” means a license issued under this Act;
+
+(p) “Minister ” means the Minister of Agriculture;
+
+(q) “owner”, in respect of an animal, means
+
+(i) an owner of the animal,
+
+(ii) a parent of a minor who is an owner of the animal,
+
+(iii) a person who has possession or control of the animal,
+
+(iv) a person who occupies the premises containing the animal, or
+
+(v) a person who possessed or controlled the animal, or occupied the premises
+
+containing the animal, immediately before the animal was seized or taken into
+
+custody;
+
+(r) “parent” means
+
+(i) a birth or adoptive parent who has custody or guardianship rights to a child,
+
+(ii) a person, who has stood in loco parentis to a child for a period of not less than
+
+one year and who has a continuing relationship with the child,
+
+(iii) a legal guardian of a child, or
+
+(iv) a person responsible for the care of a child and with whom the child resides;
+
+(s) “police officer” means a police officer as defined in subsection 15(1) of the Police Act
+
+R.S.P.E.I. 1988, Cap. P-11.1;
+
+(t) “premises” includes any place, building, vehicle, vessel, receptacle or thing;
+
+(u) “prescribed” means prescribed by the regulations;
+
+(v) “Society” means the Prince Edward Island Humane Society;
+
+(w) “vehicle” means a vehicle as defined in the Highway Traffic Act R.S.P.E.I. 1988, Cap.
+
+H-5;
+
+(x) “veterinarian” means a person who is registered and licensed under the Veterinary
+
+Profession Act R.S.P.E.I. 1988, Cap. V-3 to practise veterinary medicine in Prince
+
+Edward Island;
+
+(y) “wildlife” means wildlife as defined in the Wildlife Conservation Act R.S.P.E.I. 1988,
+
+Cap. W-4.1.
+
+### Companion animals
+
+(2) For greater certainty, a companion animal includes
+
+(a) a dog;
+
+(b) a cat; and
+
+(c) a chinchilla, rabbit, pot-bellied pig or any wildlife defined as “exotic” in the Wildlife
+
+Conservation Act, if kept for companionship or bred or raised for sale for
+
+companionship and not for an agricultural purpose.
+
+Conflict with Dog Act or the Stray Livestock Act
+
+(3) If there is a conflict or inconsistency between a provision of this Act and a provision of the
+
+Dog Owners Act R.S.P.E.I. 1988, Cap. D-13.01 or the Stray Livestock Act R.S.P.E.I. 1988,
+
+Cap. S-8.1 the provision of the Dog Owners Act or the Stray Livestock Act shall prevail to the
+
+extent of the conflict or inconsistency.
+
+### Application
+
+2.(1) This Act does not apply to
+
+(a) fish;
+
+(b) a marine mammal;
+
+(c) wildlife that is the property of the Government; and
+
+(d) any animal excluded by the regulations.
+
+### Game birds on shooting preserves
+
+(2) For greater certainty, this Act applies to game birds that are raised in captivity on a shooting
+
+preserve but ceases to apply once they are released for the purpose of hunting.
+
+## PART 1 — PROPER CARE AND TREATMENT OF ANIMALS
+
+Responsibilities for Animals
+
+### Duties of owner
+
+3.(1) Each owner of an animal shall ensure that
+
+(a) the animal is provided with adequate food and water sufficient to maintain the animal
+
+in a state of good health;
+
+(b) the animal is provided with adequate veterinary care when the animal is injured or ill;
+
+(c) the animal is provided with adequate shelter and reasonable protection from injurious
+
+heat or cold;
+
+(d) the animal has a reasonable opportunity for exercise; and
+
+(e) during any transport, the animal is transported in a manner that ensures its physical
+
+safety and general welfare.
+
+### Improper confinement
+
+(2) Each owner of an animal shall ensure that the animal is neither confined in a manner that will,
+
+over time, significantly impair the animal’s health or well-being nor confined in premises
+
+(a) with inadequate space;
+
+(b) with unsanitary conditions;
+
+(c) with inadequate ventilation or lighting;
+
+(d) that are not in a state of good repair;
+
+(e) that expose the animal to anything unsafe for or toxic to the animal;
+
+(f) with a texture or design that will bruise, cut or otherwise injure the animal; and
+
+(g) that contain another animal that may have an adverse effect on the animal.
+
+### Torture
+
+4.(1) No person shall knowingly torture an animal.
+
+### Pain, suffering or harm
+
+(2) No person shall
+
+(a) inflict on or cause unnecessary pain or suffering to an animal;
+
+(b) prolong the unnecessary pain or suffering of an animal;
+
+(c) inflict or cause significant impairment of an animal’s health or well-being; or
+
+(d) inflict or cause serious harm to an animal.
+
+### Adverse conditions
+
+(3) No person shall cause or permit an animal to be subjected to
+
+(a) conditions that cause the animal to suffer acute pain; or
+
+(b) conditions that, unless immediately alleviated, will cause the animal serious harm or
+
+death.
+
+### Improper release of commercial animals
+
+4.1.(1) No person shall, without lawful authority or excuse, enter a building or other enclosed place in
+
+which commercial animals are kept and release or allow the escape of any of the commercial
+
+animals.
+
+### Liability for improper release
+
+(2) Any person who contravenes subsection (1) with the result that commercial animals are
+
+released from the building or other place they are kept, shall be liable to the owner of the
+
+animals for the cost of any harm to the animals and any costs to the owner incurred under
+
+section 25, in addition to any fine that may be imposed as a result of a prosecution under this
+
+Act.
+
+### Training or permitting animals to fight
+
+5.(1) No person shall train an animal to fight with another animal or permit an animal that the person
+
+owns, or has possession or control of, to fight another animal.
+
+### Owning animal fighting equipment, structures
+
+(2) No person shall own or have possession of equipment or structures that are used in animal
+
+fights or in training animals to fight.
+
+### Harming law enforcement animals
+
+(3) No person shall harm or cause harm to a dog, horse or other animal that works with peace
+
+officers in the execution of their duties, whether or not the animal is working at the time of the
+
+harm.
+
+### Cosmetic surgery
+
+6.(1) No person shall perform, or permit to be performed, cosmetic surgery on an animal.
+
+### Meaning of cosmetic surgery
+
+(2) Cosmetic surgery means surgery performed solely for the purpose of altering the appearance
+
+of an animal, without a medical benefit, and includes the following:
+
+(a) tail docking for dogs, horses or cattle;
+
+(b) tail nicking and setting for horses;
+
+(c) ear cropping for dogs;
+
+(d) any other prescribed alteration or surgery.
+
+### Medical reasons
+
+(3) For greater certainty, the prohibition in subsection (1) does not prohibit surgery performed by
+
+a veterinarian to treat an injury to the animal or for other medical reasons beneficial to the
+
+animal’s health.
+
+### Accepted activities
+
+7.(1) Despite sections 3 to 6, the following activities, and any treatment, process or condition that
+
+occurs in the course of the following activities, shall not be considered to be a contravention of
+
+this Act:
+
+(a) an activity carried out in accordance with reasonable and generally accepted practices
+
+of agricultural animal care, management or husbandry;
+
+(b) the display or performance of an animal at a circus, exhibition or fair;
+
+(c) zoological display;
+
+(d) slaughter;
+
+(e) veterinary medicine as defined in Veterinary Profession Act;
+
+(f) training;
+
+(g) reasonable use of an animal for the protection of people or property;
+
+(h) sporting events;
+
+(i) trapping or hunting in accordance with the Wildlife Conservation Act;
+
+(j) research or teaching involving the use of animals;
+
+(k) control or elimination of pests or predators;
+
+(l) euthanasia;
+
+(m) any other prescribed activity.
+
+### Limits on accepted activities
+
+(2) An activity is acceptable under subsection (1) only if it is
+
+(a) consistent with a standard, code of conduct, criteria, practice or procedure specified as
+
+acceptable in the regulations;
+
+(b) consistent with generally accepted practices or procedures for the activity and does not
+
+cause unnecessary suffering; or
+
+(c) otherwise reasonable in the circumstances and does not cause unnecessary suffering.
+
+### Prohibited criminal activities
+
+(3) For greater certainty, nothing in this Act permits any activity that is specifically prohibited
+
+under Criminal Code (Canada).
+
+### Report of contravention
+
+8.(1) A veterinarian shall, without delay, report to the Director any event that the veterinarian
+
+believes on reasonable grounds is a contravention of sections 3 to 6.
+
+### Additional information
+
+(2) The Director may require the veterinarian to provide the Director with additional information
+
+relevant to the event that is known by, or readily available to, the veterinarian.
+
+Licensing
+
+### Companion animal retail store licenses
+
+9. No person shall operate a companion animal retail store unless the person holds a license issued
+
+by the Director for that purpose.
+
+### Application for license
+
+10.(1) An applicant for a license shall apply to the Director in accordance with the regulations.
+
+### Request for information and inspection
+
+(2) Before issuing a license, the Director may require
+
+(a) the applicant to submit any additional information the Director considers necessary;
+
+and
+
+(b) the applicant’s premises to be inspected by an animal protection officer or veterinarian,
+
+or both, to determine whether the premises and their proposed operation are in
+
+compliance with this Act and the regulations.
+
+### Incomplete application
+
+(3) If an application is incomplete, the Director may refuse to accept it or put it on hold until it is
+
+complete.
+
+### Issuing or refusing a license
+
+11.(1) The Director may issue or refuse to issue a license.
+
+### Decision to issue
+
+(2) The Director may issue a license to an eligible applicant if the Director is satisfied that
+
+(a) the application has been made in accordance with subsection 10(1), including any
+
+inspection and information required under subsection 10(2);
+
+(b) the application accurately reflects the actual or proposed premises and its operation;
+
+and
+
+(c) the actual or proposed premises and their operation comply with the requirements of
+
+the regulations.
+
+### Terms and conditions
+
+(3) The Director may
+
+(a) attach to a license any terms and conditions the Director considers appropriate,
+
+including limits on the number and type of animals that the license holder can keep on
+
+the licensed premises; and
+
+(b) at any time, vary or impose new terms and conditions on a license previously issued.
+
+### Refusal
+
+(4) If the Director refuses to issue a license, the Director shall serve the applicant with written
+
+notice of the refusal, in accordance with the regulations, that includes
+
+(a) the reasons for the refusal; and
+
+(b) a statement advising that the suspension or revocation may be appealed to the Appeal
+
+Board.
+
+### Compliance
+
+(5) The holder of a license shall comply with this Act, regulations and the terms and conditions of
+
+the license.
+
+### License to be displayed
+
+(6) The holder of a license shall keep the license posted in the licensed premises in a clearly visible
+
+and prominent place.
+
+### Term of license
+
+(7) A license is valid for a term commencing on the date it is issued and expiring on the 30th day
+
+of June following its issuance, unless it is sooner suspended or revoked.
+
+### License not transferable
+
+(8) A license is not transferable to another person or to other premises.
+
+### Register of licenses
+
+(9) The Director may
+
+(a) establish and maintain a register of licenses, in such written or electronic form as he or
+
+she considers appropriate; and
+
+(b) make information from the register available to the public.
+
+Information and Records
+
+### Records
+
+12.(1) Each license holder shall maintain or cause to be maintained such records as the Director may
+
+require or as may be prescribed, and any animal protection officer shall have access to these
+
+records and to the premises at any reasonable time for the purpose of determining compliance
+
+with this Act or the regulations.
+
+### Request to produce
+
+(2) The Director may, at any time, require a license holder to produce or make available the records
+
+referred to in subsection (1) or such other information as the Director considers relevant to the
+
+license or the licensed premises.
+
+### Production
+
+(3) The license holder shall, within 15 days of being requested to do so by the Director, provide
+
+the information requested in subsection (2).
+
+### Duty to provide information
+
+13. A requirement to report, provide or make available information under this Act applies even if
+
+(a) it requires the disclosure of personal information;
+
+(b) it requires the disclosure of proprietary information or confidential information; or
+
+(c) the disclosure of the information is restricted by law or otherwise.
+
+## PART 2 — ADMINISTRATION
+
+Powers of the Minister
+
+### Role of the Minister
+
+14.(1) The Minister is responsible for the administration of this Act.
+
+### Engaging services
+
+(2) The Minister may engage, on such terms and conditions as the Minister considers appropriate,
+
+the services of such professional or technical persons, experts or organizations, as the Minister
+
+considers appropriate, to assist and advise the Minister on matters relating to the efficient
+
+administration and enforcement of this Act and the regulations.
+
+### Remuneration and expenses
+
+(3) At the direction of the Minister, a person engaged under subsection (1) who assists in the
+
+administration and enforcement of this Act, as an animal protection officer or in any other
+
+capacity, may be paid such remuneration or reimbursed for such expenses as the Minister
+
+directs.
+
+Director
+
+### Appointment
+
+15.(1) The Minister may, on such terms and conditions as the Minister may specify, appoint a Director
+
+to administer this Act and the regulations.
+
+### Functions
+
+(2) The Director shall perform the functions assigned to the Director under this Act and such other
+
+functions as may be assigned by the Minister.
+
+### Animal protection officer
+
+(3) The Director is an animal protection officer by virtue of his or her office.
+
+### Delegation
+
+(4) The Director may delegate, with or without conditions, any of his or her functions to any
+
+employee of the Department of Agriculture or any animal protection officer.
+
+### Agents
+
+16.(1) Subject to the approval of the Minister, the Director may, by agreement in writing, appoint
+
+qualified persons or organizations to act as agents of the Director to perform functions on behalf
+
+of the Director.
+
+### Conditions on appointment
+
+(2) The agreement appointing an agent shall specify any terms and conditions applicable to the
+
+appointment, including
+
+(a) the specific functions delegated;
+
+(b) the types of animals or geographic area to which the delegated functions apply;
+
+(c) any other limit on those functions; and
+
+(d) any terms or conditions related to costs or financial matters.
+
+## ANIMAL PROTECTION OFFICERS
+
+### Appointment
+
+17.(1) The Minister may, on such terms and conditions as the Minister may specify, appoint persons
+
+as animal protection officers for the enforcement of this Act and the regulations.
+
+### Eligible persons
+
+(2) The following persons are eligible to be appointed as animal protection officers:
+
+(a) an employee of the Department of Agriculture;
+
+(b) a veterinarian;
+
+(c) a member or employee of the Society who is nominated by the Society;
+
+(d) any other person the Minister considers qualified to be an animal protection officer.
+
+### Other officers
+
+(3) The following persons, by virtue of their office, have all the powers of an animal protection
+
+officer:
+
+(a) a conservation officer appointed under the Wildlife Conservation Act;
+
+(b) a police officer; and
+
+(c) the Chief Veterinary Officer appointed under the Animal Health Act R.S.P.E.I. 1988,
+
+Cap. A-11.1.
+
+### Certificate of appointment
+
+(4) The Minister shall issue to every animal protection officer, other than a person referred to in
+
+subsection (3), a certificate of their appointment in such form as the Minister may determine.
+
+### Production of certificate
+
+(5) Every animal protection officer who exercises powers under this Act shall, upon request,
+
+produce the certificate or other evidence of his or her appointment or authority.
+
+## PART 3 — INTERVENTIONS
+
+Actions to Protect or Care for Animals
+
+### Animal in distress
+
+18.(1) An animal protection officer who believes on reasonable grounds that an animal is in distress
+
+may do one or more of the following:
+
+(a) conduct an inspection in respect of the animal in accordance with section 31;
+
+(b) make an order in accordance with section 19;
+
+(c) seize or take into custody an animal in accordance with section 20;
+
+(d) take any other reasonable action, including rescuing the animal and providing such
+
+medical care as the animal protection officer considers necessary to care for the animal
+
+or relieve its distress.
+
+### Notification re wildlife
+
+(2) If the animal subject to this section is wildlife, the animal protection officer shall notify a
+
+conservation officer under the Wildlife Conservation Act of the animal.
+
+Order to Take Action
+
+### Order to animal’s owner
+
+19.(1) An animal protection officer may make an order under this section if the officer has reasonable
+
+grounds to believe that
+
+(a) an animal is in distress; or
+
+(b) the owner is not complying with any other provision of this Act, the regulations or an
+
+order under this Act.
+
+### Provisions of order
+
+(2) The order may require an owner to take any action that the animal protection officer believes
+
+is necessary, including having the animal examined and treated by a veterinarian at the expense
+
+of the owner, in order to
+
+(a) relieve any distress of the owner’s animal;
+
+(b) ensure that the owner provides the care required under section 3; or
+
+(c) ensure the owner complies with any other provision of this Act, the regulations or an
+
+order under this Act.
+
+### Contents of order
+
+(3) The order shall include the prescribed information.
+
+### Serving the order
+
+(4) The animal protection officer shall serve the order on the owner and provide a copy to the
+
+Director in accordance with the regulations.
+
+### Compliance with order
+
+(5) An owner who is served with an order under this section shall comply with the order in
+
+accordance with its terms.
+
+### Duration of order
+
+(6) An order expires one year after the date it is made, subject to
+
+(a) any amendment or revocation of the order under subsection (7); or
+
+(b) the order being rescinded, or its expiry date is varied, by the Appeal Board.
+
+### Amending or revoking order
+
+(7) If an animal protection officer believes that the circumstances that gave rise to the order have
+
+changed, he or she
+
+(a) may amend or revoke the order; and
+
+(b) shall serve written notice of the amendment or revocation on the owner in accordance
+
+with the regulations.
+
+Custody or Seizure of Animals
+
+### Abandoned animals
+
+20.(1) An animal protection officer may take an animal into custody if he or she believes on
+
+reasonable grounds that it is abandoned.
+
+### Custody or seizure of animal
+
+(2) Subject to subsection 31(2), an animal protection officer may, without a warrant, seize or take
+
+an animal into custody if
+
+(a) the owner consents;
+
+(b) a veterinarian examines the animal and advises the animal protection officer that the
+
+health and well-being of the animal necessitates seizing or taking it into custody;
+
+(c) the owner of the animal cannot be located promptly and the animal protection officer
+
+inspects the animal and has reasonable grounds to believe that the animal is in distress;
+
+(d) the animal protection officer has reasonable grounds to believe that seizing or taking it
+
+into custody will protect the animal from immediate life-threatening distress;
+
+(e) an order respecting the animal has been made under section 19 and the order has not
+
+been complied with;
+
+(f) the animal protection officer has reasonable grounds to believe that making an order
+
+under section 19 will not eliminate or relieve the animal of its distress within a
+
+reasonable period of time; or
+
+(g) an order has been made under section 37, and seizing or taking it into custody is needed
+
+to ensure compliance with the number or type of animals allowed in the order.
+
+### Care for animals
+
+(3) An animal protection officer who seizes or takes an animal into custody may
+
+(a) provide care to the animal; or
+
+(b) put the animal under the control of a caregiver.
+
+### Notice to Society for companion animals
+
+(4) If the animal seized or taken into custody is a companion animal, the animal protection officer
+
+shall, as soon as possible, notify the Society.
+
+### Possession and charge of companion animal
+
+(5) When notified under subsection (4), the Society shall immediately take possession and charge
+
+of the companion animal and arrange for it to be
+
+(a) sheltered at its premises, a veterinary clinic or the premises of a caregiver; and
+
+(b) given such care as the Society considers reasonable in the circumstances.
+
+### Provision of care
+
+(6) A caregiver or other person providing care to an animal that has been seized or taken into
+
+custody shall provide it with such care as the caregiver or other person considers reasonable in
+
+the circumstances or as the Director may direct.
+
+### Changing caregiver
+
+(7) An animal protection officer may, where he or she considers it appropriate, remove an animal
+
+from the control of a caregiver and put the animal under the control of a different caregiver or
+
+otherwise deal with the animal in accordance with this Act.
+
+### Euthanasia for animal
+
+21. Where an animal is seized or taken into custody, an animal protection officer may cause the
+
+animal to be euthanized if
+
+(a) the owner consents;
+
+(b) a veterinarian examines the animal and advises the animal protection officer that the
+
+animal is in such distress or is so ill or injured that it is incapable of being cured or
+
+healed or continuing to live without suffering; or
+
+(c) a veterinarian is not available on a timely basis and two other individuals or an animal
+
+protection officer examine the animal and have reasonable grounds to believe that the
+
+animal is in such distress or is so ill or injured that it is incapable of being cured or
+
+healed or continuing to live without suffering.
+
+### Notice to owner and Director
+
+22.(1) An animal protection officer shall, as soon as reasonably practicable and in accordance with
+
+the regulations,
+
+(a) serve written notice on the owner describing any actions taken under this Part and, if
+
+the animal is seized or taken into custody, explaining the circumstances under which
+
+the animal may be subsequently sold, given away, placed for adoption or euthanized;
+
+and
+
+(b) provide a copy of the notice to the Director.
+
+### Notice with order
+
+(2) If related to an order served under subsection 19(4), the notice under subsection (1) may be
+
+served with or attached to the order.
+
+## PART 4 — DISPOSITION OF ANIMALS
+
+Recovery of Animal
+
+### Appeal by owner
+
+23.(1) The owner of an animal that has been seized or taken into custody under this Act may request
+
+the Appeal Board to order the animal’s return by filing a notice of appeal under section 29.
+
+### Recovery from Director or Society
+
+(2) In addition to the right of appeal, the owner of an animal that has been seized or taken into
+
+custody may, within the prescribed time period, recover possession of the animal from the
+
+Director, or the Society for a companion animal in its possession and charge under this Act, by
+
+(a) satisfying the Director or Society that the conditions under which the animal was seized
+
+or taken into custody have been corrected; and
+
+(b) paying the Director or Society the costs of care for which the owner is liable under
+
+subsection 25.
+
+Disposal by Director or Society
+
+### Deemed owner
+
+24.(1) The Government of Prince Edward, or the Society for a companion animal in its possession
+
+and charge under this Act, is deemed to be the owner of the animal if
+
+(a) the owner consents;
+
+(b) the owner fails to take possession of the animal in accordance with section 23;
+
+(c) the owner was notified under section 22, the time for filing an appeal has elapsed and
+
+no appeal has been filed under section 29;
+
+(d) seven days have elapsed after an animal was seized or taken into custody and the
+
+animal’s owner has not been located, despite reasonable inquiries by the Director or
+
+Society, as the case may be; or
+
+(e) the Appeal Board decides that Director or Society may dispose of the animal as they
+
+see fit.
+
+### Disposition of animal
+
+(2) The Director, or the Society for a companion animal in its possession and charge under this
+
+Act, may sell, give away, place for adoption or euthanize the animal if
+
+(a) the owner consents; or
+
+(b) the Government of Prince Edward Island or Society becomes the owner of the animal
+
+under subsection (1).
+
+### Adoption of companion animal
+
+(3) The Society may, in accordance with the regulations, place a companion animal referred to in
+
+subsection (2) for adoption with a person approved by the Society.
+
+### Transfer of ownership
+
+(4) For greater certainty, an animal becomes the property of any person to whom the animal was
+
+sold, given or placed for adoption by the Director or the Society.
+
+Costs and Related Matters
+
+### Owner liable for costs of care
+
+25.(1) The owner of an animal that has been seized or taken into custody is liable to pay to the
+
+Director, or the Society for a companion animal in its possession and charge under this Act, on
+
+demand an amount equal to
+
+(a) the costs of seizing or taking the animal into custody;
+
+(b) the costs of transportation, care and maintenance for the animal; and
+
+(c) any costs associated with veterinary care, including euthanizing the animal.
+
+### Director’s statement of account
+
+(2) The Director shall provide to the owner of a commercial animal a statement of account setting
+
+out the costs of care for the animal claimed by the Director.
+
+### Society’s statement of account
+
+(3) The Society shall provide to the owner of a companion animal a statement of account setting
+
+out the costs of care for the animal claimed by the Society.
+
+### Service of statement
+
+(4) The statement of account shall be served on the owner within seven days of seizing or taking
+
+the animal into custody.
+
+### Prescribed costs
+
+(5) The costs of care may be claimed in accordance with the prescribed costs.
+
+### Period of costs
+
+(6) For greater certainty, the costs of care may be claimed for the period commencing when the
+
+animal is seized or taken into custody until the earlier of the following:
+
+(a) the date the animal is recovered by the owner;
+
+(b) the date the Government of Prince Edward or the Society is deemed to be the owner of
+
+the animal under section 24;
+
+(c) the date the animal no longer needs care.
+
+### Proceeds of sale of commercial animal
+
+26.(1) Subject to subsections (2), if the Director sells a commercial animal, the proceeds of the sale
+
+shall be distributed as follows:
+
+(a) the Director shall retain an amount sufficient to pay the costs of care set out in the
+
+statement of account;
+
+(b) any balance of the sale proceeds shall be paid to the former owner of the animal.
+
+### If owner not located
+
+(2) If the former owner of a commercial animal has not been located, despite reasonable inquiries,
+
+any balance of the sale proceeds referred to in clause (1)(b) shall be forfeited to the Government
+
+of Prince Edward Island.
+
+### Proceeds of sale of companion animal
+
+(3) If a companion animal is sold by the Society, the proceeds of the sale shall be retained by the
+
+Society.
+
+### Unrecovered costs
+
+(4) The former owner of an animal sold by the Director or the Society remains liable for any portion
+
+of the costs of care set out in the statement of account not recovered from the proceeds of the
+
+sale.
+
+### Creditor rights
+
+(5) If the Director has reason to believe a creditor may have a security interest in a commercial
+
+animal sold by the Director, the Director may apply to the court for an interpleader order in
+
+respect of the balance of the sale proceeds over and above an amount equal to the costs of care
+
+for the animal.
+
+### Costs recoverable as debt due
+
+27.(1) Any amount for which a person is liable for costs of care in respect of a commercial animal is
+
+a debt due by that person to the Government of Prince Edward Island.
+
+### Minister’s order
+
+(2) The Minister may issue an order for the recovery of a debt due against the person who is liable
+
+for costs of care for a commercial animal.
+
+### Registration of order
+
+(3) An order for a debt due issued under subsection (2) may be filed with the Registrar of the Court
+
+of Appeal and the Supreme Court at any time 30 days after it is issued and, when so filed, the
+
+order is of the same force and effect as if it were a judgment.
+
+### Lien on commercial animal
+
+(4) The Government of Prince Edward Island has a lien on a commercial animal that has been
+
+seized or taken into custody for an amount equal to the debt due for that animal.
+
+### Costs recoverable as debt due to Society
+
+(5) Any amount for which a person is liable for costs of care in respect of a companion animal is
+
+a debt due by that person to the Society.
+
+### Lien on companion animal
+
+(6) The Society has a lien on a companion animal that has been seized or taken into custody for an
+
+amount equal to the debt due for that animal.
+
+### Reimbursement of Society
+
+(7) The Minister may, in accordance with the regulations, reimburse the Society for any costs of
+
+care outstanding under subsection (5) for more than the prescribed period, whereupon the full
+
+amount of those outstanding costs may be recovered from the owner in the same manner as a
+
+debt due to the Government of Prince Edward Island under this section.
+
+## PART 5 — APPEALS
+
+Appeal Board
+
+### Appeal Board
+
+28.(1) For the purposes of this Act, the Minister shall appoint an Appeal Board composed of not fewer
+
+than three persons, of whom
+
+(a) one shall be a veterinarian; and
+
+(b) the others shall be knowledgeable in regard to animal husbandry or animal welfare.
+
+### Chair and vice-chair
+
+(2) The Minister shall designate the chair and vice-chair of the Appeal Board.
+
+### Terms of office
+
+(3) The term of office of a member of the Appeal Board is three years and a member is eligible for
+
+re-appointment.
+
+### Substitutes
+
+(4) Where a member of the Appeal Board dies, resigns, or is removed from office for cause, the
+
+Minister may appoint a substitute member to serve the unexpired portion of the term of office
+
+of the member.
+
+### Remuneration and expenses
+
+(5) Members of the Appeal Board shall receive such remuneration and expenses as may be
+
+prescribed.
+
+### Procedure
+
+(6) Subject to the rules of natural justice, this Act and the regulations, the Appeal Board shall
+
+determine all matters of procedure in hearing an appeal.
+
+### Hearings
+
+(7) The Appeal Board may hold a hearing orally or in writing, or partly orally and partly in writing,
+
+including an oral hearing held by means of a conference telephone call or by another method
+
+of communication that permits the Appeal Board and the parties to communicate with each
+
+other simultaneously.
+
+### Evidence
+
+(8) The Appeal Board is not bound by the rules of evidence that apply to judicial proceedings.
+
+Making an Appeal to the Appeal Board
+
+### Orders and decisions for appeal
+
+29.(1) The following orders or decisions may be appealed to the Appeal Board:
+
+(a) a decision of the Director to
+
+(i) refuse to issue a license,
+
+(ii) impose terms and conditions on a license, or
+
+(iii) suspend or revoke a license;
+
+(b) an order made under section 19;
+
+(c) a decision of the Director, an animal protection officer or the Society to seize an animal,
+
+take an animal into custody or euthanize an animal.
+
+### Making an appeal
+
+(2) Any person aggrieved by the order or decision referred to in subsection (1) may make an appeal
+
+to the Appeal Board in accordance with the regulations and the procedures of the Appeal Board.
+
+### Time for appeal
+
+(3) An appeal to the Appeal Board shall be made within seven days after the person is served with
+
+the order or decision.
+
+### Notice of appeal
+
+(4) An appeal shall be made by written notice of appeal that
+
+(a) is sent to the Appeal Board;
+
+(b) specifies the decision or order being appealed;
+
+(c) specifies the grounds of appeal on which the appellant relies and the nature of the relief
+
+sought; and
+
+(d) is accompanied by any submissions in support of the appeal.
+
+### Copy to Director and Society
+
+(5) Upon receiving a notice of appeal, the Appeal Board shall promptly serve a copy of it on
+
+(a) the Director; and
+
+(b) the Society, if the appeal relates to a decision of the Society.
+
+### Parties
+
+(6) The parties to an appeal are
+
+(a) the appellant;
+
+(b) the Director; and
+
+(c) the Society, if the appeal relates to its decision.
+
+### Review
+
+30.(1) The Appeal Board shall consider the submissions of the appellant and the order or decision
+
+appealed from within five days of receipt of the notice of appeal.
+
+### Conduct of appeal
+
+(2) The Appeal Board shall hear and determine appeals in accordance with its procedures and the
+
+regulations.
+
+### Time for decision
+
+(3) The Appeal Board shall make a decision regarding the appeal within 14 days of receipt of the
+
+notice of appeal.
+
+### Decision
+
+(4) The Appeal Board may confirm, vary or rescind the order or decision being appealed.
+
+### Disposal of animal
+
+(5) In the case of an appeal of a decision to seize an animal, take an animal into custody or
+
+euthanize an animal, the Appeal Board may make any order that the Appeal Board considers
+
+appropriate in the circumstances, including
+
+(a) an order that an animal be returned to its owner, if satisfied that the owner is in
+
+compliance with this Act, the regulations and any applicable order made in relation to
+
+the animal;
+
+(b) an order requiring the owner to pay any amount of the costs of care for which the owner
+
+is liable;
+
+(c) an order that the Director or the Society may dispose of the animal as they see fit; and
+
+(d) in the case of an animal wrongfully euthanized, an order that the owner be compensated
+
+for the value of the animal not exceeding the prescribed amount.
+
+### Copy of decision
+
+(6) The Appeal Board shall serve a copy of its decision on the parties.
+
+### Director or Society to deal with animal
+
+(7) When the Appeal Board has made a decision, the Director or the Society shall deal with the
+
+animal in the manner ordered.
+
+### Order final and binding
+
+(8) The decision of the Appeal Board is final and binding and is not subject to appeal.
+
+## PART 6 — ENFORCEMENT
+
+Inspections
+
+### Inspection powers
+
+31.(1) For the purpose of ensuring compliance with any provision of this Act, the regulations or an
+
+order under this Act, an animal protection officer may, at any reasonable time,
+
+(a) enter any premises that the inspector has reason to believe is used in connection with
+
+an animal or a license; and
+
+(b) inspect the premises and any animal or thing used or obtained in connection with the
+
+premises, an animal or a license.
+
+### Dwelling place
+
+(2) Despite subsection (1), an animal protection officer may not enter or inspect a dwelling place
+
+unless
+
+(a) the owner, occupant or person in possession or control of the dwelling place consents;
+
+(b) the entry or inspection is authorized by a warrant; or
+
+(c) a warrant is not required under section 34.
+
+### Related inspection powers
+
+(3) During an inspection, an animal protection officer may
+
+(a) open, or cause to be opened, any container and inspect its contents;
+
+(b) require the production of any animal or thing for inspection, including an animal or
+
+thing in a dwelling place;
+
+(c) take samples of any animal or thing free of charge;
+
+(d) require the production of any record, document or data for inspection or copying, in
+
+whole or in part;
+
+(e) use or cause to be used any computer system and examine any data contained in or
+
+available to the computer system and print or export any record or data for examination
+
+or copying;
+
+(f) reproduce or cause to be reproduced, including using computer or copying equipment
+
+at the place to make copies of any record, document or data; and
+
+(g) subject to section 32, take action under section 20 or seize any thing that may provide
+
+evidence for the purpose of ensuring compliance.
+
+### Assistance of veterinarian and peace officer
+
+(4) A veterinarian and a peace officer may assist an animal protection officer for the purposes of
+
+an inspection.
+
+### Assistance of owner
+
+(5) The owner of an animal being inspected, the person in possession or control of the premises or
+
+thing being inspected and every person found on the premises, shall
+
+(a) give the animal protection officer all reasonable assistance to enable the officer to carry
+
+out his or her functions; and
+
+(b) provide the animal protection officer with any information in relation to the
+
+administration of this Act and the regulations that the officer may reasonably require.
+
+### Reasonable force
+
+(6) An animal protection officer or other person conducting or assisting an inspection shall use no
+
+more force than is reasonably required.
+
+Search and Seizure
+
+### Searches
+
+32.(1) An animal protection officer who believes, on reasonable grounds, that an offence under this
+
+Act has been committed may enter any premises and search the premises and any thing for the
+
+purpose of obtaining evidence in relation to that offence under this Act if
+
+(a) the owner, occupant or person in possession or control of the premises or thing, as the
+
+case may be, consents;
+
+(b) the entry and search is authorized by a warrant; or
+
+(c) a warrant is not required under section 34.
+
+### Seizures
+
+(2) If, during the course of an inspection or search, an animal protection officer believes, on
+
+reasonable grounds, that an animal or thing is evidence in relation to an offence under this Act,
+
+he or she may seize the animal or thing if
+
+(a) the owner of the animal or the person in possession or control of the thing, as the case
+
+may be, consents;
+
+(b) the seizure is authorized by a warrant; or
+
+(c) a warrant is not required under section 34.
+
+### Powers during search or seizure
+
+(3) The provisions of section 31 in respect of the conduct of an inspection, including the powers
+
+and duties of an animal protection officer and the provision of assistance and information by
+
+others, also apply in respect of a search or seizure under this section, with such modifications
+
+as the circumstances require.
+
+### Receipt for animals or things seized
+
+(4) An animal protection officer who seizes any animal or thing shall make reasonable efforts to
+
+issue a receipt describing the animal or thing seized to the person from whom it was seized.
+
+### Warrant
+
+33.(1) The court may issue a warrant authorizing an animal protection officer to enter any premises,
+
+search the premises and any animal or thing and to seize any animals or things, if the court is
+
+satisfied by information on oath that
+
+(a) the entry, search or seizure is justified because a contravention of this Act, the
+
+regulations or a license has been committed and there are reasonable grounds for
+
+believing that the entry, search or seizure may provide evidence in relation to the
+
+contravention; and
+
+(b) the owner, occupant or person in possession or control of the premises, animal or thing,
+
+as the case may be, does not consent, there are reasonable grounds for believing that
+
+consent will be refused or there are reasonable and probable grounds for believing that
+
+evidence may be lost if an attempt at obtaining consent is made.
+
+### Assistance order
+
+(2) A warrant may include an order that any person named or identified in the warrant shall provide
+
+any assistance reasonably considered to be required to give effect to the warrant.
+
+### Application without notice
+
+(3) A warrant may be issued, with or without conditions, on an application made without notice.
+
+### Exigent circumstances
+
+34.(1) A warrant is not required under this Act if urgency, the likelihood of the removal or destruction
+
+of evidence or other relevant factors do not reasonably permit the obtaining of a warrant or
+
+consent.
+
+### No entry or search of dwelling place
+
+(2) Subsection (1) does not authorize the entry and search of the living quarters of a dwelling place.
+
+### Obstruction
+
+35. While an animal protection officer or other person is exercising powers or carrying out duties
+
+or functions under this Act, no person shall
+
+(a) knowingly make any false or misleading statement, either orally or in writing, to the
+
+animal protection officer or other person; or
+
+(b) otherwise obstruct or hinder the animal protection officer or other person.
+
+## SANCTIONS IN RESPECT OF A LICENSE
+
+### Suspension or revocation of license
+
+36.(1) The Director may suspend or revoke a license, or refuse to renew a license, if the Director is
+
+satisfied that the license holder
+
+(a) in the application for the license, gives false particulars or knowingly misrepresents or
+
+fails to disclose any fact required to be stated in the application;
+
+(b) contravenes a term or condition of the license;
+
+(c) fails to comply with this Act, the regulations or an order under this Act;
+
+(d) has been found guilty of an offence under any Act of the Legislature or the Criminal
+
+Code (Canada) relating to the treatment of animals or the wrongful possession of an
+
+animal;
+
+(e) the license holder has ceased to be suitable or eligible to hold a license; or
+
+(f) the suspension or revocation is authorized for any other prescribed reason.
+
+### Notice
+
+(2) The Director shall, in accordance with the regulations, serve the license holder with written
+
+notice of the proposed suspension, revocation or refusal to renew a license that includes
+
+(a) a summary of the proposed sanction;
+
+(b) a summary of the facts and reasons for the proposed sanction;
+
+(c) a time period within which the person may make representations to the Director; and
+
+(d) a summary of the procedure to be followed in the case.
+
+### Representations
+
+(3) The license holder may make representations to the Director regarding the proposed suspension
+
+or revocation.
+
+### Consideration of representations
+
+(4) The Director shall consider the representations made by the license holder.
+
+### Final decision
+
+(5) The Director shall, after considering any representations made, make a final decision regarding
+
+the proposed suspension or revocation.
+
+### Notice of final decision
+
+(6) The Director shall serve written notice of the final decision on the license holder that includes
+
+a statement of the owner’s right to appeal the decision to the Appeal Board.
+
+Order to Restrict Number of Animals
+
+### Order restricting ownership of animals
+
+37.(1) The court may, on application by the Director, make an order under subsection (2) in respect
+
+of an owner, if satisfied that
+
+(a) the owner’s animals have been seized or taken into custody under this Act;
+
+(b) at the time those animals were seized or taken into custody, the owner was unable to
+
+comply with this Act because the number or type of animals owned, possessed or
+
+controlled by the owner exceeded the owner’s ability to carry out his or her duties
+
+toward them; and
+
+(c) the owner is not, or may not be, able to comply with the provisions of this Act, the
+
+regulations or an order under this Act in respect of the animals that the owner presently
+
+owns, possesses or controls, or may own, possess or control, because the circumstances
+
+referred to in clause (b) continue to exist or may occur again.
+
+### Order
+
+(2) The order may
+
+(a) prohibit the owner from owning, or having possession or control of, more than a
+
+specified number or type of animals, for a period up to three years; and
+
+(b) direct that any animals owned, possessed or controlled by the owner at the time the
+
+order is made
+
+(i) beyond the number of animals allowed under the order, or
+
+(ii) other than the type of animal allowed under the order,
+
+become the property of the Government of Prince Edward Island, in the case of
+
+commercial animals, or the Society, in the case of companion animals.
+
+Offences and Punishment
+
+### Offence
+
+38.(1) A person who contravenes a provision of this Act, the regulations or an order under this Act is
+
+guilty of an offence.
+
+### Attempts and accessories
+
+(2) A person who attempts to commit an offence or is an accessory after the fact to the commission
+
+of an offence is guilty of an offence, whether or not it was possible under the circumstances to
+
+commit the offence.
+
+### Parties to offence
+
+(3) Every one is a party to an offence who
+
+(a) actually commits it;
+
+(b) does or omits to do anything for the purpose of aiding any person to commit it;
+
+(c) abets any person in committing it; or
+
+(d) counsels another person to commit or be a party to it.
+
+### Liability for employees or agents
+
+(4) In a prosecution for an offence under this Act, it is sufficient proof of the offence to establish
+
+that an employee or agent of the accused committed it in the course of the employment or
+
+agency relationship, whether or not the employee or agent is identified or has been prosecuted
+
+for the offence, unless the accused establishes that
+
+(a) the offence was committed without the knowledge of the accused; and
+
+(b) the accused exercised due diligence to prevent the commission of the offence.
+
+### Liability of corporate officers
+
+(5) If a corporation commits an offence under this Act, any officer, director or agent of the
+
+corporation who directed, authorized, assented to, acquiesced in or participated in the offence
+
+is guilty of the offence and is liable to the punishment provided for the offence as an individual,
+
+whether or not the corporation has been prosecuted.
+
+### Original liability
+
+(6) Nothing in this section relieves the person who actually committed the offence from liability
+
+for it.
+
+### Penalties
+
+39.(1) Every person who commits an offence under this Act is liable on summary conviction
+
+(a) in the case of a corporation, to a fine of not less than $1,000 and not more than $20,000;
+
+or
+
+(b) in the case of an individual,
+
+(i) to a fine of not less than $500 and not more than $10,000,
+
+(ii) to imprisonment for a term of not more than six months, or
+
+(iii) to both a fine and imprisonment.
+
+### Subsequent offence
+
+(2) Despite subsection (1), where a person is convicted of an offence a second or subsequent time,
+
+the person is liable on summary conviction
+
+(a) in the case of a corporation, to a fine of not less than $20,000; or
+
+(b) in the case of an individual,
+
+(i) to a fine of not less than $10,000,
+
+(ii) to imprisonment for a term of not more than 12 months, or
+
+(iii) to both a fine and imprisonment.
+
+### Continuing offence
+
+(3) A person who commits or continues an offence on more than one day is liable to be convicted
+
+for a separate offence for each day on which the offence is committed or continued.
+
+### Additional fine
+
+(4) If a person is convicted of an offence and the court is satisfied that monetary benefits accrued
+
+or could have accrued to the person as a result of the offence,
+
+(a) the court may order the person to pay an additional fine in an amount equal to the
+
+court’s estimation of the amount of the monetary benefits;
+
+(b) the additional fine may exceed the maximum amount of any fine that may otherwise
+
+be imposed under this Act; and
+
+(c) the additional fine is to be added to any other fine or amount of money ordered to be
+
+paid under this Act.
+
+### Failure to pay fine
+
+(5) If a person fails, within the time required by law, to pay a fine imposed under this Act and is
+
+served with written notice of the consequences of failure to pay under this section, the fine may
+
+be collected as if it were a debt due to the Government of Prince Edward Island under
+
+section 27.
+
+### Issuing tickets
+
+40. An animal protection officer may issue tickets under the Summary Proceedings Act R.S.P.E.I.
+
+1988, Cap. S-9, in respect of a contravention of this Act, the regulations or an order under this
+
+Act.
+
+Protection Order
+
+### Order in cases of torture
+
+41.(1) The Director may apply to the court for a protection order under this section if
+
+(a) a person is charged with the offence of torturing an animal contrary to subsection 4(1);
+
+and
+
+(b) there are reasonable grounds for believing that the person is a danger to animals, to any
+
+owner of an animal or to a person who is a witness to the acts that gave rise to the
+
+charge.
+
+### Appearances
+
+(2) The court, on receiving an application under subsection (1), may cause the parties to appear
+
+before the court.
+
+### Protection order
+
+(3) The court may, if satisfied by the evidence adduced that there are reasonable grounds for
+
+believing that the danger exists, make a protection order to restrain the person charged from
+
+contacting, harassing, molesting, intimidating, retaliating against, or tampering with the
+
+animals or persons at risk.
+
+### Duration of order
+
+(4) The protection order shall take effect from the time it is made until final disposition of the
+
+offence.
+
+### Service of copies
+
+(5) The Director shall serve a copy of the protection order to the persons being protected under the
+
+protection order.
+
+### Additional animals
+
+(6) The court may, at any time during the proceedings related to the offence, include other animals
+
+or persons in the protection order.
+
+### Compliance with order
+
+(7) Any person who is restrained by a protection order shall comply with the order in accordance
+
+with its terms.
+
+Other Judicial Powers
+
+### Other orders
+
+42.(1) When convicting a person for an offence under this Act, or granting a conditional discharge in
+
+respect of the offence, the court may, in addition to any punishment imposed and having regard
+
+to the nature of the offence and the circumstances surrounding its commission, make an order
+
+having any or all of the following effects:
+
+(a) prohibiting the person from doing any act or engaging in any activity that could, in the
+
+opinion of the court, result in the continuation or repetition of the offence, including
+
+prohibiting the person from owning or having possession or control of animals of a
+
+type or number and for such duration as the court may consider appropriate;
+
+(b) directing the person to take any action that the court considers appropriate to remedy
+
+or avoid any harm that resulted or may result from the commission of the offence;
+
+(c) directing the person to undergo a psychiatric evaluation as specified by the court and,
+
+if justified by the evaluation of the person’s mental condition, requiring the person to
+
+undergo appropriate treatment;
+
+(d) directing the person to publish, in any manner that the court considers appropriate, the
+
+facts relating to the commission of the offence;
+
+(e) directing the person to perform community service in accordance with any conditions
+
+that the court considers reasonable;
+
+(f) directing the person to submit to the Director, on application to the court by the
+
+Director within three years after the conviction, any information about the activities of
+
+the person that the court considers appropriate;
+
+(g) directing the person to pay an amount to the Operating Fund for all or any of the costs
+
+of remedial or preventive action taken, or to be taken, by or on behalf of the
+
+Government of Prince Edward Island as a result of the offence, and to the Society in
+
+respect of its analogous costs;
+
+(h) directing the person to pay to the Operating Fund an amount of money the court
+
+considers appropriate for costs incurred in connection with the offence, in the manner
+
+determined by the court;
+
+(i) directing the person to post a bond or security or pay to the court an amount that the
+
+court considers appropriate for the purpose of ensuring compliance with any
+
+prohibition, direction or requirement under this section;
+
+(j) transferring ownership of any animals owned by the person to the Government of
+
+Prince Edward Island, the Society or any other person the court considers appropriate;
+
+(k) requiring the person to comply with any other conditions that the court considers
+
+appropriate for securing the person’s good conduct and for preventing the person from
+
+repeating the offence or committing other offences.
+
+### Collection of compensation and costs
+
+(2) The amount of compensation or costs and any interest payable on that amount constitute a debt
+
+due to the Government of Prince Edward Island and may be collected as if it were a debt due
+
+to the Government of Prince Edward Island under section 27.
+
+Prosecutions
+
+### Limitation period
+
+43. Proceedings in respect of an offence under this Act may be commenced at any time within, but
+
+not later than, two years after the day on which the Director became aware of the offence.
+
+### Protection from liability
+
+44. No action or proceeding may be brought against the following persons for anything done or
+
+omitted to be done, in good faith, in the exercise or performance, or intended exercise or
+
+performance, of a power, function or duty under this Act:
+
+(a) the Minister;
+
+(b) the Director;
+
+(c) an animal protection officer, any person acting in the capacity of an animal protection
+
+officer or any person assisting an animal protection officer;
+
+(d) a veterinarian;
+
+(e) the Society;
+
+(f) an agent appointed under section 16;
+
+(g) a member of the Appeal Board.
+
+## PART 7 — MISCELLANEOUS AND GENERAL
+
+Regulations
+
+### Regulations
+
+45. The Lieutenant Governor in Council may make regulations
+
+(a) designating classes, types or categories of animals as companion animals or
+
+commercial animals, and excluding other classes, types or categories;
+
+(b) prohibiting or restricting activities, practices or procedures in respect of animals;
+
+(c) respecting accepted activities under section 7;
+
+(d) establishing or adopting standards, manuals, codes, rules, criteria, practices or
+
+procedures for the purposes of this Act;
+
+(e) respecting the types of establishment or activity requiring a license;
+
+(f) respecting the design, construction, operation, maintenance and inspection of any
+
+establishment, premises or activity used in connection with the keeping, care, housing,
+
+breeding, training, selling or brokering of animals;
+
+(g) respecting licenses, including the form and content of licenses and related documents,
+
+the terms and conditions of licenses and the procedures for applications for licenses
+
+and renewals, suspensions and revocation of licenses;
+
+(h) respecting the design, construction, operation, maintenance and inspection of
+
+commercial markets, assembly yards and any establishment, premises or activity
+
+licensed under this Act;
+
+(i) respecting the appointment or removal of persons appointed under this Act, including
+
+their qualifications, identification and codes of conduct;
+
+(j) respecting the terms and conditions of reimbursement or remuneration for persons
+
+appointed under this Act;
+
+(k) respecting the requesting, collecting and provision of records and information and the
+
+form, content, maintenance, service and provision of any document, record, notice,
+
+order or other information under this Act;
+
+(l) respecting inspections, searches, the seizure and custody of animals, the use of force
+
+and any other procedures required for administering and enforcing this Act;
+
+(m) respecting fees payable under this Act or the regulations;
+
+(n) respecting the recovery of costs from an owner or other person for costs incurred in the
+
+enforcement of this Act, including the costs of care or other amounts payable under
+
+this Act or a method for determining those costs or amounts;
+
+(o) respecting the rescue, seizure or taking into custody of animals in immediate life-
+
+threatening distress;
+
+(p) respecting the conduct of reviews and appeals under this Act;
+
+(q) exempting persons, premises or species or types of animals from this Act or certain
+
+provisions of it, including licensing provisions;
+
+(r) defining any word or phrase used but not defined in this Act;
+
+(s) prescribing any matter or thing required or authorized by this Act to be prescribed by
+
+the regulations;
+
+(t) providing for any transitional matters the Lieutenant Governor in Council considers
+
+necessary or advisable in connection with the implementation of this Act; and
+
+(u) respecting such other matters as the Lieutenant Governor in Council considers
+
+necessary to give effect to the purposes of this Act.
+
+46. Adoption of standard, code of practice, criteria, practice or procedure
+
+(1) Where a standard, code of practice, criteria, practice or procedure respecting a matter referred
+
+to in this Act has been established by an association, person or body of persons and is available
+
+in written form, the Lieutenant Governor in Council may, by regulation, adopt the standard,
+
+code of practice, criteria, practice or procedure as established, or as amended from time to time,
+
+and upon adoption, is in force, either in whole or in part, or with such variations as may be
+
+specified in the regulations.
+
+### Standards
+
+(2) For greater certainty, a standard, code of practice, criteria, practice or procedure established or
+
+adopted under this Act may include rules, norms, principles and levels of quantity or quality
+
+respecting
+
+(a) the design and construction of establishments and premises;
+
+(b) the equipment and materials required in the operation of establishments or premises;
+
+(c) the manner of operating establishments and premises, including hygiene and
+
+sanitation;
+
+(d) the provision of care to animals, including the prevention of disease and procedures
+
+for the recapture of escaped animals;
+
+(e) the qualifications, training and hygiene of persons who work or perform a function in
+
+establishments or premises; and
+
+(f) the maintenance of records and requirements for reporting or providing information in
+
+relation to establishments or premises.
+
+Savings and Transitional
+
+### Former Board members
+
+47.(1) A person who, on the date this Act comes into force, held office under the former Act continues
+
+to hold the same office under this Act, until his or her current term of office expires or his or
+
+her appointment is sooner terminated by death, resignation or removal.
+
+### Decisions, orders and contracts
+
+(2) Every decision, order or agreement made or entered into under the former Act that is in force
+
+on the date this Act comes into force continues under this Act, to the extent it does not conflict
+
+with this Act or the regulations, until it expires or is amended, revoked or terminated in
+
+accordance with this Act.
+
+### Existing licenses
+
+(3) Any valid license issued under the former Act that is in effect on the date this Act comes into
+
+force continues in effect until the earlier of the following:
+
+(a) the date it expires;
+
+(b) the date it is suspended or revoked;
+
+(c) June 30, 2015.
+
+Former Act
+
+(4) For the purposes of this section, “former Act” means the Companion Animal Protection Act
+
+R.S.P.E.I. 1988, Cap. C-14.1.
+
+Repeal
+
+### Companion Animal Protection Act
+
+48. The Companion Animal Protection Act R.S.P.E.I. 1988, Cap. C-14.1 is repealed.
+
+Consequential Amendments
+
+The Animal Health and Protection Act R.S.P.E.I. 1988, Cap.A-11.1 is amended by this section.

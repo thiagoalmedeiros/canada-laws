@@ -25,21 +25,29 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install lxml
+      - run: pip install lxml pyyaml
 
       - name: Fetch official XML from justicecanada/laws-lois-xml
         run: git clone --depth 1 https://github.com/justicecanada/laws-lois-xml.git "$RUNNER_TEMP/laws-lois-xml"
 
-      - name: Convert
-        run: python3 tools/federal_to_md.py "$RUNNER_TEMP/laws-lois-xml" .
+      - name: Convert into the OKF bundle (laws/federal)
+        run: |
+          python3 tools/federal_to_md.py "$RUNNER_TEMP/laws-lois-xml" laws
+          python3 tools/okf_bundle.py credits laws
 
-      - name: Commit
+      - name: Log, validate and commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
           src_sha=$(git -C "$RUNNER_TEMP/laws-lois-xml" rev-parse --short HEAD)
-          git add -A federal
+          git add -A laws
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          n=$(git diff --cached --name-only -- laws/federal | grep -v -E '/(index|log|overview)\.md$' | wc -l)
+          entry="**Update**: Refreshed from justicecanada/laws-lois-xml@${src_sha} (${n} laws added, changed or removed)."
+          python3 tools/okf_bundle.py log laws federal "$entry"
+          python3 tools/okf_bundle.py log laws . "**Update**: [Canada (federal)](federal/): ${n} laws added, changed or removed."
+          python3 tools/okf_bundle.py check laws
+          git add -A laws
           git commit -q -m "Update federal laws from justicecanada/laws-lois-xml@${src_sha}"
           for i in 1 2 3; do
             git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && break

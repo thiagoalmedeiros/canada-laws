@@ -1,0 +1,212 @@
+---
+type: "Regulation"
+title: "Règlement sur les conditions et modalités de délivrance des permis de l’Ordre des géologues du Québec"
+description: "Règlement (Québec), RLRQ c G-1.01, r 3.001.01."
+resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/G-1.01,%20r.%203.001.01"
+tags: ["qc", "regulation", "fr"]
+jurisdiction: "qc"
+language: "fr"
+citation: "RLRQ c G-1.01, r 3.001.01"
+document_date: "2026-04-02"
+upstream_license: "See upstream license: https://perma.cc/4LUK-B5SK Source is Lois et règlements codifiés du Québec, Ministère de l'Emploi et de la Solidarité sociale, via Données Québec, https://www.donneesquebec.ca/recherche/dataset/https-donneesquebec-ca-recherche-dataset-edit-lois-et-reglements-quebec (archived at https://perma.cc/9TQE-JWBV). © Gouvernement du Québec. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Terms include non-commercial use only; no derivatives (adapted material) may be shared. Provided as-is without warranties; the distributors do not guarantee accuracy, precision, or completeness. Modifications from source are technical / mechanical, effecting a format change: converted from source XML to text, no textual alteration, visual content in source PDFs not included. Unofficial reproduction, without endorsement or affiliation by the Gouvernement du Québec. Official versions available at: https://www.legisquebec.gouv.qc.ca/fr."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-09T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://www.legisquebec.gouv.qc.ca/fr/document/rc/G-1.01,%20r.%203.001.01"
+    title: "Gouvernement du Québec: official text"
+    author: "org:qc-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-QC/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-09T00:00:00Z"
+---
+
+# Règlement sur les conditions et modalités de délivrance des permis de l’Ordre des géologues du Québec
+
+> **Unofficial version, for personal and non-commercial use only.** © Gouvernement du Québec. Not endorsed by or affiliated with the Government of Quebec. Text obtained from the [official source](https://www.legisquebec.gouv.qc.ca/fr/document/rc/G-1.01,%20r.%203.001.01) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+*RLRQ c G-1.01, r 3.001.01*
+
+*Loi habilitante: Loi sur les géologues (chapitre G-1.01, a. 2)*
+
+*À jour au 2026-04-02*
+
+## I — DÉLIVRANCE DU PERMIS
+
+**1** Le Conseil d’administration de l’Ordre des géologues du Québec délivre un permis à toute personne qui satisfait aux conditions suivantes:
+
+(1) elle transmet au secrétaire de l’Ordre une demande de permis, présentée sur le formulaire prévu par le Conseil d’administration et accompagnée des documents suivants:
+
+(a) une preuve de la date et du lieu de sa naissance;
+
+(b) une photographie récente de format passeport (5 cm × 7 cm) certifiée sous sa signature comme étant la sienne;
+
+(2) elle est titulaire d’un diplôme déterminé par l'Office des professions du Québec en vertu du premier alinéa de l’article 12.0.1.1 du Code des professions (chapitre C-26) comme donnant ouverture au permis de géologue ou se voit reconnaître une équivalence de diplôme ou de formation conformément à un règlement pris en vertu du paragraphe *c* de l’article 93 de ce Code;
+
+(3) elle effectue un stage conforme à la section II ou se voit reconnaître une équivalence de stage en vertu de cette section;
+
+(4) elle réussit l’examen professionnel décrit à la section III;
+
+(5) elle acquitte les frais prescrits par le Conseil d’administration.
+
+**2** Le comité des examinateurs, formé par le Conseil d’administration conformément au paragraphe 2 de l’article 86.0.1 du Code des professions (chapitre C-26) et composé de personnes qui ne sont pas membres du Conseil d’administration, étudie les demandes de permis et formule des recommandations au Conseil d’administration dans les 90 jours de leur réception.
+
+**3** Le Conseil d’administration décide de toute demande de permis dans les 60 jours suivant la réception des recommandations du comité des examinateurs.
+
+La décision du Conseil d’administration est finale et doit être motivée et transmise par écrit au demandeur dans les 30 jours suivant la date à laquelle elle a été rendue.
+
+## II — STAGE
+
+**4** Le stage vise l’atteinte de l’autonomie professionnelle requise pour exercer la profession de géologue. À cet effet, il doit permettre au stagiaire de mettre en pratique les connaissances théoriques et techniques acquises par sa formation en géologie et comporter l’accomplissement des activités suivantes:
+
+(1) la collecte et l’analyse de données géologiques;
+
+(2) la gestion et l’animation d’une équipe de travail;
+
+(3) la gestion de projets, incluant ses aspects financiers;
+
+(4) la communication écrite et orale liée à l’exercice de la profession auprès d’une administration, des pairs ou du public.
+
+**5** Le stage est de 36 mois, consécutifs ou non, comportant au moins 5 000 heures de formation pratique.
+
+Il est effectué sous la supervision et la responsabilité d’un maître de stage qui remplit les conditions suivantes:
+
+(1) il est membre de l’Ordre ou de son équivalent ailleurs au Canada et exerce la profession de géologue depuis au moins 5 ans;
+
+(2) il n’a fait l’objet d’aucune sanction disciplinaire au cours des 5 dernières années.
+
+Le maître de stage doit contribuer à la formation du stagiaire dont il est responsable. À cette fin, il doit:
+
+(1) offrir au stagiaire un milieu de travail favorable à l’apprentissage et au développement des compétences;
+
+(2) favoriser l’intégration du stagiaire dans le milieu de travail;
+
+(3) informer le stagiaire du fonctionnement du milieu et des ressources disponibles;
+
+(4) déterminer les tâches du stagiaire en précisant les modalités de travail et les délais à respecter;
+
+(5) aider le stagiaire dans l’organisation de son travail et l’initier à la gestion;
+
+(6) permettre au stagiaire d’exercer progressivement des activités professionnelles réservées aux géologues;
+
+(7) évaluer régulièrement les tâches accomplies par le stagiaire;
+
+(8) fournir au comité des examinateurs tous les renseignements qu’il requiert et produire, au moment requis, le rapport d’évaluation du stagiaire prévu par l’article 9.
+
+Le maître de stage doit immédiatement aviser le stagiaire de toute situation l’empêchant d’agir à ce titre.
+
+**6** Est admissible au stage la personne qui satisfait aux conditions suivantes:
+
+(1) elle transmet au secrétaire de l’Ordre une demande d’inscription écrite indiquant les nom, adresse professionnelle et numéro de téléphone de son maître de stage, une description des activités prévues au cours du stage ainsi que la date prévue pour le début de celui-ci. Le contenu de cette demande doit être attesté par le géologue qui y est désigné pour agir à titre de maître de stage;
+
+(2) elle démontre qu’elle est titulaire d’un diplôme déterminé par l'Office des professions du Québec en vertu du premier alinéa de l’article 12.0.1.1 du Code des professions (chapitre C-26) comme donnant ouverture au permis de géologue ou qu’elle s’est vu reconnaître une équivalence de diplôme ou de formation conformément à un règlement pris en vertu du paragraphe *c* de l’article 93 de ce Code;
+
+(3) elle acquitte les frais d’inscription prescrits par le Conseil d’administration.
+
+Le secrétaire de l’Ordre confirme par écrit l’inscription au stage du demandeur. Dans le cas contraire, il informe par écrit le demandeur de tout élément manquant ou, le cas échéant, des motifs de la décision.
+
+**7** L’inscription au stage est valable un an et renouvelable si le stagiaire transmet au secrétaire de l’Ordre, au moins 2 mois avant l’échéance de son inscription, un rapport de stage conforme à l’article 9 et remplit, compte tenu des adaptations nécessaires, les conditions décrites aux paragraphes 1 et 3 du premier alinéa de l’article 6.
+
+Le comité des examinateurs décide de toute demande de renouvellement d’inscription.
+
+**8** Le stagiaire doit, dans les 30 jours de tout changement aux renseignements indiqués dans sa demande d’inscription ou de renouvellement d’inscription, en aviser le secrétaire de l’Ordre.
+
+**9** Pour chaque période de stage qu’il veut faire valoir, le stagiaire doit transmettre au secrétaire de l’Ordre un rapport de stage contenant les renseignements suivants:
+
+(1) les dates du stage, le nombre d’heures effectuées, le lieu du stage, le nom et l’adresse de l’employeur, le poste occupé ainsi que les nom, adresse professionnelle et numéro de téléphone du maître de stage;
+
+(2) une description détaillée des activités effectuées;
+
+(3) une fiche d’appréciation rédigée par le maître de stage comprenant son appréciation du stagiaire quant aux éléments suivants:
+
+(a) l’attitude et le comportement en termes de discipline personnelle et de relations humaines;
+
+(b) la conscience professionnelle, l’intégrité et le respect de la déontologie;
+
+(c) la compétence en termes de communications, de l’application informée et exacte des connaissances pertinentes et du jugement professionnel.
+
+Le rapport de stage doit être signé par le stagiaire et par le maître de stage. Ce dernier doit de plus attester que le stagiaire a effectué les activités décrites dans son rapport et qu’il a effectué le nombre d’heures de stage déclaré.
+
+En cas de refus ou d’impossibilité du géologue qui a supervisé le stage de produire une fiche d’appréciation ou de signer le rapport de stage, le stagiaire peut s’adresser au secrétaire qui prend alors les mesures appropriées.
+
+**10** Une personne bénéficie d’une équivalence de stage si elle démontre qu’elle possède un niveau d’habiletés et de connaissances pratiques équivalent à celui acquis par une personne qui a effectué le stage décrit aux articles 4 et 5.
+
+Dans l’appréciation de l’équivalence d’un stage, il est tenu compte des éléments suivants:
+
+(1) l’expérience pertinente de travail;
+
+(2) les diplômes de cycle supérieur obtenus en géologie ou dans un domaine connexe;
+
+(3) les travaux effectués et les cours suivis, leur nature, leur contenu et les notes obtenues;
+
+(4) les stages de formation supervisés et les autres activités de formation pratique effectués en géologie ou dans un domaine connexe.
+
+**11** La personne qui veut faire reconnaître une équivalence de stage doit joindre à sa demande de permis les documents ou renseignements suivants:
+
+(1) une description détaillée de son expérience pertinente de travail accompagnée des attestations appropriées du ou des géologues qui l’ont supervisée;
+
+(2) s’il y a lieu, une copie de ses diplômes pertinents ou tout autre document attestant qu’elle en est titulaire;
+
+(3) pour chaque diplôme présenté, une copie de son relevé de notes et une description du programme comprenant les travaux effectués, les cours suivis et le nombre de crédits s’y rapportant;
+
+(4) s’il y a lieu, une attestation de sa participation à un stage ou à toute autre activité de formation pratique effectuée en géologie ou dans un domaine connexe;
+
+(5) le paiement des frais prescrits par le Conseil d’administration.
+
+Tout document qui n’est pas rédigé en français ou en anglais doit être accompagné de sa traduction française ou anglaise. La traduction doit être certifiée conforme à l’original par un traducteur membre de l’Ordre des traducteurs, terminologues et interprètes agréés du Québec ou, s’il n’est pas du Québec, reconnu par l’autorité compétente de sa province ou de son pays.
+
+**12** Le comité des examinateurs étudie tout rapport de stage transmis en application de l’article 9 ainsi que toute demande transmise en application de l’article 11 et décide, selon le cas:
+
+(1) si le stage effectué par le demandeur est conforme et le nombre d’heures de stage qu’il a déclaré est valide;
+
+(2) si le demandeur bénéficie, en tout ou en partie, d’une équivalence de stage.
+
+Aux fins de prendre sa décision, ce comité peut convoquer le demandeur à une entrevue.
+
+**13** La décision du comité des examinateurs est transmise par écrit au demandeur dans les 15 jours suivant la date à laquelle elle a été rendue.
+
+Toute décision défavorable au demandeur doit être accompagnée d’un avis écrit indiquant ses motifs ainsi que le droit d’en demander la révision conformément à l’article 14.
+
+**14** La personne qui est informée d’une décision du comité des examinateurs lui étant défavorable peut en demander la révision en faisant parvenir par écrit au secrétaire de l’Ordre une demande à cet effet dans les 45 jours suivant la réception de cette décision.
+
+Le Conseil d’administration décide de la demande de révision dans les 60 jours suivant sa réception. Avant de prendre cette décision, il donne au demandeur l’occasion de présenter ses observations.
+
+Au moins 15 jours avant la réunion au cours de laquelle la demande de révision sera examinée, le secrétaire de l’Ordre informe par écrit le demandeur de la date, du lieu et de l’heure de sa tenue.
+
+Le demandeur qui désire assister à la réunion afin d’y présenter ses observations doit en informer le secrétaire au moins 5 jours avant sa tenue. Il peut cependant faire parvenir ses observations écrites au secrétaire en tout temps avant cette réunion.
+
+La décision du Conseil d’administration est finale et doit être transmise par écrit au demandeur dans les 30 jours suivant la date à laquelle elle a été rendue.
+
+## III — EXAMEN PROFESSIONNEL
+
+**15** Est admissible à l’examen professionnel la personne qui a effectué un stage conforme à la section II ou s’est vu reconnaître une équivalence de stage en vertu de cette section.
+
+**16** L’examen professionnel, d’une durée de moins de 4 heures, porte sur les sujets suivants:
+
+(1) les lois et règlements régissant l’exercice de la profession de géologue, notamment les normes déontologiques;
+
+(2) les notions juridiques de base dans les domaines de la responsabilité civile, des contrats, de la propriété intellectuelle, des affaires, du travail, des mines, de l’environnement et de la santé et sécurité au travail.
+
+La note minimale de réussite à l’examen est de 65%.
+
+**17** Les séances d’examen se tiennent aux endroits et aux moments fixés par le Conseil d’administration. Au moins 2 séances sont tenues chaque année.
+
+**18** Pour participer à une séance d’examen, la personne admissible doit faire parvenir au secrétaire de l’Ordre une demande d’inscription accompagnée du paiement des frais prescrits par le Conseil d’administration.
+
+Le secrétaire de l’Ordre inscrit la personne à la première séance d’examen suivant d’au moins 45 jours la date de la demande et lui transmet par écrit une confirmation d’inscription indiquant le lieu et le moment de la séance.
+
+**19** La personne qui a participé à une séance d’examen est informée par le secrétaire de l’Ordre du résultat obtenu à l’examen dans les 60 jours suivants.
+
+**20** La personne qui échoue à l’examen peut, dans les 30 jours suivant la réception de l’avis de son échec, demander la révision de sa correction au secrétaire de l’Ordre. Le comité formé à cette fin par le Conseil d’administration révise l’examen dans les 30 jours suivant la demande.
+
+Le secrétaire avise par écrit la personne de sa note révisée. Cette note est finale.
+
+## IV — DISPOSITIONS TRANSITOIRES ET FINALE
+
+**21** Les dispositions relatives à l’exigence d’expérience pratique prévue par le Règlement n. 9, adopté par l’Association professionnelle des géologues et de géophysiciens du Québec le 31 mars 1989, continuent d’avoir effet jusqu’au 1^er septembre 2014.
+
+Aux fins de l’application du paragraphe 3 de l’article 1 du présent règlement, toute période d’expérience pratique acquise conformément au Règlement n. 9 visé au premier alinéa avant le 1^er septembre 2014 est réputée avoir été effectuée conformément au présent règlement.
+
+**22** (Omis).

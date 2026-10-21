@@ -1,0 +1,50 @@
+---
+type: "Regulation"
+title: "Décret sur le prêt de matériel de défense aux entrepreneurs canadiens"
+description: "Règlement fédéral C.R.C., ch. 709, pris en vertu de : Loi Sur La Gestion Des Finances Publiques."
+resource: "https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._709/"
+tags: ["federal", "regulation", "fr"]
+jurisdiction: "federal"
+language: "fr"
+number: "C.R.C., ch. 709"
+source_id: "C.R.C.,_ch._709"
+current_to: "2025-07-24"
+last_amended: "2006-03-22"
+in_force: true
+translation: "../en/CRC-c-709.md"
+status: "stable"
+generated: { by: process:canada-laws-federal-converter, at: 2025-07-24T00:00:00Z }
+sources:
+  - id: "justice-xml"
+    resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/fra/reglements/C.R.C.,_ch._709.xml"
+    title: "Justice Canada consolidated XML (laws-lois-xml)"
+    author: "org:justice-canada"
+    last_modified: "2025-07-24T00:00:00Z"
+  - id: "justice-laws"
+    resource: "https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._709/"
+    title: "Justice Laws Website"
+    author: "org:justice-canada"
+    last_modified: "2006-03-22T00:00:00Z"
+---
+
+# Décret sur le prêt de matériel de défense aux entrepreneurs canadiens
+
+*Décret autorisant le ministre de la Défense nationale à prêter du matériel de défense aux entrepreneurs de défense canadiens*
+
+C.R.C., ch. 709 · Codification: 2025-07-24 · Dernière modification: 2006-03-22
+
+Autorité habilitante: [LOI SUR LA GESTION DES FINANCES PUBLIQUES](../../acts/fr/F-11.md)
+
+> **Version non officielle.** © Sa Majesté le Roi du chef du Canada. Reproduit à partir de la [source officielle](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._709/) en vertu du [Décret sur la reproduction de la législation fédérale](https://laws-lois.justice.gc.ca/fra/reglements/TR-97-5/). Seule la version du site Web de la législation (Justice) fait foi.
+
+## Titre abrégé
+
+**1** Le présent décret peut être cité sous le titre : [Décret sur le prêt de matériel de défense aux entrepreneurs canadiens](CRC-ch-709.md).
+
+## Autorisation
+
+**2** Le ministre de la Défense nationale est autorisé à prêter, à la demande du ministre des Approvisionnements et Services, du matériel de défense aux entrepreneurs de défense canadiens afin de les aider à fabriquer de l’équipement militaire pour satisfaire les besoins des gouvernements étrangers qui leur ont passé des commandes pourvu que ledit matériel ne soit pas requis aux fins de la défense et que de tels prêts soient consentis à la condition que le matériel puisse être repris en cas de besoin aux fins de la défense.
+
+## Administration
+
+**3** Les prêts visés à l’article 2 sont effectués par l’intermédiaire du ministère des Approvisionnements et Services sous réserve des modalités que le ministre des Approvisionnements et Services juge bon de déterminer, pourvu que ces prêts n’entraînent aucuns frais à la Couronne.

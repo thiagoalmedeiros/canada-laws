@@ -1,0 +1,275 @@
+---
+type: "Regulation"
+title: "General"
+description: "New Brunswick regulation, NB Reg 93-92."
+resource: "https://laws.gnb.ca/en/document/cr/93-92"
+tags: ["nb", "regulation", "en"]
+jurisdiction: "nb"
+language: "en"
+citation: "NB Reg 93-92"
+document_date: "1993-04-01"
+translation: "../fr/NB-Reg-93-92.md"
+upstream_license: "See upstream license: https://perma.cc/8442-YF8V © King's Printer for New Brunswick. Reproduced from laws.gnb.ca subject to the Government of New Brunswick disclaimer and copyright notice (https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html). NOTE: This is an unofficial reproduction of New Brunswick regulations, made without endorsement or affiliation by the Government of New Brunswick. Official versions should be consulted for all purposes of interpreting and applying the law."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://laws.gnb.ca/en/document/cr/93-92"
+    title: "Government of New Brunswick: official text"
+    author: "org:nb-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-NB/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# General
+
+> **Unofficial version, for personal and non-commercial use only.** © Government of New Brunswick. Not endorsed by or affiliated with the Government of New Brunswick. Text obtained from the [official source](https://laws.gnb.ca/en/document/cr/93-92) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+NEW BRUNSWICK REGULATION 93-92
+
+under the Quarriable Substances Act (O.C. 93-254)
+
+Filed April 1, 1993
+
+Under section 39 of the Quarriable Substances Act, the Lieutenant-Governor in Council makes the following Regulation:
+
+1 This Regulation may be cited as the General Regulation - Quarriable Substances Act.
+
+2 In this Regulation
+
+“Act” means the Quarriable Substances Act;(Loi)
+
+“ordinary price of peat” means the ordinary price of peat calculated in accordance with subsection 25(3);(prix ordinaire de la tourbe)
+
+“standard bale” means a 0.170 cubic metre bale where raw peat at approximately fifty per cent moisture is compressed two to one;(ballot standard)
+
+“surveyor” means a person who is registered under the New Brunswick Land Surveyors Act, 1986 to practise land surveying in the Province;(arpenteur-géomètre)
+
+“value-added peat” means peat used in a product that is made in the Province, where that product is sold, on an equal volume basis, for a plant f.o.b. price of at least twice the ordinary price of peat.(tourbe à valeur ajoutée)
+
+## SHORE AREAS
+
+3 The following shore areas are designated to be subject to the Act:
+
+(a) all the shore area lying outside Crown Lands that lies on either side of the ordinary high water mark, commencing at the point where the border between the Province of Quebec and the Province of New Brunswick intersects the ordinary high water mark of Chaleur Bay; thence southerly along the ordinary high water mark of the Gulf of St. Lawrence and Northumberland Strait to the point where the ordinary high water mark intersects the border of the Province of Nova Scotia, including the ordinary high water mark of all creeks, streams, rivers, inlets, harbours, bays and estuaries opening into and all the islands in the Gulf of St. Lawrence, Chaleur Bay and Northumberland Strait; and
+
+(b) all the shore area lying outside Crown Lands that lies on either side of the ordinary high water mark, commencing at the point where the ordinary high water mark of Cumberland Basin meets the border between the Province of Nova Scotia and the Province of New Brunswick; thence southwesterly following the ordinary high water mark of Cumberland Basin, Shepody Bay, Chignecto Bay, Bay of Fundy and Passamaquoddy Bay to the border of the State of Maine, including the ordinary high water mark of all creeks, streams, rivers, inlets, harbours, bays and estuaries opening into and all the islands in the Cumberland Basin, Bay of Fundy, Shepody Bay, Chignecto Bay and Passamaquoddy Bay.
+
+## QUARRY PERMIT
+
+4 An application for a quarry permit shall be submitted to the Minister on a form provided by the Minister and shall be accompanied by
+
+(a) an application fee of ten dollars,
+
+(b) a location map indicating the area from which a quarriable substance is to be taken or removed, and
+
+(c) where the area is a shore area designated under section 3, proof that the applicant owns or has sufficient legal interest in the area to be covered by the quarry permit to enable the applicant to take or remove a quarriable substance from within the designated area.
+
+## QUARRY LEASE
+
+5(1) An application for a quarry lease shall be submitted to the Minister on a form provided by the Minister.
+
+5(2) The security under subparagraph 7(a)(i) of the Act shall
+
+(a) be in the amount of twenty dollars per hectare or five thousand dollars, whichever is the greater,
+
+(b) accompany the application, and
+
+(c) be in one of the following forms:
+
+(i) a deposit of money;
+
+(ii) a negotiable bond signed over to the Province;
+
+(iii) an irrevocable documentary credit or letter of credit from a bank or other lending institution acceptable to the Minister which is negotiable only by the Minister; or
+
+(iv) any other form acceptable to the Minister.
+
+5(2.1) A security in the form described in subparagraph (2)(c)(iii) shall be for a term of not less than one year.
+
+5(3) The application fee under subparagraph 7(a)(ii) of the Act is fifty dollars.
+
+5(4) The rent under subparagraph 7(a)(iii) of the Act is fifty dollars per hectare per year.
+
+5(5) An application shall be accompanied by the following information:
+
+(a) a detailed description of the proposed quarrying plan including quarrying methods, rate of production and quarrying costs;
+
+(b) an assessment of the potential social and economic impact of the project;
+
+(c) a program for protection, reclamation and rehabilitation of the Crown Lands during and after discontinuance of quarrying; and
+
+(d) proof that the applicant has the ability to commence production within one year.
+
+6(1) The boundaries of the Crown Lands to be covered by a quarry lease shall be surveyed
+
+(a) by a surveyor, and
+
+(b) in accordance with the Surveys Act.
+
+6(2) Repealed: 95-104
+
+## PEAT EXPLORATION LICENCE
+
+6.1 An area of 40 hectares is prescribed for the purposes of section 8 of the Act.
+
+7 An application for a peat exploration licence shall be submitted to the Minister on a form provided by the Minister and shall be accompanied by
+
+(a) an application fee of one hundred dollars which is non-refundable,
+
+(b) a development proposal,
+
+(c) information with respect to the applicant’s capability to finance the proposed development of the peatland, and
+
+(d) any other information required by the Minister.
+
+7.1(1) A call for tenders for the grant of a peat exploration licence under section 8 of the Act shall
+
+(a) be by publication of a notice of the call for tenders in The Royal Gazette and in such other publication as the Minister considers appropriate at least sixty days before the close of the call for tenders,
+
+(b) state the location where the information to bidders package may be obtained, the tender closing time and date and the place where the tender submission is to be deposited.
+
+7.1(2) Any person, other than a holder of a peat exploration licence, may submit a tender for the grant of a peat exploration licence.
+
+7.1(3) A submission of a tender for the grant of a peat exploration licence shall be accompanied by
+
+(a) a tender fee of one hundred dollars which is non-refundable,
+
+(b) a development proposal,
+
+(c) information with respect to the applicant’s capability to finance the proposed development of the peatland, and
+
+(d) any other information required by the Minister.
+
+7.2 Where a call for tenders is made under section 8 of the Act and one or more acceptable tenders have been received, the Minister may grant a peat exploration licence to the successful applicant within ninety days after the closing date of the call for tenders.
+
+8 No person shall hold more than one peat exploration licence at any time.
+
+9 It is a term and condition of a peat exploration licence that the holder submit to the Minister all data obtained under the licence.
+
+10(1) The required annual work expenditure in respect of a peat exploration licence is two dollars and fifty cents per hectare.
+
+10(2) An application for the extension of a peat exploration licence shall be submitted to the Minister in writing and shall be accompanied by an application fee of ten dollars and evidence of compliance with the requirements of subsection 8(5) of the Act.
+
+## PEAT LEASE
+
+11(1) An application for a peat lease shall be submitted to the Minister on a form provided by the Minister.
+
+11(2) The security under subsection 9(3) or (6) of the Act shall be in one of the following forms:
+
+(a) a deposit of money;
+
+(b) a negotiable bond signed over to the Province;
+
+(c) an irrevocable documentary credit or letter of credit from a bank or other lending institution acceptable to the Minister which is negotiable only by the Minister; or
+
+(d) any other form acceptable to the Minister.
+
+11(2.1) A security in the form described in paragraph (2)(c) shall be for a term of not less than one year.
+
+11(3) The application fee under subparagraph 9(1)(b)(i) of the Act is fifty dollars.
+
+11(4) The rent under subparagraph 9(1)(b)(ii) of the Act is five dollars per hectare per year.
+
+12(1) The boundaries of the Crown Lands to be covered by a peat lease shall be surveyed
+
+(a) by a surveyor, and
+
+(b) in accordance with the Surveys Act.
+
+12(2) Repealed: 95-104
+
+13 A feasibility study report required under section 9 of the Act shall include
+
+(a) a summary of exploration work performed with results and analyses, with an up-to-date summary of total exploration expenses,
+
+(b) a development plan,
+
+(c) a drainage plan, and
+
+(d) a reclamation plan.
+
+## WRITTEN AUTHORIZATIONS
+
+14(1) The amount of quarriable substance that may be taken or removed from Crown Lands under a written authorization under section 10 of the Act shall not exceed one thousand tonnes.
+
+14(2) The fee for a written authorization under section 10 of the Act is ten dollars.
+
+## RENEWAL OF QUARRY LEASE OR PEAT LEASE
+
+15 An application for a renewal of a quarry lease shall be submitted to the Minister in writing and shall be accompanied by an application fee of fifty dollars.
+
+16 An application for a renewal of a peat lease shall be submitted to the Minister in writing and shall be accompanied by an application fee of fifty dollars.
+
+## FEE FOR TRANSFER OF QUARRY LEASE OR PEAT LEASE
+
+17 The fee for a transfer of a quarry lease or peat lease is fifty dollars.
+
+## PROTECTION, RECLAMATION AND REHABILITATION
+
+18 Where it is a written condition of acceptance of a program for the protection, reclamation and rehabilitation of the Crown Lands during quarrying and after quarrying is discontinued that the lessee may be required by the Minister to revise the program, the lessee shall revise the program as the Minister may require.
+
+## MANNER IN WHICH OPERATION IS CARRIED ON
+
+19(1) The holder of a peat lease or quarry lease with respect to Crown Lands may, with the prior written approval of the Minister, construct such roads, drains and other works as are necessary to carry out a quarrying operation within the area covered by the peat lease or quarry lease.
+
+19(2) A road constructed under subsection (1) is vested in the Minister and the Minister and any person authorized by the Minister may use, alter, reconstruct or repair the road.
+
+19(3) The Minister may construct roads through Crown Lands covered by a peat lease or quarry lease.
+
+19(4) The holder of a quarry permit, peat exploration licence, quarry lease, peat lease or written authorization under section 10 of the Act with respect to Crown Lands has the right of access through Crown Lands to the area covered by the quarry permit, peat exploration licence, quarry lease, peat lease or written authorization.
+
+## FEE FOR REDUCTION, SUBDIVISION, AMALGAMATION OF PEAT LEASE OR QUARRY LEASE
+
+20 The fee for a reduction, subdivision, amalgamation or enlargement of land covered by a peat lease or quarry lease is fifty dollars.
+
+## SECURITY
+
+21 The Minister may make a claim on the security provided by a lessee if the lessee fails to meet the lessee’s obligations under the Act or the lease with respect to the protection, reclamation and rehabilitation of the Crown Lands during and after discontinuance of quarrying.
+
+22 Where a claim is made by the Minister on a security during the term of a lease, the lessee shall supplement the security in one of the forms described in paragraph 5(2)(c) or 11(2)(c), as the case may be, to the amount originally provided to the Minister within one month after the claim is made.
+
+23 Where a lessee surrenders the leased area in a condition satisfactory to the Minister, the security submitted to the Minister, or the balance of the security if a claim has been made on the security, as the case may be, shall be returned to the holder of the lease.
+
+## RENTS AND ROYALTIES
+
+24 The rent under section 23 of the Act
+
+(a) in respect of a quarry lease is fifty dollars per hectare per year, and
+
+(b) in respect of a peat lease is five dollars per hectare per year.
+
+25(1) The royalty on quarriable substances, other than peat, under section 24 of the Act is twenty-five cents per tonne.
+
+25(2) The royalty on peat under section 24 of the Act is
+
+(a) for peat other than value-added peat, on and after July 1, 2002 - ten cents per standard bale, and
+
+(b) for value-added peat, on and after July 1, 2002 - six cents per standard bale.
+
+25(3) The ordinary price of peat for a given calendar year is the price of peat per standard bale calculated as follows using the figures for the two previous calendar years for New Brunswick as set out for each of those years in annual data on the production and shipments of non-metallic minerals, published by Statistics Canada under the authority of the Statistics Act (Canada):
+
+| A | = | ( | B + C | ) | ( | 1 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 29 |  |  |  |  |  |  |
+
+where
+
+A is the ordinary price of peat for a given calendar year;
+
+B is the amount calculated by dividing the value of shipments of peat in dollars for the calendar year preceding the given calendar year by the quantity of peat shipped in tonnes for the calendar year preceding the given calendar year; and
+
+C is the amount calculated by dividing the value of shipments of peat in dollars for the calendar year that is two years before the given calendar year by the quantity of peat shipped in tonnes for the calendar year that is two years before the given calendar year.
+
+## INTEREST
+
+26 Interest on any amount unpaid and due under the Act shall be the rate of interest prescribed in subsection 9(1) of New Brunswick Regulation 84-247 under the Revenue Administration Act.
+
+## REPEAL AND COMMENCEMENT
+
+27 New Brunswick Regulations 84-254 and 89-165 under the Quarriable Substances Act are repealed.
+
+28 This Regulation comes into force on April 1, 1993.

@@ -1,0 +1,64 @@
+---
+type: "Regulation"
+title: "Appropriation Act No. 1, 1977, Leasing Regulations"
+description: "Federal regulation C.R.C., c. 320, made under the Appropriation Act No. 1, 1977Appropriation Acts."
+resource: "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._320/"
+tags: ["federal", "regulation", "en"]
+jurisdiction: "federal"
+language: "en"
+number: "C.R.C., c. 320"
+source_id: "C.R.C.,_c._320"
+current_to: "2025-07-24"
+last_amended: "2006-03-22"
+in_force: true
+translation: "../fr/CRC-ch-320.md"
+status: "stable"
+generated: { by: process:canada-laws-federal-converter, at: 2025-07-24T00:00:00Z }
+sources:
+  - id: "justice-xml"
+    resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.,_c._320.xml"
+    title: "Justice Canada consolidated XML (laws-lois-xml)"
+    author: "org:justice-canada"
+    last_modified: "2025-07-24T00:00:00Z"
+  - id: "justice-laws"
+    resource: "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._320/"
+    title: "Justice Laws Website"
+    author: "org:justice-canada"
+    last_modified: "2006-03-22T00:00:00Z"
+---
+
+# Appropriation Act No. 1, 1977, Leasing Regulations
+
+*Regulations Respecting the Leasing of the Lands and any Buildings or Structures Thereon, Described in Instrument 592102 Registered in the Registry Office of the Registry Division of the City of Ottawa in tthe Province of Ontario on the 7th Day of June, 1971*
+
+C.R.C., c. 320 · Consolidated: 2025-07-24 · Last amended: 2006-03-22
+
+Enabling authority: APPROPRIATION ACT NO. 1, 1977[APPROPRIATION ACTS](../../acts/en/Z-01.md)
+
+> **Unofficial version.** © His Majesty the King in Right of Canada. Reproduced from the [official source](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._320/) under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/). Only the version on the Justice Laws Website is official.
+
+## Short Title
+
+**1** These Regulations may be cited as the [Appropriation Act No. 1, 1977, Leasing Regulations](CRC-c-320.md).
+
+## Interpretation
+
+**2** In these Regulations,
+
+***lands*** means the lands, and any buildings or structures thereon, described in instrument 592102 registered in the Registry Office of the Registry Division of the City of Ottawa in the Province of Ontario on June 7, 1971; (***immeuble***)
+
+***Minister*** means the Minister of Public Works. (***ministre***)
+
+## Terms and Conditions
+
+**3** No lease of the lands, including renewals thereof, shall, without the prior approval of the Treasury Board, be for a term exceeding 50 years.
+
+**4** No lease of the lands shall be issued except under an agreement whereby Her Majesty shall acquire a leasehold interest in the lands for a term expiring not more than one day prior to the expiry of the term of the lease.
+
+**5** No sublease by the Minister of Her Majesty's leasehold interest acquired under section 4, including renewals thereof, shall, without the prior approval of the Treasury Board, be for a term exceeding 20 years.
+
+**6** No lease or sublease for the purpose of banking shall be issued without the prior written approval of the Minister of Finance.
+
+**7** In determining the rent payable under a sublease referred to in section 5, the Minister shall take into account all the costs of Her Majesty in respect of the acquisition and construction of the public property affected by the sublease and the anticipated costs of the administration thereof, but in no case shall the amount of the rent payable under a sublease referred to in section 5 be less than the current market rental value.
+
+**8** No sublease referred to in section 5 shall be issued without prior public advertisement thereof unless, in the opinion of the Minister, such advertisement is not practicable.

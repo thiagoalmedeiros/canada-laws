@@ -1,0 +1,146 @@
+---
+type: "Regulation"
+title: "The Credit Reporting Regulations"
+description: "Saskatchewan regulation, RRS c C-43.2 Reg 1."
+resource: "https://publications.saskatchewan.ca/api/v1/products/9614/formats/14582/download"
+tags: ["sk", "regulation", "en"]
+jurisdiction: "sk"
+language: "en"
+citation: "RRS c C-43.2 Reg 1"
+document_date: "2005-03-01"
+upstream_license: "See upstream license: https://perma.cc/K79Y-6RJ3 © King's Printer for Saskatchewan. The King's Printer for Saskatchewan holds copyright on behalf of the Government of Saskatchewan in right of His Majesty the King for all Government of Saskatchewan legislation and legislative publications. Reproduced from the Freelaw® consolidations published by the Office of the King's Printer (https://publications.saskatchewan.ca/#/freelaw) with the permission of the Office of the King's Printer, for non-commercial purposes (via email on July 13, 2026). See the King's Printer copyright terms: https://publications.saskatchewan.ca/#/freelaw/copyright. NOTE: This is an unofficial reproduction of Saskatchewan regulations, made without endorsement or affiliation by the Government of Saskatchewan. The official versions should be consulted for all purposes of interpreting and applying the law."
+status: "stable"
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+sources:
+  - id: "official"
+    resource: "https://publications.saskatchewan.ca/api/v1/products/9614/formats/14582/download"
+    title: "Office of the King's Printer, Saskatchewan: official text"
+    author: "org:sk-government"
+  - id: "a2aj"
+    resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-SK/train.parquet"
+    title: "A2AJ Canadian Laws dataset"
+    author: "org:a2aj"
+    last_modified: "2026-10-17T00:00:00Z"
+---
+
+# The Credit Reporting Regulations
+
+> **Unofficial version, for personal and non-commercial use only.** © Office of the King's Printer, Saskatchewan. Not endorsed by or affiliated with the Government of Saskatchewan. Text obtained from the [official source](https://publications.saskatchewan.ca/api/v1/products/9614/formats/14582/download) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+RRS c C-43.2 Reg 1
+
+*Made under The Credit Reporting Act*
+
+### Title
+
+1 These regulations may be cited as The Credit Reporting Regulations.
+
+### Interpretation
+
+2 In these regulations, “Act” means The Credit Reporting Act.
+
+### Non-application of Act
+
+3 The Act does not apply to a periodic bulletin, journal or other publication that
+
+reports information regarding consumers that is a matter of public record.
+
+### Application fee for licence or renewal of licence
+
+4 For the purposes of clause 6(c) of the Act, the application fee to obtain or renew
+
+a licence is:
+
+(a) $360;
+
+(b) effective January 1, 2016, $400;
+
+(c) effective January 1, 2017, $500;
+
+(d) effective January 1, 2018, $600.
+
+### Proof of registration
+
+5 For the purposes of clause 6(d) of the Act, in order to obtain or renew a licence, a
+
+credit reporting agency shall provide the registrar with evidence that it is registered
+
+as required by law to carry on business in Saskatchewan.
+
+### Reinstatement fee
+
+6 For the purposes of subsection 9(2) of the Act, the fee for reinstating a licence
+
+that has been suspended is $200.
+
+### Term and expiry of licence
+
+7 For the purposes of section 12 of the Act, a licence is valid for a period of one
+
+year from the date of issue, and unless the licence is renewed pursuant to section 7
+
+of the Act or cancelled pursuant to section 9 of the Act, it expires on the date stated
+
+on the licence.
+
+### Notification of change in circumstances
+
+8 For the purposes of subsection 14(1) of the Act, a prescribed change in
+
+circumstances consists of a material change in the information previously provided
+
+to the registrar in an application for:
+
+(a) a licence;
+
+(b) the renewal of a licence; or
+
+(c) the reinstatement of a licence.
+
+### Prohibited content in a credit report
+
+9 For the purposes of clause 18(p) of the Act, no credit reporting agency shall
+
+include in a credit report any information unless it is extracted from information
+
+appearing in files stored or collected by a credit reporting agency in a repository
+
+located in Canada, regardless of whether the information was obtained from a source
+
+outside Canada.
+
+### Service of documents
+
+10(1) In addition to the methods of service mentioned in subsection 46(1) of the
+
+Act, a document required by the Act or these regulations to be served may be served
+
+in any manner that permits the person serving the document to produce proof of
+
+service, including by fax, if the fax number is part of the last address of the person
+
+to be served known to the registrar.
+
+(2) For the purposes of subsection 46(3) of the Act, proof of service of a document
+
+by fax may be established using the transmission record or journal generated by
+
+the fax machine that indicates the date of transmission and that the transmission
+
+was successful.
+
+### R.R.S. c.C-44 Reg 1 repealed
+
+11 The Credit Reporting Agencies Regulations are repealed.
+
+### Coming into force
+
+12(1) Subject to subsection (2), these regulations come into force on the day on
+
+which section 50 of The Credit Reporting Act comes into force.
+
+(2) If these regulations are filed with the Registrar of Regulations after the day
+
+on which section 50 of The Credit Reporting Act comes into force, these regulations
+
+come into force on the day on which they are filed with the Registrar of Regulations.
