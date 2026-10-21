@@ -30,9 +30,32 @@ JURIS = {
     "YT": "Yukon",
 }
 
-DISCLAIMER = ("> **Unofficial version.** Text obtained from the official {name} website via the "
-              "[A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). "
-              "Always check the [official source]({url}) before relying on it.")
+
+
+def disclaimer(name, url):
+    src = f"the [official source]({url})" if url else "the official source"
+    return (f"> **Unofficial version.** Text obtained from the official {name} website via the "
+            f"[A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). "
+            f"Always check {src} before relying on it.")
+
+
+def paragraphs(text):
+    """Upstream text separates provisions with single newlines, which Markdown would
+    merge into one paragraph. Make every line its own paragraph, except inside tables
+    and code blocks."""
+    out = []
+    fence = False
+    prev = ""
+    for line in text.replace("\r\n", "\n").split("\n"):
+        line = line.rstrip()
+        if line.lstrip().startswith("```"):
+            fence = not fence
+        table = line.lstrip().startswith("|") and prev.lstrip().startswith("|")
+        if out and line and prev and not fence and not table:
+            out.append("")
+        out.append(line)
+        prev = line
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip()
 
 
 def slugify(s, maxlen=120):
@@ -83,6 +106,8 @@ def doc(row, lang, code, kind):
     cit = val(row, f"citation_{sfx}") or val(row, f"citation_{'fr' if sfx == 'en' else 'en'}")
     url = val(row, f"url_{sfx}") or val(row, f"url_{'fr' if sfx == 'en' else 'en'}")
     text = val(row, f"unofficial_text_{sfx}")
+    if not url:  # some jurisdictions store the link under another column name
+        url = next((val(row, k) for k in sorted(row) if "url" in k.lower() and val(row, k).startswith("http")), "")
     fm = ["---", f"title: {yaml_str(name)}", f"citation: {yaml_str(cit)}",
           f"jurisdiction: {yaml_str(JURIS[code])}", f"language: {lang}",
           f"type: {'act' if kind == 'acts' else 'regulation'}",
@@ -90,12 +115,16 @@ def doc(row, lang, code, kind):
           f"retrieved: {yaml_str(val(row, f'scraped_timestamp_{sfx}'))}",
           f"source: {yaml_str(url)}",
           f"upstream_license: {yaml_str(val(row, 'upstream_license'))}", "---", ""]
-    body = []
-    if not re.match(r"^\s*#\s", text):
-        body += [f"# {name or cit}", ""]
+    text = paragraphs(text.strip())
+    m = re.match(r"^\s*# [^\n]*\n", text)
+    if m:  # upstream text already has a title: keep it first
+        body = [m.group(0).strip(), ""]
+        text = text[m.end():].lstrip()
+    else:
+        body = [f"# {name or cit}", ""]
         if cit and cit != name:
             body += [f"*{cit}*", ""]
-    body += [DISCLAIMER.format(name=JURIS[code], url=url or "#"), "", text.strip(), ""]
+    body += [disclaimer(JURIS[code], url), "", text, ""]
     return "\n".join(fm + body), name or cit, cit
 
 
