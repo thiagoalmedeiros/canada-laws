@@ -1,0 +1,27 @@
+---
+title: "Règlement sur l'insigne de l'Ordre du Manitoba"
+citation: "Règl du Man 1/2000"
+jurisdiction: "Manitoba"
+language: fr
+type: regulation
+document_date: "2000-01-10"
+retrieved: "2026-10-17"
+source: "https://web2.gov.mb.ca/laws/regs/current/001-2000.php?lang=en"
+upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+---
+
+# Règlement sur l'insigne de l'Ordre du Manitoba
+
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for Manitoba. Not endorsed by or affiliated with the Government of Manitoba. Text obtained from the [official source](https://web2.gov.mb.ca/laws/regs/current/001-2000.php?lang=en) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+R.M. 1/2000
+
+Loi sur l'Ordre du Manitoba, c. O75 de la C.P.L.M.
+
+### Ordre
+
+1 L'insigne de l'Ordre se compose :
+
+a) d'une médaille ayant la forme d'un crocus stylisé portant les armoiries stylisées de la province et la couronne ornée d'un ruban rouge, blanc et bleu-mauve;
+
+b) d'une épinglette ayant la forme d'un crocus et arborant un bison en son centre.

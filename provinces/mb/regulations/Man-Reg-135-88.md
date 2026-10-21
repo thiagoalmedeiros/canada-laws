@@ -1,0 +1,55 @@
+---
+title: "Northern Affairs (Community of Norway House Street Naming) By-law No. 19/87"
+citation: "Man Reg 135/88"
+jurisdiction: "Manitoba"
+language: en
+type: regulation
+document_date: "1988-02-23"
+retrieved: "2026-10-17"
+source: "https://web2.gov.mb.ca/laws/regs/current/135-88.php?lang=en"
+upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+---
+
+# Northern Affairs (Community of Norway House Street Naming) By-law No. 19/87
+
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for Manitoba. Not endorsed by or affiliated with the Government of Manitoba. Text obtained from the [official source](https://web2.gov.mb.ca/laws/regs/current/135-88.php?lang=en) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+
+M.R. 135/88
+
+The Northern Affairs Act, C.C.S.M. c. N100
+
+### Preamble
+
+WHEREAS the Minister of Northern Affairs, for and on behalf of the Community of Norway House desires to provide for the changing of a street name on Plan No. 2443 P.L.T.O.;
+
+AND WHEREAS The Northern Affairs Act, being Chapter N100 of the C.C.S.M. provides in part, as follows:
+
+" 5(1)... the Minister has the powers, rights, privileges and duties that a municipality has within its boundaries and the minister shall exercise and perform these powers, rights, privileges and duties, and;
+
+5(5)... where the exercise or performance of the powers, rights, privileges or duties referred to... require the passing of a by-law... the Minister may make the by-law... for or on behalf of the residents of Northern Manitoba, a community or an incorporated community, and;
+
+5(6) The by-law... may be made to apply to the whole or any part of Northern Manitoba... as the case may be... to a photogrammetric survey."
+
+AND WHEREAS The Municipal Act, being Chapter M225 of the C.C.S.M. provides as follows:
+
+" 241(1) Laying out and naming highways.
+
+The council of any municipality may pass by-laws for surveying, settling, and marking, the boundary lines of all highways, and for giving names thereto, and affixing the names at the corners thereof, on either public or private property;
+
+241(2) Registration of by-law.
+
+No by-law for altering the name of a highway has any force or effect unless it has been registered in the land titles district in which the highway is situated."
+
+AND WHEREAS it is deemed advisable and expedient to re-name a certain highway within the Community of Norway House:
+
+NOW THEREFORE the Minister of Northern Affairs enacts as follows:
+
+1 Swanson Drive as same is shown on Plan No. 2443 P.L.T.O. which lies to the east of the eastern limit of Road Plan No. 7256 P.L.T.O. (N. Div.) is hereby changed to and renamed "Sinclair Drive."
+
+2 This by-law shall come into effect upon filing:
+
+FIRST READING by the Community Council of Norway House by Resolution No. 87/88/46.
+
+SECOND READING by the Community Council of Norway House by Resolution No. 87/88/47.
+
+THIRD READING by the Community Council of Norway House by Resolution No. 87/88/48.

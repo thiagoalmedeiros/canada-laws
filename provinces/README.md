@@ -6,4 +6,5 @@ Unofficial Markdown copies, **for personal and non-commercial use only**, from t
 |---|---|---|
 | [Alberta](ab/) | 442 | 925 |
 | [British Columbia](bc/) | 573 | 1474 |
+| [Manitoba](mb/) | 516 | 1091 |
 | [Ontario](on/) | 856 | 2217 |
