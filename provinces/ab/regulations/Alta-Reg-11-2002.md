@@ -1,0 +1,27 @@
+---
+title: "Crematories Designation Regulation"
+citation: "Alta Reg 11/2002"
+jurisdiction: "Alberta"
+language: en
+type: regulation
+document_date: "2025-11-26"
+retrieved: "2026-10-17"
+source: ""
+upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
+---
+
+> **Unofficial version.** Text obtained from the official Alberta website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](#) before relying on it.
+
+# Crematories Designation Regulation
+
+Alta Reg 11/2002
+
+*Enabling act: Cemeteries Act*
+
+### Designation
+
+1 The Alberta Funeral Services Regulatory Board is designated as a regulatory board for purposes of the Cemeteries Act .
+
+### Expiry
+
+2 For the purpose of ensuring that this Regulation is reviewed for ongoing relevancy and necessity, with the option that it may be repassed in its present or an amended form following a review, this Regulation expires on November 30, 2030.
