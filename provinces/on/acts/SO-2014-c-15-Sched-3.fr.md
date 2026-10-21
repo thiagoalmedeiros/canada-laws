@@ -12,7 +12,7 @@ upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Pr
 
 # sécurité des centrales électriques et des installations nucléaires (Loi de 2014 sur la), L.O. 2014
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14s15) before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for Ontario. Not endorsed by or affiliated with the Government of Ontario. Text obtained from the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/14s15) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 L.O. 2014, chap. 15, annexe 3
 

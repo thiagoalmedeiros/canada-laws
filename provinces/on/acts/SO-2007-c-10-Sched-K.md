@@ -12,7 +12,7 @@ upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Pr
 
 # Ontario Agency for Health Protection and Promotion Act, 2007
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07o10) before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for Ontario. Not endorsed by or affiliated with the Government of Ontario. Text obtained from the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/07o10) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 S.O. 2007, c. 10, Sched. K
 

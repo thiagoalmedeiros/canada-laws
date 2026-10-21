@@ -12,7 +12,7 @@ upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Pr
 
 # Dedicated Funding for Public Transportation Act, 2013
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/13d02) before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for Ontario. Not endorsed by or affiliated with the Government of Ontario. Text obtained from the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/13d02) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 S.O. 2013, c. 2, Sched. 3
 

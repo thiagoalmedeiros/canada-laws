@@ -12,7 +12,7 @@ upstream_license: "See upstream license: https://perma.cc/5PT4-EXXN © King's Pr
 
 # Commission de l'énergie de l'Ontario (Loi de 1998 sur la)
 
-> **Unofficial version.** Text obtained from the official Ontario website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98o15) before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for Ontario. Not endorsed by or affiliated with the Government of Ontario. Text obtained from the [official source](https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/98o15) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 L.O. 1998, chap. 15, annexe B
 
