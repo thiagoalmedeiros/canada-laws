@@ -12,7 +12,7 @@ upstream_license: ""
 
 # Residential Flat Rate Tax Regulation
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_91/xml) before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for British Columbia. Not endorsed by or affiliated with the Government of British Columbia. Text obtained from the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_91/xml) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 BC Reg 66/91
 

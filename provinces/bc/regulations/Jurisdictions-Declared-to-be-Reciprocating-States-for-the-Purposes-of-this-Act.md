@@ -12,7 +12,7 @@ upstream_license: ""
 
 # Jurisdictions Declared to be Reciprocating States for the Purposes of this Act
 
-> **Unofficial version.** Text obtained from the official British Columbia website via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/courtorderenflist/xml) before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © King's Printer for British Columbia. Not endorsed by or affiliated with the Government of British Columbia. Text obtained from the [official source](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/courtorderenflist/xml) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 # Jurisdictions Declared to be Reciprocating
 

@@ -1,6 +1,6 @@
 # British Columbia — Regulations
 
-1474 documents. Unofficial text; see each file for its official source and licence.
+1474 documents. Unofficial copies for personal and non-commercial use only. © King's Printer for British Columbia; official versions at https://www.bclaws.gov.bc.ca. Text obtained via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Each file links to its official source.
 
 | Title | Citation | Files |
 |---|---|---|
