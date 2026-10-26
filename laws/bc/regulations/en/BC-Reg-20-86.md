@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 20/86"
 document_date: "1986-02-11"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:49:50Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/20_86/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T00:00:00Z"
+    last_modified: "2026-10-17T11:49:50Z"
 ---
 
 # Subdivision Parkland Valuation Regulation

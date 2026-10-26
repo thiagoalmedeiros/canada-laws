@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 11/68"
 document_date: "1968-01-01"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:05:37Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11_68/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T00:00:00Z"
+    last_modified: "2026-10-17T11:05:37Z"
 ---
 
 # Bonding Regulations

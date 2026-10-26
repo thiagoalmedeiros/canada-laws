@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 66/85"
 document_date: "1985-03-15"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T12:26:02Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_85/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T00:00:00Z"
+    last_modified: "2026-10-17T12:26:02Z"
 ---
 
 # Weed Control Regulation
