@@ -9,7 +9,7 @@ language: "fr"
 translation: "../en/Rules-of-the-Supreme-Court-of-the-Northwest-Territories-Part-Two-Schedules.md"
 upstream_license: "See upstream license: https://perma.cc/53TS-5745 © Government of the Northwest Territories. Reproduced from https://www.justice.gov.nt.ca/en/legislation/ in accordance with the copyright notice on that site. NOTE: This is an unofficial reproduction of Northwest Territories regulations, made without endorsement or affiliation by the Government of the Northwest Territories. Official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:21:16Z }
 sources:
   - id: "official"
     resource: "https://www.justice.gov.nt.ca/en/files/legislation/judicature/judicature.r8.pdf"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-NT/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T00:00:00Z"
+    last_modified: "2026-10-17T11:21:16Z"
 ---
 
 # RÈGLES DE LA COUR SUPRÊME DES TERRITOIRES DU NORD-OUEST ANNEXES
