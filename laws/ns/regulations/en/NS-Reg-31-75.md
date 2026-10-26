@@ -10,7 +10,7 @@ citation: "NS Reg 31/75"
 document_date: "1975-02-11"
 upstream_license: "See upstream licenses: https://perma.cc/A2LH-6BL2 and https://perma.cc/634R-NN37. © Crown in right of Nova Scotia. Reproduced from the unofficial electronic versions published by the Nova Scotia Office of the Legislative Counsel (nslegislature.ca) and the Office of the Registrar of Regulations (novascotia.ca/just/regulations), which are provided for convenience and personal use. NOTE: This is an unofficial reproduction of Nova Scotia regulations, made without endorsement or affiliation by the Province of Nova Scotia. Formatting may differ from the official versions; where accuracy is critical, consult official sources."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T00:00:00Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T13:31:12Z }
 sources:
   - id: "official"
     resource: "https://novascotia.ca/just/regulations/regs/ppkbeneoin.htm"
@@ -20,7 +20,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-NS/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T00:00:00Z"
+    last_modified: "2026-10-17T13:31:12Z"
 ---
 
 # Ben Eoin Provincial Park
