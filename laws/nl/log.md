@@ -1,5 +1,8 @@
 # Newfoundland and Labrador: update log
 
+## 2026-11-02
+* **Update**: Refreshed from the A2AJ Canadian Laws dataset (2068 laws added, changed or removed).
+
 ## 2026-10-26
 * **Update**: Refreshed from the A2AJ Canadian Laws dataset (2068 laws added, changed or removed).
 
