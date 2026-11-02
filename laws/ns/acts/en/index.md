@@ -44,7 +44,7 @@
 * [Auditor General Act](SNS-2010-c-33.md) - Nova Scotia Act, SNS 2010, c 33.
 * [Bank of Nova Scotia Trust Company Act, The](SNS-1997-c-2.md) - Nova Scotia Act, SNS 1997, c 2.
 * [Battery Point Lands Act](RSNS-1989-c-31.md) - Nova Scotia Act, RSNS 1989, c 31.
-* [Beaches Act amended 2025, c. 20 *, s. 342 ( in force October 19, 2026 )](RSNS-1989-c-32.md) - Nova Scotia Act, RSNS 1989, c 32.
+* [Beaches Act](RSNS-1989-c-32.md) - Nova Scotia Act, RSNS 1989, c 32.
 * [Beaches and Foreshores Act](RSNS-1989-c-33.md) - Nova Scotia Act, RSNS 1989, c 33.
 * [Bee Industry Act](SNS-2005-c-3.md) - Nova Scotia Act, SNS 2005, c 3.
 * [Bell Museum Act](RSNS-1989-c-35.md) - Nova Scotia Act, RSNS 1989, c 35.
@@ -64,7 +64,7 @@
 * [Business Electronic Filing Act](SNS-1995-96-c-3.md) - Nova Scotia Act, SNS 1995-96, c 3.
 * [Canada and United Kingdom Reciprocal Recognition and Enforcement of Judgments Act](RSNS-1989-c-52.md) - Nova Scotia Act, RSNS 1989, c 52.
 * [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management (Nova Scotia) Act](SNS-1987-c-3.md) - Nova Scotia Act, SNS 1987, c 3.
-* [Canadian Coast Guard Auxiliary Appreciation Act amended 2025, c. 20 *, ss. 343, 344 ( in force October 19, 2026 )](SNS-2019-c-2.md) - Nova Scotia Act, SNS 2019, c 2.
+* [Canadian Coast Guard Auxiliary Appreciation Act](SNS-2019-c-2.md) - Nova Scotia Act, SNS 2019, c 2.
 * [Canadian Forces Reservists Protection Act](SNS-2006-c-13.md) - Nova Scotia Act, SNS 2006, c 13.
 * [Canadian Free Trade Agreement Implementation Act](SNS-2018-c-23.md) - Nova Scotia Act, SNS 2018, c 23.
 * [Canadian Information Processing Society of Nova Scotia Act](SNS-2002-c-3.md) - Nova Scotia Act, SNS 2002, c 3.
@@ -72,7 +72,7 @@
 * [Cancer Survivors Day Act](SNS-2018-c-24.md) - Nova Scotia Act, SNS 2018, c 24.
 * [Cannabis Control Act](SNS-2018-c-3.md) - Nova Scotia Act, SNS 2018, c 3.
 * [Cannabis Tax Act](SNS-2018-c-4-Sch.md) - Nova Scotia Act, SNS 2018, c 4, Sch.
-* [Canso Causeway Act amended 2025, c. 20 *, s. 345 ( in force October 19, 2026 )](RSNS-1989-c-56.md) - Nova Scotia Act, RSNS 1989, c 56.
+* [Canso Causeway Act](RSNS-1989-c-56.md) - Nova Scotia Act, RSNS 1989, c 56.
 * [Cansteel Corporation Act](RSNS-1989-c-57.md) - Nova Scotia Act, RSNS 1989, c 57.
 * [Cape Breton Barristers' Society Act](RSNS-1989-c-58.md) - Nova Scotia Act, RSNS 1989, c 58.
 * [Cape Breton Industrial Assistance Act](RSNS-1989-c-60.md) - Nova Scotia Act, RSNS 1989, c 60.
@@ -145,11 +145,11 @@
 * [Criminal Notoriety Act](SNS-2006-c-14.md) - Nova Scotia Act, SNS 2006, c 14.
 * [Crop and Livestock Insurance Act](RSNS-1989-c-113.md) - Nova Scotia Act, RSNS 1989, c 113.
 * [Cross-border Policing Act](SNS-2005-c-4.md) - Nova Scotia Act, SNS 2005, c 4.
-* [Crown Lands Act amended 2025, c. 20 *, s. 346 ( in force October 19, 2026 )](RSNS-1989-c-114.md) - Nova Scotia Act, RSNS 1989, c 114.
+* [Crown Lands Act](RSNS-1989-c-114.md) - Nova Scotia Act, RSNS 1989, c 114.
 * [Dairy Industry Act](SNS-2000-c-24.md) - Nova Scotia Act, SNS 2000, c 24.
 * [Dalhousie University-Nova Scotia Agricultural College Merger Act](SNS-2012-c-3.md) - Nova Scotia Act, SNS 2012, c 3.
 * [Dalhousie-Technical University Amalgamation Act](SNS-1996-c-24.md) - Nova Scotia Act, SNS 1996, c 24.
-* [Dangerous Goods Transportation Act amended 2025, c. 20 *, s. 347 ( in force October 19, 2026 )](RSNS-1989-c-119.md) - Nova Scotia Act, RSNS 1989, c 119.
+* [Dangerous Goods Transportation Act](RSNS-1989-c-119.md) - Nova Scotia Act, RSNS 1989, c 119.
 * [Defamation Act](RSNS-1989-c-122.md) - Nova Scotia Act, RSNS 1989, c 122.
 * [Degree Granting Act](RSNS-1989-c-123.md) - Nova Scotia Act, RSNS 1989, c 123.
 * [Demise of the Crown Act](RSNS-1989-c-124.md) - Nova Scotia Act, RSNS 1989, c 124.
@@ -187,7 +187,7 @@
 * [Energy Resources Conservation Act](RSNS-1989-c-147.md) - Nova Scotia Act, RSNS 1989, c 147.
 * [Energy-efficient Appliances Act](SNS-1991-c-2.md) - Nova Scotia Act, SNS 1991, c 2.
 * [Enforcement of Canadian Judgments and Decrees Act](SNS-2001-c-30.md) - Nova Scotia Act, SNS 2001, c 30.
-* [Enforcement of Court Orders Act amended 2025, c. 20 *, ss. 348, 349 ( in force October 19, 2026 )](SNS-2005-c-40.md) - Nova Scotia Act, SNS 2005, c 40.
+* [Enforcement of Court Orders Act](SNS-2005-c-40.md) - Nova Scotia Act, SNS 2005, c 40.
 * [Engineering Profession Act](RSNS-1989-c-148.md) - Nova Scotia Act, RSNS 1989, c 148.
 * [Environment Act](SNS-1994-95-c-1.md) - Nova Scotia Act, SNS 1994-95, c 1.
 * [Environmental Goals and Climate Change Reduction Act](SNS-2021-c-20.md) - Nova Scotia Act, SNS 2021, c 20.
@@ -203,7 +203,7 @@
 * [Fair Drug Pricing Act](SNS-2011-c-7.md) - Nova Scotia Act, SNS 2011, c 7.
 * [Fair Registration Practices Act](SNS-2008-c-38.md) - Nova Scotia Act, SNS 2008, c 38.
 * [Family Orders Information Release Act](RSNS-1989-c-161.md) - Nova Scotia Act, RSNS 1989, c 161.
-* [Farm Machinery Dealers and Vendors Act amended 2025, c. 20 *, s. 350 ( in force October 19, 2026 )](SNS-2003-c-3.md) - Nova Scotia Act, SNS 2003, c 3.
+* [Farm Machinery Dealers and Vendors Act](SNS-2003-c-3.md) - Nova Scotia Act, SNS 2003, c 3.
 * [Farm Practices Act](SNS-2000-c-3.md) - Nova Scotia Act, SNS 2000, c 3.
 * [Farm Registration Act](SNS-1994-95-c-3.md) - Nova Scotia Act, SNS 1994-95, c 3.
 * [Fatal Injuries Act](RSNS-1989-c-163.md) - Nova Scotia Act, RSNS 1989, c 163.
@@ -215,7 +215,7 @@
 * [Fences and Detention of Stray Livestock Act](RSNS-1989-c-166.md) - Nova Scotia Act, RSNS 1989, c 166.
 * [Ferries Act](RSNS-1989-c-168.md) - Nova Scotia Act, RSNS 1989, c 168.
 * [Film and Creative Industries Nova Scotia Act](SNS-1990-c-20.md) - Nova Scotia Act, SNS 1990, c 20.
-* [Finance Act amended 2025, c. 20 *, s. 351 ( in force October 19, 2026 )](SNS-2010-c-2.md) - Nova Scotia Act, SNS 2010, c 2.
+* [Finance Act](SNS-2010-c-2.md) - Nova Scotia Act, SNS 2010, c 2.
 * [Fire Safety Act](SNS-2002-c-6.md) - Nova Scotia Act, SNS 2002, c 6.
 * [First Responders Day Act](SNS-2023-c-13.md) - Nova Scotia Act, SNS 2023, c 13.
 * [First Responders Road Safety Awareness Day Act](SNS-2018-c-15-Sch.md) - Nova Scotia Act, SNS 2018, c 15, Sch.
@@ -227,7 +227,7 @@
 * [Floral Emblem Act](RSNS-1989-c-176.md) - Nova Scotia Act, RSNS 1989, c 176.
 * [Forest Enhancement Act](RSNS-1989-c-178.md) - Nova Scotia Act, RSNS 1989, c 178.
 * [Foresters Association Act](SNS-1999-2nd-Sess-c-6.md) - Nova Scotia Act, SNS 1999 (2nd Sess), c 6.
-* [Forests Act amended 2025, c. 20 *, ss. 352, 353 ( in force October 19, 2026 )](RSNS-1989-c-179.md) - Nova Scotia Act, RSNS 1989, c 179.
+* [Forests Act](RSNS-1989-c-179.md) - Nova Scotia Act, RSNS 1989, c 179.
 * [Free Trade and Mobility within Canada Act](SNS-2025-c-7.md) - Nova Scotia Act, SNS 2025, c 7.
 * [Freedom of Information and Protection of Privacy Act](SNS-1993-c-5.md) - Nova Scotia Act, SNS 1993, c 5.
 * [French-language Services Act](SNS-2004-c-26.md) - Nova Scotia Act, SNS 2004, c 26.
@@ -247,17 +247,17 @@
 * [Gypsum Mining Income Tax Act](RSNS-1989-c-190.md) - Nova Scotia Act, RSNS 1989, c 190.
 * [Halifax Convention Centre Act](SNS-2014-c-8.md) - Nova Scotia Act, SNS 2014, c 8.
 * [Halifax Public Gardens Protection Act](SNS-1991-c-3.md) - Nova Scotia Act, SNS 1991, c 3.
-* [Halifax Regional Municipality Charter amended 2025, c. 13 *, ss. 152-156 ( in force April 1, 2027 ) amended 2025, c. 20 *, ss. 357-360 ( in force October 19, 2026 )](SNS-2008-c-39.md) - Nova Scotia Act, SNS 2008, c 39.
+* [Halifax Regional Municipality Charter amended 2025, c. 13 *, ss. 152-156 ( in force April 1, 2027 )](SNS-2008-c-39.md) - Nova Scotia Act, SNS 2008, c 39.
 * [Halifax Regional Water Commission Act](SNS-2007-c-55.md) - Nova Scotia Act, SNS 2007, c 55.
 * [Halifax-Dartmouth Bridge Commission Dissolution Act](SNS-2026-c-3-Sch.md) - Nova Scotia Act, SNS 2026, c 3, Sch.
-* [Halifax-Dartmouth Bridges Act amended 2025, c. 20 *, s. 356 ( in force October 19, 2026 )](SNS-2005-c-7.md) - Nova Scotia Act, SNS 2005, c 7.
+* [Halifax-Dartmouth Bridges Act](SNS-2005-c-7.md) - Nova Scotia Act, SNS 2005, c 7.
 * [Health Act amended 2025, c. 13 *, s. 157 ( in force April 1, 2027 )](RSNS-1989-c-195.md) - Nova Scotia Act, RSNS 1989, c 195.
 * [Health Authorities Act](SNS-2014-c-32.md) - Nova Scotia Act, SNS 2014, c 32.
 * [Health Protection Act](SNS-2004-c-4.md) - Nova Scotia Act, SNS 2004, c 4.
 * [Health Services and Insurance Act](RSNS-1989-c-197.md) - Nova Scotia Act, RSNS 1989, c 197.
 * [Healthcare Services Continuation (2001) Act](SNS-2001-c-27.md) - Nova Scotia Act, SNS 2001, c 27.
 * [Heritage Property Act](RSNS-1989-c-199.md) - Nova Scotia Act, RSNS 1989, c 199.
-* [Highway 104 Western Alignment Act amended 2025, c. 20 *, s. 361 ( in force October 19, 2026 )](SNS-1995-c-4.md) - Nova Scotia Act, SNS 1995, c 4.
+* [Highway 104 Western Alignment Act](SNS-1995-c-4.md) - Nova Scotia Act, SNS 1995, c 4.
 * [Highway Coach Moratorium Act](RSNS-1989-c-200.md) - Nova Scotia Act, RSNS 1989, c 200.
 * [Highway Workers Collective Bargaining Act](SNS-1997-2nd-Sess-c-1.md) - Nova Scotia Act, SNS 1997 (2nd Sess), c 1.
 * [Holocaust Memorial Day Act](SNS-2000-c-1.md) - Nova Scotia Act, SNS 2000, c 1.
@@ -281,7 +281,7 @@
 * [Industrial Loan Act](RSNS-1989-c-224.md) - Nova Scotia Act, RSNS 1989, c 224.
 * [Industrial Property Act](RSNS-1989-c-225.md) - Nova Scotia Act, RSNS 1989, c 225.
 * [Industry Closing Act](RSNS-1989-c-226.md) - Nova Scotia Act, RSNS 1989, c 226.
-* [Insurance Act amended 2025, c. 20 *, ss. 362-365 ( in force October 19, 2026 )](RSNS-1989-c-231.md) - Nova Scotia Act, RSNS 1989, c 231.
+* [Insurance Act](RSNS-1989-c-231.md) - Nova Scotia Act, RSNS 1989, c 231.
 * [Insurance Premiums Tax Act](RSNS-1989-c-232.md) - Nova Scotia Act, RSNS 1989, c 232.
 * [Intercountry Adoption Act](SNS-1998-c-15.md) - Nova Scotia Act, SNS 1998, c 15.
 * [Interest on Judgments Act](RSNS-1989-c-233.md) - Nova Scotia Act, RSNS 1989, c 233.
@@ -300,7 +300,7 @@
 * [Intimate Partner Violence Epidemic Act](SNS-2024-c-8.md) - Nova Scotia Act, SNS 2024, c 8.
 * [Invest Nova Scotia Act](SNS-2022-c-37.md) - Nova Scotia Act, SNS 2022, c 37.
 * [Involuntary Psychiatric Treatment Act](SNS-2005-c-42.md) - Nova Scotia Act, SNS 2005, c 42.
-* [Judgment Recovery (N.S.) Ltd Act amended 2025, c. 20 *, s. 366 ( in force October 19, 2026 )](RSNS-1989-c-239.md) - Nova Scotia Act, RSNS 1989, c 239.
+* [Judgment Recovery (N.S.) Ltd Act](RSNS-1989-c-239.md) - Nova Scotia Act, RSNS 1989, c 239.
 * [Judicature Act](RSNS-1989-c-240.md) - Nova Scotia Act, RSNS 1989, c 240.
 * [Judicial Disqualifications Removal Act](RSNS-1989-c-241.md) - Nova Scotia Act, RSNS 1989, c 241.
 * [Juries Act](SNS-1998-c-16.md) - Nova Scotia Act, SNS 1998, c 16.
@@ -325,11 +325,11 @@
 * [Limitation of Actions Act (see also Real Property Limitations Act )](SNS-2014-c-35.md) - Nova Scotia Act, SNS 2014, c 35.
 * [Limited Partnerships Act](RSNS-1989-c-259.md) - Nova Scotia Act, RSNS 1989, c 259.
 * [Link Nova Scotia Act](SNS-2021-c-23.md) - Nova Scotia Act, SNS 2021, c 23.
-* [Liquor Control Act amended 2025, c. 20 *, s. 367 ( in force October 19, 2026 )](RSNS-1989-c-260.md) - Nova Scotia Act, RSNS 1989, c 260.
+* [Liquor Control Act](RSNS-1989-c-260.md) - Nova Scotia Act, RSNS 1989, c 260.
 * [Livestock Health Services Act](SNS-2001-c-8.md) - Nova Scotia Act, SNS 2001, c 8.
 * [Lobbyists' Registration Act](SNS-2001-c-34.md) - Nova Scotia Act, SNS 2001, c 34.
 * [Long Term Disability Plan Ratification Act](SNS-1992-c-6.md) - Nova Scotia Act, SNS 1992, c 6.
-* [Maintenance Enforcement Act amended 2025, c. 20 *, s. 368 ( in force October 19, 2026 )](SNS-1994-95-c-6.md) - Nova Scotia Act, SNS 1994-95, c 6.
+* [Maintenance Enforcement Act](SNS-1994-95-c-6.md) - Nova Scotia Act, SNS 1994-95, c 6.
 * [Mandatory Testing and Disclosure Act](SNS-2004-c-29.md) - Nova Scotia Act, SNS 2004, c 29.
 * [Marine Renewable-energy Act](SNS-2015-c-32.md) - Nova Scotia Act, SNS 2015, c 32.
 * [Mariners' Day Act](SNS-2013-c-6.md) - Nova Scotia Act, SNS 2013, c 6.
@@ -359,15 +359,14 @@
 * [Montreal Trust Company of Canada Act](RSNS-1989-c-290.md) - Nova Scotia Act, RSNS 1989, c 290.
 * [More Access to Energy Act](SNS-2024-c-2-Sch-B.md) - Nova Scotia Act, SNS 2024, c 2, Sch B.
 * [Mortgage Regulation Act](SNS-2012-c-11.md) - Nova Scotia Act, SNS 2012, c 11.
-* [Motor Carrier Act amended 2025, c. 20 *, ss. 369-377 ( in force October 19, 2026 )](RSNS-1989-c-292.md) - Nova Scotia Act, RSNS 1989, c 292.
-* [Motor Vehicle Act](RSNS-1989-c-293.md) - Nova Scotia Act, RSNS 1989, c 293.
+* [Motor Carrier Act](RSNS-1989-c-292.md) - Nova Scotia Act, RSNS 1989, c 292.
 * [Multiculturalism Act](RSNS-1989-c-294.md) - Nova Scotia Act, RSNS 1989, c 294.
 * [Municipal and Other Authorities Pension Plan Transfer Act](SNS-2016-c-19.md) - Nova Scotia Act, SNS 2016, c 19.
 * [Municipal Conflict of Interest Act](RSNS-1989-c-299.md) - Nova Scotia Act, RSNS 1989, c 299.
 * [Municipal Elections Act](RSNS-1989-c-300.md) - Nova Scotia Act, RSNS 1989, c 300.
 * [Municipal Finance Corporation Dissolution Act](SNS-2022-c-38.md) - Nova Scotia Act, SNS 2022, c 38.
 * [Municipal Fiscal Year Act](SNS-1990-c-19.md) - Nova Scotia Act, SNS 1990, c 19.
-* [Municipal Government Act amended 2025, c. 13 *, ss. 161-164 ( in force April 1, 2027 ) amended 2025, c. 20 *, ss. 379-382 ( in force October 19, 2026 )](SNS-1998-c-18.md) - Nova Scotia Act, SNS 1998, c 18.
+* [Municipal Government Act amended 2025, c. 13 *, ss. 161-164 ( in force April 1, 2027 )](SNS-1998-c-18.md) - Nova Scotia Act, SNS 1998, c 18.
 * [Municipal Grants Act](RSNS-1989-c-302.md) - Nova Scotia Act, RSNS 1989, c 302.
 * [Municipal Housing Corporations Act](RSNS-1989-c-304.md) - Nova Scotia Act, RSNS 1989, c 304.
 * [Municipal Loan and Building Fund Act](RSNS-1989-c-305.md) - Nova Scotia Act, RSNS 1989, c 305.
@@ -392,7 +391,7 @@
 * [Oak Island Treasure Act](SNS-2010-c-39.md) - Nova Scotia Act, SNS 2010, c 39.
 * [Occupational Health and Safety Act](SNS-1996-c-7.md) - Nova Scotia Act, SNS 1996, c 7.
 * [Occupiers' Liability Act](SNS-1996-c-27.md) - Nova Scotia Act, SNS 1996, c 27.
-* [Off-highway Vehicles Act amended 2025, c. 20 *, ss. 383-385 ( in force October 19, 2026 )](RSNS-1989-c-323.md) - Nova Scotia Act, RSNS 1989, c 323.
+* [Off-highway Vehicles Act](RSNS-1989-c-323.md) - Nova Scotia Act, RSNS 1989, c 323.
 * [Official Tree Act](RSNS-1989-c-324.md) - Nova Scotia Act, RSNS 1989, c 324.
 * [Offshore Petroleum Royalty Act](SNS-1987-c-9.md) - Nova Scotia Act, SNS 1987, c 9.
 * [Oil Refineries and L.N.G. Plants Municipal Taxation Act](SNS-2004-c-8.md) - Nova Scotia Act, SNS 2004, c 8.
@@ -453,7 +452,7 @@
 * [Protecting Access to Health Services Act](SNS-2021-c-24.md) - Nova Scotia Act, SNS 2021, c 24.
 * [Protecting Access to Reproductive Health Care Act](SNS-2020-c-5.md) - Nova Scotia Act, SNS 2020, c 5.
 * [Protection for Persons in Care Act](SNS-2004-c-23.md) - Nova Scotia Act, SNS 2004, c 23.
-* [Protection of Property Act amended 2025, c. 20 *, s. 388 ( in force October 19, 2026 )](RSNS-1989-c-363.md) - Nova Scotia Act, RSNS 1989, c 363.
+* [Protection of Property Act](RSNS-1989-c-363.md) - Nova Scotia Act, RSNS 1989, c 363.
 * [Provincial Acadian Day Act](SNS-2004-c-9.md) - Nova Scotia Act, SNS 2004, c 9.
 * [Provincial Berry Act](SNS-1995-96-c-14.md) - Nova Scotia Act, SNS 1995-96, c 14.
 * [Provincial Bird Act](SNS-1994-c-10.md) - Nova Scotia Act, SNS 1994, c 10.
@@ -465,10 +464,10 @@
 * [Provincial Horse Act](SNS-2008-c-43.md) - Nova Scotia Act, SNS 2008, c 43.
 * [Provincial Lichen Act](SNS-2022-c-40.md) - Nova Scotia Act, SNS 2022, c 40.
 * [Provincial Mineral Act](SNS-1999-2nd-Sess-c-9.md) - Nova Scotia Act, SNS 1999 (2nd Sess), c 9.
-* [Provincial Parks Act amended 2025, c. 20 *, s. 389 ( in force October 19, 2026 )](RSNS-1989-c-367.md) - Nova Scotia Act, RSNS 1989, c 367.
+* [Provincial Parks Act](RSNS-1989-c-367.md) - Nova Scotia Act, RSNS 1989, c 367.
 * [Provincial Soil Act](SNS-2008-c-9.md) - Nova Scotia Act, SNS 2008, c 9.
 * [Public Archives Act](SNS-1998-c-24.md) - Nova Scotia Act, SNS 1998, c 24.
-* [Public Highways Act amended 2025, c. 20 *, ss. 390, 391 ( in force October 19, 2026 )](RSNS-1989-c-371.md) - Nova Scotia Act, RSNS 1989, c 371.
+* [Public Highways Act](RSNS-1989-c-371.md) - Nova Scotia Act, RSNS 1989, c 371.
 * [Public Inquiries Act](RSNS-1989-c-372.md) - Nova Scotia Act, RSNS 1989, c 372.
 * [Public Interest Disclosure of Wrongdoing Act amended 2025, c. 13 *, s. 169 ( in force April 1, 2027 )](SNS-2010-c-42.md) - Nova Scotia Act, SNS 2010, c 42.
 * [Public Procurement Act](SNS-2011-c-12.md) - Nova Scotia Act, SNS 2011, c 12.
@@ -512,10 +511,10 @@
 * [Residential Tenancies Act](RSNS-1989-c-401.md) - Nova Scotia Act, RSNS 1989, c 401.
 * [Retail Business Designated Day Closing Act](SNS-2007-c-32.md) - Nova Scotia Act, SNS 2007, c 32.
 * [Retail Business Uniform Closing Day Act](RSNS-1989-c-402.md) - Nova Scotia Act, RSNS 1989, c 402.
-* [Revenue Act amended 2025, c. 20 *, ss. 392-394 ( in force October 19, 2026 )](SNS-1995-96-c-17.md) - Nova Scotia Act, SNS 1995-96, c 17.
+* [Revenue Act](SNS-1995-96-c-17.md) - Nova Scotia Act, SNS 1995-96, c 17.
 * [Richmond Port Hawkesbury Paper GP Ltd. Taxation Act](SNS-2006-c-51.md) - Nova Scotia Act, SNS 2006, c 51.
 * [Riverport Electric Light Act for Polling District No. 2, in the County of Lunenburg, The](SNS-1920-c-149.md) - Nova Scotia Act, SNS 1920, c 149.
-* [Road Trails Act amended 2025, c. 20 *, ss. 395-405 ( in force October 19, 2026 )](SNS-2023-c-4.md) - Nova Scotia Act, SNS 2023, c 4.
+* [Road Trails Act](SNS-2023-c-4.md) - Nova Scotia Act, SNS 2023, c 4.
 * [Royal Trust Corporation of Canada Act](RSNS-1989-c-404.md) - Nova Scotia Act, RSNS 1989, c 404.
 * [Rural Fire District Act](RSNS-1989-c-406.md) - Nova Scotia Act, RSNS 1989, c 406.
 * [Rural Telephone Act](RSNS-1989-c-407.md) - Nova Scotia Act, RSNS 1989, c 407.
@@ -524,7 +523,7 @@
 * [Safer Needles in Healthcare Workplaces Act](SNS-2006-c-7.md) - Nova Scotia Act, SNS 2006, c 7.
 * [Sale of Goods Act](RSNS-1989-c-408.md) - Nova Scotia Act, RSNS 1989, c 408.
 * [Sale of Land Under Execution Act](RSNS-1989-c-409.md) - Nova Scotia Act, RSNS 1989, c 409.
-* [Sales Tax Act amended 2025, c. 20 *, s. 406 ( in force October 19, 2026 )](SNS-1996-c-31.md) - Nova Scotia Act, SNS 1996, c 31.
+* [Sales Tax Act](SNS-1996-c-31.md) - Nova Scotia Act, SNS 1996, c 31.
 * [Scalers Act](SNS-2001-c-11.md) - Nova Scotia Act, SNS 2001, c 11.
 * [Scott Maritimes Limited Agreement (1965) Act](RSNS-1989-c-415.md) - Nova Scotia Act, RSNS 1989, c 415.
 * [Sea, Army, Air and Navy League Cadets Day Act](SNS-2010-c-7.md) - Nova Scotia Act, SNS 2010, c 7.
@@ -560,7 +559,7 @@
 * [Storage Warehouse Keepers Act](RSNS-1989-c-447.md) - Nova Scotia Act, RSNS 1989, c 447.
 * [Student Aid Act](RSNS-1989-c-449.md) - Nova Scotia Act, RSNS 1989, c 449.
 * [Subsurface Energy Storage Act](SNS-2001-c-37.md) - Nova Scotia Act, SNS 2001, c 37.
-* [Summary Proceedings Act amended 2025, c. 20 *, ss. 407-410 ( in force October 19, 2026 )](RSNS-1989-c-450.md) - Nova Scotia Act, RSNS 1989, c 450.
+* [Summary Proceedings Act](RSNS-1989-c-450.md) - Nova Scotia Act, RSNS 1989, c 450.
 * [Support for Fire Protection Services Act](SNS-2026-c-6.md) - Nova Scotia Act, SNS 2026, c 6.
 * [Supreme and Exchequer Courts of Canada](RSNS-1900-c-154.md) - Nova Scotia Act, RSNS 1900, c 154.
 * [Sureties Act](RSNS-1989-c-451.md) - Nova Scotia Act, RSNS 1989, c 451.
@@ -587,7 +586,8 @@
 * [Tortfeasors Act](RSNS-1989-c-471.md) - Nova Scotia Act, RSNS 1989, c 471.
 * [Tourism Nova Scotia Dissolution Act](SNS-2021-c-25.md) - Nova Scotia Act, SNS 2021, c 25.
 * [Trade Union Act](RSNS-1989-c-475.md) - Nova Scotia Act, RSNS 1989, c 475.
-* [Trails Act amended 2025, c. 20 *, s. 411 ( in force October 19, 2026 )](RSNS-1989-c-476.md) - Nova Scotia Act, RSNS 1989, c 476.
+* [Traffic Safety Act](SNS-2025-c-20.md) - Nova Scotia Act, SNS 2025, c 20.
+* [Trails Act](RSNS-1989-c-476.md) - Nova Scotia Act, RSNS 1989, c 476.
 * [Transportation Corridor Control Act](SNS-2025-c-17-Sch.md) - Nova Scotia Act, SNS 2025, c 17, Sch.
 * [Trust and Loan Companies Act](SNS-1991-c-7.md) - Nova Scotia Act, SNS 1991, c 7.
 * [Trustee Act](RSNS-1989-c-479.md) - Nova Scotia Act, RSNS 1989, c 479.
@@ -617,13 +617,13 @@
 * [Water Act](RSNS-1989-c-500.md) - Nova Scotia Act, RSNS 1989, c 500.
 * [Water Resources Protection Act](SNS-2000-c-10.md) - Nova Scotia Act, SNS 2000, c 10.
 * [Wharves and Public Landings Act](RSNS-1989-c-503.md) - Nova Scotia Act, RSNS 1989, c 503.
-* [Wilderness Areas Protection Act amended 2025, c. 20 *, s. 413 ( in force October 19, 2026 )](SNS-1998-c-27.md) - Nova Scotia Act, SNS 1998, c 27.
-* [Wildlife Act amended 2025, c. 20 *, s. 414 ( in force October 19, 2026 )](RSNS-1989-c-504.md) - Nova Scotia Act, RSNS 1989, c 504.
+* [Wilderness Areas Protection Act](SNS-1998-c-27.md) - Nova Scotia Act, SNS 1998, c 27.
+* [Wildlife Act](RSNS-1989-c-504.md) - Nova Scotia Act, RSNS 1989, c 504.
 * [William Davis Miners' Memorial Day Act](SNS-2008-c-47.md) - Nova Scotia Act, SNS 2008, c 47.
 * [Wills Act](RSNS-1989-c-505.md) - Nova Scotia Act, RSNS 1989, c 505.
 * [Wind Turbine Facilities Municipal Taxation Act](SNS-2006-c-22.md) - Nova Scotia Act, SNS 2006, c 22.
 * [Women's Institutes Act](RSNS-1989-c-506.md) - Nova Scotia Act, RSNS 1989, c 506.
 * [Woodmen's Lien Act](RSNS-1989-c-507.md) - Nova Scotia Act, RSNS 1989, c 507.
-* [Workers' Compensation Act amended 2025, c. 20 *, s. 415 ( in force October 19, 2026 )](SNS-1994-95-c-10.md) - Nova Scotia Act, SNS 1994-95, c 10.
-* [Youth Justice Act amended 2025, c. 20 *, ss. 416, 417 ( in force October 19, 2026 )](SNS-2001-c-38.md) - Nova Scotia Act, SNS 2001, c 38.
+* [Workers' Compensation Act](SNS-1994-95-c-10.md) - Nova Scotia Act, SNS 1994-95, c 10.
+* [Youth Justice Act](SNS-2001-c-38.md) - Nova Scotia Act, SNS 2001, c 38.
 * [Youth Secretariat Act](RSNS-1989-c-511.md) - Nova Scotia Act, RSNS 1989, c 511.

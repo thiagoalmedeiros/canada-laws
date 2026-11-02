@@ -2,7 +2,6 @@
 
 * [1226 Cole Harbour Road Special Planning Area Order](NS-Reg-153-2024.md) - Nova Scotia regulation, NS Reg 153/2024.
 * [Abraham Lake Nature Reserve](NS-Reg-141-2006.md) - Nova Scotia regulation, NS Reg 141/2006.
-* [Acadian Flag Number Plates Regulations](NS-Reg-325-2011.md) - Nova Scotia regulation, NS Reg 325/2011.
 * [Accessibility Act General Regulations](NS-Reg-197-2019.md) - Nova Scotia regulation, NS Reg 197/2019.
 * [Activities Designation Regulations](NS-Reg-47-1995.md) - Nova Scotia regulation, NS Reg 47/1995.
 * [Additions to Schedule to Mi'kmaq Education Act](NS-Reg-137-2014.md) - Nova Scotia regulation, NS Reg 137/2014.
@@ -17,15 +16,12 @@
 * [Advisory Committee Regulations](NS-Reg-247-2023.md) - Nova Scotia regulation, NS Reg 247/2023.
 * [Advisory Council on the Status of Women Regulations](NS-Reg-177-2003.md) - Nova Scotia regulation, NS Reg 177/2003.
 * [Agreements of the Nova Scotia Agricultural College Regulations](NS-Reg-48-94.md) - Nova Scotia regulation, NS Reg 48/94.
-* [Agricultural Equipment Registration Exemption and Number Plates Regulations](NS-Reg-47-73.md) - Nova Scotia regulation, NS Reg 47/73.
 * [Agricultural Equipment Technician Trade Regulations](NS-Reg-202-2016.md) - Nova Scotia regulation, NS Reg 202/2016.
 * [Agricultural Weed Control Regulations](NS-Reg-211-2026.md) - Nova Scotia regulation, NS Reg 211/2026.
 * [Agriculture Appeal and Review Board Regulations](NS-Reg-65-2026.md) - Nova Scotia regulation, NS Reg 65/2026.
 * [Ainslie Point Provincial Park](NS-Reg-37-2024.md) - Nova Scotia regulation, NS Reg 37/2024.
 * [Air Quality Regulations](NS-Reg-28-2005.md) - Nova Scotia regulation, NS Reg 28/2005.
 * [Alarm and Security Technician Trade Regulations](NS-Reg-203-2016.md) - Nova Scotia regulation, NS Reg 203/2016.
-* [Alcohol Ignition Interlock Program Regulations](NS-Reg-298-2008.md) - Nova Scotia regulation, NS Reg 298/2008.
-* [Alcohol Rehabilitation Programs Regulations](NS-Reg-99-2001.md) - Nova Scotia regulation, NS Reg 99/2001.
 * [Alder Ground Wilderness Area Designation of Additional Lands](NS-Reg-258-2015.md) - Nova Scotia regulation, NS Reg 258/2015.
 * [Ambulance Fee Regulations](NS-Reg-133-2002.md) - Nova Scotia regulation, NS Reg 133/2002.
 * [Amherst Shore Provincial Park](NS-Reg-144-2000.md) - Nova Scotia regulation, NS Reg 144/2000.
@@ -91,7 +87,6 @@
 * [Bear Head L.N.G. Plant Municipal Property Taxation Regulations](NS-Reg-209-2004.md) - Nova Scotia regulation, NS Reg 209/2004.
 * [Beatty Marsh Beach](NS-Reg-17-77.md) - Nova Scotia regulation, NS Reg 17/77.
 * [Beaver Mountain Provincial Park](NS-Reg-118-72.md) - Nova Scotia regulation, NS Reg 118/72.
-* [Bedford By-pass and Highway 101](NS-Reg-44-78.md) - Nova Scotia regulation, NS Reg 44/78.
 * [Bedford West 1 and 12 Special Planning Area Municipal Planning Strategy and Land Use By-law Amendment Order](NS-Reg-126-2023.md) - Nova Scotia regulation, NS Reg 126/2023.
 * [Bedford West 1 and 12 Special Planning Area Order](NS-Reg-55-2022.md) - Nova Scotia regulation, NS Reg 55/2022.
 * [Bedford West 10 Special Planning Area Municipal Planning Strategy and Land Use By-law Amendment Order](NS-Reg-203-2023.md) - Nova Scotia regulation, NS Reg 203/2023.
@@ -121,7 +116,6 @@
 * [Blaster Trade Regulations](NS-Reg-205-2016.md) - Nova Scotia regulation, NS Reg 205/2016.
 * [Blasting Safety Regulations](NS-Reg-89-2008.md) - Nova Scotia regulation, NS Reg 89/2008.
 * [Blomidon Provincial Park](NS-Reg-122-74.md) - Nova Scotia regulation, NS Reg 122/74.
-* [Blood Drug Concentration Regulations](NS-Reg-230-2018.md) - Nova Scotia regulation, NS Reg 230/2018.
 * [Blue Mountain-Birch Cove Lakes Wilderness Area Designation](NS-Reg-201-2009.md) - Nova Scotia regulation, NS Reg 201/2009.
 * [Blue Sea Beach Provincial Park](NS-Reg-237-2025.md) - Nova Scotia regulation, NS Reg 237/2025.
 * [Board Electricity Retailers Regulations (Nova Scotia)](NS-Reg-180-2025.md) - Nova Scotia regulation, NS Reg 180/2025.
@@ -150,7 +144,6 @@
 * [Bulk Haulage Regulations](NS-Reg-23-2003.md) - Nova Scotia regulation, NS Reg 23/2003.
 * [Business Development Incentives Regulations](NS-Reg-321-2015.md) - Nova Scotia regulation, NS Reg 321/2015.
 * [Business Registry Regulations](NS-Reg-14-2000.md) - Nova Scotia regulation, NS Reg 14/2000.
-* [Buy Local Number Plates Regulations](NS-Reg-292-2013.md) - Nova Scotia regulation, NS Reg 292/2013.
 * [By-laws of the Association of Professional Engineers](NS-Reg-8-1946.md) - Nova Scotia regulation, NS Reg 8/1946.
 * [Cabot's Landing Provincial Park](NS-Reg-123-74.md) - Nova Scotia regulation, NS Reg 123/74.
 * [Cady Lake - Designation](NS-Reg-251-2007.md) - Nova Scotia regulation, NS Reg 251/2007.
@@ -182,7 +175,6 @@
 * [Carleton River Wilderness Area Designation](NS-Reg-41-2017.md) - Nova Scotia regulation, NS Reg 41/2017.
 * [Carnival and Charitable Gaming Regulations](NS-Reg-39-95.md) - Nova Scotia regulation, NS Reg 39/95.
 * [Carpenter Trade Regulations](NS-Reg-207-2016.md) - Nova Scotia regulation, NS Reg 207/2016.
-* [Carriage of Freight by Vehicle Regulations](NS-Reg-24-95.md) - Nova Scotia regulation, NS Reg 24/95.
 * [Carters Beach Provincial Park](NS-Reg-211-2023.md) - Nova Scotia regulation, NS Reg 211/2023.
 * [Carters Beach](NS-Reg-88-84.md) - Nova Scotia regulation, NS Reg 88/84.
 * [Casino Regulations](NS-Reg-40-1995.md) - Nova Scotia regulation, NS Reg 40/1995.
@@ -223,9 +215,6 @@
 * [Civil Procedure Rules, Rule 81: Reciprocal Enforcement](NS-Reg-370-2008.md) - Nova Scotia regulation, NS Reg 370/2008.
 * [Clairmont Provincial Park](NS-Reg-121-72.md) - Nova Scotia regulation, NS Reg 121/72.
 * [Clam Harbour Provincial Park](NS-Reg-81-80.md) - Nova Scotia regulation, NS Reg 81/80.
-* [Classes of Vehicles to be Inspected at Official Testing Stations Regulations](NS-Reg-206-2009.md) - Nova Scotia regulation, NS Reg 206/2009.
-* [Classification of Ambulances Regulations](NS-Reg-225-90.md) - Nova Scotia regulation, NS Reg 225/90.
-* [Classification of Drivers' Licenses Regulations](NS-Reg-174-1982.md) - Nova Scotia regulation, NS Reg 174/1982.
 * [Cleveland Beach Provincial Park](NS-Reg-203-78.md) - Nova Scotia regulation, NS Reg 203/78.
 * [Cloud Lake Wilderness Area Designation of Additional Lands](NS-Reg-256-2015.md) - Nova Scotia regulation, NS Reg 256/2015.
 * [Co-operative Associations Regulations](NS-Reg-155-78.md) - Nova Scotia regulation, NS Reg 155/78.
@@ -238,14 +227,8 @@
 * [Colindale Beach](NS-Reg-151-76.md) - Nova Scotia regulation, NS Reg 151/76.
 * [Collection and Debt Management Agencies Regulations](NS-Reg-5-2021.md) - Nova Scotia regulation, NS Reg 5/2021.
 * [Combat Sports Authority Regulations](NS-Reg-51-2023.md) - Nova Scotia regulation, NS Reg 51/2023.
-* [Commercial Carrier Safety Fitness Rating and Compliance Regulations](NS-Reg-84-2005.md) - Nova Scotia regulation, NS Reg 84/2005.
 * [Commercial Flea Markets Regulations](NS-Reg-107-2005.md) - Nova Scotia regulation, NS Reg 107/2005.
-* [Commercial Vehicle Drivers' Hours of Service Regulations](NS-Reg-330-2022.md) - Nova Scotia regulation, NS Reg 330/2022.
-* [Commercial Vehicle Maintenance Standards](NS-Reg-296-90.md) - Nova Scotia regulation, NS Reg 296/90.
-* [Commercial Vehicle Permit and Registration Regulations](NS-Reg-111-87.md) - Nova Scotia regulation, NS Reg 111/87.
 * [Commercial Vehicle Salvage Facilities Standard Adoption Regulations](NS-Reg-225-2018.md) - Nova Scotia regulation, NS Reg 225/2018.
-* [Commercial Vehicle Transfer of Registration Regulations](NS-Reg-191-86.md) - Nova Scotia regulation, NS Reg 191/86.
-* [Commercial Vehicle Trip Inspection Regulations](NS-Reg-26-2018.md) - Nova Scotia regulation, NS Reg 26/2018.
 * [Commodity Group Confirmation of Designations and Levies Order](NS-Reg-77-98.md) - Nova Scotia regulation, NS Reg 77/98.
 * [Commodity Group Designation and Levy Order - Horticulture Nova Scotia](NS-Reg-61-98.md) - Nova Scotia regulation, NS Reg 61/98.
 * [Commodity Group Levy Order - Wild Blueberry Producers Association of Nova Scotia](NS-Reg-189-2014.md) - Nova Scotia regulation, NS Reg 189/2014.
@@ -262,7 +245,6 @@
 * [Confidentiality Regulations](NS-Reg-199-2005.md) - Nova Scotia regulation, NS Reg 199/2005.
 * [Conrod's Beach and Lawrencetown Beach](NS-Reg-144-76.md) - Nova Scotia regulation, NS Reg 144/76.
 * [Conseil scolaire Rules](NS-Reg-148-2026.md) - Nova Scotia regulation, NS Reg 148/2026.
-* [Conservation Number Plates Regulations](NS-Reg-54-2003.md) - Nova Scotia regulation, NS Reg 54/2003.
 * [Construction and Property Maintenance](NS-Reg-202-2003.md) - Nova Scotia regulation, NS Reg 202/2003.
 * [Construction Electrician Trade Regulations](NS-Reg-188-2016.md) - Nova Scotia regulation, NS Reg 188/2016.
 * [Consumer Creditors' Conduct Regulations](NS-Reg-6-2021.md) - Nova Scotia regulation, NS Reg 6/2021.
@@ -321,7 +303,6 @@
 * [Dartmouth Imperial Oil Refinery Municipal Property Taxation Regulations](NS-Reg-191-2004.md) - Nova Scotia regulation, NS Reg 191/2004.
 * [Davidson Lake Watershed Protected Water Area Designation](NS-Reg-74-2017.md) - Nova Scotia regulation, NS Reg 74/2017.
 * [Davidson Lake Watershed Protected Water Area Regulations](NS-Reg-74A-2017.md) - Nova Scotia regulation, NS Reg 74A/2017.
-* [Dealers' Licenses Regulations](NS-Reg-11-95.md) - Nova Scotia regulation, NS Reg 11/95.
 * [Death Review Committee Regulations](NS-Reg-138-2021.md) - Nova Scotia regulation, NS Reg 138/2021.
 * [Debert Archaeological Resource Impact Assessment Regulations](NS-Reg-129-2008.md) - Nova Scotia regulation, NS Reg 129/2008.
 * [Declaration of Limestone Deposits as a Mineral in the Marble Mtn. Area](NS-Reg-170-1993.md) - Nova Scotia regulation, NS Reg 170/1993.
@@ -379,7 +360,6 @@
 * [Designation of Mutual Insurance Companies Regulations](NS-Reg-345-2008.md) - Nova Scotia regulation, NS Reg 345/2008.
 * [Designation of Non-Profit Organizations Regulations](NS-Reg-158-2005.md) - Nova Scotia regulation, NS Reg 158/2005.
 * [Designation of Statistical Agency](NS-Reg-259-2008.md) - Nova Scotia regulation, NS Reg 259/2008.
-* [Designation of Temporary Work Areas Regulations](NS-Reg-285-2008.md) - Nova Scotia regulation, NS Reg 285/2008.
 * [Designation of the Nova Scotia College of Art and Design](NS-Reg-152-2005.md) - Nova Scotia regulation, NS Reg 152/2005.
 * [Designations of Correctional Facilities](NS-Reg-2-2012.md) - Nova Scotia regulation, NS Reg 2/2012.
 * [Designations of Courts and Facilities](NS-Reg-92-2003.md) - Nova Scotia regulation, NS Reg 92/2003.
@@ -402,12 +382,10 @@
 * [Disclosure Statements Regulations](NS-Reg-154-2011.md) - Nova Scotia regulation, NS Reg 154/2011.
 * [Dismantling Racism and Hate Act General Regulations](NS-Reg-130-2024.md) - Nova Scotia regulation, NS Reg 130/2024.
 * [Dispensing Opticians Regulations](NS-Reg-361-2007.md) - Nova Scotia regulation, NS Reg 361/2007.
-* [Display of Handicapped Persons' Vehicle Identification Permits Regulations](NS-Reg-70-80.md) - Nova Scotia regulation, NS Reg 70/80.
 * [Dissolution of the Village of Havre Boucher](NS-Reg-159-2021.md) - Nova Scotia regulation, NS Reg 159/2021.
 * [Distributor Licensing Regulations](NS-Reg-320-2011.md) - Nova Scotia regulation, NS Reg 320/2011.
 * [Dochertys Brook Nature Reserve](NS-Reg-431-2015.md) - Nova Scotia regulation, NS Reg 431/2015.
 * [Document Submission Regulations](NS-Reg-185-2007.md) - Nova Scotia regulation, NS Reg 185/2007.
-* [Documents and Services Fees](NS-Reg-126-2015.md) - Nova Scotia regulation, NS Reg 126/2015.
 * [Dog Hunting and Training Regulations](NS-Reg-209-87.md) - Nova Scotia regulation, NS Reg 209/87.
 * [Dollar Lake Provincial Park](NS-Reg-24-1981.md) - Nova Scotia regulation, NS Reg 24/1981.
 * [Domestic Violence Intervention Regulations](NS-Reg-75-2003.md) - Nova Scotia regulation, NS Reg 75/2003.
@@ -415,7 +393,6 @@
 * [Dominion Beach](NS-Reg-134-76.md) - Nova Scotia regulation, NS Reg 134/76.
 * [Douglas Meadow Brook Wilderness Area Designation](NS-Reg-234-2023.md) - Nova Scotia regulation, NS Reg 234/2023.
 * [Dressed and Eviscerated Poultry Regulations](NS-Reg-96-79.md) - Nova Scotia regulation, NS Reg 96/79.
-* [Driver Training Schools Regulations](NS-Reg-212-2004.md) - Nova Scotia regulation, NS Reg 212/2004.
 * [Drug Brook Nature Reserve](NS-Reg-210-2014.md) - Nova Scotia regulation, NS Reg 210/2014.
 * [Drug Information System Prescription Monitoring Regulations](NS-Reg-216-2013.md) - Nova Scotia regulation, NS Reg 216/2013.
 * [Drug Plan Regulations](NS-Reg-222-2011.md) - Nova Scotia regulation, NS Reg 222/2011.
@@ -465,22 +442,13 @@
 * [Environmental Assessment Regulations](NS-Reg-26-1995.md) - Nova Scotia regulation, NS Reg 26/1995.
 * [Environmental Assessment Review Panel Regulations](NS-Reg-19-2013.md) - Nova Scotia regulation, NS Reg 19/2013.
 * [Environmental Emergency Regulations](NS-Reg-16-2013.md) - Nova Scotia regulation, NS Reg 16/2013.
-* [Equipment Approval Regulations](NS-Reg-45-73.md) - Nova Scotia regulation, NS Reg 45/73.
 * [Equity Tax Credit Regulations](NS-Reg-18-94.md) - Nova Scotia regulation, NS Reg 18/94.
-* [Establishment of Registration Year (CAVR) Regulations](NS-Reg-63-97.md) - Nova Scotia regulation, NS Reg 63/97.
 * [Exceptions to Prohibitions on Non-essential Pesticides Regulations](NS-Reg-184-2010.md) - Nova Scotia regulation, NS Reg 184/2010.
 * [Excluded Class of Municipality Regulations](NS-Reg-52-2024.md) - Nova Scotia regulation, NS Reg 52/2024.
 * [Exemption from Disclosure of Compensation Regulations](NS-Reg-229-2015.md) - Nova Scotia regulation, NS Reg 229/2015.
-* [Exemption from Examination and Licensing Regulations](NS-Reg-145-2010.md) - Nova Scotia regulation, NS Reg 145/2010.
-* [Exemption from Registration of Certain Vehicles of the Department of Transportation and Infrastructure Renewal Regulations](NS-Reg-82-76.md) - Nova Scotia regulation, NS Reg 82/76.
-* [Exemption from Registration of Department of National Defence Vehicles Regulations](NS-Reg-40-68.md) - Nova Scotia regulation, NS Reg 40/68.
-* [Exemption from Registration of Motor Vehicles Operating on the Islands of Ironbound, Pictou, Big and Little Tancook Regulations](NS-Reg-36-66.md) - Nova Scotia regulation, NS Reg 36/66.
-* [Exemption from Registration of Vehicles for Autoport Limited Regulations](NS-Reg-70-2021.md) - Nova Scotia regulation, NS Reg 70/2021.
-* [Expiry Date of Licenses Regulations](NS-Reg-92-96.md) - Nova Scotia regulation, NS Reg 92/96.
 * [Expropriation Procedures Regulations](NS-Reg-103-74.md) - Nova Scotia regulation, NS Reg 103/74.
 * [Expropriation Rules](NS-Reg-291-1992.md) - Nova Scotia regulation, NS Reg 291/1992.
 * [Extended Producer Responsibility for Packaging, Paper Products and Packaging-Like Products Regulations](NS-Reg-139-2023.md) - Nova Scotia regulation, NS Reg 139/2023.
-* [Extension of Certificates, Licenses and Permits Regulations](NS-Reg-93-2008.md) - Nova Scotia regulation, NS Reg 93/2008.
 * [Extinguishment of Public Highways Procedure Regulations](NS-Reg-43-2010.md) - Nova Scotia regulation, NS Reg 43/2010.
 * [Fair Drug Pricing Regulations](NS-Reg-223-2011.md) - Nova Scotia regulation, NS Reg 223/2011.
 * [Fall River Childcare Facility Area Order](NS-Reg-55-2026.md) - Nova Scotia regulation, NS Reg 55/2026.
@@ -556,7 +524,6 @@
 * [Fur Industry Regulations](NS-Reg-4-2013.md) - Nova Scotia regulation, NS Reg 4/2013.
 * [Gabarus Beach](NS-Reg-153-76.md) - Nova Scotia regulation, NS Reg 153/76.
 * [Gabarus Wilderness Area Designation of Additional Lands](NS-Reg-402-2015.md) - Nova Scotia regulation, NS Reg 402/2015.
-* [Gaelic Symbol Number Plates Regulations](NS-Reg-85-2018.md) - Nova Scotia regulation, NS Reg 85/2018.
 * [Game Farming Regulations](NS-Reg-147-1996.md) - Nova Scotia regulation, NS Reg 147/1996.
 * [Gas Distribution Regulations (Nova Scotia)](NS-Reg-86-98.md) - Nova Scotia regulation, NS Reg 86/98.
 * [Gas Plant Facility Regulations](NS-Reg-22-2000.md) - Nova Scotia regulation, NS Reg 22/2000.
@@ -604,7 +571,6 @@
 * [Halifax-Dartmouth Bridge Commission Bylaw No. 2007-1](NS-Reg-302-2009.md) - Nova Scotia regulation, NS Reg 302/2009.
 * [Halifax-Dartmouth Bridges Regulations](NS-Reg-116-2026.md) - Nova Scotia regulation, NS Reg 116/2026.
 * [Hampton Beach](NS-Reg-28-80.md) - Nova Scotia regulation, NS Reg 28/80.
-* [Handicapped Parking - Reciprocating States:](NS-Reg-61-88.md) - Nova Scotia regulation, NS Reg 61/88.
 * [Harpers Lake Nature Reserve](NS-Reg-225-2023.md) - Nova Scotia regulation, NS Reg 225/2023.
 * [Harrington Beach](NS-Reg-178-78.md) - Nova Scotia regulation, NS Reg 178/78.
 * [Harrison Woods Nature Reserve](NS-Reg-433-2015.md) - Nova Scotia regulation, NS Reg 433/2015.
@@ -614,7 +580,6 @@
 * [Hawk Beach](NS-Reg-154-76.md) - Nova Scotia regulation, NS Reg 154/76.
 * [Health Authorities Act General Regulations](NS-Reg-16-2015.md) - Nova Scotia regulation, NS Reg 16/2015.
 * [Health Authorities Ministerial Regulations](NS-Reg-64-2015.md) - Nova Scotia regulation, NS Reg 64/2015.
-* [Health Authority Parking Lots Pilot Project Regulations](NS-Reg-129-2025.md) - Nova Scotia regulation, NS Reg 129/2025.
 * [Health Hazards Regulations](NS-Reg-198-2005.md) - Nova Scotia regulation, NS Reg 198/2005.
 * [Health Services for Foreign Workers, International Students and Armed Forces Families Regulations](NS-Reg-80-2023.md) - Nova Scotia regulation, NS Reg 80/2023.
 * [Health Services Tax Suspension Regulations](NS-Reg-34-1997.md) - Nova Scotia regulation, NS Reg 34/1997.
@@ -623,20 +588,17 @@
 * [Hebb, Milipsigate and Minamkeak Lake Watershed Protected Water Area Designation](NS-Reg-112-2006.md) - Nova Scotia regulation, NS Reg 112/2006.
 * [Hebb, Milipsigate and Minamkeak Lake Watershed Protected Water Area Regulations](NS-Reg-113-2006.md) - Nova Scotia regulation, NS Reg 113/2006.
 * [Hectanooga Cedar Swamp Nature Reserve](NS-Reg-160-2019.md) - Nova Scotia regulation, NS Reg 160/2019.
-* [Helmet Regulations](NS-Reg-99-2003.md) - Nova Scotia regulation, NS Reg 99/2003.
 * [Heritage Conservation Districts Regulations](NS-Reg-138-92.md) - Nova Scotia regulation, NS Reg 138/92.
 * [Heritage Property Act Forms](NS-Reg-30-83.md) - Nova Scotia regulation, NS Reg 30/83.
 * [Herring Cove Provincial Park](NS-Reg-40-2024.md) - Nova Scotia regulation, NS Reg 40/2024.
 * [Highway 102 West Corridor Special Planning Area Order](NS-Reg-101-2025.md) - Nova Scotia regulation, NS Reg 101/2025.
 * [Highway 104 Western Alignment Regulations](NS-Reg-91-1996.md) - Nova Scotia regulation, NS Reg 91/1996.
-* [Highway Racing Definitions Regulations](NS-Reg-284-2008.md) - Nova Scotia regulation, NS Reg 284/2008.
 * [Hirtle's Beach](NS-Reg-155-75.md) - Nova Scotia regulation, NS Reg 155/75.
 * [Hog Carcass Grading Regulations](NS-Reg-5-67.md) - Nova Scotia regulation, NS Reg 5/67.
 * [Holden Lake Wilderness Area Designation](NS-Reg-155-2019.md) - Nova Scotia regulation, NS Reg 155/2019.
 * [Home Ownership Savings Plan Tax Credit Regulations](NS-Reg-117-90.md) - Nova Scotia regulation, NS Reg 117/90.
 * [Homemakers' Services Regulations](NS-Reg-23-1982.md) - Nova Scotia regulation, NS Reg 23/1982.
 * [Homes for Special Care Regulations](NS-Reg-127-1977.md) - Nova Scotia regulation, NS Reg 127/1977.
-* [Honorary Consul Number Plates Regulations](NS-Reg-117-2020.md) - Nova Scotia regulation, NS Reg 117/2020.
 * [Honouring Canadian Armed Forces Members Regulations](NS-Reg-249-2025.md) - Nova Scotia regulation, NS Reg 249/2025.
 * [Hospital Insurance Regulations](NS-Reg-11-1958.md) - Nova Scotia regulation, NS Reg 11/1958.
 * [Hospitals Regulations](NS-Reg-53-2015.md) - Nova Scotia regulation, NS Reg 53/2015.
@@ -645,8 +607,6 @@
 * [Human Rights Board of Inquiry Monetary Orders for Compensation Regulations](NS-Reg-98-98.md) - Nova Scotia regulation, NS Reg 98/98.
 * [Humes River Wilderness Area Designation](NS-Reg-215-2014.md) - Nova Scotia regulation, NS Reg 215/2014.
 * [Hunter Education, Safety, and Training Regulations](NS-Reg-208-87.md) - Nova Scotia regulation, NS Reg 208/87.
-* [Identification and Proof of Registration Regulations](NS-Reg-42-74.md) - Nova Scotia regulation, NS Reg 42/74.
-* [Identification Permits for Vehicles Transporting Mobility Handicapped Persons Regulations](NS-Reg-237-1986.md) - Nova Scotia regulation, NS Reg 237/1986.
 * [Imitation Dairy Products Regulations](NS-Reg-32-69.md) - Nova Scotia regulation, NS Reg 32/69.
 * [Importing Alcoholic Beverages for Personal Use Regulations](NS-Reg-125-2025.md) - Nova Scotia regulation, NS Reg 125/2025.
 * [Indian Fields Provincial Park](NS-Reg-438-2015.md) - Nova Scotia regulation, NS Reg 438/2015.
@@ -667,7 +627,6 @@
 * [Insurance Agents Licensing Regulations](NS-Reg-81-93.md) - Nova Scotia regulation, NS Reg 81/93.
 * [Intercountry Adoption Regulations](NS-Reg-118-99.md) - Nova Scotia regulation, NS Reg 118/99.
 * [Interest Rate Paid by Minister of Finance and Treasury Board Regulations](NS-Reg-73-2012.md) - Nova Scotia regulation, NS Reg 73/2012.
-* [Interim Recognition of Canadian Jurisdiction Vehicle Registration Regulations](NS-Reg-109-2025.md) - Nova Scotia regulation, NS Reg 109/2025.
 * [Interim Residential Rental Increase Cap Regulations](NS-Reg-79-2023.md) - Nova Scotia regulation, NS Reg 79/2023.
 * [Interior Designers Regulations](NS-Reg-215-2004.md) - Nova Scotia regulation, NS Reg 215/2004.
 * [Interjurisdictional Support Orders Regulations](NS-Reg-73-2003.md) - Nova Scotia regulation, NS Reg 73/2003.
@@ -701,7 +660,6 @@
 * [Joint Notice Extending the Prohibition Period for Certain Activities on Georges Bank](NS-Reg-77-2022.md) - Nova Scotia regulation, NS Reg 77/2022.
 * [Joint Stock Companies Electronic Filing Regulations](NS-Reg-128-96.md) - Nova Scotia regulation, NS Reg 128/96.
 * [Judds Pool Provincial Park](NS-Reg-50-83.md) - Nova Scotia regulation, NS Reg 50/83.
-* [Judgments - Reciprocating States:](NS-Reg-26-62.md) - Nova Scotia regulation, NS Reg 26/62.
 * [Juries Regulations](NS-Reg-126-2000.md) - Nova Scotia regulation, NS Reg 126/2000.
 * [Justices of the Peace Regulations](NS-Reg-51-2002.md) - Nova Scotia regulation, NS Reg 51/2002.
 * [Katewe'katik Designation](NS-Reg-151-2020.md) - Nova Scotia regulation, NS Reg 151/2020.
@@ -830,7 +788,6 @@
 * [McNabs and Lawlor Islands Provincial Park](NS-Reg-137-2002.md) - Nova Scotia regulation, NS Reg 137/2002.
 * [Meat Inspection Regulations](NS-Reg-46-1990.md) - Nova Scotia regulation, NS Reg 46/1990.
 * [Medal of Bravery Regulations](NS-Reg-397-2008.md) - Nova Scotia regulation, NS Reg 397/2008.
-* [Median Crossing Regulations](NS-Reg-233-2009.md) - Nova Scotia regulation, NS Reg 233/2009.
 * [Medical Act Regulations](NS-Reg-225-2014.md) - Nova Scotia regulation, NS Reg 225/2014.
 * [Medical Certificate of Death Regulations](NS-Reg-7-2013.md) - Nova Scotia regulation, NS Reg 7/2013.
 * [Medical Imaging and Radiation Therapy Professionals Regulations](NS-Reg-115-2020.md) - Nova Scotia regulation, NS Reg 115/2020.
@@ -845,7 +802,6 @@
 * [Merigomish Beach](NS-Reg-136-76.md) - Nova Scotia regulation, NS Reg 136/76.
 * [Merigomish Harbour Provincial Park](NS-Reg-47-2024.md) - Nova Scotia regulation, NS Reg 47/2024.
 * [Metal Fabricator (Fitter) Trade Regulations](NS-Reg-224-2016.md) - Nova Scotia regulation, NS Reg 224/2016.
-* [Mi'kmaq Number Plates Regulations](NS-Reg-98-2018.md) - Nova Scotia regulation, NS Reg 98/2018.
 * [Mickey Hill Provincial Park](NS-Reg-243-2025.md) - Nova Scotia regulation, NS Reg 243/2025.
 * [Middle Harbour Beach](NS-Reg-254-92.md) - Nova Scotia regulation, NS Reg 254/92.
 * [Middle River Framboise Wilderness Area Designation of Additional Lands](NS-Reg-273-2022.md) - Nova Scotia regulation, NS Reg 273/2022.
@@ -881,12 +837,8 @@
 * [Mortgage Regulation Act General Regulations](NS-Reg-113-2020.md) - Nova Scotia regulation, NS Reg 113/2020.
 * [Motive Fuel and Fuel Oil Approval Regulations](NS-Reg-21-96.md) - Nova Scotia regulation, NS Reg 21/96.
 * [Motor Carrier Fees Regulations](NS-Reg-153-2002.md) - Nova Scotia regulation, NS Reg 153/2002.
-* [Motor Vehicle Appeal Board Procedures Regulations](NS-Reg-181-2012.md) - Nova Scotia regulation, NS Reg 181/2012.
-* [Motor-Driven Cycle and Motorcycle Lighting Equipment Exemptions](NS-Reg-66-74.md) - Nova Scotia regulation, NS Reg 66/74.
-* [Motor-driven Cycles Regulations](NS-Reg-63-74.md) - Nova Scotia regulation, NS Reg 63/74.
 * [Mount William Provincial Park](NS-Reg-244-2025.md) - Nova Scotia regulation, NS Reg 244/2025.
 * [Mulgrave Hills Nature Reserve](NS-Reg-228-2023.md) - Nova Scotia regulation, NS Reg 228/2023.
-* [Multi-Classification Vehicles Regulations](NS-Reg-41-66.md) - Nova Scotia regulation, NS Reg 41/66.
 * [Municipal Assistance Regulations](NS-Reg-76-1981.md) - Nova Scotia regulation, NS Reg 76/1981.
 * [Municipal Corrections Contribution Regulations](NS-Reg-71-2024.md) - Nova Scotia regulation, NS Reg 71/2024.
 * [Municipal Elections Act Forms](NS-Reg-84-1997.md) - Nova Scotia regulation, NS Reg 84/1997.
@@ -903,12 +855,10 @@
 * [New Harbour Provincial Park](NS-Reg-38-2024.md) - Nova Scotia regulation, NS Reg 38/2024.
 * [New Small Business Regulations](NS-Reg-87-2002.md) - Nova Scotia regulation, NS Reg 87/2002.
 * [NewPage Port Hawkesbury Pension Plans Regulations](NS-Reg-134-2012.md) - Nova Scotia regulation, NS Reg 134/2012.
-* [Nighttime Driving Exemption Regulations](NS-Reg-100-99.md) - Nova Scotia regulation, NS Reg 100/99.
 * [Nine Mile Woods Wilderness Area Designation](NS-Reg-236-2023.md) - Nova Scotia regulation, NS Reg 236/2023.
 * [Non-Agricultural Use Land Exemption Regulations](NS-Reg-31-2003.md) - Nova Scotia regulation, NS Reg 31/2003.
 * [Non-Owned Automobile Insurance Liability Regulations](NS-Reg-186-2013.md) - Nova Scotia regulation, NS Reg 186/2013.
 * [Non-resident Deed Transfer Tax Regulations](NS-Reg-185-2026.md) - Nova Scotia regulation, NS Reg 185/2026.
-* [Non-Resident Registration Regulations](NS-Reg-72-74.md) - Nova Scotia regulation, NS Reg 72/74.
 * [Noonan's Beach](NS-Reg-149-76.md) - Nova Scotia regulation, NS Reg 149/76.
 * [North Bay Ingonish Beach](NS-Reg-143-76.md) - Nova Scotia regulation, NS Reg 143/76.
 * [North Harbour Beach](NS-Reg-256-92.md) - Nova Scotia regulation, NS Reg 256/92.
@@ -938,17 +888,12 @@
 * [Nova Scotia Student Aid Appeal Committee Regulations](NS-Reg-113-76.md) - Nova Scotia regulation, NS Reg 113/76.
 * [Nova Scotia Teachers' Early Retirement Program (1994-98) Regulations](NS-Reg-115-94.md) - Nova Scotia regulation, NS Reg 115/94.
 * [Nova Scotia Wine Standards Regulations](NS-Reg-170-2010.md) - Nova Scotia regulation, NS Reg 170/2010.
+* [Noxious Weeds Regulations](NS-Reg-215-2026.md) - Nova Scotia regulation, NS Reg 215/2026.
 * [Number of Councillors Order for the Town of Bridgewater](NS-Reg-63-2023.md) - Nova Scotia regulation, NS Reg 63/2023.
 * [Number of Councillors Order for the Town of Middleton](NS-Reg-48-2023.md) - Nova Scotia regulation, NS Reg 48/2023.
 * [Number of Councillors Order for the Town of Westville](NS-Reg-64-2023.md) - Nova Scotia regulation, NS Reg 64/2023.
 * [Number of Councillors Order: Town of Mahone Bay](NS-Reg-84-2023.md) - Nova Scotia regulation, NS Reg 84/2023.
 * [Number of Councillors Order: Town of Wolfville](NS-Reg-85-2023.md) - Nova Scotia regulation, NS Reg 85/2023.
-* [Number Plates for Commercial Vehicles Registered under the International Registration Plan Regulations](NS-Reg-194-2004.md) - Nova Scotia regulation, NS Reg 194/2004.
-* [Number Plates for Farmers and Fishermen Regulations](NS-Reg-203-2012.md) - Nova Scotia regulation, NS Reg 203/2012.
-* [Number Plates for Firefighters Regulations](NS-Reg-49-91.md) - Nova Scotia regulation, NS Reg 49/91.
-* [Number Plates for Licensed Radio Amateurs Regulations](NS-Reg-21-59.md) - Nova Scotia regulation, NS Reg 21/59.
-* [Number Plates for Semi-trailers Registered with a Permanent Identification Regulations](NS-Reg-40-93.md) - Nova Scotia regulation, NS Reg 40/93.
-* [Number Plates Regulations](NS-Reg-173-95.md) - Nova Scotia regulation, NS Reg 173/95.
 * [Nursing and Midwifery Regulations](NS-Reg-155-2026.md) - Nova Scotia regulation, NS Reg 155/2026.
 * [Oakfield Provincial Park](NS-Reg-133-73.md) - Nova Scotia regulation, NS Reg 133/73.
 * [Oakland Lake Watershed Protected Water Area Designation](NS-Reg-344-2007.md) - Nova Scotia regulation, NS Reg 344/2007.
@@ -994,7 +939,6 @@
 * [Output-Based Pricing System Reporting and Compliance Standard Adoption Regulations](NS-Reg-181-2024.md) - Nova Scotia regulation, NS Reg 181/2024.
 * [Outside Member Transition Regulations](NS-Reg-134-2014.md) - Nova Scotia regulation, NS Reg 134/2014.
 * [Owls Head Provincial Park Designation](NS-Reg-114-2022.md) - Nova Scotia regulation, NS Reg 114/2022.
-* [Owner's Permit and License Fees for Foreign Government Employees and Vehicles Regulations](NS-Reg-208-2006.md) - Nova Scotia regulation, NS Reg 208/2006.
 * [Ozone Layer Protection Regulations](NS-Reg-54-95.md) - Nova Scotia regulation, NS Reg 54/95.
 * [Packaged Apples Controlled Atmosphere Designation Regulations](NS-Reg-225-87.md) - Nova Scotia regulation, NS Reg 225/87.
 * [Packaging, Paper Products and Packaging-Like Products Material Management Standard Adoption Regulations](NS-Reg-142-2023.md) - Nova Scotia regulation, NS Reg 142/2023.
@@ -1012,8 +956,6 @@
 * [Patient Safety Reporting Regulations](NS-Reg-55-2013.md) - Nova Scotia regulation, NS Reg 55/2013.
 * [Pay Equity Commission Procedures Regulations](NS-Reg-173-91.md) - Nova Scotia regulation, NS Reg 173/91.
 * [Payday Lenders Regulations](NS-Reg-248-2009.md) - Nova Scotia regulation, NS Reg 248/2009.
-* [Pedicab Helmet and Equipment Regulations](NS-Reg-184-2006.md) - Nova Scotia regulation, NS Reg 184/2006.
-* [Pedicab Operation Regulations](NS-Reg-183-2006.md) - Nova Scotia regulation, NS Reg 183/2006.
 * [Pension Benefits Act Fees Regulations](NS-Reg-216-2015.md) - Nova Scotia regulation, NS Reg 216/2015.
 * [Pension Benefits Regulations](NS-Reg-200-2015.md) - Nova Scotia regulation, NS Reg 200/2015.
 * [Peppered Moon Nature Reserve](NS-Reg-157-2020.md) - Nova Scotia regulation, NS Reg 157/2020.
@@ -1024,7 +966,6 @@
 * [Personal Information International Disclosure Protection Regulations](NS-Reg-113-2008.md) - Nova Scotia regulation, NS Reg 113/2008.
 * [Personal Property Security Act General Regulations](NS-Reg-129-97.md) - Nova Scotia regulation, NS Reg 129/97.
 * [Personal Services Contract Regulations](NS-Reg-188-2005.md) - Nova Scotia regulation, NS Reg 188/2005.
-* [Personalized Number Plates Regulations](NS-Reg-124-2005.md) - Nova Scotia regulation, NS Reg 124/2005.
 * [Petersfield Provincial Park](NS-Reg-269-84.md) - Nova Scotia regulation, NS Reg 269/84.
 * [Petite Bog Nature Reserve](NS-Reg-201-2014.md) - Nova Scotia regulation, NS Reg 201/2014.
 * [Petroleum Management Regulations](NS-Reg-44-2002.md) - Nova Scotia regulation, NS Reg 44/2002.
@@ -1110,8 +1051,6 @@
 * [Processor Licensing Regulations](NS-Reg-111-2010.md) - Nova Scotia regulation, NS Reg 111/2010.
 * [Prohibition of Off-highway Vehicle Use in Pockwock Lake Watershed Protected Water Area](NS-Reg-275-2008.md) - Nova Scotia regulation, NS Reg 275/2008.
 * [Property Insurance Fire Prevention Tax Regulations](NS-Reg-2-77.md) - Nova Scotia regulation, NS Reg 2/77.
-* [Prorated Registration Fees for Inter-jurisdictional Commercial Trucks Regulations](NS-Reg-61-97.md) - Nova Scotia regulation, NS Reg 61/97.
-* [Prorated Vehicle Registration Plan](NS-Reg-184-81.md) - Nova Scotia regulation, NS Reg 184/81.
 * [Prospectus Tax Credit Regulations](NS-Reg-14-96.md) - Nova Scotia regulation, NS Reg 14/96.
 * [Prosthetic Devices Tariffs Regulations](NS-Reg-32-1999.md) - Nova Scotia regulation, NS Reg 32/1999.
 * [Protection for Persons in Care Regulations](NS-Reg-364-2007.md) - Nova Scotia regulation, NS Reg 364/2007.
@@ -1122,7 +1061,6 @@
 * [Provincial Child Support Guidelines](NS-Reg-53-1998.md) - Nova Scotia regulation, NS Reg 53/1998.
 * [Provincial Parks Regulations](NS-Reg-69-1989.md) - Nova Scotia regulation, NS Reg 69/1989.
 * [Provincial Subdivision Regulations](NS-Reg-38-99.md) - Nova Scotia regulation, NS Reg 38/99.
-* [Provincially Approved Screening Devices Regulations](NS-Reg-126-99.md) - Nova Scotia regulation, NS Reg 126/99.
 * [Psychology Regulations](NS-Reg-252-2025.md) - Nova Scotia regulation, NS Reg 252/2025.
 * [Pu tlaqne katik Designation](NS-Reg-152-2020.md) - Nova Scotia regulation, NS Reg 152/2020.
 * [Public Archives Fees Regulations](NS-Reg-70-2007.md) - Nova Scotia regulation, NS Reg 70/2007.
@@ -1165,23 +1103,9 @@
 * [Recreational Camps Regulations](NS-Reg-254-2011.md) - Nova Scotia regulation, NS Reg 254/2011.
 * [Recreational Fishing Regulations](NS-Reg-44-2001.md) - Nova Scotia regulation, NS Reg 44/2001.
 * [Refrigeration and Air Conditioning Mechanic Trade Regulations](NS-Reg-192-2016.md) - Nova Scotia regulation, NS Reg 192/2016.
-* [Refund of Registration Fees Regulations](NS-Reg-211-94.md) - Nova Scotia regulation, NS Reg 211/94.
 * [Refusal or Cancellation of Licences for Payors in Default of Maintenance Regulations](NS-Reg-183-2009.md) - Nova Scotia regulation, NS Reg 183/2009.
 * [Regional Centres for Education Regulations](NS-Reg-51-2018.md) - Nova Scotia regulation, NS Reg 51/2018.
 * [Registration and Statistical Returns Regulations](NS-Reg-3-2004.md) - Nova Scotia regulation, NS Reg 3/2004.
-* [Registration Fees for Campers Regulations](NS-Reg-62-77.md) - Nova Scotia regulation, NS Reg 62/77.
-* [Registration Fees for Commercial Motor Vehicles Regulations](NS-Reg-57-89.md) - Nova Scotia regulation, NS Reg 57/89.
-* [Registration Fees for Passenger Motor Vehicles Regulations](NS-Reg-3-92.md) - Nova Scotia regulation, NS Reg 3/92.
-* [Registration Fees for Public Passenger Vehicles Operated by a Public Utility Regulations](NS-Reg-189-86.md) - Nova Scotia regulation, NS Reg 189/86.
-* [Registration Fees for Students and New Residents Regulations](NS-Reg-136-72.md) - Nova Scotia regulation, NS Reg 136/72.
-* [Registration Fees for Trailers Regulations](NS-Reg-38-2002.md) - Nova Scotia regulation, NS Reg 38/2002.
-* [Registration Fees for Vehicles of Non-Profit, Charitable or Religious Organizations Regulations](NS-Reg-84-2002.md) - Nova Scotia regulation, NS Reg 84/2002.
-* [Registration of Antique Vehicles Regulations](NS-Reg-36-73.md) - Nova Scotia regulation, NS Reg 36/73.
-* [Registration of Armed Forces Vehicles Regulations](NS-Reg-103-71.md) - Nova Scotia regulation, NS Reg 103/71.
-* [Registration of Converted Passenger Vehicles as Commercial Vehicles Regulations](NS-Reg-25-42.md) - Nova Scotia regulation, NS Reg 25/42.
-* [Registration of Mobility Handicapped Persons' Vehicles Regulations](NS-Reg-238-86.md) - Nova Scotia regulation, NS Reg 238/86.
-* [Registration of Motorcycles Regulations](NS-Reg-121-2005.md) - Nova Scotia regulation, NS Reg 121/2005.
-* [Registration of Passenger Vehicles used for Driver Instruction in High School Regulations](NS-Reg-190-86.md) - Nova Scotia regulation, NS Reg 190/86.
 * [Regulated Health Professions General Regulations](NS-Reg-106-2024.md) - Nova Scotia regulation, NS Reg 106/2024.
 * [Regulated Health Professions Network Members Regulations](NS-Reg-235-2024.md) - Nova Scotia regulation, NS Reg 235/2024.
 * [Regulated Health Professions Network Regulations](NS-Reg-61-2014.md) - Nova Scotia regulation, NS Reg 61/2014.
@@ -1206,8 +1130,6 @@
 * [Residential Tenancies Regulations](NS-Reg-190-1989.md) - Nova Scotia regulation, NS Reg 190/1989.
 * [Respiratory Therapy Regulations](NS-Reg-152-2025.md) - Nova Scotia regulation, NS Reg 152/2025.
 * [Restoration Stone Mason Trade Regulations](NS-Reg-229-2016.md) - Nova Scotia regulation, NS Reg 229/2016.
-* [Restricted Permits and Special Permits Fees Regulations](NS-Reg-35-72.md) - Nova Scotia regulation, NS Reg 35/72.
-* [Restricted Vehicles - Identification and Registration Regulations](NS-Reg-224-1990.md) - Nova Scotia regulation, NS Reg 224/1990.
 * [Retail Business Designated Day Closing Regulations](NS-Reg-267-2009.md) - Nova Scotia regulation, NS Reg 267/2009.
 * [Retail Business Uniform Closing Day Regulations](NS-Reg-188-2006.md) - Nova Scotia regulation, NS Reg 188/2006.
 * [Revenue Act Appeal Rules](NS-Reg-74-1996.md) - Nova Scotia regulation, NS Reg 74/1996.
@@ -1262,17 +1184,13 @@
 * [Schedule of Fees Payable to the Registrar of Joint Stock Companies](NS-Reg-128-96-3.md) - Nova Scotia regulation, NS Reg 128/96.
 * [Schedule of Fees Payable to the Registrar of Joint Stock Companies](NS-Reg-201-2008.md) - Nova Scotia regulation, NS Reg 201/2008.
 * [Schedule of Fees Payable to the Registrar of Joint Stock Companies](NS-Reg-216-2008.md) - Nova Scotia regulation, NS Reg 216/2008.
-* [School Areas Regulations](NS-Reg-164-2012.md) - Nova Scotia regulation, NS Reg 164/2012.
 * [Schooner Pond Beach](NS-Reg-23-77.md) - Nova Scotia regulation, NS Reg 23/77.
 * [Scots Bay Beach](NS-Reg-137-76.md) - Nova Scotia regulation, NS Reg 137/76.
 * [Scrag Lake Wilderness Area Designation](NS-Reg-378-2015.md) - Nova Scotia regulation, NS Reg 378/2015.
 * [Seal Cove Nature Reserve](NS-Reg-52-2017.md) - Nova Scotia regulation, NS Reg 52/2017.
-* [Seat Belt and Child Restraint System Regulations](NS-Reg-221-2005.md) - Nova Scotia regulation, NS Reg 221/2005.
 * [Second Peninsula Provincial Park](NS-Reg-35-75.md) - Nova Scotia regulation, NS Reg 35/75.
 * [Section 77 Exemption Regulations](NS-Reg-154-2012.md) - Nova Scotia regulation, NS Reg 154/2012.
 * [Sectors in the Construction Industry Regulations](NS-Reg-160-1990.md) - Nova Scotia regulation, NS Reg 160/1990.
-* [Securing Loads on Vehicles Regulations](NS-Reg-226-2006.md) - Nova Scotia regulation, NS Reg 226/2006.
-* [Segway Pilot Project Regulations](NS-Reg-21-2014.md) - Nova Scotia regulation, NS Reg 21/2014.
 * [Selling Mobile Homes at Tax Sale Definitions Regulations](NS-Reg-29-2000.md) - Nova Scotia regulation, NS Reg 29/2000.
 * [Selling Mobile Homes at Tax Sale Forms](NS-Reg-30-2000.md) - Nova Scotia regulation, NS Reg 30/2000.
 * [Senior Citizens' Property Tax Rebate Regulations](NS-Reg-34-2019.md) - Nova Scotia regulation, NS Reg 34/2019.
@@ -1299,7 +1217,6 @@
 * [Skull Bog Lake Nature Reserve](NS-Reg-386-2015.md) - Nova Scotia regulation, NS Reg 386/2015.
 * [Slade Lake Nature Reserve](NS-Reg-204-2014.md) - Nova Scotia regulation, NS Reg 204/2014.
 * [Sloans Lake Nature Reserve](NS-Reg-418-2015.md) - Nova Scotia regulation, NS Reg 418/2015.
-* [Slow-moving Vehicle Identification Regulations](NS-Reg-41-77.md) - Nova Scotia regulation, NS Reg 41/77.
 * [Small Business Advocate Regulations](NS-Reg-190-2011.md) - Nova Scotia regulation, NS Reg 190/2011.
 * [Small Claims Court Forms and Procedures Regulations](NS-Reg-17-93.md) - Nova Scotia regulation, NS Reg 17/93.
 * [Small Claims Court Residential Tenancies Appeal Regulations](NS-Reg-18-2003.md) - Nova Scotia regulation, NS Reg 18/2003.
@@ -1350,14 +1267,12 @@
 * [Standards of Conduct for Mortgage Brokerages Regulations](NS-Reg-126-2020.md) - Nova Scotia regulation, NS Reg 126/2020.
 * [Standards of Conduct for Mortgage Brokers and Associate Mortgage Brokers Regulations](NS-Reg-127-2020.md) - Nova Scotia regulation, NS Reg 127/2020.
 * [Standards of Conduct for Mortgage Lenders Regulations](NS-Reg-128-2020.md) - Nova Scotia regulation, NS Reg 128/2020.
-* [Standards of Vehicle Equipment Regulations](NS-Reg-51-85.md) - Nova Scotia regulation, NS Reg 51/85.
 * [State of Emergency Forms Regulations](NS-Reg-255-2008.md) - Nova Scotia regulation, NS Reg 255/2008.
 * [Statements of Provincial Interest](NS-Reg-101-2001.md) - Nova Scotia regulation, NS Reg 101/2001.
 * [Steamfitter/Pipefitter Trade Regulations](NS-Reg-195-2016.md) - Nova Scotia regulation, NS Reg 195/2016.
 * [Steepbank Brook Nature Reserve](NS-Reg-200-2018.md) - Nova Scotia regulation, NS Reg 200/2018.
 * [Stewiacke Watershed Protected Water Area Designation](NS-Reg-261-2007.md) - Nova Scotia regulation, NS Reg 261/2007.
 * [Stewiacke Watershed Protected Water Area Regulations](NS-Reg-262-2007.md) - Nova Scotia regulation, NS Reg 262/2007.
-* [Studded Tires Regulations](NS-Reg-45-79.md) - Nova Scotia regulation, NS Reg 45/79.
 * [Student Reservists' Leave of Absence Regulations](NS-Reg-327-2007.md) - Nova Scotia regulation, NS Reg 327/2007.
 * [Sugar Harbour Islands Nature Reserve](NS-Reg-231-2023.md) - Nova Scotia regulation, NS Reg 231/2023.
 * [Sulphide Bearing Material Disposal Regulations](NS-Reg-57-1995.md) - Nova Scotia regulation, NS Reg 57/1995.
@@ -1383,7 +1298,6 @@
 * [Technical Safety Fees Regulations](NS-Reg-182-2015.md) - Nova Scotia regulation, NS Reg 182/2015.
 * [Technical Safety General Regulations](NS-Reg-9-2011.md) - Nova Scotia regulation, NS Reg 9/2011.
 * [Technical Safety Standards Regulations](NS-Reg-102-2014.md) - Nova Scotia regulation, NS Reg 102/2014.
-* [Temporary Registration Permits Regulations](NS-Reg-417-2007.md) - Nova Scotia regulation, NS Reg 417/2007.
 * [Ten Mile Lake Provincial Park](NS-Reg-38-75.md) - Nova Scotia regulation, NS Reg 38/75.
 * [Tennycape River Nature Reserve](NS-Reg-205-2014.md) - Nova Scotia regulation, NS Reg 205/2014.
 * [Terence Bay Wilderness Area Designation of Additional Lands](NS-Reg-93-2005-3.md) - Nova Scotia regulation, NS Reg 93/2005.
@@ -1395,7 +1309,6 @@
 * [Theatres and Amusements Regulations](NS-Reg-90-2005.md) - Nova Scotia regulation, NS Reg 90/2005.
 * [Third Party Liability Claims Regulations](NS-Reg-127-2003.md) - Nova Scotia regulation, NS Reg 127/2003.
 * [Thomas Raddall Provincial Park](NS-Reg-75-97.md) - Nova Scotia regulation, NS Reg 75/97.
-* [Three-Wheeled Vehicles Pilot Project Regulations](NS-Reg-90-2024.md) - Nova Scotia regulation, NS Reg 90/2024.
 * [Ticket Lottery Regulations](NS-Reg-41-95.md) - Nova Scotia regulation, NS Reg 41/95.
 * [Tiddville Nature Reserve](NS-Reg-247-2015.md) - Nova Scotia regulation, NS Reg 247/2015.
 * [Tidney River Wilderness Area Designation of Additional Lands](NS-Reg-121-2012.md) - Nova Scotia regulation, NS Reg 121/2012.
@@ -1419,9 +1332,7 @@
 * [Trade Names Equivalency Regulations](NS-Reg-113-97.md) - Nova Scotia regulation, NS Reg 113/97.
 * [Trade Union Act General Regulations](NS-Reg-62-2019.md) - Nova Scotia regulation, NS Reg 62/2019.
 * [Trade Union Procedures Regulations](NS-Reg-101-1972.md) - Nova Scotia regulation, NS Reg 101/1972.
-* [Traffic Signs Regulations](NS-Reg-165-2012.md) - Nova Scotia regulation, NS Reg 165/2012.
 * [Trail Designation - Liverpool to Summerville](NS-Reg-203-91.md) - Nova Scotia regulation, NS Reg 203/91.
-* [Trailer Couplings and Other Safety Devices Regulations](NS-Reg-86-73.md) - Nova Scotia regulation, NS Reg 86/73.
 * [Trails Regulations](NS-Reg-71-89.md) - Nova Scotia regulation, NS Reg 71/89.
 * [Transfer of Information to Dairy Farmers of Nova Scotia Regulations](NS-Reg-62-2001.md) - Nova Scotia regulation, NS Reg 62/2001.
 * [Transport Trailer Technician Trade Regulations](NS-Reg-151-2021.md) - Nova Scotia regulation, NS Reg 151/2021.
@@ -1451,10 +1362,7 @@
 * [Utility and Review Board Regulations](NS-Reg-270-1992.md) - Nova Scotia regulation, NS Reg 270/1992.
 * [Valleyview Provincial Park](NS-Reg-137-73.md) - Nova Scotia regulation, NS Reg 137/73.
 * [Value of Chattels Exempt from Seizure Regulations](NS-Reg-162-2019.md) - Nova Scotia regulation, NS Reg 162/2019.
-* [Vehicle Inspection Regulations](NS-Reg-214-2006.md) - Nova Scotia regulation, NS Reg 214/2006.
-* [Vehicle Warning Lights Regulations](NS-Reg-20-2007.md) - Nova Scotia regulation, NS Reg 20/2007.
 * [Venture Capital Tax Credit Regulations](NS-Reg-173-2020.md) - Nova Scotia regulation, NS Reg 173/2020.
-* [Veterans' Number Plates Regulations](NS-Reg-163-2002.md) - Nova Scotia regulation, NS Reg 163/2002.
 * [Veterinary Medical Regulations](NS-Reg-37-2006.md) - Nova Scotia regulation, NS Reg 37/2006.
 * [Veterinary Technologists Regulations](NS-Reg-160-2014.md) - Nova Scotia regulation, NS Reg 160/2014.
 * [Victim Fine Surcharge Rate Regulations](NS-Reg-243-89.md) - Nova Scotia regulation, NS Reg 243/89.
@@ -1464,7 +1372,6 @@
 * [Vital Statistics Appointment of Division Registrars Regulations](NS-Reg-74-99.md) - Nova Scotia regulation, NS Reg 74/99.
 * [Volunteer Fire Fighter Tax Credit Regulations](NS-Reg-63-2008.md) - Nova Scotia regulation, NS Reg 63/2008.
 * [Volunteer Fire Services Regulations](NS-Reg-160-2002.md) - Nova Scotia regulation, NS Reg 160/2002.
-* [Volunteer Fire-fighter and Ground Search and Rescue Workers Registration Fee Exemption Regulations](NS-Reg-130-1999.md) - Nova Scotia regulation, NS Reg 130/1999.
 * [Walsh or Wilkins Lake - Designation](NS-Reg-249-2007.md) - Nova Scotia regulation, NS Reg 249/2007.
 * [Walton River Wilderness Area Designation](NS-Reg-40-2017.md) - Nova Scotia regulation, NS Reg 40/2017.
 * [Washabuck River Nature Reserve](NS-Reg-138-2006.md) - Nova Scotia regulation, NS Reg 138/2006.
@@ -1472,7 +1379,6 @@
 * [Watercourse Alteration Standard Order](NS-Reg-214-2015.md) - Nova Scotia regulation, NS Reg 214/2015.
 * [Waterside Beach Provincial Park](NS-Reg-86-80.md) - Nova Scotia regulation, NS Reg 86/80.
 * [Waverley–Salmon River Long Lake Wilderness Area Designation of Additional Lands](NS-Reg-93-2005-5.md) - Nova Scotia regulation, NS Reg 93/2005.
-* [Weights and Dimensions of Vehicles Regulations](NS-Reg-137-2001.md) - Nova Scotia regulation, NS Reg 137/2001.
 * [Welder Trade Regulations](NS-Reg-231-2016.md) - Nova Scotia regulation, NS Reg 231/2016.
 * [Well Construction Regulations](NS-Reg-382-2007.md) - Nova Scotia regulation, NS Reg 382/2007.
 * [Wellington Marsh Body Land Use Regulations](NS-Reg-133-94.md) - Nova Scotia regulation, NS Reg 133/94.
@@ -1493,8 +1399,6 @@
 * [Whycocomagh Provincial Park](NS-Reg-131-72.md) - Nova Scotia regulation, NS Reg 131/72.
 * [Wildlife Habitat and Watercourses Protection Regulations](NS-Reg-138-2001.md) - Nova Scotia regulation, NS Reg 138/2001.
 * [William E. Degarthe Memorial Provincial Park](NS-Reg-178-88.md) - Nova Scotia regulation, NS Reg 178/88.
-* [Windshield Stickers Regulations](NS-Reg-6-77.md) - Nova Scotia regulation, NS Reg 6/77.
-* [Winter Parking Ban Regulations](NS-Reg-257-2025.md) - Nova Scotia regulation, NS Reg 257/2025.
 * [Withdrawal of Energy Resources from the Act Regulations](NS-Reg-280-2007.md) - Nova Scotia regulation, NS Reg 280/2007.
 * [Withdrawal of Petroleum Products from the Act Regulations](NS-Reg-279-2007.md) - Nova Scotia regulation, NS Reg 279/2007.
 * [Witness Fees and Travelling Expenses Regulations](NS-Reg-80-96.md) - Nova Scotia regulation, NS Reg 80/96.
@@ -1505,5 +1409,4 @@
 * [Workers' Compensation Appeal Tribunal Alternative Dispute Resolution Regulations](NS-Reg-105-98.md) - Nova Scotia regulation, NS Reg 105/98.
 * [Workers' Compensation General Regulations](NS-Reg-22-1996.md) - Nova Scotia regulation, NS Reg 22/1996.
 * [Workplace Health and Safety Regulations](NS-Reg-52-2013.md) - Nova Scotia regulation, NS Reg 52/2013.
-* [Yield to Transit Buses Regulations](NS-Reg-163-2011.md) - Nova Scotia regulation, NS Reg 163/2011.
 * [Youth Justice Regulations](NS-Reg-191-2003.md) - Nova Scotia regulation, NS Reg 191/2003.
