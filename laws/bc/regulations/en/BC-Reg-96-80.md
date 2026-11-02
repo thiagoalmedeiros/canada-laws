@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 96/80"
 document_date: "1980-03-21"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:57:55Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:58:08Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96_80/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:57:55Z"
+    last_modified: "2026-10-31T11:58:08Z"
 ---
 
 # British Columbia Vegetable Scheme

@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 53/98"
 document_date: "1998-02-27"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T12:26:22Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T12:26:38Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/53_98/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T12:26:22Z"
+    last_modified: "2026-10-31T12:26:38Z"
 ---
 
 # Hunter Safety Training Regulation

@@ -1,13 +1,13 @@
 ---
 type: "Jurisdiction"
 title: "British Columbia"
-description: "573 Acts and 1474 regulations of British Columbia, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
+description: "572 Acts and 1476 regulations of British Columbia, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
 resource: "https://www.bclaws.gov.bc.ca"
 tags: ["bc", "jurisdiction"]
 jurisdiction: "bc"
-acts_en: 573
+acts_en: 572
 acts_fr: 0
-regulations_en: 1474
+regulations_en: 1476
 regulations_fr: 0
 status: "stable"
 generated: { by: process:canada-laws-provincial-converter }
@@ -34,8 +34,8 @@ The Acts and regulations of British Columbia (Colombie-Britannique), as publishe
 
 | | English | Français |
 |---|---|---|
-| Acts / Lois | [573](acts/en/) | — |
-| Regulations / Règlements | [1474](regulations/en/) | — |
+| Acts / Lois | [572](acts/en/) | — |
+| Regulations / Règlements | [1476](regulations/en/) | — |
 
 # Concepts
 

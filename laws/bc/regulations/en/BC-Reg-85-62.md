@@ -8,7 +8,7 @@ jurisdiction: "bc"
 language: "en"
 citation: "BC Reg 85/62"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T12:21:53Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T12:22:10Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/85_62/xml"
@@ -18,7 +18,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T12:21:53Z"
+    last_modified: "2026-10-31T12:22:10Z"
 ---
 
 # Trespass Regulation

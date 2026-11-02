@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 53/99"
 document_date: "1999-03-04"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:24:45Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:25:02Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/53_99/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:24:45Z"
+    last_modified: "2026-10-31T11:25:02Z"
 ---
 
 # Specialty Farm Operations Regulation

@@ -1,3 +1,3 @@
 # British Columbia: acts
 
-* [Acts (English)](en/) - 573 documents.
+* [Acts (English)](en/) - 572 documents.

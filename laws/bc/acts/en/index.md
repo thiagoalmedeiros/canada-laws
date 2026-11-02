@@ -350,7 +350,6 @@
 * [Missing Persons Act](SBC-2014-c-2.md) - British Columbia Act, SBC 2014, c 2.
 * [Money Judgment Enforcement Act](SBC-2023-c-29.md) - British Columbia Act, SBC 2023, c 29.
 * [Money Services Businesses Act](SBC-2023-c-19.md) - British Columbia Act, SBC 2023, c 19.
-* [Mortgage Brokers Act](RSBC-1996-c-313.md) - British Columbia Act, RSBC 1996, c 313.
 * [Mortgage Services Act](SBC-2022-c-27.md) - British Columbia Act, SBC 2022, c 27.
 * [Motion Picture Act](RSBC-1996-c-314.md) - British Columbia Act, RSBC 1996, c 314.
 * [Motor Dealer Act](RSBC-1996-c-316.md) - British Columbia Act, RSBC 1996, c 316.
