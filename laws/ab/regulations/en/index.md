@@ -173,6 +173,7 @@
 * [Child, Youth and Family Enhancement Regulation](Alta-Reg-160-2004.md) - Alberta regulation, Alta Reg 160/2004.
 * [Chiropractors Profession Regulation](Alta-Reg-277-2006.md) - Alberta regulation, Alta Reg 277/2006.
 * [Citizen Initiative Regulation](Alta-Reg-54-2022.md) - Alberta regulation, Alta Reg 54/2022.
+* [City Land Use Bylaw Direction Regulation](Alta-Reg-255-2026.md) - Alberta regulation, Alta Reg 255/2026.
 * [City of Airdrie Downtown Community Revitalization Levy Regulation](Alta-Reg-253-2022.md) - Alberta regulation, Alta Reg 253/2022.
 * [City of Calgary Charter, 2018 Regulation](Alta-Reg-40-2018.md) - Alberta regulation, Alta Reg 40/2018.
 * [City of Calgary Rivers District Community Revitalization Levy Regulation](Alta-Reg-232-2006.md) - Alberta regulation, Alta Reg 232/2006.
@@ -379,6 +380,7 @@
 * [Firefighters' Primary Site Cancer Regulation](Alta-Reg-102-2003.md) - Alberta regulation, Alta Reg 102/2003.
 * [Fish Creek Provincial Park Parking and Stopping Regulation](Alta-Reg-175-2003.md) - Alberta regulation, Alta Reg 175/2003.
 * [Fisheries (Ministerial) Regulation](Alta-Reg-220-97.md) - Alberta regulation, Alta Reg 220/97.
+* [Flag Display Regulation](Alta-Reg-253-2026.md) - Alberta regulation, Alta Reg 253/2026.
 * [Flare Gas Generation Regulation](Alta-Reg-163-2003.md) - Alberta regulation, Alta Reg 163/2003.
 * [Food Regulation](Alta-Reg-31-2006.md) - Alberta regulation, Alta Reg 31/2006.
 * [Foreign Ownership of Land Regulations](Alta-Reg-160-79.md) - Alberta regulation, Alta Reg 160/79.

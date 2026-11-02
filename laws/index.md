@@ -13,7 +13,7 @@ okf_version: "0.2"
 
 # Provinces
 
-* [Alberta](ab/) - 442 Acts and 925 regulations of Alberta, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
+* [Alberta](ab/) - 442 Acts and 927 regulations of Alberta, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
 * [British Columbia](bc/) - 573 Acts and 1474 regulations of British Columbia, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
 * [Manitoba](mb/) - 516 Acts and 1091 regulations of Manitoba, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
 * [New Brunswick](nb/) - 422 Acts and 676 regulations of New Brunswick, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.

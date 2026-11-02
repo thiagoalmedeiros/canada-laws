@@ -2,30 +2,30 @@
 type: "Regulation"
 title: "Disposition of Property Regulation"
 description: "Alberta regulation, Alta Reg 86/2019."
-resource: "https://kings-printer.alberta.ca/1266.cfm?page=2019_086.cfm&leg_type=Regs&isbncln=9780779849260&display=html"
+resource: "https://kings-printer.alberta.ca/1266.cfm?page=2019_086.cfm&leg_type=Regs&isbncln=9780779865246&display=html"
 tags: ["ab", "regulation", "en"]
 jurisdiction: "ab"
 language: "en"
 citation: "Alta Reg 86/2019"
-document_date: "2024-07-26"
+document_date: "2026-10-21"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:35:55Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:35:15Z }
 sources:
   - id: "official"
-    resource: "https://kings-printer.alberta.ca/1266.cfm?page=2019_086.cfm&leg_type=Regs&isbncln=9780779849260&display=html"
+    resource: "https://kings-printer.alberta.ca/1266.cfm?page=2019_086.cfm&leg_type=Regs&isbncln=9780779865246&display=html"
     title: "Alberta King's Printer: official text"
     author: "org:ab-government"
   - id: "a2aj"
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-AB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:35:55Z"
+    last_modified: "2026-10-31T11:35:15Z"
 ---
 
 # Disposition of Property Regulation
 
-> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2019_086.cfm&leg_type=Regs&isbncln=9780779849260&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2019_086.cfm&leg_type=Regs&isbncln=9780779865246&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 86/2019
 
@@ -45,7 +45,7 @@ Alta Reg 86/2019
 
 (e) “school reserve” means a school reserve as defined in the Municipal Government Act.
 
-(2) A reference to “Minister” in this Regulation is to be read as a reference to the Minister of Education.
+(2) A reference to “Minister” in this Regulation is to be read as a reference to the Minister of Education and Childcare.
 
 (3) This Regulation applies to charter schools in the manner set out under the Charter Schools Exemption and Application Regulation .
 
@@ -194,6 +194,18 @@ and
 (a) to a capital expenditure, or
 
 (b) to the current operations and maintenance of existing buildings with the prior approval of the Minister.
+
+### Criteria for transfer of real property
+
+10.1 For the purpose of section 187.2(2) of the Act, the criteria are as follows:
+
+(a) the real property that is the subject of the transfer includes a school building and the school building
+
+(i) is no longer used by the board who owns the real property to operate a school, and
+
+(ii) is not being used for a school operated by another public school board, separate school board, Francophone regional authority, charter school operator or independent school operator;
+
+(b) the real property that is the subject of the transfer is land that does not have and has not had a fixture attached to it for at least 10 years at the time the Minister provides written notice of the transfer.
 
 ### Repeal
 

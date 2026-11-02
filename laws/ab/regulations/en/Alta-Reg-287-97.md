@@ -2,30 +2,30 @@
 type: "Regulation"
 title: "Sugar Beet Production and Marketing Regulation"
 description: "Alberta regulation, Alta Reg 287/97."
-resource: "https://kings-printer.alberta.ca/1266.cfm?page=1997_287.cfm&leg_type=Regs&isbncln=9780779849130&display=html"
+resource: "https://kings-printer.alberta.ca/1266.cfm?page=1997_287.cfm&leg_type=Regs&isbncln=9780779865284&display=html"
 tags: ["ab", "regulation", "en"]
 jurisdiction: "ab"
 language: "en"
 citation: "Alta Reg 287/97"
-document_date: "2024-07-12"
+document_date: "2026-10-22"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T12:49:05Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T12:47:29Z }
 sources:
   - id: "official"
-    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1997_287.cfm&leg_type=Regs&isbncln=9780779849130&display=html"
+    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1997_287.cfm&leg_type=Regs&isbncln=9780779865284&display=html"
     title: "Alberta King's Printer: official text"
     author: "org:ab-government"
   - id: "a2aj"
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-AB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T12:49:05Z"
+    last_modified: "2026-10-31T12:47:29Z"
 ---
 
 # Sugar Beet Production and Marketing Regulation
 
-> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1997_287.cfm&leg_type=Regs&isbncln=9780779849130&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1997_287.cfm&leg_type=Regs&isbncln=9780779865284&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 287/97
 
@@ -45,7 +45,7 @@ Alta Reg 287/97
 
 (d.1) “crop year” means a 12-month period commencing on January 1 and terminating on December 31 of that same calendar year;
 
-(e) “family” includes a spouse, adult interdependent partner, child, parent, sibling, grandparent, grandchild, son-in-law, daughter-in-law, father-in-law, mother-in-law, sister-in-law, brother-in-law, niece or nephew
+(e) “family” includes a spouse, adult interdependent partner, child, parent, sibling, grandparent, grandchild, son-in-law, daughter-in-law, father-in-law, mother-in-law, sister-in-law, brother-in-law, aunt, uncle, niece or nephew
 
 (i) of the producer, if the producer is an individual,
 
@@ -53,11 +53,11 @@ Alta Reg 287/97
 
 (iii) of a partner in the partnership, if the producer is a partnership;
 
-(e.1) “fodder beet” means fodder beet as defined in the Sugar Beet Marketing Plan Regulation (AR 275/97);
+(e.1) “fodder beet” means fodder beet as defined in the Sugar Beet Marketing Plan Regulation (AR 114/2023);
 
 (f) “licensed processor” means a person who holds a processor’s licence under this Regulation;
 
-(f.1) “licensed producer” means a person who holds a producer’s licence and has a contractual relationship with a licensed processor;
+(f.1) “licensed producer” means a person who holds a producer’s licence, other than a special producer’s licence, and has a contractual relationship with a licensed processor;
 
 (g) “new producer” means a person who at the time the Board intends to allot quota
 
@@ -77,17 +77,23 @@ Alta Reg 287/97
 
 (i.1) “processor” means any person who utilizes or purchases the regulated product and holds a processor’s licence;
 
-(j) “producer’s licence” means a licence issued under section 6;
+(j) “producer’s licence” means a licence issued under section 6 and does not include a special producer’s licence;
 
 (k) “quota” means the acreage from which a producer may produce the regulated product;
 
-(l) “quota certificate” means a quota certificate issued under section 26;
+(l) “quota certificate” means a quota certificate issued under section 26 and does not include a special quota certificate;
 
 (l.1) “research licence” means a licence under which a person may produce regulated product that is used primarily for research purposes in accordance with the conditions imposed under section 39.1;
 
-(l.2) “research purposes” means a bona fide scientific experiment or study;
+(l.2) “research purposes” means a bona fide scientific experiment or study or technical experiment or study;
 
-(m) repealed AR 217/2013 s2;
+(l.3) “special marketing program” means a program established under section 39.2(1);
+
+(l.4) “special producer’s licence” means a licence issued under section 39.2(2) in relation to a special marketing program;
+
+(l.5) “special quota certificate” means a quota certificate issued under section 39.2(2) in relation to a special marketing program.
+
+(m) repealed AR 217/2013 s2.
 
 (n) repealed AR 126/2003 s2.
 
@@ -97,7 +103,7 @@ Alta Reg 287/97
 
 ### Application
 
-2 (1) This Regulation applies
+2 (1) Subject to Part 4.1, this Regulation applies
 
 (a) to all persons who produce sugar beets or market sugar beets, or both, in Alberta through processors, or to new producers who propose to produce sugar beets or market sugar beets, or both, in Alberta through processors,
 
@@ -115,13 +121,19 @@ except to a person who has been exempted by the Board from a regulation, order o
 
 ### Prohibition re production and marketing
 
-3 (1) Subject to subsection (2), no person shall produce or market the regulated product in Alberta through a processor unless that person is a registered producer and holds a producer’s licence, or the person holds a research licence and has been authorized in accordance with section 39.1 to produce or market the regulated product.
+3 (1) Subject to subsection (2), no person shall produce or market the regulated product in Alberta through a processor unless the person
+
+(a) is a registered producer and holds a producer’s licence,
+
+(b) holds a research licence and has been authorized in accordance with section 39.1 to produce or market the regulated product, or
+
+(c) holds a special producer’s licence and has been authorized under a special marketing program to produce or market the regulated product.
 
 (2) No person shall market fodder beets in Alberta whether through a processor or otherwise.
 
 ### Fodder beets
 
-3.1 (1) Despite section 47(8), a person may produce fodder beets without a producer’s licence, quota or quota certificate or a research licence on one or more parcels of land that are owned or leased by the person and that do not in the aggregate exceed 40 acres.
+3.1 (1) Despite section 47(8), a person may produce fodder beets without a producer’s licence, quota or quota certificate or a research licence on one or more parcels of land that are owned or leased by the person and that do not in the aggregate exceed 640 acres.
 
 (2) A person referred to in subsection (1) shall
 
@@ -181,7 +193,7 @@ at least 50% of the members of the unincorporated organization or of the group o
 
 ### List of producers registered
 
-5 The Board must establish and maintain, at its head office, a list of persons who have been registered as producers and must assign a registration number to each such person.
+5 The Board must establish and maintain at its office a list of persons who have been registered as producers and must assign a registration number to each such person.
 
 ### Producer ’ s licence
 
@@ -201,7 +213,7 @@ at least 50% of the members of the unincorporated organization or of the group o
 
 ### List of licensed producers
 
-7 The Board must establish and maintain at its head office a list of licensed producers and must assign a licence number to each licence held by a licensed producer.
+7 The Board must establish and maintain at its office a list of licensed producers and must assign a licence number to each licence held by a licensed producer.
 
 ### Authority of producer ’ s licence
 
@@ -381,7 +393,7 @@ specified in the quota.
 
 (3) The Board may require a producer to make known to the Board all regulated product production and marketing intentions by January 15 of a particular year before issuing a quota certificate to the producer.
 
-(4) The Board must establish and maintain at its head office
+(4) The Board must establish and maintain at its office
 
 (a) a copy of the quota certificates issued to producers, and
 
@@ -607,6 +619,20 @@ specified in the research licence.
 
 (11) A person who holds or has held a research licence may apply from time to time for a further research licence in accordance with this section.
 
+## Part 4.1 Special Marketing Programs
+
+### Special marketing programs
+
+39.2 (1) For the purpose of enabling the development of new and emerging markets for the regulated product, the Board may, with the approval of the Council,
+
+(a) establish and operate special marketing programs, and
+
+(b) make orders, directives and policies related to the special marketing programs.
+
+(2) In relation to a special marketing program, the Board may issue special producer’s licences and special quota certificates, subject to any terms and conditions the Board considers appropriate.
+
+(3) Parts 1 to 4 and 5 do not apply to a special marketing program except to the extent specified in this Regulation or in an order, directive or policy made in relation to that program.
+
 ## Part 5 General
 
 ### Negotiations
@@ -649,7 +675,7 @@ or
 
 (b) to the Board, the person giving the notice must give notice in writing
 
-(i) by mail sent to the head office of the Board,
+(i) by mail sent to the office of the Board,
 
 (ii) by electronic means sent to the electronic address of the Board, or
 
@@ -665,25 +691,39 @@ or
 
 (1.1) Despite subsection (1), a research licence holder may be authorized under section 39.1 to sell, offer for sale or deliver the regulated product to a person who is not a licensed processor.
 
-(2) No licensed processor shall receive the regulated product from any person unless that person holds a producer’s licence, a quota, a quota certificate and a contract with the licensed processor, or the person holds a research licence and the person has been authorized to market the regulated product to a licensed processor.
+(2) No licensed processor shall receive the regulated product from any person unless that person
+
+(a) holds a producer’s licence, a quota, a quota certificate and a contract with the licensed processor,
+
+(b) holds a research licence and has been authorized to market the regulated product to a licensed processor, or
+
+(c) holds a special producer’s licence, a special quota certificate and a contract with the licensed processor and has been authorized under a special marketing program to produce or market the regulated product.
 
 (3) No person shall sell, buy, deliver or receive, or offer to sell, buy, deliver or receive the regulated product except in accordance with this Regulation or on terms other than those negotiated by the Board and the licensed processors or fixed by an arbitrator pursuant to regulations made by the Council.
 
 (4) No licensed producer shall market the regulated product from acreage in excess of that contracted for with the licensed processor.
 
-(5) No licensed processor shall receive from a licensed producer or research licence holder, or pay a licensed producer or research licence holder for, regulated product delivered from acreage that is in excess of that specified in the licensed producer’s quota certificate or the research licence holder’s research licence.
+(5) No licensed processor shall receive from a licensed producer, a research licence holder or a special producer’s licence holder, or pay a licensed producer, a research licence holder or a special producer’s licence holder for, regulated product delivered from acreage that is in excess of that specified in the licensed producer’s quota certificate, the research licence holder’s research licence or the special producer’s licence holder’s special quota certificate, as the case may be.
 
-(6) Except as permitted by this Regulation, no person shall purchase or otherwise acquire the regulated product from a licensed producer or research licence holder
+(6) Except as permitted by this Regulation, no person shall purchase or otherwise acquire the regulated product from a licensed producer, a research licence holder or a special producer’s licence holder
 
-(a) if that regulated product was grown on land that was not identified on the quota certificate or research licence, or
+(a) if that regulated product was grown on land that was not identified on the quota certificate, the research licence or the special quota certificate, as the case may be, or
 
 (b) if no quota is allotted under this Regulation in respect of that licensed producer.
 
-(7) No licensed producer or research licence holder shall produce or market the regulated product on land other than the land described in the licensed producer’s quota certificate or the research licence holder’s research licence.
+(7) No licensed producer, research licence holder or special producer’s licence holder shall produce or market the regulated product on land other than the land described in the licensed producer’s quota certificate, the research licence holder’s research licence or the special producer’s licence holder’s special quota certificate.
 
 (8) No person shall produce or market the regulated product unless the person
 
-(a) holds a producer’s licence and a quota and quota certificate, or holds a research licence, and
+(a) holds
+
+(i) a producer’s licence and a quota and quota certificate,
+
+(ii) a research licence, or
+
+(iii) a special producer’s licence and special quota certificate,
+
+and
 
 (b) except in the case of a research licence holder who has been authorized by the Board, holds a contract with a licensed processor.
 
@@ -693,7 +733,7 @@ or
 
 (11) No person shall
 
-(a) produce fodder beets on one or more parcels of land that in the aggregate exceed 40 acres, or
+(a) produce fodder beets on one or more parcels of land that in the aggregate exceed 640 acres, or
 
 (b) exchange fodder beets for valuable consideration, including selling fodder beets.
 
@@ -707,7 +747,7 @@ or
 
 ### Expiry
 
-51 For the purpose of ensuring that this Regulation is reviewed for ongoing relevancy and necessity, with the option that it may be repassed in its present or an amended form following a review, this Regulation expires on November 30, 2026.
+51 For the purpose of ensuring that this Regulation is reviewed for ongoing relevancy and necessity, with the option that it may be repassed in its present or an amended form following a review, this Regulation expires on November 30, 2033.
 
 ### Coming into force
 

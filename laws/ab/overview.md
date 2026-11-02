@@ -1,13 +1,13 @@
 ---
 type: "Jurisdiction"
 title: "Alberta"
-description: "442 Acts and 925 regulations of Alberta, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
+description: "442 Acts and 927 regulations of Alberta, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
 resource: "https://kings-printer.alberta.ca"
 tags: ["ab", "jurisdiction"]
 jurisdiction: "ab"
 acts_en: 442
 acts_fr: 1
-regulations_en: 925
+regulations_en: 927
 regulations_fr: 0
 status: "stable"
 generated: { by: process:canada-laws-provincial-converter }
@@ -35,7 +35,7 @@ The Acts and regulations of Alberta (Alberta), as published by Alberta King's Pr
 | | English | Français |
 |---|---|---|
 | Acts / Lois | [442](acts/en/) | [1](acts/fr/) |
-| Regulations / Règlements | [925](regulations/en/) | — |
+| Regulations / Règlements | [927](regulations/en/) | — |
 
 # Concepts
 

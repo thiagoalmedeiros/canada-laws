@@ -1,3 +1,3 @@
 # Alberta: regulations
 
-* [Regulations (English)](en/) - 925 documents.
+* [Regulations (English)](en/) - 927 documents.

@@ -2,30 +2,30 @@
 type: "Regulation"
 title: "Fisheries (Ministerial) Regulation"
 description: "Alberta regulation, Alta Reg 220/97."
-resource: "https://kings-printer.alberta.ca/1266.cfm?page=1997_220.cfm&leg_type=Regs&isbncln=9780779833245&display=html"
+resource: "https://kings-printer.alberta.ca/1266.cfm?page=1997_220.cfm&leg_type=Regs&isbncln=9780779865208&display=html"
 tags: ["ab", "regulation", "en"]
 jurisdiction: "ab"
 language: "en"
 citation: "Alta Reg 220/97"
-document_date: "2022-11-30"
+document_date: "2026-10-16"
 upstream_license: "See upstream license: https://perma.cc/7GUJ-2NNL © Alberta King's Printer. Reproduced from the Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca), which permits reproduction of Alberta's statutes and regulations without permission provided due diligence is exercised to ensure the accuracy of the materials, the Crown is identified as the source, and the reproduction is not represented as an official version. See the Alberta King's Printer copyright terms: https://kings-printer.alberta.ca/copyright.cfm. NOTE: This is an unofficial reproduction of Alberta regulations, made without endorsement or affiliation by the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:47:39Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:46:32Z }
 sources:
   - id: "official"
-    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1997_220.cfm&leg_type=Regs&isbncln=9780779833245&display=html"
+    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1997_220.cfm&leg_type=Regs&isbncln=9780779865208&display=html"
     title: "Alberta King's Printer: official text"
     author: "org:ab-government"
   - id: "a2aj"
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-AB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:47:39Z"
+    last_modified: "2026-10-31T11:46:32Z"
 ---
 
 # Fisheries (Ministerial) Regulation
 
-> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1997_220.cfm&leg_type=Regs&isbncln=9780779833245&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1997_220.cfm&leg_type=Regs&isbncln=9780779865208&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 220/97
 
@@ -47,9 +47,9 @@ Alta Reg 220/97
 
 2 (1) For the purposes of the Act,
 
-(a) “bait” means organisms, alive or dead, intended for use as a fish attractant when attached to a hook or line used for angling, except that “bait fish” means the species of fish set out in Schedule 3;
+(a) “bait” means organisms, alive or dead, intended for use as a fish attractant when attached to a hook or line used for angling;
 
-(a.01) “bait fish” means the species of fish set out in Schedule 3;
+(a.01) “bait fish” means fish of a species set out in Part 2 of Schedule 1 to the Alberta Fishery Regulations, 1998 (SOR/98-246) made under the Fisheries Act (Canada);
 
 (a.1) “competitive fishing” means the fishing activities involved in a competitive fishing event;
 
@@ -77,7 +77,7 @@ Alta Reg 220/97
 
 (c.05) “fish handling facilities” means, in relation to a competitive fishing event, the places other than in a boat where fish kept for the purposes of the event are or will be temporarily held or handled and any gloves, nets, chutes, surfaces or equipment used in handling or conveying the fish;
 
-(c.1) “game fish” means fish of a species set out in Part 1 of Schedule 1 to the Alberta Fishery Regulations, 1998 under the Fisheries Act (Canada);
+(c.1) “game fish” means fish of a species set out in Part 1 of Schedule 1 to the Alberta Fishery Regulations, 1998 (SOR/98-246) made under the Fisheries Act (Canada);
 
 (d) repealed AR 45/2016 s3;
 
@@ -191,7 +191,7 @@ any organisms of the class Amphibia for use as bait.
 
 ### Expiry
 
-7 For the purpose of ensuring that this Regulation is reviewed for ongoing relevancy and necessity, with the option that it may be re-passed in its present or an amended form following a review, this Regulation expires on October 31, 2026.
+7 For the purpose of ensuring that this Regulation is reviewed for ongoing relevancy and necessity, with the option that it may be re-passed in its present or an amended form following a review, this Regulation expires on March 31, 2032.
 
 8 Repealed AR 45/2016 s10.
 
@@ -200,21 +200,21 @@ any organisms of the class Amphibia for use as bait.
 | Item Number | Column 1 Licence | Column 2 Amount of fee (in dollars) |
 | --- | --- | --- |
 |  | Sportfishing Licences |  |
-| 1 | Individual resident of Alberta | 1.50 |
+| 1 | Individual resident of Alberta | 5.95 |
 | 2 | Veteran – resident of Alberta | 0.00 |
-| 3 | Non-resident Canadian – annual | 1.50 |
-| 4 | Non-resident Canadian – 7 days | 1.50 |
-| 5 | Non-resident Canadian – 1 day | 1.50 |
-| 6 | Non-resident of Canada – annual | 9.50 |
-| 7 | Non-resident of Canada – 7 days | 5.85 |
-| 8 | Non-resident of Canada – 1 day | 2.85 |
-| 9 | Special fish harvest licence | 2.50 |
+| 3 | Non-resident Canadian – annual | 9.95 |
+| 4 | Non-resident Canadian – 7 days | 5.95 |
+| 5 | Non-resident Canadian – 1 day | 6.47 |
+| 6 | Non-resident of Canada – annual | 27.85 |
+| 7 | Non-resident of Canada – 7 days | 17.47 |
+| 8 | Non-resident of Canada – 1 day | 7.10 |
+| 9 | Special fish harvest licence | 5.75 |
 | 10 | Replacement licence | 1.00 |
 |  | Recreational Fish Culture Licenses |  |
 | 11 | Issued for a term expiring on the following March 31 | 10.00 |
-| 12 | Issued for a term expiring on March 31 in the 5th year following the year of its issue | 50.00 |
+| 12 | Issued for a term expiring on March 31 in the 5th year following the year of its issue | 100.00 |
 |  | Other Licences |  |
-| 13 | Commercial fish culture licence | 100.00 |
+| 13 | Commercial fish culture licence | 500.00 |
 | 14 | Special fishing licence | 0.00 |
 | 15 | Commercial bait fishing licence | 25.00 |
 | 16 | Research licence | 0.00 |
@@ -244,7 +244,7 @@ Common Name Scientific Name
 
 (d) Grass carp (triploid fish only) Ctenopharyngodon idella
 
-(e) Tilapia Genus Tilapia
+(e) Tilapia Genera Oreochromis , Sarotherodon and Tilapia
 
 (f) Tiger trout Salmo trutta x Salvelinus fontinalis
 
@@ -288,18 +288,6 @@ Pacific White Shrimp Litopenaeus vannamei
 
 (3) Repealed AR 224/2002 s5.
 
-## Schedule 3 Bait Fish
-
-Common Name Scientific Name
-
-1 Iowa darter Etheostoma exile
-
-2 Minnows, except carp, Family Cyprinidae goldfish and the Western Silvery Minnow
-
-3 Sticklebacks Family Gasterosteidae
-
-4 Suckers Family Catostomidae
-
-5 Trout perch Percopsis omiscomaysus
+Schedule 3 Repealed AR 252/2026 s6.
 
 Schedule 4 Repealed AR 25/2000 s3.
