@@ -11,7 +11,7 @@ document_date: "1987-01-01"
 translation: "../fr/CCSM-c-T20.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:16:45Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:16:46Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/t020.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:16:45Z"
+    last_modified: "2026-10-31T11:16:46Z"
 ---
 
 # The Teachers' Pensions Act
@@ -1436,7 +1436,7 @@ if the employer has established or is participating in any plan or scheme that p
 
 ### Continuation of investment committee
 
-42(1) The committee known as: "The Teachers' Retirement Allowances Fund Investment Committee", is hereby continued and shall consist of
+42(1) The committee known as "The Teachers' Retirement Allowances Fund Investment Committee", is hereby continued and shall consist of
 
 (a) the chair;
 
@@ -2262,7 +2262,7 @@ is an eligible employee until the person ceases to be an employee referred to in
 
 ### Eligible employee entitled to pension
 
-66(1) Subject to subsection (2), a person who is or has been an eligible employee is entitled to a pension or other allowance under this Act as if the person were employed as teacher — and earned their salary as a teacher — throughout the period of their employment as an eligible employee.
+66(1) Subject to subsection (2), a person who is or has been an eligible employee is entitled to a pension or other allowance under this Act as if the person were employed as a teacher — and earned their salary as a teacher — throughout the period of their employment as an eligible employee.
 
 ### Reduction for annuity
 

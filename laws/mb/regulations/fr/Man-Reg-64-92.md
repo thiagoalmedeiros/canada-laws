@@ -11,7 +11,7 @@ document_date: "1992-03-20"
 translation: "../en/Man-Reg-64-92.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:29:42Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:29:45Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/064-92.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:29:42Z"
+    last_modified: "2026-10-31T11:29:45Z"
 ---
 
 # Règlement de 1992 sur les aliénations minières et les baux miniers
@@ -1013,7 +1013,7 @@ a) ses travaux quotidiens peuvent être crédités dans l'état des dépenses à
 
 (ii) soit au montant qu'approuve le directeur;
 
-(b) les dépenses de transport qu'il engage dans le but d'exécuter des travaux obligatoires peuvent êtres créditées en vertu de l'alinéa (2)c).
+b) les dépenses de transport qu'il engage dans le but d'exécuter des travaux obligatoires peuvent êtres créditées en vertu de l'alinéa (2)c).
 
 9(4) L'état des dépenses est joint au rapport auquel les dépenses sont liées et il est remis dans le même format que le rapport, soit sur support papier ou sur support électronique.
 
@@ -1045,6 +1045,6 @@ La zone A comprend tous les biens-fonds de la province, à l'exclusion des biens
 
 La zone B comprend les biens-fonds qui suivent :
 
-(a) la partie de la province du Manitoba comprise à l'intérieur des limites suivantes, à savoir : à partir de l'intersection du prolongement en ligne droite vers l'ouest de la limite nord du township 34 et de la frontière ouest de la province du Manitoba; de là, vers le nord, le long de la frontière jusqu'à son intersection avec le parallèle situé par 54°00' de latitude nord; de là, vers l'est, en ligne droite, jusqu'aux coordonnées géographiques 54°00' nord et 99°00' ouest; de là, vers le sud, le long du méridien situé par 99°00' de longitude ouest jusqu'à son intersection avec la limite nord du township 34; de là, vers l'ouest, le long de cette dernière limite et de son prolongement jusqu'au point de départ;
+a) la partie de la province du Manitoba comprise à l'intérieur des limites suivantes, à savoir : à partir de l'intersection du prolongement en ligne droite vers l'ouest de la limite nord du township 34 et de la frontière ouest de la province du Manitoba; de là, vers le nord, le long de la frontière jusqu'à son intersection avec le parallèle situé par 54°00' de latitude nord; de là, vers l'est, en ligne droite, jusqu'aux coordonnées géographiques 54°00' nord et 99°00' ouest; de là, vers le sud, le long du méridien situé par 99°00' de longitude ouest jusqu'à son intersection avec la limite nord du township 34; de là, vers l'ouest, le long de cette dernière limite et de son prolongement jusqu'au point de départ;
 
-(b) la partie de la province du Manitoba située au nord de la ligne suivante : à partir de l'intersection de la frontière ouest de la province du Manitoba et du parallèle situé par 58°00' de latitude nord; de là, vers l'est, jusqu'aux coordonnées géographiques 58°00' nord et 98°00' ouest; de là, vers le sud, jusqu'aux coordonnées géographiques 56°30' nord et 98°00' ouest; de là, vers l'est, jusqu'aux coordonnées géographiques 56°30' nord et 95°30' ouest; de là, vers le sud, jusqu'aux coordonnées géographiques 55°30' nord et 95°30' ouest; de là, vers l'est, jusqu'à l'intersection de la frontière est de la province et du parallèle situé par 55°30' de latitude nord.
+b) la partie de la province du Manitoba située au nord de la ligne suivante : à partir de l'intersection de la frontière ouest de la province du Manitoba et du parallèle situé par 58°00' de latitude nord; de là, vers l'est, jusqu'aux coordonnées géographiques 58°00' nord et 98°00' ouest; de là, vers le sud, jusqu'aux coordonnées géographiques 56°30' nord et 98°00' ouest; de là, vers l'est, jusqu'aux coordonnées géographiques 56°30' nord et 95°30' ouest; de là, vers le sud, jusqu'aux coordonnées géographiques 55°30' nord et 95°30' ouest; de là, vers l'est, jusqu'à l'intersection de la frontière est de la province et du parallèle situé par 55°30' de latitude nord.

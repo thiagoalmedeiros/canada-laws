@@ -11,7 +11,7 @@ document_date: "1987-01-01"
 translation: "../fr/CCSM-c-F90.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:06:58Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:06:59Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/f090.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:06:58Z"
+    last_modified: "2026-10-31T11:06:59Z"
 ---
 
 # The Fisheries Act
@@ -56,7 +56,7 @@ HER MAJESTY, by and with the advice and consent of the Legislative Assembly of M
 
 "fisher" means a person licensed under this Act or the Fisheries Act (Canada), and any regulations made under either Act, to fish for commercial purposes, and includes any other person authorized under the regulations to fish on behalf of a licensed person; (« pêcheur »)
 
-"fur farmer" means a person whose occupation is operating a premises on which fur-bearing animals are kept in captivity for sale or for the purpose of selling their pelts; (« éleveur d'animaux à fourrure »)
+"fur farmer" means a person whose occupation is operating a premises on which fur bearing animals are kept in captivity for sale or for the purpose of selling their pelts; (« éleveur d'animaux à fourrure »)
 
 "inspector" means an inspector appointed under this Act; (« inspecteur »)
 

@@ -11,7 +11,7 @@ document_date: "1987-01-01"
 translation: "../en/CCSM-c-E140.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:04:56Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:04:56Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/e140.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:04:56Z"
+    last_modified: "2026-10-31T11:04:56Z"
 ---
 
 # Loi sur les biens en déshérence
@@ -42,7 +42,7 @@ SA MAJESTÉ, sur l'avis et du consentement de l'Assemblée législative du Manit
 
 ### Cession de biens en déshérence
 
-3 Si un décret du lieutenant gouverneur en conseil lui en donne l'autorisation, le gouvernement peut faire une cession des biens-fonds, tènements ou biens héréditaires qui sont ainsi tombés en déshérence ou sur lesquels les droits deviennent déchus, pour tout motif autre qu'un crime, ou de toute partie de ces biens ou de tout droit sur ces biens, à toute personne afin de les transférer ou de les restituer à toute personne ayant un droit de réclamation légal ou moral sur la personne à laquelle ils ont appartenu, d'effectuer toute disposition de ces biens qu'a pu envisager cette personne ou de récompenser quiconque a découvert les biens en déshérence ou sur lesquels les droits sont déchus, selon ce que le lieutenant-gouverneur en conseil juge approprié.
+3 Si un décret du lieutenant-gouverneur en conseil lui en donne l'autorisation, le gouvernement peut faire une cession des biens-fonds, tènements ou biens héréditaires qui sont ainsi tombés en déshérence ou sur lesquels les droits deviennent déchus, pour tout motif autre qu'un crime, ou de toute partie de ces biens ou de tout droit sur ces biens, à toute personne afin de les transférer ou de les restituer à toute personne ayant un droit de réclamation légal ou moral sur la personne à laquelle ils ont appartenu, d'effectuer toute disposition de ces biens qu'a pu envisager cette personne ou de récompenser quiconque a découvert les biens en déshérence ou sur lesquels les droits sont déchus, selon ce que le lieutenant-gouverneur en conseil juge approprié.
 
 ### Cession sans prise de possession réelle ou enquête
 

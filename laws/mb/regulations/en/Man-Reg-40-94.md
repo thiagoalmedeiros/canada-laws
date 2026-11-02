@@ -11,7 +11,7 @@ document_date: "1994-02-10"
 translation: "../fr/Man-Reg-40-94.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:24:30Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:24:33Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/040-94.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:24:30Z"
+    last_modified: "2026-10-31T11:24:33Z"
 ---
 
 # Reimbursement of Expenses (Universal Bodily Injury Compensation) Regulation
@@ -466,7 +466,7 @@ The Manitoba Public Insurance Corporation Act, C.C.S.M. c. P215
 
 (b) when the victim's state of health so warrants.
 
-### Travel and accomodation for person accompanying victim
+### Travel and accommodation for person accompanying victim
 
 29 The corporation shall pay travel and accommodation expenses covered by sections 137 (person accompanying victim) and 145 (expenses relating to medical examination) of the Act as provided in sections 19 to 28, with necessary modifications.
 

@@ -11,7 +11,7 @@ document_date: "1993-03-19"
 translation: "../fr/Man-Reg-46-93.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:25:37Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:25:40Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/046-93.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:25:37Z"
+    last_modified: "2026-10-31T11:25:40Z"
 ---
 
 # Excluded Services Regulation
@@ -152,7 +152,7 @@ The services listed above are insured services only if the minister receives a s
 
 (b) a previous complete eye examination, also not required for a medical reason approved by the minister, was provided as a benefit to the insured person within the same benefit period.
 
-In this section, "benefit period" means the period of 24 months that begins on January 1, 1993 and includes each subsequent 24 month period.
+In this section, "benefit period" means the period of 24 months that begins on January 1, 1993, and includes each subsequent 24-month period.
 
 27.1 A complete eye examination, whether provided by an optometrist or a medical practitioner, that
 
@@ -162,7 +162,7 @@ In this section, "benefit period" means the period of 24 months that begins on J
 
 28. Therapeutic abortion, unless performed by a medical practitioner
 
-(a) in a hospital in Manitoba other than a private hospital licenced under The Private Hospitals Act;
+(a) in a hospital in Manitoba other than a private hospital licensed under The Private Hospitals Act;
 
 (b) in a hospital outside Manitoba that meets the criteria set out in the Hospital Services Insurance and Administration Regulation made under the Act; or
 

@@ -11,7 +11,7 @@ document_date: "1998-03-30"
 translation: "../fr/Man-Reg-42-98.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:24:59Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:25:01Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/042-98.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:24:59Z"
+    last_modified: "2026-10-31T11:25:01Z"
 ---
 
 # Livestock Manure and Mortalities Management Regulation
@@ -48,7 +48,7 @@ The Environment Act, C.C.S.M. c. E125
 
 (e) the production of eggs, milk and honey,
 
-(f) the raising of game animals, fur-bearing animals, game birds, bees and fish,
+(f) the raising of game animals, fur bearing animals, game birds, bees and fish,
 
 (f.1) the boarding or keeping of livestock on behalf of its owner, including, but not limited to, at a horse stable or livestock sale yard or auction mart,
 

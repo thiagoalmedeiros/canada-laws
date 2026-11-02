@@ -634,6 +634,7 @@
 * [Règlement sur les approvisionnements en eau](Man-Reg-330-88-R.md) - Règlement (Manitoba), Règl du Man 330/88 R.
 * [Règlement sur les arboriculteurs](Man-Reg-86-2009.md) - Règlement (Manitoba), Règl du Man 86/2009.
 * [Règlement sur les archives et le tenue de dossiers](Man-Reg-175-2003.md) - Règlement (Manitoba), Règl du Man 175/2003.
+* [Règlement sur les armes de rue](Man-Reg-115-2026.md) - Règlement (Manitoba), Règl du Man 115/2026.
 * [Règlement sur les armes à lame longue](Man-Reg-128-2024.md) - Règlement (Manitoba), Règl du Man 128/2024.
 * [Règlement sur les audiences de la Commission d'examen](Man-Reg-43-2012.md) - Règlement (Manitoba), Règl du Man 43/2012.
 * [Règlement sur les autobus scolaires](Man-Reg-465-88-R.md) - Règlement (Manitoba), Règl du Man 465/88 R.

@@ -11,7 +11,7 @@ document_date: "1985-06-26"
 translation: "../en/CCSM-c-H60.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:08:06Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:08:06Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/h060.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:08:06Z"
+    last_modified: "2026-10-31T11:08:06Z"
 ---
 
 # Code de la route
@@ -1000,7 +1000,7 @@ L.M. 1989-90, c. 55, art. 8 ; L.M. 2001, c. 7, art. 11 et 13; L.M. 2002, c. 40, 
 
 34.1 à 46 [Abrogés]
 
-L.M. 1985-86, c. 12, art. 8 et 9; L.M. 1987-88, c. 23, art.7; L.M. 1989-90, c. 56, art. 9 ; L.M. 1991-92, c. 25, art. 25 à 32; L.M. 1992, c. 58, art. 11 ; L.M. 1996, c. 19, art. 3 et 4; L.M. 1996, c. 26, art. 4 à 7; L.M. 2010, c. 7, art. 2 ; L.M. 2018, c. 10, ann. B, art. 7.
+L.M. 1985-86, c. 12, art. 8 et 9; L.M. 1987-88, c. 23, art. 7 ; L.M. 1989-90, c. 56, art. 9 ; L.M. 1991-92, c. 25, art. 25 à 32; L.M. 1992, c. 58, art. 11 ; L.M. 1996, c. 19, art. 3 et 4; L.M. 1996, c. 26, art. 4 à 7; L.M. 2010, c. 7, art. 2 ; L.M. 2018, c. 10, ann. B, art. 7.
 
 47 [Nouvelle désignation numérique : article 107.1]
 

@@ -11,7 +11,7 @@ document_date: "1992-08-10"
 translation: "../fr/Man-Reg-156-92.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:45:14Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:45:21Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/156-92.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:45:14Z"
+    last_modified: "2026-10-31T11:45:21Z"
 ---
 
 # Residential Rent Regulation
@@ -127,7 +127,7 @@ For this purpose, the monthly consumer price index is the monthly consumer price
 
 4.1(2) If the amount determined under subsection (1) exceeds the inflation-control target range that is adopted by the Bank of Canada and the Government of Canada and published by the Bank of Canada, and that is in effect on January 1 of the year the rent increase is to take effect, the maximum permitted rent increase is the maximum target of the range.
 
-4.1(3) If the amount determined under subsection (1) is less than the inflation-control target range referred to in subsection (2), the maximum permitted rent increase is the minimum target of the range
+4.1(3) If the amount determined under subsection (1) is less than the inflation-control target range referred to in subsection (2), the maximum permitted rent increase is the minimum target of the range.
 
 4.1(4) The amount of a permitted rent increase may be rounded to the nearest dollar.
 
@@ -441,7 +441,7 @@ B is the total number of rental units in the complex.
 
 10(2) When a landlord refinances an existing mortgage, the new mortgage is deemed to be a renewal to which paragraphs 2 and 3 of subsection (1) shall apply.
 
-10(3) When the terms and conditions of a mortgage or a renewal of a mortgage or a re-financing of an existing mortgage do not meet the requirements of subsections (1) or (2), the director shall, for the purpose of determining the landlord's mortgage interest expenses, estimate the amount of mortgage interest expenses for the period that would have been incurred had those requirements been met.
+10(3) When the terms and conditions of a mortgage or a renewal of a mortgage or a re-financing of an existing mortgage do not meet the requirements of subsection (1) or (2), the director shall, for the purpose of determining the landlord's mortgage interest expenses, estimate the amount of mortgage interest expenses for the period that would have been incurred had those requirements been met.
 
 ### Increase in laundry charges
 

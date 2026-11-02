@@ -11,7 +11,7 @@ document_date: "1986-03-07"
 translation: "../en/Man-Reg-62-86.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:29:14Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:29:17Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/062-86.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:29:14Z"
+    last_modified: "2026-10-31T11:29:17Z"
 ---
 
 # Règlement sur la garde d'enfants
@@ -374,7 +374,7 @@ b) présente les registres financiers au directeur provincial lorsque celui-ci l
 
 6(7) À l'intention des parents et tuteurs, le titulaire de licence affiche bien en vue à l'intérieur de la garderie une copie de la loi et des règlements, ou un résumé autorisé par le directeur provincial.
 
-6(8) Le titulaire de licence qui fait faire des sorties à l'enfant:
+6(8) Le titulaire de licence qui fait faire des sorties à l'enfant :
 
 a) obtient la permission du parent ou du tuteur de l'enfant avant de lui faire faire une sortie;
 
@@ -2018,14 +2018,14 @@ b) le montant pertinent indiqué en regard pour le genre de services de garde :
 | --- | --- | --- |
 | Enfant en bas âge — moins de 4 heures par jour | 10,00 $ | 6,10 $ |
 | Enfant en bas âge — de 4 à 10 heures par jour | 20,00 $ | 12,20 $ |
-| Enfant en bas âge — plus de 10 heures par jour | 30,00 $ | 18,30 $ |
+| Enfant en bas âge — plusieurs modifications de 10 heures par jour | 30,00 $ | 18,30 $ |
 | Enfant d'âge préscolaire — moins de 4 heures par jour | 5,40 $ | 4,10 $ |
 | Enfant d'âge préscolaire — de 4 à 10 heures par jour | 10,80 $ | 8,20 $ |
-| Enfant d'âge préscolaire — plus de 10 heures par jour | 16,20 $ | 12,30 $ |
+| Enfant d'âge préscolaire — plusieurs modifications de 10 heures par jour | 16,20 $ | 12,30 $ |
 | Enfant d'âge scolaire — 3 périodes de fréquentation durant un jour scolaire | 0,30 $ | 0,30 $ |
 | Enfant d'âge scolaire — moins de 4 heures par jour | 5,40 $ | 4,10 $ |
 | Enfant d'âge scolaire — de 4 à 10 heures par jour | 10,80 $ | 8,20 $ |
-| Enfant d'âge scolaire — plus de 10 heures par jour | 16,20 $ | 12,30 $ |
+| Enfant d'âge scolaire — plusieurs modifications de 10 heures par jour | 16,20 $ | 12,30 $ |
 
 ## ANNEXE C
 

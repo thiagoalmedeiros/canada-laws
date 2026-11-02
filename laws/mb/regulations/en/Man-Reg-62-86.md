@@ -11,7 +11,7 @@ document_date: "1986-03-07"
 translation: "../fr/Man-Reg-62-86.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:29:14Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:29:17Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/062-86.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:29:14Z"
+    last_modified: "2026-10-31T11:29:17Z"
 ---
 
 # Child Care Regulation
@@ -62,7 +62,7 @@ The Community Child Care Standards Act, C.C.S.M. c. C158
 
 (i) physical, cognitive, behavioural or emotional disabilities,
 
-(ii) acute medical conditions; and
+(ii) acute medical conditions, and
 
 (b) as a result, requires a facility to provide an exceptional amount of additional accommodation or support for the child; (« enfant ayant des besoins supplémentaires exceptionnels »)
 
@@ -72,7 +72,7 @@ The Community Child Care Standards Act, C.C.S.M. c. C158
 
 "criminal record check" means a record, including a vulnerable sector search, obtained from a law enforcement agency about a person stating
 
-(a) whether the person has any conviction or outstanding charge awaiting court disposition under any federal, provincial, or territorial enactment, and
+(a) whether the person has any conviction or outstanding charge awaiting court disposition under any federal, provincial or territorial enactment, and
 
 (b) the details of any conviction or charge; (« relevé des antécédents judiciaires »)
 
@@ -136,11 +136,11 @@ The Community Child Care Standards Act, C.C.S.M. c. C158
 
 "regulatory authority in another Canadian jurisdiction" means a person or other body, whether or not a governmental entity, that has been granted authority under an Act of another Canadian jurisdiction to set or implement measures related to any of the following:
 
-(a) establishing occupational standards or certification requirements;
+(a) establishing occupational standards or certification requirements,
 
-(b) assessing qualifications of individuals against established occupational standards or certification requirements;
+(b) assessing qualifications of individuals against established occupational standards or certification requirements,
 
-(c) officially recognizing that an individual meets established occupational standards or certification requirements. (« organisme de réglementation d'une autre autorité législative canadienne »)
+(c) officially recognizing that an individual meets established occupational standards or certification requirements; (« organisme de réglementation d'une autre autorité législative canadienne »)
 
 "room" means a physically separate space provided for children's activities in a child care centre; (« pièce »)
 
@@ -168,7 +168,7 @@ The Community Child Care Standards Act, C.C.S.M. c. C158
 
 (a) care provided on school premises by a school — or by another organization under contract with a school or its school board — to children who are enrolled in
 
-(i) kindergarten to grade 6; or
+(i) kindergarten to grade 6, or
 
 (ii) a nursery school program that is provided during the hours of a school's regular program of instruction to children who are three years of age or older;
 
@@ -807,7 +807,7 @@ M.R. 23/87; 80/98; 184/2004; 142/2009; 53/2010; 70/2011; 223/2011 248/2014; 123/
 
 21 In this Part,
 
-"licence holder" means a person who holds a valid licence to provide or offer child care in a family child care home. (« titulaire de licence »)
+"licence holder" means a person who holds a valid licence to provide or offer child care in a family child care home; (« titulaire de licence »)
 
 "overnight care" means child care provided in a family child care home between 8:00 p.m. on one day and 6:00 a.m. the following day. (« garde de nuit »)
 
@@ -869,7 +869,7 @@ M.R. 23/87; 80/98; 184/2004; 142/2009; 53/2010; 70/2011; 223/2011 248/2014; 123/
 
 (g) subject to subsection (3), evidence that the applicant has, within eight years before the date of application, successfully completed 40 hours of course work that
 
-(i) in the opinion of the provincial director, is relevant to early childhood education or family child care; and
+(i) in the opinion of the provincial director, is relevant to early childhood education or family child care, and
 
 (ii) is offered by a publicly funded post-secondary institution, or other institution or body, approved by the provincial director.
 
@@ -1768,7 +1768,7 @@ M.R. 408/88; 184/2004; 123/2020
 
 38(2.1) The maximum daily fee that a licence holder who does not receive an annual operating grant may charge a subsidized family for a space is, based on the type of child care referred to in Column 1 of the following table,
 
-(a) the corresponding amount set out in Column 2, if the licence holder is a child care centre or is a family child care home or group child care home and the licence holder is classified as an E.C.E II or III; or
+(a) the corresponding amount set out in Column 2, if the licence holder is a child care centre or is a family child care home or group child care home and the licence holder is classified as an E.C.E. II or III; or
 
 (b) the corresponding amount set out in Column 3, if the licence holder is a family child care home or group child care home and the licence holder is not classified as an E.C.E. II or III.
 

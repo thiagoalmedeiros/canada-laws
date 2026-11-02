@@ -11,7 +11,7 @@ document_date: "1992-06-24"
 translation: "../fr/CCSM-c-F45.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:06:33Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:06:33Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/f045.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:06:33Z"
+    last_modified: "2026-10-31T11:06:33Z"
 ---
 
 # The Farm Practices Protection Act
@@ -50,7 +50,7 @@ HER MAJESTY, by and with the advice and consent of the Legislative Assembly of M
 
 (e) the production of eggs, milk and honey,
 
-(f) the raising of game animals, fur-bearing animals, game birds, bees and fish,
+(f) the raising of game animals, fur bearing animals, game birds, bees and fish,
 
 (g) the operation of agricultural machinery and equipment,
 

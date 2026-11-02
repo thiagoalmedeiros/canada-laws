@@ -11,7 +11,7 @@ document_date: "1989-10-03"
 translation: "../en/Man-Reg-247-89.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:53:54Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:54:03Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/247-89.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:53:54Z"
+    last_modified: "2026-10-31T11:54:03Z"
 ---
 
 # Règlement concernant la compétence de la Cour du Banc du Roi (Division de la famille)
@@ -34,7 +34,7 @@ Loi sur la Cour du Banc du Roi, c. C280 de la C.P.L.M.
 
 ### Compétence concurrente
 
-1 Les territoires de la province qui ne sont pas mentionnés à l'article 2 sont désignés, conformément à l'alinéa 42(b) de la Loi, comme étant des territoires dans lesquels la Cour du Banc du Roi (Division de la famille) et la Cour provinciale du Manitoba (Division de la famille) exercent une compétence concurrente pour connaître des instances en matière familiale.
+1 Les territoires de la province qui ne sont pas mentionnés à l'article 2 sont désignés, conformément à l'alinéa 42b) de la Loi, comme étant des territoires dans lesquels la Cour du Banc du Roi (Division de la famille) et la Cour provinciale du Manitoba (Division de la famille) exercent une compétence concurrente pour connaître des instances en matière familiale.
 
 ### Compétence exclusive de la Cour du Banc du Roi
 

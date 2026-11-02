@@ -11,7 +11,7 @@ document_date: "1994-06-06"
 translation: "../fr/Man-Reg-109-94.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:37:39Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:37:43Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/109-94.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:37:39Z"
+    last_modified: "2026-10-31T11:37:43Z"
 ---
 
 # Crown Royalty and Incentives Regulation
@@ -308,7 +308,7 @@ but does not include a well drilled within 12 months of having undergone a major
 
 ### Delivery of Crown royalty to person designated by minister
 
-9 The minister may in writing designate a person or agency to take custody of all or part of a Crown royalty in oil and gas, and the holder shall, on written notification by the minister deliver the royalty to the designated person or agency in such amounts and on such terms and conditions as the minister may specify.
+9 The minister may in writing designate a person or agency to take custody of all or part of a Crown royalty in oil and gas, and the holder shall, on written notification by the minister, deliver the royalty to the designated person or agency in such amounts and on such terms and conditions as the minister may specify.
 
 ### Delivery of Crown royalty by person designated by holder
 

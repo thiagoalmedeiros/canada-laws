@@ -11,7 +11,7 @@ document_date: "1987-01-01"
 translation: "../fr/CCSM-c-I57.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:08:32Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:08:32Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/i057.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:08:32Z"
+    last_modified: "2026-10-31T11:08:32Z"
 ---
 
 # The Professional Interior Designers Institute of Manitoba Act
@@ -402,7 +402,7 @@ and in writing sent by registered mail or certified mail or personal service, no
 
 ### Certified copies of convictions as evidence thereof
 
-31(14) For the purposes of an inquiry under this section, a certified copy from the convicting court of the conviction of a person for any crime or offence under The Criminal Code (Canada) or under any other statute is conclusive evidence that the person has committed the crime or offence stated therein, unless it be shown that the conviction has been quashed or set aside.
+31(14) For the purposes of an inquiry under this section, a certified copy from the convicting court of the conviction of a person for any crime or offence under the Criminal Code (Canada) or under any other statute is conclusive evidence that the person has committed the crime or offence stated therein, unless it be shown that the conviction has been quashed or set aside.
 
 ### Evidence by affidavit or viva voce
 

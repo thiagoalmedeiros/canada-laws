@@ -11,7 +11,7 @@ document_date: "1987-01-01"
 translation: "../en/CCSM-c-T2.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:16:43Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:16:43Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/t002.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:16:43Z"
+    last_modified: "2026-10-31T11:16:43Z"
 ---
 
 # Loi sur l'administration des impôts et des taxes et divers impôts et taxes
@@ -34,7 +34,7 @@ SA MAJESTÉ, sur l'avis et du consentement de l'Assemblée législative du Manit
 
 ## PARTIE I ADMINISTRATION DES IMPÔTS ET DES TAXES
 
-NOTE :La partie 12 du c. 40 des L.M. 2005 a modifié l'ancienne partie I (art. 1 à 24) « Taxe sur l'électricité et certains autres produits » qui est devenue la partie I.1 (art. 96 à 110). Voir la table de concordance à la fin de la présente loi.
+NOTE : La partie 12 du c. 40 des L.M. 2005 a modifié l'ancienne partie I (art. 1 à 24) « Taxe sur l'électricité et certains autres produits » qui est devenue la partie I.1 (art. 96 à 110). Voir la table de concordance à la fin de la présente loi.
 
 ### SECTION 1 DISPOSITIONS GÉNÉRALES
 

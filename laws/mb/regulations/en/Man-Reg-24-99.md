@@ -11,7 +11,7 @@ document_date: "1999-02-19"
 translation: "../fr/Man-Reg-24-99.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:21:39Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:21:41Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/024-99.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:21:39Z"
+    last_modified: "2026-10-31T11:21:41Z"
 ---
 
 # Provincial Railways Fitness Criteria and Safety Regulation
@@ -94,7 +94,7 @@ the railway company shall file with the superintendent a certified copy of the a
 
 (a) included by its nature or by the Transportation of Dangerous Goods Regulations in any of the classes listed in the schedule to the Transportation of Dangerous Goods Act, 1992 (Canada), or
 
-(b) that is a dangerous good as defined in the Dangerous Goods Handling and Transportation Act; (« marchandises dangereuses »)
+(b) that is a dangerous good as defined in The Dangerous Goods Handling and Transportation Act; (« marchandises dangereuses »)
 
 "derailment" means an accident in which one or more wheels of rolling stock leave the rails, other than by reason of an explosion or a collision; (« déraillement »)
 

@@ -11,7 +11,7 @@ document_date: "1990-11-21"
 translation: "../fr/Man-Reg-245-90.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:53:46Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:53:54Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/245-90.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:53:46Z"
+    last_modified: "2026-10-31T11:53:54Z"
 ---
 
 # Trapping of Wild Animals Regulation
@@ -218,7 +218,7 @@ M.R. 210/2014; 131/2016
 
 ### Submarine traps
 
-7.1 A person must not use a submarine trap to trap any fur-bearing animal other than a muskrat or mink.
+7.1 A person must not use a submarine trap to trap any fur bearing animal other than a muskrat or mink.
 
 ### Inspection of live holding devices
 
@@ -250,7 +250,7 @@ M.R. 210/2014; 131/2016
 
 (a) a snare for the purpose of taking a beaver under the ice in the open trapping area;
 
-(b) a power snare for the purpose of taking a fur-bearing animal or a gray (timber) wolf in any area; and
+(b) a power snare for the purpose of taking a fur bearing animal or a gray (timber) wolf in any area; and
 
 (c) an approved power-assisted snare for the purpose of taking a coyote or red fox in any area.
 

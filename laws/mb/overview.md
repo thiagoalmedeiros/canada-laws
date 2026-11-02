@@ -1,14 +1,14 @@
 ---
 type: "Jurisdiction"
 title: "Manitoba"
-description: "516 Acts and 1091 regulations of Manitoba, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
+description: "516 Acts and 1092 regulations of Manitoba, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
 resource: "https://web2.gov.mb.ca/laws/"
 tags: ["mb", "jurisdiction"]
 jurisdiction: "mb"
 acts_en: 516
 acts_fr: 516
-regulations_en: 1091
-regulations_fr: 994
+regulations_en: 1092
+regulations_fr: 995
 status: "stable"
 generated: { by: process:canada-laws-provincial-converter }
 sources:
@@ -35,7 +35,7 @@ The Acts and regulations of Manitoba (Manitoba), as published by King's Printer 
 | | English | Français |
 |---|---|---|
 | Acts / Lois | [516](acts/en/) | [516](acts/fr/) |
-| Regulations / Règlements | [1091](regulations/en/) | [994](regulations/fr/) |
+| Regulations / Règlements | [1092](regulations/en/) | [995](regulations/fr/) |
 
 # Concepts
 

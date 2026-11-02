@@ -11,7 +11,7 @@ document_date: "1991-06-25"
 translation: "../en/Man-Reg-140-91.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:42:24Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:42:31Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/140-91.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:42:24Z"
+    last_modified: "2026-10-31T11:42:31Z"
 ---
 
 # Arrêté nº 1/91 des Affaires du Nord (élimination des eaux d'égout de la communauté de Pine Dock)
@@ -248,19 +248,19 @@ b) de sorte que le véhicule de l'équipement de vidange puisse se déplacer en 
 
 9(4) Les réservoirs doivent être aménagés en respectant les distances minimales indiquées ci-dessous, mesurées à partir des éléments suivants :
 
-(a) Bâtiments 1 m,
+a) Bâtiments 1 m,
 
-(b) Limites de la propriété 3 m,
+b) Limites de la propriété 3 m,
 
-(c) Puits 8 m,
+c) Puits 8 m,
 
-(d) Eau de surface 15 m,
+d) Eau de surface 15 m,
 
-(e) Déblai ou remblai 8 m,
+e) Déblai ou remblai 8 m,
 
-(f) Piscine 3 m,
+f) Piscine 3 m,
 
-(g) Citerne 3 m.
+g) Citerne 3 m.
 
 ### Réseaux privés existants
 

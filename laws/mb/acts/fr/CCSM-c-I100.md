@@ -11,7 +11,7 @@ document_date: "1996-10-22"
 translation: "../en/CCSM-c-I100.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:08:17Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:08:17Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/i100.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:08:17Z"
+    last_modified: "2026-10-31T11:08:17Z"
 ---
 
 # Loi sur l'Office manitobain de mise en commun des placements
@@ -42,9 +42,9 @@ SA MAJESTÉ, sur l'avis et avec le consentement de l'Assemblée législative du 
 
 « fonds commun de placement » Fonds constitué en vertu de l'article 17 et dans lequel les sommes reçues par l'Office d'un organisme public peuvent être mises en commun et placées conformément aux conditions prévues par cet article et par les accords conclus en vertu du paragraphe 17(1). ("pooled investment fund")
 
-« ministre » Le ministre chargé par le lieutenant gouverneur en conseil de l'application de la Loi sur la gestion des finances publiques. ("minister")
+« ministre » Le ministre chargé par le lieutenant-gouverneur en conseil de l'application de la Loi sur la gestion des finances publiques. ("minister")
 
-« municipalité » S'entend, sauf aux alinéas 17(3)b) et c), d'une corporation formée des habitants d'une région de la province, qui sont constitués en corporation et le demeurent en vertu de la Loi sur les municipalités, de la Loi sur les districts d'administration locale ou d'une autre loi de l'Assemblée législative. Sont compris par les municipalités les municipalités rurales, les cités, villes ou villages constitués en corporation, les districts d'administration locale et la cité de Winnipeg. ("municipality")
+« municipalité » S'entend, sauf aux alinéas 17(3)c) et d), d'une corporation formée des habitants d'une région de la province, qui sont constitués en corporation et le demeurent en vertu de la Loi sur les municipalités, de la Loi sur les districts d'administration locale ou d'une autre loi de l'Assemblée législative. Sont compris par les municipalités les municipalités rurales, les cités, villes ou villages constitués en corporation, les districts d'administration locale et la cité de Winnipeg. ("municipality")
 
 « Office » L'Office manitobain de mise en commun des placements constitué en vertu de la présente loi. ("authority")
 

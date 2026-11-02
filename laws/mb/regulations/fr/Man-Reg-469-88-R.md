@@ -11,7 +11,7 @@ document_date: "1988-11-07"
 translation: "../en/Man-Reg-469-88-R.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba regulations, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:57:06Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:57:15Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/469-88r.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:57:06Z"
+    last_modified: "2026-10-31T11:57:15Z"
 ---
 
 # Règlement sur les langues d'enseignement et les langues enseignées
@@ -31,6 +31,8 @@ sources:
 R.M. 469/88 R
 
 Loi sur les écoles publiques, c. P250 de la C.P.L.M.
+
+## PARTIE 1 INTERPRÉTATION
 
 ### Définitions
 
@@ -42,11 +44,21 @@ Loi sur les écoles publiques, c. P250 de la C.P.L.M.
 
 « division » Division scolaire. ("division")
 
+« langue autochtone » Langue autochtone visée au paragraphe 79(1.1) de la Loi. ("Indigenous language")
+
 « langue enseignée » S'entend de toute langue approuvée par le ministre comme matière d'enseignement dans les écoles, y compris l'anglais et le français lorsqu'ils sont enseignés comme langues secondes. ("language of study")
+
+« Loi » La Loi sur les écoles publiques. ("Act")
+
+## PARTIE 2 LANGUES D'ENSEIGNEMENT (FRANÇAIS ET ANGLAIS) ET LANGUES ENSEIGNÉES
+
+### Application
+
+1.1 La présente partie s'applique aux écoles et aux programmes où la langue d'enseignement est le français ou l'anglais.
 
 ### Langues d'enseignement
 
-2 Dans les écoles, les cours peuvent être dispensés soit en français, soit en anglais, de la maternelle à la 12e année, dans les classes à l'égard desquelles un cours ou une proposition et un cours ont été dûment approuvés par le ministre.
+2 Un cours ne peut être dispensé en français ou en anglais dans une classe de la maternelle à la 12e année que si le ministre a approuvé, à l'égard de la classe en question, le cours ou une proposition visant le cours.
 
 ### Temps alloué
 
@@ -56,17 +68,13 @@ Loi sur les écoles publiques, c. P250 de la C.P.L.M.
 
 4 Dans les cas où une commission scolaire reçoit, en application du paragraphe 79(3) de la Loi, une requête demandant l'usage du français ou de l'anglais comme langue d'enseignement et s'avère incapable de regrouper à des fins d'enseignement le nombre minimum d'élèves requis aux termes de ce paragraphe, ou s'avère incapable de prendre des mesures satisfaisantes avec la commission scolaire d'une autre division ou d'un autre district pour fournir des classes conjointes, comme le permet le paragraphe 79(7) de la Loi, la commission scolaire en informe le ministre.
 
-### Langue enseignée
+### Langues enseignées
 
-5 Dans les écoles, les langues enseignées peuvent être dispensées, de la maternelle à la 12e année, dans les classes :
+5 Un cours portant sur une langue enseignée ne peut être dispensé dans une classe de la maternelle à la 12e année que si le ministre a approuvé, à l'égard de la classe en question, le cours ou une proposition visant le cours.
 
-a) à l'égard desquelles un cours a été dûment approuvé par le ministre;
+### Proposition de cours
 
-b) à l'égard desquelles une proposition et un cours ont été dûment approuvés par le ministre en la forme et de la manière prévue au présent règlement.
-
-### Proposition
-
-6 Les propositions et les cours en vue de l'enseignement dans une langue enseignée doivent être présentés par une commission scolaire d'une division ou d'un district, en la forme approuvée par le ministre et leur approbation peut être assortie des modalités et conditions approuvées par le ministre.
+6 Une proposition visant l'enseignement d'un cours portant sur une langue enseignée doit être présentée par une commission scolaire d'une division ou d'un district scolaire en la forme approuvée par le ministre; l'approbation peut être assortie des modalités et des conditions que celui-ci fixe.
 
 ### Manuels scolaires
 
@@ -89,6 +97,18 @@ a) moins de 75 % de la journée dans les classes du niveau élémentaire;;
 b) moins de 60 % de la journée dans les classes du niveau secondaire.
 
 Toutefois, l'objectif des diverses procédures et directives relatives à l'administration et au fonctionnement doit être dûment communiqué dans l'autre langue aux membres du personnel et aux élèves qui ne comprennent pas aisément la langue d'enseignement.
+
+## PARTIE 3 LANGUES AUTOCHTONES
+
+### Application
+
+10.1 La présente partie s'applique aux écoles et aux programmes où la langue d'enseignement est une langue autochtone.
+
+### Cours
+
+10.2 Un cours ne peut être dispensé dans une classe de la maternelle à la 12e année que si le ministre a approuvé, à l'égard de la classe en question, le cours ou une proposition visant le cours.
+
+## PARTIE 4 CONSEIL CONSULTATIF SUR LES LANGUES D'ENSEIGNEMENT
 
 ### Durée du mandat
 
@@ -119,6 +139,8 @@ Toutefois, l'objectif des diverses procédures et directives relatives à l'admi
 ### Assemblées
 
 17 Le Conseil consultatif sur les langues d'enseignement se réunit au moins une fois par année ainsi qu'aux moments qu'il détermine ou que le ministre ordonne.
+
+## PARTIE 5 ABROGATION
 
 ### Abrogation
 

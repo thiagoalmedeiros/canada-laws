@@ -958,6 +958,7 @@
 * [Statute-Barred Refunds of Income Tax Remission Order](Man-Reg-200-92.md) - Manitoba regulation, Man Reg 200/92.
 * [Steam and Pressure Plants Regulation](Man-Reg-108-87-R.md) - Manitoba regulation, Man Reg 108/87 R.
 * [Storage and Handling of Petroleum Products and Allied Products Regulation](Man-Reg-188-2001.md) - Manitoba regulation, Man Reg 188/2001.
+* [Street Weapons Control Regulation](Man-Reg-115-2026.md) - Manitoba regulation, Man Reg 115/2026.
 * [Stretcher Transportation Services Regulation](Man-Reg-21-2006.md) - Manitoba regulation, Man Reg 21/2006.
 * [Student Aid Regulation](Man-Reg-143-2003.md) - Manitoba regulation, Man Reg 143/2003.
 * [Subdivision of Land Regulation](Man-Reg-142-96.md) - Manitoba regulation, Man Reg 142/96.

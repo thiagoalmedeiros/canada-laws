@@ -11,7 +11,7 @@ document_date: "1987-01-01"
 translation: "../fr/CCSM-c-R130.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:14:38Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:14:39Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/r130.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:14:38Z"
+    last_modified: "2026-10-31T11:14:39Z"
 ---
 
 # The Retail Sales Tax Act
@@ -1433,7 +1433,7 @@ T is the number of whole or partial calendar months left in the vehicle registra
 
 (x) tangible personal property delivered by the seller outside the province, or shipped by the seller by common carrier for delivery outside the province, including ship stores delivered to commercial vessels that normally operate in extra-territorial waters;
 
-(y) settlers' effects as defined in the regulation;
+(y) settlers' effects as defined in the regulations;
 
 (z) used clothing, including footwear, having a fair value of $100. or less;
 

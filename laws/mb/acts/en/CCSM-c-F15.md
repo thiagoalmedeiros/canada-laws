@@ -11,7 +11,7 @@ document_date: "1986-09-10"
 translation: "../fr/CCSM-c-F15.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:05:49Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:05:49Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/f015.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:05:49Z"
+    last_modified: "2026-10-31T11:05:49Z"
 ---
 
 # The Family Farm Protection Act
@@ -172,7 +172,7 @@ until leave of the court has been obtained under this Part;
 
 9(2) and (3) [Repealed] S.M. 2021, c. 48, s. 8.
 
-Disposition
+### Disposition
 
 9(3.1) On hearing an application, the court may
 
@@ -206,7 +206,7 @@ Disposition
 
 9(5) to (8) [Repealed] S.M. 2021, c. 48, s. 8.
 
-Costs of the application
+### Costs of the application
 
 9(9) At the discretion of the judge hearing the application, the court may order any party to the application to pay the whole or any portion of the costs of such application.
 
@@ -328,7 +328,7 @@ from the application of this Act or any provision of this Act on such terms and 
 
 38(1) The purpose and intent of the Legislature is to confine the provisions of this Act within the competence of the Legislature; and all provisions thereof shall be construed so as to give effect to that purpose and intent.
 
-Ultra vires provisions
+### Ultra vires provisions
 
 38(2) Where any provision of this Act is held beyond the powers of the Legislature, that provision shall be construed distributively and, so far as it deals with matters within the competence of the Legislature, stands and is valid and operative, and has the same effect as if the provision had dealt with those matters exclusively; and the remaining provisions of this Act shall not be deemed or held to be inoperative or ultra vires, but stand and are valid and operative, and have the same effect as if they had been originally enacted as separate and independent enactments and as the only provisions of this Act.
 

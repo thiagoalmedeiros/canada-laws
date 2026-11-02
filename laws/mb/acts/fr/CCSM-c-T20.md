@@ -11,7 +11,7 @@ document_date: "1987-01-01"
 translation: "../en/CCSM-c-T20.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:16:45Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:16:46Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/t020.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:16:45Z"
+    last_modified: "2026-10-31T11:16:46Z"
 ---
 
 # Loi sur la pension de retraite des enseignants
@@ -492,11 +492,11 @@ a droit, sur demande, à une pension annuelle calculée selon les dispositions d
 
 | Années de service | Pourcentage de réduction de l'allocation ou de la rente |
 | --- | --- |
-| cinq ans ou plus et moins de six ans | 50 |
-| six ans ou plus et moins de sept ans | 40 |
-| sept ans ou plus et moins de huit ans | 30 |
-| huit ans ou plus et moins de neuf ans | 20 |
-| neuf ans ou plus et moins de 10 ans | 10 |
+| cinq ans ou plusieurs modifications et moins de six ans | 50 |
+| six ans ou plusieurs modifications et moins de sept ans | 40 |
+| sept ans ou plusieurs modifications et moins de huit ans | 30 |
+| huit ans ou plusieurs modifications et moins de neuf ans | 20 |
+| neuf ans ou plusieurs modifications et moins de 10 ans | 10 |
 | 10 ans ou plus | 0 |
 
 ### Pensions différées après 1984

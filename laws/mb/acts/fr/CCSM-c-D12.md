@@ -11,7 +11,7 @@ document_date: "1987-01-01"
 translation: "../en/CCSM-c-D12.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:04:07Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:04:07Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/d012.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:04:07Z"
+    last_modified: "2026-10-31T11:04:07Z"
 ---
 
 # Loi sur la manutention et le transport des marchandises dangereuses
@@ -104,7 +104,7 @@ b) qui, de par leur nature, font partie de l'une ou de plusieurs des catégories
 
 « ministère » Le ministère dirigé par le ministre et chargé de l'application de la présente loi. ("department")
 
-« ministre » Le membre du Conseil exécutif chargé par le lieutenant gouverneur en conseil de l'application de la présente loi. ("minister")
+« ministre » Le membre du Conseil exécutif chargé par le lieutenant-gouverneur en conseil de l'application de la présente loi. ("minister")
 
 « moyen de transport » Engin, notamment un véhicule, un wagon ou une autre pièce de matériel ferroviaire, ou pipeline intraprovincial :
 

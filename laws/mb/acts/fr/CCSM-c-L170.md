@@ -11,7 +11,7 @@ document_date: "1997-06-28"
 translation: "../en/CCSM-c-L170.md"
 upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:09:39Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:09:40Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/l170.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-17T11:09:39Z"
+    last_modified: "2026-10-31T11:09:40Z"
 ---
 
 # Loi sur les animaux de ferme et leurs produits
@@ -458,7 +458,7 @@ ff) prendre des mesures à l'égard des questions que le ministre estime nécess
 
 26(2) Le ministre peut, s'il le juge à propos, rendre les règlements pris en application du paragraphe (1) applicables à une partie seulement de la province.
 
-27 NOTE : Les modifications corrélatives que contenait l'article 27 ont été intégrées au Code de la route auquel elles s'appliquaient.
+27 NOTE : La modification corrélative que contenait l'article 27 a été intégrée au Code de la route auquel elle s'appliquait.
 
 ### Abrogation
 
