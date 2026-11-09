@@ -324,7 +324,6 @@
 * [RECORDING OF EVIDENCE ACT](RSNL-1990-c-R-7.md) - Newfoundland and Labrador Act, RSNL 1990, c R-7.
 * [REGIONAL SERVICE BOARDS ACT, 2012](SNL-2012-c-R-8.1.md) - Newfoundland and Labrador Act, SNL 2012, c R-8.1.
 * [REGISTRATION OF DEEDS ACT, 2009](SNL-2009-c-R-10.01.md) - Newfoundland and Labrador Act, SNL 2009, c R-10.01.
-* [REGULATORY ACCOUNTABILITY AND REPORTING ACT](SNL-2016-c-R-10.02.md) - Newfoundland and Labrador Act, SNL 2016, c R-10.02.
 * [REMEMBRANCE DAY ACT](RSNL-1990-c-R-12.md) - Newfoundland and Labrador Act, RSNL 1990, c R-12.
 * [RENAMING OF RED INDIAN LAKE ACT](SNL-2021-c-R-12.1.md) - Newfoundland and Labrador Act, SNL 2021, c R-12.1.
 * [RESIDENTIAL TENANCIES ACT, 2018](SNL-2018-c-R-14.2.md) - Newfoundland and Labrador Act, SNL 2018, c R-14.2.

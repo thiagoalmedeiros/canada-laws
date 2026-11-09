@@ -1,3 +1,3 @@
 # Newfoundland and Labrador: acts
 
-* [Acts (English)](en/) - 403 documents.
+* [Acts (English)](en/) - 402 documents.
