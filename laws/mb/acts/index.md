@@ -1,4 +1,4 @@
 # Manitoba: acts
 
-* [Acts (English)](en/) - 516 documents.
-* [Lois (français)](fr/) - 516 documents.
+* [Acts (English)](en/) - 517 documents.
+* [Lois (français)](fr/) - 517 documents.

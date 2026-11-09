@@ -9,9 +9,9 @@ language: "en"
 citation: "CCSM c M110"
 document_date: "1998-06-29"
 translation: "../fr/CCSM-c-M110.md"
-upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:10:20Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:10:22Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/m110.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:10:20Z"
+    last_modified: "2026-11-07T11:10:22Z"
 ---
 
 # The Mental Health Act
@@ -116,9 +116,13 @@ HER MAJESTY, by and with the advice and consent of the Legislative Assembly of M
 
 "qualified health professional" means
 
-(a) a physician, or
+(a) a physician,
 
-(b) a physician assistant or clinical assistant who is authorized under the College of Physicians and Surgeons of Manitoba General Regulation, Manitoba Regulation 163/2018, to conduct an examination and apply for an involuntary psychiatric assessment of a person under section 8; (« professionnel de la santé qualifié »)
+(b) a physician assistant or clinical assistant who is authorized under the College of Physicians and Surgeons of Manitoba General Regulation, Manitoba Regulation 163/2018, to conduct an examination and apply for an involuntary psychiatric assessment of a person under section 8;
+
+(c) a registered nurse certified to practise as a nurse practitioner under The Regulated Health Professions Act, or
+
+(d) a prescribed health professional who meets the prescribed qualifications; (« professionnel de la santé qualifié »)
 
 "restrain", with respect to a patient, means to place under control when necessary to prevent harm to the patient or to another person by the minimal use of such force, mechanical means or medication as is reasonable having regard to the patient's physical and mental condition; (« mettre en contention »)
 
@@ -2396,7 +2400,7 @@ S.M. 2021, c. 15, s. 96.
 
 (c) respecting the cost of maintenance of, and charges to be paid by or on behalf of, patients of facilities;
 
-(d) prescribing forms for use under this Act;
+(d) for the purposes of clause (d) of the definition "qualified health professional", prescribing health professionals and their qualifications;
 
 (d.1) for the purposes of subsections 8(1.1), 16(2.1) and 21(1.1), respecting examinations conducted without being in the presence of the person being examined, including
 
@@ -2425,6 +2429,8 @@ S.M. 2021, c. 15, s. 96.
 (i) prescribing the fair market value of personal property for the purpose of clause 80(1)(b);
 
 (j) respecting any matter the minister considers necessary or advisable connected with the duties of the Public Guardian and Trustee under this Act;
+
+(j.1) prescribing forms for use under this Act;
 
 (k) defining any word or expression used in this Act but not defined in this Act;
 

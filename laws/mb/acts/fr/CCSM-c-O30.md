@@ -9,9 +9,9 @@ language: "fr"
 citation: "CPLM c O30"
 document_date: "1987-01-01"
 translation: "../en/CCSM-c-O30.md"
-upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:11:55Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:11:57Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/o030.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:11:55Z"
+    last_modified: "2026-11-07T11:11:57Z"
 ---
 
 # Loi sur le temps réglementaire
@@ -36,25 +36,29 @@ SA MAJESTÉ, sur l'avis et du consentement de l'Assemblée législative du Manit
 
 1 Les définitions qui suivent s'appliquent à la présente loi.
 
-« heure normale du centre » Le temps moyen au 90e degré de longitude ouest à partir du méridien de Greenwich, savoir celui qui a six heures de retard par rapport au temps moyen de Greenwich. ("Central Standard Time")
+« heure normale du Manitoba » Temps en retard de cinq heures sur le temps universel coordonné (UTC). ("Manitoba Standard Time")
 
-« temps réglementaire » Le temps utilisé et suivi dans la province aux termes de l'article 2. ("official time")
+« ministre » Le ministre chargé par le lieutenant-gouverneur en conseil de l'application de la présente loi. ("minister")
+
+« temps réglementaire » Le temps utilisé et suivi dans la province en application de l'article 2. ("official time")
 
 ### Temps réglementaire
 
-2(1) Sous réserve des autres dispositions du présent article, l'heure normale du centre constitue le temps réglementaire qui est utilisé et suivi au Manitoba.
+2(1) L'heure normale du Manitoba constitue le temps réglementaire qui est utilisé et suivi dans la province.
 
-### Heure avancée
+### Désignation par le sigle « HNM »
 
-2(2) Sous réserve du paragraphe (3), l'heure avancée, qui est en avance d'une heure par rapport à l'heure normale du centre, est utilisée et suivie au Manitoba :
+2(1.1) Le temps réglementaire peut être désigné sous le sigle « HNM ».
 
-a) en 2006, à compter de deux heures le premier dimanche d'avril jusqu'à deux heures le dernier dimanche d'octobre;
-
-b) à partir de 2007, à compter de deux heures le deuxième dimanche de mars jusqu'à deux heures le premier dimanche de novembre.
+2(2) [Abrogé] L.M. 2023, c. 4, art. 3.
 
 ### Pouvoir du lieutenant-gouverneur en conseil
 
-2(3) Le lieutenant-gouverneur en conseil peut, par règlement, modifier une période visée au paragraphe (2) pendant laquelle est utilisée et suivie l'heure avancée.
+2(3) Sur recommandation du ministre, le lieutenant-gouverneur en conseil peut, par règlement, modifier le calcul de l'heure normale du Manitoba.
+
+### Éléments à prendre en considération
+
+2(4) Le ministre tient compte des fuseaux horaires applicables dans les territoires voisins lorsqu'il recommande de modifier le calcul de l'heure normale du Manitoba.
 
 ### Utilisation par les municipalités
 

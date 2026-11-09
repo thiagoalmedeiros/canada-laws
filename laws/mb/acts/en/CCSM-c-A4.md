@@ -9,9 +9,9 @@ language: "en"
 citation: "CCSM c A4"
 document_date: "2011-06-16"
 translation: "../fr/CCSM-c-A4.md"
-upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:00:45Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:00:47Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/a004.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:00:45Z"
+    last_modified: "2026-11-07T11:00:47Z"
 ---
 
 # The Adult Abuse Registry Act
@@ -174,7 +174,7 @@ HER MAJESTY, by and with the advice and consent of the Legislative Assembly of M
 
 ### Committee to review designated officer's report
 
-17 On receiving a report from a designated officer, the committee must review it in accordance with this Act.
+17 When the committee receives a report from a designated officer in which it is alleged that a person abused or neglected a specified adult, the committee must review the report in accordance with this Act.
 
 ### Further information
 
@@ -182,7 +182,7 @@ HER MAJESTY, by and with the advice and consent of the Legislative Assembly of M
 
 ### Opportunity to provide information to committee
 
-19 If the committee suspects that the abuse or neglect as reported by the designated officer has occurred, the committee must, in accordance with the regulations, give the person who is suspected of abusing or neglecting a specified adult an opportunity to provide information to the committee.
+19 In accordance with the regulations, the committee must give the person alleged in the report to have abused or neglected a specified adult an opportunity to provide information to the committee.
 
 ### Information reviewed
 
@@ -190,7 +190,7 @@ HER MAJESTY, by and with the advice and consent of the Legislative Assembly of M
 
 (a) the report and any further information provided by the designated officer; and
 
-(b) the information provided by the person who is suspected of abusing or neglecting a specified adult, if information was provided by the person under section 19.
+(b) the information provided by the person alleged in the report to have abused or neglected a specified adult, if information was provided by the person under section 19.
 
 ### Action by committee
 
@@ -206,7 +206,7 @@ HER MAJESTY, by and with the advice and consent of the Legislative Assembly of M
 
 21(1.1) The committee must report its opinions
 
-(a) to the person who is suspected of abusing or neglecting the specified adult, if the person was given an opportunity to provide information under section 19;
+(a) to the person alleged in the report to have abused or neglected the specified adult;
 
 (b) to the current or former employer of the person, if that employer or a manager or supervisor of that employer had received
 

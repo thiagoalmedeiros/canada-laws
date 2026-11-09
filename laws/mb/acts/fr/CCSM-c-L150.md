@@ -9,9 +9,9 @@ language: "fr"
 citation: "CPLM c L150"
 document_date: "2021-05-20"
 translation: "../en/CCSM-c-L150.md"
-upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:09:34Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:09:35Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/l150.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:09:34Z"
+    last_modified: "2026-11-07T11:09:35Z"
 ---
 
 # Loi sur les délais de prescription
@@ -276,6 +276,8 @@ b) les réclamations qui se rapportent à des voies de fait si, au moment de leu
 
 (ii) soit dépendait de lui, notamment sur le plan financier, affectif ou physique;
 
+b.1) les réclamations qui se rapportent au délit de violence entre partenaires intimes;
+
 c) les réclamations en recouvrement d'un bien-fonds, sauf dans les cas prévus à l'article 19;
 
 d) les réclamations faites par des débiteurs dans le but de racheter des biens personnels grevés qui sont en leur possession;
@@ -292,15 +294,15 @@ g) les réclamations de la Couronne à l'égard :
 
 ### Voies de fait
 
-18(2) Les alinéas (1)a) et b) s'appliquent aux réclamations qui concernent les actes ayant eu lieu avant ou après l'entrée en vigueur du présent article, sans égard à l'expiration de tout délai de prescription antérieurement applicable.
+18(2) Les alinéas (1)a), b) et b.1) s'appliquent aux réclamations qui concernent les actes ayant eu lieu avant ou après l'entrée en vigueur du présent article, sans égard à l'expiration de tout délai de prescription antérieurement applicable.
 
 ### Renaissance du droit d'introduire une instance — voies de fait
 
-18(3) Les alinéas (1)a) et b) font renaître le droit d'introduire une instance de tout requérant dont l'instance introduite avant l'entrée en vigueur de la présente loi avait été rejetée pour le seul motif qu'était expiré un délai de prescription antérieurement applicable.
+18(3) Les alinéas (1)a), b) et b.1) font renaître le droit d'introduire une instance de tout requérant dont l'instance introduite avant l'entrée en vigueur de la présente loi avait été rejetée pour le seul motif qu'était expiré un délai de prescription antérieurement applicable.
 
 ### Application d'un délai de prescription prévu par la Loi sur les fiduciaires
 
-18(4) Les alinéas (1)a) et b) sont assujettis au paragraphe 53(2) de la Loi sur les fiduciaires.
+18(4) Les alinéas (1)a), b) et b.1) sont assujettis au paragraphe 53(2) de la Loi sur les fiduciaires.
 
 ### Définition de « voies de fait »
 

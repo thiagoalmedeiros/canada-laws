@@ -9,9 +9,9 @@ language: "en"
 citation: "CCSM c L153"
 document_date: "2013-12-05"
 translation: "../fr/CCSM-c-L153.md"
-upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:09:36Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:09:37Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/l153.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:09:36Z"
+    last_modified: "2026-11-07T11:09:37Z"
 ---
 
 # The Liquor, Gaming and Cannabis Control Act
@@ -1720,7 +1720,7 @@ A licence that authorizes the holder to operate a cannabis store in which cannab
 
 2. Age-restricted licence
 
-A licence that authorizes the holder to operate a cannabis store that young persons are prohibited from entering and in which measures specified by the executive director must be implemented to prevent persons outside the store from viewing the interior of the store.
+A licence that authorizes the holder to operate a cannabis store that young persons are prohibited from entering.
 
 ### No controlled-access licences in major urban areas
 
@@ -3093,6 +3093,8 @@ may at any time issue a warrant authorizing an inspector and any other person na
 (i) prescribing the days and hours when cannabis must not be sold in cannabis stores;
 
 (i.1) [repealed] S.M. 2023, c. 8, s. 2;
+
+(i.2) prescribing the minimum number of staff working at cannabis stores or the minimum number of staff working during specified hours of store operation;
 
 (j) exempting a specified class of cannabis or a specified product containing cannabis from the application of this Act or specified provisions of this Act.
 

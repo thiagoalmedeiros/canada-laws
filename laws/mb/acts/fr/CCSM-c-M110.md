@@ -9,9 +9,9 @@ language: "fr"
 citation: "CPLM c M110"
 document_date: "1998-06-29"
 translation: "../en/CCSM-c-M110.md"
-upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:10:20Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:10:22Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/m110.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:10:20Z"
+    last_modified: "2026-11-07T11:10:22Z"
 ---
 
 # Loi sur la santé mentale
@@ -108,7 +108,11 @@ b) du tuteur et curateur public, si aucune des personnes que vise l'alinéa a) n
 
 a) Médecin;
 
-b) auxiliaire médical ou assistant médical qui est autorisé en vertu du Règlement général sur l'Ordre des médecins et chirurgiens du Manitoba, R.M. 163/2018, à examiner une personne et à demander l'évaluation psychiatrique obligatoire de la personne conformément à l'article 8. ("qualified health professional")
+b) auxiliaire médical ou assistant médical qui est autorisé en vertu du Règlement général sur l'Ordre des médecins et chirurgiens du Manitoba, R.M. 163/2018, à examiner une personne et à demander l'évaluation psychiatrique obligatoire de la personne conformément à l'article 8;
+
+c) infirmier titulaire d'un certificat lui permettant d'exercer à titre d'infirmier praticien sous le régime de la Loi sur les professions de la santé réglementées ;
+
+d) professionnel de la santé désigné par règlement qui possède les compétences réglementaires. ("qualified health professional")
 
 « psychiatre » Personne qui est inscrite sous le régime de la Loi sur les professions de la santé réglementées, est titulaire d'un certificat d'exercice délivré sous le régime de cette loi et qui, selon le cas :
 
@@ -2378,7 +2382,7 @@ b) régir la gestion des établissements;
 
 c) prendre des mesures concernant le coût de l'entretien des malades qui se trouvent dans des établissements et les frais qu'ils doivent payer ou qui doivent être payés en leur nom;
 
-d) prévoir les formules à utiliser dans le cadre de la présente loi;
+d) pour l'application de l'alinéa d) de la définition de « professionnel de la santé qualifié », désigner des professionnels de la santé et prévoir les compétences qu'ils doivent posséder;
 
 d.1) pour l'application des paragraphes 8(1.1), 16(2.1) et 21(1.1), prendre des mesures concernant les examens effectués sans la présence de la personne examinée, notamment :
 
@@ -2407,6 +2411,8 @@ h) régir les activités de la Commission d'examen et, notamment :
 i) fixer la juste valeur marchande de biens personnels pour l'application de l'alinéa 80(1)b);
 
 j) prendre toute mesure qu'il estime nécessaire ou utile relativement aux fonctions que la présente loi confère au tuteur et curateur public;
+
+j.1) prévoir les formules à utiliser dans le cadre de la présente loi;
 
 k) définir les termes ou les expressions qui sont utilisés dans la présente loi, mais qui n'y sont pas définis;
 

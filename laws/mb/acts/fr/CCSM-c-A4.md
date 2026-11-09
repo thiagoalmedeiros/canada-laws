@@ -9,9 +9,9 @@ language: "fr"
 citation: "CPLM c A4"
 document_date: "2011-06-16"
 translation: "../en/CCSM-c-A4.md"
-upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:00:45Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:00:47Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/a004.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:00:45Z"
+    last_modified: "2026-11-07T11:00:47Z"
 ---
 
 # Loi sur le registre des mauvais traitements infligés aux adultes
@@ -172,7 +172,7 @@ b) d'exercer les autres fonctions que lui confie le ministre responsable.
 
 ### Examen du rapport d'un fonctionnaire désigné
 
-17 Lorsqu'il reçoit un rapport d'un fonctionnaire désigné, le comité l'examine en conformité avec la présente loi.
+17 Le comité examine en conformité avec la présente loi les rapports qu'il reçoit d'un fonctionnaire désigné et qui allèguent qu'une personne a infligé des mauvais traitements à un adulte visé ou a fait preuve de négligence à son endroit.
 
 ### Renseignements supplémentaires
 
@@ -180,7 +180,7 @@ b) d'exercer les autres fonctions que lui confie le ministre responsable.
 
 ### Possibilité de fournir des renseignements
 
-19 S'il soupçonne que les mauvais traitements ou la négligence signalés dans le rapport du fonctionnaire désigné ont eu lieu, le comité donne à la personne qui en serait l'auteur, en conformité avec les règlements, la possibilité de lui fournir des renseignements.
+19 Conformément aux règlements, le comité donne à la personne qui, selon le rapport, aurait infligé des mauvais traitements à un adulte visé ou aurait fait preuve de négligence à son endroit la possibilité de lui fournir des renseignements.
 
 ### Examen des renseignements
 
@@ -188,7 +188,7 @@ b) d'exercer les autres fonctions que lui confie le ministre responsable.
 
 a) le rapport et les renseignements supplémentaires communiqués par le fonctionnaire désigné;
 
-b) les renseignements fournis, le cas échéant, par la personne soupçonnée d'avoir infligé des mauvais traitements à un adulte visé ou d'avoir fait preuve de négligence à son endroit.
+b) les renseignements qui lui sont fournis en vertu de l'article 19 par la personne qui, selon le rapport, aurait infligé des mauvais traitements à un adulte visé ou aurait fait preuve de négligence à son endroit.
 
 ### Mesures prises par le comité
 
@@ -204,7 +204,7 @@ c) [abrogé] L.M. 2015, c. 12, art. 3.
 
 21(1.1) Le comité fait rapport de ses opinions :
 
-a) à la personne soupçonnée d'avoir infligé des mauvais traitements à l'adulte visé ou d'avoir fait preuve de négligence à son endroit, si elle a eu la possibilité de fournir des renseignements conformément à l'article 19;
+a) à la personne qui, selon le rapport, aurait infligé des mauvais traitements à l'adulte visé ou aurait fait preuve de négligence à son endroit;
 
 b) à l'employeur actuel ou antérieur de la personne, si cet employeur, son directeur ou son superviseur avaient reçu soit :
 

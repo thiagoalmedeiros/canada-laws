@@ -233,6 +233,7 @@
 * [Loi sur la stabilisation des mineurs toxicomanes (aide aux parents)](CCSM-c-Y50.md) - Loi (Manitoba), CPLM c Y50.
 * [Loi sur la stratégie de réduction de la pauvreté](CCSM-c-P94.7.md) - Loi (Manitoba), CPLM c P94.7.
 * [Loi sur la stratégie en matière d'habitation coopérative](CCSM-c-C221.md) - Loi (Manitoba), CPLM c C221.
+* [Loi sur la stratégie sur l'autisme](CCSM-c-A185.md) - Loi (Manitoba), CPLM c A185.
 * [Loi sur la succession des soldats](CCSM-c-S170.md) - Loi (Manitoba), CPLM c S170.
 * [Loi sur la sécurité dans les tribunaux](CCSM-c-C295.md) - Loi (Manitoba), CPLM c C295.
 * [Loi sur la sécurité de la Cité législative](CCSM-c-L122.md) - Loi (Manitoba), CPLM c L122.

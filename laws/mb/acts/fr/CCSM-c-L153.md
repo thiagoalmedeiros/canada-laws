@@ -9,9 +9,9 @@ language: "fr"
 citation: "CPLM c L153"
 document_date: "2013-12-05"
 translation: "../en/CCSM-c-L153.md"
-upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:09:36Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:09:37Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/l153.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:09:36Z"
+    last_modified: "2026-11-07T11:09:37Z"
 ---
 
 # Loi sur la réglementation des alcools, des jeux et du cannabis
@@ -1189,12 +1189,12 @@ b) d'autre part, distribuer ou vendre au public des billets ou d'autres titres d
 | Concédant de centre de jeux de hasard | agir à titre de concédant de centre de jeux de hasard |
 | Exploitant de site | agir à titre d'exploitant de site |
 | Détaillant de billets de loterie | agir à titre de détaillant de billets de loterie |
-| Fournisseur d'articles de jeux de hasard | agir à titre de fournisseur d'articles de jeux de hasard |
-| Fournisseur de services liés aux jeux de hasard | agir à titre de fournisseur de services liés aux jeux de hasard |
-| se rendre régulièrement dans les locaux où se déroule une loterie afin de fournir des services liés aux jeux de hasard |  |
+| Fournisseur d'articles de jeux de | agir à titre de fournisseur d'articles de jeux de hasard |
+| Fournisseur de services liés aux jeux de hasard | agir à titre de fournisseur de services liés aux jeux de |
+| se rendre régulièrement dans les locaux où se déroule une loterie afin de fournir des services liés aux jeux de |  |
 | Préposé aux jeux de hasard | être un employé de la Société |
 | être un employé d'un exploitant de jeux de hasard |  |
-| Utilisateur d'un dispositif de jeu électronique | utiliser un dispositif de jeu électronique dans le cadre d'une activité de jeu provinciale |
+| Utilisateur d'un dispositif de jeu | utiliser un dispositif de jeu électronique dans le cadre d'une activité de jeu |
 
 ### Licence d'activité de jeu
 
@@ -1638,7 +1638,7 @@ Licence autorisant le titulaire à exploiter un magasin de cannabis où tous les
 
 2. Licence pour magasin de cannabis interdit aux jeunes
 
-Licence autorisant le titulaire à exploiter un magasin de cannabis où l'accès est interdit aux jeunes. Le titulaire est tenu d'y prendre les mesures que précise le directeur général pour que le public se trouvant à l'extérieur ne puisse voir l'intérieur de l'établissement.
+Licence autorisant le titulaire à exploiter un magasin de cannabis où l'accès est interdit aux jeunes.
 
 ### Interdiction de délivrer une licence pour magasin où l'accès au cannabis est contrôlé dans une zone urbaine d'importance
 
@@ -2991,6 +2991,8 @@ h) régir la publicité portant sur les boissons alcoolisées, les loteries et l
 i) fixer les jours et les heures pendant lesquels du cannabis ne peut être vendu dans les magasins de cannabis;
 
 i.1) [abrogé] L.M. 2023, c. 8, art. 2 ;
+
+i.2) fixer le nombre minimal d'employés devant être en service dans les magasins de cannabis, notamment pendant certaines heures d'ouverture;
 
 j) soustraire une catégorie de cannabis donnée ou un produit donné contenant du cannabis à l'application de la présente loi ou de certaines de ses dispositions.
 

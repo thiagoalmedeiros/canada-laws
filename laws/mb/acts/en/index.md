@@ -29,6 +29,7 @@
 * [The Archives and Recordkeeping Act](CCSM-c-A132.md) - Manitoba Act, CCSM c A132.
 * [The Arts Council Act](CCSM-c-A140.md) - Manitoba Act, CCSM c A140.
 * [The Auditor General Act](CCSM-c-A180.md) - Manitoba Act, CCSM c A180.
+* [The Autism Strategy Act](CCSM-c-A185.md) - Manitoba Act, CCSM c A185.
 * [The Bee Act](CCSM-c-B15.md) - Manitoba Act, CCSM c B15.
 * [The Beneficiary Designation Act (Retirement, Savings and Other Plans)](CCSM-c-B30.md) - Manitoba Act, CCSM c B30.
 * [The Bilingual Service Centres Act](CCSM-c-B37.md) - Manitoba Act, CCSM c B37.

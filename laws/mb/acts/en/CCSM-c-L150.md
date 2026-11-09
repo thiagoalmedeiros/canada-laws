@@ -9,9 +9,9 @@ language: "en"
 citation: "CCSM c L150"
 document_date: "2021-05-20"
 translation: "../fr/CCSM-c-L150.md"
-upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:09:34Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:09:35Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/l150.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:09:34Z"
+    last_modified: "2026-11-07T11:09:35Z"
 ---
 
 # The Limitations Act
@@ -278,6 +278,8 @@ must not be commenced more than 30 years after the day the act or omission on wh
 
 (ii) was financially, emotionally, physically or otherwise dependent on the person alleged to have committed the assault;
 
+(b.1) a claim relating to the tort of intimate partner violence;
+
 (c) a claim to recover possession of land, except as provided in section 19;
 
 (d) a claim by a debtor in possession of collateral that is personal property to redeem it;
@@ -294,15 +296,15 @@ must not be commenced more than 30 years after the day the act or omission on wh
 
 ### Sexual assault, etc.
 
-18(2) Clauses (1)(a) and (b) apply to a claim respecting an act that occurred before or after the coming into force of this section and regardless of the expiry of any previous limitation period that applied.
+18(2) Clauses (1)(a), (b) and (b.1) apply to a claim respecting an act that occurred before or after the coming into force of this section and regardless of the expiry of any previous limitation period that applied.
 
 ### Revival of right to claim re sexual assault, etc.
 
-18(3) Clauses (1)(a) and (b) operate to revive a claimant's right to commence a proceeding if a proceeding brought by the claimant before this Act came into force was dismissed for the sole reason that a limitation period that had previously applied had expired.
+18(3) Clauses (1)(a), (b) and (b.1) operate to revive a claimant's right to commence a proceeding if a proceeding brought by the claimant before this Act came into force was dismissed for the sole reason that a limitation period that had previously applied had expired.
 
 ### Limitation period in Trustee Act applies
 
-18(4) Clauses (1)(a) and (b) are subject to subsection 53(2) of The Trustee Act (two-year limit on action against personal representative).
+18(4) Clauses (1)(a), (b) and (b.1) are subject to subsection 53(2) of The Trustee Act (two-year limit on action against personal representative).
 
 ### Definition of "assault"
 
@@ -560,7 +562,7 @@ Claim discovered on or after transition date
 
 31.3(3) In the case of a claim discovered on or after its transition date, this Act applies, whether or not the former limitation period that applied has expired, as if the act or omission on which the claim is based occurred on the transition date.
 
-NOTE: Sections 32 to 50 are published in the chapter version of this Act (S.M. 2021, c. 44).
+NOTE: Sections 32 to 50 are published in the chapter version of this Act (S.M.﻿ 2021, c. 44).
 
 ### CONSEQUENTIAL AMENDMENTS
 

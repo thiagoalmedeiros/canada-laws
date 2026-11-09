@@ -9,9 +9,9 @@ language: "en"
 citation: "CCSM c O30"
 document_date: "1987-01-01"
 translation: "../fr/CCSM-c-O30.md"
-upstream_license: "See upstream license: https://perma.cc/6XPS-5YTQ © King's Printer for Manitoba. Reproduced from the Manitoba Laws website (https://web2.gov.mb.ca/laws/), subject to the Government of Manitoba copyright terms (available at https://manitoba.ca/legal/copyright.html and https://manitoba.ca/legal/mb_laws.html). NOTE: This is an unofficial reproduction of Manitoba legislation, made without endorsement or affiliation by the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:11:55Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:11:57Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/o030.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:11:55Z"
+    last_modified: "2026-11-07T11:11:57Z"
 ---
 
 # The Official Time Act
@@ -34,27 +34,31 @@ HER MAJESTY, by and with the advice and consent of the Legislative Assembly of M
 
 ### Definitions
 
-1 In this Act
+1 The following definitions apply in this Act.
 
-"Central Standard Time" means the mean time of the 90th degree of longitude west from Greenwich which is six hours behind Greenwich time; (« heure normale du centre »)
+"Manitoba Standard Time" means five hours behind Coordinated Universal Time (UTC). (« heure normale du Manitoba »)
 
-"official time" means the time which under section 2 is required to be used and observed throughout the province. (« temps réglementaire »)
+"minister" means the minister appointed by the Lieutenant Governor in Council to administer this Act. (« ministre »)
+
+"official time" means the time required to be used and observed throughout the province under section 2. (« temps réglementaire »)
 
 ### Description of official time
 
-2(1) Except as provided in this section, Central Standard Time must be used and observed throughout the province as the official time.
+2(1) Manitoba Standard Time must be used and observed throughout the province as the official time.
 
-### Daylight saving time
+### Reference to Manitoba Standard Time
 
-2(2) Subject to subsection (3), daylight saving time — being the time one hour in advance of Central Standard Time — must be used and observed throughout the province
+2(1.1) The official time may be referred to as "MBT".
 
-(a) in 2006, from 2:00 a.m. on the first Sunday in April until 2:00 a.m. on the last Sunday in October; and
-
-(b) in 2007 and every year after that, from 2:00 a.m. on the second Sunday in March until 2:00 a.m. on the first Sunday in November.
+2(2) [Repealed] S.M. 2023, c. 4, s. 3.
 
 ### Power to vary
 
-2(3) The Lieutenant Governor in Council may make regulations varying a period of daylight saving time established by subsection (2).
+2(3) On the recommendation of the minister, the Lieutenant Governor in Council may make regulations varying the reckoning of Manitoba Standard Time.
+
+### Considerations re varying
+
+2(4) When recommending that the reckoning of Manitoba Standard Time be varied, the minister must have due regard for the applicable time zone in neighbouring jurisdictions.
 
 ### Prohibition of municipal action respecting time
 
