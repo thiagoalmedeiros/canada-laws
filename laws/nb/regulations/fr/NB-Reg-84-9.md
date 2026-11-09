@@ -9,9 +9,9 @@ language: "fr"
 citation: "Règl du N-B 84-9"
 document_date: "1984-01-23"
 translation: "../en/NB-Reg-84-9.md"
-upstream_license: "See upstream license: https://perma.cc/8442-YF8V © King's Printer for New Brunswick. Reproduced from laws.gnb.ca subject to the Government of New Brunswick disclaimer and copyright notice (https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html). NOTE: This is an unofficial reproduction of New Brunswick regulations, made without endorsement or affiliation by the Government of New Brunswick. Official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html; Archived (as of 6 November 2026): https://perma.cc/8442-YF8V; Note: © King's Printer for New Brunswick. Source: laws.gnb.ca. The Crown in right of the Province of New Brunswick retains title to all rights, including copyright, in New Brunswick Acts and regulations and assumes no responsibility for the accuracy, reliability or currency of this unofficial reproduction or any materials derived therefrom. The official New Brunswick Acts and regulations can be found on the Province's website: Acts and Regulations - Attorney General (https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations.html). This reproduction of New Brunswick regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of New Brunswick. Official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:35:02Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:35:33Z }
 sources:
   - id: "official"
     resource: "https://laws.gnb.ca/en/document/cr/84-9"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-NB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:35:02Z"
+    last_modified: "2026-11-07T11:35:33Z"
 ---
 
 # Règles de la Cour des successions
@@ -146,13 +146,23 @@ et qu’il est voulu que la Cour confirme la nomination de l’exécuteur testam
 
 2.04 Administration
 
-(1) La demande de lettres d’administration non accompagnées d’un testament doit comprendre le nom de ceux qui sont en droit de partager la succession non testamentaire et indiquer s’il y a consentement ou renonciation de tous ceux qui ont un droit égal ou prioritaire à l’octroi des lettres.
+(1) Sous réserve de la règle 2.041, la demande de lettres d’administration non accompagnées d’un testament doit comprendre le nom de ceux qui sont en droit de partager la succession non testamentaire et indiquer s’il y a consentement ou renonciation de tous ceux qui ont un droit égal ou prioritaire à l’octroi des lettres.
 
 (2) La Cour peut ordonner qu’avis soit donné à toutes les personnes ayant des droits égaux ou prioritaires à l’octroi et qui n’y ont pas renoncé ou qui n’ont pas donné leur consentement.
 
 (3) Lorsqu’il n’y a aucun proche parent connu ou que les seuls proches parents sont mineurs, la Cour peut ordonner qu’avis soit donné en la manière qu’elle l’ordonne.
 
-90-44
+90-44; 2026-65
+
+2.041 Demande de lettres d’administration par le curateur public
+
+(1) Par dérogation à toute autre règle, si le curateur public lui présente une demande de lettres d’administration – accompagnées ou non du testament – et la convainc qu’il n’y a aucun proche parent connu, que les proches parents ne peuvent être trouvés ou qu’il serait difficile de leur signifier des documents, la Cour peut rendre l’une ou l’autre des ordonnances qui suivent, ou les deux :
+
+a) une ordonnance le dispensant de l’obligation d’obtenir leur consentement ou leur renonciation;
+
+b) une ordonnance exigeant que tout avis soit donné de la manière qu’elle précise.
+
+2026-65
 
 2.05 Administration de bonis non administratis
 

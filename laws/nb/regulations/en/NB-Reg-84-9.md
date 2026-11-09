@@ -9,9 +9,9 @@ language: "en"
 citation: "NB Reg 84-9"
 document_date: "1984-01-23"
 translation: "../fr/NB-Reg-84-9.md"
-upstream_license: "See upstream license: https://perma.cc/8442-YF8V © King's Printer for New Brunswick. Reproduced from laws.gnb.ca subject to the Government of New Brunswick disclaimer and copyright notice (https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html). NOTE: This is an unofficial reproduction of New Brunswick regulations, made without endorsement or affiliation by the Government of New Brunswick. Official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html; Archived (as of 6 November 2026): https://perma.cc/8442-YF8V; Note: © King's Printer for New Brunswick. Source: laws.gnb.ca. The Crown in right of the Province of New Brunswick retains title to all rights, including copyright, in New Brunswick Acts and regulations and assumes no responsibility for the accuracy, reliability or currency of this unofficial reproduction or any materials derived therefrom. The official New Brunswick Acts and regulations can be found on the Province's website: Acts and Regulations - Attorney General (https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations.html). This reproduction of New Brunswick regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of New Brunswick. Official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:35:02Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:35:33Z }
 sources:
   - id: "official"
     resource: "https://laws.gnb.ca/en/document/cr/84-9"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-NB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:35:02Z"
+    last_modified: "2026-11-07T11:35:33Z"
 ---
 
 # Probate Rules
@@ -148,13 +148,23 @@ and it is desired that the appointment of the executor referred to in clause (a)
 
 2.04 Administration
 
-(1) An application for letters of administration without will annexed shall include the names of those persons entitled to share on the intestacy and shall show whether every person having a prior or equal right to a grant of letters has consented or renounced.
+(1) Subject to Rule 2.041, an application for letters of administration without will annexed shall include the names of those persons entitled to share on the intestacy and shall show whether every person having a prior or equal right to a grant of letters has consented or renounced.
 
 (2) The Court may direct that notice be given to every person having a prior or equal right to a grant who has not consented or renounced.
 
 (3) Where there are no known next-of-kin or where the only next-of-kin are minors, the Court may order a notice to be given in such manner as the Court directs.
 
-90-44
+90-44; 2026-65
+
+2.041 Application for Letters of Administration by the Public Trustee
+
+(1) Despite any other rule, if the Public Trustee makes an application for letters of administration with or without will annexed to the Court and satisfies the Court that there is no known next-of-kin, that next-of-kin cannot be located or that service of documents on next-of-kin is impractical, the Court may make one or both of the following orders:
+
+(a) an order waiving the obligation for the Public Trustee to obtain the consent or renunciation of the next-of-kin;
+
+(b) an order requiring that notice be given in any manner that the Court specifies.
+
+2026-65
 
 2.05 Administration De Bonis Non Administratis
 
