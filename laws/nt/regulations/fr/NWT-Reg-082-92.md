@@ -9,7 +9,7 @@ language: "fr"
 citation: "Règl des TN-O 082-92"
 document_date: "1992-01-01"
 translation: "../en/NWT-Reg-082-92.md"
-upstream_license: "See upstream license: https://perma.cc/53TS-5745 © Government of the Northwest Territories. Reproduced from https://www.justice.gov.nt.ca/en/legislation/ in accordance with the copyright notice on that site. NOTE: This is an unofficial reproduction of Northwest Territories regulations, made without endorsement or affiliation by the Government of the Northwest Territories. Official versions should be consulted for all purposes of interpreting and applying the law."
+upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://gnwt.ca/laws-crime-and-justice/legislation-and-legislative-publications#copyright-notice; Archived (as of 6 November 2026): https://perma.cc/KP9E-VMAV; Note: © Government of the Northwest Territories. Source: Government of the Northwest Territories (https://gnwt.ca/laws-crime-and-justice/legislation-and-legislative-publications). This reproduction of Northwest Territories regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of the Northwest Territories. Official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
 generated: { by: process:canada-laws-provincial-converter, at: 2026-10-17T11:30:10Z }
 sources:

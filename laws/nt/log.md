@@ -1,5 +1,8 @@
 # Northwest Territories: update log
 
+## 2026-11-09
+* **Update**: Refreshed from the A2AJ Canadian Laws dataset (1604 laws added, changed or removed).
+
 ## 2026-10-26
 * **Update**: Refreshed from the A2AJ Canadian Laws dataset (1604 laws added, changed or removed).
 
