@@ -1,13 +1,13 @@
 ---
 type: "Jurisdiction"
 title: "Nova Scotia"
-description: "627 Acts and 1410 regulations of Nova Scotia, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
+description: "627 Acts and 1395 regulations of Nova Scotia, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
 resource: "https://nslegislature.ca/legislative-business/legislative-documents"
 tags: ["ns", "jurisdiction"]
 jurisdiction: "ns"
 acts_en: 627
 acts_fr: 0
-regulations_en: 1410
+regulations_en: 1395
 regulations_fr: 0
 status: "stable"
 generated: { by: process:canada-laws-provincial-converter }
@@ -35,7 +35,7 @@ The Acts and regulations of Nova Scotia (Nouvelle-Écosse), as published by Prov
 | | English | Français |
 |---|---|---|
 | Acts / Lois | [627](acts/en/) | — |
-| Regulations / Règlements | [1410](regulations/en/) | — |
+| Regulations / Règlements | [1395](regulations/en/) | — |
 
 # Concepts
 
