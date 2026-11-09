@@ -8,7 +8,7 @@ jurisdiction: "bc"
 language: "en"
 citation: "BC Reg 26/58"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:56:23Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:55:59Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/26_58_00_multi/xml"
@@ -18,7 +18,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:56:23Z"
+    last_modified: "2026-11-07T11:55:59Z"
 ---
 
 # Motor Vehicle Act Regulations
@@ -4194,7 +4194,7 @@ TURN CONTROL SIGNS (Regulatory)
 | [Image] 60 x 60 cm | [Image] 60 x 60 cm | [Image] 60 x 60 cm |
 | No Left Turn | No U Turn | No Right Turn |
 | Colour: The 3 signs above have red rings and diagonal bars, black arrows and borders on white backgrounds. Red and white reflectorized. Conditional tabs may be used indicating the times and days of the week the control is in effect and what vehicle types are exempt. For example: | | |
-| 4:00‒6:00 p.m. Mon.‒Fri. | OR | Buses Exempt. |
+| 4:00–6:00 p.m. Mon.–Fri. | OR | Buses Exempt. |
 
 LANE USE SIGNS (Regulatory)
 
@@ -6132,7 +6132,11 @@ For breaches listed in this table, the number of point penalties recorded shall 
 
 *bus* means a motor vehicle having a seating capacity of more than 10 persons, including the driver, that is operated for hire or for public transportation;
 
+*compliant driving history* means a total period of driving experience that is uninterrupted by a prohibition or suspension specified in subsection (4) and in relation to a new Class 5 graduate, is accumulated after the graduation date, and in relation to a new Class 5 graduate, is accumulated after the graduation date, and
+
 *construction vehicle* means any motor vehicle or combination of vehicles known or described as a tractor, grader, loader, shovel, roller, scraper or any other self propelled road building machine that is used for grading of highways, paving of highways or other construction work, but does not include a truck, truck tractor, mobile truck crane or truck mounted backhoe that has 3 or more axles;
+
+*graduation date* means the date on which a new Class 5 graduate obtains their first Class 5 licence in accordance with section 30.05 (3) (c);
 
 *immediate family member* means a spouse, parent, grandparent, child, grandchild, sibling, step-parent, step-grandparent, step-child, step-grandchild, step-sibling, foster parent, foster grandparent, foster child, foster grandchild or foster sibling;
 
@@ -6144,17 +6148,29 @@ For breaches listed in this table, the number of point penalties recorded shall 
 
 *mobile truck crane* means a motor vehicle with a crane permanently affixed, with or without a booster dolly or booster axles, designed and used primarily for lifting or hoisting objects and operated or moved over a highway incidentally to its designed purpose or function;
 
+*new Class 5 graduate* means a person who obtains a Class 5 licence in accordance with section 30.05 (3) (c), or a person described in paragraph (a) who, after the graduation date, obtains a sequential Class 5 licence;
+
+*new resident Class 5 holder* means one of the following persons: a person under 25 years of age who has less than 36 months of qualifying transfer history on the transfer date, and who obtains a British Columbia Class 5 licence in accordance with section 30.05 (3) (d), or after obtaining a British Columbia Class 5L licence in accordance with section 30.05 (4) (b), obtains a Class 5 licence in accordance with section 30.05 (3) (e); a person at least 25 years of age who has less than 24 months of qualifying transfer history on the transfer date, and who obtains a British Columbia Class 5 licence in accordance with section 30.05 (3) (d), or after obtaining a British Columbia Class 5L licence in accordance with section 30.05 (3) (b), obtains a Class 5 licence in accordance with section 30.05 (3) (e); a person described in paragraph (a) or (b) who, after the transfer date, obtains a sequential Class 5 licence;
+
 *non-learner driving experience* means the total amount of time a person has held a valid driver's licence other than a learner's licence, which licence may have been issued by another jurisdiction, and does not include any periods of time during which the licence was suspended other than under section 90.3 of the Act, the licence was surrendered, or the licence holder was prohibited from driving other than under section 215 of the Act;
 
-*practical driver training* means practical driver training as defined in section 27.01.
+*practical driver training* means practical driver training as defined in section 27.01;
+
+*qualifying transfer history* means driving experience, which may have been interrupted by a prohibition or suspension specified in subsection (4) (b), that qualifies a new resident Class 5 holder to obtain their first British Columbia Class 5 licence in accordance with section 30.05, and is accumulated before the transfer date;
+
+*sequential Class 5 licence* in relation to a new Class 5 graduate or a new resident Class 5 holder, means a Class 5 licence that the person obtains in accordance with section 30.05 (3) (b) because the person's previous Class 5 licence was cancelled, suspended, revoked, surrendered or expired before the end of the applicable zero-tolerance period set out in section 30.111 or 30.112;
+
+*transfer date* means the date on which a new resident Class 5 holder obtains their first British Columbia Class 5 licence;
+
+*zero-tolerance period* in relation to a new Class 5 graduate or a new resident Class 5 holder, means the period set out in section 30.111 or 30.112 that applies to the person.
 
 (2) The classes of driver's licences and the categories of motor vehicles that the holders of each class of licence are permitted to drive are as follows:
 
-(a) Class 8 licence, subject to the applicable conditions and restrictions under sections 30.10 (4), 30.11 (1) and 30.12 (1), permits operation of a motorcycle, an all terrain cycle or an all terrain vehicle;
+(a) Class 8 licence, subject to the applicable conditions and restrictions under sections 30.10 (4), 30.11 and 30.12 (1), permits operation of a motorcycle, an all terrain cycle or an all terrain vehicle;
 
-(b) Class 8L licence is a learner's licence that, subject to the applicable conditions and restrictions under sections 30.06 (4), (7) (b) and (8), 30.07 (1), 30.08 (1) and (2), 30.09 (5), 30.10 (2) and 30.11 (1), permits operation of a motor vehicle or combination of vehicles for which a Class 8 licence is required;
+(b) Class 8L licence is a learner's licence that, subject to the applicable conditions and restrictions under sections 30.06 (4), (7) (b) and (8), 30.07 (1), 30.08 (1) and (2), 30.09 (5), 30.10 (2) and 30.11, permits operation of a motor vehicle or combination of vehicles for which a Class 8 licence is required;
 
-(c) Class 7 licence, subject to the applicable conditions and restrictions under sections 30.10 (4) and 30.11 (1), permits operation of
+(c) Class 7 licence, subject to the applicable conditions and restrictions under sections 30.10 (4) and 30.11, permits operation of
 
 (i) a 2 axle motor vehicle other than a motorcycle, but does not include a bus, school bus, special activity bus, special vehicle, taxi or ambulance, when used for its purpose as intended by design,
 
@@ -6172,11 +6188,11 @@ For breaches listed in this table, the number of point penalties recorded shall 
 
 (B) has a seating capacity of not more than 10 passengers including the driver;
 
-(d) Class 7L licence is a learner's licence that, subject to the applicable conditions and restrictions under sections 30.06 (1) and (2), 30.07 (3), 30.09 (3), 30.10 (2) and 30.11 (1), permits operation of a motor vehicle or combination of vehicles for which a Class 7 licence is required;
+(d) Class 7L licence is a learner's licence that, subject to the applicable conditions and restrictions under sections 30.06 (1) and (2), 30.07 (3), 30.09 (3), 30.10 (2) and 30.11, permits operation of a motor vehicle or combination of vehicles for which a Class 7 licence is required;
 
 (e) Class 6 licence permits operation of a motor vehicle or combination of vehicles for which a Class 8 licence is required, subject to any applicable restriction under section 30.12 (1);
 
-(f) Class 6L licence is a learner's licence that, subject to the applicable conditions and restrictions under sections 30.06 (4), (7) (a) and (8), 30.07 (1), 30.08 (1) and (2) and 30.09 (1) and (11), permits operation of a motor vehicle or combination of vehicles for which a Class 6 licence is required;
+(f) Class 6L licence is a learner's licence that, subject to the applicable conditions and restrictions under sections 30.06 (4), (7) (a) and (8), 30.07 (1), 30.08 (1) and (2) and 30.09 (1), permits operation of a motor vehicle or combination of vehicles for which a Class 6 licence is required;
 
 (g) Class 5 licence permits
 
@@ -6184,7 +6200,7 @@ For breaches listed in this table, the number of point penalties recorded shall 
 
 (ii) if permitted on the licence, operation of a combination of vehicles referred to in paragraph (c) (ii) or (iii) that are without air brakes even if the towed vehicles in that combination exceed 4 600 kg;
 
-(h) Class 5L licence is a learner's licence that, subject to the applicable conditions and restrictions under sections 30.06 (1) and 30.09 (8) and (9), permits operation of a motor vehicle or combination of vehicles for which a Class 5 licence referred to in paragraph (g) (i) is required;
+(h) Class 5L licence is a learner's licence that, subject to the applicable conditions and restrictions under section 30.06 (1.01), permits operation of a motor vehicle or combination of vehicles for which a Class 5 licence referred to in paragraph (g) (i) is required;
 
 (i) Class 4 licence permits
 
@@ -6232,6 +6248,12 @@ For breaches listed in this table, the number of point penalties recorded shall 
 
 (3) A Class 4L licence may not permit operation of a motor vehicle referred to in subsection (2) (g) (ii) or (i) (iii) or (v).
 
+(4) For the purposes of the definition of "compliant driving history", the following prohibitions and suspensions are specified:
+
+(a) a prohibition under section 93, 94.1, 98, 99, 100 or 215.43 of the Act or a suspension under section 232 of the Act;
+
+(b) a prohibition or suspension as a result of a conviction for a motor vehicle related Criminal Code offence, or of a conviction in any other jurisdiction for an offence that is similar to a motor vehicle related Criminal Code offence, as determined by the Insurance Corporation of British Columbia.
+
 ### Mandatory entry-level training course
 
 30.011 For the purposes of section 23 (1) (a.1) of the Act, the Class 1 mandatory entry-level training course
@@ -6244,7 +6266,7 @@ For breaches listed in this table, the number of point penalties recorded shall 
 
 30.02 The operation of a vehicle equipped with air brakes, other than a construction vehicle, is not permitted by any class of licence referred to in section 30.01 unless specifically permitted in the licence.
 
-### Exemptions
+### Exemptions — peace officer, inspector and examiner
 
 30.03 A peace officer, a person authorized to inspect vehicles pursuant to the Motor Vehicle Inspectors Authorization Regulation or a person employed by the Insurance Corporation of British Columbia as an examiner of drivers is exempt from this Division while driving or operating a motor vehicle
 
@@ -6270,9 +6292,9 @@ For breaches listed in this table, the number of point penalties recorded shall 
 
 (a) a Class 1L, 2L, 3L, 4L, 5L or 6L licence expires one year after its date of issue;
 
-(b) a Class 7L or Class 8L licence, if issued before October 6, 2003, expires one year after its date of issue;
+(b) Repealed. [B.C. Reg. 134/2026, Sch. 3, s. 4 (a).]
 
-(c) a Class 7L or Class 8L licence, if issued on or after October 6, 2003, expires 2 years after its date of issue.
+(c) a Class 7L or Class 8L licence expires 2 years after its date of issue.
 
 ### Minimum driving experience, skills and other qualifications
 
@@ -6294,7 +6316,11 @@ For breaches listed in this table, the number of point penalties recorded shall 
 
 (b) either
 
-(i) hold or have held a Class 1, 2, 3, 4, 5 or 6 licence, or
+(i) hold or have held a Class 1, 2, 3, 4, 5 or 6 licence and
+
+(A) have accumulated at least 2 years of non-learner driving experience, or
+
+(B) have accumulated at least 18 months of non-learner driving experience and have successfully completed an approved driver education course as defined in section 27.01, or
 
 (ii) hold or have held a licence similar to a Class 1, 2, 3, 4, 5, 6, 7 or 8 licence issued by another jurisdiction, as determined by the Insurance Corporation of British Columbia, and have at least 2 years of non-learner driving experience.
 
@@ -6304,33 +6330,31 @@ For breaches listed in this table, the number of point penalties recorded shall 
 
 (b) have held a Class 5 licence,
 
-(c) hold or have held a Class 7 licence issued before October 6, 2003 and have at least 18 months of non-learner driving experience, unless paragraph (c.1) or (c.2) applies,
+(c) hold or have held a Class 7 licence and
 
-(c.1) have held a Class 7 licence issued before October 6, 2003, and, if the applicant is, on that date, subject to a prohibition or suspension
+(i) if under 25 years of age, have accumulated at least 2 years of non-learner driving experience that is uninterrupted by any of the following sanctions:
 
-(i) under section 93, 94.1, 98, 99, 100, or 232 of the Act, or
+(A) a prohibition or suspension under section 93, 94.1, 98, 99, 100, 215.43 or 232 of the Act;
 
-(ii) resulting from a conviction for a motor vehicle related Criminal Code offence, or from a conviction in any other jurisdiction for an offence that is similar to a motor vehicle related Criminal Code offence, as determined by the Insurance Corporation of British Columbia,
+(B) a conviction for an offence under section 148 or 214.2 of the Act;
 
-have non-learner driving experience accumulated before the commencement of the prohibition or suspension, plus non-learner driving experience accumulated after the end of the prohibition or suspension that is uninterrupted by a prohibition or suspension referred to in subparagraph (i) or (ii), totalling at least 24 months,
+(C) a prohibition or suspension as a result of a conviction for a motor vehicle related Criminal Code offence, or of a conviction in any other jurisdiction for an offence that is similar to a motor vehicle related Criminal Code offence, as determined by the Insurance Corporation of British Columbia, or
 
-(c.2) have held a Class 7 licence issued before October 6, 2003, and if the applicant is, on or after that date, prohibited or suspended
+(ii) if at least 25 years of age, have accumulated at least one year of non-learner driving experience that is uninterrupted by any of the following sanctions:
 
-(i) under section 93, 94.1, 98, 99, 100, or 232 of the Act, or
+(A) a prohibition or suspension under section 93, 94.1, 98, 99, 100, 215.43 or 232 of the Act;
 
-(ii) as a result of a conviction for a motor vehicle related Criminal Code offence, or of a conviction in any other jurisdiction for an offence that is similar to a motor vehicle related Criminal Code offence, as determined by the Insurance Corporation of British Columbia,
+(B) a conviction for an offence under section 148 or 214.2 of the Act;
 
-have at least 24 months of non-learner driving experience accumulated after the end of the prohibition or suspension that is uninterrupted by a prohibition or suspension referred to in subparagraph (i) or (ii),
+(C) a prohibition or suspension as a result of a conviction for a motor vehicle related Criminal Code offence, or of a conviction in any other jurisdiction for an offence that is similar to a motor vehicle related Criminal Code offence, as determined by the Insurance Corporation of British Columbia,
 
-(c.3) hold or have held a Class 7 licence issued on or after October 6, 2003, and have at least 24 months of non-learner driving experience that is uninterrupted by a prohibition or suspension
+(c.1)-(c.3) Repealed. [B.C. Reg. 134/2026, Sch. 3, s. 5 (b).]
 
-(i) under section 93, 94.1, 98, 99, 100, or 232 of the Act, or
+(d) hold or have held a licence similar to a Class 1, 2, 3, 4, 5 or 7 licence issued by another jurisdiction, as determined by the Insurance Corporation of British Columbia and,
 
-(ii) as a result of a conviction for a motor vehicle related Criminal Code offence, or of a conviction in any other jurisdiction for an offence that is similar to a motor vehicle related Criminal Code offence, as determined by the Insurance Corporation of British Columbia,
+(i) if under 25 years of age, have accumulated at least 2 years of non-learner driving experience, or
 
-unless paragraph (c.1) or (c.2) applies,
-
-(d) hold or have held a licence similar to a Class 1, 2, 3, 4, 5 or 7 licence issued by another jurisdiction, as determined by the Insurance Corporation of British Columbia, and have at least 2 years of non-learner driving experience, or
+(ii) if at least 25 years of age, have accumulated at least one year of non-learner driving experience, or
 
 (e) hold a valid and subsisting Class 5L licence.
 
@@ -6346,31 +6370,13 @@ unless paragraph (c.1) or (c.2) applies,
 
 (a) have held a Class 6 licence,
 
-(b) hold or have held a Class 8 licence issued before October 6, 2003 and have at least 18 months of non-learner driving experience, unless paragraph (b.1) or (b.2) applies,
+(b) hold or have held a Class 8 licence and have accumulated at least two years of non-learner driving experience that is uninterrupted by a prohibition or suspension
 
-(b.1) have held a Class 8 licence issued before October 6, 2003, and, if the applicant is, on that date, subject to a prohibition or suspension
-
-(i) under section 93, 94.1, 98, 99, 100, or 232 of the Act, or
-
-(ii) resulting from a conviction for a motor vehicle related Criminal Code offence, or from a conviction in any other jurisdiction for an offence that is similar to a motor vehicle related Criminal Code offence, as determined by the Insurance Corporation of British Columbia,
-
-have non-learner driving experience accumulated before the commencement of the prohibition or suspension, plus non-learner driving experience accumulated after the end of the prohibition or suspension that is uninterrupted by a prohibition or suspension referred to in subparagraph (i) or (ii), totalling at least 24 months,
-
-(b.2) have held a Class 8 licence issued before October 6, 2003, and if the applicant is, on or after that date prohibited or suspended
-
-(i) under section 93, 94.1, 98, 99, 100, or 232 of the Act, or
+(i) under section 93, 94.1, 98, 99, 100, 215.43 or 232 of the Act, or
 
 (ii) as a result of a conviction for a motor vehicle related Criminal Code offence, or of a conviction in any other jurisdiction for an offence that is similar to a motor vehicle related Criminal Code offence, as determined by the Insurance Corporation of British Columbia,
 
-have at least 24 months of non-learner driving experience accumulated after the end of the prohibition or suspension that is uninterrupted by a prohibition or suspension referred to in subparagraph (i) or (ii),
-
-(b.3) hold or have held a Class 8 licence issued on or after October 6, 2003, and have at least 24 months of non-learner driving experience that is uninterrupted by a prohibition or suspension
-
-(i) under section 93, 94.1, 98, 99, 100, or 232 of the Act, or
-
-(ii) as a result of a conviction for a motor vehicle related Criminal Code offence, or of a conviction in any other jurisdiction for an offence that is similar to a motor vehicle related Criminal Code offence, as determined by the Insurance Corporation of British Columbia,
-
-unless paragraph (b.1) or (b.2) applies,
+(b.1)-(b.3) Repealed. [B.C. Reg. 134/2026, Sch. 3, s. 5 (d).]
 
 (c) hold or have held a licence similar to a Class 6 or 8 licence issued by another jurisdiction, as determined by the Insurance Corporation of British Columbia, and have at least 2 years of non-learner driving experience, or
 
@@ -6480,43 +6486,83 @@ unless paragraph (b.1) or (b.2) applies,
 
 (ii) on or after October 18, 2021 but before January 19, 2022.
 
+### Transition — one-time upgrade from Class 7 to Class 5 licence for eligible drivers
+
+30.054 (1) In this section, *new Class 5 graduation criteria* means the minimum driving experience, skills, and qualifications required under section 30.05 (3) (c) as it reads on October 19, 2026, but does not include any requirement to submit an application.
+
+(2) A person who holds a valid Class 7 licence on October 19, 2026 is deemed to hold a Class 5 licence, if, on that date, the person
+
+(a) is eligible for a Class 5 licence in accordance with the new Class 5 graduation criteria, and
+
+(b) does not also hold a Class 8 or 8L licence.
+
 ### Accompanying adult conditions and passenger restrictions for learner's licence
 
-30.06 (1) A person to whom a Class 1L, 2L, 3L, 4L or 5L licence is issued, or a person to whom a Class 7L licence is issued before October 6, 2003, must not operate a motor vehicle of a category designated in section 30.01 (2) for the class of licence issued unless the person is accompanied by another person who
+30.06 (1) A person to whom a Class 1L, 2L, 3L or 4L licence is issued must not operate a motor vehicle of a category designated in section 30.01 (2) for the class of licence issued unless the person is accompanied by another person who
 
 (a) is at least 19 years of age,
 
-(b) holds a valid and subsisting driver's licence, other than a learner's licence or a Class 7 licence, of a class that permits the person to operate a motor vehicle of that category, and
+(b) holds a valid and subsisting driver's licence, other than a learner's licence or a Class 7 licence, of a class that permits the person to operate a motor vehicle of that category,
 
 (c) occupies
 
 (i) the seat beside the operator, or
 
-(ii) the seat or area immediately behind and to the right of the operator, in the case of a motor vehicle of the category designated for the class of licence issued in which there is no seat beside the operator.
+(ii) the seat or area immediately behind and to the right of the operator, in the case of a motor vehicle of the category designated for the class of licence issued in which there is no seat beside the operator,
 
-(1.1) A person to whom a Class 7L licence is issued on or after October 6, 2003 must not operate a motor vehicle of a category designated in section 30.01 (2) for that class of driver's licence unless the person is accompanied by another person who
+(d) is awake and maintains the ability to lawfully operate the vehicle at all times, and
 
-(a) is at least 25 years of age or is a licensed driver training instructor engaged in providing practical driver training in accordance with Division 27,
+(e) in the case of a new Class 5 graduate or new resident Class 5 holder, has reached the end of the applicable zero-tolerance period set out in section 30.111 or 30.112.
 
-(b) holds a valid and subsisting driver's licence, other than a learner's licence or a Class 7 licence, of a class that permits the person to operate a motor vehicle of that category, and
+(1.01) A person to whom a Class 5L licence is issued must not operate a motor vehicle of a category designated in section 30.01 (2) for that class of licence unless the person is accompanied by another person who
+
+(a) is at least the following age:
+
+(i) if the Class 5L licence is issued before October 19, 2026, 19 years of age;
+
+(ii) if the Class 5L licence is issued on or after October 19, 2026, 22 years of age,
+
+(b) holds a valid and subsisting driver's licence, other than a learner's licence or a Class 7 licence, of a class that permits the person to operate a motor vehicle of that category,
 
 (c) occupies
 
 (i) the seat beside the operator, or
 
-(ii) the seat or area immediately behind and to the right of the operator, in the case of a motor vehicle of the category designated for the class of licence issued in which there is no seat beside the operator.
+(ii) the seat or area immediately behind and to the right of the operator, in the case of a motor vehicle of the category designated for the class of licence issued in which there is no seat beside the operator,
+
+(d) is awake and maintains the ability to lawfully operate the vehicle at all times, and
+
+(e) in the case of a new Class 5 graduate or new resident Class 5 holder, has reached the end of the applicable zero-tolerance period set out in section 30.111 or 30.112.
+
+(1.1) A person to whom a Class 7L licence is issued must not operate a motor vehicle of a category designated in section 30.01 (2) for that class of driver's licence unless the person is accompanied by another person who
+
+(a) is at least 22 years of age or is a licensed driver training instructor engaged in providing practical driver training in accordance with Division 27,
+
+(b) holds a valid and subsisting driver's licence, other than a learner's licence or a Class 7 licence, of a class that permits the person to operate a motor vehicle of that category,
+
+(c) occupies
+
+(i) the seat beside the operator, or
+
+(ii) the seat or area immediately behind and to the right of the operator, in the case of a motor vehicle of the category designated for the class of licence issued in which there is no seat beside the operator,
+
+(d) is awake and maintains the ability to lawfully operate the vehicle at all times, and
+
+(e) in the case of a new Class 5 graduate or new resident Class 5 holder, has reached the end of the applicable zero-tolerance period set out in section 30.111 or 30.112.
 
 (2) A person to whom a Class 7L licence is issued must not carry more than one passenger, other than the accompanying person under subsection (1), while operating a motor vehicle of a category designated in section 30.01 (2) for that class of driver's licence.
 
 (3) The passenger restriction under subsection (2) does not apply in the course of the person receiving practical driver training that is being conducted in accordance with Division 27 by a licensed driver training instructor.
 
-(4) A person to whom a Class 6L licence is issued, or a person to whom a Class 8L licence is issued before October 6, 2003, must not operate a motorcycle unless the person is under the direct supervision of another person who
+(3.1) The passenger restriction under subsection (2) does not apply in relation to an immediate family member.
+
+(4) A person to whom a Class 6L licence is issued must not operate a motorcycle unless the person is under the direct supervision of another person who
 
 (a) is at least 19 years of age, and
 
 (b) holds a valid and subsisting driver's licence, other than a learner's licence or a Class 8 licence, of a class that permits the person to operate a motorcycle.
 
-(4.1) A person to whom a Class 8L licence is issued on or after October 6, 2003 must not operate a motorcycle unless the person is under the direct supervision of another person who
+(4.1) A person to whom a Class 8L licence is issued must not operate a motorcycle unless the person is under the direct supervision of another person who
 
 (a) is at least 25 years of age or is a licensed driver training instructor engaged in providing practical training in accordance with Division 27, and
 
@@ -6554,19 +6600,23 @@ unless paragraph (b.1) or (b.2) applies,
 
 ### Accompanying adult conditions and passenger restrictions for Class 7 licence
 
-30.071 (1) Subject to subsection (2), a person to whom a Class 7 licence is issued on or after October 6, 2003 must not carry more than one passenger while operating a motor vehicle of a category designated in section 30.01 (2) for that class of driver's licence unless the person is accompanied by another person who
+30.071 (1) Subject to subsection (2), a person under 25 years of age to whom a Class 7 licence is issued must not carry more than one passenger while operating a motor vehicle of a category designated in section 30.01 (2) for that class of driver's licence unless the person is accompanied by another person who
 
-(a) is at least 25 years of age or is a licensed driver training instructor engaged in providing practical driver training to the person in accordance with Division 27,
+(a) is at least 22 years of age or is a licensed driver training instructor engaged in providing practical driver training to the person in accordance with Division 27,
 
-(b) holds a valid and subsisting driver's licence, other than a learner's licence or a Class 7 licence, of a class that permits the person to operate a motor vehicle of that category, and
+(b) holds a valid and subsisting driver's licence, other than a learner's licence or a Class 7 licence, of a class that permits the person to operate a motor vehicle of that category,
 
 (c) occupies
 
 (i) the seat beside the operator, or
 
-(ii) the seat or area immediately behind and to the right of the operator, in the case of a motor vehicle of the category designated for the class of licence issued in which there is no seat beside the operator.
+(ii) the seat or area immediately behind and to the right of the operator, in the case of a motor vehicle of the category designated for the class of licence issued in which there is no seat beside the operator,
 
-(2) Subsection (1) does not apply to a passenger who is an immediate family member of the person.
+(d) is awake and maintains the ability to lawfully operate the vehicle at all times, and
+
+(e) in the case of a new Class 5 graduate or new resident Class 5 holder, has reached the end of the applicable zero-tolerance period set out in section 30.111 or 30.112.
+
+(2) The passenger restriction under subsection (1) does not apply in relation to an immediate family member.
 
 ### Repealed
 
@@ -6588,63 +6638,59 @@ unless paragraph (b.1) or (b.2) applies,
 
 (3) The period a Class 7L licence holder must wait to be eligible for a road test under section 25 (3) (a) of the Act in respect of a Class 7 licence is
 
-(a) until the Class 7L licence holder has accumulated 6 months of learner driving experience, if the Class 7L licence is issued before October 6, 2003, or
+(a) until the Class 7L licence holder has accumulated one year of learner driving experience, if the Class 7L licence holder is under 25 years of age, or
 
-(b) until the Class 7L licence holder has accumulated one year of learner driving experience, if the Class 7L licence is issued on or after October 6, 2003.
+(b) until the Class 7L licence holder has accumulated 9 months of learner driving experience, if the licence holder is at least 25 years of age.
 
 (4) The waiting period referred to in subsection (3) does not apply if the person has held a Class 7 licence or a licence, similar to a Class 5 or 7 licence, issued by another jurisdiction, as determined by the Insurance Corporation of British Columbia.
 
-(5) The period a Class 8L licence holder must wait to be eligible for a road test under section 25 (3) (a) of the Act in respect of a Class 8 licence is
-
-(a) until the Class 8L licence holder has accumulated 6 months of learner driving experience, if the Class 8L licence is issued before October 6, 2003, or
-
-(b) until the Class 8L licence holder has accumulated one year of learner driving experience, if the Class 8L licence is issued on or after October 6, 2003.
+(5) The period a Class 8L licence holder must wait to be eligible for a road test under section 25 (3) (a) of the Act in respect of a Class 8 licence is until the Class 8L licence holder has accumulated one year of learner driving experience.
 
 (6) The waiting period set out in subsection (5) does not apply if the person has held a Class 8 licence or a licence, similar to a Class 6 or 8 licence, issued by another jurisdiction, as determined by the Insurance Corporation of British Columbia.
 
 ### New driver sign condition for Class 7L, 8L, 7 and 8 licences
 
-30.10 (1) In this section, *new driver sign* means a sign, issued by the Insurance Corporation of British Columbia for the purposes of this section, to indicate that a motor vehicle is being driven by a person who is learning to drive or by a novice driver.
+30.10 (1) In this section, *new driver sign* means a sign, issued by the Insurance Corporation of British Columbia for the purposes of this section, to indicate that a motor vehicle is being driven by any of the following:
+
+(a) a person of any age who holds a Class 7L or 8L licence;
+
+(b) a person under 25 years of age who holds a Class 7 licence;
+
+(c) a person of any age who holds a Class 8 licence.
 
 (2) Subject to the exception set out in subsection (3), a person to whom a Class 7L or 8L licence is issued must not operate a motor vehicle of a category designated in section 30.01 (2) for that class of driver's licence unless a new driver sign depicting the letter "L" is clearly visible and prominently displayed from the rear of the motor vehicle or trailer, as the case may be.
 
 (3) The new driver sign condition under subsection (2) does not apply in the course of the person receiving practical driver training conducted in accordance with Division 27 by a licensed driver training instructor, unless the practical driver training is being conducted in a private vehicle under section 27.09 (7).
 
-(4) Subject to the exception set out in subsection (5), a person to whom a Class 7 or 8 licence is issued must not operate a motor vehicle of a category designated in section 30.01 (2) for that class of driver's licence unless a new driver sign depicting the letter "N" is clearly visible and prominently displayed from the rear of the motor vehicle or trailer, as the case may be.
+(4) Subject to the exception set out in subsection (5), a person who is under 25 years of age to whom a Class 7 licence is issued must not operate a motor vehicle of a category designated in section 30.01 (2) for that class of driver's licence unless a new driver sign depicting the letter "N" is clearly visible and prominently displayed from the rear of the motor vehicle or trailer, as the case may be.
+
+(4.1) Subject to the exception set out in subsection (5), a person to whom a Class 8 licence is issued must not operate a motor vehicle of a category designated in section 30.01 (2) for that class of driver's licence unless a new driver sign depicting the letter "N" is clearly visible and prominently displayed from the rear of the motor vehicle or trailer, as the case may be.
 
 (5) The new driver sign condition under subsection (4) does not a apply in the course of the person receiving practical driver training conducted in accordance with Division 27 by a licensed driver training instructor, unless the practical driver training is being conducted in a private vehicle under section 27.09 (7).
 
-### No-alcohol, no-drug condition for Class 7L, 8L, 7 or 8 licences
+### Prescribed screening devices, equipment and drugs
 
-30.11 (1) A person to whom a Class 7L, 8L, 7 or 8 licence is issued must not operate a motor vehicle while having any of the following in the person's body:
-
-(a) alcohol;
-
-(b) cocaine;
-
-(c) tetrahydrocannabinol (THC).
-
-(2) For the purposes of section 90.3 of the Act, the following devices are approved screening devices:
+30.101 (1) For the purposes of section 90.3 of the Act, the following devices are approved screening devices:
 
 (a) the Alcolmeter S-L2;
 
-(a.1) the Alcotest 6000;
+(b) the Alcotest 6000;
 
-(b) the Alcotest® 7410 GLC;
+(c) the Alcotest® 7410 GLC;
 
-(c) the Alcotest® 7410 PA3;
+(d) the Alcotest® 7410 PA3;
 
-(c.1) the Alco-Sensor FST;
+(e) the Alco-Sensor FST;
 
-(d) the Alco-Sensor IV D WF;
+(f) the Alco-Sensor IV D WF;
 
-(e) the Alco-Sensor IV PWF;
+(g) the Alco-Sensor IW PWF;
 
-(f) the Alco-Sûr;
+(h) the Alco-Sûr;
 
-(g) the Intoxilyzer 400D.
+(i) the Intoxilyzer 400D.
 
-(3) For the purposes of section 90.3 of the Act,
+(2) For the purposes of section 90.3 of the Act,
 
 (a) the following equipment, when used together, is approved drug screening equipment in relation to cocaine and tetrahydrocannabinol (THC):
 
@@ -6660,11 +6706,65 @@ unless paragraph (b.1) or (b.2) applies,
 
 (iii) the Abbott SoToxa™ Oral Fluid Collection Device.
 
-(4) For the purposes of sections 25 (10.101) and 90.3 (2.1) (b) of the Act, the following drugs are prescribed:
+(3) For the purposes of sections 25 (10.101) and 90.3 (2.1) (b) of the Act, the following drugs are prescribed:
 
 (a) cocaine;
 
 (b) tetrahydrocannabinol (THC).
+
+### Zero-tolerance for alcohol, drugs — operation of motor vehicle by Class 5L, 7L, 8L, 7 or 8 licence holder
+
+30.11 A person to whom a Class 5L, 7L, 8L, 7 or 8 licence is issued must not operate a motor vehicle while having any of the following in the person's body:
+
+(a) alcohol;
+
+(b) cocaine;
+
+(c) tetrahydrocannabinol (THC).
+
+### Zero-tolerance for alcohol, drugs — operation of motor vehicle by new Class 5 graduate
+
+30.111 (1) During the zero-tolerance period set out in this section, a new Class 5 graduate must not operate a motor vehicle under any class of licence while having any of the following in the new Class 5 graduate's body:
+
+(a) alcohol;
+
+(b) cocaine;
+
+(c) tetrahydrocannabinol (THC).
+
+(2) Subject to subsection (3), the zero-tolerance period
+
+(a) begins on the graduation date, and
+
+(b) ends on the date on which the new Class 5 graduate has accumulated 12 months of compliant driving history under a Class 5 licence.
+
+(3) If the zero-tolerance period set out in subsection (2) is interrupted by a prohibition or suspension specified in section 30.01 (4), a new zero-tolerance period
+
+(a) begins on the date on which the new Class 5 graduate may lawfully drive under a valid Class 5 licence, and
+
+(b) ends on the date on which the new Class 5 graduate has accumulated 12 months of compliant driving history.
+
+### Zero tolerance for alcohol, drugs — operation of motor vehicle by new resident Class 5 holder
+
+30.112 (1) During the zero-tolerance period set out in this section, a new resident Class 5 holder must not operate a motor vehicle under any class of licence while having any of the following in the new resident Class 5 holder's body:
+
+(a) alcohol;
+
+(b) cocaine;
+
+(c) tetrahydrocannabinol (THC).
+
+(2) Subject to subsection (5), the zero-tolerance period begins on the transfer date and ends on the date applicable to the age of the new resident Class 5 holder under subsection (3) or (4).
+
+(3) If, on the transfer date, the new resident Class 5 holder is under 25 years of age and has accumulated at least 24 months of qualifying transfer history, the zero-tolerance period ends on the date on which the new resident Class 5 holder has accumulated a total period of 36 months of driving experience, consisting of qualifying transfer history and compliant driving history.
+
+(4) If, on the transfer date, the new resident Class 5 holder is at least 25 years of age and has accumulated more than 12 months but less than 24 months of qualifying transfer history, the zero-tolerance period ends on the date on which the new resident Class 5 holder has accumulated a total period of 24 months of driving experience, consisting of qualifying transfer history and compliant driving history.
+
+(5) If the zero-tolerance period set out in subsection (3) or (4) is interrupted by a prohibition or suspension specified in section 30.01 (4), a new zero-tolerance period
+
+(a) begins on the date on which the new resident Class 5 holder may lawfully drive under a valid Class 5 licence, and
+
+(b) ends on the date on which the new resident Class 5 holder has accumulated 12 months of compliant driving history.
 
 ### Passenger and motor vehicle restrictions for Class 6 and 8 licences
 

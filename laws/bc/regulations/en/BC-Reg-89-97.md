@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 89/97"
 document_date: "1997-03-13"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:59:11Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:58:47Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/89_97_00_multi/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:59:11Z"
+    last_modified: "2026-11-07T11:58:47Z"
 ---
 
 # Violation Ticket Administration and Fines Regulation

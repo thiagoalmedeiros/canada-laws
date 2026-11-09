@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 1/98"
 document_date: "1998-01-09"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:08:18Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:07:56Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/1_98/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:08:18Z"
+    last_modified: "2026-11-07T11:07:56Z"
 ---
 
 # Builders Lien Forms Regulation

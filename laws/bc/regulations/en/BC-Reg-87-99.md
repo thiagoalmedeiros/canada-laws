@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 87/99"
 document_date: "1999-03-30"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T12:18:01Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T12:17:39Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/87_99/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T12:18:01Z"
+    last_modified: "2026-11-07T12:17:39Z"
 ---
 
 # Greater Vancouver Transit Conduct and Safety Regulation

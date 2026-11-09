@@ -8,7 +8,7 @@ jurisdiction: "bc"
 language: "en"
 citation: "BC Reg Notice"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:40:17Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:39:53Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/ir_list/xml"
@@ -18,7 +18,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:40:17Z"
+    last_modified: "2026-11-07T11:39:53Z"
 ---
 
 # List of Private Company Regulations

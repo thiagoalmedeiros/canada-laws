@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 91/95"
 document_date: "1995-03-07"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T12:19:39Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T12:19:17Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/91_95/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T12:19:39Z"
+    last_modified: "2026-11-07T12:19:17Z"
 ---
 
 # Rural Property Tax Roll Regulation

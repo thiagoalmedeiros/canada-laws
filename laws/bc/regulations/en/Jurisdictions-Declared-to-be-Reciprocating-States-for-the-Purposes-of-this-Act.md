@@ -7,7 +7,7 @@ tags: ["bc", "regulation", "en"]
 jurisdiction: "bc"
 language: "en"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:15:24Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:15:00Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/courtorderenflist/xml"
@@ -17,7 +17,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:15:24Z"
+    last_modified: "2026-11-07T11:15:00Z"
 ---
 
 # Jurisdictions Declared to be Reciprocating States for the Purposes of this Act
