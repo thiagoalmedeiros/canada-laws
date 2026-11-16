@@ -2,30 +2,30 @@
 type: "Regulation"
 title: "Coal Conservation Rules"
 description: "Alberta regulation, Alta Reg 270/81."
-resource: "https://kings-printer.alberta.ca/1266.cfm?page=1981_270.cfm&leg_type=Regs&isbncln=9780779860647&display=html"
+resource: "https://kings-printer.alberta.ca/1266.cfm?page=1981_270.cfm&leg_type=Regs&isbncln=9780779865437&display=html"
 tags: ["ab", "regulation", "en"]
 jurisdiction: "ab"
 language: "en"
 citation: "Alta Reg 270/81"
-document_date: "2026-02-02"
+document_date: "2026-10-30"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://kings-printer.alberta.ca/copyright.cfm; Archived (as of 6 November 2026): https://perma.cc/7GUJ-2NNL; Note: © Alberta King's Printer. Source: Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca). This reproduction of Alberta regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:23:51Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:24:10Z }
 sources:
   - id: "official"
-    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1981_270.cfm&leg_type=Regs&isbncln=9780779860647&display=html"
+    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1981_270.cfm&leg_type=Regs&isbncln=9780779865437&display=html"
     title: "Alberta King's Printer: official text"
     author: "org:ab-government"
   - id: "a2aj"
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-AB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:23:51Z"
+    last_modified: "2026-11-14T11:24:10Z"
 ---
 
 # Coal Conservation Rules
 
-> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1981_270.cfm&leg_type=Regs&isbncln=9780779860647&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1981_270.cfm&leg_type=Regs&isbncln=9780779865437&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 270/81
 
@@ -50,6 +50,8 @@ Alta Reg 270/81
 (c.1) repealed AR 278/2020 s2;
 
 (c.2) “corporate ERP” means an ERP that applies to all operations of the holder of a permit or licence;
+
+(c.21) “designated information submission system” means the online data submission process established by the Regulator;
 
 (c.3) “Directive 071” means Directive 071: Emergency Preparedness and Response published by the Regulator on December 1, 2025;
 
@@ -711,7 +713,7 @@ and
 
 (2) If a flow of oil or gas is encountered during an exploration program, the permittee shall
 
-(a) immediately report the size and location of the flow of oil or gas to the Regulator by telephoning the Energy and Environmental Response Line, and
+(a) immediately report the size and location of the flow of oil or gas to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator, and
 
 (b) take immediate steps to contain the flow by plugging the hole in a manner prescribed by or satisfactory to the Regulator.
 
@@ -721,7 +723,7 @@ and
 
 30 Repealed AR 314/2000 s18.
 
-31, 32 Repealed AR 314/2000 s19.
+31 , 32 Repealed AR 314/2000 s19.
 
 ## Part 3 Submission of Information, Data and Materials
 

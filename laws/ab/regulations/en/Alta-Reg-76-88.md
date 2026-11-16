@@ -2,30 +2,30 @@
 type: "Regulation"
 title: "Oil Sands Conservation Rules"
 description: "Alberta regulation, Alta Reg 76/88."
-resource: "https://kings-printer.alberta.ca/1266.cfm?page=1988_076.cfm&leg_type=Regs&isbncln=9780779860609&display=html"
+resource: "https://kings-printer.alberta.ca/1266.cfm?page=1988_076.cfm&leg_type=Regs&isbncln=9780779865413&display=html"
 tags: ["ab", "regulation", "en"]
 jurisdiction: "ab"
 language: "en"
 citation: "Alta Reg 76/88"
-document_date: "2026-02-02"
+document_date: "2026-10-30"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://kings-printer.alberta.ca/copyright.cfm; Archived (as of 6 November 2026): https://perma.cc/7GUJ-2NNL; Note: © Alberta King's Printer. Source: Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca). This reproduction of Alberta regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T12:16:49Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T12:17:53Z }
 sources:
   - id: "official"
-    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1988_076.cfm&leg_type=Regs&isbncln=9780779860609&display=html"
+    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1988_076.cfm&leg_type=Regs&isbncln=9780779865413&display=html"
     title: "Alberta King's Printer: official text"
     author: "org:ab-government"
   - id: "a2aj"
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-AB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T12:16:49Z"
+    last_modified: "2026-11-14T12:17:53Z"
 ---
 
 # Oil Sands Conservation Rules
 
-> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1988_076.cfm&leg_type=Regs&isbncln=9780779860609&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1988_076.cfm&leg_type=Regs&isbncln=9780779865413&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 76/88
 
@@ -54,6 +54,8 @@ Alta Reg 76/88
 (c.1) “corporate ERP” means an ERP that applies to all operations of an operator;
 
 (d) “crude bitumen” means a naturally occurring viscous mixture, mainly of hydrocarbons heavier than pentane, that may contain sulphur compounds and that, in its naturally occurring viscous state, will not flow to a well and, for the purposes of these Rules, includes declared oil sands;
+
+(d.001) “designated information submission system” means the online data submission process established by the Regulator;
 
 (d.01) repealed AR 119/2016 s2;
 
@@ -305,7 +307,7 @@ in relation to emergency preparedness and responses.
 
 10 (1) No operator of an oil sands site shall cause or permit the burning of crude bitumen, gas, oily waste or discard or other material unless he has obtained written approval from the Regulator or its authorized representative.
 
-(2) Notwithstanding subsection (1), effluent may be burned under emergency conditions, if the burning is immediately reported to the Regulator.
+(2) Notwithstanding subsection (1), effluent may be burned under emergency conditions, if the operator immediately reports the burning to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator.
 
 ### Waste
 
@@ -319,7 +321,7 @@ in relation to emergency preparedness and responses.
 
 ### Report of spill, fire or damage
 
-13 (1) An operator shall report to the Regulator by the quickest effective means
+13 (1) An operator shall report to the Regulator immediately by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator,
 
 (a) any liquid spill,
 
@@ -327,7 +329,7 @@ in relation to emergency preparedness and responses.
 
 (c) any fire that occurs at an oil sands site, including the sulphur storage block or handling facility, that requires or results in the deployment of major fire-fighting equipment and resources,
 
-and when so directed by the Regulator shall further report, by letter, within 2 weeks of the Regulator’s direction.
+and when so directed by the Regulator shall further report, by a submission through the designated information submission system, within 2 weeks of the Regulator’s direction.
 
 (2) Each report under subsection (1) shall specify the quantity of liquids, gas, gas equivalent or sulphur lost and the location of the equipment affected and shall include the following information:
 
@@ -597,7 +599,7 @@ and
 
 32 (1) Unless otherwise directed, an operator shall submit to the Regulator, on or before February 28 in each year, a summary report of the geotechnical performance relating to the stability of mine pit walls, overburden and interburden storage areas, tailings dikes, reclamation material stockpiles and other similar structures.
 
-(2) An operator shall notify the Regulator forthwith of any collapse or instability within the mine site resulting in
+(2) An operator shall notify the Regulator immediately by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator, of any collapse or instability within the mine site resulting in
 
 (a) a change in the annual mine plan referred to in section 31,
 

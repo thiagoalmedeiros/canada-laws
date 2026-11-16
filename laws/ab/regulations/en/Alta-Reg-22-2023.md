@@ -2,30 +2,30 @@
 type: "Regulation"
 title: "Health Professions Restricted Activity Regulation"
 description: "Alberta regulation, Alta Reg 22/2023."
-resource: "https://kings-printer.alberta.ca/1266.cfm?page=2023_022.cfm&leg_type=Regs&isbncln=9780779864287&display=html"
+resource: "https://kings-printer.alberta.ca/1266.cfm?page=2023_022.cfm&leg_type=Regs&isbncln=9780779865314&display=html"
 tags: ["ab", "regulation", "en"]
 jurisdiction: "ab"
 language: "en"
 citation: "Alta Reg 22/2023"
-document_date: "2026-07-31"
+document_date: "2026-11-01"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://kings-printer.alberta.ca/copyright.cfm; Archived (as of 6 November 2026): https://perma.cc/7GUJ-2NNL; Note: © Alberta King's Printer. Source: Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca). This reproduction of Alberta regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:54:41Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:55:34Z }
 sources:
   - id: "official"
-    resource: "https://kings-printer.alberta.ca/1266.cfm?page=2023_022.cfm&leg_type=Regs&isbncln=9780779864287&display=html"
+    resource: "https://kings-printer.alberta.ca/1266.cfm?page=2023_022.cfm&leg_type=Regs&isbncln=9780779865314&display=html"
     title: "Alberta King's Printer: official text"
     author: "org:ab-government"
   - id: "a2aj"
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-AB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:54:41Z"
+    last_modified: "2026-11-14T11:55:34Z"
 ---
 
 # Health Professions Restricted Activity Regulation
 
-> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2023_022.cfm&leg_type=Regs&isbncln=9780779864287&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2023_022.cfm&leg_type=Regs&isbncln=9780779865314&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 22/2023
 
@@ -787,25 +787,45 @@ may perform in accordance with standards of practice the restricted activity of 
 
 ### Restricted activities for optometrists
 
-42 (1) For the purposes of section 1.3 and Schedule 17 to the Act, subject to subsection (2), a regulated member on the general register or courtesy register, in the practice of optometry, may perform in accordance with standards of practice the following restricted activities:
+42 (1) For the purposes of section 1.3 and Schedule 17 to the Act, subject to subsections (2) and (3) , a regulated member on the general register or courtesy register, in the practice of optometry, may perform in accordance with standards of practice the following restricted activities:
 
 (a) to dispense corrective lenses;
 
 (b) to prescribe corrective lenses;
 
-(c) to prescribe a topical or oral Schedule 1 drug;
+(c) to prescribe a Schedule 1 drug;
 
 (d) to dispense, provide for sale or sell, incidental to the practice of optometry, a Schedule 1 drug or Schedule 2 drug;
 
 (e) to perform surgical procedures on body tissue below the dermis or the mucous membrane or in or below the surface of the cornea in the removal of superficial foreign bodies from the eye;
 
-(f) to order or apply non-ionizing radiation in the form of ultrasound imaging.
+(f) to order or apply non-ionizing radiation in the form of ultrasound imaging;
+
+(g) to administer anything by an invasive procedure on body tissue below the dermis or the mucous membrane of the eye or adnexa or in or below the surface of the cornea for the purpose of administering injections;
+
+(h) to cut a body tissue or to perform surgical or other invasive procedures on body tissue below the dermis or the mucous membrane of the eye or adnexa or in or below the surface of the cornea;
+
+(i) to perform surgical or other invasive procedures on body tissue in or below the surface of the cornea or the mucous membrane of the eye for the purpose of performing the following procedures:
+
+(i) laser peripheral iridotomy;
+
+(ii) selective laser trabeculoplasty;
+
+(iii) Nd:YAG capsulotomy.
 
 (2) A regulated member may perform the restricted activities listed in subsection (1)(c), (d), (e) and (f) if the regulated member has
 
 (a) graduated from a program approved by the council, or
 
 (b) successfully completed a certification course approved by the council.
+
+(3) A regulated member may perform the restricted activities listed in subsection (1)(g), (h) and (i) if the regulated member has
+
+(a) successfully completed education or examinations approved by the council,
+
+(b) successfully fulfilled the clinical supervision requirements approved by the council, and
+
+(c) received notification from the registrar that authorization is indicated on the appropriate category of the regulated members register.
 
 ### Paramedics
 

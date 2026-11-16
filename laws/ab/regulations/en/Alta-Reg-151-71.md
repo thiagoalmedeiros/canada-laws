@@ -2,30 +2,30 @@
 type: "Regulation"
 title: "Oil and Gas Conservation Rules"
 description: "Alberta regulation, Alta Reg 151/71."
-resource: "https://kings-printer.alberta.ca/1266.cfm?page=1971_151.cfm&leg_type=Regs&isbncln=9780779861569&display=html"
+resource: "https://kings-printer.alberta.ca/1266.cfm?page=1971_151.cfm&leg_type=Regs&isbncln=9780779865482&display=html"
 tags: ["ab", "regulation", "en"]
 jurisdiction: "ab"
 language: "en"
 citation: "Alta Reg 151/71"
-document_date: "2026-03-31"
+document_date: "2026-11-04"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://kings-printer.alberta.ca/copyright.cfm; Archived (as of 6 November 2026): https://perma.cc/7GUJ-2NNL; Note: © Alberta King's Printer. Source: Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca). This reproduction of Alberta regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T12:16:35Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T12:17:39Z }
 sources:
   - id: "official"
-    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1971_151.cfm&leg_type=Regs&isbncln=9780779861569&display=html"
+    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1971_151.cfm&leg_type=Regs&isbncln=9780779865482&display=html"
     title: "Alberta King's Printer: official text"
     author: "org:ab-government"
   - id: "a2aj"
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-AB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T12:16:35Z"
+    last_modified: "2026-11-14T12:17:39Z"
 ---
 
 # Oil and Gas Conservation Rules
 
-> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1971_151.cfm&leg_type=Regs&isbncln=9780779861569&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1971_151.cfm&leg_type=Regs&isbncln=9780779865482&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 151/71
 
@@ -77,6 +77,8 @@ or
 
 5. “control well” means a well that is capable of producing oil, is within a block or project and is completed in a drilling spacing unit that is contiguous to a drilling spacing unit that contains a producing well that is outside the block or project;
 
+5.01. “designated information submission system” means the online data submission process established by the Regulator;
+
 5.1. “development entity” means an entity, consisting of multiple formations in a specific area described in an order of the Regulator, from which gas may be produced without segregation in the well bore in accordance with section 3.051;
 
 5.11. “Directive 001” means Directive 001: Requirements for Site-Specific Liability Assessments;
@@ -102,6 +104,8 @@ or
 5.17. “Directive 040” means Directive 040: Pressure and Deliverability Testing Oil and Gas Wells;
 
 5.171. “Directive 047” means Directive 047: Waste Reporting Requirements for Oilfield Waste Management Facilities;
+
+5.172. “Directive 051” means Directive 051: Injection and Disposal Wells — Well Classifications, Completions, Logging, and Testing Requirements;
 
 5.18. “Directive 055” means Directive 055: Storage Requirements for the Upstream Petroleum Industry;
 
@@ -543,7 +547,7 @@ within 200 metres of the well,
 
 ### Well Near Aerodrome
 
-2.090 A person proposing to drill a well within 5 kilometres of a lighted aerodrome, or within 1.6 kilometres of an unlighted aerodrome shall, before applying for a well licence, advise the Regional Manager, Air Navigation Requirements, Transport Canada, Edmonton, Alberta, of the proposed well site, the height of the derrick to be used and the approximate dates between which drilling operations are expected to take place.`
+2.090 A person proposing to drill a well within 5 kilometres of a lighted aerodrome, or within 1.6 kilometres of an unlighted aerodrome shall, before applying for a well licence, advise the Regional Manager, Air Navigation Requirements, Transport Canada, Edmonton, Alberta, of the proposed well site, the height of the derrick to be used and the approximate dates between which drilling operations are expected to take place.
 
 ### Coal Mines
 
@@ -1079,7 +1083,7 @@ and a Category I warning symbol shall be used in all other cases.
 
 ### Notification of Commencement of Drilling
 
-6.021 On commencement of the drilling of a well, other than a well of the kind referred to in section 2.030 or 2.040(1)(d), the licensee shall, within 12 hours or as otherwise arranged with the Regulator, advise the appropriate field centre of the Regulator.
+6.021 On commencement of the drilling of a well, other than a well of the kind referred to in section 2.030 or 2.040(1)(d), the licensee shall, within 12 hours or as otherwise arranged with the Regulator, notify the Regulator through the designated information submission system.
 
 ### Deviation and Directional Surveys
 
@@ -1177,13 +1181,15 @@ for a particular well or area.
 
 6.110 No casing recovered from a well shall be run as intermediate or production casing unless it has been tested in a manner satisfactory to the Regulator and shown to meet the Regulator’s requirements.
 
-6.120 (1) Before any fluid other than potable water is injected to a subsurface formation through a well, the licensee shall
+6.120 (1) Subject to subsection (1.1), a licensee must do each of the following before injecting a fluid, other than potable water, through a well into a subsurface formation:
 
-(a) set a production packer in the well as closely above the injection interval as is practicable, and
+(a) set a production packer in the well as closely above the injection interval as is practicable;
 
-(b) fill the space between the tubing and outer steel casing with a non-corrosive, corrosion inhibited liquid,
+(b) fill the space between the tubing and outer steel casing with a non-corrosive or corrosion-inhibiting fluid;
 
-but the Regulator, upon application and in writing, may relieve the licensee from any requirement of this section.
+(c) meet the applicable requirements set out in Directive 051.
+
+(1.1) On receiving a licensee’s request for an exemption from a requirement set out in subsection (1)(a), (b) or (c), the Regulator may exempt the licensee from having to comply with that requirement.
 
 (2) Where a well is equipped with a production packer as required by subsection (1), the licensee must report test results in accordance with Directive 087.
 
@@ -1263,7 +1269,7 @@ but, where the distance between coal seams is less than 15 metres, not more than
 
 (f) the cement shall not be drilled out until at least 24 hours after the completion of cementing.
 
-(7 ) The licensee shall notify the Regulator through its appropriate area office of his intention to cement any casing string or to run plugs at least 12 hours before commencing such operations and shall not proceed with such operations until a representative of the Regulator is present to inspect the casing and witness the cementing.
+(7 ) The licensee shall notify the Regulator through the designated information submission system of the licensee’s intention to cement any casing string or to run plugs at least 12 hours before commencing such operations and shall not proceed with such operations until a representative of the Regulator is present to inspect the casing and witness the cementing.
 
 (8 ) The Regulator, where in its opinion special circumstances are present, may alter the requirements of subsections (1) to (6) of this section or specify such other requirements or provisions as it deems necessary.
 
@@ -1281,7 +1287,7 @@ is final.
 
 (3 ) The licensee must abandon the well in accordance with the conditions and specifications directed by the Regulator.
 
-(4 ) The licensee shall notify the appropriate area office of the Regulator of his intention to do so at least 12 hours before the commencing the abandonment, and shall not proceed with the abandonment until a representative of the Regulator is present to witness the abandonment.
+(4 ) The licensee shall notify the Regulator through the designated information submission system of the licensee’s intention to do so at least 12 hours before commencing the abandonment, and shall not proceed with the abandonment until a representative of the Regulator is present to witness the abandonment.
 
 6.191 An in situ coal scheme evaluation well must be drilled through the target coal seam in a manner and location acceptable to the Regulator.
 
@@ -1355,7 +1361,7 @@ shall cause or permit to be burned any oil, gas, oily waste or other material pr
 
 (1.1 ) Subsection (1) does not apply where the Regulator or its authorized representative approves the burning.
 
-(2 ) Notwithstanding subsection (1), burning of effluent from a well or facility is permissible under emergency conditions and due to equipment failure, but such burning shall be immediately reported to the Regulator.
+(2 ) Notwithstanding subsection (1), burning of effluent from a well or facility is permissible under emergency conditions and due to equipment failure, but the applicable person referred to in subsection (1)(a), (b) or (c) shall immediately report the burning to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator.
 
 7.050 (1) This section applies to a well at which the hydrogen sulphide concentration in a representative sample of gas from the well is found to exceed 50 moles per kilomole, or such higher or lower ratio as the Regulator may, by order, stipulate with respect to any well or group of wells in a battery, pool or area, having regard to pressures, nature of production, remoteness of the area and other circumstances.
 
@@ -1565,9 +1571,9 @@ in relation to emergency preparedness and responses.
 
 (c) is on-site and of a size that may cause, is causing or has caused an adverse effect as defined in the Environmental Protection and Enhancement Act ,
 
-the licensee or operator shall immediately report the size and location of the spill or release to the Regulator by telephoning the Energy and Environmental Response Line.
+the licensee or operator shall immediately report the size and location of the spill or release to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator.
 
-(3 ) When so directed by the Regulator, a report made pursuant to subsection (2) shall be confirmed in a written report to the Regulator and be supplemented with at least the following additional information:
+(3 ) When so directed by the Regulator, a report made pursuant to subsection (2) shall be confirmed in a submission through the designated information submission system and be supplemented with at least the following additional information:
 
 (a) the time the spill or release occurred;
 
@@ -1583,7 +1589,7 @@ the licensee or operator shall immediately report the size and location of the s
 
 8.051 Where oil, water or unrefined product is spilled or released while being transported, otherwise than by pipeline, from a well, pipeline or other facility over which the Regulator has jurisdiction to any other like facility, the licensee of a well or pipeline or operator of the facility and the owner of the transportation facility shall immediately
 
-(a) report the size and location of the spill or release to the Regulator by telephoning the Energy and Environmental Response Line,
+(a) report the size and location of the spill or release to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator,
 
 (b) take reasonable steps to contain and clean up the spilled or released material, and
 
@@ -1769,7 +1775,7 @@ or
 
 (f) ensure that waste operational requirements have been satisfied and, if applicable, approvals are in place for on-site oilfield waste handling, treatment, and disposal methods
 
-in accordance with the requirements outlined in Directive 058 and any other requirements as directed by the Regulator.
+in accordance with the requirements outlined in Directive 051, Directive 058 and any other requirements as directed by the Regulator.
 
 (3 ) The operator of a facility receiving oilfield waste shall
 
@@ -1785,7 +1791,7 @@ in accordance with the requirements outlined in Directive 058 and any other requ
 
 (f) upgrade equipment and operating practices as necessary to comply with changes in regulatory requirements,
 
-in accordance with the requirements outlined in Directive 058, Directive 047 and any other requirements as directed by the Regulator.
+in accordance with the requirements outlined in Directive 047, Directive 058 and any other requirements as directed by the Regulator.
 
 (4) The licensee of a well or pipeline and the operator of a facility shall maintain the well, pipeline or facility in a clean condition and shall ensure that oilfield wastes do not create or constitute a safety hazard or nuisance or adversely affect air, soil, surface water or groundwater.
 
@@ -1849,9 +1855,9 @@ in accordance with the requirements outlined in Directive 058, Directive 047 and
 
 (b) record the remedial measures taken to control the flow.
 
-(3) The licensee shall advise the appropriate area office of the Regulator immediately by the quickest, most effective means, of any well flowing uncontrolled.
+(3) The licensee shall immediately report to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator, any well flowing uncontrolled.
 
-(4) Within 30 days after a well flowing uncontrolled is controlled, the licensee shall submit to the Regulator a detailed written report of the reasons for the uncontrolled flow and the operations undertaken to control the well.
+(4) Within 30 days after a well flowing uncontrolled is controlled, the licensee shall submit to the Regulator a detailed report through the designated information submission system of the reasons for the uncontrolled flow and the operations undertaken to control the well.
 
 8.191 The licensee shall, upon request from the Regulator or its representative, determine the formation fracture pressure at the casing shoe.
 
@@ -1897,7 +1903,7 @@ in accordance with the requirements outlined in Directive 058, Directive 047 and
 
 (3) If the total quantity of sulphur being emitted as determined under subsection (1) exceeds the quantity approved by the Regulator or the Department of Environment and Protected Areas, the operator of the plant shall take immediate measures to reduce the total emission of sulphur to within the approved limits.
 
-(4) If the total quantity of sulphur emitted to the atmosphere in any day exceeds the quantity approved by the Regulator or the Department of Environment and Protected Areas by more than 50 per cent, the operator shall immediately report such emission to the Regulator by the quickest effective means.
+(4) If the total quantity of sulphur emitted to the atmosphere in any day exceeds the quantity approved by the Regulator or the Department of Environment and Protected Areas by more than 50 per cent, the operator shall immediately report such emission to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator.
 
 (5) The operator of a processing plant shall not discharge or permit to be discharged from the plant to the atmosphere any gas containing hydrogen sulphide unless it is burned so that essentially all of the sulphur is converted to sulphur dioxide, but the Regulator on written application may approve another method of disposal.
 
@@ -2451,7 +2457,7 @@ in which case if there is a conflict or inconsistency between the subsurface ord
 
 ### Reports of Certain Losses
 
-12.140 (1) Each operator of a well, facility or oil sands scheme and each holder of an approval for an in situ coal scheme must immediately report to the Regulator, by the quickest effective means, and shall further report to the Regulator by letter,
+12.140 (1) Each operator of a well, facility or oil sands scheme and each holder of an approval for an in situ coal scheme must immediately report to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator, and shall further report through the designated information submission system
 
 (a) any fire that occurs at a well, facility, in situ coal scheme or at an oil sands oil storage tank or pit owned or operated by the licensee, approval holder or operator where the loss exceeds 2 cubic metres of oil or 30 000 cubic metres of gas or where damage to the well head occurs,
 
@@ -2461,7 +2467,11 @@ in which case if there is a conflict or inconsistency between the subsurface ord
 
 (2) Each report to the Regulator under subsection (1) must specify the location of the well, facility, in situ coal scheme, tank, pit or line break.
 
-12.141 The licensee of a well shall notify the Regulator immediately on detection of a casing leak or failure and, if requested by a representative of the Regulator, shall provide a report assessing the leak or failure, including a discussion of the cause, duration, damages, proposed remedial program, and measures to prevent future failures.
+12.141 The licensee of a well shall
+
+(a) notify the Regulator immediately on detection of a casing leak or failure by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator, and
+
+(b) if requested by a representative of the Regulator, make a submission through the designated information submission system assessing the leak or failure, including a discussion of the cause, duration, damages, proposed remedial program and measures to prevent future failures.
 
 ### Release of Information
 

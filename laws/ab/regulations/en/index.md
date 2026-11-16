@@ -730,6 +730,7 @@
 * [Provincial Parks (General) Regulation](Alta-Reg-102-85.md) - Alberta regulation, Alta Reg 102/85.
 * [Provincial Parks (Section 7 Declaration) Regulation](Alta-Reg-166-2011.md) - Alberta regulation, Alta Reg 166/2011.
 * [Provincial Priorities Regulation](Alta-Reg-21-2025.md) - Alberta regulation, Alta Reg 21/2025.
+* [Provincial Strategic Priorities for Education Regulation](Alta-Reg-262-2026.md) - Alberta regulation, Alta Reg 262/2026.
 * [Psychologists Profession Regulation](Alta-Reg-251-2005.md) - Alberta regulation, Alta Reg 251/2005.
 * [Public Auctions Regulation](Alta-Reg-196-99.md) - Alberta regulation, Alta Reg 196/99.
 * [Public Education Collective Bargaining Regulation](Alta-Reg-18-2016.md) - Alberta regulation, Alta Reg 18/2016.

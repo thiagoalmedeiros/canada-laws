@@ -2,30 +2,30 @@
 type: "Regulation"
 title: "Water (Ministerial) Regulation"
 description: "Alberta regulation, Alta Reg 205/98."
-resource: "https://kings-printer.alberta.ca/1266.cfm?page=1998_205.cfm&leg_type=Regs&isbncln=9780779865192&display=html"
+resource: "https://kings-printer.alberta.ca/1266.cfm?page=1998_205.cfm&leg_type=Regs&isbncln=9780779865352&display=html"
 tags: ["ab", "regulation", "en"]
 jurisdiction: "ab"
 language: "en"
 citation: "Alta Reg 205/98"
-document_date: "2026-10-08"
+document_date: "2026-10-29"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://kings-printer.alberta.ca/copyright.cfm; Archived (as of 6 November 2026): https://perma.cc/7GUJ-2NNL; Note: © Alberta King's Printer. Source: Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca). This reproduction of Alberta regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T12:54:34Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T12:55:28Z }
 sources:
   - id: "official"
-    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1998_205.cfm&leg_type=Regs&isbncln=9780779865192&display=html"
+    resource: "https://kings-printer.alberta.ca/1266.cfm?page=1998_205.cfm&leg_type=Regs&isbncln=9780779865352&display=html"
     title: "Alberta King's Printer: official text"
     author: "org:ab-government"
   - id: "a2aj"
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-AB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T12:54:34Z"
+    last_modified: "2026-11-14T12:55:28Z"
 ---
 
 # Water (Ministerial) Regulation
 
-> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1998_205.cfm&leg_type=Regs&isbncln=9780779865192&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=1998_205.cfm&leg_type=Regs&isbncln=9780779865352&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 205/98
 
@@ -336,6 +336,14 @@ in accordance with the Code of Practice for Wetland Replacement Works.
 (2) If notice was provided in accordance with subsection (1) and the activity has not been commenced, continued or carried out, as specified in the notice, within one year of the date notice was provided, the notice is no longer valid and the person commencing, continuing or carrying out the activity must provide further notice in accordance with subsection (1) before the activity is commenced, continued or carried out.
 
 (3) No person shall commence, continue or carry out an activity referred to in section 3 unless that person provides notice to the Director in accordance with subsection (1) or (2) of the intention to commence the activity.
+
+### Notice of section 2(t) of Schedule 1 activities
+
+4.01 (1) Before an activity referred to in section 2(t) of Schedule 1 may be commenced, continued or carried out, written notice must be provided to the Director in the form and manner required by the Director at least 14 days before the activity is commenced, continued or carried out unless otherwise specified by the Director.
+
+(2) If notice was provided in accordance with subsection (1) and the activity has not been commenced, continued or carried out, as specified in the notice, within 6 months of the date notice was provided, the notice is no longer valid and the person commencing, continuing or carrying out the activity must provide further notice in accordance with subsection (1) before the activity is commenced, continued or carried out.
+
+(3) No person shall commence, continue or carry out an activity described in section 2(t) of Schedule 1 unless that person provides notice to the Director in accordance with subsection (1) or (2) of the intention to commence, continue or carry out the activity.
 
 ### Approval for activities affecting factors at risk, etc.
 
@@ -1306,6 +1314,40 @@ and
 (B) a household user, licensee or traditional agriculture user, or
 
 (C) an adjacent parcel of land.
+
+(t) surface water draining, ditching and infilling of ephemeral water bodies and temporary and seasonal wetlands on private farmland if
+
+(i) the water body is entirely contained on the owner’s private parcel of farmland,
+
+(ii) the activity is carried out for the purpose of growing or raising agricultural crops on private farmland,
+
+(iii) all surface water is retained within the private parcel of farmland,
+
+(iv) the water body is not
+
+(A) a semi-permanent wetland, permanent wetland, bog, fen or swamp,
+
+(B) a wetland replacement area restored or constructed as a result of a wetland replacement activity that was carried out under an approval or the Code of Practice for Wetland Replacement Works adopted in section 3(10) of this Regulation,
+
+(C) subject to statutory protection or another protective instrument,
+
+(D) located within the Green Area or body of water referred to in section 3 of the Public Lands Act , and
+
+(E) within, adjacent to or directly connected to a water body frequented by fish,
+
+and
+
+(v) the activity does not
+
+(A) result in any change in the flow or volume of water on an adjacent parcel of land, and
+
+(B) result in an adverse effect on
+
+(I) the aquatic environment,
+
+(II) a household user, licensee or traditional agriculture user, or
+
+(III) any adjacent parcel of land.
 
 ## Schedule 2 Activities Within Designated Areas of the Province for Which an Approval is not Required
 

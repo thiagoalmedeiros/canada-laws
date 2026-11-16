@@ -2,30 +2,30 @@
 type: "Regulation"
 title: "Brine-hosted Mineral Resource Development Rules"
 description: "Alberta regulation, Alta Reg 17/2023."
-resource: "https://kings-printer.alberta.ca/1266.cfm?page=2023_017.cfm&leg_type=Regs&isbncln=9780779860623&display=html"
+resource: "https://kings-printer.alberta.ca/1266.cfm?page=2023_017.cfm&leg_type=Regs&isbncln=9780779865468&display=html"
 tags: ["ab", "regulation", "en"]
 jurisdiction: "ab"
 language: "en"
 citation: "Alta Reg 17/2023"
-document_date: "2026-02-02"
+document_date: "2026-10-30"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://kings-printer.alberta.ca/copyright.cfm; Archived (as of 6 November 2026): https://perma.cc/7GUJ-2NNL; Note: © Alberta King's Printer. Source: Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca). This reproduction of Alberta regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-10-31T11:18:31Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:18:44Z }
 sources:
   - id: "official"
-    resource: "https://kings-printer.alberta.ca/1266.cfm?page=2023_017.cfm&leg_type=Regs&isbncln=9780779860623&display=html"
+    resource: "https://kings-printer.alberta.ca/1266.cfm?page=2023_017.cfm&leg_type=Regs&isbncln=9780779865468&display=html"
     title: "Alberta King's Printer: official text"
     author: "org:ab-government"
   - id: "a2aj"
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-AB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-10-31T11:18:31Z"
+    last_modified: "2026-11-14T11:18:44Z"
 ---
 
 # Brine-hosted Mineral Resource Development Rules
 
-> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2023_017.cfm&leg_type=Regs&isbncln=9780779860623&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
+> **Unofficial version, for personal and non-commercial use only.** © Alberta King's Printer. Not endorsed by or affiliated with the Government of Alberta. Text obtained from the [official source](https://kings-printer.alberta.ca/1266.cfm?page=2023_017.cfm&leg_type=Regs&isbncln=9780779865468&display=html) via the [A2AJ Canadian Laws dataset](https://huggingface.co/datasets/a2aj/canadian-laws). Always check the official version before relying on it.
 
 Alta Reg 17/2023
 
@@ -51,7 +51,7 @@ Alta Reg 17/2023
 
 (iii) water that has been produced in association with the production of another energy resource from a well that was licensed for the purpose of producing that energy resource;
 
-(c) “Designated Information Submission System” means the online data submission process established by the Regulator;
+(c) “designated information submission system” means the online data submission process established by the Regulator;
 
 (d) “drilling waste” means the mud and cuttings generated from drilling a well;
 
@@ -243,7 +243,7 @@ and
 
 12 (1) A transfer of a licence is not effective unless this section is complied with.
 
-(2) An application for a transfer of a licence must be made in accordance with Directive 090 and submitted through the Designated Information Submission System.
+(2) An application for a transfer of a licence must be made in accordance with Directive 090 and submitted through the designated information submission system.
 
 (3) If the Regulator directs the transfer of a licence under section 12(3) of the Act, the person to whom the licence is so transferred must pay the Regulator the fee set out in Schedule 1.
 
@@ -323,7 +323,7 @@ and
 
 17 (1) A transfer of an approval is not effective unless this section is complied with.
 
-(2) An application for a transfer of an approval must be made in accordance with Directive 065 and Directive 090 and submitted through the Designated Information Submission System.
+(2) An application for a transfer of an approval must be made in accordance with Directive 065 and Directive 090 and submitted through the designated information submission system.
 
 (3) If an approval holder changes its name or amalgamates with another company that results in a change of name, the approval holder must submit certificates of proof satisfactory to the Regulator in accordance with Directive 067.
 
@@ -819,9 +819,9 @@ in relation to emergency preparedness and responses.
 
 (c) is on site and of a size that may cause, is causing or has caused an adverse effect as defined in the Environmental Protection and Enhancement Act ,
 
-the licensee must immediately report the size and location of the spill or release to the Regulator by telephoning the Energy and Environmental Response Line.
+the licensee must immediately report the size and location of the spill or release to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator.
 
-(3) When so directed by the Regulator, a report made under subsection (2) must be confirmed in a written report to the Regulator and be supplemented with at least the following additional information:
+(3) When so directed by the Regulator, a report made under subsection (2) must be confirmed in a submission through the designated information submission system to the Regulator and be supplemented with at least the following additional information:
 
 (a) the time the spill or release occurred;
 
@@ -839,7 +839,7 @@ the licensee must immediately report the size and location of the spill or relea
 
 58 If produced fluid, brine-hosted mineral resources, operating fluid, oilfield waste, water or hydrocarbons are spilled or released while being transported, otherwise than by pipeline, from a well or facility to the intended destination, the licensee of the well or facility must immediately
 
-(a) report the size and location of the spill or release to the Regulator by telephoning the Energy and Environmental Response Line,
+(a) report the size and location of the spill or release to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator,
 
 (b) take reasonable steps to contain and clean up the spilled or released material, and
 
@@ -875,7 +875,7 @@ the licensee must immediately report the size and location of the spill or relea
 
 (2) Subsection (1) does not apply where the Regulator approves the burning.
 
-(3) Notwithstanding subsection (1), burning of effluent from a well or facility is permissible under emergency conditions and due to equipment failure, but the burning must be immediately reported to the Regulator.
+(3) Notwithstanding subsection (1), burning of effluent from a well or facility is permissible under emergency conditions and due to equipment failure, but the licensee must immediately report the burning to the Regulator by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator.
 
 ### Equipping wells if samples > 50 mol/kmol H 2 S gas
 
@@ -1339,13 +1339,17 @@ must enclose the well and pumping unit with a fence suitable for preventing acce
 
 ### Report of fire
 
-100 (1) The licensee of a well or facility must immediately report to the Regulator any fire that occurs at a well or facility where the loss exceeds 2 m 3 of fluid or where damage to the wellhead occurs.
+100 (1) The licensee of a well or facility must immediately report to the Regulator any fire that occurs at a well or facility where the loss exceeds 2 m 3 of fluid or where damage to the wellhead occurs by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator,.
 
 (2) Each report to the Regulator under subsection (1) must specify the location of the well or facility.
 
 ### Report of casing leak or failure
 
-101 The licensee of a well must notify the Regulator immediately on detection of a casing leak or failure and, if requested by a representative of the Regulator, must provide a report assessing the leak or failure, including a discussion of the cause, duration, damages, proposed remedial program and measures to prevent future failures.
+101 The licensee of a well must
+
+(a) notify the Regulator immediately on detection of a casing leak or failure by telephoning the Energy and Environmental Response Line or by a submission through the designated information submission system, as directed by the Regulator, and
+
+(b) if requested by a representative of the Regulator, make a submission through the designated information submission system assessing the leak or failure, including a discussion of the cause, duration, damages, proposed remedial program and measures to prevent future failures.
 
 ### Financial and reserves information
 
@@ -1567,7 +1571,7 @@ and
 
 (3) The licensee must abandon the well in accordance with the conditions and specifications directed by the Regulator.
 
-(4) The licensee must notify the appropriate field centre of the Regulator of the licensee’s intention to abandon the well at least 12 hours before commencing the abandonment.
+(4) The licensee must notify the Regulator through the designated information submission system of the licensee’s intention to abandon the well at least 12 hours before commencing the abandonment.
 
 ## Part 6 General
 
