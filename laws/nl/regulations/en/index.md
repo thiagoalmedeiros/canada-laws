@@ -1242,6 +1242,7 @@
 * [Security Replacement Regulations](CNLR-7-96.md) - Newfoundland and Labrador regulation, CNLR 7/96.
 * [Seed Potato Regulations](CNLR-24-96.md) - Newfoundland and Labrador regulation, CNLR 24/96.
 * [Seniors' Advocate Regulations](NLR-53-17.md) - Newfoundland and Labrador regulation, NLR 53/17.
+* [Seniors' Affordability Regulations](NLR-54-26.md) - Newfoundland and Labrador regulation, NLR 54/26.
 * [Serious Incident Response Team Regulations](NLR-14-21.md) - Newfoundland and Labrador regulation, NLR 14/21.
 * [Service Animal Regulations](NLR-52-22.md) - Newfoundland and Labrador regulation, NLR 52/22.
 * [Sheriffs Fees Regulations, 1997](NLR-70-97.md) - Newfoundland and Labrador regulation, NLR 70/97.

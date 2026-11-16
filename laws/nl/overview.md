@@ -1,13 +1,13 @@
 ---
 type: "Jurisdiction"
 title: "Newfoundland and Labrador"
-description: "402 Acts and 1665 regulations of Newfoundland and Labrador, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
+description: "402 Acts and 1666 regulations of Newfoundland and Labrador, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
 resource: "https://www.assembly.nl.ca/legislation/sr/"
 tags: ["nl", "jurisdiction"]
 jurisdiction: "nl"
 acts_en: 402
 acts_fr: 0
-regulations_en: 1665
+regulations_en: 1666
 regulations_fr: 0
 status: "stable"
 generated: { by: process:canada-laws-provincial-converter }
@@ -35,7 +35,7 @@ The Acts and regulations of Newfoundland and Labrador (Terre-Neuve-et-Labrador),
 | | English | Français |
 |---|---|---|
 | Acts / Lois | [402](acts/en/) | — |
-| Regulations / Règlements | [1665](regulations/en/) | — |
+| Regulations / Règlements | [1666](regulations/en/) | — |
 
 # Concepts
 

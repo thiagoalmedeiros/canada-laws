@@ -6,4 +6,4 @@
 # Contents
 
 * [Acts](acts/) - 402 EN documents.
-* [Regulations](regulations/) - 1665 EN documents.
+* [Regulations](regulations/) - 1666 EN documents.
