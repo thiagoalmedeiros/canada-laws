@@ -7,7 +7,7 @@ tags: ["bc", "regulation", "en"]
 jurisdiction: "bc"
 language: "en"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:31:09Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:31:18Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/designatedareas/xml"
@@ -17,7 +17,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:31:09Z"
+    last_modified: "2026-11-14T11:31:18Z"
 ---
 
 # Designated Areas Notice
