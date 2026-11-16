@@ -470,6 +470,7 @@
 * [Ferment-on-Premises Regulations](NS-Reg-164-2014.md) - Nova Scotia regulation, NS Reg 164/2014.
 * [Film Industry Tax Credit Regulations](NS-Reg-15-96.md) - Nova Scotia regulation, NS Reg 15/96.
 * [Financial Institutions Capital Tax Regulations](NS-Reg-135-2021.md) - Nova Scotia regulation, NS Reg 135/2021.
+* [Financing Orders and Securitized Bonds Regulations](NS-Reg-250-2026.md) - Nova Scotia regulation, NS Reg 250/2026.
 * [Fine Option Program](NS-Reg-102-2000.md) - Nova Scotia regulation, NS Reg 102/2000.
 * [Fingerprinting Regulations](NS-Reg-18-2014.md) - Nova Scotia regulation, NS Reg 18/2014.
 * [Fire Safety Regulations](NS-Reg-48-2003.md) - Nova Scotia regulation, NS Reg 48/2003.
@@ -915,6 +916,7 @@
 * [Onshore Petroleum Drilling Regulations](NS-Reg-29-2001.md) - Nova Scotia regulation, NS Reg 29/2001.
 * [Onshore Petroleum Geophysical Exploration Regulations](NS-Reg-24-2000.md) - Nova Scotia regulation, NS Reg 24/2000.
 * [Operators of Crematoria Regulations](NS-Reg-116-2016.md) - Nova Scotia regulation, NS Reg 116/2016.
+* [Opportunity Site B Fall River Road Special Planning Area Municipal Planning Strategy and Land Use By-law Amendment Order](NS-Reg-247-2026.md) - Nova Scotia regulation, NS Reg 247/2026.
 * [Opportunity Site B Fall River Road Special Planning Area Order](NS-Reg-154-2024.md) - Nova Scotia regulation, NS Reg 154/2024.
 * [Optometry Regulations](NS-Reg-453-2007.md) - Nova Scotia regulation, NS Reg 453/2007.
 * [Orangedale Provincial Park](NS-Reg-36-2024.md) - Nova Scotia regulation, NS Reg 36/2024.

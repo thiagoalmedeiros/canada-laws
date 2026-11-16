@@ -405,7 +405,7 @@
 * [Partition Act](RSNS-1989-c-333.md) - Nova Scotia Act, RSNS 1989, c 333.
 * [Partnership Act](RSNS-1989-c-334.md) - Nova Scotia Act, RSNS 1989, c 334.
 * [Partnerships and Business Names Registration Act](RSNS-1989-c-335.md) - Nova Scotia Act, RSNS 1989, c 335.
-* [Patient Access to Care Act](SNS-2023-c-3.md) - Nova Scotia Act, SNS 2023, c 3.
+* [Patient Access to Care Act amended 2023, c. 15 *, s. 222(p) ( in force January 5, 2027 )](SNS-2023-c-3.md) - Nova Scotia Act, SNS 2023, c 3.
 * [Patient Safety Act](SNS-2012-c-13.md) - Nova Scotia Act, SNS 2012, c 13.
 * [Patients' Abandoned Property Act](RSNS-1989-c-336.md) - Nova Scotia Act, RSNS 1989, c 336.
 * [Pay Equity Act](RSNS-1989-c-337.md) - Nova Scotia Act, RSNS 1989, c 337.
@@ -499,7 +499,7 @@
 * [Regional Community Development Act](SNS-1996-c-29.md) - Nova Scotia Act, SNS 1996, c 29.
 * [Registered Barbers Act](RSNS-1989-c-390.md) - Nova Scotia Act, RSNS 1989, c 390.
 * [Registry Act](RSNS-1989-c-392.md) - Nova Scotia Act, RSNS 1989, c 392.
-* [Regulated Health Professions Act](SNS-2023-c-15.md) - Nova Scotia Act, SNS 2023, c 15.
+* [Regulated Health Professions Act 2023, c. 15 *, ss. 195, 212(b), 221(c), 222(p) ( in force January 5, 2027 )](SNS-2023-c-15.md) - Nova Scotia Act, SNS 2023, c 15.
 * [Regulated Health Professions Network Act](SNS-2012-c-48.md) - Nova Scotia Act, SNS 2012, c 48.
 * [Regulations Act](RSNS-1989-c-393.md) - Nova Scotia Act, RSNS 1989, c 393.
 * [Religious and Charitable Corporations Property Act](RSNS-1989-c-394.md) - Nova Scotia Act, RSNS 1989, c 394.
