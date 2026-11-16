@@ -11,7 +11,7 @@ document_date: "1990-12-14"
 translation: "../en/CCSM-c-R119.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:14:34Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:14:35Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/r119.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:14:34Z"
+    last_modified: "2026-11-14T11:14:35Z"
 ---
 
 # Loi sur la location à usage d'habitation
@@ -1438,7 +1438,7 @@ a) une situation d'urgence existe et il est nécessaire pour le locateur d'entre
 
 b) le locataire consent à laisser entrer le locateur dans l'unité locative;
 
-c) le locateur montre l'unité locative à un locataire éventuel après qu'un avis de résiliation a été donné en vertu de la présente loi mais avant que le locataire quitte l'unité;
+c) [abrogé] L.M. 2026, c. 49, art. 2 ;
 
 d) le locateur inspecte à une heure raisonnable l'unité locative, le jour où le locataire est tenu de quitter l'unité, afin de remplir un rapport sur l'état de l'unité locative ou de déterminer si le locataire s'est acquitté des obligations qui lui incombent en vertu de la présente loi et aux termes de la convention de location;
 
@@ -1452,7 +1452,9 @@ f) le locateur donne un avis écrit conformément au paragraphe (3) et l'accès 
 
 (iii) de permettre à un créancier hypothécaire ou à un assureur actuel ou éventuel d'inspecter l'unité locative lorsqu'une hypothèque ou une assurance est établie ou renouvelée à l'égard de l'ensemble résidentiel,
 
-(iv) de montrer l'unité locative aux acheteurs éventuels de l'unité ou de l'ensemble résidentiel;
+(iv) de montrer l'unité locative aux acheteurs éventuels de l'unité ou de l'ensemble résidentiel,
+
+(v) de montrer l'unité locative à un locataire éventuel après qu'un avis de résiliation a été donné en vertu de la présente loi, mais avant que le locataire quitte l'unité;
 
 g) le locateur entre dans l'unité locative afin de fournir au locataire des services aux locataires en conformité avec la convention de location.
 
@@ -3410,6 +3412,20 @@ b) enjoindre à un autre locataire ou à des locataires déterminés de l'ensemb
 
 140.1(7) Le directeur conserve le montant qui lui est remis en application du paragraphe (6) pendant une période de deux ans dans un compte du Trésor, après quoi il est confisqué au profit de la Couronne et est versé au Fonds.
 
+### EXAMEN DE LA LÉGISLATION EN MATIÈRE D'AUGMENTATIONS DE LOYER
+
+### Examens quinquennaux
+
+140.1.1(1) Au plus tard le 31 décembre 2027, puis au moins une fois tous les cinq ans par la suite, le directeur examine la présente partie et les règlements ayant trait aux augmentations de loyer et fait rapport de ses conclusions au ministre.
+
+### Consultations
+
+140.1.1(2) Dans le cadre de l'examen prévu au présent article, le directeur consulte le public et le comité consultatif nommé en application de l'article 191.
+
+### Dépôt du rapport à l'Assemblée
+
+140.1.1(3) Le ministre dépose une copie du rapport devant l'Assemblée dans les 15 premiers jours de séance suivant sa réception.
+
 ## PARTIE 9.1 FRAIS DE SERVICES AUX LOCATAIRES
 
 ### AVIS AUX NOUVEAUX LOCATAIRES
@@ -4451,6 +4467,28 @@ L.M. 2009, c. 10, art. 89 ; L.M. 2019, c. 15, art. 12.
 ### Disposition transitoire — appel à la Cour d'appel
 
 179.0.1 Les articles 175 à 179 dans leur version antérieure à l'entrée en vigueur du présent article continuent de s'appliquer aux personnes qui avaient le droit d'interjeter appel en vertu du paragraphe 175(1) avant l'entrée en vigueur du présent article.
+
+### ACCÈS AUX ORDRES ET ORDONNANCES VISANT UN LOCATAIRE
+
+### Ordres et ordonnances non mis à la disposition du public
+
+179.0.2(1) Par dérogation aux paragraphes 155(4) et 171(4), une décision, une ordonnance ou un ordre visant un locataire, ainsi que les motifs écrits l'étayant, ne sont pas mis à la disposition du public dans les cas suivants :
+
+a) la décision ou l'ordonnance a été rendue, ou l'ordre a été donné, il y a sept ans ou plus;
+
+b) le directeur décide, à la suite d'une demande du locataire en ce sens présentée en la forme et de la manière qu'il juge acceptables, qu'une telle mesure est appropriée dans les circonstances.
+
+### Non-application pour motifs de sécurité ou en cas d'activités illégales
+
+179.0.2(2) Lorsque la décision, l'ordonnance ou l'ordre vise une contravention à l'alinéa 74a) ou à l'article 74.1 par le locataire, l'alinéa (1)a) ne s'applique pas et la demande prévue à l'alinéa (1)b) ne peut être présentée que si la décision ou l'ordonnance a été rendue, ou l'ordre a été donné, il y a sept ans ou plus.
+
+### Aucun appel
+
+179.0.2(3) La décision du directeur prise en vertu de l'alinéa (1)b) est définitive et ne peut faire l'objet d'aucun appel.
+
+### Nouvelle demande en cas de rejet
+
+179.0.2(4) Le locataire dont la demande présentée en vertu de l'alinéa (1)b) est rejetée ne peut présenter une nouvelle demande qu'un an après ce rejet.
 
 ### POUVOIR DU DIRECTEUR : DESTINATION DU LOYER OU DES FRAIS DE SERVICES AUX LOCATAIRES
 

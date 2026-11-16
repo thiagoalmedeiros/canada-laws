@@ -11,7 +11,7 @@ document_date: "1996-07-08"
 translation: "../en/Man-Reg-134-96.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:41:42Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:41:44Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/134-96.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:41:42Z"
+    last_modified: "2026-11-14T11:41:44Z"
 ---
 
 # Arrêté sur la fermeture de réserves publiques
@@ -84,7 +84,7 @@ le ministre des Affaires du Nord édicte ce qui suit :
 
 3(3) La partie de la réserve domaniale indiquée au plan no 7277 du Bureau des titres fonciers de Portage-la-Prairie (division de Neepawa) qui est située à l'ouest d'une ligne parallèle à la limite est du lot 4 et située à une distance de 9,3 mètres, mesurée perpendiculairement, de cette limite, entre le prolongement vers l'est de la limite nord et de la limite sud du lot 4.
 
-### Pointe Benake
+### Spence Lake
 
 4(1) La partie de la moitié divisée nord de la section 7, township 30, rang 15, à l'ouest du méridien principal, prise pour le plan no 2104 de la promenade Dauphin et située dans les limites du plan qui porte le numéro de dépôt 168/2000, certifié par William Lee Morris, arpenteur-géomètre du Manitoba, de la ville de Dauphin, le 20 avril 2000.
 

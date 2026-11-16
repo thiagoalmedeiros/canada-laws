@@ -11,7 +11,7 @@ document_date: "2022-06-01"
 translation: "../fr/CCSM-c-C150.5.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:02:05Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:02:06Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/c150-5.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:02:05Z"
+    last_modified: "2026-11-14T11:02:06Z"
 ---
 
 # The Commemoration of Days, Weeks and Months Act
@@ -902,7 +902,25 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, the month of September is to be known as Childhood Cancer Awareness Month.
 
-## SCHEDULE 46 UKRAINIAN HERITAGE MONTH
+## SCHEDULE 46 INDIGENOUS HERITAGE MONTH
+
+WHEREAS Indigenous people had rich cultural practices, advanced systems of government and deep connections to the land long before contact with European explorers and settlers;
+
+AND WHEREAS the Canadian government sought to forcibly assimilate Indigenous people through the residential school system, the Indian Act and other policies designed to eliminate Indigenous languages, extinguish Indigenous identities and suppress traditional cultural practices;
+
+AND WHEREAS Indigenous people have maintained their languages, identities and cultural practices despite concerted efforts to eliminate them;
+
+AND WHEREAS it is critically important for Indigenous youth to learn about their culture, traditions and languages and take pride in their unique Indigenous identities;
+
+AND WHEREAS Indigenous Heritage Month will provide an opportunity for all Manitobans to learn about the heritage of Indigenous people so that they have a complete understanding of the true history of Canada;
+
+THEREFORE the following is proclaimed throughout Manitoba:
+
+### Indigenous Heritage Month
+
+1 In each year, the month of September is to be known as Indigenous Heritage Month.
+
+## SCHEDULE 47 UKRAINIAN HERITAGE MONTH
 
 WHEREAS the first official Ukrainian immigrants, Vasyl Eleniak and Ivan Pylypiw, arrived in Canada on September 7, 1891;
 
@@ -930,7 +948,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 The month of September in each year is to be known as Ukrainian Heritage Month.
 
-## SCHEDULE 47 FETAL ALCOHOL SPECTRUM DISORDER AWARENESS DAY
+## SCHEDULE 48 FETAL ALCOHOL SPECTRUM DISORDER AWARENESS DAY
 
 WHEREAS Fetal Alcohol Spectrum Disorder (FASD) is a neurodevelopmental disorder caused by prenatal alcohol exposure that can lead to lifelong physical, mental, and behavioural difficulties, as well as learning disabilities;
 
@@ -948,7 +966,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, September 9 is to be known as Fetal Alcohol Spectrum Disorder Awareness Day.
 
-## SCHEDULE 48 GRANDPARENTS' DAY
+## SCHEDULE 49 GRANDPARENTS' DAY
 
 WHEREAS grandparents play an important, nurturing role in family life and are a valuable link between generations;
 
@@ -960,7 +978,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, the first Sunday after Labour Day in September is to be known as Grandparents' Day.
 
-## SCHEDULE 49 TERRY FOX RUN DAY
+## SCHEDULE 50 TERRY FOX RUN DAY
 
 WHEREAS Terry Fox, born in Manitoba on July 28, 1958, inspired a nation with his heroic efforts;
 
@@ -982,7 +1000,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, the second Sunday after Labour Day in September is to be known as Terry Fox Run Day.
 
-## SCHEDULE 50 MANITOBA FARM AND FOOD AWARENESS WEEK
+## SCHEDULE 51 MANITOBA FARM AND FOOD AWARENESS WEEK
 
 WHEREAS the purpose of Manitoba Farm and Food Awareness Week is to encourage activities to promote Manitoba farms, Manitoba food and other products of farming carried on in Manitoba;
 
@@ -992,7 +1010,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, the week beginning on the third Monday in September is to be known as Manitoba Farm and Food Awareness Week.
 
-## SCHEDULE 51 RAIL SAFETY AWARENESS WEEK
+## SCHEDULE 52 RAIL SAFETY AWARENESS WEEK
 
 WHEREAS each year there are approximately 240 collisions and trespassing incidents along Canadian railways resulting in the injury or death of more than 100 people;
 
@@ -1008,7 +1026,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, the week of the last Friday in September is to be known as Rail Safety Awareness Week.
 
-## SCHEDULE 52 ORANGE SHIRT DAY
+## SCHEDULE 53 ORANGE SHIRT DAY
 
 WHEREAS the orange shirt has become a symbol of remembrance for residential school survivors;
 
@@ -1026,7 +1044,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, September 30 is to be known as Orange Shirt Day.
 
-## SCHEDULE 53 ISLAMIC HERITAGE MONTH
+## SCHEDULE 54 ISLAMIC HERITAGE MONTH
 
 WHEREAS the contributions of the Muslim community in Canada were first recognized in 2007 when October was designated as Canadian Islamic History Month by the House of Commons;
 
@@ -1046,7 +1064,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, the month of October is to be known as Islamic Heritage Month.
 
-## SCHEDULE 54 CONSERVATION OFFICERS RECOGNITION DAY
+## SCHEDULE 55 CONSERVATION OFFICERS RECOGNITION DAY
 
 WHEREAS An Act for the protection of game in the Province of Manitoba received royal assent in 1879, authorizing the Lieutenant Governor to appoint game guardians, the earliest predecessors of today's conservation officers, having the powers of constables to protect Manitoba's game and wild fowl;
 
@@ -1064,7 +1082,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, October 1 is to be known as Conservation Officers Recognition Day.
 
-## SCHEDULE 55 CELEBRATION OF NIGERIAN INDEPENDENCE DAY
+## SCHEDULE 56 CELEBRATION OF NIGERIAN INDEPENDENCE DAY
 
 WHEREAS Manitoba is home to a thriving, dynamic community of Nigerian Canadians with a strong and significant involvement in the economic and cultural fabric of our province;
 
@@ -1084,7 +1102,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, October 1 is to be known as Celebration of Nigerian Independence Day.
 
-## SCHEDULE 56 MISSING AND MURDERED INDIGENOUS WOMEN AND GIRLS HONOURING AND AWARENESS DAY
+## SCHEDULE 57 MISSING AND MURDERED INDIGENOUS WOMEN AND GIRLS HONOURING AND AWARENESS DAY
 
 WHEREAS more than 1,200 Indigenous women and girls in Canada have gone missing or been murdered since 1980, according to police reports;
 
@@ -1104,7 +1122,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, October 4 is to be known as Missing and Murdered Indigenous Women and Girls Honouring and Awareness Day.
 
-## SCHEDULE 57 PREGNANCY AND INFANT LOSS AWARENESS DAY
+## SCHEDULE 58 PREGNANCY AND INFANT LOSS AWARENESS DAY
 
 WHEREAS many Manitoba parents and families have suffered a miscarriage, a stillbirth or the death of an infant during delivery or shortly after birth;
 
@@ -1118,7 +1136,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, October 15 is to be known as Pregnancy and Infant Loss Awareness Day.
 
-## SCHEDULE 58 APPRENTICESHIP RECOGNITION WEEK
+## SCHEDULE 59 APPRENTICESHIP RECOGNITION WEEK
 
 WHEREAS developing and maintaining a highly skilled workforce is vital to Manitoba's economic prosperity;
 
@@ -1136,7 +1154,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, the week of the first Monday in November is to be known as Apprenticeship Recognition Week.
 
-## SCHEDULE 59 REMEMBRANCE DAY AWARENESS WEEK
+## SCHEDULE 60 REMEMBRANCE DAY AWARENESS WEEK
 
 WHEREAS the freedoms and dignity enjoyed by Manitobans are preserved by those who serve in Canada's armed forces;
 
@@ -1150,7 +1168,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, the seven-day period from November 5 to November 11 is to be known as Remembrance Day Awareness Week.
 
-## SCHEDULE 60 INDIGENOUS VETERANS DAY
+## SCHEDULE 61 INDIGENOUS VETERANS DAY
 
 WHEREAS Manitobans from First Nation, Inuit and Red River Métis communities have served in the Canadian Armed Forces, including those who sacrificed their lives in defence of freedom and peace;
 
@@ -1170,7 +1188,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, November 8 is to be known as Indigenous Veterans Day.
 
-## SCHEDULE 61 NURSE PRACTITIONER DAY
+## SCHEDULE 62 NURSE PRACTITIONER DAY
 
 WHEREAS Manitobans deserve a health care system that is current, accessible and responsive to the needs of all Manitobans;
 
@@ -1188,7 +1206,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, November 18 is to be known as Nurse Practitioner Day.
 
-## SCHEDULE 62 UKRAINIAN FAMINE AND GENOCIDE (HOLODOMOR) MEMORIAL DAY
+## SCHEDULE 63 UKRAINIAN FAMINE AND GENOCIDE(HOLODOMOR) MEMORIAL DAY
 
 WHEREAS 2007-08 marks the 75th anniversary of the Ukrainian Famine and Genocide of 1932-33, which is being recognized by the international community;
 
@@ -1204,7 +1222,7 @@ THEREFORE the following is proclaimed throughout Manitoba:
 
 1 In each year, the fourth Saturday in November is to be known as Ukrainian Famine and Genocide (Holodomor) Memorial Day.
 
-## SCHEDULE 63 POLICE AND PEACE OFFICERS' MEMORIAL DAY
+## SCHEDULE 64 POLICE AND PEACE OFFICERS' MEMORIAL DAY
 
 WHEREAS police and peace officers make valuable contributions to the safety of Manitobans;
 

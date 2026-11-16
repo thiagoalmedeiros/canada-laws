@@ -11,7 +11,7 @@ document_date: "1990-12-14"
 translation: "../fr/CCSM-c-R119.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:14:34Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:14:35Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/r119.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:14:34Z"
+    last_modified: "2026-11-14T11:14:35Z"
 ---
 
 # The Residential Tenancies Act
@@ -1590,7 +1590,7 @@ due by the tenant for the rental payment period immediately before the landlord 
 
 (b) the tenant consents to the entry;
 
-(c) the landlord shows the rental unit to a prospective tenant after notice of termination is given under this Act but before the tenant has vacated the unit;
+(c) [repealed] S.M. 2026, c. 49, s. 2;
 
 (d) the landlord inspects the rental unit on the day the tenant is required to vacate the unit to complete a rental unit condition report or to determine if the tenant has fulfilled the tenant's obligations under this Act and the tenancy agreement, and the inspection takes place at a reasonable time;
 
@@ -1602,9 +1602,11 @@ due by the tenant for the rental payment period immediately before the landlord 
 
 (ii) to complete a rental unit condition report if the tenant has requested the landlord's consent to an assignment or subletting,
 
-(iii) to permit a mortgagee or insurer or prospective mortgagee or insurer to inspect the unit when a mortgage or insurance coverage is being arranged or renewed on the residential complex, or
+(iii) to permit a mortgagee or insurer or prospective mortgagee or insurer to inspect the unit when a mortgage or insurance coverage is being arranged or renewed on the residential complex,
 
-(iv) to show the rental unit to prospective purchasers of the rental unit or residential complex;
+(iv) to show the rental unit to prospective purchasers of the rental unit or residential complex, or
+
+(v) to show the rental unit to a prospective tenant after notice of termination is given under this Act but before the tenant has vacated the unit;
 
 (g) the landlord enters the rental unit to provide tenant services to the tenant in accordance with the tenancy agreement.
 
@@ -3274,7 +3276,7 @@ S.M. 2012, c. 26, s. 17; S.M. 2012, c. 30, s. 19; S.M. 2018, c. 29, s. 35.
 
 ### When application to be made
 
-123(3) An application under subsection (2) shall be in the prescribed form and be filed not later than 14 days after the beginning of the 3 month notice period required for rent increases under subsection 25(1).
+123(3) An application under subsection (2) shall be in the prescribed form and be filed not later than 14 days after the beginning of the 3-month notice period required for rent increases under subsection 25(1).
 
 ### Whole building review
 
@@ -3382,7 +3384,7 @@ the landlord may apply to the director under this section for an order permittin
 
 ### When application to be made
 
-126.1(3) An application under subsection (1) shall be in a form acceptable to the director and be filed not later than 14 days after the beginning of the 3 month notice period required for rent increases under subsection 25(1).
+126.1(3) An application under subsection (1) shall be in a form acceptable to the director and be filed not later than 14 days after the beginning of the 3-month notice period required for rent increases under subsection 25(1).
 
 ### Whole building review
 
@@ -3823,6 +3825,20 @@ the director may make an order
 ### Forfeiture to Crown
 
 140.1(7) The director shall hold money paid to the director under subsection (6) for two years in an account in the Consolidated Fund. At the end of two years, the money is forfeited to the Crown and shall be paid into the security deposit compensation fund established under subsection 36(1).
+
+### REVIEW OF RENT REGULATION
+
+### Review every five years
+
+140.1.1(1) Not later than December 31, 2027, and at least once in each five-year period after that, the director must review this Part and the regulations relating to rent increases and report their findings to the minister.
+
+### Consultation
+
+140.1.1(2) As part of a review under this section, the director must consult with the public and with the advisory committee appointed under section 191.
+
+### Tabling report in Assembly
+
+140.1.1(3) The minister must table a copy of the report in the Assembly on any of the first 15 days on which the Assembly is sitting after the minister receives it.
 
 ## PART 9.1 TENANT SERVICES CHARGES
 
@@ -4947,6 +4963,32 @@ S.M. 2009, c. 10, s. 89; S.M. 2019, c. 15, s. 12.
 ### Transitional — appeal to Court of Appeal
 
 179.0.1 Sections 175 to 179, as they read immediately before the coming into force of this section, continue to apply in respect of a person who was eligible to make an appeal under subsection 175(1) before the coming into force of this section.
+
+### ACCESS TO ORDERS AGAINST TENANTS
+
+### Orders not to be available
+
+179.0.2(1) Despite subsections 155(4) and 171(4), a decision or order made against a tenant, and any written reasons for it, must not be made available to the public under those provisions if
+
+(a) seven or more years have passed since the decision or order was made; or
+
+(b) the director, on application by the tenant in a form and manner acceptable to the director, determines that it is appropriate in the circumstances that the decision or order not be made available to the public.
+
+### Exception — safety or unlawful activity
+
+179.0.2(2) If the decision or order referred to in subsection (1) was made as a result of the tenant's contravention of clause 74(a) (impairment of safety) or section 74.1 (unlawful activity), then
+
+(a) clause (1)(a) does not apply; and
+
+(b) the tenant may apply to the director under clause (1)(b) only if seven or more years have passed since the decision or order was made.
+
+### No appeal
+
+179.0.2(3) A determination made by the director under clause (1)(b) is final and not subject to appeal.
+
+### Tenant may apply again after one year
+
+179.0.2(4) A tenant whose application under clause (1)(b) is refused may apply again only after one year has passed since the refusal.
 
 ### DIRECTOR'S AUTHORITY: REDIRECTING RENTS OR TENANT SERVICES CHARGES
 

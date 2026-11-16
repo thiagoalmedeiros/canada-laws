@@ -11,7 +11,7 @@ document_date: "2022-06-01"
 translation: "../en/CCSM-c-C150.5.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:02:05Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:02:06Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/c150-5.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:02:05Z"
+    last_modified: "2026-11-14T11:02:06Z"
 ---
 
 # Loi sur les journées, les semaines et les mois commémoratifs
@@ -978,7 +978,27 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le mois de septembre est désigné chaque année « Mois de sensibilisation au cancer pédiatrique ».
 
-## ANNEXE 46 MOIS DU PATRIMOINE UKRAINIEN
+## ANNEXE 46 MOIS DU PATRIMOINE AUTOCHTONE
+
+Attendu :
+
+que les peuples autochtones possédaient des pratiques culturelles riches, des systèmes de gouvernance avancés et des liens profonds avec la terre bien avant leur rencontre avec les explorateurs et colons européens;
+
+que le gouvernement du Canada a tenté d'assimiler de force les peuples autochtones au moyen du système des pensionnats autochtones, de la Loi sur les Indiens et d'autres politiques conçues pour faire disparaître leurs langues, leurs identités et leurs pratiques culturelles traditionnelles;
+
+que les peuples autochtones ont réussi à préserver leurs langues, leurs identités et leurs pratiques culturelles malgré les actions concertées pour les faire disparaître;
+
+qu'il est extrêmement important que les jeunes autochtones s'instruisent sur leur culture, leurs traditions et leurs langues et qu'ils soient fiers de leurs identités autochtones;
+
+que le Mois du patrimoine autochtone donnera aux Manitobains l'occasion de s'instruire sur le patrimoine des peuples autochtones afin d'avoir une compréhension complète de la véritable histoire du Canada,
+
+il est proclamé ce qui suit dans toute la province :
+
+### Mois du patrimoine autochtone
+
+1 Le mois de septembre est désigné chaque année « Mois du patrimoine autochtone ».
+
+## ANNEXE 47 MOIS DU PATRIMOINE UKRAINIEN
 
 Attendu :
 
@@ -1008,7 +1028,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le mois de septembre est désigné chaque année « Mois du patrimoine ukrainien ».
 
-## ANNEXE 47 JOURNÉE DE SENSIBILISATION À L'ENSEMBLE DES TROUBLES CAUSÉS PAR L'ALCOOLISATION FŒTALE
+## ANNEXE 48 JOURNÉE DE SENSIBILISATION À L'ENSEMBLE DES TROUBLES CAUSÉS PAR L'ALCOOLISATION FŒTALE
 
 Attendu :
 
@@ -1028,7 +1048,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le 9 septembre est désigné chaque année « Journée de sensibilisation à l'ensemble des troubles causés par l'alcoolisation fœtale ».
 
-## ANNEXE 48 JOURNÉE DES GRANDS-PARENTS
+## ANNEXE 49 JOURNÉE DES GRANDS-PARENTS
 
 Attendu :
 
@@ -1042,7 +1062,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le dimanche qui suit la fête du Travail est désigné chaque année « Journée des grands-parents ».
 
-## ANNEXE 49 JOURNÉE DE LA COURSE TERRY FOX
+## ANNEXE 50 JOURNÉE DE LA COURSE TERRY FOX
 
 Attendu :
 
@@ -1066,7 +1086,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le deuxième dimanche suivant la fête du Travail est désigné chaque année « Journée de la course Terry Fox ».
 
-## ANNEXE 50 SEMAINE DE PROMOTION DU SECTEUR AGROALIMENTAIRE AU MANITOBA
+## ANNEXE 51 SEMAINE DE PROMOTION DU SECTEUR AGROALIMENTAIRE AU MANITOBA
 
 Attendu que la Semaine de promotion du secteur agroalimentaire au Manitoba a pour objet de promouvoir les exploitations agricoles et les produits agricoles et alimentaires du Manitoba,
 
@@ -1076,7 +1096,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 La semaine débutant le troisième lundi de septembre est désignée chaque année « Semaine de promotion du secteur agroalimentaire au Manitoba ».
 
-## ANNEXE 51 SEMAINE DE SENSIBILISATION À LA SÉCURITÉ FERROVIAIRE
+## ANNEXE 52 SEMAINE DE SENSIBILISATION À LA SÉCURITÉ FERROVIAIRE
 
 Attendu :
 
@@ -1094,7 +1114,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 La semaine du dernier vendredi de septembre est désignée chaque année « Semaine de sensibilisation à la sécurité ferroviaire ».
 
-## ANNEXE 52 JOURNÉE DU CHANDAIL ORANGE
+## ANNEXE 53 JOURNÉE DU CHANDAIL ORANGE
 
 Attendu :
 
@@ -1114,7 +1134,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le 30 septembre est désigné chaque année « Journée du chandail orange ».
 
-## ANNEXE 53 MOIS DU PATRIMOINE ISLAMIQUE
+## ANNEXE 54 MOIS DU PATRIMOINE ISLAMIQUE
 
 Attendu :
 
@@ -1136,7 +1156,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le mois d'octobre est désigné chaque année « Mois du patrimoine islamique ».
 
-## ANNEXE 54 JOURNÉE DE RECONNAISSANCE DES AGENTS DE CONSERVATION
+## ANNEXE 55 JOURNÉE DE RECONNAISSANCE DES AGENTS DE CONSERVATION
 
 Attendu :
 
@@ -1156,7 +1176,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le 1er octobre est désigné chaque année « Journée de reconnaissance des agents de conservation ».
 
-## ANNEXE 55 JOURNÉE DE LA CÉLÉBRATION DE L'INDÉPENDANCE DU NIGERIA
+## ANNEXE 56 JOURNÉE DE LA CÉLÉBRATION DE L'INDÉPENDANCE DU NIGERIA
 
 Attendu :
 
@@ -1178,7 +1198,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le 1er octobre est désigné chaque année « Journée de la célébration de l'indépendance du Nigeria ».
 
-## ANNEXE 56 JOURNÉE D'HOMMAGE ET DE SENSIBILISATION AUX FEMMES ET AUX FILLES AUTOCHTONES DISPARUES ET ASSASSINÉES
+## ANNEXE 57 JOURNÉE D'HOMMAGE ET DE SENSIBILISATION AUX FEMMES ET AUX FILLES AUTOCHTONES DISPARUES ET ASSASSINÉES
 
 Attendu :
 
@@ -1200,7 +1220,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le 4 octobre est désigné chaque année « Journée d'hommage et de sensibilisation aux femmes et aux filles autochtones disparues et assassinées ».
 
-## ANNEXE 57 JOURNÉE DE SENSIBILISATION AU DEUIL PÉRINATAL
+## ANNEXE 58 JOURNÉE DE SENSIBILISATION AU DEUIL PÉRINATAL
 
 Attendu :
 
@@ -1216,7 +1236,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le 15 octobre est désigné chaque année « Journée de sensibilisation au deuil périnatal ».
 
-## ANNEXE 58 SEMAINE DE RECONNAISSANCE DE L'APPRENTISSAGE
+## ANNEXE 59 SEMAINE DE RECONNAISSANCE DE L'APPRENTISSAGE
 
 Attendu :
 
@@ -1236,7 +1256,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 La semaine du premier lundi de novembre est désignée chaque année « Semaine de reconnaissance de l'apprentissage ».
 
-## ANNEXE 59 SEMAINE DE SENSIBILISATION AU JOUR DU SOUVENIR
+## ANNEXE 60 SEMAINE DE SENSIBILISATION AU JOUR DU SOUVENIR
 
 Attendu :
 
@@ -1252,7 +1272,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 La période de sept jours allant du 5 au 11 novembre est désignée chaque année « Semaine de sensibilisation au jour du Souvenir ».
 
-## ANNEXE 60 JOURNÉE DES ANCIENS COMBATTANTS AUTOCHTONES
+## ANNEXE 61 JOURNÉE DES ANCIENS COMBATTANTS AUTOCHTONES
 
 Attendu :
 
@@ -1274,7 +1294,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le 8 novembre est désigné chaque année « Journée des anciens combattants autochtones ».
 
-## ANNEXE 61 JOURNÉE DES INFIRMIERS PRATICIENS
+## ANNEXE 62 JOURNÉE DES INFIRMIERS PRATICIENS
 
 Attendu :
 
@@ -1294,7 +1314,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le 18 novembre est désigné chaque année « Journée des infirmiers praticiens ».
 
-## ANNEXE 62 JOURNÉE COMMÉMORATIVE DE LA FAMINE ET DU GÉNOCIDE UKRAINIENS (HOLODOMOR)
+## ANNEXE 63 JOURNÉE COMMÉMORATIVE DE LA FAMINE ET DU GÉNOCIDE UKRAINIENS (HOLODOMOR)
 
 Attendu :
 
@@ -1312,7 +1332,7 @@ il est proclamé ce qui suit dans toute la province :
 
 1 Le quatrième samedi de novembre est désigné chaque année « Journée commémorative de la famine et du génocide ukrainiens (Holodomor) ».
 
-## ANNEXE 63 JOURNÉE COMMÉMORATIVE DES POLICIERS ET DES AGENTS DE LA PAIX
+## ANNEXE 64 JOURNÉE COMMÉMORATIVE DES POLICIERS ET DES AGENTS DE LA PAIX
 
 Attendu :
 

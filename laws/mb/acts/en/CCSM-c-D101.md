@@ -11,7 +11,7 @@ document_date: "2002-08-09"
 translation: "../fr/CCSM-c-D101.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:04:03Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:04:03Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/d101.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:04:03Z"
+    last_modified: "2026-11-14T11:04:03Z"
 ---
 
 # The Drinking Water Safety Act
@@ -54,7 +54,7 @@ HER MAJESTY, by and with the advice and consent of the Legislative Assembly of M
 
 (b) a testing facility approved by the director and operated in accordance with the regulations; (« laboratoire »)
 
-"medical officer" means a medical officer of health appointed under The Public Health Act; (« médecin hygiéniste »)
+"medical officer" means a medical officer of health appointed or designated under The Public Health Act; (« médecin hygiéniste »)
 
 "minister" means the minister appointed by the Lieutenant Governor in Council to administer this Act; (« ministre »)
 
@@ -286,15 +286,35 @@ a public water system or a semi-public water system except under the authority o
 
 ### Order may require standards to be exceeded
 
-11(7) An order may be made under this section or under section 12 or 13 even if it imposes requirements on a water supplier that are more stringent than the drinking water quality standards specified in the regulations.
+11(7) An order may be made under this section or under section 12, 12.1 or 13 even if it imposes requirements on a water supplier that are more stringent than the drinking water quality standards specified in the regulations.
 
 ### Director may revoke or amend order
 
 12 The director may, by order, revoke or amend an order made under section 11 by a drinking water officer.
 
+### Order to operate water system
+
+12.1(1) If, after reasonable investigation, the director is unable to identify any owner of a water system or determines that a water system does not have an owner, the director may order a person who owns or controls the land on which the water system is located to take control of, operate and manage the water system or any part of the water system for a specified period, at the person's expense and in accordance with the terms and conditions of the order.
+
+### Prerequisites
+
+12.1(2) The director may make an order under subsection (1) only if the prerequisites for an order under subsection 11(1) are met.
+
+### Licence must be obtained
+
+12.1(3) If the water system described in subsection (1) is a public water system or a semi-public water system, the person to whom the order is directed must obtain an operating licence for the water system within the time period specified in the order.
+
+### Compliance with Act
+
+12.1(4) A person to whom an order is directed under subsection (1) is for the purposes of this Act deemed to be a water supplier for the water system except as specified in the order.
+
+### Other orders
+
+12.1(5) The director may make an order under this section in addition to any other order that may have been made under section 11 or 12.
+
 ### Order to water supplier to hire interim operator
 
-13(1) If the prerequisites for an order under subsection 11(1) are met, the minister may, in addition to any order that may have been made under section 11 or 12, order a water supplier to enter into an agreement or arrangement with another person to take control of, operate and manage a water system or any part of a water system for a specified period, at the water supplier's expense and in accordance with the terms and conditions of the order.
+13(1) If the prerequisites for an order under subsection 11(1) are met, the minister may, in addition to any order that may have been made under section 11, 12 or 12.1, order a water supplier to enter into an agreement or arrangement with another person to take control of, operate and manage a water system or any part of a water system for a specified period, at the water supplier's expense and in accordance with the terms and conditions of the order.
 
 ### Interim operator to comply with licence and Act
 
@@ -324,7 +344,7 @@ a public water system or a semi-public water system except under the authority o
 
 ### Action if order not complied with
 
-15(1) If a person to whom an order has been directed under section 10, 11, 12 or 13 fails to comply with it, unless a stay of the order has been granted under subsection 16(3),
+15(1) If a person to whom an order has been directed under any of sections 10 to 13 fails to comply with it, unless a stay of the order has been granted under subsection 16(3),
 
 (a) the director may, with the approval of a medical officer, suspend, cancel or refuse to renew the operating licence for the water system; or
 
@@ -344,7 +364,7 @@ a public water system or a semi-public water system except under the authority o
 
 (b) a decision of the director under section 7 or 8, or under the regulations, resulting in the issuance, renewal or refusal to issue or renew a permit or licence, the terms and conditions of a permit or licence, or the amendment, suspension or cancellation of a permit or licence; or
 
-(c) an order made under section 10, 11 or 12;
+(c) an order made under section 10, 11, 12 or 12.1;
 
 may, by written notice to the minister within 14 days after the decision or the making of the order, or such further time as the minister allows, appeal the decision or order to the minister.
 
@@ -508,7 +528,7 @@ in accordance with the regulations.
 
 ### Mandatory record-keeping
 
-25 Every public water supplier and semi-public water supplier must make and retain written records relating to the operation of the water system, sampling and other prescribed matters, and provide periodic reports to the director or a drinking water officer, in accordance with the regulations.
+25 Every public water supplier and semi-public water supplier must make and retain records relating to the operation of the water system, sampling and other prescribed matters, and provide periodic reports to the director or a drinking water officer, in accordance with the regulations.
 
 ### DRINKING WATER QUALITY DATABASE
 
@@ -808,7 +828,7 @@ in accordance with the regulations.
 
 (q) prescribing matters about which public water suppliers and semi-public water suppliers must make and retain records;
 
-(r) respecting obligations on water suppliers to make and maintain written records, and to provide periodic reports to the director or a drinking water officer;
+(r) respecting obligations on water suppliers to make and maintain records, and to provide periodic reports to the director or a drinking water officer;
 
 (s) respecting information that water suppliers are required to make publicly available and the manner in which information is to be made available, including requirements for the posting of permits, licenses, orders and advisories issued under this Act;
 

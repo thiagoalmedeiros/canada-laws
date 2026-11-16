@@ -11,7 +11,7 @@ document_date: "2009-10-08"
 translation: "../en/CCSM-c-A110.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:00:20Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:00:20Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/a110.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:00:20Z"
+    last_modified: "2026-11-14T11:00:20Z"
 ---
 
 # Loi sur l'apprentissage et la reconnaissance professionnelle
@@ -70,6 +70,8 @@ SA MAJESTÉ, sur l'avis et avec le consentement de l'Assemblée législative du 
 
 « formation technique » La partie d'un programme d'apprentissage ou d'un programme de reconnaissance professionnelle dans le cadre de laquelle une personne reçoit un enseignement officiel portant notamment sur les aspects théoriques d'un métier ou d'une profession désignés. ("technical training")
 
+« fournisseur de services approuvé » Établissement d'enseignement, personne morale ou organisation qui a conclu une entente avec le directeur général pour offrir des services, notamment de la formation technique ou de l'enseignement, sous le régime de la présente loi. ("approved service provider")
+
 « métier à reconnaissance professionnelle facultative » Métier désigné qui n'est pas un métier à reconnaissance professionnelle obligatoire. ("voluntary trade")
 
 « métier à reconnaissance professionnelle obligatoire » Métier désigné qui, selon un règlement pris en vertu de l'article 25, doit faire l'objet d'une reconnaissance professionnelle. ("compulsory certification trade")
@@ -91,6 +93,8 @@ b) prévu par règlement à l'égard d'un métier à reconnaissance professionne
 « programme d'études » Programme qu'une université, au sens de l'article 1 de la Loi sur l'administration de l'enseignement postsecondaire, ou un établissement indiqué à l'alinéa 16b) offre à un élève. ("education program")
 
 « règlement » Règlement pris sous le régime de la présente loi. ("regulation")
+
+« renseignements personnels » S'entend au sens de la Loi sur l'accès à l'information et la protection de la vie privée. ("personal information")
 
 ## PARTIE 2 COMMISSION DE L'APPRENTISSAGE ET DE LA RECONNAISSANCE PROFESSIONNELLE
 
@@ -960,11 +964,27 @@ b) soit renvoyer la question au directeur général afin qu'il l'examine de nouv
 
 ### Communication de renseignements
 
-42(1) Pour l'application de la présente loi et des règlements, le directeur général peut communiquer des renseignements recueillis ou obtenus sous leur régime à un ministère du gouvernement ou à un ministère ou un organisme du gouvernement du Canada ou d'une autre province et un directeur nommé en vertu du paragraphe 32(1) peut les communiquer au directeur général.
+42(1) Pour l'application de la présente loi et des règlements, le directeur général peut communiquer des renseignements recueillis ou obtenus sous leur régime à un fournisseur de services approuvé, à un ministère du gouvernement ou à un ministère ou un organisme du gouvernement du Canada ou d'une autre province et un directeur nommé en vertu du paragraphe 32(1) peut les communiquer au directeur général.
 
-### Interprétation
+### Communication restreinte des renseignements personnels
 
-42(2) Au paragraphe (1), sont assimilés à des renseignements les renseignements personnels au sens de la Loi sur l'accès à l'information et la protection de la vie privée, mais seulement dans la mesure où ils sont nécessaires à l'application de la présente loi et des règlements ou à l'élaboration, à la mise en œuvre ou à l'administration des programmes d'apprentissage et de reconnaissance professionnelle ayant trait respectivement à des métiers désignés et à des professions désignées.
+42(2) Les renseignements communiqués ne peuvent inclure que les renseignements personnels qui sont nécessaires à la réalisation de la fin visée au paragraphe (1).
+
+### REGISTRE
+
+### Registre
+
+42.1(1) Dans les 60 jours suivant l'entrée en vigueur du présent article, le directeur général établit un registre en ligne qui permet au public de vérifier les compétences de certaines personnes assujetties à la présente loi.
+
+### Renseignements consignés au registre
+
+42.1(2) Le registre contient les renseignements réglementaires concernant :
+
+a) les personnes titulaires d'un certificat professionnel relatif à un métier désigné;
+
+b) les personnes titulaires d'un certificat d'aptitude professionnelle relatif à une profession désignée;
+
+c) les personnes qui appartiennent à une catégorie réglementaire de personnes qui sont assujetties à la présente loi.
 
 ### SIGNIFICATION DE DOCUMENTS
 
@@ -1113,6 +1133,8 @@ p) prendre des mesures concernant les sanctions administratives pouvant être im
 q) indiquer les décisions du directeur général qui peuvent faire l'objet d'un appel à la commission d'appel, en plus de celles prévues au paragraphe 41(1);
 
 r) prendre des mesures concernant le déroulement des appels prévus à l'article 41;
+
+r.1) prendre des mesures concernant le registre établi en application de l'article 42.1, notamment en ce qui a trait aux renseignements et aux catégories supplémentaires de personnes qui doivent y figurer;
 
 s) fixer les droits qui peuvent être imposés en vertu de la présente loi, y compris les droits relatifs à l'enregistrement des contrats d'apprentissage, à l'évaluation de la formation et de l'expérience antérieures, aux examens, à la délivrance des certificats professionnels ou des certificats d'aptitude professionnelle, à l'examen et à l'évaluation des titres de compétences ainsi qu'à la délivrance des permis temporaires;
 

@@ -11,7 +11,7 @@ document_date: "1987-01-01"
 translation: "../fr/CCSM-c-R130.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:14:41Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:14:42Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/r130.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:14:41Z"
+    last_modified: "2026-11-14T11:14:42Z"
 ---
 
 # The Retail Sales Tax Act
@@ -324,7 +324,7 @@ for consumption by the person at the person's own expense, by anyone else at the
 
 (b) machinery, equipment, an apparatus or a storage structure — other than a warehouse, grain elevator or other storage building prescribed by regulation — that is installed on, under or in, or attached to, buildings or land and used in manufacturing, producing, processing, storing, handling, packaging, displaying, measuring, monitoring, transporting, transmitting or distributing tangible personal property, or in providing a service,
 
-(c) plumbing, heating, cooling, vacuum, electrical, electronic and telecommunication systems and components installed on, under or in, or attached to, buildings or land,
+(c) plumbing, heating, cooling, ventilation, vacuum, electrical, electronic and telecommunication systems and components installed on, under or in, or attached to, buildings or land,
 
 (d) devices for attaching property referred to clause (b) or (c) to land or a building,
 
@@ -1845,7 +1845,7 @@ is of
 
 3(22.1) Despite section 2, when the following items are included as part of a sale or lease of land and buildings, no tax is payable on those items if tax was previously paid under section 2 on their fair value:
 
-(a) the plumbing, heating, cooling, electrical, electronic and telecommunication systems and components installed on, under or in, or attached to, the land or buildings;
+(a) the plumbing, heating, cooling, ventilation, vacuum, electrical, electronic and telecommunication systems and components installed on, under or in, or attached to, the land or buildings;
 
 (b) the devices attaching the systems or components referred to in clause (a) to the land or buildings;
 

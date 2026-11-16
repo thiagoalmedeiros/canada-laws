@@ -11,7 +11,7 @@ document_date: "1986-03-07"
 translation: "../en/Man-Reg-62-86.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:29:17Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:29:18Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/062-86.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:29:17Z"
+    last_modified: "2026-11-14T11:29:18Z"
 ---
 
 # Règlement sur la garde d'enfants
@@ -2018,14 +2018,14 @@ b) le montant pertinent indiqué en regard pour le genre de services de garde :
 | --- | --- | --- |
 | Enfant en bas âge — moins de 4 heures par jour | 10,00 $ | 6,10 $ |
 | Enfant en bas âge — de 4 à 10 heures par jour | 20,00 $ | 12,20 $ |
-| Enfant en bas âge — plusieurs modifications de 10 heures par jour | 30,00 $ | 18,30 $ |
+| Enfant en bas âge — plus de 10 heures par jour | 30,00 $ | 18,30 $ |
 | Enfant d'âge préscolaire — moins de 4 heures par jour | 5,40 $ | 4,10 $ |
 | Enfant d'âge préscolaire — de 4 à 10 heures par jour | 10,80 $ | 8,20 $ |
-| Enfant d'âge préscolaire — plusieurs modifications de 10 heures par jour | 16,20 $ | 12,30 $ |
+| Enfant d'âge préscolaire — plus de 10 heures par jour | 16,20 $ | 12,30 $ |
 | Enfant d'âge scolaire — 3 périodes de fréquentation durant un jour scolaire | 0,30 $ | 0,30 $ |
 | Enfant d'âge scolaire — moins de 4 heures par jour | 5,40 $ | 4,10 $ |
 | Enfant d'âge scolaire — de 4 à 10 heures par jour | 10,80 $ | 8,20 $ |
-| Enfant d'âge scolaire — plusieurs modifications de 10 heures par jour | 16,20 $ | 12,30 $ |
+| Enfant d'âge scolaire — plus de 10 heures par jour | 16,20 $ | 12,30 $ |
 
 ## ANNEXE C
 

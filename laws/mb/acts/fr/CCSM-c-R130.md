@@ -11,7 +11,7 @@ document_date: "1987-01-01"
 translation: "../en/CCSM-c-R130.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:14:41Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:14:42Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/r130.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:14:41Z"
+    last_modified: "2026-11-14T11:14:42Z"
 ---
 
 # Loi de la taxe sur les ventes au détail
@@ -72,7 +72,7 @@ a) Biens personnels qui peuvent être mesurés ou perçus par les sens d'une man
 
 b) machinerie, équipement, appareillage et constructions servant à l'entreposage — à l'exclusion des entrepôts, des silos à grains et des autres bâtiments réglementaires servant à l'entreposage — qui sont installés sur, sous ou dans des bâtiments ou des biens-fonds ou y sont fixés et qui sont utilisés pour la fabrication, la production, la transformation, l'entreposage, la manutention, le conditionnement, l'étalage, le mesurage, la surveillance, le transport, la transmission ou la distribution de biens personnels corporels ou pour fournir un service;
 
-c) plomberie, installations de chauffage, systèmes de refroidissement ou d'aspirateurs, circuits électriques, systèmes électroniques et de télécommunication et leurs composants installés sur, sous ou dans des bâtiments ou sur des biens-fonds ou fixés à ceux-ci;
+c) plomberie et systèmes de chauffage, de refroidissement, de ventilation, d'aspiration, électriques, électroniques ou de télécommunication ainsi que leurs composants installés sur, sous ou dans des bâtiments ou sur des biens-fonds ou fixés à ces bâtiments ou biens-fonds;
 
 d) dispositifs utilisés afin de fixer à un bâtiment ou à un bien-fonds les biens visés à l'alinéa b) ou c);
 
@@ -1747,7 +1747,7 @@ e) la taxe a été antérieurement payée conformément à la juste valeur de la
 
 3(22.1) Malgré l'article 2, si les éléments suivants sont inclus lorsque des biens-fonds et des bâtiments sont vendus ou donnés à bail, aucune taxe n'est payable à leur égard pour autant que la taxe ait été antérieurement payée conformément à cet article sur leur juste valeur :
 
-a) plomberie, installations de chauffage, systèmes de refroidissement, circuits électriques, systèmes électroniques et de télécommunication et leurs composants installés sur, sous ou dans les bâtiments ou les biens-fonds ou fixés à ces bâtiments ou biens-fonds;
+a) plomberie et systèmes de chauffage, de refroidissement, de ventilation, d'aspiration, électriques, électroniques ou de télécommunication ainsi que leurs composants installés sur, sous ou dans des bâtiments ou sur des biens-fonds ou fixés à ces bâtiments ou biens-fonds;
 
 b) dispositifs utilisés afin de fixer aux bâtiments ou aux biens-fonds les éléments visés à l'alinéa a);
 
@@ -1757,7 +1757,7 @@ c) stores, rideaux et autres revêtements intérieurs de fenêtres qui sont inst
 
 3(22.2) Malgré l'article 2, aucune taxe n'est payable relativement à l'achat d'un bien personnel corporel qui répond aux critères suivants :
 
-a) le bien est désigné par règlement à titre de bien de fabrication ou de transformation exempté de taxe ou, dans le cas où aucun bien n'est désigné par règlement, il s'agit d'un « bien admissible » pour l'application de l'article 7.2 de la Loi de l'impôt sur le revenu ;
+a) plomberie et systèmes de chauffage, de refroidissement, de ventilation, d'aspiration, électriques, électroniques ou de télécommunication ainsi que leurs composants installés sur, sous ou dans des bâtiments ou sur des biens-fonds ou fixés à ces bâtiments ou biens-fonds;
 
 b) s'il s'agit d'un bien que l'acheteur a apporté dans la province, il ne l'a pas utilisé à l'extérieur de la province à des fins de fabrication ou de transformation de marchandises en vue de leur vente ou de leur location;
 

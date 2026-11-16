@@ -11,7 +11,7 @@ document_date: "2002-08-09"
 translation: "../en/CCSM-c-D101.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:04:03Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:04:03Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/d101.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:04:03Z"
+    last_modified: "2026-11-14T11:04:03Z"
 ---
 
 # Loi sur la qualité de l'eau potable
@@ -62,7 +62,7 @@ a) d'un laboratoire accrédité conformément aux règlements;
 
 b) d'une installation d'essais approuvée par le directeur et exploitée conformément aux règlements. ("laboratory")
 
-« médecin hygiéniste » Médecin hygiéniste nommé en vertu de la Loi sur la santé publique. ("medical officer")
+« médecin hygiéniste » Médecin hygiéniste nommé ou désigné en vertu de la Loi sur la santé publique. ("medical officer")
 
 « ministre » Le ministre chargé par le lieutenant-gouverneur en conseil de l'application de la présente loi. ("minister")
 
@@ -278,15 +278,35 @@ c) qui se rapporte à la qualité de l'eau potable actuellement obtenue du rése
 
 ### Exigences plus sévères
 
-11(7) Il est permis, en vertu du présent article ou de l'article 12 ou 13, de donner au fournisseur d'un service d'eau un ordre comportant des exigences qui sont plus sévères que les normes de qualité pour l'eau potable prévues par règlement.
+11(7) Il est permis, en vertu du présent article ou de l'article 12, 12.1 ou 13, de donner au fournisseur d'un service d'eau un ordre comportant des exigences qui sont plus sévères que les normes de qualité pour l'eau potable prévues par règlement.
 
 ### Ordre révoqué ou modifié par le directeur
 
 12 Le directeur peut ordonner la révocation ou la modification de l'ordre qu'un agent du Service de l'eau potable a donné en vertu de l'article 11.
 
+### Ordre d'assurer le fonctionnement d'un réseau d'alimentation en eau
+
+12.1(1) Après avoir effectué une enquête raisonnable ne permettant pas d'établir qui est le propriétaire d'un réseau d'alimentation en eau ou permettant plutôt de déterminer que le réseau n'a pas de propriétaire, le directeur peut ordonner à une personne qui est propriétaire du bien-fonds où se trouve le réseau, ou qui en a la responsabilité, de prendre en main la totalité ou une partie du réseau et d'en assurer le fonctionnement et la gestion pour une période qu'il précise, et ce, aux frais de cette personne et conformément aux conditions que prévoit l'ordre.
+
+### Conditions
+
+12.1(2) Le directeur ne peut donner l'ordre que si les conditions prévues au paragraphe 11(1) sont réunies.
+
+### Licence d'exploitation obligatoire
+
+12.1(3) S'il s'agit d'un réseau public ou semi-public d'alimentation en eau, la personne qui reçoit l'ordre est tenue d'obtenir une licence d'exploitation à l'égard du réseau dans le délai qui y est précisé.
+
+### Conformité à la présente loi
+
+12.1(4) Pour l'application de la présente loi et sauf disposition contraire de l'ordre, la personne qui reçoit l'ordre est réputée être fournisseur d'un service d'eau à l'égard du réseau.
+
+### Autres ordres
+
+12.1(5) Le directeur peut donner l'ordre malgré tout autre ordre donné en vertu des articles 11 ou 12.
+
 ### Ordre visant l'embauche d'un exploitant intérimaire
 
-13(1) Si les conditions pour que soit donné un ordre en vertu du paragraphe 11(1) sont réunies, le ministre peut ordonner au fournisseur d'un service d'eau, en plus de tout autre ordre visé à l'article 11 ou 12, de conclure un accord avec une autre personne afin que celle-ci prenne en main la totalité ou une partie d'un réseau d'alimentation en eau et en assure le fonctionnement et la gestion pour une période qu'il précise, cette prise en main devant s'effectuer aux frais du fournisseur et conformément aux conditions que prévoit l'ordre.
+13(1) Si les conditions pour que soit donné un ordre en vertu du paragraphe 11(1) sont réunies, le ministre peut ordonner au fournisseur d'un service d'eau, en plus de tout autre ordre visé à l'article 11, 12 ou 12.1, de conclure un accord avec une autre personne afin que celle-ci prenne en main la totalité ou une partie d'un réseau d'alimentation en eau et en assure le fonctionnement et la gestion pour une période qu'il précise, et ce, aux frais du fournisseur et conformément aux conditions que prévoit l'ordre.
 
 ### Exploitant intérimaire
 
@@ -316,7 +336,7 @@ b) l'efficacité des mesures de gestion de l'environnement.
 
 ### Mesures en cas de non-respect
 
-15(1) À moins que l'ordre ne soit suspendu en vertu du paragraphe 16(3), si la personne à qui il est donné en vertu de l'article 10, 11, 12 ou 13 omet de s'y conformer :
+15(1) À moins que l'ordre ne soit suspendu en vertu du paragraphe 16(3), si la personne à qui il est donné en vertu de l'un des articles 10 à 13 omet de s'y conformer :
 
 a) le directeur peut, avec l'approbation d'un médecin hygiéniste, suspendre, annuler ou refuser de renouveler la licence d'exploitation du réseau d'alimentation en eau;
 
@@ -336,7 +356,7 @@ a) une décision prise en vertu de l'article 2;
 
 b) une décision prise en vertu de l'article 7 ou 8 ou des règlements et se rapportant à la délivrance ou au renouvellement d'un permis ou d'une licence, au refus de les délivrer ou de les renouveler, à leur modification, à leur suspension ou à leur annulation ou encore aux conditions qui les assortissent;
 
-c) un ordre donné en vertu de l'article 10, 11 ou 12.
+c) un ordre donné en vertu de l'article 10, 11, 12 ou 12.1.
 
 ### Contenu de l'avis d'appel
 

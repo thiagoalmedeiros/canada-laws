@@ -11,7 +11,7 @@ document_date: "2009-10-08"
 translation: "../fr/CCSM-c-A110.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba legislation is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-07T11:00:20Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:00:20Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/statutes/ccsm/a110.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/LEGISLATION-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-07T11:00:20Z"
+    last_modified: "2026-11-14T11:00:20Z"
 ---
 
 # The Apprenticeship and Certification Act
@@ -58,6 +58,8 @@ THEREFORE HER MAJESTY, by and with the advice and consent of the Legislative Ass
 
 (b) for a compulsory certification trade, the apprenticeship program prescribed for the trade in the regulations. (« programme d'apprentissage »)
 
+"approved service provider" means an educational institution, corporation or organization that has entered into an agreement with the executive director to provide technical training, education or other services under the Act. (« fournisseur de services approuvé »)
+
 "board" means the Apprenticeship and Certification Board continued under section 2. (« Commission »)
 
 "certificate of qualification" means a certificate of qualification issued under subsection 18(3). (« certificat professionnel »)
@@ -85,6 +87,8 @@ THEREFORE HER MAJESTY, by and with the advice and consent of the Legislative Ass
 "minister" means the minister appointed by the Lieutenant Governor in Council to administer this Act. (« ministre »)
 
 "occupational certificate" means an occupational certificate issued under subsection 19.1(2). (« certificat d'aptitude professionnelle »)
+
+"personal information" means personal information as defined in The Freedom of Information and Protection of Privacy Act. (« renseignements personnels »)
 
 "practical experience" means the part of an apprenticeship program or certification program in which a person learns the skill of a designated trade or designated occupation through work experience under supervision. (« expérience pratique »)
 
@@ -986,13 +990,29 @@ under supervision and inspections that are appropriate to the operations or proc
 
 42(1) For the purpose of administering and enforcing this Act and the regulations,
 
-(a) the executive director may provide information collected or obtained under this Act or the regulations to a department of the government or a department or agency of the Government of Canada or of another province; and
+(a) the executive director may provide information collected or obtained under this Act or the regulations to an approved service provider, a department of the government or a department or agency of the Government of Canada or of another province; and
 
 (b) a director appointed under subsection 32(1) may provide information collected or obtained under this Act or the regulations to the executive director.
 
-### Interpretation: "information"
+### Restriction on sharing personal information
 
-42(2) In subsection (1), "information" includes personal information as defined in The Freedom of Information and Protection of Privacy Act, but only to the extent required to enforce this Act and the regulations, or to develop, implement or administer apprenticeship programs in designated trades and certification programs in designated occupations.
+42(2) The information provided under subsection (1) may include personal information, but the amount of personal information provided must be restricted to the minimum amount required for the purpose of that subsection.
+
+### REGISTRY
+
+### Registry
+
+42.1(1) Within 60 days after the coming into force of this section, the executive director must establish an online registry that provides a means for members of the public to confirm the qualifications of specified persons who are subject to this Act.
+
+### Information in registry
+
+42.1(2) The registry must contain prescribed information respecting
+
+(a) every person who holds a certificate of qualification in a designated trade;
+
+(b) every person who holds an occupational certificate in a designated occupation; and
+
+(c) every person who is part of a prescribed class of persons who are subject to this Act.
 
 ### SERVICE OF DOCUMENTS
 
@@ -1143,6 +1163,12 @@ shall be admitted in evidence as proof, in the absence of evidence to the contra
 (q) specifying decisions of the executive director that may be appealed to the appeal board, in addition to those in subsection 41(1);
 
 (r) respecting the procedures to be followed in appeals conducted under section 41;
+
+(r.1) respecting the registry established under section 42.1, including
+
+(i) information to be contained in the registry, and
+
+(ii) any additional classes of persons to be included in the registry;
 
 (s) prescribing fees that may be charged under this Act, including, without limitation, fees for registering apprenticeship agreements, assessing prior training and experience, taking examinations, issuing certificates of qualification or occupational certificates, reviewing and assessing credentials and issuing temporary permits;
 
